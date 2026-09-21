@@ -29,7 +29,7 @@
             </header>
             <div class="lobby-content">
                 <!-- User Profile Card / Personal Cabinet Entry -->
-                <div id="quiz-user-profile-card" class="lobby-card user-profile-card" style="background: linear-gradient(135deg, rgba(33, 38, 45, 0.9), rgba(22, 27, 34, 0.9)); border: 1px solid rgba(88, 166, 255, 0.25); box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);">
+                <div id="quiz-user-profile-card" class="lobby-card user-profile-card" onclick="if(typeof renderCabinetContent==='function')renderCabinetContent();const m=document.getElementById('quiz-profile-modal');if(m)m.style.display='flex';" style="background: linear-gradient(135deg, rgba(33, 38, 45, 0.9), rgba(22, 27, 34, 0.9)); border: 1px solid rgba(88, 166, 255, 0.25); box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4); cursor: pointer;">
                     <div class="user-profile-header" style="display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
                         <div class="user-avatar-badge" id="profile-avatar-btn" style="cursor: pointer; position: relative;" title="Click to open Personal Cabinet">
                             <div class="avatar-glow-ring avatar-doc" id="profile-avatar-icon" style="width: 54px; height: 54px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; color: #fff; box-shadow: 0 0 15px rgba(88, 166, 255, 0.3); border: 2px solid #58a6ff;">
@@ -51,14 +51,14 @@
                                 <span>🎯 <strong id="profile-stat-accuracy" style="color: var(--quiz-text);">0%</strong> accuracy</span>
                             </div>
                         </div>
-                        <div class="user-card-actions" style="display: flex; gap: 8px; flex-wrap: wrap;">
+                        <div class="user-card-actions" onclick="event.stopPropagation();" style="display: flex; gap: 8px; flex-wrap: wrap;">
                             <button type="button" onclick="if(window.AuthSystem) window.AuthSystem.showAccountRequestModal();" class="btn-profile-edit" title="Request Account via Telegram Bot" style="background: rgba(88, 166, 255, 0.15); border: 1px solid rgba(88, 166, 255, 0.4); color: #58a6ff; height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s; display: flex; align-items: center; gap: 6px;">
                                 📲 Request Account
                             </button>
                             <button type="button" id="btn-open-admin-modal" class="btn-profile-edit admin-only" title="Manage Accounts & Requests" style="display: none; background: rgba(234, 179, 8, 0.15); border: 1px solid rgba(234, 179, 8, 0.4); color: #eab308; height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s;">
                                 👑 Admin
                             </button>
-                            <button type="button" id="btn-open-profile-modal" class="btn-profile-edit" title="Personal Cabinet" style="background: rgba(48, 54, 61, 0.5); border: 1px solid var(--quiz-border); color: var(--quiz-text); height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; display: flex; align-items: center; gap: 6px; transition: all 0.2s;">
+                            <button type="button" id="btn-open-profile-modal" onclick="if(typeof renderCabinetContent==='function')renderCabinetContent();const m=document.getElementById('quiz-profile-modal');if(m)m.style.display='flex';" class="btn-profile-edit" title="Personal Cabinet" style="background: rgba(48, 54, 61, 0.5); border: 1px solid var(--quiz-border); color: var(--quiz-text); height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; display: flex; align-items: center; gap: 6px; transition: all 0.2s;">
                                 <i class="fas fa-id-card"></i> Cabinet
                             </button>
                         </div>
@@ -375,7 +375,7 @@
                 <div id="q-score-live" class="quiz-live-score">Correct: 0</div>
                 <div id="quiz-timer" class="quiz-timer" style="display: none; background: rgba(218, 54, 51, 0.1); color: var(--quiz-wrong); padding: 4px 10px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; border: 1px solid rgba(218, 54, 51, 0.3); display: flex; align-items: center; gap: 5px; white-space: nowrap;"><i class="far fa-clock"></i> <span id="timer-val">60</span></div>
                 <button id="btn-mute-question" class="quiz-mute-btn" title="Toggle Sound & Haptics" style="background: none; border: none; color: var(--quiz-text); font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="fas fa-volume-up"></i></button>
-                <button id="btn-toggle-favorite" class="quiz-fav-btn" title="Add to Favorites / Playlist" style="background: none; border: none; color: #eab308; font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.9; transition: transform 0.2s;"><i class="far fa-star"></i></button>
+                <button id="btn-toggle-favorite" onclick="toggleCurrentFavoriteQuestion()" class="quiz-fav-btn" title="Add to Favorites / Playlist" style="background: none; border: none; color: #eab308; font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.9; transition: transform 0.2s;"><i class="far fa-star"></i></button>
                 <button id="btn-report-question" class="quiz-report-btn" title="Report Issue to Admin" style="background: none; border: none; color: #f87171; font-size: 1.1rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="far fa-flag"></i></button>
             </header>
             
@@ -872,7 +872,7 @@
     <!-- KaTeX JS for LaTeX math rendering -->
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
-    <script src="assets/js/quiz.js?v=3.0"></script>
-    <script src="assets/js/overlay-tools.js?v=3.0"></script>
+    <script src="assets/js/quiz.js?v=4.1"></script>
+    <script src="assets/js/overlay-tools.js?v=4.0"></script>
 </body>
 </html>

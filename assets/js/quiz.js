@@ -9,6 +9,8 @@ const state = {
     currentSelected: [],
     startTime: 0,
     questionStartTime: 0,
+    userFavorites: [],
+    userPlaylists: [],
     settings: {
         count: 100, // Default to a higher number
         shuffle: true,
@@ -28,6 +30,71 @@ const state = {
     allBooksWithQuizzes: [],
     setQuestionsMap: {}
 };
+
+/**
+ * Helper to ensure all sets/manifests for the current book are loaded into state
+ */
+async function loadAllSetsForBook() {
+    if (!state.selectedSets || state.selectedSets.length === 0) {
+        if (state.bookMeta && Array.isArray(state.bookMeta.quiz_sets)) {
+            state.selectedSets = state.bookMeta.quiz_sets;
+        } else {
+            state.selectedSets = [];
+        }
+    }
+    if (!state.setQuestionsMap) state.setQuestionsMap = {};
+
+    const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+    const bookPrefix = state.bookPath || '';
+
+    for (const setObj of state.selectedSets) {
+        const cacheKey = setObj.id;
+        if (!state.setQuestionsMap[cacheKey]) {
+            try {
+                let jsonUrl = '';
+                if (setObj.file) {
+                    jsonUrl = bookPrefix ? `${rootPath}${bookPrefix}/${setObj.file}` : `${rootPath}${setObj.file}`;
+                } else {
+                    jsonUrl = bookPrefix ? `${rootPath}${bookPrefix}/quizzes/${setObj.id}.json` : `${rootPath}quizzes/${setObj.id}.json`;
+                }
+                const res = await fetch(jsonUrl);
+                if (res.ok) {
+                    const data = await res.json();
+                    let questions = Array.isArray(data) ? data : (data.questions || []);
+                    const manifestId = setObj.id || 'set';
+                    questions = questions.map((q, idx) => {
+                        return Object.assign({}, q, {
+                            id: q.id || `${manifestId}_q${idx + 1}`,
+                            manifestId: manifestId,
+                            setId: cacheKey,
+                            bookPath: bookPrefix
+                        });
+                    });
+                    state.setQuestionsMap[cacheKey] = questions;
+                }
+            } catch (e) {
+                console.error(`Failed loading quiz set ${setObj.id}:`, e);
+            }
+        }
+    }
+}
+
+/**
+ * Helper to collect all loaded questions across all sets in state
+ */
+function getAllQuestionsFromSelectedSets() {
+    const allQ = [];
+    if (state.setQuestionsMap) {
+        Object.values(state.setQuestionsMap).forEach(qList => {
+            if (Array.isArray(qList)) {
+                allQ.push(...qList);
+            }
+        });
+    }
+    return allQ;
+}
+window.loadAllSetsForBook = loadAllSetsForBook;
+window.getAllQuestionsFromSelectedSets = getAllQuestionsFromSelectedSets;
 
 function resolveQuizImg(img, bookPath) {
     if (!img) return '';
@@ -80,14 +147,15 @@ function mapCardToQuestion(card) {
 // --- Spaced Repetition (Leitner Box) & Sensory System ---
 
 function getQuestionKey(q) {
+    if (!q) return 'starley_sr_unknown';
     const qId = q.id !== undefined ? q.id : (q.questionEn || q.question || '').substring(0, 50).replace(/[^a-zA-Z0-9]/g, '_');
-    const setId = q.setId || state.settings.setId || 'full';
+    const setId = q.setId || ((state.settings && state.settings.setId) ? state.settings.setId : 'full');
     const bookPath = q.bookPath || state.bookPath || 'general';
     return `starley_sr_${bookPath.replace(/[^a-zA-Z0-9]/g, '_')}_${setId.replace(/[^a-zA-Z0-9]/g, '_')}_${qId}`;
 }
 
 function getQuestionTopic(q) {
-    const lang = state.settings.lang;
+    const lang = (state.settings && state.settings.lang) ? state.settings.lang : 'Ru';
     const topic = q.topic;
     if (topic) return topic;
     
@@ -97,7 +165,7 @@ function getQuestionTopic(q) {
     }
     
     // Fallback 2: Set label or book title
-    const book = state.allBooksWithQuizzes.find(b => b.bookPath === q.bookPath);
+    const book = (state.allBooksWithQuizzes || []).find(b => b.bookPath === q.bookPath);
     if (book && book.quiz_sets) {
         const set = book.quiz_sets.find(s => s.id === q.setId);
         if (set) return set.label;
@@ -1182,18 +1250,19 @@ function toggleFavoriteQuestion(q) {
     let favs = getFavoriteQuestionKeys();
     let isFav = false;
 
+    if (!Array.isArray(state.userFavorites)) state.userFavorites = [];
+
     if (favs.includes(key)) {
         favs = favs.filter(k => k !== key);
         isFav = false;
-        state.userFavorites = (state.userFavorites || []).filter(f => String(f.id) !== qId);
+        state.userFavorites = state.userFavorites.filter(f => String(f.id) !== qId);
     } else {
         favs.push(key);
         isFav = true;
-        if (!Array.isArray(state.userFavorites)) state.userFavorites = [];
         if (!state.userFavorites.some(f => String(f.id) === qId)) {
             state.userFavorites.push({
                 id: qId,
-                questionSnippet: (q['question' + (state.settings ? state.settings.lang : 'Ru')] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '').substring(0, 80),
+                questionSnippet: (q['question' + ((state.settings && state.settings.lang) ? state.settings.lang : 'Ru')] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '').substring(0, 80),
                 questionObj: q,
                 addedAt: new Date().toISOString()
             });
@@ -1217,10 +1286,19 @@ function toggleFavoriteQuestion(q) {
 
     syncCloudUserData();
 
-    if (isFav && typeof openPlaylistPickerModal === 'function') {
-        openPlaylistPickerModal(q);
+    if (typeof window.openPlaylistPickerModal === 'function') {
+        window.openPlaylistPickerModal(q);
     }
 }
+window.toggleFavoriteQuestion = toggleFavoriteQuestion;
+
+window.toggleCurrentFavoriteQuestion = function() {
+    let q = (state.questions && state.questions.length > 0) ? state.questions[state.currentIndex] : null;
+    if (!q && state.currentQuestion) q = state.currentQuestion;
+    if (q) {
+        toggleFavoriteQuestion(q);
+    }
+};
 
 function openReportModal(q) {
     const reportModal = document.getElementById('quiz-report-modal');
@@ -3899,16 +3977,17 @@ function renderCabinetOverviewTab() {
 /**
  * Spotify-Style Playlist Picker Modal Logic
  */
-window.openPlaylistPickerModal = function(q) {
+function openPlaylistPickerModal(q) {
     if (!q) return;
 
     const modal = document.getElementById('quiz-playlist-picker-modal');
     if (!modal) return;
 
-    const isRu = state.settings.lang === 'Ru';
+    const lang = (state.settings && state.settings.lang) ? state.settings.lang : 'Ru';
+    const isRu = lang === 'Ru';
 
     const snippetEl = document.getElementById('playlist-picker-q-snippet');
-    const qText = (q['question' + state.settings.lang] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '');
+    const qText = (q['question' + lang] || q.questionEn || q.questionRu || q.question || '').replace(/<[^>]*>/g, '');
     if (snippetEl) snippetEl.textContent = `"${qText.substring(0, 110)}..."`;
 
     const qId = String(q.id || getQuestionKey(q));
@@ -3938,13 +4017,14 @@ window.openPlaylistPickerModal = function(q) {
     }
 
     modal.style.display = 'flex';
-};
+}
+window.openPlaylistPickerModal = openPlaylistPickerModal;
 
 function renderPlaylistPickerOptionsList(qId) {
     const listCont = document.getElementById('playlist-picker-options-list');
     if (!listCont) return;
 
-    const isRu = state.settings.lang === 'Ru';
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
 
     if (!state.userPlaylists || state.userPlaylists.length === 0) {
         listCont.innerHTML = `<div style="color: var(--quiz-muted); font-size: 0.82rem; text-align: center; padding: 10px;">${isRu ? 'Плейлистов пока нет. Создайте первый ниже!' : 'No custom playlists yet. Create your first playlist below!'}</div>`;
@@ -4102,6 +4182,8 @@ window.previewFavoriteQuestion = async function(favId) {
     renderQuestion();
 };
 
+
+
 /**
  * Launch Quiz Session from a Custom Playlist
  */
@@ -4115,7 +4197,6 @@ window.launchPlaylistQuiz = async function(playlistId) {
     const cabinetModal = document.getElementById('quiz-profile-modal');
     if (cabinetModal) cabinetModal.style.display = 'none';
 
-    // Load full set and filter
     await loadAllSetsForBook();
     const allQ = getAllQuestionsFromSelectedSets();
     const plQuestions = allQ.filter(q => pl.questionIds.includes(String(q.id)));
@@ -4411,40 +4492,7 @@ function initFavoriteButtonHandler() {
     favBtn.onclick = () => {
         const q = state.questions[state.currentIndex];
         if (!q) return;
-
-        const qId = String(q.id || (q.questionEn || q.question || '').substring(0, 30));
-        const isFav = state.userFavorites.some(f => String(f.id) === qId);
-
-        if (isFav) {
-            state.userFavorites = state.userFavorites.filter(f => String(f.id) !== qId);
-            favBtn.innerHTML = '<i class="far fa-star"></i>';
-            favBtn.style.color = '#eab308';
-        } else {
-            const isRu = state.settings.lang === 'Ru';
-            state.userFavorites.push({
-                id: qId,
-                questionSnippet: (q['question' + state.settings.lang] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '').substring(0, 80),
-                questionObj: {
-                    id: qId,
-                    bookPath: q.bookPath || state.bookPath || 'general',
-                    setId: q.setId || 'favorite',
-                    questionEn: q.questionEn || q.question || '',
-                    questionRu: q.questionRu || q.question || '',
-                    optionsEn: q.optionsEn || q.options || {},
-                    optionsRu: q.optionsRu || q.options || {},
-                    correctAnswer: q.correctAnswer,
-                    explanationEn: q.explanationEn || q.explanation || '',
-                    explanationRu: q.explanationRu || q.explanation || '',
-                    chapterId: q.chapterId,
-                    multiAnswer: q.multiAnswer
-                },
-                addedAt: new Date().toISOString()
-            });
-            favBtn.innerHTML = '<i class="fas fa-star"></i>';
-            favBtn.style.color = '#eab308';
-        }
-
-        syncCloudUserData();
+        toggleFavoriteQuestion(q);
     };
 }
 
@@ -4682,30 +4730,36 @@ document.addEventListener('DOMContentLoaded', function() {
  * ========================================================================== */
 window.activeManagedPlaylistId = null;
 
-window.openPlaylistManagerModal = async function(playlistId) {
+window.openPlaylistManagerModal = function(playlistId) {
+    if (!Array.isArray(state.userPlaylists)) state.userPlaylists = [];
     const pl = state.userPlaylists.find(p => String(p.id) === String(playlistId));
     if (!pl) return;
 
     window.activeManagedPlaylistId = playlistId;
 
     const modal = document.getElementById('quiz-playlist-manager-modal');
+    if (modal) modal.style.display = 'flex';
+
     const titleEl = document.getElementById('pl-mgr-title');
     const countEl = document.getElementById('pl-mgr-count');
 
     if (titleEl) titleEl.textContent = `📁 ${pl.title}`;
-    if (countEl) countEl.textContent = pl.questionIds.length;
+    if (countEl) countEl.textContent = (pl.questionIds || []).length;
 
-    renderPlaylistManagerQuestions(pl);
-    await populatePlaylistManagerManifestSelect();
+    try {
+        renderPlaylistManagerQuestions(pl);
+    } catch (e) {
+        console.error('Error rendering playlist questions:', e);
+    }
 
-    if (modal) modal.style.display = 'flex';
+    populatePlaylistManagerManifestSelect().catch(e => console.error(e));
 };
 
 function renderPlaylistManagerQuestions(pl) {
     const listCont = document.getElementById('pl-mgr-questions-list');
     if (!listCont) return;
 
-    const isRu = state.settings.lang === 'Ru';
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
 
     if (!pl.questionIds || pl.questionIds.length === 0) {
         listCont.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 20px; font-size: 0.85rem;">${isRu ? 'В этом плейлисте пока нет вопросов. Нажмите "+ Добавить вопросы из библиотеки" выше!' : 'No questions in this playlist yet. Click "+ Add Questions from Library" above!'}</div>`;
@@ -4713,7 +4767,7 @@ function renderPlaylistManagerQuestions(pl) {
     }
 
     listCont.innerHTML = pl.questionIds.map((qId, idx) => {
-        let favMatch = state.userFavorites.find(f => String(f.id) === String(qId));
+        let favMatch = (state.userFavorites || []).find(f => String(f.id) === String(qId));
         let snippet = favMatch ? favMatch.questionSnippet : `Question #${idx + 1} (${qId})`;
 
         return `
@@ -4731,6 +4785,7 @@ function renderPlaylistManagerQuestions(pl) {
 }
 
 window.removeQuestionFromPlaylist = function(playlistId, qId) {
+    if (!Array.isArray(state.userPlaylists)) state.userPlaylists = [];
     const pl = state.userPlaylists.find(p => String(p.id) === String(playlistId));
     if (!pl) return;
 
@@ -4748,10 +4803,18 @@ async function populatePlaylistManagerManifestSelect() {
     const selectEl = document.getElementById('select-pl-mgr-manifest');
     if (!selectEl) return;
 
-    await loadAllSetsForBook();
+    try {
+        if (typeof loadAllSetsForBook === 'function') {
+            await loadAllSetsForBook();
+        } else if (typeof window.loadAllSetsForBook === 'function') {
+            await window.loadAllSetsForBook();
+        }
+    } catch (e) {
+        console.warn('loadAllSetsForBook failed or skipped:', e);
+    }
 
     const manifests = state.selectedSets || [];
-    const isRu = state.settings.lang === 'Ru';
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
 
     if (manifests.length === 0) {
         selectEl.innerHTML = `<option value="">${isRu ? 'Нет загруженных манифестов' : 'No loaded sets available'}</option>`;
@@ -4773,8 +4836,9 @@ function renderPlaylistManagerAddQuestions(setId) {
     const listCont = document.getElementById('pl-mgr-add-questions-list');
     if (!listCont) return;
 
+    if (!Array.isArray(state.userPlaylists)) state.userPlaylists = [];
     const pl = state.userPlaylists.find(p => String(p.id) === String(window.activeManagedPlaylistId));
-    const isRu = state.settings.lang === 'Ru';
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
 
     const questionsInSet = (state.setQuestionsMap && state.setQuestionsMap[setId]) ? state.setQuestionsMap[setId] : [];
 

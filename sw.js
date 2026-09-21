@@ -1,5 +1,5 @@
-const CACHE_STATIC = 'static-v11';
-const CACHE_DYNAMIC = 'dynamic-v11';
+const CACHE_STATIC = 'static-v12';
+const CACHE_DYNAMIC = 'dynamic-v12';
 
 const APP_SHELL = [
   './',
@@ -72,8 +72,8 @@ self.addEventListener('fetch', event => {
     return;
   }
 
-  // 🌐 HTML → network first
-  if (req.headers.get('accept')?.includes('text/html')) {
+  // 🌐 JS & HTML → network first (with cache fallback)
+  if (req.url.includes('.js') || req.headers.get('accept')?.includes('text/html')) {
     event.respondWith(
       fetch(req)
         .then(res => {
