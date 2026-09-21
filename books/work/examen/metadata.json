@@ -76,6 +76,11 @@
         "id": "congenital",
         "label": "🧑‍⚕️💊Congenital from SEATS💚",
         "file": "quiz/quiz-congenital.json"
+      },
+      {
+        "id": "200pqcs",
+        "label": "💛200 PRACTICE QUESTIONS IN CARDIOTHORACIC SURGERY💛",
+        "file": "quiz/quiz-200pqcs.json"
       }
           ],
     "versions": {

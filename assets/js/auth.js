@@ -392,6 +392,15 @@ window.logout = function() {
             window.location.href = 'index.html';
         }
     }
+
+    function applyAdminAccess() {
+        const adminElements = document.querySelectorAll('[data-role="admin"], .admin-only, a[href*="manifest-editor.html"], a[href*="editor.html"]');
+        adminElements.forEach(el => {
+            if (el.style.display === 'none') {
+                el.style.display = '';
+            }
+        });
+    }
     
     function showRoleIndicator(userInfo) {
         if (!userInfo) return;
@@ -401,15 +410,17 @@ window.logout = function() {
         const indicator = document.createElement('div');
         indicator.id = 'role-indicator';
         indicator.className = `role-indicator role-${userInfo.role}`;
-        indicator.style.cssText = 'position: fixed; top: 12px; right: 12px; z-index: 9999; display: flex; align-items: center; gap: 8px; padding: 6px 12px; border-radius: 20px; background: rgba(22, 27, 34, 0.9); border: 1px solid var(--quiz-border, #30363d); color: #f0f6fc; font-size: 0.82rem; font-weight: 700; box-shadow: 0 4px 12px rgba(0,0,0,0.4); backdrop-filter: blur(8px); cursor: grab;';
+        
+        const borderColor = userInfo.role === 'admin' ? '#f59e0b' : '#38bdf8';
+        indicator.style.cssText = `position: fixed; top: 12px; right: 12px; z-index: 10000; display: flex; align-items: center; gap: 8px; padding: 6px 14px; border-radius: 20px; background: rgba(15, 23, 42, 0.95); border: 2px solid ${borderColor}; color: #ffffff; font-size: 0.84rem; font-weight: 700; box-shadow: 0 6px 20px rgba(0,0,0,0.5), 0 0 0 1px rgba(255,255,255,0.15); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); cursor: grab; user-select: none;`;
         
         const avatarIcon = userInfo.role === 'admin' ? '👑' : (userInfo.isGuest ? '👤' : '🩺');
         const badgeTitle = userInfo.role === 'admin' ? 'Admin' : (userInfo.isGuest ? 'Guest' : 'User');
 
         indicator.innerHTML = `
-            <span class="role-icon">${avatarIcon}</span>
-            <span class="role-name">${userInfo.nickname || userInfo.name} (${badgeTitle})</span>
-            <button onclick="window.logout()" class="logout-btn" title="Logout" style="background: none; border: none; color: #f87171; cursor: pointer; padding: 2px 4px; font-size: 0.9rem;">🚪</button>
+            <span class="role-icon" style="font-size: 1.1rem; pointer-events: none;">${avatarIcon}</span>
+            <span class="role-name" style="color: #ffffff !important; font-weight: 700 !important; text-shadow: 0 1px 3px rgba(0,0,0,0.8); pointer-events: none;">${userInfo.nickname || userInfo.name} (${badgeTitle})</span>
+            <button onclick="window.logout()" class="logout-btn" title="Logout" style="background: none; border: none; color: #f87171; cursor: pointer; padding: 2px 4px; font-size: 0.95rem; margin-left: 2px;">🚪</button>
         `;
         document.body.appendChild(indicator);
         makeDraggable(indicator);
@@ -525,10 +536,12 @@ window.logout = function() {
         if (document.readyState === 'loading') {
             document.addEventListener('DOMContentLoaded', function() {
                 if (user.role === 'user') applyUserRestrictions();
+                if (user.role === 'admin') applyAdminAccess();
                 showRoleIndicator(user);
             });
         } else {
             if (user.role === 'user') applyUserRestrictions();
+            if (user.role === 'admin') applyAdminAccess();
             showRoleIndicator(user);
         }
     }

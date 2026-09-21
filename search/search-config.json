@@ -1,6 +1,10 @@
 {
-  "generated": "2026-08-05T07:38:48.826Z",
+  "generated": "2026-09-20T16:18:17.089Z",
   "categories": {
+    "quiz": {
+      "title": "Quiz Questions",
+      "icon": "🧠"
+    },
     "summary": {
       "title": "Summary",
       "icon": "📝"

@@ -8,6 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/auth.css">
     <link rel="stylesheet" href="../assets/css/reader.css?v=2.7">
     <link rel="stylesheet" href="search.css?v=2.7">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
@@ -23,6 +24,8 @@
             <a href="../highlights.html" class="spotlight-nav-btn">🔖 Highlights</a>
             <a href="search.html" class="active">🔍 Search</a>
             <a href="../quiz.html" class="spotlight-nav-btn">🧠 Quiz</a>
+            <a href="../editor.html" class="spotlight-nav-btn" data-role="admin">✏️ Editor</a>
+            <a href="../manifest-editor.html" class="spotlight-nav-btn" data-role="admin">🛠️ Manifest</a>
         </nav>
     </header>
 
@@ -30,8 +33,18 @@
         <!-- Search Input Box -->
         <div class="spotlight-input-box">
             <i class="fas fa-search spotlight-input-icon"></i>
-            <input type="text" id="search-input" class="spotlight-input-field" placeholder="Search keywords, protocols, dosages... (e.g. heparin, aortic valve, tetralogy)" autofocus autocomplete="off" spellcheck="false">
+            <input type="text" id="search-input" class="spotlight-input-field" placeholder="Search keywords, phrases or quiz questions... (e.g. аннулопластика, type:quiz, in:ru)" autofocus autocomplete="off" spellcheck="false">
             <kbd class="spotlight-shortcut-kbd">⌘K / Ctrl+K</kbd>
+        </div>
+
+        <!-- Search Prompt Directives Helper Chips -->
+        <div class="spotlight-prompts-bar">
+            <span class="prompts-label">💡 Search Prompts:</span>
+            <button class="spotlight-prompt-chip" data-prompt="exact" title="Exact Phrase Match">"exact phrase"</button>
+            <button class="spotlight-prompt-chip" data-prompt="type:quiz" title="Search Quiz Questions Only">type:quiz 🧠</button>
+            <button class="spotlight-prompt-chip" data-prompt="type:book" title="Search Book Chapters Only">type:book 📖</button>
+            <button class="spotlight-prompt-chip" data-prompt="in:ru" title="Filter Russian Content">in:ru 🇷🇺</button>
+            <button class="spotlight-prompt-chip" data-prompt="in:en" title="Filter English Content">in:en 🇬🇧</button>
         </div>
 
         <!-- Advanced Search Filters Row (Multi-Topic, Multi-Book Select, Flags Lang) -->
@@ -87,16 +100,18 @@
         <!-- Fast Filter Chips Bar & High-Visibility Status Badge -->
         <div class="spotlight-chips-bar">
             <button class="spotlight-chip is-active" data-filter="all">All Topics</button>
+            <button class="spotlight-chip" data-filter="quiz">🧠 Quiz Questions</button>
             <button class="spotlight-chip" data-filter="cardiac_surgery">🫀 Cardiac Surgery</button>
             <button class="spotlight-chip" data-filter="icu">🏥 Intensive Care</button>
             <button class="spotlight-chip" data-filter="cardiology">❤️ Cardiology</button>
             <button class="spotlight-chip" data-filter="anatomy">🦴 Anatomy</button>
             <button class="spotlight-chip" data-filter="drugs">💊 Drugs</button>
 
-            <!-- Prominent Animated Status Badge -->
+            <!-- Prominent Animated Status Badge & Re-index Button -->
             <div id="search-status-badge" class="spotlight-status-badge">
                 <i id="search-status-icon" class="fas fa-check-circle"></i>
                 <span id="search-status-text">Loading search index...</span>
+                <button id="btn-reindex-inventory" class="spotlight-reindex-btn" title="Clear cache & reload latest library inventory">🔄 Re-index</button>
             </div>
         </div>
 
@@ -131,6 +146,7 @@
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="../assets/js/auth.js?v=1.1"></script>
     <script src="search-ui.js?v=2.7"></script>
 </body>
 </html>

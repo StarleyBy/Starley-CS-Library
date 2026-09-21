@@ -6,6 +6,7 @@
     <title>Starley Manifest Editor</title>
     <link rel="stylesheet" href="assets/css/styles.css?v=2.2">
     <link rel="stylesheet" href="assets/css/manifest-editor.css?v=1.5">
+    <link rel="stylesheet" href="assets/css/auth.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <!-- KaTeX for LaTeX math rendering -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
@@ -22,9 +23,9 @@
             <span class="me-header-title">🛠️ Starley Manifest Editor</span>
             <nav class="me-header-nav">
                 <a href="index.html">Library</a>
-                <a href="editor.html">Editor</a>
+                <a href="editor.html" data-role="admin">Editor</a>
                 <a href="quiz.html">Quiz</a>
-                <a href="manifest-editor.html" class="active">Manifests</a>
+                <a href="manifest-editor.html" class="active" data-role="admin">Manifests</a>
             </nav>
             <div class="me-header-layout">
                 <button id="me-btn-toggle-sidebar" class="me-layout-btn active" title="Toggle Sidebar (Files & Navigation)">
@@ -233,6 +234,7 @@
     </div>
 
     <script src="assets/js/config.js?v=1.2"></script>
+    <script src="assets/js/auth.js?v=1.1"></script>
     <!-- KaTeX JS for LaTeX math rendering -->
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>

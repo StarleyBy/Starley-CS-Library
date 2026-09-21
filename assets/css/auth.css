@@ -115,30 +115,33 @@
 /* Индикатор роли */
 .role-indicator {
     position: fixed;
-    top: 20px;
-    right: 20px;
-    background: white;
-    padding: 0.5rem 1rem;
+    top: 12px;
+    right: 12px;
+    background: rgba(15, 23, 42, 0.95) !important;
+    color: #ffffff !important;
+    padding: 0.45rem 0.9rem;
     border-radius: 20px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5), 0 0 0 1px rgba(255, 255, 255, 0.15);
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    font-size: 0.9rem;
-    z-index: 1000;
+    font-size: 0.85rem;
+    z-index: 10000;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
     animation: slideInRight 0.3s ease;
     cursor: grab; /* Показываем, что можно перетаскивать */
     user-select: none; /* Отключаем выделение текста */
-    transition: box-shadow 0.2s;
+    transition: box-shadow 0.2s, transform 0.15s ease;
 }
 
 .role-indicator:hover {
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(255, 255, 255, 0.25);
 }
 
 .role-indicator:active {
     cursor: grabbing;
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7);
 }
 
 @keyframes slideInRight {
@@ -153,22 +156,24 @@
 }
 
 .role-admin {
-    border: 2px solid #f39c12;
+    border: 2px solid #f59e0b !important;
 }
 
 .role-user {
-    border: 2px solid #3498db;
+    border: 2px solid #38bdf8 !important;
 }
 
 .role-icon {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     pointer-events: none; /* Иконка не мешает перетаскиванию */
 }
 
 .role-name {
-    font-weight: 600;
-    color: #2c3e50;
+    font-weight: 700 !important;
+    color: #ffffff !important;
     pointer-events: none; /* Текст не мешает перетаскиванию */
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
+    letter-spacing: 0.01em;
 }
 
 .logout-btn {
@@ -371,28 +376,14 @@
     75% { transform: translateX(10px); }
 }
 
-/* Индикатор роли */
-.role-indicator {
-    position: fixed;
-    top: 20px;
-    right: 20px;
-    background: white;
-    padding: 0.5rem 1rem;
-    border-radius: 20px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    font-size: 0.9rem;
-    z-index: 1000;
-}
-
-.role-admin {
-    border: 2px solid #f39c12;
-}
-
-.role-user {
-    border: 2px solid #3498db;
+/* Индикатор роли mobile adjustments */
+@media (max-width: 768px) {
+    .role-indicator {
+        top: 10px;
+        right: 10px;
+        padding: 6px 10px;
+        font-size: 0.78rem;
+    }
 }
 
 .logout-btn {

@@ -808,6 +808,8 @@ function _initRadialMenu() {
         { id: 'highlights', icon: 'fas fa-highlighter', color: 'text-yellow',  label: 'Highlights',  handler: () => window.location.href = 'highlights.html' },
         { id: 'magazine',   icon: 'fas fa-newspaper',   color: 'text-purple',  label: 'Magazine',    handler: () => document.getElementById('mag-header-btn')?.click() },
         { id: 'quiz',       icon: 'fas fa-brain',       color: 'text-emerald', label: 'Quiz',        handler: () => document.getElementById('quiz-header-btn')?.click() },
+        { id: 'editor',     icon: 'fas fa-edit',        color: 'text-amber',   label: 'Editor',      role: 'admin', handler: () => window.location.href = 'editor.html' },
+        { id: 'manifest',   icon: 'fas fa-sliders-h',   color: 'text-rose',    label: 'Manifests',   role: 'admin', handler: () => window.location.href = 'manifest-editor.html' },
         { id: 'calc',       icon: 'fas fa-calculator',  color: 'text-blue',     label: 'Medical Calc',handler: () => window.StarleyOverlayTools?.MedicalCalc?.show() },
         { id: 'scratchpad', icon: 'fas fa-pen-nib',     color: 'text-green',    label: 'Draw Notes',  handler: () => window.StarleyOverlayTools?.Scratchpad?.show() }
     ];
@@ -819,7 +821,9 @@ function _initRadialMenu() {
     function renderCurtainChips() {
         const grid = actionCurtain?.querySelector('.curtain-grid');
         if (!grid) return;
-        grid.innerHTML = window.ACTION_CURTAIN_REGISTRY.map(item => `
+        const isAdmin = window.AuthSystem ? window.AuthSystem.isAdmin() : true;
+        const items = window.ACTION_CURTAIN_REGISTRY.filter(item => !item.role || (item.role === 'admin' && isAdmin));
+        grid.innerHTML = items.map(item => `
             <button class="curtain-chip" data-curtain-id="${item.id}">
                 <i class="${item.icon} ${item.color}"></i>
                 <span>${item.label}</span>
