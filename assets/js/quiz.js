@@ -3950,66 +3950,96 @@ function initPersonalCabinet() {
         };
     });
 
-    // Create Playlist Button
+    // Create Playlist Button Handler
     const createPlaylistBtn = document.getElementById('btn-create-playlist');
     if (createPlaylistBtn) {
-        createPlaylistBtn.onclick = () => {
-            const title = prompt('Enter new custom playlist title (e.g., CABG Board Review):');
-            if (title && title.trim()) {
-                const newPlaylist = {
-                    id: 'pl_' + Date.now(),
-                    title: title.trim(),
-                    questionIds: [],
-                    createdAt: new Date().toISOString()
-                };
-                state.userPlaylists.push(newPlaylist);
-                syncCloudUserData();
-                renderPlaylistsTab();
-            }
-        };
+        createPlaylistBtn.onclick = () => window.createNewCustomPlaylist();
     }
 
-    // Avatar Option Selection Grid
-    const avatarOptBtns = document.querySelectorAll('.avatar-opt-btn');
-    avatarOptBtns.forEach(btn => {
-        btn.onclick = () => {
-            avatarOptBtns.forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            const selectedAvatar = btn.dataset.avatar || 'doc';
-            const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-            if (user) {
-                user.avatar = selectedAvatar;
-                window.AuthSystem.setAuthenticated(user);
-            }
-            if (state.userProfile) {
-                state.userProfile.avatar = selectedAvatar;
-            }
-            updateUserProfileDisplay();
-            syncCloudUserData();
-        };
-    });
-
-    // Profile Save Button
+    // Profile Save Button Handler
     const saveProfileBtn = document.getElementById('btn-save-profile');
     if (saveProfileBtn) {
-        saveProfileBtn.onclick = () => {
-            const nickInput = document.getElementById('input-profile-nickname');
-            const newNick = nickInput ? nickInput.value.trim() : '';
-            if (newNick) {
-                const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-                if (user) {
-                    user.nickname = newNick;
-                    window.AuthSystem.setAuthenticated(user);
-                    const nameDisplay = document.getElementById('profile-nickname-display');
-                    if (nameDisplay) nameDisplay.textContent = newNick;
-                }
-            }
-            syncCloudUserData();
-            if (cabinetModal) cabinetModal.style.display = 'none';
-            alert('✓ Profile and cloud settings updated successfully!');
-        };
+        saveProfileBtn.onclick = () => window.saveUserProfileChanges();
     }
 }
+
+/**
+ * Create New Custom Playlist
+ */
+window.createNewCustomPlaylist = function() {
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+    const promptMsg = isRu ? 'Введите название нового плейлиста (например, Аортальная хирургия):' : 'Enter new custom playlist title (e.g., Aortic Surgery Review):';
+    const title = prompt(promptMsg);
+    
+    if (title && title.trim()) {
+        const newPl = {
+            id: 'pl_' + Date.now(),
+            title: title.trim(),
+            questionIds: [],
+            createdAt: new Date().toISOString()
+        };
+        if (!Array.isArray(state.userPlaylists)) state.userPlaylists = [];
+        state.userPlaylists.push(newPl);
+        
+        enqueueCloudSync(null);
+        renderPlaylistsTab();
+    }
+};
+
+/**
+ * Select Profile Avatar Symbol
+ */
+window.selectAvatarSymbol = function(avatarKey) {
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    state.currentSelectedAvatar = avatarKey;
+    
+    document.querySelectorAll('.avatar-opt-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.avatar === avatarKey);
+    });
+
+    if (user) {
+        user.avatar = avatarKey;
+        window.AuthSystem.setAuthenticated(user);
+    }
+    if (!state.userProfile) state.userProfile = {};
+    state.userProfile.avatar = avatarKey;
+    localStorage.setItem('starley_user_profile', JSON.stringify(state.userProfile));
+
+    updateUserProfileDisplay();
+};
+
+/**
+ * Save User Profile Nickname and Avatar Changes
+ */
+window.saveUserProfileChanges = function() {
+    const nickInput = document.getElementById('input-profile-nickname');
+    const newNick = nickInput ? nickInput.value.trim() : '';
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    
+    const selectedAvatar = state.currentSelectedAvatar || (user && user.avatar) || (state.userProfile && state.userProfile.avatar) || 'doc';
+
+    if (user) {
+        if (newNick) user.nickname = newNick;
+        user.avatar = selectedAvatar;
+        window.AuthSystem.setAuthenticated(user);
+        const nameDisplay = document.getElementById('profile-nickname-display');
+        if (nameDisplay) nameDisplay.textContent = user.nickname;
+    }
+
+    if (!state.userProfile) state.userProfile = {};
+    if (newNick) state.userProfile.nickname = newNick;
+    state.userProfile.avatar = selectedAvatar;
+    localStorage.setItem('starley_user_profile', JSON.stringify(state.userProfile));
+
+    updateUserProfileDisplay();
+    enqueueCloudSync(null);
+
+    const cabinetModal = document.getElementById('quiz-profile-modal');
+    if (cabinetModal) cabinetModal.style.display = 'none';
+
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+    alert(isRu ? '✓ Профиль и настройки сохранены!' : '✓ Profile and cloud settings updated successfully!');
+};
 
 function renderCabinetContent() {
     const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
@@ -4017,9 +4047,14 @@ function renderCabinetContent() {
 
     updateUserProfileDisplay();
 
-    if (user && nickInput && !nickInput.value) {
+    if (user && nickInput) {
         nickInput.value = user.nickname || user.username || '';
     }
+
+    const currentAvatar = (user && user.avatar) || (state.userProfile && state.userProfile.avatar) || 'doc';
+    document.querySelectorAll('.avatar-opt-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.avatar === currentAvatar);
+    });
 
     renderCabinetOverviewTab();
     renderPlaylistsTab();

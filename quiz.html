@@ -575,7 +575,7 @@
                         <!-- Custom Playlists Section -->
                         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
                             <h4 style="margin: 0; font-size: 0.95rem; font-weight: 800; color: var(--quiz-accent);">📂 Custom Question Playlists</h4>
-                            <button type="button" id="btn-create-playlist" class="btn-primary" style="padding: 6px 14px; font-size: 0.8rem; border-radius: 8px;">+ New Playlist</button>
+                            <button type="button" id="btn-create-playlist" onclick="if(window.createNewCustomPlaylist) window.createNewCustomPlaylist();" class="btn-primary" style="padding: 6px 14px; font-size: 0.8rem; border-radius: 8px;">+ New Playlist</button>
                         </div>
                         <div id="cabinet-playlists-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 24px;">
                             <!-- Dynamic playlists -->
@@ -608,35 +608,35 @@
                         <div class="form-group" style="margin-bottom: 20px;">
                             <label style="display: block; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; margin-bottom: 10px;">Select Avatar Symbol</label>
                             <div class="avatar-selection-grid" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-                                <button type="button" class="avatar-opt-btn active" data-avatar="doc" title="Physician / Doctor">
+                                <button type="button" class="avatar-opt-btn active" data-avatar="doc" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('doc');" title="Physician / Doctor">
                                     <div class="opt-avatar avatar-doc"><i class="fas fa-stethoscope"></i></div>
                                     <span class="opt-title">Doctor</span>
                                 </button>
-                                <button type="button" class="avatar-opt-btn" data-avatar="heart" title="Cardiologist">
+                                <button type="button" class="avatar-opt-btn" data-avatar="heart" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('heart');" title="Cardiologist">
                                     <div class="opt-avatar avatar-heart"><i class="fas fa-heart-pulse"></i></div>
                                     <span class="opt-title">Heart</span>
                                 </button>
-                                <button type="button" class="avatar-opt-btn" data-avatar="brain" title="Neuro Expert">
+                                <button type="button" class="avatar-opt-btn" data-avatar="brain" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('brain');" title="Neuro Expert">
                                     <div class="opt-avatar avatar-brain"><i class="fas fa-brain"></i></div>
                                     <span class="opt-title">Brain</span>
                                 </button>
-                                <button type="button" class="avatar-opt-btn" data-avatar="flask" title="Medical Researcher">
+                                <button type="button" class="avatar-opt-btn" data-avatar="flask" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('flask');" title="Medical Researcher">
                                     <div class="opt-avatar avatar-flask"><i class="fas fa-flask-vial"></i></div>
                                     <span class="opt-title">Scientist</span>
                                 </button>
-                                <button type="button" class="avatar-opt-btn" data-avatar="bolt" title="Blitz Specialist">
+                                <button type="button" class="avatar-opt-btn" data-avatar="bolt" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('bolt');" title="Blitz Specialist">
                                     <div class="opt-avatar avatar-bolt"><i class="fas fa-bolt"></i></div>
                                     <span class="opt-title">Blitz</span>
                                 </button>
-                                <button type="button" class="avatar-opt-btn" data-avatar="titan" title="Mind Titan">
+                                <button type="button" class="avatar-opt-btn" data-avatar="titan" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('titan');" title="Mind Titan">
                                     <div class="opt-avatar avatar-titan"><i class="fas fa-dumbbell"></i></div>
                                     <span class="opt-title">Titan</span>
                                 </button>
-                                <button type="button" class="avatar-opt-btn" data-avatar="guru" title="Meditation Guru">
+                                <button type="button" class="avatar-opt-btn" data-avatar="guru" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('guru');" title="Meditation Guru">
                                     <div class="opt-avatar avatar-guru"><i class="fas fa-spa"></i></div>
                                     <span class="opt-title">Guru</span>
                                 </button>
-                                <button type="button" class="avatar-opt-btn" data-avatar="rocket" title="Rocket Intern">
+                                <button type="button" class="avatar-opt-btn" data-avatar="rocket" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('rocket');" title="Rocket Intern">
                                     <div class="opt-avatar avatar-rocket"><i class="fas fa-rocket"></i></div>
                                     <span class="opt-title">Rocket</span>
                                 </button>
@@ -646,7 +646,7 @@
                         <!-- Embedded Action Buttons for Settings Tab -->
                         <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--quiz-border); padding-top: 16px; margin-top: 16px;">
                             <button type="button" onclick="window.logout()" class="btn-outline" style="color: #f87171; border-color: rgba(248, 113, 113, 0.4); padding: 10px 18px; border-radius: 10px; font-weight: 700;">🚪 Logout</button>
-                            <button type="button" id="btn-save-profile" class="btn-primary" style="padding: 10px 24px; border-radius: 10px; font-weight: 700;">💾 Save Changes</button>
+                            <button type="button" id="btn-save-profile" onclick="if(window.saveUserProfileChanges) window.saveUserProfileChanges();" class="btn-primary" style="padding: 10px 24px; border-radius: 10px; font-weight: 700;">💾 Save Changes</button>
                         </div>
                     </div>
                 </div>
