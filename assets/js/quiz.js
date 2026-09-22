@@ -4825,40 +4825,158 @@ window.removeQuestionFromPlaylist = function(playlistId, qId) {
     renderPlaylistsTab();
 };
 
+async function ensureAllLibraryBooksLoaded() {
+    if (Array.isArray(state.allBooksWithQuizzes) && state.allBooksWithQuizzes.length > 0) {
+        return state.allBooksWithQuizzes;
+    }
+
+    const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+    try {
+        const response = await fetch(`${rootPath}library.json`);
+        if (response.ok) {
+            const data = await response.json();
+            const categories = data.categories || [];
+            const metadataPromises = [];
+            state.allBooksWithQuizzes = [];
+
+            for (const category of categories) {
+                for (const book of (category.books || [])) {
+                    const bookPath = `${category.path}/${book.folder}`;
+                    metadataPromises.push(
+                        fetch(`${rootPath}${bookPath}/metadata.json`)
+                            .then(async r => {
+                                if (r.ok) {
+                                    const metaList = await r.json();
+                                    const meta = metaList[0];
+                                    if (meta && meta.quiz) {
+                                        state.allBooksWithQuizzes.push({
+                                            bookPath: bookPath,
+                                            meta: meta,
+                                            quiz_sets: meta.quiz_sets || []
+                                        });
+                                    }
+                                }
+                            })
+                            .catch(err => console.error(`Error loading metadata for ${bookPath}`, err))
+                    );
+                }
+            }
+            await Promise.all(metadataPromises);
+        }
+    } catch (e) {
+        console.warn('ensureAllLibraryBooksLoaded error:', e);
+    }
+    return state.allBooksWithQuizzes || [];
+}
+
+async function fetchQuestionsForSet(setObj, bookPath) {
+    if (!setObj) return [];
+    const setId = setObj.id || setObj.setId;
+    if (state.setQuestionsMap && state.setQuestionsMap[setId] && state.setQuestionsMap[setId].length > 0) {
+        return state.setQuestionsMap[setId];
+    }
+
+    const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+    const bookPrefix = bookPath || setObj.bookPath || state.bookPath || '';
+
+    try {
+        let jsonUrl = '';
+        if (setObj.file) {
+            jsonUrl = bookPrefix ? `${rootPath}${bookPrefix}/${setObj.file}` : `${rootPath}${setObj.file}`;
+        } else {
+            jsonUrl = bookPrefix ? `${rootPath}${bookPrefix}/quizzes/${setId}.json` : `${rootPath}quizzes/${setId}.json`;
+        }
+        const res = await fetch(jsonUrl);
+        if (res.ok) {
+            const data = await res.json();
+            let questions = Array.isArray(data) ? data : (data.questions || []);
+            const manifestId = setId || 'set';
+            questions = questions.map((q, idx) => {
+                return Object.assign({}, q, {
+                    id: q.id || `${manifestId}_q${idx + 1}`,
+                    manifestId: manifestId,
+                    setId: setId,
+                    bookPath: bookPrefix
+                });
+            });
+            if (!state.setQuestionsMap) state.setQuestionsMap = {};
+            state.setQuestionsMap[setId] = questions;
+            return questions;
+        }
+    } catch (e) {
+        console.warn(`Failed to fetch questions for set ${setId}:`, e);
+    }
+    return [];
+}
+
+window.availableLibrarySetsMap = {};
+
 async function populatePlaylistManagerManifestSelect() {
     const selectEl = document.getElementById('select-pl-mgr-manifest');
     if (!selectEl) return;
 
-    try {
-        if (typeof loadAllSetsForBook === 'function') {
-            await loadAllSetsForBook();
-        } else if (typeof window.loadAllSetsForBook === 'function') {
-            await window.loadAllSetsForBook();
-        }
-    } catch (e) {
-        console.warn('loadAllSetsForBook failed or skipped:', e);
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+    selectEl.innerHTML = `<option value="">${isRu ? '⏳ Загрузка доступных источников...' : '⏳ Loading available sources...'}</option>`;
+
+    await ensureAllLibraryBooksLoaded();
+
+    let allAvailableSets = [];
+    window.availableLibrarySetsMap = {};
+
+    if (Array.isArray(state.allBooksWithQuizzes) && state.allBooksWithQuizzes.length > 0) {
+        state.allBooksWithQuizzes.forEach(book => {
+            const bookTitle = isRu ? (book.meta.titleRu || book.meta.title || book.meta.titleEn || book.bookPath) : (book.meta.titleEn || book.meta.title || book.bookPath);
+            (book.quiz_sets || []).forEach(set => {
+                const item = {
+                    id: set.id,
+                    bookPath: book.bookPath,
+                    title: set.title || set.id,
+                    russian_title: set.russian_title || set.title || set.id,
+                    label: `${bookTitle} — ${isRu ? (set.russian_title || set.title || set.id) : (set.title || set.russian_title || set.id)}`,
+                    question_count: set.question_count || 0,
+                    setObj: set
+                };
+                allAvailableSets.push(item);
+                window.availableLibrarySetsMap[set.id] = item;
+            });
+        });
     }
 
-    const manifests = state.selectedSets || [];
-    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+    if (allAvailableSets.length === 0 && Array.isArray(state.selectedSets) && state.selectedSets.length > 0) {
+        allAvailableSets = state.selectedSets.map(s => {
+            const item = {
+                id: s.id || s.setId,
+                bookPath: s.bookPath || 'general',
+                title: s.title || s.id,
+                russian_title: s.russian_title || s.title || s.id,
+                label: s.russian_title || s.title || s.id,
+                question_count: s.question_count || 0,
+                setObj: s
+            };
+            window.availableLibrarySetsMap[item.id] = item;
+            return item;
+        });
+    }
 
-    if (manifests.length === 0) {
-        selectEl.innerHTML = `<option value="">${isRu ? 'Нет загруженных манифестов' : 'No loaded sets available'}</option>`;
+    if (allAvailableSets.length === 0) {
+        selectEl.innerHTML = `<option value="">${isRu ? 'Нет доступных источников' : 'No available sources'}</option>`;
         return;
     }
 
-    selectEl.innerHTML = manifests.map(s => `<option value="${s.id}">${escapeHTML(s.russian_title || s.title || s.id)} (${s.question_count || 0} ${isRu ? 'вопр.' : 'q'})</option>`).join('');
+    selectEl.innerHTML = allAvailableSets.map(s => `
+        <option value="${s.id}">${escapeHTML(s.label)} (${s.question_count || '?'} ${isRu ? 'вопр.' : 'q'})</option>
+    `).join('');
 
     selectEl.onchange = () => {
         renderPlaylistManagerAddQuestions(selectEl.value);
     };
 
-    if (manifests.length > 0) {
-        renderPlaylistManagerAddQuestions(manifests[0].id);
+    if (allAvailableSets.length > 0) {
+        renderPlaylistManagerAddQuestions(allAvailableSets[0].id);
     }
 }
 
-function renderPlaylistManagerAddQuestions(setId) {
+async function renderPlaylistManagerAddQuestions(setId) {
     const listCont = document.getElementById('pl-mgr-add-questions-list');
     if (!listCont) return;
 
@@ -4866,7 +4984,13 @@ function renderPlaylistManagerAddQuestions(setId) {
     const pl = state.userPlaylists.find(p => String(p.id) === String(window.activeManagedPlaylistId));
     const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
 
-    const questionsInSet = (state.setQuestionsMap && state.setQuestionsMap[setId]) ? state.setQuestionsMap[setId] : [];
+    let questionsInSet = (state.setQuestionsMap && state.setQuestionsMap[setId]) ? state.setQuestionsMap[setId] : [];
+    const setInfo = window.availableLibrarySetsMap ? window.availableLibrarySetsMap[setId] : null;
+
+    if (questionsInSet.length === 0 && setInfo) {
+        listCont.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 15px; font-size: 0.82rem;">${isRu ? '⏳ Загрузка вопросов...' : '⏳ Loading questions...'}</div>`;
+        questionsInSet = await fetchQuestionsForSet(setInfo.setObj || setInfo, setInfo.bookPath);
+    }
 
     if (questionsInSet.length === 0) {
         listCont.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 15px; font-size: 0.82rem;">${isRu ? 'Вопросы не найдены в выбранном сете' : 'No questions found in selected set'}</div>`;
@@ -4876,7 +5000,7 @@ function renderPlaylistManagerAddQuestions(setId) {
     listCont.innerHTML = questionsInSet.map((q, idx) => {
         const qId = String(q.id || getQuestionKey(q));
         const isAdded = pl && Array.isArray(pl.questionIds) && pl.questionIds.includes(qId);
-        const qText = (q['question' + (state.settings ? state.settings.lang : 'Ru')] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '');
+        const qText = (q['question' + (isRu ? 'Ru' : 'En')] || q.questionEn || q.questionRu || q.question || '').replace(/<[^>]*>/g, '');
 
         return `
             <div style="display: flex; align-items: center; justify-content: space-between; background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 10px 14px; font-size: 0.85rem; color: var(--quiz-text);">
@@ -4884,7 +5008,7 @@ function renderPlaylistManagerAddQuestions(setId) {
                     <span style="color: var(--quiz-accent); font-weight: 700;">#${idx + 1}</span> ${escapeHTML(qText.substring(0, 90))}...
                 </div>
                 <button type="button" onclick="toggleAddQuestionInPlaylistManager('${pl ? pl.id : ''}', '${qId}')" class="${isAdded ? 'btn-outline' : 'btn-primary'}" style="padding: 4px 12px; font-size: 0.78rem; border-radius: 6px; ${isAdded ? 'color:#f87171; border-color:rgba(248,113,113,0.3);' : ''}">
-                    ${isAdded ? '✓ Added' : '+ Add'}
+                    ${isAdded ? '✓ ' + (isRu ? 'Добавлено' : 'Added') : '+ ' + (isRu ? 'Добавить' : 'Add')}
                 </button>
             </div>
         `;
