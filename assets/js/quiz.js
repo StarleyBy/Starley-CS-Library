@@ -3511,6 +3511,11 @@ async function initGoogleSheetsAccountSync() {
 
     if (!user) return;
 
+    const reqAccountBtn = document.getElementById('btn-request-account');
+    if (reqAccountBtn) {
+        reqAccountBtn.style.display = (user && !user.isGuest) ? 'none' : 'inline-flex';
+    }
+
     if (nameDisplay) {
         nameDisplay.textContent = user.nickname || user.username || 'Doctor User';
     }
@@ -4025,13 +4030,22 @@ function renderPlaylistPickerOptionsList(qId) {
     if (!listCont) return;
 
     const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+    if (!Array.isArray(state.userFavorites)) state.userFavorites = [];
+    if (!Array.isArray(state.userPlaylists)) state.userPlaylists = [];
 
-    if (!state.userPlaylists || state.userPlaylists.length === 0) {
-        listCont.innerHTML = `<div style="color: var(--quiz-muted); font-size: 0.82rem; text-align: center; padding: 10px;">${isRu ? 'Плейлистов пока нет. Создайте первый ниже!' : 'No custom playlists yet. Create your first playlist below!'}</div>`;
-        return;
-    }
+    const isFav = state.userFavorites.some(f => String(f.id) === String(qId));
 
-    listCont.innerHTML = state.userPlaylists.map(pl => {
+    let favItemHtml = `
+        <label style="display: flex; align-items: center; justify-content: space-between; background: rgba(234, 179, 8, 0.1); border: 1px solid rgba(234, 179, 8, 0.3); border-radius: 8px; padding: 10px 14px; cursor: pointer; transition: background 0.2s;" onmouseover="this.style.background='rgba(234, 179, 8, 0.2)'" onmouseout="this.style.background='rgba(234, 179, 8, 0.1)'">
+            <div style="display: flex; align-items: center; gap: 10px;">
+                <input type="checkbox" ${isFav ? 'checked' : ''} onchange="toggleFavoriteFromPicker('${qId}')" style="width: 18px; height: 18px; accent-color: #eab308; cursor: pointer;">
+                <span style="font-weight: 700; font-size: 0.88rem; color: #eab308;">⭐ ${isRu ? 'Избранные вопросы' : 'Starred Favorites'}</span>
+            </div>
+            <span style="font-size: 0.75rem; color: var(--quiz-muted);">${state.userFavorites.length} ${isRu ? 'вопр.' : 'questions'}</span>
+        </label>
+    `;
+
+    let customItemsHtml = state.userPlaylists.map(pl => {
         const isIncluded = Array.isArray(pl.questionIds) && pl.questionIds.includes(qId);
         return `
             <label style="display: flex; align-items: center; justify-content: space-between; background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 10px 14px; cursor: pointer; transition: background 0.2s;" onmouseover="this.style.background='rgba(30,35,45,0.8)'" onmouseout="this.style.background='rgba(13, 17, 23, 0.6)'">
@@ -4043,7 +4057,19 @@ function renderPlaylistPickerOptionsList(qId) {
             </label>
         `;
     }).join('');
+
+    listCont.innerHTML = favItemHtml + customItemsHtml;
 }
+
+window.toggleFavoriteFromPicker = function(qId) {
+    let q = (state.questions && state.questions.length > 0) ? state.questions.find(item => String(item.id || getQuestionKey(item)) === String(qId)) : null;
+    if (!q && state.currentQuestion) q = state.currentQuestion;
+    if (!q) {
+        q = { id: qId, questionEn: 'Question', questionRu: 'Вопрос' };
+    }
+    toggleFavoriteQuestion(q);
+    renderPlaylistPickerOptionsList(qId);
+};
 
 window.toggleQuestionInPlaylist = function(playlistId, qId) {
     const pl = state.userPlaylists.find(p => String(p.id) === String(playlistId));

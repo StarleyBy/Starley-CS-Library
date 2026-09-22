@@ -53,7 +53,7 @@
                             </div>
                         </div>
                         <div class="user-card-actions" onclick="event.stopPropagation();" style="display: flex; gap: 8px; flex-wrap: wrap;">
-                            <button type="button" onclick="if(window.AuthSystem) window.AuthSystem.showAccountRequestModal();" class="btn-profile-edit" title="Request Account via Telegram Bot" style="background: rgba(88, 166, 255, 0.15); border: 1px solid rgba(88, 166, 255, 0.4); color: #58a6ff; height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s; display: flex; align-items: center; gap: 6px;">
+                            <button type="button" id="btn-request-account" onclick="if(window.AuthSystem) window.AuthSystem.showAccountRequestModal();" class="btn-profile-edit" title="Request Account via Telegram Bot" style="background: rgba(88, 166, 255, 0.15); border: 1px solid rgba(88, 166, 255, 0.4); color: #58a6ff; height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s; display: flex; align-items: center; gap: 6px;">
                                 📲 Request Account
                             </button>
                             <button type="button" id="btn-open-admin-modal" class="btn-profile-edit admin-only" title="Manage Accounts & Requests" style="display: none; background: rgba(234, 179, 8, 0.15); border: 1px solid rgba(234, 179, 8, 0.4); color: #eab308; height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s;">
@@ -640,13 +640,12 @@
                             </div>
                         </div>
 
+                        <!-- Embedded Action Buttons for Settings Tab -->
+                        <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--quiz-border); padding-top: 16px; margin-top: 16px;">
+                            <button type="button" onclick="window.logout()" class="btn-outline" style="color: #f87171; border-color: rgba(248, 113, 113, 0.4); padding: 10px 18px; border-radius: 10px; font-weight: 700;">🚪 Logout</button>
+                            <button type="button" id="btn-save-profile" class="btn-primary" style="padding: 10px 24px; border-radius: 10px; font-weight: 700;">💾 Save Changes</button>
                         </div>
                     </div>
-                </div>
-
-                <div class="quiz-modal-footer" style="padding: 14px 20px; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--quiz-border); background: var(--quiz-surface);">
-                    <button type="button" onclick="window.logout()" class="btn-outline" style="color: #f87171; border-color: rgba(248, 113, 113, 0.4); padding: 8px 16px; border-radius: 8px;">🚪 Logout</button>
-                    <button type="button" id="btn-save-profile" class="btn-primary" style="padding: 10px 24px; border-radius: 10px;">💾 Save Changes</button>
                 </div>
             </div>
         </div>
@@ -780,8 +779,10 @@
                     <button type="button" id="btn-close-sess-detail-footer" class="btn-outline" style="padding: 8px 18px; border-radius: 8px;">Close</button>
                 </div>
             </div>
+        </div>
+
         <!-- SPOTIFY-STYLE PLAYLIST PICKER MODAL -->
-        <div id="quiz-playlist-picker-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.75); backdrop-filter: blur(8px); z-index: 1100; align-items: center; justify-content: center; padding: 16px;">
+        <div id="quiz-playlist-picker-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.75); backdrop-filter: blur(8px); z-index: 1200; align-items: center; justify-content: center; padding: 16px;">
             <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1px solid var(--quiz-border); border-radius: 20px; width: 100%; max-width: 460px; box-shadow: 0 20px 50px rgba(0,0,0,0.7); overflow: hidden; animation: modal-slide-in 0.25s ease-out;">
                 <div class="quiz-modal-header" style="padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: var(--quiz-surface);">
                     <h3 style="margin: 0; font-size: 1rem; font-weight: 800; color: #eab308;">⭐ Saved to Favorites & Playlists</h3>
@@ -794,7 +795,7 @@
                     </div>
 
                     <div style="font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 10px;">Select Playlists to Include This Question:</div>
-                    <div id="playlist-picker-options-list" style="max-height: 220px; overflow-y: auto; display: flex; flex-direction: column; gap: 8px; margin-bottom: 16px;">
+                    <div id="playlist-picker-options-list" style="max-height: 240px; overflow-y: auto; display: flex; flex-direction: column; gap: 8px; margin-bottom: 16px;">
                         <!-- Dynamic checkboxes for custom playlists -->
                     </div>
 
@@ -814,7 +815,7 @@
         </div>
 
         <!-- INTERACTIVE PLAYLIST MANAGER MODAL -->
-        <div id="quiz-playlist-manager-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.75); backdrop-filter: blur(8px); z-index: 1100; align-items: center; justify-content: center; padding: 16px;">
+        <div id="quiz-playlist-manager-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.75); backdrop-filter: blur(8px); z-index: 1200; align-items: center; justify-content: center; padding: 16px;">
             <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1px solid var(--quiz-border); border-radius: 20px; width: 100%; max-width: 680px; max-height: 88vh; box-shadow: 0 20px 50px rgba(0,0,0,0.7); overflow: hidden; display: flex; flex-direction: column; animation: modal-slide-in 0.25s ease-out;">
                 <div class="quiz-modal-header" style="padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: var(--quiz-surface);">
                     <div style="display: flex; align-items: center; gap: 10px;">
@@ -873,7 +874,7 @@
     <!-- KaTeX JS for LaTeX math rendering -->
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
-    <script src="assets/js/quiz.js?v=4.1"></script>
+    <script src="assets/js/quiz.js?v=4.2"></script>
     <script src="assets/js/overlay-tools.js?v=4.0"></script>
 </body>
 </html>
