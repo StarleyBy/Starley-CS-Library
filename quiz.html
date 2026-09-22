@@ -42,7 +42,7 @@
                             <div class="user-name-row" style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
                                 <h3 id="profile-nickname-display" style="margin: 0; font-size: 1.05rem; font-weight: 800; color: var(--quiz-text);">Guest Doctor</h3>
                                 <span id="profile-level-badge" class="level-pill" style="background: rgba(35, 134, 54, 0.15); color: #3fb950; padding: 2px 8px; border-radius: 12px; font-size: 0.72rem; font-weight: 700; border: 1px solid rgba(35, 134, 54, 0.3);">Lv.1 Resident</span>
-                                <span id="quiz-sync-status-badge" class="sync-pill" style="background: rgba(139, 148, 158, 0.15); color: #8b949e; padding: 2px 8px; border-radius: 12px; font-size: 0.72rem; font-weight: 700; border: 1px solid rgba(139, 148, 158, 0.3); display: inline-flex; align-items: center; gap: 4px;" title="Google Sheets Auto-Sync Status">👤 Guest (Local)</span>
+                                <span id="quiz-sync-status-badge" class="sync-pill" onclick="if(window.manualCloudSync) window.manualCloudSync();" style="background: rgba(139, 148, 158, 0.15); color: #8b949e; padding: 2px 8px; border-radius: 12px; font-size: 0.72rem; font-weight: 700; border: 1px solid rgba(139, 148, 158, 0.3); display: inline-flex; align-items: center; gap: 4px; cursor: pointer;" title="Click to force Google Sheets sync">👤 Guest (Local)</span>
                             </div>
                             <div class="user-stats-row" style="display: flex; align-items: center; gap: 8px; font-size: 0.78rem; color: var(--quiz-muted); margin-top: 4px; flex-wrap: wrap;">
                                 <span>🔥 <strong id="profile-stat-streak" style="color: var(--quiz-text);">1</strong> day streak</span>
@@ -53,6 +53,9 @@
                             </div>
                         </div>
                         <div class="user-card-actions" onclick="event.stopPropagation();" style="display: flex; gap: 8px; flex-wrap: wrap;">
+                            <button type="button" id="btn-manual-sync" onclick="if(window.manualCloudSync) window.manualCloudSync();" class="btn-profile-edit" title="Force Sync Data with Google Sheets" style="background: rgba(57, 211, 83, 0.15); border: 1px solid rgba(57, 211, 83, 0.4); color: #3fb950; height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s; display: flex; align-items: center; gap: 6px;">
+                                🔄 Sync
+                            </button>
                             <button type="button" id="btn-request-account" onclick="if(window.AuthSystem) window.AuthSystem.showAccountRequestModal();" class="btn-profile-edit" title="Request Account via Telegram Bot" style="background: rgba(88, 166, 255, 0.15); border: 1px solid rgba(88, 166, 255, 0.4); color: #58a6ff; height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s; display: flex; align-items: center; gap: 6px;">
                                 📲 Request Account
                             </button>
@@ -489,7 +492,7 @@
                 <div class="quiz-modal-header" style="padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: var(--quiz-surface);">
                     <div style="display: flex; align-items: center; gap: 10px;">
                         <h3 id="lbl-profile-modal-title" style="margin: 0; font-size: 1.1rem; font-weight: 800; color: var(--quiz-accent);">👤 Personal Cabinet</h3>
-                        <span id="cabinet-sync-indicator" style="font-size: 0.75rem; padding: 2px 8px; border-radius: 12px; background: rgba(57, 211, 83, 0.15); color: #3fb950; border: 1px solid rgba(57, 211, 83, 0.3);">☁️ Cloud Synced</span>
+                        <span id="cabinet-sync-indicator" onclick="if(window.manualCloudSync) window.manualCloudSync();" style="font-size: 0.75rem; padding: 2px 8px; border-radius: 12px; background: rgba(57, 211, 83, 0.15); color: #3fb950; border: 1px solid rgba(57, 211, 83, 0.3); cursor: pointer;" title="Click to force Google Sheets sync">☁️ Cloud Synced</span>
                     </div>
                     <button type="button" id="btn-close-profile-modal" class="quiz-modal-close" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;"><i class="fas fa-times"></i></button>
                 </div>

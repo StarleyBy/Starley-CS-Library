@@ -17,14 +17,19 @@ window.logout = function() {
     const SESSION_KEY = 'starley_auth';
     
     function getCurrentUser() {
-        const authData = sessionStorage.getItem(SESSION_KEY);
+        let authData = sessionStorage.getItem(SESSION_KEY);
+        if (!authData) {
+            authData = localStorage.getItem(SESSION_KEY);
+        }
         if (!authData) return null;
         
         try {
             const data = JSON.parse(authData);
             const now = Date.now();
-            if (now - data.timestamp > 24 * 60 * 60 * 1000) {
+            // 30 days validity for persistent login
+            if (now - data.timestamp > 30 * 24 * 60 * 60 * 1000) {
                 sessionStorage.removeItem(SESSION_KEY);
+                localStorage.removeItem(SESSION_KEY);
                 return null;
             }
             return data;
@@ -58,6 +63,7 @@ window.logout = function() {
             timestamp: Date.now()
         };
         sessionStorage.setItem(SESSION_KEY, JSON.stringify(authData));
+        localStorage.setItem(SESSION_KEY, JSON.stringify(authData));
     }
 
     function loginAsGuest() {
@@ -71,6 +77,7 @@ window.logout = function() {
             timestamp: Date.now()
         };
         sessionStorage.setItem(SESSION_KEY, JSON.stringify(guestData));
+        localStorage.setItem(SESSION_KEY, JSON.stringify(guestData));
         window.location.reload();
     }
 

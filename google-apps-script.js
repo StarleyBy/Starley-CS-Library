@@ -292,61 +292,85 @@ function handleGetUserData(params) {
  * Handle Sync User Data
  */
 function handleSyncUserData(params) {
-  const username = String(params.username || '').trim().toLowerCase();
-  if (!username) return { success: false, error: 'Username is required.' };
+  const lock = LockService.getScriptLock();
+  try {
+    lock.waitLock(10000);
+  } catch (e) {
+    return { success: false, error: 'Server busy, please retry sync in a moment.' };
+  }
 
-  const ss = SpreadsheetApp.getActiveSpreadsheet();
-  const progressSheet = ss.getSheetByName('User_Progress');
-  const progData = progressSheet.getDataRange().getValues();
+  try {
+    const username = String(params.username || '').trim().toLowerCase();
+    if (!username) return { success: false, error: 'Username is required.' };
 
-  const streakDays = Number(params.streakDays) || 1;
-  const solvedCount = Number(params.solvedCount) || 0;
-  const accuracyPct = Number(params.accuracyPct) || 0;
-  const masteryJSON = JSON.stringify(params.mastery || {});
-  const favoritesJSON = JSON.stringify(params.favorites || []);
-  const playlistsJSON = JSON.stringify(params.playlists || []);
-  const nowStr = new Date().toISOString();
+    const ss = SpreadsheetApp.getActiveSpreadsheet();
+    const progressSheet = ss.getSheetByName('User_Progress');
+    const progData = progressSheet.getDataRange().getValues();
 
-  let foundRow = -1;
-  for (let i = 1; i < progData.length; i++) {
-    if (String(progData[i][0]).trim().toLowerCase() === username) {
-      foundRow = i + 1;
-      break;
+    const streakDays = Number(params.streakDays) || 1;
+    const solvedCount = Number(params.solvedCount) || 0;
+    const accuracyPct = Number(params.accuracyPct) || 0;
+    const masteryJSON = JSON.stringify(params.mastery || {});
+    const favoritesJSON = JSON.stringify(params.favorites || []);
+    const playlistsJSON = JSON.stringify(params.playlists || []);
+    const nowStr = new Date().toISOString();
+
+    let foundRow = -1;
+    for (let i = 1; i < progData.length; i++) {
+      if (String(progData[i][0]).trim().toLowerCase() === username) {
+        foundRow = i + 1;
+        break;
+      }
     }
-  }
 
-  if (foundRow > 0) {
-    progressSheet.getRange(foundRow, 2, 1, 7).setValues([[
-      streakDays, solvedCount, accuracyPct, masteryJSON, favoritesJSON, playlistsJSON, nowStr
-    ]]);
-  } else {
-    progressSheet.appendRow([
-      username, streakDays, solvedCount, accuracyPct, masteryJSON, favoritesJSON, playlistsJSON, nowStr
-    ]);
-  }
+    if (foundRow > 0) {
+      progressSheet.getRange(foundRow, 2, 1, 7).setValues([[
+        streakDays, solvedCount, accuracyPct, masteryJSON, favoritesJSON, playlistsJSON, nowStr
+      ]]);
+    } else {
+      progressSheet.appendRow([
+        username, streakDays, solvedCount, accuracyPct, masteryJSON, favoritesJSON, playlistsJSON, nowStr
+      ]);
+    }
 
-  // Record session history if provided
-  if (params.newSession) {
-    const s = params.newSession;
-    const historySheet = ss.getSheetByName('Session_History');
-    historySheet.appendRow([
-      s.sessionId || ('sess_' + Date.now()),
-      username,
-      s.date || nowStr,
-      s.setTitle || 'Quiz Session',
-      s.mode || 'smart',
-      s.lang || 'En',
-      String(s.countMode || '10'),
-      JSON.stringify(s.topics || []),
-      Number(s.totalQ) || 0,
-      Number(s.correctQ) || 0,
-      Number(s.scorePct) || 0,
-      Number(s.timeSpentSec) || 0,
-      JSON.stringify(s.errors || [])
-    ]);
-  }
+    // Record session history if provided
+    if (params.newSession) {
+      const s = params.newSession;
+      const historySheet = ss.getSheetByName('Session_History');
+      
+      const histData = historySheet.getDataRange().getValues();
+      const sessId = String(s.sessionId || ('sess_' + Date.now())).trim();
+      let exists = false;
+      for (let i = 1; i < histData.length; i++) {
+        if (String(histData[i][0]).trim() === sessId) {
+          exists = true;
+          break;
+        }
+      }
 
-  return { success: true, message: 'User progress synchronized successfully.' };
+      if (!exists) {
+        historySheet.appendRow([
+          sessId,
+          username,
+          s.date || nowStr,
+          s.setTitle || 'Quiz Session',
+          s.mode || 'smart',
+          s.lang || 'En',
+          String(s.countMode || '10'),
+          JSON.stringify(s.topics || []),
+          Number(s.totalQ) || 0,
+          Number(s.correctQ) || 0,
+          Number(s.scorePct) || 0,
+          Number(s.timeSpentSec) || 0,
+          JSON.stringify(s.errors || [])
+        ]);
+      }
+    }
+
+    return { success: true, message: 'User progress synchronized successfully.' };
+  } finally {
+    lock.releaseLock();
+  }
 }
 
 /**

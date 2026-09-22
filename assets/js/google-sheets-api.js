@@ -19,25 +19,48 @@
             return { success: false, error: 'Google Sheets Web App URL not configured.' };
         }
 
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 15000);
+
         try {
-            // Using no-cors/cors POST with text output
             const response = await fetch(url, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'text/plain;charset=utf-8'
                 },
-                body: JSON.stringify(payload)
+                body: JSON.stringify(payload),
+                signal: controller.signal
             });
+
+            clearTimeout(timeoutId);
 
             if (!response.ok) {
                 throw new Error(`HTTP Error ${response.status}`);
             }
 
-            const data = await response.json();
+            const rawText = await response.text();
+            if (!rawText || !rawText.trim()) {
+                throw new Error('Empty response from Google Sheets server');
+            }
+
+            let data;
+            try {
+                data = JSON.parse(rawText);
+            } catch (jsonErr) {
+                console.error('[GoogleSheetsAPI] Non-JSON output from backend:', rawText.substring(0, 200));
+                return { 
+                    success: false, 
+                    error: 'Backend returned HTML/non-JSON response. Please verify Google Apps Script deployment.' 
+                };
+            }
+
             return data;
         } catch (error) {
-            console.error('[GoogleSheetsAPI] Fetch Error:', error);
-            return { success: false, error: 'Connection to Google Sheets backend failed: ' + error.message };
+            clearTimeout(timeoutId);
+            const isAbort = error.name === 'AbortError';
+            const errMsg = isAbort ? 'Request timed out (15s).' : error.message;
+            console.error('[GoogleSheetsAPI] Fetch Error:', errMsg);
+            return { success: false, error: 'Connection to Google Sheets backend failed: ' + errMsg };
         }
     }
 

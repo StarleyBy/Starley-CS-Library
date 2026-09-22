@@ -3498,6 +3498,127 @@ state.userFavorites = [];
 state.userPlaylists = [];
 state.sessionHistory = [];
 state.cloudSyncing = false;
+state.syncPendingRetry = false;
+state.pendingSessionToSync = null;
+
+let syncDebounceTimer = null;
+
+/**
+ * 2-Way Data Merge between Local Storage & Google Sheets Backend
+ */
+function mergeCloudAndLocalData(cloudProgress, cloudHistory) {
+    let localFavs = [];
+    let localPlaylists = [];
+    let localHistory = [];
+    try {
+        localFavs = JSON.parse(localStorage.getItem('starley_user_favorites') || '[]');
+        localPlaylists = JSON.parse(localStorage.getItem('starley_user_playlists') || '[]');
+        localHistory = JSON.parse(localStorage.getItem('starley_session_history') || '[]');
+    } catch (e) {}
+
+    const cloudFavs = (cloudProgress && cloudProgress.favorites) || [];
+    const cloudPlaylists = (cloudProgress && cloudProgress.playlists) || [];
+    const remoteHistory = cloudHistory || [];
+
+    // 1. Merge Favorites (union by question id)
+    const favMap = new Map();
+    cloudFavs.forEach(item => {
+        if (item && item.id) favMap.set(String(item.id), item);
+    });
+    localFavs.forEach(item => {
+        if (item && item.id) {
+            const existing = favMap.get(String(item.id));
+            if (!existing || (item.addedAt && (!existing.addedAt || new Date(item.addedAt) > new Date(existing.addedAt)))) {
+                favMap.set(String(item.id), item);
+            }
+        }
+    });
+    const mergedFavs = Array.from(favMap.values());
+
+    // 2. Merge Playlists (by playlist id)
+    const plMap = new Map();
+    cloudPlaylists.forEach(pl => {
+        if (pl && pl.id) plMap.set(String(pl.id), pl);
+    });
+    localPlaylists.forEach(pl => {
+        if (pl && pl.id) {
+            const existing = plMap.get(String(pl.id));
+            if (!existing) {
+                plMap.set(String(pl.id), pl);
+            } else {
+                const combinedQIds = Array.from(new Set([
+                    ...(Array.isArray(existing.questionIds) ? existing.questionIds : []),
+                    ...(Array.isArray(pl.questionIds) ? pl.questionIds : [])
+                ]));
+                plMap.set(String(pl.id), {
+                    ...existing,
+                    ...pl,
+                    questionIds: combinedQIds,
+                    title: pl.title || existing.title
+                });
+            }
+        }
+    });
+    const mergedPlaylists = Array.from(plMap.values());
+
+    // 3. Merge Session History (by sessionId)
+    const sessMap = new Map();
+    remoteHistory.forEach(s => {
+        if (s && s.sessionId) sessMap.set(String(s.sessionId), s);
+    });
+    localHistory.forEach(s => {
+        if (s && s.sessionId) {
+            if (!sessMap.has(String(s.sessionId))) {
+                sessMap.set(String(s.sessionId), s);
+            }
+        }
+    });
+    const mergedHistory = Array.from(sessMap.values());
+    mergedHistory.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+
+    state.userFavorites = mergedFavs;
+    state.userPlaylists = mergedPlaylists;
+    state.sessionHistory = mergedHistory;
+
+    // Save merged state locally
+    localStorage.setItem('starley_user_favorites', JSON.stringify(state.userFavorites));
+    localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+    localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
+
+    updateQuizStatsUI();
+}
+
+/**
+ * Recalculate Quiz Stats & Update UI Displays
+ */
+function updateQuizStatsUI() {
+    const totalSolved = state.sessionHistory.reduce((sum, s) => sum + (s.totalQ || 0), 0);
+    const totalCorrect = state.sessionHistory.reduce((sum, s) => sum + (s.correctQ || 0), 0);
+    const accuracyPct = totalSolved > 0 ? Math.round((totalCorrect / totalSolved) * 100) : 0;
+
+    const uniqueDays = new Set(state.sessionHistory.map(s => s.date ? s.date.split('T')[0] : ''));
+    uniqueDays.delete('');
+    const streakDays = Math.max(uniqueDays.size, 1);
+
+    const profileStreak = document.getElementById('profile-stat-streak');
+    const cabStreak = document.getElementById('cab-stat-streak');
+    if (profileStreak) profileStreak.textContent = streakDays;
+    if (cabStreak) cabStreak.textContent = streakDays;
+
+    const profileSolved = document.getElementById('profile-stat-solved');
+    const cabSolved = document.getElementById('cab-stat-solved');
+    if (profileSolved) profileSolved.textContent = totalSolved;
+    if (cabSolved) cabSolved.textContent = totalSolved;
+
+    const profileAcc = document.getElementById('profile-stat-accuracy');
+    const cabAcc = document.getElementById('cab-stat-accuracy');
+    if (profileAcc) profileAcc.textContent = accuracyPct + '%';
+    if (cabAcc) cabAcc.textContent = accuracyPct + '%';
+
+    if (typeof window.renderCabinetPlaylists === 'function') {
+        window.renderCabinetPlaylists();
+    }
+}
 
 /**
  * Initialize Google Sheets Data Sync & User Account State
@@ -3535,42 +3656,20 @@ async function initGoogleSheetsAccountSync() {
         return;
     }
 
-    // Attempt to load remote data from Google Sheets API
+    // Load local storage first for zero delay
+    loadLocalUserData();
+
+    // Attempt 2-Way Sync with Google Sheets API
     if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.getUserData === 'function') {
-        if (syncBadge) syncBadge.textContent = '⏳ Loading Cloud...';
+        if (syncBadge) {
+            syncBadge.textContent = '⏳ Syncing...';
+            syncBadge.style.color = '#58a6ff';
+        }
         
         try {
             const res = await window.GoogleSheetsAPI.getUserData(user.username);
-            if (res && res.success && res.progress) {
-                const p = res.progress;
-                state.userFavorites = p.favorites || [];
-                state.userPlaylists = p.playlists || [];
-                state.sessionHistory = res.history || [];
-
-                // Compute streak and solved stats dynamically from session history
-                const histSolved = state.sessionHistory.reduce((sum, s) => sum + (s.totalQ || 0), 0);
-                const histCorrect = state.sessionHistory.reduce((sum, s) => sum + (s.correctQ || 0), 0);
-                const calculatedSolved = Math.max(p.solvedCount || 0, histSolved);
-                const calculatedAcc = calculatedSolved > 0 ? Math.round((histCorrect / (calculatedSolved || 1)) * 100) : Math.round(p.accuracyPct || 0);
-
-                const uniqueDays = new Set(state.sessionHistory.map(s => s.date ? s.date.split('T')[0] : ''));
-                uniqueDays.delete('');
-                const calculatedStreak = Math.max(p.streakDays || 1, uniqueDays.size, 1);
-
-                const profileStreak = document.getElementById('profile-stat-streak');
-                const cabStreak = document.getElementById('cab-stat-streak');
-                if (profileStreak) profileStreak.textContent = calculatedStreak;
-                if (cabStreak) cabStreak.textContent = calculatedStreak;
-
-                const profileSolved = document.getElementById('profile-stat-solved');
-                const cabSolved = document.getElementById('cab-stat-solved');
-                if (profileSolved) profileSolved.textContent = calculatedSolved;
-                if (cabSolved) cabSolved.textContent = calculatedSolved;
-
-                const profileAcc = document.getElementById('profile-stat-accuracy');
-                const cabAcc = document.getElementById('cab-stat-accuracy');
-                if (profileAcc) profileAcc.textContent = calculatedAcc + '%';
-                if (cabAcc) cabAcc.textContent = calculatedAcc + '%';
+            if (res && res.success) {
+                mergeCloudAndLocalData(res.progress || {}, res.history || []);
 
                 if (syncBadge) {
                     syncBadge.textContent = '☁️ Cloud Synced';
@@ -3578,6 +3677,9 @@ async function initGoogleSheetsAccountSync() {
                     syncBadge.style.borderColor = 'rgba(63, 185, 80, 0.3)';
                 }
                 if (cabinetBadge) cabinetBadge.textContent = '☁️ Cloud Synced to Google Sheets';
+
+                // Sync 2-way merged data back to Google Sheets to ensure cloud is complete
+                enqueueCloudSync(null);
                 return;
             }
         } catch (e) {
@@ -3585,12 +3687,12 @@ async function initGoogleSheetsAccountSync() {
         }
     }
 
-    // Fallback to local data
+    // Fallback display if offline or remote sync fails
     if (syncBadge) {
-        syncBadge.textContent = '🔌 Local Mode';
+        syncBadge.textContent = '⚠️ Local Saved';
         syncBadge.style.color = '#eab308';
+        syncBadge.style.borderColor = 'rgba(234, 179, 8, 0.3)';
     }
-    loadLocalUserData();
 }
 
 function loadLocalUserData() {
@@ -3599,82 +3701,166 @@ function loadLocalUserData() {
         state.userPlaylists = JSON.parse(localStorage.getItem('starley_user_playlists') || '[]');
         state.sessionHistory = JSON.parse(localStorage.getItem('starley_session_history') || '[]');
     } catch (e) {}
+    updateQuizStatsUI();
 }
 
 /**
- * Background Sync to Google Sheets
+ * Enqueue & Debounce Cloud Sync Operation
  */
-async function syncCloudUserData(newSessionObj) {
+function enqueueCloudSync(newSessionObj) {
     const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
 
     if (newSessionObj) {
-        state.sessionHistory.unshift(newSessionObj);
-        localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
+        state.pendingSessionToSync = newSessionObj;
+        const exists = state.sessionHistory.some(s => s.sessionId === newSessionObj.sessionId);
+        if (!exists) {
+            state.sessionHistory.unshift(newSessionObj);
+        }
     }
 
-    // Dynamic stats calculation from session history
-    const totalSolved = state.sessionHistory.reduce((sum, s) => sum + (s.totalQ || 0), 0);
-    const totalCorrect = state.sessionHistory.reduce((sum, s) => sum + (s.correctQ || 0), 0);
-    const accuracyPct = totalSolved > 0 ? Math.round((totalCorrect / totalSolved) * 100) : 0;
+    // Persist immediately locally
+    localStorage.setItem('starley_user_favorites', JSON.stringify(state.userFavorites));
+    localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+    localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
+    localStorage.setItem('starley_has_pending_sync', 'true');
 
-    const uniqueDays = new Set(state.sessionHistory.map(s => s.date ? s.date.split('T')[0] : ''));
-    uniqueDays.delete('');
-    const streakDays = Math.max(uniqueDays.size, 1);
+    updateQuizStatsUI();
 
-    // Update UI elements
-    const profileStreak = document.getElementById('profile-stat-streak');
-    const cabStreak = document.getElementById('cab-stat-streak');
-    if (profileStreak) profileStreak.textContent = streakDays;
-    if (cabStreak) cabStreak.textContent = streakDays;
+    if (!user || user.isGuest) return;
 
-    const profileSolved = document.getElementById('profile-stat-solved');
-    const cabSolved = document.getElementById('cab-stat-solved');
-    if (profileSolved) profileSolved.textContent = totalSolved;
-    if (cabSolved) cabSolved.textContent = totalSolved;
+    const syncBadge = document.getElementById('quiz-sync-status-badge');
+    if (syncBadge) {
+        syncBadge.textContent = '⏳ Syncing...';
+        syncBadge.style.color = '#58a6ff';
+    }
 
-    const profileAcc = document.getElementById('profile-stat-accuracy');
-    const cabAcc = document.getElementById('cab-stat-accuracy');
-    if (profileAcc) profileAcc.textContent = accuracyPct + '%';
-    if (cabAcc) cabAcc.textContent = accuracyPct + '%';
+    if (syncDebounceTimer) clearTimeout(syncDebounceTimer);
+    syncDebounceTimer = setTimeout(() => {
+        processSyncQueue();
+    }, 500);
+}
 
-    if (!user || user.isGuest) {
-        // Save locally
-        localStorage.setItem('starley_user_favorites', JSON.stringify(state.userFavorites));
-        localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+/**
+ * Process Sync Queue with Backend
+ */
+async function processSyncQueue(isImmediate = false) {
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (!user || user.isGuest) return;
+
+    if (state.cloudSyncing) {
+        state.syncPendingRetry = true;
         return;
     }
 
     const syncBadge = document.getElementById('quiz-sync-status-badge');
-    if (syncBadge) syncBadge.textContent = '⏳ Syncing...';
+    const cabinetBadge = document.getElementById('cabinet-sync-indicator');
 
-    // Local backup
-    localStorage.setItem('starley_user_favorites', JSON.stringify(state.userFavorites));
-    localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+    state.cloudSyncing = true;
+    if (syncBadge) {
+        syncBadge.textContent = '⏳ Syncing...';
+        syncBadge.style.color = '#58a6ff';
+    }
 
-    if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.syncUserData === 'function') {
-        const payload = {
-            streakDays: streakDays,
-            solvedCount: totalSolved,
-            accuracyPct: accuracyPct,
-            favorites: state.userFavorites,
-            playlists: state.userPlaylists,
-            newSession: newSessionObj || null
-        };
+    const totalSolved = state.sessionHistory.reduce((sum, s) => sum + (s.totalQ || 0), 0);
+    const totalCorrect = state.sessionHistory.reduce((sum, s) => sum + (s.correctQ || 0), 0);
+    const accuracyPct = totalSolved > 0 ? Math.round((totalCorrect / totalSolved) * 100) : 0;
+    const uniqueDays = new Set(state.sessionHistory.map(s => s.date ? s.date.split('T')[0] : ''));
+    uniqueDays.delete('');
+    const streakDays = Math.max(uniqueDays.size, 1);
 
-        const res = await window.GoogleSheetsAPI.syncUserData(user.username, payload);
-        if (res && res.success) {
-            if (syncBadge) {
-                syncBadge.textContent = '☁️ Cloud Synced';
-                syncBadge.style.color = '#3fb950';
+    const payload = {
+        streakDays: streakDays,
+        solvedCount: totalSolved,
+        accuracyPct: accuracyPct,
+        favorites: state.userFavorites,
+        playlists: state.userPlaylists,
+        newSession: state.pendingSessionToSync || null
+    };
+
+    try {
+        if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.syncUserData === 'function') {
+            const res = await window.GoogleSheetsAPI.syncUserData(user.username, payload);
+            if (res && res.success) {
+                state.pendingSessionToSync = null;
+                localStorage.removeItem('starley_has_pending_sync');
+                if (syncBadge) {
+                    syncBadge.textContent = '☁️ Cloud Synced';
+                    syncBadge.style.color = '#3fb950';
+                    syncBadge.style.borderColor = 'rgba(63, 185, 80, 0.3)';
+                }
+                if (cabinetBadge) cabinetBadge.textContent = '☁️ Cloud Synced to Google Sheets';
+            } else {
+                throw new Error(res ? res.error : 'Sync response unsuccessful');
             }
-        } else {
-            if (syncBadge) {
-                syncBadge.textContent = '🔌 Local Saved';
-                syncBadge.style.color = '#eab308';
-            }
+        }
+    } catch (err) {
+        console.warn('[GoogleSheetsSync] Queue sync error:', err);
+        if (syncBadge) {
+            syncBadge.textContent = '⚠️ Unsynced (Local)';
+            syncBadge.style.color = '#eab308';
+            syncBadge.style.borderColor = 'rgba(234, 179, 8, 0.3)';
+        }
+        if (cabinetBadge) cabinetBadge.textContent = '⚠️ Unsynced Changes (Saved Locally)';
+    } finally {
+        state.cloudSyncing = false;
+        if (state.syncPendingRetry) {
+            state.syncPendingRetry = false;
+            processSyncQueue();
         }
     }
 }
+
+// Backward-compatible alias for existing sync calls
+async function syncCloudUserData(newSessionObj) {
+    enqueueCloudSync(newSessionObj);
+}
+
+/**
+ * Manual Trigger for Google Sheets Cloud Sync
+ */
+window.manualCloudSync = async function() {
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (!user || user.isGuest) {
+        alert('ℹ️ Guest mode operates in local storage only. Please log in with a registered account for cloud sync.');
+        return;
+    }
+
+    const syncBadge = document.getElementById('quiz-sync-status-badge');
+    if (syncBadge) {
+        syncBadge.textContent = '⏳ Syncing...';
+        syncBadge.style.color = '#58a6ff';
+    }
+
+    try {
+        await initGoogleSheetsAccountSync();
+        await processSyncQueue(true);
+        alert(`✅ Cloud Sync Complete!\n\nUser Account: ${user.username}\nPlaylists: ${state.userPlaylists.length}\nStarred Favorites: ${state.userFavorites.length}\nQuiz Sessions: ${state.sessionHistory.length}`);
+    } catch (e) {
+        alert('⚠️ Sync encountered an issue: ' + (e.message || e));
+    }
+};
+
+// Lifecycle Auto-Retry Sync Listeners
+window.addEventListener('online', () => {
+    console.log('[SyncEngine] Network restored. Retrying sync queue...');
+    processSyncQueue();
+});
+
+setInterval(() => {
+    if (localStorage.getItem('starley_has_pending_sync') === 'true') {
+        processSyncQueue();
+    }
+}, 30000);
+
+document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'hidden') {
+        processSyncQueue(true);
+    }
+});
+
+window.addEventListener('beforeunload', () => {
+    processSyncQueue(true);
+});
 
 /**
  * Update Profile Avatar and Nickname Display Across UI
