@@ -19,10 +19,11 @@
             return { success: false, error: 'Google Sheets Web App URL not configured.' };
         }
 
-        const controller = new AbortController();
-        const timeoutId = setTimeout(() => controller.abort(), 15000);
-
+        // 1. Attempt POST request first
         try {
+            const controller = new AbortController();
+            const timeoutId = setTimeout(() => controller.abort(), 8000);
+
             const response = await fetch(url, {
                 method: 'POST',
                 headers: {
@@ -33,6 +34,37 @@
             });
 
             clearTimeout(timeoutId);
+
+            if (response.ok) {
+                const rawText = await response.text();
+                if (rawText && rawText.trim()) {
+                    try {
+                        return JSON.parse(rawText);
+                    } catch (jsonErr) {
+                        console.warn('[GoogleSheetsAPI] Non-JSON POST response, trying GET fallback...');
+                    }
+                }
+            }
+        } catch (postError) {
+            console.warn('[GoogleSheetsAPI] POST request failed (CORS/Network), executing GET fallback...', postError.message);
+        }
+
+        // 2. GET Fallback (100% immune to browser CORS restrictions on GitHub Pages)
+        try {
+            const controller2 = new AbortController();
+            const timeoutId2 = setTimeout(() => controller2.abort(), 25000);
+
+            const action = encodeURIComponent(payload.action || '');
+            const username = encodeURIComponent(payload.username || '');
+            const payloadStr = encodeURIComponent(JSON.stringify(payload));
+            const getUrl = `${url}?action=${action}&username=${username}&payload=${payloadStr}`;
+
+            const response = await fetch(getUrl, {
+                method: 'GET',
+                signal: controller2.signal
+            });
+
+            clearTimeout(timeoutId2);
 
             if (!response.ok) {
                 throw new Error(`HTTP Error ${response.status}`);
@@ -47,19 +79,18 @@
             try {
                 data = JSON.parse(rawText);
             } catch (jsonErr) {
-                console.error('[GoogleSheetsAPI] Non-JSON output from backend:', rawText.substring(0, 200));
+                console.error('[GoogleSheetsAPI] Non-JSON output from backend GET:', rawText.substring(0, 200));
                 return { 
                     success: false, 
-                    error: 'Backend returned HTML/non-JSON response. Please verify Google Apps Script deployment.' 
+                    error: 'Backend returned HTML/non-JSON response.' 
                 };
             }
 
             return data;
-        } catch (error) {
-            clearTimeout(timeoutId);
-            const isAbort = error.name === 'AbortError';
-            const errMsg = isAbort ? 'Request timed out (15s).' : error.message;
-            console.error('[GoogleSheetsAPI] Fetch Error:', errMsg);
+        } catch (getError) {
+            const isAbort = getError.name === 'AbortError';
+            const errMsg = isAbort ? 'Request timed out (15s).' : getError.message;
+            console.error('[GoogleSheetsAPI] GET Fallback Error:', errMsg);
             return { success: false, error: 'Connection to Google Sheets backend failed: ' + errMsg };
         }
     }

@@ -37,14 +37,30 @@ function handleRequest(e) {
     ensureSheetsInitialized();
 
     let params = {};
-    if (e.postData && e.postData.contents) {
+    if (e && e.postData && e.postData.contents) {
       try {
         params = JSON.parse(e.postData.contents);
       } catch (err) {
-        params = e.parameter || {};
+        params = (e && e.parameter) || {};
       }
-    } else if (e.parameter) {
-      params = e.parameter;
+    } else if (e && e.parameter) {
+      params = e.parameter || {};
+    }
+
+    if (params && params.payload) {
+      try {
+        let pObj = typeof params.payload === 'string' ? JSON.parse(params.payload) : params.payload;
+        if (pObj && typeof pObj === 'object') {
+          params = Object.assign({}, pObj, params);
+        }
+      } catch (pErr) {
+        try {
+          let pObj = JSON.parse(decodeURIComponent(params.payload));
+          if (pObj && typeof pObj === 'object') {
+            params = Object.assign({}, pObj, params);
+          }
+        } catch (pErr2) {}
+      }
     }
 
     const action = params.action || '';
@@ -136,19 +152,12 @@ function ensureSheetsInitialized() {
       sheet = ss.insertSheet(sheetDef.name);
       sheet.appendRow(sheetDef.headers);
       sheet.getRange(1, 1, 1, sheetDef.headers.length).setFontWeight('bold').setBackground('#1f2937').setFontColor('#ffffff');
-    } else if (sheetDef.name === 'Session_History') {
-      // Migrate older header if it has only 10 columns
-      const headersRange = sheet.getRange(1, 1, 1, Math.max(sheet.getLastColumn(), 1));
-      const currentHeaders = headersRange.getValues()[0];
-      if (currentHeaders.length < sheetDef.headers.length) {
-        sheet.getRange(1, 1, 1, sheetDef.headers.length).setValues([sheetDef.headers]).setFontWeight('bold').setBackground('#1f2937').setFontColor('#ffffff');
-      }
     }
   });
 
   // Check default admin account
   const accountsSheet = ss.getSheetByName('Accounts');
-  if (accountsSheet.getLastRow() <= 1) {
+  if (accountsSheet && accountsSheet.getLastRow() <= 1) {
     accountsSheet.appendRow(['admin', '456755', 'admin', 'Administrator', 'doc', 'admin@starley-cs.org', '', 'active', new Date().toISOString(), '']);
   }
 }
@@ -183,7 +192,6 @@ function handleLogin(params) {
         return { success: false, error: 'This account has been disabled by an administrator.' };
       }
 
-      // Update LastLogin timestamp
       sheet.getRange(i + 1, 10).setValue(new Date().toISOString());
 
       return {
@@ -223,61 +231,69 @@ function handleGetUserData(params) {
     playlists: []
   };
 
-  const progData = progressSheet.getDataRange().getValues();
-  for (let i = 1; i < progData.length; i++) {
-    if (String(progData[i][0]).trim().toLowerCase() === username) {
-      userProgress.streakDays = Number(progData[i][1]) || 1;
-      userProgress.solvedCount = Number(progData[i][2]) || 0;
-      userProgress.accuracyPct = Number(progData[i][3]) || 0;
-      userProgress.mastery = safeParseJSON(progData[i][4], {});
-      userProgress.favorites = safeParseJSON(progData[i][5], []);
-      userProgress.playlists = safeParseJSON(progData[i][6], []);
-      break;
+  if (progressSheet) {
+    const progData = progressSheet.getDataRange().getValues();
+    for (let i = 1; i < progData.length; i++) {
+      if (String(progData[i][0]).trim().toLowerCase() === username) {
+        userProgress.streakDays = Number(progData[i][1]) || 1;
+        userProgress.solvedCount = Number(progData[i][2]) || 0;
+        userProgress.accuracyPct = Number(progData[i][3]) || 0;
+        userProgress.mastery = safeParseJSON(progData[i][4], {});
+        userProgress.favorites = safeParseJSON(progData[i][5], []);
+        userProgress.playlists = safeParseJSON(progData[i][6], []);
+        break;
+      }
     }
   }
 
-  // Retrieve user's session history (last 50 sessions)
-  const historyData = historySheet.getDataRange().getValues();
+  // Fast fetch of user's recent session history (last 100 rows only)
   const userHistory = [];
+  if (historySheet) {
+    const lastRow = historySheet.getLastRow();
+    if (lastRow > 1) {
+      const startRow = Math.max(2, lastRow - 99);
+      const numRows = lastRow - startRow + 1;
+      const historyData = historySheet.getRange(startRow, 1, numRows, Math.min(13, historySheet.getLastColumn())).getValues();
 
-  for (let i = historyData.length - 1; i >= 1; i--) {
-    const row = historyData[i];
-    if (String(row[1]).trim().toLowerCase() === username) {
-      let sessObj = {};
-      if (row.length >= 13) {
-        sessObj = {
-          sessionId: row[0],
-          date: row[2],
-          setTitle: row[3],
-          mode: row[4],
-          lang: row[5] || 'En',
-          countMode: String(row[6] || '10'),
-          topics: safeParseJSON(row[7], []),
-          totalQ: Number(row[8]),
-          correctQ: Number(row[9]),
-          scorePct: Number(row[10]),
-          timeSpentSec: Number(row[11]),
-          errors: safeParseJSON(row[12], [])
-        };
-      } else {
-        // Legacy 10-column schema fallback
-        sessObj = {
-          sessionId: row[0],
-          date: row[2],
-          setTitle: row[3],
-          mode: row[4],
-          lang: 'En',
-          countMode: String(row[5] || '10'),
-          topics: [row[3] || 'General'],
-          totalQ: Number(row[5]),
-          correctQ: Number(row[6]),
-          scorePct: Number(row[7]),
-          timeSpentSec: Number(row[8]),
-          errors: safeParseJSON(row[9], [])
-        };
+      for (let i = historyData.length - 1; i >= 0; i--) {
+        const row = historyData[i];
+        if (String(row[1]).trim().toLowerCase() === username) {
+          let sessObj = {};
+          if (row.length >= 13) {
+            sessObj = {
+              sessionId: row[0],
+              date: row[2],
+              setTitle: row[3],
+              mode: row[4],
+              lang: row[5] || 'En',
+              countMode: String(row[6] || '10'),
+              topics: safeParseJSON(row[7], []),
+              totalQ: Number(row[8]),
+              correctQ: Number(row[9]),
+              scorePct: Number(row[10]),
+              timeSpentSec: Number(row[11]),
+              errors: safeParseJSON(row[12], [])
+            };
+          } else {
+            sessObj = {
+              sessionId: row[0],
+              date: row[2],
+              setTitle: row[3],
+              mode: row[4],
+              lang: 'En',
+              countMode: String(row[5] || '10'),
+              topics: [row[3] || 'General'],
+              totalQ: Number(row[5]),
+              correctQ: Number(row[6]),
+              scorePct: Number(row[7]),
+              timeSpentSec: Number(row[8]),
+              errors: safeParseJSON(row[9], [])
+            };
+          }
+          userHistory.push(sessObj);
+          if (userHistory.length >= 50) break;
+        }
       }
-      userHistory.push(sessObj);
-      if (userHistory.length >= 50) break;
     }
   }
 
@@ -293,11 +309,10 @@ function handleGetUserData(params) {
  */
 function handleSyncUserData(params) {
   const lock = LockService.getScriptLock();
+  let hasLock = false;
   try {
-    lock.waitLock(10000);
-  } catch (e) {
-    return { success: false, error: 'Server busy, please retry sync in a moment.' };
-  }
+    hasLock = lock.tryLock(2000);
+  } catch (e) {}
 
   try {
     const username = String(params.username || '').trim().toLowerCase();
@@ -369,7 +384,9 @@ function handleSyncUserData(params) {
 
     return { success: true, message: 'User progress synchronized successfully.' };
   } finally {
-    lock.releaseLock();
+    if (hasLock) {
+      try { lock.releaseLock(); } catch(e) {}
+    }
   }
 }
 
