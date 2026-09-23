@@ -1262,8 +1262,7 @@ function toggleFavoriteQuestion(q) {
         if (!state.userFavorites.some(f => String(f.id) === qId)) {
             state.userFavorites.push({
                 id: qId,
-                questionSnippet: (q['question' + ((state.settings && state.settings.lang) ? state.settings.lang : 'Ru')] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '').substring(0, 80),
-                questionObj: q,
+                questionSnippet: (q['question' + ((state.settings && state.settings.lang) ? state.settings.lang : 'Ru')] || q.questionEn || q.question || '').replace(/<[^>]*>/g, '').substring(0, 100),
                 addedAt: new Date().toISOString()
             });
         }
@@ -3504,6 +3503,45 @@ state.pendingSessionToSync = null;
 let syncDebounceTimer = null;
 
 /**
+ * Sanitize Favorites List to prevent cell overflow and huge network payloads
+ */
+function sanitizeFavoritesList(favList) {
+    if (!Array.isArray(favList)) return [];
+    return favList.map(item => {
+        if (!item) return null;
+        if (typeof item === 'string' || typeof item === 'number') {
+            return {
+                id: String(item),
+                questionSnippet: 'Question #' + item,
+                addedAt: new Date().toISOString()
+            };
+        }
+        const snippet = String(item.questionSnippet || (item.questionObj && (item.questionObj.questionRu || item.questionObj.questionEn || item.questionObj.question)) || '').replace(/<[^>]*>/g, '').substring(0, 100);
+        return {
+            id: String(item.id || ''),
+            questionSnippet: snippet,
+            addedAt: item.addedAt || new Date().toISOString()
+        };
+    }).filter(item => item && item.id);
+}
+
+/**
+ * Sanitize Playlists List to ensure clean IDs and title lengths
+ */
+function sanitizePlaylistsList(playlistList) {
+    if (!Array.isArray(playlistList)) return [];
+    return playlistList.map(pl => {
+        if (!pl || !pl.id) return null;
+        return {
+            id: String(pl.id),
+            title: String(pl.title || 'Untitled Playlist').substring(0, 80),
+            questionIds: Array.isArray(pl.questionIds) ? pl.questionIds.map(String) : [],
+            createdAt: pl.createdAt || new Date().toISOString()
+        };
+    }).filter(Boolean);
+}
+
+/**
  * 2-Way Data Merge between Local Storage & Google Sheets Backend
  */
 function mergeCloudAndLocalData(cloudProgress, cloudHistory) {
@@ -3511,13 +3549,13 @@ function mergeCloudAndLocalData(cloudProgress, cloudHistory) {
     let localPlaylists = [];
     let localHistory = [];
     try {
-        localFavs = JSON.parse(localStorage.getItem('starley_user_favorites') || '[]');
-        localPlaylists = JSON.parse(localStorage.getItem('starley_user_playlists') || '[]');
+        localFavs = sanitizeFavoritesList(JSON.parse(localStorage.getItem('starley_user_favorites') || '[]'));
+        localPlaylists = sanitizePlaylistsList(JSON.parse(localStorage.getItem('starley_user_playlists') || '[]'));
         localHistory = JSON.parse(localStorage.getItem('starley_session_history') || '[]');
     } catch (e) {}
 
-    const cloudFavs = (cloudProgress && cloudProgress.favorites) || [];
-    const cloudPlaylists = (cloudProgress && cloudProgress.playlists) || [];
+    const cloudFavs = sanitizeFavoritesList((cloudProgress && cloudProgress.favorites) || []);
+    const cloudPlaylists = sanitizePlaylistsList((cloudProgress && cloudProgress.playlists) || []);
     const remoteHistory = cloudHistory || [];
 
     // 1. Merge Favorites (union by question id)
@@ -3533,7 +3571,7 @@ function mergeCloudAndLocalData(cloudProgress, cloudHistory) {
             }
         }
     });
-    const mergedFavs = Array.from(favMap.values());
+    const mergedFavs = sanitizeFavoritesList(Array.from(favMap.values()));
 
     // 2. Merge Playlists (by playlist id)
     const plMap = new Map();
@@ -3559,7 +3597,7 @@ function mergeCloudAndLocalData(cloudProgress, cloudHistory) {
             }
         }
     });
-    const mergedPlaylists = Array.from(plMap.values());
+    const mergedPlaylists = sanitizePlaylistsList(Array.from(plMap.values()));
 
     // 3. Merge Session History (by sessionId)
     const sessMap = new Map();
@@ -3615,8 +3653,67 @@ function updateQuizStatsUI() {
     if (profileAcc) profileAcc.textContent = accuracyPct + '%';
     if (cabAcc) cabAcc.textContent = accuracyPct + '%';
 
+    const streakEl = document.getElementById('stat-streak-days');
+    const solvedEl = document.getElementById('stat-total-solved');
+    const accEl = document.getElementById('stat-accuracy-pct');
+    const plCountEl = document.getElementById('cab-stat-playlists');
+    const favCountEl = document.getElementById('cab-stat-favorites');
+
+    if (streakEl) streakEl.textContent = streakDays;
+    if (solvedEl) solvedEl.textContent = totalSolved;
+    if (accEl) accEl.textContent = `${accuracyPct}%`;
+    if (plCountEl) plCountEl.textContent = state.userPlaylists.length;
+    if (favCountEl) favCountEl.textContent = state.userFavorites.length;
+
+    const barStreak = document.getElementById('bar-stat-streak');
+    const barSolved = document.getElementById('bar-stat-solved');
+    const barAcc = document.getElementById('bar-stat-accuracy');
+    if (barStreak) barStreak.textContent = streakDays;
+    if (barSolved) barSolved.textContent = totalSolved;
+    if (barAcc) barAcc.textContent = `${accuracyPct}%`;
+
     if (typeof window.renderCabinetPlaylists === 'function') {
         window.renderCabinetPlaylists();
+    }
+}
+
+/**
+ * Fetch and Sync User Data from Google Sheets on Login
+ */
+async function fetchAndSyncUserData(username) {
+    const syncBadge = document.getElementById('quiz-sync-status-badge');
+    const cabinetBadge = document.getElementById('cabinet-sync-indicator');
+
+    if (syncBadge) {
+        syncBadge.textContent = '⏳ Loading Cloud...';
+        syncBadge.style.color = '#58a6ff';
+    }
+    if (cabinetBadge) cabinetBadge.textContent = 'Connecting to Cloud...';
+
+    if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.getUserData === 'function') {
+        try {
+            const res = await window.GoogleSheetsAPI.getUserData(username);
+            if (res && res.success) {
+                mergeCloudAndLocalData(res.progress, res.history);
+
+                if (syncBadge) {
+                    syncBadge.textContent = '☁️ Cloud Synced';
+                    syncBadge.style.color = '#3fb950';
+                    syncBadge.style.borderColor = 'rgba(63, 185, 80, 0.3)';
+                }
+                if (cabinetBadge) cabinetBadge.textContent = '✅ Cloud Synchronized';
+                return;
+            }
+        } catch (e) {
+            console.warn('[Sync] Failed to fetch remote user data:', e);
+        }
+    }
+
+    // Fallback display if offline or remote sync fails
+    if (syncBadge) {
+        syncBadge.textContent = '⚠️ Local Saved';
+        syncBadge.style.color = '#eab308';
+        syncBadge.style.borderColor = 'rgba(234, 179, 8, 0.3)';
     }
 }
 
@@ -3697,9 +3794,12 @@ async function initGoogleSheetsAccountSync() {
 
 function loadLocalUserData() {
     try {
-        state.userFavorites = JSON.parse(localStorage.getItem('starley_user_favorites') || '[]');
-        state.userPlaylists = JSON.parse(localStorage.getItem('starley_user_playlists') || '[]');
+        state.userFavorites = sanitizeFavoritesList(JSON.parse(localStorage.getItem('starley_user_favorites') || '[]'));
+        state.userPlaylists = sanitizePlaylistsList(JSON.parse(localStorage.getItem('starley_user_playlists') || '[]'));
         state.sessionHistory = JSON.parse(localStorage.getItem('starley_session_history') || '[]');
+        // Purge legacy bloated items immediately from localStorage
+        localStorage.setItem('starley_user_favorites', JSON.stringify(state.userFavorites));
+        localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
     } catch (e) {}
     updateQuizStatsUI();
 }
@@ -3772,8 +3872,8 @@ async function processSyncQueue(isImmediate = false) {
         streakDays: streakDays,
         solvedCount: totalSolved,
         accuracyPct: accuracyPct,
-        favorites: state.userFavorites,
-        playlists: state.userPlaylists,
+        favorites: sanitizeFavoritesList(state.userFavorites),
+        playlists: sanitizePlaylistsList(state.userPlaylists),
         newSession: state.pendingSessionToSync || null
     };
 

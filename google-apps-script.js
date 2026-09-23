@@ -325,10 +325,50 @@ function handleSyncUserData(params) {
     const streakDays = Number(params.streakDays) || 1;
     const solvedCount = Number(params.solvedCount) || 0;
     const accuracyPct = Number(params.accuracyPct) || 0;
-    const masteryJSON = JSON.stringify(params.mastery || {});
-    const favoritesJSON = JSON.stringify(params.favorites || []);
-    const playlistsJSON = JSON.stringify(params.playlists || []);
     const nowStr = new Date().toISOString();
+
+    // Sanitize favorites (strip large questionObj, limit to 45k characters per cell)
+    let cleanFavs = [];
+    if (Array.isArray(params.favorites)) {
+      cleanFavs = params.favorites.map(f => {
+        if (!f) return null;
+        if (typeof f === 'string' || typeof f === 'number') {
+          return { id: String(f), questionSnippet: '', addedAt: nowStr };
+        }
+        return {
+          id: String(f.id || ''),
+          questionSnippet: String(f.questionSnippet || '').substring(0, 100),
+          addedAt: f.addedAt || nowStr
+        };
+      }).filter(f => f && f.id);
+    }
+    let favoritesJSON = JSON.stringify(cleanFavs);
+    if (favoritesJSON.length > 45000) {
+      favoritesJSON = favoritesJSON.substring(0, 45000);
+    }
+
+    // Sanitize playlists (limit to 45k characters per cell)
+    let cleanPlaylists = [];
+    if (Array.isArray(params.playlists)) {
+      cleanPlaylists = params.playlists.map(p => {
+        if (!p || !p.id) return null;
+        return {
+          id: String(p.id),
+          title: String(p.title || '').substring(0, 80),
+          questionIds: Array.isArray(p.questionIds) ? p.questionIds.map(String) : [],
+          createdAt: p.createdAt || nowStr
+        };
+      }).filter(Boolean);
+    }
+    let playlistsJSON = JSON.stringify(cleanPlaylists);
+    if (playlistsJSON.length > 45000) {
+      playlistsJSON = playlistsJSON.substring(0, 45000);
+    }
+
+    let masteryJSON = JSON.stringify(params.mastery || {});
+    if (masteryJSON.length > 45000) {
+      masteryJSON = masteryJSON.substring(0, 45000);
+    }
 
     let foundRow = -1;
     for (let i = 1; i < progData.length; i++) {

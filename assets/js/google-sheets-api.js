@@ -22,10 +22,11 @@
         // 1. Attempt POST request first
         try {
             const controller = new AbortController();
-            const timeoutId = setTimeout(() => controller.abort(), 8000);
+            const timeoutId = setTimeout(() => controller.abort(), 12000);
 
             const response = await fetch(url, {
                 method: 'POST',
+                mode: 'cors',
                 headers: {
                     'Content-Type': 'text/plain;charset=utf-8'
                 },
@@ -49,15 +50,20 @@
             console.warn('[GoogleSheetsAPI] POST request failed (CORS/Network), executing GET fallback...', postError.message);
         }
 
-        // 2. GET Fallback (100% immune to browser CORS restrictions on GitHub Pages)
+        // 2. GET Fallback (for lightweight actions, immune to browser CORS restrictions on GitHub Pages)
         try {
-            const controller2 = new AbortController();
-            const timeoutId2 = setTimeout(() => controller2.abort(), 25000);
-
+            const payloadStr = encodeURIComponent(JSON.stringify(payload));
             const action = encodeURIComponent(payload.action || '');
             const username = encodeURIComponent(payload.username || '');
-            const payloadStr = encodeURIComponent(JSON.stringify(payload));
             const getUrl = `${url}?action=${action}&username=${username}&payload=${payloadStr}`;
+
+            if (getUrl.length > 2000) {
+                console.warn('[GoogleSheetsAPI] GET fallback URL length exceeds safe limit (' + getUrl.length + ' chars). Aborting GET to avoid 404.');
+                return { success: false, error: 'Server POST failed and payload too large for GET fallback.' };
+            }
+
+            const controller2 = new AbortController();
+            const timeoutId2 = setTimeout(() => controller2.abort(), 25000);
 
             const response = await fetch(getUrl, {
                 method: 'GET',
@@ -89,7 +95,7 @@
             return data;
         } catch (getError) {
             const isAbort = getError.name === 'AbortError';
-            const errMsg = isAbort ? 'Request timed out (15s).' : getError.message;
+            const errMsg = isAbort ? 'Request timed out (25s).' : getError.message;
             console.error('[GoogleSheetsAPI] GET Fallback Error:', errMsg);
             return { success: false, error: 'Connection to Google Sheets backend failed: ' + errMsg };
         }
