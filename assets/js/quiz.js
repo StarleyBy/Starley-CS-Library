@@ -3542,6 +3542,32 @@ function sanitizePlaylistsList(playlistList) {
 }
 
 /**
+ * Sanitize Completed Session Object to prevent large payload network overhead
+ */
+function sanitizeSessionForSync(sessionObj) {
+    if (!sessionObj) return null;
+    return {
+        sessionId: String(sessionObj.sessionId || ('sess_' + Date.now())),
+        date: sessionObj.date || new Date().toISOString(),
+        setTitle: String(sessionObj.setTitle || 'Quiz Session').substring(0, 80),
+        mode: sessionObj.mode || 'smart',
+        lang: sessionObj.lang || 'En',
+        countMode: String(sessionObj.countMode || '10'),
+        topics: Array.isArray(sessionObj.topics) ? sessionObj.topics.slice(0, 5) : [],
+        totalQ: Number(sessionObj.totalQ) || 0,
+        correctQ: Number(sessionObj.correctQ) || 0,
+        scorePct: Number(sessionObj.scorePct) || 0,
+        timeSpentSec: Number(sessionObj.timeSpentSec) || 0,
+        errors: Array.isArray(sessionObj.errors) ? sessionObj.errors.map(e => ({
+            questionId: String(e.questionId || ''),
+            chosen: String(e.chosen || ''),
+            isCorrect: !!e.isCorrect,
+            correctAnswer: String(e.correctAnswer || '')
+        })).slice(0, 100) : []
+    };
+}
+
+/**
  * 2-Way Data Merge between Local Storage & Google Sheets Backend
  */
 function mergeCloudAndLocalData(cloudProgress, cloudHistory) {
@@ -3874,7 +3900,7 @@ async function processSyncQueue(isImmediate = false) {
         accuracyPct: accuracyPct,
         favorites: sanitizeFavoritesList(state.userFavorites),
         playlists: sanitizePlaylistsList(state.userPlaylists),
-        newSession: state.pendingSessionToSync || null
+        newSession: sanitizeSessionForSync(state.pendingSessionToSync)
     };
 
     try {
@@ -3953,13 +3979,15 @@ setInterval(() => {
 }, 30000);
 
 document.addEventListener('visibilitychange', () => {
-    if (document.visibilityState === 'hidden') {
+    if (document.visibilityState === 'hidden' && localStorage.getItem('starley_has_pending_sync') === 'true' && !state.cloudSyncing) {
         processSyncQueue(true);
     }
 });
 
 window.addEventListener('beforeunload', () => {
-    processSyncQueue(true);
+    if (localStorage.getItem('starley_has_pending_sync') === 'true' && !state.cloudSyncing) {
+        processSyncQueue(true);
+    }
 });
 
 /**

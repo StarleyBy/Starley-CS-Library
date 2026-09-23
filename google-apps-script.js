@@ -391,33 +391,49 @@ function handleSyncUserData(params) {
     // Record session history if provided
     if (params.newSession) {
       const s = params.newSession;
-      const historySheet = ss.getSheetByName('Session_History');
-      
-      const histData = historySheet.getDataRange().getValues();
+      const lastRow = historySheet.getLastRow();
       const sessId = String(s.sessionId || ('sess_' + Date.now())).trim();
       let exists = false;
-      for (let i = 1; i < histData.length; i++) {
-        if (String(histData[i][0]).trim() === sessId) {
-          exists = true;
-          break;
+      if (lastRow > 1) {
+        const checkRows = Math.min(50, lastRow - 1);
+        const recentIds = historySheet.getRange(lastRow - checkRows + 1, 1, checkRows, 1).getValues();
+        for (let i = 0; i < recentIds.length; i++) {
+          if (String(recentIds[i][0]).trim() === sessId) {
+            exists = true;
+            break;
+          }
         }
       }
 
       if (!exists) {
+        let cleanErrors = [];
+        if (Array.isArray(s.errors)) {
+          cleanErrors = s.errors.map(function(e) {
+            return {
+              questionId: String(e.questionId || ''),
+              chosen: String(e.chosen || ''),
+              isCorrect: !!e.isCorrect,
+              correctAnswer: String(e.correctAnswer || '')
+            };
+          }).slice(0, 100);
+        }
+        let errorsJSON = JSON.stringify(cleanErrors);
+        if (errorsJSON.length > 45000) errorsJSON = errorsJSON.substring(0, 45000);
+
         historySheet.appendRow([
           sessId,
           username,
           s.date || nowStr,
-          s.setTitle || 'Quiz Session',
+          String(s.setTitle || 'Quiz Session').substring(0, 100),
           s.mode || 'smart',
           s.lang || 'En',
           String(s.countMode || '10'),
-          JSON.stringify(s.topics || []),
+          JSON.stringify(Array.isArray(s.topics) ? s.topics.slice(0, 5) : []),
           Number(s.totalQ) || 0,
           Number(s.correctQ) || 0,
           Number(s.scorePct) || 0,
           Number(s.timeSpentSec) || 0,
-          JSON.stringify(s.errors || [])
+          errorsJSON
         ]);
       }
     }

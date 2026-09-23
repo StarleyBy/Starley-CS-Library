@@ -22,7 +22,13 @@
         // 1. Attempt POST request first
         try {
             const controller = new AbortController();
-            const timeoutId = setTimeout(() => controller.abort(), 12000);
+            const timeoutId = setTimeout(() => {
+                try {
+                    controller.abort(new Error('Request timed out (35s)'));
+                } catch (e) {
+                    controller.abort();
+                }
+            }, 35000);
 
             const response = await fetch(url, {
                 method: 'POST',
@@ -59,11 +65,17 @@
 
             if (getUrl.length > 2000) {
                 console.warn('[GoogleSheetsAPI] GET fallback URL length exceeds safe limit (' + getUrl.length + ' chars). Aborting GET to avoid 404.');
-                return { success: false, error: 'Server POST failed and payload too large for GET fallback.' };
+                return { success: false, error: 'Server POST failed and payload too large for GET fallback (' + getUrl.length + ' chars).' };
             }
 
             const controller2 = new AbortController();
-            const timeoutId2 = setTimeout(() => controller2.abort(), 25000);
+            const timeoutId2 = setTimeout(() => {
+                try {
+                    controller2.abort(new Error('Request timed out (30s)'));
+                } catch (e) {
+                    controller2.abort();
+                }
+            }, 30000);
 
             const response = await fetch(getUrl, {
                 method: 'GET',
@@ -94,8 +106,8 @@
 
             return data;
         } catch (getError) {
-            const isAbort = getError.name === 'AbortError';
-            const errMsg = isAbort ? 'Request timed out (25s).' : getError.message;
+            const isAbort = getError.name === 'AbortError' || (getError.message && getError.message.includes('abort'));
+            const errMsg = isAbort ? 'Request timed out (30s).' : getError.message;
             console.error('[GoogleSheetsAPI] GET Fallback Error:', errMsg);
             return { success: false, error: 'Connection to Google Sheets backend failed: ' + errMsg };
         }
