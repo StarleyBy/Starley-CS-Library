@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "totalManifests": 18,
+    "totalQuestions": 2949,
+    "updatedAt": "2026-09-23T12:43:41.008Z"
+  },
+  "quizzes": [
+    {
+      "num": 1,
+      "id": "quiz-adult",
+      "title": "adult_cardiac_surgery",
+      "file": "books/work/examen/quiz/quiz-adult.json",
+      "totalQuestions": 368
+    },
+    {
+      "num": 2,
+      "id": "quiz-congenital",
+      "title": "congenital_heart_surgery",
+      "file": "books/work/examen/quiz/quiz-congenital.json",
+      "totalQuestions": 126
+    },
+    {
+      "num": 3,
+      "id": "quiz-icu",
+      "title": "critical_care",
+      "file": "books/work/examen/quiz/quiz-icu.json",
+      "totalQuestions": 105
+    },
+    {
+      "num": 4,
+      "id": "quiz-seats",
+      "title": "seats",
+      "file": "books/work/examen/quiz/quiz-seats.json",
+      "totalQuestions": 309
+    },
+    {
+      "num": 5,
+      "id": "quiz-seats2",
+      "title": "seats 2",
+      "file": "books/work/examen/quiz/quiz-seats2.json",
+      "totalQuestions": 244
+    },
+    {
+      "num": 6,
+      "id": "quiz-seats3",
+      "title": "vpsAI",
+      "file": "books/work/examen/quiz/quiz-seats3.json",
+      "totalQuestions": 125
+    },
+    {
+      "num": 7,
+      "id": "quiz-surg",
+      "title": "common",
+      "file": "books/work/examen/quiz/quiz-surg.json",
+      "totalQuestions": 125
+    },
+    {
+      "num": 8,
+      "id": "quiz-thoracic",
+      "title": "general_thoracic_surgery",
+      "file": "books/work/examen/quiz/quiz-thoracic.json",
+      "totalQuestions": 271
+    },
+    {
+      "num": 9,
+      "id": "quiz-vps",
+      "title": "vpsAI",
+      "file": "books/work/examen/quiz/quiz-vps.json",
+      "totalQuestions": 150
+    },
+    {
+      "num": 10,
+      "id": "quiz-200pqcs",
+      "title": "200 PRACTICE QUESTIONS IN CARDIOTHORACIC SURGERY",
+      "file": "books/work/examen/quiz/quiz-200pqcs.json",
+      "totalQuestions": 50
+    },
+    {
+      "num": 11,
+      "id": "quiz-2019",
+      "title": "2019",
+      "file": "books/work/examen/quiz/quiz-2019.json",
+      "totalQuestions": 100
+    },
+    {
+      "num": 12,
+      "id": "quiz-2020",
+      "title": "2020-2021",
+      "file": "books/work/examen/quiz/quiz-2020.json",
+      "totalQuestions": 276
+    },
+    {
+      "num": 13,
+      "id": "quiz-2022",
+      "title": "2022",
+      "file": "books/work/examen/quiz/quiz-2022.json",
+      "totalQuestions": 150
+    },
+    {
+      "num": 14,
+      "id": "quiz-2023",
+      "title": "2023",
+      "file": "books/work/examen/quiz/quiz-2023.json",
+      "totalQuestions": 150
+    },
+    {
+      "num": 15,
+      "id": "quiz-aortic-valve",
+      "title": "Aortic Valve Disease Quiz",
+      "file": "books/cardiac-surgery/cohn/quiz/quiz-aortic-valve.json",
+      "totalQuestions": 100
+    },
+    {
+      "num": 16,
+      "id": "quiz-eu-valve",
+      "title": "2025 ESC/EACTS Guidelines for the management of valvular heart disease",
+      "file": "books/guidelines/guide/quiz/quiz-eu-valve.json",
+      "totalQuestions": 100
+    },
+    {
+      "num": 17,
+      "id": "quiz-valve-disease-management",
+      "title": "Valve disease management",
+      "file": "books/guidelines/guide/quiz/quiz-valve-disease-management.json",
+      "totalQuestions": 100
+    },
+    {
+      "num": 18,
+      "id": "quiz-chapter-01",
+      "title": "Management of Adult Cardiac Surgical Disease",
+      "file": "books/icu/bojar/quiz/quiz-chapter-01.json",
+      "totalQuestions": 100
+    }
+  ]
+}

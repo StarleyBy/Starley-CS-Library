@@ -16,6 +16,33 @@
 
 * { box-sizing: border-box; }
 
+/* Hide duplicate floating role-indicator on quiz page to avoid collision with checklist, footer, and modals */
+#role-indicator {
+    display: none !important;
+}
+
+/* Also hide checklist widget when any modal dialog is active */
+body.modal-open #role-indicator,
+body.modal-open #quiz-checklist-widget {
+    display: none !important;
+}
+
+/* Custom sleek scrollbars for the whole quiz app */
+*::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+*::-webkit-scrollbar-track {
+    background: transparent;
+}
+*::-webkit-scrollbar-thumb {
+    background: rgba(139, 148, 158, 0.3);
+    border-radius: 4px;
+}
+*::-webkit-scrollbar-thumb:hover {
+    background: rgba(139, 148, 158, 0.6);
+}
+
 body.quiz-body {
     margin: 0;
     padding: 0;
@@ -46,9 +73,98 @@ body.quiz-body {
     display: flex;
 }
 
-/* Header */
+/* ==========================================================================
+   LOBBY HEADER (Modern, responsive, zero-collision)
+   ========================================================================== */
+.lobby-header {
+    background: rgba(15, 23, 42, 0.95);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border-bottom: 1px solid var(--quiz-border);
+    flex-shrink: 0;
+    z-index: 50;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
+.lobby-header-top {
+    height: 54px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.lobby-header-title {
+    font-size: 1.05rem;
+    font-weight: 800;
+    margin: 0;
+    color: #fff;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    letter-spacing: -0.3px;
+    flex: 1;
+    text-align: center;
+}
+
+.lobby-header-actions {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+}
+
+.quiz-nav-strip {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0 16px 8px;
+    overflow-x: auto;
+    white-space: nowrap;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+}
+
+.quiz-nav-strip::-webkit-scrollbar {
+    display: none;
+}
+
+.quiz-nav-strip .nav-pill {
+    color: var(--quiz-muted);
+    text-decoration: none;
+    font-size: 0.78rem;
+    font-weight: 700;
+    padding: 5px 12px;
+    border-radius: 20px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    transition: all 0.2s ease;
+    flex-shrink: 0;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.quiz-nav-strip .nav-pill:hover {
+    color: var(--quiz-text);
+    background: rgba(255, 255, 255, 0.1);
+    transform: translateY(-1px);
+}
+
+.quiz-nav-strip .nav-pill.active {
+    color: #58a6ff;
+    background: rgba(88, 166, 255, 0.15);
+    border-color: rgba(88, 166, 255, 0.35);
+    box-shadow: 0 0 10px rgba(88, 166, 255, 0.15);
+}
+
+/* Generic Header for other screens */
 .quiz-header {
-    height: var(--header-h);
+    min-height: var(--header-h);
+    height: auto;
     padding: 0 20px;
     display: flex;
     align-items: center;
@@ -132,12 +248,20 @@ body.quiz-body {
 
 /* Lobby */
 .lobby-content {
-    max-width: 600px;
+    max-width: 780px;
+    width: 100%;
     margin: 0 auto;
-    padding: 20px;
+    padding: 20px 16px 80px;
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 16px;
+}
+
+@media (max-width: 600px) {
+    .lobby-content {
+        padding: 12px 12px 90px;
+        gap: 12px;
+    }
 }
 
 .lobby-card {
@@ -155,6 +279,86 @@ body.quiz-body {
     text-transform: uppercase;
     letter-spacing: 1px;
     font-weight: 700;
+}
+
+/* User Profile Card */
+.user-profile-card {
+    background: linear-gradient(135deg, rgba(33, 38, 45, 0.95), rgba(22, 27, 34, 0.95)) !important;
+    border: 1px solid rgba(88, 166, 255, 0.3) !important;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4) !important;
+    cursor: pointer;
+    transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.user-profile-card:hover {
+    border-color: rgba(88, 166, 255, 0.5) !important;
+    transform: translateY(-1px);
+}
+
+.user-profile-header {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    flex-wrap: wrap;
+}
+
+.user-card-actions {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+@media (max-width: 500px) {
+    .user-card-actions {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 8px;
+    }
+    .user-card-actions .btn-profile-edit {
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+/* Language Segmented Bar */
+.lang-segmented-bar {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    background: var(--quiz-surface);
+    padding: 6px;
+    border-radius: 12px;
+    border: 1px solid var(--quiz-border);
+}
+
+.lang-seg-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 14px;
+    border-radius: 8px;
+    border: 1.5px solid transparent;
+    background: transparent;
+    color: var(--quiz-muted);
+    font-weight: 700;
+    font-size: 0.88rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.lang-seg-btn:hover {
+    color: var(--quiz-text);
+    background: rgba(255, 255, 255, 0.04);
+}
+
+.lang-seg-btn.active {
+    background: rgba(88, 166, 255, 0.16);
+    border-color: rgba(88, 166, 255, 0.45);
+    color: #58a6ff;
+    box-shadow: 0 2px 10px rgba(88, 166, 255, 0.15);
 }
 
 .quiz-set-grid {
@@ -1490,12 +1694,28 @@ body.night-mode .cs-flashcard-back,
     display: none !important;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 768px) {
     .quiz-checklist-card {
         bottom: 16px;
         right: 16px;
-        left: 16px;
+        left: auto;
         width: auto;
+        max-width: calc(100vw - 32px);
+    }
+    
+    .quiz-checklist-card.is-minimized {
+        padding: 8px 14px;
+        border-radius: 24px;
+        bottom: 16px;
+        right: 16px;
+        box-shadow: 0 6px 20px rgba(0, 0, 0, 0.45);
+    }
+    
+    .quiz-checklist-card:not(.is-minimized) {
+        left: 16px;
+        right: 16px;
+        max-height: 55vh;
+        overflow-y: auto;
     }
 }
 
@@ -1533,9 +1753,29 @@ body.night-mode .cs-flashcard-back,
 }
 
 .preset-tiers-wrapper {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     gap: 10px;
+}
+
+@media (max-width: 768px) {
+    .preset-tiers-wrapper {
+        grid-template-columns: 1fr;
+        gap: 8px;
+    }
+    
+    .badge-avatar {
+        width: 48px;
+        height: 48px;
+    }
+    
+    .badge-avatar i {
+        font-size: 0.95rem;
+    }
+    
+    .badge-num {
+        font-size: 0.75rem;
+    }
 }
 
 .preset-tier {
@@ -1818,4 +2058,943 @@ body.night-mode .cs-flashcard-back,
 .sync-pill {
     transition: all 0.2s ease;
 }
+
+/* ==========================================================================
+   RPG PROGRESSION & 10-TIER PRESTIGE SYSTEM (Lv.1 Resident to Lv.100 Unrivaled)
+   ========================================================================== */
+
+/* 10 RPG Tiers Variable Definitions */
+.rpg-tier-1 {
+    --tier-primary: #a8a29e;
+    --tier-accent: #f59e0b;
+    --tier-border: rgba(168, 162, 158, 0.35);
+    --tier-glow: 0 6px 20px rgba(0, 0, 0, 0.4);
+    --tier-bg-gradient: linear-gradient(135deg, rgba(33, 38, 45, 0.95), rgba(28, 25, 23, 0.95));
+    --tier-badge-bg: rgba(168, 162, 158, 0.15);
+    --tier-badge-text: #d6d3d1;
+    --tier-badge-border: rgba(168, 162, 158, 0.4);
+    --tier-btn-bg: linear-gradient(135deg, #44403c, #292524);
+    --tier-title-color: #e7e5e4;
+    --tier-font-family: inherit;
+}
+
+.rpg-tier-2 {
+    --tier-primary: #14b8a6;
+    --tier-accent: #2dd4bf;
+    --tier-border: rgba(45, 212, 191, 0.45);
+    --tier-glow: 0 6px 24px rgba(20, 184, 166, 0.2);
+    --tier-bg-gradient: linear-gradient(135deg, rgba(19, 78, 74, 0.3), rgba(15, 23, 42, 0.95));
+    --tier-badge-bg: rgba(20, 184, 166, 0.2);
+    --tier-badge-text: #5eead4;
+    --tier-badge-border: rgba(45, 212, 191, 0.5);
+    --tier-btn-bg: linear-gradient(135deg, #0d9488, #0f766e);
+    --tier-title-color: #99f6e4;
+    --tier-font-family: inherit;
+}
+
+.rpg-tier-3 {
+    --tier-primary: #10b981;
+    --tier-accent: #34d399;
+    --tier-border: rgba(52, 211, 153, 0.55);
+    --tier-glow: 0 6px 28px rgba(16, 185, 129, 0.28);
+    --tier-bg-gradient: linear-gradient(135deg, rgba(6, 78, 59, 0.35), rgba(15, 23, 42, 0.95));
+    --tier-badge-bg: rgba(16, 185, 129, 0.22);
+    --tier-badge-text: #6ee7b7;
+    --tier-badge-border: rgba(52, 211, 153, 0.6);
+    --tier-btn-bg: linear-gradient(135deg, #059669, #047857);
+    --tier-title-color: #a7f3d0;
+    --tier-font-family: inherit;
+}
+
+.rpg-tier-4 {
+    --tier-primary: #3b82f6;
+    --tier-accent: #60a5fa;
+    --tier-border: rgba(96, 165, 250, 0.65);
+    --tier-glow: 0 8px 32px rgba(59, 130, 246, 0.32);
+    --tier-bg-gradient: linear-gradient(135deg, rgba(30, 58, 138, 0.4), rgba(15, 23, 42, 0.95));
+    --tier-badge-bg: rgba(59, 130, 246, 0.24);
+    --tier-badge-text: #93c5fd;
+    --tier-badge-border: rgba(96, 165, 250, 0.7);
+    --tier-btn-bg: linear-gradient(135deg, #2563eb, #1d4ed8);
+    --tier-title-color: #bfdbfe;
+    --tier-font-family: inherit;
+}
+
+.rpg-tier-5 {
+    --tier-primary: #a855f7;
+    --tier-accent: #c084fc;
+    --tier-border: rgba(192, 132, 252, 0.7);
+    --tier-glow: 0 8px 36px rgba(168, 85, 247, 0.38);
+    --tier-bg-gradient: linear-gradient(135deg, rgba(88, 28, 135, 0.4), rgba(15, 23, 42, 0.95));
+    --tier-badge-bg: rgba(168, 85, 247, 0.26);
+    --tier-badge-text: #d8b4fe;
+    --tier-badge-border: rgba(192, 132, 252, 0.75);
+    --tier-btn-bg: linear-gradient(135deg, #9333ea, #7e22ce);
+    --tier-title-color: #e9d5ff;
+    --tier-font-family: inherit;
+}
+
+.rpg-tier-6 {
+    --tier-primary: #f43f5e;
+    --tier-accent: #fb7185;
+    --tier-border: rgba(244, 63, 94, 0.75);
+    --tier-glow: 0 10px 40px rgba(244, 63, 94, 0.42);
+    --tier-bg-gradient: linear-gradient(135deg, rgba(136, 19, 55, 0.45), rgba(15, 23, 42, 0.95));
+    --tier-badge-bg: rgba(244, 63, 94, 0.28);
+    --tier-badge-text: #fda4af;
+    --tier-badge-border: rgba(244, 63, 94, 0.8);
+    --tier-btn-bg: linear-gradient(135deg, #e11d48, #be123c);
+    --tier-title-color: #fecdd3;
+    --tier-font-family: inherit;
+}
+
+.rpg-tier-7 {
+    --tier-primary: #eab308;
+    --tier-accent: #fde047;
+    --tier-border: rgba(250, 204, 21, 0.85);
+    --tier-glow: 0 10px 45px rgba(234, 179, 8, 0.48);
+    --tier-bg-gradient: linear-gradient(135deg, rgba(113, 63, 18, 0.45), rgba(20, 16, 5, 0.95));
+    --tier-badge-bg: rgba(234, 179, 8, 0.3);
+    --tier-badge-text: #fef08a;
+    --tier-badge-border: rgba(250, 204, 21, 0.85);
+    --tier-btn-bg: linear-gradient(135deg, #ca8a04, #a16207);
+    --tier-title-color: #fef9c3;
+    --tier-font-family: inherit;
+}
+
+.rpg-tier-8 {
+    --tier-primary: #f97316;
+    --tier-accent: #fdba74;
+    --tier-border: rgba(249, 115, 22, 0.9);
+    --tier-glow: 0 12px 50px rgba(249, 115, 22, 0.55);
+    --tier-bg-gradient: linear-gradient(135deg, rgba(124, 45, 18, 0.5), rgba(20, 10, 5, 0.95));
+    --tier-badge-bg: rgba(249, 115, 22, 0.32);
+    --tier-badge-text: #fed7aa;
+    --tier-badge-border: rgba(249, 115, 22, 0.9);
+    --tier-btn-bg: linear-gradient(135deg, #ea580c, #c2410c);
+    --tier-title-color: #ffedd5;
+    --tier-font-family: inherit;
+}
+
+.rpg-tier-9 {
+    --tier-primary: #818cf8;
+    --tier-accent: #38bdf8;
+    --tier-border: rgba(129, 140, 248, 0.95);
+    --tier-glow: 0 14px 55px rgba(129, 140, 248, 0.6), 0 0 25px rgba(56, 189, 248, 0.35);
+    --tier-bg-gradient: linear-gradient(135deg, rgba(49, 46, 129, 0.55), rgba(12, 10, 30, 0.95));
+    --tier-badge-bg: rgba(129, 140, 248, 0.35);
+    --tier-badge-text: #c7d2fe;
+    --tier-badge-border: rgba(129, 140, 248, 0.95);
+    --tier-btn-bg: linear-gradient(135deg, #6366f1, #4f46e5);
+    --tier-title-color: #e0e7ff;
+    --tier-font-family: inherit;
+}
+
+.rpg-tier-10 {
+    --tier-primary: #ffffff;
+    --tier-accent: #f472b6;
+    --tier-border: rgba(255, 255, 255, 0.95);
+    --tier-glow: 0 16px 65px rgba(255, 255, 255, 0.45), 0 0 35px rgba(244, 114, 182, 0.55), 0 0 60px rgba(56, 189, 248, 0.5);
+    --tier-bg-gradient: linear-gradient(135deg, rgba(30, 27, 75, 0.75), rgba(15, 23, 42, 0.95));
+    --tier-badge-bg: linear-gradient(135deg, rgba(255, 0, 128, 0.35), rgba(0, 240, 255, 0.35));
+    --tier-badge-text: #ffffff;
+    --tier-badge-border: rgba(255, 255, 255, 0.95);
+    --tier-btn-bg: linear-gradient(135deg, #ec4899, #8b5cf6, #3b82f6);
+    --tier-title-color: #ffffff;
+    --tier-font-family: inherit;
+}
+
+/* Card & Component Transformations according to active Tier */
+#quiz-user-profile-card.rpg-tier-1, #quiz-profile-modal.rpg-tier-1 .quiz-modal-card { border-color: var(--tier-border); box-shadow: var(--tier-glow); }
+#quiz-user-profile-card.rpg-tier-2, #quiz-profile-modal.rpg-tier-2 .quiz-modal-card { border-color: var(--tier-border); box-shadow: var(--tier-glow); }
+#quiz-user-profile-card.rpg-tier-3, #quiz-profile-modal.rpg-tier-3 .quiz-modal-card { border-color: var(--tier-border); box-shadow: var(--tier-glow); }
+#quiz-user-profile-card.rpg-tier-4, #quiz-profile-modal.rpg-tier-4 .quiz-modal-card { border-color: var(--tier-border); box-shadow: var(--tier-glow); }
+#quiz-user-profile-card.rpg-tier-5, #quiz-profile-modal.rpg-tier-5 .quiz-modal-card { border-color: var(--tier-border); box-shadow: var(--tier-glow); }
+#quiz-user-profile-card.rpg-tier-6, #quiz-profile-modal.rpg-tier-6 .quiz-modal-card { border-color: var(--tier-border); box-shadow: var(--tier-glow); }
+#quiz-user-profile-card.rpg-tier-7, #quiz-profile-modal.rpg-tier-7 .quiz-modal-card { border-color: var(--tier-border); box-shadow: var(--tier-glow); }
+#quiz-user-profile-card.rpg-tier-8, #quiz-profile-modal.rpg-tier-8 .quiz-modal-card { border-color: var(--tier-border); box-shadow: var(--tier-glow); }
+#quiz-user-profile-card.rpg-tier-9, #quiz-profile-modal.rpg-tier-9 .quiz-modal-card { border-color: var(--tier-border); box-shadow: var(--tier-glow); }
+#quiz-user-profile-card.rpg-tier-10, #quiz-profile-modal.rpg-tier-10 .quiz-modal-card { border-color: var(--tier-border); box-shadow: var(--tier-glow); }
+
+/* Tier 7 Gold Shimmer Animation */
+.rpg-tier-7 #quiz-user-profile-card,
+.rpg-tier-7 .quiz-modal-card,
+.rpg-tier-7 #cab-hero-card {
+    position: relative;
+    overflow: hidden;
+}
+.rpg-tier-7 #quiz-user-profile-card::after,
+.rpg-tier-7 #cab-hero-card::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(60deg, transparent 40%, rgba(254, 240, 138, 0.15) 50%, transparent 60%);
+    transform: rotate(30deg);
+    animation: goldShimmerSweep 5s infinite;
+    pointer-events: none;
+}
+@keyframes goldShimmerSweep {
+    0% { transform: translateX(-100%) rotate(30deg); }
+    30%, 100% { transform: translateX(100%) rotate(30deg); }
+}
+
+/* Tier 8 Plasma Aura Pulse */
+.rpg-tier-8 #quiz-user-profile-card,
+.rpg-tier-8 #cab-hero-card {
+    animation: plasmaBorderPulse 3s ease-in-out infinite alternate;
+}
+@keyframes plasmaBorderPulse {
+    0% { border-color: rgba(249, 115, 22, 0.6); box-shadow: 0 0 25px rgba(249, 115, 22, 0.35); }
+    100% { border-color: rgba(253, 186, 116, 0.95); box-shadow: 0 0 45px rgba(249, 115, 22, 0.65); }
+}
+
+/* Tier 9 Cosmic Void Starlight Shimmer */
+.rpg-tier-9 #quiz-user-profile-card,
+.rpg-tier-9 #cab-hero-card {
+    animation: cosmicBorderPulse 4s ease-in-out infinite alternate;
+}
+@keyframes cosmicBorderPulse {
+    0% { border-color: rgba(129, 140, 248, 0.7); box-shadow: 0 0 30px rgba(129, 140, 248, 0.4); }
+    100% { border-color: rgba(56, 189, 248, 0.95); box-shadow: 0 0 50px rgba(129, 140, 248, 0.7), 0 0 20px rgba(56, 189, 248, 0.5); }
+}
+
+/* Tier 10 Prismatic Hologram Flow */
+@property --holo-angle {
+    syntax: '<angle>';
+    initial-value: 0deg;
+    inherits: false;
+}
+@keyframes holoRotate {
+    to { --holo-angle: 360deg; }
+}
+.rpg-tier-10 #quiz-user-profile-card,
+.rpg-tier-10 #cab-hero-card {
+    position: relative;
+    border: 2px solid transparent !important;
+    background-origin: padding-box, border-box !important;
+    background-clip: padding-box, border-box !important;
+    background-image: linear-gradient(135deg, rgba(20, 15, 45, 0.95), rgba(10, 15, 30, 0.95)), 
+                      conic-gradient(from var(--holo-angle, 0deg), #ff007f, #ff7700, #ffea00, #00ff66, #00f0ff, #0044ff, #7000ff, #ff007f) !important;
+    animation: holoRotate 5s linear infinite;
+}
+
+/* Prismatic rank title text shine for Tier 10 */
+.rpg-tier-10 .rpg-rank-title-text,
+.rpg-tier-10 #profile-nickname-display {
+    background: linear-gradient(90deg, #ff007f, #00f0ff, #7000ff, #00ff66, #ffea00, #ff007f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 200% auto;
+    animation: textShine 4s linear infinite;
+    font-weight: 900;
+}
+@keyframes textShine {
+    to { background-position: 200% center; }
+}
+
+/* ==========================================================================
+   RPG DASHBOARD & INFOGRAPHICS UI COMPONENTS
+   ========================================================================== */
+
+/* 1. Hero Card in Personal Cabinet */
+.rpg-hero-card {
+    background: linear-gradient(135deg, rgba(22, 27, 34, 0.95), rgba(13, 17, 23, 0.95));
+    border: 1.5px solid var(--tier-border, rgba(88, 166, 255, 0.3));
+    border-radius: 16px;
+    padding: 18px 20px;
+    margin-bottom: 16px;
+    box-shadow: var(--tier-glow, 0 10px 30px rgba(0,0,0,0.5));
+    transition: all 0.3s ease;
+}
+
+.rpg-hero-header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin-bottom: 14px;
+}
+
+.rpg-hero-avatar-box {
+    position: relative;
+    flex-shrink: 0;
+}
+
+.rpg-hero-avatar-ring {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.6rem;
+    color: #fff;
+    border: 2.5px solid var(--tier-accent, #58a6ff);
+    box-shadow: 0 0 20px var(--tier-primary, rgba(88, 166, 255, 0.4));
+    transition: all 0.3s ease;
+}
+
+.rpg-tier-badge-pill {
+    padding: 3px 10px;
+    border-radius: 14px;
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.3px;
+    background: var(--tier-badge-bg, rgba(88, 166, 255, 0.15));
+    color: var(--tier-badge-text, #58a6ff);
+    border: 1px solid var(--tier-badge-border, rgba(88, 166, 255, 0.4));
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+}
+
+/* EXP Progress Bar in Hero Card */
+.rpg-exp-bar-wrap {
+    background: rgba(13, 17, 23, 0.7);
+    border: 1px solid var(--quiz-border);
+    border-radius: 8px;
+    height: 12px;
+    overflow: hidden;
+    position: relative;
+    margin: 8px 0;
+}
+
+.rpg-exp-bar-fill {
+    height: 100%;
+    background: linear-gradient(90deg, var(--tier-primary, #3b82f6), var(--tier-accent, #60a5fa));
+    border-radius: 8px;
+    position: relative;
+    transition: width 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.rpg-exp-bar-fill::after {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.35), transparent);
+    animation: barShimmer 2.5s infinite;
+}
+@keyframes barShimmer {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(100%); }
+}
+
+.rpg-risk-indicator {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 12px;
+    margin-top: 6px;
+}
+
+.rpg-risk-low {
+    background: rgba(35, 134, 54, 0.15);
+    color: #3fb950;
+    border: 1px solid rgba(35, 134, 54, 0.35);
+}
+.rpg-risk-med {
+    background: rgba(234, 179, 8, 0.15);
+    color: #eab308;
+    border: 1px solid rgba(234, 179, 8, 0.35);
+}
+.rpg-risk-high {
+    background: rgba(218, 54, 51, 0.18);
+    color: #f87171;
+    border: 1px solid rgba(218, 54, 51, 0.4);
+    animation: pulseRisk 2s infinite;
+}
+@keyframes pulseRisk {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.75; }
+}
+
+/* 2. Interactive Velocity & Cadence Infographics */
+.rpg-cadence-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    margin-bottom: 16px;
+}
+
+.rpg-cadence-card {
+    background: rgba(13, 17, 23, 0.65);
+    border: 1px solid var(--quiz-border);
+    border-radius: 14px;
+    padding: 14px 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    transition: all 0.25s ease;
+}
+.rpg-cadence-card:hover {
+    border-color: var(--tier-accent, var(--quiz-accent));
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+.rpg-cadence-val {
+    font-size: 1.4rem;
+    font-weight: 900;
+    color: var(--quiz-text);
+    margin: 4px 0 2px;
+    letter-spacing: -0.5px;
+}
+
+.rpg-cadence-sub {
+    font-size: 0.72rem;
+    color: var(--quiz-muted);
+    line-height: 1.3;
+}
+
+/* 3. Momentum & Heatmap Chart */
+.rpg-infographic-card {
+    background: rgba(13, 17, 23, 0.65);
+    border: 1px solid var(--quiz-border);
+    border-radius: 14px;
+    padding: 16px 18px;
+    margin-bottom: 16px;
+    transition: all 0.25s ease;
+}
+
+.rpg-infographic-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.rpg-time-filter-btn {
+    background: rgba(48, 54, 61, 0.4);
+    border: 1px solid var(--quiz-border);
+    color: var(--quiz-muted);
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.rpg-time-filter-btn.active, .rpg-time-filter-btn:hover {
+    background: var(--quiz-accent);
+    color: #fff;
+    border-color: var(--quiz-accent);
+}
+
+/* SVG Chart Elements & Interactive Tooltip */
+.rpg-svg-chart {
+    width: 100%;
+    overflow: visible;
+}
+.rpg-bar-item {
+    cursor: pointer;
+    transition: opacity 0.2s, transform 0.2s;
+}
+.rpg-bar-item:hover {
+    opacity: 0.85;
+}
+
+.rpg-chart-tooltip {
+    position: absolute;
+    background: rgba(22, 27, 34, 0.95);
+    border: 1px solid var(--quiz-accent);
+    color: var(--quiz-text);
+    padding: 6px 10px;
+    border-radius: 8px;
+    font-size: 0.75rem;
+    pointer-events: none;
+    z-index: 2000;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(8px);
+    white-space: nowrap;
+    transition: opacity 0.15s ease;
+}
+
+/* 4. RPG Clinical Attributes Hexagonal Matrix Grid */
+.rpg-attr-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+@media (max-width: 600px) {
+    .rpg-cadence-grid { grid-template-columns: 1fr; }
+    .rpg-attr-grid { grid-template-columns: 1fr; }
+}
+
+.rpg-attr-card {
+    background: rgba(22, 27, 34, 0.6);
+    border: 1px solid var(--quiz-border);
+    border-radius: 10px;
+    padding: 10px 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    transition: all 0.2s;
+}
+.rpg-attr-card:hover {
+    border-color: var(--tier-border, var(--quiz-accent));
+    transform: translateY(-2px);
+}
+
+.rpg-attr-rank-badge {
+    font-size: 0.7rem;
+    font-weight: 900;
+    padding: 1px 6px;
+    border-radius: 6px;
+}
+.rpg-rank-sss { background: linear-gradient(135deg, #f43f5e, #fbbf24); color: #fff; }
+.rpg-rank-s { background: rgba(59, 130, 246, 0.25); color: #60a5fa; border: 1px solid #3b82f6; }
+.rpg-rank-a { background: rgba(16, 185, 129, 0.25); color: #34d399; border: 1px solid #10b981; }
+.rpg-rank-b { background: rgba(234, 179, 8, 0.25); color: #fde047; border: 1px solid #eab308; }
+.rpg-rank-c { background: rgba(249, 115, 22, 0.25); color: #fdba74; border: 1px solid #f97316; }
+.rpg-rank-d { background: rgba(139, 148, 158, 0.2); color: #8b949e; border: 1px solid #484f58; }
+
+.rpg-attr-bar-bg {
+    height: 5px;
+    background: rgba(48, 54, 61, 0.5);
+    border-radius: 3px;
+    overflow: hidden;
+}
+.rpg-attr-bar-val {
+    height: 100%;
+    border-radius: 3px;
+    transition: width 0.4s ease;
+}
+
+/* 5. Results Screen RPG Card */
+.rpg-results-card {
+    background: linear-gradient(135deg, rgba(22, 27, 34, 0.95), rgba(13, 17, 23, 0.95));
+    border: 1.5px solid var(--tier-border, rgba(88, 166, 255, 0.4));
+    border-radius: 14px;
+    padding: 14px 18px;
+    box-shadow: var(--tier-glow, 0 8px 24px rgba(0, 0, 0, 0.5));
+    animation: modal-slide-in 0.3s ease-out;
+}
+
+/* ==========================================================================
+   INTERACTIVE TOPIC & MANIFEST MASTERY CARDS
+   ========================================================================== */
+.rpg-topic-filter-btn {
+    background: rgba(22, 27, 34, 0.8);
+    border: 1px solid var(--quiz-border);
+    color: var(--quiz-muted);
+    font-size: 0.76rem;
+    font-weight: 700;
+    padding: 5px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+.rpg-topic-filter-btn:hover {
+    color: var(--quiz-text);
+    border-color: rgba(88, 166, 255, 0.4);
+}
+.rpg-topic-filter-btn.active {
+    background: rgba(88, 166, 255, 0.18);
+    border-color: #58a6ff;
+    color: #58a6ff;
+    box-shadow: 0 0 10px rgba(88, 166, 255, 0.25);
+}
+
+.rpg-topic-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+    gap: 12px;
+    margin-top: 10px;
+}
+.rpg-topic-card {
+    background: linear-gradient(145deg, rgba(22, 27, 34, 0.9), rgba(13, 17, 23, 0.9));
+    border: 1px solid var(--quiz-border);
+    border-radius: 12px;
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+    position: relative;
+    overflow: hidden;
+}
+.rpg-topic-card:hover {
+    border-color: var(--tier-accent, #58a6ff);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5), 0 0 12px rgba(88, 166, 255, 0.15);
+}
+.rpg-topic-card.active-topic {
+    border-color: rgba(56, 189, 248, 0.4);
+    background: linear-gradient(145deg, rgba(24, 32, 47, 0.95), rgba(13, 17, 23, 0.95));
+}
+.rpg-topic-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+}
+.rpg-topic-title {
+    font-size: 0.88rem;
+    font-weight: 800;
+    color: var(--quiz-text);
+    line-height: 1.3;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.rpg-topic-actions {
+    display: flex;
+    gap: 6px;
+    margin-top: 4px;
+    flex-wrap: wrap;
+}
+.rpg-topic-btn {
+    padding: 6px 12px;
+    border-radius: 8px;
+    font-size: 0.74rem;
+    font-weight: 700;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    transition: all 0.2s;
+    border: 1px solid transparent;
+}
+.rpg-topic-btn-primary {
+    background: linear-gradient(135deg, rgba(35, 134, 54, 0.8), rgba(46, 160, 67, 0.8));
+    border-color: rgba(46, 160, 67, 0.5);
+    color: #fff;
+}
+.rpg-topic-btn-primary:hover {
+    background: #2ea043;
+    transform: scale(1.02);
+    box-shadow: 0 0 12px rgba(46, 160, 67, 0.4);
+}
+.rpg-topic-btn-danger {
+    background: rgba(248, 113, 113, 0.12);
+    border-color: rgba(248, 113, 113, 0.35);
+    color: #f87171;
+}
+.rpg-topic-btn-danger:hover {
+    background: rgba(248, 113, 113, 0.25);
+    border-color: #f87171;
+}
+
+/* ==========================================================================
+   RPG CODEX MODAL & 100-LEVEL ROADMAP
+   ========================================================================== */
+.rpg-codex-tier-nav {
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--quiz-border);
+    margin-bottom: 14px;
+}
+.rpg-codex-tier-tab {
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    background: rgba(22, 27, 34, 0.6);
+    border: 1px solid var(--quiz-border);
+    color: var(--quiz-muted);
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.2s;
+}
+.rpg-codex-tier-tab:hover {
+    color: var(--quiz-text);
+    border-color: rgba(88, 166, 255, 0.4);
+}
+.rpg-codex-tier-tab.active {
+    background: rgba(88, 166, 255, 0.2);
+    border-color: var(--quiz-accent);
+    color: var(--quiz-text);
+    box-shadow: 0 0 12px rgba(88, 166, 255, 0.3);
+}
+
+.rpg-level-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 14px;
+    border-radius: 8px;
+    background: rgba(13, 17, 23, 0.6);
+    border: 1px solid var(--quiz-border);
+    margin-bottom: 6px;
+    font-size: 0.82rem;
+    transition: all 0.2s;
+}
+.rpg-level-row.current-level {
+    background: rgba(88, 166, 255, 0.15);
+    border-color: var(--quiz-accent);
+    box-shadow: 0 0 14px rgba(88, 166, 255, 0.3);
+    font-weight: 800;
+}
+.rpg-level-row.past-level {
+    opacity: 0.85;
+    border-color: rgba(46, 160, 67, 0.3);
+}
+
+/* Momentum Interactive Drilldown Panel */
+.rpg-momentum-drilldown {
+    background: rgba(13, 17, 23, 0.7);
+    border: 1px solid rgba(88, 166, 255, 0.3);
+    border-radius: 10px;
+    padding: 12px 14px;
+    margin-top: 10px;
+    animation: modal-slide-in 0.25s ease-out;
+}
+
+/* Highlight pulse effect when clicking setup guide items */
+@keyframes highlight-pulse-anim {
+    0% { box-shadow: 0 0 0 rgba(88, 166, 255, 0); outline: 2px solid transparent; }
+    50% { box-shadow: 0 0 24px rgba(88, 166, 255, 0.7); outline: 2px solid #58a6ff; }
+    100% { box-shadow: 0 0 0 rgba(88, 166, 255, 0); outline: 2px solid transparent; }
+}
+
+.highlight-pulse {
+    animation: highlight-pulse-anim 1.2s ease-in-out !important;
+}
+
+/* Header & Cabinet Language Toggle Buttons */
+#btn-header-lang-toggle:hover,
+#btn-cab-lang-toggle:hover {
+    background: rgba(88, 166, 255, 0.28) !important;
+    border-color: #58a6ff !important;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(88, 166, 255, 0.25);
+}
+
+#btn-header-lang-toggle:active,
+#btn-cab-lang-toggle:active {
+    transform: translateY(0);
+}
+
+/* ==========================================================================
+   PERSONAL CABINET ENHANCEMENTS (Tabs, 2x2 Mobile Grid, Smooth Scroll)
+   ========================================================================== */
+.quiz-modal-card {
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+.quiz-modal-header {
+    flex-shrink: 0 !important;
+}
+
+.cabinet-tabs {
+    display: grid !important;
+    grid-template-columns: repeat(4, 1fr) !important;
+    flex-shrink: 0 !important;
+    min-height: 48px !important;
+    height: 48px !important;
+    align-items: center !important;
+    border-bottom: 1px solid var(--quiz-border) !important;
+    background: rgba(13, 17, 23, 0.95) !important;
+    padding: 6px 10px !important;
+    gap: 6px !important;
+    z-index: 10 !important;
+    box-sizing: border-box !important;
+}
+
+.admin-tabs {
+    display: flex !important;
+    flex-shrink: 0 !important;
+    min-height: 48px !important;
+    height: 48px !important;
+    align-items: center !important;
+    border-bottom: 1px solid var(--quiz-border) !important;
+    background: rgba(13, 17, 23, 0.95) !important;
+    padding: 0 12px !important;
+    overflow-x: auto !important;
+    white-space: nowrap !important;
+    scrollbar-width: none !important;
+    -webkit-overflow-scrolling: touch !important;
+    gap: 8px !important;
+    z-index: 10 !important;
+}
+
+.cabinet-tabs::-webkit-scrollbar,
+.admin-tabs::-webkit-scrollbar {
+    display: none !important;
+}
+
+.cabinet-tab-btn {
+    width: 100% !important;
+    height: 36px !important;
+    padding: 0 4px !important;
+    background: rgba(255, 255, 255, 0.05) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    border-radius: 8px !important;
+    color: var(--quiz-muted) !important;
+    font-weight: 700 !important;
+    font-size: 0.82rem !important;
+    cursor: pointer !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 5px !important;
+    white-space: nowrap !important;
+    box-sizing: border-box !important;
+    transition: all 0.2s ease !important;
+}
+
+.admin-tab-btn {
+    height: 34px !important;
+    padding: 0 14px !important;
+    background: rgba(255, 255, 255, 0.05) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+    border-radius: 8px !important;
+    color: var(--quiz-muted) !important;
+    font-weight: 700 !important;
+    font-size: 0.82rem !important;
+    cursor: pointer !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    white-space: nowrap !important;
+    flex-shrink: 0 !important;
+    transition: all 0.2s ease !important;
+}
+
+.cabinet-tab-btn:hover,
+.admin-tab-btn:hover {
+    color: var(--quiz-text) !important;
+    background: rgba(255, 255, 255, 0.1) !important;
+}
+
+.cabinet-tab-btn.active {
+    background: rgba(88, 166, 255, 0.18) !important;
+    border-color: rgba(88, 166, 255, 0.5) !important;
+    color: #58a6ff !important;
+    box-shadow: 0 0 10px rgba(88, 166, 255, 0.2) !important;
+}
+
+.admin-tab-btn.active {
+    background: rgba(234, 179, 8, 0.18) !important;
+    border-color: rgba(234, 179, 8, 0.5) !important;
+    color: #eab308 !important;
+    box-shadow: 0 0 10px rgba(234, 179, 8, 0.2) !important;
+}
+
+.quiz-modal-body {
+    flex: 1 1 auto !important;
+    min-height: 0 !important;
+    overflow-y: auto !important;
+}
+
+/* Quick 4 Stats: 4-cols on desktop, 2x2 grid on mobile */
+.cab-quick-stats-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-bottom: 16px;
+}
+
+@media (max-width: 600px) {
+    .quiz-modal-backdrop {
+        padding: 8px !important;
+    }
+    .quiz-modal-card {
+        max-height: 94vh !important;
+        height: 94vh !important;
+        border-radius: 16px !important;
+    }
+    .cabinet-tabs {
+        min-height: 44px !important;
+        height: 44px !important;
+        padding: 4px 6px !important;
+        gap: 4px !important;
+    }
+    .admin-tabs {
+        min-height: 44px !important;
+        height: 44px !important;
+        padding: 0 8px !important;
+        gap: 6px !important;
+    }
+    .cabinet-tab-btn {
+        height: 34px !important;
+        padding: 0 2px !important;
+        font-size: 0.74rem !important;
+        gap: 3px !important;
+    }
+    .admin-tab-btn {
+        height: 34px !important;
+        padding: 0 10px !important;
+        font-size: 0.8rem !important;
+    }
+    .cab-quick-stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+    }
+    
+    .cab-quick-stats-grid > div {
+        padding: 10px 8px !important;
+    }
+}
+
+/* ==========================================================================
+   QUESTION SCREEN HEADER & MOBILE LAYOUT
+   ========================================================================== */
+.question-header {
+    height: auto !important;
+    min-height: 56px;
+    padding: 8px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+    flex-wrap: wrap;
+    background: rgba(15, 23, 42, 0.95);
+    backdrop-filter: blur(16px);
+    border-bottom: 1px solid var(--quiz-border);
+    position: sticky;
+    top: 0;
+    z-index: 20;
+}
+
+.question-header-actions {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-left: auto;
+}
+
+@media (max-width: 600px) {
+    .question-header {
+        padding: 8px 12px;
+        gap: 8px;
+    }
+    
+    .question-header .quiz-progress-wrapper {
+        order: 3;
+        flex: 1 1 100%;
+        max-width: 100%;
+        margin-top: 4px;
+    }
+    
+    .question-container {
+        padding: 14px 14px 80px;
+    }
+    
+    .option-btn {
+        padding: 14px 16px;
+        font-size: 0.95rem;
+        gap: 12px;
+        border-radius: 12px;
+    }
+    
+    .confidence-chips {
+        flex-direction: column;
+    }
+}
+
+
 

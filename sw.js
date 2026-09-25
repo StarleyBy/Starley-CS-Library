@@ -1,5 +1,5 @@
-const CACHE_STATIC = 'static-v14';
-const CACHE_DYNAMIC = 'dynamic-v14';
+const CACHE_STATIC = 'static-v18';
+const CACHE_DYNAMIC = 'dynamic-v18';
 
 const APP_SHELL = [
   './',

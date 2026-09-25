@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Quiz Mode - Starley CS Library</title>
-    <link rel="stylesheet" href="assets/css/quiz.css?v=1.1">
+    <link rel="stylesheet" href="assets/css/quiz.css?v=2.3">
     <link rel="stylesheet" href="assets/css/overlay-tools.css?v=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <!-- KaTeX for LaTeX math rendering -->
@@ -14,56 +14,74 @@
     <div id="quiz-app">
         <!-- LOBBY SCREEN -->
         <section id="screen-lobby" class="quiz-screen active">
-            <header class="quiz-header" style="flex-wrap: wrap; gap: 10px;">
-                <button class="quiz-back-btn" onclick="window.history.back()"><i class="fas fa-arrow-left"></i> Back</button>
-                <h1 id="lobby-book-title" style="margin: 0; font-size: 1.2rem;">Loading Quiz...</h1>
-                <nav class="quiz-top-nav" style="display: flex; gap: 6px; flex-wrap: wrap; margin-left: auto; align-items: center;">
-                    <a href="index.html" class="nav-btn" style="color: var(--quiz-text); text-decoration: none; font-size: 0.82rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; background: rgba(255,255,255,0.06);">📚 Library</a>
-                    <a href="highlights.html" class="nav-btn" style="color: var(--quiz-text); text-decoration: none; font-size: 0.82rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; background: rgba(255,255,255,0.06);">🔖 Highlights</a>
-                    <a href="search/search.html" class="nav-btn" style="color: var(--quiz-text); text-decoration: none; font-size: 0.82rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; background: rgba(255,255,255,0.06);">🔍 Search</a>
-                    <a href="quiz.html" class="nav-btn active" style="color: #58a6ff; text-decoration: none; font-size: 0.82rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; background: rgba(88,166,255,0.15); border: 1px solid rgba(88,166,255,0.3);">🧠 Quiz</a>
-                    <a href="magazine.html" class="nav-btn" style="color: var(--quiz-text); text-decoration: none; font-size: 0.82rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; background: rgba(255,255,255,0.06);">📰 Magazine</a>
-                    <a href="editor.html" class="nav-btn admin-only" data-role="admin" style="display: none; color: var(--quiz-text); text-decoration: none; font-size: 0.82rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; background: rgba(255,255,255,0.06);">✏️ Editor</a>
-                    <a href="manifest-editor.html" class="nav-btn admin-only" data-role="admin" style="display: none; color: var(--quiz-text); text-decoration: none; font-size: 0.82rem; font-weight: 700; padding: 4px 10px; border-radius: 6px; background: rgba(255,255,255,0.06);">🛠️ Manifest</a>
+            <header class="lobby-header">
+                <div class="lobby-header-top">
+                    <button class="quiz-back-btn" onclick="window.history.back()" title="Back to Library / Назад">
+                        <i class="fas fa-arrow-left"></i> <span>Back</span>
+                    </button>
+                    <h1 id="lobby-book-title" class="lobby-header-title">Starley Clinical Quiz</h1>
+                    <div class="lobby-header-actions">
+                        <button type="button" class="global-lang-btn" onclick="toggleGlobalLanguage()" title="Switch EN/RU Language">
+                            🌐 <span class="txt-lang-code">EN</span>
+                        </button>
+                        <button id="btn-mute-lobby" class="quiz-mute-btn" title="Toggle Sound & Haptics">
+                            <i class="fas fa-volume-up"></i>
+                        </button>
+                    </div>
+                </div>
+                <nav class="quiz-nav-strip">
+                    <a href="index.html" class="nav-pill">📚 Library</a>
+                    <a href="highlights.html" class="nav-pill">🔖 Highlights</a>
+                    <a href="search/search.html" class="nav-pill">🔍 Search</a>
+                    <a href="quiz.html" class="nav-pill active">🧠 Quiz</a>
+                    <a href="magazine.html" class="nav-pill">📰 Magazine</a>
+                    <a href="editor.html" class="nav-pill admin-only" data-role="admin" style="display: none;">✏️ Editor</a>
+                    <a href="manifest-editor.html" class="nav-pill admin-only" data-role="admin" style="display: none;">🛠️ Manifest</a>
                 </nav>
-                <button id="btn-mute-lobby" class="quiz-mute-btn" title="Toggle Sound & Haptics" style="background: none; border: none; color: var(--quiz-text); font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="fas fa-volume-up"></i></button>
             </header>
             <div class="lobby-content">
                 <!-- User Profile Card / Personal Cabinet Entry -->
-                <div id="quiz-user-profile-card" class="lobby-card user-profile-card" onclick="if(typeof renderCabinetContent==='function')renderCabinetContent();const m=document.getElementById('quiz-profile-modal');if(m)m.style.display='flex';" style="background: linear-gradient(135deg, rgba(33, 38, 45, 0.9), rgba(22, 27, 34, 0.9)); border: 1px solid rgba(88, 166, 255, 0.25); box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4); cursor: pointer;">
-                    <div class="user-profile-header" style="display: flex; align-items: center; gap: 14px; flex-wrap: wrap;">
-                        <div class="user-avatar-badge" id="profile-avatar-btn" style="cursor: pointer; position: relative;" title="Click to open Personal Cabinet">
-                            <div class="avatar-glow-ring avatar-doc" id="profile-avatar-icon" style="width: 54px; height: 54px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; color: #fff; box-shadow: 0 0 15px rgba(88, 166, 255, 0.3); border: 2px solid #58a6ff;">
+                <div id="quiz-user-profile-card" class="lobby-card user-profile-card" onclick="if(typeof renderCabinetContent==='function')renderCabinetContent();const m=document.getElementById('quiz-profile-modal');if(m)m.style.display='flex';">
+                    <div class="user-profile-header">
+                        <div class="user-avatar-badge" id="profile-avatar-btn" title="Click to open Personal Cabinet">
+                            <div class="avatar-glow-ring avatar-doc" id="profile-avatar-icon">
                                 <i class="fas fa-stethoscope"></i>
                             </div>
-                            <span style="position: absolute; bottom: -2px; right: -2px; background: var(--quiz-card); border-radius: 50%; width: 20px; height: 20px; display: flex; align-items: center; justify-content: center; font-size: 0.65rem; border: 1px solid var(--quiz-border);">✏️</span>
+                            <span class="avatar-edit-pencil">✏️</span>
                         </div>
-                        <div class="user-info" style="flex: 1; min-width: 180px;">
-                            <div class="user-name-row" style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
-                                <h3 id="profile-nickname-display" style="margin: 0; font-size: 1.05rem; font-weight: 800; color: var(--quiz-text);">Guest Doctor</h3>
-                                <span id="profile-level-badge" class="level-pill" style="background: rgba(35, 134, 54, 0.15); color: #3fb950; padding: 2px 8px; border-radius: 12px; font-size: 0.72rem; font-weight: 700; border: 1px solid rgba(35, 134, 54, 0.3);">Lv.1 Resident</span>
-                                <span id="quiz-sync-status-badge" class="sync-pill" onclick="if(window.manualCloudSync) window.manualCloudSync();" style="background: rgba(139, 148, 158, 0.15); color: #8b949e; padding: 2px 8px; border-radius: 12px; font-size: 0.72rem; font-weight: 700; border: 1px solid rgba(139, 148, 158, 0.3); display: inline-flex; align-items: center; gap: 4px; cursor: pointer;" title="Click to force Google Sheets sync">👤 Guest (Local)</span>
+                        <div class="user-info-col" style="flex: 1; min-width: 160px;">
+                            <div class="user-name-row">
+                                <h3 id="profile-nickname-display" class="user-name-title">Guest Doctor</h3>
+                                <span id="profile-level-badge" class="level-pill rpg-tier-badge-pill">Lv.1 Resident</span>
+                                <span id="quiz-sync-status-badge" class="sync-pill" onclick="event.stopPropagation();if(window.manualCloudSync) window.manualCloudSync();" title="Click to force Google Sheets sync">👤 Guest (Local)</span>
                             </div>
-                            <div class="user-stats-row" style="display: flex; align-items: center; gap: 8px; font-size: 0.78rem; color: var(--quiz-muted); margin-top: 4px; flex-wrap: wrap;">
-                                <span>🔥 <strong id="profile-stat-streak" style="color: var(--quiz-text);">1</strong> day streak</span>
+                            <div class="user-stats-bar">
+                                <span>🔥 <strong id="profile-stat-streak">1</strong> <span id="lbl-profile-stat-streak">day streak</span></span>
                                 <span>•</span>
-                                <span>✅ <strong id="profile-stat-solved" style="color: var(--quiz-text);">0</strong> solved</span>
+                                <span>✅ <strong id="profile-stat-solved">0</strong> <span id="lbl-profile-stat-solved">solved</span></span>
                                 <span>•</span>
-                                <span>🎯 <strong id="profile-stat-accuracy" style="color: var(--quiz-text);">0%</strong> accuracy</span>
+                                <span>🎯 <strong id="profile-stat-accuracy">0%</strong> <span id="lbl-profile-stat-accuracy">accuracy</span></span>
+                            </div>
+                            <!-- Mini EXP Progress Bar in Lobby Card -->
+                            <div class="lobby-exp-wrap" style="margin-top: 6px; display: flex; align-items: center; gap: 8px;">
+                                <div style="flex: 1; height: 5px; background: rgba(255,255,255,0.1); border-radius: 3px; overflow: hidden;">
+                                    <div id="lobby-exp-bar" style="width: 0%; height: 100%; background: linear-gradient(90deg, var(--tier-accent, #58a6ff), var(--tier-primary, #3fb950)); transition: width 0.5s ease;"></div>
+                                </div>
+                                <span id="lobby-exp-text" style="font-size: 0.7rem; font-weight: 700; color: var(--quiz-muted); white-space: nowrap;">0 / 100 EXP</span>
                             </div>
                         </div>
-                        <div class="user-card-actions" onclick="event.stopPropagation();" style="display: flex; gap: 8px; flex-wrap: wrap;">
-                            <button type="button" id="btn-manual-sync" onclick="if(window.manualCloudSync) window.manualCloudSync();" class="btn-profile-edit" title="Force Sync Data with Google Sheets" style="background: rgba(57, 211, 83, 0.15); border: 1px solid rgba(57, 211, 83, 0.4); color: #3fb950; height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s; display: flex; align-items: center; gap: 6px;">
-                                🔄 Sync
+                        <div class="user-card-actions" onclick="event.stopPropagation();">
+                            <button type="button" id="btn-open-profile-modal" onclick="if(typeof renderCabinetContent==='function')renderCabinetContent();const m=document.getElementById('quiz-profile-modal');if(m)m.style.display='flex';" class="btn-profile-edit" title="Personal Cabinet" style="background: linear-gradient(135deg, rgba(88, 166, 255, 0.2), rgba(56, 189, 248, 0.12)); border: 1px solid rgba(88, 166, 255, 0.45); color: #58a6ff; height: 38px; padding: 0 14px; border-radius: 10px; cursor: pointer; font-size: 0.84rem; font-weight: 800; display: flex; align-items: center; gap: 6px; transition: all 0.2s;">
+                                <i class="fas fa-id-card"></i> <span id="txt-btn-cabinet">Cabinet</span>
                             </button>
-                            <button type="button" id="btn-request-account" onclick="if(window.AuthSystem) window.AuthSystem.showAccountRequestModal();" class="btn-profile-edit" title="Request Account via Telegram Bot" style="background: rgba(88, 166, 255, 0.15); border: 1px solid rgba(88, 166, 255, 0.4); color: #58a6ff; height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s; display: flex; align-items: center; gap: 6px;">
-                                📲 Request Account
+                            <button type="button" id="btn-manual-sync" onclick="if(window.manualCloudSync) window.manualCloudSync();" class="btn-profile-edit" title="Force Sync Data with Google Sheets" style="background: rgba(57, 211, 83, 0.15); border: 1px solid rgba(57, 211, 83, 0.4); color: #3fb950; height: 38px; padding: 0 10px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s; display: flex; align-items: center; gap: 5px;">
+                                <span id="txt-btn-sync">🔄 Sync</span>
                             </button>
-                            <button type="button" id="btn-open-admin-modal" class="btn-profile-edit admin-only" title="Manage Accounts & Requests" style="display: none; background: rgba(234, 179, 8, 0.15); border: 1px solid rgba(234, 179, 8, 0.4); color: #eab308; height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s;">
-                                👑 Admin
+                            <button type="button" id="btn-open-admin-modal" onclick="if(typeof loadAdminData==='function')loadAdminData();const m=document.getElementById('quiz-admin-modal');if(m)m.style.display='flex';" class="btn-profile-edit admin-only" title="Manage Accounts & Directory" style="display: none; background: rgba(234, 179, 8, 0.15); border: 1px solid rgba(234, 179, 8, 0.4); color: #eab308; height: 38px; padding: 0 10px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s;">
+                                <span id="txt-btn-admin">👑 Admin</span>
                             </button>
-                            <button type="button" id="btn-open-profile-modal" onclick="if(typeof renderCabinetContent==='function')renderCabinetContent();const m=document.getElementById('quiz-profile-modal');if(m)m.style.display='flex';" class="btn-profile-edit" title="Personal Cabinet" style="background: rgba(48, 54, 61, 0.5); border: 1px solid var(--quiz-border); color: var(--quiz-text); height: 38px; padding: 0 12px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; display: flex; align-items: center; gap: 6px; transition: all 0.2s;">
-                                <i class="fas fa-id-card"></i> Cabinet
+                            <button type="button" id="btn-quiz-logout" onclick="window.logout();" class="btn-profile-edit" title="Logout / Выйти из аккаунта" style="background: rgba(248, 113, 113, 0.12); border: 1px solid rgba(248, 113, 113, 0.35); color: #f87171; height: 38px; padding: 0 10px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; display: flex; align-items: center; gap: 4px; transition: all 0.2s;">
+                                <span>🚪</span> <span id="txt-btn-logout">Exit</span>
                             </button>
                         </div>
                     </div>
@@ -98,35 +116,31 @@
 
                 <div class="lobby-card">
                     <h3 id="label-select-lang">Select Language</h3>
-                    <div class="settings-row" style="margin-bottom: 0; justify-content: center;">
-                        <div class="lang-selector">
-                            <button id="btn-lang-en" class="lang-btn active" data-lang="En" style="padding: 8px 16px;">
-                                <svg viewBox="0 0 60 30" width="36" height="24" style="border-radius: 4px; display: inline-block; pointer-events: none;">
-                                    <clipPath id="uk-clip">
-                                        <rect width="60" height="30" rx="3" ry="3"/>
-                                    </clipPath>
-                                    <g clip-path="url(#uk-clip)">
-                                        <rect width="60" height="30" fill="#012169"/>
-                                        <path d="M0,0 L60,30 M0,30 L60,0" stroke="#fff" stroke-width="6"/>
-                                        <path d="M0,0 L60,30 M0,30 L60,0" stroke="#C8102E" stroke-width="2"/>
-                                        <path d="M30,0 L30,30 M0,15 L60,15" stroke="#fff" stroke-width="10"/>
-                                        <path d="M30,0 L30,30 M0,15 L60,15" stroke="#C8102E" stroke-width="6"/>
-                                    </g>
-                                </svg>
-                            </button>
-                            <button id="btn-lang-ru" class="lang-btn" data-lang="Ru" style="padding: 8px 16px;">
-                                <svg viewBox="0 0 60 30" width="36" height="24" style="border-radius: 4px; display: inline-block; pointer-events: none;">
-                                    <clipPath id="ru-clip">
-                                        <rect width="60" height="30" rx="3" ry="3"/>
-                                    </clipPath>
-                                    <g clip-path="url(#ru-clip)">
-                                        <rect width="60" height="10" fill="#fff"/>
-                                        <rect y="10" width="60" height="10" fill="#0039a6"/>
-                                        <rect y="20" width="60" height="10" fill="#d52b1e"/>
-                                    </g>
-                                </svg>
-                            </button>
-                        </div>
+                    <div class="lang-segmented-bar">
+                        <button id="btn-lang-en" class="lang-seg-btn active" data-lang="En">
+                            <svg viewBox="0 0 60 30" width="22" height="14" style="border-radius: 2px; flex-shrink: 0;">
+                                <clipPath id="uk-clip"><rect width="60" height="30" rx="3" ry="3"/></clipPath>
+                                <g clip-path="url(#uk-clip)">
+                                    <rect width="60" height="30" fill="#012169"/>
+                                    <path d="M0,0 L60,30 M0,30 L60,0" stroke="#fff" stroke-width="6"/>
+                                    <path d="M0,0 L60,30 M0,30 L60,0" stroke="#C8102E" stroke-width="2"/>
+                                    <path d="M30,0 L30,30 M0,15 L60,15" stroke="#fff" stroke-width="10"/>
+                                    <path d="M30,0 L30,30 M0,15 L60,15" stroke="#C8102E" stroke-width="6"/>
+                                </g>
+                            </svg>
+                            <span>English (EN)</span>
+                        </button>
+                        <button id="btn-lang-ru" class="lang-seg-btn" data-lang="Ru">
+                            <svg viewBox="0 0 60 30" width="22" height="14" style="border-radius: 2px; flex-shrink: 0;">
+                                <clipPath id="ru-clip"><rect width="60" height="30" rx="3" ry="3"/></clipPath>
+                                <g clip-path="url(#ru-clip)">
+                                    <rect width="60" height="10" fill="#fff"/>
+                                    <rect y="10" width="60" height="10" fill="#0039a6"/>
+                                    <rect y="20" width="60" height="10" fill="#d52b1e"/>
+                                </g>
+                            </svg>
+                            <span>Русский (RU)</span>
+                        </button>
                     </div>
                 </div>
 
@@ -324,7 +338,7 @@
                     <div class="checklist-title-group">
                         <span class="checklist-icon">💡</span>
                         <span id="checklist-title-text" class="checklist-title">Quick Setup Guide</span>
-                        <span id="checklist-counter-badge" class="checklist-badge">0/3</span>
+                        <span id="checklist-counter-badge" class="checklist-badge">0/4</span>
                     </div>
                     <div class="checklist-controls">
                         <!-- Theme Dot Selector -->
@@ -342,17 +356,21 @@
                 
                 <div id="checklist-body" class="checklist-body">
                     <ul class="checklist-items">
-                        <li id="chk-item-lang" class="checklist-item">
+                        <li id="chk-item-lang" class="checklist-item" style="cursor: pointer;" title="Select language / Выбор языка">
                             <span class="chk-status"><i class="far fa-circle"></i></span>
                             <span id="chk-text-lang" class="chk-label">a) Language selection</span>
                         </li>
-                        <li id="chk-item-topics" class="checklist-item">
+                        <li id="chk-item-topics" class="checklist-item" style="cursor: pointer;" title="Select topics / Выбор тем">
                             <span class="chk-status"><i class="far fa-circle"></i></span>
                             <span id="chk-text-topics" class="chk-label">b) Select one or more topics</span>
                         </li>
-                        <li id="chk-item-mode" class="checklist-item">
+                        <li id="chk-item-mode" class="checklist-item" style="cursor: pointer;" title="Select mode / Выбор режима">
                             <span class="chk-status"><i class="far fa-circle"></i></span>
                             <span id="chk-text-mode" class="chk-label">c) Select quiz mode</span>
+                        </li>
+                        <li id="chk-item-preset" class="checklist-item" style="cursor: pointer;" title="Select volume preset / Выбор пресета">
+                            <span class="chk-status"><i class="far fa-circle"></i></span>
+                            <span id="chk-text-preset" class="chk-label">d) Question volume preset</span>
                         </li>
                     </ul>
                     <div id="checklist-ready-banner" class="checklist-ready-banner" style="display: none;">
@@ -361,26 +379,29 @@
                 </div>
                 
                 <!-- Minimized Pill View -->
-                <div id="checklist-pill" class="checklist-pill" style="display: none;">
+                <div id="checklist-pill" class="checklist-pill" style="display: none; cursor: pointer;">
                     <span>💡 <span id="chk-pill-text">Quiz Guide</span></span>
-                    <span id="chk-pill-count" class="checklist-badge">0/3</span>
+                    <span id="chk-pill-count" class="checklist-badge">0/4</span>
                 </div>
             </div>
         </section>
 
         <!-- QUESTION SCREEN -->
         <section id="screen-question" class="quiz-screen">
-            <header class="quiz-header">
-                <button class="quiz-exit-btn" id="btn-exit-quiz"><i class="fas fa-times"></i> Exit</button>
+            <header class="quiz-header question-header">
+                <button class="quiz-exit-btn" id="btn-exit-quiz" onclick="openQuizExitModal()"><i class="fas fa-times"></i> <span id="txt-btn-exit-header">Exit</span></button>
                 <div class="quiz-progress-wrapper">
                     <div class="quiz-progress-text"><span id="q-current">1</span> / <span id="q-total">0</span></div>
                     <div class="quiz-progress-bar"><div id="q-progress-fill" class="progress-fill"></div></div>
                 </div>
                 <div id="q-score-live" class="quiz-live-score">Correct: 0</div>
                 <div id="quiz-timer" class="quiz-timer" style="display: none; background: rgba(218, 54, 51, 0.1); color: var(--quiz-wrong); padding: 4px 10px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; border: 1px solid rgba(218, 54, 51, 0.3); display: flex; align-items: center; gap: 5px; white-space: nowrap;"><i class="far fa-clock"></i> <span id="timer-val">60</span></div>
-                <button id="btn-mute-question" class="quiz-mute-btn" title="Toggle Sound & Haptics" style="background: none; border: none; color: var(--quiz-text); font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="fas fa-volume-up"></i></button>
-                <button id="btn-toggle-favorite" onclick="toggleCurrentFavoriteQuestion()" class="quiz-fav-btn" title="Add to Favorites / Playlist" style="background: none; border: none; color: #eab308; font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.9; transition: transform 0.2s;"><i class="far fa-star"></i></button>
-                <button id="btn-report-question" class="quiz-report-btn" title="Report Issue to Admin" style="background: none; border: none; color: #f87171; font-size: 1.1rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="far fa-flag"></i></button>
+                <div class="question-header-actions">
+                    <button id="btn-mute-question" class="quiz-mute-btn" title="Toggle Sound & Haptics" style="background: none; border: none; color: var(--quiz-text); font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="fas fa-volume-up"></i></button>
+                    <button id="btn-toggle-favorite" onclick="toggleCurrentFavoriteQuestion()" class="quiz-fav-btn" title="Add to Favorites / Playlist" style="background: none; border: none; color: #eab308; font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.9; transition: transform 0.2s;"><i class="far fa-star"></i></button>
+                    <button type="button" class="global-lang-btn" onclick="toggleGlobalLanguage()" title="Switch EN/RU Language" style="background: rgba(88,166,255,0.15); border: 1px solid rgba(88,166,255,0.4); color: #58a6ff; padding: 4px 10px; border-radius: 8px; font-size: 0.8rem; font-weight: 800; cursor: pointer; display: flex; align-items: center; gap: 4px;">🌐 <span class="txt-lang-code">EN</span></button>
+                    <button id="btn-report-question" class="quiz-report-btn" title="Report Issue to Admin" style="background: none; border: none; color: #f87171; font-size: 1.1rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="far fa-flag"></i></button>
+                </div>
             </header>
             
             <div class="question-container">
@@ -473,6 +494,25 @@
                     </div>
                 </div>
 
+                <!-- RPG Level Progression & Regression Card -->
+                <div id="res-rpg-card" class="rpg-results-card" style="margin: 16px auto; max-width: 480px; width: 100%;">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                        <div style="display: flex; align-items: center; gap: 8px;">
+                            <span id="res-rpg-badge" class="rpg-tier-badge-pill">Lv.1 Resident</span>
+                            <span id="res-rpg-title" style="font-weight: 800; font-size: 0.9rem; color: var(--quiz-text);">Resident Novice</span>
+                        </div>
+                        <span id="res-rpg-exp-delta" style="font-weight: 900; font-size: 1.05rem; color: #3fb950;">+0 EXP</span>
+                    </div>
+                    <div class="rpg-exp-bar-wrap" style="height: 10px; margin: 6px 0;">
+                        <div id="res-rpg-bar" class="rpg-exp-bar-fill" style="width: 0%;"></div>
+                    </div>
+                    <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.75rem; color: var(--quiz-muted); margin-top: 4px;">
+                        <span id="res-rpg-cur-exp">0 / 100 EXP (0%)</span>
+                        <span id="res-rpg-next-exp">Next: Lv.2 Resident Initiate</span>
+                    </div>
+                    <div id="res-rpg-event-banner" style="display: none; margin-top: 10px; padding: 6px 12px; border-radius: 8px; font-size: 0.8rem; font-weight: 700; text-align: center;"></div>
+                </div>
+
                 <div class="results-actions">
                     <button id="btn-restart" class="btn-primary btn-large">🔁 Try Again</button>
                     <button id="btn-new-session" class="btn-secondary">🔀 New Session</button>
@@ -488,84 +528,223 @@
 
         <!-- PERSONAL CABINET MODAL -->
         <div id="quiz-profile-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.75); backdrop-filter: blur(8px); z-index: 1000; align-items: center; justify-content: center; padding: 16px;">
-            <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1px solid var(--quiz-border); border-radius: 20px; width: 100%; max-width: 680px; max-height: 85vh; display: flex; flex-direction: column; box-shadow: 0 20px 50px rgba(0,0,0,0.6); overflow: hidden; animation: modal-slide-in 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);">
-                <div class="quiz-modal-header" style="padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: var(--quiz-surface);">
-                    <div style="display: flex; align-items: center; gap: 10px;">
-                        <h3 id="lbl-profile-modal-title" style="margin: 0; font-size: 1.1rem; font-weight: 800; color: var(--quiz-accent);">👤 Personal Cabinet</h3>
-                        <span id="cabinet-sync-indicator" onclick="if(window.manualCloudSync) window.manualCloudSync();" style="font-size: 0.75rem; padding: 2px 8px; border-radius: 12px; background: rgba(57, 211, 83, 0.15); color: #3fb950; border: 1px solid rgba(57, 211, 83, 0.3); cursor: pointer;" title="Click to force Google Sheets sync">☁️ Cloud Synced</span>
+            <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1px solid var(--quiz-border); border-radius: 20px; width: 100%; max-width: 680px; max-height: 90vh; display: flex; flex-direction: column; box-shadow: 0 20px 50px rgba(0,0,0,0.6); overflow: hidden; animation: modal-slide-in 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);">
+                <div class="quiz-modal-header" style="padding: 12px 16px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: var(--quiz-surface); flex-shrink: 0;">
+                    <div style="display: flex; align-items: center; gap: 8px; min-width: 0; flex: 1;">
+                        <h3 id="lbl-profile-modal-title" style="margin: 0; font-size: 1.05rem; font-weight: 800; color: var(--quiz-accent); white-space: nowrap;">👤 Personal Cabinet</h3>
+                        <span id="cabinet-sync-indicator" onclick="if(window.manualCloudSync) window.manualCloudSync();" style="font-size: 0.72rem; padding: 2px 8px; border-radius: 12px; background: rgba(57, 211, 83, 0.15); color: #3fb950; border: 1px solid rgba(57, 211, 83, 0.3); cursor: pointer; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 130px;" title="Click to force Google Sheets sync">☁️ Synced</span>
                     </div>
-                    <button type="button" id="btn-close-profile-modal" class="quiz-modal-close" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;"><i class="fas fa-times"></i></button>
+                    <div style="display: flex; align-items: center; gap: 8px; flex-shrink: 0;">
+                        <button type="button" id="btn-cab-lang-toggle" onclick="window.toggleGlobalLanguage();" title="Switch Language / Сменить язык" style="background: rgba(88, 166, 255, 0.15); border: 1px solid rgba(88, 166, 255, 0.4); color: #58a6ff; font-weight: 700; font-size: 0.8rem; padding: 4px 10px; border-radius: 8px; cursor: pointer; display: flex; align-items: center; gap: 4px; transition: all 0.2s;">
+                            <span id="txt-cab-lang-btn">🌐 RU</span>
+                        </button>
+                        <button type="button" id="btn-close-profile-modal" class="quiz-modal-close" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;"><i class="fas fa-times"></i></button>
+                    </div>
                 </div>
 
-                <!-- Cabinet Tabs Header -->
-                <div class="cabinet-tabs" style="display: flex; border-bottom: 1px solid var(--quiz-border); background: rgba(13, 17, 23, 0.5); padding: 0 10px; overflow-x: auto;">
-                    <button type="button" class="cabinet-tab-btn active" data-tab="overview" style="padding: 12px 16px; background: none; border: none; border-bottom: 2px solid var(--quiz-accent); color: var(--quiz-text); font-weight: 700; font-size: 0.88rem; cursor: pointer; display: flex; align-items: center; gap: 6px; white-space: nowrap;">
-                        📊 Overview
+                <!-- Cabinet Tabs Header (4-col Grid, Always 100% Visible) -->
+                <nav class="cabinet-tabs" aria-label="Personal Cabinet Navigation">
+                    <button type="button" class="cabinet-tab-btn active" data-tab="overview" title="Обзор и статистика">
+                        <span>📊</span> <span id="tab-text-overview">Overview</span>
                     </button>
-                    <button type="button" class="cabinet-tab-btn" data-tab="playlists" style="padding: 12px 16px; background: none; border: none; border-bottom: 2px solid transparent; color: var(--quiz-muted); font-weight: 700; font-size: 0.88rem; cursor: pointer; display: flex; align-items: center; gap: 6px; white-space: nowrap;">
-                        ⭐ Playlists & Favorites
+                    <button type="button" class="cabinet-tab-btn" data-tab="playlists" title="Плейлисты и избранное">
+                        <span>⭐</span> <span id="tab-text-playlists">Playlists</span>
                     </button>
-                    <button type="button" class="cabinet-tab-btn" data-tab="history" style="padding: 12px 16px; background: none; border: none; border-bottom: 2px solid transparent; color: var(--quiz-muted); font-weight: 700; font-size: 0.88rem; cursor: pointer; display: flex; align-items: center; gap: 6px; white-space: nowrap;">
-                        📜 Session History
+                    <button type="button" class="cabinet-tab-btn" data-tab="history" title="История сессий">
+                        <span>📜</span> <span id="tab-text-history">History</span>
                     </button>
-                    <button type="button" class="cabinet-tab-btn" data-tab="settings" style="padding: 12px 16px; background: none; border: none; border-bottom: 2px solid transparent; color: var(--quiz-muted); font-weight: 700; font-size: 0.88rem; cursor: pointer; display: flex; align-items: center; gap: 6px; white-space: nowrap;">
-                        ⚙️ Settings & Sync
+                    <button type="button" class="cabinet-tab-btn" data-tab="settings" title="Настройки и синхронизация">
+                        <span>⚙️</span> <span id="tab-text-settings">Settings</span>
                     </button>
-                </div>
+                </nav>
 
-                <div class="quiz-modal-body" style="padding: 20px; overflow-y: auto; flex: 1;">
+                <div class="quiz-modal-body" style="padding: 16px; overflow-y: auto; flex: 1; min-height: 0;">
                     <!-- TAB 1: OVERVIEW & ANALYTICS -->
                     <div id="cabinet-tab-overview" class="cabinet-tab-pane active">
-                        <!-- Top 4 Metrics Grid -->
-                        <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 16px;">
+                        <!-- Floating Tooltip for SVG Interactive Charts -->
+                        <div id="cab-chart-tooltip" class="rpg-chart-tooltip" style="display: none; opacity: 0;"></div>
+
+                        <!-- 1. RPG HERO PROFILE & PRESTIGE CARD -->
+                        <div id="cab-hero-card" class="rpg-hero-card">
+                            <div class="rpg-hero-header">
+                                <div class="rpg-hero-avatar-box">
+                                    <div id="cab-hero-avatar" class="rpg-hero-avatar-ring avatar-doc">
+                                        <i class="fas fa-stethoscope"></i>
+                                    </div>
+                                </div>
+                                <div style="flex: 1; min-width: 200px;">
+                                    <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+                                        <h3 id="cab-hero-nickname" style="margin: 0; font-size: 1.15rem; font-weight: 800; color: var(--quiz-text);">Admin</h3>
+                                        <span id="cab-hero-tier-badge" class="rpg-tier-badge-pill">🥉 Tier 1: Resident</span>
+                                        <span id="cab-hero-level-badge" class="rpg-tier-badge-pill" style="background: rgba(35, 134, 54, 0.2); color: #3fb950; border-color: rgba(35, 134, 54, 0.4);">Lv.1 Resident Novice</span>
+                                        <button type="button" id="btn-open-rpg-codex" onclick="window.openRpgCodexModal()" class="rpg-topic-filter-btn" style="background: rgba(88, 166, 255, 0.15); border-color: rgba(88, 166, 255, 0.4); color: #58a6ff; font-size: 0.74rem; padding: 3px 10px; border-radius: 8px; cursor: pointer; display: inline-flex; align-items: center; gap: 4px;" title="Открыть полный атлас всех 100 уровней и наград">📜 Кодекс 100 рангов</button>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-between; align-items: baseline; margin-top: 8px; font-size: 0.8rem;">
+                                        <span style="color: var(--quiz-muted); font-weight: 600;">Level Progress</span>
+                                        <span id="cab-hero-exp-numbers" style="font-weight: 800; color: var(--tier-accent, #58a6ff);">0 / 100 EXP (0%)</span>
+                                    </div>
+                                    <!-- EXP Bar -->
+                                    <div class="rpg-exp-bar-wrap">
+                                        <div id="cab-hero-exp-bar" class="rpg-exp-bar-fill" style="width: 0%;"></div>
+                                    </div>
+                                    <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 6px; font-size: 0.72rem; color: var(--quiz-muted); margin-top: 4px;">
+                                        <span>✨ Total EXP: <strong id="cab-hero-total-exp" style="color: var(--quiz-text);">0</strong></span>
+                                        <span id="cab-hero-next-level">Next: Lv.2 Resident Initiate (+100 EXP)</span>
+                                    </div>
+                                    <!-- Regression Risk Indicator -->
+                                    <div id="cab-hero-risk-container" style="margin-top: 8px;">
+                                        <span id="cab-hero-risk-badge" class="rpg-risk-indicator rpg-risk-low">
+                                            <span>🛡️ Risk Tier 1: -5 EXP/error</span>
+                                            <span>• Safe for 20 mistakes</span>
+                                        </span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- 2. TOP 4 QUICK STATS -->
+                        <div class="cab-quick-stats-grid">
                             <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 12px; text-align: center;">
                                 <div style="font-size: 1.2rem;">🔥</div>
                                 <div id="cab-stat-streak" style="font-size: 1.2rem; font-weight: 800; color: var(--quiz-text); margin: 2px 0;">1</div>
-                                <div style="font-size: 0.7rem; color: var(--quiz-muted); text-transform: uppercase;">Day Streak</div>
+                                <div id="lbl-cab-stat-streak" style="font-size: 0.7rem; color: var(--quiz-muted); text-transform: uppercase;">Day Streak</div>
                             </div>
                             <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 12px; text-align: center;">
                                 <div style="font-size: 1.2rem;">📜</div>
                                 <div id="cab-stat-sessions" style="font-size: 1.2rem; font-weight: 800; color: #58a6ff; margin: 2px 0;">0</div>
-                                <div style="font-size: 0.7rem; color: var(--quiz-muted); text-transform: uppercase;">Test Sessions</div>
+                                <div id="lbl-cab-stat-sessions" style="font-size: 0.7rem; color: var(--quiz-muted); text-transform: uppercase;">Test Sessions</div>
                             </div>
                             <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 12px; text-align: center;">
                                 <div style="font-size: 1.2rem;">✅</div>
                                 <div id="cab-stat-solved" style="font-size: 1.2rem; font-weight: 800; color: #3fb950; margin: 2px 0;">0</div>
-                                <div style="font-size: 0.7rem; color: var(--quiz-muted); text-transform: uppercase;">Solved Total</div>
+                                <div id="lbl-cab-stat-solved" style="font-size: 0.7rem; color: var(--quiz-muted); text-transform: uppercase;">Solved Total</div>
                             </div>
                             <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 12px; text-align: center;">
                                 <div style="font-size: 1.2rem;">🎯</div>
                                 <div id="cab-stat-accuracy" style="font-size: 1.2rem; font-weight: 800; color: #eab308; margin: 2px 0;">0%</div>
-                                <div style="font-size: 0.7rem; color: var(--quiz-muted); text-transform: uppercase;">Avg Accuracy</div>
+                                <div id="lbl-cab-stat-accuracy" style="font-size: 0.7rem; color: var(--quiz-muted); text-transform: uppercase;">Avg Accuracy</div>
                             </div>
                         </div>
 
-                        <!-- Accuracy Growth Trend Box -->
-                        <div id="cab-trend-box" style="background: linear-gradient(135deg, rgba(88, 166, 255, 0.1), rgba(35, 134, 54, 0.1)); border: 1px solid rgba(88, 166, 255, 0.3); border-radius: 12px; padding: 14px; margin-bottom: 16px; display: flex; align-items: center; gap: 12px;">
-                            <div style="font-size: 1.6rem;">📈</div>
-                            <div style="flex: 1;">
-                                <div style="font-weight: 800; font-size: 0.88rem; color: var(--quiz-text); margin-bottom: 2px;" id="cab-trend-title">Accuracy Growth Trend</div>
-                                <div style="font-size: 0.8rem; color: var(--quiz-muted);" id="cab-trend-desc">Complete sessions to track accuracy progression over time.</div>
+                        <!-- 3. INTERACTIVE CADENCE & VELOCITY INFOGRAPHICS (Replaces old text box) -->
+                        <div class="rpg-infographic-card">
+                            <div class="rpg-infographic-header">
+                                <div style="display: flex; align-items: center; gap: 8px;">
+                                    <span style="font-size: 1.2rem;">🚀</span>
+                                    <h4 id="cab-cadence-title" style="margin: 0; font-size: 0.92rem; font-weight: 800; color: var(--quiz-text);">Learning Cadence & Training Velocity</h4>
+                                </div>
+                                <div style="display: flex; gap: 4px;">
+                                    <button type="button" class="rpg-time-filter-btn active" data-days="7" onclick="window.switchMomentumRange(7)">7D</button>
+                                    <button type="button" class="rpg-time-filter-btn" data-days="14" onclick="window.switchMomentumRange(14)">14D</button>
+                                    <button type="button" class="rpg-time-filter-btn" data-days="30" onclick="window.switchMomentumRange(30)">30D</button>
+                                </div>
+                            </div>
+
+                            <!-- Velocity Triple Cards -->
+                            <div class="rpg-cadence-grid">
+                                <div class="rpg-cadence-card">
+                                    <div id="lbl-cadence-sessions" style="font-size: 0.75rem; color: var(--quiz-muted); font-weight: 700; text-transform: uppercase;">⏱️ Session Cadence</div>
+                                    <div class="rpg-cadence-val" id="cab-velocity-sessions">0.0<span style="font-size: 0.8rem; font-weight: 600; color: var(--quiz-muted);">/d</span></div>
+                                    <div class="rpg-cadence-sub" id="cab-velocity-sessions-sub">0.0 / week • 0.0 / month</div>
+                                </div>
+                                <div class="rpg-cadence-card">
+                                    <div id="lbl-cadence-questions" style="font-size: 0.75rem; color: var(--quiz-muted); font-weight: 700; text-transform: uppercase;">⚡ Question Throughput</div>
+                                    <div class="rpg-cadence-val" id="cab-velocity-questions" style="color: #3fb950;">0.0<span style="font-size: 0.8rem; font-weight: 600; color: var(--quiz-muted);">/d</span></div>
+                                    <div class="rpg-cadence-sub" id="cab-velocity-questions-sub">0.0 / week • 0.0 / month</div>
+                                </div>
+                                <div class="rpg-cadence-card">
+                                    <div id="lbl-cadence-max" style="font-size: 0.75rem; color: var(--quiz-muted); font-weight: 700; text-transform: uppercase;">🛡️ Peak Session Run</div>
+                                    <div class="rpg-cadence-val" id="cab-velocity-max" style="color: #eab308;">0 <span style="font-size: 0.8rem; font-weight: 600; color: var(--quiz-muted);">Qs</span></div>
+                                    <div class="rpg-cadence-sub" id="cab-velocity-max-sub">Max single quiz endurance</div>
+                                </div>
+                            </div>
+
+                            <!-- Interactive Daily Activity Momentum Chart -->
+                            <div style="margin-top: 10px;">
+                                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; font-size: 0.75rem; color: var(--quiz-muted);">
+                                    <span id="cab-momentum-legend">Daily Solved Volume (Hover bar for session breakdown)</span>
+                                    <span style="display: inline-flex; align-items: center; gap: 8px;">
+                                        <span style="display: inline-flex; align-items: center; gap: 3px;"><span style="width: 7px; height: 7px; border-radius: 2px; background: #3fb950;"></span> ≥80%</span>
+                                        <span style="display: inline-flex; align-items: center; gap: 3px;"><span style="width: 7px; height: 7px; border-radius: 2px; background: #eab308;"></span> 60-79%</span>
+                                        <span style="display: inline-flex; align-items: center; gap: 3px;"><span style="width: 7px; height: 7px; border-radius: 2px; background: #f87171;"></span> &lt;60%</span>
+                                    </span>
+                                </div>
+                                <div id="cab-momentum-chart-container" style="width: 100%; height: 110px; position: relative;">
+                                    <svg id="cab-momentum-svg" class="rpg-svg-chart" height="110" style="display: block; cursor: pointer;"></svg>
+                                </div>
+                                <!-- Interactive Date Drilldown Panel -->
+                                <div id="cab-momentum-drilldown" class="rpg-momentum-drilldown" style="display: none;"></div>
                             </div>
                         </div>
 
-                        <!-- Global Question Bank Coverage Bar -->
+                        <!-- 4. ACCURACY DYNAMICS & LEARNING CURVE TRENDLINE -->
+                        <div class="rpg-infographic-card">
+                            <div class="rpg-infographic-header">
+                                <div style="display: flex; align-items: center; gap: 8px;">
+                                    <span style="font-size: 1.2rem;">📈</span>
+                                    <h4 id="cab-acc-dynamics-title" style="margin: 0; font-size: 0.92rem; font-weight: 800; color: var(--quiz-text);">Accuracy Progression Dynamics</h4>
+                                </div>
+                                <span id="cab-acc-trend-badge" class="rpg-tier-badge-pill" style="background: rgba(35, 134, 54, 0.2); color: #3fb950; border-color: rgba(35, 134, 54, 0.4);">⚖️ Baseline Tracked</span>
+                            </div>
+                            <div id="cab-acc-curve-container" style="width: 100%; height: 120px; position: relative;">
+                                <svg id="cab-acc-curve-svg" class="rpg-svg-chart" height="120" style="display: block;"></svg>
+                            </div>
+                            <div style="display: flex; justify-content: space-between; font-size: 0.72rem; color: var(--quiz-muted); margin-top: 6px;">
+                                <span id="lbl-cab-acc-timeline">Past Sessions (Oldest → Latest)</span>
+                                <span id="cab-acc-stats-summary">100% Peak • 0% Floor</span>
+                            </div>
+                        </div>
+
+                        <!-- 5. CLINICAL RPG CHARACTER ATTRIBUTES -->
+                        <div class="rpg-infographic-card">
+                            <div class="rpg-infographic-header">
+                                <div style="display: flex; align-items: center; gap: 8px;">
+                                    <span style="font-size: 1.2rem;">🧬</span>
+                                    <h4 id="cab-rpg-attrs-title" style="margin: 0; font-size: 0.92rem; font-weight: 800; color: var(--quiz-text);">Clinical RPG Character Attributes</h4>
+                                </div>
+                                <span id="lbl-cab-rpg-dimensions" class="rpg-tier-badge-pill">6 Core Dimensions • Click for Diagnostics</span>
+                            </div>
+                            <div id="cab-rpg-attrs-grid" class="rpg-attr-grid">
+                                <!-- Dynamic Attributes (Knowledge, Precision, Velocity, Stamina, Breadth, Resilience) -->
+                            </div>
+                        </div>
+
+                        <!-- 6. GLOBAL QUESTION BANK CONQUEST -->
                         <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 14px; margin-bottom: 16px;">
                             <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-                                <div style="font-size: 0.85rem; font-weight: 700; color: var(--quiz-text);">🌐 Total Library Bank Coverage</div>
-                                <div style="font-size: 0.82rem; font-weight: 800; color: #58a6ff;" id="cab-bank-coverage-pct">0% (0 / 0)</div>
+                                <div id="lbl-cab-bank-title" style="font-size: 0.85rem; font-weight: 700; color: var(--quiz-text);">🌐 Total Library Bank Conquest</div>
+                                <div style="font-size: 0.82rem; font-weight: 800; color: #58a6ff;" id="cab-bank-coverage-pct">0% (0 / 2,949)</div>
                             </div>
-                            <div style="height: 8px; background: var(--quiz-border); border-radius: 4px; overflow: hidden; display: flex;">
-                                <div id="cab-bank-coverage-bar" style="width: 0%; height: 100%; background: linear-gradient(90deg, #58a6ff, #3fb950); transition: width 0.5s ease;"></div>
+                            <div style="height: 10px; background: rgba(48, 54, 61, 0.5); border-radius: 5px; overflow: hidden; display: flex;">
+                                <div id="cab-bank-mastered-bar" style="width: 0%; height: 100%; background: #3fb950; transition: width 0.5s ease;" title="Mastered (≥80%)"></div>
+                                <div id="cab-bank-learning-bar" style="width: 0%; height: 100%; background: #eab308; transition: width 0.5s ease;" title="Learning (50-79%)"></div>
+                                <div id="cab-bank-unseen-bar" style="width: 0%; height: 100%; background: #58a6ff; transition: width 0.5s ease;" title="Encountered (<50%)"></div>
                             </div>
-                            <div style="font-size: 0.72rem; color: var(--quiz-muted); margin-top: 6px;" id="cab-bank-coverage-sub">Unique questions answered across all loaded library modules</div>
+                            <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 8px; font-size: 0.72rem; color: var(--quiz-muted);">
+                                <span id="cab-bank-coverage-sub">Unique questions answered across all loaded library modules</span>
+                                <span id="cab-bank-counts-legend">🟢 0 | 🟡 0 | 🔵 0</span>
+                            </div>
                         </div>
 
-                        <!-- Topic Mastery Breakdown -->
-                        <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 14px;">
-                            <h4 style="margin: 0 0 12px; font-size: 0.88rem; color: var(--quiz-muted); text-transform: uppercase; letter-spacing: 0.5px;">Topic & Specialty Breakdown</h4>
-                            <div id="cab-topics-mastery-list" style="display: flex; flex-direction: column; gap: 10px; max-height: 220px; overflow-y: auto;">
-                                <!-- Dynamic topic bars -->
+                        <!-- 7. INTERACTIVE QUESTION MANIFESTS & TOPICS DASHBOARD -->
+                        <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 14px; padding: 16px;">
+                            <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 12px;">
+                                <div>
+                                    <h4 id="cab-topics-header-title" style="margin: 0; font-size: 0.95rem; font-weight: 800; color: var(--quiz-text); display: flex; align-items: center; gap: 8px;">
+                                        <span>🏷️</span> <span id="txt-manifest-title">Question Manifests & Topics (18 directions)</span>
+                                    </h4>
+                                    <div style="font-size: 0.75rem; color: var(--quiz-muted); margin-top: 3px;" id="cab-topics-active-summary">
+                                        Tap on any topic to start training or practice missed questions
+                                    </div>
+                                </div>
+                                <div style="display: flex; gap: 6px; flex-wrap: wrap;">
+                                    <button type="button" id="btn-filter-topic-all" class="rpg-topic-filter-btn active" data-topic-filter="all" onclick="window.switchTopicFilter('all')">All Manifests (18)</button>
+                                    <button type="button" id="btn-filter-topic-active" class="rpg-topic-filter-btn" data-topic-filter="active" onclick="window.switchTopicFilter('active')">Practiced</button>
+                                    <button type="button" id="btn-filter-topic-weak" class="rpg-topic-filter-btn" data-topic-filter="weak" onclick="window.switchTopicFilter('weak')">Weak Spots</button>
+                                </div>
+                            </div>
+                            <div id="cab-topics-mastery-list" class="rpg-topic-grid" style="max-height: 480px; overflow-y: auto; padding-right: 4px;">
+                                <!-- Dynamic interactive topic cards with 🚀 Тренировать and ⚡ Повторить ошибки -->
                             </div>
                         </div>
                     </div>
@@ -574,7 +753,7 @@
                     <div id="cabinet-tab-playlists" class="cabinet-tab-pane" style="display: none;">
                         <!-- Custom Playlists Section -->
                         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-                            <h4 style="margin: 0; font-size: 0.95rem; font-weight: 800; color: var(--quiz-accent);">📂 Custom Question Playlists</h4>
+                            <h4 id="lbl-cab-playlists-title" style="margin: 0; font-size: 0.95rem; font-weight: 800; color: var(--quiz-accent);">📂 Custom Question Playlists</h4>
                             <button type="button" id="btn-create-playlist" onclick="if(window.createNewCustomPlaylist) window.createNewCustomPlaylist();" class="btn-primary" style="padding: 6px 14px; font-size: 0.8rem; border-radius: 8px;">+ New Playlist</button>
                         </div>
                         <div id="cabinet-playlists-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 24px;">
@@ -582,7 +761,7 @@
                         </div>
 
                         <!-- Starred Favorites Section -->
-                        <h4 style="margin: 0 0 12px; font-size: 0.95rem; font-weight: 800; color: #eab308;">⭐ Starred Favorites (<span id="cab-fav-count">0</span>)</h4>
+                        <h4 id="lbl-cab-starred-title" style="margin: 0 0 12px; font-size: 0.95rem; font-weight: 800; color: #eab308;">⭐ Starred Favorites (<span id="cab-fav-count">0</span>)</h4>
                         <div id="cabinet-favorites-list" style="max-height: 200px; overflow-y: auto; background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 10px;">
                             <!-- Dynamic starred questions -->
                         </div>
@@ -590,7 +769,7 @@
 
                     <!-- TAB 3: SESSION HISTORY -->
                     <div id="cabinet-tab-history" class="cabinet-tab-pane" style="display: none;">
-                        <h4 style="margin: 0 0 12px; font-size: 0.95rem; font-weight: 800; color: var(--quiz-accent);">📜 Test Session History</h4>
+                        <h4 id="lbl-cab-history-title" style="margin: 0 0 12px; font-size: 0.95rem; font-weight: 800; color: var(--quiz-accent);">📜 Test Session History</h4>
                         <div id="cabinet-history-container" style="max-height: 350px; overflow-y: auto;">
                             <!-- Dynamic session records -->
                         </div>
@@ -600,53 +779,78 @@
                     <div id="cabinet-tab-settings" class="cabinet-tab-pane" style="display: none;">
                         <!-- Nickname Input -->
                         <div class="form-group" style="margin-bottom: 18px;">
-                            <label style="display: block; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; margin-bottom: 6px;">Profile Nickname / Title</label>
+                            <label id="lbl-setting-nickname" style="display: block; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; margin-bottom: 6px;">Profile Nickname / Title</label>
                             <input type="text" id="input-profile-nickname" placeholder="Enter nickname (e.g. Doctor Starley)..." maxlength="50" style="width: 100%; padding: 10px 14px; border-radius: 10px; border: 1px solid var(--quiz-border); background: var(--quiz-surface); color: var(--quiz-text); font-size: 0.95rem; font-weight: 600;">
                         </div>
 
                         <!-- Avatar Icon Selection (1 of 8) -->
                         <div class="form-group" style="margin-bottom: 20px;">
-                            <label style="display: block; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; margin-bottom: 10px;">Select Avatar Symbol</label>
+                            <label id="lbl-setting-avatar" style="display: block; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; margin-bottom: 10px;">Select Avatar Symbol</label>
                             <div class="avatar-selection-grid" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
                                 <button type="button" class="avatar-opt-btn active" data-avatar="doc" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('doc');" title="Physician / Doctor">
                                     <div class="opt-avatar avatar-doc"><i class="fas fa-stethoscope"></i></div>
-                                    <span class="opt-title">Doctor</span>
+                                    <span class="opt-title" id="opt-title-doc">Doctor</span>
                                 </button>
                                 <button type="button" class="avatar-opt-btn" data-avatar="heart" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('heart');" title="Cardiologist">
                                     <div class="opt-avatar avatar-heart"><i class="fas fa-heart-pulse"></i></div>
-                                    <span class="opt-title">Heart</span>
+                                    <span class="opt-title" id="opt-title-heart">Heart</span>
                                 </button>
                                 <button type="button" class="avatar-opt-btn" data-avatar="brain" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('brain');" title="Neuro Expert">
                                     <div class="opt-avatar avatar-brain"><i class="fas fa-brain"></i></div>
-                                    <span class="opt-title">Brain</span>
+                                    <span class="opt-title" id="opt-title-brain">Brain</span>
                                 </button>
                                 <button type="button" class="avatar-opt-btn" data-avatar="flask" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('flask');" title="Medical Researcher">
                                     <div class="opt-avatar avatar-flask"><i class="fas fa-flask-vial"></i></div>
-                                    <span class="opt-title">Scientist</span>
+                                    <span class="opt-title" id="opt-title-flask">Scientist</span>
                                 </button>
                                 <button type="button" class="avatar-opt-btn" data-avatar="bolt" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('bolt');" title="Blitz Specialist">
                                     <div class="opt-avatar avatar-bolt"><i class="fas fa-bolt"></i></div>
-                                    <span class="opt-title">Blitz</span>
+                                    <span class="opt-title" id="opt-title-bolt">Blitz</span>
                                 </button>
                                 <button type="button" class="avatar-opt-btn" data-avatar="titan" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('titan');" title="Mind Titan">
                                     <div class="opt-avatar avatar-titan"><i class="fas fa-dumbbell"></i></div>
-                                    <span class="opt-title">Titan</span>
+                                    <span class="opt-title" id="opt-title-titan">Titan</span>
                                 </button>
                                 <button type="button" class="avatar-opt-btn" data-avatar="guru" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('guru');" title="Meditation Guru">
                                     <div class="opt-avatar avatar-guru"><i class="fas fa-spa"></i></div>
-                                    <span class="opt-title">Guru</span>
+                                    <span class="opt-title" id="opt-title-guru">Guru</span>
                                 </button>
                                 <button type="button" class="avatar-opt-btn" data-avatar="rocket" onclick="if(window.selectAvatarSymbol) window.selectAvatarSymbol('rocket');" title="Rocket Intern">
                                     <div class="opt-avatar avatar-rocket"><i class="fas fa-rocket"></i></div>
-                                    <span class="opt-title">Rocket</span>
+                                    <span class="opt-title" id="opt-title-rocket">Rocket</span>
+                                </button>
+                            </div>
+                        </div>
+
+
+                        <!-- Google Sheets Cloud Sync Control Panel (Wolfson Schedule Architecture) -->
+                        <div style="margin-top: 20px; padding: 16px; background: rgba(34, 197, 94, 0.08); border: 1px solid rgba(34, 197, 94, 0.25); border-radius: 14px;">
+                            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                                <h4 style="margin: 0; font-size: 0.95rem; color: #4ade80; display: flex; align-items: center; gap: 8px;">
+                                    ☁️ <span id="txt-cloud-sync-title">Google Sheets Cloud Sync (Local-First)</span>
+                                </h4>
+                                <span style="font-size: 0.75rem; color: var(--quiz-muted);"><span id="txt-last-sync-label">Last sync:</span> <b id="txt-last-sync-time" style="color: #4ade80;">—</b></span>
+                            </div>
+                            <p id="txt-cloud-sync-desc" style="font-size: 0.8rem; color: var(--quiz-muted); margin: 0 0 12px 0;">
+                                Local-First architecture: instant UI responsiveness with local storage, while mutations are pushed to cloud with debounce and LockService protection.
+                            </p>
+                            <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+                                <button type="button" id="btn-test-sheets" onclick="window.testSheetsConn()" class="btn-secondary" style="background: rgba(59, 130, 246, 0.15); border-color: rgba(59, 130, 246, 0.4); color: #60a5fa; padding: 8px 14px; border-radius: 8px; font-size: 0.82rem; font-weight: 700; cursor: pointer;">
+                                    🔌 <span id="txt-btn-test-sheets">Test Connection</span>
+                                </button>
+                                <button type="button" id="btn-force-push-sheets" onclick="window.forcePushToSheets()" class="btn-secondary" style="background: rgba(34, 197, 94, 0.15); border-color: rgba(34, 197, 94, 0.4); color: #4ade80; padding: 8px 14px; border-radius: 8px; font-size: 0.82rem; font-weight: 700; cursor: pointer;">
+                                    ⬆️ <span id="txt-btn-force-push">Force Push</span>
+                                </button>
+                                <button type="button" id="btn-force-pull-sheets" onclick="window.forcePullFromSheets()" class="btn-secondary" style="background: rgba(234, 179, 8, 0.15); border-color: rgba(234, 179, 8, 0.4); color: #eab308; padding: 8px 14px; border-radius: 8px; font-size: 0.82rem; font-weight: 700; cursor: pointer;">
+                                    ⬇️ <span id="txt-btn-force-pull">Force Pull</span>
                                 </button>
                             </div>
                         </div>
 
                         <!-- Embedded Action Buttons for Settings Tab -->
                         <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--quiz-border); padding-top: 16px; margin-top: 16px;">
-                            <button type="button" onclick="window.logout()" class="btn-outline" style="color: #f87171; border-color: rgba(248, 113, 113, 0.4); padding: 10px 18px; border-radius: 10px; font-weight: 700;">🚪 Logout</button>
-                            <button type="button" id="btn-save-profile" onclick="if(window.saveUserProfileChanges) window.saveUserProfileChanges();" class="btn-primary" style="padding: 10px 24px; border-radius: 10px; font-weight: 700;">💾 Save Changes</button>
+                            <button type="button" onclick="if(window.AuthSystem) window.AuthSystem.logout(); else if(window.logout) window.logout();" class="btn-outline" style="color: #f87171; border-color: rgba(248, 113, 113, 0.4); padding: 8px 16px; border-radius: 8px; font-weight: 700; cursor: pointer;">🚪 <span id="txt-cab-logout">Logout</span></button>
+                            <button type="button" id="btn-save-profile" onclick="if(window.saveUserProfileChanges) window.saveUserProfileChanges();" class="btn-primary" style="padding: 10px 24px; border-radius: 10px; font-weight: 700;"><span id="txt-btn-save-profile">💾 Save Changes</span></button>
                         </div>
                     </div>
                 </div>
@@ -663,27 +867,17 @@
 
                 <!-- Admin Tabs Header -->
                 <div class="admin-tabs" style="display: flex; border-bottom: 1px solid var(--quiz-border); background: rgba(13, 17, 23, 0.5); padding: 0 10px;">
-                    <button type="button" class="admin-tab-btn active" data-tab="requests" style="padding: 12px 18px; background: none; border: none; border-bottom: 2px solid #eab308; color: var(--quiz-text); font-weight: 700; font-size: 0.88rem; cursor: pointer;">
-                        📬 Telegram Requests (<span id="admin-req-count">0</span>)
-                    </button>
-                    <button type="button" class="admin-tab-btn" data-tab="users" style="padding: 12px 18px; background: none; border: none; border-bottom: 2px solid transparent; color: var(--quiz-muted); font-weight: 700; font-size: 0.88rem; cursor: pointer;">
-                        👥 User Accounts (<span id="admin-user-count">0</span>)
+                    <button type="button" class="admin-tab-btn active" data-tab="users" style="padding: 12px 18px; background: none; border: none; border-bottom: 2px solid #eab308; color: var(--quiz-text); font-weight: 700; font-size: 0.88rem; cursor: pointer;">
+                        👥 User Accounts Directory (<span id="admin-user-count">0</span>)
                     </button>
                 </div>
 
                 <div class="quiz-modal-body" style="padding: 20px; overflow-y: auto; flex: 1;">
-                    <!-- ADMIN TAB 1: REQUESTS -->
-                    <div id="admin-tab-requests" class="admin-tab-pane active">
-                        <div id="admin-requests-list" style="max-height: 400px; overflow-y: auto;">
-                            <!-- Dynamic requests list -->
-                        </div>
-                    </div>
-
-                    <!-- ADMIN TAB 2: USERS -->
-                    <div id="admin-tab-users" class="admin-tab-pane" style="display: none;">
+                    <!-- ADMIN TAB: USERS -->
+                    <div id="admin-tab-users" class="admin-tab-pane active">
                         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 14px;">
                             <h4 style="margin: 0; font-size: 0.95rem; font-weight: 800; color: var(--quiz-text);">Registered User Directory</h4>
-                            <button type="button" id="btn-admin-add-user" class="btn-primary" style="padding: 6px 14px; font-size: 0.8rem; border-radius: 8px;">+ Add New User</button>
+                            <button type="button" id="btn-admin-add-user" class="btn-primary" style="padding: 6px 14px; font-size: 0.8rem; border-radius: 8px;">+ Add New User Account</button>
                         </div>
                         <div id="admin-users-list" style="max-height: 380px; overflow-y: auto;">
                             <!-- Dynamic users directory -->
@@ -784,100 +978,166 @@
             </div>
         </div>
 
-        <!-- SPOTIFY-STYLE PLAYLIST PICKER MODAL -->
-        <div id="quiz-playlist-picker-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.75); backdrop-filter: blur(8px); z-index: 1200; align-items: center; justify-content: center; padding: 16px;">
-            <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1px solid var(--quiz-border); border-radius: 20px; width: 100%; max-width: 460px; box-shadow: 0 20px 50px rgba(0,0,0,0.7); overflow: hidden; animation: modal-slide-in 0.25s ease-out;">
+        <!-- PLAYLIST PICKER MODAL (Add Question to Collections) -->
+        <div id="quiz-playlist-picker-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.8); backdrop-filter: blur(8px); z-index: 1400; align-items: center; justify-content: center; padding: 16px;">
+            <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1px solid var(--quiz-border); border-radius: 20px; width: 100%; max-width: 480px; box-shadow: 0 20px 50px rgba(0,0,0,0.7); overflow: hidden;">
                 <div class="quiz-modal-header" style="padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: var(--quiz-surface);">
-                    <h3 style="margin: 0; font-size: 1rem; font-weight: 800; color: #eab308;">⭐ Saved to Favorites & Playlists</h3>
-                    <button type="button" id="btn-close-playlist-picker-modal" class="quiz-modal-close" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;"><i class="fas fa-times"></i></button>
+                    <h3 style="margin: 0; font-size: 1.05rem; font-weight: 800; color: #58a6ff;">⭐ <span id="txt-pl-picker-title">Добавить в сборник вопросов</span></h3>
+                    <button type="button" id="btn-close-pl-picker-modal" class="quiz-modal-close" onclick="document.getElementById('quiz-playlist-picker-modal').style.display='none'" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;"><i class="fas fa-times"></i></button>
                 </div>
                 <div class="quiz-modal-body" style="padding: 20px;">
-                    <!-- Question Context Snippet -->
-                    <div style="background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 10px; padding: 10px 14px; margin-bottom: 16px; font-size: 0.85rem; color: var(--quiz-text); font-style: italic; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;" id="playlist-picker-q-snippet">
-                        "Question snippet..."
+                    <div id="pl-picker-q-preview" style="background: rgba(13,17,23,0.6); border: 1px solid var(--quiz-border); border-radius: 10px; padding: 10px; margin-bottom: 16px; font-size: 0.82rem; color: var(--quiz-text);">
+                        <!-- Special ID & Question snippet -->
                     </div>
-
-                    <div style="font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 10px;">Select Playlists to Include This Question:</div>
-                    <div id="playlist-picker-options-list" style="max-height: 240px; overflow-y: auto; display: flex; flex-direction: column; gap: 8px; margin-bottom: 16px;">
-                        <!-- Dynamic checkboxes for custom playlists -->
-                    </div>
-
-                    <!-- Inline Create New Playlist -->
-                    <div style="border-top: 1px solid var(--quiz-border); padding-top: 14px;">
-                        <div style="font-size: 0.78rem; font-weight: 700; color: var(--quiz-accent); margin-bottom: 6px;">+ Create New Playlist & Add</div>
-                        <div style="display: flex; gap: 8px;">
-                            <input type="text" id="input-picker-new-playlist" placeholder="New playlist title (e.g. Aortic Surgery)..." style="flex: 1; padding: 8px 12px; border-radius: 8px; border: 1px solid var(--quiz-border); background: var(--quiz-surface); color: var(--quiz-text); font-size: 0.85rem;">
-                            <button type="button" id="btn-picker-create-playlist" class="btn-primary" style="padding: 8px 14px; font-size: 0.8rem; border-radius: 8px;">Add</button>
-                        </div>
+                    <label style="display: block; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; margin-bottom: 10px;" id="lbl-pl-picker-subtitle">Выберите сборник вопросов (1-10):</label>
+                    <div id="pl-picker-list" style="display: flex; flex-direction: column; gap: 8px; max-height: 260px; overflow-y: auto;">
+                        <!-- 10 playlist checkboxes dynamic injection -->
                     </div>
                 </div>
-                <div class="quiz-modal-footer" style="padding: 12px 20px; display: flex; justify-content: flex-end; border-top: 1px solid var(--quiz-border); background: var(--quiz-surface);">
-                    <button type="button" id="btn-done-playlist-picker" class="btn-primary" style="padding: 8px 22px; border-radius: 8px; font-weight: 700;">Done</button>
+                <div class="quiz-modal-footer" style="padding: 14px 20px; display: flex; justify-content: flex-end; border-top: 1px solid var(--quiz-border); background: var(--quiz-surface);">
+                    <button type="button" onclick="document.getElementById('quiz-playlist-picker-modal').style.display='none'" class="btn-primary" style="padding: 10px 24px; border-radius: 8px; font-weight: 700;">Done / Готово</button>
                 </div>
             </div>
         </div>
 
-        <!-- INTERACTIVE PLAYLIST MANAGER MODAL -->
-        <div id="quiz-playlist-manager-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.75); backdrop-filter: blur(8px); z-index: 1200; align-items: center; justify-content: center; padding: 16px;">
-            <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1px solid var(--quiz-border); border-radius: 20px; width: 100%; max-width: 680px; max-height: 88vh; box-shadow: 0 20px 50px rgba(0,0,0,0.7); overflow: hidden; display: flex; flex-direction: column; animation: modal-slide-in 0.25s ease-out;">
+        <!-- PLAYLIST EDITOR MODAL (Icon, Name & Questions Management) -->
+        <div id="quiz-playlist-editor-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.8); backdrop-filter: blur(8px); z-index: 1300; align-items: center; justify-content: center; padding: 16px;">
+            <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1px solid var(--quiz-border); border-radius: 20px; width: 100%; max-width: 520px; max-height: 85vh; display: flex; flex-direction: column; box-shadow: 0 20px 50px rgba(0,0,0,0.7); overflow: hidden; animation: modal-slide-in 0.25s ease-out;">
+                <div class="quiz-modal-header" style="padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: var(--quiz-surface);">
+                    <h3 style="margin: 0; font-size: 1.05rem; font-weight: 800; color: #58a6ff;">✏️ <span id="txt-pl-editor-title">Редактирование Сборника Вопросов</span></h3>
+                    <button type="button" id="btn-close-pl-editor-modal" class="quiz-modal-close" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="quiz-modal-body" style="padding: 20px; overflow-y: auto; flex: 1;">
+                    <!-- Playlist Name Input -->
+                    <div class="form-group" style="margin-bottom: 16px;">
+                        <label style="display: block; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; margin-bottom: 6px;" id="lbl-pl-name-input">Название сборника</label>
+                        <input type="text" id="input-pl-editor-name" placeholder="Введите название..." maxlength="40" style="width: 100%; padding: 10px 14px; border-radius: 10px; border: 1px solid var(--quiz-border); background: var(--quiz-surface); color: var(--quiz-text); font-size: 0.95rem; font-weight: 600;">
+                    </div>
+
+                    <!-- Icon Picker Grid (20 Icons) -->
+                    <div class="form-group" style="margin-bottom: 16px;">
+                        <label style="display: block; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; margin-bottom: 8px;" id="lbl-pl-icon-picker">Выбор Иконки (1 из 20)</label>
+                        <div id="pl-editor-icon-grid" style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; max-height: 140px; overflow-y: auto; padding: 4px;">
+                            <!-- Dynamic 20 icon choices -->
+                        </div>
+                    </div>
+
+                    <!-- Questions Management Section -->
+                    <div class="form-group" style="margin-top: 16px;">
+                        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                            <label style="font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase;" id="lbl-pl-editor-q-list">Вопросы в сборнике (<span id="pl-editor-q-count">0</span>)</label>
+                        </div>
+                        
+                        <!-- Add Question Form: Select Theme/Manifest & Specific Question -->
+                        <div style="background: rgba(22, 27, 34, 0.7); border: 1px solid var(--quiz-border); border-radius: 12px; padding: 12px; margin-bottom: 12px;">
+                            <label style="display: block; font-size: 0.78rem; font-weight: 700; color: #58a6ff; text-transform: uppercase; margin-bottom: 8px;" id="lbl-pl-add-q-title">➕ Добавить вопрос в сборник</label>
+                            
+                            <!-- 1. Select Manifest / Topic -->
+                            <div style="margin-bottom: 8px;">
+                                <label style="display: block; font-size: 0.72rem; color: var(--quiz-muted); margin-bottom: 3px;" id="lbl-pl-select-manifest">1. Выберите тему (манифест):</label>
+                                <select id="select-pl-editor-manifest" onchange="onPlaylistEditorManifestSelected()" style="width: 100%; padding: 8px 10px; border-radius: 8px; border: 1px solid var(--quiz-border); background: var(--quiz-surface); color: var(--quiz-text); font-size: 0.85rem;">
+                                    <option value="">-- Выберите тему / манифест --</option>
+                                </select>
+                            </div>
+
+                            <!-- 2. Select Question -->
+                            <div style="margin-bottom: 10px;">
+                                <label style="display: block; font-size: 0.72rem; color: var(--quiz-muted); margin-bottom: 3px;" id="lbl-pl-select-question">2. Выберите конкретный вопрос:</label>
+                                <select id="select-pl-editor-question" disabled style="width: 100%; padding: 8px 10px; border-radius: 8px; border: 1px solid var(--quiz-border); background: var(--quiz-surface); color: var(--quiz-text); font-size: 0.85rem;">
+                                    <option value="">-- Сначала выберите тему выше --</option>
+                                </select>
+                            </div>
+
+                            <button type="button" id="btn-pl-editor-add-q" onclick="addSelectedQuestionToPlaylist()" class="btn-primary" style="width: 100%; padding: 9px 14px; border-radius: 8px; font-size: 0.85rem; font-weight: 700; display: flex; align-items: center; justify-content: center; gap: 6px;">
+                                ➕ Добавить выбранный вопрос
+                            </button>
+                        </div>
+
+                        <!-- Questions List Container -->
+                        <div id="pl-editor-q-items" style="display: flex; flex-direction: column; gap: 6px; max-height: 170px; overflow-y: auto; background: rgba(13,17,23,0.5); border: 1px solid var(--quiz-border); border-radius: 10px; padding: 8px;">
+                            <!-- Dynamic question items -->
+                        </div>
+                    </div>
+                </div>
+                <div class="quiz-modal-footer" style="padding: 14px 20px; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--quiz-border); background: var(--quiz-surface);">
+                    <button type="button" id="btn-pl-editor-clear" class="btn-outline" style="color: #f87171; border-color: rgba(248,113,113,0.3); padding: 8px 16px; border-radius: 8px;">🗑️ Очистить вопросы</button>
+                    <button type="button" id="btn-pl-editor-save" class="btn-primary" style="padding: 10px 24px; border-radius: 8px; font-weight: 700;">💾 Сохранить</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- EXIT QUIZ SESSION CONFIRM MODAL -->
+        <div id="quiz-exit-confirm-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.82); backdrop-filter: blur(8px); z-index: 1400; align-items: center; justify-content: center; padding: 16px;">
+            <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1px solid rgba(248, 113, 113, 0.3); border-radius: 20px; width: 100%; max-width: 440px; display: flex; flex-direction: column; box-shadow: 0 20px 50px rgba(0,0,0,0.7); overflow: hidden; animation: modal-slide-in 0.25s ease-out;">
+                <div class="quiz-modal-header" style="padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: rgba(248, 113, 113, 0.08);">
+                    <h3 style="margin: 0; font-size: 1.1rem; font-weight: 800; color: #f87171; display: flex; align-items: center; gap: 8px;">
+                        <i class="fas fa-exclamation-triangle"></i> <span id="txt-exit-modal-title">Прервать сессию квиза?</span>
+                    </h3>
+                    <button type="button" onclick="closeQuizExitModal()" class="quiz-modal-close" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="quiz-modal-body" style="padding: 20px; font-size: 0.9rem; line-height: 1.5; color: var(--quiz-text);">
+                    <p id="txt-exit-modal-desc" style="margin: 0 0 16px 0;">
+                        Вы действительно хотите прервать текущую тренировку? Прогресс незавершённой сессии не будет сохранён.
+                    </p>
+                    <div style="display: flex; flex-direction: column; gap: 10px;">
+                        <button type="button" onclick="confirmExitToLibrary()" class="btn-primary" style="background: #238636; border-color: rgba(35, 134, 54, 0.4); padding: 12px; border-radius: 10px; font-weight: 700; font-size: 0.92rem; display: flex; align-items: center; justify-content: center; gap: 8px; cursor: pointer;">
+                            📚 <span id="txt-btn-exit-lib">Вернуться в библиотеку</span>
+                        </button>
+                        <button type="button" onclick="confirmExitToLobby()" class="btn-secondary" style="background: rgba(88, 166, 255, 0.15); border: 1px solid rgba(88, 166, 255, 0.35); color: #58a6ff; padding: 12px; border-radius: 10px; font-weight: 700; font-size: 0.92rem; display: flex; align-items: center; justify-content: center; gap: 8px; cursor: pointer;">
+                            🧠 <span id="txt-btn-exit-lobby">В меню квизов (Лобби)</span>
+                        </button>
+                        <button type="button" onclick="closeQuizExitModal()" class="btn-outline" style="border-color: var(--quiz-border); color: var(--quiz-muted); padding: 10px; border-radius: 10px; font-weight: 600; font-size: 0.88rem; cursor: pointer;">
+                            ✕ <span id="txt-btn-exit-cancel">Продолжить тест</span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- RPG CODEX MODAL (100 LEVELS & 10 TIERS ROADMAP) -->
+        <div id="quiz-rpg-codex-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.85); backdrop-filter: blur(8px); z-index: 1200; align-items: center; justify-content: center; padding: 16px;">
+            <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1.5px solid var(--tier-border, rgba(88, 166, 255, 0.4)); border-radius: 20px; width: 100%; max-width: 740px; max-height: 85vh; display: flex; flex-direction: column; box-shadow: 0 20px 50px rgba(0,0,0,0.7); overflow: hidden; animation: modal-slide-in 0.3s ease-out;">
                 <div class="quiz-modal-header" style="padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: var(--quiz-surface);">
                     <div style="display: flex; align-items: center; gap: 10px;">
-                        <h3 id="pl-mgr-title" style="margin: 0; font-size: 1.05rem; font-weight: 800; color: var(--quiz-accent);">📁 Playlist Title</h3>
-                        <button type="button" id="btn-pl-mgr-rename" class="btn-outline" style="padding: 3px 8px; font-size: 0.75rem; border-radius: 6px;" title="Rename Playlist">✏️ Rename</button>
+                        <h3 style="margin: 0; font-size: 1.15rem; font-weight: 800; color: var(--quiz-text); display: flex; align-items: center; gap: 8px;">
+                            <span>📜</span> <span id="txt-codex-title">Атлас 100 рангов и наград</span>
+                        </h3>
                     </div>
-                    <div style="display: flex; align-items: center; gap: 8px;">
-                        <button type="button" id="btn-pl-mgr-delete" class="btn-outline" style="color: #f87171; border-color: rgba(248,113,113,0.3); padding: 4px 10px; font-size: 0.78rem; border-radius: 6px;" title="Delete Playlist">🗑️ Delete</button>
-                        <button type="button" id="btn-close-pl-mgr-modal" class="quiz-modal-close" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;"><i class="fas fa-times"></i></button>
-                    </div>
+                    <button type="button" onclick="window.closeRpgCodexModal()" class="quiz-modal-close" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;"><i class="fas fa-times"></i></button>
                 </div>
-                
-                <!-- Playlist Tab Navigation -->
-                <div style="display: flex; border-bottom: 1px solid var(--quiz-border); background: rgba(13, 17, 23, 0.4);">
-                    <button type="button" id="btn-pl-mgr-tab-items" class="pl-mgr-tab-btn active" style="flex: 1; padding: 10px; border: none; background: transparent; color: var(--quiz-accent); font-size: 0.85rem; font-weight: 700; border-bottom: 2px solid var(--quiz-accent); cursor: pointer;">
-                        📜 Included Questions (<span id="pl-mgr-count">0</span>)
-                    </button>
-                    <button type="button" id="btn-pl-mgr-tab-add" class="pl-mgr-tab-btn" style="flex: 1; padding: 10px; border: none; background: transparent; color: var(--quiz-muted); font-size: 0.85rem; font-weight: 700; cursor: pointer;">
-                        ➕ Add Questions from Library
-                    </button>
+                <!-- 10 Tier Tabs Navigation -->
+                <div class="rpg-codex-tier-nav" id="codex-tier-tabs" style="padding: 12px 16px 6px;">
+                    <!-- Injected dynamically: 10 Tier tabs -->
                 </div>
-
-                <div class="quiz-modal-body" style="padding: 16px 20px; flex: 1; overflow-y: auto;">
-                    <!-- Pane 1: Included Questions -->
-                    <div id="pl-mgr-pane-items" style="display: block;">
-                        <div id="pl-mgr-questions-list" style="display: flex; flex-direction: column; gap: 8px;">
-                            <!-- Dynamic items list -->
-                        </div>
-                    </div>
-
-                    <!-- Pane 2: Add Questions Browser -->
-                    <div id="pl-mgr-pane-add" style="display: none;">
-                        <div style="margin-bottom: 12px; display: flex; gap: 10px; align-items: center;">
-                            <label style="font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted);">Select Book / Set:</label>
-                            <select id="select-pl-mgr-manifest" style="flex: 1; padding: 8px 12px; border-radius: 8px; border: 1px solid var(--quiz-border); background: var(--quiz-surface); color: var(--quiz-text); font-size: 0.85rem;">
-                                <!-- Dynamic options for loaded sets -->
-                            </select>
-                        </div>
-                        <div id="pl-mgr-add-questions-list" style="display: flex; flex-direction: column; gap: 8px; max-height: 380px; overflow-y: auto;">
-                            <!-- Dynamic question browser list -->
-                        </div>
-                    </div>
+                <div class="quiz-modal-body" id="codex-modal-body" style="padding: 16px 20px; overflow-y: auto; flex: 1;">
+                    <!-- Tier details, theme preview, penalty risk, and 10 levels rows -->
                 </div>
+            </div>
+        </div>
 
-                <div class="quiz-modal-footer" style="padding: 12px 20px; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--quiz-border); background: var(--quiz-surface);">
-                    <button type="button" id="btn-pl-mgr-play" class="btn-primary" style="padding: 8px 20px; border-radius: 8px; font-weight: 700;">🚀 Play Playlist</button>
-                    <button type="button" id="btn-pl-mgr-done" class="btn-outline" style="padding: 8px 20px; border-radius: 8px;">Done</button>
+        <!-- CLINICAL RPG ATTRIBUTE DIAGNOSTIC MODAL -->
+        <div id="quiz-rpg-attr-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0, 0, 0, 0.85); backdrop-filter: blur(8px); z-index: 1200; align-items: center; justify-content: center; padding: 16px;">
+            <div class="quiz-modal-card theme-glass" style="background: var(--quiz-card); border: 1.5px solid var(--quiz-border); border-radius: 18px; width: 100%; max-width: 480px; display: flex; flex-direction: column; box-shadow: 0 20px 50px rgba(0,0,0,0.7); overflow: hidden; animation: modal-slide-in 0.25s ease-out;">
+                <div class="quiz-modal-header" style="padding: 16px 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: var(--quiz-surface);">
+                    <h3 id="rpg-attr-modal-title" style="margin: 0; font-size: 1.05rem; font-weight: 800; color: var(--quiz-text); display: flex; align-items: center; gap: 8px;">
+                        <span>🧬</span> <span>Диагностика клинического навыка</span>
+                    </h3>
+                    <button type="button" onclick="window.closeRpgAttrModal()" class="quiz-modal-close" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;"><i class="fas fa-times"></i></button>
+                </div>
+                <div class="quiz-modal-body" id="rpg-attr-modal-body" style="padding: 20px; font-size: 0.88rem; line-height: 1.5; color: var(--quiz-text);">
+                    <!-- Dynamic attribute diagnostic details & training CTA -->
                 </div>
             </div>
         </div>
     </div>
 
-    <script src="assets/js/config.js?v=3.0"></script>
-    <script src="assets/js/google-sheets-api.js?v=3.0"></script>
-    <script src="assets/js/auth.js?v=3.0"></script>
+    <script src="assets/js/config.js?v=3.5"></script>
+    <script src="assets/js/google-sheets-api.js?v=3.7"></script>
+    <script src="assets/js/auth.js?v=3.5"></script>
     <!-- KaTeX JS for LaTeX math rendering -->
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
-    <script src="assets/js/quiz.js?v=4.3"></script>
-    <script src="assets/js/overlay-tools.js?v=4.0"></script>
+    <script src="assets/js/quiz.js?v=5.9"></script>
+    <script src="assets/js/overlay-tools.js?v=4.1"></script>
 </body>
 </html>
