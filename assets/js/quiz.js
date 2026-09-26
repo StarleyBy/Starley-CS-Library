@@ -1621,15 +1621,16 @@ window.openPlaylistPickerModal = function(q) {
     if (listEl) {
         listEl.innerHTML = state.userPlaylists.map(pl => {
             const iconChar = getPlaylistIconChar(pl.iconId);
-            const contains = Array.isArray(pl.questionIds) && pl.questionIds.includes(specId);
+            const contains = Array.isArray(pl.questionIds) && pl.questionIds.some(id => String(id) === String(specId));
+            const safeSpecId = String(specId).replace(/'/g, "\\'");
             return `
                 <label style="display: flex; align-items: center; justify-content: space-between; padding: 10px 12px; background: rgba(13,17,23,0.5); border: 1px solid ${contains ? '#58a6ff' : 'var(--quiz-border)'}; border-radius: 10px; cursor: pointer; transition: all 0.2s;">
                     <div style="display: flex; align-items: center; gap: 10px;">
-                        <input type="checkbox" ${contains ? 'checked' : ''} onchange="toggleQuestionInPlaylist(${pl.id}, '${specId}')" style="width: 18px; height: 18px; accent-color: #58a6ff; cursor: pointer;">
+                        <input type="checkbox" ${contains ? 'checked' : ''} onchange="toggleQuestionInPlaylist('${pl.id}', '${safeSpecId}', this)" style="width: 18px; height: 18px; accent-color: #58a6ff; cursor: pointer;">
                         <span style="font-size: 1.2rem;">${iconChar}</span>
                         <span style="font-weight: 700; font-size: 0.9rem; color: var(--quiz-text);">${escapeHTML(pl.title)}</span>
                     </div>
-                    <span style="font-size: 0.75rem; color: var(--quiz-muted);">${(pl.questionIds || []).length} ${isRu ? 'вопросов' : 'Qs'}</span>
+                    <span class="pl-picker-count" style="font-size: 0.75rem; color: var(--quiz-muted);">${(pl.questionIds || []).length} ${isRu ? 'вопросов' : 'Qs'}</span>
                 </label>
             `;
         }).join('');
@@ -1638,25 +1639,44 @@ window.openPlaylistPickerModal = function(q) {
     if (modal) modal.style.display = 'flex';
 };
 
-window.toggleQuestionInPlaylist = function(playlistId, specId) {
-    const pl = state.userPlaylists.find(p => p.id === playlistId || String(p.id) === String(playlistId));
+window.toggleQuestionInPlaylist = function(playlistId, specId, checkboxEl) {
+    const pl = state.userPlaylists.find(p => String(p.id) === String(playlistId));
     if (!pl) return;
     if (!Array.isArray(pl.questionIds)) pl.questionIds = [];
 
-    if (pl.questionIds.includes(specId)) {
-        pl.questionIds = pl.questionIds.filter(id => id !== specId);
+    const targetId = String(specId);
+    let willAdd = false;
+    if (pl.questionIds.some(id => String(id) === targetId)) {
+        pl.questionIds = pl.questionIds.filter(id => String(id) !== targetId);
+        willAdd = false;
     } else {
-        pl.questionIds.push(specId);
+        pl.questionIds.push(targetId);
+        willAdd = true;
     }
     pl.count = pl.questionIds.length;
 
+    try {
+        localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+    } catch (e) {}
+
+    if (checkboxEl) {
+        const label = checkboxEl.closest('label');
+        if (label) {
+            label.style.borderColor = willAdd ? '#58a6ff' : 'var(--quiz-border)';
+            const countEl = label.querySelector('.pl-picker-count');
+            if (countEl) {
+                const isRu = state.settings.lang === 'Ru';
+                countEl.textContent = `${pl.count} ${isRu ? 'вопросов' : 'Qs'}`;
+            }
+        }
+    }
+
     const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-    const willAdd = pl.questionIds.includes(specId);
     if (user && !user.isGuest && window.SupabaseAPI) {
-        window.SupabaseAPI.togglePlaylistItem(pl.id, specId, willAdd)
+        window.SupabaseAPI.togglePlaylistItem(pl.id, targetId, willAdd)
             .catch(err => console.warn('[Playlist] sync failed:', err));
     }
-    renderPlaylistsTab();
+    if (typeof renderPlaylistsTab === 'function') renderPlaylistsTab();
 };
 
 window.toggleCurrentFavoriteQuestion = function() {
