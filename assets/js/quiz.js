@@ -7499,19 +7499,37 @@ function initAdminAccountManager() {
             const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
             const password = prompt(isRu ? 'Введите пароль / PIN для нового пользователя (например: 778899):' : 'Enter Password / PIN for new user (e.g. 778899):');
             if (!password || !password.trim()) return;
+            const cleanPin = password.trim();
 
-            const nickname = prompt(isRu ? 'Введите имя / никнейм врача (например: Д-р Иванов):' : 'Enter Doctor Nickname (e.g. Dr. Ivanov):') || ('User ' + password.trim());
+            if (cleanPin.length < 4) {
+                alert(isRu ? '❌ Пароль/PIN должен содержать минимум 4 символа.' : '❌ Password/PIN must be at least 4 characters.');
+                return;
+            }
+
+            // Мгновенная проверка уникальности пароля / PIN
+            if (window.SupabaseAPI && typeof window.SupabaseAPI.checkPinExists === 'function') {
+                const check = await window.SupabaseAPI.checkPinExists(cleanPin);
+                if (check && check.exists) {
+                    const u = check.user;
+                    alert(isRu 
+                        ? `⚠️ Внимание! Пользователь с паролем/PIN «${cleanPin}» уже существует в системе!\n\n• Имя: ${u.nickname || 'Doctor'}\n• Логин: ${u.username || '-'}\n• Роль: ${u.role}\n\nПожалуйста, задайте другой уникальный пароль / PIN.`
+                        : `⚠️ Warning! A user with password/PIN "${cleanPin}" already exists!\n\n• Name: ${u.nickname || 'Doctor'}\n• Username: ${u.username || '-'}\n• Role: ${u.role}\n\nPlease choose a different unique password/PIN.`);
+                    return;
+                }
+            }
+
+            const nickname = prompt(isRu ? 'Введите имя / никнейм врача (например: Д-р Иванов):' : 'Enter Doctor Nickname (e.g. Dr. Ivanov):') || ('User ' + cleanPin);
             const email = prompt(isRu ? 'Email адрес (необязательно):' : 'Email address (optional):') || '';
             const role = confirm(isRu ? 'Назначить права администратора? (ОК = Администратор, Отмена = Пользователь)' : 'Assign Administrator privileges? (OK = Admin, Cancel = User)') ? 'admin' : 'user';
 
             if (window.SupabaseAPI && typeof window.SupabaseAPI.adminCreateUser === 'function') {
                 try {
-                    const res = await window.SupabaseAPI.adminCreateUser(password.trim(), nickname.trim(), role);
+                    const res = await window.SupabaseAPI.adminCreateUser(cleanPin, nickname.trim(), role);
                     if (res && (res.ok || res.success)) {
                         alert(`✓ ${res.message || (isRu ? 'Аккаунт успешно создан в Supabase!' : 'Account created in Supabase!')}`);
                         loadAdminUsers();
                     } else {
-                        alert(`❌ ${isRu ? 'Не удалось создать пользователя:' : 'Failed to create user:'} ${(res && res.error) || 'Unknown error'}`);
+                        alert(`❌ ${isRu ? 'Не удалось создать пользователя:' : 'Failed to create user:'}\n\n${(res && res.error) || 'Unknown error'}`);
                     }
                 } catch (e) {
                     alert(`❌ ${isRu ? 'Ошибка:' : 'Error:'} ${e.message}`);
@@ -7551,18 +7569,27 @@ async function loadAdminUsers() {
                                 <th style="padding: 8px;">Username</th>
                                 <th style="padding: 8px;">Level</th>
                                 <th style="padding: 8px;">Created</th>
+                                <th style="padding: 8px; text-align: right;">Action</th>
                             </tr>
                         </thead>
                         <tbody>
-                            ${profiles.map(p => `
-                                <tr style="border-bottom: 1px solid rgba(48, 54, 61, 0.4);">
-                                    <td style="padding: 8px; font-weight: 700;">${escapeHTML(p.nickname || p.username || 'Doctor')}</td>
-                                    <td style="padding: 8px;"><span style="color: ${p.role === 'admin' ? '#eab308' : '#58a6ff'}; font-weight: 700;">${p.role}</span></td>
-                                    <td style="padding: 8px;"><code>${escapeHTML(p.username || '-')}</code></td>
-                                    <td style="padding: 8px; color: var(--quiz-muted);">Lv. ${p.level_num || 1} (${p.total_exp || 0} EXP)</td>
-                                    <td style="padding: 8px; color: var(--quiz-muted); font-size: 0.8rem;">${p.created_at ? new Date(p.created_at).toLocaleDateString() : '-'}</td>
-                                </tr>
-                            `).join('')}
+                            ${profiles.map(p => {
+                                const isSelf = (admin.id && p.id === admin.id) || (admin.username && p.username === admin.username);
+                                const actionCell = isSelf
+                                    ? `<span style="font-size: 0.75rem; color: #eab308; font-weight: 700;">👑 You</span>`
+                                    : `<button type="button" onclick="window.confirmDeleteAdminUser('${p.id}', '${escapeHTML(p.nickname || p.username || 'Doctor')}', '${escapeHTML(p.username || '')}')" class="btn-admin-del" style="background: rgba(248, 113, 113, 0.15); border: 1px solid rgba(248, 113, 113, 0.4); color: #f87171; padding: 4px 10px; border-radius: 6px; font-size: 0.75rem; font-weight: 700; cursor: pointer; transition: all 0.2s;">🗑️ Delete</button>`;
+
+                                return `
+                                    <tr style="border-bottom: 1px solid rgba(48, 54, 61, 0.4);">
+                                        <td style="padding: 8px; font-weight: 700;">${escapeHTML(p.nickname || p.username || 'Doctor')}</td>
+                                        <td style="padding: 8px;"><span style="color: ${p.role === 'admin' ? '#eab308' : '#58a6ff'}; font-weight: 700;">${p.role}</span></td>
+                                        <td style="padding: 8px;"><code>${escapeHTML(p.username || '-')}</code></td>
+                                        <td style="padding: 8px; color: var(--quiz-muted);">Lv. ${p.level_num || 1} (${p.total_exp || 0} EXP)</td>
+                                        <td style="padding: 8px; color: var(--quiz-muted); font-size: 0.8rem;">${p.created_at ? new Date(p.created_at).toLocaleDateString() : '-'}</td>
+                                        <td style="padding: 8px; text-align: right;">${actionCell}</td>
+                                    </tr>
+                                `;
+                            }).join('')}
                         </tbody>
                     </table>
                 `;
@@ -7576,8 +7603,31 @@ async function loadAdminUsers() {
     list.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 20px;">Could not retrieve user directory from Supabase.</div>`;
 }
 
-window.deleteAdminUser = async function(targetUser) {
-    alert('User deletions should be managed via Supabase Dashboard.');
+window.confirmDeleteAdminUser = async function(userId, nick, username) {
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+    const confirmMsg = isRu
+        ? `Вы действительно хотите навсегда удалить пользователя «${nick}» (${username || 'ID: ' + userId})?\n\nВсе результаты, сессии и статистика этого пользователя будут безвозвратно удалены.`
+        : `Are you sure you want to permanently delete user "${nick}" (${username || userId})?\n\nAll results, sessions, and data will be erased.`;
+
+    if (!confirm(confirmMsg)) return;
+
+    if (window.SupabaseAPI && typeof window.SupabaseAPI.adminDeleteUser === 'function') {
+        try {
+            const res = await window.SupabaseAPI.adminDeleteUser(userId);
+            if (res && (res.ok || res.success)) {
+                alert(isRu ? `✓ Пользователь «${nick}» успешно удален!` : `✓ User "${nick}" deleted successfully!`);
+                await loadAdminUsers();
+            } else {
+                alert(`❌ ${isRu ? 'Ошибка при удалении:' : 'Delete error:'}\n\n${(res && res.error) || 'Unknown error'}`);
+            }
+        } catch (e) {
+            alert(`❌ ${isRu ? 'Ошибка:' : 'Error:'} ${e.message}`);
+        }
+    }
+};
+
+window.deleteAdminUser = function(targetUser) {
+    if (window.confirmDeleteAdminUser) window.confirmDeleteAdminUser(targetUser, 'User', targetUser);
 };
 
 function escapeHTML(str) {

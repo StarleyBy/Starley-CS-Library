@@ -52,20 +52,53 @@ Deno.serve(async (req) => {
             return json({ ok: false, error: 'Forbidden: admin role required' }, 403);
         }
 
-        // 3. Create the new account
-        const { pin, nickname, role } = await req.json();
+        const body = await req.json();
+
+        // 3. Handle User Deletion
+        if (body.action === 'delete' || body.targetUserId) {
+            const targetUserId = body.targetUserId;
+            if (!targetUserId) {
+                return json({ ok: false, error: 'targetUserId is required' }, 400);
+            }
+            if (targetUserId === caller.id) {
+                return json({ ok: false, error: 'Cannot delete own admin account' }, 400);
+            }
+            const { error: delErr } = await supabaseAdmin.auth.admin.deleteUser(targetUserId);
+            if (delErr) return json({ ok: false, error: delErr.message }, 400);
+            return json({ ok: true, success: true, message: 'User deleted successfully' });
+        }
+
+        // 4. Create the new account
+        const { pin, nickname, role } = body;
         if (!pin || String(pin).trim().length < 4) {
             return json({ ok: false, error: 'PIN must be at least 4 characters' }, 400);
         }
+        const cleanPin = String(pin).trim();
+
+        // Check if user already exists
+        const { data: existingUser } = await supabaseAdmin
+            .from('profiles')
+            .select('id, nickname, username, role')
+            .or(`username.eq.user_${cleanPin},username.eq.${cleanPin}`)
+            .maybeSingle();
+
+        if (existingUser) {
+            return json({
+                ok: false,
+                duplicate: true,
+                error: `Пользователь с паролем/PIN ${cleanPin} уже существует (${existingUser.nickname || 'Doctor'}, роль: ${existingUser.role})`
+            }, 400);
+        }
+
         const safeRole = role === 'admin' ? 'admin' : 'user';
-        const email = `pin_${String(pin).trim()}@starley.com`;
-        const password = `starley_${String(pin).trim()}`;
+        const email = `pin_${cleanPin}@starley.com`;
+        const password = `starley_${cleanPin}`;
 
         const { data: created, error: createErr } = await supabaseAdmin.auth.admin.createUser({
             email,
             password,
             email_confirm: true,
-            user_metadata: { nickname: nickname || 'Doctor', username: `user_${pin}` }
+            user_metadata: { nickname: nickname || 'Doctor', username: `user_${cleanPin}` }
         });
         if (createErr) return json({ ok: false, error: createErr.message }, 400);
 

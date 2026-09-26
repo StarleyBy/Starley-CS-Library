@@ -311,6 +311,24 @@
     // -------------------------------------------------------------------
     // Admin operations go through an Edge Function using service-role key.
     // -------------------------------------------------------------------
+    async function checkPinExists(pin) {
+        if (!pin) return { exists: false };
+        const cleanPin = String(pin).trim();
+        const targetUsername = 'user_' + cleanPin;
+        try {
+            const { data, error } = await client
+                .from('profiles')
+                .select('id, nickname, username, role, created_at')
+                .or(`username.eq.${targetUsername},username.eq.${cleanPin}`);
+            if (!error && Array.isArray(data) && data.length > 0) {
+                return { exists: true, user: data[0] };
+            }
+        } catch (e) {
+            console.warn('[Admin] checkPinExists error:', e);
+        }
+        return { exists: false };
+    }
+
     async function adminCreateUser(pin, nickname, role = 'user') {
         const { data: { session } } = await client.auth.getSession();
         if (!session) return { ok: false, error: 'Not authenticated' };
@@ -319,6 +337,19 @@
         const profileRes = await getProfile();
         if (!profileRes.ok || !profileRes.data || profileRes.data.role !== 'admin') {
             return { ok: false, error: 'Forbidden: admin role required' };
+        }
+
+        const cleanPin = String(pin).trim();
+
+        // 0. Pre-check for duplicate PIN/password
+        const pinCheck = await checkPinExists(cleanPin);
+        if (pinCheck.exists) {
+            const u = pinCheck.user;
+            return {
+                ok: false,
+                duplicate: true,
+                error: `Пользователь с паролем/PIN "${cleanPin}" уже существует в системе (${u.nickname || u.username || 'Doctor'}, роль: ${u.role}). Пожалуйста, задайте другой уникальный пароль.`
+            };
         }
 
         const functionBase = window.SUPABASE_FUNCTIONS_URL || `${window.SUPABASE_URL}/functions/v1`;
@@ -332,7 +363,7 @@
                     'Content-Type': 'application/json',
                     'Authorization': `Bearer ${session.access_token}`
                 },
-                body: JSON.stringify({ pin, nickname, role })
+                body: JSON.stringify({ pin: cleanPin, nickname, role })
             });
 
             if (res.ok) {
@@ -358,20 +389,28 @@
                 auth: { persistSession: false, autoRefreshToken: false, detectSessionInUrl: false }
             });
 
-            const email = pinToEmail(pin);
-            const password = pinToPassword(pin);
+            const email = pinToEmail(cleanPin);
+            const password = pinToPassword(cleanPin);
             const { data: signUpData, error: signUpErr } = await ephemeralClient.auth.signUp({
                 email,
                 password,
                 options: {
                     data: {
                         nickname: nickname || 'Doctor',
-                        username: `user_${pin}`
+                        username: `user_${cleanPin}`
                     }
                 }
             });
 
             if (signUpErr) {
+                const msg = String(signUpErr.message || '');
+                if (msg.toLowerCase().includes('already') || signUpErr.status === 422) {
+                    return {
+                        ok: false,
+                        duplicate: true,
+                        error: `Пользователь с паролем/PIN "${cleanPin}" уже существует. Выберите другой пароль.`
+                    };
+                }
                 return {
                     ok: false,
                     error: `Edge Function недоступна (${edgeError}). Прямая регистрация: ${signUpErr.message}`
@@ -391,7 +430,7 @@
                 return {
                     ok: true,
                     success: true,
-                    message: `Пользователь для PIN ${pin} успешно создан!`,
+                    message: `Пользователь для PIN ${cleanPin} успешно создан!`,
                     user: { id: signUpData.user.id, nickname, role }
                 };
             }
@@ -405,6 +444,65 @@
         return {
             ok: false,
             error: `Edge function 'admin-create-user' не задеплоена на Supabase (${edgeError}).`
+        };
+    }
+
+    async function adminDeleteUser(targetUserId) {
+        if (!targetUserId) return { ok: false, error: 'targetUserId is required' };
+        const { data: { session } } = await client.auth.getSession();
+        if (!session) return { ok: false, error: 'Not authenticated' };
+
+        // Verify caller is admin
+        const profileRes = await getProfile();
+        if (!profileRes.ok || !profileRes.data || profileRes.data.role !== 'admin') {
+            return { ok: false, error: 'Forbidden: admin role required' };
+        }
+
+        if (session.user && session.user.id === targetUserId) {
+            return { ok: false, error: 'Нельзя удалить свой собственный аккаунт администратора.' };
+        }
+
+        // 1. Try Postgres RPC delete_user_by_admin (fastest & cleanest)
+        try {
+            const { data, error } = await client.rpc('delete_user_by_admin', { target_user_id: targetUserId });
+            if (!error) {
+                return { ok: true, success: true, message: 'Пользователь успешно удален' };
+            }
+            if (error && error.code !== 'PGRST202') {
+                return { ok: false, error: error.message };
+            }
+        } catch (rpcErr) {
+            console.warn('[Admin] RPC delete failed, trying Edge Function:', rpcErr);
+        }
+
+        // 2. Try Edge Function
+        try {
+            const functionBase = window.SUPABASE_FUNCTIONS_URL || `${window.SUPABASE_URL}/functions/v1`;
+            const res = await fetch(`${functionBase}/admin-create-user`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${session.access_token}`
+                },
+                body: JSON.stringify({ action: 'delete', targetUserId })
+            });
+
+            if (res.ok) {
+                const data = await res.json();
+                return data;
+            } else if (res.status !== 404) {
+                const data = await res.json().catch(() => null);
+                return { ok: false, error: (data && data.error) || `HTTP ${res.status}` };
+            }
+        } catch (edgeErr) {
+            console.warn('[Admin] Edge delete failed:', edgeErr);
+        }
+
+        // 3. Fallback instructions if neither RPC nor Edge function is configured
+        return {
+            ok: false,
+            needsSetup: true,
+            error: `Функция прямого удаления ещё не активирована в Supabase.\n\nДля включения удаления прямо из приложения выполните один раз в Supabase SQL Editor:\n\ncreate or replace function public.delete_user_by_admin(target_user_id uuid)\nreturns boolean language plpgsql security definer set search_path = public, auth as $$\nbegin\n  if not public.is_admin() then raise exception 'Forbidden'; end if;\n  if target_user_id = auth.uid() then raise exception 'Cannot delete self'; end if;\n  delete from auth.users where id = target_user_id;\n  return true;\nend;\n$$;`
         };
     }
 
@@ -427,6 +525,8 @@
         saveSession,
         getSessionHistory,
         subscribeToOwnChanges,
-        adminCreateUser
+        adminCreateUser,
+        adminDeleteUser,
+        checkPinExists
     };
 })();

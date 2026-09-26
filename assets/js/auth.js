@@ -166,7 +166,15 @@
             passInput.value = '';
             passInput.classList.add('shake');
             setTimeout(() => passInput.classList.remove('shake'), 500);
-            errorMsg.textContent = '✗ Incorrect password';
+
+            const err = (res && res.error) ? String(res.error).toLowerCase() : '';
+            if (err.includes('confirm')) {
+                errorMsg.innerHTML = '✗ Email not confirmed.<br><span style="font-size: 0.8rem; font-weight: normal; color: #fca5a5;">Аккаунт ожидает подтверждения в Supabase (Users → Confirm email)</span>';
+            } else if (err.includes('invalid login credentials') || err.includes('invalid grant')) {
+                errorMsg.textContent = '✗ Incorrect password';
+            } else {
+                errorMsg.textContent = `✗ ${(res && res.error) || 'Incorrect password'}`;
+            }
             errorMsg.style.color = '#f87171';
         });
 

@@ -141,6 +141,27 @@ returns boolean language sql security definer set search_path = public stable as
     );
 $$;
 
+-- Admin action: securely delete a user and cascade all their data
+create or replace function public.delete_user_by_admin(target_user_id uuid)
+returns boolean
+language plpgsql
+security definer
+set search_path = public, auth
+as $$
+begin
+    if not public.is_admin() then
+        raise exception 'Forbidden: only administrators can delete users';
+    end if;
+
+    if target_user_id = auth.uid() then
+        raise exception 'Cannot delete your own administrator account';
+    end if;
+
+    delete from auth.users where id = target_user_id;
+    return true;
+end;
+$$;
+
 -- ---- profiles ----
 create policy "profiles_select_own_or_admin" on public.profiles
     for select using (id = auth.uid() or public.is_admin());
