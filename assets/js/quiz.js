@@ -3489,10 +3489,18 @@ function setupQuestionListeners() {
         if (modal) modal.style.display = 'none';
     };
 
-    window.confirmExitToLibrary = function() {
+    window.confirmExitToLibrary = async function() {
         if (state.timerInterval) {
             clearInterval(state.timerInterval);
             state.timerInterval = null;
+        }
+        if (window.SupabaseAPI && typeof window.SupabaseAPI.syncPendingQuizSessions === 'function') {
+            try {
+                await Promise.race([
+                    window.SupabaseAPI.syncPendingQuizSessions(),
+                    new Promise(res => setTimeout(res, 800))
+                ]);
+            } catch (e) {}
         }
         window.location.href = 'index.html';
     };
@@ -3715,30 +3723,23 @@ function showResults() {
     updateUserProfileDisplay();
     renderRpgResultsCard(expCalc, updatedRpg, isRu);
 
-    if (totalQ >= 2 && !state.isSingleQuestionPreview) {
+    if (totalQ >= 1 && !state.isSingleQuestionPreview) {
         state.sessionHistory.unshift(newSessionObj);
+
+        // 1. Immediately persist to localStorage synchronously (Local-First safety)
+        try {
+            localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
+        } catch (e) {
+            console.warn('[Session] Local storage save error:', e);
+        }
+
         updateQuizStatsUI();
 
-        const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-        if (user && !user.isGuest && window.SupabaseAPI) {
-            const compact = typeof sanitizeSessionForSync === 'function' ? sanitizeSessionForSync(newSessionObj) : {};
-            window.SupabaseAPI.saveSession({
-                sessionId: newSessionObj.sessionId,
-                date: newSessionObj.date,
-                setTitle: newSessionObj.setTitle,
-                mode: newSessionObj.mode,
-                lang: newSessionObj.lang,
-                totalQ: newSessionObj.totalQ,
-                correctQ: newSessionObj.correctQ,
-                scorePct: newSessionObj.scorePct,
-                timeSpentSec: newSessionObj.timeSpentSec,
-                expGained: newSessionObj.expGained,
-                topics: newSessionObj.topics,
-                detailSummary: compact.detailString || ''
-            }).catch(err => console.warn('[Session] sync failed:', err));
-        } else {
-            localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
-        }
+        // 2. Queue for resilient cloud sync & flush pending queue
+        enqueueSessionForSync(newSessionObj);
+
+        // 3. Sync RPG progression to Supabase profile
+        syncProfileRpgToSupabase(updatedRpg);
     }
     state.isSingleQuestionPreview = false;
 }
@@ -3936,7 +3937,22 @@ function setupResultsListeners() {
 
     document.getElementById('btn-restart').onclick = startQuiz;
     document.getElementById('btn-new-session').onclick = () => switchScreen('screen-lobby');
-    document.getElementById('btn-res-exit').onclick = () => window.location.href = 'index.html';
+    document.getElementById('btn-res-exit').onclick = async () => {
+        const exitBtn = document.getElementById('btn-res-exit');
+        if (exitBtn) {
+            exitBtn.disabled = true;
+            exitBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> ' + (isRu ? 'Сохранение...' : 'Saving...');
+        }
+        if (window.SupabaseAPI && typeof window.SupabaseAPI.syncPendingQuizSessions === 'function') {
+            try {
+                await Promise.race([
+                    window.SupabaseAPI.syncPendingQuizSessions(),
+                    new Promise(res => setTimeout(res, 1200))
+                ]);
+            } catch (e) {}
+        }
+        window.location.href = 'index.html';
+    };
 }
 
 function switchScreen(id) {
@@ -4849,6 +4865,125 @@ function setSyncStatus(status, detailText = '') {
 }
 
 /**
+ * Resilient Session Sync & Local-First Persistence
+ */
+function enqueueSessionForSync(sessionObj) {
+    if (!sessionObj) return;
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (!user || user.isGuest) return;
+
+    try {
+        let pending = [];
+        const raw = localStorage.getItem('starley_pending_sessions');
+        if (raw) pending = JSON.parse(raw);
+        if (!Array.isArray(pending)) pending = [];
+
+        const sId = String(sessionObj.sessionId || sessionObj.session_id);
+        if (!pending.some(p => String(p.sessionId || p.session_id) === sId)) {
+            pending.push(sessionObj);
+            localStorage.setItem('starley_pending_sessions', JSON.stringify(pending));
+        }
+    } catch (e) {
+        console.warn('[Session] enqueueSessionForSync error:', e);
+    }
+
+    if (window.SupabaseAPI && typeof window.SupabaseAPI.syncPendingQuizSessions === 'function') {
+        window.SupabaseAPI.syncPendingQuizSessions().catch(err => {
+            console.warn('[Session] syncPendingQuizSessions error:', err);
+        });
+    }
+}
+
+function syncProfileRpgToSupabase(updatedRpg) {
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (!user || user.isGuest || !window.SupabaseAPI || !updatedRpg) return;
+    window.SupabaseAPI.updateProfile({
+        level_num: updatedRpg.level,
+        current_exp: updatedRpg.currentExp,
+        total_exp: updatedRpg.totalExp,
+        tier_id: updatedRpg.tierId
+    }).catch(e => console.warn('[Profile] RPG sync failed:', e));
+}
+
+function mergeAndPersistSessionHistory(remoteSessionsRaw) {
+    let localHistory = [];
+    try {
+        localHistory = JSON.parse(localStorage.getItem('starley_session_history') || '[]');
+    } catch (e) {
+        localHistory = state.sessionHistory || [];
+    }
+    if (!Array.isArray(localHistory)) localHistory = [];
+
+    const remoteSessions = (Array.isArray(remoteSessionsRaw) ? remoteSessionsRaw : [])
+        .map(mapSupabaseSessionToLocal)
+        .filter(Boolean);
+
+    const sessionMap = new Map();
+
+    // 1. Remote sessions as base
+    remoteSessions.forEach(s => {
+        if (s && s.sessionId) sessionMap.set(String(s.sessionId), s);
+    });
+
+    // 2. Merge local sessions (keep any sessions missing in remote)
+    const unSyncedLocal = [];
+    localHistory.forEach(localSess => {
+        if (!localSess) return;
+        const id = String(localSess.sessionId || localSess.session_id || '');
+        if (!id) return;
+
+        if (!sessionMap.has(id)) {
+            // Local session not yet in remote! Preserve it!
+            sessionMap.set(id, localSess);
+            unSyncedLocal.push(localSess);
+        } else {
+            // Merge rich local error & breakdown arrays if remote has compact string only
+            const remote = sessionMap.get(id);
+            if (Array.isArray(localSess.errors) && localSess.errors.length > 0 && (!remote.errors || remote.errors.length === 0)) {
+                remote.errors = localSess.errors;
+            }
+            if (Array.isArray(localSess.manifestBreakdown) && localSess.manifestBreakdown.length > 0 && (!remote.manifestBreakdown || remote.manifestBreakdown.length === 0)) {
+                remote.manifestBreakdown = localSess.manifestBreakdown;
+            }
+        }
+    });
+
+    const merged = Array.from(sessionMap.values());
+    merged.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+
+    state.sessionHistory = merged;
+    try {
+        localStorage.setItem('starley_session_history', JSON.stringify(merged));
+    } catch (e) {}
+
+    // Enqueue unsynced local sessions to cloud pending queue
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (user && !user.isGuest && unSyncedLocal.length > 0) {
+        try {
+            let pending = [];
+            const raw = localStorage.getItem('starley_pending_sessions');
+            if (raw) pending = JSON.parse(raw);
+            if (!Array.isArray(pending)) pending = [];
+
+            unSyncedLocal.forEach(s => {
+                const sId = String(s.sessionId || s.session_id);
+                if (!pending.some(p => String(p.sessionId || p.session_id) === sId)) {
+                    pending.push(s);
+                }
+            });
+            localStorage.setItem('starley_pending_sessions', JSON.stringify(pending));
+            if (window.SupabaseAPI && typeof window.SupabaseAPI.syncPendingQuizSessions === 'function') {
+                window.SupabaseAPI.syncPendingQuizSessions().catch(() => {});
+            }
+        } catch (e) {}
+    }
+
+    updateQuizStatsUI();
+    if (typeof renderHistoryTab === 'function') renderHistoryTab();
+    return merged;
+}
+
+/**
  * Initialize Supabase Account Sync — runs once auth.js has resolved a
  * session (see 'starley-auth-ready' listener).
  */
@@ -4911,6 +5046,10 @@ async function initSupabaseAccountSync() {
                 state.userProfile.nickname = p.nickname;
             }
             if (p.role) user.role = p.role;
+            if (p.level_num) state.userProfile.level = p.level_num;
+            if (p.current_exp !== undefined) state.userProfile.currentExp = p.current_exp;
+            if (p.total_exp !== undefined) state.userProfile.totalExp = p.total_exp;
+            if (p.tier_id) state.userProfile.tierId = p.tier_id;
             if (window.AuthSystem) window.AuthSystem.setAuthenticated(user);
             saveUserProfile(state.userProfile);
             updateUserProfileDisplay();
@@ -4919,11 +5058,18 @@ async function initSupabaseAccountSync() {
         state.userFavorites = sanitizeFavoritesList(favRes.data || []);
         state.userPlaylists = sanitizePlaylistsList(plRes.data || []);
         ensureTenPlaylists();
-        state.sessionHistory = (histRes.data || []).map(mapSupabaseSessionToLocal);
+
+        // 2-Way safe merge: never wipe local unsynced sessions
+        mergeAndPersistSessionHistory(histRes.data || []);
+
+        // Also flush any pending unsynced sessions
+        if (window.SupabaseAPI && typeof window.SupabaseAPI.syncPendingQuizSessions === 'function') {
+            window.SupabaseAPI.syncPendingQuizSessions().catch(() => {});
+        }
 
         updateQuizStatsUI();
         if (typeof renderPlaylistsTab === 'function') renderPlaylistsTab();
-        if (typeof window.renderSessionHistoryTable === 'function') window.renderSessionHistoryTable();
+        if (typeof renderHistoryTab === 'function') renderHistoryTab();
 
         setSyncStatus('ok', 'Cloud Synchronized');
     } catch (err) {
@@ -4947,6 +5093,10 @@ async function initSupabaseAccountSync() {
                         user.nickname = payload.new.nickname;
                     }
                     if (payload.new.role) user.role = payload.new.role;
+                    if (payload.new.level_num) state.userProfile.level = payload.new.level_num;
+                    if (payload.new.current_exp !== undefined) state.userProfile.currentExp = payload.new.current_exp;
+                    if (payload.new.total_exp !== undefined) state.userProfile.totalExp = payload.new.total_exp;
+                    if (payload.new.tier_id) state.userProfile.tierId = payload.new.tier_id;
                     if (window.AuthSystem) window.AuthSystem.setAuthenticated(user);
                     saveUserProfile(state.userProfile);
                     updateUserProfileDisplay();
@@ -4968,9 +5118,10 @@ async function initSupabaseAccountSync() {
                 if (typeof renderPlaylistsTab === 'function') renderPlaylistsTab();
             }),
             quiz_sessions: () => window.SupabaseAPI.getSessionHistory(100).then(r => {
-                state.sessionHistory = (r.data || []).map(mapSupabaseSessionToLocal);
-                updateQuizStatsUI();
-                if (typeof window.renderSessionHistoryTable === 'function') window.renderSessionHistoryTable();
+                if (r && (r.ok || r.success) && Array.isArray(r.data)) {
+                    mergeAndPersistSessionHistory(r.data);
+                    if (typeof renderHistoryTab === 'function') renderHistoryTab();
+                }
             })
         });
     }
@@ -4978,21 +5129,31 @@ async function initSupabaseAccountSync() {
 
 // Maps a Supabase quiz_sessions row back to local state shape
 function mapSupabaseSessionToLocal(row) {
+    if (!row) return null;
     return {
-        sessionId: row.session_id,
-        date: row.date,
-        setTitle: row.set_title,
-        mode: row.mode,
-        lang: row.lang,
-        totalQ: row.total_q,
-        correctQ: row.correct_q,
-        scorePct: row.score_pct,
-        timeSpentSec: row.time_spent_sec,
-        expGained: row.exp_gained,
-        topics: row.topics || [],
-        detailString: row.detail_summary || ''
+        sessionId: row.session_id || row.sessionId || ('sess_' + Date.now()),
+        date: row.date || new Date().toISOString(),
+        setTitle: row.set_title || row.setTitle || 'Quiz Session',
+        mode: row.mode || 'smart',
+        lang: row.lang || 'En',
+        totalQ: Number(row.total_q !== undefined ? row.total_q : (row.totalQ !== undefined ? row.totalQ : row.count)) || 0,
+        correctQ: Number(row.correct_q !== undefined ? row.correct_q : (row.correctQ !== undefined ? row.correctQ : row.correctCount)) || 0,
+        scorePct: Number(row.score_pct !== undefined ? row.score_pct : (row.scorePct !== undefined ? row.scorePct : row.accuracyPct)) || 0,
+        timeSpentSec: Number(row.time_spent_sec !== undefined ? row.time_spent_sec : (row.timeSpentSec || 0)) || 0,
+        expGained: Number(row.exp_gained !== undefined ? row.exp_gained : (row.expGained || 0)) || 0,
+        topics: Array.isArray(row.topics)
+            ? row.topics
+            : (typeof row.topics === 'string'
+                ? row.topics.split(';').map(t => t.trim()).filter(Boolean)
+                : []),
+        detailString: row.detail_summary || row.detailString || '',
+        errors: Array.isArray(row.errors) ? row.errors : [],
+        manifestBreakdown: Array.isArray(row.manifestBreakdown) ? row.manifestBreakdown : []
     };
 }
+window.renderSessionHistoryTable = function() {
+    if (typeof renderHistoryTab === 'function') renderHistoryTab();
+};
 
 function setUserFavorites(favs) {
     state.userFavorites = sanitizeFavoritesList(favs);
@@ -7913,11 +8074,29 @@ document.addEventListener('DOMContentLoaded', function() {
     initSessionDetailModalHandlers();
 
     // auth.js's boot() is now async, so wait for its ready signal
-    document.addEventListener('starley-auth-ready', () => initSupabaseAccountSync());
-    // Also cover the case where auth.js already finished before this script ran:
-    if (window.AuthSystem && window.AuthSystem.getCurrentUser()) {
+    let syncInitStarted = false;
+    function safeInitSync() {
+        if (syncInitStarted) return;
+        syncInitStarted = true;
         initSupabaseAccountSync();
     }
+    document.addEventListener('starley-auth-ready', safeInitSync);
+    // Also cover the case where auth.js already finished before this script ran:
+    if (window.AuthSystem && window.AuthSystem.getCurrentUser()) {
+        safeInitSync();
+    }
+
+    // Auto-flush pending sessions on network reconnect or page hide
+    window.addEventListener('online', () => {
+        if (window.SupabaseAPI && typeof window.SupabaseAPI.syncPendingQuizSessions === 'function') {
+            window.SupabaseAPI.syncPendingQuizSessions();
+        }
+    });
+    document.addEventListener('visibilitychange', () => {
+        if (document.visibilityState === 'hidden' && window.SupabaseAPI && typeof window.SupabaseAPI.syncPendingQuizSessions === 'function') {
+            window.SupabaseAPI.syncPendingQuizSessions();
+        }
+    });
 });
 
 /* ==========================================================================

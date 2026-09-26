@@ -366,6 +366,11 @@
         startProfileRealtimeSync();
 
         document.dispatchEvent(new CustomEvent('starley-auth-ready', { detail: currentUser }));
+
+        // Resilient background sync: flush any pending quiz sessions
+        if (currentUser && !currentUser.isGuest && window.SupabaseAPI && typeof window.SupabaseAPI.syncPendingQuizSessions === 'function') {
+            window.SupabaseAPI.syncPendingQuizSessions().catch(() => {});
+        }
     }
 
     if (document.readyState === 'loading') {

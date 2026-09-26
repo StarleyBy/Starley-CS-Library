@@ -62,11 +62,25 @@
         return client.auth.getSession();
     }
 
+    // Fast auth user resolution: checks active cached session first, falls back to getUser()
+    async function getAuthUser() {
+        try {
+            const { data: { session } } = await client.auth.getSession();
+            if (session && session.user) return session.user;
+        } catch (e) {}
+        try {
+            const { data: { user } } = await client.auth.getUser();
+            return user || null;
+        } catch (e) {
+            return null;
+        }
+    }
+
     // -------------------------------------------------------------------
     // Profile (nickname / avatar / RPG progress)
     // -------------------------------------------------------------------
     async function getProfile() {
-        const { data: { user } } = await client.auth.getUser();
+        const user = await getAuthUser();
         if (!user) return { ok: false, data: null };
         const { data, error } = await client
             .from('profiles')
@@ -78,7 +92,7 @@
     }
 
     async function updateProfile(patch) {
-        const { data: { user } } = await client.auth.getUser();
+        const user = await getAuthUser();
         if (!user) return { ok: false, error: 'Not authenticated' };
         const allowed = ['nickname', 'avatar', 'level_num', 'current_exp', 'total_exp', 'tier_id'];
         const safePatch = {};
@@ -238,37 +252,107 @@
     }
 
     // -------------------------------------------------------------------
-    // Quiz sessions — compact summary only.
+    // Quiz sessions — local-first resilient sync with cloud
     // -------------------------------------------------------------------
+    function normalizeSessionRow(sessionSummary, userId) {
+        return {
+            user_id: userId,
+            session_id: String(sessionSummary.sessionId || sessionSummary.session_id || ('sess_' + Date.now())),
+            date: sessionSummary.date || new Date().toISOString(),
+            set_title: String(sessionSummary.setTitle || sessionSummary.set_title || 'Quiz Session').substring(0, 120),
+            mode: sessionSummary.mode || 'smart',
+            lang: sessionSummary.lang || 'En',
+            total_q: Number(sessionSummary.totalQ !== undefined ? sessionSummary.totalQ : (sessionSummary.total_q !== undefined ? sessionSummary.total_q : sessionSummary.count)) || 0,
+            correct_q: Number(sessionSummary.correctQ !== undefined ? sessionSummary.correctQ : (sessionSummary.correct_q !== undefined ? sessionSummary.correct_q : sessionSummary.correctCount)) || 0,
+            score_pct: Number(sessionSummary.scorePct !== undefined ? sessionSummary.scorePct : (sessionSummary.score_pct !== undefined ? sessionSummary.score_pct : sessionSummary.accuracyPct)) || 0,
+            time_spent_sec: Number(sessionSummary.timeSpentSec !== undefined ? sessionSummary.timeSpentSec : (sessionSummary.time_spent_sec || 0)) || 0,
+            exp_gained: Number(sessionSummary.expGained !== undefined ? sessionSummary.expGained : (sessionSummary.exp_gained || 0)) || 0,
+            topics: Array.isArray(sessionSummary.topics)
+                ? sessionSummary.topics
+                : (typeof sessionSummary.topics === 'string'
+                    ? sessionSummary.topics.split(';').map(t => t.trim()).filter(Boolean)
+                    : []),
+            detail_summary: sessionSummary.detailSummary || sessionSummary.detail_summary || sessionSummary.detailString || ''
+        };
+    }
+
     async function saveSession(sessionSummary) {
-        const { data: { user } } = await client.auth.getUser();
+        const user = await getAuthUser();
         if (!user) return { ok: false, error: 'Not authenticated' };
 
-        const row = {
-            user_id: user.id,
-            session_id: sessionSummary.sessionId,
-            date: sessionSummary.date || new Date().toISOString(),
-            set_title: sessionSummary.setTitle,
-            mode: sessionSummary.mode,
-            lang: sessionSummary.lang,
-            total_q: sessionSummary.totalQ,
-            correct_q: sessionSummary.correctQ,
-            score_pct: sessionSummary.scorePct,
-            time_spent_sec: sessionSummary.timeSpentSec,
-            exp_gained: sessionSummary.expGained || 0,
-            topics: sessionSummary.topics || [],
-            detail_summary: sessionSummary.detailSummary || ''
-        };
+        const row = normalizeSessionRow(sessionSummary, user.id);
 
         const { error } = await client
             .from('quiz_sessions')
             .upsert(row, { onConflict: 'user_id,session_id' });
-        if (error) return { ok: false, error: error.message };
+        if (error) {
+            console.error('[SupabaseAPI] saveSession error:', error);
+            return { ok: false, error: error.message };
+        }
         return { ok: true, success: true };
     }
 
-    async function getSessionHistory(limit = 50) {
-        const { data: { user } } = await client.auth.getUser();
+    async function batchSaveSessions(sessionsList) {
+        if (!Array.isArray(sessionsList) || sessionsList.length === 0) {
+            return { ok: true, success: true, count: 0 };
+        }
+        const user = await getAuthUser();
+        if (!user) return { ok: false, error: 'Not authenticated' };
+
+        const rows = sessionsList.map(s => normalizeSessionRow(s, user.id));
+
+        const { error } = await client
+            .from('quiz_sessions')
+            .upsert(rows, { onConflict: 'user_id,session_id' });
+        if (error) {
+            console.error('[SupabaseAPI] batchSaveSessions error:', error);
+            return { ok: false, error: error.message };
+        }
+        return { ok: true, success: true, count: rows.length };
+    }
+
+    async function syncPendingQuizSessions() {
+        const user = await getAuthUser();
+        if (!user) return { ok: false, synced: 0, pending: 0 };
+
+        let pending = [];
+        try {
+            const raw = localStorage.getItem('starley_pending_sessions');
+            if (raw) pending = JSON.parse(raw);
+        } catch (e) {}
+
+        if (!Array.isArray(pending) || pending.length === 0) {
+            return { ok: true, synced: 0, pending: 0 };
+        }
+
+        // Try batch upload first
+        const batchRes = await batchSaveSessions(pending);
+        if (batchRes && (batchRes.ok || batchRes.success)) {
+            try {
+                localStorage.removeItem('starley_pending_sessions');
+            } catch (e) {}
+            return { ok: true, synced: pending.length, pending: 0 };
+        }
+
+        // Fallback: sequential upload to preserve partial progress
+        let syncedCount = 0;
+        const remaining = [];
+        for (const s of pending) {
+            const res = await saveSession(s);
+            if (res && (res.ok || res.success)) {
+                syncedCount++;
+            } else {
+                remaining.push(s);
+            }
+        }
+        try {
+            localStorage.setItem('starley_pending_sessions', JSON.stringify(remaining));
+        } catch (e) {}
+        return { ok: remaining.length === 0, synced: syncedCount, pending: remaining.length };
+    }
+
+    async function getSessionHistory(limit = 100) {
+        const user = await getAuthUser();
         if (!user) return { ok: false, data: [] };
         const { data, error } = await client
             .from('quiz_sessions')
@@ -523,7 +607,10 @@
         deletePlaylist,
         togglePlaylistItem,
         saveSession,
+        batchSaveSessions,
+        syncPendingQuizSessions,
         getSessionHistory,
+        getAuthUser,
         subscribeToOwnChanges,
         adminCreateUser,
         adminDeleteUser,
