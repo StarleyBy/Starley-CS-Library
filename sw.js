@@ -11,8 +11,8 @@ if (self.location.hostname === 'localhost' || self.location.hostname === '127.0.
   });
 } else {
 
-const CACHE_STATIC = 'static-v20';
-const CACHE_DYNAMIC = 'dynamic-v20';
+const CACHE_STATIC = 'static-v21';
+const CACHE_DYNAMIC = 'dynamic-v21';
 
 const APP_SHELL = [
   './',
@@ -20,9 +20,13 @@ const APP_SHELL = [
   './offline.html',
   './manifest.json',
   './quiz.html',
+  './reader.html',
   './highlights.html',
   './search/index.html',
   './search/search.html',
+  './assets/css/styles.css',
+  './assets/css/reader.css',
+  './assets/js/reader.js',
   './assets/css/binder.css',
   './assets/js/binder-shelf.js',
   './assets/css/quiz.css',

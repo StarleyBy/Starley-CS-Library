@@ -28,7 +28,11 @@ const state = {
     isIndexing: false,
     selectedSets: [],
     allBooksWithQuizzes: [],
-    setQuestionsMap: {}
+    setQuestionsMap: {},
+    libraryOverlayOpen: false,
+    wasTimerRunningBeforeLibrary: false,
+    libraryCurrentView: '',
+    libraryTimeOpened: 0
 };
 
 const PLAYLIST_ICONS_MAP = [
@@ -2010,6 +2014,21 @@ window.setAppLanguage = function(lang) {
     const btnExitHeader = document.getElementById('txt-btn-exit-header');
     if (btnExitHeader) btnExitHeader.textContent = isRu ? 'Выход' : 'Exit';
 
+    const txtLibHeader = document.querySelector('.txt-lib-header');
+    if (txtLibHeader) txtLibHeader.textContent = isRu ? 'Библиотека' : 'Library';
+    const btnQuizQuickLib = document.getElementById('btn-quiz-quick-library');
+    if (btnQuizQuickLib) btnQuizQuickLib.title = isRu ? 'Открыть справочную библиотеку' : 'Open Reference Library';
+    const txtBtnLibBack = document.getElementById('txt-btn-lib-back');
+    if (txtBtnLibBack) txtBtnLibBack.textContent = isRu ? 'К квизу' : 'Back to Quiz';
+    const txtLibTitle = document.getElementById('txt-lib-title');
+    if (txtLibTitle) txtLibTitle.textContent = isRu ? 'Библиотека' : 'Library';
+    const lblCatalogTab = document.getElementById('lbl-lib-tab-catalog');
+    if (lblCatalogTab) lblCatalogTab.textContent = isRu ? 'Все книги' : 'All Books';
+    const lblSearchTab = document.getElementById('lbl-lib-tab-search');
+    if (lblSearchTab) lblSearchTab.textContent = isRu ? 'Поиск' : 'Search';
+    const txtExitPeekLib = document.getElementById('txt-btn-exit-peek-lib');
+    if (txtExitPeekLib) txtExitPeekLib.textContent = isRu ? 'Открыть библиотеку (без сброса сессии)' : 'Open Library (Keep Quiz Active)';
+
     if (typeof updateQuizStatsUI === 'function') updateQuizStatsUI();
     if (typeof renderCabinetOverviewTab === 'function') renderCabinetOverviewTab();
     if (typeof renderPlaylistsTab === 'function') renderPlaylistsTab();
@@ -3123,13 +3142,13 @@ function showExplanation() {
             const btn = document.createElement('button');
             btn.className = 'chapter-link-btn';
             btn.textContent = getChapterTitle(ch, q.bookPath);
-            btn.onclick = () => showChapterPreview(ch, q.bookPath);
+            btn.onclick = () => openReader(ch, q.bookPath);
             pickerGrid.appendChild(btn);
         });
     } else if (chapterList.length === 1) {
         mainReaderBtn.style.display = 'inline-flex';
         picker.style.display = 'none';
-        mainReaderBtn.onclick = () => showChapterPreview(chapterList[0], q.bookPath);
+        mainReaderBtn.onclick = () => openReader(chapterList[0], q.bookPath);
     } else {
         mainReaderBtn.style.display = 'none';
         picker.style.display = 'none';
@@ -3204,11 +3223,235 @@ function hideChapterPreview() {
 function openReader(chapterId, bookPath) {
     const lang = state.settings.lang;
     const edition = lang === 'Ru' ? 'russian' : 'original';
-    const cleanId = chapterId.replace('.md', '');
+    const cleanId = (chapterId || '').replace('.md', '');
     const path = bookPath || state.bookPath;
-    const url = `reader.html?book=${path}&chapter=${cleanId}&edition=${edition}`;
-    window.open(url, '_blank');
+    const url = cleanId 
+        ? `reader.html?book=${encodeURIComponent(path)}&chapter=${encodeURIComponent(cleanId)}&edition=${edition}`
+        : `reader.html?book=${encodeURIComponent(path)}&edition=${edition}`;
+    openQuizLibraryOverlay(url);
 }
+
+function pauseExamTimerForLibrary() {
+    if (state.timerInterval) {
+        clearInterval(state.timerInterval);
+        state.timerInterval = null;
+        state.wasTimerRunningBeforeLibrary = true;
+    }
+}
+
+function resumeExamTimerFromLibrary() {
+    if (state.wasTimerRunningBeforeLibrary && state.timeRemaining > 0 && !state.isSubmitted) {
+        state.wasTimerRunningBeforeLibrary = false;
+        const timerVal = document.getElementById('timer-val');
+        if (timerVal) timerVal.textContent = state.timeRemaining;
+        state.timerInterval = setInterval(() => {
+            state.timeRemaining--;
+            if (timerVal) timerVal.textContent = state.timeRemaining;
+            if (state.timeRemaining <= 0) {
+                clearInterval(state.timerInterval);
+                submitAnswer(true);
+            }
+        }, 1000);
+    }
+}
+
+function getQuestionReaderUrl(q) {
+    if (!q) return 'index.html';
+    const bookPath = q.bookPath || state.bookPath;
+    if (!bookPath) return 'index.html';
+
+    const lang = state.settings.lang;
+    const edition = lang === 'Ru' ? 'russian' : 'original';
+    let ch = q.chapterId;
+    if (!ch && q.meta && q.meta.chapter) {
+        ch = Array.isArray(q.meta.chapter) ? q.meta.chapter[0] : q.meta.chapter;
+    }
+    if (ch) {
+        const cleanId = String(ch).replace('.md', '');
+        return `reader.html?book=${encodeURIComponent(bookPath)}&chapter=${encodeURIComponent(cleanId)}&edition=${edition}`;
+    }
+    return `reader.html?book=${encodeURIComponent(bookPath)}&edition=${edition}`;
+}
+
+window.loadQuizLibraryView = function(viewType) {
+    const frame = document.getElementById('quiz-library-frame');
+    const spinner = document.getElementById('quiz-lib-spinner');
+    const tabQuestion = document.getElementById('btn-lib-tab-question');
+    const tabCatalog = document.getElementById('btn-lib-tab-catalog');
+    const tabSearch = document.getElementById('btn-lib-tab-search');
+    const btnExternal = document.getElementById('btn-lib-open-external');
+
+    if (!frame) return;
+
+    [tabQuestion, tabCatalog, tabSearch].forEach(t => t && t.classList.remove('active'));
+    state.libraryCurrentView = viewType;
+
+    let targetUrl = 'index.html';
+    const q = state.questions && state.questions[state.currentIndex];
+
+    if (viewType === 'question') {
+        if (tabQuestion) tabQuestion.classList.add('active');
+        targetUrl = getQuestionReaderUrl(q);
+    } else if (viewType === 'search') {
+        if (tabSearch) tabSearch.classList.add('active');
+        targetUrl = 'search/search.html';
+    } else {
+        if (tabCatalog) tabCatalog.classList.add('active');
+        targetUrl = 'index.html';
+    }
+
+    if (btnExternal) {
+        btnExternal.href = targetUrl;
+    }
+
+    if (spinner) spinner.style.display = 'flex';
+
+    try {
+        const currentSrc = frame.getAttribute('src');
+        if (currentSrc !== targetUrl) {
+            frame.src = targetUrl;
+        } else {
+            if (spinner) spinner.style.display = 'none';
+        }
+    } catch (e) {
+        frame.src = targetUrl;
+    }
+};
+
+window.reloadQuizLibraryFrame = function() {
+    const frame = document.getElementById('quiz-library-frame');
+    const spinner = document.getElementById('quiz-lib-spinner');
+    if (frame) {
+        if (spinner) spinner.style.display = 'flex';
+        try {
+            frame.contentWindow.location.reload();
+        } catch (e) {
+            frame.src = frame.src;
+        }
+    }
+};
+
+window.openQuizLibraryOverlay = function(customUrl) {
+    const modal = document.getElementById('quiz-library-overlay');
+    if (!modal) return;
+
+    pauseExamTimerForLibrary();
+    state.libraryOverlayOpen = true;
+    state.libraryTimeOpened = Date.now();
+    modal.style.display = 'flex';
+    document.body.classList.add('quiz-lib-open');
+
+    // Update status badge
+    const statusBadge = document.getElementById('quiz-lib-badge-status');
+    const isRu = state.settings.lang === 'Ru';
+    if (statusBadge) {
+        const qNum = (state.currentIndex || 0) + 1;
+        const qTotal = (state.questions && state.questions.length) || 0;
+        statusBadge.textContent = qTotal > 0 
+            ? (isRu ? `Вопрос ${qNum} из ${qTotal}` : `Question ${qNum}/${qTotal}`)
+            : (isRu ? 'Квиз активен' : 'Active Session');
+    }
+
+    // Configure question tab label
+    const q = state.questions && state.questions[state.currentIndex];
+    const tabQuestion = document.getElementById('btn-lib-tab-question');
+    const lblQuestionTab = document.getElementById('lbl-lib-tab-question');
+
+    if (q && q.bookPath) {
+        if (tabQuestion) tabQuestion.style.display = 'inline-flex';
+        if (lblQuestionTab) {
+            let ch = q.chapterId;
+            if (!ch && q.meta && q.meta.chapter) {
+                ch = Array.isArray(q.meta.chapter) ? q.meta.chapter[0] : q.meta.chapter;
+            }
+            if (ch) {
+                const title = getChapterTitle(ch, q.bookPath);
+                lblQuestionTab.textContent = title ? (title.length > 22 ? title.substring(0, 20) + '…' : title) : (isRu ? 'Глава вопроса' : 'Question Chapter');
+            } else {
+                lblQuestionTab.textContent = isRu ? 'Книга вопроса' : 'Question Book';
+            }
+        }
+    } else {
+        if (tabQuestion) tabQuestion.style.display = 'none';
+    }
+
+    // Mobile back button support via History API
+    try {
+        if (!history.state || !history.state.starleyQuizLibModal) {
+            history.pushState({ starleyQuizLibModal: true }, '');
+        }
+    } catch (e) {}
+
+    const frame = document.getElementById('quiz-library-frame');
+    const spinner = document.getElementById('quiz-lib-spinner');
+    if (frame && !frame.dataset.listenerAttached) {
+        frame.dataset.listenerAttached = 'true';
+        frame.addEventListener('load', () => {
+            if (spinner) spinner.style.display = 'none';
+            try {
+                const frameWin = frame.contentWindow;
+                if (frameWin && frameWin.location.pathname.endsWith('quiz.html')) {
+                    closeQuizLibraryOverlay();
+                }
+            } catch (err) {}
+        });
+    }
+
+    if (customUrl) {
+        if (spinner) spinner.style.display = 'flex';
+        frame.src = customUrl;
+        const btnExternal = document.getElementById('btn-lib-open-external');
+        if (btnExternal) btnExternal.href = customUrl;
+
+        const tabQuestion = document.getElementById('btn-lib-tab-question');
+        const tabCatalog = document.getElementById('btn-lib-tab-catalog');
+        const tabSearch = document.getElementById('btn-lib-tab-search');
+        [tabQuestion, tabCatalog, tabSearch].forEach(t => t && t.classList.remove('active'));
+        if (customUrl.includes('reader.html') && tabQuestion) tabQuestion.classList.add('active');
+        else if (customUrl.includes('search') && tabSearch) tabSearch.classList.add('active');
+        else if (tabCatalog) tabCatalog.classList.add('active');
+    } else {
+        if (q && q.bookPath) {
+            loadQuizLibraryView('question');
+        } else {
+            loadQuizLibraryView('catalog');
+        }
+    }
+};
+
+window.closeQuizLibraryOverlay = function() {
+    const modal = document.getElementById('quiz-library-overlay');
+    if (!modal || modal.style.display === 'none') return;
+
+    modal.style.display = 'none';
+    document.body.classList.remove('quiz-lib-open');
+    state.libraryOverlayOpen = false;
+
+    if (state.libraryTimeOpened && state.startTime) {
+        const timeInLib = Date.now() - state.libraryTimeOpened;
+        state.startTime += timeInLib;
+        if (state.questionStartTime) {
+            state.questionStartTime += timeInLib;
+        }
+    }
+
+    resumeExamTimerFromLibrary();
+
+    if (history.state && history.state.starleyQuizLibModal) {
+        history.back();
+    }
+};
+
+window.addEventListener('popstate', () => {
+    if (state.libraryOverlayOpen) {
+        const modal = document.getElementById('quiz-library-overlay');
+        if (modal) modal.style.display = 'none';
+        document.body.classList.remove('quiz-lib-open');
+        state.libraryOverlayOpen = false;
+        resumeExamTimerFromLibrary();
+    }
+});
+
 
 function setupQuestionListeners() {
     document.getElementById('btn-next-q').onclick = () => {
@@ -3276,6 +3519,11 @@ function setupQuestionListeners() {
             switchScreen('screen-lobby');
             updateWeakSpotRadar();
         };
+    }
+
+    const btnLibRef = document.getElementById('btn-quiz-quick-library');
+    if (btnLibRef) {
+        btnLibRef.onclick = () => window.openQuizLibraryOverlay();
     }
 
     const btnFav = document.getElementById('btn-toggle-favorite');
@@ -3698,6 +3946,9 @@ function switchScreen(id) {
         target.classList.add('active');
         if (typeof target.scrollTo === 'function') target.scrollTo(0, 0);
     }
+    window.scrollTo(0, 0);
+    if (document.documentElement) document.documentElement.scrollTop = 0;
+    if (document.body) document.body.scrollTop = 0;
 }
 
 function showScreen(id) {

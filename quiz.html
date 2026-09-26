@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Quiz Mode - Starley CS Library</title>
-    <link rel="stylesheet" href="assets/css/quiz.css?v=2.3">
+    <link rel="stylesheet" href="assets/css/quiz.css?v=2.4">
     <link rel="stylesheet" href="assets/css/overlay-tools.css?v=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <!-- KaTeX for LaTeX math rendering -->
@@ -408,6 +408,9 @@
                 <div id="q-score-live" class="quiz-live-score">Correct: 0</div>
                 <div id="quiz-timer" class="quiz-timer" style="display: none; background: rgba(218, 54, 51, 0.1); color: var(--quiz-wrong); padding: 4px 10px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; border: 1px solid rgba(218, 54, 51, 0.3); display: flex; align-items: center; gap: 5px; white-space: nowrap;"><i class="far fa-clock"></i> <span id="timer-val">60</span></div>
                 <div class="question-header-actions">
+                    <button type="button" id="btn-quiz-quick-library" onclick="openQuizLibraryOverlay()" class="quiz-header-lib-btn" title="Reference Library / Открыть библиотеку">
+                        <i class="fas fa-book-open"></i> <span class="txt-lib-header">Library</span>
+                    </button>
                     <button id="btn-mute-question" class="quiz-mute-btn" title="Toggle Sound & Haptics" style="background: none; border: none; color: var(--quiz-text); font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.8; transition: opacity 0.2s;"><i class="fas fa-volume-up"></i></button>
                     <button id="btn-toggle-favorite" onclick="toggleCurrentFavoriteQuestion()" class="quiz-fav-btn" title="Add to Favorites / Playlist" style="background: none; border: none; color: #eab308; font-size: 1.25rem; cursor: pointer; padding: 5px; opacity: 0.9; transition: transform 0.2s;"><i class="far fa-star"></i></button>
                     <button type="button" class="global-lang-btn" onclick="toggleGlobalLanguage()" title="Switch EN/RU Language" style="background: rgba(88,166,255,0.15); border: 1px solid rgba(88,166,255,0.4); color: #58a6ff; padding: 4px 10px; border-radius: 8px; font-size: 0.8rem; font-weight: 800; cursor: pointer; display: flex; align-items: center; gap: 4px;">🌐 <span class="txt-lang-code">EN</span></button>
@@ -1067,8 +1070,11 @@
                         Вы действительно хотите прервать текущую тренировку? Прогресс незавершённой сессии не будет сохранён.
                     </p>
                     <div style="display: flex; flex-direction: column; gap: 10px;">
-                        <button type="button" onclick="confirmExitToLibrary()" class="btn-primary" style="background: #238636; border-color: rgba(35, 134, 54, 0.4); padding: 12px; border-radius: 10px; font-weight: 700; font-size: 0.92rem; display: flex; align-items: center; justify-content: center; gap: 8px; cursor: pointer;">
-                            📚 <span id="txt-btn-exit-lib">Вернуться в библиотеку</span>
+                        <button type="button" onclick="closeQuizExitModal(); openQuizLibraryOverlay();" class="btn-primary" style="background: linear-gradient(135deg, #0284c7, #0369a1); border-color: rgba(56, 189, 248, 0.4); padding: 12px; border-radius: 10px; font-weight: 700; font-size: 0.92rem; display: flex; align-items: center; justify-content: center; gap: 8px; cursor: pointer;">
+                            📖 <span id="txt-btn-exit-peek-lib">Открыть библиотеку (без сброса сессии)</span>
+                        </button>
+                        <button type="button" onclick="confirmExitToLibrary()" class="btn-secondary" style="background: rgba(35, 134, 54, 0.2); border: 1px solid rgba(35, 134, 54, 0.4); color: #3fb950; padding: 12px; border-radius: 10px; font-weight: 700; font-size: 0.92rem; display: flex; align-items: center; justify-content: center; gap: 8px; cursor: pointer;">
+                            📚 <span id="txt-btn-exit-lib">Вернуться в библиотеку (завершить)</span>
                         </button>
                         <button type="button" onclick="confirmExitToLobby()" class="btn-secondary" style="background: rgba(88, 166, 255, 0.15); border: 1px solid rgba(88, 166, 255, 0.35); color: #58a6ff; padding: 12px; border-radius: 10px; font-weight: 700; font-size: 0.92rem; display: flex; align-items: center; justify-content: center; gap: 8px; cursor: pointer;">
                             🧠 <span id="txt-btn-exit-lobby">В меню квизов (Лобби)</span>
@@ -1116,6 +1122,58 @@
                 </div>
             </div>
         </div>
+
+        <!-- IN-SESSION REFERENCE LIBRARY OVERLAY (MOBILE FIRST) -->
+        <div id="quiz-library-overlay" class="quiz-library-modal-wrap" style="display: none;" role="dialog" aria-modal="true" aria-label="Reference Library">
+            <div class="quiz-library-modal-inner">
+                <!-- Top Control Bar -->
+                <header class="quiz-lib-bar">
+                    <div class="quiz-lib-bar-main">
+                        <button type="button" id="btn-close-quiz-lib" onclick="closeQuizLibraryOverlay()" class="btn-lib-back-to-quiz" title="Return to Active Quiz / Вернуться к сессии квиза">
+                            <i class="fas fa-arrow-left"></i> <span id="txt-btn-lib-back">Back to Quiz</span>
+                        </button>
+                        
+                        <div class="quiz-lib-bar-title-group">
+                            <span class="quiz-lib-title-main">📚 <span id="txt-lib-title">Library</span></span>
+                            <span id="quiz-lib-badge-status" class="quiz-lib-badge-status">Active Session</span>
+                        </div>
+
+                        <div class="quiz-lib-bar-actions">
+                            <button type="button" id="btn-lib-reload-frame" onclick="reloadQuizLibraryFrame()" class="quiz-lib-tool-btn" title="Refresh Page / Обновить">
+                                <i class="fas fa-sync-alt"></i>
+                            </button>
+                            <a id="btn-lib-open-external" href="#" target="_blank" class="quiz-lib-tool-btn" title="Open in New Tab / Открыть в новой вкладке">
+                                <i class="fas fa-external-link-alt"></i>
+                            </a>
+                            <button type="button" onclick="closeQuizLibraryOverlay()" class="quiz-lib-tool-btn lib-close-cross" title="Close / Закрыть">
+                                <i class="fas fa-times"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Quick View Selector (Pills Strip) -->
+                    <nav class="quiz-lib-nav-pills" aria-label="Library Reference Views">
+                        <button type="button" id="btn-lib-tab-question" class="lib-pill-btn active" onclick="loadQuizLibraryView('question')">
+                            <i class="fas fa-crosshairs"></i> <span id="lbl-lib-tab-question">Question Chapter</span>
+                        </button>
+                        <button type="button" id="btn-lib-tab-catalog" class="lib-pill-btn" onclick="loadQuizLibraryView('catalog')">
+                            <i class="fas fa-books"></i> <span id="lbl-lib-tab-catalog">All Books</span>
+                        </button>
+                        <button type="button" id="btn-lib-tab-search" class="lib-pill-btn" onclick="loadQuizLibraryView('search')">
+                            <i class="fas fa-search"></i> <span id="lbl-lib-tab-search">Search</span>
+                        </button>
+                    </nav>
+                </header>
+
+                <!-- Frame Wrapper with dynamic spinner -->
+                <div class="quiz-lib-frame-wrapper">
+                    <div id="quiz-lib-spinner" class="quiz-lib-spinner" style="display: none;">
+                        <i class="fas fa-circle-notch fa-spin"></i>
+                    </div>
+                    <iframe id="quiz-library-frame" class="quiz-lib-iframe" src="about:blank" title="Medical Library Reference Frame"></iframe>
+                </div>
+            </div>
+        </div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
@@ -1125,7 +1183,7 @@
     <!-- KaTeX JS for LaTeX math rendering -->
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
-    <script src="assets/js/quiz.js?v=6.4"></script>
+    <script src="assets/js/quiz.js?v=6.5"></script>
     <script src="assets/js/overlay-tools.js?v=4.2"></script>
 </body>
 </html>
