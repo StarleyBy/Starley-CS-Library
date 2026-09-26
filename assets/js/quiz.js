@@ -75,28 +75,25 @@ function getDefaultPlaylists() {
 
 function ensureTenPlaylists() {
     if (!Array.isArray(state.userPlaylists)) state.userPlaylists = [];
-    const list = [];
-    for (let i = 1; i <= 10; i++) {
-        let existing = state.userPlaylists.find(p => p.id === i || String(p.id) === String(i));
-        if (!existing) {
-            existing = {
-                id: i,
-                title: String(i),
-                iconId: 1,
-                count: 0,
-                questionIds: []
-            };
-        } else {
-            existing.id = i;
-            if (!existing.title) existing.title = String(i);
-            if (!existing.iconId) existing.iconId = 1;
-            if (!Array.isArray(existing.questionIds)) existing.questionIds = [];
-            existing.count = existing.questionIds.length;
-        }
-        list.push(existing);
+    state.userPlaylists.forEach((pl, idx) => {
+        if (!pl.id) pl.id = 'pl_' + (idx + 1);
+        if (!pl.title) pl.title = String(idx + 1);
+        if (!pl.iconId) pl.iconId = 1;
+        if (!Array.isArray(pl.questionIds)) pl.questionIds = [];
+        pl.count = pl.questionIds.length;
+    });
+
+    while (state.userPlaylists.length < 10) {
+        const num = state.userPlaylists.length + 1;
+        state.userPlaylists.push({
+            id: 'local_pl_' + num,
+            title: String(num),
+            iconId: 1,
+            count: 0,
+            questionIds: []
+        });
     }
-    state.userPlaylists = list;
-    return list;
+    return state.userPlaylists;
 }
 
 async function loadAllQuizManifestIndex() {
@@ -126,6 +123,9 @@ async function loadAllQuizManifestIndex() {
         }
     } catch (e) {
         console.warn('Failed loading quiz/allquiz.json:', e);
+    }
+    if (!state.allQuizRegistry || state.allQuizRegistry.length === 0) {
+        state.allQuizRegistry = ALL_MANIFESTS_REGISTRY;
     }
 }
 
@@ -1525,7 +1525,14 @@ function toggleFavoriteQuestion(q) {
         isFav = true;
     }
 
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (user && !user.isGuest && window.SupabaseAPI) {
+        (isFav ? window.SupabaseAPI.addFavorite(specId) : window.SupabaseAPI.removeFavorite(specId))
+            .catch(err => console.warn('[Favorites] sync failed:', err));
+    }
     localStorage.setItem('starley_user_favorites', JSON.stringify(state.userFavorites));
+    if (typeof updateQuizStatsUI === 'function') updateQuizStatsUI();
+    if (typeof renderPlaylistsTab === 'function') renderPlaylistsTab();
 
     const btnFav = document.getElementById('btn-toggle-favorite');
     if (btnFav) {
@@ -1537,8 +1544,6 @@ function toggleFavoriteQuestion(q) {
 
     playSound('click');
     triggerHaptic('click');
-
-    syncCloudUserData();
     if (typeof renderPlaylistsTab === 'function') renderPlaylistsTab();
     if (typeof updateQuizStatsUI === 'function') updateQuizStatsUI();
 
@@ -1596,7 +1601,12 @@ window.toggleQuestionInPlaylist = function(playlistId, specId) {
     }
     pl.count = pl.questionIds.length;
 
-    syncCloudUserData();
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    const willAdd = pl.questionIds.includes(specId);
+    if (user && !user.isGuest && window.SupabaseAPI) {
+        window.SupabaseAPI.togglePlaylistItem(pl.id, specId, willAdd)
+            .catch(err => console.warn('[Playlist] sync failed:', err));
+    }
     renderPlaylistsTab();
 };
 
@@ -3389,9 +3399,29 @@ function showResults() {
     renderRpgResultsCard(expCalc, updatedRpg, isRu);
 
     if (totalQ >= 2 && !state.isSingleQuestionPreview) {
-        syncCloudUserData(newSessionObj);
-    } else {
-        syncCloudUserData(null);
+        state.sessionHistory.unshift(newSessionObj);
+        updateQuizStatsUI();
+
+        const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+        if (user && !user.isGuest && window.SupabaseAPI) {
+            const compact = typeof sanitizeSessionForSync === 'function' ? sanitizeSessionForSync(newSessionObj) : {};
+            window.SupabaseAPI.saveSession({
+                sessionId: newSessionObj.sessionId,
+                date: newSessionObj.date,
+                setTitle: newSessionObj.setTitle,
+                mode: newSessionObj.mode,
+                lang: newSessionObj.lang,
+                totalQ: newSessionObj.totalQ,
+                correctQ: newSessionObj.correctQ,
+                scorePct: newSessionObj.scorePct,
+                timeSpentSec: newSessionObj.timeSpentSec,
+                expGained: newSessionObj.expGained,
+                topics: newSessionObj.topics,
+                detailSummary: compact.detailString || ''
+            }).catch(err => console.warn('[Session] sync failed:', err));
+        } else {
+            localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
+        }
     }
     state.isSingleQuestionPreview = false;
 }
@@ -4453,112 +4483,6 @@ function updateQuizStatsUI() {
 }
 
 /**
- * Fetch and Sync User Data from Google Sheets on Login
- */
-async function fetchAndSyncUserData(username) {
-    const syncBadge = document.getElementById('quiz-sync-status-badge');
-    const cabinetBadge = document.getElementById('cabinet-sync-indicator');
-
-    if (syncBadge) {
-        syncBadge.textContent = '⏳ Loading Cloud...';
-        syncBadge.style.color = '#58a6ff';
-    }
-    if (cabinetBadge) cabinetBadge.textContent = 'Connecting to Cloud...';
-
-    if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.getUserData === 'function') {
-        try {
-            const res = await window.GoogleSheetsAPI.getUserData(username);
-            if (res && res.success) {
-                mergeCloudAndLocalData(res.progress, res.history);
-
-                if (syncBadge) {
-                    syncBadge.textContent = '☁️ Cloud Synced';
-                    syncBadge.style.color = '#3fb950';
-                    syncBadge.style.borderColor = 'rgba(63, 185, 80, 0.3)';
-                }
-                if (cabinetBadge) cabinetBadge.textContent = '✅ Cloud Synchronized';
-                return;
-            }
-        } catch (e) {
-            console.warn('[Sync] Failed to fetch remote user data:', e);
-        }
-    }
-
-    // Fallback display if offline or remote sync fails
-    if (syncBadge) {
-        syncBadge.textContent = '⚠️ Local Saved';
-        syncBadge.style.color = '#eab308';
-        syncBadge.style.borderColor = 'rgba(234, 179, 8, 0.3)';
-    }
-}
-
-/**
- * Initialize Google Sheets Data Sync & User Account State
- */
-async function initGoogleSheetsAccountSync() {
-    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-    const syncBadge = document.getElementById('quiz-sync-status-badge');
-    const cabinetBadge = document.getElementById('cabinet-sync-indicator');
-    const nameDisplay = document.getElementById('profile-nickname-display');
-    const adminBtn = document.getElementById('btn-open-admin-modal');
-
-    if (!user) return;
-
-    const reqAccountBtn = document.getElementById('btn-request-account');
-    if (reqAccountBtn) {
-        reqAccountBtn.style.display = (user && !user.isGuest) ? 'none' : 'inline-flex';
-    }
-
-    if (nameDisplay) {
-        nameDisplay.textContent = user.nickname || user.username || 'Doctor User';
-    }
-
-    if (user.role === 'admin' && adminBtn) {
-        adminBtn.style.display = 'inline-block';
-    }
-
-    if (user.isGuest) {
-        if (syncBadge) {
-            setSyncStatus('off');
-        }
-        if (cabinetBadge) cabinetBadge.textContent = '👤 Guest Mode (No Cloud Sync)';
-        loadLocalUserData();
-        return;
-    }
-
-    // 1. Load local storage first for instant 0ms display
-    loadLocalUserData();
-
-    // 2. Initial pull from Google Sheets (or fallback to local file)
-    pullFromSheets();
-
-    // 3. Start background auto-sync loop (every 30s)
-    setTimeout(startAutoSync, 1000);
-}
-
-function loadLocalUserData() {
-    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-    try {
-        state.userFavorites = sanitizeFavoritesList(JSON.parse(localStorage.getItem('starley_user_favorites') || '[]'));
-        state.userPlaylists = sanitizePlaylistsList(JSON.parse(localStorage.getItem('starley_user_playlists') || '[]'));
-        ensureTenPlaylists();
-        state.sessionHistory = JSON.parse(localStorage.getItem('starley_session_history') || '[]');
-
-        const storedProf = localStorage.getItem('starley_user_profile');
-        if (storedProf) {
-            state.userProfile = JSON.parse(storedProf);
-        } else if (user && !user.isGuest) {
-            state.userProfile = {
-                nickname: user.nickname || user.username || 'Doctor',
-                avatar: user.avatar || 'doc'
-            };
-        }
-    } catch (e) {}
-    updateQuizStatsUI();
-    if (typeof updateUserProfileDisplay === 'function') updateUserProfileDisplay();
-}
-
-/**
  * Update UI Sync Status Badges with Wolfson-style indicators
  * States: 'syncing' (🟡 ↻), 'ok' (🟢 ✓), 'err' (🔴 ✗), 'off' (⚪ ·)
  */
@@ -4576,12 +4500,12 @@ function setSyncStatus(status, detailText = '') {
         badgeText = '🟡 ↻ Syncing...';
         badgeColor = '#eab308';
         badgeBorder = 'rgba(234, 179, 8, 0.3)';
-        cabText = '🟡 ↻ Syncing with Google Sheets...';
+        cabText = '🟡 ↻ Syncing with Supabase...';
     } else if (status === 'ok') {
         badgeText = '🟢 ✓ Synced';
         badgeColor = '#3fb950';
         badgeBorder = 'rgba(63, 185, 80, 0.3)';
-        cabText = '🟢 ✓ Cloud Synced to Google Sheets';
+        cabText = '🟢 ✓ Cloud Synced to Supabase';
         if (lastSyncEl) {
             const timeStr = new Date().toLocaleTimeString();
             lastSyncEl.textContent = timeStr;
@@ -4605,346 +4529,157 @@ function setSyncStatus(status, detailText = '') {
 }
 
 /**
- * Internal Save Functions (Local-First: writes ONLY to localStorage, no push triggered)
+ * Initialize Supabase Account Sync — runs once auth.js has resolved a
+ * session (see 'starley-auth-ready' listener).
  */
-function _saveFavorites(favs) {
-    state.userFavorites = sanitizeFavoritesList(favs);
-    localStorage.setItem('starley_user_favorites', JSON.stringify(state.userFavorites));
+async function initSupabaseAccountSync() {
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    const syncBadge = document.getElementById('quiz-sync-status-badge');
+    const cabinetBadge = document.getElementById('cabinet-sync-indicator');
+    const nameDisplay = document.getElementById('profile-nickname-display');
+    const adminBtn = document.getElementById('btn-open-admin-modal');
+
+    if (!user) return;
+
+    const reqAccountBtn = document.getElementById('btn-request-account');
+    if (reqAccountBtn) reqAccountBtn.style.display = (user && !user.isGuest) ? 'none' : 'inline-flex';
+    if (nameDisplay) nameDisplay.textContent = user.nickname || user.username || 'Doctor User';
+    if (user.role === 'admin' && adminBtn) adminBtn.style.display = 'inline-block';
+
+    if (user.isGuest) {
+        setSyncStatus('off');
+        if (cabinetBadge) cabinetBadge.textContent = '👤 Guest Mode (No Cloud Sync)';
+        state.userFavorites = sanitizeFavoritesList(JSON.parse(localStorage.getItem('starley_user_favorites') || '[]'));
+        state.userPlaylists = sanitizePlaylistsList(JSON.parse(localStorage.getItem('starley_user_playlists') || '[]'));
+        ensureTenPlaylists();
+        state.sessionHistory = JSON.parse(localStorage.getItem('starley_session_history') || '[]');
+        updateQuizStatsUI();
+        return;
+    }
+
+    setSyncStatus('syncing');
+    try {
+        if (!window.SupabaseAPI) {
+            throw new Error('SupabaseAPI is not loaded');
+        }
+
+        const [favRes, plRes, histRes] = await Promise.all([
+            window.SupabaseAPI.getFavorites(),
+            window.SupabaseAPI.getPlaylists(),
+            window.SupabaseAPI.getSessionHistory(100)
+        ]);
+
+        state.userFavorites = sanitizeFavoritesList(favRes.data || []);
+        state.userPlaylists = sanitizePlaylistsList(plRes.data || []);
+        ensureTenPlaylists();
+        state.sessionHistory = (histRes.data || []).map(mapSupabaseSessionToLocal);
+
+        updateQuizStatsUI();
+        if (typeof renderPlaylistsTab === 'function') renderPlaylistsTab();
+        if (typeof window.renderSessionHistoryTable === 'function') window.renderSessionHistoryTable();
+
+        setSyncStatus('ok', 'Cloud Synchronized');
+    } catch (err) {
+        console.warn('[Sync] initial load failed:', err);
+        setSyncStatus('err', 'Sync Error');
+    }
+
+    // Realtime: apply targeted updates live without polling
+    if (window.SupabaseAPI && typeof window.SupabaseAPI.subscribeToOwnChanges === 'function') {
+        window.SupabaseAPI.subscribeToOwnChanges(user.id, {
+            favorites: () => window.SupabaseAPI.getFavorites().then(r => {
+                state.userFavorites = sanitizeFavoritesList(r.data || []);
+                updateQuizStatsUI();
+                if (typeof renderPlaylistsTab === 'function') renderPlaylistsTab();
+            }),
+            playlists: () => window.SupabaseAPI.getPlaylists().then(r => {
+                state.userPlaylists = sanitizePlaylistsList(r.data || []);
+                ensureTenPlaylists();
+                if (typeof renderPlaylistsTab === 'function') renderPlaylistsTab();
+            }),
+            playlist_items: () => window.SupabaseAPI.getPlaylists().then(r => {
+                state.userPlaylists = sanitizePlaylistsList(r.data || []);
+                ensureTenPlaylists();
+                if (typeof renderPlaylistsTab === 'function') renderPlaylistsTab();
+            }),
+            quiz_sessions: () => window.SupabaseAPI.getSessionHistory(100).then(r => {
+                state.sessionHistory = (r.data || []).map(mapSupabaseSessionToLocal);
+                updateQuizStatsUI();
+                if (typeof window.renderSessionHistoryTable === 'function') window.renderSessionHistoryTable();
+            })
+        });
+    }
 }
 
-function _savePlaylists(pls) {
-    state.userPlaylists = sanitizePlaylistsList(pls);
-    ensureTenPlaylists();
-    localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+// Maps a Supabase quiz_sessions row back to local state shape
+function mapSupabaseSessionToLocal(row) {
+    return {
+        sessionId: row.session_id,
+        date: row.date,
+        setTitle: row.set_title,
+        mode: row.mode,
+        lang: row.lang,
+        totalQ: row.total_q,
+        correctQ: row.correct_q,
+        scorePct: row.score_pct,
+        timeSpentSec: row.time_spent_sec,
+        expGained: row.exp_gained,
+        topics: row.topics || [],
+        detailString: row.detail_summary || ''
+    };
 }
 
-function _saveSessionHistory(hist) {
-    state.sessionHistory = Array.isArray(hist) ? hist : [];
-    localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
-}
-
-/**
- * Public Mutators (Save to localStorage and schedule debounced push)
- */
 function setUserFavorites(favs) {
-    _saveFavorites(favs);
+    state.userFavorites = sanitizeFavoritesList(favs);
     updateQuizStatsUI();
-    schedulePush();
 }
 
 function setUserPlaylists(pls) {
-    _savePlaylists(pls);
+    state.userPlaylists = sanitizePlaylistsList(pls);
+    ensureTenPlaylists();
     updateQuizStatsUI();
-    schedulePush();
 }
 
-function addSessionHistoryRecord(sess) {
-    if (!sess) return;
-    const exists = state.sessionHistory.some(s => s.sessionId === sess.sessionId);
-    if (!exists) {
-        state.sessionHistory.unshift(sess);
-        _saveSessionHistory(state.sessionHistory);
-        updateQuizStatsUI();
-        schedulePush();
-    }
-}
+// Legacy helper stubs
+function enqueueCloudSync(s) { if (s && typeof s === 'object') state.sessionHistory.unshift(s); }
+function syncCloudUserData(s) { enqueueCloudSync(s); }
+function schedulePush() {}
+async function pushToSheets() {}
+async function pullFromSheets() { await initSupabaseAccountSync(); }
+function processSyncQueue() {}
 
-// Global debouncing and concurrency controls (Wolfson Schedule pattern)
-let pushTimer = null;
-let syncInProgress = false;
-let pendingSync = false;
-let autoSyncTimer = null;
-
-/**
- * 800ms Debounce Scheduler
- */
-function schedulePush() {
-    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-    if (!user || user.isGuest) {
-        setSyncStatus('off');
-        return;
-    }
-
-    if (pushTimer) clearTimeout(pushTimer);
-    pushTimer = setTimeout(() => {
-        pushToSheets();
-    }, 800);
-}
-
-/**
- * Push Local Data to Google Sheets with LockService and queue protection
- */
-async function pushToSheets(isImmediate = false) {
-    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-    if (!user || user.isGuest) return;
-
-    if (syncInProgress) {
-        pendingSync = true;
-        return;
-    }
-
-    syncInProgress = true;
-    setSyncStatus('syncing');
-
-    const pass = String(user.password || '456755').trim();
-    const safePass = (pass === 'admin' || pass === 'Admin') ? '456755' : (pass === 'user' ? '0455' : pass);
-    const userKey = 'user_' + safePass;
-
-    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
-    const resolvedNick = (state.userProfile && state.userProfile.nickname) || user.nickname || user.username || 'Doctor';
-    const resolvedAvatar = (state.userProfile && state.userProfile.avatar) || user.avatar || 'doc';
-    const rpgState = RPG_SYSTEM.getProfileRpgState(state.userProfile, state.sessionHistory, isRu ? 'Ru' : 'En');
-
-    const pm = calculateProgressMetrics();
-    const userData = {
-        username: user.username || (safePass === '456755' ? 'admin' : 'user'),
-        password: safePass,
-        nickname: resolvedNick,
-        avatar: resolvedAvatar,
-        title: rpgState.levelData.fullTitle,
-        level: rpgState.levelData.fullTitle,
-        levelNum: rpgState.level,
-        currentExp: rpgState.currentExp,
-        totalExp: rpgState.totalExp,
-        tierId: rpgState.tierId,
-        favorites: sanitizeFavoritesList(state.userFavorites),
-        playlists: sanitizePlaylistsList(state.userPlaylists),
-        progressMetrics: pm,
-        sessionHistory: state.sessionHistory || [],
-        lastUpdated: new Date().toISOString()
-    };
-
-    try {
-        if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.pushKey === 'function') {
-            const res = await window.GoogleSheetsAPI.pushKey(userKey, userData);
-            if (res && (res.ok || res.success)) {
-                setSyncStatus('ok', isRu ? 'Синхронизировано с Google Таблицей' : 'Synced with Google Sheets');
-                localStorage.removeItem('starley_has_pending_sync');
-            } else {
-                throw new Error((res && res.error) || 'Push failed');
-            }
-        }
-    } catch (err) {
-        console.warn('[GoogleSheetsSync] Push error:', err);
-        setSyncStatus('err', isRu ? 'Ошибка сети (сохранено локально)' : 'Network error (saved locally)');
-        localStorage.setItem('starley_has_pending_sync', 'true');
-    } finally {
-        syncInProgress = false;
-        if (pendingSync) {
-            pendingSync = false;
-            schedulePush();
-        }
-    }
-}
-
-/**
- * Pull Data from Google Sheets (Cache-busting GET)
- */
-async function pullFromSheets(isManual = false) {
-    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-    if (!user || user.isGuest) {
-        setSyncStatus('off');
-        return false;
-    }
-
-    if (syncInProgress && !isManual) return false;
-
-    setSyncStatus('syncing');
-    const pass = String(user.password || '456755').trim();
-    const safePass = (pass === 'admin' || pass === 'Admin') ? '456755' : (pass === 'user' ? '0455' : pass);
-    const userKey = 'user_' + safePass;
-    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
-
-    try {
-        if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.pullFromSheets === 'function') {
-            const res = await window.GoogleSheetsAPI.pullFromSheets();
-            if (res && (res.ok || res.success) && res.data) {
-                const remoteUser = res.data[userKey];
-                if (remoteUser && typeof remoteUser === 'object') {
-                    let changed = false;
-
-                    // If remote data exists, merge
-                    if (Array.isArray(remoteUser.favorites) && remoteUser.favorites.length >= 0) {
-                        _saveFavorites(remoteUser.favorites);
-                        changed = true;
-                    }
-                    if (Array.isArray(remoteUser.playlists) && remoteUser.playlists.length >= 0) {
-                        _savePlaylists(remoteUser.playlists);
-                        changed = true;
-                    }
-                    if (Array.isArray(remoteUser.sessionHistory) && remoteUser.sessionHistory.length >= 0) {
-                        _saveSessionHistory(remoteUser.sessionHistory);
-                        changed = true;
-                    }
-                    if (remoteUser.nickname) {
-                        if (!state.userProfile) state.userProfile = {};
-                        state.userProfile.nickname = remoteUser.nickname;
-                        if (user) {
-                            user.nickname = remoteUser.nickname;
-                            if (window.AuthSystem) window.AuthSystem.setAuthenticated(user);
-                        }
-                        localStorage.setItem('starley_user_profile', JSON.stringify(state.userProfile));
-                        changed = true;
-                    }
-                    if (remoteUser.avatar) {
-                        if (!state.userProfile) state.userProfile = {};
-                        state.userProfile.avatar = remoteUser.avatar;
-                        if (user) {
-                            user.avatar = remoteUser.avatar;
-                            if (window.AuthSystem) window.AuthSystem.setAuthenticated(user);
-                        }
-                        localStorage.setItem('starley_user_profile', JSON.stringify(state.userProfile));
-                        changed = true;
-                    }
-                    if (remoteUser.levelNum || remoteUser.totalExp || remoteUser.currentExp || remoteUser.tierId) {
-                        if (!state.userProfile) state.userProfile = {};
-                        if (remoteUser.levelNum) state.userProfile.level = remoteUser.levelNum;
-                        if (remoteUser.totalExp) state.userProfile.totalExp = remoteUser.totalExp;
-                        if (remoteUser.currentExp) state.userProfile.currentExp = remoteUser.currentExp;
-                        if (remoteUser.tierId) state.userProfile.tierId = remoteUser.tierId;
-                        localStorage.setItem('starley_user_profile', JSON.stringify(state.userProfile));
-                        changed = true;
-                    }
-
-                    if (changed) {
-                        updateQuizStatsUI();
-                        if (typeof window.updateUserProfileDisplay === 'function') window.updateUserProfileDisplay();
-                        if (typeof window.renderCabinetPlaylists === 'function') window.renderCabinetPlaylists();
-                        if (typeof window.renderFavoritesList === 'function') window.renderFavoritesList();
-                        if (typeof window.renderSessionHistoryTable === 'function') window.renderSessionHistoryTable();
-                    }
-                } else if (isManual) {
-                    // First time: push local data to create cloud key
-                    await pushToSheets(true);
-                }
-
-                setSyncStatus('ok', isRu ? 'Синхронизировано с Google Таблицей' : 'Synced with Google Sheets');
-                return true;
-            }
-        }
-    } catch (err) {
-        console.warn('[GoogleSheetsSync] Pull error:', err);
-        setSyncStatus('err', isRu ? 'Не удалось связаться с Google Таблицей' : 'Failed to connect to Google Sheets');
-    }
-    return false;
-}
-
-/**
- * Background Auto-Sync Loop (runs every 30s)
- */
-function startAutoSync() {
-    if (autoSyncTimer) clearTimeout(autoSyncTimer);
-    autoSyncTimer = setTimeout(async () => {
-        await pullFromSheets();
-        startAutoSync();
-    }, 30000);
-}
-
-/**
- * Backward-compatible aliases for existing calls
- */
-function enqueueCloudSync(newSessionObj) {
-    if (newSessionObj) {
-        addSessionHistoryRecord(newSessionObj);
-    } else {
-        schedulePush();
-    }
-}
-
-async function syncCloudUserData(newSessionObj) {
-    enqueueCloudSync(newSessionObj);
-}
-
-async function processSyncQueue(isImmediate = false) {
-    await pushToSheets(isImmediate);
-}
-
-/**
- * UI Control Handlers
- */
+// UI Control Handlers for Settings & Sync Tab
 window.testSheetsConn = async function() {
-    const isRu = state.settings.lang === 'Ru';
-    const startTime = Date.now();
-    try {
-        if (!window.GoogleSheetsAPI || !window.GoogleSheetsAPI.testConnection) {
-            alert(isRu ? '❌ Модуль GoogleSheetsAPI не загружен.' : '❌ GoogleSheetsAPI module not loaded.');
-            return;
-        }
-        const res = await window.GoogleSheetsAPI.testConnection();
-        const latency = Date.now() - startTime;
-        if (res && (res.ok || res.success)) {
-            alert(isRu ? 
-                `✅ Соединение с Google Таблицей успешно!\n\nВремя отклика: ${latency} мс\nАрхитектура: Local-First Key-Value\nЛист: quiz_data` :
-                `✅ Google Sheets connection successful!\n\nLatency: ${latency} ms\nArchitecture: Local-First Key-Value\nSheet: quiz_data`);
-            setSyncStatus('ok');
-        } else {
-            alert(isRu ? `⚠️ Ответ сервера: ${JSON.stringify(res)}` : `⚠️ Server response: ${JSON.stringify(res)}`);
-            setSyncStatus('err');
-        }
-    } catch (err) {
-        alert(isRu ? `❌ Ошибка проверки соединения: ${err.message}` : `❌ Connection test failed: ${err.message}`);
+    if (!window.SupabaseAPI) {
+        alert('❌ SupabaseAPI module not loaded.');
+        return;
+    }
+    const { data, error } = await window.SupabaseAPI.getSession();
+    if (error) {
+        alert(`❌ Supabase connection error: ${error.message}`);
         setSyncStatus('err');
+    } else {
+        alert('✅ Supabase connected successfully!');
+        setSyncStatus('ok', 'Connected to Supabase');
     }
 };
 
 window.forcePushToSheets = async function() {
-    const isRu = state.settings.lang === 'Ru';
-    try {
-        await pushToSheets(true);
-        alert(isRu ? '✅ Данные успешно отправлены в Google Таблицу!' : '✅ Data force pushed to Google Sheets successfully!');
-    } catch (err) {
-        alert(isRu ? `❌ Ошибка отправки: ${err.message}` : `❌ Push error: ${err.message}`);
-    }
+    alert('⚡ Supabase operates with real-time direct write-through. No manual push needed!');
 };
 
 window.forcePullFromSheets = async function() {
-    const isRu = state.settings.lang === 'Ru';
-    try {
-        const ok = await pullFromSheets(true);
-        if (ok) {
-            alert(isRu ? 
-                `✅ Данные успешно загружены из Google Таблицы!\n\nСборников: ${state.userPlaylists.length}\nИзбранных вопросов: ${state.userFavorites.length}\nСессий в истории: ${state.sessionHistory.length}` :
-                `✅ Data pulled from Google Sheets!\n\nPlaylists: ${state.userPlaylists.length}\nFavorites: ${state.userFavorites.length}\nHistory sessions: ${state.sessionHistory.length}`);
-        } else {
-            alert(isRu ? '⚠️ Не удалось получить данные или облачная база пуста.' : '⚠️ Could not pull data or cloud storage is empty.');
-        }
-    } catch (err) {
-        alert(isRu ? `❌ Ошибка загрузки: ${err.message}` : `❌ Pull error: ${err.message}`);
-    }
+    await initSupabaseAccountSync();
+    alert('✅ Refreshed data from Supabase!');
 };
 
 window.manualCloudSync = function() {
-    window.forcePushToSheets();
+    window.forcePullFromSheets();
 };
 
 window.triggerRebuildGoogleSheetStructure = function() {
     window.testSheetsConn();
 };
-
-
-// Lifecycle Auto-Retry Sync Listeners
-window.addEventListener('online', () => {
-    console.log('[SyncEngine] Network restored. Retrying sync queue...');
-    processSyncQueue();
-});
-
-setInterval(() => {
-    if (localStorage.getItem('starley_has_pending_sync') === 'true') {
-        processSyncQueue();
-    }
-}, 30000);
-
-document.addEventListener('visibilitychange', () => {
-    if (document.visibilityState === 'hidden' && localStorage.getItem('starley_has_pending_sync') === 'true' && !state.cloudSyncing) {
-        processSyncQueue(true);
-    }
-});
-
-window.addEventListener('beforeunload', () => {
-    if (localStorage.getItem('starley_has_pending_sync') === 'true' && !state.cloudSyncing) {
-        processSyncQueue(true);
-    }
-});
 
 /* ==========================================================================
    RPG PROGRESSION & 10-TIER PRESTIGE SYSTEM (Lv.1 Resident to Lv.100 Unrivaled)
@@ -5640,11 +5375,26 @@ window.createNewCustomPlaylist = function() {
             questionIds: [],
             createdAt: new Date().toISOString()
         };
-        if (!Array.isArray(state.userPlaylists)) state.userPlaylists = [];
-        state.userPlaylists.push(newPl);
-        
-        enqueueCloudSync(null);
-        renderPlaylistsTab();
+        const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+        if (user && !user.isGuest && window.SupabaseAPI) {
+            window.SupabaseAPI.createPlaylist(newPl.title).then(res => {
+                if (res.ok && res.data) {
+                    newPl.id = res.data.id; // adopt server UUID
+                    if (!Array.isArray(state.userPlaylists)) state.userPlaylists = [];
+                    state.userPlaylists.push(newPl);
+                    renderPlaylistsTab();
+                }
+            }).catch(err => {
+                console.warn('[Playlist] creation failed:', err);
+                if (!Array.isArray(state.userPlaylists)) state.userPlaylists = [];
+                state.userPlaylists.push(newPl);
+                renderPlaylistsTab();
+            });
+        } else {
+            if (!Array.isArray(state.userPlaylists)) state.userPlaylists = [];
+            state.userPlaylists.push(newPl);
+            renderPlaylistsTab();
+        }
     }
 };
 
@@ -5668,7 +5418,13 @@ window.selectAvatarSymbol = function(avatarKey) {
     localStorage.setItem('starley_user_profile', JSON.stringify(state.userProfile));
 
     updateUserProfileDisplay();
-    schedulePush();
+    if (user && !user.isGuest && window.SupabaseAPI) {
+        window.SupabaseAPI.updateProfile({ avatar: state.userProfile.avatar })
+            .then(res => { if (res && res.ok && window.AuthSystem) window.AuthSystem.setAuthenticated(res.data); })
+            .catch(err => console.warn('[Profile] avatar sync failed:', err));
+    } else {
+        localStorage.setItem('starley_user_profile', JSON.stringify(state.userProfile));
+    }
 };
 
 /**
@@ -5695,7 +5451,13 @@ window.saveUserProfileChanges = function() {
     localStorage.setItem('starley_user_profile', JSON.stringify(state.userProfile));
 
     updateUserProfileDisplay();
-    pushToSheets(true);
+    if (user && !user.isGuest && window.SupabaseAPI) {
+        window.SupabaseAPI.updateProfile({ nickname: state.userProfile.nickname, avatar: state.userProfile.avatar })
+            .then(res => { if (res && res.ok && window.AuthSystem) window.AuthSystem.setAuthenticated(res.data); })
+            .catch(err => console.warn('[Profile] sync failed:', err));
+    } else {
+        localStorage.setItem('starley_user_profile', JSON.stringify(state.userProfile));
+    }
 
     const cabinetModal = document.getElementById('quiz-profile-modal');
     if (cabinetModal) cabinetModal.style.display = 'none';
@@ -6855,6 +6617,7 @@ window.closeRpgAttrModal = function() {
  * Render 10 Custom Question Collections / Playlists (Rows 3-12) & Favorites (Row 14)
  */
 function renderPlaylistsTab() {
+    window.renderPlaylistsTab = renderPlaylistsTab;
     const grid = document.getElementById('cabinet-playlists-grid');
     const favList = document.getElementById('cabinet-favorites-list');
     const favCountEl = document.getElementById('cab-fav-count');
@@ -6865,7 +6628,7 @@ function renderPlaylistsTab() {
 
     // Render 10 Custom Collections
     if (grid) {
-        grid.innerHTML = state.userPlaylists.map(pl => {
+        grid.innerHTML = state.userPlaylists.map((pl, idx) => {
             const iconChar = getPlaylistIconChar(pl.iconId);
             const qCount = Array.isArray(pl.questionIds) ? pl.questionIds.length : 0;
             const isRu = state.settings.lang === 'Ru';
@@ -6877,11 +6640,11 @@ function renderPlaylistsTab() {
                             <span style="font-size: 1.5rem; line-height: 1;">${iconChar}</span>
                             <div style="font-weight: 800; font-size: 0.95rem; color: var(--quiz-text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">${escapeHTML(pl.title)}</div>
                         </div>
-                        <div style="font-size: 0.78rem; color: var(--quiz-muted);">${qCount} ${isRu ? 'вопросов' : 'questions'} (${isRu ? 'Сборник' : 'Collection'} #${pl.id})</div>
+                        <div style="font-size: 0.78rem; color: var(--quiz-muted);">${qCount} ${isRu ? 'вопросов' : 'questions'} (${isRu ? 'Сборник' : 'Collection'} #${idx + 1})</div>
                     </div>
                     <div style="display: flex; gap: 6px; margin-top: 12px;">
-                        <button type="button" onclick="launchPlaylistQuiz(${pl.id})" class="btn-primary" style="flex: 1; padding: 6px; font-size: 0.78rem; border-radius: 8px;">🚀 ${isRu ? 'Старт' : 'Play'}</button>
-                        <button type="button" onclick="openPlaylistEditorModal(${pl.id})" class="btn-outline" style="padding: 6px 10px; font-size: 0.78rem; border-radius: 8px;" title="Edit Title & Icon">✏️ ${isRu ? 'Изменить' : 'Edit'}</button>
+                        <button type="button" onclick="launchPlaylistQuiz('${pl.id}')" class="btn-primary" style="flex: 1; padding: 6px; font-size: 0.78rem; border-radius: 8px;">🚀 ${isRu ? 'Старт' : 'Play'}</button>
+                        <button type="button" onclick="openPlaylistEditorModal('${pl.id}')" class="btn-outline" style="padding: 6px 10px; font-size: 0.78rem; border-radius: 8px;" title="Edit Title & Icon">✏️ ${isRu ? 'Изменить' : 'Edit'}</button>
                     </div>
                 </div>
             `;
@@ -6971,9 +6734,15 @@ window.removeQuestionFromPlaylistEditor = function(specId) {
         pl.questionIds = pl.questionIds.filter(id => id !== specId);
         pl.count = pl.questionIds.length;
     }
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (user && !user.isGuest && window.SupabaseAPI) {
+        window.SupabaseAPI.togglePlaylistItem(pl.id, specId, false)
+            .catch(err => console.warn('[Playlist] remove item failed:', err));
+    } else {
+        localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+    }
     renderPlaylistEditorQuestions();
     renderPlaylistsTab();
-    syncCloudUserData();
 };
 
 window.initPlaylistEditorManifestSelect = async function() {
@@ -6984,11 +6753,16 @@ window.initPlaylistEditorManifestSelect = async function() {
     await loadAllQuizManifestIndex();
     const isRu = state.settings.lang === 'Ru';
 
-    if (state.allQuizRegistry && state.allQuizRegistry.length > 0) {
+    const registry = (state.allQuizRegistry && state.allQuizRegistry.length > 0) ? state.allQuizRegistry : (ALL_MANIFESTS_REGISTRY || []);
+
+    if (registry.length > 0) {
         selManifest.innerHTML = `<option value="">${isRu ? '-- Выберите тему / манифест --' : '-- Select Topic / Manifest --'}</option>` +
-            state.allQuizRegistry.map(m => `
-                <option value="${m.id}">№${m.num}. ${m.title} (${m.totalQuestions || 0} ${isRu ? 'вопр.' : 'q.'})</option>
-            `).join('');
+            registry.map(m => {
+                const regItem = ALL_MANIFESTS_REGISTRY.find(r => r.id === m.id || r.num === m.num) || m;
+                const title = isRu ? (regItem.titleRu || m.titleRu || m.title || m.titleEn) : (regItem.titleEn || m.titleEn || m.title || m.titleRu);
+                const qCount = m.totalQuestions || m.totalQ || regItem.totalQ || 0;
+                return `<option value="${m.id}">№${m.num || regItem.num}. ${title} (${qCount} ${isRu ? 'вопр.' : 'q.'})</option>`;
+            }).join('');
     }
 
     if (selQ) {
@@ -7017,7 +6791,8 @@ window.onPlaylistEditorManifestSelected = async function() {
     // Check if questions are loaded for this manifest
     if (!state.setQuestionsMap[manifestId]) {
         const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
-        const manifestObj = (state.allQuizRegistry || []).find(m => m.id === manifestId);
+        const registry = (state.allQuizRegistry && state.allQuizRegistry.length > 0) ? state.allQuizRegistry : (ALL_MANIFESTS_REGISTRY || []);
+        const manifestObj = registry.find(m => m.id === manifestId || String(m.num) === String(manifestId));
         if (manifestObj && manifestObj.file) {
             try {
                 const res = await fetch(`${rootPath}${manifestObj.file}`);
@@ -7042,7 +6817,7 @@ window.onPlaylistEditorManifestSelected = async function() {
 
     selQ.innerHTML = `<option value="">${isRu ? `-- Выберите вопрос (всего ${questions.length}) --` : `-- Select Question (${questions.length} total) --`}</option>` +
         questions.map((q, idx) => {
-            const specId = q.specialId || `${idx + 1}`;
+            const specId = getQuestionSpecialId(q);
             const text = (isRu ? (q.questionRu || q.questionEn) : (q.questionEn || q.questionRu)) || '';
             const snippet = text.replace(/<[^>]*>/g, '').trim().substring(0, 75);
             return `<option value="${specId}">[${specId}] №${idx + 1}: ${escapeHTML(snippet)}</option>`;
@@ -7068,9 +6843,15 @@ window.addSelectedQuestionToPlaylist = function() {
     if (!pl.questionIds.includes(specId)) {
         pl.questionIds.push(specId);
         pl.count = pl.questionIds.length;
+        const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+        if (user && !user.isGuest && window.SupabaseAPI) {
+            window.SupabaseAPI.togglePlaylistItem(pl.id, specId, true)
+                .catch(err => console.warn('[Playlist] add item failed:', err));
+        } else {
+            localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+        }
         renderPlaylistEditorQuestions();
         renderPlaylistsTab();
-        syncCloudUserData();
     } else {
         alert(isRu ? 'Этот вопрос уже добавлен в этот сборник!' : 'This question is already in this collection!');
     }
@@ -7110,7 +6891,13 @@ window.openPlaylistEditorModal = function(playlistId) {
             const newTitle = inputName ? inputName.value.trim() : '';
             pl.title = newTitle || String(pl.id);
             pl.iconId = state.currentSelectedPlaylistIconId || selectedIconId;
-            syncCloudUserData();
+            const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+            if (user && !user.isGuest && window.SupabaseAPI) {
+                window.SupabaseAPI.updatePlaylist(pl.id, { title: pl.title, iconId: pl.iconId })
+                    .catch(err => console.warn('[Playlist] update failed:', err));
+            } else {
+                localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+            }
             renderPlaylistsTab();
             if (modal) modal.style.display = 'none';
         };
@@ -7123,8 +6910,14 @@ window.openPlaylistEditorModal = function(playlistId) {
             if (confirm(isRu ? 'Очистить все вопросы из этого сборника?' : 'Clear all questions from this collection?')) {
                 pl.questionIds = [];
                 pl.count = 0;
+                const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+                if (user && !user.isGuest && window.SupabaseAPI) {
+                    window.SupabaseAPI.clearPlaylistItems(pl.id)
+                        .catch(err => console.warn('[Playlist] clear failed:', err));
+                } else {
+                    localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+                }
                 renderPlaylistEditorQuestions();
-                syncCloudUserData();
                 renderPlaylistsTab();
             }
         };
@@ -7200,8 +6993,12 @@ window.removeFavorite = function(specialIdStr) {
         return id !== targetStr && id !== '[object Object]' && !id.includes('[object');
     });
     state.userFavorites = sanitizeFavoritesList(state.userFavorites);
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (user && !user.isGuest && window.SupabaseAPI) {
+        window.SupabaseAPI.removeFavorite(targetStr)
+            .catch(err => console.warn('[Favorites] remove failed:', err));
+    }
     localStorage.setItem('starley_user_favorites', JSON.stringify(state.userFavorites));
-    syncCloudUserData();
     renderPlaylistsTab();
     if (typeof updateQuizStatsUI === 'function') updateQuizStatsUI();
 };
@@ -7248,7 +7045,13 @@ window.deletePlaylist = function(playlistId) {
     if (!pl) return;
     pl.questionIds = [];
     pl.count = 0;
-    syncCloudUserData();
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (user && !user.isGuest && window.SupabaseAPI) {
+        window.SupabaseAPI.clearPlaylistItems(pl.id)
+            .catch(err => console.warn('[Playlist] clear failed:', err));
+    } else {
+        localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+    }
     renderPlaylistsTab();
 };
 
@@ -7606,21 +7409,17 @@ function initAdminAccountManager() {
             const email = prompt(isRu ? 'Email адрес (необязательно):' : 'Email address (optional):') || '';
             const role = confirm(isRu ? 'Назначить права администратора? (ОК = Администратор, Отмена = Пользователь)' : 'Assign Administrator privileges? (OK = Admin, Cancel = User)') ? 'admin' : 'user';
 
-            if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.adminCreateUser === 'function') {
-                const adminPass = (admin && admin.password) ? admin.password : '456755';
-                const res = await window.GoogleSheetsAPI.adminCreateUser(admin.username || 'admin', adminPass, {
-                    username: 'user_' + password.trim(),
-                    password: password.trim(),
-                    nickname: nickname.trim(),
-                    email: email.trim(),
-                    role: role
-                });
-
-                if (res && res.success) {
-                    alert(`✓ ${res.message || (isRu ? 'Аккаунт успешно создан и добавлена страница в Google Таблице!' : 'Account created and page added in Google Sheet!')}`);
-                    loadAdminUsers();
-                } else {
-                    alert(`❌ ${isRu ? 'Не удалось создать пользователя:' : 'Failed to create user:'} ${res ? res.error : 'Unknown error'}`);
+            if (window.SupabaseAPI && typeof window.SupabaseAPI.adminCreateUser === 'function') {
+                try {
+                    const res = await window.SupabaseAPI.adminCreateUser(password.trim(), nickname.trim(), role);
+                    if (res && (res.ok || res.success)) {
+                        alert(`✓ ${res.message || (isRu ? 'Аккаунт успешно создан в Supabase!' : 'Account created in Supabase!')}`);
+                        loadAdminUsers();
+                    } else {
+                        alert(`❌ ${isRu ? 'Не удалось создать пользователя:' : 'Failed to create user:'} ${(res && res.error) || 'Unknown error'}`);
+                    }
+                } catch (e) {
+                    alert(`❌ ${isRu ? 'Ошибка:' : 'Error:'} ${e.message}`);
                 }
             }
         };
@@ -7638,63 +7437,52 @@ async function loadAdminUsers() {
 
     if (!admin || !list) return;
 
-    const adminPass = (admin && admin.password) ? admin.password : '456755';
+    if (window.SupabaseAPI && window.SupabaseAPI.client) {
+        try {
+            const { data: profiles, error } = await window.SupabaseAPI.client
+                .from('profiles')
+                .select('*')
+                .order('created_at', { ascending: false });
 
-    if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.adminGetUsers === 'function') {
-        const res = await window.GoogleSheetsAPI.adminGetUsers(admin.username || 'admin', adminPass);
-        if (res && res.success && res.users) {
-            if (countEl) countEl.textContent = res.users.length;
+            if (!error && Array.isArray(profiles)) {
+                if (countEl) countEl.textContent = profiles.length;
 
-            list.innerHTML = `
-                <table style="width: 100%; border-collapse: collapse; font-size: 0.85rem; color: var(--quiz-text);">
-                    <thead>
-                        <tr style="border-bottom: 1px solid var(--quiz-border); text-align: left; color: var(--quiz-muted);">
-                            <th style="padding: 8px;">User</th>
-                            <th style="padding: 8px;">Role</th>
-                            <th style="padding: 8px;">PIN / Pass</th>
-                            <th style="padding: 8px;">Email</th>
-                            <th style="padding: 8px;">Actions</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        ${res.users.map(u => `
-                            <tr style="border-bottom: 1px solid rgba(48, 54, 61, 0.4);">
-                                <td style="padding: 8px; font-weight: 700;">${escapeHTML(u.nickname || u.username)}</td>
-                                <td style="padding: 8px;"><span style="color: ${u.role === 'admin' ? '#eab308' : '#58a6ff'}; font-weight: 700;">${u.role}</span></td>
-                                <td style="padding: 8px;"><code>${escapeHTML(u.password)}</code></td>
-                                <td style="padding: 8px; color: var(--quiz-muted);">${escapeHTML(u.email || '-')}</td>
-                                <td style="padding: 8px;">
-                                    ${u.password !== '456755' && u.username !== 'admin' ? `<button type="button" onclick="deleteAdminUser('${u.password || u.username}')" style="background: none; border: none; color: #f87171; cursor: pointer; font-size: 0.85rem; font-weight: 700;" title="Delete User and Sheet">🗑️ Delete</button>` : '<span style="color: var(--quiz-muted); font-size: 0.8rem;">Primary Admin</span>'}
-                                </td>
+                list.innerHTML = `
+                    <table style="width: 100%; border-collapse: collapse; font-size: 0.85rem; color: var(--quiz-text);">
+                        <thead>
+                            <tr style="border-bottom: 1px solid var(--quiz-border); text-align: left; color: var(--quiz-muted);">
+                                <th style="padding: 8px;">User / Nickname</th>
+                                <th style="padding: 8px;">Role</th>
+                                <th style="padding: 8px;">Username</th>
+                                <th style="padding: 8px;">Level</th>
+                                <th style="padding: 8px;">Created</th>
                             </tr>
-                        `).join('')}
-                    </tbody>
-                </table>
-            `;
-            return;
+                        </thead>
+                        <tbody>
+                            ${profiles.map(p => `
+                                <tr style="border-bottom: 1px solid rgba(48, 54, 61, 0.4);">
+                                    <td style="padding: 8px; font-weight: 700;">${escapeHTML(p.nickname || p.username || 'Doctor')}</td>
+                                    <td style="padding: 8px;"><span style="color: ${p.role === 'admin' ? '#eab308' : '#58a6ff'}; font-weight: 700;">${p.role}</span></td>
+                                    <td style="padding: 8px;"><code>${escapeHTML(p.username || '-')}</code></td>
+                                    <td style="padding: 8px; color: var(--quiz-muted);">Lv. ${p.level_num || 1} (${p.total_exp || 0} EXP)</td>
+                                    <td style="padding: 8px; color: var(--quiz-muted); font-size: 0.8rem;">${p.created_at ? new Date(p.created_at).toLocaleDateString() : '-'}</td>
+                                </tr>
+                            `).join('')}
+                        </tbody>
+                    </table>
+                `;
+                return;
+            }
+        } catch (err) {
+            console.warn('[Admin] Failed to load profiles:', err);
         }
     }
 
-    list.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 20px;">Could not connect to Google Sheets backend to retrieve user directory.</div>`;
+    list.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 20px;">Could not retrieve user directory from Supabase.</div>`;
 }
 
 window.deleteAdminUser = async function(targetUser) {
-    const admin = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-    if (!admin || !targetUser) return;
-    const adminPass = (admin && admin.password) ? admin.password : '456755';
-    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
-
-    if (confirm(isRu ? `Удалить аккаунт '${targetUser}' и персональный лист в Google Таблице?` : `Are you sure you want to permanently delete user account '${targetUser}' and their sheet in Google Spreadsheet?`)) {
-        if (window.GoogleSheetsAPI && typeof window.GoogleSheetsAPI.adminDeleteUser === 'function') {
-            const res = await window.GoogleSheetsAPI.adminDeleteUser(admin.username || 'admin', adminPass, targetUser);
-            if (res && res.success) {
-                alert(`✓ ${res.message || (isRu ? 'Пользователь успешно удален.' : 'User deleted successfully.')}`);
-                loadAdminUsers();
-            } else {
-                alert(`❌ ${isRu ? 'Ошибка удаления:' : 'Error deleting user:'} ${res ? res.error : 'Unknown error'}`);
-            }
-        }
-    }
+    alert('User deletions should be managed via Supabase Dashboard.');
 };
 
 function escapeHTML(str) {
@@ -7703,13 +7491,17 @@ function escapeHTML(str) {
 
 // Hook into DOM Loaded Initialization
 document.addEventListener('DOMContentLoaded', function() {
-    setTimeout(() => {
-        initGoogleSheetsAccountSync();
-        initPersonalCabinet();
-        initFavoriteButtonHandler();
-        initAdminAccountManager();
-        initSessionDetailModalHandlers();
-    }, 500);
+    initPersonalCabinet();
+    initFavoriteButtonHandler();
+    initAdminAccountManager();
+    initSessionDetailModalHandlers();
+
+    // auth.js's boot() is now async, so wait for its ready signal
+    document.addEventListener('starley-auth-ready', () => initSupabaseAccountSync());
+    // Also cover the case where auth.js already finished before this script ran:
+    if (window.AuthSystem && window.AuthSystem.getCurrentUser()) {
+        initSupabaseAccountSync();
+    }
 });
 
 /* ==========================================================================
@@ -7777,7 +7569,14 @@ window.removeQuestionFromPlaylist = function(playlistId, qId) {
     if (!pl) return;
 
     pl.questionIds = (pl.questionIds || []).filter(id => String(id) !== String(qId));
-    syncCloudUserData();
+    pl.count = pl.questionIds.length;
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (user && !user.isGuest && window.SupabaseAPI) {
+        window.SupabaseAPI.togglePlaylistItem(pl.id, qId, false)
+            .catch(err => console.warn('[Playlist] remove item failed:', err));
+    } else {
+        localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+    }
 
     const countEl = document.getElementById('pl-mgr-count');
     if (countEl) countEl.textContent = pl.questionIds.length;
@@ -7879,43 +7678,51 @@ async function populatePlaylistManagerManifestSelect() {
     const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
     selectEl.innerHTML = `<option value="">${isRu ? '⏳ Загрузка доступных источников...' : '⏳ Loading available sources...'}</option>`;
 
+    await loadAllQuizManifestIndex();
     await ensureAllLibraryBooksLoaded();
 
     let allAvailableSets = [];
     window.availableLibrarySetsMap = {};
 
+    // 1. Primary sources: all 18 medical library manifests
+    const registry = (state.allQuizRegistry && state.allQuizRegistry.length > 0) ? state.allQuizRegistry : (ALL_MANIFESTS_REGISTRY || []);
+    registry.forEach(m => {
+        const regItem = ALL_MANIFESTS_REGISTRY.find(r => r.id === m.id || r.num === m.num) || m;
+        const title = isRu ? (regItem.titleRu || m.titleRu || m.title || m.titleEn) : (regItem.titleEn || m.titleEn || m.title || m.titleRu);
+        const item = {
+            id: m.id,
+            bookPath: m.file ? m.file.substring(0, m.file.lastIndexOf('/')) : '',
+            title: title,
+            russian_title: regItem.titleRu || m.titleRu || title,
+            label: `№${m.num || regItem.num || ''}. ${title}`,
+            question_count: m.totalQuestions || m.totalQ || regItem.totalQ || 0,
+            file: m.file || regItem.file,
+            setObj: m
+        };
+        allAvailableSets.push(item);
+        window.availableLibrarySetsMap[m.id] = item;
+    });
+
+    // 2. Append any extra quiz sets from loaded books in state.allBooksWithQuizzes
     if (Array.isArray(state.allBooksWithQuizzes) && state.allBooksWithQuizzes.length > 0) {
         state.allBooksWithQuizzes.forEach(book => {
             const bookTitle = isRu ? (book.meta.titleRu || book.meta.title || book.meta.titleEn || book.bookPath) : (book.meta.titleEn || book.meta.title || book.bookPath);
             (book.quiz_sets || []).forEach(set => {
-                const item = {
-                    id: set.id,
-                    bookPath: book.bookPath,
-                    title: set.title || set.id,
-                    russian_title: set.russian_title || set.title || set.id,
-                    label: `${bookTitle} — ${isRu ? (set.russian_title || set.title || set.id) : (set.title || set.russian_title || set.id)}`,
-                    question_count: set.question_count || 0,
-                    setObj: set
-                };
-                allAvailableSets.push(item);
-                window.availableLibrarySetsMap[set.id] = item;
+                if (!window.availableLibrarySetsMap[set.id]) {
+                    const item = {
+                        id: set.id,
+                        bookPath: book.bookPath,
+                        title: set.title || set.id,
+                        russian_title: set.russian_title || set.title || set.id,
+                        label: `${bookTitle} — ${isRu ? (set.russian_title || set.title || set.id) : (set.title || set.russian_title || set.id)}`,
+                        question_count: set.question_count || 0,
+                        file: set.file,
+                        setObj: set
+                    };
+                    allAvailableSets.push(item);
+                    window.availableLibrarySetsMap[set.id] = item;
+                }
             });
-        });
-    }
-
-    if (allAvailableSets.length === 0 && Array.isArray(state.selectedSets) && state.selectedSets.length > 0) {
-        allAvailableSets = state.selectedSets.map(s => {
-            const item = {
-                id: s.id || s.setId,
-                bookPath: s.bookPath || 'general',
-                title: s.title || s.id,
-                russian_title: s.russian_title || s.title || s.id,
-                label: s.russian_title || s.title || s.id,
-                question_count: s.question_count || 0,
-                setObj: s
-            };
-            window.availableLibrarySetsMap[item.id] = item;
-            return item;
         });
     }
 
@@ -7945,12 +7752,29 @@ async function renderPlaylistManagerAddQuestions(setId) {
     const pl = state.userPlaylists.find(p => String(p.id) === String(window.activeManagedPlaylistId));
     const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
 
-    let questionsInSet = (state.setQuestionsMap && state.setQuestionsMap[setId]) ? state.setQuestionsMap[setId] : [];
     const setInfo = window.availableLibrarySetsMap ? window.availableLibrarySetsMap[setId] : null;
+    let questionsInSet = (state.setQuestionsMap && state.setQuestionsMap[setId]) ? state.setQuestionsMap[setId] : [];
 
     if (questionsInSet.length === 0 && setInfo) {
         listCont.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 15px; font-size: 0.82rem;">${isRu ? '⏳ Загрузка вопросов...' : '⏳ Loading questions...'}</div>`;
-        questionsInSet = await fetchQuestionsForSet(setInfo.setObj || setInfo, setInfo.bookPath);
+        if (setInfo.file) {
+            try {
+                const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+                const res = await fetch(`${rootPath}${setInfo.file}`);
+                if (res.ok) {
+                    const data = await res.json();
+                    let rawList = Array.isArray(data) ? data : (data.questions || []);
+                    questionsInSet = rawList.map((q, idx) => decorateQuestionWithSpecialId(q, idx, setInfo.id, setInfo.file, setInfo.bookPath));
+                    if (!state.setQuestionsMap) state.setQuestionsMap = {};
+                    state.setQuestionsMap[setId] = questionsInSet;
+                }
+            } catch (e) {
+                console.warn(`Failed to fetch file for set ${setId}:`, e);
+            }
+        }
+        if (questionsInSet.length === 0) {
+            questionsInSet = await fetchQuestionsForSet(setInfo.setObj || setInfo, setInfo.bookPath);
+        }
     }
 
     if (questionsInSet.length === 0) {
@@ -7959,16 +7783,17 @@ async function renderPlaylistManagerAddQuestions(setId) {
     }
 
     listCont.innerHTML = questionsInSet.map((q, idx) => {
-        const qId = String(q.id || getQuestionKey(q));
-        const isAdded = pl && Array.isArray(pl.questionIds) && pl.questionIds.includes(qId);
+        const specId = getQuestionSpecialId(q);
+        const rawId = String(q.id || (idx + 1));
+        const isAdded = pl && Array.isArray(pl.questionIds) && (pl.questionIds.includes(specId) || pl.questionIds.includes(rawId));
         const qText = (q['question' + (isRu ? 'Ru' : 'En')] || q.questionEn || q.questionRu || q.question || '').replace(/<[^>]*>/g, '');
 
         return `
             <div style="display: flex; align-items: center; justify-content: space-between; background: rgba(13, 17, 23, 0.6); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 10px 14px; font-size: 0.85rem; color: var(--quiz-text);">
                 <div style="flex: 1; min-width: 0; padding-right: 12px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                    <span style="color: var(--quiz-accent); font-weight: 700;">#${idx + 1}</span> ${escapeHTML(qText.substring(0, 90))}...
+                    <span style="color: var(--quiz-accent); font-weight: 700;">#${idx + 1}</span> <span style="font-size:0.75rem; color:var(--quiz-muted);">[${specId}]</span> ${escapeHTML(qText.substring(0, 80))}...
                 </div>
-                <button type="button" onclick="toggleAddQuestionInPlaylistManager('${pl ? pl.id : ''}', '${qId}')" class="${isAdded ? 'btn-outline' : 'btn-primary'}" style="padding: 4px 12px; font-size: 0.78rem; border-radius: 6px; ${isAdded ? 'color:#f87171; border-color:rgba(248,113,113,0.3);' : ''}">
+                <button type="button" onclick="toggleAddQuestionInPlaylistManager('${pl ? pl.id : ''}', '${specId}')" class="${isAdded ? 'btn-outline' : 'btn-primary'}" style="padding: 4px 12px; font-size: 0.78rem; border-radius: 6px; ${isAdded ? 'color:#f87171; border-color:rgba(248,113,113,0.3);' : ''}">
                     ${isAdded ? '✓ ' + (isRu ? 'Добавлено' : 'Added') : '+ ' + (isRu ? 'Добавить' : 'Add')}
                 </button>
             </div>
@@ -7976,19 +7801,30 @@ async function renderPlaylistManagerAddQuestions(setId) {
     }).join('');
 }
 
-window.toggleAddQuestionInPlaylistManager = function(playlistId, qId) {
+window.toggleAddQuestionInPlaylistManager = function(playlistId, specId) {
     const pl = state.userPlaylists.find(p => String(p.id) === String(playlistId));
     if (!pl) return;
 
     if (!Array.isArray(pl.questionIds)) pl.questionIds = [];
 
-    if (pl.questionIds.includes(qId)) {
-        pl.questionIds = pl.questionIds.filter(id => id !== qId);
+    const targetId = String(specId);
+    let willAdd = false;
+    if (pl.questionIds.includes(targetId)) {
+        pl.questionIds = pl.questionIds.filter(id => String(id) !== targetId);
+        willAdd = false;
     } else {
-        pl.questionIds.push(qId);
+        pl.questionIds.push(targetId);
+        willAdd = true;
     }
+    pl.count = pl.questionIds.length;
 
-    syncCloudUserData();
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (user && !user.isGuest && window.SupabaseAPI) {
+        window.SupabaseAPI.togglePlaylistItem(pl.id, targetId, willAdd)
+            .catch(err => console.warn('[Playlist] toggle item failed:', err));
+    } else {
+        localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+    }
 
     const countEl = document.getElementById('pl-mgr-count');
     if (countEl) countEl.textContent = pl.questionIds.length;
@@ -8042,7 +7878,13 @@ function initPlaylistManagerModalHandlers() {
                 pl.title = newTitle.trim();
                 const titleEl = document.getElementById('pl-mgr-title');
                 if (titleEl) titleEl.textContent = `📁 ${pl.title}`;
-                syncCloudUserData();
+                const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+                if (user && !user.isGuest && window.SupabaseAPI) {
+                    window.SupabaseAPI.updatePlaylist(pl.id, { title: pl.title })
+                        .catch(err => console.warn('[Playlist] rename failed:', err));
+                } else {
+                    localStorage.setItem('starley_user_playlists', JSON.stringify(state.userPlaylists));
+                }
                 renderPlaylistsTab();
             }
         };

@@ -6,14 +6,14 @@
 // live in Supabase (auth.users + public.profiles), not in a client-writable
 // localStorage blob. getCurrentUser() returns a CACHED snapshot that is
 // populated once at boot (async) and kept live via a realtime subscription
-// to the user's own profiles row.
+// to the user's own profiles row — so a nickname/avatar change on another
+// device shows up here without any polling.
 //
-// "Guest" stays a pure local mode: no Supabase account, no sync.
-// Survives page reloads within the same session via sessionStorage.
+// "Guest" stays a pure local, offline mode: no Supabase account, no sync,
+// nothing to leak. It never calls SupabaseAPI at all.
 
 (function () {
     const GUEST_PIN = '0455';
-    const GUEST_SESSION_KEY = 'starley_guest_auth';
     let currentUser = null;      // cached snapshot, synchronous reads
     let unsubscribeRealtime = null;
 
@@ -41,24 +41,19 @@
         currentUser = {
             username: 'guest',
             role: 'user',
-            name: 'Guest Doctor',
-            nickname: 'Guest Doctor',
+            name: 'User',
+            nickname: 'User',
             avatar: 'doc',
             isGuest: true
         };
-        sessionStorage.setItem(GUEST_SESSION_KEY, 'true');
         window.location.reload();
     }
 
     async function loginWithPin(pin) {
-        if (!window.SupabaseAPI) {
-            return { ok: false, error: 'Database service not loaded' };
-        }
         const res = await window.SupabaseAPI.loginWithPin(pin);
         if (!res || !res.ok) {
             return { ok: false, error: (res && res.error) || 'Login failed' };
         }
-        sessionStorage.removeItem(GUEST_SESSION_KEY);
         const profile = res.user; // from getProfile() inside loginWithPin
         currentUser = {
             id: profile.id,
@@ -93,7 +88,7 @@
     }
 
     // -----------------------------------------------------------------
-    // Login modal — calls loginWithPin() / loginAsGuest()
+    // Login modal — same UI, now calls loginWithPin() / loginAsGuest()
     // -----------------------------------------------------------------
     function showLoginModal() {
         document.body.style.overflow = 'hidden';
@@ -230,7 +225,7 @@
                 element.style.top = pos.top;
                 element.style.left = pos.left;
                 element.style.right = 'auto';
-            } catch (e) { }
+            } catch (e) {}
         }
         element.addEventListener('mousedown', dragMouseDown);
         element.addEventListener('touchstart', dragTouchStart, { passive: false });
@@ -290,7 +285,6 @@
 
     window.logout = async function () {
         if (!confirm('Exit Medical Library session?')) return;
-        sessionStorage.removeItem(GUEST_SESSION_KEY);
         if (unsubscribeRealtime) unsubscribeRealtime();
         if (window.SupabaseAPI && currentUser && !currentUser.isGuest) {
             await window.SupabaseAPI.logout();
@@ -300,38 +294,32 @@
     };
 
     // -----------------------------------------------------------------
-    // Boot sequence — async, checking Supabase session or Guest session
+    // Boot sequence — async, because checking a Supabase session and
+    // loading the profile row both require a round trip (usually served
+    // from local storage / cache, but still a Promise).
     // -----------------------------------------------------------------
     async function boot() {
-        if (sessionStorage.getItem(GUEST_SESSION_KEY) === 'true') {
-            currentUser = {
-                username: 'guest',
-                role: 'user',
-                name: 'Guest Doctor',
-                nickname: 'Guest Doctor',
-                avatar: 'doc',
-                isGuest: true
-            };
-        } else if (window.SupabaseAPI) {
-            try {
-                const { data: { session } } = await window.SupabaseAPI.getSession();
-                if (session) {
-                    const profileRes = await window.SupabaseAPI.getProfile();
-                    if (profileRes.ok && profileRes.data) {
-                        const p = profileRes.data;
-                        currentUser = {
-                            id: p.id,
-                            username: p.username,
-                            role: p.role,
-                            name: p.nickname,
-                            nickname: p.nickname,
-                            avatar: p.avatar,
-                            isGuest: false
-                        };
-                    }
+        // Guest mode is purely local — check it first, no Supabase call needed.
+        // (We don't persist guest state across reloads on purpose: guest is
+        // meant to be a no-trace, no-sync mode. Remove this comment/behavior
+        // if you'd rather have guest survive a refresh via sessionStorage.)
+
+        if (window.SupabaseAPI) {
+            const { data: { session } } = await window.SupabaseAPI.getSession();
+            if (session) {
+                const profileRes = await window.SupabaseAPI.getProfile();
+                if (profileRes.ok && profileRes.data) {
+                    const p = profileRes.data;
+                    currentUser = {
+                        id: p.id,
+                        username: p.username,
+                        role: p.role,
+                        name: p.nickname,
+                        nickname: p.nickname,
+                        avatar: p.avatar,
+                        isGuest: false
+                    };
                 }
-            } catch (err) {
-                console.warn('[Auth] Session restoration failed:', err);
             }
         }
 
@@ -348,6 +336,8 @@
         showRoleIndicator(currentUser);
         startProfileRealtimeSync();
 
+        // Let quiz.js (or any page) know auth is ready — needed because this
+        // whole boot sequence is now async, unlike the old synchronous version.
         document.dispatchEvent(new CustomEvent('starley-auth-ready', { detail: currentUser }));
     }
 
@@ -359,12 +349,9 @@
 
     window.AuthSystem = {
         getCurrentUser,
-        isAuthenticated,
         hasRole,
         isAdmin: () => hasRole('admin'),
         isUser: () => hasRole('user'),
-        setAuthenticated,
-        showLoginModal,
-        logout: () => window.logout()
+        setAuthenticated
     };
 })();

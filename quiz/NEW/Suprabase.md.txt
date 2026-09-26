@@ -1,0 +1,130 @@
+Хорошо, шаг с миграцией пропускаем. Дальше — установка и подключение. Сначала быстрая ориентация, куда что кладётся, потом сделаю недостающие файлы (адаптированный auth.js и патч для quiz.js, без которых supabase-api.js просто не с чем будет работать).
+
+Куда кладутся файлы
+Файл из архива	Куда в репозитории
+client/supabase-api.js	assets/js/supabase-api.js — вместо assets/js/google-sheets-api.js
+schema.sql	никуда в репо — это не файл сайта, а SQL, который вы один раз выполняете в Supabase Dashboard → SQL Editor
+functions/admin-create-user/index.ts	новая папка supabase/functions/admin-create-user/index.ts в корне репо — деплоится отдельно через Supabase CLI (supabase functions deploy), GitHub Pages её не раздаёт и не должен
+migrate-from-sheets.mjs	не нужен — можно удалить или просто не запускать
+MIGRATION_PLAN.md	опционально, для себя — можно положить в /plans/ рядом с остальными вашими план-файлами
+
+Скрипты подключены сейчас в 6 файлах (index.html, quiz.html, editor.html, manifest-editor.html, search/index.html, search/search.html) — их тоже нужно поправить (ниже).
+
+Прежде чем класть файлы — нужны ещё две вещи, которых в первом скелете не было:
+
+Новый auth.js — старый хардкодит пароли и пишет свою сессию в localStorage; с Supabase логин и сессия идут по-другому.
+Патч для quiz.js — все вызовы GoogleSheetsAPI.*/schedulePush/pullFromSheets нужно заменить на SupabaseAPI.*.
+
+Делаю оба.
+
+Порядок действий
+
+1. Настроить сам Supabase (без данных, тестовые всё равно не нужны — можно с чистого листа):
+
+supabase.com → New Project.
+SQL Editor → вставить schema.sql целиком → Run.
+Settings → API → скопировать Project URL и anon public key.
+Authentication → Providers → Email → выставить Minimum password length под длину вашего PIN (например 4, но для будущего админ-PIN лучше сделать 8+ цифр).
+
+2. Создать первого администратора вручную (раз миграции нет — бутстрап):
+
+Authentication → Users → Add user → email pin_ВАШНОВЫЙПИН@starley.local, пароль = сам PIN, "Auto Confirm User" ✅.
+SQL Editor: update public.profiles set role='admin' where username is null; (или уточнить по email/id) — сделать эту первую запись админом. Дальше новых пользователей уже создаёт сам админ через adminCreateUser.
+
+3. Задеплоить Edge Function:
+
+bash
+supabase functions deploy admin-create-user
+
+(нужен Supabase CLI и supabase login/supabase link в корне репо — если не настроено, скажите, распишу отдельно.)
+
+4. Положить файлы в репозиторий:
+
+client/supabase-api.js → assets/js/supabase-api.js
+client/auth.js → заменить assets/js/auth.js
+functions/admin-create-user/index.ts → supabase/functions/admin-create-user/index.ts
+
+5. Поправить config.js — убрать GOOGLE_SHEETS_WEB_APP_URL/TELEGRAM_*, добавить:
+
+js
+window.SUPABASE_URL = 'https://tsqnudichrxbbbryrbrs.supabase.co';
+window.SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRzcW51ZGljaHJ4YmJicnlyYnJzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTAzMjQ3MjQsImV4cCI6MjEwNTkwMDcyNH0.bu1L-dNl6wfIPyNh90JnTK-XLpOQ8X0WSnrhbBD4rto';
+window.SUPABASE_FUNCTIONS_URL = 'https://ваш-проект.functions.supabase.co';
+
+6. Поправить теги <script> в quiz.html (у остальных 5 файлов — index.html, editor.html, manifest-editor.html, search/index.html, search/search.html — аналогично, добавить те же два тега перед auth.js, убрав google-sheets-api.js там, где он есть):
+
+html
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+<script src="assets/js/config.js"></script>
+<script src="assets/js/supabase-api.js"></script>
+<script src="assets/js/auth.js"></script>
+
+7. Применить QUIZ_JS_PATCH.md — 7 точек в quiz.js, где сейчас вызывается GoogleSheetsAPI/schedulePush/pullFromSheets.
+
+8. Проверить локально (node server.js или python -m http.server, config.js уже умеет детектить localhost), пройти сценарий из раздела «Проверка после патча», и только потом пушить на GitHub Pages.
+
+Adding CDN and API script tags across each file.
+1. supabase login / supabase link — деплой Edge Function
+bash
+# Установить CLI (один из вариантов)
+npm install -g supabase
+# либо: brew install supabase/tap/supabase   (mac)
+# либо: scoop install supabase               (windows)
+
+# Логин — откроет браузер для OAuth-авторизации
+supabase login
+
+# В корне репозитория: если папки supabase/ ещё нет — инициализировать
+supabase init
+
+# Привязать локальную папку к проекту (project-ref смотрите в
+# Settings → General → Reference ID в дашборде Supabase)
+supabase link --project-ref <project-ref>
+
+# Задеплоить функцию (функция уже лежит в supabase/functions/admin-create-user/)
+supabase functions deploy admin-create-user
+Проверить вручную (нужен access_token залогиненного админа — проще всего взять его в консоли браузера, зайдя под админом: (await window.SupabaseAPI.client.auth.getSession()).data.session.access_token):
+
+bash
+curl -X POST https://<project-ref>.functions.supabase.co/admin-create-user \
+  -H "Authorization: Bearer <access_token>" \
+  -H "Content-Type: application/json" \
+  -d '{"pin":"112233","nickname":"Dr. Test","role":"user"}'
+2. Точные диффы для остальных 5 HTML-файлов
+index.html (строки 65-66):
+
+diff
++    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+     <script src="assets/js/config.js?v=1.1"></script>
++    <script src="assets/js/supabase-api.js?v=1.0"></script>
+     <script src="assets/js/auth.js?v=1.1"></script>
+editor.html (строки 641-642):
+
+diff
++    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+     <script src="assets/js/config.js?v=2.2"></script>
++    <script src="assets/js/supabase-api.js?v=1.0"></script>
+     <script src="assets/js/auth.js?v=1.1"></script>
+manifest-editor.html (строки 236-237):
+
+diff
++    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+     <script src="assets/js/config.js?v=1.2"></script>
++    <script src="assets/js/supabase-api.js?v=1.0"></script>
+     <script src="assets/js/auth.js?v=1.1"></script>
+search/index.html и search/search.html (строка 149 в обоих) — тут раньше config.js вообще не подключался, поэтому логин зарегистрированных (не хардкод-PIN) пользователей на этих страницах и так не работал. Нужно добавить все три тега, пути с ../:
+
+diff
++    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
++    <script src="../assets/js/config.js?v=1.1"></script>
++    <script src="../assets/js/supabase-api.js?v=1.0"></script>
+     <script src="../assets/js/auth.js?v=1.1"></script>
+quiz.html (строки 1134-1136, для полноты — уже упоминал раньше):
+
+diff
++    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+     <script src="assets/js/config.js?v=3.5"></script>
+-    <script src="assets/js/google-sheets-api.js?v=3.7"></script>
++    <script src="assets/js/supabase-api.js?v=1.0"></script>
+     <script src="assets/js/auth.js?v=3.5"></script>
+Версию ?v= у supabase-api.js и auth.js дальше поднимайте вручную при каждом изменении файла — как вы уже делаете с остальными скриптами (это просто cache-busting для GitHub Pages, к логике не относится).

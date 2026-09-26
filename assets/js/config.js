@@ -59,10 +59,9 @@ if (typeof window !== 'undefined' && window.location.protocol === 'file:') {
     } catch (e) { }
 }
 
-// Google Sheets Backend API Endpoint URL
-window.GOOGLE_SHEETS_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbzIWEe5qalrVwyEDm-IqT4UJ33RCUq3L1u5Fo1ZkPscnAvNsYE-xMmyNd4-jjCGVBrXBw/exec';
+// Supabase Backend API Configuration
+window.SUPABASE_URL = 'https://tsqnudichrxbbbryrbrs.supabase.co';
+window.SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRzcW51ZGljaHJ4YmJicnlyYnJzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTAzMjQ3MjQsImV4cCI6MjEwNTkwMDcyNH0.bu1L-dNl6wfIPyNh90JnTK-XLpOQ8X0WSnrhbBD4rto';
+window.SUPABASE_FUNCTIONS_URL = 'https://tsqnudichrxbbbryrbrs.supabase.co/functions/v1';
 
-// Telegram Bot Admin Configuration
-window.TELEGRAM_BOT_TOKEN = '8776764036:AAEjdwQQjmB2zxuF4ILgBDVcJgwdu0FdQ5c';
-window.TELEGRAM_ADMIN_CHAT_ID = '954588841';
 

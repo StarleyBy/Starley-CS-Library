@@ -1,5 +1,18 @@
-const CACHE_STATIC = 'static-v18';
-const CACHE_DYNAMIC = 'dynamic-v18';
+// Bypass Service Worker cache on localhost to prevent stale scripts in development
+if (self.location.hostname === 'localhost' || self.location.hostname === '127.0.0.1') {
+  self.addEventListener('install', () => self.skipWaiting());
+  self.addEventListener('activate', event => {
+    event.waitUntil(
+      caches.keys().then(keys => Promise.all(keys.map(k => caches.delete(k)))).then(() => self.clients.claim())
+    );
+  });
+  self.addEventListener('fetch', event => {
+    event.respondWith(fetch(event.request));
+  });
+} else {
+
+const CACHE_STATIC = 'static-v20';
+const CACHE_DYNAMIC = 'dynamic-v20';
 
 const APP_SHELL = [
   './',
@@ -97,3 +110,4 @@ self.addEventListener('fetch', event => {
     })
   );
 });
+}
