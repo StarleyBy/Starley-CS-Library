@@ -315,16 +315,97 @@
         const { data: { session } } = await client.auth.getSession();
         if (!session) return { ok: false, error: 'Not authenticated' };
 
+        // Verify caller is admin
+        const profileRes = await getProfile();
+        if (!profileRes.ok || !profileRes.data || profileRes.data.role !== 'admin') {
+            return { ok: false, error: 'Forbidden: admin role required' };
+        }
+
         const functionBase = window.SUPABASE_FUNCTIONS_URL || `${window.SUPABASE_URL}/functions/v1`;
-        const res = await fetch(`${functionBase}/admin-create-user`, {
-            method: 'POST',
-            headers: {
-                'Content-Type': 'application/json',
-                'Authorization': `Bearer ${session.access_token}`
-            },
-            body: JSON.stringify({ pin, nickname, role })
-        });
-        return res.json();
+        let edgeError = null;
+
+        // 1. Try calling the Edge Function first
+        try {
+            const res = await fetch(`${functionBase}/admin-create-user`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${session.access_token}`
+                },
+                body: JSON.stringify({ pin, nickname, role })
+            });
+
+            if (res.ok) {
+                const data = await res.json();
+                return data;
+            } else if (res.status === 404) {
+                edgeError = 'Edge Function not deployed (HTTP 404)';
+            } else {
+                try {
+                    const data = await res.json();
+                    return data;
+                } catch (_) {
+                    edgeError = `Edge Function HTTP ${res.status}`;
+                }
+            }
+        } catch (fetchErr) {
+            edgeError = fetchErr.message || 'Network error';
+        }
+
+        // 2. Fallback: Direct creation attempt via ephemeral client
+        try {
+            const ephemeralClient = window.supabase.createClient(window.SUPABASE_URL, window.SUPABASE_ANON_KEY, {
+                auth: { persistSession: false, autoRefreshToken: false, detectSessionInUrl: false }
+            });
+
+            const email = pinToEmail(pin);
+            const password = pinToPassword(pin);
+            const { data: signUpData, error: signUpErr } = await ephemeralClient.auth.signUp({
+                email,
+                password,
+                options: {
+                    data: {
+                        nickname: nickname || 'Doctor',
+                        username: `user_${pin}`
+                    }
+                }
+            });
+
+            if (signUpErr) {
+                return {
+                    ok: false,
+                    error: `Edge Function недоступна (${edgeError}). Прямая регистрация: ${signUpErr.message}`
+                };
+            }
+
+            if (signUpData && signUpData.user) {
+                // Test if signIn succeeds or if email confirmation is required
+                const testSignIn = await ephemeralClient.auth.signInWithPassword({ email, password });
+                if (testSignIn.error && String(testSignIn.error.message || '').toLowerCase().includes('confirm')) {
+                    return {
+                        ok: false,
+                        error: `Edge Function 'admin-create-user' не задеплоена на Supabase (${edgeError}).\n\nПользователь создан в auth, но в Supabase включена опция «Confirm email».\n\nРешение:\n1) В панели Supabase: Authentication → Providers → Email → ВЫКЛЮЧИТЕ тумблер «Confirm email» (тогда пользователи активируются мгновенно);\n2) Либо задеплойте Edge Function командой:\n   supabase functions deploy admin-create-user`
+                    };
+                }
+
+                return {
+                    ok: true,
+                    success: true,
+                    message: `Пользователь для PIN ${pin} успешно создан!`,
+                    user: { id: signUpData.user.id, nickname, role }
+                };
+            }
+        } catch (fallbackErr) {
+            return {
+                ok: false,
+                error: `Ошибка создания: Edge Function не задеплоена (${edgeError}). Fallback: ${fallbackErr.message}`
+            };
+        }
+
+        return {
+            ok: false,
+            error: `Edge function 'admin-create-user' не задеплоена на Supabase (${edgeError}).`
+        };
     }
 
     window.SupabaseAPI = {

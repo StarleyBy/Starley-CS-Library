@@ -96,28 +96,54 @@ function ensureTenPlaylists() {
     return state.userPlaylists;
 }
 
-async function loadAllQuizManifestIndex() {
-    if (state.allQuizRegistry && state.allQuizRegistry.length > 0) return;
+function getTotalBankQuestions() {
+    let sum = 0;
+    const registry = (state.allQuizRegistry && state.allQuizRegistry.length > 0)
+        ? state.allQuizRegistry
+        : ALL_MANIFESTS_REGISTRY;
+
+    registry.forEach(m => {
+        if (state.setQuestionsMap && state.setQuestionsMap[m.id] && Array.isArray(state.setQuestionsMap[m.id]) && state.setQuestionsMap[m.id].length > 0) {
+            sum += state.setQuestionsMap[m.id].length;
+        } else {
+            sum += Number(m.totalQuestions || m.totalQ || m.count || 0);
+        }
+    });
+    return sum > 0 ? sum : 2949;
+}
+window.getTotalBankQuestions = getTotalBankQuestions;
+
+async function loadAllQuizManifestIndex(forceRefresh = false) {
+    if (!forceRefresh && state.allQuizRegistry && state.allQuizRegistry.length > 0 && Object.keys(state.setQuestionsMap).length >= state.allQuizRegistry.length) return;
     try {
         const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
-        const res = await fetch(`${rootPath}quiz/allquiz.json`);
+        // Add cache-busting timestamp to always fetch latest quiz manifest list
+        const res = await fetch(`${rootPath}quiz/allquiz.json?_t=${Date.now()}`);
         if (res.ok) {
             const data = await res.json();
-            state.allQuizRegistry = data.quizzes || [];
-            state.totalBankQuestions = (data.meta && data.meta.totalQuestions) ? data.meta.totalQuestions : 2949;
+            if (data && Array.isArray(data.quizzes)) {
+                state.allQuizRegistry = data.quizzes;
+            }
             
-            // Preload questions for all 18 manifests so special ID resolution is instant everywhere!
+            // Preload questions for all manifests so special ID resolution is instant everywhere and question count is dynamically updated!
             for (const manifest of state.allQuizRegistry) {
-                if (!state.setQuestionsMap[manifest.id]) {
+                if (forceRefresh || !state.setQuestionsMap[manifest.id]) {
                     try {
-                        const mRes = await fetch(`${rootPath}${manifest.file}`);
+                        const mRes = await fetch(`${rootPath}${manifest.file}?_t=${Date.now()}`);
                         if (mRes.ok) {
                             const mData = await mRes.json();
                             let qList = Array.isArray(mData) ? mData : (mData.questions || []);
                             qList = qList.map((q, idx) => decorateQuestionWithSpecialId(q, idx, manifest.id, manifest.file, ''));
                             state.setQuestionsMap[manifest.id] = qList;
+                            manifest.totalQuestions = qList.length;
+                            manifest.totalQ = qList.length;
                         }
-                    } catch (mErr) {}
+                    } catch (mErr) {
+                        console.warn(`Failed fetching questions for ${manifest.id}:`, mErr);
+                    }
+                } else if (state.setQuestionsMap[manifest.id]) {
+                    manifest.totalQuestions = state.setQuestionsMap[manifest.id].length;
+                    manifest.totalQ = state.setQuestionsMap[manifest.id].length;
                 }
             }
         }
@@ -127,6 +153,7 @@ async function loadAllQuizManifestIndex() {
     if (!state.allQuizRegistry || state.allQuizRegistry.length === 0) {
         state.allQuizRegistry = ALL_MANIFESTS_REGISTRY;
     }
+    state.totalBankQuestions = getTotalBankQuestions();
 }
 
 function decorateQuestionWithSpecialId(q, idx, manifestId, setFile, bookPrefix) {
@@ -235,18 +262,19 @@ window.ALL_MANIFESTS_REGISTRY = ALL_MANIFESTS_REGISTRY;
 
 function resolveQuestionManifestItem(q, specialIdStr) {
     if (!q && !specialIdStr) return null;
+    const registry = (state.allQuizRegistry && state.allQuizRegistry.length > 0) ? state.allQuizRegistry : ALL_MANIFESTS_REGISTRY;
     let sId = specialIdStr || (q ? (q.specialId || (typeof getQuestionSpecialId === 'function' ? getQuestionSpecialId(q) : q.id)) : '');
     if (sId && typeof sId === 'string' && sId.includes('🧠')) {
         const parts = sId.split('🧠');
         const num = parseInt(parts[0], 10);
         if (num) {
-            const found = ALL_MANIFESTS_REGISTRY.find(m => m.num === num);
+            const found = registry.find(m => m.num === num);
             if (found) return found;
         }
     }
     const mId = q ? (q.manifestId || q.setId || q.bookPath || '') : '';
     if (mId) {
-        const found = ALL_MANIFESTS_REGISTRY.find(m => m.id === mId || (m.file && m.file.includes(mId)));
+        const found = registry.find(m => m.id === mId || (m.file && m.file.includes(mId)));
         if (found) return found;
     }
     return null;
@@ -255,17 +283,22 @@ window.resolveQuestionManifestItem = resolveQuestionManifestItem;
 
 function calculateTopicManifestAnalytics(history) {
     const hist = Array.isArray(history) ? history : [];
+    const registry = (state.allQuizRegistry && state.allQuizRegistry.length > 0) ? state.allQuizRegistry : ALL_MANIFESTS_REGISTRY;
     
     const manifestStats = {};
-    ALL_MANIFESTS_REGISTRY.forEach(m => {
+    registry.forEach(m => {
+        const totalQ = (state.setQuestionsMap && state.setQuestionsMap[m.id] && state.setQuestionsMap[m.id].length)
+            ? state.setQuestionsMap[m.id].length
+            : Number(m.totalQuestions || m.totalQ || 0);
+
         manifestStats[m.num] = {
             num: m.num,
             id: m.id,
-            icon: m.icon,
-            titleRu: m.titleRu,
-            titleEn: m.titleEn,
+            icon: m.icon || '📝',
+            titleRu: m.titleRu || m.title || m.id,
+            titleEn: m.titleEn || m.title || m.id,
             file: m.file,
-            totalBankQ: m.totalQ,
+            totalBankQ: totalQ,
             attemptedCount: 0,
             correctCount: 0,
             wrongCount: 0,
@@ -298,7 +331,7 @@ function calculateTopicManifestAnalytics(history) {
             });
         } else if (Array.isArray(sess.manifestBreakdown) && sess.manifestBreakdown.length > 0) {
             sess.manifestBreakdown.forEach(mb => {
-                const mItem = ALL_MANIFESTS_REGISTRY.find(m => m.id === mb.id || m.num === mb.num);
+                const mItem = registry.find(m => m.id === mb.id || m.num === mb.num);
                 if (mItem && manifestStats[mItem.num]) {
                     const st = manifestStats[mItem.num];
                     st.attemptedCount += (mb.total || 0);
@@ -310,8 +343,8 @@ function calculateTopicManifestAnalytics(history) {
         } else {
             const tNames = Array.isArray(sess.topics) ? sess.topics : (sess.setTitle ? [sess.setTitle] : []);
             tNames.forEach(name => {
-                const mItem = ALL_MANIFESTS_REGISTRY.find(m => 
-                    m.titleRu === name || m.titleEn === name || m.id === name
+                const mItem = registry.find(m => 
+                    m.titleRu === name || m.titleEn === name || m.id === name || m.title === name
                 );
                 if (mItem && manifestStats[mItem.num]) {
                     const st = manifestStats[mItem.num];
@@ -326,10 +359,26 @@ function calculateTopicManifestAnalytics(history) {
         }
     });
 
-    return ALL_MANIFESTS_REGISTRY.map(m => {
-        const st = manifestStats[m.num];
+    return registry.map(m => {
+        const st = manifestStats[m.num] || {
+            num: m.num,
+            id: m.id,
+            icon: m.icon || '📝',
+            titleRu: m.titleRu || m.title || m.id,
+            titleEn: m.titleEn || m.title || m.id,
+            file: m.file,
+            totalBankQ: Number(m.totalQuestions || m.totalQ || 0),
+            attemptedCount: 0,
+            correctCount: 0,
+            wrongCount: 0,
+            accuracy: 0,
+            uniqueQuestions: new Set(),
+            uniqueErrors: new Set(),
+            lastDate: null
+        };
+        const totalQ = st.totalBankQ;
         const acc = st.attemptedCount > 0 ? Math.round((st.correctCount / st.attemptedCount) * 100) : 0;
-        const coveragePct = m.totalQ > 0 ? Math.min(100, Math.round((st.uniqueQuestions.size / m.totalQ) * 100)) : 0;
+        const coveragePct = totalQ > 0 ? Math.min(100, Math.round((st.uniqueQuestions.size / totalQ) * 100)) : 0;
         return {
             ...st,
             accuracy: acc,
@@ -1344,8 +1393,8 @@ function loadUserProfile() {
 
     if (user && !user.isGuest) {
         return {
-            nickname: (localProfile && localProfile.nickname) || user.nickname || user.username || 'Doctor',
-            avatar: (localProfile && localProfile.avatar) || user.avatar || 'doc',
+            nickname: user.nickname || (localProfile && localProfile.nickname) || user.username || 'Doctor',
+            avatar: user.avatar || (localProfile && localProfile.avatar) || 'doc',
             streak: (localProfile && localProfile.streak) || 1,
             lastActiveDate: (localProfile && localProfile.lastActiveDate) || new Date().toDateString(),
             totalSolved: (localProfile && localProfile.totalSolved) || 0,
@@ -4557,17 +4606,44 @@ async function initSupabaseAccountSync() {
         return;
     }
 
+    if (!state.userProfile) state.userProfile = {};
+    if (user.nickname) state.userProfile.nickname = user.nickname;
+    if (user.avatar) {
+        state.userProfile.avatar = user.avatar;
+        state.currentSelectedAvatar = user.avatar;
+    }
+    saveUserProfile(state.userProfile);
+    updateUserProfileDisplay();
+
     setSyncStatus('syncing');
     try {
         if (!window.SupabaseAPI) {
             throw new Error('SupabaseAPI is not loaded');
         }
 
-        const [favRes, plRes, histRes] = await Promise.all([
+        const [favRes, plRes, histRes, profRes] = await Promise.all([
             window.SupabaseAPI.getFavorites(),
             window.SupabaseAPI.getPlaylists(),
-            window.SupabaseAPI.getSessionHistory(100)
+            window.SupabaseAPI.getSessionHistory(100),
+            window.SupabaseAPI.getProfile()
         ]);
+
+        if (profRes && profRes.ok && profRes.data) {
+            const p = profRes.data;
+            if (p.avatar) {
+                user.avatar = p.avatar;
+                state.userProfile.avatar = p.avatar;
+                state.currentSelectedAvatar = p.avatar;
+            }
+            if (p.nickname) {
+                user.nickname = p.nickname;
+                state.userProfile.nickname = p.nickname;
+            }
+            if (p.role) user.role = p.role;
+            if (window.AuthSystem) window.AuthSystem.setAuthenticated(user);
+            saveUserProfile(state.userProfile);
+            updateUserProfileDisplay();
+        }
 
         state.userFavorites = sanitizeFavoritesList(favRes.data || []);
         state.userPlaylists = sanitizePlaylistsList(plRes.data || []);
@@ -4587,6 +4663,24 @@ async function initSupabaseAccountSync() {
     // Realtime: apply targeted updates live without polling
     if (window.SupabaseAPI && typeof window.SupabaseAPI.subscribeToOwnChanges === 'function') {
         window.SupabaseAPI.subscribeToOwnChanges(user.id, {
+            profiles: (payload) => {
+                if (payload && payload.new) {
+                    if (!state.userProfile) state.userProfile = {};
+                    if (payload.new.avatar) {
+                        state.userProfile.avatar = payload.new.avatar;
+                        state.currentSelectedAvatar = payload.new.avatar;
+                        user.avatar = payload.new.avatar;
+                    }
+                    if (payload.new.nickname) {
+                        state.userProfile.nickname = payload.new.nickname;
+                        user.nickname = payload.new.nickname;
+                    }
+                    if (payload.new.role) user.role = payload.new.role;
+                    if (window.AuthSystem) window.AuthSystem.setAuthenticated(user);
+                    saveUserProfile(state.userProfile);
+                    updateUserProfileDisplay();
+                }
+            },
             favorites: () => window.SupabaseAPI.getFavorites().then(r => {
                 state.userFavorites = sanitizeFavoritesList(r.data || []);
                 updateQuizStatsUI();
@@ -5002,7 +5096,7 @@ const RPG_SYSTEM = {
 
     calculateRpgAttributes(history, totalBankQ) {
         const hist = Array.isArray(history) ? history : [];
-        const bankQ = totalBankQ || 2949;
+        const bankQ = totalBankQ || (typeof getTotalBankQuestions === 'function' ? getTotalBankQuestions() : 2949);
 
         let totalAnswered = 0;
         let totalCorrect = 0;
@@ -5149,7 +5243,10 @@ window.renderRpgResultsCard = renderRpgResultsCard;
  */
 function updateUserProfileDisplay() {
     const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-    const avatar = (state.userProfile && state.userProfile.avatar) || (user && user.avatar) || 'doc';
+    const avatar = (user && !user.isGuest && user.avatar) || (state.userProfile && state.userProfile.avatar) || (user && user.avatar) || 'doc';
+    if (!state.userProfile) state.userProfile = {};
+    state.userProfile.avatar = avatar;
+    if (user && !user.isGuest) user.avatar = avatar;
     const allAvatarClasses = ['avatar-doc', 'avatar-heart', 'avatar-brain', 'avatar-flask', 'avatar-bolt', 'avatar-titan', 'avatar-guru', 'avatar-rocket'];
     const iconClass = (typeof AVATAR_ICONS_MAP !== 'undefined' && AVATAR_ICONS_MAP[avatar]) ? AVATAR_ICONS_MAP[avatar] : 'fas fa-stethoscope';
 
@@ -5479,7 +5576,8 @@ function renderCabinetContent() {
         nickInput.value = user.nickname || user.username || '';
     }
 
-    const currentAvatar = (user && user.avatar) || (state.userProfile && state.userProfile.avatar) || 'doc';
+    const currentAvatar = (user && !user.isGuest && user.avatar) || (state.userProfile && state.userProfile.avatar) || 'doc';
+    state.currentSelectedAvatar = currentAvatar;
     document.querySelectorAll('.avatar-opt-btn').forEach(btn => {
         btn.classList.toggle('active', btn.dataset.avatar === currentAvatar);
     });
@@ -5493,11 +5591,7 @@ function renderCabinetContent() {
  * Calculate Row 16 Progress Metrics for Dashboard & Google Sheets Sync
  */
 function calculateProgressMetrics() {
-    let totalBankQ = 2949;
-    if (state.quizManifestIndex && Array.isArray(state.quizManifestIndex.manifests)) {
-        const sum = state.quizManifestIndex.manifests.reduce((acc, m) => acc + (m.count || 0), 0);
-        if (sum > 0) totalBankQ = sum;
-    }
+    const totalBankQ = (typeof getTotalBankQuestions === 'function') ? getTotalBankQuestions() : 2949;
 
     const history = state.sessionHistory || [];
     const totalSessions = history.length;
@@ -6178,10 +6272,11 @@ function renderTopicManifestsSection() {
     const activeCount = allManifestStats.filter(m => m.attemptedCount > 0).length;
     const weakCount = allManifestStats.filter(m => m.attemptedCount > 0 && (m.accuracy < 75 || m.wrongCount > 0)).length;
 
+    const totalManifests = allManifestStats.length || 18;
     if (summaryEl) {
         summaryEl.textContent = isRu 
-            ? `Осваивается тем: ${activeCount} из 18 • Требуют внимания: ${weakCount}`
-            : `Practiced: ${activeCount} / 18 manifests • Weak areas: ${weakCount}`;
+            ? `Осваивается тем: ${activeCount} из ${totalManifests} • Требуют внимания: ${weakCount}`
+            : `Practiced: ${activeCount} / ${totalManifests} manifests • Weak areas: ${weakCount}`;
     }
 
     const filter = window.currentTopicFilter || 'all';
@@ -6197,7 +6292,7 @@ function renderTopicManifestsSection() {
         const noMsg = filter === 'weak'
             ? (isRu ? '🎉 Отлично! Нет проблемных тем с точностью ниже 75%.' : '🎉 Great job! No weak topics below 75% accuracy.')
             : (filter === 'active'
-                ? (isRu ? 'Вы пока не прошли ни одной темы. Нажмите "Все темы (18)" и выберите интересующее направление!' : 'No practiced topics yet. Select "All Manifests" to start your first specialty quiz!')
+                ? (isRu ? `Вы пока не прошли ни одной темы. Нажмите "Все темы (${totalManifests})" и выберите интересующее направление!` : 'No practiced topics yet. Select "All Manifests" to start your first specialty quiz!')
                 : (isRu ? 'Темы не найдены' : 'No topics found'));
         container.innerHTML = `<div style="grid-column: 1 / -1; color: var(--quiz-muted); font-size: 0.85rem; text-align: center; padding: 24px; background: rgba(13,17,23,0.4); border-radius: 10px; border: 1px dashed var(--quiz-border);">${noMsg}</div>`;
         return;

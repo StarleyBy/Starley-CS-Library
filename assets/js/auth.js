@@ -81,6 +81,15 @@
                     currentUser.nickname = payload.new.nickname;
                     currentUser.avatar = payload.new.avatar;
                     currentUser.role = payload.new.role;
+                    if (window.state) {
+                        if (!window.state.userProfile) window.state.userProfile = {};
+                        if (payload.new.nickname) window.state.userProfile.nickname = payload.new.nickname;
+                        if (payload.new.avatar) window.state.userProfile.avatar = payload.new.avatar;
+                        window.state.currentSelectedAvatar = payload.new.avatar;
+                        try {
+                            localStorage.setItem('starley_user_profile', JSON.stringify(window.state.userProfile));
+                        } catch (e) {}
+                    }
                     const nameDisplay = document.getElementById('profile-nickname-display');
                     if (nameDisplay) nameDisplay.textContent = currentUser.nickname;
                     showRoleIndicator(currentUser); // refresh badge in place
