@@ -1,0 +1,288 @@
+{
+  "meta": {
+    "version": "1.0",
+    "title": "Starley Clinical Quiz Taxonomy",
+    "updatedAt": "2026-09-28T12:00:00.000Z",
+    "totalDisciplines": 6,
+    "totalTopics": 36
+  },
+  "disciplines": [
+    {
+      "id": "adult_cardiac",
+      "icon": "🫀",
+      "nameRu": "Кардиохирургия взрослых",
+      "nameEn": "Adult Cardiac Surgery",
+      "descriptionRu": "Хирургическое лечение заболеваний сердца и грудной аорты у взрослых",
+      "descriptionEn": "Surgical treatment of heart and thoracic aorta diseases in adults"
+    },
+    {
+      "id": "congenital",
+      "icon": "👶",
+      "nameRu": "Врожденные пороки сердца (ВПС)",
+      "nameEn": "Congenital Heart Surgery",
+      "descriptionRu": "Диагностика и коррекция анатомических аномалий сердца у детей и взрослых",
+      "descriptionEn": "Diagnosis and surgical repair of congenital cardiovascular defects"
+    },
+    {
+      "id": "thoracic",
+      "icon": "🫁",
+      "nameRu": "Торакальная хирургия",
+      "nameEn": "Thoracic Surgery",
+      "descriptionRu": "Хирургия легких, плевры, средостения, трахеи и пищевода",
+      "descriptionEn": "General thoracic surgery including lungs, pleura, mediastinum and esophagus"
+    },
+    {
+      "id": "icu_critical",
+      "icon": "🏥",
+      "nameRu": "Реанимация и интенсивная терапия (ОРИТ)",
+      "nameEn": "Critical Care & ICU",
+      "descriptionRu": "Периоперационное ведение, гемодинамика, ИВЛ, ЭКМО и гемостаз",
+      "descriptionEn": "Perioperative intensive care, hemodynamics, ventilation, ECMO and hemostasis"
+    },
+    {
+      "id": "vascular",
+      "icon": "🩸",
+      "nameRu": "Сосудистая хирургия",
+      "nameEn": "Vascular Surgery",
+      "descriptionRu": "Заболевания брахиоцефальных артерий, брюшной аорты и вен",
+      "descriptionEn": "Vascular procedures, carotid, abdominal aortic, peripheral arterial and venous disease"
+    },
+    {
+      "id": "cardiology_imaging",
+      "icon": "🩺",
+      "nameRu": "Кардиология и диагностика",
+      "nameEn": "Cardiology & Diagnostics",
+      "descriptionRu": "ЭхоКГ, КТ/МРТ, коронарография, фармакотерапия и рекомендации",
+      "descriptionEn": "Cardiology guidelines, echocardiography, cardiac CT/MRI, angiography and pharmacology"
+    }
+  ],
+  "topics": [
+    {
+      "id": "aortic_valve",
+      "disciplineId": "adult_cardiac",
+      "nameRu": "Аортальный клапан (стеноз, регургитация, TAVI, Ozaki, Ross)",
+      "nameEn": "Aortic Valve Disease (AS, AR, TAVI, Ozaki, Ross)"
+    },
+    {
+      "id": "mitral_valve",
+      "disciplineId": "adult_cardiac",
+      "nameRu": "Митральный клапан (пластика, протезирование, клипирование)",
+      "nameEn": "Mitral Valve Repair & Replacement"
+    },
+    {
+      "id": "tricuspid_pulmonary",
+      "disciplineId": "adult_cardiac",
+      "nameRu": "Трикуспидальный и легочный клапаны сердца",
+      "nameEn": "Tricuspid & Pulmonary Valve Diseases"
+    },
+    {
+      "id": "cad_cabg",
+      "disciplineId": "adult_cardiac",
+      "nameRu": "ИБС и коронарное шунтирование (КШ, OPCAB, миниинвазивное)",
+      "nameEn": "Coronary Artery Disease & CABG"
+    },
+    {
+      "id": "aorta_thoracic",
+      "disciplineId": "adult_cardiac",
+      "nameRu": "Грудная аорта: аневризмы, диссекции (тип А/В, TEVAR)",
+      "nameEn": "Thoracic Aorta: Aneurysms & Dissections (Type A/B, TEVAR)"
+    },
+    {
+      "id": "marfan_connective",
+      "disciplineId": "adult_cardiac",
+      "nameRu": "Синдром Марфана и дисплазии соединительной ткани",
+      "nameEn": "Marfan Syndrome & Connective Tissue Disorders"
+    },
+    {
+      "id": "endocarditis",
+      "disciplineId": "adult_cardiac",
+      "nameRu": "Инфекционный эндокардит и протезный эндокардит",
+      "nameEn": "Infective & Prosthetic Valve Endocarditis"
+    },
+    {
+      "id": "heart_failure_lvad",
+      "disciplineId": "adult_cardiac",
+      "nameRu": "Сердечная недостаточность, LVAD и трансплантация сердца",
+      "nameEn": "Heart Failure, LVAD & Heart Transplantation"
+    },
+    {
+      "id": "pericardium_tumors",
+      "disciplineId": "adult_cardiac",
+      "nameRu": "Болезни перикарда и опухоли сердца (миксомы)",
+      "nameEn": "Pericardial Disease & Cardiac Tumors"
+    },
+    {
+      "id": "arrhythmia_surgery",
+      "disciplineId": "adult_cardiac",
+      "nameRu": "Хирургия аритмий (операция Лабиринт / Maze, ЭКС)",
+      "nameEn": "Arrhythmia Surgery (Maze Procedure, Pacemakers)"
+    },
+
+    {
+      "id": "chd_shunts",
+      "disciplineId": "congenital",
+      "nameRu": "Септальные дефекты и сбросы (ДМЖП, ДМПП, ОАП, АВК)",
+      "nameEn": "Left-to-Right Shunts (VSD, ASD, PDA, AV Canal)"
+    },
+    {
+      "id": "chd_obstructive",
+      "disciplineId": "congenital",
+      "nameRu": "Обструктивные пороки (Коарктация аорты, перерыв дуги, стеноз АО/ЛА)",
+      "nameEn": "Obstructive Lesions (Coarctation, Interrupted Arch, AS/PS)"
+    },
+    {
+      "id": "tof_fallot",
+      "disciplineId": "congenital",
+      "nameRu": "Тетрада Фалло и атрезия легочной артерии",
+      "nameEn": "Tetralogy of Fallot & Pulmonary Atresia"
+    },
+    {
+      "id": "tga_transposition",
+      "disciplineId": "congenital",
+      "nameRu": "Транспозиция магистральных артерий (ТМА, операция Жатене)",
+      "nameEn": "Transposition of Great Arteries (TGA & Arterial Switch)"
+    },
+    {
+      "id": "single_ventricle",
+      "disciplineId": "congenital",
+      "nameRu": "Единственный желудочек сердца, СГЛС и этапы Фонтена",
+      "nameEn": "Single Ventricle, HLHS & Fontan Pathway"
+    },
+    {
+      "id": "congenital_veins",
+      "disciplineId": "congenital",
+      "nameRu": "Аномальный дренаж легочных вен (ТАДЛВ, ЧАДЛВ) и ВПВ",
+      "nameEn": "Anomalous Pulmonary Venous Connection (TAPVC/PAPVC)"
+    },
+    {
+      "id": "truncus_ebstein",
+      "disciplineId": "congenital",
+      "nameRu": "Общий артериальный ствол и аномалия Эбштейна",
+      "nameEn": "Truncus Arteriosus & Ebstein Anomaly"
+    },
+    {
+      "id": "congenital_coronaries",
+      "disciplineId": "congenital",
+      "nameRu": "Аномалии коронарных артерий (ALCAPA, аномальное отхождение)",
+      "nameEn": "Coronary Anomalies in CHD (ALCAPA, anomalous origin)"
+    },
+
+    {
+      "id": "lung_cancer_nodule",
+      "disciplineId": "thoracic",
+      "nameRu": "Рак легкого, стадирование и солитарные узлы",
+      "nameEn": "Lung Cancer, Staging & Solitary Pulmonary Nodules"
+    },
+    {
+      "id": "pulmonary_resection",
+      "disciplineId": "thoracic",
+      "nameRu": "Анатомические резекции легких (лобэктомия, сегментэктомия, ВАТС)",
+      "nameEn": "Anatomic Lung Resection (Lobectomy, Segmentectomy, VATS)"
+    },
+    {
+      "id": "mediastinal_disease",
+      "disciplineId": "thoracic",
+      "nameRu": "Средостение (тимома, миастения, лимфома, кисты)",
+      "nameEn": "Mediastinal Diseases (Thymoma, Myasthenia, Cysts)"
+    },
+    {
+      "id": "pleura_pneumothorax",
+      "disciplineId": "thoracic",
+      "nameRu": "Плевра: пневмоторакс, эмпиема, плевральный выпот",
+      "nameEn": "Pleural Pathology, Pneumothorax & Empyema"
+    },
+    {
+      "id": "esophageal_surgery",
+      "disciplineId": "thoracic",
+      "nameRu": "Хирургия пищевода (рак пищевода, ахалазия, перфорация)",
+      "nameEn": "Esophageal Surgery (Carcinoma, Achalasia, Perforation)"
+    },
+    {
+      "id": "trachea_airway",
+      "disciplineId": "thoracic",
+      "nameRu": "Трахея, бронхопластика и стенозы дыхательных путей",
+      "nameEn": "Tracheal Resection, Bronchoplasty & Airway Stenosis"
+    },
+    {
+      "id": "chest_wall_diaphragm",
+      "disciplineId": "thoracic",
+      "nameRu": "Грудная стенка, ребра, деформации и диафрагма",
+      "nameEn": "Chest Wall Tumors, Ribs, Deformities & Diaphragm"
+    },
+
+    {
+      "id": "cpb_hemostasis",
+      "disciplineId": "icu_critical",
+      "nameRu": "Искусственное кровообращение, защита миокарда и гемостаз",
+      "nameEn": "Cardiopulmonary Bypass, Myocardial Protection & Hemostasis"
+    },
+    {
+      "id": "low_output_inotropes",
+      "disciplineId": "icu_critical",
+      "nameRu": "Синдром малого выброса (СМВ), инотропы и вазопрессоры",
+      "nameEn": "Low Cardiac Output Syndrome (LCOS) & Inotropic Support"
+    },
+    {
+      "id": "ecmo_mcs",
+      "disciplineId": "icu_critical",
+      "nameRu": "ВА-ЭКМО, ВВ-ЭКМО и механическая поддержка (ВАБК, Impella)",
+      "nameEn": "VA/VV-ECMO & Mechanical Circulatory Support (IABP, Impella)"
+    },
+    {
+      "id": "respiratory_ards",
+      "disciplineId": "icu_critical",
+      "nameRu": "ИВЛ, респираторный дистресс-синдром (ОРДС) и отлучение",
+      "nameEn": "Mechanical Ventilation, ARDS & Weaning Protocols"
+    },
+    {
+      "id": "aki_renal_rrt",
+      "disciplineId": "icu_critical",
+      "nameRu": "Острое почечное повреждение (ОПП) и гемодиафильтрация (ЗПТ)",
+      "nameEn": "Acute Kidney Injury & Renal Replacement Therapy"
+    },
+    {
+      "id": "icu_infections_sepsis",
+      "disciplineId": "icu_critical",
+      "nameRu": "Внутрибольничные инфекции, медиастинит и сепсис",
+      "nameEn": "Healthcare-Associated Infections, Mediastinitis & Sepsis"
+    },
+
+    {
+      "id": "carotid_disease",
+      "disciplineId": "vascular",
+      "nameRu": "Каротидная эндартерэктомия и цереброваскулярная патология",
+      "nameEn": "Carotid Endarterectomy & Cerebrovascular Disease"
+    },
+    {
+      "id": "abdominal_aorta_pad",
+      "disciplineId": "vascular",
+      "nameRu": "Брюшная аорта (EVAR) и окклюзии периферических артерий",
+      "nameEn": "Abdominal Aortic Aneurysms (EVAR) & Peripheral Arteries"
+    },
+    {
+      "id": "vte_pulmonary_embolism",
+      "disciplineId": "vascular",
+      "nameRu": "Тромбоэмболия легочной артерии (ТЭЛА, ТЭЭ) и тромбозы вен",
+      "nameEn": "Pulmonary Embolism (PTE, Endarterectomy) & DVT"
+    },
+
+    {
+      "id": "echo_hemodynamics",
+      "disciplineId": "cardiology_imaging",
+      "nameRu": "Эхокардиография (ТТЭхо, ЧПЭхо) и гемодинамика катетеризации",
+      "nameEn": "Echocardiography (TTE, TEE) & Invasive Hemodynamics"
+    },
+    {
+      "id": "cardiac_ct_mri",
+      "disciplineId": "cardiology_imaging",
+      "nameRu": "КТ-ангиография и МРТ сердца в кардиоторакальной хирургии",
+      "nameEn": "Cardiac CT Angiography & MRI in CTS"
+    },
+    {
+      "id": "antithrombotic_drugs",
+      "disciplineId": "cardiology_imaging",
+      "nameRu": "Антикоагулянтная и дезагрегантная терапия (ПОАК, Варфарин)",
+      "nameEn": "Anticoagulation & Antiplatelet Therapy (DOACs, Warfarin)"
+    }
+  ]
+}

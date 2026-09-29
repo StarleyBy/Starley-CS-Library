@@ -156,9 +156,22 @@
                 </div>
 
                 <div class="lobby-card">
-                    <h3 id="label-select-set">Select Question Set</h3>
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; flex-wrap: wrap; gap: 8px;">
+                        <h3 id="label-select-set" style="margin: 0;">Select Questions</h3>
+                        <div class="quiz-source-mode-toggle" style="display: inline-flex; background: var(--quiz-surface); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 2px;">
+                            <button type="button" id="btn-source-manifests" class="source-toggle-btn active" style="padding: 4px 10px; font-size: 0.78rem; font-weight: 700; border-radius: 6px; border: none; cursor: pointer; background: var(--quiz-accent); color: white; transition: all 0.2s;">
+                                📁 <span id="txt-source-manifests">По сборникам</span>
+                            </button>
+                            <button type="button" id="btn-source-taxonomy" class="source-toggle-btn" style="padding: 4px 10px; font-size: 0.78rem; font-weight: 700; border-radius: 6px; border: none; cursor: pointer; background: transparent; color: var(--quiz-muted); transition: all 0.2s;">
+                                🧬 <span id="txt-source-taxonomy">По дисциплинам и темам</span>
+                            </button>
+                        </div>
+                    </div>
                     <div id="quiz-set-list" class="quiz-set-grid">
                         <!-- Dynamic sets -->
+                    </div>
+                    <div id="quiz-taxonomy-selector" style="display: none;" class="quiz-taxonomy-grid">
+                        <!-- Dynamic taxonomy disciplines and topics -->
                     </div>
                 </div>
 
@@ -751,8 +764,12 @@
                                         Tap on any topic to start training or practice missed questions
                                     </div>
                                 </div>
-                                <div style="display: flex; gap: 6px; flex-wrap: wrap;">
-                                    <button type="button" id="btn-filter-topic-all" class="rpg-topic-filter-btn active" data-topic-filter="all" onclick="window.switchTopicFilter('all')">All Manifests (18)</button>
+                                <div style="display: flex; gap: 6px; flex-wrap: wrap; align-items: center;">
+                                    <div style="display: inline-flex; background: rgba(255,255,255,0.06); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 2px; margin-right: 4px;">
+                                        <button type="button" id="btn-cab-view-manifests" class="source-toggle-btn active" onclick="window.switchCabinetAnalyticsView('manifests')" style="padding: 4px 8px; font-size: 0.72rem; font-weight: 700; border-radius: 6px; border: none; cursor: pointer; background: var(--quiz-accent); color: white;">📁 <span id="txt-cab-view-manifests">Сборники</span></button>
+                                        <button type="button" id="btn-cab-view-disciplines" class="source-toggle-btn" onclick="window.switchCabinetAnalyticsView('disciplines')" style="padding: 4px 8px; font-size: 0.72rem; font-weight: 700; border-radius: 6px; border: none; cursor: pointer; background: transparent; color: var(--quiz-muted);">🧬 <span id="txt-cab-view-disciplines">Дисциплины</span></button>
+                                    </div>
+                                    <button type="button" id="btn-filter-topic-all" class="rpg-topic-filter-btn active" data-topic-filter="all" onclick="window.switchTopicFilter('all')">All (18)</button>
                                     <button type="button" id="btn-filter-topic-active" class="rpg-topic-filter-btn" data-topic-filter="active" onclick="window.switchTopicFilter('active')">Practiced</button>
                                     <button type="button" id="btn-filter-topic-weak" class="rpg-topic-filter-btn" data-topic-filter="weak" onclick="window.switchTopicFilter('weak')">Weak Spots</button>
                                 </div>

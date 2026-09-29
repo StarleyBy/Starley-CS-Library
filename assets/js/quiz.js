@@ -32,7 +32,10 @@ const state = {
     libraryOverlayOpen: false,
     wasTimerRunningBeforeLibrary: false,
     libraryCurrentView: '',
-    libraryTimeOpened: 0
+    libraryTimeOpened: 0,
+    questionSourceMode: 'manifest',
+    selectedTaxonomyTopics: new Set(),
+    taxonomy: null
 };
 
 const PLAYLIST_ICONS_MAP = [
@@ -512,11 +515,132 @@ function getQuestionKey(q) {
     return `starley_sr_${bookPath.replace(/[^a-zA-Z0-9]/g, '_')}_${setId.replace(/[^a-zA-Z0-9]/g, '_')}_${qId}`;
 }
 
+async function loadQuizTaxonomy() {
+    try {
+        const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+        const res = await fetch(`${rootPath}quiz/quiz-taxonomy.json?_t=${Date.now()}`);
+        if (res.ok) {
+            state.taxonomy = await res.json();
+            console.log('[Quiz Taxonomy] Loaded successfully:', state.taxonomy.meta);
+            return;
+        }
+    } catch (e) {
+        console.warn('[Quiz Taxonomy] Error loading quiz-taxonomy.json:', e);
+    }
+    state.taxonomy = {
+        meta: { version: "1.0", totalDisciplines: 6, totalTopics: 0 },
+        disciplines: [
+            { id: "adult_cardiac", icon: "🫀", nameRu: "Кардиохирургия взрослых", nameEn: "Adult Cardiac Surgery" },
+            { id: "congenital", icon: "👶", nameRu: "Врожденные пороки сердца (ВПС)", nameEn: "Congenital Heart Surgery" },
+            { id: "thoracic", icon: "🫁", nameRu: "Торакальная хирургия", nameEn: "Thoracic Surgery" },
+            { id: "icu_critical", icon: "🏥", nameRu: "Реанимация и интенсивная терапия (ОРИТ)", nameEn: "Critical Care & ICU" },
+            { id: "vascular", icon: "🩸", nameRu: "Сосудистая хирургия", nameEn: "Vascular Surgery" },
+            { id: "cardiology_imaging", icon: "🩺", nameRu: "Кардиология и диагностика", nameEn: "Cardiology & Diagnostics" }
+        ],
+        topics: []
+    };
+}
+
+function autoClassifyQuestionDisciplines(q) {
+    if (!q) return ['adult_cardiac'];
+    const text = ((q.questionEn || '') + ' ' + (q.questionRu || '') + ' ' + (q.explanationEn || '') + ' ' + (q.explanationRu || '') + ' ' + (q.bookPath || '') + ' ' + (q.setId || '')).toLowerCase();
+    
+    // 1. Congenital checks
+    if (text.includes('congenital') || text.includes('впс') || text.includes('fallot') || text.includes('фалло') || text.includes('fontan') || text.includes('фонтен') || text.includes('vsd') || text.includes('asd') || text.includes('дмжп') || text.includes('дмпп') || text.includes('tga') || text.includes('транспозиц') || text.includes('coarctation') || text.includes('коарктац')) {
+        return ['congenital'];
+    }
+    // 2. Thoracic checks
+    if (text.includes('thoracic') || text.includes('торакал') || text.includes('lobectomy') || text.includes('лобэктоми') || text.includes('pleura') || text.includes('плевра') || text.includes('pneumothorax') || text.includes('пневмоторакс') || text.includes('esophag') || text.includes('пищевод') || text.includes('trachea') || text.includes('трахе')) {
+        return ['thoracic'];
+    }
+    // 3. ICU / Critical care checks
+    if (text.includes('icu') || text.includes('орит') || text.includes('ecmo') || text.includes('экмо') || text.includes('ards') || text.includes('ордс') || text.includes('ventilator') || text.includes('ивл') || text.includes('inotrop') || text.includes('инотроп') || text.includes('dialysis') || text.includes('диализ')) {
+        return ['icu_critical'];
+    }
+    // 4. Vascular checks
+    if (text.includes('vascular') || text.includes('сосудист') || text.includes('carotid') || text.includes('сонн') || text.includes('evar') || text.includes('tevar') || text.includes('pulmonary embolism') || text.includes('тэла')) {
+        return ['vascular'];
+    }
+    // 5. Cardiology & Imaging
+    if (text.includes('echocardiography') || text.includes('эхокг') || text.includes('чпэхо') || text.includes('angiography') || text.includes('ангиографи')) {
+        return ['cardiology_imaging'];
+    }
+    return ['adult_cardiac'];
+}
+
+function autoClassifyQuestionTopics(q) {
+    if (!q) return ['aortic_valve'];
+    const text = ((q.questionEn || '') + ' ' + (q.questionRu || '') + ' ' + (q.explanationEn || '') + ' ' + (q.explanationRu || '') + ' ' + (q.topic || '')).toLowerCase();
+
+    if (text.includes('aortic valve') || text.includes('аортальн') || text.includes('tavi') || text.includes('тави') || text.includes('ross') || text.includes('росс')) return ['aortic_valve'];
+    if (text.includes('mitral') || text.includes('митральн')) return ['mitral_valve'];
+    if (text.includes('tricuspid') || text.includes('трикуспид') || text.includes('pulmonary valve')) return ['tricuspid_pulmonary'];
+    if (text.includes('cabg') || text.includes('шунтирован') || text.includes('ибс') || text.includes('coronary artery')) return ['cad_cabg'];
+    if (text.includes('dissection') || text.includes('диссекц') || text.includes('aneurysm') || text.includes('аневризм')) return ['aorta_thoracic'];
+    if (text.includes('marfan') || text.includes('марфан') || text.includes('connective tissue')) return ['marfan_connective'];
+    if (text.includes('endocarditis') || text.includes('эндокардит')) return ['endocarditis'];
+    if (text.includes('lvad') || text.includes('трансплантац') || text.includes('heart failure')) return ['heart_failure_lvad'];
+    if (text.includes('fallot') || text.includes('фалло')) return ['tof_fallot'];
+    if (text.includes('tga') || text.includes('транспозиц') || text.includes('жатене')) return ['tga_transposition'];
+    if (text.includes('fontan') || text.includes('фонтен') || text.includes('единствен')) return ['single_ventricle'];
+    if (text.includes('vsd') || text.includes('asd') || text.includes('дмжп') || text.includes('дмпп')) return ['chd_shunts'];
+    if (text.includes('coarctation') || text.includes('коарктац')) return ['chd_obstructive'];
+    if (text.includes('lung cancer') || text.includes('рак легк') || text.includes('узел')) return ['lung_cancer_nodule'];
+    if (text.includes('lobectomy') || text.includes('лобэктоми') || text.includes('резекц')) return ['pulmonary_resection'];
+    if (text.includes('pneumothorax') || text.includes('пневмоторакс') || text.includes('плевра')) return ['pleura_pneumothorax'];
+    if (text.includes('esophag') || text.includes('пищевод')) return ['esophageal_surgery'];
+    if (text.includes('ecmo') || text.includes('экмо')) return ['ecmo_mcs'];
+    if (text.includes('ards') || text.includes('ордс') || text.includes('ивл')) return ['respiratory_ards'];
+    if (text.includes('carotid') || text.includes('сонн')) return ['carotid_disease'];
+
+    const disc = autoClassifyQuestionDisciplines(q)[0];
+    if (disc === 'congenital') return ['chd_shunts'];
+    if (disc === 'thoracic') return ['lung_cancer_nodule'];
+    if (disc === 'icu_critical') return ['cpb_hemostasis'];
+    if (disc === 'vascular') return ['carotid_disease'];
+    if (disc === 'cardiology_imaging') return ['echo_hemodynamics'];
+    return ['aortic_valve'];
+}
+
+function getQuestionDisciplines(q) {
+    if (!q) return ['adult_cardiac'];
+    if (Array.isArray(q.disciplines) && q.disciplines.length > 0) {
+        return q.disciplines;
+    }
+    if (q.discipline) return [q.discipline];
+    return autoClassifyQuestionDisciplines(q);
+}
+
+function getQuestionTopics(q) {
+    if (!q) return [];
+    if (Array.isArray(q.topics) && q.topics.length > 0) {
+        return q.topics;
+    }
+    if (q.topic) {
+        const tId = q.topic.toLowerCase().replace(/[^a-z0-9]/g, '_');
+        return [tId];
+    }
+    return autoClassifyQuestionTopics(q);
+}
+
 function getQuestionTopic(q) {
     const lang = (state.settings && state.settings.lang) ? state.settings.lang : 'Ru';
-    const topic = q.topic;
-    if (topic) return topic;
-    
+    if (q.topics && Array.isArray(q.topics) && q.topics.length > 0) {
+        const topId = q.topics[0];
+        if (state.taxonomy && Array.isArray(state.taxonomy.topics)) {
+            const found = state.taxonomy.topics.find(t => t.id === topId || t.nameRu === topId);
+            if (found) return lang === 'Ru' ? found.nameRu : found.nameEn;
+        }
+        return topId;
+    }
+    if (q.topic) return q.topic;
+
+    const autoTopics = autoClassifyQuestionTopics(q);
+    if (autoTopics && autoTopics.length > 0 && state.taxonomy && Array.isArray(state.taxonomy.topics)) {
+        const found = state.taxonomy.topics.find(t => t.id === autoTopics[0]);
+        if (found) return lang === 'Ru' ? found.nameRu : found.nameEn;
+    }
+
     // Fallback: Chapter title
     if (q.meta && q.meta.chapter) {
         return getChapterTitle(Array.isArray(q.meta.chapter) ? q.meta.chapter[0] : q.meta.chapter, q.bookPath);
@@ -626,6 +750,63 @@ function sampleSmartQuestions(allQuestionsList, requestedCount) {
 
     let finalBatch = [...selectedUnseen, ...selectedWeak, ...selectedMastered];
     return shuffleArray(finalBatch);
+}
+
+/**
+ * Fairly balances questions across selected groups (topics or manifests)
+ * and within each group applies Leitner Spaced Repetition (60% unseen, 30% weak, 10% mastered).
+ *
+ * @param {Array<Array<Object>>|Object.<string, Array<Object>>} groupedPools - Map or Array of question arrays per topic/manifest
+ * @param {number} requestedCount - Total questions requested for the quiz session
+ * @returns {Array<Object>} Shuffled balanced list of questions
+ */
+function sampleBalancedSmartQuestions(groupedPools, requestedCount) {
+    const groups = (Array.isArray(groupedPools) ? groupedPools : Object.values(groupedPools))
+        .filter(g => Array.isArray(g) && g.length > 0);
+
+    if (groups.length === 0) return [];
+    if (groups.length === 1) {
+        return sampleSmartQuestions(groups[0], requestedCount);
+    }
+
+    const numGroups = groups.length;
+    const baseQuota = Math.floor(requestedCount / numGroups);
+    let remainder = requestedCount % numGroups;
+
+    const groupTargets = groups.map(() => {
+        let quota = baseQuota;
+        if (remainder > 0) {
+            quota += 1;
+            remainder -= 1;
+        }
+        return quota;
+    });
+
+    const chosenQuestions = [];
+    const leftoverQuestionsByGroup = [];
+
+    // First pass: sample smart questions within each group up to its target quota
+    groups.forEach((groupQuestions, idx) => {
+        const target = groupTargets[idx];
+        const sampled = sampleSmartQuestions(groupQuestions, target);
+        chosenQuestions.push(...sampled);
+
+        const sampledSet = new Set(sampled);
+        const leftovers = groupQuestions.filter(q => !sampledSet.has(q));
+        leftoverQuestionsByGroup.push(leftovers);
+    });
+
+    // If some groups had fewer questions than their target, calculate the deficit
+    let deficit = requestedCount - chosenQuestions.length;
+    if (deficit > 0) {
+        const allLeftovers = leftoverQuestionsByGroup.flat();
+        if (allLeftovers.length > 0) {
+            const extraSampled = sampleSmartQuestions(allLeftovers, deficit);
+            chosenQuestions.push(...extraSampled);
+        }
+    }
+
+    return shuffleArray(chosenQuestions);
 }
 
 let audioCtx = null;
@@ -828,8 +1009,10 @@ async function initQuizApp() {
             await Promise.all(metadataPromises);
         }
 
+        await loadQuizTaxonomy();
         renderQuizSets();
         setupLobbyListeners();
+        initQuestionSourceToggle();
         setupProfileListeners();
         setupQuestionListeners();
         setupResultsListeners();
@@ -879,37 +1062,61 @@ async function updateWeakSpotRadar() {
     const radarCard = document.getElementById('lobby-radar-card');
     if (!radarCard) return;
 
-    if (!state.selectedSets || state.selectedSets.length === 0) {
-        radarCard.style.display = 'none';
-        return;
-    }
-
     let allQs = [];
     const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
-    
-    for (const set of state.selectedSets) {
-        const cacheKey = `${set.bookPath}::${set.setId}`;
-        let questions = state.setQuestionsMap[cacheKey];
-        if (!questions) {
-            try {
-                const quizUrl = `${rootPath}${set.bookPath}/${set.file}?v=${Date.now()}`;
-                const res = await fetch(quizUrl);
-                const data = await res.json();
-                questions = data.questions || [];
-                questions.forEach(q => {
-                    q.bookPath = set.bookPath;
-                    q.meta = data.meta;
-                });
-                state.setQuestionsMap[cacheKey] = questions;
-            } catch (err) {
-                console.error(err);
-                continue;
-            }
+
+    if (state.questionSourceMode === 'taxonomy') {
+        if (!state.selectedTaxonomyTopics || state.selectedTaxonomyTopics.size === 0) {
+            radarCard.style.display = 'none';
+            return;
         }
-        questions.forEach(q => {
-            q.setId = set.setId;
-            allQs.push(q);
-        });
+        await loadAllQuizManifestIndex(false);
+        const seenMap = new Set();
+        if (state.setQuestionsMap) {
+            Object.values(state.setQuestionsMap).forEach(list => {
+                if (Array.isArray(list)) {
+                    list.forEach(q => {
+                        const qTopics = getQuestionTopics(q);
+                        if (qTopics.some(t => state.selectedTaxonomyTopics.has(t))) {
+                            const key = getQuestionKey(q);
+                            if (!seenMap.has(key)) {
+                                seenMap.add(key);
+                                allQs.push(q);
+                            }
+                        }
+                    });
+                }
+            });
+        }
+    } else {
+        if (!state.selectedSets || state.selectedSets.length === 0) {
+            radarCard.style.display = 'none';
+            return;
+        }
+        for (const set of state.selectedSets) {
+            const cacheKey = `${set.bookPath}::${set.setId}`;
+            let questions = state.setQuestionsMap[cacheKey];
+            if (!questions) {
+                try {
+                    const quizUrl = `${rootPath}${set.bookPath}/${set.file}?v=${Date.now()}`;
+                    const res = await fetch(quizUrl);
+                    const data = await res.json();
+                    questions = data.questions || [];
+                    questions.forEach(q => {
+                        q.bookPath = set.bookPath;
+                        q.meta = data.meta;
+                    });
+                    state.setQuestionsMap[cacheKey] = questions;
+                } catch (err) {
+                    console.error(err);
+                    continue;
+                }
+            }
+            questions.forEach(q => {
+                q.setId = set.setId;
+                allQs.push(q);
+            });
+        }
     }
 
     if (allQs.length === 0) {
@@ -1342,6 +1549,301 @@ async function updateSliderForSelectedSets() {
     
     // Update Spaced Repetition Radar / Mastery dashboard on selected sets change
     updateWeakSpotRadar();
+}
+
+async function renderTaxonomySelector() {
+    const container = document.getElementById('quiz-taxonomy-selector');
+    if (!container) return;
+
+    if (!state.taxonomy) {
+        await loadQuizTaxonomy();
+    }
+    if (!state.taxonomy || !state.taxonomy.disciplines) return;
+
+    // Preload library questions if needed so question count per topic is accurate
+    await loadAllQuizManifestIndex(false);
+
+    // Build question count per topic and discipline
+    const topicCountMap = {};
+    const discCountMap = {};
+    state.taxonomy.disciplines.forEach(d => { discCountMap[d.id] = 0; });
+    state.taxonomy.topics.forEach(t => { topicCountMap[t.id] = 0; });
+
+    const seenMap = new Set();
+    if (state.setQuestionsMap) {
+        Object.values(state.setQuestionsMap).forEach(list => {
+            if (Array.isArray(list)) {
+                list.forEach(q => {
+                    const key = getQuestionKey(q);
+                    if (!seenMap.has(key)) {
+                        seenMap.add(key);
+                        const qDiscs = getQuestionDisciplines(q);
+                        const qTopics = getQuestionTopics(q);
+                        qDiscs.forEach(d => {
+                            if (discCountMap[d] !== undefined) discCountMap[d]++;
+                        });
+                        qTopics.forEach(t => {
+                            if (topicCountMap[t] !== undefined) topicCountMap[t]++;
+                        });
+                    }
+                });
+            }
+        });
+    }
+
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+    container.innerHTML = '';
+
+    // Render quick action bar: Select All / Deselect All
+    const actionBar = document.createElement('div');
+    actionBar.style.cssText = 'display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; font-size: 0.78rem; padding: 0 4px;';
+    
+    const countSelected = state.selectedTaxonomyTopics ? state.selectedTaxonomyTopics.size : 0;
+    const totalTopics = state.taxonomy.topics.length;
+    actionBar.innerHTML = `
+        <div style="color: var(--quiz-muted);">
+            ${isRu ? 'Выбрано тем' : 'Topics selected'}: <strong style="color: var(--quiz-accent); font-size: 0.9rem;">${countSelected}</strong> / ${totalTopics}
+        </div>
+        <div style="display: flex; gap: 8px;">
+            <button type="button" id="btn-tax-select-all" style="background: rgba(255,255,255,0.06); border: 1px solid var(--quiz-border); color: var(--quiz-text); padding: 4px 10px; border-radius: 6px; font-size: 0.75rem; cursor: pointer; font-weight: 700;">
+                ${isRu ? 'Выбрать все' : 'Select All'}
+            </button>
+            <button type="button" id="btn-tax-clear-all" style="background: rgba(255,255,255,0.06); border: 1px solid var(--quiz-border); color: var(--quiz-muted); padding: 4px 10px; border-radius: 6px; font-size: 0.75rem; cursor: pointer; font-weight: 700;">
+                ${isRu ? 'Сбросить' : 'Clear All'}
+            </button>
+        </div>
+    `;
+    container.appendChild(actionBar);
+
+    const btnSelectAll = actionBar.querySelector('#btn-tax-select-all');
+    if (btnSelectAll) {
+        btnSelectAll.onclick = () => {
+            state.taxonomy.topics.forEach(t => state.selectedTaxonomyTopics.add(t.id));
+            renderTaxonomySelector();
+            updateSliderForTaxonomy();
+            updateWeakSpotRadar();
+            playSound('click');
+        };
+    }
+    const btnClearAll = actionBar.querySelector('#btn-tax-clear-all');
+    if (btnClearAll) {
+        btnClearAll.onclick = () => {
+            state.selectedTaxonomyTopics.clear();
+            renderTaxonomySelector();
+            updateSliderForTaxonomy();
+            updateWeakSpotRadar();
+            playSound('click');
+        };
+    }
+
+    // Render cards for each discipline
+    state.taxonomy.disciplines.forEach(disc => {
+        const topics = state.taxonomy.topics.filter(t => t.disciplineId === disc.id);
+        const discTopicsSelected = topics.filter(t => state.selectedTaxonomyTopics.has(t.id)).length;
+        const isAllDiscSelected = topics.length > 0 && discTopicsSelected === topics.length;
+
+        const discCard = document.createElement('div');
+        discCard.className = `taxonomy-disc-card ${discTopicsSelected > 0 ? 'active-discipline' : ''}`;
+
+        const discTitle = isRu ? disc.nameRu : disc.nameEn;
+        const qCount = discCountMap[disc.id] || 0;
+
+        discCard.innerHTML = `
+            <div class="taxonomy-disc-header">
+                <div class="taxonomy-disc-title">
+                    <span class="taxonomy-disc-icon">${disc.icon}</span>
+                    <span>${discTitle}</span>
+                </div>
+                <div class="taxonomy-disc-stats">
+                    <span class="taxonomy-badge-count">${discTopicsSelected}/${topics.length} ${isRu ? 'тем' : 'topics'} • ${qCount} Qs</span>
+                    <button type="button" class="taxonomy-disc-select-all">
+                        ${isAllDiscSelected ? (isRu ? 'Снять' : 'Deselect') : (isRu ? 'Все' : 'All')}
+                    </button>
+                </div>
+            </div>
+            <div class="taxonomy-topics-container">
+            </div>
+        `;
+
+        const btnToggleDisc = discCard.querySelector('.taxonomy-disc-select-all');
+        btnToggleDisc.onclick = (e) => {
+            e.stopPropagation();
+            if (isAllDiscSelected) {
+                topics.forEach(t => state.selectedTaxonomyTopics.delete(t.id));
+            } else {
+                topics.forEach(t => state.selectedTaxonomyTopics.add(t.id));
+            }
+            renderTaxonomySelector();
+            updateSliderForTaxonomy();
+            updateWeakSpotRadar();
+            playSound('click');
+        };
+
+        const topicsContainer = discCard.querySelector('.taxonomy-topics-container');
+        topics.forEach(t => {
+            const isSelected = state.selectedTaxonomyTopics.has(t.id);
+            const topicName = isRu ? t.nameRu : t.nameEn;
+            const tCount = topicCountMap[t.id] || 0;
+
+            const chip = document.createElement('div');
+            chip.className = `taxonomy-topic-chip ${isSelected ? 'active' : ''}`;
+            chip.innerHTML = `
+                <i class="${isSelected ? 'fas fa-check-circle' : 'far fa-circle'}"></i>
+                <span>${topicName}</span>
+                <span class="taxonomy-badge-count">${tCount}</span>
+            `;
+
+            chip.onclick = () => {
+                if (state.selectedTaxonomyTopics.has(t.id)) {
+                    state.selectedTaxonomyTopics.delete(t.id);
+                } else {
+                    state.selectedTaxonomyTopics.add(t.id);
+                }
+                chip.classList.toggle('active', state.selectedTaxonomyTopics.has(t.id));
+                const icon = chip.querySelector('i');
+                if (icon) {
+                    icon.className = state.selectedTaxonomyTopics.has(t.id) ? 'fas fa-check-circle' : 'far fa-circle';
+                }
+                
+                // Update disc card stats & styling
+                const newSelectedCount = topics.filter(top => state.selectedTaxonomyTopics.has(top.id)).length;
+                discCard.classList.toggle('active-discipline', newSelectedCount > 0);
+                const badge = discCard.querySelector('.taxonomy-badge-count');
+                if (badge) {
+                    badge.textContent = `${newSelectedCount}/${topics.length} ${isRu ? 'тем' : 'topics'} • ${qCount} Qs`;
+                }
+                const btnAll = discCard.querySelector('.taxonomy-disc-select-all');
+                if (btnAll) {
+                    btnAll.textContent = (newSelectedCount === topics.length) ? (isRu ? 'Снять' : 'Deselect') : (isRu ? 'Все' : 'All');
+                }
+
+                // Update action bar total counter
+                const countSelectedEl = actionBar.querySelector('strong');
+                if (countSelectedEl) {
+                    countSelectedEl.textContent = state.selectedTaxonomyTopics.size;
+                }
+
+                updateSliderForTaxonomy();
+                updateWeakSpotRadar();
+                playSound('click');
+            };
+
+            topicsContainer.appendChild(chip);
+        });
+
+        container.appendChild(discCard);
+    });
+}
+
+async function updateSliderForTaxonomy() {
+    await loadAllQuizManifestIndex(false);
+    let totalQs = 0;
+    const seenMap = new Set();
+
+    if (state.selectedTaxonomyTopics && state.selectedTaxonomyTopics.size > 0 && state.setQuestionsMap) {
+        Object.values(state.setQuestionsMap).forEach(list => {
+            if (Array.isArray(list)) {
+                list.forEach(q => {
+                    const qTopics = getQuestionTopics(q);
+                    if (qTopics.some(t => state.selectedTaxonomyTopics.has(t))) {
+                        const key = getQuestionKey(q);
+                        if (!seenMap.has(key)) {
+                            seenMap.add(key);
+                            totalQs++;
+                        }
+                    }
+                });
+            }
+        });
+    }
+
+    const slider = document.getElementById('setting-count');
+    const valCount = document.getElementById('val-count');
+    if (slider) {
+        slider.min = totalQs > 0 ? Math.min(5, totalQs) : 0;
+        slider.max = totalQs;
+        if (state.settings.count > totalQs || totalQs === 0) {
+            slider.value = totalQs;
+            state.settings.count = totalQs;
+        } else {
+            slider.value = state.settings.count;
+        }
+
+        if (valCount) {
+            const isRu = state.settings.lang === 'Ru';
+            valCount.textContent = (state.settings.count === totalQs) ? (isRu ? 'Все' : 'All') : state.settings.count;
+        }
+
+        const lblQuestionsCount = document.getElementById('label-questions-count');
+        if (lblQuestionsCount && valCount) {
+            const isRu = state.settings.lang === 'Ru';
+            lblQuestionsCount.innerHTML = (isRu ? 'Количество вопросов: ' : 'Questions: ') + `<span id="val-count">${valCount.textContent}</span>`;
+        }
+    }
+
+    updatePresetBadgeActiveState();
+
+    const startBtn = document.getElementById('btn-start-quiz');
+    if (startBtn) {
+        startBtn.disabled = totalQs === 0;
+    }
+}
+
+function initQuestionSourceToggle() {
+    const btnManifests = document.getElementById('btn-source-manifests');
+    const btnTaxonomy = document.getElementById('btn-source-taxonomy');
+    const setList = document.getElementById('quiz-set-list');
+    const taxSelector = document.getElementById('quiz-taxonomy-selector');
+    const txtManifests = document.getElementById('txt-source-manifests');
+    const txtTaxonomy = document.getElementById('txt-source-taxonomy');
+    const lblSelectSet = document.getElementById('label-select-set');
+
+    if (!btnManifests || !btnTaxonomy) return;
+
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+    if (txtManifests) txtManifests.textContent = isRu ? 'По сборникам' : 'By Manifests';
+    if (txtTaxonomy) txtTaxonomy.textContent = isRu ? 'По дисциплинам и темам' : 'By Clinical Topics';
+    if (lblSelectSet) lblSelectSet.textContent = isRu ? 'Выбор вопросов' : 'Select Questions';
+
+    const applySourceMode = (mode) => {
+        state.questionSourceMode = mode;
+        const isTax = mode === 'taxonomy';
+
+        btnManifests.classList.toggle('active', !isTax);
+        btnManifests.style.background = !isTax ? 'var(--quiz-accent)' : 'transparent';
+        btnManifests.style.color = !isTax ? 'white' : 'var(--quiz-muted)';
+
+        btnTaxonomy.classList.toggle('active', isTax);
+        btnTaxonomy.style.background = isTax ? 'var(--quiz-accent)' : 'transparent';
+        btnTaxonomy.style.color = isTax ? 'white' : 'var(--quiz-muted)';
+
+        if (setList) setList.style.display = isTax ? 'none' : '';
+        if (taxSelector) taxSelector.style.display = isTax ? 'flex' : 'none';
+
+        if (isTax) {
+            if (state.selectedTaxonomyTopics.size === 0 && state.taxonomy && state.taxonomy.topics) {
+                state.taxonomy.topics
+                    .filter(t => t.disciplineId === 'adult_cardiac')
+                    .forEach(t => state.selectedTaxonomyTopics.add(t.id));
+            }
+            renderTaxonomySelector();
+            updateSliderForTaxonomy();
+        } else {
+            renderQuizSets();
+            updateSliderForSelectedSets();
+        }
+        updateWeakSpotRadar();
+    };
+
+    btnManifests.onclick = () => {
+        applySourceMode('manifest');
+        playSound('click');
+    };
+
+    btnTaxonomy.onclick = () => {
+        applySourceMode('taxonomy');
+        playSound('click');
+    };
 }
 
 function updatePresetBadgeActiveState() {
@@ -2505,7 +3007,16 @@ function setupLobbyListeners() {
 }
 
 async function startQuiz() {
-    if (!state.selectedSets || state.selectedSets.length === 0) return;
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+
+    if (state.questionSourceMode === 'manifest') {
+        if (!state.selectedSets || state.selectedSets.length === 0) return;
+    } else {
+        if (!state.selectedTaxonomyTopics || state.selectedTaxonomyTopics.size === 0) {
+            alert(isRu ? 'Пожалуйста, выберите хотя бы одну клиническую тему!' : 'Please select at least one clinical topic!');
+            return;
+        }
+    }
     
     // Reset timer
     if (state.timerInterval) {
@@ -2515,54 +3026,98 @@ async function startQuiz() {
 
     try {
         const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
-        let allQuestions = [];
-        
-        for (const set of state.selectedSets) {
-            const cacheKey = `${set.bookPath}::${set.setId}`;
-            let questions = state.setQuestionsMap[cacheKey];
-            
-            if (!questions) {
-                if (set.setId === 'custom') {
-                    const cards = getCustomCards();
-                    const relevantCards = set.bookPath === 'custom' ? cards : cards.filter(c => c.bookPath === set.bookPath);
-                    questions = relevantCards.map(card => mapCardToQuestion(card));
-                    state.setQuestionsMap[cacheKey] = questions;
-                } else {
-                    const quizUrl = `${rootPath}${set.bookPath}/${set.file}?v=${Date.now()}`;
-                    const res = await fetch(quizUrl);
-                    const data = await res.json();
-                    questions = data.questions || [];
-                    
-                    const manifestId = (set.bookPath + '_' + set.setId).replace(/[^a-zA-Z0-9]/g, '_');
-                    questions.forEach((q, idx) => {
-                        q.bookPath = set.bookPath;
-                        q.setId = set.setId;
-                        q.manifestId = manifestId;
-                        q.meta = data.meta;
-                        if (!q.id) {
-                            q.id = `${manifestId}_q${idx + 1}`;
-                        }
-                    });
-                    
-                    state.setQuestionsMap[cacheKey] = questions;
-                }
+        let flatQuestions = [];
+        let groupedPools = [];
+
+        if (state.questionSourceMode === 'taxonomy') {
+            await loadAllQuizManifestIndex(false);
+
+            const allAvailable = [];
+            const seenKeys = new Set();
+            if (state.setQuestionsMap) {
+                Object.values(state.setQuestionsMap).forEach(list => {
+                    if (Array.isArray(list)) {
+                        list.forEach(q => {
+                            const key = getQuestionKey(q);
+                            if (!seenKeys.has(key)) {
+                                seenKeys.add(key);
+                                allAvailable.push(q);
+                            }
+                        });
+                    }
+                });
             }
-            allQuestions.push({
-                setId: set.setId,
-                questions: questions
+
+            // Group questions by each selected topic
+            const topicGroupsMap = {};
+            state.selectedTaxonomyTopics.forEach(topId => {
+                topicGroupsMap[topId] = [];
+            });
+
+            allAvailable.forEach(q => {
+                const qTopics = getQuestionTopics(q);
+                qTopics.forEach(topId => {
+                    if (topicGroupsMap[topId]) {
+                        topicGroupsMap[topId].push(q);
+                    }
+                });
+            });
+
+            groupedPools = Object.values(topicGroupsMap).filter(pool => pool.length > 0);
+            const flatSet = new Set(groupedPools.flat());
+            flatQuestions = Array.from(flatSet);
+
+            if (flatQuestions.length === 0) {
+                alert(isRu ? 'Вопросы в выбранных темах не найдены.' : 'No questions found in selected topics.');
+                return;
+            }
+        } else {
+            // Manifest mode
+            let allQuestions = [];
+            for (const set of state.selectedSets) {
+                const cacheKey = `${set.bookPath}::${set.setId}`;
+                let questions = state.setQuestionsMap[cacheKey];
+                
+                if (!questions) {
+                    if (set.setId === 'custom') {
+                        const cards = getCustomCards();
+                        const relevantCards = set.bookPath === 'custom' ? cards : cards.filter(c => c.bookPath === set.bookPath);
+                        questions = relevantCards.map(card => mapCardToQuestion(card));
+                        state.setQuestionsMap[cacheKey] = questions;
+                    } else {
+                        const quizUrl = `${rootPath}${set.bookPath}/${set.file}?v=${Date.now()}`;
+                        const res = await fetch(quizUrl);
+                        const data = await res.json();
+                        questions = data.questions || [];
+                        
+                        const manifestId = (set.bookPath + '_' + set.setId).replace(/[^a-zA-Z0-9]/g, '_');
+                        questions.forEach((q, idx) => {
+                            q.bookPath = set.bookPath;
+                            q.setId = set.setId;
+                            q.manifestId = manifestId;
+                            q.meta = data.meta;
+                            if (!q.id) {
+                                q.id = `${manifestId}_q${idx + 1}`;
+                            }
+                        });
+                        
+                        state.setQuestionsMap[cacheKey] = questions;
+                    }
+                }
+                allQuestions.push({
+                    setId: set.setId,
+                    questions: questions
+                });
+            }
+
+            groupedPools = allQuestions.map(g => g.questions).filter(pool => pool && pool.length > 0);
+            allQuestions.forEach(setGroup => {
+                setGroup.questions.forEach(q => {
+                    q.setId = setGroup.setId;
+                    flatQuestions.push(q);
+                });
             });
         }
-
-        const isRu = state.settings.lang === 'Ru';
-
-        // Flatten all questions with proper mapping
-        let flatQuestions = [];
-        allQuestions.forEach(setGroup => {
-            setGroup.questions.forEach(q => {
-                q.setId = setGroup.setId;
-                flatQuestions.push(q);
-            });
-        });
 
         // 1. Apply Express Quiz Filter (if any)
         if (state.activeTopicFilter) {
@@ -2593,23 +3148,26 @@ async function startQuiz() {
             const totalRequested = Math.min(state.settings.count, flatQuestions.length);
 
             if (state.sessionMode === 'smart') {
-                finalQuestions = sampleSmartQuestions(flatQuestions, totalRequested);
+                finalQuestions = sampleBalancedSmartQuestions(groupedPools, totalRequested);
                 if (document.getElementById('setting-shuffle') && document.getElementById('setting-shuffle').checked) {
                     finalQuestions = shuffleArray(finalQuestions);
                 }
                 state.settings.exam = false;
             } else if (state.sessionMode === 'weak') {
-                const weakQs = flatQuestions.filter(q => getQuestionMastery(q).state === 'red');
-                if (weakQs.length === 0) {
+                const weakPools = groupedPools
+                    .map(pool => pool.filter(q => getQuestionMastery(q).state === 'red'))
+                    .filter(pool => pool.length > 0);
+
+                if (weakPools.length === 0) {
                     alert(isRu 
-                        ? 'Отличная работа! У вас нет проблемных вопросов (Красная зона) в выбранных квизах. Начните Умный режим.' 
-                        : 'Great job! You have no weak spots (Red zone) in the selected sets. Choose Smart Drill to study.');
+                        ? 'Отличная работа! У вас нет проблемных вопросов (Красная зона) в выбранных квизах/темах. Начните Умный режим.' 
+                        : 'Great job! You have no weak spots (Red zone) in the selected sets/topics. Choose Smart Drill to study.');
                     return;
                 }
-                finalQuestions = shuffleArray(weakQs).slice(0, totalRequested);
+                finalQuestions = sampleBalancedSmartQuestions(weakPools, totalRequested);
                 state.settings.exam = false;
             } else {
-                finalQuestions = shuffleArray(flatQuestions).slice(0, totalRequested);
+                finalQuestions = sampleBalancedSmartQuestions(groupedPools, totalRequested);
                 state.settings.exam = true;
             }
 
@@ -6681,9 +7239,40 @@ function renderCabinetOverviewTab() {
 window.renderCabinetOverviewTab = renderCabinetOverviewTab;
 
 /**
- * Filter and Render Interactive 18 Question Manifests Dashboard
+ * Filter and Render Interactive 18 Question Manifests Dashboard / Clinical Disciplines
  */
 window.currentTopicFilter = 'all';
+window.cabinetAnalyticsView = 'manifests';
+
+window.switchCabinetAnalyticsView = function(viewMode) {
+    window.cabinetAnalyticsView = viewMode;
+    const btnMan = document.getElementById('btn-cab-view-manifests');
+    const btnDisc = document.getElementById('btn-cab-view-disciplines');
+    if (btnMan) {
+        btnMan.classList.toggle('active', viewMode === 'manifests');
+        btnMan.style.background = viewMode === 'manifests' ? 'var(--quiz-accent)' : 'transparent';
+        btnMan.style.color = viewMode === 'manifests' ? 'white' : 'var(--quiz-muted)';
+    }
+    if (btnDisc) {
+        btnDisc.classList.toggle('active', viewMode === 'disciplines');
+        btnDisc.style.background = viewMode === 'disciplines' ? 'var(--quiz-accent)' : 'transparent';
+        btnDisc.style.color = viewMode === 'disciplines' ? 'white' : 'var(--quiz-muted)';
+    }
+
+    const titleEl = document.getElementById('txt-manifest-title');
+    const filterAllBtn = document.getElementById('btn-filter-topic-all');
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+
+    if (viewMode === 'disciplines') {
+        if (titleEl) titleEl.textContent = isRu ? 'Клинические дисциплины (6 дисциплин)' : 'Clinical Disciplines (6 specialties)';
+        if (filterAllBtn) filterAllBtn.textContent = isRu ? 'Все дисциплины (6)' : 'All Disciplines (6)';
+    } else {
+        if (titleEl) titleEl.textContent = isRu ? 'Манифесты вопросов и темы (18 направлений)' : 'Question Manifests & Topics (18 directions)';
+        if (filterAllBtn) filterAllBtn.textContent = isRu ? 'Все манифесты (18)' : 'All Manifests (18)';
+    }
+
+    renderTopicManifestsSection();
+};
 
 window.switchTopicFilter = function(filterKey) {
     window.currentTopicFilter = filterKey;
@@ -6693,12 +7282,173 @@ window.switchTopicFilter = function(filterKey) {
     renderTopicManifestsSection();
 };
 
+function calculateDisciplineAnalytics() {
+    if (!state.taxonomy || !state.taxonomy.disciplines) return [];
+    
+    return state.taxonomy.disciplines.map(disc => {
+        const discTopics = (state.taxonomy.topics || []).filter(t => t.disciplineId === disc.id);
+        const discTopicIds = new Set(discTopics.map(t => t.id));
+
+        let totalBankQ = 0;
+        let attemptedCount = 0;
+        let correctCount = 0;
+        let wrongCount = 0;
+        const seenKeys = new Set();
+
+        if (state.setQuestionsMap) {
+            Object.values(state.setQuestionsMap).forEach(list => {
+                if (Array.isArray(list)) {
+                    list.forEach(q => {
+                        const qTopics = getQuestionTopics(q);
+                        const qDiscs = getQuestionDisciplines(q);
+                        if (qDiscs.includes(disc.id) || qTopics.some(t => discTopicIds.has(t))) {
+                            const key = getQuestionKey(q);
+                            if (!seenKeys.has(key)) {
+                                seenKeys.add(key);
+                                totalBankQ++;
+                                const m = getQuestionMastery(q);
+                                if (m.views > 0 || m.state !== 'unseen') {
+                                    attemptedCount++;
+                                    if (m.state === 'green' || m.state === 'yellow') {
+                                        correctCount++;
+                                    } else if (m.state === 'red') {
+                                        wrongCount++;
+                                    }
+                                }
+                            }
+                        }
+                    });
+                }
+            });
+        }
+
+        const accuracy = attemptedCount > 0 ? Math.round((correctCount / attemptedCount) * 100) : 0;
+        const coveragePct = totalBankQ > 0 ? Math.round((attemptedCount / totalBankQ) * 100) : 0;
+
+        return {
+            id: disc.id,
+            icon: disc.icon,
+            titleRu: disc.nameRu,
+            titleEn: disc.nameEn,
+            totalBankQ: totalBankQ,
+            attemptedCount: attemptedCount,
+            correctCount: correctCount,
+            wrongCount: wrongCount,
+            accuracy: accuracy,
+            coveragePct: coveragePct,
+            topics: discTopics
+        };
+    });
+}
+
 function renderTopicManifestsSection() {
     const container = document.getElementById('cab-topics-mastery-list');
     const summaryEl = document.getElementById('cab-topics-active-summary');
     if (!container) return;
 
     const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+    const isDisciplineView = window.cabinetAnalyticsView === 'disciplines';
+
+    if (isDisciplineView) {
+        const discStats = calculateDisciplineAnalytics();
+        const activeCount = discStats.filter(d => d.attemptedCount > 0).length;
+        const weakCount = discStats.filter(d => d.attemptedCount > 0 && (d.accuracy < 75 || d.wrongCount > 0)).length;
+        const totalDisc = discStats.length || 6;
+
+        if (summaryEl) {
+            summaryEl.textContent = isRu 
+                ? `Осваивается дисциплин: ${activeCount} из ${totalDisc} • Требуют внимания: ${weakCount}`
+                : `Practiced: ${activeCount} / ${totalDisc} disciplines • Weak areas: ${weakCount}`;
+        }
+
+        const filter = window.currentTopicFilter || 'all';
+        let filtered = discStats;
+        if (filter === 'active') {
+            filtered = discStats.filter(d => d.attemptedCount > 0);
+        } else if (filter === 'weak') {
+            filtered = discStats.filter(d => d.attemptedCount > 0 && (d.accuracy < 75 || d.wrongCount > 0));
+        }
+
+        if (filtered.length === 0) {
+            const noMsg = filter === 'weak'
+                ? (isRu ? '🎉 Отлично! Нет дисциплин с точностью ниже 75%.' : '🎉 Great job! No disciplines below 75% accuracy.')
+                : (filter === 'active'
+                    ? (isRu ? 'Вы пока не прошли ни одного вопроса в этой категории.' : 'No practiced disciplines yet.')
+                    : (isRu ? 'Дисциплины не найдены' : 'No disciplines found'));
+            container.innerHTML = `<div style="grid-column: 1 / -1; color: var(--quiz-muted); font-size: 0.85rem; text-align: center; padding: 24px; background: rgba(13,17,23,0.4); border-radius: 10px; border: 1px dashed var(--quiz-border);">${noMsg}</div>`;
+            return;
+        }
+
+        container.innerHTML = filtered.map(d => {
+            const title = isRu ? d.titleRu : d.titleEn;
+            const total = d.totalBankQ;
+            const solved = d.attemptedCount;
+            const correct = d.correctCount;
+            const wrong = d.wrongCount;
+            const acc = d.accuracy;
+            const cov = d.coveragePct;
+
+            let badgeHtml = '';
+            let barColor = '#8b949e';
+            if (solved === 0) {
+                badgeHtml = `<span style="background: rgba(255,255,255,0.06); color: var(--quiz-muted); font-size: 0.7rem; font-weight: 700; padding: 2px 7px; border-radius: 4px;">${isRu ? 'Не начато' : 'Unseen'}</span>`;
+            } else if (acc >= 80) {
+                barColor = '#3fb950';
+                badgeHtml = `<span style="background: rgba(63, 185, 80, 0.15); color: #3fb950; border: 1px solid rgba(63, 185, 80, 0.3); font-size: 0.72rem; font-weight: 800; padding: 2px 7px; border-radius: 4px;">🟢 ${acc}% ${isRu ? 'точность' : 'acc'}</span>`;
+            } else if (acc >= 60) {
+                barColor = '#eab308';
+                badgeHtml = `<span style="background: rgba(234, 179, 8, 0.15); color: #eab308; border: 1px solid rgba(234, 179, 8, 0.3); font-size: 0.72rem; font-weight: 800; padding: 2px 7px; border-radius: 4px;">🟡 ${acc}% ${isRu ? 'точность' : 'acc'}</span>`;
+            } else {
+                barColor = '#f87171';
+                badgeHtml = `<span style="background: rgba(248, 113, 113, 0.15); color: #f87171; border: 1px solid rgba(248, 113, 113, 0.3); font-size: 0.72rem; font-weight: 800; padding: 2px 7px; border-radius: 4px;">🔴 ${acc}% ${isRu ? 'внимание' : 'warning'}</span>`;
+            }
+
+            const errBtnHtml = wrong > 0 ? `
+                <button type="button" onclick="window.launchDisciplineErrorsQuiz('${d.id}')" class="rpg-topic-btn-danger" title="${isRu ? 'Тренировать только ошибки по дисциплине' : 'Retest missed questions'}">
+                    ⚠️ ${isRu ? 'Ошибки' : 'Errors'} (${wrong})
+                </button>
+            ` : '';
+
+            return `
+                <div class="rpg-topic-card">
+                    <div class="rpg-topic-header">
+                        <div style="display: flex; align-items: flex-start; gap: 8px; min-width: 0; flex: 1;">
+                            <span style="font-size: 1.3rem; line-height: 1;">${d.icon}</span>
+                            <div style="min-width: 0;">
+                                <div class="rpg-topic-title" title="${escapeHTML(title)}">${escapeHTML(title)}</div>
+                                <div style="font-size: 0.72rem; color: var(--quiz-muted); margin-top: 2px;">
+                                    ${isRu ? 'Банк' : 'Bank'}: <strong>${total}</strong> Qs • ${d.topics.length} ${isRu ? 'клинических тем' : 'topics'}
+                                </div>
+                            </div>
+                        </div>
+                        <div style="flex-shrink: 0;">
+                            ${badgeHtml}
+                        </div>
+                    </div>
+
+                    <div style="margin: 8px 0;">
+                        <div style="display: flex; justify-content: space-between; font-size: 0.7rem; color: var(--quiz-muted); margin-bottom: 4px;">
+                            <span>${isRu ? 'Решено:' : 'Solved:'} <strong>${correct}/${solved}</strong> (${cov}% ${isRu ? 'банка' : 'bank'})</span>
+                            <span style="color: ${barColor}; font-weight: 700;">${solved > 0 ? `${acc}%` : '0%'}</span>
+                        </div>
+                        <div style="height: 6px; background: rgba(48,54,61,0.5); border-radius: 3px; overflow: hidden; display: flex;">
+                            <div style="width: ${Math.min(100, (correct / (total || 1)) * 100)}%; height: 100%; background: #3fb950;" title="Correct"></div>
+                            <div style="width: ${Math.min(100, (wrong / (total || 1)) * 100)}%; height: 100%; background: #f87171;" title="Errors"></div>
+                        </div>
+                    </div>
+
+                    <div class="rpg-topic-actions">
+                        <button type="button" onclick="window.launchDisciplineQuiz('${d.id}', 25)" class="rpg-topic-btn-primary">
+                            🚀 ${isRu ? 'Тренировать (25)' : 'Practice (25)'}
+                        </button>
+                        ${errBtnHtml}
+                    </div>
+                </div>
+            `;
+        }).join('');
+        return;
+    }
+
     const allManifestStats = calculateTopicManifestAnalytics(state.sessionHistory);
 
     const activeCount = allManifestStats.filter(m => m.attemptedCount > 0).length;
@@ -6801,6 +7551,36 @@ function renderTopicManifestsSection() {
     }).join('');
 }
 window.renderTopicManifestsSection = renderTopicManifestsSection;
+
+window.launchDisciplineQuiz = async function(discId, count = 25) {
+    if (!state.taxonomy) await loadQuizTaxonomy();
+    const topics = (state.taxonomy.topics || []).filter(t => t.disciplineId === discId);
+    state.questionSourceMode = 'taxonomy';
+    state.selectedTaxonomyTopics = new Set(topics.map(t => t.id));
+    state.sessionMode = 'smart';
+    state.settings.count = count;
+    state.activeTopicFilter = null;
+    
+    const modal = document.getElementById('cabinet-modal');
+    if (modal) modal.style.display = 'none';
+
+    await startQuiz();
+};
+
+window.launchDisciplineErrorsQuiz = async function(discId) {
+    if (!state.taxonomy) await loadQuizTaxonomy();
+    const topics = (state.taxonomy.topics || []).filter(t => t.disciplineId === discId);
+    state.questionSourceMode = 'taxonomy';
+    state.selectedTaxonomyTopics = new Set(topics.map(t => t.id));
+    state.sessionMode = 'weak';
+    state.settings.count = 50;
+    state.activeTopicFilter = null;
+
+    const modal = document.getElementById('cabinet-modal');
+    if (modal) modal.style.display = 'none';
+
+    await startQuiz();
+};
 
 /**
  * Launch Practice Session on Target Manifest

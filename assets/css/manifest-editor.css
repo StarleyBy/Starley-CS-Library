@@ -992,3 +992,147 @@ body.me-is-resizing .CodeMirror {
     padding: 0 2px;
     border-radius: 2px;
 }
+
+/* --- Taxonomy Multi-select & Chips Styling --- */
+.me-taxonomy-group {
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid var(--me-border);
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 8px;
+}
+
+.me-chips-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: 6px;
+    min-height: 28px;
+    align-items: center;
+}
+
+.me-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 9px;
+    border-radius: 12px;
+    font-size: 0.76rem;
+    font-weight: 600;
+    user-select: none;
+    transition: all 0.15s ease;
+}
+
+.me-chip-discipline {
+    background: rgba(52, 152, 219, 0.16);
+    border: 1px solid rgba(52, 152, 219, 0.45);
+    color: #58a6ff;
+}
+
+.me-chip-topic {
+    background: rgba(46, 204, 113, 0.16);
+    border: 1px solid rgba(46, 204, 113, 0.45);
+    color: #3fb950;
+}
+
+.me-chip-remove {
+    cursor: pointer;
+    font-size: 0.75rem;
+    opacity: 0.7;
+    margin-left: 2px;
+    transition: opacity 0.15s;
+}
+
+.me-chip-remove:hover {
+    opacity: 1;
+    color: #f87171;
+}
+
+.me-chip-picker-row {
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+    align-items: center;
+}
+
+.me-chip-picker-select {
+    flex: 1;
+    padding: 5px 8px;
+    font-size: 0.8rem;
+    border-radius: 4px;
+    background: var(--me-input-bg);
+    border: 1px solid var(--me-input-border);
+    color: var(--me-text-light);
+}
+
+.me-chip-btn-add {
+    background: rgba(52, 152, 219, 0.18);
+    border: 1px solid var(--me-accent-blue);
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.2s;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.me-chip-btn-add:hover {
+    background: var(--me-accent-blue);
+}
+
+.me-chip-empty-placeholder {
+    font-size: 0.75rem;
+    color: var(--me-text-muted);
+    font-style: italic;
+}
+
+.me-taxonomy-manager-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.85);
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.me-taxonomy-manager-card {
+    background: #1e1e1e;
+    border: 1px solid var(--me-accent-blue);
+    border-radius: 12px;
+    width: 90%;
+    max-width: 900px;
+    max-height: 85vh;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 10px 40px rgba(0,0,0,0.6);
+    overflow: hidden;
+}
+
+.me-taxonomy-manager-header {
+    padding: 15px 20px;
+    background: #141414;
+    border-bottom: 1px solid var(--me-border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.me-taxonomy-manager-body {
+    padding: 20px;
+    overflow-y: auto;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+

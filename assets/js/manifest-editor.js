@@ -22,7 +22,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         searchIndex: [],
         isIndexing: false,
         itemLineRanges: [],
-        isProgrammaticSelection: false
+        isProgrammaticSelection: false,
+        taxonomy: null
     };
 
     // DOM Elements
@@ -61,12 +62,19 @@ document.addEventListener('DOMContentLoaded', async () => {
         navSearch: document.getElementById('me-nav-search'),
         navList: document.getElementById('me-nav-list'),
         previewIndexInput: document.getElementById('me-preview-index-input'),
-        jsonJumpSelect: document.getElementById('me-json-jump-select')
+        jsonJumpSelect: document.getElementById('me-json-jump-select'),
+        btnTaxonomy: document.getElementById('me-btn-taxonomy'),
+        taxonomyModal: document.getElementById('me-taxonomy-modal'),
+        taxonomyModalClose: document.getElementById('me-taxonomy-modal-close'),
+        taxonomyModalBody: document.getElementById('me-taxonomy-modal-body'),
+        btnSaveTaxonomy: document.getElementById('me-btn-save-taxonomy'),
+        btnCloseTaxonomy: document.getElementById('me-btn-close-taxonomy')
     };
 
     // 1. Initialization
     _initCodeMirror();
     _initLayoutResizers();
+    await _loadTaxonomy();
     await _loadLibrary();
     _setupEventListeners();
     _initializeSearchIndex();
@@ -388,6 +396,381 @@ document.addEventListener('DOMContentLoaded', async () => {
         applyLayout();
     }
 
+    // --- Medical Taxonomy System ---
+
+    async function _loadTaxonomy() {
+        try {
+            const res = await fetch('./quiz/quiz-taxonomy.json?v=' + Date.now());
+            if (res.ok) {
+                state.taxonomy = await res.json();
+                console.log('[Taxonomy] Loaded successfully from quiz/quiz-taxonomy.json');
+                return;
+            }
+        } catch (e) {
+            console.warn('[Taxonomy] Could not fetch quiz-taxonomy.json, using fallback:', e);
+        }
+
+        state.taxonomy = {
+            meta: { version: "1.0", totalDisciplines: 6, totalTopics: 0 },
+            disciplines: [
+                { id: "adult_cardiac", icon: "🫀", nameRu: "Кардиохирургия взрослых", nameEn: "Adult Cardiac Surgery" },
+                { id: "congenital", icon: "👶", nameRu: "Врожденные пороки сердца (ВПС)", nameEn: "Congenital Heart Surgery" },
+                { id: "thoracic", icon: "🫁", nameRu: "Торакальная хирургия", nameEn: "Thoracic Surgery" },
+                { id: "icu_critical", icon: "🏥", nameRu: "Реанимация и интенсивная терапия (ОРИТ)", nameEn: "Critical Care & ICU" },
+                { id: "vascular", icon: "🩸", nameRu: "Сосудистая хирургия", nameEn: "Vascular Surgery" },
+                { id: "cardiology_imaging", icon: "🩺", nameRu: "Кардиология и диагностика", nameEn: "Cardiology & Diagnostics" }
+            ],
+            topics: []
+        };
+    }
+
+    function _getTaxonomyDisciplines() {
+        return (state.taxonomy && Array.isArray(state.taxonomy.disciplines)) ? state.taxonomy.disciplines : [];
+    }
+
+    function _getTaxonomyTopics(activeDisciplineIds = []) {
+        if (!state.taxonomy || !Array.isArray(state.taxonomy.topics)) return [];
+        if (!activeDisciplineIds || activeDisciplineIds.length === 0) return state.taxonomy.topics;
+        return state.taxonomy.topics.filter(t => !t.disciplineId || activeDisciplineIds.includes(t.disciplineId));
+    }
+
+    function _openTaxonomyModal() {
+        if (!els.taxonomyModal) return;
+        _renderTaxonomyModal();
+        els.taxonomyModal.style.display = 'flex';
+    }
+
+    function _renderTaxonomyModal() {
+        if (!els.taxonomyModalBody) return;
+        const disciplines = _getTaxonomyDisciplines();
+        const allTopics = (state.taxonomy && Array.isArray(state.taxonomy.topics)) ? state.taxonomy.topics : [];
+
+        let html = `
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px; background:rgba(255,255,255,0.04); padding:10px 14px; border-radius:8px;">
+                <div style="font-size:0.85rem;">
+                    <span>Дисциплин: <strong style="color:#58a6ff;">${disciplines.length}</strong></span> • 
+                    <span>Тем: <strong style="color:#3fb950;">${allTopics.length}</strong></span>
+                </div>
+                <div style="display:flex; gap:8px;">
+                    <button type="button" id="me-btn-modal-add-disc" class="me-btn me-btn-blue me-btn-sm" style="font-size:0.75rem;">
+                        <i class="fas fa-plus"></i> Новая дисциплина
+                    </button>
+                    <button type="button" id="me-btn-modal-add-top" class="me-btn me-btn-green me-btn-sm" style="font-size:0.75rem;">
+                        <i class="fas fa-plus"></i> Новая тема
+                    </button>
+                </div>
+            </div>
+            <div style="display:flex; flex-direction:column; gap:14px;">
+        `;
+
+        disciplines.forEach(d => {
+            const discTopics = allTopics.filter(t => t.disciplineId === d.id);
+            html += `
+                <div style="background:rgba(255,255,255,0.02); border:1px solid var(--me-border); border-radius:8px; padding:12px 14px;">
+                    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
+                        <div style="font-weight:700; font-size:0.9rem; color:#58a6ff; display:flex; align-items:center; gap:6px;">
+                            <span>${d.icon || '🏷️'}</span>
+                            <span>${d.nameRu}</span>
+                            <span style="font-size:0.75rem; color:var(--me-text-muted); font-weight:normal;">(${d.nameEn})</span>
+                        </div>
+                        <span style="font-size:0.72rem; background:rgba(88,166,255,0.15); color:#58a6ff; padding:2px 8px; border-radius:10px; font-weight:700;">
+                            ${discTopics.length} тем
+                        </span>
+                    </div>
+                    <div style="display:flex; flex-wrap:wrap; gap:6px;">
+            `;
+
+            if (discTopics.length === 0) {
+                html += `<span style="font-size:0.75rem; color:var(--me-text-muted); font-style:italic;">Темы пока не привязаны</span>`;
+            } else {
+                discTopics.forEach(t => {
+                    html += `
+                        <span class="me-chip me-chip-topic" style="font-size:0.74rem;">
+                            <span>${t.nameRu}</span>
+                        </span>
+                    `;
+                });
+            }
+
+            html += `
+                    </div>
+                </div>
+            `;
+        });
+
+        const uncatTopics = allTopics.filter(t => !disciplines.some(d => d.id === t.disciplineId));
+        if (uncatTopics.length > 0) {
+            html += `
+                <div style="background:rgba(255,255,255,0.02); border:1px dashed var(--me-border); border-radius:8px; padding:12px 14px;">
+                    <div style="font-weight:700; font-size:0.85rem; color:var(--me-accent-orange); margin-bottom:6px;">
+                        ⚠️ Общие темы (${uncatTopics.length})
+                    </div>
+                    <div style="display:flex; flex-wrap:wrap; gap:6px;">
+                        ${uncatTopics.map(t => `<span class="me-chip me-chip-topic" style="font-size:0.74rem;">${t.nameRu || t.id}</span>`).join('')}
+                    </div>
+                </div>
+            `;
+        }
+
+        html += `</div>`;
+        els.taxonomyModalBody.innerHTML = html;
+
+        const btnAddDisc = document.getElementById('me-btn-modal-add-disc');
+        if (btnAddDisc) {
+            btnAddDisc.onclick = () => {
+                const ru = prompt('Название дисциплины (RU):');
+                if (!ru || !ru.trim()) return;
+                const en = prompt('Название дисциплины (EN):', ru.trim()) || ru.trim();
+                const icon = prompt('Иконка emoji (🫀, 👶, 🫁 и т.д.):', '🏷️') || '🏷️';
+                const id = ru.trim().toLowerCase().replace(/[^a-z0-9а-яё]/gi, '_');
+                if (!state.taxonomy.disciplines) state.taxonomy.disciplines = [];
+                state.taxonomy.disciplines.push({ id, nameRu: ru.trim(), nameEn: en.trim(), icon });
+                _renderTaxonomyModal();
+                _renderForm();
+            };
+        }
+
+        const btnAddTop = document.getElementById('me-btn-modal-add-top');
+        if (btnAddTop) {
+            btnAddTop.onclick = () => {
+                const ru = prompt('Название темы (RU):');
+                if (!ru || !ru.trim()) return;
+                const en = prompt('Название темы (EN):', ru.trim()) || ru.trim();
+                const dList = _getTaxonomyDisciplines().map((d, i) => `${i + 1}. ${d.nameRu} (${d.id})`).join('\n');
+                const choice = prompt(`Выберите номер дисциплины:\n${dList}`, '1');
+                const chosenIdx = parseInt(choice, 10) - 1;
+                const disciplineId = (disciplines[chosenIdx]) ? disciplines[chosenIdx].id : (disciplines[0] ? disciplines[0].id : 'adult_cardiac');
+                const id = ru.trim().toLowerCase().replace(/[^a-z0-9а-яё]/gi, '_');
+                if (!state.taxonomy.topics) state.taxonomy.topics = [];
+                state.taxonomy.topics.push({ id, disciplineId, nameRu: ru.trim(), nameEn: en.trim() });
+                _renderTaxonomyModal();
+                _renderForm();
+            };
+        }
+    }
+
+    function _downloadTaxonomyJson() {
+        if (!state.taxonomy) return;
+        const blob = new Blob([JSON.stringify(state.taxonomy, null, 2)], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'quiz-taxonomy.json';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+    }
+
+    function _createTaxonomyDisciplinePicker(item) {
+        if (!Array.isArray(item.disciplines)) {
+            item.disciplines = item.discipline ? [item.discipline] : [];
+        }
+
+        const group = document.createElement('div');
+        group.className = 'me-field-group me-item-full-width me-taxonomy-group';
+
+        const label = document.createElement('label');
+        label.innerHTML = `🧬 Дисциплина / Discipline <span style="font-size:0.75rem; color:var(--me-text-muted); font-weight:normal;">(мультивыбор)</span>`;
+        group.appendChild(label);
+
+        const chipsWrap = document.createElement('div');
+        chipsWrap.className = 'me-chips-wrapper';
+
+        const renderChips = () => {
+            chipsWrap.innerHTML = '';
+            if (item.disciplines.length === 0) {
+                chipsWrap.innerHTML = '<span class="me-chip-empty-placeholder">Дисциплины не назначены (добавьте из списка ниже)</span>';
+            } else {
+                item.disciplines.forEach((dId, dIdx) => {
+                    const dObj = _getTaxonomyDisciplines().find(d => d.id === dId) || { id: dId, nameRu: dId, nameEn: dId, icon: '🏷️' };
+                    const chip = document.createElement('span');
+                    chip.className = 'me-chip me-chip-discipline';
+                    chip.innerHTML = `${dObj.icon || '🏷️'} <span>${dObj.nameRu || dObj.nameEn}</span>`;
+
+                    const btnRem = document.createElement('span');
+                    btnRem.className = 'me-chip-remove';
+                    btnRem.innerHTML = '&times;';
+                    btnRem.title = 'Удалить';
+                    btnRem.onclick = (e) => {
+                        e.stopPropagation();
+                        item.disciplines.splice(dIdx, 1);
+                        _syncFormToJson();
+                        renderChips();
+                        updateSelectOptions();
+                        const topicSelect = group.parentElement ? group.parentElement.querySelector('.me-topic-picker-select') : null;
+                        if (topicSelect) _populateTopicSelect(topicSelect, item);
+                    };
+                    chip.appendChild(btnRem);
+                    chipsWrap.appendChild(chip);
+                });
+            }
+        };
+        renderChips();
+        group.appendChild(chipsWrap);
+
+        const pickerRow = document.createElement('div');
+        pickerRow.className = 'me-chip-picker-row';
+
+        const select = document.createElement('select');
+        select.className = 'me-chip-picker-select me-discipline-picker-select';
+
+        const updateSelectOptions = () => {
+            select.innerHTML = '<option value="">+ Выбрать дисциплину из справочника...</option>';
+            _getTaxonomyDisciplines().forEach(d => {
+                if (!item.disciplines.includes(d.id)) {
+                    const opt = document.createElement('option');
+                    opt.value = d.id;
+                    opt.textContent = `${d.icon || ''} ${d.nameRu} / ${d.nameEn}`;
+                    select.appendChild(opt);
+                }
+            });
+        };
+        updateSelectOptions();
+
+        select.onchange = (e) => {
+            const val = e.target.value;
+            if (val && !item.disciplines.includes(val)) {
+                item.disciplines.push(val);
+                _syncFormToJson();
+                renderChips();
+                updateSelectOptions();
+                const topicSelect = group.parentElement ? group.parentElement.querySelector('.me-topic-picker-select') : null;
+                if (topicSelect) _populateTopicSelect(topicSelect, item);
+            }
+            select.value = '';
+        };
+
+        const btnNewDisc = document.createElement('button');
+        btnNewDisc.type = 'button';
+        btnNewDisc.className = 'me-chip-btn-add';
+        btnNewDisc.innerHTML = '<i class="fas fa-plus"></i> Новая дисциплина';
+        btnNewDisc.onclick = () => {
+            const ru = prompt('Введите название новой дисциплины (RU):');
+            if (!ru || !ru.trim()) return;
+            const en = prompt('Введите название новой дисциплины (EN):', ru.trim()) || ru.trim();
+            const icon = prompt('Иконка emoji (🫀, 👶, 🫁 и т.д.):', '🏷️') || '🏷️';
+            const newId = ru.trim().toLowerCase().replace(/[^a-z0-9а-яё]/gi, '_');
+
+            if (!state.taxonomy.disciplines) state.taxonomy.disciplines = [];
+            state.taxonomy.disciplines.push({ id: newId, nameRu: ru.trim(), nameEn: en.trim(), icon });
+            if (!item.disciplines.includes(newId)) item.disciplines.push(newId);
+            _syncFormToJson();
+            renderChips();
+            updateSelectOptions();
+        };
+
+        pickerRow.appendChild(select);
+        pickerRow.appendChild(btnNewDisc);
+        group.appendChild(pickerRow);
+
+        return group;
+    }
+
+    function _populateTopicSelect(selectEl, item) {
+        selectEl.innerHTML = '<option value="">+ Выбрать тему из справочника...</option>';
+        const availableTopics = _getTaxonomyTopics(item.disciplines);
+        availableTopics.forEach(t => {
+            const isAssigned = (item.topics || []).includes(t.id) || (item.topics || []).includes(t.nameRu);
+            if (!isAssigned) {
+                const opt = document.createElement('option');
+                opt.value = t.id || t.nameRu;
+                opt.textContent = `${t.nameRu} (${t.nameEn || ''})`;
+                selectEl.appendChild(opt);
+            }
+        });
+    }
+
+    function _createTaxonomyTopicPicker(item) {
+        if (!Array.isArray(item.topics)) {
+            item.topics = item.topic ? [item.topic] : [];
+        }
+
+        const group = document.createElement('div');
+        group.className = 'me-field-group me-item-full-width me-taxonomy-group';
+
+        const label = document.createElement('label');
+        label.innerHTML = `📚 Тема / Рубрика (Topic) <span style="font-size:0.75rem; color:var(--me-text-muted); font-weight:normal;">(мультивыбор)</span>`;
+        group.appendChild(label);
+
+        const chipsWrap = document.createElement('div');
+        chipsWrap.className = 'me-chips-wrapper';
+
+        const renderChips = () => {
+            chipsWrap.innerHTML = '';
+            if (item.topics.length === 0) {
+                chipsWrap.innerHTML = '<span class="me-chip-empty-placeholder">Темы не назначены (добавьте из списка ниже)</span>';
+            } else {
+                item.topics.forEach((tId, tIdx) => {
+                    const allTopics = (state.taxonomy && Array.isArray(state.taxonomy.topics)) ? state.taxonomy.topics : [];
+                    const tObj = allTopics.find(t => t.id === tId || t.nameRu === tId) || { id: tId, nameRu: tId, nameEn: tId };
+                    const chip = document.createElement('span');
+                    chip.className = 'me-chip me-chip-topic';
+                    chip.innerHTML = `<span>${tObj.nameRu || tObj.nameEn || tId}</span>`;
+
+                    const btnRem = document.createElement('span');
+                    btnRem.className = 'me-chip-remove';
+                    btnRem.innerHTML = '&times;';
+                    btnRem.title = 'Удалить';
+                    btnRem.onclick = (e) => {
+                        e.stopPropagation();
+                        item.topics.splice(tIdx, 1);
+                        _syncFormToJson();
+                        renderChips();
+                        _populateTopicSelect(select, item);
+                    };
+                    chip.appendChild(btnRem);
+                    chipsWrap.appendChild(chip);
+                });
+            }
+        };
+        renderChips();
+        group.appendChild(chipsWrap);
+
+        const pickerRow = document.createElement('div');
+        pickerRow.className = 'me-chip-picker-row';
+
+        const select = document.createElement('select');
+        select.className = 'me-chip-picker-select me-topic-picker-select';
+        _populateTopicSelect(select, item);
+
+        select.onchange = (e) => {
+            const val = e.target.value;
+            if (val && !item.topics.includes(val)) {
+                item.topics.push(val);
+                _syncFormToJson();
+                renderChips();
+                _populateTopicSelect(select, item);
+            }
+            select.value = '';
+        };
+
+        const btnNewTopic = document.createElement('button');
+        btnNewTopic.type = 'button';
+        btnNewTopic.className = 'me-chip-btn-add';
+        btnNewTopic.innerHTML = '<i class="fas fa-plus"></i> Новая тема';
+        btnNewTopic.onclick = () => {
+            const ru = prompt('Введите название новой темы (RU):');
+            if (!ru || !ru.trim()) return;
+            const en = prompt('Введите название новой темы (EN):', ru.trim()) || ru.trim();
+            const parentDiscipline = (item.disciplines && item.disciplines[0]) ? item.disciplines[0] : 'adult_cardiac';
+            const newId = ru.trim().toLowerCase().replace(/[^a-z0-9а-яё]/gi, '_');
+
+            if (!state.taxonomy.topics) state.taxonomy.topics = [];
+            state.taxonomy.topics.push({ id: newId, disciplineId: parentDiscipline, nameRu: ru.trim(), nameEn: en.trim() });
+            if (!item.topics.includes(newId)) item.topics.push(newId);
+            _syncFormToJson();
+            renderChips();
+            _populateTopicSelect(select, item);
+        };
+
+        pickerRow.appendChild(select);
+        pickerRow.appendChild(btnNewTopic);
+        group.appendChild(pickerRow);
+
+        return group;
+    }
+
     async function _loadLibrary() {
         try {
             const res = await fetch('./library.json');
@@ -462,6 +845,23 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         els.btnTokenCancel.addEventListener('click', () => els.githubModal.style.display = 'none');
         els.btnTokenSave.addEventListener('click', _saveToGithub);
+
+        if (els.btnTaxonomy) {
+            els.btnTaxonomy.addEventListener('click', _openTaxonomyModal);
+        }
+        if (els.taxonomyModalClose) {
+            els.taxonomyModalClose.addEventListener('click', () => {
+                if (els.taxonomyModal) els.taxonomyModal.style.display = 'none';
+            });
+        }
+        if (els.btnCloseTaxonomy) {
+            els.btnCloseTaxonomy.addEventListener('click', () => {
+                if (els.taxonomyModal) els.taxonomyModal.style.display = 'none';
+            });
+        }
+        if (els.btnSaveTaxonomy) {
+            els.btnSaveTaxonomy.addEventListener('click', _downloadTaxonomyJson);
+        }
 
         if (els.btnSyncR2) {
             els.btnSyncR2.addEventListener('click', () => {
@@ -1245,6 +1645,25 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
         container.appendChild(caGroup);
 
+        // 1. Discipline Multi-select Picker
+        container.appendChild(_createTaxonomyDisciplinePicker(item));
+
+        // 2. Topic Multi-select Picker
+        container.appendChild(_createTaxonomyTopicPicker(item));
+
+        // 3. Difficulty Level
+        container.appendChild(_createFieldGroup('Сложность / Difficulty', item.difficulty || 'Medium', (v) => {
+            item.difficulty = v;
+            _syncFormToJson();
+        }, 'select', ['Easy', 'Medium', 'Hard']));
+
+        // 4. Free Tags
+        const initialTags = Array.isArray(item.tags) ? item.tags.join(', ') : (item.tags || '');
+        container.appendChild(_createFieldGroup('Тэги (через запятую) / Tags', initialTags, (v) => {
+            item.tags = v.split(',').map(t => t.trim()).filter(Boolean);
+            _syncFormToJson();
+        }));
+
         // Question Images (comma separated)
         const qImagesGroup = document.createElement('div');
         qImagesGroup.className = 'me-field-group';
@@ -1691,6 +2110,23 @@ document.addEventListener('DOMContentLoaded', async () => {
             const questionText = item['question' + lang] || (lang === 'En' ? item.questionEn : item.questionRu) || '(No question text)';
             const options = item['options' + lang] || (lang === 'En' ? item.optionsEn : item.optionsRu) || {};
 
+            // Taxonomy Badges for Preview
+            const discBadges = (item.disciplines || []).map(dId => {
+                const dObj = _getTaxonomyDisciplines().find(d => d.id === dId) || { nameRu: dId, nameEn: dId, icon: '🏷️' };
+                return `<span style="display:inline-flex; align-items:center; gap:4px; background:rgba(52,152,219,0.15); color:#2980b9; border:1px solid rgba(52,152,219,0.3); border-radius:12px; padding:2px 8px; font-size:0.75rem; font-weight:700;">${dObj.icon || '🏷️'} ${lang === 'Ru' ? dObj.nameRu : dObj.nameEn}</span>`;
+            }).join(' ');
+
+            const topBadges = (item.topics || []).map(tId => {
+                const allTopics = (state.taxonomy && Array.isArray(state.taxonomy.topics)) ? state.taxonomy.topics : [];
+                const tObj = allTopics.find(t => t.id === tId || t.nameRu === tId) || { nameRu: tId, nameEn: tId };
+                return `<span style="display:inline-flex; align-items:center; gap:4px; background:rgba(46,204,113,0.15); color:#27ae60; border:1px solid rgba(46,204,113,0.3); border-radius:12px; padding:2px 8px; font-size:0.75rem; font-weight:600;">📚 ${lang === 'Ru' ? (tObj.nameRu || tId) : (tObj.nameEn || tId)}</span>`;
+            }).join(' ');
+
+            const diffBadge = item.difficulty ? `<span style="background:rgba(243,156,18,0.15); color:#d35400; border:1px solid rgba(243,156,18,0.3); border-radius:12px; padding:2px 8px; font-size:0.75rem; font-weight:700;">⚡ ${item.difficulty}</span>` : '';
+            const previewMetaRow = (discBadges || topBadges || diffBadge)
+                ? `<div style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:12px;">${discBadges} ${topBadges} ${diffBadge}</div>`
+                : '';
+
             html = `
                 <div class="preview-quiz">
                     <div class="preview-quiz-card-header" style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 15px; padding-bottom: 8px; border-bottom: 1px solid #ddd;">
@@ -1710,6 +2146,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                             </div>
                         </div>
                     </div>
+                    ${previewMetaRow}
                     <div class="q-text" style="font-weight:600; font-size:1.1rem; margin-bottom:15px;">${_markdownToHtml(questionText)}</div>
                     ${qImgHtml ? `<div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">${qImgHtml}</div>` : ''}
                     <div class="q-options" style="margin-top:15px;">
@@ -1973,6 +2410,13 @@ document.addEventListener('DOMContentLoaded', async () => {
             textSpan.textContent = text;
             navItem.appendChild(textSpan);
 
+            if (type === 'quiz') {
+                const discStr = (item.disciplines || []).join(' ');
+                const topStr = (item.topics || []).join(' ');
+                const tagStr = (item.tags || []).join(' ');
+                navItem.dataset.tax = `${discStr} ${topStr} ${tagStr}`.toLowerCase();
+            }
+
             navItem.onclick = () => {
                 _selectItem(idx);
             };
@@ -2014,8 +2458,9 @@ document.addEventListener('DOMContentLoaded', async () => {
             const id = item.querySelector('.me-nav-item-id').textContent.toLowerCase();
             const text = item.querySelector('.me-nav-item-text').textContent.toLowerCase();
             const index = item.querySelector('.me-nav-item-num').textContent.toLowerCase();
+            const tax = (item.dataset.tax || '').toLowerCase();
             
-            if (id.includes(query) || text.includes(query) || index.includes(query)) {
+            if (id.includes(query) || text.includes(query) || index.includes(query) || tax.includes(query)) {
                 item.style.display = 'flex';
             } else {
                 item.style.display = 'none';
