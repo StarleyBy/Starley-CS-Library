@@ -569,37 +569,32 @@ function autoClassifyQuestionDisciplines(q) {
 }
 
 function autoClassifyQuestionTopics(q) {
-    if (!q) return ['aortic_valve'];
+    if (!q) return [];
     const text = ((q.questionEn || '') + ' ' + (q.questionRu || '') + ' ' + (q.explanationEn || '') + ' ' + (q.explanationRu || '') + ' ' + (q.topic || '')).toLowerCase();
 
-    if (text.includes('aortic valve') || text.includes('аортальн') || text.includes('tavi') || text.includes('тави') || text.includes('ross') || text.includes('росс')) return ['aortic_valve'];
-    if (text.includes('mitral') || text.includes('митральн')) return ['mitral_valve'];
-    if (text.includes('tricuspid') || text.includes('трикуспид') || text.includes('pulmonary valve')) return ['tricuspid_pulmonary'];
-    if (text.includes('cabg') || text.includes('шунтирован') || text.includes('ибс') || text.includes('coronary artery')) return ['cad_cabg'];
-    if (text.includes('dissection') || text.includes('диссекц') || text.includes('aneurysm') || text.includes('аневризм')) return ['aorta_thoracic'];
-    if (text.includes('marfan') || text.includes('марфан') || text.includes('connective tissue')) return ['marfan_connective'];
-    if (text.includes('endocarditis') || text.includes('эндокардит')) return ['endocarditis'];
-    if (text.includes('lvad') || text.includes('трансплантац') || text.includes('heart failure')) return ['heart_failure_lvad'];
-    if (text.includes('fallot') || text.includes('фалло')) return ['tof_fallot'];
-    if (text.includes('tga') || text.includes('транспозиц') || text.includes('жатене')) return ['tga_transposition'];
-    if (text.includes('fontan') || text.includes('фонтен') || text.includes('единствен')) return ['single_ventricle'];
-    if (text.includes('vsd') || text.includes('asd') || text.includes('дмжп') || text.includes('дмпп')) return ['chd_shunts'];
-    if (text.includes('coarctation') || text.includes('коарктац')) return ['chd_obstructive'];
-    if (text.includes('lung cancer') || text.includes('рак легк') || text.includes('узел')) return ['lung_cancer_nodule'];
-    if (text.includes('lobectomy') || text.includes('лобэктоми') || text.includes('резекц')) return ['pulmonary_resection'];
-    if (text.includes('pneumothorax') || text.includes('пневмоторакс') || text.includes('плевра')) return ['pleura_pneumothorax'];
-    if (text.includes('esophag') || text.includes('пищевод')) return ['esophageal_surgery'];
-    if (text.includes('ecmo') || text.includes('экмо')) return ['ecmo_mcs'];
-    if (text.includes('ards') || text.includes('ордс') || text.includes('ивл')) return ['respiratory_ards'];
-    if (text.includes('carotid') || text.includes('сонн')) return ['carotid_disease'];
+    const matched = [];
+    if (text.includes('aortic valve') || text.includes('аортальн') || text.includes('tavi') || text.includes('тави') || text.includes('ross') || text.includes('росс')) matched.push('aortic_valve');
+    if (text.includes('mitral') || text.includes('митральн')) matched.push('mitral_valve');
+    if (text.includes('tricuspid') || text.includes('трикуспид') || text.includes('pulmonary valve')) matched.push('tricuspid_pulmonary');
+    if (text.includes('cabg') || text.includes('шунтирован') || text.includes('ибс') || text.includes('coronary artery')) matched.push('cad_cabg');
+    if (text.includes('dissection') || text.includes('диссекц') || text.includes('aneurysm') || text.includes('аневризм')) matched.push('aorta_thoracic');
+    if (text.includes('marfan') || text.includes('марфан') || text.includes('connective tissue')) matched.push('marfan_connective');
+    if (text.includes('endocarditis') || text.includes('эндокардит')) matched.push('endocarditis');
+    if (text.includes('lvad') || text.includes('трансплантац') || text.includes('heart failure')) matched.push('heart_failure_lvad');
+    if (text.includes('fallot') || text.includes('фалло')) matched.push('tof_fallot');
+    if (text.includes('tga') || text.includes('транспозиц') || text.includes('жатене')) matched.push('tga_transposition');
+    if (text.includes('fontan') || text.includes('фонтен') || text.includes('единствен')) matched.push('single_ventricle');
+    if (text.includes('vsd') || text.includes('asd') || text.includes('дмжп') || text.includes('дмпп')) matched.push('chd_shunts');
+    if (text.includes('coarctation') || text.includes('коарктац')) matched.push('chd_obstructive');
+    if (text.includes('lung cancer') || text.includes('рак легк') || text.includes('узел')) matched.push('lung_cancer_nodule');
+    if (text.includes('lobectomy') || text.includes('лобэктоми') || text.includes('резекц')) matched.push('pulmonary_resection');
+    if (text.includes('pneumothorax') || text.includes('пневмоторакс') || text.includes('плевра')) matched.push('pleura_pneumothorax');
+    if (text.includes('esophag') || text.includes('пищевод')) matched.push('esophageal_surgery');
+    if (text.includes('ecmo') || text.includes('экмо')) matched.push('ecmo_mcs');
+    if (text.includes('ards') || text.includes('ордс') || text.includes('ивл')) matched.push('respiratory_ards');
+    if (text.includes('carotid') || text.includes('сонн')) matched.push('carotid_disease');
 
-    const disc = autoClassifyQuestionDisciplines(q)[0];
-    if (disc === 'congenital') return ['chd_shunts'];
-    if (disc === 'thoracic') return ['lung_cancer_nodule'];
-    if (disc === 'icu_critical') return ['cpb_hemostasis'];
-    if (disc === 'vascular') return ['carotid_disease'];
-    if (disc === 'cardiology_imaging') return ['echo_hemodynamics'];
-    return ['aortic_valve'];
+    return matched;
 }
 
 function getQuestionDisciplines(q) {
@@ -619,6 +614,23 @@ function getQuestionTopics(q) {
     if (q.topic) {
         const tId = q.topic.toLowerCase().replace(/[^a-z0-9]/g, '_');
         return [tId];
+    }
+    if (Array.isArray(q.tags) && q.tags.length > 0 && state.taxonomy && Array.isArray(state.taxonomy.tags)) {
+        const resolved = new Set();
+        q.tags.forEach(tTag => {
+            const clean = String(tTag).toLowerCase().trim();
+            const foundTag = state.taxonomy.tags.find(t => 
+                t.id === clean || 
+                (t.nameRu && t.nameRu.toLowerCase() === clean) || 
+                (t.nameEn && t.nameEn.toLowerCase() === clean)
+            );
+            if (foundTag && Array.isArray(foundTag.topicIds)) {
+                foundTag.topicIds.forEach(topId => resolved.add(topId));
+            }
+        });
+        if (resolved.size > 0) {
+            return Array.from(resolved);
+        }
     }
     return autoClassifyQuestionTopics(q);
 }

@@ -398,12 +398,31 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // --- Medical Taxonomy System ---
 
+    function _populateTagsDatalist() {
+        let dl = document.getElementById('me-taxonomy-tags-datalist');
+        if (!dl) {
+            dl = document.createElement('datalist');
+            dl.id = 'me-taxonomy-tags-datalist';
+            document.body.appendChild(dl);
+        }
+        dl.innerHTML = '';
+        if (state.taxonomy && Array.isArray(state.taxonomy.tags)) {
+            state.taxonomy.tags.forEach(t => {
+                const opt = document.createElement('option');
+                opt.value = t.id;
+                opt.label = `${t.nameRu} / ${t.nameEn} [${t.category || ''}]`;
+                dl.appendChild(opt);
+            });
+        }
+    }
+
     async function _loadTaxonomy() {
         try {
             const res = await fetch('./quiz/quiz-taxonomy.json?v=' + Date.now());
             if (res.ok) {
                 state.taxonomy = await res.json();
-                console.log('[Taxonomy] Loaded successfully from quiz/quiz-taxonomy.json');
+                console.log('[Taxonomy] Loaded successfully from quiz/quiz-taxonomy.json, total topics:', (state.taxonomy.topics || []).length);
+                _populateTagsDatalist();
                 return;
             }
         } catch (e) {
@@ -616,7 +635,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         select.className = 'me-chip-picker-select me-discipline-picker-select';
 
         const updateSelectOptions = () => {
-            select.innerHTML = '<option value="">+ Выбрать дисциплину из справочника...</option>';
+            select.innerHTML = '<option value="">+ Выбрать дисциплину из справочника (34 доступно)...</option>';
             _getTaxonomyDisciplines().forEach(d => {
                 if (!item.disciplines.includes(d.id)) {
                     const opt = document.createElement('option');
@@ -640,6 +659,12 @@ document.addEventListener('DOMContentLoaded', async () => {
             }
             select.value = '';
         };
+
+        // Listen for discipline updates triggered by topic selection
+        group.addEventListener('me-discipline-sync', () => {
+            renderChips();
+            updateSelectOptions();
+        });
 
         const btnNewDisc = document.createElement('button');
         btnNewDisc.type = 'button';
@@ -667,18 +692,93 @@ document.addEventListener('DOMContentLoaded', async () => {
         return group;
     }
 
-    function _populateTopicSelect(selectEl, item) {
-        selectEl.innerHTML = '<option value="">+ Выбрать тему из справочника...</option>';
-        const availableTopics = _getTaxonomyTopics(item.disciplines);
-        availableTopics.forEach(t => {
-            const isAssigned = (item.topics || []).includes(t.id) || (item.topics || []).includes(t.nameRu);
-            if (!isAssigned) {
+    function _populateTopicSelect(selectEl, item, filterText = '') {
+        const query = (filterText || '').toLowerCase().trim();
+        const allTopics = (state.taxonomy && Array.isArray(state.taxonomy.topics)) ? state.taxonomy.topics : [];
+        const allDisciplines = _getTaxonomyDisciplines();
+        const discMap = {};
+        allDisciplines.forEach(d => { discMap[d.id] = d; });
+
+        const assignedTopics = new Set(item.topics || []);
+        let available = allTopics.filter(t => !assignedTopics.has(t.id) && !assignedTopics.has(t.nameRu));
+
+        if (query) {
+            available = available.filter(t => 
+                (t.id && t.id.toLowerCase().includes(query)) ||
+                (t.nameRu && t.nameRu.toLowerCase().includes(query)) ||
+                (t.nameEn && t.nameEn.toLowerCase().includes(query))
+            );
+        }
+
+        selectEl.innerHTML = '';
+        const defaultOpt = document.createElement('option');
+        defaultOpt.value = '';
+        if (query) {
+            defaultOpt.textContent = `🔍 Найдено тем: ${available.length} (выберите для добавления)...`;
+        } else {
+            defaultOpt.textContent = `+ Выбрать тему (${available.length} доступно из всех 34 дисциплин)...`;
+        }
+        selectEl.appendChild(defaultOpt);
+
+        if (available.length === 0) {
+            const noOpt = document.createElement('option');
+            noOpt.disabled = true;
+            noOpt.textContent = 'Ничего не найдено (попробуйте другой поисковый запрос)';
+            selectEl.appendChild(noOpt);
+            return;
+        }
+
+        const activeDiscIds = new Set(item.disciplines || []);
+        const groupedByDisc = {};
+        available.forEach(t => {
+            const dId = t.disciplineId || 'other';
+            if (!groupedByDisc[dId]) groupedByDisc[dId] = [];
+            groupedByDisc[dId].push(t);
+        });
+
+        // 1. First add optgroups for active disciplines at the top
+        activeDiscIds.forEach(dId => {
+            if (groupedByDisc[dId] && groupedByDisc[dId].length > 0) {
+                const disc = discMap[dId] || { icon: '🏷️', nameRu: dId };
+                const optgroup = document.createElement('optgroup');
+                optgroup.label = `⭐ ${disc.icon || '🏷️'} ${disc.nameRu} (текущая дисциплина)`;
+                groupedByDisc[dId].forEach(t => {
+                    const opt = document.createElement('option');
+                    opt.value = t.id || t.nameRu;
+                    opt.textContent = `${t.nameRu} (${t.nameEn || ''})`;
+                    optgroup.appendChild(opt);
+                });
+                selectEl.appendChild(optgroup);
+            }
+        });
+
+        // 2. Next add optgroups for all other disciplines
+        allDisciplines.forEach(disc => {
+            if (!activeDiscIds.has(disc.id) && groupedByDisc[disc.id] && groupedByDisc[disc.id].length > 0) {
+                const optgroup = document.createElement('optgroup');
+                optgroup.label = `${disc.icon || '🏷️'} ${disc.nameRu} ${disc.nameEn ? '(' + disc.nameEn + ')' : ''}`;
+                groupedByDisc[disc.id].forEach(t => {
+                    const opt = document.createElement('option');
+                    opt.value = t.id || t.nameRu;
+                    opt.textContent = `${t.nameRu} (${t.nameEn || ''})`;
+                    optgroup.appendChild(opt);
+                });
+                selectEl.appendChild(optgroup);
+            }
+        });
+
+        // 3. Fallback for unmapped topics
+        if (groupedByDisc['other'] && groupedByDisc['other'].length > 0) {
+            const optgroup = document.createElement('optgroup');
+            optgroup.label = `Другие темы`;
+            groupedByDisc['other'].forEach(t => {
                 const opt = document.createElement('option');
                 opt.value = t.id || t.nameRu;
                 opt.textContent = `${t.nameRu} (${t.nameEn || ''})`;
-                selectEl.appendChild(opt);
-            }
-        });
+                optgroup.appendChild(opt);
+            });
+            selectEl.appendChild(optgroup);
+        }
     }
 
     function _createTaxonomyTopicPicker(item) {
@@ -690,16 +790,22 @@ document.addEventListener('DOMContentLoaded', async () => {
         group.className = 'me-field-group me-item-full-width me-taxonomy-group';
 
         const label = document.createElement('label');
-        label.innerHTML = `📚 Тема / Рубрика (Topic) <span style="font-size:0.75rem; color:var(--me-text-muted); font-weight:normal;">(мультивыбор)</span>`;
+        label.innerHTML = `📚 Тема / Рубрика (Topic) <span style="font-size:0.75rem; color:var(--me-text-muted); font-weight:normal;">(мультивыбор по всей базе 140 тем)</span>`;
         group.appendChild(label);
 
         const chipsWrap = document.createElement('div');
         chipsWrap.className = 'me-chips-wrapper';
 
+        const searchInput = document.createElement('input');
+        searchInput.type = 'text';
+        searchInput.className = 'me-input me-topic-search-input';
+        searchInput.placeholder = '🔍 Поиск темы (например: эхо, шунт, протез, катетер, TAVI)... Нажмите Enter для выбора';
+        searchInput.style.cssText = 'width: 100%; margin-bottom: 6px; font-size: 0.8rem; padding: 6px 10px; background: rgba(0,0,0,0.25); border: 1px solid var(--me-border); border-radius: 6px; color: var(--me-text);';
+
         const renderChips = () => {
             chipsWrap.innerHTML = '';
             if (item.topics.length === 0) {
-                chipsWrap.innerHTML = '<span class="me-chip-empty-placeholder">Темы не назначены (добавьте из списка ниже)</span>';
+                chipsWrap.innerHTML = '<span class="me-chip-empty-placeholder">Темы не назначены (добавьте из списка или поиска ниже)</span>';
             } else {
                 item.topics.forEach((tId, tIdx) => {
                     const allTopics = (state.taxonomy && Array.isArray(state.taxonomy.topics)) ? state.taxonomy.topics : [];
@@ -717,7 +823,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                         item.topics.splice(tIdx, 1);
                         _syncFormToJson();
                         renderChips();
-                        _populateTopicSelect(select, item);
+                        _populateTopicSelect(select, item, searchInput.value);
                     };
                     chip.appendChild(btnRem);
                     chipsWrap.appendChild(chip);
@@ -726,6 +832,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         };
         renderChips();
         group.appendChild(chipsWrap);
+        group.appendChild(searchInput);
 
         const pickerRow = document.createElement('div');
         pickerRow.className = 'me-chip-picker-row';
@@ -734,13 +841,47 @@ document.addEventListener('DOMContentLoaded', async () => {
         select.className = 'me-chip-picker-select me-topic-picker-select';
         _populateTopicSelect(select, item);
 
+        searchInput.oninput = () => {
+            _populateTopicSelect(select, item, searchInput.value);
+        };
+        searchInput.onkeydown = (e) => {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                const firstOption = select.querySelector('option[value]:not([value=""])');
+                if (firstOption && firstOption.value) {
+                    select.value = firstOption.value;
+                    select.dispatchEvent(new Event('change'));
+                    searchInput.value = '';
+                    _populateTopicSelect(select, item, '');
+                }
+            }
+        };
+
         select.onchange = (e) => {
             const val = e.target.value;
             if (val && !item.topics.includes(val)) {
                 item.topics.push(val);
+
+                // Auto-sync parent discipline of this topic if not already in item.disciplines
+                const allTopics = (state.taxonomy && Array.isArray(state.taxonomy.topics)) ? state.taxonomy.topics : [];
+                const matched = allTopics.find(t => t.id === val || t.nameRu === val);
+                if (matched && matched.disciplineId) {
+                    if (!Array.isArray(item.disciplines)) item.disciplines = [];
+                    if (!item.disciplines.includes(matched.disciplineId)) {
+                        item.disciplines.push(matched.disciplineId);
+                        if (group.parentElement) {
+                            const discSelect = group.parentElement.querySelector('.me-discipline-picker-select');
+                            if (discSelect) {
+                                const discGroup = discSelect.closest('.me-taxonomy-group');
+                                if (discGroup) discGroup.dispatchEvent(new CustomEvent('me-discipline-sync'));
+                            }
+                        }
+                    }
+                }
+
                 _syncFormToJson();
                 renderChips();
-                _populateTopicSelect(select, item);
+                _populateTopicSelect(select, item, searchInput.value);
             }
             select.value = '';
         };
@@ -761,7 +902,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             if (!item.topics.includes(newId)) item.topics.push(newId);
             _syncFormToJson();
             renderChips();
-            _populateTopicSelect(select, item);
+            _populateTopicSelect(select, item, searchInput.value);
         };
 
         pickerRow.appendChild(select);
@@ -1657,12 +1798,18 @@ document.addEventListener('DOMContentLoaded', async () => {
             _syncFormToJson();
         }, 'select', ['Easy', 'Medium', 'Hard']));
 
-        // 4. Free Tags
+        // 4. Free Tags with autocomplete from 2448 taxonomy tags
         const initialTags = Array.isArray(item.tags) ? item.tags.join(', ') : (item.tags || '');
-        container.appendChild(_createFieldGroup('Тэги (через запятую) / Tags', initialTags, (v) => {
+        const tagsField = _createFieldGroup('🏷️ Теги (Tags) • подсказки из 2448 понятий таксономии', initialTags, (v) => {
             item.tags = v.split(',').map(t => t.trim()).filter(Boolean);
             _syncFormToJson();
-        }));
+        });
+        const tagsInput = tagsField.querySelector('input');
+        if (tagsInput) {
+            tagsInput.setAttribute('list', 'me-taxonomy-tags-datalist');
+            tagsInput.setAttribute('placeholder', 'Начните ввод тега (например: aortic_stenosis, cabg, ecmo, tavi)...');
+        }
+        container.appendChild(tagsField);
 
         // Question Images (comma separated)
         const qImagesGroup = document.createElement('div');
