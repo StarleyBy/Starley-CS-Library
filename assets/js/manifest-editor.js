@@ -68,6 +68,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         taxonomyModalClose: document.getElementById('me-taxonomy-modal-close'),
         taxonomyModalBody: document.getElementById('me-taxonomy-modal-body'),
         btnSaveTaxonomy: document.getElementById('me-btn-save-taxonomy'),
+        btnGithubTaxonomy: document.getElementById('me-btn-github-taxonomy'),
         btnCloseTaxonomy: document.getElementById('me-btn-close-taxonomy')
     };
 
@@ -421,6 +422,33 @@ document.addEventListener('DOMContentLoaded', async () => {
             const res = await fetch('./quiz/quiz-taxonomy.json?v=' + Date.now());
             if (res.ok) {
                 state.taxonomy = await res.json();
+
+                // Merge any offline drafts added by user that have not yet been committed
+                try {
+                    const localDraftStr = localStorage.getItem('starley_taxonomy_draft');
+                    if (localDraftStr) {
+                        const localDraft = JSON.parse(localDraftStr);
+                        if (localDraft && Array.isArray(localDraft.topics)) {
+                            const existingTopicIds = new Set((state.taxonomy.topics || []).map(t => t.id));
+                            localDraft.topics.forEach(lt => {
+                                if (!existingTopicIds.has(lt.id)) {
+                                    state.taxonomy.topics.push(lt);
+                                    existingTopicIds.add(lt.id);
+                                }
+                            });
+                        }
+                        if (localDraft && Array.isArray(localDraft.disciplines)) {
+                            const existingDiscIds = new Set((state.taxonomy.disciplines || []).map(d => d.id));
+                            localDraft.disciplines.forEach(ld => {
+                                if (!existingDiscIds.has(ld.id)) {
+                                    state.taxonomy.disciplines.push(ld);
+                                    existingDiscIds.add(ld.id);
+                                }
+                            });
+                        }
+                    }
+                } catch(e) {}
+
                 console.log('[Taxonomy] Loaded successfully from quiz/quiz-taxonomy.json, total topics:', (state.taxonomy.topics || []).length);
                 _populateTagsDatalist();
                 return;
@@ -570,6 +598,11 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     function _downloadTaxonomyJson() {
         if (!state.taxonomy) return;
+        if (state.taxonomy.meta) {
+            state.taxonomy.meta.totalDisciplines = (state.taxonomy.disciplines || []).length;
+            state.taxonomy.meta.totalTopics = (state.taxonomy.topics || []).length;
+            state.taxonomy.meta.updatedAt = new Date().toISOString();
+        }
         const blob = new Blob([JSON.stringify(state.taxonomy, null, 2)], { type: 'application/json' });
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
@@ -579,6 +612,72 @@ document.addEventListener('DOMContentLoaded', async () => {
         a.click();
         document.body.removeChild(a);
         URL.revokeObjectURL(url);
+    }
+
+    async function _saveTaxonomyToGithub() {
+        const token = localStorage.getItem('gh_token') || (els.githubToken ? els.githubToken.value.trim() : '');
+        if (!token) {
+            alert('Для сохранения в GitHub укажите GitHub Token (кнопка "GitHub" в верхней панели редактора).');
+            return;
+        }
+
+        const btn = els.btnGithubTaxonomy;
+        if (btn) {
+            btn.disabled = true;
+            btn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Сохранение в GitHub...';
+        }
+
+        try {
+            const owner = 'StarleyBy';
+            const repo = 'Starley-CS-Library';
+            const filePath = 'quiz/quiz-taxonomy.json';
+            const url = `https://api.github.com/repos/${owner}/${repo}/contents/${filePath}`;
+            const headers = { 'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3+json' };
+
+            const getRes = await fetch(url, { headers });
+            let sha = null;
+            if (getRes.ok) {
+                const data = await getRes.json();
+                sha = data.sha;
+            }
+
+            // Sync metadata
+            if (state.taxonomy && state.taxonomy.meta) {
+                state.taxonomy.meta.totalDisciplines = (state.taxonomy.disciplines || []).length;
+                state.taxonomy.meta.totalTopics = (state.taxonomy.topics || []).length;
+                state.taxonomy.meta.updatedAt = new Date().toISOString();
+            }
+
+            const jsonStr = JSON.stringify(state.taxonomy, null, 2);
+            const body = {
+                message: `Update taxonomy: ${state.taxonomy.disciplines.length} disciplines, ${state.taxonomy.topics.length} topics`,
+                content: btoa(unescape(encodeURIComponent(jsonStr))),
+                sha: sha
+            };
+
+            const putRes = await fetch(url, {
+                method: 'PUT',
+                headers,
+                body: JSON.stringify(body)
+            });
+
+            if (putRes.ok) {
+                alert('✅ quiz-taxonomy.json успешно сохранен в репозиторий GitHub!');
+                try {
+                    localStorage.removeItem('starley_taxonomy_draft');
+                } catch(e) {}
+            } else {
+                const err = await putRes.json();
+                alert(`❌ Ошибка сохранения в GitHub: ${err.message || putRes.statusText}`);
+            }
+        } catch (e) {
+            alert(`❌ Ошибка сети при обращении к GitHub: ${e.message}`);
+        } finally {
+            if (btn) {
+                btn.disabled = false;
+                btn.innerHTML = '<i class="fab fa-github"></i> Сохранить в GitHub';
+            }
+        }
     }
 
     function _createTaxonomyDisciplinePicker(item) {
@@ -679,10 +778,18 @@ document.addEventListener('DOMContentLoaded', async () => {
 
             if (!state.taxonomy.disciplines) state.taxonomy.disciplines = [];
             state.taxonomy.disciplines.push({ id: newId, nameRu: ru.trim(), nameEn: en.trim(), icon });
+            if (state.taxonomy.meta) {
+                state.taxonomy.meta.totalDisciplines = state.taxonomy.disciplines.length;
+                state.taxonomy.meta.updatedAt = new Date().toISOString();
+            }
+            try {
+                localStorage.setItem('starley_taxonomy_draft', JSON.stringify(state.taxonomy));
+            } catch(e) {}
             if (!item.disciplines.includes(newId)) item.disciplines.push(newId);
             _syncFormToJson();
             renderChips();
             updateSelectOptions();
+            alert(`✅ Новая дисциплина «${ru.trim()}» добавлена к вопросу!\n\n💡 Не забудьте сохранить обновленный справочник через вкладку «Taxonomy» (скачать файл или сохранить в GitHub).`);
         };
 
         pickerRow.appendChild(select);
@@ -899,10 +1006,18 @@ document.addEventListener('DOMContentLoaded', async () => {
 
             if (!state.taxonomy.topics) state.taxonomy.topics = [];
             state.taxonomy.topics.push({ id: newId, disciplineId: parentDiscipline, nameRu: ru.trim(), nameEn: en.trim() });
+            if (state.taxonomy.meta) {
+                state.taxonomy.meta.totalTopics = state.taxonomy.topics.length;
+                state.taxonomy.meta.updatedAt = new Date().toISOString();
+            }
+            try {
+                localStorage.setItem('starley_taxonomy_draft', JSON.stringify(state.taxonomy));
+            } catch(e) {}
             if (!item.topics.includes(newId)) item.topics.push(newId);
             _syncFormToJson();
             renderChips();
             _populateTopicSelect(select, item, searchInput.value);
+            alert(`✅ Новая тема «${ru.trim()}» добавлена к вопросу!\n\n💡 Не забудьте сохранить обновленный справочник через вкладку «Taxonomy» (скачать файл или сохранить в GitHub).`);
         };
 
         pickerRow.appendChild(select);
@@ -1002,6 +1117,9 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
         if (els.btnSaveTaxonomy) {
             els.btnSaveTaxonomy.addEventListener('click', _downloadTaxonomyJson);
+        }
+        if (els.btnGithubTaxonomy) {
+            els.btnGithubTaxonomy.addEventListener('click', _saveTaxonomyToGithub);
         }
 
         if (els.btnSyncR2) {
