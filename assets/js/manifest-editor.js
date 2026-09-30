@@ -491,12 +491,14 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (!els.taxonomyModalBody) return;
         const disciplines = _getTaxonomyDisciplines();
         const allTopics = (state.taxonomy && Array.isArray(state.taxonomy.topics)) ? state.taxonomy.topics : [];
+        const allTags = (state.taxonomy && Array.isArray(state.taxonomy.tags)) ? state.taxonomy.tags : [];
 
         let html = `
-            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px; background:rgba(255,255,255,0.04); padding:10px 14px; border-radius:8px;">
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px; background:rgba(255,255,255,0.04); padding:10px 14px; border-radius:8px; flex-wrap:wrap; gap:10px;">
                 <div style="font-size:0.85rem;">
                     <span>Дисциплин: <strong style="color:#58a6ff;">${disciplines.length}</strong></span> • 
-                    <span>Тем: <strong style="color:#3fb950;">${allTopics.length}</strong></span>
+                    <span>Тем: <strong style="color:#3fb950;">${allTopics.length}</strong></span> • 
+                    <span>Тегов: <strong style="color:#d29922;">${allTags.length}</strong></span>
                 </div>
                 <div style="display:flex; gap:8px;">
                     <button type="button" id="me-btn-modal-add-disc" class="me-btn me-btn-blue me-btn-sm" style="font-size:0.75rem;">
@@ -504,6 +506,9 @@ document.addEventListener('DOMContentLoaded', async () => {
                     </button>
                     <button type="button" id="me-btn-modal-add-top" class="me-btn me-btn-green me-btn-sm" style="font-size:0.75rem;">
                         <i class="fas fa-plus"></i> Новая тема
+                    </button>
+                    <button type="button" id="me-btn-modal-add-tag" class="me-btn me-btn-sm" style="font-size:0.75rem; background:rgba(210,153,34,0.15); color:#d29922; border:1px solid rgba(210,153,34,0.4); font-weight:700;">
+                        <i class="fas fa-plus"></i> Новый тег
                     </button>
                 </div>
             </div>
@@ -594,6 +599,76 @@ document.addEventListener('DOMContentLoaded', async () => {
                 _renderForm();
             };
         }
+
+        const btnAddTag = document.getElementById('me-btn-modal-add-tag');
+        if (btnAddTag) {
+            btnAddTag.onclick = () => {
+                _promptRegisterTaxonomyTag();
+                _renderTaxonomyModal();
+            };
+        }
+    }
+
+    function _promptRegisterTaxonomyTag(item = null, tagsInput = null) {
+        const ru = prompt('Введите название тега (RU) [например: Операция Дэвида (David)]:\n(или отмена):');
+        if (!ru || !ru.trim()) return;
+        const en = prompt('Введите название тега (EN) [например: David procedure (VSRR)]:', ru.trim()) || ru.trim();
+
+        const catPrompt = 'Выберите номер категории тега:\n1. disease (Заболевание, синдром)\n2. procedure (Операция, вмешательство)\n3. anatomy (Анатомия)\n4. complication (Осложнение)\n5. drug (Препарат, фармакотерапия)\n6. device (Устройство, имплант, материал)\n7. diagnostic (Диагностический признак, метод)\n8. score (Шкала риска)\n9. trial (Клиническое исследование)\n10. technique (Хирургическая техника)';
+        const catChoice = prompt(catPrompt, '2');
+        const catMap = {
+            '1': 'disease', '2': 'procedure', '3': 'anatomy', '4': 'complication',
+            '5': 'drug', '6': 'device', '7': 'diagnostic', '8': 'score',
+            '9': 'trial', '10': 'technique'
+        };
+        const category = catMap[catChoice] || (catChoice && catChoice.trim() ? catChoice.trim() : 'procedure');
+
+        let rawId = en.toLowerCase().replace(/[^a-z0-9]/g, '_').replace(/_+/g, '_').replace(/^_|_$/g, '');
+        if (!rawId) {
+            rawId = ru.toLowerCase().replace(/[^a-z0-9а-яё]/gi, '_').replace(/_+/g, '_').replace(/^_|_$/g, '');
+        }
+        const tagId = prompt('Идентификатор тега (ID):', rawId) || rawId;
+
+        if (!state.taxonomy.tags) state.taxonomy.tags = [];
+        const existingIdx = state.taxonomy.tags.findIndex(t => t.id === tagId);
+
+        const activeTopicIds = (item && Array.isArray(item.topics)) ? [...item.topics] : [];
+        const tagObj = {
+            id: tagId,
+            nameRu: ru.trim(),
+            nameEn: en.trim(),
+            category: category,
+            topicIds: activeTopicIds
+        };
+
+        if (existingIdx >= 0) {
+            state.taxonomy.tags[existingIdx] = tagObj;
+        } else {
+            state.taxonomy.tags.push(tagObj);
+        }
+
+        if (state.taxonomy.meta) {
+            state.taxonomy.meta.totalTags = state.taxonomy.tags.length;
+            state.taxonomy.meta.updatedAt = new Date().toISOString();
+        }
+
+        _populateTagsDatalist();
+
+        // If called from a question field, attach tag to current item
+        if (item) {
+            if (!Array.isArray(item.tags)) item.tags = [];
+            if (!item.tags.includes(tagId)) item.tags.push(tagId);
+            if (tagsInput) {
+                tagsInput.value = item.tags.join(', ');
+            }
+            _syncFormToJson();
+        }
+
+        try {
+            localStorage.setItem('starley_taxonomy_draft', JSON.stringify(state.taxonomy));
+        } catch(e) {}
+
+        alert(`✅ Тег «${ru.trim()}» (id: ${tagId}, категория: ${category}) успешно добавлен в таксономию!\n\n💡 Не забудьте сохранить справочник через вкладку «Taxonomy» -> «Сохранить в GitHub».`);
     }
 
     function _downloadTaxonomyJson() {
@@ -1918,7 +1993,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         // 4. Free Tags with autocomplete from 2448 taxonomy tags
         const initialTags = Array.isArray(item.tags) ? item.tags.join(', ') : (item.tags || '');
-        const tagsField = _createFieldGroup('🏷️ Теги (Tags) • подсказки из 2448 понятий таксономии', initialTags, (v) => {
+        const tagsField = _createFieldGroup('🏷️ Теги (Tags) • подсказки из базы таксономии', initialTags, (v) => {
             item.tags = v.split(',').map(t => t.trim()).filter(Boolean);
             _syncFormToJson();
         });
@@ -1928,6 +2003,19 @@ document.addEventListener('DOMContentLoaded', async () => {
             tagsInput.setAttribute('placeholder', 'Начните ввод тега (например: aortic_stenosis, cabg, ecmo, tavi)...');
         }
         container.appendChild(tagsField);
+
+        const tagAddRow = document.createElement('div');
+        tagAddRow.style.cssText = 'display:flex; justify-content:flex-end; margin-top:-6px; margin-bottom:12px;';
+        const btnRegisterTag = document.createElement('button');
+        btnRegisterTag.type = 'button';
+        btnRegisterTag.className = 'me-btn me-btn-outline me-btn-sm';
+        btnRegisterTag.style.cssText = 'font-size:0.75rem; padding:3px 10px; display:inline-flex; align-items:center; gap:6px; color:#58a6ff; border-color:rgba(88,166,255,0.4);';
+        btnRegisterTag.innerHTML = '<i class="fas fa-plus-circle"></i> + Зарегистрировать новый тег в таксономию...';
+        btnRegisterTag.onclick = () => {
+            _promptRegisterTaxonomyTag(item, tagsInput);
+        };
+        tagAddRow.appendChild(btnRegisterTag);
+        container.appendChild(tagAddRow);
 
         // Question Images (comma separated)
         const qImagesGroup = document.createElement('div');
