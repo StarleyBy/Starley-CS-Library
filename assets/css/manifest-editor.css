@@ -643,78 +643,41 @@ body.me-is-resizing .CodeMirror {
     .me-preview-pane { width: 320px; }
 }
 
-/* Real-time Syntax Highlighting Textareas */
-.me-textarea-wrapper {
-    position: relative;
+/* Form Textareas & Toolbars */
+.me-field-group textarea,
+.me-textarea {
+    display: block;
     width: 100%;
+    min-height: 85px;
+    background: var(--me-input-bg, #3c3c3c);
+    color: var(--me-text-light, #eee);
+    font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+    font-size: 0.88rem;
+    line-height: 1.5;
+    padding: 8px 10px;
+    border: 1px solid var(--me-input-border, #555);
+    border-radius: 4px;
+    box-sizing: border-box;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    word-break: normal;
+    resize: vertical;
+    caret-color: #fff;
+    transition: border-color 0.2s, box-shadow 0.2s;
 }
 
-.me-textarea-backdrop, .me-textarea-wrapper textarea {
-    font-family: 'Consolas', 'Monaco', 'Courier New', monospace !important;
-    font-size: 0.85rem !important;
-    line-height: 1.5 !important;
-    padding: 8px 10px !important;
-    border-width: 1px !important;
-    border-style: solid !important;
-    box-sizing: border-box !important;
-    white-space: pre-wrap !important;
-    word-wrap: break-word !important;
-    word-break: break-all !important;
-    margin: 0 !important;
+.me-field-group textarea:focus,
+.me-textarea:focus {
+    outline: none;
+    border-color: var(--me-accent-blue, #3498db);
+    box-shadow: 0 0 0 1px var(--me-accent-blue, #3498db);
 }
 
-.me-textarea-backdrop {
-    position: absolute !important;
-    top: 0 !important;
-    left: 0 !important;
-    right: 0 !important;
-    bottom: 0 !important;
-    width: 100%;
-    height: 100%;
-    color: #eee !important;
-    background-color: var(--me-input-bg, #3c3c3c) !important;
-    border-color: transparent !important;
-    pointer-events: none !important;
-    overflow-y: auto !important;
-    overflow-x: hidden !important;
-}
-
-/* Hide scrollbar in backdrop to ensure perfect scrolling sync */
-.me-textarea-backdrop::-webkit-scrollbar {
-    display: none !important;
-}
-.me-textarea-backdrop {
-    -ms-overflow-style: none !important;
-    scrollbar-width: none !important;
-}
-
-.me-textarea-wrapper textarea {
-    position: relative !important;
-    display: block !important;
-    width: 100% !important;
-    min-height: 80px !important;
-    background: transparent !important;
-    color: transparent !important;
-    caret-color: #fff !important;
-    border-color: var(--me-input-border, #555) !important;
-    z-index: 1 !important;
-    resize: vertical !important;
-}
-
-.me-textarea-wrapper textarea:focus {
-    outline: none !important;
-    border-color: var(--me-accent-blue, #3498db) !important;
-}
-
-/* Highlight tags and numbers */
-.hl-tag {
-    color: #ff79c6 !important; /* pink */
-    font-weight: 600 !important;
-}
-
-.hl-number {
-    color: #8be9fd !important; /* cyan for numbers */
-    font-weight: 600 !important;
+.me-field-group textarea::selection,
+.me-textarea::selection,
+.me-field-group input::selection {
+    background: rgba(52, 152, 219, 0.45);
+    color: #ffffff;
 }
 
 /* Toolbars layout and emoji buttons */
@@ -759,8 +722,8 @@ body.me-is-resizing .CodeMirror {
     border-color: var(--me-accent-blue, #3498db);
 }
 
-.me-toolbars-container + .me-textarea-wrapper textarea,
-.me-toolbars-container + .me-textarea-wrapper .me-textarea-backdrop {
+.me-toolbars-container + textarea,
+.me-toolbars-container + .me-textarea {
     border-top-left-radius: 0 !important;
     border-top-right-radius: 0 !important;
 }

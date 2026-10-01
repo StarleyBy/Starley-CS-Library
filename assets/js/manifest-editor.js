@@ -2150,8 +2150,14 @@ document.addEventListener('DOMContentLoaded', async () => {
     function _createItemCard(item, idx) {
         const card = document.createElement('div');
         card.className = `me-item-card ${idx === state.activeItemIndex ? 'active' : ''}`;
-        card.onclick = () => {
-            _selectItem(idx);
+        card.onclick = (e) => {
+            // Ignore clicks originating from interactive form controls
+            if (e.target.closest('input, textarea, select, button, a, .me-chip, .me-chip-remove, .me-toolbar, .me-emoji-toolbar, .me-chip-btn-add, .me-chip-picker-row')) {
+                return;
+            }
+            if (state.activeItemIndex !== idx) {
+                _selectItem(idx, false);
+            }
         };
 
         const header = document.createElement('div');
@@ -2399,7 +2405,15 @@ document.addEventListener('DOMContentLoaded', async () => {
         let el;
 
         if (type === 'textarea') {
-            // --- Textarea with highlight backdrop ---
+            el = document.createElement('textarea');
+            el.rows = 3;
+            el.className = 'me-textarea' + (withToolbar ? ' has-toolbar' : '');
+            el.value = value || '';
+
+            el.addEventListener('input', (e) => {
+                onChange(e.target.value);
+            });
+
             if (withToolbar) {
                 // Toolbar container: row 1 = formatting, row 2 = emojis
                 const toolbarContainer = document.createElement('div');
@@ -2427,17 +2441,19 @@ document.addEventListener('DOMContentLoaded', async () => {
                     { icon: 'fas fa-subscript', tag: 'sub', title: 'Subscript' }
                 ];
 
-                // We need a reference to `el` but it's declared later, so use a closure trick
-                let textareaRef = null;
-
                 tools.forEach(t => {
                     const btn = document.createElement('button');
+                    btn.type = 'button';
                     btn.className = 'me-toolbar-btn';
                     btn.innerHTML = `<i class="${t.icon}" style="${(t.tag === 'span' || t.tag === 'mark') ? t.style : ''}"></i>`;
                     btn.title = t.title;
+                    btn.onmousedown = (e) => {
+                        // Prevent textarea from losing focus/selection when clicking toolbar button!
+                        e.preventDefault();
+                    };
                     btn.onclick = (e) => {
                         e.preventDefault();
-                        if (textareaRef) _insertTag(textareaRef, t.tag, t.style);
+                        _insertTag(el, t.tag, t.style);
                     };
                     toolbar.appendChild(btn);
                 });
@@ -2457,95 +2473,26 @@ document.addEventListener('DOMContentLoaded', async () => {
 
                 emojis.forEach(emoji => {
                     const btn = document.createElement('button');
+                    btn.type = 'button';
                     btn.className = 'me-emoji-btn';
                     btn.textContent = emoji;
                     btn.title = `Insert ${emoji}`;
+                    btn.onmousedown = (e) => {
+                        e.preventDefault(); // Retain textarea focus and exact selection!
+                    };
                     btn.onclick = (e) => {
                         e.preventDefault();
-                        if (textareaRef) _insertEmoji(textareaRef, emoji);
+                        _insertEmoji(el, emoji);
                     };
                     emojiToolbar.appendChild(btn);
                 });
                 toolbarContainer.appendChild(emojiToolbar);
 
                 group.appendChild(toolbarContainer);
-
-                // Now create the wrapper + backdrop + textarea
-                const wrapper = document.createElement('div');
-                wrapper.className = 'me-textarea-wrapper';
-
-                const backdrop = document.createElement('div');
-                backdrop.className = 'me-textarea-backdrop';
-
-                el = document.createElement('textarea');
-                el.rows = 3;
-                el.className = 'has-toolbar';
-
-                // Link the textarea reference so toolbar buttons can use it
-                textareaRef = el;
-
-                wrapper.appendChild(backdrop);
-                wrapper.appendChild(el);
-                group.appendChild(wrapper);
-
-                // Sync backdrop
-                const updateBackdrop = () => {
-                    backdrop.innerHTML = highlightText(el.value) + '\n';
-                    backdrop.scrollTop = el.scrollTop;
-                    backdrop.scrollLeft = el.scrollLeft;
-                };
-
-                el.addEventListener('input', updateBackdrop);
-                el.addEventListener('scroll', () => {
-                    backdrop.scrollTop = el.scrollTop;
-                    backdrop.scrollLeft = el.scrollLeft;
-                });
-
-                el.value = value || '';
-                el.oninput = (e) => {
-                    onChange(e.target.value);
-                    updateBackdrop();
-                };
-
-                setTimeout(updateBackdrop, 0);
-                return group;
-
-            } else {
-                // Textarea without toolbar - still uses wrapper+backdrop for consistency
-                const wrapper = document.createElement('div');
-                wrapper.className = 'me-textarea-wrapper';
-
-                const backdrop = document.createElement('div');
-                backdrop.className = 'me-textarea-backdrop';
-
-                el = document.createElement('textarea');
-                el.rows = 3;
-
-                wrapper.appendChild(backdrop);
-                wrapper.appendChild(el);
-                group.appendChild(wrapper);
-
-                const updateBackdrop = () => {
-                    backdrop.innerHTML = highlightText(el.value) + '\n';
-                    backdrop.scrollTop = el.scrollTop;
-                    backdrop.scrollLeft = el.scrollLeft;
-                };
-
-                el.addEventListener('input', updateBackdrop);
-                el.addEventListener('scroll', () => {
-                    backdrop.scrollTop = el.scrollTop;
-                    backdrop.scrollLeft = el.scrollLeft;
-                });
-
-                el.value = value || '';
-                el.oninput = (e) => {
-                    onChange(e.target.value);
-                    updateBackdrop();
-                };
-
-                setTimeout(updateBackdrop, 0);
-                return group;
             }
+
+            group.appendChild(el);
+            return group;
 
         } else if (type === 'select') {
             el = document.createElement('select');
@@ -2567,39 +2514,12 @@ document.addEventListener('DOMContentLoaded', async () => {
         return group;
     }
 
-    // --- Text Helpers ---
-
-    /**
-     * highlightText(text)
-     * Escapes HTML entities, then wraps:
-     *   - HTML tags (e.g. <b>, <mark style="...">) → .hl-tag (pink)
-     *   - Digit sequences → .hl-number (cyan)
-     */
-    function highlightText(text) {
-        // Step 1: Escape HTML special characters
-        let escaped = text
-            .replace(/&/g, '&amp;')
-            .replace(/</g, '&lt;')
-            .replace(/>/g, '&gt;');
-
-        // Step 2: Highlight escaped tags like &lt;b&gt;, &lt;mark style="..."&gt;
-        escaped = escaped.replace(/(&lt;[^&]*&gt;)/g, '<span class="hl-tag">$1</span>');
-
-        // Step 3: Highlight digit sequences, but only in non-tag parts
-        const parts = escaped.split(/(<[^>]*>)/g);
-        for (let i = 0; i < parts.length; i++) {
-            if (!parts[i].startsWith('<')) {
-                parts[i] = parts[i].replace(/(\d+)/g, '<span class="hl-number">$1</span>');
-            }
-        }
-        return parts.join('');
-    }
-
     /**
      * _insertTag(textarea, tag, style)
      * Wraps selected text in the given HTML tag, preserving cursor position.
      */
     function _insertTag(textarea, tag, style = null) {
+        if (!textarea) return;
         const start = textarea.selectionStart;
         const end = textarea.selectionEnd;
         const text = textarea.value;
@@ -2611,10 +2531,16 @@ document.addEventListener('DOMContentLoaded', async () => {
         textarea.value = text.substring(0, start) + replacement + text.substring(end);
         textarea.dispatchEvent(new Event('input'));
         textarea.focus();
-        textarea.setSelectionRange(
-            start + tag.length + styleAttr.length + 2,
-            start + tag.length + styleAttr.length + 2 + selected.length
-        );
+        
+        if (selected.length > 0) {
+            textarea.setSelectionRange(
+                start + tag.length + styleAttr.length + 2,
+                start + tag.length + styleAttr.length + 2 + selected.length
+            );
+        } else {
+            const insidePos = start + tag.length + styleAttr.length + 2;
+            textarea.setSelectionRange(insidePos, insidePos);
+        }
     }
 
     /**
@@ -2622,6 +2548,7 @@ document.addEventListener('DOMContentLoaded', async () => {
      * Inserts an emoji at the current cursor position.
      */
     function _insertEmoji(textarea, emoji) {
+        if (!textarea) return;
         const start = textarea.selectionStart;
         const end = textarea.selectionEnd;
         const text = textarea.value;
@@ -3143,7 +3070,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
     }
 
-    function _selectItem(index) {
+    function _selectItem(index, shouldScroll = true) {
         if (!state.manifest) return;
         const type = state.currentType;
         let items = [];
@@ -3163,7 +3090,9 @@ document.addEventListener('DOMContentLoaded', async () => {
         document.querySelectorAll('.me-nav-item').forEach(item => {
             if (parseInt(item.dataset.index, 10) === index) {
                 item.classList.add('active');
-                item.scrollIntoView({ block: 'nearest' });
+                if (shouldScroll) {
+                    item.scrollIntoView({ block: 'nearest' });
+                }
             } else {
                 item.classList.remove('active');
             }
@@ -3180,8 +3109,8 @@ document.addEventListener('DOMContentLoaded', async () => {
             document.querySelectorAll('.me-item-card').forEach(c => c.classList.remove('active'));
             cards[index].classList.add('active');
             
-            if (formTabActive) {
-                cards[index].scrollIntoView({ behavior: 'smooth', block: 'center' });
+            if (formTabActive && shouldScroll) {
+                cards[index].scrollIntoView({ behavior: 'smooth', block: 'nearest' });
                 cards[index].classList.remove('me-highlight-pulse');
                 void cards[index].offsetWidth; // trigger reflow
                 cards[index].classList.add('me-highlight-pulse');
@@ -3203,7 +3132,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     { line: range.endLine, ch: endLineCharCount }
                 );
 
-                if (jsonTabActive) {
+                if (jsonTabActive && shouldScroll) {
                     state.jsonEditor.scrollIntoView({ line: range.startLine, ch: 0 }, 200);
                 }
                 setTimeout(() => { state.isProgrammaticSelection = false; }, 100);
@@ -3238,7 +3167,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (cards && cards[index]) {
             document.querySelectorAll('.me-item-card').forEach(c => c.classList.remove('active'));
             cards[index].classList.add('active');
-            cards[index].scrollIntoView({ behavior: 'smooth', block: 'center' });
+            cards[index].scrollIntoView({ behavior: 'smooth', block: 'nearest' });
             
             cards[index].classList.remove('me-highlight-pulse');
             void cards[index].offsetWidth; // trigger reflow
