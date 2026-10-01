@@ -2,10 +2,10 @@
  "meta": {
   "version": "2.0",
   "title": "Starley Clinical Quiz Taxonomy",
-  "updatedAt": "2026-09-30T10:51:04.000Z",
-  "totalDisciplines": 34,
+  "updatedAt": "2026-10-01T10:44:45.000Z",
+  "totalDisciplines": 36,
   "totalTopics": 140,
-  "totalTags": 2448,
+  "totalTags": 2739,
   "schema": "disciplines[] -> topics[].disciplineId -> tags[].topicIds[] (тег может относиться к нескольким темам; category из tagCategories)",
   "compatibility": "Все 36 исходных id тем сохранены. Изменён disciplineId у 4 тем: cpb_hemostasis, echo_hemodynamics, cardiac_ct_mri, antithrombotic_drugs. Дисциплина cardiology_imaging переименована в «Клиническая кардиология» (id сохранён)."
  },
@@ -363,6 +363,22 @@
    "nameEn": "Quality, Safety & Ethics",
    "descriptionRu": "Heart Team, согласие, паллиатив, человеческий фактор",
    "descriptionEn": "Heart Team, consent, palliative care, human factors"
+  },
+  {
+   "id": "toxicology",
+   "icon": "☠️",
+   "nameRu": "Токсикология и антидоты",
+   "nameEn": "Toxicology & Antidotes",
+   "descriptionRu": "Отравления, антидоты, лекарственные интоксикации в периоперационном периоде",
+   "descriptionEn": "Poisonings, antidotes, drug intoxications in the perioperative setting"
+  },
+  {
+   "id": "gastroenterology",
+   "icon": "🫄",
+   "nameRu": "Гастроэнтерология",
+   "nameEn": "Gastroenterology",
+   "descriptionRu": "ЖКК, заболевания ЖКТ, печени и поджелудочной железы вне специализированных дисциплин",
+   "descriptionEn": "GI bleeding, GI/liver/pancreatic disease outside specialized disciplines"
   }
  ],
  "topics": [
@@ -1442,7 +1458,8 @@
    "nameEn": "Paravalvular leak",
    "category": "complication",
    "topicIds": [
-    "aortic_valve"
+    "aortic_valve",
+    "prosthetic_valve_mgmt"
    ]
   },
   {
@@ -2970,7 +2987,8 @@
    "nameEn": "TEE in aortic dissection",
    "category": "diagnostic",
    "topicIds": [
-    "aorta_thoracic"
+    "aorta_thoracic",
+    "thoracic_vascular_trauma"
    ]
   },
   {
@@ -3122,7 +3140,8 @@
    "nameEn": "Bicuspid aortopathy",
    "category": "disease",
    "topicIds": [
-    "marfan_connective"
+    "marfan_connective",
+    "aorta_thoracic"
    ]
   },
   {
@@ -5386,7 +5405,8 @@
    "nameEn": "Left ventricular pseudoaneurysm",
    "category": "disease",
    "topicIds": [
-    "post_mi_mechanical"
+    "post_mi_mechanical",
+    "lv_aneurysm_remodeling"
    ]
   },
   {
@@ -5627,7 +5647,9 @@
    "nameEn": "Valve-in-valve transcatheter procedures",
    "category": "procedure",
    "topicIds": [
-    "redo_mics_hybrid"
+    "redo_mics_hybrid",
+    "structural_transcatheter",
+    "prosthetic_valve_mgmt"
    ]
   },
   {
@@ -11105,7 +11127,8 @@
    "nameEn": "Contrast-associated acute kidney injury",
    "category": "disease",
    "topicIds": [
-    "aki_renal_rrt"
+    "aki_renal_rrt",
+    "nephrotoxicity_dosing"
    ]
   },
   {
@@ -12272,7 +12295,8 @@
    "nameEn": "Adenosine",
    "category": "drug",
    "topicIds": [
-    "postop_arrhythmias_pacing"
+    "postop_arrhythmias_pacing",
+    "cardiac_cycle_hemodynamics"
    ]
   },
   {
@@ -13275,7 +13299,8 @@
    "nameEn": "Abdominal aortic aneurysm",
    "category": "disease",
    "topicIds": [
-    "abdominal_aorta_pad"
+    "abdominal_aorta_pad",
+    "aorta_thoracic"
    ],
    "aliases": [
     "АБА"
@@ -13371,7 +13396,8 @@
    "nameEn": "Buerger disease",
    "category": "disease",
    "topicIds": [
-    "abdominal_aorta_pad"
+    "abdominal_aorta_pad",
+    "large_vessel_vasculitis"
    ]
   },
   {
@@ -16733,7 +16759,9 @@
    "nameEn": "Antiplatelet discontinuation before CABG",
    "category": "drug",
    "topicIds": [
-    "pk_pd_perioperative_meds"
+    "pk_pd_perioperative_meds",
+    "cad_cabg",
+    "antithrombotic_drugs"
    ]
   },
   {
@@ -17113,7 +17141,8 @@
    "nameEn": "Vacuum-assisted venous drainage",
    "category": "technique",
    "topicIds": [
-    "cpb_hemostasis"
+    "cpb_hemostasis",
+    "cannulation_anastomosis"
    ]
   },
   {
@@ -17654,7 +17683,8 @@
    "nameEn": "Exercise ECG criteria",
    "category": "diagnostic",
    "topicIds": [
-    "ecg_ischemia"
+    "ecg_ischemia",
+    "cad_cabg"
    ]
   },
   {
@@ -17888,7 +17918,8 @@
    "nameEn": "Pressure half-time",
    "category": "diagnostic",
    "topicIds": [
-    "echo_hemodynamics"
+    "echo_hemodynamics",
+    "echo_valve_quantification"
    ]
   },
   {
@@ -18365,7 +18396,8 @@
    "nameEn": "CT before redo sternotomy",
    "category": "diagnostic",
    "topicIds": [
-    "cardiac_ct_mri"
+    "cardiac_ct_mri",
+    "access_and_closure"
    ]
   },
   {
@@ -18653,7 +18685,8 @@
    "nameEn": "Left atrial appendage occlusion",
    "category": "procedure",
    "topicIds": [
-    "af_management"
+    "af_management",
+    "arrhythmia_surgery"
    ]
   },
   {
@@ -20251,7 +20284,8 @@
    "nameEn": "ATLS primary survey",
    "category": "context",
    "topicIds": [
-    "thoracic_vascular_trauma"
+    "thoracic_vascular_trauma",
+    "cardiac_trauma"
    ]
   },
   {
@@ -20840,7 +20874,8 @@
    "nameEn": "Antithrombin deficiency",
    "category": "disease",
    "topicIds": [
-    "hit_thrombosis"
+    "hit_thrombosis",
+    "coagulation_hemostasis_basics"
    ]
   },
   {
@@ -21682,7 +21717,8 @@
    "nameEn": "Prophylaxis duration",
    "category": "drug",
    "topicIds": [
-    "periop_antibiotic_prophylaxis"
+    "periop_antibiotic_prophylaxis",
+    "icu_infections_sepsis"
    ]
   },
   {
@@ -21709,7 +21745,8 @@
    "nameEn": "Chlorhexidine skin preparation",
    "category": "context",
    "topicIds": [
-    "periop_antibiotic_prophylaxis"
+    "periop_antibiotic_prophylaxis",
+    "icu_infections_sepsis"
    ]
   },
   {
@@ -21970,7 +22007,8 @@
    "nameEn": "Pheochromocytoma",
    "category": "disease",
    "topicIds": [
-    "thyroid_adrenal_cardiac"
+    "thyroid_adrenal_cardiac",
+    "aorta_thoracic"
    ]
   },
   {
@@ -22240,7 +22278,8 @@
    "nameEn": "Ankylosing spondylitis and aortitis",
    "category": "disease",
    "topicIds": [
-    "large_vessel_vasculitis"
+    "large_vessel_vasculitis",
+    "systemic_autoimmune_heart"
    ]
   },
   {
@@ -22674,7 +22713,8 @@
    "nameEn": "Statins",
    "category": "drug",
    "topicIds": [
-    "lipids_atherosclerosis"
+    "lipids_atherosclerosis",
+    "cad_cabg"
    ]
   },
   {
@@ -23640,6 +23680,2712 @@
    "category": "context",
    "topicIds": [
     "patient_safety_human_factors"
+   ]
+  },
+  {
+   "id": "transmurality_ablation_lesion",
+   "nameRu": "Трансмуральность линии абляции",
+   "nameEn": "Transmurality of ablation lesion",
+   "category": "principle",
+   "topicIds": [
+    "arrhythmia_surgery"
+   ]
+  },
+  {
+   "id": "goldstone_mitral_valve_trial",
+   "nameRu": "Goldstone NEJM 2017 (механический vs биологический протез МК)",
+   "nameEn": "Goldstone NEJM 2017 (mechanical vs biologic mitral prosthesis)",
+   "category": "trial",
+   "topicIds": [
+    "prosthetic_valve_mgmt",
+    "mitral_valve",
+    "landmark_trials_coronary_valve"
+   ]
+  },
+  {
+   "id": "low_molecular_weight_heparin_in_pregnancy",
+   "nameRu": "НМГ при беременности с механическим протезом",
+   "nameEn": "LMWH in pregnancy with mechanical prosthesis",
+   "category": "drug",
+   "topicIds": [
+    "prosthetic_valve_mgmt",
+    "pregnancy_heart"
+   ]
+  },
+  {
+   "id": "left_atrial_thrombus",
+   "nameRu": "Тромб в левом предсердии",
+   "nameEn": "Left atrial thrombus",
+   "category": "disease",
+   "topicIds": [
+    "mitral_valve",
+    "structural_transcatheter"
+   ]
+  },
+  {
+   "id": "moderate_mitral_regurgitation_contraindication",
+   "nameRu": "Умеренная МН как противопоказание к баллонной вальвулопластике",
+   "nameEn": "Moderate MR as contraindication to balloon valvuloplasty",
+   "category": "context",
+   "topicIds": [
+    "mitral_valve",
+    "structural_transcatheter"
+   ]
+  },
+  {
+   "id": "severe_tricuspid_regurgitation_indication",
+   "nameRu": "Тяжелая ТР как показание к операции",
+   "nameEn": "Severe TR as surgical indication",
+   "category": "context",
+   "topicIds": [
+    "tricuspid_pulmonary"
+   ]
+  },
+  {
+   "id": "tricuspid_regurgitation_doppler",
+   "nameRu": "Допплерография при ТР",
+   "nameEn": "Doppler imaging in TR",
+   "category": "diagnostic",
+   "topicIds": [
+    "echo_hemodynamics"
+   ]
+  },
+  {
+   "id": "pulmonary_artery_pressure_estimation",
+   "nameRu": "Оценка давления в легочной артерии",
+   "nameEn": "Pulmonary artery pressure estimation",
+   "category": "diagnostic",
+   "topicIds": [
+    "echo_hemodynamics"
+   ]
+  },
+  {
+   "id": "bundle_of_his",
+   "nameRu": "Пучок Гиса",
+   "nameEn": "Bundle of His",
+   "category": "anatomy",
+   "topicIds": [
+    "conduction_anatomy",
+    "cardiac_anatomy"
+   ]
+  },
+  {
+   "id": "complete_heart_block",
+   "nameRu": "Полная АВ-блокада",
+   "nameEn": "Complete heart block",
+   "category": "complication",
+   "topicIds": [
+    "postop_arrhythmias_pacing",
+    "devices_pacing_crt"
+   ]
+  },
+  {
+   "id": "aortomitral_curtain",
+   "nameRu": "Аорто-митральный занавес (интервальвулярная фиброза)",
+   "nameEn": "Aortomitral curtain (intervalvular fibrosa)",
+   "category": "anatomy",
+   "topicIds": [
+    "cardiac_anatomy",
+    "mitral_valve",
+    "aortic_valve"
+   ]
+  },
+  {
+   "id": "capnography",
+   "nameRu": "Капнография",
+   "nameEn": "Capnography",
+   "category": "diagnostic",
+   "topicIds": [
+    "cardiac_anesthesia",
+    "respiratory_ards"
+   ]
+  },
+  {
+   "id": "end_tidal_co2",
+   "nameRu": "EtCO2",
+   "nameEn": "End-tidal CO2",
+   "category": "diagnostic",
+   "topicIds": [
+    "cardiac_anesthesia",
+    "respiratory_ards"
+   ]
+  },
+  {
+   "id": "fresh_frozen_plasma",
+   "nameRu": "Свежезамороженная плазма (СЗП)",
+   "nameEn": "Fresh frozen plasma (FFP)",
+   "category": "drug",
+   "topicIds": [
+    "transfusion_pbm",
+    "cpb_hemostasis",
+    "coagulation_hemostasis_basics"
+   ]
+  },
+  {
+   "id": "iatrogenic_ventricular_septal_defect",
+   "nameRu": "Ятрогенный ДМЖП",
+   "nameEn": "Iatrogenic ventricular septal defect",
+   "category": "complication",
+   "topicIds": [
+    "cardiomyopathy_surgery",
+    "chd_shunts"
+   ]
+  },
+  {
+   "id": "oxygen_saturation_step_up",
+   "nameRu": "Скачок сатурации (ступенька)",
+   "nameEn": "Oxygen saturation step-up",
+   "category": "diagnostic",
+   "topicIds": [
+    "hemodynamic_monitoring",
+    "chd_shunts"
+   ]
+  },
+  {
+   "id": "sweep_gas_flow_rate",
+   "nameRu": "Скорость газового потока (sweep)",
+   "nameEn": "Sweep gas flow rate",
+   "category": "technique",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "acid_base_management_cpb",
+   "nameRu": "КЩС-менеджмент на ИК",
+   "nameEn": "Acid-base management on CPB",
+   "category": "technique",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "retrograde_cardioplegia",
+   "nameRu": "Ретроградная кардиоплегия",
+   "nameEn": "Retrograde cardioplegia",
+   "category": "procedure",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "cardioplegia_delivery",
+   "nameRu": "Методика доставки кардиоплегии",
+   "nameEn": "Cardioplegia delivery",
+   "category": "technique",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "tricuspid_valve_replacement",
+   "nameRu": "Протезирование трикуспидального клапана",
+   "nameEn": "Tricuspid valve replacement",
+   "category": "procedure",
+   "topicIds": [
+    "tricuspid_pulmonary"
+   ]
+  },
+  {
+   "id": "somatostatin_analogues",
+   "nameRu": "Аналоги соматостатина (октреотид)",
+   "nameEn": "Somatostatin analogues (octreotide)",
+   "category": "drug",
+   "topicIds": [
+    "cardio_oncology",
+    "tricuspid_pulmonary"
+   ]
+  },
+  {
+   "id": "distal_aortic_perfusion",
+   "nameRu": "Дистальная аортальная перфузия",
+   "nameEn": "Distal aortic perfusion",
+   "category": "procedure",
+   "topicIds": [
+    "aorta_thoracic",
+    "perfusion_special"
+   ]
+  },
+  {
+   "id": "mannitol",
+   "nameRu": "Маннитол",
+   "nameEn": "Mannitol",
+   "category": "drug",
+   "topicIds": [
+    "aorta_thoracic",
+    "icu_fluid_acidbase_electrolytes"
+   ]
+  },
+  {
+   "id": "peak_vo2_criteria",
+   "nameRu": "Критерий пикового VO2",
+   "nameEn": "Peak VO2 criterion",
+   "category": "score",
+   "topicIds": [
+    "lvad_management",
+    "heart_failure_lvad",
+    "heart_transplantation"
+   ]
+  },
+  {
+   "id": "pcwp_threshold_lvad",
+   "nameRu": "Порог ДЗЛА для LVAD",
+   "nameEn": "PCWP threshold for LVAD",
+   "category": "score",
+   "topicIds": [
+    "lvad_management",
+    "heart_failure_lvad"
+   ]
+  },
+  {
+   "id": "inotrope_dependence",
+   "nameRu": "Инотропная зависимость",
+   "nameEn": "Inotrope dependence",
+   "category": "context",
+   "topicIds": [
+    "lvad_management",
+    "heart_failure_lvad",
+    "low_output_inotropes"
+   ]
+  },
+  {
+   "id": "type_i_endoleak",
+   "nameRu": "Эндолик I типа",
+   "nameEn": "Type I endoleak",
+   "category": "complication",
+   "topicIds": [
+    "aorta_thoracic",
+    "structural_transcatheter"
+   ]
+  },
+  {
+   "id": "fluid_administration_post_cpb",
+   "nameRu": "Инфузионная терапия после ИК",
+   "nameEn": "Fluid administration after CPB",
+   "category": "procedure",
+   "topicIds": [
+    "low_output_inotropes",
+    "hemodynamic_monitoring"
+   ]
+  },
+  {
+   "id": "latissimus_dorsi",
+   "nameRu": "Широчайшая мышца спины",
+   "nameEn": "Latissimus dorsi",
+   "category": "anatomy",
+   "topicIds": [
+    "thoracic_vessels_anatomy",
+    "access_and_closure"
+   ]
+  },
+  {
+   "id": "lower_trapezius",
+   "nameRu": "Нижняя часть трапециевидной мышцы",
+   "nameEn": "Lower trapezius",
+   "category": "anatomy",
+   "topicIds": [
+    "thoracic_vessels_anatomy",
+    "access_and_closure"
+   ]
+  },
+  {
+   "id": "lower_rhomboid",
+   "nameRu": "Нижняя часть ромбовидной мышцы",
+   "nameEn": "Lower rhomboid",
+   "category": "anatomy",
+   "topicIds": [
+    "thoracic_vessels_anatomy",
+    "access_and_closure"
+   ]
+  },
+  {
+   "id": "superior_serratus_anterior",
+   "nameRu": "Верхняя часть передней зубчатой мышцы",
+   "nameEn": "Superior serratus anterior",
+   "category": "anatomy",
+   "topicIds": [
+    "thoracic_vessels_anatomy",
+    "access_and_closure"
+   ]
+  },
+  {
+   "id": "intercostal_muscles",
+   "nameRu": "Межреберные мышцы",
+   "nameEn": "Intercostal muscles",
+   "category": "anatomy",
+   "topicIds": [
+    "thoracic_vessels_anatomy",
+    "access_and_closure"
+   ]
+  },
+  {
+   "id": "bilateral_pulmonary_metastases",
+   "nameRu": "Двусторонние метастазы в легкие",
+   "nameEn": "Bilateral pulmonary metastases",
+   "category": "disease",
+   "topicIds": [
+    "pulmonary_resection",
+    "thoracic_surgical_oncology"
+   ]
+  },
+  {
+   "id": "right_hemi_clamshell_thoracosternotomy",
+   "nameRu": "Правосторонняя геми-клэмшелл торакостернотомия",
+   "nameEn": "Right hemi-clamshell thoracosternotomy",
+   "category": "technique",
+   "topicIds": [
+    "access_and_closure",
+    "thoracic_vascular_trauma"
+   ]
+  },
+  {
+   "id": "subclavian_artery_injury",
+   "nameRu": "Травма подключичной артерии",
+   "nameEn": "Subclavian artery injury",
+   "category": "disease",
+   "topicIds": [
+    "thoracic_vascular_trauma"
+   ]
+  },
+  {
+   "id": "atelectasis",
+   "nameRu": "Ателектаз",
+   "nameEn": "Atelectasis",
+   "category": "disease",
+   "topicIds": [
+    "respiratory_ards",
+    "pulmonary_resection"
+   ]
+  },
+  {
+   "id": "upper_abdominal_surgery_frc",
+   "nameRu": "Операции на верхнем этаже живота (влияние на ФОЕ)",
+   "nameEn": "Upper abdominal surgery (FRC effect)",
+   "category": "context",
+   "topicIds": [
+    "respiratory_renal_endocrine_physiology"
+   ]
+  },
+  {
+   "id": "bleeding_time",
+   "nameRu": "Время кровотечения",
+   "nameEn": "Bleeding time",
+   "category": "lab",
+   "topicIds": [
+    "coagulation_hemostasis_basics",
+    "preop_evaluation_noncardiac"
+   ]
+  },
+  {
+   "id": "iatrogenic_esophageal_injury",
+   "nameRu": "Ятрогенное повреждение пищевода",
+   "nameEn": "Iatrogenic esophageal injury",
+   "category": "disease",
+   "topicIds": [
+    "esophageal_surgery"
+   ]
+  },
+  {
+   "id": "boerhaave_syndrome",
+   "nameRu": "Синдром Бурхаве",
+   "nameEn": "Boerhaave syndrome",
+   "category": "disease",
+   "topicIds": [
+    "esophageal_surgery"
+   ]
+  },
+  {
+   "id": "chest_wall_invasion",
+   "nameRu": "Инвазия грудной стенки",
+   "nameEn": "Chest wall invasion",
+   "category": "diagnostic",
+   "topicIds": [
+    "lung_cancer_nodule",
+    "thoracic_surgical_oncology"
+   ]
+  },
+  {
+   "id": "t3_stage_lung_cancer",
+   "nameRu": "T3 рака легкого",
+   "nameEn": "T3 lung cancer stage",
+   "category": "score",
+   "topicIds": [
+    "lung_cancer_nodule"
+   ]
+  },
+  {
+   "id": "m1a_stage_iv_lung_cancer",
+   "nameRu": "M1a / IV стадия рака легкого",
+   "nameEn": "M1a / stage IV lung cancer",
+   "category": "score",
+   "topicIds": [
+    "lung_cancer_nodule",
+    "thoracic_surgical_oncology"
+   ]
+  },
+  {
+   "id": "systemic_therapy_nsclc",
+   "nameRu": "Системная терапия НМРЛ",
+   "nameEn": "Systemic therapy for NSCLC",
+   "category": "procedure",
+   "topicIds": [
+    "lung_cancer_nodule",
+    "thoracic_surgical_oncology"
+   ]
+  },
+  {
+   "id": "chemotherapy",
+   "nameRu": "Химиотерапия",
+   "nameEn": "Chemotherapy",
+   "category": "drug",
+   "topicIds": [
+    "lung_cancer_nodule",
+    "thoracic_surgical_oncology"
+   ]
+  },
+  {
+   "id": "calcification_pattern_benign",
+   "nameRu": "Доброкачественный паттерн кальцификации",
+   "nameEn": "Benign calcification pattern",
+   "category": "diagnostic",
+   "topicIds": [
+    "lung_cancer_nodule"
+   ]
+  },
+  {
+   "id": "pulmonary_hamartoma",
+   "nameRu": "Гамартома легкого",
+   "nameEn": "Pulmonary hamartoma",
+   "category": "disease",
+   "topicIds": [
+    "lung_cancer_nodule",
+    "lung_infectious_benign"
+   ]
+  },
+  {
+   "id": "doubling_time",
+   "nameRu": "Время удвоения объема",
+   "nameEn": "Doubling time",
+   "category": "diagnostic",
+   "topicIds": [
+    "lung_cancer_nodule"
+   ]
+  },
+  {
+   "id": "pulseless_electrical_activity",
+   "nameRu": "Электрическая активность без пульса (PEA)",
+   "nameEn": "Pulseless electrical activity (PEA)",
+   "category": "disease",
+   "topicIds": [
+    "cardiac_arrest_cals",
+    "cardiac_trauma"
+   ]
+  },
+  {
+   "id": "spontaneous_pneumomediastinum",
+   "nameRu": "Спонтанный пневмомедиастинум",
+   "nameEn": "Spontaneous pneumomediastinum",
+   "category": "disease",
+   "topicIds": [
+    "pleura_pneumothorax"
+   ]
+  },
+  {
+   "id": "subcutaneous_emphysema",
+   "nameRu": "Подкожная эмфизема",
+   "nameEn": "Subcutaneous emphysema",
+   "category": "disease",
+   "topicIds": [
+    "pleura_pneumothorax",
+    "thoracic_vascular_trauma"
+   ]
+  },
+  {
+   "id": "conservative_management_pneumomediastinum",
+   "nameRu": "Консервативное ведение пневмомедиастинума",
+   "nameEn": "Conservative management of pneumomediastinum",
+   "category": "context",
+   "topicIds": [
+    "pleura_pneumothorax"
+   ]
+  },
+  {
+   "id": "endotracheal_intubation",
+   "nameRu": "Эндотрахеальная интубация",
+   "nameEn": "Endotracheal intubation",
+   "category": "procedure",
+   "topicIds": [
+    "cardiac_anesthesia",
+    "thoracic_vascular_trauma"
+   ]
+  },
+  {
+   "id": "complete_resection",
+   "nameRu": "Полная (R0) резекция",
+   "nameEn": "Complete (R0) resection",
+   "category": "context",
+   "topicIds": [
+    "pulmonary_resection",
+    "thoracic_surgical_oncology"
+   ]
+  },
+  {
+   "id": "colorectal_cancer_metastasis",
+   "nameRu": "Метастаз колоректального рака",
+   "nameEn": "Colorectal cancer metastasis",
+   "category": "disease",
+   "topicIds": [
+    "pulmonary_resection",
+    "thoracic_surgical_oncology"
+   ]
+  },
+  {
+   "id": "low_ejection_fraction_vt",
+   "nameRu": "Низкая ФВ как субстрат ЖТ",
+   "nameEn": "Low ejection fraction VT substrate",
+   "category": "context",
+   "topicIds": [
+    "vt_scd_icd"
+   ]
+  },
+  {
+   "id": "atrial_fibrillation_hocm",
+   "nameRu": "ФП при ГОКМП",
+   "nameEn": "Atrial fibrillation in HOCM",
+   "category": "disease",
+   "topicIds": [
+    "cardiomyopathy_surgery"
+   ]
+  },
+  {
+   "id": "central_cyanosis_vsd",
+   "nameRu": "Центральный цианоз при ДМЖП",
+   "nameEn": "Central cyanosis in VSD",
+   "category": "diagnostic",
+   "topicIds": [
+    "chd_shunts"
+   ]
+  },
+  {
+   "id": "pericardial_patch_repair",
+   "nameRu": "Пластика перикардиальной заплатой",
+   "nameEn": "Pericardial patch repair",
+   "category": "procedure",
+   "topicIds": [
+    "mitral_valve",
+    "cannulation_anastomosis"
+   ]
+  },
+  {
+   "id": "emergency_coronary_angiography",
+   "nameRu": "Экстренная коронарография",
+   "nameEn": "Emergency coronary angiography",
+   "category": "procedure",
+   "topicIds": [
+    "coronary_angiography_cath",
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "lvot_gradient",
+   "nameRu": "Градиент в выводном тракте ЛЖ",
+   "nameEn": "LVOT gradient",
+   "category": "diagnostic",
+   "topicIds": [
+    "echo_valve_quantification",
+    "mitral_valve"
+   ]
+  },
+  {
+   "id": "coronary_artery_bypass_grafting",
+   "nameRu": "Аортокоронарное шунтирование",
+   "nameEn": "Coronary artery bypass grafting",
+   "category": "procedure",
+   "topicIds": [
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "phrenic_nerve_injury",
+   "nameRu": "Повреждение диафрагмального нерва",
+   "nameEn": "Phrenic nerve injury",
+   "category": "complication",
+   "topicIds": [
+    "postop_arrhythmias_pacing",
+    "respiratory_ards"
+   ]
+  },
+  {
+   "id": "indications_for_permanent_pacemaker_after_cardiac_surgery",
+   "nameRu": "Показания к постоянному ЭКС после кардиохирургии",
+   "nameEn": "Indications for permanent pacemaker after cardiac surgery",
+   "category": "procedure",
+   "topicIds": [
+    "postop_arrhythmias_pacing",
+    "devices_pacing_crt"
+   ]
+  },
+  {
+   "id": "sepsis_ecmo_contraindication",
+   "nameRu": "Сепсис как относительное противопоказание к ЭКМО",
+   "nameEn": "Sepsis as relative ECMO contraindication",
+   "category": "context",
+   "topicIds": [
+    "ecmo_mcs"
+   ]
+  },
+  {
+   "id": "status_asthmaticus",
+   "nameRu": "Астматический статус",
+   "nameEn": "Status asthmaticus",
+   "category": "disease",
+   "topicIds": [
+    "ecmo_mcs",
+    "respiratory_ards"
+   ]
+  },
+  {
+   "id": "continuous_flow_lvad",
+   "nameRu": "LVAD непрерывного потока",
+   "nameEn": "Continuous-flow LVAD",
+   "category": "device",
+   "topicIds": [
+    "lvad_management",
+    "heart_failure_lvad"
+   ]
+  },
+  {
+   "id": "metastatic_brain_tumor",
+   "nameRu": "Метастатическая опухоль головного мозга",
+   "nameEn": "Metastatic brain tumor",
+   "category": "disease",
+   "topicIds": [
+    "heart_transplantation",
+    "thoracic_surgical_oncology"
+   ]
+  },
+  {
+   "id": "cerebral_edema_hyponatremia",
+   "nameRu": "Отек мозга при гипонатриемии",
+   "nameEn": "Cerebral edema in hyponatremia",
+   "category": "complication",
+   "topicIds": [
+    "icu_fluid_acidbase_electrolytes"
+   ]
+  },
+  {
+   "id": "osmotic_demyelination_syndrome",
+   "nameRu": "Осмотический демиелинизирующий синдром",
+   "nameEn": "Osmotic demyelination syndrome",
+   "category": "complication",
+   "topicIds": [
+    "icu_fluid_acidbase_electrolytes"
+   ]
+  },
+  {
+   "id": "cyanide_toxicity",
+   "nameRu": "Цианидная интоксикация",
+   "nameEn": "Cyanide toxicity",
+   "category": "disease",
+   "topicIds": [
+    "low_output_inotropes",
+    "antiarrhythmic_cv_drugs"
+   ]
+  },
+  {
+   "id": "sodium_thiosulfate",
+   "nameRu": "Тиосульфат натрия",
+   "nameEn": "Sodium thiosulfate",
+   "category": "drug",
+   "topicIds": [
+    "low_output_inotropes",
+    "antiarrhythmic_cv_drugs"
+   ]
+  },
+  {
+   "id": "ringers_lactate_composition",
+   "nameRu": "Состав раствора Рингера лактата",
+   "nameEn": "Ringer's lactate composition",
+   "category": "principle",
+   "topicIds": [
+    "icu_fluid_acidbase_electrolytes"
+   ]
+  },
+  {
+   "id": "sodium_concentration_iv_fluids",
+   "nameRu": "Концентрация натрия в инфузионных растворах",
+   "nameEn": "Sodium concentration in IV fluids",
+   "category": "principle",
+   "topicIds": [
+    "icu_fluid_acidbase_electrolytes"
+   ]
+  },
+  {
+   "id": "vicryl_absorbable",
+   "nameRu": "Викрил (рассасывающийся)",
+   "nameEn": "Vicryl (absorbable)",
+   "category": "device",
+   "topicIds": [
+    "surgical_materials"
+   ]
+  },
+  {
+   "id": "prolene_nonabsorbable",
+   "nameRu": "Пролен (нерассасывающийся)",
+   "nameEn": "Prolene (non-absorbable)",
+   "category": "device",
+   "topicIds": [
+    "surgical_materials"
+   ]
+  },
+  {
+   "id": "ethibond_nonabsorbable",
+   "nameRu": "Этибонд (нерассасывающийся)",
+   "nameEn": "Ethibond (non-absorbable)",
+   "category": "device",
+   "topicIds": [
+    "surgical_materials"
+   ]
+  },
+  {
+   "id": "r_on_t_phenomenon",
+   "nameRu": "Феномен R-on-T",
+   "nameEn": "R-on-T phenomenon",
+   "category": "diagnostic",
+   "topicIds": [
+    "postop_arrhythmias_pacing",
+    "devices_pacing_crt"
+   ]
+  },
+  {
+   "id": "stroke_volume",
+   "nameRu": "Ударный объем",
+   "nameEn": "Stroke volume",
+   "category": "principle",
+   "topicIds": [
+    "cardiac_cycle_hemodynamics",
+    "low_output_inotropes"
+   ]
+  },
+  {
+   "id": "thrombin_burst",
+   "nameRu": "Тромбиновый всплеск",
+   "nameEn": "Thrombin burst",
+   "category": "principle",
+   "topicIds": [
+    "coagulation_hemostasis_basics"
+   ]
+  },
+  {
+   "id": "nonocclusive_aortic_crossclamp",
+   "nameRu": "Неокклюзирующее пережатие аорты",
+   "nameEn": "Nonocclusive aortic crossclamp",
+   "category": "technique",
+   "topicIds": [
+    "cpb_hemostasis",
+    "cannulation_anastomosis"
+   ]
+  },
+  {
+   "id": "warm_cardioplegia",
+   "nameRu": "Теплая кардиоплегия",
+   "nameEn": "Warm cardioplegia",
+   "category": "drug",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "hyperbaric_oxygen_therapy",
+   "nameRu": "Гипербарическая оксигенотерапия",
+   "nameEn": "Hyperbaric oxygen therapy",
+   "category": "procedure",
+   "topicIds": [
+    "cpb_hemostasis",
+    "cardiac_arrest_cals"
+   ]
+  },
+  {
+   "id": "contact_activation_kinin",
+   "nameRu": "Контактная активация и кинины",
+   "nameEn": "Contact activation and kinins",
+   "category": "principle",
+   "topicIds": [
+    "cpb_hemostasis",
+    "coagulation_hemostasis_basics"
+   ]
+  },
+  {
+   "id": "thrombomodulin_protein_c",
+   "nameRu": "Тромбомодулин и протеин C",
+   "nameEn": "Thrombomodulin and protein C",
+   "category": "principle",
+   "topicIds": [
+    "coagulation_hemostasis_basics",
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "atrial_septostomy",
+   "nameRu": "Предсердная септостомия",
+   "nameEn": "Atrial septostomy",
+   "category": "procedure",
+   "topicIds": [
+    "ecmo_mcs",
+    "pulmonary_hypertension"
+   ]
+  },
+  {
+   "id": "tagged_red_blood_cell_scan",
+   "nameRu": "Сцинтиграфия с мечеными эритроцитами",
+   "nameEn": "Tagged red blood cell scan",
+   "category": "diagnostic",
+   "topicIds": [
+    "postop_bleeding_tamponade",
+    "gastrointestinal_bleeding"
+   ]
+  },
+  {
+   "id": "mesenteric_ischemia",
+   "nameRu": "Мезентериальная ишемия",
+   "nameEn": "Mesenteric ischemia",
+   "category": "disease",
+   "topicIds": [
+    "ecmo_mcs",
+    "acute_limb_ischemia",
+    "icu_nutrition_gi_liver"
+   ]
+  },
+  {
+   "id": "ct_angiography_abdomen",
+   "nameRu": "КТ-ангиография брюшной полости",
+   "nameEn": "CT angiography of abdomen",
+   "category": "diagnostic",
+   "topicIds": [
+    "imaging_cath",
+    "ecmo_mcs"
+   ]
+  },
+  {
+   "id": "distal_perfusion_catheter",
+   "nameRu": "Дистальный перфузионный катетер",
+   "nameEn": "Distal perfusion catheter",
+   "category": "device",
+   "topicIds": [
+    "ecmo_mcs",
+    "acute_limb_ischemia"
+   ]
+  },
+  {
+   "id": "left_ventricular_unloading_on_va_ecmo",
+   "nameRu": "Разгрузка ЛЖ при ВА-ЭКМО",
+   "nameEn": "Left ventricular unloading on VA-ECMO",
+   "category": "procedure",
+   "topicIds": [
+    "ecmo_mcs"
+   ]
+  },
+  {
+   "id": "gastrointestinal_bleeding",
+   "nameRu": "Желудочно-кишечное кровотечение",
+   "nameEn": "Gastrointestinal bleeding",
+   "category": "disease",
+   "topicIds": [
+    "icu_nutrition_gi_liver",
+    "transfusion_pbm",
+    "ecmo_mcs"
+   ]
+  },
+  {
+   "id": "transient_outward_potassium_current",
+   "nameRu": "Транзиторный выходящий калиевый ток (Ito)",
+   "nameEn": "Transient outward potassium current (Ito)",
+   "category": "principle",
+   "topicIds": [
+    "cardiac_cellular_physiology"
+   ]
+  },
+  {
+   "id": "sodium_calcium_exchanger",
+   "nameRu": "Натрий-кальциевый обменник (NCX)",
+   "nameEn": "Sodium-calcium exchanger (NCX)",
+   "category": "principle",
+   "topicIds": [
+    "cardiac_cellular_physiology"
+   ]
+  },
+  {
+   "id": "serca_pump",
+   "nameRu": "SERCA-насос",
+   "nameEn": "SERCA pump",
+   "category": "principle",
+   "topicIds": [
+    "cardiac_cellular_physiology"
+   ]
+  },
+  {
+   "id": "calcium_atpase",
+   "nameRu": "Са²⁺-АТФаза сарколеммы",
+   "nameEn": "Sarcolemmal Ca²⁺-ATPase",
+   "category": "principle",
+   "topicIds": [
+    "cardiac_cellular_physiology"
+   ]
+  },
+  {
+   "id": "anaerobic_metabolism",
+   "nameRu": "Анаэробный метаболизм",
+   "nameEn": "Anaerobic metabolism",
+   "category": "principle",
+   "topicIds": [
+    "cardiac_cellular_physiology"
+   ]
+  },
+  {
+   "id": "vasodilator_metabolites",
+   "nameRu": "Метаболические вазодилататоры",
+   "nameEn": "Vasodilator metabolites",
+   "category": "principle",
+   "topicIds": [
+    "cardiac_cycle_hemodynamics"
+   ]
+  },
+  {
+   "id": "stenosis_hemodynamics",
+   "nameRu": "Гемодинамика стеноза",
+   "nameEn": "Stenosis hemodynamics",
+   "category": "principle",
+   "topicIds": [
+    "cardiac_cycle_hemodynamics"
+   ]
+  },
+  {
+   "id": "hfpef",
+   "nameRu": "СН с сохранённой ФВ (HFpEF)",
+   "nameEn": "HFpEF",
+   "category": "disease",
+   "topicIds": [
+    "shock_hf_pathophysiology"
+   ]
+  },
+  {
+   "id": "renal_blood_flow",
+   "nameRu": "Почечный кровоток",
+   "nameEn": "Renal blood flow",
+   "category": "principle",
+   "topicIds": [
+    "low_output_inotropes"
+   ]
+  },
+  {
+   "id": "cerebral_autoregulation",
+   "nameRu": "Церебральная ауторегуляция",
+   "nameEn": "Cerebral autoregulation",
+   "category": "principle",
+   "topicIds": [
+    "cpb_hemostasis",
+    "perioperative_neuro"
+   ]
+  },
+  {
+   "id": "jugular_venous_saturation",
+   "nameRu": "Сатурация яремной вены",
+   "nameEn": "Jugular venous saturation",
+   "category": "lab",
+   "topicIds": [
+    "perioperative_neuro"
+   ]
+  },
+  {
+   "id": "eeg_electrocerebral_silence",
+   "nameRu": "Электроцеребральное молчание на ЭЭГ",
+   "nameEn": "Electrocerebral silence on EEG",
+   "category": "diagnostic",
+   "topicIds": [
+    "perioperative_neuro"
+   ]
+  },
+  {
+   "id": "insulin_dependent_diabetes",
+   "nameRu": "Инсулинозависимый диабет",
+   "nameEn": "Insulin-dependent diabetes",
+   "category": "disease",
+   "topicIds": [
+    "transfusion_pbm",
+    "risk_scores_frailty"
+   ]
+  },
+  {
+   "id": "female_sex_transfusion_risk",
+   "nameRu": "Женский пол как фактор риска трансфузии",
+   "nameEn": "Female sex as transfusion risk factor",
+   "category": "context",
+   "topicIds": [
+    "transfusion_pbm"
+   ]
+  },
+  {
+   "id": "oblique_pericardial_sinus",
+   "nameRu": "Косой перикардиальный синус",
+   "nameEn": "Oblique pericardial sinus",
+   "category": "anatomy",
+   "topicIds": [
+    "cardiac_anatomy"
+   ]
+  },
+  {
+   "id": "desensitization_therapy",
+   "nameRu": "Десенсибилизирующая терапия",
+   "nameEn": "Desensitization therapy",
+   "category": "procedure",
+   "topicIds": [
+    "heart_transplantation"
+   ]
+  },
+  {
+   "id": "plasmapheresis",
+   "nameRu": "Плазмаферез",
+   "nameEn": "Plasmapheresis",
+   "category": "procedure",
+   "topicIds": [
+    "heart_transplantation"
+   ]
+  },
+  {
+   "id": "ivig",
+   "nameRu": "ВВИГ",
+   "nameEn": "IVIG",
+   "category": "drug",
+   "topicIds": [
+    "heart_transplantation"
+   ]
+  },
+  {
+   "id": "rituximab",
+   "nameRu": "Ритуксимаб",
+   "nameEn": "Rituximab",
+   "category": "drug",
+   "topicIds": [
+    "heart_transplantation"
+   ]
+  },
+  {
+   "id": "mtor_inhibitor",
+   "nameRu": "Ингибитор mTOR",
+   "nameEn": "mTOR inhibitor",
+   "category": "drug",
+   "topicIds": [
+    "heart_transplantation"
+   ]
+  },
+  {
+   "id": "malignancy_after_transplant",
+   "nameRu": "Опухоли после трансплантации",
+   "nameEn": "Malignancy after transplant",
+   "category": "complication",
+   "topicIds": [
+    "heart_transplantation"
+   ]
+  },
+  {
+   "id": "unos_status_ia",
+   "nameRu": "Статус UNOS IA",
+   "nameEn": "UNOS Status IA",
+   "category": "score",
+   "topicIds": [
+    "heart_transplantation"
+   ]
+  },
+  {
+   "id": "unos_status_ib",
+   "nameRu": "Статус UNOS IB",
+   "nameEn": "UNOS Status IB",
+   "category": "score",
+   "topicIds": [
+    "heart_transplantation"
+   ]
+  },
+  {
+   "id": "normothermia_donor",
+   "nameRu": "Нормотермия донора",
+   "nameEn": "Donor normothermia",
+   "category": "procedure",
+   "topicIds": [
+    "heart_transplantation"
+   ]
+  },
+  {
+   "id": "anastomotic_sequence",
+   "nameRu": "Последовательность анастомозов",
+   "nameEn": "Anastomotic sequence",
+   "category": "technique",
+   "topicIds": [
+    "heart_transplantation"
+   ]
+  },
+  {
+   "id": "external_pacing",
+   "nameRu": "Наружная ЭКС",
+   "nameEn": "External pacing",
+   "category": "procedure",
+   "topicIds": [
+    "heart_transplantation"
+   ]
+  },
+  {
+   "id": "young_female_donor",
+   "nameRu": "Молодой донор-женщина",
+   "nameEn": "Young female donor",
+   "category": "context",
+   "topicIds": [
+    "heart_transplantation"
+   ]
+  },
+  {
+   "id": "carotid_bruit",
+   "nameRu": "Шум над сонной артерией",
+   "nameEn": "Carotid bruit",
+   "category": "diagnostic",
+   "topicIds": [
+    "carotid_disease"
+   ]
+  },
+  {
+   "id": "carotid_duplex_screening",
+   "nameRu": "Дуплексный скрининг сонных артерий",
+   "nameEn": "Carotid duplex screening",
+   "category": "procedure",
+   "topicIds": [
+    "carotid_disease",
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "handgrip_strength_measurement",
+   "nameRu": "Динамометрия кисти",
+   "nameEn": "Handgrip strength measurement",
+   "category": "diagnostic",
+   "topicIds": [
+    "risk_scores_frailty"
+   ]
+  },
+  {
+   "id": "essential_frailty_toolset",
+   "nameRu": "Essential Frailty Toolset (EFT)",
+   "nameEn": "Essential Frailty Toolset",
+   "category": "score",
+   "topicIds": [
+    "risk_scores_frailty"
+   ]
+  },
+  {
+   "id": "preoperative_coronary_angiography_indications",
+   "nameRu": "Показания к предоперационной коронарографии",
+   "nameEn": "Preoperative coronary angiography indications",
+   "category": "context",
+   "topicIds": [
+    "coronary_angiography_cath",
+    "aortic_valve"
+   ]
+  },
+  {
+   "id": "glutaraldehyde_fixation",
+   "nameRu": "Фиксация глутаральдегидом",
+   "nameEn": "Glutaraldehyde fixation",
+   "category": "technique",
+   "topicIds": [
+    "surgical_materials"
+   ]
+  },
+  {
+   "id": "mitral_annulus_dynamics",
+   "nameRu": "Динамика митрального кольца",
+   "nameEn": "Mitral annulus dynamics",
+   "category": "principle",
+   "topicIds": [
+    "cardiac_anatomy"
+   ]
+  },
+  {
+   "id": "patent_lima_redo_avr",
+   "nameRu": "Редо АКШ с проходимой LIMA",
+   "nameEn": "Redo AVR with patent LIMA",
+   "category": "context",
+   "topicIds": [
+    "aortic_valve",
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "atherosclerosis",
+   "nameRu": "Атеросклероз",
+   "nameEn": "Atherosclerosis",
+   "category": "disease",
+   "topicIds": [
+    "aorta_thoracic"
+   ]
+  },
+  {
+   "id": "spontaneous_arterial_rupture",
+   "nameRu": "Спонтанный разрыв артерии",
+   "nameEn": "Spontaneous arterial rupture",
+   "category": "disease",
+   "topicIds": [
+    "marfan_connective"
+   ]
+  },
+  {
+   "id": "type_iii_collagen",
+   "nameRu": "Коллаген III типа",
+   "nameEn": "Type III collagen",
+   "category": "gene",
+   "topicIds": [
+    "marfan_connective"
+   ]
+  },
+  {
+   "id": "treponema_pallidum",
+   "nameRu": "Treponema pallidum",
+   "nameEn": "Treponema pallidum",
+   "category": "pathogen",
+   "topicIds": [
+    "aorta_thoracic"
+   ]
+  },
+  {
+   "id": "massive_pulmonary_embolism",
+   "nameRu": "Массивная ТЭЛА",
+   "nameEn": "Massive pulmonary embolism",
+   "category": "disease",
+   "topicIds": [
+    "vte_pulmonary_embolism",
+    "ecmo_mcs"
+   ]
+  },
+  {
+   "id": "cardiac_lipoma",
+   "nameRu": "Липома сердца",
+   "nameEn": "Cardiac lipoma",
+   "category": "disease",
+   "topicIds": [
+    "pericardium_tumors"
+   ]
+  },
+  {
+   "id": "benign_cardiac_tumor",
+   "nameRu": "Доброкачественная опухоль сердца",
+   "nameEn": "Benign cardiac tumor",
+   "category": "disease",
+   "topicIds": [
+    "pericardium_tumors"
+   ]
+  },
+  {
+   "id": "right_heart_catheterization",
+   "nameRu": "Катетеризация правых отделов сердца",
+   "nameEn": "Right heart catheterization",
+   "category": "procedure",
+   "topicIds": [
+    "pericardium_tumors"
+   ]
+  },
+  {
+   "id": "fourth_heart_sound",
+   "nameRu": "Четвёртый тон сердца (S4)",
+   "nameEn": "Fourth heart sound (S4)",
+   "category": "diagnostic",
+   "topicIds": [
+    "acs_management"
+   ]
+  },
+  {
+   "id": "timolol",
+   "nameRu": "Тимолол",
+   "nameEn": "Timolol",
+   "category": "drug",
+   "topicIds": [
+    "antiarrhythmic_cv_drugs"
+   ]
+  },
+  {
+   "id": "peak_velocity_threshold",
+   "nameRu": "Порог пиковой скорости при АС",
+   "nameEn": "Peak velocity threshold in AS",
+   "category": "score",
+   "topicIds": [
+    "aortic_valve"
+   ]
+  },
+  {
+   "id": "systemic_vascular_resistance",
+   "nameRu": "Системное сосудистое сопротивление",
+   "nameEn": "Systemic vascular resistance",
+   "category": "principle",
+   "topicIds": [
+    "cardiac_cycle_hemodynamics"
+   ]
+  },
+  {
+   "id": "infective_endocarditis_risk",
+   "nameRu": "Риск инфекционного эндокардита",
+   "nameEn": "Infective endocarditis risk",
+   "category": "context",
+   "topicIds": [
+    "mitral_valve"
+   ]
+  },
+  {
+   "id": "annular_dilatation_with_chordal_rupture",
+   "nameRu": "Дилатация кольца с разрывом хорд",
+   "nameEn": "Annular dilatation with chordal rupture",
+   "category": "principle",
+   "topicIds": [
+    "mitral_valve"
+   ]
+  },
+  {
+   "id": "antibiotic_therapy_duration",
+   "nameRu": "Длительность антибиотикотерапии",
+   "nameEn": "Antibiotic therapy duration",
+   "category": "drug",
+   "topicIds": [
+    "endocarditis"
+   ]
+  },
+  {
+   "id": "left_sided_heart_disease",
+   "nameRu": "Заболевание левых отделов сердца",
+   "nameEn": "Left-sided heart disease",
+   "category": "disease",
+   "topicIds": [
+    "tricuspid_pulmonary"
+   ]
+  },
+  {
+   "id": "pulmonary_artery_rupture",
+   "nameRu": "Разрыв легочной артерии",
+   "nameEn": "Pulmonary artery rupture",
+   "category": "complication",
+   "topicIds": [
+    "vte_pulmonary_embolism"
+   ]
+  },
+  {
+   "id": "balloon_occlusion_bronchoscopy",
+   "nameRu": "Баллонная окклюзия при бронхоскопии",
+   "nameEn": "Balloon occlusion bronchoscopy",
+   "category": "procedure",
+   "topicIds": [
+    "vte_pulmonary_embolism"
+   ]
+  },
+  {
+   "id": "primary_malignant_cardiac_tumor",
+   "nameRu": "Первичная злокачественная опухоль сердца",
+   "nameEn": "Primary malignant cardiac tumor",
+   "category": "disease",
+   "topicIds": [
+    "cardiac_pathology"
+   ]
+  },
+  {
+   "id": "hematogenous_spread",
+   "nameRu": "Гематогенное распространение",
+   "nameEn": "Hematogenous spread",
+   "category": "principle",
+   "topicIds": [
+    "cardiac_pathology"
+   ]
+  },
+  {
+   "id": "bronchogenic_carcinoma",
+   "nameRu": "Бронхогенная карцинома",
+   "nameEn": "Bronchogenic carcinoma",
+   "category": "disease",
+   "topicIds": [
+    "cardiac_pathology"
+   ]
+  },
+  {
+   "id": "mechanical_mitral_valve_benefit_age_70",
+   "nameRu": "Преимущество механического МК до 70 лет",
+   "nameEn": "Mechanical mitral valve benefit up to age 70",
+   "category": "context",
+   "topicIds": [
+    "prosthetic_valve_mgmt"
+   ]
+  },
+  {
+   "id": "wall_tension",
+   "nameRu": "Напряжение стенки",
+   "nameEn": "Wall tension",
+   "category": "principle",
+   "topicIds": [
+    "cardiac_cycle_hemodynamics"
+   ]
+  },
+  {
+   "id": "thrombocytopenia_iabp",
+   "nameRu": "Тромбоцитопения при ВАБК",
+   "nameEn": "Thrombocytopenia from IABP",
+   "category": "complication",
+   "topicIds": [
+    "low_output_inotropes"
+   ]
+  },
+  {
+   "id": "pressure_equalization",
+   "nameRu": "Уравнивание давлений",
+   "nameEn": "Pressure equalization",
+   "category": "diagnostic",
+   "topicIds": [
+    "pericardium_tumors"
+   ]
+  },
+  {
+   "id": "timing_of_cabg_after_mi",
+   "nameRu": "Сроки АКШ после ИМ",
+   "nameEn": "Timing of CABG after MI",
+   "category": "context",
+   "topicIds": [
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "coronary_air_embolism",
+   "nameRu": "Воздушная эмболия коронарных артерий",
+   "nameEn": "Coronary air embolism",
+   "category": "complication",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "svg_to_lad",
+   "nameRu": "Аутовена к ПМЖВ",
+   "nameEn": "SVG to LAD",
+   "category": "procedure",
+   "topicIds": [
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "pulmonary_artery_sleeve_resection",
+   "nameRu": "Рукавная резекция легочной артерии",
+   "nameEn": "Pulmonary artery sleeve resection",
+   "category": "procedure",
+   "topicIds": [
+    "pulmonary_resection"
+   ]
+  },
+  {
+   "id": "ppo_fev1",
+   "nameRu": "Прогнозируемый ОФВ1 после операции",
+   "nameEn": "Predicted postoperative FEV1",
+   "category": "diagnostic",
+   "topicIds": [
+    "lung_cancer_nodule",
+    "pulmonary_resection"
+   ]
+  },
+  {
+   "id": "cesarean_section",
+   "nameRu": "Кесарево сечение",
+   "nameEn": "Cesarean section",
+   "category": "procedure",
+   "topicIds": [
+    "pregnancy_heart"
+   ]
+  },
+  {
+   "id": "technical_error_repeat_act",
+   "nameRu": "Техническая ошибка / повтор ACT",
+   "nameEn": "Technical error / repeat ACT",
+   "category": "context",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "pre_lvad_optimization",
+   "nameRu": "Оптимизация перед LVAD",
+   "nameEn": "Pre-LVAD optimization",
+   "category": "context",
+   "topicIds": [
+    "lvad_management"
+   ]
+  },
+  {
+   "id": "lvef_35_cutoff_90_days",
+   "nameRu": "ФВ ≤35% через 90 дней",
+   "nameEn": "LVEF ≤35% at 90 days",
+   "category": "score",
+   "topicIds": [
+    "devices_pacing_crt"
+   ]
+  },
+  {
+   "id": "guideline_directed_medical_therapy",
+   "nameRu": "Оптимальная медикаментозная терапия",
+   "nameEn": "Guideline-directed medical therapy",
+   "category": "drug",
+   "topicIds": [
+    "heart_failure_lvad"
+   ]
+  },
+  {
+   "id": "stiff_heart_syndrome",
+   "nameRu": "Синдром «жёсткого» сердца",
+   "nameEn": "Stiff heart syndrome",
+   "category": "principle",
+   "topicIds": [
+    "cardiac_cycle_hemodynamics"
+   ]
+  },
+  {
+   "id": "iloprost",
+   "nameRu": "Илопрост",
+   "nameEn": "Iloprost",
+   "category": "drug",
+   "topicIds": [
+    "low_output_inotropes",
+    "heart_transplantation"
+   ]
+  },
+  {
+   "id": "ace_inhibitor_vasoplegia",
+   "nameRu": "Вазоплегия на фоне иАПФ",
+   "nameEn": "ACE-inhibitor vasoplegia",
+   "category": "context",
+   "topicIds": [
+    "low_output_inotropes"
+   ]
+  },
+  {
+   "id": "auto_peep",
+   "nameRu": "Ауто-ПДКВ",
+   "nameEn": "Auto-PEEP",
+   "category": "principle",
+   "topicIds": [
+    "respiratory_ards"
+   ]
+  },
+  {
+   "id": "dynamic_hyperinflation",
+   "nameRu": "Динамическая гиперинфляция",
+   "nameEn": "Dynamic hyperinflation",
+   "category": "principle",
+   "topicIds": [
+    "respiratory_ards"
+   ]
+  },
+  {
+   "id": "decrease_respiratory_rate",
+   "nameRu": "Снижение частоты дыхания",
+   "nameEn": "Decrease respiratory rate",
+   "category": "procedure",
+   "topicIds": [
+    "respiratory_ards"
+   ]
+  },
+  {
+   "id": "bipap",
+   "nameRu": "BIPAP",
+   "nameEn": "BIPAP",
+   "category": "procedure",
+   "topicIds": [
+    "respiratory_ards"
+   ]
+  },
+  {
+   "id": "hypercapnic_respiratory_failure",
+   "nameRu": "Гиперкапническая дыхательная недостаточность",
+   "nameEn": "Hypercapnic respiratory failure",
+   "category": "disease",
+   "topicIds": [
+    "respiratory_ards"
+   ]
+  },
+  {
+   "id": "end_stage_heart_failure",
+   "nameRu": "Терминальная СН",
+   "nameEn": "End-stage heart failure",
+   "category": "disease",
+   "topicIds": [
+    "heart_failure_lvad"
+   ]
+  },
+  {
+   "id": "bicaval_cannulation",
+   "nameRu": "Бикавальная канюляция",
+   "nameEn": "Bicaval cannulation",
+   "category": "technique",
+   "topicIds": [
+    "cannulation_anastomosis"
+   ]
+  },
+  {
+   "id": "svc_cannula_kink",
+   "nameRu": "Перегиб канюли ВПВ",
+   "nameEn": "SVC cannula kink",
+   "category": "complication",
+   "topicIds": [
+    "cannulation_anastomosis"
+   ]
+  },
+  {
+   "id": "mitral_retraction",
+   "nameRu": "Ретракция для доступа к МК",
+   "nameEn": "Mitral retraction",
+   "category": "technique",
+   "topicIds": [
+    "mitral_valve"
+   ]
+  },
+  {
+   "id": "residual_dissection",
+   "nameRu": "Остаточное расслоение",
+   "nameEn": "Residual dissection",
+   "category": "disease",
+   "topicIds": [
+    "aorta_thoracic"
+   ]
+  },
+  {
+   "id": "surveillance_ct",
+   "nameRu": "Контрольная КТ",
+   "nameEn": "Surveillance CT",
+   "category": "diagnostic",
+   "topicIds": [
+    "aorta_thoracic"
+   ]
+  },
+  {
+   "id": "false_lumen_branch_vessels",
+   "nameRu": "Ветви от ложного просвета",
+   "nameEn": "False-lumen branch vessels",
+   "category": "diagnostic",
+   "topicIds": [
+    "aorta_thoracic"
+   ]
+  },
+  {
+   "id": "radical_full_thickness_resection",
+   "nameRu": "Радикальная полнослойная резекция",
+   "nameEn": "Radical full-thickness resection",
+   "category": "procedure",
+   "topicIds": [
+    "pericardium_tumors",
+    "cardiac_pathology"
+   ]
+  },
+  {
+   "id": "david_infarct_exclusion_repair",
+   "nameRu": "Исключение инфаркта по David",
+   "nameEn": "David infarct exclusion repair",
+   "category": "procedure",
+   "topicIds": [
+    "post_mi_mechanical"
+   ]
+  },
+  {
+   "id": "zero_balanced_ultrafiltration",
+   "nameRu": "Нулевая сбалансированная ультрафильтрация",
+   "nameEn": "Zero-balanced ultrafiltration",
+   "category": "technique",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "hyperkalemia_cpb",
+   "nameRu": "Гиперкалиемия на ИК",
+   "nameEn": "Hyperkalemia on CPB",
+   "category": "complication",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "renal_failure_cpb",
+   "nameRu": "Почечная недостаточность при ИК",
+   "nameEn": "Renal failure on CPB",
+   "category": "context",
+   "topicIds": [
+    "cpb_hemostasis",
+    "ckd_renal_failure"
+   ]
+  },
+  {
+   "id": "venous_cannula_malposition",
+   "nameRu": "Мальпозиция венозной канюли",
+   "nameEn": "Venous cannula malposition",
+   "category": "complication",
+   "topicIds": [
+    "cannulation_anastomosis"
+   ]
+  },
+  {
+   "id": "inadequate_venous_drainage",
+   "nameRu": "Неадекватный венозный дренаж",
+   "nameEn": "Inadequate venous drainage",
+   "category": "complication",
+   "topicIds": [
+    "cannulation_anastomosis"
+   ]
+  },
+  {
+   "id": "third_venous_cannula",
+   "nameRu": "Третья венозная канюля (LSVC)",
+   "nameEn": "Third venous cannula (LSVC)",
+   "category": "procedure",
+   "topicIds": [
+    "congenital_veins"
+   ]
+  },
+  {
+   "id": "no_innominate_vein",
+   "nameRu": "Отсутствие безымянной вены",
+   "nameEn": "No innominate vein",
+   "category": "anatomy",
+   "topicIds": [
+    "congenital_veins"
+   ]
+  },
+  {
+   "id": "early_aspirin_6_hours",
+   "nameRu": "Ранний аспирин (6 ч)",
+   "nameEn": "Early aspirin at 6 hours",
+   "category": "drug",
+   "topicIds": [
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "timing_of_surgery_after_stroke",
+   "nameRu": "Сроки операции после инсульта",
+   "nameEn": "Timing of surgery after stroke",
+   "category": "context",
+   "topicIds": [
+    "endocarditis"
+   ]
+  },
+  {
+   "id": "ventricular_fibrillation_diagnosis",
+   "nameRu": "Диагностика ФЖ под ЭКС",
+   "nameEn": "Ventricular fibrillation diagnosis on pacing",
+   "category": "diagnostic",
+   "topicIds": [
+    "postop_arrhythmias_pacing"
+   ]
+  },
+  {
+   "id": "antegrade_cardioplegia",
+   "nameRu": "Антеградная кардиоплегия",
+   "nameEn": "Antegrade cardioplegia",
+   "category": "procedure",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "retractor_distortion_ar",
+   "nameRu": "Аортальная регургитация при ретракции",
+   "nameEn": "Retractor distortion AR",
+   "category": "complication",
+   "topicIds": [
+    "mitral_valve"
+   ]
+  },
+  {
+   "id": "p1_scallop",
+   "nameRu": "Сегмент P1 задней створки",
+   "nameEn": "P1 scallop",
+   "category": "anatomy",
+   "topicIds": [
+    "mitral_valve"
+   ]
+  },
+  {
+   "id": "secondary_chordae",
+   "nameRu": "Вторичные хорды",
+   "nameEn": "Secondary chordae",
+   "category": "anatomy",
+   "topicIds": [
+    "mitral_valve"
+   ]
+  },
+  {
+   "id": "hockey_stick_sign",
+   "nameRu": "Симптом «хоккейной клюшки»",
+   "nameEn": "Hockey stick sign",
+   "category": "diagnostic",
+   "topicIds": [
+    "mitral_valve"
+   ]
+  },
+  {
+   "id": "regurgitant_volume",
+   "nameRu": "Объём регургитации",
+   "nameEn": "Regurgitant volume",
+   "category": "diagnostic",
+   "topicIds": [
+    "echo_valve_quantification"
+   ]
+  },
+  {
+   "id": "left_circumflex_artery",
+   "nameRu": "Левая огибающая артерия",
+   "nameEn": "Left circumflex artery",
+   "category": "anatomy",
+   "topicIds": [
+    "coronary_anatomy"
+   ]
+  },
+  {
+   "id": "surgical_danger_zone",
+   "nameRu": "Хирургическая опасная зона",
+   "nameEn": "Surgical danger zone",
+   "category": "context",
+   "topicIds": [
+    "coronary_anatomy"
+   ]
+  },
+  {
+   "id": "massive_air_embolism",
+   "nameRu": "Массивная воздушная эмболия",
+   "nameEn": "Massive air embolism",
+   "category": "complication",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "crystalloid_cardioplegia",
+   "nameRu": "Кристаллоидная кардиоплегия",
+   "nameEn": "Crystalloid cardioplegia",
+   "category": "drug",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "bicarbonate_buffer",
+   "nameRu": "Бикарбонатный буфер",
+   "nameEn": "Bicarbonate buffer",
+   "category": "principle",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "intracellular_vs_extracellular_cardioplegia",
+   "nameRu": "Внутриклеточная vs внеклеточная кардиоплегия",
+   "nameEn": "Intracellular vs extracellular cardioplegia",
+   "category": "principle",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "innominate_vein",
+   "nameRu": "Безымянная вена",
+   "nameEn": "Innominate vein",
+   "category": "anatomy",
+   "topicIds": [
+    "congenital_veins"
+   ]
+  },
+  {
+   "id": "coronary_sinus_drainage",
+   "nameRu": "Дренаж в коронарный синус",
+   "nameEn": "Coronary sinus drainage",
+   "category": "anatomy",
+   "topicIds": [
+    "congenital_veins"
+   ]
+  },
+  {
+   "id": "type_iiib_restriction",
+   "nameRu": "Рестрикция IIIb (Carpentier)",
+   "nameEn": "Type IIIb restriction",
+   "category": "principle",
+   "topicIds": [
+    "mitral_valve"
+   ]
+  },
+  {
+   "id": "tethering",
+   "nameRu": "Тетеринг (натяжение створок)",
+   "nameEn": "Tethering",
+   "category": "diagnostic",
+   "topicIds": [
+    "mitral_valve"
+   ]
+  },
+  {
+   "id": "physiological_washing_jets",
+   "nameRu": "Физиологические промывающие струи",
+   "nameEn": "Physiological washing jets",
+   "category": "diagnostic",
+   "topicIds": [
+    "prosthetic_valve_mgmt"
+   ]
+  },
+  {
+   "id": "thebesian_veins",
+   "nameRu": "Вены Тебезия",
+   "nameEn": "Thebesian veins",
+   "category": "anatomy",
+   "topicIds": [
+    "cardiac_anatomy"
+   ]
+  },
+  {
+   "id": "bronchial_circulation",
+   "nameRu": "Бронхиальный кровоток",
+   "nameEn": "Bronchial circulation",
+   "category": "principle",
+   "topicIds": [
+    "cardiac_anatomy",
+    "vte_pulmonary_embolism"
+   ]
+  },
+  {
+   "id": "left_ventricular_venting",
+   "nameRu": "Дренирование (вент) ЛЖ",
+   "nameEn": "Left ventricular venting",
+   "category": "technique",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "degenerative_vein_graft_pci",
+   "nameRu": "ЧКВ дегенеративного венозного шунта",
+   "nameEn": "PCI of degenerated vein graft",
+   "category": "context",
+   "topicIds": [
+    "pci_stents"
+   ]
+  },
+  {
+   "id": "vena_saphenous_graft_lesion",
+   "nameRu": "Поражение аутовенозного шунта",
+   "nameEn": "Saphenous vein graft lesion",
+   "category": "disease",
+   "topicIds": [
+    "pci_stents"
+   ]
+  },
+  {
+   "id": "advanced_age",
+   "nameRu": "Пожилой возраст",
+   "nameEn": "Advanced age",
+   "category": "context",
+   "topicIds": [
+    "nephrotoxicity_dosing"
+   ]
+  },
+  {
+   "id": "anemia",
+   "nameRu": "Анемия",
+   "nameEn": "Anemia",
+   "category": "disease",
+   "topicIds": [
+    "nephrotoxicity_dosing"
+   ]
+  },
+  {
+   "id": "heart_failure",
+   "nameRu": "Сердечная недостаточность",
+   "nameEn": "Heart failure",
+   "category": "disease",
+   "topicIds": [
+    "nephrotoxicity_dosing"
+   ]
+  },
+  {
+   "id": "n_acetylcysteine",
+   "nameRu": "N-ацетилцистеин",
+   "nameEn": "N-acetylcysteine",
+   "category": "drug",
+   "topicIds": [
+    "nephrotoxicity_dosing"
+   ]
+  },
+  {
+   "id": "iso_osmolar_contrast",
+   "nameRu": "Изо-осмолярный контраст",
+   "nameEn": "Iso-osmolar contrast",
+   "category": "drug",
+   "topicIds": [
+    "nephrotoxicity_dosing"
+   ]
+  },
+  {
+   "id": "steroids",
+   "nameRu": "Стероиды",
+   "nameEn": "Steroids",
+   "category": "drug",
+   "topicIds": [
+    "nephrotoxicity_dosing"
+   ]
+  },
+  {
+   "id": "superior_epigastric_artery",
+   "nameRu": "Верхняя надчревная артерия",
+   "nameEn": "Superior epigastric artery",
+   "category": "anatomy",
+   "topicIds": [
+    "coronary_anatomy"
+   ]
+  },
+  {
+   "id": "musculophrenic_artery",
+   "nameRu": "Мышечно-диафрагмальная артерия",
+   "nameEn": "Musculophrenic artery",
+   "category": "anatomy",
+   "topicIds": [
+    "coronary_anatomy"
+   ]
+  },
+  {
+   "id": "malpositioned_ng_tube",
+   "nameRu": "Мальпозиция назогастрального зонда",
+   "nameEn": "Malpositioned NG tube",
+   "category": "complication",
+   "topicIds": [
+    "icu_infections_sepsis"
+   ]
+  },
+  {
+   "id": "endotracheal_tube_position",
+   "nameRu": "Положение эндотрахеальной трубки",
+   "nameEn": "Endotracheal tube position",
+   "category": "diagnostic",
+   "topicIds": [
+    "icu_infections_sepsis"
+   ]
+  },
+  {
+   "id": "exudative_effusion",
+   "nameRu": "Экссудативный выпот",
+   "nameEn": "Exudative effusion",
+   "category": "diagnostic",
+   "topicIds": [
+    "pleura_pneumothorax"
+   ]
+  },
+  {
+   "id": "antibiotics",
+   "nameRu": "Антибиотики",
+   "nameEn": "Antibiotics",
+   "category": "drug",
+   "topicIds": [
+    "pleura_pneumothorax"
+   ]
+  },
+  {
+   "id": "recent_stroke_or_tia",
+   "nameRu": "Недавний инсульт или ТИА",
+   "nameEn": "Recent stroke or TIA",
+   "category": "context",
+   "topicIds": [
+    "carotid_disease"
+   ]
+  },
+  {
+   "id": "class_i_indication",
+   "nameRu": "Показание I класса",
+   "nameEn": "Class I indication",
+   "category": "context",
+   "topicIds": [
+    "carotid_disease"
+   ]
+  },
+  {
+   "id": "non_contrast_chest_ct",
+   "nameRu": "Бесконтрастная КТ грудной клетки",
+   "nameEn": "Non-contrast chest CT",
+   "category": "diagnostic",
+   "topicIds": [
+    "aorta_thoracic"
+   ]
+  },
+  {
+   "id": "off_pump_no_touch",
+   "nameRu": "Off-pump no-touch",
+   "nameEn": "Off-pump no-touch",
+   "category": "technique",
+   "topicIds": [
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "schizophrenia",
+   "nameRu": "Шизофрения",
+   "nameEn": "Schizophrenia",
+   "category": "disease",
+   "topicIds": [
+    "risk_scores_frailty"
+   ]
+  },
+  {
+   "id": "anaortic_technique",
+   "nameRu": "Безманипуляционная техника на аорте",
+   "nameEn": "Anaortic technique",
+   "category": "technique",
+   "topicIds": [
+    "cad_cabg",
+    "aorta_thoracic"
+   ]
+  },
+  {
+   "id": "hemodynamic_profile_vasopressors",
+   "nameRu": "Гемодинамический профиль вазопрессоров",
+   "nameEn": "Hemodynamic profile of vasopressors",
+   "category": "principle",
+   "topicIds": [
+    "low_output_inotropes"
+   ]
+  },
+  {
+   "id": "incidence_30_to_50_percent",
+   "nameRu": "Частота 30–50%",
+   "nameEn": "Incidence 30–50%",
+   "category": "context",
+   "topicIds": [
+    "postop_arrhythmias_pacing"
+   ]
+  },
+  {
+   "id": "silent_ischemia",
+   "nameRu": "Безболевая ишемия",
+   "nameEn": "Silent ischemia",
+   "category": "disease",
+   "topicIds": [
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "cass_trial",
+   "nameRu": "CASS",
+   "nameEn": "CASS trial",
+   "category": "trial",
+   "topicIds": [
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "emergency_cabg",
+   "nameRu": "Экстренное АКШ",
+   "nameEn": "Emergency CABG",
+   "category": "procedure",
+   "topicIds": [
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "ventricular_arrhythmias",
+   "nameRu": "Желудочковые аритмии",
+   "nameEn": "Ventricular arrhythmias",
+   "category": "disease",
+   "topicIds": [
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "age_stroke_risk_relationship",
+   "nameRu": "Связь возраста и риска инсульта",
+   "nameEn": "Age-stroke risk relationship",
+   "category": "context",
+   "topicIds": [
+    "carotid_disease"
+   ]
+  },
+  {
+   "id": "saphenous_vein_graft_degeneration",
+   "nameRu": "Дегенерация аутовены",
+   "nameEn": "SVG degeneration",
+   "category": "complication",
+   "topicIds": [
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "svg_sequential_graft",
+   "nameRu": "Последовательный венозный шунт",
+   "nameEn": "Sequential SVG",
+   "category": "procedure",
+   "topicIds": [
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "limited_conduit",
+   "nameRu": "Ограниченная длина кондуита",
+   "nameEn": "Limited conduit",
+   "category": "context",
+   "topicIds": [
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "obesity",
+   "nameRu": "Ожирение",
+   "nameEn": "Obesity",
+   "category": "disease",
+   "topicIds": [
+    "icu_infections_sepsis"
+   ]
+  },
+  {
+   "id": "blood_transfusion",
+   "nameRu": "Переливание крови",
+   "nameEn": "Blood transfusion",
+   "category": "procedure",
+   "topicIds": [
+    "icu_infections_sepsis"
+   ]
+  },
+  {
+   "id": "collateralized_vessel_first",
+   "nameRu": "Сначала коллатерализируемый сосуд",
+   "nameEn": "Collateralized vessel first",
+   "category": "principle",
+   "topicIds": [
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "natural_history_vsd",
+   "nameRu": "Естественное течение ДМЖП",
+   "nameEn": "Natural history of VSD",
+   "category": "context",
+   "topicIds": [
+    "post_mi_mechanical"
+   ]
+  },
+  {
+   "id": "ventriculotomy",
+   "nameRu": "Вентрикулотомия",
+   "nameEn": "Ventriculotomy",
+   "category": "technique",
+   "topicIds": [
+    "post_mi_mechanical"
+   ]
+  },
+  {
+   "id": "no_resection_technique",
+   "nameRu": "Техника без резекции",
+   "nameEn": "No-resection technique",
+   "category": "technique",
+   "topicIds": [
+    "post_mi_mechanical"
+   ]
+  },
+  {
+   "id": "prompt_surgery",
+   "nameRu": "Срочная операция",
+   "nameEn": "Prompt surgery",
+   "category": "procedure",
+   "topicIds": [
+    "lv_aneurysm_remodeling"
+   ]
+  },
+  {
+   "id": "aortic_arch_zones",
+   "nameRu": "Зоны дуги аорты",
+   "nameEn": "Aortic arch zones",
+   "category": "anatomy",
+   "topicIds": [
+    "aorta_thoracic"
+   ]
+  },
+  {
+   "id": "zone_2",
+   "nameRu": "Зона 2",
+   "nameEn": "Zone 2",
+   "category": "anatomy",
+   "topicIds": [
+    "aorta_thoracic"
+   ]
+  },
+  {
+   "id": "unstable_patient",
+   "nameRu": "Нестабильный пациент",
+   "nameEn": "Unstable patient",
+   "category": "context",
+   "topicIds": [
+    "thoracic_vascular_trauma"
+   ]
+  },
+  {
+   "id": "anti_impulse_therapy",
+   "nameRu": "Антиимпульсная терапия",
+   "nameEn": "Anti-impulse therapy",
+   "category": "drug",
+   "topicIds": [
+    "thoracic_vascular_trauma"
+   ]
+  },
+  {
+   "id": "restrictive_transfusion_strategy",
+   "nameRu": "Рестриктивная стратегия трансфузии",
+   "nameEn": "Restrictive transfusion strategy",
+   "category": "context",
+   "topicIds": [
+    "thoracic_vascular_trauma"
+   ]
+  },
+  {
+   "id": "saddle_pulmonary_embolism",
+   "nameRu": "Седловидная ТЭЛА",
+   "nameEn": "Saddle pulmonary embolism",
+   "category": "disease",
+   "topicIds": [
+    "vte_pulmonary_embolism"
+   ]
+  },
+  {
+   "id": "hypocapnia",
+   "nameRu": "Гипокапния",
+   "nameEn": "Hypocapnia",
+   "category": "principle",
+   "topicIds": [
+    "vte_pulmonary_embolism"
+   ]
+  },
+  {
+   "id": "obstructive_shock",
+   "nameRu": "Обструктивный шок",
+   "nameEn": "Obstructive shock",
+   "category": "disease",
+   "topicIds": [
+    "vte_pulmonary_embolism"
+   ]
+  },
+  {
+   "id": "intraoperative_tee",
+   "nameRu": "Интраоперационная ЧПЭхо",
+   "nameEn": "Intraoperative TEE",
+   "category": "procedure",
+   "topicIds": [
+    "vte_pulmonary_embolism"
+   ]
+  },
+  {
+   "id": "dual_lung_blood_supply",
+   "nameRu": "Двойное кровоснабжение лёгких",
+   "nameEn": "Dual lung blood supply",
+   "category": "principle",
+   "topicIds": [
+    "vte_pulmonary_embolism"
+   ]
+  },
+  {
+   "id": "no_pvr_upper_limit",
+   "nameRu": "Нет верхнего предела ЛСС при PTE",
+   "nameEn": "No PVR upper limit for PTE",
+   "category": "context",
+   "topicIds": [
+    "vte_pulmonary_embolism"
+   ]
+  },
+  {
+   "id": "cerebral_metabolic_rate_of_oxygen",
+   "nameRu": "CMRO2",
+   "nameEn": "Cerebral metabolic rate of oxygen",
+   "category": "principle",
+   "topicIds": [
+    "perfusion_special"
+   ]
+  },
+  {
+   "id": "q10_effect",
+   "nameRu": "Эффект Q10",
+   "nameEn": "Q10 effect",
+   "category": "principle",
+   "topicIds": [
+    "perfusion_special"
+   ]
+  },
+  {
+   "id": "calcified_leaflets",
+   "nameRu": "Кальцинированные створки",
+   "nameEn": "Calcified leaflets",
+   "category": "diagnostic",
+   "topicIds": [
+    "tricuspid_pulmonary"
+   ]
+  },
+  {
+   "id": "organic_tricuspid_regurgitation",
+   "nameRu": "Органическая ТР",
+   "nameEn": "Organic tricuspid regurgitation",
+   "category": "disease",
+   "topicIds": [
+    "tricuspid_pulmonary"
+   ]
+  },
+  {
+   "id": "av_node_protection",
+   "nameRu": "Защита АВ-узла",
+   "nameEn": "AV node protection",
+   "category": "technique",
+   "topicIds": [
+    "tricuspid_pulmonary",
+    "conduction_anatomy"
+   ]
+  },
+  {
+   "id": "triple_valve_surgery_sequence",
+   "nameRu": "Последовательность при трёхклапанной операции",
+   "nameEn": "Triple-valve surgery sequence",
+   "category": "technique",
+   "topicIds": [
+    "cannulation_anastomosis"
+   ]
+  },
+  {
+   "id": "mitral_before_aortic",
+   "nameRu": "Митральный до аортального",
+   "nameEn": "Mitral before aortic",
+   "category": "principle",
+   "topicIds": [
+    "mitral_valve",
+    "aortic_valve"
+   ]
+  },
+  {
+   "id": "stone_heart",
+   "nameRu": "«Каменное сердце»",
+   "nameEn": "Stone heart",
+   "category": "complication",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "concentric_hypertrophy",
+   "nameRu": "Концентрическая гипертрофия",
+   "nameEn": "Concentric hypertrophy",
+   "category": "principle",
+   "topicIds": [
+    "cpb_hemostasis",
+    "aortic_valve"
+   ]
+  },
+  {
+   "id": "moderate_aortic_stenosis_concomitant_avr",
+   "nameRu": "Умеренный АС при сопутствующем АКШ",
+   "nameEn": "Moderate AS with concomitant surgery",
+   "category": "context",
+   "topicIds": [
+    "aortic_valve"
+   ]
+  },
+  {
+   "id": "class_iia_indication",
+   "nameRu": "Показание IIa класса",
+   "nameEn": "Class IIa indication",
+   "category": "context",
+   "topicIds": [
+    "aortic_valve"
+   ]
+  },
+  {
+   "id": "cagb_alone_moderate_mr",
+   "nameRu": "Только АКШ при умеренной МР",
+   "nameEn": "CABG alone for moderate MR",
+   "category": "context",
+   "topicIds": [
+    "mitral_valve"
+   ]
+  },
+  {
+   "id": "myocardial_viability_test",
+   "nameRu": "Тест на жизнеспособность миокарда",
+   "nameEn": "Myocardial viability test",
+   "category": "diagnostic",
+   "topicIds": [
+    "myocardial_viability",
+    "heart_failure_lvad"
+   ]
+  },
+  {
+   "id": "lvef_15_percent",
+   "nameRu": "ФВ ЛЖ 15%",
+   "nameEn": "LVEF 15%",
+   "category": "context",
+   "topicIds": [
+    "heart_failure_lvad"
+   ]
+  },
+  {
+   "id": "severe_ischemic_cardiomyopathy",
+   "nameRu": "Тяжёлая ишемическая кардиомиопатия",
+   "nameEn": "Severe ischemic cardiomyopathy",
+   "category": "disease",
+   "topicIds": [
+    "heart_failure_lvad",
+    "cad_cabg"
+   ]
+  },
+  {
+   "id": "retrograde_cold_cardioplegia",
+   "nameRu": "Ретроградная холодная кардиоплегия",
+   "nameEn": "Retrograde cold cardioplegia",
+   "category": "procedure",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "systemic_cooling",
+   "nameRu": "Системное охлаждение",
+   "nameEn": "Systemic cooling",
+   "category": "procedure",
+   "topicIds": [
+    "cpb_hemostasis"
+   ]
+  },
+  {
+   "id": "cool_and_ignore",
+   "nameRu": "Стратегия «Cool and Ignore»",
+   "nameEn": "Cool and ignore strategy",
+   "category": "technique",
+   "topicIds": [
+    "cpb_hemostasis",
+    "aortic_valve"
+   ]
+  },
+  {
+   "id": "redo_cardiac_surgery",
+   "nameRu": "Повторная кардиохирургическая операция",
+   "nameEn": "Redo cardiac surgery",
+   "category": "context",
+   "topicIds": [
+    "access_and_closure"
+   ]
+  },
+  {
+   "id": "right_ventricle_sternum_proximity",
+   "nameRu": "Близость ПЖ к грудине",
+   "nameEn": "RV-sternum proximity",
+   "category": "context",
+   "topicIds": [
+    "access_and_closure"
+   ]
+  },
+  {
+   "id": "tavi",
+   "nameRu": "TAVI",
+   "nameEn": "TAVI",
+   "category": "procedure",
+   "topicIds": [
+    "structural_transcatheter"
+   ]
+  },
+  {
+   "id": "ehlers_danlos_syndrome",
+   "nameRu": "Синдром Элерса-Данлоса",
+   "nameEn": "Ehlers-Danlos syndrome",
+   "category": "disease",
+   "topicIds": [
+    "marfan_connective"
+   ]
+  },
+  {
+   "id": "tree_bark_appearance",
+   "nameRu": "Вид «коры дерева»",
+   "nameEn": "Tree-bark appearance",
+   "category": "diagnostic",
+   "topicIds": [
+    "aorta_thoracic"
+   ]
+  },
+  {
+   "id": "rapid_growth_rate",
+   "nameRu": "Быстрый рост аорты",
+   "nameEn": "Rapid aortic growth",
+   "category": "context",
+   "topicIds": [
+    "aorta_thoracic"
+   ]
+  },
+  {
+   "id": "cabrol_anastomosis",
+   "nameRu": "Анастомоз по Cabrol",
+   "nameEn": "Cabrol anastomosis",
+   "category": "procedure",
+   "topicIds": [
+    "cannulation_anastomosis",
+    "aorta_thoracic"
+   ]
+  },
+  {
+   "id": "interposition_graft",
+   "nameRu": "Вставочный протез",
+   "nameEn": "Interposition graft",
+   "category": "device",
+   "topicIds": [
+    "aorta_thoracic"
+   ]
+  },
+  {
+   "id": "rapid_aortic_growth",
+   "nameRu": "Быстрое расширение аорты",
+   "nameEn": "Rapid aortic growth",
+   "category": "context",
+   "topicIds": [
+    "aorta_thoracic"
+   ]
+  },
+  {
+   "id": "bt_shunt_sizing",
+   "nameRu": "Подбор размера BT-шунта",
+   "nameEn": "BT shunt sizing",
+   "category": "technique",
+   "topicIds": [
+    "chd_shunts"
+   ]
+  },
+  {
+   "id": "premature_infant",
+   "nameRu": "Недоношенный ребёнок",
+   "nameEn": "Premature infant",
+   "category": "context",
+   "topicIds": [
+    "chd_shunts"
+   ]
+  },
+  {
+   "id": "surgical_ligation_indication",
+   "nameRu": "Показание к хирургическому лигированию",
+   "nameEn": "Surgical ligation indication",
+   "category": "context",
+   "topicIds": [
+    "chd_shunts"
+   ]
+  },
+  {
+   "id": "supracristal_vsd",
+   "nameRu": "Супракристальный ДМЖП",
+   "nameEn": "Supracristal VSD",
+   "category": "disease",
+   "topicIds": [
+    "chd_shunts"
+   ]
+  },
+  {
+   "id": "end_diastolic_pressure_fontan",
+   "nameRu": "КДД при оценке Фонтена",
+   "nameEn": "End-diastolic pressure in Fontan evaluation",
+   "category": "score",
+   "topicIds": [
+    "single_ventricle"
    ]
   }
  ]
