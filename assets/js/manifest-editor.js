@@ -446,6 +446,15 @@ document.addEventListener('DOMContentLoaded', async () => {
                                 }
                             });
                         }
+                        if (localDraft && Array.isArray(localDraft.tags)) {
+                            const existingTagIds = new Set((state.taxonomy.tags || []).map(t => t.id));
+                            localDraft.tags.forEach(lt => {
+                                if (!existingTagIds.has(lt.id)) {
+                                    state.taxonomy.tags.push(lt);
+                                    existingTagIds.add(lt.id);
+                                }
+                            });
+                        }
                     }
                 } catch(e) {}
 
@@ -609,7 +618,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
     }
 
-    function _promptRegisterTaxonomyTag(item = null, tagsInput = null) {
+    function _promptRegisterTaxonomyTag(item = null, tagCallbackOrInput = null) {
         const ru = prompt('Введите название тега (RU) [например: Операция Дэвида (David)]:\n(или отмена):');
         if (!ru || !ru.trim()) return;
         const en = prompt('Введите название тега (EN) [например: David procedure (VSRR)]:', ru.trim()) || ru.trim();
@@ -658,8 +667,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (item) {
             if (!Array.isArray(item.tags)) item.tags = [];
             if (!item.tags.includes(tagId)) item.tags.push(tagId);
-            if (tagsInput) {
-                tagsInput.value = item.tags.join(', ');
+            if (typeof tagCallbackOrInput === 'function') {
+                tagCallbackOrInput(tagId);
+            } else if (tagCallbackOrInput && tagCallbackOrInput.value !== undefined) {
+                tagCallbackOrInput.value = item.tags.join(', ');
             }
             _syncFormToJson();
         }
@@ -793,6 +804,8 @@ document.addEventListener('DOMContentLoaded', async () => {
                         updateSelectOptions();
                         const topicSelect = group.parentElement ? group.parentElement.querySelector('.me-topic-picker-select') : null;
                         if (topicSelect) _populateTopicSelect(topicSelect, item);
+                        const tagGroup = group.parentElement ? group.parentElement.querySelector('.me-tag-picker-select')?.closest('.me-taxonomy-group') : null;
+                        if (tagGroup) tagGroup.dispatchEvent(new CustomEvent('me-topic-sync'));
                     };
                     chip.appendChild(btnRem);
                     chipsWrap.appendChild(chip);
@@ -830,6 +843,8 @@ document.addEventListener('DOMContentLoaded', async () => {
                 updateSelectOptions();
                 const topicSelect = group.parentElement ? group.parentElement.querySelector('.me-topic-picker-select') : null;
                 if (topicSelect) _populateTopicSelect(topicSelect, item);
+                const tagGroup = group.parentElement ? group.parentElement.querySelector('.me-tag-picker-select')?.closest('.me-taxonomy-group') : null;
+                if (tagGroup) tagGroup.dispatchEvent(new CustomEvent('me-topic-sync'));
             }
             select.value = '';
         };
@@ -1006,6 +1021,8 @@ document.addEventListener('DOMContentLoaded', async () => {
                         _syncFormToJson();
                         renderChips();
                         _populateTopicSelect(select, item, searchInput.value);
+                        const tagGroup = group.parentElement ? group.parentElement.querySelector('.me-tag-picker-select')?.closest('.me-taxonomy-group') : null;
+                        if (tagGroup) tagGroup.dispatchEvent(new CustomEvent('me-topic-sync'));
                     };
                     chip.appendChild(btnRem);
                     chipsWrap.appendChild(chip);
@@ -1064,6 +1081,8 @@ document.addEventListener('DOMContentLoaded', async () => {
                 _syncFormToJson();
                 renderChips();
                 _populateTopicSelect(select, item, searchInput.value);
+                const tagGroup = group.parentElement ? group.parentElement.querySelector('.me-tag-picker-select')?.closest('.me-taxonomy-group') : null;
+                if (tagGroup) tagGroup.dispatchEvent(new CustomEvent('me-topic-sync'));
             }
             select.value = '';
         };
@@ -1092,12 +1111,331 @@ document.addEventListener('DOMContentLoaded', async () => {
             _syncFormToJson();
             renderChips();
             _populateTopicSelect(select, item, searchInput.value);
+            const tagGroup = group.parentElement ? group.parentElement.querySelector('.me-tag-picker-select')?.closest('.me-taxonomy-group') : null;
+            if (tagGroup) tagGroup.dispatchEvent(new CustomEvent('me-topic-sync'));
             alert(`✅ Новая тема «${ru.trim()}» добавлена к вопросу!\n\n💡 Не забудьте сохранить обновленный справочник через вкладку «Taxonomy» (скачать файл или сохранить в GitHub).`);
         };
 
         pickerRow.appendChild(select);
         pickerRow.appendChild(btnNewTopic);
         group.appendChild(pickerRow);
+
+        return group;
+    }
+
+    const _TAG_CAT_ICONS = {
+        disease: '🩺',
+        procedure: '🔪',
+        anatomy: '🫀',
+        complication: '⚠️',
+        drug: '💊',
+        device: '⚙️',
+        diagnostic: '🔬',
+        score: '📊',
+        trial: '📜',
+        technique: '✂️',
+        principle: '📐',
+        lab: '🧪',
+        other: '🏷️'
+    };
+
+    function _populateTagSelect(selectEl, item, filterText = '') {
+        const query = (filterText || '').toLowerCase().trim();
+        const allTags = (state.taxonomy && Array.isArray(state.taxonomy.tags)) ? state.taxonomy.tags : [];
+        const assignedTags = new Set(item.tags || []);
+        let available = allTags.filter(t => !assignedTags.has(t.id) && !assignedTags.has(t.nameRu) && !assignedTags.has(t.nameEn));
+
+        if (query) {
+            available = available.filter(t =>
+                (t.id && t.id.toLowerCase().includes(query)) ||
+                (t.nameRu && t.nameRu.toLowerCase().includes(query)) ||
+                (t.nameEn && t.nameEn.toLowerCase().includes(query)) ||
+                (t.aliases && Array.isArray(t.aliases) && t.aliases.some(a => String(a).toLowerCase().includes(query)))
+            );
+        }
+
+        selectEl.innerHTML = '';
+        const defaultOpt = document.createElement('option');
+        defaultOpt.value = '';
+        if (query) {
+            defaultOpt.textContent = `🔍 Найдено тегов: ${available.length} (выберите для добавления)...`;
+        } else {
+            defaultOpt.textContent = `+ Выбрать тег (${available.length} доступно в базе таксономии)...`;
+        }
+        selectEl.appendChild(defaultOpt);
+
+        if (available.length === 0) {
+            const noOpt = document.createElement('option');
+            noOpt.disabled = true;
+            if (query) {
+                noOpt.textContent = `Ничего не найдено (нажмите Enter или «+ Добавить», чтобы добавить «${filterText.trim()}»)`;
+            } else {
+                noOpt.textContent = 'Все доступные теги уже выбраны';
+            }
+            selectEl.appendChild(noOpt);
+            return;
+        }
+
+        const activeTopicIds = new Set(item.topics || []);
+        const relevantTags = [];
+        const otherTags = [];
+
+        available.forEach(t => {
+            const hasTopic = t.topicIds && Array.isArray(t.topicIds) && t.topicIds.some(topId => activeTopicIds.has(topId));
+            if (hasTopic) {
+                relevantTags.push(t);
+            } else {
+                otherTags.push(t);
+            }
+        });
+
+        // 1. Tags matching the question's active topics at the top
+        if (relevantTags.length > 0) {
+            const optgroup = document.createElement('optgroup');
+            optgroup.label = `⭐ Теги по выбранным темам вопроса (${relevantTags.length})`;
+            relevantTags.forEach(t => {
+                const opt = document.createElement('option');
+                opt.value = t.id;
+                const icon = _TAG_CAT_ICONS[t.category] || '🏷️';
+                opt.textContent = `${icon} ${t.nameRu || t.id} (${t.nameEn || t.id})`;
+                optgroup.appendChild(opt);
+            });
+            selectEl.appendChild(optgroup);
+        }
+
+        // 2. Categorized tags
+        const catMap = {};
+        if (state.taxonomy && Array.isArray(state.taxonomy.tagCategories)) {
+            state.taxonomy.tagCategories.forEach(c => { catMap[c.id] = c.nameRu || c.nameEn; });
+        }
+
+        const groupedByCat = {};
+        // If searching, show all matched; otherwise show otherTags
+        const tagsToGroup = query ? available : otherTags;
+
+        tagsToGroup.forEach(t => {
+            const cat = t.category || 'other';
+            if (!groupedByCat[cat]) groupedByCat[cat] = [];
+            groupedByCat[cat].push(t);
+        });
+
+        const sortedCats = Object.keys(groupedByCat).sort((a, b) => {
+            const nameA = catMap[a] || a;
+            const nameB = catMap[b] || b;
+            return nameA.localeCompare(nameB);
+        });
+
+        sortedCats.forEach(cat => {
+            const optgroup = document.createElement('optgroup');
+            const icon = _TAG_CAT_ICONS[cat] || '🏷️';
+            const catLabel = catMap[cat] || cat;
+            optgroup.label = `${icon} ${catLabel} (${groupedByCat[cat].length})`;
+
+            // Limit per category when not searching to keep dropdown performant
+            const maxItems = query ? 150 : 80;
+            const items = groupedByCat[cat].slice(0, maxItems);
+            items.forEach(t => {
+                const opt = document.createElement('option');
+                opt.value = t.id;
+                opt.textContent = `${t.nameRu || t.id} (${t.nameEn || t.id})`;
+                optgroup.appendChild(opt);
+            });
+            if (groupedByCat[cat].length > maxItems) {
+                const moreOpt = document.createElement('option');
+                moreOpt.disabled = true;
+                moreOpt.textContent = `... и ещё ${groupedByCat[cat].length - maxItems} тегов (введите поиск выше)`;
+                optgroup.appendChild(moreOpt);
+            }
+            selectEl.appendChild(optgroup);
+        });
+    }
+
+    function _createTaxonomyTagPicker(item) {
+        if (!Array.isArray(item.tags)) {
+            if (typeof item.tags === 'string' && item.tags.trim()) {
+                item.tags = item.tags.split(',').map(s => s.trim()).filter(Boolean);
+            } else {
+                item.tags = [];
+            }
+        }
+
+        const group = document.createElement('div');
+        group.className = 'me-field-group me-item-full-width me-taxonomy-group';
+
+        const label = document.createElement('label');
+        label.innerHTML = `🏷️ Теги / Tags <span style="font-size:0.75rem; color:var(--me-text-muted); font-weight:normal;">(мультивыбор по всей базе 2448+ тегов таксономии и свободные теги)</span>`;
+        group.appendChild(label);
+
+        const chipsWrap = document.createElement('div');
+        chipsWrap.className = 'me-chips-wrapper';
+
+        const searchInput = document.createElement('input');
+        searchInput.type = 'text';
+        searchInput.className = 'me-input me-tag-search-input';
+        searchInput.placeholder = '🔍 Поиск тега по базе (или введите новый тег / несколько через запятую и нажмите Enter)...';
+        searchInput.style.cssText = 'width: 100%; margin-bottom: 6px; font-size: 0.8rem; padding: 6px 10px; background: rgba(0,0,0,0.25); border: 1px solid var(--me-border); border-radius: 6px; color: var(--me-text);';
+
+        const renderChips = () => {
+            chipsWrap.innerHTML = '';
+            if (item.tags.length === 0) {
+                chipsWrap.innerHTML = '<span class="me-chip-empty-placeholder">Теги не назначены (выберите из списка или введите через запятую ниже)</span>';
+            } else {
+                const allTags = (state.taxonomy && Array.isArray(state.taxonomy.tags)) ? state.taxonomy.tags : [];
+                item.tags.forEach((tagId, tIdx) => {
+                    const tObj = allTags.find(t => t.id === tagId || t.nameRu === tagId || t.nameEn === tagId) || { id: tagId, nameRu: tagId, nameEn: tagId };
+                    const chip = document.createElement('span');
+                    chip.className = 'me-chip me-chip-tag';
+                    const icon = (tObj.category && _TAG_CAT_ICONS[tObj.category]) || '🏷️';
+                    const titleText = `${tObj.nameRu || tagId}${tObj.nameEn && tObj.nameEn !== tObj.nameRu ? ` (${tObj.nameEn})` : ''} [${tObj.category || 'tag'}] [id: ${tObj.id || tagId}]`;
+                    chip.title = titleText;
+
+                    const labelSpan = document.createElement('span');
+                    labelSpan.textContent = `${icon} ${tObj.nameRu || tObj.nameEn || tagId}`;
+                    chip.appendChild(labelSpan);
+
+                    const btnRem = document.createElement('span');
+                    btnRem.className = 'me-chip-remove';
+                    btnRem.innerHTML = '&times;';
+                    btnRem.title = 'Удалить';
+                    btnRem.onclick = (e) => {
+                        e.stopPropagation();
+                        item.tags.splice(tIdx, 1);
+                        _syncFormToJson();
+                        renderChips();
+                        _populateTagSelect(select, item, searchInput.value);
+                    };
+                    chip.appendChild(btnRem);
+                    chipsWrap.appendChild(chip);
+                });
+            }
+        };
+        renderChips();
+        group.appendChild(chipsWrap);
+        group.appendChild(searchInput);
+
+        const pickerRow = document.createElement('div');
+        pickerRow.className = 'me-chip-picker-row';
+
+        const select = document.createElement('select');
+        select.className = 'me-chip-picker-select me-tag-picker-select';
+        _populateTagSelect(select, item);
+
+        // Helper to add tag string or comma-separated tags
+        const addTagsFromString = (str) => {
+            const raw = (str || '').trim();
+            if (!raw) return;
+            const parts = raw.split(',').map(s => s.trim()).filter(Boolean);
+            const allTags = (state.taxonomy && Array.isArray(state.taxonomy.tags)) ? state.taxonomy.tags : [];
+            let addedCount = 0;
+
+            parts.forEach(part => {
+                const lower = part.toLowerCase();
+                const matched = allTags.find(t =>
+                    t.id.toLowerCase() === lower ||
+                    (t.nameRu && t.nameRu.toLowerCase() === lower) ||
+                    (t.nameEn && t.nameEn.toLowerCase() === lower)
+                );
+                const tagToAdd = matched ? matched.id : part;
+                if (!item.tags.includes(tagToAdd)) {
+                    item.tags.push(tagToAdd);
+                    addedCount++;
+                }
+            });
+
+            if (addedCount > 0) {
+                _syncFormToJson();
+                renderChips();
+                _populateTagSelect(select, item, '');
+            }
+        };
+
+        searchInput.oninput = () => {
+            _populateTagSelect(select, item, searchInput.value);
+        };
+
+        searchInput.onkeydown = (e) => {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                const raw = searchInput.value.trim();
+                if (!raw) return;
+
+                if (raw.includes(',')) {
+                    addTagsFromString(raw);
+                    searchInput.value = '';
+                    return;
+                }
+
+                // If single word and matches first valid option in select
+                const firstOption = select.querySelector('option[value]:not([value=""])');
+                if (firstOption && firstOption.value) {
+                    const optVal = firstOption.value;
+                    if (!item.tags.includes(optVal)) {
+                        item.tags.push(optVal);
+                        _syncFormToJson();
+                        renderChips();
+                    }
+                } else {
+                    addTagsFromString(raw);
+                }
+                searchInput.value = '';
+                _populateTagSelect(select, item, '');
+            }
+        };
+
+        select.onchange = (e) => {
+            const val = e.target.value;
+            if (val && !item.tags.includes(val)) {
+                item.tags.push(val);
+                _syncFormToJson();
+                renderChips();
+                _populateTagSelect(select, item, searchInput.value);
+            }
+            select.value = '';
+        };
+
+        // Button to add custom typed tag(s)
+        const btnAddCustom = document.createElement('button');
+        btnAddCustom.type = 'button';
+        btnAddCustom.className = 'me-btn me-btn-outline me-btn-sm';
+        btnAddCustom.style.cssText = 'font-size:0.75rem; padding:4px 9px; white-space:nowrap; display:inline-flex; align-items:center; gap:4px;';
+        btnAddCustom.innerHTML = '<i class="fas fa-plus"></i> Добавить';
+        btnAddCustom.title = 'Добавить введенный тег или несколько тегов через запятую';
+        btnAddCustom.onclick = () => {
+            const raw = searchInput.value.trim();
+            if (raw) {
+                addTagsFromString(raw);
+                searchInput.value = '';
+                _populateTagSelect(select, item, '');
+            } else {
+                const promptVal = prompt('Введите тег или несколько тегов через запятую:');
+                if (promptVal) {
+                    addTagsFromString(promptVal);
+                }
+            }
+        };
+
+        // Button to register a new tag in the taxonomy dictionary
+        const btnNewTag = document.createElement('button');
+        btnNewTag.type = 'button';
+        btnNewTag.className = 'me-chip-btn-add';
+        btnNewTag.innerHTML = '<i class="fas fa-plus-circle"></i> В таксономию';
+        btnNewTag.title = 'Зарегистрировать новый тег со свойствами (RU, EN, категория) в справочник таксономии';
+        btnNewTag.onclick = () => {
+            _promptRegisterTaxonomyTag(item, () => {
+                renderChips();
+                _populateTagSelect(select, item, searchInput.value);
+            });
+        };
+
+        pickerRow.appendChild(select);
+        pickerRow.appendChild(btnAddCustom);
+        pickerRow.appendChild(btnNewTag);
+        group.appendChild(pickerRow);
+
+        // Listen for topic changes to re-sort tags by question topics
+        group.addEventListener('me-topic-sync', () => {
+            _populateTagSelect(select, item, searchInput.value);
+        });
 
         return group;
     }
@@ -1872,7 +2210,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     function _fillMagazineFields(container, item, idx) {
         container.appendChild(_createFieldGroup('Image Source', item.src, (v) => { item.src = v; _syncFormToJson(); }));
         container.appendChild(_createFieldGroup('Caption', item.caption, (v) => { item.caption = v; _syncFormToJson(); }, 'textarea'));
-        container.appendChild(_createFieldGroup('Tags (comma separated)', item.tags?.join(', ') || '', (v) => { item.tags = v.split(',').map(t => t.trim()).filter(t => t); _syncFormToJson(); }));
+        container.appendChild(_createTaxonomyTagPicker(item));
     }
 
     function _fillQuizFields(container, item, idx, cardEl) {
@@ -1991,31 +2329,8 @@ document.addEventListener('DOMContentLoaded', async () => {
             _syncFormToJson();
         }, 'select', ['Easy', 'Medium', 'Hard']));
 
-        // 4. Free Tags with autocomplete from 2448 taxonomy tags
-        const initialTags = Array.isArray(item.tags) ? item.tags.join(', ') : (item.tags || '');
-        const tagsField = _createFieldGroup('🏷️ Теги (Tags) • подсказки из базы таксономии', initialTags, (v) => {
-            item.tags = v.split(',').map(t => t.trim()).filter(Boolean);
-            _syncFormToJson();
-        });
-        const tagsInput = tagsField.querySelector('input');
-        if (tagsInput) {
-            tagsInput.setAttribute('list', 'me-taxonomy-tags-datalist');
-            tagsInput.setAttribute('placeholder', 'Начните ввод тега (например: aortic_stenosis, cabg, ecmo, tavi)...');
-        }
-        container.appendChild(tagsField);
-
-        const tagAddRow = document.createElement('div');
-        tagAddRow.style.cssText = 'display:flex; justify-content:flex-end; margin-top:-6px; margin-bottom:12px;';
-        const btnRegisterTag = document.createElement('button');
-        btnRegisterTag.type = 'button';
-        btnRegisterTag.className = 'me-btn me-btn-outline me-btn-sm';
-        btnRegisterTag.style.cssText = 'font-size:0.75rem; padding:3px 10px; display:inline-flex; align-items:center; gap:6px; color:#58a6ff; border-color:rgba(88,166,255,0.4);';
-        btnRegisterTag.innerHTML = '<i class="fas fa-plus-circle"></i> + Зарегистрировать новый тег в таксономию...';
-        btnRegisterTag.onclick = () => {
-            _promptRegisterTaxonomyTag(item, tagsInput);
-        };
-        tagAddRow.appendChild(btnRegisterTag);
-        container.appendChild(tagAddRow);
+        // 4. Tags Multi-select Picker
+        container.appendChild(_createTaxonomyTagPicker(item));
 
         // Question Images (comma separated)
         const qImagesGroup = document.createElement('div');
@@ -2475,9 +2790,16 @@ document.addEventListener('DOMContentLoaded', async () => {
                 return `<span style="display:inline-flex; align-items:center; gap:4px; background:rgba(46,204,113,0.15); color:#27ae60; border:1px solid rgba(46,204,113,0.3); border-radius:12px; padding:2px 8px; font-size:0.75rem; font-weight:600;">📚 ${lang === 'Ru' ? (tObj.nameRu || tId) : (tObj.nameEn || tId)}</span>`;
             }).join(' ');
 
+            const tagBadges = (item.tags || []).map(tId => {
+                const allTags = (state.taxonomy && Array.isArray(state.taxonomy.tags)) ? state.taxonomy.tags : [];
+                const tObj = allTags.find(t => t.id === tId || t.nameRu === tId || t.nameEn === tId) || { nameRu: tId, nameEn: tId };
+                const icon = (tObj.category && _TAG_CAT_ICONS[tObj.category]) || '🏷️';
+                return `<span style="display:inline-flex; align-items:center; gap:4px; background:rgba(210,153,34,0.15); color:#d29922; border:1px solid rgba(210,153,34,0.3); border-radius:12px; padding:2px 8px; font-size:0.75rem; font-weight:600;">${icon} ${lang === 'Ru' ? (tObj.nameRu || tId) : (tObj.nameEn || tId)}</span>`;
+            }).join(' ');
+
             const diffBadge = item.difficulty ? `<span style="background:rgba(243,156,18,0.15); color:#d35400; border:1px solid rgba(243,156,18,0.3); border-radius:12px; padding:2px 8px; font-size:0.75rem; font-weight:700;">⚡ ${item.difficulty}</span>` : '';
-            const previewMetaRow = (discBadges || topBadges || diffBadge)
-                ? `<div style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:12px;">${discBadges} ${topBadges} ${diffBadge}</div>`
+            const previewMetaRow = (discBadges || topBadges || tagBadges || diffBadge)
+                ? `<div style="display:flex; flex-wrap:wrap; gap:6px; margin-bottom:12px;">${discBadges} ${topBadges} ${tagBadges} ${diffBadge}</div>`
                 : '';
 
             html = `
