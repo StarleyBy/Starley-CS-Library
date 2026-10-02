@@ -277,7 +277,7 @@
                         ${disciplinesHtml}
                         <div class="cqh-title">
                             <span class="cqh-pill">${pillText}</span>
-                            <strong>${primaryTitle}</strong>
+                            <strong class="cqh-topic-heading">${primaryTitle}</strong>
                         </div>
                         <div class="cqh-desc">
                             ${countDesc}
