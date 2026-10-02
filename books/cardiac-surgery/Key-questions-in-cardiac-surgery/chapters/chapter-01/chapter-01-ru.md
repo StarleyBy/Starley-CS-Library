@@ -46,7 +46,7 @@
 </div>
 </details>
 
-<details class="med-details"><summary>
+<details class="med-details" data-discipline="adult_cardiac" data-topic="cad_cabg" data-tags="coronary_anatomy,lad,rca,cx,coronary_dominance"><summary>
   
 ## 1. Система коронарных артерий</summary><div class="details-content">
 
@@ -236,7 +236,7 @@
 
 </div></details>
 
-<details class="med-details"><summary>
+<details class="med-details" data-discipline="adult_cardiac" data-topic="arrhythmia_surgery" data-tags="av_node,triangle_of_koch,conduction_system"><summary>
   
 ## 12. Расположение атриовентрикулярного узла</summary><div class="details-content">
 
@@ -325,7 +325,7 @@
 
 </div></details>
 
-<details class="med-details"><summary>
+<details class="med-details" data-discipline="adult_cardiac" data-topic="mitral_valve" data-tags="mitral_valve,mitral_leaflets,carpentier_classification"><summary>
   
 ## 17. Анатомия митрального клапана</summary><div class="details-content">
 

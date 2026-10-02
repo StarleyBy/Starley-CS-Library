@@ -279,6 +279,28 @@ function executeSearch(query, categoryFilter = 'all', bookFilter = 'all', langFi
         tokenFound = true;
       }
 
+      // Check taxonomy tags and topics
+      if (doc.tags && Array.isArray(doc.tags)) {
+        doc.tags.forEach(tg => {
+          const cleanTg = tg.toLowerCase();
+          if (cleanTg === token || cleanTg.includes(token) || (stemmedToken && cleanTg.includes(stemmedToken))) {
+            score += 240;
+            tokenFound = true;
+            matchedWords.add(tg);
+          }
+        });
+      }
+      if (doc.topics && Array.isArray(doc.topics)) {
+        doc.topics.forEach(top => {
+          const cleanTop = top.toLowerCase();
+          if (cleanTop === token || cleanTop.includes(token) || (stemmedToken && cleanTop.includes(stemmedToken))) {
+            score += 190;
+            tokenFound = true;
+            matchedWords.add(top);
+          }
+        });
+      }
+
       for (const [word, count] of Object.entries(wordsMap)) {
         const cleanWord = stripDiacritics(word.toLowerCase());
         const cleanStemmedWord = stemRussianWord(cleanWord);
@@ -351,6 +373,9 @@ function executeSearch(query, categoryFilter = 'all', bookFilter = 'all', langFi
         matchTerm: primaryMatchTerm || evalTokens[0],
         queryPhrase: cleanQuery,
         sourceId: sourceId,
+        topics: doc.topics || [],
+        tags: doc.tags || [],
+        disciplines: doc.disciplines || [],
         // Quiz Fields
         quizFile: doc.quizFile || null,
         manifestName: doc.manifestName || null,

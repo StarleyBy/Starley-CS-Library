@@ -110,6 +110,56 @@ function buildWordCounts(text) {
   return counts;
 }
 
+const TAXONOMY_PATH = path.join(BASE_DIR, 'quiz', 'quiz-taxonomy.json');
+const TAXONOMY_SUMMARY_PATH = path.join(BASE_DIR, 'quiz', 'taxonomy-summary.json');
+
+let taxonomySummary = null;
+try {
+  if (fs.existsSync(TAXONOMY_SUMMARY_PATH)) {
+    taxonomySummary = JSON.parse(fs.readFileSync(TAXONOMY_SUMMARY_PATH, 'utf8'));
+  }
+} catch (e) {
+  console.warn('⚠️ Could not load taxonomy summary:', e.message);
+}
+
+const TOPIC_KEYWORD_RULES = [
+  { pattern: /(анатоми.*сердц|камер.*сердц|перикард.*анатоми|проводящ.*анатоми)/i, topicId: 'cardiac_anatomy' },
+  { pattern: /(коронарн.*артери|коронарн.*анатоми|коронарн.*кровообращен)/i, topicId: 'cad_cabg' },
+  { pattern: /(коронарн|ибс|cabg|кш|стент|инфаркт|окс|стенокард)/i, topicId: 'cad_cabg' },
+  { pattern: /(аортальн.*клапан|аортальн.*стеноз|tavi|тавр|тави|росс|озаки|ао.*регургитац)/i, topicId: 'aortic_valve' },
+  { pattern: /(митральн|mitraclip|клипирован.*митрал|мр|пластик.*митрал)/i, topicId: 'mitral_valve' },
+  { pattern: /(трикуспид|легочн.*клапан|тк|клапан.*легочн)/i, topicId: 'tricuspid_pulmonary' },
+  { pattern: /(грудн.*аорт|диссекци|расслоен.*аорт|дебейки|debakey|stanford|стэнфорд|tevar|тэвар|аневризм.*аорт)/i, topicId: 'aorta_thoracic' },
+  { pattern: /(марфан|лоис-дитц|эхлерс|дисплази.*соедин)/i, topicId: 'marfan_connective' },
+  { pattern: /(эндокардит|вегетаци|абсцесс.*кольца)/i, topicId: 'endocarditis' },
+  { pattern: /(перикард|тампонад|выпот.*перикард|перикардит)/i, topicId: 'pericardium_tumors' },
+  { pattern: /(сердечн.*недостаточн|сн|lvad|хсн|трансплантац.*сердц)/i, topicId: 'heart_failure_lvad' },
+  { pattern: /(аритми|фибрилляци.*предсерд| maze|лабиринт|пучок гиса|проводящ.*систем|блокад.*ножек)/i, topicId: 'arrhythmia_surgery' },
+  { pattern: /(искусственн.*кровообращен|аппарат.*ик|перфузи|контур ик)/i, topicId: 'cpb_cannulation' },
+  { pattern: /(кардиоплеги|защит.*миокард|холодов.*кровян)/i, topicId: 'cpb_cardioplegia' },
+  { pattern: /(коагулопати|гемостаз|гепарин|протамин|кровотечен.*послеоперац)/i, topicId: 'cpb_hemostasis' },
+  { pattern: /(экмо|ecmo|va-ecmo|vv-ecmo)/i, topicId: 'ecmo_mcs' },
+  { pattern: /(тетрад.*фалло|tof|fallot)/i, topicId: 'chd_tetralogy' },
+  { pattern: /(дмжп|дмпп|дефект.*перегород|оап|авк)/i, topicId: 'chd_shunts' },
+  { pattern: /(коарктаци|аортальн.*коаркт)/i, topicId: 'chd_obstructive' },
+  { pattern: /(фонтен|гленн|норвуд|единственн.*желудочк)/i, topicId: 'single_ventricle' },
+  { pattern: /(рак легк|лобэктоми|пневмонэктоми|торакальн)/i, topicId: 'pulmonary_resection' }
+];
+
+function addWeightedTokens(wordCounts, str, weight = 5) {
+  if (!str || typeof str !== 'string') return;
+  const tokens = tokenizeText(str);
+  tokens.forEach(t => {
+    if (t.length > 2 && !STOP_WORDS.has(t) && !/^\d+$/.test(t)) {
+      wordCounts[t] = (wordCounts[t] || 0) + weight;
+      const stemmed = stemRussianWord(t);
+      if (stemmed !== t && stemmed.length > 2) {
+        wordCounts[stemmed] = (wordCounts[stemmed] || 0) + weight;
+      }
+    }
+  });
+}
+
 function findQuizFiles(dir, fileList = []) {
   if (!fs.existsSync(dir)) return fileList;
   const files = fs.readdirSync(dir);
@@ -233,6 +283,62 @@ function generateIndex() {
             const h1Match = content.match(/^#\s+(.+)$/m);
             if (h1Match) chapterTitle = h1Match[1].trim();
 
+            // Extract explicit taxonomy tags from <details>
+            const docTopics = new Set();
+            const docTags = new Set();
+            const docDisciplines = new Set();
+
+            const detailsRegex = /<details[^>]*>/gi;
+            let dMatch;
+            while ((dMatch = detailsRegex.exec(content)) !== null) {
+              const tagStr = dMatch[0];
+              const topM = tagStr.match(/data-topic="([^"]+)"/i);
+              if (topM) topM[1].split(',').forEach(x => { const c = x.trim(); if (c) docTopics.add(c); });
+
+              const tagM = tagStr.match(/data-tags="([^"]+)"/i);
+              if (tagM) tagM[1].split(',').forEach(x => { const c = x.trim(); if (c) docTags.add(c); });
+
+              const discM = tagStr.match(/data-discipline="([^"]+)"/i);
+              if (discM) discM[1].split(',').forEach(x => { const c = x.trim(); if (c) docDisciplines.add(c); });
+            }
+
+            // Check verified book taxonomy map first
+            const verifiedTopic = taxonomySummary && taxonomySummary.bookMap && taxonomySummary.bookMap[canonicalBookId] && taxonomySummary.bookMap[canonicalBookId][chapterBaseName];
+            if (verifiedTopic) {
+              if (Array.isArray(verifiedTopic)) {
+                verifiedTopic.forEach(t => { if (typeof t === 'string' && t.trim()) docTopics.add(t.trim()); });
+              } else if (typeof verifiedTopic === 'string') {
+                docTopics.add(verifiedTopic.trim());
+              }
+            } else {
+              // Match strictly against chapter title (never arbitrary body text)
+              for (const rule of TOPIC_KEYWORD_RULES) {
+                if (rule.pattern.test(chapterTitle)) {
+                  docTopics.add(rule.topicId);
+                }
+              }
+            }
+
+            // Inject topic & tag vocabulary tokens into wordCounts
+            docTopics.forEach(topId => {
+              addWeightedTokens(wordCounts, topId.replace(/_/g, ' '), 6);
+              if (taxonomySummary && taxonomySummary.topics && taxonomySummary.topics[topId]) {
+                const tInfo = taxonomySummary.topics[topId];
+                addWeightedTokens(wordCounts, tInfo.nameRu, 5);
+                addWeightedTokens(wordCounts, tInfo.nameEn, 5);
+                if (tInfo.disciplineId) docDisciplines.add(tInfo.disciplineId);
+              }
+            });
+
+            docTags.forEach(tagId => {
+              addWeightedTokens(wordCounts, tagId.replace(/_/g, ' '), 7);
+              if (taxonomySummary && taxonomySummary.tags && taxonomySummary.tags[tagId]) {
+                const tgInfo = taxonomySummary.tags[tagId];
+                addWeightedTokens(wordCounts, tgInfo.nameRu, 6);
+                addWeightedTokens(wordCounts, tgInfo.nameEn, 6);
+              }
+            });
+
             rawDocuments.push({
               id: `${canonicalBookId}|${chapterBaseName}|${editionKey}`,
               type: 'book',
@@ -243,6 +349,9 @@ function generateIndex() {
               bt: bookTitle,
               e: editionKey,
               l: language,
+              topics: Array.from(docTopics),
+              tags: Array.from(docTags),
+              disciplines: Array.from(docDisciplines),
               w: wordCounts
             });
           }
@@ -291,6 +400,25 @@ function generateIndex() {
         const wordCounts = buildWordCounts(fullSearchableText);
         const headingText = (q.questionRu || q.questionEn || `Question #${qId}`).replace(/<[^>]+>/g, '').trim();
 
+        const qTopics = Array.isArray(q.topics) ? q.topics : [];
+        const qTags = Array.isArray(q.tags) ? q.tags : [];
+        const qDisciplines = Array.isArray(q.disciplines) ? q.disciplines : [];
+
+        qTopics.forEach(tId => {
+          addWeightedTokens(wordCounts, tId.replace(/_/g, ' '), 5);
+          if (taxonomySummary && taxonomySummary.topics && taxonomySummary.topics[tId]) {
+            addWeightedTokens(wordCounts, taxonomySummary.topics[tId].nameRu, 4);
+            addWeightedTokens(wordCounts, taxonomySummary.topics[tId].nameEn, 4);
+          }
+        });
+        qTags.forEach(tgId => {
+          addWeightedTokens(wordCounts, tgId.replace(/_/g, ' '), 6);
+          if (taxonomySummary && taxonomySummary.tags && taxonomySummary.tags[tgId]) {
+            addWeightedTokens(wordCounts, taxonomySummary.tags[tgId].nameRu, 5);
+            addWeightedTokens(wordCounts, taxonomySummary.tags[tgId].nameEn, 5);
+          }
+        });
+
         rawDocuments.push({
           id: `quiz|${relPath}|${qId}`,
           type: 'quiz',
@@ -304,6 +432,9 @@ function generateIndex() {
           e: 'original',
           l: detectLanguage(fullSearchableText),
           w: wordCounts,
+          topics: qTopics,
+          tags: qTags,
+          disciplines: qDisciplines,
           quizFile: relPath,
           qId: qId,
           qRu: q.questionRu || '',

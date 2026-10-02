@@ -1,0 +1,374 @@
+/**
+ * Starley Medical Library - Book Taxonomy Map Builder
+ * Defines explicit, verified chapter-to-topic mappings for the 10 core medical textbooks.
+ * Supports multi-topic and multi-disciplinary chapters.
+ */
+
+const fs = require('fs');
+const path = require('path');
+
+const ROOT_DIR = path.resolve(__dirname, '..');
+const TAXONOMY_SUMMARY_PATH = path.join(ROOT_DIR, 'quiz', 'taxonomy-summary.json');
+const OUTPUT_MAP_JSON = path.join(ROOT_DIR, 'quiz', 'book-taxonomy-map.json');
+
+const BOOK_TAXONOMY_MAP = {
+  // 1. Key Questions in Cardiac Surgery
+  "books/cardiac-surgery/Key-questions-in-cardiac-surgery": {
+    "chapter-01": ["cardiac_anatomy", "coronary_anatomy", "conduction_anatomy", "thoracic_vessels_anatomy"],
+    "chapter-02": ["cardiac_cycle_hemodynamics", "cardiac_cellular_physiology"],
+    "chapter-03": ["antiarrhythmic_cv_drugs", "antithrombotic_drugs"],
+    "chapter-04": ["ecg_basics", "ecg_ischemia", "ecg_arrhythmias"],
+    "chapter-05": ["echo_hemodynamics", "echo_valve_quantification"],
+    "chapter-06": ["coronary_angiography_cath", "hemodynamic_monitoring"],
+    "chapter-07": ["cardiac_ct_mri"],
+    "chapter-08": ["cpb_hemostasis", "cannulation_anastomosis"],
+    "chapter-09": ["cpb_hemostasis"],
+    "chapter-10": ["cpb_hemostasis"],
+    "chapter-11": ["cpb_hemostasis"],
+    "chapter-12": ["aortic_valve", "structural_transcatheter"],
+    "chapter-13": ["mitral_valve", "rheumatic_valve"],
+    "chapter-14": ["tricuspid_pulmonary"],
+    "chapter-15": ["endocarditis"],
+    "chapter-16": ["aorta_thoracic", "marfan_connective"],
+    "chapter-17": ["cad_cabg", "coronary_anatomy", "pci_stents"],
+    "chapter-18": ["heart_failure_lvad", "lvad_management"],
+    "chapter-19": ["arrhythmia_surgery", "af_management"],
+    "chapter-20": ["pericardium_tumors", "cardiac_trauma"],
+    "chapter-21": ["cardiac_anesthesia", "hemodynamic_monitoring"],
+    "chapter-22": ["postop_bleeding_tamponade", "respiratory_ards", "af_management"]
+  },
+
+  // 2. Key Questions in Congenital Cardiac Surgery
+  "books/cardiac-surgery/Key-questions-in-congenital-cardiac-surgery": {
+    "chapter-01": ["embryology", "conduction_anatomy"],
+    "chapter-02": ["chd_physiology"],
+    "chapter-03": ["antiarrhythmic_cv_drugs"],
+    "chapter-04": ["echo_congenital_myocardial", "echo_hemodynamics"],
+    "chapter-05": ["cardiac_ct_mri"],
+    "chapter-06": ["structural_transcatheter", "coronary_angiography_cath"],
+    "chapter-07": ["cardiac_anesthesia"],
+    "chapter-08": ["chd_perioperative_icu", "hemodynamic_monitoring"],
+    "chapter-09": ["achd"],
+    "chapter-10": ["cpb_hemostasis"],
+    "chapter-11": ["ecmo_mcs"],
+    "chapter-13": ["chd_shunts"],
+    "chapter-14": ["chd_shunts"],
+    "chapter-15": ["chd_shunts"],
+    "chapter-16": ["congenital_veins"],
+    "chapter-17": ["chd_obstructive"],
+    "chapter-18": ["chd_obstructive", "aorta_thoracic"],
+    "chapter-19": ["aorta_thoracic", "marfan_connective"],
+    "chapter-20": ["chd_obstructive", "tricuspid_pulmonary"],
+    "chapter-21": ["tof_fallot"],
+    "chapter-22": ["tof_fallot"],
+    "chapter-23": ["tga_transposition"],
+    "chapter-24": ["tga_transposition"],
+    "chapter-25": ["truncus_ebstein"],
+    "chapter-26": ["single_ventricle"],
+    "chapter-27": ["mitral_valve"],
+    "chapter-28": ["chd_obstructive"],
+    "chapter-29": ["truncus_ebstein"],
+    "chapter-30": ["congenital_coronaries"],
+    "chapter-31": ["chd_shunts"],
+    "chapter-32": ["thoracic_vessels_anatomy"],
+    "chapter-33": ["chd_shunts"],
+    "chapter-34": ["chd_obstructive"],
+    "chapter-35": ["chd_obstructive"],
+    "chapter-36": ["single_ventricle"],
+    "chapter-37": ["single_ventricle"],
+    "chapter-38": ["heart_transplantation", "lung_transplantation"],
+    "chapter-39": ["arrhythmia_surgery"],
+    "chapter-40": ["pericardium_tumors"],
+    "chapter-41": ["endocarditis"]
+  },
+
+  // 3. Bojar - Manual of Perioperative Care in Adult Cardiac Surgery
+  "books/icu/bojar": {
+    "chapter-01": ["cad_cabg", "aortic_valve", "mitral_valve", "aorta_thoracic"],
+    "chapter-02": ["coronary_angiography_cath", "echo_hemodynamics", "cardiac_ct_mri"],
+    "chapter-03": ["risk_scores_frailty", "preop_evaluation_noncardiac"],
+    "chapter-04": ["cardiac_anesthesia", "hemodynamic_monitoring"],
+    "chapter-05": ["cpb_hemostasis", "cannulation_anastomosis"],
+    "chapter-06": ["cpb_hemostasis"],
+    "chapter-07": ["hemodynamic_monitoring", "icu_fluid_acidbase_electrolytes"],
+    "chapter-08": ["postop_bleeding_tamponade", "low_output_inotropes", "respiratory_ards"],
+    "chapter-09": ["postop_bleeding_tamponade", "coagulation_hemostasis_basics", "transfusion_pbm"],
+    "chapter-10": ["respiratory_ards", "chronic_lung_disease"],
+    "chapter-11": ["low_output_inotropes", "shock_hf_pathophysiology", "ecmo_mcs", "af_management"],
+    "chapter-12": ["aki_renal_rrt", "icu_fluid_acidbase_electrolytes", "diabetes_perioperative"],
+    "chapter-13": ["icu_infections_sepsis", "stroke_medical", "perioperative_neuro"]
+  },
+
+  // 4. Cohn - Cardiac Surgery in the Adult
+  "books/cardiac-surgery/cohn": {
+    "chapter-02": ["cardiac_anatomy", "coronary_anatomy", "conduction_anatomy"],
+    "chapter-03": ["cardiac_cycle_hemodynamics", "cardiac_cellular_physiology"],
+    "chapter-04": ["antiarrhythmic_cv_drugs", "antithrombotic_drugs"],
+    "chapter-05": ["cardiac_pathology"],
+    "chapter-06": ["cardiac_ct_mri"],
+    "chapter-07": ["risk_scores_frailty"],
+    "chapter-10": ["preop_evaluation_noncardiac"],
+    "chapter-11": ["cardiac_anesthesia"],
+    "chapter-12": ["echo_hemodynamics", "echo_valve_quantification"],
+    "chapter-13": ["cpb_hemostasis", "cannulation_anastomosis"],
+    "chapter-14": ["transfusion_pbm", "coagulation_hemostasis_basics"],
+    "chapter-15": ["cpb_hemostasis"],
+    "chapter-16": ["cpb_hemostasis"],
+    "chapter-17": ["postop_bleeding_tamponade", "low_output_inotropes"],
+    "chapter-18": ["ecmo_mcs"],
+    "chapter-19": ["pci_stents", "cad_cabg"],
+    "chapter-20": ["cad_cabg", "cpb_hemostasis", "coronary_anatomy"],
+    "chapter-21": ["cad_cabg", "coronary_anatomy"],
+    "chapter-22": ["cad_cabg", "post_mi_mechanical"],
+    "chapter-23": ["cad_cabg", "redo_mics_hybrid"],
+    "chapter-24": ["redo_mics_hybrid", "cad_cabg"],
+    "chapter-25": ["post_mi_mechanical", "lv_aneurysm_remodeling", "cad_cabg"],
+    "chapter-26": ["aortic_valve"],
+    "chapter-27": ["aortic_valve"],
+    "chapter-28": ["aortic_valve"],
+    "chapter-29": ["aortic_valve"],
+    "chapter-30": ["aortic_valve", "aorta_thoracic", "marfan_connective"],
+    "chapter-31": ["endocarditis", "aortic_valve"],
+    "chapter-32": ["redo_mics_hybrid", "aortic_valve"],
+    "chapter-33": ["structural_transcatheter", "aortic_valve"],
+    "chapter-34": ["mitral_valve"],
+    "chapter-35": ["mitral_valve"],
+    "chapter-36": ["rheumatic_valve", "mitral_valve"],
+    "chapter-37": ["mitral_valve", "heart_failure_lvad"],
+    "chapter-38": ["endocarditis", "mitral_valve"],
+    "chapter-39": ["mitral_valve", "achd"],
+    "chapter-40": ["redo_mics_hybrid", "mitral_valve", "tricuspid_pulmonary"],
+    "chapter-41": ["structural_transcatheter", "mitral_valve"],
+    "chapter-42": ["mitral_valve"],
+    "chapter-43": ["tricuspid_pulmonary"],
+    "chapter-44": ["aortic_valve", "mitral_valve"],
+    "chapter-45": ["cad_cabg", "mitral_valve", "aortic_valve"],
+    "chapter-46": ["redo_mics_hybrid"],
+    "chapter-47": ["aorta_thoracic"],
+    "chapter-48": ["aorta_thoracic"],
+    "chapter-49": ["aorta_thoracic"],
+    "chapter-50": ["aorta_thoracic", "structural_transcatheter"],
+    "chapter-51": ["thoracic_vascular_trauma"],
+    "chapter-52": ["vte_pulmonary_embolism"],
+    "chapter-53": ["af_management", "arrhythmia_surgery"],
+    "chapter-54": ["arrhythmia_surgery", "af_management"],
+    "chapter-55": ["devices_pacing_crt"],
+    "chapter-56": ["achd"],
+    "chapter-57": ["pericardium_tumors"],
+    "chapter-58": ["pericardium_tumors"],
+    "chapter-60": ["heart_transplantation"],
+    "chapter-61": ["lung_transplantation"],
+    "chapter-62": ["lvad_management", "heart_failure_lvad"]
+  },
+
+  // 5. Kirklin / Barratt-Boyes Cardiac Surgery
+  "books/cardiac-surgery/Kirklin5": {
+    "chapter-01": ["cardiac_anatomy", "coronary_anatomy", "conduction_anatomy"],
+    "chapter-02": ["cpb_hemostasis", "cannulation_anastomosis"],
+    "chapter-03": ["cpb_hemostasis"],
+    "chapter-04": ["cardiac_anesthesia", "postop_bleeding_tamponade"],
+    "chapter-05": ["redo_mics_hybrid"],
+    "chapter-06": ["echo_hemodynamics", "cardiac_ct_mri"],
+    "chapter-09": ["cad_cabg", "coronary_anatomy"],
+    "chapter-10": ["post_mi_mechanical", "lv_aneurysm_remodeling"],
+    "chapter-11": ["mitral_valve", "rheumatic_valve"],
+    "chapter-12": ["aortic_valve"],
+    "chapter-13": ["tricuspid_pulmonary"],
+    "chapter-14": ["endocarditis"],
+    "chapter-15": ["arrhythmia_surgery", "af_management"],
+    "chapter-16": ["cardiac_trauma"],
+    "chapter-17": ["pericardium_tumors"],
+    "chapter-18": ["pericardium_tumors"],
+    "chapter-19": ["cardiomyopathy_surgery"],
+    "chapter-20": ["ecmo_mcs", "lvad_management"],
+    "chapter-21": ["heart_transplantation"],
+    "chapter-22": ["aorta_thoracic"],
+    "chapter-23": ["aorta_thoracic"],
+    "chapter-24": ["thoracic_vascular_trauma"],
+    "chapter-25": ["vte_pulmonary_embolism"],
+    "chapter-26": ["embryology"],
+    "chapter-28": ["chd_shunts"],
+    "chapter-29": ["chd_shunts", "congenital_veins"],
+    "chapter-30": ["congenital_veins"],
+    "chapter-32": ["chd_shunts"],
+    "chapter-33": ["chd_shunts"],
+    "chapter-34": ["tof_fallot"],
+    "chapter-35": ["tof_fallot"],
+    "chapter-38": ["congenital_coronaries"],
+    "chapter-40": ["chd_obstructive"],
+    "chapter-43": ["truncus_ebstein"],
+    "chapter-44": ["tga_transposition"],
+    "chapter-48": ["truncus_ebstein"],
+    "chapter-49": ["mitral_valve"],
+    "chapter-50": ["aortic_valve"],
+    "chapter-51": ["single_ventricle"],
+    "chapter-52": ["single_ventricle"],
+    "chapter-54": ["achd"]
+  },
+
+  // 6. Sellke - Atlas of Cardiac Surgical Techniques
+  "books/cardiac-surgery/sellke": {
+    "chapter-01": ["access_and_closure"],
+    "chapter-02": ["cannulation_anastomosis", "cpb_hemostasis"],
+    "chapter-03": ["cad_cabg", "coronary_anatomy"],
+    "chapter-04": ["cad_cabg"],
+    "chapter-05": ["cad_cabg", "redo_mics_hybrid"],
+    "chapter-06": ["cad_cabg", "pci_stents"],
+    "chapter-07": ["cad_cabg", "redo_mics_hybrid"],
+    "chapter-08": ["post_mi_mechanical"],
+    "chapter-09": ["aortic_valve"],
+    "chapter-10": ["redo_mics_hybrid", "aortic_valve"],
+    "chapter-11": ["aortic_valve"],
+    "chapter-12": ["aortic_valve"],
+    "chapter-13": ["aortic_valve", "aorta_thoracic"],
+    "chapter-14": ["aorta_thoracic"],
+    "chapter-15": ["endocarditis"],
+    "chapter-16": ["structural_transcatheter", "aortic_valve"],
+    "chapter-17": ["aortic_valve"],
+    "chapter-18": ["mitral_valve"],
+    "chapter-19": ["mitral_valve"],
+    "chapter-20": ["redo_mics_hybrid", "mitral_valve"],
+    "chapter-21": ["redo_mics_hybrid", "mitral_valve"],
+    "chapter-22": ["structural_transcatheter", "mitral_valve"],
+    "chapter-23": ["tricuspid_pulmonary"],
+    "chapter-24": ["aorta_thoracic"],
+    "chapter-25": ["aorta_thoracic"],
+    "chapter-26": ["arrhythmia_surgery", "af_management"],
+    "chapter-27": ["arrhythmia_surgery"],
+    "chapter-28": ["pericardium_tumors"],
+    "chapter-29": ["pericardium_tumors"],
+    "chapter-30": ["heart_transplantation"],
+    "chapter-31": ["lvad_management", "heart_failure_lvad"],
+    "chapter-32": ["ecmo_mcs"]
+  },
+
+  // 7. Wilcox - Surgical Anatomy of the Heart
+  "books/anatomy/wilcox": {
+    "chapter-01": ["cardiac_anatomy"],
+    "chapter-02": ["cardiac_anatomy", "coronary_anatomy"],
+    "chapter-03": ["cardiac_anatomy", "conduction_anatomy"],
+    "chapter-04": ["cardiac_anatomy", "aortic_valve", "mitral_valve"],
+    "chapter-05": ["chd_shunts"],
+    "chapter-06": ["chd_shunts"],
+    "chapter-07": ["tga_transposition"],
+    "chapter-08": ["tof_fallot"],
+    "chapter-09": ["chd_obstructive"],
+    "chapter-10": ["congenital_veins"]
+  },
+
+  // 8. Netter - Cardiothoracic Anatomy
+  "books/anatomy/Netter-Cardiothoracic-Anatomy": {
+    "chapter-01": ["cardiac_anatomy"],
+    "chapter-02": ["coronary_anatomy"],
+    "chapter-03": ["conduction_anatomy"],
+    "chapter-04": ["thoracic_vessels_anatomy"],
+    "chapter-05": ["thoracic_vessels_anatomy"],
+    "chapter-06": ["cardiac_anatomy", "aortic_valve"],
+    "chapter-07": ["cardiac_anatomy", "mitral_valve"],
+    "chapter-08": ["cardiac_anatomy", "tricuspid_pulmonary"],
+    "chapter-09": ["cardiac_anatomy", "pericardium_tumors"]
+  },
+
+  // 9. Marino - The ICU Book
+  "books/icu/marino": {
+    "chapter-05": ["vte_pulmonary_embolism"],
+    "chapter-07": ["hemodynamic_monitoring"],
+    "chapter-08": ["hemodynamic_monitoring"],
+    "chapter-10": ["icu_fluid_acidbase_electrolytes"],
+    "chapter-11": ["icu_fluid_acidbase_electrolytes"],
+    "chapter-12": ["transfusion_pbm", "coagulation_hemostasis_basics"],
+    "chapter-14": ["shock_hf_pathophysiology", "hemodynamic_monitoring"],
+    "chapter-15": ["shock_hf_pathophysiology", "transfusion_pbm"],
+    "chapter-16": ["low_output_inotropes", "shock_hf_pathophysiology"],
+    "chapter-18": ["heart_failure_lvad"],
+    "chapter-19": ["af_management"],
+    "chapter-20": ["acs_management", "cad_cabg"],
+    "chapter-21": ["cardiac_arrest_cals"],
+    "chapter-22": ["vte_pulmonary_embolism"],
+    "chapter-23": ["chronic_lung_disease"],
+    "chapter-24": ["respiratory_ards"],
+    "chapter-26": ["respiratory_ards"],
+    "chapter-27": ["respiratory_ards"],
+    "chapter-28": ["respiratory_ards"],
+    "chapter-29": ["icu_infections_sepsis"],
+    "chapter-30": ["respiratory_ards"],
+    "chapter-31": ["icu_fluid_acidbase_electrolytes"],
+    "chapter-32": ["icu_fluid_acidbase_electrolytes"],
+    "chapter-33": ["icu_fluid_acidbase_electrolytes"],
+    "chapter-34": ["aki_renal_rrt"],
+    "chapter-35": ["icu_fluid_acidbase_electrolytes"],
+    "chapter-36": ["icu_fluid_acidbase_electrolytes"],
+    "chapter-37": ["icu_fluid_acidbase_electrolytes"],
+    "chapter-38": ["icu_fluid_acidbase_electrolytes"],
+    "chapter-39": ["icu_nutrition_gi_liver"],
+    "chapter-41": ["icu_infections_sepsis"],
+    "chapter-42": ["icu_infections_sepsis"],
+    "chapter-47": ["stroke_medical", "perioperative_neuro"],
+    "chapter-48": ["icu_nutrition_gi_liver"],
+    "chapter-49": ["icu_nutrition_gi_liver"],
+    "chapter-50": ["icu_nutrition_gi_liver"],
+    "chapter-51": ["thyroid_adrenal_cardiac"]
+  },
+
+  // 10. Sugarbaker - Adult Chest Surgery
+  "books/thoracic-surgery/Sugarbaker2": {
+    "chapter-02": ["esophageal_surgery"],
+    "chapter-03": ["esophageal_surgery"],
+    "chapter-04": ["esophageal_surgery"],
+    "chapter-05": ["esophageal_surgery"],
+    "chapter-06": ["esophageal_surgery"],
+    "chapter-07": ["esophageal_surgery"],
+    "chapter-08": ["trachea_airway"],
+    "chapter-09": ["trachea_airway"],
+    "chapter-10": ["lung_cancer_nodule"],
+    "chapter-11": ["pulmonary_resection"],
+    "chapter-12": ["pulmonary_resection"],
+    "chapter-13": ["pulmonary_resection"],
+    "chapter-14": ["lung_cancer_nodule"],
+    "chapter-15": ["lung_cancer_nodule"],
+    "chapter-16": ["chronic_lung_disease"],
+    "chapter-17": ["chronic_lung_disease"],
+    "chapter-18": ["lung_infectious_benign"],
+    "chapter-19": ["lung_transplantation"],
+    "chapter-20": ["pleura_pneumothorax"],
+    "chapter-21": ["pleura_pneumothorax"],
+    "chapter-22": ["chest_wall_diaphragm"],
+    "chapter-23": ["chest_wall_diaphragm"],
+    "chapter-24": ["chest_wall_diaphragm"],
+    "chapter-25": ["mediastinal_disease"]
+  }
+};
+
+function run() {
+  console.log('🔄 Validating and saving Multi-Topic Book Taxonomy Map...');
+
+  const taxSummary = JSON.parse(fs.readFileSync(TAXONOMY_SUMMARY_PATH, 'utf8'));
+  const validTopics = taxSummary.topics || {};
+
+  let mappedCount = 0;
+  let invalidCount = 0;
+
+  for (const [bookPath, chapters] of Object.entries(BOOK_TAXONOMY_MAP)) {
+    for (const [chapterId, topicVal] of Object.entries(chapters)) {
+      const topicList = Array.isArray(topicVal) ? topicVal : [topicVal];
+      mappedCount++;
+      topicList.forEach(topicId => {
+        if (!validTopics[topicId]) {
+          console.error(`❌ Invalid topic ID "${topicId}" in ${bookPath} / ${chapterId}`);
+          invalidCount++;
+        }
+      });
+    }
+  }
+
+  if (invalidCount > 0) {
+    console.error(`❌ Validation failed with ${invalidCount} invalid topics!`);
+    process.exit(1);
+  }
+
+  console.log(`✅ All ${mappedCount} chapter mappings successfully validated against taxonomy!`);
+  fs.writeFileSync(OUTPUT_MAP_JSON, JSON.stringify(BOOK_TAXONOMY_MAP, null, 2), 'utf8');
+  console.log(`💾 Saved multi-topic mapping to ${OUTPUT_MAP_JSON}`);
+}
+
+run();

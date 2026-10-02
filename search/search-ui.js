@@ -849,6 +849,11 @@
             </div>
             <h4 class="spotlight-item-title">${highlightMatch(escapeHtml(displayTitle), this.currentQuery)}</h4>
             <div class="spotlight-item-heading">${highlightMatch(escapeHtml(displayHeading), this.currentQuery)}</div>
+            ${item.topics && item.topics.length > 0 ? `
+              <div class="spotlight-tags-row">
+                ${item.topics.slice(0, 2).map(t => `<span class="spotlight-tag-topic">🫀 ${escapeHtml(t)}</span>`).join('')}
+                ${(item.tags || []).slice(0, 3).map(tg => `<span class="spotlight-tag-pill">#${escapeHtml(tg)}</span>`).join('')}
+              </div>` : ''}
             <button class="spotlight-expand-btn">▼ Preview</button>
             <div class="spotlight-mobile-accordion">
               <div class="spotlight-snippet-box">Loading snippet...</div>
@@ -941,6 +946,7 @@
         </div>
         <div class="spotlight-preview-footer">
           <a href="${targetUrl}" class="spotlight-jump-btn">${isQuiz ? '🧠 Launch Question in Quiz Mode →' : '📖 Open Chapter in Reader →'}</a>
+          ${(!isQuiz && item.topics && item.topics.length > 0) ? `<a href="../quiz.html?topic=${encodeURIComponent(item.topics[0])}" target="_blank" class="spotlight-jump-btn" style="margin-left:8px; background:linear-gradient(135deg, #10b981 0%, #059669 100%);">🧠 Quiz on ${escapeHtml(item.topics[0])} →</a>` : ''}
         </div>
       `;
 

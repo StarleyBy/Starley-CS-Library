@@ -353,6 +353,18 @@ async function loadChapter(bookPath, chapterId, edition) {
             labelDetailsDepth(area);
             _initMdProgress(rawMd, area);
 
+            // Connect Clinical Quiz Taxonomy Banners to Book Subsections
+            const taxonomyCtx = { bookPath, chapterId, edition };
+            if (window.TaxonomyBridge) {
+                window.TaxonomyBridge.attachBannersToDetails(area, taxonomyCtx);
+            } else {
+                setTimeout(() => {
+                    if (window.TaxonomyBridge) {
+                        window.TaxonomyBridge.attachBannersToDetails(area, taxonomyCtx);
+                    }
+                }, 150);
+            }
+
             // Initialize Media Inspector for Zoomable Images & Interactive Tables
             if (window.MediaInspector) {
                 window.MediaInspector.init(area);

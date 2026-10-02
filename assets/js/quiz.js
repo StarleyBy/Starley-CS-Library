@@ -1046,6 +1046,45 @@ async function initQuizApp() {
         _initializeSearchIndex();
         initializeMuteControls();
 
+        // Direct topic / tag / discipline deep-linking from Reader or Search
+        const urlParams = new URLSearchParams(window.location.search);
+        const targetTopic = urlParams.get('topic');
+        const targetTag = urlParams.get('tag');
+        const targetDiscipline = urlParams.get('discipline');
+
+        if (targetTopic || targetTag || targetDiscipline) {
+            applyQuestionSourceMode('taxonomy');
+            if (!state.selectedTaxonomyTopics) state.selectedTaxonomyTopics = new Set();
+            state.selectedTaxonomyTopics.clear();
+
+            if (targetTopic) {
+                targetTopic.split(',').forEach(tId => {
+                    const clean = tId.trim();
+                    if (clean) state.selectedTaxonomyTopics.add(clean);
+                });
+            }
+            if (targetDiscipline && state.taxonomy && state.taxonomy.topics) {
+                state.taxonomy.topics
+                    .filter(t => t.disciplineId === targetDiscipline)
+                    .forEach(t => state.selectedTaxonomyTopics.add(t.id));
+            }
+            if (targetTag && state.taxonomy && state.taxonomy.tags) {
+                const foundTag = state.taxonomy.tags.find(tg => tg.id === targetTag || tg.nameRu === targetTag);
+                if (foundTag && Array.isArray(foundTag.topicIds)) {
+                    foundTag.topicIds.forEach(tId => state.selectedTaxonomyTopics.add(tId));
+                }
+            }
+
+            renderTaxonomySelector();
+            updateSliderForTaxonomy();
+            updateWeakSpotRadar();
+
+            setTimeout(() => {
+                const taxEl = document.getElementById('quiz-taxonomy-selector');
+                if (taxEl) taxEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }, 300);
+        }
+
     } catch (err) {
         console.error('[Quiz] Init error:', err);
         alert(err.message);
