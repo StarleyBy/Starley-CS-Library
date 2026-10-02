@@ -157,12 +157,12 @@
 
                 <div class="lobby-card">
                     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; flex-wrap: wrap; gap: 8px;">
-                        <h3 id="label-select-set" style="margin: 0;">Select Questions</h3>
+                        <h3 id="label-select-set" style="margin: 0;">Select Question Set</h3>
                         <div class="quiz-source-mode-toggle" style="display: inline-flex; background: var(--quiz-surface); border: 1px solid var(--quiz-border); border-radius: 8px; padding: 2px;">
-                            <button type="button" id="btn-source-manifests" class="source-toggle-btn active" style="padding: 4px 10px; font-size: 0.78rem; font-weight: 700; border-radius: 6px; border: none; cursor: pointer; background: var(--quiz-accent); color: white; transition: all 0.2s;">
+                            <button type="button" id="btn-source-manifests" class="source-toggle-btn active" onclick="window.switchQuestionSourceMode('manifest')" style="padding: 4px 10px; font-size: 0.78rem; font-weight: 700; border-radius: 6px; border: none; cursor: pointer; background: var(--quiz-accent); color: white; transition: all 0.2s;">
                                 📁 <span id="txt-source-manifests">По сборникам</span>
                             </button>
-                            <button type="button" id="btn-source-taxonomy" class="source-toggle-btn" style="padding: 4px 10px; font-size: 0.78rem; font-weight: 700; border-radius: 6px; border: none; cursor: pointer; background: transparent; color: var(--quiz-muted); transition: all 0.2s;">
+                            <button type="button" id="btn-source-taxonomy" class="source-toggle-btn" onclick="window.switchQuestionSourceMode('taxonomy')" style="padding: 4px 10px; font-size: 0.78rem; font-weight: 700; border-radius: 6px; border: none; cursor: pointer; background: transparent; color: var(--quiz-muted); transition: all 0.2s;">
                                 🧬 <span id="txt-source-taxonomy">По дисциплинам и темам</span>
                             </button>
                         </div>
@@ -1200,7 +1200,7 @@
     <!-- KaTeX JS for LaTeX math rendering -->
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
-    <script src="assets/js/quiz.js?v=6.5"></script>
+    <script src="assets/js/quiz.js?v=6.6"></script>
     <script src="assets/js/overlay-tools.js?v=4.2"></script>
 </body>
 </html>

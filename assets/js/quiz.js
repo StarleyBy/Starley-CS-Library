@@ -120,47 +120,57 @@ function getTotalBankQuestions() {
 }
 window.getTotalBankQuestions = getTotalBankQuestions;
 
+let _loadAllQuizPromise = null;
 async function loadAllQuizManifestIndex(forceRefresh = false) {
     if (!forceRefresh && state.allQuizRegistry && state.allQuizRegistry.length > 0 && Object.keys(state.setQuestionsMap).length >= state.allQuizRegistry.length) return;
-    try {
-        const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
-        // Add cache-busting timestamp to always fetch latest quiz manifest list
-        const res = await fetch(`${rootPath}quiz/allquiz.json?_t=${Date.now()}`);
-        if (res.ok) {
-            const data = await res.json();
-            if (data && Array.isArray(data.quizzes)) {
-                state.allQuizRegistry = data.quizzes;
-            }
-            
-            // Preload questions for all manifests so special ID resolution is instant everywhere and question count is dynamically updated!
-            for (const manifest of state.allQuizRegistry) {
-                if (forceRefresh || !state.setQuestionsMap[manifest.id]) {
-                    try {
-                        const mRes = await fetch(`${rootPath}${manifest.file}?_t=${Date.now()}`);
-                        if (mRes.ok) {
-                            const mData = await mRes.json();
-                            let qList = Array.isArray(mData) ? mData : (mData.questions || []);
-                            qList = qList.map((q, idx) => decorateQuestionWithSpecialId(q, idx, manifest.id, manifest.file, ''));
-                            state.setQuestionsMap[manifest.id] = qList;
-                            manifest.totalQuestions = qList.length;
-                            manifest.totalQ = qList.length;
-                        }
-                    } catch (mErr) {
-                        console.warn(`Failed fetching questions for ${manifest.id}:`, mErr);
-                    }
-                } else if (state.setQuestionsMap[manifest.id]) {
-                    manifest.totalQuestions = state.setQuestionsMap[manifest.id].length;
-                    manifest.totalQ = state.setQuestionsMap[manifest.id].length;
+    if (_loadAllQuizPromise && !forceRefresh) return _loadAllQuizPromise;
+
+    _loadAllQuizPromise = (async () => {
+        try {
+            const rootPath = (typeof BASE_URL !== 'undefined') ? BASE_URL : './';
+            const res = await fetch(`${rootPath}quiz/allquiz.json?_t=${Date.now()}`);
+            if (res.ok) {
+                const data = await res.json();
+                if (data && Array.isArray(data.quizzes)) {
+                    state.allQuizRegistry = data.quizzes;
                 }
+                
+                // Preload questions for all manifests in parallel
+                await Promise.all((state.allQuizRegistry || []).map(async (manifest) => {
+                    if (forceRefresh || !state.setQuestionsMap[manifest.id]) {
+                        try {
+                            const mRes = await fetch(`${rootPath}${manifest.file}?_t=${Date.now()}`);
+                            if (mRes.ok) {
+                                const mData = await mRes.json();
+                                let qList = Array.isArray(mData) ? mData : (mData.questions || []);
+                                qList = qList.map((q, idx) => decorateQuestionWithSpecialId(q, idx, manifest.id, manifest.file, ''));
+                                state.setQuestionsMap[manifest.id] = qList;
+                                manifest.totalQuestions = qList.length;
+                                manifest.totalQ = qList.length;
+                            }
+                        } catch (mErr) {
+                            console.warn(`Failed fetching questions for ${manifest.id}:`, mErr);
+                        }
+                    } else if (state.setQuestionsMap[manifest.id]) {
+                        manifest.totalQuestions = state.setQuestionsMap[manifest.id].length;
+                        manifest.totalQ = state.setQuestionsMap[manifest.id].length;
+                    }
+                }));
             }
+        } catch (e) {
+            console.warn('Failed loading quiz/allquiz.json:', e);
         }
-    } catch (e) {
-        console.warn('Failed loading quiz/allquiz.json:', e);
+        if (!state.allQuizRegistry || state.allQuizRegistry.length === 0) {
+            state.allQuizRegistry = ALL_MANIFESTS_REGISTRY;
+        }
+        state.totalBankQuestions = getTotalBankQuestions();
+    })();
+
+    try {
+        await _loadAllQuizPromise;
+    } finally {
+        _loadAllQuizPromise = null;
     }
-    if (!state.allQuizRegistry || state.allQuizRegistry.length === 0) {
-        state.allQuizRegistry = ALL_MANIFESTS_REGISTRY;
-    }
-    state.totalBankQuestions = getTotalBankQuestions();
 }
 
 function decorateQuestionWithSpecialId(q, idx, manifestId, setFile, bookPrefix) {
@@ -521,6 +531,14 @@ async function loadQuizTaxonomy() {
         const res = await fetch(`${rootPath}quiz/quiz-taxonomy.json?_t=${Date.now()}`);
         if (res.ok) {
             state.taxonomy = await res.json();
+            if (state.taxonomy && Array.isArray(state.taxonomy.tags)) {
+                state.taxonomyTagMap = new Map();
+                state.taxonomy.tags.forEach(t => {
+                    if (t.id) state.taxonomyTagMap.set(t.id.toLowerCase(), t);
+                    if (t.nameRu) state.taxonomyTagMap.set(t.nameRu.toLowerCase(), t);
+                    if (t.nameEn) state.taxonomyTagMap.set(t.nameEn.toLowerCase(), t);
+                });
+            }
             console.log('[Quiz Taxonomy] Loaded successfully:', state.taxonomy.meta);
             return;
         }
@@ -615,15 +633,11 @@ function getQuestionTopics(q) {
         const tId = q.topic.toLowerCase().replace(/[^a-z0-9]/g, '_');
         return [tId];
     }
-    if (Array.isArray(q.tags) && q.tags.length > 0 && state.taxonomy && Array.isArray(state.taxonomy.tags)) {
+    if (Array.isArray(q.tags) && q.tags.length > 0) {
         const resolved = new Set();
         q.tags.forEach(tTag => {
             const clean = String(tTag).toLowerCase().trim();
-            const foundTag = state.taxonomy.tags.find(t => 
-                t.id === clean || 
-                (t.nameRu && t.nameRu.toLowerCase() === clean) || 
-                (t.nameEn && t.nameEn.toLowerCase() === clean)
-            );
+            const foundTag = state.taxonomyTagMap ? state.taxonomyTagMap.get(clean) : null;
             if (foundTag && Array.isArray(foundTag.topicIds)) {
                 foundTag.topicIds.forEach(topId => resolved.add(topId));
             }
@@ -1572,38 +1586,42 @@ async function renderTaxonomySelector() {
     }
     if (!state.taxonomy || !state.taxonomy.disciplines) return;
 
-    // Preload library questions if needed so question count per topic is accurate
-    await loadAllQuizManifestIndex(false);
-
-    // Build question count per topic and discipline
-    const topicCountMap = {};
-    const discCountMap = {};
-    state.taxonomy.disciplines.forEach(d => { discCountMap[d.id] = 0; });
-    state.taxonomy.topics.forEach(t => { topicCountMap[t.id] = 0; });
-
-    const seenMap = new Set();
-    if (state.setQuestionsMap) {
-        Object.values(state.setQuestionsMap).forEach(list => {
-            if (Array.isArray(list)) {
-                list.forEach(q => {
-                    const key = getQuestionKey(q);
-                    if (!seenMap.has(key)) {
-                        seenMap.add(key);
-                        const qDiscs = getQuestionDisciplines(q);
-                        const qTopics = getQuestionTopics(q);
-                        qDiscs.forEach(d => {
-                            if (discCountMap[d] !== undefined) discCountMap[d]++;
-                        });
-                        qTopics.forEach(t => {
-                            if (topicCountMap[t] !== undefined) topicCountMap[t]++;
-                        });
-                    }
-                });
-            }
-        });
-    }
-
     const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+
+    // Helper to calculate question counts per topic and discipline from available manifests
+    const calculateCounts = () => {
+        const topicCountMap = {};
+        const discCountMap = {};
+        state.taxonomy.disciplines.forEach(d => { discCountMap[d.id] = 0; });
+        (state.taxonomy.topics || []).forEach(t => { topicCountMap[t.id] = 0; });
+
+        const seenMap = new Set();
+        if (state.setQuestionsMap) {
+            Object.values(state.setQuestionsMap).forEach(list => {
+                if (Array.isArray(list)) {
+                    list.forEach(q => {
+                        const key = getQuestionKey(q);
+                        if (!seenMap.has(key)) {
+                            seenMap.add(key);
+                            const qDiscs = getQuestionDisciplines(q);
+                            const qTopics = getQuestionTopics(q);
+                            qDiscs.forEach(d => {
+                                if (discCountMap[d] !== undefined) discCountMap[d]++;
+                            });
+                            qTopics.forEach(t => {
+                                if (topicCountMap[t] !== undefined) topicCountMap[t]++;
+                            });
+                        }
+                    });
+                }
+            });
+        }
+        return { topicCountMap, discCountMap };
+    };
+
+    let { topicCountMap, discCountMap } = calculateCounts();
+
+    // Render immediately without waiting for network!
     container.innerHTML = '';
 
     // Render quick action bar: Select All / Deselect All
@@ -1611,10 +1629,10 @@ async function renderTaxonomySelector() {
     actionBar.style.cssText = 'display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; font-size: 0.78rem; padding: 0 4px;';
     
     const countSelected = state.selectedTaxonomyTopics ? state.selectedTaxonomyTopics.size : 0;
-    const totalTopics = state.taxonomy.topics.length;
+    const totalTopics = state.taxonomy.topics ? state.taxonomy.topics.length : 0;
     actionBar.innerHTML = `
         <div style="color: var(--quiz-muted);">
-            ${isRu ? 'Выбрано тем' : 'Topics selected'}: <strong style="color: var(--quiz-accent); font-size: 0.9rem;">${countSelected}</strong> / ${totalTopics}
+            ${isRu ? 'Выбрано тем' : 'Topics selected'}: <strong id="tax-selected-topics-count" style="color: var(--quiz-accent); font-size: 0.9rem;">${countSelected}</strong> / ${totalTopics}
         </div>
         <div style="display: flex; gap: 8px;">
             <button type="button" id="btn-tax-select-all" style="background: rgba(255,255,255,0.06); border: 1px solid var(--quiz-border); color: var(--quiz-text); padding: 4px 10px; border-radius: 6px; font-size: 0.75rem; cursor: pointer; font-weight: 700;">
@@ -1630,7 +1648,7 @@ async function renderTaxonomySelector() {
     const btnSelectAll = actionBar.querySelector('#btn-tax-select-all');
     if (btnSelectAll) {
         btnSelectAll.onclick = () => {
-            state.taxonomy.topics.forEach(t => state.selectedTaxonomyTopics.add(t.id));
+            (state.taxonomy.topics || []).forEach(t => state.selectedTaxonomyTopics.add(t.id));
             renderTaxonomySelector();
             updateSliderForTaxonomy();
             updateWeakSpotRadar();
@@ -1650,11 +1668,12 @@ async function renderTaxonomySelector() {
 
     // Render cards for each discipline
     state.taxonomy.disciplines.forEach(disc => {
-        const topics = state.taxonomy.topics.filter(t => t.disciplineId === disc.id);
+        const topics = (state.taxonomy.topics || []).filter(t => t.disciplineId === disc.id);
         const discTopicsSelected = topics.filter(t => state.selectedTaxonomyTopics.has(t.id)).length;
         const isAllDiscSelected = topics.length > 0 && discTopicsSelected === topics.length;
 
         const discCard = document.createElement('div');
+        discCard.dataset.discId = disc.id;
         discCard.className = `taxonomy-disc-card ${discTopicsSelected > 0 ? 'active-discipline' : ''}`;
 
         const discTitle = isRu ? disc.nameRu : disc.nameEn;
@@ -1665,9 +1684,10 @@ async function renderTaxonomySelector() {
                 <div class="taxonomy-disc-title">
                     <span class="taxonomy-disc-icon">${disc.icon}</span>
                     <span>${discTitle}</span>
+                    <span class="taxonomy-disc-chevron" style="font-size: 0.75rem; color: var(--quiz-muted); margin-left: 4px; transition: transform 0.2s;">▼</span>
                 </div>
                 <div class="taxonomy-disc-stats">
-                    <span class="taxonomy-badge-count">${discTopicsSelected}/${topics.length} ${isRu ? 'тем' : 'topics'} • ${qCount} Qs</span>
+                    <span class="taxonomy-badge-count disc-badge">${discTopicsSelected}/${topics.length} ${isRu ? 'тем' : 'topics'} • ${qCount} Qs</span>
                     <button type="button" class="taxonomy-disc-select-all">
                         ${isAllDiscSelected ? (isRu ? 'Снять' : 'Deselect') : (isRu ? 'Все' : 'All')}
                     </button>
@@ -1676,6 +1696,17 @@ async function renderTaxonomySelector() {
             <div class="taxonomy-topics-container">
             </div>
         `;
+
+        const header = discCard.querySelector('.taxonomy-disc-header');
+        const topicsContainer = discCard.querySelector('.taxonomy-topics-container');
+        const chevron = discCard.querySelector('.taxonomy-disc-chevron');
+
+        header.onclick = (e) => {
+            if (e.target.closest('.taxonomy-disc-select-all')) return;
+            const isCollapsed = topicsContainer.style.display === 'none';
+            topicsContainer.style.display = isCollapsed ? 'flex' : 'none';
+            if (chevron) chevron.style.transform = isCollapsed ? 'rotate(0deg)' : 'rotate(-90deg)';
+        };
 
         const btnToggleDisc = discCard.querySelector('.taxonomy-disc-select-all');
         btnToggleDisc.onclick = (e) => {
@@ -1691,13 +1722,13 @@ async function renderTaxonomySelector() {
             playSound('click');
         };
 
-        const topicsContainer = discCard.querySelector('.taxonomy-topics-container');
         topics.forEach(t => {
             const isSelected = state.selectedTaxonomyTopics.has(t.id);
             const topicName = isRu ? t.nameRu : t.nameEn;
             const tCount = topicCountMap[t.id] || 0;
 
             const chip = document.createElement('div');
+            chip.dataset.topicId = t.id;
             chip.className = `taxonomy-topic-chip ${isSelected ? 'active' : ''}`;
             chip.innerHTML = `
                 <i class="${isSelected ? 'fas fa-check-circle' : 'far fa-circle'}"></i>
@@ -1705,7 +1736,8 @@ async function renderTaxonomySelector() {
                 <span class="taxonomy-badge-count">${tCount}</span>
             `;
 
-            chip.onclick = () => {
+            chip.onclick = (e) => {
+                e.stopPropagation();
                 if (state.selectedTaxonomyTopics.has(t.id)) {
                     state.selectedTaxonomyTopics.delete(t.id);
                 } else {
@@ -1720,9 +1752,9 @@ async function renderTaxonomySelector() {
                 // Update disc card stats & styling
                 const newSelectedCount = topics.filter(top => state.selectedTaxonomyTopics.has(top.id)).length;
                 discCard.classList.toggle('active-discipline', newSelectedCount > 0);
-                const badge = discCard.querySelector('.taxonomy-badge-count');
+                const badge = discCard.querySelector('.disc-badge');
                 if (badge) {
-                    badge.textContent = `${newSelectedCount}/${topics.length} ${isRu ? 'тем' : 'topics'} • ${qCount} Qs`;
+                    badge.textContent = `${newSelectedCount}/${topics.length} ${isRu ? 'тем' : 'topics'} • ${discCountMap[disc.id] || 0} Qs`;
                 }
                 const btnAll = discCard.querySelector('.taxonomy-disc-select-all');
                 if (btnAll) {
@@ -1730,7 +1762,7 @@ async function renderTaxonomySelector() {
                 }
 
                 // Update action bar total counter
-                const countSelectedEl = actionBar.querySelector('strong');
+                const countSelectedEl = document.getElementById('tax-selected-topics-count');
                 if (countSelectedEl) {
                     countSelectedEl.textContent = state.selectedTaxonomyTopics.size;
                 }
@@ -1745,10 +1777,33 @@ async function renderTaxonomySelector() {
 
         container.appendChild(discCard);
     });
+
+    // In the background, load manifests if not yet cached, and smoothly update badge counts
+    if (!state.setQuestionsMap || Object.keys(state.setQuestionsMap).length < (state.allQuizRegistry?.length || 1)) {
+        loadAllQuizManifestIndex(false).then(() => {
+            const updated = calculateCounts();
+            container.querySelectorAll('.taxonomy-topic-chip').forEach(chip => {
+                const topId = chip.dataset.topicId;
+                const countBadge = chip.querySelector('.taxonomy-badge-count');
+                if (countBadge && updated.topicCountMap[topId] !== undefined) {
+                    countBadge.textContent = updated.topicCountMap[topId];
+                }
+            });
+            container.querySelectorAll('.taxonomy-disc-card').forEach(card => {
+                const dId = card.dataset.discId;
+                const dBadge = card.querySelector('.disc-badge');
+                const tList = (state.taxonomy.topics || []).filter(t => t.disciplineId === dId);
+                const selCount = tList.filter(t => state.selectedTaxonomyTopics.has(t.id)).length;
+                if (dBadge) {
+                    dBadge.textContent = `${selCount}/${tList.length} ${isRu ? 'тем' : 'topics'} • ${updated.discCountMap[dId] || 0} Qs`;
+                }
+            });
+            updateSliderForTaxonomy();
+        }).catch(() => {});
+    }
 }
 
 async function updateSliderForTaxonomy() {
-    await loadAllQuizManifestIndex(false);
     let totalQs = 0;
     const seenMap = new Set();
 
@@ -1801,61 +1856,92 @@ async function updateSliderForTaxonomy() {
     }
 }
 
-function initQuestionSourceToggle() {
+function applyQuestionSourceMode(mode) {
+    state.questionSourceMode = mode;
+    const isTax = mode === 'taxonomy';
+
     const btnManifests = document.getElementById('btn-source-manifests');
     const btnTaxonomy = document.getElementById('btn-source-taxonomy');
     const setList = document.getElementById('quiz-set-list');
     const taxSelector = document.getElementById('quiz-taxonomy-selector');
-    const txtManifests = document.getElementById('txt-source-manifests');
-    const txtTaxonomy = document.getElementById('txt-source-taxonomy');
-    const lblSelectSet = document.getElementById('label-select-set');
 
-    if (!btnManifests || !btnTaxonomy) return;
-
-    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
-    if (txtManifests) txtManifests.textContent = isRu ? 'По сборникам' : 'By Manifests';
-    if (txtTaxonomy) txtTaxonomy.textContent = isRu ? 'По дисциплинам и темам' : 'By Clinical Topics';
-    if (lblSelectSet) lblSelectSet.textContent = isRu ? 'Выбор вопросов' : 'Select Questions';
-
-    const applySourceMode = (mode) => {
-        state.questionSourceMode = mode;
-        const isTax = mode === 'taxonomy';
-
+    if (btnManifests) {
         btnManifests.classList.toggle('active', !isTax);
         btnManifests.style.background = !isTax ? 'var(--quiz-accent)' : 'transparent';
         btnManifests.style.color = !isTax ? 'white' : 'var(--quiz-muted)';
+    }
 
+    if (btnTaxonomy) {
         btnTaxonomy.classList.toggle('active', isTax);
         btnTaxonomy.style.background = isTax ? 'var(--quiz-accent)' : 'transparent';
         btnTaxonomy.style.color = isTax ? 'white' : 'var(--quiz-muted)';
+    }
 
-        if (setList) setList.style.display = isTax ? 'none' : '';
-        if (taxSelector) taxSelector.style.display = isTax ? 'flex' : 'none';
+    if (setList) setList.style.display = isTax ? 'none' : '';
+    if (taxSelector) taxSelector.style.display = isTax ? 'flex' : 'none';
 
-        if (isTax) {
-            if (state.selectedTaxonomyTopics.size === 0 && state.taxonomy && state.taxonomy.topics) {
+    if (isTax) {
+        if (!state.taxonomy) {
+            loadQuizTaxonomy().then(() => {
+                if ((!state.selectedTaxonomyTopics || state.selectedTaxonomyTopics.size === 0) && state.taxonomy && state.taxonomy.topics) {
+                    if (!state.selectedTaxonomyTopics) state.selectedTaxonomyTopics = new Set();
+                    state.taxonomy.topics
+                        .filter(t => t.disciplineId === 'adult_cardiac')
+                        .forEach(t => state.selectedTaxonomyTopics.add(t.id));
+                }
+                renderTaxonomySelector();
+                updateSliderForTaxonomy();
+                updateWeakSpotRadar();
+            });
+        } else {
+            if ((!state.selectedTaxonomyTopics || state.selectedTaxonomyTopics.size === 0) && state.taxonomy && state.taxonomy.topics) {
+                if (!state.selectedTaxonomyTopics) state.selectedTaxonomyTopics = new Set();
                 state.taxonomy.topics
                     .filter(t => t.disciplineId === 'adult_cardiac')
                     .forEach(t => state.selectedTaxonomyTopics.add(t.id));
             }
             renderTaxonomySelector();
             updateSliderForTaxonomy();
-        } else {
-            renderQuizSets();
-            updateSliderForSelectedSets();
+            updateWeakSpotRadar();
         }
+    } else {
+        renderQuizSets();
+        updateSliderForSelectedSets();
         updateWeakSpotRadar();
-    };
+    }
+}
 
-    btnManifests.onclick = () => {
-        applySourceMode('manifest');
-        playSound('click');
-    };
+window.switchQuestionSourceMode = function(mode) {
+    applyQuestionSourceMode(mode);
+    try { playSound('click'); } catch(e) {}
+};
 
-    btnTaxonomy.onclick = () => {
-        applySourceMode('taxonomy');
-        playSound('click');
-    };
+function initQuestionSourceToggle() {
+    const btnManifests = document.getElementById('btn-source-manifests');
+    const btnTaxonomy = document.getElementById('btn-source-taxonomy');
+
+    if (btnManifests) {
+        btnManifests.onclick = () => {
+            window.switchQuestionSourceMode('manifest');
+        };
+    }
+
+    if (btnTaxonomy) {
+        btnTaxonomy.onclick = () => {
+            window.switchQuestionSourceMode('taxonomy');
+        };
+    }
+
+    if (typeof window.updateAllLobbyLabels === 'function') {
+        window.updateAllLobbyLabels();
+    }
+}
+
+// Immediate binding in case DOM is ready
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initQuestionSourceToggle);
+} else {
+    setTimeout(initQuestionSourceToggle, 0);
 }
 
 function updatePresetBadgeActiveState() {
@@ -2514,6 +2600,15 @@ window.setAppLanguage = function(lang) {
         showResults();
     }
 
+    // Re-render lobby sets or taxonomy selector in the selected language
+    if (state.questionSourceMode === 'taxonomy') {
+        if (typeof renderTaxonomySelector === 'function') renderTaxonomySelector();
+        if (typeof updateSliderForTaxonomy === 'function') updateSliderForTaxonomy();
+    } else {
+        if (typeof renderQuizSets === 'function') renderQuizSets();
+        if (typeof updateSliderForSelectedSets === 'function') updateSliderForSelectedSets();
+    }
+
     // Update exit modal labels
     const exitTitle = document.getElementById('txt-exit-modal-title');
     if (exitTitle) exitTitle.textContent = isRu ? 'Прервать сессию квиза?' : 'Abort Quiz Session?';
@@ -2579,7 +2674,13 @@ function setupLobbyListeners() {
         if (lblSelectLang) lblSelectLang.textContent = isRu ? 'Выберите язык' : 'Select Language';
 
         const lblSelectSet = document.getElementById('label-select-set');
-        if (lblSelectSet) lblSelectSet.textContent = isRu ? 'Выберите квизы' : 'Select Question Set';
+        if (lblSelectSet) lblSelectSet.textContent = isRu ? 'Выбор вопросов' : 'Select Question Set';
+
+        const txtSrcManifests = document.getElementById('txt-source-manifests');
+        if (txtSrcManifests) txtSrcManifests.textContent = isRu ? 'По сборникам' : 'By Collections';
+
+        const txtSrcTaxonomy = document.getElementById('txt-source-taxonomy');
+        if (txtSrcTaxonomy) txtSrcTaxonomy.textContent = isRu ? 'По дисциплинам и темам' : 'By Disciplines & Topics';
 
         const lblSessionSettings = document.getElementById('label-session-settings');
         if (lblSessionSettings) lblSessionSettings.textContent = isRu ? 'Настройки' : 'Session Settings';
@@ -3015,6 +3116,7 @@ function setupLobbyListeners() {
         });
     }
 
+    updateLobbyLabels();
     document.getElementById('btn-start-quiz').onclick = startQuiz;
 }
 
