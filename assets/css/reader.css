@@ -3187,6 +3187,24 @@ body.sepia-mode .qb-category-banner {
   transform: scale(0.96);
 }
 
+.curtain-chip.is-favorite {
+  background: rgba(244, 63, 94, 0.16);
+  border-color: rgba(244, 63, 94, 0.45);
+}
+.curtain-chip.is-favorite i {
+  color: #f43f5e;
+}
+
+.curtain-chip.has-bookmarks {
+  background: rgba(251, 191, 36, 0.16);
+  border-color: rgba(251, 191, 36, 0.45);
+}
+
+.curtain-chip.active {
+  background: rgba(129, 140, 248, 0.2);
+  border-color: rgba(129, 140, 248, 0.5);
+}
+
 /* Vibrant Icon Colors */
 .text-amber   { color: #fbbf24; }
 .text-rose    { color: #f43f5e; }

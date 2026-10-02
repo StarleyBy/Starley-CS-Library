@@ -549,58 +549,94 @@ function _initDisciplineAccentStripe() {
     } catch(e) {}
 }
 
+function _getCurrentBookPath() {
+    const params = new URLSearchParams(window.location.search);
+    return params.get('book') || '';
+}
+
+function _showReaderToast(message) {
+    let toast = document.querySelector('.cs-toast');
+    if (!toast) {
+        toast = document.createElement('div');
+        toast.className = 'cs-toast';
+        document.body.appendChild(toast);
+    }
+    toast.textContent = message;
+    toast.classList.add('show');
+    clearTimeout(toast._timeout);
+    toast._timeout = setTimeout(() => {
+        toast.classList.remove('show');
+    }, 2200);
+}
+
+function _getFavorites() {
+    try {
+        const favsStr = localStorage.getItem('starley_favorites');
+        if (favsStr === null) {
+            const oldFavs = JSON.parse(localStorage.getItem('favorites') || '[]');
+            localStorage.setItem('starley_favorites', JSON.stringify(oldFavs));
+            return oldFavs;
+        }
+        return JSON.parse(favsStr) || [];
+    } catch(e) { return []; }
+}
+
+function _isCurrentBookFavorite() {
+    const bookPath = _getCurrentBookPath();
+    if (!bookPath) return false;
+    return _getFavorites().includes(bookPath);
+}
+
+function _toggleFavoriteCurrentBook() {
+    const bookPath = _getCurrentBookPath();
+    if (!bookPath) {
+        _showReaderToast('No active book to favorite');
+        return false;
+    }
+    let favs = _getFavorites();
+    let isFav = false;
+    if (favs.includes(bookPath)) {
+        favs = favs.filter(p => p !== bookPath);
+        isFav = false;
+        _showReaderToast('Removed from favorites 💔');
+    } else {
+        favs.push(bookPath);
+        isFav = true;
+        _showReaderToast('Added to favorites ❤️');
+    }
+    localStorage.setItem('starley_favorites', JSON.stringify(favs));
+    _updateFavoriteButtonsState();
+    return isFav;
+}
+
+function _updateFavoriteButtonsState() {
+    const isFav = _isCurrentBookFavorite();
+    const btn = document.getElementById('favorite-toggle');
+    if (btn) {
+        const icon = btn.querySelector('i');
+        if (icon) icon.className = isFav ? 'fas fa-heart' : 'far fa-heart';
+        btn.style.color = isFav ? '#e74c3c' : '';
+    }
+    const curtainFav = document.querySelector('#header-action-curtain [data-curtain-id="favorites"], #header-action-curtain [data-curtain-action="favorites"]');
+    if (curtainFav) {
+        const icon = curtainFav.querySelector('i');
+        if (icon) {
+            icon.className = isFav ? 'fas fa-heart text-rose' : 'far fa-heart text-rose';
+        }
+        curtainFav.classList.toggle('is-favorite', isFav);
+        const label = curtainFav.querySelector('span');
+        if (label) label.textContent = isFav ? 'Favorited' : 'Favorites';
+    }
+}
+
 function _initFavorites() {
     const btn = document.getElementById('favorite-toggle');
-    if (!btn) return;
-
-    const params = new URLSearchParams(window.location.search);
-    const bookPath = params.get('book');
-    if (!bookPath) return;
-
-    const getFavs = () => {
-        try {
-            const favsStr = localStorage.getItem('starley_favorites');
-            if (favsStr === null) {
-                const oldFavs = JSON.parse(localStorage.getItem('favorites') || '[]');
-                localStorage.setItem('starley_favorites', JSON.stringify(oldFavs));
-                return oldFavs;
-            }
-            return JSON.parse(favsStr) || [];
-        } catch(e) { return []; }
-    };
-
-    const updateBtn = () => {
-        try {
-            const favs = getFavs();
-            const isFav = favs.includes(bookPath);
-            const icon = btn.querySelector('i');
-            if (isFav) {
-                icon.className = 'fas fa-heart';
-                btn.style.color = '#e74c3c';
-            } else {
-                icon.className = 'far fa-heart';
-                btn.style.color = '';
-            }
-        } catch (e) {}
-    };
-
-    btn.addEventListener('click', (e) => {
-        try {
-            let favs = getFavs();
-            let isActive = false;
-            if (favs.includes(bookPath)) {
-                favs = favs.filter(p => p !== bookPath);
-                isActive = false;
-            } else {
-                favs.push(bookPath);
-                isActive = true;
-            }
-            localStorage.setItem('starley_favorites', JSON.stringify(favs));
-            updateBtn();
-        } catch (e) {}
-    });
-
-    updateBtn();
+    if (btn) {
+        btn.addEventListener('click', () => {
+            _toggleFavoriteCurrentBook();
+        });
+    }
+    _updateFavoriteButtonsState();
 }
 
 // ==========================================================================
@@ -801,17 +837,94 @@ function _initRadialMenu() {
 
     // Modular Data-Driven Action Curtain Registry
     window.ACTION_CURTAIN_REGISTRY = [
-        { id: 'bookmarks',  icon: 'fas fa-bookmark',    color: 'text-amber',   label: 'Bookmarks',   handler: () => document.getElementById('bookmark-toggle')?.click() },
-        { id: 'favorites',  icon: 'fas fa-heart',       color: 'text-rose',    label: 'Favorites',   handler: () => document.getElementById('favorite-toggle')?.click() },
-        { id: 'focus',      icon: 'fas fa-expand',      color: 'text-indigo',  label: 'Focus Mode',  handler: () => document.getElementById('focus-toggle')?.click() },
-        { id: 'search',     icon: 'fas fa-search',      color: 'text-sky',     label: 'Search',      handler: () => window.location.href = 'search/index.html' },
-        { id: 'highlights', icon: 'fas fa-highlighter', color: 'text-yellow',  label: 'Highlights',  handler: () => window.location.href = 'highlights.html' },
-        { id: 'magazine',   icon: 'fas fa-newspaper',   color: 'text-purple',  label: 'Magazine',    handler: () => document.getElementById('mag-header-btn')?.click() },
-        { id: 'quiz',       icon: 'fas fa-brain',       color: 'text-emerald', label: 'Quiz',        handler: () => document.getElementById('quiz-header-btn')?.click() },
-        { id: 'editor',     icon: 'fas fa-edit',        color: 'text-amber',   label: 'Editor',      role: 'admin', handler: () => window.location.href = 'editor.html' },
-        { id: 'manifest',   icon: 'fas fa-sliders-h',   color: 'text-rose',    label: 'Manifests',   role: 'admin', handler: () => window.location.href = 'manifest-editor.html' },
-        { id: 'calc',       icon: 'fas fa-calculator',  color: 'text-blue',     label: 'Medical Calc',handler: () => window.StarleyOverlayTools?.MedicalCalc?.show() },
-        { id: 'scratchpad', icon: 'fas fa-pen-nib',     color: 'text-green',    label: 'Draw Notes',  handler: () => window.StarleyOverlayTools?.Scratchpad?.show() }
+        { 
+            id: 'bookmarks',  
+            icon: 'fas fa-bookmark',    
+            color: 'text-amber',   
+            label: 'Bookmarks',   
+            handler: () => _openBookmarksModal() 
+        },
+        { 
+            id: 'favorites',  
+            icon: 'fas fa-heart',       
+            color: 'text-rose',    
+            label: 'Favorites',   
+            handler: () => _toggleFavoriteCurrentBook() 
+        },
+        { 
+            id: 'focus',      
+            icon: 'fas fa-expand',      
+            color: 'text-indigo',  
+            label: 'Focus Mode',  
+            handler: () => {
+                document.body.classList.toggle('focus-mode');
+                _showReaderToast(document.body.classList.contains('focus-mode') ? 'Focus Mode Enabled ⛶' : 'Focus Mode Disabled');
+            } 
+        },
+        { 
+            id: 'search',     
+            icon: 'fas fa-search',      
+            color: 'text-sky',     
+            label: 'Search',      
+            handler: () => window.location.href = 'search/index.html' 
+        },
+        { 
+            id: 'highlights', 
+            icon: 'fas fa-highlighter', 
+            color: 'text-yellow',  
+            label: 'Highlights',  
+            handler: () => window.location.href = 'highlights.html' 
+        },
+        { 
+            id: 'magazine',   
+            icon: 'fas fa-newspaper',   
+            color: 'text-purple',  
+            label: 'Magazine',    
+            handler: () => {
+                const bp = _getCurrentBookPath();
+                window.location.href = bp ? `magazine.html?book=${encodeURIComponent(bp)}` : 'magazine.html';
+            } 
+        },
+        { 
+            id: 'quiz',       
+            icon: 'fas fa-brain',       
+            color: 'text-emerald', 
+            label: 'Clinical Quiz',        
+            handler: () => {
+                const bp = _getCurrentBookPath();
+                window.location.href = bp ? `quiz.html?book=${encodeURIComponent(bp)}` : 'quiz.html';
+            } 
+        },
+        { 
+            id: 'editor',     
+            icon: 'fas fa-edit',        
+            color: 'text-amber',   
+            label: 'Editor',      
+            role: 'admin', 
+            handler: () => window.location.href = 'editor.html' 
+        },
+        { 
+            id: 'manifest',   
+            icon: 'fas fa-sliders-h',   
+            color: 'text-rose',    
+            label: 'Manifests',   
+            role: 'admin', 
+            handler: () => window.location.href = 'manifest-editor.html' 
+        },
+        { 
+            id: 'calc',       
+            icon: 'fas fa-calculator',  
+            color: 'text-blue',     
+            label: 'Medical Calc',
+            handler: () => window.StarleyOverlayTools?.MedicalCalc?.show() 
+        },
+        { 
+            id: 'scratchpad', 
+            icon: 'fas fa-pen-nib',     
+            color: 'text-green',    
+            label: 'Draw Notes',  
+            handler: () => window.StarleyOverlayTools?.Scratchpad?.show() 
+        }
     ];
 
     const curtainToggleBtn = document.getElementById('curtain-toggle-btn');
@@ -823,23 +936,32 @@ function _initRadialMenu() {
         if (!grid) return;
         const isAdmin = window.AuthSystem ? window.AuthSystem.isAdmin() : true;
         const items = window.ACTION_CURTAIN_REGISTRY.filter(item => !item.role || (item.role === 'admin' && isAdmin));
-        grid.innerHTML = items.map(item => `
-            <button class="curtain-chip" data-curtain-id="${item.id}">
-                <i class="${item.icon} ${item.color}"></i>
-                <span>${item.label}</span>
-            </button>
-        `).join('');
+        const isFav = _isCurrentBookFavorite();
+        const isFocus = document.body.classList.contains('focus-mode');
+        const hasBookmarks = typeof _getBookmarks === 'function' ? _getBookmarks().some(b => b.chapterId === _currentChapterId) : false;
 
-        grid.querySelectorAll('.curtain-chip').forEach(chip => {
-            chip.addEventListener('click', () => {
-                const id = chip.dataset.curtainId;
-                toggleActionCurtain(false);
-                const regItem = window.ACTION_CURTAIN_REGISTRY.find(x => x.id === id);
-                if (regItem && typeof regItem.handler === 'function') {
-                    regItem.handler();
-                }
-            });
-        });
+        grid.innerHTML = items.map(item => {
+            let iconClass = `${item.icon} ${item.color}`;
+            let extraClass = '';
+            let label = item.label;
+
+            if (item.id === 'favorites') {
+                iconClass = isFav ? 'fas fa-heart text-rose' : 'far fa-heart text-rose';
+                if (isFav) extraClass = 'is-favorite';
+                label = isFav ? 'Favorited' : 'Favorites';
+            } else if (item.id === 'focus' && isFocus) {
+                extraClass = 'active';
+            } else if (item.id === 'bookmarks' && hasBookmarks) {
+                extraClass = 'has-bookmarks';
+            }
+
+            return `
+                <button class="curtain-chip ${extraClass}" data-curtain-id="${item.id}" data-curtain-action="${item.id}">
+                    <i class="${iconClass}"></i>
+                    <span>${label}</span>
+                </button>
+            `;
+        }).join('');
     }
 
     function toggleActionCurtain(open) {
@@ -861,6 +983,22 @@ function _initRadialMenu() {
     if (actionCurtain) {
         const backdrop = actionCurtain.querySelector('.curtain-backdrop');
         if (backdrop) backdrop.addEventListener('click', () => toggleActionCurtain(false));
+
+        // Click delegation on curtain grid for instant, robust execution
+        const grid = actionCurtain.querySelector('.curtain-grid');
+        if (grid) {
+            grid.addEventListener('click', (e) => {
+                const chip = e.target.closest('.curtain-chip');
+                if (!chip) return;
+                const id = chip.dataset.curtainId || chip.dataset.curtainAction;
+                if (!id) return;
+                toggleActionCurtain(false);
+                const regItem = window.ACTION_CURTAIN_REGISTRY.find(x => x.id === id);
+                if (regItem && typeof regItem.handler === 'function') {
+                    regItem.handler();
+                }
+            });
+        }
     }
     if (fontPicker) {
         fontPicker.querySelectorAll('.font-option').forEach(btn => {
@@ -1290,13 +1428,30 @@ function _activateMatch(idx, upd) {
 }
 
 function _initBookmarks() {
-    const t = document.getElementById('bookmark-toggle'), m = document.getElementById('bookmarks-modal'); if (!t) return;
-    t.addEventListener('click', () => _openBookmarksModal()); document.getElementById('bookmarks-modal-close')?.addEventListener('click', () => _closeBookmarksModal());
-    m?.querySelector('.bm-modal-backdrop')?.addEventListener('click', () => _closeBookmarksModal());
-    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && m?.style.display !== 'none') _closeBookmarksModal(); });
-    document.getElementById('bookmarks-clear')?.addEventListener('click', () => { if (confirm('Clear all?')) { _saveBookmarks(_getBookmarks().filter(b => b.chapterId !== _currentChapterId)); _renderBookmarksList(); _renderBookmarkAnchors(); _updateBookmarkButtonState(); } });
-    let lastTap = 0; document.addEventListener('touchend', (e) => { const now = Date.now(); if (now - lastTap < 350) _handleBookmarkTap(e.target); lastTap = now; }, { passive: true });
-    document.addEventListener('dblclick', (e) => _handleBookmarkTap(e.target)); _renderBookmarkAnchors(); _updateBookmarkButtonState();
+    const t = document.getElementById('bookmark-toggle'), m = document.getElementById('bookmarks-modal');
+    if (!m) return;
+    if (t) t.addEventListener('click', () => _openBookmarksModal());
+    document.getElementById('bookmarks-modal-close')?.addEventListener('click', () => _closeBookmarksModal());
+    m.querySelector('.bm-modal-backdrop')?.addEventListener('click', () => _closeBookmarksModal());
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && m.style.display !== 'none') _closeBookmarksModal(); });
+    document.getElementById('bookmarks-clear')?.addEventListener('click', () => {
+        if (confirm('Clear all bookmarks for this chapter?')) {
+            _saveBookmarks(_getBookmarks().filter(b => b.chapterId !== _currentChapterId));
+            _renderBookmarksList();
+            _renderBookmarkAnchors();
+            _updateBookmarkButtonState();
+            _showReaderToast('Закладки главы очищены');
+        }
+    });
+    let lastTap = 0;
+    document.addEventListener('touchend', (e) => {
+        const now = Date.now();
+        if (now - lastTap < 350) _handleBookmarkTap(e.target);
+        lastTap = now;
+    }, { passive: true });
+    document.addEventListener('dblclick', (e) => _handleBookmarkTap(e.target));
+    _renderBookmarkAnchors();
+    _updateBookmarkButtonState();
 }
 function _handleBookmarkTap(target) { const a = document.getElementById('content-area'); if (!a) return; let el = target; while (el && el !== a) { if (['P','H1','H2','H3','H4','H5','LI','TD','BLOCKQUOTE'].includes(el.tagName)) { _toggleBookmark(el); return; } el = el.parentElement; } }
 function _openBookmarksModal() { const m = document.getElementById('bookmarks-modal'); if (!m) return; _renderBookmarksList(); m.style.display = 'flex'; document.body.style.overflow = 'hidden'; }
@@ -1306,13 +1461,26 @@ function _saveBookmarks(l) { ReaderSettings.set('reader_bookmarks', l); }
 function _toggleBookmark(el) {
     const text = el.textContent.trim().slice(0, 80), id = (_currentChapterId||'unknown') + '::' + btoa(encodeURIComponent(text)).slice(0, 24);
     let b = _getBookmarks(); const idx = b.findIndex(x => x.id === id);
-    if (idx >= 0) { b.splice(idx, 1); el.querySelector('.bm-anchor')?.remove(); _flashElement(el, '#fee2e2'); }
-    else { b.push({ id, chapterId: _currentChapterId, text, timestamp: Date.now() }); const a = document.createElement('span'); a.className = 'bm-anchor'; a.dataset.bmId = id; el.prepend(a); _flashElement(el, '#fef3c7'); }
+    if (idx >= 0) {
+        b.splice(idx, 1);
+        el.querySelector('.bm-anchor')?.remove();
+        _flashElement(el, '#fee2e2');
+        _showReaderToast('Закладка удалена 🔖');
+    }
+    else {
+        b.push({ id, chapterId: _currentChapterId, text, timestamp: Date.now() });
+        const a = document.createElement('span');
+        a.className = 'bm-anchor';
+        a.dataset.bmId = id;
+        el.prepend(a);
+        _flashElement(el, '#fef3c7');
+        _showReaderToast('Закладка добавлена 🔖');
+    }
     _saveBookmarks(b); _renderBookmarksList(); _updateBookmarkButtonState();
 }
 function _renderBookmarksList() {
     const l = document.getElementById('bookmarks-list'); if (!l) return; const b = _getBookmarks().filter(x => x.chapterId === _currentChapterId); l.innerHTML = '';
-    if (!b.length) { l.innerHTML = '<div class="bm-empty">No bookmarks yet.</div>'; return; }
+    if (!b.length) { l.innerHTML = '<div class="bm-empty">No bookmarks yet. Double-click or double-tap any paragraph to bookmark.</div>'; return; }
     b.forEach(x => {
         const i = document.createElement('div'); i.className = 'bm-item'; i.innerHTML = `<span class="bm-item-icon">🔖</span><span class="bm-item-text">${_escHtml(x.text)}</span><button class="bm-item-del" data-id="${x.id}">✕</button>`;
         i.querySelector('.bm-item-text').addEventListener('click', () => { _closeBookmarksModal(); setTimeout(() => _scrollToBookmark(x.id), 120); });
@@ -1329,7 +1497,13 @@ function _renderBookmarkAnchors() {
 }
 function _scrollToBookmark(id) { const a = document.querySelector(`.bm-anchor[data-bm-id="${id}"]`); if (a) { a.scrollIntoView({ behavior: 'smooth', block: 'center' }); _flashElement(a.parentElement, '#fef3c7'); } }
 function _removeBookmarkById(id) { let b = _getBookmarks(); b = b.filter(x => x.id !== id); _saveBookmarks(b); document.querySelector(`.bm-anchor[data-bm-id="${id}"]`)?.remove(); _renderBookmarksList(); _updateBookmarkButtonState(); }
-function _updateBookmarkButtonState() { const b = document.getElementById('bookmark-toggle'); if (b) b.classList.toggle('has-bookmarks', _getBookmarks().some(x => x.chapterId === _currentChapterId)); }
+function _updateBookmarkButtonState() {
+    const hasBm = _getBookmarks().some(x => x.chapterId === _currentChapterId);
+    const b = document.getElementById('bookmark-toggle');
+    if (b) b.classList.toggle('has-bookmarks', hasBm);
+    const cb = document.querySelector('#header-action-curtain [data-curtain-id="bookmarks"], #header-action-curtain [data-curtain-action="bookmarks"]');
+    if (cb) cb.classList.toggle('has-bookmarks', hasBm);
+}
 function _flashElement(el, c) { if (!el) return; const p = el.style.transition; el.style.transition = 'background 0.15s'; el.style.background = c; setTimeout(() => { el.style.background = ''; setTimeout(() => el.style.transition = p, 300); }, 400); }
 function _escHtml(s) { return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;'); }
 

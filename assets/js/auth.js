@@ -12,10 +12,45 @@
 // Survives page reloads within the same session via sessionStorage.
 
 (function () {
-    const GUEST_PIN = '0455';
-    const GUEST_SESSION_KEY = 'starley_guest_auth';
+    const MASTER_ADMIN_PIN = '456755';
+    const MASTER_USER_PIN = '0455';
+    const SESSION_KEY = 'starley_auth';
+
     let currentUser = null;      // cached snapshot, synchronous reads
     let unsubscribeRealtime = null;
+
+    function getStoredAuth() {
+        try {
+            let authData = sessionStorage.getItem(SESSION_KEY) || localStorage.getItem(SESSION_KEY);
+            if (!authData) return null;
+            const data = JSON.parse(authData);
+            // 30 days validity
+            if (data.timestamp && Date.now() - data.timestamp > 30 * 24 * 60 * 60 * 1000) {
+                clearStoredAuth();
+                return null;
+            }
+            return data;
+        } catch(e) {
+            return null;
+        }
+    }
+
+    function saveAuth(user) {
+        if (!user) return;
+        user.timestamp = Date.now();
+        try {
+            localStorage.setItem(SESSION_KEY, JSON.stringify(user));
+            sessionStorage.setItem(SESSION_KEY, JSON.stringify(user));
+        } catch(e) {}
+    }
+
+    function clearStoredAuth() {
+        try {
+            localStorage.removeItem(SESSION_KEY);
+            sessionStorage.removeItem(SESSION_KEY);
+            sessionStorage.removeItem('starley_guest_auth');
+        } catch(e) {}
+    }
 
     function getCurrentUser() {
         return currentUser;
@@ -35,18 +70,19 @@
     // (e.g. after a profile edit) and wants the cache updated immediately.
     function setAuthenticated(patch) {
         currentUser = Object.assign({}, currentUser, patch);
+        saveAuth(currentUser);
     }
 
     async function loginAsGuest() {
         currentUser = {
-            username: 'guest',
+            username: 'user',
             role: 'user',
-            name: 'Guest Doctor',
-            nickname: 'Guest Doctor',
+            name: 'User',
+            nickname: 'User',
             avatar: 'doc',
             isGuest: true
         };
-        sessionStorage.setItem(GUEST_SESSION_KEY, 'true');
+        saveAuth(currentUser);
         window.location.reload();
     }
 
@@ -58,22 +94,22 @@
         if (!res || !res.ok) {
             return { ok: false, error: (res && res.error) || 'Login failed' };
         }
-        sessionStorage.removeItem(GUEST_SESSION_KEY);
         const profile = res.user; // from getProfile() inside loginWithPin
         currentUser = {
             id: profile.id,
             username: profile.username,
-            role: profile.role,
-            name: profile.nickname,
-            nickname: profile.nickname,
-            avatar: profile.avatar,
+            role: profile.role || 'user',
+            name: profile.nickname || 'Doctor',
+            nickname: profile.nickname || 'Doctor',
+            avatar: profile.avatar || 'doc',
             isGuest: false
         };
+        saveAuth(currentUser);
         return { ok: true, user: currentUser };
     }
 
     function startProfileRealtimeSync() {
-        if (!currentUser || currentUser.isGuest || !window.SupabaseAPI) return;
+        if (!currentUser || currentUser.isGuest || !window.SupabaseAPI || !currentUser.id) return;
         if (unsubscribeRealtime) unsubscribeRealtime();
         unsubscribeRealtime = window.SupabaseAPI.subscribeToOwnChanges(currentUser.id, {
             profiles: (payload) => {
@@ -81,6 +117,7 @@
                     currentUser.nickname = payload.new.nickname;
                     currentUser.avatar = payload.new.avatar;
                     currentUser.role = payload.new.role;
+                    saveAuth(currentUser);
                     if (window.state) {
                         if (!window.state.userProfile) window.state.userProfile = {};
                         if (payload.new.nickname) window.state.userProfile.nickname = payload.new.nickname;
@@ -102,7 +139,7 @@
     }
 
     // -----------------------------------------------------------------
-    // Login modal — calls loginWithPin() / loginAsGuest()
+    // Login modal — Master Passwords (456755/0455) + Quiz Accounts
     // -----------------------------------------------------------------
     function showLoginModal() {
         document.body.style.overflow = 'hidden';
@@ -150,31 +187,69 @@
             submitBtn.disabled = true;
             submitBtn.textContent = 'Authenticating...';
 
-            if (password === GUEST_PIN) {
-                await loginAsGuest();
+            // 1. Master Admin Password (456755) -> Instant Admin Privileges
+            if (password === MASTER_ADMIN_PIN) {
+                currentUser = {
+                    username: 'admin',
+                    role: 'admin',
+                    name: 'Administrator',
+                    nickname: 'Administrator',
+                    avatar: 'doc',
+                    isGuest: false
+                };
+                saveAuth(currentUser);
+                if (window.SupabaseAPI) {
+                    window.SupabaseAPI.loginWithPin(MASTER_ADMIN_PIN).catch(() => {});
+                }
+                showLoginSuccess(modal, errorMsg, 'Administrator');
                 return;
             }
 
-            const res = await loginWithPin(password);
-            if (res.ok) {
-                showLoginSuccess(modal, errorMsg, res.user.nickname);
+            // 2. Master User Password (0455) -> Instant Library User Privileges
+            if (password === MASTER_USER_PIN) {
+                currentUser = {
+                    username: 'user',
+                    role: 'user',
+                    name: 'User',
+                    nickname: 'User',
+                    avatar: 'doc',
+                    isGuest: true
+                };
+                saveAuth(currentUser);
+                showLoginSuccess(modal, errorMsg, 'User');
                 return;
             }
 
+            // 3. Quiz Account PIN Login via Supabase (for personal accounts)
+            if (window.SupabaseAPI) {
+                try {
+                    const res = await window.SupabaseAPI.loginWithPin(password);
+                    if (res && res.ok) {
+                        const profile = res.user;
+                        currentUser = {
+                            id: profile.id,
+                            username: profile.username,
+                            role: profile.role || 'user',
+                            name: profile.nickname || 'Doctor',
+                            nickname: profile.nickname || 'Doctor',
+                            avatar: profile.avatar || 'doc',
+                            isGuest: false
+                        };
+                        saveAuth(currentUser);
+                        showLoginSuccess(modal, errorMsg, currentUser.nickname);
+                        return;
+                    }
+                } catch (err) {}
+            }
+
+            // Incorrect Password
             submitBtn.disabled = false;
             submitBtn.textContent = 'Enter';
             passInput.value = '';
             passInput.classList.add('shake');
             setTimeout(() => passInput.classList.remove('shake'), 500);
 
-            const err = (res && res.error) ? String(res.error).toLowerCase() : '';
-            if (err.includes('confirm')) {
-                errorMsg.innerHTML = '✗ Email not confirmed.<br><span style="font-size: 0.8rem; font-weight: normal; color: #fca5a5;">Аккаунт ожидает подтверждения в Supabase (Users → Confirm email)</span>';
-            } else if (err.includes('invalid login credentials') || err.includes('invalid grant')) {
-                errorMsg.textContent = '✗ Incorrect password';
-            } else {
-                errorMsg.textContent = `✗ ${(res && res.error) || 'Incorrect password'}`;
-            }
+            errorMsg.textContent = '✗ Incorrect password';
             errorMsg.style.color = '#f87171';
         });
 
@@ -308,24 +383,32 @@
     window.logout = async function () {
         if (!confirm('Exit Medical Library session?')) return;
         sessionStorage.removeItem(GUEST_SESSION_KEY);
+        clearStoredAuth();
         if (unsubscribeRealtime) unsubscribeRealtime();
         if (window.SupabaseAPI && currentUser && !currentUser.isGuest) {
-            await window.SupabaseAPI.logout();
+            try { await window.SupabaseAPI.logout(); } catch (e) { }
         }
         currentUser = null;
         window.location.reload();
     };
 
     // -----------------------------------------------------------------
-    // Boot sequence — async, checking Supabase session or Guest session
+    // Boot sequence — async, checking local stored auth, Supabase session, or Guest session
     // -----------------------------------------------------------------
     async function boot() {
-        if (sessionStorage.getItem(GUEST_SESSION_KEY) === 'true') {
+        const stored = getStoredAuth();
+        if (stored) {
+            currentUser = stored;
+            // If logged in as admin, silently ensure Supabase admin session in background if available
+            if (currentUser.role === 'admin' && window.SupabaseAPI && typeof window.SupabaseAPI.loginWithPin === 'function') {
+                window.SupabaseAPI.loginWithPin(MASTER_ADMIN_PIN).catch(() => {});
+            }
+        } else if (sessionStorage.getItem(GUEST_SESSION_KEY) === 'true') {
             currentUser = {
                 username: 'guest',
                 role: 'user',
-                name: 'Guest Doctor',
-                nickname: 'Guest Doctor',
+                name: 'User',
+                nickname: 'User',
                 avatar: 'doc',
                 isGuest: true
             };
@@ -345,6 +428,7 @@
                             avatar: p.avatar,
                             isGuest: false
                         };
+                        saveAuth(currentUser, true);
                     }
                 }
             } catch (err) {
@@ -358,7 +442,7 @@
         }
 
         const nameDisplay = document.getElementById('profile-nickname-display');
-        if (nameDisplay) nameDisplay.textContent = currentUser.nickname || currentUser.username || 'Doctor User';
+        if (nameDisplay) nameDisplay.textContent = currentUser.nickname || currentUser.username || (currentUser.role === 'admin' ? 'Administrator' : 'User');
 
         if (currentUser.role === 'user') applyUserRestrictions();
         if (currentUser.role === 'admin') applyAdminAccess();

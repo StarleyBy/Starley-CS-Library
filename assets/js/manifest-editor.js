@@ -459,6 +459,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 } catch(e) {}
 
                 console.log('[Taxonomy] Loaded successfully from quiz/quiz-taxonomy.json, total topics:', (state.taxonomy.topics || []).length);
+                _buildTaxonomyIndex();
                 _populateTagsDatalist();
                 return;
             }
@@ -478,6 +479,37 @@ document.addEventListener('DOMContentLoaded', async () => {
             ],
             topics: []
         };
+        _buildTaxonomyIndex();
+    }
+
+    function _buildTaxonomyIndex() {
+        state.taxonomyTagMap = new Map();
+        if (state.taxonomy && Array.isArray(state.taxonomy.tags)) {
+            state.taxonomy.tags.forEach(t => {
+                if (t.id) state.taxonomyTagMap.set(String(t.id).toLowerCase(), t);
+                if (t.nameRu) state.taxonomyTagMap.set(String(t.nameRu).toLowerCase(), t);
+                if (t.nameEn) state.taxonomyTagMap.set(String(t.nameEn).toLowerCase(), t);
+                if (t.aliases && Array.isArray(t.aliases)) {
+                    t.aliases.forEach(a => {
+                        if (a) state.taxonomyTagMap.set(String(a).toLowerCase(), t);
+                    });
+                }
+            });
+        }
+        state.taxonomyTopicMap = new Map();
+        if (state.taxonomy && Array.isArray(state.taxonomy.topics)) {
+            state.taxonomy.topics.forEach(t => {
+                if (t.id) state.taxonomyTopicMap.set(String(t.id).toLowerCase(), t);
+                if (t.nameRu) state.taxonomyTopicMap.set(String(t.nameRu).toLowerCase(), t);
+                if (t.nameEn) state.taxonomyTopicMap.set(String(t.nameEn).toLowerCase(), t);
+            });
+        }
+        state.taxonomyDiscMap = new Map();
+        if (state.taxonomy && Array.isArray(state.taxonomy.disciplines)) {
+            state.taxonomy.disciplines.forEach(d => {
+                if (d.id) state.taxonomyDiscMap.set(d.id, d);
+            });
+        }
     }
 
     function _getTaxonomyDisciplines() {
@@ -654,6 +686,12 @@ document.addEventListener('DOMContentLoaded', async () => {
             state.taxonomy.tags[existingIdx] = tagObj;
         } else {
             state.taxonomy.tags.push(tagObj);
+        }
+
+        if (state.taxonomyTagMap) {
+            state.taxonomyTagMap.set(tagId.toLowerCase(), tagObj);
+            state.taxonomyTagMap.set(ru.trim().toLowerCase(), tagObj);
+            state.taxonomyTagMap.set(en.trim().toLowerCase(), tagObj);
         }
 
         if (state.taxonomy.meta) {
@@ -1005,8 +1043,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 chipsWrap.innerHTML = '<span class="me-chip-empty-placeholder">Темы не назначены (добавьте из списка или поиска ниже)</span>';
             } else {
                 item.topics.forEach((tId, tIdx) => {
-                    const allTopics = (state.taxonomy && Array.isArray(state.taxonomy.topics)) ? state.taxonomy.topics : [];
-                    const tObj = allTopics.find(t => t.id === tId || t.nameRu === tId) || { id: tId, nameRu: tId, nameEn: tId };
+                    const tObj = (state.taxonomyTopicMap && state.taxonomyTopicMap.get(String(tId).toLowerCase())) || { id: tId, nameRu: tId, nameEn: tId };
                     const chip = document.createElement('span');
                     chip.className = 'me-chip me-chip-topic';
                     chip.innerHTML = `<span>${tObj.nameRu || tObj.nameEn || tId}</span>`;
@@ -1020,7 +1057,9 @@ document.addEventListener('DOMContentLoaded', async () => {
                         item.topics.splice(tIdx, 1);
                         _syncFormToJson();
                         renderChips();
-                        _populateTopicSelect(select, item, searchInput.value);
+                        if (select.dataset.populated === 'true') {
+                            _populateTopicSelect(select, item, searchInput.value);
+                        }
                         const tagGroup = group.parentElement ? group.parentElement.querySelector('.me-tag-picker-select')?.closest('.me-taxonomy-group') : null;
                         if (tagGroup) tagGroup.dispatchEvent(new CustomEvent('me-topic-sync'));
                     };
@@ -1038,14 +1077,25 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         const select = document.createElement('select');
         select.className = 'me-chip-picker-select me-topic-picker-select';
-        _populateTopicSelect(select, item);
+        select.innerHTML = '<option value="">+ Выбрать тему...</option>';
+
+        const ensureTopicPopulated = () => {
+            if (select.dataset.populated !== 'true') {
+                _populateTopicSelect(select, item, searchInput.value);
+                select.dataset.populated = 'true';
+            }
+        };
+        select.addEventListener('focus', ensureTopicPopulated);
+        select.addEventListener('mousedown', ensureTopicPopulated);
 
         searchInput.oninput = () => {
             _populateTopicSelect(select, item, searchInput.value);
+            select.dataset.populated = 'true';
         };
         searchInput.onkeydown = (e) => {
             if (e.key === 'Enter') {
                 e.preventDefault();
+                ensureTopicPopulated();
                 const firstOption = select.querySelector('option[value]:not([value=""])');
                 if (firstOption && firstOption.value) {
                     select.value = firstOption.value;
@@ -1062,8 +1112,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 item.topics.push(val);
 
                 // Auto-sync parent discipline of this topic if not already in item.disciplines
-                const allTopics = (state.taxonomy && Array.isArray(state.taxonomy.topics)) ? state.taxonomy.topics : [];
-                const matched = allTopics.find(t => t.id === val || t.nameRu === val);
+                const matched = state.taxonomyTopicMap ? state.taxonomyTopicMap.get(String(val).toLowerCase()) : null;
                 if (matched && matched.disciplineId) {
                     if (!Array.isArray(item.disciplines)) item.disciplines = [];
                     if (!item.disciplines.includes(matched.disciplineId)) {
@@ -1081,6 +1130,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 _syncFormToJson();
                 renderChips();
                 _populateTopicSelect(select, item, searchInput.value);
+                select.dataset.populated = 'true';
                 const tagGroup = group.parentElement ? group.parentElement.querySelector('.me-tag-picker-select')?.closest('.me-taxonomy-group') : null;
                 if (tagGroup) tagGroup.dispatchEvent(new CustomEvent('me-topic-sync'));
             }
@@ -1098,8 +1148,14 @@ document.addEventListener('DOMContentLoaded', async () => {
             const parentDiscipline = (item.disciplines && item.disciplines[0]) ? item.disciplines[0] : 'adult_cardiac';
             const newId = ru.trim().toLowerCase().replace(/[^a-z0-9а-яё]/gi, '_');
 
+            const newTopObj = { id: newId, disciplineId: parentDiscipline, nameRu: ru.trim(), nameEn: en.trim() };
             if (!state.taxonomy.topics) state.taxonomy.topics = [];
-            state.taxonomy.topics.push({ id: newId, disciplineId: parentDiscipline, nameRu: ru.trim(), nameEn: en.trim() });
+            state.taxonomy.topics.push(newTopObj);
+            if (state.taxonomyTopicMap) {
+                state.taxonomyTopicMap.set(newId.toLowerCase(), newTopObj);
+                state.taxonomyTopicMap.set(ru.trim().toLowerCase(), newTopObj);
+                state.taxonomyTopicMap.set(en.trim().toLowerCase(), newTopObj);
+            }
             if (state.taxonomy.meta) {
                 state.taxonomy.meta.totalTopics = state.taxonomy.topics.length;
                 state.taxonomy.meta.updatedAt = new Date().toISOString();
@@ -1111,6 +1167,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             _syncFormToJson();
             renderChips();
             _populateTopicSelect(select, item, searchInput.value);
+            select.dataset.populated = 'true';
             const tagGroup = group.parentElement ? group.parentElement.querySelector('.me-tag-picker-select')?.closest('.me-taxonomy-group') : null;
             if (tagGroup) tagGroup.dispatchEvent(new CustomEvent('me-topic-sync'));
             alert(`✅ Новая тема «${ru.trim()}» добавлена к вопросу!\n\n💡 Не забудьте сохранить обновленный справочник через вкладку «Taxonomy» (скачать файл или сохранить в GitHub).`);
@@ -1280,9 +1337,8 @@ document.addEventListener('DOMContentLoaded', async () => {
             if (item.tags.length === 0) {
                 chipsWrap.innerHTML = '<span class="me-chip-empty-placeholder">Теги не назначены (выберите из списка или введите через запятую ниже)</span>';
             } else {
-                const allTags = (state.taxonomy && Array.isArray(state.taxonomy.tags)) ? state.taxonomy.tags : [];
                 item.tags.forEach((tagId, tIdx) => {
-                    const tObj = allTags.find(t => t.id === tagId || t.nameRu === tagId || t.nameEn === tagId) || { id: tagId, nameRu: tagId, nameEn: tagId };
+                    const tObj = (state.taxonomyTagMap && state.taxonomyTagMap.get(String(tagId).toLowerCase())) || { id: tagId, nameRu: tagId, nameEn: tagId };
                     const chip = document.createElement('span');
                     chip.className = 'me-chip me-chip-tag';
                     const icon = (tObj.category && _TAG_CAT_ICONS[tObj.category]) || '🏷️';
@@ -1318,23 +1374,27 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         const select = document.createElement('select');
         select.className = 'me-chip-picker-select me-tag-picker-select';
-        _populateTagSelect(select, item);
+        select.innerHTML = '<option value="">+ Выбрать тег...</option>';
+
+        const ensureTagPopulated = () => {
+            if (select.dataset.populated !== 'true') {
+                _populateTagSelect(select, item, searchInput.value);
+                select.dataset.populated = 'true';
+            }
+        };
+        select.addEventListener('focus', ensureTagPopulated);
+        select.addEventListener('mousedown', ensureTagPopulated);
 
         // Helper to add tag string or comma-separated tags
         const addTagsFromString = (str) => {
             const raw = (str || '').trim();
             if (!raw) return;
             const parts = raw.split(',').map(s => s.trim()).filter(Boolean);
-            const allTags = (state.taxonomy && Array.isArray(state.taxonomy.tags)) ? state.taxonomy.tags : [];
             let addedCount = 0;
 
             parts.forEach(part => {
                 const lower = part.toLowerCase();
-                const matched = allTags.find(t =>
-                    t.id.toLowerCase() === lower ||
-                    (t.nameRu && t.nameRu.toLowerCase() === lower) ||
-                    (t.nameEn && t.nameEn.toLowerCase() === lower)
-                );
+                const matched = state.taxonomyTagMap ? state.taxonomyTagMap.get(lower) : null;
                 const tagToAdd = matched ? matched.id : part;
                 if (!item.tags.includes(tagToAdd)) {
                     item.tags.push(tagToAdd);
@@ -1345,12 +1405,15 @@ document.addEventListener('DOMContentLoaded', async () => {
             if (addedCount > 0) {
                 _syncFormToJson();
                 renderChips();
-                _populateTagSelect(select, item, '');
+                if (select.dataset.populated === 'true') {
+                    _populateTagSelect(select, item, '');
+                }
             }
         };
 
         searchInput.oninput = () => {
             _populateTagSelect(select, item, searchInput.value);
+            select.dataset.populated = 'true';
         };
 
         searchInput.onkeydown = (e) => {
@@ -1365,6 +1428,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     return;
                 }
 
+                ensureTagPopulated();
                 // If single word and matches first valid option in select
                 const firstOption = select.querySelector('option[value]:not([value=""])');
                 if (firstOption && firstOption.value) {
@@ -1379,6 +1443,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 }
                 searchInput.value = '';
                 _populateTagSelect(select, item, '');
+                select.dataset.populated = 'true';
             }
         };
 
@@ -1389,6 +1454,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 _syncFormToJson();
                 renderChips();
                 _populateTagSelect(select, item, searchInput.value);
+                select.dataset.populated = 'true';
             }
             select.value = '';
         };
@@ -1405,7 +1471,9 @@ document.addEventListener('DOMContentLoaded', async () => {
             if (raw) {
                 addTagsFromString(raw);
                 searchInput.value = '';
-                _populateTagSelect(select, item, '');
+                if (select.dataset.populated === 'true') {
+                    _populateTagSelect(select, item, '');
+                }
             } else {
                 const promptVal = prompt('Введите тег или несколько тегов через запятую:');
                 if (promptVal) {
@@ -1424,6 +1492,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             _promptRegisterTaxonomyTag(item, () => {
                 renderChips();
                 _populateTagSelect(select, item, searchInput.value);
+                select.dataset.populated = 'true';
             });
         };
 
@@ -1434,7 +1503,9 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         // Listen for topic changes to re-sort tags by question topics
         group.addEventListener('me-topic-sync', () => {
-            _populateTagSelect(select, item, searchInput.value);
+            if (select.dataset.populated === 'true') {
+                _populateTagSelect(select, item, searchInput.value);
+            }
         });
 
         return group;
