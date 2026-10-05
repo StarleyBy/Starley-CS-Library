@@ -1086,11 +1086,15 @@
                         Вы действительно хотите прервать текущую тренировку? Прогресс незавершённой сессии не будет сохранён.
                     </p>
                     <div style="display: flex; flex-direction: column; gap: 10px;">
+                        <!-- Partial Save Button (visible when questions answered) -->
+                        <button type="button" id="btn-exit-save-partial" onclick="window.saveAndFinishPartialQuiz()" class="btn-primary" style="display: none; background: linear-gradient(135deg, #10b981, #059669); border-color: rgba(16, 185, 129, 0.5); padding: 13px; border-radius: 10px; font-weight: 800; font-size: 0.95rem; align-items: center; justify-content: center; gap: 8px; cursor: pointer; box-shadow: 0 4px 15px rgba(16, 185, 129, 0.3);">
+                            💾 <span id="txt-btn-exit-save-partial">Сохранить и подвести итоги</span>
+                        </button>
                         <button type="button" onclick="closeQuizExitModal(); openQuizLibraryOverlay();" class="btn-primary" style="background: linear-gradient(135deg, #0284c7, #0369a1); border-color: rgba(56, 189, 248, 0.4); padding: 12px; border-radius: 10px; font-weight: 700; font-size: 0.92rem; display: flex; align-items: center; justify-content: center; gap: 8px; cursor: pointer;">
                             📖 <span id="txt-btn-exit-peek-lib">Открыть библиотеку (без сброса сессии)</span>
                         </button>
-                        <button type="button" onclick="confirmExitToLibrary()" class="btn-secondary" style="background: rgba(35, 134, 54, 0.2); border: 1px solid rgba(35, 134, 54, 0.4); color: #3fb950; padding: 12px; border-radius: 10px; font-weight: 700; font-size: 0.92rem; display: flex; align-items: center; justify-content: center; gap: 8px; cursor: pointer;">
-                            📚 <span id="txt-btn-exit-lib">Вернуться в библиотеку (завершить)</span>
+                        <button type="button" onclick="confirmExitToLibrary()" class="btn-secondary" style="background: rgba(248, 113, 113, 0.12); border: 1px solid rgba(248, 113, 113, 0.35); color: #f87171; padding: 12px; border-radius: 10px; font-weight: 700; font-size: 0.92rem; display: flex; align-items: center; justify-content: center; gap: 8px; cursor: pointer;">
+                            🗑️ <span id="txt-btn-exit-lib">Прервать без сохранения (в библиотеку)</span>
                         </button>
                         <button type="button" onclick="confirmExitToLobby()" class="btn-secondary" style="background: rgba(88, 166, 255, 0.15); border: 1px solid rgba(88, 166, 255, 0.35); color: #58a6ff; padding: 12px; border-radius: 10px; font-weight: 700; font-size: 0.92rem; display: flex; align-items: center; justify-content: center; gap: 8px; cursor: pointer;">
                             🧠 <span id="txt-btn-exit-lobby">В меню квизов (Лобби)</span>
@@ -1194,12 +1198,12 @@
 
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
     <script src="assets/js/config.js?v=3.8"></script>
-    <script src="assets/js/supabase-api.js?v=1.7"></script>
+    <script src="assets/js/supabase-api.js?v=1.8"></script>
     <script src="assets/js/auth.js?v=4.7"></script>
     <!-- KaTeX JS for LaTeX math rendering -->
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
-    <script src="assets/js/quiz.js?v=6.8"></script>
+    <script src="assets/js/quiz.js?v=6.9"></script>
     <script src="assets/js/overlay-tools.js?v=4.2"></script>
 </body>
 </html>

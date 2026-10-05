@@ -2666,13 +2666,25 @@ window.setAppLanguage = function(lang) {
     const exitDesc = document.getElementById('txt-exit-modal-desc');
     if (exitDesc) exitDesc.textContent = isRu ? 'Вы действительно хотите прервать текущую тренировку? Прогресс незавершённой сессии не будет сохранён.' : 'Are you sure you want to abort the current quiz session? Unfinished session progress will not be saved.';
     const btnExitLib = document.getElementById('txt-btn-exit-lib');
-    if (btnExitLib) btnExitLib.textContent = isRu ? 'Вернуться в библиотеку' : 'Return to Library';
+    if (btnExitLib) btnExitLib.textContent = isRu ? 'Прервать без сохранения (в библиотеку)' : 'Discard & Return to Library';
     const btnExitLobby = document.getElementById('txt-btn-exit-lobby');
     if (btnExitLobby) btnExitLobby.textContent = isRu ? 'В меню квизов (Лобби)' : 'Return to Lobby';
     const btnExitCancel = document.getElementById('txt-btn-exit-cancel');
     if (btnExitCancel) btnExitCancel.textContent = isRu ? 'Продолжить тест' : 'Continue Quiz';
     const btnExitHeader = document.getElementById('txt-btn-exit-header');
     if (btnExitHeader) btnExitHeader.textContent = isRu ? 'Выход' : 'Exit';
+    const txtExitSavePartial = document.getElementById('txt-btn-exit-save-partial');
+    if (txtExitSavePartial) {
+        const answeredCount = (state && state.answers && Array.isArray(state.answers)) ? state.answers.length : 0;
+        const totalPlanned = (state && state.questions && Array.isArray(state.questions)) ? state.questions.length : 0;
+        if (answeredCount > 0 && answeredCount < totalPlanned) {
+            txtExitSavePartial.textContent = isRu
+                ? `Сохранить и подвести итоги (${answeredCount} из ${totalPlanned})`
+                : `Save & Finalize Results (${answeredCount} of ${totalPlanned})`;
+        } else {
+            txtExitSavePartial.textContent = isRu ? 'Сохранить и подвести итоги' : 'Save & Finalize Results';
+        }
+    }
 
     const txtLibHeader = document.querySelector('.txt-lib-header');
     if (txtLibHeader) txtLibHeader.textContent = isRu ? 'Библиотека' : 'Library';
@@ -4208,12 +4220,63 @@ function setupQuestionListeners() {
 
     window.openQuizExitModal = function() {
         const modal = document.getElementById('quiz-exit-confirm-modal');
-        if (modal) modal.style.display = 'flex';
+        if (!modal) return;
+
+        const isRu = (state && state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+        const answeredCount = (state && state.answers && Array.isArray(state.answers)) ? state.answers.length : 0;
+        const totalPlanned = (state && state.questions && Array.isArray(state.questions)) ? state.questions.length : 0;
+
+        const partialSaveBtn = document.getElementById('btn-exit-save-partial');
+        const partialTxt = document.getElementById('txt-btn-exit-save-partial');
+        const descEl = document.getElementById('txt-exit-modal-desc');
+
+        if (answeredCount > 0 && answeredCount < totalPlanned) {
+            if (descEl) {
+                descEl.innerHTML = isRu
+                    ? `Вы ответили на <strong>${answeredCount}</strong> из <strong>${totalPlanned}</strong> вопросов.<br>Вы можете сохранить пройденную часть как полноценную сессию (процент и прогресс EXP будут рассчитаны из ${answeredCount} вопросов) или прервать тест без сохранения.`
+                    : `You have answered <strong>${answeredCount}</strong> of <strong>${totalPlanned}</strong> questions.<br>You can save completed questions as a valid session (accuracy and EXP progression will be calculated based on ${answeredCount} questions) or discard without saving.`;
+            }
+            if (partialSaveBtn) {
+                partialSaveBtn.style.display = 'flex';
+                if (partialTxt) {
+                    partialTxt.textContent = isRu
+                        ? `💾 Сохранить и подвести итоги (${answeredCount} из ${totalPlanned})`
+                        : `💾 Save & Finalize Results (${answeredCount} of ${totalPlanned})`;
+                }
+            }
+        } else {
+            if (descEl) {
+                descEl.textContent = isRu
+                    ? 'Вы действительно хотите прервать текущую тренировку? Прогресс незавершённой сессии не будет сохранён.'
+                    : 'Are you sure you want to abort the current quiz session? Unfinished session progress will not be saved.';
+            }
+            if (partialSaveBtn) {
+                partialSaveBtn.style.display = 'none';
+            }
+        }
+
+        modal.style.display = 'flex';
     };
 
     window.closeQuizExitModal = function() {
         const modal = document.getElementById('quiz-exit-confirm-modal');
         if (modal) modal.style.display = 'none';
+    };
+
+    window.saveAndFinishPartialQuiz = function() {
+        window.closeQuizExitModal();
+        const answeredCount = (state && state.answers && Array.isArray(state.answers)) ? state.answers.length : 0;
+        if (answeredCount === 0) {
+            window.confirmExitToLobby();
+            return;
+        }
+
+        // Truncate state.questions to exactly the answered questions slice
+        state.questions = state.questions.slice(0, answeredCount);
+        state.currentIndex = answeredCount - 1;
+
+        // Finalize results with the truncated questions count
+        showResults();
     };
 
     window.confirmExitToLibrary = async function() {
@@ -4248,11 +4311,20 @@ function setupQuestionListeners() {
         btnExitQuiz.onclick = window.openQuizExitModal;
     }
 
+    const btnExitSavePartial = document.getElementById('btn-exit-save-partial');
+    if (btnExitSavePartial) {
+        btnExitSavePartial.onclick = window.saveAndFinishPartialQuiz;
+    }
+
     const btnExitAllQ = document.getElementById('btn-exit-all-q');
     if (btnExitAllQ) {
         btnExitAllQ.onclick = () => {
-            switchScreen('screen-lobby');
-            updateWeakSpotRadar();
+            if (state.answers && state.answers.length > 0) {
+                window.openQuizExitModal();
+            } else {
+                switchScreen('screen-lobby');
+                updateWeakSpotRadar();
+            }
         };
     }
 
@@ -4372,45 +4444,59 @@ function showResults() {
         sessionSetTitle = (state.bookMeta && (state.bookMeta.russian_title || state.bookMeta.title)) || (isRu ? 'Клинический квиз' : 'Clinical Quiz');
     }
 
-    // Build question detail / error list
+    // Build question detail / error list & compact summary string
     const sessionDetailsList = [];
+    const detailSummaryTokens = [];
+
     if (state.answers && state.questions) {
         state.answers.forEach((ans, idx) => {
             const q = state.questions[idx];
             if (!q) return;
 
-            const lang = state.settings.lang || 'En';
-            const optionsMap = q['options' + lang] || q['optionsEn'] || q.options || {};
-            
+            const isCorr = !!ans.isCorrect;
             const chosenLetters = Array.isArray(ans.chosen) ? ans.chosen : (ans.chosen ? [ans.chosen] : []);
             const correctLetters = Array.isArray(q.correctAnswer) ? q.correctAnswer : (q.correctAnswer ? [q.correctAnswer] : []);
 
-            const chosenTextArr = chosenLetters.map(l => `${l}: ${optionsMap[l] || l}`);
-            const correctTextArr = correctLetters.map(l => `${l}: ${optionsMap[l] || l}`);
+            const specId = getQuestionSpecialId(q) || q.id || getQuestionKey(q);
+            const chosenLettersStr = chosenLetters.join(',');
+            const correctLettersStr = correctLetters.join(',');
 
-            sessionDetailsList.push({
+            if (isCorr) {
+                detailSummaryTokens.push(specId);
+            } else {
+                detailSummaryTokens.push(`${specId}(${correctLettersStr})${chosenLettersStr}`);
+            }
+
+            const item = {
                 questionIndex: idx + 1,
                 questionId: q.id || getQuestionKey(q),
-                specialId: getQuestionSpecialId(q) || q.id || getQuestionKey(q),
+                specialId: specId,
                 bookPath: q.bookPath || state.bookPath || '',
                 setId: q.setId || '',
                 manifestId: q.manifestId || '',
-                questionEn: q.questionEn || q.question || '',
-                questionRu: q.questionRu || q.question || '',
-                optionsEn: q.optionsEn || q.options || {},
-                optionsRu: q.optionsRu || q.options || {},
-                correctAnswer: q.correctAnswer,
+                isCorrect: isCorr,
                 chosen: ans.chosen,
-                chosenText: chosenTextArr.join(' | ') || (isRu ? 'Нет ответа' : 'No Answer'),
-                correctText: correctTextArr.join(' | '),
-                isCorrect: !!ans.isCorrect,
-                explanationEn: q.explanationEn || q.explanation || '',
-                explanationRu: q.explanationRu || q.explanation || '',
+                correctAnswer: q.correctAnswer,
+                chosenText: chosenLettersStr || (isRu ? 'Нет ответа' : 'No Answer'),
+                correctText: correctLettersStr,
                 chapterId: q.chapterId || ''
-            });
+            };
+
+            // Store compact question text (max 800 chars)
+            item.questionEn = String(q.questionEn || q.question || '').substring(0, 800);
+            item.questionRu = String(q.questionRu || q.question || '').substring(0, 800);
+
+            // Explanations only for errors to avoid exploding localStorage quota on 150-question sessions
+            if (!isCorr) {
+                item.explanationEn = String(q.explanationEn || q.explanation || '').substring(0, 2500);
+                item.explanationRu = String(q.explanationRu || q.explanation || '').substring(0, 2500);
+            }
+
+            sessionDetailsList.push(item);
         });
     }
 
+    const detailSummaryStr = detailSummaryTokens.join(', ');
     const countModeVal = state.settings.allQuestions ? 'all' : String(state.settings.count || 10);
 
     // Create completed session record & trigger cloud/local sync
@@ -4428,6 +4514,8 @@ function showResults() {
         setTitle: sessionSetTitle,
         manifestBreakdown: manifestBreakdown,
         manifestIds: manifestBreakdown.map(m => m.id),
+        detailString: detailSummaryStr,
+        detailSummary: detailSummaryStr,
         errors: sessionDetailsList
     };
 
@@ -4453,22 +4541,29 @@ function showResults() {
     if (totalQ >= 1 && !state.isSingleQuestionPreview) {
         state.sessionHistory.unshift(newSessionObj);
 
-        // 1. Immediately persist to localStorage synchronously (Local-First safety, scoped to user)
-        try {
-            const histKey = getScopedUserKey('starley_session_history');
-            localStorage.setItem(histKey, JSON.stringify(state.sessionHistory));
-            const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-            if (!user || user.isGuest) {
-                localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
-            }
-        } catch (e) {
-            console.warn('[Session] Local storage save error:', e);
-        }
+        // 1. Immediately persist to localStorage synchronously (Safe with quota fallback)
+        safeSaveSessionHistory(state.sessionHistory);
 
         updateQuizStatsUI();
 
-        // 2. Queue for resilient cloud sync & flush pending queue
-        enqueueSessionForSync(newSessionObj);
+        // 2. Direct Write-Through to Supabase + resilient offline fallback
+        const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+        if (user && !user.isGuest && window.SupabaseAPI) {
+            enqueueSessionForSync(newSessionObj);
+
+            if (typeof window.SupabaseAPI.saveSession === 'function') {
+                window.SupabaseAPI.saveSession(newSessionObj).then(res => {
+                    if (res && (res.ok || res.success)) {
+                        console.log('✅ [Session] Direct save to Supabase succeeded:', newSessionObj.sessionId);
+                        removeFromPendingSync(newSessionObj.sessionId);
+                    } else {
+                        console.warn('⚠️ [Session] Direct save returned warning, kept in pending:', res && res.error);
+                    }
+                }).catch(err => {
+                    console.warn('⚠️ [Session] Network error on direct save, kept in pending:', err);
+                });
+            }
+        }
 
         // 3. Sync RPG progression to Supabase profile
         syncProfileRpgToSupabase(updatedRpg);
@@ -5597,6 +5692,102 @@ function setSyncStatus(status, detailText = '') {
 }
 
 /**
+ * Fail-safe LocalStorage Session Persistence with Smart Pruning
+ * Guaranteed NEVER to drop or fail to save the latest completed session due to browser quota!
+ */
+function safeSaveSessionHistory(historyList) {
+    if (!Array.isArray(historyList)) return false;
+    const histKey = getScopedUserKey('starley_session_history');
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    const isGuest = !user || user.isGuest;
+
+    function tryStore(list) {
+        const json = JSON.stringify(list);
+        localStorage.setItem(histKey, json);
+        if (isGuest) {
+            localStorage.setItem('starley_session_history', json);
+        }
+        return true;
+    }
+
+    // 1. Direct standard save
+    try {
+        return tryStore(historyList);
+    } catch (errQuota) {
+        console.warn('[Session] Local storage quota reached. Performing smart compression on historical sessions...', errQuota);
+    }
+
+    // 2. Fallback 1: Keep latest 5 sessions with errors, strip bulky explanation texts from older sessions (> 5)
+    try {
+        const compressed1 = historyList.map((s, idx) => {
+            if (idx < 5) return s;
+            if (!Array.isArray(s.errors)) return s;
+            return {
+                ...s,
+                errors: s.errors.map(e => ({
+                    questionIndex: e.questionIndex,
+                    specialId: e.specialId,
+                    questionId: e.questionId,
+                    isCorrect: e.isCorrect,
+                    chosen: e.chosen,
+                    correctAnswer: e.correctAnswer
+                }))
+            };
+        });
+        if (tryStore(compressed1)) {
+            state.sessionHistory = compressed1;
+            return true;
+        }
+    } catch (e1) {
+        console.warn('[Session] Fallback compression 1 failed, applying maximum compact format...', e1);
+    }
+
+    // 3. Fallback 2: Keep latest 50 sessions in summary-only format (metadata, totalQ, correctQ, scorePct, expGained, detailSummary)
+    try {
+        const compressed2 = historyList.slice(0, 50).map(s => ({
+            sessionId: s.sessionId,
+            date: s.date,
+            setTitle: s.setTitle,
+            mode: s.mode,
+            lang: s.lang,
+            totalQ: s.totalQ,
+            correctQ: s.correctQ,
+            scorePct: s.scorePct,
+            timeSpentSec: s.timeSpentSec,
+            expGained: s.expGained,
+            topics: s.topics,
+            detailString: s.detailString || s.detailSummary || ''
+        }));
+        if (tryStore(compressed2)) {
+            state.sessionHistory = compressed2;
+            return true;
+        }
+    } catch (e2) {
+        console.error('[Session] Fatal: unable to save history to localStorage:', e2);
+        return false;
+    }
+}
+
+function removeFromPendingSync(sessionId) {
+    if (!sessionId) return;
+    try {
+        const pendingKey = getScopedUserKey('starley_pending_sessions');
+        let pending = [];
+        const raw = localStorage.getItem(pendingKey);
+        if (raw) pending = JSON.parse(raw);
+        if (Array.isArray(pending)) {
+            pending = pending.filter(p => String(p.sessionId || p.session_id) !== String(sessionId));
+            if (pending.length > 0) {
+                localStorage.setItem(pendingKey, JSON.stringify(pending));
+            } else {
+                localStorage.removeItem(pendingKey);
+                localStorage.removeItem('starley_pending_sessions');
+            }
+        }
+    } catch (e) {}
+}
+
+/**
  * Resilient Session Sync & Local-First Persistence
  */
 function enqueueSessionForSync(sessionObj) {
@@ -5605,15 +5796,31 @@ function enqueueSessionForSync(sessionObj) {
     if (!user || user.isGuest) return;
 
     try {
+        const pendingKey = getScopedUserKey('starley_pending_sessions');
         let pending = [];
-        const raw = localStorage.getItem('starley_pending_sessions');
+        const raw = localStorage.getItem(pendingKey) || localStorage.getItem('starley_pending_sessions');
         if (raw) pending = JSON.parse(raw);
         if (!Array.isArray(pending)) pending = [];
 
         const sId = String(sessionObj.sessionId || sessionObj.session_id);
         if (!pending.some(p => String(p.sessionId || p.session_id) === sId)) {
-            pending.push(sessionObj);
-            localStorage.setItem('starley_pending_sessions', JSON.stringify(pending));
+            // Strip bulky fields for pending queue to keep payload light and within quota
+            const pendingItem = {
+                sessionId: sId,
+                date: sessionObj.date || new Date().toISOString(),
+                setTitle: sessionObj.setTitle || 'Quiz Session',
+                mode: sessionObj.mode || 'smart',
+                lang: sessionObj.lang || 'En',
+                totalQ: sessionObj.totalQ || sessionObj.count || 0,
+                correctQ: sessionObj.correctQ || sessionObj.correctCount || 0,
+                scorePct: sessionObj.scorePct || sessionObj.accuracyPct || 0,
+                timeSpentSec: sessionObj.timeSpentSec || 0,
+                expGained: sessionObj.expGained || 0,
+                topics: sessionObj.topics || [],
+                detailSummary: sessionObj.detailSummary || sessionObj.detailString || ''
+            };
+            pending.push(pendingItem);
+            localStorage.setItem(pendingKey, JSON.stringify(pending));
         }
     } catch (e) {
         console.warn('[Session] enqueueSessionForSync error:', e);

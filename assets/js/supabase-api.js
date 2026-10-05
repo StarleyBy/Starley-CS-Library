@@ -295,24 +295,36 @@
     // Quiz sessions — local-first resilient sync with cloud
     // -------------------------------------------------------------------
     function normalizeSessionRow(sessionSummary, userId) {
+        let cleanTopics = [];
+        if (Array.isArray(sessionSummary.topics)) {
+            cleanTopics = sessionSummary.topics.map(t => String(t || '').trim()).filter(Boolean);
+        } else if (typeof sessionSummary.topics === 'string') {
+            cleanTopics = sessionSummary.topics.split(';').map(t => t.trim()).filter(Boolean);
+        }
+
+        const total = Number(sessionSummary.totalQ !== undefined ? sessionSummary.totalQ : (sessionSummary.total_q !== undefined ? sessionSummary.total_q : sessionSummary.count)) || 0;
+        const correct = Number(sessionSummary.correctQ !== undefined ? sessionSummary.correctQ : (sessionSummary.correct_q !== undefined ? sessionSummary.correct_q : sessionSummary.correctCount)) || 0;
+        let pct = Number(sessionSummary.scorePct !== undefined ? sessionSummary.scorePct : (sessionSummary.score_pct !== undefined ? sessionSummary.score_pct : sessionSummary.accuracyPct));
+        if (isNaN(pct) || pct === undefined || pct === null) {
+            pct = total > 0 ? Math.round((correct / total) * 100) : 0;
+        }
+
+        const summaryStr = String(sessionSummary.detailSummary || sessionSummary.detail_summary || sessionSummary.detailString || '').substring(0, 10000);
+
         return {
             user_id: userId,
             session_id: String(sessionSummary.sessionId || sessionSummary.session_id || ('sess_' + Date.now())),
             date: sessionSummary.date || new Date().toISOString(),
             set_title: String(sessionSummary.setTitle || sessionSummary.set_title || 'Quiz Session').substring(0, 120),
-            mode: sessionSummary.mode || 'smart',
-            lang: sessionSummary.lang || 'En',
-            total_q: Number(sessionSummary.totalQ !== undefined ? sessionSummary.totalQ : (sessionSummary.total_q !== undefined ? sessionSummary.total_q : sessionSummary.count)) || 0,
-            correct_q: Number(sessionSummary.correctQ !== undefined ? sessionSummary.correctQ : (sessionSummary.correct_q !== undefined ? sessionSummary.correct_q : sessionSummary.correctCount)) || 0,
-            score_pct: Number(sessionSummary.scorePct !== undefined ? sessionSummary.scorePct : (sessionSummary.score_pct !== undefined ? sessionSummary.score_pct : sessionSummary.accuracyPct)) || 0,
+            mode: String(sessionSummary.mode || 'smart').substring(0, 32),
+            lang: String(sessionSummary.lang || 'En').substring(0, 10),
+            total_q: total,
+            correct_q: correct,
+            score_pct: Math.round(pct),
             time_spent_sec: Number(sessionSummary.timeSpentSec !== undefined ? sessionSummary.timeSpentSec : (sessionSummary.time_spent_sec || 0)) || 0,
             exp_gained: Number(sessionSummary.expGained !== undefined ? sessionSummary.expGained : (sessionSummary.exp_gained || 0)) || 0,
-            topics: Array.isArray(sessionSummary.topics)
-                ? sessionSummary.topics
-                : (typeof sessionSummary.topics === 'string'
-                    ? sessionSummary.topics.split(';').map(t => t.trim()).filter(Boolean)
-                    : []),
-            detail_summary: sessionSummary.detailSummary || sessionSummary.detail_summary || sessionSummary.detailString || ''
+            topics: cleanTopics,
+            detail_summary: summaryStr
         };
     }
 

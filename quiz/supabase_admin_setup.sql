@@ -3,16 +3,27 @@
 -- Выполните один раз в: Supabase Dashboard → SQL Editor → New query → Run
 -- 
 -- Что делает этот скрипт:
--- 1. Разрешает администратору редактировать профили пользователей (политика RLS).
--- 2. Создаёт функцию admin_create_user (создание аккаунтов администратором без необходимости открывать публичную регистрацию).
+-- 0. Исправляет служебные поля GoTrue и очищает случайно скопированные сессии у обычных пользователей.
+-- 1. Разрешает администратору редактировать профили пользователей и удалять сессии (политики RLS).
+-- 2. Создаёт функцию admin_create_user (создание аккаунтов администратором).
 -- 3. Создаёт функцию admin_update_user (редактирование имени и/или смена/сброс PIN пользователя).
 -- 4. Создаёт функцию delete_user_by_admin (удаление пользователя и всех связанных данных).
+-- 5. Создаёт функцию admin_clear_user_history (сброс истории тестов пользователя).
 -- =============================================================================
 
 create extension if not exists "pgcrypto";
 
 -- 0. Исправление существующих аккаунтов (замена NULL на '' в служебных полях GoTrue)
--- Это моментально восстанавливает работоспособность любых старых/поврежденных аккаунтов.
+-- Внимание: поле phone имеет уникальный индекс users_phone_key!
+-- В PostgreSQL несколько строк могут иметь NULL, но НЕ могут иметь пустую строку ''.
+-- Поэтому phone мы НЕ заполняем строками, а если где-то осталась пустая строка, сбрасываем в NULL:
+do $$
+begin
+  update auth.users set phone = null where phone = '';
+exception when others then
+  null;
+end $$;
+
 update auth.users
 set 
   confirmation_token = coalesce(confirmation_token, ''),
@@ -20,9 +31,6 @@ set
   email_change_token_new = coalesce(email_change_token_new, ''),
   email_change = coalesce(email_change, ''),
   email_change_token_current = coalesce(email_change_token_current, ''),
-  phone = coalesce(phone, ''),
-  phone_change = coalesce(phone_change, ''),
-  phone_change_token = coalesce(phone_change_token, ''),
   reauthentication_token = coalesce(reauthentication_token, '')
 where
   confirmation_token is null or
@@ -30,9 +38,6 @@ where
   email_change_token_new is null or
   email_change is null or
   email_change_token_current is null or
-  phone is null or
-  phone_change is null or
-  phone_change_token is null or
   reauthentication_token is null;
 
 -- 0.1 Очистка случайно скопированных сессий у не-администраторов (оставляет сессии только у администратора Starley)
@@ -108,9 +113,6 @@ begin
     email_change_token_new,
     email_change,
     email_change_token_current,
-    phone,
-    phone_change,
-    phone_change_token,
     reauthentication_token
   ) values (
     '00000000-0000-0000-0000-000000000000',
@@ -124,9 +126,6 @@ begin
     jsonb_build_object('nickname', coalesce(nickname, 'Doctor'), 'username', 'user_' || clean_pin),
     now(),
     now(),
-    '',
-    '',
-    '',
     '',
     '',
     '',
