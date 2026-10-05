@@ -44,16 +44,48 @@
     }
 
     async function loginWithPin(pin) {
-        const { data, error } = await client.auth.signInWithPassword({
-            email: pinToEmail(pin),
-            password: pinToPassword(pin)
-        });
-        if (error) return { ok: false, success: false, error: error.message };
+        const cleanPin = String(pin).trim();
 
+        // 1. Primary try: pin_<pin>@starley.com / starley_<pin>
+        let res = await client.auth.signInWithPassword({
+            email: pinToEmail(cleanPin),
+            password: pinToPassword(cleanPin)
+        });
+
+        // 2. Fallback try: pin_<pin>@starley.com / <pin> (bare PIN)
+        if (res.error && res.error.message && res.error.message.toLowerCase().includes('invalid')) {
+            const retry1 = await client.auth.signInWithPassword({
+                email: pinToEmail(cleanPin),
+                password: cleanPin
+            });
+            if (!retry1.error) res = retry1;
+        }
+
+        // 3. Fallback try: pin_<pin>@starley.local / <pin> (Google Sheets migration format)
+        if (res.error && res.error.message && res.error.message.toLowerCase().includes('invalid')) {
+            const retry2 = await client.auth.signInWithPassword({
+                email: `pin_${cleanPin}@starley.local`,
+                password: cleanPin
+            });
+            if (!retry2.error) res = retry2;
+        }
+
+        // 4. Fallback try: pin_<pin>@starley.local / starley_<pin>
+        if (res.error && res.error.message && res.error.message.toLowerCase().includes('invalid')) {
+            const retry3 = await client.auth.signInWithPassword({
+                email: `pin_${cleanPin}@starley.local`,
+                password: `starley_${cleanPin}`
+            });
+            if (!retry3.error) res = retry3;
+        }
+
+        if (res.error) return { ok: false, success: false, error: res.error.message };
+
+        const data = res.data;
         const profile = await getProfile();
         const fallbackProfile = {
             id: data.user.id,
-            username: (data.user.user_metadata && data.user.user_metadata.username) || `user_${pin}`,
+            username: (data.user.user_metadata && data.user.user_metadata.username) || `user_${cleanPin}`,
             nickname: (data.user.user_metadata && data.user.user_metadata.nickname) || 'Doctor',
             role: 'user',
             avatar: 'doc'
