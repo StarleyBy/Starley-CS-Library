@@ -8884,8 +8884,7 @@ function initAdminAccountManager() {
             }
 
             const nickname = prompt(isRu ? 'Введите имя / никнейм врача (например: Д-р Иванов):' : 'Enter Doctor Nickname (e.g. Dr. Ivanov):') || ('User ' + cleanPin);
-            const email = prompt(isRu ? 'Email адрес (необязательно):' : 'Email address (optional):') || '';
-            const role = confirm(isRu ? 'Назначить права администратора? (ОК = Администратор, Отмена = Пользователь)' : 'Assign Administrator privileges? (OK = Admin, Cancel = User)') ? 'admin' : 'user';
+            const role = 'user'; // Все создаваемые пользователи стандартные (единственный администратор - Starley)
 
             if (window.SupabaseAPI && typeof window.SupabaseAPI.adminCreateUser === 'function') {
                 try {
@@ -8931,7 +8930,7 @@ async function loadAdminUsers() {
                             <tr style="border-bottom: 1px solid var(--quiz-border); text-align: left; color: var(--quiz-muted);">
                                 <th style="padding: 8px;">User / Nickname</th>
                                 <th style="padding: 8px;">Role</th>
-                                <th style="padding: 8px;">Username</th>
+                                <th style="padding: 8px;">PIN / Login</th>
                                 <th style="padding: 8px;">Level</th>
                                 <th style="padding: 8px;">Created</th>
                                 <th style="padding: 8px; text-align: right;">Action</th>
@@ -8940,15 +8939,21 @@ async function loadAdminUsers() {
                         <tbody>
                             ${profiles.map(p => {
                                 const isSelf = (admin.id && p.id === admin.id) || (admin.username && p.username === admin.username);
+                                const rawPin = p.username ? (p.username.startsWith('user_') ? p.username.slice(5) : p.username) : '-';
                                 const actionCell = isSelf
                                     ? `<span style="font-size: 0.75rem; color: #eab308; font-weight: 700;">👑 You</span>`
-                                    : `<button type="button" onclick="window.confirmDeleteAdminUser('${p.id}', '${escapeHTML(p.nickname || p.username || 'Doctor')}', '${escapeHTML(p.username || '')}')" class="btn-admin-del" style="background: rgba(248, 113, 113, 0.15); border: 1px solid rgba(248, 113, 113, 0.4); color: #f87171; padding: 4px 10px; border-radius: 6px; font-size: 0.75rem; font-weight: 700; cursor: pointer; transition: all 0.2s;">🗑️ Delete</button>`;
+                                    : `
+                                    <div style="display: flex; gap: 6px; justify-content: flex-end;">
+                                        <button type="button" onclick="window.adminEditUserPrompt('${p.id}', '${escapeHTML(p.nickname || p.username || 'Doctor')}', '${escapeHTML(p.username || '')}')" class="btn-admin-edit" style="background: rgba(59, 130, 246, 0.15); border: 1px solid rgba(59, 130, 246, 0.4); color: #60a5fa; padding: 4px 10px; border-radius: 6px; font-size: 0.75rem; font-weight: 700; cursor: pointer; transition: all 0.2s;" title="Редактировать имя или PIN">✏️ Edit</button>
+                                        <button type="button" onclick="window.confirmDeleteAdminUser('${p.id}', '${escapeHTML(p.nickname || p.username || 'Doctor')}', '${escapeHTML(p.username || '')}')" class="btn-admin-del" style="background: rgba(248, 113, 113, 0.15); border: 1px solid rgba(248, 113, 113, 0.4); color: #f87171; padding: 4px 10px; border-radius: 6px; font-size: 0.75rem; font-weight: 700; cursor: pointer; transition: all 0.2s;" title="Удалить пользователя">🗑️ Delete</button>
+                                    </div>
+                                    `;
 
                                 return `
                                     <tr style="border-bottom: 1px solid rgba(48, 54, 61, 0.4);">
                                         <td style="padding: 8px; font-weight: 700;">${escapeHTML(p.nickname || p.username || 'Doctor')}</td>
                                         <td style="padding: 8px;"><span style="color: ${p.role === 'admin' ? '#eab308' : '#58a6ff'}; font-weight: 700;">${p.role}</span></td>
-                                        <td style="padding: 8px;"><code>${escapeHTML(p.username || '-')}</code></td>
+                                        <td style="padding: 8px;"><code style="background: rgba(255,255,255,0.06); padding: 2px 6px; border-radius: 4px; font-size: 0.8rem;">PIN: ${escapeHTML(rawPin)}</code></td>
                                         <td style="padding: 8px; color: var(--quiz-muted);">Lv. ${p.level_num || 1} (${p.total_exp || 0} EXP)</td>
                                         <td style="padding: 8px; color: var(--quiz-muted); font-size: 0.8rem;">${p.created_at ? new Date(p.created_at).toLocaleDateString() : '-'}</td>
                                         <td style="padding: 8px; text-align: right;">${actionCell}</td>
@@ -8967,6 +8972,66 @@ async function loadAdminUsers() {
 
     list.innerHTML = `<div style="color: var(--quiz-muted); text-align: center; padding: 20px;">Could not retrieve user directory from Supabase.</div>`;
 }
+
+window.adminEditUserPrompt = async function(userId, currentNick, currentUsername) {
+    const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+    const currentPin = currentUsername ? (currentUsername.startsWith('user_') ? currentUsername.slice(5) : currentUsername) : '';
+
+    const newNick = prompt(
+        isRu ? `Редактирование пользователя: ${currentNick}\n\nВведите новое имя/никнейм врача (или оставьте прежнее):`
+             : `Edit user: ${currentNick}\n\nEnter Doctor Nickname:`,
+        currentNick
+    );
+    if (newNick === null) return; // User cancelled
+
+    const changePin = confirm(
+        isRu ? `Хотите изменить или задать новый пароль / PIN для «${currentNick}»?\n(Текущий PIN: ${currentPin || 'не указан'})\n\n[ОК] — изменить пароль / PIN\n[Отмена] — оставить пароль без изменений`
+             : `Change Password / PIN for "${currentNick}"?\n(Current PIN: ${currentPin || 'unknown'})\n\n[OK] — Change PIN\n[Cancel] — Keep current PIN`
+    );
+
+    let newPin = null;
+    if (changePin) {
+        const pinInput = prompt(
+            isRu ? `Введите новый пароль / PIN (минимум 4 символа):`
+                 : `Enter new Password / PIN (at least 4 characters):`,
+            currentPin
+        );
+        if (pinInput === null) return;
+        newPin = pinInput.trim();
+        if (newPin.length < 4) {
+            alert(isRu ? '❌ Пароль/PIN должен содержать минимум 4 символа.' : '❌ Password/PIN must be at least 4 characters.');
+            return;
+        }
+
+        // Проверка уникальности нового PIN
+        if (window.SupabaseAPI && typeof window.SupabaseAPI.checkPinExists === 'function') {
+            const check = await window.SupabaseAPI.checkPinExists(newPin);
+            if (check && check.exists && check.user && check.user.id !== userId) {
+                alert(isRu 
+                    ? `⚠️ Пользователь с паролем/PIN «${newPin}» уже существует в системе! Задайте другой уникальный PIN.`
+                    : `⚠️ A user with password/PIN "${newPin}" already exists! Please choose another.`);
+                return;
+            }
+        }
+    }
+
+    if (window.SupabaseAPI && typeof window.SupabaseAPI.adminUpdateUser === 'function') {
+        try {
+            const res = await window.SupabaseAPI.adminUpdateUser(userId, {
+                nickname: newNick.trim(),
+                pin: newPin
+            });
+            if (res && (res.ok || res.success)) {
+                alert(`✓ ${res.message || (isRu ? 'Данные пользователя успешно обновлены!' : 'User updated successfully!')}`);
+                await loadAdminUsers();
+            } else {
+                alert(`❌ ${isRu ? 'Ошибка при обновлении:' : 'Update error:'}\n\n${(res && res.error) || 'Unknown error'}`);
+            }
+        } catch (e) {
+            alert(`❌ ${isRu ? 'Ошибка:' : 'Error:'} ${e.message}`);
+        }
+    }
+};
 
 window.confirmDeleteAdminUser = async function(userId, nick, username) {
     const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;

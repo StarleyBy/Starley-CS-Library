@@ -424,6 +424,7 @@
         }
 
         const cleanPin = String(pin).trim();
+        const safeRole = 'user'; // Админ только один (Starley), все остальные пользователи всегда стандартные 'user'
 
         // 0. Pre-check for duplicate PIN/password
         const pinCheck = await checkPinExists(cleanPin);
@@ -436,10 +437,35 @@
             };
         }
 
+        // 1. Try Postgres RPC admin_create_user (fastest, direct, does not depend on public signups being enabled)
+        try {
+            const { data: rpcData, error: rpcErr } = await client.rpc('admin_create_user', {
+                pin: cleanPin,
+                nickname: nickname || 'Doctor',
+                role: safeRole
+            });
+            if (!rpcErr && rpcData) {
+                if (rpcData.ok === false) {
+                    return rpcData;
+                }
+                return {
+                    ok: true,
+                    success: true,
+                    message: rpcData.message || `Пользователь для PIN ${cleanPin} успешно создан!`,
+                    user: { id: rpcData.id, nickname: nickname || 'Doctor', role: safeRole }
+                };
+            }
+            if (rpcErr && rpcErr.code !== 'PGRST202') {
+                console.warn('[Admin] RPC create returned error:', rpcErr);
+            }
+        } catch (rpcErr) {
+            console.warn('[Admin] RPC create failed, trying fallback:', rpcErr);
+        }
+
         const functionBase = window.SUPABASE_FUNCTIONS_URL || `${window.SUPABASE_URL}/functions/v1`;
         let edgeError = null;
 
-        // 1. Try calling the Edge Function first
+        // 2. Try calling the Edge Function if deployed
         try {
             const res = await fetch(`${functionBase}/admin-create-user`, {
                 method: 'POST',
@@ -447,7 +473,7 @@
                     'Content-Type': 'application/json',
                     'Authorization': `Bearer ${session.access_token}`
                 },
-                body: JSON.stringify({ pin: cleanPin, nickname, role })
+                body: JSON.stringify({ pin: cleanPin, nickname, role: safeRole })
             });
 
             if (res.ok) {
@@ -467,7 +493,7 @@
             edgeError = fetchErr.message || 'Network error';
         }
 
-        // 2. Fallback: Direct creation attempt via ephemeral client
+        // 3. Fallback: Direct creation attempt via ephemeral client
         try {
             const ephemeralClient = window.supabase.createClient(window.SUPABASE_URL, window.SUPABASE_ANON_KEY, {
                 auth: { persistSession: false, autoRefreshToken: false, detectSessionInUrl: false }
@@ -488,16 +514,23 @@
 
             if (signUpErr) {
                 const msg = String(signUpErr.message || '');
-                if (msg.toLowerCase().includes('already') || signUpErr.status === 422) {
+                const code = String(signUpErr.code || signUpErr.error_code || '');
+                if (code === 'user_already_exists' || msg.toLowerCase().includes('already registered') || msg.toLowerCase().includes('already exists')) {
                     return {
                         ok: false,
                         duplicate: true,
                         error: `Пользователь с паролем/PIN "${cleanPin}" уже существует. Выберите другой пароль.`
                     };
                 }
+                if (code === 'signup_disabled' || msg.toLowerCase().includes('signups not allowed') || msg.toLowerCase().includes('signup is disabled')) {
+                    return {
+                        ok: false,
+                        error: `В Supabase отключена регистрация новых пользователей (signup_disabled).\n\nЧтобы создавать пользователей прямо из приложения:\n1. Либо выполните скрипт quiz/supabase_admin_setup.sql в Supabase SQL Editor (рекомендуется — создание через защищенный RPC без открытия публичной регистрации);\n2. Либо в панели Supabase: Authentication → Providers → Email:\n   - Включите «Allow new users to sign up»\n   - Выключите «Confirm email»`
+                    };
+                }
                 return {
                     ok: false,
-                    error: `Edge Function недоступна (${edgeError}). Прямая регистрация: ${signUpErr.message}`
+                    error: `Ошибка создания: ${signUpErr.message || msg}`
                 };
             }
 
@@ -507,7 +540,7 @@
                 if (testSignIn.error && String(testSignIn.error.message || '').toLowerCase().includes('confirm')) {
                     return {
                         ok: false,
-                        error: `Edge Function 'admin-create-user' не задеплоена на Supabase (${edgeError}).\n\nПользователь создан в auth, но в Supabase включена опция «Confirm email».\n\nРешение:\n1) В панели Supabase: Authentication → Providers → Email → ВЫКЛЮЧИТЕ тумблер «Confirm email» (тогда пользователи активируются мгновенно);\n2) Либо задеплойте Edge Function командой:\n   supabase functions deploy admin-create-user`
+                        error: `Пользователь создан в auth, но в Supabase включена опция «Confirm email».\n\nРешение:\n1) В панели Supabase: Authentication → Providers → Email → ВЫКЛЮЧИТЕ тумблер «Confirm email» (тогда пользователи активируются мгновенно);\n2) Либо выполните скрипт quiz/supabase_admin_setup.sql в Supabase SQL Editor.`
                     };
                 }
 
@@ -515,19 +548,79 @@
                     ok: true,
                     success: true,
                     message: `Пользователь для PIN ${cleanPin} успешно создан!`,
-                    user: { id: signUpData.user.id, nickname, role }
+                    user: { id: signUpData.user.id, nickname, role: safeRole }
                 };
             }
         } catch (fallbackErr) {
             return {
                 ok: false,
-                error: `Ошибка создания: Edge Function не задеплоена (${edgeError}). Fallback: ${fallbackErr.message}`
+                error: `Ошибка создания: ${fallbackErr.message}`
             };
         }
 
         return {
             ok: false,
-            error: `Edge function 'admin-create-user' не задеплоена на Supabase (${edgeError}).`
+            error: `Не удалось создать пользователя. Выполните скрипт quiz/supabase_admin_setup.sql в Supabase SQL Editor.`
+        };
+    }
+
+    async function adminUpdateUser(targetUserId, { nickname, pin } = {}) {
+        if (!targetUserId) return { ok: false, error: 'targetUserId is required' };
+        const { data: { session } } = await client.auth.getSession();
+        if (!session) return { ok: false, error: 'Not authenticated' };
+
+        // Verify caller is admin
+        const profileRes = await getProfile();
+        if (!profileRes.ok || !profileRes.data || profileRes.data.role !== 'admin') {
+            return { ok: false, error: 'Forbidden: admin role required' };
+        }
+
+        const cleanNick = nickname !== undefined ? String(nickname).trim() : null;
+        const cleanPin = pin ? String(pin).trim() : null;
+
+        // 1. Try RPC admin_update_user (handles both nickname and password/PIN change)
+        try {
+            const { data: rpcData, error: rpcErr } = await client.rpc('admin_update_user', {
+                target_user_id: targetUserId,
+                new_nickname: cleanNick,
+                new_pin: cleanPin
+            });
+            if (!rpcErr && rpcData) {
+                return rpcData;
+            }
+            if (rpcErr && rpcErr.code !== 'PGRST202') {
+                return { ok: false, error: rpcErr.message };
+            }
+        } catch (rpcErr) {
+            console.warn('[Admin] RPC update failed:', rpcErr);
+        }
+
+        // 2. Direct profiles update for nickname if no PIN update was requested
+        if (cleanNick && !cleanPin) {
+            try {
+                const { data, error } = await client
+                    .from('profiles')
+                    .update({ nickname: cleanNick, updated_at: new Date().toISOString() })
+                    .eq('id', targetUserId)
+                    .select();
+                if (!error && Array.isArray(data) && data.length > 0) {
+                    return { ok: true, success: true, message: 'Имя пользователя успешно обновлено!' };
+                }
+            } catch (updErr) {
+                console.warn('[Admin] Direct profile update failed:', updErr);
+            }
+        }
+
+        if (cleanPin) {
+            return {
+                ok: false,
+                error: 'Для смены пароля/PIN пользователя через приложение выполните скрипт quiz/supabase_admin_setup.sql в Supabase SQL Editor.'
+            };
+        }
+
+        return {
+            ok: false,
+            error: 'Не удалось обновить профиль пользователя в Supabase.'
         };
     }
 
@@ -613,6 +706,7 @@
         getAuthUser,
         subscribeToOwnChanges,
         adminCreateUser,
+        adminUpdateUser,
         adminDeleteUser,
         checkPinExists
     };
