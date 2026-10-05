@@ -15,6 +15,7 @@
     const MASTER_ADMIN_PIN = '456755';
     const MASTER_USER_PIN = '0455';
     const SESSION_KEY = 'starley_auth';
+    const GUEST_SESSION_KEY = 'starley_guest_auth';
 
     let currentUser = null;      // cached snapshot, synchronous reads
     let unsubscribeRealtime = null;
@@ -74,6 +75,7 @@
     }
 
     async function loginAsGuest() {
+        sessionStorage.setItem(GUEST_SESSION_KEY, 'true');
         currentUser = {
             username: 'user',
             role: 'user',
@@ -142,33 +144,67 @@
     // Login modal — Master Passwords (456755/0455) + Quiz Accounts
     // -----------------------------------------------------------------
     function showLoginModal() {
+        if (document.getElementById('auth-modal')) return;
         document.body.style.overflow = 'hidden';
 
+        const isRu = (window.state && window.state.settings && window.state.settings.lang) ? window.state.settings.lang === 'Ru' : true;
         const modal = document.createElement('div');
         modal.id = 'auth-modal';
         modal.innerHTML = `
             <div class="auth-overlay"></div>
-            <div class="auth-box">
+            <div class="auth-box" style="position: relative;">
+                <button type="button" id="auth-modal-close" style="position: absolute; top: 12px; right: 14px; background: none; border: none; font-size: 1.5rem; line-height: 1; color: #94a3b8; cursor: pointer; padding: 4px 8px; border-radius: 6px; transition: all 0.2s;" title="${isRu ? 'Закрыть' : 'Close'}">&times;</button>
                 <div class="auth-header">
                     <h2>🔒 Medical Library</h2>
-                    <p>Enter password to continue</p>
+                    <p>${isRu ? 'Введите ваш PIN или пароль:' : 'Enter your PIN or password to continue'}</p>
                 </div>
                 <form id="auth-form" autocomplete="off">
                     <input
                         type="password"
                         id="password-input"
-                        placeholder="Password"
-                        maxlength="12"
+                        placeholder="${isRu ? 'PIN / Пароль' : 'PIN / Password'}"
+                        maxlength="16"
                         autocomplete="off"
                         autofocus
                         style="color: #0f172a; background: #ffffff; border: 2px solid #94a3b8; font-weight: 700; font-size: 1.2rem; text-align: center; letter-spacing: 4px;"
                     >
                     <div class="error-message" id="error-message"></div>
-                    <button type="submit">Enter</button>
+                    <button type="submit">${isRu ? 'Войти' : 'Enter'}</button>
                 </form>
             </div>
         `;
         document.body.appendChild(modal);
+
+        const closeModal = () => {
+            modal.remove();
+            document.body.style.overflow = '';
+            document.removeEventListener('keydown', onKeyDown);
+            // If user has no session at all, ensure they enter as guest so they aren't blocked
+            if (!currentUser) {
+                currentUser = {
+                    username: 'user',
+                    role: 'user',
+                    name: 'User',
+                    nickname: 'User',
+                    avatar: 'doc',
+                    isGuest: true
+                };
+                sessionStorage.setItem(GUEST_SESSION_KEY, 'true');
+                saveAuth(currentUser);
+                window.location.reload();
+            }
+        };
+
+        const onKeyDown = (e) => {
+            if (e.key === 'Escape') closeModal();
+        };
+        document.addEventListener('keydown', onKeyDown);
+
+        const closeBtn = document.getElementById('auth-modal-close');
+        if (closeBtn) closeBtn.onclick = closeModal;
+
+        const overlay = modal.querySelector('.auth-overlay');
+        if (overlay) overlay.onclick = closeModal;
 
         const form = document.getElementById('auth-form');
         const passInput = document.getElementById('password-input');
@@ -179,13 +215,13 @@
             e.preventDefault();
             const password = passInput ? passInput.value.trim() : '';
             if (!password) {
-                errorMsg.textContent = '✗ Password is required';
+                errorMsg.textContent = isRu ? '✗ Введите пароль или PIN' : '✗ Password or PIN is required';
                 errorMsg.style.color = '#f87171';
                 return;
             }
 
             submitBtn.disabled = true;
-            submitBtn.textContent = 'Authenticating...';
+            submitBtn.textContent = isRu ? 'Проверка...' : 'Authenticating...';
 
             // 1. Master Admin Password (456755) -> Instant Admin Privileges
             if (password === MASTER_ADMIN_PIN) {
@@ -197,6 +233,7 @@
                     avatar: 'doc',
                     isGuest: false
                 };
+                sessionStorage.removeItem(GUEST_SESSION_KEY);
                 saveAuth(currentUser);
                 if (window.SupabaseAPI) {
                     window.SupabaseAPI.loginWithPin(MASTER_ADMIN_PIN).catch(() => {});
@@ -215,6 +252,7 @@
                     avatar: 'doc',
                     isGuest: true
                 };
+                sessionStorage.setItem(GUEST_SESSION_KEY, 'true');
                 saveAuth(currentUser);
                 showLoginSuccess(modal, errorMsg, 'User');
                 return;
@@ -224,32 +262,35 @@
             if (window.SupabaseAPI) {
                 try {
                     const res = await window.SupabaseAPI.loginWithPin(password);
-                    if (res && res.ok) {
+                    if (res && res.ok && res.user) {
                         const profile = res.user;
                         currentUser = {
                             id: profile.id,
-                            username: profile.username,
+                            username: profile.username || `user_${password}`,
                             role: profile.role || 'user',
                             name: profile.nickname || 'Doctor',
                             nickname: profile.nickname || 'Doctor',
                             avatar: profile.avatar || 'doc',
                             isGuest: false
                         };
+                        sessionStorage.removeItem(GUEST_SESSION_KEY);
                         saveAuth(currentUser);
                         showLoginSuccess(modal, errorMsg, currentUser.nickname);
                         return;
                     }
-                } catch (err) {}
+                } catch (err) {
+                    console.warn('[Auth] login error:', err);
+                }
             }
 
             // Incorrect Password
             submitBtn.disabled = false;
-            submitBtn.textContent = 'Enter';
+            submitBtn.textContent = isRu ? 'Войти' : 'Enter';
             passInput.value = '';
             passInput.classList.add('shake');
             setTimeout(() => passInput.classList.remove('shake'), 500);
 
-            errorMsg.textContent = '✗ Incorrect password';
+            errorMsg.textContent = isRu ? '✗ Неверный PIN или пароль' : '✗ Incorrect PIN or password';
             errorMsg.style.color = '#f87171';
         });
 
@@ -304,10 +345,14 @@
         const badgeTitle = userInfo.role === 'admin' ? 'Admin' : (userInfo.isGuest ? 'Guest' : 'User');
         const displayName = userInfo.isGuest ? 'User' : (userInfo.nickname || userInfo.name);
 
+        const actionBtn = userInfo.isGuest
+            ? `<button onclick="window.AuthSystem.showLoginModal()" class="auth-action-btn" title="Войти в аккаунт по PIN" style="background: none; border: none; color: #38bdf8; cursor: pointer; padding: 2px 4px; font-size: 0.95rem; margin-left: 2px;">🔑</button>`
+            : `<button onclick="window.logout()" class="auth-action-btn logout-btn" title="Выйти из аккаунта" style="background: none; border: none; color: #f87171; cursor: pointer; padding: 2px 4px; font-size: 0.95rem; margin-left: 2px;">🚪</button>`;
+
         indicator.innerHTML = `
             <span class="role-icon" style="font-size: 1.1rem; pointer-events: none;">${avatarIcon}</span>
             <span class="role-name" style="color: #ffffff !important; font-weight: 700 !important; text-shadow: 0 1px 3px rgba(0,0,0,0.8); pointer-events: none;">${displayName} (${badgeTitle})</span>
-            <button onclick="window.logout()" class="logout-btn" title="Logout" style="background: none; border: none; color: #f87171; cursor: pointer; padding: 2px 4px; font-size: 0.95rem; margin-left: 2px;">🚪</button>
+            ${actionBtn}
         `;
         document.body.appendChild(indicator);
         makeDraggable(indicator);
@@ -328,7 +373,7 @@
         element.addEventListener('touchstart', dragTouchStart, { passive: false });
 
         function dragMouseDown(e) {
-            if (e.target.closest('.logout-btn')) return;
+            if (e.target.closest('.auth-action-btn') || e.target.closest('.logout-btn')) return;
             e.preventDefault();
             isDragging = true;
             element.style.cursor = 'grabbing';
@@ -337,7 +382,7 @@
             document.addEventListener('mouseup', closeDragElement);
         }
         function dragTouchStart(e) {
-            if (e.target.closest('.logout-btn')) return;
+            if (e.target.closest('.auth-action-btn') || e.target.closest('.logout-btn')) return;
             e.preventDefault();
             isDragging = true;
             element.style.cursor = 'grabbing';
@@ -381,14 +426,29 @@
     }
 
     window.logout = async function () {
-        if (!confirm('Exit Medical Library session?')) return;
-        sessionStorage.removeItem(GUEST_SESSION_KEY);
-        clearStoredAuth();
-        if (unsubscribeRealtime) unsubscribeRealtime();
+        if (!currentUser || currentUser.isGuest) {
+            showLoginModal();
+            return;
+        }
+
+        const isRu = (window.state && window.state.settings && window.state.settings.lang) ? window.state.settings.lang === 'Ru' : true;
+        const confirmMsg = isRu ? 'Вы действительно хотите выйти из аккаунта?' : 'Do you want to log out of your account?';
+        if (!confirm(confirmMsg)) return;
+
+        if (unsubscribeRealtime) {
+            try { unsubscribeRealtime(); } catch (e) {}
+            unsubscribeRealtime = null;
+        }
+
         if (window.SupabaseAPI && currentUser && !currentUser.isGuest) {
             try { await window.SupabaseAPI.logout(); } catch (e) { }
         }
+
+        clearStoredAuth();
         currentUser = null;
+
+        sessionStorage.setItem(GUEST_SESSION_KEY, 'true');
+        sessionStorage.setItem('starley_show_login', 'true');
         window.location.reload();
     };
 
@@ -439,6 +499,11 @@
         if (!isAuthenticated()) {
             showLoginModal();
             return;
+        }
+
+        if (sessionStorage.getItem('starley_show_login') === 'true') {
+            sessionStorage.removeItem('starley_show_login');
+            setTimeout(showLoginModal, 150);
         }
 
         const nameDisplay = document.getElementById('profile-nickname-display');

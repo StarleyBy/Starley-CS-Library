@@ -51,7 +51,15 @@
         if (error) return { ok: false, success: false, error: error.message };
 
         const profile = await getProfile();
-        return { ok: true, success: true, user: profile.data, session: data.session };
+        const fallbackProfile = {
+            id: data.user.id,
+            username: (data.user.user_metadata && data.user.user_metadata.username) || `user_${pin}`,
+            nickname: (data.user.user_metadata && data.user.user_metadata.nickname) || 'Doctor',
+            role: 'user',
+            avatar: 'doc'
+        };
+        const resolvedProfile = (profile && profile.ok && profile.data) ? profile.data : fallbackProfile;
+        return { ok: true, success: true, user: resolvedProfile, session: data.session };
     }
 
     async function logout() {

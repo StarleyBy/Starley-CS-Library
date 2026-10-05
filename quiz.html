@@ -91,8 +91,8 @@
                             <button type="button" id="btn-open-admin-modal" onclick="if(typeof loadAdminData==='function')loadAdminData();const m=document.getElementById('quiz-admin-modal');if(m)m.style.display='flex';" class="btn-profile-edit admin-only" title="Manage Accounts & Directory" style="display: none; background: rgba(234, 179, 8, 0.15); border: 1px solid rgba(234, 179, 8, 0.4); color: #eab308; height: 38px; padding: 0 10px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; transition: all 0.2s;">
                                 <span id="txt-btn-admin">👑 Admin</span>
                             </button>
-                            <button type="button" id="btn-quiz-logout" onclick="window.logout();" class="btn-profile-edit" title="Logout / Выйти из аккаунта" style="background: rgba(248, 113, 113, 0.12); border: 1px solid rgba(248, 113, 113, 0.35); color: #f87171; height: 38px; padding: 0 10px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; display: flex; align-items: center; gap: 4px; transition: all 0.2s;">
-                                <span>🚪</span> <span id="txt-btn-logout">Exit</span>
+                            <button type="button" id="btn-quiz-logout" onclick="if(window.AuthSystem && (!window.AuthSystem.getCurrentUser() || window.AuthSystem.getCurrentUser().isGuest)){if(window.AuthSystem.showLoginModal)window.AuthSystem.showLoginModal();}else if(window.logout){window.logout();}" class="btn-profile-edit" title="Войти в аккаунт / Вход" style="background: rgba(56, 189, 248, 0.15); border: 1px solid rgba(56, 189, 248, 0.45); color: #38bdf8; height: 38px; padding: 0 10px; border-radius: 10px; cursor: pointer; font-size: 0.82rem; font-weight: 700; display: flex; align-items: center; gap: 4px; transition: all 0.2s;">
+                                <span>🔑</span> <span id="txt-btn-logout">Войти</span>
                             </button>
                         </div>
                     </div>
@@ -854,9 +854,8 @@
                         </div>
 
 
-                        <!-- Embedded Action Buttons for Settings Tab -->
                         <div style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--quiz-border); padding-top: 16px; margin-top: 16px;">
-                            <button type="button" onclick="if(window.AuthSystem) window.AuthSystem.logout(); else if(window.logout) window.logout();" class="btn-outline" style="color: #f87171; border-color: rgba(248, 113, 113, 0.4); padding: 8px 16px; border-radius: 8px; font-weight: 700; cursor: pointer;">🚪 <span id="txt-cab-logout">Logout</span></button>
+                            <button type="button" id="btn-cab-logout" onclick="if(window.AuthSystem && (!window.AuthSystem.getCurrentUser() || window.AuthSystem.getCurrentUser().isGuest)){const m=document.getElementById('quiz-profile-modal');if(m)m.style.display='none';if(window.AuthSystem.showLoginModal)window.AuthSystem.showLoginModal();}else if(window.logout){window.logout();}" class="btn-outline" style="color: #38bdf8; border-color: rgba(56, 189, 248, 0.45); padding: 8px 16px; border-radius: 8px; font-weight: 700; cursor: pointer;">🔑 <span id="txt-cab-logout">Войти в аккаунт</span></button>
                             <button type="button" id="btn-save-profile" onclick="if(window.saveUserProfileChanges) window.saveUserProfileChanges();" class="btn-primary" style="padding: 10px 24px; border-radius: 10px; font-weight: 700;"><span id="txt-btn-save-profile">💾 Save Changes</span></button>
                         </div>
                     </div>

@@ -2849,6 +2849,8 @@ function setupLobbyListeners() {
 
         // Update Radar values/chart on lang change if dashboard is displayed
         updateWeakSpotRadar();
+
+        if (typeof updateAuthButtonsUI === 'function') updateAuthButtonsUI();
     };
 
     window.updateAllLobbyLabels = updateLobbyLabels;
@@ -2987,6 +2989,8 @@ function setupLobbyListeners() {
 
         const txtBtnSave = document.getElementById('txt-btn-save-profile');
         if (txtBtnSave) txtBtnSave.textContent = isRu ? '💾 Сохранить изменения' : '💾 Save Changes';
+
+        if (typeof updateAuthButtonsUI === 'function') updateAuthButtonsUI();
     };
     window.updateCabinetLabels = updateCabinetLabels;
     
@@ -5695,6 +5699,61 @@ function mergeAndPersistSessionHistory(remoteSessionsRaw) {
 }
 
 /**
+ * Adapt Login / Logout buttons based on Guest mode vs Authenticated account
+ */
+function updateAuthButtonsUI() {
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    const isRu = (state && state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+    const isGuest = !user || user.isGuest;
+
+    const btnQuizLogout = document.getElementById('btn-quiz-logout');
+    const btnCabLogout = document.getElementById('btn-cab-logout');
+
+    if (btnQuizLogout) {
+        if (isGuest) {
+            btnQuizLogout.innerHTML = `<span>🔑</span> <span id="txt-btn-logout">${isRu ? 'Войти' : 'Sign In'}</span>`;
+            btnQuizLogout.title = isRu ? 'Вход в аккаунт по PIN' : 'Log in with PIN';
+            btnQuizLogout.style.background = 'rgba(56, 189, 248, 0.15)';
+            btnQuizLogout.style.borderColor = 'rgba(56, 189, 248, 0.45)';
+            btnQuizLogout.style.color = '#38bdf8';
+            btnQuizLogout.onclick = () => {
+                if (window.AuthSystem && typeof window.AuthSystem.showLoginModal === 'function') {
+                    window.AuthSystem.showLoginModal();
+                }
+            };
+        } else {
+            btnQuizLogout.innerHTML = `<span>🚪</span> <span id="txt-btn-logout">${isRu ? 'Выход' : 'Exit'}</span>`;
+            btnQuizLogout.title = isRu ? 'Выйти из аккаунта' : 'Logout from account';
+            btnQuizLogout.style.background = 'rgba(248, 113, 113, 0.12)';
+            btnQuizLogout.style.borderColor = 'rgba(248, 113, 113, 0.35)';
+            btnQuizLogout.style.color = '#f87171';
+            btnQuizLogout.onclick = () => window.logout();
+        }
+    }
+
+    if (btnCabLogout) {
+        if (isGuest) {
+            btnCabLogout.innerHTML = `🔑 <span id="txt-cab-logout">${isRu ? 'Войти в аккаунт' : 'Log in with PIN'}</span>`;
+            btnCabLogout.style.color = '#38bdf8';
+            btnCabLogout.style.borderColor = 'rgba(56, 189, 248, 0.45)';
+            btnCabLogout.onclick = () => {
+                const cabModal = document.getElementById('quiz-profile-modal');
+                if (cabModal) cabModal.style.display = 'none';
+                if (window.AuthSystem && typeof window.AuthSystem.showLoginModal === 'function') {
+                    window.AuthSystem.showLoginModal();
+                }
+            };
+        } else {
+            btnCabLogout.innerHTML = `🚪 <span id="txt-cab-logout">${isRu ? 'Выход из аккаунта' : 'Logout'}</span>`;
+            btnCabLogout.style.color = '#f87171';
+            btnCabLogout.style.borderColor = 'rgba(248, 113, 113, 0.4)';
+            btnCabLogout.onclick = () => window.logout();
+        }
+    }
+}
+window.updateAuthButtonsUI = updateAuthButtonsUI;
+
+/**
  * Initialize Supabase Account Sync — runs once auth.js has resolved a
  * session (see 'starley-auth-ready' listener).
  */
@@ -5705,6 +5764,8 @@ async function initSupabaseAccountSync() {
     const nameDisplay = document.getElementById('profile-nickname-display');
     const adminBtn = document.getElementById('btn-open-admin-modal');
 
+    updateAuthButtonsUI();
+
     if (!user) return;
 
     const reqAccountBtn = document.getElementById('btn-request-account');
@@ -5713,6 +5774,7 @@ async function initSupabaseAccountSync() {
     if (user.role === 'admin' && adminBtn) adminBtn.style.display = 'inline-block';
 
     if (user.isGuest) {
+        updateAuthButtonsUI();
         setSyncStatus('off');
         if (cabinetBadge) cabinetBadge.textContent = '👤 Guest Mode (No Cloud Sync)';
         state.userFavorites = sanitizeFavoritesList(JSON.parse(localStorage.getItem('starley_user_favorites') || '[]'));
@@ -9082,6 +9144,9 @@ document.addEventListener('DOMContentLoaded', function() {
     // Also cover the case where auth.js already finished before this script ran:
     if (window.AuthSystem && window.AuthSystem.getCurrentUser()) {
         safeInitSync();
+    }
+    if (typeof updateAuthButtonsUI === 'function') {
+        updateAuthButtonsUI();
     }
 
     // Auto-flush pending sessions on network reconnect or page hide
