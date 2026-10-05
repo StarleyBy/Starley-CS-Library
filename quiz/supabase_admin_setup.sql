@@ -67,7 +67,14 @@ begin
     created_at,
     updated_at,
     confirmation_token,
-    recovery_token
+    recovery_token,
+    email_change_token_new,
+    email_change,
+    email_change_token_current,
+    phone,
+    phone_change,
+    phone_change_token,
+    reauthentication_token
   ) values (
     '00000000-0000-0000-0000-000000000000',
     new_user_id,
@@ -80,6 +87,13 @@ begin
     jsonb_build_object('nickname', coalesce(nickname, 'Doctor'), 'username', 'user_' || clean_pin),
     now(),
     now(),
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
+    '',
     '',
     ''
   );

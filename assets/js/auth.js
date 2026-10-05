@@ -259,6 +259,7 @@
             }
 
             // 3. Quiz Account PIN Login via Supabase (for personal accounts)
+            let lastAuthError = null;
             if (window.SupabaseAPI) {
                 try {
                     const res = await window.SupabaseAPI.loginWithPin(password);
@@ -278,19 +279,27 @@
                         showLoginSuccess(modal, errorMsg, currentUser.nickname);
                         return;
                     }
+                    if (res && res.error) {
+                        lastAuthError = res.error;
+                    }
                 } catch (err) {
                     console.warn('[Auth] login error:', err);
+                    lastAuthError = err.message;
                 }
             }
 
-            // Incorrect Password
+            // Incorrect Password or Specific Error
             submitBtn.disabled = false;
             submitBtn.textContent = isRu ? 'Войти' : 'Enter';
             passInput.value = '';
             passInput.classList.add('shake');
             setTimeout(() => passInput.classList.remove('shake'), 500);
 
-            errorMsg.textContent = isRu ? '✗ Неверный PIN или пароль' : '✗ Incorrect PIN or password';
+            if (lastAuthError && !lastAuthError.toLowerCase().includes('invalid')) {
+                errorMsg.textContent = `✗ ${lastAuthError}`;
+            } else {
+                errorMsg.textContent = isRu ? '✗ Неверный PIN или пароль' : '✗ Incorrect PIN or password';
+            }
             errorMsg.style.color = '#f87171';
         });
 

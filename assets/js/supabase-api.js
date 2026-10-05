@@ -445,63 +445,7 @@
             };
         }
 
-        // 1. Try Postgres RPC admin_create_user (fastest, direct, does not depend on public signups being enabled)
-        try {
-            const { data: rpcData, error: rpcErr } = await client.rpc('admin_create_user', {
-                pin: cleanPin,
-                nickname: nickname || 'Doctor',
-                role: safeRole
-            });
-            if (!rpcErr && rpcData) {
-                if (rpcData.ok === false) {
-                    return rpcData;
-                }
-                return {
-                    ok: true,
-                    success: true,
-                    message: rpcData.message || `Пользователь для PIN ${cleanPin} успешно создан!`,
-                    user: { id: rpcData.id, nickname: nickname || 'Doctor', role: safeRole }
-                };
-            }
-            if (rpcErr && rpcErr.code !== 'PGRST202') {
-                console.warn('[Admin] RPC create returned error:', rpcErr);
-            }
-        } catch (rpcErr) {
-            console.warn('[Admin] RPC create failed, trying fallback:', rpcErr);
-        }
-
-        const functionBase = window.SUPABASE_FUNCTIONS_URL || `${window.SUPABASE_URL}/functions/v1`;
-        let edgeError = null;
-
-        // 2. Try calling the Edge Function if deployed
-        try {
-            const res = await fetch(`${functionBase}/admin-create-user`, {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${session.access_token}`
-                },
-                body: JSON.stringify({ pin: cleanPin, nickname, role: safeRole })
-            });
-
-            if (res.ok) {
-                const data = await res.json();
-                return data;
-            } else if (res.status === 404) {
-                edgeError = 'Edge Function not deployed (HTTP 404)';
-            } else {
-                try {
-                    const data = await res.json();
-                    return data;
-                } catch (_) {
-                    edgeError = `Edge Function HTTP ${res.status}`;
-                }
-            }
-        } catch (fetchErr) {
-            edgeError = fetchErr.message || 'Network error';
-        }
-
-        // 3. Fallback: Direct creation attempt via ephemeral client
+        // 1. Primary: Native Supabase Auth signUp via ephemeral client (ensures full GoTrue schema & auth.identities compatibility)
         try {
             const ephemeralClient = window.supabase.createClient(window.SUPABASE_URL, window.SUPABASE_ANON_KEY, {
                 auth: { persistSession: false, autoRefreshToken: false, detectSessionInUrl: false }
@@ -530,45 +474,78 @@
                         error: `Пользователь с паролем/PIN "${cleanPin}" уже существует. Выберите другой пароль.`
                     };
                 }
-                if (code === 'signup_disabled' || msg.toLowerCase().includes('signups not allowed') || msg.toLowerCase().includes('signup is disabled')) {
+                if (code !== 'signup_disabled' && !msg.toLowerCase().includes('signups not allowed') && !msg.toLowerCase().includes('signup is disabled')) {
                     return {
                         ok: false,
-                        error: `В Supabase отключена регистрация новых пользователей (signup_disabled).\n\nЧтобы создавать пользователей прямо из приложения:\n1. Либо выполните скрипт quiz/supabase_admin_setup.sql в Supabase SQL Editor (рекомендуется — создание через защищенный RPC без открытия публичной регистрации);\n2. Либо в панели Supabase: Authentication → Providers → Email:\n   - Включите «Allow new users to sign up»\n   - Выключите «Confirm email»`
+                        error: `Ошибка создания: ${signUpErr.message || msg}`
                     };
                 }
-                return {
-                    ok: false,
-                    error: `Ошибка создания: ${signUpErr.message || msg}`
-                };
-            }
-
-            if (signUpData && signUpData.user) {
-                // Test if signIn succeeds or if email confirmation is required
-                const testSignIn = await ephemeralClient.auth.signInWithPassword({ email, password });
-                if (testSignIn.error && String(testSignIn.error.message || '').toLowerCase().includes('confirm')) {
-                    return {
-                        ok: false,
-                        error: `Пользователь создан в auth, но в Supabase включена опция «Confirm email».\n\nРешение:\n1) В панели Supabase: Authentication → Providers → Email → ВЫКЛЮЧИТЕ тумблер «Confirm email» (тогда пользователи активируются мгновенно);\n2) Либо выполните скрипт quiz/supabase_admin_setup.sql в Supabase SQL Editor.`
-                    };
+                // If signup_disabled, continue to fallback steps below
+            } else if (signUpData && signUpData.user) {
+                // If special role requested, update profile table directly using admin token
+                if (safeRole && safeRole !== 'user') {
+                    try {
+                        await client.from('profiles').update({ role: safeRole }).eq('id', signUpData.user.id);
+                    } catch (e) {}
                 }
 
                 return {
                     ok: true,
                     success: true,
                     message: `Пользователь для PIN ${cleanPin} успешно создан!`,
-                    user: { id: signUpData.user.id, nickname, role: safeRole }
+                    user: { id: signUpData.user.id, nickname: nickname || 'Doctor', role: safeRole }
                 };
             }
-        } catch (fallbackErr) {
-            return {
-                ok: false,
-                error: `Ошибка создания: ${fallbackErr.message}`
-            };
+        } catch (signupErr) {
+            console.warn('[Admin] Direct signUp failed, trying fallbacks:', signupErr);
+        }
+
+        // 2. Fallback: Edge Function if deployed
+        const functionBase = window.SUPABASE_FUNCTIONS_URL || `${window.SUPABASE_URL}/functions/v1`;
+        try {
+            const res = await fetch(`${functionBase}/admin-create-user`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                    'Authorization': `Bearer ${session.access_token}`
+                },
+                body: JSON.stringify({ pin: cleanPin, nickname, role: safeRole })
+            });
+
+            if (res.ok) {
+                const data = await res.json();
+                return data;
+            }
+        } catch (fetchErr) {
+            console.warn('[Admin] Edge Function fallback failed:', fetchErr);
+        }
+
+        // 3. Fallback: Postgres RPC admin_create_user
+        try {
+            const { data: rpcData, error: rpcErr } = await client.rpc('admin_create_user', {
+                pin: cleanPin,
+                nickname: nickname || 'Doctor',
+                role: safeRole
+            });
+            if (!rpcErr && rpcData) {
+                if (rpcData.ok === false) return rpcData;
+                return {
+                    ok: true,
+                    success: true,
+                    message: rpcData.message || `Пользователь для PIN ${cleanPin} успешно создан!`,
+                    user: { id: rpcData.id, nickname: nickname || 'Doctor', role: safeRole }
+                };
+            }
+            if (rpcErr && rpcErr.code !== 'PGRST202') {
+                return { ok: false, error: rpcErr.message };
+            }
+        } catch (rpcErr) {
+            console.warn('[Admin] RPC create failed:', rpcErr);
         }
 
         return {
             ok: false,
-            error: `Не удалось создать пользователя. Выполните скрипт quiz/supabase_admin_setup.sql в Supabase SQL Editor.`
+            error: `Не удалось создать пользователя. Убедитесь, что в Supabase Authentication → Providers → Email включена опция «Allow new users to sign up».`
         };
     }
 
