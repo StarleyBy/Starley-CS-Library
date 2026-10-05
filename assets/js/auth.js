@@ -456,6 +456,20 @@
         clearStoredAuth();
         currentUser = null;
 
+        // Wipe unscoped legacy keys to prevent cross-account pollution
+        try {
+            localStorage.removeItem('starley_session_history');
+            localStorage.removeItem('starley_session_history_guest');
+            localStorage.removeItem('starley_user_profile');
+            localStorage.removeItem('starley_user_profile_guest');
+            localStorage.removeItem('starley_pending_sessions');
+            localStorage.removeItem('starley_pending_sessions_guest');
+            localStorage.removeItem('starley_user_favorites');
+            localStorage.removeItem('starley_user_favorites_guest');
+            localStorage.removeItem('starley_user_playlists');
+            localStorage.removeItem('starley_user_playlists_guest');
+        } catch (e) {}
+
         sessionStorage.setItem(GUEST_SESSION_KEY, 'true');
         sessionStorage.setItem('starley_show_login', 'true');
         window.location.reload();

@@ -2026,11 +2026,18 @@ const AVATAR_ICONS_MAP = {
     rocket: 'fas fa-rocket'
 };
 
+function getScopedUserKey(baseKey) {
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    const uid = (user && !user.isGuest && user.id) ? user.id : 'guest';
+    return `${baseKey}_${uid}`;
+}
+
 function loadUserProfile() {
     const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    const profKey = getScopedUserKey('starley_user_profile');
     let localProfile = null;
     try {
-        const stored = localStorage.getItem('starley_user_profile');
+        const stored = localStorage.getItem(profKey);
         if (stored) localProfile = JSON.parse(stored);
     } catch (e) {}
 
@@ -2065,7 +2072,12 @@ function loadUserProfile() {
 
 function saveUserProfile(profile) {
     try {
-        localStorage.setItem('starley_user_profile', JSON.stringify(profile));
+        const profKey = getScopedUserKey('starley_user_profile');
+        localStorage.setItem(profKey, JSON.stringify(profile));
+        const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+        if (!user || user.isGuest) {
+            localStorage.setItem('starley_user_profile', JSON.stringify(profile));
+        }
     } catch (e) {}
 }
 
@@ -4433,7 +4445,7 @@ function showResults() {
     state.userProfile.totalExp = updatedRpg.totalExp;
     state.userProfile.tierId = updatedRpg.tierId;
     state.userProfile.levelStr = updatedRpg.levelData.fullTitle;
-    localStorage.setItem('starley_user_profile', JSON.stringify(state.userProfile));
+    saveUserProfile(state.userProfile);
 
     updateUserProfileDisplay();
     renderRpgResultsCard(expCalc, updatedRpg, isRu);
@@ -4441,9 +4453,14 @@ function showResults() {
     if (totalQ >= 1 && !state.isSingleQuestionPreview) {
         state.sessionHistory.unshift(newSessionObj);
 
-        // 1. Immediately persist to localStorage synchronously (Local-First safety)
+        // 1. Immediately persist to localStorage synchronously (Local-First safety, scoped to user)
         try {
-            localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
+            const histKey = getScopedUserKey('starley_session_history');
+            localStorage.setItem(histKey, JSON.stringify(state.sessionHistory));
+            const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+            if (!user || user.isGuest) {
+                localStorage.setItem('starley_session_history', JSON.stringify(state.sessionHistory));
+            }
         } catch (e) {
             console.warn('[Session] Local storage save error:', e);
         }
@@ -5621,11 +5638,15 @@ function syncProfileRpgToSupabase(updatedRpg) {
 }
 
 function mergeAndPersistSessionHistory(remoteSessionsRaw) {
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    const isGuest = !user || user.isGuest;
+    const histKey = getScopedUserKey('starley_session_history');
+
     let localHistory = [];
     try {
-        localHistory = JSON.parse(localStorage.getItem('starley_session_history') || '[]');
+        localHistory = JSON.parse(localStorage.getItem(histKey) || '[]');
     } catch (e) {
-        localHistory = state.sessionHistory || [];
+        localHistory = [];
     }
     if (!Array.isArray(localHistory)) localHistory = [];
 
@@ -5635,12 +5656,12 @@ function mergeAndPersistSessionHistory(remoteSessionsRaw) {
 
     const sessionMap = new Map();
 
-    // 1. Remote sessions as base
+    // 1. Remote sessions as base (Cloud authoritative for authenticated users)
     remoteSessions.forEach(s => {
         if (s && s.sessionId) sessionMap.set(String(s.sessionId), s);
     });
 
-    // 2. Merge local sessions (keep any sessions missing in remote)
+    // 2. Merge only local sessions belonging to THIS specific user's scoped history
     const unSyncedLocal = [];
     localHistory.forEach(localSess => {
         if (!localSess) return;
@@ -5648,11 +5669,9 @@ function mergeAndPersistSessionHistory(remoteSessionsRaw) {
         if (!id) return;
 
         if (!sessionMap.has(id)) {
-            // Local session not yet in remote! Preserve it!
             sessionMap.set(id, localSess);
             unSyncedLocal.push(localSess);
         } else {
-            // Merge rich local error & breakdown arrays if remote has compact string only
             const remote = sessionMap.get(id);
             if (Array.isArray(localSess.errors) && localSess.errors.length > 0 && (!remote.errors || remote.errors.length === 0)) {
                 remote.errors = localSess.errors;
@@ -5668,15 +5687,18 @@ function mergeAndPersistSessionHistory(remoteSessionsRaw) {
 
     state.sessionHistory = merged;
     try {
-        localStorage.setItem('starley_session_history', JSON.stringify(merged));
+        localStorage.setItem(histKey, JSON.stringify(merged));
+        if (isGuest) {
+            localStorage.setItem('starley_session_history', JSON.stringify(merged));
+        }
     } catch (e) {}
 
-    // Enqueue unsynced local sessions to cloud pending queue
-    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-    if (user && !user.isGuest && unSyncedLocal.length > 0) {
+    // Enqueue unsynced local sessions to cloud pending queue (scoped to user)
+    if (!isGuest && unSyncedLocal.length > 0) {
         try {
+            const pendingKey = getScopedUserKey('starley_pending_sessions');
             let pending = [];
-            const raw = localStorage.getItem('starley_pending_sessions');
+            const raw = localStorage.getItem(pendingKey);
             if (raw) pending = JSON.parse(raw);
             if (!Array.isArray(pending)) pending = [];
 
@@ -5686,7 +5708,7 @@ function mergeAndPersistSessionHistory(remoteSessionsRaw) {
                     pending.push(s);
                 }
             });
-            localStorage.setItem('starley_pending_sessions', JSON.stringify(pending));
+            localStorage.setItem(pendingKey, JSON.stringify(pending));
             if (window.SupabaseAPI && typeof window.SupabaseAPI.syncPendingQuizSessions === 'function') {
                 window.SupabaseAPI.syncPendingQuizSessions().catch(() => {});
             }
@@ -5777,15 +5799,16 @@ async function initSupabaseAccountSync() {
         updateAuthButtonsUI();
         setSyncStatus('off');
         if (cabinetBadge) cabinetBadge.textContent = '👤 Guest Mode (No Cloud Sync)';
-        state.userFavorites = sanitizeFavoritesList(JSON.parse(localStorage.getItem('starley_user_favorites') || '[]'));
-        state.userPlaylists = sanitizePlaylistsList(JSON.parse(localStorage.getItem('starley_user_playlists') || '[]'));
+        state.userFavorites = sanitizeFavoritesList(JSON.parse(localStorage.getItem('starley_user_favorites_guest') || localStorage.getItem('starley_user_favorites') || '[]'));
+        state.userPlaylists = sanitizePlaylistsList(JSON.parse(localStorage.getItem('starley_user_playlists_guest') || localStorage.getItem('starley_user_playlists') || '[]'));
         ensureTenPlaylists();
-        state.sessionHistory = JSON.parse(localStorage.getItem('starley_session_history') || '[]');
+        state.sessionHistory = JSON.parse(localStorage.getItem('starley_session_history_guest') || '[]');
+        state.userProfile = loadUserProfile();
         updateQuizStatsUI();
         return;
     }
 
-    if (!state.userProfile) state.userProfile = {};
+    state.userProfile = loadUserProfile();
     if (user.nickname) state.userProfile.nickname = user.nickname;
     if (user.avatar) {
         state.userProfile.avatar = user.avatar;
@@ -5809,20 +5832,17 @@ async function initSupabaseAccountSync() {
 
         if (profRes && profRes.ok && profRes.data) {
             const p = profRes.data;
-            if (p.avatar) {
-                user.avatar = p.avatar;
-                state.userProfile.avatar = p.avatar;
-                state.currentSelectedAvatar = p.avatar;
-            }
-            if (p.nickname) {
-                user.nickname = p.nickname;
-                state.userProfile.nickname = p.nickname;
-            }
-            if (p.role) user.role = p.role;
-            if (p.level_num) state.userProfile.level = p.level_num;
-            if (p.current_exp !== undefined) state.userProfile.currentExp = p.current_exp;
-            if (p.total_exp !== undefined) state.userProfile.totalExp = p.total_exp;
-            if (p.tier_id) state.userProfile.tierId = p.tier_id;
+            user.avatar = p.avatar || 'doc';
+            user.nickname = p.nickname || 'Doctor';
+            user.role = p.role || 'user';
+            state.userProfile.avatar = user.avatar;
+            state.userProfile.nickname = user.nickname;
+            state.currentSelectedAvatar = user.avatar;
+            state.userProfile.role = user.role;
+            state.userProfile.level = p.level_num || 1;
+            state.userProfile.currentExp = p.current_exp || 0;
+            state.userProfile.totalExp = p.total_exp || 0;
+            state.userProfile.tierId = p.tier_id || 1;
             if (window.AuthSystem) window.AuthSystem.setAuthenticated(user);
             saveUserProfile(state.userProfile);
             updateUserProfileDisplay();

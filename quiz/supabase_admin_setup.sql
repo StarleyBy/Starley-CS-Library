@@ -35,6 +35,19 @@ where
   phone_change_token is null or
   reauthentication_token is null;
 
+-- 0.1 Очистка случайно скопированных сессий у не-администраторов (оставляет сессии только у администратора Starley)
+delete from public.quiz_sessions where user_id not in (
+    select id from public.profiles where role = 'admin'
+);
+update public.profiles
+set level_num = 1, current_exp = 0, total_exp = 0, tier_id = 1
+where role <> 'admin';
+
+-- 0.2 RLS Политика удаления сессий (пользователь может удалять свои сессии, администратор — любые)
+drop policy if exists "quiz_sessions_delete_own_or_admin" on public.quiz_sessions;
+create policy "quiz_sessions_delete_own_or_admin" on public.quiz_sessions
+    for delete using (user_id = auth.uid() or public.is_admin());
+
 -- 1. RLS Политика: Администратор может редактировать любые профили
 drop policy if exists "profiles_update_own" on public.profiles;
 drop policy if exists "profiles_update_own_or_admin" on public.profiles;
@@ -227,3 +240,21 @@ begin
   return true;
 end;
 $$;
+
+-- 5. Функция сброса истории сессий и прогресса пользователя администратором
+create or replace function public.admin_clear_user_history(target_user_id uuid)
+returns boolean
+language plpgsql
+security definer
+set search_path = public, auth
+as $$
+begin
+  if not public.is_admin() then raise exception 'Forbidden: admin role required'; end if;
+  delete from public.quiz_sessions where user_id = target_user_id;
+  update public.profiles
+  set level_num = 1, current_exp = 0, total_exp = 0, tier_id = 1, updated_at = now()
+  where id = target_user_id;
+  return true;
+end;
+$$;
+

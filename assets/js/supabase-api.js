@@ -355,9 +355,11 @@
         const user = await getAuthUser();
         if (!user) return { ok: false, synced: 0, pending: 0 };
 
+        const pendingKey = `starley_pending_sessions_${user.id}`;
         let pending = [];
         try {
-            const raw = localStorage.getItem('starley_pending_sessions');
+            // Read scoped pending queue first, fall back to unscoped legacy queue if present
+            const raw = localStorage.getItem(pendingKey) || localStorage.getItem('starley_pending_sessions');
             if (raw) pending = JSON.parse(raw);
         } catch (e) {}
 
@@ -369,6 +371,7 @@
         const batchRes = await batchSaveSessions(pending);
         if (batchRes && (batchRes.ok || batchRes.success)) {
             try {
+                localStorage.removeItem(pendingKey);
                 localStorage.removeItem('starley_pending_sessions');
             } catch (e) {}
             return { ok: true, synced: pending.length, pending: 0 };
@@ -386,7 +389,8 @@
             }
         }
         try {
-            localStorage.setItem('starley_pending_sessions', JSON.stringify(remaining));
+            localStorage.setItem(pendingKey, JSON.stringify(remaining));
+            localStorage.removeItem('starley_pending_sessions');
         } catch (e) {}
         return { ok: remaining.length === 0, synced: syncedCount, pending: remaining.length };
     }
