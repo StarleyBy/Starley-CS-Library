@@ -2627,19 +2627,27 @@ window.setAppLanguage = function(lang) {
         btnRu.classList.toggle('active', lang === 'Ru');
     }
 
-    document.querySelectorAll('.global-lang-btn .txt-lang-code').forEach(el => {
-        el.textContent = lang;
-    });
-
     const isRu = lang === 'Ru';
+
+    if (typeof window.applyQuizI18n === 'function') {
+        window.applyQuizI18n(lang);
+    } else {
+        document.querySelectorAll('.global-lang-btn .txt-lang-code').forEach(el => {
+            el.textContent = lang;
+        });
+    }
 
     const headerLangBtn = document.getElementById('txt-header-lang-btn');
     if (headerLangBtn) headerLangBtn.textContent = isRu ? '🇷🇺 RU' : '🇬🇧 EN';
     const cabLangBtn = document.getElementById('txt-cab-lang-btn');
-    if (cabLangBtn) cabLangBtn.textContent = isRu ? '🌐 RU' : '🌐 EN';
+    if (cabLangBtn) {
+        const flagSvg = (window.StarleyQuizFlags && window.StarleyQuizFlags[lang]) ? window.StarleyQuizFlags[lang] : (isRu ? '🇷🇺' : '🇬🇧');
+        cabLangBtn.innerHTML = `${flagSvg} <span style="font-weight:700;margin-left:4px;">${lang}</span>`;
+    }
 
     if (typeof window.updateAllLobbyLabels === 'function') window.updateAllLobbyLabels();
     if (typeof window.updateCabinetLabels === 'function') window.updateCabinetLabels();
+    if (typeof window.updateAllModalLabels === 'function') window.updateAllModalLabels(isRu);
     if (typeof window.updateUserProfileDisplay === 'function') window.updateUserProfileDisplay();
     if (typeof updateChecklistStatus === 'function') updateChecklistStatus();
 
@@ -3017,6 +3025,115 @@ function setupLobbyListeners() {
         if (typeof updateAuthButtonsUI === 'function') updateAuthButtonsUI();
     };
     window.updateCabinetLabels = updateCabinetLabels;
+
+    const updateAllModalLabels = (isRu) => {
+        // 1. Top navigation strip pills
+        const navMap = {
+            'index.html': isRu ? '📚 Библиотека' : '📚 Library',
+            'highlights.html': isRu ? '🔖 Закладки' : '🔖 Highlights',
+            'search/search.html': isRu ? '🔍 Поиск' : '🔍 Search',
+            'quiz.html': isRu ? '🧠 Квиз' : '🧠 Quiz',
+            'magazine.html': isRu ? '📰 Журнал' : '📰 Magazine',
+            'editor.html': isRu ? '✏️ Редактор' : '✏️ Editor',
+            'manifest-editor.html': isRu ? '🛠️ Манифест' : '🛠️ Manifest'
+        };
+        document.querySelectorAll('.quiz-nav-strip a.nav-pill').forEach(a => {
+            const href = a.getAttribute('href');
+            if (href && navMap[href]) a.textContent = navMap[href];
+        });
+
+        // 2. Report Modal
+        const txtReportTitle = document.getElementById('txt-report-title');
+        if (txtReportTitle) txtReportTitle.textContent = isRu ? 'Сообщить об ошибке / Отзыв' : 'Report Question / Admin Feedback';
+        const lblReportReason = document.getElementById('lbl-report-reason');
+        if (lblReportReason) lblReportReason.textContent = isRu ? 'Категория проблемы' : 'Issue Type';
+        const selReason = document.getElementById('select-report-reason');
+        if (selReason && selReason.options) {
+            const reasonTexts = {
+                'answer_disagree': isRu ? 'Неверный правильный ответ / Не согласен' : 'Incorrect correct answer / Disagree with answer',
+                'typo_error': isRu ? 'Опечатка / Ошибка перевода в вопросе' : 'Typo / Translation error in question',
+                'missing_explanation': isRu ? 'Непонятное или отсутствующее объяснение' : 'Unclear or missing clinical explanation',
+                'broken_image': isRu ? 'Битая картинка или форматирование' : 'Broken image or formatting issue',
+                'other': isRu ? 'Другой отзыв' : 'Other feedback'
+            };
+            for (let i = 0; i < selReason.options.length; i++) {
+                const opt = selReason.options[i];
+                if (reasonTexts[opt.value]) opt.textContent = reasonTexts[opt.value];
+            }
+        }
+        const lblReportComment = document.getElementById('lbl-report-comment');
+        if (lblReportComment) lblReportComment.textContent = isRu ? 'Ваш комментарий / Клиническое обоснование' : 'Your Comment / Clinical Rationale';
+        const inputReportComment = document.getElementById('input-report-comment');
+        if (inputReportComment) inputReportComment.placeholder = isRu ? 'Опишите проблему или приведите клиническое обоснование (например, по гайдлайнам ESC 2023...)...' : 'Describe the issue or provide clinical rationale (e.g. According to ESC 2023 guidelines...)...';
+        const lblSubmitReportBtn = document.getElementById('lbl-submit-report-btn');
+        if (lblSubmitReportBtn) lblSubmitReportBtn.textContent = isRu ? 'Отправить отзыв' : 'Send Feedback';
+
+        // 3. Session Detail Modal
+        const lblSessDetailTitle = document.getElementById('lbl-session-detail-title');
+        if (lblSessDetailTitle) lblSessDetailTitle.textContent = isRu ? '📜 Обзор сессии тестирования' : '📜 Test Session Overview';
+        const lblSessBreakdownTitle = document.getElementById('lbl-sess-breakdown-title');
+        if (lblSessBreakdownTitle) lblSessBreakdownTitle.textContent = isRu ? 'Детализация вопросов и ответов' : 'Question & Answer Breakdown';
+        const btnFilterErrors = document.getElementById('btn-filter-sess-errors');
+        if (btnFilterErrors) btnFilterErrors.textContent = isRu ? 'Только ошибки' : 'Errors Only';
+        const btnFilterAll = document.getElementById('btn-filter-sess-all');
+        if (btnFilterAll) btnFilterAll.textContent = isRu ? 'Все вопросы' : 'All Questions';
+        const btnRetestErrors = document.getElementById('btn-retest-session-errors');
+        if (btnRetestErrors) btnRetestErrors.innerHTML = (isRu ? '🚀 Повторить вопросы с ошибками' : '🚀 Retest Incorrect Questions');
+        const btnCloseSessDetail = document.getElementById('btn-close-sess-detail-footer');
+        if (btnCloseSessDetail) btnCloseSessDetail.textContent = isRu ? 'Закрыть' : 'Close';
+
+        // 4. Playlist Picker Modal
+        const txtPlPickerTitle = document.getElementById('txt-pl-picker-title');
+        if (txtPlPickerTitle) txtPlPickerTitle.textContent = isRu ? 'Добавить в сборник вопросов' : 'Add to Question Collection';
+        const lblPlPickerSubtitle = document.getElementById('lbl-pl-picker-subtitle');
+        if (lblPlPickerSubtitle) lblPlPickerSubtitle.textContent = isRu ? 'Выберите сборник вопросов (1-10):' : 'Select Question Collection (1-10):';
+
+        // 5. Playlist Editor Modal
+        const txtPlEditorTitle = document.getElementById('txt-pl-editor-title');
+        if (txtPlEditorTitle) txtPlEditorTitle.textContent = isRu ? 'Редактирование Сборника Вопросов' : 'Edit Question Collection';
+        const lblPlNameInput = document.getElementById('lbl-pl-name-input');
+        if (lblPlNameInput) lblPlNameInput.textContent = isRu ? 'Название сборника' : 'Collection Name';
+        const inputPlEditorName = document.getElementById('input-pl-editor-name');
+        if (inputPlEditorName) inputPlEditorName.placeholder = isRu ? 'Введите название...' : 'Enter collection name...';
+        const lblPlIconPicker = document.getElementById('lbl-pl-icon-picker');
+        if (lblPlIconPicker) lblPlIconPicker.textContent = isRu ? 'Выбор Иконки (1 из 20)' : 'Select Icon (1 of 20)';
+        const lblPlEditorQList = document.getElementById('lbl-pl-editor-q-list');
+        const plEditorQCount = document.getElementById('pl-editor-q-count');
+        if (lblPlEditorQList && plEditorQCount) {
+            lblPlEditorQList.innerHTML = (isRu ? 'Вопросы в сборнике' : 'Questions in collection') + ` (<span id="pl-editor-q-count">${plEditorQCount.textContent}</span>)`;
+        }
+        const lblPlAddQTitle = document.getElementById('lbl-pl-add-q-title');
+        if (lblPlAddQTitle) lblPlAddQTitle.textContent = isRu ? '➕ Добавить вопрос в сборник' : '➕ Add question to collection';
+        const lblPlSelectManifest = document.getElementById('lbl-pl-select-manifest');
+        if (lblPlSelectManifest) lblPlSelectManifest.textContent = isRu ? '1. Выберите тему (манифест):' : '1. Select topic (manifest):';
+        const lblPlSelectQuestion = document.getElementById('lbl-pl-select-question');
+        if (lblPlSelectQuestion) lblPlSelectQuestion.textContent = isRu ? '2. Выберите конкретный вопрос:' : '2. Select specific question:';
+        const btnPlEditorAddQ = document.getElementById('btn-pl-editor-add-q');
+        if (btnPlEditorAddQ) btnPlEditorAddQ.innerHTML = (isRu ? '➕ Добавить выбранный вопрос' : '➕ Add selected question');
+        const btnPlEditorClear = document.getElementById('btn-pl-editor-clear');
+        if (btnPlEditorClear) btnPlEditorClear.innerHTML = (isRu ? '🗑️ Очистить вопросы' : '🗑️ Clear questions');
+        const btnPlEditorSave = document.getElementById('btn-pl-editor-save');
+        if (btnPlEditorSave) btnPlEditorSave.innerHTML = (isRu ? '💾 Сохранить' : '💾 Save');
+
+        // 6. RPG Codex Modal & Attribute Diagnostic Modal
+        const txtCodexTitle = document.getElementById('txt-codex-title');
+        if (txtCodexTitle) txtCodexTitle.textContent = isRu ? 'Атлас 100 рангов и наград' : 'Atlas of 100 Ranks & Rewards';
+        const rpgAttrModalTitle = document.getElementById('rpg-attr-modal-title');
+        if (rpgAttrModalTitle) {
+            rpgAttrModalTitle.innerHTML = `<span>🧬</span> <span>${isRu ? 'Диагностика клинического навыка' : 'Clinical Skill Diagnostics'}</span>`;
+        }
+
+        // 7. Results screen buttons and headings
+        const resSummaryTitle = document.getElementById('res-summary-title');
+        if (resSummaryTitle) resSummaryTitle.textContent = isRu ? 'Результаты сессии' : 'Session Results';
+        const resBtnReview = document.getElementById('btn-res-review');
+        if (resBtnReview) resBtnReview.textContent = isRu ? 'Разбор ошибок' : 'Review Errors';
+        const resBtnRestart = document.getElementById('btn-res-restart');
+        if (resBtnRestart) resBtnRestart.textContent = isRu ? 'Пройти снова' : 'Retake Quiz';
+        const resBtnLobby = document.getElementById('btn-res-lobby');
+        if (resBtnLobby) resBtnLobby.textContent = isRu ? 'В меню квизов' : 'Back to Lobby';
+    };
+    window.updateAllModalLabels = updateAllModalLabels;
     
     btnEn.onclick = () => window.setAppLanguage('En');
     btnRu.onclick = () => window.setAppLanguage('Ru');
