@@ -3350,36 +3350,37 @@
       ]
     },
     {
-      "id": 104,
-      "questionEn": "<span style=\"color:#9b59b6\">All of the following may prevent successful cavopulmonary connection (Fontan pathway), <b>except</b>:</span>",
-      "questionRu": "<span style=\"color:#9b59b6\">Все следующее может препятствовать успешному кавопульмональному соединению (путь Фонтана), <b>кроме</b>:</span>",
-      "optionsEn": {
-        "A": "Coarctation of the aorta",
-        "B": "Pulmonary vascular resistance of 4 Wood units",
-        "C": "A functional ventricle with right ventricular morphology",
-        "D": "End-diastolic pressure of 10 mmHg in the functional ventricle"
-      },
-      "optionsRu": {
-        "A": "Коарктация аорты",
-        "B": "Легочное сосудистое сопротивление 4 единицы Вуда",
-        "C": "Функциональный желудочек с морфологией правого желудочка",
-        "D": "Конечно-диастолическое давление 10 мм рт.ст. в функциональном желудочке"
-      },
-      "correctAnswer": "D",
-      "explanationEn": "🔵 <b>Rationale:</b> The Fontan pathway depends on passive blood flow through the lungs, which requires low resistance and low downstream pressures.\n\n🟢 <b>Barriers to Fontan:</b>\n- <span style=\"color:#e74c3c\">Coarctation of the aorta</span> — systemic outflow obstruction → ventricular hypertrophy → elevated EDP\n- <span style=\"color:#e74c3c\">PVR of 4 Wood units</span> — elevated PVR is a clear contraindication\n- <span style=\"color:#e74c3c\">RV morphology</span> — known risk factor for failure\n\n🔴 <b>Not a barrier:</b>\n- <mark style=\"background:#2ecc71;color:#fff\"><b>EDP of 10 mmHg</b></mark> — considered <b>acceptable</b>; threshold for concern is >10-12 mmHg\n\n📚 <b>Key Point:</b> <mark style=\"background:#2ecc71;color:#fff\"><b>EDP of 10 mmHg</b> is <b>not</b> a barrier; elevated PVR, outflow obstruction, and RV morphology are.</mark>",
-      "disciplines": [
-        "congenital"
-      ],
-      "topics": [
-        "single_ventricle",
-        "chd_physiology"
-      ],
-      "tags": [
-        "choussat_criteria_for_fontan",
-        "pulmonary_vascular_resistance",
-        "coarctation_of_the_aorta"
-      ]
-    },
+  "id": 104,
+  "questionEn": "<span style=\"color:#9b59b6\">All of the following may prevent successful cavopulmonary connection (Fontan pathway), <b>except</b>:</span>",
+  "questionRu": "<span style=\"color:#9b59b6\">Все следующее может препятствовать успешному кавопульмональному соединению (путь Фонтана), <b>кроме</b>:</span>",
+  "optionsEn": {
+    "A": "Coarctation of the aorta",
+    "B": "Pulmonary vascular resistance of 4 Wood units",
+    "C": "A functional ventricle with right ventricular morphology",
+    "D": "End-diastolic pressure of 10 mmHg in the functional ventricle"
+  },
+  "optionsRu": {
+    "A": "Коарктация аорты",
+    "B": "Легочное сосудистое сопротивление 4 единицы Вуда",
+    "C": "Функциональный желудочек с морфологией правого желудочка",
+    "D": "Конечно-диастолическое давление 10 мм рт.ст. в функциональном желудочке"
+  },
+  "correctAnswer": "D",
+  "explanationEn": "🔵 <b>Rationale:</b> The Fontan pathway depends entirely on passive, non-pulsatile blood flow through the pulmonary vascular bed, requiring minimal resistance and low downstream filling pressures (classic Choussat criteria).\n\n🟢 <b>Barriers to Fontan:</b>\n- <span style=\"color:#e74c3c\">Coarctation of the aorta</span> — systemic outflow tract obstruction causes progressive ventricular hypertrophy, worsening diastolic compliance, and elevated filling pressures\n- <span style=\"color:#e74c3c\">PVR of 4 Wood units (or Wood units·m²)</span> — significantly elevated (ideal threshold is <2, absolute contraindication typically >3-4 Wood units), leading to Fontan circulation failure\n- <span style=\"color:#e74c3c\">RV morphology</span> — systemic right ventricle carries a well-documented long-term risk of dysfunction, atrioventricular valve regurgitation, and failure compared to morphologic left ventricle\n\n🔴 <b>Not a barrier:</b>\n- <mark style=\"background:#2ecc71;color:#fff\"><b>EDP of 10 mmHg</b></mark> — considered <b>acceptable</b> for Fontan completion; the standard cutoff for concern/relative contraindication is >10–12 mmHg\n\n📚 <b>Key Point:</b> <mark style=\"background:#2ecc71;color:#fff\"><b>Ventricular EDP of 10 mmHg</b> is <b>acceptable</b>; elevated PVR, systemic outflow obstruction, and RV morphology represent significant barriers or risk factors for Fontan failure.</mark>",
+  "explanationRu": "🔵 <b>Обоснование:</b> Кровообращение по пути Фонтана полностью зависит от пассивного, бесимпульсного легочного кровотока, что требует минимального сосудистого сопротивления и низкого давления наполнения в нижележащих отделах (классические критерии Choussat).\n\n🟢 <b>Препятствия к операции Фонтена:</b>\n- <span style=\"color:#e74c3c\">Коарктация аорты</span> — обструкция системного пути оттока ведет к прогрессирующей гипертрофии желудочка, снижению диастолической податливости и росту давления наполнения\n- <span style=\"color:#e74c3c\">ЛСС 4 единицы Вуда (или ед. Вуда·м²)</span> — значительно повышено (целевой порог <2, абсолютное противопоказание обычно >3–4 ед. Вуда), что приводит к несостоятельности циркуляции Фонтена\n- <span style=\"color:#e74c3c\">Морфология правого желудочка</span> — системный правый желудочек является доказанным фактором долгосрочного риска дисфункции, недостаточности АВ-клапана и сердечной недостаточности по сравнению с левым желудочком\n\n🔴 <b>Не является препятствием:</b>\n- <mark style=\"background:#2ecc71;color:#fff\"><b>КДД 10 мм рт.ст.</b></mark> — считается <b>приемлемым</b> показателем для наложения анастомоза Фонтена; критический порог тревоги/относительного противопоказания составляет >10–12 мм рт.ст.\n\n📚 <b>Ключевой вывод:</b> <mark style=\"background:#2ecc71;color:#fff\"><b>КДД желудочка 10 мм рт.ст.</b> является <b>приемлемым</b>; повышенное ЛСС, обструкция путей оттока и морфология ПЖ служат существенными препятствиями или факторами риска несостоятельности пути Фонтана.</mark>",
+  "disciplines": [
+    "congenital"
+  ],
+  "topics": [
+    "single_ventricle",
+    "chd_physiology"
+  ],
+  "tags": [
+    "choussat_criteria_for_fontan",
+    "pulmonary_vascular_resistance",
+    "coarctation_of_the_aorta"
+  ]
+},
     {
       "id": 105,
       "questionEn": "A 62-year-old man underwent CABG two weeks ago. He is readmitted with pneumonia. Echocardiography demonstrates worsening left ventricular function, and he is treated with antibiotics and inotropic support. His mental status deteriorates and he becomes stuporous. Vital signs: heart rate: 95 bpm, blood pressure: 100/60 mmHg, oxygen saturation: 94% on 5 L oxygen, CVP: 15 mmHg, Cardiac Index: 2.2 L/min/m². Laboratory values: Na: <span style=\"color:#e74c3c\">119</span> mmol/L, K: 4 mmol/L, creatinine: 1.1 mg/dL, urine Na: 9 mmol/L, urine Osm: 250 mOsm/kg, serum Osm: 270 mOsm/kg. <span style=\"color:#9b59b6\">What is the <b>most appropriate</b> treatment?</span>",
@@ -5396,7 +5397,7 @@
       },
       "correctAnswer": "D",
       "explanationEn": "🎯 <b>Correct answer: Option D: Administration of inhaled Iloprost.</b><br><br>🔵 <b>Detailed Rationale:</b><br>The patient is presenting with 💠<b>Acute Right Ventricular (RV) Failure</b>💠 specifically in the context of a heart transplant. The key to the diagnosis lies in the 'mismatch' between the high right-sided pressures and normal left-sided filling pressures.<br><br>1️⃣ <b>Hemodynamic Breakdown:</b> <br>• The 💠<b>Cardiac Index (1.7)</b>💠 indicates cardiogenic shock.<br>• The 💠<b>CVP (18 mmHg)</b>💠 is significantly elevated, indicating right heart congestion.<br>• The 💠<b>PAP (50/30 mmHg)</b>💠 confirms moderate-to-severe pulmonary hypertension.<br>• The 💠<b>PCWP (12 mmHg)</b>💠 is relatively low/normal, meaning the failure is ❌<b>not</b>❌ originating from the left ventricle. Instead, the LV is 'underfilled' because the RV cannot push enough blood through the high-resistance pulmonary circuit.<br>2️⃣ <b>The Post-Transplant RV:</b> According to <b>Cardiac Surgery in the Adult (Chapter 60)</b> and <b>Kirklin/Barratt-Boyes</b>, the donor RV is often 'stunned' from the preservation process and is acutely sensitive to the recipient's high 💠<b>Pulmonary Vascular Resistance (PVR)</b>💠. If the PAP is high, the RV will fail.<br>3️⃣ <b>Treatment of Choice:</b> Since Milrinone (an inodilator) is already at the maximum dose, the next logical step is to reduce 💠<b>RV afterload</b>💠. 💠<b>Inhaled Iloprost</b>💠 (or Nitric Oxide) is the treatment of choice because it is a <b>selective pulmonary vasodilator</b>. It reduces PVR and PAP without causing further systemic vasodilation or worsening the already borderline systemic BP (90/60 mmHg).<br><br>❌ <b>Why other options are incorrect:</b><br>• <b>Option A:</b> Giving fluids to a heart with a CVP of 18 will lead to ❌<b>RV over-distension</b>❌ and further functional decline via the Frank-Starling mechanism and ventricular interdependence.<br>• <b>Option B:</b> An RVAD is a ❌<b>last-resort</b>❌ surgical intervention. Pharmacological optimization with selective vasodilators should always be attempted first.<br>• <b>Option C:</b> IABP primarily assists the ❌<b>left ventricle</b>❌ and coronary perfusion. Since the PCWP is only 12, the LV is not failing; it simply lacks volume because the RV is the bottleneck.<br><br>🧠 <b>Board Pearl:</b><br>Post-transplant shock + High PAP + Normal PCWP = 💠<b>RV Failure</b>💠. Use 💠<b>Inhaled pulmonary vasodilators</b>💠 to lower the PAP and save the RV.",
-      "explanationRu": "🎯 <b>Правильный ответ: Вариант D: Ингаляции илопроста.</b><br><br>🔵 <b>Подробное обоснование:</b><br>У пациента развивается 💠<b>острая недостаточность правого желудочка (ПЖ)</b>💠 непосредственно после трансплантации сердца. Ключом к диагнозу является несоответствие («миסматч») между высокими давлениями в правых отделах и нормальным давлением наполнения левых отделов.<br><br>1️⃣ <b>Анализ гемодинаמיки:</b><br>• 💠<b>Сердечный индекс (1,7)</b>💠 указывает на состояние кардиогенного шока.<br>• 💠<b>ЦВД (18 мм рт. ст.)</b>💠 значительно повышено, что говорит о застое в большом круге и перегрузке ПЖ.<br>• 💠<b>ДЛА (50/30 мм рт. ст.)</b>💠 подтверждает наличие выраженной легочной гипертензии.<br>• 💠<b>ДЗЛА (12 мм рт. ст.)</b>💠 находится в пределах нормы. Это означает, что левый желудочек (ЛЖ) ❌<b>не является</b>❌ причиной шока; он просто недополучает объем крови, так как ПЖ не может «прокачать» его через легкие с высоким сопротивлением.<br>2️⃣ <b>ПЖ после трансплантации:</b> Согласно руководствам <b>Cardiac Surgery in the Adult</b> и <b>Kirklin/Barratt-Boyes</b>, донорский ПЖ часто бывает «оглушен» после ишемии/консервации и крайне чувствителен к 💠<b>легочному сосудистому сопротивлению (ЛסС)</b>💠 реципиента. Высокое ДЛА неизбежно ведет к декомпенсации ПЖ.<br>3️⃣ <b>Метод выбора:</b> Так как милринон (инодилататор) уже введен в максимальной дозе, следующим логичным шагом является снижение 💠<b>постнагрузки на ПЖ</b>💠. 💠<b>Ингаляционный илопрост</b>💠 (или оксид азота) является препаратом выбора, так как он действует как <b>селективный легочный вазоדיлататор</b>. Он снижает ДЛА, не вызывая при этом системной вазодилатации и не усугубляя и без того пограничную гипотонию (90/60 мм рт. ст.).<br><br>❌ <b>Почему остальные варианты неверны:</b><br>• <b>Вариант A:</b> Введение жидкости при ЦВД 18 приведет к ❌<b>перерастяжению ПЖ</b>❌ и окончательному падению его сократимости по механизму Франка-Старлинга.<br>• <b>Вариант B:</b> RVAD — это ❌<b>радикальная</b>❌ хирургическая мера. Перед переходом к механической поддержке необходимо исчерпать возможности фармакотерапии, включая ингаляционные средства.<br>• <b>Вариант C:</b> ВАБК (IABP) помогает ❌<b>левому желудочку</b>❌ и улучшает коронарный кровоток. Но здесь ЛЖ не справляется не из-за слабости, а из-за дефицита притока из малого круга.<br><br>🧠 <b>Экзаменационная заметка:</b><br>Шок после трансплантации + Высокое ДЛА + Нормальное ДЗЛА = 💠<b>Правожелудочковая недостаточность</b>💠. Используйте 💠<b>селективные легочные вазоדיлататоры</b>💠 (ингаляционные), чтобы разгрузить правое сердце.",
+      "explanationRu": "🎯 <b>Правильный ответ: Вариант D: Ингаляции илопроста.</b><br><br>🔵 <b>Подробное обоснование:</b><br>У пациента развивается 💠<b>острая недостаточность правого желудочка (ПЖ)</b>💠 непосредственно после трансплантации сердца. Ключом к диагнозу является несоответствие («мисматч») между высокими давлениями в правых отделах и нормальным давлением наполнения левых отделов.<br><br>1️⃣ <b>Анализ гемодинаמיки:</b><br>• 💠<b>Сердечный индекс (1,7)</b>💠 указывает на состояние кардиогенного шока.<br>• 💠<b>ЦВД (18 мм рт. ст.)</b>💠 значительно повышено, что говорит о застое в большом круге и перегрузке ПЖ.<br>• 💠<b>ДЛА (50/30 мм рт. ст.)</b>💠 подтверждает наличие выраженной легочной гипертензии.<br>• 💠<b>ДЗЛА (12 мм рт. ст.)</b>💠 находится в пределах нормы. Это означает, что левый желудочек (ЛЖ) ❌<b>не является</b>❌ причиной шока; он просто недополучает объем крови, так как ПЖ не может «прокачать» его через легкие с высоким сопротивлением.<br>2️⃣ <b>ПЖ после трансплантации:</b> Согласно руководствам <b>Cardiac Surgery in the Adult</b> и <b>Kirklin/Barratt-Boyes</b>, донорский ПЖ часто бывает «оглушен» после ишемии/консервации и крайне чувствителен к 💠<b>легочному сосудистому сопротивлению (ЛסС)</b>💠 реципиента. Высокое ДЛА неизбежно ведет к декомпенсации ПЖ.<br>3️⃣ <b>Метод выбора:</b> Так как милринон (инодилататор) уже введен в максимальной дозе, следующим логичным шагом является снижение 💠<b>постнагрузки на ПЖ</b>💠. 💠<b>Ингаляционный илопрост</b>💠 (или оксид азота) является препаратом выбора, так как он действует как <b>селективный легочный вазоדיлататор</b>. Он снижает ДЛА, не вызывая при этом системной вазодилатации и не усугубляя и без того пограничную гипотонию (90/60 мм рт. ст.).<br><br>❌ <b>Почему остальные варианты неверны:</b><br>• <b>Вариант A:</b> Введение жидкости при ЦВД 18 приведет к ❌<b>перерастяжению ПЖ</b>❌ и окончательному падению его сократимости по механизму Франка-Старлинга.<br>• <b>Вариант B:</b> RVAD — это ❌<b>радикальная</b>❌ хирургическая мера. Перед переходом к механической поддержке необходимо исчерпать возможности фармакотерапии, включая ингаляционные средства.<br>• <b>Вариант C:</b> ВАБК (IABP) помогает ❌<b>левому желудочку</b>❌ и улучшает коронарный кровоток. Но здесь ЛЖ не справляется не из-за слабости, а из-за дефицита притока из малого круга.<br><br>🧠 <b>Экзаменационная заметка:</b><br>Шок после трансплантации + Высокое ДЛА + Нормальное ДЗЛА = 💠<b>Правожелудочковая недостаточность</b>💠. Используйте 💠<b>селективные легочные вазоדיлататоры</b>💠 (ингаляционные), чтобы разгрузить правое сердце.",
       "disciplines": [
         "transplant_mcs",
         "icu_critical"

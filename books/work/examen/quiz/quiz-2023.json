@@ -4031,39 +4031,40 @@
       ]
     },
     {
-      "id": 121,
-      "questionEn": "What is the most likely cause of left ventricular distension during antegrade cardioplegia delivery in aortic valve replacement surgery?",
-      "questionRu": "Какова наиболее вероятная причина перерастяжения (дилатации) левого желудочка во время введения антеградной кардиоплегии при операции по замене аортального клапана?",
-      "optionsEn": {
-        "A": "Acute dissection secondary to the arterial cannula.",
-        "B": "Rupture of a mitral valve papillary muscle.",
-        "C": "Acute aortic insufficiency secondary to the aortic cross-clamp.",
-        "D": "Low perfusion pressure of the cardioplegia."
-      },
-      "optionsRu": {
-        "A": "Острое расслоение, вторичное по отношению к артериальной канюле.",
-        "B": "Разрыв папиллярной мышцы митрального клапана.",
-        "C": "Острая аортальная недостаточность, вторичная по отношению к аортальному зажиму.",
-        "D": "Низкое перфузионное давление кардиоплегии."
-      },
-      "correctAnswer": "A",
-      "explanationEn": "🎯 <b>Correct answer: Option A: Acute dissection secondary to the arterial cannula.</b><br><br>🔵 <b>Detailed Rationale:</b><br>During aortic valve replacement surgery, unexpected and rapid left ventricular distension shortly after initiating antegrade cardioplegia is a critical warning sign. The most serious and life‑threatening cause is an iatrogenic retrograde aortic dissection originating from the arterial cannulation site.<br><br>When the cannula inadvertently creates a dissection, blood from the bypass circuit enters the false lumen. If the dissection propagates retrograde to the aortic root, it can bypass the cross‑clamp and flood the left ventricle, causing rapid, severe distension. This can occur even if the aortic valve was previously competent.<br><br>While acute aortic insufficiency from cross‑clamp distortion is a more common reason for LV filling during antegrade cardioplegia, the distinctive feature in a dissection is the abrupt and progressive nature of the distension that is not explained by simple root deformity. Recognizing this intraoperative emergency is essential, as it requires immediate cessation of cardioplegia, assessment of the aorta, and a switch to a different cannulation or repair strategy.<br><br>❌ <b>Why other options are less likely:</b><br>• Option C (Aortic insufficiency from clamp) is a well‑known cause of LV distension, but it is usually less dramatic and often correctable by adjusting the clamp or using a root vent.<br>• Option B (Papillary muscle rupture) is a cause of acute mitral regurgitation, but it would not cause the ventricle to fill with blood from the cardioplegia circuit.<br>• Option D (Low perfusion pressure) would reduce coronary flow and cardioplegia delivery, but it does not directly cause ventricular distension.<br><br>🧠 <b>Board Pearl:</b><br>Sudden, unexpected LV distension after aortic clamping and starting cardioplegia should always raise suspicion of a cannula‑induced dissection. This is a high‑stakes diagnosis that demands immediate surgical action.",
-      "explanationRu": "🎯 <b>Правильный ответ: Вариант A: Острое расслоение, вторичное по отношению к артериальной канюле.</b><br><br>🔵 <b>Подробное обоснование:</b><br>Во время операции по замене аортального клапана внезапное и быстрое перерастяжение левого желудочка сразу после начала введения антеградной кардиоплегии является критическим предупредительным признаком. Наиболее серьёзной и жизнеугрожающей причиной является ятрогенное ретроградное расслоение аорты, возникающее от места артериальной канюляции.<br><br>Если канюля случайно создаёт расслоение, кровь из контура искусственного кровообращения попадает в ложный просвет. Если расслоение распространяется ретроградно до корня аорты, оно может обойти аортальный зажим и заполнить левый желудочек, вызывая быстрое и тяжёлое перерастяжение. Это может произойти даже при исходно состоятельном аортальном клапане.<br><br>Хотя острая аортальная недостаточность из‑за деформации зажимом является более частой причиной наполнения ЛЖ при антеградной кардиоплегии, отличительной особенностью расслоения является внезапный и прогрессирующий характер дилатации, который не объясняется простой деформацией корня. Распознавание этой интраоперационной экстренной ситуации крайне важно, так как она требует немедленного прекращения подачи кардиоплегии, оценки состояния аорты и перехода к другой стратегии канюляции или реконструкции.<br><br>❌ <b>Почему другие варианты менее вероятны:</b><br>• Вариант C (Аортальная недостаточность от зажима) — хорошо известная причина дилатации ЛЖ, но она обычно менее драматична и часто корректируется изменением положения зажима или использованием дренажа корня.<br>• Вариант B (Разрыв папиллярной мышцы) вызывает острую митральную регургитацию, но не приводит к наполнению желудочка кровью из контура кардиоплегии.<br>• Вариант D (Низкое перфузионное давление) снижает коронарный кровоток и доставку кардиоплегии, но напрямую не вызывает перерастяжение желудочка.<br><br>🧠 <b>Экзаменационная заметка:</b><br>Внезапная, неожиданная дилатация ЛЖ после наложения зажима и начала кардиоплегии всегда должна вызывать подозрение на расслоение, вызванное канюлей. Это диагноз высокого риска, требующий немедленных хирургических действий.",
-      "disciplines": [
-        "perfusion_cpb",
-        "adult_cardiac"
-      ],
-      "topics": [
-        "cpb_hemostasis",
-        "aortic_valve"
-      ],
-      "tags": [
-        "antegrade_cardioplegia",
-        "left_ventricular_venting",
-        "aortic_regurgitation",
-        "iatrogenic_aortic_dissection"
-      ]
-    },
+  "id": 121,
+  "questionEn": "What is the most likely cause of left ventricular distension during antegrade cardioplegia delivery in aortic valve replacement surgery?",
+  "questionRu": "Какова наиболее вероятная причина перерастяжения (дилатации) левого желудочка во время введения антеградной кардиоплегии при операции по замене аортального клапана?",
+  "optionsEn": {
+    "A": "Acute dissection secondary to the arterial cannula.",
+    "B": "Rupture of a mitral valve papillary muscle.",
+    "C": "Acute aortic insufficiency secondary to distortion by the aortic cross-clamp.",
+    "D": "Low perfusion pressure of the cardioplegia."
+  },
+  "optionsRu": {
+    "A": "Острое расслоение, вторичное по отношению к артериальной канюле.",
+    "B": "Разрыв папиллярной мышцы митрального клапана.",
+    "C": "Острая аортальная недостаточность, вторичная по отношению к деформации аортальным зажимом.",
+    "D": "Низкое перфузионное давление кардиоплегии."
+  },
+  "correctAnswer": "C",
+  "explanationEn": "🎯 <b>Correct answer: C. Acute aortic insufficiency secondary to distortion by the aortic cross-clamp.</b><br><br>🔵 <b>Detailed Rationale:</b><br>The mechanical principle of LV distension during antegrade cardioplegia is the same across different cardiac surgeries: fluid pumped into the aortic root leaks into the left ventricle (LV) because the aortic valve is incompetent. <br><br>In aortic valve replacement (AVR) or coronary artery bypass grafting (CABG), the application of the <b>aortic cross-clamp</b> can distort the geometry of the aortic root, especially if placed too low or if the aorta is calcified. This distortion prevents the aortic leaflets from properly coapting. When antegrade cardioplegia is administered, it flows backward through the unsealed valve directly into the LV, leading to rapid distension and poor myocardial protection.<br><br>📖 <b>Evidence & Literature:</b><br>According to fundamental texts like <b><i>Kirklin/Barratt-Boyes Cardiac Surgery</i></b> and <b><i>Cardiac Surgery in the Adult</i></b>, <i>\"application of the aortic cross-clamp can distort the aortic root and prevent coaptation of the aortic valve cusps, resulting in aortic incompetence.\"</i> If LV distension is noted during cardioplegia delivery, the immediate maneuver is to adjust the cross-clamp or switch to direct ostial/retrograde delivery.<br><br>❌ <b>Why other options are incorrect:</b><br>🔸 <b>Option A:</b> While an iatrogenic aortic dissection from the arterial cannula is a catastrophic emergency, it is exceptionally rare (<0.1%) and typically presents with a sudden drop in systemic line pressure and venous return, not isolated LV distension during the cardioplegia dose. The question asks for the <i>most likely</i> (most common) cause, which is aortic insufficiency.<br>🔸 <b>Option B:</b> Papillary muscle rupture causes acute mitral regurgitation, which does not explain why cardioplegia delivered <i>above</i> the aortic valve enters the ventricle.<br>🔸 <b>Option D:</b> Low perfusion pressure would lead to inadequate cardioplegia delivery and poor arrest, but it does not directly push volume into the LV to cause distension.",
+  "explanationRu": "🎯 <b>Правильный ответ: C. Острая аортальная недостаточность, вторичная по отношению к деформации аортальным зажимом.</b><br><br>🔵 <b>Подробное обоснование:</b><br>Механический принцип дилатации ЛЖ при антеградной кардиоплегии одинаков для разных кардиохирургических операций: жидкость, нагнетаемая в корень аорты, протекает в левый желудочек (ЛЖ) из-за несостоятельности аортального клапана.<br><br>При протезировании аортального клапана (AVR) или АКШ наложение <b>аортального зажима (cross-clamp)</b> может деформировать геометрию корня аорты, особенно если он наложен слишком низко или аорта кальцинирована. Эта деформация (дисторсия) мешает створкам клапана плотно сомкнуться. Когда подается антеградная кардиоплегия, она устремляется через негерметичный клапан прямо в ЛЖ, что приводит к его быстрому перерастяжению и плохой защите миокарда.<br><br>📖 <b>Доказательная база:</b><br>Согласно фундаментальным руководствам, таким как <b><i>Kirklin/Barratt-Boyes Cardiac Surgery</i></b> и <b><i>Cardiac Surgery in the Adult</i></b>, <i>«наложение аортального зажима может деформировать корень аорты и препятствовать коаптации створок аортального клапана, что приводит к аортальной недостаточности»</i>. Если во время введения кардиоплегии отмечается дилатация ЛЖ, первым действием хирурга должно стать изменение положения зажима или переход на прямую (в устья) либо ретроградную кардиоплегию.<br><br>❌ <b>Почему другие варианты неверны:</b><br>🔸 <b>Вариант A:</b> Ятрогенная диссекция аорты от артериальной канюли — это катастрофическая ситуация, но она встречается крайне редко (<0.1%) и обычно проявляется падением давления в артериальной магистрали и нарушением венозного возврата, а не изолированным растяжением ЛЖ во время подачи раствора. Вопрос требует указать <i>наиболее вероятную</i> (частую) причину, которой является аортальная недостаточность.<br>🔸 <b>Вариант B:</b> Разрыв папиллярной мышцы вызывает острую митральную недостаточность, что никак не объясняет, почему кардиоплегия, подаваемая <i>выше</i> аортального клапана, попадает в желудочек.<br>🔸 <b>Вариант D:</b> Низкое перфузионное давление приведет к неадекватной доставке кардиоплегии, но само по себе не способно нагнетать объем в ЛЖ и вызывать его растяжение.",
+  "disciplines": [
+    "perfusion_cpb",
+    "adult_cardiac"
+  ],
+  "topics": [
+    "cpb_hemostasis",
+    "aortic_valve",
+    "myocardial_protection"
+  ],
+  "tags": [
+    "antegrade_cardioplegia",
+    "left_ventricular_distension",
+    "aortic_regurgitation",
+    "cross_clamp_distortion"
+  ]
+},
     {
       "id": 122,
       "questionEn": "What is most correct regarding the most common pathology matching the attached echo image?",
