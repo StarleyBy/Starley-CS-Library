@@ -24,6 +24,17 @@ const state = {
     activeTopicFilter: null,
     timerInterval: null,
     timeRemaining: 60,
+    // Quiz V2 Session Engine additions
+    deck: [], // Dynamic array of question indices/cards [0, 1, 2, ...]
+    skipped: new Set(), // Set of question IDs currently skipped
+    sessionTimer: {
+        limitSec: 0,
+        elapsedMs: 0,
+        running: false,
+        startedAt: 0,
+        phase: 0,
+        tickId: null
+    },
     searchIndex: [],
     isIndexing: false,
     selectedSets: [],
@@ -3509,10 +3520,16 @@ async function startQuiz() {
             state.questions = finalQuestions;
         }
 
+        // Initialize Card Deck Queue: state.deck contains array of indices [0, 1, ..., N-1]
+        state.deck = Array.from({ length: state.questions.length }, (_, i) => i);
+        state.skipped = new Set();
         state.currentIndex = 0;
         state.score = 0;
         state.answers = [];
         state.startTime = Date.now();
+
+        // Initialize and Start Whole-Session Timer (N * 60 seconds)
+        initAndStartSessionTimer();
 
         document.getElementById('exp-title-text').textContent = isRu ? 'Клиническое объяснение' : 'Clinical Explanation';
         document.getElementById('exp-picker-label').textContent = isRu ? 'Выберите главу для открытия:' : 'Select chapter to open:';
@@ -3521,37 +3538,202 @@ async function startQuiz() {
         document.getElementById('exam-errors-section').style.display = 'none';
         switchScreen('screen-question');
         renderQuestion();
-        
-        if (state.settings.exam) {
-            document.getElementById('quiz-timer').style.display = 'flex';
-            startExamTimer();
-        } else {
-            document.getElementById('quiz-timer').style.display = 'none';
-        }
+
+        // Legacy timer display compatibility
+        const legacyTimer = document.getElementById('quiz-timer');
+        if (legacyTimer) legacyTimer.style.display = 'none';
 
     } catch (err) {
         alert('Failed to load quiz questions: ' + err.message);
     }
 }
 
-function startExamTimer() {
-    if (state.timerInterval) {
-        clearInterval(state.timerInterval);
-    }
-    state.timeRemaining = 60;
-    const timerVal = document.getElementById('timer-val');
-    if (timerVal) timerVal.textContent = state.timeRemaining;
+/* ==========================================================================
+   QUIZ V2: WHOLE-SESSION TIMER ENGINE & WEBAUDIO CLICK
+   ========================================================================== */
+let _quizAudioContext = null;
 
-    state.timerInterval = setInterval(() => {
-        state.timeRemaining--;
-        if (timerVal) timerVal.textContent = state.timeRemaining;
-
-        if (state.timeRemaining <= 0) {
-            clearInterval(state.timerInterval);
-            submitAnswer(true);
+function playTimerTransitionClick() {
+    if (state.isMuted) return;
+    try {
+        const AudioCtx = window.AudioContext || window.webkitAudioContext;
+        if (!AudioCtx) return;
+        if (!_quizAudioContext) {
+            _quizAudioContext = new AudioCtx();
         }
-    }, 1000);
+        if (_quizAudioContext.state === 'suspended') {
+            _quizAudioContext.resume().catch(() => {});
+        }
+        const osc = _quizAudioContext.createOscillator();
+        const gain = _quizAudioContext.createGain();
+        osc.type = 'square';
+        osc.frequency.setValueAtTime(880, _quizAudioContext.currentTime);
+        gain.gain.setValueAtTime(0.12, _quizAudioContext.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.0001, _quizAudioContext.currentTime + 0.05);
+        osc.connect(gain);
+        gain.connect(_quizAudioContext.destination);
+        osc.start();
+        osc.stop(_quizAudioContext.currentTime + 0.06);
+    } catch (e) {}
 }
+
+function calculateTimerPhase(elapsedSec, limitSec) {
+    if (!limitSec || limitSec <= 0) return 0;
+    const ratio = elapsedSec / limitSec;
+    if (ratio <= 0.70) return 0; // Phase 0: <=70% Green (flowers)
+    if (ratio <= 0.90) return 1; // Phase 1: 70-90% Yellow (leaves)
+    if (ratio <= 1.00) return 2; // Phase 2: 90-100% Red (blood drops)
+    return 3;                    // Phase 3: >100% Brown (flies, overtime counting up)
+}
+
+function formatSessionTime(sec) {
+    const s = Math.max(0, Math.floor(sec));
+    const m = Math.floor(s / 60);
+    const remS = s % 60;
+    return `${m}:${String(remS).padStart(2, '0')}`;
+}
+
+function initAndStartSessionTimer() {
+    stopSessionTimer();
+    const count = (state.questions && state.questions.length) ? state.questions.length : (state.settings.count || 10);
+    const limitSec = count * 60; // N * 60 seconds
+
+    state.sessionTimer = {
+        limitSec: limitSec,
+        elapsedMs: 0,
+        running: true,
+        startedAt: performance.now(),
+        phase: 0,
+        tickId: null
+    };
+
+    // Unlock WebAudio on user gesture
+    try {
+        const AudioCtx = window.AudioContext || window.webkitAudioContext;
+        if (AudioCtx && !_quizAudioContext) {
+            _quizAudioContext = new AudioCtx();
+        }
+        if (_quizAudioContext && _quizAudioContext.state === 'suspended') {
+            _quizAudioContext.resume().catch(() => {});
+        }
+    } catch (e) {}
+
+    updateSessionTimerUI();
+
+    // 250ms tick loop based on performance.now to prevent background drift
+    state.sessionTimer.tickId = setInterval(() => {
+        if (!state.sessionTimer.running) return;
+        const now = performance.now();
+        state.sessionTimer.elapsedMs += (now - state.sessionTimer.startedAt);
+        state.sessionTimer.startedAt = now;
+        updateSessionTimerUI();
+    }, 250);
+}
+
+function stopSessionTimer() {
+    if (state.sessionTimer && state.sessionTimer.tickId) {
+        clearInterval(state.sessionTimer.tickId);
+        state.sessionTimer.tickId = null;
+    }
+    if (state.sessionTimer) {
+        state.sessionTimer.running = false;
+    }
+}
+
+function toggleSessionTimerPause() {
+    if (!state.sessionTimer) return;
+    // Strict requirement: in Exam Sim mode, pause is forbidden
+    if (state.sessionMode === 'exam' || state.settings.exam) {
+        const isRu = state.settings.lang === 'Ru';
+        showToast(isRu ? 'В режиме экзамена пауза запрещена!' : 'Pause is disabled in Exam Simulation mode!');
+        return;
+    }
+
+    const st = state.sessionTimer;
+    if (st.running) {
+        st.elapsedMs += (performance.now() - st.startedAt);
+        st.running = false;
+    } else {
+        st.startedAt = performance.now();
+        st.running = true;
+    }
+    updateSessionTimerUI();
+}
+
+function updateSessionTimerUI() {
+    const st = state.sessionTimer;
+    if (!st) return;
+
+    const elapsedSec = st.elapsedMs / 1000;
+    const newPhase = calculateTimerPhase(elapsedSec, st.limitSec);
+
+    // If phase transitioned, emit click sound and spawn particles
+    if (newPhase !== st.phase) {
+        st.phase = newPhase;
+        playTimerTransitionClick();
+        spawnTimerParticles(newPhase);
+    }
+
+    const timerBtn = document.getElementById('quiz-session-timer');
+    const timerTxt = document.getElementById('quiz-session-timer-text');
+    const timerStatus = document.getElementById('quiz-session-timer-status');
+    const legacyVal = document.getElementById('timer-val');
+
+    if (timerBtn) {
+        timerBtn.setAttribute('data-ph', String(st.phase));
+        if (st.running) {
+            timerBtn.classList.remove('paused');
+            if (timerStatus) timerStatus.style.display = 'none';
+        } else {
+            timerBtn.classList.add('paused');
+            if (timerStatus) timerStatus.style.display = 'inline-block';
+        }
+    }
+
+    const formattedTime = formatSessionTime(elapsedSec);
+    if (timerTxt) timerTxt.textContent = formattedTime;
+    if (legacyVal) legacyVal.textContent = Math.round(Math.max(0, st.limitSec - elapsedSec));
+}
+
+function spawnTimerParticles(phase) {
+    const container = document.getElementById('quiz-session-timer-particles');
+    if (!container) return;
+    container.innerHTML = '';
+
+    const particleIcons = [
+        ['🌸', '🌼', '🌺', '🌱'], // Phase 0
+        ['🍂', '🍁', '🌾', '🍃'], // Phase 1
+        ['🩸', '💧', '🔻'],       // Phase 2
+        ['🪰', '🦟', '🪲']        // Phase 3
+    ];
+    const icons = particleIcons[phase] || particleIcons[0];
+    const particleClass = ['p-bloom', 'p-leaf', 'p-drop', 'p-fly'][phase] || 'p-bloom';
+    const count = Math.min(8, icons.length * 2);
+
+    for (let i = 0; i < count; i++) {
+        const span = document.createElement('span');
+        span.className = `tm-particle ${particleClass}`;
+        span.textContent = icons[i % icons.length];
+        const tx = (Math.random() * 60 - 30).toFixed(1) + 'px';
+        span.style.setProperty('--tx', tx);
+        span.style.left = `${15 + Math.random() * 70}%`;
+        span.style.top = `${20 + Math.random() * 60}%`;
+        container.appendChild(span);
+        if (phase !== 3) {
+            setTimeout(() => span.remove(), 3000);
+        }
+    }
+}
+
+// Preserve mobile timer accuracy on tab visibility changes
+document.addEventListener('visibilitychange', () => {
+    if (state.sessionTimer && state.sessionTimer.running) {
+        const now = performance.now();
+        state.sessionTimer.elapsedMs += (now - state.sessionTimer.startedAt);
+        state.sessionTimer.startedAt = now;
+        updateSessionTimerUI();
+    }
+});
 
 function renderQuestion() {
     window.dispatchEvent(new CustomEvent('quiz:questionChanged'));
@@ -3564,6 +3746,21 @@ function renderQuestion() {
     document.getElementById('q-total').textContent = state.questions.length;
     document.getElementById('q-progress-fill').style.width = `${((state.currentIndex) / state.questions.length) * 100}%`;
     
+    // Update CD Navigation Bottom Bar Indicators
+    const cdNum = document.getElementById('cd-track-num');
+    const cdTotal = document.getElementById('cd-track-total');
+    if (cdNum) cdNum.textContent = state.currentIndex + 1;
+    if (cdTotal) cdTotal.textContent = state.questions.length;
+
+    const currentAnswer = state.answers && state.answers[state.currentIndex];
+    const isAlreadyAnswered = currentAnswer && currentAnswer.chosen != null;
+
+    const btnSkip = document.getElementById('btn-quiz-skip');
+    if (btnSkip) {
+        btnSkip.disabled = isAlreadyAnswered;
+        btnSkip.style.opacity = isAlreadyAnswered ? '0.4' : '1';
+    }
+
     const liveScoreEl = document.getElementById('q-score-live');
     liveScoreEl.textContent = (lang === 'Ru' ? 'Верно: ' : 'Correct: ') + state.score;
     liveScoreEl.style.display = state.settings.exam ? 'none' : 'block';
@@ -3671,20 +3868,37 @@ function renderQuestion() {
 
     optionsCont.innerHTML = '';
     const options = q['options' + lang] || q['optionsEn'] || q.options || {};
+    const correctChoices = (Array.isArray(q.correctAnswer) ? [...q.correctAnswer] : [q.correctAnswer]).map(String);
+    const userChoices = isAlreadyAnswered
+        ? (Array.isArray(currentAnswer.chosen) ? currentAnswer.chosen.map(String) : (currentAnswer.chosen != null ? [String(currentAnswer.chosen)] : []))
+        : [];
     
     Object.entries(options).forEach(([letter, text]) => {
         const btn = document.createElement('button');
         btn.className = 'option-btn';
         btn.innerHTML = `<span class="option-letter">${letter}</span> <span class="option-text">${_markdownToHtml(text)}</span>`;
-        btn.onclick = () => selectAnswer(letter, btn);
+        
+        if (isAlreadyAnswered) {
+            btn.disabled = true;
+            if (state.settings.exam) {
+                // In Exam Sim: show selection only, do not reveal correct/wrong until end
+                if (userChoices.includes(letter)) {
+                    btn.classList.add('selected');
+                }
+            } else {
+                if (correctChoices.includes(letter)) {
+                    btn.classList.add('correct');
+                } else if (userChoices.includes(letter)) {
+                    btn.classList.add('wrong');
+                }
+            }
+        } else {
+            btn.onclick = () => selectAnswer(letter, btn);
+        }
+
         optionsCont.appendChild(btn);
     });
     renderLatexInElement(optionsCont);
-
-    document.getElementById('q-explanation').style.display = 'none';
-    document.getElementById('exp-chapter-select').style.display = 'none';
-    
-    if (confContainer) confContainer.style.display = 'none';
 
     let submitBtnCont = document.getElementById('q-submit-container');
     if (!submitBtnCont) {
@@ -3697,14 +3911,29 @@ function renderQuestion() {
         document.getElementById('q-options').after(submitBtnCont);
         document.getElementById('btn-submit-q').onclick = () => submitAnswer(false);
     }
-    
-    submitBtnCont.style.display = q.multiAnswer ? 'flex' : 'none';
-    const submitBtn = document.getElementById('btn-submit-q');
-    submitBtn.disabled = true;
-    submitBtn.querySelector('span').textContent = lang === 'Ru' ? 'Ответить' : 'Submit Answer';
-    
-    if (state.settings.exam) {
-        startExamTimer();
+
+    if (isAlreadyAnswered) {
+        submitBtnCont.style.display = 'none';
+        if (state.settings.exam) {
+            document.getElementById('q-explanation').style.display = 'none';
+            document.getElementById('exp-chapter-select').style.display = 'none';
+            if (confContainer) confContainer.style.display = 'none';
+        } else {
+            showExplanation();
+        }
+    } else {
+        document.getElementById('q-explanation').style.display = 'none';
+        document.getElementById('exp-chapter-select').style.display = 'none';
+        if (confContainer) confContainer.style.display = 'none';
+        
+        submitBtnCont.style.display = q.multiAnswer ? 'flex' : 'none';
+        const submitBtn = document.getElementById('btn-submit-q');
+        submitBtn.disabled = true;
+        submitBtn.querySelector('span').textContent = lang === 'Ru' ? 'Ответить' : 'Submit Answer';
+        
+        if (state.settings.exam) {
+            startExamTimer();
+        }
     }
 }
 
@@ -4347,7 +4576,8 @@ window.addEventListener('popstate', () => {
 
 
 function setupQuestionListeners() {
-    document.getElementById('btn-next-q').onclick = () => {
+    // Shared Next Question handler used by both #btn-next-q and bottom CD action
+    const handleNextQuestionFlow = () => {
         const q = state.questions[state.currentIndex];
         const confContainer = document.getElementById('confidence-rating-container');
         if (confContainer && confContainer.style.display === 'block') {
@@ -4363,21 +4593,187 @@ function setupQuestionListeners() {
             }
         }
 
-        if (state.currentIndex < state.questions.length - 1) {
+        // Check if there are unanswered questions in the deck queue
+        const totalQ = state.questions.length;
+        const answeredCount = (state.answers || []).filter(a => a && a.chosen != null).length;
+
+        // If current question index in deck has a next question, step forward
+        if (state.deck && state.deck.length > 0) {
+            const currentDeckPos = state.deck.indexOf(state.currentIndex);
+            if (currentDeckPos >= 0 && currentDeckPos < state.deck.length - 1) {
+                state.currentIndex = state.deck[currentDeckPos + 1];
+                renderQuestion();
+                document.querySelector('.quiz-screen.active')?.scrollTo(0, 0);
+                return;
+            }
+        }
+
+        if (answeredCount >= totalQ) {
+            showResults();
+        } else if (state.deck && state.deck.length > 0) {
+            // Find first unanswered question in deck
+            const nextUnanswered = state.deck.find(id => !state.answers[id] || state.answers[id].chosen == null);
+            if (nextUnanswered != null) {
+                state.currentIndex = nextUnanswered;
+                renderQuestion();
+                document.querySelector('.quiz-screen.active')?.scrollTo(0, 0);
+            } else {
+                showResults();
+            }
+        } else if (state.currentIndex < totalQ - 1) {
             state.currentIndex++;
             renderQuestion();
-            document.querySelector('.quiz-screen.active').scrollTo(0,0);
+            document.querySelector('.quiz-screen.active')?.scrollTo(0, 0);
         } else {
             showResults();
         }
     };
+
+    const btnNext = document.getElementById('btn-next-q');
+    if (btnNext) btnNext.onclick = handleNextQuestionFlow;
+
+    const btnCdNext = document.getElementById('btn-cd-next-action');
+    if (btnCdNext) btnCdNext.onclick = handleNextQuestionFlow;
+
+    // CD Navigation: First, Prev, Next, Last
+    const btnNavFirst = document.getElementById('btn-nav-first');
+    if (btnNavFirst) {
+        btnNavFirst.onclick = () => {
+            if (!state.deck || state.deck.length === 0) return;
+            state.currentIndex = state.deck[0];
+            renderQuestion();
+        };
+    }
+
+    const btnNavPrev = document.getElementById('btn-nav-prev');
+    if (btnNavPrev) {
+        btnNavPrev.onclick = () => {
+            if (!state.deck || state.deck.length === 0) return;
+            const pos = state.deck.indexOf(state.currentIndex);
+            if (pos > 0) {
+                state.currentIndex = state.deck[pos - 1];
+                renderQuestion();
+            }
+        };
+    }
+
+    const btnNavNext = document.getElementById('btn-nav-next');
+    if (btnNavNext) {
+        btnNavNext.onclick = () => {
+            if (!state.deck || state.deck.length === 0) return;
+            const pos = state.deck.indexOf(state.currentIndex);
+            if (pos >= 0 && pos < state.deck.length - 1) {
+                state.currentIndex = state.deck[pos + 1];
+                renderQuestion();
+            }
+        };
+    }
+
+    const btnNavLast = document.getElementById('btn-nav-last');
+    if (btnNavLast) {
+        btnNavLast.onclick = () => {
+            if (!state.deck || state.deck.length === 0) return;
+            state.currentIndex = state.deck[state.deck.length - 1];
+            renderQuestion();
+        };
+    }
+
+    // Skip Question: push current question index to back of deck queue
+    const btnSkip = document.getElementById('btn-quiz-skip');
+    if (btnSkip) {
+        btnSkip.onclick = () => {
+            const isRu = state.settings.lang === 'Ru';
+            if (!state.deck || state.deck.length <= 1) {
+                showToast(isRu ? 'Остался один вопрос, пропустить нельзя' : 'Only one question remains, cannot skip');
+                return;
+            }
+
+            const currentQ = state.questions[state.currentIndex];
+            const qId = currentQ?.id || state.currentIndex;
+
+            // Check if already answered
+            if (state.answers && state.answers[state.currentIndex] && state.answers[state.currentIndex].chosen != null) {
+                showToast(isRu ? 'На этот вопрос уже дан ответ' : 'This question is already answered');
+                return;
+            }
+
+            if (!state.skipped) state.skipped = new Set();
+            state.skipped.add(qId);
+
+            const deckPos = state.deck.indexOf(state.currentIndex);
+            if (deckPos >= 0) {
+                state.deck.splice(deckPos, 1);
+                state.deck.push(state.currentIndex);
+            }
+
+            // Move to next available card in deck
+            const nextIdx = state.deck[deckPos < state.deck.length ? deckPos : 0];
+            state.currentIndex = nextIdx;
+
+            playSound('click');
+            triggerHaptic('click');
+            showToast(isRu ? 'Вопрос отложен в конец колоды' : 'Question skipped to end of queue');
+            renderQuestion();
+        };
+    }
+
+    // Track Picker Modal Matrix
+    const btnTrackPicker = document.getElementById('btn-nav-track-picker');
+    const modalTrack = document.getElementById('quiz-track-picker-modal');
+    const btnCloseTrack = document.getElementById('btn-close-track-picker');
+
+    if (btnTrackPicker && modalTrack) {
+        btnTrackPicker.onclick = () => {
+            renderTrackMatrix();
+            modalTrack.style.display = 'flex';
+        };
+    }
+    if (btnCloseTrack && modalTrack) {
+        btnCloseTrack.onclick = () => {
+            modalTrack.style.display = 'none';
+        };
+    }
+    if (modalTrack) {
+        modalTrack.onclick = (e) => {
+            if (e.target === modalTrack) modalTrack.style.display = 'none';
+        };
+    }
+
+    // Whole-Session Timer Tap to Pause/Resume
+    const timerBtn = document.getElementById('quiz-session-timer');
+    if (timerBtn) {
+        timerBtn.onclick = toggleSessionTimerPause;
+    }
+
+    // Overlay Tools: Calculator & Scratchpad wiring
+    const btnCalc = document.getElementById('btn-tool-calc');
+    if (btnCalc) {
+        btnCalc.onclick = () => {
+            if (window.StarleyOverlayTools && window.StarleyOverlayTools.MedicalCalc) {
+                window.StarleyOverlayTools.MedicalCalc.show();
+            } else {
+                showToast('Calculator initializing...');
+            }
+        };
+    }
+
+    const btnScratch = document.getElementById('btn-tool-scratch');
+    if (btnScratch) {
+        btnScratch.onclick = () => {
+            if (window.StarleyOverlayTools && window.StarleyOverlayTools.Scratchpad) {
+                window.StarleyOverlayTools.Scratchpad.show();
+            } else {
+                showToast('Scratchpad initializing...');
+            }
+        };
+    }
 
     window.openQuizExitModal = function() {
         const modal = document.getElementById('quiz-exit-confirm-modal');
         if (!modal) return;
 
         const isRu = (state && state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
-        const answeredCount = (state && state.answers && Array.isArray(state.answers)) ? state.answers.length : 0;
+        const answeredCount = (state && state.answers && Array.isArray(state.answers)) ? state.answers.filter(a => a && a.chosen != null).length : 0;
         const totalPlanned = (state && state.questions && Array.isArray(state.questions)) ? state.questions.length : 0;
 
         const partialSaveBtn = document.getElementById('btn-exit-save-partial');
@@ -4419,21 +4815,34 @@ function setupQuestionListeners() {
 
     window.saveAndFinishPartialQuiz = function() {
         window.closeQuizExitModal();
-        const answeredCount = (state && state.answers && Array.isArray(state.answers)) ? state.answers.length : 0;
+        stopSessionTimer();
+        const answeredCount = (state && state.answers && Array.isArray(state.answers)) ? state.answers.filter(a => a && a.chosen != null).length : 0;
         if (answeredCount === 0) {
             window.confirmExitToLobby();
             return;
         }
 
-        // Truncate state.questions to exactly the answered questions slice
-        state.questions = state.questions.slice(0, answeredCount);
-        state.currentIndex = answeredCount - 1;
+        // Specification requirement: Unanswered and skipped questions are counted as incorrect
+        if (state.questions && Array.isArray(state.questions)) {
+            state.questions.forEach((q, idx) => {
+                if (!state.answers[idx] || state.answers[idx].chosen == null) {
+                    state.answers[idx] = {
+                        questionId: q.id || idx,
+                        chosen: null,
+                        correct: q.correctAnswer,
+                        time: 0,
+                        isCorrect: false,
+                        isEarlyExitUnanswered: true
+                    };
+                }
+            });
+        }
 
-        // Finalize results with the truncated questions count
         showResults();
     };
 
     window.confirmExitToLibrary = async function() {
+        stopSessionTimer();
         if (state.timerInterval) {
             clearInterval(state.timerInterval);
             state.timerInterval = null;
@@ -4450,6 +4859,7 @@ function setupQuestionListeners() {
     };
 
     window.confirmExitToLobby = function() {
+        stopSessionTimer();
         if (state.timerInterval) {
             clearInterval(state.timerInterval);
             state.timerInterval = null;
@@ -4516,6 +4926,60 @@ function setupQuestionListeners() {
 
     const btnSubmitReport = document.getElementById('btn-submit-report');
     if (btnSubmitReport) btnSubmitReport.onclick = submitReportModal;
+}
+
+function closeTrackPicker() {
+    const modal = document.getElementById('quiz-track-picker-modal');
+    if (modal) modal.style.display = 'none';
+}
+
+function renderTrackMatrix() {
+    const grid = document.getElementById('quiz-track-grid');
+    if (!grid) return;
+    grid.innerHTML = '';
+
+    const questions = state.questions || [];
+    const isExam = !!(state.sessionMode === 'exam' || state.settings?.exam);
+    const skippedSet = state.skipped || new Set();
+
+    questions.forEach((q, idx) => {
+        const cell = document.createElement('button');
+        cell.type = 'button';
+        cell.className = 'track-cell';
+        cell.textContent = idx + 1;
+        cell.setAttribute('data-index', String(idx));
+
+        const ans = state.answers && state.answers[idx];
+        const hasAnswer = ans && ans.chosen != null;
+        const qId = q.id || idx;
+        const isSkipped = skippedSet.has(qId) && !hasAnswer;
+
+        if (idx === state.currentIndex) {
+            cell.classList.add('cell-current');
+        } else if (isSkipped) {
+            cell.classList.add('cell-skipped');
+        } else if (hasAnswer) {
+            if (isExam) {
+                // In Exam Sim: do not reveal correct/wrong during quiz
+                cell.classList.add('cell-answered');
+            } else if (ans.isCorrect) {
+                cell.classList.add('cell-correct');
+            } else {
+                cell.classList.add('cell-wrong');
+            }
+        } else {
+            cell.classList.add('cell-unanswered');
+        }
+
+        cell.onclick = () => {
+            state.currentIndex = idx;
+            closeTrackPicker();
+            renderQuestion();
+            document.querySelector('.quiz-screen.active')?.scrollTo(0, 0);
+        };
+
+        grid.appendChild(cell);
+    });
 }
 
 function showResults() {
