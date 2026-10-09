@@ -98,32 +98,37 @@
                     </div>
                 </div>
 
-                <!-- Weak-Spot Radar & Mastery Dashboard -->
-                <div id="lobby-radar-card" class="lobby-card radar-card" style="display: none;">
-                    <div class="radar-card-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-                        <h3 id="lbl-weak-spot-radar" style="margin: 0;">📊 Weak-Spot Radar</h3>
+                <!-- Weak-Spot Radar & Mastery Dashboard (Collapsible) -->
+                <details id="lobby-radar-card" class="lobby-card radar-card" style="display: none;">
+                    <summary class="radar-card-header" style="display: flex; justify-content: space-between; align-items: center; cursor: pointer; list-style: none;">
+                        <div style="display: flex; align-items: center; gap: 8px;">
+                            <span class="radar-toggle-icon" style="font-size: 0.85rem; color: var(--quiz-muted);"><i class="fas fa-chevron-right"></i></span>
+                            <h3 id="lbl-weak-spot-radar" style="margin: 0;">📊 Weak-Spot Radar</h3>
+                        </div>
                         <div class="mastery-badge" style="background: rgba(88, 166, 255, 0.1); color: var(--quiz-accent); padding: 4px 10px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; border: 1px solid rgba(88, 166, 255, 0.3);"><span id="mastery-pct-val">0%</span> <span id="lbl-mastered-pct">Mastered</span></div>
-                    </div>
-                    <div class="radar-progress-container" style="margin-bottom: 15px;">
-                        <div class="radar-progress-bar" style="height: 10px; background: var(--quiz-border); border-radius: 5px; overflow: hidden; display: flex;">
-                            <div id="radar-progress-green" class="progress-segment green" style="width: 0%; height: 100%; background: var(--quiz-correct); transition: width 0.5s ease;"></div>
-                            <div id="radar-progress-yellow" class="progress-segment yellow" style="width: 0%; height: 100%; background: var(--quiz-warning); transition: width 0.5s ease;"></div>
-                            <div id="radar-progress-red" class="progress-segment red" style="width: 0%; height: 100%; background: var(--quiz-wrong); transition: width 0.5s ease;"></div>
+                    </summary>
+                    <div class="radar-details-body" style="padding-top: 14px;">
+                        <div class="radar-progress-container" style="margin-bottom: 15px;">
+                            <div class="radar-progress-bar" style="height: 10px; background: var(--quiz-border); border-radius: 5px; overflow: hidden; display: flex;">
+                                <div id="radar-progress-green" class="progress-segment green" style="width: 0%; height: 100%; background: var(--quiz-correct); transition: width 0.5s ease;"></div>
+                                <div id="radar-progress-yellow" class="progress-segment yellow" style="width: 0%; height: 100%; background: var(--quiz-warning); transition: width 0.5s ease;"></div>
+                                <div id="radar-progress-red" class="progress-segment red" style="width: 0%; height: 100%; background: var(--quiz-wrong); transition: width 0.5s ease;"></div>
+                            </div>
+                            <div class="radar-legend" style="display: flex; justify-content: space-between; margin-top: 8px; font-size: 0.75rem; color: var(--quiz-muted);">
+                                <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot green" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-correct); display: inline-block;"></span> <span id="lbl-legend-green">Mastered</span>: <span id="cnt-green" style="font-weight:700; color:var(--quiz-text);">0</span></span>
+                                <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot yellow" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-warning); display: inline-block;"></span> <span id="lbl-legend-yellow">Learning</span>: <span id="cnt-yellow" style="font-weight:700; color:var(--quiz-text);">0</span></span>
+                                <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot red" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-wrong); display: inline-block;"></span> <span id="lbl-legend-red">Weak / New</span>: <span id="cnt-red" style="font-weight:700; color:var(--quiz-text);">0</span></span>
+                            </div>
                         </div>
-                        <div class="radar-legend" style="display: flex; justify-content: space-between; margin-top: 8px; font-size: 0.75rem; color: var(--quiz-muted);">
-                            <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot green" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-correct); display: inline-block;"></span> <span id="lbl-legend-green">Mastered</span>: <span id="cnt-green" style="font-weight:700; color:var(--quiz-text);">0</span></span>
-                            <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot yellow" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-warning); display: inline-block;"></span> <span id="lbl-legend-yellow">Learning</span>: <span id="cnt-yellow" style="font-weight:700; color:var(--quiz-text);">0</span></span>
-                            <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot red" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-wrong); display: inline-block;"></span> <span id="lbl-legend-red">Weak / New</span>: <span id="cnt-red" style="font-weight:700; color:var(--quiz-text);">0</span></span>
+                        <div class="radar-chart-container" style="position: relative; margin: 15px 0; text-align: center;">
+                            <canvas id="radar-canvas" width="280" height="280" style="max-width: 100%; height: auto; display: inline-block; filter: drop-shadow(0 0 10px rgba(88,166,255,0.1));"></canvas>
+                        </div>
+                        <div id="lbl-topics-mastery" class="radar-topics-header" style="margin-top: 15px; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; letter-spacing: 0.5px;">Topic Mastery (Tap for Express Quiz)</div>
+                        <div id="radar-topic-chips" class="radar-topic-chips" style="margin-top: 8px; display: flex; flex-wrap: wrap; gap: 8px;">
+                            <!-- Dynamic chips -->
                         </div>
                     </div>
-                    <div class="radar-chart-container" style="position: relative; margin: 15px 0; text-align: center;">
-                        <canvas id="radar-canvas" width="280" height="280" style="max-width: 100%; height: auto; display: inline-block; filter: drop-shadow(0 0 10px rgba(88,166,255,0.1));"></canvas>
-                    </div>
-                    <div id="lbl-topics-mastery" class="radar-topics-header" style="margin-top: 15px; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; letter-spacing: 0.5px;">Topic Mastery (Tap for Express Quiz)</div>
-                    <div id="radar-topic-chips" class="radar-topic-chips" style="margin-top: 8px; display: flex; flex-wrap: wrap; gap: 8px;">
-                        <!-- Dynamic chips -->
-                    </div>
-                </div>
+                </details>
 
                 <div class="lobby-card" style="display: none;">
                     <h3 id="label-select-lang">Select Language</h3>
@@ -191,12 +196,12 @@
                     
                     <!-- Presets Grid Container -->
                     <div class="preset-volumes-container">
-                        <div class="settings-section-title" style="display: flex; justify-content: space-between; align-items: center;">
+                        <div class="settings-section-title" id="preset-volume-trigger" style="display: flex; justify-content: space-between; align-items: center; cursor: pointer; user-select: none; background: rgba(88, 166, 255, 0.08); padding: 8px 12px; border-radius: 10px; border: 1px solid rgba(88, 166, 255, 0.25);">
                             <span>🎯 <span id="txt-preset-volume">Volume Preset</span></span>
-                            <span class="preset-active-badge"><span id="lbl-questions-count">Questions:</span> <span id="val-count">100</span></span>
+                            <span class="preset-active-badge" style="display: flex; align-items: center; gap: 6px;"><span id="lbl-questions-count">Questions:</span> <span id="val-count">100</span> <i id="preset-dropdown-chevron" class="fas fa-chevron-down" style="font-size: 0.75rem; color: var(--quiz-muted); transition: transform 0.2s;"></i></span>
                         </div>
                         
-                        <div class="preset-tiers-wrapper">
+                        <div class="preset-tiers-wrapper" id="preset-tiers-wrapper" style="display: none; margin-top: 10px;">
                             <!-- TIER 1: BLITZ -->
                             <div class="preset-tier tier-blitz">
                                 <div class="preset-tier-header">

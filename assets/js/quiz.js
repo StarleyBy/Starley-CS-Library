@@ -1264,6 +1264,19 @@ async function updateWeakSpotRadar() {
 
     drawRadarChart(topicsArray);
     radarCard.style.display = 'block';
+    if (!radarCard.dataset.collapsibleInit) {
+        radarCard.dataset.collapsibleInit = 'true';
+        radarCard.open = localStorage.getItem('starley_quiz_radar_open') === 'true';
+        const updateIcon = () => {
+            const icon = radarCard.querySelector('.radar-toggle-icon i');
+            if (icon) icon.className = radarCard.open ? 'fas fa-chevron-down' : 'fas fa-chevron-right';
+        };
+        updateIcon();
+        radarCard.addEventListener('toggle', () => {
+            localStorage.setItem('starley_quiz_radar_open', radarCard.open ? 'true' : 'false');
+            updateIcon();
+        });
+    }
 }
 
 function drawRadarChart(topicsArray) {
@@ -1609,7 +1622,12 @@ async function updateSliderForSelectedSets() {
 
     const startBtn = document.getElementById('btn-start-quiz');
     if (startBtn) {
-        startBtn.disabled = state.selectedSets.length === 0;
+        const isDis = state.selectedSets.length === 0;
+        startBtn.disabled = isDis;
+        const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+        startBtn.title = isDis ? (isRu ? 'Выберите хотя бы один сборник для старта' : 'Please select at least one set to start') : '';
+        startBtn.style.opacity = isDis ? '0.55' : '1';
+        startBtn.style.cursor = isDis ? 'not-allowed' : 'pointer';
     }
     
     // Update Spaced Repetition Radar / Mastery dashboard on selected sets change
@@ -1891,7 +1909,12 @@ async function updateSliderForTaxonomy() {
 
     const startBtn = document.getElementById('btn-start-quiz');
     if (startBtn) {
-        startBtn.disabled = totalQs === 0;
+        const isDis = totalQs === 0;
+        startBtn.disabled = isDis;
+        const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+        startBtn.title = isDis ? (isRu ? 'Выберите хотя бы одну тему для старта' : 'Please select at least one topic to start') : '';
+        startBtn.style.opacity = isDis ? '0.55' : '1';
+        startBtn.style.cursor = isDis ? 'not-allowed' : 'pointer';
     }
 }
 
@@ -1922,23 +1945,13 @@ function applyQuestionSourceMode(mode) {
     if (isTax) {
         if (!state.taxonomy) {
             loadQuizTaxonomy().then(() => {
-                if ((!state.selectedTaxonomyTopics || state.selectedTaxonomyTopics.size === 0) && state.taxonomy && state.taxonomy.topics) {
-                    if (!state.selectedTaxonomyTopics) state.selectedTaxonomyTopics = new Set();
-                    state.taxonomy.topics
-                        .filter(t => t.disciplineId === 'adult_cardiac')
-                        .forEach(t => state.selectedTaxonomyTopics.add(t.id));
-                }
+                if (!state.selectedTaxonomyTopics) state.selectedTaxonomyTopics = new Set();
                 renderTaxonomySelector();
                 updateSliderForTaxonomy();
                 updateWeakSpotRadar();
             });
         } else {
-            if ((!state.selectedTaxonomyTopics || state.selectedTaxonomyTopics.size === 0) && state.taxonomy && state.taxonomy.topics) {
-                if (!state.selectedTaxonomyTopics) state.selectedTaxonomyTopics = new Set();
-                state.taxonomy.topics
-                    .filter(t => t.disciplineId === 'adult_cardiac')
-                    .forEach(t => state.selectedTaxonomyTopics.add(t.id));
-            }
+            if (!state.selectedTaxonomyTopics) state.selectedTaxonomyTopics = new Set();
             renderTaxonomySelector();
             updateSliderForTaxonomy();
             updateWeakSpotRadar();
@@ -3209,6 +3222,18 @@ function setupLobbyListeners() {
     updateModeSelector();
     initChecklistWidget();
 
+    const presetTrigger = document.getElementById('preset-volume-trigger');
+    if (presetTrigger) {
+        presetTrigger.onclick = () => {
+            const wrapper = document.getElementById('preset-tiers-wrapper');
+            const chevron = document.getElementById('preset-dropdown-chevron');
+            if (!wrapper) return;
+            const isOpen = wrapper.style.display !== 'none';
+            wrapper.style.display = isOpen ? 'none' : 'block';
+            if (chevron) chevron.style.transform = isOpen ? 'rotate(0deg)' : 'rotate(180deg)';
+        };
+    }
+
     const presetBtns = document.querySelectorAll('.preset-badge-btn');
     presetBtns.forEach(btn => {
         btn.onclick = () => {
@@ -3225,6 +3250,15 @@ function setupLobbyListeners() {
             if (slider) {
                 slider.value = state.settings.count;
             }
+
+            try {
+                localStorage.setItem('starley_quiz_preset_count', countAttr);
+            } catch(e) {}
+
+            const wrapper = document.getElementById('preset-tiers-wrapper');
+            if (wrapper) wrapper.style.display = 'none';
+            const chevron = document.getElementById('preset-dropdown-chevron');
+            if (chevron) chevron.style.transform = 'rotate(0deg)';
 
             updatePresetBadgeActiveState();
             if (typeof updateChecklistStatus === 'function') updateChecklistStatus();
@@ -3308,7 +3342,10 @@ async function startQuiz() {
     const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
 
     if (state.questionSourceMode === 'manifest') {
-        if (!state.selectedSets || state.selectedSets.length === 0) return;
+        if (!state.selectedSets || state.selectedSets.length === 0) {
+            alert(isRu ? 'Пожалуйста, выберите хотя бы один сборник вопросов!' : 'Please select at least one question set!');
+            return;
+        }
     } else {
         if (!state.selectedTaxonomyTopics || state.selectedTaxonomyTopics.size === 0) {
             alert(isRu ? 'Пожалуйста, выберите хотя бы одну клиническую тему!' : 'Please select at least one clinical topic!');
