@@ -3618,6 +3618,8 @@ function initAndStartSessionTimer() {
         }
     } catch (e) {}
 
+    // Initialize with Phase 0 visual particles
+    spawnTimerParticles(0);
     updateSessionTimerUI();
 
     // 250ms tick loop based on performance.now to prevent background drift
@@ -3634,6 +3636,10 @@ function stopSessionTimer() {
     if (state.sessionTimer && state.sessionTimer.tickId) {
         clearInterval(state.sessionTimer.tickId);
         state.sessionTimer.tickId = null;
+    }
+    if (state.sessionTimer && state.sessionTimer.particleIntervalId) {
+        clearInterval(state.sessionTimer.particleIntervalId);
+        state.sessionTimer.particleIntervalId = null;
     }
     if (state.sessionTimer) {
         state.sessionTimer.running = false;
@@ -3701,26 +3707,30 @@ function spawnTimerParticles(phase) {
     container.innerHTML = '';
 
     const particleIcons = [
-        ['🌸', '🌼', '🌺', '🌱'], // Phase 0
-        ['🍂', '🍁', '🌾', '🍃'], // Phase 1
-        ['🩸', '💧', '🔻'],       // Phase 2
-        ['🪰', '🦟', '🪲']        // Phase 3
+        ['🌸', '🌼', '🌺', '🌱'], // Phase 0: <=70% Green (flowers bloom)
+        ['🍂', '🍁', '🌾', '🍃'], // Phase 1: 70-90% Yellow (autumn leaves fall)
+        ['🩸', '💧', '🔻'],       // Phase 2: 90-100% Red (blood drops fall)
+        ['🪰', '🦟', '🪲']        // Phase 3: >100% Brown (flies buzzing around)
     ];
     const icons = particleIcons[phase] || particleIcons[0];
     const particleClass = ['p-bloom', 'p-leaf', 'p-drop', 'p-fly'][phase] || 'p-bloom';
-    const count = Math.min(8, icons.length * 2);
+    const count = phase === 3 ? 6 : 8;
 
     for (let i = 0; i < count; i++) {
         const span = document.createElement('span');
         span.className = `tm-particle ${particleClass}`;
         span.textContent = icons[i % icons.length];
-        const tx = (Math.random() * 60 - 30).toFixed(1) + 'px';
+        const tx = (Math.random() * 50 - 25).toFixed(1) + 'px';
+        const delay = (i * 0.25).toFixed(2) + 's';
         span.style.setProperty('--tx', tx);
-        span.style.left = `${15 + Math.random() * 70}%`;
-        span.style.top = `${20 + Math.random() * 60}%`;
+        span.style.animationDelay = delay;
+        span.style.left = `${10 + Math.random() * 80}%`;
+        span.style.top = `${15 + Math.random() * 70}%`;
         container.appendChild(span);
         if (phase !== 3) {
-            setTimeout(() => span.remove(), 3000);
+            setTimeout(() => {
+                if (span.parentNode) span.remove();
+            }, 3500 + i * 250);
         }
     }
 }
