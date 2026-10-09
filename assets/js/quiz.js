@@ -24,6 +24,17 @@ const state = {
     activeTopicFilter: null,
     timerInterval: null,
     timeRemaining: 60,
+    // Quiz V2 Session Engine additions
+    deck: [], // Dynamic array of question indices/cards [0, 1, 2, ...]
+    skipped: new Set(), // Set of question IDs currently skipped
+    sessionTimer: {
+        limitSec: 0,
+        elapsedMs: 0,
+        running: false,
+        startedAt: 0,
+        phase: 0,
+        tickId: null
+    },
     searchIndex: [],
     isIndexing: false,
     selectedSets: [],
@@ -1264,6 +1275,19 @@ async function updateWeakSpotRadar() {
 
     drawRadarChart(topicsArray);
     radarCard.style.display = 'block';
+    if (!radarCard.dataset.collapsibleInit) {
+        radarCard.dataset.collapsibleInit = 'true';
+        radarCard.open = localStorage.getItem('starley_quiz_radar_open') === 'true';
+        const updateIcon = () => {
+            const icon = radarCard.querySelector('.radar-toggle-icon i');
+            if (icon) icon.className = radarCard.open ? 'fas fa-chevron-down' : 'fas fa-chevron-right';
+        };
+        updateIcon();
+        radarCard.addEventListener('toggle', () => {
+            localStorage.setItem('starley_quiz_radar_open', radarCard.open ? 'true' : 'false');
+            updateIcon();
+        });
+    }
 }
 
 function drawRadarChart(topicsArray) {
@@ -1609,7 +1633,12 @@ async function updateSliderForSelectedSets() {
 
     const startBtn = document.getElementById('btn-start-quiz');
     if (startBtn) {
-        startBtn.disabled = state.selectedSets.length === 0;
+        const isDis = state.selectedSets.length === 0;
+        startBtn.disabled = isDis;
+        const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+        startBtn.title = isDis ? (isRu ? 'Выберите хотя бы один сборник для старта' : 'Please select at least one set to start') : '';
+        startBtn.style.opacity = isDis ? '0.55' : '1';
+        startBtn.style.cursor = isDis ? 'not-allowed' : 'pointer';
     }
     
     // Update Spaced Repetition Radar / Mastery dashboard on selected sets change
@@ -1891,7 +1920,12 @@ async function updateSliderForTaxonomy() {
 
     const startBtn = document.getElementById('btn-start-quiz');
     if (startBtn) {
-        startBtn.disabled = totalQs === 0;
+        const isDis = totalQs === 0;
+        startBtn.disabled = isDis;
+        const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+        startBtn.title = isDis ? (isRu ? 'Выберите хотя бы одну тему для старта' : 'Please select at least one topic to start') : '';
+        startBtn.style.opacity = isDis ? '0.55' : '1';
+        startBtn.style.cursor = isDis ? 'not-allowed' : 'pointer';
     }
 }
 
@@ -1922,23 +1956,13 @@ function applyQuestionSourceMode(mode) {
     if (isTax) {
         if (!state.taxonomy) {
             loadQuizTaxonomy().then(() => {
-                if ((!state.selectedTaxonomyTopics || state.selectedTaxonomyTopics.size === 0) && state.taxonomy && state.taxonomy.topics) {
-                    if (!state.selectedTaxonomyTopics) state.selectedTaxonomyTopics = new Set();
-                    state.taxonomy.topics
-                        .filter(t => t.disciplineId === 'adult_cardiac')
-                        .forEach(t => state.selectedTaxonomyTopics.add(t.id));
-                }
+                if (!state.selectedTaxonomyTopics) state.selectedTaxonomyTopics = new Set();
                 renderTaxonomySelector();
                 updateSliderForTaxonomy();
                 updateWeakSpotRadar();
             });
         } else {
-            if ((!state.selectedTaxonomyTopics || state.selectedTaxonomyTopics.size === 0) && state.taxonomy && state.taxonomy.topics) {
-                if (!state.selectedTaxonomyTopics) state.selectedTaxonomyTopics = new Set();
-                state.taxonomy.topics
-                    .filter(t => t.disciplineId === 'adult_cardiac')
-                    .forEach(t => state.selectedTaxonomyTopics.add(t.id));
-            }
+            if (!state.selectedTaxonomyTopics) state.selectedTaxonomyTopics = new Set();
             renderTaxonomySelector();
             updateSliderForTaxonomy();
             updateWeakSpotRadar();
@@ -2627,19 +2651,27 @@ window.setAppLanguage = function(lang) {
         btnRu.classList.toggle('active', lang === 'Ru');
     }
 
-    document.querySelectorAll('.global-lang-btn .txt-lang-code').forEach(el => {
-        el.textContent = lang;
-    });
-
     const isRu = lang === 'Ru';
+
+    if (typeof window.applyQuizI18n === 'function') {
+        window.applyQuizI18n(lang);
+    } else {
+        document.querySelectorAll('.global-lang-btn .txt-lang-code').forEach(el => {
+            el.textContent = lang;
+        });
+    }
 
     const headerLangBtn = document.getElementById('txt-header-lang-btn');
     if (headerLangBtn) headerLangBtn.textContent = isRu ? '🇷🇺 RU' : '🇬🇧 EN';
     const cabLangBtn = document.getElementById('txt-cab-lang-btn');
-    if (cabLangBtn) cabLangBtn.textContent = isRu ? '🌐 RU' : '🌐 EN';
+    if (cabLangBtn) {
+        const flagSvg = (window.StarleyQuizFlags && window.StarleyQuizFlags[lang]) ? window.StarleyQuizFlags[lang] : (isRu ? '🇷🇺' : '🇬🇧');
+        cabLangBtn.innerHTML = `${flagSvg} <span style="font-weight:700;margin-left:4px;">${lang}</span>`;
+    }
 
     if (typeof window.updateAllLobbyLabels === 'function') window.updateAllLobbyLabels();
     if (typeof window.updateCabinetLabels === 'function') window.updateCabinetLabels();
+    if (typeof window.updateAllModalLabels === 'function') window.updateAllModalLabels(isRu);
     if (typeof window.updateUserProfileDisplay === 'function') window.updateUserProfileDisplay();
     if (typeof updateChecklistStatus === 'function') updateChecklistStatus();
 
@@ -3017,6 +3049,115 @@ function setupLobbyListeners() {
         if (typeof updateAuthButtonsUI === 'function') updateAuthButtonsUI();
     };
     window.updateCabinetLabels = updateCabinetLabels;
+
+    const updateAllModalLabels = (isRu) => {
+        // 1. Top navigation strip pills
+        const navMap = {
+            'index.html': isRu ? '📚 Библиотека' : '📚 Library',
+            'highlights.html': isRu ? '🔖 Закладки' : '🔖 Highlights',
+            'search/search.html': isRu ? '🔍 Поиск' : '🔍 Search',
+            'quiz.html': isRu ? '🧠 Квиз' : '🧠 Quiz',
+            'magazine.html': isRu ? '📰 Журнал' : '📰 Magazine',
+            'editor.html': isRu ? '✏️ Редактор' : '✏️ Editor',
+            'manifest-editor.html': isRu ? '🛠️ Манифест' : '🛠️ Manifest'
+        };
+        document.querySelectorAll('.quiz-nav-strip a.nav-pill').forEach(a => {
+            const href = a.getAttribute('href');
+            if (href && navMap[href]) a.textContent = navMap[href];
+        });
+
+        // 2. Report Modal
+        const txtReportTitle = document.getElementById('txt-report-title');
+        if (txtReportTitle) txtReportTitle.textContent = isRu ? 'Сообщить об ошибке / Отзыв' : 'Report Question / Admin Feedback';
+        const lblReportReason = document.getElementById('lbl-report-reason');
+        if (lblReportReason) lblReportReason.textContent = isRu ? 'Категория проблемы' : 'Issue Type';
+        const selReason = document.getElementById('select-report-reason');
+        if (selReason && selReason.options) {
+            const reasonTexts = {
+                'answer_disagree': isRu ? 'Неверный правильный ответ / Не согласен' : 'Incorrect correct answer / Disagree with answer',
+                'typo_error': isRu ? 'Опечатка / Ошибка перевода в вопросе' : 'Typo / Translation error in question',
+                'missing_explanation': isRu ? 'Непонятное или отсутствующее объяснение' : 'Unclear or missing clinical explanation',
+                'broken_image': isRu ? 'Битая картинка или форматирование' : 'Broken image or formatting issue',
+                'other': isRu ? 'Другой отзыв' : 'Other feedback'
+            };
+            for (let i = 0; i < selReason.options.length; i++) {
+                const opt = selReason.options[i];
+                if (reasonTexts[opt.value]) opt.textContent = reasonTexts[opt.value];
+            }
+        }
+        const lblReportComment = document.getElementById('lbl-report-comment');
+        if (lblReportComment) lblReportComment.textContent = isRu ? 'Ваш комментарий / Клиническое обоснование' : 'Your Comment / Clinical Rationale';
+        const inputReportComment = document.getElementById('input-report-comment');
+        if (inputReportComment) inputReportComment.placeholder = isRu ? 'Опишите проблему или приведите клиническое обоснование (например, по гайдлайнам ESC 2023...)...' : 'Describe the issue or provide clinical rationale (e.g. According to ESC 2023 guidelines...)...';
+        const lblSubmitReportBtn = document.getElementById('lbl-submit-report-btn');
+        if (lblSubmitReportBtn) lblSubmitReportBtn.textContent = isRu ? 'Отправить отзыв' : 'Send Feedback';
+
+        // 3. Session Detail Modal
+        const lblSessDetailTitle = document.getElementById('lbl-session-detail-title');
+        if (lblSessDetailTitle) lblSessDetailTitle.textContent = isRu ? '📜 Обзор сессии тестирования' : '📜 Test Session Overview';
+        const lblSessBreakdownTitle = document.getElementById('lbl-sess-breakdown-title');
+        if (lblSessBreakdownTitle) lblSessBreakdownTitle.textContent = isRu ? 'Детализация вопросов и ответов' : 'Question & Answer Breakdown';
+        const btnFilterErrors = document.getElementById('btn-filter-sess-errors');
+        if (btnFilterErrors) btnFilterErrors.textContent = isRu ? 'Только ошибки' : 'Errors Only';
+        const btnFilterAll = document.getElementById('btn-filter-sess-all');
+        if (btnFilterAll) btnFilterAll.textContent = isRu ? 'Все вопросы' : 'All Questions';
+        const btnRetestErrors = document.getElementById('btn-retest-session-errors');
+        if (btnRetestErrors) btnRetestErrors.innerHTML = (isRu ? '🚀 Повторить вопросы с ошибками' : '🚀 Retest Incorrect Questions');
+        const btnCloseSessDetail = document.getElementById('btn-close-sess-detail-footer');
+        if (btnCloseSessDetail) btnCloseSessDetail.textContent = isRu ? 'Закрыть' : 'Close';
+
+        // 4. Playlist Picker Modal
+        const txtPlPickerTitle = document.getElementById('txt-pl-picker-title');
+        if (txtPlPickerTitle) txtPlPickerTitle.textContent = isRu ? 'Добавить в сборник вопросов' : 'Add to Question Collection';
+        const lblPlPickerSubtitle = document.getElementById('lbl-pl-picker-subtitle');
+        if (lblPlPickerSubtitle) lblPlPickerSubtitle.textContent = isRu ? 'Выберите сборник вопросов (1-10):' : 'Select Question Collection (1-10):';
+
+        // 5. Playlist Editor Modal
+        const txtPlEditorTitle = document.getElementById('txt-pl-editor-title');
+        if (txtPlEditorTitle) txtPlEditorTitle.textContent = isRu ? 'Редактирование Сборника Вопросов' : 'Edit Question Collection';
+        const lblPlNameInput = document.getElementById('lbl-pl-name-input');
+        if (lblPlNameInput) lblPlNameInput.textContent = isRu ? 'Название сборника' : 'Collection Name';
+        const inputPlEditorName = document.getElementById('input-pl-editor-name');
+        if (inputPlEditorName) inputPlEditorName.placeholder = isRu ? 'Введите название...' : 'Enter collection name...';
+        const lblPlIconPicker = document.getElementById('lbl-pl-icon-picker');
+        if (lblPlIconPicker) lblPlIconPicker.textContent = isRu ? 'Выбор Иконки (1 из 20)' : 'Select Icon (1 of 20)';
+        const lblPlEditorQList = document.getElementById('lbl-pl-editor-q-list');
+        const plEditorQCount = document.getElementById('pl-editor-q-count');
+        if (lblPlEditorQList && plEditorQCount) {
+            lblPlEditorQList.innerHTML = (isRu ? 'Вопросы в сборнике' : 'Questions in collection') + ` (<span id="pl-editor-q-count">${plEditorQCount.textContent}</span>)`;
+        }
+        const lblPlAddQTitle = document.getElementById('lbl-pl-add-q-title');
+        if (lblPlAddQTitle) lblPlAddQTitle.textContent = isRu ? '➕ Добавить вопрос в сборник' : '➕ Add question to collection';
+        const lblPlSelectManifest = document.getElementById('lbl-pl-select-manifest');
+        if (lblPlSelectManifest) lblPlSelectManifest.textContent = isRu ? '1. Выберите тему (манифест):' : '1. Select topic (manifest):';
+        const lblPlSelectQuestion = document.getElementById('lbl-pl-select-question');
+        if (lblPlSelectQuestion) lblPlSelectQuestion.textContent = isRu ? '2. Выберите конкретный вопрос:' : '2. Select specific question:';
+        const btnPlEditorAddQ = document.getElementById('btn-pl-editor-add-q');
+        if (btnPlEditorAddQ) btnPlEditorAddQ.innerHTML = (isRu ? '➕ Добавить выбранный вопрос' : '➕ Add selected question');
+        const btnPlEditorClear = document.getElementById('btn-pl-editor-clear');
+        if (btnPlEditorClear) btnPlEditorClear.innerHTML = (isRu ? '🗑️ Очистить вопросы' : '🗑️ Clear questions');
+        const btnPlEditorSave = document.getElementById('btn-pl-editor-save');
+        if (btnPlEditorSave) btnPlEditorSave.innerHTML = (isRu ? '💾 Сохранить' : '💾 Save');
+
+        // 6. RPG Codex Modal & Attribute Diagnostic Modal
+        const txtCodexTitle = document.getElementById('txt-codex-title');
+        if (txtCodexTitle) txtCodexTitle.textContent = isRu ? 'Атлас 100 рангов и наград' : 'Atlas of 100 Ranks & Rewards';
+        const rpgAttrModalTitle = document.getElementById('rpg-attr-modal-title');
+        if (rpgAttrModalTitle) {
+            rpgAttrModalTitle.innerHTML = `<span>🧬</span> <span>${isRu ? 'Диагностика клинического навыка' : 'Clinical Skill Diagnostics'}</span>`;
+        }
+
+        // 7. Results screen buttons and headings
+        const resSummaryTitle = document.getElementById('res-summary-title');
+        if (resSummaryTitle) resSummaryTitle.textContent = isRu ? 'Результаты сессии' : 'Session Results';
+        const resBtnReview = document.getElementById('btn-res-review');
+        if (resBtnReview) resBtnReview.textContent = isRu ? 'Разбор ошибок' : 'Review Errors';
+        const resBtnRestart = document.getElementById('btn-res-restart');
+        if (resBtnRestart) resBtnRestart.textContent = isRu ? 'Пройти снова' : 'Retake Quiz';
+        const resBtnLobby = document.getElementById('btn-res-lobby');
+        if (resBtnLobby) resBtnLobby.textContent = isRu ? 'В меню квизов' : 'Back to Lobby';
+    };
+    window.updateAllModalLabels = updateAllModalLabels;
     
     btnEn.onclick = () => window.setAppLanguage('En');
     btnRu.onclick = () => window.setAppLanguage('Ru');
@@ -3092,6 +3233,18 @@ function setupLobbyListeners() {
     updateModeSelector();
     initChecklistWidget();
 
+    const presetTrigger = document.getElementById('preset-volume-trigger');
+    if (presetTrigger) {
+        presetTrigger.onclick = () => {
+            const wrapper = document.getElementById('preset-tiers-wrapper');
+            const chevron = document.getElementById('preset-dropdown-chevron');
+            if (!wrapper) return;
+            const isOpen = wrapper.style.display !== 'none';
+            wrapper.style.display = isOpen ? 'none' : 'block';
+            if (chevron) chevron.style.transform = isOpen ? 'rotate(0deg)' : 'rotate(180deg)';
+        };
+    }
+
     const presetBtns = document.querySelectorAll('.preset-badge-btn');
     presetBtns.forEach(btn => {
         btn.onclick = () => {
@@ -3108,6 +3261,15 @@ function setupLobbyListeners() {
             if (slider) {
                 slider.value = state.settings.count;
             }
+
+            try {
+                localStorage.setItem('starley_quiz_preset_count', countAttr);
+            } catch(e) {}
+
+            const wrapper = document.getElementById('preset-tiers-wrapper');
+            if (wrapper) wrapper.style.display = 'none';
+            const chevron = document.getElementById('preset-dropdown-chevron');
+            if (chevron) chevron.style.transform = 'rotate(0deg)';
 
             updatePresetBadgeActiveState();
             if (typeof updateChecklistStatus === 'function') updateChecklistStatus();
@@ -3191,7 +3353,10 @@ async function startQuiz() {
     const isRu = (state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
 
     if (state.questionSourceMode === 'manifest') {
-        if (!state.selectedSets || state.selectedSets.length === 0) return;
+        if (!state.selectedSets || state.selectedSets.length === 0) {
+            alert(isRu ? 'Пожалуйста, выберите хотя бы один сборник вопросов!' : 'Please select at least one question set!');
+            return;
+        }
     } else {
         if (!state.selectedTaxonomyTopics || state.selectedTaxonomyTopics.size === 0) {
             alert(isRu ? 'Пожалуйста, выберите хотя бы одну клиническую тему!' : 'Please select at least one clinical topic!');
@@ -3355,10 +3520,16 @@ async function startQuiz() {
             state.questions = finalQuestions;
         }
 
+        // Initialize Card Deck Queue: state.deck contains array of indices [0, 1, ..., N-1]
+        state.deck = Array.from({ length: state.questions.length }, (_, i) => i);
+        state.skipped = new Set();
         state.currentIndex = 0;
         state.score = 0;
         state.answers = [];
         state.startTime = Date.now();
+
+        // Initialize and Start Whole-Session Timer (N * 60 seconds)
+        initAndStartSessionTimer();
 
         document.getElementById('exp-title-text').textContent = isRu ? 'Клиническое объяснение' : 'Clinical Explanation';
         document.getElementById('exp-picker-label').textContent = isRu ? 'Выберите главу для открытия:' : 'Select chapter to open:';
@@ -3367,37 +3538,212 @@ async function startQuiz() {
         document.getElementById('exam-errors-section').style.display = 'none';
         switchScreen('screen-question');
         renderQuestion();
-        
-        if (state.settings.exam) {
-            document.getElementById('quiz-timer').style.display = 'flex';
-            startExamTimer();
-        } else {
-            document.getElementById('quiz-timer').style.display = 'none';
-        }
+
+        // Legacy timer display compatibility
+        const legacyTimer = document.getElementById('quiz-timer');
+        if (legacyTimer) legacyTimer.style.display = 'none';
 
     } catch (err) {
         alert('Failed to load quiz questions: ' + err.message);
     }
 }
 
-function startExamTimer() {
-    if (state.timerInterval) {
-        clearInterval(state.timerInterval);
-    }
-    state.timeRemaining = 60;
-    const timerVal = document.getElementById('timer-val');
-    if (timerVal) timerVal.textContent = state.timeRemaining;
+/* ==========================================================================
+   QUIZ V2: WHOLE-SESSION TIMER ENGINE & WEBAUDIO CLICK
+   ========================================================================== */
+let _quizAudioContext = null;
 
-    state.timerInterval = setInterval(() => {
-        state.timeRemaining--;
-        if (timerVal) timerVal.textContent = state.timeRemaining;
-
-        if (state.timeRemaining <= 0) {
-            clearInterval(state.timerInterval);
-            submitAnswer(true);
+function playTimerTransitionClick() {
+    if (state.isMuted) return;
+    try {
+        const AudioCtx = window.AudioContext || window.webkitAudioContext;
+        if (!AudioCtx) return;
+        if (!_quizAudioContext) {
+            _quizAudioContext = new AudioCtx();
         }
-    }, 1000);
+        if (_quizAudioContext.state === 'suspended') {
+            _quizAudioContext.resume().catch(() => {});
+        }
+        const osc = _quizAudioContext.createOscillator();
+        const gain = _quizAudioContext.createGain();
+        osc.type = 'square';
+        osc.frequency.setValueAtTime(880, _quizAudioContext.currentTime);
+        gain.gain.setValueAtTime(0.12, _quizAudioContext.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.0001, _quizAudioContext.currentTime + 0.05);
+        osc.connect(gain);
+        gain.connect(_quizAudioContext.destination);
+        osc.start();
+        osc.stop(_quizAudioContext.currentTime + 0.06);
+    } catch (e) {}
 }
+
+function calculateTimerPhase(elapsedSec, limitSec) {
+    if (!limitSec || limitSec <= 0) return 0;
+    const ratio = elapsedSec / limitSec;
+    if (ratio <= 0.70) return 0; // Phase 0: <=70% Green (flowers)
+    if (ratio <= 0.90) return 1; // Phase 1: 70-90% Yellow (leaves)
+    if (ratio <= 1.00) return 2; // Phase 2: 90-100% Red (blood drops)
+    return 3;                    // Phase 3: >100% Brown (flies, overtime counting up)
+}
+
+function formatSessionTime(sec) {
+    const s = Math.max(0, Math.floor(sec));
+    const m = Math.floor(s / 60);
+    const remS = s % 60;
+    return `${m}:${String(remS).padStart(2, '0')}`;
+}
+
+function initAndStartSessionTimer() {
+    stopSessionTimer();
+    const count = (state.questions && state.questions.length) ? state.questions.length : (state.settings.count || 10);
+    const limitSec = count * 60; // N * 60 seconds
+
+    state.sessionTimer = {
+        limitSec: limitSec,
+        elapsedMs: 0,
+        running: true,
+        startedAt: performance.now(),
+        phase: 0,
+        tickId: null
+    };
+
+    // Unlock WebAudio on user gesture
+    try {
+        const AudioCtx = window.AudioContext || window.webkitAudioContext;
+        if (AudioCtx && !_quizAudioContext) {
+            _quizAudioContext = new AudioCtx();
+        }
+        if (_quizAudioContext && _quizAudioContext.state === 'suspended') {
+            _quizAudioContext.resume().catch(() => {});
+        }
+    } catch (e) {}
+
+    // Initialize with Phase 0 visual particles
+    spawnTimerParticles(0);
+    updateSessionTimerUI();
+
+    // 250ms tick loop based on performance.now to prevent background drift
+    state.sessionTimer.tickId = setInterval(() => {
+        if (!state.sessionTimer.running) return;
+        const now = performance.now();
+        state.sessionTimer.elapsedMs += (now - state.sessionTimer.startedAt);
+        state.sessionTimer.startedAt = now;
+        updateSessionTimerUI();
+    }, 250);
+}
+
+function stopSessionTimer() {
+    if (state.sessionTimer && state.sessionTimer.tickId) {
+        clearInterval(state.sessionTimer.tickId);
+        state.sessionTimer.tickId = null;
+    }
+    if (state.sessionTimer && state.sessionTimer.particleIntervalId) {
+        clearInterval(state.sessionTimer.particleIntervalId);
+        state.sessionTimer.particleIntervalId = null;
+    }
+    if (state.sessionTimer) {
+        state.sessionTimer.running = false;
+    }
+}
+
+function toggleSessionTimerPause() {
+    if (!state.sessionTimer) return;
+    // Strict requirement: in Exam Sim mode, pause is forbidden
+    if (state.sessionMode === 'exam' || state.settings.exam) {
+        const isRu = state.settings.lang === 'Ru';
+        showToast(isRu ? 'В режиме экзамена пауза запрещена!' : 'Pause is disabled in Exam Simulation mode!');
+        return;
+    }
+
+    const st = state.sessionTimer;
+    if (st.running) {
+        st.elapsedMs += (performance.now() - st.startedAt);
+        st.running = false;
+    } else {
+        st.startedAt = performance.now();
+        st.running = true;
+    }
+    updateSessionTimerUI();
+}
+
+function updateSessionTimerUI() {
+    const st = state.sessionTimer;
+    if (!st) return;
+
+    const elapsedSec = st.elapsedMs / 1000;
+    const newPhase = calculateTimerPhase(elapsedSec, st.limitSec);
+
+    // If phase transitioned, emit click sound and spawn particles
+    if (newPhase !== st.phase) {
+        st.phase = newPhase;
+        playTimerTransitionClick();
+        spawnTimerParticles(newPhase);
+    }
+
+    const timerBtn = document.getElementById('quiz-session-timer');
+    const timerTxt = document.getElementById('quiz-session-timer-text');
+    const timerStatus = document.getElementById('quiz-session-timer-status');
+    const legacyVal = document.getElementById('timer-val');
+
+    if (timerBtn) {
+        timerBtn.setAttribute('data-ph', String(st.phase));
+        if (st.running) {
+            timerBtn.classList.remove('paused');
+            if (timerStatus) timerStatus.style.display = 'none';
+        } else {
+            timerBtn.classList.add('paused');
+            if (timerStatus) timerStatus.style.display = 'inline-block';
+        }
+    }
+
+    const formattedTime = formatSessionTime(elapsedSec);
+    if (timerTxt) timerTxt.textContent = formattedTime;
+    if (legacyVal) legacyVal.textContent = Math.round(Math.max(0, st.limitSec - elapsedSec));
+}
+
+function spawnTimerParticles(phase) {
+    const container = document.getElementById('quiz-session-timer-particles');
+    if (!container) return;
+    container.innerHTML = '';
+
+    const particleIcons = [
+        ['🌸', '🌼', '🌺', '🌱'], // Phase 0: <=70% Green (flowers bloom)
+        ['🍂', '🍁', '🌾', '🍃'], // Phase 1: 70-90% Yellow (autumn leaves fall)
+        ['🩸', '💧', '🔻'],       // Phase 2: 90-100% Red (blood drops fall)
+        ['🪰', '🦟', '🪲']        // Phase 3: >100% Brown (flies buzzing around)
+    ];
+    const icons = particleIcons[phase] || particleIcons[0];
+    const particleClass = ['p-bloom', 'p-leaf', 'p-drop', 'p-fly'][phase] || 'p-bloom';
+    const count = phase === 3 ? 6 : 8;
+
+    for (let i = 0; i < count; i++) {
+        const span = document.createElement('span');
+        span.className = `tm-particle ${particleClass}`;
+        span.textContent = icons[i % icons.length];
+        const tx = (Math.random() * 50 - 25).toFixed(1) + 'px';
+        const delay = (i * 0.25).toFixed(2) + 's';
+        span.style.setProperty('--tx', tx);
+        span.style.animationDelay = delay;
+        span.style.left = `${10 + Math.random() * 80}%`;
+        span.style.top = `${15 + Math.random() * 70}%`;
+        container.appendChild(span);
+        if (phase !== 3) {
+            setTimeout(() => {
+                if (span.parentNode) span.remove();
+            }, 3500 + i * 250);
+        }
+    }
+}
+
+// Preserve mobile timer accuracy on tab visibility changes
+document.addEventListener('visibilitychange', () => {
+    if (state.sessionTimer && state.sessionTimer.running) {
+        const now = performance.now();
+        state.sessionTimer.elapsedMs += (now - state.sessionTimer.startedAt);
+        state.sessionTimer.startedAt = now;
+        updateSessionTimerUI();
+    }
+});
 
 function renderQuestion() {
     window.dispatchEvent(new CustomEvent('quiz:questionChanged'));
@@ -3410,6 +3756,21 @@ function renderQuestion() {
     document.getElementById('q-total').textContent = state.questions.length;
     document.getElementById('q-progress-fill').style.width = `${((state.currentIndex) / state.questions.length) * 100}%`;
     
+    // Update CD Navigation Bottom Bar Indicators
+    const cdNum = document.getElementById('cd-track-num');
+    const cdTotal = document.getElementById('cd-track-total');
+    if (cdNum) cdNum.textContent = state.currentIndex + 1;
+    if (cdTotal) cdTotal.textContent = state.questions.length;
+
+    const currentAnswer = state.answers && state.answers[state.currentIndex];
+    const isAlreadyAnswered = currentAnswer && currentAnswer.chosen != null;
+
+    const btnSkip = document.getElementById('btn-quiz-skip');
+    if (btnSkip) {
+        btnSkip.disabled = isAlreadyAnswered;
+        btnSkip.style.opacity = isAlreadyAnswered ? '0.4' : '1';
+    }
+
     const liveScoreEl = document.getElementById('q-score-live');
     liveScoreEl.textContent = (lang === 'Ru' ? 'Верно: ' : 'Correct: ') + state.score;
     liveScoreEl.style.display = state.settings.exam ? 'none' : 'block';
@@ -3517,20 +3878,37 @@ function renderQuestion() {
 
     optionsCont.innerHTML = '';
     const options = q['options' + lang] || q['optionsEn'] || q.options || {};
+    const correctChoices = (Array.isArray(q.correctAnswer) ? [...q.correctAnswer] : [q.correctAnswer]).map(String);
+    const userChoices = isAlreadyAnswered
+        ? (Array.isArray(currentAnswer.chosen) ? currentAnswer.chosen.map(String) : (currentAnswer.chosen != null ? [String(currentAnswer.chosen)] : []))
+        : [];
     
     Object.entries(options).forEach(([letter, text]) => {
         const btn = document.createElement('button');
         btn.className = 'option-btn';
         btn.innerHTML = `<span class="option-letter">${letter}</span> <span class="option-text">${_markdownToHtml(text)}</span>`;
-        btn.onclick = () => selectAnswer(letter, btn);
+        
+        if (isAlreadyAnswered) {
+            btn.disabled = true;
+            if (state.settings.exam) {
+                // In Exam Sim: show selection only, do not reveal correct/wrong until end
+                if (userChoices.includes(letter)) {
+                    btn.classList.add('selected');
+                }
+            } else {
+                if (correctChoices.includes(letter)) {
+                    btn.classList.add('correct');
+                } else if (userChoices.includes(letter)) {
+                    btn.classList.add('wrong');
+                }
+            }
+        } else {
+            btn.onclick = () => selectAnswer(letter, btn);
+        }
+
         optionsCont.appendChild(btn);
     });
     renderLatexInElement(optionsCont);
-
-    document.getElementById('q-explanation').style.display = 'none';
-    document.getElementById('exp-chapter-select').style.display = 'none';
-    
-    if (confContainer) confContainer.style.display = 'none';
 
     let submitBtnCont = document.getElementById('q-submit-container');
     if (!submitBtnCont) {
@@ -3543,14 +3921,29 @@ function renderQuestion() {
         document.getElementById('q-options').after(submitBtnCont);
         document.getElementById('btn-submit-q').onclick = () => submitAnswer(false);
     }
-    
-    submitBtnCont.style.display = q.multiAnswer ? 'flex' : 'none';
-    const submitBtn = document.getElementById('btn-submit-q');
-    submitBtn.disabled = true;
-    submitBtn.querySelector('span').textContent = lang === 'Ru' ? 'Ответить' : 'Submit Answer';
-    
-    if (state.settings.exam) {
-        startExamTimer();
+
+    if (isAlreadyAnswered) {
+        submitBtnCont.style.display = 'none';
+        if (state.settings.exam) {
+            document.getElementById('q-explanation').style.display = 'none';
+            document.getElementById('exp-chapter-select').style.display = 'none';
+            if (confContainer) confContainer.style.display = 'none';
+        } else {
+            showExplanation();
+        }
+    } else {
+        document.getElementById('q-explanation').style.display = 'none';
+        document.getElementById('exp-chapter-select').style.display = 'none';
+        if (confContainer) confContainer.style.display = 'none';
+        
+        submitBtnCont.style.display = q.multiAnswer ? 'flex' : 'none';
+        const submitBtn = document.getElementById('btn-submit-q');
+        submitBtn.disabled = true;
+        submitBtn.querySelector('span').textContent = lang === 'Ru' ? 'Ответить' : 'Submit Answer';
+        
+        if (state.settings.exam) {
+            startExamTimer();
+        }
     }
 }
 
@@ -4193,7 +4586,8 @@ window.addEventListener('popstate', () => {
 
 
 function setupQuestionListeners() {
-    document.getElementById('btn-next-q').onclick = () => {
+    // Shared Next Question handler used by both #btn-next-q and bottom CD action
+    const handleNextQuestionFlow = () => {
         const q = state.questions[state.currentIndex];
         const confContainer = document.getElementById('confidence-rating-container');
         if (confContainer && confContainer.style.display === 'block') {
@@ -4209,21 +4603,231 @@ function setupQuestionListeners() {
             }
         }
 
-        if (state.currentIndex < state.questions.length - 1) {
+        // Check if there are unanswered questions in the deck queue
+        const totalQ = state.questions.length;
+        const answeredCount = (state.answers || []).filter(a => a && a.chosen != null).length;
+
+        // If current question index in deck has a next question, step forward
+        if (state.deck && state.deck.length > 0) {
+            const currentDeckPos = state.deck.indexOf(state.currentIndex);
+            if (currentDeckPos >= 0 && currentDeckPos < state.deck.length - 1) {
+                state.currentIndex = state.deck[currentDeckPos + 1];
+                renderQuestion();
+                document.querySelector('.quiz-screen.active')?.scrollTo(0, 0);
+                return;
+            }
+        }
+
+        if (answeredCount >= totalQ) {
+            showResults();
+        } else if (state.deck && state.deck.length > 0) {
+            // Find first unanswered question in deck
+            const nextUnanswered = state.deck.find(id => !state.answers[id] || state.answers[id].chosen == null);
+            if (nextUnanswered != null) {
+                state.currentIndex = nextUnanswered;
+                renderQuestion();
+                document.querySelector('.quiz-screen.active')?.scrollTo(0, 0);
+            } else {
+                showResults();
+            }
+        } else if (state.currentIndex < totalQ - 1) {
             state.currentIndex++;
             renderQuestion();
-            document.querySelector('.quiz-screen.active').scrollTo(0,0);
+            document.querySelector('.quiz-screen.active')?.scrollTo(0, 0);
         } else {
             showResults();
         }
     };
+
+    const btnNext = document.getElementById('btn-next-q');
+    if (btnNext) btnNext.onclick = handleNextQuestionFlow;
+
+    const btnCdNext = document.getElementById('btn-cd-next-action');
+    if (btnCdNext) btnCdNext.onclick = handleNextQuestionFlow;
+
+    // CD Navigation: First, Prev, Next, Last
+    const btnNavFirst = document.getElementById('btn-nav-first');
+    if (btnNavFirst) {
+        btnNavFirst.onclick = () => {
+            if (!state.deck || state.deck.length === 0) return;
+            state.currentIndex = state.deck[0];
+            renderQuestion();
+        };
+    }
+
+    const btnNavPrev = document.getElementById('btn-nav-prev');
+    if (btnNavPrev) {
+        btnNavPrev.onclick = () => {
+            if (!state.deck || state.deck.length === 0) return;
+            const pos = state.deck.indexOf(state.currentIndex);
+            if (pos > 0) {
+                state.currentIndex = state.deck[pos - 1];
+                renderQuestion();
+            }
+        };
+    }
+
+    const btnNavNext = document.getElementById('btn-nav-next');
+    if (btnNavNext) {
+        btnNavNext.onclick = () => {
+            if (!state.deck || state.deck.length === 0) return;
+            const pos = state.deck.indexOf(state.currentIndex);
+            if (pos >= 0 && pos < state.deck.length - 1) {
+                state.currentIndex = state.deck[pos + 1];
+                renderQuestion();
+            }
+        };
+    }
+
+    const btnNavLast = document.getElementById('btn-nav-last');
+    if (btnNavLast) {
+        btnNavLast.onclick = () => {
+            if (!state.deck || state.deck.length === 0) return;
+            state.currentIndex = state.deck[state.deck.length - 1];
+            renderQuestion();
+        };
+    }
+
+    // Skip Question: push current question index to back of deck queue
+    const btnSkip = document.getElementById('btn-quiz-skip');
+    if (btnSkip) {
+        btnSkip.onclick = () => {
+            const isRu = state.settings.lang === 'Ru';
+            if (!state.deck || state.deck.length <= 1) {
+                showToast(isRu ? 'Остался один вопрос, пропустить нельзя' : 'Only one question remains, cannot skip');
+                return;
+            }
+
+            const currentQ = state.questions[state.currentIndex];
+            const qId = currentQ?.id || state.currentIndex;
+
+            // Check if already answered
+            if (state.answers && state.answers[state.currentIndex] && state.answers[state.currentIndex].chosen != null) {
+                showToast(isRu ? 'На этот вопрос уже дан ответ' : 'This question is already answered');
+                return;
+            }
+
+            if (!state.skipped) state.skipped = new Set();
+            state.skipped.add(qId);
+
+            const deckPos = state.deck.indexOf(state.currentIndex);
+            if (deckPos >= 0) {
+                state.deck.splice(deckPos, 1);
+                state.deck.push(state.currentIndex);
+            }
+
+            // Move to next available card in deck
+            const nextIdx = state.deck[deckPos < state.deck.length ? deckPos : 0];
+            state.currentIndex = nextIdx;
+
+            playSound('click');
+            triggerHaptic('click');
+            showToast(isRu ? 'Вопрос отложен в конец колоды' : 'Question skipped to end of queue');
+            renderQuestion();
+        };
+    }
+
+    // Track Picker Modal Matrix
+    const btnTrackPicker = document.getElementById('btn-nav-track-picker');
+    const modalTrack = document.getElementById('quiz-track-picker-modal');
+    const btnCloseTrack = document.getElementById('btn-close-track-picker');
+
+    if (btnTrackPicker && modalTrack) {
+        btnTrackPicker.onclick = () => {
+            renderTrackMatrix();
+            modalTrack.style.display = 'flex';
+        };
+    }
+    if (btnCloseTrack && modalTrack) {
+        btnCloseTrack.onclick = () => {
+            modalTrack.style.display = 'none';
+        };
+    }
+    if (modalTrack) {
+        modalTrack.onclick = (e) => {
+            if (e.target === modalTrack) modalTrack.style.display = 'none';
+        };
+    }
+
+    // Whole-Session Timer Tap to Pause/Resume
+    const timerBtn = document.getElementById('quiz-session-timer');
+    if (timerBtn) {
+        timerBtn.onclick = toggleSessionTimerPause;
+    }
+
+    // Overlay Tools: Calculator & Scratchpad wiring
+    const btnCalc = document.getElementById('btn-tool-calc');
+    if (btnCalc) {
+        btnCalc.onclick = () => {
+            if (window.StarleyOverlayTools && window.StarleyOverlayTools.MedicalCalc) {
+                window.StarleyOverlayTools.MedicalCalc.show();
+            } else {
+                showToast('Calculator initializing...');
+            }
+        };
+    }
+
+    const btnScratch = document.getElementById('btn-tool-scratch');
+    if (btnScratch) {
+        btnScratch.onclick = () => {
+            if (window.StarleyOverlayTools && window.StarleyOverlayTools.Scratchpad) {
+                window.StarleyOverlayTools.Scratchpad.show();
+            } else {
+                showToast('Scratchpad initializing...');
+            }
+        };
+    }
+
+    // Desktop Keyboard Shortcuts (Arrow keys, Home, End, S for Skip, P for Pause, C for Calc)
+    document.addEventListener('keydown', (e) => {
+        const questionScreen = document.getElementById('screen-question');
+        if (!questionScreen || !questionScreen.classList.contains('active')) return;
+
+        // If user is focused on an input/textarea/editable, skip quiz hotkeys
+        const activeTag = document.activeElement ? document.activeElement.tagName.toLowerCase() : '';
+        if (activeTag === 'input' || activeTag === 'textarea' || document.activeElement.isContentEditable) return;
+
+        // Ignore if any modal is currently visible
+        const trackModal = document.getElementById('quiz-track-picker-modal');
+        const exitModal = document.getElementById('quiz-exit-confirm-modal');
+        if ((trackModal && trackModal.style.display === 'flex') || (exitModal && exitModal.style.display === 'flex')) return;
+
+        if (e.key === 'ArrowLeft') {
+            e.preventDefault();
+            const btnPrev = document.getElementById('btn-nav-prev');
+            if (btnPrev) btnPrev.click();
+        } else if (e.key === 'ArrowRight') {
+            e.preventDefault();
+            const btnNext = document.getElementById('btn-nav-next');
+            if (btnNext) btnNext.click();
+        } else if (e.key === 'Home') {
+            e.preventDefault();
+            const btnFirst = document.getElementById('btn-nav-first');
+            if (btnFirst) btnFirst.click();
+        } else if (e.key === 'End') {
+            e.preventDefault();
+            const btnLast = document.getElementById('btn-nav-last');
+            if (btnLast) btnLast.click();
+        } else if (e.key === 's' || e.key === 'S' || e.key === 'ы' || e.key === 'Ы') {
+            e.preventDefault();
+            const btnSkip = document.getElementById('btn-quiz-skip');
+            if (btnSkip && !btnSkip.disabled) btnSkip.click();
+        } else if (e.key === 'p' || e.key === 'P' || e.key === 'з' || e.key === 'З') {
+            e.preventDefault();
+            toggleSessionTimerPause();
+        } else if (e.key === 'c' || e.key === 'C' || e.key === 'с' || e.key === 'С') {
+            e.preventDefault();
+            const btnCalc = document.getElementById('btn-tool-calc');
+            if (btnCalc) btnCalc.click();
+        }
+    });
 
     window.openQuizExitModal = function() {
         const modal = document.getElementById('quiz-exit-confirm-modal');
         if (!modal) return;
 
         const isRu = (state && state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
-        const answeredCount = (state && state.answers && Array.isArray(state.answers)) ? state.answers.length : 0;
+        const answeredCount = (state && state.answers && Array.isArray(state.answers)) ? state.answers.filter(a => a && a.chosen != null).length : 0;
         const totalPlanned = (state && state.questions && Array.isArray(state.questions)) ? state.questions.length : 0;
 
         const partialSaveBtn = document.getElementById('btn-exit-save-partial');
@@ -4265,21 +4869,34 @@ function setupQuestionListeners() {
 
     window.saveAndFinishPartialQuiz = function() {
         window.closeQuizExitModal();
-        const answeredCount = (state && state.answers && Array.isArray(state.answers)) ? state.answers.length : 0;
+        stopSessionTimer();
+        const answeredCount = (state && state.answers && Array.isArray(state.answers)) ? state.answers.filter(a => a && a.chosen != null).length : 0;
         if (answeredCount === 0) {
             window.confirmExitToLobby();
             return;
         }
 
-        // Truncate state.questions to exactly the answered questions slice
-        state.questions = state.questions.slice(0, answeredCount);
-        state.currentIndex = answeredCount - 1;
+        // Specification requirement: Unanswered and skipped questions are counted as incorrect
+        if (state.questions && Array.isArray(state.questions)) {
+            state.questions.forEach((q, idx) => {
+                if (!state.answers[idx] || state.answers[idx].chosen == null) {
+                    state.answers[idx] = {
+                        questionId: q.id || idx,
+                        chosen: null,
+                        correct: q.correctAnswer,
+                        time: 0,
+                        isCorrect: false,
+                        isEarlyExitUnanswered: true
+                    };
+                }
+            });
+        }
 
-        // Finalize results with the truncated questions count
         showResults();
     };
 
     window.confirmExitToLibrary = async function() {
+        stopSessionTimer();
         if (state.timerInterval) {
             clearInterval(state.timerInterval);
             state.timerInterval = null;
@@ -4296,6 +4913,7 @@ function setupQuestionListeners() {
     };
 
     window.confirmExitToLobby = function() {
+        stopSessionTimer();
         if (state.timerInterval) {
             clearInterval(state.timerInterval);
             state.timerInterval = null;
@@ -4362,6 +4980,60 @@ function setupQuestionListeners() {
 
     const btnSubmitReport = document.getElementById('btn-submit-report');
     if (btnSubmitReport) btnSubmitReport.onclick = submitReportModal;
+}
+
+function closeTrackPicker() {
+    const modal = document.getElementById('quiz-track-picker-modal');
+    if (modal) modal.style.display = 'none';
+}
+
+function renderTrackMatrix() {
+    const grid = document.getElementById('quiz-track-grid');
+    if (!grid) return;
+    grid.innerHTML = '';
+
+    const questions = state.questions || [];
+    const isExam = !!(state.sessionMode === 'exam' || state.settings?.exam);
+    const skippedSet = state.skipped || new Set();
+
+    questions.forEach((q, idx) => {
+        const cell = document.createElement('button');
+        cell.type = 'button';
+        cell.className = 'track-grid-cell';
+        cell.textContent = idx + 1;
+        cell.setAttribute('data-index', String(idx));
+
+        const ans = state.answers && state.answers[idx];
+        const hasAnswer = ans && ans.chosen != null;
+        const qId = q.id || idx;
+        const isSkipped = skippedSet.has(qId) && !hasAnswer;
+
+        if (idx === state.currentIndex) {
+            cell.classList.add('cell-current');
+        } else if (isSkipped) {
+            cell.classList.add('cell-skipped');
+        } else if (hasAnswer) {
+            if (isExam) {
+                // In Exam Sim: do not reveal correct/wrong during quiz
+                cell.classList.add('cell-answered');
+            } else if (ans.isCorrect) {
+                cell.classList.add('cell-correct');
+            } else {
+                cell.classList.add('cell-wrong');
+            }
+        } else {
+            cell.classList.add('cell-unanswered');
+        }
+
+        cell.onclick = () => {
+            state.currentIndex = idx;
+            closeTrackPicker();
+            renderQuestion();
+            document.querySelector('.quiz-screen.active')?.scrollTo(0, 0);
+        };
+
+        grid.appendChild(cell);
+    });
 }
 
 function showResults() {

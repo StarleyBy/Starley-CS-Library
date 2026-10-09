@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz Mode - Starley CS Library</title>
     <link rel="stylesheet" href="assets/css/quiz.css?v=2.4">
     <link rel="stylesheet" href="assets/css/overlay-tools.css?v=1.0">
@@ -98,34 +98,39 @@
                     </div>
                 </div>
 
-                <!-- Weak-Spot Radar & Mastery Dashboard -->
-                <div id="lobby-radar-card" class="lobby-card radar-card" style="display: none;">
-                    <div class="radar-card-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-                        <h3 id="lbl-weak-spot-radar" style="margin: 0;">📊 Weak-Spot Radar</h3>
+                <!-- Weak-Spot Radar & Mastery Dashboard (Collapsible) -->
+                <details id="lobby-radar-card" class="lobby-card radar-card" style="display: none;">
+                    <summary class="radar-card-header" style="display: flex; justify-content: space-between; align-items: center; cursor: pointer; list-style: none;">
+                        <div style="display: flex; align-items: center; gap: 8px;">
+                            <span class="radar-toggle-icon" style="font-size: 0.85rem; color: var(--quiz-muted);"><i class="fas fa-chevron-right"></i></span>
+                            <h3 id="lbl-weak-spot-radar" style="margin: 0;">📊 Weak-Spot Radar</h3>
+                        </div>
                         <div class="mastery-badge" style="background: rgba(88, 166, 255, 0.1); color: var(--quiz-accent); padding: 4px 10px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; border: 1px solid rgba(88, 166, 255, 0.3);"><span id="mastery-pct-val">0%</span> <span id="lbl-mastered-pct">Mastered</span></div>
-                    </div>
-                    <div class="radar-progress-container" style="margin-bottom: 15px;">
-                        <div class="radar-progress-bar" style="height: 10px; background: var(--quiz-border); border-radius: 5px; overflow: hidden; display: flex;">
-                            <div id="radar-progress-green" class="progress-segment green" style="width: 0%; height: 100%; background: var(--quiz-correct); transition: width 0.5s ease;"></div>
-                            <div id="radar-progress-yellow" class="progress-segment yellow" style="width: 0%; height: 100%; background: var(--quiz-warning); transition: width 0.5s ease;"></div>
-                            <div id="radar-progress-red" class="progress-segment red" style="width: 0%; height: 100%; background: var(--quiz-wrong); transition: width 0.5s ease;"></div>
+                    </summary>
+                    <div class="radar-details-body" style="padding-top: 14px;">
+                        <div class="radar-progress-container" style="margin-bottom: 15px;">
+                            <div class="radar-progress-bar" style="height: 10px; background: var(--quiz-border); border-radius: 5px; overflow: hidden; display: flex;">
+                                <div id="radar-progress-green" class="progress-segment green" style="width: 0%; height: 100%; background: var(--quiz-correct); transition: width 0.5s ease;"></div>
+                                <div id="radar-progress-yellow" class="progress-segment yellow" style="width: 0%; height: 100%; background: var(--quiz-warning); transition: width 0.5s ease;"></div>
+                                <div id="radar-progress-red" class="progress-segment red" style="width: 0%; height: 100%; background: var(--quiz-wrong); transition: width 0.5s ease;"></div>
+                            </div>
+                            <div class="radar-legend" style="display: flex; justify-content: space-between; margin-top: 8px; font-size: 0.75rem; color: var(--quiz-muted);">
+                                <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot green" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-correct); display: inline-block;"></span> <span id="lbl-legend-green">Mastered</span>: <span id="cnt-green" style="font-weight:700; color:var(--quiz-text);">0</span></span>
+                                <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot yellow" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-warning); display: inline-block;"></span> <span id="lbl-legend-yellow">Learning</span>: <span id="cnt-yellow" style="font-weight:700; color:var(--quiz-text);">0</span></span>
+                                <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot red" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-wrong); display: inline-block;"></span> <span id="lbl-legend-red">Weak / New</span>: <span id="cnt-red" style="font-weight:700; color:var(--quiz-text);">0</span></span>
+                            </div>
                         </div>
-                        <div class="radar-legend" style="display: flex; justify-content: space-between; margin-top: 8px; font-size: 0.75rem; color: var(--quiz-muted);">
-                            <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot green" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-correct); display: inline-block;"></span> <span id="lbl-legend-green">Mastered</span>: <span id="cnt-green" style="font-weight:700; color:var(--quiz-text);">0</span></span>
-                            <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot yellow" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-warning); display: inline-block;"></span> <span id="lbl-legend-yellow">Learning</span>: <span id="cnt-yellow" style="font-weight:700; color:var(--quiz-text);">0</span></span>
-                            <span class="legend-item" style="display: flex; align-items: center; gap: 4px;"><span class="dot red" style="width: 8px; height: 8px; border-radius: 50%; background: var(--quiz-wrong); display: inline-block;"></span> <span id="lbl-legend-red">Weak / New</span>: <span id="cnt-red" style="font-weight:700; color:var(--quiz-text);">0</span></span>
+                        <div class="radar-chart-container" style="position: relative; margin: 15px 0; text-align: center;">
+                            <canvas id="radar-canvas" width="280" height="280" style="max-width: 100%; height: auto; display: inline-block; filter: drop-shadow(0 0 10px rgba(88,166,255,0.1));"></canvas>
+                        </div>
+                        <div id="lbl-topics-mastery" class="radar-topics-header" style="margin-top: 15px; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; letter-spacing: 0.5px;">Topic Mastery (Tap for Express Quiz)</div>
+                        <div id="radar-topic-chips" class="radar-topic-chips" style="margin-top: 8px; display: flex; flex-wrap: wrap; gap: 8px;">
+                            <!-- Dynamic chips -->
                         </div>
                     </div>
-                    <div class="radar-chart-container" style="position: relative; margin: 15px 0; text-align: center;">
-                        <canvas id="radar-canvas" width="280" height="280" style="max-width: 100%; height: auto; display: inline-block; filter: drop-shadow(0 0 10px rgba(88,166,255,0.1));"></canvas>
-                    </div>
-                    <div id="lbl-topics-mastery" class="radar-topics-header" style="margin-top: 15px; font-size: 0.8rem; font-weight: 700; color: var(--quiz-muted); text-transform: uppercase; letter-spacing: 0.5px;">Topic Mastery (Tap for Express Quiz)</div>
-                    <div id="radar-topic-chips" class="radar-topic-chips" style="margin-top: 8px; display: flex; flex-wrap: wrap; gap: 8px;">
-                        <!-- Dynamic chips -->
-                    </div>
-                </div>
+                </details>
 
-                <div class="lobby-card">
+                <div class="lobby-card" style="display: none;">
                     <h3 id="label-select-lang">Select Language</h3>
                     <div class="lang-segmented-bar">
                         <button id="btn-lang-en" class="lang-seg-btn active" data-lang="En">
@@ -191,12 +196,12 @@
                     
                     <!-- Presets Grid Container -->
                     <div class="preset-volumes-container">
-                        <div class="settings-section-title" style="display: flex; justify-content: space-between; align-items: center;">
+                        <div class="settings-section-title" id="preset-volume-trigger" style="display: flex; justify-content: space-between; align-items: center; cursor: pointer; user-select: none; background: rgba(88, 166, 255, 0.08); padding: 8px 12px; border-radius: 10px; border: 1px solid rgba(88, 166, 255, 0.25);">
                             <span>🎯 <span id="txt-preset-volume">Volume Preset</span></span>
-                            <span class="preset-active-badge"><span id="lbl-questions-count">Questions:</span> <span id="val-count">100</span></span>
+                            <span class="preset-active-badge" style="display: flex; align-items: center; gap: 6px;"><span id="lbl-questions-count">Questions:</span> <span id="val-count">100</span> <i id="preset-dropdown-chevron" class="fas fa-chevron-down" style="font-size: 0.75rem; color: var(--quiz-muted); transition: transform 0.2s;"></i></span>
                         </div>
                         
-                        <div class="preset-tiers-wrapper">
+                        <div class="preset-tiers-wrapper" id="preset-tiers-wrapper" style="display: none; margin-top: 10px;">
                             <!-- TIER 1: BLITZ -->
                             <div class="preset-tier tier-blitz">
                                 <div class="preset-tier-header">
@@ -413,14 +418,40 @@
         <!-- QUESTION SCREEN -->
         <section id="screen-question" class="quiz-screen">
             <header class="quiz-header question-header">
-                <button class="quiz-exit-btn" id="btn-exit-quiz" onclick="openQuizExitModal()"><i class="fas fa-times"></i> <span id="txt-btn-exit-header">Exit</span></button>
-                <div class="quiz-progress-wrapper">
-                    <div class="quiz-progress-text"><span id="q-current">1</span> / <span id="q-total">0</span></div>
-                    <div class="quiz-progress-bar"><div id="q-progress-fill" class="progress-fill"></div></div>
+                <div class="q-header-left">
+                    <button class="quiz-exit-btn" id="btn-exit-quiz" onclick="openQuizExitModal()"><i class="fas fa-times"></i> <span id="txt-btn-exit-header">Exit</span></button>
+                    <div class="quiz-progress-wrapper">
+                        <div class="quiz-progress-text"><span id="q-current">1</span> / <span id="q-total">0</span></div>
+                        <div class="quiz-progress-bar"><div id="q-progress-fill" class="progress-fill"></div></div>
+                    </div>
+                    <div id="q-score-live" class="quiz-live-score">Correct: 0</div>
                 </div>
-                <div id="q-score-live" class="quiz-live-score">Correct: 0</div>
-                <div id="quiz-timer" class="quiz-timer" style="display: none; background: rgba(218, 54, 51, 0.1); color: var(--quiz-wrong); padding: 4px 10px; border-radius: 20px; font-size: 0.85rem; font-weight: 700; border: 1px solid rgba(218, 54, 51, 0.3); display: flex; align-items: center; gap: 5px; white-space: nowrap;"><i class="far fa-clock"></i> <span id="timer-val">60</span></div>
+
+                <div class="q-header-center">
+                    <!-- Legacy hidden container for backward compatibility -->
+                    <div id="quiz-timer" style="display: none;"><span id="timer-val">60</span></div>
+
+                    <!-- Enhanced whole-session timer (Phase 0 green, 1 yellow, 2 red, 3 brown + particles) -->
+                    <button type="button" id="quiz-session-timer" class="quiz-session-timer tm" data-ph="0" title="Tap to pause/resume timer (blocked in Exam Sim)">
+                        <span class="tm-icon">⏱</span>
+                        <span id="quiz-session-timer-text" class="tm-text">0:00</span>
+                        <span id="quiz-session-timer-status" class="tm-status" style="display: none;">⏸</span>
+                        <div id="quiz-session-timer-particles" class="tm-particles" aria-hidden="true"></div>
+                    </button>
+                </div>
+
                 <div class="question-header-actions">
+                    <!-- Overlay Tools: Calculator & Scratchpad -->
+                    <button type="button" id="btn-tool-calc" class="quiz-tool-btn" title="Medical Calculator / Калькулятор" aria-label="Calculator">
+                        🧮
+                    </button>
+                    <button type="button" id="btn-tool-scratch" class="quiz-tool-btn" title="Scratchpad & Drawing / Черновик" aria-label="Scratchpad">
+                        ✏️
+                    </button>
+                    <!-- Skip Question Button in Top Bar -->
+                    <button type="button" id="btn-quiz-skip" class="quiz-skip-btn" title="Skip question (moves to back of queue) / Пропустить" aria-label="Skip question">
+                        ⏭ <span id="txt-btn-skip">Skip</span>
+                    </button>
                     <button type="button" id="btn-quiz-quick-library" onclick="openQuizLibraryOverlay()" class="quiz-header-lib-btn" title="Reference Library / Открыть библиотеку">
                         <i class="fas fa-book-open"></i> <span class="txt-lib-header">Library</span>
                     </button>
@@ -477,6 +508,60 @@
                         <button id="btn-report-question-exp" class="btn-outline" style="color: #f87171; border-color: rgba(248, 113, 113, 0.4);"><i class="fas fa-flag"></i> <span id="lbl-btn-report">Report Issue</span></button>
                         <button id="btn-open-reader-main" class="btn-secondary"><i class="fas fa-book-open"></i> Open in Reader</button>
                         <button id="btn-next-q" class="btn-primary">Next Question <i class="fas fa-chevron-right"></i></button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- CD Navigation Bottom Bar (Fixed single row, height 44-48px) -->
+            <footer class="quiz-cd-bottom-bar" id="quiz-cd-bottom-bar">
+                <div class="cd-nav-strip">
+                    <button type="button" id="btn-nav-first" class="cd-nav-btn" title="First question (Home / ⏮)" aria-label="First question">
+                        <i class="fas fa-backward-step"></i>
+                    </button>
+                    <button type="button" id="btn-nav-prev" class="cd-nav-btn" title="Previous question (◀ / Left Arrow)" aria-label="Previous question">
+                        <i class="fas fa-chevron-left"></i>
+                    </button>
+                    
+                    <!-- Track Picker Trigger: [ 7 / 40 ▾ ] -->
+                    <button type="button" id="btn-nav-track-picker" class="cd-track-picker-btn" title="Open question track matrix (Jump to question)" aria-label="Question track matrix">
+                        <span id="cd-track-num">1</span> <span class="cd-track-slash">/</span> <span id="cd-track-total">0</span>
+                        <i class="fas fa-chevron-down cd-track-chevron"></i>
+                    </button>
+
+                    <button type="button" id="btn-nav-next" class="cd-nav-btn" title="Next question (▶ / Right Arrow)" aria-label="Next question">
+                        <i class="fas fa-chevron-right"></i>
+                    </button>
+                    <button type="button" id="btn-nav-last" class="cd-nav-btn" title="Last question (End / ⏭)" aria-label="Last question">
+                        <i class="fas fa-forward-step"></i>
+                    </button>
+                </div>
+
+                <div class="cd-nav-action-wrapper">
+                    <!-- Inline primary next button for seamless flow -->
+                    <button type="button" id="btn-cd-next-action" class="btn-primary cd-next-action-btn" title="Next question or See results">
+                        <span id="txt-cd-next-action">Next</span> <i class="fas fa-chevron-right"></i>
+                    </button>
+                </div>
+            </footer>
+
+            <!-- Track Matrix Modal / Sheet -->
+            <div id="quiz-track-picker-modal" class="quiz-modal-backdrop" style="display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.75); backdrop-filter: blur(8px); z-index: 1000; align-items: center; justify-content: center; padding: 16px;">
+                <div class="quiz-modal-card track-picker-card theme-glass" style="background: var(--quiz-card); border: 1px solid var(--quiz-border); border-radius: 20px; width: 100%; max-width: 520px; max-height: 85vh; display: flex; flex-direction: column; box-shadow: 0 20px 50px rgba(0,0,0,0.6); overflow: hidden;">
+                    <div class="quiz-modal-header" style="padding: 12px 16px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--quiz-border); background: var(--quiz-surface);">
+                        <h3 id="lbl-track-picker-title" style="margin: 0; font-size: 1rem; font-weight: 800; color: var(--quiz-text); display: flex; align-items: center; gap: 8px;">
+                            <span>🎛️</span> <span id="txt-track-picker-title">Question Track Matrix</span>
+                        </h3>
+                        <button type="button" id="btn-close-track-picker" class="quiz-modal-close" style="background: none; border: none; color: var(--quiz-muted); font-size: 1.2rem; cursor: pointer; padding: 4px;"><i class="fas fa-times"></i></button>
+                    </div>
+                    <div class="track-picker-legend" style="display: flex; gap: 12px; padding: 10px 16px; font-size: 0.75rem; border-bottom: 1px solid var(--quiz-border); flex-wrap: wrap;">
+                        <span class="track-leg-item"><span class="track-dot dot-current"></span> <span id="txt-leg-current">Current</span></span>
+                        <span class="track-leg-item"><span class="track-dot dot-correct"></span> <span id="txt-leg-correct">Correct</span></span>
+                        <span class="track-leg-item"><span class="track-dot dot-wrong"></span> <span id="txt-leg-wrong">Incorrect</span></span>
+                        <span class="track-leg-item"><span class="track-dot dot-skipped"></span> <span id="txt-leg-skipped">Skipped</span></span>
+                        <span class="track-leg-item"><span class="track-dot dot-unanswered"></span> <span id="txt-leg-unanswered">Unanswered</span></span>
+                    </div>
+                    <div id="quiz-track-grid" class="quiz-track-grid" style="padding: 16px; overflow-y: auto; display: grid; grid-template-columns: repeat(auto-fill, minmax(44px, 1fr)); gap: 8px; flex: 1; min-height: 0;">
+                        <!-- Dynamic track cells 1..N -->
                     </div>
                 </div>
             </div>
@@ -1203,7 +1288,8 @@
     <!-- KaTeX JS for LaTeX math rendering -->
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js"></script>
-    <script src="assets/js/quiz.js?v=6.9"></script>
+    <script src="assets/js/quiz-i18n.js?v=1.0"></script>
+    <script src="assets/js/quiz.js?v=7.0"></script>
     <script src="assets/js/overlay-tools.js?v=4.2"></script>
 </body>
 </html>
