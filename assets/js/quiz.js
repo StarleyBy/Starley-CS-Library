@@ -4768,6 +4768,50 @@ function setupQuestionListeners() {
         };
     }
 
+    // Desktop Keyboard Shortcuts (Arrow keys, Home, End, S for Skip, P for Pause, C for Calc)
+    document.addEventListener('keydown', (e) => {
+        const questionScreen = document.getElementById('screen-question');
+        if (!questionScreen || !questionScreen.classList.contains('active')) return;
+
+        // If user is focused on an input/textarea/editable, skip quiz hotkeys
+        const activeTag = document.activeElement ? document.activeElement.tagName.toLowerCase() : '';
+        if (activeTag === 'input' || activeTag === 'textarea' || document.activeElement.isContentEditable) return;
+
+        // Ignore if any modal is currently visible
+        const trackModal = document.getElementById('quiz-track-picker-modal');
+        const exitModal = document.getElementById('quiz-exit-confirm-modal');
+        if ((trackModal && trackModal.style.display === 'flex') || (exitModal && exitModal.style.display === 'flex')) return;
+
+        if (e.key === 'ArrowLeft') {
+            e.preventDefault();
+            const btnPrev = document.getElementById('btn-nav-prev');
+            if (btnPrev) btnPrev.click();
+        } else if (e.key === 'ArrowRight') {
+            e.preventDefault();
+            const btnNext = document.getElementById('btn-nav-next');
+            if (btnNext) btnNext.click();
+        } else if (e.key === 'Home') {
+            e.preventDefault();
+            const btnFirst = document.getElementById('btn-nav-first');
+            if (btnFirst) btnFirst.click();
+        } else if (e.key === 'End') {
+            e.preventDefault();
+            const btnLast = document.getElementById('btn-nav-last');
+            if (btnLast) btnLast.click();
+        } else if (e.key === 's' || e.key === 'S' || e.key === 'ы' || e.key === 'Ы') {
+            e.preventDefault();
+            const btnSkip = document.getElementById('btn-quiz-skip');
+            if (btnSkip && !btnSkip.disabled) btnSkip.click();
+        } else if (e.key === 'p' || e.key === 'P' || e.key === 'з' || e.key === 'З') {
+            e.preventDefault();
+            toggleSessionTimerPause();
+        } else if (e.key === 'c' || e.key === 'C' || e.key === 'с' || e.key === 'С') {
+            e.preventDefault();
+            const btnCalc = document.getElementById('btn-tool-calc');
+            if (btnCalc) btnCalc.click();
+        }
+    });
+
     window.openQuizExitModal = function() {
         const modal = document.getElementById('quiz-exit-confirm-modal');
         if (!modal) return;
@@ -4945,7 +4989,7 @@ function renderTrackMatrix() {
     questions.forEach((q, idx) => {
         const cell = document.createElement('button');
         cell.type = 'button';
-        cell.className = 'track-cell';
+        cell.className = 'track-grid-cell';
         cell.textContent = idx + 1;
         cell.setAttribute('data-index', String(idx));
 
