@@ -4867,29 +4867,57 @@ function setupQuestionListeners() {
         if (modal) modal.style.display = 'none';
     };
 
+    function isAnswerGiven(a) {
+        if (!a) return false;
+        if (a.chosen == null || a.chosen === '') return false;
+        if (Array.isArray(a.chosen) && a.chosen.length === 0) return false;
+        return true;
+    }
+
     window.saveAndFinishPartialQuiz = function() {
         window.closeQuizExitModal();
         stopSessionTimer();
-        const answeredCount = (state && state.answers && Array.isArray(state.answers)) ? state.answers.filter(a => a && a.chosen != null).length : 0;
-        if (answeredCount === 0) {
+        const validAnswers = (state && state.answers && Array.isArray(state.answers)) ? state.answers.filter(isAnswerGiven) : [];
+        if (validAnswers.length === 0) {
             window.confirmExitToLobby();
             return;
         }
 
-        // Specification requirement: Unanswered and skipped questions are counted as incorrect
-        if (state.questions && Array.isArray(state.questions)) {
-            state.questions.forEach((q, idx) => {
-                if (!state.answers[idx] || state.answers[idx].chosen == null) {
-                    state.answers[idx] = {
-                        questionId: q.id || idx,
-                        chosen: null,
-                        correct: q.correctAnswer,
-                        time: 0,
-                        isCorrect: false,
-                        isEarlyExitUnanswered: true
-                    };
+        // Keep ONLY the questions that were actually answered by the user,
+        // so accuracy and session statistics are calculated exclusively from answered questions (e.g. 10/15 instead of 10/250).
+        if (state.questions && Array.isArray(state.questions) && state.answers && Array.isArray(state.answers)) {
+            const answeredQuestions = [];
+            const answeredAnswers = [];
+            let recalculatedScore = 0;
+
+            validAnswers.forEach((ans, ansIdx) => {
+                // Find matching question: first try by questionId, fallback to index
+                let q = null;
+                if (ans.questionId != null) {
+                    q = state.questions.find(item => item && item.id === ans.questionId);
+                }
+                if (!q && ans.questionIndex != null && state.questions[ans.questionIndex]) {
+                    q = state.questions[ans.questionIndex];
+                }
+                if (!q && state.questions[ansIdx]) {
+                    q = state.questions[ansIdx];
+                }
+                if (q) {
+                    answeredQuestions.push(q);
+                    answeredAnswers.push(ans);
+                    if (ans.isCorrect) {
+                        recalculatedScore++;
+                    }
                 }
             });
+
+            if (answeredQuestions.length > 0) {
+                state.questions = answeredQuestions;
+                state.answers = answeredAnswers;
+                state.score = recalculatedScore;
+                state.deck = answeredQuestions.map((_, i) => i);
+                state.currentIndex = answeredQuestions.length - 1;
+            }
         }
 
         showResults();
@@ -5124,6 +5152,8 @@ function showResults() {
         state.answers.forEach((ans, idx) => {
             const q = state.questions[idx];
             if (!q) return;
+            // Skip questions without an answer: if there is no answer, do not count or include this question
+            if (!ans || ans.chosen == null || ans.chosen === '' || (Array.isArray(ans.chosen) && ans.chosen.length === 0)) return;
 
             const isCorr = !!ans.isCorrect;
             const chosenLetters = Array.isArray(ans.chosen) ? ans.chosen : (ans.chosen ? [ans.chosen] : []);
@@ -5256,7 +5286,8 @@ function renderIncorrectAnswers() {
 
     const incorrectIndices = [];
     state.answers.forEach((ans, idx) => {
-        if (!ans.isCorrect) {
+        // Exclude questions without an answer from error review
+        if (ans && ans.chosen != null && ans.chosen !== '' && (!Array.isArray(ans.chosen) || ans.chosen.length > 0) && !ans.isCorrect) {
             incorrectIndices.push(idx);
         }
     });
@@ -6458,6 +6489,57 @@ function removeFromPendingSync(sessionId) {
         }
     } catch (e) {}
 }
+
+window.deleteSessionRecord = async function(sessionId) {
+    if (!sessionId) return false;
+    const isRu = (state && state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+    const confirmMsg = isRu
+        ? 'Вы действительно хотите удалить эту сессию из истории?\n\nДействие необратимо.'
+        : 'Are you sure you want to delete this session from your history?\n\nThis action cannot be undone.';
+
+    if (!confirm(confirmMsg)) {
+        return false;
+    }
+
+    const sIdStr = String(sessionId);
+
+    // 1. Remove from in-memory state
+    state.sessionHistory = (state.sessionHistory || []).filter(s => String(s.sessionId || s.session_id) !== sIdStr);
+
+    // 2. Persist to localStorage
+    safeSaveSessionHistory(state.sessionHistory);
+
+    // 3. Remove from pending sync queue
+    removeFromPendingSync(sIdStr);
+
+    // 4. Update UI stats and tables
+    updateQuizStatsUI();
+    if (typeof renderHistoryTab === 'function') {
+        renderHistoryTab();
+    }
+
+    // 5. Close session detail modal if open for this session
+    const detailModal = document.getElementById('quiz-session-detail-modal');
+    if (detailModal && detailModal.style.display !== 'none') {
+        detailModal.style.display = 'none';
+    }
+
+    // 6. Delete from Supabase in cloud if user is authenticated
+    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
+    if (user && !user.isGuest && window.SupabaseAPI && typeof window.SupabaseAPI.deleteSession === 'function') {
+        try {
+            const res = await window.SupabaseAPI.deleteSession(sIdStr);
+            if (!res || (!res.ok && !res.success)) {
+                console.warn('⚠️ [Session] Cloud delete returned warning:', res && res.error);
+            }
+        } catch (err) {
+            console.warn('⚠️ [Session] Cloud delete network error:', err);
+        }
+    }
+
+    showToast(isRu ? 'Сессия успешно удалена' : 'Session deleted successfully');
+    return true;
+};
 
 /**
  * Resilient Session Sync & Local-First Persistence
@@ -9523,10 +9605,15 @@ function renderHistoryTab() {
                             <span>📅 ${dateStr}</span> • <span>⏱️ ${timeStr}</span>
                         </div>
                     </div>
-                    <div style="text-align: right; flex-shrink: 0;">
-                        <div style="font-size: 1.2rem; font-weight: 800; color: ${scoreColor};">${score}%</div>
-                        <div style="font-size: 0.75rem; color: var(--quiz-muted); margin-top: 2px;">${correct} / ${total} ${isRu ? 'Верно' : 'Correct'}</div>
-                        <div style="font-size: 0.72rem; color: #58a6ff; font-weight: 700; margin-top: 6px;">🔍 ${isRu ? 'Детали сессии' : 'Details'} →</div>
+                    <div style="text-align: right; flex-shrink: 0; display: flex; flex-direction: column; align-items: flex-end; justify-content: space-between;">
+                        <div>
+                            <div style="font-size: 1.2rem; font-weight: 800; color: ${scoreColor};">${score}%</div>
+                            <div style="font-size: 0.75rem; color: var(--quiz-muted); margin-top: 2px;">${correct} / ${total} ${isRu ? 'Верно' : 'Correct'}</div>
+                        </div>
+                        <div style="display: flex; align-items: center; gap: 8px; margin-top: 8px;">
+                            <button type="button" title="${isRu ? 'Удалить сессию' : 'Delete session'}" onclick="event.stopPropagation(); window.deleteSessionRecord('${escapeHTML(String(sId))}');" style="background: rgba(248, 113, 113, 0.12); border: 1px solid rgba(248, 113, 113, 0.3); color: #f87171; border-radius: 6px; padding: 3px 7px; font-size: 0.75rem; cursor: pointer; transition: all 0.2s;" onmouseover="this.style.background='rgba(248, 113, 113, 0.25)';" onmouseout="this.style.background='rgba(248, 113, 113, 0.12)';">🗑️</button>
+                            <span style="font-size: 0.72rem; color: #58a6ff; font-weight: 700;">🔍 ${isRu ? 'Детали' : 'Details'} →</span>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -9535,9 +9622,97 @@ function renderHistoryTab() {
 }
 
 /**
+ * Hydrate question and error details for a session from its compact detailString / detail_summary
+ */
+async function hydrateSessionQuestions(sess) {
+    if (!sess) return;
+    const summaryStr = sess.detailString || sess.detail_summary || '';
+    if (!summaryStr) return;
+
+    // Check if errors array is already fully hydrated with question text
+    if (Array.isArray(sess.errors) && sess.errors.length > 0) {
+        const hasText = sess.errors.some(e => e && (e.questionEn || e.questionRu || e.question));
+        if (hasText) return;
+    }
+
+    try {
+        await loadAllQuizManifestIndex();
+    } catch (e) {
+        console.warn('⚠️ [Session Detail] Failed loading manifest index for hydration:', e);
+    }
+
+    const tokens = String(summaryStr).split(',').map(t => t.trim()).filter(Boolean);
+    if (tokens.length === 0) return;
+
+    const hydratedList = [];
+    const isRu = (state && state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : true;
+
+    tokens.forEach((token, idx) => {
+        const parsed = parseSpecialId(token);
+        if (!parsed) return;
+
+        const hasExplicitChosen = !!parsed.chosenAnswer;
+        // If question token indicates an incorrect answer or has a parenthesized correct answer but no chosen answer was recorded, skip it (do not count unanswered questions)
+        if (!hasExplicitChosen && token.includes('(')) {
+            return;
+        }
+
+        const isCorr = !hasExplicitChosen;
+        const q = resolveQuestionBySpecialId(parsed.cleanSpecialId || token);
+
+        const correctLetter = parsed.correctAnswer || (q ? (Array.isArray(q.correctAnswer) ? q.correctAnswer.join(',') : q.correctAnswer) : '');
+        const chosenLetter = parsed.chosenAnswer || (isCorr ? correctLetter : '');
+
+        // If it's an incorrect question but has no chosen answer, skip it
+        if (!isCorr && (!chosenLetter || chosenLetter === '')) {
+            return;
+        }
+
+        let chosenOptionText = chosenLetter || (isRu ? 'Нет ответа' : 'No Answer');
+        let correctOptionText = correctLetter || 'N/A';
+
+        if (q) {
+            const langKey = isRu ? 'Ru' : 'En';
+            const opts = q['options' + langKey] || q.optionsEn || q.optionsRu || q.options || {};
+            if (opts[chosenLetter]) {
+                chosenOptionText = `${chosenLetter}: ${opts[chosenLetter]}`;
+            }
+            if (opts[correctLetter]) {
+                correctOptionText = `${correctLetter}: ${opts[correctLetter]}`;
+            }
+        }
+
+        const item = {
+            questionIndex: idx + 1,
+            questionId: q ? (q.id || getQuestionKey(q)) : parsed.questionId,
+            specialId: parsed.cleanSpecialId,
+            bookPath: q ? (q.bookPath || '') : '',
+            setId: q ? (q.setId || '') : '',
+            manifestId: q ? (q.manifestId || '') : '',
+            isCorrect: isCorr,
+            chosen: chosenLetter,
+            correctAnswer: correctLetter,
+            chosenText: chosenOptionText,
+            correctText: correctOptionText,
+            chapterId: q ? (q.chapterId || '') : '',
+            questionEn: q ? String(q.questionEn || q.question || '').substring(0, 800) : '',
+            questionRu: q ? String(q.questionRu || q.question || '').substring(0, 800) : '',
+            explanationEn: q ? String(q.explanationEn || q.explanation || '').substring(0, 2500) : '',
+            explanationRu: q ? String(q.explanationRu || q.explanation || '').substring(0, 2500) : ''
+        };
+
+        hydratedList.push(item);
+    });
+
+    if (hydratedList.length > 0) {
+        sess.errors = hydratedList;
+    }
+}
+
+/**
  * Open Session Details Breakdown Modal
  */
-window.openSessionDetailsModal = function(sessionId) {
+window.openSessionDetailsModal = async function(sessionId) {
     const sess = state.sessionHistory.find(s => String(s.sessionId) === String(sessionId));
     if (!sess) return;
 
@@ -9584,6 +9759,38 @@ window.openSessionDetailsModal = function(sessionId) {
     const btnErrors = document.getElementById('btn-filter-sess-errors');
     const btnAll = document.getElementById('btn-filter-sess-all');
 
+    // Show initial loading indicator in questions list if hydration is needed
+    const listCont = document.getElementById('session-detail-questions-list');
+    const needsHydration = (!Array.isArray(sess.errors) || sess.errors.length === 0 || !sess.errors.some(e => e && (e.questionEn || e.questionRu || e.question))) && (sess.detailString || sess.detail_summary);
+    if (needsHydration && listCont) {
+        listCont.innerHTML = `
+            <div style="background: rgba(13, 17, 23, 0.4); border: 1px dashed var(--quiz-border); border-radius: 12px; padding: 20px; text-align: center; color: var(--quiz-accent); font-size: 0.88rem;">
+                ⏳ ${isRu ? 'Загрузка вопросов и клинических объяснений...' : 'Loading questions and explanations...'}
+            </div>
+        `;
+    }
+
+    // Ensure session questions are hydrated from manifests
+    if (needsHydration) {
+        await hydrateSessionQuestions(sess);
+    }
+
+    // Clean up any legacy or unanswered questions in sess.errors so they are never displayed or counted
+    if (Array.isArray(sess.errors)) {
+        sess.errors = sess.errors.filter(item => {
+            if (!item) return false;
+            // A valid item must either be correct, or have a non-empty chosen answer / chosenText
+            if (item.isCorrect) return true;
+            if (item.chosen != null && item.chosen !== '' && (!Array.isArray(item.chosen) || item.chosen.length > 0)) {
+                return true;
+            }
+            if (item.chosenText && item.chosenText !== 'Нет ответа' && item.chosenText !== 'No Answer' && item.chosenText !== 'N/A') {
+                return true;
+            }
+            return false;
+        });
+    }
+
     const renderBreakdownList = (filterMode) => {
         if (btnErrors && btnAll) {
             if (filterMode === 'errors') {
@@ -9599,7 +9806,6 @@ window.openSessionDetailsModal = function(sessionId) {
             }
         }
 
-        const listCont = document.getElementById('session-detail-questions-list');
         if (!listCont) return;
 
         const items = sess.errors || [];
@@ -9610,7 +9816,7 @@ window.openSessionDetailsModal = function(sessionId) {
                 <div style="background: rgba(13, 17, 23, 0.4); border: 1px dashed var(--quiz-border); border-radius: 12px; padding: 20px; text-align: center; color: var(--quiz-muted); font-size: 0.88rem;">
                     ${filterMode === 'errors' 
                         ? (isRu ? '🎉 В этой сессии нет ошибок! Все ответы верны.' : '🎉 No errors in this session! Perfect score.')
-                        : (isRu ? 'Подробности вопросов недоступны для старых записей.' : 'Question details unavailable for older records.')}
+                        : (isRu ? 'Подробности вопросов недоступны для этой записи.' : 'Question details unavailable for this record.')}
                 </div>
             `;
             return;
@@ -9677,6 +9883,16 @@ window.openSessionDetailsModal = function(sessionId) {
             retestBtn.innerHTML = `🚀 ${isRu ? 'Отработать ошибки (' + errorCount + ')' : 'Retest Incorrect Questions (' + errorCount + ')'}`;
             retestBtn.onclick = () => launchErrorPracticeSession(sess);
         }
+    }
+
+    // Delete Session button in modal
+    const deleteBtn = document.getElementById('btn-delete-session-modal');
+    const deleteBtnLbl = document.getElementById('lbl-btn-delete-session');
+    if (deleteBtn) {
+        if (deleteBtnLbl) {
+            deleteBtnLbl.textContent = isRu ? 'Удалить сессию' : 'Delete Session';
+        }
+        deleteBtn.onclick = () => window.deleteSessionRecord(sessionId);
     }
 
     modal.style.display = 'flex';
