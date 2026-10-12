@@ -264,6 +264,25 @@ function resolveQuestionBySpecialId(specialIdStr) {
 }
 
 /**
+ * Open image in interactive inspector (lightbox) with zoom, pan, and contrast controls
+ */
+window.openQuizImageInspector = function(imgSrcOrEl, caption) {
+    if (!imgSrcOrEl) return;
+    const isRu = (state && state.settings && state.settings.lang) ? state.settings.lang === 'Ru' : (document.documentElement.lang === 'ru');
+    const defaultCaption = isRu ? 'Клиническая иллюстрация' : 'Clinical Image';
+    const capText = caption || defaultCaption;
+
+    if (window.MediaInspector && typeof window.MediaInspector.openLightbox === 'function') {
+        window.MediaInspector.openLightbox(imgSrcOrEl, capText);
+        return;
+    }
+
+    // Fallback if MediaInspector script is not yet available
+    const url = typeof imgSrcOrEl === 'string' ? imgSrcOrEl : (imgSrcOrEl.src || '');
+    if (url) window.open(url, '_blank');
+};
+
+/**
  * Global Registry of All 18 Medical Question Manifests / Topics
  */
 const ALL_MANIFESTS_REGISTRY = [
@@ -3868,7 +3887,7 @@ function renderQuestion() {
         const bookPath = q.bookPath || state.bookPath;
         imgCont.innerHTML = qImgs.map(img => {
             const imgSrc = resolveQuizImg(img, bookPath);
-            return `<img src="${imgSrc}" class="quiz-q-image" onclick="window.open('${imgSrc}', '_blank')" onerror="this.onerror=null; this.src='assets/img/book-placeholder.png';">`;
+            return `<img src="${imgSrc}" class="quiz-q-image" onclick="window.openQuizImageInspector(this)" onerror="this.onerror=null; this.src='assets/img/book-placeholder.png';" title="${lang === 'Ru' ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast'}">`;
         }).join('');
         imgCont.style.display = 'flex';
     } else {
@@ -4234,8 +4253,9 @@ function showExplanation() {
         const img = document.createElement('img');
         img.src = imgSrc;
         img.className = 'quiz-q-image';
+        img.title = lang === 'Ru' ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast';
         img.onerror = () => { img.onerror = null; img.src = 'assets/img/book-placeholder.png'; };
-        img.onclick = () => window.open(imgSrc, '_blank');
+        img.onclick = () => window.openQuizImageInspector(img);
         expImgCont.appendChild(img);
     };
 
@@ -5327,7 +5347,7 @@ function renderIncorrectAnswers() {
             const bookPath = q.bookPath || state.bookPath;
             imgCont.innerHTML = qImgs.map(img => {
                 const imgSrc = resolveQuizImg(img, bookPath);
-                return `<img src="${imgSrc}" class="quiz-q-image" onclick="window.open('${imgSrc}', '_blank')" onerror="this.onerror=null; this.src='assets/img/book-placeholder.png';">`;
+                return `<img src="${imgSrc}" class="quiz-q-image" onclick="window.openQuizImageInspector(this)" onerror="this.onerror=null; this.src='assets/img/book-placeholder.png';" title="${isRu ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast'}">`;
             }).join('');
             itemDiv.appendChild(imgCont);
         }
@@ -5383,8 +5403,9 @@ function renderIncorrectAnswers() {
             const img = document.createElement('img');
             img.src = imgSrc;
             img.className = 'quiz-q-image';
+            img.title = isRu ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast';
             img.onerror = () => { img.onerror = null; img.src = 'assets/img/book-placeholder.png'; };
-            img.onclick = () => window.open(imgSrc, '_blank');
+            img.onclick = () => window.openQuizImageInspector(img);
             expImgCont.appendChild(img);
         };
 
@@ -5556,7 +5577,7 @@ function renderAllQuestionsList() {
             const bookPath = q.bookPath || state.bookPath;
             imgCont.innerHTML = qImgs.map(img => {
                 const imgSrc = resolveQuizImg(img, bookPath);
-                return `<img src="${imgSrc}" class="quiz-q-image" onclick="window.open('${imgSrc}', '_blank')" onerror="this.onerror=null; this.src='assets/img/book-placeholder.png';">`;
+                return `<img src="${imgSrc}" class="quiz-q-image" onclick="window.openQuizImageInspector(this)" onerror="this.onerror=null; this.src='assets/img/book-placeholder.png';" title="${isRu ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast'}">`;
             }).join('');
             detailsDiv.appendChild(imgCont);
         }
@@ -5610,8 +5631,9 @@ function renderAllQuestionsList() {
             const img = document.createElement('img');
             img.src = imgSrc;
             img.className = 'quiz-q-image';
+            img.title = isRu ? 'Нажмите для увеличения и настройки контраста' : 'Click to inspect, zoom and adjust contrast';
             img.onerror = () => { img.onerror = null; img.src = 'assets/img/book-placeholder.png'; };
-            img.onclick = () => window.open(imgSrc, '_blank');
+            img.onclick = () => window.openQuizImageInspector(img);
             expImgCont.appendChild(img);
         };
         
