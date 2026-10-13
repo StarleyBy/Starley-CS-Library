@@ -1,0 +1,306 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt16",
+  "guidelineId": "esc-acs-2023",
+  "number": "16",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for long-term management",
+    "ru": "Рекомендации по длительному ведению пациентов после ОКС"
+  },
+  "tags": [
+    "long-term",
+    "rehabilitation",
+    "lifestyle",
+    "smoking",
+    "lipid-lowering",
+    "statins",
+    "ezetimibe",
+    "pcsk9",
+    "beta-blockers",
+    "raas",
+    "polypill",
+    "imaging",
+    "vaccination",
+    "colchicine"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Cardiac rehabilitation",
+        "ru": "Кардиореабилитация"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that all ACS patients participate in a medically supervised, structured, comprehensive, multidisciplinary exercise-based cardiac rehabilitation and prevention programme.",
+            "ru": "Рекомендуется, чтобы все пациенты с ОКС принимали участие в контролируемой врачом, структурированной, комплексной мультидисциплинарной программе кардиореабилитации и профилактики на основе физических тренировок."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Lifestyle management",
+        "ru": "Модификация образа жизни"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "It is recommended that ACS patients adopt a healthy lifestyle, including:\n• stopping all smoking of tobacco\n• healthy diet (Mediterranean style)\n• alcohol restriction\n• regular aerobic physical activity and resistance exercise\n• reduced sedentary time",
+            "ru": "Пациентам с ОКС рекомендуется придерживаться здорового образа жизни, включая:\n• полный отказ от курения табака\n• здоровое питание (средиземноморский стиль)\n• ограничение алкоголя\n• регулярные аэробные физические нагрузки и силовые упражнения\n• сокращение времени сидячего образа жизни"
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In smokers, offering follow-up support, nicotine replacement therapy, varenicline or bupropion, individually or in combination, should be considered.",
+            "ru": "Курильщикам следует рассмотреть возможность предложения поддержки при наблюдении, никотинзаместительной терапии, варениклина или бупропиона по отдельности или в комбинации."
+          },
+          "class": "IIa",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Pharmacological treatment: Lipid-lowering therapy",
+        "ru": "Медикаментозное лечение: Гиполипидемическая терапия"
+      },
+      "rows": [
+        {
+          "id": "r04",
+          "text": {
+            "en": "It is recommended that high-dose statin therapy is initiated or continued as early as possible, regardless of initial LDL-C values.",
+            "ru": "Рекомендуется начинать или продолжать терапию высокими дозами статинов как можно раньше, независимо от исходного уровня ХС-ЛНП."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "It is recommended to aim to achieve an LDL-C level of <1.4 mmol/L (<55 mg/dL) and to reduce LDL-C by ≥50% from baseline.",
+            "ru": "Рекомендуется стремиться к достижению целевого уровня ХС-ЛНП <1,4 ммоль/л (<55 мг/дл) и снижению ХС-ЛНП на ≥50% от исходного уровня."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "If the LDL-C goal is not achieved despite maximally tolerated statin therapy after 4–6 weeks, the addition of ezetimibe is recommended.",
+            "ru": "Если целевой уровень ХС-ЛНП не достигнут, несмотря на прием максимально переносимой дозы статинов через 4–6 недель, рекомендуется добавление эзетимиба."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "If the LDL-C goal is not achieved despite maximally tolerated statin therapy and ezetimibe after 4–6 weeks, the addition of a PCSK9 inhibitor is recommended.",
+            "ru": "Если целевой уровень ХС-ЛНП не достигнут через 4–6 недель, несмотря на терапию максимально переносимой дозой статина и эзетимибом, рекомендуется добавление ингибитора PCSK9."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "It is recommended to intensify lipid-lowering therapy^[c] during the index ACS hospitalization for patients who were on lipid-lowering therapy before admission.",
+            "ru": "Рекомендуется интенсифицировать гиполипидемическую терапию^[c] во время индексной госпитализации по поводу ОКС у пациентов, получавших ее до поступления."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "For patients with a recurrent atherothrombotic event (recurrence within 2 years of first ACS episode) while taking maximally tolerated statin-based therapy, an LDL-C goal of <1.0 mmol/L (<40 mg/dL) may be considered.",
+            "ru": "Для пациентов с повторным атеротромботическим событием (рецидив в течение 2 лет после первого эпизода ОКС) на фоне максимально переносимой терапии статинами может быть рассмотрен целевой уровень ХС-ЛНП <1,0 ммоль/л (<40 мг/дл)."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Combination therapy with high-dose statin plus ezetimibe may be considered during index hospitalization.",
+            "ru": "Комбинированная терапия высокой дозой статина плюс эзетимиб может быть рассмотрена во время индексной госпитализации."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en": "Beta-blockers",
+        "ru": "Бета-адреноблокаторы"
+      },
+      "rows": [
+        {
+          "id": "r11",
+          "text": {
+            "en": "Beta-blockers are recommended in ACS patients with LVEF ≤40% regardless of HF symptoms.",
+            "ru": "Бета-адреноблокаторы рекомендуются пациентам с ОКС и ФВЛЖ ≤40% независимо от симптомов СН."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "Routine beta-blockers for all ACS patients regardless of LVEF should be considered.",
+            "ru": "Рутинное назначение бета-блокаторов всем пациентам с ОКС независимо от ФВЛЖ следует рассматривать."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "title": {
+        "en": "RAAS system inhibitors",
+        "ru": "Ингибиторы ренин-ангиотензин-альдостероновой системы (РААС)"
+      },
+      "rows": [
+        {
+          "id": "r13",
+          "text": {
+            "en": "Angiotensin-converting enzyme (ACE) inhibitors^[d] are recommended in ACS patients with HF symptoms, LVEF ≤40%, diabetes, hypertension, and/or CKD.",
+            "ru": "Ингибиторы АПФ^[d] рекомендуются пациентам с ОКС при наличии симптомов СН, ФВЛЖ ≤40%, сахарного диабета, артериальной гипертензии и/или ХБП."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "Mineralocorticoid receptor antagonists are recommended in ACS patients with an LVEF ≤40% and HF or diabetes.",
+            "ru": "Антагонисты минералокортикоидных рецепторов (АМКР) рекомендуются пациентам с ОКС при ФВЛЖ ≤40% и наличии СН или сахарного диабета."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "Routine ACE inhibitors for all ACS patients regardless of LVEF should be considered.",
+            "ru": "Рутинное назначение ингибиторов АПФ всем пациентам с ОКС независимо от ФВЛЖ следует рассматривать."
+          },
+          "class": "IIa",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "title": {
+        "en": "Adherence to medication",
+        "ru": "Приверженность к медикаментозной терапии"
+      },
+      "rows": [
+        {
+          "id": "r16",
+          "text": {
+            "en": "A polypill should be considered as an option to improve adherence and outcomes in secondary prevention after ACS.",
+            "ru": "Полипил (поликомпонентная фиксированная комбинация) следует рассматривать как опцию для повышения приверженности и улучшения исходов во вторичной профилактике после ОКС."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "title": {
+        "en": "Imaging",
+        "ru": "Визуализация"
+      },
+      "rows": [
+        {
+          "id": "r17",
+          "text": {
+            "en": "In patients with pre-discharge LVEF ≤40%, repeat evaluation of the LVEF 6–12 weeks after an ACS (and after complete revascularization and the institution of optimal medical therapy) is recommended to assess the potential need for sudden cardiac death primary prevention ICD implantation.",
+            "ru": "У пациентов с ФВЛЖ ≤40% перед выпиской рекомендуется повторная оценка ФВЛЖ через 6–12 недель после ОКС (и после полной реваскуляризации и назначения оптимальной медикаментозной терапии) для оценки потребности в первичной профилактике внезапной сердечной смерти с помощью имплантации ИКД."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r18",
+          "text": {
+            "en": "Cardiac magnetic resonance imaging should be considered as an adjunctive imaging modality in order to assess the potential need for primary prevention ICD implantation.",
+            "ru": "МРТ сердца следует рассматривать как дополнительный метод визуализации для оценки потенциальной потребности в первичной профилактической имплантации ИКД."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "title": {
+        "en": "Vaccination",
+        "ru": "Вакцинация"
+      },
+      "rows": [
+        {
+          "id": "r19",
+          "text": {
+            "en": "Influenza vaccination is recommended for all ACS patients.",
+            "ru": "Вакцинация против гриппа рекомендуется всем пациентам с ОКС."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "title": {
+        "en": "Anti-inflammatory drugs",
+        "ru": "Противовоспалительные препараты"
+      },
+      "rows": [
+        {
+          "id": "r20",
+          "text": {
+            "en": "Low-dose colchicine (0.5 mg once daily) may be considered, particularly if other risk factors are insufficiently controlled or if recurrent cardiovascular disease events occur under optimal therapy.",
+            "ru": "Низкие дозы колхицина (0,5 мг 1 раз в сутки) могут быть рассмотрены, особенно если другие факторы риска недостаточно контролируются или если на фоне оптимальной терапии возникают повторные сердечно-сосудистые события."
+          },
+          "class": "IIb",
+          "level": "A"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Increase statin potency/dose if the patient was on low-potency/low-dose statin, add ezetimibe if the patient was only on statins at highest tolerated dose, or add PCSK9 inhibitor if the patient was on statins plus ezetimibe.",
+      "ru": "Увеличить силу/дозу статина, если пациент получал низкоинтенсивный статин/низкую дозу, добавить эзетимиб, если пациент получал только статин в максимально переносимой дозе, или добавить ингибитор PCSK9, если пациент получал статин плюс эзетимиб."
+    },
+    "d": {
+      "en": "Angiotensin receptor blockers in cases of intolerance.",
+      "ru": "Блокаторы рецепторов ангиотензина при непереносимости ингибиторов АПФ."
+    }
+  },
+  "source": {
+    "expectedRows": 20
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

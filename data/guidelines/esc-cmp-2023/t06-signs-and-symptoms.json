@@ -1,0 +1,489 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t06-signs-and-symptoms",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Examples of signs and symptoms that should raise the suspicion of specific aetiologies, grouped according to cardiomyopathy phenotype",
+    "ru": "Примеры признаков и симптомов («красных флажков»), вызывающих подозрение на специфическую этиологию, сгруппированные по фенотипам кардиомиопатий"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "red-flags",
+    "phenotype",
+    "hcm",
+    "dcm",
+    "ndlvc",
+    "arvc",
+    "rcm"
+  ],
+  "columns": [
+    {
+      "id": "c_finding",
+      "title": {
+        "en": "Finding",
+        "ru": "Клинический признак"
+      }
+    },
+    {
+      "id": "c_hcm",
+      "title": {
+        "en": "HCM",
+        "ru": "ГКМП"
+      }
+    },
+    {
+      "id": "c_dcm",
+      "title": {
+        "en": "DCM",
+        "ru": "ДКМП"
+      }
+    },
+    {
+      "id": "c_ndlvc",
+      "title": {
+        "en": "NDLVC",
+        "ru": "НДЛЖКМП"
+      }
+    },
+    {
+      "id": "c_arvc",
+      "title": {
+        "en": "ARVC",
+        "ru": "АКПЖ"
+      }
+    },
+    {
+      "id": "c_rcm",
+      "title": {
+        "en": "RCM",
+        "ru": "РКМП"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Learning difficulties, developmental delay",
+            "ru": "Трудности в обучении, задержка психомоторного развития"
+          }
+        },
+        {
+          "text": {
+            "en": "• Mitochondrial diseases\n• Noonan syndrome\n• Danon disease",
+            "ru": "• Митохондриальные болезни\n• Синдром Нунан\n• Болезнь Данона"
+          }
+        },
+        {
+          "text": {
+            "en": "• Dystrophinopathies\n• Mitochondrial diseases\n• Myotonic dystrophy\n• FKTN variants",
+            "ru": "• Дистрофинопатии\n• Митохондриальные болезни\n• Миотоническая дистрофия\n• Варианты гена FKTN"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": {
+            "en": "Noonan syndrome",
+            "ru": "Синдром Нунан"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Sensorineural deafness",
+            "ru": "Нейросенсорная тугоухость"
+          }
+        },
+        {
+          "text": {
+            "en": "• Mitochondrial diseases\n• NSML",
+            "ru": "• Митохондриальные болезни\n• NSML (LEOPARD-синдром)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Epicardin variants\n• Mitochondrial diseases",
+            "ru": "• Варианты гена эпикардина\n• Митохондриальные болезни"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Visual impairment",
+            "ru": "Нарушение зрения"
+          }
+        },
+        {
+          "text": {
+            "en": "• Mitochondrial diseases\n• ATTRv or hereditary ATTR\n• Danon disease\n• Anderson–Fabry disease^[a]",
+            "ru": "• Митохондриальные болезни\n• Наследственный ATTR-амилоидоз\n• Болезнь Данона\n• Болезнь Андерсона–Фабри^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "• CRYAB\n• Type 2 myotonic dystrophy",
+            "ru": "• CRYAB\n• Миотоническая дистрофия 2 типа"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Gait disturbance",
+            "ru": "Нарушение походки"
+          }
+        },
+        {
+          "text": {
+            "en": "Friedreich ataxia",
+            "ru": "Атаксия Фридрейха"
+          }
+        },
+        {
+          "text": {
+            "en": "• Dystrophinopathies\n• Sarcoglycanopathies\n• Myofibrillar myopathies",
+            "ru": "• Дистрофинопатии\n• Саркогликанопатии\n• Миофибриллярные миопатии"
+          }
+        },
+        {
+          "text": {
+            "en": "Myofibrillar myopathies",
+            "ru": "Миофибриллярные миопатии"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Myotonia",
+            "ru": "Миотония"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": {
+            "en": "Myotonic dystrophy",
+            "ru": "Миотоническая дистрофия"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Paraesthesia / sensory abnormalities / neuropathic pain",
+            "ru": "Парестезии / сенсорные нарушения / нейропатическая боль"
+          }
+        },
+        {
+          "text": {
+            "en": "• Amyloidosis\n• Anderson–Fabry disease",
+            "ru": "• Амилоидоз\n• Болезнь Андерсона–Фабри"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": {
+            "en": "Amyloidosis",
+            "ru": "Амилоидоз"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Carpal tunnel syndrome",
+            "ru": "Синдром запястного (карпального) канала"
+          }
+        },
+        {
+          "text": {
+            "en": "TTR-related amyloidosis",
+            "ru": "ATTR-амилоидоз"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "Muscle weakness",
+            "ru": "Мышечная слабость"
+          }
+        },
+        {
+          "text": {
+            "en": "• Mitochondrial diseases\n• Glycogenoses\n• FHL1 variants",
+            "ru": "• Митохондриальные болезни\n• Гликогенозы\n• Варианты гена FHL1"
+          }
+        },
+        {
+          "text": {
+            "en": "• Dystrophinopathies\n• Sarcoglycanopathies\n• Laminopathies\n• Myotonic dystrophy\n• Desminopathies",
+            "ru": "• Дистрофинопатии\n• Саркогликанопатии\n• Ламинопатии\n• Миотоническая дистрофия\n• Десминопатии"
+          }
+        },
+        {
+          "text": {
+            "en": "• Laminopathies\n• Desminopathies",
+            "ru": "• Ламинопатии\n• Десминопатии"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": {
+            "en": "Desminopathies",
+            "ru": "Десминопатии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "Palpebral ptosis",
+            "ru": "Птоз век"
+          }
+        },
+        {
+          "text": {
+            "en": "Mitochondrial diseases",
+            "ru": "Митохондриальные болезни"
+          }
+        },
+        {
+          "text": {
+            "en": "• Mitochondrial diseases\n• Myotonic dystrophy",
+            "ru": "• Митохондриальные болезни\n• Миотоническая дистрофия"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        {
+          "text": {
+            "en": "Lentigines",
+            "ru": "Лентигиноз (лентиго)"
+          }
+        },
+        {
+          "text": {
+            "en": "NSML",
+            "ru": "NSML (синдром Нунан с множественными лентиго)"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    },
+    {
+      "id": "r11",
+      "cells": [
+        {
+          "text": {
+            "en": "Angiokeratomata",
+            "ru": "Ангиокератомы"
+          }
+        },
+        {
+          "text": {
+            "en": "Anderson–Fabry disease",
+            "ru": "Болезнь Андерсона–Фабри"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "cells": [
+        {
+          "text": {
+            "en": "Pigmentation of skin and scars",
+            "ru": "Гиперпигментация кожи и рубцов"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": {
+            "en": "Haemochromatosis",
+            "ru": "Гемохроматоз"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    },
+    {
+      "id": "r13",
+      "cells": [
+        {
+          "text": {
+            "en": "Palmoplantar keratoderma and woolly hair",
+            "ru": "Ладонно-подошвенная кератодермия и курчавые (шерстистые) волосы"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": {
+            "en": "• Carvajal syndrome\n• DSP variants",
+            "ru": "• Синдром Карвахаля\n• Варианты гена DSP"
+          }
+        },
+        {
+          "text": {
+            "en": "DSP variants",
+            "ru": "Варианты гена DSP"
+          }
+        },
+        {
+          "text": {
+            "en": "• Naxos and Carvajal syndromes\n• DSP variants",
+            "ru": "• Синдромы Наксоса и Карвахаля\n• Варианты гена DSP"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Cornea verticillata, characteristic of Anderson–Fabry disease, does not cause visual impairment per se.",
+      "ru": "Мутовчатая кератопатия (cornea verticillata), характерная для болезни Фабри, сама по себе не вызывает снижения остроты зрения."
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t21-high-risk-genotypes-scd",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 21",
+  "type": "grid",
+  "title": {
+    "en": "High-risk genotypes and associated predictors of sudden cardiac death in DCM and NDLVC",
+    "ru": "Генотипы высокого риска и ассоциированные предикторы внезапной сердечной смерти при ДКМП и НДЛЖКМП"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "dcm",
+    "ndlvc",
+    "genetics",
+    "scd",
+    "lmna",
+    "flnc",
+    "tmem43",
+    "pln",
+    "dsp",
+    "rbm20"
+  ],
+  "columns": [
+    {
+      "id": "c_gene",
+      "title": {
+        "en": "Gene",
+        "ru": "Ген"
+      }
+    },
+    {
+      "id": "c_rate",
+      "title": {
+        "en": "Annual SCD rate",
+        "ru": "Ежегодная частота ВСС"
+      }
+    },
+    {
+      "id": "c_predictors",
+      "title": {
+        "en": "Predictors of SCD",
+        "ru": "Предикторы ВСС"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "LMNA",
+            "ru": "LMNA"
+          }
+        },
+        {
+          "text": {
+            "en": "5–10%",
+            "ru": "5–10%"
+          }
+        },
+        {
+          "text": {
+            "en": "Estimated 5-year risk of life-threatening arrhythmia using LMNA risk score (https://lmna-risk-vta.fr)",
+            "ru": "Расчетный 5-летний риск жизнеугрожающих аритмий по шкале риска LMNA (https://lmna-risk-vta.fr)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "FLNC-truncating variants",
+            "ru": "FLNC (укорачивающие варианты)"
+          }
+        },
+        {
+          "text": {
+            "en": "5–10%",
+            "ru": "5–10%"
+          }
+        },
+        {
+          "text": {
+            "en": "• LGE on CMR\n• LVEF <45%",
+            "ru": "• Наличие фиброза (LGE) по данным МРТ сердца\n• ФВ ЛЖ <45%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "TMEM43",
+            "ru": "TMEM43"
+          }
+        },
+        {
+          "text": {
+            "en": "5–10%",
+            "ru": "5–10%"
+          }
+        },
+        {
+          "text": {
+            "en": "• Male sex\n• Female and any of the following: LVEF <45%, NSVT, LGE on CMR, >200 VE on 24h Holter ECG",
+            "ru": "• Мужской пол\n• Женский пол при наличии хотя бы одного из критериев: ФВ ЛЖ <45%, пробежки НЖТ, LGE по данным МРТ сердца, >200 желудочковых экстрасистол (ЖЭС) за сутки по Холтеру"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "PLN",
+            "ru": "PLN"
+          }
+        },
+        {
+          "text": {
+            "en": "3–5%",
+            "ru": "3–5%"
+          }
+        },
+        {
+          "text": {
+            "en": "• Estimated 5-year risk of life-threatening arrhythmia using PLN risk score\n• LVEF <45%\n• LGE on CMR\n• NSVT",
+            "ru": "• Расчетный 5-летний риск жизнеугрожающих аритмий по калькулятору риска PLN\n• ФВ ЛЖ <45%\n• Наличие LGE по МРТ сердца\n• Пробежки НЖТ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "DSP",
+            "ru": "DSP"
+          }
+        },
+        {
+          "text": {
+            "en": "3–5%",
+            "ru": "3–5%"
+          }
+        },
+        {
+          "text": {
+            "en": "• LGE on CMR\n• LVEF <45%",
+            "ru": "• Наличие LGE по данным МРТ сердца\n• ФВ ЛЖ <45%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "RBM20",
+            "ru": "RBM20"
+          }
+        },
+        {
+          "text": {
+            "en": "3–5%",
+            "ru": "3–5%"
+          }
+        },
+        {
+          "text": {
+            "en": "• LGE on CMR\n• LVEF <45%",
+            "ru": "• Наличие LGE по данным МРТ сердца\n• ФВ ЛЖ <45%"
+          }
+        }
+      ]
+    }
+  ]
+}

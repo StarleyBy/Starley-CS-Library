@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t24-daily-activity-guidance",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 24",
+  "type": "grid",
+  "title": {
+    "en": "General guidance for daily activity for patients with cardiomyopathies",
+    "ru": "Общие рекомендации по повседневной активности для пациентов с кардиомиопатиями"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "daily-activity",
+    "lifestyle",
+    "exercise",
+    "diet",
+    "driving",
+    "occupation",
+    "travel"
+  ],
+  "columns": [
+    {
+      "id": "c_topic",
+      "title": {
+        "en": "Topic",
+        "ru": "Тема"
+      }
+    },
+    {
+      "id": "c_guidance",
+      "title": {
+        "en": "General guidance",
+        "ru": "Общие рекомендации"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Exercise",
+            "ru": "Физические упражнения"
+          }
+        },
+        {
+          "text": {
+            "en": "• See earlier section on exercise recommendations.",
+            "ru": "• См. предшествующий раздел по рекомендациям относительно физических упражнений."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Diet, alcohol use, and weight",
+            "ru": "Диета, употребление алкоголя и масса тела"
+          }
+        },
+        {
+          "text": {
+            "en": "• Patients should be encouraged to maintain a recommended body mass index.\n• Avoid dehydration, excess alcohol intake, and drugs consumption.",
+            "ru": "• Пациентам рекомендуется поддерживать целевой индекс массы тела.\n• Следует избегать дегидратации, избыточного употребления алкоголя и приема рекреационных психоактивных веществ/наркотиков."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Smoking",
+            "ru": "Курение"
+          }
+        },
+        {
+          "text": {
+            "en": "• There are no data that show an interaction between tobacco smoking and cardiomyopathy, but patients should be provided with general advice on the health risks associated with smoking, including pro-arrhythmic and pro-inflammatory effects and, when available, information on smoking cessation.",
+            "ru": "• Нет данных, демонстрирующих прямое взаимодействие курения табака и кардиомиопатии, однако пациентам следует предоставить общие рекомендации о рисках для здоровья, связанных с курением, включая проаритмические и провоспалительные эффекты, а также при возможности информацию о программах отказа от курения."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Reproductive issues",
+            "ru": "Репродуктивные вопросы"
+          }
+        },
+        {
+          "text": {
+            "en": "• Patients should be given the opportunity to discuss their concerns about reproductive issues. Anxiety and depression following a diagnosis are frequent, and some patients may express guilt or fear about their genetic diagnosis and the risk of transmission to offspring.",
+            "ru": "• Пациентам должна быть предоставлена возможность обсудить опасения по репродуктивным вопросам. Тревога и депрессия после постановки диагноза встречаются часто, некоторые пациенты могут выражать чувство вины или страха из-за генетического диагноза и риска передачи потомству."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Sexual activity",
+            "ru": "Половая активность"
+          }
+        },
+        {
+          "text": {
+            "en": "• Patients should be counselled on the potential effect of their medication on sexual performance.\n• Most people with cardiomyopathy will be able to undertake normal sexual activity. Individualized advice should be provided regarding its safety and the possible impact of sexual activity on the risk of disease progression, ventricular arrhythmias, and/or ICD shocks.",
+            "ru": "• Пациентов следует консультировать о потенциальном влиянии медикаментов на половую функцию.\n• Большинство пациентов с кардиомиопатией могут вести нормальную сексуальную жизнь. Должны предоставляться индивидуальные рекомендации относительно безопасности и возможного влияния половой активности на риск прогрессирования заболевания, желудочковых аритмий и/или срабатываний ИКД."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Medication",
+            "ru": "Медикаментозная терапия"
+          }
+        },
+        {
+          "text": {
+            "en": "• Patients should be provided with information about their medication, including potential side and teratogenic effects and interactions with prescribed medications, over-the-counter remedies, and other complementary therapies.",
+            "ru": "• Пациентам необходимо предоставить полную информацию об их лекарственных средствах, включая потенциальные побочные и тератогенные эффекты, а также лекарственные взаимодействия с рецептурными препаратами, безрецептурными средствами и комплементарной терапией."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Vaccination",
+            "ru": "Вакцинация"
+          }
+        },
+        {
+          "text": {
+            "en": "• In the absence of contraindications, patients should be advised to have regular recommended vaccinations (e.g. yearly influenza and SARS-CoV-2 vaccination).",
+            "ru": "• При отсутствии противопоказаний пациентам рекомендуется регулярное проведение регламентированной вакцинации (например, ежегодная вакцинация против гриппа и SARS-CoV-2)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "Driving",
+            "ru": "Управление автотранспортом"
+          }
+        },
+        {
+          "text": {
+            "en": "• Most patients should be eligible for an ordinary driving licence and can continue driving unless they experience distracting or disabling symptoms.\n• Advice on driving licences for heavy goods or passenger-carrying vehicles should be in line with local legislation.\n• For further information on driving with ICDs, see local rules.",
+            "ru": "• Большинство пациентов имеют право на получение обычного водительского удостоверения и могут продолжать вождение при отсутствии симптомов, снижающих внимание или вызывающих инвалидизацию.\n• Заключение о правах на управление грузовым или пассажирским транспортом должно соответствовать местному законодательству.\n• Дополнительную информацию об управлении автомобилем при наличии ИКД см. в локальных нормативных актах."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "Occupation",
+            "ru": "Профессиональная деятельность"
+          }
+        },
+        {
+          "text": {
+            "en": "• Most people with cardiomyopathy will be able to accomplish their normal jobs. The implications of heavily manual jobs that involve strenuous activity should be discussed with the appropriate specialist.\n• For some occupations, such as pilots, military personnel, and emergency services personnel, there are strict guidelines or rules on eligibility.\n• The social and financial implications of a diagnosis of cardiomyopathy should be included in the counselling of relatives before clinical or genetic screening.",
+            "ru": "• Большинство людей с кардиомиопатией могут выполнять свою обычную профессиональную деятельность. Вопросы, связанные с тяжелым физическим трудом, требующим значительных нагрузок, следует обсудить с профильным специалистом.\n• Для некоторых профессий (пилоты, военнослужащие, сотрудники экстренных служб) действуют строгие нормативы допуска.\n• Социальные и финансовые последствия диагноза кардиомиопатии должны обсуждаться при консультировании родственников перед клиническим или генетическим скринингом."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        {
+          "text": {
+            "en": "Holidays and travel insurance",
+            "ru": "Отпуск и туристическое страхование"
+          }
+        },
+        {
+          "text": {
+            "en": "• Most asymptomatic or mildly symptomatic patients can fly safely. For further information on flying with ICD, see 'Fitness to fly for passengers with cardiovascular disease'.\n• Insurance companies may charge more for travel insurance. In some countries, patient support organizations can provide advice about obtaining reasonable insurance.",
+            "ru": "• Большинство бессимптомных пациентов или пациентов с легкими симптомами могут безопасно летать самолетами. Дополнительную информацию о перелетах с ИКД см. в рекомендациях по допуску к перелетам пассажиров с ССЗ.\n• Страховые компании могут повышать тарифы на медстраховку для путешествий. В ряде стран пациентские организации помогают получить адекватные условия страхования."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11",
+      "cells": [
+        {
+          "text": {
+            "en": "Life insurance",
+            "ru": "Страхование жизни"
+          }
+        },
+        {
+          "text": {
+            "en": "• The diagnosis of cardiomyopathy will result in difficulty obtaining life insurance or mortgages. Advice on the rules that apply in different countries should be provided to patients at diagnosis.",
+            "ru": "• Диагноз кардиомиопатии может затруднить оформление страхования жизни или ипотеки. Пациентам при постановке диагноза следует разъяснять правила, действующие в конкретной стране."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "cells": [
+        {
+          "text": {
+            "en": "Pregnancy and childbirth",
+            "ru": "Беременность и роды"
+          }
+        },
+        {
+          "text": {
+            "en": "• See Section 8.2 and Recommendation Table 32.",
+            "ru": "• См. раздел 8.2 и Таблицу рекомендаций 32."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13",
+      "cells": [
+        {
+          "text": {
+            "en": "Education/schooling",
+            "ru": "Образование и школа"
+          }
+        },
+        {
+          "text": {
+            "en": "• Teachers and other carers should be provided with advice and written information relevant to the care of children with cardiomyopathy.\n• In the absence of symptoms and risk factors, children should be allowed to perform low- to moderate-level aerobic physical activity, in accordance with advice from their paediatric cardiologist. Advice on high-intensity exercise in children should be guided by cardiomyopathy phenotype and the presence of symptoms and risk factors within a specialist paediatric cardiomyopathy setting.\n• Provision should be made for children with learning difficulties and other special needs.\n• Parents, teachers, and staff at sports facilities should be trained in CPR and in the use of AEDs.",
+            "ru": "• Преподавателям и опекунам должны быть предоставлены разъяснения и письменная информация по уходу за детьми с кардиомиопатией.\n• При отсутствии симптомов и факторов риска детям разрешаются аэробные физические нагрузки низкой и умеренной интенсивности в соответствии с рекомендациями детского кардиолога. Решение об интенсивных нагрузках принимается на основе фенотипа и факторов риска в специализированном педиатрическом центре.\n• Должны быть предусмотрены условия для детей с трудностями в обучении и особыми потребностями.\n• Родители, преподаватели и персонал спортивных объектов должны быть обучены сердечно-легочной реанимации (СЛР) и применению автоматических наружных дефибрилляторов (АНД)."
+          }
+        }
+      ]
+    }
+  ]
+}

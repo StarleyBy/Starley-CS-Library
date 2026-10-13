@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt02-pah-treatment",
+  "guidelineId": "esc-achd-2020",
+  "number": "9 (Rec PAH)",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for treatment of pulmonary arterial hypertension associated with congenital heart disease",
+    "ru": "Рекомендации по лечению легочной артериальной гипертензии, ассоциированной с ВПС"
+  },
+  "tags": [
+    "achd",
+    "pah",
+    "eisenmenger",
+    "endothelin-receptor-antagonists",
+    "prostanoids",
+    "combination-therapy",
+    "pregnancy-counselling"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that patients with CHD and confirmed pre-capillary PH^[c] are counselled against pregnancy.",
+            "ru": "Пациенткам с ВПС и подтвержденной прекапиллярной ЛГ^[c] рекомендуется советовать избегать беременности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Risk assessment is recommended in all patients with PAH-CHD.",
+            "ru": "Стратификация риска рекомендуется всем пациентам с ЛАГ, ассоциированной с ВПС (PAH-CHD)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In low- and intermediate-risk patients with repaired simple lesions and pre-capillary PH, initial oral combination therapy or sequential combination therapy is recommended and high-risk patients should be treated with initial combination therapy including parenteral prostanoids.",
+            "ru": "У пациентов низкого и промежуточного риска с устраненными простыми дефектами и прекапиллярной ЛГ рекомендуется начальная пероральная или последовательная комбинированная терапия; пациентов высокого риска следует лечить начальной комбинацией препаратов, включающей парентеральные простаноиды."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In Eisenmenger patients with reduced exercise capacity (6MWT distance <450 m), a treatment strategy with initial endothelin receptor antagonist monotherapy should be considered followed by combination therapy if patients fail to improve.",
+            "ru": "У пациентов с синдромом Эйзенменгера со сниженной толерантностью к нагрузке (дистанция в тесте 6-минутной ходьбы <450 м) следует рассматривать начальную монотерапию антагонистами рецепторов эндотелина с последующим переходом на комбинированную терапию при отсутствии улучшения."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "The risk of pregnancy in patients with pre-capillary PH is very high. It may be less in pregnancies of patients with post-capillary PH, therefore, a right heart catheterization is necessary in all patients with a suspicion of pre-capillary PH to confirm the diagnosis.",
+      "ru": "Риск беременности при прекапиллярной ЛГ чрезвычайно высок. Он может быть ниже при посткапиллярной ЛГ, поэтому катетеризация правых отделов сердца необходима всем пациенткам с подозрением на прекапиллярную ЛГ для подтверждения диагноза."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

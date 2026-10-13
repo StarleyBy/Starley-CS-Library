@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-2023",
+  "classes": {
+    "I": {
+      "wording": { "en": "Is recommended or is indicated", "ru": "Рекомендовано / показано" },
+      "meaning": {
+        "en": "Evidence and/or general agreement that a given treatment or procedure is beneficial, useful, effective.",
+        "ru": "Доказательства и/или общее согласие, что данное лечение или процедура полезны и эффективны."
+      }
+    },
+    "IIa": {
+      "wording": { "en": "Should be considered", "ru": "Следует рассмотреть" },
+      "meaning": {
+        "en": "Conflicting evidence and/or a divergence of opinion about the usefulness/efficacy of the given treatment or procedure. Weight of evidence/opinion is in favour of usefulness/efficacy.",
+        "ru": "Противоречивые данные и/или расхождение мнений о полезности/эффективности. Преобладают данные/мнения в пользу полезности/эффективности."
+      }
+    },
+    "IIb": {
+      "wording": { "en": "May be considered", "ru": "Можно рассмотреть" },
+      "meaning": {
+        "en": "Conflicting evidence and/or a divergence of opinion about the usefulness/efficacy of the given treatment or procedure. Usefulness/efficacy is less well established by evidence/opinion.",
+        "ru": "Противоречивые данные и/или расхождение мнений о полезности/эффективности. Полезность/эффективность менее убедительно подтверждена данными/мнениями."
+      }
+    },
+    "III": {
+      "wording": { "en": "Is not recommended", "ru": "Не рекомендовано" },
+      "meaning": {
+        "en": "Evidence or general agreement that the given treatment or procedure is not useful/effective, and in some cases may be harmful.",
+        "ru": "Доказательства или общее согласие, что лечение или процедура не полезны/не эффективны, а в ряде случаев могут быть вредны."
+      }
+    }
+  },
+  "levels": {
+    "A": {
+      "meaning": {
+        "en": "Data derived from multiple randomized clinical trials or meta-analyses.",
+        "ru": "Данные нескольких рандомизированных клинических исследований или метаанализов."
+      }
+    },
+    "B": {
+      "meaning": {
+        "en": "Data derived from a single randomized clinical trial or large non-randomized studies.",
+        "ru": "Данные одного рандомизированного клинического исследования или крупных нерандомизированных исследований."
+      }
+    },
+    "C": {
+      "meaning": {
+        "en": "Consensus of opinion of the experts and/or small studies, retrospective studies, registries.",
+        "ru": "Консенсус экспертов и/или небольшие исследования, ретроспективные исследования, регистры."
+      }
+    }
+  }
+}

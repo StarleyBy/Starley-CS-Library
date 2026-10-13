@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt30-atrial-flutter",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 30",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for prevention of thromboembolism in atrial flutter",
+    "ru": "Рекомендации по профилактике тромбоэмболии при трепетании предсердий"
+  },
+  "tags": [
+    "afl",
+    "atrial-flutter",
+    "anticoagulation",
+    "thromboembolism",
+    "stroke"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for prevention of thromboembolism in atrial flutter",
+        "ru": "Рекомендации по профилактике тромбоэмболии при трепетании предсердий"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Oral anticoagulation is recommended in patients with atrial flutter at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Оральная антикоагулянтная терапия рекомендуется пациентам с трепетанием предсердий при повышенном риске тромбоэмболии для профилактики ишемического инсульта и системных тромбоэмболий."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

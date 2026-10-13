@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt24-acs-and-pci",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 24",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for patients with acute coronary syndromes or undergoing percutaneous intervention",
+    "ru": "Рекомендации для пациентов с острым коронарным синдромом или подвергающихся чрескожному вмешательству"
+  },
+  "tags": [
+    "af",
+    "acs",
+    "pci",
+    "antiplatelet",
+    "doac",
+    "rivaroxaban",
+    "dabigatran",
+    "vka",
+    "triple-therapy",
+    "chronic-coronary-disease"
+  ],
+  "sections": [
+    {
+      "id": "sec-general-af-antiplatelet",
+      "title": {
+        "en": "General recommendations for patients with AF and an indication for concomitant antiplatelet therapy",
+        "ru": "Общие рекомендации для пациентов с ФП и показаниями к сопутствующей антиагрегантной терапии"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "For combinations with antiplatelet therapy, a DOAC is recommended in eligible patients in preference to a VKA to mitigate bleeding risk and prevent thromboembolism.",
+            "ru": "При комбинации с антиагрегантной терапией у подходящих пациентов рекомендуется отдавать предпочтение ПОАК перед АВК для снижения риска кровотечений и профилактики тромбоэмболии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Rivaroxaban 15 mg once daily should be considered in preference to rivaroxaban 20 mg once daily when combined with antiplatelet therapy in patients where concerns about bleeding risk prevail over concerns about stent thrombosis or ischaemic stroke.",
+            "ru": "Следует рассмотреть прием ривароксабана 15 мг 1 раз в сутки предпочтительнее ривароксабана 20 мг 1 раз в сутки в комбинации с антиагрегантной терапией у пациентов, у которых опасения по поводу риска кровотечений преобладают над риском тромбоза стента или ишемического инсульта."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Dabigatran 110 mg twice daily should be considered in preference to dabigatran 150 mg twice daily when combined with antiplatelet therapy in patients where concerns about bleeding risk prevail over concerns about stent thrombosis or ischaemic stroke.",
+            "ru": "Следует рассмотреть прием дабигатрана 110 мг 2 раза в сутки предпочтительнее дабигатрана 150 мг 2 раза в сутки в комбинации с антиагрегантной терапией у пациентов, у которых опасения по поводу риска кровотечений преобладают над риском тромбоза стента или ишемического инсульта."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Carefully regulated VKA dosing with a target INR of 2.0–2.5 and TTR >70% should be considered when combined with antiplatelet therapy in AF patients to mitigate bleeding risk.",
+            "ru": "У пациентов с ФП при комбинации АВК с антиагрегантной терапией следует рассмотреть тщательно контролируемое дозирование АВК с целевым МНО 2,0–2,5 и TTR >70% для снижения риска кровотечений."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-af-acs",
+      "title": {
+        "en": "Recommendations for AF patients with ACS",
+        "ru": "Рекомендации для пациентов с ФП и ОКС"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Early cessation (≤1 week) of aspirin and continuation of an oral anticoagulant (preferably DOAC) with a P2Y₁₂ inhibitor (preferably clopidogrel) for up to 12 months is recommended in AF patients with ACS undergoing an uncomplicated PCI to avoid major bleeding, if the risk of thrombosis is low or bleeding risk is high.",
+            "ru": "У пациентов с ФП и ОКС, перенесших неосложненное ЧКВ, рекомендуется раннее прекращение приема аспирина (≤1 недели) и продолжение терапии оральным антикоагулянтом (предпочтительно ПОАК) в сочетании с ингибитором P2Y₁₂ (предпочтительно клопидогрелом) на срок до 12 месяцев для предотвращения больших кровотечений, если риск тромбоза низкий или риск кровотечения высокий."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Triple therapy with aspirin, clopidogrel, and oral anticoagulation for longer than 1 week after an ACS should be considered in patients with AF when ischaemic risk outweighs the bleeding risk, with the total duration (≤1 month) decided according to assessment of these risks and clear documentation of the discharge treatment plan.",
+            "ru": "Тройная терапия аспирином, клопидогрелом и оральным антикоагулянтом продолжительностью более 1 недели после ОКС должна рассматриваться у пациентов с ФП, когда ишемический риск превышает риск кровотечения, при этом общая продолжительность (≤1 месяца) определяется на основе оценки этих рисков с четким документированием плана лечения при выписке."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-af-pci",
+      "title": {
+        "en": "Recommendations for AF patients undergoing PCI",
+        "ru": "Рекомендации для пациентов с ФП, подвергающихся ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "After uncomplicated PCI, early cessation (≤1 week) of aspirin and continuation of an oral anticoagulant and a P2Y₁₂ inhibitor (preferably clopidogrel) for up to 6 months is recommended to avoid major bleeding, if ischaemic risk is low.",
+            "ru": "После неосложненного ЧКВ рекомендуется раннее прекращение приема аспирина (≤1 недели) и продолжение терапии оральным антикоагулянтом и ингибитором P2Y₁₂ (предпочтительно клопидогрелом) на срок до 6 месяцев для предотвращения больших кровотечений, если ишемический риск низкий."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Triple therapy with aspirin, clopidogrel, and an oral anticoagulant for longer than 1 week should be considered after PCI when the risk of stent thrombosis outweighs the bleeding risk, with the total duration (≤1 month) decided according to assessment of these risks and clear documentation.",
+            "ru": "Тройная терапия аспирином, клопидогрелом и оральным антикоагулянтом продолжительностью более 1 недели должна рассматриваться после ЧКВ, когда риск тромбоза стента преобладает над риском кровотечения, с определением общей продолжительности (≤1 месяца) на основе оценки этих рисков и четким документированием."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-af-chronic-coronary",
+      "title": {
+        "en": "Recommendations for AF patients with chronic coronary or vascular disease",
+        "ru": "Рекомендации для пациентов с ФП и хронической коронарной или сосудистой болезнью"
+      },
+      "rows": [
+        {
+          "id": "r09",
+          "text": {
+            "en": "Antiplatelet therapy beyond 12 months is not recommended in stable patients with chronic coronary or vascular disease treated with oral anticoagulation, due to lack of efficacy and to avoid major bleeding.",
+            "ru": "Антиагрегантная терапия продолжительностью более 12 месяцев не рекомендуется стабильным пациентам с хронической коронарной или сосудистой патологией, получающим оральные антикоагулянты, из-за отсутствия доказанной эффективности и во избежание больших кровотечений."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

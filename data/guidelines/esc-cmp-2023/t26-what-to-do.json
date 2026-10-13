@@ -1,0 +1,964 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t26-what-to-do",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 26",
+  "type": "recommendations",
+  "title": {
+    "en": "Section 16: 'What to do' and 'What not to do' messages from the Guidelines",
+    "ru": "Раздел 16: Ключевые положения «Что делать» и «Чего не делать» руководства"
+  },
+  "tags": [
+    "what-to-do",
+    "what-not-to-do",
+    "summary",
+    "class-i",
+    "class-iii",
+    "cardiomyopathy",
+    "hcm",
+    "dcm",
+    "arvc",
+    "rcm",
+    "ndlvc",
+    "icd",
+    "genetics"
+  ],
+  "sections": [
+    {
+      "id": "sec01-multidisciplinary-teams",
+      "title": {
+        "en": "Recommendations for the provision of service of multidisciplinary cardiomyopathy teams",
+        "ru": "Рекомендации по обеспечению работы мультидисциплинарных команд по кардиомиопатиям"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that all patients with cardiomyopathy and their relatives have access to multidisciplinary teams with expertise in the diagnosis and management of cardiomyopathies.",
+            "ru": "Рекомендуется, чтобы все пациенты с кардиомиопатией и их родственники имели доступ к мультидисциплинарным командам с экспертным опытом в диагностике и ведении кардиомиопатий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Timely and adequate preparation for transition of care from paediatric to adult services, including joint consultations, is recommended in all adolescents with cardiomyopathy.",
+            "ru": "Рекомендуется своевременная и адекватная подготовка к переходу наблюдения из педиатрической службы во взрослую сеть, включая совместные консультации, у всех подростков с кардиомиопатией."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec02-diagnostic-workup",
+      "title": {
+        "en": "Recommendations for diagnostic work-up in cardiomyopathies",
+        "ru": "Рекомендации по диагностическому поиску при кардиомиопатиях"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "It is recommended that all patients with suspected or established cardiomyopathy undergo systematic evaluation using a multiparametric approach that includes clinical evaluation, pedigree analysis, ECG, Holter monitoring, laboratory tests, and multimodality imaging.",
+            "ru": "Рекомендуется, чтобы всем пациентам с подозрением на кардиомиопатию или установленным диагнозом проводилось систематическое обследование с использованием мультипараметрического подхода, включающего клиническую оценку, анализ родословной, ЭКГ, холтеровское мониторирование, лабораторные тесты и мультимодальную визуализацию."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "It is recommended that all patients with suspected cardiomyopathy undergo evaluation of family history and that a three- to four-generation family tree is created to aid in diagnosis, provide clues to underlying aetiology, determine inheritance pattern, and identify at-risk relatives.",
+            "ru": "Рекомендуется сбор семейного анамнеза и построение родословного древа в 3–4 поколениях у всех пациентов с подозрением на кардиомиопатию для содействия диагностике, выявления этиологии, определения типа наследования и выявления родственников группы риска."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec03-laboratory-tests",
+      "title": {
+        "en": "Recommendations for laboratory tests in the diagnosis of cardiomyopathies",
+        "ru": "Рекомендации по лабораторным исследованиям при диагностике кардиомиопатий"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Routine (first-level) laboratory tests are recommended in all patients with suspected or confirmed cardiomyopathy to evaluate aetiology, assess disease severity, and aid in detection of extracardiac manifestations and assessment of secondary organ dysfunction.",
+            "ru": "Рутинные (первого уровня) лабораторные тесты рекомендуются всем пациентам с подозрением на кардиомиопатию или подтвержденным диагнозом для оценки этиологии, тяжести заболевания, выявления экстракардиальных проявлений и вторичной органной дисфункции."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec04-echocardiography",
+      "title": {
+        "en": "Recommendation for echocardiographic evaluation in patients with cardiomyopathy",
+        "ru": "Рекомендация по эхокардиографической оценке у пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "A comprehensive evaluation of cardiac dimensions and LV and RV systolic (global and regional) and LV diastolic function is recommended in all patients with cardiomyopathy at initial evaluation, and during follow-up, to monitor disease progression and aid risk stratification and management.",
+            "ru": "Комплексная оценка размеров камер сердца, систолической (глобальной и регионарной) функции ЛЖ и ПЖ, а также диастолической функции ЛЖ рекомендуется всем пациентам с кардиомиопатией при первичном обследовании и в ходе динамического наблюдения для мониторинга прогрессирования, стратификации риска и тактики лечения."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec05-cmr",
+      "title": {
+        "en": "Recommendations for cardiac magnetic resonance indication in patients with cardiomyopathy",
+        "ru": "Рекомендации по МРТ сердца у пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "Contrast-enhanced CMR is recommended in patients with cardiomyopathy at initial evaluation.",
+            "ru": "МРТ сердца с контрастным усилением рекомендуется пациентам с кардиомиопатией при первичном обследовании."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec06-ct-nuclear",
+      "title": {
+        "en": "Recommendations for computed tomography and nuclear imaging",
+        "ru": "Рекомендации по компьютерной томографии и радионуклидной диагностике"
+      },
+      "rows": [
+        {
+          "id": "r08",
+          "text": {
+            "en": "DPD/PYP/HMDP bone-tracer scintigraphy is recommended in patients with suspected ATTR-related cardiac amyloidosis to aid diagnosis.",
+            "ru": "Сцинтиграфия с остеотропными радиофармпрепаратами (DPD/PYP/HMDP) рекомендуется пациентам с подозрением на ATTR-кардиомиопатию (амилоидоз сердца) для подтверждения диагноза."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec07-genetics",
+      "title": {
+        "en": "Recommendations for genetic counselling and testing in cardiomyopathies",
+        "ru": "Рекомендации по медико-генетическому консультированию и тестированию при кардиомиопатиях"
+      },
+      "rows": [
+        {
+          "id": "r09",
+          "text": {
+            "en": "Genetic counselling, provided by an appropriately trained healthcare professional and including genetic education to inform decision-making and psychosocial support, is recommended for families with an inherited or suspected inherited cardiomyopathy, regardless of whether genetic testing is being considered.",
+            "ru": "Медико-генетическое консультирование, проводимое квалифицированным специалистом и включающее генетическое информирование для принятия решений и психосоциальную поддержку, рекомендуется семьям с наследственной или предполагаемой наследственной кардиомиопатией, независимо от того, планируется ли генетическое тестирование."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "It is recommended that genetic testing for cardiomyopathy is performed with access to a multidisciplinary team, including those with expertise in genetic testing methodology, sequence variant interpretation, and clinical application of genetic testing, typically in a specialized cardiomyopathy service or in a network model with access to equivalent expertise.",
+            "ru": "Рекомендуется, чтобы генетическое тестирование при кардиомиопатии проводилось при участии мультидисциплинарной команды, включающей специалистов по методологии тестирования, интерпретации вариантов последовательности и клиническому применению результатов генетического анализа, предпочтительно в специализированном центре кардиомиопатий или сетевой структуре аналогичного уровня."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "Pre- and post-test genetic counselling is recommended in all individuals undergoing genetic testing for cardiomyopathy.",
+            "ru": "До- и послетестовое медико-генетическое консультирование рекомендуется всем лицам, проходящим генетическое тестирование по поводу кардиомиопатии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "If pre-natal diagnostic testing is to be pursued by the family, it is recommended that this is performed early in pregnancy, to allow decisions regarding continuation or co-ordination of pregnancy to be made.",
+            "ru": "Если семья принимает решение о пренатальной диагностике, рекомендуется проводить ее на ранних сроках беременности, чтобы своевременно принять решение о сохранении или ведении беременности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "Genetic testing is recommended in patients fulfilling diagnostic criteria for cardiomyopathy in cases where it enables diagnosis, prognostication, therapeutic stratification, or reproductive management of the patient, or where it enables cascade genetic evaluation of their relatives who would otherwise be enrolled into long-term surveillance.",
+            "ru": "Генетическое тестирование рекомендуется пациентам, соответствующим диагностическим критериям кардиомиопатии, в случаях, когда оно обеспечивает верификацию диагноза, прогноз, стратификацию терапии или репродуктивное консультирование пациента, либо обеспечивает каскадное генетическое обследование родственников, которым в противном случае потребовалось бы длительное клиническое наблюдение."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "Genetic testing is recommended for a deceased individual identified to have cardiomyopathy at post-mortem if a genetic diagnosis would facilitate management of surviving relatives.",
+            "ru": "Генетическое тестирование рекомендуется у умершего человека, у которого при аутопсии выявлена кардиомиопатия, если генетический диагноз может оптимизировать ведение выживших родственников."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "It is recommended that cascade genetic testing, with pre- and post-test counselling, is offered to adult at-risk relatives if a confident genetic diagnosis (i.e. a P/LP variant) has been established in an individual with cardiomyopathy in the family (starting with first-degree relatives if available, and cascading out sequentially).",
+            "ru": "Рекомендуется предлагать каскадное генетическое тестирование с до- и послетестовым консультированием взрослым родственникам группы риска, если у члена семьи с кардиомиопатией установлен достоверный генетический диагноз (патогенный/вероятно патогенный вариант), начиная с родственников первой степени родства с последовательным переходом к последующим."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r16",
+          "text": {
+            "en": "Diagnostic genetic testing is not recommended in a phenotype-negative relative of a patient with cardiomyopathy in the absence of a confident genetic diagnosis (i.e. a P/LP variant) in the family.",
+            "ru": "Диагностическое генетическое тестирование не рекомендуется у фенотип-негативного родственника пациента с кардиомиопатией в отсутствие достоверного генетического диагноза (патогенного/вероятно патогенного варианта) в семье."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec08-transplantation",
+      "title": {
+        "en": "Recommendations for cardiac transplantation in patients with cardiomyopathy",
+        "ru": "Рекомендации по трансплантации сердца у пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r17",
+          "text": {
+            "en": "Orthotopic cardiac transplantation is recommended for eligible cardiomyopathy patients with advanced heart failure (NYHA class III–IV) or intractable ventricular arrhythmia refractory to medical/invasive/device therapy, and who do not have absolute contraindications.",
+            "ru": "Ортотопическая трансплантация сердца рекомендуется подходящим пациентам с кардиомиопатией и терминальной сердечной недостаточностью (NYHA III–IV ФК) или рефрактерными желудочковыми аритмиями, устойчивыми к медикаментозной/инвазивной/аппаратной терапии, при отсутствии абсолютных противопоказаний."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec09-af-afl",
+      "title": {
+        "en": "Recommendations for management of atrial fibrillation and atrial flutter in patients with cardiomyopathy",
+        "ru": "Рекомендации по ведению фибрилляции предсердий и трепетания предсердий у пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r18",
+          "text": {
+            "en": "Oral anticoagulation in order to reduce the risk of stroke and thromboembolic events is recommended in all patients with HCM or cardiac amyloidosis and AF or atrial flutter (unless contraindicated).",
+            "ru": "Пероральная антикоагулянтная терапия для снижения риска инсульта и тромбоэмболических осложнений рекомендуется всем пациентам с ГКМП или амилоидозом сердца при развитии ФП или трепетания предсердий (при отсутствии противопоказаний)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r19",
+          "text": {
+            "en": "Oral anticoagulation to reduce the risk of stroke and thrombo-embolic events is recommended in patients with DCM, NDLVC, or ARVC, and AF or atrial flutter with a CHA2DS2-VASc score ≥2 in men or ≥3 in women.",
+            "ru": "Пероральная антикоагулянтная терапия для снижения риска инсульта и тромбоэмболических осложнений рекомендуется пациентам с ДКМП, ННКМПЛЖ или АКПЖ при ФП или трепетании предсердий при балле по шкале CHA2DS2-VASc ≥2 для мужчин или ≥3 для женщин."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r20",
+          "text": {
+            "en": "Atrial fibrillation catheter ablation is recommended for rhythm control after one failed or intolerant class I or III AAD to improve symptoms of AF recurrences in patients with paroxysmal or persistent AF and cardiomyopathy.",
+            "ru": "Катетерная аблация фибрилляции предсердий рекомендуется для контроля ритма после неэффективности или непереносимости одного антиаритмического препарата I или III класса для облегчения симптомов рецидивов ФП у пациентов с пароксизмальной или персистирующей ФП и кардиомиопатией."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r21",
+          "text": {
+            "en": "Atrial fibrillation catheter ablation is recommended to reverse LV dysfunction in AF patients with cardiomyopathy when a tachycardia-induced component is highly probable, independent of their symptom status.",
+            "ru": "Катетерная аблация фибрилляции предсердий рекомендуется для обратного развития дисфункции ЛЖ у пациентов с кардиомиопатией и ФП, если высока вероятность тахииндуцированного компонента, независимо от наличия клинических симптомов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r22",
+          "text": {
+            "en": "Modification of an unhealthy lifestyle and targeted therapy of intercurrent conditions is recommended to reduce AF burden and symptom severity in patients with cardiomyopathy.",
+            "ru": "Коррекция нездорового образа жизни и таргетная терапия сопутствующих состояний рекомендуются для уменьшения бремени ФП и выраженности симптомов у пациентов с кардиомиопатией."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec10-icd",
+      "title": {
+        "en": "Recommendations for implantable cardioverter defibrillator in patients with cardiomyopathy",
+        "ru": "Рекомендации по имплантируемому кардиовертеру-дефибриллятору у пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r23",
+          "text": {
+            "en": "Implantation of a cardioverter defibrillator is only recommended in patients who have an expectation of good quality survival >1 year.",
+            "ru": "Имплантация кардиовертера-дефибриллятора рекомендуется только пациентам с ожидаемой продолжительностью качественной жизни более 1 года."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r24",
+          "text": {
+            "en": "It is recommended that ICD implantation be guided by shared decision-making that: is evidence-based; considers a person's individual preferences, beliefs, circumstances, and values; and ensures that the person understands the benefits, harm, and possible consequences of different treatment options.",
+            "ru": "Рекомендуется, чтобы решение об имплантации ИКД принималось в рамках совместного принятия решений, основанного на доказательствах, с учетом индивидуальных предпочтений, взглядов, обстоятельств и ценностей пациента и с гарантией понимания пользы, рисков и последствий вариантов терапии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r25",
+          "text": {
+            "en": "It is recommended that prior to ICD implantation, patients are counselled on the risk of inappropriate shocks, implant complications, and the social, occupational, and driving implications of the device.",
+            "ru": "Рекомендуется до имплантации ИКД консультировать пациентов относительно риска немотивированных шоков, осложнений процедуры, а также социальных, профессиональных ограничений и ограничений на вождение автомобиля."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r26",
+          "text": {
+            "en": "It is not recommended to implant an ICD in patients with incessant ventricular arrhythmias until the ventricular arrhythmia is controlled.",
+            "ru": "Не рекомендуется имплантировать ИКД пациентам с непрерывно-рецидивирующими желудочковыми аритмиями (incessant VT) до достижения стабильного контроля аритмии."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r27",
+          "text": {
+            "en": "Implantation of an ICD is recommended in patients with HCM, DCM, and ARVC who have survived a cardiac arrest due to VT or VF, or who have spontaneous sustained ventricular arrhythmia causing syncope or haemodynamic compromise in the absence of reversible causes.",
+            "ru": "Имплантация ИКД рекомендуется пациентам с ГКМП, ДКМП и АКПЖ, пережившим остановку сердца вследствие ЖТ или ФЖ либо перенесшим спонтанную устойчивую желудочковую аритмию с синкопе или гемодинамическими нарушениями при отсутствии обратимых причин."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r28",
+          "text": {
+            "en": "Implantation of an ICD is recommended in patients with NDLVC and RCM who have survived a cardiac arrest due to VT or VF, or who have spontaneous sustained ventricular arrhythmia causing syncope or haemodynamic compromise in the absence of reversible causes.",
+            "ru": "Имплантация ИКД рекомендуется пациентам с ННКМПЛЖ и РКМП, пережившим остановку сердца вследствие ЖТ или ФЖ либо перенесшим спонтанную устойчивую желудочковую аритмию с синкопе или гемодинамическими нарушениями при отсутствии обратимых причин."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r29",
+          "text": {
+            "en": "Comprehensive SCD risk stratification is recommended in all cardiomyopathy patients who have not suffered a previous cardiac arrest/sustained ventricular arrhythmia at initial evaluation and at 1–2 year intervals, or whenever there is a change in clinical status.",
+            "ru": "Комплексная стратификация риска ВСС рекомендуется всем пациентам с кардиомиопатией без предшествующей остановки сердца/устойчивой желудочковой аритмии при первичном обследовании и каждые 1–2 года либо при любом изменении клинического статуса."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r30",
+          "text": {
+            "en": "The use of validated SCD algorithms/scores as aids to the shared decision-making when offering ICD implantation, where available, is recommended in patients with HCM.",
+            "ru": "Использование валидированных калькуляторов/алгоритмов риска ВСС для совместного принятия решений при предложении имплантации ИКД рекомендуется пациентам с ГКМП."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r31",
+          "text": {
+            "en": "When an ICD is indicated, it is recommended to evaluate whether the patient could benefit from CRT.",
+            "ru": "При наличии показаний к ИКД рекомендуется оценить, может ли пациент получить пользу от сердечной ресинхронизирующей терапии (СРТ)."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec11-follow-up",
+      "title": {
+        "en": "Recommendations for routine follow-up of patients with cardiomyopathy",
+        "ru": "Рекомендации по плановому диспансерному наблюдению пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r32",
+          "text": {
+            "en": "It is recommended that all clinically stable patients with cardiomyopathy undergo routine follow-up using a multiparametric approach that includes ECG and echocardiography every 1–2 years.",
+            "ru": "Рекомендуется, чтобы все клинически стабильные пациенты с кардиомиопатией проходили плановое наблюдение с использованием мультипараметрического подхода, включающего ЭКГ и эхокардиографию каждые 1–2 года."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r33",
+          "text": {
+            "en": "Clinical evaluation with ECG and multimodality imaging is recommended in patients with cardiomyopathy whenever there is a substantial or unexpected change in symptoms.",
+            "ru": "Клиническая оценка с регистрацией ЭКГ и мультимодальной визуализацией рекомендуется пациентам с кардиомиопатией при любом существенном или неожиданном изменении симптомов."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec12-family-screening",
+      "title": {
+        "en": "Recommendations for family screening and follow-up evaluation of relatives",
+        "ru": "Рекомендации по скринингу семей и динамическому наблюдению родственников"
+      },
+      "rows": [
+        {
+          "id": "r34",
+          "text": {
+            "en": "Following cascade genetic testing, clinical evaluation using a multiparametric approach that includes ECG and cardiac imaging and long-term follow-up is recommended in first-degree relatives who have the same disease-causing variant as the proband.",
+            "ru": "После проведения каскадного генетического тестирования клиническое обследование с использованием мультипараметрического подхода, включающего ЭКГ и визуализацию сердца, а также долгосрочное наблюдение рекомендуются родственникам первой степени родства, являющимся носителями патогенного варианта пробанда."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r35",
+          "text": {
+            "en": "Following cascade genetic testing, it is recommended that first-degree relatives without a phenotype who do not have the same disease-causing variant as the proband are discharged from further follow-up but advised to seek re-assessment if they develop symptoms or when new clinically relevant data emerge in the family.",
+            "ru": "После каскадного генетического тестирования родственники первой степени родства без клинического фенотипа, не унаследовавшие патогенный вариант пробанда, снимаются с дальнейшего наблюдения с рекомендацией обратиться повторно при возникновении симптомов или появлении новых клинических данных в семье."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r36",
+          "text": {
+            "en": "It is recommended that when no P/LP variant is identified in the proband or genetic testing is not performed, an initial clinical evaluation using a multiparametric approach that includes ECG and cardiac imaging is performed in first-degree relatives.",
+            "ru": "Рекомендуется проведение первичного клинического обследования с мультипараметрическим подходом (ЭКГ и визуализация сердца) родственникам первой степени родства, если у пробанда не выявлен P/LP вариант или генетическое тестирование не проводилось."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec13-psychological-support",
+      "title": {
+        "en": "Recommendations for psychological support in patients and family members with cardiomyopathies",
+        "ru": "Рекомендации по психологической поддержке пациентов и членов семей с кардиомиопатиями"
+      },
+      "rows": [
+        {
+          "id": "r37",
+          "text": {
+            "en": "It is recommended that psychological support by an appropriately trained health professional be offered to all individuals who have experienced the premature sudden cardiac death of a family member with cardiomyopathy.",
+            "ru": "Рекомендуется предлагать психологическую поддержку квалифицированного специалиста всем лицам, пережившим преждевременную внезапную сердечную смерть члена семьи с кардиомиопатией."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r38",
+          "text": {
+            "en": "It is recommended that psychological support by an appropriately trained health professional be offered to all individuals with an inherited cardiomyopathy who receive an implantable cardioverter defibrillator.",
+            "ru": "Рекомендуется предлагать психологическую поддержку квалифицированного специалиста всем пациентам с наследственной кардиомиопатией, которым имплантируется кардиовертер-дефибриллятор."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec14-lvoto-evaluation",
+      "title": {
+        "en": "Recommendation for evaluation of left ventricular outflow tract obstruction",
+        "ru": "Рекомендация по оценке обструкции выводного тракта левого желудочка"
+      },
+      "rows": [
+        {
+          "id": "r39",
+          "text": {
+            "en": "In all patients with HCM, at initial evaluation, transthoracic 2D and Doppler echocardiography are recommended, at rest and during Valsalva manoeuvre in the sitting and semi-supine positions—and then on standing if no gradient is provoked—to detect LVOTO.",
+            "ru": "Всем пациентам с ГКМП при первичном обследовании рекомендуется проведение трансторакальной двухмерной и допплеровской эхокардиографии в покое и при пробе Вальсальвы в положении сидя и полулежа, а при отсутствии градиента — в положении стоя, для выявления ООТЛЖ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r40",
+          "text": {
+            "en": "In symptomatic patients with HCM and a resting or provoked peak instantaneous LV outflow tract gradient <50 mmHg, 2D and Doppler echocardiography during exercise in the standing, sitting (when possible), or semi-supine position are recommended to detect provocable LVOTO and exercise-induced mitral regurgitation.",
+            "ru": "У симптомных пациентов с ГКМП и максимальным градиентом в ВТЛЖ в покое или при провокации <50 мм рт. ст. рекомендуется выполнение двухмерной и допплеровской эхокардиографии при физической нагрузке (в положении стоя, сидя или полулежа) для выявления провоцируемой ООТЛЖ и индуцированной нагрузкой митральной регургитации."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec15-lvoto-medical-treatment",
+      "title": {
+        "en": "Recommendations for medical treatment of left ventricular outflow tract obstruction",
+        "ru": "Рекомендации по медикаментозному лечению обструкции выводного тракта левого желудочка"
+      },
+      "rows": [
+        {
+          "id": "r41",
+          "text": {
+            "en": "Non-vasodilating beta-blockers, titrated to maximum tolerated dose, are recommended as first-line therapy to improve symptoms in patients with resting or provoked LVOTO.",
+            "ru": "Невазодилатирующие бета-блокаторы, титруемые до максимально переносимой дозы, рекомендуются в качестве терапии первой линии для облегчения симптомов у пациентов с обструкцией ВТЛЖ в покое или при провокации."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r42",
+          "text": {
+            "en": "Verapamil or diltiazem, titrated to maximum tolerated dose, are recommended to improve symptoms in symptomatic patients with resting or provoked LVOTO who are intolerant or have contraindications to beta-blockers.",
+            "ru": "Верапамил или дилтиазем, титруемые до максимально переносимой дозы, рекомендуются для облегчения симптомов у симптомных пациентов с обструкцией ВТЛЖ в покое или при провокации при непереносимости или противопоказаниях к бета-блокаторам."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r43",
+          "text": {
+            "en": "Disopyramide, titrated to maximum tolerated dose, is recommended in addition to a beta-blocker (or, if this is not possible, with verapamil or diltiazem) to improve symptoms in patients with resting or provoked LVOTO.",
+            "ru": "Дизопирамид, титруемый до максимально переносимой дозы, рекомендуется в дополнение к бета-блокатору (или, если это невозможно, к верапамилу или дилтиазему) для облегчения симптомов у пациентов с обструкцией ВТЛЖ в покое или при провокации."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec16-septal-reduction",
+      "title": {
+        "en": "Recommendations for septal reduction therapy",
+        "ru": "Рекомендации по септальной редукционной терапии"
+      },
+      "rows": [
+        {
+          "id": "r44",
+          "text": {
+            "en": "It is recommended that SRT be performed by experienced operators working as part of a multidisciplinary team expert in the management of HCM.",
+            "ru": "Рекомендуется, чтобы септальная редукционная терапия выполнялась опытными специалистами в составе мультидисциплинарной команды экспертов по ведению ГКМП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r45",
+          "text": {
+            "en": "SRT to improve symptoms is recommended in patients with a resting or maximum provoked LVOT gradient of ≥50 mmHg who are in NYHA/Ross functional class III–IV, despite maximum tolerated medical therapy.",
+            "ru": "Септальная редукционная терапия для облегчения симптомов рекомендуется пациентам с градиентом в ВТЛЖ в покое или при максимальной провокации ≥50 мм рт. ст., сохраняющим III–IV функциональный класс по NYHA/Ross, несмотря на максимально переносимую медикаментозную терапию."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r46",
+          "text": {
+            "en": "Septal myectomy, rather than ASA, is recommended in children with an indication for SRT, as well as in adult patients with an indication for SRT and other lesions requiring surgical intervention (e.g. mitral valve abnormalities).",
+            "ru": "Септальная миэктомия предпочтительнее спиртовой септальной аблации у детей с показаниями к редукционной терапии, а также у взрослых пациентов с показаниями к редукции и сопутствующими поражениями, требующими хирургического вмешательства (например, аномалиями митрального клапана)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec17-scd-prevention-hcm",
+      "title": {
+        "en": "Additional recommendations for prevention of sudden cardiac death in patients with hypertrophic cardiomyopathy",
+        "ru": "Дополнительные рекомендации по профилактике внезапной сердечной смерти у пациентов с гипертрофической кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r47",
+          "text": {
+            "en": "Implantation of an ICD is recommended in patients who have survived a cardiac arrest due to VT or VF, or who have spontaneous sustained VT with haemodynamic compromise.",
+            "ru": "Имплантация ИКД рекомендуется пациентам, пережившим остановку сердца вследствие ЖТ или ФЖ либо перенесшим спонтанную устойчивую ЖТ с нарушениями гемодинамики."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r48",
+          "text": {
+            "en": "The HCM Risk-SCD calculator is recommended as a method of estimating risk of sudden death at 5 years in patients aged ≥16 years for primary prevention.",
+            "ru": "Калькулятор HCM Risk-SCD рекомендуется для оценки 5-летнего риска внезапной смерти у пациентов в возрасте ≥16 лет в рамках первичной профилактики."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r49",
+          "text": {
+            "en": "Validated paediatric-specific risk-prediction models (e.g. HCM Risk-Kids) are recommended as a method of estimating risk of sudden death at 5 years in patients aged <16 years for primary prevention.",
+            "ru": "Валидированные педиатрические прогностические модели (например, HCM Risk-Kids) рекомендуются для оценки 5-летнего риска внезапной смерти у пациентов младше 16 лет в рамках первичной профилактики."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r50",
+          "text": {
+            "en": "It is recommended that the 5-year risk of SCD be assessed at first evaluation and re-evaluated at 1–2 year intervals or whenever there is a change in clinical status.",
+            "ru": "Рекомендуется оценивать 5-летний риск ВСС при первичном обследовании и повторно каждые 1–2 года либо при любом изменении клинического статуса."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec18-icd-dcm",
+      "title": {
+        "en": "Recommendations for an implantable cardioverter defibrillator in patients with dilated cardiomyopathy",
+        "ru": "Рекомендации по имплантируемому кардиовертеру-дефибриллятору у пациентов с дилатационной кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r51",
+          "text": {
+            "en": "An ICD is recommended to reduce the risk of sudden death and all-cause mortality in patients with DCM who have survived a cardiac arrest or have recovered from a ventricular arrhythmia causing haemodynamic instability.",
+            "ru": "ИКД рекомендуется для снижения риска внезапной смерти и общей смертности у пациентов с ДКМП, переживших остановку сердца или купированную желудочковую аритмию, вызвавшую нестабильность гемодинамики."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec19-monitoring-ndlvc",
+      "title": {
+        "en": "Recommendation for resting and ambulatory electrocardiogram monitoring in patients with non-dilated left ventricular cardiomyopathy",
+        "ru": "Рекомендация по ЭКГ покоя и амбулаторному мониторированию ЭКГ у пациентов с недилатированной кардиомиопатией левого желудочка"
+      },
+      "rows": [
+        {
+          "id": "r52",
+          "text": {
+            "en": "Ambulatory ECG monitoring is recommended in patients with NDLVC annually or when there is a change in clinical status, to aid in management and risk stratification.",
+            "ru": "Амбулаторное мониторирование ЭКГ рекомендуется пациентам с ННКМПЛЖ ежегодно или при изменении клинического статуса для оптимизации лечения и стратификации риска."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec20-icd-ndlvc",
+      "title": {
+        "en": "Recommendations for an implantable cardioverter defibrillator in patients with non-dilated left ventricular cardiomyopathy",
+        "ru": "Рекомендации по имплантируемому кардиовертеру-дефибриллятору у пациентов с недилатированной кардиомиопатией левого желудочка"
+      },
+      "rows": [
+        {
+          "id": "r53",
+          "text": {
+            "en": "An ICD is recommended to reduce the risk of sudden death and all-cause mortality in patients with NDLVC who have survived a cardiac arrest or have recovered from a ventricular arrhythmia causing haemodynamic instability.",
+            "ru": "ИКД рекомендуется для снижения риска внезапной смерти и общей смертности у пациентов с ННКМПЛЖ, переживших остановку сердца или купированную желудочковую аритмию, вызвавшую гемодинамическую нестабильность."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec21-monitoring-arvc",
+      "title": {
+        "en": "Recommendation for resting and ambulatory electrocardiogram monitoring in patients with arrhythmogenic right ventricular cardiomyopathy",
+        "ru": "Рекомендация по ЭКГ покоя и амбулаторному мониторированию ЭКГ у пациентов с аритмогенной кардиомиопатией правого желудочка"
+      },
+      "rows": [
+        {
+          "id": "r54",
+          "text": {
+            "en": "Annual ambulatory ECG monitoring is recommended in patients with ARVC to aid in diagnosis, management, and risk stratification.",
+            "ru": "Ежегодное амбулаторное мониторирование ЭКГ рекомендуется пациентам с АКПЖ для содействия диагностике, тактике ведения и стратификации риска."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec22-antiarrhythmic-arvc",
+      "title": {
+        "en": "Recommendations for the antiarrhythmic management of patients with arrhythmogenic right ventricular cardiomyopathy",
+        "ru": "Рекомендации по антиаритмической терапии у пациентов с аритмогенной кардиомиопатией правого желудочка"
+      },
+      "rows": [
+        {
+          "id": "r55",
+          "text": {
+            "en": "Beta-blocker therapy is recommended in ARVC patients with VE, NSVT, and VT.",
+            "ru": "Терапия бета-блокаторами рекомендуется пациентам с АКПЖ при наличии желудочковой экстрасистолии, неустойчивой ЖТ и устойчивой ЖТ."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec23-scd-arvc",
+      "title": {
+        "en": "Recommendations for sudden cardiac death prevention in patients with arrhythmogenic right ventricular cardiomyopathy",
+        "ru": "Рекомендации по профилактике внезапной сердечной смерти у пациентов с аритмогенной кардиомиопатией правого желудочка"
+      },
+      "rows": [
+        {
+          "id": "r56",
+          "text": {
+            "en": "An ICD is recommended to reduce the risk of sudden death and all-cause mortality in patients with ARVC who have survived a cardiac arrest or have recovered from a ventricular arrhythmia causing haemodynamic instability.",
+            "ru": "ИКД рекомендуется для снижения риска внезапной смерти и общей смертности у пациентов с АКПЖ, переживших остановку сердца или купированную желудочковую аритмию, вызвавшую гемодинамическую нестабильность."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec24-rcm",
+      "title": {
+        "en": "Recommendations for the management of patients with restrictive cardiomyopathy",
+        "ru": "Рекомендации по ведению пациентов с рестриктивной кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r57",
+          "text": {
+            "en": "It is recommended that multimodality imaging be used to differentiate RCM from HCM or DCM with restrictive physiology.",
+            "ru": "Рекомендуется применять мультимодальную визуализацию для дифференциальной диагностики РКМП от ГКМП или ДКМП с рестриктивной физиологией."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r58",
+          "text": {
+            "en": "It is recommended that baseline cardiac and non-cardiac investigations are performed to assess involvement of the neuromuscular system or other syndromic disorders.",
+            "ru": "Рекомендуется проведение исходных кардиологических и некардиологических исследований для оценки вовлечения нервно-мышечной системы или других синдромальных нарушений."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r59",
+          "text": {
+            "en": "Cardiac catheterization is recommended in all children with RCM to measure pulmonary artery pressures and PVR at diagnosis and at 6–12 monthly intervals to assess change in PVR.",
+            "ru": "Катетеризация сердца рекомендуется всем детям с РКМП для измерения давления в легочной артерии и ЛСС при постановке диагноза и с интервалами 6–12 месяцев для оценки динамики ЛСС."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r60",
+          "text": {
+            "en": "ICD implantation is recommended to reduce the risk of sudden death and all-cause mortality in patients with RCM who have survived a cardiac arrest or have recovered from a ventricular arrhythmia causing haemodynamic instability.",
+            "ru": "Имплантация ИКД рекомендуется для снижения риска внезапной смерти и общей смертности у пациентов с РКМП, переживших остановку сердца или купированную желудочковую аритмию с гемодинамической нестабильностью."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec25-exercise-sports",
+      "title": {
+        "en": "Exercise recommendations for cardiomyopathy patients",
+        "ru": "Рекомендации по физическим нагрузкам у пациентов с кардиомиопатиями"
+      },
+      "rows": [
+        {
+          "id": "r61",
+          "text": {
+            "en": "Regular low- to moderate-intensity exercise is recommended in all able individuals with cardiomyopathy.",
+            "ru": "Регулярные физические нагрузки низкой и умеренной интенсивности рекомендуются всем способным к ним пациентам с кардиомиопатией."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r62",
+          "text": {
+            "en": "An individualized risk assessment for exercise prescription is recommended in all patients with cardiomyopathy.",
+            "ru": "Индивидуальная оценка риска перед назначением режима физических тренировок рекомендуется всем пациентам с кардиомиопатией."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r63",
+          "text": {
+            "en": "High-intensity exercise, including competitive sport, is not recommended in high-risk individuals and in individuals with left ventricular outflow tract obstruction and exercise-induced complex ventricular arrhythmias.",
+            "ru": "Высокоинтенсивные физические нагрузки, включая спорт высших достижений (соревновательный спорт), не рекомендуются пациентам высокого риска, а также лицам с обструкцией ВТЛЖ и сложными индуцированными нагрузкой желудочковыми аритмиями."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r64",
+          "text": {
+            "en": "Moderate- and/or high-intensity exercise, including competitive sport, is not recommended in individuals with ARVC.",
+            "ru": "Физические нагрузки умеренной и/или высокой интенсивности, включая соревновательный спорт, не рекомендуются пациентам с АКПЖ."
+          },
+          "class": "III",
+          "level": "B"
+        },
+        {
+          "id": "r65",
+          "text": {
+            "en": "High-intensity exercise, including competitive sport, is not recommended in symptomatic individuals, those with a left ventricular ejection fraction ≤40%, exercise-induced arrhythmias, or pathogenic variants in LMNA or TMEM43.",
+            "ru": "Высокоинтенсивные физические нагрузки, включая соревновательный спорт, не рекомендуются пациентам с клиническими симптомами, фракцией выброса ЛЖ ≤40%, индуцированными нагрузкой аритмиями или патогенными вариантами в генах LMNA либо TMEM43."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec26-reproductive-issues",
+      "title": {
+        "en": "Recommendations for reproductive issues in patients with cardiomyopathy",
+        "ru": "Рекомендации по репродуктивным вопросам у пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r66",
+          "text": {
+            "en": "Pre-pregnancy risk assessment and counselling are recommended in all women using the mWHO classification of maternal risk.",
+            "ru": "Прегравидарная оценка риска и консультирование рекомендуются всем женщинам с использованием классификации материнского риска mWHO."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r67",
+          "text": {
+            "en": "Counselling on safe and effective contraception is recommended in all women of fertile age and their partners.",
+            "ru": "Консультирование по вопросам безопасной и эффективной контрацепции рекомендуется всем женщинам фертильного возраста и их партнерам."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r68",
+          "text": {
+            "en": "Counselling on the risk of disease inheritance is recommended for all men and women before conception.",
+            "ru": "Консультирование относительно риска наследования заболевания рекомендуется всем мужчинам и женщинам до зачатия."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r69",
+          "text": {
+            "en": "Vaginal delivery is recommended in most women with cardiomyopathies, unless there are obstetric indications for caesarean section, severe heart failure (EF <30% or NYHA class III–IV), or severe outflow tract obstructions, or in women presenting in labour on oral anticoagulants.",
+            "ru": "Вагинальные роды рекомендуются большинству женщин с кардиомиопатиями, если нет акушерских показаний к кесареву сечению, тяжелой сердечной недостаточности (ФВ <30% или NYHA III–IV ФК), выраженной обструкции выводного тракта или начала родовой деятельности на фоне приема пероральных антикоагулянтов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r70",
+          "text": {
+            "en": "It is recommended that medication be carefully reviewed for safety in advance of pregnancy and adjusted according to tolerability in pregnancy.",
+            "ru": "Рекомендуется заблаговременно до наступления беременности тщательно оценить безопасность лекарственных средств и скорректировать терапию в соответствии с переносимостью при беременности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r71",
+          "text": {
+            "en": "Therapeutic anticoagulation with LMWH or VKAs according to the stage of pregnancy is recommended for patients with AF.",
+            "ru": "Терапевтическая антикоагуляция НМГ или АВК в зависимости от срока беременности рекомендуется пациенткам с ФП."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec27-non-cardiac-surgery",
+      "title": {
+        "en": "Recommendations for non-cardiac surgery in patients with cardiomyopathy",
+        "ru": "Рекомендации по внесердечным хирургическим вмешательствам у пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r72",
+          "text": {
+            "en": "Peri-operative ECG monitoring is recommended for all patients with cardiomyopathy undergoing surgery.",
+            "ru": "Периоперационный мониторинг ЭКГ рекомендуется всем пациентам с кардиомиопатией, подвергающимся хирургическому вмешательству."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r73",
+          "text": {
+            "en": "In patients with cardiomyopathy and suspected or known HF scheduled for intermediate or high-risk NCS, it is recommended to re-evaluate LV function with echocardiography (assessing LVOTO in HCM patients) and measurement of NT-proBNP/BNP levels, unless this has recently been performed.",
+            "ru": "У пациентов с кардиомиопатией и предполагаемой или известной СН, которым предстоит внесердечное вмешательство промежуточного или высокого риска, рекомендуется повторно оценить функцию ЛЖ с помощью эхокардиографии (с оценкой ООТЛЖ у пациентов с ГКМП) и определить уровень NT-proBNP/BNP, если это не выполнялось недавно."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r74",
+          "text": {
+            "en": "It is recommended that cardiomyopathy patients with high-risk genotypes or associated factors for arrhythmic or heart failure complications or severe LVOTO be referred for additional specialized investigations to a cardiomyopathy unit before undergoing elective NCS.",
+            "ru": "Рекомендуется направлять пациентов с кардиомиопатией, генотипами высокого риска или факторами риска аритмических осложнений, сердечной недостаточности либо тяжелой ООТЛЖ на дополнительное специализированное обследование в экспертный центр кардиомиопатий перед плановым внесердечным хирургическим вмешательством."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r75",
+          "text": {
+            "en": "In patients aged <65 years with a first-degree relative with a cardiomyopathy, it is recommended to perform an ECG and TTE before NCS, regardless of symptoms.",
+            "ru": "У пациентов в возрасте <65 лет, имеющих родственника первой степени родства с кардиомиопатией, рекомендуется выполнить ЭКГ и трансторакальную ЭхоКГ перед внесердечной операцией независимо от наличия симптомов."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec28-cv-risk-factors",
+      "title": {
+        "en": "Recommendation for management of cardiovascular risk factors in patients with cardiomyopathy",
+        "ru": "Рекомендация по контролю сердечно-сосудистых факторов риска у пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r76",
+          "text": {
+            "en": "Identification and management of risk factors and concomitant diseases is recommended as an integral part of the management of cardiomyopathy patients.",
+            "ru": "Выявление и контроль факторов риска и сопутствующих заболеваний рекомендуются как неотъемлемая часть ведения пациентов с кардиомиопатией."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

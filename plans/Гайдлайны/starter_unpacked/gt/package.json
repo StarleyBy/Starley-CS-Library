@@ -1,0 +1,3 @@
+{ "name": "guideline-tables", "private": true, "type": "module",
+  "scripts": { "validate": "node tools/validate-tables.mjs" },
+  "devDependencies": { "ajv": "^8.17.1" } }

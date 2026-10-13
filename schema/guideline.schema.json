@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://starleyby.github.io/Starley-CS-Library/schema/guideline.schema.json",
+  "title": "Guideline metadata",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "id", "society", "year", "title", "shortTitle", "legend"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "Must equal the folder name. Include the year: a new edition is a NEW guideline." },
+    "society": { "type": "string", "minLength": 1 },
+    "year": { "type": "integer", "minimum": 1980, "maximum": 2100 },
+    "title": { "$ref": "#/$defs/i18n" },
+    "shortTitle": { "$ref": "#/$defs/i18n" },
+    "citation": { "type": "string" },
+    "doi": { "type": "string", "pattern": "^10\\.\\d{4,9}/\\S+$" },
+    "legend": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "Id of a file in legends/." },
+    "abbreviations": {
+      "type": "object",
+      "additionalProperties": { "$ref": "#/$defs/i18n" },
+      "description": "Key = abbreviation as printed (not translated); value = expansion EN/RU. Also feeds search."
+    }
+  },
+  "$defs": {
+    "i18n": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["en"],
+      "properties": { "en": { "type": "string", "minLength": 1 }, "ru": { "type": "string" } }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt34-cv-risk-factors",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 34",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for management of cardiovascular risk factors in patients with cardiomyopathy",
+    "ru": "Рекомендация по коррекции сердечно-сосудистых факторов риска у пациентов с кардиомиопатией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "risk-factors",
+    "hypertension",
+    "diabetes",
+    "obesity",
+    "lifestyle"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendation for management of cardiovascular risk factors in patients with cardiomyopathy",
+        "ru": "Рекомендация по коррекции сердечно-сосудистых факторов риска у пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Identification and management of risk factors and concomitant diseases is recommended as an integral part of the management of cardiomyopathy patients.",
+            "ru": "Выявление и коррекция сердечно-сосудистых факторов риска и сопутствующих заболеваний рекомендуются как неотъемлемая часть комплексного ведения пациентов с кардиомиопатией."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

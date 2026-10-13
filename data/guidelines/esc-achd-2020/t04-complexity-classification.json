@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.t04-complexity-classification",
+  "guidelineId": "esc-achd-2020",
+  "number": "4",
+  "type": "grid",
+  "title": {
+    "en": "Table 4: Classification of congenital heart disease complexity",
+    "ru": "Таблица 4: Классификация сложности врожденных пороков сердца у взрослых"
+  },
+  "tags": [
+    "achd",
+    "complexity",
+    "mild",
+    "moderate",
+    "severe",
+    "classification"
+  ],
+  "columns": [
+    {
+      "id": "category",
+      "title": { "en": "Complexity Level", "ru": "Уровень сложности" }
+    },
+    {
+      "id": "conditions",
+      "title": { "en": "Congenital heart defects / Clinical conditions", "ru": "Пороки сердца / Клинические состояния" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": { "en": "MILD", "ru": "ЛЕГКАЯ СЛОЖНОСТЬ (MILD)" },
+          "tone": "neutral"
+        },
+        {
+          "text": {
+            "en": "• Isolated congenital aortic valve disease and bicuspid aortic disease\n• Isolated congenital mitral valve disease (except parachute valve, cleft leaflet)\n• Mild isolated pulmonary stenosis (infundibular, valvular, supravalvular)\n• Isolated small ASD, VSD, or PDA\n• Repaired secundum ASD, sinus venosus defect, VSD, or PDA without residuae or sequellae, such as chamber enlargement, ventricular dysfunction, or elevated PAP.",
+            "ru": "• Изолированное врожденное поражение аортального клапана и двустворчатый аортальный клапан\n• Изолированное врожденное поражение митрального клапана (кроме парашютовидного клапана и расщепления створки)\n• Легкий изолированный стеноз легочной артерии (подклапанный, клапанный, надклапанный)\n• Изолированные малые ДМПП, ДМЖП или ОАП\n• Корригированные вторичный ДМПП, дефект венозного синуса, ДМЖП или ОАП без резидуальных дефектов или последствий (дилатации камер, дисфункции желудочков или повышенного давления в ЛА)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": { "en": "MODERATE", "ru": "СРЕДНЯЯ СЛОЖНОСТЬ (MODERATE)" },
+          "tone": "neutral"
+        },
+        {
+          "text": {
+            "en": "(Repaired or unrepaired where not specified; alphabetical order):\n• Anomalous pulmonary venous connection (partial or total)\n• Anomalous coronary artery arising from the PA\n• Anomalous coronary artery arising from the opposite sinus\n• Aortic stenosis - subvalvular or supravalvular\n• AVSD, partial or complete, including primum ASD (excluding pulmonary vascular disease)\n• ASD secundum, moderate or large unrepaired (excluding pulmonary vascular disease)\n• Coarctation of the aorta\n• Double chambered right ventricle\n• Ebstein anomaly\n• Marfan syndrome and related HTAD, Turner Syndrome\n• PDA, moderate or large unrepaired (excluding pulmonary vascular disease)\n• Peripheral pulmonary stenosis\n• Pulmonary stenosis (infundibular, valvular, supravalvular), moderate or severe\n• Sinus of Valsalva aneurysm/fistula\n• Sinus venosus defect\n• Tetralogy of Fallot — repaired\n• Transposition of the great arteries after arterial switch operation\n• VSD with associated abnormalities (excluding pulmonary vascular disease) and/or moderate or greater shunt.",
+            "ru": "(Оперированные или неоперированные, если не указано иное):\n• Аномальный дренаж легочных вен (частичный или тотальный)\n• Аномальное отхождение коронарной артерии от легочной артерии\n• Аномальное отхождение коронарной артерии от противоположного синуса\n• Подклапанный или надклапанный аортальный стеноз\n• АВК (частичный или полный), включая первичный ДМПП (без легочно-сосудистой болезни)\n• Вторичный ДМПП умеренный или большой неоперированный (без легочно-сосудистой болезни)\n• Коарктация аорты\n• Двухкамерный правый желудочек\n• Аномалия Эбштейна\n• Синдром Марфана и связанные наследственные аортопатии (HTAD), синдром Тернера\n• ОАП умеренный или большой неоперированный (без легочно-сосудистой болезни)\n• Периферический стеноз легочной артерии\n• Стеноз ЛА (подклапанный, клапанный, надклапанный) умеренный или тяжелый\n• Аневризма / свищ синуса Вальсальвы\n• Дефект венозного синуса\n• Тетрада Фалло (оперированная)\n• Транспозиция магистральных артерий после операции артериального переключения\n• ДМЖП с сопутствующими аномалиями (без легочно-сосудистой болезни) и/или умеренным или большим сбросом."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": { "en": "SEVERE", "ru": "ВЫСОКАЯ СЛОЖНОСТЬ (SEVERE)" },
+          "tone": "neutral"
+        },
+        {
+          "text": {
+            "en": "(Repaired or unrepaired where not specified; alphabetical order):\n• Any CHD (repaired or unrepaired) associated with pulmonary vascular disease (including Eisenmenger syndrome)\n• Any cyanotic CHD (unoperated or palliated)\n• Double-outlet ventricle\n• Fontan circulation\n• Interrupted aortic arch\n• Pulmonary atresia (all forms)\n• Transposition of the great arteries (except for patients with arterial switch operation)\n• Univentricular heart (including double inlet left/right ventricle, tricuspid/mitral atresia, hypoplastic left heart syndrome, any other anatomic abnormality with a functionally single ventricle)\n• Truncus arteriosus\n• Other complex abnormalities of AV and ventriculoarterial connection (i.e. crisscross heart, heterotaxy syndromes, ventricular inversion).",
+            "ru": "(Оперированные или неоперированные, если не указано иное):\n• Любой ВПС, ассоциированный с легочно-сосудистой болезнью (включая синдром Эйзенменгера)\n• Любой цианотический ВПС (неоперированный или паллиативно оперированный)\n• Двойное отхождение магистральных сосудов от желудочка\n• Гемодинамика Фонтена\n• Перерыв дуги аорты\n• Атрезия легочной артерии (все формы)\n• Транспозиция магистральных артерий (кроме пациентов после артериального переключения)\n• Анатомически или функционально единственный желудочек (включая единый приток, атрезию ТК/МК, синдром гипоплазии левых отделов сердца)\n• Общий артериальный ствол\n• Другие сложные аномалии предсердно-желудочковых и желудочково-артериальных соединений (крисс-кросс сердце, гетеротаксические синдромы, инверсия желудочков)."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt12-icd-indications",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 12",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for implantable cardioverter defibrillator in patients with cardiomyopathy",
+    "ru": "Рекомендации по применению имплантируемых кардиовертеров-дефибрилляторов у пациентов с кардиомиопатией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "icd",
+    "scd",
+    "ventricular-arrhythmia",
+    "sudden-cardiac-death",
+    "primary-prevention",
+    "secondary-prevention",
+    "crt-d",
+    "s-icd",
+    "wcd"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "General recommendations",
+        "ru": "Общие рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Implantation of a cardioverter defibrillator is only recommended in patients who have an expectation of good quality survival >1 year.",
+            "ru": "Имплантация кардиовертера-дефибриллятора (ИКД) рекомендуется только пациентам с ожидаемой продолжительностью качественной жизни более 1 года."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "It is recommended that ICD implantation be guided by shared decision-making that: is evidence-based; considers a person's individual preferences, beliefs, circumstances, and values; and ensures that the person understands the benefits, harms, and possible consequences of different treatment options.",
+            "ru": "Рекомендуется принимать решение об имплантации ИКД в рамках совместного принятия решений с пациентом: на основе доказательной медицины, с учетом индивидуальных предпочтений, убеждений, жизненных обстоятельств и ценностей пациента, а также с гарантией понимания им пользы, рисков и возможных последствий различных вариантов лечения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "It is recommended that prior to ICD implantation, patients are counselled on the risk of inappropriate shocks, implant complications, and the social, occupational, and driving implications of the device.",
+            "ru": "Перед имплантацией ИКД рекомендуется подробно проконсультировать пациента о риске неоправданных (мотивированных/немотивированных) шоков, осложнений процедуры имплантации, а также о социальных, профессиональных ограничениях и правилах управления автотранспортом."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "It is not recommended to implant an ICD in patients with incessant ventricular arrhythmias until the ventricular arrhythmia is controlled.",
+            "ru": "Не рекомендуется имплантировать ИКД пациентам с непрерывно рецидивирующими (incessant) желудочковыми аритмиями до тех пор, пока аритмия не будет медикаментозно или интервенционно купирована/взята под контроль."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Secondary prevention",
+        "ru": "Вторичная профилактика"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Implantation of an ICD is recommended in patients with HCM, DCM, and ARVC who have survived a cardiac arrest due to VT or VF, or who have spontaneous sustained ventricular arrhythmia causing syncope or haemodynamic compromise in the absence of reversible causes.",
+            "ru": "Имплантация ИКД рекомендуется пациентам с ГКМП, ДКМП и АКПЖ, пережившим остановку сердца вследствие ЖТ или ФЖ, либо перенесшим спонтанную устойчивую желудочковую аритмию с синкопе или гемодинамической нестабильностью при отсутствии обратимых причин."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Implantation of an ICD is recommended in patients with NDLVC and RCM who have survived a cardiac arrest due to VT or VF, or who have spontaneous sustained ventricular arrhythmia causing syncope or haemodynamic compromise in the absence of reversible causes.",
+            "ru": "Имплантация ИКД рекомендуется пациентам с НДЛЖКМП и РКМП, пережившим остановку сердца вследствие ЖТ или ФЖ, либо перенесшим спонтанную устойчивую желудочковую аритмию с синкопе или гемодинамическими нарушениями при отсутствии обратимых причин."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "ICD implantation should be considered in patients with cardiomyopathy presenting with haemodynamically tolerated VT, in the absence of reversible causes.",
+            "ru": "Имплантацию ИКД следует рассмотреть у пациентов с кардиомиопатией и гемодинамически стабильной устойчивой ЖТ при отсутствии обратимых причин."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Primary prevention",
+        "ru": "Первичная профилактика"
+      },
+      "rows": [
+        {
+          "id": "r08",
+          "text": {
+            "en": "Comprehensive SCD risk stratification is recommended in all cardiomyopathy patients who have not suffered a previous cardiac arrest/sustained ventricular arrhythmia at initial evaluation and at 1–2 year intervals, or whenever there is a change in clinical status.",
+            "ru": "Комплексная стратификация риска внезапной сердечной смерти (ВСС) рекомендуется всем пациентам с кардиомиопатией без предшествующей остановки сердца/устойчивой ЖА при первичном обследовании и каждые 1–2 года, либо при любом изменении клинического статуса."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "The use of validated SCD algorithms/scores as aids to shared decision-making when offering ICD implantation is recommended in patients with HCM.",
+            "ru": "Использование валидированных калькуляторов и шкал риска ВСС (HCM Risk-SCD) в качестве инструмента для совместного принятия решений при предложении имплантации ИКД рекомендуется пациентам с ГКМП."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "The use of validated SCD algorithms/scores as aids to shared decision-making when offering ICD implantation should be considered in patients with DCM, NDLVC, and ARVC.",
+            "ru": "Использование валидированных алгоритмов и шкал риска ВСС для совместного принятия решения об имплантации ИКД следует рассмотреть у пациентов с ДКМП, НДЛЖКМП и АКПЖ."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "If a patient with cardiomyopathy requires pacemaker implantation, comprehensive SCD risk stratification to evaluate the need for ICD implantation should be considered.",
+            "ru": "Если пациенту с кардиомиопатией показана имплантация электрокардиостимулятора, следует рассмотреть проведение комплексной стратификации риска ВСС для оценки потребности в имплантации ИКД/CRT-D вместо стандартного ЭКС."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en": "Choice of ICD",
+        "ru": "Выбор типа устройства"
+      },
+      "rows": [
+        {
+          "id": "r12",
+          "text": {
+            "en": "When an ICD is indicated, it is recommended to evaluate whether the patient could benefit from CRT.",
+            "ru": "При наличии показаний к ИКД рекомендуется оценить, получит ли пациент клиническую пользу от сердечной ресинхронизирующей терапии (CRT-D)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "Subcutaneous defibrillators should be considered as an alternative to transvenous defibrillators in patients with an indication for an ICD when pacing therapy for bradycardia, cardiac resynchronization, or antitachycardia pacing is not anticipated.",
+            "ru": "Подкожные дефибрилляторы (S-ICD) следует рассмотреть в качестве альтернативы трансвенозным системам у пациентов с показаниями к ИКД, когда не планируется и не требуется стимуляция при брадикардии, ресинхронизирующая терапия или антитахикардитическая стимуляция (АТС)."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "The wearable cardioverter defibrillator should be considered for adult patients with a secondary prevention ICD indication who are temporarily not candidates for ICD implantation.",
+            "ru": "Носимый кардиовертер-дефибриллятор (WCD / жилет LifeVest) следует рассмотреть у взрослых пациентов с показаниями к ИКД для вторичной профилактики, которые временно не являются кандидатами на инвазивную имплантацию устройства (например, при активной инфекции или временных противопоказаниях)."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

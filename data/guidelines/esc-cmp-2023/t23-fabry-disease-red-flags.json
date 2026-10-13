@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t23-fabry-disease-red-flags",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 23",
+  "type": "grid",
+  "title": {
+    "en": "Anderson–Fabry disease red flags",
+    "ru": "«Красные флажки» болезни Андерсона–Фабри"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "fabry",
+    "red-flags",
+    "extracardiac",
+    "cardiac",
+    "ecg",
+    "echocardiography",
+    "cmr"
+  ],
+  "columns": [
+    {
+      "id": "c_domain",
+      "title": {
+        "en": "Domain / modality",
+        "ru": "Область проявлений / метод исследования"
+      }
+    },
+    {
+      "id": "c_findings",
+      "title": {
+        "en": "Red flag findings",
+        "ru": "Характерные признаки («красные флажки»)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Extracardiac red flags",
+            "ru": "Экстракардиальные признаки"
+          }
+        },
+        {
+          "text": {
+            "en": "• No male-to-male transmission in pedigree (X-linked)\n• Renal involvement (dialysis, renal transplantation) or LVH in relatives\n• Neuropathic pain (acroparaesthesias)\n• Angiokeratomas (bathing-trunk distribution)\n• Albuminuria / proteinuria\n• Cornea verticillata on slit-lamp examination\n• Hypohidrosis, heat/cold and exercise intolerance\n• Gastrointestinal symptoms (nausea, vomiting, non-specific abdominal pain, constipation, diarrhoea)\n• Hearing loss (either progressive or sudden), tinnitus, vertigo",
+            "ru": "• Отсутствие передачи от отца к сыну в родословной (Х-сцепленное наследование)\n• Поражение почек (диализ, трансплантация почки) или ГЛЖ у родственников\n• Нейропатическая боль (жгучие акропарестезии кистей и стоп)\n• Ангиокератомы кожи (преимущественно в зоне «плавок»)\n• Альбуминурия / протеинурия\n• Cornea verticillata (мутовчатая кератопатия при биомикроскопии щелевой лампой)\n• Гипогидроз (сниженное потоотделение), непереносимость тепла/холода и физических нагрузок\n• Желудочно-кишечные расстройства (тошнота, спастические боли в животе, диарея)\n• Снижение слуха (прогрессирующее или внезапное), шум в ушах, головокружение"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Cardiac: ECG",
+            "ru": "Кардиальные: ЭКГ"
+          }
+        },
+        {
+          "text": {
+            "en": "• Short PQ/PR interval in young patients\n• Atrioventricular blocks in adult patients\n• Bradycardia\n• Chronotropic incompetence\n• LVH voltage criteria",
+            "ru": "• Укороченный интервал PQ/PR у молодых пациентов\n• Атриовентрикулярные блокады у взрослых\n• Брадикардия\n• Хронотропная некомпетентность\n• Вольтажные критерии ГЛЖ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Cardiac: Echocardiogram",
+            "ru": "Кардиальные: Эхокардиография"
+          }
+        },
+        {
+          "text": {
+            "en": "• Concentric LVH with normal systolic function\n• Hypertrophy of papillary muscles\n• Mitral and aortic valve thickening with mild-to-moderate regurgitation\n• Reduced global longitudinal strain (especially posterolateral segments)",
+            "ru": "• Концентрическая ГЛЖ с нормальной фракцией выброса\n• Выраженная гипертрофия папиллярных мышц\n• Утолщение створок митрального и аортального клапанов с регургитацией легкой/умеренной степени\n• Снижение глобальной продольной деформации (GLS, преимущественно в базально-боковых отделах)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Cardiac: CMR",
+            "ru": "Кардиальные: МРТ сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "• Basal-inferolateral late gadolinium enhancement (LGE)\n• Low native T1 (caution with 'pseudonormalization' in areas affected by fibrosis)\n• High focal/global T2",
+            "ru": "• Позднее накопление контраста (LGE) в базально-нижнебоковом сегменте\n• Выраженно сниженное нативное время T1 (картина внутриклеточного накопления сфинголипидов; осторожность с «псевдонормализацией» T1 в зонах замещения фиброзом)\n• Повышение очагового или глобального T2 (миокардиальное воспаление)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Cardiac: Laboratory",
+            "ru": "Кардиальные: Лабораторные маркеры"
+          }
+        },
+        {
+          "text": {
+            "en": "• Elevated high-sensitivity troponin\n• Elevated NT-proBNP",
+            "ru": "• Повышение уровня высокочувствительного сердечного тропонина\n• Повышение уровня NT-proBNP"
+          }
+        }
+      ]
+    }
+  ]
+}

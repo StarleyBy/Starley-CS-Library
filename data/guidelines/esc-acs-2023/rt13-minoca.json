@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt13",
+  "guidelineId": "esc-acs-2023",
+  "number": "13",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for myocardial infarction with non-obstructive coronary arteries",
+    "ru": "Рекомендации при инфаркте миокарда без обструктивного поражения коронарных артерий (MINOCA)"
+  },
+  "tags": [
+    "minoca",
+    "cmr",
+    "diagnostic-algorithm",
+    "mri"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with a working diagnosis of MINOCA, CMR imaging is recommended after invasive angiography if the final diagnosis is not clear.",
+            "ru": "У пациентов с рабочим диагнозом MINOCA рекомендуется проведение МРТ сердца после инвазивной коронароангиографии, если окончательный диагноз не ясен."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Management of MINOCA according to the final established underlying diagnosis is recommended, consistent with the appropriate disease-specific guidelines.",
+            "ru": "Рекомендуется ведение пациентов с MINOCA в соответствии с окончательно установленным первопричинным диагнозом и профильными клиническими рекомендациями."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In all patients with an initial working diagnosis of MINOCA, it is recommended to follow a diagnostic algorithm to determine the underlying final diagnosis.",
+            "ru": "У всех пациентов с первоначальным рабочим диагнозом MINOCA рекомендуется следовать диагностическому алгоритму для установления окончательного диагноза."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

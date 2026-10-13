@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.t07-mehra-classification",
+  "guidelineId": "esc-af-2024",
+  "number": "Table 7",
+  "type": "grid",
+  "title": {
+    "en": "The modified European Heart Rhythm Association (mEHRA) symptom classification",
+    "ru": "Модифицированная шкала выраженности симптомов Европейской ассоциации сердечного ритма (mEHRA)"
+  },
+  "tags": [
+    "af",
+    "mehra",
+    "ehra",
+    "symptoms",
+    "classification"
+  ],
+  "columns": [
+    {
+      "id": "c_score",
+      "title": {
+        "en": "Score",
+        "ru": "Класс (балл)"
+      }
+    },
+    {
+      "id": "c_symptoms",
+      "title": {
+        "en": "Symptoms",
+        "ru": "Симптомы"
+      }
+    },
+    {
+      "id": "c_description",
+      "title": {
+        "en": "Description",
+        "ru": "Описание"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": { "en": "1", "ru": "1" }
+        },
+        {
+          "text": { "en": "None", "ru": "Отсутствуют" }
+        },
+        {
+          "text": {
+            "en": "AF does not cause any symptoms",
+            "ru": "ФП не вызывает никаких симптомов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": { "en": "2a", "ru": "2a" }
+        },
+        {
+          "text": { "en": "Mild", "ru": "Легкие" }
+        },
+        {
+          "text": {
+            "en": "Normal daily activity not affected by symptoms related to AF",
+            "ru": "Обычная повседневная активность не нарушена симптомами, связанными с ФП"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": { "en": "2b", "ru": "2b" }
+        },
+        {
+          "text": { "en": "Moderate", "ru": "Умеренные" }
+        },
+        {
+          "text": {
+            "en": "Normal daily activity not affected by symptoms related to AF, but patient troubled by symptoms",
+            "ru": "Обычная повседневная активность не нарушена симптомами ФП, однако симптомы беспокоят пациента"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": { "en": "3", "ru": "3" }
+        },
+        {
+          "text": { "en": "Severe", "ru": "Выраженные (тяжелые)" }
+        },
+        {
+          "text": {
+            "en": "Normal daily activity affected by symptoms related to AF",
+            "ru": "Обычная повседневная активность нарушена симптомами, связанными с ФП"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": { "en": "4", "ru": "4" }
+        },
+        {
+          "text": { "en": "Disabling", "ru": "Инвалидизирующие" }
+        },
+        {
+          "text": {
+            "en": "Normal daily activity discontinued",
+            "ru": "Обычная повседневная активность невозможна (прекращена из-за симптомов)"
+          }
+        }
+      ]
+    }
+  ]
+}

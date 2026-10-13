@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt11-aortopathies",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec Aortopathies",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for aortic surgery in aortopathies",
+    "ru": "Рекомендации по хирургии аорты при аортопатиях"
+  },
+  "tags": [
+    "achd",
+    "aortopathies",
+    "marfan",
+    "htad",
+    "bicuspid-aortic-valve",
+    "turner-syndrome",
+    "aortic-aneurysm",
+    "aortic-dissection"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Marfan syndrome and HTAD",
+        "ru": "Синдром Марфана и наследственные аортопатии (HTAD)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Aortic valve repair, using the reimplantation or remodelling with aortic annuloplasty technique, is recommended in young patients with Marfan syndrome or related HTAD with aortic root dilation and tricuspid aortic valves, when performed by experienced surgeons.",
+            "ru": "Пластика аортального клапана методами реимплантации или ремоделирования с аннулопластикой рекомендуется молодым пациентам с синдромом Марфана или связанными HTAD с дилатацией корня аорты и трехстворчатым клапаном при выполнении опытными хирургами."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Surgery is indicated in patients with Marfan syndrome who have aortic root disease with a maximal aortic sinus diameter ≥50 mm.^[c]",
+            "ru": "Хирургическое лечение показано пациентам с синдромом Марфана при поражении корня аорты с максимальным диаметром синусов Вальсальвы ≥50 мм.^[c]"
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Surgery should be considered in patients with Marfan syndrome who have aortic root disease with maximal aortic sinus diameter ≥45 mm^[c] and additional risk factors.^[d]",
+            "ru": "Хирургическое лечение следует рассматривать у пациентов с синдромом Марфана при диаметре синусов Вальсальвы ≥45 мм^[c] и наличии дополнительных факторов риска.^[d]"
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Surgery should be considered in patients with a TGFBR1 or TGFBR2 mutation (including Loeys–Dietz syndrome) who have aortic root disease with maximal aortic sinus diameter ≥45 mm.^[c]",
+            "ru": "Хирургическое лечение следует рассматривать у пациентов с мутациями TGFBR1 или TGFBR2 (включая синдром Лойса–Дитца) с поражением корня аорты и диаметром синусов ≥45 мм.^[c]"
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Bicuspid aortic disease",
+        "ru": "Двустворчатый аортальный клапан (ДАК)"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Aortic surgery should be considered if the ascending aorta is:\n• ≥50 mm in the presence of a bicuspid valve with additional risk factors^[e] or coarctation\n• ≥55 mm for all other patients.",
+            "ru": "Хирургическое лечение аорты следует рассматривать, если диаметр восходящей аорты:\n• ≥50 мм при двустворчатом клапане с дополнительными факторами риска^[e] или коарктацией\n• ≥55 мм для всех остальных пациентов."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Turner syndrome",
+        "ru": "Синдром Шерешевского–Тернера"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "Elective surgery for aneurysms of the aortic root and/or ascending aorta should be considered for women with Turner syndrome who are >16 years of age, have an ascending aortic size index >25 mm/m², and have associated risk factors for aortic dissection.^[f]",
+            "ru": "Плановую операцию по поводу аневризмы корня и/или восходящей аорты следует рассматривать у женщин с синдромом Тернера старше 16 лет при индексе размера восходящей аорты >25 мм/м² и сопутствующих факторах риска расслоения.^[f]"
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Elective surgery for aneurysms of the aortic root and/or ascending aorta may be considered for women with Turner syndrome who are >16 years of age, have an ascending aortic size index >25 mm/m², and do not have associated risk factors for aortic dissection.^[f]",
+            "ru": "Плановая операция по поводу аневризмы корня и/или восходящей аорты может быть рассмотрена у женщин с синдромом Тернера старше 16 лет при индексе размера восходящей аорты >25 мм/м² даже при отсутствии сопутствующих факторов риска расслоения.^[f]"
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "At the extreme ends of the BSA range, recommended cut-offs may require appropriate adjustment.",
+      "ru": "При крайних значениях площади поверхности тела рекомендованные пороговые значения могут требовать соответствующей коррекции."
+    },
+    "d": {
+      "en": "Family history of aortic dissection at a low diameter (or personal history of spontaneous vascular dissection), progressive AR, desire for pregnancy, uncontrolled hypertension, and/or aortic size increase >3 mm/year.",
+      "ru": "Семейный анамнез расслоения аорты малого диаметра (или спонтанная диссекция артерий в личном анамнезе), прогрессирующая аортальная регургитация, планирование беременности, неконтролируемая АГ и/или рост аорты >3 мм/год."
+    },
+    "e": {
+      "en": "Family history of dissection at a low diameter, desire for pregnancy, systemic hypertension, and/or size increase >3 mm/year.",
+      "ru": "Семейный анамнез расслоения малого диаметра, планирование беременности, артериальная гипертензия и/или увеличение диаметра >3 мм/год."
+    },
+    "f": {
+      "en": "BAV, elongation of the transverse aorta, CoA, and/or hypertension.",
+      "ru": "ДАК, удлинение дуги аорты, коарктация аорты и/или артериальная гипертензия."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

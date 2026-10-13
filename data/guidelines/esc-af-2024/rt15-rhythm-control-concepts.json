@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt15-rhythm-control-concepts",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 15",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for general concepts in rhythm control",
+    "ru": "Рекомендации по общим принципам контроля ритма при фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "rhythm-control",
+    "cardioversion",
+    "anticoagulation",
+    "electrical-cardioversion",
+    "toe",
+    "wait-and-see"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for general concepts in rhythm control",
+        "ru": "Рекомендации по общим принципам контроля ритма"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Electrical cardioversion is recommended in AF patients with acute or worsening haemodynamic instability to improve immediate patient outcomes.",
+            "ru": "Электрическая кардиоверсия рекомендуется пациентам с ФП при острой или прогрессирующей гемодинамической нестабильности для неотложного улучшения клинического состояния."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Direct oral anticoagulants are recommended in preference to VKAs in eligible patients with AF undergoing cardioversion for thromboembolic risk reduction.",
+            "ru": "Прямые оральные антикоагулянты рекомендуются предпочтительнее АВК у подходящих пациентов с ФП, которым проводится кардиоверсия, для снижения риска тромбоэмболий."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Therapeutic oral anticoagulation for at least 3 weeks (adherence to DOACs or INR ≥2.0 for VKAs) is recommended before scheduled cardioversion of AF and atrial flutter to prevent procedure-related thromboembolism.",
+            "ru": "Терапевтическая оральная антикоагуляция в течение как минимум 3 недель (приверженность к приему ПОАК или МНО ≥2,0 при приеме АВК) рекомендуется перед плановой кардиоверсией ФП и трепетания предсердий для профилактики перипроцедурных тромбоэмболий."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Transoesophageal echocardiography is recommended if 3 weeks of therapeutic oral anticoagulation has not been provided, for exclusion of cardiac thrombus to enable early cardioversion.",
+            "ru": "Чреспищеводная эхокардиография рекомендуется, если 3-недельная терапевтическая оральная антикоагуляция не была обеспечена, для исключения внутрисердечного тромбоза и выполнения ранней кардиоверсии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Oral anticoagulation is recommended to continue for at least 4 weeks in all patients after cardioversion and long-term in patients with thromboembolic risk factor(s) irrespective of whether sinus rhythm is achieved, to prevent thromboembolism.",
+            "ru": "Продолжение оральной антикоагуляции рекомендуется в течение не менее 4 недель всем пациентам после кардиоверсии, а при наличии факторов тромбоэмболического риска — неопределенно долго независимо от удержания синусового ритма, для профилактики тромбоэмболий."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Cardioversion of AF (either electrical or pharmacological) should be considered in symptomatic patients with persistent AF as part of a rhythm control approach.",
+            "ru": "Кардиоверсию ФП (электрическую или медикаментозную) следует рассматривать у симптомных пациентов с персистирующей ФП как часть стратегии контроля ритма."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "A wait-and-see approach for spontaneous conversion to sinus rhythm within 48 h of AF onset should be considered in patients without haemodynamic compromise as an alternative to immediate cardioversion.",
+            "ru": "Выжидательную тактику для спонтанного восстановления синусового ритма в течение 48 часов от начала эпизода ФП следует рассматривать у пациентов без гемодинамических нарушений в качестве альтернативы немедленной кардиоверсии."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Implementation of a rhythm control strategy should be considered within 12 months of diagnosis in selected patients with AF at risk of thromboembolic events to reduce the risk of cardiovascular death or hospitalization.",
+            "ru": "Внедрение стратегии контроля ритма следует рассматривать в течение 12 месяцев от момента постановки диагноза у отобранных пациентов с ФП и риском тромбоэмболических событий для снижения риска сердечно-сосудистой смерти или госпитализации."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Initiation of therapeutic anticoagulation should be considered as soon as possible in the setting of unscheduled cardioversion for AF or atrial flutter to prevent procedure-related thromboembolism.",
+            "ru": "Начало терапевтической антикоагуляции следует рассматривать как можно раньше в условиях внеплановой/экстренной кардиоверсии по поводу ФП или ТП для профилактики перипроцедурных тромбоэмболий."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Repeat transoesophageal echocardiography should be considered before cardioversion if thrombus has been identified on initial imaging to ensure thrombus resolution and prevent peri-procedural thromboembolism.",
+            "ru": "Повторную чреспищеводную эхокардиографию следует рассматривать перед кардиоверсией при выявлении тромба на первичном исследовании для подтверждения его лизиса и предотвращения перипроцедурных эмболий."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "Early cardioversion is not recommended without appropriate anticoagulation or transoesophageal echocardiography if AF duration is longer than 24 h, or there is scope to wait for spontaneous cardioversion.",
+            "ru": "Ранняя кардиоверсия не рекомендуется без адекватной антикоагуляции или чреспищеводной эхокардиографии, если длительность ФП превышает 24 часа либо имеется возможность дождаться спонтанного восстановления ритма."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

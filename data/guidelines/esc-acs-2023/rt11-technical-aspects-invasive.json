@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt11",
+  "guidelineId": "esc-acs-2023",
+  "number": "11",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for technical aspects of invasive strategies",
+    "ru": "Рекомендации по техническим аспектам инвазивных стратегий"
+  },
+  "tags": [
+    "invasive",
+    "pci",
+    "radial-access",
+    "des",
+    "scad",
+    "imaging",
+    "oct",
+    "thrombus-aspiration"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Radial access is recommended as the standard approach, unless there are overriding procedural considerations.",
+            "ru": "Радиальный доступ рекомендуется в качестве стандартного подхода, за исключением случаев, когда имеются непреодолимые процедурные соображения."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "PCI with stent deployment in the IRA during the index procedure is recommended in patients undergoing PPCI.",
+            "ru": "ЧКВ со стентированием инфаркт-связанной артерии (IRA) во время индексной процедуры рекомендуется пациентам, которым выполняется первичное ЧКВ (PPCI)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Drug-eluting stents are recommended in preference to bare metal stents in all cases.",
+            "ru": "Стенты с лекарственным покрытием (DES) рекомендуются предпочтительно перед голометаллическими стентами (BMS) во всех случаях."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients with spontaneous coronary artery dissection, PCI is recommended only for patients with symptoms and signs of ongoing myocardial ischaemia, a large area of myocardium in jeopardy, and reduced antegrade flow.",
+            "ru": "У пациентов со спонтанной диссекцией коронарной артерии (SCAD) ЧКВ рекомендуется только при наличии симптомов и признаков продолжающейся ишемии миокарда, большой площади миокарда под угрозой и сниженного антеградного кровотока."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Intravascular imaging should be considered to guide PCI.",
+            "ru": "Интраваскулярную визуализацию следует рассматривать для контроля проведения ЧКВ."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Coronary artery bypass grafting should be considered in patients with an occluded IRA when PPCI is not feasible/unsuccessful and there is a large area of myocardium in jeopardy.",
+            "ru": "Коронарное шунтирование (КШ) следует рассматривать у пациентов с окклюзированной IRA, если PPCI невыполнимо/безуспешно и имеется большая площадь миокарда под угрозой."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Intravascular imaging (preferably optical coherence tomography) may be considered in patients with ambiguous culprit lesions.",
+            "ru": "Интраваскулярная визуализация (предпочтительно оптическая когерентная томография) может быть рассмотрена у пациентов с неоднозначными виновными поражениями."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "The routine use of thrombus aspiration is not recommended.",
+            "ru": "Рутинное применение тромбоаспирации не рекомендуется."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

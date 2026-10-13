@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt19-lvoto-medical-treatment",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 19",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for medical treatment of left ventricular outflow tract obstruction",
+    "ru": "Рекомендации по медикаментозному лечению обструкции выходного тракта левого желудочка"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "hcm",
+    "lvoto",
+    "beta-blockers",
+    "verapamil",
+    "diltiazem",
+    "disopyramide",
+    "mavacamten",
+    "diuretics"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for medical treatment of left ventricular outflow tract obstruction",
+        "ru": "Рекомендации по медикаментозному лечению обструкции выходного тракта левого желудочка (ВТЛЖ)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Non-vasodilating beta-blockers, titrated to maximum tolerated dose, are recommended as first-line therapy to improve symptoms in patients with resting or provoked LVOTO.",
+            "ru": "Невазодилатирующие бета-блокаторы, титрованные до максимально переносимой дозы, рекомендуются в качестве терапии первой линии для уменьшения симптомов у пациентов с обструкцией ВТЛЖ в покое или при провокации."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Verapamil or diltiazem, titrated to maximum tolerated dose, are recommended to improve symptoms in symptomatic patients with resting or provoked LVOTO who are intolerant or have contraindications to beta-blockers.",
+            "ru": "Верапамил или дилтиазем, титрованные до максимально переносимой дозы, рекомендуются для облегчения симптомов у пациентов с обструкцией ВТЛЖ в покое или при провокации при непереносимости или противопоказаниях к бета-блокаторам."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Disopyramide, titrated to maximum tolerated dose, is recommended in addition to a beta-blocker (or, if this is not possible, with verapamil or diltiazem) to improve symptoms in patients with resting or provoked LVOTO.",
+            "ru": "Дизопирамид, титрованный до максимально переносимой дозы, рекомендуется в дополнение к бета-блокаторам (или при невозможности — в комбинации с верапамилом/дилтиаземом) для облегчения симптомов у пациентов с обструкцией ВТЛЖ в покое или при провокации."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Cardiac myosin ATPase inhibitor (mavacamten), titrated to maximum tolerated dose with echocardiographic surveillance of LVEF, should be considered in addition to a beta-blocker (or, if this is not possible, with verapamil or diltiazem) to improve symptoms in adult patients with resting or provoked LVOTO.",
+            "ru": "Ингибитор сердечной миозиновой АТФазы (мавакамтен), титрованный до максимально переносимой дозы под эхокардиографическим контролем ФВ ЛЖ, следует рассмотреть в дополнение к бета-блокатору (или верапамилу/дилтиазему) для уменьшения симптомов у взрослых пациентов с обструкцией ВТЛЖ в покое или при провокации."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Cardiac myosin ATPase inhibitor (mavacamten), titrated to maximum tolerated dose with echocardiographic surveillance of LVEF, should be considered as monotherapy in symptomatic adult patients with resting or provoked LVOTO (exercise or Valsalva manoeuvre) who are intolerant or have contraindications to beta-blockers, verapamil/diltiazem, or disopyramide.",
+            "ru": "Ингибитор сердечной миозиновой АТФазы (мавакамтен) в виде монотерапии (под контролем ФВ ЛЖ) следует рассмотреть у симптомных взрослых пациентов с обструкцией ВТЛЖ в покое или при провокации при непереносимости или противопоказаниях к бета-блокаторам, верапамилу/дилтиазему и дизопирамиду."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Oral or i.v. beta-blockers and vasoconstrictors should be considered in patients with severe provocable LVOTO presenting with hypotension and acute pulmonary oedema who do not respond to fluid administration.",
+            "ru": "Пероральные или в/в бета-блокаторы и вазоконстрикторы следует рассмотреть у пациентов с тяжелой провоцируемой обструкцией ВТЛЖ, проявляющейся артериальной гипотонией и острым отеком легких, не отвечающих на инфузионную терапию."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Disopyramide, titrated to maximum tolerated dose, may be considered as monotherapy in patients who are intolerant to or have contraindications to beta-blockers and verapamil/diltiazem to improve symptoms in patients with resting or provoked LVOTO.",
+            "ru": "Дизопирамид в качестве монотерапии может быть рассмотрен при непереносимости или противопоказаниях к бета-блокаторам и верапамилу/дилтиазему для уменьшения симптомов у пациентов с обструкцией ВТЛЖ в покое или при провокации."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Beta-blockers or verapamil may be considered in selected cases in asymptomatic patients with resting or provoked LVOTO to reduce LV pressures.",
+            "ru": "Бета-блокаторы или верапамил могут быть рассмотрены в отдельных случаях у бессимптомных пациентов с обструкцией ВТЛЖ в покое или при провокации для снижения давления в полости ЛЖ."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "The cautious use of low-dose diuretics may be considered in symptomatic LVOTO to improve exertional dyspnoea.",
+            "ru": "Осторожное применение низких доз диуретиков может быть рассмотрено при симптомной обструкции ВТЛЖ для уменьшения одышки при физической нагрузке (избегая гиповолемии)."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

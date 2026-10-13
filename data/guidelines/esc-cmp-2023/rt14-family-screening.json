@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt14-family-screening",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 14",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for family screening and follow-up evaluation of relatives",
+    "ru": "Рекомендации по семейному скринингу и динамическому наблюдению родственников"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "cascade-screening",
+    "relatives",
+    "family-screening",
+    "genetic-testing",
+    "follow-up"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for family screening and follow-up evaluation of relatives",
+        "ru": "Рекомендации по семейному скринингу и динамическому наблюдению родственников"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Following cascade genetic testing, clinical evaluation using a multiparametric approach that includes ECG and cardiac imaging and long-term follow-up is recommended in first-degree relatives who have the same disease-causing variant as the proband.",
+            "ru": "После каскадного генетического тестирования клиническая оценка с применением мультипараметрического подхода (включающего ЭКГ и методы визуализации сердца) и длительное динамическое наблюдение рекомендуются родственникам 1-й степени родства, у которых выявлен тот же патогенный вариант, что и у пробанда."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Following cascade genetic testing, it is recommended that first-degree relatives without a phenotype who do not have the same disease-causing variant as the proband are discharged from further follow-up but advised to seek re-assessment if they develop symptoms or when new clinically relevant data emerge in the family.",
+            "ru": "После каскадного генетического тестирования родственников 1-й степени родства без клинического фенотипа, не унаследовавших семейный патогенный вариант, рекомендуется снять с дальнейшего кардиологического учета, проинформировав о необходимости повторного обращения при появлении симптомов или возникновении новых клинически значимых данных в семье."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "It is recommended that when no P/LP variant is identified in the proband or genetic testing is not performed, an initial clinical evaluation using a multiparametric approach that includes ECG and cardiac imaging is performed in first-degree relatives.",
+            "ru": "Если у пробанда не выявлен патогенный/вероятно патогенный (P/LP) вариант или генетическое тестирование не проводилось, рекомендуется первичное клиническое обследование родственников 1-й степени родства с использованием мультипараметрического подхода, включающего ЭКГ и визуализацию сердца."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "When no P/LP variant is identified in the proband or genetic testing is not performed, regular, long-term clinical evaluation using a multiparametric approach that includes ECG and cardiac imaging should be considered in first-degree relatives.",
+            "ru": "Если у пробанда не выявлен вариант P/LP или генетическое тестирование не проводилось, регулярное длительное клиническое наблюдение с применением мультипараметрического подхода (ЭКГ и визуализация сердца) следует рассмотреть у родственников 1-й степени родства."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "During cascade screening, where a first-degree relative has died, clinical evaluation of close relatives of the deceased individual (i.e. second-degree relatives of the index patient) should be considered.",
+            "ru" : "В процессе каскадного скрининга, если родственник 1-й степени родства умер, следует рассмотреть клиническое обследование близких родственников умершего (то есть родственников 2-й степени родства по отношению к пробанду)."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

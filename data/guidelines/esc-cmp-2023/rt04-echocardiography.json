@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt04-echocardiography",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 4",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for echocardiographic evaluation in patients with cardiomyopathy",
+    "ru": "Рекомендация по эхокардиографической оценке у пациентов с кардиомиопатией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "echocardiography",
+    "imaging",
+    "evaluation",
+    "follow-up"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendation for echocardiographic evaluation in patients with cardiomyopathy",
+        "ru": "Рекомендация по эхокардиографической оценке у пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "A comprehensive evaluation of cardiac dimensions and LV and RV systolic (global and regional) and LV diastolic function is recommended in all patients with cardiomyopathy at initial evaluation, and during follow-up, to monitor disease progression and aid risk stratification and management.",
+            "ru": "Комплексная оценка размеров камер сердца, систолической (глобальной и регионарной) функции ЛЖ и ПЖ, а также диастолической функции ЛЖ рекомендуется всем пациентам с кардиомиопатией при первичном обследовании и в ходе динамического наблюдения для мониторинга прогрессирования заболевания, стратификации риска и определения тактики ведения."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt12-bleeding-risk-assessment",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 12",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for assessment of bleeding risk",
+    "ru": "Рекомендации по оценке риска кровотечений"
+  },
+  "tags": [
+    "af",
+    "bleeding-risk",
+    "anticoagulation",
+    "modifiable-factors",
+    "shared-decision-making",
+    "has-bled"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for assessment of bleeding risk",
+        "ru": "Рекомендации по оценке риска кровотечений"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Assessment and management of modifiable bleeding risk factors is recommended in all patients eligible for oral anticoagulation, as part of shared decision-making to ensure safety and prevent bleeding.",
+            "ru": "Оценка и коррекция модифицируемых факторов риска кровотечений рекомендуются всем пациентам, подходящим для оральной антикоагуляции, в рамках совместного принятия решений для обеспечения безопасности и профилактики кровотечений."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Use of bleeding risk scores to decide on starting or withdrawing oral anticoagulation is not recommended in patients with AF to avoid under-use of anticoagulation.",
+            "ru": "Использование шкал риска кровотечений для принятия решения о назначении или отмене оральных антикоагулянтов не рекомендуется у пациентов с ФП во избежание необоснованного отказа от антикоагулянтной терапии."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

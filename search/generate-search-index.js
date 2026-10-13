@@ -451,6 +451,49 @@ function generateIndex() {
     }
   }
 
+  // ==========================================
+  // INDEX CLINICAL GUIDELINE TABLES
+  // ==========================================
+  let guidelineRowCount = 0;
+  const guidelinesTablesIndex = path.join(BASE_DIR, 'data', 'guidelines', 'tables-index.json');
+  if (fs.existsSync(guidelinesTablesIndex)) {
+    try {
+      const gtData = JSON.parse(fs.readFileSync(guidelinesTablesIndex, 'utf8'));
+      (gtData.rows || []).forEach(row => {
+        const fullSearchable = `${row.guideline} ${row.tableNumber} ${row.tableTitleEn} ${row.tableTitleRu} ${row.sectionTitleEn} ${row.sectionTitleRu} ${row.textEn} ${row.textRu} Class ${row.class} Level ${row.level} ${(row.tags || []).join(' ')}`;
+        const wordCounts = buildWordCounts(fullSearchable);
+
+        rawDocuments.push({
+          id: `guideline|${row.tableId}|${row.rowId}`,
+          type: 'guideline',
+          b: 'guidelines',
+          c: row.tableId,
+          cat: 'guidelines',
+          ct: `${row.guideline} Tab.${row.tableNumber}: Class ${row.class}, Level ${row.level}`,
+          bt: `${row.tableTitleRu || row.tableTitleEn} (${row.guideline})`,
+          e: 'original',
+          l: detectLanguage(row.textRu || row.textEn),
+          w: wordCounts,
+          tags: row.tags || [],
+          topics: ['guidelines'],
+          tableId: row.tableId,
+          rowId: row.rowId,
+          guidelineName: row.guideline,
+          tableTitleRu: row.tableTitleRu,
+          tableTitleEn: row.tableTitleEn,
+          rowTextRu: row.textRu,
+          rowTextEn: row.textEn,
+          recClass: row.class,
+          recLevel: row.level
+        });
+        guidelineRowCount++;
+      });
+      console.log(`📋 Indexed ${guidelineRowCount} guideline recommendation rows`);
+    } catch (err) {
+      console.warn(`⚠️ Failed to index guidelines: ${err.message}`);
+    }
+  }
+
   const indexData = {
     version: '2.7',
     generated: new Date().toISOString(),

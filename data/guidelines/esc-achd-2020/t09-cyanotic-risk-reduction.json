@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.t09-cyanotic-risk-reduction",
+  "guidelineId": "esc-achd-2020",
+  "number": "9",
+  "type": "grid",
+  "title": {
+    "en": "Table 9: Risk reduction strategies in patients with cyanotic congenital heart disease",
+    "ru": "Таблица 9: Стратегии снижения рисков у пациентов с цианотическими пороками сердца"
+  },
+  "tags": [
+    "achd",
+    "cyanotic",
+    "eisenmenger",
+    "risk-reduction",
+    "prevention",
+    "air-filter",
+    "phlebotomy",
+    "iron-deficiency"
+  ],
+  "columns": [
+    { "id": "avoid", "title": { "en": "Exposures / Activities to avoid", "ru": "Факторы и воздействия, которых следует избегать" } },
+    { "id": "strategies", "title": { "en": "Other risk reduction strategies", "ru": "Другие стратегии снижения риска" } }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Pregnancy in patients with Eisenmenger syndrome and in cyanotic patients without PAH, but arterial oxygen saturation <90%",
+            "ru": "Беременность у пациенток с синдромом Эйзенменгера и цианотическими пороками без ЛАГ при насыщении артериальной крови кислородом <90%"
+          }
+        },
+        {
+          "text": {
+            "en": "Use of an air filter in an intravenous line to prevent air embolism",
+            "ru": "Использование воздушного фильтра в инфузионной системе для профилактики парадоксальной воздушной эмболии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Iron deficiency and anaemia (no routine, inappropriate phlebotomies to maintain a pre-determined haemoglobin) — treat iron deficiency and iron-deficient anaemia",
+            "ru": "Дефицит железа и анемия (исключить рутинные необоснованные кровопускания ради целевого гемоглобина) — своевременная терапия дефицита железа и ЖДА"
+          }
+        },
+        {
+          "text": {
+            "en": "Consultation with an ACHD cardiologist before administration of any agent and performance of any surgical/interventional procedure",
+            "ru": "Консультация кардиолога по ВЗПС перед назначением любых препаратов и выполнением любых хирургических/инвазивных вмешательств"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Inappropriate anticoagulation",
+            "ru": "Необоснованная/неадекватная антикоагулянтная терапия"
+          }
+        },
+        {
+          "text": {
+            "en": "Prompt antibiotic therapy of upper respiratory tract infections",
+            "ru": "Быстрое назначение антибактериальной терапии при инфекциях верхних дыхательных путей"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Dehydration",
+            "ru": "Обезвоживание (дегидратация)"
+          }
+        },
+        {
+          "text": {
+            "en": "Cautious use or avoidance of agents that impair renal function",
+            "ru": "Осторожное применение или отказ от нефротоксичных препаратов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Infectious disease: administer influenza and pneumococcal vaccines",
+            "ru": "Инфекционные заболевания: вакцинация против гриппа и пневмококка"
+          }
+        },
+        {
+          "text": {
+            "en": "Contraceptive advice at each clinic visit",
+            "ru": "Консультирование по контрацепции при каждом визите к врачу"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Cigarette smoking, recreational drug abuse including excessive alcohol",
+            "ru": "Курение табака, употребление наркотических веществ, избыток алкоголя"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Transvenous PM/ICD leads",
+            "ru": "Трансвенозные электроды ЭКС/ИКД (риск эмболий)"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "Strenuous exercise",
+            "ru": "Чрезмерные и изнуряющие физические нагрузки"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "Acute exposure to heat (sauna, hot tub, or hot shower) or extreme cold",
+            "ru": "Резкое воздействие тепла (сауна, горячая ванна или душ) или экстремального холода"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        {
+          "text": {
+            "en": "Oestrogen-containing contraception",
+            "ru": "Эстроген-содержащие контрацептивы"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        }
+      ]
+    }
+  ]
+}

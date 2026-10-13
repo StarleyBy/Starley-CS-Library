@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt01-multidisciplinary-teams",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 1",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for the provision of service of multidisciplinary cardiomyopathy teams",
+    "ru": "Рекомендации по организации работы мультидисциплинарных команд по ведению кардиомиопатий"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "multidisciplinary-team",
+    "transition-of-care",
+    "pediatric"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for the provision of service of multidisciplinary cardiomyopathy teams",
+        "ru": "Рекомендации по организации работы мультидисциплинарных команд"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that all patients with cardiomyopathy and their relatives have access to multidisciplinary teams with expertise in the diagnosis and management of cardiomyopathies.",
+            "ru": "Рекомендуется, чтобы все пациенты с кардиомиопатией и их родственники имели доступ к мультидисциплинарным командам экспертов, специализирующимся на диагностике и ведении кардиомиопатий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Timely and adequate preparation for transition of care from paediatric to adult services, including joint consultations, is recommended in all adolescents with cardiomyopathy.",
+            "ru": "Своевременная и надлежащая подготовка к переходу наблюдения из педиатрической службы во взрослую сеть, включая совместные консультации, рекомендуется всем подросткам с кардиомиопатией."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

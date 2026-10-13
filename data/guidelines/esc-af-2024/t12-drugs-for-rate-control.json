@@ -1,0 +1,481 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.t12-drugs-for-rate-control",
+  "guidelineId": "esc-af-2024",
+  "number": "Table 12",
+  "type": "grid",
+  "title": {
+    "en": "Drugs for rate control in AF",
+    "ru": "Препараты для контроля частоты сердечных сокращений при фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "rate-control",
+    "beta-blockers",
+    "calcium-antagonists",
+    "verapamil",
+    "diltiazem",
+    "digoxin",
+    "digitoxin",
+    "amiodarone",
+    "landiolol"
+  ],
+  "columns": [
+    {
+      "id": "c_agent",
+      "title": {
+        "en": "Agent^[a]",
+        "ru": "Препарат^[a]"
+      }
+    },
+    {
+      "id": "c_iv",
+      "title": {
+        "en": "Intravenous administration",
+        "ru": "Внутривенное введение"
+      }
+    },
+    {
+      "id": "c_oral",
+      "title": {
+        "en": "Usual range for oral maintenance dose",
+        "ru": "Диапазон поддерживающей пероральной дозы"
+      }
+    },
+    {
+      "id": "c_contra",
+      "title": {
+        "en": "Contraindicated",
+        "ru": "Противопоказания и предостережения"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec_bb",
+      "cells": [
+        {
+          "text": {
+            "en": "**Beta-blockers**^[b]",
+            "ru": "**Бета-адреноблокаторы**^[b]"
+          },
+          "colspan": 4,
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r_metoprolol_tartrate",
+      "cells": [
+        {
+          "text": {
+            "en": "Metoprolol tartrate",
+            "ru": "Метопролола тартрат"
+          }
+        },
+        {
+          "text": {
+            "en": "2.5–5 mg bolus over 2 mins; up to 15 mg maximal cumulative dose",
+            "ru": "2,5–5 мг болюсно в течение 2 мин; до 15 мг максимальная суммарная доза"
+          }
+        },
+        {
+          "text": {
+            "en": "25–100 mg twice daily",
+            "ru": "25–100 мг 2 раза в сутки"
+          }
+        },
+        {
+          "text": {
+            "en": "In case of asthma, non-selective beta-blockers should be avoided. Contraindicated in acute HF and history of severe bronchospasm.",
+            "ru": "При бронхиальной астме следует избегать неселективных бета-блокаторов. Противопоказаны при острой СН и тяжелом бронхоспазме в анамнезе."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_metoprolol_succinate",
+      "cells": [
+        {
+          "text": {
+            "en": "Metoprolol XL (succinate)",
+            "ru": "Метопролола сукцинат (XL)"
+          }
+        },
+        {
+          "text": { "en": "N/A", "ru": "Н/Д" }
+        },
+        {
+          "text": {
+            "en": "50–200 mg once daily",
+            "ru": "50–200 мг 1 раз в сутки"
+          }
+        },
+        {
+          "text": {
+            "en": "As for beta-blockers above",
+            "ru": "Аналогично классу бета-блокаторов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_bisoprolol",
+      "cells": [
+        {
+          "text": {
+            "en": "Bisoprolol",
+            "ru": "Бизопролол"
+          }
+        },
+        {
+          "text": { "en": "N/A", "ru": "Н/Д" }
+        },
+        {
+          "text": {
+            "en": "1.25–20 mg once daily",
+            "ru": "1,25–20 мг 1 раз в сутки"
+          }
+        },
+        {
+          "text": {
+            "en": "As for beta-blockers above",
+            "ru": "Аналогично классу бета-блокаторов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_atenolol",
+      "cells": [
+        {
+          "text": {
+            "en": "Atenolol^[c]",
+            "ru": "Атенолол^[c]"
+          }
+        },
+        {
+          "text": { "en": "N/A", "ru": "Н/Д" }
+        },
+        {
+          "text": {
+            "en": "25–100 mg once daily",
+            "ru": "25–100 мг 1 раз в сутки"
+          }
+        },
+        {
+          "text": {
+            "en": "As for beta-blockers above. Should not be used in HFrEF or pregnancy.",
+            "ru": "Аналогично классу бета-блокаторов. Не применять при СНнФВ и беременности."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_esmolol",
+      "cells": [
+        {
+          "text": {
+            "en": "Esmolol",
+            "ru": "Эсмолол"
+          }
+        },
+        {
+          "text": {
+            "en": "500 µg/kg i.v. bolus over 1 min; followed by 50–300 µg/kg/min",
+            "ru": "500 мкг/кг в/в болюс за 1 мин; затем инфузия 50–300 мкг/кг/мин"
+          }
+        },
+        {
+          "text": { "en": "N/A", "ru": "Н/Д" }
+        },
+        {
+          "text": {
+            "en": "As for beta-blockers above",
+            "ru": "Аналогично классу бета-блокаторов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_landiolol",
+      "cells": [
+        {
+          "text": {
+            "en": "Landiolol",
+            "ru": "Ландиолол"
+          }
+        },
+        {
+          "text": {
+            "en": "Optional loading dose of 100 µg/kg i.v. bolus over 1 min, followed by 10–40 µg/kg/min. In critically ill patients (cardiac dysfunction, septic shock) start with 1–10 µg/kg/min and titrate according to response",
+            "ru": "Опционально нагрузочная доза 100 мкг/кг в/в за 1 мин, затем 10–40 мкг/кг/мин. У пациентов в критическом состоянии (кардиальная дисфункция, септический шок) начинать с 1–10 мкг/кг/мин с титрацией по эффекту"
+          }
+        },
+        {
+          "text": { "en": "N/A", "ru": "Н/Д" }
+        },
+        {
+          "text": {
+            "en": "As for beta-blockers above",
+            "ru": "Аналогично классу бета-блокаторов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_nebivolol",
+      "cells": [
+        {
+          "text": {
+            "en": "Nebivolol",
+            "ru": "Небиволол"
+          }
+        },
+        {
+          "text": { "en": "N/A", "ru": "Н/Д" }
+        },
+        {
+          "text": {
+            "en": "2.5–10 mg once daily",
+            "ru": "2,5–10 мг 1 раз в сутки"
+          }
+        },
+        {
+          "text": {
+            "en": "As for beta-blockers above",
+            "ru": "Аналогично классу бета-блокаторов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_carvedilol",
+      "cells": [
+        {
+          "text": {
+            "en": "Carvedilol",
+            "ru": "Карведилол"
+          }
+        },
+        {
+          "text": { "en": "N/A", "ru": "Н/Д" }
+        },
+        {
+          "text": {
+            "en": "3.125–50 mg twice daily",
+            "ru": "3,125–50 мг 2 раза в сутки"
+          }
+        },
+        {
+          "text": {
+            "en": "As for beta-blockers above",
+            "ru": "Аналогично классу бета-блокаторов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_ccb",
+      "cells": [
+        {
+          "text": {
+            "en": "**Non-dihydropyridine calcium channel antagonists**",
+            "ru": "**Недигидропиридиновые блокаторы кальциевых каналов**"
+          },
+          "colspan": 4,
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r_verapamil",
+      "cells": [
+        {
+          "text": {
+            "en": "Verapamil",
+            "ru": "Верапамил"
+          }
+        },
+        {
+          "text": {
+            "en": "2.5–10 mg i.v. bolus over 5 min",
+            "ru": "2,5–10 мг в/в болюсно за 5 мин"
+          }
+        },
+        {
+          "text": {
+            "en": "40 mg twice daily to 480 mg (extended release) once daily",
+            "ru": "40 мг 2 раза в сутки до 480 мг (пролонгированная форма) 1 раз в сутки"
+          }
+        },
+        {
+          "text": {
+            "en": "Contraindicated if LVEF ≤40%. Adapt doses in hepatic and renal impairment.",
+            "ru": "Противопоказаны при ФВ ЛЖ ≤40%. Коррекция доз при печеночной и почечной недостаточности."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_diltiazem",
+      "cells": [
+        {
+          "text": {
+            "en": "Diltiazem",
+            "ru": "Дилтиазем"
+          }
+        },
+        {
+          "text": {
+            "en": "0.25 mg/kg i.v. bolus over 5 min, then 5–15 mg/h",
+            "ru": "0,25 мг/кг в/в болюсно за 5 мин, затем инфузия 5–15 мг/ч"
+          }
+        },
+        {
+          "text": {
+            "en": "60 mg three times daily to 360 mg (extended release) once daily",
+            "ru": "60 мг 3 раза в сутки до 360 мг (пролонгированная форма) 1 раз в сутки"
+          }
+        },
+        {
+          "text": {
+            "en": "Contraindicated if LVEF ≤40%. Adapt doses in hepatic and renal impairment.",
+            "ru": "Противопоказан при ФВ ЛЖ ≤40%. Коррекция доз при печеночной и почечной недостаточности."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_digitalis",
+      "cells": [
+        {
+          "text": {
+            "en": "**Digitalis glycosides**",
+            "ru": "**Сердечные гликозиды**"
+          },
+          "colspan": 4,
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r_digoxin",
+      "cells": [
+        {
+          "text": {
+            "en": "Digoxin",
+            "ru": "Дигоксин"
+          }
+        },
+        {
+          "text": {
+            "en": "0.5 mg i.v. bolus (0.75–1.5 mg over 24 h in divided doses)",
+            "ru": "0,5 мг в/в болюсно (0,75–1,5 мг в течение 24 ч дробно)"
+          }
+        },
+        {
+          "text": {
+            "en": "0.0625–0.25 mg once daily",
+            "ru": "0,0625–0,25 мг 1 раз в сутки"
+          }
+        },
+        {
+          "text": {
+            "en": "High plasma levels associated with adverse events. Check renal function before starting digoxin and adapt dose in CKD patients.",
+            "ru": "Высокие концентрации в плазме ассоциированы с побочными реакциями. Контролировать функцию почек перед назначением дигоксина и корректировать дозу при ХБП."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_digitoxin",
+      "cells": [
+        {
+          "text": {
+            "en": "Digitoxin",
+            "ru": "Дигитоксин"
+          }
+        },
+        {
+          "text": {
+            "en": "0.4–0.6 mg",
+            "ru": "0,4–0,6 мг"
+          }
+        },
+        {
+          "text": {
+            "en": "0.05–0.1 mg once daily",
+            "ru": "0,05–0,1 мг 1 раз в сутки"
+          }
+        },
+        {
+          "text": {
+            "en": "High plasma levels associated with adverse events.",
+            "ru": "Высокие концентрации в плазме ассоциированы с токсическими реакциями."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_other",
+      "cells": [
+        {
+          "text": {
+            "en": "**Other**",
+            "ru": "**Другие препараты**"
+          },
+          "colspan": 4,
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r_amiodarone",
+      "cells": [
+        {
+          "text": {
+            "en": "Amiodarone^[d]",
+            "ru": "Амиодарон^[d]"
+          }
+        },
+        {
+          "text": {
+            "en": "300 mg i.v. diluted in 250 mL 5% dextrose over 30–60 min (preferably via central venous cannula), followed by 900–1200 mg i.v. over 24 h diluted in 500–1000 mL via a central venous cannula",
+            "ru": "300 мг в/в капельно в 250 мл 5% глюкозы за 30–60 мин (предпочтительно через центральный венозный катетер), затем 900–1200 мг в/в за 24 ч в 500–1000 мл через центральный катетер"
+          }
+        },
+        {
+          "text": {
+            "en": "200 mg once daily after loading. Loading: 200 mg three times daily for 4 weeks, then 200 mg daily or less as appropriate (reduce other rate control drugs according to heart rate)",
+            "ru": "200 мг 1 раз в сутки после насыщения. Насыщение: 200 мг 3 раза в сутки в течение 4 недель, затем 200 мг/сут или менее (уменьшить дозы других средств контроля ЧСС по частоте ритма)"
+          }
+        },
+        {
+          "text": {
+            "en": "Contraindicated in iodine sensitivity. Serious potential adverse effects (including pulmonary, ophthalmic, hepatic, and thyroid). Consider numerous drug interactions.",
+            "ru": "Противопоказан при гиперчувствительности к йоду. Серьезные побочные эффекты (легочные, офтальмологические, печеночные, тиреоидные). Учитывать множественные лекарственные взаимодействия."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "All rate control drugs are contraindicated in Wolff–Parkinson–White syndrome; also intravenous amiodarone.",
+      "ru": "Все препараты для контроля частоты сокращений противопоказаны при синдроме Вольфа-Паркинсона-Уайта (WPW); в том числе внутривенный амиодарон."
+    },
+    "b": {
+      "en": "Other beta-blockers are available but not recommended as specific rate control therapy in AF and therefore not mentioned here (e.g. propranolol and labetalol).",
+      "ru": "Другие бета-блокаторы доступны, но не рекомендуются в качестве целевой терапии контроля ЧСС при ФП и поэтому не включены в таблицу (например, пропранолол и лабеталол)."
+    },
+    "c": {
+      "en": "No data on atenolol; should not be used in heart failure with reduced ejection fraction or in pregnancy.",
+      "ru": "Данные по атенололу ограничены; не следует применять при сердечной недостаточности со сниженной фракцией выброса или при беременности."
+    },
+    "d": {
+      "en": "Loading regimen may vary; i.v. dosage should be considered when calculating total load.",
+      "ru": "Режим насыщения может варьировать; дозу в/в введения следует учитывать при расчете суммарной насыщающей дозы."
+    }
+  }
+}

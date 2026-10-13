@@ -1,0 +1,149 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://starleyby.github.io/Starley-CS-Library/schema/guideline-table.schema.json",
+  "title": "Guideline table",
+  "description": "One table from a clinical guideline. Colors are NEVER stored: they are derived from class/level/tone by CSS tokens. Inline markup inside any i18n text: **bold**, *italic*, ^[x] = footnote marker (x must exist in `footnotes`).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "id", "guidelineId", "number", "type", "title"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "id": { "$ref": "#/$defs/tableId" },
+    "guidelineId": { "$ref": "#/$defs/guidelineId" },
+    "number": { "type": "string", "minLength": 1, "description": "Table number as printed in the guideline, e.g. \"4\" or \"S2\"." },
+    "type": { "enum": ["recommendations", "grid"] },
+    "title": { "$ref": "#/$defs/i18n" },
+    "tags": { "type": "array", "items": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" }, "uniqueItems": true, "description": "Taxonomy tag ids (quiz-taxonomy.json) or free slugs; used for search and linking to chapters." },
+    "sections": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/section" }, "description": "type=recommendations only." },
+    "columns": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/column" }, "description": "type=grid only." },
+    "rows": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/gridRow" }, "description": "type=grid only." },
+    "footnotes": {
+      "type": "object",
+      "propertyNames": { "pattern": "^[a-z]{1,2}$" },
+      "additionalProperties": { "$ref": "#/$defs/i18n" },
+      "description": "Printed footnotes of the table (a/b are normally the class/level legend, so usually start from c)."
+    },
+    "notes": {
+      "type": "object",
+      "propertyNames": { "$ref": "#/$defs/localId" },
+      "additionalProperties": { "$ref": "#/$defs/note" },
+      "description": "Remarks shown on click. Kept out of the table body on purpose."
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "page": { "type": "integer", "minimum": 1 },
+        "expectedRows": { "type": "integer", "minimum": 1, "description": "Number of rows counted on the original image; validator compares it with the real count." },
+        "note": { "type": "string" }
+      }
+    },
+    "i18nStatus": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": { "ru": { "enum": ["missing", "draft", "reviewed"] } }
+    }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "type": { "const": "recommendations" } } },
+      "then": { "required": ["sections"], "not": { "anyOf": [{ "required": ["columns"] }, { "required": ["rows"] }] } },
+      "else": { "required": ["columns", "rows"], "not": { "required": ["sections"] } }
+    }
+  ],
+  "$defs": {
+    "guidelineId": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "tableId": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*\\.[a-z0-9]+(-[a-z0-9]+)*$", "description": "<guidelineId>.<short>, e.g. esc-acs-2023.rt04" },
+    "localId": { "type": "string", "pattern": "^[a-z0-9][a-z0-9_-]*$", "description": "Unique inside the table; no dots." },
+    "i18n": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["en"],
+      "properties": {
+        "en": { "type": "string", "minLength": 1 },
+        "ru": { "type": "string" }
+      }
+    },
+    "classValue": { "enum": ["I", "IIa", "IIb", "III"] },
+    "levelValue": { "enum": ["A", "B", "C"] },
+    "refs": { "type": "array", "items": { "type": "integer", "minimum": 1 }, "uniqueItems": true, "description": "Reference numbers, expanded (184–186 → 184,185,186). The UI collapses ranges." },
+    "noteIds": { "type": "array", "items": { "$ref": "#/$defs/localId" }, "uniqueItems": true },
+    "bullet": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["text"],
+      "properties": { "text": { "$ref": "#/$defs/i18n" }, "refs": { "$ref": "#/$defs/refs" } }
+    },
+    "recRow": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "text", "class", "level"],
+      "properties": {
+        "id": { "$ref": "#/$defs/localId" },
+        "text": { "$ref": "#/$defs/i18n" },
+        "bullets": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/bullet" } },
+        "class": { "$ref": "#/$defs/classValue" },
+        "level": { "$ref": "#/$defs/levelValue" },
+        "refs": { "$ref": "#/$defs/refs" },
+        "notes": { "$ref": "#/$defs/noteIds" }
+      }
+    },
+    "section": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "title", "rows"],
+      "properties": {
+        "id": { "$ref": "#/$defs/localId" },
+        "title": { "$ref": "#/$defs/i18n" },
+        "rows": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/recRow" } },
+        "notes": { "$ref": "#/$defs/noteIds" }
+      }
+    },
+    "column": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "title"],
+      "properties": { "id": { "$ref": "#/$defs/localId" }, "title": { "$ref": "#/$defs/i18n" } }
+    },
+    "tone": { "enum": ["neutral", "green", "yellow", "orange", "red", "blue"] },
+    "cell": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["text"],
+      "properties": {
+        "text": { "$ref": "#/$defs/i18n" },
+        "tone": { "$ref": "#/$defs/tone" },
+        "colspan": { "type": "integer", "minimum": 1 },
+        "rowspan": { "type": "integer", "minimum": 1 },
+        "refs": { "$ref": "#/$defs/refs" },
+        "notes": { "$ref": "#/$defs/noteIds" }
+      }
+    },
+    "gridRow": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "cells"],
+      "properties": {
+        "id": { "$ref": "#/$defs/localId" },
+        "kind": { "enum": ["header", "section", "data"], "default": "data" },
+        "cells": { "type": "array", "minItems": 1, "items": { "$ref": "#/$defs/cell" }, "description": "One per column in the order of `columns` (use colspan for merged cells)." },
+        "notes": { "$ref": "#/$defs/noteIds" }
+      }
+    },
+    "note": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["target", "text"],
+      "properties": {
+        "target": {
+          "type": "string",
+          "pattern": "^(table|section:[a-z0-9][a-z0-9_-]*|row:[a-z0-9][a-z0-9_-]*|cell:[a-z0-9][a-z0-9_-]*\\.[a-z0-9][a-z0-9_-]*)$",
+          "description": "table | section:<id> | row:<id> | cell:<rowId>.<colId>  (for recommendations colId is text|class|level).",
+          "examples": ["table", "row:r05", "cell:r05.level"]
+        },
+        "title": { "$ref": "#/$defs/i18n" },
+        "text": { "$ref": "#/$defs/i18n" }
+      }
+    }
+  }
+}

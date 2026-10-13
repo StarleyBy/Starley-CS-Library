@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt26-post-operative-af",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 26",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for management of post-operative AF",
+    "ru": "Рекомендации по ведению послеоперационной фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "post-operative",
+    "amiodarone",
+    "pericardiotomy",
+    "anticoagulation",
+    "beta-blockers",
+    "cardiac-surgery",
+    "non-cardiac-surgery"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for management of post-operative AF",
+        "ru": "Рекомендации по ведению послеоперационной ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Peri-operative amiodarone therapy is recommended where drug therapy is desired to prevent post-operative AF after cardiac surgery.",
+            "ru": "Периоперационная терапия амиодароном рекомендуется в случаях, когда требуется медикаментозная профилактика послеоперационной ФП после кардиохирургических операций."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Concomitant posterior peri-cardiotomy should be considered in patients undergoing cardiac surgery to prevent post-operative AF.",
+            "ru": "Сопутствующая задняя перикардиотомия должна рассматриваться у пациентов, подвергающихся кардиохирургическим операциям, для профилактики послеоперационной ФП."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Long-term oral anticoagulation should be considered in patients with post-operative AF after cardiac and non-cardiac surgery at elevated thromboembolic risk, to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Длительная терапия оральными антикоагулянтами должна рассматриваться у пациентов с послеоперационной ФП после кардиохирургических и некардиохирургических операций при повышенном риске тромбоэмболии для профилактики ишемического инсульта и тромбоэмболий."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Routine use of beta-blockers is not recommended in patients undergoing non-cardiac surgery for the prevention of post-operative AF.",
+            "ru": "Рутинное применение бета-блокаторов не рекомендуется у пациентов, подвергающихся некардиохирургическим операциям, с целью профилактики послеоперационной ФП."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

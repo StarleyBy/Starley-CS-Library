@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020",
+  "society": "ESC",
+  "year": 2020,
+  "title": {
+    "en": "2020 ESC Guidelines for the management of adult congenital heart disease",
+    "ru": "Рекомендации ESC 2020 по ведению взрослых с врожденными пороками сердца (ВЗПС)"
+  },
+  "shortTitle": {
+    "en": "ESC ACHD 2020",
+    "ru": "ESC ВЗПС 2020"
+  },
+  "citation": "Eur Heart J. 2021;42(6):563–645",
+  "legend": "esc-2023",
+  "abbreviations": {
+    "ACHD": { "en": "adult congenital heart disease", "ru": "врожденные пороки сердца у взрослых (ВЗПС)" },
+    "CHD": { "en": "congenital heart disease", "ru": "врожденный порок сердца" },
+    "ASD": { "en": "atrial septal defect", "ru": "дефект межпредсердной перегородки" },
+    "VSD": { "en": "ventricular septal defect", "ru": "дефект межжелудочковой перегородки" },
+    "PDA": { "en": "patent ductus arteriosus", "ru": "открытый артериальный проток" },
+    "AVSD": { "en": "atrioventricular septal defect", "ru": "атриовентрикулярный септальный дефект" },
+    "PVR": { "en": "pulmonary vascular resistance", "ru": "легочное сосудистое сопротивление" },
+    "PAH": { "en": "pulmonary arterial hypertension", "ru": "легочная артериальная гипертензия" },
+    "TOF": { "en": "tetralogy of Fallot", "ru": "тетрада Фалло" },
+    "ccTGA": { "en": "congenitally corrected transposition of the great arteries", "ru": "врожденно скорректированная транспозиция магистральных артерий" },
+    "TGA": { "en": "transposition of the great arteries", "ru": "транспозиция магистральных артерий" },
+    "AAOCA": { "en": "anomalous aortic origin of a coronary artery", "ru": "аномальное отхождение коронарной артерии от аорты" },
+    "ALCAPA": { "en": "anomalous left coronary artery from the pulmonary artery", "ru": "аномальное отхождение левой коронарной артерии от легочной артерии" },
+    "ARCAPA": { "en": "anomalous right coronary artery from the pulmonary artery", "ru": "аномальное отхождение правой коронарной артерии от легочной артерии" }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt15",
+  "guidelineId": "esc-acs-2023",
+  "number": "15",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for acute coronary syndrome comorbid conditions",
+    "ru": "Рекомендации при сопутствующих патологиях у пациентов с острым коронарным синдромом"
+  },
+  "tags": [
+    "comorbidities",
+    "ckd",
+    "contrast-induced-nephropathy",
+    "diabetes",
+    "hyperglycaemia",
+    "older-adults",
+    "frailty",
+    "cancer",
+    "thrombocytopenia"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Chronic kidney disease",
+        "ru": "Хроническая болезнь почек"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "The use of low- or iso-osmolar contrast media (at the lowest possible volume) is recommended for invasive strategies.",
+            "ru": "Применение низко- или изоосмолярных контрастных средств (в минимально возможном объеме) рекомендуется при проведении инвазивных процедур."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "It is recommended to assess kidney function using eGFR in all patients with ACS.",
+            "ru": "Рекомендуется оценивать функцию почек по рСКФ (eGFR) у всех пациентов с ОКС."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "It is recommended to apply the same diagnostic and therapeutic strategies in patients with CKD (dose adjustment may be necessary) as in patients with normal kidney function.",
+            "ru": "Рекомендуется применять те же диагностические и терапевтические стратегии у пациентов с ХБП (с необходимой коррекцией доз препаратов), что и у пациентов с нормальной функцией почек."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Hydration during and after angiography should be considered in patients at risk of contrast-induced nephropathy, especially in patients with acute kidney injury and/or CKD with eGFR <30 mL/min/1.73 m².",
+            "ru": "Гидратацию во время и после ангиографии следует рассматривать у пациентов с риском контраст-индуцированной нефропатии, особенно при остром повреждении почек и/или ХБП с рСКФ <30 мл/мин/1,73 м²."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Diabetes",
+        "ru": "Сахарный диабет"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "It is recommended to base the choice of long-term glucose-lowering treatment on the presence of comorbidities, including heart failure, CKD, and obesity.",
+            "ru": "Рекомендуется основывать выбор длительной сахароснижающей терапии на наличии коморбидных состояний, включая сердечную недостаточность, ХБП и ожирение."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "It is recommended to assess glycaemic status at initial evaluation in all patients with ACS.",
+            "ru": "Рекомендуется оценивать гликемический статус при первичной оценке у всех пациентов с ОКС."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "It is recommended to frequently monitor blood glucose levels in patients with known diabetes mellitus or hyperglycaemia (defined as glucose levels ≥11.1 mmol/L or ≥200 mg/dL).",
+            "ru": "Рекомендуется регулярно контролировать уровень глюкозы крови у пациентов с известным сахарным диабетом или гипергликемией (уровень глюкозы ≥11,1 ммоль/л или ≥200 мг/дл)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Glucose-lowering therapy should be considered in patients with ACS with persistent hyperglycaemia, while episodes of hypoglycaemia should be avoided.",
+            "ru": "Сахароснижающую терапию следует рассматривать у пациентов с ОКС и персистирующей гипергликемией, избегая эпизодов гипогликемии."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Older adults",
+        "ru": "Пожилые пациенты"
+      },
+      "rows": [
+        {
+          "id": "r09",
+          "text": {
+            "en": "It is recommended to apply the same diagnostic and treatment strategies in older patients as in younger patients.",
+            "ru": "Рекомендуется применять те же диагностические и лечебные стратегии у пожилых пациентов, что и у пациентов более молодого возраста."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "It is recommended to adapt the choice and dosage of antithrombotic agent, as well as of secondary prevention medications, to renal function, co-medications, comorbidities, frailty, cognitive function, and specific contraindications.",
+            "ru": "Рекомендуется адаптировать выбор и дозировку антитромботических препаратов и средств вторичной профилактики с учетом функции почек, сопутствующей терапии, коморбидности, старческой астении (frailty), когнитивных функций и противопоказаний."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "For frail older patients with comorbidities, a holistic approach is recommended to individualize interventional and pharmacological treatments after careful evaluation of the risks and benefits.",
+            "ru": "Для пожилых пациентов со старческой астенией и сопутствующими заболеваниями рекомендуется целостный (холистический) подход для индивидуализации интервенционных и медикаментозных вмешательств после тщательной оценки риска и пользы."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en": "Patients with cancer",
+        "ru": "Пациенты с онкологическими заболеваниями"
+      },
+      "rows": [
+        {
+          "id": "r12",
+          "text": {
+            "en": "An invasive strategy is recommended in cancer patients presenting with high-risk ACS with expected survival ≥6 months.",
+            "ru": "Инвазивная стратегия рекомендуется онкологическим пациентам с ОКС высокого риска при ожидаемой выживаемости ≥6 месяцев."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "A temporary interruption of cancer therapy is recommended in patients in whom the cancer therapy is suspected to be a contributing cause of ACS.^[c]",
+            "ru": "Временное прекращение противоопухолевой терапии рекомендуется пациентам, у которых данная терапия подозревается как сопутствующая причина ОКС.^[c]"
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "A conservative non-invasive strategy should be considered in ACS patients with poor cancer prognosis^[d] (i.e. with expected survival <6 months) and/or very high bleeding risk.",
+            "ru": "Консервативную неинвазивную стратегию следует рассматривать у пациентов с ОКС и неблагоприятным онкологическим прогнозом^[d] (т.е. ожидаемая выживаемость <6 месяцев) и/или очень высоким риском кровотечений."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "Aspirin is not recommended in cancer patients with a platelet count <10 000/μL.",
+            "ru": "Аспирин не рекомендуется онкологическим пациентам с числом тромбоцитов <10 000/мкл."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r16",
+          "text": {
+            "en": "Clopidogrel is not recommended in cancer patients with a platelet count <30 000/μL.",
+            "ru": "Клопидогрел не рекомендуется онкологическим пациентам с числом тромбоцитов <30 000/мкл."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r17",
+          "text": {
+            "en": "In ACS patients with cancer and <50 000/μL platelet count, prasugrel or ticagrelor are not recommended.",
+            "ru": "У пациентов с ОКС и онкопатологией при числе тромбоцитов <50 000/мкл прасугрел или тикагрелор не рекомендуются."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Anticancer therapies associated with high risk of ACS (very common [>10%]) include: capecitabine, paclitaxel, cisplatin, carfilzomib, bevacizumab, ramucirumab, aflibercept, axitinib, sorafenib, pazopanib, cabozantinib, lenvatinib, ponatinib, and erlotinib.",
+      "ru": "Противоопухолевые препараты, связанные с высоким риском ОКС (очень часто [>10%]), включают: капецитабин, паклитаксел, цисплатин, карфилзомиб, бевацизумаб, рамуцирумаб, афлиберцепт, акситиниб, сорафениб, пазопаниб, кабозантиниб, ленватиниб, понатиниб и эрлотиниб."
+    },
+    "d": {
+      "en": "Related to advanced cancer stage and/or severe irreversible non-CV comorbidities.",
+      "ru": "Связано с запущенной стадией рака и/или тяжелыми необратимыми некардиоваскулярными коморбидными состояниями."
+    }
+  },
+  "source": {
+    "expectedRows": 17
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.t15-screening-tools",
+  "guidelineId": "esc-af-2024",
+  "number": "Table 15",
+  "type": "grid",
+  "title": {
+    "en": "Tools for AF screening",
+    "ru": "Инструменты для скрининга фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "screening",
+    "ecg",
+    "photoplethysmography",
+    "smartwatch",
+    "loop-recorder",
+    "ai"
+  ],
+  "columns": [
+    {
+      "id": "c_tool",
+      "title": {
+        "en": "Tools for AF screening",
+        "ru": "Инструменты для скрининга ФП"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "**(i) Pulse palpation**",
+            "ru": "**(i) Пальпация пульса**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "**(ii) Use of artificial intelligence algorithms** to identify patients at risk",
+            "ru": "**(ii) Алгоритмы искусственного интеллекта** для стратификации риска пациентов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hdr01",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**(iii) ECG-based devices**",
+            "ru": "**(iii) Устройства на основе ЭКГ**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "• **Conventional ECG devices**:\n  - Classic 12-lead ECG\n  - Holter monitoring (from 24 h to a week or more)\n  - Mobile cardiac telemetry (during hospitalization)\n  - Handheld devices\n  - Wearable patches (up to 14 days)\n  - Biotextiles (up to 30 days)\n  - Smart devices (30 s)",
+            "ru": "• **Традиционные ЭКГ-устройства**:\n  - Классическая ЭКГ в 12 отведениях\n  - Холтеровское мониторирование (от 24 часов до недели и более)\n  - Мобильная кардиотелеметрия (во время госпитализации)\n  - Портативные ручные приборы (Handheld devices)\n  - Накожные носимые патчи (до 14 дней)\n  - «Умный» текстиль / биотекстиль (до 30 дней)\n  - Смарт-устройства / смарт-часы (30-секундная запись)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "• **Implantable loop recorders** (3–5 years)",
+            "ru": "• **Имплантируемые петлевые регистраторы** (3–5 лет)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hdr02",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**(iv) Non-ECG-based devices**",
+            "ru": "**(iv) Устройства без регистрации ЭКГ**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "• **Photoplethysmography and automatic algorithms**: contact (fingertip, smart device, band) and contactless (video)",
+            "ru": "• **Фотоплетизмография (ФПГ) и автоматические алгоритмы**: контактные (датчик на палец, смарт-часы, браслеты) и бесконтактные (видеомониторинг лица)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "• **Oscillometry** (blood pressure monitors that derive heart rhythm regularity algorithmically)",
+            "ru": "• **Осциллометрия** (тонометры для измерения АД с функцией алгоритмического анализа регулярности ритма)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "• **Mechanocardiography** (accelerometers and gyroscopes to sense the mechanical activity of the heart)",
+            "ru": "• **Механокардиография** (акселерометры и гироскопы для регистрации механической активности сердца)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "• **Contactless video plethysmography** (through video monitoring)",
+            "ru": "• **Бесконтактная видеоплетизмография** (посредством оптического видеомониторинга капиллярного кровотока)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "• **Smart speakers** (through the identification of abnormal heart rate patterns)",
+            "ru": "• **Умные колонки** (через акустическую идентификацию аномальных паттернов ритма)"
+          }
+        }
+      ]
+    }
+  ]
+}

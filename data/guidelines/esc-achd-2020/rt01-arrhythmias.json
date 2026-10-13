@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt01-arrhythmias",
+  "guidelineId": "esc-achd-2020",
+  "number": "8 (Rec Arrhythmias)",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for treatment of arrhythmias in adult congenital heart disease",
+    "ru": "Рекомендации по лечению аритмий при врожденных пороках сердца у взрослых"
+  },
+  "tags": [
+    "achd",
+    "arrhythmias",
+    "catheter-ablation",
+    "svt",
+    "vt",
+    "icd",
+    "pacemaker",
+    "scd",
+    "bradycardia"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "General and Catheter Ablation",
+        "ru": "Общие положения и катетерная аблация"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with moderate and severe CHD complexity (Table 4) and documented arrhythmias, referral to a centre with a multidisciplinary team and expertise in ACHD patients and ACHD-related arrhythmia is indicated.",
+            "ru": "Пациентам с ВПС средней и высокой сложности (Таблица 4) и документированными аритмиями показано направление в центр с мультидисциплинарной командой и опытом ведения пациентов с ВЗПС и ассоциированными аритмиями."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In CHD patients with documented arrhythmias or at high risk for post-procedural arrhythmias (e.g. ASD closure at older age) considered for percutaneous or surgical (re)interventions, referral to a centre with a multidisciplinary team with expertise in these interventions and in invasive treatment of arrhythmias is indicated.",
+            "ru": "Пациентам с ВПС с документированными аритмиями или высоким риском их возникновения после вмешательства (например, закрытие ДМПП в пожилом возрасте), рассматриваемым для эндоваскулярных или хирургических вмешательств, показано направление в центр с опытом подобных операций и инвазивного лечения аритмий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In mild CHD, catheter ablation is recommended over long-term medical therapy for symptomatic, sustained recurrent SVT (AVNRT, AVRT, AT, and IART), or if SVT is potentially related to SCD (Table 7).",
+            "ru": "При легких ВПС катетерная аблация рекомендуется предпочтительнее длительной медикаментозной терапии при симптомных стойких рецидивирующих СВТ (АВУРТ, АВРТ, ПТ и IART) или если СВТ потенциально сопряжена с ВСС (Таблица 7)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In moderate and severe CHD, catheter ablation should be considered for symptomatic, sustained recurrent SVT (AVNRT, AVRT, AT, and IART), or if SVT is potentially related to SCD (Table 7), provided that the procedure is performed in experienced centres.",
+            "ru": "При умеренных и тяжелых ВПС катетерную аблацию следует рассматривать при симптомных стойких рецидивирующих СВТ (АВУРТ, АВРТ, ПТ и IART) или если СВТ потенциально связана с ВСС (Таблица 7), при условии выполнения в опытных центрах."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Catheter ablation is indicated as adjunctive therapy to ICDs in patients who present with recurrent monomorphic VT, incessant VT, or electrical storm not manageable by medical therapy or ICD reprogramming.",
+            "ru": "Катетерная аблация показана как дополнение к ИКД у пациентов с рецидивирующей мономорфной ЖТ, непрерывно рецидивирующей ЖТ или электрическим штормом, не купируемыми медикаментозно или перепрограммированием ИКД."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Catheter ablation should be considered for symptomatic, monomorphic sustained VT in patients for whom medical therapy is not desired, provided that the procedure is performed in experienced centres.",
+            "ru": "Катетерную аблацию следует рассматривать при симптомной стойкой мономорфной ЖТ у пациентов, не желающих принимать медикаментозную терапию, при условии выполнения в опытных центрах."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Implantable cardioverter defibrillator (ICD)",
+        "ru": "Имплантируемый кардиовертер-дефибриллятор (ИКД)"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "ICD implantation is indicated in adults with CHD who are survivors of an aborted cardiac arrest due to VF or haemodynamically untolerated VT after evaluation to define the cause of the event and exclusion of reversible causes.",
+            "ru": "Имплантация ИКД показана взрослым с ВПС, пережившим внезапную остановку сердца вследствие ФЖ или гемодинамически нестабильной ЖТ, после оценки причины и исключения обратимых факторов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "ICD implantation is indicated in adults with CHD and sustained VT after haemodynamic evaluation and repair when indicated. EP evaluation is required to identify patients in whom catheter ablation or surgical ablation may be beneficial as adjunctive treatment or in whom it may offer a reasonable alternative.",
+            "ru": "Имплантация ИКД показана взрослым с ВПС и стойкой ЖТ после гемодинамической оценки и коррекции (по показаниям). ЭФИ необходимо для определения пациентов, которым аблация может принести пользу как дополнение или альтернатива."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "ICD implantation should be considered in adults with CHD with biventricular physiology and a systemic LV presenting with symptomatic heart failure (NYHA II/III) and EF ≤35% despite ≥3 months of optimal medical treatment, provided they are expected to survive substantially longer than one year with good functional status.^[c]",
+            "ru": "Имплантацию ИКД следует рассматривать у взрослых с ВПС, двухжелудочковой физиологией и системным ЛЖ при симптомной СН (NYHA II/III) и ФВ ≤35%, несмотря на ≥3 месяцев оптимальной терапии, при ожидаемой продолжительности жизни >1 года в удовлетворительном функциональном статусе.^[c]"
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "ICD implantation should be considered in patients with CHD and unexplained syncope and suspicion for arrhythmia aetiology and either advanced ventricular dysfunction or inducible VT/VF at programmed electrical stimulation.",
+            "ru": "Имплантацию ИКД следует рассматривать у пациентов с ВПС и синкопе неясного генеза с подозрением на аритмическую этиологию при тяжелой желудочковой дисфункции либо индуцируемой ЖТ/ФЖ при ЭФИ."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "ICD implantation should be considered in selected TOF patients with multiple risk factors for SCD, including LV dysfunction, non-sustained, symptomatic VT, QRS duration ≥180 ms, extensive RV scarring on CMR, or inducible VT at programmed electrical stimulation.",
+            "ru": "Имплантацию ИКД следует рассматривать у отобранных пациентов с тетрадой Фалло с множественными факторами риска ВСС (дисфункция ЛЖ, пробежки симптомной неустойчивой ЖТ, QRS ≥180 мс, выраженный фиброз ПЖ по МРТ или индуцируемая ЖТ при ЭФИ)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "ICD implantation may be considered in patients with advanced single or systemic RV dysfunction (EF systemic RV <35%) in the presence of additional risk factors.^[d]",
+            "ru": "Имплантация ИКД может быть рассмотрена у пациентов с выраженной дисфункцией единственного или системного правого желудочка (ФВ системного ПЖ <35%) при наличии дополнительных факторов риска.^[d]"
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Pacemaker (PM)",
+        "ru": "Электрокардиостимуляторы (ЭКС)"
+      },
+      "rows": [
+        {
+          "id": "r13",
+          "text": {
+            "en": "PM implantation should be considered in ACHD patients with bradycardia-tachycardia syndrome to prevent IART, if ablation fails or is not possible.",
+            "ru": "Имплантацию ЭКС следует рассматривать у пациентов с ВЗПС и синдромом тахи-бради для предотвращения предсердной реципрокной тахикардии (IART), если аблация неэффективна или невозможна."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "PM implantation should be considered for patients with severe CHD and sinus or junctional bradycardia (daytime heart rate <40 beats per minute or pauses >3 s).",
+            "ru": "Имплантацию ЭКС следует рассматривать у пациентов с тяжелыми ВПС при синусовой или узловой брадикардии (дневная ЧСС <40 уд/мин или паузы >3 с)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "PM implantation should be considered for patients with CHD and compromised haemodynamics due to sinus bradycardia or loss of AV synchrony.",
+            "ru": "Имплантацию ЭКС следует рассматривать у пациентов с ВПС и гемодинамическими нарушениями вследствие синусовой брадикардии или утраты АВ-синхронии."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r16",
+          "text": {
+            "en": "PM implantation may be considered for patients with moderate CHD and sinus or junctional bradycardia (daytime heart rate <40 beats per minute or pauses >3 s).",
+            "ru": "Имплантация ЭКС может быть рассмотрена у пациентов с ВПС средней сложности при синусовой или узловой брадикардии (дневная ЧСС <40 уд/мин или паузы >3 с)."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Considering the broad spectrum of ACHD with LV pathologies that may differ from acquired heart diseases, the potentially higher risk of ICD-related complications in ACHD, and the paucity of data on the benefit of ICDs for primary prevention of SCD in ACHD, a personalized approach seems appropriate.",
+      "ru": "Учитывая широкий спектр патологий ЛЖ при ВЗПС, потенциально более высокий риск осложнений ИКД и ограниченность данных о первичной профилактике ВСС, целесообразен индивидуализированный подход."
+    },
+    "d": {
+      "en": "Data are sparse and risk factors may be lesion specific, including non-sustained VT, NYHA II/III, severe AV valve regurgitation, and wide QRS ≥140 ms (TGA).",
+      "ru": "Данные ограничены; факторы риска специфичны для конкретного порока: неустойчивая ЖТ, NYHA II/III, тяжелая АВ-регургитация, QRS ≥140 мс (ТМА)."
+    }
+  },
+  "source": {
+    "expectedRows": 16
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

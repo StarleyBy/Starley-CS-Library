@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt09-subaortic-stenosis",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec SubAS",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention in subaortic stenosis",
+    "ru": "Рекомендации по вмешательствам при подклапанном аортальном стенозе"
+  },
+  "tags": [
+    "achd",
+    "subas",
+    "subaortic-stenosis",
+    "lvoto",
+    "aortic-regurgitation",
+    "surgery",
+    "gradient"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In symptomatic patients (spontaneous or on exercise test) with a mean Doppler gradient ≥40 mmHg^[c] or severe AR, surgery is recommended.",
+            "ru": "У симптомных пациентов (спонтанно или при нагрузочном тесте) со средним допплеровским градиентом ≥40 мм рт. ст.^[c] или тяжелой аортальной регургитацией рекомендуется хирургическое лечение."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Asymptomatic patients should be considered for surgery when one or more of the following findings are present:\n• Mean gradient <40 mmHg but LVEF <50%\n• AR is severe and LVESD >50 mm (or 25 mm/m² BSA) and/or EF <50%^[d]\n• Mean Doppler gradient is ≥40 mmHg^[c] and marked LVH present\n• Mean Doppler gradient is ≥40 mmHg^[c] and there is a fall in blood pressure below baseline on exercise.",
+            "ru": "У бессимптомных пациентов операцию следует рассматривать при наличии одного или нескольких критериев:\n• Средний градиент <40 мм рт. ст., но ФВЛЖ <50%\n• Тяжелая АР и КСР ЛЖ >50 мм (или 25 мм/м² ППТ) и/или ФВ <50%^[d]\n• Средний градиент ≥40 мм рт. ст.^[c] и выраженная ГЛЖ\n• Средний градиент ≥40 мм рт. ст.^[c] и падение АД ниже исходного при нагрузке."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Asymptomatic patients may be considered for surgery when one or more of the following findings are present:\n• Mean Doppler gradient is ≥40 mmHg,^[c] LV is normal (EF >50% and no LVH), exercise testing is normal, and surgical risk is low\n• Progression of AR is documented and AR becomes more than mild (to prevent further progression).",
+            "ru": "У бессимптомных пациентов операция может быть рассмотрена при наличии одного из факторов:\n• Средний допплеровский градиент ≥40 мм рт. ст.,^[c] сохранная функция ЛЖ (ФВ >50%, без ГЛЖ), нормальный нагрузочный тест и низкий хирургический риск\n• Документированное прогрессирование АР с превышением легкой степени (для предотвращения дальнейшего прогрессирования)."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Doppler-derived gradients may overestimate the obstruction and may need confirmation by cardiac catheterization.",
+      "ru": "Допплеровские градиенты могут завышать степень обструкции и могут требовать подтверждения при зондировании сердца."
+    },
+    "d": {
+      "en": "See 2017 ESC Guidelines on the management of valvular heart disease.",
+      "ru": "См. Рекомендации ESC 2017 по ведению клапанной болезни сердца."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

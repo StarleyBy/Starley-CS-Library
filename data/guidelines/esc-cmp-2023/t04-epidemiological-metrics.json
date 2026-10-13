@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t04-epidemiological-metrics",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 4",
+  "type": "grid",
+  "title": {
+    "en": "Key epidemiological metrics in adults and children for the different cardiomyopathy phenotypes",
+    "ru": "Основные эпидемиологические показатели у взрослых и детей для различных фенотипов кардиомиопатий"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "epidemiology",
+    "hcm",
+    "dcm",
+    "ndlvc",
+    "arvc",
+    "rcm",
+    "pediatric"
+  ],
+  "columns": [
+    {
+      "id": "c_phenotype",
+      "title": {
+        "en": "Cardiomyopathy phenotype",
+        "ru": "Фенотип кардиомиопатии"
+      }
+    },
+    {
+      "id": "c_adults",
+      "title": {
+        "en": "Adults",
+        "ru": "Взрослые"
+      }
+    },
+    {
+      "id": "c_children",
+      "title": {
+        "en": "Children",
+        "ru": "Дети"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "**HCM**",
+            "ru": "**ГКМП**"
+          }
+        },
+        {
+          "text": {
+            "en": "Prevalence: 0.2%",
+            "ru": "Распространенность: 0,2%"
+          }
+        },
+        {
+          "text": {
+            "en": "• Childhood incidence: 0.002–0.005%\n• Childhood prevalence: 0.029%",
+            "ru": "• Заболеваемость в детском возрасте: 0,002–0,005%\n• Распространенность в детском возрасте: 0,029%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "**DCM**",
+            "ru": "**ДКМП**"
+          }
+        },
+        {
+          "text": {
+            "en": "Prevalence: 0.036–0.400%",
+            "ru": "Распространенность: 0,036–0,400%"
+          }
+        },
+        {
+          "text": {
+            "en": "• Childhood incidence: 0.003–0.006%\n• Childhood prevalence: 0.026%\n• Infantile incidence: 0.038–0.046%",
+            "ru": "• Заболеваемость в детском возрасте: 0,003–0,006%\n• Распространенность в детском возрасте: 0,026%\n• Заболеваемость у младенцев: 0,038–0,046%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "**NDLVC**",
+            "ru": "**НДЛЖКМП**"
+          }
+        },
+        {
+          "text": {
+            "en": "To be determined",
+            "ru": "Уточняется (нет точных данных)"
+          }
+        },
+        {
+          "text": {
+            "en": "To be determined",
+            "ru": "Уточняется (нет точных данных)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "**ARVC**",
+            "ru": "**АКПЖ**"
+          }
+        },
+        {
+          "text": {
+            "en": "Prevalence: 0.078%",
+            "ru": "Распространенность: 0,078%"
+          }
+        },
+        {
+          "text": {
+            "en": "Very rare in infancy and early childhood; to be determined in older children and adolescents",
+            "ru": "Крайне редко в младенчестве и раннем детстве; уточняется у детей старшего возраста и подростков"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "**RCM**",
+            "ru": "**РКМП**"
+          }
+        },
+        {
+          "text": {
+            "en": "Rare",
+            "ru": "Редко"
+          }
+        },
+        {
+          "text": {
+            "en": "Childhood incidence: 0.0003%",
+            "ru": "Заболеваемость в детском возрасте: 0,0003%"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt20-fontan-intervention",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec Fontan",
+  "type": "recommendations",
+  "title": {
+    "en": "Special considerations and recommendations for intervention after Fontan operation",
+    "ru": "Особые аспекты и рекомендации по вмешательствам после операции Фонтена"
+  },
+  "tags": [
+    "achd",
+    "fontan",
+    "single-ventricle",
+    "arrhythmias",
+    "anticoagulation",
+    "fenestration",
+    "liver"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Sustained atrial arrhythmia with rapid AV conduction is a medical emergency and should be promptly treated with electrical cardioversion.",
+            "ru": "Устойчивая предсердная аритмия с быстрым АВ-проведением является неотложным состоянием и требует незамедлительного купирования с помощью электрической кардиоверсии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Anticoagulation is indicated in the presence, or with a history, of atrial thrombus, atrial arrhythmias, or thromboembolic events.",
+            "ru": "Антикоагулянтная терапия показана при наличии или анамнезе тромбоза предсердий, предсердных аритмий или тромбоэмболических событий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "It is recommended that women with a Fontan circulation and any complication are counselled against pregnancy.",
+            "ru": "Женщинам с циркуляцией Фонтена и любыми осложнениями рекомендуется консультирование против наступления беременности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Cardiac catheterization is recommended at a low threshold in cases of unexplained oedema, exercise deterioration, new-onset arrhythmia, cyanosis, and haemoptysis.",
+            "ru": "Катетеризация сердца рекомендуется при низком диагностическом пороге в случаях необъяснимых отеков, ухудшения переносимости нагрузки, впервые возникшей аритмии, цианоза и кровохарканья."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients with arrhythmias, a proactive approach of electrophysiologic evaluation and ablation (where appropriate) should be considered.",
+            "ru": "У пациентов с аритмиями следует рассматривать проактивный подход с электрофизиологическим исследованием и радиочастотной аблацией (при целесообразности)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Regular liver imaging (ultrasound, computed tomography, magnetic resonance) should be considered.",
+            "ru": "Следует рассматривать регулярную визуализацию печени (УЗИ, компьютерная томография, МРТ)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Endothelin receptor antagonists and phosphodiesterase-5 inhibitors may be considered in selected patients with elevated pulmonary pressure/resistance in the absence of elevated ventricular end diastolic pressure.",
+            "ru": "Антагонисты рецепторов эндотелина и ингибиторы фосфодиэстеразы-5 могут рассматриваться у отдельных пациентов с повышенным давлением/сопротивлением в легочной артерии при отсутствии повышенного конечно-диастолического давления в желудочке."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "In selected patients with significant cyanosis, device closure of a fenestration may be considered but requires careful evaluation before intervention to exclude induction of systemic venous pressure increase or fall in cardiac output.",
+            "ru": "У отдельных пациентов с выраженным цианозом может рассматриваться окклюзия фенестрации устройством, однако перед вмешательством требуется тщательная оценка для исключения подъема системного венозного давления или падения сердечного выброса."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

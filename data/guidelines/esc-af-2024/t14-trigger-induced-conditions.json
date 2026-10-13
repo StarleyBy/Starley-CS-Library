@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.t14-trigger-induced-conditions",
+  "guidelineId": "esc-af-2024",
+  "number": "Table 14",
+  "type": "grid",
+  "title": {
+    "en": "Non-cardiac conditions associated with trigger-induced AF",
+    "ru": "Некардиальные состояния, ассоциированные с триггер-индуцированной ФП"
+  },
+  "tags": [
+    "af",
+    "triggers",
+    "non-cardiac",
+    "acute-conditions",
+    "chronic-conditions",
+    "inflammation"
+  ],
+  "columns": [
+    {
+      "id": "c_condition",
+      "title": {
+        "en": "Conditions",
+        "ru": "Состояния"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "hdr01",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Acute conditions**",
+            "ru": "**Острые состояния**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Infections (bacterial and viral)",
+            "ru": "Инфекции (бактериальные и вирусные)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Pericarditis, myocarditis",
+            "ru": "Перикардит, миокардит"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Emergency conditions (burn injury, severe trauma, shock)",
+            "ru": "Неотложные и критические состояния (ожоговая травма, тяжелая травма, шок)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Binge alcohol consumption",
+            "ru": "Острое злоупотребление алкоголем («синдром праздничного сердца» / binge drinking)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Drug use, including methamphetamines, cocaine, opiates, and cannabis",
+            "ru": "Употребление психоактивных и наркотических веществ (метамфетамин, кокаин, опиаты, каннабиноиды)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Acute interventions, procedures, and surgery",
+            "ru": "Острые инвазивные вмешательства, процедуры и хирургические операции"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Endocrine disorders (thyroid, adrenal, pituitary, others)",
+            "ru": "Острые эндокринные расстройства (заболевания щитовидной железы, надпочечников, гипофиза и др.)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hdr02",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Chronic conditions with inflammation and enhanced AF substrate**",
+            "ru": "**Хронические состояния с воспалением и формированием патологического субстрата ФП**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "Immune-mediated diseases (rheumatoid arthritis, systemic lupus erythematosus, inflammatory bowel disease, coeliac disease, psoriasis, others)",
+            "ru": "Иммуноопосредованные заболевания (ревматоидный артрит, системная красная волчанка, воспалительные заболевания кишечника, целиакия, псориаз и др.)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "Obesity",
+            "ru": "Ожирение"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        {
+          "text": {
+            "en": "Chronic obstructive airways disease",
+            "ru": "Хроническая обструктивная болезнь легких (ХОБЛ)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11",
+      "cells": [
+        {
+          "text": {
+            "en": "Obstructive sleep apnoea",
+            "ru": "Синдром обструктивного апноэ сна (СОАС)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "cells": [
+        {
+          "text": {
+            "en": "Cancer",
+            "ru": "Онкологические заболевания (злокачественные новообразования)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13",
+      "cells": [
+        {
+          "text": {
+            "en": "Fatty liver disease",
+            "ru": "Неалкогольная жировая болезнь печени (стеатоз печени)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14",
+      "cells": [
+        {
+          "text": {
+            "en": "Stress",
+            "ru": "Хронический психоэмоциональный стресс"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r15",
+      "cells": [
+        {
+          "text": {
+            "en": "Endocrine disorders",
+            "ru": "Хронические эндокринные нарушения"
+          }
+        }
+      ]
+    }
+  ]
+}

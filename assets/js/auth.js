@@ -321,21 +321,22 @@
     }
 
     function applyUserRestrictions() {
-        document.querySelectorAll('a[href*="editor.html"], a[href*="mdconvert.html"], a[href*="manifest-editor.html"]')
+        document.querySelectorAll('a[href*="editor.html"], a[href*="mdconvert.html"], a[href*="manifest-editor.html"], a[href*="guideline-editor.html"]')
             .forEach(link => link.style.display = 'none');
         document.querySelectorAll('.edit-btn, .admin-only, [data-role="admin"]')
             .forEach(btn => btn.style.display = 'none');
 
         if (window.location.pathname.includes('editor.html') ||
             window.location.pathname.includes('mdconvert.html') ||
-            window.location.pathname.includes('manifest-editor.html')) {
+            window.location.pathname.includes('manifest-editor.html') ||
+            window.location.pathname.includes('guideline-editor.html')) {
             alert('⚠️ Access denied. Administrator privileges required.');
             window.location.href = 'index.html';
         }
     }
 
     function applyAdminAccess() {
-        document.querySelectorAll('[data-role="admin"], .admin-only, a[href*="manifest-editor.html"], a[href*="editor.html"]')
+        document.querySelectorAll('[data-role="admin"], .admin-only, a[href*="manifest-editor.html"], a[href*="editor.html"], a[href*="guideline-editor.html"]')
             .forEach(el => { if (el.style.display === 'none') el.style.display = ''; });
     }
 

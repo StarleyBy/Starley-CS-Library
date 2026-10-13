@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="../assets/css/auth.css">
     <link rel="stylesheet" href="../assets/css/reader.css?v=2.7">
     <link rel="stylesheet" href="search.css?v=2.7">
+    <link rel="stylesheet" href="../assets/css/guideline-tables.css?v=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 <body class="spotlight-body-page">
@@ -24,8 +25,10 @@
             <a href="../highlights.html" class="spotlight-nav-btn">🔖 Highlights</a>
             <a href="search.html" class="active">🔍 Search</a>
             <a href="../quiz.html" class="spotlight-nav-btn">🧠 Quiz</a>
+            <a href="javascript:void(0)" onclick="if(window.GuidelineTables)window.GuidelineTables.open();else window.location.hash='#guidelines'" class="spotlight-nav-btn">📋 Guidelines</a>
             <a href="../editor.html" class="spotlight-nav-btn" data-role="admin">✏️ Editor</a>
             <a href="../manifest-editor.html" class="spotlight-nav-btn" data-role="admin">🛠️ Manifest</a>
+            <a href="../guideline-editor.html" class="spotlight-nav-btn" data-role="admin">🎛️ Tables Editor</a>
         </nav>
     </header>
 
@@ -150,6 +153,7 @@
     <script src="../assets/js/config.js?v=1.2"></script>
     <script src="../assets/js/supabase-api.js?v=1.0"></script>
     <script src="../assets/js/auth.js?v=4.5"></script>
+    <script src="../assets/js/guideline-tables.js?v=1.0"></script>
     <script src="search-ui.js?v=2.7"></script>
 </body>
 </html>

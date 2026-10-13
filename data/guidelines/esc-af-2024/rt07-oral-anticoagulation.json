@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt07-oral-anticoagulation",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 7",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for oral anticoagulation in AF",
+    "ru": "Рекомендации по оральной антикоагулянтной терапии при фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "anticoagulation",
+    "doac",
+    "vka",
+    "inr",
+    "ttr",
+    "dose-reduction"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for oral anticoagulation in AF",
+        "ru": "Рекомендации по оральной антикоагулянтной терапии при ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Direct oral anticoagulants are recommended in preference to VKAs to prevent ischaemic stroke and thromboembolism, except in patients with mechanical heart valves or moderate-to-severe mitral stenosis.",
+            "ru": "Прямые оральные антикоагулянты рекомендуются предпочтительнее АВК для профилактики ишемического инсульта и системных тромбоэмболий, за исключением пациентов с механическими протезами клапанов сердца или умеренным/тяжелым митральным стенозом."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "A target INR of 2.0–3.0 is recommended for patients with AF prescribed a VKA for stroke prevention to ensure safety and effectiveness.",
+            "ru": "Целевой уровень МНО 2,0–3,0 рекомендуется пациентам с ФП, получающим АВК для профилактики инсульта, для обеспечения безопасности и эффективности."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Switching to a DOAC is recommended for eligible patients that have failed to maintain an adequate time in therapeutic range on a VKA (TTR <70%) to prevent thromboembolism and intracranial haemorrhage.",
+            "ru": "Переключение на ПОАК рекомендуется подходящим пациентам, у которых не удается поддерживать адекватное время нахождения в терапевтическом диапазоне на фоне приема АВК (TTR <70%), для профилактики тромбоэмболий и внутричерепных кровоизлияний."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Keeping the time in therapeutic range above 70% should be considered in patients taking a VKA to ensure safety and effectiveness, with INR checks at appropriate frequency and patient-directed education and counselling.",
+            "ru": "Поддержание времени нахождения в терапевтическом диапазоне выше 70% следует рассматривать у пациентов, принимающих АВК, для обеспечения безопасности и эффективности, с контролем МНО с надлежащей частотой, обучением и консультированием пациента."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Maintaining VKA treatment rather than switching to a DOAC may be considered in patients aged ≥75 years on clinically stable therapeutic VKA with polypharmacy to prevent excess bleeding risk.",
+            "ru": "Сохранение терапии АВК вместо переключения на ПОАК может рассматриваться у пациентов в возрасте ≥75 лет со стабильным терапевтическим уровнем МНО на АВК и полипрагмазией для предотвращения избыточного риска кровотечений."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "A reduced dose of DOAC therapy is not recommended, unless patients meet DOAC-specific criteria,^[c] to prevent underdosing and avoidable thromboembolic events.",
+            "ru": "Применение сниженной дозы ПОАК не рекомендуется, если пациент не соответствует критериям снижения дозы конкретного ПОАК,^[c] во избежание недостаточного дозирования и предотвратимых тромбоэмболических осложнений."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "See Table 11 for recommended doses and criteria for dose reduction for direct oral anticoagulants.",
+      "ru": "Критерии снижения доз прямых оральных антикоагулянтов представлены в Таблице 11."
+    }
+  }
+}

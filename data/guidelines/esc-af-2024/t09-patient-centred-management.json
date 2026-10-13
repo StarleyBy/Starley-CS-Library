@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.t09-patient-centred-management",
+  "guidelineId": "esc-af-2024",
+  "number": "Table 9",
+  "type": "grid",
+  "title": {
+    "en": "Achieving patient-centred AF management",
+    "ru": "Реализация пациентоориентированного ведения фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "patient-centred",
+    "af-care",
+    "shared-decision-making",
+    "multidisciplinary"
+  ],
+  "columns": [
+    {
+      "id": "c_item",
+      "title": {
+        "en": "Component / Strategy",
+        "ru": "Компонент / Стратегия"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec_01",
+      "cells": [
+        {
+          "text": {
+            "en": "**Components of patient-centred AF management:**",
+            "ru": "**Компоненты пациентоориентированного ведения ФП:**"
+          },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Optimal treatment according to the AF-CARE pathway, which includes:\n• [C] Comorbidity and risk factor management\n• [A] Avoid stroke and thromboembolism\n• [R] Reduce symptoms by rate and rhythm control\n• [E] Evaluation and dynamic reassessment",
+            "ru": "Оптимальное лечение в соответствии с подходом AF-CARE, включающим:\n• [C] Ведение коморбидных состояний и факторов риска\n• [A] Профилактика инсульта и тромбоэмболий\n• [R] Уменьшение симптомов путем контроля частоты и ритма\n• [E] Регулярная динамическая оценка и пересмотр тактики"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Lifestyle recommendations",
+            "ru": "Рекомендации по коррекции образа жизни"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Psychosocial support",
+            "ru": "Психосоциальная поддержка"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Education and awareness for patients, family members, and caregivers",
+            "ru": "Обучение и повышение осведомленности пациентов, членов их семей и ухаживающих лиц"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Seamless co-ordination between primary care and specialized AF care",
+            "ru": "Непрерывная координация между первичным звеном здравоохранения и специализированной кардиологической службой"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_02",
+      "cells": [
+        {
+          "text": {
+            "en": "**How to implement patient-centred AF management:**",
+            "ru": "**Как реализовать пациентоориентированное ведение ФП:**"
+          },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Shared decision-making",
+            "ru": "Совместное принятие решений врачом и пациентом"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Multidisciplinary team approach",
+            "ru": "Мультидисциплинарный командный подход"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "Patient education and empowerment, with emphasis on self-care",
+            "ru": "Обучение и вовлечение пациента с акцентом на навыки самоконтроля"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "Structured educational programmes for healthcare professionals",
+            "ru": "Структурированные образовательные программы для медицинских специалистов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        {
+          "text": {
+            "en": "Technology support (e-Health, m-Health, telemedicine)^[a]",
+            "ru": "Технологическая поддержка (цифровое здравоохранение, мобильные медицинские приложения, телемедицина)^[a]"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "e-Health refers to healthcare services provided using electronic methods; m-Health refers to healthcare services supported by mobile devices; and telemedicine refers to remote diagnosis or treatment supported by telecommunications technology.",
+      "ru": "Электронное здравоохранение (e-Health) включает медицинские услуги с применением электронных технологий; мобильное здравоохранение (m-Health) — услуги с использованием мобильных устройств; телемедицина — дистанционную диагностику и лечение с помощью телекоммуникационных технологий."
+    }
+  }
+}

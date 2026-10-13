@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt10-percutaneous-laa-occlusion",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 10",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for percutaneous left atrial appendage occlusion",
+    "ru": "Рекомендации по чрескожной окклюзии ушка левого предсердия"
+  },
+  "tags": [
+    "af",
+    "laa",
+    "laa-occlusion",
+    "percutaneous",
+    "contraindications-oac"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for percutaneous left atrial appendage occlusion",
+        "ru": "Рекомендации по чрескожной окклюзии ушка левого предсердия"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Percutaneous LAA occlusion may be considered in patients with AF and contraindications for long-term anticoagulant treatment to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Чрескожная окклюзия УЛП может рассматриваться у пациентов с ФП и противопоказаниями к длительной антикоагулянтной терапии для профилактики ишемического инсульта и системных тромбоэмболий."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

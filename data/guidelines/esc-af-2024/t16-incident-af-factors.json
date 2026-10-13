@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.t16-incident-af-factors",
+  "guidelineId": "esc-af-2024",
+  "number": "Table 16",
+  "type": "grid",
+  "title": {
+    "en": "Factors associated with incident AF",
+    "ru": "Факторы, ассоциированные с развитием (манифестацией) фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "risk-factors",
+    "incident-af",
+    "lifestyle",
+    "comorbidities",
+    "genetics",
+    "biomarkers"
+  ],
+  "columns": [
+    {
+      "id": "c_category",
+      "title": {
+        "en": "Category",
+        "ru": "Категория факторов"
+      }
+    },
+    {
+      "id": "c_factors",
+      "title": {
+        "en": "Factors",
+        "ru": "Факторы риска"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "**Demographic factors**",
+            "ru": "**Демографические факторы**"
+          }
+        },
+        {
+          "text": {
+            "en": "• Age\n• Male sex\n• European ancestry\n• Lower socioeconomic status",
+            "ru": "• Возраст\n• Мужской пол\n• Европейское происхождение\n• Низкий социально-экономический статус"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "**Lifestyle behaviours**",
+            "ru": "**Особенности образа жизни**"
+          }
+        },
+        {
+          "text": {
+            "en": "• Smoking/tobacco use\n• Alcohol intake\n• Physical inactivity\n• Vigorous exercise\n• Competitive or athlete-level endurance sports\n• Caffeine",
+            "ru": "• Курение / употребление табака\n• Употребление алкоголя\n• Гиподинамия (низкая физическая активность)\n• Интенсивные физические нагрузки\n• Профессиональный спорт / спорт высших достижений на выносливость\n• Кофеин"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "**Comorbidities and risk factors**",
+            "ru": "**Сопутствующие заболевания и факторы риска**"
+          }
+        },
+        {
+          "text": {
+            "en": "• Hypertension\n• Heart failure\n• Valvular disease\n• Coronary artery disease\n• Peripheral arterial disease\n• Congenital heart disease\n• Heart rate, heart rate variability\n• Total cholesterol\n• Low-density lipoprotein cholesterol\n• High-density lipoprotein cholesterol\n• Triglycerides\n• Impaired glucose tolerance, diabetes mellitus\n• Renal dysfunction/CKD\n• Obesity\n• Body mass index, weight\n• Height\n• Sleep apnoea\n• Chronic obstructive pulmonary disease",
+            "ru": "• Артериальная гипертензия\n• Сердечная недостаточность\n• Пороки клапанов сердца\n• Ишемическая болезнь сердца (ИБС)\n• Заболевания периферических артерий\n• Врожденные пороки сердца\n• ЧСС, вариабельность сердечного ритма\n• Общий холестерин\n• Холестерин ЛПНП\n• Холестерин ЛПВП\n• Триглицериды\n• Нарушение толерантности к глюкозе, сахарный диабет\n• Нарушение функции почек / ХБП\n• Ожирение\n• Индекс массы тела, масса тела\n• Рост\n• Апноэ во сне\n• Хроническая обструктивная болезнь легких (ХОБЛ)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "**Subclinical atherosclerosis**",
+            "ru": "**Субклинический атеросклероз**"
+          }
+        },
+        {
+          "text": {
+            "en": "• Coronary artery calcification\n• Carotid IMT and carotid plaque",
+            "ru": "• Кальциноз коронарных артерий\n• Толщина комплекса интима-медиа (ТИМ) и бляшки в сонных артериях"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "**ECG abnormalities**",
+            "ru": "**Изменения на ЭКГ**"
+          }
+        },
+        {
+          "text": {
+            "en": "• PR interval prolongation\n• Sick sinus syndrome\n• Wolff–Parkinson–White",
+            "ru": "• Удлинение интервала PR\n• Синдром слабости синусового узла (СССУ)\n• Синдром Вольфа–Паркинсона–Уайта (WPW)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "**Genetic factors**",
+            "ru": "**Генетические факторы**"
+          }
+        },
+        {
+          "text": {
+            "en": "• Family history of AF\n• AF-susceptible loci identified by GWAS\n• Short QT syndrome\n• Genetic cardiomyopathies",
+            "ru": "• Семейный анамнез ФП\n• Локусы предрасположенности к ФП по данным GWAS\n• Синдром укороченного интервала QT\n• Генетические кардиомиопатии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "**Biomarkers**",
+            "ru": "**Биомаркеры**"
+          }
+        },
+        {
+          "text": {
+            "en": "• C-reactive protein\n• Fibrinogen\n• Growth differentiation factor-15\n• Natriuretic peptides (atrial and B-type)\n• Cardiac troponins\n• Inflammatory biomarkers",
+            "ru": "• С-реактивный белок (СРБ)\n• Фибриноген\n• Фактор дифференцировки роста-15 (GDF-15)\n• Натрийуретические пептиды (ANP и BNP/NT-proBNP)\n• Сердечные тропонины\n• Воспалительные биомаркеры"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "**Others**",
+            "ru": "**Прочие факторы**"
+          }
+        },
+        {
+          "text": {
+            "en": "• Thyroid dysfunction\n• Autoimmune diseases\n• Air pollution\n• Sepsis\n• Psychological factors",
+            "ru": "• Дисфункция щитовидной железы\n• Аутоиммунные заболевания\n• Загрязнение воздуха\n• Сепсис\n• Психоэмоциональные факторы"
+          }
+        }
+      ]
+    }
+  ]
+}

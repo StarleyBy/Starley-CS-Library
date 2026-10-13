@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt22-chest-pain-without-lvoto",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 22",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for chest pain on exertion in patients without left ventricular outflow tract obstruction",
+    "ru": "Рекомендации при болях в грудной клетке при физической нагрузке у пациентов без обструкции выходного тракта левого желудочка"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "hcm",
+    "chest-pain",
+    "angina",
+    "beta-blockers",
+    "calcium-antagonists",
+    "nitrates",
+    "ranolazine"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for chest pain on exertion in patients without left ventricular outflow tract obstruction",
+        "ru": "Рекомендации при болях в грудной клетке при нагрузке у пациентов без обструкции ВТЛЖ"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Beta-blockers and calcium antagonists (verapamil or diltiazem) should be considered to improve symptoms in patients with angina-like chest pain even in the absence of LVOTO or obstructive CAD.",
+            "ru": "Бета-блокаторы и антагонисты кальция (верапамил или дилтиазем) следует рассмотреть для облегчения симптомов у пациентов со стенокардитическими болями в грудной клетке даже в отсутствие обструкции ВТЛЖ или обструктивной ИБС."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Oral nitrates may be considered to improve symptoms in patients with angina-like chest pain, even in the absence of obstructive CAD, if there is no LVOTO.",
+            "ru": "Пероральные нитраты могут быть рассмотрены для облегчения симптомов у пациентов со стенокардитическими болями в грудной клетке даже при отсутствии обструктивной ИБС, при условии строгого отсутствия обструкции ВТЛЖ."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Ranolazine may be considered to improve symptoms in patients with angina-like chest pain even in the absence of LVOTO or obstructive CAD.",
+            "ru": "Ранолазин может быть рассмотрен для облегчения симптомов у пациентов со стенокардитическими болями в груди даже в отсутствие обструкции ВТЛЖ или обструктивной ИБС."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

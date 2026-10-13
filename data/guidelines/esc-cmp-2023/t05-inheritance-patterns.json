@@ -1,0 +1,396 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t05-inheritance-patterns",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Examples of inheritance patterns that should raise the suspicion of specific genetic aetiologies, grouped according to cardiomyopathy phenotype",
+    "ru": "Примеры типов наследования, вызывающих подозрение на специфическую генетическую этиологию, сгруппированные по фенотипам кардиомиопатий"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "genetics",
+    "inheritance",
+    "autosomal-dominant",
+    "autosomal-recessive",
+    "x-linked",
+    "mitochondrial"
+  ],
+  "columns": [
+    {
+      "id": "c_phenotype",
+      "title": {
+        "en": "Cardiomyopathy phenotype",
+        "ru": "Фенотип КМП"
+      }
+    },
+    {
+      "id": "c_aetiology",
+      "title": {
+        "en": "Aetiology / Gene",
+        "ru": "Этиология / Ген"
+      }
+    },
+    {
+      "id": "c_ad",
+      "title": {
+        "en": "AD",
+        "ru": "АД"
+      }
+    },
+    {
+      "id": "c_ar",
+      "title": {
+        "en": "AR",
+        "ru": "АР"
+      }
+    },
+    {
+      "id": "c_xlinked",
+      "title": {
+        "en": "X-linked",
+        "ru": "X-сцепл."
+      }
+    },
+    {
+      "id": "c_matrilineal",
+      "title": {
+        "en": "Matrilineal",
+        "ru": "Митохондр."
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        { "text": { "en": "**HCM**", "ru": "**ГКМП**" } },
+        { "text": { "en": "Sarcomeric", "ru": "Саркомерные гены" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        { "text": { "en": "HCM", "ru": "ГКМП" } },
+        { "text": { "en": "Anderson–Fabry", "ru": "Болезнь Андерсона–Фабри" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        { "text": { "en": "HCM", "ru": "ГКМП" } },
+        { "text": { "en": "Danon", "ru": "Болезнь Данона" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        { "text": { "en": "HCM", "ru": "ГКМП" } },
+        { "text": { "en": "TTR amyloidosis", "ru": "ATTR-амилоидоз" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        { "text": { "en": "HCM", "ru": "ГКМП" } },
+        { "text": { "en": "RASopathy", "ru": "РАСопатии" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "(✕)", "ru": "(✕)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        { "text": { "en": "HCM", "ru": "ГКМП" } },
+        { "text": { "en": "Friedreich ataxia", "ru": "Атаксия Фридрейха" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        { "text": { "en": "HCM", "ru": "ГКМП" } },
+        { "text": { "en": "Mitochondrial: Mitochondrial DNA", "ru": "Митохондриальные: мтДНК" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "✕", "ru": "✕" } }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        { "text": { "en": "HCM", "ru": "ГКМП" } },
+        { "text": { "en": "Mitochondrial: Nuclear DNA", "ru": "Митохондриальные: ядерная ДНК" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        { "text": { "en": "**DCM**", "ru": "**ДКМП**" } },
+        { "text": { "en": "LMNA", "ru": "LMNA (ламин A/C)" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        { "text": { "en": "DCM", "ru": "ДКМП" } },
+        { "text": { "en": "RBM20", "ru": "RBM20" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r11",
+      "cells": [
+        { "text": { "en": "DCM", "ru": "ДКМП" } },
+        { "text": { "en": "Sarcomeric", "ru": "Саркомерные гены (TTN и др.)" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r12",
+      "cells": [
+        { "text": { "en": "DCM", "ru": "ДКМП" } },
+        { "text": { "en": "Dystrophin", "ru": "Дистрофин" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r13",
+      "cells": [
+        { "text": { "en": "DCM", "ru": "ДКМП" } },
+        { "text": { "en": "Emerin", "ru": "Эмерин" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r14",
+      "cells": [
+        { "text": { "en": "DCM", "ru": "ДКМП" } },
+        { "text": { "en": "Barth syndrome", "ru": "Синдром Барта" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r15",
+      "cells": [
+        { "text": { "en": "DCM", "ru": "ДКМП" } },
+        { "text": { "en": "Mitochondrial: Mitochondrial DNA", "ru": "Митохондриальные: мтДНК" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "✕", "ru": "✕" } }
+      ]
+    },
+    {
+      "id": "r16",
+      "cells": [
+        { "text": { "en": "DCM", "ru": "ДКМП" } },
+        { "text": { "en": "Mitochondrial: Nuclear DNA", "ru": "Митохондриальные: ядерная ДНК" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r17",
+      "cells": [
+        { "text": { "en": "**NDLVC**", "ru": "**НДЛЖКМП**" } },
+        { "text": { "en": "LMNA", "ru": "LMNA" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r18",
+      "cells": [
+        { "text": { "en": "NDLVC", "ru": "НДЛЖКМП" } },
+        { "text": { "en": "DES", "ru": "DES (десмин)" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r19",
+      "cells": [
+        { "text": { "en": "NDLVC", "ru": "НДЛЖКМП" } },
+        { "text": { "en": "FLNC", "ru": "FLNC (филамин C)" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r20",
+      "cells": [
+        { "text": { "en": "NDLVC", "ru": "НДЛЖКМП" } },
+        { "text": { "en": "PLN", "ru": "PLN (фосфоламбан)" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r21",
+      "cells": [
+        { "text": { "en": "NDLVC", "ru": "НДЛЖКМП" } },
+        { "text": { "en": "TMEM43", "ru": "TMEM43" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r22",
+      "cells": [
+        { "text": { "en": "NDLVC", "ru": "НДЛЖКМП" } },
+        { "text": { "en": "RBM20", "ru": "RBM20" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r23",
+      "cells": [
+        { "text": { "en": "**ARVC**", "ru": "**АКПЖ**" } },
+        { "text": { "en": "PLN", "ru": "PLN" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r24",
+      "cells": [
+        { "text": { "en": "ARVC", "ru": "АКПЖ" } },
+        { "text": { "en": "Desmosomal", "ru": "Десмосомальные гены (PKP2, DSP и др.)" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r25",
+      "cells": [
+        { "text": { "en": "ARVC", "ru": "АКПЖ" } },
+        { "text": { "en": "TMEM43", "ru": "TMEM43" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r26",
+      "cells": [
+        { "text": { "en": "**RCM**", "ru": "**РКМП**" } },
+        { "text": { "en": "Sarcomeric", "ru": "Саркомерные гены" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r27",
+      "cells": [
+        { "text": { "en": "RCM", "ru": "РКМП" } },
+        { "text": { "en": "DES", "ru": "DES" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r28",
+      "cells": [
+        { "text": { "en": "RCM", "ru": "РКМП" } },
+        { "text": { "en": "FLNC", "ru": "FLNC" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r29",
+      "cells": [
+        { "text": { "en": "RCM", "ru": "РКМП" } },
+        { "text": { "en": "BAG3", "ru": "BAG3" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r30",
+      "cells": [
+        { "text": { "en": "RCM", "ru": "РКМП" } },
+        { "text": { "en": "RASopathy", "ru": "РАСопатии" } },
+        { "text": { "en": "✕", "ru": "✕" } },
+        { "text": { "en": "(✕)", "ru": "(✕)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    }
+  ]
+}

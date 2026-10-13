@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.t11-recurrence-rates",
+  "guidelineId": "esc-achd-2020",
+  "number": "11",
+  "type": "grid",
+  "title": {
+    "en": "Table 11: Recurrence rates for various congenital heart lesions according to the sex of the affected parent",
+    "ru": "Таблица 11: Частота рецидивирования (наследования) врожденных пороков сердца у потомства в зависимости от пола пораженного родителя"
+  },
+  "tags": [
+    "achd",
+    "genetics",
+    "inheritance",
+    "recurrence-rate",
+    "offspring",
+    "pregnancy",
+    "counselling"
+  ],
+  "columns": [
+    { "id": "lesion", "title": { "en": "Congenital heart lesion", "ru": "Врожденный порок сердца" } },
+    { "id": "women", "title": { "en": "Affected mother (Women, %)", "ru": "Пораженная мать (Женщины, %)" } },
+    { "id": "men", "title": { "en": "Affected father (Men, %)", "ru": "Пораженный отец (Мужчины, %)" } }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        { "text": { "en": "ASD (Atrial septal defect)", "ru": "ДМПП (Дефект межпредсердной перегородки)" } },
+        { "text": { "en": "4–6%", "ru": "4–6%" } },
+        { "text": { "en": "1.5–3.5%", "ru": "1.5–3.5%" } }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        { "text": { "en": "VSD (Ventricular septal defect)", "ru": "ДМЖП (Дефект межжелудочковой перегородки)" } },
+        { "text": { "en": "6–10%", "ru": "6–10%" } },
+        { "text": { "en": "2–3.5%", "ru": "2–3.5%" } }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        { "text": { "en": "AVSD (Atrioventricular septal defect)", "ru": "АВК (Атриовентрикулярный канал)" } },
+        { "text": { "en": "11.5–14%", "ru": "11.5–14%" } },
+        { "text": { "en": "1–4.5%", "ru": "1–4.5%" } }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        { "text": { "en": "PDA (Patent ductus arteriosus)", "ru": "ОАП (Открытый артериальный проток)" } },
+        { "text": { "en": "3.5–4%", "ru": "3.5–4%" } },
+        { "text": { "en": "2–2.5%", "ru": "2–2.5%" } }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        { "text": { "en": "CoA (Coarctation of the aorta)", "ru": "КоА (Коарктация аорты)" } },
+        { "text": { "en": "4–6.5%", "ru": "4–6.5%" } },
+        { "text": { "en": "2–3.5%", "ru": "2–3.5%" } }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        { "text": { "en": "Marfan syndrome / HTAD", "ru": "Синдром Марфана / Наследственные аортопатии (HTAD)" } },
+        { "colspan": 2, "text": { "en": "50% (autosomal dominant)", "ru": "50% (аутосомно-доминантное наследование)" }, "tone": "orange" }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        { "text": { "en": "LVOTO (Left ventricular outflow tract obstruction)", "ru": "ОВТЛЖ (Обструкция выводного тракта ЛЖ)" } },
+        { "text": { "en": "8–18%", "ru": "8–18%" } },
+        { "text": { "en": "3–4%", "ru": "3–4%" } }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        { "text": { "en": "RVOTO (Pulmonary stenosis)", "ru": "ОВТПЖ (Стеноз клапана легочной артерии)" } },
+        { "text": { "en": "4–6.5%", "ru": "4–6.5%" } },
+        { "text": { "en": "2–3.5%", "ru": "2–3.5%" } }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        { "text": { "en": "Eisenmenger syndrome", "ru": "Синдром Эйзенменгера" } },
+        { "text": { "en": "6%", "ru": "6%" } },
+        { "text": { "en": "NR (not reported)", "ru": "Не сообщалось" } }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        { "text": { "en": "TOF (Tetralogy of Fallot)", "ru": "Тетрада Фалло" } },
+        { "text": { "en": "2–2.5%", "ru": "2–2.5%" } },
+        { "text": { "en": "1.5%", "ru": "1.5%" } }
+      ]
+    },
+    {
+      "id": "r11",
+      "cells": [
+        { "text": { "en": "Pulmonary atresia / VSD", "ru": "Атрезия легочной артерии с ДМЖП" } },
+        { "text": { "en": "NR", "ru": "Не сообщалось" } },
+        { "text": { "en": "NR", "ru": "Не сообщалось" } }
+      ]
+    },
+    {
+      "id": "r12",
+      "cells": [
+        { "text": { "en": "TGA (Transposition of the great arteries)", "ru": "ТМА (Транспозиция магистральных артерий)" } },
+        { "colspan": 2, "text": { "en": "2%", "ru": "2%" } }
+      ]
+    },
+    {
+      "id": "r13",
+      "cells": [
+        { "text": { "en": "ccTGA (Congenitally corrected TGA)", "ru": "ccTGA (Скорректированная ТМА)" } },
+        { "colspan": 2, "text": { "en": "3–5%", "ru": "3–5%" } }
+      ]
+    },
+    {
+      "id": "r14",
+      "cells": [
+        { "text": { "en": "UVH / HLHS (Hypoplastic left heart syndrome)", "ru": "Единственный желудочек / СГЛОС (HLHS)" } },
+        { "colspan": 2, "text": { "en": "21%", "ru": "21%" }, "tone": "orange" }
+      ]
+    }
+  ]
+}

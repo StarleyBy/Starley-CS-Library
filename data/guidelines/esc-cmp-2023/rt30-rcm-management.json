@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt30-rcm-management",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 30",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for the management of patients with restrictive cardiomyopathy",
+    "ru": "Рекомендации по ведению пациентов с рестриктивной кардиомиопатией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "rcm",
+    "multimodality-imaging",
+    "catheterization",
+    "icd",
+    "emb",
+    "pediatric",
+    "desmin"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for the management of patients with restrictive cardiomyopathy",
+        "ru": "Рекомендации по ведению пациентов с рестриктивной кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that multimodality imaging be used to differentiate RCM from HCM or DCM with restrictive physiology.",
+            "ru": "Рекомендуется использовать методы мультимодальной визуализации для дифференциальной диагностики РКМП от ГКМП или ДКМП с рестриктивным типом наполнения (рестриктивной физиологией)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "It is recommended that baseline cardiac and non-cardiac investigations are performed to assess involvement of the neuromuscular system or other syndromic disorders.",
+            "ru": "Рекомендуется проводить исходное кардиологическое и некардиологическое обследование для оценки вовлечения нервно-мышечной системы или других синдромальных нарушений."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Cardiac catheterization is recommended in all children with RCM to measure pulmonary artery pressures and PVR at diagnosis and at 6–12 monthly intervals to assess change in PVR.",
+            "ru": "Катетеризация сердца рекомендуется всем детям с РКМП для измерения давления в легочной артерии и легочного сосудистого сопротивления (PVR) при установлении диагноза и каждые 6–12 месяцев для оценки динамики PVR (в рамках подготовки к трансплантации)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "ICD implantation is recommended to reduce the risk of sudden death and all-cause mortality in patients with RCM who have survived a cardiac arrest or have recovered from a ventricular arrhythmia causing haemodynamic instability.",
+            "ru": "Имплантация ИКД рекомендуется для снижения риска внезапной смерти и общей смертности пациентам с РКМП, пережившим остановку сердца или желудочковую аритмию с гемодинамической нестабильностью."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Endomyocardial biopsy should be considered in patients with RCM to exclude specific diagnoses (including iron overload, storage disorders, mitochondrial cytopathies, amyloidosis, and granulomatous myocardial diseases) and to diagnose restrictive myofibrillar disease caused by desmin variants.",
+            "ru": "Эндомиокардиальную биопсию следует рассмотреть у пациентов с РКМП для исключения специфических нозологий (гемохроматоз, болезни накопления, митохондриальные цитопатии, амилоидоз, гранулематозные заболевания миокарда) и диагностики рестриктивной миофибриллярной болезни при мутациях десмина."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "ICD implantation may be considered in children with RCM who have evidence of myocardial ischaemia and syncope.",
+            "ru": "Имплантация ИКД может быть рассмотрена у детей с РКМП при наличии признаков ишемии миокарда и синкопальных состояний."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

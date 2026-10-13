@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt08-antiplatelet-combination",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 8",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for combining antiplatelet drugs with anticoagulants for stroke prevention",
+    "ru": "Рекомендации по комбинации антиагрегантов с антикоагулянтами для профилактики инсульта"
+  },
+  "tags": [
+    "af",
+    "stroke-prevention",
+    "antiplatelet",
+    "anticoagulation",
+    "combination-therapy"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for combining antiplatelet drugs with anticoagulants for stroke prevention",
+        "ru": "Рекомендации по комбинации антиагрегантов с антикоагулянтами для профилактики инсульта"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Adding antiplatelet treatment to oral anticoagulation is not recommended in AF patients for the goal of preventing ischaemic stroke or thromboembolism.",
+            "ru": "Добавление антиагрегантной терапии к оральным антикоагулянтам не рекомендуется у пациентов с ФП с целью профилактики ишемического инсульта или тромбоэмболии."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

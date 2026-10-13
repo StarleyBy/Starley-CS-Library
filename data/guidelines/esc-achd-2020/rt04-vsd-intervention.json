@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt04-vsd-intervention",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec VSD",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention in ventricular septal defect (native and residual)",
+    "ru": "Рекомендации по вмешательствам при дефекте межжелудочковой перегородки (нативном и резидуальном)"
+  },
+  "tags": [
+    "achd",
+    "vsd",
+    "shunt-closure",
+    "aortic-regurgitation",
+    "endocarditis",
+    "pvr",
+    "eisenmenger"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with evidence of LV volume overload^[c] and no PAH (no non-invasive signs of PAP elevation or invasive confirmation of PVR <3 WU in case of such signs), VSD closure is recommended regardless of symptoms.",
+            "ru": "У пациентов с признаками объемной перегрузки ЛЖ^[c] при отсутствии ЛАГ (нет неинвазивных признаков повышения давления в ЛА либо инвазивно подтверждено PVR <3 WU) закрытие ДМЖП рекомендуется независимо от симптомов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with no significant L–R shunt, but a history of repeated episodes of IE, VSD closure should be considered.",
+            "ru": "При отсутствии значимого сброса слева направо, но при повторных эпизодах инфекционного эндокардита в анамнезе следует рассматривать закрытие ДМЖП."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients with VSD-associated prolapse of an aortic valve cusp causing progressive AR, surgery should be considered.",
+            "ru": "При пролапсе створки аортального клапана, ассоциированном с ДМЖП и вызывающем прогрессирующую аортальную регургитацию, следует рассматривать хирургическое вмешательство."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients who have developed PAH with PVR 3–5 WU, VSD closure should be considered when there is still significant L–R shunt (Qp:Qs >1.5).",
+            "ru": "При развитии ЛАГ с PVR 3–5 WU следует рассматривать закрытие ДМЖП, если сохраняется значимый сброс слева направо (Qp:Qs >1.5)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients who have developed PAH with PVR ≥5 WU, VSD closure may be considered when there is still significant L–R shunt (Qp:Qs >1.5), but careful individual decision in expert centres is required.",
+            "ru": "При развитии ЛАГ с PVR ≥5 WU закрытие ДМЖП может быть рассмотрено при сохраняющемся значимом сбросе (Qp:Qs >1.5), однако требуется тщательное индивидуальное решение экспертного центра."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "VSD closure is not recommended in patients with Eisenmenger physiology and patients with severe PAH (PVR ≥5 WU) presenting with desaturation on exercise.^[d]",
+            "ru": "Закрытие ДМЖП не рекомендуется у пациентов с синдромом Эйзенменгера и тяжелой ЛАГ (PVR ≥5 WU), сопровождающейся десатурацией при физической нагрузке.^[d]"
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "LV enlargement with increased stroke volume.",
+      "ru": "Дилатация левого желудочка с увеличенным ударным объемом."
+    },
+    "d": {
+      "en": "There are limited data available for a precise cut-off, but by clinical experience, this would be given by a fall of arterial oxygen saturation <90%.",
+      "ru": "По клиническому опыту определяется падением сатурации артериальной крови <90% при нагрузке."
+    }
+  },
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

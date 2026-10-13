@@ -1,0 +1,977 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.t17-what-to-do",
+  "guidelineId": "esc-af-2024",
+  "number": "Table 17",
+  "type": "recommendations",
+  "title": {
+    "en": "Table 17: 'What to do' and 'what not to do'",
+    "ru": "Таблица 17: Ключевые положения «Что делать» и «Чего не делать»"
+  },
+  "tags": [
+    "what-to-do",
+    "what-not-to-do",
+    "summary",
+    "class-i",
+    "class-iii",
+    "af-care",
+    "anticoagulation",
+    "ablation"
+  ],
+  "sections": [
+    {
+      "id": "sec01-diagnosis",
+      "title": {
+        "en": "Recommendations for the diagnosis of AF",
+        "ru": "Рекомендации по диагностике ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Confirmation by an electrocardiogram (12-lead, multiple, or single leads) is recommended to establish the diagnosis of clinical AF and commence risk stratification and treatment.",
+            "ru": "Подтверждение с помощью электрокардиограммы (в 12 отведениях, многоканальной или одноканальной) рекомендуется для установления диагноза клинической ФП и начала стратификации риска и лечения."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec02-symptom-evaluation",
+      "title": {
+        "en": "Recommendations for symptom evaluation in patients with AF",
+        "ru": "Рекомендации по оценке симптомов у пациентов с ФП"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "Evaluating the impact of AF-related symptoms is recommended before and after major changes in treatment to inform shared decision-making and guide treatment choices.",
+            "ru": "Оценка влияния симптомов, связанных с ФП, рекомендуется до и после существенных изменений в терапии для совместного принятия решений и выбора метода лечения."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec03-diagnostic-evaluation",
+      "title": {
+        "en": "Recommendations for diagnostic evaluation in patients with new AF",
+        "ru": "Рекомендации по диагностическому обследованию пациентов с впервые выявленной ФП"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "A transthoracic echocardiogram is recommended in patients with an AF diagnosis where this will guide treatment decisions.",
+            "ru": "Трансторакальная эхокардиография рекомендуется пациентам с диагнозом ФП в случаях, когда ее результаты определяют тактику лечения."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec04-patient-care",
+      "title": {
+        "en": "Recommendations for patient-centred care and education",
+        "ru": "Рекомендации по пациент-ориентированной помощи и обучению"
+      },
+      "rows": [
+        {
+          "id": "r04",
+          "text": {
+            "en": "Education directed to patients, family members, caregivers, and healthcare professionals is recommended to optimize shared decision-making, facilitating open discussion of both the benefit and risk associated with each treatment option.",
+            "ru": "Обучение пациентов, членов их семей, ухаживающих лиц и медицинских работников рекомендуется для оптимизации совместного принятия решений с открытым обсуждением пользы и риска каждого варианта терапии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Access to patient-centred management according to the AF-CARE principles is recommended in all patients with AF, regardless of gender, ethnicity, and socioeconomic status, to ensure equality in healthcare provision and improve outcomes.",
+            "ru": "Доступ к пациент-ориентированному ведению в соответствии с принципами AF-CARE рекомендуется всем пациентам с ФП, независимо от пола, этнической принадлежности и социально-экономического статуса, для обеспечения равенства в оказании помощи и улучшения исходов."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec05-comorbidity",
+      "title": {
+        "en": "Recommendations for comorbidity and risk factor management in AF",
+        "ru": "Рекомендации по коррекции сопутствующих заболеваний и факторов риска при ФП"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "Identification and management of risk factors and comorbidities is recommended as an integral part of AF care.",
+            "ru": "Выявление и коррекция факторов риска и сопутствующих заболеваний рекомендуются в качестве неотъемлемой части ведения пациентов с ФП."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Blood pressure lowering treatment is recommended in patients with AF and hypertension to reduce recurrence and progression of AF and prevent adverse cardiovascular events.",
+            "ru": "Антигипертензивная терапия рекомендуется пациентам с ФП и артериальной гипертензией для снижения частоты рецидивов и прогрессирования ФП, а также предотвращения неблагоприятных сердечно-сосудистых событий."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Diuretics are recommended in patients with AF, HF, and congestion to alleviate symptoms and facilitate better AF management.",
+            "ru": "Диуретики рекомендуются пациентам с ФП, СН и признаками застоя для облегчения симптомов и улучшения контроля ФП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Appropriate medical therapy for HF is recommended in AF patients with HF and impaired LVEF to reduce symptoms and/or HF hospitalization and prevent AF recurrence.",
+            "ru": "Оптимальная медикаментозная терапия СН рекомендуется пациентам с ФП, СН и сниженной ФВЛЖ для облегчения симптомов, предотвращения госпитализаций по поводу СН и профилактики рецидивов ФП."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Sodium-glucose cotransporter-2 inhibitors are recommended for patients with HF and AF regardless of left ventricular ejection fraction to reduce the risk of HF hospitalization and cardiovascular death.",
+            "ru": "Ингибиторы SGLT2 рекомендуются пациентам с СН и ФП независимо от фракции выброса левого желудочка для снижения риска госпитализаций по поводу СН и сердечно-сосудистой смерти."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "Effective glycaemic control is recommended as part of comprehensive risk factor management in individuals with diabetes mellitus and AF, to reduce burden, recurrence, and progression of AF.",
+            "ru": "Эффективный гликемический контроль рекомендуется как часть комплексного управления факторами риска у лиц с сахарным диабетом и ФП для снижения бремени, частоты рецидивов и прогрессирования ФП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "Weight loss is recommended as part of comprehensive risk factor management in overweight and obese individuals with AF to reduce symptoms and AF burden, with a target of 10% or more reduction in body weight.",
+            "ru": "Снижение массы тела рекомендуется в рамках комплексного контроля факторов риска пациентам с избыточным весом и ожирением при наличии ФП для уменьшения симптомов и бремени аритмии (целевое снижение веса ≥10%)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "A tailored exercise programme is recommended in individuals with paroxysmal or persistent AF to improve cardiorespiratory fitness and reduce AF recurrence.",
+            "ru": "Индивидуально подобранная программа физических тренировок рекомендуется пациентам с пароксизмальной или персистирующей ФП для повышения кардиореспираторной выносливости и уменьшения рецидивов ФП."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "Reducing alcohol consumption to ≤3 standard drinks (≤30 grams of alcohol) per week is recommended as part of comprehensive risk factor management to reduce AF recurrence.",
+            "ru": "Снижение потребления алкоголя до ≤3 стандартных доз (≤30 г спирта) в неделю рекомендуется в рамках комплексного управления факторами риска для снижения рецидивов ФП."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "When screening for obstructive sleep apnoea in individuals with AF, using only symptom-based questionnaires is not recommended.",
+            "ru": "При скрининге на синдром обструктивного апноэ сна у пациентов с ФП использование только опросников симптомов не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec06-thromboembolic-risk",
+      "title": {
+        "en": "Recommendations to assess and manage thromboembolic risk in AF",
+        "ru": "Рекомендации по оценке и управлению тромбоэмболическим риском при ФП"
+      },
+      "rows": [
+        {
+          "id": "r16",
+          "text": {
+            "en": "Oral anticoagulation is recommended in patients with clinical AF at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Оральная антикоагулянтная терапия рекомендуется пациентам с клинической ФП и повышенным тромбоэмболическим риском для профилактики ишемического инсульта и системных тромбоэмболий."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r17",
+          "text": {
+            "en": "A CHA₂DS₂-VA score of 2 or more is recommended as an indicator of elevated thromboembolic risk for decisions on initiating oral anticoagulation.",
+            "ru": "Оценка по шкале CHA₂DS₂-VA ≥2 баллов рекомендуется как показатель повышенного тромбоэмболического риска для принятия решения о назначении оральных антикоагулянтов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r18",
+          "text": {
+            "en": "Oral anticoagulation is recommended in all patients with AF and hypertrophic cardiomyopathy or cardiac amyloidosis, regardless of CHA₂DS₂-VA score, to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Оральная антикоагулянтная терапия рекомендуется всем пациентам с ФП и гипертрофической кардиомиопатией или амилоидозом сердца, независимо от баллов по шкале CHA₂DS₂-VA, для профилактики ишемического инсульта и тромбоэмболии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r19",
+          "text": {
+            "en": "Individualized reassessment of thromboembolic risk is recommended at periodic intervals in patients with AF to ensure anticoagulation is started in appropriate patients.",
+            "ru": "Индивидуальная повторная оценка риска тромбоэмболии рекомендуется через регулярные интервалы времени у пациентов с ФП для своевременного начала антикоагулянтной терапии при появлении показаний."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r20",
+          "text": {
+            "en": "Antiplatelet therapy is not recommended as an alternative to anticoagulation in patients with AF to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Антиагрегантная терапия не рекомендуется в качестве альтернативы антикоагулянтам у пациентов с ФП для профилактики ишемического инсульта и тромбоэмболий."
+          },
+          "class": "III",
+          "level": "A"
+        },
+        {
+          "id": "r21",
+          "text": {
+            "en": "Using the temporal pattern of clinical AF (paroxysmal, persistent, or permanent) is not recommended to determine the need for oral anticoagulation.",
+            "ru": "Использование формы течения клинической ФП (пароксизмальная, персистирующая или постоянная) не рекомендуется для определения потребности в оральной антикоагулянтной терапии."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec07-oac",
+      "title": {
+        "en": "Recommendations for oral anticoagulation in AF",
+        "ru": "Рекомендации по оральной антикоагулянтной терапии при ФП"
+      },
+      "rows": [
+        {
+          "id": "r22",
+          "text": {
+            "en": "Direct oral anticoagulants are recommended in preference to VKAs to prevent ischaemic stroke and thromboembolism, except in patients with mechanical heart valves or moderate-to-severe mitral stenosis.",
+            "ru": "Прямые оральные антикоагулянты (ПОАК) рекомендуются предпочтительнее АВК для профилактики ишемического инсульта и тромбоэмболий, за исключением пациентов с механическими клапанами сердца или умеренным/тяжелым митральным стенозом."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r23",
+          "text": {
+            "en": "A target INR of 2.0–3.0 is recommended for patients with AF prescribed a VKA for stroke prevention to ensure safety and effectiveness.",
+            "ru": "Целевой уровень МНО 2,0–3,0 рекомендуется пациентам с ФП, принимающим АВК для профилактики инсульта, с целью обеспечения безопасности и эффективности."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r24",
+          "text": {
+            "en": "Switching to a DOAC is recommended for eligible patients that have failed to maintain an adequate time in therapeutic range on a VKA (TTR <70%) to prevent thromboembolism and intracranial haemorrhage.",
+            "ru": "Перевод на ПОАК рекомендуется подходящим пациентам, у которых не удается поддерживать адекватное время в терапевтическом диапазоне на фоне приема АВК (TTR <70%), для предотвращения тромбоэмболий и внутричерепных кровоизлияний."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r25",
+          "text": {
+            "en": "A reduced dose of DOAC therapy is not recommended, unless patients meet DOAC-specific criteria, to prevent underdosing and avoidable thromboembolic events.",
+            "ru": "Применение сниженной дозы ПОАК не рекомендуется, если пациент не соответствует специфическим критериям редукции дозы препарата, во избежание недостаточного дозирования и предотвратимых тромбоэмболических осложнений."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec08-antiplatelet-combination",
+      "title": {
+        "en": "Recommendations for combining antiplatelet drugs with anticoagulants for stroke prevention",
+        "ru": "Рекомендации по комбинации антиагрегантов с антикоагулянтами для профилактики инсульта"
+      },
+      "rows": [
+        {
+          "id": "r26",
+          "text": {
+            "en": "Adding antiplatelet treatment to oral anticoagulation is not recommended in AF patients for the goal of preventing ischaemic stroke or thromboembolism.",
+            "ru": "Добавление антиагрегантной терапии к оральным антикоагулянтам не рекомендуется у пациентов с ФП с целью профилактики ишемического инсульта или тромбоэмболии."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec09-failure-oac",
+      "title": {
+        "en": "Recommendations for thromboembolism despite anticoagulation",
+        "ru": "Рекомендации при тромбоэмболии на фоне антикоагулянтной терапии"
+      },
+      "rows": [
+        {
+          "id": "r27",
+          "text": {
+            "en": "Adding antiplatelet treatment to anticoagulation is not recommended in patients with AF to prevent recurrent embolic stroke.",
+            "ru": "Добавление антиагрегантов к антикоагулянтам не рекомендуется у пациентов с ФП для профилактики повторного эмболического инсульта."
+          },
+          "class": "III",
+          "level": "B"
+        },
+        {
+          "id": "r28",
+          "text": {
+            "en": "Switching from one DOAC to another, or from a DOAC to a VKA, without a clear indication is not recommended in patients with AF to prevent recurrent embolic stroke.",
+            "ru": "Переход с одного ПОАК на другой или с ПОАК на АВК без четких показаний не рекомендуется у пациентов с ФП для профилактики повторного эмболического инсульта."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec10-surgical-laa",
+      "title": {
+        "en": "Recommendations for surgical left atrial appendage occlusion",
+        "ru": "Рекомендации по хирургической окклюзии ушка левого предсердия"
+      },
+      "rows": [
+        {
+          "id": "r29",
+          "text": {
+            "en": "Surgical closure of the left atrial appendage is recommended as an adjunct to oral anticoagulation in patients with AF undergoing cardiac surgery to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Хирургическое закрытие ушка левого предсердия рекомендуется в качестве дополнения к оральной антикоагулянтной терапии у пациентов с ФП, подвергающихся кардиохирургическим вмешательствам, для профилактики ишемического инсульта и тромбоэмболий."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec11-bleeding-risk",
+      "title": {
+        "en": "Recommendations for assessment of bleeding risk",
+        "ru": "Рекомендации по оценке риска кровотечений"
+      },
+      "rows": [
+        {
+          "id": "r30",
+          "text": {
+            "en": "Assessment and management of modifiable bleeding risk factors is recommended in all patients eligible for oral anticoagulation, as part of shared decision-making to ensure safety and prevent bleeding.",
+            "ru": "Оценка и коррекция модифицируемых факторов риска кровотечений рекомендуются всем кандидатам на прием оральных антикоагулянтов в рамках совместного принятия решений для обеспечения безопасности и предотвращения кровотечений."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r31",
+          "text": {
+            "en": "Use of bleeding risk scores to decide on starting or withdrawing oral anticoagulation is not recommended in patients with AF to avoid under-use of anticoagulation.",
+            "ru": "Использование шкал риска кровотечений для принятия решения о назначении или отмене оральных антикоагулянтов не рекомендуется у пациентов с ФП во избежание необоснованного отказа от антикоагулянтной терапии."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec12-bleeding-management",
+      "title": {
+        "en": "Recommendations for management of bleeding in anticoagulated patients",
+        "ru": "Рекомендации по тактике при кровотечении у пациентов на антикоагулянтах"
+      },
+      "rows": [
+        {
+          "id": "r32",
+          "text": {
+            "en": "Interrupting anticoagulation and performing diagnostic or treatment interventions is recommended in AF patients with active bleeding until the cause of bleeding is identified and resolved.",
+            "ru": "Временная отмена антикоагулянтов и проведение диагностических или лечебных вмешательств рекомендуются у пациентов с ФП при активном кровотечении до выявления и устранения его причины."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec13-rate-control",
+      "title": {
+        "en": "Recommendations for heart rate control in patients with AF",
+        "ru": "Рекомендации по контролю частоты сердечных сокращений при ФП"
+      },
+      "rows": [
+        {
+          "id": "r33",
+          "text": {
+            "en": "Rate control therapy is recommended in patients with AF, as initial therapy in the acute setting, an adjunct to rhythm control therapies, or as a sole treatment strategy to control heart rate and reduce symptoms.",
+            "ru": "Терапия контроля частоты сердечных сокращений рекомендуется пациентам с ФП в качестве начальной терапии в острой ситуации, дополнения к контролю ритма или как самостоятельная стратегия для контроля ЧСС и облегчения симптомов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r34",
+          "text": {
+            "en": "Beta-blockers, diltiazem, verapamil, or digoxin are recommended as first-choice drugs in patients with AF and LVEF >40% to control heart rate and reduce symptoms.",
+            "ru": "Бета-блокаторы, дилтиазем, верапамил или дигоксин рекомендуются как препараты первого выбора у пациентов с ФП и ФВЛЖ >40% для контроля ЧСС и уменьшения симптомов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r35",
+          "text": {
+            "en": "Beta-blockers and/or digoxin are recommended in patients with AF and LVEF ≤40% to control heart rate and reduce symptoms.",
+            "ru": "Бета-блокаторы и/или дигоксин рекомендуются пациентам с ФП и ФВЛЖ ≤40% для контроля частоты сокращений желудочков и уменьшения симптомов."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec14-rhythm-control",
+      "title": {
+        "en": "Recommendations for general concepts in rhythm control",
+        "ru": "Рекомендации по общим принципам стратегии контроля ритма"
+      },
+      "rows": [
+        {
+          "id": "r36",
+          "text": {
+            "en": "Electrical cardioversion is recommended in AF patients with acute or worsening haemodynamic instability to improve immediate patient outcomes.",
+            "ru": "Электрическая кардиоверсия рекомендуется пациентам с ФП при острой или нарастающей гемодинамической нестабильности для улучшения непосредственных исходов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r37",
+          "text": {
+            "en": "Direct oral anticoagulants are recommended in preference to VKAs in eligible patients with AF undergoing cardioversion for thromboembolic risk reduction.",
+            "ru": "Прямые оральные антикоагулянты рекомендуются предпочтительнее АВК у подходящих пациентов с ФП, которым проводится кардиоверсия, для снижения тромбоэмболического риска."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r38",
+          "text": {
+            "en": "Therapeutic oral anticoagulation for at least 3 weeks (adherence to DOACs or INR ≥2.0 for VKAs) is recommended before scheduled cardioversion of AF and atrial flutter to prevent procedure-related thromboembolism.",
+            "ru": "Терапевтическая оральная антикоагуляция в течение как минимум 3 недель (приверженность к приему ПОАК или МНО ≥2,0 при приеме АВК) рекомендуется перед плановой кардиоверсией ФП и трепетания предсердий для профилактики процедурной тромбоэмболии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r39",
+          "text": {
+            "en": "Transoesophageal echocardiography is recommended if 3 weeks of therapeutic oral anticoagulation has not been provided, for exclusion of cardiac thrombus to enable early cardioversion.",
+            "ru": "Чреспищеводная эхокардиография рекомендуется при отсутствии 3 недель предшествующей адекватной оральной антикоагуляции для исключения внутрисердечного тромбоза с целью проведения ранней кардиоверсии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r40",
+          "text": {
+            "en": "Oral anticoagulation is recommended to continue for at least 4 weeks in all patients after cardioversion and long-term in patients with thromboembolic risk factor(s) irrespective of whether sinus rhythm is achieved, to prevent thromboembolism.",
+            "ru": "Продолжение приема оральных антикоагулянтов в течение не менее 4 недель рекомендуется всем пациентам после кардиоверсии, а длительно — пациентам с факторами риска тромбоэмболии, независимо от восстановления синусового ритма, для профилактики тромбоэмболий."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r41",
+          "text": {
+            "en": "Early cardioversion is not recommended without appropriate anticoagulation or transoesophageal echocardiography if AF duration is longer than 24 h, or there is scope to wait for spontaneous cardioversion.",
+            "ru": "Ранняя кардиоверсия без предшествующей адекватной антикоагуляции или чреспищеводной эхокардиографии не рекомендуется, если длительность ФП превышает 24 часа или если есть возможность дождаться спонтанного восстановления синусового ритма."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec15-pharmacological-cardioversion",
+      "title": {
+        "en": "Recommendations for pharmacological cardioversion of AF",
+        "ru": "Рекомендации по медикаментозной кардиоверсии ФП"
+      },
+      "rows": [
+        {
+          "id": "r42",
+          "text": {
+            "en": "Intravenous flecainide or propafenone is recommended when pharmacological cardioversion of recent-onset AF is desired, excluding patients with severe left ventricular hypertrophy, HFrEF, or coronary artery disease.",
+            "ru": "Внутривенное введение флекаинида или пропафенона рекомендуется для медикаментозной кардиоверсии недавней ФП, за исключением пациентов с выраженной гипертрофией ЛЖ, СНнФВ или ИБС."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r43",
+          "text": {
+            "en": "Intravenous vernakalant is recommended when pharmacological cardioversion of recent-onset AF is desired, excluding patients with recent ACS, HFrEF, or severe aortic stenosis.",
+            "ru": "Внутривенное введение вернакаланта рекомендуется для медикаментозной кардиоверсии недавней ФП, за исключением пациентов с недавним ОКС, СНнФВ или тяжелым аортальным стенозом."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r44",
+          "text": {
+            "en": "Intravenous amiodarone is recommended when cardioversion of AF in patients with severe left ventricular hypertrophy, HFrEF, or coronary artery disease is desired, accepting there may be a delay in cardioversion.",
+            "ru": "Внутривенное введение амиодарона рекомендуется для кардиоверсии ФП у пациентов с выраженной ГЛЖ, СНнФВ или ИБС с учетом возможности отсроченного восстановления синусового ритма."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r45",
+          "text": {
+            "en": "Pharmacological cardioversion is not recommended for patients with sinus node dysfunction, atrioventricular conduction disturbances, or prolonged QTc (>500 ms), unless risks for proarrhythmia and bradycardia have been considered.",
+            "ru": "Медикаментозная кардиоверсия не рекомендуется пациентам с дисфункцией синусового узла, нарушениями АВ-проводимости или удлиненным интервалом QTc (>500 мс), за исключением случаев, когда риски проаритмии и брадикардии были учтены и купированы."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec16-aad-maintenance",
+      "title": {
+        "en": "Recommendations for antiarrhythmic drugs for long-term maintenance of sinus rhythm",
+        "ru": "Рекомендации по антиаритмическим препаратам для долгосрочного удержания синусового ритма"
+      },
+      "rows": [
+        {
+          "id": "r46",
+          "text": {
+            "en": "Amiodarone is recommended in patients with AF and HFrEF requiring long-term antiarrhythmic drug therapy to prevent recurrence and progression of AF, with careful consideration and monitoring for extracardiac toxicity.",
+            "ru": "Амиодарон рекомендуется пациентам с ФП и СНнФВ, нуждающимся в длительной антиаритмической терапии для профилактики рецидивов и прогрессирования ФП, с тщательным мониторингом внесердечной токсичности."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r47",
+          "text": {
+            "en": "Dronedarone is recommended in patients with AF requiring long-term rhythm control, including those with HFmrEF, HFpEF, ischaemic heart disease, or valvular disease to prevent recurrence and progression of AF.",
+            "ru": "Дронедарон рекомендуется пациентам с ФП, нуждающимся в длительном контроле ритма, включая пациентов с СНунФВ, СНсФВ, ИБС или пороками клапанов, для предотвращения рецидивов и прогрессирования ФП."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r48",
+          "text": {
+            "en": "Flecainide or propafenone is recommended in patients with AF requiring long-term rhythm control to prevent recurrence and progression of AF, excluding those with impaired left ventricular systolic function, severe left ventricular hypertrophy, or coronary artery disease.",
+            "ru": "Флекаинид или пропафенон рекомендуются пациентам с ФП, нуждающимся в длительном контроле ритма для предотвращения рецидивов и прогрессирования ФП, за исключением пациентов со сниженной систолической функцией ЛЖ, выраженной ГЛЖ или ИБС."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r49",
+          "text": {
+            "en": "Antiarrhythmic drug therapy is not recommended in patients with advanced conduction disturbances unless antibradycardia pacing is provided.",
+            "ru": "Антиаритмическая лекарственная терапия не рекомендуется пациентам с выраженными нарушениями проводимости при отсутствии имплантированного кардиостимулятора."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec17-catheter-ablation",
+      "title": {
+        "en": "Recommendations for catheter ablation of AF",
+        "ru": "Рекомендации по катетерной аблации ФП"
+      },
+      "rows": [
+        {
+          "id": "r50",
+          "text": {
+            "en": "Shared decision-making is recommended when considering catheter ablation for AF, taking into account procedural risks, likely benefits, and risk factors for AF recurrence.",
+            "ru": "Совместное принятие решений рекомендуется при рассмотрении катетерной аблации ФП с учетом рисков процедуры, вероятной пользы и факторов риска рецидива ФП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r51",
+          "text": {
+            "en": "Catheter ablation is recommended in patients with paroxysmal or persistent AF resistant or intolerant to antiarrhythmic drug therapy to reduce symptoms, recurrence, and progression of AF.",
+            "ru": "Катетерная аблация рекомендуется пациентам с пароксизмальной или персистирующей ФП, рефрактерной или непереносимой к ААП, для уменьшения симптомов, снижения частоты рецидивов и прогрессирования ФП."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r52",
+          "text": {
+            "en": "Catheter ablation is recommended as a first-line option within a shared decision-making rhythm control strategy in patients with paroxysmal AF, to reduce symptoms, recurrence, and progression of AF.",
+            "ru": "Катетерная аблация рекомендуется в качестве терапии первой линии в рамках совместного выбора стратегии контроля ритма у пациентов с пароксизмальной ФП для уменьшения симптомов, рецидивов и прогрессирования ФП."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r53",
+          "text": {
+            "en": "Atrial fibrillation catheter ablation is recommended in patients with AF and HFrEF with high probability of tachycardia-induced cardiomyopathy to reverse left ventricular dysfunction.",
+            "ru": "Катетерная аблация ФП рекомендуется пациентам с ФП и СНнФВ при высокой вероятности тахииндуцированной кардиомиопатии для восстановления функции левого желудочка."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec18-ablation-anticoagulation",
+      "title": {
+        "en": "Recommendations for anticoagulation in patients undergoing catheter ablation",
+        "ru": "Рекомендации по антикоагуляции у пациентов, подвергающихся катетерной аблации"
+      },
+      "rows": [
+        {
+          "id": "r54",
+          "text": {
+            "en": "Initiation of oral anticoagulation is recommended at least 3 weeks prior to catheter-based ablation in AF patients at elevated thromboembolic risk, to prevent peri-procedural ischaemic stroke and thromboembolism.",
+            "ru": "Начало оральной антикоагулянтной терапии рекомендуется не менее чем за 3 недели до катетерной аблации у пациентов с ФП и повышенным тромбоэмболическим риском для профилактики периоперационного инсульта и тромбоэмболии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r55",
+          "text": {
+            "en": "Uninterrupted oral anticoagulation is recommended in patients undergoing AF catheter ablation to prevent peri-procedural ischaemic stroke and thromboembolism.",
+            "ru": "Непрерывная оральная антикоагулянтная терапия рекомендуется пациентам, которым выполняется катетерная аблация ФП, для профилактики периоперационного ишемического инсульта и системных тромбоэмболий."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r56",
+          "text": {
+            "en": "Continuation of oral anticoagulation is recommended for at least 2 months after AF ablation in all patients, irrespective of rhythm outcome or CHA₂DS₂-VA score, to reduce the risk of peri-procedural ischaemic stroke and thromboembolism.",
+            "ru": "Продолжение оральной антикоагуляции рекомендуется в течение как минимум 2 месяцев после аблации ФП у всех пациентов, независимо от удержания ритма или баллов по CHA₂DS₂-VA, для снижения риска процедурного инсульта и тромбоэмболий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r57",
+          "text": {
+            "en": "Continuation of oral anticoagulation is recommended after AF ablation according to the patient's CHA₂DS₂-VA score, and not the perceived success of the ablation procedure, to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Продолжение приема оральных антикоагулянтов после аблации ФП рекомендуется в зависимости от индивидуального балла по шкале CHA₂DS₂-VA, а не от предполагаемой успешности процедуры аблации, для профилактики ишемического инсульта и тромбоэмболий."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec19-endoscopic-hybrid",
+      "title": {
+        "en": "Recommendations for endoscopic and hybrid AF ablation",
+        "ru": "Рекомендации по эндоскопической и гибридной аблации ФП"
+      },
+      "rows": [
+        {
+          "id": "r58",
+          "text": {
+            "en": "Continuation of oral anticoagulation is recommended in patients with AF at elevated thromboembolic risk after concomitant, endoscopic, or hybrid AF ablation, independent of rhythm outcome or LAA exclusion, to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Продолжение оральной антикоагулянтной терапии рекомендуется пациентам с ФП и повышенным тромбоэмболическим риском после сопутствующей, эндоскопической или гибридной аблации, независимо от ритма или исключения УЛП, для профилактики инсульта и тромбоэмболий."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec20-surgical-ablation",
+      "title": {
+        "en": "Recommendations for AF ablation during cardiac surgery",
+        "ru": "Рекомендации по аблации ФП во время кардиохирургических операций"
+      },
+      "rows": [
+        {
+          "id": "r59",
+          "text": {
+            "en": "Concomitant surgical ablation is recommended in patients undergoing mitral valve surgery and AF suitable for a rhythm control strategy to prevent symptoms and recurrence of AF, with shared decision-making supported by an experienced team of electrophysiologists and arrhythmia surgeons.",
+            "ru": "Сопутствующая хирургическая аблация рекомендуется пациентам, оперируемым на митральном клапане, имеющим ФП и подходящим для стратегии контроля ритма, для предотвращения симптомов и рецидивов ФП (при поддержке опытной команды электрофизиологов и хирургов)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r60",
+          "text": {
+            "en": "Intraprocedural imaging for detection of left atrial thrombus in patients undergoing surgical ablation is recommended to guide surgical strategy, independent of oral anticoagulant use, to prevent peri-procedural ischaemic stroke and thromboembolism.",
+            "ru": "Интраоперационная визуализация для выявления тромба в левом предсердии рекомендуется пациентам, которым выполняется хирургическая аблация, для определения тактики операции, независимо от приема оральных антикоагулянтов, с целью профилактики интраоперационного инсульта и тромбоэмболий."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec21-acs-pci",
+      "title": {
+        "en": "Recommendations for patients with acute coronary syndromes or undergoing percutaneous intervention",
+        "ru": "Рекомендации для пациентов с ОКС или подвергающихся ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r61",
+          "text": {
+            "en": "For combinations with antiplatelet therapy, a DOAC is recommended in eligible patients in preference to a VKA to mitigate bleeding risk and prevent thromboembolism.",
+            "ru": "При комбинации с антиагрегантной терапией у подходящих пациентов рекомендуется отдавать предпочтение ПОАК перед АВК для снижения риска кровотечений и профилактики тромбоэмболии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r62",
+          "text": {
+            "en": "Early cessation (≤1 week) of aspirin and continuation of an oral anticoagulant (preferably DOAC) with a P2Y₁₂ inhibitor (preferably clopidogrel) for up to 12 months is recommended in AF patients with ACS undergoing an uncomplicated PCI to avoid major bleeding, if the risk of thrombosis is low or bleeding risk is high.",
+            "ru": "У пациентов с ФП и ОКС, перенесших неосложненное ЧКВ, рекомендуется раннее прекращение приема аспирина (≤1 недели) и продолжение терапии оральным антикоагулянтом (предпочтительно ПОАК) в сочетании с ингибитором P2Y₁₂ (предпочтительно клопидогрелом) на срок до 12 месяцев для предотвращения больших кровотечений, если риск тромбоза низкий или риск кровотечения высокий."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r63",
+          "text": {
+            "en": "After uncomplicated PCI, early cessation (≤1 week) of aspirin and continuation of an oral anticoagulant and a P2Y₁₂ inhibitor (preferably clopidogrel) for up to 6 months is recommended to avoid major bleeding, if ischaemic risk is low.",
+            "ru": "После неосложненного ЧКВ рекомендуется раннее прекращение приема аспирина (≤1 недели) и продолжение терапии оральным антикоагулянтом и ингибитором P2Y₁₂ (предпочтительно клопидогрелом) на срок до 6 месяцев для предотвращения больших кровотечений, если ишемический риск низкий."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r64",
+          "text": {
+            "en": "Antiplatelet therapy beyond 12 months is not recommended in stable patients with chronic coronary or vascular disease treated with oral anticoagulation, due to lack of efficacy and to avoid major bleeding.",
+            "ru": "Антиагрегантная терапия продолжительностью более 12 месяцев не рекомендуется стабильным пациентам с хронической коронарной или сосудистой патологией, получающим оральные антикоагулянты, из-за отсутствия доказанной эффективности и во избежание больших кровотечений."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec22-post-operative-af",
+      "title": {
+        "en": "Recommendations for management of post-operative AF",
+        "ru": "Рекомендации по ведению послеоперационной ФП"
+      },
+      "rows": [
+        {
+          "id": "r65",
+          "text": {
+            "en": "Peri-operative amiodarone therapy is recommended where drug therapy is desired to prevent post-operative AF after cardiac surgery.",
+            "ru": "Периоперационная терапия амиодароном рекомендуется в случаях, когда требуется медикаментозная профилактика послеоперационной ФП после кардиохирургических операций."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r66",
+          "text": {
+            "en": "Routine use of beta-blockers is not recommended in patients undergoing non-cardiac surgery for the prevention of post-operative AF.",
+            "ru": "Рутинное применение бета-блокаторов не рекомендуется у пациентов, подвергающихся некардиохирургическим операциям, с целью профилактики послеоперационной ФП."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec23-esus",
+      "title": {
+        "en": "Recommendations for patients with embolic stroke of unknown source",
+        "ru": "Рекомендации для пациентов с инсультом из неустановленного источника (ESUS)"
+      },
+      "rows": [
+        {
+          "id": "r67",
+          "text": {
+            "en": "Prolonged monitoring for AF is recommended in patients with ESUS to inform on AF treatment decisions.",
+            "ru": "Длительное мониторирование ритма для выявления ФП рекомендуется пациентам с эмболическим инсультом из неустановленного источника (ESUS) для определения дальнейшей тактики лечения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r68",
+          "text": {
+            "en": "Initiation of oral anticoagulation in ESUS patients without documented AF is not recommended due to lack of efficacy in preventing ischaemic stroke and thromboembolism.",
+            "ru": "Начало терапии оральными антикоагулянтами у пациентов с ESUS без документированной ФП не рекомендуется из-за отсутствия доказанной эффективности в предотвращении ишемического инсульта и тромбоэмболий."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec24-pregnancy",
+      "title": {
+        "en": "Recommendations for patients with AF during pregnancy",
+        "ru": "Рекомендации для пациенток с ФП во время беременности"
+      },
+      "rows": [
+        {
+          "id": "r69",
+          "text": {
+            "en": "Immediate electrical cardioversion is recommended in patients with AF during pregnancy and haemodynamic instability or pre-excited AF to improve maternal and foetal outcomes.",
+            "ru": "Неотложная электрическая кардиоверсия рекомендуется беременным пациенткам с ФП при гемодинамической нестабильности или ФП с предвозбуждением желудочков для улучшения исходов у матери и плода."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r70",
+          "text": {
+            "en": "Therapeutic anticoagulation with LMWHs or VKAs (except VKAs for the first trimester or beyond Week 36) is recommended for pregnant patients with AF at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Терапевтическая антикоагулянтная терапия НМГ или АВК (за исключением АВК в первом триместре и после 36-й недели) рекомендуется беременным пациенткам с ФП и повышенным тромбоэмболическим риском для профилактики ишемического инсульта и тромбоэмболий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r71",
+          "text": {
+            "en": "Beta-1 selective blockers are recommended for heart rate control of AF in pregnancy to reduce symptoms and improve maternal and foetal outcomes, excluding atenolol.",
+            "ru": "Бета-1-селективные адреноблокаторы рекомендуются для контроля частоты сердечных сокращений при ФП во время беременности для уменьшения симптомов и улучшения исходов у матери и плода, за исключением атенолола."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec25-flutter",
+      "title": {
+        "en": "Recommendations for prevention of thromboembolism in atrial flutter",
+        "ru": "Рекомендации по профилактике тромбоэмболии при трепетании предсердий"
+      },
+      "rows": [
+        {
+          "id": "r72",
+          "text": {
+            "en": "Oral anticoagulation is recommended in patients with atrial flutter at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Оральная антикоагулянтная терапия рекомендуется пациентам с трепетанием предсердий при повышенном риске тромбоэмболии для профилактики ишемического инсульта и системных тромбоэмболий."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec26-screening",
+      "title": {
+        "en": "Recommendations for screening for AF",
+        "ru": "Рекомендации по скринингу ФП"
+      },
+      "rows": [
+        {
+          "id": "r73",
+          "text": {
+            "en": "Review of an ECG (12-lead, single, or multiple leads) by a physician is recommended to provide a definite diagnosis of AF and commence appropriate management.",
+            "ru": "Анализ ЭКГ врачом (12-канальной, одноканальной или многоканальной) рекомендуется для подтверждения окончательного диагноза ФП и начала надлежащего лечения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r74",
+          "text": {
+            "en": "Routine heart rhythm assessment during healthcare contact is recommended in all individuals aged ≥65 years for earlier detection of AF.",
+            "ru": "Рутинная оценка сердечного ритма при каждом контакте с системой здравоохранения рекомендуется всем лицам в возрасте ≥65 лет для раннего выявления ФП."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec27-primary-prevention",
+      "title": {
+        "en": "Recommendations for primary prevention of AF",
+        "ru": "Рекомендации по первичной профилактике ФП"
+      },
+      "rows": [
+        {
+          "id": "r75",
+          "text": {
+            "en": "Maintaining optimal blood pressure is recommended in the general population to prevent AF, with ACE inhibitors or ARBs as first-line therapy.",
+            "ru": "В общей популяции рекомендуется поддержание оптимального уровня артериального давления для профилактики ФП, при этом ингибиторы АПФ или БРА рекомендуются в качестве терапии первой линии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r76",
+          "text": {
+            "en": "Appropriate medical HF therapy is recommended in individuals with HFrEF to prevent AF.",
+            "ru": "Надлежащая медикаментозная терапия сердечной недостаточности рекомендуется пациентам с СНнФВ для профилактики ФП."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r77",
+          "text": {
+            "en": "Maintaining normal weight (BMI 20–25 kg/m²) is recommended for the general population to prevent AF.",
+            "ru": "Поддержание нормальной массы тела (ИМТ 20–25 кг/м²) рекомендуется в общей популяции для профилактики ФП."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r78",
+          "text": {
+            "en": "Maintaining an active lifestyle is recommended to prevent AF, with the equivalent of 150–300 min per week of moderate intensity or 75–150 min per week of vigorous intensity aerobic physical activity.",
+            "ru": "Для профилактики ФП рекомендуется поддержание активного образа жизни с аэробной физической активностью умеренной интенсивности в объеме 150–300 мин в неделю или высокой интенсивности 75–150 мин в неделю."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r79",
+          "text": {
+            "en": "Avoidance of binge drinking and alcohol excess is recommended in the general population to prevent AF.",
+            "ru": "В общей популяции для профилактики ФП рекомендуется избегать эпизодов злоупотребления алкоголем (binge drinking) и чрезмерного его потребления."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

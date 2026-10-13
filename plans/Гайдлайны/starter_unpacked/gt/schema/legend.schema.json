@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://starleyby.github.io/Starley-CS-Library/schema/legend.schema.json",
+  "title": "Class / level legend of a guideline society",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "id", "classes", "levels"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "classes": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["I", "IIa", "IIb", "III"],
+      "patternProperties": { "^(I|IIa|IIb|III)$": { "$ref": "#/$defs/classDef" } }
+    },
+    "levels": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["A", "B", "C"],
+      "patternProperties": { "^(A|B|C)$": { "$ref": "#/$defs/levelDef" } }
+    }
+  },
+  "$defs": {
+    "i18n": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["en"],
+      "properties": { "en": { "type": "string", "minLength": 1 }, "ru": { "type": "string" } }
+    },
+    "classDef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["wording", "meaning"],
+      "properties": { "wording": { "$ref": "#/$defs/i18n" }, "meaning": { "$ref": "#/$defs/i18n" } }
+    },
+    "levelDef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["meaning"],
+      "properties": { "meaning": { "$ref": "#/$defs/i18n" } }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt03-diagnostic-evaluation",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 3",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for diagnostic evaluation in patients with new AF",
+    "ru": "Рекомендации по диагностической оценке пациентов с впервые выявленной фибрилляцией предсердий"
+  },
+  "tags": [
+    "af",
+    "diagnosis",
+    "echocardiography",
+    "tte"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for diagnostic evaluation in patients with new AF",
+        "ru": "Рекомендации по диагностической оценке при впервые выявленной ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "A transthoracic echocardiogram is recommended in patients with an AF diagnosis where this will guide treatment decisions.",
+            "ru": "Трансторакальная эхокардиография рекомендуется пациентам с диагнозом ФП в случаях, когда это влияет на выбор тактики лечения."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

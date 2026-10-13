@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt17-cctga-intervention",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec ccTGA",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention in congenitally corrected transposition of the great arteries",
+    "ru": "Рекомендации по вмешательствам при врожденно скорректированной транспозиции магистральных артерий"
+  },
+  "tags": [
+    "achd",
+    "cctga",
+    "l-tga",
+    "tricuspid-valve",
+    "systemic-rv",
+    "crt"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In *symptomatic* patients with severe TR and preserved or mildly impaired systemic RV systolic function (EF >40%), TV replacement is indicated.",
+            "ru": "У *симптомных* пациентов с тяжелой ТР и сохранной или незначительно сниженной систолической функцией системного ПЖ (ФВ >40%) показано протезирование трехстворчатого клапана."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In *asymptomatic* patients with severe TR and progressive systemic RV dilatation and/or mildly impaired systemic RV systolic function (EF >40%), TV replacement should be considered.",
+            "ru": "У *асимптомных* пациентов с тяжелой ТР и прогрессирующей дилатацией системного ПЖ и/или незначительно сниженной систолической функцией системного ПЖ (ФВ >40%) следует рассматривать протезирование трехстворчатого клапана."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Biventricular pacing should be considered in case of complete AV block or >40% ventricular pacing requirement.",
+            "ru": "Бивентрикулярную стимуляцию следует рассматривать в случае полной АВ-блокады или потребности в стимуляции желудочков >40%."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In *symptomatic* patients with severe TR and more than mildly reduced systemic RV systolic function (EF ≤40%), TV replacement may be considered.",
+            "ru": "У *симптомных* пациентов с тяжелой ТР и умеренно или выраженно сниженной систолической функцией системного ПЖ (ФВ ≤40%) может рассматриваться протезирование трехстворчатого клапана."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt14",
+  "guidelineId": "esc-acs-2023",
+  "number": "14",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for acute coronary syndrome complications",
+    "ru": "Рекомендации по осложнениям острого коронарного синдрома"
+  },
+  "tags": [
+    "complications",
+    "heart-failure",
+    "iabp",
+    "lv-thrombus",
+    "atrial-fibrillation",
+    "ventricular-arrhythmias",
+    "icd",
+    "bradyarrhythmias",
+    "pacemaker"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Heart failure",
+        "ru": "Сердечная недостаточность"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "IABP should be considered in patients with haemodynamic instability/cardiogenic shock due to ACS-related mechanical complications.",
+            "ru": "Внутриаортальную баллонную контрпульсацию (ВАБК) следует рассматривать у пациентов с гемодинамической нестабильностью/кардиогенным шоком вследствие механических осложнений ОКС."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "LV thrombus",
+        "ru": "Тромбоз левого желудочка"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "CMR imaging should be considered in patients with equivocal echocardiographic images or in cases of high clinical suspicion of LV thrombus.",
+            "ru": "МРТ сердца следует рассматривать у пациентов с неоднозначными результатами ЭхоКГ или при высоком клиническом подозрении на тромбоз ЛЖ."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Oral anticoagulant therapy (VKA or NOAC) should be considered for 3–6 months in patients with confirmed LV thrombus.",
+            "ru": "Пероральную антикоагулянтную терапию (АВК или ПОАК) следует рассматривать в течение 3–6 месяцев у пациентов с подтвержденным тромбозом ЛЖ."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Following an acute anterior MI, a contrast echocardiogram may be considered for the detection of LV thrombus if the apex is not well visualized on echocardiography.",
+            "ru": "После острого переднего ИМ может быть рассмотрена контрастная ЭхоКГ для выявления тромбоза ЛЖ, если верхушка плохо визуализируется при стандартной ЭхоКГ."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Atrial fibrillation",
+        "ru": "Фибрилляция предсердий"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Intravenous beta-blockers are recommended when rate control is needed in the absence of acute HF or hypotension.",
+            "ru": "Внутривенные бета-адреноблокаторы рекомендуются при необходимости контроля частоты сердечных сокращений при отсутствии острой СН или артериальной гипотензии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Intravenous amiodarone is recommended when rate control is needed in the presence of acute HF and no hypotension.",
+            "ru": "Внутривенный амиодарон рекомендуется при необходимости контроля ритма/ЧСС при наличии острой СН и отсутствии гипотензии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Immediate electrical cardioversion is recommended in patients with ACS and haemodynamic instability and when adequate rate control cannot be achieved promptly with pharmacological agents.",
+            "ru": "Неотложная электрическая кардиоверсия рекомендуется у пациентов с ОКС и гемодинамической нестабильностью, а также когда адекватный контроль ЧСС не может быть быстро достигнут фармакологическими средствами."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Intravenous amiodarone is recommended to facilitate electrical cardioversion and/or decrease risk for early recurrence of AF after electrical cardioversion in unstable patients with recent-onset AF.",
+            "ru": "Внутривенный амиодарон рекомендуется для облегчения электрической кардиоверсии и/или снижения риска раннего рецидива ФП после электрокардиоверсии у нестабильных пациентов с недавно возникшей ФП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "In patients with documented de novo AF during the acute phase of ACS, long-term oral anticoagulation should be considered depending on the CHA2DS2-VASc score, after taking the HAS-BLED score and the need for concomitant antiplatelet therapy into consideration. NOACs are the preferred drugs.",
+            "ru": "У пациентов с документированной впервые возникшей (de novo) ФП в острую фазу ОКС следует рассматривать длительную пероральную антикоагулянтную терапию в зависимости от шкалы CHA2DS2-VASc, с учетом оценки по HAS-BLED и потребности в сопутствующей антиагрегантной терапии. Предпочтительны ПОАК (NOAC)."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en": "Ventricular arrhythmias",
+        "ru": "Желудочковые аритмии"
+      },
+      "rows": [
+        {
+          "id": "r10",
+          "text": {
+            "en": "ICD therapy is recommended to reduce sudden cardiac death in patients with symptomatic HF (NYHA Class II–III) and LVEF ≤35% despite optimal medical therapy for >3 months and at least 6 weeks after MI who are expected to survive for at least 1 year with good functional status.",
+            "ru": "Терапия ИКД рекомендуется для снижения внезапной сердечной смерти у пациентов с симптомной СН (II–III ФК по NYHA) и ФВЛЖ ≤35%, несмотря на оптимальную медикаментозную терапию в течение >3 месяцев и не менее 6 недель после ИМ, с ожидаемой продолжительностью жизни не менее 1 года с удовлетворительным функциональным статусом."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "Intravenous beta-blocker and/or amiodarone treatment is recommended for patients with polymorphic VT and/or VF unless contraindicated.",
+            "ru": "Внутривенное введение бета-блокаторов и/или амиодарона рекомендуется пациентам с полиморфной ЖТ и/или ФЖ при отсутствии противопоказаний."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "Prompt and complete revascularization is recommended to treat myocardial ischaemia that may be present in patients with recurrent VT and/or VF.",
+            "ru": "Быстрая и полная реваскуляризация рекомендуется для устранения ишемии миокарда, которая может присутствовать у пациентов с рецидивирующей ЖТ и/или ФЖ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "Transvenous catheter pacing termination and/or overdrive pacing should be considered if VT cannot be controlled by repeated electrical cardioversion.",
+            "ru": "Трансвенозное купирование катетерной стимуляцией и/или сверхчастая стимуляция (overdrive pacing) должны рассматриваться, если ЖТ не поддается контролю повторными электрическими кардиоверсиями."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "Radiofrequency catheter ablation at a specialized ablation centre followed by ICD implantation should be considered in patients with recurrent VT, VF, or electrical storm despite complete revascularization and optimal medical therapy.",
+            "ru": "Радиочастотная катетерная аблация в специализированном центре с последующей имплантацией ИКД должна рассматриваться у пациентов с рецидивирующей ЖТ, ФЖ или электрическим штормом, несмотря на полную реваскуляризацию и оптимальную медикаментозную терапию."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "Treatment of recurrent VT with haemodynamic relevance (despite repeated electrical cardioversion) with lidocaine may be considered if beta-blockers, amiodarone, and overdrive stimulation are not effective/applicable.",
+            "ru": "Лечение рецидивирующей гемодинамически значимой ЖТ (несмотря на повторную кардиоверсию) лидокаином может быть рассмотрено, если бета-блокаторы, амиодарон и сверхчастая стимуляция неэффективны или неприменимы."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r16",
+          "text": {
+            "en": "In patients with recurrent life-threatening ventricular arrhythmias, sedation or general anaesthesia to reduce sympathetic drive may be considered.",
+            "ru": "У пациентов с рецидивирующими жизнеугрожающими желудочковыми аритмиями может быть рассмотрена седация или общая анестезия для снижения симпатической стимуляции."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r17",
+          "text": {
+            "en": "ICD implantation or the temporary use of a wearable cardioverter defibrillator may be considered <40 days after MI in selected patients (incomplete revascularization, pre-existing LVEF dysfunction, occurrence of arrhythmias >48 h after STEMI onset, polymorphic VT or VF).",
+            "ru": "Имплантация ИКД или временное использование носимого кардиовертера-дефибриллятора может быть рассмотрено <40 дней после ИМ у отобранных пациентов (неполная реваскуляризация, предшествующая дисфункция ЛЖ, возникновение аритмий >48 ч от начала ИМпST, полиморфная ЖТ или ФЖ)."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r18",
+          "text": {
+            "en": "Treatment of asymptomatic and haemodynamically irrelevant ventricular arrhythmias with anti-arrhythmic drugs is not recommended.",
+            "ru": "Лечение бессимптомных и гемодинамически незначимых желудочковых аритмий антиаритмическими препаратами не рекомендуется."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "title": {
+        "en": "Bradyarrhythmias",
+        "ru": "Брадиаритмии"
+      },
+      "rows": [
+        {
+          "id": "r19",
+          "text": {
+            "en": "In cases of sinus bradycardia with haemodynamic intolerance or high-degree AV block without stable escape rhythm:\n• i.v. positive chronotropic medication (adrenaline, vasopressin, and/or atropine) is recommended.",
+            "ru": "При синусовой брадикардии с гемодинамической нестабильностью или АВ-блокаде высокой степени без стабильного выскальзывающего ритма:\n• в/в введение положительных хронотропных препаратов (адреналин, вазопрессин и/или атропин) рекомендуется."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r20",
+          "text": {
+            "en": "In cases of sinus bradycardia with haemodynamic intolerance or high-degree AV block without stable escape rhythm:\n• temporary pacing is recommended in cases of failure to respond to atropine.",
+            "ru": "При синусовой брадикардии с гемодинамической нестабильностью или АВ-блокаде высокой степени без стабильного выскальзывающего ритма:\n• временная электрокардиостимуляция рекомендуется при отсутствии ответа на атропин."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r21",
+          "text": {
+            "en": "In cases of sinus bradycardia with haemodynamic intolerance or high-degree AV block without stable escape rhythm:\n• urgent angiography with a view to revascularization is recommended if the patient has not received previous reperfusion therapy.",
+            "ru": "При синусовой брадикардии с гемодинамической нестабильностью или АВ-блокаде высокой степени без стабильного выскальзывающего ритма:\n• экстренная ангиография с целью реваскуляризации рекомендуется, если пациент ранее не получал реперфузионную терапию."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r22",
+          "text": {
+            "en": "Implantation of a permanent pacemaker is recommended when high-degree AV block does not resolve within a waiting period of at least 5 days after MI.",
+            "ru": "Имплантация постоянного электрокардиостимулятора рекомендуется, если АВ-блокада высокой степени не разрешается в течение периода ожидания не менее 5 дней после ИМ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r23",
+          "text": {
+            "en": "In selected patients with high-degree AV block in the context of an anterior wall MI and acute HF, early device implantation (CRT-D/CRT-P) may be considered.",
+            "ru": "У отобранных пациентов с АВ-блокадой высокой степени на фоне переднего ИМ и острой СН может быть рассмотрена ранняя имплантация устройства (CRT-D/CRT-P)."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r24",
+          "text": {
+            "en": "Pacing is not recommended if high-degree AV block resolves after revascularization or spontaneously.",
+            "ru": "Электрокардиостимуляция не рекомендуется, если АВ-блокада высокой степени разрешается после реваскуляризации или спонтанно."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 24
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

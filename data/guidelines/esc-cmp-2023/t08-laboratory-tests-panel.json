@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t08-laboratory-tests-panel",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 8",
+  "type": "grid",
+  "title": {
+    "en": "First-level and second-level laboratory tests, grouped by cardiomyopathy phenotype",
+    "ru": "Лабораторные тесты первого и второго уровней, сгруппированные по фенотипу кардиомиопатии"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "laboratory-tests",
+    "first-level",
+    "second-level",
+    "hcm",
+    "dcm",
+    "ndlvc",
+    "arvc",
+    "rcm"
+  ],
+  "columns": [
+    {
+      "id": "c_level",
+      "title": {
+        "en": "Level",
+        "ru": "Уровень"
+      }
+    },
+    {
+      "id": "c_hcm",
+      "title": {
+        "en": "HCM",
+        "ru": "ГКМП"
+      }
+    },
+    {
+      "id": "c_dcm",
+      "title": {
+        "en": "DCM",
+        "ru": "ДКМП"
+      }
+    },
+    {
+      "id": "c_ndlvc",
+      "title": {
+        "en": "NDLVC",
+        "ru": "НДЛЖКМП"
+      }
+    },
+    {
+      "id": "c_arvc",
+      "title": {
+        "en": "ARVC",
+        "ru": "АКПЖ"
+      }
+    },
+    {
+      "id": "c_rcm",
+      "title": {
+        "en": "RCM",
+        "ru": "РКМП"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "First (to be performed in each patient)",
+            "ru": "Первый уровень (выполняется у всех пациентов)"
+          }
+        },
+        {
+          "text": {
+            "en": "• CK\n• Liver function\n• NT-proBNP (or BNP)\n• Proteinuria\n• Renal function\n• Troponin",
+            "ru": "• КФК\n• Печеночные пробы\n• NT-proBNP (или BNP)\n• Протеинурия\n• Функция почек\n• Тропонин"
+          }
+        },
+        {
+          "text": {
+            "en": "• Calcium\n• CK\n• Ferritin\n• Full blood count\n• Liver function\n• NT-proBNP (or BNP)\n• Phosphate\n• Proteinuria\n• Renal function\n• Serum iron\n• Thyroid function\n• Troponin\n• Vitamin D (children)",
+            "ru": "• Кальций\n• КФК\n• Ферритин\n• Общий анализ крови\n• Печеночные пробы\n• NT-proBNP (или BNP)\n• Фосфаты\n• Протеинурия\n• Функция почек\n• Сывороточное железо\n• Функция щитовидной железы\n• Тропонин\n• Витамин D (у детей)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Calcium\n• CK\n• C-reactive protein\n• Full blood count\n• Liver function\n• NT-proBNP (or BNP)\n• Phosphate\n• Proteinuria\n• Renal function\n• Troponin",
+            "ru": "• Кальций\n• КФК\n• С-реактивный белок\n• Общий анализ крови\n• Печеночные пробы\n• NT-proBNP (или BNP)\n• Фосфаты\n• Протеинурия\n• Функция почек\n• Тропонин"
+          }
+        },
+        {
+          "text": {
+            "en": "• C-reactive protein\n• Liver function\n• NT-proBNP (or BNP)\n• Renal function\n• Troponin",
+            "ru": "• С-реактивный белок\n• Печеночные пробы\n• NT-proBNP (или BNP)\n• Функция почек\n• Тропонин"
+          }
+        },
+        {
+          "text": {
+            "en": "• CK\n• Ferritin\n• Full blood count\n• Liver function\n• NT-proBNP (or BNP)\n• Proteinuria\n• Renal function\n• Serum angiotensin-converting enzyme\n• Serum iron\n• Troponin\n• Urine and plasma protein immunofixation, free light chains",
+            "ru": "• КФК\n• Ферритин\n• Общий анализ крови\n• Печеночные пробы\n• NT-proBNP (или BNP)\n• Протеинурия\n• Функция почек\n• Ангиотензинпревращающий фермент (АПФ) сыворотки\n• Сывороточное железо\n• Тропонин\n• Иммунофиксация белков мочи и плазмы, свободные легкие цепи"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Second (to be performed in selected patients following specialist evaluation to identify specific aetiologies)",
+            "ru": "Второй уровень (выполняется у отдельных пациентов после консультации специалиста для выявления специфической этиологии)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Alpha-galactosidase A levels (males) and lyso-Gb3\n• Carnitine profile\n• Free fatty acids\n• Immunofixation and free light chains\n• Lactic acid\n• Myoglobinuria\n• Pyruvate\n• PTH\n• Urine and plasma protein\n• Urine organic acids and plasma amino acids",
+            "ru": "• Альфа-галактозидаза А (у мужчин) и lyso-Gb3\n• Карнитиновый профиль\n• Свободные жирные кислоты\n• Иммунофиксация и свободные легкие цепи\n• Молочная кислота (лактат)\n• Миоглобинурия\n• Пируват\n• Паратгормон (ПТГ)\n• Белок мочи и плазмы\n• Органические кислоты мочи и аминокислоты плазмы"
+          }
+        },
+        {
+          "text": {
+            "en": "• Carnitine profile\n• Free fatty acids\n• Lactic acid\n• Organ- and non-organ-specific serum autoantibodies\n• Serum angiotensin-converting enzyme\n• Thiamine\n• Viral serology\n• Urine organic acids and plasma amino acids",
+            "ru": "• Карнитиновый профиль\n• Свободные жирные кислоты\n• Молочная кислота (лактат)\n• Органо- и неорганоспецифические сывороточные аутоантитела\n• Ангиотензинпревращающий фермент (АПФ) сыворотки\n• Тиамин\n• Вирусная серология\n• Органические кислоты мочи и аминокислоты плазмы"
+          }
+        },
+        {
+          "text": {
+            "en": "• Organ- and non-organ-specific serum autoantibodies\n• Viral serology",
+            "ru": "• Органо- и неорганоспецифические сывороточные аутоантитела\n• Вирусная серология"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "• Organ- and non-organ-specific autoantibodies\n• Serum angiotensin-converting enzyme",
+            "ru": "• Органо- и неорганоспецифические аутоантитела\n• Ангиотензинпревращающий фермент (АПФ) сыворотки"
+          }
+        }
+      ]
+    }
+  ]
+}

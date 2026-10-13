@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt17-pharmacological-cardioversion",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 17",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for pharmacological cardioversion of AF",
+    "ru": "Рекомендации по медикаментозной кардиоверсии фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "cardioversion",
+    "pharmacological",
+    "flecainide",
+    "propafenone",
+    "vernakalant",
+    "amiodarone",
+    "pill-in-the-pocket"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for pharmacological cardioversion of AF",
+        "ru": "Рекомендации по медикаментозной кардиоверсии ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Intravenous flecainide or propafenone is recommended when pharmacological cardioversion of recent-onset AF is desired, excluding patients with severe left ventricular hypertrophy, HFrEF, or coronary artery disease.",
+            "ru": "Внутривенное введение флекаинида или пропафенона рекомендуется при необходимости медикаментозной кардиоверсии недавно возникшей ФП, за исключением пациентов с выраженной гипертрофией ЛЖ, СНнФВ или ИБС."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Intravenous vernakalant is recommended when pharmacological cardioversion of recent-onset AF is desired, excluding patients with recent ACS, HFrEF, or severe aortic stenosis.",
+            "ru": "Внутривенное введение вернакаланта рекомендуется при необходимости медикаментозной кардиоверсии недавно возникшей ФП, за исключением пациентов с недавним ОКС, СНнФВ или тяжелым аортальным стенозом."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Intravenous amiodarone is recommended when cardioversion of AF in patients with severe left ventricular hypertrophy, HFrEF, or coronary artery disease is desired, accepting there may be a delay in cardioversion.",
+            "ru": "Внутривенное введение амиодарона рекомендуется при необходимости кардиоверсии ФП у пациентов с выраженной гипертрофией ЛЖ, СНнФВ или ИБС (с учетом возможной отсрочки восстановления ритма)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "A single self-administered oral dose of flecainide or propafenone (pill-in-the-pocket) should be considered for patient-led cardioversion in selected patients with infrequent paroxysmal AF, after efficacy and safety assessment and excluding those with severe left ventricular hypertrophy, HFrEF, or coronary artery disease.",
+            "ru": "Однократный самостоятельный пероральный прием флекаинида или пропафенона («таблетка в кармане») следует рассматривать для купирования пароксизма пациентом при редких эпизодах пароксизмальной ФП (после предварительной проверки эффективности и безопасности в стационаре и при исключении выраженной ГЛЖ, СНнФВ или ИБС)."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Pharmacological cardioversion is not recommended for patients with sinus node dysfunction, atrioventricular conduction disturbances, or prolonged QTc (>500 ms), unless risks for proarrhythmia and bradycardia have been considered.",
+            "ru": "Медикаментозная кардиоверсия не рекомендуется пациентам с дисфункцией синусового узла, нарушениями атриовентрикулярного проведения или удлиненным QTc (>500 мс), если не оценены риски проаритмии и выраженной брадикардии."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

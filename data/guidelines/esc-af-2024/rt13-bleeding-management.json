@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt13-bleeding-management",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 13",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for management of bleeding in anticoagulated patients",
+    "ru": "Рекомендации по ведению кровотечений у пациентов, получающих антикоагулянтную терапию"
+  },
+  "tags": [
+    "af",
+    "bleeding",
+    "anticoagulation",
+    "pcc",
+    "antidotes",
+    "reversal",
+    "doac",
+    "vka"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for management of bleeding in anticoagulated patients",
+        "ru": "Рекомендации по ведению кровотечений у пациентов, получающих антикоагулянты"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Interrupting anticoagulation and performing diagnostic or treatment interventions is recommended in AF patients with active bleeding until the cause of bleeding is identified and resolved.",
+            "ru": "Приостановка антикоагулянтной терапии и проведение диагностических или лечебных вмешательств рекомендуются пациентам с ФП при активном кровотечении до тех пор, пока источник кровотечения не будет выявлен и устранен."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Prothrombin complex concentrates should be considered in AF patients on VKAs who develop a life-threatening bleed, or bleed into a critical site, to reverse the antithrombotic effect.",
+            "ru": "Концентраты протромбинового комплекса (КПК) следует рассматривать у пациентов с ФП, получающих АВК, при развитии жизнеугрожающего кровотечения или кровотечения в критическую анатомическую зону для нейтрализации антитромботического эффекта."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Specific antidotes should be considered in AF patients on a DOAC who develop a life-threatening bleed, or bleed into a critical site, to reverse the antithrombotic effect.",
+            "ru": "Специфические антидоты следует рассматривать у пациентов с ФП, принимающих ПОАК, при развитии жизнеугрожающего кровотечения или кровотечения в критическую зону для нейтрализации антитромботического эффекта."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

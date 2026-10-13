@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt03",
+  "guidelineId": "esc-acs-2023",
+  "number": "3",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for the initial management of patients with acute coronary syndrome",
+    "ru": "Рекомендации по начальному ведению пациентов с острым коронарным синдромом"
+  },
+  "tags": [
+    "initial-management",
+    "hypoxia",
+    "oxygen",
+    "opioids",
+    "beta-blockers",
+    "ems",
+    "pre-hospital",
+    "stemi",
+    "ppci"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Hypoxia",
+        "ru": "Гипоксия и оксигенотерапия"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Oxygen is recommended in patients with hypoxaemia (SaO2 <90%).",
+            "ru": "Кислород рекомендован пациентам с гипоксемией (SaO2 <90%)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Routine oxygen is not recommended in patients without hypoxaemia (SaO2 ≥90%).",
+            "ru": "Рутинная оксигенотерапия не рекомендована пациентам без гипоксемии (SaO2 ≥90%)."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Symptoms",
+        "ru": "Купирование симптомов и седация"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "Intravenous opioids should be considered to relieve pain.",
+            "ru": "Внутривенные опиоиды следует рассмотреть для купирования боли."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "A mild tranquilizer should be considered in very anxious patients.",
+            "ru": "Легкие транквилизаторы (анксиолитики) следует рассмотреть у очень тревожных пациентов."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Intravenous beta-blockers",
+        "ru": "Внутривенные бета-адреноблокаторы"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Intravenous beta-blockers (preferably metoprolol) should be considered at the time of presentation in patients undergoing PPCI with no signs of acute heart failure, an SBP >120 mmHg, and no other contraindications.",
+            "ru": "Внутривенные бета-блокаторы (предпочтительно метопролол) следует рассмотреть в момент поступления у пациентов, направляемых на первичное ЧКВ, без признаков острой сердечной недостаточности, с САД >120 мм рт. ст. и без других противопоказаний."
+          },
+          "class": "IIa",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en": "Pre-hospital logistics of care",
+        "ru": "Догоспитальная логистика и организация помощи"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "It is recommended that the pre-hospital management of patients with a working diagnosis of STEMI is based on regional networks designed to deliver reperfusion therapy expeditiously and effectively, with efforts made to make PPCI available to as many patients as possible.",
+            "ru": "Рекомендовано, чтобы догоспитальное ведение пациентов с рабочим диагнозом STEMI основывалось на региональных сетях, созданных для быстрого и эффективного проведения реперфузии, со стремлением сделать первичное ЧКВ доступным максимально возможному числу пациентов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "It is recommended that PPCI-capable centres deliver a 24/7 service and are able to perform PPCI without delay.",
+            "ru": "Рекомендовано, чтобы центры с возможностью первичного ЧКВ работали в режиме 24/7 и были способны выполнять ЧКВ без задержек."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "It is recommended that patients transferred for PPCI bypass the emergency department and CCU/ICU and are transferred directly to the catheterization laboratory.",
+            "ru": "Рекомендовано, чтобы пациенты, транспортируемые для первичного ЧКВ, миновали приемное отделение и блок интенсивной терапии (ОРИТ), а доставлялись напрямую в рентгеноперационную (катлаб)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "It is recommended that EMS transfer patients with suspected STEMI to a PCI-capable centre, bypassing non-PCI centres.",
+            "ru": "Рекомендовано, чтобы скорая медицинская помощь (СМП) доставляла пациентов с подозрением на STEMI в ЧКВ-центр, минуя стационары без возможности ЧКВ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "It is recommended that ambulance teams are trained and equipped to identify ECG patterns suggestive of acute coronary occlusion and to administer initial therapy, including defibrillation, and fibrinolysis when applicable.",
+            "ru": "Рекомендовано, чтобы бригады СМП были обучены и оснащены для выявления ЭКГ-признаков острой окклюзии коронарных артерий и проведения начальной терапии, включая дефибрилляцию и фибринолиз (при наличии показаний)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "It is recommended that all hospitals and EMS participating in the care of patients with suspected STEMI record and audit delay times and work together to achieve and maintain quality targets.",
+            "ru": "Рекомендовано, чтобы все стационары и службы СМП, участвующие в оказании помощи пациентам с подозрением на STEMI, фиксировали и анализировали временные интервалы задержек и сотрудничали для достижения стандартов качества."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "page": 13,
+    "expectedRows": 11
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

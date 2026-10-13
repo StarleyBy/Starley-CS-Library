@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt13-ebstein",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec Ebstein",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention in Ebstein anomaly",
+    "ru": "Рекомендации по вмешательствам при аномалии Эбштейна"
+  },
+  "tags": [
+    "achd",
+    "ebstein",
+    "tricuspid-valve",
+    "asd",
+    "pfo",
+    "pre-excitation",
+    "wpw",
+    "ablation"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Indications for surgery",
+        "ru": "Показания к хирургическому вмешательству"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Surgical repair is recommended in patients with severe TR and symptoms or objective deterioration of exercise capacity.",
+            "ru": "Хирургическая пластика рекомендуется пациентам с тяжелой трикуспидальной регургитацией и симптомами или объективным снижением толерантности к нагрузке."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "It is recommended that surgical repair is performed by a congenital surgeon with specific experience in Ebstein surgery.",
+            "ru": "Рекомендуется, чтобы хирургическая коррекция выполнялась кардиохирургом по ВПС с опытом операций при аномалии Эбштейна (например, конусная реконструкция)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "If there is an indication for TV surgery, ASD/PFO closure is recommended at the time of valve repair if it is expected to be haemodynamically tolerated.",
+            "ru": "При наличии показаний к операции на ТК рекомендуется закрытие ДМПП/ООО во время пластики клапана, если ожидается его удовлетворительная гемодинамическая переносимость."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Surgical repair should be considered regardless of symptoms in patients with progressive right heart dilation or reduction of RV systolic function.",
+            "ru": "Хирургическую коррекцию следует рассматривать независимо от симптомов у пациентов с прогрессирующей дилатацией правых отделов сердца или снижением систолической функции ПЖ."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Indications for catheter intervention",
+        "ru": "Показания к интервенционным вмешательствам"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients with symptomatic arrhythmias, or pre-excitation on the ECG, electrophysiologic testing followed by ablation therapy, if feasible, or surgical treatment of the arrhythmias in the case of planned heart surgery is recommended.",
+            "ru": "У пациентов с симптомными аритмиями или предвозбуждением на ЭКГ (WPW) рекомендуется электрофизиологическое исследование с последующей катетерной аблацией либо хирургическое лечение аритмий при планируемой открытой операции."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In the case of documented systemic embolism, probably caused by paradoxical embolism, isolated device closure of ASD/PFO should be considered but requires careful evaluation before intervention to exclude induction of RA pressure increase or fall in cardiac output.",
+            "ru": "При документированной эмболии большого круга, вероятно вызванной парадоксальной эмболией, следует рассматривать изолированное окклюдерное закрытие ДМПП/ООО, однако требуется тщательная оценка для исключения подъема давления в ПП или падения сердечного выброса."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "If cyanosis (oxygen saturation at rest <90%) is the leading problem, isolated device closure of ASD/PFO may be considered but requires careful evaluation before intervention to exclude induction of RA pressure increase or fall in cardiac output.",
+            "ru": "Если ведущей проблемой является цианоз (сатурация в покое <90%), может быть рассмотрено изолированное закрытие ДМПП/ООО окклюдером, но требуется тщательная оценка риска повышения давления в ПП или падения сердечного выброса."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

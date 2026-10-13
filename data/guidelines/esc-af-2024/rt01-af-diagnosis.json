@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt01-af-diagnosis",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 1",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for the diagnosis of AF",
+    "ru": "Рекомендации по диагностике фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "diagnosis",
+    "ecg"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for the diagnosis of AF",
+        "ru": "Рекомендации по диагностике ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Confirmation by an electrocardiogram (12-lead, multiple, or single leads) is recommended to establish the diagnosis of clinical AF and commence risk stratification and treatment.",
+            "ru": "Подтверждение с помощью электрокардиограммы (12-канальной, многоканальной или одноканальной) рекомендуется для установления диагноза клинической ФП и начала стратификации риска и лечения."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    }
+  ]
+}

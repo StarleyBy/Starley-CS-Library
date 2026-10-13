@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt06-pda-intervention",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec PDA",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention in patent ductus arteriosus",
+    "ru": "Рекомендации по вмешательствам при открытом артериальном протоке (ОАП)"
+  },
+  "tags": [
+    "achd",
+    "pda",
+    "shunt-closure",
+    "device-closure",
+    "pvr",
+    "eisenmenger",
+    "differential-cyanosis"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with evidence of LV volume overload^[c] and no PAH (no non-invasive signs of PAP elevation or invasive confirmation of PVR <3 WU in case of such signs), PDA closure is recommended regardless of symptoms.",
+            "ru": "У пациентов с признаками объемной перегрузки ЛЖ^[c] и отсутствием ЛАГ (нет неинвазивных признаков повышения давления в ЛА либо инвазивно подтверждено PVR <3 WU) закрытие ОАП рекомендуется независимо от симптомов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Device closure is recommended as the method of choice when technically suitable.",
+            "ru": "Эндоваскулярное окклюдерное закрытие рекомендуется как метод выбора при технической осуществимости."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients who have developed PAH with PVR 3–5 WU, PDA closure should be considered when there is still significant L–R shunt (Qp:Qs >1.5).",
+            "ru": "У пациентов с развившейся ЛАГ с PVR 3–5 WU закрытие ОАП следует рассматривать при сохраняющемся значимом сбросе слева направо (Qp:Qs >1.5)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients who have developed PAH with PVR ≥5 WU, PDA closure may be considered when there is still significant L–R shunt (Qp:Qs >1.5) but careful individual decision in expert centres is required.",
+            "ru": "У пациентов с развившейся ЛАГ с PVR ≥5 WU закрытие ОАП может быть рассмотрено при сохраняющемся значимом сбросе слева направо (Qp:Qs >1.5), однако необходимо тщательное индивидуальное решение экспертного центра."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "PDA closure is not recommended in patients with Eisenmenger physiology and patients with lower limb desaturation on exercise.^[d]",
+            "ru": "Закрытие ОАП не рекомендуется у пациентов с физиологией Эйзенменгера и при наличии десатурации на нижних конечностях (дифференциального цианоза) при физической нагрузке.^[d]"
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "LV enlargement with increased stroke volume.",
+      "ru": "Дилатация левого желудочка с увеличенным ударным объемом."
+    },
+    "d": {
+      "en": "There are limited data available for a precise cut-off, but by clinical experience, this would be given by a fall of arterial oxygen saturation <90%.",
+      "ru": "Определяется падением сатурации артериальной крови <90%."
+    }
+  },
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

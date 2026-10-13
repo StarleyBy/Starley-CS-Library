@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt16-lvoto-evaluation",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 16",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for evaluation of left ventricular outflow tract obstruction",
+    "ru": "Рекомендации по оценке обструкции выходного тракта левого желудочка"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "hcm",
+    "lvoto",
+    "valsalva",
+    "exercise-echocardiography",
+    "tee",
+    "cardiac-catheterization"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for evaluation of left ventricular outflow tract obstruction",
+        "ru": "Рекомендации по оценке обструкции выходного тракта левого желудочка (ВТЛЖ)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In all patients with HCM, at initial evaluation, transthoracic 2D and Doppler echocardiography are recommended, at rest and during Valsalva manoeuvre in the sitting and semi-supine positions—and then on standing if no gradient is provoked—to detect LVOTO.",
+            "ru": "Всем пациентам с ГКМП при первичном обследовании рекомендуется проведение трансторакальной 2D- и допплер-эхокардиографии в покое и при пробе Вальсальвы в положении сидя и полулежа, а затем стоя (если градиент не спровоцирован) для выявления обструкции ВТЛЖ (LVOTO)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In symptomatic patients with HCM and a resting or provoked peak instantaneous LV outflow tract gradient <50 mmHg, 2D and Doppler echocardiography during exercise in the standing, sitting (when possible), or semi-supine position are recommended to detect provocable LVOTO and exercise-induced mitral regurgitation.",
+            "ru": "Симптомным пациентам с ГКМП при пиковом мгновенном градиенте в покое или при провокации <50 мм рт. ст. рекомендуется выполнение 2D- и допплер-эхокардиографии при физической нагрузке (в положении стоя, сидя или полулежа) для выявления латентной обструкции ВТЛЖ и индуцированной нагрузкой митральной регургитации."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Transoesophageal echocardiography should be considered in patients with HCM and LVOTO if the mechanism of obstruction is unclear or when assessing the mitral valve apparatus before a septal reduction procedure, or when severe mitral regurgitation caused by intrinsic valve abnormalities is suspected.",
+            "ru": "Чреспищеводную эхокардиографию (ЧПЭхоКГ) следует рассмотреть у пациентов с ГКМП и обструкцией ВТЛЖ, если механизм обструкции неясен, при оценке митрального клапанного аппарата перед процедурой септальной редукции или при подозрении на тяжелую первичную патологию створок митрального клапана."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In symptomatic patients with HCM and inconclusive non-invasive cardiac imaging, left and right heart catheterization may be considered to assess the severity of LVOTO and to measure LV filling pressures.",
+            "ru": "У симптомных пациентов с ГКМП при неубедительных данных неинвазивной визуализации катетеризация правых и левых отделов сердца может быть рассмотрена для оценки выраженности обструкции ВТЛЖ и измерения давления наполнения ЛЖ."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

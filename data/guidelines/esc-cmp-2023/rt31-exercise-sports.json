@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt31-exercise-sports",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 31",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 31 — Exercise recommendations for patients with cardiomyopathy",
+    "ru": "Таблица рекомендаций 31 — Рекомендации по физическим нагрузкам у пациентов с кардиомиопатией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "exercise",
+    "sports",
+    "competitive-sports",
+    "hcm",
+    "arvc",
+    "dcm",
+    "ndlvc",
+    "risk-stratification"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "All cardiomyopathies",
+        "ru": "Все кардиомиопатии"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Regular low- to moderate-intensity exercise is recommended in all able individuals with cardiomyopathy.",
+            "ru": "Регулярные физические нагрузки низкой и умеренной интенсивности рекомендуются всем способным к ним пациентам с кардиомиопатией."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "An individualized risk assessment for exercise prescription is recommended in all patients with cardiomyopathy.",
+            "ru": "Индивидуализированная оценка риска перед рекомендацией режима физических нагрузок рекомендуется всем пациентам с кардиомиопатией."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "HCM",
+        "ru": "ГКМП"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "High-intensity exercise and competitive sport should be considered in genotype-positive/phenotype-negative individuals who seek to do so.",
+            "ru": "Высокоинтенсивные тренировки и соревновательный спорт следует рассмотреть у генотип-положительных/фенотип-отрицательных лиц, желающих тренироваться."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "High-intensity exercise and competitive sport may be considered in asymptomatic low-risk individuals with morphologically mild hypertrophic cardiomyopathy in the absence of resting or inducible left ventricular outflow obstruction and exercise-induced complex ventricular arrhythmias.",
+            "ru": "Высокоинтенсивные тренировки и соревновательный спорт могут быть рассмотрены у бессимптомных лиц низкого риска с морфологически легкой гипертрофической кардиомиопатией при отсутствии обструкции выносящего тракта левого желудочка в покое или при провокации и индуцированных нагрузкой сложных желудочковых аритмий."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "High-intensity exercise, including competitive sport, is not recommended in high-risk individuals and in individuals with left ventricular outflow tract obstruction and exercise-induced complex ventricular arrhythmias.",
+            "ru": "Высокоинтенсивные физические нагрузки, включая соревновательный спорт, не рекомендуются пациентам высокого риска, а также лицам с обструкцией выводного тракта левого желудочка и индуцированными нагрузкой сложными желудочковыми аритмиями."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "ARVC",
+        "ru": "АКПЖ"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "Avoidance of high-intensity exercise, including competitive sport, may be considered in genotype-positive/phenotype-negative individuals in families with ARVC.",
+            "ru": "Отказ от высокоинтенсивных тренировок и соревновательного спорта может быть рассмотрен у генотип-положительных/фенотип-отрицательных членов семей с АКПЖ."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Moderate- and/or high-intensity exercise, including competitive sport, is not recommended in individuals with ARVC.",
+            "ru": "Нагрузки умеренной и/или высокой интенсивности, включая соревновательный спорт, не рекомендуются лицам с АКПЖ."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en": "DCM and NDLVC",
+        "ru": "ДКМП и ННКМПЛЖ"
+      },
+      "rows": [
+        {
+          "id": "r08",
+          "text": {
+            "en": "Moderate- and high-intensity exercise should be considered in individuals who are gene positive and phenotype negative (with the exception of pathogenic variants in LMNA and TMEM43) who seek to do so.",
+            "ru": "Умеренные и высокоинтенсивные нагрузки следует рассмотреть у генотип-положительных/фенотип-отрицательных лиц (за исключением патогенных вариантов в генах LMNA и TMEM43), желающих тренироваться."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "High-intensity exercise and competitive sport may be considered in a select group of asymptomatic and optimally treated individuals with a left ventricular ejection fraction ≥50% in the absence of exercise-induced complex arrhythmias.",
+            "ru": "Высокоинтенсивные тренировки и соревновательный спорт могут быть рассмотрены у отобранной группы бессимптомных пациентов на оптимальной терапии с фракцией выброса левого желудочка ≥50% при отсутствии индуцированных нагрузкой сложных аритмий."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Moderate-intensity exercise may be considered in asymptomatic and optimally treated individuals with a left ventricular ejection fraction of 40–49% in the absence of exercise-induced complex arrhythmias.",
+            "ru": "Физические нагрузки умеренной интенсивности могут быть рассмотрены у бессимптомных пациентов на оптимальной терапии с фракцией выброса левого желудочка 40–49% при отсутствии индуцированных нагрузкой сложных аритмий."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "High-intensity exercise, including competitive sport, is not recommended in symptomatic individuals, those with a left ventricular ejection fraction ≤40%, exercise-induced arrhythmias or pathogenic variants in LMNA or TMEM43.",
+            "ru": "Высокоинтенсивные нагрузки, включая соревновательный спорт, не рекомендуются симптомным пациентам, лицам с фракцией выброса левого желудочка ≤40%, индуцированными нагрузкой аритмиями или патогенными вариантами в генах LMNA либо TMEM43."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

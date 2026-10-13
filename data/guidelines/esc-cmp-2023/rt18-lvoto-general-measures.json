@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt18-lvoto-general-measures",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 18",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for treatment of left ventricular outflow tract obstruction (general measures)",
+    "ru": "Рекомендации по лечению обструкции выходного тракта левого желудочка (общие меры)"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "hcm",
+    "lvoto",
+    "vasodilators",
+    "digoxin",
+    "nitrates",
+    "atrial-fibrillation"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for treatment of left ventricular outflow tract obstruction (general measures)",
+        "ru": "Рекомендации по лечению обструкции выходного тракта левого желудочка (общие меры)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Avoidance of digoxin and arterial and venous dilators, including nitrates and phosphodiesterase inhibitors, should be considered, if possible, in patients with resting or provocable LVOTO.",
+            "ru": "Следует рассмотреть возможность избегать назначения дигоксина, а также артериальных и венозных вазодилататоров (включая нитраты и ингибиторы фосфодиэстеразы) у пациентов с обструкцией ВТЛЖ в покое или при провокации."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Restoration of sinus rhythm or appropriate rate control should be considered before invasive management of LVOTO in patients with new-onset or poorly controlled AF.",
+            "ru": "Восстановление синусового ритма или адекватный контроль ЧЖС следует рассмотреть до принятия решения об инвазивном лечении обструкции ВТЛЖ у пациентов с впервые возникшей или плохо контролируемой фибрилляцией предсердий."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

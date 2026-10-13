@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt07-endomyocardial-biopsy",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 7",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for endomyocardial biopsy in patients with cardiomyopathy",
+    "ru": "Рекомендация по эндомиокардиальной биопсии у пациентов с кардиомиопатией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "biopsy",
+    "emb",
+    "inflammation",
+    "infiltration",
+    "storage-disease"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendation for endomyocardial biopsy in patients with cardiomyopathy",
+        "ru": "Рекомендация по эндомиокардиальной биопсии у пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with suspected cardiomyopathy, EMB should be considered to aid in diagnosis and management when the results of other clinical investigations suggest myocardial inflammation, infiltration, or storage that cannot be identified by other means.",
+            "ru": "У пациентов с подозрением на кардиомиопатию следует рассмотреть проведение эндомиокардиальной биопсии (ЭМБ) для уточнения диагноза и тактики ведения, когда данные других клинических исследований указывают на воспаление, инфильтрацию или болезнь накопления миокарда, которые не удается верифицировать иными методами."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -958,7 +958,19 @@
 
       const bodyContainer = this.previewPane.querySelector('#preview-scroll-container');
 
-      if (isQuiz) {
+      if (item.type === 'guideline') {
+        const clsBadge = `<span class="gt-badge" data-class="${item.recClass}" style="display:inline-block; padding:2px 8px; font-weight:800; border-radius:4px; margin-right:6px;">Class ${escapeHtml(item.recClass || '')}</span>`;
+        const lvlBadge = `<span class="gt-badge" data-level="${item.recLevel}" style="display:inline-block; padding:2px 8px; font-weight:800; border-radius:4px;">Level ${escapeHtml(item.recLevel || '')}</span>`;
+        bodyContainer.innerHTML = `
+          <div class="spotlight-snippet-box" style="padding:16px;">
+            <div style="margin-bottom:12px;">${clsBadge} ${lvlBadge}</div>
+            <h4 style="margin:0 0 8px 0; color:var(--spotlight-accent);">${escapeHtml(item.tableTitleRu || item.tableTitleEn || '')}</h4>
+            <div style="font-size:1.05rem; line-height:1.5; margin-bottom:14px;">${highlightMatch(escapeHtml(item.rowTextRu || item.rowTextEn || ''), this.currentQuery)}</div>
+            ${item.rowTextRu && item.rowTextEn ? `<div style="font-size:0.9rem; opacity:0.75; font-style:italic;">EN: ${highlightMatch(escapeHtml(item.rowTextEn), this.currentQuery)}</div>` : ''}
+          </div>
+        `;
+        this.setupMatchCounter(bodyContainer);
+      } else if (isQuiz) {
         this.renderQuizPreview(item, bodyContainer);
       } else {
         const rawMarkdown = await this.fetchMarkdownContent(item);
@@ -1093,6 +1105,10 @@
     }
 
     buildTargetUrl(item) {
+      if (item.type === 'guideline') {
+        return `../index.html#/tables/${encodeURIComponent(item.tableId)}`;
+      }
+
       if (item.type === 'quiz' || item.sourceId === 'QUIZ') {
         const qFile = item.quizFile || 'books/work/examen/quiz/quiz-2020.json';
         return `../quiz.html?quiz=${encodeURIComponent(qFile)}&q=${item.qId || 1}`;

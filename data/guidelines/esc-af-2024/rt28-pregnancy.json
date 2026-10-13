@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt28-pregnancy",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 28",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for patients with AF during pregnancy",
+    "ru": "Рекомендации для пациенток с фибрилляцией предсердий во время беременности"
+  },
+  "tags": [
+    "af",
+    "pregnancy",
+    "cardioversion",
+    "anticoagulation",
+    "lmwh",
+    "vka",
+    "beta-blockers",
+    "atenolol",
+    "hcm",
+    "digoxin",
+    "ibutilide",
+    "flecainide",
+    "propafenone"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for patients with AF during pregnancy",
+        "ru": "Рекомендации для пациенток с ФП во время беременности"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Immediate electrical cardioversion is recommended in patients with AF during pregnancy and haemodynamic instability or pre-excited AF to improve maternal and foetal outcomes.",
+            "ru": "Неотложная электрическая кардиоверсия рекомендуется беременным пациенткам с ФП при гемодинамической нестабильности или ФП с предвозбуждением желудочков для улучшения исходов у матери и плода."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Therapeutic anticoagulation with LMWHs or VKAs (except VKAs for the first trimester or beyond Week 36) is recommended for pregnant patients with AF at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Терапевтическая антикоагулянтная терапия НМГ или АВК (за исключением АВК в первом триместре и после 36-й недели) рекомендуется беременным пациенткам с ФП и повышенным тромбоэмболическим риском для профилактики ишемического инсульта и тромбоэмболий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Beta-1 selective blockers are recommended for heart rate control of AF in pregnancy to reduce symptoms and improve maternal and foetal outcomes, excluding atenolol.",
+            "ru": "Бета-1-селективные адреноблокаторы рекомендуются для контроля частоты сердечных сокращений при ФП во время беременности для уменьшения симптомов и улучшения исходов у матери и плода, за исключением атенолола."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Electrical cardioversion should be considered for persistent AF in pregnant women with HCM to improve maternal and foetal outcomes.",
+            "ru": "Электрическая кардиоверсия должна рассматриваться при персистирующей ФП у беременных женщин с ГКМП для улучшения исходов у матери и плода."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Digoxin should be considered for heart rate control of AF in pregnancy, if beta-blockers are ineffective or not tolerated, to reduce symptoms and improve maternal and foetal outcomes.",
+            "ru": "Дигоксин должен рассматриваться для контроля частоты сокращений желудочков при ФП у беременных при неэффективности или непереносимости бета-блокаторов для уменьшения симптомов и улучшения исходов у матери и плода."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Intravenous ibutilide or flecainide may be considered for termination of AF in stable pregnant patients with a structurally normal heart to improve maternal and foetal outcomes.",
+            "ru": "Внутривенное введение ибутилида или флекаинида может рассматриваться для купирования ФП у стабильных беременных пациенток со структурно нормальным сердцем для улучшения исходов у матери и плода."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Flecainide or propafenone may be considered for longer-term rhythm control in pregnancy, if rate controlling drugs are ineffective or not tolerated, to reduce symptoms and improve maternal and foetal outcomes.",
+            "ru": "Флекаинид или пропафенон могут рассматриваться для долгосрочного контроля ритма во время беременности, если препараты для контроля ЧСС неэффективны или плохо переносятся, для уменьшения симптомов и улучшения исходов у матери и плода."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

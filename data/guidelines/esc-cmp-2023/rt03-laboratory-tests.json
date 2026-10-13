@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt03-laboratory-tests",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 3",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for laboratory tests in the diagnosis of cardiomyopathies",
+    "ru": "Рекомендации по лабораторным исследованиям в диагностике кардиомиопатий"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "laboratory-tests",
+    "workup",
+    "diagnosis"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for laboratory tests in the diagnosis of cardiomyopathies",
+        "ru": "Рекомендации по лабораторным исследованиям в диагностике кардиомиопатий"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Routine (first-level) laboratory tests are recommended in all patients with suspected or confirmed cardiomyopathy to evaluate aetiology, assess disease severity, and aid in detection of extracardiac manifestations and assessment of secondary organ dysfunction.",
+            "ru": "Рутинные лабораторные исследования первого уровня рекомендуются всем пациентам с подозрением на кардиомиопатию или подтвержденным диагнозом для оценки этиологии, тяжести заболевания, а также для выявления экстракардиальных проявлений и вторичной органной дисфункции."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Additional (second-level) tests should be considered in patients with cardiomyopathy and extracardiac features to aid in detection of metabolic and syndromic causes, following specialist evaluation.",
+            "ru": "Дополнительные исследования второго уровня следует рассмотреть у пациентов с кардиомиопатией и экстракардиальными признаками для выявления метаболических и синдромальных причин после консультации профильного специалиста."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

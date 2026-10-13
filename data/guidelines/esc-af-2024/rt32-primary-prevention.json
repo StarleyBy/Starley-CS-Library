@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt32-primary-prevention",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 32",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for primary prevention of AF",
+    "ru": "Рекомендации по первичной профилактике фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "primary-prevention",
+    "blood-pressure",
+    "acei",
+    "arb",
+    "heart-failure",
+    "hfref",
+    "weight",
+    "exercise",
+    "alcohol",
+    "metformin",
+    "sglt2i"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for primary prevention of AF",
+        "ru": "Рекомендации по первичной профилактике ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Maintaining optimal blood pressure is recommended in the general population to prevent AF, with ACE inhibitors or ARBs as first-line therapy.",
+            "ru": "В общей популяции рекомендуется поддержание оптимального уровня артериального давления для профилактики ФП, при этом ингибиторы АПФ или БРА рекомендуются в качестве терапии первой линии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Appropriate medical HF therapy is recommended in individuals with HFrEF to prevent AF.",
+            "ru": "Надлежащая медикаментозная терапия сердечной недостаточности рекомендуется пациентам с СНнФВ для профилактики ФП."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Maintaining normal weight (BMI 20–25 kg/m²) is recommended for the general population to prevent AF.",
+            "ru": "Поддержание нормальной массы тела (ИМТ 20–25 кг/м²) рекомендуется в общей популяции для профилактики ФП."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Maintaining an active lifestyle is recommended to prevent AF, with the equivalent of 150–300 min per week of moderate intensity or 75–150 min per week of vigorous intensity aerobic physical activity.",
+            "ru": "Для профилактики ФП рекомендуется поддержание активного образа жизни с аэробной физической активностью умеренной интенсивности в объеме 150–300 мин в неделю или высокой интенсивности 75–150 мин в неделю."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Avoidance of binge drinking and alcohol excess is recommended in the general population to prevent AF.",
+            "ru": "В общей популяции для профилактики ФП рекомендуется избегать эпизодов злоупотребления алкоголем (binge drinking) и чрезмерного его потребления."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Metformin or SGLT2 inhibitors should be considered for individuals needing pharmacological management of diabetes mellitus to prevent AF.",
+            "ru": "Метформин или ингибиторы SGLT2 должны рассматриваться у пациентов, нуждающихся в фармакологическом лечении сахарного диабета, для профилактики ФП."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Weight reduction should be considered in obese individuals to prevent AF.",
+            "ru": "Снижение массы тела должно рассматриваться у лиц с ожирением с целью профилактики ФП."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

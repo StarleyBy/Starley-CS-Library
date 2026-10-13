@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t19-scd-risk-features",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 19",
+  "type": "grid",
+  "title": {
+    "en": "Major clinical features associated with an increased risk of sudden cardiac death in hypertrophic cardiomyopathy",
+    "ru": "Основные клинические факторы, ассоциированные с повышенным риском внезапной сердечной смерти при ГКМП"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "hcm",
+    "scd",
+    "risk-stratification",
+    "nsvt",
+    "syncope",
+    "wall-thickness",
+    "family-history"
+  ],
+  "columns": [
+    {
+      "id": "c_factor",
+      "title": {
+        "en": "Risk factor",
+        "ru": "Фактор риска"
+      }
+    },
+    {
+      "id": "c_comment",
+      "title": {
+        "en": "Comment",
+        "ru": "Клинический комментарий и значение"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Age",
+            "ru": "Возраст"
+          }
+        },
+        {
+          "text": {
+            "en": "• The effect of age on SCD has been examined in a number of studies and two have shown a significant association, with an increased risk of SCD in younger patients.\n• Some risk factors appear to be more important in younger patients, most notably NSVT, severe LVH, and unexplained syncope.\n• Sudden cardiac death is very rare below the age of 6 years, and there are some data to suggest a peak of SCD in childhood HCM between 9 and 15 years; however, the association between age at diagnosis and SCD risk in childhood HCM remains unclear.",
+            "ru": "• Влияние возраста на риск ВСС подтверждено: у более молодых пациентов риск ВСС существенно выше.\n• Ряд факторов риска имеет больший вес именно в молодом возрасте, в частности пробежки неустойчивой ЖТ (НЖТ), тяжелая ГЛЖ и необъяснимые синкопе.\n• ВСС крайне редка в возрасте до 6 лет; в детском возрасте отмечается пик частоты между 9 и 15 годами."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "NSVT",
+            "ru": "Неустойчивая желудочковая тахикардия (НЖТ)"
+          }
+        },
+        {
+          "text": {
+            "en": "• NSVT (defined as ≥3 consecutive ventricular beats at ≥120 b.p.m. lasting <30 s) occurs in 20–30% of patients during ambulatory ECG monitoring and is an independent predictor of SCD.\n• There is no evidence that the frequency, duration, or rate of NSVT influences the risk of SCD.\n• NSVT occurring during or immediately following exercise is very rare, but may be associated with a high risk of SCD.",
+            "ru": "• НЖТ (определяется как ≥3 последовательных желудочковых комплекса с ЧСС ≥120 уд/мин продолжительностью <30 с) регистрируется у 20–30% пациентов при суточном мониторировании ЭКГ и является независимым предиктором ВСС.\n• Нет убедительных данных, что частота пароксизмов или их длительность дополнительно повышают риск.\n• НЖТ во время или сразу после физической нагрузки встречается редко, но ассоциирована с очень высоким риском ВСС."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Maximum LV wall thickness",
+            "ru": "Максимальная толщина стенки ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "• The severity and extent of LVH measured by TTE are associated with the risk of SCD.\n• Several studies have shown the greatest risk of SCD in patients with a maximum wall thickness of ≥30 mm; however, there are few data in patients with extreme hypertrophy (≥35 mm).",
+            "ru": "• Степень и распространенность ГЛЖ по данным ЭхоКГ напрямую связаны с риском ВСС.\n• Наибольший риск ВСС доказан у пациентов с максимальной толщиной стенки ≥30 мм («экстремальная гипертрофия»)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Family history of sudden cardiac death at a young age",
+            "ru": "Отягощенный семейный анамнез ВСС в молодом возрасте"
+          }
+        },
+        {
+          "text": {
+            "en": "• While definitions vary, a family history of SCD is usually considered clinically significant when one or more first-degree relatives have died suddenly aged <40 years with or without a diagnosis of HCM, or when SCD has occurred in a first-degree relative at any age with an established diagnosis of HCM.\n• Family history of SCD does not appear to be an independent risk factor for SCD in childhood HCM (due to de novo variants, non-sarcomeric causes).",
+            "ru": "• Клинически значимым считается случай внезапной смерти одного или более родственников 1-й степени в возрасте <40 лет (с диагнозом ГКМП или без него), либо случай ВСС у родственника 1-й степени в любом возрасте при установленном диагнозе ГКМП.\n• В детской популяции ГКМП семейный анамнез реже выступает независимым предиктором (высокая доля мутаций de novo и несаркомерных причин)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Syncope",
+            "ru": "Синкопальные состояния"
+          }
+        },
+        {
+          "text": {
+            "en": "• Syncope is common in patients with HCM but is challenging to assess, as it has multiple causes.\n• Non-neurocardiogenic syncope for which there is no explanation after investigation is associated with an increased risk of SCD.\n• Episodes within 6 months of evaluation may be more predictive of SCD.",
+            "ru": "• Синкопе часты при ГКМП, но требуют тщательной дифференциальной диагностики причин.\n• Не-нейрокардиогенные синкопе, остающиеся необъяснимыми после обследования, ассоциированы с повышенным риском ВСС.\n• Эпизоды синкопе, возникшие в предшествующие 6 месяцев до обследования, обладают максимальной прогностической силой."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Left atrial diameter",
+            "ru": "Размер (диаметр) левого предсердия"
+          }
+        },
+        {
+          "text": {
+            "en": "• Several studies have reported a positive association between LA size and SCD. There are no data on the association between SCD and LA area or volume. Measurement of LA size is also important in assessing the risk of AF.",
+            "ru": "• Исследования подтверждают прямую корреляцию между переднезадним размером ЛП и риском ВСС. Измерение размеров ЛП также критично для оценки риска развития фибрилляции предсердий."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "LV outflow tract obstruction",
+            "ru": "Обструкция выходного тракта ЛЖ (градиент ВТЛЖ)"
+          }
+        },
+        {
+          "text": {
+            "en": "• A number of studies have reported a significant association between LVOTO and SCD risk. Several unanswered questions remain, including the prognostic importance of provocable LVOTO and the impact of treatment (medical or invasive) on SCD.\n• In childhood HCM, there are conflicting data on the association between LVOTO and SCD risk.",
+            "ru": "• Ряд исследований подтверждает значимую связь между наличием обструкции ВТЛЖ в покое и риском ВСС.\n• В детской когорте ГКМП данные о связи градиента ВТЛЖ с ВСС остаются противоречивыми."
+          }
+        }
+      ]
+    }
+  ]
+}

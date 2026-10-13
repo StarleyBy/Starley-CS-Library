@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "guidelines": [
+    { "id": "esc-af-2024", "path": "esc-af-2024/" },
+    { "id": "esc-cmp-2023", "path": "esc-cmp-2023/" },
+    { "id": "esc-acs-2023", "path": "esc-acs-2023/" },
+    { "id": "esc-achd-2020", "path": "esc-achd-2020/" }
+  ]
+}

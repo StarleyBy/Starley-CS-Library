@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt19-univentricular-heart",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec UVH",
+  "type": "recommendations",
+  "title": {
+    "en": "Special considerations and recommendations for intervention in univentricular heart",
+    "ru": "Особые аспекты и рекомендации по вмешательствам при единственном желудочке сердца"
+  },
+  "tags": [
+    "achd",
+    "uvh",
+    "single-ventricle",
+    "glenn",
+    "fontan",
+    "pa-banding"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that adults with unoperated or palliated UVHs undergo careful evaluation in specialized centres, including multimodality imaging as well as invasive work-up to decide whether they may benefit from surgical or interventional procedures.",
+            "ru": "Взрослым с неоперированным или паллиативно оперированным единственным желудочком сердца рекомендуется пройти тщательное обследование в специализированных центрах, включая мультимодальную визуализацию и инвазивную диагностику, для решения вопроса о пользе хирургических или интервенционных вмешательств."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Only well-selected symptomatic cyanotic patients, after careful evaluation [low pulmonary vascular resistances, adequate function of the AV valve(s), preserved ventricular function], should be considered candidates for a Fontan circulation.",
+            "ru": "Только тщательно отобранных симптомных цианотичных пациентов после скрупулезной оценки [низкое легочное сосудистое сопротивление, адекватная функция АВ-клапана(-ов), сохранная функция желудочка] следует рассматривать как кандидатов на создание гемодинамики Фонтена."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Patients with increased pulmonary blood flow — unlikely at adult age — should be considered for PA banding or tightening of a previously placed band.",
+            "ru": "У пациентов с увеличенным легочным кровотоком (маловероятно во взрослом возрасте) следует рассматривать суживание (бандирование) ЛА или подтягивание ранее наложенной манжеты."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Patients with severe cyanosis and decreased pulmonary blood flow, but without elevated PVR or PAP, should be considered for a bidirectional Glenn shunt.",
+            "ru": "У пациентов с выраженным цианозом и сниженным легочным кровотоком, но без повышенного ЛСС или давления в ЛА, следует рассматривать формирование двунаправленного анастомоза Гленна."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Patients with severe cyanosis and decreased pulmonary blood flow not suitable for a Glenn shunt may be considered for a systemic-to-PA shunt.",
+            "ru": "У пациентов с выраженным цианозом и сниженным легочным кровотоком, не подходящих для анастомоза Гленна, может рассматриваться наложение системно-легочного шунта."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Heart transplantation and heart-lung transplantation should be considered when there is no conventional surgical option in patients with poor clinical status.",
+            "ru": "Трансплантацию сердца или комплекса сердце-легкие следует рассматривать при отсутствии возможностей стандартного хирургического лечения у пациентов в тяжелом клиническом состоянии."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

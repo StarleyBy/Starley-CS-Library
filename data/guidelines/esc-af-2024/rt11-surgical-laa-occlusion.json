@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt11-surgical-laa-occlusion",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 11",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for surgical left atrial appendage occlusion",
+    "ru": "Рекомендации по хирургической окклюзии ушка левого предсердия"
+  },
+  "tags": [
+    "af",
+    "laa",
+    "surgical-closure",
+    "cardiac-surgery",
+    "hybrid-ablation",
+    "endoscopic"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for surgical left atrial appendage occlusion",
+        "ru": "Рекомендации по хирургической окклюзии ушка левого предсердия"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Surgical closure of the left atrial appendage is recommended as an adjunct to oral anticoagulation in patients with AF undergoing cardiac surgery to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Хирургическое закрытие ушка левого предсердия рекомендуется как дополнение к оральной антикоагуляции у пациентов с ФП, переносящих кардиохирургическую операцию, для профилактики ишемического инсульта и системных тромбоэмболий."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Surgical closure of the left atrial appendage should be considered as an adjunct to oral anticoagulation in patients with AF undergoing endoscopic or hybrid AF ablation to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Хирургическое закрытие ушка левого предсердия следует рассматривать как дополнение к оральной антикоагуляции у пациентов с ФП, которым проводится эндоскопическая или гибридная аблация ФП, для профилактики ишемического инсульта и системных тромбоэмболий."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Stand-alone endoscopic surgical closure of the left atrial appendage may be considered in patients with AF and contraindications for long-term anticoagulant treatment to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Изолированное эндоскопическое хирургическое закрытие ушка левого предсердия может рассматриваться у пациентов с ФП и противопоказаниями к длительной антикоагулянтной терапии для профилактики ишемического инсульта и системных тромбоэмболий."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

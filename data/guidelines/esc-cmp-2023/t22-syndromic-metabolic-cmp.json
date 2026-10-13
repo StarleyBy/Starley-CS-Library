@@ -1,0 +1,487 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t22-syndromic-metabolic-cmp",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 22",
+  "type": "grid",
+  "title": {
+    "en": "Clinical features and management of syndromic and metabolic cardiomyopathies",
+    "ru": "Клинические проявления и подходы к ведению синдромальных и метаболических кардиомиопатий"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "syndromic",
+    "metabolic",
+    "rasopathy",
+    "mitochondrial",
+    "pompe",
+    "danon",
+    "prkag2",
+    "friedreich",
+    "amyloidosis",
+    "fabry",
+    "dmd",
+    "lmna",
+    "sarcoidosis",
+    "haemochromatosis"
+  ],
+  "columns": [
+    {
+      "id": "c_red_flags",
+      "title": {
+        "en": "Clinical red flags",
+        "ru": "Клинические «красные флажки»"
+      }
+    },
+    {
+      "id": "c_diagnosis",
+      "title": {
+        "en": "Diagnosis",
+        "ru": "Диагностический поиск"
+      }
+    },
+    {
+      "id": "c_cause",
+      "title": {
+        "en": "Specific cause",
+        "ru": "Специфическая причина / синдром"
+      }
+    },
+    {
+      "id": "c_team",
+      "title": {
+        "en": "Multidisciplinary team",
+        "ru": "Мультидисциплинарная команда"
+      }
+    },
+    {
+      "id": "c_management",
+      "title": {
+        "en": "Management",
+        "ru": "Тактика ведения и лечение"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Abnormal facial features, cryptorchidism, pulmonary valve stenosis, congenital heart disease, extreme right-axis deviation at ECG, lymphangiectasis, bleeding diathesis, café au lait spots, lentigines, growth retardation, sensorineural deafness",
+            "ru": "Дисморфичные черты лица, крипторхизм, стеноз клапана легочной артерии, врожденные пороки сердца, резкое отклонение ЭОС вправо на ЭКГ, лимфангиэктазии, геморрагический диатез, пятна «кофе с молоком», лентигиноз, задержка роста, сенсоневральная тугоухость"
+          }
+        },
+        {
+          "text": {
+            "en": "NGS panel testing for RASopathy",
+            "ru": "NGS-панель на гены RAS-патий"
+          }
+        },
+        {
+          "text": {
+            "en": "Noonan syndrome, Costello syndrome, Cardiofaciocutaneous syndrome, Noonan syndrome with multiple lentigines (LEOPARD)",
+            "ru": "Синдром Нунан, синдром Костелло, кардиофациокутанный синдром, синдром Нунан с множественными лентиго (LEOPARD)"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiologist, Geneticist, Endocrinologist, Paediatrician, Dermatologist, Radiologist",
+            "ru": "Кардиолог, генетик, эндокринолог, педиатр, дерматолог, рентгенолог"
+          }
+        },
+        {
+          "text": {
+            "en": "Beta-blockers/CCBs, selective management of RVOTO / pulmonary valvuloplasty, SCD risk stratification",
+            "ru": "Бета-блокаторы / антагонисты кальция, селективное устранение обструкции ВТПЖ / баллонная вальвулопластика ЛА, стратификация риска ВСС"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Short PR interval, end-stage hypokinetic HCM, AV block (Kearns–Sayre syndrome), lactic acidosis, sensorineural deafness, neutropenia (Barth syndrome), diabetes, stroke-like lesions at brain MRI",
+            "ru": "Укороченный интервал PR, терминальная гипокинетическая стадия ГКМП, АВ-блокады (синдром Кернса–Сейра), лактатацидоз, нейросенсорная глухота, нейтропения (синдром Барта), сахарный диабет, инсультоподобные очаги на МРТ головного мозга"
+          }
+        },
+        {
+          "text": {
+            "en": "NGS panel for mtDNA and nuclear DNA; skeletal muscle biopsy / endomyocardial biopsy",
+            "ru": "NGS-панель митохондриальной и ядерной ДНК; биопсия скелетной мышцы / эндомиокардиальная биопсия"
+          }
+        },
+        {
+          "text": {
+            "en": "MELAS syndrome, MERRF syndrome, Leigh syndrome, other mitochondrial diseases, beta-oxidation disorders",
+            "ru": "Синдром MELAS, синдром MERRF, синдром Ли (Лига), другие митохондриальные болезни, нарушения бета-окисления жирных кислот"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiologist, Neurologist, Endocrinologist, Paediatrician, Metabolism expert, Radiologist",
+            "ru": "Кардиолог, невролог, эндокринолог, педиатр, специалист по метаболическим болезням, рентгенолог"
+          }
+        },
+        {
+          "text": {
+            "en": "Avoiding drugs or situational stressors; beta-oxidation disorders: nutritional management, avoidance of fasting, aggressive treatment during metabolic stress, carnitine supplementation (selected cases)",
+            "ru": "Избегать митохондриально-токсичных препаратов и стрессовых триггеров; при нарушениях бета-окисления: диетотерапия, недопущение голодания, терапия при метаболическом кризе, добавка карнитина (в отдельных случаях)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Hepatomegaly, increased aminotransferase enzymes, delayed motor milestones, hypotonia, short PR interval, ECG criteria for extreme LVH",
+            "ru": "Гепатомегалия, повышение трансаминаз (АЛТ, АСТ), задержка моторного развития, мышечная гипотония, укороченный PR, ЭКГ-признаки экстремальной ГЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "Screening: GAA activity in DBS or leucocytes / Glc4 dosing; confirmation: acid alpha-glucosidase assay on skin fibroblasts or muscle biopsy",
+            "ru": "Скрининг: активность кислой альфа-глюкозидазы (GAA) в сухом пятне крови (DBS) или лейкоцитах; подтверждение: определение фермента в фибробластах кожи или биопсия мышцы"
+          }
+        },
+        {
+          "text": {
+            "en": "Type II glycogen storage disease (Pompe disease)",
+            "ru": "Гликогеноз II типа (болезнь Помпе)"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiologist, General Paediatrician / neonatologist, Gastroenterologist, Neuromuscular disease specialist",
+            "ru": "Кардиолог, педиатр/неонатолог, гастроэнтеролог, специалист по нервно-мышечным болезням"
+          }
+        },
+        {
+          "text": {
+            "en": "Enzyme replacement therapy (ERT)",
+            "ru": "Ферментозаместительная терапия (алглюкозидаза альфа)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Short PR interval, massive LVH, skeletal myopathy, increased serum CK enzyme, intellectual disability, X-linked inheritance",
+            "ru": "Укороченный PR, массивная ГЛЖ, скелетная миопатия, повышение сывороточной КФК, задержка интеллектуального развития, Х-сцепленное наследование"
+          }
+        },
+        {
+          "text": {
+            "en": "NGS or target testing for LAMP-2 variants",
+            "ru": "NGS или таргетное секвенирование гена LAMP2"
+          }
+        },
+        {
+          "text": {
+            "en": "Danon disease",
+            "ru": "Болезнь Данона"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiologist, Neuromuscular disease specialist, Pneumologist, Advanced heart failure specialist",
+            "ru": "Кардиолог, специалист по нервно-мышечным болезням, пульмонолог, специалист по тяжелой СН"
+          }
+        },
+        {
+          "text": {
+            "en": "No specific curative treatment; early consideration of heart transplantation",
+            "ru": "Специфической ферментной терапии нет; симптоматическое лечение, раннее направление на трансплантацию сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Short PR interval, early-onset atrial fibrillation, AV block, increased serum CK enzyme, autosomal dominant inheritance pattern",
+            "ru": "Укороченный PR (феномен WPW), ранняя фибрилляция предсердий, АВ-блокады, повышение сывороточной КФК, аутосомно-доминантное наследование"
+          }
+        },
+        {
+          "text": {
+            "en": "NGS or target testing for PRKAG2",
+            "ru": "NGS или таргетное секвенирование гена PRKAG2"
+          }
+        },
+        {
+          "text": {
+            "en": "PRKAG2 syndrome",
+            "ru": "PRKAG2-синдром"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiologist, Neuromuscular disease expert",
+            "ru": "Кардиолог, специалист по нервно-мышечным заболеваниям"
+          }
+        },
+        {
+          "text": {
+            "en": "No specific disease-modifying treatment; pacing / ICD as indicated",
+            "ru": "Специфической модифицирующей терапии нет; ЭКС при АВ-блокадах, ИКД по показаниям"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Progressive limb ataxia, diabetes mellitus, pes cavus, reduced native T1 at CMR imaging",
+            "ru": "Прогрессирующая атаксия конечностей, сахарный диабет, полая стопа («pes cavus»), снижение нативного Т1 при МРТ сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "NGS testing for bi-allelic expansion of GAA repeats in the FXN gene",
+            "ru": "Генетическое тестирование на биаллельную экспансию триплетов GAA в гене FXN"
+          }
+        },
+        {
+          "text": {
+            "en": "Friedreich ataxia",
+            "ru": "Атаксия Фридрейха"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiologist, Neurologist, Endocrinologist, Orthopaedic surgeon, Neuromuscular disease expert",
+            "ru": "Кардиолог, невролог, эндокринолог, травматолог-ортопед, невролог-миолог"
+          }
+        },
+        {
+          "text": {
+            "en": "No specific curative treatment; supportive cardiac management",
+            "ru": "Специфической этиотропной терапии нет; кардиологическая симптоматическая поддержка"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Bilateral carpal tunnel syndrome, lumbar spinal stenosis, autonomic dysfunction, peripheral neuropathy, relative apical sparing pattern, ejection fraction/strain ratio >5, pseudonecrosis Q waves, low ECG voltages OR positive serum or urine monoclonal chain at immunofixation",
+            "ru": "Двусторонний синдром запястного канала, стеноз поясничного отдела позвоночника, вегетативная дисфункция, периферическая полинейропатия, феномен apical sparing (сохранение деформации на верхушке), отношение ФВ/GLS >5, псевдоинфарктные зубцы Q, низкий вольтаж ЭКГ ИЛИ моноклональный белок/свободные легкие цепи при иммунофиксации сыворотки/мочи"
+          }
+        },
+        {
+          "text": {
+            "en": "DPD/HMDP Tc99 scintigraphy, free light chain / serum and urine immunofixation, endomyocardial biopsy",
+            "ru": "Сцинтиграфия с 99mTc-DPD/HMDP/PYP, свободные легкие цепи (FLC) плазмы, иммунофиксация белков крови и мочи, эндомиокардиальная биопсия"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiac amyloidosis (AL or ATTR)",
+            "ru": "Амилоидоз сердца (AL- или ATTR-форма)"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiologist, Neurologist, Nephrologist, Haematologist (AL amyloidosis), Ophthalmologist",
+            "ru": "Кардиолог, невролог, нефролог, гематолог (при AL-амилоидозе), офтальмолог"
+          }
+        },
+        {
+          "text": {
+            "en": "Tafamidis, patisiran, inotersen (ATTR-CA) OR specific chemotherapy / autologous SCT (AL amyloidosis)",
+            "ru": "Тафамидис, патисиран, инотерсен (при ATTR-амилоидозе) ИЛИ таргетная полихимиотерапия / ауто-ТСКК (при AL-амилоидозе)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "Gastrointestinal symptoms, angiokeratoma, cornea verticillata, chronic kidney disease, proteinuria, sensorineural hypoacusia, stroke/TIA, neuropathic pain, X-linked inheritance pattern, short PR interval, low native T1 at cardiac CMR",
+            "ru": "Желудочно-кишечные расстройства, ангиокератомы кожи, мутовчатая кератопатия (cornea verticillata), хроническая болезнь почек, протеинурия, нейросенсорная тугоухость, ранний инсульт/ТИА, нейропатическая боль (акропарестезии), Х-сцепленное наследование, короткий PR, выраженно сниженный нативный Т1 на МРТ сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "Screening in males: lyso-Gb3 dosing; screening in females / confirmation: genetic testing for GLA variants",
+            "ru": "Скрининг у мужчин: активность альфа-галактозидазы А и уровень lyso-Gb3; у женщин и подтверждение: генетическое тестирование мутаций гена GLA"
+          }
+        },
+        {
+          "text": {
+            "en": "Anderson–Fabry disease",
+            "ru": "Болезнь Андерсона–Фабри"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiologist, Nephrologist, Neurologist, Ophthalmologist, Audiologist, Gastroenterologist, Dermatologist",
+            "ru": "Кардиолог, нефролог, невролог, офтальмолог, сурдолог, гастроэнтеролог, дерматолог"
+          }
+        },
+        {
+          "text": {
+            "en": "Enzyme replacement therapy (agalsidase alfa/beta), chaperone therapy (migalastat)",
+            "ru": "Ферментозаместительная терапия (агалзидаза альфа/бета), шаперонная терапия (мигаластат)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "Skeletal myopathy, posterolateral pseudonecrosis pattern, posterolateral or inferolateral akinesia",
+            "ru": "Скелетная миопатия, псевдоинфарктный рубец в заднебоковой стенке, акинезия заднебоковых и нижнебоковых сегментов ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "Genetic testing for dystrophinopathies (DMD gene)",
+            "ru": "Генетическое тестирование на дистрофинопатии (ген DMD)"
+          }
+        },
+        {
+          "text": {
+            "en": "Duchenne muscular dystrophy (DMD) / Becker MD",
+            "ru": "Мышечная дистрофия Дюшенна (DMD) / Беккера"
+          }
+        },
+        {
+          "text": {
+            "en": "Neurologist, Cardiologist, Pneumologist, Neuromuscular disease expert",
+            "ru": "Невролог, кардиолог, пульмонолог, специалист по нервно-мышечным болезням"
+          }
+        },
+        {
+          "text": {
+            "en": "Steroids (prednisone or deflazacort), standard heart failure therapy",
+            "ru": "Глюкокортикостероиды (преднизолон или дефлазакорт), стандартная кардиопротективная терапия СН"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        {
+          "text": {
+            "en": "Skeletal myopathy, AV block, premature atrial fibrillation, malignant ventricular arrhythmias",
+            "ru": "Скелетная миопатия, АВ-блокады, раннее начало фибрилляции предсердий, злокачественные желудочковые аритмии"
+          }
+        },
+        {
+          "text": {
+            "en": "NGS testing for LMNA gene",
+            "ru": "NGS-тестирование на мутации гена LMNA"
+          }
+        },
+        {
+          "text": {
+            "en": "LMNA cardiomyopathy / Emery–Dreifuss muscular dystrophy",
+            "ru": "LMNA-кардиомиопатия / мышечная дистрофия Эмери–Дрейфуса"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiologist, Neurologist",
+            "ru": "Кардиолог, невролог"
+          }
+        },
+        {
+          "text": {
+            "en": "SCD risk prevention (early ICD implantation), pacing if indicated",
+            "ru": "Профилактика ВСС (ранняя имплантация ИКД при ФВ <50% и нарушениях проводимости), ЭКС по показаниям"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11",
+      "cells": [
+        {
+          "text": {
+            "en": "Bilateral hilar lymphadenopathy, pulmonary infiltrates, uveitis, gastrointestinal involvement, high-degree AV block, frequent VEs, thinned basal interventricular septum, extended LGE at CMR imaging",
+            "ru": "Двусторонняя прикорневая лимфаденопатия, инфильтраты в легких, увеит, поражение ЖКТ, АВ-блокады высокой степени, частая ЖЭС, истончение базального отдела МЖП, распространенный неишемический LGE на МРТ"
+          }
+        },
+        {
+          "text": {
+            "en": "18F-FDG-PET, endomyocardial biopsy, lung / lymph node biopsy",
+            "ru": "ПЭТ с 18F-ФДГ, эндомиокардиальная биопсия, биопсия легких или внутригрудных лимфоузлов"
+          }
+        },
+        {
+          "text": {
+            "en": "Sarcoidosis",
+            "ru": "Саркоидоз сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiologist, Pneumologist, Neurologist, Gastroenterologist",
+            "ru": "Кардиолог, пульмонолог, невролог, гастроэнтеролог"
+          }
+        },
+        {
+          "text": {
+            "en": "Steroids, steroid-sparing immunosuppressant drugs",
+            "ru": "Системные глюкокортикоиды, стероид-сберегающие иммуносупрессивные препараты (метотрексат и др.)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "cells": [
+        {
+          "text": {
+            "en": "Previous transfusions, chronic liver disease, skin pigmentation, diabetes, hypogonadotropic hypogonadism, elevated ferritin, AV block",
+            "ru": "Множественные трансфузии в анамнезе, хроническое поражение печени, бронзовая гиперпигментация кожи, сахарный диабет («бронзовый диабет»), гипогонадотропный гипогонадизм, гиперферритинемия, АВ-блокады"
+          }
+        },
+        {
+          "text": {
+            "en": "Iron status, complete blood count, increased T2* values at CMR imaging (T2* <20 ms indicates cardiac siderosis), genetic test for HFE, HJV, hepcidin receptor, ferroportin, HAMP gene, peripheral blood smear, haemoglobin electrophoresis",
+            "ru": "Показатели обмена железа (ферритин, насыщение трансферрина), ОАК, оценка T2* на МРТ сердца (T2* <20 мс указывает на перегрузку железом), генетическое тестирование (HFE, HJV, HAMP), электрофорез гемоглобина"
+          }
+        },
+        {
+          "text": {
+            "en": "Iron overload cardiomyopathy (haemochromatosis / haemosiderosis)",
+            "ru": "Кардиомиопатия при перегрузке железом (гемохроматоз / гемосидероз)"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiologist, Haematologist, Endocrinologist, Paediatrician, Gastroenterologist",
+            "ru": "Кардиолог, гематолог, эндокринолог, педиатр, гастроэнтеролог"
+          }
+        },
+        {
+          "text": {
+            "en": "Iron-chelating drugs (deferoxamine, deferasirox, deferiprone), phlebotomy (if non-anaemic)",
+            "ru": "Хелаторы железа (дефероксамин, деферазирокс, деферипрон), лечебные кровопускания (при отсутствии анемии)"
+          }
+        }
+      ]
+    }
+  ]
+}

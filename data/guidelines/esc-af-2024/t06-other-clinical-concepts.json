@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.t06-other-clinical-concepts",
+  "guidelineId": "esc-af-2024",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Other clinical concepts relevant to AF",
+    "ru": "Другие клинические концепции, относящиеся к фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "clinical-af",
+    "subclinical-af",
+    "ahre",
+    "af-burden",
+    "cardiomyopathy"
+  ],
+  "columns": [
+    {
+      "id": "c_concept",
+      "title": {
+        "en": "Clinical concept",
+        "ru": "Клиническое понятие"
+      }
+    },
+    {
+      "id": "c_definition",
+      "title": {
+        "en": "Definition",
+        "ru": "Определение"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "**Clinical AF**",
+            "ru": "**Клиническая ФП**"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptomatic or asymptomatic AF that is clearly documented by an ECG (12-lead ECG or other ECG devices). The minimum duration to establish the diagnosis of clinical AF for ambulatory ECG is not clear and depends on the clinical context. Periods of 30 s or more may indicate clinical concern, and trigger further monitoring or risk stratification for thromboembolism.",
+            "ru": "Симптомная или бессимптомная ФП, четко документированная на ЭКГ (12-канальной ЭКГ или других устройствах регистрации ЭКГ). Минимальная продолжительность для установления диагноса клинической ФП при амбулаторном мониторировании ЭКГ однозначно не определена и зависит от клинического контекста. Эпизоды длительностью 30 секунд и более привлекают клиническое внимание и требуют дальнейшего мониторинга или стратификации тромбоэмболического риска."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "**Device-detected subclinical AF**",
+            "ru": "**Субклиническая ФП, выявленная имплантируемыми устройствами**"
+          }
+        },
+        {
+          "text": {
+            "en": "Device-detected subclinical AF refers to asymptomatic episodes of AF detected on continuous monitoring devices. These devices include implanted cardiac electronic devices, for which most atrial high-rate episodes^[a] may be AF, as well as consumer-based wearable monitors. Confirmation is needed by a competent professional reviewing intracardiac electrograms or an ECG-recorded rhythm. Device-detected subclinical AF is a predictor of future clinical AF.",
+            "ru": "Бессимптомные эпизоды ФП, зарегистрированные устройствами непрерывного мониторинга. К таким устройствам относятся имплантируемые электронные сердечные устройства (где большинство эпизодов высокой частоты предсердного ритма [AHRE]^[a] могут представлять собой ФП), а также потребительские носимые мониторы. Требуется верификация квалифицированным специалистом путем анализа внутрисердечных электрограмм или записанного ритма ЭКГ. Выявленная устройствами субклиническая ФП является предиктором развития клинической ФП в будущем."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "**AF burden**",
+            "ru": "**Бремя ФП (AF burden)**"
+          }
+        },
+        {
+          "text": {
+            "en": "The overall time spent in AF during a clearly specified and reported period of monitoring, expressed as a percentage of time.",
+            "ru": "Общее время нахождения в состоянии ФП на протяжении четко определенного периода мониторирования, выраженное в процентах от общего времени наблюдения."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "**Recent-onset AF**",
+            "ru": "**Недавно возникшая ФП (Recent-onset AF)**"
+          }
+        },
+        {
+          "text": {
+            "en": "There is accumulating data on the value of the term recent-onset AF in decision-making for acute pharmacological or electrical cardioversion of AF. The cut-off time interval to define this entity has not yet been established.",
+            "ru": "Накапливаются данные о значении термина «недавно возникшая ФП» для принятия решений об экстренной медикаментозной или электрической кардиоверсии. Точный временной порог для определения этого понятия пока окончательно не установлен."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "**Trigger-induced AF**",
+            "ru": "**ФП, индуцированная триггерными факторами**"
+          }
+        },
+        {
+          "text": {
+            "en": "New AF episode in close proximity to a precipitating and potentially reversible factor.",
+            "ru": "Новый эпизод ФП, возникший в непосредственной временной связи с провоцирующим и потенциально обратимым фактором."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "**Early AF**",
+            "ru": "**Ранняя ФП (Early AF)**"
+          }
+        },
+        {
+          "text": {
+            "en": "The time since diagnosis that qualifies for early AF is dissociated from any underlying atrial cardiomyopathy and is not well defined, broadly ranging from 3 to 24 months. The definition of early AF also does not necessarily determine early timing of intervention.",
+            "ru": "Период с момента постановки диагноза, определяемый как ранняя ФП, не связан напрямую с фоновой предсердной кардиомиопатией и варьирует в широких пределах от 3 до 24 месяцев. Определение «ранней ФП» также не обязательно строго предопределяет сроки инвазивного вмешательства."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "**Self-terminating AF**",
+            "ru": "**Спонтанно купирующаяся ФП**"
+          }
+        },
+        {
+          "text": {
+            "en": "Paroxysmal AF which terminates spontaneously. This definition may be of value for decisions on acute rhythm control taken jointly by the patient and healthcare provider.",
+            "ru": "Пароксизмальная ФП, которая купируется самостоятельно без медицинского вмешательства. Это определение имеет важное значение для совместного принятия решений о неотложном восстановлении ритма."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "**Non-self-terminating AF**",
+            "ru": "**Не купирующаяся спонтанно ФП**"
+          }
+        },
+        {
+          "text": {
+            "en": "Atrial fibrillation which does not terminate spontaneously and, if needed, termination can be achieved only with an intervention.",
+            "ru": "Фибрилляция предсердий, которая не проходит самостоятельно и при необходимости может быть купирована только с помощью медицинского вмешательства."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "**Atrial cardiomyopathy**",
+            "ru": "**Предсердная кардиомиопатия**"
+          }
+        },
+        {
+          "text": {
+            "en": "A combination of structural, electrical, or functional changes in the atria that leads to clinical impact (e.g. progression/recurrence of AF, limited effectiveness of AF therapy, and/or development of heart failure). Atrial cardiomyopathy includes inflammatory and prothrombotic remodelling of the atria, neurohormonal activation (thereby affecting the ventricles), and fibrosis of myocardial tissue.",
+            "ru": "Совокупность структурных, электрических или функциональных изменений в предсердиях, приводящих к клинически значимым последствиям (например, прогрессированию/рецидивам ФП, снижению эффективности антиаритмической терапии и/или развитию сердечной недостаточности). Включает воспалительное и протромботическое ремоделирование предсердий, нейрогормональную активацию (влияющую на желудочки) и фиброз миокарда."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Atrial high-rate episodes are defined as episodes generally lasting more than 5 min with an atrial lead rate ≥170 b.p.m., detected by implanted cardiac devices that allow for automated continuous monitoring and storage of atrial rhythm. Atrial high-rate episodes need to be visually inspected because some may be electrical artefacts or false positives.",
+      "ru": "Эпизоды высокой частоты предсердного ритма (AHRE) определяются как эпизоды, обычно длящиеся более 5 минут с предсердной частотой ≥170 уд/мин, выявленные имплантированными устройствами с автоматическим мониторингом ритма. Требуют визуальной проверки врачом для исключения артефактов и ложноположительных срабатываний."
+    }
+  }
+}

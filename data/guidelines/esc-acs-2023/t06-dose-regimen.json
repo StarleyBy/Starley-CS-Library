@@ -1,0 +1,276 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.t06-dose-regimen",
+  "guidelineId": "esc-acs-2023",
+  "number": "6 (Dosing)",
+  "type": "grid",
+  "title": {
+    "en": "Dose regimen of antiplatelet and anticoagulant drugs in acute coronary syndrome patients",
+    "ru": "Режимы дозирования антиагрегантных и антикоагулянтных препаратов у пациентов с острым коронарным синдромом"
+  },
+  "tags": ["dosing", "antiplatelet", "anticoagulant", "aspirin", "clopidogrel", "prasugrel", "ticagrelor", "cangrelor", "eptifibatide", "tirofiban", "ufh", "enoxaparin", "bivalirudin", "fondaparinux"],
+  "columns": [
+    {
+      "id": "drug",
+      "title": {
+        "en": "Drug",
+        "ru": "Препарат"
+      }
+    },
+    {
+      "id": "regimen",
+      "title": {
+        "en": "Dose regimen & instructions",
+        "ru": "Режим дозирования и инструкции"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec_antiplatelet",
+      "cells": [
+        {
+          "colspan": 2,
+          "tone": "neutral",
+          "text": {
+            "en": "**I. Antiplatelet drugs**",
+            "ru": "**I. Антиагрегантные препараты**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d_aspirin",
+      "cells": [
+        {
+          "text": {
+            "en": "**Aspirin**",
+            "ru": "**Аспирин (Ацетилсалициловая кислота)**"
+          }
+        },
+        {
+          "text": {
+            "en": "LD of 150–300 mg orally or 75–250 mg i.v. if oral ingestion is not possible, followed by oral MD of 75–100 mg o.d.; no specific dose adjustment in CKD patients.",
+            "ru": "Нагрузочная доза (LD) 150–300 мг внутрь или 75–250 мг в/в при невозможности перорального приема, затем поддерживающая доза (MD) 75–100 мг 1 р/сут внутрь; специальной коррекции дозы при ХБП не требуется."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_p2y12",
+      "cells": [
+        {
+          "colspan": 2,
+          "tone": "neutral",
+          "text": {
+            "en": "**P2Y12 receptor inhibitors (oral or i.v.)**",
+            "ru": "**Ингибиторы рецепторов P2Y12 (пероральные или в/в)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d_clopidogrel",
+      "cells": [
+        {
+          "text": {
+            "en": "**Clopidogrel**",
+            "ru": "**Клопидогрел**"
+          }
+        },
+        {
+          "text": {
+            "en": "LD of 300–600 mg orally, followed by an MD of 75 mg o.d.; no specific dose adjustment in CKD patients.\n*Fibrinolysis:* at the time of fibrinolysis an initial dose of 300 mg (75 mg for patients older than 75 years of age).",
+            "ru": "Нагрузочная доза 300–600 мг внутрь, затем поддерживающая доза 75 мг 1 р/сут; коррекции дозы при ХБП не требуется.\n*При фибринолизе:* начальная доза 300 мг (75 мг у пациентов старше 75 лет)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "d_prasugrel",
+      "cells": [
+        {
+          "text": {
+            "en": "**Prasugrel**",
+            "ru": "**Прасугрел**"
+          }
+        },
+        {
+          "text": {
+            "en": "LD of 60 mg orally, followed by an MD of 10 mg o.d. In patients with body weight <60 kg, an MD of 5 mg o.d. is recommended. In patients aged ≥75 years, prasugrel should be used with caution, but a MD of 5 mg o.d. should be used if treatment is deemed necessary. No specific dose adjustment in CKD patients. Prior stroke is a contraindication for prasugrel.",
+            "ru": "Нагрузочная доза 60 мг внутрь, затем поддерживающая доза 10 мг 1 р/сут. У пациентов с массой тела <60 кг рекомендована поддерживающая доза 5 мг 1 р/сут. У пациентов ≥75 лет применять с осторожностью (при необходимости доза 5 мг 1 р/сут). Коррекции при ХБП не требуется. Перенесенный инсульт в анамнезе является противопоказанием."
+          }
+        }
+      ]
+    },
+    {
+      "id": "d_ticagrelor",
+      "cells": [
+        {
+          "text": {
+            "en": "**Ticagrelor**",
+            "ru": "**Тикагрелор**"
+          }
+        },
+        {
+          "text": {
+            "en": "LD of 180 mg orally, followed by an MD of 90 mg b.i.d.; no specific dose adjustment in CKD patients.",
+            "ru": "Нагрузочная доза 180 мг внутрь, затем поддерживающая доза 90 мг 2 раза в сутки; коррекции дозы при ХБП не требуется."
+          }
+        }
+      ]
+    },
+    {
+      "id": "d_cangrelor",
+      "cells": [
+        {
+          "text": {
+            "en": "**Cangrelor**",
+            "ru": "**Кангрелор**"
+          }
+        },
+        {
+          "text": {
+            "en": "Bolus of 30 mcg/kg i.v. followed by 4 mcg/kg/min infusion for at least 2 h or the duration of the procedure (whichever is longer).\n*Transition:* When transitioning to a thienopyridine, administer immediately after stopping cangrelor (clopidogrel 600 mg or prasugrel 60 mg); prasugrel may also be administered 30 min before stopping cangrelor to avoid DDI. Ticagrelor (LD 180 mg) should be administered at the time of PCI to minimize potential gap in platelet inhibition.",
+            "ru": "Болюс 30 мкг/кг в/в с последующей инфузией 4 мкг/кг/мин не менее 2 часов или на протяжении процедуры (что дольше).\n*Переход:* Тиенопиридины назначать сразу после прекращения инфузии (клопидогрел 600 мг или прасугрел 60 мг); прасугрел можно также ввести за 30 мин до окончания инфузии. Тикагрелор (LD 180 мг) следует ввести во время ЧКВ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_gpiibiiia",
+      "cells": [
+        {
+          "colspan": 2,
+          "tone": "neutral",
+          "text": {
+            "en": "**GP IIb/IIIa receptor inhibitors (i.v.)**",
+            "ru": "**Ингибиторы рецепторов GP IIb/IIIa (в/в)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d_eptifibatide",
+      "cells": [
+        {
+          "text": {
+            "en": "**Eptifibatide**",
+            "ru": "**Эптифибатид**"
+          }
+        },
+        {
+          "text": {
+            "en": "Double bolus of 180 mcg/kg i.v. (given at a 10-min interval) followed by an infusion of 2.0 mcg/kg/min for up to 18 h.\n*Renal adjustment:* For CrCl 30–50 mL/min: first LD 180 mcg/kg i.v. bolus (max 22.6 mg); maintenance infusion 1 mcg/kg/min (max 7.5 mg/h). Second LD (if PCI) 180 mcg/kg i.v. bolus (max 22.6 mg) 10 min after first bolus. Contraindicated in end-stage renal disease, prior ICH, ischaemic stroke within 30 days, fibrinolysis, or platelets <100 000/mm³.",
+            "ru": "Двойной болюс 180 мкг/кг в/в (с интервалом 10 мин), затем инфузия 2,0 мкг/кг/мин до 18 ч.\n*При почечной недостаточности:* Клиренс креатинина 30–50 мл/мин: поддерживающая инфузия снижается до 1 мкг/кг/мин. Противопоказан при терминальной ХБП, внутричерепном кровоизлиянии в анамнезе, ишемическом инсульте за последние 30 дней, фибринолизе или тромбоцитах <100 000/мм³."
+          }
+        }
+      ]
+    },
+    {
+      "id": "d_tirofiban",
+      "cells": [
+        {
+          "text": {
+            "en": "**Tirofiban**",
+            "ru": "**Тирофибан**"
+          }
+        },
+        {
+          "text": {
+            "en": "Bolus of 25 mcg/kg i.v. over 3 min, followed by an infusion of 0.15 mcg/kg/min for up to 18 h.\n*Renal adjustment:* For CrCl ≤60 mL/min: LD 25 mcg/kg i.v. over 5 min, maintenance infusion 0.075 mcg/kg/min up to 18 h. Contraindicated in prior ICH, ischaemic stroke within 30 days, fibrinolysis, or platelets <100 000/mm³.",
+            "ru": "Болюс 25 мкг/кг в/в за 3 мин, затем инфузия 0,15 мкг/кг/мин до 18 ч.\n*При почечной недостаточности:* При клиренсе креатинина ≤60 мл/мин поддерживающая инфузия снижается до 0,075 мкг/кг/мин. Противопоказан при внутричерепном кровоизлиянии, ишемическом инсульте за 30 дней, фибринолизе или тромбоцитах <100 000/мм³."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_anticoagulants",
+      "cells": [
+        {
+          "colspan": 2,
+          "tone": "neutral",
+          "text": {
+            "en": "**II. Anticoagulant drugs**",
+            "ru": "**II. Антикоагулянтные препараты**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "d_ufh",
+      "cells": [
+        {
+          "text": {
+            "en": "**UFH**",
+            "ru": "**НФГ (Нефракционированный гепарин)**"
+          }
+        },
+        {
+          "text": {
+            "en": "Initial treatment: i.v. bolus 70–100 U/kg followed by i.v. infusion titrated to achieve an aPTT of 60–80 s.\nDuring PCI: 70–100 U/kg i.v. bolus or according to ACT in case of UFH pre-treatment.",
+            "ru": "Начальная терапия: в/в болюс 70–100 ЕД/кг с последующей в/в инфузией под контролем АЧТВ (целевое 60–80 с).\nВо время ЧКВ: в/в болюс 70–100 ЕД/кг или под контролем АВС (ACT) при предшествующем введении НФГ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "d_enoxaparin",
+      "cells": [
+        {
+          "text": {
+            "en": "**Enoxaparin**",
+            "ru": "**Эноксапарин**"
+          }
+        },
+        {
+          "text": {
+            "en": "Initial treatment: for treatment of ACS 1 mg/kg b.i.d. subcutaneously for a minimum of 2 days and continued until clinical stabilization. In patients whose CrCl is below 30 mL/min, dosage should be reduced to 1 mg/kg o.d.\nDuring PCI: if the last dose of enoxaparin was given less than 8 h before balloon inflation, no additional dosing is needed. If the last s.c. administration was given more than 8 h before balloon inflation, an i.v. bolus of 0.3 mg/kg enoxaparin sodium should be administered.",
+            "ru": "Начальная терапия: 1 мг/кг 2 раза в сутки подкожно не менее 2 дней до клинической стабилизации. При клиренсе креатинина <30 мл/мин доза снижается до 1 мг/кг 1 р/сут.\nВо время ЧКВ: если последняя п/к доза была введена <8 ч назад — дополнительного введения не требуется; если >8 ч назад — вводится в/в болюс 0,3 мг/кг."
+          }
+        }
+      ]
+    },
+    {
+      "id": "d_bivalirudin",
+      "cells": [
+        {
+          "text": {
+            "en": "**Bivalirudin**",
+            "ru": "**Бивалирудин**"
+          }
+        },
+        {
+          "text": {
+            "en": "During PPCI: 0.75 mg/kg i.v. bolus followed by i.v. infusion of 1.75 mg/kg/h for 4 h after the procedure.\nIn patients whose CrCl is below 30 mL/min (by Cockcroft–Gault equation), maintenance infusion should be reduced to 1 mg/kg/h.",
+            "ru": "Во время первичного ЧКВ: в/в болюс 0,75 мг/кг с последующей инфузией 1,75 мг/кг/ч в течение 4 ч после процедуры.\nУ пациентов с клиренсом креатинина <30 мл/мин поддерживающая инфузия снижается до 1 мг/кг/ч."
+          }
+        }
+      ]
+    },
+    {
+      "id": "d_fondaparinux",
+      "cells": [
+        {
+          "text": {
+            "en": "**Fondaparinux**",
+            "ru": "**Фондапаринукс**"
+          }
+        },
+        {
+          "text": {
+            "en": "Initial treatment: 2.5 mg/d subcutaneously.\nDuring PCI: A single bolus of UFH is recommended.\nAvoid if CrCl <20 mL/min.",
+            "ru": "Начальная терапия: 2,5 мг/сут подкожно.\nВо время ЧКВ: рекомендован дополнительный болюс НФГ.\nПротивопоказан при клиренсе креатинина <20 мл/мин."
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "page": 24,
+    "expectedRows": 15
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

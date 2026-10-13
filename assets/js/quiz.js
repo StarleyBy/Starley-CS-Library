@@ -4798,6 +4798,35 @@ function setupQuestionListeners() {
         };
     }
 
+    const btnGuidelines = document.getElementById('btn-tool-guidelines');
+    if (btnGuidelines) {
+        btnGuidelines.onclick = () => {
+            if (window.GuidelineTables) {
+                window.GuidelineTables.open();
+            } else {
+                window.location.hash = '#guidelines';
+            }
+        };
+    }
+
+    // Auto-pause timer when Guidelines open, resume when closed
+    if (window.GuidelineTables) {
+        window.GuidelineTables.onOpen(() => {
+            if (state.sessionTimer && state.sessionTimer.running) {
+                state._wasTimerRunningBeforeGuidelines = true;
+                toggleSessionTimerPause();
+            }
+        });
+        window.GuidelineTables.onClose(() => {
+            if (state._wasTimerRunningBeforeGuidelines) {
+                state._wasTimerRunningBeforeGuidelines = false;
+                if (state.sessionTimer && !state.sessionTimer.running) {
+                    toggleSessionTimerPause();
+                }
+            }
+        });
+    }
+
     // Desktop Keyboard Shortcuts (Arrow keys, Home, End, S for Skip, P for Pause, C for Calc)
     document.addEventListener('keydown', (e) => {
         const questionScreen = document.getElementById('screen-question');

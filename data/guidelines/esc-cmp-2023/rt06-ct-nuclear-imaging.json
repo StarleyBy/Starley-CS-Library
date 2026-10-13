@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt06-ct-nuclear-imaging",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 6",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for computed tomography and nuclear imaging",
+    "ru": "Рекомендации по компьютерной томографии и радионуклидной диагностике"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "ct",
+    "nuclear-imaging",
+    "scintigraphy",
+    "pet",
+    "attr-amyloidosis",
+    "sarcoidosis"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for computed tomography and nuclear imaging",
+        "ru": "Рекомендации по компьютерной томографии и радионуклидной диагностике"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "DPD/PYP/HMDP bone-tracer scintigraphy is recommended in patients with suspected ATTR-related cardiac amyloidosis to aid diagnosis.",
+            "ru": "Сцинтиграфия с остеотропными радиофармпрепаратами (DPD/PYP/HMDP) рекомендуется пациентам с подозрением на ATTR-амилоидоз сердца для подтверждения диагноза."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Contrast-enhanced cardiac CT should be considered in patients with suspected cardiomyopathy who have inadequate echocardiographic imaging and contraindications to CMR.",
+            "ru": "КТ сердца с контрастным усилением следует рассмотреть у пациентов с подозрением на кардиомиопатию при неадекватной визуализации на эхокардиографии и наличии противопоказаний к МРТ сердца."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients with suspected cardiomyopathy, CT-based imaging should be considered to exclude congenital or acquired coronary artery disease as a cause of the observed myocardial abnormality.",
+            "ru": "У пациентов с подозрением на кардиомиопатию следует рассмотреть методы визуализации на основе КТ для исключения врожденной или приобретенной патологии коронарных артерий как причины выявленных изменений миокарда."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "18F-FDG-PET scanning should be considered for the diagnostic work-up in patients with cardiomyopathy in whom cardiac sarcoidosis is suspected.",
+            "ru": "ПЭТ с 18F-ФДГ следует рассмотреть в рамках диагностического поиска у пациентов с кардиомиопатией при подозрении на саркоидоз сердца."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

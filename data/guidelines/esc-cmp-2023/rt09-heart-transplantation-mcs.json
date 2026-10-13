@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt09-heart-transplantation-mcs",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 9",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for cardiac transplantation and mechanical circulatory support in patients with cardiomyopathy",
+    "ru": "Рекомендации по трансплантации сердца и механической поддержке кровообращения у пациентов с кардиомиопатией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "transplantation",
+    "mcs",
+    "lvad",
+    "advanced-heart-failure",
+    "nyha"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Cardiac transplantation",
+        "ru": "Трансплантация сердца"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Orthotopic cardiac transplantation is recommended for eligible cardiomyopathy patients with advanced heart failure (NYHA class III–IV) or intractable ventricular arrhythmia refractory to medical/invasive/device therapy, and who do not have absolute contraindications.",
+            "ru": "Ортотопическая трансплантация сердца рекомендуется подходящим кандидатам с кардиомиопатией и терминальной сердечной недостаточностью (III–IV ФК по NYHA) или рефрактерными желудочковыми аритмиями, резистентными к медикаментозной, инвазивной и аппаратной терапии, при отсутствии абсолютных противопоказаний."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Mechanical circulatory support",
+        "ru": "Механическая поддержка кровообращения (МПК)"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "Mechanical circulatory support therapy should be considered in selected cardiomyopathy patients with advanced heart failure (NYHA class III–IV) despite optimal pharmacological and device treatment, who are otherwise suitable for heart transplantation, to improve symptoms and reduce the risk of heart failure hospitalization from worsening heart failure and premature death while awaiting a transplant.",
+            "ru": "Терапию механической поддержкой кровообращения (МПК) следует рассмотреть у отобранных пациентов с кардиомиопатией и тяжелой сердечной недостаточностью (III–IV ФК по NYHA), несмотря на оптимальную медикаментозную и аппаратную терапию, являющихся кандидатами на трансплантацию («мост к трансплантации»), для облегчения симптомов, снижения риска госпитализаций по поводу СН и преждевременной смерти в период ожидания донорского органа."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Mechanical circulatory support therapy should be considered in selected cardiomyopathy patients with advanced heart failure (NYHA class III–IV) despite optimal pharmacological and device therapy, who are not eligible for cardiac transplantation or other surgical options, and without severe right ventricular dysfunction, to reduce the risk of death and improve symptoms.",
+            "ru": "Терапию механической поддержкой кровообращения (МПК) следует рассмотреть у отобранных пациентов с кардиомиопатией и тяжелой СН (III–IV ФК по NYHA), несмотря на оптимальную терапию, которые не являются кандидатами на трансплантацию сердца или другие хирургические вмешательства («пожизненная терапия/destination therapy»), при отсутствии тяжелой дисфункции правого желудочка, для снижения риска смерти и облегчения симптоматики."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023",
+  "society": "ESC",
+  "year": 2023,
+  "title": {
+    "en": "ESC Guidelines for the management of acute coronary syndromes",
+    "ru": "Рекомендации ESC по ведению острого коронарного синдрома"
+  },
+  "shortTitle": { "en": "ESC ACS 2023", "ru": "ESC ОКС 2023" },
+  "citation": "Eur Heart J. 2023;44(38):3720–3826",
+  "legend": "esc-2023",
+  "abbreviations": {
+    "ACS": { "en": "acute coronary syndrome", "ru": "острый коронарный синдром" },
+    "ECG": { "en": "electrocardiogram", "ru": "электрокардиограмма" },
+    "ESC": { "en": "European Society of Cardiology", "ru": "Европейское общество кардиологов" },
+    "GRACE": { "en": "Global Registry of Acute Coronary Events", "ru": "Глобальный регистр острых коронарных событий" },
+    "hs-cTn": { "en": "high-sensitivity cardiac troponin", "ru": "высокочувствительный сердечный тропонин" },
+    "IRA": { "en": "infarct-related artery", "ru": "инфаркт-связанная артерия" },
+    "MI": { "en": "myocardial infarction", "ru": "инфаркт миокарда" },
+    "NSTE-ACS": { "en": "non-ST-elevation acute coronary syndrome", "ru": "ОКС без подъёма сегмента ST" },
+    "NSTEMI": { "en": "non-ST-elevation myocardial infarction", "ru": "инфаркт миокарда без подъёма сегмента ST" },
+    "PPCI": { "en": "primary percutaneous coronary intervention", "ru": "первичное чрескожное коронарное вмешательство" },
+    "STEMI": { "en": "ST-elevation myocardial infarction", "ru": "инфаркт миокарда с подъёмом сегмента ST" }
+  }
+}

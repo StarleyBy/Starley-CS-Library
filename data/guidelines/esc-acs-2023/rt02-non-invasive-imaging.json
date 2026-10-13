@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt02",
+  "guidelineId": "esc-acs-2023",
+  "number": "2",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for non-invasive imaging in the initial assessment of patients with suspected acute coronary syndrome",
+    "ru": "Рекомендации по неинвазивной визуализации при первичной оценке пациентов с подозрением на острый коронарный синдром"
+  },
+  "tags": [
+    "imaging",
+    "tte",
+    "echocardiography",
+    "ccta",
+    "stress-test",
+    "acs",
+    "shock"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Non-invasive imaging in suspected ACS",
+        "ru": "Неинвазивная визуализация при подозрении на ОКС"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Emergency TTE is recommended in patients with suspected ACS presenting with cardiogenic shock or suspected mechanical complications.",
+            "ru": "Экстренная трансторакальная эхокардиография (ТТ-ЭхоКГ) рекомендована пациентам с подозрением на ОКС при наличии кардиогенного шока или подозрении на механические осложнения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with suspected ACS, non-elevated (or uncertain) hs-cTn levels, no ECG changes and no recurrence of pain, incorporating CCTA or a non-invasive stress imaging test as part of the initial workup should be considered.",
+            "ru": "У пациентов с подозрением на ОКС, неповышенным (или неопределенным) уровнем hs-cTn, без изменений ЭКГ и без рецидива боли включение КТ-коронарографии (CCTA) или неинвазивного стресс-теста с визуализацией в план первичного обследования следует рассмотреть."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Emergency TTE should be considered at triage in cases of diagnostic uncertainty but this should not result in delays in transfer to the cardiac catheterization laboratory if there is suspicion of an acute coronary artery occlusion.",
+            "ru": "Экстренную ТТ-ЭхоКГ следует рассмотреть на этапе медицинской сортировки в случаях диагностической неопределенности, однако это не должно приводить к задержке перевода в рентгеноперационную при подозрении на острую окклюзию коронарной артерии."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Routine, early CCTA in patients with suspected ACS is not recommended.",
+            "ru": "Рутинная ранняя КТ-коронарография (CCTA) у пациентов с подозрением на ОКС не рекомендована."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "page": 11,
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

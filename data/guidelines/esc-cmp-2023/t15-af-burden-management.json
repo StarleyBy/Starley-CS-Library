@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t15-af-burden-management",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 15",
+  "type": "grid",
+  "title": {
+    "en": "Atrial fibrillation burden and management in cardiomyopathies",
+    "ru": "Бремя фибрилляции предсердий и подходы к ее ведению при кардиомиопатиях"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "atrial-fibrillation",
+    "anticoagulation",
+    "rate-control",
+    "rhythm-control",
+    "ablation",
+    "hcm",
+    "dcm",
+    "ndlvc",
+    "arvc",
+    "rcm"
+  ],
+  "columns": [
+    {
+      "id": "c_phenotype",
+      "title": {
+        "en": "Condition",
+        "ru": "Фенотип кардиомиопатии"
+      }
+    },
+    {
+      "id": "c_prevalence",
+      "title": {
+        "en": "AF prevalence",
+        "ru": "Распространенность ФП"
+      }
+    },
+    {
+      "id": "c_incidence",
+      "title": {
+        "en": "Annual incidence",
+        "ru": "Ежегодная заболеваемость"
+      }
+    },
+    {
+      "id": "c_anticoagulation",
+      "title": {
+        "en": "Anticoagulation",
+        "ru": "Антикоагулянтная терапия"
+      }
+    },
+    {
+      "id": "c_rate_control",
+      "title": {
+        "en": "Long-term rate control",
+        "ru": "Длительный контроль ЧЖС"
+      }
+    },
+    {
+      "id": "c_rhythm_control",
+      "title": {
+        "en": "Long-term rhythm control",
+        "ru": "Длительный контроль ритма"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r_hcm",
+      "cells": [
+        { "text": { "en": "HCM", "ru": "ГКМП" } },
+        { "text": { "en": "17–39%", "ru": "17–39%" } },
+        { "text": { "en": "2.8–4.8%", "ru": "2.8–4.8%" } },
+        {
+          "text": {
+            "en": "Always (if no contraindication)",
+            "ru": "Всегда показана (при отсутствии противопоказаний, независимо от шкалы CHA2DS2-VASc)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Beta-blockers (preferred)\n• Verapamil or diltiazem (only if preserved LVEF)\n• Digoxin\n• AV node ablation + CRT or physiological pacing",
+            "ru": "• Бета-блокаторы (предпочтительно)\n• Верапамил или дилтиазем (только при сохранной ФВ ЛЖ)\n• Дигоксин\n• Аблация АВ-узла + СРТ или физиологическая стимуляция"
+          }
+        },
+        {
+          "text": {
+            "en": "Rhythm control is preferred:\n• Amiodarone, dofetilide, disopyramide, sotalol, dronedarone\n• Catheter ablation",
+            "ru": "Контроль ритма предпочтителен:\n• Амиодарон, дофетилид, дизопирамид, соталол, дронедарон\n• Катетерная аблация"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_dcm",
+      "cells": [
+        { "text": { "en": "DCM", "ru": "ДКМП" } },
+        { "text": { "en": "25–49% (higher in LMNA-related)", "ru": "25–49% (выше при LMNA-мутациях)" } },
+        { "text": { "en": "3.8–5.5%", "ru": "3.8–5.5%" } },
+        {
+          "text": {
+            "en": "According to cardio-embolic risk (always if HF or reduced LVEF)",
+            "ru": "В соответствии с кардиоэмболическим риском (всегда при наличии СН или сниженной ФВ ЛЖ)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Beta-blockers (preferred)\n• Digoxin\n• AV node ablation + CRT or physiological pacing",
+            "ru": "• Бета-блокаторы (предпочтительно)\n• Дигоксин\n• Аблация АВ-узла + СРТ или физиологическая стимуляция"
+          }
+        },
+        {
+          "text": {
+            "en": "Rhythm control preferred in case of symptoms or HF / LV dysfunction:\n• Amiodarone, sotalol\n• Catheter ablation",
+            "ru": "Контроль ритма предпочтителен при симптомах, СН или систолической дисфункции ЛЖ:\n• Амиодарон, соталол\n• Катетерная аблация"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_ndlvc",
+      "cells": [
+        { "text": { "en": "NDLVC", "ru": "НДЛЖКМП" } },
+        { "text": { "en": "39.2–43.1%", "ru": "39.2–43.1%" } },
+        { "text": { "en": "4.4–12%", "ru": "4.4–12%" } },
+        {
+          "text": {
+            "en": "According to cardio-embolic risk (always if HF or reduced LVEF)",
+            "ru": "В соответствии с кардиоэмболическим риском (всегда при СН или сниженной ФВ ЛЖ)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Beta-blockers (preferred)\n• Digoxin\n• Verapamil or diltiazem (only if LVEF ≥40%)\n• AV node ablation + CRT or physiological pacing",
+            "ru": "• Бета-блокаторы (предпочтительно)\n• Дигоксин\n• Верапамил или дилтиазем (только при ФВ ЛЖ ≥40%)\n• Аблация АВ-узла + СРТ или физиологическая стимуляция"
+          }
+        },
+        {
+          "text": {
+            "en": "Rhythm control preferred in case of symptoms or HF / LV dysfunction:\n• Flecainide, amiodarone, sotalol\n• Catheter ablation",
+            "ru": "Контроль ритма предпочтителен при симптомах, СН или дисфункции ЛЖ:\n• Флекаинид, амиодарон, соталол\n• Катетерная аблация"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_arvc",
+      "cells": [
+        { "text": { "en": "ARVC", "ru": "АКПЖ" } },
+        { "text": { "en": "9–30%", "ru": "9–30%" } },
+        { "text": { "en": "2.1–2.8%", "ru": "2.1–2.8%" } },
+        {
+          "text": {
+            "en": "According to cardio-embolic risk (always if HF or reduced LVEF)",
+            "ru": "В соответствии с кардиоэмболическим риском (всегда при СН или сниженной ФВ ЛЖ)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Beta-blockers (preferred)\n• Verapamil or diltiazem (only if LVEF ≥40%)\n• AV node ablation + CRT or physiological pacing",
+            "ru": "• Бета-блокаторы (предпочтительно)\n• Верапамил или дилтиазем (только при ФВ ЛЖ ≥40%)\n• Аблация АВ-узла + СРТ или физиологическая стимуляция"
+          }
+        },
+        {
+          "text": {
+            "en": "Rhythm control preferred in case of symptoms or HF / LV dysfunction:\n• Flecainide (associated with beta-blockers)\n• Amiodarone, sotalol\n• Catheter ablation",
+            "ru": "Контроль ритма предпочтителен при симптомах, СН или дисфункции ЛЖ:\n• Флекаинид (в комбинации с бета-блокатором)\n• Амиодарон, соталол\n• Катетерная аблация"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_rcm",
+      "cells": [
+        { "text": { "en": "RCM", "ru": "РКМП" } },
+        { "text": { "en": "45–51%", "ru": "45–51%" } },
+        { "text": { "en": "4.5–10.3%", "ru": "4.5–10.3%" } },
+        {
+          "text": {
+            "en": "Always (if no contraindication)",
+            "ru": "Всегда показана (при отсутствии противопоказаний)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Beta-blockers (preferred, with caution in amyloidosis)\n• Digoxin (with caution)\n• Verapamil or diltiazem (only if ≥40%, avoid in amyloidosis)\n• AV node ablation + CRT or physiological pacing",
+            "ru": "• Бета-блокаторы (предпочтительно, низкие дозы при амилоидозе)\n• Дигоксин (с осторожностью)\n• Верапамил или дилтиазем (только при ФВ ≥40%, избегать при амилоидозе)\n• Аблация АВ-узла + СРТ или физиологическая стимуляция"
+          }
+        },
+        {
+          "text": {
+            "en": "Rhythm control is preferred:\n• Amiodarone\n• Catheter ablation (limited data)",
+            "ru": "Контроль ритма предпочтителен:\n• Амиодарон\n• Катетерная аблация (данные ограничены)"
+          }
+        }
+      ]
+    }
+  ]
+}

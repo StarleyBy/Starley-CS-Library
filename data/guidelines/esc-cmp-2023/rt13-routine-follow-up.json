@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt13-routine-follow-up",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 13",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for routine follow-up of patients with cardiomyopathy",
+    "ru": "Рекомендации по плановому динамическому наблюдению пациентов с кардиомиопатией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "follow-up",
+    "surveillance",
+    "ecg",
+    "echocardiography",
+    "multimodality-imaging"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for routine follow-up of patients with cardiomyopathy",
+        "ru": "Рекомендации по плановому динамическому наблюдению пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that all clinically stable patients with cardiomyopathy undergo routine follow-up using a multiparametric approach that includes ECG and echocardiography every 1 to 2 years.",
+            "ru": "Рекомендуется, чтобы все клинически стабильные пациенты с кардиомиопатией проходили регулярное плановое наблюдение с применением мультипараметрического подхода, включающего ЭКГ и эхокардиографию каждые 1–2 года."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Clinical evaluation with ECG and multimodality imaging is recommended in patients with cardiomyopathy whenever there is a substantial or unexpected change in symptoms.",
+            "ru": "Клиническая оценка с выполнением ЭКГ и мультимодальной визуализации рекомендуется пациентам с кардиомиопатией при любом существенном или неожиданном изменении симптоматики."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

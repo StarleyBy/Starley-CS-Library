@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.t06-cmr-indications",
+  "guidelineId": "esc-achd-2020",
+  "number": "6",
+  "type": "grid",
+  "title": {
+    "en": "Table 6: Indications for cardiovascular magnetic resonance imaging in ACHD patients",
+    "ru": "Таблица 6: Показания к магнитно-резонансной томографии сердца у пациентов с ВЗПС"
+  },
+  "tags": [
+    "achd",
+    "cmr",
+    "mri",
+    "imaging",
+    "indications",
+    "rv-volumes",
+    "shunts",
+    "fibrosis"
+  ],
+  "columns": [
+    {
+      "id": "indication",
+      "title": { "en": "Indications for CMR in ACHD patients", "ru": "Показания к МРТ сердца у пациентов с ВЗПС" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Quantification of RV volumes, EF (including subpulmonary RV, systemic RV, and single ventricle)",
+            "ru": "Количественная оценка объемов и ФВ правого желудочка (включая субпульмональный ПЖ, системный ПЖ и единственный желудочек)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Evaluation of RVOTO and RV–PA conduits",
+            "ru": "Оценка обструкции выводного тракта правого желудочка (ОВТПЖ) и кондуитов ПЖ–ЛА"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Quantification of PR (pulmonary regurgitation)",
+            "ru": "Количественная оценка легочной регургитации"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Evaluation of PAs (stenoses, aneurysms) and the aorta [aneurysm, dissection, coarctation (CCT may be superior)]",
+            "ru": "Оценка ветвей легочной артерии (стенозы, аневризмы) и аорты [аневризма, диссекция, коарктация (КТ сердца может иметь преимущества)]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Evaluation of systemic and pulmonary veins (anomalous connection, obstruction, coronary venous anatomy pre-procedure, etc.)",
+            "ru": "Оценка системных и легочных вен (аномальный дренаж, обструкция, анатомия коронарного синуса перед вмешательствами и др.)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Collaterals and arteriovenous malformations (CCT may be superior)",
+            "ru": "Коллатерали и артериовенозные мальформации (КТ сердца может иметь преимущества)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Coronary anomalies and CAD (CCT is superior for intramural course, slit-like course, acute angle take-off, myocardial bridging, and plaque assessment)",
+            "ru": "Аномалии коронарных артерий и ИБС (КТ превосходит МРТ для оценки интрамурального хода, щелевидного устья, отхождения под острым углом, мышечных мостиков и атеросклеротических бляшек)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "Detection and quantification of myocardial ischaemia by CMR stress perfusion",
+            "ru": "Выявление и количественная оценка ишемии миокарда методом стресс-перфузионной МРТ сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "Evaluation of intra- and extracardiac masses",
+            "ru": "Оценка внутри- и экстракардиальных образований"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        {
+          "text": {
+            "en": "Quantification of myocardial mass (LV and RV)",
+            "ru": "Количественная оценка массы миокарда (левого и правого желудочков)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11",
+      "cells": [
+        {
+          "text": {
+            "en": "Detection and quantification of myocardial fibrosis/scar (late gadolinium enhancement, T1 mapping) tissue characterization (fibrosis, fat, iron, etc.)",
+            "ru": "Выявление и количественная оценка фиброза/рубца миокарда (отсроченное контрастирование гадолинием, Т1-картирование), тканевая характеристика (фиброз, жир, перегрузка железом)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "cells": [
+        {
+          "text": {
+            "en": "Quantification of systemic and pulmonary blood flow to calculate Qp:Qs",
+            "ru": "Количественная оценка системного и легочного кровотока для расчета соотношения Qp:Qs"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13",
+      "cells": [
+        {
+          "text": {
+            "en": "Quantification of perfusion distribution to the right/left lung",
+            "ru": "Количественная оценка распределения легочного кровотока между правым и левым легким"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14",
+      "cells": [
+        {
+          "text": {
+            "en": "Measurement of pulmonary blood flow in patients with multiple sources of blood supply (i.e. with major aorto-pulmonary collateral arteries)",
+            "ru": "Измерение легочного кровотока у пациентов со множественными источниками кровоснабжения (т.е. с большими аорто-легочными коллатеральными артериями — БАЛКА)"
+          }
+        }
+      ]
+    }
+  ]
+}
