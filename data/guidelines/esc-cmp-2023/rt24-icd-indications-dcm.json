@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt24-icd-indications-dcm",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 24",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for an implantable cardioverter defibrillator in patients with dilated cardiomyopathy",
+    "ru": "Рекомендации по применению имплантируемых кардиовертеров-дефибрилляторов у пациентов с дилатационной кардиомиопатией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "dcm",
+    "icd",
+    "scd",
+    "genotype",
+    "high-risk-genes",
+    "lvef",
+    "primary-prevention",
+    "secondary-prevention"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Secondary prevention",
+        "ru": "Вторичная профилактика"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "An ICD is recommended to reduce the risk of sudden death and all-cause mortality in patients with DCM who have survived a cardiac arrest or have recovered from a ventricular arrhythmia causing haemodynamic instability.",
+            "ru": "Имплантация ИКД рекомендуется для снижения риска внезапной смерти и общей смертности пациентам с ДКМП, пережившим остановку сердца или желудочковую аритмию, вызвавшую гемодинамическую нестабильность."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Primary prevention",
+        "ru": "Первичная профилактика"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "An ICD should be considered to reduce the risk of sudden death and all-cause mortality in patients with DCM, symptomatic heart failure, and LVEF ≤35% despite >3 months of OMT.",
+            "ru": "Имплантацию ИКД следует рассмотреть для снижения риска внезапной смерти и общей смертности у пациентов с ДКМП, симптомной сердечной недостаточностью и ФВ ЛЖ ≤35%, несмотря на более 3 месяцев оптимальной медикаментозной терапии (ОМТ)."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "The patient's genotype should be considered in the estimation of SCD risk in DCM.",
+            "ru": "Генотип пациента следует учитывать при оценке риска внезапной сердечной смерти (ВСС) при ДКМП."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "An ICD should be considered in patients with DCM with a genotype associated with high SCD risk and LVEF >35% in the presence of additional risk factors (see Table 21).",
+            "ru": "Имплантацию ИКД следует рассмотреть у пациентов с ДКМП и генотипом высокого риска ВСС при ФВ ЛЖ >35% при наличии дополнительных факторов риска (см. Таблицу 21: синкопе, фиброз/LGE по МРТ, НЖТ, мужской пол и др.)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "An ICD may be considered in selected patients with DCM with a genotype associated with high SCD risk and LVEF >35% without additional risk factors (see Table 21).",
+            "ru": "Имплантация ИКД может быть рассмотрена у отдельных пациентов с ДКМП и генотипом высокого риска ВСС при ФВ ЛЖ >35% даже при отсутствии дополнительных факторов риска."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "An ICD may be considered in patients with DCM without a genotype associated with high SCD risk and LVEF >35% in the presence of additional risk factors (syncope, LGE presence on CMR).",
+            "ru": "Имплантация ИКД может быть рассмотрена у пациентов с ДКМП без генетических мутаций высокого риска при ФВ ЛЖ >35% в случае наличия дополнительных факторов риска (синкопе, наличие фиброза/LGE по данным МРТ сердца)."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

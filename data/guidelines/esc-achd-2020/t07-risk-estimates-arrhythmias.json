@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.t07-risk-estimates-arrhythmias",
+  "guidelineId": "esc-achd-2020",
+  "number": "7",
+  "type": "grid",
+  "title": {
+    "en": "Table 7: Risk estimates for arrhythmic events and bradycardias in ACHD",
+    "ru": "Таблица 7: Оценка риска аритмических событий и брадикардий при ВЗПС"
+  },
+  "tags": [
+    "achd",
+    "arrhythmias",
+    "risk-estimates",
+    "scd",
+    "vt",
+    "snd",
+    "av-block",
+    "svt",
+    "iart"
+  ],
+  "columns": [
+    { "id": "type_chd", "title": { "en": "Type of CHD", "ru": "Тип порока сердца" } },
+    { "id": "avrt", "title": { "en": "SVT: AVRT", "ru": "СВТ: АВРТ" } },
+    { "id": "iart", "title": { "en": "SVT: IART/EAT", "ru": "СВТ: IART/EAT" } },
+    { "id": "af", "title": { "en": "SVT: AF", "ru": "СВТ: ФП" } },
+    { "id": "vt", "title": { "en": "VA: Sustained VT", "ru": "ЖА: Стойкая ЖТ" } },
+    { "id": "scd", "title": { "en": "VA: SCD", "ru": "ВСС" } },
+    { "id": "snd_c", "title": { "en": "SND: Congenital", "ru": "ДССУ: Врожд." } },
+    { "id": "snd_a", "title": { "en": "SND: Acquired", "ru": "ДССУ: Приобр." } },
+    { "id": "avb_c", "title": { "en": "AV block: Congenital", "ru": "АВБ: Врожд." } },
+    { "id": "avb_a", "title": { "en": "AV block: Acquired", "ru": "АВБ: Приобр." } }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        { "text": { "en": "Secundum ASD", "ru": "Вторичный ДМПП" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "(+)", "ru": "(+)" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "(+)", "ru": "(+)" } }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        { "text": { "en": "Superior sinus venosus defect", "ru": "Дефект верхнего венозного синуса" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        { "text": { "en": "AVSD / primum ASD", "ru": "АВК / первичный ДМПП" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "(+)", "ru": "(+)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "(+)", "ru": "(+)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "(+)", "ru": "(+)" } },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        { "text": { "en": "VSD", "ru": "ДМЖП" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "(+)", "ru": "(+)" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "(+)", "ru": "(+)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        { "text": { "en": "Ebstein anomaly", "ru": "Аномалия Эбштейна" } },
+        { "text": { "en": "+++", "ru": "+++" }, "tone": "blue" },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "(+)", "ru": "(+)" } },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        { "text": { "en": "TOF (Tetralogy of Fallot)", "ru": "Тетрада Фалло" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        { "text": { "en": "TGA: Atrial switch (Mustard/Senning)", "ru": "ТМА: Предсердное переключение" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+++", "ru": "+++" }, "tone": "blue" },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "+++", "ru": "+++" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+++", "ru": "+++" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        { "text": { "en": "TGA: Arterial switch (Jatene)", "ru": "ТМА: Артериальное переключение" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "(+)", "ru": "(+)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "(+)", "ru": "(+)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        { "text": { "en": "ccTGA (Congenitally corrected TGA)", "ru": "ccTGA (Скорректированная ТМА)" } },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "(+)", "ru": "(+)" } },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        { "text": { "en": "Fontan: Atriopulmonary connection", "ru": "Фонтен: Атриопульмональное соединение" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+++", "ru": "+++" }, "tone": "blue" },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r11",
+      "cells": [
+        { "text": { "en": "Fontan: Intracardiac lateral tunnel", "ru": "Фонтен: Внутрисердечный латеральный туннель" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r12",
+      "cells": [
+        { "text": { "en": "Fontan: Extracardiac conduit", "ru": "Фонтен: Экстракардиальный кондуит" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r13",
+      "cells": [
+        { "text": { "en": "Eisenmenger / Incompletely palliated CHD", "ru": "Синдром Эйзенменгера / Неполно паллиативный ВПС" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "++", "ru": "++" }, "tone": "blue" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    }
+  ]
+}

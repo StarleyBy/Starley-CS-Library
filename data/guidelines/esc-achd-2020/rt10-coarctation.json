@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt10-coarctation",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec CoA",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention in coarctation and re-coarctation of the aorta",
+    "ru": "Рекомендации по вмешательствам при коарктации и рекоарктации аорты"
+  },
+  "tags": [
+    "achd",
+    "coarctation",
+    "re-coarctation",
+    "stenting",
+    "hypertension",
+    "gradient"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Repair of coarctation or re-coarctation (surgically or catheter based) is indicated in hypertensive patients^[c] with an increased non-invasive gradient between upper and lower limbs confirmed with invasive measurement (peak-to-peak ≥20 mmHg) with preference for catheter treatment (stenting), when technically feasible.",
+            "ru": "Устранение коарктации или рекоарктации (хирургически или эндоваскулярно) показано пациентам с артериальной гипертензией^[c] при повышенном неинвазивном градиенте между верхними и нижними конечностями, подтвержденном инвазивно (пик-пик ≥20 мм рт. ст.), с предпочтением стентирования при технической выполнимости."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Catheter treatment (stenting) should be considered in hypertensive patients^[c] with ≥50% narrowing relative to the aortic diameter at the diaphragm, even if the invasive peak-to-peak gradient is <20 mmHg, when technically feasible.",
+            "ru": "Эндоваскулярное лечение (стентирование) следует рассматривать у пациентов с гипертензией^[c] при сужении просвета аорты ≥50% относительно ее диаметра на уровне диафрагмы, даже если инвазивный градиент пик-пик <20 мм рт. ст., при технической выполнимости."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Catheter treatment (stenting) should be considered in normotensive patients^[c] with an increased non-invasive gradient confirmed with invasive measurement (peak-to-peak ≥20 mmHg), when technically feasible.",
+            "ru": "Эндоваскулярное лечение (стентирование) следует рассматривать у нормотензивных пациентов^[c] при повышенном неинвазивном градиенте, подтвержденном инвазивным измерением (пик-пик ≥20 мм рт. ст.), при технической выполнимости."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Catheter treatment (stenting) may be considered in normotensive patients^[c] with ≥50% narrowing relative to the aortic diameter at the diaphragm, even if the invasive peak-to-peak gradient is <20 mmHg, when technically feasible.",
+            "ru": "Эндоваскулярное лечение (стентирование) может быть рассмотрено у нормотензивных пациентов^[c] при сужении аорты ≥50% относительно диаметра на уровне диафрагмы, даже если инвазивный градиент пик-пик <20 мм рт. ст., при технической выполнимости."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Right arm ambulatory blood pressure monitoring should be considered for the diagnosis of hypertension.",
+      "ru": "Для диагностики гипертензии следует рассматривать суточное мониторирование артериального давления на правой руке."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt21-pacing-obstruction",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 21",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for indications for cardiac pacing in patients with obstruction",
+    "ru": "Рекомендации по показаниям к электрокардиостимуляции у пациентов с обструкцией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "hcm",
+    "lvoto",
+    "pacing",
+    "av-pacing",
+    "dual-chamber-icd"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for indications for cardiac pacing in patients with obstruction",
+        "ru": "Рекомендации по показаниям к электрокардиостимуляции у пациентов с обструкцией"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Sequential AV pacing, with optimal AV interval to reduce the LV outflow tract gradient or to facilitate medical treatment with beta-blockers and/or verapamil, may be considered in selected patients with resting or provocable LVOTO ≥50 mmHg, sinus rhythm, and drug-refractory symptoms, who have contraindications for ASA or septal myectomy or are at high risk of developing heart block following ASA or septal myectomy.",
+            "ru": "Двухкамерную последовательную АВ-стимуляцию с оптимизацией АВ-задержки (для снижения градиента в ВТЛЖ или обеспечения возможности титрации бета-блокаторов и/или верапамила) можно рассмотреть у отдельных пациентов с градиентом в покое или при провокации ≥50 мм рт. ст., синусовым ритмом и рефрактерными симптомами при наличии противопоказаний к спиртовой аблации/миэктомии или высоком риске блокады сердца после них."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with resting or provocable LVOTO ≥50 mmHg, sinus rhythm, and drug-refractory symptoms, in whom there is an indication for an ICD, a dual-chamber ICD (instead of a single-lead device) may be considered, to reduce the LV outflow tract gradient or to facilitate medical treatment with beta-blockers and/or verapamil.",
+            "ru": "У пациентов с градиентом в покое или при провокации ≥50 мм рт. ст., синусовым ритмом и лекарственно-резистентными симптомами, имеющих показания к ИКД, можно рассмотреть выбор двухкамерного ИКД (вместо однокамерного) для снижения градиента в ВТЛЖ или обеспечения медикаментозной терапии бета-блокаторами/верапамилом."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

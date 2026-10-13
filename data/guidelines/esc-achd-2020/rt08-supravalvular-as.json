@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt08-supravalvular-as",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec SupraAS",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention in supravalvular aortic stenosis",
+    "ru": "Рекомендации по вмешательствам при надклапанном аортальном стенозе"
+  },
+  "tags": [
+    "achd",
+    "supravalvular-as",
+    "lvoto",
+    "surgery",
+    "cad",
+    "catheterization"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with symptoms (spontaneous or on exercise test) and mean Doppler gradient ≥40 mmHg, surgery is recommended.",
+            "ru": "У пациентов с симптомами (спонтанными или при нагрузочном тесте) и средним допплеровским градиентом ≥40 мм рт. ст. рекомендуется хирургическое вмешательство."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with mean Doppler gradient <40 mmHg, surgery is recommended when one or more of the following findings are present:\n• Symptoms attributable to obstruction (exertional dyspnoea, angina, syncope)\n• LV systolic dysfunction (EF <50% without other explanation)\n• Surgery required for significant CAD or valvular disease.",
+            "ru": "У пациентов со средним допплеровским градиентом <40 мм рт. ст. операция рекомендуется при наличии одного или нескольких критериев:\n• Симптомы, связанные с обструкцией (одышка при нагрузке, стенокардия, синкопе)\n• Систолическая дисфункция ЛЖ (ФВ <50% без других причин)\n• Необходимость операции по поводу значимой ИБС или порока клапана."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Patients with mean Doppler gradient ≥40 mmHg^[c] — but without symptoms, LV systolic dysfunction, LVH, or abnormal exercise test — may be considered for repair when the surgical risk is low.",
+            "ru": "У пациентов со средним допплеровским градиентом ≥40 мм рт. ст.^[c] без симптомов, дисфункции ЛЖ, ГЛЖ или патологии на нагрузочном тесте может быть рассмотрена коррекция при низком хирургическом риске."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Doppler-derived gradients may overestimate the obstruction and may need confirmation by left heart catheterization.",
+      "ru": "Допплеровские градиенты могут завышать степень обструкции и могут требовать подтверждения при катетеризации левых отделов сердца."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

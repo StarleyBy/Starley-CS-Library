@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt18-antiarrhythmics-maintenance",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 18",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for antiarrhythmic drugs for long-term maintenance of sinus rhythm",
+    "ru": "Рекомендации по антиаритмическим препаратам для долгосрочного удержания синусового ритма"
+  },
+  "tags": [
+    "af",
+    "rhythm-control",
+    "antiarrhythmic",
+    "amiodarone",
+    "dronedarone",
+    "flecainide",
+    "propafenone",
+    "sotalol",
+    "av-block"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for antiarrhythmic drugs for long-term maintenance of sinus rhythm",
+        "ru": "Рекомендации по антиаритмической терапии для длительного удержания синусового ритма"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Amiodarone is recommended in patients with AF and HFrEF requiring long-term antiarrhythmic drug therapy to prevent recurrence and progression of AF, with careful consideration and monitoring for extracardiac toxicity.",
+            "ru": "Амиодарон рекомендуется пациентам с ФП и СНнФВ, нуждающимся в длительной антиаритмической терапии для профилактики рецидивов и прогрессирования ФП, с тщательным мониторингом экстракардиальной токсичности."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Dronedarone is recommended in patients with AF requiring long-term rhythm control, including those with HFmrEF, HFpEF, ischaemic heart disease, or valvular disease to prevent recurrence and progression of AF.",
+            "ru": "Дронедарон рекомендуется пациентам с ФП, нуждающимся в длительном контроле ритма, включая пациентов с СНунФВ, СНсФВ, ИБС или клапанными пороками сердца, для предотвращения рецидивов и прогрессирования ФП."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Flecainide or propafenone is recommended in patients with AF requiring long-term rhythm control to prevent recurrence and progression of AF, excluding those with impaired left ventricular systolic function, severe left ventricular hypertrophy, or coronary artery disease.",
+            "ru": "Флекаинид или пропафенон рекомендуются пациентам с ФП, нуждающимся в длительном контроле ритма для предотвращения рецидивов и прогрессирования ФП, за исключением пациентов со сниженной систолической функцией ЛЖ, выраженной гипертрофией ЛЖ или ИБС."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Concomitant use of a beta-blocker, diltiazem, or verapamil should be considered in AF patients treated with flecainide or propafenone, to prevent 1:1 conduction if their rhythm is transformed to atrial flutter.",
+            "ru": "Одновременный прием бета-блокатора, дилтиазема или верапамила следует рассматривать у пациентов с ФП, получающих флекаинид или пропафенон, для предотвращения проведения 1:1 в случае трансформации ритма в трепетание предсердий."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Sotalol may be considered in patients with AF requiring long-term rhythm control with normal LVEF or coronary artery disease to prevent recurrence and progression of AF, but requires close monitoring of QT interval, serum potassium levels, renal function, and other proarrhythmia risk factors.",
+            "ru": "Соталол может рассматриваться у пациентов с ФП, нуждающихся в длительном контроле ритма, при нормальной ФВ ЛЖ или наличии ИБС для предотвращения рецидивов и прогрессирования ФП, но требует строгого мониторинга интервала QT, калия сыворотки, функции почек и других факторов проаритмии."
+          },
+          "class": "IIb",
+          "level": "A"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Antiarrhythmic drug therapy is not recommended in patients with advanced conduction disturbances unless antibradycardia pacing is provided.",
+            "ru": "Антиаритмическая лекарственная терапия не рекомендуется пациентам с выраженными нарушениями проводимости, если не обеспечена постоянная антибрадикардитическая электрокардиостимуляция."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

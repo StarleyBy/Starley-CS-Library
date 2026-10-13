@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt14-tof-repair",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec TOF",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention after repair of tetralogy of Fallot",
+    "ru": "Рекомендации по вмешательствам после радикальной коррекции тетрады Фалло"
+  },
+  "tags": [
+    "achd",
+    "tof",
+    "tetralogy-of-fallot",
+    "pvrep",
+    "tpvi",
+    "pulmonary-regurgitation",
+    "rv-volumes",
+    "vt",
+    "icd"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "PVRep is recommended in symptomatic patients with severe PR^[c] and/or at least moderate RVOTO.^[d]",
+            "ru": "Протезирование легочного клапана (PVRep) рекомендуется симптомным пациентам с тяжелой легочной регургитацией^[c] и/или как минимум умеренной ОВТПЖ.^[d]"
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with no native outflow tract,^[e] catheter intervention (TPVI) should be preferred if anatomically feasible.",
+            "ru": "У пациентов без нативного выводного тракта^[e] предпочтение следует отдавать транскатетерной имплантации клапана легочной артерии (TPVI) при анатомической осуществимости."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "PVRep should be considered in asymptomatic patients with severe PR and/or RVOTO when one of the following criteria is present:\n• Decrease in objective exercise capacity\n• Progressive RV dilation to RVESVi ≥80 mL/m², and/or RVEDVi ≥160 mL/m²,^[f] and/or progression of TR to at least moderate\n• Progressive RV systolic dysfunction\n• RVOTO with RVSP >80 mmHg.",
+            "ru": "Протезирование легочного клапана следует рассматривать у бессимптомных пациентов с тяжелой ЛР и/или ОВТПЖ при наличии одного из критериев:\n• Снижение объективной толерантности к нагрузке\n• Прогрессирующая дилатация ПЖ (иКСО ≥80 мл/м² и/или иКДО ≥160 мл/м²^[f]) и/или прогрессирование ТР до как минимум умеренной\n• Прогрессирующая систолическая дисфункция ПЖ\n• ОВТПЖ с давлением в ПЖ (RVSP) >80 мм рт. ст."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "VSD closure should be considered in patients with residual VSD and significant LV volume overload or if the patient is undergoing pulmonary valve surgery.",
+            "ru": "Закрытие резидуального ДМЖП следует рассматривать при значимой объемной перегрузке ЛЖ либо при выполнении операции на легочном клапане."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients with sustained VT who are undergoing surgical PVRep or transcutaneous valve insertion, pre-operative catheter mapping and transsection of VT-related anatomical isthmuses before or during the intervention should be considered.",
+            "ru": "У пациентов со стойкой ЖТ, направляемых на хирургическое или транскатетерное протезирование легочного клапана, следует рассматривать предоперационное картирование и пересечение анатомических перешейков ЖТ до или во время вмешательства."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Electrophysiologic evaluation, including programmed electrical stimulation, should be considered for risk stratification for SCD in patients with additional risk factors (LV/RV dysfunction, non-sustained, symptomatic VT, QRS duration ≥180 ms, extensive RV scarring on CMR).",
+            "ru": "ЭФИ с программированной стимуляцией следует рассматривать для стратификации риска ВСС у пациентов с факторами риска (дисфункция ЛЖ/ПЖ, неустойчивая симптомная ЖТ, QRS ≥180 мс, выраженный фиброз ПЖ по МРТ)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "ICD implantation should be considered in selected TOF patients with multiple risk factors for SCD, including LV dysfunction, non-sustained, symptomatic VT, QRS duration ≥180 ms, extensive RV scarring on CMR, or inducible VT at programmed electrical stimulation.",
+            "ru": "Имплантацию ИКД следует рассматривать у отобранных пациентов с тетрадой Фалло с множественными факторами риска ВСС (дисфункция ЛЖ, симптомная неустойчивая ЖТ, QRS ≥180 мс, выраженный фиброз по МРТ или индуцируемая ЖТ при ЭФИ)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Catheter ablation or concomitant surgical ablation for symptomatic monomorphic sustained VT may be considered in those with a preserved biventricular function as an alternative to ICD therapy, provided that the procedure is performed in highly experienced centres and that established ablation endpoints have been reached (e.g. non-inducibility, conduction block across ablation lines).",
+            "ru": "Катетерная или одномоментная хирургическая аблация симптомной мономорфной стойкой ЖТ может рассматриваться при сохранной бивентрикулярной функции как альтернатива ИКД в высокоэкспертных центрах при достижении четких конечных точек (неиндуцируемость, блок проведения)."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Regurgitant fraction by CMR >30–40%.",
+      "ru": "Фракция регургитации по данным МРТ сердца >30–40%."
+    },
+    "d": {
+      "en": "Peak velocity >3 m/s.",
+      "ru": "Пиковая скорость кровотока >3 м/с."
+    },
+    "e": {
+      "en": "Patients with previous RVOT surgery using homografts, bovine jugular vein grafts, bioprostheses/conduits.",
+      "ru": "Пациенты после предшествующих операций на ВТПЖ с использованием гомографтов, яремных вен быка, биопротезов/кондуитов."
+    },
+    "f": {
+      "en": "Confirmed by repeated measurements.",
+      "ru": "Подтверждено повторными измерениями."
+    }
+  },
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

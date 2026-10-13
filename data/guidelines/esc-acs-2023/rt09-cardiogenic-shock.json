@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt09",
+  "guidelineId": "esc-acs-2023",
+  "number": "9",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for cardiogenic shock",
+    "ru": "Рекомендации при кардиогенном шоке"
+  },
+  "tags": ["cardiogenic-shock", "shock", "pci", "cabg", "mechanical-complications", "fibrinolysis", "mcs", "iabp"],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for cardiogenic shock",
+        "ru": "Рекомендации при кардиогенном шоке"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Immediate coronary angiography and PCI of the IRA (if indicated) is recommended in patients with CS complicating ACS.",
+            "ru": "Немедленная коронарография и ЧКВ инфаркт-связанной артерии (IRA) (при наличии показаний) рекомендованы пациентам с кардиогенным шоком, осложняющим ОКС."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Emergency CABG is recommended for ACS-related CS if PCI of the IRA is not feasible/unsuccessful.",
+            "ru": "Экстренное коронарное шунтирование (АКШ) рекомендовано при кардиогенном шоке на фоне ОКС, если ЧКВ инфаркт-связанной артерии невыполнимо или безуспешно."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In cases of haemodynamic instability, emergency surgical/catheter-based repair of mechanical complications of ACS is recommended, based on Heart Team discussion.",
+            "ru": "При гемодинамической нестабильности рекомендована экстренная хирургическая или транскатетерная коррекция механических осложнений ОКС на основе решения кардиокоманды (Heart Team)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Fibrinolysis should be considered in STEMI patients presenting with CS if a PPCI strategy is not available within 120 min from the time of STEMI diagnosis and mechanical complications have been ruled out.",
+            "ru": "Фибринолиз следует рассмотреть у пациентов со STEMI и кардиогенным шоком, если первичное ЧКВ недоступно в течение 120 мин от момента установления диагноза и исключены механические осложнения."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients with ACS and severe/refractory CS, short-term mechanical circulatory support may be considered.",
+            "ru": "У пациентов с ОКС и тяжелым/рефрактерным кардиогенным шоком можно рассмотреть краткосрочную механическую поддержку кровообращения (MCS)."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "The routine use of an IABP in ACS patients with CS and without mechanical complications is not recommended.",
+            "ru": "Рутинное применение внутриаортальной баллонной контрпульсации (ВАБК / IABP) у пациентов с ОКС и кардиогенным шоком без механических осложнений не рекомендовано."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "page": 32,
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

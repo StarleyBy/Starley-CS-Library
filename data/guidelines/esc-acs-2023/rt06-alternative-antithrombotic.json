@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt06",
+  "guidelineId": "esc-acs-2023",
+  "number": "6",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for alternative antithrombotic therapy regimens",
+    "ru": "Рекомендации по альтернативным режимам антитромботической терапии"
+  },
+  "tags": ["antithrombotic", "dapt", "sapt", "de-escalation", "shortening", "prolonging", "p2y12", "aspirin", "hbr"],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Shortening/de-escalation of antithrombotic therapy",
+        "ru": "Укорочение и деэскалация антитромботической терапии"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients who are event-free after 3–6 months of DAPT and who are not high ischaemic risk, single antiplatelet therapy (preferably with a P2Y12 receptor inhibitor) should be considered.",
+            "ru": "У пациентов без ишемических событий через 3–6 месяцев ДАТТ и не имеющих высокого ишемического риска следует рассмотреть монотерапию одним антиагрегантом (предпочтительно ингибитором рецепторов P2Y12)."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "De-escalation of P2Y12 receptor inhibitor treatment (e.g. with a switch from prasugrel/ticagrelor to clopidogrel) may be considered as an alternative DAPT strategy to reduce bleeding risk.",
+            "ru": "Деэскалацию терапии ингибиторами P2Y12 (например, переключение с прасугрела/тикагрелора на клопидогрел) можно рассмотреть в качестве альтернативной стратегии ДАТТ для снижения риска кровотечений."
+          },
+          "class": "IIb",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In HBR patients, aspirin or P2Y12 receptor inhibitor monotherapy after 1 month of DAPT may be considered.",
+            "ru": "У пациентов с высоким риском кровотечений (HBR) можно рассмотреть монотерапию аспирином или ингибитором P2Y12 после 1 месяца ДАТТ."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "De-escalation of antiplatelet therapy in the first 30 days after an ACS event is not recommended.",
+            "ru": "Деэскалация антиагрегантной терапии в первые 30 дней после развития ОКС не рекомендована."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Prolonging antithrombotic therapy",
+        "ru": "Продление антитромботической терапии"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Discontinuation of antiplatelet treatment in patients treated with an OAC is recommended after 12 months.",
+            "ru": "Прекращение антиагрегантной терапии у пациентов, принимающих пероральные антикоагулянты (ОАК), рекомендовано через 12 месяцев."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Adding a second antithrombotic agent to aspirin for extended long-term secondary prevention should be considered in patients with high ischaemic risk and without HBR.",
+            "ru": "Добавление второго антитромботического препарата к аспирину для продленной долговременной вторичной профилактики следует рассмотреть у пациентов с высоким ишемическим риском и без высокого риска кровотечений (HBR)."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Adding a second antithrombotic agent to aspirin for extended long-term secondary prevention may be considered in patients with moderate ischaemic risk and without HBR.",
+            "ru": "Добавление второго антитромботического препарата к аспирину для продленной долговременной вторичной профилактики можно рассмотреть у пациентов с умеренным ишемическим риском и без высокого риска кровотечений (HBR)."
+          },
+          "class": "IIb",
+          "level": "A"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "P2Y12 inhibitor monotherapy may be considered as an alternative to aspirin monotherapy for long-term treatment.",
+            "ru": "Монотерапию ингибитором P2Y12 можно рассмотреть в качестве альтернативы монотерапии аспирином для длительного лечения."
+          },
+          "class": "IIb",
+          "level": "A"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "page": 22,
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

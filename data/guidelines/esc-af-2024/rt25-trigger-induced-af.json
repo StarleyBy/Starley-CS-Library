@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt25-trigger-induced-af",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 25",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for trigger-induced AF",
+    "ru": "Рекомендации при триггер-индуцированной фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "trigger-induced",
+    "anticoagulation",
+    "thromboembolism"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for trigger-induced AF",
+        "ru": "Рекомендации при триггер-индуцированной ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Long-term oral anticoagulation should be considered in suitable patients with trigger-induced AF at elevated thromboembolic risk to prevent ischaemic stroke and systemic thromboembolism.",
+            "ru": "У подходящих пациентов с триггер-индуцированной ФП и повышенным тромбоэмболическим риском следует рассмотреть длительную терапию оральными антикоагулянтами для профилактики ишемического инсульта и системных тромбоэмболий."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

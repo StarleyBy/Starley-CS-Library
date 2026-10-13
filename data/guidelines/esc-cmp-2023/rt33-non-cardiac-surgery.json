@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt33-non-cardiac-surgery",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 33",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for non-cardiac surgery in patients with cardiomyopathy",
+    "ru": "Рекомендации по внесердечным хирургическим вмешательствам у пациентов с кардиомиопатией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "non-cardiac-surgery",
+    "peri-operative",
+    "ecg",
+    "echocardiography",
+    "lvoto",
+    "nt-probnp"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for non-cardiac surgery in patients with cardiomyopathy",
+        "ru": "Рекомендации по внесердечным хирургическим вмешательствам у пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Peri-operative ECG monitoring is recommended for all patients with cardiomyopathy undergoing surgery.",
+            "ru": "Периоперационное мониторирование ЭКГ рекомендуется всем пациентам с кардиомиопатией, подвергающимся хирургическим вмешательствам."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with cardiomyopathy and suspected or known HF scheduled for intermediate or high-risk NCS, it is recommended to re-evaluate LV function with echocardiography (assessing LVOTO in HCM patients) and measurement of NT-proBNP/BNP levels, unless this has recently been performed.",
+            "ru": "У пациентов с кардиомиопатией и известной или подозреваемой СН перед внесердечными операциями промежуточного или высокого риска рекомендуется повторная оценка функции ЛЖ с помощью эхокардиографии (с определением градиента ВТЛЖ у пациентов с ГКМП) и определение уровня NT-proBNP/BNP, если они не выполнялись в недавнее время."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "It is recommended that cardiomyopathy patients with high-risk genotypes or associated factors for arrhythmic or heart failure complications or severe LVOTO be referred for additional specialized investigations to a cardiomyopathy unit before undergoing elective NCS.",
+            "ru": "Пациентов с кардиомиопатией и генотипами высокого риска, факторами риска аритмических/застойных осложнений или тяжелой обструкцией ВТЛЖ рекомендуется направлять на углубленное специализированное обследование в экспертный центр кардиомиопатий перед плановыми внесердечными операциями."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients aged <65 years with a first-degree relative with a cardiomyopathy, it is recommended to perform an ECG and TTE before NCS, regardless of symptoms.",
+            "ru": "У лиц моложе 65 лет, имеющих родственников 1-й степени с кардиомиопатией, рекомендуется выполнить ЭКГ и трансторакальную ЭхоКГ перед внесердечной операцией, независимо от наличия жалоб."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

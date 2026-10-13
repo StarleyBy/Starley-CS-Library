@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt17",
+  "guidelineId": "esc-acs-2023",
+  "number": "17",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for patient perspectives in acute coronary syndrome care",
+    "ru": "Рекомендации с точки зрения интересов и вовлечения пациента при ведении ОКС"
+  },
+  "tags": [
+    "patient-perspectives",
+    "patient-centred",
+    "shared-decision-making",
+    "teach-back",
+    "discharge-education",
+    "mental-health",
+    "well-being"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Patient-centred care is recommended by assessing and adhering to individual patient preferences, needs and beliefs, ensuring that patient values are used to inform all clinical decisions.",
+            "ru": "Пациент-ориентированная помощь рекомендуется путем оценки и соблюдения индивидуальных предпочтений, потребностей и взглядов пациента, гарантируя, что ценности пациента учитываются при принятии всех клинических решений."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "It is recommended to include ACS patients in decision-making (as much as their condition allows) and to inform them about the risk of adverse events, radiation exposure, and alternative options. Decision aids can be used to facilitate the discussion.",
+            "ru": "Рекомендуется вовлекать пациентов с ОКС в процесс принятия решений (насколько позволяет их состояние) и информировать их о риске нежелательных явлений, лучевой нагрузке и альтернативных вариантах. Для облегчения обсуждения могут использоваться вспомогательные материалы (decision aids)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "It is recommended to assess symptoms using methods that help patients to describe their experience.",
+            "ru": "Рекомендуется оценивать симптомы с использованием методов, помогающих пациентам описать свой опыт."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Use of the 'teach back' technique for decision support during the securing of informed consent should be considered.",
+            "ru": "При получении информированного согласия для поддержки принятия решений следует рассмотреть возможность использования техники обратного разъяснения ('teach back')."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Patient discharge information should be provided in both written and verbal formats prior to discharge. Adequate preparation and education for patient discharge using the teach back technique and/or motivational interviewing, giving information in chunks, and checking for understanding should be considered.",
+            "ru": "Информация при выписке должна быть предоставлена пациенту в письменной и устной форме до момента выписки. Следует рассмотреть адекватную подготовку и обучение перед выпиской с использованием техники 'teach back' и/или мотивационного интервьюирования, дробной подачи информации и проверки ее понимания."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Assessment of mental well-being using a validated tool and onward psychological referral when appropriate should be considered.",
+            "ru": "Следует рассмотреть оценку психического благополучия с использованием валидированных инструментов и при необходимости направление к психологу/психотерапевту."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

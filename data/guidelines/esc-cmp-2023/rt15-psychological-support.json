@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt15-psychological-support",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 15",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for psychological support in patients and family members with cardiomyopathies",
+    "ru": "Рекомендации по психологической поддержке пациентов и членов семей с кардиомиопатиями"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "psychological-support",
+    "icd",
+    "scd",
+    "grief",
+    "mental-health"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for psychological support in patients and family members with cardiomyopathies",
+        "ru": "Рекомендации по психологической поддержке пациентов и членов семей с кардиомиопатиями"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that psychological support by an appropriately trained health professional be offered to all individuals who have experienced the premature sudden cardiac death of a family member with cardiomyopathy.",
+            "ru": "Рекомендуется предложить психологическую поддержку квалифицированным специалистом всем лицам, пережившим преждевременную внезапную сердечную смерть члена семьи с кардиомиопатией."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "It is recommended that psychological support by an appropriately trained health professional be offered to all individuals with an inherited cardiomyopathy who receive an implantable cardioverter defibrillator.",
+            "ru": "Рекомендуется предложить психологическую поддержку квалифицированным специалистом всем пациентам с наследственной кардиомиопатией, которым имплантирован кардиовертер-дефибриллятор (ИКД)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Psychological support by an appropriately trained health professional should be considered in all patients and families with an inherited cardiomyopathy and in particular for those issues described in the text.",
+            "ru": "Психологическую поддержку квалифицированным специалистом следует рассмотреть у всех пациентов и семей с наследственной кардиомиопатией, особенно при наличии специфических проблем (тревожность, ограничения нагрузок, генетический статус)."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

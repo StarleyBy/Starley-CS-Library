@@ -1,0 +1,1227 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t10-genes-overview",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 10",
+  "type": "grid",
+  "title": {
+    "en": "Overview of genes associated with monogenic, non-syndromic cardiomyopathies, and their relative contributions to different cardiomyopathic phenotypes",
+    "ru": "Обзор генов, ассоциированных с моногенными несиндромальными кардиомиопатиями, и их вклад в развитие различных фенотипов"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "genetics",
+    "genes",
+    "clingen",
+    "hcm",
+    "dcm",
+    "ndlvc",
+    "arvc",
+    "rcm"
+  ],
+  "columns": [
+    {
+      "id": "c_gene",
+      "title": {
+        "en": "Gene",
+        "ru": "Ген"
+      }
+    },
+    {
+      "id": "c_hcm",
+      "title": {
+        "en": "HCM",
+        "ru": "ГКМП"
+      }
+    },
+    {
+      "id": "c_dcm",
+      "title": {
+        "en": "DCM",
+        "ru": "ДКМП"
+      }
+    },
+    {
+      "id": "c_ndlvc",
+      "title": {
+        "en": "NDLVC",
+        "ru": "НДЛЖКМП"
+      }
+    },
+    {
+      "id": "c_arvc",
+      "title": {
+        "en": "ARVC",
+        "ru": "АКПЖ"
+      }
+    },
+    {
+      "id": "c_rcm",
+      "title": {
+        "en": "RCM",
+        "ru": "РКМП"
+      }
+    },
+    {
+      "id": "c_associated",
+      "title": {
+        "en": "Associated phenotype / notes",
+        "ru": "Ассоциированный фенотип / примечание"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r_abcc9",
+      "cells": [
+        { "text": { "en": "ABCC9", "ru": "ABCC9" } },
+        { "text": { "en": "● (Definitive, syndromic)", "ru": "● (Убедительная связь, синдромальный)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Cantú syndrome", "ru": "Синдром Канту" } }
+      ]
+    },
+    {
+      "id": "r_acta1",
+      "cells": [
+        { "text": { "en": "ACTA1", "ru": "ACTA1" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_actc1",
+      "cells": [
+        { "text": { "en": "ACTC1", "ru": "ACTC1" } },
+        { "text": { "en": "● (Definitive, <1%)", "ru": "● (Убедительная связь, <1%)" } },
+        { "text": { "en": "◐ (Moderate, <1%)", "ru": "◐ (Умеренная связь, <1%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_actn2",
+      "cells": [
+        { "text": { "en": "ACTN2", "ru": "ACTN2" } },
+        { "text": { "en": "◐ (Moderate, <1%)", "ru": "◐ (Умеренная связь, <1%)" } },
+        { "text": { "en": "◐ (Moderate, <1%)", "ru": "◐ (Умеренная связь, <1%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Can present with mixed phenotype", "ru": "Может проявляться смешанным фенотипом" } }
+      ]
+    },
+    {
+      "id": "r_alpk3",
+      "cells": [
+        { "text": { "en": "ALPK3", "ru": "ALPK3" } },
+        { "text": { "en": "● (Definitive, <1%)", "ru": "● (Убедительная связь, <1%)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_ankrd1",
+      "cells": [
+        { "text": { "en": "ANKRD1", "ru": "ANKRD1" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_bag3",
+      "cells": [
+        { "text": { "en": "BAG3", "ru": "BAG3" } },
+        { "text": { "en": "● (Definitive, syndromic, <1%)", "ru": "● (Убедительная связь, синдромальный, <1%)" } },
+        { "text": { "en": "●● (Definitive, 1–10%)", "ru": "●● (Убедительная связь, 1–10%)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "Myofibrillar myopathy", "ru": "Миофибриллярная миопатия" } }
+      ]
+    },
+    {
+      "id": "r_cacna1c",
+      "cells": [
+        { "text": { "en": "CACNA1C", "ru": "CACNA1C" } },
+        { "text": { "en": "● (Definitive, syndromic/genocopy)", "ru": "● (Убедительная связь, генокопия)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Timothy syndrome", "ru": "Синдром Тимоти" } }
+      ]
+    },
+    {
+      "id": "r_cacnb2",
+      "cells": [
+        { "text": { "en": "CACNB2", "ru": "CACNB2" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_calr3",
+      "cells": [
+        { "text": { "en": "CALR3", "ru": "CALR3" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_casq2",
+      "cells": [
+        { "text": { "en": "CASQ2", "ru": "CASQ2" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_cav3",
+      "cells": [
+        { "text": { "en": "CAV3", "ru": "CAV3" } },
+        { "text": { "en": "● (Definitive, syndromic)", "ru": "● (Убедительная связь, синдромальный)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Caveolinopathy", "ru": "Кавеолинопатия" } }
+      ]
+    },
+    {
+      "id": "r_cdh2",
+      "cells": [
+        { "text": { "en": "CDH2", "ru": "CDH2" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_cox15",
+      "cells": [
+        { "text": { "en": "COX15", "ru": "COX15" } },
+        { "text": { "en": "● (Definitive, syndromic)", "ru": "● (Убедительная связь, синдромальный)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Leigh syndrome", "ru": "Синдром Ли" } }
+      ]
+    },
+    {
+      "id": "r_cryab",
+      "cells": [
+        { "text": { "en": "CRYAB", "ru": "CRYAB" } },
+        { "text": { "en": "● (Definitive, syndromic)", "ru": "● (Убедительная связь, синдромальный)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Alpha-B crystallinopathy", "ru": "Альфа-B кристаллинопатия" } }
+      ]
+    },
+    {
+      "id": "r_csrp3",
+      "cells": [
+        { "text": { "en": "CSRP3", "ru": "CSRP3" } },
+        { "text": { "en": "◐ (Moderate, <1%)", "ru": "◐ (Умеренная связь, <1%)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_ctf1",
+      "cells": [
+        { "text": { "en": "CTF1", "ru": "CTF1" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_ctnna3",
+      "cells": [
+        { "text": { "en": "CTNNA3", "ru": "CTNNA3" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_des",
+      "cells": [
+        { "text": { "en": "DES", "ru": "DES" } },
+        { "text": { "en": "● (Definitive, genocopy)", "ru": "● (Убедительная связь, генокопия)" } },
+        { "text": { "en": "● (Definitive, <1%)", "ru": "● (Убедительная связь, <1%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "◐ (Moderate, <1%)", "ru": "◐ (Умеренная связь, <1%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "Desminopathy", "ru": "Десминопатия" } }
+      ]
+    },
+    {
+      "id": "r_dmd",
+      "cells": [
+        { "text": { "en": "DMD", "ru": "DMD" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "● (Definitive, genocopy, <1%)", "ru": "● (Убедительная связь, генокопия, <1%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "X-linked progressive muscular dystrophy", "ru": "Х-сцепленная прогрессирующая мышечная дистрофия Дюшенна/Беккера" } }
+      ]
+    },
+    {
+      "id": "r_dmpk",
+      "cells": [
+        { "text": { "en": "DMPK", "ru": "DMPK" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Myotonic dystrophy", "ru": "Миотоническая дистрофия" } }
+      ]
+    },
+    {
+      "id": "r_dsc2",
+      "cells": [
+        { "text": { "en": "DSC2", "ru": "DSC2" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "●● (Definitive, 1–10%)", "ru": "●● (Убедительная связь, 1–10%)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Desmosomal ARVC", "ru": "Десмосомальная АКПЖ" } }
+      ]
+    },
+    {
+      "id": "r_dsg2",
+      "cells": [
+        { "text": { "en": "DSG2", "ru": "DSG2" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "●● (Definitive, 1–10%)", "ru": "●● (Убедительная связь, 1–10%)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Desmosomal ARVC", "ru": "Десмосомальная АКПЖ" } }
+      ]
+    },
+    {
+      "id": "r_dsp",
+      "cells": [
+        { "text": { "en": "DSP", "ru": "DSP" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "●● (Definitive, 1–10%)", "ru": "●● (Убедительная связь, 1–10%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "● (Definitive, <1%)", "ru": "● (Убедительная связь, <1%)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Desmosomal variant (ARVC/DCM/NDLVC)", "ru": "Десмосомальный вариант (АКПЖ/ДКМП/НДЛЖКМП)" } }
+      ]
+    },
+    {
+      "id": "r_dtna",
+      "cells": [
+        { "text": { "en": "DTNA", "ru": "DTNA" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_eya4",
+      "cells": [
+        { "text": { "en": "EYA4", "ru": "EYA4" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Sensorineural hearing loss", "ru": "Сенсоневральная тугоухость" } }
+      ]
+    },
+    {
+      "id": "r_fhl1",
+      "cells": [
+        { "text": { "en": "FHL1", "ru": "FHL1" } },
+        { "text": { "en": "● (Definitive, genocopy)", "ru": "● (Убедительная связь, генокопия)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Emery–Dreifuss MD", "ru": "Мышечная дистрофия Эмери–Дрейфуса" } }
+      ]
+    },
+    {
+      "id": "r_flnc",
+      "cells": [
+        { "text": { "en": "FLNC", "ru": "FLNC" } },
+        { "text": { "en": "● (Definitive, genocopy, <1%)", "ru": "● (Убедительная связь, генокопия, <1%)" } },
+        { "text": { "en": "●● (Definitive, 1–10%)", "ru": "●● (Убедительная связь, 1–10%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "Myofibrillar myopathy / arrhythmogenic DCM", "ru": "Миофибриллярная миопатия / аритмогенная ДКМП" } }
+      ]
+    },
+    {
+      "id": "r_fhod3",
+      "cells": [
+        { "text": { "en": "FHOD3", "ru": "FHOD3" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_fxn",
+      "cells": [
+        { "text": { "en": "FXN", "ru": "FXN" } },
+        { "text": { "en": "● (Definitive, syndromic)", "ru": "● (Убедительная связь, синдромальный)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Friedreich ataxia", "ru": "Атаксия Фридрейха" } }
+      ]
+    },
+    {
+      "id": "r_gaa",
+      "cells": [
+        { "text": { "en": "GAA", "ru": "GAA" } },
+        { "text": { "en": "● (Definitive, syndromic)", "ru": "● (Убедительная связь, синдромальный)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Pompe disease", "ru": "Болезнь Помпе (гликогеноз II типа)" } }
+      ]
+    },
+    {
+      "id": "r_gata4",
+      "cells": [
+        { "text": { "en": "GATA4", "ru": "GATA4" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Congenital heart disease", "ru": "Врожденные пороки сердца" } }
+      ]
+    },
+    {
+      "id": "r_gatad1",
+      "cells": [
+        { "text": { "en": "GATAD1", "ru": "GATAD1" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_gla",
+      "cells": [
+        { "text": { "en": "GLA", "ru": "GLA" } },
+        { "text": { "en": "● (Definitive, genocopy)", "ru": "● (Убедительная связь, генокопия)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Anderson–Fabry disease", "ru": "Болезнь Андерсона–Фабри" } }
+      ]
+    },
+    {
+      "id": "r_hcn4",
+      "cells": [
+        { "text": { "en": "HCN4", "ru": "HCN4" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Sinus node dysfunction / LVNC", "ru": "Дисфункция синусового узла / некомпактный ЛЖ" } }
+      ]
+    },
+    {
+      "id": "r_ilk",
+      "cells": [
+        { "text": { "en": "ILK", "ru": "ILK" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_jph2",
+      "cells": [
+        { "text": { "en": "JPH2", "ru": "JPH2" } },
+        { "text": { "en": "◐ (Moderate, <1%)", "ru": "◐ (Умеренная связь, <1%)" } },
+        { "text": { "en": "◐ (Moderate, <1%)", "ru": "◐ (Умеренная связь, <1%)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_jup",
+      "cells": [
+        { "text": { "en": "JUP", "ru": "JUP" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "● (Definitive, syndromic)", "ru": "● (Убедительная связь, синдромальный)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Naxos disease (cardiocutaneous syndrome)", "ru": "Болезнь Наксоса (кардиокутанный синдром)" } }
+      ]
+    },
+    {
+      "id": "r_kcnq1",
+      "cells": [
+        { "text": { "en": "KCNQ1", "ru": "KCNQ1" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "LQTS 1", "ru": "Синдром удлиненного QT 1 типа" } }
+      ]
+    },
+    {
+      "id": "r_klf10",
+      "cells": [
+        { "text": { "en": "KLF10", "ru": "KLF10" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_lama4",
+      "cells": [
+        { "text": { "en": "LAMA4", "ru": "LAMA4" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_lamp2",
+      "cells": [
+        { "text": { "en": "LAMP2", "ru": "LAMP2" } },
+        { "text": { "en": "● (Definitive, genocopy)", "ru": "● (Убедительная связь, генокопия)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Danon disease", "ru": "Болезнь Данона" } }
+      ]
+    },
+    {
+      "id": "r_ldb3",
+      "cells": [
+        { "text": { "en": "LDB3", "ru": "LDB3" } },
+        { "text": { "en": "● (Definitive, syndromic)", "ru": "● (Убедительная связь, синдромальный)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Myofibrillar myopathy", "ru": "Миофибриллярная миопатия" } }
+      ]
+    },
+    {
+      "id": "r_lmna",
+      "cells": [
+        { "text": { "en": "LMNA", "ru": "LMNA" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "●● (Definitive, 1–10%)", "ru": "●● (Убедительная связь, 1–10%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Laminopathy / conduction disease / high SCD risk", "ru": "Ламинопатия / нарушения проводимости / высокий риск ВСС" } }
+      ]
+    },
+    {
+      "id": "r_lrrc10",
+      "cells": [
+        { "text": { "en": "LRRC10", "ru": "LRRC10" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_mib1",
+      "cells": [
+        { "text": { "en": "MIB1", "ru": "MIB1" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Left ventricular non-compaction", "ru": "Некомпактный миокард ЛЖ" } }
+      ]
+    },
+    {
+      "id": "r_mybpc3",
+      "cells": [
+        { "text": { "en": "MYBPC3", "ru": "MYBPC3" } },
+        { "text": { "en": "●●● (Definitive, >10%)", "ru": "●●● (Убедительная связь, >10%)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "Major sarcomeric gene for HCM", "ru": "Основной саркомерный ген ГКМП" } }
+      ]
+    },
+    {
+      "id": "r_myh6",
+      "cells": [
+        { "text": { "en": "MYH6", "ru": "MYH6" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Atrial septal defect / sick sinus syndrome", "ru": "ДМПП / синдром слабости синусового узла" } }
+      ]
+    },
+    {
+      "id": "r_myh7",
+      "cells": [
+        { "text": { "en": "MYH7", "ru": "MYH7" } },
+        { "text": { "en": "●●● (Definitive, >10%)", "ru": "●●● (Убедительная связь, >10%)" } },
+        { "text": { "en": "●● (Definitive, 1–10%)", "ru": "●● (Убедительная связь, 1–10%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "Major sarcomeric gene for HCM & DCM", "ru": "Ключевой саркомерный ген ГКМП и ДКМП" } }
+      ]
+    },
+    {
+      "id": "r_myl2",
+      "cells": [
+        { "text": { "en": "MYL2", "ru": "MYL2" } },
+        { "text": { "en": "●● (Definitive, 1–10%)", "ru": "●● (Убедительная связь, 1–10%)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "Sarcomeric gene", "ru": "Саркомерный ген" } }
+      ]
+    },
+    {
+      "id": "r_myl3",
+      "cells": [
+        { "text": { "en": "MYL3", "ru": "MYL3" } },
+        { "text": { "en": "●● (Definitive, 1–10%)", "ru": "●● (Убедительная связь, 1–10%)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "Sarcomeric gene", "ru": "Саркомерный ген" } }
+      ]
+    },
+    {
+      "id": "r_mylk2",
+      "cells": [
+        { "text": { "en": "MYLK2", "ru": "MYLK2" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_myom1",
+      "cells": [
+        { "text": { "en": "MYOM1", "ru": "MYOM1" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_myoz2",
+      "cells": [
+        { "text": { "en": "MYOZ2", "ru": "MYOZ2" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_mypn",
+      "cells": [
+        { "text": { "en": "MYPN", "ru": "MYPN" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_nebl",
+      "cells": [
+        { "text": { "en": "NEBL", "ru": "NEBL" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_nexn",
+      "cells": [
+        { "text": { "en": "NEXN", "ru": "NEXN" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◐ (Moderate, <1%)", "ru": "◐ (Умеренная связь, <1%)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_nkx2_5",
+      "cells": [
+        { "text": { "en": "NKX2-5", "ru": "NKX2-5" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Conduction defects / ASD", "ru": "Нарушения проводимости / ДМПП" } }
+      ]
+    },
+    {
+      "id": "r_nnt",
+      "cells": [
+        { "text": { "en": "NNT", "ru": "NNT" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_nono",
+      "cells": [
+        { "text": { "en": "NONO", "ru": "NONO" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_nppa",
+      "cells": [
+        { "text": { "en": "NPPA", "ru": "NPPA" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Atrial standstill", "ru": "Остановка предсердий" } }
+      ]
+    },
+    {
+      "id": "r_obscn",
+      "cells": [
+        { "text": { "en": "OBSCN", "ru": "OBSCN" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_pdlim3",
+      "cells": [
+        { "text": { "en": "PDLIM3", "ru": "PDLIM3" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_pkp2",
+      "cells": [
+        { "text": { "en": "PKP2", "ru": "PKP2" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "●●● (Definitive, >10%)", "ru": "●●● (Убедительная связь, >10%)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Major desmosomal gene for classical ARVC", "ru": "Основной десмосомальный ген классической АКПЖ" } }
+      ]
+    },
+    {
+      "id": "r_plekhm2",
+      "cells": [
+        { "text": { "en": "PLEKHM2", "ru": "PLEKHM2" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_pln",
+      "cells": [
+        { "text": { "en": "PLN", "ru": "PLN" } },
+        { "text": { "en": "● (Definitive, <1%)", "ru": "● (Убедительная связь, <1%)" } },
+        { "text": { "en": "● (Definitive, <1%)", "ru": "● (Убедительная связь, <1%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "◐ (Moderate, <1%)", "ru": "◐ (Умеренная связь, <1%)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Low ECG voltage / severe arrhythmogenic phenotype", "ru": "Низкий вольтаж ЭКГ / злокачественный аритмогенный фенотип" } }
+      ]
+    },
+    {
+      "id": "r_prdm16",
+      "cells": [
+        { "text": { "en": "PRDM16", "ru": "PRDM16" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_prkag2",
+      "cells": [
+        { "text": { "en": "PRKAG2", "ru": "PRKAG2" } },
+        { "text": { "en": "● (Definitive, genocopy)", "ru": "● (Убедительная связь, генокопия)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "PRKAG2 cardiomyopathy (WPW, AV block, glycogen storage)", "ru": "PRKAG2-кардиомиопатия (ВПВ, АВ-блокады, болезнь накопления гликогена)" } }
+      ]
+    },
+    {
+      "id": "r_psen1",
+      "cells": [
+        { "text": { "en": "PSEN1", "ru": "PSEN1" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_psen2",
+      "cells": [
+        { "text": { "en": "PSEN2", "ru": "PSEN2" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r_ptpn11",
+      "cells": [
+        { "text": { "en": "PTPN11", "ru": "PTPN11" } },
+        { "text": { "en": "● (Definitive, genocopy)", "ru": "● (Убедительная связь, генокопия)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Noonan syndrome / LEOPARD syndrome", "ru": "Синдром Нунан / LEOPARD-синдром" } }
+      ]
+    },
+    {
+      "id": "r_raf1",
+      "cells": [
+        { "text": { "en": "RAF1", "ru": "RAF1" } },
+        { "text": { "en": "● (Definitive, genocopy)", "ru": "● (Убедительная связь, генокопия)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Noonan syndrome", "ru": "Синдром Нунан" } }
+      ]
+    },
+    {
+      "id": "r_rbm20",
+      "cells": [
+        { "text": { "en": "RBM20", "ru": "RBM20" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "●● (Definitive, 1–10%)", "ru": "●● (Убедительная связь, 1–10%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Aggressive arrhythmogenic DCM / splicing factor", "ru": "Агрессивная аритмогенная ДКМП / сплайсинг титина" } }
+      ]
+    },
+    {
+      "id": "r_rit1",
+      "cells": [
+        { "text": { "en": "RIT1", "ru": "RIT1" } },
+        { "text": { "en": "● (Definitive, genocopy)", "ru": "● (Убедительная связь, генокопия)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Noonan syndrome", "ru": "Синдром Нунан" } }
+      ]
+    },
+    {
+      "id": "r_ryr2",
+      "cells": [
+        { "text": { "en": "RYR2", "ru": "RYR2" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "CPVT / Ryanodine receptor", "ru": "КПВТ / рианодиновый рецептор" } }
+      ]
+    },
+    {
+      "id": "r_scn5a",
+      "cells": [
+        { "text": { "en": "SCN5A", "ru": "SCN5A" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "● (Definitive, <1%)", "ru": "● (Убедительная связь, <1%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Brugada syndrome / conduction disease / DCM", "ru": "Синдром Бругада / нарушения проводимости / ДКМП" } }
+      ]
+    },
+    {
+      "id": "r_sgcd",
+      "cells": [
+        { "text": { "en": "SGCD", "ru": "SGCD" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Limb-girdle muscular dystrophy", "ru": "Поясно-конечностная мышечная дистрофия" } }
+      ]
+    },
+    {
+      "id": "r_slc25a4",
+      "cells": [
+        { "text": { "en": "SLC25A4", "ru": "SLC25A4" } },
+        { "text": { "en": "● (Definitive, syndromic)", "ru": "● (Убедительная связь, синдромальный)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Mitochondrial disease", "ru": "Митохондриальное заболевание" } }
+      ]
+    },
+    {
+      "id": "r_taz",
+      "cells": [
+        { "text": { "en": "TAZ", "ru": "TAZ" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Barth syndrome", "ru": "Синдром Барта" } }
+      ]
+    },
+    {
+      "id": "r_tbx5",
+      "cells": [
+        { "text": { "en": "TBX5", "ru": "TBX5" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Holt–Oram syndrome", "ru": "Синдром Холта–Орама" } }
+      ]
+    },
+    {
+      "id": "r_tbx20",
+      "cells": [
+        { "text": { "en": "TBX20", "ru": "TBX20" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Congenital heart disease", "ru": "Врожденные пороки сердца" } }
+      ]
+    },
+    {
+      "id": "r_tcap",
+      "cells": [
+        { "text": { "en": "TCAP", "ru": "TCAP" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Telethonin", "ru": "Телетонинопатия" } }
+      ]
+    },
+    {
+      "id": "r_tgfb3",
+      "cells": [
+        { "text": { "en": "TGFB3", "ru": "TGFB3" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Loeys–Dietz syndrome", "ru": "Синдром Лойса–Дитца" } }
+      ]
+    },
+    {
+      "id": "r_tjp1",
+      "cells": [
+        { "text": { "en": "TJP1", "ru": "TJP1" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Tight junction protein 1", "ru": "Белок плотных контактов 1" } }
+      ]
+    },
+    {
+      "id": "r_tmem43",
+      "cells": [
+        { "text": { "en": "TMEM43", "ru": "TMEM43" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "● (Definitive, syndromic, <1%)", "ru": "● (Убедительная связь, синдромальный, <1%)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "ARVD type 5 (severe lethal arrhythmogenic disease)", "ru": "АКПЖ 5 типа (тяжелое злокачественное течение)" } }
+      ]
+    },
+    {
+      "id": "r_tmem70",
+      "cells": [
+        { "text": { "en": "TMEM70", "ru": "TMEM70" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Mitochondrial disease", "ru": "Митохондриальное заболевание" } }
+      ]
+    },
+    {
+      "id": "r_tmpo",
+      "cells": [
+        { "text": { "en": "TMPO", "ru": "TMPO" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Thymopoietin", "ru": "Тимопоэтин" } }
+      ]
+    },
+    {
+      "id": "r_tnnc1",
+      "cells": [
+        { "text": { "en": "TNNC1", "ru": "TNNC1" } },
+        { "text": { "en": "◐ (Moderate, <1%)", "ru": "◐ (Умеренная связь, <1%)" } },
+        { "text": { "en": "● (Definitive, <1%)", "ru": "● (Убедительная связь, <1%)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Troponin C1", "ru": "Тропонин С1" } }
+      ]
+    },
+    {
+      "id": "r_tnni3",
+      "cells": [
+        { "text": { "en": "TNNI3", "ru": "TNNI3" } },
+        { "text": { "en": "●● (Definitive, 1–10%)", "ru": "●● (Убедительная связь, 1–10%)" } },
+        { "text": { "en": "◐ (Moderate, <1%)", "ru": "◐ (Умеренная связь, <1%)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "Cardiac troponin I", "ru": "Сердечный тропонин I" } }
+      ]
+    },
+    {
+      "id": "r_tnni3k",
+      "cells": [
+        { "text": { "en": "TNNI3K", "ru": "TNNI3K" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Conduction defects / atrial fibrillation", "ru": "Нарушения проводимости / фибрилляция предсердий" } }
+      ]
+    },
+    {
+      "id": "r_tnnt2",
+      "cells": [
+        { "text": { "en": "TNNT2", "ru": "TNNT2" } },
+        { "text": { "en": "●●● (Definitive, >10%)", "ru": "●●● (Убедительная связь, >10%)" } },
+        { "text": { "en": "●● (Definitive, 1–10%)", "ru": "●● (Убедительная связь, 1–10%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "Cardiac troponin T", "ru": "Сердечный тропонин T" } }
+      ]
+    },
+    {
+      "id": "r_tpm1",
+      "cells": [
+        { "text": { "en": "TPM1", "ru": "TPM1" } },
+        { "text": { "en": "● (Definitive, <1%)", "ru": "● (Убедительная связь, <1%)" } },
+        { "text": { "en": "◐ (Moderate, <1%)", "ru": "◐ (Умеренная связь, <1%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "Tropomyosin 1", "ru": "Тропомиозин 1" } }
+      ]
+    },
+    {
+      "id": "r_trim63",
+      "cells": [
+        { "text": { "en": "TRIM63", "ru": "TRIM63" } },
+        { "text": { "en": "◐ (Moderate, <1%)", "ru": "◐ (Умеренная связь, <1%)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "MuRF1", "ru": "MuRF1" } }
+      ]
+    },
+    {
+      "id": "r_ttn",
+      "cells": [
+        { "text": { "en": "TTN", "ru": "TTN" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "●●● (Definitive, >10%)", "ru": "●●● (Убедительная связь, >10%)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "◌ (Described / not curated)", "ru": "◌ (Описан в литературе)" } },
+        { "text": { "en": "Titin (TTNtv variants common in DCM)", "ru": "Титин (TTNtv — наиболее частая генетическая причина ДКМП)" } }
+      ]
+    },
+    {
+      "id": "r_ttr",
+      "cells": [
+        { "text": { "en": "TTR", "ru": "TTR" } },
+        { "text": { "en": "● (Definitive, genocopy)", "ru": "● (Убедительная связь, генокопия)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Transthyretin amyloidosis (ATTRv)", "ru": "Транстиретиновый амилоидоз (ATTRv)" } }
+      ]
+    },
+    {
+      "id": "r_vcl",
+      "cells": [
+        { "text": { "en": "VCL", "ru": "VCL" } },
+        { "text": { "en": "○ (Limited)", "ru": "○ (Ограниченная связь)" } },
+        { "text": { "en": "● (Definitive, <1%)", "ru": "● (Убедительная связь, <1%)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Vinculin / Metavinculin", "ru": "Винкулин / метавинкулин" } }
+      ]
+    }
+  ]
+}

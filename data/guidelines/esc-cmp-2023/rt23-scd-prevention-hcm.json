@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt23-scd-prevention-hcm",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 23",
+  "type": "recommendations",
+  "title": {
+    "en": "Additional recommendations for prevention of sudden cardiac death in patients with hypertrophic cardiomyopathy",
+    "ru": "Дополнительные рекомендации по профилактике внезапной сердечной смерти у пациентов с гипертрофической кардиомиопатией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "hcm",
+    "scd",
+    "icd",
+    "hcm-risk-scd",
+    "hcm-risk-kids",
+    "lge",
+    "lvef",
+    "apical-aneurysm"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Secondary prevention",
+        "ru": "Вторичная профилактика"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Implantation of an ICD is recommended in patients who have survived a cardiac arrest due to VT or VF, or who have spontaneous sustained VT with haemodynamic compromise.",
+            "ru": "Имплантация ИКД рекомендуется пациентам, пережившим остановку сердца вследствие ЖТ или ФЖ, либо перенесшим спонтанную устойчивую ЖТ с гемодинамической нестабильностью."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Primary prevention",
+        "ru": "Первичная профилактика"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "The HCM Risk-SCD calculator is recommended as a method of estimating risk of sudden death at 5 years in patients aged ≥16 years for primary prevention.",
+            "ru": "Калькулятор HCM Risk-SCD рекомендуется для оценки 5-летнего риска внезапной смерти у пациентов в возрасте ≥16 лет с целью первичной профилактики."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Validated paediatric-specific risk prediction models (e.g. HCM Risk-Kids) are recommended as a method of estimating risk of sudden death at 5 years in patients aged <16 years for primary prevention.",
+            "ru": "Валидированные педиатрические прогностические модели (например, HCM Risk-Kids) рекомендуются для оценки 5-летнего риска внезапной смерти у пациентов в возрасте <16 лет с целью первичной профилактики."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "It is recommended that the 5-year risk of SCD be assessed at first evaluation and re-evaluated at 1–2 year intervals or whenever there is a change in clinical status.",
+            "ru": "Рекомендуется оценивать 5-летний риск ВСС при первичном обследовании и повторно каждые 1–2 года либо при любом изменении клинического статуса."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Implantation of an ICD should be considered in patients with an estimated 5-year risk of sudden death of ≥6%, following detailed clinical assessment that considers: (i) the lifelong risk of complications; (ii) competing mortality risk from the disease and comorbidities; AND (iii) the impact of an ICD on lifestyle, socio-economic status, and psychological health.",
+            "ru": "Имплантацию ИКД следует рассмотреть у пациентов с расчетным 5-летним риском внезапной смерти ≥6% после клинической оценки, учитывающей: (1) пожизненный риск осложнений устройства; (2) конкурирующий риск смерти от коморбидностей; (3) влияние ИКД на образ жизни, социальный статус и психоэмоциональное здоровье."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In patients with LV apical aneurysms, decisions about primary prevention ICD based on an assessment of risk using the HCM Risk-SCD or a validated paediatric risk-prediction (e.g. HCM Risk-Kids) tool and not solely on the presence of the aneurysm should be considered.",
+            "ru": "У пациентов с верхушечными аневризмами ЛЖ решение об имплантации ИКД для первичной профилактики следует принимать на основе комплексной оценки риска (по шкале HCM Risk-SCD или педиатрической модели), а не исключительно на факте наличия аневризмы."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Implantation of an ICD may be considered in individual patients with an estimated 5-year risk of SCD of between ≥4% and <6%, following detailed clinical assessment that takes into account the lifelong risk of complications and the impact of an ICD on lifestyle, socio-economic status, and psychological health.",
+            "ru": "Имплантацию ИКД можно рассмотреть у отдельных пациентов с промежуточным 5-летним риском ВСС от ≥4% до <6% после детальной оценки риска осложнений, влияния на образ жизни и психологический статус."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "For patients who are in the low-risk category (<4% estimated 5-year risk of SCD), the presence of extensive LGE (≥15%) on CMR may be considered in shared decision-making with patients about prophylactic ICD implantation, acknowledging the lack of robust data on the impact of scar quantification on the personalized risk estimates generated by HCM Risk-SCD or a validated paediatric model (e.g. HCM Risk-Kids).",
+            "ru": "У пациентов группы низкого риска (расчетный 5-летний риск ВСС <4%) наличие обширного фиброза по данным МРТ (LGE ≥15% массы миокарда) может учитываться в рамках совместного принятия решений о профилактической имплантации ИКД."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "For patients who are in the low-risk category (<4% estimated 5-year risk of SCD), the presence of LVEF <50% may be considered in shared decision-making with patients about prophylactic ICD implantation, acknowledging the lack of robust data on the impact of systolic dysfunction on the personalized risk estimates generated by HCM Risk-SCD or a validated paediatric model (e.g. HCM Risk-Kids).",
+            "ru": "У пациентов группы низкого риска (<4% за 5 лет) снижение систолической функции (ФВ ЛЖ <50% — переход в стадию «burn-out») может учитываться при совместном принятии решений о профилактической имплантации ИКД."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

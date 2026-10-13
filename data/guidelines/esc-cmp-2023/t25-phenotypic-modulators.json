@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t25-phenotypic-modulators",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 25",
+  "type": "grid",
+  "title": {
+    "en": "Modulators of the phenotypic expression of cardiomyopathies",
+    "ru": "Модуляторы фенотипического проявления кардиомиопатий"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "hcm",
+    "dcm",
+    "arvc",
+    "phenotype",
+    "hypertension",
+    "diabetes",
+    "obesity",
+    "sports",
+    "pregnancy"
+  ],
+  "columns": [
+    {
+      "id": "c_condition",
+      "title": {
+        "en": "Condition",
+        "ru": "Состояние"
+      }
+    },
+    {
+      "id": "c_hcm",
+      "title": {
+        "en": "HCM",
+        "ru": "ГКМП"
+      }
+    },
+    {
+      "id": "c_dcm",
+      "title": {
+        "en": "DCM",
+        "ru": "ДКМП"
+      }
+    },
+    {
+      "id": "c_arvc",
+      "title": {
+        "en": "ARVC",
+        "ru": "АКПЖ"
+      }
+    },
+    {
+      "id": "c_expression",
+      "title": {
+        "en": "Expression",
+        "ru": "Проявление"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Hypertension",
+            "ru": "Артериальная гипертензия"
+          }
+        },
+        {
+          "text": {
+            "en": "+++",
+            "ru": "+++"
+          }
+        },
+        {
+          "text": {
+            "en": "++",
+            "ru": "++"
+          }
+        },
+        {
+          "text": {
+            "en": "?",
+            "ru": "?"
+          }
+        },
+        {
+          "text": {
+            "en": "Hypertrophy, dilatation, dysfunction, AF",
+            "ru": "Гипертрофия, дилатация, дисфункция, ФП"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Diabetes",
+            "ru": "Сахарный диабет"
+          }
+        },
+        {
+          "text": {
+            "en": "++",
+            "ru": "++"
+          }
+        },
+        {
+          "text": {
+            "en": "+",
+            "ru": "+"
+          }
+        },
+        {
+          "text": {
+            "en": "?",
+            "ru": "?"
+          }
+        },
+        {
+          "text": {
+            "en": "Hypertrophy, dysfunction, AF",
+            "ru": "Гипертрофия, дисфункция, ФП"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Obesity",
+            "ru": "Ожирение"
+          }
+        },
+        {
+          "text": {
+            "en": "++",
+            "ru": "++"
+          }
+        },
+        {
+          "text": {
+            "en": "+",
+            "ru": "+"
+          }
+        },
+        {
+          "text": {
+            "en": "?",
+            "ru": "?"
+          }
+        },
+        {
+          "text": {
+            "en": "Hypertrophy, LVOTO, AF",
+            "ru": "Гипертрофия, ООТЛЖ, ФП"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Toxic",
+            "ru": "Токсические воздействия"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "+++",
+            "ru": "+++"
+          }
+        },
+        {
+          "text": {
+            "en": "?",
+            "ru": "?"
+          }
+        },
+        {
+          "text": {
+            "en": "Dilatation, dysfunction",
+            "ru": "Дилатация, дисфункция"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Sports",
+            "ru": "Спорт"
+          }
+        },
+        {
+          "text": {
+            "en": "+",
+            "ru": "+"
+          }
+        },
+        {
+          "text": {
+            "en": "+",
+            "ru": "+"
+          }
+        },
+        {
+          "text": {
+            "en": "+++",
+            "ru": "+++"
+          }
+        },
+        {
+          "text": {
+            "en": "Dilatation, dysfunction, ventricular arrhythmia",
+            "ru": "Дилатация, дисфункция, желудочковые аритмии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Virus",
+            "ru": "Вирусные инфекции"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "++",
+            "ru": "++"
+          }
+        },
+        {
+          "text": {
+            "en": "+",
+            "ru": "+"
+          }
+        },
+        {
+          "text": {
+            "en": "Dilatation, dysfunction, ventricular arrhythmia",
+            "ru": "Дилатация, дисфункция, желудочковые аритмии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Pregnancy",
+            "ru": "Беременность"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "++",
+            "ru": "++"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Dilatation, dysfunction",
+            "ru": "Дилатация, дисфункция"
+          }
+        }
+      ]
+    }
+  ]
+}

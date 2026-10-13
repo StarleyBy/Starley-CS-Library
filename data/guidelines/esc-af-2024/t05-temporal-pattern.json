@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.t05-temporal-pattern",
+  "guidelineId": "esc-af-2024",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Definitions and classifications for the temporal pattern of AF",
+    "ru": "Определения и классификация временных форм фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "classification",
+    "first-diagnosed",
+    "paroxysmal",
+    "persistent",
+    "permanent"
+  ],
+  "columns": [
+    {
+      "id": "c_term",
+      "title": {
+        "en": "Temporal classification",
+        "ru": "Классификация по форме течения"
+      }
+    },
+    {
+      "id": "c_def",
+      "title": {
+        "en": "Definition",
+        "ru": "Определение"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "**First-diagnosed AF**",
+            "ru": "**Впервые диагностированная ФП**"
+          }
+        },
+        {
+          "text": {
+            "en": "AF that has not been diagnosed before, regardless of symptom status, temporal pattern, or duration.",
+            "ru": "ФП, которая не была диагностирована ранее, независимо от наличия симптомов, временной формы или длительности."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "**Paroxysmal AF**",
+            "ru": "**Пароксизмальная ФП**"
+          }
+        },
+        {
+          "text": {
+            "en": "AF which terminates spontaneously within 7 days or with the assistance of an intervention. Evidence suggests that most self-terminating paroxysms last <48 h.",
+            "ru": "ФП, которая купируется спонтанно в течение 7 дней или с помощью медицинского вмешательства. Данные свидетельствуют, что большинство спонтанно купирующихся пароксизмов длятся <48 ч."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "**Persistent AF**",
+            "ru": "**Персистирующая ФП**"
+          }
+        },
+        {
+          "text": {
+            "en": "AF episodes which are not self-terminating. Many intervention trials have used 7 days as a cut-off for defining persistent AF. Long-standing persistent AF is arbitrarily defined as continuous AF of at least 12 months' duration but where rhythm control is still a treatment option in selected patients, distinguishing it from permanent AF.",
+            "ru": "Эпизоды ФП, которые не купируются самостоятельно. Во многих исследованиях критерием персистирующей ФП считалась длительность более 7 дней. Длительно персистирующая ФП условно определяется как непрерывная ФП продолжительностью не менее 12 месяцев, при которой у отдельных пациентов все еще рассматривается стратегия контроля ритма (что отличает ее от постоянной ФП)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "**Permanent AF**",
+            "ru": "**Постоянная ФП**"
+          }
+        },
+        {
+          "text": {
+            "en": "AF for which no further attempts at restoration of sinus rhythm are planned, after a shared decision between the patient and physician.",
+            "ru": "ФП, при которой дальнейшие попытки восстановления и поддержания синусового ритма не планируются на основании совместного решения врача и пациента."
+          }
+        }
+      ]
+    }
+  ]
+}

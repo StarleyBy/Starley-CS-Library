@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt15-tga-atrial-switch",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec TGA-Switch",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention in transposition of the great arteries after atrial switch operation",
+    "ru": "Рекомендации по вмешательствам при транспозиции магистральных артерий после операции предсердного переключения (Mustard/Senning)"
+  },
+  "tags": [
+    "achd",
+    "tga",
+    "atrial-switch",
+    "mustard",
+    "senning",
+    "baffle-stenosis",
+    "baffle-leak",
+    "stenting",
+    "systemic-tr"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Indications for surgical intervention",
+        "ru": "Показания к хирургическому вмешательству"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In symptomatic patients with pulmonary venous atrium obstruction, surgical repair (catheter intervention rarely possible) is recommended.",
+            "ru": "У симптомных пациентов с обструкцией легочно-венозного предсердия рекомендуется хирургическая коррекция (транскатетерное лечение редко применимо)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In symptomatic patients with baffle stenosis not amenable to catheter intervention, surgical repair is recommended.",
+            "ru": "У симптомных пациентов со стенозом туннеля (baffle stenosis), не поддающимся эндоваскулярному лечению, рекомендуется повторная операция."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In symptomatic patients with baffle leaks not amenable to catheter-based closure, surgical repair is recommended.",
+            "ru": "У симптомных пациентов с дефектами туннелей (baffle leaks), не поддающимися эндоваскулярному закрытию, рекомендуется хирургическая коррекция."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients with severe systemic (tricuspid) AV valve regurgitation, without significant ventricular systolic dysfunction (EF >40%), valve repair or replacement should be considered, regardless of symptoms.",
+            "ru": "У пациентов с тяжелой недостаточностью системного (трикуспидального) АВ-клапана без значимой систолической дисфункции системного желудочка (ФВ >40%) пластику или протезирование клапана следует рассматривать независимо от симптомов."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "PA banding in adults, as LV training with subsequent arterial switch procedure, is not recommended.",
+            "ru": "Суживание легочной артерии (бэндинг ЛА) у взрослых для «тренировки» ЛЖ с последующим артериальным переключением не рекомендуется."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Indications for catheter intervention",
+        "ru": "Показания к катетерным интервенционным вмешательствам"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "In symptomatic patients with baffle stenosis, stenting is recommended when technically feasible.",
+            "ru": "У симптомных пациентов со стенозом предсердного туннеля рекомендуется стентирование при технической осуществимости."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "In symptomatic patients with baffle leaks and cyanosis at rest or during exercise, or with strong suspicion of paradoxical emboli, stenting (covered) or device closure is recommended when technically feasible.",
+            "ru": "У симптомных пациентов со сбросом через дефект туннеля (baffle leak) и цианозом в покое/нагрузке или высоким риском парадоксальной эмболии рекомендуется стентирование покрытым стентом или окклюдерное закрытие при технической осуществимости."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "In patients with baffle leaks and symptoms due to L–R shunt, stenting (covered) or device closure is recommended when technically feasible.",
+            "ru": "У пациентов со сбросом через туннель и симптомами, обусловленными сбросом слева направо, рекомендуется стентирование покрытым стентом или закрытие окклюдером при технической осуществимости."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "In asymptomatic patients with baffle leaks with substantial ventricular volume overload due to L–R shunt, stenting (covered) or device closure should be considered when technically feasible.",
+            "ru": "У бессимптомных пациентов со сбросом через туннель со значительной объемной перегрузкой желудочка сбросом слева направо следует рассматривать стентирование покрытым стентом или закрытие окклюдером."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "In patients with a baffle leak who require a PM/ICD, closure of the baffle leak with a covered stent should be considered, when technically feasible, prior to insertion of transvenous leads.",
+            "ru": "У пациентов с дефектом туннеля (baffle leak), нуждающихся в имплантации ЭКС/ИКД, следует рассматривать закрытие дефекта покрытым стентом до введения трансвенозных электродов."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "In asymptomatic patients with baffle stenosis, stenting may be considered when technically feasible.",
+            "ru": "У бессимптомных пациентов со стенозом туннеля стентирование может быть рассмотрено при технической выполнимости."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 11
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

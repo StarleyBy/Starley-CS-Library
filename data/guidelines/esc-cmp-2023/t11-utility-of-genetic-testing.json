@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t11-utility-of-genetic-testing",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 11",
+  "type": "grid",
+  "title": {
+    "en": "Utility of genetic testing in cardiomyopathies",
+    "ru": "Клиническая польза генетического тестирования при кардиомиопатиях"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "genetics",
+    "genetic-testing",
+    "prognosis",
+    "counselling",
+    "cascade-screening"
+  ],
+  "columns": [
+    {
+      "id": "c_target",
+      "title": {
+        "en": "Category",
+        "ru": "Категория"
+      }
+    },
+    {
+      "id": "c_utility",
+      "title": {
+        "en": "Utility and clinical implications",
+        "ru": "Польза и клиническое значение"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "For the patient: Diagnosis",
+            "ru": "Для пациента: Диагностика"
+          }
+        },
+        {
+          "text": {
+            "en": "For the affected individual, the diagnosis of cardiomyopathy is primarily made on the basis of a phenotypic definition of disease, without reference to genetic aetiology. However, with appropriate genetic counselling and acknowledging the caveat that the finding will only be clinically actionable when a P/LP variant is found, genetic testing may be of value in clarifying borderline cases (e.g. where LVH is observed in the context of mild or controlled hypertension, but the clinician is not able to confidently distinguish between early sarcomeric HCM and a hypertensive phenocopy). Genetic testing can also identify genocopies: distinct genetic conditions that mimic a particular cardiomyopathy.",
+            "ru": "У больного диагноз кардиомиопатии устанавливается в первую очередь на основе фенотипических критериев, независимо от генетической этиологии. Однако при условии надлежащего медико-генетического консультирования и понимания того, что клиническое значение имеет только выявление патогенного/вероятно патогенного (P/LP) варианта, генетическое тестирование ценно для уточнения пограничных случаев (например, когда ГЛЖ выявляется на фоне мягкой или контролируемой артериальной гипертензии, и клиницист затрудняется дифференцировать раннюю саркомерную ГКМП от гипертонической фенокопии). Генетическое тестирование также выявляет генокопии — отдельные моногенные заболевания, симулирующие определенную кардиомиопатию."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "For the patient: Prognosis",
+            "ru": "Для пациента: Прогноз"
+          }
+        },
+        {
+          "text": {
+            "en": "For an increasing number of conditions, a genetic diagnosis can provide prognostic information. For example, DCM due to variants in LMNA has an adverse prognosis requiring more frequent surveillance and shifting therapeutic decision thresholds with a lower threshold for primary prevention ICD implantation.",
+            "ru": "Для все большего числа нозологий генетический диагноз дает важную прогностическую информацию. Например, ДКМП, обусловленная вариантами гена LMNA, имеет крайне неблагоприятный прогноз, требуя более частого мониторинга и снижения порога показаний для имплантации ИКД с целью первичной профилактики."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "For the patient: Therapy",
+            "ru": "Для пациента: Терапия"
+          }
+        },
+        {
+          "text": {
+            "en": "A genetic diagnosis may directly stratify choice of therapy. In addition to decisions on primary prevention ICD implantation, an increasing number of treatments are either established or under trial for a specific molecular subtype of cardiomyopathy. In addition, with an increasingly sophisticated toolbox for manipulation of the genome, further waves of therapies aiming to replace, alter, or remove abnormal genes and transcripts responsible for cardiomyopathies are anticipated once a precise molecular aetiology is established in a patient.",
+            "ru": "Генетический диагноз может напрямую определять выбор терапии. Помимо показаний к первичной профилактике ИКД, растет число препаратов, внедренных или исследуемых для таргетного лечения конкретных молекулярных подтипов кардиомиопатий. Кроме того, по мере развития технологий геномного редактирования ожидается появление новых поколений терапевтических средств, направленных на замену, модификацию или элиминацию мутантных генов и их транскриптов после установления точной молекулярной причины."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "For the patient: Reproductive advice",
+            "ru": "Для пациента: Репродуктивное консультирование"
+          }
+        },
+        {
+          "text": {
+            "en": "A genetic diagnosis informs reproductive advice and management for an affected adult and/or the parents of an affected child, enabling tailored advice on inheritance patterns and the risk of transmission to future children, and opening the door to management of risk; e.g. through pre-natal diagnostics or pre-implantation genetic diagnosis.",
+            "ru": "Генетический диагноз определяет репродуктивное консультирование и планирование семьи для взрослого пациента и/или родителей больного ребенка, позволяя точно рассчитать тип наследования и риск передачи заболевания будущим детям, а также использовать методы снижения риска (пренатальную или преимплантационную генетическую диагностику)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "For relatives",
+            "ru": "Для родственников (каскадный скрининг)"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiomyopathies display incomplete and age-related penetrance, with great variability, therefore it is very difficult to identify clinically those relatives who are not at risk of developing cardiomyopathy. A normal one-off assessment is of limited value, and relatives without cardiomyopathy on initial evaluation may require long-term longitudinal surveillance. Genetic testing can eliminate this uncertainty: an individual who does not carry the genetic variant proved to be responsible for disease in their family can be confidently reassured and discharged without surveillance, while an individual who carries a disease-causing variant can be followed closely, and potentially treated early.",
+            "ru": "Кардиомиопатиям свойственна неполная и возраст-зависимая пенетрантность с высокой вариабельностью, поэтому клинически выявить родственников, не имеющих риска развития болезни, крайне сложно. Однократное нормальное обследование имеет ограниченную ценность, и родственникам без признаков болезни может требоваться многолетнее наблюдение. Генетическое тестирование устраняет эту неопределенность: родственник, не унаследовавший семейный патогенный вариант, может быть надежно успокоен и снят с диспансерного учета, тогда как носитель патогенного варианта подлежит тщательному наблюдению и раннему началу превентивного лечения."
+          }
+        }
+      ]
+    }
+  ]
+}

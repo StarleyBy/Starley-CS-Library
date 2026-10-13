@@ -1,0 +1,1278 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.t09-what-to-do",
+  "guidelineId": "esc-acs-2023",
+  "number": "9 (What to do)",
+  "type": "recommendations",
+  "title": {
+    "en": "Table 9: 'What to do' and 'What not to do' messages from the Guidelines",
+    "ru": "Таблица 9: Ключевые положения «Что делать» и «Чего не делать» из руководства"
+  },
+  "tags": [
+    "what-to-do",
+    "what-not-to-do",
+    "summary",
+    "key-messages",
+    "class-i",
+    "class-iii"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for clinical and diagnostic tools for patients with suspected acute coronary syndrome",
+        "ru": "Рекомендации по клиническим и диагностическим инструментам у пациентов с подозрением на острый коронарный синдром"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that patients with suspected STEMI are immediately triaged for an emergency reperfusion strategy.",
+            "ru": "Рекомендовано незамедлительно направлять пациентов с подозрением на STEMI на стратегию экстренной реперфузии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "It is recommended to base the diagnosis and initial short-term risk stratification of ACS on a combination of clinical history, symptoms, vital signs, other physical findings, ECG, and hs-cTn.",
+            "ru": "Рекомендовано основывать диагноз и начальную краткосрочную стратификацию риска ОКС на сочетании клинического анамнеза, симптомов, показателей жизненно важных функций, данных физикального осмотра, ЭКГ и hs-cTn."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Twelve-lead ECG recording and interpretation is recommended as soon as possible at the point of first medical contact, with a target of <10 min.",
+            "ru": "Регистрация и интерпретация 12-канальной ЭКГ рекомендованы как можно скорее в месте первого медицинского контакта (FMC), с целевым временем <10 мин."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Continuous ECG monitoring and the availability of defibrillator capacity is recommended as soon as possible in all patients with suspected STEMI, in suspected ACS with other ECG changes or ongoing chest pain, and once the diagnosis of MI is made.",
+            "ru": "Непрерывный ЭКГ-мониторинг и доступность дефибриллятора рекомендованы как можно скорее всем пациентам с подозрением на STEMI, при подозрении на ОКС с другими изменениями ЭКГ или продолжающейся болью в груди, а также после установления диагноза ИМ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "The use of additional ECG leads (V3R, V4R, and V7–V9) is recommended in cases of inferior STEMI or if total vessel occlusion is suspected and standard leads are inconclusive.",
+            "ru": "Использование дополнительных отведений ЭКГ (V3R, V4R и V7–V9) рекомендовано при нижнем STEMI или подозрении на полную окклюзию артерии при неинформативных стандартных отведениях."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "An additional 12-lead ECG is recommended in cases with recurrent symptoms or diagnostic uncertainty.",
+            "ru": "Дополнительная запись 12-канальной ЭКГ рекомендована при рецидиве симптомов или диагностической неопределенности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "It is recommended to measure cardiac troponins with high-sensitivity assays immediately after presentation and to obtain the results within 60 min of blood sampling.",
+            "ru": "Рекомендовано определять сердечные тропонины высокочувствительными методами сразу при поступлении и получать результаты в течение 60 мин от момента забора крови."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "It is recommended to use an ESC algorithmic approach with serial hs-cTn measurements (0 h/1 h or 0 h/2 h) to rule in and rule out NSTEMI.",
+            "ru": "Рекомендовано использовать алгоритмический подход ESC с серийным определением hs-cTn (0 ч/1 ч или 0 ч/2 ч) для подтверждения или исключения NSTEMI."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Additional testing after 3 h is recommended if the first two hs-cTn measurements of the 0 h/1 h algorithm are inconclusive and no alternative diagnoses explaining the condition have been made.",
+            "ru": "Дополнительное исследование через 3 ч рекомендовано, если первые два измерения hs-cTn алгоритма 0 ч/1 ч не дали определенного ответа и не установлено альтернативного диагноза."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Recommendations for non-invasive imaging in the initial assessment of patients with suspected acute coronary syndrome",
+        "ru": "Рекомендации по неинвазивной визуализации при первичной оценке пациентов с подозрением на острый коронарный синдром"
+      },
+      "rows": [
+        {
+          "id": "r10",
+          "text": {
+            "en": "Emergency TTE is recommended in patients with suspected ACS presenting with cardiogenic shock or suspected mechanical complications.",
+            "ru": "Экстренная трансторакальная эхокардиография рекомендована пациентам с подозрением на ОКС при наличии кардиогенного шока или подозрения на механические осложнения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "Routine, early coronary computed tomography angiography in patients with suspected ACS is not recommended.",
+            "ru": "Рутинная ранняя компьютерная томографическая коронарография (КТ-КГ) у пациентов с подозрением на ОКС не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Recommendations for the initial management of patients with acute coronary syndrome",
+        "ru": "Рекомендации по начальному ведению пациентов с острым коронарным синдромом"
+      },
+      "rows": [
+        {
+          "id": "r12",
+          "text": {
+            "en": "It is recommended that the pre-hospital management of patients with a working diagnosis of STEMI is based on regional networks designed to deliver reperfusion therapy expeditiously and effectively, with efforts made to make PPCI available to as many patients as possible.",
+            "ru": "Рекомендовано, чтобы догоспитальное ведение пациентов с рабочим диагнозом STEMI базировалось на региональных сетях, обеспечивающих быструю и эффективную реперфузионную терапию с максимальной доступностью первичного ЧКВ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "It is recommended that PPCI-capable centres deliver a 24/7 service and are able to perform PPCI without delay.",
+            "ru": "Рекомендовано, чтобы центры, выполняющие первичное ЧКВ, работали в режиме 24/7 и были способны проводить первичное ЧКВ без задержек."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "It is recommended that patients transferred for PPCI bypass the emergency department and CCU/ICU and are transferred directly to the catheterization laboratory.",
+            "ru": "Рекомендовано, чтобы пациенты, транспортируемые для первичного ЧКВ, миновали приемное отделение и ОРИТ и доставлялись напрямую в рентгеноперационную (cath lab)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "Oxygen is recommended in patients with hypoxaemia (SaO2 <90%).",
+            "ru": "Кислородотерапия рекомендована пациентам с гипоксемией (SaO2 <90%)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r16",
+          "text": {
+            "en": "It is recommended that EMS transfer patients with suspected STEMI to a PCI-capable centre, bypassing non-PCI centres.",
+            "ru": "Рекомендовано, чтобы бригада СМП доставляла пациентов с подозрением на STEMI в ЧКВ-центр, минуя стационары без возможности проведения ЧКВ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r17",
+          "text": {
+            "en": "It is recommended that ambulance teams are trained and equipped to identify ECG patterns suggestive of acute coronary occlusion and to administer initial therapy, including defibrillation, and fibrinolysis when applicable.",
+            "ru": "Рекомендовано, чтобы бригады скорой помощи были обучены и оснащены для выявления ЭКГ-признаков острой окклюзии коронарных артерий и проведения начальной терапии, включая дефибрилляцию и фибринолиз при необходимости."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r18",
+          "text": {
+            "en": "It is recommended that all hospitals and EMS participating in the care of patients with suspected STEMI record and audit delay times and work together to achieve and maintain quality targets.",
+            "ru": "Рекомендовано, чтобы все стационары и службы СМП, участвующие в лечении STEMI, фиксировали временные задержки и проводили аудит для достижения целевых показателей качества."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r19",
+          "text": {
+            "en": "Routine oxygen is not recommended in patients with oxygen saturation >90%.",
+            "ru": "Рутинная оксигенотерапия не рекомендуется пациентам с сатурацией кислорода >90%."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en": "Recommendations for reperfusion therapy and timing of invasive strategy",
+        "ru": "Рекомендации по реперфузионной терапии и срокам инвазивной стратегии"
+      },
+      "rows": [
+        {
+          "id": "r20",
+          "text": {
+            "en": "Reperfusion therapy is recommended in all patients with a working diagnosis of STEMI (persistent ST-segment elevation or equivalents) and symptoms of ischaemia of ≤12 h duration.",
+            "ru": "Реперфузионная терапия рекомендована всем пациентам с рабочим диагнозом STEMI (стойкий подъем ST или эквиваленты) и длительностью симптомов ишемии ≤12 ч."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r21",
+          "text": {
+            "en": "A PPCI strategy is recommended over fibrinolysis if the anticipated time from diagnosis to PCI is <120 min.",
+            "ru": "Стратегия первичного ЧКВ рекомендована предпочтительно перед тромболизисом, если предполагаемое время от постановки диагноза до ЧКВ составляет <120 мин."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r22",
+          "text": {
+            "en": "If timely PPCI (<120 min) cannot be performed in patients with a working diagnosis of STEMI, fibrinolytic therapy is recommended within 12 h of symptom onset in patients without contraindications.",
+            "ru": "Если своевременное первичное ЧКВ (<120 мин) не может быть выполнено при STEMI, фибринолитическая терапия рекомендована в течение 12 ч от начала симптомов при отсутствии противопоказаний."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r23",
+          "text": {
+            "en": "Rescue PCI is recommended for failed fibrinolysis (i.e. ST-segment resolution <50% within 60–90 min of fibrinolytic administration) or in the presence of haemodynamic or electrical instability, worsening ischaemia, or persistent chest pain.",
+            "ru": "Спасительное ЧКВ (rescue PCI) рекомендовано при неэффективном фибринолизе (разрешение подъема ST <50% в течение 60–90 мин после введения препарата) либо при гемодинамической/электрической нестабильности, нарастании ишемии или сохраняющейся боли."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r24",
+          "text": {
+            "en": "In patients with a working diagnosis of STEMI and a time from symptom onset >12 h, a PPCI strategy is recommended in the presence of ongoing symptoms suggestive of ischaemia, haemodynamic instability, or life-threatening arrhythmias.",
+            "ru": "У пациентов со STEMI и длительностью симптомов >12 ч первичное ЧКВ рекомендовано при продолжающихся симптомах ишемии, гемодинамической нестабильности или жизнеугрожающих аритмиях."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r25",
+          "text": {
+            "en": "Routine PCI of an occluded IRA is not recommended in STEMI patients presenting >48 h after symptom onset and without persistent symptoms.",
+            "ru": "Рутинное ЧКВ окклюзированной инфаркт-связанной артерии не рекомендуется у пациентов со STEMI при давности симптомов >48 ч и отсутствии персистирующих симптомов."
+          },
+          "class": "III",
+          "level": "A"
+        },
+        {
+          "id": "r26",
+          "text": {
+            "en": "Transfer to a PCI-capable centre is recommended in all patients immediately after fibrinolysis.",
+            "ru": "Перевод в ЧКВ-центр рекомендован всем пациентам незамедлительно после проведения фибринолиза."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r27",
+          "text": {
+            "en": "Emergency angiography and PCI of the IRA, if indicated, is recommended in patients with new-onset or persistent heart failure/shock after fibrinolysis.",
+            "ru": "Экстренная ангиография и ЧКВ инфаркт-связанной артерии (по показаниям) рекомендованы пациентам с впервые возникшей или персистирующей сердечной недостаточностью/шоком после фибринолиза."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r28",
+          "text": {
+            "en": "Angiography and PCI of the IRA, if indicated, is recommended between 2 and 24 h after successful fibrinolysis.",
+            "ru": "Ангиография и ЧКВ инфаркт-связанной артерии (по показаниям) рекомендованы в интервале от 2 до 24 ч после успешного фибринолиза."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r29",
+          "text": {
+            "en": "An invasive strategy during hospital admission is recommended in NSTE-ACS patients with high-risk criteria or with a high index of suspicion for unstable angina.",
+            "ru": "Инвазивная стратегия во время госпитализации рекомендована пациентам с ОКСбпST при наличии критериев высокого риска или высокой вероятности нестабильной стенокардии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r30",
+          "text": {
+            "en": "A selective invasive approach is recommended in patients without very high- or high-risk features and a low index of suspicion for NSTE-ACS.",
+            "ru": "Селективный инвазивный подход рекомендован пациентам без признаков очень высокого или высокого риска и с низкой вероятностью ОКСбпST."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r31",
+          "text": {
+            "en": "An immediate invasive strategy is recommended in patients with a working diagnosis of NSTE-ACS and with at least one of the following very high-risk criteria:\n• Haemodynamic instability or cardiogenic shock\n• Recurrent or refractory chest pain despite medical treatment\n• In-hospital life-threatening arrhythmias\n• Mechanical complications of MI\n• Acute heart failure presumed secondary to ongoing myocardial ischaemia\n• Recurrent dynamic ST-segment or T wave changes, particularly intermittent ST-segment elevation.",
+            "ru": "Немедленная инвазивная стратегия рекомендована пациентам с рабочим диагнозом ОКСбпST при наличии хотя бы одного из следующих критериев очень высокого риска:\n• Гемодинамическая нестабильность или кардиогенный шок\n• Рецидивирующая или рефрактерная боль в груди, несмотря на медикаментозную терапию\n• Жизнеугрожающие аритмии в стационаре\n• Механические осложнения ИМ\n• Острая сердечная недостаточность, предположительно обусловленная ишемией миокарда\n• Рецидивирующие динамические изменения сегмента ST или зубца T, особенно преходящий подъем сегмента ST."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "title": {
+        "en": "Recommendations for antiplatelet and anticoagulant therapy in acute coronary syndrome",
+        "ru": "Рекомендации по антиагрегантной и антикоагулянтной терапии при ОКС"
+      },
+      "rows": [
+        {
+          "id": "r32",
+          "text": {
+            "en": "Aspirin is recommended for all patients without contraindications at an initial oral LD of 150–300 mg (or 75–250 mg i.v.) and an MD of 75–100 mg o.d. for long-term treatment.",
+            "ru": "Аспирин рекомендован всем пациентам при отсутствии противопоказаний в нагрузочной дозе 150–300 мг внутрь (или 75–250 мг в/в) и поддерживающей дозе 75–100 мг 1 раз в сутки длительно."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r33",
+          "text": {
+            "en": "In all ACS patients, a P2Y12 receptor inhibitor is recommended in addition to aspirin, given as an initial oral LD followed by an MD for 12 months unless there is high bleeding risk.",
+            "ru": "Всем пациентам с ОКС рекомендуется ингибитор рецепторов P2Y12 в дополнение к аспирину: нагрузочная доза внутрь с последующей поддерживающей дозой в течение 12 месяцев, если нет высокого риска кровотечений."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r34",
+          "text": {
+            "en": "A proton pump inhibitor in combination with dual antiplatelet therapy is recommended in patients at high risk of gastrointestinal bleeding.",
+            "ru": "Ингибитор протонной помпы в комбинации с двойной антиагрегантной терапией рекомендуется пациентам с высоким риском желудочно-кишечных кровотечений."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r35",
+          "text": {
+            "en": "Prasugrel is recommended in P2Y12 receptor inhibitor-naive patients proceeding to PCI (60 mg LD, 10 mg o.d. MD, 5 mg o.d. MD for patients aged ≥75 years or with a body weight <60 kg).",
+            "ru": "Прасугрел рекомендуется пациентам, не получавшим ингибиторы P2Y12 ранее и направляемым на ЧКВ (НД 60 мг, ПД 10 мг/сут; 5 мг/сут для пациентов ≥75 лет или с массой тела <60 кг)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r36",
+          "text": {
+            "en": "Ticagrelor is recommended irrespective of the treatment strategy (invasive or conservative) (180 mg LD, 90 mg twice a day MD).",
+            "ru": "Тикагрелор рекомендуется независимо от стратегии лечения (инвазивная или консервативная) (НД 180 мг, ПД 90 мг 2 раза в сутки)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r37",
+          "text": {
+            "en": "Clopidogrel (300–600 mg LD, 75 mg o.d. MD) is recommended when prasugrel or ticagrelor are not available, cannot be tolerated, or are contraindicated.",
+            "ru": "Клопидогрел (НД 300–600 мг, ПД 75 мг/сут) рекомендуется, если прасугрел или тикагрелор недоступны, не переносятся или противопоказаны."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r38",
+          "text": {
+            "en": "If patients presenting with ACS stop DAPT to undergo CABG, it is recommended they resume DAPT after surgery for at least 12 months.",
+            "ru": "Если пациенты с ОКС временно отменяют ДАТТ для проведения КШ, рекомендуется возобновить ДАТТ после операции как минимум на 12 месяцев."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r39",
+          "text": {
+            "en": "Pre-treatment with a glycoprotein IIb/IIIa antagonist is not recommended.",
+            "ru": "Предварительное лечение блокатором гликопротеина IIb/IIIa не рекомендуется."
+          },
+          "class": "III",
+          "level": "A"
+        },
+        {
+          "id": "r40",
+          "text": {
+            "en": "Routine pre-treatment with a P2Y12 receptor inhibitor in NSTE-ACS patients in whom coronary anatomy is not known and early invasive management (<24 h) is planned is not recommended.",
+            "ru": "Рутинный предварительный прием ингибитора P2Y12 у пациентов с ОКСбпST, у которых коронарная анатомия неизвестна и планируется раннее инвазивное вмешательство (<24 ч), не рекомендуется."
+          },
+          "class": "III",
+          "level": "A"
+        },
+        {
+          "id": "r41",
+          "text": {
+            "en": "Parenteral anticoagulation is recommended for all patients with ACS at the time of diagnosis.",
+            "ru": "Парентеральная антикоагуляция рекомендуется всем пациентам с ОКС в момент установления диагноза."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r42",
+          "text": {
+            "en": "Routine use of a UFH bolus (weight-adjusted i.v. bolus during PCI of 70–100 IU/kg) is recommended in patients undergoing PCI.",
+            "ru": "Рутинное болюсное введение НФГ (скорректированный по весу в/в болюс во время ЧКВ 70–100 МЕ/кг) рекомендуется пациентам, которым выполняется ЧКВ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r43",
+          "text": {
+            "en": "Fondaparinux is not recommended in patients with STEMI undergoing PPCI.",
+            "ru": "Фондапаринукс не рекомендуется пациентам со STEMI, которым выполняется первичное ЧКВ."
+          },
+          "class": "III",
+          "level": "B"
+        },
+        {
+          "id": "r44",
+          "text": {
+            "en": "For patients with NSTE-ACS in whom early invasive angiography (i.e. within 24 h) is not anticipated, fondaparinux is recommended.",
+            "ru": "Пациентам с ОКСбпST, у которых ранняя коронароангиография (в течение 24 ч) не предполагается, рекомендуется фондапаринукс."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r45",
+          "text": {
+            "en": "As the default strategy for patients with atrial fibrillation and CHA2DS2-VASc score ≥1 in men and ≥2 in women, after up to 1 week of triple antithrombotic therapy following the ACS event, dual antithrombotic therapy using a non-vitamin K antagonist oral anticoagulant at the recommended dose for stroke prevention and a single oral antiplatelet agent (preferably clopidogrel) for up to 12 months is recommended.",
+            "ru": "В качестве стратегии по умолчанию для пациентов с ФП и баллом CHA2DS2-VASc ≥1 у мужчин и ≥2 у женщин после тройной антитромботической терапии продолжительностью до 1 недели рекомендуется двойная терапия: ПОАК в дозе для профилактики инсульта и один антиагрегант (предпочтительно клопидогрел) на срок до 12 месяцев."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r46",
+          "text": {
+            "en": "During PCI, a UFH bolus is recommended in any of the following circumstances:\n• if the patient is on a NOAC\n• if the INR is <2.5 in VKA-treated patients.",
+            "ru": "Во время ЧКВ болюс НФГ рекомендуется в следующих ситуациях:\n• если пациент принимает ПОАК (NOAC)\n• если МНО <2,5 у пациентов, принимающих АВК."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r47",
+          "text": {
+            "en": "The use of ticagrelor or prasugrel as part of triple antithrombotic therapy is not recommended.",
+            "ru": "Применение тикагрелора или прасугрела в составе тройной антитромботической терапии не рекомендуется."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "title": {
+        "en": "Recommendations for alternative antithrombotic therapy regimens",
+        "ru": "Рекомендации по альтернативным режимам антитромботической терапии"
+      },
+      "rows": [
+        {
+          "id": "r48",
+          "text": {
+            "en": "Discontinuation of antiplatelet treatment in patients treated with an oral anticoagulant is recommended after 12 months.",
+            "ru": "Прекращение антиагрегантной терапии у пациентов, принимающих пероральный антикоагулянт, рекомендуется через 12 месяцев."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r49",
+          "text": {
+            "en": "De-escalation of antiplatelet therapy in the first 30 days after ACS is not recommended.",
+            "ru": "Деэскалация антиагрегантной терапии в первые 30 дней после ОКС не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "title": {
+        "en": "Recommendations for fibrinolytic therapy",
+        "ru": "Рекомендации по фибринолитической терапии"
+      },
+      "rows": [
+        {
+          "id": "r50",
+          "text": {
+            "en": "When fibrinolysis is the reperfusion strategy, it is recommended to initiate this treatment as soon as possible after diagnosis in the pre-hospital setting (aim for target of <10 min to lytic bolus).",
+            "ru": "Если фибринолиз выбран в качестве стратегии реперфузии, рекомендуется начать терапию как можно скорее на догоспитальном этапе (целевое время <10 мин от диагноза до болюса)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r51",
+          "text": {
+            "en": "A fibrin-specific agent (i.e. tenecteplase, alteplase, or reteplase) is recommended.",
+            "ru": "Рекомендуется фибрин-специфический препарат (тенектеплаза, альтеплаза или ретеплаза)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r52",
+          "text": {
+            "en": "Aspirin and clopidogrel are recommended as antiplatelet co-therapy with fibrinolysis.",
+            "ru": "Аспирин и клопидогрел рекомендуются в качестве сопутствующей антиагрегантной терапии при фибринолизе."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r53",
+          "text": {
+            "en": "Anticoagulation is recommended in patients treated with fibrinolysis until revascularization (if performed) or for the duration of hospital stay (up to 8 days).",
+            "ru": "Антикоагуляция рекомендуется пациентам после фибринолиза до момента реваскуляризации или на время госпитализации (до 8 дней)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r54",
+          "text": {
+            "en": "Enoxaparin i.v. followed by subcutaneous is recommended as the preferred anticoagulant.",
+            "ru": "Эноксапарин в/в с последующим п/к введением рекомендуется в качестве предпочтительного антикоагулянта."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r55",
+          "text": {
+            "en": "When enoxaparin is not available, unfractionated heparin is recommended as a weight-adjusted i.v. bolus, followed by infusion.",
+            "ru": "При недоступности эноксапарина рекомендуется нефракционированный гепарин в виде в/в болюса по массе тела с последующей инфузией."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "title": {
+        "en": "Recommendations for cardiac arrest and out-of-hospital cardiac arrest",
+        "ru": "Рекомендации при остановке сердца и внебольничной остановке сердца"
+      },
+      "rows": [
+        {
+          "id": "r56",
+          "text": {
+            "en": "A PPCI strategy is recommended in patients with resuscitated cardiac arrest and an ECG with persistent ST-segment elevation (or equivalents).",
+            "ru": "Стратегия первичного ЧКВ рекомендуется пациентам после успешной реанимации при наличии стойкого подъема ST (или его эквивалентов) на ЭКГ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r57",
+          "text": {
+            "en": "Temperature control (i.e. continuous monitoring of core temperature and active prevention of fever [i.e. >37.7°C]) is recommended after either out-of-hospital or in-hospital cardiac arrest for adults who remain unresponsive after return of spontaneous circulation.",
+            "ru": "Целевой температурный контроль (мониторинг центральной температуры и активное предотвращение лихорадки >37,7°C) рекомендуется взрослым пациентам без сознания после восстановления спонтанного кровообращения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r58",
+          "text": {
+            "en": "Routine immediate angiography after resuscitated cardiac arrest is not recommended in haemodynamically stable patients without persistent ST-segment elevation (or equivalents).",
+            "ru": "Рутинная немедленная коронароангиография после реанимации не рекомендуется гемодинамически стабильным пациентам без стойкого подъема ST (или эквивалентов)."
+          },
+          "class": "III",
+          "level": "A"
+        },
+        {
+          "id": "r59",
+          "text": {
+            "en": "It is recommended that healthcare systems implement strategies to facilitate transfer of all patients in whom ACS is suspected after resuscitated cardiac arrest directly to a hospital offering 24/7 PPCI via one specialized EMS.",
+            "ru": "Системам здравоохранения рекомендуется внедрить стратегии доставки пациентов с подозрением на ОКС после остановки сердца напрямую в центры с круглосуточным ЧКВ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r60",
+          "text": {
+            "en": "Evaluation of neurological prognosis (no earlier than 72 h after admission) is recommended in all comatose survivors after cardiac arrest.",
+            "ru": "Оценка неврологического прогноза (не ранее 72 ч после поступления) рекомендуется всем выжившим пациентам в коме после остановки сердца."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "title": {
+        "en": "Recommendations for cardiogenic shock",
+        "ru": "Рекомендации при кардиогенном шоке"
+      },
+      "rows": [
+        {
+          "id": "r61",
+          "text": {
+            "en": "Immediate coronary angiography and PCI of the IRA (if indicated) is recommended in patients with CS complicating ACS.",
+            "ru": "Немедленная коронарография и ЧКВ инфаркт-связанной артерии (по показаниям) рекомендуются при кардиогенном шоке, осложняющем ОКС."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r62",
+          "text": {
+            "en": "Emergency CABG is recommended for ACS-related CS if PCI of the IRA is not feasible/unsuccessful.",
+            "ru": "Экстренное КШ рекомендуется при кардиогенном шоке вследствие ОКС, если ЧКВ инфаркт-связанной артерии невыполнимо или безуспешно."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r63",
+          "text": {
+            "en": "In cases of haemodynamic instability, emergency surgical/catheter-based repair of mechanical complications of ACS is recommended, based on Heart Team discussion.",
+            "ru": "При гемодинамической нестабильности рекомендуется экстренная хирургическая или транскатетерная коррекция механических осложнений ОКС после обсуждения кардиокомандой."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r64",
+          "text": {
+            "en": "The routine use of an intra-aortic balloon pump in ACS patients with CS and without mechanical complications is not recommended.",
+            "ru": "Рутинное применение внутриаортального баллонного контрпульсатора у пациентов с ОКС и кардиогенным шоком без механических осложнений не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "title": {
+        "en": "Recommendations for in-hospital management",
+        "ru": "Рекомендации по госпитальному ведению"
+      },
+      "rows": [
+        {
+          "id": "r65",
+          "text": {
+            "en": "It is recommended that all hospitals participating in the care of high-risk patients have an ICCU/CCU equipped to provide all required aspects of care, including treatment of ischaemia, severe heart failure, arrhythmias, and common comorbidities.",
+            "ru": "Рекомендуется, чтобы все больницы, участвующие в лечении пациентов высокого риска, имели ОРИТ/БИТ, оснащенные для всех видов терапии: ишемии, тяжелой СН, аритмий и сопутствующей патологии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r66",
+          "text": {
+            "en": "It is recommended that high-risk patients (including all STEMI patients and very high-risk NSTE-ACS patients) have ECG monitoring for a minimum of 24 h.",
+            "ru": "Пациентам высокого риска (включая всех со STEMI и NSTE-ACS очень высокого риска) рекомендуется ЭКГ-мониторинг минимум в течение 24 ч."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r67",
+          "text": {
+            "en": "It is recommended that high-risk patients with successful reperfusion therapy and an uncomplicated clinical course (including all STEMI patients and very high-risk NSTE-ACS patients) are kept in the CCU/ICCU for a minimum of 24 h whenever possible, after which they may be moved to a step-down monitored bed for an additional 24–48 h.",
+            "ru": "Пациентам высокого риска с успешной реперфузией и неосложненным течением рекомендуется пребывание в ОРИТ минимум 24 ч, после чего они могут быть переведены в профильное отделение под наблюдение еще на 24–48 ч."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "title": {
+        "en": "Recommendations for technical aspects of invasive strategies",
+        "ru": "Рекомендации по техническим аспектам инвазивных вмешательств"
+      },
+      "rows": [
+        {
+          "id": "r68",
+          "text": {
+            "en": "Radial access is recommended as the standard approach, unless there are over-riding procedural considerations.",
+            "ru": "Радиальный доступ рекомендуется в качестве стандартного подхода, за исключением случаев преобладающих процедурных ограничений."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r69",
+          "text": {
+            "en": "PCI with stent deployment in the IRA during the index procedure is recommended for patients undergoing PPCI.",
+            "ru": "ЧКВ со стентированием IRA во время индексной процедуры рекомендуется пациентам, которым выполняется первичное ЧКВ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r70",
+          "text": {
+            "en": "Drug-eluting stents are recommended in preference to bare metal stents in all cases.",
+            "ru": "Стенты с лекарственным покрытием (DES) рекомендуются предпочтительно перед голометаллическими стентами во всех случаях."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r71",
+          "text": {
+            "en": "In patients with spontaneous coronary artery dissection, PCI is recommended only for patients with symptoms and signs of ongoing myocardial ischaemia, a large area of myocardium in jeopardy, and reduced antegrade flow.",
+            "ru": "При спонтанной диссекции коронарной артерии (SCAD) ЧКВ рекомендуется только при продолжающейся ишемии, большой зоне риска и сниженном антеградном кровотоке."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r72",
+          "text": {
+            "en": "The routine use of thrombus aspiration is not recommended.",
+            "ru": "Рутинное применение тромбоаспирации не рекомендуется."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "title": {
+        "en": "Recommendations for management of patients with multivessel disease",
+        "ru": "Рекомендации по ведению пациентов с многососудистым поражением"
+      },
+      "rows": [
+        {
+          "id": "r73",
+          "text": {
+            "en": "It is recommended to base the revascularization strategy (IRA PCI, multivessel PCI/CABG) on the patient's clinical status and comorbidities, as well as their disease complexity, according to the principles of management of myocardial revascularization.",
+            "ru": "Рекомендуется основывать стратегию реваскуляризации на клиническом статусе пациента, сопутствующих заболеваниях и анатомической сложности поражения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r74",
+          "text": {
+            "en": "IRA-only PCI during the index procedure is recommended in ACS patients presenting in cardiogenic shock.",
+            "ru": "ЧКВ только инфаркт-связанной артерии во время первичной процедуры рекомендуется у пациентов с ОКС и кардиогенным шоком."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r75",
+          "text": {
+            "en": "Complete revascularization is recommended either during the index PCI procedure or within 45 days in haemodynamically stable STEMI patients undergoing PPCI.",
+            "ru": "Полная реваскуляризация (во время индексного ЧКВ или в течение 45 дней) рекомендуется у гемодинамически стабильных пациентов со STEMI."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r76",
+          "text": {
+            "en": "It is recommended that PCI of the non-IRA is based on angiographic severity in haemodynamically stable STEMI patients undergoing PPCI.",
+            "ru": "Рекомендуется определять показания к ЧКВ не связанной с инфарктом артерии по ангиографической тяжести поражения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r77",
+          "text": {
+            "en": "Invasive epicardial functional assessment of non-culprit segments of the IRA is not recommended during the index procedure.",
+            "ru": "Инвазивная функциональная оценка невиновных сегментов IRA не рекомендуется во время индексной процедуры."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "title": {
+        "en": "Recommendations for myocardial infarction with non-obstructive coronary arteries",
+        "ru": "Рекомендации при инфаркте миокарда без обструкции коронарных артерий (MINOCA)"
+      },
+      "rows": [
+        {
+          "id": "r78",
+          "text": {
+            "en": "In patients with a working diagnosis of MINOCA CMR imaging is recommended after invasive angiography if the final diagnosis is not clear.",
+            "ru": "Пациентам с рабочим диагнозом MINOCA рекомендуется МРТ сердца после коронарографии, если диагноз остается неясным."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r79",
+          "text": {
+            "en": "Management of MINOCA according to the final established underlying diagnosis is recommended, consistent with the appropriate disease-specific guidelines.",
+            "ru": "Лечение пациентов с MINOCA рекомендуется проводить в соответствии с окончательно верифицированным этиологическим диагнозом."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r80",
+          "text": {
+            "en": "In all patients with an initial working diagnosis of MINOCA, it is recommended to follow a diagnostic algorithm to determine the underlying final diagnosis.",
+            "ru": "Всем пациентам с рабочим диагнозом MINOCA рекомендуется следовать диагностическому алгоритму для установления окончательного диагноза."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "title": {
+        "en": "Recommendations for acute coronary syndrome complications",
+        "ru": "Рекомендации по осложнениям острого коронарного синдрома"
+      },
+      "rows": [
+        {
+          "id": "r81",
+          "text": {
+            "en": "Intravenous beta-blockers are recommended when rate control is needed in the absence of acute HF or hypotension.",
+            "ru": "Внутривенные бета-блокаторы рекомендуются для контроля ЧСС при отсутствии острой СН или гипотензии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r82",
+          "text": {
+            "en": "Intravenous amiodarone is recommended when rate control is needed in the presence of acute HF and no hypotension.",
+            "ru": "Внутривенный амиодарон рекомендуется для контроля ритма/ЧСС при наличии острой СН и отсутствии гипотензии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r83",
+          "text": {
+            "en": "Immediate electrical cardioversion is recommended in patients with ACS and haemodynamic instability and when adequate rate control cannot be achieved promptly with pharmacological agents.",
+            "ru": "Немедленная электрическая кардиоверсия рекомендуется при гемодинамической нестабильности или невозможности быстрого фармакологического контроля ритма."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r84",
+          "text": {
+            "en": "Intravenous amiodarone is recommended to facilitate electrical cardioversion and/or decrease risk of early recurrence of AF after electrical cardioversion in unstable patients with recent-onset AF.",
+            "ru": "Внутривенный амиодарон рекомендуется для облегчения кардиоверсии и снижения риска раннего рецидива ФП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r85",
+          "text": {
+            "en": "Implantable cardioverter defibrillator use is recommended to reduce sudden cardiac death in patients with symptomatic HF (NYHA Class II–III) and LVEF ≤35% despite optimal medical therapy for >3 months and at least 6 weeks after MI who are expected to survive for at least 1 year with good functional status.",
+            "ru": "Имплантация ИКД рекомендуется для снижения внезапной смерти у пациентов с симптомной СН и ФВЛЖ ≤35% через ≥6 недель после ИМ и >3 мес оптимальной медикаментозной терапии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r86",
+          "text": {
+            "en": "Intravenous beta-blocker and/or amiodarone treatment is recommended for patients with polymorphic VT and/or VF unless contraindicated.",
+            "ru": "Внутривенные бета-блокаторы и/или амиодарон рекомендуются при полиморфной ЖТ и/или ФЖ при отсутствии противопоказаний."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r87",
+          "text": {
+            "en": "Prompt and complete revascularization is recommended to treat myocardial ischaemia that may be present in patients with recurrent VT and/or VF.",
+            "ru": "Быстрая и полная реваскуляризация рекомендуется для купирования ишемии миокарда у пациентов с рецидивирующей ЖТ и/или ФЖ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r88",
+          "text": {
+            "en": "In cases of sinus bradycardia with haemodynamic intolerance or high-degree AV block without stable escape rhythm:\n• i.v. positive chronotropic medication (adrenaline, vasopressin, and/or atropine) is recommended.",
+            "ru": "При симптоматической синусовой брадикардии или АВ-блокаде высокой степени:\n• рекомендуется в/в введение положительных хронотропных средств (адреналин, вазопрессин, атропин)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r89",
+          "text": {
+            "en": "In cases of sinus bradycardia with haemodynamic intolerance or high-degree AV block without stable escape rhythm:\n• temporary pacing is recommended in cases of failure to respond to atropine.",
+            "ru": "При брадикардии или АВ-блокаде высокой степени:\n• рекомендуется временная кардиостимуляция при неэффективности атропина."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r90",
+          "text": {
+            "en": "In cases of sinus bradycardia with haemodynamic intolerance or high-degree AV block without stable escape rhythm:\n• urgent angiography with a view to revascularization is recommended if the patient has not received previous reperfusion therapy.",
+            "ru": "При брадикардии или АВ-блокаде высокой степени:\n• рекомендуется экстренная ангиография с реваскуляризацией, если реперфузия ранее не проводилась."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r91",
+          "text": {
+            "en": "Implantation of a permanent pacemaker is recommended when high-degree AV block does not resolve within a waiting period of at least 5 days after MI.",
+            "ru": "Имплантация постоянного ЭКС рекомендуется, если АВ-блокада высокой степени не разрешается в течение как минимум 5 дней наблюдения после ИМ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r92",
+          "text": {
+            "en": "Pacing is not recommended if high-degree AV block resolves after revascularization or spontaneously.",
+            "ru": "Электрокардиостимуляция не рекомендуется, если АВ-блокада высокой степени разрешилась после реваскуляризации или спонтанно."
+          },
+          "class": "III",
+          "level": "B"
+        },
+        {
+          "id": "r93",
+          "text": {
+            "en": "Treatment of asymptomatic and haemodynamically irrelevant ventricular arrhythmias with anti-arrhythmic drugs is not recommended.",
+            "ru": "Лечение бессимптомных и гемодинамически незначимых желудочковых аритмий антиаритмиками не рекомендуется."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "title": {
+        "en": "Recommendations for acute coronary syndrome comorbid conditions",
+        "ru": "Рекомендации при сопутствующих патологиях у пациентов с ОКС"
+      },
+      "rows": [
+        {
+          "id": "r94",
+          "text": {
+            "en": "The use of low- or iso-osmolar contrast media (at the lowest possible volume) is recommended for invasive strategies.",
+            "ru": "Применение низко- или изоосмолярных контрастных препаратов в минимальном объеме рекомендуется при инвазивных процедурах."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r95",
+          "text": {
+            "en": "It is recommended to assess kidney function using eGFR in all patients with ACS.",
+            "ru": "Оценка функции почек по рСКФ рекомендуется всем пациентам с ОКС."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r96",
+          "text": {
+            "en": "It is recommended to apply the same diagnostic and therapeutic strategies in patients with CKD (dose adjustment may be necessary) as in patients with normal kidney function.",
+            "ru": "Рекомендуется применять одинаковые диагностические и лечебные стратегии у пациентов с ХБП (с коррекцией доз), как и при сохранной функции почек."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r97",
+          "text": {
+            "en": "It is recommended to base the choice of long-term glucose-lowering treatment on the presence of comorbidities, including heart failure, CKD, and obesity.",
+            "ru": "Выбор длительной сахароснижающей терапии рекомендуется основывать на коморбидности (СН, ХБП, ожирение)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r98",
+          "text": {
+            "en": "It is recommended to assess glycaemic status at initial evaluation in all patients with ACS.",
+            "ru": "Оценка гликемического статуса рекомендуется при первичном обследовании всем пациентам с ОКС."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r99",
+          "text": {
+            "en": "It is recommended to frequently monitor blood glucose levels in patients with known diabetes mellitus or hyperglycaemia (defined as glucose levels ≥11.1 mmol/L or ≥200 mg/dL).",
+            "ru": "Регулярный мониторинг гликемии рекомендуется пациентам с диабетом или гипергликемией (глюкоза ≥11,1 ммоль/л или ≥200 мг/дл)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r100",
+          "text": {
+            "en": "It is recommended to apply the same diagnostic and treatment strategies in older patients as in younger patients.",
+            "ru": "Рекомендуется применять те же диагностические и лечебные подходы у пожилых пациентов, что и у молодых."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r101",
+          "text": {
+            "en": "It is recommended to adapt the choice and dosage of antithrombotic agent, as well as of secondary prevention medications, to renal function, co-medications, comorbidities, frailty, cognitive function, and specific contraindications.",
+            "ru": "Рекомендуется индивидуализировать дозировки антитромботических препаратов и вторичной профилактики с учетом функции почек, сопутствующих средств, хрупкости (frailty) и когнитивного статуса."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r102",
+          "text": {
+            "en": "For frail older patients with comorbidities, a holistic approach is recommended to individualize interventional and pharmacological treatments after careful evaluation of the risks and benefits.",
+            "ru": "Для пожилых пациентов со старческой астенией рекомендуется целостный подход с индивидуализацией терапии после оценки соотношения риск/польза."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r103",
+          "text": {
+            "en": "An invasive strategy is recommended in cancer patients presenting with high-risk ACS with expected life survival ≥6 months.",
+            "ru": "Инвазивная стратегия рекомендуется онкологическим больным с ОКС высокого риска при ожидаемой продолжительности жизни ≥6 месяцев."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r104",
+          "text": {
+            "en": "A temporary interruption of cancer therapy is recommended in patients in whom the cancer therapy is suspected to be a contributing cause of ACS.",
+            "ru": "Временная отмена противоопухолевой терапии рекомендуется, если она подозревается в качестве провоцирующего фактора ОКС."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r105",
+          "text": {
+            "en": "Aspirin is not recommended in cancer patients with a platelet count <10 000/μL.",
+            "ru": "Аспирин не рекомендуется онкологическим пациентам при уровне тромбоцитов <10 000/мкл."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r106",
+          "text": {
+            "en": "Clopidogrel is not recommended in cancer patients with a platelet count <30 000/μL.",
+            "ru": "Клопидогрел не рекомендуется онкологическим пациентам при уровне тромбоцитов <30 000/мкл."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r107",
+          "text": {
+            "en": "In ACS patients with cancer and <50 000/μL platelet count, prasugrel or ticagrelor are not recommended.",
+            "ru": "Прасугрел или тикагрелор не рекомендуются пациентам с ОКС и онкопатологией при уровне тромбоцитов <50 000/мкл."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "title": {
+        "en": "Recommendations for long-term management",
+        "ru": "Рекомендации по долгосрочному ведению пациентов"
+      },
+      "rows": [
+        {
+          "id": "r108",
+          "text": {
+            "en": "It is recommended that all ACS patients participate in a medically supervised, structured, comprehensive, multidisciplinary exercise-based cardiac rehabilitation and prevention programme.",
+            "ru": "Всем пациентам с ОКС рекомендуется участие в структурированной контролируемой программе кардиореабилитации на основе физических нагрузок."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r109",
+          "text": {
+            "en": "It is recommended that ACS patients adopt a healthy lifestyle, including:\n• stopping all smoking of tobacco\n• healthy diet (Mediterranean style)\n• alcohol restriction\n• regular aerobic physical activity and resistance exercise\n• reduced sedentary time",
+            "ru": "Пациентам с ОКС рекомендуется здоровый образ жизни:\n• отказ от курения\n• средиземноморская диета\n• ограничение алкоголя\n• регулярные аэробные и силовые тренировки\n• снижение малоподвижного времени."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r110",
+          "text": {
+            "en": "It is recommended that high-dose statin therapy is initiated or continued as early as possible, regardless of initial LDL-C values.",
+            "ru": "Высокоинтенсивную терапию статинами рекомендуется начинать или продолжать как можно раньше, независимо от исходного ХС-ЛНП."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r111",
+          "text": {
+            "en": "It is recommended to aim to achieve an LDL-C level of <1.4 mmol/L (<55 mg/dL) and to reduce LDL-C by ≥50% from baseline.",
+            "ru": "Рекомендуется достижение целевого уровня ХС-ЛНП <1,4 ммоль/л (<55 мг/дл) и снижение его на ≥50% от исходного."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r112",
+          "text": {
+            "en": "If the LDL-C goal is not achieved despite maximally tolerated statin therapy and ezetimibe after 4–6 weeks, the addition of a PCSK9 inhibitor is recommended.",
+            "ru": "Если целевой уровень ХС-ЛНП не достигнут на максимальной дозе статина и эзетимибе через 4–6 недель, рекомендуется добавление ингибитора PCSK9."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r113",
+          "text": {
+            "en": "If the LDL-C goal is not achieved despite maximally tolerated statin therapy after 4–6 weeks, the addition of ezetimibe is recommended.",
+            "ru": "Если цель по ХС-ЛНП не достигнута на максимально переносимой дозе статина через 4–6 недель, рекомендуется добавление эзетимиба."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r114",
+          "text": {
+            "en": "It is recommended to intensify lipid-lowering therapy during the index ACS hospitalization for patients who were on lipid-lowering therapy before admission.",
+            "ru": "Рекомендуется интенсифицировать гиполипидемическую терапию во время индексной госпитализации у тех, кто уже принимал препараты до поступления."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r115",
+          "text": {
+            "en": "Beta-blockers are recommended in ACS patients with LVEF ≤40% regardless of HF symptoms.",
+            "ru": "Бета-блокаторы рекомендуются при ОКС с ФВЛЖ ≤40% независимо от наличия симптомов СН."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r116",
+          "text": {
+            "en": "Angiotensin-converting enzyme inhibitors are recommended in ACS patients with HF symptoms, LVEF ≤40%, diabetes, hypertension, and/or CKD.",
+            "ru": "Ингибиторы АПФ рекомендуются при ОКС пациентам с симптомами СН, ФВЛЖ ≤40%, диабетом, гипертензией и/или ХБП."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r117",
+          "text": {
+            "en": "Mineralocorticoid receptor antagonists are recommended in ACS patients with an LVEF ≤40% and HF or diabetes.",
+            "ru": "Антагонисты минералокортикоидных рецепторов рекомендуются при ОКС с ФВЛЖ ≤40% и СН или сахарным диабетом."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r118",
+          "text": {
+            "en": "In patients with pre-discharge LVEF ≤40%, repeat evaluation of the LVEF 6–12 weeks after an ACS (and after complete revascularization and the institution of optimal medical therapy) is recommended to assess the potential need for sudden cardiac death primary prevention ICD implantation.",
+            "ru": "Повторная оценка ФВЛЖ через 6–12 недель после ОКС рекомендуется пациентам с выписной ФВЛЖ ≤40% для определения показаний к первичной профилактике ИКД."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r119",
+          "text": {
+            "en": "Influenza vaccination is recommended for all ACS patients.",
+            "ru": "Вакцинация против гриппа рекомендуется всем пациентам с ОКС."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "title": {
+        "en": "Recommendations for patient perspectives in acute coronary syndrome care",
+        "ru": "Рекомендации с точки зрения интересов и вовлечения пациента"
+      },
+      "rows": [
+        {
+          "id": "r120",
+          "text": {
+            "en": "Patient-centred care is recommended by assessing and adhering to individual patient preferences, needs and beliefs, ensuring that patient values are used to inform all clinical decisions.",
+            "ru": "Пациент-ориентированная помощь рекомендуется с учетом индивидуальных предпочтений и ценностей пациента при принятии всех решений."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r121",
+          "text": {
+            "en": "It is recommended to include ACS patients in decision-making (as much as their condition allows) and to inform them about the risk of adverse events, radiation exposure, and alternative options. Decision aids should be used to facilitate the discussion.",
+            "ru": "Рекомендуется привлекать пациентов к принятию решений и информировать о рисках нежелательных событий, лучевой нагрузке и альтернативах."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r122",
+          "text": {
+            "en": "It is recommended to assess symptoms using methods that help patients to describe their experience.",
+            "ru": "Рекомендуется оценивать симптомы с помощью методов, помогающих пациентам точно описывать свои ощущения."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 122
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

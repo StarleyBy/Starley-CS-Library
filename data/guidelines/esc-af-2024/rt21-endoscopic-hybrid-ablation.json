@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt21-endoscopic-hybrid-ablation",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 21",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for endoscopic and hybrid AF ablation",
+    "ru": "Рекомендации по эндоскопической и гибридной аблации фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "hybrid-ablation",
+    "endoscopic",
+    "surgical-ablation",
+    "laa",
+    "persistent-af",
+    "aad-refractory"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for endoscopic and hybrid AF ablation",
+        "ru": "Рекомендации по эндоскопической и гибридной аблации ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Continuation of oral anticoagulation is recommended in patients with AF at elevated thromboembolic risk after concomitant, endoscopic, or hybrid AF ablation, independent of rhythm outcome or LAA exclusion, to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Продолжение приема оральных антикоагулянтов рекомендуется пациентам с ФП и повышенным тромбоэмболическим риском после сочетанной, торакоскопической или гибридной аблации ФП независимо от сохранения синусового ритма или окклюзии/резекции УЛП для профилактики ишемического инсульта и системных тромбоэмболий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Endoscopic and hybrid ablation procedures should be considered in patients with symptomatic persistent AF refractory to AAD therapy to prevent symptoms, recurrence, and progression of AF, within a shared decision-making rhythm control team of electrophysiologists and surgeons.",
+            "ru": "Торакоскопические и гибридные процедуры аблации следует рассматривать у пациентов с симптомной персистирующей ФП, рефрактерной к антиаритмической лекарственной терапии, для уменьшения симптомов, частоты рецидивов и прогрессирования ФП в рамках совместного решения команды электрофизиологов и хирургов."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Endoscopic and hybrid ablation procedures may be considered in patients with symptomatic paroxysmal AF refractory to AAD therapy and failed percutaneous catheter ablation strategy to prevent symptoms, recurrence, and progression of AF, within a shared decision-making rhythm control team of electrophysiologists and surgeons.",
+            "ru": "Торакоскопические и гибридные процедуры аблации могут рассматриваться у пациентов с симптомной пароксизмальной ФП, рефрактерной к медикаментозной антиаритмической терапии и безуспешной процедуре чрескожной катетерной аблации, для уменьшения симптомов, рецидивов и прогрессирования ФП (по решению команды электрофизиологов и хирургов)."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

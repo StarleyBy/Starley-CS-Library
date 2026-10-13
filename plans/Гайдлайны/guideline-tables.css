@@ -1,0 +1,130 @@
+/* ==========================================================================
+   Guideline tables — color tokens + base layout
+   Colors come ONLY from data values (class / level / tone), never from JSON.
+   Themes: light (default), dark via [data-theme="dark"] or prefers-color-scheme.
+   Adapt the selector in the two dark blocks to your app's theme switch.
+   ========================================================================== */
+
+:root {
+  /* Class of recommendation */
+  --gt-cls-I-bg:   #5cbf8a;  --gt-cls-I-fg:   #0b1f17;
+  --gt-cls-IIa-bg: #f7c600;  --gt-cls-IIa-fg: #231c00;
+  --gt-cls-IIb-bg: #f59a23;  --gt-cls-IIb-fg: #2a1700;
+  --gt-cls-III-bg: #c8434a;  --gt-cls-III-fg: #ffffff;
+  /* Level of evidence */
+  --gt-lvl-A-bg: #177a93;    --gt-lvl-A-fg: #ffffff;
+  --gt-lvl-B-bg: #5aa9bd;    --gt-lvl-B-fg: #08202a;
+  --gt-lvl-C-bg: #cfe6ed;    --gt-lvl-C-fg: #08202a;
+  /* Grid-table tones */
+  --gt-tone-neutral-bg: transparent; --gt-tone-neutral-fg: inherit;
+  --gt-tone-green-bg:  #d6f0e1; --gt-tone-green-fg:  #0b1f17;
+  --gt-tone-yellow-bg: #fdf0b3; --gt-tone-yellow-fg: #231c00;
+  --gt-tone-orange-bg: #fbd9ae; --gt-tone-orange-fg: #2a1700;
+  --gt-tone-red-bg:    #f5c6c8; --gt-tone-red-fg:    #3a0a0d;
+  --gt-tone-blue-bg:   #d3e8f0; --gt-tone-blue-fg:   #08202a;
+  /* Surfaces */
+  --gt-surface: #ffffff;
+  --gt-section-bg: #e6e9ec;  --gt-section-fg: #1b2530;
+  --gt-border: #c9d0d6;
+  --gt-text: #1b2530;
+  --gt-muted: #5b6773;
+  --gt-accent: #177a93;
+  --gt-row-active: rgba(23,122,147,.10);
+  --gt-badge-w: 3.1rem;
+  --gt-radius: 10px;
+}
+
+:root[data-theme="dark"] { /* ← mirror in the media block below */
+  --gt-cls-I-bg:   #27805a;  --gt-cls-I-fg:   #ffffff;
+  --gt-cls-IIa-bg: #d4ad12;  --gt-cls-IIa-fg: #1c1600;
+  --gt-cls-IIb-bg: #d68a1f;  --gt-cls-IIb-fg: #1f1100;
+  --gt-cls-III-bg: #b0393f;  --gt-cls-III-fg: #ffffff;
+  --gt-lvl-A-bg: #17748b;    --gt-lvl-A-fg: #ffffff;
+  --gt-lvl-B-bg: #2f7a8d;    --gt-lvl-B-fg: #ffffff;
+  --gt-lvl-C-bg: #355e6b;    --gt-lvl-C-fg: #ffffff;
+  --gt-tone-green-bg:  #1f4a36; --gt-tone-green-fg:  #e6f6ed;
+  --gt-tone-yellow-bg: #5a4b0c; --gt-tone-yellow-fg: #fff6cf;
+  --gt-tone-orange-bg: #5e3d12; --gt-tone-orange-fg: #ffe9cc;
+  --gt-tone-red-bg:    #5c2326; --gt-tone-red-fg:    #ffdadc;
+  --gt-tone-blue-bg:   #1f4452; --gt-tone-blue-fg:   #dff1f7;
+  --gt-surface: #16202a;
+  --gt-section-bg: #243241;  --gt-section-fg: #e3eaf0;
+  --gt-border: #2f3e4d;
+  --gt-text: #e3eaf0;
+  --gt-muted: #93a2b0;
+  --gt-accent: #5cc3dc;
+  --gt-row-active: rgba(92,195,220,.12);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --gt-cls-I-bg:   #27805a;  --gt-cls-I-fg:   #ffffff;
+    --gt-cls-IIa-bg: #d4ad12;  --gt-cls-IIa-fg: #1c1600;
+    --gt-cls-IIb-bg: #d68a1f;  --gt-cls-IIb-fg: #1f1100;
+    --gt-cls-III-bg: #b0393f;  --gt-cls-III-fg: #ffffff;
+    --gt-lvl-A-bg: #17748b;    --gt-lvl-A-fg: #ffffff;
+    --gt-lvl-B-bg: #2f7a8d;    --gt-lvl-B-fg: #ffffff;
+    --gt-lvl-C-bg: #355e6b;    --gt-lvl-C-fg: #ffffff;
+    --gt-tone-green-bg:  #1f4a36; --gt-tone-green-fg:  #e6f6ed;
+    --gt-tone-yellow-bg: #5a4b0c; --gt-tone-yellow-fg: #fff6cf;
+    --gt-tone-orange-bg: #5e3d12; --gt-tone-orange-fg: #ffe9cc;
+    --gt-tone-red-bg:    #5c2326; --gt-tone-red-fg:    #ffdadc;
+    --gt-tone-blue-bg:   #1f4452; --gt-tone-blue-fg:   #dff1f7;
+    --gt-surface: #16202a;
+    --gt-section-bg: #243241;  --gt-section-fg: #e3eaf0;
+    --gt-border: #2f3e4d;
+    --gt-text: #e3eaf0;
+    --gt-muted: #93a2b0;
+    --gt-accent: #5cc3dc;
+    --gt-row-active: rgba(92,195,220,.12);
+  }
+}
+
+/* ---------- Layout (div grid with ARIA roles; works on phones without h-scroll) ---------- */
+.gt { background: var(--gt-surface); color: var(--gt-text); border: 1px solid var(--gt-border);
+      border-radius: var(--gt-radius); overflow: hidden; font-size: .95rem; line-height: 1.4; }
+.gt-head { padding: .75rem .9rem; border-bottom: 1px solid var(--gt-border); }
+.gt-guideline { display: inline-block; font-size: .72rem; font-weight: 700; letter-spacing: .04em;
+                text-transform: uppercase; color: var(--gt-accent); }
+.gt-title { margin: .15rem 0 0; font-size: 1.02rem; font-weight: 700; }
+.gt-cols, .gt-row { display: grid; grid-template-columns: minmax(0,1fr) var(--gt-badge-w) var(--gt-badge-w); }
+.gt-cols { font-size: .72rem; font-weight: 700; color: var(--gt-muted); text-align: center;
+           border-bottom: 1px solid var(--gt-border); }
+.gt-section { padding: .5rem .9rem; background: var(--gt-section-bg); color: var(--gt-section-fg);
+              font-weight: 700; }
+.gt-row { border-top: 1px solid var(--gt-border); cursor: pointer; }
+.gt-row:first-child { border-top: 0; }
+.gt-row[aria-selected="true"] { background: var(--gt-row-active); }
+.gt-text { padding: .6rem .9rem; min-width: 0; }
+.gt-text ul { margin: .35rem 0 0; padding-left: 1.1rem; }
+.gt-text li { margin: .15rem 0; }
+.gt-ref { font-size: .7em; vertical-align: super; color: var(--gt-muted); margin-left: .15em; }
+.gt-fn  { font-size: .7em; vertical-align: super; color: var(--gt-accent); font-weight: 700; }
+.gt-note-dot { display: inline-block; width: .5rem; height: .5rem; margin-left: .4rem; border-radius: 50%;
+               background: var(--gt-accent); vertical-align: middle; }
+
+/* Badges: color = f(data-class / data-level) */
+.gt-badge { display: flex; align-items: center; justify-content: center; font-weight: 800; }
+.gt-badge[data-class="I"]   { background: var(--gt-cls-I-bg);   color: var(--gt-cls-I-fg); }
+.gt-badge[data-class="IIa"] { background: var(--gt-cls-IIa-bg); color: var(--gt-cls-IIa-fg); }
+.gt-badge[data-class="IIb"] { background: var(--gt-cls-IIb-bg); color: var(--gt-cls-IIb-fg); }
+.gt-badge[data-class="III"] { background: var(--gt-cls-III-bg); color: var(--gt-cls-III-fg); }
+.gt-badge[data-level="A"]   { background: var(--gt-lvl-A-bg);   color: var(--gt-lvl-A-fg); }
+.gt-badge[data-level="B"]   { background: var(--gt-lvl-B-bg);   color: var(--gt-lvl-B-fg); }
+.gt-badge[data-level="C"]   { background: var(--gt-lvl-C-bg);   color: var(--gt-lvl-C-fg); }
+
+/* Grid-type tables: tone on any cell */
+.gt-cell[data-tone="neutral"] { background: var(--gt-tone-neutral-bg); color: var(--gt-tone-neutral-fg); }
+.gt-cell[data-tone="green"]   { background: var(--gt-tone-green-bg);   color: var(--gt-tone-green-fg); }
+.gt-cell[data-tone="yellow"]  { background: var(--gt-tone-yellow-bg);  color: var(--gt-tone-yellow-fg); }
+.gt-cell[data-tone="orange"]  { background: var(--gt-tone-orange-bg);  color: var(--gt-tone-orange-fg); }
+.gt-cell[data-tone="red"]     { background: var(--gt-tone-red-bg);     color: var(--gt-tone-red-fg); }
+.gt-cell[data-tone="blue"]    { background: var(--gt-tone-blue-bg);    color: var(--gt-tone-blue-fg); }
+
+/* Footnotes / legend */
+.gt-foot { padding: .6rem .9rem; border-top: 1px solid var(--gt-border); font-size: .8rem; color: var(--gt-muted); }
+.gt-foot p { margin: .2rem 0; }
+
+/* Search hit highlight */
+.gt mark { background: color-mix(in srgb, var(--gt-accent) 35%, transparent); color: inherit; border-radius: 3px; padding: 0 .1em; }
+
+@media (max-width: 480px) { :root { --gt-badge-w: 2.6rem; } .gt { font-size: .92rem; } }

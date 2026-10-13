@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t07-ecg-features",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 7",
+  "type": "grid",
+  "title": {
+    "en": "Examples of electrocardiographic features that should raise the suspicion of specific aetiologies, grouped according to cardiomyopathy phenotype",
+    "ru": "Примеры электрокардиографических признаков, вызывающих подозрение на специфическую этиологию, сгруппированные по фенотипам кардиомиопатий"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "ecg",
+    "hcm",
+    "dcm",
+    "ndlvc",
+    "arvc",
+    "rcm",
+    "pre-excitation",
+    "av-block",
+    "low-voltage"
+  ],
+  "columns": [
+    {
+      "id": "c_phenotype",
+      "title": {
+        "en": "Cardiomyopathy phenotype",
+        "ru": "Фенотип КМП"
+      }
+    },
+    {
+      "id": "c_finding",
+      "title": {
+        "en": "Finding",
+        "ru": "ЭКГ-признак"
+      }
+    },
+    {
+      "id": "c_diseases",
+      "title": {
+        "en": "Specific diseases to be considered",
+        "ru": "Предполагаемые специфические нозологии"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        { "text": { "en": "**HCM**", "ru": "**ГКМП**" } },
+        { "text": { "en": "Short PR interval / pre-excitation", "ru": "Укорочение интервала PR / феномен предвозбуждения" } },
+        { "text": { "en": "• Glycogenosis\n• Danon disease\n• PRKAG2 cardiomyopathy\n• Anderson–Fabry disease\n• Mitochondrial disease", "ru": "• Гликогенозы\n• Болезнь Данона\n• Кардиомиопатия PRKAG2\n• Болезнь Андерсона–Фабри\n• Митохондриальные болезни" } }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        { "text": { "en": "HCM", "ru": "ГКМП" } },
+        { "text": { "en": "AV block", "ru": "Атриовентрикулярная (АВ) блокада" } },
+        { "text": { "en": "• Amyloidosis\n• Anderson–Fabry disease (late stage)\n• Danon disease\n• Sarcoidosis\n• PRKAG2 cardiomyopathy", "ru": "• Амилоидоз сердца\n• Болезнь Андерсона–Фабри (поздняя стадия)\n• Болезнь Данона\n• Саркоидоз\n• Кардиомиопатия PRKAG2" } }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        { "text": { "en": "HCM", "ru": "ГКМП" } },
+        { "text": { "en": "Extreme LVH", "ru": "Экстремальная гипертрофия ЛЖ (высокий вольтаж)" } },
+        { "text": { "en": "• Danon disease\n• Glycogenosis (e.g. Pompe disease)\n• PRKAG2 cardiomyopathy", "ru": "• Болезнь Данона\n• Гликогенозы (напр., болезнь Помпе)\n• Кардиомиопатия PRKAG2" } }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        { "text": { "en": "HCM", "ru": "ГКМП" } },
+        { "text": { "en": "Low QRS voltage^[a]", "ru": "Низкий вольтаж зубцов QRS^[a]" } },
+        { "text": { "en": "• Amyloidosis\n• Friedreich ataxia", "ru": "• Амилоидоз сердца\n• Атаксия Фридрейха" } }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        { "text": { "en": "HCM", "ru": "ГКМП" } },
+        { "text": { "en": "Superior QRS axis ('northwest axis')", "ru": "Резкое отклонение ЭОС вверх («северо-западная ось»)" } },
+        { "text": { "en": "Noonan syndrome", "ru": "Синдром Нунан" } }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        { "text": { "en": "HCM", "ru": "ГКМП" } },
+        { "text": { "en": "Q waves / pseudoinfarction pattern", "ru": "Патологические зубцы Q / псевдоинфарктный рубец" } },
+        { "text": { "en": "Amyloidosis", "ru": "Амилоидоз сердца" } }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        { "text": { "en": "**DCM**", "ru": "**ДКМП**" } },
+        { "text": { "en": "AV block", "ru": "Атриовентрикулярная блокада" } },
+        { "text": { "en": "• Laminopathy\n• Emery–Dreifuss 1\n• Myocarditis (esp. Chagas disease, Lyme disease, diphtheria)\n• Sarcoidosis\n• Desminopathy\n• Myotonic dystrophy", "ru": "• Ламинопатия (LMNA)\n• Эмери–Дрейфус 1 типа\n• Миокардит (болезнь Шагаса, Лайм-боррелиоз, дифтерия)\n• Саркоидоз\n• Десминопатия\n• Миотоническая дистрофия" } }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        { "text": { "en": "DCM", "ru": "ДКМП" } },
+        { "text": { "en": "Low P wave amplitude", "ru": "Низкая амплитуда зубца P" } },
+        { "text": { "en": "Emery–Dreifuss 1 and 2", "ru": "Синдром Эмери–Дрейфуса 1 и 2 типов" } }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        { "text": { "en": "DCM", "ru": "ДКМП" } },
+        { "text": { "en": "Atrial standstill", "ru": "Остановка (паралич) предсердий (atrial standstill)" } },
+        { "text": { "en": "Emery–Dreifuss 1 and 2", "ru": "Синдром Эмери–Дрейфуса 1 и 2 типов" } }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        { "text": { "en": "DCM", "ru": "ДКМП" } },
+        { "text": { "en": "Posterolateral infarction pattern", "ru": "Заднебоковой инфарктоподобный паттерн (зубцы Q)" } },
+        { "text": { "en": "• Dystrophinopathy\n• Limb-girdle muscular dystrophy\n• Sarcoidosis", "ru": "• Дистрофинопатия (Дюшенна/Беккера)\n• Конечностно-поясная мышечная дистрофия\n• Саркоидоз" } }
+      ]
+    },
+    {
+      "id": "r11",
+      "cells": [
+        { "text": { "en": "DCM", "ru": "ДКМП" } },
+        { "text": { "en": "Extremely low QRS amplitude", "ru": "Экстремально низкая амплитуда комплекса QRS" } },
+        { "text": { "en": "PLN variant", "ru": "Мутация гена PLN (фосфоламбан)" } }
+      ]
+    },
+    {
+      "id": "r12",
+      "cells": [
+        { "text": { "en": "**NDLVC**", "ru": "**НДЛЖКМП**" } },
+        { "text": { "en": "AV block", "ru": "Атриовентрикулярная блокада" } },
+        { "text": { "en": "• Laminopathy\n• Desminopathy", "ru": "• Ламинопатия\n• Десминопатия" } }
+      ]
+    },
+    {
+      "id": "r13",
+      "cells": [
+        { "text": { "en": "NDLVC", "ru": "НДЛЖКМП" } },
+        { "text": { "en": "Extremely low QRS amplitude", "ru": "Экстремально низкая амплитуда QRS" } },
+        { "text": { "en": "PLN variant", "ru": "Мутация гена PLN" } }
+      ]
+    },
+    {
+      "id": "r14",
+      "cells": [
+        { "text": { "en": "NDLVC", "ru": "НДЛЖКМП" } },
+        { "text": { "en": "Low QRS voltage + atypical RBBB", "ru": "Низкий вольтаж QRS + атипичная БПНПГ" } },
+        { "text": { "en": "Desmosomal variants", "ru": "Десмосомальные мутации" } }
+      ]
+    },
+    {
+      "id": "r15",
+      "cells": [
+        { "text": { "en": "**ARVC**", "ru": "**АКПЖ**" } },
+        { "text": { "en": "T wave inversion V1–V3 + terminal activation delay +/– low right ventricular voltages +/– atypical RBBB", "ru": "Инверсия зубца T в V1–V3 + задержка терминальной активации ± низкий вольтаж правых отведений ± атипичная БПНПГ" } },
+        { "text": { "en": "Arrhythmogenic right ventricular cardiomyopathy (desmosomal variants, TMEM43, PLN)", "ru": "Аритмогенная кардиомиопатия правого желудочка (десмосомальные мутации, TMEM43, PLN)" } }
+      ]
+    },
+    {
+      "id": "r16",
+      "cells": [
+        { "text": { "en": "**RCM**", "ru": "**РКМП**" } },
+        { "text": { "en": "AV block", "ru": "Атриовентрикулярная блокада" } },
+        { "text": { "en": "• Desminopathy\n• Amyloidosis", "ru": "• Десминопатия\n• Амилоидоз сердца" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "In the absence of obesity, pericardial effusion, chronic obstructive pulmonary disease, abnormalities of the chest, or other reasons that may cause low voltage.",
+      "ru": "При отсутствии ожирения, перикардиального выпота, ХОБЛ, деформаций грудной клетки или других внесердечных причин низкого вольтажа."
+    }
+  }
+}

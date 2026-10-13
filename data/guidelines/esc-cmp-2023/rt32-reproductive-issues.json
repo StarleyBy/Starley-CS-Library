@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt32-reproductive-issues",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 32",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for reproductive issues in patients with cardiomyopathy",
+    "ru": "Рекомендации по репродуктивным вопросам у пациентов с кардиомиопатией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "pregnancy",
+    "reproductive",
+    "mwho",
+    "contraception",
+    "delivery",
+    "anticoagulation",
+    "peripartum"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for reproductive issues in patients with cardiomyopathy",
+        "ru": "Рекомендации по репродуктивным вопросам у пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Pre-pregnancy risk assessment and counselling are recommended in all women using the mWHO classification of maternal risk.",
+            "ru": "Оценка риска до наступления беременности и медико-генетическое консультирование рекомендуются всем женщинам с применением модифицированной классификации материнского риска ВОЗ (mWHO)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Counselling on safe and effective contraception is recommended in all women of fertile age and their partners.",
+            "ru": "Консультирование по безопасной и эффективной контрацепции рекомендуется всем женщинам детородного возраста и их партнерам."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Counselling on the risk of disease inheritance is recommended for all men and women before conception.",
+            "ru": "Консультирование относительно риска наследования заболевания рекомендуется всем мужчинам и женщинам до зачатия."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Vaginal delivery is recommended in most women with cardiomyopathies, unless there are obstetric indications for caesarean section, severe heart failure (EF <30% or NYHA class III–IV), or severe outflow tract obstructions, or in women presenting in labour on oral anticoagulants.",
+            "ru": "Влагалищные роды рекомендуются большинству женщин с кардиомиопатиями при отсутствии акушерских показаний к кесареву сечению, тяжелой сердечной недостаточности (ФВ <30% или III–IV ФК по NYHA), выраженной обструкции выходного тракта или начала родовой деятельности на фоне приема пероральных антикоагулянтов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "It is recommended that medication be carefully reviewed for safety in advance of pregnancy and adjusted according to tolerability in pregnancy.",
+            "ru": "Рекомендуется заблаговременно до беременности тщательно пересмотреть безопасность принимаемых лекарственных средств (отмена иАПФ/БРА/АРНИ/иSGLT2) и скорректировать терапию."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Therapeutic anticoagulation with LMWH or VKAs according to the stage of pregnancy is recommended for patients with AF.",
+            "ru": "Терапевтическая антикоагулянтная терапия НМГ или АВК (в зависимости от триместра беременности) рекомендуется пациенткам с фибрилляцией предсердий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Continuation of beta-blockers should be considered during pregnancy in women with cardiomyopathies, with close follow-up of foetal growth and of the condition of the neonate, and if benefits outweigh risks.",
+            "ru": "Продолжение приема бета-блокаторов во время беременности у женщин с кардиомиопатиями следует рассмотреть при тщательном контроле роста плода и состояния новорожденного, если ожидаемая польза превышает потенциальные риски."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Genetic counselling and testing should be considered in patients with peripartum cardiomyopathy.",
+            "ru": "Медико-генетическое консультирование и тестирование следует рассмотреть у пациенток с перипартальной (послеродовой) кардиомиопатией."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

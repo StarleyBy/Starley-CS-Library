@@ -1,0 +1,813 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.t13-what-to-do",
+  "guidelineId": "esc-achd-2020",
+  "number": "Table 13 (What to do)",
+  "type": "recommendations",
+  "title": {
+    "en": "'What to do' and 'what not to do' messages from the Guidelines",
+    "ru": "Ключевые положения «Что делать» и «Чего не делать» из руководства"
+  },
+  "tags": [
+    "achd",
+    "what-to-do",
+    "what-not-to-do",
+    "summary",
+    "class-i",
+    "class-iii"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Treatment of arrhythmias in adult congenital heart disease",
+        "ru": "Лечение аритмий при врожденных пороках сердца у взрослых"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with moderate and severe CHD complexity and documented arrhythmias, referral to a centre with a multidisciplinary team and expertise in ACHD patients and ACHD-related arrhythmia is indicated.",
+            "ru": "У пациентов со средней и высокой сложностью ВПС и документированными аритмиями показано направление в центр с мультидисциплинарной командой и опытом ведения пациентов с ВПС и связанными с ними аритмиями."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In CHD patients with documented arrhythmias or at high risk for post-procedural arrhythmias (e.g. ASD closure at older age) considered for percutaneous or surgical (re)interventions, referral to a centre with a multidisciplinary team with expertise in these interventions and in invasive treatment of arrhythmias is indicated.",
+            "ru": "У пациентов с ВПС с документированными аритмиями или с высоким риском послеоперационных аритмий (например, закрытие ДМПП в пожилом возрасте), рассматриваемых для чрескожных или хирургических (ре)вмешательств, показано направление в центр с мультидисциплинарной командой, обладающей опытом в этих вмешательствах и в инвазивном лечении аритмий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In mild CHD, catheter ablation is recommended over long-term medical therapy for symptomatic, sustained recurrent SVT (AVNRT, AVRT, AT, and IART), or if SVT is potentially related to SCD.",
+            "ru": "При легкой сложности ВПС катетерная аблация рекомендуется вместо длительной медикаментозной терапии при симптомных, устойчивых рецидивирующих СВТ (АВУРТ, АВРТ, ПТ и внутрипредсердной ре-энтри тахикардии) или если СВТ потенциально связана с внезапной сердечной смертью."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Catheter ablation is indicated as adjunctive therapy to ICDs in patients who present with recurrent monomorphic VT, incessant VT, or electrical storm not manageable by medical therapy or ICD reprogramming.",
+            "ru": "Катетерная аблация показана в качестве дополнительной терапии к ИКД у пациентов с рецидивирующей мономорфной ЖТ, непрерывно рецидивирующей ЖТ или электрическим штормом, не поддающимися медикаментозной терапии или перепрограммированию ИКД."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "ICD implantation is indicated in adults with CHD who are survivors of an aborted cardiac arrest due to VF or haemodynamically untolerated VT after evaluation to define the cause of the event and exclusion of reversible causes.",
+            "ru": "Имплантация ИКД показана взрослым с ВПС, пережившим остановку сердца вследствие ФЖ или гемодинамически нестабильной ЖТ, после обследования для определения причины события и исключения обратимых факторов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "ICD implantation is indicated in adults with CHD and sustained VT after haemodynamic evaluation and repair when indicated. EP evaluation is required to identify patients in whom catheter ablation or surgical ablation may be beneficial as adjunctive treatment or in whom it may offer a reasonable alternative.",
+            "ru": "Имплантация ИКД показана взрослым с ВПС и устойчивой ЖТ после оценки гемодинамики и хирургической коррекции порока (при наличии показаний). Требуется электрофизиологическое исследование для выявления пациентов, у которых катетерная или хирургическая аблация может быть полезна как дополнение или разумная альтернатива."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Treatment of pulmonary arterial hypertension associated with congenital heart disease",
+        "ru": "Лечение легочной артериальной гипертензии, ассоциированной с врожденными пороками сердца"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "It is recommended that patients with CHD and confirmed pre-capillary PH are counselled against pregnancy.",
+            "ru": "Пациенткам с ВПС и подтвержденной прекапиллярной ЛГ рекомендуется консультирование против наступления беременности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Risk assessment is recommended in all patients with PAH-CHD.",
+            "ru": "Оценка риска рекомендуется всем пациентам с ЛАГ-ВПС."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "In low- and intermediate-risk patients with repaired simple lesions and pre-capillary PH, initial oral combination therapy or sequential combination therapy is recommended and high-risk patients should be treated with initial combination therapy including parenteral prostanoids.",
+            "ru": "У пациентов низкого и промежуточного риска с устраненными простыми пороками и прекапиллярной ЛГ рекомендуется начальная пероральная комбинированная терапия или последовательная комбинированная терапия, а пациенты высокого риска должны получать начальную комбинированную терапию, включающую парентеральные простаноиды."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Atrial septal defect (native and residual)",
+        "ru": "Дефект межпредсердной перегородки (первичный и резидуальный)"
+      },
+      "rows": [
+        {
+          "id": "r10",
+          "text": {
+            "en": "In patients with evidence of RV volume overload and no PAH (no non-invasive signs of PAP elevation or invasive confirmation of PVR <3 WU in case of such signs) or LV disease, ASD closure is recommended regardless of symptoms.",
+            "ru": "У пациентов с признаками объемной перегрузки ПЖ и без ЛАГ (отсутствие неинвазивных признаков повышения ДЛА или инвазивное подтверждение ЛСС <3 ед. Вуда при их наличии) и без патологии ЛЖ закрытие ДМПП рекомендуется независимо от симптомов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "Device closure is recommended as the method of choice for secundum ASD closure when technically suitable.",
+            "ru": "Эндоваскулярное закрытие устройством (окклюдером) рекомендуется в качестве метода выбора при вторичном ДМПП при технической возможности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "In elderly patients not suitable for device closure, it is recommended to carefully weigh the surgical risk against the potential benefit of ASD closure.",
+            "ru": "У пожилых пациентов, не подходящих для эндоваскулярного закрытия окклюдером, рекомендуется тщательно сопоставлять хирургический риск с потенциальной пользой закрытия ДМПП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "In patients with non-invasive signs of PAP elevation, invasive measurement of PVR is mandatory.",
+            "ru": "У пациентов с неинвазивными признаками повышения давления в ЛА обязательным является инвазивное измерение легочного сосудистого сопротивления (ЛСС)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "In patients with LV disease, it is recommended to perform balloon testing and carefully weigh the benefit of eliminating L–R shunt against the potential negative impact of ASD closure on outcome due to an increase in filling pressure (taking closure, fenestrated closure, and no closure into consideration).",
+            "ru": "У пациентов с патологией ЛЖ рекомендуется выполнить баллонную окклюзионную пробу и тщательно сопоставить пользу от устранения сброса слева направо с возможным отрицательным влиянием закрытия ДМПП на исход из-за подъема давления наполнения (рассматривая полное закрытие, фенестрированное закрытие или отказ от закрытия)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "ASD closure is not recommended in patients with Eisenmenger physiology, patients with PAH and PVR ≥5 WU despite targeted PAH treatment, or desaturation on exercise.",
+            "ru": "Закрытие ДМПП не рекомендуется пациентам с синдромом Эйзенменгера, пациентам с ЛАГ и ЛСС ≥5 ед. Вуда, несмотря на таргетную терапию ЛАГ, или десатурацией при физической нагрузке."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en": "Ventricular septal defect (native and residual)",
+        "ru": "Дефект межжелудочковой перегородки (первичный и резидуальный)"
+      },
+      "rows": [
+        {
+          "id": "r16",
+          "text": {
+            "en": "In patients with evidence of LV volume overload and no PAH (no non-invasive signs of PAP elevation or invasive confirmation of PVR <3 WU in case of such signs), VSD closure is recommended regardless of symptoms.",
+            "ru": "У пациентов с признаками объемной перегрузки ЛЖ и без ЛАГ (отсутствие неинвазивных признаков повышения ДЛА или инвазивное подтверждение ЛСС <3 ед. Вуда при их наличии) закрытие ДМЖП рекомендуется независимо от симптомов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r17",
+          "text": {
+            "en": "VSD closure is not recommended in patients with Eisenmenger physiology and patients with severe PAH (PVR ≥5 WU) presenting with desaturation on exercise.",
+            "ru": "Закрытие ДМЖП не рекомендуется пациентам с синдромом Эйзенменгера и пациентам с тяжелой ЛАГ (ЛСС ≥5 ед. Вуда) с десатурацией при физической нагрузке."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "title": {
+        "en": "Atrioventricular septal defect",
+        "ru": "Атриовентрикулярный септальный дефект (АВК)"
+      },
+      "rows": [
+        {
+          "id": "r18",
+          "text": {
+            "en": "Surgical repair is not recommended in patients with Eisenmenger physiology and patients with PAH (PVR ≥5 WU) presenting with desaturation on exercise.",
+            "ru": "Хирургическая коррекция не рекомендуется пациентам с синдромом Эйзенменгера и пациентам с ЛАГ (ЛСС ≥5 ед. Вуда) с десатурацией при физической нагрузке."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r19",
+          "text": {
+            "en": "Surgical closure is recommended in patients with significant RV volume overload and should only be performed by a congenital cardiac surgeon.",
+            "ru": "Хирургическое закрытие рекомендуется пациентам со значительной объемной перегрузкой ПЖ и должно выполняться кардиохирургом с опытом хирургии ВПС."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r20",
+          "text": {
+            "en": "Valve surgery, preferably AV valve repair, is recommended in symptomatic patients with moderate to severe AV valve regurgitation and should be performed by a congenital cardiac surgeon.",
+            "ru": "Хирургическое вмешательство на клапане, предпочтительно пластика АВ-клапана, рекомендуется симптомным пациентам с умеренной или тяжелой регургитацией на АВ-клапане и должно выполняться кардиохирургом с опытом коррекции ВПС."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r21",
+          "text": {
+            "en": "In asymptomatic patients with severe left-sided AV valve regurgitation, valve surgery is recommended when LVESD ≥45 mm and/or LVEF ≤60% provided other causes of LV dysfunction are excluded.",
+            "ru": "У асимптомных пациентов с тяжелой регургитацией на левом АВ-клапане операция на клапане рекомендуется при КСР ЛЖ ≥45 мм и/или ФВ ЛЖ ≤60% при условии исключения других причин дисфункции ЛЖ."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "title": {
+        "en": "Patent ductus arteriosus",
+        "ru": "Открытый артериальный проток"
+      },
+      "rows": [
+        {
+          "id": "r22",
+          "text": {
+            "en": "In patients with evidence of LV volume overload and no PAH (no non-invasive signs of PAP elevation or invasive confirmation of PVR <3 WU in case of such signs), PDA closure is recommended regardless of symptoms.",
+            "ru": "У пациентов с признаками объемной перегрузки ЛЖ и без ЛАГ (отсутствие неинвазивных признаков повышения ДЛА или инвазивное подтверждение ЛСС <3 ед. Вуда при их наличии) закрытие ОАП рекомендуется независимо от симптомов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r23",
+          "text": {
+            "en": "Device closure is recommended as the method of choice when technically suitable.",
+            "ru": "Эндоваскулярное закрытие окклюдером рекомендуется как метод выбора при технической возможности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r24",
+          "text": {
+            "en": "PDA closure is not recommended in patients with Eisenmenger physiology and patients with lower limb desaturation on exercise.",
+            "ru": "Закрытие ОАП не рекомендуется пациентам с синдромом Эйзенменгера и пациентам с десатурацией в нижних конечностях при физической нагрузке."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "title": {
+        "en": "Valvular aortic stenosis",
+        "ru": "Клапанный аортальный стеноз"
+      },
+      "rows": [
+        {
+          "id": "r25",
+          "text": {
+            "en": "Intervention is recommended in all symptomatic patients with severe high-gradient AS (mean gradient ≥40 mmHg).",
+            "ru": "Вмешательство рекомендуется всем симптомным пациентам с тяжелым высокоградиентным АС (средний градиент ≥40 мм рт. ст.)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r26",
+          "text": {
+            "en": "Intervention is indicated in patients with severe low-flow, low-gradient (mean gradient <40 mmHg) AS with reduced EF and evidence of flow (contractile) reserve excluding pseudosevere AS.",
+            "ru": "Вмешательство показано пациентам с тяжелым низкопоточным низкоградиентным (средний градиент <40 мм рт. ст.) АС со сниженной ФВ и подтвержденным сократительным резервом, исключающим псевдотяжелый АС."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r27",
+          "text": {
+            "en": "Intervention is indicated in asymptomatic patients with severe AS and an abnormal exercise test showing symptoms on exercise clearly related to AS.",
+            "ru": "Вмешательство показано асимптомным пациентам с тяжелым АС и патологическим нагрузочным тестом, выявляющим симптомы при нагрузке, четко связанные с АС."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r28",
+          "text": {
+            "en": "Intervention is indicated in asymptomatic patients with severe AS and systolic LV dysfunction (LVEF <50%) not due to another cause.",
+            "ru": "Вмешательство показано асимптомным пациентам с тяжелым АС и систолической дисфункцией ЛЖ (ФВ ЛЖ <50%), не обусловленной другими причинами."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r29",
+          "text": {
+            "en": "Surgery is recommended when patients with severe AS undergo surgery of the ascending aorta or of another valve, or CABG.",
+            "ru": "Хирургическое вмешательство рекомендуется, когда пациентам с тяжелым АС выполняется операция на восходящей аорте, другом клапане или АКШ."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "title": {
+        "en": "Supravalvular aortic stenosis",
+        "ru": "Надклапанный аортальный стеноз"
+      },
+      "rows": [
+        {
+          "id": "r30",
+          "text": {
+            "en": "In patients with symptoms (spontaneous or on exercise test) and mean Doppler gradient ≥40 mmHg, surgery is recommended.",
+            "ru": "У пациентов с симптомами (спонтанными или при нагрузочном тесте) и средним допплеровским градиентом ≥40 мм рт. ст. рекомендуется хирургическое лечение."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r31",
+          "text": {
+            "en": "In patients with mean Doppler gradient <40 mmHg, surgery is recommended when one or more of the following findings are present:\n- Symptoms attributable to obstruction (exertional dyspnoea, angina, syncope).\n- LV systolic dysfunction (EF <50% without other explanation).\n- Surgery required for significant CAD or valvular disease.",
+            "ru": "У пациентов со средним допплеровским градиентом <40 мм рт. ст. операция рекомендуется при наличии одного или нескольких следующих признаков:\n- Симптомы, связанные с обструкцией (одышка при нагрузке, стенокардия, синкопе).\n- Систолическая дисфункция ЛЖ (ФВ <50% без других причин).\n- Необходимость кардиохирургической операции по поводу значимой ИБС или патологии клапанов."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "title": {
+        "en": "Subaortic stenosis",
+        "ru": "Подаортальный стеноз"
+      },
+      "rows": [
+        {
+          "id": "r32",
+          "text": {
+            "en": "In symptomatic patients (spontaneous or on exercise test) with a mean Doppler gradient ≥40 mmHg or severe AR, surgery is recommended.",
+            "ru": "У симптомных пациентов (спонтанно или при нагрузочном тесте) со средним допплеровским градиентом ≥40 мм рт. ст. или тяжелой аортальной регургитацией рекомендуется хирургическое лечение."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "title": {
+        "en": "Coarctation and re-coarctation of the aorta",
+        "ru": "Коарктация и рекоарктация аорты"
+      },
+      "rows": [
+        {
+          "id": "r33",
+          "text": {
+            "en": "Repair of coarctation or re-coarctation (surgically or catheter based) is indicated in hypertensive patients with an increased non-invasive gradient between upper and lower limbs confirmed with invasive measurement (peak-to-peak ≥20 mmHg) with preference for catheter treatment (stenting) when technically feasible.",
+            "ru": "Устранение коарктации или рекоарктации (хирургическое или эндоваскулярное) показано гипертензивным пациентам с повышенным неинвазивным градиентом между верхними и нижними конечностями, подтвержденным инвазивно (пик-пик ≥20 мм рт. ст.), с предпочтением эндоваскулярного лечения (стентирования) при технической осуществимости."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s11",
+      "title": {
+        "en": "Aortic surgery in aortopathies",
+        "ru": "Хирургия аорты при аортопатиях"
+      },
+      "rows": [
+        {
+          "id": "r34",
+          "text": {
+            "en": "Aortic valve repair, using the reimplantation or remodelling with aortic annuloplasty technique, is recommended in young patients with Marfan syndrome or related HTAD with aortic root dilation and tricuspid aortic valves when performed by experienced surgeons.",
+            "ru": "Клапансохраняющая пластика аортального клапана методами реимплантации или ремоделирования с аннулопластикой рекомендуется молодым пациентам с синдромом Марфана или связанными наследственными заболеваниями грудной аорты с дилатацией корня аорты и трехстворчатым АК при выполнении опытными хирургами."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r35",
+          "text": {
+            "en": "Surgery is indicated in patients with Marfan syndrome who have aortic root disease with a maximal aortic sinus diameter ≥50 mm.",
+            "ru": "Хирургическое лечение показано пациентам с синдромом Марфана при патологии корня аорты с максимальным диаметром синусов Вальсальвы ≥50 мм."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s12",
+      "title": {
+        "en": "Right ventricular outflow tract obstruction",
+        "ru": "Обструкция выводного тракта правого желудочка (ВТПЖ)"
+      },
+      "rows": [
+        {
+          "id": "r36",
+          "text": {
+            "en": "In valvular PS, balloon valvuloplasty is the intervention of choice, if anatomically suitable.",
+            "ru": "При клапанном стенозе ЛА баллонная вальвулопластика является вмешательством выбора при подходящей анатомии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r37",
+          "text": {
+            "en": "Provided that no valve replacement is required, RVOTO intervention at any level is recommended regardless of symptoms when the stenosis is severe (Doppler peak gradient is >64 mmHg).",
+            "ru": "При условии, что замена клапана не требуется, вмешательство при обструкции ВТПЖ на любом уровне рекомендуется независимо от симптомов при тяжелом стенозе (пиковый допплеровский градиент >64 мм рт. ст.)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r38",
+          "text": {
+            "en": "If surgical valve replacement is the only option, it is indicated in patients with severe stenosis who are symptomatic.",
+            "ru": "Если протезирование клапана является единственным вариантом, оно показано пациентам с тяжелым стенозом при наличии симптомов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r39",
+          "text": {
+            "en": "If surgical valve replacement is the only option in patients with severe stenosis who are asymptomatic, it is indicated in the presence of one or more of the following:\n- Objective decrease in exercise capacity.\n- Decreasing RV function and/or progression of TR to at least moderate.\n- RVSP >80 mmHg.\n- R–L shunting via an ASD or VSD.",
+            "ru": "Если протезирование клапана является единственным вариантом у пациентов с тяжелым стенозом без симптомов, оно показано при наличии одного или более признаков:\n- Объективное снижение толерантности к физической нагрузке.\n- Снижение функции ПЖ и/или прогрессирование ТР как минимум до умеренной.\n- СДПЖ >80 мм рт. ст.\n- Сброс крови справа налево через ДМПП или ДМЖП."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s13",
+      "title": {
+        "en": "Ebstein anomaly",
+        "ru": "Аномалия Эбштейна"
+      },
+      "rows": [
+        {
+          "id": "r40",
+          "text": {
+            "en": "Surgical repair is recommended in patients with severe TR and symptoms or objective deterioration of exercise capacity.",
+            "ru": "Хирургическая коррекция рекомендуется пациентам с тяжелой ТР и симптомами или объективным ухудшением толерантности к физической нагрузке."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r41",
+          "text": {
+            "en": "It is recommended that surgical repair is performed by a congenital surgeon with specific experience in Ebstein surgery.",
+            "ru": "Рекомендуется выполнение хирургической коррекции кардиохирургом со специальным опытом операций при аномалии Эбштейна."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r42",
+          "text": {
+            "en": "If there is an indication for TV surgery, ASD/PFO closure is recommended at the time of valve repair if it is expected to be haemodynamically tolerated.",
+            "ru": "При наличии показаний к операции на ТК рекомендуется закрытие ДМПП/ООО во время пластики клапана, если ожидается его хорошая гемодинамическая переносимость."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r43",
+          "text": {
+            "en": "In patients with symptomatic arrhythmias or pre-excitation on the ECG, electrophysiologic testing followed by ablation therapy, if feasible, or surgical treatment of the arrhythmias in the case of planned heart surgery is recommended.",
+            "ru": "У пациентов с симптомными аритмиями или феноменом предвозбуждения на ЭКГ рекомендуется проведение ЭФИ с последующей катетерной аблацией (при возможности) или хирургическое лечение аритмий в случае планируемой операции на сердце."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s14",
+      "title": {
+        "en": "After repair of tetralogy of Fallot",
+        "ru": "После коррекции тетрады Фалло"
+      },
+      "rows": [
+        {
+          "id": "r44",
+          "text": {
+            "en": "PVRep is recommended in symptomatic patients with severe PR and/or at least moderate RVOTO.",
+            "ru": "Протезирование легочного клапана (PVRep) рекомендуется симптомным пациентам с тяжелой ЛР и/или как минимум умеренной обструкцией ВТПЖ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r45",
+          "text": {
+            "en": "In patients with no native outflow tract, catheter intervention (TPVI) should be preferred if anatomically feasible.",
+            "ru": "У пациентов без нативного выводного тракта предпочтение следует отдавать транскатетерному вмешательству (TPVI) при анатомической возможности."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s15",
+      "title": {
+        "en": "Transposition of the great arteries after atrial switch operation",
+        "ru": "Транспозиция магистральных артерий после операции предсердного переключения (Mustard/Senning)"
+      },
+      "rows": [
+        {
+          "id": "r46",
+          "text": {
+            "en": "In symptomatic patients with pulmonary venous atrium obstruction, surgical repair (catheter intervention rarely possible) is recommended.",
+            "ru": "У симптомных пациентов с обструкцией легочно-венозного предсердия рекомендуется хирургическая коррекция (катетерное вмешательство выполнимо редко)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r47",
+          "text": {
+            "en": "In symptomatic patients with baffle stenosis not amenable to catheter intervention, surgical repair is recommended.",
+            "ru": "У симптомных пациентов со стенозом туннеля (баффла), не поддающимся катетерному вмешательству, рекомендуется хирургическая коррекция."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r48",
+          "text": {
+            "en": "In symptomatic patients with baffle leaks not amenable to catheter-based closure, surgical repair is recommended.",
+            "ru": "У симптомных пациентов со сбросом через дефект туннеля (баффла), не устранимым эндоваскулярно, рекомендуется хирургическая коррекция."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r49",
+          "text": {
+            "en": "PA banding in adults, as LV training with subsequent arterial switch procedure, is not recommended.",
+            "ru": "Бандирование (суживание) ЛА у взрослых в качестве тренировки ЛЖ с последующей операцией артериального переключения не рекомендуется."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r50",
+          "text": {
+            "en": "In symptomatic patients with baffle stenosis, stenting is recommended when technically feasible.",
+            "ru": "У симптомных пациентов со стенозом туннеля рекомендуется стентирование при технической осуществимости."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r51",
+          "text": {
+            "en": "In symptomatic patients with baffle leaks and cyanosis at rest or during exercise, or with strong suspicion of paradoxical emboli, stenting (covered) or device closure is recommended when technically feasible.",
+            "ru": "У симптомных пациентов с дефектом туннеля и цианозом в покое или при нагрузке либо с высоким подозрением на парадоксальные эмболии рекомендуется стентирование (графтом) или закрытие окклюдером при технической возможности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r52",
+          "text": {
+            "en": "In patients with baffle leaks and symptoms due to L–R shunt, stenting (covered) or device closure is recommended when technically feasible.",
+            "ru": "У пациентов со сбросом через дефект туннеля и симптомами вследствие лево-правого шунта рекомендуется стентирование (графтом) или закрытие окклюдером при технической возможности."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s16",
+      "title": {
+        "en": "Transposition of the great arteries after arterial switch operation",
+        "ru": "Транспозиция магистральных артерий после операции артериального переключения"
+      },
+      "rows": [
+        {
+          "id": "r53",
+          "text": {
+            "en": "Stenting or surgery (depending on substrate) is recommended for coronary artery stenosis causing ischaemia.",
+            "ru": "Стентирование или хирургическое вмешательство (в зависимости от субстрата) рекомендуется при стенозе коронарных артерий, вызывающем ишемию."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s17",
+      "title": {
+        "en": "Congenitally corrected transposition of the great arteries",
+        "ru": "Врожденно скорректированная транспозиция магистральных артерий (ccTGA)"
+      },
+      "rows": [
+        {
+          "id": "r54",
+          "text": {
+            "en": "In symptomatic patients with severe TR and preserved or mildly impaired systemic RV systolic function (EF >40%), TV replacement is indicated.",
+            "ru": "У симптомных пациентов с тяжелой ТР и сохранной или незначительно сниженной систолической функцией системного ПЖ (ФВ >40%) показано протезирование трехстворчатого клапана."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s18",
+      "title": {
+        "en": "Right ventricular to pulmonary artery conduits",
+        "ru": "Кондуиты между правым желудочком и легочной артерией"
+      },
+      "rows": [
+        {
+          "id": "r55",
+          "text": {
+            "en": "Symptomatic patients with RVSP >60 mmHg (may be lower in case of reduced flow) and/or severe PR should undergo intervention with preference for catheter intervention (TPVI) if anatomically feasible.",
+            "ru": "Симптомным пациентам с СДПЖ >60 мм рт. ст. (может быть ниже при сниженном кровотоке) и/или тяжелой ЛР показано вмешательство с предпочтением транскатетерного вмешательства (TPVI) при анатомической возможности."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s19",
+      "title": {
+        "en": "Univentricular heart",
+        "ru": "Единственный желудочек сердца"
+      },
+      "rows": [
+        {
+          "id": "r56",
+          "text": {
+            "en": "It is recommended that adults with unoperated or palliated UVHs undergo careful evaluation in specialized centres, including multimodality imaging as well as invasive work-up to decide whether they may benefit from surgical or interventional procedures.",
+            "ru": "Взрослым с неоперированным или паллиативно оперированным единственным желудочком сердца рекомендуется пройти тщательное обследование в специализированных центрах, включая мультимодальную визуализацию и инвазивную диагностику, для решения вопроса о пользе хирургических или интервенционных вмешательств."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s20",
+      "title": {
+        "en": "After Fontan operation",
+        "ru": "После операции Фонтена"
+      },
+      "rows": [
+        {
+          "id": "r57",
+          "text": {
+            "en": "Sustained atrial arrhythmia with rapid AV conduction is a medical emergency and should be promptly treated with electrical cardioversion.",
+            "ru": "Устойчивая предсердная аритмия с быстрым АВ-проведением является неотложным состоянием и требует незамедлительного купирования с помощью электрической кардиоверсии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r58",
+          "text": {
+            "en": "Anticoagulation is indicated in the presence, or with a history, of atrial thrombus, atrial arrhythmias, or thromboembolic events.",
+            "ru": "Антикоагулянтная терапия показана при наличии или анамнезе тромбоза предсердий, предсердных аритмий или тромбоэмболических событий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r59",
+          "text": {
+            "en": "It is recommended that women with a Fontan circulation and any complication are counselled against pregnancy.",
+            "ru": "Женщинам с циркуляцией Фонтена и любыми осложнениями рекомендуется консультирование против наступления беременности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r60",
+          "text": {
+            "en": "Cardiac catheterization is recommended at a low threshold in cases of unexplained oedema, exercise deterioration, new-onset arrhythmia, cyanosis, and haemoptysis.",
+            "ru": "Катетеризация сердца рекомендуется при низком диагностическом пороге в случаях необъяснимых отеков, ухудшения переносимости нагрузки, впервые возникшей аритмии, цианоза и кровохарканья."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s21",
+      "title": {
+        "en": "Anomalous coronary arteries",
+        "ru": "Аномалии коронарных артерий"
+      },
+      "rows": [
+        {
+          "id": "r61",
+          "text": {
+            "en": "Non-pharmacological functional imaging (e.g. nuclear study, echocardiography, or CMR with physical stress) is recommended in patients with coronary anomalies to confirm/exclude myocardial ischaemia.",
+            "ru": "Нефармакологическая функциональная визуализация (например, радионуклидное исследование, эхокардиография или МРТ сердца с физической нагрузкой) рекомендуется пациентам с аномалиями коронарных артерий для подтверждения или исключения ишемии миокарда."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s22",
+      "title": {
+        "en": "Anomalous coronary arteries from the pulmonary artery",
+        "ru": "Аномальное отхождение коронарных артерий от легочной артерии"
+      },
+      "rows": [
+        {
+          "id": "r62",
+          "text": {
+            "en": "Surgery is recommended in patients with ALCAPA.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с ALCAPA."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r63",
+          "text": {
+            "en": "Surgery is recommended in patients with ARCAPA and symptoms attributable to anomalous coronary artery.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с ARCAPA и симптомами, обусловленными аномальной коронарной артерией."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s23",
+      "title": {
+        "en": "Anomalous aortic origin of the coronary artery",
+        "ru": "Аномальное отхождение коронарной артерии от аорты (AAOCA)"
+      },
+      "rows": [
+        {
+          "id": "r64",
+          "text": {
+            "en": "Surgery is recommended for AAOCA in patients with typical angina symptoms who present with evidence of stress-induced myocardial ischaemia in a matching territory or high-risk anatomy.",
+            "ru": "Хирургическое лечение рекомендуется при AAOCA у пациентов с типичными симптомами стенокардии при наличии признаков стресс-индуцированной ишемии миокарда в соответствующем бассейне или анатомии высокого риска."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r65",
+          "text": {
+            "en": "Surgery is not recommended for AAORCA in asymptomatic patients without myocardial ischaemia and without high-risk anatomy.",
+            "ru": "Хирургическое лечение не рекомендуется при AAORCA у асимптомных пациентов без ишемии миокарда и без анатомии высокого риска."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

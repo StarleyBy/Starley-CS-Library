@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t16-psychological-considerations",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 16",
+  "type": "grid",
+  "title": {
+    "en": "Psychological considerations in patients with cardiomyopathy",
+    "ru": "Психологические аспекты ведения пациентов с кардиомиопатиями и их семей"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "psychology",
+    "mental-health",
+    "icd",
+    "scd",
+    "exercise-restrictions",
+    "counselling",
+    "adolescents"
+  ],
+  "columns": [
+    {
+      "id": "c_group",
+      "title": {
+        "en": "Patient group / context",
+        "ru": "Группа пациентов / клиническая ситуация"
+      }
+    },
+    {
+      "id": "c_considerations",
+      "title": {
+        "en": "Psychological considerations",
+        "ru": "Психологические особенности и проблемы"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "New diagnosis",
+            "ru": "Впервые установленный диагноз"
+          }
+        },
+        {
+          "text": {
+            "en": "• Stigma associated with cardiovascular disease and misconception that it only affects older people.\n• Fear of sudden cardiac death can shake confidence and create anxiety around exercise.\n• Fear of inheritance risk to other relatives, especially children.\n• Confidence and self-efficacy to manage their disease.\n• Direct experience with the disease will affect perceptions about prognosis.",
+            "ru": "• Стигматизация, связанная с сердечно-сосудистым заболеванием, и заблуждение, что патология сердца встречается только у пожилых людей.\n• Страх внезапной сердечной смерти (ВСС), подрывающий уверенность в себе и вызывающий тревогу при любых физических нагрузках.\n• Чувство вины и страх передачи заболевания родственникам, особенно детям.\n• Необходимость выработки уверенности и навыков самостоятельного контроля болезни.\n• Личный опыт столкновения с болезнью в семье влияет на восприятие прогноза."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "ICD",
+            "ru": "Имплантируемый кардиовертер-дефибриллятор (ИКД)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Most patients will adjust well following ICD insertion, although there might be an initial decline in health-related quality of life and psychological well-being, this often returns to normal.\n• Up to 30% will develop anxiety and/or symptoms of post-traumatic stress and need additional support.\n• Those who are young, who experience multiple ICD shocks, and/or have poor baseline psychological functioning are at greater risk of poor psychological outcomes.\n• In young people, especially women, body image concerns can be a major consideration.\n• Decision-making for those recommended to have an ICD should be patient-centred and include balanced discussion of benefits and risks and careful attention to questions and concerns.",
+            "ru": "• Большинство пациентов хорошо адаптируются после имплантации ИКД; хотя вначале возможно снижение качества жизни и психологического благополучия, они обычно нормализуются.\n• До 30% пациентов испытывают выраженную тревожность и/или симптомы посттравматического стресса (ПТСР) и нуждаются в помощи психолога.\n• Молодые пациенты, лица с повторными срабатываниями (шоками) ИКД и исходной психологической уязвимостью имеют максимальный риск дезадаптации.\n• У молодых людей (особенно женщин) косметический дефект и восприятие собственного тела могут быть серьезным фактором стресса.\n• Решение об имплантации должно быть пациентоориентированным со сбалансированным разбором пользы, рисков и ответом на все волнующие вопросы."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Exercise restrictions",
+            "ru": "Ограничения физических нагрузок и спорта"
+          }
+        },
+        {
+          "text": {
+            "en": "• Physical inactivity is a major determinant of poor health outcomes.\n• Can reduce health-related quality of life for those who become fearful of performing even low-intensity exercise.\n• Athletes who are recommended to reduce their activity levels can experience a profound grief and difficulty adjusting to this advice.\n• Patient-centred discussions and careful attention to concerns is critical in helping to support people make drastic lifestyle changes.",
+            "ru": "• Гиподинамия является доказанным фактором неблагоприятных исходов для общего здоровья.\n• Пациенты, испытывающие панический страх перед любыми нагрузками, страдают от резкого падения качества жизни.\n• Спортсмены, которым рекомендовано прекратить профессиональные тренировки, переживают тяжелое горе утраты прежней идентичности и с трудом принимают диагноз.\n• Пациентоориентированный диалог имеет решающее значение для помощи в кардинальной перестройке образа жизни."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Family history of young SCD",
+            "ru": "Отягощенный семейный анамнез ВСС в молодом возрасте"
+          }
+        },
+        {
+          "text": {
+            "en": "• Relatives who experience the SCD of a young relative have significant risk of poor psychological functioning, including post-traumatic stress and prolonged grief.\n• Grief is a normal response to a loss. Prolonged grief occurs when the grieving process becomes 'stuck'.\n• Those who witness the death or discover the decedent's body have a greater risk of psychological difficulties.\n• Mothers of the decedent have greater anxiety.\n• Psychological support for family members is an important and often unmet need following a young SCD.",
+            "ru": "• Родственники, пережившие ВСС молодого члена семьи, имеют высокий риск посттравматического стрессового расстройства (ПТСР) и синдрома затяжного патологического горя.\n• Скорбь является нормальной реакцией на утрату, однако затяжное горе наступает при «застревании» процессов переживания потери.\n• Очевидцы внезапной смерти или лица, обнаружившие тело, подвержены максимальному риску психологической травмы.\n• Матери умерших испытывают наибольший уровень тревоги.\n• Психологическая помощь семьям после случаев ВСС является критически важной, но часто недооцененной потребностью."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Children and adolescents",
+            "ru": "Дети и подростки"
+          }
+        },
+        {
+          "text": {
+            "en": "• Diagnosis during childhood can raise anxiety especially among parents. Access to resources to support practical issues like information for schools is important.\n• Navigating transition from paediatric to adult care can be challenging for children and their families.\n• Decision-making regarding genetic testing of asymptomatic children can often benefit from the inclusion of a clinical psychologist to support adjustment to the result.",
+            "ru": "• Диагностика в детском возрасте вызывает сильнейшую тревогу родителей. Важен доступ к практическим материалам (инструкции для школы, освобождение от спорта без изоляции ребенка).\n• Период перехода из педиатрической службы во взрослую часто становится серьезным стрессом для семьи.\n• Принятие решений о генетическом тестировании бессимптомных детей требует привлечения клинического психолога для подготовки ребенка к результату."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Symptomatic disease",
+            "ru": "Выраженные симптомы заболевания"
+          }
+        },
+        {
+          "text": {
+            "en": "• Those managing symptoms will likely perceive a greater impact on their health-related quality of life. Factors influencing self-efficacy will impact on a patient's ability to manage their disease, including medication adherence.\n• Need for major intervention such as cardiac transplantation can raise significant psychological challenges and clinical psychological support is very important.",
+            "ru": "• Пациенты с выраженными симптомами острее ощущают ухудшение качества жизни. Уверенность в своих силах напрямую определяет комплаентность и регулярность приема препаратов.\n• Потребность в трансплантации сердца или МПК сопряжена с колоссальным эмоциональным напряжением и требует обязательного психологического сопровождения."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Genetic testing",
+            "ru": "Генетическое тестирование"
+          }
+        },
+        {
+          "text": {
+            "en": "• Despite potential adjustment issues, most patients who undertake genetic testing do not report distress.\n• Genetic counselling should cover any psychosocial concerns or needs.\n• Additional support to patients to convey the genetic risk information to at-risk family members should be provided as necessary.",
+            "ru": "• Несмотря на опасения, большинство прошедших генетическое тестирование пациентов не испытывают длительного стресса.\n• Генетическое консультирование должно охватывать психосоциальные переживания и потребности.\n• Пациентам должна оказываться методическая помощь в том, как правильно и деликатно сообщить информацию о риске родственникам."
+          }
+        }
+      ]
+    }
+  ]
+}

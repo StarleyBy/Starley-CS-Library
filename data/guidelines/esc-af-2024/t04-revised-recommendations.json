@@ -1,0 +1,550 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.t04-revised-recommendations",
+  "guidelineId": "esc-af-2024",
+  "number": "Table 4",
+  "type": "grid",
+  "title": {
+    "en": "Revised recommendations",
+    "ru": "Пересмотренные рекомендации"
+  },
+  "tags": [
+    "af",
+    "revised",
+    "comparison",
+    "diagnosis",
+    "lifestyle",
+    "laa-closure",
+    "has-bled",
+    "catheter-ablation",
+    "surgical-ablation",
+    "postoperative-af"
+  ],
+  "columns": [
+    {
+      "id": "c_prev_text",
+      "title": {
+        "en": "Recommendations in 2020 version",
+        "ru": "Рекомендации в версии 2020 г."
+      }
+    },
+    {
+      "id": "c_prev_cls",
+      "title": {
+        "en": "Class",
+        "ru": "Класс"
+      }
+    },
+    {
+      "id": "c_prev_lvl",
+      "title": {
+        "en": "Level",
+        "ru": "Уровень"
+      }
+    },
+    {
+      "id": "c_curr_text",
+      "title": {
+        "en": "Recommendations in 2024 version",
+        "ru": "Рекомендации в версии 2024 г."
+      }
+    },
+    {
+      "id": "c_curr_cls",
+      "title": {
+        "en": "Class",
+        "ru": "Класс"
+      }
+    },
+    {
+      "id": "c_curr_lvl",
+      "title": {
+        "en": "Level",
+        "ru": "Уровень"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec_01",
+      "cells": [
+        {
+          "text": {
+            "en": "Section 3.2 — Diagnostic criteria for AF",
+            "ru": "Раздел 3.2 — Диагностические критерии ФП"
+          },
+          "colspan": 6,
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "ECG documentation is required to establish the diagnosis of AF. A standard 12-lead ECG recording or a single-lead ECG tracing of ≥30 s showing heart rhythm with no discernible repeating P waves and irregular RR intervals (when atrioventricular conduction is not impaired) is diagnostic of clinical AF.",
+            "ru": "Для установления диагноза ФП требуется регистрация ЭКГ. Стандартная 12-канальная ЭКГ или одноканальная запись ЭКГ длительностью ≥30 с, демонстрирующая ритм без отчетливых повторяющихся зубцов P и нерегулярные интервалы RR (при отсутствии нарушений АВ-проведения), является диагностическим критерием клинической ФП."
+          }
+        },
+        {
+          "text": { "en": "I", "ru": "I" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        },
+        {
+          "text": {
+            "en": "Confirmation by an electrocardiogram (12-lead, multiple, or single leads) is recommended to establish the diagnosis of clinical AF and commence risk stratification and treatment.",
+            "ru": "Подтверждение с помощью электрокардиограммы (12-канальной, многоканальной или одноканальной) рекомендуется для установления диагноза клинической ФП и начала стратификации риска и лечения."
+          }
+        },
+        {
+          "text": { "en": "I", "ru": "I" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "A", "ru": "A" }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "In patients with AF, it is recommended to:\n• Evaluate AF-related symptoms (including fatigue, tiredness, exertional shortness of breath, palpitations, and chest pain) and quantify the patient symptom status using the modified EHRA symptom scale before and after initiation of treatment.\n• Evaluate AF-related symptoms before and after cardioversion of persistent AF to aid rhythm control treatment decisions.",
+            "ru": "У пациентов с ФП рекомендуется:\n• Оценивать симптомы, связанные с ФП (включая слабость, утомляемость, одышку при нагрузке, сердцебиение и боль в груди), и определять степень выраженности симптомов с помощью модифицированной шкалы EHRA до и после начала терапии.\n• Оценивать симптомы до и после кардиоверсии персистирующей ФП для принятия решений по контролю ритма."
+          }
+        },
+        {
+          "text": { "en": "I", "ru": "I" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "C", "ru": "C" }
+        },
+        {
+          "text": {
+            "en": "Evaluating the impact of AF-related symptoms is recommended before and after major changes in treatment to inform shared decision-making and guide treatment choices.",
+            "ru": "Оценка влияния симптомов, связанных с ФП, рекомендуется до и после существенных изменений в лечении для обеспечения совместного принятия решений и выбора метода терапии."
+          }
+        },
+        {
+          "text": { "en": "I", "ru": "I" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        }
+      ]
+    },
+    {
+      "id": "sec_02",
+      "cells": [
+        {
+          "text": {
+            "en": "Section 5 — [C] Comorbidity and risk factor management",
+            "ru": "Раздел 5 — [C] Ведение сопутствующих заболеваний и факторов риска"
+          },
+          "colspan": 6,
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Attention to good BP control is recommended in AF patients with hypertension to reduce AF recurrences and risk of stroke and bleeding.",
+            "ru": "Внимание к хорошему контролю АД рекомендуется у пациентов с ФП и артериальной гипертензией для снижения частоты рецидивов ФП и риска инсульта и кровотечений."
+          }
+        },
+        {
+          "text": { "en": "I", "ru": "I" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        },
+        {
+          "text": {
+            "en": "Blood pressure lowering treatment is recommended in patients with AF and hypertension to reduce recurrence and progression of AF and prevent adverse cardiovascular events.",
+            "ru": "Антигипертензивная терапия рекомендуется пациентам с ФП и артериальной гипертензией для снижения частоты рецидивов и прогрессирования ФП, а также предотвращения неблагоприятных сердечно-сосудистых событий."
+          }
+        },
+        {
+          "text": { "en": "I", "ru": "I" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "In obese patients with AF, weight loss together with management of other risk factors should be considered to reduce AF incidence, AF progression, AF recurrences, and symptoms.",
+            "ru": "У пациентов с ожирением и ФП снижение массы тела наряду с коррекцией других факторов риска следует рассматривать для снижения заболеваемости ФП, ее прогрессирования, рецидивов и выраженности симптомов."
+          }
+        },
+        {
+          "text": { "en": "IIa", "ru": "IIa" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        },
+        {
+          "text": {
+            "en": "Weight loss is recommended as part of comprehensive risk factor management in overweight and obese individuals with AF to reduce symptoms and AF burden, with a target of 10% or more reduction in body weight.",
+            "ru": "Снижение массы тела рекомендуется как часть комплексного управления факторами риска у лиц с избыточной массой тела и ожирением при ФП для уменьшения выраженности симптомов и бремени аритмии, с целевым снижением веса на 10% и более."
+          }
+        },
+        {
+          "text": { "en": "I", "ru": "I" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Physical activity should be considered to help prevent AF incidence or recurrence, with the exception of excessive endurance exercise, which may promote AF.",
+            "ru": "Физическую активность следует рассматривать для предотвращения развития или рецидивов ФП, за исключением чрезмерных упражнений на выносливость, которые могут способствовать возникновению ФП."
+          }
+        },
+        {
+          "text": { "en": "IIa", "ru": "IIa" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "C", "ru": "C" }
+        },
+        {
+          "text": {
+            "en": "A tailored exercise programme is recommended in individuals with paroxysmal or persistent AF to improve cardiorespiratory fitness and reduce AF recurrence.",
+            "ru": "Индивидуально подобранная программа физических тренировок рекомендуется лицам с пароксизмальной или персистирующей ФП для повышения кардиореспираторной выносливости и снижения частоты рецидивов ФП."
+          }
+        },
+        {
+          "text": { "en": "I", "ru": "I" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Advice and management to avoid alcohol excess should be considered for AF prevention and in AF patients considered for OAC therapy.",
+            "ru": "Рекомендации и меры по избеганию злоупотребления алкоголем следует рассматривать для профилактики ФП и у пациентов с ФП, рассматриваемых для антикоагулянтной терапии."
+          }
+        },
+        {
+          "text": { "en": "IIa", "ru": "IIa" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        },
+        {
+          "text": {
+            "en": "Reducing alcohol consumption to ≤3 standard drinks (≤30 grams of alcohol) per week is recommended as part of comprehensive risk factor management to reduce AF recurrence.",
+            "ru": "Снижение потребления алкоголя до ≤3 стандартных доз (≤30 г чистого этанола) в неделю рекомендуется как часть комплексного управления факторами риска для снижения частоты рецидивов ФП."
+          }
+        },
+        {
+          "text": { "en": "I", "ru": "I" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        }
+      ]
+    },
+    {
+      "id": "sec_03",
+      "cells": [
+        {
+          "text": {
+            "en": "Section 6.6 — Surgical left atrial appendage occlusion",
+            "ru": "Раздел 6.6 — Хирургическая окклюзия ушка левого предсердия"
+          },
+          "colspan": 6,
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Surgical occlusion or exclusion of the LAA may be considered for stroke prevention in patients with AF undergoing cardiac surgery.",
+            "ru": "Хирургическая окклюзия или изоляция УЛП может рассматриваться для профилактики инсульта у пациентов с ФП, переносящих кардиохирургическую операцию."
+          }
+        },
+        {
+          "text": { "en": "IIb", "ru": "IIb" },
+          "tone": "orange"
+        },
+        {
+          "text": { "en": "C", "ru": "C" }
+        },
+        {
+          "text": {
+            "en": "Surgical closure of the left atrial appendage is recommended as an adjunct to oral anticoagulation in patients with AF undergoing cardiac surgery to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Хирургическое закрытие ушка левого предсердия рекомендуется как дополнение к оральной антикоагуляции у пациентов с ФП, оперируемых на открытом сердце, для профилактики ишемического инсульта и системных тромбоэмболий."
+          }
+        },
+        {
+          "text": { "en": "I", "ru": "I" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        }
+      ]
+    },
+    {
+      "id": "sec_04",
+      "cells": [
+        {
+          "text": {
+            "en": "Section 6.7 — Bleeding risk",
+            "ru": "Раздел 6.7 — Риск кровотечений"
+          },
+          "colspan": 6,
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "For a formal risk-score-based assessment of bleeding risk, the HAS-BLED score should be considered to help address modifiable bleeding risk factors, and to identify patients at high risk of bleeding (HAS-BLED score ≥3) for early and more frequent clinical review and follow-up.",
+            "ru": "Для формальной оценки риска кровотечений на основе балльных шкал следует рассматривать шкалу HAS-BLED, чтобы выявлять модифицируемые факторы риска кровотечений и определять пациентов высокого риска (HAS-BLED ≥3) для более раннего и частого наблюдения."
+          }
+        },
+        {
+          "text": { "en": "IIa", "ru": "IIa" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        },
+        {
+          "text": {
+            "en": "Assessment and management of modifiable bleeding risk factors is recommended in all patients eligible for oral anticoagulation, as part of shared decision-making to ensure safety and prevent bleeding.",
+            "ru": "Оценка и коррекция модифицируемых факторов риска кровотечений рекомендуются всем пациентам, подходящим для оральной антикоагуляции, в рамках совместного принятия решений для обеспечения безопасности и профилактики геморрагических осложнений."
+          }
+        },
+        {
+          "text": { "en": "I", "ru": "I" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        }
+      ]
+    },
+    {
+      "id": "sec_05",
+      "cells": [
+        {
+          "text": {
+            "en": "Section 7.2 — Rhythm control strategies in patients with AF",
+            "ru": "Раздел 7.2 — Стратегии контроля ритма у пациентов с ФП"
+          },
+          "colspan": 6,
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "AF catheter ablation for PVI should/may be considered as first-line rhythm control therapy to improve symptoms in selected patients with symptomatic:\n• Paroxysmal AF episodes.",
+            "ru": "Катетерная аблация ФП (изоляция ЛВ) должна/может рассматриваться в качестве первой линии терапии контроля ритма для уменьшения симптомов у отобранных пациентов с симптомными пароксизмами ФП."
+          }
+        },
+        {
+          "text": { "en": "IIa", "ru": "IIa" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        },
+        {
+          "text": {
+            "en": "Catheter ablation is recommended as a first-line option within a shared decision-making rhythm control strategy in patients with paroxysmal AF, to reduce symptoms, recurrence, and progression of AF.",
+            "ru": "Катетерная аблация рекомендуется в качестве метода первого выбора в рамках совместного принятия решений по контролю ритма у пациентов с пароксизмальной ФП для уменьшения выраженности симптомов, частоты рецидивов и прогрессирования ФП."
+          }
+        },
+        {
+          "text": { "en": "I", "ru": "I" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "A", "ru": "A" }
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        {
+          "text": {
+            "en": "Thoracoscopic procedures—including hybrid surgical ablation—should be considered in patients who have symptomatic paroxysmal or persistent AF refractory to AAD therapy and have failed percutaneous AF ablation, or with evident risk factors for catheter ablation failure, to maintain long-term sinus rhythm. The decision must be supported by an experienced team of electrophysiologists and surgeons.",
+            "ru": "Торакоскопические процедуры, включая гибридную хирургическую аблацию, следует рассматривать у пациентов с симптомной пароксизмальной или персистирующей ФП, рефрактерной к антиаритмической терапии, после безуспешной чрескожной аблации или с явными факторами риска ее неэффективности, для поддержания синусового ритма (по решению команды электрофизиологов и хирургов)."
+          }
+        },
+        {
+          "text": { "en": "IIa", "ru": "IIa" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        },
+        {
+          "text": {
+            "en": "Endoscopic and hybrid ablation procedures may be considered in patients with symptomatic paroxysmal AF refractory to AAD therapy and failed percutaneous catheter ablation strategy to prevent symptoms, recurrence, and progression of AF, within a shared decision-making rhythm control team of electrophysiologists and surgeons.",
+            "ru": "Эндоскопические и гибридные процедуры аблации могут рассматриваться у пациентов с симптомной пароксизмальной ФП, рефрактерной к медикаментозной антиаритмической терапии, и неэффективной чрескожной катетерной аблацией для уменьшения симптомов, рецидивов и прогрессирования ФП (по решению команды электрофизиологов и хирургов)."
+          }
+        },
+        {
+          "text": { "en": "IIb", "ru": "IIb" },
+          "tone": "orange"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        }
+      ]
+    },
+    {
+      "id": "r11",
+      "cells": [
+        {
+          "text": {
+            "en": "Thoracoscopic procedures—including hybrid surgical ablation—may be considered in patients with persistent AF with risk factors for recurrence, who remain symptomatic during AF despite at least one failed AAD and who prefer further rhythm control therapy.",
+            "ru": "Торакоскопические процедуры, включая гибридную хирургическую аблацию, могут рассматриваться у пациентов с персистирующей ФП и факторами риска рецидива, остающихся симптомными, несмотря на как минимум один неэффективный ААП, и предпочитающих продолжение стратегии контроля ритма."
+          }
+        },
+        {
+          "text": { "en": "IIb", "ru": "IIb" },
+          "tone": "orange"
+        },
+        {
+          "text": { "en": "C", "ru": "C" }
+        },
+        {
+          "text": {
+            "en": "Endoscopic and hybrid ablation procedures should be considered in patients with symptomatic persistent AF refractory to AAD therapy to prevent symptoms, recurrence, and progression of AF, within a shared decision-making rhythm control team of electrophysiologists and surgeons.",
+            "ru": "Эндоскопические и гибридные процедуры аблации следует рассматривать у пациентов с симптомной персистирующей ФП, рефрактерной к антиаритмической терапии, для предотвращения симптомов, рецидивов и прогрессирования ФП (в рамках совместного решения команды электрофизиологов и хирургов)."
+          }
+        },
+        {
+          "text": { "en": "IIa", "ru": "IIa" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "A", "ru": "A" }
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "cells": [
+        {
+          "text": {
+            "en": "Concomitant AF ablation should be considered in patients undergoing cardiac surgery, balancing the benefits of freedom from atrial arrhythmias and the risk factors for recurrence (left atrial dilatation, years in AF, age, renal dysfunction, and other cardiovascular risk factors).",
+            "ru": "Сопутствующую аблацию ФП следует рассматривать у пациентов, переносящих кардиохирургические вмешательства, сопоставляя пользу сохранения синусового ритма с факторами риска рецидива (дилатация ЛП, длительность ФП, возраст, почечная дисфункция и др.)."
+          }
+        },
+        {
+          "text": { "en": "IIa", "ru": "IIa" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "A", "ru": "A" }
+        },
+        {
+          "text": {
+            "en": "Concomitant surgical ablation is recommended in patients undergoing mitral valve surgery and AF suitable for a rhythm control strategy to prevent symptoms and recurrence of AF, with shared decision-making supported by an experienced team of electrophysiologists and arrhythmia surgeons.",
+            "ru": "Сопутствующая хирургическая аблация рекомендуется пациентам, оперируемым на митральном клапане, имеющим ФП и подходящим для контроля ритма, для предотвращения симптомов и рецидивов ФП (при поддержке опытной команды электрофизиологов и хирургов)."
+          }
+        },
+        {
+          "text": { "en": "I", "ru": "I" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "A", "ru": "A" }
+        }
+      ]
+    },
+    {
+      "id": "sec_06",
+      "cells": [
+        {
+          "text": {
+            "en": "Section 9.6 — Post-operative AF",
+            "ru": "Раздел 9.6 — Послеоперационная ФП"
+          },
+          "colspan": 6,
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r13",
+      "cells": [
+        {
+          "text": {
+            "en": "Long-term OAC therapy to prevent thromboembolic events may be considered in patients at risk for stroke with post-operative AF after cardiac surgery, considering the anticipated net clinical benefit of OAC therapy and informed patient preferences.",
+            "ru": "Длительная терапия оральными антикоагулянтами для предотвращения тромбоэмболических осложнений может рассматриваться у пациентов с риском инсульта при послеоперационной ФП после кардиохирургической операции с учетом клинической пользы и предпочтений пациента."
+          }
+        },
+        {
+          "text": { "en": "IIb", "ru": "IIb" },
+          "tone": "orange"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        },
+        {
+          "text": {
+            "en": "Long-term oral anticoagulation should be considered in patients with post-operative AF after cardiac and non-cardiac surgery at elevated thromboembolic risk, to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Длительную оральную антикоагуляцию следует рассматривать у пациентов с послеоперационной ФП после кардиохирургических и некардиохирургических операций при повышенном риске тромбоэмболий для профилактики ишемического инсульта и системных тромбоэмболий."
+          }
+        },
+        {
+          "text": { "en": "IIa", "ru": "IIa" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "B", "ru": "B" }
+        }
+      ]
+    }
+  ]
+}

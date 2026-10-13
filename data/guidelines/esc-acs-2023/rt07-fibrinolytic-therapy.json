@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt07",
+  "guidelineId": "esc-acs-2023",
+  "number": "7",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for fibrinolytic therapy",
+    "ru": "Рекомендации по фибринолитической терапии"
+  },
+  "tags": ["fibrinolysis", "reperfusion", "tenecteplase", "alteplase", "reteplase", "aspirin", "clopidogrel", "enoxaparin", "ufh", "fondaparinux", "streptokinase"],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Fibrinolytic therapy",
+        "ru": "Фибринолитическая терапия"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "When fibrinolysis is the reperfusion strategy, it is recommended to initiate this treatment as soon as possible after diagnosis in the pre-hospital setting (aim for target of <10 min to lytic bolus).",
+            "ru": "Когда фибринолиз выбран стратегией реперфузии, рекомендовано начинать лечение как можно скорее после установления диагноза на догоспитальном этапе (целевое время <10 мин до введения болюса фибринолитика)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "A fibrin-specific agent (i.e. tenecteplase, alteplase, or reteplase) is recommended.",
+            "ru": "Фибрин-специфический препарат (тенектеплаза, альтеплаза или ретеплаза) рекомендован."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "A half-dose of tenecteplase should be considered in patients >75 years of age.",
+            "ru": "Половинную дозу тенектеплазы следует рассмотреть у пациентов в возрасте >75 лет."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Antiplatelet co-therapy with fibrinolysis",
+        "ru": "Сопутствующая антиагрегантная терапия при фибринолизе"
+      },
+      "rows": [
+        {
+          "id": "r04",
+          "text": {
+            "en": "Aspirin and clopidogrel are recommended.",
+            "ru": "Аспирин и клопидогрел рекомендованы."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Anticoagulation co-therapy with fibrinolysis",
+        "ru": "Сопутствующая антикоагулянтная терапия при фибринолизе"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Anticoagulation is recommended in patients treated with fibrinolysis until revascularization (if performed) or for the duration of hospital stay (up to 8 days).",
+            "ru": "Антикоагулянтная терапия рекомендована пациентам, получающим фибринолиз, до момента реваскуляризации (если она проводится) либо на протяжении всей госпитализации (до 8 дней)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Enoxaparin i.v. followed by s.c. is recommended as the preferred anticoagulant.",
+            "ru": "Эноксапарин в/в с последующим п/к введением рекомендован в качестве предпочтительного антикоагулянта."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "When enoxaparin is not available, UFH is recommended as a weight-adjusted i.v. bolus, followed by infusion.",
+            "ru": "Если эноксапарин недоступен, рекомендован нефракционированный гепарин (НФГ) в виде скорректированного по массе тела в/в болюса с последующей инфузией."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "In patients treated with streptokinase, an i.v. bolus of fondaparinux followed by an s.c. dose 24 h later should be considered.",
+            "ru": "У пациентов, получающих стрептокиназу, следует рассмотреть в/в болюс фондапаринукса с последующим п/к введением через 24 ч."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "page": 28,
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

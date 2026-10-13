@@ -1,0 +1,586 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.t05-revised-recommendations",
+  "guidelineId": "esc-acs-2023",
+  "number": "5 (Revised)",
+  "type": "grid",
+  "title": {
+    "en": "Revised recommendations in 2023 ESC Guidelines for the management of acute coronary syndromes",
+    "ru": "Пересмотренные рекомендации в руководстве ESC 2023 по ведению острого коронарного синдрома"
+  },
+  "tags": [
+    "revised",
+    "comparison",
+    "nste-acs",
+    "ccta",
+    "invasive-timing",
+    "stemi",
+    "p2y12",
+    "sapt",
+    "ohca",
+    "multivessel",
+    "hyperglycaemia"
+  ],
+  "columns": [
+    {
+      "id": "c_prev_text",
+      "title": {
+        "en": "Recommendations in 2017 and 2020 versions",
+        "ru": "Рекомендации в версиях 2017 и 2020 гг."
+      }
+    },
+    {
+      "id": "c_prev_cls",
+      "title": {
+        "en": "Class",
+        "ru": "Class"
+      }
+    },
+    {
+      "id": "c_prev_lvl",
+      "title": {
+        "en": "LoE",
+        "ru": "LoE"
+      }
+    },
+    {
+      "id": "c_curr_text",
+      "title": {
+        "en": "Recommendations in 2023 version",
+        "ru": "Рекомендации в версии 2023 г."
+      }
+    },
+    {
+      "id": "c_curr_cls",
+      "title": {
+        "en": "Class",
+        "ru": "Class"
+      }
+    },
+    {
+      "id": "c_curr_lvl",
+      "title": {
+        "en": "LoE",
+        "ru": "LoE"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r_sec01",
+      "cells": [
+        {
+          "colspan": 6,
+          "tone": "neutral",
+          "text": {
+            "en": "**Recommendations for imaging for patients with suspected NSTE-ACS**",
+            "ru": "**Рекомендации по визуализации у пациентов с подозрением на NSTE-ACS**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "In patients with no recurrence of chest pain, normal ECG findings, and normal levels of cardiac troponin (preferably high sensitivity), but still with suspected ACS, a non-invasive stress test (preferably with imaging) for inducible ischaemia or CCTA is recommended before deciding on an invasive approach.",
+            "ru": "У пациентов без рецидива боли в груди, с нормальной ЭКГ и нормальным уровнем тропонина, но при сохраняющемся подозрении на ОКС, рекомендован неинвазивный стресс-тест с визуализацией или КТ-коронарография (CCTA) перед решением об инвазивном вмешательстве."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          },
+          "tone": "blue"
+        },
+        {
+          "text": {
+            "en": "In patients with suspected ACS, non-elevated (or uncertain) hs-cTn, no ECG changes and no recurrence of pain, incorporating CCTA or a non-invasive stress imaging test as part of the initial workup should be considered.",
+            "ru": "У пациентов с подозрением на ОКС, неповышенным (или сомнительным) hs-cTn, без изменений ЭКГ и без рецидива боли, включение КТ-коронарографии (CCTA) или неинвазивного стресс-теста с визуализацией в план первичного обследования следует рассмотреть."
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          },
+          "tone": "blue"
+        }
+      ]
+    },
+    {
+      "id": "r_sec02",
+      "cells": [
+        {
+          "colspan": 6,
+          "tone": "neutral",
+          "text": {
+            "en": "**Recommendations for timing of invasive strategy in NSTE-ACS**",
+            "ru": "**Рекомендации по срокам инвазивной стратегии при NSTE-ACS**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "An early invasive strategy within 24 h is recommended in patients with any of the following high-risk criteria:\n• Diagnosis of NSTEMI suggested by the diagnostic algorithm recommended in Section 3\n• Dynamic or presumably new contiguous ST/T-segment changes suggesting ongoing ischaemia\n• Transient ST-segment elevation\n• GRACE risk score >140.",
+            "ru": "Ранняя инвазивная стратегия в течение 24 ч рекомендована пациентам при наличии любого критерия высокого риска:\n• Диагноз NSTEMI по диагностическому алгоритму\n• Динамические изменения ST-T\n• Транзиторный подъем ST\n• Индекс GRACE >140."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          },
+          "tone": "blue"
+        },
+        {
+          "text": {
+            "en": "An early invasive strategy within 24 h should be considered in patients with at least one of the following high-risk criteria:\n• Confirmed diagnosis of NSTEMI based on current recommended ESC hs-cTn algorithms\n• Dynamic ST-segment or T wave changes\n• Transient ST-segment elevation\n• GRACE risk score >140.",
+            "ru": "Раннюю инвазивную стратегию в течение 24 ч следует рассмотреть у пациентов как минимум с одним критерием высокого риска:\n• Подтвержденный диагноз NSTEMI\n• Динамические изменения ST или зубца T\n• Транзиторный подъем ST\n• Индекс GRACE >140."
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          },
+          "tone": "blue"
+        }
+      ]
+    },
+    {
+      "id": "r_sec03",
+      "cells": [
+        {
+          "colspan": 6,
+          "tone": "neutral",
+          "text": {
+            "en": "**Recommendations for antiplatelet and anticoagulant therapy in STEMI**",
+            "ru": "**Рекомендации по антиагрегантной и антикоагулянтной терапии при STEMI**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "A potent P2Y12 inhibitor (prasugrel or ticagrelor), or clopidogrel if these are not available or are contraindicated, is recommended before (or at latest at the time of) PCI, and maintained over 12 months, unless there are contraindications such as excessive risk of bleeding.",
+            "ru": "Мощный ингибитор P2Y12 (прасугрел или тикагрелор) рекомендован до (или не позже момента) ЧКВ и на протяжении 12 месяцев, если нет противопоказаний."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          },
+          "tone": "blue"
+        },
+        {
+          "text": {
+            "en": "Pre-treatment with a P2Y12 receptor inhibitor may be considered in patients undergoing a primary PCI strategy.",
+            "ru": "Предварительную терапию (претритмент) ингибитором рецепторов P2Y12 можно рассмотреть у пациентов, которым проводится первичное ЧКВ."
+          }
+        },
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          },
+          "tone": "blue"
+        }
+      ]
+    },
+    {
+      "id": "r_sec04",
+      "cells": [
+        {
+          "colspan": 6,
+          "tone": "neutral",
+          "text": {
+            "en": "**Recommendations for long-term antithrombotic therapy**",
+            "ru": "**Рекомендации по длительной антитромботической терапии**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "After stent implantation in patients undergoing a strategy of DAPT, stopping aspirin after 3–6 months should be considered, depending on the balance between the ischaemic and bleeding risks.",
+            "ru": "После имплантации стента на фоне ДАТТ отмену аспирина через 3–6 месяцев следует рассмотреть в зависимости от баланса ишемических и геморрагических рисков."
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          },
+          "tone": "blue"
+        },
+        {
+          "text": {
+            "en": "In patients who are event-free after 3–6 months of DAPT and who are not high ischaemic risk, SAPT (preferably with a P2Y12 receptor inhibitor) should be considered.",
+            "ru": "У пациентов без ишемических событий через 3–6 месяцев ДАТТ и без высокого ишемического риска монотерапию антиагрегантом SAPT (предпочтительно ингибитором P2Y12) следует рассмотреть."
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          },
+          "tone": "blue"
+        }
+      ]
+    },
+    {
+      "id": "r_sec05",
+      "cells": [
+        {
+          "colspan": 6,
+          "tone": "neutral",
+          "text": {
+            "en": "**Recommendations for cardiac arrest and out-of-hospital cardiac arrest**",
+            "ru": "**Рекомендации при остановке сердца и внебольничной остановке сердца**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Delayed as opposed to immediate angiography should be considered among haemodynamically stable patients without ST-segment elevation successfully resuscitated after out-of-hospital cardiac arrest.",
+            "ru": "Отсроченную, а не немедленную коронарографию следует рассмотреть у гемодинамически стабильных пациентов без подъема ST после успешной реанимации при OHCA."
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          },
+          "tone": "blue"
+        },
+        {
+          "text": {
+            "en": "Routine immediate angiography after resuscitated cardiac arrest is not recommended in haemodynamically stable patients without persistent ST-segment elevation (or equivalents).",
+            "ru": "Рутинная немедленная коронарография после реанимации не рекомендована у гемодинамически стабильных пациентов без стойкого подъема ST (или эквивалентов)."
+          }
+        },
+        {
+          "text": {
+            "en": "III",
+            "ru": "III"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          },
+          "tone": "blue"
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Targeted temperature management (also called therapeutic hypothermia), aiming for a constant temperature between 32 and 36 C for at least 24 h, is indicated in patients who remain unconscious after resuscitation from cardiac arrest (of presumed cardiac cause).",
+            "ru": "Целевой температурный менеджмент (терапевтическая гипотермия) с поддержанием температуры 32–36 °C не менее 24 ч показан пациентам без сознания после реанимации."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          },
+          "tone": "blue"
+        },
+        {
+          "text": {
+            "en": "Temperature control (i.e. continuous monitoring of core temperature and active prevention of fever [i.e. >37.7°C]) is recommended after either out-of-hospital or in-hospital cardiac arrest for adults who remain unresponsive after return of spontaneous circulation.",
+            "ru": "Контроль температуры (непрерывный мониторинг и активная профилактика лихорадки >37,7 °C) рекомендован взрослым пациентам без сознания после восстановления спонтанного кровообращения."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          },
+          "tone": "blue"
+        }
+      ]
+    },
+    {
+      "id": "r_sec06",
+      "cells": [
+        {
+          "colspan": 6,
+          "tone": "neutral",
+          "text": {
+            "en": "**Recommendations for in-hospital management**",
+            "ru": "**Рекомендации по госпитальному ведению**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "When echocardiography is suboptimal/inconclusive, an alternative imaging method (CMR preferably) should be considered.",
+            "ru": "Если ЭхоКГ субоптимальна или неубедительна, альтернативный метод визуализации (предпочтительно МРТ сердца) следует рассмотреть."
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          },
+          "tone": "blue"
+        },
+        {
+          "text": {
+            "en": "When echocardiography is suboptimal/inconclusive, CMR imaging may be considered.",
+            "ru": "Если ЭхоКГ субоптимальна или неубедительна, МРТ сердца (CMR) можно рассмотреть."
+          }
+        },
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          },
+          "tone": "blue"
+        }
+      ]
+    },
+    {
+      "id": "r_sec07",
+      "cells": [
+        {
+          "colspan": 6,
+          "tone": "neutral",
+          "text": {
+            "en": "**Recommendations for management of multivessel disease in haemodynamically stable STEMI patients undergoing primary PCI**",
+            "ru": "**Рекомендации при многососудистом поражении у стабильных пациентов со STEMI при первичном ЧКВ**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "Routine revascularization of non-IRA lesions should be considered in STEMI patients with multivessel disease before hospital discharge.",
+            "ru": "Рутинную реваскуляризацию невиновных артерий следует рассмотреть у пациентов со STEMI и многососудистым поражением до выписки из стационара."
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          },
+          "tone": "blue"
+        },
+        {
+          "text": {
+            "en": "Complete revascularization is recommended either during the index PCI procedure or within 45 days.",
+            "ru": "Полная реваскуляризация рекомендована либо во время индексной процедуры ЧКВ, либо в течение 45 дней."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          },
+          "tone": "blue"
+        }
+      ]
+    },
+    {
+      "id": "r_sec08",
+      "cells": [
+        {
+          "colspan": 6,
+          "tone": "neutral",
+          "text": {
+            "en": "**Recommendations for acute coronary syndrome comorbid conditions**",
+            "ru": "**Рекомендации при сопутствующих патологиях при ОКС**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "Glucose-lowering therapy should be considered in ACS patients with blood glucose >10 mmol/L (>180 mg/dL), with the target adapted to comorbidities, while episodes of hypoglycaemia should be avoided.",
+            "ru": "Сахароснижающую терапию следует рассмотреть у пациентов с ОКС и гликемией >10 ммоль/л (>180 мг/дл) с адаптацией целевых уровней и избеганием гипогликемий."
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          },
+          "tone": "blue"
+        },
+        {
+          "text": {
+            "en": "Glucose-lowering therapy should be considered in patients with ACS with persistent hyperglycaemia, while episodes of hypoglycaemia should be avoided.",
+            "ru": "Сахароснижающую терапию следует рассмотреть у пациентов с ОКС с персистирующей гипергликемией, при этом эпизодов гипогликемии следует избегать."
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          },
+          "tone": "blue"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "page": 10,
+    "expectedRows": 17
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

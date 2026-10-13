@@ -1,0 +1,217 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.t10-cha2ds2-va-score",
+  "guidelineId": "esc-af-2024",
+  "number": "Table 10",
+  "type": "grid",
+  "title": {
+    "en": "Updated definitions for the CHA₂DS₂-VA score",
+    "ru": "Обновленные определения компонентов шкалы CHA₂DS₂-VA"
+  },
+  "tags": [
+    "af",
+    "cha2ds2-va",
+    "stroke-risk",
+    "risk-score",
+    "anticoagulation"
+  ],
+  "columns": [
+    {
+      "id": "c_letter",
+      "title": {
+        "en": "Letter",
+        "ru": "Буква"
+      }
+    },
+    {
+      "id": "c_component",
+      "title": {
+        "en": "CHA₂DS₂-VA component",
+        "ru": "Компонент шкалы CHA₂DS₂-VA"
+      }
+    },
+    {
+      "id": "c_definition",
+      "title": {
+        "en": "Definition and comments",
+        "ru": "Определение и комментарии"
+      }
+    },
+    {
+      "id": "c_points",
+      "title": {
+        "en": "Points awarded",
+        "ru": "Баллы^[a]"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": { "en": "C", "ru": "C" }
+        },
+        {
+          "text": {
+            "en": "Chronic heart failure",
+            "ru": "Хроническая сердечная недостаточность"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptoms and signs of heart failure (irrespective of LVEF, thus including HFpEF, HFmrEF, and HFrEF), or the presence of asymptomatic LVEF ≤40%.",
+            "ru": "Симптомы и признаки сердечной недостаточности (независимо от ФВ ЛЖ, включая СНсФВ, СНунФВ и СНнФВ) или бессимптомное снижение ФВ ЛЖ ≤40%."
+          }
+        },
+        {
+          "text": { "en": "1", "ru": "1" }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": { "en": "H", "ru": "H" }
+        },
+        {
+          "text": {
+            "en": "Hypertension",
+            "ru": "Артериальная гипертензия"
+          }
+        },
+        {
+          "text": {
+            "en": "Resting blood pressure >140/90 mmHg on at least two occasions, or current antihypertensive treatment. The optimal BP target associated with lowest risk of major cardiovascular events is 120–129/70–79 mmHg (or keep as low as reasonably achievable).",
+            "ru": "Артериальное давление в покое >140/90 мм рт. ст. как минимум при двух измерениях или текущая антигипертензивная терапия. Оптимальное целевое АД: 120–129/70–79 мм рт. ст. (или настолько низкое, насколько достижимо)."
+          }
+        },
+        {
+          "text": { "en": "1", "ru": "1" }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": { "en": "A₂", "ru": "A₂" }
+        },
+        {
+          "text": {
+            "en": "Age 75 years or above",
+            "ru": "Возраст 75 лет и старше"
+          }
+        },
+        {
+          "text": {
+            "en": "Age is an independent determinant of ischaemic stroke risk. Age-related risk is a continuum, but for reasons of practicality, two points are given for age ≥75 years.",
+            "ru": "Возраст является независимым предиктором ишемического инсульта. Возрастной риск непрерывен, но из практических соображений за возраст ≥75 лет начисляется 2 балла."
+          }
+        },
+        {
+          "text": { "en": "2", "ru": "2" }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": { "en": "D", "ru": "D" }
+        },
+        {
+          "text": {
+            "en": "Diabetes mellitus",
+            "ru": "Сахарный диабет"
+          }
+        },
+        {
+          "text": {
+            "en": "Diabetes mellitus (type 1 or type 2), as defined by currently accepted criteria, or treatment with glucose lowering therapy.",
+            "ru": "Сахарный диабет (1 или 2 типа), диагностированный по общепринятым критериям, или проводимая сахароснижающая терапия."
+          }
+        },
+        {
+          "text": { "en": "1", "ru": "1" }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": { "en": "S₂", "ru": "S₂" }
+        },
+        {
+          "text": {
+            "en": "Prior stroke, TIA, or arterial thromboembolism",
+            "ru": "Перенесенный инсульт, ТИА или артериальная тромбоэмболия"
+          }
+        },
+        {
+          "text": {
+            "en": "Previous thromboembolism is associated with highly elevated risk of recurrence and therefore weighted 2 points.",
+            "ru": "Предшествующая тромбоэмболия ассоциирована с крайне высоким риском повторных событий и поэтому оценивается в 2 балла."
+          }
+        },
+        {
+          "text": { "en": "2", "ru": "2" }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": { "en": "V", "ru": "V" }
+        },
+        {
+          "text": {
+            "en": "Vascular disease",
+            "ru": "Сосудистое заболевание"
+          }
+        },
+        {
+          "text": {
+            "en": "Coronary artery disease, including prior myocardial infarction, angina, history of coronary revascularization (surgical or percutaneous), and significant CAD on angiography or cardiac imaging.\nOR\nPeripheral vascular disease, including: intermittent claudication, previous revascularization for PVD, percutaneous or surgical intervention on the abdominal aorta, and complex aortic plaque on imaging (defined as features of mobility, ulceration, pedunculation, or thickness ≥4 mm).",
+            "ru": "Ишемическая болезнь сердца (перенесенный инфаркт миокарда, стенокардия, реваскуляризация миокарда в анамнезе, гемодинамически значимый стеноз КА по ангиографии/визуализации).\nИЛИ\nЗаболевание периферических артерий (перемежающаяся хромота, предшествующая реваскуляризация по поводу ЗПА, вмешательства на брюшной аорте, сложные атеросклеротические бляшки аорты толщиной ≥4 мм, подвижные или изъязвленные)."
+          }
+        },
+        {
+          "text": { "en": "1", "ru": "1" }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": { "en": "A", "ru": "A" }
+        },
+        {
+          "text": {
+            "en": "Age 65–74 years",
+            "ru": "Возраст 65–74 года"
+          }
+        },
+        {
+          "text": {
+            "en": "1 point is given for age between 65 and 74 years.",
+            "ru": "1 балл начисляется за возраст от 65 до 74 лет включительно."
+          }
+        },
+        {
+          "text": { "en": "1", "ru": "1" }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "In addition to these factors, other markers that modify an individual's risk for stroke and thromboembolism should be considered, including cancer, chronic kidney disease, ethnicity (black, Hispanic, Asian), biomarkers (troponin and BNP), and in specific groups, atrial enlargement, hyperlipidaemia, smoking, and obesity.",
+      "ru": "В дополнение к этим факторам следует учитывать другие модификаторы риска инсульта: онкологические заболевания, ХБП, биомаркеры (тропонин, BNP), дилатацию предсердий, гиперлипидемию, курение и ожирение."
+    }
+  }
+}

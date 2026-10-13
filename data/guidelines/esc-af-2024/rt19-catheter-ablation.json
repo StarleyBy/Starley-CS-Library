@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt19-catheter-ablation",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 19",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for catheter ablation of AF",
+    "ru": "Рекомендации по катетерной аблации фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "catheter-ablation",
+    "pvi",
+    "first-line",
+    "heart-failure",
+    "hfref",
+    "tachycardiomyopathy",
+    "tachy-brady",
+    "repeat-ablation"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Shared decision-making",
+        "ru": "Совместное принятие решений"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Shared decision-making is recommended when considering catheter ablation for AF, taking into account procedural risks, likely benefits, and risk factors for AF recurrence.",
+            "ru": "Совместное принятие решений врачом и пациентом рекомендуется при рассмотрении катетерной аблации ФП с учетом рисков процедуры, вероятной пользы и факторов риска рецидива ФП."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "AF patients resistant or intolerant to antiarrhythmic drug therapy",
+        "ru": "Пациенты с ФП, резистентные или нетолерантные к антиаритмической лекарственной терапии"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "Catheter ablation is recommended in patients with paroxysmal or persistent AF resistant or intolerant to antiarrhythmic drug therapy to reduce symptoms, recurrence, and progression of AF.",
+            "ru": "Катетерная аблация рекомендуется пациентам с пароксизмальной или персистирующей ФП, резистентной или нетолерантной к антиаритмической лекарственной терапии, для уменьшения симптомов, снижения частоты рецидивов и прогрессирования ФП."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "First-line rhythm control therapy",
+        "ru": "Терапия контроля ритма первой линии"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "Catheter ablation is recommended as a first-line option within a shared decision-making rhythm control strategy in patients with paroxysmal AF, to reduce symptoms, recurrence, and progression of AF.",
+            "ru": "Катетерная аблация рекомендуется в качестве метода первой линии в рамках совместного принятия решений о контроле ритма у пациентов с пароксизмальной ФП для уменьшения выраженности симптомов, частоты рецидивов и прогрессирования ФП."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Catheter ablation may be considered as a first-line option within a shared decision-making rhythm control strategy in selected patients with persistent AF to reduce symptoms, recurrence, and progression of AF.",
+            "ru": "Катетерная аблация может рассматриваться в качестве опции первой линии в рамках совместного принятия решений о контроле ритма у отдельных пациентов с персистирующей ФП для уменьшения симптомов, частоты рецидивов и прогрессирования ФП."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en": "Patients with heart failure",
+        "ru": "Пациенты с сердечной недостаточностью"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "AF catheter ablation is recommended in patients with AF and HFrEF with high probability of tachycardia-induced cardiomyopathy to reverse left ventricular dysfunction.",
+            "ru": "Катетерная аблация ФП рекомендуется пациентам с ФП и СНнФВ с высокой вероятностью тахикардитической кардиомиопатии для обратного развития систолической дисфункции левого желудочка."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "AF catheter ablation should be considered in selected AF patients with HFrEF to reduce HF hospitalization and prolong survival.",
+            "ru": "Катетерную аблацию ФП следует рассматривать у отобранных пациентов с ФП и СНнФВ для снижения частоты госпитализаций по поводу СН и увеличения выживаемости."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "title": {
+        "en": "Sinus node disease/tachycardia–bradycardia syndrome",
+        "ru": "Дисфункция синусового узла / синдром тахикардии-брадикардии"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "AF catheter ablation should be considered in patients with AF-related bradycardia or sinus pauses on AF termination to improve symptoms and avoid pacemaker implantation.",
+            "ru": "Катетерную аблацию ФП следует рассматривать у пациентов с ассоциированной с ФП брадикардией или паузами синусового узла при купировании пароксизма для уменьшения симптомов и предотвращения имплантации электрокардиостимулятора."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "title": {
+        "en": "Recurrence after catheter ablation",
+        "ru": "Рецидив после катетерной аблации"
+      },
+      "rows": [
+        {
+          "id": "r08",
+          "text": {
+            "en": "Repeat AF catheter ablation should be considered in patients with AF recurrence after initial catheter ablation, provided the patient’s symptoms were improved after the initial PVI or after failed initial PVI, to reduce symptoms, recurrence, and progression of AF.",
+            "ru": "Повторную катетерную аблацию ФП следует рассматривать у пациентов с рецидивом аритмии после первичной аблации (при условии, что симптомы уменьшались после исходной изоляции ЛВ или после неэффективной первичной процедуры) для уменьшения симптомов, частоты рецидивов и прогрессирования ФП."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt21-anomalous-coronary-arteries",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec Anomalous CA",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for the management of patients with anomalous coronary arteries",
+    "ru": "Рекомендации по ведению пациентов с аномалиями коронарных артерий"
+  },
+  "tags": [
+    "achd",
+    "coronary-anomalies",
+    "alcapa",
+    "arcapa",
+    "aaoca",
+    "aaolca",
+    "aaorca"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "General recommendations",
+        "ru": "Общие рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Non-pharmacological functional imaging (e.g. nuclear study, echocardiography, or CMR with physical stress) is recommended in patients with coronary anomalies to confirm/exclude myocardial ischaemia.",
+            "ru": "Нефармакологическая функциональная визуализация (например, радионуклидное исследование, эхокардиография или МРТ сердца с физической нагрузкой) рекомендуется пациентам с аномалиями коронарных артерий для подтверждения или исключения ишемии миокарда."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Anomalous coronary arteries from the pulmonary artery",
+        "ru": "Аномальное отхождение коронарных артерий от легочной артерии"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "Surgery is recommended in patients with ALCAPA.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с ALCAPA (синдром Бланда-Уайта-Гарланда, отхождение ЛКА от ЛА)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Surgery is recommended in patients with ARCAPA and symptoms attributable to anomalous coronary artery.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с ARCAPA (отхождение ПКА от ЛА) и симптомами, обусловленными аномальной коронарной артерией."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Surgery should be considered for ARCAPA in asymptomatic patients with ventricular dysfunction, or myocardial ischaemia attributable to coronary anomaly.",
+            "ru": "Хирургическое лечение следует рассматривать при ARCAPA у асимптомных пациентов с желудочковой дисфункцией или ишемией миокарда, обусловленной коронарной аномалией."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Anomalous aortic origin of the coronary artery",
+        "ru": "Аномальное отхождение коронарной артерии от аорты (AAOCA)"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Surgery is recommended for AAOCA in patients with typical angina symptoms who present with evidence of stress-induced myocardial ischaemia in a matching territory or high-risk anatomy.^[c]",
+            "ru": "Хирургическое лечение рекомендуется при AAOCA у пациентов с типичными симптомами стенокардии при наличии признаков стресс-индуцированной ишемии миокарда в соответствующем бассейне или анатомии высокого риска.^[c]"
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Surgery should be considered in *asymptomatic* patients with AAOCA (right or left) and evidence of myocardial ischaemia.",
+            "ru": "Хирургическое лечение следует рассматривать у *асимптомных* пациентов с AAOCA (правой или левой) и подтвержденной ишемией миокарда."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Surgery should be considered in *asymptomatic* patients with AAOLCA and no evidence of myocardial ischaemia but a high-risk anatomy.^[c]",
+            "ru": "Хирургическое лечение следует рассматривать у *асимптомных* пациентов с AAOLCA (аномальным отхождением ЛКА от аорты) без признаков ишемии миокарда, но с анатомией высокого риска.^[c]"
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Surgery may be considered for symptomatic patients with AAOCA even if there is no evidence of myocardial ischaemia or high-risk anatomy.^[c]",
+            "ru": "Хирургическое лечение может рассматриваться у симптомных пациентов с AAOCA даже при отсутствии признаков ишемии миокарда или анатомии высокого риска.^[c]"
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Surgery may be considered for *asymptomatic* patients with AAOLCA without myocardial ischaemia and without high-risk anatomy^[c] when they present at young age (<35 years).",
+            "ru": "Хирургическое лечение может рассматриваться у *асимптомных* пациентов с AAOLCA без ишемии миокарда и без анатомии высокого риска^[c] в молодом возрасте (<35 лет)."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Surgery is not recommended for AAORCA in asymptomatic patients without myocardial ischaemia and without high-risk anatomy.^[c]",
+            "ru": "Хирургическое лечение не рекомендуется при AAORCA (аномальном отхождении ПКА от аорты) у асимптомных пациентов без ишемии миокарда и без анатомии высокого риска.^[c]"
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "High-risk anatomy includes features such as an intramural course and orifice anomalies (slit-like orifice, acute-angle take-off, orifice >1 cm above the sinotubular junction).",
+      "ru": "Анатомия высокого риска включает такие признаки, как интрамуральный ход и аномалии устья (щелевидное устье, отхождение под острым углом, расположение устья >1 см выше синотубулярного гребня)."
+    }
+  }
+}

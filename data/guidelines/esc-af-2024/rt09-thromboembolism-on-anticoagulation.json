@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt09-thromboembolism-on-anticoagulation",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 9",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for thromboembolism despite anticoagulation",
+    "ru": "Рекомендации при развитии тромбоэмболии на фоне антикоагулянтной терапии"
+  },
+  "tags": [
+    "af",
+    "stroke",
+    "thromboembolism",
+    "anticoagulation-failure",
+    "doac-switch",
+    "antiplatelet"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for thromboembolism despite anticoagulation",
+        "ru": "Рекомендации при развитии тромбоэмболии на фоне антикоагулянтной терапии"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "A thorough diagnostic work-up should be considered in patients taking an oral anticoagulant and presenting with ischaemic stroke or thromboembolism to prevent recurrent events, including assessment of non-cardioembolic causes, vascular risk factors, dosage, and adherence.",
+            "ru": "Тщательное диагностическое обследование следует рассматривать у пациентов, принимающих оральный антикоагулянт и перенесших ишемический инсульт или тромбоэмболию, для профилактики повторных событий, включая оценку некардиоэмболических причин, сосудистых факторов риска, дозировки препарата и приверженности к лечению."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Adding antiplatelet treatment to anticoagulation is not recommended in patients with AF to prevent recurrent embolic stroke.",
+            "ru": "Добавление антиагрегантной терапии к антикоагулянтам не рекомендуется у пациентов с ФП для профилактики повторного эмболического инсульта."
+          },
+          "class": "III",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Switching from one DOAC to another, or from a DOAC to a VKA, without a clear indication is not recommended in patients with AF to prevent recurrent embolic stroke.",
+            "ru": "Переключение с одного ПОАК на другой или с ПОАК на АВК без четких показаний не рекомендуется у пациентов с ФП для профилактики повторного эмболического инсульта."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

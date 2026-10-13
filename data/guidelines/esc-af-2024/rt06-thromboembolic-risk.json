@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt06-thromboembolic-risk",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 6",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations to assess and manage thromboembolic risk in AF",
+    "ru": "Рекомендации по оценке и снижению тромбоэмболического риска при фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "anticoagulation",
+    "stroke-prevention",
+    "cha2ds2-va",
+    "hcm",
+    "amyloidosis",
+    "subclinical-af",
+    "antiplatelet"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations to assess and manage thromboembolic risk in AF",
+        "ru": "Рекомендации по оценке и снижению тромбоэмболического риска при ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Oral anticoagulation is recommended in patients with clinical AF at elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Оральная антикоагулянтная терапия рекомендуется пациентам с клинической ФП при повышенном тромбоэмболическом риске для профилактики ишемического инсульта и системных тромбоэмболий."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "A CHA₂DS₂-VA score of 2 or more is recommended as an indicator of elevated thromboembolic risk for decisions on initiating oral anticoagulation.",
+            "ru": "Оценка по шкале CHA₂DS₂-VA в 2 балла и более рекомендуется в качестве показателя повышенного тромбоэмболического риска для принятия решения о начале оральной антикоагуляции."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Oral anticoagulation is recommended in all patients with AF and hypertrophic cardiomyopathy or cardiac amyloidosis, regardless of CHA₂DS₂-VA score, to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Оральная антикоагулянтная терапия рекомендуется всем пациентам с ФП и гипертрофической кардиомиопатией или амилоидозом сердца, независимо от баллов по шкале CHA₂DS₂-VA, для профилактики ишемического инсульта и тромбоэмболий."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Individualized reassessment of thromboembolic risk is recommended at periodic intervals in patients with AF to ensure anticoagulation is started in appropriate patients.",
+            "ru": "Индивидуальная повторная оценка тромбоэмболического риска рекомендуется через регулярные интервалы времени у пациентов с ФП для своевременного назначения антикоагулянтов при появлении показаний."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "A CHA₂DS₂-VA score of 1 should be considered an indicator of elevated thromboembolic risk for decisions on initiating oral anticoagulation.",
+            "ru": "Оценку по шкале CHA₂DS₂-VA в 1 балл следует рассматривать как показатель повышенного тромбоэмболического риска для принятия решения о начале оральной антикоагуляции."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Direct oral anticoagulant therapy may be considered in patients with asymptomatic device-detected subclinical AF and elevated thromboembolic risk to prevent ischaemic stroke and thromboembolism, excluding patients at high risk of bleeding.",
+            "ru": "Терапия прямыми оральными антикоагулянтами может рассматриваться у пациентов с бессимптомной субклинической ФП, выявленной имплантированными устройствами, и повышенным тромбоэмболическим риском для профилактики ишемического инсульта и тромбоэмболий, за исключением пациентов с высоким риском кровотечений."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Antiplatelet therapy is not recommended as an alternative to anticoagulation in patients with AF to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Антиагрегантная терапия не рекомендуется в качестве альтернативы антикоагулянтам у пациентов с ФП для профилактики ишемического инсульта и тромбоэмболий."
+          },
+          "class": "III",
+          "level": "A"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Using the temporal pattern of clinical AF (paroxysmal, persistent, or permanent) is not recommended to determine the need for oral anticoagulation.",
+            "ru": "Использование формы течения клинической ФП (пароксизмальная, персистирующая или постоянная) не рекомендуется для определения потребности в оральной антикоагуляции."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

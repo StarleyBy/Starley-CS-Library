@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt08-genetic-counselling-testing",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 8",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for genetic counselling and testing in cardiomyopathies",
+    "ru": "Рекомендации по медико-генетическому консультированию и тестированию при кардиомиопатиях"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "genetics",
+    "genetic-counselling",
+    "genetic-testing",
+    "cascade-screening",
+    "index-patients",
+    "family-members"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Genetic counselling",
+        "ru": "Медико-генетическое консультирование"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Genetic counselling, provided by an appropriately trained healthcare professional and including genetic education to inform decision-making and psychosocial support, is recommended for families with an inherited or suspected inherited cardiomyopathy, regardless of whether genetic testing is being considered.",
+            "ru": "Медико-генетическое консультирование, проводимое квалифицированным специалистом и включающее информирование о генетике для принятия осознанных решений и психосоциальную поддержку, рекомендуется семьям с наследственной кардиомиопатией или подозрением на нее независимо от того, планируется ли генетическое тестирование."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "It is recommended that genetic testing for cardiomyopathy is performed with access to a multidisciplinary team, including those with expertise in genetic testing methodology, sequence variant interpretation, and clinical application of genetic testing, typically in a specialized cardiomyopathy service or in a network model with access to equivalent expertise.",
+            "ru": "Рекомендуется проводить генетическое тестирование кардиомиопатий при участии мультидисциплинарной команды, включающей специалистов в методологии тестирования, интерпретации вариантов нуклеотидной последовательности и клиническом применении генетических данных, предпочтительно в специализированном центре кардиомиопатий или в рамках сетевой модели с доступом к эквивалентной экспертизе."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Pre- and post-test genetic counselling is recommended in all individuals undergoing genetic testing for cardiomyopathy.",
+            "ru": "Дотестовое и посттестовое медико-генетическое консультирование рекомендуется всем лицам, проходящим генетическое тестирование по поводу кардиомиопатии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "If pre-natal diagnostic testing is to be pursued by the family, it is recommended that this is performed early in pregnancy, to allow decisions regarding continuation or co-ordination of pregnancy to be made.",
+            "ru": "Если семья планирует пренатальную генетическую диагностику, рекомендуется проводить ее на ранних сроках беременности, чтобы обеспечить возможность принятия своевременных решений относительно пролонгирования или ведения беременности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "A discussion about reproductive genetic testing options with an appropriately trained healthcare professional should be considered for all families with a genetic diagnosis.",
+            "ru": "Обсуждение возможностей репродуктивного генетического тестирования с квалифицированным специалистом следует рассмотреть для всех семей с установленным генетическим диагнозом."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Index patients",
+        "ru": "Индексные пациенты (пробанды)"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "Genetic testing is recommended in patients fulfilling diagnostic criteria for cardiomyopathy in cases where it enables diagnosis, prognostication, therapeutic stratification, or reproductive management of the patient, or where it enables cascade genetic evaluation of their relatives who would otherwise be enrolled into long-term surveillance.",
+            "ru": "Генетическое тестирование рекомендуется пациентам, соответствующим диагностическим критериям кардиомиопатии, в случаях, когда оно обеспечивает верификацию диагноза, оценку прогноза, стратификацию терапии или репродуктивное планирование, либо позволяет провести каскадное генетическое обследование родственников, которым иначе потребовалось бы длительное клиническое наблюдение."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Genetic testing is recommended for a deceased individual identified to have cardiomyopathy at post-mortem if a genetic diagnosis would facilitate management of surviving relatives.",
+            "ru": "Генетическое тестирование рекомендуется умершему лицу, у которого кардиомиопатия была выявлена при аутопсии, если установление генетического диагноза поможет в ведении оставшихся в живых родственников."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Genetic testing may be considered in patients fulfilling diagnostic criteria for cardiomyopathy when it will have a net benefit to the patient, considering the psychological impact and preference, even if it does not enable diagnosis, prognostication, or therapeutic stratification, or cascade genetic screening of their relatives.",
+            "ru": "Генетическое тестирование может быть рассмотрено у пациентов, соответствующих критериям кардиомиопатии, если оно принесет общую пользу с учетом психологического фактора и предпочтений пациента, даже если оно напрямую не меняет терапию, прогноз или каскадный скрининг родственников."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Genetic testing in patients with a borderline phenotype not fulfilling diagnostic criteria for a cardiomyopathy may be considered only after detailed assessment by specialist teams.",
+            "ru": "Генетическое тестирование у пациентов с пограничным фенотипом, не отвечающим полным критериям кардиомиопатии, может рассматриваться только после углубленной оценки специализированной экспертной командой."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Family members",
+        "ru": "Члены семьи"
+      },
+      "rows": [
+        {
+          "id": "r10",
+          "text": {
+            "en": "It is recommended that cascade genetic testing, with pre- and post-test counselling, is offered to adult at-risk relatives if a confident genetic diagnosis (i.e. a P/LP variant) has been established in an individual with cardiomyopathy in the family (starting with first-degree relatives if available, and cascading out sequentially).",
+            "ru": "Рекомендуется предложить каскадное генетическое тестирование с до- и посттестовым консультированием взрослым родственникам из группы риска при установлении достоверного генетического диагноза (патогенного или вероятно патогенного варианта P/LP) у пробанда в семье (начиная с родственников 1-й степени родства с последующим последовательным каскадированием)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "Cascade genetic testing with pre- and post-test counselling should be considered in paediatric at-risk relatives if a confident genetic diagnosis (i.e. a P/LP variant) has been established in an individual with cardiomyopathy in the family (starting with first-degree relatives, if available, and cascading out sequentially), considering the underlying cardiomyopathy, expected age of onset, presentation in the family, and clinical/legal consequences.",
+            "ru": "Каскадное генетическое тестирование с до- и посттестовым консультированием следует рассмотреть у детей из группы риска при установлении достоверного генетического диагноза (P/LP) у члена семьи (начиная с 1-й степени родства), принимая во внимание форму кардиомиопатии, ожидаемый возраст манифестации, семейную картину и клинико-правовые последствия."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "Testing for the presence of a familial variant of unknown significance, typically in parents and/or affected relatives, to determine if the variant segregates with the cardiomyopathy phenotype should be considered if this might allow the variant to be interpreted with confidence.",
+            "ru": "Тестирование на наличие семейного варианта с неизвестным значением (VUS), как правило у родителей и/или пораженных родственников, для оценки косегрегации варианта с фенотипом кардиомиопатии следует рассмотреть, если это может способствовать достоверной реклассификации варианта."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "Diagnostic genetic testing is not recommended in a phenotype-negative relative of a patient with cardiomyopathy in the absence of a confident genetic diagnosis (i.e. a P/LP variant) in the family.",
+            "ru": "Диагностическое генетическое тестирование не рекомендуется фенотип-отрицательному родственнику пациента с кардиомиопатией при отсутствии установленного достоверного генетического диагноза (варианта P/LP) в семье."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023",
+  "society": "ESC",
+  "year": 2023,
+  "title": {
+    "en": "2023 ESC Guidelines for the management of cardiomyopathies",
+    "ru": "Рекомендации ESC 2023 года по ведению кардиомиопатий"
+  },
+  "shortTitle": {
+    "en": "ESC Cardiomyopathies 2023",
+    "ru": "ESC Кардиомиопатии 2023"
+  },
+  "citation": "Eur Heart J. 2023;44(37):3503–3626",
+  "legend": "esc-2023",
+  "abbreviations": {
+    "AD": { "en": "autosomal dominant", "ru": "аутосомно-доминантный" },
+    "AR": { "en": "autosomal recessive", "ru": "аутосомно-рецессивный" },
+    "ARVC": { "en": "arrhythmogenic right ventricular cardiomyopathy", "ru": "аритмогенная кардиомиопатия правого желудочка" },
+    "ATTR": { "en": "transthyretin amyloidosis", "ru": "транстиретиновый амилоидоз" },
+    "ATTRv": { "en": "hereditary transthyretin amyloidosis", "ru": "наследственный транстиретиновый амилоидоз" },
+    "CMR": { "en": "cardiovascular magnetic resonance", "ru": "магнитно-резонансная томография сердца" },
+    "DCM": { "en": "dilated cardiomyopathy", "ru": "дилатационная кардиомиопатия" },
+    "ECG": { "en": "electrocardiogram", "ru": "электрокардиограмма" },
+    "ESC": { "en": "European Society of Cardiology", "ru": "Европейское общество кардиологов" },
+    "HCM": { "en": "hypertrophic cardiomyopathy", "ru": "гипертрофическая кардиомиопатия" },
+    "HF": { "en": "heart failure", "ru": "сердечная недостаточность" },
+    "ICD": { "en": "implantable cardioverter-defibrillator", "ru": "имплантируемый кардиовертер-дефибриллятор" },
+    "NDLVC": { "en": "non-dilated left ventricular cardiomyopathy", "ru": "недилатационная кардиомиопатия левого желудочка" },
+    "NSML": { "en": "Noonan syndrome with multiple lentigines", "ru": "синдром Нунан с множественными лентиго" },
+    "RCM": { "en": "restrictive cardiomyopathy", "ru": "рестриктивная кардиомиопатия" },
+    "SCD": { "en": "sudden cardiac death", "ru": "внезапная сердечная смерть" },
+    "TTE": { "en": "transthoracic echocardiography", "ru": "трансторакальная эхокардиография" }
+  }
+}

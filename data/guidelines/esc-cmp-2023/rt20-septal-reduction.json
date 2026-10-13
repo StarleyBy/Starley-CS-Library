@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt20-septal-reduction",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 20",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for septal reduction therapy",
+    "ru": "Рекомендации по септальной редукционной терапии"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "hcm",
+    "srt",
+    "myectomy",
+    "alcohol-septal-ablation",
+    "lvoto",
+    "mitral-valve",
+    "atrial-fibrillation"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for septal reduction therapy",
+        "ru": "Рекомендации по септальной редукционной терапии"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that SRT be performed by experienced operators working as part of a multidisciplinary team expert in the management of HCM.",
+            "ru": "Рекомендуется, чтобы септальная редукционная терапия (СРТ) выполнялась опытными операторами в рамках мультидисциплинарной экспертной команды по ведению ГКМП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "SRT to improve symptoms is recommended in patients with a resting or maximum provoked LVOT gradient of ≥50 mmHg who are in NYHA/Ross functional class III–IV, despite maximum tolerated medical therapy.",
+            "ru": "СРТ рекомендуется для облегчения симптомов у пациентов с градиентом в ВТЛЖ в покое или максимально спровоцированным ≥50 мм рт. ст. и функциональным классом III–IV по NYHA/Ross, несмотря на максимально переносимую медикаментозную терапию."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Septal myectomy, rather than ASA, is recommended in children with an indication for SRT, as well as in adult patients with an indication for SRT and other lesions requiring surgical intervention (e.g. mitral valve abnormalities).",
+            "ru": "Хирургическая септальная миэктомия (а не спиртовая септальная аблация, ASA) рекомендуется детям с показаниями к СРТ, а также взрослым пациентам с показаниями к СРТ при наличии сопутствующей патологии, требующей кардиохирургической коррекции (например, аномалий митрального клапана)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "SRT should be considered in patients with recurrent exertional syncope caused by a resting or maximum provoked LVOTO gradient ≥50 mmHg despite optimal medical therapy.",
+            "ru": "СРТ следует рассмотреть у пациентов с рецидивирующими синкопальными состояниями при физической нагрузке, обусловленными градиентом обструкции ВТЛЖ в покое или при провокации ≥50 мм рт. ст., несмотря на оптимальную медикаментознаую терапию."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Mitral valve repair or replacement should be considered in symptomatic patients with a resting or maximum provoked LVOTO gradient ≥50 mmHg and moderate-to-severe mitral regurgitation that cannot be corrected by SRT alone.",
+            "ru": "Пластику или протезирование митрального клапана следует рассмотреть у симптомных пациентов с градиентом обструкции ВТЛЖ ≥50 мм рт. ст. и митральной регургитацией умеренной или тяжелой степени, которая не может быть устранена только посредством СРТ."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Mitral valve repair should be considered in patients with a resting or maximum provoked LVOTO gradient ≥50 mmHg when there is moderate-to-severe mitral regurgitation following isolated myectomy.",
+            "ru": "Пластику митрального клапана следует рассмотреть у пациентов с градиентом обструкции ВТЛЖ ≥50 мм рт. ст. при сохранении умеренной или тяжелой митральной регургитации после изолированной миэктомии."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "SRT may be considered in expert centres with demonstrable low procedural complication rates in patients with mild symptoms (NYHA class II) refractory to medical therapy who have a resting or maximum provoked (exercise or Valsalva) gradient of ≥50 mmHg and: moderate-to-severe SAM-related mitral regurgitation; or AF; or moderate-to-severe left atrial dilatation.",
+            "ru": "СРТ может быть рассмотрена в экспертных центрах с доказанно низкой частотой процедурных осложнений у пациентов с легкими симптомами (II ФК по NYHA), резистентными к медикаментозной терапии, имеющих градиент в покое или при провокации ≥50 мм рт. ст. и: митральную регургитацию средней/тяжелой степени вследствие SAM, фибрилляцию предсердий или выраженную дилатацию левого предсердия."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Mitral valve replacement may be considered in patients with a resting or maximum provoked LVOTO gradient ≥50 mmHg when there is moderate-to-severe mitral regurgitation following isolated myectomy.",
+            "ru": "Протезирование митрального клапана может быть рассмотрено у пациентов с градиентом обструкции ВТЛЖ ≥50 мм рт. ст. при сохранении умеренной или тяжелой митральной регургитации после изолированной миэктомии (если клапаносохраняющая пластика невыполнима)."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Surgical AF ablation and/or left atrial appendage occlusion procedures during septal myectomy may be considered in patients with HCM and symptomatic AF.",
+            "ru": "Хирургическую аблацию ФП и/или окклюзию ушка левого предсердия одномоментно во время септальной миэктомии можно рассмотреть у пациентов с ГКМП и симптомной фибрилляцией предсердий."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt05",
+  "guidelineId": "esc-acs-2023",
+  "number": "5",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for antiplatelet and anticoagulant therapy in acute coronary syndrome",
+    "ru": "Рекомендации по антиагрегантной и антикоагулянтной терапии при остром коронарном синдроме"
+  },
+  "tags": ["antiplatelet", "anticoagulant", "dapt", "aspirin", "clopidogrel", "prasugrel", "ticagrelor", "cangrelor", "ufh", "enoxaparin", "bivalirudin", "fondaparinux", "oac", "noac"],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Antiplatelet therapy",
+        "ru": "Антиагрегантная терапия"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Aspirin is recommended for all patients without contraindications at an initial oral LD of 150–300 mg (or 75–250 mg i.v.) and an MD of 75–100 mg o.d. for long-term treatment.",
+            "ru": "Аспирин рекомендован всем пациентам без противопоказаний в начальной нагрузочной дозе 150–300 мг внутрь (или 75–250 мг в/в) и поддерживающей дозе 75–100 мг один раз в сутки для длительного лечения."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In all ACS patients, a P2Y12 receptor inhibitor is recommended in addition to aspirin, given as an initial oral LD followed by an MD for 12 months unless there is HBR.",
+            "ru": "Всем пациентам с ОКС рекомендован ингибитор рецепторов P2Y12 в дополнение к аспирину в начальной нагрузочной дозе с последующим поддерживающим приемом в течение 12 месяцев, если нет высокого риска кровотечений (HBR)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "A proton pump inhibitor in combination with DAPT is recommended in patients at high risk of gastrointestinal bleeding.",
+            "ru": "Ингибитор протонной помпы в комбинации с ДАТТ рекомендован пациентам с высоким риском желудочно-кишечных кровотечений."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Prasugrel is recommended in P2Y12 receptor inhibitor-naive patients proceeding to PCI (60 mg LD, 10 mg o.d. MD, 5 mg o.d. MD for patients aged ≥75 years or with a body weight <60 kg).",
+            "ru": "Прасугрел рекомендован пациентам, ранее не получавшим ингибиторы P2Y12 и направляемым на ЧКВ (нагрузочная доза 60 мг, поддерживающая 10 мг 1 р/сут; 5 мг 1 р/сут у пациентов ≥75 лет или с массой тела <60 кг)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Ticagrelor is recommended irrespective of the treatment strategy (invasive or conservative) (180 mg LD, 90 mg b.i.d. MD).",
+            "ru": "Тикагрелор рекомендован независимо от стратегии лечения (инвазивная или консервативная) (нагрузочная доза 180 мг, поддерживающая 90 мг 2 р/сут)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Clopidogrel (300–600 mg LD, 75 mg o.d. MD) is recommended when prasugrel or ticagrelor are not available, cannot be tolerated, or are contraindicated.",
+            "ru": "Клопидогрел (нагрузочная доза 300–600 мг, поддерживающая 75 мг 1 р/сут) рекомендован, если прасугрел или тикагрелор недоступны, не переносятся или противопоказаны."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "If patients presenting with ACS stop DAPT to undergo CABG, it is recommended they resume DAPT after surgery for at least 12 months.",
+            "ru": "Если пациенты с ОКС прекращают ДАТТ для проведения коронарного шунтирования (АКШ), рекомендовано возобновить прием ДАТТ после операции как минимум на 12 месяцев."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Prasugrel should be considered in preference to ticagrelor for ACS patients who proceed to PCI.",
+            "ru": "Прасугрел следует предпочесть тикагрелору у пациентов с ОКС, направляемых на ЧКВ."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "GP IIb/IIIa receptor antagonists should be considered if there is evidence of no-reflow or a thrombotic complication during PCI.",
+            "ru": "Антагонисты рецепторов GP IIb/IIIa следует рассмотреть при признаках феномена no-reflow или тромботических осложнениях во время ЧКВ."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "In P2Y12 receptor inhibitor-naive patients undergoing PCI, cangrelor may be considered.",
+            "ru": "У пациентов, ранее не получавших ингибиторы P2Y12 и подвергающихся ЧКВ, можно рассмотреть кангрелор."
+          },
+          "class": "IIb",
+          "level": "A"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "In older ACS patients, especially if HBR, clopidogrel as the P2Y12 receptor inhibitor may be considered.",
+            "ru": "У пожилых пациентов с ОКС, особенно при высоком риске кровотечений (HBR), можно рассмотреть клопидогрел в качестве ингибитора рецепторов P2Y12."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "Pre-treatment with a P2Y12 receptor inhibitor may be considered in patients undergoing a primary PCI strategy.",
+            "ru": "Предобработку (претритмент) ингибитором рецепторов P2Y12 можно рассмотреть у пациентов, которым проводится первичное ЧКВ."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "Pre-treatment with a P2Y12 receptor inhibitor may be considered in NSTE-ACS patients who are not expected to undergo an early invasive strategy (<24 h) and do not have HBR.",
+            "ru": "Предобработку (претритмент) ингибитором рецепторов P2Y12 можно рассмотреть у пациентов с NSTE-ACS, которым не планируется ранняя инвазивная стратегия (<24 ч) и у которых нет высокого риска кровотечений (HBR)."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "Pre-treatment with a GP IIb/IIIa receptor antagonist is not recommended.",
+            "ru": "Предобработка (претритмент) антагонистами рецепторов GP IIb/IIIa не рекомендована."
+          },
+          "class": "III",
+          "level": "A"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "Routine pre-treatment with a P2Y12 receptor inhibitor in NSTE-ACS patients in whom coronary anatomy is not known and early invasive management (<24 h) is planned is not recommended.",
+            "ru": "Рутинная предобработка ингибитором рецепторов P2Y12 у пациентов с NSTE-ACS с неизвестной коронарной анатомией, которым планируется раннее инвазивное вмешательство (<24 ч), не рекомендована."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Anticoagulant therapy",
+        "ru": "Антикоагулянтная терапия"
+      },
+      "rows": [
+        {
+          "id": "r16",
+          "text": {
+            "en": "Parenteral anticoagulation is recommended for all patients with ACS at the time of diagnosis.",
+            "ru": "Парентеральная антикоагулянтная терапия рекомендована всем пациентам с ОКС в момент установления диагноза."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r17",
+          "text": {
+            "en": "Routine use of a UFH bolus (weight-adjusted i.v. bolus during PCI of 70–100 IU/kg) is recommended in patients undergoing PCI.",
+            "ru": "Рутинное болюсное введение НФГ (скорректированный по массе в/в болюс во время ЧКВ 70–100 МЕ/кг) рекомендовано пациентам, которым выполняется ЧКВ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r18",
+          "text": {
+            "en": "Intravenous enoxaparin at the time of PCI should be considered in patients pre-treated with subcutaneous enoxaparin.",
+            "ru": "Внутривенное введение эноксапарина во время ЧКВ следует рассмотреть у пациентов, ранее получавших подкожный эноксапарин."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r19",
+          "text": {
+            "en": "Discontinuation of parenteral anticoagulation should be considered immediately after an invasive procedure.",
+            "ru": "Прекращение парентеральной антикоагуляции следует рассмотреть сразу после завершения инвазивной процедуры."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Patients with STEMI",
+        "ru": "Пациенты со STEMI"
+      },
+      "rows": [
+        {
+          "id": "r20",
+          "text": {
+            "en": "Enoxaparin should be considered as an alternative to UFH in patients with STEMI undergoing PPCI.",
+            "ru": "Эноксапарин следует рассмотреть как альтернативу НФГ у пациентов со STEMI, которым проводится первичное ЧКВ."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r21",
+          "text": {
+            "en": "Bivalirudin with a full-dose post PCI infusion should be considered as an alternative to UFH in patients with STEMI undergoing PPCI.",
+            "ru": "Бивалирудин с полнодозовой инфузией после ЧКВ следует рассмотреть как альтернативу НФГ у пациентов со STEMI, которым проводится первичное ЧКВ."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r22",
+          "text": {
+            "en": "Fondaparinux is not recommended in patients with STEMI undergoing PPCI.",
+            "ru": "Фондапаринукс не рекомендован пациентам со STEMI, которым проводится первичное ЧКВ."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en": "Patients with NSTE-ACS",
+        "ru": "Пациенты с NSTE-ACS"
+      },
+      "rows": [
+        {
+          "id": "r23",
+          "text": {
+            "en": "For patients with NSTE-ACS in whom early invasive angiography (i.e. within 24 h) is not anticipated, fondaparinux is recommended.",
+            "ru": "Пациентам с NSTE-ACS, которым не планируется ранняя инвазивная коронарография (в течение 24 ч), рекомендован фондапаринукс."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r24",
+          "text": {
+            "en": "For patients with NSTE-ACS in whom early invasive angiography (i.e. within 24 h) is anticipated, enoxaparin should be considered as an alternative to UFH.",
+            "ru": "Пациентам с NSTE-ACS, которым планируется ранняя инвазивная коронарография (в течение 24 ч), эноксапарин следует рассмотреть как альтернативу НФГ."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "title": {
+        "en": "Combining antiplatelets and OAC",
+        "ru": "Комбинация антиагрегантов и пероральных антикоагулянтов (ОАК)"
+      },
+      "rows": [
+        {
+          "id": "r25",
+          "text": {
+            "en": "As the default strategy for patients with atrial fibrillation and CHA2DS2-VASc score ≥1 in men and ≥2 in women, after up to 1 week of triple antithrombotic therapy following the ACS event, dual antithrombotic therapy using a NOAC at the recommended dose for stroke prevention and a single oral antiplatelet agent (preferably clopidogrel) for up to 12 months is recommended.",
+            "ru": "В качестве базовой стратегии у пациентов с фибрилляцией предсердий и CHA2DS2-VASc ≥1 у мужчин и ≥2 у женщин после 1 недели тройной антитромботической терапии рекомендована двойная терапия (НОАК в дозе профилактики инсульта + один антиагрегант, предпочтительно клопидогрел) на срок до 12 месяцев."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r26",
+          "text": {
+            "en": "During PCI, a UFH bolus is recommended in any of the following circumstances: if the patient is on a NOAC; if the INR is <2.5 in VKA-treated patients.",
+            "ru": "Во время ЧКВ болюс НФГ рекомендован в следующих случаях: если пациент принимает НОАК; либо если МНО <2,5 у пациентов, принимающих антагонисты витамина К (ВАРФАРИН)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r27",
+          "text": {
+            "en": "In patients with an indication for OAC with VKA in combination with aspirin and/or clopidogrel, careful regulation of the dose intensity of VKA with a target INR of 2.0–2.5 and a time in the therapeutic range >70% should be considered.",
+            "ru": "У пациентов с показаниями к АВК в комбинации с аспирином и/или клопидогрелом следует рассмотреть строгий контроль дозы АВК с целевым МНО 2,0–2,5 и временем в терапевтическом диапазоне >70%."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r28",
+          "text": {
+            "en": "When rivaroxaban is used and concerns about HBR prevail over ischaemic stroke, rivaroxaban 15 mg o.d. should be considered in preference to rivaroxaban 20 mg o.d. for the duration of concomitant SAPT or DAPT.",
+            "ru": "При использовании ривароксабана и преобладании риска кровотечений над риском ишемического инсульта следует рассмотреть ривароксабан 15 мг 1 р/сут вместо 20 мг 1 р/сут на время сопутствующей антиагрегантной терапии."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r29",
+          "text": {
+            "en": "In patients at HBR, dabigatran 110 mg b.i.d. should be considered in preference to dabigatran 150 mg b.i.d. for the duration of concomitant SAPT or DAPT, to mitigate bleeding risk.",
+            "ru": "У пациентов с высоким риском кровотечений следует рассмотреть дабигатран 110 мг 2 р/сут вместо 150 мг 2 р/сут на время сопутствующей терапии антиагрегантами для снижения риска кровотечений."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r30",
+          "text": {
+            "en": "In patients requiring anticoagulation and treated medically, a single antiplatelet agent in addition to an OAC should be considered for up to 1 year.",
+            "ru": "У пациентов, нуждающихся в антикоагулянтах и получающих консервативное лечение, следует рассмотреть добавление одного антиагреганта к ОАК на срок до 1 года."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r31",
+          "text": {
+            "en": "In patients treated with an OAC, aspirin plus clopidogrel for longer than 1 week and up to 1 month should be considered in those with high ischaemic risk or with other anatomical/procedural characteristics that are judged to outweigh the bleeding risk.",
+            "ru": "У пациентов, получающих ОАК, продление приема аспирина с клопидогрелом более 1 недели и до 1 месяца следует рассмотреть при высоком ишемическом риске или анатомических характеристиках поражения, превосходящих риск кровотечения."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r32",
+          "text": {
+            "en": "In patients requiring OAC, withdrawing antiplatelet therapy at 6 months while continuing OAC may be considered.",
+            "ru": "У пациентов, принимающих ОАК, отмену антиагрегантной терапии через 6 месяцев при продолжении приема ОАК можно рассмотреть."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r33",
+          "text": {
+            "en": "The use of ticagrelor or prasugrel as part of triple antithrombotic therapy is not recommended.",
+            "ru": "Использование тикагрелора или прасугрела в составе тройной антитромботической терапии не рекомендовано."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "page": 20,
+    "expectedRows": 33
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

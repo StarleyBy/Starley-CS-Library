@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt05-avsd-intervention",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec AVSD",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention in atrioventricular septal defect",
+    "ru": "Рекомендации по вмешательствам при атриовентрикулярном септальном дефекте (АВК)"
+  },
+  "tags": [
+    "achd",
+    "avsd",
+    "primum-asd",
+    "av-valve-regurgitation",
+    "valve-repair",
+    "eisenmenger",
+    "congenital-surgeon"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Complete AVSD",
+        "ru": "Полная форма АВК"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Surgical repair is not recommended in patients with Eisenmenger physiology, and patients with PAH (PVR ≥5 WU) presenting with desaturation on exercise.^[c]",
+            "ru": "Хирургическая коррекция не рекомендуется у пациентов с синдромом Эйзенменгера и при ЛАГ (PVR ≥5 WU) с десатурацией при физической нагрузке.^[c]"
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Partial AVSD (primum ASD)",
+        "ru": "Неполная форма АВК (первичный ДМПП)"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "Surgical closure is recommended in patients with significant RV volume overload and should only be performed by a congenital cardiac surgeon.",
+            "ru": "Хирургическое закрытие рекомендуется у пациентов со значимой объемной перегрузкой ПЖ и должно выполняться исключительно кардиохирургом по врожденным порокам сердца."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "AV valve regurgitation",
+        "ru": "Регургитация на атриовентрикулярном клапане"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "Valve surgery, preferably AV valve repair, is recommended in symptomatic patients with moderate to severe AV valve regurgitation and should be performed by a congenital cardiac surgeon.",
+            "ru": "Операция на клапане, предпочтительно пластика АВ-клапана, рекомендуется симптомным пациентам с умеренной и тяжелой регургитацией и должна выполняться кардиохирургом по ВПС."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In asymptomatic patients with severe left-sided AV valve regurgitation, valve surgery is recommended when LVESD ≥45 mm^[d] and/or LVEF ≤60% provided other causes of LV dysfunction are excluded.",
+            "ru": "У бессимптомных пациентов с тяжелой левосторонней АВ-регургитацией операция на клапане рекомендуется при КСР ЛЖ ≥45 мм^[d] и/или ФВЛЖ ≤60% (при исключении других причин дисфункции ЛЖ)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In asymptomatic patients with severe left-sided AV valve regurgitation, preserved LV function (LVESD <45 mm^[d] and/or LVEF >60%), high likelihood of successful valve repair, and low surgical risk, intervention should be considered when atrial fibrillation or systolic PAP >50 mmHg is present.",
+            "ru": "У бессимптомных пациентов с тяжелой левосторонней регургитацией при сохранной функции ЛЖ (КСР ЛЖ <45 мм^[d] и/или ФВЛЖ >60%), высокой вероятности успешной пластики и низком риске вмешательство следует рассматривать при наличии фибрилляции предсердий или систолического СДЛА >50 мм рт. ст."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "There are limited data available for a precise cut-off, but by clinical experience, this would be given by a fall of arterial oxygen saturation <90%.",
+      "ru": "По клиническому опыту определяется падением сатурации артериальной крови <90%."
+    },
+    "d": {
+      "en": "Cut-off refers to average-sized adults and may require adaption in patients with unusually small or large stature.",
+      "ru": "Пороговое значение применимо к взрослым средних пропорций и может требовать коррекции у пациентов нестандартного роста/комплекции."
+    }
+  },
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

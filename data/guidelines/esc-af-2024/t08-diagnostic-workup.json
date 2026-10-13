@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.t08-diagnostic-workup",
+  "guidelineId": "esc-af-2024",
+  "number": "Table 8",
+  "type": "grid",
+  "title": {
+    "en": "Diagnostic work-up for patients with AF",
+    "ru": "План диагностического обследования пациентов с фибрилляцией предсердий"
+  },
+  "tags": [
+    "af",
+    "diagnostic-workup",
+    "ecg",
+    "laboratory",
+    "imaging",
+    "af-care"
+  ],
+  "columns": [
+    {
+      "id": "c_all",
+      "title": {
+        "en": "All patients",
+        "ru": "Всем пациентам"
+      }
+    },
+    {
+      "id": "c_selected",
+      "title": {
+        "en": "Selected patients",
+        "ru": "Отдельным группам пациентов"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Medical history to determine AF pattern, relevant family history, and comorbidities, and to assess risk factors for thromboembolism and bleeding",
+            "ru": "Сбор анамнеза для определения формы течения ФП, семейного анамнеза и сопутствующих заболеваний, а также для оценки факторов риска тромбоэмболии и кровотечений"
+          }
+        },
+        {
+          "text": {
+            "en": "Ambulatory ECG monitoring for assessing AF burden and ventricular rate control",
+            "ru": "Амбулаторное мониторирование ЭКГ (Холтер) для оценки бремени ФП и контроля частоты сердечных сокращений желудочков"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "12-lead ECG",
+            "ru": "ЭКГ в 12 отведениях"
+          }
+        },
+        {
+          "text": {
+            "en": "Exercise ECG to evaluate rate control or effects of class IC antiarrhythmic drugs",
+            "ru": "Нагрузочная ЭКГ (стресс-тест) для оценки контроля ЧСС или выявления проаритмических эффектов антиаритмических препаратов IC класса"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Assess symptoms and functional impairment",
+            "ru": "Оценка выраженности симптомов и функциональных нарушений"
+          }
+        },
+        {
+          "text": {
+            "en": "Further blood tests for investigation of cardiovascular disease and refinement of stroke/bleeding risk (e.g. NT-proBNP, troponin)",
+            "ru": "Дополнительные анализы крови для исследования сердечно-сосудистой патологии и уточнения риска инсульта/кровотечений (например, NT-proBNP, тропонин)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Collect generic or AF-specific patient-reported outcome measures",
+            "ru": "Сбор общих или специфических для ФП показателей исходов, сообщаемых пациентом (PROMs)"
+          }
+        },
+        {
+          "text": {
+            "en": "Transoesophageal echocardiography for left atrial thrombus and valvular disease assessment",
+            "ru": "Чреспищеводная эхокардиография для исключения тромбоза левого предсердия/УЛП и оценки клапанной патологии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Blood tests (full blood count, kidney function, serum electrolytes, liver function, glucose/HbA1c, and thyroid function)",
+            "ru": "Лабораторные анализы крови (общий анализ крови, функция почек, электролиты сыворотки, функция печени, глюкоза/HbA1c и функция щитовидной железы)"
+          }
+        },
+        {
+          "text": {
+            "en": "Coronary CT, angiography, or ischaemia imaging for suspected CAD",
+            "ru": "КТ-коронарография, коронарография или стресс-визуализация ишемии при подозрении на ИБС"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Transthoracic echocardiography where this will guide AF-CARE management decisions",
+            "ru": "Трансторакальная эхокардиография в случаях, когда она определяет решения по ведению в рамках стратегии AF-CARE"
+          }
+        },
+        {
+          "text": {
+            "en": "CMR for evaluation of atrial and ventricular cardiomyopathies, and to plan interventional procedures",
+            "ru": "МРТ сердца для оценки предсердных и желудочковых кардиомиопатий, а также для планирования интервенционных процедур"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Brain imaging and cognitive function assessment for cerebrovascular disease and dementia risk",
+            "ru": "Визуализация головного мозга (КТ/МРТ) и оценка когнитивных функций для выявления цереброваскулярных заболеваний и риска деменции"
+          }
+        }
+      ]
+    }
+  ]
+}

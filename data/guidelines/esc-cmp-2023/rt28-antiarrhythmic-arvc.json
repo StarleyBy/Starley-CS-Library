@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt28-antiarrhythmic-arvc",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 28",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for the antiarrhythmic management of patients with arrhythmogenic right ventricular cardiomyopathy",
+    "ru": "Рекомендации по антиаритмической терапии у пациентов с аритмогенной кардиомиопатией правого желудочка"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "arvc",
+    "antiarrhythmics",
+    "beta-blockers",
+    "amiodarone",
+    "flecainide",
+    "catheter-ablation",
+    "epicardial-ablation",
+    "ventricular-arrhythmia"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for the antiarrhythmic management of patients with arrhythmogenic right ventricular cardiomyopathy",
+        "ru": "Рекомендации по антиаритмической терапии у пациентов с АКПЖ"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Beta-blocker therapy is recommended in ARVC patients with VE, NSVT, and VT.",
+            "ru": "Терапия бета-блокаторами рекомендуется пациентам с АКПЖ при наличии желудочковой экстрасистолии (ЖЭС), пробежек неустойчивой ЖТ (НЖТ) и устойчивой ЖТ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Amiodarone should be considered when regular beta-blocker therapy fails to control arrhythmia-related symptoms in patients with ARVC.",
+            "ru": "Амиодарон следует рассмотреть, когда регулярная терапия бета-блокаторами не позволяет контролировать симптомы, связанные с аритмией, у пациентов с АКПЖ."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Flecainide in addition to beta-blockers should be considered when single agent treatment has failed to control arrhythmia-related symptoms in patients with ARVC.",
+            "ru": "Флекаинид в дополнение к бета-блокаторам следует рассмотреть при неэффективности монотерапии для купирования аритмических симптомов у пациентов с АКПЖ."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Catheter ablation with availability for epicardial approach guided by 3D electroanatomical mapping of VT should be considered in ARVC patients with incessant VT or frequent appropriate ICD interventions for VT despite pharmacological therapy with beta-blockers.",
+            "ru": "Катетерную аблацию с возможностью эпикардиального доступа под контролем 3D-электроанатомического картирования ЖТ следует рассмотреть у пациентов с АКПЖ при непрерывно рецидивирующей ЖТ или частых обоснованных срабатываниях ИКД на фоне фармакотерапии бета-блокаторами."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt16-tga-arterial-switch",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec TGA-ASO",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention in transposition of the great arteries after arterial switch operation",
+    "ru": "Рекомендации по вмешательствам при транспозиции магистральных артерий после операции артериального переключения (Жатене)"
+  },
+  "tags": [
+    "achd",
+    "tga",
+    "arterial-switch",
+    "jatene",
+    "neo-aorta"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Stenting or surgery (depending on substrate) is recommended for coronary artery stenosis causing ischaemia.",
+            "ru": "Стентирование или хирургическое вмешательство (в зависимости от субстрата) рекомендуется при стенозе коронарных артерий, вызывающем ишемию."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Neo-aortic root surgery should be considered when the neo-aortic root is >55 mm, providing average adult stature (for neo-aortic valve replacement for severe neo-aortic AR see valvular heart disease guidelines with special considerations^[c]).",
+            "ru": "Хирургическое вмешательство на корне неоаорты следует рассматривать, когда диаметр корня неоаорты >55 мм, при среднем росте взрослого (по поводу протезирования неоаортального клапана при тяжелой неоаортальной АР см. рекомендации по клапанным порокам сердца с учетом особых факторов^[c])."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Stenting should be considered for PA branch stenosis, regardless of symptoms, if >50% diameter narrowing and RVSP >50 mmHg and/or related reduced lung perfusion are present.",
+            "ru": "Стентирование следует рассматривать при стенозе ветви ЛА, независимо от симптомов, если имеется сужение диаметра >50% и СДПЖ >50 мм рт. ст. и/или связанное с этим снижение перфузии легкого."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "When applying the 2017 ESC/EACTS valvular heart disease Guidelines for the decision to operate, it has to be taken into account that this is a reoperation and technically more difficult.",
+      "ru": "При применении рекомендаций ESC/EACTS по клапанным порокам сердца для принятия решения об операции необходимо учитывать, что это повторная операция и она технически сложнее."
+    }
+  }
+}

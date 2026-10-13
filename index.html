@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="assets/css/auth.css">
     <link rel="stylesheet" href="assets/css/binder.css?v=1.0">
+    <link rel="stylesheet" href="assets/css/guideline-tables.css?v=1.0">
     <link rel="manifest" href="./manifest.json">
     <meta name="theme-color" content="#0f172a">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,8 +20,10 @@
             <a href="highlights.html">🔖 Highlights</a>
             <a href="search/search.html">🔍 Search</a>
             <a href="quiz.html">🧠 Quiz</a>
+            <a href="javascript:void(0)" onclick="if(window.GuidelineTables)window.GuidelineTables.open();else window.location.hash='#guidelines'">📋 Guidelines</a>
             <a href="editor.html" data-role="admin">✏️ Editor</a>
             <a href="manifest-editor.html" data-role="admin">🛠️ Manifest</a>
+            <a href="guideline-editor.html" data-role="admin">🎛️ Tables Editor</a>
         </nav>
 
         <button id="installBtn" style="display:none;">📲 Install application</button>
@@ -67,6 +70,7 @@ installBtn.onclick = () => deferredPrompt.prompt();
     <script src="assets/js/supabase-api.js?v=1.0"></script>
     <script src="assets/js/auth.js?v=4.5"></script>
     <script src="assets/js/binder-shelf.js?v=1.0"></script>
+    <script src="assets/js/guideline-tables.js?v=1.0"></script>
     <script src="assets/js/app.js?v=1.7"></script>
     <script src="assets/js/reader.js"></script>
     <script>

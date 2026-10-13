@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt17-cmr-evaluation-hcm",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 17",
+  "type": "recommendations",
+  "title": {
+    "en": "Additional recommendation for cardiovascular magnetic resonance evaluation in hypertrophic cardiomyopathy",
+    "ru": "Дополнительная рекомендация по оценке МРТ сердца при гипертрофической кардиомиопатии"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "hcm",
+    "cmr",
+    "septal-reduction",
+    "myectomy",
+    "alcohol-septal-ablation"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Additional recommendation for cardiovascular magnetic resonance evaluation in hypertrophic cardiomyopathy",
+        "ru": "Дополнительная рекомендация по оценке МРТ сердца при ГКМП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Contrast-enhanced CMR may be considered before ASA or myectomy to assess the extent and distribution of hypertrophy and myocardial fibrosis.",
+            "ru": "МРТ сердца с контрастным усилением может быть рассмотрена перед спиртовой септальной аблацией (ASA) или миэктомией для оценки выраженности и распределения гипертрофии и фиброза миокарда."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

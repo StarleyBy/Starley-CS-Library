@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.t08-ph-definitions",
+  "guidelineId": "esc-achd-2020",
+  "number": "8",
+  "type": "grid",
+  "title": {
+    "en": "Table 8: Definitions of pulmonary hypertension subtypes and their occurrence in ACHD",
+    "ru": "Таблица 8: Определения подтипов легочной гипертензии и их встречаемость при ВЗПС"
+  },
+  "tags": [
+    "achd",
+    "ph",
+    "pah",
+    "definitions",
+    "pre-capillary",
+    "post-capillary",
+    "pvr",
+    "pawp"
+  ],
+  "columns": [
+    { "id": "definition", "title": { "en": "Definition", "ru": "Определение" } },
+    { "id": "hemodynamics", "title": { "en": "Haemodynamic characteristics", "ru": "Гемодинамические критерии" } },
+    { "id": "clinical_settings", "title": { "en": "Clinical settings in ACHD", "ru": "Клинические формы при ВЗПС" } }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        { "text": { "en": "Pulmonary Hypertension (PH)", "ru": "Легочная гипертензия (ЛГ)" } },
+        { "text": { "en": "Mean PAP >20 mmHg", "ru": "Среднее давление в ЛА (mPAP) >20 мм рт. ст." } },
+        { "text": { "en": "All", "ru": "Все клинические формы" } }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        { "text": { "en": "Pre-capillary PH (PAH)", "ru": "Прекапиллярная ЛГ (ЛАГ)" } },
+        { "text": { "en": "• Mean PAP >20 mmHg\n• PAWP ≤15 mmHg\n• PVR ≥3 WU", "ru": "• mPAP >20 мм рт. ст.\n• ДЗЛА (PAWP) ≤15 мм рт. ст.\n• PVR ≥3 WU" } },
+        { "text": { "en": "• Shunt lesions prior to and after repair (including Eisenmenger syndrome)\n• Complex CHD (including UVH, segmental PAH)", "ru": "• Сбросовые дефекты до и после коррекции (включая синдром Эйзенменгера)\n• Сложные ВПС (включая единственный желудочек, сегментарную ЛАГ)" } }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        { "text": { "en": "Isolated post-capillary PH", "ru": "Изолированная посткапиллярная ЛГ" } },
+        { "text": { "en": "• Mean PAP >20 mmHg\n• PAWP >15 mmHg\n• PVR <3 WU", "ru": "• mPAP >20 мм рт. ст.\n• ДЗЛА (PAWP) >15 мм рт. ст.\n• PVR <3 WU" } },
+        { "text": { "en": "• Systemic ventricular dysfunction\n• Systemic AV valve dysfunction\n• Pulmonary vein obstruction\n• Cor triatriatum", "ru": "• Дисфункция системного желудочка\n• Дисфункция системного АВ-клапана\n• Обструкция легочных вен\n• Трехпредсердное сердце (cor triatriatum)" } }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        { "text": { "en": "Combined pre- and post-capillary PH", "ru": "Комбинированная пре- и посткапиллярная ЛГ" } },
+        { "text": { "en": "• Mean PAP >20 mmHg\n• PAWP >15 mmHg\n• PVR ≥3 WU", "ru": "• mPAP >20 мм рт. ст.\n• ДЗЛА (PAWP) >15 мм рт. ст.\n• PVR ≥3 WU" } },
+        { "text": { "en": "• Settings listed under isolated post-capillary PH\n• Settings listed under isolated post-capillary PH in combination with shunt lesions/complex CHD", "ru": "• Состояния из группы изолированной посткапиллярной ЛГ\n• Состояния посткапиллярной ЛГ в комбинации со сбросовыми дефектами или сложными ВПС" } }
+      ]
+    }
+  ]
+}

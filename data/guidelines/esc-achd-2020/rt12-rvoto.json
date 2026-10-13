@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt12-rvoto",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec RVOTO",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention in right ventricular outflow tract obstruction",
+    "ru": "Рекомендации по вмешательствам при обструкции выводного тракта правого желудочка (ОВТПЖ)"
+  },
+  "tags": [
+    "achd",
+    "rvoto",
+    "pulmonary-stenosis",
+    "balloon-valvuloplasty",
+    "rvsp",
+    "valve-replacement"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In valvular PS, balloon valvuloplasty is the intervention of choice, if anatomically suitable.",
+            "ru": "При клапанном стенозе легочной артерии баллонная вальвулопластика является методом выбора при анатомической пригодности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Provided that no valve replacement is required, RVOTO intervention at any level is recommended regardless of symptoms when the stenosis is severe (Doppler peak gradient is >64 mmHg^[c]).",
+            "ru": "При условии, что не требуется протезирование клапана, вмешательство при ОВТПЖ на любом уровне рекомендуется независимо от симптомов при тяжелом стенозе (пиковый допплеровский градиент >64 мм рт. ст.^[c])."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "If surgical valve replacement is the only option, it is indicated in patients with severe stenosis who are symptomatic.^[d]",
+            "ru": "Если хирургическое протезирование клапана является единственным вариантом, оно показано пациентам с тяжелым стенозом при наличии симптомов.^[d]"
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "If surgical valve replacement is the only option^[d] in patients with severe stenosis who are asymptomatic, it is indicated in the presence of one or more of the following:\n• Objective decrease in exercise capacity\n• Decreasing RV function and/or progression of TR to at least moderate\n• RVSP >80 mmHg\n• R–L shunting via an ASD or VSD.",
+            "ru": "Если хирургическое протезирование клапана является единственным вариантом^[d] у бессимптомных пациентов с тяжелым стенозом, оно показано при наличии одного или нескольких критериев:\n• Объективное снижение толерантности к нагрузке\n• Снижение функции ПЖ и/или прогрессирование ТР до как минимум умеренной\n• СДЛА в ПЖ (RVSP) >80 мм рт. ст.\n• Сброс справа налево через ДМПП или ДМЖП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Intervention in patients with a Doppler peak gradient <64 mmHg should be considered in the presence of one or more of the following:\n• Symptoms related to PS\n• Decreasing RV function and/or progressive TR to at least moderate\n• R–L shunting via an ASD or VSD.",
+            "ru": "Вмешательство у пациентов с пиковым допплеровским градиентом <64 мм рт. ст. следует рассматривать при наличии одного или нескольких критериев:\n• Симптомы, связанные со стенозом ЛА\n• Снижение функции ПЖ и/или прогрессирование ТР до как минимум умеренной\n• Сброс справа налево через ДМПП или ДМЖП."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Peripheral PS, regardless of symptoms, should be considered for catheter interventional treatment if >50% diameter narrowing, and RVSP >50 mmHg, and/or related reduced lung perfusion is present.",
+            "ru": "Периферический стеноз легочной артерии независимо от симптомов следует рассматривать для транскатетерного лечения при сужении диаметра >50% и RVSP >50 мм рт. ст. и/или снижении перфузии соответствующего легкого."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "RVSP estimated from TR velocity should confirm severe PS.",
+      "ru": "Давление в ПЖ (RVSP), рассчитанное по скорости регургитации на ТК, должно подтверждать тяжелый стеноз."
+    },
+    "d": {
+      "en": "The threshold for intervention is higher when a valve substitute is required because long-term risks, such as endocarditis and re-intervention for prosthetic valve failure, need to be taken into account.",
+      "ru": "Порог для вмешательства выше, если требуется искусственный клапан, в связи с долгосрочными рисками эндокардита и повторных операций."
+    }
+  },
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

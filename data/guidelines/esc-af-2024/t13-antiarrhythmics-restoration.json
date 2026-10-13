@@ -1,0 +1,323 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.t13-antiarrhythmics-restoration",
+  "guidelineId": "esc-af-2024",
+  "number": "Table 13",
+  "type": "grid",
+  "title": {
+    "en": "Antiarrhythmic drugs for sinus rhythm restoration",
+    "ru": "Антиаритмические препараты для восстановления синусового ритма"
+  },
+  "tags": [
+    "af",
+    "pharmacological-cardioversion",
+    "flecainide",
+    "propafenone",
+    "amiodarone",
+    "ibutilide",
+    "vernakalant"
+  ],
+  "columns": [
+    {
+      "id": "c_drug",
+      "title": {
+        "en": "Drug",
+        "ru": "Препарат"
+      }
+    },
+    {
+      "id": "c_route",
+      "title": {
+        "en": "Administration route",
+        "ru": "Путь введения"
+      }
+    },
+    {
+      "id": "c_initial",
+      "title": {
+        "en": "Initial dosing",
+        "ru": "Начальная доза"
+      }
+    },
+    {
+      "id": "c_subsequent",
+      "title": {
+        "en": "Subsequent dosing [long-term approach]",
+        "ru": "Последующая доза [длительная терапия]"
+      }
+    },
+    {
+      "id": "c_success",
+      "title": {
+        "en": "Acute success rate and time to sinus rhythm",
+        "ru": "Эффективность купирования и время до синусового ритма"
+      }
+    },
+    {
+      "id": "c_contra",
+      "title": {
+        "en": "Contraindications and precautions",
+        "ru": "Противопоказания и предостережения"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r_flecainide_oral",
+      "cells": [
+        {
+          "text": {
+            "en": "**Flecainide**",
+            "ru": "**Флекаинид**"
+          }
+        },
+        {
+          "text": { "en": "Oral", "ru": "Внутрь" }
+        },
+        {
+          "text": { "en": "200–300 mg", "ru": "200–300 мг" }
+        },
+        {
+          "text": {
+            "en": "[long-term 50–150 mg twice daily]",
+            "ru": "[длительно 50–150 мг 2 раза в сутки]"
+          }
+        },
+        {
+          "text": {
+            "en": "50%–60% at 3 h and 75%–85% at 6–8 h (3–8 h)",
+            "ru": "50–60% через 3 ч и 75–85% через 6–8 ч (3–8 ч)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Should not be used in patients with severe structural or coronary artery disease, Brugada syndrome, or severe renal failure (CrCl <35 mL/min/1.73 m²).\n• Prior documentation of safety and efficacy in an inpatient setting is recommended prior to pill-in-the-pocket use.\n• An AVN-blocking agent should be administered to avoid 1:1 conduction if transformation to AFL.\n• Drug infusion should be discontinued in case of QRS widening >25% or bundle branch block occurrence.\n• Caution is needed in patients with sinus node disease and AVN dysfunction.\n• Do NOT use for conversion of atrial flutter.",
+            "ru": "• Не применять при тяжелой структурной патологии сердца, ИБС, синдроме Бругада или тяжелой почечной недостаточности (КК <35 мл/мин/1,73 м²).\n• Требуется предварительная проверка эффективности и безопасности в стационаре перед применением режима «таблетка в кармане».\n• Следует предварительно назначить препарат, блокирующий АВ-узел, во избежание проведения 1:1 при трансформации в ТП.\n• Прекратить инфузию при расширении QRS >25% или появлении блокады ножки пучка Гиса.\n• Осторожность при СССУ и дисфункции АВ-узла.\n• НЕ применять для купирования трепетания предсердий."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_flecainide_iv",
+      "cells": [
+        {
+          "text": {
+            "en": "**Flecainide** (i.v.)",
+            "ru": "**Флекаинид** (в/в)"
+          }
+        },
+        {
+          "text": { "en": "Intravenous", "ru": "Внутривенно" }
+        },
+        {
+          "text": {
+            "en": "1–2 mg/kg over 10 min",
+            "ru": "1–2 мг/кг за 10 мин"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": {
+            "en": "52%–95% (Up to 6 h)",
+            "ru": "52–95% (до 6 ч)"
+          }
+        },
+        {
+          "text": {
+            "en": "Same contraindications and precautions as for oral flecainide above.",
+            "ru": "Противопоказания и предостережения аналогичны пероральному флекаиниду."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_propafenone_oral",
+      "cells": [
+        {
+          "text": {
+            "en": "**Propafenone**",
+            "ru": "**Пропафенон**"
+          }
+        },
+        {
+          "text": { "en": "Oral", "ru": "Внутрь" }
+        },
+        {
+          "text": { "en": "450–600 mg", "ru": "450–600 мг" }
+        },
+        {
+          "text": {
+            "en": "[long-term 150–300 mg three times daily]",
+            "ru": "[длительно 150–300 мг 3 раза в сутки]"
+          }
+        },
+        {
+          "text": {
+            "en": "45%–55% at 3 h, 69%–78% at 8 h (3–8 h)",
+            "ru": "45–55% через 3 ч, 69–78% через 8 ч (3–8 ч)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Should not be used in patients with severe structural heart disease, CAD, or severe renal failure.\n• Prior documentation of safety and efficacy in an inpatient setting is recommended prior to pill-in-the-pocket use.\n• An AVN-blocking agent should be administered to avoid 1:1 conduction if transformation to AFL.\n• Drug infusion should be discontinued in case of QRS widening >25% or bundle branch block occurrence.\n• Caution is needed in patients with sinus node disease and AVN dysfunction.\n• Do NOT use for conversion of atrial flutter.",
+            "ru": "• Не применять при тяжелой структурной патологии сердца, ИБС или тяжелой почечной недостаточности.\n• Требуется предварительная проверка эффективности и безопасности в стационаре перед применением режима «таблетка в кармане».\n• Следует назначить средство, блокирующее АВ-проведение, во избежание проведения 1:1 при переходе в ТП.\n• Прекратить введение при уширении QRS >25% или блокаде ножки пучка Гиса.\n• Осторожность при СССУ и дисфункции АВ-узла.\n• НЕ применять для купирования трепетания предсердий."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_propafenone_iv",
+      "cells": [
+        {
+          "text": {
+            "en": "**Propafenone** (i.v.)",
+            "ru": "**Пропафенон** (в/в)"
+          }
+        },
+        {
+          "text": { "en": "Intravenous", "ru": "Внутривенно" }
+        },
+        {
+          "text": {
+            "en": "1.5–2 mg/kg over 10 min",
+            "ru": "1,5–2 мг/кг за 10 мин"
+          }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": {
+            "en": "43%–89% (Up to 6 h)",
+            "ru": "43–89% (до 6 ч)"
+          }
+        },
+        {
+          "text": {
+            "en": "Same contraindications and precautions as for oral propafenone above.",
+            "ru": "Противопоказания и предостережения аналогичны пероральному пропафенону."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_amiodarone",
+      "cells": [
+        {
+          "text": {
+            "en": "**Amiodarone**",
+            "ru": "**Амиодарон**"
+          }
+        },
+        {
+          "text": {
+            "en": "Intravenous (/oral)",
+            "ru": "Внутривенно (/перорально)"
+          }
+        },
+        {
+          "text": {
+            "en": "300 mg intravenous over 30–60 min",
+            "ru": "300 мг в/в за 30–60 мин"
+          }
+        },
+        {
+          "text": {
+            "en": "900–1200 mg intravenous over 24 hours (or 200 mg oral three times daily for 4 weeks). [long-term 200 mg oral daily]",
+            "ru": "900–1200 мг в/в за 24 ч (или 200 мг 3 раза в сутки внутрь 4 недели). [длительно 200 мг/сут внутрь]"
+          }
+        },
+        {
+          "text": {
+            "en": "44% (8–12 h to several days)",
+            "ru": "44% (от 8–12 ч до нескольких дней)"
+          }
+        },
+        {
+          "text": {
+            "en": "• May cause phlebitis (use a large peripheral vein, avoid i.v. administration >24 h and use preferably volumetric pump).\n• May cause hypotension, bradycardia/atrioventricular block, QT prolongation.\n• Only if no other option in patients with hyperthyroidism (risk of thyrotoxicosis).\n• Consider the broad range of drug interactions.",
+            "ru": "• Может вызывать флебит (использовать крупную вену, избегать в/в инфузий >24 ч, предпочтительно использовать инфузомат).\n• Может вызывать гипотензию, брадикардию/АВ-блокаду, удлинение интервала QT.\n• При гипертиреозе — только при отсутствии альтернатив (риск тиреотоксикоза).\n• Учитывать широкий спектр межлекарственных взаимодействий."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_ibutilide",
+      "cells": [
+        {
+          "text": {
+            "en": "**Ibutilide**",
+            "ru": "**Ибутилид**"
+          }
+        },
+        {
+          "text": { "en": "Intravenous", "ru": "Внутривенно" }
+        },
+        {
+          "text": {
+            "en": "1 mg over 10 min (0.01 mg/kg if body weight <60 kg)",
+            "ru": "1 мг за 10 мин (0,01 мг/кг при массе тела <60 кг)"
+          }
+        },
+        {
+          "text": {
+            "en": "1 mg over 10 min (10–20 min after the initial dose)",
+            "ru": "1 мг за 10 мин (через 10–20 мин после начальной дозы)"
+          }
+        },
+        {
+          "text": {
+            "en": "31%–51% (30–90 min) in AF;\n60%–75% in AFL (60 min)",
+            "ru": "31–51% (30–90 мин) при ФП;\n60–75% при ТП (60 мин)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Should be used in the setting of a cardiac care unit as it may cause QT prolongation and torsades de pointes.\n• ECG monitoring for at least 4 h after administration to detect any proarrhythmic effects.\n• Should not be used in patients with prolonged QT, severe LVH, or low LVEF.",
+            "ru": "• Вводить в условиях палаты интенсивной терапии из-за риска удлинения QT и пируэтной тахикардии (torsades de pointes).\n• Мониторинг ЭКГ в течение не менее 4 ч после введения для выявления проаритмий.\n• Противопоказан при исходно удлиненном QT, тяжелой ГЛЖ или низкой ФВ ЛЖ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_vernakalant",
+      "cells": [
+        {
+          "text": {
+            "en": "**Vernakalant**",
+            "ru": "**Вернакалант**"
+          }
+        },
+        {
+          "text": { "en": "Intravenous", "ru": "Внутривенно" }
+        },
+        {
+          "text": {
+            "en": "3 mg/kg over 10 min (maximum 339 mg)",
+            "ru": "3 мг/кг за 10 мин (максимум 339 мг)"
+          }
+        },
+        {
+          "text": {
+            "en": "2 mg/kg over 10 min (10–15 min after the initial dose) (maximum 226 mg)",
+            "ru": "2 мг/кг за 10 мин (через 10–15 мин после первой дозы) (максимум 226 мг)"
+          }
+        },
+        {
+          "text": {
+            "en": "50% within 10 min",
+            "ru": "50% в течение 10 мин"
+          }
+        },
+        {
+          "text": {
+            "en": "• Should not be used in patients with arterial hypotension (SBP <100 mmHg), recent ACS (within 1 month), NYHA III or IV HF, QT prolongation or severe aortic stenosis.\n• May cause arterial hypotension, QT prolongation, QRS widening, or non-sustained ventricular tachycardia.",
+            "ru": "• Противопоказан при артериальной гипотензии (САД <100 мм рт. ст.), недавнем ОКС (в течение 1 месяца), СН III–IV ФК по NYHA, удлинении QT или тяжелом аортальном стенозе.\n• Может вызывать гипотензию, удлинение QT, расширение QRS или неустойчивую желудочковую тахикардию."
+          }
+        }
+      ]
+    }
+  ]
+}

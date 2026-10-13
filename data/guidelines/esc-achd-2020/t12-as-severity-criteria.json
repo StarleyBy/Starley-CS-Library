@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.t12-as-severity-criteria",
+  "guidelineId": "esc-achd-2020",
+  "number": "12",
+  "type": "grid",
+  "title": {
+    "en": "Table 12: Diagnostic criteria for degree of aortic stenosis severity",
+    "ru": "Таблица 12: Диагностические критерии степени тяжести аортального стеноза"
+  },
+  "tags": [
+    "achd",
+    "aortic-stenosis",
+    "severity",
+    "vmax",
+    "gradient",
+    "ava",
+    "avai"
+  ],
+  "columns": [
+    { "id": "parameter", "title": { "en": "Echocardiographic parameter", "ru": "Эхокардиографический показатель" } },
+    { "id": "mild", "title": { "en": "Mild AS", "ru": "Легкий АС" } },
+    { "id": "moderate", "title": { "en": "Moderate AS", "ru": "Умеренный АС" } },
+    { "id": "severe", "title": { "en": "Severe AS", "ru": "Тяжелый АС" } }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        { "text": { "en": "Vmax (m/s) [at normal transvalvular flow]", "ru": "Пиковая скорость Vmax (м/с) [при норм. потоке]" } },
+        { "text": { "en": "2.6–2.9", "ru": "2.6–2.9" } },
+        { "text": { "en": "3.0–3.9", "ru": "3.0–3.9" } },
+        { "text": { "en": "≥4.0", "ru": "≥4.0" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        { "text": { "en": "Mean gradient (mmHg) [at normal transvalvular flow]", "ru": "Средний градиент давления (мм рт. ст.)" } },
+        { "text": { "en": "<20", "ru": "<20" } },
+        { "text": { "en": "20–39", "ru": "20–39" } },
+        { "text": { "en": "≥40", "ru": "≥40" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        { "text": { "en": "AVA (cm²) (Aortic valve area)", "ru": "Площадь аортального отверстия AVA (см²)" } },
+        { "text": { "en": ">1.5", "ru": ">1.5" } },
+        { "text": { "en": "1.0–1.5", "ru": "1.0–1.5" } },
+        { "text": { "en": "<1.0", "ru": "<1.0" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        { "text": { "en": "AVAi (cm²/m² BSA) (Indexed aortic valve area)", "ru": "Индексированная площадь AVAi (см²/м² ППТ)" } },
+        { "text": { "en": ">0.85", "ru": ">0.85" } },
+        { "text": { "en": "0.60–0.85", "ru": "0.60–0.85" } },
+        { "text": { "en": "<0.60", "ru": "<0.60" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        { "text": { "en": "LVOT velocity / aortic valve velocity (Dimensionless index)", "ru": "Отношение скоростей ВТЛЖ / АК (безразмерный индекс)" } },
+        { "text": { "en": ">0.50", "ru": ">0.50" } },
+        { "text": { "en": "0.25–0.50", "ru": "0.25–0.50" } },
+        { "text": { "en": "<0.25", "ru": "<0.25" }, "tone": "red" }
+      ]
+    }
+  ]
+}

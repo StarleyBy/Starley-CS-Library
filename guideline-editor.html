@@ -1,0 +1,1272 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guideline Tables Editor - Starley CS Library</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/auth.css">
+    <link rel="stylesheet" href="assets/css/guideline-tables.css?v=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        :root {
+            --ge-bg: #0f172a;
+            --ge-panel: #1e293b;
+            --ge-border: #334155;
+            --ge-text: #f8fafc;
+            --ge-muted: #94a3b8;
+            --ge-accent: #38bdf8;
+            --ge-accent-hover: #0ea5e9;
+        }
+
+        body.ge-body {
+            margin: 0;
+            padding: 0;
+            background: var(--ge-bg);
+            color: var(--ge-text);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .ge-header {
+            background: var(--ge-panel);
+            border-bottom: 1px solid var(--ge-border);
+            padding: 0.6rem 1.2rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 1rem;
+            flex-shrink: 0;
+        }
+
+        .ge-header-title {
+            font-size: 1.15rem;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: var(--ge-accent);
+        }
+
+        .ge-nav-links {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .ge-nav-links a {
+            color: var(--ge-muted);
+            text-decoration: none;
+            padding: 0.35rem 0.65rem;
+            border-radius: 6px;
+            font-size: 0.82rem;
+            font-weight: 600;
+            transition: all 0.15s;
+        }
+
+        .ge-nav-links a:hover, .ge-nav-links a.active {
+            color: #fff;
+            background: rgba(255, 255, 255, 0.08);
+        }
+
+        .ge-actions {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .ge-btn {
+            background: rgba(255, 255, 255, 0.08);
+            border: 1px solid var(--ge-border);
+            color: var(--ge-text);
+            padding: 0.4rem 0.8rem;
+            border-radius: 6px;
+            font-size: 0.82rem;
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            transition: all 0.15s;
+        }
+
+        .ge-btn:hover {
+            background: rgba(255, 255, 255, 0.15);
+            border-color: var(--ge-accent);
+        }
+
+        .ge-btn-primary {
+            background: var(--ge-accent);
+            color: #0b1727;
+            border-color: transparent;
+        }
+
+        .ge-btn-primary:hover {
+            background: var(--ge-accent-hover);
+        }
+
+        .ge-workspace {
+            display: flex;
+            flex: 1;
+            min-height: 0;
+        }
+
+        /* Left Sidebar: Tables List */
+        .ge-sidebar {
+            width: 280px;
+            background: var(--ge-panel);
+            border-right: 1px solid var(--ge-border);
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+        }
+
+        .ge-sidebar-head {
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid var(--ge-border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .ge-sidebar-title {
+            font-size: 0.85rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--ge-muted);
+        }
+
+        .ge-table-items {
+            overflow-y: auto;
+            flex: 1;
+            padding: 0.5rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.35rem;
+        }
+
+        .ge-table-item {
+            padding: 0.65rem 0.85rem;
+            border-radius: 8px;
+            cursor: pointer;
+            border: 1px solid transparent;
+            transition: all 0.15s;
+        }
+
+        .ge-table-item:hover {
+            background: rgba(255, 255, 255, 0.04);
+            border-color: rgba(255, 255, 255, 0.1);
+        }
+
+        .ge-table-item.active {
+            background: rgba(56, 189, 248, 0.15);
+            border-color: var(--ge-accent);
+        }
+
+        .ge-item-badge {
+            font-size: 0.7rem;
+            font-weight: 700;
+            color: var(--ge-accent);
+            margin-bottom: 2px;
+        }
+
+        .ge-item-name {
+            font-size: 0.86rem;
+            font-weight: 600;
+            line-height: 1.3;
+            color: #fff;
+        }
+
+        /* Center Column: Editor Tabs & Work Area */
+        .ge-main {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            min-width: 0;
+            background: var(--ge-bg);
+        }
+
+        .ge-tabs-bar {
+            background: var(--ge-panel);
+            border-bottom: 1px solid var(--ge-border);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 1rem;
+            flex-shrink: 0;
+        }
+
+        .ge-tabs {
+            display: flex;
+            gap: 0.25rem;
+        }
+
+        .ge-tab-btn {
+            background: transparent;
+            border: none;
+            color: var(--ge-muted);
+            padding: 0.7rem 1rem;
+            font-size: 0.85rem;
+            font-weight: 600;
+            cursor: pointer;
+            border-bottom: 2px solid transparent;
+            transition: all 0.15s;
+        }
+
+        .ge-tab-btn:hover {
+            color: #fff;
+        }
+
+        .ge-tab-btn.active {
+            color: var(--ge-accent);
+            border-bottom-color: var(--ge-accent);
+        }
+
+        .ge-view-container {
+            flex: 1;
+            overflow-y: auto;
+            padding: 1.25rem;
+            min-height: 0;
+        }
+
+        /* Form Editor Styles */
+        .ge-form-group {
+            margin-bottom: 1.25rem;
+        }
+
+        .ge-form-label {
+            display: block;
+            font-size: 0.8rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 0.04em;
+            color: var(--ge-muted);
+            margin-bottom: 0.35rem;
+        }
+
+        .ge-input, .ge-textarea, .ge-select {
+            width: 100%;
+            box-sizing: border-box;
+            background: #1e293b;
+            border: 1px solid var(--ge-border);
+            border-radius: 8px;
+            padding: 0.55rem 0.85rem;
+            color: #fff;
+            font-size: 0.88rem;
+            outline: none;
+            transition: border-color 0.15s;
+        }
+
+        .ge-input:focus, .ge-textarea:focus, .ge-select:focus {
+            border-color: var(--ge-accent);
+        }
+
+        .ge-grid-2 {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1rem;
+        }
+
+        .ge-row-card {
+            background: var(--ge-panel);
+            border: 1px solid var(--ge-border);
+            border-radius: 10px;
+            padding: 1rem;
+            margin-bottom: 1.25rem;
+        }
+
+        .ge-row-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 0.85rem;
+        }
+
+        .ge-row-badge {
+            font-size: 0.75rem;
+            font-weight: 700;
+            background: rgba(255, 255, 255, 0.08);
+            padding: 2px 8px;
+            border-radius: 4px;
+        }
+
+        .ge-rec-item {
+            background: rgba(0, 0, 0, 0.25);
+            border: 1px solid var(--ge-border);
+            border-radius: 8px;
+            padding: 0.85rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .ge-rec-item:hover {
+            border-color: rgba(56, 189, 248, 0.4);
+        }
+
+        .ge-rec-top {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 0.6rem;
+            gap: 0.5rem;
+        }
+
+        .ge-badge-select {
+            padding: 0.25rem 0.5rem;
+            font-size: 0.82rem;
+            font-weight: 700;
+            border-radius: 6px;
+            background: #1e293b;
+            color: #fff;
+            border: 1px solid var(--ge-border);
+        }
+
+        .ge-btn-danger {
+            background: rgba(239, 68, 68, 0.15);
+            color: #ef4444;
+            border: 1px solid rgba(239, 68, 68, 0.3);
+            padding: 0.25rem 0.6rem;
+            font-size: 0.75rem;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .ge-btn-danger:hover {
+            background: rgba(239, 68, 68, 0.25);
+        }
+
+        /* Raw JSON Editor */
+        .ge-raw-textarea {
+            width: 100%;
+            height: 100%;
+            min-height: 500px;
+            background: #090d16;
+            color: #38bdf8;
+            font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+            font-size: 0.88rem;
+            border: 1px solid var(--ge-border);
+            border-radius: 8px;
+            padding: 1rem;
+            box-sizing: border-box;
+            outline: none;
+            resize: none;
+        }
+
+        /* Right Panel: Live Preview & Verification Image */
+        .ge-preview-panel {
+            width: 480px;
+            background: var(--ge-panel);
+            border-left: 1px solid var(--ge-border);
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0;
+        }
+
+        .ge-preview-head {
+            padding: 0.65rem 1rem;
+            border-bottom: 1px solid var(--ge-border);
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .ge-preview-body {
+            flex: 1;
+            overflow-y: auto;
+            padding: 1rem;
+        }
+
+        /* Image comparison box */
+        .ge-compare-box {
+            margin-bottom: 1rem;
+            border: 1px dashed var(--ge-border);
+            border-radius: 8px;
+            padding: 0.75rem;
+            text-align: center;
+            background: rgba(0, 0, 0, 0.2);
+        }
+
+        .ge-compare-img {
+            max-width: 100%;
+            border-radius: 6px;
+            display: none;
+            margin-top: 0.5rem;
+        }
+    </style>
+</head>
+<body class="ge-body">
+    <header class="ge-header">
+        <div class="ge-header-title">
+            <span>🎛️ Clinical Guideline Tables Editor</span>
+        </div>
+        <nav class="ge-nav-links">
+            <a href="index.html">📚 Library</a>
+            <a href="search/search.html">🔍 Search</a>
+            <a href="quiz.html">🧠 Quiz</a>
+            <a href="editor.html" data-role="admin">✏️ Editor</a>
+            <a href="manifest-editor.html" data-role="admin">🛠️ Manifests</a>
+            <a href="guideline-editor.html" class="active" data-role="admin">🎛️ Tables Editor</a>
+        </nav>
+        <div class="ge-actions">
+            <button class="ge-btn" id="btn-validate" title="Validate JSON with AJV Schema"><i class="fas fa-check"></i> Проверить</button>
+            <button class="ge-btn" id="btn-download" title="Download JSON File"><i class="fas fa-download"></i> Скачать</button>
+            <button class="ge-btn ge-btn-primary" id="btn-save" title="Save Table"><i class="fas fa-save"></i> Сохранить</button>
+        </div>
+    </header>
+
+    <div class="ge-workspace">
+        <!-- Sidebar: List of Guidelines & Tables -->
+        <aside class="ge-sidebar">
+            <div class="ge-sidebar-head" style="flex-direction:column; align-items:stretch; gap:0.5rem;">
+                <div style="display:flex; justify-content:space-between; align-items:center;">
+                    <span class="ge-sidebar-title">Руководства & Таблицы</span>
+                    <button class="ge-btn" style="padding: 2px 6px; font-size: 0.75rem;" id="btn-new-table" title="Create New Table">➕ Новая</button>
+                </div>
+                <div>
+                    <select id="ge-guideline-select" class="ge-input" style="padding: 0.4rem 0.5rem; font-size: 0.82rem; font-weight:600;">
+                        <!-- Dynamically populated from guidelines metadata (sorted by year) -->
+                    </select>
+                </div>
+            </div>
+            <div class="ge-table-items" id="ge-tables-list">
+                <!-- Dynamically loaded -->
+            </div>
+        </aside>
+
+        <!-- Center Workspace -->
+        <main class="ge-main">
+            <div class="ge-tabs-bar">
+                <div class="ge-tabs">
+                    <button class="ge-tab-btn active" data-tab="form"><i class="fas fa-edit"></i> Визуальная форма</button>
+                    <button class="ge-tab-btn" data-tab="notes"><i class="fas fa-lightbulb"></i> Ремарки (Notes)</button>
+                    <button class="ge-tab-btn" data-tab="json"><i class="fas fa-code"></i> Raw JSON / LLM импорт</button>
+                </div>
+                <div id="ge-status-msg" style="font-size:0.8rem; color:var(--ge-muted);">Готово</div>
+            </div>
+
+            <!-- Tab: Visual Form -->
+            <div class="ge-view-container" id="tab-form-view">
+                <div class="ge-form-group ge-grid-2">
+                    <div>
+                        <label class="ge-form-label">Guideline ID</label>
+                        <input type="text" id="f-guidelineId" class="ge-input" value="esc-acs-2023">
+                    </div>
+                    <div>
+                        <label class="ge-form-label">Table ID (e.g. esc-acs-2023.rt04)</label>
+                        <input type="text" id="f-tableId" class="ge-input" value="esc-acs-2023.rt04">
+                    </div>
+                </div>
+
+                <div class="ge-form-group ge-grid-2">
+                    <div>
+                        <label class="ge-form-label">Table Number (Номер таблицы)</label>
+                        <input type="text" id="f-number" class="ge-input" value="4">
+                    </div>
+                    <div>
+                        <label class="ge-form-label">Tags (через запятую)</label>
+                        <input type="text" id="f-tags" class="ge-input" value="stemi, ppci, fibrinolysis">
+                    </div>
+                </div>
+
+                <div class="ge-form-group">
+                    <label class="ge-form-label">Title (RU)</label>
+                    <input type="text" id="f-title-ru" class="ge-input" placeholder="Название таблицы на русском">
+                </div>
+
+                <div class="ge-form-group">
+                    <label class="ge-form-label">Title (EN)</label>
+                    <input type="text" id="f-title-en" class="ge-input" placeholder="Table title in English">
+                </div>
+
+                <hr style="border:0; border-top:1px solid var(--ge-border); margin: 1.5rem 0;">
+
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1rem;">
+                    <h3 style="margin:0; font-size:1.05rem;">Секции и строки рекомендаций</h3>
+                    <button class="ge-btn" id="btn-add-section">➕ Добавить секцию</button>
+                </div>
+
+                <div id="ge-sections-container">
+                    <!-- Sections rendered here -->
+                </div>
+            </div>
+
+            <!-- Tab: Clinical Remarks / Notes Manager -->
+            <div class="ge-view-container" id="tab-notes-view" style="display:none;">
+                <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:1.25rem;">
+                    <div>
+                        <h3 style="margin:0; font-size:1.1rem; color:var(--ge-text); display:flex; align-items:center; gap:0.5rem;">
+                            <span>💡 Клинические ремарки (Notes)</span>
+                        </h3>
+                        <p style="margin:4px 0 0 0; font-size:0.8rem; color:var(--ge-muted);">
+                            Ремарки привязываются к таблице (table), секции (section:s01), строке (row:r01) или ячейке (cell:r01.level) и содержат независимые заголовки и тексты для RU и EN.
+                        </p>
+                    </div>
+                    <button class="ge-btn ge-btn-primary" id="btn-add-note">➕ Добавить ремарку</button>
+                </div>
+
+                <div id="ge-notes-container">
+                    <!-- Notes rendered here -->
+                </div>
+            </div>
+
+            <!-- Tab: Raw JSON / LLM Import -->
+            <div class="ge-view-container" id="tab-json-view" style="display:none; height:100%; box-sizing:border-box;">
+                <div style="margin-bottom: 0.75rem; display:flex; justify-content:space-between; align-items:center;">
+                    <span style="font-size:0.85rem; color:var(--ge-muted);">Вставьте результат работы нейросети или отредактируйте JSON напрямую:</span>
+                    <button class="ge-btn" id="btn-format-json"><i class="fas fa-magic"></i> Форматировать JSON</button>
+                </div>
+                <textarea id="ge-json-editor" class="ge-raw-textarea" spellcheck="false"></textarea>
+            </div>
+        </main>
+
+        <!-- Right Side: Live Interactive Preview & Screenshot Verification -->
+        <aside class="ge-preview-panel">
+            <div class="ge-preview-head">
+                <span class="ge-sidebar-title">Живой просмотр & сверка</span>
+                <label class="ge-btn" style="cursor:pointer; font-size:0.75rem; padding:3px 8px;">
+                    📷 Сверить со скриншотом
+                    <input type="file" id="input-compare-img" accept="image/*" style="display:none;">
+                </label>
+            </div>
+            <div class="ge-preview-body">
+                <div class="ge-compare-box" id="compare-box">
+                    <span style="font-size:0.78rem; color:var(--ge-muted);" id="compare-hint">Загрузите локальный скриншот для визуальной сверки Class и Level</span>
+                    <img id="compare-preview-img" class="ge-compare-img" alt="Reference Screenshot">
+                </div>
+
+                <div id="ge-live-preview-container">
+                    <!-- Rendered with GuidelineTables -->
+                </div>
+            </div>
+        </aside>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+    <script src="assets/js/config.js?v=1.2"></script>
+    <script src="assets/js/supabase-api.js?v=1.0"></script>
+    <script src="assets/js/auth.js?v=4.8"></script>
+    <script src="assets/js/guideline-tables.js?v=1.0"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            let currentTableData = null;
+
+            // Load starter table
+            try {
+                const res = await fetch('data/guidelines/esc-acs-2023/rt04-reperfusion-and-invasive-strategy.json');
+                currentTableData = await res.json();
+                loadTableIntoUi(currentTableData);
+            } catch (err) {
+                console.error(err);
+            }
+
+            // Populate guideline select & table list from tables-index.json
+            const guidelineSelect = document.getElementById('ge-guideline-select');
+            const listEl = document.getElementById('ge-tables-list');
+            let allTables = [];
+
+            function renderTablesList(selectedGId) {
+                const filtered = allTables.filter(t => !selectedGId || t.guidelineId === selectedGId);
+                listEl.innerHTML = filtered.map((t, idx) => `
+                    <div class="ge-table-item ${idx === 0 ? 'active' : ''}" data-id="${t.id}" data-file="${t.relativeFilePath}">
+                        <div class="ge-item-badge">Table ${t.number} • ${t.type}</div>
+                        <div class="ge-item-name">${t.title?.ru || t.title?.en || t.id}</div>
+                    </div>
+                `).join('');
+
+                listEl.querySelectorAll('.ge-table-item').forEach(item => {
+                    item.addEventListener('click', async () => {
+                        listEl.querySelectorAll('.ge-table-item').forEach(i => i.classList.remove('active'));
+                        item.classList.add('active');
+                        const file = item.dataset.file;
+                        try {
+                            const res = await fetch(`data/guidelines/${file}`);
+                            const data = await res.json();
+                            loadTableIntoUi(data);
+                        } catch (e) {
+                            alert('Ошибка загрузки: ' + e.message);
+                        }
+                    });
+                });
+            }
+
+            try {
+                const idxRes = await fetch('data/guidelines/tables-index.json');
+                const idxData = await idxRes.json();
+                allTables = idxData.tables || [];
+
+                const guidelines = idxData.guidelines || [];
+                guidelineSelect.innerHTML = guidelines.map(g => {
+                    const short = g.shortTitle?.ru || g.shortTitle?.en || g.id;
+                    return `<option value="${g.id}">${g.year} — ${short} (${g.tablesCount} табл.)</option>`;
+                }).join('');
+
+                guidelineSelect.addEventListener('change', () => {
+                    renderTablesList(guidelineSelect.value);
+                    const firstItem = listEl.querySelector('.ge-table-item');
+                    if (firstItem) firstItem.click();
+                });
+
+                if (guidelines.length > 0) {
+                    renderTablesList(guidelines[0].id);
+                }
+            } catch (e) {
+                console.warn(e);
+            }
+
+            // Tabs
+            const tabBtns = document.querySelectorAll('.ge-tab-btn');
+            tabBtns.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    tabBtns.forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    const tab = btn.dataset.tab;
+                    document.getElementById('tab-form-view').style.display = 'none';
+                    document.getElementById('tab-notes-view').style.display = 'none';
+                    document.getElementById('tab-json-view').style.display = 'none';
+
+                    if (tab === 'form') {
+                        syncJsonToForm();
+                        document.getElementById('tab-form-view').style.display = 'block';
+                    } else if (tab === 'notes') {
+                        syncJsonToForm();
+                        renderNotesForm(currentTableData?.notes || {});
+                        document.getElementById('tab-notes-view').style.display = 'block';
+                    } else {
+                        syncFormToJson();
+                        document.getElementById('tab-json-view').style.display = 'block';
+                    }
+                });
+            });
+
+            // Live compare image
+            const fileInput = document.getElementById('input-compare-img');
+            const compImg = document.getElementById('compare-preview-img');
+            const compHint = document.getElementById('compare-hint');
+            fileInput.addEventListener('change', (e) => {
+                const file = e.target.files[0];
+                if (file) {
+                    const reader = new FileReader();
+                    reader.onload = (re) => {
+                        compImg.src = re.target.result;
+                        compImg.style.display = 'block';
+                        compHint.textContent = `Сверка: ${file.name}`;
+                    };
+                    reader.readAsDataURL(file);
+                }
+            });
+
+            // Format JSON button
+            document.getElementById('btn-format-json').addEventListener('click', () => {
+                try {
+                    const parsed = JSON.parse(document.getElementById('ge-json-editor').value);
+                    document.getElementById('ge-json-editor').value = JSON.stringify(parsed, null, 2);
+                    currentTableData = parsed;
+                    renderPreview();
+                } catch (e) {
+                    alert('Невалидный JSON: ' + e.message);
+                }
+            });
+
+            // Validate
+            document.getElementById('btn-validate').addEventListener('click', () => {
+                syncFormToJson();
+                try {
+                    const json = JSON.parse(document.getElementById('ge-json-editor').value);
+                    // Basic schema checklist
+                    const errors = [];
+                    if (!json.id) errors.push('Отсутствует "id" таблицы');
+                    if (!json.guidelineId) errors.push('Отсутствует "guidelineId"');
+                    if (!json.number) errors.push('Отсутствует "number"');
+                    if (!json.title?.en) errors.push('Отсутствует "title.en"');
+                    if (json.type === 'recommendations' && (!json.sections || json.sections.length === 0)) {
+                        errors.push('Секции recommendations не могут быть пустыми');
+                    }
+
+                    if (errors.length === 0) {
+                        alert('✅ Валидация структуры пройдена успешно! Ошибок нет.');
+                    } else {
+                        alert('⚠️ Найдены ошибки:\n- ' + errors.join('\n- '));
+                    }
+                } catch (e) {
+                    alert('Ошибка парсинга JSON: ' + e.message);
+                }
+            });
+
+            // Download
+            document.getElementById('btn-download').addEventListener('click', () => {
+                syncFormToJson();
+                const content = document.getElementById('ge-json-editor').value;
+                const blob = new Blob([content], { type: 'application/json' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = `${currentTableData?.id || 'guideline-table'}.json`;
+                a.click();
+                URL.revokeObjectURL(url);
+            });
+
+            // Save (simulate / local save)
+            document.getElementById('btn-save').addEventListener('click', () => {
+                syncFormToJson();
+                alert('💾 Данные таблицы сохранены в редакторе! Вы можете скачать обновленный JSON или закоммитить в репозиторий.');
+            });
+
+            function loadTableIntoUi(data) {
+                currentTableData = data;
+                document.getElementById('ge-json-editor').value = JSON.stringify(data, null, 2);
+                document.getElementById('f-guidelineId').value = data.guidelineId || '';
+                document.getElementById('f-tableId').value = data.id || '';
+                document.getElementById('f-number').value = data.number || '';
+                document.getElementById('f-tags').value = (data.tags || []).join(', ');
+                document.getElementById('f-title-ru').value = data.title?.ru || '';
+                document.getElementById('f-title-en').value = data.title?.en || '';
+                renderSectionsForm(data.sections || []);
+                renderPreview();
+            }
+
+            function renderSectionsForm(sections) {
+                const container = document.getElementById('ge-sections-container');
+                if (!sections || sections.length === 0) {
+                    container.innerHTML = '<div style="color:var(--ge-muted); padding:1rem; text-align:center;">В этой таблице пока нет секций (или это таблица типа grid — переключитесь во вкладку Raw JSON).</div>';
+                    return;
+                }
+
+                let html = '';
+                sections.forEach((s, sIdx) => {
+                    const rows = s.rows || [];
+                    html += `
+                        <div class="ge-row-card" data-sidx="${sIdx}">
+                            <div class="ge-row-header">
+                                <strong style="color:var(--ge-accent); font-size:0.95rem;">Секция ${sIdx + 1} (${s.id || 'sec'})</strong>
+                                <div style="display:flex; align-items:center; gap:0.5rem;">
+                                    <span class="ge-row-badge">${rows.length} строк</span>
+                                    <button class="ge-btn btn-add-row" data-sidx="${sIdx}" style="padding:2px 8px; font-size:0.75rem;">➕ Добавить строку</button>
+                                    <button class="ge-btn-danger btn-del-section" data-sidx="${sIdx}" style="padding:2px 6px;">✕ Удалить секцию</button>
+                                </div>
+                            </div>
+                            <div class="ge-form-group">
+                                <label class="ge-form-label">Заголовок секции (RU)</label>
+                                <input type="text" class="ge-input f-sec-title-ru" data-sidx="${sIdx}" value="${escapeHtml(s.title?.ru || '')}">
+                            </div>
+                            <div class="ge-form-group">
+                                <label class="ge-form-label">Заголовок секции (EN)</label>
+                                <input type="text" class="ge-input f-sec-title-en" data-sidx="${sIdx}" value="${escapeHtml(s.title?.en || '')}">
+                            </div>
+
+                            <div style="margin-top:1rem; display:flex; flex-direction:column; gap:0.6rem;">
+                                ${rows.map((r, rIdx) => `
+                                    <div class="ge-rec-item" data-sidx="${sIdx}" data-ridx="${rIdx}">
+                                        <div class="ge-rec-top">
+                                            <div style="display:flex; align-items:center; gap:0.5rem;">
+                                                <strong style="color:var(--ge-accent); font-size:0.8rem;">Строка ${rIdx + 1} (${r.id || 'r' + (rIdx + 1)})</strong>
+                                                ${r.notes && r.notes.length > 0 ? `<button class="ge-btn btn-jump-note" data-rid="${r.id}" style="padding:1px 6px; font-size:0.7rem; color:#facc15; border-color:#facc15;" title="Редактировать прикрепленную ремарку">💡 Ремарка (${r.notes.join(', ')})</button>` : `<button class="ge-btn btn-add-row-note" data-rid="${r.id}" style="padding:1px 6px; font-size:0.7rem;" title="Прикрепить клиническую ремарку">+ 💡 Ремарка</button>`}
+                                            </div>
+                                            <div style="display:flex; align-items:center; gap:0.5rem;">
+                                                <label style="font-size:0.75rem; color:var(--ge-muted);">Class:
+                                                    <select class="ge-badge-select f-row-class" data-sidx="${sIdx}" data-ridx="${rIdx}">
+                                                        <option value="I" ${r.class === 'I' ? 'selected' : ''}>I</option>
+                                                        <option value="IIa" ${r.class === 'IIa' ? 'selected' : ''}>IIa</option>
+                                                        <option value="IIb" ${r.class === 'IIb' ? 'selected' : ''}>IIb</option>
+                                                        <option value="III" ${r.class === 'III' ? 'selected' : ''}>III</option>
+                                                    </select>
+                                                </label>
+                                                <label style="font-size:0.75rem; color:var(--ge-muted);">Level:
+                                                    <select class="ge-badge-select f-row-level" data-sidx="${sIdx}" data-ridx="${rIdx}">
+                                                        <option value="A" ${r.level === 'A' ? 'selected' : ''}>A</option>
+                                                        <option value="B" ${r.level === 'B' ? 'selected' : ''}>B</option>
+                                                        <option value="C" ${r.level === 'C' ? 'selected' : ''}>C</option>
+                                                    </select>
+                                                </label>
+                                                <button class="ge-btn-danger btn-del-row" data-sidx="${sIdx}" data-ridx="${rIdx}" title="Удалить рекомендацию">✕</button>
+                                            </div>
+                                        </div>
+                                        <div class="ge-form-group" style="margin-bottom:0.5rem;">
+                                            <label class="ge-form-label" style="font-size:0.72rem;">Текст рекомендации (RU)</label>
+                                            <textarea class="ge-textarea f-row-text-ru" data-sidx="${sIdx}" data-ridx="${rIdx}" rows="2" style="font-size:0.84rem;">${escapeHtml(r.text?.ru || '')}</textarea>
+                                        </div>
+                                        <div class="ge-form-group" style="margin-bottom:0.25rem;">
+                                            <label class="ge-form-label" style="font-size:0.72rem;">Текст рекомендации (EN)</label>
+                                            <textarea class="ge-textarea f-row-text-en" data-sidx="${sIdx}" data-ridx="${rIdx}" rows="2" style="font-size:0.84rem;">${escapeHtml(r.text?.en || '')}</textarea>
+                                        </div>
+                                    </div>
+                                `).join('')}
+                            </div>
+                        </div>
+                    `;
+                });
+                container.innerHTML = html;
+
+                // Event handlers for inputs in sections/rows
+                container.querySelectorAll('.f-sec-title-ru').forEach(inp => {
+                    inp.addEventListener('input', (e) => {
+                        const sIdx = parseInt(e.target.dataset.sidx, 10);
+                        if (currentTableData?.sections?.[sIdx]) {
+                            if (!currentTableData.sections[sIdx].title) currentTableData.sections[sIdx].title = {};
+                            currentTableData.sections[sIdx].title.ru = e.target.value;
+                            syncDataToRawAndPreview();
+                        }
+                    });
+                });
+
+                container.querySelectorAll('.f-sec-title-en').forEach(inp => {
+                    inp.addEventListener('input', (e) => {
+                        const sIdx = parseInt(e.target.dataset.sidx, 10);
+                        if (currentTableData?.sections?.[sIdx]) {
+                            if (!currentTableData.sections[sIdx].title) currentTableData.sections[sIdx].title = {};
+                            currentTableData.sections[sIdx].title.en = e.target.value;
+                            syncDataToRawAndPreview();
+                        }
+                    });
+                });
+
+                container.querySelectorAll('.f-row-class').forEach(sel => {
+                    sel.addEventListener('change', (e) => {
+                        const sIdx = parseInt(e.target.dataset.sidx, 10);
+                        const rIdx = parseInt(e.target.dataset.ridx, 10);
+                        if (currentTableData?.sections?.[sIdx]?.rows?.[rIdx]) {
+                            currentTableData.sections[sIdx].rows[rIdx].class = e.target.value;
+                            syncDataToRawAndPreview();
+                        }
+                    });
+                });
+
+                container.querySelectorAll('.f-row-level').forEach(sel => {
+                    sel.addEventListener('change', (e) => {
+                        const sIdx = parseInt(e.target.dataset.sidx, 10);
+                        const rIdx = parseInt(e.target.dataset.ridx, 10);
+                        if (currentTableData?.sections?.[sIdx]?.rows?.[rIdx]) {
+                            currentTableData.sections[sIdx].rows[rIdx].level = e.target.value;
+                            syncDataToRawAndPreview();
+                        }
+                    });
+                });
+
+                container.querySelectorAll('.f-row-text-ru').forEach(tx => {
+                    tx.addEventListener('input', (e) => {
+                        const sIdx = parseInt(e.target.dataset.sidx, 10);
+                        const rIdx = parseInt(e.target.dataset.ridx, 10);
+                        if (currentTableData?.sections?.[sIdx]?.rows?.[rIdx]) {
+                            if (!currentTableData.sections[sIdx].rows[rIdx].text) currentTableData.sections[sIdx].rows[rIdx].text = {};
+                            currentTableData.sections[sIdx].rows[rIdx].text.ru = e.target.value;
+                            syncDataToRawAndPreview();
+                        }
+                    });
+                });
+
+                container.querySelectorAll('.f-row-text-en').forEach(tx => {
+                    tx.addEventListener('input', (e) => {
+                        const sIdx = parseInt(e.target.dataset.sidx, 10);
+                        const rIdx = parseInt(e.target.dataset.ridx, 10);
+                        if (currentTableData?.sections?.[sIdx]?.rows?.[rIdx]) {
+                            if (!currentTableData.sections[sIdx].rows[rIdx].text) currentTableData.sections[sIdx].rows[rIdx].text = {};
+                            currentTableData.sections[sIdx].rows[rIdx].text.en = e.target.value;
+                            syncDataToRawAndPreview();
+                        }
+                    });
+                });
+
+                container.querySelectorAll('.btn-del-row').forEach(btn => {
+                    btn.addEventListener('click', (e) => {
+                        const sIdx = parseInt(e.target.dataset.sidx, 10);
+                        const rIdx = parseInt(e.target.dataset.ridx, 10);
+                        if (currentTableData?.sections?.[sIdx]?.rows) {
+                            currentTableData.sections[sIdx].rows.splice(rIdx, 1);
+                            renderSectionsForm(currentTableData.sections);
+                            syncDataToRawAndPreview();
+                        }
+                    });
+                });
+
+                container.querySelectorAll('.btn-add-row').forEach(btn => {
+                    btn.addEventListener('click', (e) => {
+                        const sIdx = parseInt(e.target.dataset.sidx, 10);
+                        if (currentTableData?.sections?.[sIdx]) {
+                            if (!currentTableData.sections[sIdx].rows) currentTableData.sections[sIdx].rows = [];
+                            const newNum = currentTableData.sections[sIdx].rows.length + 1;
+                            const newId = 'r' + (newNum < 10 ? '0' + newNum : newNum);
+                            currentTableData.sections[sIdx].rows.push({
+                                id: newId,
+                                text: { ru: '', en: '' },
+                                class: 'I',
+                                level: 'A'
+                            });
+                            renderSectionsForm(currentTableData.sections);
+                            syncDataToRawAndPreview();
+                        }
+                    });
+                });
+
+                container.querySelectorAll('.btn-jump-note').forEach(btn => {
+                    btn.addEventListener('click', (e) => {
+                        const rid = e.target.dataset.rid;
+                        const notesBtn = document.querySelector('.ge-tab-btn[data-tab="notes"]');
+                        if (notesBtn) notesBtn.click();
+                        setTimeout(() => {
+                            const card = document.querySelector(`.ge-row-card[data-note-id]`);
+                            if (card) card.scrollIntoView({ behavior: 'smooth' });
+                        }, 50);
+                    });
+                });
+
+                container.querySelectorAll('.btn-add-row-note').forEach(btn => {
+                    btn.addEventListener('click', (e) => {
+                        const rid = e.target.dataset.rid;
+                        addNewNote(`row:${rid}`);
+                        const notesBtn = document.querySelector('.ge-tab-btn[data-tab="notes"]');
+                        if (notesBtn) notesBtn.click();
+                    });
+                });
+
+                container.querySelectorAll('.btn-del-section').forEach(btn => {
+                    btn.addEventListener('click', (e) => {
+                        const sIdx = parseInt(e.target.dataset.sidx, 10);
+                        if (currentTableData?.sections) {
+                            if (confirm(`Удалить секцию ${sIdx + 1}?`)) {
+                                currentTableData.sections.splice(sIdx, 1);
+                                renderSectionsForm(currentTableData.sections);
+                                syncDataToRawAndPreview();
+                            }
+                        }
+                    });
+                });
+            }
+
+            function escapeHtml(str) {
+                if (!str) return '';
+                return String(str)
+                    .replace(/&/g, '&amp;')
+                    .replace(/</g, '&lt;')
+                    .replace(/>/g, '&gt;')
+                    .replace(/"/g, '&quot;');
+            }
+
+            function syncDataToRawAndPreview() {
+                document.getElementById('ge-json-editor').value = JSON.stringify(currentTableData, null, 2);
+                renderPreview();
+            }
+
+            document.getElementById('btn-add-section').addEventListener('click', () => {
+                if (!currentTableData) currentTableData = { schemaVersion: 1, type: 'recommendations', sections: [] };
+                if (!currentTableData.sections) currentTableData.sections = [];
+                const sNum = currentTableData.sections.length + 1;
+                currentTableData.sections.push({
+                    id: 's' + (sNum < 10 ? '0' + sNum : sNum),
+                    title: { ru: 'Новая секция', en: 'New Section' },
+                    rows: [
+                        {
+                            id: 'r01',
+                            text: { ru: '', en: '' },
+                            class: 'I',
+                            level: 'A'
+                        }
+                    ]
+                });
+                renderSectionsForm(currentTableData.sections);
+                syncDataToRawAndPreview();
+            });
+
+            // Metadata inputs real-time sync
+            ['f-guidelineId', 'f-tableId', 'f-number', 'f-tags', 'f-title-ru', 'f-title-en'].forEach(id => {
+                document.getElementById(id).addEventListener('input', () => {
+                    syncFormToJson();
+                });
+            });
+
+            function syncFormToJson() {
+                if (!currentTableData) currentTableData = { schemaVersion: 1 };
+                currentTableData.guidelineId = document.getElementById('f-guidelineId').value.trim();
+                currentTableData.id = document.getElementById('f-tableId').value.trim();
+                currentTableData.number = document.getElementById('f-number').value.trim();
+                currentTableData.tags = document.getElementById('f-tags').value.split(',').map(s => s.trim()).filter(Boolean);
+                if (!currentTableData.title) currentTableData.title = {};
+                currentTableData.title.ru = document.getElementById('f-title-ru').value.trim();
+                currentTableData.title.en = document.getElementById('f-title-en').value.trim();
+                syncDataToRawAndPreview();
+            }
+
+            function syncJsonToForm() {
+                try {
+                    const parsed = JSON.parse(document.getElementById('ge-json-editor').value);
+                    loadTableIntoUi(parsed);
+                } catch (e) {
+                    console.warn(e);
+                }
+            }
+
+            function renderNotesForm(notes) {
+                const container = document.getElementById('ge-notes-container');
+                const noteEntries = Object.entries(notes || {});
+
+                if (noteEntries.length === 0) {
+                    container.innerHTML = `
+                        <div style="background:rgba(255,255,255,0.03); border:1px dashed var(--ge-border); border-radius:8px; padding:2rem; text-align:center; color:var(--ge-muted);">
+                            <p style="margin:0 0 0.75rem 0; font-size:0.95rem;">У этой таблицы пока нет клинических ремарок (notes).</p>
+                            <button class="ge-btn ge-btn-primary" id="btn-create-first-note" style="display:inline-flex;">➕ Создать первую ремарку</button>
+                        </div>
+                    `;
+                    const firstBtn = container.querySelector('#btn-create-first-note');
+                    if (firstBtn) firstBtn.addEventListener('click', addNewNote);
+                    return;
+                }
+
+                // Available targets from current table
+                const targets = [{ id: 'table', label: 'Вся таблица (table)' }];
+                if (currentTableData?.sections) {
+                    currentTableData.sections.forEach(s => {
+                        const st = s.title?.ru || s.title?.en || s.id;
+                        targets.push({ id: `section:${s.id}`, label: `Секция: ${s.id} — ${st.substring(0, 30)}...` });
+                        (s.rows || []).forEach(r => {
+                            const rt = r.text?.ru || r.text?.en || r.id;
+                            targets.push({ id: `row:${r.id}`, label: `Строка: ${r.id} — ${rt.substring(0, 35)}...` });
+                            targets.push({ id: `cell:${r.id}.class`, label: `Ячейка Class: ${r.id}.class (${r.class})` });
+                            targets.push({ id: `cell:${r.id}.level`, label: `Ячейка Level: ${r.id}.level (${r.level})` });
+                        });
+                    });
+                } else if (currentTableData?.rows) {
+                    currentTableData.rows.forEach(r => {
+                        targets.push({ id: `row:${r.id}`, label: `Строка сетки: ${r.id}` });
+                    });
+                }
+
+                let html = '';
+                noteEntries.forEach(([noteId, n]) => {
+                    html += `
+                        <div class="ge-row-card" data-note-id="${noteId}">
+                            <div class="ge-row-header">
+                                <div style="display:flex; align-items:center; gap:0.6rem;">
+                                    <strong style="color:var(--ge-accent); font-size:0.95rem;">ID: ${noteId}</strong>
+                                    <span class="ge-row-badge" style="color:var(--ge-accent); background:rgba(56,189,248,0.1);">🎯 ${escapeHtml(n.target || 'table')}</span>
+                                </div>
+                                <button class="ge-btn-danger btn-del-note" data-note-id="${noteId}" title="Удалить ремарку">✕ Удалить</button>
+                            </div>
+
+                            <div class="ge-form-group ge-grid-2">
+                                <div>
+                                    <label class="ge-form-label">Цель привязки (target)</label>
+                                    <select class="ge-select f-note-target" data-note-id="${noteId}">
+                                        ${targets.map(t => `<option value="${t.id}" ${n.target === t.id ? 'selected' : ''}>${escapeHtml(t.label)}</option>`).join('')}
+                                        ${!targets.some(t => t.id === n.target) ? `<option value="${escapeHtml(n.target)}" selected>Пользовательский: ${escapeHtml(n.target)}</option>` : ''}
+                                    </select>
+                                </div>
+                                <div>
+                                    <label class="ge-form-label">Ключ ремарки (ID в словаре notes)</label>
+                                    <input type="text" class="ge-input f-note-key" data-old-key="${noteId}" value="${escapeHtml(noteId)}">
+                                </div>
+                            </div>
+
+                            <div class="ge-form-group ge-grid-2">
+                                <div>
+                                    <label class="ge-form-label">Заголовок ремарки (RU)</label>
+                                    <input type="text" class="ge-input f-note-title-ru" data-note-id="${noteId}" placeholder="Заголовок на русском" value="${escapeHtml(n.title?.ru || '')}">
+                                </div>
+                                <div>
+                                    <label class="ge-form-label">Заголовок ремарки (EN)</label>
+                                    <input type="text" class="ge-input f-note-title-en" data-note-id="${noteId}" placeholder="Remark title in English" value="${escapeHtml(n.title?.en || '')}">
+                                </div>
+                            </div>
+
+                            <div class="ge-form-group">
+                                <label class="ge-form-label">Текст ремарки (RU) — пояснение, дозировки, предостережения</label>
+                                <textarea class="ge-textarea f-note-text-ru" data-note-id="${noteId}" rows="3" placeholder="Клиническое пояснение на русском...">${escapeHtml(n.text?.ru || '')}</textarea>
+                            </div>
+
+                            <div class="ge-form-group" style="margin-bottom:0;">
+                                <label class="ge-form-label">Текст ремарки (EN) — clinical explanation, warnings</label>
+                                <textarea class="ge-textarea f-note-text-en" data-note-id="${noteId}" rows="3" placeholder="Clinical explanation in English...">${escapeHtml(n.text?.en || '')}</textarea>
+                            </div>
+                        </div>
+                    `;
+                });
+
+                container.innerHTML = html;
+
+                // Event bindings for notes inputs
+                container.querySelectorAll('.f-note-target').forEach(sel => {
+                    sel.addEventListener('change', (e) => {
+                        const nid = e.target.dataset.noteId;
+                        if (currentTableData?.notes?.[nid]) {
+                            currentTableData.notes[nid].target = e.target.value;
+                            syncNotesAssociations();
+                            syncDataToRawAndPreview();
+                        }
+                    });
+                });
+
+                container.querySelectorAll('.f-note-title-ru').forEach(inp => {
+                    inp.addEventListener('input', (e) => {
+                        const nid = e.target.dataset.noteId;
+                        if (currentTableData?.notes?.[nid]) {
+                            if (!currentTableData.notes[nid].title) currentTableData.notes[nid].title = {};
+                            currentTableData.notes[nid].title.ru = e.target.value;
+                            syncDataToRawAndPreview();
+                        }
+                    });
+                });
+
+                container.querySelectorAll('.f-note-title-en').forEach(inp => {
+                    inp.addEventListener('input', (e) => {
+                        const nid = e.target.dataset.noteId;
+                        if (currentTableData?.notes?.[nid]) {
+                            if (!currentTableData.notes[nid].title) currentTableData.notes[nid].title = {};
+                            currentTableData.notes[nid].title.en = e.target.value;
+                            syncDataToRawAndPreview();
+                        }
+                    });
+                });
+
+                container.querySelectorAll('.f-note-text-ru').forEach(tx => {
+                    tx.addEventListener('input', (e) => {
+                        const nid = e.target.dataset.noteId;
+                        if (currentTableData?.notes?.[nid]) {
+                            if (!currentTableData.notes[nid].text) currentTableData.notes[nid].text = {};
+                            currentTableData.notes[nid].text.ru = e.target.value;
+                            syncDataToRawAndPreview();
+                        }
+                    });
+                });
+
+                container.querySelectorAll('.f-note-text-en').forEach(tx => {
+                    tx.addEventListener('input', (e) => {
+                        const nid = e.target.dataset.noteId;
+                        if (currentTableData?.notes?.[nid]) {
+                            if (!currentTableData.notes[nid].text) currentTableData.notes[nid].text = {};
+                            currentTableData.notes[nid].text.en = e.target.value;
+                            syncDataToRawAndPreview();
+                        }
+                    });
+                });
+
+                container.querySelectorAll('.f-note-key').forEach(inp => {
+                    inp.addEventListener('change', (e) => {
+                        const oldKey = e.target.dataset.oldKey;
+                        const newKey = e.target.value.trim();
+                        if (newKey && newKey !== oldKey && currentTableData?.notes?.[oldKey]) {
+                            const val = currentTableData.notes[oldKey];
+                            delete currentTableData.notes[oldKey];
+                            currentTableData.notes[newKey] = val;
+                            renameNoteInRows(oldKey, newKey);
+                            renderNotesForm(currentTableData.notes);
+                            syncDataToRawAndPreview();
+                        }
+                    });
+                });
+
+                container.querySelectorAll('.btn-del-note').forEach(btn => {
+                    btn.addEventListener('click', (e) => {
+                        const nid = e.target.dataset.noteId;
+                        if (currentTableData?.notes?.[nid]) {
+                            if (confirm(`Удалить клиническую ремарку "${nid}"?`)) {
+                                delete currentTableData.notes[nid];
+                                removeNoteFromRows(nid);
+                                renderNotesForm(currentTableData.notes);
+                                syncDataToRawAndPreview();
+                            }
+                        }
+                    });
+                });
+            }
+
+            function addNewNote(specificTarget = '') {
+                if (!currentTableData) currentTableData = { schemaVersion: 1 };
+                if (!currentTableData.notes) currentTableData.notes = {};
+
+                const count = Object.keys(currentTableData.notes).length + 1;
+                const newId = 'n' + (count < 10 ? '0' + count : count);
+                let defaultTarget = specificTarget;
+                if (!defaultTarget) {
+                    if (currentTableData.sections?.[0]?.rows?.[0]?.id) {
+                        defaultTarget = `row:${currentTableData.sections[0].rows[0].id}`;
+                    } else {
+                        defaultTarget = 'table';
+                    }
+                }
+
+                currentTableData.notes[newId] = {
+                    target: defaultTarget,
+                    title: { ru: 'Клиническое пояснение', en: 'Clinical Explanation' },
+                    text: { ru: '', en: '' }
+                };
+
+                syncNotesAssociations();
+                renderNotesForm(currentTableData.notes);
+                syncDataToRawAndPreview();
+            }
+
+            document.getElementById('btn-add-note').addEventListener('click', addNewNote);
+
+            function syncNotesAssociations() {
+                // Ensure rows have notes array matching their target: row:<rowId>
+                if (!currentTableData?.notes || !currentTableData?.sections) return;
+                const rowToNotes = {};
+                Object.entries(currentTableData.notes).forEach(([noteId, n]) => {
+                    if (n.target && n.target.startsWith('row:')) {
+                        const rid = n.target.replace('row:', '');
+                        if (!rowToNotes[rid]) rowToNotes[rid] = [];
+                        rowToNotes[rid].push(noteId);
+                    }
+                });
+
+                currentTableData.sections.forEach(s => {
+                    (s.rows || []).forEach(r => {
+                        if (rowToNotes[r.id]) {
+                            r.notes = rowToNotes[r.id];
+                        } else {
+                            delete r.notes;
+                        }
+                    });
+                });
+            }
+
+            function removeNoteFromRows(noteId) {
+                if (!currentTableData?.sections) return;
+                currentTableData.sections.forEach(s => {
+                    (s.rows || []).forEach(r => {
+                        if (r.notes) {
+                            r.notes = r.notes.filter(k => k !== noteId);
+                            if (r.notes.length === 0) delete r.notes;
+                        }
+                    });
+                });
+            }
+
+            function renameNoteInRows(oldKey, newKey) {
+                if (!currentTableData?.sections) return;
+                currentTableData.sections.forEach(s => {
+                    (s.rows || []).forEach(r => {
+                        if (r.notes) {
+                            r.notes = r.notes.map(k => k === oldKey ? newKey : k);
+                        }
+                    });
+                });
+            }
+
+            function renderPreview() {
+                const prevEl = document.getElementById('ge-live-preview-container');
+                if (!prevEl || !currentTableData) return;
+                try {
+                    // Render interactive table preview using GuidelineTables component logic
+                    window.GuidelineTables.activeTable = currentTableData;
+                    if (currentTableData.guidelineId) {
+                        window.GuidelineTables.guidelinesMeta[currentTableData.guidelineId] = {
+                            shortTitle: { ru: currentTableData.guidelineId, en: currentTableData.guidelineId }
+                        };
+                    }
+
+                    // Render table and attach click interaction for notes
+                    window.GuidelineTables.renderTable(currentTableData);
+                    const rendered = document.getElementById(`gt-rendered-${currentTableData.id}`);
+                    if (rendered) {
+                        prevEl.innerHTML = '';
+                        prevEl.appendChild(rendered);
+                    }
+                } catch (e) {
+                    console.error(e);
+                }
+            }
+        });
+    </script>
+</body>
+</html>

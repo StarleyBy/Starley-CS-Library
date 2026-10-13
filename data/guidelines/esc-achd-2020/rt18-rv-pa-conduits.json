@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt18-rv-pa-conduits",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec RV-PA Conduits",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention in right ventricular to pulmonary artery conduits",
+    "ru": "Рекомендации по вмешательствам на кондуитах между правым желудочком и легочной артерией"
+  },
+  "tags": [
+    "achd",
+    "conduit",
+    "rv-pa",
+    "tpvi",
+    "pulmonary-valve"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "*Symptomatic* patients with RVSP >60 mmHg (may be lower in case of reduced flow) and/or severe PR^[c] should undergo intervention with preference for catheter intervention (TPVI) if anatomically feasible.",
+            "ru": "*Симптомным* пациентам с СДПЖ >60 мм рт. ст. (может быть ниже при сниженном кровотоке) и/или тяжелой ЛР^[c] показано вмешательство с предпочтением катетерного вмешательства (TPVI) при анатомической возможности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "*Asymptomatic* patients with severe RVOTO and/or severe PR should be considered for intervention, preferably catheter intervention (TPVI) if anatomically feasible, when at least one of the following criteria is present:\n- Decrease in objective exercise capacity (CPET).\n- Progressive RV dilation to RVESVi ≥80 mL/m², and/or RVEDVi ≥160 mL/m², and/or progression of TR to at least moderate.\n- Progressive RV systolic dysfunction.\n- RVSP >80 mmHg.",
+            "ru": "У *асимптомных* пациентов с тяжелой обструкцией ВТПЖ и/или тяжелой ЛР следует рассматривать вмешательство, предпочтительно транскатетерное (TPVI) при анатомической возможности, при наличии хотя бы одного из следующих критериев:\n- Снижение объективной толерантности к физической нагрузке (КПНТ).\n- Прогрессирующая дилатация ПЖ до КСОи ПЖ ≥80 мл/м² и/или КДОи ПЖ ≥160 мл/м², и/или прогрессирование ТР как минимум до умеренной.\n- Прогрессирующая систолическая дисфункция ПЖ.\n- СДПЖ >80 мм рт. ст."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Regurgitant fraction by CMR >30–40%.",
+      "ru": "Фракция регургитации по данным МРТ сердца >30–40%."
+    }
+  }
+}

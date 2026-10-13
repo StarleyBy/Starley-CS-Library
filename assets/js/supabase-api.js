@@ -420,6 +420,22 @@
         return { ok: true, success: true, data };
     }
 
+    async function deleteSession(sessionId) {
+        if (!sessionId) return { ok: false, error: 'No sessionId provided' };
+        const user = await getAuthUser();
+        if (!user) return { ok: false, error: 'Not authenticated' };
+        const { error } = await client
+            .from('quiz_sessions')
+            .delete()
+            .eq('user_id', user.id)
+            .eq('session_id', sessionId);
+        if (error) {
+            console.error('[SupabaseAPI] deleteSession error:', error);
+            return { ok: false, error: error.message };
+        }
+        return { ok: true, success: true };
+    }
+
     // -------------------------------------------------------------------
     // Realtime — replaces polling with targeted event notifications.
     // -------------------------------------------------------------------
@@ -736,6 +752,7 @@
         batchSaveSessions,
         syncPendingQuizSessions,
         getSessionHistory,
+        deleteSession,
         getAuthUser,
         subscribeToOwnChanges,
         adminCreateUser,

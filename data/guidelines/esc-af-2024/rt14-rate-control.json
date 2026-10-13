@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt14-rate-control",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 14",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for heart rate control in patients with AF",
+    "ru": "Рекомендации по контролю частоты сердечных сокращений у пациентов с фибрилляцией предсердий"
+  },
+  "tags": [
+    "af",
+    "rate-control",
+    "beta-blockers",
+    "diltiazem",
+    "verapamil",
+    "digoxin",
+    "crt",
+    "av-node-ablation",
+    "landiolol",
+    "amiodarone"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for heart rate control in patients with AF",
+        "ru": "Рекомендации по контролю частоты сердечных сокращений при ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Rate control therapy is recommended in patients with AF, as initial therapy in the acute setting, an adjunct to rhythm control therapies, or as a sole treatment strategy to control heart rate and reduce symptoms.",
+            "ru": "Терапия контроля частоты сердечных сокращений рекомендуется пациентам с ФП в качестве начальной терапии в острой ситуации, дополнения к стратегии контроля ритма или самостоятельной стратегии для контроля ЧСС и уменьшения симптомов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Beta-blockers, diltiazem, verapamil, or digoxin are recommended as first-choice drugs in patients with AF and LVEF >40% to control heart rate and reduce symptoms.",
+            "ru": "Бета-блокаторы, дилтиазем, верапамил или дигоксин рекомендуются в качестве препаратов первого выбора у пациентов с ФП и ФВ ЛЖ >40% для контроля частоты сердечных сокращений и уменьшения симптомов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Beta-blockers and/or digoxin are recommended in patients with AF and LVEF ≤40% to control heart rate and reduce symptoms.",
+            "ru": "Бета-блокаторы и/или дигоксин рекомендуются пациентам с ФП и ФВ ЛЖ ≤40% для контроля частоты сердечных сокращений и уменьшения симптомов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Combination rate control therapy should be considered if a single drug does not control symptoms or heart rate in patients with AF, providing that bradycardia can be avoided, to control heart rate and reduce symptoms.",
+            "ru": "Комбинированную терапию контроля ритма следует рассматривать, если монотерапия не обеспечивает контроль симптомов или ЧСС у пациентов с ФП (при условии избежания брадикардии), для контроля частоты сокращений и уменьшения симптомов."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Lenient rate control with a resting heart rate of <110 b.p.m. should be considered as the initial target for patients with AF, with stricter control reserved for those with continuing AF-related symptoms.",
+            "ru": "Мягкий контроль частоты сердечных сокращений с ЧСС в покое <110 уд/мин следует рассматривать в качестве начальной цели у пациентов с ФП; более строгий контроль показан пациентам с сохраняющимися симптомами, связанными с ФП."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Atrioventricular node ablation in combination with pacemaker implantation should be considered in patients unresponsive to, or ineligible for, intensive rate and rhythm control therapy to control heart rate and reduce symptoms.",
+            "ru": "Аблацию атриовентрикулярного узла в сочетании с имплантацией электрокардиостимулятора следует рассматривать у пациентов, не отвечающих на интенсивную медикаментозную терапию контроля ритма и частоты или не подходящих для нее, для контроля ЧСС и уменьшения симптомов."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Atrioventricular node ablation combined with cardiac resynchronization therapy should be considered in severely symptomatic patients with permanent AF and at least one hospitalization for HF to reduce symptoms, physical limitations, recurrent HF hospitalization, and mortality.",
+            "ru": "Аблацию атриовентрикулярного узла в сочетании с сердечной ресинхронизирующей терапией (CRT) следует рассматривать у пациентов с постоянной ФП и выраженными симптомами, перенесших как минимум одну госпитализацию по поводу СН, для уменьшения симптомов, физических ограничений, повторных госпитализаций по СН и смертности."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Intravenous amiodarone, digoxin, or landiolol may be considered in patients with AF who have haemodynamic instability or severely depressed LVEF to achieve acute control of heart rate.",
+            "ru": "Внутривенное введение амиодарона, дигоксина или ландиолола может рассматриваться у пациентов с ФП при нестабильной гемодинамике или тяжелом снижении ФВ ЛЖ для быстрого достижения контроля частоты сердечных сокращений."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt04",
+  "guidelineId": "esc-acs-2023",
+  "number": "4",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for reperfusion therapy and timing of invasive strategy",
+    "ru": "Рекомендации по реперфузионной терапии и срокам инвазивной стратегии"
+  },
+  "tags": [
+    "stemi",
+    "nste-acs",
+    "ppci",
+    "fibrinolysis",
+    "invasive-strategy",
+    "reperfusion"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for reperfusion therapy for patients with STEMI",
+        "ru": "Рекомендации по реперфузионной терапии у пациентов с STEMI"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Reperfusion therapy is recommended in all patients with a working diagnosis of STEMI (persistent ST-segment elevation or equivalents^[c]) and symptoms of ischaemia of ≤12 h duration.",
+            "ru": "Реперфузионная терапия рекомендована всем пациентам с рабочим диагнозом STEMI (стойкий подъём сегмента ST или его эквиваленты^[c]) и симптомами ишемии длительностью ≤12 ч."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "A PPCI strategy is recommended over fibrinolysis if the anticipated time from diagnosis to PCI is <120 min.",
+            "ru": "Стратегия PPCI рекомендована предпочтительно перед фибринолизом, если ожидаемое время от установления диагноза до ЧКВ составляет <120 мин."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "If timely PPCI (<120 min) cannot be performed in patients with a working diagnosis of STEMI, fibrinolytic therapy is recommended within 12 h of symptom onset in patients without contraindications.",
+            "ru": "Если своевременное PPCI (<120 мин) невозможно у пациентов с рабочим диагнозом STEMI, рекомендована фибринолитическая терапия в течение 12 ч от начала симптомов у пациентов без противопоказаний."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Rescue PCI is recommended for failed fibrinolysis (i.e. ST-segment resolution <50% within 60–90 min of fibrinolytic administration) or in the presence of haemodynamic or electrical instability, worsening ischaemia, or persistent chest pain.",
+            "ru": "Спасительное ЧКВ рекомендовано при неэффективности фибринолиза (т.е. разрешение подъёма сегмента ST <50% в течение 60–90 мин после введения фибринолитика) либо при гемодинамической или электрической нестабильности, нарастании ишемии или сохраняющейся боли в груди."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients with a working diagnosis of STEMI and a time from symptom onset >12 h, a PPCI strategy is recommended in the presence of ongoing symptoms suggestive of ischaemia, haemodynamic instability, or life-threatening arrhythmias.",
+            "ru": "У пациентов с рабочим диагнозом STEMI и временем от начала симптомов >12 ч стратегия PPCI рекомендована при наличии продолжающихся симптомов, указывающих на ишемию, гемодинамической нестабильности или жизнеугрожающих аритмий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "A routine PPCI strategy should be considered in STEMI patients presenting late (12–48 h) after symptom onset.",
+            "ru": "Рутинную стратегию PPCI следует рассмотреть у пациентов с STEMI, поступивших поздно (12–48 ч от начала симптомов)."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Routine PCI of an occluded IRA is not recommended in STEMI patients presenting >48 h after symptom onset and without persistent symptoms.",
+            "ru": "Рутинное ЧКВ окклюзированной IRA не рекомендовано пациентам с STEMI, поступившим >48 ч от начала симптомов и без сохраняющихся симптомов."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Transfer/interventions after fibrinolysis",
+        "ru": "Перевод и вмешательства после фибринолиза"
+      },
+      "rows": [
+        {
+          "id": "r08",
+          "text": {
+            "en": "Transfer to a PCI-capable centre is recommended in all patients immediately after fibrinolysis.",
+            "ru": "Перевод в центр, располагающий возможностью ЧКВ, рекомендован всем пациентам сразу после фибринолиза."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Emergency angiography and PCI of the IRA, if indicated, are recommended in patients with new-onset or persistent heart failure/shock after fibrinolysis.",
+            "ru": "Экстренная ангиография и ЧКВ IRA, при наличии показаний, рекомендованы пациентам с впервые возникшей или персистирующей сердечной недостаточностью/шоком после фибринолиза."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Angiography and PCI of the IRA, if indicated, is recommended between 2 and 24 h after successful fibrinolysis.",
+            "ru": "Ангиография и ЧКВ IRA, при наличии показаний, рекомендованы в интервале от 2 до 24 ч после успешного фибринолиза."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Invasive strategy in NSTE-ACS",
+        "ru": "Инвазивная стратегия при NSTE-ACS"
+      },
+      "rows": [
+        {
+          "id": "r11",
+          "text": {
+            "en": "An invasive strategy during hospital admission is recommended in NSTE-ACS patients with high-risk criteria or a high index of suspicion for unstable angina.",
+            "ru": "Инвазивная стратегия в ходе госпитализации рекомендована пациентам с NSTE-ACS с критериями высокого риска или высоким подозрением на нестабильную стенокардию."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "A selective invasive approach is recommended in patients without very high- or high-risk NSTE-ACS criteria and with a low index of suspicion for NSTE-ACS.",
+            "ru": "Селективный инвазивный подход рекомендован пациентам без критериев очень высокого или высокого риска NSTE-ACS и с низким подозрением на NSTE-ACS."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "An immediate invasive strategy is recommended in patients with a working diagnosis of NSTE-ACS and with at least one of the following very high-risk criteria:",
+            "ru": "Немедленная инвазивная стратегия рекомендована пациентам с рабочим диагнозом NSTE-ACS и как минимум одним из следующих критериев очень высокого риска:"
+          },
+          "bullets": [
+            {
+              "text": {
+                "en": "Haemodynamic instability or cardiogenic shock",
+                "ru": "Гемодинамическая нестабильность или кардиогенный шок"
+              }
+            },
+            {
+              "text": {
+                "en": "Recurrent or refractory chest pain despite medical treatment",
+                "ru": "Рецидивирующая или рефрактерная к медикаментозной терапии боль в груди"
+              }
+            },
+            {
+              "text": {
+                "en": "In-hospital life-threatening arrhythmias",
+                "ru": "Жизнеугрожающие аритмии в стационаре"
+              }
+            },
+            {
+              "text": {
+                "en": "Mechanical complications of MI",
+                "ru": "Механические осложнения инфаркта миокарда"
+              }
+            },
+            {
+              "text": {
+                "en": "Acute heart failure presumed secondary to ongoing myocardial ischaemia",
+                "ru": "Острая сердечная недостаточность, предположительно вторичная по отношению к продолжающейся ишемии миокарда"
+              }
+            },
+            {
+              "text": {
+                "en": "*Recurrent* dynamic ST-segment or T wave changes, particularly intermittent ST-segment elevation.",
+                "ru": "*Рецидивирующие* динамические изменения сегмента ST или зубца T, особенно преходящий подъём сегмента ST."
+              }
+            }
+          ],
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "An early invasive strategy within 24 h should be considered in patients with at least one of the following high-risk criteria:",
+            "ru": "Раннюю инвазивную стратегию (в течение 24 ч) следует рассмотреть у пациентов как минимум с одним из следующих критериев высокого риска:"
+          },
+          "bullets": [
+            {
+              "text": {
+                "en": "Confirmed diagnosis of NSTEMI based on current recommended ESC hs-cTn algorithms",
+                "ru": "Подтверждённый диагноз NSTEMI на основании актуальных рекомендованных алгоритмов hs-cTn ESC"
+              }
+            },
+            {
+              "text": {
+                "en": "Dynamic ST-segment or T wave changes",
+                "ru": "Динамические изменения сегмента ST или зубца T"
+              }
+            },
+            {
+              "text": {
+                "en": "Transient ST-segment elevation",
+                "ru": "Преходящий подъём сегмента ST"
+              }
+            },
+            {
+              "text": {
+                "en": "GRACE risk score >140",
+                "ru": "Риск по шкале GRACE >140"
+              },
+              "refs": [
+                202,
+                226,
+                227,
+                228,
+                229,
+                230
+              ]
+            }
+          ],
+          "class": "IIa",
+          "level": "A"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "ST-segment elevation equivalents are presented in Supplementary data online, Figure S2.",
+      "ru": "Эквиваленты подъёма сегмента ST представлены в дополнительных материалах онлайн, рисунок S2."
+    }
+  },
+  "notes": {},
+  "source": {
+    "expectedRows": 14,
+    "note": "Transcribed from two screenshots (STEMI/fibrinolysis part and NSTE-ACS part). If the printed table has rows between the two fragments, add them and update expectedRows."
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt03-asd-intervention",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec ASD",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention in atrial septal defect (native and residual)",
+    "ru": "Рекомендации по вмешательствам при дефекте межпредсердной перегородки (нативном и резидуальном)"
+  },
+  "tags": [
+    "achd",
+    "asd",
+    "shunt-closure",
+    "device-closure",
+    "balloon-testing",
+    "pvr",
+    "eisenmenger"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with evidence of RV volume overload^[c] and no PAH (no non-invasive signs of PAP elevation or invasive confirmation of PVR <3 WU in case of such signs) or LV disease, ASD closure is recommended regardless of symptoms.",
+            "ru": "У пациентов с признаками объемной перегрузки ПЖ^[c] при отсутствии ЛАГ (нет неинвазивных признаков повышения давления в ЛА либо инвазивно подтверждено PVR <3 WU) и патологии ЛЖ закрытие ДМПП рекомендуется независимо от симптомов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Device closure is recommended as the method of choice for secundum ASD closure when technically suitable.",
+            "ru": "Эндоваскулярное окклюдерное закрытие рекомендуется как метод выбора при вторичном ДМПП при технической осуществимости."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In elderly patients not suitable for device closure, it is recommended to carefully weigh the surgical risk against the potential benefit of ASD closure.",
+            "ru": "У пожилых пациентов, которым не показано окклюдерное закрытие, рекомендуется тщательно сопоставлять хирургический риск с потенциальной пользой закрытия ДМПП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients with non-invasive signs of PAP elevation, invasive measurement of PVR is mandatory.",
+            "ru": "У пациентов с неинвазивными признаками повышения давления в ЛА обязательно инвазивное измерение легочного сосудистого сопротивления (PVR)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients with LV disease, it is recommended to perform balloon testing and carefully weigh the benefit of eliminating L–R shunt against the potential negative impact of ASD closure on outcome due to an increase in filling pressure (taking closure, fenestrated closure, and no closure into consideration).",
+            "ru": "У пациентов с сопутствующей патологией ЛЖ рекомендуется выполнить пробу с баллонной окклюзией и тщательно сопоставить пользу устранения сброса с потенциальным негативным влиянием роста давления наполнения ЛЖ (рассматривая полное, фенестрированное закрытие или отказ от закрытия)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In patients with suspicion of paradoxical embolism (exclusion of other causes), ASD closure should be considered regardless of size providing there is absence of PAH and LV disease.",
+            "ru": "При подозрении на парадоксальную эмболию (после исключения других причин) следует рассматривать закрытие ДМПП независимо от размера при условии отсутствия ЛАГ и патологии ЛЖ."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "In patients with PVR 3–5 WU, ASD closure should be considered when significant L–R shunt is present (Qp:Qs >1.5).",
+            "ru": "При PVR 3–5 WU следует рассматривать закрытие ДМПП при наличии значимого сброса слева направо (Qp:Qs >1.5)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "In patients with PVR ≥5 WU, fenestrated ASD closure may be considered when PVR falls below 5 WU after targeted PAH treatment and significant L–R shunt is present (Qp:Qs >1.5).",
+            "ru": "При PVR ≥5 WU фенестрированное закрытие ДМПП может быть рассмотрено, если на фоне таргетной терапии ЛАГ сопротивление снижается <5 WU и сохраняется значимый сброс слева направо (Qp:Qs >1.5)."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "ASD closure is not recommended in patients with Eisenmenger physiology, patients with PAH and PVR ≥5 WU despite targeted PAH treatment, or desaturation on exercise.^[d]",
+            "ru": "Закрытие ДМПП не рекомендуется у пациентов с физиологией Эйзенменгера, при ЛАГ с PVR ≥5 WU несмотря на таргетную терапию, а также при возникновении десатурации при физической нагрузке.^[d]"
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "RV enlargement with increased stroke volume.",
+      "ru": "Дилатация правого желудочка с увеличенным ударным объемом."
+    },
+    "d": {
+      "en": "There are limited data available for a precise cut-off, but by clinical experience, this would be given by a fall of arterial oxygen saturation <90%.",
+      "ru": "Точный количественный порог в литературе строго не фиксирован, но по клиническому опыту определяется падением сатурации артериальной крови <90%."
+    }
+  },
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

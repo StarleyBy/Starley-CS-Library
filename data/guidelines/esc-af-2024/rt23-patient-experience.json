@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt23-patient-experience",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 23",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations to improve patient experience",
+    "ru": "Рекомендации по улучшению опыта и качества жизни пациентов"
+  },
+  "tags": [
+    "af",
+    "patient-experience",
+    "quality-of-care"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations to improve patient experience",
+        "ru": "Рекомендации по улучшению опыта пациентов"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Evaluating quality of care and identifying opportunities for improved treatment of AF should be considered by practitioners and institutions to improve patient experiences.",
+            "ru": "Врачам и медицинским учреждениям следует рассмотреть возможность оценки качества оказания медицинской помощи и выявления возможностей для совершенствования лечения ФП с целью улучшения опыта и качества жизни пациентов."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

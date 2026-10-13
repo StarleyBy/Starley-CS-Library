@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t09-multimodality-imaging",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 9",
+  "type": "grid",
+  "title": {
+    "en": "Frequently encountered actionable results on multimodality imaging",
+    "ru": "Часто встречающиеся клинически значимые находки при мультимодальной визуализации"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "imaging",
+    "multimodality",
+    "echocardiography",
+    "cmr",
+    "pet",
+    "actionable-findings"
+  ],
+  "columns": [
+    {
+      "id": "c_finding",
+      "title": {
+        "en": "Parameter/finding",
+        "ru": "Параметр / находка"
+      }
+    },
+    {
+      "id": "c_action",
+      "title": {
+        "en": "Action",
+        "ru": "Клиническое действие / значение"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "RWMAs on echocardiography or CMR",
+            "ru": "Нарушения локальной сократимости (RWMA) при эхокардиографии или МРТ сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "Raise suspicion of concomitant CAD, myocarditis, ARVC, NDLVC, or sarcoidosis",
+            "ru": "Вызывает подозрение на сопутствующую ИБС, миокардит, АКПЖ, НДЛЖКМП или саркоидоз"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Systolic impairment on echocardiography or CMR",
+            "ru": "Систолическая дисфункция при эхокардиографии или МРТ сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "Assessment of risk in DCM, NDLVC, and ARVC; evaluation of treatment efficacy",
+            "ru": "Оценка риска при ДКМП, НДЛЖКМП и АКПЖ; оценка эффективности лечения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Measurement of the wall thickness on echocardiography or CMR",
+            "ru": "Измерение толщины стенки при эхокардиографии или МРТ сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "Diagnosis of HCM (when echocardiography is inconclusive); risk stratification in HCM",
+            "ru": "Диагностика ГКМП (когда эхокардиография неубедительна); стратификация риска при ГКМП"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Diastolic dysfunction on echocardiography",
+            "ru": "Диастолическая дисфункция при эхокардиографии"
+          }
+        },
+        {
+          "text": {
+            "en": "Explain symptoms; evaluation of treatment efficacy",
+            "ru": "Объяснение симптомов; оценка эффективности лечения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Left atrial size on echocardiography",
+            "ru": "Размер левого предсердия при эхокардиографии"
+          }
+        },
+        {
+          "text": {
+            "en": "SCD risk prediction in HCM; systematic screening for AF in case of left atrial enlargement",
+            "ru": "Прогнозирование риска ВСС при ГКМП; систематический скрининг фибрилляции предсердий при дилатации левого предсердия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "LVOTO in HCM on resting/exercise echocardiography",
+            "ru": "Обструкция ВТЛЖ (LVOTO) при ГКМП в покое или при нагрузочной эхокардиографии"
+          }
+        },
+        {
+          "text": {
+            "en": "Explain symptoms; guide management",
+            "ru": "Объяснение симптомов; выбор тактики ведения и терапии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Non-invasive evaluation of pulmonary pressures",
+            "ru": "Неинвазивная оценка давления в легочной артерии"
+          }
+        },
+        {
+          "text": {
+            "en": "Explain symptoms; guide management",
+            "ru": "Объяснение симптомов; определение лечебной тактики"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "Tissue characterization on CMR",
+            "ru": "Тканевая характеристика миокарда при МРТ сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "Diagnosis; risk assessment",
+            "ru": "Диагностика; стратификация риска"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "Inflammation on CMR or 18F-FDG-PET",
+            "ru": "Признаки воспаления при МРТ сердца или ПЭТ с 18F-ФДГ"
+          }
+        },
+        {
+          "text": {
+            "en": "Diagnosis; evaluation of treatment efficacy in inflammatory cardiomyopathies",
+            "ru": "Диагностика; оценка эффективности лечения при воспалительных кардиомиопатиях"
+          }
+        }
+      ]
+    }
+  ]
+}

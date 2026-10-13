@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt10",
+  "guidelineId": "esc-acs-2023",
+  "number": "10",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for in-hospital management",
+    "ru": "Рекомендации по госпитальному ведению пациентов"
+  },
+  "tags": ["in-hospital", "ccu", "iccu", "ecg-monitoring", "discharge", "transfer", "echocardiography", "cmr"],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Logistical issues for hospital stay",
+        "ru": "Организационные вопросы пребывания в стационаре"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that all hospitals participating in the care of high-risk patients have an ICCU/CCU equipped to provide all required aspects of care, including treatment of ischaemia, severe heart failure, arrhythmias, and common comorbidities.",
+            "ru": "Рекомендовано, чтобы все стационары, участвующие в лечении пациентов высокого риска, имели отделение кардиореанимации/ИТ (ICCU/CCU), оснащенное для оказания всех необходимых видов помощи, включая терапию ишемии, тяжелой сердечной недостаточности, аритмий и сопутствующих заболеваний."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "It is recommended that high-risk patients (including all STEMI patients and very high-risk NSTE-ACS patients) have ECG monitoring for a minimum of 24 h.",
+            "ru": "Рекомендовано, чтобы пациентам высокого риска (включая всех пациентов со STEMI и NSTE-ACS очень высокого риска) проводился ЭКГ-мониторинг не менее 24 ч."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "It is recommended that high-risk patients with successful reperfusion therapy and an uncomplicated clinical course (including all STEMI patients and very high-risk NSTE-ACS patients) are kept in the CCU/ICCU for a minimum of 24 h whenever possible, after which they may be moved to a step-down monitored bed for an additional 24–48 h.",
+            "ru": "Рекомендовано, чтобы пациенты высокого риска с успешной реперфузией и неосложненным течением находились в блоке ИТ/ОРИТ не менее 24 ч (по возможности), после чего могут быть переведены в палату с мониторингом еще на 24–48 ч."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Discharge of selected high-risk patients within 48–72 h should be considered if early rehabilitation and adequate follow-up are arranged.",
+            "ru": "Выписку отобранных пациентов высокого риска в течение 48–72 ч следует рассмотреть при организации ранней реабилитации и надлежащего наблюдения."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Same-day transfer in selected stable patients after successful and uneventful PCI should be considered.",
+            "ru": "Перевод в день вмешательства у отобранных стабильных пациентов после успешного неосложненного ЧКВ следует рассмотреть."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Imaging",
+        "ru": "Визуализация"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "Routine echocardiography is recommended during hospitalization to assess regional and global LV function, detect mechanical complications, and exclude LV thrombus.",
+            "ru": "Рутинная эхокардиография рекомендована во время госпитализации для оценки регионарной и глобальной функции ЛЖ, выявления механических осложнений и исключения тромбоза ЛЖ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "When echocardiography is suboptimal/inconclusive, CMR imaging may be considered.",
+            "ru": "Если эхокардиография субоптимальна или неубедительна, можно рассмотреть МРТ сердца (CMR)."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "page": 34,
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

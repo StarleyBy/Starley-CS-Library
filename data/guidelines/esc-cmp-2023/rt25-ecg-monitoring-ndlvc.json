@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt25-ecg-monitoring-ndlvc",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 25",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for resting and ambulatory electrocardiogram monitoring in patients with non-dilated left ventricular cardiomyopathy",
+    "ru": "Рекомендация по ЭКГ покоя и амбулаторному мониторированию ЭКГ у пациентов с недилатированной кардиомиопатией левого желудочка"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "ndlvc",
+    "ecg",
+    "holter",
+    "ambulatory-monitoring",
+    "risk-stratification"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendation for resting and ambulatory electrocardiogram monitoring in patients with non-dilated left ventricular cardiomyopathy",
+        "ru": "Рекомендация по ЭКГ и амбулаторному мониторированию ЭКГ у пациентов с НДЛЖКМП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Ambulatory ECG monitoring is recommended in patients with NDLVC annually or when there is a change in clinical status, to aid in management and risk stratification.",
+            "ru": "Амбулаторное мониторирование ЭКГ рекомендуется пациентам с НДЛЖКМП ежегодно либо при изменении клинического статуса для оптимизации лечения и стратификации риска."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

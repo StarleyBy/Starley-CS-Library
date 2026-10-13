@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt29-achd",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 29",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for patients with AF and congenital heart disease",
+    "ru": "Рекомендации для пациентов с фибрилляцией предсердий и врожденными пороками сердца"
+  },
+  "tags": [
+    "af",
+    "afl",
+    "achd",
+    "congenital-heart-disease",
+    "fontan",
+    "systemic-rv",
+    "anticoagulation"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for patients with AF and congenital heart disease",
+        "ru": "Рекомендации для пациентов с ФП и врожденными пороками сердца"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Oral anticoagulation should be considered in all adult congenital heart disease patients with AF/AFL and intracardiac repair, cyanosis, Fontan palliation, or systemic right ventricle to prevent ischaemic stroke and thromboembolism, regardless of other thromboembolic risk factors.",
+            "ru": "Оральная антикоагулянтная терапия должна рассматриваться у всех взрослых пациентов с ВПС при наличии ФП/ТП и внутрисердечной коррекции порока, цианоза, паллиативной операции Фонтена или системного правого желудочка для профилактики ишемического инсульта и тромбоэмболии, независимо от наличия других факторов тромбоэмболического риска."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

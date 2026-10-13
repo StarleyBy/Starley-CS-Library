@@ -68,8 +68,9 @@ const MediaInspector = {
     const lightboxCaptionBottom = lightbox.querySelector('.lightbox-caption-bottom .caption-text');
     const backLink = document.getElementById('lightbox-back-link');
 
-    // Dynamic Localization based on active document language
-    const isRu = document.documentElement.lang === 'ru';
+    // Dynamic Localization based on active document language or quiz state
+    const isRu = (document.documentElement.lang === 'ru') || 
+                 (typeof state !== 'undefined' && state && state.settings && state.settings.lang === 'Ru');
     
     lightbox.querySelector('.lightbox-caption-top').textContent = isRu ? 'Инспектор изображений' : 'Image Inspector';
     
@@ -84,12 +85,22 @@ const MediaInspector = {
     document.getElementById('lightbox-reset-btn').title = isRu ? 'Сбросить зум' : 'Reset Zoom';
     document.getElementById('lightbox-close-btn').title = isRu ? 'Закрыть' : 'Close';
 
-    backLink.innerHTML = `<i class="fas fa-arrow-left"></i> ${isRu ? 'К тексту' : 'Back to Text'}`;
-    backLink.href = `#${imgEl.id}`;
+    const imgSrc = typeof imgEl === 'string' ? imgEl : (imgEl.src || imgEl.getAttribute?.('src') || '');
+    const imgAlt = typeof imgEl === 'string' ? '' : (imgEl.alt || '');
+    const imgId = typeof imgEl === 'string' ? '' : (imgEl.id || '');
 
-    lightboxImg.src = imgEl.src;
-    lightboxImg.alt = imgEl.alt || '';
-    lightboxCaptionBottom.innerHTML = captionHTML || imgEl.alt || (isRu ? 'Изображение без подписи' : 'Image without caption');
+    if (imgId) {
+      backLink.style.display = 'inline-flex';
+      backLink.innerHTML = `<i class="fas fa-arrow-left"></i> ${isRu ? 'К тексту' : 'Back to Text'}`;
+      backLink.href = `#${imgId}`;
+    } else {
+      backLink.style.display = 'none';
+      backLink.href = '#';
+    }
+
+    lightboxImg.src = imgSrc;
+    lightboxImg.alt = imgAlt;
+    lightboxCaptionBottom.innerHTML = captionHTML || imgAlt || (isRu ? 'Изображение' : 'Image');
     
     // Remove contrast boost state by default
     lightboxImg.classList.remove('contrast-boosted');
@@ -109,7 +120,7 @@ const MediaInspector = {
       startY: 0,
       touchStartDist: 0,
       touchStartScale: 1,
-      sourceImg: imgEl
+      sourceImg: typeof imgEl === 'object' ? imgEl : null
     };
 
     // Reset transform on initial show

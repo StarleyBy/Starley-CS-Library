@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.t05-staff-requirements",
+  "guidelineId": "esc-achd-2020",
+  "number": "5",
+  "type": "grid",
+  "title": {
+    "en": "Table 5: Staff requirements for specialist ACHD centres",
+    "ru": "Таблица 5: Требования к персоналу специализированных экспертных центров ВЗПС"
+  },
+  "tags": [
+    "achd",
+    "staff",
+    "centre-requirements",
+    "specialist",
+    "multidisciplinary"
+  ],
+  "columns": [
+    {
+      "id": "discipline",
+      "title": { "en": "Discipline", "ru": "Специальность / Дисциплина" }
+    },
+    {
+      "id": "required_number",
+      "title": { "en": "Required number", "ru": "Требуемое число специалистов" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Adult/paediatric cardiologist with ACHD certification",
+            "ru": "Взрослый/детский кардиолог с сертификацией по ВЗПС"
+          }
+        },
+        {
+          "text": { "en": "≥2", "ru": "≥2" },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "ACHD imaging specialist (certified in TTE/TOE, CMR, CCT)",
+            "ru": "Специалист по визуализации при ВЗПС (сертифицирован по ТТЭхоКГ/ЧПЭхоКГ, МРТ сердца, КТ сердца)"
+          }
+        },
+        {
+          "text": { "en": "≥2", "ru": "≥2" },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Congenital interventional cardiologist",
+            "ru": "Интервенционный кардиолог по врожденным порокам"
+          }
+        },
+        {
+          "text": { "en": "≥2", "ru": "≥2" },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "CHD surgeon",
+            "ru": "Кардиохирург по врожденным порокам сердца"
+          }
+        },
+        {
+          "text": { "en": "≥2", "ru": "≥2" },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Anaesthesiologist with CHD experience and expertise",
+            "ru": "Анестезиолог с опытом и экспертизой при ВПС"
+          }
+        },
+        {
+          "text": { "en": "≥2", "ru": "≥2" },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Specialist nurse (if national professional nursing bodies allow specialization)",
+            "ru": "Специализированная медицинская сестра (если национальные регуляторы допускают специализацию)"
+          }
+        },
+        {
+          "text": { "en": "≥2", "ru": "≥2" },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Invasive electrophysiologist with ACHD experience",
+            "ru": "Интервенционный электрофизиолог с опытом ведения пациентов с ВЗПС"
+          }
+        },
+        {
+          "text": { "en": "≥1", "ru": "≥1" },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "Pulmonary vascular disease expert",
+            "ru": "Эксперт по легочно-сосудистым заболеваниям (легочной гипертензии)"
+          }
+        },
+        {
+          "text": { "en": "≥1", "ru": "≥1" },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "Clinical geneticist",
+            "ru": "Клинический генетик"
+          }
+        },
+        {
+          "text": { "en": "≥1", "ru": "≥1" },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        {
+          "text": {
+            "en": "Psychologist",
+            "ru": "Психолог"
+          }
+        },
+        {
+          "text": { "en": "≥1", "ru": "≥1" },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r11",
+      "cells": [
+        {
+          "text": {
+            "en": "Social worker",
+            "ru": "Социальный работник"
+          }
+        },
+        {
+          "text": { "en": "≥1", "ru": "≥1" },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "r12",
+      "cells": [
+        {
+          "text": {
+            "en": "Palliative care team",
+            "ru": "Служба / бригада паллиативной помощи"
+          }
+        },
+        {
+          "text": { "en": "Available / Access", "ru": "Доступность / В наличии" },
+          "tone": "neutral"
+        }
+      ]
+    }
+  ]
+}

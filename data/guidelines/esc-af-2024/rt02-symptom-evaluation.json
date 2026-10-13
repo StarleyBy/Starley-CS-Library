@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt02-symptom-evaluation",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 2",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for symptom evaluation in patients with AF",
+    "ru": "Рекомендации по оценке симптомов у пациентов с фибрилляцией предсердий"
+  },
+  "tags": [
+    "af",
+    "symptoms",
+    "ehra",
+    "shared-decision-making"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for symptom evaluation in patients with AF",
+        "ru": "Рекомендации по оценке симптомов у пациентов с ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Evaluating the impact of AF-related symptoms is recommended before and after major changes in treatment to inform shared decision-making and guide treatment choices.",
+            "ru": "Оценка влияния симптомов, связанных с ФП, рекомендуется до и после существенных изменений в лечении для обеспечения совместного принятия решений и выбора метода терапии."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

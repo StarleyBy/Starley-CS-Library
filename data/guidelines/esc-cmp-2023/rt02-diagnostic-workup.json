@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt02-diagnostic-workup",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 2",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for diagnostic work-up in cardiomyopathies",
+    "ru": "Рекомендации по плану диагностического обследования при кардиомиопатиях"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "diagnostic-workup",
+    "multiparametric",
+    "pedigree",
+    "family-history"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for diagnostic work-up in cardiomyopathies",
+        "ru": "Рекомендации по диагностическому обследованию при кардиомиопатиях"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that all patients with suspected or established cardiomyopathy undergo systematic evaluation using a multiparametric approach that includes clinical evaluation, pedigree analysis, ECG, Holter monitoring, laboratory tests, and multimodality imaging.",
+            "ru": "Рекомендуется, чтобы все пациенты с подозрением на кардиомиопатию или установленным диагнозом проходили систематическую оценку с применением мультипараметрического подхода, включающего клинический осмотр, генеалогический анализ (родословную), ЭКГ, суточное мониторирование ЭКГ, лабораторные тесты и мультимодальную визуализацию."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "It is recommended that all patients with suspected cardiomyopathy undergo evaluation of family history and that a three- to four-generation family tree is created to aid in diagnosis, provide clues to underlying aetiology, determine inheritance pattern, and identify at-risk relatives.",
+            "ru": "Рекомендуется, чтобы всем пациентам с подозрением на кардиомиопатию проводилась оценка семейного анамнеза с составлением родословной в 3–4 поколениях для верификации диагноза, выявления этиологии, определения типа наследования и выявления родственников группы риска."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

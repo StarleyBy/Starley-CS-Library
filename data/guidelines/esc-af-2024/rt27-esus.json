@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt27-esus",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 27",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for patients with embolic stroke of unknown source",
+    "ru": "Рекомендации для пациентов с эмболическим инсультом из неустановленного источника"
+  },
+  "tags": [
+    "af",
+    "esus",
+    "stroke",
+    "monitoring",
+    "anticoagulation"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for patients with embolic stroke of unknown source",
+        "ru": "Рекомендации для пациентов с эмболическим инсультом из неустановленного источника (ESUS)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Prolonged monitoring for AF is recommended in patients with ESUS to inform on AF treatment decisions.",
+            "ru": "Длительное мониторирование ритма для выявления ФП рекомендуется пациентам с эмболическим инсультом из неустановленного источника (ESUS) для определения дальнейшей тактики лечения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Initiation of oral anticoagulation in ESUS patients without documented AF is not recommended due to lack of efficacy in preventing ischaemic stroke and thromboembolism.",
+            "ru": "Начало терапии оральными антикоагулянтами у пациентов с ESUS без документированной ФП не рекомендуется из-за отсутствия доказанной эффективности в предотвращении ишемического инсульта и тромбоэмболий."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    }
+  ]
+}

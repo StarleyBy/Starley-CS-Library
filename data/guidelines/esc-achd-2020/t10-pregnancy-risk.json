@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.t10-pregnancy-risk",
+  "guidelineId": "esc-achd-2020",
+  "number": "10",
+  "type": "grid",
+  "title": {
+    "en": "Table 10: Congenital heart disease with high risk and extremely high risk for pregnancy",
+    "ru": "Таблица 10: Врожденные пороки сердца с высоким и чрезвычайно высоким риском при беременности"
+  },
+  "tags": [
+    "achd",
+    "pregnancy",
+    "mwho",
+    "maternal-mortality",
+    "pah",
+    "fontan",
+    "aortic-dilatation"
+  ],
+  "columns": [
+    {
+      "id": "mwho3",
+      "title": {
+        "en": "Significantly increased risk (mWHO class III) [Event rate 19–27%]",
+        "ru": "Значительно повышенный риск (mWHO III) [Частота событий 19–27%]"
+      }
+    },
+    {
+      "id": "mwho4",
+      "title": {
+        "en": "Extremely high risk (mWHO class IV) [Event rate 40–100% - Pregnancy contraindicated]",
+        "ru": "Чрезвычайно высокий риск (mWHO IV) [Частота событий 40–100% - Беременность противопоказана]"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        { "text": { "en": "Unrepaired cyanotic heart disease", "ru": "Неоперированные цианотические пороки сердца" } },
+        { "text": { "en": "Pulmonary arterial hypertension", "ru": "Легочная артериальная гипертензия (любой этиологии)" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        { "text": { "en": "Moderate LV impairment (EF 30–45%)", "ru": "Умеренная дисфункция ЛЖ (ФВ 30–45%)" } },
+        { "text": { "en": "Severe LV impairment (EF <30% or NYHA class III–IV)", "ru": "Тяжелая дисфункция ЛЖ (ФВ <30% или III–IV ФК по NYHA)" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        { "text": { "en": "Systemic RV with good or mildly decreased ventricular function", "ru": "Системный ПЖ с хорошей или умеренно сниженной функцией" } },
+        { "text": { "en": "Systemic RV with moderate or severely decreased ventricular function", "ru": "Системный ПЖ с умеренно или тяжело сниженной функцией" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        { "text": { "en": "Fontan circulation. If the patient is otherwise well and the cardiac condition uncomplicated", "ru": "Гемодинамика Фонтена (при неосложненном состоянии и хорошем самочувствии)" } },
+        { "text": { "en": "Fontan with any complication", "ru": "Кровообращение Фонтена с любыми осложнениями" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        { "text": { "en": "Severe asymptomatic AS", "ru": "Тяжелый бессимптомный аортальный стеноз" } },
+        { "text": { "en": "Severe symptomatic AS", "ru": "Тяжелый симптомный аортальный стеноз" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        { "text": { "en": "Moderate mitral stenosis", "ru": "Умеренный митральный стеноз" } },
+        { "text": { "en": "Severe mitral stenosis", "ru": "Тяжелый митральный стеноз" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Moderate aortic dilatation (40–45 mm in Marfan syndrome or other HTAD; 45–50 mm in BAV; 20–25 mm/m² in Turner syndrome)",
+            "ru": "Умеренная дилатация аорты (40–45 мм при синдроме Марфана/HTAD; 45–50 мм при ДАК; 20–25 мм/м² при синдроме Тернера)"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe aortic dilatation (>45 mm in Marfan syndrome or other HTAD; >50 mm in BAV; >25 mm/m² in Turner syndrome)",
+            "ru": "Тяжелая дилатация аорты (>45 мм при синдроме Марфана/HTAD; >50 мм при ДАК; >25 мм/м² при синдроме Тернера)"
+          },
+          "tone": "red"
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        { "text": { "en": "Mechanical valve", "ru": "Механический протез клапана сердца" } },
+        { "text": { "en": "Severe (re-)coarctation", "ru": "Тяжелая коарктация (или рекоарктация) аорты" }, "tone": "red" }
+      ]
+    }
+  ]
+}

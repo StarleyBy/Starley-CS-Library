@@ -811,7 +811,7 @@ MRI is a primary tool for the noninvasive evaluation of adrenal masses. When an 
 
 Cardiac MRI, performed with cardiac gating to eliminate the motion of the heart, is also used increasingly for surgical planning in the removal of large central mediastinal masses and evaluation of structures adjacent to the heart that are not well seen on CT scans.
 
-<span id="fig-3-3"></span>![](_page_21_Figure_2.jpeg)
+<span id="fig-3-3"></span>![](_page_21_Picture_2.jpeg)
 
 **Figure 3-3.** Coronal and sagittal MRI images of the chest have less spatial resolution than CT images, whereas contrast resolution is greater. Contrast enhancement on coronal image (left) reveals small pleural soft tissue nodules above the black‑appearing fascial plane at the right hemidiaphragm. Mediastinal structures are well seen with enhancement of vascular structures. Sagittal T2‑weighted image (right) reveals intact diaphragmatic fascia. Cortical bone is visualized as a black signal void.
 
@@ -893,7 +893,7 @@ It is helpful to be familiar with classic lobar collapse patterns that are speci
 
 The periphery of the lung is covered in visceral pleura, along the chest wall and each fissure. Fissures are frequently incomplete. Common anatomic variants include the superior and inferior accessory fissures, the azygos fissure (when azygos vein migration is incomplete), and the left minor fissure. Unlike the cobblestone structure of the lung, the pleura is a primary source of linear structure in the lungs. On CT images, fissures are seen as avascular planes on 5‑mm images and as fine white lines on images up to approximately 2 mm in thickness. Mediastinal pleural surfaces are least well seen by CT and benefit from MRI, whereas fissures are not visualized on many MRI sequences unless they are abnormally thickened ([Fig. 3-16](#fig-3-16)).
 
-<span id="fig-3-16"></span>![](_page_26_Figure_7.jpeg)
+<span id="fig-3-16"></span>![](_page_26_Picture_7.jpeg)
 
 **Figure 3-16.** Transaxial HRCT image of the chest rendered for pleura reveals detail regarding airways seen here, with minimal dilatation in the right lower lobe lung parenchyma, and precisely defines the location of pleural fissures visualized as thin white lines. The right middle lobe only exists within the circle of pleura defining the minor fissure. Lung parenchyma surrounding the minor fissure is in the right upper lobe. Subpleural nodules are noted in the right lower lobe. HRCT images for lung parenchyma are not appropriate for the detection of calcium, as suggested by this image.
 
@@ -976,7 +976,7 @@ The recognition of malignant potential in small nodules has increased through mo
 
 On CT, the presence of lepidic growth can have the appearance of well demarcated but subtle ground‑glass opacity, which, by definition, allows visualization of vessels and airways within the nodule. The importance of these subtle opacities, particularly when present with findings suggestive of more advanced lung cancer, has caused them to be reclassified as nonsolid nodules. As the tumor increases, such nodules develop areas of more solid opacity that can result in a part‑solid nodule. In this context, the development of bars corresponds to invasive adenocarcinoma. Small cysts, some of which may be indistinguishable from bronchi, and focal extensions to pleural surfaces, with and without deflection of the pleural reflection, are also seen. Since these lesions can be unifocal or multifocal and require different treatment strategies, extensive follow‑up CT scanning is performed. Comparison of size measurements also has become more complex as tumor evolution has become better demonstrated on CT scans. Tumor progression may be expressed by increase in density of part or all of the well‑demarcated ground‑glass opacity accompanied by decrease in size of the lesion or a part of the lesion. Thin‑section reconstruction in lung kernel provides the most consistent data for comparison. Short‑term follow‑up reveals resolution of many such opacities, particularly after a course of antibiotic therapy. In the case of persistent ground‑glass opacity, more than 2 years of follow‑up may be required to prove the lack of growth over time.
 
-<span id="fig-3-21"></span>![](_page_28_Figure_10.jpeg)
+<span id="fig-3-21"></span>![](_page_28_Picture_10.jpeg)
 
 **Figure 3-21.** Transaxial 1‑mm HRCT image of the chest rendered for lungs at the level of the aortic arch reveals adenocarcinoma with AIS features in the periphery of the left upper lobe. It contains a solid component anteriorly, ground‑glass opacity medially and posteriorly, along with a small cystic feature centrally and focal radiations extending to the pleural surface anteriorly and laterally.
 

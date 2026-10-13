@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t18-echo-features-aetiologies-hcm",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 18",
+  "type": "grid",
+  "title": {
+    "en": "Echocardiographic features that suggest specific aetiologies in hypertrophic cardiomyopathy",
+    "ru": "Эхокардиографические признаки, указывающие на специфическую этиологию при фенотипе гипертрофической кардиомиопатии"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "hcm",
+    "echocardiography",
+    "red-flags",
+    "amyloidosis",
+    "fabry",
+    "danon",
+    "pompe",
+    "apical-sparing"
+  ],
+  "columns": [
+    {
+      "id": "c_finding",
+      "title": {
+        "en": "Finding",
+        "ru": "Эхокардиографический признак"
+      }
+    },
+    {
+      "id": "c_diseases",
+      "title": {
+        "en": "Specific diseases to be considered",
+        "ru": "Предполагаемые специфические заболевания"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Increased interatrial septum thickness",
+            "ru": "Утолщение межпредсердной перегородки"
+          }
+        },
+        {
+          "text": {
+            "en": "Amyloidosis",
+            "ru": "Амилоидоз сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Increased AV valve thickness",
+            "ru": "Утолщение створок атриовентрикулярных клапанов"
+          }
+        },
+        {
+          "text": {
+            "en": "Amyloidosis; Anderson–Fabry disease",
+            "ru": "Амилоидоз сердца; болезнь Андерсона–Фабри"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Increased RV free wall thickness",
+            "ru": "Утолщение свободной стенки правого желудочка"
+          }
+        },
+        {
+          "text": {
+            "en": "Amyloidosis, myocarditis, Anderson–Fabry disease, Noonan syndrome, and related disorders",
+            "ru": "Амилоидоз сердца, миокардит, болезнь Андерсона–Фабри, синдром Нунан и ассоциированные RAS-патии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Mild-to-moderate pericardial effusion",
+            "ru": "Перикардиальный выпот легкой или умеренной степени"
+          }
+        },
+        {
+          "text": {
+            "en": "Amyloidosis, myocarditis/myopericarditis",
+            "ru": "Амилоидоз сердца, миокардит / миоперикардит"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Ground-glass appearance of ventricular myocardium on 2D echocardiography",
+            "ru": "Симптом «матового стекла» (гранулярная гиперэхогенность) миокарда при 2D-ЭхоКГ"
+          }
+        },
+        {
+          "text": {
+            "en": "Amyloidosis",
+            "ru": "Амилоидоз сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Concentric LVH",
+            "ru": "Симметричная концентрическая ГЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "Glycogen storage disease, Anderson–Fabry disease, PRKAG2 variants, Friedreich ataxia",
+            "ru": "Болезни накопления гликогена, болезнь Андерсона–Фабри, мутации гена PRKAG2, атаксия Фридрейха"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Extreme concentric LVH (wall thickness ≥30 mm)",
+            "ru": "Экстремальная концентрическая ГЛЖ (толщина стенки ≥30 мм)"
+          }
+        },
+        {
+          "text": {
+            "en": "Danon disease, Pompe disease",
+            "ru": "Болезнь Данона, болезнь Помпе"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "Global LV hypokinesia (with or without LV dilatation)",
+            "ru": "Диффузная гипокинезия ЛЖ (с дилатацией или без нее)"
+          }
+        },
+        {
+          "text": {
+            "en": "Mitochondrial disease, TTR-related amyloidosis, PRKAG2 variants, Danon disease, myocarditis, advanced sarcomeric HCM, Anderson–Fabry disease, Friedreich ataxia",
+            "ru": "Митохондриальные болезни, ATTR-амилоидоз, мутации PRKAG2, болезнь Данона, миокардит, терминальная стадия (burn-out) саркомерной ГКМП, болезнь Андерсона–Фабри, атаксия Фридрейха"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "RVOTO",
+            "ru": "Обструкция выходного тракта правого желудочка (RVOTO)"
+          }
+        },
+        {
+          "text": {
+            "en": "Noonan syndrome and associated disorders",
+            "ru": "Синдром Нунан и ассоциированные нарушения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        {
+          "text": {
+            "en": "Apical sparing pattern on longitudinal strain imaging",
+            "ru": "Феномен верхушечного сохранения («apical sparing» / картина «вишенки на торте») при оценке продольной деформации (GLS)"
+          }
+        },
+        {
+          "text": {
+            "en": "Amyloidosis",
+            "ru": "Амилоидоз сердца"
+          }
+        }
+      ]
+    }
+  ]
+}

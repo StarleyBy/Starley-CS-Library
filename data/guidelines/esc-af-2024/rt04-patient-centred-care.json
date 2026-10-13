@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt04-patient-centred-care",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 4",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for patient-centred care and education",
+    "ru": "Рекомендации по пациентоориентированной помощи и обучению пациентов"
+  },
+  "tags": [
+    "af",
+    "patient-centred",
+    "education",
+    "shared-decision-making",
+    "af-care",
+    "multidisciplinary"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for patient-centred care and education",
+        "ru": "Рекомендации по пациентоориентированной помощи и обучению пациентов"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Education directed to patients, family members, caregivers, and healthcare professionals is recommended to optimize shared decision-making, facilitating open discussion of both the benefit and risk associated with each treatment option.",
+            "ru": "Обучение пациентов, членов их семей, ухаживающих лиц и медицинских работников рекомендуется для оптимизации совместного принятия решений, способствуя открытому обсуждению пользы и рисков каждого метода лечения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Access to patient-centred management according to the AF-CARE principles is recommended in all patients with AF, regardless of gender, ethnicity, and socioeconomic status, to ensure equality in healthcare provision and improve outcomes.",
+            "ru": "Доступ к пациентоориентированному ведению в соответствии с принципами AF-CARE рекомендуется всем пациентам с ФП независимо от пола, этнической принадлежности и социально-экономического статуса для обеспечения равенства в оказании медицинской помощи и улучшения исходов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Patient-centred AF management with a multidisciplinary approach should be considered in all patients with AF to optimize management and improve outcomes.",
+            "ru": "Пациентоориентированное ведение ФП с использованием мультидисциплинарного подхода следует рассматривать у всех пациентов с ФП для оптимизации терапии и улучшения исходов."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

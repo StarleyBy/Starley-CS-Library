@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt16-electrical-cardioversion",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 16",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for electrical cardioversion of AF",
+    "ru": "Рекомендации по электрической кардиоверсии фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "cardioversion",
+    "electrical-cardioversion",
+    "diagnostic-tool"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for electrical cardioversion of AF",
+        "ru": "Рекомендации по электрической кардиоверсии ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Electrical cardioversion as a diagnostic tool should be considered in patients with persistent AF where there is uncertainty about the value of sinus rhythm restoration on symptoms, or to assess improvement in left ventricular function.",
+            "ru": "Электрическую кардиоверсию в качестве диагностического инструмента следует рассматривать у пациентов с персистирующей ФП при неопределенности в отношении влияния восстановления синусового ритма на симптомы или для оценки улучшения функции левого желудочка."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

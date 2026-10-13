@@ -1,0 +1,456 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.t04-new-recommendations",
+  "guidelineId": "esc-acs-2023",
+  "number": "4 (New)",
+  "type": "recommendations",
+  "title": {
+    "en": "New recommendations in 2023 ESC Guidelines for the management of acute coronary syndromes",
+    "ru": "Новые рекомендации в руководстве ESC 2023 по ведению острого коронарного синдрома"
+  },
+  "tags": [
+    "new",
+    "dapt",
+    "p2y12",
+    "cardiac-arrest",
+    "ohca",
+    "multivessel",
+    "shock",
+    "complications",
+    "cancer",
+    "colchicine",
+    "patient-perspectives"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for antiplatelet and anticoagulant therapy in acute coronary syndrome",
+        "ru": "Рекомендации по антиагрегантной и антикоагулянтной терапии при ОКС"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "If patients presenting with ACS stop DAPT to undergo coronary artery bypass grafting, it is recommended they resume DAPT after surgery for at least 12 months.",
+            "ru": "Если пациенты с ОКС прекращают ДАТТ для проведения коронарного шунтирования, рекомендовано возобновить ДАТТ после операции как минимум на 12 месяцев."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In older ACS patients, especially if HBR, clopidogrel as the P2Y12 receptor inhibitor may be considered.",
+            "ru": "У пожилых пациентов с ОКС, особенно при высоком риске кровотечений (HBR), можно рассмотреть клопидогрел в качестве ингибитора рецепторов P2Y12."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Recommendations for alternative antithrombotic therapy regimens",
+        "ru": "Рекомендации по альтернативным режимам антитромботической терапии"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients who are event-free after 3–6 months of DAPT and who are not high ischaemic risk, single antiplatelet therapy (preferably with a P2Y12 receptor inhibitor) should be considered.",
+            "ru": "У пациентов без ишемических событий через 3–6 месяцев ДАТТ и не имеющих высокого ишемического риска следует рассмотреть монотерапию антиагрегантом (предпочтительно ингибитором рецепторов P2Y12)."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "P2Y12 inhibitor monotherapy may be considered as an alternative to aspirin monotherapy for long-term treatment.",
+            "ru": "Монотерапию ингибитором P2Y12 можно рассмотреть в качестве альтернативы монотерапии аспирином для длительного лечения."
+          },
+          "class": "IIb",
+          "level": "A"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In HBR patients, aspirin or P2Y12 receptor inhibitor monotherapy after 1 month of DAPT may be considered.",
+            "ru": "У пациентов с высоким риском кровотечений (HBR) можно рассмотреть монотерапию аспирином или ингибитором рецепторов P2Y12 после 1 месяца ДАТТ."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In patients requiring OAC, withdrawing antiplatelet therapy at 6 months while continuing OAC may be considered.",
+            "ru": "У пациентов, нуждающихся в пероральных антикоагулянтах (ОАК), можно рассмотреть отмену антиагрегантной терапии через 6 месяцев при продолжении приема ОАК."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "De-escalation of antiplatelet therapy in the first 30 days after an ACS event is not recommended.",
+            "ru": "Деэскалация антиагрегантной терапии в первые 30 дней после развития ОКС не рекомендована."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Recommendations for cardiac arrest and out-of-hospital cardiac arrest",
+        "ru": "Рекомендации при остановке сердца и внебольничной остановке сердца"
+      },
+      "rows": [
+        {
+          "id": "r08",
+          "text": {
+            "en": "Evaluation of neurological prognosis (no earlier than 72 h after admission) is recommended in all comatose survivors after cardiac arrest.",
+            "ru": "Оценка неврологического прогноза (не ранее чем через 72 часа после поступления) рекомендована всем выжившим пациентам в коме после остановки сердца."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Transport of patients with out-of-hospital cardiac arrest to a cardiac arrest centre according to local protocol should be considered.",
+            "ru": "Транспортировку пациентов с внебольничной остановкой сердца в специализированный центр по лечению остановки сердца согласно местному протоколу следует рассмотреть."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en": "Recommendations for technical aspects of invasive strategies",
+        "ru": "Рекомендации по техническим аспектам инвазивных стратегий"
+      },
+      "rows": [
+        {
+          "id": "r10",
+          "text": {
+            "en": "In patients with spontaneous coronary artery dissection, PCI is recommended only for patients with symptoms and signs of ongoing myocardial ischaemia, a large area of myocardium in jeopardy, and reduced antegrade flow.",
+            "ru": "У пациентов со спонтанной диссекцией коронарных артерий (SCAD) ЧКВ рекомендовано только при наличии симптомов и признаков продолжающейся ишемии миокарда, большой площади миокарда под угрозой и сниженного антеградного кровотока."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "Intravascular imaging should be considered to guide PCI.",
+            "ru": "Внутрисосудистую визуализацию следует рассмотреть для контроля и оптимизации ЧКВ."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "Intravascular imaging (preferably optical coherence tomography) may be considered in patients with ambiguous culprit lesions.",
+            "ru": "Внутрисосудистую визуализацию (предпочтительно оптическую когерентную томографию / ОКТ) можно рассмотреть у пациентов с неясными (неоднозначными) виновными поражениями."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "title": {
+        "en": "Recommendations for multivessel disease in ACS patients presenting in cardiogenic shock",
+        "ru": "Рекомендации при многососудистом поражении у пациентов с ОКС и кардиогенным шоком"
+      },
+      "rows": [
+        {
+          "id": "r13",
+          "text": {
+            "en": "Staged PCI of non-IRA should be considered.",
+            "ru": "Поэтапное ЧКВ невиновных артерий (non-IRA) следует рассмотреть."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "title": {
+        "en": "Recommendations for multivessel disease in haemodynamically stable STEMI patients undergoing primary PCI",
+        "ru": "Рекомендации при многососудистом поражении у гемодинамически стабильных пациентов с STEMI при первичном ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r14",
+          "text": {
+            "en": "It is recommended that PCI of the non-IRA is based on angiographic severity.",
+            "ru": "Рекомендовано основывать решение о ЧКВ невиновной артерии (non-IRA) на ее ангиографической тяжести."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "Invasive epicardial functional assessment of non-culprit segments of the IRA is not recommended during the index procedure.",
+            "ru": "Инвазивная эпикардиальная функциональная оценка невиновных сегментов инфаркт-связанной артерии (IRA) во время индексной процедуры не рекомендована."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "title": {
+        "en": "Recommendations for acute coronary syndrome complications",
+        "ru": "Рекомендации по осложнениям острого коронарного синдрома"
+      },
+      "rows": [
+        {
+          "id": "r16",
+          "text": {
+            "en": "Implantation of a permanent pacemaker is recommended when high-degree AV block does not resolve within a waiting period of at least 5 days after MI.",
+            "ru": "Имплантация постоянного электрокардиостимулятора рекомендована, если АВ-блокада высокой степени не разрешается в течение периода ожидания не менее 5 дней после инфаркта миокарда."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r17",
+          "text": {
+            "en": "Cardiac magnetic resonance imaging should be considered in patients with equivocal echocardiographic images or in cases of high clinical suspicion of LV thrombus.",
+            "ru": "Магнитно-резонансную томографию сердца (МРТ) следует рассмотреть у пациентов с сомнительными эхокардиографическими данными или при высоком клиническом подозрении на тромбоз левого желудочка."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r18",
+          "text": {
+            "en": "Following an acute anterior MI, a contrast echocardiogram may be considered for the detection of LV thrombus if the apex is not well visualized on echocardiography.",
+            "ru": "После острого переднего инфаркта миокарда можно рассмотреть контрастную эхокардиографию для выявления тромба ЛЖ, если верхушка недостаточно хорошо визуализируется при стандартном ЭхоКГ."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r19",
+          "text": {
+            "en": "In selected patients with high-degree AV block in the context of an anterior wall MI and acute heart failure, early device implantation (cardiac resynchronization therapy—defibrillator/pacemaker) may be considered.",
+            "ru": "У отобранных пациентов с АВ-блокадой высокой степени на фоне переднего ИМ и острой сердечной недостаточности можно рассмотреть раннюю имплантацию устройства (сердечная ресинхронизирующая терапия — дефибриллятор/кардиостимулятор / CRT-D/P)."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r20",
+          "text": {
+            "en": "In patients with recurrent life-threatening ventricular arrhythmias, sedation or general anaesthesia to reduce sympathetic drive may be considered.",
+            "ru": "У пациентов с рецидивирующими жизнеугрожающими желудочковыми аритмиями можно рассмотреть седацию или общую анестезию для снижения симпатической стимуляции."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s08",
+      "title": {
+        "en": "Recommendations for acute coronary syndrome comorbid conditions",
+        "ru": "Рекомендации при сопутствующих патологиях у пациентов с ОКС"
+      },
+      "rows": [
+        {
+          "id": "r21",
+          "text": {
+            "en": "It is recommended to base the choice of long-term glucose-lowering treatment on the presence of comorbidities, including heart failure, chronic kidney disease, and obesity.",
+            "ru": "Рекомендовано основывать выбор длительной сахароснижающей терапии на наличии сопутствующих заболеваний, включая сердечную недостаточность, хроническую болезнь почек и ожирение."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r22",
+          "text": {
+            "en": "For frail older patients with comorbidities, a holistic approach is recommended to individualize interventional and pharmacological treatments after careful evaluation of the risks and benefits.",
+            "ru": "У пожилых хрупких (старческая астения) пациентов с сопутствующими патологиями рекомендован целостный (холистический) подход для индивидуализации инвазивного и медикаментозного лечения после тщательной оценки рисков и пользы."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r23",
+          "text": {
+            "en": "An invasive strategy is recommended in cancer patients presenting with high-risk ACS with expected survival ≥6 months.",
+            "ru": "Инвазивная стратегия рекомендована онкологическим пациентам с ОКС высокого риска при ожидаемой продолжительности жизни ≥6 месяцев."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r24",
+          "text": {
+            "en": "A temporary interruption of cancer therapy is recommended in patients in whom the cancer therapy is suspected to be a contributing cause of ACS.",
+            "ru": "Временное прерывание противоопухолевой терапии рекомендовано пациентам, у которых данная терапия подозревается как провоцирующая причина развития ОКС."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r25",
+          "text": {
+            "en": "A conservative non-invasive strategy should be considered in ACS patients with poor cancer prognosis (i.e. with expected life survival <6 months) and/or very high bleeding risk.",
+            "ru": "Консервативную неинвазивную стратегию следует рассмотреть у пациентов с ОКС и неблагоприятным онкологическим прогнозом (т.е. с ожидаемой продолжительностью жизни <6 месяцев) и/или очень высоким риском кровотечений."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r26",
+          "text": {
+            "en": "Aspirin is not recommended in cancer patients with a platelet count <10 000/μL.",
+            "ru": "Аспирин не рекомендован онкологическим пациентам с числом тромбоцитов <10 000/мкл."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r27",
+          "text": {
+            "en": "Clopidogrel is not recommended in cancer patients with a platelet count <30 000/μL.",
+            "ru": "Клопидогрел не рекомендован онкологическим пациентам с числом тромбоцитов <30 000/мкл."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r28",
+          "text": {
+            "en": "In ACS patients with cancer and <50 000/μL platelet count, prasugrel or ticagrelor are not recommended.",
+            "ru": "У пациентов с ОКС на фоне онкологического заболевания и числом тромбоцитов <50 000/мкл прасугрел или тикагрелор не рекомендованы."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s09",
+      "title": {
+        "en": "Recommendations for long-term management",
+        "ru": "Рекомендации по долговременному ведению"
+      },
+      "rows": [
+        {
+          "id": "r29",
+          "text": {
+            "en": "It is recommended to intensify lipid-lowering therapy during the index ACS hospitalization for patients who were on lipid-lowering therapy before admission.",
+            "ru": "Рекомендовано интенсифицировать гиполипидемическую терапию во время индексной госпитализации по поводу ОКС у пациентов, уже получавших гиполипидемическую терапию до поступления."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r30",
+          "text": {
+            "en": "Low-dose colchicine (0.5 mg once a day) may be considered, particularly if other risk factors are insufficiently controlled or if recurrent cardiovascular disease events occur under optimal therapy.",
+            "ru": "Низкие дозы колхицина (0,5 мг один раз в день) можно рассмотреть, особенно если другие факторы риска контролируются недостаточно либо если повторные сердечно-сосудистые события развиваются на фоне оптимальной терапии."
+          },
+          "class": "IIb",
+          "level": "A"
+        },
+        {
+          "id": "r31",
+          "text": {
+            "en": "Combination therapy with a high-dose statin plus ezetimibe may be considered during index hospitalization.",
+            "ru": "Комбинированную терапию высокоинтенсивным статином с эзетимибом можно рассмотреть во время индексной госпитализации."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s10",
+      "title": {
+        "en": "Recommendations for patient perspectives in acute coronary syndrome care",
+        "ru": "Рекомендации по пациент-ориентированному подходу при оказании помощи при ОКС"
+      },
+      "rows": [
+        {
+          "id": "r32",
+          "text": {
+            "en": "Patient-centred care is recommended by assessing and adhering to individual patient preferences, needs and beliefs, ensuring that patient values are used to inform all clinical decisions.",
+            "ru": "Пациент-ориентированная помощь рекомендована путем оценки и учета индивидуальных предпочтений, потребностей и убеждений пациента, гарантируя, что ценности пациента учитываются при принятии всех клинических решений."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r33",
+          "text": {
+            "en": "It is recommended to include ACS patients in decision-making (as much as their condition allows) and to inform them about the risk of adverse events, radiation exposure, and alternative options. Decision aids should be used to facilitate the discussion.",
+            "ru": "Рекомендовано привлекать пациентов с ОКС к принятию решений (насколько позволяет их состояние) и информировать их о риске нежелательных явлений, лучевой нагрузке и альтернативных вариантах. Для облегчения обсуждения следует использовать средства поддержки принятия решений."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r34",
+          "text": {
+            "en": "It is recommended to assess symptoms using methods that help patients to describe their experience.",
+            "ru": "Рекомендовано оценивать симптомы с использованием методов, помогающих пациентам описать свои ощущения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r35",
+          "text": {
+            "en": "Use of the 'teach back' technique for decision support during the securing of informed consent should be considered.",
+            "ru": "Использование техники обратного пересказа ('teach back') для поддержки принятия решений при получении информированного согласия следует рассмотреть."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r36",
+          "text": {
+            "en": "Patient discharge information should be provided in both written and verbal formats prior to discharge. Adequate preparation and education for patient discharge using the teach back technique and/or motivational interviewing, giving information in chunks, and checking for understanding, should be considered.",
+            "ru": "Информация при выписке пациента должна быть предоставлена как в письменной, так и в устной форме перед выпиской. Адекватную подготовку и обучение пациента перед выпиской с использованием техники 'teach back' и/или мотивационного интервьюирования, дробную подачу информации и проверку понимания следует рассмотреть."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r37",
+          "text": {
+            "en": "Assessment of mental well-being using a validated tool and onward psychological referral when appropriate should be considered.",
+            "ru": "Оценку психологического благополучия с помощью валидированного инструмента и при необходимости направление к психологу/психотерапевту следует рассмотреть."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "page": 8,
+    "expectedRows": 37
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

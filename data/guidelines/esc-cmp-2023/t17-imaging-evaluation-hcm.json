@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t17-imaging-evaluation-hcm",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 17",
+  "type": "grid",
+  "title": {
+    "en": "Imaging evaluation in hypertrophic cardiomyopathy",
+    "ru": "Визуализирующая оценка при гипертрофической кардиомиопатии"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "hcm",
+    "imaging",
+    "echocardiography",
+    "cmr",
+    "lge",
+    "lvoto",
+    "sam"
+  ],
+  "columns": [
+    {
+      "id": "c_item",
+      "title": {
+        "en": "Item to assess",
+        "ru": "Оцениваемый параметр"
+      }
+    },
+    {
+      "id": "c_modality",
+      "title": {
+        "en": "Primary imaging modality",
+        "ru": "Основной метод визуализации"
+      }
+    },
+    {
+      "id": "c_comments",
+      "title": {
+        "en": "Comments",
+        "ru": "Клинические комментарии и особенности"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "LV wall thickness",
+            "ru": "Толщина стенок ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "ECHO / CMR",
+            "ru": "ЭхоКГ / МРТ сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "• All LV segments from base to apex examined in end-diastole, preferably in the 2D short-axis view, ensuring that the wall thickness is recorded at mitral, mid-LV, and apical levels.\n• CMR is superior in the detection of LV apical and anterolateral hypertrophy, aneurysms, and thrombi, and is more sensitive in the detection of subtle markers of disease in patients with sarcomeric protein gene variants (e.g. myocardial crypts, papillary muscle abnormalities).",
+            "ru": "• Все сегменты ЛЖ от основания до верхушки оцениваются в конечную диастолу, предпочтительно по короткой оси 2D, с измерением толщины стенки на базальном (митральном), среднем и верхушечном уровнях.\n• МРТ сердца превосходит ЭхоКГ в выявлении верхушечной и переднебоковой гипертрофии, апикальных аневризм и тромбов, а также более чувствительна к ранним маркерам у носителей саркомерных мутаций (крипты миокарда, аномалии папиллярных мышц)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Systolic function (global and regional)",
+            "ru": "Систолическая функция (глобальная и регионарная)"
+          }
+        },
+        {
+          "text": {
+            "en": "ECHO / CMR",
+            "ru": "ЭхоКГ / МРТ сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "• Ejection fraction is a suboptimal measure of LV systolic performance when hypertrophy is present.\n• Doppler myocardial velocities and deformation parameters (strain and strain rate) are typically reduced at the site of hypertrophy despite a normal EF and may be abnormal before the development of increased wall thickness in genetically affected patients.",
+            "ru": "• Фракция выброса — неоптимальный показатель систолической функции при выраженной гипертрофии (часто ложно завышена).\n• Тканевые допплеровские скорости и параметры деформации (strain / strain rate) снижены в зонах гипертрофии, несмотря на сохранную ФВ, и могут нарушаться еще до появления утолщения стенки у генетических носителей."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Diastolic function",
+            "ru": "Диастолическая функция"
+          }
+        },
+        {
+          "text": {
+            "en": "ECHO",
+            "ru": "ЭхоКГ"
+          }
+        },
+        {
+          "text": {
+            "en": "• Routine examination should include mitral inflow assessment, tissue Doppler imaging, pulmonary vein flow velocities, pulmonary artery systolic pressure, and LA size/volume.",
+            "ru": "• Рутинная оценка включает трансмитральный кровоток, тканевой допплер (e'), скорости в легочных венах, систолическое давление в легочной артерии и объем/размер левого предсердия."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Mitral valve",
+            "ru": "Митральный клапан"
+          }
+        },
+        {
+          "text": {
+            "en": "ECHO",
+            "ru": "ЭхоКГ"
+          }
+        },
+        {
+          "text": {
+            "en": "• Assess presence and degree of SAM and mitral regurgitation. The presence of a central- or anteriorly directed jet of mitral regurgitation should raise suspicion of an intrinsic/primary mitral valve abnormality and prompt further assessment.",
+            "ru": "• Оценка наличия и степени систолического движения передней створки (SAM) и митральной регургитации. Направление струи регургитации по центру или кпереди вызывает подозрение на первичную анатомическую патологию створок клапана и требует детального обследования."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "LVOT",
+            "ru": "Выходной тракт левого желудочка (ВТЛЖ)"
+          }
+        },
+        {
+          "text": {
+            "en": "ECHO",
+            "ru": "ЭхоКГ"
+          }
+        },
+        {
+          "text": {
+            "en": "• Assessment of resting and provokable gradients (Valsalva, standing, exercise).",
+            "ru": "• Оценка градиента давления в покое и при провокационных пробах (Вальсальва, переход в положение стоя, физическая нагрузка)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "LA dimensions",
+            "ru": "Размеры левого предсердия (ЛП)"
+          }
+        },
+        {
+          "text": {
+            "en": "ECHO / CMR",
+            "ru": "ЭхоКГ / МРТ сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "• Provides important prognostic information.\n• Most common mechanisms of LA enlargement are SAM-related mitral regurgitation and elevated LV filling pressures.",
+            "ru": "• Дает важную прогностическую информацию (риск ФП и ВСС).\n• Наиболее частые причины дилатации ЛП — SAM-обусловленная митральная регургитация и повышенное давление наполнения ЛЖ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Myocardial fibrosis / LGE",
+            "ru": "Фиброз миокарда / позднее контрастирование (LGE)"
+          }
+        },
+        {
+          "text": {
+            "en": "CMR",
+            "ru": "МРТ сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "• The distribution and severity of interstitial expansion can suggest specific diagnoses. Anderson–Fabry disease is characterized by a reduction in non-contrast T1 signal and the presence of posterolateral LGE. In cardiac amyloidosis, there is often global, subendocardial or segmental LGE and a highly specific pattern of myocardial and blood-pool gadolinium kinetics caused by similar myocardial and blood T1 signals.",
+            "ru": "• Характер и объем фиброза указывают на диагноз. Болезнь Андерсона–Фабри характеризуется укорочением нативного Т1 и заднебоковым интрамиокардиальным LGE. При амилоидозе сердца типично диффузное субэндокардиальное или трансмуральное LGE и специфическая кинетика гадолиния с затрудненным подавлением сигнала от миокарда («black blood/myocardium nulling defect»)."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024",
+  "society": "ESC/EACTS",
+  "year": 2024,
+  "title": {
+    "en": "2024 ESC Guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS)",
+    "ru": "Рекомендации ESC/EACTS 2024 по ведению фибрилляции предсердий, разработанные в сотрудничестве с EACTS"
+  },
+  "shortTitle": {
+    "en": "ESC/EACTS AF 2024",
+    "ru": "ESC/EACTS ФП 2024"
+  },
+  "citation": "Eur Heart J. 2024;45(38):3314–3414",
+  "legend": "esc-2023",
+  "abbreviations": {
+    "AAD": { "en": "antiarrhythmic drug", "ru": "антиаритмический препарат" },
+    "AF": { "en": "atrial fibrillation", "ru": "фибрилляция предсердий" },
+    "AF-CARE": { "en": "atrial fibrillation: [C] Comorbidity, [A] Avoid stroke, [R] Reduce symptoms, [E] Evaluation", "ru": "комплексный подход к ФП: сопутствующие заболевания, профилактика инсульта, контроль симптомов, регулярная оценка" },
+    "BMI": { "en": "body mass index", "ru": "индекс массы тела (ИМТ)" },
+    "CHA2DS2-VA": { "en": "stroke risk score (without sex category)", "ru": "шкала риска инсульта без учета женского пола (CHA₂DS₂-VA)" },
+    "DOAC": { "en": "direct oral anticoagulant", "ru": "прямой оральный антикоагулянт (ПОАК)" },
+    "ECG": { "en": "electrocardiogram", "ru": "электрокардиограмма" },
+    "ESUS": { "en": "embolic stroke of undetermined source", "ru": "эмболический инсульт из неустановленного источника" },
+    "HF": { "en": "heart failure", "ru": "сердечная недостаточность" },
+    "HFrEF": { "en": "heart failure with reduced ejection fraction", "ru": "сердечная недостаточность со сниженной фракцией выброса" },
+    "LAA": { "en": "left atrial appendage", "ru": "ушко левого предсердия (УЛП)" },
+    "LVEF": { "en": "left ventricular ejection fraction", "ru": "фракция выброса левого желудочка" },
+    "OAC": { "en": "oral anticoagulant", "ru": "оральный антикоагулянт" },
+    "PVI": { "en": "pulmonary vein isolation", "ru": "изоляция легочных вен" },
+    "SGLT2": { "en": "sodium-glucose cotransporter-2 inhibitor", "ru": "ингибитор натрий-глюкозного котранспортера 2 типа (иНГЛТ-2)" },
+    "VKA": { "en": "vitamin K antagonist", "ru": "антагонист витамина К (АВК)" }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t12-counselling-children",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 12",
+  "type": "grid",
+  "title": {
+    "en": "Specific issues to consider when counselling children",
+    "ru": "Особые аспекты медико-генетического консультирования детей"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "pediatric",
+    "counselling",
+    "children",
+    "autonomy",
+    "ethics"
+  ],
+  "columns": [
+    {
+      "id": "c_issue",
+      "title": {
+        "en": "Issue",
+        "ru": "Аспект / проблема"
+      }
+    },
+    {
+      "id": "c_implications",
+      "title": {
+        "en": "Implications",
+        "ru": "Значение и практические подходы"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Autonomy",
+            "ru": "Автономия личности"
+          }
+        },
+        {
+          "text": {
+            "en": "Competence of child to decide on testing",
+            "ru": "Способность ребенка принимать осознанное решение относительно тестирования"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Informed consent",
+            "ru": "Информированное согласие"
+          }
+        },
+        {
+          "text": {
+            "en": "Appropriate to understanding of child",
+            "ru": "Адаптация информации к уровню понимания и возрасту ребенка"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Right to know/not to know the result",
+            "ru": "Право знать / не знать результат"
+          }
+        },
+        {
+          "text": {
+            "en": "Consider wishes of child and family",
+            "ru": "Учет пожеланий как самого ребенка, так и его семьи"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Confidentiality",
+            "ru": "Конфиденциальность"
+          }
+        },
+        {
+          "text": {
+            "en": "Context of family history",
+            "ru": "Контекст семейного анамнеза и внутрисемейных взаимоотношений"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Incomplete and age-related penetrance",
+            "ru": "Неполная и возраст-зависимая пенетрантность"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptoms/features of disease may not become apparent for many years",
+            "ru": "Симптомы и признаки заболевания могут не проявляться на протяжении многих лет"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Lifestyle",
+            "ru": "Образ жизни"
+          }
+        },
+        {
+          "text": {
+            "en": "School, sports, employment",
+            "ru": "Школа, занятия спортом, будущий выбор профессии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Life stages and transition",
+            "ru": "Возрастные этапы и переход во взрослую сеть"
+          }
+        },
+        {
+          "text": {
+            "en": "Moving from primary to secondary education; transition to adult medical services",
+            "ru": "Переход между этапами обучения; преемственный перевод под наблюдение взрослой медицинской службы"
+          }
+        }
+      ]
+    }
+  ]
+}

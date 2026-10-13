@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t20-non-genetic-causes-dcm",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 20",
+  "type": "grid",
+  "title": {
+    "en": "Non-genetic causes of dilated cardiomyopathy",
+    "ru": "Негенетические причины дилатационной кардиомиопатии"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "dcm",
+    "secondary-causes",
+    "myocarditis",
+    "toxic",
+    "peripartum",
+    "autoimmune",
+    "drugs"
+  ],
+  "columns": [
+    {
+      "id": "c_category",
+      "title": {
+        "en": "Etiological category",
+        "ru": "Этиологическая категория"
+      }
+    },
+    {
+      "id": "c_examples",
+      "title": {
+        "en": "Causes and specific conditions",
+        "ru": "Причины и конкретные нозологии"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Infection (post-myocarditis)",
+            "ru": "Инфекционные причины (постмиокардитические)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Viral (enteroviruses, adenoviruses, echoviruses, herpes viruses, parvovirus B19, HIV, SARS-CoV-2, etc.)\n• Bacterial (Lyme disease)\n• Mycobacterial\n• Fungal\n• Parasitic (Chagas disease)",
+            "ru": "• Вирусные (энтеровирусы, аденовирусы, вирусы ECHO, герпесвирусы, парвовирус B19, ВИЧ, SARS-CoV-2 и др.)\n• Бактериальные (болезнь Лайма / боррелиоз)\n• Микобактериальные (туберкулез)\n• Грибковые\n• Паразитарные (болезнь Шагаса / американский трипаносомоз)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Toxic and overload",
+            "ru": "Токсические воздействия и перегрузка"
+          }
+        },
+        {
+          "text": {
+            "en": "• Alcohol (ethanol)\n• Cocaine, amphetamines, ecstasy\n• Cobalt\n• Anabolic/androgenic steroids\n• Haemochromatosis and other causes of iron overload",
+            "ru": "• Алкоголь (этанол)\n• Кокаин, амфетамины, экстази\n• Кобальт\n• Анаболические/андрогенные стероиды\n• Гемохроматоз и другие причины перегрузки железом"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Endocrinology",
+            "ru": "Эндокринные заболевания"
+          }
+        },
+        {
+          "text": {
+            "en": "• Hypo- and hyperthyroidism\n• Cushing/Addison disease\n• Phaeochromocytoma\n• Acromegaly\n• Diabetes mellitus",
+            "ru": "• Гипо- и гипертиреоз\n• Болезнь/синдром Иценко–Кушинга, болезнь Аддисона\n• Феохромоцитома\n• Акромегалия\n• Сахарный диабет"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04",
+      "cells": [
+        {
+          "text": {
+            "en": "Nutritional deficiency",
+            "ru": "Алиментарные дефициты"
+          }
+        },
+        {
+          "text": {
+            "en": "• Selenium deficiency\n• Thiamine deficiency (Beri-Beri)\n• Zinc and copper deficiency\n• Carnitine deficiency",
+            "ru": "• Дефицит селена (болезнь Кешана)\n• Дефицит тиамина (бери-бери)\n• Дефицит цинка и меди\n• Дефицит карнитина"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05",
+      "cells": [
+        {
+          "text": {
+            "en": "Electrolyte disturbance",
+            "ru": "Электролитные нарушения"
+          }
+        },
+        {
+          "text": {
+            "en": "• Hypocalcaemia\n• Hypophosphataemia",
+            "ru": "• Гипокальциемия\n• Гипофосфатемия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06",
+      "cells": [
+        {
+          "text": {
+            "en": "Peripartum",
+            "ru": "Перипартальный период"
+          }
+        },
+        {
+          "text": {
+            "en": "Peripartum cardiomyopathy (PPCM)",
+            "ru": "Послеродовая (перипартальная) кардиомиопатия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07",
+      "cells": [
+        {
+          "text": {
+            "en": "Autoimmune diseases",
+            "ru": "Аутоиммунные и системные заболевания"
+          }
+        },
+        {
+          "text": {
+            "en": "• Giant cell myocarditis\n• Inflammatory (biopsy-proven, non-infectious myocarditis)\n• Eosinophilic granulomatosis with polyangiitis (Churg–Strauss)\n• Systemic lupus erythematosus\n• Sarcoidosis\n• Rheumatoid arthritis\n• Coeliac disease\n• Primary biliary cirrhosis\n• Myasthenia gravis\n• Pemphigus pemphigoid\n• Crohn disease\n• Ulcerative colitis\n• Polymyositis/dermatomyositis\n• Reactive arthritis",
+            "ru": "• Гигантоклеточный миокардит\n• Аутоиммунный миокардит (доказанный по биопсии неинфекционный миокардит)\n• Эозинофильный гранулематоз с полиангиитом (Черджа–Стросс)\n• Системная красная волчанка\n• Саркоидоз\n• Ревматоидный артрит\n• Целиакия\n• Первичный билиарный холангит\n• Миастения гравис\n• Пузырчатка / пемфигоид\n• Болезнь Крона\n• Язвенный колит\n• Полимиозит / дерматомиозит\n• Реактивный артрит"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08",
+      "cells": [
+        {
+          "text": {
+            "en": "Drugs: Antineoplastic",
+            "ru": "Лекарственные препараты: Противоопухолевые"
+          }
+        },
+        {
+          "text": {
+            "en": "Anthracyclines; antimetabolites; alkylating agents; Taxol; hypomethylating agents; monoclonal antibodies; tyrosine kinase inhibitors; immunomodulating agents",
+            "ru": "Антрациклины (доксорубицин); антиметаболиты; алкилирующие средства; таксаны (паклитаксел); гипометилирующие препараты; моноклональные антитела (трастузумаб); ингибиторы тирозинкиназ; иммунные чекпойнт-ингибиторы"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09",
+      "cells": [
+        {
+          "text": {
+            "en": "Drugs: Psychiatric",
+            "ru": "Лекарственные препараты: Психотропные"
+          }
+        },
+        {
+          "text": {
+            "en": "Clozapine, olanzapine; chlorpromazine, risperidone, lithium; methylphenidate; tricyclic antidepressants",
+            "ru": "Клозапин, оланзапин; хлорпромазин, рисперидон; препараты лития; метилфенидат; трициклические антидепрессанты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10",
+      "cells": [
+        {
+          "text": {
+            "en": "Drugs: Other",
+            "ru": "Лекарственные препараты: Прочие"
+          }
+        },
+        {
+          "text": {
+            "en": "All-trans retinoic acid; antiretroviral agents; phenothiazines",
+            "ru": "Полностью транс-ретиноевая кислота (ATRA); антиретровирусные препараты; фенотиазины"
+          }
+        }
+      ]
+    }
+  ]
+}

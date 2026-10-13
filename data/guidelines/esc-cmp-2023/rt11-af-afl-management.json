@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt11-af-afl-management",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 11",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for management of atrial fibrillation and atrial flutter in patients with cardiomyopathy",
+    "ru": "Рекомендации по ведению фибрилляции и трепетания предсердий у пациентов с кардиомиопатией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "atrial-fibrillation",
+    "atrial-flutter",
+    "anticoagulation",
+    "cha2ds2-vasc",
+    "catheter-ablation",
+    "hcm",
+    "dcm",
+    "ndlvc",
+    "arvc",
+    "rcm"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Anticoagulation",
+        "ru": "Антикоагулянтная терапия"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Oral anticoagulation in order to reduce the risk of stroke and thrombo-embolic events is recommended in all patients with HCM or cardiac amyloidosis and AF or atrial flutter (unless contraindicated).",
+            "ru": "Пероральная антикоагулянтная терапия для снижения риска инсульта и тромбоэмболических осложнений рекомендуется всем пациентам с ГКМП или амилоидозом сердца при фибрилляции или трепетании предсердий (при отсутствии противопоказаний)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Oral anticoagulation to reduce the risk of stroke and thrombo-embolic events is recommended in patients with DCM, NDLVC, or ARVC, and AF or atrial flutter with a CHA2DS2-VASc score ≥2 in men or ≥3 in women.",
+            "ru": "Пероральная антикоагулянтная терапия для снижения риска инсульта и тромбоэмболий рекомендуется пациентам с ДКМП, НДЛЖКМП или АКПЖ при наличии ФП или ТП и балле по шкале CHA2DS2-VASc ≥2 у мужчин или ≥3 у женщин."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Oral anticoagulation to reduce the risk of stroke and thrombo-embolic events should be considered in patients with RCM and AF or atrial flutter (unless contraindicated).",
+            "ru": "Пероральную антикоагулянтную терапию для снижения риска инсульта и тромбоэмболий следует рассмотреть у пациентов с РКМП и ФП или трепетанием предсердий (при отсутствии противопоказаний)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Oral anticoagulation to reduce the risk of stroke and thrombo-embolic events should be considered in patients with DCM, NDLVC, or ARVC, and AF or atrial flutter with a CHA2DS2-VASc score of 1 in men or of 2 in women.",
+            "ru": "Пероральную антикоагулянтную терапию для снижения риска инсульта и тромбоэмболий следует рассмотреть у пациентов с ДКМП, НДЛЖКМП или АКПЖ при наличии ФП или ТП и балле по шкале CHA2DS2-VASc 1 у мужчин или 2 у женщин."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Control of symptoms and heart failure",
+        "ru": "Контроль симптомов и сердечной недостаточности"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Atrial fibrillation catheter ablation is recommended for rhythm control after one failed or intolerant class I or III AAD to improve symptoms of AF recurrences in patients with paroxysmal or persistent AF and cardiomyopathy.",
+            "ru": "Катетерная аблация фибрилляции предсердий рекомендуется для контроля ритма при неэффективности или непереносимости хотя бы одного антиаритмического препарата I или III класса с целью уменьшения симптомов рецидивов ФП у пациентов с пароксизмальной или персистирующей формой ФП и кардиомиопатией."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Atrial fibrillation catheter ablation is recommended to reverse LV dysfunction in AF patients with cardiomyopathy when tachycardia-induced component is highly probable, independent of their symptom status.",
+            "ru": "Катетерная аблация фибрилляции предсердий рекомендуется для восстановления функции ЛЖ у пациентов с кардиомиопатией и ФП при высокой вероятности тахикардиомиопатии, независимо от выраженности клинических симптомов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Maintenance of sinus rhythm rather than rate control should be considered at an early stage for patients with a cardiomyopathy and AF without major risk factors for recurrence, regardless of symptoms.",
+            "ru": "Удержание синусового ритма (вместо стратегии контроля ЧЖС) следует рассмотреть на ранней стадии у пациентов с кардиомиопатией и ФП при отсутствии выраженных факторов риска рецидива, независимо от наличия симптомов."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Atrial fibrillation catheter ablation should be considered as first-line rhythm control therapy to improve symptoms in selected patients with cardiomyopathy and paroxysmal or persistent AF without major risk factors for recurrences as an alternative to class I or III AADs, considering patient choice, benefit, and risk.",
+            "ru": "Катетерную аблацию фибрилляции предсердий следует рассмотреть в качестве первой линии терапии контроля ритма для уменьшения симптомов у отобранных пациентов с кардиомиопатией и пароксизмальной или персистирующей ФП без выраженных факторов риска рецидивов как альтернативу ААП I или III класса с учетом предпочтений пациента, пользы и рисков."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Atrial fibrillation catheter ablation should be considered in selected patients with cardiomyopathy, AF, and heart failure and/or reduced LVEF to prevent AF recurrences and improve QoL, LVEF, and survival and reduce heart failure hospitalization.",
+            "ru": "Катетерную аблацию фибрилляции предсердий следует рассмотреть у отобранных пациентов с кардиомиопатией, ФП и сердечной недостаточностью и/или сниженной ФВ ЛЖ для предотвращения рецидивов ФП, улучшения качества жизни, повышения ФВ ЛЖ, увеличения выживаемости и снижения частоты госпитализаций по поводу СН."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Comorbidities and associated risk factors management",
+        "ru": "Ведение коморбидностей и факторов риска"
+      },
+      "rows": [
+        {
+          "id": "r10",
+          "text": {
+            "en": "Modification of unhealthy lifestyle and targeted therapy of intercurrent conditions is recommended to reduce AF burden and symptom severity in patients with cardiomyopathy.",
+            "ru": "Модификация нездорового образа жизни и таргетная терапия сопутствующих заболеваний рекомендуются для снижения бремени ФП и выраженности симптомов у пациентов с кардиомиопатией."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

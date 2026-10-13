@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt01",
+  "guidelineId": "esc-acs-2023",
+  "number": "1",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for clinical and diagnostic tools for patients with suspected acute coronary syndrome",
+    "ru": "Рекомендации по клиническим и диагностическим инструментам у пациентов с подозрением на острый коронарный синдром"
+  },
+  "tags": [
+    "acs",
+    "diagnosis",
+    "ecg",
+    "troponin",
+    "hs-ctn",
+    "grace",
+    "stemi",
+    "nstemi",
+    "triage"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Initial assessment",
+        "ru": "Первоначальная оценка"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended to base the diagnosis and initial short-term risk stratification of ACS on a combination of clinical history, symptoms, vital signs, other physical findings, ECG, and hs-cTn.",
+            "ru": "Рекомендовано основывать диагноз и начальную краткосрочную стратификацию риска ОКС на сочетании клинического анамнеза, симптомов, показателей жизненно важных функций, данных физикального осмотра, ЭКГ и hs-cTn."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "ECG",
+        "ru": "ЭКГ"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "Twelve-lead ECG recording and interpretation is recommended as soon as possible at the point of FMC, with a target of <10 min.",
+            "ru": "Регистрация и интерпретация 12-канальной ЭКГ рекомендованы как можно скорее в месте первого медицинского контакта (FMC), с целевым временем <10 мин."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Continuous ECG monitoring and the availability of defibrillator capacity is recommended as soon as possible in all patients with suspected STEMI, in suspected ACS with other ECG changes or ongoing chest pain, and once the diagnosis of MI is made.",
+            "ru": "Непрерывный ЭКГ-мониторинг и готовность к дефибрилляции рекомендованы как можно скорее всем пациентам с подозрением на STEMI, при подозрении на ОКС с другими изменениями ЭКГ или продолжающейся болью в груди, а также после установления диагноза инфаркта миокарда."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "The use of additional ECG leads (V3R, V4R, and V7–V9) is recommended in cases of inferior STEMI or if total vessel occlusion is suspected and standard leads are inconclusive.",
+            "ru": "Использование дополнительных отведений ЭКГ (V3R, V4R и V7–V9) рекомендовано при нижнем STEMI или если подозревается полная окклюзия артерии, а стандартные отведения неубедительны."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "An additional 12-lead ECG is recommended in cases with recurrent symptoms or diagnostic uncertainty.",
+            "ru": "Дополнительная 12-канальная ЭКГ рекомендована в случаях рецидивирующих симптомов или диагностической неопределенности."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Blood sampling",
+        "ru": "Взятие крови и биомаркеры"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "It is recommended to measure cardiac troponins with high-sensitivity assays immediately after presentation and to obtain the results within 60 min of blood sampling.",
+            "ru": "Рекомендовано измерять уровень сердечных тропонинов высокочувствительными методами сразу при поступлении и получать результаты в течение 60 мин от момента забора крови."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "It is recommended to use an ESC algorithmic approach with serial hs-cTn measurements (0 h/1 h or 0 h/2 h) to rule in and rule out NSTEMI.",
+            "ru": "Рекомендовано использовать алгоритмический подход ESC с серийными измерениями hs-cTn (0 ч/1 ч или 0 ч/2 ч) для подтверждения (rule-in) и исключения (rule-out) NSTEMI."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Additional testing after 3 h is recommended if the first two hs-cTn measurements of the 0 h/1 h algorithm are inconclusive and no alternative diagnoses explaining the condition have been made.",
+            "ru": "Дополнительное тестирование через 3 ч рекомендовано, если первые два измерения hs-cTn по алгоритму 0 ч/1 ч неубедительны и не установлен альтернативный диагноз, объясняющий состояние."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "The use of established risk scores (e.g. GRACE risk score) for prognosis estimation should be considered.",
+            "ru": "Использование валидированных шкал риска (например, шкалы риска GRACE) для оценки прогноза следует рассмотреть."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en": "Triage for emergency reperfusion strategy",
+        "ru": "Медицинская сортировка для экстренной реперфузии"
+      },
+      "rows": [
+        {
+          "id": "r10",
+          "text": {
+            "en": "It is recommended that patients with suspected STEMI are immediately triaged for an emergency reperfusion strategy.",
+            "ru": "Рекомендовано незамедлительно направлять пациентов с подозрением на STEMI на стратегию экстренной реперфузии."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "page": 7,
+    "expectedRows": 10
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

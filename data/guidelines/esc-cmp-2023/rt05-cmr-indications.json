@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt05-cmr-indications",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 5",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for cardiac magnetic resonance indication in patients with cardiomyopathy",
+    "ru": "Рекомендации по показаниям к МРТ сердца у пациентов с кардиомиопатией"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "cmr",
+    "mri",
+    "imaging",
+    "initial-evaluation",
+    "follow-up",
+    "genotype-positive"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for cardiac magnetic resonance indication in patients with cardiomyopathy",
+        "ru": "Рекомендации по показаниям к МРТ сердца у пациентов с кардиомиопатией"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Contrast-enhanced CMR is recommended in patients with cardiomyopathy at initial evaluation.",
+            "ru": "МРТ сердца с контрастным усилением рекомендуется пациентам с кардиомиопатией при первичном обследовании."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Contrast-enhanced CMR should be considered in patients with cardiomyopathy during follow-up to monitor disease progression and aid risk stratification and management.",
+            "ru": "МРТ сердца с контрастным усилением следует рассмотреть у пациентов с кардиомиопатией в ходе динамического наблюдения для оценки прогрессирования заболевания, стратификации риска и определения тактики ведения."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Contrast-enhanced CMR should be considered for the serial follow-up and assessment of therapeutic response in patients with cardiac amyloidosis, Anderson–Fabry disease, sarcoidosis, inflammatory cardiomyopathies, and haemochromatosis with cardiac involvement.",
+            "ru": "МРТ сердца с контрастным усилением следует рассмотреть для серийного динамического наблюдения и оценки ответа на терапию у пациентов с амилоидозом сердца, болезнью Андерсона–Фабри, саркоидозом, воспалительными кардиомиопатиями и гемохроматозом с поражением сердца."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In families with cardiomyopathy in which a disease-causing variant has been identified, contrast-enhanced CMR should be considered in genotype-positive/phenotype-negative family members to aid diagnosis and detect early disease.",
+            "ru": "В семьях с кардиомиопатией при выявленном патогенном генетическом варианте МРТ сердца с контрастным усилением следует рассмотреть у генотип-положительных/фенотип-отрицательных родственников для содействия диагностике и раннего выявления признаков заболевания."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In cases of familial cardiomyopathy without a genetic diagnosis, contrast-enhanced CMR may be considered in phenotype-negative family members to aid diagnosis and detect early disease.",
+            "ru": "В случаях семейной кардиомиопатии без установленного генетического диагноза МРТ сердца с контрастным усилением может быть рассмотрена у фенотип-отрицательных членов семьи для содействия диагностике и раннего выявления заболевания."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

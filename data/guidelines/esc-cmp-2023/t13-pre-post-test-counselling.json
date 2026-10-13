@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.t13-pre-post-test-counselling",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Table 13",
+  "type": "grid",
+  "title": {
+    "en": "Key discussion points of pre- and post-test genetic counselling",
+    "ru": "Ключевые темы обсуждения при дотестовом и посттестовом медико-генетическом консультировании"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "genetics",
+    "genetic-counselling",
+    "pre-test",
+    "post-test",
+    "psychosocial-support",
+    "cascade-screening"
+  ],
+  "columns": [
+    {
+      "id": "c_phase",
+      "title": {
+        "en": "Phase of counselling",
+        "ru": "Этап консультирования"
+      }
+    },
+    {
+      "id": "c_points",
+      "title": {
+        "en": "Key discussion points",
+        "ru": "Ключевые темы для обсуждения"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Pre-test genetic counselling",
+            "ru": "Дотестовое медико-генетическое консультирование"
+          }
+        },
+        {
+          "text": {
+            "en": "• Detailed family history\n• Genetic education\n• Process and logistics of genetic testing and return of the result\n• Explanation of all possible outcomes\n• Implications for clinical care\n• Lifestyle implications including sport, exercise, and employment\n• Implications for the family\n• Risk of reclassification\n• Secondary genetic findings\n• Potential insurance implications (country dependent)\n• Exploration of feelings and understanding\n• Psychosocial support",
+            "ru": "• Подробный сбор семейного анамнеза (родословная не менее 3 поколений)\n• Базовое информирование о генетике и типах наследования\n• Процесс и логистика забора биоматериала, сроки и процедура выдачи результатов\n• Разъяснение всех возможных вариантов результата (патогенный вариант, вариант неопределенного значения [VUS], отрицательный результат)\n• Влияние результатов на клиническую тактику и лечение\n• Влияние на образ жизни (занятия спортом, физические нагрузки, выбор профессии)\n• Последствия для членов семьи и необходимость каскадного скрининга\n• Риск реклассификации генетических вариантов со временем\n• Вторичные (случайные) генетические находки\n• Потенциальные вопросы страхования (зависит от законодательства страны)\n• Оценка психоэмоционального состояния и понимания информации пациентом\n• Психосоциальная поддержка"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Post-test genetic counselling",
+            "ru": "Посттестовое медико-генетическое консультирование"
+          }
+        },
+        {
+          "text": {
+            "en": "• Re-cap on key points of pre-test session\n• Result disclosure\n• Specific implications for clinical care\n• Specific implications for the family and how to approach relatives\n• Risk of reclassification, plan for resolving uncertain variant status if applicable\n• Exploration of feelings and understanding\n• Provision of details about how family members can access genetic counselling\n• Offer information about reproductive genetic testing options for those with a genetic diagnosis\n• Psychosocial support",
+            "ru": "• Краткое повторение ключевых положений дотестовой беседы\n• Оглашение и подробное разъяснение полученного результата\n• Конкретные выводы для клинической тактики и персонализированной терапии\n• Конкретное значение для семьи и рекомендации, как информировать родственников\n• Риск реклассификации, план действий при обнаружении VUS (сегрегационный анализ и др.)\n• Оценка эмоциональной реакции и уровня восприятия информации\n• Предоставление контактной информации о возможностях генетического консультирования для родственников\n• Информирование о возможностях репродуктивной генетической диагностики (пренатальной, преимплантационной)\n• Психосоциальная поддержка и психологическая помощь"
+          }
+        }
+      ]
+    }
+  ]
+}

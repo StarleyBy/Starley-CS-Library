@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-achd-2020.rt07-as-intervention",
+  "guidelineId": "esc-achd-2020",
+  "number": "Rec AS",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for intervention in valvular aortic stenosis",
+    "ru": "Рекомендации по вмешательствам при клапанном аортальном стенозе"
+  },
+  "tags": [
+    "achd",
+    "aortic-stenosis",
+    "intervention",
+    "valve-replacement",
+    "bnp",
+    "lvef",
+    "stress-test"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Symptomatic patients with aortic valve stenosis",
+        "ru": "Симптомные пациенты с аортальным стенозом"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In symptomatic patients with severe high-gradient AS (mean gradient ≥40 mmHg), intervention is recommended.",
+            "ru": "У симптомных пациентов с тяжелым высокоградиентным аортальным стенозом (средний градиент ≥40 мм рт. ст.) рекомендуется вмешательство."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Intervention is indicated in symptomatic patients with severe low-flow, low-gradient (mean gradient <40 mmHg) AS with reduced EF and evidence of flow (contractile) reserve excluding pseudosevere AS.",
+            "ru": "Вмешательство показано симптомным пациентам с тяжелым низкопоточным низкоградиентным (средний градиент <40 мм рт. ст.) АС со сниженной ФВ и доказанным сократительным резервом потока, исключающим псевдотяжелый АС."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Asymptomatic patients with severe aortic valve stenosis",
+        "ru": "Бессимптомные пациенты с тяжелым аортальным стенозом"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "Intervention is indicated in asymptomatic patients with severe AS and an abnormal exercise test showing symptoms on exercise clearly related to AS.",
+            "ru": "Вмешательство показано бессимптомным пациентам с тяжелым АС при патологическом нагрузочном тесте с появлением симптомов при нагрузке, четко связанных с АС."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Intervention is indicated in asymptomatic patients with severe AS and systolic LV dysfunction (LVEF <50%) not due to another cause.",
+            "ru": "Вмешательство показано бессимптомным пациентам с тяжелым АС и систолической дисфункцией ЛЖ (ФВЛЖ <50%) при отсутствии других причин."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Intervention should be considered in asymptomatic patients with severe AS when they present with a fall in blood pressure below baseline during exercise testing.",
+            "ru": "Вмешательство следует рассматривать у бессимптомных пациентов с тяжелым АС при падении артериального давления ниже исходного уровня во время нагрузочного тестирования."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Intervention should be considered in asymptomatic patients with normal EF and none of the above-mentioned exercise test abnormalities if the surgical risk is low and one of the following findings is present:\n• Very severe AS defined by a Vmax >5.5 m/s\n• Severe valve calcification and a rate of Vmax progression ≥0.3 m/s/year\n• Markedly elevated BNP levels (>3-fold age- and sex-corrected normal range) confirmed by repeated measurements without other explanation\n• Severe PH (systolic PAP at rest >60 mmHg confirmed by invasive measurement) without other explanation.",
+            "ru": "Вмешательство следует рассматривать у бессимптомных пациентов с нормальной ФВ и отсутствием указанных нарушений при пробе с нагрузкой при низком хирургическом риске и наличии одного из факторов:\n• Очень тяжелый АС (Vmax >5,5 м/с)\n• Выраженный кальциноз клапана и скорость прогрессирования Vmax ≥0,3 м/с/год\n• Значительное повышение уровня BNP (>3 раз выше нормы для возраста и пола) по повторным измерениям без других причин\n• Тяжелая ЛГ (систолическое СДЛА в покое >60 мм рт. ст. инвазивно) без других причин."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Concomitant aortic valve surgery at the time of other cardiac/ascending aorta surgery",
+        "ru": "Сопутствующая операция на аортальном клапане при других кардиохирургических вмешательствах / операциях на восходящей аорте"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "Surgery is recommended when patients with severe AS undergo surgery of the ascending aorta or of another valve, or CABG.",
+            "ru": "Хирургическое вмешательство на АК рекомендуется пациентам с тяжелым АС при выполнении операций на восходящей аорте, другом клапане или КШ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Patients with moderate AS undergoing CABG surgery or surgery of the ascending aorta or another valve should be considered for additional valve replacement.",
+            "ru": "У пациентов с умеренным АС, которым выполняется КШ, операция на восходящей аорте или другом клапане, следует рассмотреть одномоментное протезирование аортального клапана."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt31-screening",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 31",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for screening for AF",
+    "ru": "Рекомендации по скринингу фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "screening",
+    "ecg",
+    "pulse",
+    "cha2ds2-va"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for screening for AF",
+        "ru": "Рекомендации по скринингу ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Review of an ECG (12-lead, single, or multiple leads) by a physician is recommended to provide a definite diagnosis of AF and commence appropriate management.",
+            "ru": "Анализ ЭКГ врачом (12-канальной, одноканальной или многоканальной) рекомендуется для подтверждения окончательного диагноза ФП и начала надлежащего лечения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Routine heart rhythm assessment during healthcare contact is recommended in all individuals aged ≥65 years for earlier detection of AF.",
+            "ru": "Рутинная оценка сердечного ритма при каждом контакте с системой здравоохранения рекомендуется всем лицам в возрасте ≥65 лет для раннего выявления ФП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Population-based screening for AF using a prolonged non-invasive ECG-based approach should be considered in individuals aged ≥75 years, or ≥65 years with additional CHA₂DS₂-VA risk factors to ensure earlier detection of AF.",
+            "ru": "Популяционный скрининг ФП с применением длительного неинвазивного мониторирования ЭКГ должен рассматриваться у лиц в возрасте ≥75 лет, либо ≥65 лет при наличии дополнительных факторов риска по шкале CHA₂DS₂-VA, для обеспечения более раннего выявления ФП."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

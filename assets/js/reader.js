@@ -936,6 +936,24 @@ function _initRadialMenu() {
             color: 'text-green',    
             label: 'Draw Notes',  
             handler: () => window.StarleyOverlayTools?.Scratchpad?.show() 
+        },
+        {
+            id: 'guidelines',
+            icon: 'fas fa-table',
+            color: 'text-sky',
+            label: 'Guidelines',
+            handler: () => {
+                if (window.GuidelineTables) window.GuidelineTables.open();
+                else window.location.hash = '#guidelines';
+            }
+        },
+        {
+            id: 'guideline-editor',
+            icon: 'fas fa-sliders',
+            color: 'text-teal',
+            label: 'Tables Editor',
+            role: 'admin',
+            handler: () => window.location.href = 'guideline-editor.html'
         }
     ];
 

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt22-surgical-ablation",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 22",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for AF ablation during cardiac surgery",
+    "ru": "Рекомендации по аблации фибрилляции предсердий во время кардиохирургических операций"
+  },
+  "tags": [
+    "af",
+    "surgical-ablation",
+    "cardiac-surgery",
+    "mitral-valve",
+    "non-mitral",
+    "intraprocedural-imaging"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for AF ablation during cardiac surgery",
+        "ru": "Рекомендации по аблации ФП во время операций на сердце"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Concomitant surgical ablation is recommended in patients undergoing mitral valve surgery and AF suitable for a rhythm control strategy to prevent symptoms and recurrence of AF, with shared decision-making supported by an experienced team of electrophysiologists and arrhythmia surgeons.",
+            "ru": "Сопутствующая хирургическая аблация рекомендуется пациентам, оперируемым на митральном клапане, имеющим ФП и подходящим для стратегии контроля ритма, для предотвращения симптомов и рецидивов ФП (при поддержке опытной команды электрофизиологов и хирургов)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Intraprocedural imaging for detection of left atrial thrombus in patients undergoing surgical ablation is recommended to guide surgical strategy, independent of oral anticoagulant use, to prevent peri-procedural ischaemic stroke and thromboembolism.",
+            "ru": "Интраоперационная визуализация для выявления тромба в левом предсердии рекомендуется пациентам, которым выполняется хирургическая аблация, для определения тактики операции, независимо от приема оральных антикоагулянтов, с целью профилактики интраоперационного инсульта и тромбоэмболий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Concomitant surgical ablation should be considered in patients undergoing non-mitral valve cardiac surgery and AF suitable for a rhythm control strategy to prevent symptoms and recurrence of AF, with shared decision-making supported by an experienced team of electrophysiologists and arrhythmia surgeons.",
+            "ru": "Сопутствующая хирургическая аблация должна рассматриваться у пациентов, переносящих кардиохирургические операции не на митральном клапане, имеющих ФП и подходящих для стратегии контроля ритма, для предотвращения симптомов и рецидивов ФП (при поддержке опытной команды электрофизиологов и хирургов)."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

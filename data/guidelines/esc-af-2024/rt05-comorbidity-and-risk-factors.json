@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt05-comorbidity-and-risk-factors",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 5",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for comorbidity and risk factor management in AF",
+    "ru": "Рекомендации по ведению коморбидных состояний и факторов риска при фибрилляции предсердий"
+  },
+  "tags": [
+    "af",
+    "comorbidity",
+    "risk-factors",
+    "hypertension",
+    "heart-failure",
+    "sglt2",
+    "diabetes",
+    "weight-loss",
+    "exercise",
+    "alcohol",
+    "bariatric",
+    "osa"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for comorbidity and risk factor management in AF",
+        "ru": "Рекомендации по ведению коморбидных состояний и факторов риска при ФП"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Identification and management of risk factors and comorbidities is recommended as an integral part of AF care.",
+            "ru": "Выявление и коррекция факторов риска и сопутствующих заболеваний рекомендуются как неотъемлемая часть ведения пациентов с ФП."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Blood pressure lowering treatment is recommended in patients with AF and hypertension to reduce recurrence and progression of AF and prevent adverse cardiovascular events.",
+            "ru": "Антигипертензивная терапия рекомендуется пациентам с ФП и артериальной гипертензией для снижения частоты рецидивов и прогрессирования ФП, а также предотвращения неблагоприятных сердечно-сосудистых событий."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Diuretics are recommended in patients with AF, HF, and congestion to alleviate symptoms and facilitate better AF management.",
+            "ru": "Диуретики рекомендуются пациентам с ФП, СН и признаками застоя для облегчения симптомов и улучшения контроля ФП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Appropriate medical therapy for HF is recommended in AF patients with HF and impaired LVEF to reduce symptoms and/or HF hospitalization and prevent AF recurrence.",
+            "ru": "Адекватная медикаментозная терапия СН рекомендуется пациентам с ФП, СН и сниженной ФВ ЛЖ для уменьшения симптомов, снижения риска госпитализаций по поводу СН и предотвращения рецидивов ФП."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Sodium-glucose cotransporter-2 inhibitors are recommended for patients with HF and AF regardless of left ventricular ejection fraction to reduce the risk of HF hospitalization and cardiovascular death.",
+            "ru": "Ингибиторы натрий-глюкозного котранспортера 2 типа (иНГЛТ-2) рекомендуются пациентам с СН и ФП независимо от фракции выброса левого желудочка для снижения риска госпитализаций по поводу СН и сердечно-сосудистой смерти."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Effective glycaemic control is recommended as part of comprehensive risk factor management in individuals with diabetes mellitus and AF, to reduce burden, recurrence, and progression of AF.",
+            "ru": "Эффективный гликемический контроль рекомендуется как часть комплексного управления факторами риска у лиц с сахарным диабетом и ФП для снижения бремени аритмии, частоты рецидивов и прогрессирования ФП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Weight loss is recommended as part of comprehensive risk factor management in overweight and obese individuals with AF to reduce symptoms and AF burden, with a target of 10% or more reduction in body weight.",
+            "ru": "Снижение массы тела рекомендуется как часть комплексного управления факторами риска у лиц с избыточной массой тела и ожирением при ФП для уменьшения выраженности симптомов и бремени аритмии, с целевым снижением веса на 10% и более."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "A tailored exercise programme is recommended in individuals with paroxysmal or persistent AF to improve cardiorespiratory fitness and reduce AF recurrence.",
+            "ru": "Индивидуально подобранная программа физических тренировок рекомендуется лицам с пароксизмальной или персистирующей ФП для повышения кардиореспираторной выносливости и снижения частоты рецидивов ФП."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Reducing alcohol consumption to ≤3 standard drinks (≤30 grams of alcohol) per week is recommended as part of comprehensive risk factor management to reduce AF recurrence.",
+            "ru": "Снижение потребления алкоголя до ≤3 стандартных доз (≤30 г чистого этанола) в неделю рекомендуется как часть комплексного управления факторами риска для снижения частоты рецидивов ФП."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Bariatric surgery may be considered in conjunction with lifestyle changes and medical management in individuals with AF and body mass index ≥40 kg/m²^[c] where a rhythm control strategy is planned, to reduce recurrence and progression of AF.",
+            "ru": "Бариатрическая хирургия может рассматриваться в сочетании с модификацией образа жизни и медикаментозной терапией у лиц с ФП и индексом массы тела ≥40 кг/м²^[c], у которых планируется стратегия контроля ритма, для снижения рецидивов и прогрессирования ФП."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "Management of obstructive sleep apnoea may be considered as part of a comprehensive management of risk factors in individuals with AF to reduce recurrence and progression.",
+            "ru": "Лечение обструктивного апноэ во сне может рассматриваться как часть комплексного управления факторами риска у лиц с ФП для уменьшения рецидивов и прогрессирования заболевания."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "When screening for obstructive sleep apnoea in individuals with AF, using only symptom-based questionnaires is not recommended.",
+            "ru": "При скрининге синдрома обструктивного апноэ во сне у лиц с ФП использование только опросников, основанных на симптомах, не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Or body mass index ≥35 kg/m² with obesity-related complications.",
+      "ru": "Или индекс массы тела ≥35 кг/м² при наличии осложнений, связанных с ожирением."
+    }
+  }
+}

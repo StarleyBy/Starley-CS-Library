@@ -11,8 +11,8 @@ if (self.location.hostname === 'localhost' || self.location.hostname === '127.0.
   });
 } else {
 
-const CACHE_STATIC = 'static-v25';
-const CACHE_DYNAMIC = 'dynamic-v25';
+const CACHE_STATIC = 'static-v26';
+const CACHE_DYNAMIC = 'dynamic-v26';
 
 const APP_SHELL = [
   './',
@@ -44,6 +44,11 @@ const APP_SHELL = [
   './assets/js/exporter.js',
   './assets/css/overlay-tools.css',
   './assets/js/overlay-tools.js',
+  './assets/css/guideline-tables.css',
+  './assets/js/guideline-tables.js',
+  './guideline-editor.html',
+  './data/guidelines/guidelines.json',
+  './data/guidelines/tables-index.json',
   './search/search-worker.js',
   './search/thesaurus.json',
   './search/search-ui.js',

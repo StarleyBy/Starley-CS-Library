@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt08",
+  "guidelineId": "esc-acs-2023",
+  "number": "8",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for cardiac arrest and out-of-hospital cardiac arrest",
+    "ru": "Рекомендации при остановке сердца и внебольничной остановке сердца"
+  },
+  "tags": ["cardiac-arrest", "ohca", "ppci", "angiography", "hypothermia", "temperature-control", "prognosis", "ems"],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Cardiac arrest and OHCA",
+        "ru": "Остановка сердца и внебольничная остановка сердца (OHCA)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "A PPCI strategy is recommended in patients with resuscitated cardiac arrest and an ECG with persistent ST-segment elevation (or equivalents).",
+            "ru": "Стратегия первичного ЧКВ рекомендована пациентам после успешной реанимации при наличии на ЭКГ стойкого подъема сегмента ST (или его эквивалентов)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Routine immediate angiography after resuscitated cardiac arrest is not recommended in haemodynamically stable patients without persistent ST-segment elevation (or equivalents).",
+            "ru": "Рутинная немедленная коронарография после реанимации не рекомендована у гемодинамически стабильных пациентов без стойкого подъема сегмента ST (или его эквивалентов)."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Temperature control",
+        "ru": "Контроль температуры"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "Temperature control (i.e. continuous monitoring of core temperature and active prevention of fever [i.e. >37.7°C]) is recommended after either out-of-hospital or in-hospital cardiac arrest for adults who remain unresponsive after return of spontaneous circulation.",
+            "ru": "Контроль температуры (непрерывный мониторинг центральной температуры и активная профилактика лихорадки >37,7°C) рекомендован после внебольничной или внутрибольничной остановки сердца взрослым пациентам, остающимся без сознания после восстановления спонтанного кровообращения."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Systems of care",
+        "ru": "Организация системы помощи"
+      },
+      "rows": [
+        {
+          "id": "r04",
+          "text": {
+            "en": "It is recommended that healthcare systems implement strategies to facilitate transfer of all patients in whom ACS is suspected after resuscitated cardiac arrest directly to a hospital offering 24/7 PPCI via one specialized EMS.",
+            "ru": "Рекомендовано, чтобы системы здравоохранения внедряли стратегии прямой доставки всех пациентов с подозрением на ОКС после реанимации непосредственно в стационар, обеспечивающий круглосуточное (24/7) первичное ЧКВ, специализированными бригадами СМП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Transport of patients with OHCA to a cardiac arrest centre according to local protocols should be considered.",
+            "ru": "Транспортировку пациентов с внебольничной остановкой сердца в специализированный центр по лечению остановки сердца согласно местным протоколалам следует рассмотреть."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en": "Evaluation of neurological prognosis",
+        "ru": "Оценка неврологического прогноза"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "Evaluation of neurological prognosis (no earlier than 72 h after admission) is recommended in all comatose survivors after cardiac arrest.",
+            "ru": "Оценка неврологического прогноза (не ранее чем через 72 часа после поступления) рекомендована всем выжившим пациентам в коме после остановки сердца."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "page": 30,
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.rt12",
+  "guidelineId": "esc-acs-2023",
+  "number": "12",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for management of patients with multivessel disease",
+    "ru": "Рекомендации по ведению пациентов с многососудистым поражением"
+  },
+  "tags": [
+    "multivessel-disease",
+    "mvd",
+    "cardiogenic-shock",
+    "stemi",
+    "nste-acs",
+    "complete-revascularization",
+    "ffr",
+    "ifr"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "General strategy",
+        "ru": "Общая стратегия"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended to base the revascularization strategy (IRA PCI, multivessel PCI/CABG) on the patient's clinical status and comorbidities, as well as their disease complexity, according to the principles of management of myocardial revascularization.",
+            "ru": "Рекомендуется основывать стратегию реваскуляризации (ЧКВ только IRA, многососудистое ЧКВ/КШ) на клиническом статусе и сопутствующих заболеваниях пациента, а также на анатомической сложности поражения в соответствии с принципами реваскуляризации миокарда."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "title": {
+        "en": "Multivessel disease in ACS patients presenting in cardiogenic shock",
+        "ru": "Многососудистое поражение у пациентов с ОКС и кардиогенным шоком"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "IRA-only PCI during the index procedure is recommended.",
+            "ru": "Рекомендуется выполнение ЧКВ только инфаркт-связанной артерии (IRA) во время индексной процедуры."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Staged PCI of non-IRA should be considered.^[c]",
+            "ru": "Следует рассматривать этапное ЧКВ не связанной с инфарктом артерии (non-IRA).^[c]"
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "title": {
+        "en": "Multivessel disease in haemodynamically stable STEMI patients undergoing PPCI",
+        "ru": "Многососудистое поражение у гемодинамически стабильных пациентов с ИМпST, перенесших первичное ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r04",
+          "text": {
+            "en": "Complete revascularization is recommended either during the index PCI procedure or within 45 days.",
+            "ru": "Полная реваскуляризация рекомендуется либо во время индексной процедуры ЧКВ, либо в течение 45 дней."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "It is recommended that PCI of the non-IRA is based on angiographic severity.",
+            "ru": "Рекомендуется основывать ЧКВ артерии, не связанной с инфарктом (non-IRA), на ангиографической тяжести стеноза."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Invasive epicardial functional assessment of non-culprit segments of the IRA is not recommended during the index procedure.",
+            "ru": "Инвазивная эпикардиальная функциональная оценка невиновных сегментов IRA не рекомендуется во время индексной процедуры."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "title": {
+        "en": "Multivessel disease in haemodynamically stable NSTE-ACS patients undergoing PCI",
+        "ru": "Многососудистое поражение у гемодинамически стабильных пациентов с ОКСбпST, перенесших ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "In patients presenting with NSTE-ACS and MVD, complete revascularization should be considered, preferably during the index procedure.",
+            "ru": "У пациентов с ОКСбпST и многососудистым поражением следует рассматривать полную реваскуляризацию, предпочтительно во время индексной процедуры."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Functional invasive evaluation of non-IRA severity during the index procedure may be considered.",
+            "ru": "Функциональная инвазивная оценка тяжести non-IRA во время индексной процедуры может быть рассмотрена."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Based on ischaemia, symptoms, patient comorbidities, and clinical condition.",
+      "ru": "На основании ишемии, симптомов, сопутствующих заболеваний пациента и клинического состояния."
+    }
+  },
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "draft"
+  }
+}

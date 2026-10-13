@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "guidelines": [
+    { "id": "esc-acs-2023", "path": "esc-acs-2023/" }
+  ]
+}

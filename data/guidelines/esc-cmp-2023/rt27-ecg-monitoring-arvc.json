@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cmp-2023.rt27-ecg-monitoring-arvc",
+  "guidelineId": "esc-cmp-2023",
+  "number": "Rec Table 27",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for resting and ambulatory electrocardiogram monitoring in patients with arrhythmogenic right ventricular cardiomyopathy",
+    "ru": "Рекомендация по ЭКГ покоя и амбулаторному мониторированию ЭКГ у пациентов с аритмогенной кардиомиопатией правого желудочка"
+  },
+  "tags": [
+    "cardiomyopathy",
+    "arvc",
+    "ecg",
+    "holter",
+    "ambulatory-monitoring",
+    "risk-stratification"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendation for resting and ambulatory electrocardiogram monitoring in patients with arrhythmogenic right ventricular cardiomyopathy",
+        "ru": "Рекомендация по ЭКГ и амбулаторному мониторированию ЭКГ у пациентов с АКПЖ"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Annual ambulatory ECG monitoring is recommended in patients with ARVC to aid in diagnosis, management, and risk stratification.",
+            "ru": "Ежегодное амбулаторное мониторирование ЭКГ рекомендуется пациентам с АКПЖ для содействия диагностике, определению тактики ведения и стратификации риска."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

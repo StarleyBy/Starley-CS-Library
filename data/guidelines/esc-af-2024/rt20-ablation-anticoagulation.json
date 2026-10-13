@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-af-2024.rt20-ablation-anticoagulation",
+  "guidelineId": "esc-af-2024",
+  "number": "Rec Table 20",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for anticoagulation in patients undergoing catheter ablation",
+    "ru": "Рекомендации по антикоагулянтной терапии у пациентов, которым проводится катетерная аблация"
+  },
+  "tags": [
+    "af",
+    "catheter-ablation",
+    "anticoagulation",
+    "uninterrupted-anticoagulation",
+    "cha2ds2-va",
+    "thrombus-exclusion"
+  ],
+  "sections": [
+    {
+      "id": "s01",
+      "title": {
+        "en": "Recommendations for anticoagulation in patients undergoing catheter ablation",
+        "ru": "Рекомендации по антикоагуляции при катетерной аблации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Initiation of oral anticoagulation is recommended at least 3 weeks prior to catheter-based ablation in AF patients at elevated thromboembolic risk, to prevent peri-procedural ischaemic stroke and thromboembolism.",
+            "ru": "Начало оральной антикоагулянтной терапии рекомендуется как минимум за 3 недели до катетерной аблации у пациентов с ФП и повышенным тромбоэмболическим риском для профилактики интра- и периоперационного инсульта и тромбоэмболий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Uninterrupted oral anticoagulation is recommended in patients undergoing AF catheter ablation to prevent peri-procedural ischaemic stroke and thromboembolism.",
+            "ru": "Непрерывная оральная антикоагулянтная терапия рекомендуется пациентам, которым проводится катетерная аблация ФП, для профилактики периоперационного ишемического инсульта и системных тромбоэмболий."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Continuation of oral anticoagulation is recommended for at least 2 months after AF ablation in all patients, irrespective of rhythm outcome or CHA₂DS₂-VA score, to reduce the risk of peri-procedural ischaemic stroke and thromboembolism.",
+            "ru": "Продолжение оральной антикоагуляции рекомендуется в течение не менее 2 месяцев после аблации ФП всем пациентам независимо от сохранения синусового ритма или баллов по шкале CHA₂DS₂-VA для снижения риска периоперационных тромбоэмболий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Continuation of oral anticoagulation is recommended after AF ablation according to the patient’s CHA₂DS₂-VA score, and not the perceived success of the ablation procedure, to prevent ischaemic stroke and thromboembolism.",
+            "ru": "Длительное продолжение оральной антикоагуляции после аблации ФП рекомендуется в соответствии с оценкой риска по шкале CHA₂DS₂-VA, а не на основании предполагаемой эффективности процедуры аблации, для профилактики инсульта и тромбоэмболий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Cardiac imaging should be considered prior to catheter ablation of AF in patients at high risk of ischaemic stroke and thromboembolism despite taking oral anticoagulation to exclude thrombus.",
+            "ru": "Визуализацию полостей сердца (ЧП-ЭхоКГ/КТ) следует рассматривать перед катетерной аблацией ФП у пациентов с высоким риском ишемического инсульта и тромбоэмболий, несмотря на прием оральных антикоагулянтов, для исключения внутрисердечного тромба."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}
