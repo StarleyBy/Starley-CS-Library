@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.t07-favours-pci-vs-cabg",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Figure 3",
+  "title": {
+    "en": "Aspects to be considered by the Heart Team for decision-making between PCI and CABG in stable multivessel and/or left main CAD",
+    "ru": "Факторы, учитываемые командой Heart Team при выборе между ЧКВ и КШ у пациентов со стабильным многососудистым поражением и/или поражением ствола ЛКА"
+  },
+  "type": "grid",
+  "columns": [
+    {
+      "id": "category",
+      "title": {
+        "en": "Category",
+        "ru": "Категория"
+      }
+    },
+    {
+      "id": "favours_pci",
+      "title": {
+        "en": "Favours PCI",
+        "ru": "В пользу ЧКВ"
+      }
+    },
+    {
+      "id": "favours_cabg",
+      "title": {
+        "en": "Favours CABG",
+        "ru": "В пользу КШ"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r_clinical",
+      "cells": [
+        {
+          "text": {
+            "en": "Clinical characteristics",
+            "ru": "Клинические характеристики"
+          }
+        },
+        {
+          "text": {
+            "en": "• Presence of severe co-morbidity (not adequately reflected by scores)\n• Advanced age/frailty/reduced life expectancy\n• Restricted mobility and conditions that affect the rehabilitation process",
+            "ru": "• Наличие тяжелой сопутствующей патологии (недостаточно отраженной в шкалах)\n• Старческий возраст / старческая астения (хрупкость) / снижение ожидаемой продолжительности жизни\n• Ограниченная подвижность и состояния, затрудняющие процесс послеоперационной реабилитации"
+          }
+        },
+        {
+          "text": {
+            "en": "• Diabetes\n• Reduced LV function (EF ≤35%)\n• Contraindication to DAPT\n• Recurrent diffuse in-stent restenosis",
+            "ru": "• Сахарный диабет\n• Сниженная функция ЛЖ (ФВ ≤35%)\n• Противопоказания к ДАТТ\n• Рецидивирующий диффузный рестеноз внутри стента"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_anatomical",
+      "cells": [
+        {
+          "text": {
+            "en": "Anatomical and technical aspects",
+            "ru": "Анатомические и технические аспекты"
+          }
+        },
+        {
+          "text": {
+            "en": "• MVD with SYNTAX score 0–22\n• Anatomy likely resulting in incomplete revascularization with CABG due to poor quality or missing conduits\n• Severe chest deformation or scoliosis\n• Sequelae of chest radiation\n• Porcelain aorta (consider no-touch off-pump CABG in case of porcelain aorta)",
+            "ru": "• Многососудистое поражение с баллом SYNTAX 0–22\n• Анатомия, с высокой вероятностью приводящая к неполной реваскуляризации при КШ из-за плохого качества или отсутствия подходящих кондуитов\n• Тяжелая деформация грудной клетки или сколиоз\n• Последствия лучевой терапии органов грудной клетки\n• Фарфоровая аорта (при фарфоровой аорте рассмотреть КШ на работающем сердце без манипуляций на аорте — no-touch off-pump)"
+          }
+        },
+        {
+          "text": {
+            "en": "• MVD with SYNTAX score ≥23\n• Anatomy likely resulting in incomplete revascularization with PCI\n• Severely calcified coronary artery lesions limiting lesion expansion",
+            "ru": "• Многососудистое поражение с баллом SYNTAX ≥23\n• Анатомия, с высокой вероятностью приводящая к неполной реваскуляризации при ЧКВ\n• Выраженно кальцинированные поражения коронарных артерий, препятствующие адекватному раскрытию стента"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_concomitant",
+      "cells": [
+        {
+          "text": {
+            "en": "Need for concomitant interventions",
+            "ru": "Потребность в сопутствующих вмешательствах"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствует"
+          }
+        },
+        {
+          "text": {
+            "en": "• Ascending aortic pathology with indication for surgery\n• Concomitant cardiac surgery",
+            "ru": "• Патология восходящей аорты с показаниями к операции\n• Необходимость сопутствующего кардиохирургического вмешательства (например, клапанная хирургия)"
+          }
+        }
+      ]
+    }
+  ]
+}

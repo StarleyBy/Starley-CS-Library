@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t02-revised-recommendations",
+  "guidelineId": "esc-pe-2019",
+  "number": "Section 2.2.2",
+  "type": "grid",
+  "title": {
+    "en": "Changes in recommendations 2014–19",
+    "ru": "Изменения в рекомендациях 2014–2019 гг."
+  },
+  "columns": [
+    {
+      "id": "c_recommendation",
+      "title": {
+        "en": "Recommendations",
+        "ru": "Рекомендации"
+      }
+    },
+    {
+      "id": "c_class_2014",
+      "title": {
+        "en": "2014",
+        "ru": "2014"
+      }
+    },
+    {
+      "id": "c_class_2019",
+      "title": {
+        "en": "2019",
+        "ru": "2019"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-rescue-thrombolysis",
+      "cells": [
+        {
+          "text": {
+            "en": "Rescue thrombolytic therapy is recommended for patients who deteriorate haemodynamically.",
+            "ru": "Спасительная (rescue) тромболитическая терапия рекомендуется пациентам с гемодинамическим ухудшением."
+          }
+        },
+        {
+          "text": { "en": "IIa", "ru": "IIa" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "I", "ru": "I" },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "r02-surgical-catheter-embolectomy",
+      "cells": [
+        {
+          "text": {
+            "en": "Surgical embolectomy or catheter-directed treatment should be considered as alternatives to rescue thrombolytic therapy for patients who deteriorate haemodynamically.",
+            "ru": "Хирургическую эмболэктомию или катетерное лечение следует рассматривать как альтернативу спасительной тромболитической терапии у пациентов с гемодинамическим ухудшением."
+          }
+        },
+        {
+          "text": { "en": "IIb", "ru": "IIb" },
+          "tone": "orange"
+        },
+        {
+          "text": { "en": "IIa", "ru": "IIa" },
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "r03-ddimer-pregnancy",
+      "cells": [
+        {
+          "text": {
+            "en": "D-dimer measurement and clinical prediction rules should be considered to rule out PE during pregnancy or the post-partum period.",
+            "ru": "Определение уровня D-димера и шкалы клинической вероятности следует рассматривать для исключения ТЭЛА во время беременности или в послеродовом периоде."
+          }
+        },
+        {
+          "text": { "en": "IIb", "ru": "IIb" },
+          "tone": "orange"
+        },
+        {
+          "text": { "en": "IIa", "ru": "IIa" },
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "r04-cteph-survivors",
+      "cells": [
+        {
+          "text": {
+            "en": "Further evaluation may be considered for asymptomatic PE survivors at increased risk for CTEPH.",
+            "ru": "Дальнейшее обследование может рассматриваться у бессимптомных пациентов, перенесших ТЭЛА, с повышенным риском развития ХТЛГ."
+          }
+        },
+        {
+          "text": { "en": "III", "ru": "III" },
+          "tone": "red"
+        },
+        {
+          "text": { "en": "IIb", "ru": "IIb" },
+          "tone": "orange"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "changes-in-recommendations",
+    "pe",
+    "thrombolysis",
+    "embolectomy",
+    "catheter-directed",
+    "ddimer",
+    "pregnancy",
+    "cteph"
+  ]
+}

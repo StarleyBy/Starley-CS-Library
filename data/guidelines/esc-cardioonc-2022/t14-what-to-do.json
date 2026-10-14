@@ -1,0 +1,1911 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.t14-what-to-do",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Table 14 (What to do)",
+  "type": "recommendations",
+  "title": {
+    "en": "'What to do' and 'what not to do' messages from the Guidelines",
+    "ru": "Ключевые положения «Что делать» и «Чего не делать» из руководства"
+  },
+  "tags": [
+    "cardio-oncology",
+    "what-to-do",
+    "what-not-to-do",
+    "summary",
+    "class-i",
+    "class-iii"
+  ],
+  "sections": [
+    {
+      "id": "sec-rt1",
+      "title": {
+        "en": "Recommendation Table 1 — Recommendations for a general approach to cardiovascular toxicity risk categorization",
+        "ru": "Таблица рекомендаций 1 — Рекомендации по общему подходу к категоризации риска сердечно-сосудистой токсичности"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "CV toxicity risk stratification before starting potentially cardiotoxic anticancer therapy is recommended in all patients with cancer.",
+            "ru": "Стратификация риска сердечно-сосудистой токсичности перед началом потенциально кардиотоксической противоопухолевой терапии рекомендуется всем пациентам с онкологическими заболеваниями."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Communicating the results of the CV toxicity risk assessment to the patient and other appropriate healthcare professionals is recommended.",
+            "ru": "Рекомендуется информировать пациента и профильных медицинских специалистов о результатах оценки риска сердечно-сосудистой токсичности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "It is recommended that patients categorized to be at low CV toxicity risk should proceed to anticancer therapy without delay.",
+            "ru": "Пациентам категории низкого риска кардиотоксичности рекомендуется начинать противоопухолевую терапию без задержек."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Cardiology referral is recommended in high-risk and very high-risk patients before anticancer therapy (unless there is an oncology emergency requiring immediate cancer treatment).",
+            "ru": "Направление к кардиологу/кардиоонкологу рекомендуется пациентам высокого и очень высокого риска перед началом противоопухолевой терапии (за исключением экстренных онкологических состояний, требующих немедленного лечения)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Discussion of the risk/benefit balance of cardiotoxic anticancer treatment in high- and very high-risk patients in a multidisciplinary approach prior to starting treatment is recommended.",
+            "ru": "Рекомендуется обсуждение соотношения пользы и риска кардиотоксической терапии у пациентов высокого и очень высокого риска в рамках мультидисциплинарного консилиума до начала лечения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Cardiology referral is recommended for patients with cancer and pre-existing CVD or abnormal findings at baseline CV toxicity risk assessment who require potentially cardiotoxic anticancer therapy.",
+            "ru": "Направление к кардиологу рекомендуется пациентам с онкологическими заболеваниями и предшествующими ССЗ либо патологическими изменениями при исходной оценке риска, которым требуется потенциально кардиотоксическая терапия."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt2",
+      "title": {
+        "en": "Recommendation Table 2 — Recommendations for electrocardiogram baseline assessment",
+        "ru": "Таблица рекомендаций 2 — Рекомендации по исходной оценке электрокардиограммы"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "An ECG is recommended in all patients starting cancer therapy as part of their baseline CV risk assessment.",
+            "ru": "Регистрация ЭКГ рекомендуется всем пациентам, начинающим противоопухолевую терапию, как обязательная часть исходной оценки сердечно-сосудистого риска."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "In patients with an abnormal baseline ECG, referral to a cardiologist is recommended.",
+            "ru": "У пациентов с патологическими изменениями на исходной ЭКГ рекомендуется направление на консультацию к кардиологу/кардиоонкологу."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt3",
+      "title": {
+        "en": "Recommendation Table 3 — Recommendation for cardiac biomarker assessment prior to potentially cardiotoxic therapies",
+        "ru": "Таблица рекомендаций 3 — Рекомендация по исследованию сердечных биомаркеров перед потенциально кардиотоксической терапией"
+      },
+      "rows": [
+        {
+          "id": "r09",
+          "text": {
+            "en": "Baseline measurement of NP and/or cTn is recommended in all patients with cancer at risk of CTRCD if these biomarkers are going to be measured during treatment to detect CTRCD.",
+            "ru": "Исходное определение натрийуретических пептидов (NP) и/или сердечного тропонина (cTn) рекомендуется всем пациентам с онкологическими заболеваниями из группы риска развития CTRCD, если предполагается мониторинг этих биомаркеров в процессе лечения для раннего выявления кардиотоксичности."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt4",
+      "title": {
+        "en": "Recommendation Table 4 — Recommendations for cardiac imaging modalities in patients with cancer",
+        "ru": "Таблица рекомендаций 4 — Рекомендации по методам визуализации сердца у пациентов с онкологическими заболеваниями"
+      },
+      "rows": [
+        {
+          "id": "r10",
+          "text": {
+            "en": "Echocardiography is recommended as the first-line modality for the assessment of cardiac function in patients with cancer.",
+            "ru": "Эхокардиография рекомендуется как метод первой линии для оценки функции сердца у пациентов с онкологическими заболеваниями."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "3D echocardiography is recommended as the preferred echocardiographic modality to measure LVEF.",
+            "ru": "Трехмерная эхокардиография рекомендуется как предпочтительный эхокардиографический метод для измерения ФВ ЛЖ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "GLS is recommended in all patients with cancer having echocardiography, if available.",
+            "ru": "Оценка глобальной продольной деформации (GLS) рекомендуется всем пациентам с онкологическими заболеваниями при проведении эхокардиографии (при технической доступности)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "Baseline comprehensive TTE is recommended in all patients with cancer at high risk and very high risk of CV toxicity before starting anticancer therapy (except asymptomatic patients referred to BCR-ABL therapy where baseline TTE should be considered).",
+            "ru": "Исходная комплексная трансторакальная ЭхоКГ рекомендуется всем пациентам с онкологическими заболеваниями высокого и очень высокого риска кардиотоксичности перед началом противоопухолевой терапии (за исключением бессимптомных пациентов перед терапией ингибиторами BCR-ABL, где исходную ЭхоКГ следует рассмотреть)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt5",
+      "title": {
+        "en": "Recommendation Table 5 — Recommendations for primary prevention of cancer therapy-related cardiovascular toxicity",
+        "ru": "Таблица рекомендаций 5 — Рекомендации по первичной профилактике сердечно-сосудистой токсичности противоопухолевой терапии"
+      },
+      "rows": [
+        {
+          "id": "r14",
+          "text": {
+            "en": "Management of CVRF according to the 2021 ESC Guidelines on CVD prevention in clinical practice is recommended before, during, and after cancer therapy (without delaying cancer treatments).",
+            "ru": "Контроль факторов сердечно-сосудистого риска в соответствии с рекомендациями ESC по профилактике ССЗ рекомендуется до, во время и после противоопухолевой терапии (без задержки начала онкологического лечения)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt6",
+      "title": {
+        "en": "Recommendation Table 6 — Recommendation for secondary prevention of cancer therapy-related cardiovascular toxicity",
+        "ru": "Таблица рекомендаций 6 — Рекомендация по вторичной профилактике сердечно-сосудистой токсичности противоопухолевой терапии"
+      },
+      "rows": [
+        {
+          "id": "r15",
+          "text": {
+            "en": "Management of CVD according to applicable ESC Guidelines is recommended before, during, and after cancer therapy (without delaying cancer treatments).",
+            "ru": "Ведение и лечение сердечно-сосудистых заболеваний в соответствии с применимыми клиническими рекомендациями ESC рекомендуется до, во время и после противоопухолевой терапии (без задержки начала противоопухолевого лечения)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt7",
+      "title": {
+        "en": "Recommendation Table 7 — Recommendations for baseline risk assessment and monitoring during anthracycline chemotherapy and in the first 12 months after therapy",
+        "ru": "Таблица рекомендаций 7 — Рекомендации по исходной оценке риска и мониторингу во время химиотерапии антрациклинами и в первые 12 месяцев после завершения терапии"
+      },
+      "rows": [
+        {
+          "id": "r16",
+          "text": {
+            "en": "Baseline echocardiography is recommended in all patients with cancer before anthracycline chemotherapy (if echocardiography is unavailable or non-diagnostic, follow general cardiac imaging modalities).",
+            "ru": "Исходная эхокардиография рекомендуется всем пациентам с онкологическими заболеваниями перед началом химиотерапии антрациклинами (если ЭхоКГ недоступна или неинформативна, используются альтернативные методы визуализации сердца)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r17",
+          "text": {
+            "en": "In all adults receiving anthracycline chemotherapy, an echocardiogram is recommended within 12 months after completing treatment.",
+            "ru": "Всем взрослым пациентам, получающим химиотерапию антрациклинами, рекомендуется выполнение эхокардиографии в течение 12 месяцев после завершения лечения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r18",
+          "text": {
+            "en": "In high- and very high-risk patients, echocardiography is recommended every two cycles and within 3 months after completing treatment.",
+            "ru": "У пациентов высокого и очень высокого риска эхокардиография рекомендуется каждые два цикла химиотерапии и в течение 3 месяцев после завершения лечения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r19",
+          "text": {
+            "en": "Baseline measurement of NP and cTn is recommended in high- and very high-risk patients prior to anthracycline chemotherapy.",
+            "ru": "Исходное определение натрийуретических пептидов (NP) и сердечного тропонина (cTn) рекомендуется пациентам высокого и очень высокого риска перед началом химиотерапии антрациклинами."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r20",
+          "text": {
+            "en": "cTn and NP monitoring before every cycle during anthracycline chemotherapy and 3 and 12 months after therapy completion is recommended in high- and very high-risk patients.",
+            "ru": "Мониторинг сердечного тропонина (cTn) и NP перед каждым циклом химиотерапии антрациклинами, а также через 3 и 12 месяцев после завершения лечения рекомендуется пациентам высокого и очень высокого риска."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt8",
+      "title": {
+        "en": "Recommendation Table 8 — Recommendations for baseline risk assessment and monitoring during human epidermal receptor 2-targeted therapies and in the first 12 months after therapy",
+        "ru": "Таблица рекомендаций 8 — Рекомендации по исходной оценке риска и мониторингу во время таргетной терапии против рецептора HER2 и в первые 12 месяцев после терапии"
+      },
+      "rows": [
+        {
+          "id": "r21",
+          "text": {
+            "en": "Baseline echocardiography (or alternative cardiac imaging if unavailable/non-diagnostic) is recommended before HER2-targeted therapies in all patients.",
+            "ru": "Исходная эхокардиография (или альтернативная визуализация сердца при недоступности/неинформативности) рекомендуется перед терапией, направленной на HER2, всем пациентам."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r22",
+          "text": {
+            "en": "In patients receiving neoadjuvant or adjuvant HER2-targeted therapies, echocardiography is recommended every 3 months and within 12 months after completing treatment.",
+            "ru": "У пациентов, получающих неоадъювантную или адъювантную терапию, направленную на HER2, эхокардиография рекомендуется каждые 3 месяца и в течение 12 месяцев после завершения лечения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r23",
+          "text": {
+            "en": "In metastatic HER2+ disease, echocardiography is recommended every 3 months during the first year; if the patient remains asymptomatic without CV toxicity, then surveillance can be reduced to every 6 months during future treatment in low- and moderate-risk patients.",
+            "ru": "При метастатическом HER2+ заболевании эхокардиография рекомендуется каждые 3 месяца в течение первого года; если у пациента сохраняется бессимптомное течение без признаков СС-токсичности, наблюдение может быть сокращено до одного раза в 6 месяцев во время дальнейшего лечения у пациентов низкого и умеренного риска."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r24",
+          "text": {
+            "en": "Baseline NP and cTn measurement are recommended in high- and very high-risk patients prior to anti-HER2-targeted therapies.",
+            "ru": "Исходное определение натрийуретических пептидов (NP) и сердечных тропонинов (cTn) рекомендуется пациентам высокого и очень высокого риска перед началом анти-HER2 таргетной терапии."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt9",
+      "title": {
+        "en": "Recommendation Table 9 — Recommendations for baseline risk assessment and monitoring during fluoropyrimidine therapy",
+        "ru": "Таблица рекомендаций 9 — Рекомендации по исходной оценке риска и мониторингу во время терапии фторпиримидинами"
+      },
+      "rows": [
+        {
+          "id": "r25",
+          "text": {
+            "en": "Baseline CV risk assessment and evaluation including BP measurement, ECG, lipid profile, HbA1c measurement, and SCORE2/SCORE2-OP or equivalent is recommended before starting fluoropyrimidines.",
+            "ru": "Исходная оценка сердечно-сосудистого риска и обследование, включая измерение АД, ЭКГ, липидный профиль, определение уровня HbA1c и стратификацию по шкале SCORE2/SCORE2-OP (или эквиваленту), рекомендуется перед началом приема фторпиримидинов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r26",
+          "text": {
+            "en": "A baseline echocardiogram is recommended in patients with a history of symptomatic CVD before starting fluoropyrimidines.",
+            "ru": "Исходная эхокардиография рекомендуется пациентам с симптоматическими сердечно-сосудистыми заболеваниями в анамнезе перед началом приема фторпиримидинов."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt10",
+      "title": {
+        "en": "Recommendation Table 10 — Recommendations for baseline risk assessment and monitoring during vascular endothelial growth factor inhibitors",
+        "ru": "Таблица рекомендаций 10 — Рекомендации по исходной оценке риска и мониторингу во время терапии ингибиторами фактора роста эндотелия сосудов (VEGFi)"
+      },
+      "rows": [
+        {
+          "id": "r27",
+          "text": {
+            "en": "BP measurement is recommended for patients treated with VEGFi, bevacizumab, or ramucirumab at every clinical visit.",
+            "ru": "Измерение АД рекомендуется пациентам, получающим ингибиторы VEGF (VEGFi), бевацизумаб или рамуцирумаб, при каждом клиническом визите."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r28",
+          "text": {
+            "en": "Daily home monitoring of BP for patients treated with VEGFi during the first cycle, after each increase of VEGFi dose, and every 2–3 weeks thereafter is recommended.",
+            "ru": "Ежедневный домашний самоконтроль АД рекомендуется пациентам, получающим терапию VEGFi, в течение первого цикла, после каждого повышения дозы VEGFi и каждые 2–3 недели в последующем."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r29",
+          "text": {
+            "en": "In patients treated with VEGFi at moderate or high risk of QTc prolongation, QTc monitoring (using Fridericia correction QTcF preferred; consider ECG 2 weeks after starting in high-risk and upon dose increase) is recommended monthly during the first 3 months and every 3–6 months thereafter.",
+            "ru": "У пациентов, получающих VEGFi, с умеренным или высоким риском удлинения интервала QTc, рекомендуется мониторинг QTc (предпочтительна формула Фридеричи QTcF; при высоком риске и увеличении дозы целесообразна ЭКГ через 2 недели) ежемесячно в течение первых 3 месяцев и каждые 3–6 месяцев в дальнейшем."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r30",
+          "text": {
+            "en": "Baseline echocardiography is recommended in high- and very high-risk patients treated with VEGFi or bevacizumab.",
+            "ru": "Исходная эхокардиография рекомендуется пациентам высокого и очень высокого риска, получающим лечение VEGFi или бевацизумабом."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt11",
+      "title": {
+        "en": "Recommendation Table 11 — Recommendations for baseline risk assessment and monitoring during second- and third-generation breakpoint cluster region–Abelson oncogene locus tyrosine kinase inhibitors",
+        "ru": "Таблица рекомендаций 11 — Рекомендации по исходной оценке риска и мониторингу во время применения ингибиторов тирозинкиназы BCR-ABL второго и третьего поколений"
+      },
+      "rows": [
+        {
+          "id": "r31",
+          "text": {
+            "en": "Baseline CV risk assessment (physical examination, BP measurement, ECG, lipid profile, and HbA1c; coronary artery calcium scoring may be considered in low- and moderate-risk patients as per HFA-ICOS tools) is recommended in patients who require second- or third-generation BCR-ABL TKI.",
+            "ru": "Исходная оценка сердечно-сосудистого риска (физикальный осмотр, измерение АД, ЭКГ, липидограмма и HbA1c; оценка кальциевого индекса коронарных артерий может рассматриваться у пациентов низкого и умеренного риска по шкалам HFA-ICOS) рекомендуется пациентам, которым показаны ИТК BCR-ABL второго или третьего поколений."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r32",
+          "text": {
+            "en": "In patients treated with nilotinib or ponatinib, CV risk assessment is recommended every 3 months during the first year and every 6–12 months thereafter.",
+            "ru": "У пациентов, получающих нилотиниб или понатиниб, оценка сердечно-сосудистого риска рекомендуется каждые 3 месяца в течение первого года и каждые 6–12 месяцев в дальнейшем."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r33",
+          "text": {
+            "en": "Baseline echocardiography is recommended in patients scheduled to receive dasatinib.",
+            "ru": "Исходная эхокардиография рекомендуется пациентам, которым запланирован прием дазатиниба."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt12",
+      "title": {
+        "en": "Recommendation Table 12 — Recommendations for baseline risk assessment and monitoring during Bruton tyrosine kinase inhibitor therapy",
+        "ru": "Таблица рекомендаций 12 — Рекомендации по исходной оценке риска и мониторингу во время терапии ингибиторами тирозинкиназы Брутона (BTK)"
+      },
+      "rows": [
+        {
+          "id": "r34",
+          "text": {
+            "en": "BP measurement is recommended for patients treated with BTK inhibitors at every clinical visit.",
+            "ru": "Измерение АД рекомендуется пациентам, получающим терапию ингибиторами BTK, при каждом клиническом визите."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r35",
+          "text": {
+            "en": "Baseline echocardiography is recommended in high-risk patients (male, age ≥65 years, previous history of hypertension, DM, QTc ≥480 ms, AF, HF, cardiomyopathy, or severe VHD) scheduled to receive BTK inhibitors.",
+            "ru": "Исходная эхокардиография рекомендуется пациентам высокого риска (мужской пол, возраст ≥65 лет, анамнез артериальной гипертензии, СД, QTc ≥480 мс, ФП, СН, кардиомиопатия или тяжелый порок клапанов), которым запланирован прием ингибиторов BTK."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r36",
+          "text": {
+            "en": "TTE is recommended in all patients who develop AF during BTK inhibitor therapy.",
+            "ru": "ТТЭ рекомендуется всем пациентам, у которых развивается фибрилляция предсердий на фоне терапии ингибиторами BTK."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r37",
+          "text": {
+            "en": "Opportunistic screening for AF by pulse-taking or ECG rhythm strip is recommended at every clinical visit during BTK inhibitor therapy.",
+            "ru": "Оппортунистический скрининг на ФП путем пальпации пульса или регистрации фрагмента ритма на ЭКГ рекомендуется при каждом клиническом визите на фоне терапии ингибиторами BTK."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt13",
+      "title": {
+        "en": "Recommendation Table 13 — Recommendations for baseline risk assessment and monitoring during multiple myeloma therapies",
+        "ru": "Таблица рекомендаций 13 — Рекомендации по исходной оценке риска и мониторингу во время терапии множественной миеломы"
+      },
+      "rows": [
+        {
+          "id": "r38",
+          "text": {
+            "en": "BP measurement is recommended for patients treated with proteasome inhibitors (PI) at every clinical visit.",
+            "ru": "Измерение АД рекомендуется пациентам, получающим терапию ингибиторами протеасом (ИП), при каждом клиническом визите."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r39",
+          "text": {
+            "en": "Measurement of NP is recommended prior to PI in high- and very high-risk patients.",
+            "ru": "Определение натрийуретических пептидов (NP) рекомендуется перед началом приема ИП у пациентов высокого и очень высокого риска."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r40",
+          "text": {
+            "en": "NP and cTn measurements are recommended at baseline and every 3–6 months in patients with light-chain cardiac amyloidosis (AL-CA), depending on HF severity and treatment.",
+            "ru": "Определение уровней NP и тропонинов (cTn) рекомендуется исходно и каждые 3–6 месяцев у пациентов с AL-амилоидозом сердца (в зависимости от тяжести сердечной недостаточности и проводимой терапии)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r41",
+          "text": {
+            "en": "Baseline echocardiography, including assessment for AL-CA, is recommended in all patients with multiple myeloma scheduled to receive PI.",
+            "ru": "Исходная эхокардиография, включая оценку признаков AL-амилоидоза сердца, рекомендуется всем пациентам с множественной миеломой, которым планируется терапия ИП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r42",
+          "text": {
+            "en": "Therapeutic doses of LMWH are recommended in patients with multiple myeloma with previous VTE.",
+            "ru": "Терапевтические дозы низкомолекулярного гепарина (НМГ) рекомендуются пациентам с множественной миеломой, имеющим венозные тромбоэмболии (ВТЭО) в анамнезе."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r43",
+          "text": {
+            "en": "Prophylactic doses of LMWH are recommended in patients with multiple myeloma with VTE-related risk factors (excluding previous VTE) at least during the first 6 months of therapy.",
+            "ru": "Профилактические дозы НМГ рекомендуются пациентам с множественной миеломой при наличии факторов риска ВТЭО (за исключением предшествующих ВТЭО в анамнезе) как минимум в течение первых 6 месяцев терапии."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt14",
+      "title": {
+        "en": "Recommendation Table 14 — Recommendations for baseline risk assessment and monitoring during combined rapidly accelerated fibrosarcoma and mitogen-activated extracellular signal-regulated kinase inhibitor therapy",
+        "ru": "Таблица рекомендаций 14 — Рекомендации по исходной оценке риска и мониторингу во время комбинированной терапии ингибиторами RAF и MEK"
+      },
+      "rows": [
+        {
+          "id": "r44",
+          "text": {
+            "en": "BP monitoring at each clinical visit and weekly outpatient monitoring during the first 3 months of treatment and monthly thereafter is recommended.",
+            "ru": "Мониторинг АД при каждом клиническом визите и еженедельный амбулаторный самоконтроль в течение первых 3 месяцев лечения, а затем ежемесячно, рекомендуется."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r45",
+          "text": {
+            "en": "In patients treated with cobimetinib/vemurafenib, an ECG is recommended at 2 and 4 weeks after initiation of treatment and every 3 months thereafter (consider an ECG and new monitoring in the case of any dose increase).",
+            "ru": "У пациентов, получающих кобиметиниб/вемурафениб, ЭКГ рекомендуется через 2 и 4 недели после начала лечения и каждые 3 месяца в дальнейшем (при любом повышении дозы целесообразно выполнить ЭКГ и возобновить мониторинг)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r46",
+          "text": {
+            "en": "Baseline echocardiography is recommended in all high- and very high-risk patients scheduled to receive combined RAF and MEK inhibitors.",
+            "ru": "Исходная эхокардиография рекомендуется всем пациентам высокого и очень высокого риска, которым запланирована комбинированная терапия ингибиторами RAF и MEK."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt15",
+      "title": {
+        "en": "Recommendation Table 15 — Recommendations for baseline risk assessment and monitoring during immunotherapy",
+        "ru": "Таблица рекомендаций 15 — Рекомендации по исходной оценке риска и мониторингу во время иммунотерапии (ингибиторами иммунных контрольных точек, ICI)"
+      },
+      "rows": [
+        {
+          "id": "r47",
+          "text": {
+            "en": "ECG, NP, and cTn measurements are recommended in all patients before starting ICI therapy.",
+            "ru": "ЭКГ, определение уровней натрийуретических пептидов (NP) и сердечных тропонинов (cTn) рекомендуются всем пациентам перед началом терапии ICI."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r48",
+          "text": {
+            "en": "Baseline echocardiography is recommended in high-risk patients (dual ICI, combination ICI-cardiotoxic therapy, ICI-related non-CV events, prior CTRCD, or CVD) before starting ICI therapy.",
+            "ru": "Исходная эхокардиография рекомендуется пациентам высокого риска (двойная блокада ICI, комбинация ICI с кардиотоксичной терапией, некардиальные иммуноопосредованные осложнения на ICI, предшествующая кардиотоксичность CTRCD или ССЗ) перед началом терапии ICI."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r49",
+          "text": {
+            "en": "CV assessment (physical examination, BP, NP [BNP or NT-proBNP], lipid profile, HbA1c, and ECG) is recommended every 6–12 months in high-risk patients who require long-term (>12 months) ICI treatment.",
+            "ru": "Оценка сердечно-сосудистого статуса (осмотр, АД, NP [BNP или NT-proBNP], липидограмма, HbA1c и ЭКГ) рекомендуется каждые 6–12 месяцев пациентам группы высокого риска, которым требуется длительное (>12 месяцев) лечение ICI."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt16",
+      "title": {
+        "en": "Recommendation Table 16 — Recommendations for baseline risk assessment and monitoring during androgen deprivation therapy for prostate cancer",
+        "ru": "Таблица рекомендаций 16 — Рекомендации по исходной оценке риска и мониторингу во время андроген-депривационной терапии (АДТ) при раке предстательной железы"
+      },
+      "rows": [
+        {
+          "id": "r50",
+          "text": {
+            "en": "Baseline CV risk assessment (BP, lipids, fasting glucose, HbA1c, ECG, lifestyle education) and estimation of 10-year fatal and non-fatal CVD risk with SCORE2 or SCORE2-OP is recommended in patients treated with ADT without pre-existing CVD.",
+            "ru": "Исходная оценка сердечно-сосудистого риска (АД, липиды, глюкоза натощак, HbA1c, ЭКГ, консультирование по образу жизни) и оценка 10-летнего риска фатальных и нефатальных сердечно-сосудистых событий по SCORE2 или SCORE2-OP рекомендуется пациентам, получающим АДТ, без предшествующих ССЗ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r51",
+          "text": {
+            "en": "Baseline and serial ECGs are recommended in patients at risk of QTc prolongation during ADT therapy.",
+            "ru": "Исходная ЭКГ и серийный ЭКГ-мониторинг рекомендуются пациентам с риском удлинения интервала QTc во время терапии АДТ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r52",
+          "text": {
+            "en": "Annual CV risk assessment (BP, lipids, fasting glucose, HbA1c, ECG, and lifestyle education) is recommended during ADT.",
+            "ru": "Ежегодная оценка сердечно-сосудистого риска (АД, липиды, глюкоза, HbA1c, ЭКГ и контроль факторов образа жизни) рекомендуется во время терапии АДТ."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt17",
+      "title": {
+        "en": "Recommendation Table 17 — Recommendations for baseline risk assessment and monitoring during endocrine therapy for breast cancer",
+        "ru": "Таблица рекомендаций 17 — Рекомендации по исходной оценке риска и мониторингу во время эндокринной (гормональной) терапии рака молочной железы"
+      },
+      "rows": [
+        {
+          "id": "r53",
+          "text": {
+            "en": "Baseline CV risk assessment (BP, lipids, fasting glucose, HbA1c, ECG, and lifestyle education) and estimation of 10-year fatal and non-fatal CVD risk with SCORE2 or SCORE2-OP (or other validated scores) is recommended in breast cancer patients receiving endocrine therapies without pre-existing CVD.",
+            "ru": "Исходная оценка сердечно-сосудистого риска (АД, липиды, глюкоза, HbA1c, ЭКГ и обучение здоровому образу жизни) и оценка 10-летнего риска фатальных и нефатальных сердечно-сосудистых осложнений по шкале SCORE2 или SCORE2-OP (или другим валидированным шкалам) рекомендуется пациенткам с раком молочной железы, получающим эндокринную терапию, без предшествующих ССЗ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r54",
+          "text": {
+            "en": "Annual CV risk assessment is recommended during endocrine therapy in breast cancer patients with high 10-year risk of (fatal and non-fatal) CV events according to SCORE2/SCORE2-OP.",
+            "ru": "Ежегодная оценка сердечно-сосудистого риска рекомендуется во время эндокринной терапии пациенткам с раком молочной железы, имеющим высокий 10-летний риск (фатальных и нефатальных) сердечно-сосудистых событий по SCORE2/SCORE2-OP."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt18",
+      "title": {
+        "en": "Recommendation Table 18 — Recommendations for baseline risk assessment and monitoring during cyclin-dependent kinase 4/6 inhibitor therapy",
+        "ru": "Таблица рекомендаций 18 — Рекомендации по исходной оценке риска и мониторингу во время терапии ингибиторами циклин-зависимых киназ 4/6 (CDK4/6)"
+      },
+      "rows": [
+        {
+          "id": "r55",
+          "text": {
+            "en": "QTc monitoring (using Fridericia correction QTcF preferred; upper 99% normal is 450 ms for men, 460 ms for women) is recommended at baseline and 14 and 28 days in all patients with cancer receiving ribociclib (interrupt ribociclib if QTcF >480 ms; resume same dose if <481 ms; if recurrence, reduce dose).",
+            "ru": "Мониторинг интервала QTc (предпочтительна формула Фридеричи QTcF; верхняя 99% граница нормы 450 мс для мужчин, 460 мс для женщин) рекомендуется исходно, а также на 14-й и 28-й дни всем пациентам, получающим рибоциклиб (при QTcF >480 мс прием приостанавливают; при снижении <481 мс возобновляют в прежней дозе, при повторе — снижают дозу)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r56",
+          "text": {
+            "en": "QTc monitoring is recommended in patients treated with ribociclib with any dose increase.",
+            "ru": "Мониторинг интервала QTc рекомендуется пациентам, получающим рибоциклиб, при любом повышении дозы."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt19",
+      "title": {
+        "en": "Recommendation Table 19 — Recommendations for baseline risk assessment and monitoring during anaplastic lymphoma kinase and epidermal growth factor receptor inhibitors",
+        "ru": "Таблица рекомендаций 19 — Рекомендации по исходной оценке риска и мониторингу во время применения ингибиторов киназы анапластической лимфомы (ALK) и рецептора эпидермального фактора роста (EGFR)"
+      },
+      "rows": [
+        {
+          "id": "r57",
+          "text": {
+            "en": "Baseline CV risk assessment (physical examination, BP measurement, ECG, lipid profile, and HbA1c) is recommended in patients before ALK inhibitors and EGFR inhibitors.",
+            "ru": "Исходная оценка сердечно-сосудистого риска (физикальный осмотр, измерение АД, ЭКГ, липидограмма и HbA1c) рекомендуется пациентам перед началом приема ингибиторов ALK и EGFR."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r58",
+          "text": {
+            "en": "Baseline echocardiography is recommended in all patients with cancer before starting osimertinib.",
+            "ru": "Исходная эхокардиография рекомендуется всем пациентам со злокачественными новообразованиями перед началом приема осимертиниба."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt20",
+      "title": {
+        "en": "Recommendation Table 20 — Recommendations for baseline risk assessment and monitoring in patients receiving chimeric antigen receptor T cell and tumour-infiltrating lymphocytes therapies",
+        "ru": "Таблица рекомендаций 20 — Рекомендации по исходной оценке риска и мониторингу у пациентов, получающих CAR-T клеточную терапию и опухоль-инфильтрирующие лимфоциты (TIL)"
+      },
+      "rows": [
+        {
+          "id": "r59",
+          "text": {
+            "en": "Baseline ECG, NP, and cTn are recommended in all patients with cancer before starting CAR-T and TIL therapies.",
+            "ru": "Исходная ЭКГ, определение натрийуретических пептидов (NP) и сердечных тропонинов (cTn) рекомендуются всем пациентам перед началом терапии CAR-T и TIL."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r60",
+          "text": {
+            "en": "A baseline echocardiography is recommended in patients with pre-existing CVD before starting CAR-T and TIL therapies.",
+            "ru": "Исходная эхокардиография рекомендуется пациентам с предшествующими ССЗ перед началом терапии CAR-T и TIL."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r61",
+          "text": {
+            "en": "Measurement of NP, cTn, and echocardiography are recommended in patients who develop cytokine release syndrome (CRS) of ASTCT grade ≥2 (Grade 2: fever and hypotension not requiring vasopressors and/or hypoxia requiring low-flow O2; Grade 3-4: requiring vasopressors/high-flow O2 or mechanical ventilation).",
+            "ru": "Определение NP, cTn и эхокардиография рекомендуются пациентам, у которых развивается синдром выброса цитокинов (CRS) по классификации ASTCT ≥2 степени (2-я ст.: лихорадка и гипотензия без вазопрессоров и/или гипоксия с низкопоточной оксигенотерапией; 3–4 ст.: потребность в вазопрессорах, высокопоточной оксигенации или ИВЛ)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt21",
+      "title": {
+        "en": "Recommendation Table 21 — Recommendations for baseline risk assessment of patients before radiotherapy to a volume including the heart",
+        "ru": "Таблица рекомендаций 21 — Рекомендации по исходной оценке риска пациентов перед лучевой терапией на область, включающую сердце"
+      },
+      "rows": [
+        {
+          "id": "r62",
+          "text": {
+            "en": "Baseline CV risk assessment (BP, lipids, fasting glucose, HbA1c, ECG, and lifestyle education) and estimation of 10-year fatal and non-fatal CVD risk with SCORE2 or SCORE2-OP is recommended.",
+            "ru": "Исходная оценка сердечно-сосудистого риска (АД, липиды, глюкоза натощак, HbA1c, ЭКГ и обучение здоровому образу жизни) и оценка 10-летнего риска фатальных и нефатальных сердечно-сосудистых событий по шкале SCORE2 или SCORE2-OP рекомендуется."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt22",
+      "title": {
+        "en": "Recommendation Table 22 — Recommendations for baseline risk assessment in haematopoietic stem cell transplantation patients",
+        "ru": "Таблица рекомендаций 22 — Рекомендации по исходной оценке риска у пациентов перед трансплантацией гемопоэтических стволовых клеток (ТГСК / HSCT)"
+      },
+      "rows": [
+        {
+          "id": "r63",
+          "text": {
+            "en": "Baseline and serial CV risk assessment (3 and 12 months, then yearly) including BP measurement, ECG, lipid measurement, and HbA1c is recommended in HSCT patients.",
+            "ru": "Исходная и серийная оценка сердечно-сосудистого риска (через 3 и 12 месяцев, затем ежегодно), включая измерение АД, ЭКГ, анализ липидов и уровня HbA1c, рекомендуется пациентам при ТГСК."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r64",
+          "text": {
+            "en": "Echocardiography is recommended in all patients before HSCT.",
+            "ru": "Эхокардиография рекомендуется всем пациентам перед проведением ТГСК."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt23",
+      "title": {
+        "en": "Recommendation Table 23 — Recommendation for the management of cardiovascular disease and cancer therapy-related cardiovascular toxicity in patients receiving anticancer treatment",
+        "ru": "Таблица рекомендаций 23 — Рекомендация по ведению сердечно-сосудистых заболеваний и кардиоваскулярной токсичности у пациентов, получающих противоопухолевое лечение"
+      },
+      "rows": [
+        {
+          "id": "r65",
+          "text": {
+            "en": "A specialist CV assessment (cardio-oncology referral when available; alternatively, referral to a specialized cardiologist with expertise in managing CVD in patients with cancer) is recommended for optimal diagnostic workup and management of patients with cancer who present with new CV toxicity during and after cancer treatment.",
+            "ru": "Специализированная кардиологическая оценка (направление к кардиоонкологу при доступности; в противном случае — к кардиологу с опытом ведения ССЗ у онкологических пациентов) рекомендуется для оптимального диагностического поиска и ведения пациентов с онкологическими заболеваниями при развитии новых признаков кардиоваскулярной токсичности во время и после противоопухолевого лечения."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt24",
+      "title": {
+        "en": "Recommendation Table 24 — Recommendations for the management of cancer treatment-related cardiac dysfunction during anthracycline chemotherapy",
+        "ru": "Таблица рекомендаций 24 — Рекомендации по ведению кардиальной дисфункции, связанной с противоопухолевой терапией (CTRCD), во время химиотерапии антрациклинами"
+      },
+      "rows": [
+        {
+          "id": "r66",
+          "text": {
+            "en": "HF therapy is recommended for patients who develop symptomatic CTRCD during anthracycline chemotherapy.",
+            "ru": "Терапия сердечной недостаточности рекомендуется пациентам, у которых развивается симптоматическая CTRCD во время химиотерапии антрациклинами."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r67",
+          "text": {
+            "en": "Discontinuation of anthracycline chemotherapy is recommended in patients who develop symptomatic severe CTRCD.",
+            "ru": "Полная отмена химиотерапии антрациклинами рекомендуется пациентам, у которых развивается симптоматическая тяжелая CTRCD."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r68",
+          "text": {
+            "en": "Temporary interruption of anthracycline chemotherapy is recommended in patients who develop symptomatic moderate CTRCD and a multidisciplinary approach regarding the decision to restart is recommended.",
+            "ru": "Временное прерывание химиотерапии антрациклинами рекомендуется пациентам, у которых развивается симптоматическая умеренная CTRCD; решение о возобновлении рекомендуется принимать в рамках мультидисциплинарного консилиума."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r69",
+          "text": {
+            "en": "A multidisciplinary approach regarding interruption vs. continuation of anthracycline chemotherapy is recommended in patients who develop mild symptomatic CTRCD.",
+            "ru": "Мультидисциплинарный подход в отношении приостановки или продолжения химиотерапии антрациклинами рекомендуется пациентам, у которых развивается легкая симптоматическая CTRCD."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r70",
+          "text": {
+            "en": "Temporary interruption of anthracycline chemotherapy and initiation of HF therapy is recommended in patients who develop asymptomatic moderate or severe CTRCD.",
+            "ru": "Временное прерывание химиотерапии антрациклинами и инициация терапии сердечной недостаточности рекомендуются пациентам, у которых развивается бессимптомная умеренная или тяжелая CTRCD."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r71",
+          "text": {
+            "en": "A multidisciplinary approach regarding the decision when to restart is recommended in all patients with moderate or severe asymptomatic CTRCD.",
+            "ru": "Мультидисциплинарный подход относительно решения о сроках возобновления терапии рекомендуется всем пациентам с умеренной или тяжелой бессимптомной CTRCD."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r72",
+          "text": {
+            "en": "Continuation of anthracycline chemotherapy is recommended in asymptomatic patients who have LVEF ≥ 50% and who have developed a significant fall in GLS (relative reduction >15%) or a troponin or a NP elevation > ULN.",
+            "ru": "Продолжение химиотерапии антрациклинами рекомендуется бессимптомным пациентам с ФВ ЛЖ ≥ 50%, у которых развилось значимое снижение GLS (относительное снижение >15%) либо повышение уровня тропонина или NP выше верхней границы нормы (>ВГН)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt25",
+      "title": {
+        "en": "Recommendation Table 25 — Recommendations for the management of cancer treatment-related cardiac dysfunction during human epidermal receptor 2-targeted therapies",
+        "ru": "Таблица рекомендаций 25 — Рекомендации по ведению кардиальной дисфункции, связанной с противоопухолевой терапией (CTRCD), во время таргетной терапии против HER2"
+      },
+      "rows": [
+        {
+          "id": "r73",
+          "text": {
+            "en": "HF therapy is recommended for patients who develop symptomatic moderate-to-severe CTRCD with LVEF < 50% during HER2-targeted treatment.",
+            "ru": "Терапия сердечной недостаточности рекомендуется пациентам, у которых развивается симптоматическая умеренная или тяжелая CTRCD со снижением ФВ ЛЖ < 50% во время таргетной терапии против HER2."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r74",
+          "text": {
+            "en": "Temporary interruption of HER2-targeted treatment is recommended in patients who develop moderate or severe symptomatic CTRCD and the decision to restart should be based on a multidisciplinary approach after improvement of LV function and symptoms resolved (for patients where therapy was interrupted and who recovered LVEF ≥ 40% and are asymptomatic, resumption should be considered supported by HF therapy and echo/biomarkers every two cycles for the first 4 cycles).",
+            "ru": "Временное прерывание таргетной терапии против HER2 рекомендуется пациентам, у которых развивается умеренная или тяжелая симптоматическая CTRCD; решение о возобновлении должно приниматься мультидисциплинарно после восстановления функции ЛЖ и купирования симптомов (при восстановлении ФВ ЛЖ ≥ 40% и отсутствии симптомов возобновление терапии следует рассмотреть на фоне лечения СН с контролем ЭхоКГ и биомаркеров каждые 2 цикла первые 4 цикла)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r75",
+          "text": {
+            "en": "In patients who develop mild symptomatic CTRCD, HF therapy and a multidisciplinary approach regarding the decision to continue vs. interrupt HER2-targeted therapy are recommended.",
+            "ru": "У пациентов с легкой симптоматической CTRCD рекомендуется терапия сердечной недостаточности и мультидисциплинарный подход при принятии решения о продолжении или прерывании терапии против HER2."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r76",
+          "text": {
+            "en": "Temporary interruption of HER2-targeted therapy and initiation of HF therapy is recommended in patients who develop asymptomatic severe CTRCD.",
+            "ru": "Временное прерывание таргетной терапии против HER2 и назначение терапии СН рекомендуются пациентам с развившейся тяжелой бессимптомной CTRCD."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r77",
+          "text": {
+            "en": "A multidisciplinary approach regarding the decision to restart HER2-targeted treatment is recommended in patients with severe asymptomatic CTRCD.",
+            "ru": "Мультидисциплинарный подход относительно решения о возобновлении лечения против HER2 рекомендуется пациентам с тяжелой бессимптомной CTRCD."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r78",
+          "text": {
+            "en": "Continuation of HER2-targeted therapy is recommended in patients who develop asymptomatic mild (LVEF ≥ 50%) CTRCD with more frequent cardiac monitoring.",
+            "ru": "Продолжение таргетной терапии против HER2 рекомендуется пациентам с легкой бессимптомной CTRCD (ФВ ЛЖ ≥ 50%) на фоне более частого кардиологического мониторинга."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r79",
+          "text": {
+            "en": "ACE-I/ARB and beta-blockers are recommended in patients who develop asymptomatic moderate (LVEF 40–49%) CTRCD during HER2-targeted treatment (avoid hypotension).",
+            "ru": "Назначение иАПФ/БРА и бета-блокаторов рекомендуется пациентам, у которых развилась умеренная бессимптомная CTRCD (ФВ ЛЖ 40–49%) на фоне лечения препаратами против HER2 (избегая артериальной гипотензии)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt26",
+      "title": {
+        "en": "Recommendation Table 26 — Recommendations for the diagnosis and management of immune checkpoint inhibitor-associated myocarditis",
+        "ru": "Таблица рекомендаций 26 — Рекомендации по диагностике и ведению миокардита, ассоциированного с ингибиторами иммунных контрольных точек (ICI)"
+      },
+      "rows": [
+        {
+          "id": "r80",
+          "text": {
+            "en": "cTn, ECG, and CV imaging (echocardiography and CMR) are recommended to diagnose ICI-associated myocarditis.",
+            "ru": "Определение уровня cTn, ЭКГ и сердечно-сосудистая визуализация (эхокардиография и МРТ сердца) рекомендуются для диагностики миокардита, ассоциированного с ICI."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r81",
+          "text": {
+            "en": "In patients with suspected ICI-associated myocarditis, temporary interruption of ICI treatment is recommended until the diagnosis is confirmed or refuted.",
+            "ru": "У пациентов с подозрением на миокардит, ассоциированный с ICI, рекомендуется временное прерывание терапии ICI до подтверждения или опровержения диагноза."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r82",
+          "text": {
+            "en": "Interruption of ICI treatment is recommended in patients with confirmed ICI-associated myocarditis.",
+            "ru": "Прекращение терапии ICI рекомендуется всем пациентам с подтвержденным миокардитом, ассоциированным с ICI."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r83",
+          "text": {
+            "en": "Continuous ECG monitoring to assess for new AV block and tachyarrhythmias during the acute phase is recommended for all patients with symptomatic ICI-associated myocarditis.",
+            "ru": "Непрерывный мониторинг ЭКГ для выявления вновь возникших АВ-блокад и тахиаритмий в острой фазе рекомендуется всем пациентам с симптоматическим миокардитом, ассоциированным с ICI."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r84",
+          "text": {
+            "en": "Early high-dose corticosteroids (within ≤24 h; methylprednisolone 500–1000 mg/day) are recommended in patients with cancer and confirmed ICI-associated myocarditis.",
+            "ru": "Раннее назначение высоких доз кортикостероидов (в течение первых ≤24 ч; метилпреднизолон 500–1000 мг/сут) рекомендуется пациентам с подтвержденным миокардитом, ассоциированным с ICI."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r85",
+          "text": {
+            "en": "Continuation of high-dose corticosteroids is recommended for the treatment of ICI-associated myocarditis until resolution of symptoms, LV systolic dysfunction, conduction abnormalities, and significant cTn reduction (>50% from peak level).",
+            "ru": "Продолжение пульс-терапии высокими дозами кортикостероидов рекомендуется до полного купирования симптомов, восстановления систолической дисфункции ЛЖ, нарушений проводимости и значимого снижения уровня cTn (>50% от пикового значения)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r86",
+          "text": {
+            "en": "Admission to ICU (level 3), treatment with i.v. methylprednisolone, and optimal CV treatment including mechanical support (when indicated) is recommended for patients with ICI-associated fulminant myocarditis.",
+            "ru": "Госпитализация в отделение реанимации и интенсивной терапии (ОРИТ 3-го уровня), лечение внутривенным метилпреднизолоном и оптимальная кардиологическая терапия, включая механическую поддержку кровообращения (по показаниям), рекомендуются пациентам с фульминантным миокардитом, ассоциированным с ICI."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r87",
+          "text": {
+            "en": "A multidisciplinary discussion is recommended before restarting ICI treatment in selected patients with previous uncomplicated ICI-associated myocarditis.",
+            "ru": "Мультидисциплинарный консилиум рекомендуется перед решением о возобновлении терапии ICI у отдельных отобранных пациентов с предшествующим неосложненным миокардитом, ассоциированным с ICI."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt27",
+      "title": {
+        "en": "Recommendation Table 27 — Recommendations for the diagnosis and management of Takotsubo syndrome in patients with cancer",
+        "ru": "Таблица рекомендаций 27 — Рекомендации по диагностике и ведению синдрома Такоцубо у онкологических пациентов"
+      },
+      "rows": [
+        {
+          "id": "r88",
+          "text": {
+            "en": "Coronary angiography (invasive or CCTA) is recommended to exclude ACS.",
+            "ru": "Коронарная ангиография (инвазивная КАГ или КТ-коронарография) рекомендуется для исключения острого коронарного синдрома (ОКС)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r89",
+          "text": {
+            "en": "CMR is recommended to exclude myocarditis and MI.",
+            "ru": "МРТ сердца рекомендуется для исключения миокардита и инфаркта миокарда."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r90",
+          "text": {
+            "en": "QT-prolonging drugs are not recommended during the acute TTS phase (until full recovery and normalization of LV function and QTc).",
+            "ru": "Препараты, удлиняющие интервал QT, не рекомендуются во время острой фазы синдрома Такоцубо (до полного восстановления функции ЛЖ и нормализации QTc)."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt28",
+      "title": {
+        "en": "Recommendation Table 28 — Recommendations for the management of acute coronary syndromes in patients receiving anticancer treatment",
+        "ru": "Таблица рекомендаций 28 — Рекомендации по ведению острых коронарных синдромов у пациентов, получающих противоопухолевое лечение"
+      },
+      "rows": [
+        {
+          "id": "r91",
+          "text": {
+            "en": "An invasive strategy is recommended in patients with cancer presenting with STEMI or high-risk NSTE-ACS with life expectancy ≥6 months.",
+            "ru": "Инвазивная стратегия рекомендуется онкологическим пациентам при развитии ИМпST (STEMI) или ОКСбпST (NSTE-ACS) высокого риска с ожидаемой продолжительностью жизни ≥6 месяцев."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r92",
+          "text": {
+            "en": "A temporary interruption of cancer therapy is recommended in patients where the cancer therapy is suspected as a contributing cause.",
+            "ru": "Временное прерывание противоопухолевой терапии рекомендуется у пациентов в случаях, когда терапия рака подозревается в качестве провоцирующей причины ОКС."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r93",
+          "text": {
+            "en": "In patients with cancer, thrombocytopaenia, and ACS, aspirin is not recommended if platelets <10 000/μL.",
+            "ru": "У пациентов со злокачественными новообразованиями, тромбоцитопенией и ОКС аспирин противопоказан (не рекомендуется) при уровне тромбоцитов <10 000/мкл."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r94",
+          "text": {
+            "en": "In patients with cancer, thrombocytopaenia, and ACS, clopidogrel is not recommended if platelets <30 000/μL and prasugrel or ticagrelor are not recommended if platelets <50 000/μL.",
+            "ru": "У онкологических пациентов с тромбоцитопенией и ОКС клопидогрел не рекомендуется при тромбоцитах <30 000/мкл, а прасугрел или тикагрелор не рекомендуются при уровне тромбоцитов <50 000/мкл."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt29",
+      "title": {
+        "en": "Recommendation Table 29 — Recommendation for the management of chronic coronary syndromes in patients receiving anticancer treatment",
+        "ru": "Таблица рекомендаций 29 — Рекомендация по ведению хронических коронарных синдромов у пациентов, получающих противоопухолевое лечение"
+      },
+      "rows": [
+        {
+          "id": "r95",
+          "text": {
+            "en": "Individualized duration of DAPT is recommended in patients with cancer with CCS, following revascularization, based upon thrombotic/ischaemic and bleeding risk, type and stage of cancer, and current cancer treatment.",
+            "ru": "Индивидуализированная продолжительность ДАТТ рекомендуется пациентам с онкологическими заболеваниями и ХКС после реваскуляризации с учетом соотношения тромботического/ишемического риска и риска кровотечений, типа и стадии рака, а также текущего противоопухолевого лечения."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt30",
+      "title": {
+        "en": "Recommendation Table 30 — Recommendations for the management of valvular heart disease in patients receiving anticancer treatment",
+        "ru": "Таблица рекомендаций 30 — Рекомендации по ведению клапанных пороков сердца у пациентов, получающих противоопухолевое лечение"
+      },
+      "rows": [
+        {
+          "id": "r96",
+          "text": {
+            "en": "In patients with cancer and pre-existing severe VHD, management according to the 2021 ESC/EACTS Guidelines for the management of VHD is recommended, taking into consideration cancer prognosis and patient preferences.",
+            "ru": "У пациентов со злокачественными опухолями и исходным тяжелым клапанным пороком сердца ведение в соответствии с рекомендациями ESC/EACTS 2021 по клапанным порокам рекомендуется с обязательным учетом онкологического прогноза и предпочтений пациента."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r97",
+          "text": {
+            "en": "In patients with cancer developing new VHD during cancer therapy, management according to the 2021 ESC/EACTS Guidelines for the management of VHD is recommended, taking into consideration cancer prognosis and patient comorbidities.",
+            "ru": "У пациентов со злокачественными новообразованиями при возникновении нового клапанного порока во время противоопухолевой терапии ведение по рекомендациям ESC/EACTS 2021 по порокам сердца рекомендуется с учетом прогноза рака и сопутствующей патологии."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt31",
+      "title": {
+        "en": "Recommendation Table 31 — Recommendations for the management of atrial fibrillation in patients receiving anticancer treatment",
+        "ru": "Таблица рекомендаций 31 — Рекомендации по ведению фибрилляции предсердий у пациентов, получающих противоопухолевое лечение"
+      },
+      "rows": [
+        {
+          "id": "r98",
+          "text": {
+            "en": "Long-term anticoagulation is recommended for stroke/systemic thromboembolism prevention in patients with cancer with AF and a CHA2DS2-VASc score ≥2 (men) or ≥3 (women) as per the 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation.",
+            "ru": "Длительная антикоагулянтная терапия рекомендуется для профилактики инсульта и системных тромбоэмболий у онкологических пациентов с ФП при оценке по шкале CHA2DS2-VASc ≥2 (мужчины) или ≥3 (женщины) в соответствии с рекомендациями ESC 2020 по ФП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r99",
+          "text": {
+            "en": "Thromboembolic and bleeding risk reassessment is recommended during follow-up in patients with cancer with AF.",
+            "ru": "Повторная оценка тромбоэмболического риска и риска кровотечений рекомендуется в ходе динамического наблюдения всем пациентам со злокачественными опухолями и ФП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r100",
+          "text": {
+            "en": "Antiplatelet therapy or prophylactic LMWH are not recommended for stroke or systemic thromboembolism prevention in AF with cancer.",
+            "ru": "Антиагрегантная терапия или профилактические дозы НМГ не рекомендуются для профилактики инсульта или системных тромбоэмболий при ФП у пациентов с онкологическими заболеваниями."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt32",
+      "title": {
+        "en": "Recommendation Table 32 — Recommendations for the management of long corrected QT interval and ventricular arrhythmias in patients receiving anticancer treatment",
+        "ru": "Таблица рекомендаций 32 — Рекомендации по ведению удлиненного корригированного интервала QT и желудочковых аритмий у пациентов, получающих противоопухолевое лечение"
+      },
+      "rows": [
+        {
+          "id": "r101",
+          "text": {
+            "en": "Discontinuation of QTc-prolonging cancer therapy is recommended in patients who develop TdP or sustained ventricular tachyarrhythmias during treatment.",
+            "ru": "Полная отмена противоопухолевой терапии, удлиняющей интервал QTc, рекомендуется пациентам, у которых развивается пируэтная тахикардия (TdP) или устойчивые желудочковые тахиаритмии во время лечения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r102",
+          "text": {
+            "en": "Temporary interruption of QTc-prolonging cancer therapy is recommended in patients who develop asymptomatic QTcF ≥ 500 ms and an ECG should be repeated every 24 h until resolution of the QTcF prolongation.",
+            "ru": "Временное прерывание противоопухолевой терапии, удлиняющей QTc, рекомендуется пациентам с бессимптомным удлинением QTcF ≥ 500 мс, при этом ЭКГ следует повторять каждые 24 часа до нормализации QTcF."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r103",
+          "text": {
+            "en": "Immediate withdrawal of any offending drug and correction of electrolyte abnormalities and other risk factors is recommended in patients with cancer who develop QTcF ≥ 500 ms.",
+            "ru": "Немедленная отмена любого причинного препарата и коррекция электролитных нарушений и других факторов риска рекомендуются онкологическим пациентам при выявлении QTcF ≥ 500 мс."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r104",
+          "text": {
+            "en": "Weekly ECG monitoring is recommended in asymptomatic patients with cancer with QTcF 480–500 ms who are treated with a QTc-prolonging cancer therapy.",
+            "ru": "Еженедельный мониторинг ЭКГ рекомендуется бессимптомным пациентам со значениями QTcF 480–500 мс, получающим терапию, удлиняющую интервал QTc."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r105",
+          "text": {
+            "en": "A 12-lead ECG is recommended after any dose increase of QTc-prolonging cancer therapy.",
+            "ru": "Регистрация ЭКГ в 12 отведениях рекомендуется после каждого повышения дозы противоопухолевого препарата, способного удлинять интервал QTc."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r106",
+          "text": {
+            "en": "A multidisciplinary discussion is recommended before restarting QTc-prolonging drugs in patients who have developed significant QTcF prolongation, to discuss alternative cancer treatments.",
+            "ru": "Мультидисциплинарный консилиум рекомендуется перед возобновлением терапии препаратами, удлиняющими QTc, у пациентов со значимым удлинением QTcF для обсуждения альтернативных вариантов противоопухолевого лечения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r107",
+          "text": {
+            "en": "Weekly ECG monitoring during the first 4–6 weeks and then monthly thereafter is recommended in patients with cancer after restarting QTc-prolonging cancer therapy.",
+            "ru": "Еженедельный мониторинг ЭКГ в течение первых 4–6 недель, а затем ежемесячно рекомендуется пациентам после возобновления противоопухолевой терапии, удлиняющей интервал QTc."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt33",
+      "title": {
+        "en": "Recommendation Table 33 — Recommendations for the management of arterial hypertension in patients receiving anticancer treatment",
+        "ru": "Таблица рекомендаций 33 — Рекомендации по ведению артериальной гипертензии у пациентов, получающих противоопухолевое лечение"
+      },
+      "rows": [
+        {
+          "id": "r108",
+          "text": {
+            "en": "Effective treatment of cancer therapy-induced arterial hypertension to prevent cancer treatment interruption and CV complications is recommended.",
+            "ru": "Эффективный контроль и лечение артериальной гипертензии, индуцированной противоопухолевой терапией, рекомендуется для предотвращения вынужденных прерываний лечения рака и сердечно-сосудистых осложнений."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r109",
+          "text": {
+            "en": "A BP target <140 mmHg systolic and <90 mmHg diastolic is recommended during cancer therapy.",
+            "ru": "Целевой уровень АД <140 мм рт. ст. систолического и <90 мм рт. ст. диастолического рекомендуется во время терапии рака."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r110",
+          "text": {
+            "en": "The competing cancer and CV risk evaluation is recommended if the systolic BP is ≥180 mmHg or diastolic BP ≥110 mmHg, and any cancer therapy associated with hypertension should be deferred or temporarily withheld until the BP is controlled to values <160 mmHg (systolic) and <100 mmHg (diastolic).",
+            "ru": "Оценка конкурирующего онкологического и сердечно-сосудистого риска рекомендуется при САД ≥180 мм рт. ст. или ДАД ≥110 мм рт. ст.; любая противоопухолевая терапия, ассоциированная с гипертензией, должна быть отложена или временно приостановлена до снижения АД <160 мм рт. ст. (САД) и <100 мм рт. ст. (ДАД)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r111",
+          "text": {
+            "en": "ACE-I or ARB are the first-line antihypertensive drugs recommended for BP management in patients with cancer (unless contraindicated).",
+            "ru": "Ингибиторы АПФ или БРА рекомендуются в качестве антигипертензивных препаратов первой линии для контроля АД у онкологических больных (при отсутствии противопоказаний)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r112",
+          "text": {
+            "en": "Dihydropyridine CCB are recommended as second-line antihypertensive drugs for patients with cancer with uncontrolled BP.",
+            "ru": "Дигидропиридиновые блокаторы кальциевых каналов (БКК) рекомендуются в качестве препаратов второй линии у пациентов с онкологическими заболеваниями при неконтролируемом АД."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r113",
+          "text": {
+            "en": "Combination therapy with ACE-I or ARB and dihydropyridine CCB is recommended in patients with cancer with systolic BP ≥ 160 mmHg and diastolic BP ≥ 100 mmHg.",
+            "ru": "Комбинированная терапия иАПФ (или БРА) с дигидропиридиновым БКК рекомендуется пациентам с онкологическими заболеваниями при САД ≥ 160 мм рт. ст. и ДАД ≥ 100 мм рт. ст."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r114",
+          "text": {
+            "en": "Diltiazem and verapamil are not recommended to treat arterial hypertension in patients with cancer due to their drug–drug interactions (in selected patients intolerant to other drugs, they may be considered with close monitoring).",
+            "ru": "Дилтиазем и верапамил не рекомендуются для лечения артериальной гипертензии у онкологических больных из-за высокого риска межлекарственных взаимодействий (у отдельных пациентов при непереносимости других классов они могут рассматриваться при строгом мониторинге взаимодействий)."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt34",
+      "title": {
+        "en": "Recommendation Table 34 — Recommendations for the management of venous thromboembolism in patients receiving anticancer treatment",
+        "ru": "Таблица рекомендаций 34 — Рекомендации по лечению венозных тромбоэмболий (ВТЭО) у пациентов, получающих противоопухолевое лечение"
+      },
+      "rows": [
+        {
+          "id": "r115",
+          "text": {
+            "en": "Apixaban, edoxaban, or rivaroxaban are recommended for the treatment of symptomatic or incidental VTE in patients with cancer without contraindications (high bleeding risk, GI absorption concerns, significant drug interactions, CrCl <15 mL/min, severe liver disease, platelets <50 000/μL).",
+            "ru": "Апиксабан, эдоксабан или ривароксабан рекомендуются для лечения симптоматических или случайно выявленных ВТЭО у пациентов со злокачественными новообразованиями при отсутствии противопоказаний (высокий риск кровотечений ЖКТ/мочеполовых, мальабсорбция, выраженные взаимодействия, КК <15 мл/мин, патология печени, тромбоциты <50 000/мкл)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r116",
+          "text": {
+            "en": "LMWH are recommended for the treatment of symptomatic or incidental VTE in patients with cancer with platelet count >50 000/μL.",
+            "ru": "Низкомолекулярные гепарины (НМГ) рекомендуются для лечения симптоматических или случайно выявленных ВТЭО у пациентов с онкологическими заболеваниями при уровне тромбоцитов >50 000/мкл."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r117",
+          "text": {
+            "en": "Duration of anticoagulation in patients with cancer with a catheter-associated VTE is recommended for a minimum of 3 months and continuing longer if the catheter remains in situ.",
+            "ru": "Продолжительность антикоагулянтной терапии у онкологических больных при катетер-ассоциированном тромбозе рекомендуется минимум в течение 3 месяцев и дольше, пока катетер остается на месте (in situ)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt35",
+      "title": {
+        "en": "Recommendation Table 35 — Recommendations for venous thromboembolism prophylaxis during anticancer treatment",
+        "ru": "Таблица рекомендаций 35 — Рекомендации по профилактике венозных тромбоэмболий (ВТЭО) во время противоопухолевого лечения"
+      },
+      "rows": [
+        {
+          "id": "r118",
+          "text": {
+            "en": "Extended prophylaxis with LMWH for 4 weeks post-operatively is recommended for patients with cancer undergoing major open or laparoscopic abdominal or pelvic surgery with low bleeding risk and high VTE risk (reduced mobility, obesity, VTE history).",
+            "ru": "Продленная тромбопрофилактика с применением НМГ в течение 4 недель после операции рекомендуется онкологическим пациентам, перенесшим обширные открытые или лапароскопические операции на брюшной полости или малом тазу, с низким риском кровотечений и высоким риском ВТЭО (гиподинамия, ожирение, анамнез ВТЭО)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r119",
+          "text": {
+            "en": "Prophylactic LMWH for the primary prevention of VTE is indicated in hospitalized patients with cancer or those with prolonged bedrest or reduced mobility in the absence of bleeding or other contraindications.",
+            "ru": "Профилактические дозы НМГ для первичной профилактики ВТЭО показаны госпитализированным онкологическим пациентам или больным с длительным постельным режимом/ограничением подвижности при отсутствии кровотечений или иных противопоказаний."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r120",
+          "text": {
+            "en": "A discussion with the patient about the relative benefits and harms, cancer prognosis, drug cost, and duration of treatment is recommended prior to prophylactic anticoagulation for the primary prevention of VTE.",
+            "ru": "Обсуждение с пациентом соотношения пользы и риска, онкологического прогноза, стоимости препаратов и продолжительности терапии рекомендуется перед назначением профилактической антикоагуляции для первичной профилактики ВТЭО."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt36",
+      "title": {
+        "en": "Recommendation Table 36 — Recommendation for management of peripheral artery disease during anticancer treatment",
+        "ru": "Таблица рекомендаций 36 — Рекомендация по ведению заболеваний периферических артерий (ЗПА / PAD) во время противоопухолевого лечения"
+      },
+      "rows": [
+        {
+          "id": "r121",
+          "text": {
+            "en": "In patients who develop new symptomatic PAD, a multidisciplinary approach regarding the decision to continue vs. interrupt culprit cancer therapy (VEGFi, nilotinib, ponatinib, platins, etc.) is recommended.",
+            "ru": "У пациентов с вновь развившимся симптоматическим заболеванием периферических артерий (ЗПА) рекомендуется мультидисциплинарный подход при решении вопроса о продолжении или прерывании причинной противоопухолевой терапии (VEGFi, нилотиниб, понатиниб, препараты платины и др.)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt37",
+      "title": {
+        "en": "Recommendation Table 37 — Recommendations for the management of pulmonary hypertension during anticancer treatment",
+        "ru": "Таблица рекомендаций 37 — Рекомендации по ведению легочной гипертензии во время противоопухолевого лечения"
+      },
+      "rows": [
+        {
+          "id": "r122",
+          "text": {
+            "en": "Right-heart catheterization and discontinuation of dasatinib is recommended in patients who develop symptomatic or asymptomatic increase in peak TRV > 3.4 m/s.",
+            "ru": "Катетеризация правых отделов сердца (КПОС) и отмена дазатиниба рекомендуются пациентам, у которых развивается симптоматическое или бессимптомное увеличение пиковой скорости трикуспидальной регургитации (TRV) > 3,4 м/с."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r123",
+          "text": {
+            "en": "In patients with confirmed dasatinib-induced PAH (definite diagnosis requires right-heart catheterization) or new asymptomatic peak TRV > 3.4 m/s, an alternative BCR-ABL inhibitor is recommended after peak TRV recovery to < 2.8 m/s.",
+            "ru": "У пациентов с подтвержденной дазатиниб-индуцированной легочной артериальной гипертензией (ЛАГ, точный диагноз требует катетеризации правых отделов сердца) или новой бессимптомной TRV > 3,4 м/с рекомендуется переход на альтернативный ингибитор BCR-ABL после снижения TRV < 2,8 м/с."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt38",
+      "title": {
+        "en": "Recommendation Table 38 — Recommendations for the management of pericardial diseases in patients receiving anticancer treatment",
+        "ru": "Таблица рекомендаций 38 — Рекомендации по ведению заболеваний перикарда у пациентов, получающих противоопухолевое лечение"
+      },
+      "rows": [
+        {
+          "id": "r124",
+          "text": {
+            "en": "Diagnosis and management of acute pericarditis in patients with cancer based on the 2015 ESC Guidelines for the diagnosis and management of pericardial diseases is recommended and a multidisciplinary discussion is needed before interrupting cancer therapy.",
+            "ru": "Диагностика и лечение острого перикардита у онкологических больных на основе рекомендаций ESC 2015 по заболеваниям перикарда рекомендуются; перед прерыванием противоопухолевой терапии необходим мультидисциплинарный консилиум."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r125",
+          "text": {
+            "en": "Multimodality CV imaging (echocardiography, CMR ± CT), ECG and measurement of cardiac biomarkers are recommended to confirm the diagnosis, assess the haemodynamic consequences of pericardial disease, and rule out associated myocarditis.",
+            "ru": "Мультимодальная сердечно-сосудистая визуализация (эхокардиография, МРТ сердца ± КТ), ЭКГ и определение сердечных биомаркеров рекомендуются для подтверждения диагноза, оценки гемодинамической значимости выпота и исключения сопутствующего миокардита."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r126",
+          "text": {
+            "en": "Prednisolone and colchicine are recommended for patients with ICI-associated pericarditis.",
+            "ru": "Преднизолон и колхицин рекомендуются пациентам с перикардитом, ассоциированным с приемом ICI."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r127",
+          "text": {
+            "en": "Interruption of ICI treatment in patients with confirmed ICI-associated pericarditis with moderate-to-severe pericardial effusion is recommended.",
+            "ru": "Прекращение терапии ICI рекомендуется пациентам с подтвержденным ICI-ассоциированным перикардитом при наличии умеренного или выраженного выпота в перикарде."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r128",
+          "text": {
+            "en": "A multidisciplinary discussion is recommended before restarting ICI treatment.",
+            "ru": "Мультидисциплинарный консилиум рекомендуется перед решением о возможном возобновлении терапии ICI."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt39",
+      "title": {
+        "en": "Recommendation Table 39 — Recommendations for end-of-cancer therapy cardiovascular risk assessment",
+        "ru": "Таблица рекомендаций 39 — Рекомендации по оценке сердечно-сосудистого риска в конце противоопухолевой терапии"
+      },
+      "rows": [
+        {
+          "id": "r129",
+          "text": {
+            "en": "Educating and supporting patients with cancer to make appropriate healthy lifestyle choices is recommended (regulation of hypertension, DM, dyslipidaemia, smoking cessation, weight loss, exercise).",
+            "ru": "Обучение и поддержка онкологических пациентов в отношении приверженности здоровому образу жизни рекомендуются (контроль АГ, СД, дислипидемии, отказ от курения, нормализация веса, физические упражнения)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r130",
+          "text": {
+            "en": "Education is recommended for patients with cancer regarding recognition for early signs and symptoms of CVD.",
+            "ru": "Обучение пациентов с онкологическими заболеваниями распознаванию ранних признаков и симптомов ССЗ рекомендуется."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r131",
+          "text": {
+            "en": "CVRF assessment is recommended during the first year after cancer therapy and thereafter according to the 2021 ESC Guidelines on CVD prevention in clinical practice.",
+            "ru": "Оценка факторов риска сердечно-сосудистых заболеваний (CVRF) рекомендуется в течение первого года после окончания терапии рака и далее в соответствии с рекомендациями ESC 2021 по профилактике ССЗ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r132",
+          "text": {
+            "en": "In asymptomatic high-risk patients, echocardiography and cardiac serum biomarkers are recommended at 3 and 12 months after completion of cancer therapy.",
+            "ru": "У бессимптомных пациентов высокого риска эхокардиография и определение сердечных биомаркеров в сыворотке крови рекомендуются через 3 и 12 месяцев после завершения противоопухолевой терапии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r133",
+          "text": {
+            "en": "Cardiology referral (cardio-oncology referral when available) is recommended in patients with cancer with new cardiac symptoms or new asymptomatic abnormalities in echocardiography and/or cardiac serum biomarkers at the end of therapy assessment.",
+            "ru": "Направление к кардиологу (к кардиоонкологу при доступности) рекомендуется пациентам с новыми кардиальными симптомами либо новыми бессимптомными изменениями на ЭхоКГ и/или биомаркерах при оценке в конце лечения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r134",
+          "text": {
+            "en": "Long-term continuation of cardiac medication is recommended in patients who develop severe CTRCD during cancer therapy.",
+            "ru": "Длительное продолжение приема кардиологических препаратов рекомендуется пациентам, у которых развилась тяжелая CTRCD во время противоопухолевой терапии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r135",
+          "text": {
+            "en": "CV follow-up and treatment optimization is recommended in patients who developed TKI-mediated hypertension during cancer therapy.",
+            "ru": "Кардиологическое наблюдение и оптимизация гипотензивной терапии рекомендуются пациентам с артериальной гипертензией, индуцированной ингибиторами тирозинкиназ (ИТК), во время терапии рака."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r136",
+          "text": {
+            "en": "CV follow-up and treatment optimization is recommended in patients who developed vascular toxicities during cancer therapy.",
+            "ru": "Кардиологическое наблюдение и оптимизация терапии рекомендуются пациентам, у которых развилась сосудистая токсичность во время лечения рака."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r137",
+          "text": {
+            "en": "ECG follow-up is recommended in patients who developed QT lengthening or LQTS during cancer therapy.",
+            "ru": "Динамический контроль ЭКГ рекомендуется пациентам, у которых развилось удлинение интервала QT или синдром удлиненного QT во время противоопухолевой терапии."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt40",
+      "title": {
+        "en": "Recommendation Table 40 — Recommendations for cardiovascular surveillance in asymptomatic adults who are childhood and adolescent cancer survivors",
+        "ru": "Таблица рекомендаций 40 — Рекомендации по сердечно-сосудистому наблюдению за бессимптомными взрослыми лицами, перенесшими рак в детском и подростковом возрасте"
+      },
+      "rows": [
+        {
+          "id": "r138",
+          "text": {
+            "en": "Education of adults who are childhood and adolescent cancer survivors treated with anthracyclines, mitoxantrone, and/or RT to a volume including the heart and their healthcare providers regarding their increased CV risk is recommended.",
+            "ru": "Информирование взрослых лиц, перенесших онкологические заболевания в детском и подростковом возрасте и получавших антрациклины, митоксантрон и/или ЛТ на область сердца, а также их лечащих врачей о повышенном риске ССЗ рекомендуется."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r139",
+          "text": {
+            "en": "Annual screening for modifiable CVRF (obesity, sedentary lifestyle, smoking, alcohol, unhealthy diet, dyslipidaemia, hypertension, DM) is recommended in adults who are childhood and adolescent cancer survivors treated with anthracyclines, mitoxantrone, and/or RT to a volume including the heart.",
+            "ru": "Ежегодный скрининг на модифицируемые факторы СС риска (ожирение, гиподинамия, курение, алкоголь, нерациональное питание, дислипидемия, гипертензия, СД) рекомендуется взрослым лицам, лечившимся в детстве/подростковом возрасте антрациклинами, митоксантроном и/или ЛТ на область сердца."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r140",
+          "text": {
+            "en": "CV assessment (BP, lipids, fasting glucose, HbA1c, ECG, and TTE) is recommended in female childhood and adolescent cancer survivors prior to pregnancy or in the first trimester.",
+            "ru": "Оценка сердечно-сосудистого статуса (АД, липиды, глюкоза натощак, HbA1c, ЭКГ и ЭхоКГ) рекомендуется женщинам, перенесшим рак в детском/подростковом возрасте, до наступления беременности или в первом триместре."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt41",
+      "title": {
+        "en": "Recommendation Table 41 — Recommendations for cardiovascular surveillance in asymptomatic adult cancer survivors",
+        "ru": "Таблица рекомендаций 41 — Рекомендации по сердечно-сосудистому наблюдению за бессимптомными взрослыми лицами, перенесшими онкологические заболевания"
+      },
+      "rows": [
+        {
+          "id": "r141",
+          "text": {
+            "en": "Annual CV risk assessment (clinical review, BP, lipid profile, HbA1c), including ECG and NP, and CVRF management is recommended in cancer survivors who were treated with a potentially cardiotoxic cancer drug or RT.",
+            "ru": "Ежегодная оценка сердечно-сосудистого риска (клинический осмотр, АД, липидный спектр, HbA1c), включая ЭКГ и определение уровня NP, а также контроль факторов риска (CVRF) рекомендуются лицам, перенесшим терапию потенциально кардиотоксичными препаратами или лучевую терапию."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r142",
+          "text": {
+            "en": "CV toxicity risk restratification is recommended 5 years after therapy to organize long-term follow-up (evaluation of new or pre-existing CVRF and CVD including CTR-CVT).",
+            "ru": "Рестратификация риска сердечно-сосудистой токсичности рекомендуется через 5 лет после окончания терапии для организации долгосрочного наблюдения (оценка новых или предшествующих факторов риска и ССЗ, включая кардиотоксичность противоопухолевой терапии)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt42",
+      "title": {
+        "en": "Recommendation Table 42 — Recommendations for adult cancer survivors who develop cancer therapy-related cardiac dysfunction late after cardiotoxic cancer therapy",
+        "ru": "Таблица рекомендаций 42 — Рекомендации для взрослых лиц, перенесших рак, у которых развивается кардиальная дисфункция (CTRCD) в поздние сроки после кардиотоксичной терапии"
+      },
+      "rows": [
+        {
+          "id": "r143",
+          "text": {
+            "en": "ACE-I/ARB and/or beta-blockers are recommended in adult cancer survivors with moderate asymptomatic CTRCD (new LVEF reduction by ≥10% points to 40–49% OR reduction by <10% points to 40–49% AND either new relative decline in GLS by >15% or new rise in cardiac biomarkers).",
+            "ru": "Ингибиторы АПФ / БРА и/или бета-блокаторы рекомендуются взрослым лицам, перенесшим рак, с умеренной бессимптомной CTRCD (новое снижение ФВ ЛЖ на ≥10 процентных пунктов до 40–49% ИЛИ снижение на <10 пунктов до 40–49% В СОЧЕТАНИИ со снижением GLS >15% либо новым повышением сердечных биомаркеров)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt43",
+      "title": {
+        "en": "Recommendation Table 43 — Recommendations for adult cancer survivors with coronary artery disease",
+        "ru": "Таблица рекомендаций 43 — Рекомендации для взрослых лиц, перенесших онкологические заболевания, с ишемической болезнью сердца"
+      },
+      "rows": [
+        {
+          "id": "r144",
+          "text": {
+            "en": "Non-invasive stress testing is recommended in asymptomatic cancer survivors with new moderate or severe radiation-induced CAD detected on CCTA to guide ischaemia-directed management.",
+            "ru": "Неинвазивные нагрузочные стресс-тесты рекомендуются бессимптомным лицам, перенесшим рак, при выявлении новой умеренной или тяжелой лучевой ИБС по данным КТ-коронарографии для определения тактики лечения, направленной на ишемию."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r145",
+          "text": {
+            "en": "A MDT discussion is recommended for clinical decision-making in patients with radiation-induced CAD and inducible ischaemia or severe left main CAD.",
+            "ru": "Мультидисциплинарный консилиум (MDT) рекомендуется для принятия клинических решений у пациентов с радиационно-индуцированной ИБС и индуцируемой ишемией или тяжелым поражением ствола левой коронарной артерии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r146",
+          "text": {
+            "en": "Pre-operative assessment of LIMA and RIMA viability, venous access, and sternal wound healing is recommended in cancer survivors with radiation-induced CAD where CABG is considered.",
+            "ru": "Предоперационная оценка жизнеспособности левой и правой внутренних грудных артерий (LIMA/RIMA), состояния венозных трансплантатов и условий заживления стернотомной раны рекомендуется лицам, перенесшим рак, с радиационно-индуцированной ИБС при планировании АКШ."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt44",
+      "title": {
+        "en": "Recommendations for adult cancer survivors with valvular heart disease",
+        "ru": "Рекомендации для взрослых лиц, перенесших рак, с клапанной болезнью сердца"
+      },
+      "rows": [
+        {
+          "id": "r147",
+          "text": {
+            "en": "A MDT approach is recommended to discuss and define the surgical risk (including vascular access, sternal and skin wound healing, concomitant cardiac disease, radiation-induced lung and thoracic vessels disease, aortic calcification, STS PROM/EuroSCORE II) in CS with severe VHD.",
+            "ru": "Рекомендуется мультидисциплинарный командный подход (MDT) для обсуждения и определения хирургического риска (включая сосудистый доступ, заживление грудины и кожной раны, сопутствующие кардиальные заболевания, лучевое поражение легких и торакальных сосудов, кальциноз аорты, шкалы STS PROM/EuroSCORE II) у лиц, перенесших рак (CS), с тяжелой клапанной болезнью сердца (VHD)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt46",
+      "title": {
+        "en": "Recommendations for cardiovascular monitoring in cancer survivors during pregnancy",
+        "ru": "Рекомендации по сердечно-сосудистому мониторингу у лиц, перенесших рак, во время беременности"
+      },
+      "rows": [
+        {
+          "id": "r148",
+          "text": {
+            "en": "In high-risk female CS, pre-pregnancy counselling and management during pregnancy and around delivery by a multidisciplinary pregnancy heart team is recommended.",
+            "ru": "У женщин высокой группы риска, перенесших рак (CS), рекомендуется догравидарное консультирование и ведение во время беременности и в родах мультидисциплинарной кардио-акушерской бригадой (Pregnancy Heart Team)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r149",
+          "text": {
+            "en": "A baseline CV evaluation including history, physical examination, ECG, NP, and echocardiography is recommended in female CS with a history of CTRCD who are considering pregnancy.",
+            "ru": "Исходное кардиоваскулярное обследование, включая анамнез, физикальный осмотр, ЭКГ, натрийуретические пептиды (NP) и эхокардиографию, рекомендуется женщинам, перенесшим рак (CS), с анамнезом CTRCD, планирующим беременность."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r150",
+          "text": {
+            "en": "A CV evaluation including echocardiography is recommended at 12 weeks of pregnancy in female CS who are either high-risk or who received potentially cardiotoxic cancer therapy and did not have a baseline CV assessment.",
+            "ru": "Кардиоваскулярное обследование, включая эхокардиографию, рекомендуется на 12-й неделе беременности у женщин, перенесших рак (CS), входящих в группу высокого риска либо получавших потенциально кардиотоксическую терапию рака и не прошедших исходное обследование до беременности."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt47",
+      "title": {
+        "en": "Recommendations for cardiovascular assessment and monitoring of pregnant women with cancer",
+        "ru": "Рекомендации по оценке и мониторингу сердечно-сосудистой системы у беременных женщин с онкологическими заболеваниями"
+      },
+      "rows": [
+        {
+          "id": "r151",
+          "text": {
+            "en": "Management by an expert MDT (the pregnancy heart team) in an expert centre is recommended for pregnant women with cancer who require cardiotoxic cancer therapy.",
+            "ru": "Рекомендуется ведение экспертной мультидисциплинарной командой (Pregnancy Heart Team) в специализированном экспертном центре для беременных женщин с раком, которым требуется кардиотоксическая противоопухолевая терапия."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r152",
+          "text": {
+            "en": "Cardiac assessment prior to cardiotoxic cancer therapy in pregnant women is recommended and consists of clinical history, physical examination, ECG, and echocardiography.",
+            "ru": "Кардиологическое обследование перед началом кардиотоксической терапии рака у беременных женщин рекомендуется и включает сбор клинического анамнеза, физикальный осмотр, ЭКГ и эхокардиографию."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt48",
+      "title": {
+        "en": "Recommendations for carcinoid valvular heart diseases",
+        "ru": "Рекомендации при карциноидных клапанных пороках сердца"
+      },
+      "rows": [
+        {
+          "id": "r153",
+          "text": {
+            "en": "Echocardiography (including saline contrast infusion at baseline to rule out patent foramen ovale) is recommended for the detection of carcinoid cardiac involvement in all patients with carcinoid syndrome and elevated NP levels and/or clinical signs of carcinoid heart disease, and for surveillance every 3 or 6 months depending on the severity of cardiac involvement and clinical status.",
+            "ru": "Эхокардиография (включая пробу с контрастированием физиологическим раствором исходно для исключения открытого овального окна) рекомендуется для выявления карциноидного поражения сердца у всех пациентов с карциноидным синдромом и повышенными уровнями NP и/или клиническими признаками карциноидной болезни сердца, а также для динамического контроля каждые 3 или 6 месяцев в зависимости от выраженности поражения сердца и клинического статуса."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r154",
+          "text": {
+            "en": "A MDT discussion for optimal medical management to prevent carcinoid crisis is recommended before any invasive or surgical cardiac procedure.",
+            "ru": "Обсуждение мультидисциплинарной командой (MDT) для подбора оптимальной медикаментозной терапии с целью предотвращения карциноидного криза рекомендуется перед любым инвазивным или хирургическим кардиальным вмешательством."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r155",
+          "text": {
+            "en": "Valve replacement surgery is recommended in symptomatic patients with severe carcinoid tricuspid or pulmonary VHD and an expected survival ≥12 months (with controlled serotonin concentrations).",
+            "ru": "Хирургическое протезирование клапана рекомендуется у симптомных пациентов с тяжелым карциноидным поражением трикуспидального или легочного клапана (VHD) и ожидаемой продолжительностью жизни ≥12 месяцев (при контролируемой концентрации серотонина)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r156",
+          "text": {
+            "en": "Valve replacement or repair surgery is recommended in symptomatic patients with severe carcinoid mitral or aortic VHD and an expected survival ≥12 months.",
+            "ru": "Хирургическое протезирование или пластика клапана рекомендуется у симптомных пациентов с тяжелым карциноидным поражением митрального или аортального клапана (VHD) и ожидаемой продолжительностью жизни ≥12 месяцев."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt49",
+      "title": {
+        "en": "Recommendations for amyloid light-chain cardiac amyloidosis diagnosis and monitoring",
+        "ru": "Рекомендации по диагностике и мониторингу AL-амилоидоза сердца (амилоидоза легких цепей)"
+      },
+      "rows": [
+        {
+          "id": "r157",
+          "text": {
+            "en": "Echocardiography, NP, and cTn are recommended for the diagnosis of AL-CA in patients with plasma cell dyscrasia.",
+            "ru": "Эхокардиография, натрийуретические пептиды (NP) и сердечный тропонин (cTn) рекомендуются для диагностики AL-амилоидоза сердца (AL-CA) у пациентов с плазмоклеточной дискразией."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r158",
+          "text": {
+            "en": "CMR is recommended in patients with suspected AL-CA.",
+            "ru": "Магнитно-резонансная томография сердца (CMR) рекомендуется пациентам с подозрением на AL-амилоидоз сердца (AL-CA)."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt50",
+      "title": {
+        "en": "Recommendations for risk stratification and monitoring for patients with cardiac implantable electronic devices undergoing radiotherapy",
+        "ru": "Рекомендации по стратификации риска и мониторингу пациентов с сердечными имплантируемыми электронными устройствами, проходящих лучевую терапию"
+      },
+      "rows": [
+        {
+          "id": "r159",
+          "text": {
+            "en": "Risk stratification including planned radiation type and energy, dose to CIED, the patient's device type, and pacing dependence is recommended prior to starting treatment.",
+            "ru": "Стратификация риска, включающая планируемый тип и энергию излучения, дозу облучения на сердечное имплантируемое электронное устройство (CIED), тип устройства пациента и наличие электрокардиостимуляторной зависимости, рекомендуется до начала лучевой терапии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r160",
+          "text": {
+            "en": "In patients undergoing RT, a CIED check is recommended in all patients before and after completing RT, and during RT according to individual risk.",
+            "ru": "У пациентов, проходящих лучевую терапию (RT), проверка функции устройства (CIED) рекомендуется всем пациентам до и после завершения курса RT, а также в процессе RT в соответствии с индивидуальным риском."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r161",
+          "text": {
+            "en": "In patients with a CIED undergoing RT at high risk of arrhythmia and/or device dysfunction, ECG monitoring and/or pulse oximetry are recommended during every RT session.",
+            "ru": "У пациентов с имплантированными устройствами (CIED), получающих RT и имеющих высокий риск аритмий и/или дисфункции устройства, во время каждого сеанса RT рекомендуется ЭКГ-мониторинг и/или пульсоксиметрия."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

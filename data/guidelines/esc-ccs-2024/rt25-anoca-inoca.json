@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt25-anoca-inoca",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 25",
+  "title": {
+    "en": "Recommendations for diagnosis and management of patients with angina/ischaemia with non-obstructive coronary arteries",
+    "ru": "Рекомендации по диагностике и ведению пациентов со стенокардией/ишемией при необструктивном поражении коронарных артерий"
+  },
+  "sections": [
+    {
+      "id": "diagnosis-of-anoca-inoca-endotypes",
+      "title": {
+        "en": "Diagnosis of ANOCA/INOCA endotypes",
+        "ru": "Диагностика эндотипов ANOCA/INOCA"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In persistently symptomatic patients despite medical treatment with suspected ANOCA/INOCA (i.e. anginal symptoms with normal coronary arteries or non-obstructive lesions at non-invasive imaging, or intermediate stenoses with normal FFR/iFR at coronary arteriography) and poor quality of life, invasive coronary functional testing is recommended to identify potentially treatable endotypes and to improve symptoms and quality of life, considering patient choices and preferences.",
+            "ru": "У пациентов с персистирующими симптомами, несмотря на медикаментозное лечение, при подозрении на ANOCA/INOCA (т.е. симптомы стенокардии при интактных коронарных артериях или необструктивных поражениях по данным неинвазивной визуализации, либо промежуточные стенозы с нормальным FFR/iFR при коронарографии) и низком качестве жизни рекомендуется инвазивное функциональное тестирование коронарного русла для выявления потенциально поддающихся терапии эндотипов и улучшения симптомов и качества жизни, с учетом выбора и предпочтений пациента."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In persistently symptomatic patients with documented or suspected ANOCA/INOCA, transthoracic Doppler of the LAD, stress echocardiography, CMR, and PET may be considered for the non-invasive assessment of coronary/myocardial flow reserve.",
+            "ru": "У пациентов с персистирующими симптомами и документированной либо подозреваемой ANOCA/INOCA трансторакальная допплерография ПМЖВ, стресс-эхокардиография, МРТ сердца и ПЭТ могут быть рассмотрены для неинвазивной оценки коронарного/миокардиального фракционного резерва кровотока."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "diagnostic-tests-for-vasospastic-angina",
+      "title": {
+        "en": "Diagnostic tests for vasospastic angina",
+        "ru": "Диагностические тесты при вазоспастической стенокардии"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "In individuals with suspected vasospastic angina, a resting 12-lead ECG recording during angina is recommended.",
+            "ru": "У лиц с подозрением на вазоспастическую стенокардию рекомендуется регистрация стандартной ЭКГ в 12 отведениях в покое во время приступа стенокардии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients with suspected vasospastic angina and repetitive episodes of rest angina associated with ST-segment changes that resolve with nitrates and/or calcium antagonists, invasive coronary functional testing is recommended to confirm the diagnosis and to determine the severity of underlying atherosclerotic disease.",
+            "ru": "У пациентов с подозрением на вазоспастическую стенокардию и повторяющимися эпизодами стенокардии покоя, ассоциированными с изменениями сегмента ST, купирующимися нитратами и/или антагонистами кальция, рекомендуется инвазивное функциональное тестирование коронарных артерий для подтверждения диагноза и определения тяжести сопутствующего атеросклеротического поражения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In individuals with suspected vasospastic angina and frequent symptoms, ambulatory ST-segment monitoring should be considered to identify ST-segment deviation during angina.",
+            "ru": "У лиц с подозрением на вазоспастическую стенокардию и частыми симптомами следует рассмотреть амбулаторное мониторирование сегмента ST для выявления его отклонений во время приступа стенокардии."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "management-of-anoca-inoca",
+      "title": {
+        "en": "Management of ANOCA/INOCA",
+        "ru": "Ведение ANOCA/INOCA"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "In symptomatic patients with ANOCA/INOCA, medical therapy based on coronary functional test results should be considered to improve symptoms and quality of life.",
+            "ru": "У симптомных пациентов с ANOCA/INOCA медикаментозная терапия, основанная на результатах функционального тестирования коронарных артерий, должна рассматриваться для уменьшения выраженности симптомов и повышения качества жизни."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "For the management of endothelial dysfunction, ACE-I should be considered for symptom control.",
+            "ru": "Для коррекции эндотелиальной дисфункции следует рассмотреть применение ИАПФ с целью контроля симптомов."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "For the management of microvascular angina associated with reduced coronary/myocardial blood flow reserve, antianginal medications aiming at preventing demand myocardial ischaemia should be considered for symptom control.",
+            "ru": "При микрососудистой стенокардии, ассоциированной со снижением коронарного/миокардиального резерва кровотока, для контроля симптоматики следует рассмотреть применение антиангинальных препаратов, направленных на предотвращение ишемии миокарда потребности."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "treatment-of-isolated-vasospastic-angina",
+      "title": {
+        "en": "For the treatment of isolated vasospastic angina",
+        "ru": "Лечение изолированной вазоспастической стенокардии"
+      },
+      "rows": [
+        {
+          "id": "r09",
+          "text": {
+            "en": "Calcium channel blockers are recommended to control symptoms and to prevent ischaemia and potentially fatal complications.",
+            "ru": "Блокаторы кальциевых каналов рекомендуются для контроля симптомов, предотвращения ишемии и потенциально фатальных осложнений."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Nitrates should be considered to prevent recurrent episodes.",
+            "ru": "Следует рассмотреть применение нитратов для предотвращения повторных эпизодов."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "treatment-of-overlapping-endotypes",
+      "title": {
+        "en": "For the treatment of overlapping endotypes",
+        "ru": "Лечение перекрещивающихся эндотипов"
+      },
+      "rows": [
+        {
+          "id": "r11",
+          "text": {
+            "en": "In patients with evidence of overlapping endotypes, combination therapy with nitrates, calcium channel blockers, and other vasodilators may be considered.",
+            "ru": "У пациентов с признаками перекрещивающихся эндотипов может быть рассмотрена комбинированная терапия нитратами, блокаторами кальциевых каналов и другими вазодилататорами."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

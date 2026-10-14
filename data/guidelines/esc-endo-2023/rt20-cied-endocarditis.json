@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt20-cied-endocarditis",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 20",
+  "title": {
+    "en": "Recommendations for cardiovascular implanted electronic device-related infective endocarditis",
+    "ru": "Рекомендации при инфекционном эндокардите, ассоциированном с имплантируемыми электронными сердечно-сосудистыми устройствами (CIED)"
+  },
+  "sections": [
+    {
+      "id": "cied-related-ie-management",
+      "title": {
+        "en": "Management of CIED-related infective endocarditis",
+        "ru": "Ведение инфекционного эндокардита, ассоциированного с CIED"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Antibiotic prophylaxis covering S. aureus is recommended for CIED implantation.",
+            "ru": "Перед имплантацией CIED рекомендуется антибиотикопрофилактика, эффективная в отношении S. aureus."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "TTE and TOE are both recommended in case of suspected CIED-related IE to identify vegetations.",
+            "ru": "Как ТТЭхоКГ, так и ЧПЭхоКГ рекомендуются при подозрении на ассоциированный с CIED инфекционный эндокардит для выявления вегетаций."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Complete system extraction without delay is recommended in patients with definite CIED-related IE under initial empirical antibiotic therapy.",
+            "ru": "Полное и безотлагательное удаление всей системы рекомендуется пациентам с определенным ИЭ, ассоциированным с CIED, на фоне стартовой эмпирической антибактериальной терапии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Obtaining at least three sets of blood cultures is recommended before prompt initiation of empirical antibiotic therapy for CIED infection, covering methicillin-resistant staphylococci and Gram-negative bacteria.",
+            "ru": "Перед незамедлительным началом эмпирической антибиотикотерапии инфекции CIED рекомендуется забор не менее трех наборов культур крови; терапия должна перекрывать метициллин-резистентные стафилококки и грамотрицательные бактерии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "If CIED reimplantation is indicated after extraction for CIED-related IE, it is recommended to be performed at a site distant from the previous generator, as late as possible, once signs and symptoms of infection have abated and until blood cultures are negative for at least 72 h in the absence of vegetations, and negative for at least 2 weeks if vegetations were visualized.",
+            "ru": "Если после экстракции по поводу CIED-ассоциированного ИЭ показана реимплантация устройства, ее рекомендуется выполнять в области, отдаленной от предыдущего ложа генератора, как можно позже, после стихания признаков и симптомов инфекции и при условии отрицательных посевов крови в течение не менее 72 часов в отсутствие вегетаций, и не менее 2 недель при наличии визуализированных вегетаций."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Complete CIED extraction should be considered in case of valvular IE, even without definite lead involvement, taking into account the identified pathogen and requirement for valve surgery.",
+            "ru": "Полное удаление CIED следует рассмотреть в случае клапанного ИЭ даже при отсутствии явного поражения электродов, с учетом выявленного возбудителя и необходимости операции на клапанах."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "In cases of possible CIED-related IE with occult Gram-positive bacteraemia or fungaemia, complete system removal should be considered in case bacteraemia/fungaemia persists after a course of antimicrobial therapy.",
+            "ru": "В случаях возможного CIED-ассоциированного ИЭ со скрытой грамположительной бактериемией или фунгемией следует рассмотреть полное удаление системы при персистировании бактериемии/фунгемии после курса антимикробной терапии."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Extension of antibiotic treatment of CIED-related endocarditis to (4–6) weeks following device extraction should be considered in the presence of septic emboli or prosthetic valves.",
+            "ru": "Продление антибактериальной терапии при эндокардите, связанном с CIED, до (4–6) недель после удаления устройства следует рассмотреть при наличии септических эмболов или протезированных клапанов."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Use of an antibiotic envelope may be considered in select high-risk patients undergoing CIED reimplantation to reduce risk of infection.",
+            "ru": "Использование антибактериального конверта может рассматриваться у отдельных пациентов высокого риска при реимплантации CIED для снижения риска инфекции."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "In cases of possible CIED-related IE with occult Gram-negative bacteraemia, complete system removal may be considered in case of persistent/relapsing bacteraemia after a course of antimicrobial therapy.",
+            "ru": "При возможном CIED-ассоциированном ИЭ со скрытой грамотрицательной бактериемией полное удаление системы может рассматриваться при персистирующей/рецидивирующей бактериемии после курса антимикробной терапии."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "In non-S. aureus CIED-related endocarditis without valve involvement or lead vegetations, and if follow-up blood cultures are negative without septic emboli, 2 weeks of antibiotic treatment may be considered following device extraction.",
+            "ru": "При CIED-ассоциированном эндокардите нестафилококковой (non-S. aureus) этиологии без поражения клапанов и вегетаций на электродах, а также при отрицательных контрольных посевах крови и отсутствии септических эмболов, после удаления устройства может быть рассмотрен 2-недельный курс антибактериальной терапии."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "Removal of CIED after a single positive blood culture, with no other clinical evidence of infection, is not recommended.",
+            "ru": "Удаление CIED при однократном положительном посеве крови без каких-либо других клинических признаков инфекции не рекомендуется."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

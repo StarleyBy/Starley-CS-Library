@@ -4,6 +4,12 @@
     { "id": "esc-af-2024", "path": "esc-af-2024/" },
     { "id": "esc-cmp-2023", "path": "esc-cmp-2023/" },
     { "id": "esc-acs-2023", "path": "esc-acs-2023/" },
-    { "id": "esc-achd-2020", "path": "esc-achd-2020/" }
+    { "id": "esc-cardioonc-2022", "path": "esc-cardioonc-2022/" },
+    { "id": "esc-achd-2020", "path": "esc-achd-2020/" },
+    { "id": "esc-ccs-2024", "path": "esc-ccs-2024/" },
+    { "id": "esc-endo-2023", "path": "esc-endo-2023/" },
+    { "id": "esc-revasc-2018", "path": "esc-revasc-2018/" },
+    { "id": "esc-pe-2019", "path": "esc-pe-2019/" },
+    { "id": "esc-vhd-2025", "path": "esc-vhd-2025/" }
   ]
 }

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt27-takotsubo-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 27",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 27 — Recommendations for the diagnosis and management of Takotsubo syndrome in patients with cancer",
+    "ru": "Таблица рекомендаций 27 — Рекомендации по диагностике и ведению синдрома Такоцубо у онкологических пациентов"
+  },
+  "tags": [
+    "cardio-oncology",
+    "takotsubo",
+    "tts",
+    "coronary-angiography",
+    "cmr",
+    "qt-prolongation"
+  ],
+  "source": {
+    "page": 59
+  },
+  "sections": [
+    {
+      "id": "sec01-takotsubo",
+      "title": {
+        "en": "Diagnosis and management of Takotsubo syndrome",
+        "ru": "Диагностика и ведение синдрома Такоцубо"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Coronary angiography (invasive or CCTA) is recommended to exclude ACS.",
+            "ru": "Коронарная ангиография (инвазивная КАГ или КТ-коронарография) рекомендуется для исключения острого коронарного синдрома (ОКС)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "CMR is recommended to exclude myocarditis and MI.",
+            "ru": "МРТ сердца рекомендуется для исключения миокардита и инфаркта миокарда."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "QT-prolonging drugs are not recommended during the acute TTS phase (until full recovery and normalization of LV function and QTc).",
+            "ru": "Препараты, удлиняющие интервал QT, не рекомендуются во время острой фазы синдрома Такоцубо (до полного восстановления функции ЛЖ и нормализации QTc)."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

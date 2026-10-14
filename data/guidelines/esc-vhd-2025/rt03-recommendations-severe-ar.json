@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt03-recommendations-severe-ar",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 3",
+  "title": {
+    "en": "Recommendations on indications for intervention in severe aortic regurgitation",
+    "ru": "Рекомендации по показаниям к вмешательству при тяжелой аортальной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "ar",
+    "aortic-regurgitation",
+    "av-surgery",
+    "av-repair",
+    "tavi",
+    "ascending-aorta",
+    "valve-sparing"
+  ],
+  "sections": [
+    {
+      "id": "sec-severe-ar",
+      "title": {
+        "en": "Severe aortic regurgitation",
+        "ru": "Тяжелая аортальная регургитация"
+      },
+      "rows": [
+        {
+          "id": "r01-symptomatic-severe-ar",
+          "text": {
+            "en": "AV surgery is recommended in symptomatic patients with severe AR regardless of LV function.",
+            "ru": "Хирургическое вмешательство на аортальном клапане рекомендуется симптоматическим пациентам с тяжелой аортальной регургитацией независимо от систолической функции ЛЖ."
+          },
+          "refs": [224, 225, 226, 227, 228],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02-asymptomatic-lvesd-lvef",
+          "text": {
+            "en": "AV surgery is recommended in asymptomatic patients with severe AR and LVESD >50 mm or LVESDi >25 mm/m² [especially in patients with small body size (BSA <1.68 m²)] or resting LVEF ≤50%.",
+            "ru": "Хирургическое вмешательство на аортальном клапане рекомендуется бессимптомным пациентам с тяжелой АР и КСР ЛЖ >50 мм или КСРи ЛЖ >25 мм/м² [особенно у лиц с малой площадью поверхности тела (ППТ <1,68 м²)] либо ФВ ЛЖ в покое ≤50%."
+          },
+          "refs": [226, 228, 231, 233, 234],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03-concomitant-cabg-aorta",
+          "text": {
+            "en": "AV surgery is recommended in symptomatic and asymptomatic patients with severe AR undergoing CABG or surgery of the ascending aorta.",
+            "ru": "Хирургическое вмешательство на аортальном клапане рекомендуется симптомным и бессимптомным пациентам с тяжелой АР, которым планируется КШ или операция на восходящей аорте."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04-av-repair-selected",
+          "text": {
+            "en": "AV repair should be considered in selected patients with severe AR at experienced centres, when durable results are expected.",
+            "ru": "Пластику (реконструкцию) аортального клапана следует рассматривать у отобранных пациентов с тяжелой АР в опытных центрах при высокой вероятности стойкого долгосрочного результата."
+          },
+          "refs": [220, 245, 246, 259],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r05-asymptomatic-lvesdi-lvef-55",
+          "text": {
+            "en": "AV surgery may be considered in asymptomatic patients with severe AR and LVESDi >22 mm/m² or LVESVi^[c] >45 mL/m² [especially in patients with small body size (BSA <1.68 m²)] or resting LVEF ≤55%, if the surgical risk is low.",
+            "ru": "Операцию на аортальном клапане можно рассматривать у бессимптомных пациентов с тяжелой АР и КСРи ЛЖ >22 мм/м² или КСОи ЛЖ^[c] >45 мл/м² [особенно у пациентов с малой площадью поверхности тела (ППТ <1,68 м²)] либо ФВ ЛЖ в покое ≤55%, если хирургический риск низкий."
+          },
+          "refs": [226, 228, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241],
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r06-tavi-inoperable-ar",
+          "text": {
+            "en": "TAVI may be considered for the treatment of severe AR in symptomatic patients ineligible for surgery according to the Heart Team, if the anatomy is suitable.",
+            "ru": "TAVI может рассматриваться для лечения тяжелой АР у симптомных пациентов, признанных неоперабельными/неподходящими для открытой хирургии по решению Heart Team, при подходящей анатомии."
+          },
+          "refs": [264, 265, 268, 269],
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-concomitant-ascending-aorta",
+      "title": {
+        "en": "Concomitant surgery of the ascending aorta",
+        "ru": "Сопутствующие вмешательства на восходящей аорте"
+      },
+      "rows": [
+        {
+          "id": "r07-valve-sparing-root-replacement",
+          "text": {
+            "en": "Valve-sparing aortic root replacement is recommended in young patients with aortic root dilatation at experienced centres, when durable results are expected.",
+            "ru": "Клапансохраняющее протезирование корня аорты (valve-sparing) рекомендуется молодым пациентам с дилатацией корня аорты в опытных центрах, если ожидаются стойкие долгосрочные результаты."
+          },
+          "refs": [247, 250, 251, 252, 253, 255],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r08-root-ascending-aorta-45",
+          "text": {
+            "en": "When AV surgery is indicated and the predicted surgical risk is low, replacement of the aortic root or ascending aorta should be considered if the maximal diameter is ≥45 mm.^[d]",
+            "ru": "При наличии показаний к операции на аортальном клапане и низком прогнозируемом хирургическом риске протезирование корня аорты или восходящей аорты следует рассматривать, если максимальный диаметр составляет ≥45 мм.^[d]"
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Using echocardiography or CMR.",
+      "ru": "По данным эхокардиографии или МРТ сердца (CMR)."
+    },
+    "d": {
+      "en": "Considering age, BSA, the aetiology of the valvular disease, the presence of a bicuspid AV, and the intraoperative shape and thickness of the ascending aorta.",
+      "ru": "С учетом возраста, ППТ, этиологии порока, наличия двустворчатого аортального клапана, а также интраоперационной формы и толщины стенки восходящей аорты."
+    }
+  }
+}

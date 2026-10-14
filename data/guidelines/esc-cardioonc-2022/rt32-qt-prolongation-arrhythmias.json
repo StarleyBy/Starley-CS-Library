@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt32-qt-prolongation-arrhythmias",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 32",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 32 — Recommendations for the management of long corrected QT interval and ventricular arrhythmias in patients receiving anticancer treatment",
+    "ru": "Таблица рекомендаций 32 — Рекомендации по ведению удлиненного корригированного интервала QT и желудочковых аритмий у пациентов, получающих противоопухолевое лечение"
+  },
+  "tags": [
+    "cardio-oncology",
+    "qt-prolongation",
+    "qtc",
+    "qtcf",
+    "ventricular-arrhythmias",
+    "torsade-de-pointes",
+    "tdp",
+    "ecg"
+  ],
+  "source": {
+    "page": 71
+  },
+  "sections": [
+    {
+      "id": "sec01-qtc-management",
+      "title": {
+        "en": "How to manage QTc prolongation in patients with cancer",
+        "ru": "Тактика при удлинении интервала QTc у онкологических пациентов"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Discontinuation of QTc-prolonging cancer therapy is recommended in patients who develop TdP or sustained ventricular tachyarrhythmias during treatment.",
+            "ru": "Полная отмена противоопухолевой терапии, удлиняющей интервал QTc, рекомендуется пациентам, у которых развивается пируэтная тахикардия (TdP) или устойчивые желудочковые тахиаритмии во время лечения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Temporary interruption of QTc-prolonging cancer therapy is recommended in patients who develop asymptomatic QTcF ≥ 500 ms and an ECG should be repeated every 24 h until resolution of the QTcF prolongation.",
+            "ru": "Временное прерывание противоопухолевой терапии, удлиняющей QTc, рекомендуется пациентам с бессимптомным удлинением QTcF ≥ 500 мс, при этом ЭКГ следует повторять каждые 24 часа до нормализации QTcF."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Immediate withdrawal of any offending drug and correction of electrolyte abnormalities and other risk factors is recommended in patients with cancer who develop QTcF ≥ 500 ms.",
+            "ru": "Немедленная отмена любого причинного препарата и коррекция электролитных нарушений и других факторов риска рекомендуются онкологическим пациентам при выявлении QTcF ≥ 500 мс."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Weekly ECG monitoring is recommended in asymptomatic patients with cancer with QTcF 480–500 ms who are treated with a QTc-prolonging cancer therapy.",
+            "ru": "Еженедельный мониторинг ЭКГ рекомендуется бессимптомным пациентам со значениями QTcF 480–500 мс, получающим терапию, удлиняющую интервал QTc."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "A 12-lead ECG is recommended after any dose increase of QTc-prolonging cancer therapy.",
+            "ru": "Регистрация ЭКГ в 12 отведениях рекомендуется после каждого повышения дозы противоопухолевого препарата, способного удлинять интервал QTc."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec02-restarting-therapy",
+      "title": {
+        "en": "Restarting QTc-prolonging cancer therapy",
+        "ru": "Возобновление противоопухолевой терапии, удлиняющей QTc"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "A multidisciplinary discussion is recommended before restarting QTc-prolonging drugs in patients who have developed significant QTcF prolongation, to discuss alternative cancer treatments.",
+            "ru": "Мультидисциплинарный консилиум рекомендуется перед возобновлением терапии препаратами, удлиняющими QTc, у пациентов со значимым удлинением QTcF для обсуждения альтернативных вариантов противоопухолевого лечения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "In patients who experienced significant QTcF prolongation, restarting the culprit QTc-prolonging cancer treatment may be considered, ideally at a reduced dose according to each drug recommendation.",
+            "ru": "У пациентов со значимым удлинением QTcF в анамнезе повторное назначение причинного противоопухолевого препарата может рассматриваться, предпочтительно в редуцированной дозе согласно инструкции к препарату."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Weekly ECG monitoring during the first 4–6 weeks and then monthly thereafter is recommended in patients with cancer after restarting QTc-prolonging cancer therapy.",
+            "ru": "Еженедельный мониторинг ЭКГ в течение первых 4–6 недель, а затем ежемесячно рекомендуется пациентам после возобновления противоопухолевой терапии, удлиняющей интервал QTc."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt31-atrial-fibrillation-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 31",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 31 — Recommendations for the management of atrial fibrillation in patients receiving anticancer treatment",
+    "ru": "Таблица рекомендаций 31 — Рекомендации по ведению фибрилляции предсердий у пациентов, получающих противоопухолевое лечение"
+  },
+  "tags": [
+    "cardio-oncology",
+    "af",
+    "atrial-fibrillation",
+    "anticoagulation",
+    "cha2ds2-vasc",
+    "noac",
+    "lmwh",
+    "laa-occlusion",
+    "rate-control",
+    "beta-blockers"
+  ],
+  "source": {
+    "page": 67
+  },
+  "sections": [
+    {
+      "id": "sec01-af-management",
+      "title": {
+        "en": "Atrial fibrillation management",
+        "ru": "Ведение фибрилляции предсердий"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "CHA2DS2-VASc score should be considered for risk stratification for stroke/systemic thromboembolism taking into account that it may underestimate the actual thromboembolic risk in cancer.",
+            "ru": "Шкалу CHA2DS2-VASc следует рассматривать для стратификации риска инсульта и системных тромбоэмболий с учетом того, что она может недооценивать реальный тромбоэмболический риск при онкозаболеваниях."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Long-term anticoagulation is recommended for stroke/systemic thromboembolism prevention in patients with cancer with AF and a CHA2DS2-VASc score ≥2 (men) or ≥3 (women) as per the 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation.",
+            "ru": "Длительная антикоагулянтная терапия рекомендуется для профилактики инсульта и системных тромбоэмболий у онкологических пациентов с ФП при оценке по шкале CHA2DS2-VASc ≥2 (мужчины) или ≥3 (женщины) в соответствии с рекомендациями ESC 2020 по ФП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Long-term anticoagulation should be considered for stroke/systemic thromboembolism prevention in patients with cancer with AF and a CHA2DS2-VASc score = 1 (men) or = 2 (women) as per the 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation.",
+            "ru": "Длительную антикоагулянтную терапию следует рассматривать для профилактики инсульта и системных тромбоэмболий у онкологических больных с ФП при оценке по шкале CHA2DS2-VASc = 1 (мужчины) или = 2 (женщины) в соответствии с рекомендациями ESC 2020."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Patients with cancer, AF, and CHA2DS2-VASc score 0 (men) or 1 (women) may have a higher thrombotic risk than patients without cancer and may be considered for therapeutic anticoagulation after consideration of the bleeding risk.",
+            "ru": "Пациенты с онкологическими заболеваниями, ФП и баллом CHA2DS2-VASc 0 (мужчины) или 1 (женщины) могут иметь более высокий тромботический риск, чем пациенты без рака, и у них может рассматриваться терапевтическая антикоагуляция после взвешивания риска кровотечений."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Thromboembolic and bleeding risk reassessment is recommended during follow-up in patients with cancer with AF.",
+            "ru": "Повторная оценка тромбоэмболического риска и риска кровотечений рекомендуется в ходе динамического наблюдения всем пациентам со злокачественными опухолями и ФП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "NOAC should be considered for stroke prevention in preference to LMWH and VKA (excluding patients with mechanical heart valves or moderate-to-severe mitral stenosis) in patients without a high bleeding risk, significant drug–drug interactions, or severe renal dysfunction.",
+            "ru": "НОАК следует предпочитать НМГ и АВК для профилактики инсульта (исключая пациентов с механическими клапанами сердца или умеренным/тяжелым митральным стенозом) у лиц без высокого риска кровотечений, значимых межлекарственных взаимодействий или тяжелой почечной дисфункции."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "LMWH should be considered in patients with active cancer and AF who are not suitable for NOAC (due to high bleeding risk, severe renal dysfunction CrCl <15 mL/min, or major drug–drug interactions).",
+            "ru": "НМГ следует рассматривать у пациентов с активным онкологическим процессом и ФП при невозможности применения НОАК (высокий риск кровотечений, тяжелая почечная недостаточность с КК <15 мл/мин или выраженные лекарственные взаимодействия)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "LAA occlusion may be considered for stroke prevention in patients with cancer with AF and contraindications for long-term anticoagulation with a life expectancy >12 months.",
+            "ru": "Окклюзия ушка левого предсердия (LAA) может рассматриваться для профилактики инсульта у онкологических больных с ФП и противопоказаниями к длительной антикоагулянтной терапии при ожидаемой продолжительности жизни >12 месяцев."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Antiplatelet therapy or prophylactic LMWH are not recommended for stroke or systemic thromboembolism prevention in AF with cancer.",
+            "ru": "Антиагрегантная терапия или профилактические дозы НМГ не рекомендуются для профилактики инсульта или системных тромбоэмболий при ФП у пациентов с онкологическими заболеваниями."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Heart rate control strategy, preferably with beta-blockers, should be considered in patients who develop well-tolerated AF while they are receiving active cancer treatment (resting HR <110 bpm lenient rate control target).",
+            "ru": "Стратегию контроля частоты сердечных сокращений (предпочтительно с помощью бета-блокаторов) следует рассмотреть у пациентов с хорошо переносимой ФП во время активного противоопухолевого лечения (целевая ЧСС в покое <110 уд/мин)."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt01-risk-categorization",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 1",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 1 — Recommendations for a general approach to cardiovascular toxicity risk categorization",
+    "ru": "Таблица рекомендаций 1 — Рекомендации по общему подходу к категоризации риска сердечно-сосудистой токсичности"
+  },
+  "tags": [
+    "cardio-oncology",
+    "risk-stratification",
+    "hfa-icos",
+    "cardiotoxicity",
+    "referral",
+    "multidisciplinary"
+  ],
+  "sections": [
+    {
+      "id": "sec01",
+      "title": {
+        "en": "General recommendations for CV toxicity risk categorization",
+        "ru": "Общие рекомендации по категоризации риска кардиоваскулярной токсичности"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "CV toxicity risk stratification before starting potentially cardiotoxic anticancer therapy is recommended in all patients with cancer.",
+            "ru": "Стратификация риска сердечно-сосудистой токсичности перед началом потенциально кардиотоксической противоопухолевой терапии рекомендуется всем пациентам с онкологическими заболеваниями."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Communicating the results of the CV toxicity risk assessment to the patient and other appropriate healthcare professionals is recommended.",
+            "ru": "Рекомендуется информировать пациента и профильных медицинских специалистов о результатах оценки риска сердечно-сосудистой токсичности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "The use of HFA-ICOS risk assessment should be considered to stratify CV toxicity risk in patients with cancer scheduled to receive cardiotoxic anticancer therapy.",
+            "ru": "Следует рассмотреть использование шкал оценки риска HFA-ICOS для стратификации риска кардиотоксичности у онкологических пациентов, которым запланирована кардиотоксическая противоопухолевая терапия."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "It is recommended that patients categorized to be at low CV toxicity risk should proceed to anticancer therapy without delay.",
+            "ru": "Пациентам категории низкого риска кардиотоксичности рекомендуется начинать противоопухолевую терапию без задержек."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients categorized at moderate CV toxicity risk, cardiology referral may be considered without delaying cancer treatments.",
+            "ru": "У пациентов умеренного риска кардиотоксичности может быть рассмотрено направление к кардиологу (без задержки начала противоопухолевого лечения)."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Cardiology referral is recommended in high-risk and very high-risk patients before anticancer therapy (unless there is an oncology emergency requiring immediate cancer treatment).",
+            "ru": "Направление к кардиологу/кардиоонкологу рекомендуется пациентам высокого и очень высокого риска перед началом противоопухолевой терапии (за исключением экстренных онкологических состояний, требующих немедленного лечения)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Discussion of the risk/benefit balance of cardiotoxic anticancer treatment in high- and very high-risk patients in a multidisciplinary approach prior to starting treatment is recommended.",
+            "ru": "Рекомендуется обсуждение соотношения пользы и риска кардиотоксической терапии у пациентов высокого и очень высокого риска в рамках мультидисциплинарного консилиума до начала лечения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Cardiology referral is recommended for patients with cancer and pre-existing CVD or abnormal findings at baseline CV toxicity risk assessment who require potentially cardiotoxic anticancer therapy.",
+            "ru": "Направление к кардиологу рекомендуется пациентам с онкологическими заболеваниями и предшествующими ССЗ либо патологическими изменениями при исходной оценке риска, которым требуется потенциально кардиотоксическая терапия."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

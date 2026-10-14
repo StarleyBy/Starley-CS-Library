@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt16-androgen-deprivation-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 16",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 16 — Recommendations for baseline risk assessment and monitoring during androgen deprivation therapy for prostate cancer",
+    "ru": "Таблица рекомендаций 16 — Рекомендации по исходной оценке риска и мониторингу во время андроген-депривационной терапии (АДТ) при раке предстательной железы"
+  },
+  "tags": [
+    "cardio-oncology",
+    "prostate-cancer",
+    "adt",
+    "androgen-deprivation",
+    "gnrh-antagonist",
+    "score2",
+    "cad",
+    "qtc"
+  ],
+  "source": {
+    "page": 40
+  },
+  "sections": [
+    {
+      "id": "sec01-adt",
+      "title": {
+        "en": "Androgen deprivation therapy (ADT)",
+        "ru": "Андроген-депривационная терапия (АДТ)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Baseline CV risk assessment (BP, lipids, fasting glucose, HbA1c, ECG, lifestyle education) and estimation of 10-year fatal and non-fatal CVD risk with SCORE2 or SCORE2-OP is recommended in patients treated with ADT without pre-existing CVD.",
+            "ru": "Исходная оценка сердечно-сосудистого риска (АД, липиды, глюкоза натощак, HbA1c, ЭКГ, консультирование по образу жизни) и оценка 10-летнего риска фатальных и нефатальных сердечно-сосудистых событий по SCORE2 или SCORE2-OP рекомендуется пациентам, получающим АДТ, без предшествующих ССЗ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Baseline and serial ECGs are recommended in patients at risk of QTc prolongation during ADT therapy.",
+            "ru": "Исходная ЭКГ и серийный ЭКГ-мониторинг рекомендуются пациентам с риском удлинения интервала QTc во время терапии АДТ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "A GnRH antagonist should be considered in patients with pre-existing symptomatic CAD (CCS or ACS) who require ADT.",
+            "ru": "Антагонисты ГнРГ следует рассмотреть у пациентов с предшествующей симптоматической ИБС (хроническими коронарными синдромами или ОКС), которым требуется АДТ."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Annual CV risk assessment (BP, lipids, fasting glucose, HbA1c, ECG, and lifestyle education) is recommended during ADT.",
+            "ru": "Ежегодная оценка сердечно-сосудистого риска (АД, липиды, глюкоза, HbA1c, ЭКГ и контроль факторов образа жизни) рекомендуется во время терапии АДТ."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

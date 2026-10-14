@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt07-oral-streptococci",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 7",
+  "title": {
+    "en": "Recommendations for antibiotic treatment of infective endocarditis due to oral streptococci and Streptococcus gallolyticus group",
+    "ru": "Рекомендации по антибактериальной терапии инфекционного эндокардита, вызванного оральными стрептококками и группой Streptococcus gallolyticus"
+  },
+  "sections": [
+    {
+      "id": "penicillin-susceptible-streptococci",
+      "title": {
+        "en": "Penicillin-susceptible oral streptococci and Streptococcus gallolyticus group",
+        "ru": "Оральные стрептококки и группа Streptococcus gallolyticus, чувствительные к пенициллину"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with IE due to oral streptococci and S. gallolyticus group, penicillin G, amoxicillin, or ceftriaxone are recommended for 4 (in NVE) or 6 weeks (in PVE), using the following doses:\n• Adult dosage: Penicillin G 12–18 million U/day i.v. in 4–6 doses or continuously; Amoxicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 2 g/day i.v. in 1 dose.\n• Paediatric dosage: Penicillin G 200 000 U/kg/day i.v. in 4–6 divided doses; Amoxicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Ceftriaxone 100 mg/kg/day i.v. in 1 dose.",
+            "ru": "У пациентов с ИЭ, вызванным оральными стрептококками и группой S. gallolyticus, пенициллин G, амоксициллин или цефтриаксон рекомендуются в течение 4 (при ИЭ нативного клапана) или 6 недель (при ИЭ протезированного клапана) в следующих дозировках:\n• Дозы у взрослых: пенициллин G 12–18 млн ЕД/сут в/в в 4–6 введений или непрерывно; амоксициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 2 г/сут в/в в 1 введение.\n• Дозы у детей: пенициллин G 200 000 ЕД/кг/сут в/в в 4–6 введений; амоксициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); цефтриаксон 100 мг/кг/сут в/в в 1 введение."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "2-week treatment with penicillin G, amoxicillin, ceftriaxone combined with gentamicin is recommended only for the treatment of non-complicated NVE due to oral streptococci and S. gallolyticus in patients with normal renal function using the following doses:\n• Adult dosage: Penicillin G 12–18 million U/day i.v. in 4–6 doses or continuously; Amoxicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 2 g/day i.v. in 1 dose; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.\n• Paediatric dosage: Penicillin G 200 000 U/kg/day i.v. in 4–6 divided doses; Amoxicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Ceftriaxone 100 mg/kg i.v. in 1 dose; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose or 3 equally divided doses.",
+            "ru": "2-недельный курс лечения пенициллином G, амоксициллином или цефтриаксоном в комбинации с гентамицином рекомендуется только для терапии неосложненного ИЭ нативного клапана, вызванного оральными стрептококками и S. gallolyticus, у пациентов с нормальной функцией почек в следующих дозировках:\n• Дозы у взрослых: пенициллин G 12–18 млн ЕД/сут в/в в 4–6 введений или непрерывно; амоксициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 2 г/сут в/в в 1 введение; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение.\n• Дозы у детей: пенициллин G 200 000 ЕД/кг/сут в/в в 4–6 введений; амоксициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); цефтриаксон 100 мг/кг в/в в 1 введение; гентамицин 3 мг/кг/сут в/в или в/м в 1 или 3 равных введения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients allergic to beta-lactams and with IE due to oral streptococci and S. gallolyticus, vancomycin for 4 weeks in NVE or for 6 weeks in PVE is recommended using the following doses:\n• Adult dosage: Vancomycin 30 mg/kg/day i.v. in 2 doses.\n• Paediatric dosage: Vancomycin 30 mg/kg/day i.v. in 2 or 3 equally divided doses.",
+            "ru": "У пациентов с аллергией на бета-лактамы при ИЭ, вызванном оральными стрептококками и S. gallolyticus, рекомендуется ванкомицин в течение 4 недель при ИЭ нативного клапана или 6 недель при ИЭ протезированного клапана в следующих дозировках:\n• Дозы у взрослых: ванкомицин 30 мг/кг/сут в/в в 2 введения.\n• Дозы у детей: ванкомицин 30 мг/кг/сут в/в в 2 или 3 равных введения."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "resistant-or-increased-exposure-streptococci",
+      "title": {
+        "en": "Oral streptococci and Streptococcus gallolyticus group susceptible, increased exposure or resistant to penicillin",
+        "ru": "Оральные стрептококки и группа Streptococcus gallolyticus, чувствительные при повышенной экспозиции или резистентные к пенициллину"
+      },
+      "rows": [
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients with NVE due to oral streptococci and S. gallolyticus, penicillin G, amoxicillin, or ceftriaxone for 4 weeks in combination with gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Penicillin G 24 million U/day i.v. in 4–6 doses or continuously; Amoxicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 2 g/day i.v. in 1 dose; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.",
+            "ru": "У пациентов с ИЭ нативного клапана, вызванным оральными стрептококками и S. gallolyticus, рекомендуется пенициллин G, амоксициллин или цефтриаксон в течение 4 недель в комбинации с гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: пенициллин G 24 млн ЕД/сут в/в в 4–6 введений или непрерывно; амоксициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 2 г/сут в/в в 1 введение; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients with PVE due to oral streptococci and S. gallolyticus, penicillin G, amoxicillin, or ceftriaxone for 6 weeks combined with gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Penicillin G 24 million U/day i.v. in 4–6 doses or continuously; Amoxicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 2 g/day i.v. in 1 dose; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.",
+            "ru": "У пациентов с ИЭ протезированного клапана, вызванным оральными стрептококками и S. gallolyticus, рекомендуется пенициллин G, амоксициллин или цефтриаксон в течение 6 недель в комбинации с гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: пенициллин G 24 млн ЕД/сут в/в в 4–6 введений или непрерывно; амоксициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 2 г/сут в/в в 1 введение; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In patients with NVE due to oral streptococci and S. gallolyticus and who are allergic to beta-lactams, vancomycin for 4 weeks is recommended using the following doses:\n• Adult dosage: Vancomycin 30 mg/kg/day i.v. in 2 doses.\n• Paediatric dosage: Vancomycin 30 mg/kg/day i.v. in 2 doses.",
+            "ru": "У пациентов с ИЭ нативного клапана, вызванным оральными стрептококками и S. gallolyticus, при аллергии на бета-лактамы рекомендуется ванкомицин в течение 4 недель в следующих дозах:\n• Дозы у взрослых: ванкомицин 30 мг/кг/сут в/в в 2 введения.\n• Дозы у детей: ванкомицин 30 мг/кг/сут в/в в 2 введения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "In patients with PVE due to oral streptococci and S. gallolyticus and who are allergic to beta-lactams, vancomycin for 6 weeks combined with gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Vancomycin 30 mg/kg/day i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.\n• Paediatric dosage: Vancomycin 30 mg/kg/day i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.",
+            "ru": "У пациентов с ИЭ протезированного клапана, вызванным оральными стрептококками и S. gallolyticus, при аллергии на бета-лактамы рекомендуется ванкомицин в течение 6 недель в сочетании с гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: ванкомицин 30 мг/кг/сут в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение.\n• Дозы у детей: ванкомицин 30 мг/кг/сут в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

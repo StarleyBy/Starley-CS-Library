@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt08-primary-pci-stemi-indications-logistics",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 8",
+  "title": {
+    "en": "Primary percutaneous coronary intervention for myocardial reperfusion in ST-elevation myocardial infarction: indications and logistics",
+    "ru": "Первичное чрескожное коронарное вмешательство для реперфузии миокарда при инфаркте миокарда с подъемом сегмента ST: показания и логистика"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-indication",
+      "title": {
+        "en": "Indication",
+        "ru": "Показания"
+      },
+      "rows": [
+        {
+          "id": "r_ind_01",
+          "text": {
+            "en": "Reperfusion therapy is indicated in all patients with time from symptom onset <12 h duration and persistent ST-segment elevation.",
+            "ru": "Реперфузионная терапия показана всем пациентам с длительностью от начала симптомов <12 ч и стойким подъемом сегмента ST."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_ind_02",
+          "text": {
+            "en": "In the absence of ST-segment elevation, a primary PCI strategy is indicated in patients with suspected ongoing ischaemic symptoms suggestive of MI and at least one of the following criteria present:\n• haemodynamic instability or cardiogenic shock\n• recurrent or ongoing chest pain refractory to medical treatment\n• life-threatening arrhythmias or cardiac arrest\n• mechanical complications of MI\n• acute heart failure\n• recurrent dynamic ST-segment or T-wave changes, particularly with intermittent ST-segment elevation.",
+            "ru": "При отсутствии стойкого подъема сегмента ST стратегия первичного ЧКВ показана пациентам с подозрением на продолжающуюся ишемию, указывающую на ИМ, при наличии хотя бы одного из следующих критериев:\n• гемодинамическая нестабильность или кардиогенный шок\n• рецидивирующая или сохраняющаяся боль в грудной клетке, рефрактерная к медикаментозной терапии\n• жизнеугрожающие аритмии или остановка сердца\n• механические осложнения инфаркта миокарда\n• острая сердечная недостаточность\n• рецидивирующие динамические изменения сегмента ST или зубца T, особенно с интермиттирующим подъемом сегмента ST."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_ind_03",
+          "text": {
+            "en": "A primary PCI strategy is recommended over fibrinolysis within the indicated time frames.",
+            "ru": "Стратегия первичного ЧКВ рекомендуется предпочтительнее фибринолиза при условии соблюдения установленных временных рамок."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_ind_04",
+          "text": {
+            "en": "In patients with time from symptom onset >12 h, a primary PCI strategy is indicated in the presence of ongoing symptoms or signs suggestive of ischaemia, haemodynamic instability, or life-threatening arrhythmias.",
+            "ru": "У пациентов со сроком от начала симптомов >12 ч первичное ЧКВ показано при наличии сохраняющихся симптомов или признаков ишемии, гемодинамической нестабильности либо жизнеугрожающих аритмий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_ind_05",
+          "text": {
+            "en": "A routine primary PCI strategy should be considered in patients presenting late (12–48 h) after symptom onset.",
+            "ru": "Рутинную стратегию первичного ЧКВ следует рассмотреть у пациентов, поступивших в поздние сроки (12–48 ч) после начала симптомов."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-logistics",
+      "title": {
+        "en": "Logistics",
+        "ru": "Логистика"
+      },
+      "rows": [
+        {
+          "id": "r_log_01",
+          "text": {
+            "en": "It is recommended that the pre-hospital management of STEMI patients should be based on regional networks that are designed to deliver reperfusion therapy effectively in a timely fashion, and to offer primary PCI to as many patients as possible.",
+            "ru": "Рекомендуется базировать догоспитальное ведение пациентов с ИМпST на региональных сетях, организованных для эффективного и своевременного проведения реперфузии и обеспечения первичного ЧКВ как можно большему числу пациентов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_log_02",
+          "text": {
+            "en": "It is recommended that all EMS, emergency departments, coronary care units, and catheterization laboratories have a written updated STEMI management protocol, preferably shared within geographical networks.",
+            "ru": "Рекомендуется, чтобы службы скорой медицинской помощи, приемные отделения, блоки кардиореанимации (ОРИТ/БИТ) и рентгеноперационные имели единый обновляемый письменный протокол ведения ИМпST, предпочтительно согласованный в масштабах географического региона."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_log_03",
+          "text": {
+            "en": "It is recommended that primary PCI-capable centres deliver a 24 h/7 day service and ensure that primary PCI is performed as fast as possible.",
+            "ru": "Рекомендуется, чтобы центры, выполняющие первичное ЧКВ, работали в режиме 24/7 и обеспечивали проведение первичного ЧКВ в кратчайшие сроки."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_log_04",
+          "text": {
+            "en": "It is recommended that patients transferred to a PCI-capable centre for primary PCI bypass the emergency department and CCU/ICCU, and are transferred directly to the catheterization laboratory.",
+            "ru": "Рекомендуется, чтобы пациенты, транспортируемые в ЧКВ-центр для первичного ЧКВ, миновали приемное отделение и блок интенсивной терапии и направлялись непосредственно в рентгеноперационную."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

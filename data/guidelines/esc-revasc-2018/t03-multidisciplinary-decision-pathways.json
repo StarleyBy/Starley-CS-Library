@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.t03-multidisciplinary-decision-pathways",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Table 3",
+  "title": {
+    "en": "Multidisciplinary decision pathways, patient informed consent, and timing of revascularization",
+    "ru": "Мультидисциплинарные алгоритмы принятия решений, информированное согласие пациента и сроки реваскуляризации"
+  },
+  "type": "grid",
+  "columns": [
+    {
+      "id": "feature",
+      "title": {
+        "en": "Feature",
+        "ru": "Параметр"
+      }
+    },
+    {
+      "id": "acs_shock",
+      "title": {
+        "en": "ACS: Shock",
+        "ru": "ОКС: Шок"
+      }
+    },
+    {
+      "id": "acs_stemi",
+      "title": {
+        "en": "ACS: STEMI",
+        "ru": "ОКС: ИМпST"
+      }
+    },
+    {
+      "id": "acs_nsteacs",
+      "title": {
+        "en": "ACS: NSTE-ACS",
+        "ru": "ОКС: ОКСбпST"
+      }
+    },
+    {
+      "id": "scad_no_adhoc",
+      "title": {
+        "en": "SCAD without ad hoc PCI indication according to Heart Team protocol",
+        "ru": "Стабильная ИБС без показаний к ad hoc ЧКВ по протоколу Heart Team"
+      }
+    },
+    {
+      "id": "scad_adhoc",
+      "title": {
+        "en": "SCAD with ad hoc PCI indication according to Heart Team protocol",
+        "ru": "Стабильная ИБС с показаниями к ad hoc ЧКВ по протоколу Heart Team"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "decision_making",
+      "cells": [
+        {
+          "text": {
+            "en": "Multidisciplinary decision-making",
+            "ru": "Мультидисциплинарное принятие решений (Heart Team)"
+          }
+        },
+        {
+          "text": {
+            "en": "Not mandatory during the acute phase; mechanical circulatory support according to Heart Team protocol",
+            "ru": "Не обязательно в острой фазе; механическая поддержка кровообращения по протоколу Heart Team"
+          }
+        },
+        {
+          "text": {
+            "en": "Not mandatory during the acute phase",
+            "ru": "Не обязательно в острой фазе"
+          }
+        },
+        {
+          "text": {
+            "en": "Not mandatory during the acute phase; after stabilization, recommended as in SCAD",
+            "ru": "Не обязательно в острой фазе; после стабилизации рекомендуется как при стабильной ИБС"
+          }
+        },
+        {
+          "text": {
+            "en": "Required",
+            "ru": "Обязательно"
+          }
+        },
+        {
+          "text": {
+            "en": "Not required",
+            "ru": "Не требуется"
+          }
+        }
+      ]
+    },
+    {
+      "id": "informed_consent",
+      "cells": [
+        {
+          "text": {
+            "en": "Informed consent",
+            "ru": "Информированное согласие"
+          }
+        },
+        {
+          "text": {
+            "en": "Witnessed verbal informed consent or family consent if possible without delay",
+            "ru": "Устное информированное согласие в присутствии свидетелей или согласие родственников, если возможно без задержки"
+          }
+        },
+        {
+          "text": {
+            "en": "Witnessed verbal informed consent may be sufficient unless written consent is legally required",
+            "ru": "Устного информированного согласия в присутствии свидетелей может быть достаточно, если письменное согласие не требуется по закону"
+          }
+        },
+        {
+          "text": {
+            "en": "Written informed consent (this may not apply to countries that are not legally required to ask for written informed consent; ESC/EACTS advocate documentation for all procedures); in emergency cases witnessed verbal informed consent may be sufficient",
+            "ru": "Письменное информированное согласие (может не применяться в странах, где это не требуется законом; ESC/EACTS рекомендуют документирование согласия для всех процедур); в экстренных случаях может быть достаточно устного согласия в присутствии свидетелей"
+          }
+        },
+        {
+          "text": {
+            "en": "Written informed consent (this may not apply to countries that are not legally required to ask for written informed consent; ESC/EACTS advocate documentation for all procedures)",
+            "ru": "Письменное информированное согласие (может не применяться в странах, где это не требуется законом; ESC/EACTS рекомендуют документирование согласия для всех процедур)"
+          }
+        },
+        {
+          "text": {
+            "en": "Written informed consent (this may not apply to countries that are not legally required to ask for written informed consent; ESC/EACTS advocate documentation for all procedures)",
+            "ru": "Письменное информированное согласие (может не применяться в странах, где это не требуется законом; ESC/EACTS рекомендуют документирование согласия для всех процедур)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "time_to_revasc",
+      "cells": [
+        {
+          "text": {
+            "en": "Time to revascularization",
+            "ru": "Сроки реваскуляризации"
+          }
+        },
+        {
+          "text": {
+            "en": "Emergency: no delay",
+            "ru": "Экстренно: без задержки"
+          }
+        },
+        {
+          "text": {
+            "en": "Emergency: no delay",
+            "ru": "Экстренно: без задержки"
+          }
+        },
+        {
+          "text": {
+            "en": "Urgency: within 2 h to within 72 h depending on the risk criteria",
+            "ru": "Срочно: от <2 часов до <72 часов в зависимости от критериев риска"
+          }
+        },
+        {
+          "text": {
+            "en": "Within 2 weeks for high-risk patients (severe symptoms [CCS class 3], anatomy [left main disease or equivalent, three-vessel disease or proximal LAD], or depressed ventricular function) and within 6 weeks for all other patients",
+            "ru": "В течение 2 недель для пациентов высокого риска (тяжелые симптомы [III класс по CCS], анатомия [поражение ствола ЛКА или эквивалент, трехсосудистое поражение или проксимальный стеноз ПМЖВ] либо сниженная функция желудочка) и в течение 6 недель для всех остальных пациентов"
+          }
+        },
+        {
+          "text": {
+            "en": "Ad hoc",
+            "ru": "Одномоментно (ad hoc)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "procedure",
+      "cells": [
+        {
+          "text": {
+            "en": "Procedure",
+            "ru": "Процедура"
+          }
+        },
+        {
+          "text": {
+            "en": "Proceed with intervention based on best evidence/availability. Ad hoc treatment of culprit lesion, staged treatment of non-culprit lesions according to institutional protocol or Heart Team decision.",
+            "ru": "Выполнение вмешательства на основе доказательной базы/доступности. Одномоментное (ad hoc) лечение инфаркт-связанного поражения, этапное лечение не связанных с инфарктом поражений по протоколу клиники или решению Heart Team."
+          }
+        },
+        {
+          "text": {
+            "en": "Proceed with intervention based on best evidence/availability. Non-culprit lesions treated according to institutional protocol or Heart Team decision.",
+            "ru": "Выполнение вмешательства на основе доказательной базы/доступности. Лечение не связанных с инфарктом поражений согласно протоколу клиники или решению Heart Team."
+          }
+        },
+        {
+          "text": {
+            "en": "Proceed with intervention based on best evidence/availability. Non-culprit lesions treated according to institutional protocol or Heart Team decision.",
+            "ru": "Выполнение вмешательства на основе доказательной базы/доступности. Лечение не связанных с инфарктом поражений согласно протоколу клиники или решению Heart Team."
+          }
+        },
+        {
+          "text": {
+            "en": "Allow for enough time from diagnostic catheterization to decide on the appropriate intervention.",
+            "ru": "Предоставление достаточного времени от диагностической катетеризации для принятия взвешенного решения о выборе вмешательства."
+          }
+        },
+        {
+          "text": {
+            "en": "Proceed with intervention according to institutional protocol defined by Heart Team.",
+            "ru": "Выполнение вмешательства в соответствии с протоколом клиники, разработанным Heart Team."
+          }
+        }
+      ]
+    }
+  ]
+}

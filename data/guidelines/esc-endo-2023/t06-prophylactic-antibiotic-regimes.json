@@ -1,0 +1,257 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.t06-prophylactic-antibiotic-regimes",
+  "guidelineId": "esc-endo-2023",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Table 6 — Prophylactic antibiotic regime for high-risk dental procedures",
+    "ru": "Таблица 6 — Схемы антибиотикопрофилактики при стоматологических процедурах высокого риска"
+  },
+  "tags": [
+    "endocarditis",
+    "antibiotic-prophylaxis",
+    "dental-procedures",
+    "amoxicillin",
+    "ampicillin",
+    "cephalosporins",
+    "azithromycin",
+    "doxycycline",
+    "penicillin-allergy"
+  ],
+  "columns": [
+    {
+      "id": "c_situation",
+      "title": {
+        "en": "Situation",
+        "ru": "Клиническая ситуация"
+      }
+    },
+    {
+      "id": "c_antibiotic",
+      "title": {
+        "en": "Antibiotic",
+        "ru": "Антибиотик"
+      }
+    },
+    {
+      "id": "c_adults",
+      "title": {
+        "en": "Single-dose 30–60 min before procedure: Adults",
+        "ru": "Однократная доза за 30–60 мин до процедуры: Взрослые"
+      }
+    },
+    {
+      "id": "c_children",
+      "title": {
+        "en": "Single-dose 30–60 min before procedure: Children",
+        "ru": "Однократная доза за 30–60 мин до процедуры: Дети"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-no-allergy-amoxicillin",
+      "cells": [
+        {
+          "text": {
+            "en": "No allergy to penicillin or ampicillin",
+            "ru": "При отсутствии аллергии на пенициллин или ампициллин"
+          }
+        },
+        {
+          "text": {
+            "en": "Amoxicillin",
+            "ru": "Амоксициллин"
+          }
+        },
+        {
+          "text": {
+            "en": "2 g orally",
+            "ru": "2 г перорально"
+          }
+        },
+        {
+          "text": {
+            "en": "50 mg/kg orally up to maximum of 2 g",
+            "ru": "50 мг/кг перорально (максимум до 2 г)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-no-allergy-ampicillin",
+      "cells": [
+        {
+          "text": {
+            "en": "No allergy to penicillin or ampicillin",
+            "ru": "При отсутствии аллергии на пенициллин или ампициллин"
+          }
+        },
+        {
+          "text": {
+            "en": "Ampicillin",
+            "ru": "Ампициллин"
+          }
+        },
+        {
+          "text": {
+            "en": "2 g i.m. or i.v.",
+            "ru": "2 г в/м или в/в"
+          }
+        },
+        {
+          "text": {
+            "en": "50 mg/kg i.m. or i.v. up to maximum of 2 g",
+            "ru": "50 мг/кг в/м или в/в (максимум до 2 г)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-no-allergy-cefazolin-ceftriaxone",
+      "cells": [
+        {
+          "text": {
+            "en": "No allergy to penicillin or ampicillin",
+            "ru": "При отсутствии аллергии на пенициллин или ампициллин"
+          }
+        },
+        {
+          "text": {
+            "en": "Cefazolin or ceftriaxone",
+            "ru": "Цефазолин или цефтриаксон"
+          }
+        },
+        {
+          "text": {
+            "en": "1 g i.m. or i.v.",
+            "ru": "1 г в/м или в/в"
+          }
+        },
+        {
+          "text": {
+            "en": "50 mg/kg i.v. or i.m. up to maximum of 1 g",
+            "ru": "50 мг/кг в/в или в/м (максимум до 1 г)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-allergy-cephalexin",
+      "cells": [
+        {
+          "text": {
+            "en": "Allergy to penicillin or ampicillin",
+            "ru": "При аллергии на пенициллин или ампициллин"
+          }
+        },
+        {
+          "text": {
+            "en": "Cephalexin (or other first- or second-generation oral cephalosporin in equivalent adult or paediatric dosing; cephalosporins should not be used in an individual with a history of anaphylaxis, angioedema, or urticaria with penicillin or ampicillin)",
+            "ru": "Цефалексин (или другой пероральный цефалоспорин I или II поколения в эквивалентной взрослой или детской дозировке; цефалоспорины не следует применять при анафилаксии, ангионевротическом отеке или крапивнице на пенициллин или ампициллин в анамнезе)"
+          }
+        },
+        {
+          "text": {
+            "en": "2 g orally",
+            "ru": "2 г перорально"
+          }
+        },
+        {
+          "text": {
+            "en": "50 mg/kg orally up to maximum of 2 g",
+            "ru": "50 мг/кг перорально (максимум до 2 г)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-allergy-macrolides",
+      "cells": [
+        {
+          "text": {
+            "en": "Allergy to penicillin or ampicillin",
+            "ru": "При аллергии на пенициллин или ампициллин"
+          }
+        },
+        {
+          "text": {
+            "en": "Azithromycin or clarithromycin",
+            "ru": "Азитромицин или кларитромицин"
+          }
+        },
+        {
+          "text": {
+            "en": "500 mg orally",
+            "ru": "500 мг перорально"
+          }
+        },
+        {
+          "text": {
+            "en": "15 mg/kg orally up to maximum of 500 mg",
+            "ru": "15 мг/кг перорально (максимум до 500 мг)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-allergy-doxycycline",
+      "cells": [
+        {
+          "text": {
+            "en": "Allergy to penicillin or ampicillin",
+            "ru": "При аллергии на пенициллин или ампициллин"
+          }
+        },
+        {
+          "text": {
+            "en": "Doxycycline",
+            "ru": "Доксициклин"
+          }
+        },
+        {
+          "text": {
+            "en": "100 mg orally",
+            "ru": "100 мг перорально"
+          }
+        },
+        {
+          "text": {
+            "en": "<45 kg: 2.2 mg/kg orally; >45 kg: 100 mg orally",
+            "ru": "<45 кг: 2,2 мг/кг перорально; >45 кг: 100 мг перорально"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-allergy-parenteral-cephalosporin",
+      "cells": [
+        {
+          "text": {
+            "en": "Allergy to penicillin or ampicillin",
+            "ru": "При аллергии на пенициллин или ампициллин"
+          }
+        },
+        {
+          "text": {
+            "en": "Cefazolin or ceftriaxone (cephalosporins should not be used in an individual with a history of anaphylaxis, angioedema, or urticaria with penicillin or ampicillin)",
+            "ru": "Цефазолин или цефтриаксон (цефалоспорины не следует применять при анафилаксии, ангионевротическом отеке или крапивнице на пенициллин или ампициллин в анамнезе)"
+          }
+        },
+        {
+          "text": {
+            "en": "1 g i.m. or i.v.",
+            "ru": "1 г в/м или в/в"
+          }
+        },
+        {
+          "text": {
+            "en": "50 mg/kg i.v. or i.m. up to maximum of 1 g",
+            "ru": "50 мг/кг в/в или в/м (максимум до 1 г)"
+          }
+        }
+      ]
+    }
+  ]
+}

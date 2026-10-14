@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt22-hsct-risk-assessment",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 22",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 22 — Recommendations for baseline risk assessment in haematopoietic stem cell transplantation patients",
+    "ru": "Таблица рекомендаций 22 — Рекомендации по исходной оценке риска у пациентов перед трансплантацией гемопоэтических стволовых клеток (ТГСК / HSCT)"
+  },
+  "tags": [
+    "cardio-oncology",
+    "hsct",
+    "stem-cell-transplantation",
+    "tte",
+    "np",
+    "cv-risk",
+    "bp",
+    "ecg"
+  ],
+  "source": {
+    "page": 48
+  },
+  "sections": [
+    {
+      "id": "sec01-hsct",
+      "title": {
+        "en": "Haematopoietic stem cell transplantation (HSCT)",
+        "ru": "Трансплантация гемопоэтических стволовых клеток (ТГСК)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Baseline and serial CV risk assessment (3 and 12 months, then yearly) including BP measurement, ECG, lipid measurement, and HbA1c is recommended in HSCT patients.",
+            "ru": "Исходная и серийная оценка сердечно-сосудистого риска (через 3 и 12 месяцев, затем ежегодно), включая измерение АД, ЭКГ, анализ липидов и уровня HbA1c, рекомендуется пациентам при ТГСК."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Echocardiography is recommended in all patients before HSCT.",
+            "ru": "Эхокардиография рекомендуется всем пациентам перед проведением ТГСК."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Baseline NP measurement should be considered before HSCT.",
+            "ru": "Исходное определение уровня натрийуретических пептидов (NP) следует рассмотреть перед проведением ТГСК."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

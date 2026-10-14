@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt28-acs-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 28",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 28 — Recommendations for the management of acute coronary syndromes in patients receiving anticancer treatment",
+    "ru": "Таблица рекомендаций 28 — Рекомендации по ведению острых коронарных синдромов у пациентов, получающих противоопухолевое лечение"
+  },
+  "tags": [
+    "cardio-oncology",
+    "acs",
+    "stemi",
+    "nste-acs",
+    "pci",
+    "dapt",
+    "thrombocytopenia",
+    "aspirin",
+    "clopidogrel",
+    "prasugrel",
+    "ticagrelor"
+  ],
+  "source": {
+    "page": 63
+  },
+  "sections": [
+    {
+      "id": "sec01-acs-management",
+      "title": {
+        "en": "Acute coronary syndromes management",
+        "ru": "Ведение острых коронарных синдромов"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "An invasive strategy is recommended in patients with cancer presenting with STEMI or high-risk NSTE-ACS with life expectancy ≥6 months.",
+            "ru": "Инвазивная стратегия рекомендуется онкологическим пациентам при развитии ИМпST (STEMI) или ОКСбпST (NSTE-ACS) высокого риска с ожидаемой продолжительностью жизни ≥6 месяцев."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "A conservative non-invasive strategy should be considered in patients with poor cancer prognosis (with life expectancy <6 months) and/or very high bleeding risk presenting with STEMI or NSTE-ACS.",
+            "ru": "Консервативную неинвазивную стратегию следует рассмотреть у пациентов с неблагоприятным онкологическим прогнозом (ожидаемая продолжительность жизни <6 месяцев) и/или очень высоким риском кровотечений при развитии ИМпST или ОКСбпST."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "A temporary interruption of cancer therapy is recommended in patients where the cancer therapy is suspected as a contributing cause.",
+            "ru": "Временное прерывание противоопухолевой терапии рекомендуется у пациентов в случаях, когда терапия рака подозревается в качестве провоцирующей причины ОКС."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "A short DAPT strategy should be considered in patients with cancer with very high bleeding risk treated with PCI for an ACS.",
+            "ru": "Стратегию укороченной ДАТТ (двойной антитромбоцитарной терапии) следует рассмотреть у пациентов с онкологическими заболеваниями с очень высоким риском кровотечений после ЧКВ по поводу ОКС."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients with cancer, thrombocytopaenia, and ACS, aspirin is not recommended if platelets <10 000/μL.",
+            "ru": "У пациентов со злокачественными новообразованиями, тромбоцитопенией и ОКС аспирин противопоказан (не рекомендуется) при уровне тромбоцитов <10 000/мкл."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In patients with cancer, thrombocytopaenia, and ACS, clopidogrel is not recommended if platelets <30 000/μL and prasugrel or ticagrelor are not recommended if platelets <50 000/μL.",
+            "ru": "У онкологических пациентов с тромбоцитопенией и ОКС клопидогрел не рекомендуется при тромбоцитах <30 000/мкл, а прасугрел или тикагрелор не рекомендуются при уровне тромбоцитов <50 000/мкл."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Ticagrelor or prasugrel may be considered in patients with cancer with low bleeding risk and excessive thrombotic risk who are treated with PCI for ACS.",
+            "ru": "Тикагрелор или прасугрел могут рассматриваться у пациентов со злокачественными опухолями с низким риском кровотечений и высоким тромботическим риском, перенесших ЧКВ по поводу ОКС."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

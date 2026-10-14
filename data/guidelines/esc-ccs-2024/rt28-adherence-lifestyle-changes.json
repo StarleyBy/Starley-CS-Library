@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt28-adherence-lifestyle-changes",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 28",
+  "title": {
+    "en": "Recommendations for adherence to medical therapy and lifestyle changes",
+    "ru": "Рекомендации по приверженности к медикаментозной терапии и изменению образа жизни"
+  },
+  "sections": [
+    {
+      "id": "adherence-medical-therapy-lifestyle",
+      "title": {
+        "en": "Adherence to medical therapy and lifestyle changes",
+        "ru": "Приверженность к медикаментозной терапии и модификации образа жизни"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Mobile health interventions (e.g. using text messages, apps, wearable devices) are recommended to improve patient adherence to healthy lifestyles and medical therapy.",
+            "ru": "Вмешательства мобильного здравоохранения (например, текстовые сообщения, приложения, носимые устройства) рекомендуются для повышения приверженности пациентов к здоровому образу жизни и медикаментозной терапии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Behavioural interventions are recommended to improve adherence.",
+            "ru": "Поведенческие вмешательства рекомендуются для повышения приверженности лечению."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Simplifying medication regimens (e.g. using fixed-dose drug combinations) is recommended to increase patient adherence to medications.",
+            "ru": "Упрощение схем приема лекарственных препаратов (например, использование фиксированных комбинаций доз) рекомендуется для повышения приверженности пациентов к фармакотерапии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Multiprofessional and family involvement is recommended to promote adherence, in addition to patient education and involvement.",
+            "ru": "Мультипрофессиональное участие и вовлечение членов семьи рекомендуются для содействия приверженности терапии в дополнение к обучению и вовлечению самого пациента."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.t03-new-recommendations",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Table 3 (New)",
+  "title": {
+    "en": "Table 3 — New recommendations",
+    "ru": "Таблица 3 — Новые рекомендации"
+  },
+  "tags": [
+    "endocarditis",
+    "new-recommendations",
+    "prophylaxis",
+    "imaging",
+    "surgery",
+    "opat",
+    "cied"
+  ],
+  "sections": [
+    {
+      "id": "sec-rt01",
+      "title": {
+        "en": "Section 3. Recommendation Table 1 — Recommendations for antibiotic prophylaxis in patients with cardiovascular diseases undergoing oro-dental procedures at increased risk of infective endocarditis",
+        "ru": "Раздел 3. Таблица рекомендаций 1 — Рекомендации по антибиотикопрофилактике у пациентов с сердечно-сосудистыми заболеваниями при стоматологических процедурах с повышенным риском инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "General prevention measures are recommended in individuals at high and intermediate risk of IE.",
+            "ru": "Общие меры профилактики рекомендуются лицам с высоким и промежуточным риском ИЭ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with ventricular assist devices.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с устройствами вспомогательного кровообращения желудочков (VAD)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Antibiotic prophylaxis may be considered in recipients of heart transplant.",
+            "ru": "Антибиотикопрофилактика может быть рассмотрена у реципиентов трансплантированного сердца."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt02",
+      "title": {
+        "en": "Section 3. Recommendation Table 2 — Recommendations for infective endocarditis prevention in high-risk patients",
+        "ru": "Раздел 3. Таблица рекомендаций 2 — Рекомендации по профилактике инфекционного эндокардита у пациентов высокого риска"
+      },
+      "rows": [
+        {
+          "id": "r04",
+          "text": {
+            "en": "Systemic antibiotic prophylaxis may be considered for high-risk patients undergoing an invasive diagnostic or therapeutic procedure of the respiratory, gastrointestinal, genitourinary tract, skin, or musculoskeletal systems.",
+            "ru": "Системная антибиотикопрофилактика может рассматриваться у пациентов высокого риска при инвазивных диагностических или терапевтических вмешательствах на дыхательных путях, желудочно-кишечном тракте, мочеполовой системе, коже или опорно-двигательном аппарате."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt03",
+      "title": {
+        "en": "Section 3. Recommendation Table 3 — Recommendations for infective endocarditis prevention in cardiac procedures",
+        "ru": "Раздел 3. Таблица рекомендаций 3 — Рекомендации по профилактике инфекционного эндокардита при кардиологических вмешательствах"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Optimal pre-procedural aseptic measures of the site of implantation is recommended to prevent CIED infections.",
+            "ru": "Для профилактики инфекций CIED рекомендуется проведение оптимальных асептических мероприятий в области имплантации перед процедурой."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Surgical standard aseptic measures are recommended during the insertion and manipulation of catheters in the catheterization laboratory environment.",
+            "ru": "При установке катетеров и манипуляциях с ними в условиях рентгенэндоваскулярной операционной рекомендуется соблюдение стандартных хирургических правил асептики."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Antibiotic prophylaxis covering for common skin flora including Enterococcus spp. and S. aureus should be considered before TAVI and other transcatheter valvular procedures.",
+            "ru": "Перед проведением TAVI и других транскатетерных вмешательств на клапанах следует рассмотреть антибиотикопрофилактику с перекрытием типичной кожной микрофлоры, включая Enterococcus spp. и S. aureus."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt05",
+      "title": {
+        "en": "Section 5. Recommendation Table 5 — Recommendations for the role of echocardiography in infective endocarditis",
+        "ru": "Раздел 5. Таблица рекомендаций 5 — Рекомендации по роли эхокардиографии при инфекционном эндокардите"
+      },
+      "rows": [
+        {
+          "id": "r08",
+          "text": {
+            "en": "TOE is recommended when the patient is stable before switching from intravenous to oral antibiotic therapy.",
+            "ru": "Чреспищеводная эхокардиография рекомендуется у стабильных пациентов перед переводом с внутривенной на пероральную антибактериальную терапию."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt06",
+      "title": {
+        "en": "Section 5. Recommendation Table 6 — Recommendations for the role of computed tomography, nuclear imaging, and magnetic resonance in infective endocarditis",
+        "ru": "Раздел 5. Таблица рекомендаций 6 — Рекомендации по роли компьютерной томографии, радионуклидной визуализации и магнитно-резонансной томографии при инфекционном эндокардите"
+      },
+      "rows": [
+        {
+          "id": "r09",
+          "text": {
+            "en": "Cardiac CTA is recommended in patients with possible NVE to detect valvular lesions and confirm the diagnosis of IE.",
+            "ru": "КТ-ангиография сердца рекомендуется пациентам с возможным ИЭ нативного клапана для выявления клапанных поражений и подтверждения диагноза ИЭ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "[18F]FDG-PET/CT(A) and cardiac CTA are recommended in possible PVE to detect valvular lesions and confirm the diagnosis of IE.",
+            "ru": "[18F]ФДГ-ПЭТ/КТ(А) и КТ-ангиография сердца рекомендуются при возможном ИЭ протезированного клапана для выявления клапанных поражений и подтверждения диагноза ИЭ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "[18F]FDG-PET/CT(A) may be considered in possible CIED-related IE to confirm the diagnosis of IE.",
+            "ru": "[18F]ФДГ-ПЭТ/КТ(А) может быть рассмотрена при возможном ИЭ, ассоциированном с CIED, для подтверждения диагноза ИЭ."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "Cardiac CTA is recommended in NVE and PVE to diagnose paravalvular or periprosthetic complications if echocardiography is inconclusive.",
+            "ru": "КТ-ангиография сердца рекомендуется при ИЭ нативного и протезированного клапанов для диагностики параклапанных или перипротезных осложнений, если данные эхокардиографии неубедительны."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "Brain and whole-body imaging (CT, [18F]FDG-PET/CT, and/or MRI) are recommended in symptomatic patients with NVE and PVE to detect peripheral lesions or add minor diagnostic criteria.",
+            "ru": "Визуализация головного мозга и всего тела (КТ, [18F]ФДГ-ПЭТ/КТ и/или МРТ) рекомендуется симптомным пациентам с ИЭ нативного и протезированного клапанов для выявления периферических поражений или добавления малых диагностических критериев."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "WBC SPECT/CT should be considered in patients with high clinical suspicion of PVE when echocardiography is negative or inconclusive and when PET/CT is unavailable.",
+            "ru": "ОФЭКТ/КТ с мечеными лейкоцитами следует рассмотреть у пациентов с высоким клиническим подозрением на ИЭ протезированного клапана при отрицательных или сомнительных результатах ЭхоКГ и недоступности ПЭТ/КТ."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "Brain and whole-body imaging (CT, [18F]FDG-PET/CT, and MRI) in NVE and PVE may be considered for screening of peripheral lesions in asymptomatic patients.",
+            "ru": "Визуализация головного мозга и всего тела (КТ, [18F]ФДГ-ПЭТ/КТ и МРТ) при ИЭ нативного и протезированного клапанов может рассматриваться для скрининга периферических эмболических поражений у бессимптомных пациентов."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt11",
+      "title": {
+        "en": "Section 7. Recommendation Table 11 — Recommendations for outpatient antibiotic treatment of infective endocarditis",
+        "ru": "Раздел 7. Таблица рекомендаций 11 — Рекомендации по амбулаторной антибактериальной терапии инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r16",
+          "text": {
+            "en": "Outpatient parenteral antibiotic treatment should be considered in patients with left-sided IE caused by Streptococcus spp., E. faecalis, S. aureus, or CoNS who were receiving appropriate i.v. antibiotic treatment for at least 10 days (or at least 7 days after cardiac surgery), are clinically stable, and who do not show signs of abscess formation or valve abnormalities requiring surgery on TOE.",
+            "ru": "Амбулаторную парентеральную антибиотикотерапию следует рассмотреть у пациентов с левосторонним ИЭ, вызванным Streptococcus spp., E. faecalis, S. aureus или коагулазонегативными стафилококками, получавших адекватную в/в терапию не менее 10 дней (или не менее 7 дней после кардиохирургического вмешательства), клинически стабильных и не имеющих по данным ЧПЭхоКГ признаков абсцедирования или клапанных нарушений, требующих операции."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r17",
+          "text": {
+            "en": "Outpatient parenteral antibiotic treatment is not recommended in patients with IE caused by highly difficult-to-treat microorganisms, liver cirrhosis (Child–Pugh B or C), severe cerebral nervous system emboli, untreated large extracardiac abscesses, heart valve complications, or other severe conditions requiring surgery, severe post-surgical complications, and in PWID-related IE.",
+            "ru": "Амбулаторная парентеральная антибиотикотерапия не рекомендуется при ИЭ, вызванном трудноизлечимыми микроорганизмами, при циррозе печени (класс B или C по Чайлд-Пью), тяжелых эмболиях в ЦНС, недренированных крупных экстракардиальных абсцессах, клапанных осложнениях или других тяжелых состояниях, требующих хирургического вмешательства, тяжелых послеоперационных осложнениях, а также при ИЭ, ассоциированном с инъекционным употреблением наркотиков."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt13",
+      "title": {
+        "en": "Section 9. Recommendation Table 13 — Recommendations for the treatment of neurological complications of infective endocarditis",
+        "ru": "Раздел 9. Таблица рекомендаций 13 — Рекомендации по лечению неврологических осложнений инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r18",
+          "text": {
+            "en": "In embolic stroke, mechanical thrombectomy may be considered if the expertise is available in a timely manner.",
+            "ru": "При эмболическом инсульте может быть рассмотрена механическая тромбэктомия при наличии своевременного доступа к экспертной помощи."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r19",
+          "text": {
+            "en": "Thrombolytic therapy is not recommended in embolic stroke due to IE.",
+            "ru": "Тромболитическая терапия не рекомендуется при эмболическом инсульте вследствие ИЭ."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt14",
+      "title": {
+        "en": "Section 9. Recommendation Table 14 — Recommendations for pacemaker implantation in patients with complete atrioventricular block and infective endocarditis",
+        "ru": "Раздел 9. Таблица рекомендаций 14 — Рекомендации по имплантации электрокардиостимулятора у пациентов с полной атриовентрикулярной блокадой и инфекционным эндокардитом"
+      },
+      "rows": [
+        {
+          "id": "r20",
+          "text": {
+            "en": "Immediate epicardial pacemaker implantation should be considered in patients undergoing surgery for valvular IE and complete AVB if one of the following predictors of persistent AVB is present: pre-operative conduction abnormality, S. aureus infection, aortic root abscess, tricuspid valve involvement, or previous valvular surgery.",
+            "ru": "Немедленную имплантацию эпикардиального электрокардиостимулятора следует рассмотреть у пациентов, оперируемых по поводу клапанного ИЭ и полной АВ-блокады, при наличии хотя бы одного из следующих предикторов стойкой АВ-блокады: предоперационные нарушения проводимости, инфекция S. aureus, абсцесс корня аорты, поражение трехстворчатого клапана или предшествующая операция на клапанах."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt15",
+      "title": {
+        "en": "Section 9. Recommendation Table 15 — Recommendations for patients with musculoskeletal manifestations of infective endocarditis",
+        "ru": "Раздел 9. Таблица рекомендаций 15 — Рекомендации для пациентов с мышечно-скелетными проявлениями инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r21",
+          "text": {
+            "en": "MRI or PET/CT is recommended in patients with suspected spondylodiscitis and vertebral osteomyelitis complicating IE.",
+            "ru": "МРТ или ПЭТ/КТ рекомендуется пациентам с подозрением на спондилодисцит и остеомиелит позвоночника, осложняющие течение ИЭ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r22",
+          "text": {
+            "en": "TTE/TOE is recommended to rule out IE in patients with spondylodiscitis and/or septic arthritis with positive blood cultures for typical IE microorganisms.",
+            "ru": "ТТЭхоКГ/ЧПЭхоКГ рекомендуется для исключения ИЭ у пациентов со спондилодисцитом и/или септическим артритом при положительном посеве крови на типичные для ИЭ микроорганизмы."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r23",
+          "text": {
+            "en": "More than 6-week antibiotic therapy should be considered in patients with osteoarticular IE-related lesions caused by difficult-to-treat microorganisms, such as S. aureus or Candida spp., and/or complicated with severe vertebral destruction or abscesses.",
+            "ru": "Антибактериальную терапию продолжительностью более 6 недель следует рассмотреть у пациентов с костно-суставными поражениями, ассоциированными с ИЭ, вызванными трудноизлечимыми микроорганизмами (такими как S. aureus или Candida spp.) и/или осложненными выраженной деструкцией позвонков либо абсцессами."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt16",
+      "title": {
+        "en": "Section 10. Recommendation Table 16 — Recommendations for pre-operative coronary anatomy assessment in patients requiring surgery for infective endocarditis",
+        "ru": "Раздел 10. Таблица рекомендаций 16 — Рекомендации по предоперационной оценке анатомии коронарных артерий у пациентов, нуждающихся в хирургическом лечении инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r24",
+          "text": {
+            "en": "In haemodynamically stable patients with aortic valve vegetations who require cardiac surgery and are high risk of CAD, a high-resolution multislice coronary CTA is recommended.",
+            "ru": "У гемодинамически стабильных пациентов с вегетациями на аортальном клапане, нуждающихся в кардиохирургическом вмешательстве и имеющих высокий риск ИБС, рекомендуется проведение высокоразрешающей мультиспиральной КТ-коронарографии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r25",
+          "text": {
+            "en": "Invasive coronary angiography is recommended in patients requiring heart surgery who are high risk of CAD, in the absence of aortic valve vegetations.",
+            "ru": "Инвазивная коронароангиография рекомендуется пациентам, нуждающимся в операции на сердце и имеющим высокий риск ИБС, при отсутствии вегетаций на аортальном клапане."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r26",
+          "text": {
+            "en": "In emergency situations, valvular surgery without pre-operative coronary anatomy assessment regardless of CAD risk should be considered.",
+            "ru": "В экстренных ситуациях следует рассмотреть выполнение операции на клапанах без предоперационной оценки коронарной анатомии независимо от риска ИБС."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r27",
+          "text": {
+            "en": "Invasive coronary angiography may be considered despite the presence of aortic valve vegetations in selected patients with known CAD or at high risk of significant obstructive CAD.",
+            "ru": "Инвазивная коронароангиография может быть рассмотрена, несмотря на наличие вегетаций на аортальном клапане, у отдельных пациентов с известной ИБС или высоким риском гемодинамически значимой обструктивной ИБС."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt17",
+      "title": {
+        "en": "Section 10. Recommendation Table 17 — Indications and timing of cardiac surgery after neurological complications in active infective endocarditis",
+        "ru": "Раздел 10. Таблица рекомендаций 17 — Показания и сроки кардиохирургического вмешательства после неврологических осложнений при активном инфекционном эндокардите"
+      },
+      "rows": [
+        {
+          "id": "r28",
+          "text": {
+            "en": "In patients with intracranial haemorrhage and unstable clinical status due to HF, uncontrolled infection, or persistent high embolic risk, urgent or emergency surgery should be considered weighing the likelihood of a meaningful neurological outcome.",
+            "ru": "У пациентов с внутричерепным кровоизлиянием и нестабильным клиническим состоянием вследствие СН, неконтролируемой инфекции или персистирующего высокого эмболического риска следует рассмотреть неотложное или экстренное хирургическое вмешательство, сопоставляя его с вероятностью благоприятного неврологического исхода."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt18",
+      "title": {
+        "en": "Section 11. Recommendation Table 18 — Recommendations for post-discharge follow-up",
+        "ru": "Раздел 11. Таблица рекомендаций 18 — Рекомендации по наблюдению после выписки из стационара"
+      },
+      "rows": [
+        {
+          "id": "r29",
+          "text": {
+            "en": "Patient education on the risk of recurrence and preventive measures, with emphasis on dental health, and based on the individual risk profile, is recommended during follow-up.",
+            "ru": "Обучение пациента относительно риска рецидива и профилактических мер (с особым акцентом на санацию полости рта и с учетом индивидуального профиля риска) рекомендуется в процессе последующего наблюдения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r30",
+          "text": {
+            "en": "Addiction treatment for patients following PWID-related IE is recommended.",
+            "ru": "Лечение наркотической зависимости рекомендуется пациентам, перенесшим ИЭ, ассоциированный с инъекционным употреблением наркотиков."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r31",
+          "text": {
+            "en": "Cardiac rehabilitation including physical exercise training should be considered in clinically stable patients based on an individual assessment.",
+            "ru": "Кардиореабилитацию, включающую физические тренировки, следует рассмотреть у клинически стабильных пациентов на основе индивидуальной оценки."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r32",
+          "text": {
+            "en": "Psychosocial support may be considered to be integrated in follow-up care, including screening for anxiety and depression, and referral to relevant psychological treatment.",
+            "ru": "Психосоциальная поддержка может быть интегрирована в план последующего наблюдения, включая скрининг тревоги и депрессии и направление к профильным специалистам для психологической помощи."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt19",
+      "title": {
+        "en": "Section 12. Recommendation Table 19 — Recommendations for prosthetic valve endocarditis",
+        "ru": "Раздел 12. Таблица рекомендаций 19 — Рекомендации при инфекционном эндокардите протезированного клапана"
+      },
+      "rows": [
+        {
+          "id": "r33",
+          "text": {
+            "en": "Surgery is recommended for early PVE (within 6 months of valve surgery) with new valve replacement and complete debridement.",
+            "ru": "Хирургическое вмешательство рекомендуется при раннем ИЭ протезированного клапана (в течение 6 месяцев после операции на клапане) с повторным протезированием и полной хирургической обработкой (санацией)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt20",
+      "title": {
+        "en": "Section 12. Recommendation Table 20 — Recommendations for cardiovascular implanted electronic device-related infective endocarditis",
+        "ru": "Раздел 12. Таблица рекомендаций 20 — Рекомендации при инфекционном эндокардите, ассоциированном с имплантируемыми электронными сердечно-сосудистыми устройствами (CIED)"
+      },
+      "rows": [
+        {
+          "id": "r34",
+          "text": {
+            "en": "Complete system extraction without delay is recommended in patients with definite CIED-related IE under initial empirical antibiotic therapy.",
+            "ru": "Полное и безотлагательное удаление всей системы рекомендуется пациентам с определенным ИЭ, ассоциированным с CIED, на фоне стартовой эмпирической антибактериальной терапии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r35",
+          "text": {
+            "en": "Extension of antibiotic treatment of CIED-related endocarditis to (4–)6 weeks following device extraction should be considered in the presence of septic emboli or prosthetic valves.",
+            "ru": "Продление антибактериальной терапии при эндокардите, связанном с CIED, до (4–)6 недель после удаления устройства следует рассмотреть при наличии септических эмболов или протезированных клапанов."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r36",
+          "text": {
+            "en": "Use of an antibiotic envelope may be considered in select high-risk patients undergoing CIED reimplantation to reduce risk of infection.",
+            "ru": "Использование антибактериального конверта может рассматриваться у отдельных пациентов высокого риска при реимплантации CIED для снижения риска инфекции."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r37",
+          "text": {
+            "en": "In non-S. aureus CIED-related endocarditis without valve involvement or lead vegetations, and if follow-up blood cultures are negative without septic emboli, 2 weeks of antibiotic treatment may be considered following device extraction.",
+            "ru": "При CIED-ассоциированном эндокардите нестафилококковой (non-S. aureus) этиологии без поражения клапанов и вегетаций на электродах, а также при отрицательных контрольных посевах крови и отсутствии септических эмболов, после удаления устройства может быть рассмотрен 2-недельный курс антибактериальной терапии."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r38",
+          "text": {
+            "en": "Removal of CIED after a single positive blood culture, with no other clinical evidence of infection, is not recommended.",
+            "ru": "Удаление CIED при однократном положительном посеве крови без каких-либо других клинических признаков инфекции не рекомендуется."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt21",
+      "title": {
+        "en": "Section 12. Recommendation Table 21 — Recommendations for the surgical treatment of right-sided infective endocarditis",
+        "ru": "Раздел 12. Таблица рекомендаций 21 — Рекомендации по хирургическому лечению правостороннего инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r39",
+          "text": {
+            "en": "Tricuspid valve repair should be considered instead of valve replacement, when possible.",
+            "ru": "Пластику трехстворчатого клапана следует предпочесть его протезированию, когда это возможно."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r40",
+          "text": {
+            "en": "Surgery should be considered in patients with right-sided IE who are receiving appropriate antibiotic therapy and present persistent bacteraemia/sepsis after at least 1 week of appropriate antibiotic therapy.",
+            "ru": "Хирургическое вмешательство следует рассмотреть у пациентов с правосторонним ИЭ, получающих адекватную антибактериальную терапию, при персистирующей бактериемии/сепсисе после как минимум 1 недели адекватной антибиотикотерапии."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r41",
+          "text": {
+            "en": "Prophylactic placement of an epicardial pacing lead should be considered at the time of tricuspid valve surgical procedures.",
+            "ru": "Профилактическую установку эпикардиального электрода стимуляции следует рассмотреть во время хирургических вмешательств на трехстворчатом клапане."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r42",
+          "text": {
+            "en": "Debulking of right intra-atrial septic masses by aspiration may be considered in select patients who are high risk of surgery.",
+            "ru": "Дебулкинг септических масс в правом предсердии методом аспирации может быть рассмотрен у отдельных пациентов с высоким хирургическим риском."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

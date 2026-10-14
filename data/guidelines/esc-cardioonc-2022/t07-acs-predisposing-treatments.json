@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.t07-acs-predisposing-treatments",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Table 7",
+  "type": "grid",
+  "title": {
+    "en": "Table 7 — Cancer treatments that predispose to acute coronary syndromes",
+    "ru": "Таблица 7 — Противоопухолевое лечение, предрасполагающее к развитию острых коронарных синдромов"
+  },
+  "tags": [
+    "cardio-oncology",
+    "acs",
+    "atherosclerosis",
+    "vasospasm",
+    "coronary-thrombosis",
+    "fluoropyrimidines",
+    "cisplatin",
+    "vegfi"
+  ],
+  "source": {
+    "page": 60
+  },
+  "columns": [
+    {
+      "id": "c_mechanism",
+      "title": {
+        "en": "Mechanism",
+        "ru": "Механизм"
+      }
+    },
+    {
+      "id": "c_treatments",
+      "title": {
+        "en": "Cancer treatments",
+        "ru": "Противоопухолевые препараты и методы"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01",
+      "cells": [
+        {
+          "text": {
+            "en": "Accelerated atherosclerosis and plaque rupture",
+            "ru": "Ускоренный атеросклероз и разрыв бляшки"
+          }
+        },
+        {
+          "text": {
+            "en": "ADT (GnRH agonists), ICI, nilotinib, ponatinib, radiation therapy, VEGFi",
+            "ru": "АДТ (агонисты ГнРГ), ICI, нилотиниб, понатиниб, лучевая терапия, VEGFi"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02",
+      "cells": [
+        {
+          "text": {
+            "en": "Vasospasm",
+            "ru": "Вазоспазм"
+          }
+        },
+        {
+          "text": {
+            "en": "Bleomycin, fluoropyrimidines, taxanes, VEGFi, vinca alkaloids",
+            "ru": "Блеомицин, фторпиримидины, таксаны, VEGFi, алкалоиды барвинка (винкаалкалоиды)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03",
+      "cells": [
+        {
+          "text": {
+            "en": "Coronary thrombosis",
+            "ru": "Коронарный тромбоз"
+          }
+        },
+        {
+          "text": {
+            "en": "Alkylating agents (cisplatin, cyclophosphamide), erlotinib, ICI, IMiD (lenalidomide, thalidomide), monoclonal antibodies (VEGFi, anti-CD20), nilotinib, platinum chemotherapy, PI, ponatinib, VEGFi",
+            "ru": "Алкилирующие агенты (цисплатин, циклофосфамид), эрлотиниб, ICI, иммуномодуляторы IMiD (леналидомид, талидомид), моноклональные антитела (VEGFi, анти-CD20), нилотиниб, препараты платины, ИП (ингибиторы протеасом), понатиниб, VEGFi"
+          }
+        }
+      ]
+    }
+  ]
+}

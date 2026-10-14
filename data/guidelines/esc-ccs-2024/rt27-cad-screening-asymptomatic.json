@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt27-cad-screening-asymptomatic",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 27",
+  "title": {
+    "en": "Recommendations for screening for coronary artery disease in asymptomatic individuals",
+    "ru": "Рекомендации по скринингу ишемической болезни сердца у бессимптомных лиц"
+  },
+  "sections": [
+    {
+      "id": "cad-screening-asymptomatic",
+      "title": {
+        "en": "Screening for CAD in asymptomatic individuals",
+        "ru": "Скрининг ИБС у бессимптомных лиц"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Opportunistic screening of healthy individuals for cardiovascular risk factors and to estimate the risk of future cardiovascular events using scoring systems, e.g. SCORE2 and SCORE-OP, is recommended to detect individuals at high risk and guide treatment decisions.",
+            "ru": "Оппортунистический скрининг практически здоровых лиц на наличие сердечно-сосудистых факторов риска и для оценки риска будущих сердечно-сосудистых событий с помощью прогностических шкал (например, SCORE2 и SCORE-OP) рекомендуется для выявления лиц высокого риска и определения тактики лечения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "When coronary artery calcification findings are available from previous chest CT scans, using these findings to enhance risk stratification and guide treatment of modifiable risk factors should be considered.",
+            "ru": "При наличии данных о кальцинозе коронарных артерий по результатам ранее выполненных КТ органов грудной клетки следует рассмотреть использование этих данных для уточнения стратификации риска и коррекции модифицируемых факторов риска."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "CACS may be considered to improve risk classification around treatment decision thresholds.",
+            "ru": "Определение индекса кальциноза коронарных артерий (CACS) может быть рассмотрено для улучшения классификации риска вблизи пороговых значений принятия терапевтических решений."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "An ultrasound of the carotid arteries may be considered as an alternative when CACS is unavailable or not feasible to detect atherosclerotic disease and to improve risk classification around treatment decision thresholds.",
+            "ru": "Ультразвуковое исследование сонных артерий может рассматриваться в качестве альтернативы при недоступности или невозможности определения CACS для выявления атеросклеротического поражения и улучшения классификации риска вблизи пороговых значений принятия терапевтических решений."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

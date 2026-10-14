@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022",
+  "society": "ESC/EHA/ESTRO/IC-OS",
+  "year": 2022,
+  "title": {
+    "en": "2022 ESC Guidelines on cardio-oncology developed in collaboration with the European Hematology Association (EHA), the European Society for Therapeutic Radiology and Oncology (ESTRO) and the International Cardio-Oncology Society (IC-OS)",
+    "ru": "Рекомендации ESC 2022 по кардиоонкологии, разработанные в сотрудничестве с EHA, ESTRO и IC-OS"
+  },
+  "shortTitle": {
+    "en": "ESC Cardio-Oncology 2022",
+    "ru": "ESC Кардиоонкология 2022"
+  },
+  "citation": "Eur Heart J. 2022;43(41):4229–4361",
+  "legend": "esc-2023",
+  "abbreviations": {
+    "ACS": { "en": "acute coronary syndromes", "ru": "острый коронарный синдром" },
+    "AF": { "en": "atrial fibrillation", "ru": "фибрилляция предсердий" },
+    "BNP": { "en": "B-type natriuretic peptide", "ru": "мозговой натрийуретический пептид" },
+    "CAD": { "en": "coronary artery disease", "ru": "ишемическая болезнь сердца" },
+    "CCS": { "en": "chronic coronary syndromes", "ru": "хронический коронарный синдром" },
+    "CMR": { "en": "cardiac magnetic resonance", "ru": "магнитно-резонансная томография сердца" },
+    "cTn": { "en": "cardiac troponin", "ru": "сердечный тропонин" },
+    "CTRCD": { "en": "cancer therapy-related cardiac dysfunction", "ru": "кардиоваскулярная токсичность / дисфункция миокарда, связанная с противоопухолевой терапией" },
+    "CV": { "en": "cardiovascular", "ru": "сердечно-сосудистый" },
+    "CVD": { "en": "cardiovascular disease", "ru": "сердечно-сосудистые заболевания" },
+    "CVRF": { "en": "cardiovascular risk factors", "ru": "факторы сердечно-сосудистого риска" },
+    "DM": { "en": "diabetes mellitus", "ru": "сахарный диабет" },
+    "DVT": { "en": "deep vein thrombosis", "ru": "тромбоз глубоких вен" },
+    "ECV": { "en": "extracellular volume fraction", "ru": "фракция внеклеточного объема" },
+    "EMB": { "en": "endomyocardial biopsy", "ru": "эндомиокардиальная биопсия" },
+    "GLS": { "en": "global longitudinal strain", "ru": "глобальная продольная деформация" },
+    "HF": { "en": "heart failure", "ru": "сердечная недостаточность" },
+    "HFmrEF": { "en": "heart failure with mildly reduced ejection fraction", "ru": "сердечная недостаточность с умеренно сниженной фракцией выброса" },
+    "HFpEF": { "en": "heart failure with preserved ejection fraction", "ru": "сердечная недостаточность с сохраненной фракцией выброса" },
+    "HFrEF": { "en": "heart failure with reduced ejection fraction", "ru": "сердечная недостаточность со сниженной фракцией выброса" },
+    "ICI": { "en": "immune checkpoint inhibitors", "ru": "ингибиторы иммунных контрольных точек" },
+    "IMiD": { "en": "immunomodulatory drugs", "ru": "иммуномодулирующие препараты" },
+    "LGE": { "en": "late gadolinium enhancement", "ru": "отсроченное контрастирование гадолинием" },
+    "LV": { "en": "left ventricular", "ru": "левый желудочек" },
+    "LVEF": { "en": "left ventricular ejection fraction", "ru": "фракция выброса левого желудочка" },
+    "MI": { "en": "myocardial infarction", "ru": "инфаркт миокарда" },
+    "NP": { "en": "natriuretic peptides", "ru": "натрийуретические пептиды" },
+    "NT-proBNP": { "en": "N-terminal pro-B-type natriuretic peptide", "ru": "N-концевой предшественник мозгового натрийуретического пептида" },
+    "PAD": { "en": "peripheral artery disease", "ru": "заболевания периферических артерий" },
+    "PE": { "en": "pulmonary embolism", "ru": "тромбоэмболия легочной артерии" },
+    "PI": { "en": "proteasome inhibitors", "ru": "ингибиторы протеасом" },
+    "QTcF": { "en": "corrected QT interval using Fridericia correction", "ru": "корригированный интервал QT по формуле Фридеричи" },
+    "TKI": { "en": "tyrosine kinase inhibitors", "ru": "ингибиторы тирозинкиназ" },
+    "VEGFi": { "en": "vascular endothelial growth factor inhibitors", "ru": "ингибиторы фактора роста эндотелия сосудов (VEGF)" },
+    "VHD": { "en": "valvular heart disease", "ru": "клапанная болезнь сердца" }
+  }
+}

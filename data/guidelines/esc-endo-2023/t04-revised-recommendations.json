@@ -1,0 +1,550 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.t04-revised-recommendations",
+  "guidelineId": "esc-endo-2023",
+  "number": "Table 4 (Revised)",
+  "type": "grid",
+  "title": {
+    "en": "Table 4 — Revised recommendations",
+    "ru": "Таблица 4 — Пересмотренные рекомендации"
+  },
+  "tags": [
+    "endocarditis",
+    "revised",
+    "comparison",
+    "prophylaxis",
+    "echocardiography",
+    "surgery",
+    "cied",
+    "neurological"
+  ],
+  "columns": [
+    {
+      "id": "c_prev_text",
+      "title": {
+        "en": "Recommendations in 2015 version",
+        "ru": "Рекомендации в версии 2015 г."
+      }
+    },
+    {
+      "id": "c_prev_cls",
+      "title": {
+        "en": "Class",
+        "ru": "Класс"
+      }
+    },
+    {
+      "id": "c_prev_lvl",
+      "title": {
+        "en": "Level",
+        "ru": "Уровень"
+      }
+    },
+    {
+      "id": "c_curr_text",
+      "title": {
+        "en": "Recommendations in 2023 version",
+        "ru": "Рекомендации в версии 2023 г."
+      }
+    },
+    {
+      "id": "c_curr_cls",
+      "title": {
+        "en": "Class",
+        "ru": "Класс"
+      }
+    },
+    {
+      "id": "c_curr_lvl",
+      "title": {
+        "en": "Level",
+        "ru": "Уровень"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-prophylaxis-previous-ie",
+      "cells": [
+        {
+          "text": {
+            "en": "Antibiotic prophylaxis should be considered for patients at highest risk of IE: (1) Patients with any prosthetic valve, including a transcatheter valve, or those in whom any prosthetic material was used for cardiac valve repair; (2) Patients with a previous episode of IE; (3) Patients with CHD: (a) Any type of cyanotic CHD, (b) Any type of CHD repaired with a prosthetic material, whether placed surgically or by percutaneous techniques, up to 6 months after the procedure or lifelong if residual shunt.",
+            "ru": "Антибиотикопрофилактику следует рассматривать у пациентов наивысшего риска ИЭ: (1) Пациенты с любым клапанным протезом, включая транскатетерный, или у которых использован любой протезный материал для пластики клапана сердца; (2) Пациенты с предшествующим эпизодом ИЭ; (3) Пациенты с ВПС: (а) любой цианотический ВПС, (б) любой ВПС, оперированный с применением синтетических материалов хирургически или эндоваскулярно, до 6 месяцев после процедуры или пожизненно при резидуальном шунте."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with previous IE.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с предшествующим инфекционным эндокардитом в анамнезе."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r02-prophylaxis-surgical-valves",
+      "cells": [
+        {
+          "text": {
+            "en": "Antibiotic prophylaxis should be considered for patients at highest risk of IE: Patients with any prosthetic valve, including a transcatheter valve, or those in whom any prosthetic material was used for cardiac valve repair.",
+            "ru": "Антибиотикопрофилактику следует рассматривать у пациентов наивысшего риска ИЭ: пациенты с любым клапанным протезом, включая транскатетерный, или перенесшие пластику клапана сердца с использованием синтетического материала."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with surgically implanted prosthetic valves and with any material used for surgical cardiac valve repair.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с хирургически имплантированными протезами клапанов сердца и с любыми материалами, использованными для хирургической пластики клапанов сердца."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r03-prophylaxis-transcatheter-aortic-pulmonary",
+      "cells": [
+        {
+          "text": {
+            "en": "Antibiotic prophylaxis should be considered for patients at highest risk of IE: Patients with any prosthetic valve, including a transcatheter valve.",
+            "ru": "Антибиотикопрофилактику следует рассматривать у пациентов наивысшего риска ИЭ: пациенты с любым клапанным протезом, включая транскатетерный."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with transcatheter implanted aortic and pulmonary valvular prostheses.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с транскатетерно имплантированными протезами аортального и легочного клапанов."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r04-prophylaxis-transcatheter-mitral-tricuspid",
+      "cells": [
+        {
+          "text": {
+            "en": "Antibiotic prophylaxis should be considered for patients with any prosthetic valve, including a transcatheter valve, or those in whom any prosthetic material was used for cardiac valve repair.",
+            "ru": "Антибиотикопрофилактику следует рассматривать у пациентов с любым клапанным протезом, включая транскатетерный, или перенесших пластику клапана с использованием любых синтетических материалов."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "Antibiotic prophylaxis should be considered in patients with transcatheter mitral and tricuspid valve repair.",
+            "ru": "Следует рассмотреть возможность проведения антибиотикопрофилактики у пациентов с транскатетерной пластикой митрального и трехстворчатого клапанов."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r05-prophylaxis-chd",
+      "cells": [
+        {
+          "text": {
+            "en": "Antibiotic prophylaxis should be considered for patients with CHD: (a) Any type of cyanotic CHD, (b) Any type of CHD repaired with a prosthetic material, whether placed surgically or by percutaneous techniques, up to 6 months after the procedure or lifelong if residual shunt.",
+            "ru": "Антибиотикопрофилактику следует рассматривать у пациентов с ВПС: (а) любой тип цианотического ВПС, (б) любой тип ВПС, оперированный с применением синтетических материалов хирургически или чрескожно, на срок до 6 месяцев после процедуры или пожизненно при резидуальном шунте."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with untreated cyanotic CHD, and patients treated with surgery or transcatheter procedures with post-operative palliative shunts, conduits, or other prostheses. After surgical repair, in the absence of residual defects or valve prostheses, antibiotic prophylaxis is recommended only for the first 6 months after the procedure.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с нелеченным цианотическим ВПС, а также пациентам, перенесшим хирургические или транскатетерные вмешательства с формированием послеоперационных паллиативных шунтов, кондуитов или установкой иных протезов. После хирургической коррекции в отсутствие резидуальных дефектов или клапанных протезов антибиотикопрофилактика рекомендуется только в первые 6 месяцев после вмешательства."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r06-endocarditis-team-reference-centre",
+      "cells": [
+        {
+          "text": {
+            "en": "Patients with complicated IE should be evaluated and managed at an early stage in a reference centre, with immediate surgical facilities and the presence of a multidisciplinary 'Endocarditis Team', including an infectious disease specialist, a microbiologist, a cardiologist, imaging specialists, a cardiac surgeon and, if needed, a specialist in CHD.",
+            "ru": "Пациенты с осложненным ИЭ должны быть своевременно обследованы и направлены на раннем этапе в референс-центр с возможностью немедленного хирургического вмешательства и наличием мультидисциплинарной «Команды по эндокардиту», включающей инфекциониста, микробиолога, кардиолога, специалистов по визуализации, кардиохирурга и, при необходимости, специалиста по ВПС."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "B", "ru": "B" } },
+        {
+          "text": {
+            "en": "Diagnosis and management of patients with complicated IE are recommended to be performed at an early stage in a Heart Valve Centre, with immediate surgical facilities and an 'Endocarditis Team' to improve the outcomes.",
+            "ru": "Диагностику и лечение пациентов с осложненным ИЭ рекомендуется проводить на раннем этапе в Клапанном центре сердца с возможностью немедленного хирургического лечения и функционирующей «Командой по эндокардиту» для улучшения исходов."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r07-endocarditis-team-non-reference",
+      "cells": [
+        {
+          "text": {
+            "en": "For patients with uncomplicated IE managed in a non-reference centre, early and regular communication with the reference centre and, when needed, visits to the reference centre should be made.",
+            "ru": "У пациентов с неосложненным ИЭ, находящихся на лечении в нереференсном центре, следует обеспечить раннее и регулярное взаимодействие с референс-центром и при необходимости консультативные визиты в референс-центр."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "B", "ru": "B" } },
+        {
+          "text": {
+            "en": "For patients with uncomplicated IE managed in a Referring Centre, early and regular communication between the local and the Heart Valve Centre Endocarditis Teams is recommended to improve the outcomes of the patients.",
+            "ru": "У пациентов с неосложненным ИЭ, находящихся на лечении в направляющем центре, рекомендуется раннее и регулярное взаимодействие между локальной командой и «Командой по эндокардиту» Клапанного центра сердца для улучшения исходов."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r08-toe-indication",
+      "cells": [
+        {
+          "text": {
+            "en": "TOE should be considered in patients with suspected IE, even in cases with positive TTE, except in isolated right-sided native valve IE with good quality TTE examination and unequivocal echocardiographic finding.",
+            "ru": "Чреспищеводную ЭхоКГ следует рассматривать у пациентов с подозрением на ИЭ, даже при положительной ТТЭхоКГ, за исключением изолированного правостороннего ИЭ нативного клапана при высоком качестве ТТЭхоКГ-исследования и однозначных эхокардиографических данных."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "TOE is recommended in patients with suspected IE, even in cases with positive TTE, except in isolated right-sided native valve IE with good quality TTE examination and unequivocal echocardiographic findings.",
+            "ru": "Чреспищеводная ЭхоКГ рекомендуется пациентам с подозрением на ИЭ, даже при положительной ТТЭхоКГ, за исключением изолированного правостороннего ИЭ нативного клапана при высоком качестве ТТЭхоКГ и однозначных эхокардиографических находках."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r09-surgery-vegetation-10mm",
+      "cells": [
+        {
+          "text": {
+            "en": "Aortic or mitral NVE with vegetations >10 mm, associated with severe valve stenosis or regurgitation, and low operative risk (urgent surgery should be considered).",
+            "ru": "ИЭ аортального или митрального нативного клапана с вегетациями >10 мм в сочетании с тяжелым клапанным стенозом или регургитацией и низким операционным риском (следует рассмотреть неотложное хирургическое лечение)."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "B", "ru": "B" } },
+        {
+          "text": {
+            "en": "Urgent surgery is recommended in IE with vegetation ≥10 mm and other indications for surgery.",
+            "ru": "Неотложное хирургическое вмешательство рекомендуется при ИЭ с размером вегетаций ≥10 мм при наличии других показаний к операции."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r10-surgery-isolated-vegetation",
+      "cells": [
+        {
+          "text": {
+            "en": "Aortic or mitral NVE or PVE with isolated large vegetations (>15 mm) and no other indication for surgery (urgent surgery may be considered).",
+            "ru": "ИЭ аортального или митрального нативного или протезированного клапана с изолированными крупными вегетациями (>15 мм) без других показаний к операции (может рассматриваться неотложное хирургическое лечение)."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "Urgent surgery may be considered in aortic or mitral IE with vegetation ≥10 mm and without severe valve dysfunction or without clinical evidence of embolism and low surgical risk.",
+            "ru": "Неотложное хирургическое вмешательство может рассматриваться при аортальном или митральном ИЭ с размером вегетации ≥10 мм без тяжелой дисфункции клапана или без клинических признаков эмболии при низком хирургическом риске."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r11-aneurysms-imaging",
+      "cells": [
+        {
+          "text": {
+            "en": "Intracranial infectious aneurysms should be looked for in patients with IE and neurological symptoms. CT or MRA should be considered for diagnosis. If non-invasive techniques are negative and the suspicion of intracranial aneurysm remains, conventional angiography should be considered.",
+            "ru": "Инфекционные внутричерепные аневризмы следует активно искать у пациентов с ИЭ и неврологической симптоматикой. КТ или МР-ангиографию следует рассматривать для диагностики. Если неинвазивные методы отрицательны, а подозрение на внутричерепную аневризму сохраняется, следует рассмотреть традиционную ангиографию."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "B", "ru": "B" } },
+        {
+          "text": {
+            "en": "Brain CT or MRA is recommended in patients with IE and suspected infective cerebral aneurysms.",
+            "ru": "КТ или МР-ангиография головного мозга рекомендуется пациентам с ИЭ при подозрении на инфекционные церебральные аневризмы."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r12-aneurysms-invasive-angiography",
+      "cells": [
+        {
+          "text": {
+            "en": "If non-invasive techniques are negative and the suspicion of intracranial aneurysm remains, conventional angiography should be considered.",
+            "ru": "Если неинвазивные методы визуализации отрицательны, а подозрение на интракраниальную аневризму сохраняется, следует рассмотреть конвенциональную ангиографию."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "B", "ru": "B" } },
+        {
+          "text": {
+            "en": "If non-invasive techniques are negative and the suspicion of infective aneurysm remains, invasive angiography should be considered.",
+            "ru": "Если неинвазивные методики отрицательны, но сохраняется подозрение на инфекционную аневризму, следует рассмотреть инвазивную ангиографию."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r13-cied-prophylaxis",
+      "cells": [
+        {
+          "text": {
+            "en": "Routine antibiotic prophylaxis is recommended before device implantation.",
+            "ru": "Рутинная антибиотикопрофилактика рекомендуется перед имплантацией устройства."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "B", "ru": "B" } },
+        {
+          "text": {
+            "en": "Antibiotic prophylaxis covering S. aureus is recommended for CIED implantation.",
+            "ru": "Перед имплантацией CIED рекомендуется антибиотикопрофилактика, эффективная в отношении S. aureus."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "A", "ru": "A" } }
+      ]
+    },
+    {
+      "id": "r14-cied-tte-toe",
+      "cells": [
+        {
+          "text": {
+            "en": "TOE is recommended in patients with suspected cardiac device-related infective endocarditis with positive or negative blood cultures, independent of the results of TTE, to evaluate lead-related endocarditis and heart valve infection.",
+            "ru": "Чреспищеводная ЭхоКГ рекомендуется пациентам с подозрением на инфекционный эндокардит, связанный с сердечным устройством, независимо от результатов посевов крови и результатов ТТЭхоКГ, для оценки поражения электродов и клапанов сердца."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "TTE and TOE are both recommended in case of suspected CIED-related IE to identify vegetations.",
+            "ru": "Как ТТЭхоКГ, так и ЧПЭхоКГ рекомендуются при подозрении на ассоциированный с CIED инфекционный эндокардит для выявления вегетаций."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r15-cied-extraction-valvular-ie",
+      "cells": [
+        {
+          "text": {
+            "en": "In patients with NVE or PVE and an intracardiac device with no evidence of associated device infection, complete hardware extraction may be considered.",
+            "ru": "У пациентов с ИЭ нативного или протезированного клапана при наличии внутрисердечного устройства без признаков его инфицирования может рассматриваться полное удаление устройства."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "Complete CIED extraction should be considered in case of valvular IE, even without definite lead involvement, taking into account the identified pathogen and requirement for valve surgery.",
+            "ru": "Полное удаление CIED следует рассмотреть в случае клапанного ИЭ даже при отсутствии явного поражения электродов, с учетом выявленного возбудителя и необходимости операции на клапанах."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r16-cied-extraction-gram-positive",
+      "cells": [
+        {
+          "text": {
+            "en": "Complete hardware removal should be considered on the basis of occult infection without another apparent source of infection.",
+            "ru": "Полное удаление устройства следует рассматривать при скрытой инфекции без другого очевидного источника инфекции."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "In cases of possible CIED-related IE or occult Gram-positive bacteraemia or fungaemia, complete system removal should be considered in case bacteraemia/fungaemia persists after a course of antimicrobial therapy.",
+            "ru": "В случаях возможного CIED-ассоциированного ИЭ или скрытой грамположительной бактериемии либо фунгемии следует рассмотреть полное удаление системы при персистировании бактериемии/фунгемии после курса антимикробной терапии."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r17-cied-extraction-gram-negative",
+      "cells": [
+        {
+          "text": {
+            "en": "Complete hardware removal should be considered on the basis of occult infection without another apparent source of infection.",
+            "ru": "Полное удаление системы следует рассматривать при скрытой инфекции без другого очевидного источника инфекции."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "In cases of possible CIED-related IE with occult Gram-negative bacteraemia, complete system removal may be considered in case of persistent/relapsing bacteraemia after a course of antimicrobial therapy.",
+            "ru": "При возможном CIED-ассоциированном ИЭ со скрытой грамотрицательной бактериемией полное удаление системы может рассматриваться при персистирующей/рецидивирующей бактериемии после курса антимикробной терапии."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r18-cied-reimplantation-timing",
+      "cells": [
+        {
+          "text": {
+            "en": "When indicated, definite reimplantation should be postponed if possible, to allow a few days or weeks of antibiotic therapy.",
+            "ru": "При наличии показаний окончательную реимплантацию следует отложить по возможности, чтобы провести несколько дней или недель антибиотикотерапии."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "If CIED reimplantation is indicated after extraction for CIED-related IE, it is recommended to be performed at a site distant from the previous generator, as late as possible, once signs and symptoms of infection have abated and until blood cultures are negative for at least 72 h in the absence of vegetations, and negative for at least 2 weeks if vegetations were visualized.",
+            "ru": "Если после экстракции по поводу CIED-ассоциированного ИЭ показана реимплантация устройства, ее рекомендуется выполнять в области, отдаленной от предыдущего ложа генератора, как можно позже, после стихания признаков и симптомов инфекции и при условии отрицательных посевов крови в течение не менее 72 часов в отсутствие вегетаций, и не менее 2 недель при наличии визуализированных вегетаций."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r19-right-sided-surgery-rv-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "Surgical treatment should be considered: Right HF secondary to severe tricuspid regurgitation with poor response to diuretic therapy.",
+            "ru": "Хирургическое лечение следует рассматривать при правожелудочковой СН вследствие тяжелой трикуспидальной регургитации с плохим ответом на терапию диуретиками."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "Surgery is recommended in patients with right-sided IE who are receiving appropriate antibiotic therapy for: Right ventricular dysfunction secondary to acute severe tricuspid regurgitation non-responsive to diuretics.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с правосторонним ИЭ, получающим адекватную антибиотикотерапию, при правожелудочковой дисфункции вследствие острой тяжелой трикуспидальной регургитации, рефрактерной к диуретикам."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r20-right-sided-surgery-respiratory-failure",
+      "cells": [
+        {
+          "text": {
+            "en": "Surgical treatment should be considered: Persistent tricuspid valve vegetations >20 mm after recurrent pulmonary emboli with or without concomitant right HF.",
+            "ru": "Хирургическое лечение следует рассматривать при персистирующих вегетациях на трикуспидальном клапане >20 мм после повторных эмболий в легочную артерию с сопутствующей правожелудочковой СН или без нее."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "Surgery is recommended in patients with right-sided IE who are receiving appropriate antibiotic therapy for: Persistent vegetation with respiratory insufficiency requiring ventilatory support after recurrent pulmonary emboli.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с правосторонним ИЭ, получающим адекватную антибиотикотерапию, при персистирующих вегетациях с дыхательной недостаточностью, требующей респираторной поддержки после повторных эмболий в легочную артерию."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r21-right-sided-surgery-large-vegetation",
+      "cells": [
+        {
+          "text": {
+            "en": "Surgical treatment should be considered: Persistent tricuspid valve vegetations >20 mm after recurrent pulmonary emboli with or without concomitant right HF.",
+            "ru": "Хирургическое лечение следует рассматривать при персистирующих вегетациях на трехстворчатом клапане >20 мм после повторных эмболий в легочную артерию с сопутствующей правожелудочковой СН или без нее."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "Surgery is recommended in patients with right-sided IE who are receiving appropriate antibiotic therapy for: Large residual tricuspid vegetations (>20 mm) after recurrent septic pulmonary emboli.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с правосторонним ИЭ, получающим адекватную антибиотикотерапию, при крупных резидуальных трикуспидальных вегетациях (>20 мм) после повторных септических легочных эмболий."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r22-right-sided-surgery-left-heart",
+      "cells": [
+        {
+          "text": {
+            "en": "Surgical treatment should be considered in the case of microorganisms difficult to eradicate or bacteremia for >7 days despite adequate antimicrobial therapy.",
+            "ru": "Хирургическое лечение следует рассматривать в случае трудно поддающихся эрадикации микроорганизмов или бактериемии >7 дней, несмотря на адекватную антимикробную терапию."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "Surgery is recommended in patients with right-sided IE who are receiving appropriate antibiotic therapy for: Patients with simultaneous involvement of left-heart structures.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с правосторонним ИЭ, получающим адекватную антибиотикотерапию, при симультанном (одновременном) поражении левых камер/структур сердца."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r23-antithrombotic-bleeding",
+      "cells": [
+        {
+          "text": {
+            "en": "Interruption of antiplatelet therapy is recommended in the presence of major bleeding.",
+            "ru": "При возникновении массивного (большого) кровотечения рекомендуется прекращение антиагрегантной терапии."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "B", "ru": "B" } },
+        {
+          "text": {
+            "en": "Interruption of antiplatelet or anticoagulant therapy is recommended in the presence of major bleeding (including intracranial haemorrhage).",
+            "ru": "При наличии массивного (большого) кровотечения (включая внутричерепное кровоизлияние) рекомендуется прекращение антиагрегантной или антикоагулянтной терапии."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    }
+  ]
+}

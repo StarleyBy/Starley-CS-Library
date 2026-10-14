@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt12-patients-on-metformin",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 12",
+  "title": {
+    "en": "Recommendation for patients on metformin",
+    "ru": "Рекомендации для пациентов, принимающих метформин"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Metformin and angiography",
+        "ru": "Метформин и ангиография"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended to check renal function if patients have taken metformin immediately before angiography and withhold metformin if renal function deteriorates.",
+            "ru": "Рекомендуется проверить функцию почек, если пациенты приняли метформин непосредственно перед ангиографией, и отменить метформин в случае ухудшения функции почек."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt41-adult-cancer-survivors-surveillance",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 41",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 41 — Recommendations for cardiovascular surveillance in asymptomatic adult cancer survivors",
+    "ru": "Таблица рекомендаций 41 — Рекомендации по сердечно-сосудистому наблюдению за бессимптомными взрослыми лицами, перенесшими онкологические заболевания"
+  },
+  "tags": [
+    "cardio-oncology",
+    "cancer-survivors",
+    "adult-survivors",
+    "surveillance",
+    "ecg",
+    "np",
+    "tte",
+    "cad-screening",
+    "carotid-ultrasound",
+    "renal-artery-ultrasound"
+  ],
+  "source": {
+    "page": 87
+  },
+  "sections": [
+    {
+      "id": "sec01-adult-survivors-surveillance",
+      "title": {
+        "en": "Cardiovascular surveillance in asymptomatic adult cancer survivors",
+        "ru": "Сердечно-сосудистое наблюдение за бессимптомными взрослыми лицами, перенесшими рак"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Annual CV risk assessment (clinical review, BP, lipid profile, HbA1c), including ECG and NP, and CVRF management is recommended in cancer survivors who were treated with a potentially cardiotoxic cancer drug or RT.",
+            "ru": "Ежегодная оценка сердечно-сосудистого риска (клинический осмотр, АД, липидный спектр, HbA1c), включая ЭКГ и определение уровня NP, а также контроль факторов риска (CVRF) рекомендуются лицам, перенесшим терапию потенциально кардиотоксичными препаратами или лучевую терапию."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "CV toxicity risk restratification is recommended 5 years after therapy to organize long-term follow-up (evaluation of new or pre-existing CVRF and CVD including CTR-CVT).",
+            "ru": "Рестратификация риска сердечно-сосудистой токсичности рекомендуется через 5 лет после окончания терапии для организации долгосрочного наблюдения (оценка новых или предшествующих факторов риска и ССЗ, включая кардиотоксичность противоопухолевой терапии)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Echocardiography at years 1, 3, and 5 after completion of cardiotoxic cancer therapy and every 5 years thereafter should be considered in asymptomatic very high- and early high-risk adult cancer survivors.",
+            "ru": "Эхокардиографию через 1, 3 и 5 лет после завершения кардиотоксичной терапии рака, а затем каждые 5 лет следует рассмотреть у бессимптомных взрослых лиц, перенесших рак, групп очень высокого и раннего высокого риска."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Echocardiography should be considered in asymptomatic late high-risk adult cancer survivors starting at 5 years after radiation to a volume including the heart and then every 5 years.",
+            "ru": "Эхокардиографию следует рассматривать у бессимптомных взрослых лиц позднего высокого риска, начиная через 5 лет после лучевой терапии на область, включающую сердце, а затем каждые 5 лет."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Echocardiography may be considered every 5 years in asymptomatic moderate-risk adult cancer survivors.",
+            "ru": "Эхокардиография может рассматриваться каждые 5 лет у бессимптомных взрослых лиц умеренного риска, перенесших рак."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Non-invasive screening for CAD (stress echocardiography, cardiac CT, stress CMR, SPECT according to local protocol) should be considered every 5–10 years in asymptomatic patients who received >15 Gy MHD, starting at 5 years after radiation.",
+            "ru": "Неинвазивный скрининг на ИБС (стресс-ЭхоКГ, КТ сердца, стресс-МРТ, ОФЭКТ по местным протоколам) следует рассматривать каждые 5–10 лет у бессимптомных пациентов, получивших среднюю дозу облучения на сердце >15 Гр MHD, начиная через 5 лет после лучевой терапии."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Carotid ultrasound imaging should be considered every 5 years in asymptomatic patients with a history of head/neck RT, starting at 5 years after radiation and every 5–10 years thereafter.",
+            "ru": "Ультразвуковое исследование сонных артерий следует рассматривать каждые 5 лет у бессимптомных пациентов с облучением области головы и шеи в анамнезе, начиная через 5 лет после лучевой терапии и далее каждые 5–10 лет."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Renal artery ultrasound should be considered in patients with a history of abdominal and pelvic radiation who present with worsening renal function and/or systemic hypertension.",
+            "ru": "Ультразвуковое исследование почечных артерий следует рассмотреть у пациентов с облучением брюшной полости и малого таза в анамнезе при ухудшении функции почек и/или развитии системной гипертензии."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

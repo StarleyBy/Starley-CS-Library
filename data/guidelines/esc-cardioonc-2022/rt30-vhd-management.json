@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt30-vhd-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 30",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 30 — Recommendations for the management of valvular heart disease in patients receiving anticancer treatment",
+    "ru": "Таблица рекомендаций 30 — Рекомендации по ведению клапанных пороков сердца у пациентов, получающих противоопухолевое лечение"
+  },
+  "tags": [
+    "cardio-oncology",
+    "vhd",
+    "valvular-heart-disease",
+    "aortic-stenosis",
+    "mitral-regurgitation",
+    "endocarditis"
+  ],
+  "source": {
+    "page": 65
+  },
+  "sections": [
+    {
+      "id": "sec01-vhd",
+      "title": {
+        "en": "Valvular heart disease management",
+        "ru": "Ведение клапанных пороков сердца"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with cancer and pre-existing severe VHD, management according to the 2021 ESC/EACTS Guidelines for the management of VHD is recommended, taking into consideration cancer prognosis and patient preferences.",
+            "ru": "У пациентов со злокачественными опухолями и исходным тяжелым клапанным пороком сердца ведение в соответствии с рекомендациями ESC/EACTS 2021 по клапанным порокам рекомендуется с обязательным учетом онкологического прогноза и предпочтений пациента."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with cancer developing new VHD during cancer therapy, management according to the 2021 ESC/EACTS Guidelines for the management of VHD is recommended, taking into consideration cancer prognosis and patient comorbidities.",
+            "ru": "У пациентов со злокачественными новообразованиями при возникновении нового клапанного порока во время противоопухолевой терапии ведение по рекомендациям ESC/EACTS 2021 по порокам сердца рекомендуется с учетом прогноза рака и сопутствующей патологии."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

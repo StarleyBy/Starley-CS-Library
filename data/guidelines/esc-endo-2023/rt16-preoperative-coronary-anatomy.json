@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt16-preoperative-coronary-anatomy",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 16",
+  "title": {
+    "en": "Recommendations for pre-operative coronary anatomy assessment in patients requiring surgery for infective endocarditis",
+    "ru": "Рекомендации по предоперационной оценке анатомии коронарных артерий у пациентов, нуждающихся в хирургическом лечении инфекционного эндокардита"
+  },
+  "sections": [
+    {
+      "id": "coronary-anatomy-assessment",
+      "title": {
+        "en": "Pre-operative coronary anatomy assessment",
+        "ru": "Предоперационная оценка коронарной анатомии"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In haemodynamically stable patients with aortic valve vegetations who require cardiac surgery and are high risk for CAD, a high-resolution multislice coronary CTA is recommended.",
+            "ru": "У гемодинамически стабильных пациентов с вегетациями на аортальном клапане, нуждающихся в кардиохирургическом вмешательстве и имеющих высокий риск ИБС, рекомендуется проведение высокоразрешающей мультиспиральной КТ-коронарографии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Invasive coronary angiography is recommended in patients requiring heart surgery who are high risk for CAD, in the absence of aortic valve vegetations.",
+            "ru": "Инвазивная коронароангиография рекомендуется пациентам, нуждающимся в операции на сердце и имеющим высокий риск ИБС, при отсутствии вегетаций на аортальном клапане."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In emergency situations, valvular surgery without pre-operative coronary anatomy assessment regardless of CAD risk should be considered.",
+            "ru": "В экстренных ситуациях следует рассмотреть выполнение операции на клапанах без предоперационной оценки коронарной анатомии независимо от риска ИБС."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Invasive coronary angiography may be considered despite the presence of aortic valve vegetations in selected patients with known CAD or at high risk of significant obstructive CAD.",
+            "ru": "Инвазивная коронароангиография может быть рассмотрена, несмотря на наличие вегетаций на аортальном клапане, у отдельных пациентов с известной ИБС или высоким риском гемодинамически значимой обструктивной ИБС."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

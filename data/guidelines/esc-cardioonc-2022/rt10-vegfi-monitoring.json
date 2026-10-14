@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt10-vegfi-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 10",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 10 — Recommendations for baseline risk assessment and monitoring during vascular endothelial growth factor inhibitors",
+    "ru": "Таблица рекомендаций 10 — Рекомендации по исходной оценке риска и мониторингу во время терапии ингибиторами фактора роста эндотелия сосудов (VEGFi)"
+  },
+  "tags": [
+    "cardio-oncology",
+    "vegfi",
+    "bevacizumab",
+    "ramucirumab",
+    "hypertension",
+    "qtc",
+    "tte",
+    "biomarkers"
+  ],
+  "source": {
+    "page": 30
+  },
+  "sections": [
+    {
+      "id": "sec01-bp",
+      "title": {
+        "en": "Blood pressure (BP) monitoring",
+        "ru": "Мониторинг артериального давления (АД)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "BP measurement is recommended for patients treated with VEGFi, bevacizumab, or ramucirumab at every clinical visit.",
+            "ru": "Измерение АД рекомендуется пациентам, получающим ингибиторы VEGF (VEGFi), бевацизумаб или рамуцирумаб, при каждом клиническом визите."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Daily home monitoring of BP for patients treated with VEGFi during the first cycle, after each increase of VEGFi dose, and every 2–3 weeks thereafter is recommended.",
+            "ru": "Ежедневный домашний самоконтроль АД рекомендуется пациентам, получающим терапию VEGFi, в течение первого цикла, после каждого повышения дозы VEGFi и каждые 2–3 недели в последующем."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec02-ecg",
+      "title": {
+        "en": "ECG monitoring",
+        "ru": "Мониторинг ЭКГ"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients treated with VEGFi at moderate or high risk of QTc prolongation, QTc monitoring (using Fridericia correction QTcF preferred; consider ECG 2 weeks after starting in high-risk and upon dose increase) is recommended monthly during the first 3 months and every 3–6 months thereafter.",
+            "ru": "У пациентов, получающих VEGFi, с умеренным или высоким риском удлинения интервала QTc, рекомендуется мониторинг QTc (предпочтительна формула Фридеричи QTcF; при высоком риске и увеличении дозы целесообразна ЭКГ через 2 недели) ежемесячно в течение первых 3 месяцев и каждые 3–6 месяцев в дальнейшем."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec03-echo",
+      "title": {
+        "en": "Echocardiography",
+        "ru": "Эхокардиография"
+      },
+      "rows": [
+        {
+          "id": "r04",
+          "text": {
+            "en": "Baseline echocardiography is recommended in high- and very high-risk patients treated with VEGFi or bevacizumab.",
+            "ru": "Исходная эхокардиография рекомендуется пациентам высокого и очень высокого риска, получающим лечение VEGFi или бевацизумабом."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Baseline echocardiography should be considered in low- and moderate-risk patients treated with a VEGFi or bevacizumab.",
+            "ru": "Исходную эхокардиографию следует рассмотреть у пациентов низкого и умеренного риска, получающих лечение VEGFi или бевацизумабом."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Echocardiography may be considered every 4 months during the first year in moderate-risk patients receiving VEGFi or bevacizumab.",
+            "ru": "Эхокардиография может рассматриваться каждые 4 месяца в течение первого года у пациентов умеренного риска, получающих VEGFi или бевацизумаб."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Echocardiography should be considered every 3 months during the first year in high- and very high-risk patients receiving a VEGFi or bevacizumab (an additional echocardiography 4 weeks after starting treatment should be considered in selected high- and very high-risk patients according to local availability, especially if cardiac biomarker surveillance is not available).",
+            "ru": "Эхокардиографию следует рассматривать каждые 3 месяца в течение первого года у пациентов высокого и очень высокого риска, получающих VEGFi или бевацизумаб (дополнительную ЭхоКГ через 4 недели после начала лечения следует рассмотреть у отдельных пациентов высокого/очень высокого риска в зависимости от доступности, особенно при отсутствии контроля кардиомаркеров)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Echocardiography every 6–12 months should be considered in moderate- and high-risk patients with cancer who require long-term treatment with a VEGFi.",
+            "ru": "Эхокардиографию каждые 6–12 месяцев следует рассмотреть у пациентов с онкологическими заболеваниями умеренного и высокого риска, которым требуется длительное лечение VEGFi."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec04-biomarkers",
+      "title": {
+        "en": "Cardiac biomarkers",
+        "ru": "Сердечные биомаркеры"
+      },
+      "rows": [
+        {
+          "id": "r09",
+          "text": {
+            "en": "NP may be considered at baseline and then every 4 months during the first year in moderate-risk patients receiving a VEGFi.",
+            "ru": "Определение натрийуретических пептидов (NP) может рассматриваться исходно и затем каждые 4 месяца в течение первого года у пациентов умеренного риска, получающих VEGFi."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "NP should be considered at baseline, 4 weeks after starting treatment, and then every 3 months during the first year in high- and very high-risk patients receiving a VEGFi.",
+            "ru": "Определение NP следует рассматривать исходно, через 4 недели после начала терапии и затем каждые 3 месяца в течение первого года у пациентов высокого и очень высокого риска, получающих VEGFi."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt23-specific-lesion-subsets",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 23",
+  "title": {
+    "en": "Recommendations on specific lesion subsets",
+    "ru": "Рекомендации по специфическим типам поражений"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Specific lesion subsets",
+        "ru": "Специфические анатомические подтипы поражений"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Stent implantation in the main vessel only, followed by provisional balloon angioplasty with or without stenting of the side branch, is recommended for PCI of bifurcation lesions.",
+            "ru": "Имплантация стента только в основной сосуд с последующей провизорной баллонной ангиопластикой со стентированием боковой ветви или без него рекомендуется при ЧКВ бифуркационных поражений."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Percutaneous revascularization of CTOs should be considered in patients with angina resistant to medical therapy or with a large area of documented ischaemia in the territory of the occluded vessel.",
+            "ru": "Чрескожную реваскуляризацию при хронических тотальных окклюзиях (ХТО) следует рассмотреть у пациентов со стенокардией, резистентной к медикаментозной терапии, или с большой площадью документированной ишемии в бассейне окклюзированной артерии."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In true bifurcation lesions of the left main, the double-kissing crush technique may be preferred over provisional T-stenting.",
+            "ru": "При истинных бифуркационных поражениях ствола левой коронарной артерии методика DK-crush может рассматриваться как предпочтительная по сравнению с провизорным T-стентированием."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

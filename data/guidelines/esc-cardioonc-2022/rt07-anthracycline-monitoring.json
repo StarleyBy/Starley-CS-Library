@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt07-anthracycline-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 7",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 7 — Recommendations for baseline risk assessment and monitoring during anthracycline chemotherapy and in the first 12 months after therapy",
+    "ru": "Таблица рекомендаций 7 — Рекомендации по исходной оценке риска и мониторингу во время химиотерапии антрациклинами и в первые 12 месяцев после завершения терапии"
+  },
+  "tags": [
+    "cardio-oncology",
+    "anthracyclines",
+    "tte",
+    "monitoring",
+    "troponin",
+    "natriuretic-peptides",
+    "ctn",
+    "np",
+    "doxorubicin"
+  ],
+  "sections": [
+    {
+      "id": "sec01-tte",
+      "title": {
+        "en": "Transthoracic echocardiography (TTE)",
+        "ru": "Трансторакальная эхокардиография (ЭхоКГ)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Baseline echocardiography is recommended in all patients with cancer before anthracycline chemotherapy (if echocardiography is unavailable or non-diagnostic, follow general cardiac imaging modalities).",
+            "ru": "Исходная эхокардиография рекомендуется всем пациентам с онкологическими заболеваниями перед началом химиотерапии антрациклинами (если ЭхоКГ недоступна или неинформативна, используются альтернативные методы визуализации сердца)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In all adults receiving anthracycline chemotherapy, an echocardiogram is recommended within 12 months after completing treatment.",
+            "ru": "Всем взрослым пациентам, получающим химиотерапию антрациклинами, рекомендуется выполнение эхокардиографии в течение 12 месяцев после завершения лечения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In high- and very high-risk patients, echocardiography is recommended every two cycles and within 3 months after completing treatment.",
+            "ru": "У пациентов высокого и очень высокого риска эхокардиография рекомендуется каждые два цикла химиотерапии и в течение 3 месяцев после завершения лечения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In moderate-risk patients, additional echocardiography should be considered after a cumulative dose of ≥250 mg/m² of doxorubicin or equivalent.",
+            "ru": "У пациентов умеренного риска дополнительную эхокардиографию следует рассмотреть после достижения кумулятивной дозы доксорубицина ≥250 мг/м² или эквивалента."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In low-risk patients, additional echocardiography may be considered after a cumulative dose of ≥250 mg/m² of doxorubicin or equivalent.",
+            "ru": "У пациентов низкого риска проведение дополнительной эхокардиографии может быть рассмотрено после достижения кумулятивной дозы доксорубицина ≥250 мг/м² или эквивалента."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec02-biomarkers",
+      "title": {
+        "en": "Cardiac serum biomarkers (NP and cTn)",
+        "ru": "Кардиоспецифические биомаркеры сыворотки крови (NP и cTn)"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "Baseline measurement of NP and cTn is recommended in high- and very high-risk patients prior to anthracycline chemotherapy.",
+            "ru": "Исходное определение натрийуретических пептидов (NP) и сердечного тропонина (cTn) рекомендуется пациентам высокого и очень высокого риска перед началом химиотерапии антрациклинами."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Baseline measurement of NP and cTn should be considered in low- and moderate-risk patients prior to anthracycline chemotherapy.",
+            "ru": "Исходное определение натрийуретических пептидов (NP) и сердечного тропонина (cTn) следует рассмотреть у пациентов низкого и умеренного риска перед началом химиотерапии антрациклинами."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "cTn and NP monitoring before every cycle during anthracycline chemotherapy and 3 and 12 months after therapy completion is recommended in high- and very high-risk patients.",
+            "ru": "Мониторинг сердечного тропонина (cTn) и NP перед каждым циклом химиотерапии антрациклинами, а также через 3 и 12 месяцев после завершения лечения рекомендуется пациентам высокого и очень высокого риска."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "cTn and NP monitoring every two cycles during anthracycline chemotherapy and within 3 months after therapy completion should be considered in moderate-risk patients and in low-risk patients receiving a cumulative dose of ≥250 mg/m² of doxorubicin or equivalent.",
+            "ru": "Мониторинг тропонина и NP каждые два цикла химиотерапии антрациклинами и в течение 3 месяцев после завершения лечения следует рассмотреть у пациентов умеренного риска и у пациентов низкого риска, получающих кумулятивную дозу доксорубицина ≥250 мг/м² или эквивалента."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "cTn and NP monitoring every two cycles during anthracycline chemotherapy and within 3 months after therapy completion may be considered in low-risk patients.",
+            "ru": "Мониторинг тропонина и NP каждые два цикла на фоне химиотерапии антрациклинами и в течение 3 месяцев после завершения лечения может быть рассмотрен у пациентов низкого риска."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

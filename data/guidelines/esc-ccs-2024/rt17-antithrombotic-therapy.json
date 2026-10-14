@@ -1,0 +1,283 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt17-antithrombotic-therapy",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 17",
+  "title": {
+    "en": "Recommendations for antithrombotic therapy in patients with chronic coronary syndrome",
+    "ru": "Рекомендации по антитромботической терапии у пациентов с хроническим коронарным синдромом"
+  },
+  "tags": [
+    "ccs",
+    "antithrombotic",
+    "aspirin",
+    "clopidogrel",
+    "cabg",
+    "dapt",
+    "hbr",
+    "oac",
+    "doac",
+    "vka",
+    "af",
+    "ppi",
+    "gastroprotection"
+  ],
+  "source": {
+    "page": 48
+  },
+  "sections": [
+    {
+      "id": "sec-long-term-no-oac",
+      "title": {
+        "en": "Long-term antithrombotic therapy in patients with chronic coronary syndrome and no clear indication for oral anticoagulation",
+        "ru": "Длительная антитромботическая терапия у пациентов с ХКС без четких показаний к приему пероральных антикоагулянтов"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In CCS patients with a prior MI or remote PCI, aspirin 75–100 mg daily is recommended lifelong after an initial period of DAPT.",
+            "ru": "У пациентов с ХКС с перенесенным ИМ или давним ЧКВ аспирин в дозе 75–100 мг/сут рекомендуется пожизненно после завершения начального периода ДАТТ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In CCS patients with a prior MI or remote PCI, clopidogrel 75 mg daily is recommended as a safe and effective alternative to aspirin monotherapy.",
+            "ru": "У пациентов с ХКС с перенесенным ИМ или давним ЧКВ клопидогрел в дозе 75 мг/сут рекомендуется в качестве безопасной и эффективной альтернативы монотерапии аспирином."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "After CABG, aspirin 75–100 mg daily is recommended lifelong.",
+            "ru": "После коронарного шунтирования (КШ) прием аспирина в дозе 75–100 мг/сут рекомендуется пожизненно."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients without prior MI or revascularization but with evidence of significant obstructive CAD, aspirin 75–100 mg daily is recommended lifelong.",
+            "ru": "У пациентов без перенесенного ИМ или реваскуляризации, но с доказанной гемодинамически значимой обструктивной ИБС, аспирин в дозе 75–100 мг/сут рекомендуется пожизненно."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Adding a second antithrombotic agent to aspirin for extended long-term secondary prevention should be considered in patients at enhanced ischaemic risk and without high bleeding risk (options and definitions in Table 8).",
+            "ru": "Добавление второго антитромботического препарата к аспирину для продленной долгосрочной вторичной профилактики следует рассмотреть у пациентов с повышенным ишемическим риском без высокого риска кровотечений (варианты терапии представлены в Таблице 8)."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In CCS or stabilized post-ACS patients who underwent PCI and were initially treated with ticagrelor-based DAPT, who remain at high ischaemic risk and are not at high bleeding risk, ticagrelor monotherapy 90 mg b.i.d. may be considered as an alternative to dual or other single antiplatelet therapy.",
+            "ru": "У пациентов с ХКС или стабилизированным состоянием после ОКС, перенесших ЧКВ и изначально получавших ДАТТ на основе тикагрелора, которые сохраняют высокий ишемический риск и не имеют высокого риска кровотечений, монотерапия тикагрелором 90 мг 2 р/сут может рассматриваться как альтернатива ДАТТ или другой монотерапии."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-post-pci-no-oac",
+      "title": {
+        "en": "Antithrombotic therapy post-percutaneous coronary intervention in patients with chronic coronary syndrome and no indication for oral anticoagulation",
+        "ru": "Антитромботическая терапия после ЧКВ у пациентов с ХКС без показаний к пероральным антикоагулянтам"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "In CCS patients with no indication for oral anticoagulation, DAPT consisting of aspirin 75–100 mg and clopidogrel 75 mg daily for up to 6 months is recommended as the default antithrombotic strategy after PCI-stenting.",
+            "ru": "У пациентов с ХКС без показаний к пероральным антикоагулянтам ДАТТ аспирином 75–100 мг и клопидогрелом 75 мг/сут на срок до 6 месяцев рекомендуется в качестве стандартной стратегии по умолчанию после ЧКВ со стентированием."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "In patients at high bleeding risk but not at high ischaemic risk, it is recommended to discontinue DAPT 1–3 months after PCI and to continue with single antiplatelet therapy.",
+            "ru": "У пациентов с высоким риском кровотечений (HBR), но без высокого ишемического риска, рекомендуется прекратить ДАТТ через 1–3 месяца после ЧКВ и продолжить монотерапию антиагрегантом."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Stopping DAPT after 1–3 months from PCI-stenting may be considered in patients who are not at high bleeding risk nor at high risk of ischaemic events.",
+            "ru": "Прекращение ДАТТ через 1–3 месяца после ЧКВ со стентированием может рассматриваться у пациентов, не имеющих высокого риска кровотечений или ишемических событий."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "In CCS patients undergoing high-thrombotic risk stenting (e.g. complex left main stem, 2-stent bifurcation, suboptimal stenting result, prior stent thrombosis, previously known CYP2C19 *2/*3 polymorphisms), prasugrel or ticagrelor (in addition to aspirin) may be considered instead of clopidogrel, for the first month, and up to 3–6 months.",
+            "ru": "У пациентов с ХКС, перенесших стентирование высокого тромботического риска (сложное поражение ствола ЛКА, двухстентовая бифуркация, субоптимальный результат, тромбоз стента в анамнезе, известные аллели CYP2C19 *2/*3), прасугрел или тикагрелор (в дополнение к аспирину) могут быть рассмотрены вместо клопидогрела на первый месяц и на срок до 3–6 месяцев."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-long-term-with-oac",
+      "title": {
+        "en": "Long-term antithrombotic therapy in patients with chronic coronary syndrome and an indication for oral anticoagulation",
+        "ru": "Длительная антитромботическая терапия у пациентов с ХКС и показаниями к пероральным антикоагулянтам"
+      },
+      "rows": [
+        {
+          "id": "r11",
+          "text": {
+            "en": "In CCS patients with a long-term indication for OAC, an AF therapeutic dose of VKA alone or, preferably, of DOAC alone (unless contraindicated) is recommended lifelong.",
+            "ru": "У пациентов с ХКС с долгосрочными показаниями к ОАК терапевтическая доза АВК в режиме монотерапии или, предпочтительно, прямого орального антикоагулянта (DOAC) в режиме монотерапии рекомендуется пожизненно."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-post-pci-with-oac",
+      "title": {
+        "en": "Antithrombotic therapy post-percutaneous coronary intervention in chronic coronary syndrome patients with an indication for oral anticoagulation",
+        "ru": "Антитромботическая терапия после ЧКВ у пациентов с ХКС и показаниями к антикоагулянтам"
+      },
+      "rows": [
+        {
+          "id": "r12",
+          "text": {
+            "en": "In patients with an indication for OAC who undergo PCI, initial low-dose aspirin once daily is recommended (loading dose when not on maintenance dose) in addition to OAC and clopidogrel.",
+            "ru": "У пациентов с показаниями к ОАК, которым выполняется ЧКВ, рекомендуется начальный прием низких доз аспирина 1 р/сут (нагрузочная доза при отсутствии предшествующего приема) в дополнение к ОАК и клопидогрелу."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "In patients who are eligible for OAC, DOAC (unless contraindicated) is recommended in preference to VKA.",
+            "ru": "У пациентов, которым показана антикоагулянтная терапия, прямые оральные антикоагулянты (DOAC) рекомендуются предпочтительнее антагонистов витамина К (АВК)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "After uncomplicated PCI in CCS patients with concomitant indication for OAC:\n• early cessation of aspirin (≤1 week);\n• followed by continuation of OAC and clopidogrel:\n  o up to 6 months in patients not at high ischaemic risk; or\n  o up to 12 months in patients at high ischaemic risk;\n• followed by OAC alone; is recommended.",
+            "ru": "После неосложненного ЧКВ у пациентов с ХКС с сопутствующими показаниями к ОАК рекомендуется:\n• ранняя отмена аспирина (≤1 недели);\n• с последующим продолжением ОАК и клопидогрела:\n  o до 6 месяцев у пациентов без высокого ишемического риска; или\n  o до 12 месяцев у пациентов с высоким ишемическим риском;\n• с последующим переходом на пожизненную монотерапию ОАК."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "Continuation of aspirin up to 1 month after PCI, in addition to OAC and clopidogrel, should be considered in patients at high ischaemic risk or with anatomical/procedural characteristics judged to outweigh the bleeding risk.",
+            "ru": "Продолжение приема аспирина на срок до 1 месяца после ЧКВ в дополнение к ОАК и клопидогрелу следует рассмотреть у пациентов с высоким ишемическим риском или анатомическими/процедурными особенностями, превышающими риск кровотечений."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r16",
+          "text": {
+            "en": "When concerns about high bleeding risk prevail over concerns about stent thrombosis or ischaemic stroke:\n• rivaroxaban 15 mg daily should be considered in preference to rivaroxaban 20 mg daily for the duration of concomitant antiplatelet therapy;\n• dabigatran 110 mg twice daily should be considered in preference to dabigatran 150 mg twice daily for the duration of concomitant antiplatelet therapy.",
+            "ru": "Когда опасения относительно высокого риска кровотечений преобладают над риском тромбоза стента или ишемического инсульта:\n• следует рассмотреть ривароксабан 15 мг/сут вместо 20 мг/сут на время сопутствующей антиагрегантной терапии;\n• следует рассмотреть дабигатран 110 мг 2 р/сут вместо 150 мг 2 р/сут на время сопутствующей антиагрегантной терапии."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r17",
+          "text": {
+            "en": "In patients with an indication for VKA in combination with single or dual antiplatelet therapy, targeting VKA intensity to an INR in the lower part of the recommended range and to a time in therapeutic range >70% should be considered.",
+            "ru": "У пациентов с показаниями к АВК в комбинации с одинарной или двойной антитромбоцитарной терапией следует стремиться к поддержанию МНО в нижней части целевого диапазона при времени нахождения в терапевтическом диапазоне (TTR) >70%."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r18",
+          "text": {
+            "en": "The use of ticagrelor or prasugrel is generally not recommended as part of triple antithrombotic therapy with aspirin and an OAC.",
+            "ru": "Применение тикагрелора или прасугрела обычно не рекомендуется в составе тройной антитромботической терапии с аспирином и ОАК."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-cabg-antithrombotic",
+      "title": {
+        "en": "Antithrombotic therapy post-coronary artery bypass grafting",
+        "ru": "Антитромботическая терапия после коронарного шунтирования"
+      },
+      "rows": [
+        {
+          "id": "r19",
+          "text": {
+            "en": "It is recommended to initiate aspirin post-operatively as soon as there is no concern over bleeding.",
+            "ru": "Рекомендуется начинать прием аспирина в послеоперационном периоде, как только исчезнут опасения относительно кровотечения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r20",
+          "text": {
+            "en": "DAPT may be considered after CABG in selected patients at greater risk of graft occlusion and at low risk of bleeding.",
+            "ru": "ДАТТ может рассматриваться после КШ у отдельных пациентов с повышенным риском окклюзии шунтов (эндартерэктомия, плохое качество вен) и низким риском кровотечений."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-ppi",
+      "title": {
+        "en": "Use of proton pump inhibitors",
+        "ru": "Применение ингибиторов протонной помпы (ИПП)"
+      },
+      "rows": [
+        {
+          "id": "r21",
+          "text": {
+            "en": "A proton pump inhibitor is recommended in patients at increased risk of gastrointestinal bleeding for the duration of combined antithrombotic therapy (antiplatelet therapy and/or OAC).",
+            "ru": "Ингибиторы протонной помпы (ИПП) рекомендуются пациентам с повышенным риском желудочно-кишечных кровотечений на весь период комбинированной антитромботической терапии (антиагреганты и/или ОАК)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r22",
+          "text": {
+            "en": "A proton pump inhibitor should be considered when a single antithrombotic (antiplatelet or anticoagulant) drug is used, considering the gastrointestinal bleeding risk of the individual patient.",
+            "ru": "Ингибитор протонной помпы следует рассмотреть при монотерапии антитромботическим препаратом (антиагрегантом или антикоагулянтом) с учетом индивидуального риска ЖКТ-кровотечений."
+          },
+          "class": "IIa",
+          "level": "A"
+        }
+      ]
+    }
+  ]
+}

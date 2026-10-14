@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt11-recommendations-concomitant-left-sided",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 11",
+  "title": {
+    "en": "Recommendations on indications for surgery of concomitant left-sided valvular heart disease",
+    "ru": "Рекомендации по показаниям к хирургическому лечению сопутствующих пороков левых отделов сердца"
+  },
+  "tags": [
+    "vhd",
+    "concomitant-valve",
+    "left-sided",
+    "savr",
+    "as",
+    "ar",
+    "mr",
+    "multivalve",
+    "combined-surgery"
+  ],
+  "sections": [
+    {
+      "id": "sec-concomitant-as",
+      "title": {
+        "en": "Concomitant aortic stenosis",
+        "ru": "Сопутствующий аортальный стеноз"
+      },
+      "rows": [
+        {
+          "id": "r01-concomitant-severe-as",
+          "text": {
+            "en": "SAVR is recommended in patients with severe AS undergoing surgery for another valve.",
+            "ru": "Хирургическое протезирование аортального клапана (SAVR) рекомендуется пациентам с тяжелым АС, переносящим операцию на другом клапане."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02-concomitant-moderate-as",
+          "text": {
+            "en": "SAVR should be considered in patients with moderate AS^[d] undergoing surgery for another valve.",
+            "ru": "Хирургическое протезирование аортального клапана (SAVR) следует рассматривать у пациентов с умеренным АС^[d], переносящих операцию на другом клапане."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-concomitant-ar",
+      "title": {
+        "en": "Concomitant aortic regurgitation",
+        "ru": "Сопутствующая аортальная регургитация"
+      },
+      "rows": [
+        {
+          "id": "r03-concomitant-severe-ar",
+          "text": {
+            "en": "AV surgery is recommended in patients with severe AR undergoing surgery for another valve.",
+            "ru": "Хирургическое вмешательство на аортальном клапане рекомендуется пациентам с тяжелой АР, переносящим операцию на другом клапане."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-concomitant-mr",
+      "title": {
+        "en": "Concomitant mitral regurgitation",
+        "ru": "Сопутствующая митральная регургитация"
+      },
+      "rows": [
+        {
+          "id": "r04-concomitant-severe-mr",
+          "text": {
+            "en": "MV surgery is recommended in patients with severe MR undergoing surgery for another valve.",
+            "ru": "Хирургическое вмешательство на митральном клапане рекомендуется пациентам с тяжелой МР, переносящим операцию на другом клапане."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "d": {
+      "en": "Defined as an AVA of 1.0–1.5 cm² (or mean aortic gradient of 25–40 mmHg) in normal-flow conditions. Clinical assessment is essential to determine whether SAVR is appropriate for an individual patient.",
+      "ru": "Определяется как площадь отверстия (AVA) 1,0–1,5 см² (или средний градиент на АК 25–40 мм рт. ст.) при нормальном кровотоке. Клиническая оценка имеет решающее значение для определения целесообразности SAVR у конкретного пациента."
+    }
+  }
+}

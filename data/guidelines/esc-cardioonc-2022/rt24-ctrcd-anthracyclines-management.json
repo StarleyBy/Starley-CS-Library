@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt24-ctrcd-anthracyclines-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 24",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 24 — Recommendations for the management of cancer treatment-related cardiac dysfunction during anthracycline chemotherapy",
+    "ru": "Таблица рекомендаций 24 — Рекомендации по ведению кардиальной дисфункции, связанной с противоопухолевой терапией (CTRCD), во время химиотерапии антрациклинами"
+  },
+  "tags": [
+    "cardio-oncology",
+    "ctrcd",
+    "anthracyclines",
+    "doxorubicin",
+    "heart-failure",
+    "gls",
+    "troponin",
+    "np",
+    "dexrazoxane",
+    "liposomal-doxorubicin",
+    "ace-i",
+    "arb",
+    "beta-blockers"
+  ],
+  "source": {
+    "page": 51
+  },
+  "sections": [
+    {
+      "id": "sec01-symptomatic-ctrcd",
+      "title": {
+        "en": "Anthracycline chemotherapy-induced symptomatic CTRCD",
+        "ru": "Симптоматическая CTRCD, вызванная химиотерапией антрациклинами"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "HF therapy is recommended for patients who develop symptomatic CTRCD during anthracycline chemotherapy.",
+            "ru": "Терапия сердечной недостаточности рекомендуется пациентам, у которых развивается симптоматическая CTRCD во время химиотерапии антрациклинами."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Discontinuation of anthracycline chemotherapy is recommended in patients who develop symptomatic severe CTRCD.",
+            "ru": "Полная отмена химиотерапии антрациклинами рекомендуется пациентам, у которых развивается симптоматическая тяжелая CTRCD."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Temporary interruption of anthracycline chemotherapy is recommended in patients who develop symptomatic moderate CTRCD and a multidisciplinary approach regarding the decision to restart is recommended.",
+            "ru": "Временное прерывание химиотерапии антрациклинами рекомендуется пациентам, у которых развивается симптоматическая умеренная CTRCD; решение о возобновлении рекомендуется принимать в рамках мультидисциплинарного консилиума."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "A multidisciplinary approach regarding interruption vs. continuation of anthracycline chemotherapy is recommended in patients who develop mild symptomatic CTRCD.",
+            "ru": "Мультидисциплинарный подход в отношении приостановки или продолжения химиотерапии антрациклинами рекомендуется пациентам, у которых развивается легкая симптоматическая CTRCD."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec02-asymptomatic-ctrcd",
+      "title": {
+        "en": "Anthracycline chemotherapy-induced asymptomatic CTRCD",
+        "ru": "Бессимптомная CTRCD, вызванная химиотерапией антрациклинами"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Temporary interruption of anthracycline chemotherapy and initiation of HF therapy is recommended in patients who develop asymptomatic moderate or severe CTRCD.",
+            "ru": "Временное прерывание химиотерапии антрациклинами и инициация терапии сердечной недостаточности рекомендуются пациентам, у которых развивается бессимптомная умеренная или тяжелая CTRCD."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "A multidisciplinary approach regarding the decision when to restart is recommended in all patients with moderate or severe asymptomatic CTRCD.",
+            "ru": "Мультидисциплинарный подход относительно решения о сроках возобновления терапии рекомендуется всем пациентам с умеренной или тяжелой бессимптомной CTRCD."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Continuation of anthracycline chemotherapy is recommended in asymptomatic patients who have LVEF ≥ 50% and who have developed a significant fall in GLS (relative reduction >15%) or a troponin or a NP elevation > ULN.",
+            "ru": "Продолжение химиотерапии антрациклинами рекомендуется бессимптомным пациентам с ФВ ЛЖ ≥ 50%, у которых развилось значимое снижение GLS (относительное снижение >15%) либо повышение уровня тропонина или NP выше верхней границы нормы (>ВГН)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Asymptomatic patients who have LVEF ≥ 50% and who have developed a significant fall in GLS should be considered for ACE-I/ARB and/or beta-blockers (avoid hypotension).",
+            "ru": "У бессимптомных пациентов с ФВ ЛЖ ≥ 50% при возникновении значимого снижения GLS следует рассмотреть назначение иАПФ/БРА и/или бета-блокаторов (избегая артериальной гипотензии)."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Asymptomatic patients who have LVEF ≥ 50% and who have developed a troponin elevation >ULN should be considered for ACE-I/ARB and/or beta-blockers (avoid hypotension).",
+            "ru": "У бессимптомных пациентов с ФВ ЛЖ ≥ 50% при повышении уровня тропонина >ВГН следует рассмотреть назначение иАПФ/БРА и/или бета-блокаторов (избегая артериальной гипотензии)."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Asymptomatic patients who have LVEF ≥ 50% and who have developed NP >ULN may be considered for ACE-I/ARB and/or beta-blockers (avoid hypotension).",
+            "ru": "У бессимптомных пациентов с ФВ ЛЖ ≥ 50% при повышении уровня натрийуретических пептидов >ВГН может быть рассмотрено назначение иАПФ/БРА и/или бета-блокаторов (избегая гипотензии)."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec03-restarting-strategies",
+      "title": {
+        "en": "Strategies for restarting anthracycline chemotherapy in patients with CTRCD",
+        "ru": "Стратегии возобновления химиотерапии антрациклинами у пациентов с CTRCD"
+      },
+      "rows": [
+        {
+          "id": "r11",
+          "text": {
+            "en": "Liposomal anthracycline may be considered in patients with moderate or severe symptomatic or asymptomatic CTRCD who require further anthracycline chemotherapy to reduce the risk of further CV toxicity.",
+            "ru": "Липосомальные антрациклины могут рассматриваться у пациентов с умеренной или тяжелой (симптоматической либо бессимптомной) CTRCD, которым требуется дальнейшая терапия антрациклинами, для снижения риска повторной кардиотоксичности."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "Dexrazoxane (EMA: ≥350 mg/m² doxorubicin equivalent; FDA: ≥300 mg/m² doxorubicin equivalent) may be considered in patients with moderate or severe symptomatic or asymptomatic CTRCD who require further anthracycline chemotherapy to reduce the risk of further CV toxicity.",
+            "ru": "Дексразоксан (по EMA: доза ≥350 мг/м² в доксорубициновом эквиваленте; по FDA: ≥300 мг/м²) может рассматриваться у пациентов с умеренной или тяжелой (симптоматической либо бессимптомной) CTRCD, которым требуется продолжение химиотерапии антрациклинами, для снижения риска дальнейшей сердечно-сосудистой токсичности."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

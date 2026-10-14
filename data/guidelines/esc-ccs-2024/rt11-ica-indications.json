@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt11-ica-indications",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 11",
+  "title": {
+    "en": "Recommendations for invasive coronary angiography in the diagnostic management of individuals with suspected chronic coronary syndrome",
+    "ru": "Рекомендации по инвазивной коронарографии (ICA) при диагностике лиц с подозрением на хронический коронарный синдром"
+  },
+  "tags": [
+    "ccs",
+    "ica",
+    "radial-access",
+    "coronary-pressure",
+    "intermediate-stenosis",
+    "left-main",
+    "ffr",
+    "ifr",
+    "ivus"
+  ],
+  "source": {
+    "page": 37
+  },
+  "sections": [
+    {
+      "id": "sec-ica-indications-general",
+      "title": {
+        "en": "Invasive coronary angiography recommendations",
+        "ru": "Рекомендации по инвазивной коронарографии"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "When ICA is indicated, radial artery access is recommended as the preferred access site.",
+            "ru": "При наличии показаний к инвазивной коронарографии (ICA) лучевой доступ рекомендуется в качестве предпочтительного места сосудистого доступа."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "When ICA is indicated, it is recommended to have coronary pressure assessment available and to use it to evaluate the functional severity of intermediate non-left main stem stenoses (typically 40%–90% by visual estimate) prior to revascularization.",
+            "ru": "При проведении инвазивной коронарографии рекомендуется иметь возможность измерения внутрикоронарного давления и применять его для оценки функциональной значимости пограничных стенозов (кроме ствола ЛКА; обычно 40%–90% визуально) перед реваскуляризацией."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Invasive coronary angiography is recommended to diagnose obstructive CAD in individuals with a very high (>85%) clinical likelihood of disease, severe symptoms refractory to guideline-directed medical therapy, angina at a low level of exercise, and/or high event risk.",
+            "ru": "Инвазивная коронарография рекомендуется для диагностики обструктивной ИБС у лиц с очень высокой (>85%) клинической вероятностью заболевания, тяжелыми симптомами, резистентными к оптимальной медикаментозной терапии, стенокардией при низкой нагрузке и/или высоким риском неблагоприятных событий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In individuals with de novo symptoms highly suggestive of obstructive CAD that occur at a low level of exercise, ICA with a view towards revascularization is recommended as first diagnostic test after clinical assessment by a cardiologist.",
+            "ru": "У лиц с впервые возникшими симптомами, убедительно указывающими на обструктивную ИБС и возникающими при низкой физической нагрузке, инвазивная коронарография с прицелом на реваскуляризацию рекомендуется в качестве первичного диагностического теста после клинической оценки кардиологом."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "When ICA is indicated, measurement of FFR/iFR should be considered to evaluate the functional severity of intermediate left main stem stenoses (typically 40%–70% by visual estimate) prior to revascularization.",
+            "ru": "При проведении инвазивной коронарографии измерение FFR/iFR следует рассмотреть для оценки функциональной значимости пограничных стенозов ствола левой коронарной артерии (обычно 40%–70% визуально) перед реваскуляризацией."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "When ICA is indicated, IVUS should be considered to evaluate the severity of intermediate stenoses of left main stem (typically 40%–70% by visual estimate) prior to revascularization.",
+            "ru": "При проведении инвазивной коронарографии внутрисосудистый ультразвук (IVUS) следует рассмотреть для оценки анатомической тяжести пограничных стенозов ствола ЛКА (обычно 40%–70% визуально) перед реваскуляризацией."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

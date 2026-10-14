@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt16-antianginal-drugs",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 16",
+  "title": {
+    "en": "Recommendations for antianginal drugs in patients with chronic coronary syndrome",
+    "ru": "Рекомендации по антиангинальным препаратам у пациентов с хроническим коронарным синдромом"
+  },
+  "tags": [
+    "ccs",
+    "antianginal",
+    "nitrates",
+    "beta-blockers",
+    "ccb",
+    "dhp-ccb",
+    "ranolazine",
+    "ivabradine",
+    "nicorandil",
+    "trimetazidine",
+    "contraindications"
+  ],
+  "source": {
+    "page": 44
+  },
+  "sections": [
+    {
+      "id": "sec-general-strategy",
+      "title": {
+        "en": "General strategy",
+        "ru": "Общая стратегия"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended to tailor the selection of antianginal drugs to the patient's characteristics, comorbidities, concomitant medications, treatment tolerability, and underlying pathophysiology of angina, also considering local drug availability and cost.",
+            "ru": "Рекомендуется индивидуализировать выбор антиангинальных препаратов с учетом характеристик пациента, сопутствующих заболеваний, сопутствующей медикаментозной терапии, переносимости лечения и патофизиологического механизма стенокардии, а также доступности и стоимости лекарств."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-selection-antianginal",
+      "title": {
+        "en": "Selection of antianginal medication",
+        "ru": "Выбор антиангинальной медикаментозной терапии"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "Short-acting nitrates are recommended for immediate relief of angina.",
+            "ru": "Нитраты короткого действия рекомендуются для быстрого купирования приступов стенокардии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Initial treatment with beta-blockers and/or CCBs to control heart rate and symptoms is recommended for most patients with CCS (may require caution or be contraindicated in low BP, DM, AV conduction disorders, or COPD for non-cardioselective beta-blockers).",
+            "ru": "Начальная терапия бета-блокаторами и/или БКК для контроля ЧСС и симптомов рекомендуется большинству пациентов с ХКС (требуется осторожность или имеются противопоказания при низком АД, СД, нарушениях АВ-проводимости или ХОБЛ для некардиоселективных бета-блокаторов)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "If anginal symptoms are not successfully controlled by initial treatment with a beta-blocker or a CCB alone, the combination of a beta-blocker and a DHP-CCB should be considered, unless contraindicated.",
+            "ru": "Если симптомы стенокардии недостаточно контролируются монотерапией бета-блокатором или БКК, следует рассмотреть комбинацию бета-блокатора и дигидропиридинового БКК при отсутствии противопоказаний."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Long-acting nitrates or ranolazine should be considered as add-on therapy in patients with inadequate control of symptoms while on treatment with beta-blockers and/or CCBs, or as part of initial treatment in properly selected patients (e.g. intolerance to beta-blockers/CCBs, microvascular angina, or coronary spasm).",
+            "ru": "Пролонгированные нитраты или ранолазин следует рассмотреть в качестве дополнительной терапии у пациентов с неадекватным контролем симптомов при лечении бета-блокаторами и/или БКК, либо как компонент начальной терапии у тщательно отобранных пациентов (непереносимость бета-блокаторов/БКК, микрососудистая стенокардия или вазоспазм)."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "When long-acting nitrates are prescribed, a nitrate-free or low-nitrate interval should be considered to reduce tolerance.",
+            "ru": "При назначении нитратов пролонгированного действия следует предусмотреть безнитратный интервал или интервал с низкой концентрацией нитратов для предотвращения развития толерантности."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Ivabradine should be considered as add-on antianginal therapy in patients with left ventricular systolic dysfunction (LVEF <40%) and inadequate control of symptoms, or as part of initial treatment in properly selected patients.",
+            "ru": "Ивабрадин следует рассмотреть в качестве дополнительной антиангинальной терапии у пациентов с систолической дисфункцией ЛЖ (ФВ ЛЖ <40%) и недостаточным контролем симптомов, либо в рамках начальной терапии у тщательно отобранных пациентов."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Nicorandil or trimetazidine may be considered as add-on therapy in patients with inadequate control of symptoms while on treatment with beta-blockers and/or CCBs, or as part of initial treatment in properly selected patients.",
+            "ru": "Никорандил или триметазидин могут быть рассмотрены в качестве дополнительной терапии у пациентов с неадекватным контролем симптомов на фоне лечения бета-блокаторами и/или БКК, либо в рамках начальной терапии у отобранных пациентов."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Ivabradine is not recommended as add-on therapy in patients with CCS, LVEF >40%, and no clinical heart failure.",
+            "ru": "Ивабрадин не рекомендуется в качестве дополнительной терапии у пациентов с ХКС, ФВ ЛЖ >40% и отсутствием клинических признаков сердечной недостаточности."
+          },
+          "class": "III",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Combination of ivabradine with non-DHP-CCB or other strong CYP3A4 inhibitors is not recommended.",
+            "ru": "Комбинация ивабрадина с недигидропиридиновыми блокаторами кальциевых каналов или другими мощными ингибиторами CYP3A4 не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "Nitrates are not recommended in patients with hypertrophic cardiomyopathy or in co-administration with phosphodiesterase inhibitors.",
+            "ru": "Нитраты не рекомендуются пациентам с гипертрофической кардиомиопатией или при совместном применении с ингибиторами фосфодиэстеразы (ФДЭ-5)."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

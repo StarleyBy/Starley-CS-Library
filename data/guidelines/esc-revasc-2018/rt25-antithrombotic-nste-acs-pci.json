@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt25-antithrombotic-nste-acs-pci",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 25",
+  "title": {
+    "en": "Recommendations for antithrombotic treatment in patients with non-ST-elevation acute coronary syndromes undergoing percutaneous coronary intervention",
+    "ru": "Рекомендации по антитромботической терапии у пациентов с острым коронарным синдромом без подъема сегмента ST, подвергающихся чрескожному коронарному вмешательству"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-pretreatment",
+      "title": {
+        "en": "Pre-treatment and antiplatelet therapy",
+        "ru": "Предварительное лечение и антитромбоцитарная терапия"
+      },
+      "rows": [
+        {
+          "id": "r_pre_01",
+          "text": {
+            "en": "Aspirin is recommended for all patients without contraindications at an initial oral loading dose of 150–300 mg (or 75–250 mg i.v.), and at a maintenance dose of 75–100 mg daily long-term.",
+            "ru": "Ацетилсалициловая кислота рекомендуется всем пациентам при отсутствии противопоказаний в начальной нагрузочной дозе 150–300 мг внутрь (или 75–250 мг в/в) и поддерживающей дозе 75–100 мг/сут длительно/пожизненно."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_pre_02",
+          "text": {
+            "en": "A P2Y12 inhibitor is recommended in addition to aspirin, maintained over 12 months unless there are contraindications such as an excessive risk of bleeding: prasugrel (60 mg loading dose, 10 mg daily dose) in P2Y12-inhibitor naïve patients who proceed to PCI.",
+            "ru": "Ингибитор P2Y12 рекомендуется в дополнение к АСК на 12 месяцев при отсутствии противопоказаний (чрезмерный риск кровотечений): прасугрел (нагрузочная доза 60 мг, затем 10 мг/сут) у ранее не получавших P2Y12-ингибиторы пациентов при выполнении ЧКВ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_pre_03",
+          "text": {
+            "en": "A P2Y12 inhibitor is recommended in addition to aspirin, maintained over 12 months unless there are contraindications such as an excessive risk of bleeding: ticagrelor (180 mg loading dose, 90 mg b.i.d.) irrespective of the preceding P2Y12 inhibitor regimen.",
+            "ru": "Ингибитор P2Y12 рекомендуется в дополнение к АСК на 12 месяцев: тикагрелор (нагрузочная доза 180 мг, затем 90 мг 2 раза в сутки) независимо от предшествующей терапии ингибиторами P2Y12."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_pre_04",
+          "text": {
+            "en": "A P2Y12 inhibitor is recommended in addition to aspirin, maintained over 12 months unless there are contraindications such as an excessive risk of bleeding: clopidogrel (600 mg loading dose, 75 mg daily dose) only when prasugrel or ticagrelor are not available or are contraindicated.",
+            "ru": "Ингибитор P2Y12 рекомендуется в дополнение к АСК на 12 месяцев: клопидогрел (нагрузочная доза 600 мг, затем 75 мг/сут) только в случаях, когда прасугрел или тикагрелор недоступны либо противопоказаны."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_pre_05",
+          "text": {
+            "en": "GP IIb/IIIa antagonists should be considered for bail-out if there is evidence of no-reflow or a thrombotic complication.",
+            "ru": "Антагонисты GP IIb/IIIa следует рассматривать в качестве экстренной терапии спасения (bail-out) при развитии феномена no-reflow или тромботических осложнений."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_pre_06",
+          "text": {
+            "en": "For pre-treatment in patients with NSTE-ACS undergoing invasive management, ticagrelor administration (180 mg loading dose, 90 mg b.i.d.), or clopidogrel (600 mg loading dose, 75 mg daily dose) if ticagrelor is not an option, should be considered as soon as the diagnosis is established.",
+            "ru": "Для предварительного насыщения у пациентов с ОКСбпST, направляемых на инвазивную стратегию, назначение тикагрелора (180 мг нагрузка, затем 90 мг 2 раза/сут) или клопидогрела (600 мг нагрузка, затем 75 мг/сут, если тикагрелор не применим) следует рассмотреть сразу после установления диагноза."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_pre_07",
+          "text": {
+            "en": "Cangrelor may be considered in P2Y12-inhibitor naïve patients undergoing PCI.",
+            "ru": "Кангрелор может быть рассмотрен у пациентов, ранее не получавших ингибиторы P2Y12, подвергающихся ЧКВ."
+          },
+          "class": "IIb",
+          "level": "A"
+        },
+        {
+          "id": "r_pre_08",
+          "text": {
+            "en": "GP IIb/IIIa antagonists may be considered in P2Y12-inhibitor naïve patients undergoing PCI.",
+            "ru": "Антагонисты GP IIb/IIIa могут быть рассмотрены у пациентов, ранее не получавших ингибиторы P2Y12, подвергающихся ЧКВ."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r_pre_09",
+          "text": {
+            "en": "Pre-treatment with GP IIb/IIIa antagonists in patients in whom coronary anatomy is not known is not recommended.",
+            "ru": "Предварительное назначение антагонистов GP IIb/IIIa пациентам с неизвестной коронарной анатомией не рекомендуется."
+          },
+          "class": "III",
+          "level": "A"
+        },
+        {
+          "id": "r_pre_10",
+          "text": {
+            "en": "Administration of prasugrel in patients in whom coronary anatomy is not known is not recommended.",
+            "ru": "Назначение прасугрела пациентам до визуализации коронарной анатомии не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-peri-interventional",
+      "title": {
+        "en": "Peri-interventional therapy",
+        "ru": "Перипроцедурная терапия"
+      },
+      "rows": [
+        {
+          "id": "r_peri_01",
+          "text": {
+            "en": "Anticoagulation is recommended for all patients in addition to antiplatelet therapy.",
+            "ru": "Антикоагулянтная терапия рекомендуется всем пациентам в дополнение к антитромбоцитарной терапии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_peri_02",
+          "text": {
+            "en": "It is recommended that anticoagulation is selected according to both ischaemic and bleeding risks, and according to the efficacy–safety profile of the chosen agent.",
+            "ru": "Рекомендуется выбирать антикоагулянт с учетом как ишемического, так и геморрагического риска, а также профиля эффективности и безопасности препарата."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_peri_03",
+          "text": {
+            "en": "UFH is recommended.",
+            "ru": "Нефракционированный гепарин (НФГ) рекомендуется."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_peri_04",
+          "text": {
+            "en": "In patients on fondaparinux, a single bolus UFH (85 IU/kg, or 60 IU in the case of concomitant use of GP IIb/IIIa receptor inhibitors) is indicated.",
+            "ru": "У пациентов, получающих фондапаринукс, показан дополнительный однократный в/в болюс НФГ (85 МЕ/кг или 60 МЕ/кг при одновременном применении ингибиторов GP IIb/IIIa)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_peri_05",
+          "text": {
+            "en": "Enoxaparin should be considered in patients pre-treated with subcutaneous enoxaparin.",
+            "ru": "Эноксапарин следует рассмотреть у пациентов, ранее получавших подкожные инъекции эноксапарина."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r_peri_06",
+          "text": {
+            "en": "Discontinuation of parenteral anticoagulation should be considered immediately after an invasive procedure.",
+            "ru": "Прекращение парентеральной антикоагуляции следует рассмотреть сразу после завершения инвазивной процедуры."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_peri_07",
+          "text": {
+            "en": "Bivalirudin (0.75 mg/kg bolus, followed by 1.75 mg/kg/h for up to 4 h after the procedure) may be considered as an alternative to UFH.",
+            "ru": "Бивалирудин (болюс 0,75 мг/кг с последующей инфузией 1,75 мг/кг/ч до 4 ч после процедуры) может быть рассмотрен в качестве альтернативы НФГ."
+          },
+          "class": "IIb",
+          "level": "A"
+        },
+        {
+          "id": "r_peri_08",
+          "text": {
+            "en": "Crossover of UFH and LMWH is not recommended.",
+            "ru": "Перекрестная замена (crossover) НФГ и НМГ не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

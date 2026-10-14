@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t05-revised-geneva-rule",
+  "guidelineId": "esc-pe-2019",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "The revised Geneva clinical prediction rule for pulmonary embolism",
+    "ru": "Пересмотренная Женевская шкала клинической вероятности тромбоэмболии легочной артерии"
+  },
+  "columns": [
+    {
+      "id": "c_items",
+      "title": {
+        "en": "Items",
+        "ru": "Критерии / Параметры"
+      }
+    },
+    {
+      "id": "c_original",
+      "title": {
+        "en": "Original version points",
+        "ru": "Баллы исходной версии"
+      }
+    },
+    {
+      "id": "c_simplified",
+      "title": {
+        "en": "Simplified version points",
+        "ru": "Баллы упрощенной версии"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-prev-pe-dvt",
+      "cells": [
+        { "text": { "en": "Previous PE or DVT", "ru": "Предшествующая ТЭЛА или ТГВ" } },
+        { "text": { "en": "3", "ru": "3" } },
+        { "text": { "en": "1", "ru": "1" } }
+      ]
+    },
+    {
+      "id": "r02-hr-75-94",
+      "cells": [
+        { "text": { "en": "Heart rate 75–94 b.p.m.", "ru": "ЧСС 75–94 уд/мин" } },
+        { "text": { "en": "3", "ru": "3" } },
+        { "text": { "en": "1", "ru": "1" } }
+      ]
+    },
+    {
+      "id": "r03-hr-gte-95",
+      "cells": [
+        { "text": { "en": "Heart rate ≥95 b.p.m.", "ru": "ЧСС ≥95 уд/мин" } },
+        { "text": { "en": "5", "ru": "5" } },
+        { "text": { "en": "2", "ru": "2" } }
+      ]
+    },
+    {
+      "id": "r04-surgery-fracture",
+      "cells": [
+        { "text": { "en": "Surgery or fracture within the past month", "ru": "Хирургическое вмешательство или перелом в течение предшествующего месяца" } },
+        { "text": { "en": "2", "ru": "2" } },
+        { "text": { "en": "1", "ru": "1" } }
+      ]
+    },
+    {
+      "id": "r05-haemoptysis",
+      "cells": [
+        { "text": { "en": "Haemoptysis", "ru": "Кровохарканье" } },
+        { "text": { "en": "2", "ru": "2" } },
+        { "text": { "en": "1", "ru": "1" } }
+      ]
+    },
+    {
+      "id": "r06-active-cancer",
+      "cells": [
+        { "text": { "en": "Active cancer", "ru": "Активное онкологическое заболевание" } },
+        { "text": { "en": "2", "ru": "2" } },
+        { "text": { "en": "1", "ru": "1" } }
+      ]
+    },
+    {
+      "id": "r07-unilateral-pain",
+      "cells": [
+        { "text": { "en": "Unilateral lower-limb pain", "ru": "Односторонняя боль в нижней конечности" } },
+        { "text": { "en": "3", "ru": "3" } },
+        { "text": { "en": "1", "ru": "1" } }
+      ]
+    },
+    {
+      "id": "r08-deep-palpation-oedema",
+      "cells": [
+        { "text": { "en": "Pain on lower-limb deep venous palpation and unilateral oedema", "ru": "Болезненность при глубокой пальпации вен нижней конечности и односторонний отек" } },
+        { "text": { "en": "4", "ru": "4" } },
+        { "text": { "en": "1", "ru": "1" } }
+      ]
+    },
+    {
+      "id": "r09-age-gt-65",
+      "cells": [
+        { "text": { "en": "Age >65 years", "ru": "Возраст >65 лет" } },
+        { "text": { "en": "1", "ru": "1" } },
+        { "text": { "en": "1", "ru": "1" } }
+      ]
+    },
+    {
+      "id": "r10-three-level-header",
+      "kind": "section",
+      "cells": [
+        { "text": { "en": "Clinical probability: Three-level score", "ru": "Клиническая вероятность: 3-уровневая шкала" }, "colspan": 3 }
+      ]
+    },
+    {
+      "id": "r11-prob-low",
+      "cells": [
+        { "text": { "en": "Low clinical probability", "ru": "Низкая клиническая вероятность" }, "tone": "green" },
+        { "text": { "en": "0–3", "ru": "0–3" } },
+        { "text": { "en": "0–1", "ru": "0–1" } }
+      ]
+    },
+    {
+      "id": "r12-prob-intermediate",
+      "cells": [
+        { "text": { "en": "Intermediate clinical probability", "ru": "Промежуточная клиническая вероятность" }, "tone": "yellow" },
+        { "text": { "en": "4–10", "ru": "4–10" } },
+        { "text": { "en": "2–4", "ru": "2–4" } }
+      ]
+    },
+    {
+      "id": "r13-prob-high",
+      "cells": [
+        { "text": { "en": "High clinical probability", "ru": "Высокая клиническая вероятность" }, "tone": "red" },
+        { "text": { "en": "≥11", "ru": "≥11" } },
+        { "text": { "en": "≥5", "ru": "≥5" } }
+      ]
+    },
+    {
+      "id": "r14-two-level-header",
+      "kind": "section",
+      "cells": [
+        { "text": { "en": "Clinical probability: Two-level score (PE-unlikely vs. PE-likely)", "ru": "Клиническая вероятность: 2-уровневая шкала (ТЭЛА маловероятна / вероятна)" }, "colspan": 3 }
+      ]
+    },
+    {
+      "id": "r15-pe-unlikely",
+      "cells": [
+        { "text": { "en": "PE-unlikely", "ru": "ТЭЛА маловероятна" }, "tone": "green" },
+        { "text": { "en": "0–5", "ru": "0–5" } },
+        { "text": { "en": "0–2", "ru": "0–2" } }
+      ]
+    },
+    {
+      "id": "r16-pe-likely",
+      "cells": [
+        { "text": { "en": "PE-likely", "ru": "ТЭЛА вероятна" }, "tone": "red" },
+        { "text": { "en": "≥6", "ru": "≥6" } },
+        { "text": { "en": "≥3", "ru": "≥3" } }
+      ]
+    }
+  ],
+  "tags": [
+    "geneva-score",
+    "clinical-probability",
+    "pe",
+    "diagnosis",
+    "prediction-rule",
+    "risk-assessment"
+  ]
+}

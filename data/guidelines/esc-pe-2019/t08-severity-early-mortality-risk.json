@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t08-severity-early-mortality-risk",
+  "guidelineId": "esc-pe-2019",
+  "number": "Table 8",
+  "type": "grid",
+  "title": {
+    "en": "Classification of pulmonary embolism severity and the risk of early (in-hospital or 30 day) death",
+    "ru": "Классификация тяжести тромбоэмболии легочной артерии и риска ранней (внутрибольничной или 30-дневной) смерти"
+  },
+  "columns": [
+    {
+      "id": "c_risk_category",
+      "title": {
+        "en": "Early mortality risk",
+        "ru": "Ранний риск летальности"
+      }
+    },
+    {
+      "id": "c_haemodynamic_instability",
+      "title": {
+        "en": "Haemodynamic instability",
+        "ru": "Гемодинамическая нестабильность"
+      }
+    },
+    {
+      "id": "c_clinical_parameters",
+      "title": {
+        "en": "Clinical parameters of PE severity / comorbidity (PESI class III–V or sPESI ≥1)",
+        "ru": "Клинические параметры тяжести ТЭЛА / коморбидность (PESI класс III–V или sPESI ≥1)"
+      }
+    },
+    {
+      "id": "c_rv_dysfunction",
+      "title": {
+        "en": "RV dysfunction on TTE or CTPA",
+        "ru": "Дисфункция ПЖ по ЭхоКГ или КТ-ангиографии"
+      }
+    },
+    {
+      "id": "c_troponin",
+      "title": {
+        "en": "Elevated cardiac troponin levels",
+        "ru": "Повышение уровня сердечных тропонинов"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-high-risk",
+      "cells": [
+        { "text": { "en": "High", "ru": "Высокий" }, "tone": "red" },
+        { "text": { "en": "+", "ru": "+" }, "tone": "red" },
+        { "text": { "en": "(+)", "ru": "(+)" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "red" },
+        { "text": { "en": "(+)", "ru": "(+)" } }
+      ]
+    },
+    {
+      "id": "r02-intermediate-high-risk",
+      "cells": [
+        { "text": { "en": "Intermediate: Intermediate–high", "ru": "Промежуточный: Промежуточно-высокий" }, "tone": "orange" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "yellow" },
+        { "text": { "en": "+", "ru": "+" }, "tone": "yellow" },
+        { "text": { "en": "+", "ru": "+" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r03-intermediate-low-risk",
+      "cells": [
+        { "text": { "en": "Intermediate: Intermediate–low", "ru": "Промежуточный: Промежуточно-низкий" }, "tone": "yellow" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "+", "ru": "+" }, "tone": "yellow" },
+        { "text": { "en": "One (or none) positive", "ru": "Один (или ни одного) положительный" }, "colspan": 2 }
+      ]
+    },
+    {
+      "id": "r04-low-risk",
+      "cells": [
+        { "text": { "en": "Low", "ru": "Низкий" }, "tone": "green" },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Assessment optional; if assessed, negative", "ru": "Оценка опциональна; если оценивался — отрицательный" } }
+      ]
+    }
+  ],
+  "tags": [
+    "severity",
+    "risk-stratification",
+    "early-mortality",
+    "high-risk",
+    "intermediate-risk",
+    "low-risk",
+    "rv-dysfunction",
+    "troponin",
+    "pesi",
+    "pe"
+  ]
+}

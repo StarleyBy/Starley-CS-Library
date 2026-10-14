@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt14-recommendations-antithrombotic-mhv",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 14",
+  "title": {
+    "en": "Recommendations for the management of antithrombotic therapy in patients with a mechanical heart valve",
+    "ru": "Рекомендации по антитромботической терапии у пациентов с механическим протезом клапана сердца"
+  },
+  "tags": [
+    "vhd",
+    "mhv",
+    "antithrombotic",
+    "anticoagulation",
+    "vka",
+    "inr-self-monitoring",
+    "inr-targets",
+    "asa",
+    "doac-contraindicated",
+    "dapt"
+  ],
+  "sections": [
+    {
+      "id": "sec-antithrombotic-mhv",
+      "title": {
+        "en": "Antithrombotic therapy in patients with an MHV",
+        "ru": "Антитромботическая терапия у пациентов с механическим протезом"
+      },
+      "rows": [
+        {
+          "id": "r01-initiation-bridging-vka-postop",
+          "text": {
+            "en": "Following cardiac surgery with MHV implantation, it is recommended to start UFH or LMWH bridging and VKA within 24 h, or as soon as considered safe.",
+            "ru": "После кардиохирургической операции с имплантацией механического протеза (MHV) рекомендуется начать «мост»-терапию НФГ или НМГ и прием АВК в течение первых 24 часов или как только это будет признано безопасным."
+          },
+          "refs": [815, 816, 832, 833, 834],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02-lifelong-vka-mhv",
+          "text": {
+            "en": "Lifelong OAC with a VKA is recommended for all patients with MHVs to prevent thromboembolic complications.",
+            "ru": "Пожизненный прием пероральных антикоагулянтов (АВК) рекомендуется всем пациентам с механическими протезами клапанов для профилактики тромбоэмболических осложнений."
+          },
+          "refs": [821, 822, 823, 835, 836, 837, 838],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03-inr-self-monitoring",
+          "text": {
+            "en": "INR self-monitoring and self-management are recommended over standard monitoring in selected, trained patients to improve efficacy.",
+            "ru": "Самоконтроль и самостоятельная коррекция дозы по МНО (INR self-monitoring/self-management) рекомендуются вместо стандартного лабораторного контроля у отобранных обученных пациентов для повышения эффективности."
+          },
+          "refs": [827, 828],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04-inr-targets-factors",
+          "text": {
+            "en": "It is recommended that INR targets are based on the type and position of the MHV, patient risk factors, and comorbidities.^[c]",
+            "ru": "Рекомендуется, чтобы целевые значения МНО основывались на типе и позиции механического протеза, факторах риска пациента и сопутствующих заболеваниях.^[c]"
+          },
+          "refs": [818, 819, 835, 836, 837, 838],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r05-patient-education",
+          "text": {
+            "en": "Patient education is recommended to improve the quality of OAC.",
+            "ru": "Обучение пациентов рекомендуется для повышения качества и приверженности к антикоагулянтной терапии."
+          },
+          "refs": [827, 828, 829, 830],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r06-add-asa-concomitant-atherosclerosis",
+          "text": {
+            "en": "The addition of low-dose ASA (75–100 mg/day) to VKA should be considered in selected patients with MHVs in case of concomitant symptomatic atherosclerotic disease considering the individual bleeding risk profile.",
+            "ru": "Добавление низких доз аспирина (75–100 мг/сут) к АВК следует рассматривать у отдельных пациентов с MHV при наличии сопутствующего симптомного атеросклеротического заболевания с учетом индивидуального профиля риска кровотечений."
+          },
+          "refs": [818],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r07-thromboembolism-adequate-inr-stepup",
+          "text": {
+            "en": "Either an increase in INR target or the addition of low-dose ASA (75–100 mg/day) should be considered in patients with MHVs who develop a major thromboembolic complication despite documented adequate INR.",
+            "ru": "Повышение целевого уровня МНО либо добавление низких доз аспирина (75–100 мг/сут) следует рассматривать у пациентов с MHV, у которых развилось тяжелое тромбоэмболическое осложнение, несмотря на подтвержденный адекватный уровень МНО."
+          },
+          "refs": [818],
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08-doac-dapt-contraindicated-mhv",
+          "text": {
+            "en": "DOACs and/or DAPT are not recommended to prevent thrombosis in patients with an MHV.",
+            "ru": "ПОАК (DOAC) и/или ДАТТ (DAPT) не рекомендуются для профилактики тромбоза у пациентов с механическим протезом клапана сердца."
+          },
+          "refs": [821, 822, 823, 824],
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "See Table 10 for details.",
+      "ru": "Подробные параметры представлены в Таблице 10."
+    }
+  }
+}

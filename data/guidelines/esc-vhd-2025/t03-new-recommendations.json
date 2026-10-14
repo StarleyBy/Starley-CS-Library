@@ -1,0 +1,419 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.t03-new-recommendations",
+  "guidelineId": "esc-vhd-2025",
+  "number": "Table 3",
+  "type": "grid",
+  "title": {
+    "en": "New recommendations in 2025 ESC/EACTS Guidelines for the management of valvular heart disease",
+    "ru": "Новые рекомендации в руководстве ESC/EACTS 2025 по ведению клапанных пороков сердца"
+  },
+  "columns": [
+    {
+      "id": "c_section",
+      "title": {
+        "en": "Section / Clinical Domain",
+        "ru": "Раздел / Клиническая область"
+      }
+    },
+    {
+      "id": "c_rec",
+      "title": {
+        "en": "New Recommendation",
+        "ru": "Новая рекомендация"
+      }
+    },
+    {
+      "id": "c_class",
+      "title": {
+        "en": "Class",
+        "ru": "Класс"
+      }
+    },
+    {
+      "id": "c_level",
+      "title": {
+        "en": "Level",
+        "ru": "Уровень"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-cad-omission-angiography",
+      "cells": [
+        { "text": { "en": "Diagnosis of CAD — Section 6.1", "ru": "Диагностика ИБС — Раздел 6.1" } },
+        {
+          "text": {
+            "en": "Omission of invasive coronary angiography should be considered in TAVI candidates, if procedural planning CT angiography is of sufficient quality to rule out significant CAD.",
+            "ru": "Отказ от инвазивной коронарографии следует рассматривать у кандидатов на TAVI, если КТ-ангиография при планировании вмешательства имеет достаточное качество для исключения гемодинамически значимой ИБС."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r02-cad-pci-before-tavi",
+      "cells": [
+        { "text": { "en": "Diagnosis of CAD — Section 6.1", "ru": "Диагностика ИБС — Раздел 6.1" } },
+        {
+          "text": {
+            "en": "PCI should be considered in patients with a primary indication to undergo TAVI and ≥90% coronary artery stenosis in segments with a reference diameter ≥2.5 mm.",
+            "ru": "ЧКВ следует рассматривать у пациентов с первичными показаниями к TAVI и стенозом коронарной артерии ≥90% в сегментах с референсным диаметром ≥2,5 мм."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r03-ar-tavi-ineligible-surgery",
+      "cells": [
+        { "text": { "en": "Severe aortic regurgitation — Section 7.4", "ru": "Тяжелая аортальная регургитация — Раздел 7.4" } },
+        {
+          "text": {
+            "en": "TAVI may be considered for the treatment of severe AR in symptomatic patients ineligible for surgery according to the Heart Team, if the anatomy is suitable.",
+            "ru": "TAVI может рассматриваться для лечения тяжелой АР у симптомных пациентов, не подлежащих хирургическому лечению по решению кардиокоманды (Heart Team), при подходящей анатомии."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r04-as-asymptomatic-high-gradient",
+      "cells": [
+        { "text": { "en": "Severe aortic stenosis — Section 8.5", "ru": "Тяжелый аортальный стеноз — Раздел 8.5" } },
+        {
+          "text": {
+            "en": "Intervention should be considered in asymptomatic patients (confirmed by a normal exercise test, if feasible) with severe, high-gradient AS and LVEF ≥50%, as an alternative to close active surveillance, if the procedural risk is low.",
+            "ru": "Вмешательство следует рассматривать у бессимптомных пациентов (подтверждено нормальным нагрузочным тестом) с тяжелым высокоградиентным АС и ФВ ЛЖ ≥50% в качестве альтернативы активному наблюдению, если процедурный риск низкий."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "A", "ru": "A" } }
+      ]
+    },
+    {
+      "id": "r05-as-bav-stenosis-tavi",
+      "cells": [
+        { "text": { "en": "Severe aortic stenosis — Section 8.5", "ru": "Тяжелый аортальный стеноз — Раздел 8.5" } },
+        {
+          "text": {
+            "en": "TAVI may be considered for the treatment of severe BAV stenosis in patients at increased surgical risk, if the anatomy is suitable.",
+            "ru": "TAVI может рассматриваться для лечения тяжелого стеноза двустворчатого аортального клапана (BAV) у пациентов с повышенным хирургическим риском при подходящей анатомии."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r06-pmr-asymptomatic-criteria",
+      "cells": [
+        { "text": { "en": "Severe primary mitral regurgitation — Section 9.1", "ru": "Тяжелая первичная митральная регургитация — Раздел 9.1" } },
+        {
+          "text": {
+            "en": "Surgical MV repair is recommended in low-risk asymptomatic patients with severe PMR without LV dysfunction (LVESD <40 mm, LVESDi <20 mm/m², and LVEF >60%) when a durable result is likely, if at least three of the following criteria are fulfilled:\n• AF\n• SPAP at rest >50 mmHg\n• LA dilatation (LAVI ≥60 mL/m² or LA diameter ≥55 mm)\n• Concomitant secondary TR ≥ moderate.",
+            "ru": "Хирургическая пластика МК рекомендуется у бессимптомных пациентов низкого риска с тяжелой ПМР без дисфункции ЛЖ (КСР <40 мм, КСРи <20 мм/м², ФВ ЛЖ >60%) при высокой вероятности стойкого результата, если соблюдены как минимум 3 из следующих критериев:\n• ФП\n• СДЛА в покое >50 мм рт. ст.\n• Дилатация ЛП (LAVI ≥60 мл/м² или диаметр ЛП ≥55 мм)\n• Сопутствующая вторичная ТР ≥ умеренной."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r07-pmr-minimally-invasive",
+      "cells": [
+        { "text": { "en": "Severe primary mitral regurgitation — Section 9.1", "ru": "Тяжелая первичная митральная регургитация — Раздел 9.1" } },
+        {
+          "text": {
+            "en": "Minimally invasive MV surgery may be considered at experienced centres to reduce the length of stay and accelerate recovery.",
+            "ru": "Миниинвазивная хирургия МК может рассматриваться в опытных центрах для сокращения длительности госпитализации и ускорения восстановления."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r08-smr-atrial-mv-surgery",
+      "cells": [
+        { "text": { "en": "Secondary mitral regurgitation — Section 9.2", "ru": "Вторичная митральная регургитация — Раздел 9.2" } },
+        {
+          "text": {
+            "en": "MV surgery, surgical AF ablation, if indicated, and LAAO should be considered in symptomatic patients with severe atrial SMR under optimal medical therapy.",
+            "ru": "Хирургическое вмешательство на МК, хирургическая аблация ФП (по показаниям) и окклюзия/ушивание ушка ЛП должны рассматриваться у симптомных пациентов с тяжелой предсердной ВМР на фоне ОМТ."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r09-smr-atrial-teer",
+      "cells": [
+        { "text": { "en": "Secondary mitral regurgitation — Section 9.2", "ru": "Вторичная митральная регургитация — Раздел 9.2" } },
+        {
+          "text": {
+            "en": "TEER may be considered in symptomatic patients with severe atrial SMR not eligible for surgery after optimization of medical therapy including rhythm control, when appropriate.",
+            "ru": "Транскатетерная пластика край-в-край (TEER) может рассматриваться у симптомных пациентов с тяжелой предсердной ВМР, не подлежащих хирургии, после оптимизации медикаментозной терапии, включая контроль ритма."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r10-smr-moderate-cabg",
+      "cells": [
+        { "text": { "en": "Secondary mitral regurgitation — Section 9.2", "ru": "Вторичная митральная регургитация — Раздел 9.2" } },
+        {
+          "text": {
+            "en": "MV surgery may be considered in patients with moderate SMR undergoing CABG.",
+            "ru": "Вмешательство на МК может рассматриваться у пациентов с умеренной ВМР, которым выполняется АКШ."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r11-ms-mac-tmvi",
+      "cells": [
+        { "text": { "en": "Mitral stenosis — Section 10.3", "ru": "Митральный стеноз — Раздел 10.3" } },
+        {
+          "text": {
+            "en": "TMVI may be considered in symptomatic patients with extensive MAC and severe MV dysfunction at experienced Heart Valve Centres with expertise in complex MV surgery and transcatheter interventions.",
+            "ru": "Транскатетерная имплантация митрального клапана (TMVI) может рассматриваться у симптомных пациентов с массивным кальцинозом митрального кольца (MAC) и тяжелой дисфункцией МК в опытных клапанных центрах."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r12-tr-multidisciplinary-evaluation",
+      "cells": [
+        { "text": { "en": "Tricuspid regurgitation — Section 11.4", "ru": "Трикуспидальная регургитация — Раздел 11.4" } },
+        {
+          "text": {
+            "en": "Careful evaluation of TR aetiology, stage of the disease (i.e. degree of TR severity, RV and LV dysfunction, and PH), patient operative risk, and likelihood of recovery by a multidisciplinary Heart Team is recommended in patients with severe TR prior to intervention.",
+            "ru": "Тщательная оценка этиологии ТР, стадии заболевания (степени ТР, дисфункции ПЖ и ЛЖ, ЛГ), операционного риска и вероятности восстановления мультидисциплинарной кардиокомандой рекомендуется у пациентов с тяжелой ТР до вмешательства."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r13-concomitant-severe-mr-surgery",
+      "cells": [
+        { "text": { "en": "Concomitant severe MR — Section 13.3", "ru": "Сопутствующая тяжелая МР — Раздел 13.3" } },
+        {
+          "text": {
+            "en": "MV surgery is recommended in patients with severe MR undergoing surgery for another valve.",
+            "ru": "Операция на МК рекомендуется пациентам с тяжелой МР, оперируемым по поводу порока другого клапана."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r14-mixed-moderate-as-ar-symptomatic",
+      "cells": [
+        { "text": { "en": "Mixed moderate AS and moderate AR — Section 13.3", "ru": "Сочетанный умеренный АС и умеренная АР — Раздел 13.3" } },
+        {
+          "text": {
+            "en": "Intervention is recommended in symptomatic patients with mixed moderate AV stenosis and moderate regurgitation, and a mean gradient ≥40 mmHg or Vmax ≥4.0 m/s.",
+            "ru": "Вмешательство рекомендуется симптомным пациентам с сочетанным умеренным стенозом и умеренной регургитацией АК при среднем градиенте ≥40 мм рт. ст. или Vmax ≥4,0 м/с."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r15-mixed-moderate-as-ar-asymptomatic",
+      "cells": [
+        { "text": { "en": "Mixed moderate AS and moderate AR — Section 13.3", "ru": "Сочетанный умеренный АС и умеренная АР — Раздел 13.3" } },
+        {
+          "text": {
+            "en": "Intervention is recommended in asymptomatic patients with mixed moderate AV stenosis and moderate regurgitation, with Vmax ≥4.0 m/s and LVEF <50% not attributable to other cardiac disease.",
+            "ru": "Вмешательство рекомендуется бессимптомным пациентам с сочетанным умеренным стенозом и умеренной регургитацией АК при Vmax ≥4,0 м/с и ФВ ЛЖ <50%, не связанной с другой патологией сердца."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r16-prosthesis-mhv-selection",
+      "cells": [
+        { "text": { "en": "Prosthetic valve selection — Section 14.1", "ru": "Выбор протеза клапана — Раздел 14.1" } },
+        {
+          "text": {
+            "en": "An MHV should be considered in patients with an estimated long life expectancy, if there are no contraindications for long-term OAC.",
+            "ru": "Механический протез (MHV) следует рассматривать у пациентов с предполагаемой большой продолжительностью жизни при отсутствии противопоказаний к длительной антикоагуляции."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r17-antithrombotic-mhv-inr-target",
+      "cells": [
+        { "text": { "en": "Antithrombotic therapy in MHV — Section 14.3", "ru": "Антитромботическая терапия при MHV — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "It is recommended that INR targets are based on the type and position of MHV, patient's risk factors, and comorbidities.\nPatient education is recommended to improve the quality of OAC.",
+            "ru": "Рекомендуется устанавливать целевой уровень МНО с учетом типа и позиции механического протеза, факторов риска и сопутствующих заболеваний пациента.\nРекомендуется обучение пациентов для повышения качества антикоагуляции."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "A", "ru": "A" } }
+      ]
+    },
+    {
+      "id": "r18-antithrombotic-noncardiac-surgery-continue",
+      "cells": [
+        { "text": { "en": "MHV undergoing non-cardiac surgery — Section 14.3", "ru": "MHV при внесердечных операциях — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "Continuing VKA treatment is recommended in patients with an MHV for minor or minimally invasive interventions associated with no or minimal bleeding.",
+            "ru": "Продолжение приема АВК рекомендуется пациентам с механическим протезом при малых или миниинвазивных вмешательствах с минимальным риском кровотечения."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "A", "ru": "A" } }
+      ]
+    },
+    {
+      "id": "r19-antithrombotic-noncardiac-surgery-interrupt",
+      "cells": [
+        { "text": { "en": "MHV undergoing non-cardiac surgery — Section 14.3", "ru": "MHV при внесердечных операциях — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "Interruption (3–4 days before surgery), and resumption of VKA without bridging, may be considered to reduce bleeding in patients with new-generation aortic MHV and no other thromboembolic risk factors undergoing major non-cardiac surgery or invasive procedures.",
+            "ru": "Прерывание (за 3–4 дня до операции) и возобновление приема АВК без мост-терапии может рассматриваться для снижения кровотечений у пациентов с аортальным MHV нового поколения без факторов риска тромбоэмболий при больших внесердечных операциях."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r20-bhv-lifelong-asa",
+      "cells": [
+        { "text": { "en": "Surgical BHV without OAC indication — Section 14.3", "ru": "Биопротез без показаний к ОАК — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "Lifelong low-dose ASA (75–100 mg/day) may be considered 3 months after surgical implantation of an aortic or mitral BHV in patients without clear indication for OAC.",
+            "ru": "Пожизненный прием низких доз аспирина (75–100 мг/сут) может рассматриваться через 3 месяца после хирургической имплантации аортального или митрального биопротеза при отсутствии прямых показаний к ОАК."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r21-tavi-dapt-not-recommended",
+      "cells": [
+        { "text": { "en": "TAVI without OAC indication — Section 14.3", "ru": "TAVI без показаний к ОАК — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "DAPT is not recommended to prevent thrombosis after TAVI, unless there is a clear indication.",
+            "ru": "Двойная антитромбоцитарная терапия (ДАТТ) не рекомендуется для профилактики тромбоза после TAVI при отсутствии четких показаний."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r22-repair-no-oac-asa",
+      "cells": [
+        { "text": { "en": "Surgical repair without OAC indication — Section 14.3", "ru": "Пластика клапана без показаний к ОАК — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "Low-dose ASA (75–100 mg/day) may be considered after surgical MV or TV repair in preference to OAC in patients without clear indication for OAC and at high bleeding risk.",
+            "ru": "Низкие дозы аспирина (75–100 мг/сут) могут рассматриваться после хирургической пластики МК или ТК предпочтительнее ОАК у пациентов без прямых показаний к ОАК и с высоким риском кровотечений."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r23-bhv-oac-continuation",
+      "cells": [
+        { "text": { "en": "Surgical BHV with OAC indication — Section 14.3", "ru": "Биопротез с показаниями к ОАК — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "OAC continuation is recommended in patients with a clear indication for OAC undergoing surgical BHV implantation.\nDOAC continuation may be considered after surgical BHV implantation in patients with an indication for DOAC.",
+            "ru": "Продолжение ОАК рекомендуется пациентам с прямыми показаниями к ОАК, оперируемым по поводу имплантации биопротеза (Класс I, Уровень B).\nПродолжение приема ПОАК может рассматриваться после имплантации биопротеза у пациентов с показаниями к ПОАК (Класс IIb, Уровень B)."
+          }
+        },
+        { "text": { "en": "I / IIb", "ru": "I / IIb" }, "tone": "green" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r24-repair-oac-continuation",
+      "cells": [
+        { "text": { "en": "Surgical repair with indication for antithrombotic — Section 14.3", "ru": "Пластика с показаниями к антитромботической терапии — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "Continuation of OAC or antiplatelet therapy should be considered after surgical valve repair in patients with a clear indication for an antithrombotic therapy.",
+            "ru": "Продолжение ОАК или антитромбоцитарной терапии следует рассматривать после пластики клапана у пациентов с прямыми показаниями к антитромботической терапии."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r25-mhv-failure-reoperation",
+      "cells": [
+        { "text": { "en": "Mechanical heart valve failure — Section 14.4", "ru": "Дисфункция механического протеза — Раздел 14.4" } },
+        {
+          "text": {
+            "en": "Reoperation is recommended in symptomatic patients with significant valve dysfunction not attributable to valve thrombosis.",
+            "ru": "Реоперация рекомендуется симптомным пациентам со значимой дисфункцией клапана, не связанной с его тромбозом."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r26-valve-thrombosis-toe-4dct",
+      "cells": [
+        { "text": { "en": "Management of valve thrombosis — Section 14.4", "ru": "Тромбоз клапана — Раздел 14.4" } },
+        {
+          "text": {
+            "en": "TOE and/or 4D-CT are recommended in patients with suspected valve thrombosis to confirm the diagnosis.",
+            "ru": "Чреспищеводная эхокардиография и/или 4D-КТ рекомендуются пациентам с подозрением на тромбоз клапана для подтверждения диагноза."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    }
+  ],
+  "tags": [
+    "vhd",
+    "new-recommendations",
+    "tavi",
+    "pmr",
+    "smr",
+    "teer",
+    "mhv",
+    "bhv",
+    "anticoagulation",
+    "tricuspid"
+  ]
+}

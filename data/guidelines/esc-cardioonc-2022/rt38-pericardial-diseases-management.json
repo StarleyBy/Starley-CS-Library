@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt38-pericardial-diseases-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 38",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 38 — Recommendations for the management of pericardial diseases in patients receiving anticancer treatment",
+    "ru": "Таблица рекомендаций 38 — Рекомендации по ведению заболеваний перикарда у пациентов, получающих противоопухолевое лечение"
+  },
+  "tags": [
+    "cardio-oncology",
+    "pericarditis",
+    "pericardial-effusion",
+    "pericardial-window",
+    "ici",
+    "colchicine",
+    "prednisolone",
+    "cmr"
+  ],
+  "source": {
+    "page": 80
+  },
+  "sections": [
+    {
+      "id": "sec01-general",
+      "title": {
+        "en": "General",
+        "ru": "Общие положения"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Diagnosis and management of acute pericarditis in patients with cancer based on the 2015 ESC Guidelines for the diagnosis and management of pericardial diseases is recommended and a multidisciplinary discussion is needed before interrupting cancer therapy.",
+            "ru": "Диагностика и лечение острого перикардита у онкологических больных на основе рекомендаций ESC 2015 по заболеваниям перикарда рекомендуются; перед прерыванием противоопухолевой терапии необходим мультидисциплинарный консилиум."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "A surgical pericardial window should be considered if the percutaneous approach is not feasible or in cases of recurrent malignant pericardial effusions.",
+            "ru": "Хирургическое создание перикардиального окна следует рассмотреть, если чрескожный доступ невозможен или при рецидивирующих злокачественных выпотах в полость перикарда."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Intrapericardial instillation of cytostatic or sclerosing agents may be considered for prevention of recurrence.",
+            "ru": "Внутриперикардиальное введение цитостатиков или склерозирующих препаратов может быть рассмотрено для предотвращения рецидивов экссудативного перикардита."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec02-ici-pericarditis",
+      "title": {
+        "en": "Diagnosis and management of ICI-associated pericarditis",
+        "ru": "Диагностика и ведение перикардита, ассоциированного с ICI"
+      },
+      "rows": [
+        {
+          "id": "r04",
+          "text": {
+            "en": "Multimodality CV imaging (echocardiography, CMR ± CT), ECG and measurement of cardiac biomarkers are recommended to confirm the diagnosis, assess the haemodynamic consequences of pericardial disease, and rule out associated myocarditis.",
+            "ru": "Мультимодальная сердечно-сосудистая визуализация (эхокардиография, МРТ сердца ± КТ), ЭКГ и определение сердечных биомаркеров рекомендуются для подтверждения диагноза, оценки гемодинамической значимости выпота и исключения сопутствующего миокардита."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Prednisolone and colchicine are recommended for patients with ICI-associated pericarditis.",
+            "ru": "Преднизолон и колхицин рекомендуются пациентам с перикардитом, ассоциированным с приемом ICI."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Interruption of ICI treatment in patients with confirmed ICI-associated pericarditis with moderate-to-severe pericardial effusion is recommended.",
+            "ru": "Прекращение терапии ICI рекомендуется пациентам с подтвержденным ICI-ассоциированным перикардитом при наличии умеренного или выраженного выпота в перикарде."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "A multidisciplinary discussion is recommended before restarting ICI treatment.",
+            "ru": "Мультидисциплинарный консилиум рекомендуется перед решением о возможном возобновлении терапии ICI."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

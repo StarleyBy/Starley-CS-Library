@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.t11-childhood-cancer-survivors-risk",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Table 11",
+  "type": "grid",
+  "title": {
+    "en": "Table 11 — Risk categories for asymptomatic adults who are childhood and adolescent cancer survivors",
+    "ru": "Таблица 11 — Категории риска для бессимптомных взрослых лиц, перенесших онкологические заболевания в детском и подростковом возрасте"
+  },
+  "tags": [
+    "cardio-oncology",
+    "childhood-cancer",
+    "cancer-survivors",
+    "radiotherapy",
+    "doxorubicin",
+    "mhd",
+    "long-term-risk"
+  ],
+  "source": {
+    "page": 84
+  },
+  "columns": [
+    {
+      "id": "c_risk_category",
+      "title": {
+        "en": "Risk category",
+        "ru": "Категория риска"
+      }
+    },
+    {
+      "id": "c_rt_dose",
+      "title": {
+        "en": "RT dose (Gy MHD)",
+        "ru": "Доза лучевой терапии (Гр MHD)"
+      }
+    },
+    {
+      "id": "c_doxo_dose",
+      "title": {
+        "en": "Total cumulative doxorubicin dose (mg/m²)",
+        "ru": "Кумулятивная доза доксорубицина (мг/м²)"
+      }
+    },
+    {
+      "id": "c_combo_rt",
+      "title": {
+        "en": "Combination therapy: RT dose (Gy MHD)",
+        "ru": "Комбинированная терапия: доза ЛТ (Гр MHD)"
+      }
+    },
+    {
+      "id": "c_combo_doxo",
+      "title": {
+        "en": "Combination therapy: Doxorubicin (mg/m²)",
+        "ru": "Комбинированная терапия: Доксорубицин (мг/м²)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-very-high",
+      "cells": [
+        {
+          "text": {
+            "en": "Very high risk",
+            "ru": "Очень высокий риск"
+          }
+        },
+        {
+          "text": {
+            "en": ">25 Gy MHD (or prescribed RT ≥35 Gy to volume exposing heart if MHD unavailable)",
+            "ru": ">25 Гр MHD (или назначенная ЛТ ≥35 Гр при отсутствии MHD)"
+          }
+        },
+        {
+          "text": {
+            "en": "≥400 mg/m²",
+            "ru": "≥400 мг/м²"
+          }
+        },
+        {
+          "text": {
+            "en": ">15 Gy MHD",
+            "ru": ">15 Гр MHD"
+          }
+        },
+        {
+          "text": {
+            "en": "≥100 mg/m²",
+            "ru": "≥100 мг/м²"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-high",
+      "cells": [
+        {
+          "text": {
+            "en": "High risk",
+            "ru": "Высокий риск"
+          }
+        },
+        {
+          "text": {
+            "en": ">15 to 25 Gy MHD",
+            "ru": ">15 до 25 Гр MHD"
+          }
+        },
+        {
+          "text": {
+            "en": "250–399 mg/m²",
+            "ru": "250–399 мг/м²"
+          }
+        },
+        {
+          "text": {
+            "en": "5–15 Gy MHD (or prescribed RT 15–34 Gy if MHD unavailable)",
+            "ru": "5–15 Гр MHD (или назначенная ЛТ 15–34 Гр при отсутствии MHD)"
+          }
+        },
+        {
+          "text": {
+            "en": "≥100 mg/m²",
+            "ru": "≥100 мг/м²"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-moderate",
+      "cells": [
+        {
+          "text": {
+            "en": "Moderate risk",
+            "ru": "Умеренный риск"
+          }
+        },
+        {
+          "text": {
+            "en": "5–15 Gy MHD (or prescribed RT 15–34 Gy if MHD unavailable)",
+            "ru": "5–15 Гр MHD (или назначенная ЛТ 15–34 Гр при отсутствии MHD)"
+          }
+        },
+        {
+          "text": {
+            "en": "100–249 mg/m²",
+            "ru": "100–249 мг/м²"
+          }
+        },
+        {
+          "text": {
+            "en": "<5 Gy MHD (or prescribed RT <15 Gy if MHD unavailable)",
+            "ru": "<5 Гр MHD (или назначенная ЛТ <15 Гр при отсутствии MHD)"
+          }
+        },
+        {
+          "text": {
+            "en": "≥100 mg/m²",
+            "ru": "≥100 мг/м²"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-low",
+      "cells": [
+        {
+          "text": {
+            "en": "Low risk",
+            "ru": "Низкий риск"
+          }
+        },
+        {
+          "text": {
+            "en": "<5 Gy MHD (or prescribed RT <15 Gy if MHD unavailable)",
+            "ru": "<5 Гр MHD (или назначенная ЛТ <15 Гр при отсутствии MHD)"
+          }
+        },
+        {
+          "text": {
+            "en": "<100 mg/m²",
+            "ru": "<100 мг/м²"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    }
+  ]
+}

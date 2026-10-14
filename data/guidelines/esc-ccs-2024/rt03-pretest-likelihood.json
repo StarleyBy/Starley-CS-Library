@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt03-pretest-likelihood",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 3",
+  "title": {
+    "en": "Recommendations for estimating, adjusting and reclassifying the likelihood of obstructive atherosclerotic coronary artery disease in the initial diagnostic management of individuals with suspected chronic coronary syndrome",
+    "ru": "Рекомендации по оценке, корректировке и реклассификации вероятности обструктивной атеросклеротической болезни коронарных артерий при первичной диагностике лиц с подозрением на хронический коронарный синдром"
+  },
+  "tags": [
+    "ccs",
+    "pretest-likelihood",
+    "risk-factor-weighted",
+    "cacs",
+    "exercise-ecg",
+    "atherosclerosis-screening"
+  ],
+  "source": {
+    "page": 30
+  },
+  "sections": [
+    {
+      "id": "sec-likelihood-estimation",
+      "title": {
+        "en": "Estimating and adjusting likelihood of obstructive CAD",
+        "ru": "Оценка и корректировка вероятности обструктивной ИБС"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended to estimate the pre-test likelihood of obstructive epicardial CAD using the Risk Factor-weighted Clinical Likelihood model.",
+            "ru": "Рекомендуется оценивать предтестовую вероятность обструктивной эпикардиальной ИБС с помощью модели клинической вероятности, взвешенной по факторам риска (Risk Factor-weighted Clinical Likelihood model)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "It is recommended to use additional clinical data (e.g. examination of peripheral arteries, resting ECG, resting echocardiography, presence of vascular calcifications on previously performed imaging tests) to adjust the estimate yielded by the Risk Factor-weighted Clinical Likelihood model.",
+            "ru": "Рекомендуется использовать дополнительные клинические данные (исследование периферических артерий, ЭКГ покоя, ЭхоКГ покоя, наличие сосудистого кальциноза по ранее выполненным лучевым исследованиям) для корректировки вероятности, полученной по модели Risk Factor-weighted Clinical Likelihood."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In individuals with a very low (≤5%) pre-test likelihood of obstructive CAD, deferral of further diagnostic tests should be considered.",
+            "ru": "У лиц с очень низкой (≤5%) предтестовой вероятностью обструктивной ИБС следует рассмотреть отказ от проведения дальнейших диагностических тестов."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In individuals with a low (>5%–15%) pre-test likelihood of obstructive CAD, CACS should be considered to reclassify subjects and to identify more individuals with very low (≤5%) CACS-weighted clinical likelihood.",
+            "ru": "У лиц с низкой (>5%–15%) предтестовой вероятностью обструктивной ИБС следует рассмотреть определение индекса коронарного кальция (CACS) для реклассификации пациентов и выявления большей группы лиц с очень низкой (≤5%) вероятностью, взвешенной по CACS."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In individuals with an initially low (>5%–15%) likelihood of obstructive CAD, exercise ECG and detection of atherosclerotic disease in non-coronary arteries may be considered to adjust the pre-test likelihood estimate.",
+            "ru": "У лиц с исходно низкой (>5%–15%) вероятностью обструктивной ИБС нагрузочная ЭКГ (стресс-ЭКГ) и выявление атеросклеротического поражения некоронарных артерий могут быть рассмотрены для уточнения оценки предтестовой вероятности."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

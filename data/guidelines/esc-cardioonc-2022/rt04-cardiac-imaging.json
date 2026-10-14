@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt04-cardiac-imaging",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 4",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 4 — Recommendations for cardiac imaging modalities in patients with cancer",
+    "ru": "Таблица рекомендаций 4 — Рекомендации по методам визуализации сердца у пациентов с онкологическими заболеваниями"
+  },
+  "tags": [
+    "cardio-oncology",
+    "imaging",
+    "echocardiography",
+    "3d-echo",
+    "gls",
+    "cmr",
+    "muga",
+    "lvef"
+  ],
+  "sections": [
+    {
+      "id": "sec01",
+      "title": {
+        "en": "General imaging recommendations",
+        "ru": "Общие рекомендации по визуализации сердца"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Echocardiography is recommended as the first-line modality for the assessment of cardiac function in patients with cancer.",
+            "ru": "Эхокардиография рекомендуется как метод первой линии для оценки функции сердца у пациентов с онкологическими заболеваниями."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "3D echocardiography is recommended as the preferred echocardiographic modality to measure LVEF.",
+            "ru": "Трехмерная эхокардиография рекомендуется как предпочтительный эхокардиографический метод для измерения ФВ ЛЖ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "GLS is recommended in all patients with cancer having echocardiography, if available.",
+            "ru": "Оценка глобальной продольной деформации (GLS) рекомендуется всем пациентам с онкологическими заболеваниями при проведении эхокардиографии (при технической доступности)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "CMR should be considered for the assessment of cardiac function when echocardiography is unavailable or non-diagnostic.",
+            "ru": "МРТ сердца следует рассмотреть для оценки функции сердца в случаях, когда эхокардиография недоступна или неинформативна."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "MUGA may be considered when TTE is not diagnostic and CMR is not available.",
+            "ru": "Радиоизотопная вентрикулография (MUGA) может быть рассмотрена, если трансторакальная ЭхоКГ неинформативна, а МРТ сердца недоступна."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec02",
+      "title": {
+        "en": "Baseline cardiac imaging prior to potentially cardiotoxic therapies",
+        "ru": "Исходная визуализация сердца перед потенциально кардиотоксической терапией"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "Baseline comprehensive TTE is recommended in all patients with cancer at high risk and very high risk of CV toxicity before starting anticancer therapy (except asymptomatic patients referred to BCR-ABL therapy where baseline TTE should be considered).",
+            "ru": "Исходная комплексная трансторакальная ЭхоКГ рекомендуется всем пациентам с онкологическими заболеваниями высокого и очень высокого риска кардиотоксичности перед началом противоопухолевой терапии (за исключением бессимптомных пациентов перед терапией ингибиторами BCR-ABL, где исходную ЭхоКГ следует рассмотреть)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

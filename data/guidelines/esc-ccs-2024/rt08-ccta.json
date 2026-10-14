@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt08-ccta",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 8",
+  "title": {
+    "en": "Recommendations for non-invasive anatomical imaging tests in the initial diagnostic management of individuals with suspected chronic coronary syndrome — coronary computed tomography angiography, if available, and supported by local expertise",
+    "ru": "Рекомендации по неинвазивным анатомическим методам визуализации при первичной диагностике лиц с подозрением на хронический коронарный синдром — КТ-коронарография (CCTA)"
+  },
+  "tags": [
+    "ccs",
+    "ccta",
+    "computed-tomography",
+    "anatomical-imaging",
+    "mace",
+    "contraindications",
+    "renal-failure"
+  ],
+  "source": {
+    "page": 34
+  },
+  "sections": [
+    {
+      "id": "sec-ccta-general",
+      "title": {
+        "en": "Coronary computed tomography angiography (CCTA)",
+        "ru": "КТ-коронарография (CCTA)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In individuals with suspected CCS and low or moderate (>5%–50%) pre-test likelihood of obstructive CAD, CCTA is recommended to diagnose obstructive CAD and to estimate the risk of MACE.",
+            "ru": "У лиц с подозрением на ХКС и низкой или умеренной (>5%–50%) предтестовой вероятностью обструктивной ИБС рекомендуется КТ-коронарография (CCTA) для диагностики обструктивной ИБС и оценки риска больших сердечно-сосудистых событий (MACE)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "CCTA is recommended in individuals with low or moderate (>5%–50%) pre-test likelihood of obstructive CAD to refine diagnosis if another non-invasive test is non-diagnostic.",
+            "ru": "КТ-коронарография (CCTA) рекомендуется лицам с низкой или умеренной (>5%–50%) предтестовой вероятностью обструктивной ИБС для уточнения диагноза, если результаты другого неинвазивного теста неинформативны."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "CCTA is not recommended in patients with severe renal failure (eGFR <30 mL/min/1.73 m²), decompensated heart failure, extensive coronary calcification, fast irregular heart rate, severe obesity, inability to cooperate with breath-hold commands, or any other conditions that can make obtaining good imaging quality unlikely.",
+            "ru": "КТ-коронарография (CCTA) не рекомендуется пациентам с тяжелой почечной недостаточностью (рСКФ <30 мл/мин/1,73 м²), декомпенсированной сердечной недостаточностью, выраженным распространенным кальцинозом коронарных артерий, частым нерегулярным сердечным ритмом, выраженным ожирением, неспособностью задерживать дыхание по команде или любыми другими состояниями, делающими получение диагностического качества изображений маловероятным."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

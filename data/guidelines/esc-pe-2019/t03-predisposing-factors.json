@@ -1,0 +1,275 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t03-predisposing-factors",
+  "guidelineId": "esc-pe-2019",
+  "number": "Table 3",
+  "type": "grid",
+  "title": {
+    "en": "Predisposing factors for venous thromboembolism",
+    "ru": "Предрасполагающие факторы венозной тромбоэмболии"
+  },
+  "columns": [
+    {
+      "id": "c_level",
+      "title": {
+        "en": "Risk Category",
+        "ru": "Категория риска"
+      }
+    },
+    {
+      "id": "c_factor",
+      "title": {
+        "en": "Predisposing factor",
+        "ru": "Предрасполагающий фактор"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-strong-fracture",
+      "cells": [
+        { "text": { "en": "Strong risk factors (OR > 10)", "ru": "Сильные факторы риска (OR > 10)" }, "tone": "red" },
+        { "text": { "en": "Fracture of lower limb", "ru": "Перелом нижней конечности" } }
+      ]
+    },
+    {
+      "id": "r02-strong-hf-af",
+      "cells": [
+        { "text": { "en": "Strong risk factors (OR > 10)", "ru": "Сильные факторы риска (OR > 10)" }, "tone": "red" },
+        { "text": { "en": "Hospitalization for heart failure or atrial fibrillation/flutter (within previous 3 months)", "ru": "Госпитализация по поводу сердечной недостаточности или фибрилляции/трепетания предсердий (в течение предшествующих 3 месяцев)" } }
+      ]
+    },
+    {
+      "id": "r03-strong-arthroplasty",
+      "cells": [
+        { "text": { "en": "Strong risk factors (OR > 10)", "ru": "Сильные факторы риска (OR > 10)" }, "tone": "red" },
+        { "text": { "en": "Hip or knee replacement", "ru": "Эндопротезирование тазобедренного или коленного сустава" } }
+      ]
+    },
+    {
+      "id": "r04-strong-trauma",
+      "cells": [
+        { "text": { "en": "Strong risk factors (OR > 10)", "ru": "Сильные факторы риска (OR > 10)" }, "tone": "red" },
+        { "text": { "en": "Major trauma", "ru": "Тяжелая травма" } }
+      ]
+    },
+    {
+      "id": "r05-strong-mi",
+      "cells": [
+        { "text": { "en": "Strong risk factors (OR > 10)", "ru": "Сильные факторы риска (OR > 10)" }, "tone": "red" },
+        { "text": { "en": "Myocardial infarction (within previous 3 months)", "ru": "Инфаркт миокарда (в течение предшествующих 3 месяцев)" } }
+      ]
+    },
+    {
+      "id": "r06-strong-prev-vte",
+      "cells": [
+        { "text": { "en": "Strong risk factors (OR > 10)", "ru": "Сильные факторы риска (OR > 10)" }, "tone": "red" },
+        { "text": { "en": "Previous VTE", "ru": "Предшествующая ВТЭ" } }
+      ]
+    },
+    {
+      "id": "r07-strong-spinal-cord",
+      "cells": [
+        { "text": { "en": "Strong risk factors (OR > 10)", "ru": "Сильные факторы риска (OR > 10)" }, "tone": "red" },
+        { "text": { "en": "Spinal cord injury", "ru": "Травма спинного мозга" } }
+      ]
+    },
+    {
+      "id": "r08-mod-arthroscopic",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Arthroscopic knee surgery", "ru": "Артроскопическая операция на коленном суставе" } }
+      ]
+    },
+    {
+      "id": "r09-mod-autoimmune",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Autoimmune diseases", "ru": "Аутоиммунные заболевания" } }
+      ]
+    },
+    {
+      "id": "r10-mod-transfusion",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Blood transfusion", "ru": "Переливание крови" } }
+      ]
+    },
+    {
+      "id": "r11-mod-central-lines",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Central venous lines", "ru": "Центральные венозные катетеры" } }
+      ]
+    },
+    {
+      "id": "r12-mod-leads",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Intravenous catheters and leads", "ru": "Внутривенные катетеры и электроды" } }
+      ]
+    },
+    {
+      "id": "r13-mod-chemotherapy",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Chemotherapy", "ru": "Химиотерапия" } }
+      ]
+    },
+    {
+      "id": "r14-mod-chf-resp",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Congestive heart failure or respiratory failure", "ru": "Застойная сердечная недостаточность или дыхательная недостаточность" } }
+      ]
+    },
+    {
+      "id": "r15-mod-esa",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Erythropoiesis-stimulating agents", "ru": "Препараты, стимулирующие эритропоэз" } }
+      ]
+    },
+    {
+      "id": "r16-mod-hrt",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Hormone replacement therapy (depends on formulation)", "ru": "Заместительная гормональная терапия (зависит от формы препарата)" } }
+      ]
+    },
+    {
+      "id": "r17-mod-ivf",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "In vitro fertilization", "ru": "Экстракорпоральное оплодотворение (ЭКО)" } }
+      ]
+    },
+    {
+      "id": "r18-mod-ocp",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Oral contraceptive therapy", "ru": "Пероральная контрацептивная терапия (КОК)" } }
+      ]
+    },
+    {
+      "id": "r19-mod-postpartum",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Post-partum period", "ru": "Послеродовой период" } }
+      ]
+    },
+    {
+      "id": "r20-mod-infection",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Infection (specifically pneumonia, urinary tract infection, and HIV)", "ru": "Инфекция (особенно пневмония, инфекция мочевыводящих путей и ВИЧ)" } }
+      ]
+    },
+    {
+      "id": "r21-mod-ibd",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Inflammatory bowel disease", "ru": "Воспалительные заболевания кишечника (ВЗК)" } }
+      ]
+    },
+    {
+      "id": "r22-mod-cancer",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Cancer (highest risk in metastatic disease)", "ru": "Злокачественные новообразования (наивысший риск при метастатическом процессе)" } }
+      ]
+    },
+    {
+      "id": "r23-mod-stroke",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Paralytic stroke", "ru": "Инсульт с параличом" } }
+      ]
+    },
+    {
+      "id": "r24-mod-svt",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Superficial vein thrombosis", "ru": "Тромбоз подкожных вен" } }
+      ]
+    },
+    {
+      "id": "r25-mod-thrombophilia",
+      "cells": [
+        { "text": { "en": "Moderate risk factors (OR 2–9)", "ru": "Умеренные факторы риска (OR 2–9)" }, "tone": "yellow" },
+        { "text": { "en": "Thrombophilia", "ru": "Тромбофилия" } }
+      ]
+    },
+    {
+      "id": "r26-weak-bed-rest",
+      "cells": [
+        { "text": { "en": "Weak risk factors (OR < 2)", "ru": "Слабые факторы риска (OR < 2)" }, "tone": "neutral" },
+        { "text": { "en": "Bed rest >3 days", "ru": "Постельный режим >3 дней" } }
+      ]
+    },
+    {
+      "id": "r27-weak-diabetes",
+      "cells": [
+        { "text": { "en": "Weak risk factors (OR < 2)", "ru": "Слабые факторы риска (OR < 2)" }, "tone": "neutral" },
+        { "text": { "en": "Diabetes mellitus", "ru": "Сахарный диабет" } }
+      ]
+    },
+    {
+      "id": "r28-weak-hypertension",
+      "cells": [
+        { "text": { "en": "Weak risk factors (OR < 2)", "ru": "Слабые факторы риска (OR < 2)" }, "tone": "neutral" },
+        { "text": { "en": "Arterial hypertension", "ru": "Артериальная гипертензия" } }
+      ]
+    },
+    {
+      "id": "r29-weak-sitting",
+      "cells": [
+        { "text": { "en": "Weak risk factors (OR < 2)", "ru": "Слабые факторы риска (OR < 2)" }, "tone": "neutral" },
+        { "text": { "en": "Immobility due to sitting (e.g. prolonged car or air travel)", "ru": "Иммобилизация в положении сидя (например, длительная поездка на автомобиле или авиаперелет)" } }
+      ]
+    },
+    {
+      "id": "r30-weak-age",
+      "cells": [
+        { "text": { "en": "Weak risk factors (OR < 2)", "ru": "Слабые факторы риска (OR < 2)" }, "tone": "neutral" },
+        { "text": { "en": "Increasing age", "ru": "Пожилой возраст" } }
+      ]
+    },
+    {
+      "id": "r31-weak-laparoscopic",
+      "cells": [
+        { "text": { "en": "Weak risk factors (OR < 2)", "ru": "Слабые факторы риска (OR < 2)" }, "tone": "neutral" },
+        { "text": { "en": "Laparoscopic surgery (e.g. cholecystectomy)", "ru": "Лапароскопическая хирургия (например, холецистэктомия)" } }
+      ]
+    },
+    {
+      "id": "r32-weak-obesity",
+      "cells": [
+        { "text": { "en": "Weak risk factors (OR < 2)", "ru": "Слабые факторы риска (OR < 2)" }, "tone": "neutral" },
+        { "text": { "en": "Obesity", "ru": "Ожирение" } }
+      ]
+    },
+    {
+      "id": "r33-weak-pregnancy",
+      "cells": [
+        { "text": { "en": "Weak risk factors (OR < 2)", "ru": "Слабые факторы риска (OR < 2)" }, "tone": "neutral" },
+        { "text": { "en": "Pregnancy", "ru": "Беременность" } }
+      ]
+    },
+    {
+      "id": "r34-weak-varicose-veins",
+      "cells": [
+        { "text": { "en": "Weak risk factors (OR < 2)", "ru": "Слабые факторы риска (OR < 2)" }, "tone": "neutral" },
+        { "text": { "en": "Varicose veins", "ru": "Варикозное расширение вен" } }
+      ]
+    }
+  ],
+  "tags": [
+    "predisposing-factors",
+    "vte",
+    "pe",
+    "risk-stratification",
+    "odds-ratio",
+    "etiology"
+  ]
+}

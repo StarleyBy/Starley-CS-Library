@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt11-outpatient-antibiotic-treatment",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 11",
+  "title": {
+    "en": "Recommendations for outpatient antibiotic treatment of infective endocarditis",
+    "ru": "Рекомендации по амбулаторной антибактериальной терапии инфекционного эндокардита"
+  },
+  "sections": [
+    {
+      "id": "outpatient-antibiotic-treatment",
+      "title": {
+        "en": "Outpatient antibiotic treatment of IE",
+        "ru": "Амбулаторная антибиотикотерапия ИЭ"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Outpatient parenteral or oral antibiotic treatment should be considered in patients with left-sided IE caused by Streptococcus spp., E. faecalis, S. aureus, or CoNS who were receiving appropriate i.v. antibiotic treatment for at least 10 days (or at least 7 days after cardiac surgery), are clinically stable, and who do not show signs of abscess formation or valve abnormalities requiring surgery on TOE.",
+            "ru": "Амбулаторную парентеральную или пероральную антибиотикотерапию следует рассмотреть у пациентов с левосторонним ИЭ, вызванным Streptococcus spp., E. faecalis, S. aureus или коагулазонегативными стафилококками, получавших адекватную в/в терапию не менее 10 дней (или не менее 7 дней после кардиохирургической операции), клинически стабильных и не имеющих по данным ЧПЭхоКГ признаков формирования абсцесса или клапанных нарушений, требующих операции."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Outpatient parenteral antibiotic treatment is not recommended in patients with IE caused by highly difficult-to-treat microorganisms (microorganisms requiring i.v. antibiotic combinations that cannot be administered by means of outpatient parenteral antibiotic treatment or that require strict monitoring of drug levels either in blood or in other fluids owing to their potential toxicity or narrow therapeutic index, e.g. MRSA or vancomycin-resistant enterococci also resistant to alternative drugs such as daptomycin and linezolid, multidrug- or extensively drug-resistant Gram-negative rods, highly penicillin-resistant oral streptococci, fungi other than Candida), liver cirrhosis (Child–Pugh B or C), severe cerebral nervous system emboli, untreated large extracardiac abscesses, heart valve complications, or other severe conditions requiring surgery, severe post-surgical complications, and PWID-related IE.",
+            "ru": "Амбулаторная парентеральная антибиотикотерапия не рекомендуется при ИЭ, вызванном трудноизлечимыми микроорганизмами (требующими комбинаций в/в антибиотиков, не применимых амбулаторно, либо требующими строгого мониторинга концентрации из-за токсичности или узкого терапевтического окна: MRSA или VRE, устойчивые к даптомицину и линезолиду, полирезистентные грамотрицательные палочки, высокорезистентные к пенициллину стрептококки, микозы кроме Candida), при циррозе печени (Child–Pugh B или C), тяжелых эмболиях в ЦНС, недренированных крупных экстракардиальных абсцессах, клапанных осложнениях или других тяжелых состояниях, требующих операции, тяжелых послеоперационных осложнениях, а также при ИЭ у лиц, употребляющих инъекционные наркотики."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

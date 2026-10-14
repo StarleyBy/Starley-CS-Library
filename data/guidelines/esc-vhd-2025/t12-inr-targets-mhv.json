@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.t12-inr-targets-mhv",
+  "guidelineId": "esc-vhd-2025",
+  "number": "Table 10",
+  "type": "grid",
+  "title": {
+    "en": "International normalized ratio targets and therapeutic ranges for patients with a mechanical heart valve",
+    "ru": "Целевые уровни и терапевтические диапазоны международного нормализованного отношения (МНО) для пациентов с механическим протезом клапана сердца"
+  },
+  "columns": [
+    {
+      "id": "c_type_position",
+      "title": {
+        "en": "MHV type and position",
+        "ru": "Тип и позиция механического протеза"
+      }
+    },
+    {
+      "id": "c_prothrombotic",
+      "title": {
+        "en": "Additional pro-thrombotic factors",
+        "ru": "Дополнительные тромбогенные факторы риска"
+      }
+    },
+    {
+      "id": "c_inr_target",
+      "title": {
+        "en": "INR target and (range)",
+        "ru": "Целевой уровень МНО и (диапазон)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-header",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**First-line treatment with VKA only**",
+            "ru": "**Терапия первой линии: только антагонист витамина К (АВК)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-caged-tilting-mitral-no",
+      "cells": [
+        {
+          "text": {
+            "en": "Ball-in-cage, tilting disc valve in any position, all MHV in mitral/tricuspid position",
+            "ru": "Шаровые, поворотно-дисковые протезы в любой позиции; любые механические протезы в митральной/трикуспидальной позиции"
+          }
+        },
+        {
+          "text": {
+            "en": "No",
+            "ru": "Нет"
+          }
+        },
+        {
+          "text": {
+            "en": "3.0 (2.5–3.5)",
+            "ru": "3,0 (2,5–3,5)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-caged-tilting-mitral-yes",
+      "cells": [
+        {
+          "text": {
+            "en": "Ball-in-cage, tilting disc valve in any position, all MHV in mitral/tricuspid position",
+            "ru": "Шаровые, поворотно-дисковые протезы в любой позиции; любые механические протезы в митральной/трикуспидальной позиции"
+          }
+        },
+        {
+          "text": {
+            "en": "Yes",
+            "ru": "Да"
+          }
+        },
+        {
+          "text": {
+            "en": "3.5 (3.0–4.0)^[b]",
+            "ru": "3,5 (3,0–4,0)^[b]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-bileaflet-aortic-no",
+      "cells": [
+        {
+          "text": {
+            "en": "Bileaflet, current-generation single-tilting aortic MHV",
+            "ru": "Двустворчатые, современные поворотно-дисковые механические протезы в аортальной позиции"
+          }
+        },
+        {
+          "text": {
+            "en": "No",
+            "ru": "Нет"
+          }
+        },
+        {
+          "text": {
+            "en": "2.5 (2.0–3.0)^[c]",
+            "ru": "2,5 (2,0–3,0)^[c]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-bileaflet-aortic-yes",
+      "cells": [
+        {
+          "text": {
+            "en": "Bileaflet, current-generation single-tilting aortic MHV",
+            "ru": "Двустворчатые, современные поворотно-дисковые механические протезы в аортальной позиции"
+          }
+        },
+        {
+          "text": {
+            "en": "Yes",
+            "ru": "Да"
+          }
+        },
+        {
+          "text": {
+            "en": "3.0 (2.5–3.5)",
+            "ru": "3,0 (2,5–3,5)"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "b": {
+      "en": "In patients at very high thrombotic risk, low-dose ASA may be added instead.",
+      "ru": "У пациентов с очень высоким риском тромбоза вместо этого может быть добавлен низкодозовый аспирин."
+    },
+    "c": {
+      "en": "In patients at high bleeding risk, INR target could be maintained at a lower interval: 2.0 (1.5–2.5).",
+      "ru": "У пациентов с высоким риском кровотечений целевой уровень МНО может поддерживаться в более низком интервале: 2,0 (1,5–2,5)."
+    }
+  },
+  "tags": [
+    "vhd",
+    "mhv",
+    "inr-targets",
+    "vka",
+    "bileaflet",
+    "caged-ball",
+    "tilting-disc",
+    "mitral-mhv",
+    "aortic-mhv",
+    "anticoagulation"
+  ]
+}

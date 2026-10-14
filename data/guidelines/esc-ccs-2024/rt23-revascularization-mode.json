@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt23-revascularization-mode",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 23",
+  "title": {
+    "en": "Recommendations for mode of revascularization in patients with chronic coronary syndrome",
+    "ru": "Рекомендации по выбору метода реваскуляризации у пациентов с хроническим коронарным синдромом"
+  },
+  "tags": [
+    "ccs",
+    "revascularization-mode",
+    "left-main",
+    "cabg",
+    "pci",
+    "syntax-score",
+    "multivessel",
+    "diabetes",
+    "proximal-lad"
+  ],
+  "source": {
+    "page": 54
+  },
+  "sections": [
+    {
+      "id": "sec-left-main-disease",
+      "title": {
+        "en": "Anatomically and clinically based recommendations for revascularization in CCS — Left main disease",
+        "ru": "Анатомические и клинические рекомендации по реваскуляризации при ХКС — Поражение ствола ЛКА"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In CCS patients at low surgical risk with significant left main coronary stenosis, CABG is recommended over medical therapy alone to improve survival.",
+            "ru": "У пациентов с ХКС и низким хирургическим риском со значимым стенозом ствола левой коронарной артерии коронарное шунтирование (КШ) рекомендуется вместо изолированной медикаментозной терапии для увеличения выживаемости."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In CCS patients at low surgical risk with significant left main coronary stenosis, CABG is recommended as the overall preferred revascularization mode over PCI, given the lower risk of spontaneous myocardial infarction and repeat revascularization.",
+            "ru": "У пациентов с ХКС и низким хирургическим риском со значимым стенозом ствола ЛКА коронарное шунтирование рекомендуется как предпочтительный метод реваскуляризации по сравнению с ЧКВ в связи с более низким риском спонтанного инфаркта миокарда и повторных вмешательств."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In CCS patients with significant left main coronary stenosis of low complexity (SYNTAX score ≤22), in whom PCI can provide equivalent completeness of revascularization to that of CABG, PCI is recommended as an alternative to CABG, given its lower invasiveness and non-inferior survival.",
+            "ru": "У пациентов с ХКС со значимым стенозом ствола ЛКА низкой анатомической сложности (индекс SYNTAX ≤22), у которых ЧКВ обеспечивает эквивалентную полноту реваскуляризации по сравнению с КШ, ЧКВ рекомендуется как альтернатива КШ с учетом меньшей инвазивности и сопоставимой выживаемости."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In CCS patients with significant left main coronary stenosis of intermediate complexity (SYNTAX score 23–32), in whom PCI can provide equivalent completeness of revascularization to that of CABG, PCI should be considered, given its lower invasiveness and non-inferior survival.",
+            "ru": "У пациентов с ХКС со значимым стенозом ствола ЛКА промежуточной сложности (индекс SYNTAX 23–32), у которых ЧКВ обеспечивает эквивалентную полноту реваскуляризации, ЧКВ следует рассматривать с учетом меньшей инвазивности и сопоставимой выживаемости."
+          },
+          "class": "IIa",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-left-main-with-mvd",
+      "title": {
+        "en": "Left main with multivessel disease",
+        "ru": "Поражение ствола ЛКА в сочетании с многососудистым поражением"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "In CCS patients at low surgical risk with suitable anatomy, CABG is recommended over medical therapy alone to improve survival.",
+            "ru": "У пациентов с ХКС и низким хирургическим риском при подходящей анатомии КШ рекомендуется вместо изолированной медикаментозной терапии для увеличения выживаемости."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In CCS patients at high surgical risk, PCI may be considered over medical therapy alone.",
+            "ru": "У пациентов с ХКС с высоким хирургическим риском ЧКВ может быть рассмотрено вместо изолированной медикаментозной терапии."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-multivessel-diabetes",
+      "title": {
+        "en": "Multivessel disease and diabetes",
+        "ru": "Многососудистое поражение и сахарный диабет"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "In CCS patients with significant multivessel disease and diabetes, with insufficient response to guideline-directed medical therapy, CABG is recommended over medical therapy alone and over PCI to improve symptoms and outcomes.",
+            "ru": "У пациентов с ХКС, значимым многососудистым поражением и сахарным диабетом при недостаточном ответе на медикаментозную терапию КШ рекомендуется предпочтительнее изолированной терапии и предпочтительнее ЧКВ для уменьшения симптомов и улучшения исходов."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "In CCS patients at very high surgical risk, PCI should be considered over medical therapy alone to reduce symptoms and adverse outcomes.",
+            "ru": "У пациентов с ХКС с очень высоким хирургическим риском ЧКВ следует рассмотреть вместо изолированной медикаментозной терапии для облегчения симптомов и снижения неблагоприятных исходов."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-three-vessel-no-diabetes",
+      "title": {
+        "en": "Three-vessel disease, without diabetes",
+        "ru": "Трехсосудистое поражение без сахарного диабета"
+      },
+      "rows": [
+        {
+          "id": "r09",
+          "text": {
+            "en": "In CCS patients with significant three-vessel disease, preserved LVEF, no diabetes, and insufficient response to guideline-directed medical therapy, CABG is recommended over medical therapy alone to improve symptoms, survival, and other outcomes.",
+            "ru": "У пациентов с ХКС со значимым трехсосудистым поражением, сохранной ФВ ЛЖ, без диабета и с недостаточным ответом на медикаментозную терапию КШ рекомендуется вместо изолированной медикаментозной терапии для уменьшения симптомов, увеличения выживаемости и улучшения прогноза."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "In CCS patients with preserved LVEF, no diabetes, insufficient response to guideline-directed medical therapy, and significant three-vessel disease of low-to-intermediate anatomic complexity in whom PCI can provide similar completeness of revascularization to that of CABG, PCI is recommended, given its lower invasiveness, and generally non-inferior survival.",
+            "ru": "У пациентов с ХКС с сохранной ФВ ЛЖ, без диабета, с недостаточным ответом на медикаментозную терапию и значимым трехсосудистым поражением низкой или промежуточной анатомической сложности, у которых ЧКВ обеспечивает аналогичную полноту реваскуляризации по сравнению с КШ, ЧКВ рекомендуется с учетом меньшей инвазивности и в целом сопоставимой выживаемости."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-proximal-lad",
+      "title": {
+        "en": "Single- or double-vessel disease involving the proximal LAD",
+        "ru": "Одно- или двухсосудистое поражение с вовлечением проксимальной ПМЖВ"
+      },
+      "rows": [
+        {
+          "id": "r11",
+          "text": {
+            "en": "In CCS patients with significant single- or double-vessel disease involving the proximal LAD and insufficient response to guideline-directed medical therapy, CABG or PCI is recommended over medical therapy alone to improve symptoms and outcomes.",
+            "ru": "У пациентов с ХКС со значимым 1- или 2-сосудистым поражением с вовлечением проксимальной ПМЖВ и недостаточным ответом на медикаментозную терапию КШ или ЧКВ рекомендуется вместо изолированной терапии для улучшения симптомов и исходов."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "In CCS patients with complex significant single- or double-vessel disease involving the proximal LAD, less amenable to PCI, and insufficient response to guideline-directed medical therapy, CABG is recommended to improve symptoms and reduce revascularization rates.",
+            "ru": "У пациентов с ХКС со сложным значимым 1- или 2-сосудистым поражением с вовлечением проксимальной ПМЖВ, менее подходящим для ЧКВ, и недостаточным ответом на медикаментозную терапию КШ рекомендуется для облегчения симптомов и снижения частоты повторных вмешательств."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-no-proximal-lad",
+      "title": {
+        "en": "Single- or double-vessel disease not involving the proximal LAD",
+        "ru": "Одно- или двухсосудистое поражение без вовлечения проксимальной ПМЖВ"
+      },
+      "rows": [
+        {
+          "id": "r13",
+          "text": {
+            "en": "In symptomatic CCS patients with significant single- or double-vessel disease not involving the proximal LAD and with insufficient response to guideline-directed medical therapy, PCI is recommended to improve symptoms.",
+            "ru": "У симптомных пациентов с ХКС со значимым 1- или 2-сосудистым поражением без вовлечения проксимальной ПМЖВ и с недостаточным ответом на медикаментозную терапию ЧКВ рекомендуется для уменьшения симптомов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "In symptomatic CCS patients with significant single- or double-vessel disease not involving the proximal LAD and with insufficient response to guideline-directed medical therapy, not amenable to revascularization by PCI, CABG may be considered to improve symptoms.",
+            "ru": "У симптомных пациентов с ХКС со значимым 1- или 2-сосудистым поражением без вовлечения проксимальной ПМЖВ при недостаточном ответе на медикаментозную терапию и невозможности выполнения ЧКВ может быть рассмотрено КШ для облегчения симптомов."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

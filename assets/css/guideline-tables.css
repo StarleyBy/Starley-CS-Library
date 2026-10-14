@@ -340,12 +340,19 @@
 /* Table Directory / Catalog View */
 .gt-catalog-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
   gap: 0.85rem;
 }
 
+@media (min-width: 1200px) {
+  .gt-catalog-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 0.85rem;
+  }
+}
+
 .gt-card {
-  padding: 0.9rem;
+  padding: 0.85rem;
   border-radius: 10px;
   border: 1px solid var(--gt-border);
   background: var(--gt-surface);
@@ -369,23 +376,71 @@
   text-transform: uppercase;
 }
 
-/* Hierarchical Guideline Catalog */
+/* Hierarchical Guideline Catalog Cards */
 .gt-guideline-card {
-  padding: 1.1rem;
+  position: relative;
+  padding: 0.95rem;
   border-radius: 12px;
   border: 1px solid var(--gt-border);
   background: var(--gt-surface);
   cursor: pointer;
-  transition: all 0.2s ease;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  gap: 0.55rem;
+  overflow: hidden;
+  min-height: 145px;
 }
 
-.gt-guideline-card:hover {
-  border-color: var(--gt-accent);
-  transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+/* Society Color Themes */
+/* European (ESC): Blue + White Theme */
+.gt-guideline-card.gt-society-esc,
+.gt-guideline-card.gt-society-european {
+  background: linear-gradient(145deg, rgba(20, 35, 65, 0.92) 0%, rgba(13, 22, 42, 0.96) 100%);
+  border-color: rgba(56, 139, 253, 0.35);
+  box-shadow: 0 4px 14px rgba(10, 25, 50, 0.35);
+}
+
+.gt-guideline-card.gt-society-esc:hover,
+.gt-guideline-card.gt-society-european:hover {
+  border-color: #58a6ff;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(56, 139, 253, 0.25), 0 0 16px rgba(255, 255, 255, 0.1);
+}
+
+/* American (AHA/ACC): Red + Blue Theme */
+.gt-guideline-card.gt-society-aha,
+.gt-guideline-card.gt-society-acc,
+.gt-guideline-card.gt-society-american {
+  background: linear-gradient(145deg, rgba(50, 18, 26, 0.92) 0%, rgba(16, 24, 48, 0.96) 100%);
+  border-color: rgba(235, 60, 75, 0.4);
+  box-shadow: 0 4px 14px rgba(45, 12, 18, 0.35);
+}
+
+.gt-guideline-card.gt-society-aha:hover,
+.gt-guideline-card.gt-society-acc:hover,
+.gt-guideline-card.gt-society-american:hover {
+  border-color: #ff5c6c;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(235, 60, 75, 0.25), 0 0 16px rgba(56, 139, 253, 0.15);
+}
+
+/* Watermark Topic Symbol / Icon in Top Right */
+.gt-card-topic-icon {
+  position: absolute;
+  top: 0.45rem;
+  right: 0.55rem;
+  font-size: 1.6rem;
+  line-height: 1;
+  opacity: 0.85;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+  transition: transform 0.25s ease, opacity 0.25s ease;
+  pointer-events: none;
+}
+
+.gt-guideline-card:hover .gt-card-topic-icon {
+  transform: scale(1.15) rotate(4deg);
+  opacity: 1;
 }
 
 .gt-guideline-top {
@@ -393,33 +448,134 @@
   align-items: center;
   justify-content: space-between;
   gap: 0.5rem;
+  padding-right: 2rem; /* Avoid overlap with topic icon */
 }
 
+/* Neon Year Badges (Glowing, distinct colors per year) */
 .gt-year-badge {
   font-size: 0.78rem;
   font-weight: 800;
-  padding: 0.2rem 0.55rem;
+  padding: 0.22rem 0.55rem;
   border-radius: 6px;
-  background: color-mix(in srgb, var(--gt-accent) 20%, transparent);
-  color: var(--gt-accent);
+  letter-spacing: 0.5px;
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid currentColor;
+  text-shadow: 0 0 6px currentColor;
+  transition: all 0.2s ease;
+}
+
+/* Neon Colors by Year */
+.gt-year-badge.gt-year-2025 {
+  color: #a855f7;
+  border-color: rgba(168, 85, 247, 0.65);
+  background: rgba(168, 85, 247, 0.15);
+  box-shadow: 0 0 12px rgba(168, 85, 247, 0.45);
+}
+
+.gt-year-badge.gt-year-2024 {
+  color: #00f0ff;
+  border-color: rgba(0, 240, 255, 0.6);
+  background: rgba(0, 240, 255, 0.12);
+  box-shadow: 0 0 10px rgba(0, 240, 255, 0.35);
+}
+
+.gt-year-badge.gt-year-2023 {
+  color: #00ff88;
+  border-color: rgba(0, 255, 136, 0.6);
+  background: rgba(0, 255, 136, 0.12);
+  box-shadow: 0 0 10px rgba(0, 255, 136, 0.35);
+}
+
+.gt-year-badge.gt-year-2022 {
+  color: #c084fc;
+  border-color: rgba(192, 132, 252, 0.6);
+  background: rgba(192, 132, 252, 0.12);
+  box-shadow: 0 0 10px rgba(192, 132, 252, 0.35);
+}
+
+.gt-year-badge.gt-year-2021 {
+  color: #38bdf8;
+  border-color: rgba(56, 189, 248, 0.6);
+  background: rgba(56, 189, 248, 0.12);
+  box-shadow: 0 0 10px rgba(56, 189, 248, 0.35);
+}
+
+.gt-year-badge.gt-year-2020 {
+  color: #ffd60a;
+  border-color: rgba(255, 214, 10, 0.6);
+  background: rgba(255, 214, 10, 0.12);
+  box-shadow: 0 0 10px rgba(255, 214, 10, 0.35);
+}
+
+.gt-year-badge.gt-year-2019 {
+  color: #ff375f;
+  border-color: rgba(255, 55, 95, 0.6);
+  background: rgba(255, 55, 95, 0.12);
+  box-shadow: 0 0 10px rgba(255, 55, 95, 0.35);
+}
+
+.gt-year-badge.gt-year-2018 {
+  color: #ff9f0a;
+  border-color: rgba(255, 159, 10, 0.6);
+  background: rgba(255, 159, 10, 0.12);
+  box-shadow: 0 0 10px rgba(255, 159, 10, 0.35);
+}
+
+/* Fallback year badge */
+.gt-year-badge.gt-year-default {
+  color: #e0e0e0;
+  border-color: rgba(224, 224, 224, 0.4);
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.2);
+}
+
+.gt-guideline-card:hover .gt-year-badge {
+  filter: brightness(1.2);
 }
 
 .gt-count-badge {
-  font-size: 0.75rem;
-  color: var(--gt-muted);
+  font-size: 0.72rem;
+  color: #cbd5e1;
+  background: rgba(255, 255, 255, 0.08);
+  padding: 0.18rem 0.45rem;
+  border-radius: 5px;
+  font-weight: 500;
 }
 
-.gt-guideline-title {
-  font-size: 1.05rem;
-  font-weight: 700;
-  line-height: 1.35;
-  color: var(--gt-text);
+/* Society Brand Bar with Logo */
+.gt-guideline-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+  min-height: 24px;
 }
 
-.gt-guideline-citation {
-  font-size: 0.8rem;
-  color: var(--gt-muted);
-  font-style: italic;
+.gt-society-logo {
+  height: 20px;
+  max-width: 50px;
+  object-fit: contain;
+  filter: drop-shadow(0 1px 2px rgba(0, 0, 0, 0.4));
+  border-radius: 2px;
+}
+
+.gt-guideline-key-title {
+  font-size: 0.98rem;
+  font-weight: 800;
+  line-height: 1.25;
+  color: #ffffff;
+  letter-spacing: -0.2px;
+  margin-top: 0.1rem;
+}
+
+.gt-guideline-sub {
+  font-size: 0.73rem;
+  color: #94a3b8;
+  line-height: 1.3;
+  margin-top: auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .gt-catalog-header-bar {
@@ -472,4 +628,138 @@
   color: var(--gt-muted);
   opacity: 0.85;
   letter-spacing: 0.02em;
+}
+
+/* ==========================================================================
+   Clinical Semantic Keyword Highlighting in Titles & Catalog
+   ========================================================================== */
+
+/* Disease / Core Nosology: Cyan/Teal glow */
+.gt-hl-disease {
+  color: #0284c7;
+  font-weight: 800;
+  text-decoration: underline dotted #0284c7 1.5px;
+  text-underline-offset: 3px;
+}
+
+/* Device, Catheter, Surgery & Invasive Intervention: Vibrant Amber/Orange */
+.gt-hl-device {
+  color: #d97706;
+  font-weight: 800;
+}
+
+/* Pharmacotherapy & Medications: Emerald Green */
+.gt-hl-pharma {
+  color: #059669;
+  font-weight: 800;
+}
+
+/* Diagnostics, Imaging & Genetics: Purple/Indigo */
+.gt-hl-diag {
+  color: #7c3aed;
+  font-weight: 800;
+}
+
+/* Clinical Action, Evaluation, Protocol & Strategy: Vivid Blue / Cobalt */
+.gt-hl-action {
+  color: #2563eb;
+  font-weight: 800;
+}
+
+/* Risk, Bleeding, Prognosis, Sudden Death & Safety: Coral Red / Crimson */
+.gt-hl-risk {
+  color: #e11d48;
+  font-weight: 800;
+}
+
+/* Dark mode tweaks for clinical highlights */
+:root[data-theme="dark"] .gt-hl-disease,
+.night-mode .gt-hl-disease,
+[data-theme="dark"] .gt-hl-disease {
+  color: #38bdf8;
+  text-decoration-color: #38bdf8;
+}
+
+:root[data-theme="dark"] .gt-hl-device,
+.night-mode .gt-hl-device,
+[data-theme="dark"] .gt-hl-device {
+  color: #fbbf24;
+}
+
+:root[data-theme="dark"] .gt-hl-pharma,
+.night-mode .gt-hl-pharma,
+[data-theme="dark"] .gt-hl-pharma {
+  color: #34d399;
+}
+
+:root[data-theme="dark"] .gt-hl-diag,
+.night-mode .gt-hl-diag,
+[data-theme="dark"] .gt-hl-diag {
+  color: #a78bfa;
+}
+
+:root[data-theme="dark"] .gt-hl-action,
+.night-mode .gt-hl-action,
+[data-theme="dark"] .gt-hl-action {
+  color: #60a5fa;
+}
+
+:root[data-theme="dark"] .gt-hl-risk,
+.night-mode .gt-hl-risk,
+[data-theme="dark"] .gt-hl-risk {
+  color: #fb7185;
+}
+
+/* ==========================================================================
+   Book / Sequential Reading Navigation Controls
+   ========================================================================== */
+
+.gt-book-nav {
+  display: inline-flex;
+  align-items: center;
+  background: var(--gt-surface);
+  border: 1px solid var(--gt-border);
+  border-radius: 8px;
+  padding: 0.15rem 0.35rem;
+  gap: 0.4rem;
+}
+
+.gt-btn-nav {
+  padding: 0.25rem 0.55rem;
+  font-size: 0.8rem;
+  border: none;
+  background: transparent;
+  color: var(--gt-text);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.gt-btn-nav:hover {
+  background: var(--gt-section-bg);
+  color: var(--gt-accent);
+}
+
+.gt-book-page-info {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--gt-muted);
+  user-select: none;
+  min-width: 48px;
+  text-align: center;
+}
+
+.gt-book-footer-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1.25rem;
+  padding-top: 1rem;
+  border-top: 1px dashed var(--gt-border);
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.gt-book-footer-bar .gt-btn {
+  padding: 0.55rem 1.1rem;
+  font-size: 0.88rem;
 }

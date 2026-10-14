@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt09-fluoropyrimidine-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 9",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 9 — Recommendations for baseline risk assessment and monitoring during fluoropyrimidine therapy",
+    "ru": "Таблица рекомендаций 9 — Рекомендации по исходной оценке риска и мониторингу во время терапии фторпиримидинами"
+  },
+  "tags": [
+    "cardio-oncology",
+    "fluoropyrimidines",
+    "5-fu",
+    "capecitabine",
+    "cad",
+    "ischemia",
+    "monitoring"
+  ],
+  "source": {
+    "page": 29
+  },
+  "sections": [
+    {
+      "id": "sec01-recommendations",
+      "title": {
+        "en": "Fluoropyrimidine therapy",
+        "ru": "Терапия фторпиримидинами"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Baseline CV risk assessment and evaluation including BP measurement, ECG, lipid profile, HbA1c measurement, and SCORE2/SCORE2-OP or equivalent is recommended before starting fluoropyrimidines.",
+            "ru": "Исходная оценка сердечно-сосудистого риска и обследование, включая измерение АД, ЭКГ, липидный профиль, определение уровня HbA1c и стратификацию по шкале SCORE2/SCORE2-OP (или эквиваленту), рекомендуется перед началом приема фторпиримидинов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "A baseline echocardiogram is recommended in patients with a history of symptomatic CVD before starting fluoropyrimidines.",
+            "ru": "Исходная эхокардиография рекомендуется пациентам с симптоматическими сердечно-сосудистыми заболеваниями в анамнезе перед началом приема фторпиримидинов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Screening for CAD (according to pre-existing CVD and local protocols) may be considered in patients at high and very high risk of CAD before fluoropyrimidines.",
+            "ru": "Скрининг на наличие ИБС (в соответствии с предшествующим ССЗ и локальными протоколами) может быть рассмотрен у пациентов группы высокого и очень высокого риска ИБС перед началом терапии фторпиримидинами."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

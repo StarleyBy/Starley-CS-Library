@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt19-prosthetic-valve-endocarditis",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 19",
+  "title": {
+    "en": "Recommendations for prosthetic valve endocarditis",
+    "ru": "Рекомендации при инфекционном эндокардите протезированного клапана"
+  },
+  "sections": [
+    {
+      "id": "prosthetic-valve-endocarditis-management",
+      "title": {
+        "en": "Management of prosthetic valve endocarditis",
+        "ru": "Ведение инфекционного эндокардита протезированного клапана"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Surgery is recommended for early PVE (within 6 months of valve surgery) with new valve replacement and complete debridement.",
+            "ru": "Хирургическое вмешательство рекомендуется при раннем ИЭ протезированного клапана (в течение 6 месяцев после операции на клапане) с повторным протезированием и полной хирургической обработкой (санацией)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

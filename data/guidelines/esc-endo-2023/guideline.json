@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023",
+  "society": "ESC",
+  "year": 2023,
+  "title": {
+    "en": "2023 ESC Guidelines for the management of endocarditis",
+    "ru": "Рекомендации ESC 2023 по ведению инфекционного эндокардита"
+  },
+  "shortTitle": {
+    "en": "ESC Endocarditis 2023",
+    "ru": "ESC Эндокардит 2023"
+  },
+  "citation": "Eur Heart J. 2023;44(39):3948–4042",
+  "legend": "esc-2023",
+  "abbreviations": {
+    "18F-FDG-PET/CT": { "en": "18F-fluorodeoxyglucose positron emission tomography/computed tomography", "ru": "позитронно-эмиссионная томография/компьютерная томография с 18F-фтордезоксиглюкозой" },
+    "AVB": { "en": "atrioventricular block", "ru": "атриовентрикулярная блокада" },
+    "CAD": { "en": "coronary artery disease", "ru": "ишемическая болезнь сердца" },
+    "CIED": { "en": "cardiovascular implantable electronic device", "ru": "имплантируемое электронное сердечно-сосудистое устройство" },
+    "CoNS": { "en": "coagulase-negative staphylococci", "ru": "коагулазонегативные стафилококки" },
+    "CT": { "en": "computed tomography", "ru": "компьютерная томография" },
+    "CTA": { "en": "computed tomography angiography", "ru": "компьютерно-томографическая ангиография" },
+    "HF": { "en": "heart failure", "ru": "сердечная недостаточность" },
+    "IE": { "en": "infective endocarditis", "ru": "инфекционный эндокардит" },
+    "i.v.": { "en": "intravenous", "ru": "внутривенный" },
+    "MRI": { "en": "magnetic resonance imaging", "ru": "магнитно-резонансная томография" },
+    "NVE": { "en": "native valve endocarditis", "ru": "эндокардит нативного клапана" },
+    "OPAT": { "en": "outpatient parenteral antibiotic treatment", "ru": "амбулаторная парентеральная антибактериальная терапия" },
+    "PET": { "en": "positron emission tomography", "ru": "позитронно-эмиссионная томография" },
+    "PVE": { "en": "prosthetic valve endocarditis", "ru": "эндокардит протезированного клапана" },
+    "PWID": { "en": "people who inject drugs", "ru": "лица, употребляющие инъекционные наркотики" },
+    "TAVI": { "en": "transcatheter aortic valve implantation", "ru": "транскатетерная имплантация аортального клапана" },
+    "TOE": { "en": "transoesophageal echocardiography", "ru": "чреспищеводная эхокардиография" },
+    "TTE": { "en": "transthoracic echocardiography", "ru": "трансторакальная эхокардиография" },
+    "VAD": { "en": "ventricular assist device", "ru": "устройство вспомогательного кровообращения желудочка" },
+    "WBC SPECT/CT": { "en": "white blood cell single-photon emission computed tomography/computed tomography", "ru": "однофотонная эмиссионная компьютерная томография с мечеными лейкоцитами/КТ" }
+  }
+}

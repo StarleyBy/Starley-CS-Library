@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.t09-doses-antiplatelet-anticoagulant",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Table 7",
+  "title": {
+    "en": "Doses of antiplatelet and anticoagulant drugs used during and after myocardial revascularization",
+    "ru": "Дозы антитромбоцитарных и антикоагулянтных препаратов, применяемых во время и после реваскуляризации миокарда"
+  },
+  "type": "grid",
+  "columns": [
+    {
+      "id": "drug",
+      "title": {
+        "en": "Drug",
+        "ru": "Препарат"
+      }
+    },
+    {
+      "id": "dosage",
+      "title": {
+        "en": "Dosage regimen",
+        "ru": "Режим дозирования"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec_antiplatelet",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "Antiplatelet drugs",
+            "ru": "Антитромбоцитарные препараты"
+          },
+          "colspan": 2
+        }
+      ]
+    },
+    {
+      "id": "aspirin",
+      "cells": [
+        {
+          "text": {
+            "en": "Aspirin",
+            "ru": "Ацетилсалициловая кислота (АСК)"
+          }
+        },
+        {
+          "text": {
+            "en": "Loading dose of 150–300 mg orally or 75–150 mg i.v. if oral ingestion is not possible, followed by a maintenance dose of 75–100 mg/day.",
+            "ru": "Нагрузочная доза 150–300 мг внутрь или 75–150 мг в/в при невозможности приема внутрь, затем поддерживающая доза 75–100 мг/сут."
+          }
+        }
+      ]
+    },
+    {
+      "id": "clopidogrel",
+      "cells": [
+        {
+          "text": {
+            "en": "Clopidogrel",
+            "ru": "Клопидогрел"
+          }
+        },
+        {
+          "text": {
+            "en": "Loading dose of 600 mg orally, followed by a maintenance dose of 75 mg/day.",
+            "ru": "Нагрузочная доза 600 мг внутрь, затем поддерживающая доза 75 мг/сут."
+          }
+        }
+      ]
+    },
+    {
+      "id": "prasugrel",
+      "cells": [
+        {
+          "text": {
+            "en": "Prasugrel",
+            "ru": "Прасугрел"
+          }
+        },
+        {
+          "text": {
+            "en": "Loading dose of 60 mg orally, followed by a maintenance dose of 10 mg/day. In patients with body weight <60 kg, a maintenance dose of 5 mg is recommended. In patients aged >75 years, prasugrel is generally not recommended, but a dose of 5 mg should be used if treatment is deemed necessary.",
+            "ru": "Нагрузочная доза 60 мг внутрь, затем поддерживающая доза 10 мг/сут. У пациентов с массой тела <60 кг рекомендуется поддерживающая доза 5 мг. У пациентов в возрасте >75 лет прасугрел обычно не рекомендуется, но при абсолютной необходимости терапии следует использовать дозу 5 мг."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ticagrelor",
+      "cells": [
+        {
+          "text": {
+            "en": "Ticagrelor",
+            "ru": "Тикагрелор"
+          }
+        },
+        {
+          "text": {
+            "en": "Loading dose of 180 mg orally, followed by a maintenance dose of 90 mg b.i.d.",
+            "ru": "Нагрузочная доза 180 мг внутрь, затем поддерживающая доза 90 мг два раза в сутки."
+          }
+        }
+      ]
+    },
+    {
+      "id": "abciximab",
+      "cells": [
+        {
+          "text": {
+            "en": "Abciximab",
+            "ru": "Абциксимаб"
+          }
+        },
+        {
+          "text": {
+            "en": "Bolus of 0.25 mg/kg i.v. and 0.125 µg/kg/min infusion (maximum 10 µg/min) for 12 h.",
+            "ru": "Болюс 0,25 мг/кг в/в и инфузия 0,125 мкг/кг/мин (максимум 10 мкг/мин) в течение 12 ч."
+          }
+        }
+      ]
+    },
+    {
+      "id": "eptifibatide",
+      "cells": [
+        {
+          "text": {
+            "en": "Eptifibatide",
+            "ru": "Эптифибатид"
+          }
+        },
+        {
+          "text": {
+            "en": "Double bolus of 180 µg/kg i.v. (given at a 10 min interval) followed by an infusion of 2.0 µg/kg/min for up to 18 h.",
+            "ru": "Двойной болюс по 180 мкг/кг в/в (с интервалом 10 мин), затем инфузия 2,0 мкг/кг/мин продолжительностью до 18 ч."
+          }
+        }
+      ]
+    },
+    {
+      "id": "tirofiban",
+      "cells": [
+        {
+          "text": {
+            "en": "Tirofiban",
+            "ru": "Тирофибан"
+          }
+        },
+        {
+          "text": {
+            "en": "Bolus of 25 µg/kg over 3 min i.v., followed by an infusion of 0.15 µg/kg/min for up to 18 h.",
+            "ru": "Болюс 25 мкг/кг в/в за 3 мин, затем инфузия 0,15 мкг/кг/мин продолжительностью до 18 ч."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cangrelor",
+      "cells": [
+        {
+          "text": {
+            "en": "Cangrelor",
+            "ru": "Кангрелор"
+          }
+        },
+        {
+          "text": {
+            "en": "Bolus of 30 µg/kg i.v. followed by 4 µg/kg/min infusion for at least 2 h or duration of procedure, whichever is longer.",
+            "ru": "Болюс 30 мкг/кг в/в, затем инфузия 4 мкг/кг/мин не менее 2 ч или на протяжении всей процедуры (выбирается большая длительность)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_anticoag_pci",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "Anticoagulant drugs for PCI",
+            "ru": "Антикоагулянтные препараты для ЧКВ"
+          },
+          "colspan": 2
+        }
+      ]
+    },
+    {
+      "id": "ufh",
+      "cells": [
+        {
+          "text": {
+            "en": "Unfractionated heparin",
+            "ru": "Нефракционированный гепарин (НФГ)"
+          }
+        },
+        {
+          "text": {
+            "en": "• 70–100 U/kg i.v. bolus when no GP IIb/IIIa inhibitor is planned.\n• 50–70 U/kg i.v. bolus with GP IIb/IIIa inhibitors.",
+            "ru": "• 70–100 ЕД/кг в/в болюс, если ингибиторы GP IIb/IIIa не планируются.\n• 50–70 ЕД/кг в/в болюс при использовании ингибиторов GP IIb/IIIa."
+          }
+        }
+      ]
+    },
+    {
+      "id": "enoxaparin",
+      "cells": [
+        {
+          "text": {
+            "en": "Enoxaparin",
+            "ru": "Эноксапарин"
+          }
+        },
+        {
+          "text": {
+            "en": "0.5 mg/kg i.v. bolus.",
+            "ru": "0,5 мг/кг в/в болюс."
+          }
+        }
+      ]
+    },
+    {
+      "id": "bivalirudin",
+      "cells": [
+        {
+          "text": {
+            "en": "Bivalirudin",
+            "ru": "Бивалирудин"
+          }
+        },
+        {
+          "text": {
+            "en": "0.75 mg/kg i.v. bolus followed by i.v. infusion of 1.75 mg/kg/h for up to 4 h after the procedure as clinically warranted.",
+            "ru": "0,75 мг/кг в/в болюс, затем в/в инфузия 1,75 мг/кг/ч продолжительностью до 4 ч после процедуры по клиническим показаниям."
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_oac_post_pci",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "Oral anticoagulant drugs (concomitant treatment after PCI)",
+            "ru": "Пероральные антикоагулянты (сопутствующая терапия после ЧКВ)"
+          },
+          "colspan": 2
+        }
+      ]
+    },
+    {
+      "id": "vka",
+      "cells": [
+        {
+          "text": {
+            "en": "Vitamin K antagonists (e.g. warfarin, phenprocoumon)",
+            "ru": "Антагонисты витамина К (например, варфарин)"
+          }
+        },
+        {
+          "text": {
+            "en": "Dosing is based on INR value and the respective clinical indication.",
+            "ru": "Дозирование подбирается на основании целевого значения МНО и клинических показаний."
+          }
+        }
+      ]
+    },
+    {
+      "id": "apixaban",
+      "cells": [
+        {
+          "text": {
+            "en": "Apixaban",
+            "ru": "Апиксабан"
+          }
+        },
+        {
+          "text": {
+            "en": "Maintenance doses of 5 and 2.5 mg (specific criteria for reduced dose apply) b.i.d.",
+            "ru": "Поддерживающая доза 5 мг и 2,5 мг (при наличии специальных критериев снижения дозы) 2 раза в сутки."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dabigatran",
+      "cells": [
+        {
+          "text": {
+            "en": "Dabigatran",
+            "ru": "Дабигатран"
+          }
+        },
+        {
+          "text": {
+            "en": "Maintenance doses of 150 and 110 mg b.i.d.",
+            "ru": "Поддерживающая доза 150 мг и 110 мг 2 раза в сутки."
+          }
+        }
+      ]
+    },
+    {
+      "id": "edoxaban",
+      "cells": [
+        {
+          "text": {
+            "en": "Edoxaban",
+            "ru": "Эдоксабан"
+          }
+        },
+        {
+          "text": {
+            "en": "Maintenance doses of 60 and 30 mg (specific criteria for reduced dose apply)/day.",
+            "ru": "Поддерживающая доза 60 мг и 30 мг (при наличии критериев снижения дозы) 1 раз в сутки."
+          }
+        }
+      ]
+    },
+    {
+      "id": "rivaroxaban",
+      "cells": [
+        {
+          "text": {
+            "en": "Rivaroxaban",
+            "ru": "Ривароксабан"
+          }
+        },
+        {
+          "text": {
+            "en": "Maintenance doses of 20 and 15 mg (specific criteria for reduced dose apply)/day, and 2.5 mg b.i.d. (vascular dose).",
+            "ru": "Поддерживающая доза 20 мг и 15 мг (при наличии критериев снижения дозы) 1 раз в сутки, а также 2,5 мг 2 раза в сутки (сосудистая доза)."
+          }
+        }
+      ]
+    }
+  ]
+}

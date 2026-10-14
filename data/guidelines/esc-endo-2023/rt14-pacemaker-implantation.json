@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt14-pacemaker-implantation",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 14",
+  "title": {
+    "en": "Recommendations for pacemaker implantation in patients with complete atrioventricular block and infective endocarditis",
+    "ru": "Рекомендации по имплантации электрокардиостимулятора у пациентов с полной атриовентрикулярной блокадой и инфекционным эндокардитом"
+  },
+  "sections": [
+    {
+      "id": "pacemaker-implantation-in-avb",
+      "title": {
+        "en": "Pacemaker implantation in patients with complete AVB and IE",
+        "ru": "Имплантация электрокардиостимулятора при полной АВ-блокаде и ИЭ"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Immediate epicardial pacemaker implantation should be considered in patients undergoing surgery for valvular IE and complete AVB if one of the following predictors of persistent AVB is present: pre-operative conduction abnormality, S. aureus infection, aortic root abscess, tricuspid valve involvement, or previous valvular surgery.",
+            "ru": "Немедленную имплантацию эпикардиального электрокардиостимулятора следует рассмотреть у пациентов, оперируемых по поводу клапанного ИЭ и полной АВ-блокады, при наличии хотя бы одного из следующих предикторов стойкой АВ-блокады: предоперационные нарушения проводимости, инфекция S. aureus, абсцесс корня аорты, поражение трехстворчатого клапана или предшествующая операция на клапанах."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

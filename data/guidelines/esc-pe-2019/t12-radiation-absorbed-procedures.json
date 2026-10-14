@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t12-radiation-absorbed-procedures",
+  "guidelineId": "esc-pe-2019",
+  "number": "Table 12",
+  "type": "grid",
+  "title": {
+    "en": "Estimated amounts of radiation absorbed in procedures used to diagnose pulmonary embolism (pregnancy)",
+    "ru": "Ориентировочные дозы поглощенной радиации при процедурах диагностики ТЭЛА (беременность)"
+  },
+  "columns": [
+    {
+      "id": "c_test",
+      "title": {
+        "en": "Diagnostic Test",
+        "ru": "Диагностическое исследование"
+      }
+    },
+    {
+      "id": "c_foetal_dose",
+      "title": {
+        "en": "Estimated foetal radiation exposure (mGy)",
+        "ru": "Ориентировочная лучевая нагрузка на плод (мГр)"
+      }
+    },
+    {
+      "id": "c_maternal_breast",
+      "title": {
+        "en": "Estimated maternal radiation exposure to breast tissue (mGy)",
+        "ru": "Ориентировочная лучевая нагрузка на ткань молочной железы матери (мГр)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-chest-xray",
+      "cells": [
+        { "text": { "en": "Chest X-ray", "ru": "Рентгенография органов грудной клетки" } },
+        { "text": { "en": "<0.01", "ru": "<0,01" } },
+        { "text": { "en": "<0.1", "ru": "<0,1" } }
+      ]
+    },
+    {
+      "id": "r02-perfusion-low-dose",
+      "cells": [
+        {
+          "text": {
+            "en": "Perfusion lung scan with technetium-99m-labelled albumin (Low dose: ~40 MBq)",
+            "ru": "Перфузионная сцинтиграфия легких с альбумином, меченным 99mTc (Низкая доза: ~40 МБк)"
+          }
+        },
+        { "text": { "en": "0.02–0.20", "ru": "0,02–0,20" } },
+        { "text": { "en": "0.16–0.5", "ru": "0,16–0,5" } }
+      ]
+    },
+    {
+      "id": "r03-perfusion-high-dose",
+      "cells": [
+        {
+          "text": {
+            "en": "Perfusion lung scan with technetium-99m-labelled albumin (High dose: ~200 MBq)",
+            "ru": "Перфузионная сцинтиграфия легких с альбумином, меченным 99mTc (Высокая доза: ~200 МБк)"
+          }
+        },
+        { "text": { "en": "0.20–0.60", "ru": "0,20–0,60" } },
+        { "text": { "en": "1.2", "ru": "1,2" } }
+      ]
+    },
+    {
+      "id": "r04-ventilation-scan",
+      "cells": [
+        { "text": { "en": "Ventilation lung scan", "ru": "Вентиляционная сцинтиграфия легких" } },
+        { "text": { "en": "0.10–0.30", "ru": "0,10–0,30" } },
+        { "text": { "en": "<0.01", "ru": "<0,01" } }
+      ]
+    },
+    {
+      "id": "r05-ctpa",
+      "cells": [
+        { "text": { "en": "CTPA", "ru": "КТ-ангиопульмонография (CTPA)" } },
+        { "text": { "en": "0.05–0.5", "ru": "0,05–0,5" } },
+        { "text": { "en": "3–10", "ru": "3–10" }, "tone": "orange" }
+      ]
+    }
+  ],
+  "tags": [
+    "radiation",
+    "pregnancy",
+    "foetal-exposure",
+    "breast-tissue",
+    "ctpa",
+    "scintigraphy",
+    "pe"
+  ]
+}

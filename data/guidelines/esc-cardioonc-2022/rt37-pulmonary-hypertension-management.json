@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt37-pulmonary-hypertension-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 37",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 37 — Recommendations for the management of pulmonary hypertension during anticancer treatment",
+    "ru": "Таблица рекомендаций 37 — Рекомендации по ведению легочной гипертензии во время противоопухолевого лечения"
+  },
+  "tags": [
+    "cardio-oncology",
+    "pulmonary-hypertension",
+    "pah",
+    "dasatinib",
+    "rhc",
+    "trv",
+    "bcr-abl"
+  ],
+  "source": {
+    "page": 78
+  },
+  "sections": [
+    {
+      "id": "sec01-ph-management",
+      "title": {
+        "en": "Pulmonary hypertension management",
+        "ru": "Ведение легочной гипертензии"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Right-heart catheterization and discontinuation of dasatinib is recommended in patients who develop symptomatic or asymptomatic increase in peak TRV > 3.4 m/s.",
+            "ru": "Катетеризация правых отделов сердца (КПОС) и отмена дазатиниба рекомендуются пациентам, у которых развивается симптоматическое или бессимптомное увеличение пиковой скорости трикуспидальной регургитации (TRV) > 3,4 м/с."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Dasatinib dose reduction and close monitoring of peak TRV with echocardiography should be considered in patients who develop new asymptomatic peak TRV ranging from 2.9 to 3.4 m/s.",
+            "ru": "Снижение дозы дазатиниба и тщательный эхокардиографический мониторинг пиковой скорости TRV следует рассмотреть у пациентов с впервые выявленной бессимптомной TRV в диапазоне от 2,9 до 3,4 м/с."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients with confirmed dasatinib-induced PAH (definite diagnosis requires right-heart catheterization) or new asymptomatic peak TRV > 3.4 m/s, an alternative BCR-ABL inhibitor is recommended after peak TRV recovery to < 2.8 m/s.",
+            "ru": "У пациентов с подтвержденной дазатиниб-индуцированной легочной артериальной гипертензией (ЛАГ, точный диагноз требует катетеризации правых отделов сердца) или новой бессимптомной TRV > 3,4 м/с рекомендуется переход на альтернативный ингибитор BCR-ABL после снижения TRV < 2,8 м/с."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

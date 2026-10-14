@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt01-recommendations-ccs-in-vhd",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 1",
+  "title": {
+    "en": "Recommendations for the management of chronic coronary syndrome in patients with valvular heart disease",
+    "ru": "Рекомендации по ведению хронического коронарного синдрома у пациентов с клапанными пороками сердца"
+  },
+  "tags": [
+    "vhd",
+    "cad",
+    "ccs",
+    "ccta",
+    "angiography",
+    "cabg",
+    "pci",
+    "tavi",
+    "smr"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnosis-cad",
+      "title": {
+        "en": "Diagnosis of coronary artery disease",
+        "ru": "Диагностика ишемической болезни сердца"
+      },
+      "rows": [
+        {
+          "id": "r01-ccta-pretest-prob",
+          "text": {
+            "en": "CCTA is recommended before valve intervention in patients with moderate or lower (≤50%) pre-test likelihood of obstructive CAD.",
+            "ru": "КТ-коронарография (CCTA) рекомендуется перед вмешательством на клапане у пациентов с умеренной или низкой (≤50%) предтестовой вероятностью обструктивной ИБС."
+          },
+          "refs": [122, 123, 124],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02-ica-high-pretest-prob",
+          "text": {
+            "en": "Invasive coronary angiography is recommended before valve intervention in patients with high and very high (>50%) pre-test likelihood of obstructive CAD.",
+            "ru": "Инвазивная коронарография рекомендуется перед вмешательством на клапане у пациентов с высокой и очень высокой (>50%) предтестовой вероятностью обструктивной ИБС."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03-ica-severe-ventricular-smr",
+          "text": {
+            "en": "Invasive coronary angiography is recommended in the evaluation of CAD in patients with severe ventricular SMR.",
+            "ru": "Инвазивная коронарография рекомендуется при оценке ИБС у пациентов с тяжелой вторичной (желудочковой) митральной регургитацией (ventricular SMR)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04-omission-ica-tavi-ct",
+          "text": {
+            "en": "Omission of invasive coronary angiography should be considered in TAVI candidates, if procedural planning CT angiography is of sufficient quality to rule out significant CAD.",
+            "ru": "Отказ от инвазивной коронарографии следует рассматривать у кандидатов на TAVI, если КТ-ангиография при планировании вмешательства имеет достаточное качество для исключения гемодинамически значимой ИБС."
+          },
+          "refs": [125, 126, 127, 128, 129],
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-indications-revascularization",
+      "title": {
+        "en": "Indications for myocardial revascularization",
+        "ru": "Показания к реваскуляризации миокарда"
+      },
+      "rows": [
+        {
+          "id": "r05-cabg-stenosis-70",
+          "text": {
+            "en": "CABG is recommended in patients with a primary indication for valve surgery and coronary artery stenosis ≥70%.^[c]",
+            "ru": "Коронарное шунтирование (КШ) рекомендуется пациентам с первичными показаниями к операции на клапане при стенозе коронарной артерии ≥70%.^[c]"
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06-cabg-stenosis-50-70",
+          "text": {
+            "en": "CABG should be considered in patients with a primary indication for valve surgery and coronary artery stenosis ≥50%–70%.",
+            "ru": "Коронарное шунтирование (КШ) следует рассматривать у пациентов с первичными показаниями к операции на клапане при стенозе коронарной артерии ≥50%–70%."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07-pci-tavi-stenosis-90",
+          "text": {
+            "en": "PCI should be considered in patients with a primary indication to undergo TAVI and ≥90% coronary artery stenosis in segments with a reference diameter ≥2.5 mm.",
+            "ru": "ЧКВ следует рассматривать у пациентов с первичными показаниями к TAVI при стенозе коронарной артерии ≥90% в сегментах с референсным диаметром ≥2,5 мм."
+          },
+          "refs": [134],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r08-pci-transcatheter-stenosis-70",
+          "text": {
+            "en": "PCI may be considered in patients with a primary indication to undergo transcatheter valve interventions and coronary artery stenosis ≥70% in proximal segments of main vessels.",
+            "ru": "ЧКВ может рассматриваться у пациентов с первичными показаниями к транскатетерным вмешательствам на клапанах при стенозе коронарной артерии ≥70% в проксимальных сегментах магистральных артерий."
+          },
+          "refs": [135, 136, 137],
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Stenosis ≥50% can be considered for left main stenosis.",
+      "ru": "Стеноз ≥50% может рассматриваться для стеноза ствола левой коронарной артерии."
+    }
+  }
+}

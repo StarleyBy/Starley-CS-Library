@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.t10-avoid-bleeding-oral-anticoagulation",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Table 8",
+  "title": {
+    "en": "Strategies to avoid bleeding complications in oral anticoagulation patients",
+    "ru": "Стратегии предотвращения геморрагических осложнений у пациентов, получающих пероральные антикоагулянты"
+  },
+  "type": "grid",
+  "columns": [
+    {
+      "id": "num",
+      "title": {
+        "en": "No.",
+        "ru": "№"
+      }
+    },
+    {
+      "id": "strategy",
+      "title": {
+        "en": "Strategy",
+        "ru": "Стратегия профилактики кровотечений"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "s01",
+      "cells": [
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        },
+        {
+          "text": {
+            "en": "Assess ischaemic and bleeding risks using validated risk predictors (e.g. CHA2DS2-VASc, ABC, and HAS-BLED) with a focus on modifiable risk factors.",
+            "ru": "Оценка ишемического и геморрагического риска с использованием валидированных шкал (например, CHA2DS2-VASc, ABC и HAS-BLED) с особым вниманием к модифицируемым факторам риска."
+          }
+        }
+      ]
+    },
+    {
+      "id": "s02",
+      "cells": [
+        {
+          "text": {
+            "en": "2",
+            "ru": "2"
+          }
+        },
+        {
+          "text": {
+            "en": "Keep triple therapy duration as short as possible; dual therapy after PCI (OAC and clopidogrel) to be considered instead of triple therapy.",
+            "ru": "Минимизация длительности тройной терапии (как можно короче); рассмотрение двойной терапии после ЧКВ (ПОАК + клопидогрел) вместо тройной терапии."
+          }
+        }
+      ]
+    },
+    {
+      "id": "s03",
+      "cells": [
+        {
+          "text": {
+            "en": "3",
+            "ru": "3"
+          }
+        },
+        {
+          "text": {
+            "en": "One should consider the use of a NOAC instead of a VKA when NOACs are not contraindicated.",
+            "ru": "Следует отдавать предпочтение прямым пероральным антикоагулянтам (ПОАК) перед антагонистами витамина К (АВК), если ПОАК не противопоказаны."
+          }
+        }
+      ]
+    },
+    {
+      "id": "s04",
+      "cells": [
+        {
+          "text": {
+            "en": "4",
+            "ru": "4"
+          }
+        },
+        {
+          "text": {
+            "en": "Consider a target INR in the lower part of the recommended target range and maximize time in the therapeutic range (i.e. >65%) when a VKA is used.",
+            "ru": "При использовании АВК ориентироваться на нижнюю границу целевого диапазона МНО и стремиться к максимальному времени нахождения в терапевтическом диапазоне (TTR >65%)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "s05",
+      "cells": [
+        {
+          "text": {
+            "en": "5",
+            "ru": "5"
+          }
+        },
+        {
+          "text": {
+            "en": "Clopidogrel is the P2Y12 inhibitor of choice.",
+            "ru": "Клопидогрел является ингибитором P2Y12 первого выбора."
+          }
+        }
+      ]
+    },
+    {
+      "id": "s06",
+      "cells": [
+        {
+          "text": {
+            "en": "6",
+            "ru": "6"
+          }
+        },
+        {
+          "text": {
+            "en": "Use low-dose (≤100 mg daily) aspirin.",
+            "ru": "Использование низких доз ацетилсалициловой кислоты (≤100 мг в сутки)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "s07",
+      "cells": [
+        {
+          "text": {
+            "en": "7",
+            "ru": "7"
+          }
+        },
+        {
+          "text": {
+            "en": "Routine use of PPIs (proton pump inhibitors).",
+            "ru": "Рутинное назначение ингибиторов протонной помпы (ИПП)."
+          }
+        }
+      ]
+    }
+  ]
+}

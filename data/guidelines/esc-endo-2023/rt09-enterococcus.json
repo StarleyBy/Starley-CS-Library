@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt09-enterococcus",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 9",
+  "title": {
+    "en": "Recommendations for antibiotic treatment of infective endocarditis due to Enterococcus spp.",
+    "ru": "Рекомендации по антибактериальной терапии инфекционного эндокардита, вызванного Enterococcus spp."
+  },
+  "sections": [
+    {
+      "id": "beta-lactam-gentamicin-susceptible",
+      "title": {
+        "en": "Beta-lactam and gentamicin-susceptible strains",
+        "ru": "Штаммы, чувствительные к бета-лактамам и гентамицину"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with NVE due to non-HLAR Enterococcus spp., the combination of ampicillin or amoxicillin with ceftriaxone for 6 weeks or with gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Amoxicillin 12 g/day i.v. in 4–6 doses; Ampicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 4 g/day i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.\n• Paediatric dosage: Amoxicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Ampicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Ceftriaxone 100 mg/kg i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 3 equally divided doses.",
+            "ru": "У пациентов с ИЭ нативного клапана, вызванным энтерококками без HLAR (высокого уровня устойчивости к аминогликозидам), рекомендуется комбинация ампициллина или амоксициллина с цефтриаксоном в течение 6 недель либо с гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: амоксициллин 12 г/сут в/в в 4–6 введений; ампициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 4 г/сут в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение.\n• Дозы у детей: амоксициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); ампициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); цефтриаксон 100 мг/кг в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 3 равных введения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with PVE and patients with complicated NVE or >3 months of symptoms due to non-HLAR Enterococcus spp., the combination of ampicillin or amoxicillin with ceftriaxone for 6 weeks or with gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Amoxicillin 12 g/day i.v. in 4–6 doses; Ampicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 4 g/day i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.\n• Paediatric dosage: Ampicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Amoxicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Ceftriaxone 100 mg/kg/day i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 3 equally divided doses.",
+            "ru": "У пациентов с ИЭ протезированного клапана, а также при осложненном ИЭ нативного клапана или длительности симптомов >3 месяцев, вызванных энтерококками без HLAR, рекомендуется комбинация ампициллина или амоксициллина с цефтриаксоном в течение 6 недель либо с гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: амоксициллин 12 г/сут в/в в 4–6 введений; ампициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 4 г/сут в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение.\n• Дозы у детей: ампициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); амоксициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); цефтриаксон 100 мг/кг/сут в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 3 равных введения."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "high-level-aminoglycoside-resistance",
+      "title": {
+        "en": "High-level aminoglycoside resistance (HLAR)",
+        "ru": "Высокий уровень резистентности к аминогликозидам (HLAR)"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients with NVE or PVE due to HLAR Enterococcus spp., the combination of ampicillin or amoxicillin and ceftriaxone for 6 weeks is recommended using the following doses:\n• Adult dosage: Ampicillin 12 g/day i.v. in 4–6 doses; Amoxicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 4 g/day i.v. or i.m. in 2 doses.\n• Paediatric dosage: Ampicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Amoxicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Ceftriaxone 100 mg/kg i.v. or i.m. in 2 doses.",
+            "ru": "У пациентов с ИЭ нативного или протезированного клапана, вызванным энтерококками с HLAR, рекомендуется комбинация ампициллина или амоксициллина и цефтриаксона в течение 6 недель в следующих дозировках:\n• Дозы у взрослых: ампициллин 12 г/сут в/в в 4–6 введений; амоксициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 4 г/сут в/в или в/м в 2 введения.\n• Дозы у детей: ампициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); амоксициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); цефтриаксон 100 мг/кг в/в или в/м в 2 введения."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "beta-lactam-resistant-enterococci",
+      "title": {
+        "en": "Beta-lactam resistant Enterococcus spp. (E. faecium)",
+        "ru": "Энтерококки, резистентные к бета-лактамам (E. faecium)"
+      },
+      "rows": [
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients with IE due to beta-lactam resistant Enterococcus spp. (E. faecium), vancomycin for 6 weeks combined with gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Vancomycin 30 mg/kg/day i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.\n• Paediatric dosage: Vancomycin 30 mg/kg/day i.v. in 2–3 equally divided doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.",
+            "ru": "У пациентов с ИЭ, вызванным устойчивыми к бета-лактамам энтерококками (E. faecium), рекомендуется ванкомицин в течение 6 недель в сочетании с гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: ванкомицин 30 мг/кг/сут в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение.\n• Дозы у детей: ванкомицин 30 мг/кг/сут в/в в 2–3 равных приема; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "vancomycin-resistant-enterococci",
+      "title": {
+        "en": "Vancomycin-resistant Enterococcus spp.",
+        "ru": "Ванкомицин-резистентные энтерококки (VRE)"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients with IE due to vancomycin-resistant Enterococcus spp., daptomycin combined with beta-lactams (ampicillin, ertapenem, or ceftaroline) or fosfomycin is recommended using the following doses:\n• Adult dosage: Daptomycin 10–12 mg/kg/day i.v. in 1 dose; Ampicillin 12 g/day i.v. in 4–6 doses; Fosfomycin 12 g/day i.v. in 4 doses; Ceftaroline 1800 mg/day i.v. in 3 doses; Ertapenem 2 g/day i.v. or i.m. in 1 dose.\n• Paediatric dosage: Daptomycin 10–12 mg/kg/day i.v. in 1 dose (age-adjusted); Ampicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Fosfomycin 2–3 g/day i.v. in 1 dose; Ceftaroline 24–36 mg/kg/day in 3 doses; Ertapenem 1 g/day i.v. or i.m. in 1 dose (if <12 years, 15 mg/kg/dose [max 500 mg] twice daily).",
+            "ru": "У пациентов с ИЭ, вызванным ванкомицин-резистентными энтерококками, рекомендуется даптомицин в комбинации с бета-лактамами (ампициллин, эртапенем или цефтаролин) или фосфомицином в следующих дозировках:\n• Дозы у взрослых: даптомицин 10–12 мг/кг/сут в/в в 1 введение; ампициллин 12 г/сут в/в в 4–6 введений; фосфомицин 12 г/сут в/в в 4 введения; цефтаролин 1800 мг/сут в/в в 3 введения; эртапенем 2 г/сут в/в или в/м в 1 введение.\n• Дозы у детей: даптомицин 10–12 мг/кг/сут в/в в 1 прием (с коррекцией по возрасту); ампициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); фосфомицин 2–3 г/сут в/в в 1 введение; цефтаролин 24–36 мг/кг/сут в 3 приема; эртапенем 1 г/сут в/в или в/м в 1 введение (если младше 12 лет: 15 мг/кг на дозу [макс. 500 мг] дважды в сутки)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

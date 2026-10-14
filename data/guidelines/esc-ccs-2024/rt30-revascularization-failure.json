@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt30-revascularization-failure",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 30",
+  "title": {
+    "en": "Recommendations for treatment of revascularization failure",
+    "ru": "Рекомендации по лечению неэффективности (несостоятельности) реваскуляризации"
+  },
+  "sections": [
+    {
+      "id": "revascularization-failure-treatment",
+      "title": {
+        "en": "Treatment of revascularization failure",
+        "ru": "Лечение несостоятельности реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "DES is recommended over drug-coated balloons for treatment of in-DES restenosis.",
+            "ru": "Использование стентов с лекарственным покрытием (DES) рекомендуется вместо баллонов с лекарственным покрытием для лечения рестеноза внутри DES."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "LIMA is indicated as the conduit of choice for redo CABG in patients in whom the LIMA was not used previously.",
+            "ru": "Левая внутренняя грудная артерия (LIMA) показана в качестве кондуита выбора при повторном АКШ у пациентов, у которых LIMA не использовалась ранее."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Redo CABG should be considered for patients without a patent LIMA graft to the LAD.",
+            "ru": "Повторное АКШ следует рассмотреть у пациентов без функционирующего (проходимого) LIMA-шунта к ПМЖВ."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "PCI of the bypassed native artery should be considered over PCI of the bypass graft.",
+            "ru": "ЧКВ нативной коронарной артерии, к которой подведен шунт, следует предпочесть ЧКВ на самом венозном шунте."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

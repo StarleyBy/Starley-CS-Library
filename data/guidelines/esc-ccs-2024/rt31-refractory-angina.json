@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt31-refractory-angina",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 31",
+  "title": {
+    "en": "Recommendations for recurrent or refractory angina/ischaemia",
+    "ru": "Рекомендации при рецидивирующей или рефрактерной стенокардии/ишемии"
+  },
+  "sections": [
+    {
+      "id": "recurrent-refractory-angina-ischaemia",
+      "title": {
+        "en": "Recurrent or refractory angina/ischaemia",
+        "ru": "Рецидивирующая или рефрактерная стенокардия/ишемия"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with refractory angina leading to poor quality of life and with documented or suspected ANOCA/INOCA, invasive coronary functional testing is recommended to define ANOCA/INOCA endotypes and appropriate treatment, considering patient choices and preferences.",
+            "ru": "У пациентов с рефрактерной стенокардией, приводящей к низкому качеству жизни, и с документированной или подозреваемой ANOCA/INOCA рекомендуется инвазивное коронарное функциональное тестирование для определения эндотипов ANOCA/INOCA и подбора соответствующего лечения с учетом выбора и предпочтений пациента."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with debilitating angina and obstructive CAD refractory to optimal medical and revascularization strategies, a reducer device for coronary sinus constriction may be considered to improve symptoms, in experienced centres.",
+            "ru": "У пациентов с изнуряющей стенокардией и обструктивной ИБС, рефрактерными к оптимальной медикаментозной терапии и стратегиям реваскуляризации, может быть рассмотрена имплантация редуктора коронарного синуса для облегчения симптомов в опытных центрах."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

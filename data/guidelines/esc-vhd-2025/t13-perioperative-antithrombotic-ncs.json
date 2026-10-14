@@ -1,0 +1,347 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.t13-perioperative-antithrombotic-ncs",
+  "guidelineId": "esc-vhd-2025",
+  "number": "Table 11",
+  "type": "grid",
+  "title": {
+    "en": "Peri-operative management of antithrombotic treatment in patients with a mechanical heart valve undergoing non-cardiac surgery based on type of procedure and underlying risk",
+    "ru": "Периоперационное ведение антитромботической терапии у пациентов с механическим протезом клапана сердца при внесердечных операциях в зависимости от типа процедуры и риска"
+  },
+  "columns": [
+    {
+      "id": "c_risk_group",
+      "title": {
+        "en": "Risk category & Valve type",
+        "ru": "Категория риска и тип протеза"
+      }
+    },
+    {
+      "id": "c_strategy",
+      "title": {
+        "en": "Strategy domain",
+        "ru": "Направление ведения"
+      }
+    },
+    {
+      "id": "c_minor_pre",
+      "title": {
+        "en": "Minimally invasive: Pre-procedure",
+        "ru": "Малоинвазивные: до процедуры"
+      }
+    },
+    {
+      "id": "c_minor_post",
+      "title": {
+        "en": "Minimally invasive: Post-procedure",
+        "ru": "Малоинвазивные: после процедуры"
+      }
+    },
+    {
+      "id": "c_major_pre",
+      "title": {
+        "en": "Major NCS: Pre-procedure",
+        "ru": "Крупные операции: до процедуры"
+      }
+    },
+    {
+      "id": "c_major_post",
+      "title": {
+        "en": "Major NCS: Post-procedure",
+        "ru": "Крупные операции: после процедуры"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-header-low-risk",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 6,
+          "text": {
+            "en": "**Low thromboembolic risk** (New-generation aortic MHV and no additional risk factors^[b])",
+            "ru": "**Низкий риск тромбоэмболии** (Аортальный механический протез нового поколения без дополнительных факторов риска^[b])"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-low-risk-oac",
+      "cells": [
+        {
+          "text": {
+            "en": "New-generation aortic MHV",
+            "ru": "Аортальный MHV нового поколения"
+          }
+        },
+        {
+          "text": {
+            "en": "**OAC**",
+            "ru": "**Пероральные антикоагулянты (ОАК)**"
+          }
+        },
+        {
+          "text": {
+            "en": "No interruption of VKA",
+            "ru": "Без отмены АВК"
+          }
+        },
+        {
+          "text": {
+            "en": "Continue VKA",
+            "ru": "Продолжить прием АВК"
+          }
+        },
+        {
+          "text": {
+            "en": "Interrupt VKA at least 3–4 days prior to procedure with target INR <1.5 on the day of surgery",
+            "ru": "Отменить АВК как минимум за 3–4 дня до процедуры с целевым МНО <1,5 в день операции"
+          }
+        },
+        {
+          "text": {
+            "en": "Resume VKA as soon as feasible, within 24 h",
+            "ru": "Возобновить АВК как только возможно, в течение 24 ч"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-low-risk-bridging",
+      "cells": [
+        {
+          "text": {
+            "en": "New-generation aortic MHV",
+            "ru": "Аортальный MHV нового поколения"
+          }
+        },
+        {
+          "text": {
+            "en": "**Bridging**",
+            "ru": "**«Мост»-терапия (Bridging)**"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "No bridging may be considered",
+            "ru": "Можно рассматривать отказ от «мост»-терапии"
+          }
+        },
+        {
+          "text": {
+            "en": "No bridging may be considered, unless unable to administer OAC",
+            "ru": "Можно рассматривать отказ от «моста», если нет невозможности перорального приема ОАК"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-low-risk-supporting",
+      "cells": [
+        {
+          "text": {
+            "en": "New-generation aortic MHV",
+            "ru": "Аортальный MHV нового поколения"
+          }
+        },
+        {
+          "text": {
+            "en": "**Supporting measures**",
+            "ru": "**Вспомогательные меры**"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Topical antifibrinolytic or haemostatic agents may be considered to improve local haemostasis",
+            "ru": "Местные антифибринолитики или гемостатические средства для локального гемостаза"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Mechanical and pharmacological VTE prophylaxis, if indicated",
+            "ru": "Механическая и медикаментозная профилактика ВТЭО при наличии показаний"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-header-mod-high-risk",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 6,
+          "text": {
+            "en": "**Moderate-to-high thromboembolic risk** (MHV in mitral or tricuspid position or other thromboembolic risk factors^[b])",
+            "ru": "**Умеренный и высокий риск тромбоэмболии** (Протез в митральной/трикуспидальной позиции или другие факторы риска^[b])"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-mod-high-risk-oac",
+      "cells": [
+        {
+          "text": {
+            "en": "Mitral/tricuspid MHV or risk factors",
+            "ru": "Митральный/трикуспидальный MHV или факторы риска"
+          }
+        },
+        {
+          "text": {
+            "en": "**OAC**",
+            "ru": "**Пероральные антикоагулянты (ОАК)**"
+          }
+        },
+        {
+          "text": {
+            "en": "No interruption of VKA",
+            "ru": "Без отмены АВК"
+          }
+        },
+        {
+          "text": {
+            "en": "Continue VKA",
+            "ru": "Продолжить прием АВК"
+          }
+        },
+        {
+          "text": {
+            "en": "Interrupt VKA at least 4 days prior to procedure with target INR <1.5 the day of the procedure",
+            "ru": "Отменить АВК как минимум за 4 дня до процедуры с целевым МНО <1,5 в день вмешательства"
+          }
+        },
+        {
+          "text": {
+            "en": "Resume VKA within 24 h",
+            "ru": "Возобновить АВК в течение 24 ч"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-mod-high-risk-bridging",
+      "cells": [
+        {
+          "text": {
+            "en": "Mitral/tricuspid MHV or risk factors",
+            "ru": "Митральный/трикуспидальный MHV или факторы риска"
+          }
+        },
+        {
+          "text": {
+            "en": "**Bridging**",
+            "ru": "**«Мост»-терапия (Bridging)**"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Bridging with LMWH or UFH if CKD stage IV or V, starting at INR below the therapeutic range",
+            "ru": "«Мост»-терапия НМГ (или НФГ при ХБП IV–V стадии), начиная со снижения МНО ниже терапевтического диапазона"
+          }
+        },
+        {
+          "text": {
+            "en": "Bridging with UFH or LMWH post-operatively within 24 h",
+            "ru": "«Мост»-терапия НФГ или НМГ после операции в течение 24 ч"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-mod-high-risk-supporting",
+      "cells": [
+        {
+          "text": {
+            "en": "Mitral/tricuspid MHV or risk factors",
+            "ru": "Митральный/трикуспидальный MHV или факторы риска"
+          }
+        },
+        {
+          "text": {
+            "en": "**Supporting measures**",
+            "ru": "**Вспомогательные меры**"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Topical antifibrinolytic or haemostatic agents may be considered to improve local haemostasis",
+            "ru": "Местные антифибринолитики или гемостатические средства для локального гемостаза"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Appropriate mechanical and pharmacological VTE prophylaxis",
+            "ru": "Адекватная механическая и фармакологическая профилактика ВТЭО"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "b": {
+      "en": "Inherited or acquired hypercoagulable state, LV dysfunction (LVEF <35%), AF with significant MS, recent (<12 months) major thrombotic event (i.e. cardioembolic stroke, deep vein thrombosis, pulmonary embolism).",
+      "ru": "Врожденная или приобретенная тромбофилия, систолическая дисфункция ЛЖ (ФВ <35%), ФП со значимым митральным стенозом, недавнее (<12 мес.) крупное тромботическое событие (кардиоэмболический инсульт, ТГВ, ТЭЛА)."
+    }
+  },
+  "tags": [
+    "vhd",
+    "mhv",
+    "bridging",
+    "perioperative",
+    "non-cardiac-surgery",
+    "vka",
+    "inr",
+    "lmwh",
+    "ufh",
+    "anticoagulation"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.t08-qt-prolongation-risk-factors",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Table 8",
+  "type": "grid",
+  "title": {
+    "en": "Table 8 — Risk factors for drug-induced QT prolongation and torsade de pointes",
+    "ru": "Таблица 8 — Факторы риска медикаментозно-индуцированного удлинения интервала QT и пируэтной желудочковой тахикардии (torsade de pointes)"
+  },
+  "tags": [
+    "cardio-oncology",
+    "qt-prolongation",
+    "tdp",
+    "torsade-de-pointes",
+    "hypokalaemia",
+    "hypomagnesaemia",
+    "risk-factors"
+  ],
+  "source": {
+    "page": 68
+  },
+  "columns": [
+    {
+      "id": "c_correctable",
+      "title": {
+        "en": "Correctable",
+        "ru": "Модифицируемые (корригируемые)"
+      }
+    },
+    {
+      "id": "c_non_correctable",
+      "title": {
+        "en": "Non-correctable",
+        "ru": "Немодифицируемые (некорригируемые)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-drugs-demographics",
+      "cells": [
+        {
+          "text": {
+            "en": "QT-prolonging drugs:\n• Antiarrhythmics\n• Antibiotics\n• Antidepressants\n• Antifungals\n• Antiemetics\n• Antihistamines\n• Antipsychotics\n• Loop diuretics\n• Opioids (methadone)",
+            "ru": "Препараты, удлиняющие интервал QT:\n• Антиаритмики\n• Антибиотики\n• Антидепрессанты\n• Противогрибковые средства\n• Противорвотные средства\n• Антигистаминные препараты\n• Антипсихотики (нейролептики)\n• Петлевые диуретики\n• Опиоиды (метадон)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Acute myocardial ischaemia\n• Age > 65 years\n• Baseline QTc interval prolongation (using Fridericia correction QTcF)\n• Family history of sudden death (congenital LQTS or genetic polymorphism)\n• Female sex",
+            "ru": "• Острая ишемия миокарда\n• Возраст > 65 лет\n• Исходное удлинение интервала QTc (по формуле Фридеричи QTcF)\n• Отягощенный семейный анамнез по внезапной смерти (врожденный синдром удлиненного интервала QT или генетический полиморфизм)\n• Женский пол"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-systemic-factors",
+      "cells": [
+        {
+          "text": {
+            "en": "• Bradyarrhythmia\n• Electrolyte imbalance/abnormalities:\n  - Hypokalaemia (≤3.5 mEq/L)\n  - Hypomagnesaemia (≤1.6 mEq/L)\n  - Hypocalcaemia (≤8.5 mEq/L)\n• Inadequate dose adjustment of renal or hepatic cleared QT-prolonging drugs",
+            "ru": "• Брадиаритмии\n• Электролитный дисбаланс/нарушения:\n  - Гипокалиемия (≤3,5 мэкв/л)\n  - Гипомагниемия (≤1,6 мэкв/л)\n  - Гипокальциемия (≤8,5 мэкв/л)\n• Неадекватная коррекция дозы препаратов, удлиняющих QT, выводящихся почками или печенью"
+          }
+        },
+        {
+          "text": {
+            "en": "• Impaired renal function (for renally excreted drugs)\n• Liver disease (for hepatically excreted drugs)\n• Personal history of syncope or drug-induced TdP\n• Pre-existing CVD (CAD, HF, LV hypertrophy)",
+            "ru": "• Нарушение функции почек (для препаратов с почечной элиминацией)\n• Заболевания печени (для препаратов с печеночным метаболизмом)\n• Индивидуальный анамнез синкопе или медикаментозно-индуцированной тахикардии TdP\n• Предшествующие ССЗ (ИБС, сердечная недостаточность, гипертрофия ЛЖ)"
+          }
+        }
+      ]
+    }
+  ]
+}

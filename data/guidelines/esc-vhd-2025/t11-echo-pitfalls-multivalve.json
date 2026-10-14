@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.t11-echo-pitfalls-multivalve",
+  "guidelineId": "esc-vhd-2025",
+  "number": "Table 9",
+  "type": "grid",
+  "title": {
+    "en": "Echocardiographic pitfalls, robust measures, and complementary multimodality imaging parameters in multiple or mixed valvular heart disease",
+    "ru": "Эхокардиографические ошибки (ловушки), надежные параметры оценки и дополнительные методы визуализации при сочетанных и комбинированных клапанных пороках сердца"
+  },
+  "columns": [
+    {
+      "id": "c_concomitant",
+      "title": {
+        "en": "Concomitant valve lesion",
+        "ru": "Сопутствующий порок"
+      }
+    },
+    {
+      "id": "c_as",
+      "title": {
+        "en": "AS (Аортальный стеноз)",
+        "ru": "АС (Аортальный стеноз)"
+      }
+    },
+    {
+      "id": "c_ar",
+      "title": {
+        "en": "AR (Аортальная регургитация)",
+        "ru": "АР (Аортальная регургитация)"
+      }
+    },
+    {
+      "id": "c_ms",
+      "title": {
+        "en": "MS (Митральный стеноз)",
+        "ru": "МС (Митральный стеноз)"
+      }
+    },
+    {
+      "id": "c_mr",
+      "title": {
+        "en": "MR (Митральная регургитация)",
+        "ru": "МР (Митральная регургитация)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-as",
+      "cells": [
+        {
+          "text": {
+            "en": "**AS**",
+            "ru": "**АС**"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "PHT unreliable<br>LV volume increase less pronounced (hypertrophy, disproportionate diastolic LV pressure overload)",
+            "ru": "PHT ненадежен<br>Увеличение объема ЛЖ менее выражено (гипертрофия, непропорциональная диастолическая перегрузка давлением ЛЖ)"
+          }
+        },
+        {
+          "text": {
+            "en": "PHT unreliable (LV compliance ↓)<br>Low gradient due to low flow possible (low-flow state)",
+            "ru": "PHT ненадежен (снижение комплаентности ЛЖ)<br>Возможен низкий градиент вследствие низкого ударного объема (состояние low-flow)"
+          }
+        },
+        {
+          "text": {
+            "en": "Regurgitant volume ↑<br>MR colour-flow jet area ↑ (increased afterload and transmitral systolic pressure gradient)",
+            "ru": "Объем регургитации ↑<br>Площадь цветной струи МР ↑ (увеличение постнагрузки и трансмитрального систолического градиента давления)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-ar",
+      "cells": [
+        {
+          "text": {
+            "en": "**AR**",
+            "ru": "**АР**"
+          }
+        },
+        {
+          "text": {
+            "en": "Simplified Bernoulli equation overestimates gradient if LVOT velocity ↑",
+            "ru": "Упрощенное уравнение Бернулли завышает градиент при увеличении скорости в LVOT"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "PHT unreliable (gradient ↓, altered LV compliance)<br>MVA by continuity equation using aortic forward flow unreliable",
+            "ru": "PHT ненадежен (градиент ↓, изменение комплаентности ЛЖ)<br>Расчет MVA по уравнению непрерывности потока с использованием аортального антеградного потока ненадежен"
+          }
+        },
+        {
+          "text": {
+            "en": "Doppler volumetric method using net aortic forward flow invalid<br>Mitral-to-aortic VTI ratio unreliable (increased transaortic flow)",
+            "ru": "Допплеровский объемный метод с использованием истинного аортального антеградного потока некорректен<br>Отношение VTI митрального к аортальному клапану ненадежно (увеличение трансаортального потока)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-ms",
+      "cells": [
+        {
+          "text": {
+            "en": "**MS**",
+            "ru": "**МС**"
+          }
+        },
+        {
+          "text": {
+            "en": "Low-flow low-gradient possible (low-flow state)",
+            "ru": "Возможен низкопотоковый низкоградиентный феномен (состояние low-flow)"
+          }
+        },
+        {
+          "text": {
+            "en": "LV volume increase less pronounced (reduced preload)",
+            "ru": "Увеличение объема ЛЖ менее выражено (снижение преднагрузки)"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Mitral-to-aortic VTI ratio unreliable (increased mitral VTI due to stenosis)<br>Calcifications may shadow jet area",
+            "ru": "Отношение VTI митрального к аортальному клапану ненадежно (увеличение митрального VTI из-за стеноза)<br>Кальцинаты могут вызывать акустическую тень над струей регургитации"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-mr",
+      "cells": [
+        {
+          "text": {
+            "en": "**MR**",
+            "ru": "**МР**"
+          }
+        },
+        {
+          "text": {
+            "en": "Low-flow low-gradient (MR-induced low-flow state)<br>AS confused with MR jet",
+            "ru": "Низкопотоковый низкоградиентный стеноз (low-flow, индуцированный МР)<br>Ошибочное принятие струи МР за струю аортального стеноза"
+          }
+        },
+        {
+          "text": {
+            "en": "PHT unreliable (altered LV compliance)<br>Doppler volumetric method using net mitral forward flow invalid (increased flow)",
+            "ru": "PHT ненадежен (измененная комплаентность ЛЖ)<br>Допплеровский объемный метод с использованием трансмитрального потока некорректен (увеличенный поток)"
+          }
+        },
+        {
+          "text": {
+            "en": "PHT unreliable (altered LA and LV compliance)<br>Continuity equation unreliable (increased transmitral flow)",
+            "ru": "PHT ненадежен (изменение комплаентности ЛП и ЛЖ)<br>Уравнение непрерывности потока ненадежно (увеличение трансмитрального потока)"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-tr",
+      "cells": [
+        {
+          "text": {
+            "en": "**TR**",
+            "ru": "**ТР**"
+          }
+        },
+        {
+          "text": {
+            "en": "Low-flow low-gradient possible (TR induced low-flow state)",
+            "ru": "Возможен низкопотоковый низкоградиентный феномен (состояние low-flow, индуцированное ТР)"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Low gradient possible (low-flow state)<br>PHT may be less reliable (impaired LV filling due to ventricular interdependence)",
+            "ru": "Возможен заниженный градиент (состояние low-flow)<br>PHT может быть менее надежен (нарушение наполнения ЛЖ из-за межжелудочкового взаимодействия)"
+          }
+        },
+        {
+          "text": {
+            "en": "Regurgitant volume ↓ in SMR possible (decreased preload)",
+            "ru": "Возможно снижение объема регургитации при ВМР (уменьшение преднагрузки)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-robust-measurements",
+      "cells": [
+        {
+          "text": {
+            "en": "**Robust echocardiography measurements**",
+            "ru": "**Надежные эхокардиографические измерения**"
+          }
+        },
+        {
+          "text": {
+            "en": "AVA (continuity equation), DVI<br>*In mixed AR and AS:* V_max and mean gradient reflect combined burden",
+            "ru": "AVA (уравнение непрерывности), DVI (индекс допплеровской скорости)<br>*При сочетанном АР и АС:* V_max и средний градиент отражают совокупную нагрузку"
+          }
+        },
+        {
+          "text": {
+            "en": "EROA (PISA), vena contracta",
+            "ru": "EROA (метод PISA), vena contracta"
+          }
+        },
+        {
+          "text": {
+            "en": "Planimetry and 3D MVA (TOE)<br>*In mixed MR & MS:* mean gradient reflects combined burden",
+            "ru": "Планиметрия и 3D MVA (при ЧП-ЭхоКГ)<br>*При сочетанном МР и МС:* средний градиент отражает совокупную гемодинамическую нагрузку"
+          }
+        },
+        {
+          "text": {
+            "en": "EROA (PISA), vena contracta",
+            "ru": "EROA (метод PISA), vena contracta"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-alternative-modalities",
+      "cells": [
+        {
+          "text": {
+            "en": "**Alternative imaging modalities**",
+            "ru": "**Альтернативные методы визуализации**"
+          }
+        },
+        {
+          "text": {
+            "en": "CT: AV calcium scoring",
+            "ru": "КТ сердца: подсчет кальциевого индекса АК (calcium scoring)"
+          }
+        },
+        {
+          "text": {
+            "en": "CMR: regurgitant volume and fraction",
+            "ru": "МРТ сердца (CMR): фракция и объем регургитации"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "CMR: regurgitant volume and fraction",
+            "ru": "МРТ сердца (CMR): объем и фракция регургитации"
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "vhd",
+    "multivalve",
+    "mixed-vhd",
+    "echocardiography",
+    "pitfalls",
+    "pisa",
+    "cmr",
+    "ct-calcium",
+    "low-flow",
+    "pht"
+  ]
+}

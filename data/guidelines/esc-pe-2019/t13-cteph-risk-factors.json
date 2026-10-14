@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t13-cteph-risk-factors",
+  "guidelineId": "esc-pe-2019",
+  "number": "Table 13",
+  "type": "grid",
+  "title": {
+    "en": "Risk factors and predisposing conditions for chronic thromboembolic pulmonary hypertension (CTEPH)",
+    "ru": "Факторы риска и предрасполагающие состояния для хронической тромбоэмболической легочной гипертензии (ХТЛГ)"
+  },
+  "columns": [
+    {
+      "id": "c_acute_findings",
+      "title": {
+        "en": "Findings related to the acute PE event (obtained at PE diagnosis)",
+        "ru": "Признаки, связанные с острым событием ТЭЛА (при установлении диагноза ТЭЛА)"
+      }
+    },
+    {
+      "id": "c_chronic_conditions",
+      "title": {
+        "en": "Concomitant chronic diseases and conditions predisposing to CTEPH (documented at PE diagnosis or at 3–6 month follow-up)",
+        "ru": "Сопутствующие хронические заболевания и состояния, предрасполагающие к ХТЛГ (при диагнозе или через 3–6 мес)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-findings-row1",
+      "cells": [
+        { "text": { "en": "Previous episodes of PE or DVT", "ru": "Предшествующие эпизоды ТЭЛА или ТГВ" } },
+        { "text": { "en": "Ventriculo-atrial shunts", "ru": "Вентрикуло-атриальные шунты" } }
+      ]
+    },
+    {
+      "id": "r02-findings-row2",
+      "cells": [
+        { "text": { "en": "Large pulmonary arterial thrombi on CTPA", "ru": "Крупные тромбы в легочных артериях по данным КТ-ангиографии" } },
+        { "text": { "en": "Infected chronic i.v. lines or pacemakers", "ru": "Инфицированные постоянные в/в катетеры или электрокардиостимуляторы" } }
+      ]
+    },
+    {
+      "id": "r03-findings-row3",
+      "cells": [
+        { "text": { "en": "Echocardiographic signs of PH / RV dysfunction (RV/LV diameter ratio >1.0)", "ru": "Эхокардиографические признаки ЛГ / дисфункции ПЖ (отношение диаметров ПЖ/ЛЖ >1,0)" } },
+        { "text": { "en": "History of splenectomy", "ru": "Спленэктомия в анамнезе" } }
+      ]
+    },
+    {
+      "id": "r04-findings-row4",
+      "cells": [
+        { "text": { "en": "CTPA findings suggestive of pre-existing chronic thromboembolic disease", "ru": "КТ-признаки предшествующей хронической тромбоэмболической болезни сосудов" } },
+        { "text": { "en": "Thrombophilic disorders, particularly antiphospholipid antibody syndrome and high coagulation factor VIII levels", "ru": "Тромбофилические состояния, особенно антифосфолипидный синдром и высокий уровень фактора VIII свертывания" } }
+      ]
+    },
+    {
+      "id": "r05-conditions-only-1",
+      "cells": [
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Non-O blood group", "ru": "Группа крови, отличная от O (I)" } }
+      ]
+    },
+    {
+      "id": "r06-conditions-only-2",
+      "cells": [
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Hypothyroidism treated with thyroid hormones", "ru": "Гипотиреоз, требующий заместительной терапии тиреоидными гормонами" } }
+      ]
+    },
+    {
+      "id": "r07-conditions-only-3",
+      "cells": [
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "History of cancer", "ru": "Онкологическое заболевание в анамнезе" } }
+      ]
+    },
+    {
+      "id": "r08-conditions-only-4",
+      "cells": [
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Myeloproliferative disorders", "ru": "Миелопролиферативные заболевания" } }
+      ]
+    },
+    {
+      "id": "r09-conditions-only-5",
+      "cells": [
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Inflammatory bowel disease", "ru": "Воспалительные заболевания кишечника (ВЗК)" } }
+      ]
+    },
+    {
+      "id": "r10-conditions-only-6",
+      "cells": [
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Chronic osteomyelitis", "ru": "Хронический остеомиелит" } }
+      ]
+    }
+  ],
+  "tags": [
+    "cteph",
+    "risk-factors",
+    "pulmonary-hypertension",
+    "splenectomy",
+    "antiphospholipid",
+    "pe",
+    "follow-up"
+  ]
+}

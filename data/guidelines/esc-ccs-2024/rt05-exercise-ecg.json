@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt05-exercise-ecg",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 5",
+  "title": {
+    "en": "Recommendations for exercise ECG in the initial diagnostic management of individuals with suspected chronic coronary syndrome",
+    "ru": "Рекомендации по нагрузочной ЭКГ при первичной диагностике лиц с подозрением на хронический коронарный синдром"
+  },
+  "tags": [
+    "ccs",
+    "exercise-ecg",
+    "treadmill",
+    "stress-test",
+    "contraindications",
+    "lbbb",
+    "digitalis",
+    "ccta-comparison"
+  ],
+  "source": {
+    "page": 32
+  },
+  "sections": [
+    {
+      "id": "sec-exercise-ecg-general",
+      "title": {
+        "en": "Exercise ECG recommendations",
+        "ru": "Рекомендации по нагрузочной ЭКГ"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Exercise ECG is recommended in selected patients (when this information will have an impact on diagnostic strategy or management) for the assessment of exercise tolerance, symptoms, arrhythmias, BP response, and event risk.",
+            "ru": "Нагрузочная ЭКГ рекомендуется у отобранных пациентов (когда эта информация повлияет на диагностическую тактику или лечение) для оценки толерантности к физической нагрузке, симптомов, аритмий, реакции артериального давления и риска сердечно-сосудистых событий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Exercise ECG may be considered as an alternative test to rule in and rule out CAD when non-invasive imaging tests are unavailable.",
+            "ru": "Нагрузочная ЭКГ может рассматриваться как альтернативный тест для подтверждения или исключения ИБС при недоступности неинвазивных визуализирующих методов."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "An exercise ECG may be considered to refine risk stratification and treatment.",
+            "ru": "Нагрузочная ЭКГ может рассматриваться для уточнения стратификации риска и коррекции терапии."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In individuals with a low (>5%–15%) pre-test likelihood of obstructive CAD, an exercise ECG may be considered to identify patients in whom further testing can be deferred.",
+            "ru": "У лиц с низкой (>5%–15%) предтестовой вероятностью обструктивной ИБС нагрузочная ЭКГ может рассматриваться для выявления пациентов, у которых проведение дальнейших исследований может быть отложено."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Exercise ECG is not recommended for diagnostic purposes in patients with ≥0.1 mV ST-segment depression on resting ECG, left bundle branch block or who are being treated with digitalis.",
+            "ru": "Нагрузочная ЭКГ не рекомендуется в диагностических целях у пациентов с депрессией сегмента ST ≥0,1 мВ на ЭКГ покоя, блокадой левой ножки пучка Гиса (БЛНПГ) или у лиц, получающих терапию препаратами наперстянки (дигиталис)."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In individuals with a low or moderate (>5%–50%) pre-test likelihood of obstructive CAD, an exercise ECG is not recommended to rule out CAD if CCTA or functional imaging tests are available.",
+            "ru": "У лиц с низкой или умеренной (>5%–50%) предтестовой вероятностью обструктивной ИБС нагрузочная ЭКГ не рекомендуется для исключения ИБС при доступности КТ-коронарографии (CCTA) или функциональных стресс-визуализирующих тестов."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

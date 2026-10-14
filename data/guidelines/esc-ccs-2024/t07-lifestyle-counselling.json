@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.t07-lifestyle-counselling",
+  "guidelineId": "esc-ccs-2024",
+  "number": "Table 7",
+  "type": "grid",
+  "title": {
+    "en": "Practical advice on lifestyle counselling and interventions",
+    "ru": "Практические рекомендации по консультированию по образу жизни и вмешательствам"
+  },
+  "tags": [
+    "ccs",
+    "lifestyle",
+    "immunization",
+    "sleep",
+    "sexual-activity",
+    "smoking",
+    "obesity",
+    "hyperlipidaemia",
+    "hypertension",
+    "diabetes",
+    "diet",
+    "alcohol",
+    "exercise"
+  ],
+  "source": {
+    "page": 43
+  },
+  "columns": [
+    {
+      "id": "topic",
+      "title": {
+        "en": "Topic",
+        "ru": "Тема / Направление"
+      }
+    },
+    {
+      "id": "goals",
+      "title": {
+        "en": "Recommendation and treatment goals in patients with established CCS",
+        "ru": "Рекомендации и целевые показатели у пациентов с установленным ХКС"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-immunization",
+      "cells": [
+        {
+          "text": {
+            "en": "Immunization (Lifestyle counselling)",
+            "ru": "Вакцинация (Консультирование по образу жизни)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Vaccination against influenza, pneumococcal disease and other widespread infections, e.g. COVID-19",
+            "ru": "• Вакцинация против гриппа, пневмококковой инфекции и других распространенных инфекций (например, COVID-19)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-sleep",
+      "cells": [
+        {
+          "text": {
+            "en": "Sleep quality",
+            "ru": "Качество сна"
+          }
+        },
+        {
+          "text": {
+            "en": "• Treat sleep-related breathing disorders",
+            "ru": "• Диагностика и лечение нарушений дыхания во сне (синдром обструктивного апноэ во сне)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-sexual-activity",
+      "cells": [
+        {
+          "text": {
+            "en": "Sexual activity",
+            "ru": "Сексуальная активность"
+          }
+        },
+        {
+          "text": {
+            "en": "• Males and females: low risk for stable patients who are not symptomatic at low-to-moderate activity levels\n• Males: PDE-5 inhibitors are generally safe, not to be taken in combination with nitrate medications because of risk of severe hypotension",
+            "ru": "• Мужчины и женщины: низкий риск для стабильных пациентов без симптомов при низких и умеренных уровнях активности\n• Мужчины: ингибиторы ФДЭ-5 в целом безопасны, но категорически противопоказаны в сочетании с препаратами нитратов из-за риска тяжелой артериальной гипотензии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-psychosocial",
+      "cells": [
+        {
+          "text": {
+            "en": "Psychosocial aspects",
+            "ru": "Психосоциальные аспекты"
+          }
+        },
+        {
+          "text": {
+            "en": "• Avoid psychosocial stress\n• Treat depression and anxiety by psychological or pharmacological interventions",
+            "ru": "• Избегать психосоциального стресса\n• Лечение депрессии и тревоги с помощью психотерапевтических или фармакологических методов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-environment",
+      "cells": [
+        {
+          "text": {
+            "en": "Environment/pollution",
+            "ru": "Окружающая среда / экология"
+          }
+        },
+        {
+          "text": {
+            "en": "• Avoid passive smoking\n• Reduce environmental noise\n• Avoid exposure to air pollution",
+            "ru": "• Избегать пассивного курения\n• Снижение уровня шума окружающей среды\n• Избегать воздействия загрязненного воздуха"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-smoking",
+      "cells": [
+        {
+          "text": {
+            "en": "Smoking and substance abuse (Risk-factor control)",
+            "ru": "Курение и психоактивные вещества (Контроль факторов риска)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Use pharmacological and behavioural strategies to assist in smoking cessation\n• Avoid e-cigarettes\n• Abstain from substance abuse",
+            "ru": "• Применение фармакологических и поведенческих стратегий для прекращения курения\n• Отказ от электронных сигарет (вейпов)\n• Полный отказ от употребления психоактивных веществ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-obesity",
+      "cells": [
+        {
+          "text": {
+            "en": "Obesity and being overweight",
+            "ru": "Ожирение и избыточная масса тела"
+          }
+        },
+        {
+          "text": {
+            "en": "• Obtain and maintain a healthy weight (BMI 18.5–25 kg/m²)\n• Reduce weight through recommended energy intake and increased physical activity and through pharmacological/surgical interventions in selected patients",
+            "ru": "• Достижение и поддержание нормальной массы тела (ИМТ 18,5–25 кг/м²)\n• Снижение веса путем оптимизации калорийности питания, повышения физической активности и медикаментозных/хирургических методов у отобранных пациентов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-hyperlipidaemia",
+      "cells": [
+        {
+          "text": {
+            "en": "Hyperlipidaemia",
+            "ru": "Гиперлипидемия"
+          }
+        },
+        {
+          "text": {
+            "en": "• Ultimate LDL-C goal of <1.4 mmol/L (55 mg/dL) and a ≥50% reduction in LDL-C vs. baseline is recommended",
+            "ru": "• Целевой уровень ХС-ЛПНП <1,4 ммоль/л (55 мг/дл) и снижение уровня ХС-ЛПНП на ≥50% от исходного значения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-diabetes",
+      "cells": [
+        {
+          "text": {
+            "en": "Diabetes",
+            "ru": "Сахарный диабет"
+          }
+        },
+        {
+          "text": {
+            "en": "• HbA1c < 7.0% (53 mmol/mol)",
+            "ru": "• Целевой уровень HbA1c < 7,0% (53 ммоль/моль)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-hypertension",
+      "cells": [
+        {
+          "text": {
+            "en": "Arterial hypertension",
+            "ru": "Артериальная гипертензия"
+          }
+        },
+        {
+          "text": {
+            "en": "• SBP 120–129 mmHg, provided the antihypertensive treatment is well tolerated",
+            "ru": "• Целевое систолическое АД 120–129 мм рт. ст. при условии хорошей переносимости гипотензивной терапии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-diet-alcohol",
+      "cells": [
+        {
+          "text": {
+            "en": "Diet and alcohol consumption",
+            "ru": "Диета и употребление алкоголя"
+          }
+        },
+        {
+          "text": {
+            "en": "• Limit alcohol consumption to <100 g/week\n• Diet high in vegetables, fruit, and wholegrains (Mediterranean diet)\n• Limit saturated fat to <10% of total calorie intake",
+            "ru": "• Ограничение алкоголя до <100 г в неделю в пересчете на чистый спирт\n• Рацион с высоким содержанием овощей, фруктов и цельнозерновых продуктов (средиземноморская диета)\n• Ограничение насыщенных жиров до <10% от суточной калорийности"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-physical-activity",
+      "cells": [
+        {
+          "text": {
+            "en": "Physical activity and exercise",
+            "ru": "Физическая активность и тренировки"
+          }
+        },
+        {
+          "text": {
+            "en": "• 30–60 min moderate activity, >5 days/week\n• Reduce sedentary time and engage in at least light activity throughout the day",
+            "ru": "• 30–60 минут активности умеренной интенсивности не менее 5 дней в неделю\n• Сокращение сидячего малоподвижного времени и поддержание хотя бы легкой активности в течение дня"
+          }
+        }
+      ]
+    }
+  ]
+}

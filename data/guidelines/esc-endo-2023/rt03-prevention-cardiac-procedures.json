@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt03-prevention-cardiac-procedures",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 3",
+  "title": {
+    "en": "Recommendations for infective endocarditis prevention in cardiac procedures",
+    "ru": "Рекомендации по профилактике инфекционного эндокардита при кардиологических процедурах"
+  },
+  "sections": [
+    {
+      "id": "prevention-in-cardiac-procedures",
+      "title": {
+        "en": "Infective endocarditis prevention in cardiac procedures",
+        "ru": "Профилактика инфекционного эндокардита при кардиологических вмешательствах"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Pre-operative screening for nasal carriage of S. aureus is recommended before elective cardiac surgery or transcatheter valve implantation to treat carriers.",
+            "ru": "Предоперационный скрининг на назальное носительство S. aureus рекомендуется перед плановой кардиохирургической операцией или транскатетерной имплантацией клапана для санации (деколонизации) носителей."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Peri-operative antibiotic prophylaxis is recommended before placement of a CIED.",
+            "ru": "Периоперационная антибиотикопрофилактика рекомендуется перед имплантацией CIED."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Optimal pre-procedural aseptic measures of the site of implantation is recommended to prevent CIED infections.",
+            "ru": "Для профилактики инфекций CIED рекомендуется проведение оптимальных асептических мероприятий в области имплантации перед процедурой."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Periprocedural antibiotic prophylaxis is recommended in patients undergoing surgical or transcatheter implantation of a prosthetic valve, intravascular prosthetic, or other foreign material.",
+            "ru": "Перипроцедурная антибиотикопрофилактика рекомендуется пациентам, которым выполняется хирургическая или транскатетерная имплантация клапанного протеза, внутрисосудистого протеза или другого инородного материала."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Surgical standard aseptic measures are recommended during the insertion and manipulation of catheters in the catheterization laboratory environment.",
+            "ru": "При установке катетеров и манипуляциях с ними в условиях рентгенэндоваскулярной операционной рекомендуется соблюдение стандартных хирургических правил асептики."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Elimination of potential sources of sepsis (including of dental origin) should be considered ≥2 weeks before implantation of a prosthetic valve or other intracardiac or intravascular foreign material, except in urgent procedures.",
+            "ru": "Санацию потенциальных источников сепсиса (включая одонтогенные очаги) следует рассмотреть не менее чем за 2 недели до имплантации клапанного протеза или другого внутрисердечного либо внутрисосудистого инородного материала, за исключением неотложных вмешательств."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Antibiotic prophylaxis covering for common skin flora including Enterococcus spp. and S. aureus should be considered before TAVI and other transcatheter valvular procedures.",
+            "ru": "Перед проведением TAVI и других транскатетерных вмешательств на клапанах следует рассмотреть антибиотикопрофилактику с перекрытием типичной кожной микрофлоры, включая Enterococcus spp. и S. aureus."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Systematic skin or nasal decolonization without screening for S. aureus is not recommended.",
+            "ru": "Систематическая деколонизация кожи или слизистой носа без предварительного скрининга на S. aureus не рекомендуется."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

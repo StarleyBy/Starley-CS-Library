@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt20-anti-inflammatory-drugs",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 20",
+  "title": {
+    "en": "Recommendations for anti-inflammatory drugs in patients with chronic coronary syndrome",
+    "ru": "Рекомендации по противовоспалительным препаратам у пациентов с хроническим коронарным синдромом"
+  },
+  "tags": [
+    "ccs",
+    "anti-inflammatory",
+    "colchicine",
+    "atherosclerosis",
+    "stroke-reduction",
+    "mi-reduction"
+  ],
+  "source": {
+    "page": 51
+  },
+  "sections": [
+    {
+      "id": "sec-anti-inflammatory-general",
+      "title": {
+        "en": "Anti-inflammatory therapy",
+        "ru": "Противовоспалительная терапия"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In CCS patients with atherosclerotic CAD, low-dose colchicine (0.5 mg daily) should be considered to reduce myocardial infarction, stroke, and need for revascularization.",
+            "ru": "У пациентов с ХКС и атеросклеротической ИБС следует рассмотреть применение низких доз колхицина (0,5 мг/сут) для снижения риска инфаркта миокарда, инсульта и потребности в реваскуляризации."
+          },
+          "class": "IIa",
+          "level": "A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt19-sglt2-glp1",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 19",
+  "title": {
+    "en": "Recommendations for sodium–glucose cotransporter 2 inhibitors and/or glucagon-like peptide-1 receptor agonists in patients with chronic coronary syndrome",
+    "ru": "Рекомендации по ингибиторам натрий-глюкозного котранспортера 2 типа (SGLT2) и/или агонистам рецепторов глюкагоноподобного пептида-1 (ГПП-1) у пациентов с хроническим коронарным синдромом"
+  },
+  "tags": [
+    "ccs",
+    "sglt2",
+    "glp-1",
+    "dapagliflozin",
+    "empagliflozin",
+    "semaglutide",
+    "diabetes",
+    "obesity",
+    "overweight"
+  ],
+  "source": {
+    "page": 50
+  },
+  "sections": [
+    {
+      "id": "sec-ccs-with-diabetes",
+      "title": {
+        "en": "CCS patients with type 2 diabetes",
+        "ru": "Пациенты с ХКС и сахарным диабетом 2 типа"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "SGLT2 inhibitors with proven CV benefit (canagliflozin, dapagliflozin, empagliflozin, sotagliflozin) are recommended in patients with T2DM and CCS to reduce CV events, independent of baseline or target HbA1c and independent of concomitant glucose-lowering medication.",
+            "ru": "Ингибиторы SGLT2 с доказанной сердечно-сосудистой пользой (канаглифлозин, дапаглифлозин, эмпаглифлозин, сотаглифлозин) рекомендуются пациентам с СД 2 типа и ХКС для снижения частоты кардиоваскулярных событий независимо от исходного или целевого HbA1c и сопутствующей сахароснижающей терапии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "GLP-1 receptor agonists with proven CV benefit (dulaglutide, efpeglenatide, liraglutide, semaglutide) are recommended in patients with T2DM and CCS to reduce CV events, independent of baseline or target HbA1c and independent of concomitant glucose-lowering medication.",
+            "ru": "Агонисты рецепторов ГПП-1 (GLP-1) с доказанной сердечно-сосудистой пользой (дулаглутид, эфпегленатид, лираглутид, семаглутид) рекомендуются пациентам с СД 2 типа и ХКС для снижения частоты кардиоваскулярных событий независимо от исходного или целевого уровня HbA1c и сопутствующего сахароснижающего лечения."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-ccs-without-diabetes",
+      "title": {
+        "en": "CCS patients without type 2 diabetes",
+        "ru": "Пациенты с ХКС без сахарного диабета 2 типа"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "The GLP-1 receptor agonist semaglutide should be considered in overweight (BMI ≥27 kg/m²) or obese CCS patients without diabetes to reduce CV mortality, MI, or stroke.",
+            "ru": "Агонист рецепторов ГПП-1 семаглутид следует рассмотреть у пациентов с ХКС без диабета при наличии избыточного веса (ИМТ ≥27 кг/м²) или ожирения для снижения сердечно-сосудистой смертности, инфаркта миокарда или инсульта."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.t06-noninvasive-tests-overview",
+  "guidelineId": "esc-ccs-2024",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Overview of non-invasive tests used for first-line testing in individuals with suspected chronic coronary syndrome",
+    "ru": "Обзор неинвазивных методов первой линии диагностики у лиц с подозрением на хронический коронарный синдром"
+  },
+  "tags": [
+    "ccs",
+    "imaging-overview",
+    "ccta",
+    "spect",
+    "pet",
+    "stress-echo",
+    "cmr",
+    "contrast",
+    "radiation",
+    "limitations"
+  ],
+  "source": {
+    "page": 39
+  },
+  "columns": [
+    {
+      "id": "modality",
+      "title": {
+        "en": "Modality",
+        "ru": "Метод визуализации"
+      }
+    },
+    {
+      "id": "targets",
+      "title": {
+        "en": "Main imaging target(s) in CCS",
+        "ru": "Основные цели визуализации при ХКС"
+      }
+    },
+    {
+      "id": "requirements",
+      "title": {
+        "en": "Requirements",
+        "ru": "Требования к проведению"
+      }
+    },
+    {
+      "id": "limitations",
+      "title": {
+        "en": "Limitations",
+        "ru": "Ограничения"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-ccta",
+      "cells": [
+        {
+          "text": {
+            "en": "CCTA (Anatomical imaging)",
+            "ru": "CCTA (Анатомическая визуализация: КТ-коронарография)"
+          }
+        },
+        {
+          "text": {
+            "en": "Atherosclerosis (obstructive and non-obstructive) in epicardial coronary arteries",
+            "ru": "Атеросклероз (обструктивный и необструктивный) эпикардиальных коронарных артерий"
+          }
+        },
+        {
+          "text": {
+            "en": "Iodinated contrast\nRadiation\nPremedication:\n• Beta-blockers or ivabradine for heart rate control\n• Nitroglycerine for adequate vasodilation",
+            "ru": "Йодсодержащий контраст\nЛучевая нагрузка\nПремедикация:\n• Бета-блокаторы или ивабрадин для контроля ЧСС\n• Нитроглицерин для адекватной вазодилатации"
+          }
+        },
+        {
+          "text": {
+            "en": "Severely impaired kidney function (preventive measures recommended for patients with eGFR <30 mL/min/1.73 m²)\nDocumented allergy to iodinated contrast\nTachyarrhythmia refractory to beta-blockade\nIrradiation (especially young women)",
+            "ru": "Тяжелое нарушение функции почек (профилактика рекомендована при рСКФ <30 мл/мин/1,73 м²)\nДокументированная аллергия на йодсодержащие контрасты\nТахиаритмия, рефрактерная к блокаде бета-адренорецепторов\nЛучевая нагрузка (особенно у молодых женщин)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-spect-pet-ct-cacs",
+      "cells": [
+        {
+          "text": {
+            "en": "SPECT/CT, PET/CT (Anatomical)",
+            "ru": "ОФЭКТ/КТ, ПЭТ/КТ (Анатомическая оценка)"
+          }
+        },
+        {
+          "text": {
+            "en": "Atherosclerosis coronary artery calcium score",
+            "ru": "Индекс кальциноза коронарных артерий (CACS) при атеросклерозе"
+          }
+        },
+        {
+          "text": {
+            "en": "Radiation",
+            "ru": "Лучевая нагрузка"
+          }
+        },
+        {
+          "text": {
+            "en": "Irradiation (especially young women)",
+            "ru": "Лучевая нагрузка (особенно у молодых женщин)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-stress-echo",
+      "cells": [
+        {
+          "text": {
+            "en": "Stress Echo (Functional imaging)",
+            "ru": "Стресс-ЭхоКГ (Функциональная визуализация)"
+          }
+        },
+        {
+          "text": {
+            "en": "• LVEF and volumes\n• Wall motion abnormalities\n• Myocardial perfusion\n• Coronary velocity flow reserve",
+            "ru": "• ФВ ЛЖ и объемы\n• Локальные нарушения сократимости\n• Перфузия миокарда\n• Резерв скорости коронарного кровотока"
+          }
+        },
+        {
+          "text": {
+            "en": "Performed with exercise, dobutamine and vasodilators\nEcho contrast to improve image quality and assess perfusion",
+            "ru": "Выполняется с физической нагрузкой, добутамином или вазодилататорами\nУЗ-контраст для улучшения визуализации и оценки перфузии"
+          }
+        },
+        {
+          "text": {
+            "en": "Poor Echo windows\nContraindications to stressor",
+            "ru": "Плохое ультразвуковое окно\nПротивопоказания к стресс-агенту"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-cmr",
+      "cells": [
+        {
+          "text": {
+            "en": "CMR (Functional imaging)",
+            "ru": "МРТ сердца / CMR (Функциональная визуализация)"
+          }
+        },
+        {
+          "text": {
+            "en": "• LVEF and volumes\n• MI (scar)\n• Ischaemia/blood flow\n• Wall motion abnormalities",
+            "ru": "• ФВ ЛЖ и объемы\n• Инфаркт миокарда (постинфарктный рубец)\n• Ишемия / миокардиальный кровоток\n• Нарушения локальной сократимости"
+          }
+        },
+        {
+          "text": {
+            "en": "Paramagnetic contrast (for scar and ischaemia)\nVasodilator stress (for ischaemia/blood flow)\nInotropic stress with dobutamine (for wall motion)",
+            "ru": "Парамагнитный контраст (гадолиний для рубца и ишемии)\nВазодилататорный стресс (для ишемии/кровотока)\nИнотропный стресс с добутамином (для локальной сократимости)"
+          }
+        },
+        {
+          "text": {
+            "en": "Non-CMR-compatible metal devices\nSevere claustrophobia\nContraindications to stressor\nHaemodialysis (for contrast use)",
+            "ru": "Несовместимые с МРТ металлические импланты/устройства\nТяжелая клаустрофобия\nПротивопоказания к стресс-агенту\nГемодиализ (ограничение введения контраста)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-spect",
+      "cells": [
+        {
+          "text": {
+            "en": "SPECT (Functional imaging)",
+            "ru": "ОФЭКТ / SPECT (Функциональная визуализация)"
+          }
+        },
+        {
+          "text": {
+            "en": "• LVEF and volumes\n• Ischaemia/viability",
+            "ru": "• ФВ ЛЖ и объемы\n• Ишемия / жизнеспособность миокарда"
+          }
+        },
+        {
+          "text": {
+            "en": "Vasodilator or exercise stress\nRadioactive tracer",
+            "ru": "Вазодилататорный стресс или физическая нагрузка\nРадиофармпрепарат (РФП)"
+          }
+        },
+        {
+          "text": {
+            "en": "Contraindication to stressor\nIrradiation (especially young women)",
+            "ru": "Противопоказания к стресс-агенту\nЛучевая нагрузка (особенно у молодых женщин)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-pet",
+      "cells": [
+        {
+          "text": {
+            "en": "PET (Functional imaging)",
+            "ru": "ПЭТ / PET (Функциональная визуализация)"
+          }
+        },
+        {
+          "text": {
+            "en": "• LVEF\n• Ischaemia/blood flow\n• Viability",
+            "ru": "• ФВ ЛЖ\n• Ишемия / количественный миокардиальный кровоток\n• Жизнеспособность миокарда"
+          }
+        },
+        {
+          "text": {
+            "en": "Vasodilator stress\nRadioactive tracer (13N-ammonia, 15O-water, 82Rb)",
+            "ru": "Вазодилататорный стресс\nРадиофармпрепарат (13N-аммиак, 15O-вода, 82Rb)"
+          }
+        },
+        {
+          "text": {
+            "en": "Contraindication to stressor\nIrradiation (especially young women)",
+            "ru": "Противопоказания к стресс-агенту\nЛучевая нагрузка (особенно у молодых женщин)"
+          }
+        }
+      ]
+    }
+  ]
+}

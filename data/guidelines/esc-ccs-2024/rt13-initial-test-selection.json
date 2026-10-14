@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt13-initial-test-selection",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 13",
+  "title": {
+    "en": "Recommendations for selection of initial diagnostic tests in individuals with suspected chronic coronary syndrome",
+    "ru": "Рекомендации по выбору первичных диагностических тестов у лиц с подозрением на хронический коронарный синдром"
+  },
+  "tags": [
+    "ccs",
+    "test-selection",
+    "ccta",
+    "functional-imaging",
+    "pretest-likelihood",
+    "ct-ffr",
+    "ica",
+    "anoca",
+    "inoca"
+  ],
+  "source": {
+    "page": 40
+  },
+  "sections": [
+    {
+      "id": "sec-non-invasive-selection",
+      "title": {
+        "en": "Selection of non-invasive testing",
+        "ru": "Выбор неинвазивных методов исследования"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended to select the initial non-invasive diagnostic test based on pre-test likelihood of obstructive CAD, other patient characteristics that influence the performance of non-invasive tests (characteristics determining ability to exercise, likelihood of good image quality, expected radiation exposure, and risks or contraindications), and local expertise and availability.",
+            "ru": "Рекомендуется выбирать первичный неинвазивный диагностический тест на основании предтестовой вероятности обструктивной ИБС, индивидуальных характеристик пациента, влияющих на информативность тестов (способность выполнять физическую нагрузку, вероятность хорошего качества визуализации, лучевая нагрузка, риски и противопоказания), а также опыта клиники и доступности методик."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In symptomatic patients in whom the pre-test likelihood of obstructive CAD by clinical assessment is >5%, CCTA or non-invasive functional imaging for myocardial ischaemia is recommended as the initial diagnostic test.",
+            "ru": "У симптомных пациентов с клинической предтестовой вероятностью обструктивной ИБС >5% в качестве первичного диагностического теста рекомендуется КТ-коронарография (CCTA) или неинвазивная функциональная визуализация ишемии миокарда."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "To rule out obstructive CAD in individuals with low or moderate (>5%–50%) pre-test likelihood, CCTA is recommended as the preferred diagnostic modality.",
+            "ru": "Для исключения обструктивной ИБС у лиц с низкой или умеренной (>5%–50%) предтестовой вероятностью КТ-коронарография (CCTA) рекомендуется в качестве предпочтительного метода диагностики."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "CCTA is recommended in individuals with low or moderate (>5%–50%) pre-test likelihood of obstructive CAD if functional imaging for myocardial ischaemia is not diagnostic.",
+            "ru": "КТ-коронарография (CCTA) рекомендуется лицам с низкой или умеренной (>5%–50%) предтестовой вероятностью обструктивной ИБС, если функциональная визуализация ишемии миокарда неинформативна."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Functional imaging for myocardial ischaemia is recommended if CCTA has shown CAD of uncertain functional significance or is not diagnostic.",
+            "ru": "Функциональная визуализация ишемии миокарда рекомендуется, если CCTA выявила стенозы неопределенной функциональной значимости или оказалась неинформативной."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In patients with a known intermediate coronary artery stenosis (typically around 40%–90% by visual estimate) in a proximal or mid coronary segment on CCTA, CT-based FFR may be considered.",
+            "ru": "У пациентов с известным стенозом промежуточной степени (обычно 40%–90% визуально) в проксимальном или среднем сегменте коронарной артерии по данным CCTA может быть рассмотрен расчет фракционного резерва кровотока по КТ (FFR-CT)."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-subsequent-invasive",
+      "title": {
+        "en": "Subsequent invasive testing",
+        "ru": "Последующие инвазивные исследования"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "Invasive coronary angiography with the availability of invasive functional assessments is recommended to confirm or exclude the diagnosis of obstructive CAD or ANOCA/INOCA in individuals with an uncertain diagnosis on non-invasive testing.",
+            "ru": "Инвазивная коронарография с возможностью инвазивной функциональной оценки рекомендуется для подтверждения или исключения диагноза обструктивной ИБС или ANOCA/INOCA у лиц с неопределенным диагнозом по результатам неинвазивных тестов."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

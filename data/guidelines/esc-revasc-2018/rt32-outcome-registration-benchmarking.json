@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt32-outcome-registration-benchmarking",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 32",
+  "title": {
+    "en": "Recommendations for outcome registration, monitoring, and benchmarking",
+    "ru": "Рекомендации по регистрации исходов, мониторингу и сравнительной оценке качества (бенчмаркингу)"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Outcome registration, monitoring, and benchmarking",
+        "ru": "Регистрация и бенчмаркинг исходов"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that specific quality performance measures for CABG are adopted at a national level to allow outcome monitoring and benchmarking.",
+            "ru": "Рекомендуется принять на национальном уровне специфические индикаторы качества выполнения КШ для обеспечения мониторинга исходов и бенчмаркинга."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "It is recommended that national societies establish national databases on CABG practice and outcomes.",
+            "ru": "Рекомендуется, чтобы национальные профессиональные медицинские общества создавали национальные регистры клинической практики и исходов КШ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "It is recommended that CABG outcome data are reported by hospitals to national databases.",
+            "ru": "Рекомендуется передача госпитальных данных об исходах КШ из клиник в национальные базы данных/регистры."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

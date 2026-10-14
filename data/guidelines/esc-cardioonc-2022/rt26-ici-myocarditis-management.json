@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt26-ici-myocarditis-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 26",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 26 — Recommendations for the diagnosis and management of immune checkpoint inhibitor-associated myocarditis",
+    "ru": "Таблица рекомендаций 26 — Рекомендации по диагностике и ведению миокардита, ассоциированного с ингибиторами иммунных контрольных точек (ICI)"
+  },
+  "tags": [
+    "cardio-oncology",
+    "ici",
+    "myocarditis",
+    "immune-checkpoint-inhibitors",
+    "corticosteroids",
+    "methylprednisolone",
+    "prednisolone",
+    "troponin",
+    "cmr",
+    "emb",
+    "ecg"
+  ],
+  "source": {
+    "page": 56
+  },
+  "sections": [
+    {
+      "id": "sec01-ici-myocarditis",
+      "title": {
+        "en": "Diagnosis and management of ICI-associated myocarditis",
+        "ru": "Диагностика и ведение миокардита, ассоциированного с ICI"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "cTn, ECG, and CV imaging (echocardiography and CMR) are recommended to diagnose ICI-associated myocarditis.",
+            "ru": "Определение уровня cTn, ЭКГ и сердечно-сосудистая визуализация (эхокардиография и МРТ сердца) рекомендуются для диагностики миокардита, ассоциированного с ICI."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with suspected ICI-associated myocarditis, temporary interruption of ICI treatment is recommended until the diagnosis is confirmed or refuted.",
+            "ru": "У пациентов с подозрением на миокардит, ассоциированный с ICI, рекомендуется временное прерывание терапии ICI до подтверждения или опровержения диагноза."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "EMB should be considered to confirm the diagnosis of ICI-associated myocarditis if the diagnosis is suspected but not confirmed after cardiac imaging and biomarkers (EMB should also be considered in unstable patients or when CMR is contraindicated).",
+            "ru": "Эндомиокардиальную биопсию (ЭМБ) следует рассмотреть для подтверждения диагноза миокардита, ассоциированного с ICI, если диагноз подозревается, но не подтвержден методами визуализации и биомаркерами (а также у нестабильных пациентов или при противопоказаниях к МРТ)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Interruption of ICI treatment is recommended in patients with confirmed ICI-associated myocarditis.",
+            "ru": "Прекращение терапии ICI рекомендуется всем пациентам с подтвержденным миокардитом, ассоциированным с ICI."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Continuous ECG monitoring to assess for new AV block and tachyarrhythmias during the acute phase is recommended for all patients with symptomatic ICI-associated myocarditis.",
+            "ru": "Непрерывный мониторинг ЭКГ для выявления вновь возникших АВ-блокад и тахиаритмий в острой фазе рекомендуется всем пациентам с симптоматическим миокардитом, ассоциированным с ICI."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Early high-dose corticosteroids (within ≤24 h; methylprednisolone 500–1000 mg/day) are recommended in patients with cancer and confirmed ICI-associated myocarditis.",
+            "ru": "Раннее назначение высоких доз кортикостероидов (в течение первых ≤24 ч; метилпреднизолон 500–1000 мг/сут) рекомендуется пациентам с подтвержденным миокардитом, ассоциированным с ICI."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Continuation of high-dose corticosteroids is recommended for the treatment of ICI-associated myocarditis until resolution of symptoms, LV systolic dysfunction, conduction abnormalities, and significant cTn reduction (>50% from peak level).",
+            "ru": "Продолжение пульс-терапии высокими дозами кортикостероидов рекомендуется до полного купирования симптомов, восстановления систолической дисфункции ЛЖ, нарушений проводимости и значимого снижения уровня cTn (>50% от пикового значения)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Switching from i.v. to oral prednisolone should be considered after clinical improvement (resolution of symptoms, LV systolic dysfunction, conduction abnormalities, and significant cTn reduction >50%).",
+            "ru": "Переход с внутривенных кортикостероидов на пероральный преднизолон следует рассматривать после клинического улучшения (купирование симптомов, нормализация систолической функции ЛЖ, исчезновение нарушений проводимости и снижение cTn >50%)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Second-line immunosuppression treatment should be considered in patients with steroid-refractory ICI-associated myocarditis (non-resolving or worsening myocarditis despite high-dose methylprednisolone).",
+            "ru": "Вторую линию иммуносупрессивной терапии следует рассмотреть у пациентов со стероид-резистентным миокардитом, ассоциированным с ICI (персистирующий или прогрессирующий миокардит, несмотря на высокие дозы метилпреднизолона)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Admission to ICU (level 3), treatment with i.v. methylprednisolone, and optimal CV treatment including mechanical support (when indicated) is recommended for patients with ICI-associated fulminant myocarditis.",
+            "ru": "Госпитализация в отделение реанимации и интенсивной терапии (ОРИТ 3-го уровня), лечение внутривенным метилпреднизолоном и оптимальная кардиологическая терапия, включая механическую поддержку кровообращения (по показаниям), рекомендуются пациентам с фульминантным миокардитом, ассоциированным с ICI."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "A single dose of i.v. methylprednisolone should be considered in unstable patients with cancer (symptomatic HF, ventricular arrhythmias, new complete heart block) where ICI-induced myocarditis is suspected.",
+            "ru": "Однократное введение внутривенного метилпреднизолона следует рассмотреть у гемодинамически нестабильных онкологических пациентов (симптоматическая СН, желудочковые аритмии, полная блокада сердца) при подозрении на индуцированный ICI миокардит."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "A multidisciplinary discussion is recommended before restarting ICI treatment in selected patients with previous uncomplicated ICI-associated myocarditis.",
+            "ru": "Мультидисциплинарный консилиум рекомендуется перед решением о возобновлении терапии ICI у отдельных отобранных пациентов с предшествующим неосложненным миокардитом, ассоциированным с ICI."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt03-biomarkers-baseline",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 3",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 3 — Recommendation for cardiac biomarker assessment prior to potentially cardiotoxic therapies",
+    "ru": "Таблица рекомендаций 3 — Рекомендация по исследованию сердечных биомаркеров перед потенциально кардиотоксической терапией"
+  },
+  "tags": [
+    "cardio-oncology",
+    "biomarkers",
+    "troponin",
+    "natriuretic-peptides",
+    "np",
+    "ctn",
+    "ctrcd"
+  ],
+  "sections": [
+    {
+      "id": "sec01",
+      "title": {
+        "en": "Cardiac biomarkers prior to therapy",
+        "ru": "Сердечные биомаркеры перед началом терапии"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Baseline measurement of NP and/or cTn is recommended in all patients with cancer at risk of CTRCD if these biomarkers are going to be measured during treatment to detect CTRCD.",
+            "ru": "Исходное определение натрийуретических пептидов (NP) и/или сердечного тропонина (cTn) рекомендуется всем пациентам с онкологическими заболеваниями из группы риска развития CTRCD, если предполагается мониторинг этих биомаркеров в процессе лечения для раннего выявления кардиотоксичности."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

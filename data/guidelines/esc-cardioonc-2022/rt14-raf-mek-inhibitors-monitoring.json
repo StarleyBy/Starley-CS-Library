@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt14-raf-mek-inhibitors-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 14",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 14 — Recommendations for baseline risk assessment and monitoring during combined rapidly accelerated fibrosarcoma and mitogen-activated extracellular signal-regulated kinase inhibitor therapy",
+    "ru": "Таблица рекомендаций 14 — Рекомендации по исходной оценке риска и мониторингу во время комбинированной терапии ингибиторами RAF и MEK"
+  },
+  "tags": [
+    "cardio-oncology",
+    "raf-inhibitors",
+    "mek-inhibitors",
+    "vemurafenib",
+    "cobimetinib",
+    "dabrafenib",
+    "trametinib",
+    "hypertension",
+    "qtc",
+    "tte"
+  ],
+  "source": {
+    "page": 37
+  },
+  "sections": [
+    {
+      "id": "sec01-raf-mek",
+      "title": {
+        "en": "Combined RAF and MEK inhibitor therapy",
+        "ru": "Комбинированная терапия ингибиторами RAF и MEK"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "BP monitoring at each clinical visit and weekly outpatient monitoring during the first 3 months of treatment and monthly thereafter is recommended.",
+            "ru": "Мониторинг АД при каждом клиническом визите и еженедельный амбулаторный самоконтроль в течение первых 3 месяцев лечения, а затем ежемесячно, рекомендуется."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients treated with cobimetinib/vemurafenib, an ECG is recommended at 2 and 4 weeks after initiation of treatment and every 3 months thereafter (consider an ECG and new monitoring in the case of any dose increase).",
+            "ru": "У пациентов, получающих кобиметиниб/вемурафениб, ЭКГ рекомендуется через 2 и 4 недели после начала лечения и каждые 3 месяца в дальнейшем (при любом повышении дозы целесообразно выполнить ЭКГ и возобновить мониторинг)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Baseline echocardiography is recommended in all high- and very high-risk patients scheduled to receive combined RAF and MEK inhibitors.",
+            "ru": "Исходная эхокардиография рекомендуется всем пациентам высокого и очень высокого риска, которым запланирована комбинированная терапия ингибиторами RAF и MEK."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Baseline echocardiography may be considered in low- and moderate-risk patients scheduled to receive combined RAF and MEK inhibitors.",
+            "ru": "Исходная эхокардиография может рассматриваться у пациентов низкого и умеренного риска, которым запланирована комбинированная терапия ингибиторами RAF и MEK."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Echocardiography should be considered every 4 months during the first year in high- and very high-risk patients receiving combined RAF and MEK inhibitors.",
+            "ru": "Эхокардиографию следует рассматривать каждые 4 месяца в течение первого года у пациентов высокого и очень высокого риска, получающих комбинацию ингибиторов RAF и MEK."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

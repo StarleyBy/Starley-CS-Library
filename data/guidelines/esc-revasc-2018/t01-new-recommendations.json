@@ -1,0 +1,407 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.t01-new-recommendations",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Figure 1",
+  "title": {
+    "en": "What is new in the 2018 Guidelines?",
+    "ru": "Что нового в Рекомендациях 2018 года?"
+  },
+  "type": "grid",
+  "columns": [
+    {
+      "id": "c_class",
+      "title": {
+        "en": "Class",
+        "ru": "Класс"
+      }
+    },
+    {
+      "id": "c_rec",
+      "title": {
+        "en": "New Recommendation / Concept",
+        "ru": "Новая рекомендация / концепция"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r_c1_01",
+      "cells": [
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Calculation of the Syntax Score, if left main or multivessel revascularization is considered.",
+            "ru": "Расчет шкалы SYNTAX Score, если рассматривается реваскуляризация ствола левой коронарной артерии или многососудистое поражение."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c1_02",
+      "cells": [
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Radial access as standard approach for coronary angiography and PCI.",
+            "ru": "Радиальный доступ в качестве стандартного подхода для коронарографии и ЧКВ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c1_03",
+      "cells": [
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "DES for any PCI.",
+            "ru": "Использование стентов с лекарственным покрытием (DES) при любом ЧКВ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c1_04",
+      "cells": [
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Systematic re-evaluation of patients after myocardial revascularization.",
+            "ru": "Систематическая повторная оценка состояния пациентов после реваскуляризации миокарда."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c1_05",
+      "cells": [
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Stabilised NSTE-ACS patients: revascularization strategy according to principles for SCAD.",
+            "ru": "Стабилизированные пациенты с ОКСбпST: выбор стратегии реваскуляризации в соответствии с принципами для стабильной ИБС."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c1_06",
+      "cells": [
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Use of the radial artery grafts over saphenous vein grafts in patients with high-degree stenosis.",
+            "ru": "Использование трансплантатов лучевой артерии вместо аутовены у пациентов с тяжелым стенозом."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c1_07",
+      "cells": [
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Myocardial revascularization in patients with CAD, heart failure, and LVEF ≤35%: CABG preferred.",
+            "ru": "Реваскуляризация миокарда у пациентов с ИБС, сердечной недостаточностью и ФВ ЛЖ ≤35%: предпочтение отдается КШ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c2a_01",
+      "cells": [
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "Completeness of revascularization prioritized, when considering CABG vs PCI.",
+            "ru": "Приоритет полноты реваскуляризации при сопоставлении КШ и ЧКВ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c2a_02",
+      "cells": [
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "NOAC preferred over VKA in patients with non-valvular AF requiring anticoagulation and antiplatelet treatment.",
+            "ru": "Предпочтение ПОАК перед АВК у пациентов с неклапанной ФП, требующих сочетания антикоагулянтной и антитромбоцитарной терапии."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c2a_03",
+      "cells": [
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "No-touch vein technique, if open vein harvesting for CABG.",
+            "ru": "Техника «no-touch» («без прикосновения») при открытом заборе большой подкожной вены для КШ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c2a_04",
+      "cells": [
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "Annual operator volume for left main PCI of at least 25 cases per year.",
+            "ru": "Ежегодный объем вмешательств оператора на стволе левой коронарной артерии не менее 25 процедур в год."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c2a_05",
+      "cells": [
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "Pre- and post-hydration with isotonic saline in patients with moderate or severe CKD if the expected contrast volume is >100 mL.",
+            "ru": "Инфузия изотонического солевого раствора до и после процедуры у пациентов с умеренной или тяжелой ХБП при ожидаемом объеме контраста >100 мл."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c2a_06",
+      "cells": [
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "Myocardial revascularization in patients with CAD, heart failure, and LVEF ≤35%: PCI as alternative to CABG.",
+            "ru": "Реваскуляризация миокарда у пациентов с ИБС, сердечной недостаточностью и ФВ ЛЖ ≤35%: ЧКВ как альтернатива КШ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c2b_01",
+      "cells": [
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "Routine non-invasive imaging surveillance in high-risk patients 6 months after revascularization.",
+            "ru": "Рутинный неинвазивный визуализирующий контроль у пациентов высокого риска через 6 месяцев после реваскуляризации."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c2b_02",
+      "cells": [
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "Double-kissing crush technique preferred over provisional T-stenting in true left main bifurcations.",
+            "ru": "Методика DK-crush предпочтительнее методики провизорного T-стентирования при истинных бифуркационных поражениях ствола ЛКА."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c2b_03",
+      "cells": [
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "Cangrelor in P2Y12-inhibitor naïve patients undergoing PCI.",
+            "ru": "Кангрелор у ранее не получавших ингибиторы P2Y12 пациентов, подвергающихся ЧКВ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c2b_04",
+      "cells": [
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "GP IIb/IIIa inhibitors for PCI in P2Y12-inhibitor naïve patients with ACS undergoing PCI.",
+            "ru": "Ингибиторы гликопротеина IIb/IIIa для ЧКВ у пациентов с ОКС, ранее не получавших ингибиторы P2Y12."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c2b_05",
+      "cells": [
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "Dabigatran 150-mg dose preferred over 110-mg dose when combined with single antiplatelet therapy after PCI.",
+            "ru": "Дабигатран в дозе 150 мг предпочтительнее дозы 110 мг при комбинации с одинарной антитромбоцитарной терапией после ЧКВ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c2b_06",
+      "cells": [
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "De-escalation of P2Y12 inhibitor guided by platelet function testing in ACS patients.",
+            "ru": "Деэскалация терапии ингибиторами P2Y12 под контролем тестов функции тромбоцитов у пациентов с ОКС."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c3_01",
+      "cells": [
+        {
+          "text": {
+            "en": "III",
+            "ru": "III"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "Routine revascularization of non-IRA lesions in myocardial infarction with cardiogenic shock.",
+            "ru": "Рутинная реваскуляризация не связанных с инфарктом поражений при инфаркте миокарда с кардиогенным шоком."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_c3_02",
+      "cells": [
+        {
+          "text": {
+            "en": "III",
+            "ru": "III"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "Current generation BRS for clinical use outside clinical studies.",
+            "ru": "Биорезорбируемые скаффолды (BRS) текущего поколения для клинического использования вне рамок клинических исследований."
+          }
+        }
+      ]
+    }
+  ]
+}

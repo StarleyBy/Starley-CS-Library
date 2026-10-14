@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.rt05-duration-anticoagulation-noncancer",
+  "guidelineId": "esc-pe-2019",
+  "number": "Section 8.4",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for the regimen and duration of anticoagulation after PE in patients without cancer",
+    "ru": "Рекомендации по режиму и длительности антикоагулянтной терапии после ТЭЛА у пациентов без онкологических заболеваний"
+  },
+  "sections": [
+    {
+      "id": "s01-initial-duration",
+      "title": {
+        "en": "Initial duration of anticoagulation",
+        "ru": "Начальная длительность антикоагулянтной терапии"
+      },
+      "rows": [
+        {
+          "id": "r01-therapeutic-anticoagulation-3-months",
+          "text": {
+            "en": "Therapeutic anticoagulation for ≥3 months is recommended for all patients with PE.",
+            "ru": "Терапевтическая антикоагуляция в течение ≥3 месяцев рекомендуется всем пациентам с ТЭЛА."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [347]
+        }
+      ]
+    },
+    {
+      "id": "s02-discontinuation-after-3-months",
+      "title": {
+        "en": "Patients in whom discontinuation of anticoagulation after 3 months is recommended",
+        "ru": "Пациенты, которым рекомендуется отмена антикоагулянтов через 3 месяца"
+      },
+      "rows": [
+        {
+          "id": "r02-discontinue-major-transient",
+          "text": {
+            "en": "For patients with first PE/VTE secondary to a major transient/reversible risk factor, discontinuation of therapeutic oral anticoagulation is recommended after 3 months.",
+            "ru": "У пациентов с первой ТЭЛА/ВТЭ, развившейся на фоне большого преходящего/обратимого фактора риска, отмена терапевтической пероральной антикоагуляции рекомендуется через 3 месяца."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [331, 340, 341]
+        }
+      ]
+    },
+    {
+      "id": "s03-extension-recommended",
+      "title": {
+        "en": "Patients in whom extension of anticoagulation beyond 3 months is recommended",
+        "ru": "Пациенты, которым рекомендуется продление антикоагуляции свыше 3 месяцев"
+      },
+      "rows": [
+        {
+          "id": "r03-indefinite-recurrent-vte",
+          "text": {
+            "en": "Oral anticoagulant treatment of indefinite duration is recommended for patients presenting with recurrent VTE (that is, with at least one previous episode of PE or DVT) not related to a major transient or reversible risk factor.",
+            "ru": "Пероральная антикоагулянтная терапия неопределенной длительности рекомендуется пациентам с рецидивирующей ВТЭ (как минимум один предшествующий эпизод ТЭЛА или ТГВ), не связанной с большим преходящим или обратимым фактором риска."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [358]
+        },
+        {
+          "id": "r04-indefinite-vka-aps",
+          "text": {
+            "en": "Oral anticoagulant treatment with a VKA for an indefinite period is recommended for patients with antiphospholipid antibody syndrome.",
+            "ru": "Пероральная антикоагулянтная терапия АВК на неопределенный срок рекомендуется пациентам с антифосфолипидным синдромом."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [359]
+        }
+      ]
+    },
+    {
+      "id": "s04-extension-considered",
+      "title": {
+        "en": "Patients in whom extension of anticoagulation beyond 3 months should be considered",
+        "ru": "Пациенты, у которых следует рассмотреть продление антикоагуляции свыше 3 месяцев"
+      },
+      "rows": [
+        {
+          "id": "r05-extended-no-identifiable-factor",
+          "text": {
+            "en": "Extended oral anticoagulation of indefinite duration should be considered for patients with a first episode of PE and no identifiable risk factor.",
+            "ru": "Продленную пероральную антикоагуляцию неопределенной длительности следует рассматривать у пациентов с первым эпизодом ТЭЛА при отсутствии идентифицируемых факторов риска."
+          },
+          "class": "IIa",
+          "level": "A",
+          "refs": [330, 331, 347, 351, 352, 353]
+        },
+        {
+          "id": "r06-extended-persistent-factor",
+          "text": {
+            "en": "Extended oral anticoagulation of indefinite duration should be considered for patients with a first episode of PE associated with a persistent risk factor other than antiphospholipid antibody syndrome.",
+            "ru": "Продленную пероральную антикоагуляцию неопределенной длительности следует рассматривать у пациентов с первым эпизодом ТЭЛА, связанным с персистирующим фактором риска, отличным от антифосфолипидного синдрома."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [330, 352, 353]
+        },
+        {
+          "id": "r07-extended-minor-transient-factor",
+          "text": {
+            "en": "Extended oral anticoagulation of indefinite duration should be considered for patients with a first episode of PE associated with a minor transient or reversible risk factor.",
+            "ru": "Продленную пероральную антикоагуляцию неопределенной длительности следует рассматривать у пациентов с первым эпизодом ТЭЛА, связанным с незначительным преходящим или обратимым фактором риска."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [330, 331, 352]
+        }
+      ]
+    },
+    {
+      "id": "s05-noac-dose-extended",
+      "title": {
+        "en": "NOAC dose in extended anticoagulation",
+        "ru": "Доза НОАК при продленной антикоагулянтной терапии"
+      },
+      "rows": [
+        {
+          "id": "r08-reduced-dose-apixaban-rivaroxaban",
+          "text": {
+            "en": "If extended oral anticoagulation is decided after PE in a patient without cancer, a reduced dose of the NOACs apixaban (2.5 mg b.i.d.) or rivaroxaban (10 mg o.d.) should be considered after 6 months of therapeutic anticoagulation.",
+            "ru": "Если принято решение о продленной пероральной антикоагуляции после ТЭЛА у пациента без онкозаболевания, следует рассмотреть снижение дозы НОАК: апиксабан (2,5 мг 2 раза в сут) или ривароксабан (10 мг 1 раз в сут) после 6 месяцев терапевтической антикоагуляции."
+          },
+          "class": "IIa",
+          "level": "A",
+          "refs": [352, 353]
+        }
+      ]
+    },
+    {
+      "id": "s06-alternative-agents",
+      "title": {
+        "en": "Extended treatment with alternative antithrombotic agents",
+        "ru": "Продленное лечение альтернативными антитромботическими средствами"
+      },
+      "rows": [
+        {
+          "id": "r09-aspirin-sulodexide",
+          "text": {
+            "en": "In patients who refuse to take or are unable to tolerate any form of oral anticoagulants, aspirin or sulodexide may be considered for extended VTE prophylaxis.",
+            "ru": "У пациентов, которые отказываются принимать или не переносят любые формы пероральных антикоагулянтов, аспирин или сулодексид могут рассматриваться для продленной профилактики ВТЭ."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [355, 356, 357]
+        }
+      ]
+    },
+    {
+      "id": "s07-followup-anticoagulation",
+      "title": {
+        "en": "Follow-up of the patient under anticoagulation",
+        "ru": "Диспансерное наблюдение за пациентом на антикоагулянтах"
+      },
+      "rows": [
+        {
+          "id": "r10-reassess-tolerance-bleeding",
+          "text": {
+            "en": "In patients who receive extended anticoagulation, it is recommended that their drug tolerance and adherence, hepatic and renal function, and bleeding risk be reassessed at regular intervals.",
+            "ru": "У пациентов, получающих продленную антикоагулянтную терапию, рекомендуется регулярно оценивать переносимость и приверженность лечению, функцию печени и почек, а также риск кровотечений."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [259]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "anticoagulation-duration",
+    "pe",
+    "secondary-prevention",
+    "noac",
+    "vka",
+    "apixaban",
+    "rivaroxaban",
+    "aspirin",
+    "sulodexide",
+    "bleeding-risk"
+  ]
+}

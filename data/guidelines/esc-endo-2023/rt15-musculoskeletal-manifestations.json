@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt15-musculoskeletal-manifestations",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 15",
+  "title": {
+    "en": "Recommendations for patients with musculoskeletal manifestations of infective endocarditis",
+    "ru": "Рекомендации для пациентов с мышечно-скелетными проявлениями инфекционного эндокардита"
+  },
+  "sections": [
+    {
+      "id": "musculoskeletal-manifestations-treatment",
+      "title": {
+        "en": "Musculoskeletal manifestations of IE",
+        "ru": "Мышечно-скелетные проявления ИЭ"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "MRI or PET/CT is recommended in patients with suspected spondylodiscitis and vertebral osteomyelitis complicating IE.",
+            "ru": "МРТ или ПЭТ/КТ рекомендуется пациентам с подозрением на спондилодисцит и остеомиелит позвоночника, осложняющие течение ИЭ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "TTE/TOE is recommended to rule out IE in patients with spondylodiscitis and/or septic arthritis with positive blood cultures for typical IE microorganisms.",
+            "ru": "ТТЭхоКГ/ЧПЭхоКГ рекомендуется для исключения ИЭ у пациентов со спондилодисцитом и/или септическим артритом при положительных посевах крови на типичные для ИЭ микроорганизмы."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "More than 6-week antibiotic therapy should be considered in patients with osteoarticular IE-related lesions caused by difficult-to-treat microorganisms, such as S. aureus or Candida spp., and/or complicated with severe vertebral destruction or abscesses.",
+            "ru": "Антибактериальную терапию продолжительностью более 6 недель следует рассмотреть у пациентов с костно-суставными поражениями, ассоциированными с ИЭ, вызванными трудноизлечимыми микроорганизмами (такими как S. aureus или Candida spp.) и/или осложненными выраженной деструкцией позвонков либо абсцессами."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

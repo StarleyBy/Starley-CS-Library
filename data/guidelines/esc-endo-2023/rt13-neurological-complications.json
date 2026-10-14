@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt13-neurological-complications",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 13",
+  "title": {
+    "en": "Recommendations for the treatment of neurological complications of infective endocarditis",
+    "ru": "Рекомендации по лечению неврологических осложнений инфекционного эндокардита"
+  },
+  "sections": [
+    {
+      "id": "neurological-complications-treatment",
+      "title": {
+        "en": "Treatment of neurological complications of IE",
+        "ru": "Лечение неврологических осложнений ИЭ"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Brain CT or MRA is recommended in patients with IE and suspected infective cerebral aneurysms.",
+            "ru": "КТ или МР-ангиография головного мозга рекомендуется пациентам с ИЭ при подозрении на инфекционные церебральные аневризмы."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Neurosurgery or endovascular therapy is recommended for large aneurysms, those with continuous growth despite optimal antibiotic therapy, and ruptured intracranial infective cerebral aneurysms.",
+            "ru": "Нейрохирургическое или эндоваскулярное вмешательство рекомендуется при крупных аневризмах, аневризмах с непрерывным ростом, несмотря на оптимальную антибиотикотерапию, а также при разорвавшихся внутричерепных инфекционных аневризмах."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "If non-invasive techniques are negative and the suspicion of infective aneurysm remains, invasive angiography should be considered.",
+            "ru": "Если неинвазивные методы визуализации отрицательны, но подозрение на инфекционную аневризму сохраняется, следует рассмотреть проведение инвазивной ангиографии."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In embolic stroke, mechanical thrombectomy may be considered if the expertise is available in a timely manner.",
+            "ru": "При эмболическом инсульте может быть рассмотрена механическая тромбэктомия при наличии своевременного доступа к экспертной помощи."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Thrombolytic therapy is not recommended in embolic stroke due to IE.",
+            "ru": "Тромболитическая терапия не рекомендуется при эмболическом инсульте вследствие ИЭ."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

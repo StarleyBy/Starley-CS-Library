@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t06-imaging-tests",
+  "guidelineId": "esc-pe-2019",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Imaging tests for diagnosis of pulmonary embolism",
+    "ru": "Методы визуализации для диагностики тромбоэмболии легочной артерии"
+  },
+  "columns": [
+    {
+      "id": "c_modality",
+      "title": {
+        "en": "Modality",
+        "ru": "Метод исследования"
+      }
+    },
+    {
+      "id": "c_strengths",
+      "title": {
+        "en": "Strengths",
+        "ru": "Преимущества / Сильные стороны"
+      }
+    },
+    {
+      "id": "c_weaknesses",
+      "title": {
+        "en": "Weaknesses / limitations",
+        "ru": "Недостатки / Ограничения"
+      }
+    },
+    {
+      "id": "c_radiation",
+      "title": {
+        "en": "Radiation issues",
+        "ru": "Радиационная нагрузка"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-ctpa",
+      "cells": [
+        { "text": { "en": "CTPA", "ru": "КТ-ангиопульмонография (CTPA)" } },
+        {
+          "text": {
+            "en": "• Readily available around the clock in most centres\n• Excellent accuracy\n• Strong validation in prospective management outcome studies\n• Low rate of inconclusive results (3–5%)\n• May provide alternative diagnosis if PE excluded\n• Short acquisition time",
+            "ru": "• Доступна круглосуточно в большинстве стационаров\n• Отличная диагностическая точность\n• Надежная валидация в проспективных исследованиях тактики ведения\n• Низкая частота неинформативных результатов (3–5%)\n• Может предоставить альтернативный диагноз при исключении ТЭЛА\n• Короткое время выполнения"
+          }
+        },
+        {
+          "text": {
+            "en": "• Radiation exposure\n• Exposure to iodine contrast:\n  - limited use in iodine allergy and hyperthyroidism\n  - risks in pregnant and breastfeeding women\n  - contraindicated in severe renal failure\n• Tendency to overuse because of easy accessibility\n• Clinical relevance of CTPA diagnosis of subsegmental PE unknown",
+            "ru": "• Радиационное облучение\n• Воздействие йодсодержащего контраста:\n  - ограничение при аллергии на йод и гипертиреозе\n  - риски у беременных и кормящих женщин\n  - противопоказано при тяжелой почечной недостаточности\n• Склонность к чрезмерному назначению из-за легкой доступности\n• Клиническая значимость выявления изолированной субсегментарной ТЭЛА не ясна"
+          }
+        },
+        {
+          "text": {
+            "en": "• Radiation effective dose 3–10 mSv\n• Significant radiation exposure to young female breast tissue",
+            "ru": "• Эффективная доза облучения 3–10 мЗв\n• Значительная лучевая нагрузка на ткань молочной железы у молодых женщин"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-planar-vq",
+      "cells": [
+        { "text": { "en": "Planar V/Q scan", "ru": "Планарная вентиляционно-перфузионная сцинтиграфия (V/Q)" } },
+        {
+          "text": {
+            "en": "• Almost no contraindications\n• Relatively inexpensive\n• Strong validation in prospective management outcome studies",
+            "ru": "• Практически нет противопоказаний\n• Относительно невысокая стоимость\n• Надежная валидация в проспективных исследованиях ведения пациентов"
+          }
+        },
+        {
+          "text": {
+            "en": "• Not readily available in all centres\n• Interobserver variability in interpretation\n• Results reported as likelihood ratios\n• Inconclusive in 50% of cases\n• Cannot provide alternative diagnosis if PE excluded",
+            "ru": "• Доступна далеко не во всех центрах\n• Вариабельность интерпретации между исследователями\n• Результаты представляются в виде коэффициентов правдоподобия (вероятностей)\n• Неинформативна почти в 50% случаев\n• Не дает альтернативного диагноза при исключении ТЭЛА"
+          }
+        },
+        {
+          "text": {
+            "en": "• Lower radiation than CTPA, effective dose ~2 mSv",
+            "ru": "• Меньшая доза радиации, чем при КТ-ангиографии; эффективная доза ~2 мЗв"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-vq-spect",
+      "cells": [
+        { "text": { "en": "V/Q SPECT", "ru": "Вентиляционно-перфузионная ОФЭКТ (V/Q SPECT)" } },
+        {
+          "text": {
+            "en": "• Almost no contraindications\n• Lowest rate of non-diagnostic tests (<3%)\n• High accuracy according to available data\n• Binary interpretation ('PE' vs. 'no PE')",
+            "ru": "• Практически нет противопоказаний\n• Наименьшая частота недиагностических результатов (<3%)\n• Высокая точность по имеющимся данным\n• Бинарная интерпретация («ТЭЛА есть» vs. «ТЭЛА нет»)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Variability of techniques\n• Variability of diagnostic criteria\n• Cannot provide alternative diagnosis if PE excluded\n• No validation in prospective management outcome studies",
+            "ru": "• Вариабельность методик проведения\n• Вариабельность диагностических критериев\n• Не дает альтернативного диагноза при исключении ТЭЛА\n• Отсутствует валидация в проспективных исследованиях исходов тактики ведения"
+          }
+        },
+        {
+          "text": {
+            "en": "• Lower radiation than CTPA, effective dose ~2 mSv",
+            "ru": "• Меньшая доза радиации, чем при КТ-ангиографии; эффективная доза ~2 мЗв"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-pulmonary-angiography",
+      "cells": [
+        { "text": { "en": "Pulmonary angiography", "ru": "Ангиопульмонография (инвазивная)" } },
+        {
+          "text": {
+            "en": "• Historical gold standard",
+            "ru": "• Исторический «золотой стандарт»"
+          }
+        },
+        {
+          "text": {
+            "en": "• Invasive procedure\n• Not readily available in all centres",
+            "ru": "• Инвазивная процедура\n• Доступна не во всех центрах"
+          }
+        },
+        {
+          "text": {
+            "en": "• Highest radiation, effective dose 10–20 mSv",
+            "ru": "• Наивысшая радиационная нагрузка, эффективная доза 10–20 мЗв"
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "imaging",
+    "ctpa",
+    "vq-scan",
+    "spect",
+    "angiography",
+    "radiation",
+    "diagnosis",
+    "pe"
+  ]
+}

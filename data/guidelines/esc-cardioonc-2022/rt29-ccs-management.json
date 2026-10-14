@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt29-ccs-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 29",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 29 — Recommendation for the management of chronic coronary syndromes in patients receiving anticancer treatment",
+    "ru": "Таблица рекомендаций 29 — Рекомендация по ведению хронических коронарных синдромов у пациентов, получающих противоопухолевое лечение"
+  },
+  "tags": [
+    "cardio-oncology",
+    "ccs",
+    "cad",
+    "dapt",
+    "revascularization",
+    "chronic-coronary-syndromes"
+  ],
+  "source": {
+    "page": 64
+  },
+  "sections": [
+    {
+      "id": "sec01-ccs",
+      "title": {
+        "en": "Chronic coronary syndromes management",
+        "ru": "Ведение хронических коронарных синдромов"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Individualized duration of DAPT is recommended in patients with cancer with CCS, following revascularization, based upon thrombotic/ischaemic and bleeding risk, type and stage of cancer, and current cancer treatment.",
+            "ru": "Индивидуализированная продолжительность ДАТТ рекомендуется пациентам с онкологическими заболеваниями и ХКС после реваскуляризации с учетом соотношения тромботического/ишемического риска и риска кровотечений, типа и стадии рака, а также текущего противоопухолевого лечения."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

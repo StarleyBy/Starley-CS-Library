@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.t12-unfavourable-profile-oac-antiplatelet",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Table 10",
+  "title": {
+    "en": "Unfavourable patient profile for a combination of oral anticoagulant and antiplatelet therapy",
+    "ru": "Неблагоприятный профиль пациента для комбинации перорального антикоагулянта и антитромбоцитарной терапии"
+  },
+  "type": "grid",
+  "columns": [
+    {
+      "id": "num",
+      "title": {
+        "en": "No.",
+        "ru": "№"
+      }
+    },
+    {
+      "id": "profile",
+      "title": {
+        "en": "Unfavourable characteristic",
+        "ru": "Фактор неблагоприятного профиля"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "p01",
+      "cells": [
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        },
+        {
+          "text": {
+            "en": "Short life expectancy",
+            "ru": "Низкая ожидаемая продолжительность жизни"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p02",
+      "cells": [
+        {
+          "text": {
+            "en": "2",
+            "ru": "2"
+          }
+        },
+        {
+          "text": {
+            "en": "Ongoing malignancy",
+            "ru": "Активное злокачественное новообразование"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p03",
+      "cells": [
+        {
+          "text": {
+            "en": "3",
+            "ru": "3"
+          }
+        },
+        {
+          "text": {
+            "en": "Poor expected adherence",
+            "ru": "Низкая ожидаемая приверженность лечению"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p04",
+      "cells": [
+        {
+          "text": {
+            "en": "4",
+            "ru": "4"
+          }
+        },
+        {
+          "text": {
+            "en": "Poor mental status",
+            "ru": "Сниженный когнитивный статус / деменция"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p05",
+      "cells": [
+        {
+          "text": {
+            "en": "5",
+            "ru": "5"
+          }
+        },
+        {
+          "text": {
+            "en": "End-stage renal failure",
+            "ru": "Терминальная почечная недостаточность"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p06",
+      "cells": [
+        {
+          "text": {
+            "en": "6",
+            "ru": "6"
+          }
+        },
+        {
+          "text": {
+            "en": "Advanced age",
+            "ru": "Старческий возраст"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p07",
+      "cells": [
+        {
+          "text": {
+            "en": "7",
+            "ru": "7"
+          }
+        },
+        {
+          "text": {
+            "en": "Prior major bleeding / prior haemorrhagic stroke",
+            "ru": "Большое кровотечение или геморрагический инсульт в анамнезе"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p08",
+      "cells": [
+        {
+          "text": {
+            "en": "8",
+            "ru": "8"
+          }
+        },
+        {
+          "text": {
+            "en": "Chronic alcohol abuse",
+            "ru": "Хроническое злоупотребление алкоголем"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p09",
+      "cells": [
+        {
+          "text": {
+            "en": "9",
+            "ru": "9"
+          }
+        },
+        {
+          "text": {
+            "en": "Anaemia",
+            "ru": "Анемия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "p10",
+      "cells": [
+        {
+          "text": {
+            "en": "10",
+            "ru": "10"
+          }
+        },
+        {
+          "text": {
+            "en": "Clinically significant bleeding on dual antithrombotic therapy",
+            "ru": "Клинически значимое кровотечение на фоне двойной антитромботической терапии"
+          }
+        }
+      ]
+    }
+  ]
+}

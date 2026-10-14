@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt27-antithrombotic-stemi-pci",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 27",
+  "title": {
+    "en": "Recommendations for antithrombotic treatment in ST-elevation myocardial infarction patients undergoing percutaneous coronary intervention",
+    "ru": "Рекомендации по антитромботической терапии у пациентов с инфарктом миокарда с подъемом сегмента ST, подвергающихся чрескожному коронарному вмешательству"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-pretreatment",
+      "title": {
+        "en": "Pre-treatment and antiplatelet therapy",
+        "ru": "Предварительное лечение и антитромбоцитарная терапия"
+      },
+      "rows": [
+        {
+          "id": "r_pre_01",
+          "text": {
+            "en": "Aspirin is recommended for all patients without contraindications at an initial oral loading dose of 150–300 mg (or 75–250 mg i.v.), and at a maintenance dose of 75–100 mg daily long-term regardless of treatment strategy.",
+            "ru": "Ацетилсалициловая кислота рекомендуется всем пациентам при отсутствии противопоказаний в начальной нагрузочной дозе 150–300 мг внутрь (или 75–250 мг в/в) и поддерживающей дозе 75–100 мг/сут длительно независимо от выбранной стратегии лечения."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_pre_02",
+          "text": {
+            "en": "A potent P2Y12 inhibitor (prasugrel or ticagrelor), or clopidogrel if these are not available or are contraindicated, is recommended before (or at latest at the time of) PCI and maintained over 12 months, unless there are contraindications such as excessive risk of bleeding.",
+            "ru": "Мощный ингибитор P2Y12 (прасугрел или тикагрелор), либо клопидогрел (если они недоступны или противопоказаны), рекомендуется до (или как минимум во время) ЧКВ с продолжением терапии в течение 12 месяцев при отсутствии противопоказаний (чрезмерный риск кровотечений)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_pre_03",
+          "text": {
+            "en": "GP IIb/IIIa inhibitors should be considered for bail-out if there is evidence of no-reflow or a thrombotic complication.",
+            "ru": "Ингибиторы GP IIb/IIIa следует рассматривать в качестве терапии спасения (bail-out) при развитии феномена no-reflow или тромботических осложнений."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_pre_04",
+          "text": {
+            "en": "Cangrelor may be considered in P2Y12-inhibitor naïve patients undergoing PCI.",
+            "ru": "Кангрелор может быть рассмотрен у пациентов, ранее не получавших ингибиторы P2Y12, подвергающихся ЧКВ."
+          },
+          "class": "IIb",
+          "level": "A"
+        },
+        {
+          "id": "r_pre_05",
+          "text": {
+            "en": "GP IIb/IIIa antagonists may be considered in P2Y12-inhibitor naïve patients undergoing PCI.",
+            "ru": "Антагонисты GP IIb/IIIa могут быть рассмотрены у ранее не получавших ингибиторы P2Y12 пациентов, подвергающихся ЧКВ."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-peri-interventional",
+      "title": {
+        "en": "Peri-interventional therapy",
+        "ru": "Перипроцедурная терапия"
+      },
+      "rows": [
+        {
+          "id": "r_peri_01",
+          "text": {
+            "en": "Anticoagulation is recommended for all patients in addition to antiplatelet therapy during PCI.",
+            "ru": "Антикоагулянтная терапия рекомендуется всем пациентам в дополнение к антиагрегантной терапии во время ЧКВ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_peri_02",
+          "text": {
+            "en": "Routine use of UFH is recommended.",
+            "ru": "Рутинное применение нефракционированного гепарина (НФГ) рекомендуется."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_peri_03",
+          "text": {
+            "en": "Routine use of enoxaparin should be considered.",
+            "ru": "Рутинное применение эноксапарина следует рассмотреть."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r_peri_04",
+          "text": {
+            "en": "Routine use of bivalirudin may be considered.",
+            "ru": "Рутинное применение бивалирудина может быть рассмотрено."
+          },
+          "class": "IIb",
+          "level": "A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt20-cabg-procedural-aspects",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 20",
+  "title": {
+    "en": "Recommendations on procedural aspects of coronary artery bypass grafting",
+    "ru": "Рекомендации по процедурным аспектам коронарного шунтирования"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-general",
+      "title": {
+        "en": "General considerations",
+        "ru": "Общие положения"
+      },
+      "rows": [
+        {
+          "id": "r_gen_01",
+          "text": {
+            "en": "Complete myocardial revascularization is recommended.",
+            "ru": "Рекомендуется полная реваскуляризация миокарда."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_gen_02",
+          "text": {
+            "en": "Minimization of aortic manipulation is recommended.",
+            "ru": "Рекомендуется минимизация любых манипуляций на аорте."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_gen_03",
+          "text": {
+            "en": "Routine intraoperative graft flow measurement should be considered.",
+            "ru": "Рутинную интраоперационную флоуметрию (измерение кровотока по шунтам) следует рассмотреть."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r_gen_04",
+          "text": {
+            "en": "CT scans of the ascending aorta should be considered in patients over 70 years of age and/or with signs of extensive generalized atherosclerosis.",
+            "ru": "КТ восходящей аорты следует рассмотреть у пациентов старше 70 лет и/или с признаками распространенного генерализованного атеросклероза."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_gen_05",
+          "text": {
+            "en": "Prior to aortic manipulation, epiaortic ultrasound should be considered to identify atheromatous plaques and select the optimal surgical strategy.",
+            "ru": "Перед манипуляциями на аорте следует рассмотреть эпиаортальное УЗИ для выявления атероматозных бляшек и выбора оптимальной хирургической тактики."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-conduit",
+      "title": {
+        "en": "Conduit selection",
+        "ru": "Выбор кондуитов"
+      },
+      "rows": [
+        {
+          "id": "r_con_01",
+          "text": {
+            "en": "Arterial grafting with IMA to the LAD system is recommended.",
+            "ru": "Рекомендуется артериальное шунтирование внутренней грудной артерией (ВГА) в бассейн ПМЖВ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_con_02",
+          "text": {
+            "en": "An additional arterial graft should be considered in appropriate patients.",
+            "ru": "Дополнительный артериальный шунт следует рассмотреть у подходящих пациентов."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r_con_03",
+          "text": {
+            "en": "The use of the radial artery is recommended over the saphenous vein in patients with high-grade coronary artery stenosis (particularly in patients with poor vein grafts; radial artery should not be used if previously catheterized, if Allen test is positive or if calcific degeneration is present).",
+            "ru": "Использование лучевой артерии рекомендуется предпочтительнее подкожной вены у пациентов с тяжелым стенозом коронарных артерий (особенно при плохом качестве венозных шунтов; лучевая артерия не должна использоваться при предшествующей катетеризации, положительном тесте Аллена или кальцинозе)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_con_04",
+          "text": {
+            "en": "BIMA grafting should be considered in patients who do not have a high risk of sternal wound infection (e.g. patients with diabetes mellitus, chronic obstructive pulmonary disease, previous mediastinal radiation, and obesity, particularly when multiples are present).",
+            "ru": "Бимаммарокоронарное шунтирование (BIMA) следует рассмотреть у пациентов без высокого риска инфекции грудины (риск повышен при сахарном диабете, ХОБЛ, лучевой терапии средостения и ожирении, особенно при их сочетании)."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-vessel-harvesting",
+      "title": {
+        "en": "Vessel harvesting",
+        "ru": "Забор сосудистых трансплантатов"
+      },
+      "rows": [
+        {
+          "id": "r_harv_01",
+          "text": {
+            "en": "Skeletonized IMA dissection is recommended in patients with a high risk of sternal wound infection.",
+            "ru": "Скелетированный забор ВГА рекомендуется у пациентов с высоким риском инфекции грудины."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_harv_02",
+          "text": {
+            "en": "Endoscopic vein harvesting, if performed by experienced surgeons, should be considered to reduce the incidence of wound complications.",
+            "ru": "Эндоскопический забор вены при выполнении опытными хирургами следует рассмотреть для снижения частоты раневых осложнений."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r_harv_03",
+          "text": {
+            "en": "No-touch vein harvesting should be considered when an open technique is used.",
+            "ru": "Методику «no-touch» («без прикосновения») следует рассмотреть при использовании открытой техники забора вены."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-minimally-invasive",
+      "title": {
+        "en": "Minimally invasive techniques",
+        "ru": "Малоинвазивные методики"
+      },
+      "rows": [
+        {
+          "id": "r_min_01",
+          "text": {
+            "en": "Off-pump CABG and preferably no-touch techniques on the ascending aorta, by experienced operators, are recommended in patients with significant atherosclerotic aortic disease.",
+            "ru": "КШ на работающем сердце (off-pump) и предпочтительно методики без манипуляций на восходящей аорте (no-touch) опытными хирургами рекомендуются у пациентов с выраженным атеросклерозом аорты."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_min_02",
+          "text": {
+            "en": "Off-pump CABG should be considered for subgroups of high-risk patients by experienced off-pump teams.",
+            "ru": "КШ на работающем сердце следует рассмотреть в подгруппах пациентов высокого риска при наличии опытных off-pump хирургических бригад."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r_min_03",
+          "text": {
+            "en": "Where expertise exists, minimally invasive CABG through limited thoracic access should be considered in patients with isolated LAD lesions or in the context of hybrid revascularization.",
+            "ru": "При наличии опыта миниинвазивное КШ через миниторакотомию следует рассмотреть у пациентов с изолированным поражением ПМЖВ или в рамках гибридной реваскуляризации."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r_min_04",
+          "text": {
+            "en": "Hybrid procedures, defined as consecutive or combined surgical and percutaneous revascularization, may be considered in specific patient subsets at experienced centres.",
+            "ru": "Гибридные процедуры (последовательная или комбинированная хирургическая и чрескожная реваскуляризация) могут быть рассмотрены в специфических группах пациентов в опытных центрах."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

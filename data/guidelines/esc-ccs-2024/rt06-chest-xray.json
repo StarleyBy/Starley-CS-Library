@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt06-chest-xray",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 6",
+  "title": {
+    "en": "Recommendations for chest X-ray in the initial diagnostic management of individuals with suspected chronic coronary syndrome",
+    "ru": "Рекомендации по рентгенографии органов грудной клетки при первичной диагностике лиц с подозрением на хронический коронарный синдром"
+  },
+  "tags": [
+    "ccs",
+    "chest-xray",
+    "heart-failure",
+    "pulmonary-disease",
+    "differential-diagnosis",
+    "aortic-disease"
+  ],
+  "source": {
+    "page": 32
+  },
+  "sections": [
+    {
+      "id": "sec-chest-xray-indications",
+      "title": {
+        "en": "Chest X-ray indications",
+        "ru": "Показания к рентгенографии органов грудной клетки"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "A chest X-ray should be considered for individuals with:\n• signs and symptoms suggestive of heart failure;\n• suspected acute pulmonary disease;\n• suspected aortic, non-coronary cardiac, or other thoracic causes of chest pain.",
+            "ru": "Рентгенографию органов грудной клетки следует рассмотреть у лиц с:\n• признаками и симптомами, подозрительными на сердечную недостаточность;\n• подозрением на острое легочное заболевание;\n• подозрением на аортальные, некоронарные кардиальные или иные торакальные причины боли в груди."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

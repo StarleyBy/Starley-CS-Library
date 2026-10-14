@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt24-antithrombotic-scad-pci",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 24",
+  "title": {
+    "en": "Recommendations for antithrombotic treatment in stable coronary artery disease patients undergoing percutaneous coronary intervention",
+    "ru": "Рекомендации по антитромботической терапии у пациентов со стабильной ИБС, подвергающихся чрескожному коронарному вмешательству"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-pretreatment",
+      "title": {
+        "en": "Pre-treatment and antiplatelet therapy",
+        "ru": "Предварительное лечение и антитромбоцитарная терапия"
+      },
+      "rows": [
+        {
+          "id": "r_pre_01",
+          "text": {
+            "en": "Treatment with 600 mg clopidogrel is recommended in elective PCI patients once the coronary anatomy is known and a decision is made to proceed with PCI.",
+            "ru": "Терапия клопидогрелом в дозе 600 мг рекомендуется плановым пациентам на ЧКВ после установления коронарной анатомии и принятия решения о проведении ЧКВ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_pre_02",
+          "text": {
+            "en": "Pre-treatment with clopidogrel may be considered if the probability of PCI is high.",
+            "ru": "Предварительное насыщение клопидогрелом может быть рассмотрено при высокой вероятности выполнения ЧКВ."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r_pre_03",
+          "text": {
+            "en": "In patients on a maintenance dose of 75 mg clopidogrel, a new loading dose of 600 mg may be considered once the indication for PCI is confirmed.",
+            "ru": "У пациентов, принимающих поддерживающую дозу клопидогрела 75 мг, может быть рассмотрена повторная нагрузочная доза 600 мг после подтверждения показаний к ЧКВ."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-peri-interventional",
+      "title": {
+        "en": "Peri-interventional treatment",
+        "ru": "Перипроцедурная терапия"
+      },
+      "rows": [
+        {
+          "id": "r_peri_01",
+          "text": {
+            "en": "Aspirin is indicated before elective stenting.",
+            "ru": "Ацетилсалициловая кислота показана перед плановым стентированием."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_peri_02",
+          "text": {
+            "en": "An oral loading dose of aspirin (150–300 mg p.o. or 75–250 mg i.v.) is recommended if the patient is not pre-treated.",
+            "ru": "Нагрузочная доза АСК (150–300 мг внутрь или 75–250 мг в/в) рекомендуется, если пациент ранее не получал препарат."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_peri_03",
+          "text": {
+            "en": "Clopidogrel (600 mg loading dose, 75 mg daily maintenance dose) is recommended for elective stenting.",
+            "ru": "Клопидогрел (нагрузочная доза 600 мг, поддерживающая доза 75 мг/сут) рекомендуется при плановом стентировании."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_peri_04",
+          "text": {
+            "en": "Glycoprotein IIb/IIIa antagonists should be considered only for bail-out.",
+            "ru": "Антагонисты гликопротеина IIb/IIIa следует рассматривать только в качестве экстренной терапии спасения (bail-out)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_peri_05",
+          "text": {
+            "en": "Prasugrel or ticagrelor may be considered in specific high-risk situations of elective stenting (e.g. history of stent thrombosis or left main stenting).",
+            "ru": "Прасугрел или тикагрелор могут быть рассмотрены в специфических ситуациях высокого риска при плановом стентировании (например, тромбоз стента в анамнезе или стентирование ствола ЛКА)."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r_peri_06",
+          "text": {
+            "en": "Unfractionated heparin is indicated as the standard anticoagulant (70–100 U/kg).",
+            "ru": "Нефракционированный гепарин показан в качестве стандартного антикоагулянта (70–100 ЕД/кг)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_peri_07",
+          "text": {
+            "en": "Bivalirudin (0.75 mg/kg bolus, followed by 1.75 mg/kg/h for up to 4 h after the procedure) is indicated in the case of heparin-induced thrombocytopenia.",
+            "ru": "Бивалирудин (болюс 0,75 мг/кг с последующей инфузией 1,75 мг/кг/ч до 4 ч после процедуры) показан в случае гепарин-индуцированной тромбоцитопении (ГИТ)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_peri_08",
+          "text": {
+            "en": "Enoxaparin (i.v. 0.5 mg/kg) should be considered as an alternative agent.",
+            "ru": "Эноксапарин (в/в 0,5 мг/кг) следует рассмотреть в качестве альтернативного антикоагулянта."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r_peri_09",
+          "text": {
+            "en": "Cangrelor may be considered in P2Y12-inhibitor naïve patients undergoing PCI.",
+            "ru": "Кангрелор может быть рассмотрен у пациентов, ранее не получавших ингибиторы P2Y12, подвергающихся ЧКВ."
+          },
+          "class": "IIb",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-post-interventional",
+      "title": {
+        "en": "Post-interventional and maintenance treatment",
+        "ru": "Послепроцедурная и поддерживающая терапия"
+      },
+      "rows": [
+        {
+          "id": "r_post_01",
+          "text": {
+            "en": "Life-long single antiplatelet therapy, usually aspirin, is recommended.",
+            "ru": "Пожизненная одинарная антитромбоцитарная терапия (обычно АСК) рекомендуется."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_post_02",
+          "text": {
+            "en": "Instruction of patients about the importance of complying with antiplatelet therapy is recommended.",
+            "ru": "Рекомендуется информирование пациентов о критической важности соблюдения режима антитромбоцитарной терапии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_post_03",
+          "text": {
+            "en": "In patients with SCAD treated with coronary stent implantation, DAPT consisting of clopidogrel in addition to aspirin is generally recommended for 6 months, irrespective of the stent type.",
+            "ru": "У пациентов со стабильной ИБС после имплантации коронарного стента ДАТТ клопидогрелом в дополнение к АСК обычно рекомендуется на 6 месяцев независимо от типа стента."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_post_04",
+          "text": {
+            "en": "In patients with SCAD treated with BRS, DAPT should be considered for at least 12 months and up to the presumed full absorption of the BRS, based on an individual assessment of bleeding and ischaemic risk.",
+            "ru": "У пациентов со стабильной ИБС, леченных с помощью BRS, ДАТТ следует рассмотреть не менее чем на 12 месяцев и вплоть до предполагаемой полной резорбции каркаса с учетом индивидуального баланса риска кровотечений и ишемии."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_post_05",
+          "text": {
+            "en": "In patients with SCAD treated with DCB, DAPT should be considered for 6 months.",
+            "ru": "У пациентов со стабильной ИБС после применения баллонов с лекарственным покрытием (DCB) ДАТТ следует рассмотреть в течение 6 месяцев."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r_post_06",
+          "text": {
+            "en": "In patients with SCAD considered at high bleeding risk (e.g. PRECISE-DAPT ≥25), DAPT should be considered for 3 months.",
+            "ru": "У пациентов со стабильной ИБС с высоким риском кровотечений (например, PRECISE-DAPT ≥25) длительность ДАТТ следует сократить до 3 месяцев."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r_post_07",
+          "text": {
+            "en": "In patients with SCAD who have tolerated DAPT without a bleeding complication and who are at low bleeding risk but high thrombotic risk, continuation of DAPT with clopidogrel for >6 months and up to 30 months may be considered.",
+            "ru": "У пациентов со стабильной ИБС, хорошо перенесших ДАТТ без кровотечений, с низким геморрагическим, но высоким тромботическим риском, может быть рассмотрено продолжение ДАТТ клопидогрелом на срок >6 месяцев и до 30 месяцев."
+          },
+          "class": "IIb",
+          "level": "A"
+        },
+        {
+          "id": "r_post_08",
+          "text": {
+            "en": "In patients with SCAD in whom 3 month DAPT poses safety concerns, DAPT may be considered for 1 month.",
+            "ru": "У пациентов со стабильной ИБС, у которых 3-месячная ДАТТ вызывает серьезные опасения по безопасности, может быть рассмотрен 1 месяц ДАТТ."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

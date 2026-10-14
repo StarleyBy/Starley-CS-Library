@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt08-her2-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 8",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 8 — Recommendations for baseline risk assessment and monitoring during human epidermal receptor 2-targeted therapies and in the first 12 months after therapy",
+    "ru": "Таблица рекомендаций 8 — Рекомендации по исходной оценке риска и мониторингу во время таргетной терапии против рецептора HER2 и в первые 12 месяцев после терапии"
+  },
+  "tags": [
+    "cardio-oncology",
+    "her2",
+    "trastuzumab",
+    "breast-cancer",
+    "tte",
+    "biomarkers",
+    "monitoring"
+  ],
+  "source": {
+    "page": 28
+  },
+  "sections": [
+    {
+      "id": "sec01-tte",
+      "title": {
+        "en": "Transthoracic echocardiography (TTE)",
+        "ru": "Трансторакальная эхокардиография (ТТЭ / ЭхоКГ)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Baseline echocardiography (or alternative cardiac imaging if unavailable/non-diagnostic) is recommended before HER2-targeted therapies in all patients.",
+            "ru": "Исходная эхокардиография (или альтернативная визуализация сердца при недоступности/неинформативности) рекомендуется перед терапией, направленной на HER2, всем пациентам."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients receiving neoadjuvant or adjuvant HER2-targeted therapies, echocardiography is recommended every 3 months and within 12 months after completing treatment.",
+            "ru": "У пациентов, получающих неоадъювантную или адъювантную терапию, направленную на HER2, эхокардиография рекомендуется каждые 3 месяца и в течение 12 месяцев после завершения лечения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In low-risk HER2+ early breast cancer patients (applicable also for HER2+ non-breast cancer) who are asymptomatic and with a normal assessment after 3 months, reducing monitoring to every 4 months may be considered.",
+            "ru": "У пациентов низкого риска с HER2+ ранним раком молочной железы (применимо также к пациентам с HER2+ другими опухолями), у которых отсутствуют симптомы и получены нормальные результаты через 3 месяца, может быть рассмотрено снижение частоты мониторинга до одного раза в 4 месяца."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In high- and very high-risk HER2+ early breast cancer patients (applicable also for HER2+ non-breast cancer), more frequent echocardiography monitoring (every 2–3 cycles depending on absolute risk and local availability) should be considered during treatment.",
+            "ru": "У пациентов высокого и очень высокого риска с HER2+ ранним раком молочной железы (применимо также к пациентам с HER2+ другими опухолями) во время лечения следует рассмотреть возможность более частого эхокардиографического мониторинга (каждые 2–3 цикла в зависимости от абсолютного риска и возможностей клиники)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In metastatic HER2+ disease, echocardiography is recommended every 3 months during the first year; if the patient remains asymptomatic without CV toxicity, then surveillance can be reduced to every 6 months during future treatment in low- and moderate-risk patients.",
+            "ru": "При метастатическом HER2+ заболевании эхокардиография рекомендуется каждые 3 месяца в течение первого года; если у пациента сохраняется бессимптомное течение без признаков СС-токсичности, наблюдение может быть сокращено до одного раза в 6 месяцев во время дальнейшего лечения у пациентов низкого и умеренного риска."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In metastatic HER2+ disease patients at high- and very high-risk, more frequent echocardiography monitoring (every 2–3 cycles depending on absolute risk and local availability) may be considered.",
+            "ru": "У пациентов с метастатическим HER2+ заболеванием группы высокого и очень высокого риска может быть рассмотрен более частый эхокардиографический мониторинг (каждые 2–3 цикла в зависимости от абсолютного риска и возможностей клиники)."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec02-biomarkers",
+      "title": {
+        "en": "Cardiac biomarkers",
+        "ru": "Сердечные биомаркеры"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "Baseline NP and cTn measurement are recommended in high- and very high-risk patients prior to anti-HER2-targeted therapies.",
+            "ru": "Исходное определение натрийуретических пептидов (NP) и сердечных тропонинов (cTn) рекомендуется пациентам высокого и очень высокого риска перед началом анти-HER2 таргетной терапии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "NP and cTn monitoring every 2–3 cycles during therapy and 3 and 12 months after the end of therapy should be considered in high- and very high-risk HER2+ early breast cancer patients (applicable also for HER2+ non-breast cancer).",
+            "ru": "Мониторинг NP и cTn каждые 2–3 цикла во время терапии, а также через 3 и 12 месяцев после окончания лечения следует рассмотреть у пациентов высокого и очень высокого риска с HER2+ ранним раком молочной железы (применимо также к пациентам с HER2+ другими опухолями)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Baseline cTn measurement should be considered in low- and moderate-risk patients post-anthracycline chemotherapy but prior to starting anti-HER2-targeted therapies.",
+            "ru": "Исходное определение уровня cTn следует рассмотреть у пациентов низкого и умеренного риска после химиотерапии антрациклинами, но перед началом анти-HER2 таргетной терапии."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "NP and cTn monitoring at baseline, every 3 months, and 12 months after therapy may be considered in low- and moderate-risk HER2+ early breast cancer patients (applicable also for HER2+ non-breast cancer).",
+            "ru": "Мониторинг NP и cTn исходно, каждые 3 месяца и через 12 месяцев после окончания терапии может быть рассмотрен у пациентов низкого и умеренного риска с HER2+ ранним раком молочной железы (применимо также к пациентам с HER2+ другими опухолями)."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

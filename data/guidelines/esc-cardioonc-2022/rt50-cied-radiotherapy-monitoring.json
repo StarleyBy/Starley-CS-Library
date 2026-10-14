@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt50-cied-radiotherapy-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "type": "recommendations",
+  "number": "Rec Table 50",
+  "title": {
+    "en": "Recommendations for risk stratification and monitoring for patients with cardiac implantable electronic devices undergoing radiotherapy",
+    "ru": "Рекомендации по стратификации риска и мониторингу пациентов с сердечными имплантируемыми электронными устройствами, проходящих лучевую терапию"
+  },
+  "sections": [
+    {
+      "id": "sec-rt50-general",
+      "title": {
+        "en": "General recommendations",
+        "ru": "Общие рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Risk stratification including planned radiation type and energy, dose to CIED, the patient's device type, and pacing dependence is recommended prior to starting treatment.",
+            "ru": "Стратификация риска, включающая планируемый тип и энергию излучения, дозу облучения на сердечное имплантируемое электронное устройство (CIED), тип устройства пациента и наличие электрокардиостимуляторной зависимости, рекомендуется до начала лучевой терапии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients undergoing RT, a CIED check is recommended in all patients before and after completing RT, and during RT according to individual risk.",
+            "ru": "У пациентов, проходящих лучевую терапию (RT), проверка функции устройства (CIED) рекомендуется всем пациентам до и после завершения курса RT, а также в процессе RT в соответствии с индивидуальным риском."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients with a CIED undergoing RT at high risk of arrhythmia and/or device dysfunction, ECG monitoring and/or pulse oximetry are recommended during every RT session.",
+            "ru": "У пациентов с имплантированными устройствами (CIED), получающих RT и имеющих высокий риск аритмий и/или дисфункции устройства, во время каждого сеанса RT рекомендуется ЭКГ-мониторинг и/или пульсоксиметрия."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

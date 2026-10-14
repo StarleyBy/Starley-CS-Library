@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t09-rv-failure-treatment",
+  "guidelineId": "esc-pe-2019",
+  "number": "Table 9",
+  "type": "grid",
+  "title": {
+    "en": "Treatment of right ventricular failure in acute high-risk pulmonary embolism",
+    "ru": "Лечение правожелудочковой недостаточности при острой ТЭЛА высокого риска"
+  },
+  "columns": [
+    {
+      "id": "c_strategy",
+      "title": {
+        "en": "Strategy",
+        "ru": "Стратегия / Препарат"
+      }
+    },
+    {
+      "id": "c_properties",
+      "title": {
+        "en": "Properties and use",
+        "ru": "Свойства и применение"
+      }
+    },
+    {
+      "id": "c_caveats",
+      "title": {
+        "en": "Caveats",
+        "ru": "Предостережения / Риски"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-volume-optimization-header",
+      "kind": "section",
+      "cells": [
+        { "text": { "en": "Volume optimization", "ru": "Оптимизация объема" }, "colspan": 3 }
+      ]
+    },
+    {
+      "id": "r02-volume-loading",
+      "cells": [
+        {
+          "text": {
+            "en": "Cautious volume loading, saline, or Ringer's lactate, ≤500 mL over 15–30 min",
+            "ru": "Осторожная инфузионная нагрузка: физиологический раствор или раствор Рингера лактат, ≤500 мл за 15–30 мин"
+          }
+        },
+        {
+          "text": {
+            "en": "Consider in patients with normal–low central venous pressure (due, for example, to concomitant hypovolaemia)",
+            "ru": "Рассмотреть у пациентов с нормальным или низким центральным венозным давлением (например, при сопутствующей гиповолемии)"
+          }
+        },
+        {
+          "text": {
+            "en": "Volume loading can over-distend the RV, worsen ventricular interdependence, and reduce CO",
+            "ru": "Инфузионная нагрузка может привести к перерастяжению ПЖ, усугубить межжелудочковое взаимодействие и снизить сердечный выброс"
+          },
+          "tone": "orange"
+        }
+      ]
+    },
+    {
+      "id": "r03-vasopressors-inotropes-header",
+      "kind": "section",
+      "cells": [
+        { "text": { "en": "Vasopressors and inotropes", "ru": "Вазопрессоры и инотропы" }, "colspan": 3 }
+      ]
+    },
+    {
+      "id": "r04-norepinephrine",
+      "cells": [
+        {
+          "text": {
+            "en": "Norepinephrine, 0.2–1.0 μg/kg/min",
+            "ru": "Норадреналин, 0,2–1,0 мкг/кг/мин (при остановке сердца используется адреналин)"
+          }
+        },
+        {
+          "text": {
+            "en": "Increases RV inotropy and systemic BP, promotes positive ventricular interactions, and restores coronary perfusion gradient",
+            "ru": "Увеличивает инотропию ПЖ и системное АД, улучшает межжелудочковое взаимодействие и восстанавливает градиент коронарной перфузии"
+          }
+        },
+        {
+          "text": {
+            "en": "Excessive vasoconstriction may worsen tissue perfusion",
+            "ru": "Чрезмерная вазоконстрикция может ухудшить тканевую перфузию"
+          },
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "r05-dobutamine",
+      "cells": [
+        {
+          "text": {
+            "en": "Dobutamine, 2–20 μg/kg/min",
+            "ru": "Добутамин, 2–20 мкг/кг/мин"
+          }
+        },
+        {
+          "text": {
+            "en": "Increases RV inotropy, lowers filling pressures",
+            "ru": "Увеличивает инотропию ПЖ, снижает давление наполнения"
+          }
+        },
+        {
+          "text": {
+            "en": "May aggravate arterial hypotension if used alone, without a vasopressor; may trigger or aggravate arrhythmias",
+            "ru": "Может усугублять артериальную гипотензию при изолированном применении (без вазопрессора); может провоцировать или усиливать аритмии"
+          },
+          "tone": "orange"
+        }
+      ]
+    },
+    {
+      "id": "r06-mcs-header",
+      "kind": "section",
+      "cells": [
+        { "text": { "en": "Mechanical circulatory support", "ru": "Механическая поддержка кровообращения" }, "colspan": 3 }
+      ]
+    },
+    {
+      "id": "r07-ecmo",
+      "cells": [
+        {
+          "text": {
+            "en": "Veno–arterial ECMO / extracorporeal life support",
+            "ru": "Вено-артериальная ЭКМО (ВА-ЭКМО) / экстракорпоральное жизнеобеспечение"
+          }
+        },
+        {
+          "text": {
+            "en": "Rapid short-term support combined with oxygenator",
+            "ru": "Быстрая кратковременная циркуляторная поддержка в сочетании с оксигенатором"
+          }
+        },
+        {
+          "text": {
+            "en": "Complications with use over longer periods (>5–10 days), including bleeding and infections; no clinical benefit unless combined with surgical embolectomy; requires an experienced team",
+            "ru": "Осложнения при длительном применении (>5–10 дней), включая кровотечения и инфекции; отсутствие клинической пользы без сочетания с хирургической эмболэктомией; требует опытной команды"
+          },
+          "tone": "red"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "rv-failure",
+    "high-risk",
+    "pe",
+    "norepinephrine",
+    "dobutamine",
+    "ecmo",
+    "volume-loading"
+  ]
+}

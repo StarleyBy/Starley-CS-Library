@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.t03-cv-toxicity-definitions",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Table 3",
+  "type": "grid",
+  "title": {
+    "en": "Table 3 — Cancer therapy-related cardiovascular toxicity definitions",
+    "ru": "Таблица 3 — Определения сердечно-сосудистой токсичности, связанной с противоопухолевой терапией"
+  },
+  "tags": [
+    "cardio-oncology",
+    "toxicity",
+    "ctrcd",
+    "heart-failure",
+    "ici-myocarditis",
+    "vascular-toxicity",
+    "hypertension",
+    "arrhythmias",
+    "qt-prolongation"
+  ],
+  "columns": [
+    {
+      "id": "c_category",
+      "title": {
+        "en": "Category / Parameter",
+        "ru": "Категория / Параметр"
+      }
+    },
+    {
+      "id": "c_severity",
+      "title": {
+        "en": "Severity / Subtype",
+        "ru": "Степень тяжести / Подтип"
+      }
+    },
+    {
+      "id": "c_definition",
+      "title": {
+        "en": "Definition / Clinical criteria",
+        "ru": "Определение / Клинические критерии"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-header",
+      "cells": [
+        { "colspan": 3, "text": { "en": "CTRCD (Cancer therapy-related cardiac dysfunction)", "ru": "CTRCD (Дисфункция миокарда, связанная с противоопухолевой терапией)" } }
+      ]
+    },
+    {
+      "id": "r02-symp-very-severe",
+      "cells": [
+        { "text": { "en": "Symptomatic CTRCD (HF)", "ru": "Симптомная CTRCD (СН)" } },
+        { "text": { "en": "Very severe", "ru": "Крайне тяжелая" } },
+        { "text": { "en": "HF requiring inotropic support, mechanical circulatory support, or consideration of transplantation", "ru": "СН, требующая инотропной поддержки, механической поддержки кровообращения или рассмотрения трансплантации сердца" } }
+      ]
+    },
+    {
+      "id": "r03-symp-severe",
+      "cells": [
+        { "text": { "en": "Symptomatic CTRCD (HF)", "ru": "Симптомная CTRCD (СН)" } },
+        { "text": { "en": "Severe", "ru": "Тяжелая" } },
+        { "text": { "en": "HF hospitalization", "ru": "Госпитализация по поводу сердечной недостаточности" } }
+      ]
+    },
+    {
+      "id": "r04-symp-moderate",
+      "cells": [
+        { "text": { "en": "Symptomatic CTRCD (HF)", "ru": "Симптомная CTRCD (СН)" } },
+        { "text": { "en": "Moderate", "ru": "Умеренная" } },
+        { "text": { "en": "Need for outpatient intensification of diuretic and HF therapy", "ru": "Необходимость интенсификации диуретической и оптимизации терапии СН в амбулаторных условиях" } }
+      ]
+    },
+    {
+      "id": "r05-symp-mild",
+      "cells": [
+        { "text": { "en": "Symptomatic CTRCD (HF)", "ru": "Симптомная CTRCD (СН)" } },
+        { "text": { "en": "Mild", "ru": "Легкая" } },
+        { "text": { "en": "Mild HF symptoms, no intensification of therapy required", "ru": "Легкие симптомы СН, не требующие интенсификации терапии" } }
+      ]
+    },
+    {
+      "id": "r06-asymp-severe",
+      "cells": [
+        { "text": { "en": "Asymptomatic CTRCD", "ru": "Бессимптомная CTRCD" } },
+        { "text": { "en": "Severe", "ru": "Тяжелая" } },
+        { "text": { "en": "New LVEF reduction to <40%", "ru": "Впервые возникшее снижение ФВ ЛЖ до <40%" } }
+      ]
+    },
+    {
+      "id": "r07-asymp-moderate",
+      "cells": [
+        { "text": { "en": "Asymptomatic CTRCD", "ru": "Бессимптомная CTRCD" } },
+        { "text": { "en": "Moderate", "ru": "Умеренная" } },
+        { "text": { "en": "New LVEF reduction by ≥10 percentage points to an LVEF of 40–49%\nOR\nNew LVEF reduction by <10 percentage points to an LVEF of 40–49% AND either new relative decline in GLS by >15% from baseline OR new rise in cardiac biomarkers", "ru": "Впервые возникшее снижение ФВ ЛЖ на ≥10 процентных пунктов до значений 40–49%\nИЛИ\nВпервые возникшее снижение ФВ ЛЖ менее чем на 10 процентных пунктов до значений 40–49% И относительное снижение GLS более чем на 15% от исходного ИЛИ новое повышение уровня кардиоспецифических биомаркеров" } }
+      ]
+    },
+    {
+      "id": "r08-asymp-mild",
+      "cells": [
+        { "text": { "en": "Asymptomatic CTRCD", "ru": "Бессимптомная CTRCD" } },
+        { "text": { "en": "Mild", "ru": "Легкая" } },
+        { "text": { "en": "LVEF ≥50% AND new relative decline in GLS by >15% from baseline AND/OR new rise in cardiac biomarkers", "ru": "ФВ ЛЖ ≥50% И относительное снижение GLS более чем на 15% от исходного И/ИЛИ новое повышение уровня кардиоспецифических биомаркеров" } }
+      ]
+    },
+    {
+      "id": "r09-ici-header",
+      "cells": [
+        { "colspan": 3, "text": { "en": "ICI myocarditis (either pathohistological diagnosis or clinical diagnosis)", "ru": "Миокардит, индуцированный ингибиторами контрольных точек иммунного ответа (ICI) (патогистологический или клинический диагноз)" } }
+      ]
+    },
+    {
+      "id": "r10-ici-emb",
+      "cells": [
+        { "text": { "en": "Pathohistological diagnosis (EMB)", "ru": "Патогистологический диагноз (ЭМБ)" } },
+        { "text": { "en": "Biopsy criteria", "ru": "Критерии биопсии" } },
+        { "text": { "en": "Multifocal inflammatory cell infiltrates with overt cardiomyocyte loss by light microscopy", "ru": "Мультифокальные воспалительные клеточные инфильтраты с очевидной гибелью кардиомиоцитов по данным световой микроскопии" } }
+      ]
+    },
+    {
+      "id": "r11-ici-clinical",
+      "cells": [
+        { "text": { "en": "Clinical diagnosis", "ru": "Клинический диагноз" } },
+        { "text": { "en": "cTn elevation + criteria", "ru": "Повышение тропонина + критерии" } },
+        { "text": { "en": "cTn elevation (new or significant change from baseline) with 1 major criterion or 2 minor criteria, after exclusion of ACS and acute infectious myocarditis:\n• Major criterion: CMR diagnostic for acute myocarditis (modified Lake Louise criteria)\n• Minor criteria: Clinical syndrome (fatigue, myalgias, chest pain, diplopia, ptosis, dyspnoea, orthopnoea, oedema, palpitations, dizziness, syncope, cardiogenic shock); Ventricular arrhythmia/arrest/conduction disease; Decline in LV systolic function (non-Takotsubo); Other immune-related adverse events (myositis, myopathy, myasthenia gravis); Suggestive CMR", "ru": "Повышение сердечного тропонина (новое или значимое нарастание) в сочетании с 1 большим критерием либо 2 малыми критериями после исключения ОКС и острого инфекционного миокардита:\n• Большой критерий: МРТ-признаки острого миокардита (модифицированные критерии Lake Louise)\n• Малые критерии: Клинический синдром (слабость, миалгии, боли в груди, диплопия, птоз, одышка, ортопноэ, отеки, сердцебиение, головокружение, синкопе, кардиогенный шок); Желудочковые аритмии/остановка сердца/нарушения проводимости; Снижение систолической функции ЛЖ (не-Такоцубо); Другие аутоиммунные осложнения (миозит, миопатия, миастения гравис); МРТ-картина, подозрительная на миокардит" } }
+      ]
+    },
+    {
+      "id": "r12-ici-severity",
+      "cells": [
+        { "text": { "en": "Severity of myocarditis", "ru": "Тяжесть миокардита" } },
+        { "text": { "en": "Fulminant / Non-fulminant / Refractory", "ru": "Фульминантный / Нефульминантный / Рефрактерный" } },
+        { "text": { "en": "• Fulminant: Haemodynamic instability, HF requiring non-invasive or invasive ventilation, complete or high-grade heart block, and/or significant ventricular arrhythmia\n• Non-fulminant: including symptomatic but haemodynamically and electrically stable patients and incidental cases diagnosed at the same time as other irAEs\n• Steroid refractory: non-resolving or worsening myocarditis (clinical worsening or persistent troponin elevation after exclusion of other aetiologies) despite high-dose methylprednisolone", "ru": "• Фульминантный: Гемодинамическая нестабильность, СН с потребностью в ИВЛ/НИВЛ, полная или дистальная АВ-блокада и/или гемодинамически значимые желудочковые аритмии\n• Нефульминантный: Симптомные, но гемодинамически и электрически стабильные пациенты, а также бессимптомные случаи, выявленные одновременно с другими аутоиммунными осложнениями\n• Стероид-резистентный: Отсутствие регресса или прогрессирование миокардита (ухудшение состояния или стойкое повышение тропонина) несмотря на терапию высокими дозами метилпреднизолона" } }
+      ]
+    },
+    {
+      "id": "r13-ici-recovery",
+      "cells": [
+        { "text": { "en": "Recovery from myocarditis", "ru": "Восстановление после миокардита" } },
+        { "text": { "en": "Complete / Recovering", "ru": "Полное / В процессе восстановления" } },
+        { "text": { "en": "• Complete recovery: Patients with complete resolution of acute symptoms, normalization of biomarkers, and recovery of LVEF after discontinuation of immunosuppression. CMR may still show LGE or elevated T1 due to fibrosis, but acute oedema must be absent\n• Recovering: Ongoing improvement in patient clinical symptoms, signs, biomarkers, and imaging parameters, but not yet normalized, while on tapering doses of immunosuppression", "ru": "• Полное выздоровление: Полное разрешение острых симптомов, нормализация биомаркеров и восстановление ФВ ЛЖ после отмены иммуносупрессивной терапии. На МРТ могут сохраняться фиброзные изменения (LGE или повышение T1), но признаки острого отека должны отсутствовать\n• В процессе восстановления: Продолжающееся улучшение симптомов, признаков, биомаркеров и параметров визуализации без полной нормализации на фоне постепенного снижения доз иммуносупрессантов" } }
+      ]
+    },
+    {
+      "id": "r14-vasc-header",
+      "cells": [
+        { "colspan": 3, "text": { "en": "Vascular toxicity", "ru": "Сосудистая токсичность" } }
+      ]
+    },
+    {
+      "id": "r15-asymp-vasc",
+      "cells": [
+        { "text": { "en": "Asymptomatic vascular toxicity", "ru": "Бессимптомная сосудистая токсичность" } },
+        { "text": { "en": "Subclinical disease", "ru": "Субклинические поражения" } },
+        { "text": { "en": "CAD, PAD, Carotid artery disease, Venous thrombosis, Arterial thrombosis, Peripheral vasoreactivity, Coronary epicardial vasoreactivity, Coronary microvascular vasoreactivity", "ru": "ИБС, заболевания периферических артерий, поражение сонных артерий, венозный тромбоз, артериальный тромбоз, периферическая вазореактивность, эпикардиальная вазореактивность, коронарная микрососудистая дисфункция" } }
+      ]
+    },
+    {
+      "id": "r16-symp-vasc",
+      "cells": [
+        { "text": { "en": "Symptomatic vascular toxicity", "ru": "Симптомная сосудистая токсичность" } },
+        { "text": { "en": "Clinical manifestations", "ru": "Клинические формы" } },
+        { "text": { "en": "Stroke, Transient ischaemic attack (TIA), MI, ACS, CCS, PAD, Vasospastic angina, Microvascular angina, Raynaud's phenomenon", "ru": "Инсульт, транзиторная ишемическая атака (ТИА), инфаркт миокарда, ОКС, ХКС, заболевания периферических артерий, вазоспастическая стенокардия, микрососудистая стенокардия, феномен Рейно" } }
+      ]
+    },
+    {
+      "id": "r17-htn-header",
+      "cells": [
+        { "colspan": 3, "text": { "en": "Arterial hypertension", "ru": "Артериальная гипертензия" } }
+      ]
+    },
+    {
+      "id": "r18-htn-threshold",
+      "cells": [
+        { "text": { "en": "Treatment threshold", "ru": "Порог начала антигипертензивной терапии" } },
+        { "text": { "en": "Before, during, after therapy", "ru": "До, во время и после терапии" } },
+        { "text": { "en": "• In patients with high CV risk: ≥130 mmHg systolic and/or ≥80 mmHg diastolic\n• Otherwise: ≥140 mmHg systolic and/or ≥90 mmHg diastolic", "ru": "• У пациентов высокого сердечно-сосудистого риска: САД ≥130 мм рт. ст. и/или ДАД ≥80 мм рт. ст.\n• В остальных случаях: САД ≥140 мм рт. ст. и/или ДАД ≥90 мм рт. ст." } }
+      ]
+    },
+    {
+      "id": "r19-htn-holding",
+      "cells": [
+        { "text": { "en": "Cancer therapy holding threshold", "ru": "Порог приостановки противоопухолевой терапии" } },
+        { "text": { "en": "Severe hypertension", "ru": "Тяжелая гипертензия" } },
+        { "text": { "en": "≥180 mmHg systolic and/or ≥110 mmHg diastolic", "ru": "САД ≥180 мм рт. ст. и/или ДАД ≥110 мм рт. ст." } }
+      ]
+    },
+    {
+      "id": "r20-htn-emergency",
+      "cells": [
+        { "text": { "en": "Hypertensive emergency", "ru": "Гипертонический криз (неотложное состояние)" } },
+        { "text": { "en": "Emergency with TOD", "ru": "Криз с острым поражением органов-мишеней" } },
+        { "text": { "en": "(Very high) BP elevation associated with acute hypertension-mediated organ damage (heart, retina, brain, kidneys, and large arteries), requiring immediate BP reduction to limit extension or promote regression of target organ damage", "ru": "Выраженное повышение АД, ассоциированное с острым опосредованным гипертензией поражением органов-мишеней (сердце, сетчатка, головной мозг, почки, магистральные артерии), требующее неотложного снижения АД для предотвращения прогрессирования органно-тканевых повреждений" } }
+      ]
+    },
+    {
+      "id": "r21-arrhythmia-header",
+      "cells": [
+        { "colspan": 3, "text": { "en": "Cardiac arrhythmias", "ru": "Нарушения сердечного ритма" } }
+      ]
+    },
+    {
+      "id": "r22-qt-prolongation",
+      "cells": [
+        { "text": { "en": "QT prolongation", "ru": "Удлинение интервала QT" } },
+        { "text": { "en": "Prolonged QTcF", "ru": "Удлинение QTcF" } },
+        { "text": { "en": "Prolonged: QTcF >500 ms (Note: QTcF 480–500 ms requires correction of reversible causes, minimizing other QT prolonging medications, close QTcF monitoring)", "ru": "Удлиненный интервал: QTcF >500 мс (при QTcF 480–500 мс требуется устранение обратимых причин, отмена других удлиняющих QT препаратов и тщательный мониторинг)" } }
+      ]
+    },
+    {
+      "id": "r23-other-arrhythmias",
+      "cells": [
+        { "text": { "en": "Other arrhythmias", "ru": "Другие виды аритмий" } },
+        { "text": { "en": "Bradycardia, SVT, VT, AF", "ru": "Брадикардия, СВТ, ЖТ, ФП" } },
+        { "text": { "en": "Bradycardia, Supraventricular tachycardia, Ventricular arrhythmias, AF (refer to general cardiology definitions and guidelines)", "ru": "Брадикардия, суправентрикулярная тахикардия, желудочковые аритмии, фибрилляция предсердий (классифицируются согласно общекардиологическим руководствам)" } }
+      ]
+    }
+  ]
+}

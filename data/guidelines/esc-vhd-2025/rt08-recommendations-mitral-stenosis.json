@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt08-recommendations-mitral-stenosis",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 8",
+  "title": {
+    "en": "Recommendations on indications for percutaneous mitral commissurotomy, mitral valve surgery, and transcatheter intervention in clinically severe rheumatic and degenerative mitral stenosis",
+    "ru": "Рекомендации по показаниям к чрескожной митральной комиссуротомии, хирургии митрального клапана и транскатетерным вмешательствам при клинически тяжелом ревматическом и дегенеративном митральном стенозе"
+  },
+  "tags": [
+    "vhd",
+    "ms",
+    "mitral-stenosis",
+    "pmc",
+    "mv-surgery",
+    "tmvi",
+    "mac",
+    "rheumatic",
+    "spap",
+    "af"
+  ],
+  "sections": [
+    {
+      "id": "sec-mitral-stenosis-interventions",
+      "title": {
+        "en": "Indications for intervention in severe mitral stenosis",
+        "ru": "Показания к вмешательству при тяжелом митральном стенозе"
+      },
+      "rows": [
+        {
+          "id": "r01-pmc-symptomatic-favourable",
+          "text": {
+            "en": "PMC is recommended in symptomatic patients in the absence of unfavourable characteristics for PMC.^[c]",
+            "ru": "Чрескожная митральная комиссуротомия (PMC) рекомендуется симптоматическим пациентам при отсутствии неблагоприятных характеристик для PMC.^[c]"
+          },
+          "refs": [651, 652, 653, 662, 665],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02-pmc-high-surgical-risk",
+          "text": {
+            "en": "PMC is recommended in any symptomatic patients with a contraindication or at high risk for surgery.",
+            "ru": "PMC рекомендуется любым симптоматическим пациентам с противопоказаниями к открытой хирургии или высоким хирургическим риском."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03-mv-surgery-unsuitable-pmc",
+          "text": {
+            "en": "MV surgery is recommended in symptomatic patients who are not suitable for PMC.",
+            "ru": "Хирургическое вмешательство на митральном клапане рекомендуется симптомным пациентам, не подходящим для проведения PMC."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04-pmc-suboptimal-anatomy",
+          "text": {
+            "en": "PMC should be considered as initial treatment in symptomatic patients with suboptimal anatomy but no unfavourable clinical characteristics for PMC.^[c]",
+            "ru": "PMC следует рассматривать как начальный метод лечения у симптомных пациентов с субоптимальной анатомией, но при отсутствии неблагоприятных клинических характеристик для PMC.^[c]"
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05-pmc-asymptomatic-high-risk",
+          "text": {
+            "en": "PMC should be considered in asymptomatic patients without unfavourable clinical and anatomical characteristics for PMC, and:",
+            "ru": "PMC следует рассматривать у бессимптомных пациентов без неблагоприятных клинических и анатомических характеристик для PMC при наличии:"
+          },
+          "bullets": [
+            {
+              "text": {
+                "en": "High thromboembolic risk (history of systemic embolism, dense spontaneous contrast in the LA, new-onset or paroxysmal AF), and/or",
+                "ru": "Высокого риска тромбоэмболий (системные эмболии в анамнезе, плотный спонтанный эхоконтраст в ЛП, впервые возникшая или пароксизмальная ФП), и/или"
+              }
+            },
+            {
+              "text": {
+                "en": "High risk of haemodynamic decompensation (SPAP >50 mmHg at rest, need for major NCS, pregnant or desire for pregnancy).",
+                "ru": "Высокого риска гемодинамической декомпенсации (СДЛА в покое >50 мм рт. ст., потребность в крупной внесердечной операции, беременность или планирование беременности)."
+              }
+            }
+          ],
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06-tmvi-extensive-mac",
+          "text": {
+            "en": "TMVI may be considered in symptomatic patients with extensive MAC and severe MV dysfunction at experienced Heart Valve Centres with expertise in complex MV surgery and transcatheter interventions.",
+            "ru": "Транскатетерную имплантацию митрального клапана (TMVI) можно рассматривать у симптоматических пациентов с массивным кальцинозом митрального кольца (MAC) и тяжелой дисфункцией клапана в опытных Экспертных центрах (Heart Valve Centres), обладающих опытом сложных открытых операций на МК и транскатетерных процедур."
+          },
+          "refs": [542, 680, 681],
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Unfavourable characteristics for PMC can be defined by the presence of several of the following characteristics: clinical characteristics (old age, history of commissurotomy, NYHA class IV, permanent AF, severe PH); anatomical characteristics [echocardiographic score >8, Cormier score group 3 (calcification of MV of any extent as assessed by fluoroscopy), severe TR] (for the definition of scores see Supplementary data online, Table S3).",
+      "ru": "Неблагоприятные характеристики для PMC определяются наличием нескольких факторов: клинические (пожилой возраст, предшествующая комиссуротомия в анамнезе, IV ФК по NYHA, постоянная форма ФП, тяжелая ЛГ); анатомические [эхокардиографический балл >8, 3-я группа по шкале Кормье (любой кальциноз МК при рентгеноскопии), тяжелая ТР] (определение балльных шкал приведено в Дополнительной таблице S3)."
+    }
+  }
+}

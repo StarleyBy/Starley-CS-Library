@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt08-staphylococcus",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 8",
+  "title": {
+    "en": "Recommendations for antibiotic treatment of infective endocarditis due to Staphylococcus spp.",
+    "ru": "Рекомендации по антибактериальной терапии инфекционного эндокардита, вызванного Staphylococcus spp."
+  },
+  "sections": [
+    {
+      "id": "mssa-endocarditis",
+      "title": {
+        "en": "IE caused by methicillin-susceptible staphylococci",
+        "ru": "ИЭ, вызванный метициллин-чувствительными стафилококками (MSSA)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with NVE due to methicillin-susceptible staphylococci, (flu)cloxacillin or cefazolin is recommended for 4–6 weeks using the following doses:\n• Adult dosage: (Flu)cloxacillin 12 g/day i.v. in 4–6 doses; Cefazolin 6 g/day i.v. in 3 doses.\n• Paediatric dosage: (Flu)cloxacillin 200–300 mg/kg/day i.v. in 4–6 equally divided doses; Cefazolin 100 mg/kg/day i.v. in 3–4 doses (max 6 g/day).",
+            "ru": "У пациентов с ИЭ нативного клапана, вызванным метициллин-чувствительными стафилококками, (флу)клоксациллин или цефазолин рекомендуются в течение 4–6 недель в следующих дозировках:\n• Дозы у взрослых: (флу)клоксациллин 12 г/сут в/в в 4–6 введений; цефазолин 6 г/сут в/в в 3 введения.\n• Дозы у детей: (флу)клоксациллин 200–300 мг/кг/сут в/в в 4–6 равных введений; цефазолин 100 мг/кг/сут в/в в 3–4 введения (макс. 6 г/сут)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with PVE due to methicillin-susceptible staphylococci, (flu)cloxacillin or cefazolin with rifampin for at least 6 weeks and gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: (Flu)cloxacillin 12 g/day i.v. in 4–6 doses; Cefazolin 6 g/day i.v. in 3 doses; Rifampin 900 mg/day i.v. or orally in 3 equally divided doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 (preferred) or 2 doses.\n• Paediatric dosage: (Flu)cloxacillin 200–300 mg/kg/day i.v. in 4–6 equally divided doses; Cefazolin 100 mg/kg/day i.v. in 3–4 doses (max 6 g/day); Rifampin 20 mg/kg/day i.v. or orally in 3 equally divided doses (max 900 mg/day); Gentamicin 3 mg/kg/day i.v. or i.m. in 1 (preferred) or 2 doses.",
+            "ru": "У пациентов с ИЭ протезированного клапана, вызванным метициллин-чувствительными стафилококками, рекомендуется (флу)клоксациллин или цефазолин с рифампицином в течение не менее 6 недель и гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: (флу)клоксациллин 12 г/сут в/в в 4–6 введений; цефазолин 6 г/сут в/в в 3 введения; рифампицин 900 мг/сут в/в или перорально в 3 равных приема; гентамицин 3 мг/кг/сут в/в или в/м в 1 (предпочтительно) или 2 введения.\n• Дозы у детей: (флу)клоксациллин 200–300 мг/кг/сут в/в в 4–6 равных доз; цефазолин 100 мг/кг/сут в/в в 3–4 введения (макс. 6 г/сут); рифампицин 20 мг/кг/сут в/в или перорально в 3 приема (макс. 900 мг/сут); гентамицин 3 мг/кг/сут в/в или в/м в 1 (предпочтительно) или 2 введения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients with NVE due to methicillin-susceptible staphylococci who are allergic to penicillin, cefazolin for 4–6 weeks is recommended using the following doses:\n• Adult dosage: Cefazolin 6 g/day i.v. in 3 doses.\n• Paediatric dosage: Cefazolin 100 mg/kg/day i.v. in 3–4 doses (max 6 g/day).",
+            "ru": "У пациентов с ИЭ нативного клапана, вызванным метициллин-чувствительными стафилококками, при аллергии на пенициллин рекомендуется цефазолин в течение 4–6 недель в следующих дозах:\n• Дозы у взрослых: цефазолин 6 г/сут в/в в 3 введения.\n• Дозы у детей: цефазолин 100 мг/кг/сут в/в в 3–4 введения (макс. 6 г/сут)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients with PVE due to methicillin-susceptible staphylococci who are allergic to penicillin, cefazolin combined with rifampin for at least 6 weeks and gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Cefazolin 6 g/day i.v. in 3 doses; Rifampin 900 mg/day i.v. or orally in 3 equally divided doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 (preferred) or 2 doses.\n• Paediatric dosage: Cefazolin 100 mg/kg/day i.v. in 3–4 doses (max 6 g/day); Rifampin 20 mg/kg/day i.v. or orally in 3 equally divided doses (max 900 mg/day); Gentamicin 3 mg/kg/day i.v. or i.m. in 1 (preferred) or 2 doses.",
+            "ru": "У пациентов с ИЭ протезированного клапана, вызванным метициллин-чувствительными стафилококками, при аллергии на пенициллин рекомендуется цефазолин в сочетании с рифампицином не менее 6 недель и гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: цефазолин 6 г/сут в/в в 3 введения; рифампицин 900 мг/сут в/в или перорально в 3 приема; гентамицин 3 мг/кг/сут в/в или в/м в 1 (предпочтительно) или 2 введения.\n• Дозы у детей: цефазолин 100 мг/кг/сут в/в в 3–4 введения (макс. 6 г/сут); рифампицин 20 мг/кг/сут в/в или внутрь в 3 приема (макс. 900 мг/сут); гентамицин 3 мг/кг/сут в/в или в/м в 1 (предпочтительно) или 2 введения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients with NVE due to methicillin-susceptible staphylococci who are allergic to penicillin, daptomycin combined with ceftaroline or fosfomycin may be considered:\n• Adult dosage: Daptomycin 10 mg/kg/day i.v. in 1 dose; Ceftaroline 1800 mg/day i.v. in 3 doses OR Fosfomycin 8–12 g/day i.v. in 4 doses.",
+            "ru": "У пациентов с ИЭ нативного клапана, вызванным метициллин-чувствительными стафилококками, при аллергии на пенициллин может быть рассмотрен даптомицин в комбинации с цефтаролином или фосфомицином:\n• Дозы у взрослых: даптомицин 10 мг/кг/сут в/в в 1 введение; цефтаролин 1800 мг/сут в/в в 3 введения ИЛИ фосфомицин 8–12 г/сут в/в в 4 введения."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In patients with PVE due to methicillin-susceptible staphylococci who are allergic to penicillin, daptomycin combined with ceftaroline or fosfomycin or gentamicin with rifampin for at least 6 weeks and gentamicin for 2 weeks may be considered using the following doses:\n• Adult dosage: Daptomycin 10 mg/kg/day i.v. in 1 dose; Ceftaroline 1800 mg/day i.v. in 3 doses OR Fosfomycin 8–12 g/day i.v. in 4 doses; Rifampin 900 mg/day i.v. or orally in 3 equally divided doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 (preferred) or 2 doses.",
+            "ru": "У пациентов с ИЭ протезированного клапана, вызванным метициллин-чувствительными стафилококками, при аллергии на пенициллин может быть рассмотрен даптомицин в комбинации с цефтаролином или фосфомицином либо гентамицином с рифампицином не менее 6 недель и гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: даптомицин 10 мг/кг/сут в/в в 1 введение; цефтаролин 1800 мг/сут в/в в 3 введения ИЛИ фосфомицин 8–12 г/сут в/в в 4 введения; рифампицин 900 мг/сут в/в или перорально в 3 приема; гентамицин 3 мг/кг/сут в/в или в/м в 1 (предпочтительно) или 2 введения."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "mrsa-endocarditis",
+      "title": {
+        "en": "IE caused by methicillin-resistant staphylococci",
+        "ru": "ИЭ, вызванный метициллин-резистентными стафилококками (MRSA)"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "In patients with NVE due to methicillin-resistant staphylococci, vancomycin is recommended for 4–6 weeks using the following doses:\n• Adult dosage: Vancomycin 30–60 mg/kg/day i.v. in 2–3 doses.\n• Paediatric dosage: Vancomycin 30 mg/kg/day i.v. in 2–3 equally divided doses.",
+            "ru": "У пациентов с ИЭ нативного клапана, вызванным метициллин-резистентными стафилококками, ванкомицин рекомендуется в течение 4–6 недель в следующих дозировках:\n• Дозы у взрослых: ванкомицин 30–60 мг/кг/сут в/в в 2–3 введения.\n• Дозы у детей: ванкомицин 30 мг/кг/сут в/в в 2–3 равных введения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "In patients with PVE due to methicillin-resistant staphylococci, vancomycin with rifampin for at least 6 weeks and gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Vancomycin 30–60 mg/kg/day i.v. in 2–3 doses; Rifampin 900–1200 mg/day i.v. or orally in 2 or 3 divided doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 (preferred) or 2 doses.\n• Paediatric dosage: Vancomycin 30 mg/kg/day i.v. in 2–3 equally divided doses; Rifampin 20 mg/kg/day i.v. or orally in 3 equally divided doses up to maximum of 900 mg/day; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 (preferred) or 2 doses.",
+            "ru": "У пациентов с ИЭ протезированного клапана, вызванным метициллин-резистентными стафилококками, рекомендуется ванкомицин с рифампицином в течение не менее 6 недель и гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: ванкомицин 30–60 мг/кг/сут в/в в 2–3 введения; рифампицин 900–1200 мг/сут в/в или внутрь в 2–3 приема; гентамицин 3 мг/кг/сут в/в или в/м в 1 (предпочтительно) или 2 введения.\n• Дозы у детей: ванкомицин 30 мг/кг/сут в/в в 2–3 равных приема; рифампицин 20 мг/кг/сут в/в или внутрь в 3 приема (макс. 900 мг/сут); гентамицин 3 мг/кг/сут в/в или в/м в 1 (предпочтительно) или 2 введения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "In patients with NVE due to methicillin-resistant staphylococci, daptomycin combined with cloxacillin, ceftaroline or fosfomycin may be considered using the following doses:\n• Adult dosage: Daptomycin 10 mg/kg/day i.v. in 1 dose; Cloxacillin 12 g/day i.v. in 6 doses OR Ceftaroline 1800 mg/day i.v. in 3 doses OR Fosfomycin 8–12 g/day i.v. in 4 doses.",
+            "ru": "У пациентов с ИЭ нативного клапана, вызванным метициллин-резистентными стафилококками, может быть рассмотрен даптомицин в сочетании с клоксациллином, цефтаролином или фосфомицином в следующих дозировках:\n• Дозы у взрослых: даптомицин 10 мг/кг/сут в/в в 1 введение; клоксациллин 12 г/сут в/в в 6 введений ИЛИ цефтаролин 1800 мг/сут в/в в 3 введения ИЛИ фосфомицин 8–12 г/сут в/в в 4 введения."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

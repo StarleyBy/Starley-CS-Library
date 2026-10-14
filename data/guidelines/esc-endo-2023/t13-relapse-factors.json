@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.t13-relapse-factors",
+  "guidelineId": "esc-endo-2023",
+  "number": "Table 13",
+  "type": "grid",
+  "title": {
+    "en": "Table 13 — Factors associated with an increased rate of relapse of infective endocarditis",
+    "ru": "Таблица 13 — Факторы, ассоциированные с повышенной частотой рецидива инфекционного эндокардита"
+  },
+  "tags": [
+    "endocarditis",
+    "relapse",
+    "recurrence",
+    "risk-factors",
+    "staphylococcus",
+    "enterococcus",
+    "prosthetic-valves",
+    "dialysis"
+  ],
+  "columns": [
+    {
+      "id": "c_factor",
+      "title": {
+        "en": "Risk Factor",
+        "ru": "Фактор риска рецидива"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-inadequate-treatment",
+      "cells": [
+        {
+          "text": {
+            "en": "Inadequate antibiotic treatment (i.e. agent, dose, duration)",
+            "ru": "Неадекватная антибактериальная терапия (выбор препарата, доза, длительность курса)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-resistant-microorganisms",
+      "cells": [
+        {
+          "text": {
+            "en": "Resistant microorganisms (i.e. Brucella spp., Legionella spp., Chlamydia spp., Mycoplasma spp., Mycobacterium spp., Bartonella spp., C. burnetii, fungi)",
+            "ru": "Резистентные и трудноизлечимые микроорганизмы (Brucella spp., Legionella spp., Chlamydia spp., Mycoplasma spp., Mycobacterium spp., Bartonella spp., C. burnetii, грибы)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-saureus-enterococcus",
+      "cells": [
+        {
+          "text": {
+            "en": "Infective endocarditis caused by S. aureus and Enterococcus spp.",
+            "ru": "Инфекционный эндокардит, вызванный S. aureus и Enterococcus spp."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-polymicrobial-pwid",
+      "cells": [
+        {
+          "text": {
+            "en": "Polymicrobial infection in people who inject drugs",
+            "ru": "Полимикробная инфекция у лиц, употребляющих инъекционные наркотики"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-periannular-extension",
+      "cells": [
+        {
+          "text": {
+            "en": "Periannular extension",
+            "ru": "Перианнулярное распространение инфекции (абсцесс, фистула, ложная аневризма)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-prosthetic-valve",
+      "cells": [
+        {
+          "text": {
+            "en": "Prosthetic valve endocarditis",
+            "ru": "Инфекционный эндокардит протезированного клапана"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-metastatic-foci",
+      "cells": [
+        {
+          "text": {
+            "en": "Persistent metastatic foci of infection (abscesses)",
+            "ru": "Персистирующие метастатические очаги инфекции (абсцессы)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-resistance-conventional",
+      "cells": [
+        {
+          "text": {
+            "en": "Resistance to conventional antibiotic regimens",
+            "ru": "Резистентность к стандартным схемам антибактериальной терапии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-positive-valve-culture",
+      "cells": [
+        {
+          "text": {
+            "en": "Positive valve culture",
+            "ru": "Положительный интраоперационный посев ткани удаленного клапана"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-fever-7th-day",
+      "cells": [
+        {
+          "text": {
+            "en": "Persistence of fever at the 7th post-operative day",
+            "ru": "Сохранение лихорадки на 7-е сутки после операции"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-ckd-dialysis",
+      "cells": [
+        {
+          "text": {
+            "en": "Chronic kidney disease, especially on dialysis",
+            "ru": "Хроническая болезнь почек, особенно у пациентов на программном диализе"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-high-risk-behaviour",
+      "cells": [
+        {
+          "text": {
+            "en": "High-risk behaviour, inability to adhere to medical treatment",
+            "ru": "Поведение высокого риска, неспособность соблюдать врачебные предписания"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13-poor-oral-hygiene",
+      "cells": [
+        {
+          "text": {
+            "en": "Poor oral hygiene",
+            "ru": "Неудовлетворительная гигиена полости рта"
+          }
+        }
+      ]
+    }
+  ]
+}

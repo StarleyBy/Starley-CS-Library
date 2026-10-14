@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt06-ct-nuclear-mri",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 6",
+  "title": {
+    "en": "Recommendations for the role of computed tomography, nuclear imaging, and magnetic resonance in infective endocarditis",
+    "ru": "Рекомендации по роли компьютерной томографии, радионуклидной визуализации и магнитно-резонансной томографии при инфекционном эндокардите"
+  },
+  "sections": [
+    {
+      "id": "ct-nuclear-mri-role",
+      "title": {
+        "en": "Role of CT, nuclear imaging, and MRI in IE",
+        "ru": "Роль КТ, радионуклидной визуализации и МРТ при ИЭ"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Cardiac CTA is recommended in patients with possible NVE to detect valvular lesions and confirm the diagnosis of IE.",
+            "ru": "КТ-ангиография сердца рекомендуется пациентам с возможным ИЭ нативного клапана для выявления клапанных поражений и подтверждения диагноза ИЭ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "[18F]FDG-PET/CT(A) and cardiac CTA are recommended in possible PVE to detect valvular lesions and confirm the diagnosis of IE.",
+            "ru": "[18F]ФДГ-ПЭТ/КТ(А) и КТ-ангиография сердца рекомендуются при возможном ИЭ протезированного клапана для выявления клапанных поражений и подтверждения диагноза ИЭ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Cardiac CTA is recommended in NVE and PVE to diagnose paravalvular or periprosthetic complications if echocardiography is inconclusive.",
+            "ru": "КТ-ангиография сердца рекомендуется при ИЭ нативного и протезированного клапанов для диагностики параклапанных или перипротезных осложнений, если данные эхокардиографии неубедительны."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Brain and whole-body imaging (CT, [18F]FDG-PET/CT, and/or MRI) are recommended in symptomatic patients (symptoms suggesting septic embolic complications) with NVE and PVE to detect peripheral lesions or add minor diagnostic criteria.",
+            "ru": "Визуализация головного мозга и всего тела (КТ, [18F]ФДГ-ПЭТ/КТ и/или МРТ) рекомендуется симптомным пациентам (с симптомами, указывающими на септические эмболические осложнения) с ИЭ нативного и протезированного клапанов для выявления периферических поражений или добавления малых диагностических критериев."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "WBC SPECT/CT should be considered in patients with high clinical suspicion of PVE when echocardiography is negative or inconclusive and when PET/CT is unavailable.",
+            "ru": "ОФЭКТ/КТ с мечеными лейкоцитами следует рассмотреть у пациентов с высоким клиническим подозрением на ИЭ протезированного клапана при отрицательных или сомнительных результатах ЭхоКГ и недоступности ПЭТ/КТ."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "[18F]FDG-PET/CT(A) may be considered in possible CIED-related IE to confirm the diagnosis of IE.",
+            "ru": "[18F]ФДГ-ПЭТ/КТ(А) может быть рассмотрена при возможном ИЭ, ассоциированном с CIED, для подтверждения диагноза ИЭ."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Brain and whole-body imaging (CT, [18F]FDG-PET/CT, and MRI) in NVE and PVE may be considered for screening of peripheral lesions in asymptomatic patients.",
+            "ru": "Визуализация головного мозга и всего тела (КТ, [18F]ФДГ-ПЭТ/КТ и МРТ) при ИЭ нативного и протезированного клапанов может рассматриваться для скрининга периферических поражений у бессимптомных пациентов."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

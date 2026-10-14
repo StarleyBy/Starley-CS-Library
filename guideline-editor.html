@@ -569,12 +569,16 @@
 
             function renderTablesList(selectedGId) {
                 const filtered = allTables.filter(t => !selectedGId || t.guidelineId === selectedGId);
-                listEl.innerHTML = filtered.map((t, idx) => `
+                listEl.innerHTML = filtered.map((t, idx) => {
+                    const rawName = t.title?.ru || t.title?.en || t.id;
+                    const highlightedName = window.GuidelineTables ? window.GuidelineTables.highlightClinicalKeywords(rawName) : rawName;
+                    return `
                     <div class="ge-table-item ${idx === 0 ? 'active' : ''}" data-id="${t.id}" data-file="${t.relativeFilePath}">
                         <div class="ge-item-badge">Table ${t.number} • ${t.type}</div>
-                        <div class="ge-item-name">${t.title?.ru || t.title?.en || t.id}</div>
+                        <div class="ge-item-name">${highlightedName}</div>
                     </div>
-                `).join('');
+                `;
+                }).join('');
 
                 listEl.querySelectorAll('.ge-table-item').forEach(item => {
                     item.addEventListener('click', async () => {

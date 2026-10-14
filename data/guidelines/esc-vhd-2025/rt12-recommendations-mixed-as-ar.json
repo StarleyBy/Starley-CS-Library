@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt12-recommendations-mixed-as-ar",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 12",
+  "title": {
+    "en": "Recommendations on indications for intervention in patients with mixed moderate aortic stenosis and moderate aortic regurgitation",
+    "ru": "Рекомендации по показаниям к вмешательству у пациентов с комбинированным умеренным аортальным стенозом и умеренной аортальной регургитацией"
+  },
+  "tags": [
+    "vhd",
+    "mixed-vhd",
+    "moderate-as",
+    "moderate-ar",
+    "combined-stenosis-regurgitation",
+    "intervention",
+    "lvef"
+  ],
+  "sections": [
+    {
+      "id": "sec-mixed-moderate-as-ar",
+      "title": {
+        "en": "Mixed moderate aortic stenosis and moderate aortic regurgitation",
+        "ru": "Комбинированный умеренный аортальный стеноз и умеренная аортальная регургитация"
+      },
+      "rows": [
+        {
+          "id": "r01-symptomatic-mixed-as-ar",
+          "text": {
+            "en": "Intervention is recommended in symptomatic patients with mixed moderate AV stenosis^[c] and moderate regurgitation, and a mean gradient ≥40 mmHg or V_max ≥4.0 m/s.",
+            "ru": "Вмешательство рекомендуется симптоматическим пациентам с комбинированным умеренным аортальным стенозом^[c] и умеренной аортальной регургитацией при среднем градиенте ≥40 мм рт. ст. или V_max ≥4,0 м/с."
+          },
+          "refs": [790, 791, 792, 793],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02-asymptomatic-mixed-as-ar-lvef",
+          "text": {
+            "en": "Intervention is recommended in asymptomatic patients with mixed moderate AV stenosis^[c] and moderate regurgitation with V_max ≥4.0 m/s, and LVEF <50% not attributable to other cardiac disease.",
+            "ru": "Вмешательство рекомендуется бессимптомным пациентам с комбинированным умеренным аортальным стенозом^[c] и умеренной аортальной регургитацией при V_max ≥4,0 м/с и ФВ ЛЖ <50%, не связанной с другой патологией сердца."
+          },
+          "refs": [791],
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "AVA >1 cm².",
+      "ru": "Площадь отверстия аортального клапана (AVA) >1 см²."
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt29-dapt-duration-oral-anticoagulation",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 29",
+  "title": {
+    "en": "Dual antiplatelet therapy duration in patients with indication for oral anticoagulation",
+    "ru": "Длительность антитромбоцитарной терапии у пациентов с показаниями к пероральным антикоагулянтам"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Antithrombotic therapy in patients requiring oral anticoagulation",
+        "ru": "Антитромботическая терапия при показаниях к антикоагулянтам"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that periprocedural aspirin and clopidogrel are administered to patients undergoing coronary stent implantation.",
+            "ru": "Рекомендуется перипроцедурное назначение ацетилсалициловой кислоты и клопидогрела пациентам, подвергающимся имплантации коронарного стента."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients treated with coronary stent implantation, triple therapy with aspirin, clopidogrel, and an OAC should be considered for 1 month, irrespective of the type of stent used.",
+            "ru": "У пациентов после стентирования тройную терапию (АСК, клопидогрел и ПОАК/АВК) следует рассмотреть на срок 1 месяц независимо от типа имплантированного стента."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Triple therapy with aspirin, clopidogrel, and an OAC for longer than 1 month and up to 6 months should be considered in patients with high ischaemic risk due to ACS or other anatomical/procedural characteristics, which outweigh the bleeding risk.",
+            "ru": "Тройную терапию (АСК, клопидогрел и ПОАК/АВК) на срок более 1 месяца (до 6 месяцев) следует рассмотреть у пациентов с высоким ишемическим риском вследствие ОКС или других анатомических/процедурных факторов, преобладающих над риском кровотечений."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Dual therapy with clopidogrel 75 mg/day and an OAC should be considered as an alternative to 1-month triple antithrombotic therapy in patients in whom the bleeding risk outweighs the ischaemic risk.",
+            "ru": "Двойную терапию клопидогрелом 75 мг/сут и ПОАК/АВК следует рассматривать как альтернативу 1-месячной тройной терапии у пациентов, чей риск кровотечений превышает ишемический риск."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients with non-valvular AF requiring anticoagulation and antiplatelet treatment, a NOAC should be preferred over VKAs.",
+            "ru": "У пациентов с неклапанной ФП, нуждающихся в сочетании антикоагулянтной и антитромбоцитарной терапии, прямым пероральным антикоагулянтам (ПОАК) следует отдавать предпочтение перед АВК."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In patients with an indication for a VKA in combination with aspirin and/or clopidogrel, the dose intensity of the VKA should be carefully regulated with a target INR in the lower part of the recommended target range and time in the therapeutic range >65%.",
+            "ru": "У пациентов с показаниями к АВК в комбинации с АСК и/или клопидогрелом дозу АВК следует тщательно титровать с ориентацией на нижнюю границу целевого диапазона МНО и временем в терапевтическом диапазоне >65%."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Discontinuation of antiplatelet treatment in patients treated with OAC should be considered at 12 months.",
+            "ru": "Отмену антитромбоцитарной терапии у пациентов, получающих пероральные антикоагулянты, следует рассмотреть через 12 месяцев после процедуры."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "When a NOAC is used in combination with aspirin and/or clopidogrel, the lowest approved dose effective for stroke prevention tested in AF trials should be considered (apixaban 5 mg or 2.5 mg b.i.d. if criteria met; dabigatran 110 mg b.i.d.; edoxaban 60 mg or 30 mg q.d. if criteria met; rivaroxaban 20 mg or 15 mg q.d. if CrCl 30–49 mL/min).",
+            "ru": "При использовании ПОАК в комбинации с АСК и/или клопидогрелом следует рассмотреть применение наименьшей одобренной дозы, эффективной для профилактики инсульта при ФП (апиксабан 5 мг или 2,5 мг 2 раза/сут; дабигатран 110 мг 2 раза/сут; эдоксабан 60 мг или 30 мг/сут; ривароксабан 20 мг или 15 мг/сут при клиренсе 30–49 мл/мин)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "When rivaroxaban is used in combination with aspirin and/or clopidogrel, rivaroxaban 15 mg q.d. may be used instead of rivaroxaban 20 mg q.d.",
+            "ru": "При применении ривароксабана в комбинации с АСК и/или клопидогрелом доза ривароксабана 15 мг 1 раз в сутки может использоваться вместо дозы 20 мг 1 раз в сутки."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "When dabigatran is used in combination with aspirin or clopidogrel, a dose of 150 mg b.i.d. may be preferred over a dose of 110 mg b.i.d.",
+            "ru": "При применении дабигатрана в комбинации с АСК или клопидогрелом доза 150 мг 2 раза в сутки может быть предпочтительнее дозы 110 мг 2 раза в сутки."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "The use of ticagrelor or prasugrel is not recommended as part of triple antithrombotic therapy with aspirin and an OAC.",
+            "ru": "Применение тикагрелора или прасугрела в составе тройной антитромботической терапии с АСК и пероральным антикоагулянтом не рекомендуется."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

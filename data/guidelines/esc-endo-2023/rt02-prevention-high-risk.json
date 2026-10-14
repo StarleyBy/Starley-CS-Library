@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt02-prevention-high-risk",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 2",
+  "title": {
+    "en": "Recommendations for infective endocarditis prevention in high-risk patients",
+    "ru": "Рекомендации по профилактике инфекционного эндокардита у пациентов высокого риска"
+  },
+  "sections": [
+    {
+      "id": "prevention-in-high-risk-patients",
+      "title": {
+        "en": "Infective endocarditis prevention in high-risk patients",
+        "ru": "Профилактика инфекционного эндокардита у пациентов высокого риска"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in dental extractions, oral surgery procedures, and procedures requiring manipulation of the gingival or periapical region of the teeth.",
+            "ru": "Антибиотикопрофилактика рекомендуется при удалении зубов, челюстно-лицевых хирургических вмешательствах и процедурах, требующих манипуляций в области десны или периапикальной области зубов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Systemic antibiotic prophylaxis may be considered for high-risk patients (this recommendation does not apply to patients with intermediate risk for IE or to the general population) undergoing an invasive diagnostic or therapeutic procedure of the respiratory, gastrointestinal, genitourinary tract, skin, or musculoskeletal systems.",
+            "ru": "Системная антибиотикопрофилактика может рассматриваться у пациентов высокого риска (эта рекомендация не распространяется на пациентов промежуточного риска ИЭ или на общую популяцию) при инвазивных диагностических или терапевтических процедурах на дыхательных путях, желудочно-кишечном тракте, мочеполовой системе, коже или опорно-двигательном аппарате."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

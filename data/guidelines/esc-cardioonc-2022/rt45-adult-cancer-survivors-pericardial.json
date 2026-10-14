@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt45-adult-cancer-survivors-pericardial",
+  "guidelineId": "esc-cardioonc-2022",
+  "type": "recommendations",
+  "number": "Rec Table 45",
+  "title": {
+    "en": "Recommendation for adult cancer survivors with pericardial complications",
+    "ru": "Рекомендация для взрослых лиц, перенесших рак, с перикардиальными осложнениями"
+  },
+  "sections": [
+    {
+      "id": "sec-rt45-general",
+      "title": {
+        "en": "General recommendation",
+        "ru": "Общая рекомендация"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Patients with acute pericarditis during RT to a volume including the heart are at higher risk of developing chronic constrictive pericarditis, hence echocardiography surveillance every 5 years may be considered.",
+            "ru": "Пациенты с острым перикардитом во время лучевой терапии (RT) на область, включающую сердце, имеют повышенный риск развития хронического констриктивного перикардита, в связи с чем может быть рассмотрено эхокардиографическое наблюдение каждые 5 лет."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

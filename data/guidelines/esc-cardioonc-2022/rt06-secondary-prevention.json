@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt06-secondary-prevention",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 6",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 6 — Recommendation for secondary prevention of cancer therapy-related cardiovascular toxicity",
+    "ru": "Таблица рекомендаций 6 — Рекомендация по вторичной профилактике сердечно-сосудистой токсичности противоопухолевой терапии"
+  },
+  "tags": [
+    "cardio-oncology",
+    "secondary-prevention",
+    "cvd-management",
+    "guidelines"
+  ],
+  "sections": [
+    {
+      "id": "sec01",
+      "title": {
+        "en": "Secondary prevention of CV toxicity",
+        "ru": "Вторичная профилактика кардиоваскулярной токсичности"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Management of CVD according to applicable ESC Guidelines is recommended before, during, and after cancer therapy (without delaying cancer treatments).",
+            "ru": "Ведение и лечение сердечно-сосудистых заболеваний в соответствии с применимыми клиническими рекомендациями ESC рекомендуется до, во время и после противоопухолевой терапии (без задержки начала противоопухолевого лечения)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

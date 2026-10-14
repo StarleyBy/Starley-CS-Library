@@ -84,7 +84,11 @@ function detectLanguage(text) {
 
 function stripDiacritics(str) {
   if (!str) return '';
-  return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  try {
+    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  } catch (e) {
+    return str;
+  }
 }
 
 function tokenizeText(text) {

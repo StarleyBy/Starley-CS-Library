@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt48-carcinoid-vhd-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "type": "recommendations",
+  "number": "Rec Table 48",
+  "title": {
+    "en": "Recommendations for carcinoid valvular heart diseases",
+    "ru": "Рекомендации при карциноидных клапанных пороках сердца"
+  },
+  "sections": [
+    {
+      "id": "sec-rt48-general",
+      "title": {
+        "en": "General recommendations",
+        "ru": "Общие рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Echocardiography (including saline contrast infusion at baseline to rule out patent foramen ovale) is recommended for the detection of carcinoid cardiac involvement in all patients with carcinoid syndrome and elevated NP levels and/or clinical signs of carcinoid heart disease, and for surveillance every 3 or 6 months depending on the severity of cardiac involvement and clinical status.",
+            "ru": "Эхокардиография (включая пробу с контрастированием физиологическим раствором исходно для исключения открытого овального окна) рекомендуется для выявления карциноидного поражения сердца у всех пациентов с карциноидным синдромом и повышенными уровнями NP и/или клиническими признаками карциноидной болезни сердца, а также для динамического контроля каждые 3 или 6 месяцев в зависимости от выраженности поражения сердца и клинического статуса."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "NP should be considered for screening and surveillance of carcinoid heart disease every 6 months.",
+            "ru": "Определение натрийуретических пептидов (NP) следует рассмотреть для скрининга и динамического наблюдения карциноидной болезни сердца каждые 6 месяцев."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "A MDT discussion for optimal medical management to prevent carcinoid crisis is recommended before any invasive or surgical cardiac procedure.",
+            "ru": "Обсуждение мультидисциплинарной командой (MDT) для подбора оптимальной медикаментозной терапии с целью предотвращения карциноидного криза рекомендуется перед любым инвазивным или хирургическим кардиальным вмешательством."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Valve replacement surgery is recommended in symptomatic patients with severe carcinoid tricuspid or pulmonary VHD and an expected survival ≥12 months (with controlled serotonin concentrations).",
+            "ru": "Хирургическое протезирование клапана рекомендуется у симптомных пациентов с тяжелым карциноидным поражением трикуспидального или легочного клапана (VHD) и ожидаемой продолжительностью жизни ≥12 месяцев (при контролируемой концентрации серотонина)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Valve replacement surgery should be considered in patients with asymptomatic severe carcinoid tricuspid or pulmonary VHD, progressive RV dysfunction/dilatation, and an expected survival ≥12 months (with controlled serotonin concentrations).",
+            "ru": "Хирургическое протезирование клапана следует рассмотреть у пациентов с бессимптомным тяжелым карциноидным поражением трикуспидального или легочного клапана (VHD), прогрессирующей дисфункцией/дилатацией ПЖ и ожидаемой продолжительностью жизни ≥12 месяцев (при контролируемой концентрации серотонина)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Valve replacement or repair surgery is recommended in symptomatic patients with severe carcinoid mitral or aortic VHD and an expected survival ≥12 months.",
+            "ru": "Хирургическое протезирование или пластика клапана рекомендуется у симптомных пациентов с тяжелым карциноидным поражением митрального или аортального клапана (VHD) и ожидаемой продолжительностью жизни ≥12 месяцев."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

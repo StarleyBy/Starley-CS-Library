@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt17-recommendations-prosthetic-dysfunction",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 17",
+  "title": {
+    "en": "Recommendations for the management of prosthetic valve dysfunction",
+    "ru": "Рекомендации по ведению дисфункции протезов клапанов сердца"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-dysfunction",
+    "pvl",
+    "haemolysis",
+    "reoperation",
+    "transcatheter-pvl",
+    "mhv-failure",
+    "bhv-failure",
+    "valve-in-valve",
+    "valve-thrombosis",
+    "mhv-thrombosis",
+    "bhv-thrombosis",
+    "fibrinolysis",
+    "toe",
+    "ct"
+  ],
+  "sections": [
+    {
+      "id": "sec-haemolysis-pvl",
+      "title": {
+        "en": "Haemolysis and paravalvular leak",
+        "ru": "Гемолиз и парапротезные фистулы (PVL)"
+      },
+      "rows": [
+        {
+          "id": "r01-pvl-heart-team-decision",
+          "text": {
+            "en": "It is recommended that the decision between transcatheter or surgical closure of clinically significant PVLs is based on Heart Team evaluation, including patient risk, leak morphology, and local expertise.",
+            "ru": "Рекомендуется, чтобы выбор между транскатетерным или хирургическим закрытием клинически значимой парапротезной фистулы (PVL) основывался на оценке мультидисциплинарной кардиокоманды Heart Team с учетом риска пациента, анатомии фистулы и опыта клиники."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02-pvl-reoperation-indications",
+          "text": {
+            "en": "Reoperation is recommended if a PVL is related to endocarditis, or causes haemolysis requiring repeated blood transfusion or leading to HF symptoms.",
+            "ru": "Повторная операция рекомендуется, если фистула (PVL) ассоциирована с эндокардитом либо вызывает гемолиз, требующий повторных гемотрансфузий или приводящий к симптомам сердечной недостаточности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03-transcatheter-pvl-closure",
+          "text": {
+            "en": "Transcatheter closure should be considered for suitable PVLs with clinically significant regurgitation and/or haemolysis.",
+            "ru": "Транскатетерное закрытие следует рассматривать при анатомически подходящих парапротезных фистулах с клинически значимой регургитацией и/или гемолизом."
+          },
+          "refs": [940],
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-mhv-failure",
+      "title": {
+        "en": "Mechanical heart valve failure",
+        "ru": "Дисфункция/разрушение механического протеза"
+      },
+      "rows": [
+        {
+          "id": "r04-mhv-failure-reoperation",
+          "text": {
+            "en": "Reoperation is recommended in symptomatic patients with significant valve dysfunction not attributable to valve thrombosis.",
+            "ru": "Повторная операция рекомендуется симптоматическим пациентам со значимой дисфункцией механического клапана, не обусловленной тромбозом протеза."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-bhv-failure",
+      "title": {
+        "en": "Biological heart valve failure",
+        "ru": "Дисфункция/разрушение биологического протеза"
+      },
+      "rows": [
+        {
+          "id": "r05-bhv-failure-reintervention-symptomatic",
+          "text": {
+            "en": "Reintervention is recommended in symptomatic patients with significant valve dysfunction not attributable to valve thrombosis.",
+            "ru": "Повторное вмешательство рекомендуется симптоматическим пациентам со значимой дисфункцией биопротеза, не связанной с тромбозом клапана."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06-transcatheter-viv-aortic",
+          "text": {
+            "en": "Transcatheter, transfemoral valve-in-valve implantation in the aortic position should be considered in patients with significant valve dysfunction who are at intermediate or high surgical risk, and have suitable anatomical and prosthesis features, as assessed by the Heart Team.",
+            "ru": "Трансфеморальную транскатетерную имплантацию «клапан-в-клапан» (ViV) в аортальной позиции следует рассматривать у пациентов со значимой дисфункцией биопротеза, имеющих промежуточный или высокий хирургический риск, при наличии подходящих анатомических характеристик и параметров протеза по оценке Heart Team."
+          },
+          "refs": [447, 448, 450, 451, 941],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r07-transcatheter-viv-mitral-tricuspid",
+          "text": {
+            "en": "Transcatheter transvenous mitral or tricuspid valve-in-valve implantation should be considered in patients with significant valve dysfunction at intermediate or high surgical risk, if the anatomy is suitable.",
+            "ru": "Трансвенозную транскатетерную имплантацию «клапан-в-клапан» (ViV) в митральной или трикуспидальной позиции следует рассматривать у пациентов со значимой дисфункцией биопротеза промежуточного или высокого хирургического риска при подходящей анатомии."
+          },
+          "refs": [569, 570, 681, 942, 943, 944],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r08-reoperation-asymptomatic-bhv-low-risk",
+          "text": {
+            "en": "Reoperation should be considered in asymptomatic patients with significant prosthetic dysfunction, if surgical risk is low.",
+            "ru": "Повторную операцию следует рассматривать у бессимптомных пациентов со значимой дисфункцией протеза при низком хирургическом риске."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-valve-thrombosis-diagnosis",
+      "title": {
+        "en": "Valve thrombosis diagnosis",
+        "ru": "Диагностика тромбоза протеза"
+      },
+      "rows": [
+        {
+          "id": "r09-thrombosis-toe-4dct",
+          "text": {
+            "en": "TOE and/or 4D-CT are recommended in patients with suspected valve thrombosis to confirm the diagnosis.",
+            "ru": "Чреспищеводная эхокардиография (TOE) и/или 4D-КТ рекомендуются пациентам с подозрением на тромбоз клапана для подтверждения диагноза."
+          },
+          "refs": [914, 918, 923, 925, 945, 946, 947, 948],
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-mhv-thrombosis-treatment",
+      "title": {
+        "en": "Mechanical heart valve thrombosis",
+        "ru": "Тромбоз механического протеза клапана"
+      },
+      "rows": [
+        {
+          "id": "r10-acute-hf-obstructive-mhv-heart-team",
+          "text": {
+            "en": "Heart Team evaluation is recommended in patients with acute HF (NYHA class III or IV) due to obstructive MHV thrombosis to determine appropriate management (repeat valve replacement or low-dose slow infusion fibrinolysis).",
+            "ru": "Оценка кардиокомандой Heart Team рекомендуется у пациентов с острой СН (NYHA III или IV класса) вследствие обструктивного тромбоза механического протеза для определения оптимальной тактики (повторное протезирование или низкодозовый медленный инфузионный фибринолиз)."
+          },
+          "refs": [923, 926, 927, 928, 929, 949, 950, 951, 952, 953, 954],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r11-large-thrombus-surgery",
+          "text": {
+            "en": "Surgery should be considered for large (>10 mm) prosthetic thrombus complicated by embolism.",
+            "ru": "Хирургическое вмешательство следует рассматривать при крупном (>10 мм) тромбе протеза, осложненном эмболией."
+          },
+          "refs": [915, 932, 955],
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-bhv-thrombosis-treatment",
+      "title": {
+        "en": "Biological heart valve thrombosis",
+        "ru": "Тромбоз биологического протеза клапана"
+      },
+      "rows": [
+        {
+          "id": "r12-bhv-thrombosis-vka",
+          "text": {
+            "en": "OAC using VKA is recommended in BHV thrombosis before considering reintervention.",
+            "ru": "Пероральная антикоагуляция с использованием АВК рекомендуется при тромбозе биопротеза перед рассмотрением вопроса о повторном вмешательстве."
+          },
+          "refs": [867, 934, 935, 936, 937, 955, 956],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r13-halt-oac",
+          "text": {
+            "en": "OAC should be considered in patients with leaflet thickening and reduced leaflet motion leading to elevated gradients at least until resolution.",
+            "ru": "Пероральную антикоагуляцию (ОАК) следует рассматривать у пациентов с утолщением створок и ограничением их подвижности (HALT), приводящим к повышению градиентов, как минимум до разрешения изменений."
+          },
+          "refs": [918, 920, 922],
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

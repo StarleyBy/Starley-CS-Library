@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt10-recommendations-tricuspid-stenosis",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 10",
+  "title": {
+    "en": "Recommendations on indications for intervention in tricuspid stenosis",
+    "ru": "Рекомендации по показаниям к вмешательству при трикуспидальном стенозе"
+  },
+  "tags": [
+    "vhd",
+    "ts",
+    "tricuspid-stenosis",
+    "tv-surgery",
+    "tv-replacement",
+    "valvuloplasty",
+    "left-sided-valve"
+  ],
+  "sections": [
+    {
+      "id": "sec-tricuspid-stenosis",
+      "title": {
+        "en": "Tricuspid stenosis interventions",
+        "ru": "Вмешательства при трикуспидальном стенозе"
+      },
+      "rows": [
+        {
+          "id": "r01-surgery-symptomatic-severe-ts",
+          "text": {
+            "en": "Surgery^[c] is recommended in symptomatic patients with severe TS.^[d]",
+            "ru": "Хирургическое вмешательство^[c] рекомендуется симптоматическим пациентам с тяжелым трикуспидальным стенозом (TS).^[d]"
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02-surgery-severe-ts-left-sided",
+          "text": {
+            "en": "Surgery^[c] is recommended in patients with severe TS undergoing left-sided valve intervention.^[e]",
+            "ru": "Хирургическое вмешательство^[c] рекомендуется пациентам с тяжелым трикуспидальным стенозом, подвергающимся вмешательству на левых клапанах сердца.^[e]"
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Usually TV replacement.",
+      "ru": "Обычно протезирование трикуспидального клапана."
+    },
+    "d": {
+      "en": "Percutaneous balloon valvuloplasty can be attempted as a first approach if TS is isolated.",
+      "ru": "Чрескожная баллонная вальвулопластика может быть предпринята в качестве первичного подхода при изолированном TS."
+    },
+    "e": {
+      "en": "Percutaneous balloon valvuloplasty can be attempted if PMC can be performed on the MV.",
+      "ru": "Чрескожная баллонная вальвулопластика может быть предпринята, если на митральном клапане выполняется PMC."
+    }
+  }
+}

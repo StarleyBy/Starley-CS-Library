@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt12-functional-assessment",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 12",
+  "title": {
+    "en": "Recommendations for functional assessment of epicardial artery stenosis severity during invasive coronary angiography to guide revascularization",
+    "ru": "Рекомендации по функциональной оценке тяжести стенозов эпикардиальных артерий во время инвазивной коронарографии для выбора тактики реваскуляризации"
+  },
+  "tags": [
+    "ccs",
+    "functional-assessment",
+    "ffr",
+    "ifr",
+    "qfr",
+    "cfr",
+    "hsr",
+    "cfc",
+    "resting-indices",
+    "pd-pa",
+    "dpr",
+    "rfr"
+  ],
+  "source": {
+    "page": 38
+  },
+  "sections": [
+    {
+      "id": "sec-functional-assessment-general",
+      "title": {
+        "en": "Functional assessment during ICA",
+        "ru": "Функциональная оценка стенозов при КАГ"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "During ICA, selective assessment of functional severity of intermediate (typically around 40%–90% for non-left main stem or 40%–70% for left main stem by visual estimate) diameter stenoses is recommended to guide the decision to revascularize, using FFR/iFR (significant ≤0.8 or ≤0.89, respectively).",
+            "ru": "Во время инвазивной коронарографии селективная функциональная оценка тяжести стенозов промежуточного диаметра (обычно около 40%–90% для артерий, кроме ствола ЛКА, и 40%–70% для ствола ЛКА визуально) рекомендуется для принятия решения о реваскуляризации с помощью измерения FFR/iFR (гемодинамически значимые при значениях ≤0,8 или ≤0,89 соответственно)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "During ICA, selective assessment of functional severity of intermediate diameter stenoses is recommended to guide the decision to revascularize, using QFR (significant ≤0.8).",
+            "ru": "Во время инвазивной коронарографии селективная функциональная оценка тяжести стенозов промежуточного диаметра рекомендуется для принятия решения о реваскуляризации с использованием ангиографического расчета QFR (гемодинамически значимый при ≤0,8)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In addition, CFR/HSR/CFC should be considered as a complementary investigation.",
+            "ru": "В дополнение, оценка резерва коронарного кровотока (CFR), сопротивления стеноза при гиперемии (HSR) и емкости коронарного русла (CFC) должна рассматриваться в качестве дополнительных методов исследования."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Resting invasive measurement of Pd/Pa, dPR, RFR, or angiography-derived vessel FFR may be considered as alternative parameters.",
+            "ru": "Инвазивное измерение показателей давления в покое (Pd/Pa, dPR, RFR) или ангиографически расчетный FFR сосуда могут рассматриваться в качестве альтернативных параметров."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Systematic and routine wire-based coronary pressure assessment of all coronary vessels is not recommended.",
+            "ru": "Систематическая и рутинная проводниковая оценка внутрикоронарного давления во всех коронарных сосудах не рекомендуется."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    }
+  ]
+}

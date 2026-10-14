@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.t10-end-of-therapy-risk-factors",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Table 10",
+  "type": "grid",
+  "title": {
+    "en": "Table 10 — Risk factors for future cardiovascular disease at the end-of-cancer therapy cardiovascular risk assessment",
+    "ru": "Таблица 10 — Факторы риска будущих сердечно-сосудистых заболеваний при оценке кардиоваскулярного риска в конце противоопухолевой терапии"
+  },
+  "tags": [
+    "cardio-oncology",
+    "end-of-therapy",
+    "risk-stratification",
+    "doxorubicin",
+    "radiotherapy",
+    "mhd",
+    "hsct",
+    "survivorship"
+  ],
+  "source": {
+    "page": 82
+  },
+  "columns": [
+    {
+      "id": "c_conditions",
+      "title": {
+        "en": "High-risk conditions",
+        "ru": "Условия и факторы высокого риска"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-hfa-icos",
+      "cells": [
+        {
+          "text": {
+            "en": "High- and very-high baseline CV toxicity risk based on HFA-ICOS assessment",
+            "ru": "Высокий и очень высокий исходный риск кардиоваскулярной токсичности по шкале HFA-ICOS"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-treatments",
+      "cells": [
+        {
+          "text": {
+            "en": "Specific anticancer treatment proven to have a high risk of long-term CV complications:\n• Doxorubicin ≥ 250 mg/m² (or doxorubicin equivalent)\n• RT > 15 Gy mean heart dose (MHD; or prescribed RT ≥ 35 Gy to volume exposing heart if MHD unavailable)\n• Both doxorubicin ≥ 100 mg/m² and RT 5–15 Gy MHD (or prescribed RT 15–34 Gy if MHD unavailable)\n• High-risk HSCT patients (allogenic HSCT; pre-existing CVD or multiple uncontrolled CVRF; radiation history, alkylating agents, >250 mg/m² doxorubicin, GVHD)",
+            "ru": "Специфическая противоопухолевая терапия с доказанным высоким риском долгосрочных СС осложнений:\n• Доксорубицин ≥ 250 мг/м² (или эквивалент доксорубицина)\n• Лучевая терапия (ЛТ) со средней дозой на сердце > 15 Гр (MHD; или назначенная доза ЛТ ≥ 35 Гр при отсутствии данных MHD)\n• Сочетание доксорубицина ≥ 100 мг/м² и ЛТ 5–15 Гр MHD (или ЛТ 15–34 Гр при отсутствии MHD)\n• Пациенты группы высокого риска после ТГСК (аллогенная ТГСК, предшествующие ССЗ или множественные неконтролируемые факторы риска, облучение средостения, алкилирующие агенты, доксорубицин >250 мг/м², РТПХ)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-toxicity-during-therapy",
+      "cells": [
+        {
+          "text": {
+            "en": "Moderate or severe CTR-CVT during cancer treatment (especially CTRCD), ICI-related myocarditis, cardiac arrhythmias, or severe vascular toxicities (ACS, stroke, PVD)",
+            "ru": "Умеренная или тяжелая СС токсичность во время лечения рака (особенно CTRCD), ассоциированный с ICI миокардит, нарушения сердечного ритма или тяжелая сосудистая токсичность (ОКС, инсульт, ЗПА)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-end-of-therapy-abnormalities",
+      "cells": [
+        {
+          "text": {
+            "en": "New CV symptoms or new asymptomatic abnormalities in echocardiography and/or cardiac serum biomarkers at the end of therapy assessment",
+            "ru": "Впервые возникшие кардиальные симптомы или новые бессимптомные изменения по данным эхокардиографии и/или кардиомаркеров при обследовании в конце противоопухолевой терапии"
+          }
+        }
+      ]
+    }
+  ]
+}

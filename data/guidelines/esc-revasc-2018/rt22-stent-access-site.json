@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt22-stent-access-site",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 22",
+  "title": {
+    "en": "Recommendations on choice of stent and access site",
+    "ru": "Рекомендации по выбору стента и сосудистого доступа"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Choice of stent and access site",
+        "ru": "Выбор стента и доступа"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "DES are recommended over BMS for any PCI irrespective of: clinical presentation, lesion type, planned non-cardiac surgery, anticipated duration of DAPT, concomitant anticoagulant therapy.",
+            "ru": "Стенты с лекарственным покрытием (DES) рекомендуются вместо голометаллических стентов (BMS) при любом ЧКВ независимо от: клинической картины, типа поражения, планируемой внесердечной операции, предполагаемой длительности ДАТТ или сопутствующей антикоагулянтной терапии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Radial access is recommended as the standard approach, unless there are overriding procedural considerations.",
+            "ru": "Радиальный доступ рекомендуется в качестве стандартного подхода, за исключением случаев, когда процедурные особенности диктуют необходимость иного доступа."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "BRS are currently not recommended for clinical use outside of clinical studies.",
+            "ru": "Биорезорбируемые скаффолды (BRS) в настоящее время не рекомендуются для клинического применения вне рамок клинических исследований."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

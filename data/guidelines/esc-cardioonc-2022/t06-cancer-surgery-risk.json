@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.t06-cancer-surgery-risk",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Table 6 — Factors that could influence peri-operative risk during cancer surgery and preventive strategies",
+    "ru": "Таблица 6 — Факторы, влияющие на периоперационный риск при онкохирургических вмешательствах, и профилактические стратегии"
+  },
+  "tags": [
+    "cardio-oncology",
+    "cancer-surgery",
+    "peri-operative",
+    "risk-factors",
+    "neoadjuvant",
+    "vte",
+    "ate"
+  ],
+  "columns": [
+    {
+      "id": "c_domain",
+      "title": {
+        "en": "Risk domain",
+        "ru": "Сфера риска"
+      }
+    },
+    {
+      "id": "c_factors",
+      "title": {
+        "en": "Factors that could influence peri-operative risk",
+        "ru": "Факторы, влияющие на периоперационный риск"
+      }
+    },
+    {
+      "id": "c_prevention",
+      "title": {
+        "en": "Preventive strategies",
+        "ru": "Профилактические стратегии"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-patient-related",
+      "cells": [
+        {
+          "text": {
+            "en": "Patient-related factors",
+            "ru": "Факторы, связанные с пациентом"
+          }
+        },
+        {
+          "text": {
+            "en": "• Lifestyle risk factors: smoking, obesity, sedentary lifestyle\n• Poorly controlled CVRF: hypertension, DM\n• Pre-existing CVD including CTR-CVT\n• Cardiac medications that increase peri-operative bleeding risk (e.g. antiplatelets and anticoagulants)\n• Historical primary malignancy\n• Current cancer type, stage and location",
+            "ru": "• Факторы образа жизни: курение, ожирение, гиподинамия\n• Плохо контролируемые факторы СС риска: артериальная гипертензия, сахарный диабет\n• Предшествующие ССЗ, включая кардиотоксичность противоопухолевой терапии (CTR-CVT)\n• Кардиологические препараты, повышающие риск периоперационных кровотечений (антиагреганты и антикоагулянты)\n• Первичная опухоль в анамнезе\n• Тип, стадия и локализация текущего злокачественного новообразования"
+          }
+        },
+        {
+          "text": {
+            "en": "• Optimal management of CVRF and CVD\n• Optimize VTE and ATE preventive strategies",
+            "ru": "• Оптимальный контроль факторов риска ССЗ и терапия сопутствующих сердечно-сосудистых заболеваний\n• Оптимизация стратегий профилактики венозных (ВТЭ) и артериальных тромбоэмболий (АТЭ)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-neoadjuvant",
+      "cells": [
+        {
+          "text": {
+            "en": "Neoadjuvant cancer therapy",
+            "ru": "Неоадъювантная противоопухолевая терапия"
+          }
+        },
+        {
+          "text": {
+            "en": "• Neoadjuvant cardiotoxic cancer treatments: especially anthracycline chemotherapy and/or trastuzumab, ICI, VEGFi, fluoropyrimidine, and thoracic RT\n• Cancer treatments that increase peri-operative bleeding risk (e.g. VEGFi, BTK inhibitors)\n• Thrombocytopaenia caused by cancer treatment",
+            "ru": "• Неоадъювантная кардиотоксическая терапия: антрациклины и/или трастузумаб, ингибиторы контрольных точек (ICI), ингибиторы VEGF, фторпиримидины, лучевая терапия на область грудной клетки\n• Противоопухолевые препараты, повышающие периоперационный риск кровотечений (ингибиторы VEGF, ингибиторы тирозинкиназы Брутона [BTK])\n• Тромбоцитопения, вызванная противоопухолевой терапией"
+          }
+        },
+        {
+          "text": {
+            "en": "• Ensure optimal CV monitoring of neoadjuvant therapy\n• Optimize VTE and ATE preventive strategies",
+            "ru": "• Обеспечение адекватного сердечно-сосудистого мониторинга в процессе неоадъювантной терапии\n• Оптимизация мер профилактики ВТЭ и АТЭ"
+          }
+        }
+      ]
+    }
+  ]
+}

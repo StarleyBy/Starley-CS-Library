@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.t05-ccs-angina-grading",
+  "guidelineId": "esc-ccs-2024",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Grading of effort angina severity according to the Canadian Cardiovascular Society",
+    "ru": "Классификация тяжести стенокардии напряжения по шкале Канадского сердечно-сосудистого общества (CCS)"
+  },
+  "tags": [
+    "ccs",
+    "angina",
+    "grading",
+    "canadian-cardiovascular-society",
+    "effort-angina",
+    "functional-class"
+  ],
+  "source": {
+    "page": 26
+  },
+  "columns": [
+    {
+      "id": "grade",
+      "title": {
+        "en": "Grade",
+        "ru": "Класс (ФК)"
+      }
+    },
+    {
+      "id": "short_desc",
+      "title": {
+        "en": "Angina characteristics",
+        "ru": "Характеристика стенокардии"
+      }
+    },
+    {
+      "id": "full_desc",
+      "title": {
+        "en": "Description of angina severity",
+        "ru": "Описание тяжести стенокардии"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "fc-i",
+      "cells": [
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          }
+        },
+        {
+          "text": {
+            "en": "Angina only with strenuous exertion",
+            "ru": "Стенокардия только при интенсивной нагрузке"
+          }
+        },
+        {
+          "text": {
+            "en": "Presence of angina during strenuous, rapid, or prolonged ordinary activity (walking or climbing the stairs)",
+            "ru": "Возникновение стенокардии при тяжелой, быстрой или длительной обычной физической активности (ходьба или подъем по лестнице)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fc-ii",
+      "cells": [
+        {
+          "text": {
+            "en": "II",
+            "ru": "II"
+          }
+        },
+        {
+          "text": {
+            "en": "Angina with moderate exertion",
+            "ru": "Стенокардия при умеренной нагрузке"
+          }
+        },
+        {
+          "text": {
+            "en": "Slight limitation of ordinary activities when they are performed rapidly, after meals, in the cold, in the wind, under emotional stress, or during the first few hours after waking up, but also walking uphill, climbing more than one flight of ordinary stairs at a normal pace, and in normal conditions",
+            "ru": "Небольшое ограничение обычной активности при ее быстром выполнении, после еды, на холоде, против ветра, при эмоциональном стрессе или в первые часы после пробуждения, а также при ходьбе в гору, подъеме более чем на один лестничный пролет в обычном темпе и в нормальных условиях"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fc-iii",
+      "cells": [
+        {
+          "text": {
+            "en": "III",
+            "ru": "III"
+          }
+        },
+        {
+          "text": {
+            "en": "Angina with mild exertion",
+            "ru": "Стенокардия при незначительной нагрузке"
+          }
+        },
+        {
+          "text": {
+            "en": "Having difficulties walking one or two blocks or climbing one flight of stairs at a normal pace and conditions",
+            "ru": "Затруднения при ходьбе на один-два квартала (100–200 м) или подъеме на один лестничный пролет в обычном темпе и нормальных условиях"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fc-iv",
+      "cells": [
+        {
+          "text": {
+            "en": "IV",
+            "ru": "IV"
+          }
+        },
+        {
+          "text": {
+            "en": "Angina at rest",
+            "ru": "Стенокардия в покое"
+          }
+        },
+        {
+          "text": {
+            "en": "No exertion is needed to trigger angina",
+            "ru": "Для возникновения стенокардии не требуется физическая нагрузка (стенокардия покоя или при малейшей активности)"
+          }
+        }
+      ]
+    }
+  ]
+}

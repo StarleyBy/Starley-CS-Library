@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt01-dental-prophylaxis",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 1",
+  "title": {
+    "en": "Recommendations for antibiotic prophylaxis in patients with cardiovascular diseases undergoing oro-dental procedures at increased risk for infective endocarditis",
+    "ru": "Рекомендации по антибиотикопрофилактике у пациентов с сердечно-сосудистыми заболеваниями при стоматологических процедурах с повышенным риском инфекционного эндокардита"
+  },
+  "sections": [
+    {
+      "id": "oro-dental-antibiotic-prophylaxis",
+      "title": {
+        "en": "Antibiotic prophylaxis for oro-dental procedures",
+        "ru": "Антибиотикопрофилактика при стоматологических вмешательствах"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "General prevention measures are recommended in individuals at high and intermediate risk for IE.",
+            "ru": "Общие меры профилактики рекомендуются лицам с высоким и промежуточным риском ИЭ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with previous IE.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с предшествующим инфекционным эндокардитом в анамнезе."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with surgically implanted prosthetic valves and with any material used for surgical cardiac valve repair.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с хирургически имплантированными протезами клапанов сердца и с любыми материалами, использованными для хирургической пластики клапанов сердца."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with transcatheter implanted aortic and pulmonary valvular prostheses.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с транскатетерно имплантированными протезами аортального и легочного клапанов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with untreated cyanotic CHD, and patients treated with surgery or transcatheter procedures with post-operative palliative shunts, conduits, or other prostheses. After surgical repair, in the absence of residual defects or valve prostheses, antibiotic prophylaxis is recommended only for the first 6 months after the procedure.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с некорригированным цианотическим ВПС, а также пациентам, перенесшим хирургические или транскатетерные вмешательства с формированием послеоперационных паллиативных шунтов, кондуитов или установкой иных протезов. После хирургической коррекции в отсутствие резидуальных дефектов или клапанных протезов антибиотикопрофилактика рекомендуется только в первые 6 месяцев после вмешательства."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with ventricular assist devices.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с устройствами вспомогательного кровообращения желудочков (VAD)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Antibiotic prophylaxis should be considered in patients with transcatheter mitral and tricuspid valve repair.",
+            "ru": "Следует рассмотреть возможность проведения антибиотикопрофилактики у пациентов с транскатетерной пластикой митрального и трехстворчатого клапанов."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Antibiotic prophylaxis may be considered in recipients of heart transplant.",
+            "ru": "Антибиотикопрофилактика может быть рассмотрена у реципиентов трансплантированного сердца."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Antibiotic prophylaxis is not recommended in other patients at low risk for IE.",
+            "ru": "Антибиотикопрофилактика не рекомендуется остальным пациентам с низким риском ИЭ."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

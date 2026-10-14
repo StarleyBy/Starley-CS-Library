@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt34-vte-treatment",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 34",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 34 — Recommendations for the management of venous thromboembolism in patients receiving anticancer treatment",
+    "ru": "Таблица рекомендаций 34 — Рекомендации по лечению венозных тромбоэмболий (ВТЭО) у пациентов, получающих противоопухолевое лечение"
+  },
+  "tags": [
+    "cardio-oncology",
+    "vte",
+    "pe",
+    "dvt",
+    "apixaban",
+    "edoxaban",
+    "rivaroxaban",
+    "lmwh",
+    "catheter-associated-vte"
+  ],
+  "source": {
+    "page": 75
+  },
+  "sections": [
+    {
+      "id": "sec01-vte-treatment",
+      "title": {
+        "en": "Venous thromboembolism management",
+        "ru": "Лечение венозных тромбоэмболий (ВТЭО)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Apixaban, edoxaban, or rivaroxaban are recommended for the treatment of symptomatic or incidental VTE in patients with cancer without contraindications (high bleeding risk, GI absorption concerns, significant drug interactions, CrCl <15 mL/min, severe liver disease, platelets <50 000/μL).",
+            "ru": "Апиксабан, эдоксабан или ривароксабан рекомендуются для лечения симптоматических или случайно выявленных ВТЭО у пациентов со злокачественными новообразованиями при отсутствии противопоказаний (высокий риск кровотечений ЖКТ/мочеполовых, мальабсорбция, выраженные взаимодействия, КК <15 мл/мин, патология печени, тромбоциты <50 000/мкл)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "LMWH are recommended for the treatment of symptomatic or incidental VTE in patients with cancer with platelet count >50 000/μL.",
+            "ru": "Низкомолекулярные гепарины (НМГ) рекомендуются для лечения симптоматических или случайно выявленных ВТЭО у пациентов с онкологическими заболеваниями при уровне тромбоцитов >50 000/мкл."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients with cancer with platelet counts of 25 000–50 000/μL, anticoagulation with half-dose LMWH may be considered after a multidisciplinary discussion.",
+            "ru": "У онкологических пациентов с уровнем тромбоцитов 25 000–50 000/мкл антикоагуляция половинной дозой НМГ может быть рассмотрена после мультидисциплинарного консилиума."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Prolongation of anticoagulation therapy beyond 6 months should be considered in selected patients with active cancer including metastatic disease.",
+            "ru": "Продление антикоагулянтной терапии свыше 6 месяцев следует рассмотреть у отобранных пациентов с активным онкологическим процессом, включая метастатическое заболевание."
+          },
+          "class": "IIa",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec02-catheter-vte",
+      "title": {
+        "en": "Catheter-associated VTE",
+        "ru": "Катетер-ассоциированные тромбозы (ВТЭО)"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Duration of anticoagulation in patients with cancer with a catheter-associated VTE is recommended for a minimum of 3 months and continuing longer if the catheter remains in situ.",
+            "ru": "Продолжительность антикоагулянтной терапии у онкологических больных при катетер-ассоциированном тромбозе рекомендуется минимум в течение 3 месяцев и дольше, пока катетер остается на месте (in situ)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

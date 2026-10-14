@@ -1,0 +1,746 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.t04-revised-recommendations",
+  "guidelineId": "esc-vhd-2025",
+  "number": "Table 4",
+  "type": "grid",
+  "title": {
+    "en": "Revised recommendations in 2025 ESC/EACTS Guidelines for the management of valvular heart disease",
+    "ru": "Пересмотренные рекомендации в руководстве ESC/EACTS 2025 по ведению клапанных пороков сердца"
+  },
+  "columns": [
+    {
+      "id": "c_section",
+      "title": {
+        "en": "Section / Clinical Domain",
+        "ru": "Раздел / Клиническая область"
+      }
+    },
+    {
+      "id": "c_rec_2021",
+      "title": {
+        "en": "Recommendations in 2021 version",
+        "ru": "Рекомендации в версии 2021 г."
+      }
+    },
+    {
+      "id": "c_class_2021",
+      "title": {
+        "en": "2021 Class",
+        "ru": "Класс 2021"
+      }
+    },
+    {
+      "id": "c_rec_2025",
+      "title": {
+        "en": "Recommendations in 2025 version",
+        "ru": "Рекомендации в версии 2025 г."
+      }
+    },
+    {
+      "id": "c_class_2025",
+      "title": {
+        "en": "2025 Class",
+        "ru": "Класс 2025"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-ccta-before-valve-intervention",
+      "cells": [
+        { "text": { "en": "Management of CAD — Section 6.1", "ru": "Ведение ИБС — Раздел 6.1" } },
+        {
+          "text": {
+            "en": "CCTA should be considered as an alternative to coronary angiography before valve surgery in patients with severe VHD and low probability of CAD.",
+            "ru": "КТ-коронарография должна рассматриваться как альтернатива коронарографии перед операцией на клапане у пациентов с тяжелым пороком и низкой вероятностью ИБС."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "CCTA is recommended before valve intervention in patients with moderate or lower (≤50%) pre-test likelihood of obstructive CAD.",
+            "ru": "КТ-коронарография рекомендуется перед вмешательством на клапане у пациентов с умеренной или низкой (≤50%) предтестовой вероятностью обструктивной ИБС."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r02-invasive-angiography-high-likelihood",
+      "cells": [
+        { "text": { "en": "Management of CAD — Section 6.1", "ru": "Ведение ИБС — Раздел 6.1" } },
+        {
+          "text": {
+            "en": "Coronary angiography is recommended before valve surgery in patients with severe VHD and any of the following: history of CVD, suspected ischaemia, LV systolic dysfunction, men >40y and post-menopausal women, or ≥1 CV risk factors.",
+            "ru": "Коронарография рекомендуется перед операцией на клапане при тяжелом пороке и наличии: анамнеза ССЗ, подозрения на ишемию, дисфункции ЛЖ, мужчины >40 лет и женщины в постменопаузе, или ≥1 факторов сердечно-сосудистого риска."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        {
+          "text": {
+            "en": "Invasive coronary angiography is recommended before valve intervention in patients with high and very high (>50%) pre-test likelihood of obstructive CAD.",
+            "ru": "Инвазивная коронарография рекомендуется перед вмешательством на клапане у пациентов с высокой и очень высокой (>50%) предтестовой вероятностью обструктивной ИБС."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r03-invasive-angiography-smr",
+      "cells": [
+        { "text": { "en": "Management of CAD — Section 6.1", "ru": "Ведение ИБС — Раздел 6.1" } },
+        {
+          "text": {
+            "en": "Coronary angiography is recommended in the evaluation of severe SMR.",
+            "ru": "Коронарография рекомендуется при обследовании тяжелой вторичной митральной регургитации (SMR)."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        {
+          "text": {
+            "en": "Invasive coronary angiography is recommended in the evaluation of CAD in patients with severe ventricular SMR.",
+            "ru": "Инвазивная коронарография рекомендуется для оценки ИБС у пациентов с тяжелой желудочковой вторичной МР."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r04-pci-before-transcatheter-valves",
+      "cells": [
+        { "text": { "en": "Management of CAD — Section 6.1", "ru": "Ведение ИБС — Раздел 6.1" } },
+        {
+          "text": {
+            "en": "PCI should be considered in patients with primary indication to undergo TAVI or transcatheter MV intervention and coronary diameter stenosis >70% in proximal segments.",
+            "ru": "ЧКВ следует рассматривать у пациентов с первичными показаниями к TAVI или транскатетерному вмешательству на МК и стенозом коронарной артерии >70% в проксимальных сегментах."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "PCI may be considered in patients with a primary indication to undergo transcatheter valve interventions and coronary artery stenosis ≥70% in proximal segments of main vessels.",
+            "ru": "ЧКВ может рассматриваться у пациентов с первичными показаниями к транскатетерным вмешательствам на клапанах и стенозом коронарной артерии ≥70% в проксимальных сегментах магистральных сосудов."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" }
+      ]
+    },
+    {
+      "id": "r05-laao-surgical-closure",
+      "cells": [
+        { "text": { "en": "Atrial fibrillation in VHD — Section 6.2", "ru": "Фибрилляция предсердий при пороках — Раздел 6.2" } },
+        {
+          "text": {
+            "en": "LAAO should be considered to reduce the thromboembolic risk in patients with AF and a CHA2DS2-VASc score ≥2 undergoing valve surgery.",
+            "ru": "Окклюзия/ушивание ушка ЛП должна рассматриваться для снижения тромбоэмболического риска у пациентов с ФП и CHA2DS2-VASc ≥2 при операциях на клапанах."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "Surgical closure of the LA appendage is recommended as an adjunct to OAC in patients with AF undergoing valve surgery to prevent cardioembolic stroke and systemic thromboembolism.",
+            "ru": "Хирургическое закрытие ушка ЛП рекомендуется в дополнение к ОАК у пациентов с ФП при операциях на клапанах для профилактики кардиоэмболического инсульта и системных тромбоэмболий."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r06-af-concomitant-ablation-mv",
+      "cells": [
+        { "text": { "en": "Atrial fibrillation in VHD — Section 6.2", "ru": "Фибрилляция предсердий при пороках — Раздел 6.2" } },
+        {
+          "text": {
+            "en": "Concomitant AF ablation should be considered in patients undergoing valve surgery, balancing benefits of freedom from arrhythmias and risk factors for recurrence.",
+            "ru": "Сопутствующая аблация ФП должна рассматриваться у пациентов при операциях на клапанах с учетом баланса пользы и риска рецидива."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "Concomitant surgical ablation is recommended in patients undergoing MV surgery with AF suitable for a rhythm control strategy to prevent symptoms and recurrence of AF.",
+            "ru": "Сопутствующая хирургическая аблация рекомендуется пациентам при операциях на митральном клапане с ФП, подходящим для стратегии контроля ритма, для предотвращения симптомов и рецидивов ФП."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r07-af-concomitant-ablation-non-mv",
+      "cells": [
+        { "text": { "en": "Atrial fibrillation in VHD — Section 6.2", "ru": "Фибрилляция предсердий при пороках — Раздел 6.2" } },
+        {
+          "text": {
+            "en": "Concomitant AF ablation should be considered in patients undergoing valve surgery.",
+            "ru": "Сопутствующая аблация ФП должна рассматриваться у пациентов при операциях на клапанах."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "Concomitant surgical ablation should be considered in patients undergoing non-MV surgery with AF suitable for a rhythm control strategy to prevent symptoms and recurrence of AF.",
+            "ru": "Сопутствующая хирургическая аблация должна рассматриваться у пациентов при операциях НЕ на митральном клапане с ФП, подходящим для контроля ритма."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r08-doac-rheumatic-ms-contraindicated",
+      "cells": [
+        { "text": { "en": "Atrial fibrillation in VHD — Section 6.2", "ru": "Фибрилляция предсердий при пороках — Раздел 6.2" } },
+        {
+          "text": {
+            "en": "The use of DOACs is not recommended in patients with AF and moderate-to-severe MS.",
+            "ru": "Применение ПОАК не рекомендуется у пациентов с ФП и умеренным/тяжелым митральным стенозом."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" },
+        {
+          "text": {
+            "en": "The use of DOACs is not recommended in patients with AF and rheumatic MS with an MVA ≤2.0 cm².",
+            "ru": "Применение ПОАК не рекомендуется у пациентов с ФП и ревматическим митральным стенозом с площадью отверстия MVA ≤2,0 см²."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r09-ar-av-repair-experienced-centres",
+      "cells": [
+        { "text": { "en": "Severe aortic regurgitation — Section 7.4", "ru": "Тяжелая аортальная регургитация — Раздел 7.4" } },
+        {
+          "text": {
+            "en": "AV repair may be considered in selected patients at experienced centres when durable results are expected.",
+            "ru": "Пластика аортального клапана может рассматриваться у отобранных пациентов в опытных центрах при ожидаемом стойком результате."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        {
+          "text": {
+            "en": "AV repair should be considered in selected patients with severe AR at experienced centres, when durable results are expected.",
+            "ru": "Пластика аортального клапана должна рассматриваться у отобранных пациентов с тяжелой АР в опытных центрах при ожидаемом стойком результате."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r10-ar-asymptomatic-surgery-criteria",
+      "cells": [
+        { "text": { "en": "Severe aortic regurgitation — Section 7.4", "ru": "Тяжелая аортальная регургитация — Раздел 7.4" } },
+        {
+          "text": {
+            "en": "Surgery may be considered in asymptomatic patients with LVESD >20 mm/m² BSA (especially in patients with small body size) or resting LVEF ≤55%, if surgery is at low risk.",
+            "ru": "Хирургия может рассматриваться у бессимптомных пациентов с КСР ЛЖ >20 мм/м² ППТ или ФВ ЛЖ в покое ≤55% при низком хирургическом риске."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        {
+          "text": {
+            "en": "AV surgery may be considered in asymptomatic patients with severe AR and LVESDi >22 mm/m² or LVESVi >45 mL/m² [especially in patients with small body size (BSA <1.68 m²)], or resting LVEF ≤55%, if surgical risk is low.",
+            "ru": "Операция на АК может рассматриваться у бессимптомных пациентов с тяжелой АР и КСРи >22 мм/м² или КСОи >45 мл/м² (особенно при ППТ <1,68 м²), либо ФВ ЛЖ ≤55% при низком риске операции."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" }
+      ]
+    },
+    {
+      "id": "r11-as-low-flow-low-gradient-reduced-ef",
+      "cells": [
+        { "text": { "en": "Symptomatic severe AS — Section 8.4.1", "ru": "Симптомный тяжелый АС — Раздел 8.4.1" } },
+        {
+          "text": {
+            "en": "Intervention is recommended in symptomatic patients with severe low-flow (SVi ≤35 mL/m²), low-gradient (<40 mmHg) AS with reduced LVEF (<50%), and evidence of flow (contractile) reserve.",
+            "ru": "Вмешательство рекомендуется симптомным пациентам с тяжелым низкопотоковым (SVi ≤35 мл/м²) низкоградиентным (<40 мм рт. ст.) АС со сниженной ФВ ЛЖ (<50%) и наличием сократительного резерва."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        {
+          "text": {
+            "en": "Intervention is recommended in symptomatic patients with low-flow (SVi ≤35 mL/m²), low-gradient (<40 mmHg) AS with reduced LVEF (<50%) after careful confirmation that AS is severe.",
+            "ru": "Вмешательство рекомендуется симптомным пациентам с низкопотоковым низкоградиентным АС со сниженной ФВ ЛЖ (<50%) после тщательного подтверждения тяжести стеноза."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r12-as-low-flow-low-gradient-normal-ef",
+      "cells": [
+        { "text": { "en": "Symptomatic severe AS — Section 8.4.1", "ru": "Симптомный тяжелый АС — Раздел 8.4.1" } },
+        {
+          "text": {
+            "en": "Intervention should be considered in symptomatic patients with low-flow, low-gradient (<40 mmHg) AS with normal LVEF after careful confirmation that the AS is severe.",
+            "ru": "Вмешательство следует рассматривать у симптомных пациентов с низкопотоковым низкоградиентным АС с нормальной ФВ ЛЖ после подтверждения тяжести стеноза."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "Intervention should be considered in symptomatic patients with low-flow (SVi ≤35 mL/m²), low-gradient (<40 mmHg) AS with normal LVEF (≥50%) after careful confirmation that AS is severe.",
+            "ru": "Вмешательство следует рассматривать у симптомных пациентов с низкопотоковым (SVi ≤35 мл/м²) низкоградиентным (<40 мм рт. ст.) АС с нормальной ФВ ЛЖ (≥50%) после подтверждения тяжести стеноза."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r13-as-asymptomatic-progression-criteria",
+      "cells": [
+        { "text": { "en": "Asymptomatic severe AS — Section 8.5", "ru": "Бессимптомный тяжелый АС — Раздел 8.5" } },
+        {
+          "text": {
+            "en": "Intervention should be considered in asymptomatic patients with severe AS and LV dysfunction (LVEF <55%) or normal exercise test with very severe AS (mean gradient ≥60 mmHg or Vmax >5 m/s), severe calcification, marked BNP elevation.",
+            "ru": "Вмешательство должно рассматриваться при ФВ ЛЖ <55% или при нормальном нагрузочном тесте с очень тяжелым АС (градиент ≥60 или Vmax >5 м/с), выраженным кальцинозом, значительным повышением BNP."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "Intervention should be considered in asymptomatic patients with severe AS and LVEF ≥50%, if procedural risk is low and one of: very severe AS (mean gradient ≥60 mmHg or Vmax >5.0 m/s), severe calcification and progression, marked BNP/NT-proBNP (>3x normal), or LVEF <55%.",
+            "ru": "Вмешательство следует рассматривать у бессимптомных пациентов с тяжелым АС и ФВ ЛЖ ≥50% при низком процедурном риске и наличии одного из: очень тяжелый АС (градиент ≥60 мм рт. ст. или Vmax >5,0 м/с), выраженный кальциноз и прогрессирование, повышение BNP/NT-proBNP (>3 раз), или ФВ ЛЖ <55%."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r14-as-tavi-age-cutoff",
+      "cells": [
+        { "text": { "en": "Mode of intervention in AS — Section 8.5", "ru": "Выбор вмешательства при АС — Раздел 8.5" } },
+        {
+          "text": {
+            "en": "TAVI is recommended in older patients (≥75 years), or high surgical risk (STS/EuroSCORE >8%). SAVR is recommended in younger patients (<75 years).",
+            "ru": "TAVI рекомендуется пожилым пациентам (≥75 лет) или при высоком риске (>8%). SAVR рекомендуется молодым пациентам (<75 лет)."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        {
+          "text": {
+            "en": "TAVI is recommended in patients ≥70 years of age with tricuspid AV stenosis, if anatomy is suitable. SAVR is recommended in patients <70 years of age, if surgical risk is low.",
+            "ru": "TAVI рекомендуется пациентам в возрасте ≥70 лет с трехстворчатым стенозом АК при подходящей анатомии. SAVR рекомендуется пациентам в возрасте <70 лет при низком хирургическом риске."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r15-as-non-transfemoral-tavi",
+      "cells": [
+        { "text": { "en": "Mode of intervention in AS — Section 8.5", "ru": "Выбор вмешательства при АС — Раздел 8.5" } },
+        {
+          "text": {
+            "en": "Non-transfemoral TAVI may be considered in patients who are inoperable and unsuitable for transfemoral TAVI.",
+            "ru": "Нетрансфеморальный доступ TAVI может рассматриваться у неоперабельных пациентов, не подходящих для трансфеморального TAVI."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        {
+          "text": {
+            "en": "Non-transfemoral TAVI should be considered in patients who are unsuitable for surgery and transfemoral access.",
+            "ru": "Нетрансфеморальный доступ TAVI следует рассматривать у пациентов, не подходящих для открытой хирургии и трансфеморального доступа."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r16-pmr-teer-symptomatic",
+      "cells": [
+        { "text": { "en": "Severe PMR — Section 9.1.4", "ru": "Тяжелая первичная МР — Раздел 9.1.4" } },
+        {
+          "text": {
+            "en": "TEER may be considered in symptomatic patients who fulfil echocardiographic criteria, are judged inoperable or at high surgical risk, and for whom the procedure is not considered futile.",
+            "ru": "TEER может рассматриваться у симптомных пациентов, соответствующих эхокардиографическим критериям, признанных неоперабельными или высокого риска."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        {
+          "text": {
+            "en": "TEER should be considered in symptomatic patients with severe PMR who are anatomically suitable and at high surgical risk according to the Heart Team.",
+            "ru": "TEER следует рассматривать у симптомных пациентов с тяжелой ПМР при анатомической пригодности и высоком хирургическом риске по решению Heart Team."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r17-smr-teer-reduced-ef-gdmt",
+      "cells": [
+        { "text": { "en": "Severe ventricular SMR — Section 9.2", "ru": "Тяжелая желудочковая вторичная МР — Раздел 9.2" } },
+        {
+          "text": {
+            "en": "TEER should be considered in selected symptomatic patients not eligible for surgery and fulfilling criteria suggesting an increased chance of responding to treatment.",
+            "ru": "TEER следует рассматривать у отдельных симптомных пациентов, не подлежащих хирургии, с критериями высокой вероятности ответа на терапию."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "TEER is recommended to reduce HF hospitalizations and improve quality of life in haemodynamically stable, symptomatic patients with impaired LVEF (<50%) and persistent severe ventricular SMR, despite optimized GDMT and CRT, fulfilling specific criteria.",
+            "ru": "TEER рекомендуется для снижения госпитализаций по поводу СН и улучшения качества жизни у гемодинамически стабильных симптомных пациентов с ФВ ЛЖ <50% и стойкой тяжелой желудочковой ВМР, несмотря на ОМТ и СРТ."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r18-tr-concomitant-left-sided-surgery",
+      "cells": [
+        { "text": { "en": "Tricuspid regurgitation — Section 11.4", "ru": "Трикуспидальная регургитация — Раздел 11.4" } },
+        {
+          "text": {
+            "en": "Surgery is recommended in patients with severe primary TR undergoing left-sided valve surgery. Surgery is recommended in patients with severe secondary TR undergoing left-sided valve surgery.",
+            "ru": "Хирургия рекомендуется пациентам с тяжелой первичной ТР или тяжелой вторичной ТР, оперируемым на левых клапанах."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        {
+          "text": {
+            "en": "Concomitant TV surgery is recommended in patients with severe primary or secondary TR.",
+            "ru": "Сопутствующее вмешательство на ТК рекомендуется пациентам с тяжелой первичной или вторичной ТР."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r19-tr-transcatheter-isolated-severe",
+      "cells": [
+        { "text": { "en": "Isolated severe TR — Section 11.4", "ru": "Изолированная тяжелая ТР — Раздел 11.4" } },
+        {
+          "text": {
+            "en": "Transcatheter treatment of symptomatic secondary severe TR may be considered in inoperable patients at a Heart Valve Centre with expertise in TV disease.",
+            "ru": "Транскатетерное лечение симптомной вторичной тяжелой ТР может рассматриваться у неоперабельных пациентов в специализированных центрах."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        {
+          "text": {
+            "en": "Transcatheter TV treatment should be considered to improve quality of life and RV remodelling in high-risk patients, with symptomatic severe TR despite optimal medical therapy, in the absence of severe RV dysfunction or pre-capillary PH.",
+            "ru": "Транскатетерное лечение ТК следует рассматривать для улучшения качества жизни и обратного ремоделирования ПЖ у пациентов высокого риска с симптомной тяжелой ТР на фоне ОМТ, при отсутствии тяжелой дисфункции ПЖ или прекапиллярной ЛГ."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r20-mhv-antithrombotic-vka-lifelong",
+      "cells": [
+        { "text": { "en": "Antithrombotic therapy in MHV — Section 14.3", "ru": "Антитромботическая терапия при MHV — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "OAC using a VKA is recommended lifelong for all patients with an MHV prosthesis.",
+            "ru": "Пероральная антикоагуляция АВК рекомендуется пожизненно всем пациентам с механическим протезом клапана."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        {
+          "text": {
+            "en": "Lifelong OAC with a VKA is recommended for all patients with MHVs to prevent thromboembolic complications.",
+            "ru": "Пожизненный прием АВК рекомендуется всем пациентам с механическими протезами клапанов для предотвращения тромбоэмболических осложнений."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r21-inr-self-monitoring-management",
+      "cells": [
+        { "text": { "en": "Antithrombotic therapy in MHV — Section 14.3", "ru": "Антитромботическая терапия при MHV — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "For patients with a VKA, INR self-management is recommended provided appropriate training and quality control are performed.",
+            "ru": "У пациентов на АВК рекомендуется самоконтроль МНО при условии надлежащего обучения и контроля качества."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        {
+          "text": {
+            "en": "INR self-monitoring and self-management are recommended over standard monitoring in selected, trained patients to improve efficacy.",
+            "ru": "Самоконтроль и самостоятельная коррекция дозы АВК по МНО рекомендуются вместо стандартного мониторинга у отобранных обученных пациентов для повышения эффективности."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r22-postop-bridging-early-vka",
+      "cells": [
+        { "text": { "en": "Antithrombotic therapy in MHV — Section 14.3", "ru": "Антитромботическая терапия при MHV — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "In patients with MHVs, it is recommended to (re)initiate the VKA on the first post-operative day. In patients with valve surgery and indication for bridging, start UFH or LMWH 12–24 h after surgery.",
+            "ru": "Рекомендуется возобновить прием АВК в 1-й послеоперационный день. Начинать НФГ или НМГ через 12–24 ч после операции."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        {
+          "text": {
+            "en": "Following cardiac surgery with MHV implantation, it is recommended to start UFH or LMWH bridging and VKA within 24 h, or as soon as considered safe.",
+            "ru": "После операции с имплантацией MHV рекомендуется начать мост-терапию НФГ/НМГ и прием АВК в течение первых 24 часов (или как только это будет признано безопасным)."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r23-asa-addition-symptomatic-athero",
+      "cells": [
+        { "text": { "en": "Antithrombotic therapy in MHV — Section 14.3", "ru": "Антитромботическая терапия при MHV — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "The addition of low-dose ASA (75–100 mg/day) to VKA may be considered in selected patients with MHVs in case of concomitant atherosclerotic disease and low risk of bleeding.",
+            "ru": "Добавление низких доз аспирина (75–100 мг/сут) к АВК может рассматриваться у пациентов с MHV при сопутствующем атеросклерозе и низком риске кровотечений."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        {
+          "text": {
+            "en": "The addition of low-dose ASA (75–100 mg/day) to VKA should be considered in selected patients with MHVs in case of concomitant symptomatic atherosclerotic disease, considering the individual bleeding risk profile.",
+            "ru": "Добавление низких доз аспирина (75–100 мг/сут) к АВК должно рассматриваться у пациентов с MHV при сопутствующем симптомном атеросклерозе с учетом индивидуального профиля риска кровотечений."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r24-asa-addition-or-inr-target-increase",
+      "cells": [
+        { "text": { "en": "Antithrombotic therapy in MHV — Section 14.3", "ru": "Антитромботическая терапия при MHV — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "The addition of low-dose ASA (75–100 mg/day) to VKA should be considered after thromboembolism despite an adequate INR.",
+            "ru": "Добавление низких доз аспирина (75–100 мг/сут) к АВК следует рассматривать после тромбоэмболии, развившейся на фоне адекватного МНО."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "Either an increase in INR target or the addition of low-dose ASA (75–100 mg/day) should be considered in patients with MHVs who develop a major thromboembolic complication despite documented adequate INR.",
+            "ru": "Либо повышение целевого уровня МНО, либо добавление низких доз аспирина (75–100 мг/сут) следует рассматривать у пациентов с MHV, развивших тяжелое тромбоэмболическое осложнение на фоне документированного адекватного МНО."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r25-doac-dapt-contraindicated-mhv",
+      "cells": [
+        { "text": { "en": "Antithrombotic therapy in MHV — Section 14.3", "ru": "Антитромботическая терапия при MHV — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "DOACs are not recommended in patients with an MHV prosthesis.",
+            "ru": "ПОАК не рекомендуются пациентам с механическим протезом клапана."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" },
+        {
+          "text": {
+            "en": "DOACs and/or DAPT are not recommended to prevent thrombosis in patients with an MHV.",
+            "ru": "ПОАК и/или ДАТТ не рекомендуются для профилактики тромбоза у пациентов с механическим протезом клапана."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r26-noncardiac-surgery-vka-discontinuation",
+      "cells": [
+        { "text": { "en": "MHV undergoing non-cardiac surgery — Section 14.3", "ru": "MHV при внесердечных операциях — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "It is recommended that VKAs are timely discontinued prior to elective surgery to aim for an INR <1.5. In patients with MHVs, (re)initiate on first post-op day.",
+            "ru": "Рекомендуется своевременно отменить АВК перед плановой операцией до достижения МНО <1,5. Возобновлять в 1-й послеоперационный день."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        {
+          "text": {
+            "en": "It is recommended to discontinue VKA at least 4 days before major elective non-cardiac surgery, aiming for an INR <1.5, and to resume VKA treatment within 24 h after surgery, or as soon as considered safe.",
+            "ru": "Рекомендуется отменить АВК минимум за 4 дня до большой плановой внесердечной операции до достижения МНО <1,5 и возобновить прием АВК в течение первых 24 часов после операции (или как только это признано безопасным)."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r27-noncardiac-surgery-bridging-indication",
+      "cells": [
+        { "text": { "en": "MHV undergoing non-cardiac surgery — Section 14.3", "ru": "MHV при внесердечных операциях — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "Bridging of OAC with therapeutic UFH or LMWH is recommended in patients with MHV, AF with significant MS, AF with high stroke risk, or recent thromboembolism.",
+            "ru": "Мост-терапия лечебными дозами НФГ или НМГ рекомендуется у пациентов с механическими протезами, ФП при митральном стенозе, высоким риском инсульта или недавней тромбоэмболией."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        {
+          "text": {
+            "en": "VKA interruption and resumption with bridging should be considered in patients with an MHV and thromboembolic risk factors undergoing major non-cardiac surgery.",
+            "ru": "Прерывание и возобновление приема АВК с мост-терапией следует рассматривать у пациентов с MHV и факторами риска тромбоэмболий при больших внесердечных операциях."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r28-tavi-post-antithrombotic-regimen",
+      "cells": [
+        { "text": { "en": "Biological valve or repair — Section 14.3", "ru": "Биопротезы или пластика — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "Lifelong SAPT is recommended after TAVI in patients with no baseline indication for OAC.",
+            "ru": "Пожизненная монотерапия антиагрегантом рекомендуется после TAVI у пациентов без исходных показаний к ОАК."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        {
+          "text": {
+            "en": "Low-dose ASA (75–100 mg/day) is recommended for 12 months after TAVI in patients without indication for OAC (Class I). Long-term (after the first 12 months) low-dose ASA should be considered after TAVI in patients without clear indication for OAC (Class IIa).",
+            "ru": "Низкие дозы аспирина (75–100 мг/сут) рекомендуются в течение 12 месяцев после TAVI при отсутствии показаний к ОАК (Класс I). В отдаленные сроки (после первых 12 месяцев) низкие дозы аспирина следует рассматривать после TAVI (Класс IIa)."
+          }
+        },
+        { "text": { "en": "I / IIa", "ru": "I / IIa" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r29-repair-mitral-tricuspid-anticoagulation",
+      "cells": [
+        { "text": { "en": "Biological valve or repair — Section 14.3", "ru": "Биопротезы или пластика — Раздел 14.3" } },
+        {
+          "text": {
+            "en": "OAC with VKA should be considered during the first 3 months after mitral and tricuspid repair.",
+            "ru": "ОАК с применением АВК следует рассматривать в течение первых 3 месяцев после пластики митрального и трикуспидального клапанов."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "OAC, with either VKAs or DOACs, should be considered during the first 3 months after surgical MV or TV repair.",
+            "ru": "ОАК (с применением как АВК, так и ПОАК) следует рассматривать в течение первых 3 месяцев после хирургической пластики МК или ТК."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r30-pvl-closure-decision",
+      "cells": [
+        { "text": { "en": "Paravalvular leak — Section 14.4", "ru": "Парапротезная фистула — Раздел 14.4" } },
+        {
+          "text": {
+            "en": "Decision on transcatheter or surgical closure of clinically significant PVLs should be considered based on patient risk status, leak morphology, and local expertise.",
+            "ru": "Решение о транскатетерном или хирургическом закрытии клинически значимых парапротезных фистул следует рассматривать на основе риска, морфологии фистулы и опыта клиники."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "It is recommended that the decision between transcatheter or surgical closure of clinically significant PVLs is based on Heart Team evaluation, including patient risk, leak morphology, and local expertise.",
+            "ru": "Рекомендуется принимать решение между транскатетерным и хирургическим закрытием клинически значимых парапротезных фистул на основании оценки Heart Team, включая риск пациента, морфологию фистулы и местный опыт."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r31-pvl-transcatheter-closure-eligibility",
+      "cells": [
+        { "text": { "en": "Paravalvular leak — Section 14.4", "ru": "Парапротезная фистула — Раздел 14.4" } },
+        {
+          "text": {
+            "en": "Transcatheter closure should be considered for suitable PVLs with clinically significant regurgitation and/or haemolysis in patients at high or prohibitive surgical risk.",
+            "ru": "Транскатетерное закрытие следует рассматривать при подходящих фистулах со значимой регургитацией и/или гемолизом у пациентов с высоким/неприемлемым хирургическим риском."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "Transcatheter closure should be considered for suitable PVLs with clinically significant regurgitation and/or haemolysis.",
+            "ru": "Транскатетерное закрытие следует рассматривать при анатомически подходящих парапротезных фистулах с клинически значимой регургитацией и/или гемолизом (расширено на всех подходящих пациентов)."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r32-bhv-valve-in-valve-mitral-tricuspid",
+      "cells": [
+        { "text": { "en": "Biological valve failure — Section 14.4", "ru": "Дисфункция биопротеза — Раздел 14.4" } },
+        {
+          "text": {
+            "en": "Transcatheter valve-in-valve implantation in the mitral and tricuspid position may be considered in selected patients at high risk for surgical reintervention.",
+            "ru": "Транскатетерная имплантация клапан-в-клапан в митральную и трикуспидальную позицию может рассматриваться у отобранных пациентов высокого риска повторной хирургии."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" },
+        {
+          "text": {
+            "en": "Transcatheter transvenous mitral or tricuspid valve-in-valve implantation should be considered in patients with significant valve dysfunction at intermediate or high surgical risk, if the anatomy is suitable.",
+            "ru": "Транскатетерная трансвенозная имплантация клапан-в-клапан в митральную или трикуспидальную позицию должна рассматриваться при значимой дисфункции у пациентов промежуточного или высокого хирургического риска при подходящей анатомии."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r33-mhv-thrombosis-emergency-replacement",
+      "cells": [
+        { "text": { "en": "Mechanical valve thrombosis — Section 14.4", "ru": "Тромбоз механического клапана — Раздел 14.4" } },
+        {
+          "text": {
+            "en": "Urgent or emergency valve replacement is recommended for obstructive thrombosis in critically ill patients without serious comorbidity.",
+            "ru": "Неотложное или экстренное протезирование клапана рекомендуется при обструктивном тромбозе у тяжелых пациентов без серьезной коморбидности."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        {
+          "text": {
+            "en": "Heart Team evaluation is recommended in patients with acute HF (NYHA class III or IV) due to obstructive MHV thrombosis to determine appropriate management (repeat valve replacement or low-dose slow infusion fibrinolysis).",
+            "ru": "Оценка кардиокомандой (Heart Team) рекомендуется у пациентов с острой СН (NYHA III или IV) вследствие обструктивного тромбоза MHV для выбора тактики (повторное протезирование или низкодозовый медленный фибринолиз)."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r34-bhv-thrombosis-anticoagulation",
+      "cells": [
+        { "text": { "en": "Biological valve thrombosis — Section 14.4", "ru": "Тромбоз биопротеза — Раздел 14.4" } },
+        {
+          "text": {
+            "en": "Anticoagulation using a VKA and/or UFH is recommended in BHV thrombosis before considering reintervention.",
+            "ru": "Антикоагуляция с использованием АВК и/или НФГ рекомендуется при тромбозе биопротеза до рассмотрения повторного вмешательства."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" },
+        {
+          "text": {
+            "en": "OAC using VKA is recommended in BHV thrombosis before considering reintervention.",
+            "ru": "Пероральная антикоагуляция АВК рекомендуется при тромбозе биологического клапана перед рассмотрением повторного вмешательства."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    }
+  ],
+  "tags": [
+    "vhd",
+    "revised-recommendations",
+    "ccta",
+    "tavi",
+    "savr",
+    "pmr",
+    "smr",
+    "teer",
+    "tricuspid",
+    "mhv",
+    "bhv",
+    "bridging",
+    "pvl",
+    "valve-in-valve"
+  ]
+}

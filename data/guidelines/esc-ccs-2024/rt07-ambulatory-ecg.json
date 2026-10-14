@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt07-ambulatory-ecg",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 7",
+  "title": {
+    "en": "Recommendations for ambulatory ECG monitoring in the initial diagnostic management of individuals with suspected chronic coronary syndrome",
+    "ru": "Рекомендации по амбулаторному мониторированию ЭКГ при первичной диагностике лиц с подозрением на хронический коронарный синдром"
+  },
+  "tags": [
+    "ccs",
+    "ambulatory-ecg",
+    "holter",
+    "arrhythmias",
+    "vasospastic-angina",
+    "st-segment"
+  ],
+  "source": {
+    "page": 33
+  },
+  "sections": [
+    {
+      "id": "sec-ambulatory-ecg-indications",
+      "title": {
+        "en": "Ambulatory ECG monitoring indications",
+        "ru": "Показания к амбулаторному мониторированию ЭКГ"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Ambulatory ECG monitoring is recommended in subjects with chest pain and suspected arrhythmias.",
+            "ru": "Амбулаторное мониторирование ЭКГ рекомендуется лицам с болью в грудной клетке и подозрением на аритмии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Ambulatory ECG monitoring should be considered in subjects with suspected vasospastic angina.",
+            "ru": "Амбулаторное мониторирование ЭКГ следует рассмотреть у лиц с подозрением на вазоспастическую стенокардию."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

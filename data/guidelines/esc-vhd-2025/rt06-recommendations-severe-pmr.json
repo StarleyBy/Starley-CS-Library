@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt06-recommendations-severe-pmr",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 6",
+  "title": {
+    "en": "Recommendations on indications for intervention in severe primary mitral regurgitation",
+    "ru": "Рекомендации по показаниям к вмешательству при тяжелой первичной митральной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "pmr",
+    "mitral-regurgitation",
+    "mv-repair",
+    "mv-surgery",
+    "teer",
+    "minimally-invasive-mv",
+    "lvesd",
+    "lvef",
+    "af",
+    "pulmonary-hypertension"
+  ],
+  "sections": [
+    {
+      "id": "sec-severe-pmr",
+      "title": {
+        "en": "Severe primary mitral regurgitation",
+        "ru": "Тяжелая первичная митральная регургитация"
+      },
+      "rows": [
+        {
+          "id": "r01-mv-repair-preferred",
+          "text": {
+            "en": "MV repair is the recommended surgical technique to treat patients with severe PMR when the result is expected to be durable.",
+            "ru": "Пластика (реконструкция) митрального клапана является рекомендуемой хирургической методикой лечения пациентов с тяжелой ПМР при ожидаемом стойком долгосрочном результате."
+          },
+          "refs": [26, 532, 533, 559, 560],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02-symptomatic-operable-pmr",
+          "text": {
+            "en": "MV surgery is recommended in symptomatic patients with severe PMR considered operable by the Heart Team.",
+            "ru": "Хирургическое вмешательство на митральном клапане рекомендуется симптомным пациентам с тяжелой ПМР, признанным операбельными по решению Heart Team."
+          },
+          "refs": [26, 532, 533, 561],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03-asymptomatic-lv-dysfunction",
+          "text": {
+            "en": "MV surgery is recommended in asymptomatic patients with severe PMR and LV dysfunction (LVESD ≥40 mm or LVESDi ≥20 mm/m² or LVEF ≤60%).",
+            "ru": "Операция на митральном клапане рекомендуется бессимптомным пациентам с тяжелой ПМР и дисфункцией ЛЖ (КСР ЛЖ ≥40 мм или КСРи ЛЖ ≥20 мм/м² либо ФВ ЛЖ ≤60%)."
+          },
+          "refs": [532, 544, 545],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04-asymptomatic-low-risk-three-criteria",
+          "text": {
+            "en": "Surgical MV repair is recommended in low-risk asymptomatic patients with severe PMR without LV dysfunction (LVESD <40 mm, LVESDi <20 mm/m², and LVEF >60%) when a durable result is likely, if at least three of the following criteria are fulfilled:",
+            "ru": "Хирургическая пластика митрального клапана рекомендуется бессимптомным пациентам низкого риска с тяжелой ПМР без дисфункции ЛЖ (КСР <40 мм, КСРи <20 мм/м² и ФВ >60%) при высокой вероятности стойкого результата, если соблюдены как минимум три из следующих критериев:"
+          },
+          "bullets": [
+            {
+              "text": {
+                "en": "AF",
+                "ru": "Фибрилляция предсердий"
+              }
+            },
+            {
+              "text": {
+                "en": "SPAP at rest >50 mmHg",
+                "ru": "СДЛА в покое >50 мм рт. ст."
+              }
+            },
+            {
+              "text": {
+                "en": "LA dilatation (LAVI ≥60 mL/m² or LA diameter ≥55 mm)",
+                "ru": "Дилатация ЛП (LAVI ≥60 мл/м² или диаметр ЛП ≥55 мм)"
+              }
+            },
+            {
+              "text": {
+                "en": "Concomitant secondary TR ≥ moderate",
+                "ru": "Сопутствующая вторичная трикуспидальная регургитация ≥ умеренной"
+              }
+            }
+          ],
+          "refs": [517, 547, 562, 563, 564],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05-asymptomatic-ph-or-af",
+          "text": {
+            "en": "MV surgery should be considered in asymptomatic patients with severe PMR without LV dysfunction (LVESD <40 mm, LVESDi <20 mm/m², and LVEF >60%) in the presence of PH (SPAP at rest >50 mmHg), or AF secondary to MR.",
+            "ru": "Операцию на митральном клапане следует рассматривать у бессимптомных пациентов с тяжелой ПМР без дисфункции ЛЖ (КСР <40 мм, КСРи <20 мм/м² и ФВ >60%) при наличии легочной гипертензии (СДЛА в покое >50 мм рт. ст.) или ФП, вторичной по отношению к митральной регургитации."
+          },
+          "refs": [517, 518, 562, 565],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r06-asymptomatic-la-dilatation-centre",
+          "text": {
+            "en": "Surgical MV repair should be considered in low-risk asymptomatic patients with severe PMR without LV dysfunction (LVESD <40 mm, LVESDi <20 mm/m², and LVEF >60%) in the presence of significant LA dilatation (LAVI ≥60 mL/m² or LA diameter ≥55 mm), when performed in a Heart Valve Centre and a durable repair is likely.",
+            "ru": "Хирургическую пластику митрального клапана следует рассматривать у бессимптомных пациентов низкого риска с тяжелой ПМР без дисфункции ЛЖ (КСР <40 мм, КСРи <20 мм/м² и ФВ >60%) при наличии выраженной дилатации ЛП (LAVI ≥60 мл/м² или диаметр ЛП ≥55 мм), если операция выполняется в Экспертном центре (Heart Valve Centre) и высока вероятность стойкого результата."
+          },
+          "refs": [517, 545],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r07-teer-symptomatic-high-risk-pmr",
+          "text": {
+            "en": "TEER should be considered in symptomatic patients with severe PMR who are anatomically suitable and at high surgical risk according to the Heart Team.",
+            "ru": "Транскатетерную пластику «край-в-край» (TEER) следует рассматривать у симптоматических пациентов с тяжелой ПМР, имеющих подходящую анатомию и высокий хирургический риск по решению Heart Team."
+          },
+          "refs": [538, 540, 566],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r08-minimally-invasive-mv",
+          "text": {
+            "en": "Minimally invasive MV surgery may be considered at experienced centres to reduce the length of stay and accelerate recovery.",
+            "ru": "Миниинвазивную хирургию митрального клапана можно рассматривать в опытных центрах для сокращения длительности госпитализации и ускорения восстановления."
+          },
+          "refs": [557, 567],
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt46-pregnancy-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "type": "recommendations",
+  "number": "Rec Table 46",
+  "title": {
+    "en": "Recommendations for cardiovascular monitoring in cancer survivors during pregnancy",
+    "ru": "Рекомендации по сердечно-сосудистому мониторингу у лиц, перенесших рак, во время беременности"
+  },
+  "sections": [
+    {
+      "id": "sec-rt46-general",
+      "title": {
+        "en": "General recommendations",
+        "ru": "Общие рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In high-risk female CS, pre-pregnancy counselling and management during pregnancy and around delivery by a multidisciplinary pregnancy heart team is recommended.",
+            "ru": "У женщин высокой группы риска, перенесших рак (CS), рекомендуется догравидарное консультирование и ведение во время беременности и в родах мультидисциплинарной кардио-акушерской бригадой (Pregnancy Heart Team)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "A baseline CV evaluation including history, physical examination, ECG, NP, and echocardiography is recommended in female CS with a history of CTRCD who are considering pregnancy.",
+            "ru": "Исходное кардиоваскулярное обследование, включая анамнез, физикальный осмотр, ЭКГ, натрийуретические пептиды (NP) и эхокардиографию, рекомендуется женщинам, перенесшим рак (CS), с анамнезом CTRCD, планирующим беременность."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "A baseline CV evaluation including history, physical examination, ECG, and echocardiography should be considered in all female CS who received potentially cardiotoxic cancer therapy and are considering pregnancy.",
+            "ru": "Исходное кардиоваскулярное обследование, включая анамнез, физикальный осмотр, ЭКГ и эхокардиографию, следует рассмотреть у всех женщин, перенесших рак (CS), получавших потенциально кардиотоксическую противоопухолевую терапию и планирующих беременность."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "A CV evaluation including echocardiography is recommended at 12 weeks of pregnancy in female CS who are either high-risk or who received potentially cardiotoxic cancer therapy and did not have a baseline CV assessment.",
+            "ru": "Кардиоваскулярное обследование, включая эхокардиографию, рекомендуется на 12-й неделе беременности у женщин, перенесших рак (CS), входящих в группу высокого риска либо получавших потенциально кардиотоксическую терапию рака и не прошедших исходное обследование до беременности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "A second CV evaluation including echocardiography should be considered at 20 weeks of pregnancy in high-risk female CS (according to Tables 11 and 12) who received potentially cardiotoxic cancer therapy.",
+            "ru": "Повторное кардиоваскулярное обследование, включая эхокардиографию, следует рассмотреть на 20-й неделе беременности у женщин группы высокого риска, перенесших рак (согласно Таблицам 11 и 12), получавших потенциально кардиотоксическую терапию рака."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

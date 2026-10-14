@@ -1,0 +1,525 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t14-what-to-do",
+  "guidelineId": "esc-pe-2019",
+  "number": "Section 14",
+  "type": "grid",
+  "title": {
+    "en": "'What to do' and 'what not to do' messages from the 2019 Guidelines",
+    "ru": "Ключевые указания «Что делать» и «Чего не делать» (Классы I и III) в рекомендациях 2019 г."
+  },
+  "columns": [
+    {
+      "id": "c_section",
+      "title": {
+        "en": "Domain / Category",
+        "ru": "Раздел / Категория"
+      }
+    },
+    {
+      "id": "c_statement",
+      "title": {
+        "en": "Key Message (Recommendation)",
+        "ru": "Ключевое положение (Рекомендация)"
+      }
+    },
+    {
+      "id": "c_class",
+      "title": {
+        "en": "Class",
+        "ru": "Класс"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-dx-high-risk-echo-ctpa",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "In suspected high-risk PE, perform bedside echocardiography or emergency CTPA (depending on availability and clinical circumstances) for diagnosis.",
+            "ru": "При подозрении на ТЭЛА высокого риска выполните прикроватную ЭхоКГ или экстренную КТ-ангиографию (в зависимости от доступности и клинической ситуации) для подтверждения диагноза."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r02-dx-high-risk-iv-ufh",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "In suspected high-risk PE, initiate intravenous anticoagulation with UFH without delay, including a weight-adjusted bolus injection.",
+            "ru": "При подозрении на ТЭЛА высокого риска незамедлительно начните в/в антикоагуляцию НФГ, включая болюс с коррекцией по массе тела."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r03-dx-validated-criteria",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "In suspected PE without haemodynamic instability, use validated diagnostic criteria.",
+            "ru": "При подозрении на ТЭЛА без гемодинамической нестабильности используйте валидированные диагностические критерии."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r04-dx-anticoagulation-workup",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "In suspected PE without haemodynamic instability, initiate anticoagulation in case of high or intermediate clinical probability, while diagnostic workup is in progress.",
+            "ru": "При подозрении на ТЭЛА без гемодинамической нестабильности начните антикоагуляцию в случае высокой или промежуточной клинической вероятности на время проведения диагностического поиска."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r05-dx-probability-strategy",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "Base the diagnostic strategy on clinical probability, using either clinical judgement or a validated prediction rule.",
+            "ru": "Основывайте диагностическую стратегию на клинической вероятности, используя клиническое суждение врача или валидированную шкалу прогнозирования."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r06-dx-measure-ddimer",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "Measure D-dimers in plasma, preferably with a highly sensitive assay, in outpatients/emergency department patients with low or intermediate clinical probability, or who are PE-unlikely.",
+            "ru": "Измеряйте уровень D-димера в плазме (предпочтительно высокочувствительным методом) у амбулаторных пациентов и пациентов скорой помощи с низкой/промежуточной вероятностью или PE-unlikely."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r07-dx-reject-ctpa-normal",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "Reject the diagnosis of PE (without further testing) if CTPA is normal in a patient with low or intermediate clinical probability, or if the patient is PE-unlikely.",
+            "ru": "Отвергайте диагноз ТЭЛА (без дальнейшего обследования), если КТ-ангиография в норме у пациента с низкой или промежуточной клинической вероятностью либо у пациента, для которого ТЭЛА маловероятна."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r08-dx-reject-perfusion-normal",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "Reject the diagnosis of PE (without further testing) if the perfusion lung scan is normal.",
+            "ru": "Отвергайте диагноз ТЭЛА (без дальнейшего тестирования), если перфузионная сцинтиграфия легких нормальная."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r09-dx-accept-ctpa-segmental",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "Accept the diagnosis of PE if CTPA shows a segmental or more proximal filling defect in a patient with intermediate or high clinical probability.",
+            "ru": "Подтверждайте диагноз ТЭЛА, если КТ-ангиография показывает дефект наполнения на сегментарном или более проксимальном уровне у пациента с промежуточной или высокой клинической вероятностью."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r10-dx-accept-cus-proximal",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "Accept the diagnosis of VTE if CUS shows a proximal DVT in a patient with clinical suspicion of PE.",
+            "ru": "Подтверждайте диагноз ВТЭ, если компрессионное УЗИ вен выявляет проксимальный ТГВ у пациента с клиническим подозрением на ТЭЛА."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r11-dx-not-measure-ddimer-high-prob",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "Do not measure D-dimers in patients with high clinical probability, as a normal result does not safely exclude PE.",
+            "ru": "**НЕ определяйте** D-димер у пациентов с высокой клинической вероятностью, поскольку нормальный уровень не позволяет надежно исключить ТЭЛА."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r12-dx-not-perform-ct-venography",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "Do not perform CT venography as an adjunct to CTPA.",
+            "ru": "**НЕ выполняйте** КТ-венографию в качестве дополнения к КТ-ангиопульмонографии."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r13-dx-not-perform-mra",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "Do not perform MRA to rule out PE.",
+            "ru": "**НЕ выполняйте** магнитно-резонансную ангиографию для исключения ТЭЛА."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r14-risk-stratify-instability",
+      "cells": [
+        { "text": { "en": "Risk assessment", "ru": "Оценка риска" } },
+        {
+          "text": {
+            "en": "Stratify patients with suspected or confirmed PE, based on the presence of haemodynamic instability, to identify those at high risk of early mortality.",
+            "ru": "Стратифицируйте пациентов с подозреваемой или подтвержденной ТЭЛА на основе наличия гемодинамической нестабильности для выявления лиц с высоким риском ранней смерти."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r15-risk-stratify-intermediate-low",
+      "cells": [
+        { "text": { "en": "Risk assessment", "ru": "Оценка риска" } },
+        {
+          "text": {
+            "en": "In patients without haemodynamic instability, further stratify PE into intermediate- and low-risk categories.",
+            "ru": "У пациентов без гемодинамической нестабильности проводите дальнейшую стратификацию ТЭЛА на промежуточный и низкий риск."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r16-acute-systemic-thrombolysis",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "Administer systemic thrombolytic therapy to patients with high-risk PE.",
+            "ru": "Проводите системную тромболитическую терапию пациентам с ТЭЛА высокого риска."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r17-acute-surgical-embolectomy",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "Surgical pulmonary embolectomy for patients with high-risk PE, in whom recommended thrombolysis is contraindicated or has failed.",
+            "ru": "Выполняйте хирургическую эмболэктомию пациентам с ТЭЛА высокого риска, у которых тромболизис противопоказан или оказался неэффективным."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r18-acute-prefer-lmwh-fondaparinux",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "If anticoagulation is initiated parenterally in a patient without haemodynamic instability, prefer LMWH or fondaparinux over UFH.",
+            "ru": "Если антикоагуляция начинается парентерально у пациента без гемодинамической нестабильности, отдавайте предпочтение НМГ или фондапаринуксу перед НФГ."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r19-acute-prefer-noac",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "When oral anticoagulation is initiated in a patient with PE who is eligible for a NOAC (apixaban, dabigatran, edoxaban, or rivaroxaban), prefer a NOAC.",
+            "ru": "При начале пероральной антикоагуляции у пациента с ТЭЛА, подходящего для приема НОАК, отдавайте предпочтение НОАК."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r20-acute-vka-overlap",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "As an alternative to a NOAC, administer a VKA, overlapping with parenteral anticoagulation until an INR of 2.5 (range 2.0–3.0) has been reached.",
+            "ru": "В качестве альтернативы НОАК назначайте АВК с перекрытием парентеральным антикоагулянтом до достижения целевого МНО 2,5 (диапазон 2,0–3,0)."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r21-acute-rescue-thrombolysis",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "Administer rescue thrombolytic therapy to a patient with haemodynamic deterioration on anticoagulation treatment.",
+            "ru": "Проводите спасительный тромболизис пациентам при ухудшении гемодинамики на фоне антикоагулянтной терапии."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r22-acute-do-not-use-noac-severe-ckd-aps",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "Do not use NOACs in patients with severe renal impairment or in those with antiphospholipid antibody syndrome.",
+            "ru": "**НЕ применяйте** НОАК у пациентов с тяжелой почечной недостаточностью или антифосфолипидным синдромом."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r23-acute-do-not-routinely-lyse-intermediate-low",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "Do not routinely administer systemic thrombolysis as primary treatment in patients with intermediate- or low-risk PE.",
+            "ru": "**НЕ проводите** рутинный системный тромболизис в качестве первичного лечения пациентам с ТЭЛА промежуточного или низкого риска."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r24-acute-do-not-routinely-use-ivc",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "Do not routinely use inferior vena cava filters.",
+            "ru": "**НЕ устанавливайте** рутинно фильтры нижней полой вены (кава-фильтры)."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r25-chronic-anticoagulation-gte-3m",
+      "cells": [
+        { "text": { "en": "Chronic treatment and prevention of recurrence", "ru": "Хроническое лечение и профилактика рецидивов" } },
+        {
+          "text": {
+            "en": "Administer therapeutic anticoagulation for ≥3 months to all patients with PE.",
+            "ru": "Назначайте терапевтическую антикоагуляцию в течение ≥3 месяцев всем пациентам с ТЭЛА."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r26-chronic-discontinue-major-transient",
+      "cells": [
+        { "text": { "en": "Chronic treatment and prevention of recurrence", "ru": "Хроническое лечение и профилактика рецидивов" } },
+        {
+          "text": {
+            "en": "Discontinue therapeutic oral anticoagulation after 3 months in patients with first PE secondary to a major transient/reversible risk factor.",
+            "ru": "Прекращайте терапевтическую пероральную антикоагуляцию через 3 месяца у пациентов с первой ТЭЛА, развившейся на фоне большого преходящего/обратимого фактора риска."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r27-chronic-indefinite-recurrent-vte",
+      "cells": [
+        { "text": { "en": "Chronic treatment and prevention of recurrence", "ru": "Хроническое лечение и профилактика рецидивов" } },
+        {
+          "text": {
+            "en": "Continue oral anticoagulant treatment indefinitely in patients presenting with recurrent VTE (at least one previous episode of PE or DVT) that is not related to a major transient or reversible risk factor.",
+            "ru": "Продолжайте пероральную антикоагуляцию неопределенно долго у пациентов с рецидивирующей ВТЭ (хотя бы один предшествующий эпизод ТЭЛА или ТГВ), не связанной с большим преходящим/обратимым фактором риска."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r28-chronic-indefinite-vka-aps",
+      "cells": [
+        { "text": { "en": "Chronic treatment and prevention of recurrence", "ru": "Хроническое лечение и профилактика рецидивов" } },
+        {
+          "text": {
+            "en": "Continue oral anticoagulant treatment with a VKA indefinitely in patients with antiphospholipid antibody syndrome.",
+            "ru": "Продолжайте пероральную антикоагуляцию АВК неопределенно долго у пациентов с антифосфолипидным синдромом."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r29-chronic-reassess-regularly",
+      "cells": [
+        { "text": { "en": "Chronic treatment and prevention of recurrence", "ru": "Хроническое лечение и профилактика рецидивов" } },
+        {
+          "text": {
+            "en": "In patients who receive extended anticoagulation, reassess drug tolerance and adherence, hepatic and renal function, and the bleeding risk at regular intervals.",
+            "ru": "У пациентов на продленной антикоагуляции регулярно оценивайте переносимость и приверженность терапии, функцию печени и почек, а также риск кровотечений."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r30-preg-formal-assessment",
+      "cells": [
+        { "text": { "en": "PE in pregnancy", "ru": "ТЭЛА при беременности" } },
+        {
+          "text": {
+            "en": "Perform formal diagnostic assessment with validated methods if PE is suspected during pregnancy or in the post-partum period.",
+            "ru": "Выполняйте формализованную диагностическую оценку валидированными методами при подозрении на ТЭЛА во время беременности или в послеродовом периоде."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r31-preg-lmwh-weight-adjusted",
+      "cells": [
+        { "text": { "en": "PE in pregnancy", "ru": "ТЭЛА при беременности" } },
+        {
+          "text": {
+            "en": "Administer therapeutic, fixed doses of LMWH, based on early pregnancy weight, in the majority of pregnant women without haemodynamic instability.",
+            "ru": "Назначайте терапевтические фиксированные дозы НМГ, рассчитанные по массе тела на ранних сроках беременности, большинству беременных без гемодинамической нестабильности."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r32-preg-do-not-puncture-24h",
+      "cells": [
+        { "text": { "en": "PE in pregnancy", "ru": "ТЭЛА при беременности" } },
+        {
+          "text": {
+            "en": "Do not insert a spinal or epidural needle within 24 h since the last LMWH dose.",
+            "ru": "**НЕ вводите** спинальную или эпидуральную иглу в течение 24 часов после последней дозы НМГ."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r33-preg-do-not-lmwh-within-4h-catheter-removal",
+      "cells": [
+        { "text": { "en": "PE in pregnancy", "ru": "ТЭЛА при беременности" } },
+        {
+          "text": {
+            "en": "Do not administer LMWH within 4 h of removal of an epidural catheter.",
+            "ru": "**НЕ вводите** НМГ в течение 4 часов после удаления эпидурального катетера."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r34-preg-do-not-use-noac",
+      "cells": [
+        { "text": { "en": "PE in pregnancy", "ru": "ТЭЛА при беременности" } },
+        {
+          "text": {
+            "en": "Do not use NOACs during pregnancy or lactation.",
+            "ru": "**НЕ применяйте** НОАК во время беременности или грудного вскармливания."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r35-postpe-routine-reevaluate",
+      "cells": [
+        { "text": { "en": "Post-PE care and long-term sequelae", "ru": "Ведение после ТЭЛА и отдаленные последствия" } },
+        {
+          "text": {
+            "en": "Routinely re-evaluate patients 3–6 months after acute PE.",
+            "ru": "Рутинно повторно обследуйте пациентов через 3–6 месяцев после острой ТЭЛА."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r36-postpe-integrated-care",
+      "cells": [
+        { "text": { "en": "Post-PE care and long-term sequelae", "ru": "Ведение после ТЭЛА и отдаленные последствия" } },
+        {
+          "text": {
+            "en": "Implement an integrated model of care after acute PE, in order to ensure optimal transition from hospital to ambulatory care.",
+            "ru": "Внедряйте интегрированную модель помощи после острой ТЭЛА для оптимального перехода от стационара к амбулаторному звену."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r37-postpe-refer-cteph",
+      "cells": [
+        { "text": { "en": "Post-PE care and long-term sequelae", "ru": "Ведение после ТЭЛА и отдаленные последствия" } },
+        {
+          "text": {
+            "en": "Refer symptomatic patients with mismatched perfusion defects on V/Q lung scan beyond 3 months after acute PE to a pulmonary hypertension/CTEPH expert centre, taking into account the results of echocardiography, natriuretic peptide, and/or cardiopulmonary exercise testing.",
+            "ru": "Направляйте симптомных пациентов с сохраняющимися дефектами перфузии на сцинтиграфии V/Q через >3 мес после ТЭЛА в экспертный центр ЛГ/ХТЛГ с учетом данных ЭхоКГ, BNP/NT-proBNP и кардиопульмонального нагрузочного теста."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    }
+  ],
+  "tags": [
+    "what-to-do",
+    "key-messages",
+    "class-i",
+    "class-iii",
+    "pe",
+    "summary"
+  ]
+}

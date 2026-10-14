@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt18-lipid-lowering",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 18",
+  "title": {
+    "en": "Recommendations for lipid-lowering drugs in patients with chronic coronary syndrome",
+    "ru": "Рекомендации по гиполипидемическим препаратам у пациентов с хроническим коронарным синдромом"
+  },
+  "tags": [
+    "ccs",
+    "lipids",
+    "ldl-c",
+    "statins",
+    "ezetimibe",
+    "bempedoic-acid",
+    "pcsk9-inhibitors",
+    "recurrent-events"
+  ],
+  "source": {
+    "page": 49
+  },
+  "sections": [
+    {
+      "id": "sec-lipid-lowering-general",
+      "title": {
+        "en": "Lipid-lowering therapy goals and drug combinations",
+        "ru": "Целевые уровни и комбинированная гиполипидемическая терапия"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Lipid-lowering treatment with an LDL-C goal of <1.4 mmol/L (55 mg/dL) and a ≥50% reduction in LDL-C vs. baseline is recommended.",
+            "ru": "Рекомендуется гиполипидемическая терапия с целевым уровнем ХС-ЛПНП <1,4 ммоль/л (55 мг/дл) и снижением уровня ХС-ЛПНП на ≥50% от исходного значения."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "A high-intensity statin up to the highest tolerated dose to reach the LDL-C goals is recommended for all patients with CCS.",
+            "ru": "Высокоинтенсивная терапия статинами в максимальной переносимой дозе для достижения целевого уровня ХС-ЛПНП рекомендуется всем пациентам с ХКС."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "If a patient's goal is not achieved with the maximum tolerated dose of statin, combination with ezetimibe is recommended.",
+            "ru": "Если целевой уровень не достигнут на фоне максимально переносимой дозы статина, рекомендуется комбинация с эзетимибом."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "For patients who are statin intolerant and do not achieve their goal on ezetimibe, combination with bempedoic acid is recommended.",
+            "ru": "Пациентам с непереносимостью статинов, не достигшим целевого уровня на эзетимибе, рекомендуется комбинация с бемпедоевой кислотой."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "For patients who do not achieve their goal on a maximum tolerated dose of statin and ezetimibe, combination with a PCSK9 inhibitor is recommended.",
+            "ru": "Пациентам, не достигшим целевого уровня на максимально переносимой дозе статина и эзетимиба, рекомендуется комбинация с ингибитором PCSK9 (эволокумаб, алирокумаб)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "For patients who do not achieve their goal on a maximum tolerated dose of statin and ezetimibe, combination with bempedoic acid should be considered.",
+            "ru": "Пациентам, не достигшим целевого уровня на максимально переносимой дозе статина и эзетимиба, следует рассмотреть добавление бемпедоевой кислоты."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "For patients with a recurrent atherothrombotic event (not necessarily of the same type as the first event) while taking maximally tolerated statin therapy, an LDL-C goal of <1.0 mmol/L (<40 mg/dL) may be considered.",
+            "ru": "У пациентов с повторным атеротромботическим событием (не обязательно того же типа, что и первое) на фоне максимально переносимой терапии статинами может рассматриваться более жесткий целевой уровень ХС-ЛПНП <1,0 ммоль/л (<40 мг/дл)."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt10-spect-pet-cmr",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 10",
+  "title": {
+    "en": "Recommendations for non-invasive functional myocardial imaging tests in the initial diagnostic management of individuals with suspected chronic coronary syndrome — resting and stress single-photon emission computed tomography/positron emission tomography — cardiac magnetic resonance imaging, if available, and supported by local expertise",
+    "ru": "Рекомендации по неинвазивным функциональным визуализирующим тестам перфузии миокарда при первичной диагностике лиц с подозрением на хронический коронарный синдром — ОФЭКТ/ПЭТ и МРТ сердца"
+  },
+  "tags": [
+    "ccs",
+    "spect",
+    "pet",
+    "cmr",
+    "perfusion",
+    "myocardial-blood-flow",
+    "cacs",
+    "mace"
+  ],
+  "source": {
+    "page": 36
+  },
+  "sections": [
+    {
+      "id": "sec-spect-pet-cmr-general",
+      "title": {
+        "en": "Functional myocardial imaging (SPECT, PET, CMR)",
+        "ru": "Функциональная визуализация миокарда (ОФЭКТ, ПЭТ, МРТ)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In individuals with suspected CCS and moderate or high (>15%–85%) pre-test likelihood of obstructive CAD, stress SPECT or, preferably, PET myocardial perfusion imaging is recommended to:\n• diagnose and quantify myocardial ischaemia and/or scar;\n• estimate the risk of MACE;\n• quantify myocardial blood flow (PET).",
+            "ru": "У лиц с подозрением на ХКС и умеренной или высокой (>15%–85%) предтестовой вероятностью обструктивной ИБС перфузионная визуализация миокарда методом стресс-ОФЭКТ (SPECT) или предпочтительно стресс-ПЭТ (PET) рекомендуется для:\n• диагностики и количественной оценки ишемии и/или рубца миокарда;\n• оценки риска больших сердечно-сосудистых событий (MACE);\n• количественной оценки миокардиального кровотока (при ПЭТ)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients selected for PET or SPECT myocardial perfusion imaging, it is recommended to measure CACS from unenhanced chest CT imaging (used for attenuation correction) to improve detection of both non-obstructive and obstructive CAD.",
+            "ru": "У пациентов, отобранных для перфузионной визуализации миокарда методами ПЭТ или ОФЭКТ, рекомендуется измерять индекс кальциноза коронарных артерий (CACS) по бесконтрастной КТ грудной клетки (применяемой для коррекции ослабления), чтобы повысить точность выявления как необструктивной, так и обструктивной ИБС."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In individuals with suspected CCS and moderate or high (>15%–85%) pre-test likelihood of obstructive CAD, stress CMR perfusion imaging is recommended to diagnose and quantify myocardial ischaemia and/or scar and estimate the risk of MACE.",
+            "ru": "У лиц с подозрением на ХКС и умеренной или высокой (>15%–85%) предтестовой вероятностью обструктивной ИБС перфузионная МРТ сердца с нагрузкой (стресс-CMR) рекомендуется для диагностики и количественной оценки ишемии и/или рубца миокарда, а также для оценки риска MACE."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

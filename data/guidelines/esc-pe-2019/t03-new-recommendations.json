@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t03-new-recommendations",
+  "guidelineId": "esc-pe-2019",
+  "number": "Section 2.2.3",
+  "type": "grid",
+  "title": {
+    "en": "Main new recommendations in 2019 Guidelines",
+    "ru": "Основные новые рекомендации в рекомендациях 2019 года"
+  },
+  "columns": [
+    {
+      "id": "c_category",
+      "title": {
+        "en": "Domain / Category",
+        "ru": "Область / Категория"
+      }
+    },
+    {
+      "id": "c_rec",
+      "title": {
+        "en": "New Recommendation",
+        "ru": "Новая рекомендация"
+      }
+    },
+    {
+      "id": "c_class",
+      "title": {
+        "en": "Class",
+        "ru": "Класс"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-dx-dimer-age-adapted",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "A D-dimer test, using an age-adjusted cut-off or adapted to clinical probability, should be considered as an alternative to the fixed cut-off level.",
+            "ru": "Тест на D-димер с использованием порогового значения, скорректированного по возрасту или адаптированного к клинической вероятности, следует рассматривать как альтернативу фиксированному пороговому уровню."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r02-dx-cus-risk-assessment",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "If a positive proximal CUS is used to confirm PE, risk assessment should be considered to guide management.",
+            "ru": "Если для подтверждения ТЭЛА используется положительный результат проксимального компрессионного УЗИ (CUS), следует рассмотреть оценку риска для определения тактики ведения."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r03-dx-vq-spect",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "V/Q SPECT may be considered for PE diagnosis.",
+            "ru": "Вентиляционно-перфузионная ОФЭКТ (V/Q SPECT) может рассматриваться для диагностики ТЭЛА."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" }
+      ]
+    },
+    {
+      "id": "r04-risk-rv-imaging-biomarkers",
+      "cells": [
+        { "text": { "en": "Risk assessment", "ru": "Оценка риска" } },
+        {
+          "text": {
+            "en": "Assessment of the RV by imaging or laboratory biomarkers should be considered, even in the presence of a low PESI or a sPESI of 0.",
+            "ru": "Оценку правого желудочка с помощью методов визуализации или лабораторных биомаркеров следует рассматривать даже при низком значении PESI или sPESI = 0."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r05-risk-validated-scores",
+      "cells": [
+        { "text": { "en": "Risk assessment", "ru": "Оценка риска" } },
+        {
+          "text": {
+            "en": "Validated scores combining clinical, imaging, and laboratory prognostic factors may be considered to further stratify PE severity.",
+            "ru": "Валидированные шкалы, сочетающие клинические, визуализирующие и лабораторные прогностические факторы, могут рассматриваться для дальнейшей стратификации тяжести ТЭЛА."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" }
+      ]
+    },
+    {
+      "id": "r06-acute-noac-first-choice",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "When oral anticoagulation is initiated in a patient with PE who is eligible for a NOAC (apixaban, dabigatran, edoxaban, or rivaroxaban), a NOAC is the recommended form of anticoagulant treatment.",
+            "ru": "При начале пероральной антикоагулянтной терапии у пациента с ТЭЛА, подходящего для приема НОАК (апиксабан, дабигатран, эдоксабан или ривароксабан), НОАК является рекомендованной формой антикоагулянтного лечения."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r07-acute-multidisciplinary-pert",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "Set-up of multidisciplinary teams for management of high-risk and selected cases of intermediate-risk PE should be considered, depending on the resources and expertise available in each hospital.",
+            "ru": "Создание мультидисциплинарных команд для ведения пациентов с ТЭЛА высокого и отдельных случаев промежуточного риска следует рассматривать в зависимости от ресурсов и опыта, доступных в конкретном стационаре."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r08-acute-ecmo-embolectomy",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "ECMO may be considered, in combination with surgical embolectomy or catheter-directed treatment, in refractory circulatory collapse or cardiac arrest.",
+            "ru": "ЭКМО может рассматриваться в комбинации с хирургической эмболэктомией или катетерным лечением при рефрактерном циркуляторном коллапсе или остановке сердца."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" }, "tone": "orange" }
+      ]
+    },
+    {
+      "id": "r09-chronic-aps-vka",
+      "cells": [
+        { "text": { "en": "Chronic treatment and prevention of recurrence", "ru": "Хроническое лечение и профилактика рецидивов" } },
+        {
+          "text": {
+            "en": "Indefinite treatment with a VKA is recommended for patients with antiphospholipid antibody syndrome.",
+            "ru": "Неопределенно долгая терапия АВК рекомендуется пациентам с антифосфолипидным синдромом."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r10-chronic-no-identifiable-factor",
+      "cells": [
+        { "text": { "en": "Chronic treatment and prevention of recurrence", "ru": "Хроническое лечение и профилактика рецидивов" } },
+        {
+          "text": {
+            "en": "Extended anticoagulation should be considered for patients with no identifiable risk factor for the index PE event.",
+            "ru": "Продленную антикоагулянтную терапию следует рассматривать у пациентов без идентифицируемых факторов риска индексного события ТЭЛА."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r11-chronic-persistent-risk-factor",
+      "cells": [
+        { "text": { "en": "Chronic treatment and prevention of recurrence", "ru": "Хроническое лечение и профилактика рецидивов" } },
+        {
+          "text": {
+            "en": "Extended anticoagulation should be considered for patients with a persistent risk factor other than antiphospholipid antibody syndrome.",
+            "ru": "Продленную антикоагулянтную терапию следует рассматривать у пациентов со стойким фактором риска, отличным от антифосфолипидного синдрома."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r12-chronic-minor-reversible-factor",
+      "cells": [
+        { "text": { "en": "Chronic treatment and prevention of recurrence", "ru": "Хроническое лечение и профилактика рецидивов" } },
+        {
+          "text": {
+            "en": "Extended anticoagulation should be considered for patients with a minor transient/reversible risk factor for the index PE event.",
+            "ru": "Продленную антикоагулянтную терапию следует рассматривать у пациентов с незначительным преходящим/обратимым фактором риска индексного события ТЭЛА."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r13-chronic-reduced-dose-apixaban-rivaroxaban",
+      "cells": [
+        { "text": { "en": "Chronic treatment and prevention of recurrence", "ru": "Хроническое лечение и профилактика рецидивов" } },
+        {
+          "text": {
+            "en": "A reduced dose of apixaban or rivaroxaban should be considered after the first 6 months.",
+            "ru": "Сниженную дозу апиксабана или ривароксабана следует рассматривать после первых 6 месяцев лечения."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r14-cancer-edoxaban-rivaroxaban",
+      "cells": [
+        { "text": { "en": "PE in cancer", "ru": "ТЭЛА при онкологических заболеваниях" } },
+        {
+          "text": {
+            "en": "Edoxaban or rivaroxaban should be considered as an alternative to LMWH, with the exception of patients with gastrointestinal cancer.",
+            "ru": "Эдоксабан или ривароксабан следует рассматривать как альтернативу НМГ, за исключением пациентов с раком желудочно-кишечного тракта."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r15-pregnancy-amniotic-fluid-embolism",
+      "cells": [
+        { "text": { "en": "PE in pregnancy", "ru": "ТЭЛА при беременности" } },
+        {
+          "text": {
+            "en": "Amniotic fluid embolism should be considered in a pregnant or post-partum woman, with unexplained haemodynamic instability or respiratory deterioration, and disseminated intravascular coagulation.",
+            "ru": "Эмболию амниотической жидкостью следует рассматривать у беременных или родильниц с необъяснимой гемодинамической нестабильностью или ухудшением дыхания и ДВС-синдромом."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r16-pregnancy-high-risk-thrombolysis-embolectomy",
+      "cells": [
+        { "text": { "en": "PE in pregnancy", "ru": "ТЭЛА при беременности" } },
+        {
+          "text": {
+            "en": "Thrombolysis or surgical embolectomy should be considered for pregnant women with high-risk PE.",
+            "ru": "Тромболизис или хирургическую эмболэктомию следует рассматривать для беременных женщин с ТЭЛА высокого риска."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" }, "tone": "yellow" }
+      ]
+    },
+    {
+      "id": "r17-pregnancy-noacs-contraindicated",
+      "cells": [
+        { "text": { "en": "PE in pregnancy", "ru": "ТЭЛА при беременности" } },
+        {
+          "text": {
+            "en": "NOACs are not recommended during pregnancy or lactation.",
+            "ru": "НОАК не рекомендуются во время беременности или лактации."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r18-postpe-routine-evaluation",
+      "cells": [
+        { "text": { "en": "Post-PE care and long-term sequelae", "ru": "Ведение после ТЭЛА и отдаленные последствия" } },
+        {
+          "text": {
+            "en": "Routine clinical evaluation is recommended 3–6 months after acute PE.",
+            "ru": "Рутинное клиническое обследование рекомендуется через 3–6 месяцев после острой ТЭЛА."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r19-postpe-integrated-care-model",
+      "cells": [
+        { "text": { "en": "Post-PE care and long-term sequelae", "ru": "Ведение после ТЭЛА и отдаленные последствия" } },
+        {
+          "text": {
+            "en": "An integrated model of care is recommended after acute PE to ensure optimal transition from hospital to ambulatory care.",
+            "ru": "Интегрированная модель ведения рекомендуется после острой ТЭЛА для обеспечения оптимального перехода от стационарной к амбулаторной помощи."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    },
+    {
+      "id": "r20-postpe-cteph-referral",
+      "cells": [
+        { "text": { "en": "Post-PE care and long-term sequelae", "ru": "Ведение после ТЭЛА и отдаленные последствия" } },
+        {
+          "text": {
+            "en": "It is recommended that symptomatic patients with mismatched perfusion defects on a V/Q scan >3 months after acute PE are referred to a pulmonary hypertension/CTEPH expert centre, taking into account the results of echocardiography, natriuretic peptide, and/or cardiopulmonary exercise testing.",
+            "ru": "Рекомендуется направлять симптомных пациентов с несоответствующими дефектами перфузии на сцинтиграфии легких (V/Q) через >3 месяцев после острой ТЭЛА в экспертный центр легочной гипертензии/ХТЛГ с учетом результатов эхокардиографии, уровня натрийуретического пептида и/или кардиопульмонального нагрузочного тестирования."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" }, "tone": "green" }
+      ]
+    }
+  ],
+  "tags": [
+    "new-recommendations",
+    "pe",
+    "diagnosis",
+    "d-dimer",
+    "spect",
+    "risk-assessment",
+    "noac",
+    "ecmo",
+    "pert",
+    "antiphospholipid",
+    "cancer",
+    "pregnancy",
+    "post-pe",
+    "cteph"
+  ]
+}

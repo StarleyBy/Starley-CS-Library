@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.t13-cardiac-tumours-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Table 13",
+  "type": "grid",
+  "title": {
+    "en": "Management strategies and surgery indications for symptomatic and asymptomatic patients with benign and malignant cardiac tumours",
+    "ru": "Тактика ведения и показания к хирургическому лечению симптомных и бессимптомных пациентов с доброкачественными и злокачественными опухолями сердца"
+  },
+  "columns": [
+    {
+      "id": "classification",
+      "title": {
+        "en": "Classification",
+        "ru": "Классификация"
+      }
+    },
+    {
+      "id": "symptoms",
+      "title": {
+        "en": "Status",
+        "ru": "Статус"
+      }
+    },
+    {
+      "id": "management",
+      "title": {
+        "en": "Management strategies",
+        "ru": "Тактика ведения"
+      }
+    },
+    {
+      "id": "surgery",
+      "title": {
+        "en": "Surgery indications",
+        "ru": "Показания к операции"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-benign-asymptomatic",
+      "cells": [
+        {
+          "text": {
+            "en": "Benign tumours",
+            "ru": "Доброкачественные опухоли"
+          }
+        },
+        {
+          "text": {
+            "en": "Asymptomatic",
+            "ru": "Бессимптомные"
+          }
+        },
+        {
+          "text": {
+            "en": "MDT discussion is required considering: tumour type, location, size, growth rate, and likelihood of embolism. Anticoagulation should be considered for left-sided tumours or right-sided tumours associated with an intracardiac shunt, according to the individual's embolic and bleeding risk",
+            "ru": "Требуется обсуждение мультидисциплинарной командой (MDT) с учетом: типа опухоли, локализации, размера, скорости роста и вероятности эмболии. Антикоагулянтную терапию следует рассмотреть при левосторонних опухолях или правосторонних опухолях, сочетающихся с внутрисердечным сбросом, согласно индивидуальному риску эмболии и кровотечений"
+          }
+        },
+        {
+          "text": {
+            "en": "If left-sided and endocardial: even if small and incidental, a MDT is needed to consider the indication for surgical removal due to the embolic risk",
+            "ru": "При левосторонней и эндокардиальной локализации: даже при небольшом размере и случайном обнаружении необходима оценка MDT для решения вопроса о хирургическом удалении из-за риска эмболий"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-benign-symptomatic",
+      "cells": [
+        {
+          "text": {
+            "en": "Benign tumours",
+            "ru": "Доброкачественные опухоли"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptomatic",
+            "ru": "Симптомные"
+          }
+        },
+        {
+          "text": {
+            "en": "Non-surgical management for:\n• Rhabdomyomas (possible spontaneous regression)\n• Intramural haemangioma (possible response to corticosteroids)\n• Unresectable cases: if antiarrhythmic therapy is sufficient",
+            "ru": "Нехирургическое ведение при:\n• Рабдомиомах (возможен спонтанный регресс)\n• Интрамуральной гемангиоме (возможен ответ на кортикостероиды)\n• Нерезектабельных случаях: если антиаритмической терапии достаточно"
+          }
+        },
+        {
+          "text": {
+            "en": "Surgical resection is indicated in all other cases. For large, benign, unresectable, symptomatic cardiac tumours (obstruction, severe HF, or malignant arrhythmias), heart transplantation may be indicated in some cases",
+            "ru": "Хирургическая резекция показана во всех остальных случаях. При крупных доброкачественных нерезектабельных симптомных опухолях сердца (обструкция, тяжелая СН или злокачественные аритмии) в отдельных случаях может быть показана трансплантация сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-malignant-asymptomatic",
+      "cells": [
+        {
+          "text": {
+            "en": "Malignant tumours",
+            "ru": "Злокачественные опухоли"
+          }
+        },
+        {
+          "text": {
+            "en": "Asymptomatic",
+            "ru": "Бессимптомные"
+          }
+        },
+        {
+          "text": {
+            "en": "Histopathological diagnosis is required",
+            "ru": "Требуется гистопатологическая верификация диагноза"
+          }
+        },
+        {
+          "text": {
+            "en": "If primary cardiac sarcoma, a complete surgical resection may increase survival",
+            "ru": "При первичной саркоме сердца полная хирургическая резекция может увеличить выживаемость"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-malignant-symptomatic",
+      "cells": [
+        {
+          "text": {
+            "en": "Malignant tumours",
+            "ru": "Злокачественные опухоли"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptomatic",
+            "ru": "Симптомные"
+          }
+        },
+        {
+          "text": {
+            "en": "Chemotherapy and/or RT are the only therapeutic options for secondary cardiac tumours. If primary cardiac lymphoma: chemotherapy",
+            "ru": "Химиотерапия и/или лучевая терапия (RT) являются единственными терапевтическими опциями при вторичных опухолях сердца. При первичной лимфоме сердца: химиотерапия"
+          }
+        },
+        {
+          "text": {
+            "en": "Secondary cardiac tumours may also be treated with palliative cardiac surgery",
+            "ru": "При вторичных опухолях сердца также может проводиться паллиативное кардиохирургическое вмешательство"
+          }
+        }
+      ]
+    }
+  ]
+}

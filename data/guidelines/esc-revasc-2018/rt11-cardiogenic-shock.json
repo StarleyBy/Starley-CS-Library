@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt11-cardiogenic-shock",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 11",
+  "title": {
+    "en": "Recommendations for the management of patients with cardiogenic shock",
+    "ru": "Рекомендации по ведению пациентов с кардиогенным шоком"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Management of cardiogenic shock",
+        "ru": "Ведение кардиогенного шока"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Emergency coronary angiography is indicated in patients with acute heart failure or cardiogenic shock complicating ACS.",
+            "ru": "Экстренная коронарография показана пациентам с острой сердечной недостаточностью или кардиогенным шоком, осложняющим ОКС."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Emergency PCI of the culprit lesion is indicated for patients with cardiogenic shock due to STEMI or NSTE-ACS, independent of time delay of symptom onset, if coronary anatomy is amenable to PCI.",
+            "ru": "Экстренное ЧКВ на инфаркт-связанном поражении показано пациентам с кардиогенным шоком вследствие ИМпST или ОКСбпST независимо от времени от начала симптомов, если коронарная анатомия пригодна для ЧКВ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Emergency CABG is recommended for patients with cardiogenic shock if the coronary anatomy is not amenable to PCI.",
+            "ru": "Экстренное КШ рекомендуется пациентам с кардиогенным шоком, если коронарная анатомия не пригодна для выполнения ЧКВ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In cases of haemodynamic instability, emergency surgical or catheter-based repair of mechanical complications of ACS is indicated, as decided by the Heart Team.",
+            "ru": "При гемодинамической нестабильности показано экстренное хирургическое или транскатетерное устранение механических осложнений ОКС по решению мультидисциплинарной команды Heart Team."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In selected patients with ACS and cardiogenic shock, short-term mechanical circulatory support may be considered, depending on patient age, comorbidities, neurological function, and the prospects for long-term survival and predicted quality of life.",
+            "ru": "У отдельных пациентов с ОКС и кардиогенным шоком может быть рассмотрена краткосрочная механическая поддержка кровообращения в зависимости от возраста, коморбидности, неврологического статуса, а также перспектив долгосрочной выживаемости и прогнозируемого качества жизни."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Routine use of IABPs in patients with cardiogenic shock due to ACS is not recommended.",
+            "ru": "Рутинное применение внутриаортальной баллонной контрпульсации (ВАБК) у пациентов с кардиогенным шоком вследствие ОКС не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

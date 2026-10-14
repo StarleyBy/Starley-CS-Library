@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.t08-atrial-vs-ventricular-smr",
+  "guidelineId": "esc-vhd-2025",
+  "number": "Figure 12 / Table 8",
+  "type": "grid",
+  "title": {
+    "en": "Criteria for the diagnosis of atrial vs. ventricular secondary mitral regurgitation (Atrial SMR vs. Ventricular SMR)",
+    "ru": "Критерии диагностики предсердной и желудочковой вторичной митральной регургитации (Atrial SMR vs. Ventricular SMR)"
+  },
+  "columns": [
+    {
+      "id": "c_atrial_smr",
+      "title": {
+        "en": "Atrial SMR (Предсердная ВМР)",
+        "ru": "Предсердная ВМР (Atrial SMR)"
+      }
+    },
+    {
+      "id": "c_category",
+      "title": {
+        "en": "Category",
+        "ru": "Категория критериев"
+      }
+    },
+    {
+      "id": "c_ventricular_smr",
+      "title": {
+        "en": "Ventricular SMR (Желудочковая ВМР)",
+        "ru": "Желудочковая ВМР (Ventricular SMR)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-key-criteria",
+      "cells": [
+        {
+          "text": {
+            "en": "• LVEF ≥50% without regional wall motion abnormalities<br>• No or mildly dilated LV cavity^[a] without leaflet tethering<br>• Mitral annulus dilatation (AP >35 mm)<br>• Enlarged LA (LAVI >34 mL/m²)",
+            "ru": "• ФВ ЛЖ ≥50% без нарушений локальной сократимости<br>• Отсутствие или легкая дилатация полости ЛЖ^[a] без натяжения (tethering) створок<br>• Дилатация митрального кольца (передне-задний размер AP >35 мм)<br>• Увеличение левого предсердия (LAVI >34 мл/м²)"
+          }
+        },
+        {
+          "text": {
+            "en": "**Key criteria**",
+            "ru": "**Ключевые критерии**"
+          }
+        },
+        {
+          "text": {
+            "en": "• LVEF <50% with or without regional wall abnormalities<br>• Restrictive leaflet motion with tethering<br>• Normal leaflet morphology<br>• Central or eccentric jet",
+            "ru": "• ФВ ЛЖ <50% с нарушениями локальной сократимости или без них<br>• Рестриктивное движение створок с натяжением (tethering)<br>• Нормальная морфология створок<br>• Центральная или эксцентрическая струя регургитации"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-additional-echo-criteria",
+      "cells": [
+        {
+          "text": {
+            "en": "• Normal leaflet motion<br>• Normal leaflet morphology<br>• Usually central jet",
+            "ru": "• Нормальная подвижность створок<br>• Нормальная морфология створок<br>• Обычно центральная струя регургитации"
+          }
+        },
+        {
+          "text": {
+            "en": "**Additional echocardiographic criteria**^[b]",
+            "ru": "**Дополнительные эхокардиографические критерии**^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "• Dilated LV<br>• Dilated LA<br>• Dilated MV annulus",
+            "ru": "• Дилатированный левый желудочек<br>• Дилатированное левое предсердие<br>• Дилатированное фиброзное кольцо МК"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-additional-clinical-criteria",
+      "cells": [
+        {
+          "text": {
+            "en": "• Atrial fibrillation<br>• HFpEF",
+            "ru": "• Фибрилляция предсердий<br>• ХСН с сохраненной фракцией выброса (СНсФВ / HFpEF)"
+          }
+        },
+        {
+          "text": {
+            "en": "**Additional clinical criteria**",
+            "ru": "**Дополнительные клинические критерии**"
+          }
+        },
+        {
+          "text": {
+            "en": "• Ischaemic heart disease<br>• Dilated cardiomyopathy",
+            "ru": "• Ишемическая болезнь сердца (ИБС)<br>• Дилатационная кардиомиопатия (ДКМП)"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "LV end-diastolic dimension of <56 mm in females and <63 mm in males; indexed LV end-diastolic volume <71 mL/m² (in women) or <79 mL/m² (in men).",
+      "ru": "КДР ЛЖ <56 мм у женщин и <63 мм у мужчин; индексированный КДО ЛЖ <71 мл/м² (у женщин) или <79 мл/м² (у мужчин)."
+    },
+    "b": {
+      "en": "Additional echocardiographic criteria for atrial SMR may no longer be fulfilled in advanced stages.",
+      "ru": "Дополнительные эхокардиографические критерии предсердной ВМР на поздних стадиях могут перестать соблюдаться."
+    }
+  },
+  "tags": [
+    "vhd",
+    "smr",
+    "atrial-smr",
+    "ventricular-smr",
+    "mitral-regurgitation",
+    "tethering",
+    "af",
+    "hfpef",
+    "dcm",
+    "cad"
+  ]
+}

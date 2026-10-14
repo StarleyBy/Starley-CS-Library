@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.rt06-anticoagulation-cancer",
+  "guidelineId": "esc-pe-2019",
+  "number": "Section 8.6",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for the regimen and duration of anticoagulation after PE in patients with active cancer",
+    "ru": "Рекомендации по режиму и длительности антикоагуляции после ТЭЛА у пациентов с активным онкологическим заболеванием"
+  },
+  "sections": [
+    {
+      "id": "s01-active-cancer-anticoagulation",
+      "title": {
+        "en": "Anticoagulation in active cancer",
+        "ru": "Антикоагулянтная терапия при активном раке"
+      },
+      "rows": [
+        {
+          "id": "r01-lmwh-first-6-months",
+          "text": {
+            "en": "For patients with PE and cancer, weight-adjusted subcutaneous LMWH should be considered for the first 6 months over VKAs.",
+            "ru": "У пациентов с ТЭЛА и онкологическим заболеванием подкожное введение НМГ с коррекцией по массе тела следует рассматривать в течение первых 6 месяцев предпочтительнее АВК."
+          },
+          "class": "IIa",
+          "level": "A",
+          "refs": [360, 361, 362]
+        },
+        {
+          "id": "r02-edoxaban-alternative-nongi",
+          "text": {
+            "en": "Edoxaban should be considered as an alternative to weight-adjusted subcutaneous LMWH in patients without gastrointestinal cancer.",
+            "ru": "Эдоксабан следует рассматривать как альтернативу подкожному НМГ у пациентов без рака желудочно-кишечного тракта."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [366]
+        },
+        {
+          "id": "r03-rivaroxaban-alternative-nongi",
+          "text": {
+            "en": "Rivaroxaban should be considered as an alternative to weight-adjusted subcutaneous LMWH in patients without gastrointestinal cancer.",
+            "ru": "Ривароксабан следует рассматривать как альтернативу подкожному НМГ у пациентов без рака желудочно-кишечного тракта."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [367]
+        },
+        {
+          "id": "r04-extended-anticoagulation-cancer",
+          "text": {
+            "en": "For patients with PE and cancer, extended anticoagulation (beyond the first 6 months) should be considered for an indefinite period or until the cancer is cured.",
+            "ru": "У пациентов с ТЭЛА и онкологическим заболеванием продленную антикоагуляцию (свыше первых 6 месяцев) следует рассматривать на неопределенный срок или до излечения от рака."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [378]
+        },
+        {
+          "id": "r05-incidental-pe-management",
+          "text": {
+            "en": "In patients with cancer, management of incidental PE in the same manner as symptomatic PE should be considered, if it involves segmental or more proximal branches, multiple subsegmental vessels, or a single subsegmental vessel in association with proven DVT.",
+            "ru": "У онкологических пациентов тактику ведения случайной (бессимптомной) находки ТЭЛА аналогично симптомной ТЭЛА следует рассматривать при поражении сегментарных или более проксимальных ветвей, множественных субсегментарных сосудов или одиночного субсегментарного сосуда в сочетании с подтвержденным ТГВ."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [374, 377]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "cancer",
+    "onco-thrombosis",
+    "pe",
+    "lmwh",
+    "edoxaban",
+    "rivaroxaban",
+    "incidental-pe",
+    "anticoagulation"
+  ]
+}

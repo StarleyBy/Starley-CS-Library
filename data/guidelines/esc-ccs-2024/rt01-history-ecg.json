@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt01-history-ecg",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 1",
+  "title": {
+    "en": "Recommendations for history taking, risk factor assessment, and resting electrocardiogram in individuals with suspected chronic coronary syndrome",
+    "ru": "Рекомендации по сбору анамнеза, оценке факторов риска и ЭКГ покоя у лиц с подозрением на хронический коронарный синдром"
+  },
+  "tags": [
+    "ccs",
+    "history",
+    "risk-factors",
+    "ecg",
+    "angina-equivalents",
+    "troponin",
+    "acs-differential"
+  ],
+  "source": {
+    "page": 28
+  },
+  "sections": [
+    {
+      "id": "sec-history-risk-factors",
+      "title": {
+        "en": "History taking and risk factor assessment",
+        "ru": "Сбор анамнеза и оценка факторов риска"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In individuals reporting symptoms of suspected myocardial ischaemic origin, a detailed assessment of cardiovascular risk factors, medical history, and symptom characteristics (including onset, duration, type, location, triggers, relieving factors, time of day) is recommended.",
+            "ru": "У лиц с симптомами предположительно ишемического генеза рекомендуется детальная оценка факторов сердечно-сосудистого риска, анамнеза жизни и характеристик симптомов (включая начало, длительность, характер, локализацию, провоцирующие и облегчающие факторы, время суток)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Symptoms like chest pain triggered by emotional stress; dyspnoea or dizziness on exertion; pain in the arms, jaw, neck, or upper back; or fatigue should be considered as potential angina equivalents.",
+            "ru": "Такие симптомы, как боль в груди, провоцируемая эмоциональным стрессом; одышка или головокружение при нагрузке; боль в руках, нижней челюсти, шее или верхней части спины; либо слабость/утомляемость следует рассматривать как потенциальные эквиваленты стенокардии."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-resting-ecg",
+      "title": {
+        "en": "Resting ECG",
+        "ru": "ЭКГ покоя"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "If clinical or ECG assessment suggests ACS rather than CCS, immediate referral to the emergency department and/or repeated measurement of blood troponin, preferably using high-sensitivity or ultrasensitive assays, to rule out acute myocardial injury, is recommended.",
+            "ru": "Если клинические данные или ЭКГ указывают на острый коронарный синдром (ОКС), а не на ХКС, рекомендуется немедленное направление в отделение неотложной помощи и/или повторное определение уровня тропонина в крови (предпочтительно с использованием высокочувствительных или ультрачувствительных тестов) для исключения острого повреждения миокарда."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "A resting 12-lead ECG is recommended in all individuals reporting chest pain (unless an obvious non-cardiac cause is identified), particularly during, or immediately after, an episode suggestive of myocardial ischaemia.",
+            "ru": "Регистрация 12-канальной ЭКГ покоя рекомендуется всем лицам с жалобами на боль в груди (если не выявлена очевидная внесердечная причина), особенно во время или сразу после эпизода, подозрительного на ишемию миокарда."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Using ST-segment deviations during supraventricular tachyarrhythmias, particularly during re-entrant atrioventricular tachycardias, per se, as reliable evidence of obstructive CAD, is not recommended.",
+            "ru": "Использование смещений сегмента ST во время суправентрикулярных тахиаритмий (особенно при реципрокных атриовентрикулярных тахикардиях) самих по себе как достоверного признака обструктивной ИБС не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

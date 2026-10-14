@@ -1,0 +1,522 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt06-revasc-type-scad",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 6",
+  "title": {
+    "en": "Recommendation for the type of revascularization in patients with stable coronary artery disease with suitable coronary anatomy for both procedures and low predicted surgical mortality",
+    "ru": "Рекомендации по выбору метода реваскуляризации у пациентов со стабильной ИБС при анатомии, подходящей для обоих вмешательств, и низком расчетном хирургическом риске"
+  },
+  "type": "grid",
+  "columns": [
+    {
+      "id": "extent",
+      "title": {
+        "en": "Recommendations according to extent of CAD",
+        "ru": "Рекомендации в зависимости от распространенности ИБС"
+      }
+    },
+    {
+      "id": "cabg_class",
+      "title": {
+        "en": "CABG Class",
+        "ru": "КШ Класс"
+      }
+    },
+    {
+      "id": "cabg_level",
+      "title": {
+        "en": "CABG Level",
+        "ru": "КШ Уровень"
+      }
+    },
+    {
+      "id": "pci_class",
+      "title": {
+        "en": "PCI Class",
+        "ru": "ЧКВ Класс"
+      }
+    },
+    {
+      "id": "pci_level",
+      "title": {
+        "en": "PCI Level",
+        "ru": "ЧКВ Уровень"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec_1vd",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "One-vessel CAD",
+            "ru": "Однососудистое поражение"
+          },
+          "colspan": 5
+        }
+      ]
+    },
+    {
+      "id": "r_1vd_no_plad",
+      "cells": [
+        {
+          "text": {
+            "en": "Without proximal LAD stenosis.",
+            "ru": "Без проксимального стеноза ПМЖВ."
+          }
+        },
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_1vd_plad",
+      "cells": [
+        {
+          "text": {
+            "en": "With proximal LAD stenosis.",
+            "ru": "С проксимальным стенозом ПМЖВ."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_2vd",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "Two-vessel CAD",
+            "ru": "Двухсосудистое поражение"
+          },
+          "colspan": 5
+        }
+      ]
+    },
+    {
+      "id": "r_2vd_no_plad",
+      "cells": [
+        {
+          "text": {
+            "en": "Without proximal LAD stenosis.",
+            "ru": "Без проксимального стеноза ПМЖВ."
+          }
+        },
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_2vd_plad",
+      "cells": [
+        {
+          "text": {
+            "en": "With proximal LAD stenosis.",
+            "ru": "С проксимальным стенозом ПМЖВ."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_lm",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "Left main CAD",
+            "ru": "Поражение ствола левой коронарной артерии"
+          },
+          "colspan": 5
+        }
+      ]
+    },
+    {
+      "id": "r_lm_low",
+      "cells": [
+        {
+          "text": {
+            "en": "Left main disease with low SYNTAX score (0–22).",
+            "ru": "Поражение ствола ЛКА с низким баллом SYNTAX (0–22)."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_lm_mid",
+      "cells": [
+        {
+          "text": {
+            "en": "Left main disease with intermediate SYNTAX score (23–32).",
+            "ru": "Поражение ствола ЛКА со средним баллом SYNTAX (23–32)."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_lm_high",
+      "cells": [
+        {
+          "text": {
+            "en": "Left main disease with high SYNTAX score (≥33) (PCI should be considered if Heart Team has concern about surgical risk or if patient refuses CABG).",
+            "ru": "Поражение ствола ЛКА с высоким баллом SYNTAX (≥33) (ЧКВ следует рассмотреть, если у Heart Team есть опасения относительно хирургического риска или пациент отказывается от КШ)."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        },
+        {
+          "text": {
+            "en": "III",
+            "ru": "III"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_3vd_nondiab",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "Three-vessel CAD without diabetes mellitus",
+            "ru": "Трехсосудистое поражение без сахарного диабета"
+          },
+          "colspan": 5
+        }
+      ]
+    },
+    {
+      "id": "r_3vd_nondiab_low",
+      "cells": [
+        {
+          "text": {
+            "en": "Three-vessel disease with low SYNTAX score (0–22).",
+            "ru": "Трехсосудистое поражение с низким баллом SYNTAX (0–22)."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_3vd_nondiab_high",
+      "cells": [
+        {
+          "text": {
+            "en": "Three-vessel disease with intermediate or high SYNTAX score (>22) (PCI should be considered if Heart Team has concern about surgical risk or if patient refuses CABG).",
+            "ru": "Трехсосудистое поражение со средним или высоким баллом SYNTAX (>22) (ЧКВ следует рассмотреть, если у Heart Team есть опасения относительно хирургического риска или пациент отказывается от КШ)."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        },
+        {
+          "text": {
+            "en": "III",
+            "ru": "III"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec_3vd_diab",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "Three-vessel CAD with diabetes mellitus",
+            "ru": "Трехсосудистое поражение с сахарным диабетом"
+          },
+          "colspan": 5
+        }
+      ]
+    },
+    {
+      "id": "r_3vd_diab_low",
+      "cells": [
+        {
+          "text": {
+            "en": "Three-vessel disease with low SYNTAX score (0–22).",
+            "ru": "Трехсосудистое поражение с низким баллом SYNTAX (0–22)."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        },
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_3vd_diab_high",
+      "cells": [
+        {
+          "text": {
+            "en": "Three-vessel disease with intermediate or high SYNTAX score (>22) (PCI should be considered if Heart Team has concern about surgical risk or if patient refuses CABG).",
+            "ru": "Трехсосудистое поражение со средним или высоким баллом SYNTAX (>22) (ЧКВ следует рассмотреть, если у Heart Team есть опасения относительно хирургического риска или пациент отказывается от КШ)."
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        },
+        {
+          "text": {
+            "en": "III",
+            "ru": "III"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        }
+      ]
+    }
+  ]
+}

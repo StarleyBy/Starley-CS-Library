@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt05-choice-cabg-vs-pci-criteria",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 5",
+  "title": {
+    "en": "Recommendations on criteria for the choice between coronary artery bypass grafting and percutaneous coronary intervention",
+    "ru": "Рекомендации по критериям выбора между коронарным шунтированием и чрескожным коронарным вмешательством"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-surgical-risk",
+      "title": {
+        "en": "Assessment of surgical risk (referring to prediction of outcomes)",
+        "ru": "Оценка хирургического риска (в отношении прогнозирования исходов)"
+      },
+      "rows": [
+        {
+          "id": "r_surg_01",
+          "text": {
+            "en": "It is recommended that the STS score is calculated to assess in-hospital or 30 day mortality, and in-hospital morbidity after CABG.",
+            "ru": "Рекомендуется рассчитывать оценку по шкале STS для прогнозирования госпитальной или 30-дневной летальности и госпитальных осложнений после КШ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_surg_02",
+          "text": {
+            "en": "Calculation of the EuroSCORE II score may be considered to assess in-hospital mortality after CABG.",
+            "ru": "Расчет шкалы EuroSCORE II может быть рассмотрен для оценки госпитальной летальности после КШ."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-cad-complexity",
+      "title": {
+        "en": "Assessment of CAD complexity",
+        "ru": "Оценка анатомической сложности поражения коронарного русла"
+      },
+      "rows": [
+        {
+          "id": "r_compl_01",
+          "text": {
+            "en": "In patients with LM or multivessel disease, it is recommended that the SYNTAX score is calculated to assess the anatomical complexity of CAD and the long-term risk of mortality and morbidity after PCI.",
+            "ru": "У пациентов с поражением ствола ЛКА или многососудистым поражением рекомендуется рассчитывать шкалу SYNTAX для оценки анатомической сложности ИБС и долгосрочного риска смертности и осложнений после ЧКВ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_compl_02",
+          "text": {
+            "en": "When considering the decision between CABG and PCI, completeness of revascularization should be prioritized.",
+            "ru": "При выборе между КШ и ЧКВ приоритет должен отдаваться достижению полноты реваскуляризации миокарда."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

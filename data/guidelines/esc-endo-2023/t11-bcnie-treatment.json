@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.t11-bcnie-treatment",
+  "guidelineId": "esc-endo-2023",
+  "number": "Table 11",
+  "type": "grid",
+  "title": {
+    "en": "Table 11 — Antibiotic treatment of blood culture-negative infective endocarditis",
+    "ru": "Таблица 11 — Антибактериальная терапия культурально-отрицательного инфекционного эндокардита (BCNIE)"
+  },
+  "tags": [
+    "endocarditis",
+    "bcnie",
+    "blood-culture-negative",
+    "brucella",
+    "coxiella",
+    "bartonella",
+    "legionella",
+    "mycoplasma",
+    "whipple"
+  ],
+  "columns": [
+    {
+      "id": "c_pathogen",
+      "title": {
+        "en": "Pathogens",
+        "ru": "Возбудители"
+      }
+    },
+    {
+      "id": "c_therapy",
+      "title": {
+        "en": "Proposed therapy",
+        "ru": "Предлагаемая схема терапии"
+      }
+    },
+    {
+      "id": "c_outcome",
+      "title": {
+        "en": "Treatment outcome",
+        "ru": "Критерии успеха лечения"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-brucella",
+      "cells": [
+        { "text": { "en": "Brucella spp.", "ru": "Brucella spp." } },
+        { "text": { "en": "Doxycycline (200 mg/24 h) plus cotrimoxazole (960 mg/12 h) plus rifampin (300–600 mg/24 h) for ≥3–6 months orally", "ru": "Доксициклин (200 мг/сут) + ко-тримоксазол (960 мг каждые 12 ч) + рифампицин (300–600 мг/сут) внутрь в течение ≥3–6 месяцев" } },
+        { "text": { "en": "Treatment success defined as an antibody titre <1:160. Some authors recommend adding gentamicin for the first 3 weeks", "ru": "Успех лечения определяется титром антител <1:160. Некоторые авторы рекомендуют добавление гентамицина в первые 3 недели" } }
+      ]
+    },
+    {
+      "id": "r02-coxiella",
+      "cells": [
+        { "text": { "en": "C. burnetii (Q fever agent)", "ru": "Coxiella burnetii (возбудитель лихорадки Ку)" } },
+        { "text": { "en": "Doxycycline (200 mg/24 h) plus hydroxychloroquine (200–600 mg/24 h) orally (>18 months of treatment)", "ru": "Доксициклин (200 мг/сут) + гидроксихлорохин (200–600 мг/сут) перорально (длительность терапии >18 месяцев)" } },
+        { "text": { "en": "Treatment success defined as anti-phase I IgG titre <1:400, and IgA and IgM titres <1:50", "ru": "Успех лечения определяется титром антител IgG к фазе I <1:400, а титры IgA и IgM <1:50" } }
+      ]
+    },
+    {
+      "id": "r03-bartonella",
+      "cells": [
+        { "text": { "en": "Bartonella spp.", "ru": "Bartonella spp." } },
+        { "text": { "en": "Doxycycline 100 mg/12 h orally for 4 weeks plus gentamicin (3 mg/24 h) i.v. for 2 weeks", "ru": "Доксициклин 100 мг каждые 12 ч перорально в течение 4 недель + гентамицин (3 мг/кг/сут) в/в в течение 2 недель" } },
+        { "text": { "en": "Treatment success expected in ≥90%", "ru": "Успех лечения ожидается у ≥90% пациентов" } }
+      ]
+    },
+    {
+      "id": "r04-legionella",
+      "cells": [
+        { "text": { "en": "Legionella spp.", "ru": "Legionella spp." } },
+        { "text": { "en": "Levofloxacin (500 mg/12 h) i.v. or orally for ≥6 weeks or clarithromycin (500 mg/12 h) i.v. for 2 weeks, then orally for 4 weeks plus rifampin (300–1200 mg/24 h)", "ru": "Левофлоксацин (500 мг каждые 12 ч) в/в или внутрь в течение ≥6 недель или кларитромицин (500 мг каждые 12 ч) в/в в течение 2 недель, затем внутрь в течение 4 недель + рифампицин (300–1200 мг/сут)" } },
+        { "text": { "en": "Optimal treatment unknown", "ru": "Оптимальный режим лечения точно не определен" } }
+      ]
+    },
+    {
+      "id": "r05-mycoplasma",
+      "cells": [
+        { "text": { "en": "Mycoplasma spp.", "ru": "Mycoplasma spp." } },
+        { "text": { "en": "Levofloxacin (500 mg/12 h) i.v. or orally for ≥6 months", "ru": "Левофлоксацин (500 мг каждые 12 ч) в/в или перорально в течение ≥6 месяцев" } },
+        { "text": { "en": "Optimal treatment unknown", "ru": "Оптимальный режим лечения точно не определен" } }
+      ]
+    },
+    {
+      "id": "r06-whipple",
+      "cells": [
+        { "text": { "en": "T. whipplei (Whipple's disease agent)", "ru": "Tropheryma whipplei (возбудитель болезни Уиппла)" } },
+        { "text": { "en": "Doxycycline (200 mg/24 h) plus hydroxychloroquine (200–600 mg/24 h) orally for ≥18 months", "ru": "Доксициклин (200 мг/сут) + гидроксихлорохин (200–600 мг/сут) перорально в течение ≥18 месяцев" } },
+        { "text": { "en": "Long-term treatment, optimal duration unknown", "ru": "Длительная терапия, оптимальная продолжительность точно не определена" } }
+      ]
+    }
+  ]
+}

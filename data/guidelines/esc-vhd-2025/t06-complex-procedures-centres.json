@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.t06-complex-procedures-centres",
+  "guidelineId": "esc-vhd-2025",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Complex procedures ideally performed in the most experienced Heart Valve Centres",
+    "ru": "Сложные вмешательства, проведение которых оптимально в наиболее опытных экспертных центрах клапанных пороков сердца"
+  },
+  "columns": [
+    {
+      "id": "c_transcatheter",
+      "title": {
+        "en": "Transcatheter interventions",
+        "ru": "Транскатетерные вмешательства"
+      }
+    },
+    {
+      "id": "c_surgical",
+      "title": {
+        "en": "Surgical interventions",
+        "ru": "Хирургические вмешательства"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-main",
+      "cells": [
+        {
+          "text": {
+            "en": "• Transfemoral TAVI in patients with high-risk features:<br>&nbsp;&nbsp;– Low coronary ostia<br>&nbsp;&nbsp;– Difficult femoral anatomy<br>&nbsp;&nbsp;– Bicuspid valve<br>&nbsp;&nbsp;– Severe calcification protruding into the LVOT<br>&nbsp;&nbsp;– Severe LV and/or RV impairment<br>&nbsp;&nbsp;– Pure AV regurgitation<br>&nbsp;&nbsp;– Multiple valve disease<br>&nbsp;&nbsp;– Complex coronary artery disease<br>&nbsp;&nbsp;– Severe extracardiac disease (e.g. renal failure, PH)<br>• Non-transfemoral TAVI<br>• Valve-in-valve (including TAV-in-TAV)<br>• All leaflet modification procedures (BASILICA, LAMPOON etc.)<br>• PVL closure procedures<br>• Complex M-TEER^[a]<br>• Redo M-TEER procedures<br>• Tricuspid or mitral valve-in-ring or valve-in-valve, valve-in-MAC<br>• TMVI<br>• All tricuspid procedures",
+            "ru": "• Трансфеморальная TAVI у пациентов с факторами высокого риска:<br>&nbsp;&nbsp;– Низкое отхождение устьев коронарных артерий<br>&nbsp;&nbsp;– Сложная анатомия бедренных артерий<br>&nbsp;&nbsp;– Двустворчатый аортальный клапан<br>&nbsp;&nbsp;– Выраженный кальциноз, выступающий в выводной тракт ЛЖ<br>&nbsp;&nbsp;– Тяжелая систолическая дисфункция ЛЖ и/или ПЖ<br>&nbsp;&nbsp;– Изолированная аортальная регургитация<br>&nbsp;&nbsp;– Сочетанные/многоклапанные пороки сердца<br>&nbsp;&nbsp;– Сложное поражение коронарного русла<br>&nbsp;&nbsp;– Тяжелая экстракардиальная патология (почечная недостаточность, ЛГ)<br>• Нетрансфеморальные доступы для TAVI<br>• Процедуры «клапан-в-клапан» (включая TAV-in-TAV)<br>• Все процедуры модификации створок (BASILICA, LAMPOON и др.)<br>• Закрытие парапротезных фистул (PVL)<br>• Сложные вмешательства M-TEER^[a]<br>• Повторные процедуры M-TEER (Redo)<br>• Вмешательства «клапан-в-опорное кольцо», «клапан-в-клапан», «клапан-в-кальцинированное кольцо» (valve-in-MAC) на трикуспидальном или митральном клапанах<br>• Транскатетерная имплантация митрального клапана (TMVI)<br>• Все транскатетерные вмешательства на трикуспидальном клапане"
+          }
+        },
+        {
+          "text": {
+            "en": "• High-risk procedures (especially in patients with LV and/or RV impairment)<br>• Redo procedures<br>• Minimally invasive and robotic valve surgery<br>• Complex MV repair:<br>&nbsp;&nbsp;– Barlow disease<br>&nbsp;&nbsp;– Anterior or bileaflet prolapse<br>&nbsp;&nbsp;– High risk of SAM<br>&nbsp;&nbsp;– Severe MAC<br>• AV repair<br>• Ross procedure<br>• Valve surgery combined with complex surgery of the aorta<br>• Endocarditis surgery",
+            "ru": "• Операции высокого хирургического риска (особенно у пациентов с дисфункцией ЛЖ и/или ПЖ)<br>• Повторные операции (Redo)<br>• Миниинвазивная и роботизированная клапанная хирургия<br>• Сложная реконструктивная пластика митрального клапана:<br>&nbsp;&nbsp;– Болезнь Барлоу<br>&nbsp;&nbsp;– Пролапс передней створки или обеих створок<br>&nbsp;&nbsp;– Высокий риск систолического движения передней створки (SAM-синдром)<br>&nbsp;&nbsp;– Выраженный кальциноз митрального кольца (MAC)<br>• Реконструкция аортального клапана (AV repair)<br>• Операция Росса (Ross procedure)<br>• Клапанные вмешательства в сочетании со сложными реконструкциями аорты<br>• Хирургическое лечение инфекционного эндокардита"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "See Supplementary Table S2.",
+      "ru": "См. Дополнительную таблицу S2 (Supplementary Table S2)."
+    }
+  },
+  "tags": [
+    "vhd",
+    "heart-valve-centre",
+    "complex-procedures",
+    "tavi",
+    "teer",
+    "ross",
+    "barlow",
+    "basilica",
+    "lampoon",
+    "pvl",
+    "tmvi"
+  ]
+}

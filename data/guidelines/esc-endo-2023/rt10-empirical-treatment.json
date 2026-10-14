@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt10-empirical-treatment",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 10",
+  "title": {
+    "en": "Recommendations for antibiotic regimens for initial empirical treatment of infective endocarditis (before pathogen identification)",
+    "ru": "Рекомендации по режимам антибактериальной терапии для начального эмпирического лечения инфекционного эндокардита (до идентификации возбудителя)"
+  },
+  "sections": [
+    {
+      "id": "empirical-treatment-regimens",
+      "title": {
+        "en": "Initial empirical antibiotic regimens",
+        "ru": "Режимы стартовой эмпирической антибактериальной терапии"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with community-acquired NVE or late PVE (≥12 months post-surgery), ampicillin in combination with ceftriaxone or with (flu)cloxacillin and gentamicin should be considered using the following doses:\n• Adult dosage: Ampicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 4 g/day i.v. or i.m. in 2 doses; (Flu)cloxacillin 12 g/day i.v. in 4–6 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.\n• Paediatric dosage: Ampicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Ceftriaxone 100 mg/kg i.v. or i.m. in 1 dose; (Flu)cloxacillin 200–300 mg/kg/day i.v. in 4–6 equally divided doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 3 equally divided doses.",
+            "ru": "У пациентов с внебольничным ИЭ нативного клапана или поздним ИЭ протезированного клапана (≥12 месяцев после операции) следует рассмотреть ампициллин в комбинации с цефтриаксоном либо с (флу)клоксациллином и гентамицином в следующих дозах:\n• Дозы у взрослых: ампициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 4 г/сут в/в или в/м в 2 введения; (флу)клоксациллин 12 г/сут в/в в 4–6 введений; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение.\n• Дозы у детей: ампициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); цефтриаксон 100 мг/кг в/в или в/м в 1 введение; (флу)клоксациллин 200–300 мг/кг/сут в/в в 4–6 равных введений; гентамицин 3 мг/кг/сут в/в или в/м в 3 равных введения."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with early PVE (<12 months post-surgery) or nosocomial and non-nosocomial healthcare-associated IE, vancomycin or daptomycin combined with gentamicin and rifampin may be considered using the following doses:\n• Adult dosage: Vancomycin 30 mg/kg/day i.v. in 2 doses; Daptomycin 10 mg/kg/day i.v. in 1 dose; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose; Rifampin 900–1200 mg i.v. or orally in 2 or 3 doses.\n• Paediatric dosage: Vancomycin 40 mg/kg/day i.v. in 2–3 equally divided doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 3 equally divided doses; Rifampin 20 mg/kg/day i.v. or orally in 3 equally divided doses up to maximum of 900 mg/day.",
+            "ru": "У пациентов с ранним ИЭ протезированного клапана (<12 месяцев после операции) либо с нозокомиальным и внебольничным ИЭ, связанным с оказанием медицинской помощи, может рассматриваться ванкомицин или даптомицин в сочетании с гентамицином и рифампицином в следующих дозах:\n• Дозы у взрослых: ванкомицин 30 мг/кг/сут в/в в 2 введения; даптомицин 10 мг/кг/сут в/в в 1 введение; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение; рифампицин 900–1200 мг в/в или внутрь в 2–3 приема.\n• Дозы у детей: ванкомицин 40 мг/кг/сут в/в в 2–3 равных приема; гентамицин 3 мг/кг/сут в/в или в/м в 3 равных введения; рифампицин 20 мг/кг/сут в/в или внутрь в 3 приема (макс. 900 мг/сут)."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients with community-acquired NVE or late PVE (≥12 months post-surgery) who are allergic to penicillin, cefazolin, or vancomycin in combination with gentamicin may be considered using the following doses:\n• Adult dosage: Cefazolin 6 g/day i.v. in 3 doses; Vancomycin 30 mg/kg/day i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.\n• Paediatric dosage: Cefazolin 100 mg/kg/d i.v. in 3–4 doses (max 6 g/day); Vancomycin 40 mg/kg/day i.v. in 2–3 equally divided doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 3 equally divided doses.",
+            "ru": "У пациентов с внебольничным ИЭ нативного клапана или поздним ИЭ протезированного клапана (≥12 месяцев после операции) при аллергии на пенициллин может быть рассмотрен цефазолин или ванкомицин в комбинации с гентамицином в следующих дозировках:\n• Дозы у взрослых: цефазолин 6 г/сут в/в в 3 введения; ванкомицин 30 мг/кг/сут в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение.\n• Дозы у детей: цефазолин 100 мг/кг/сут в/в в 3–4 введения (макс. 6 г/сут); ванкомицин 40 мг/кг/сут в/в в 2–3 равных приема; гентамицин 3 мг/кг/сут в/в или в/м в 3 равных введения."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

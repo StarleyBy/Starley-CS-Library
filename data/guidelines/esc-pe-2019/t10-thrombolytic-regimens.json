@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t10-thrombolytic-regimens",
+  "guidelineId": "esc-pe-2019",
+  "number": "Table 10",
+  "type": "grid",
+  "title": {
+    "en": "Thrombolytic regimens, doses, and contraindications",
+    "ru": "Режимы, дозы и противопоказания к тромболитической терапии"
+  },
+  "columns": [
+    {
+      "id": "c_molecule",
+      "title": {
+        "en": "Molecule",
+        "ru": "Препарат"
+      }
+    },
+    {
+      "id": "c_regimen",
+      "title": {
+        "en": "Regimen",
+        "ru": "Режим дозирования"
+      }
+    },
+    {
+      "id": "c_contraindications",
+      "title": {
+        "en": "Contraindications to fibrinolysis",
+        "ru": "Противопоказания к тромболизису"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-rtpa",
+      "cells": [
+        { "text": { "en": "rtPA (Alteplase)", "ru": "rtPA (Алтеплаза)" } },
+        {
+          "text": {
+            "en": "• 100 mg over 2 h\n• *Accelerated regimen:* 0.6 mg/kg over 15 min (maximum dose 50 mg)",
+            "ru": "• 100 мг за 2 часа\n• *Ускоренный режим:* 0,6 мг/кг за 15 мин (максимальная доза 50 мг, применяется при критической нестабильности/остановке сердца)"
+          }
+        },
+        {
+          "text": {
+            "en": "**Absolute contraindications:**\n• History of haemorrhagic stroke or stroke of unknown origin\n• Ischaemic stroke in previous 6 months\n• Central nervous system neoplasm\n• Major trauma, surgery, or head injury in previous 3 weeks\n• Bleeding diathesis\n• Active bleeding",
+            "ru": "**Абсолютные противопоказания:**\n• Геморрагический инсульт в анамнезе или инсульт неизвестного генеза\n• Ишемический инсульт в течение предшествующих 6 месяцев\n• Новообразование центральной нервной системы\n• Тяжелая травма, операция или травма головы в предшествующие 3 недели\n• Геморрагический диатез\n• Активное кровотечение"
+          },
+          "tone": "red"
+        }
+      ]
+    },
+    {
+      "id": "r02-streptokinase",
+      "cells": [
+        { "text": { "en": "Streptokinase", "ru": "Стрептокиназа" } },
+        {
+          "text": {
+            "en": "• 250 000 IU as a loading dose over 30 min, followed by 100 000 IU/h over 12–24 h\n• *Accelerated regimen:* 1.5 million IU over 2 h",
+            "ru": "• Нагрузочная доза 250 000 МЕ за 30 мин, затем 100 000 МЕ/ч в течение 12–24 ч\n• *Ускоренный режим:* 1,5 млн МЕ за 2 часа"
+          }
+        },
+        {
+          "text": {
+            "en": "**Absolute contraindications (continued):**\n(Применяются ко всем фибринолитическим препаратам)",
+            "ru": "**Абсолютные противопоказания (продолжение):**\n(Применяются ко всем фибринолитическим препаратам)"
+          },
+          "tone": "red"
+        }
+      ]
+    },
+    {
+      "id": "r03-urokinase",
+      "cells": [
+        { "text": { "en": "Urokinase", "ru": "Урокиназа" } },
+        {
+          "text": {
+            "en": "• 4400 IU/kg as a loading dose over 10 min, followed by 4400 IU/kg/h over 12–24 h\n• *Accelerated regimen:* 3 million IU over 2 h",
+            "ru": "• Нагрузочная доза 4400 МЕ/кг за 10 мин, затем 4400 МЕ/кг/ч в течение 12–24 ч\n• *Ускоренный режим:* 3 млн МЕ за 2 часа"
+          }
+        },
+        {
+          "text": {
+            "en": "**Absolute contraindications (continued):**\n(См. выше)",
+            "ru": "**Абсолютные противопоказания (продолжение):**\n(См. выше)"
+          },
+          "tone": "red"
+        }
+      ]
+    },
+    {
+      "id": "r04-relative-contraindications",
+      "cells": [
+        {
+          "text": { "en": "Relative contraindications", "ru": "Относительные противопоказания" },
+          "colspan": 2
+        },
+        {
+          "text": {
+            "en": "• Transient ischaemic attack in previous 6 months\n• Oral anticoagulation\n• Pregnancy or first post-partum week\n• Non-compressible puncture sites\n• Traumatic resuscitation\n• Refractory hypertension (systolic BP >180 mmHg)\n• Advanced liver disease\n• Infective endocarditis\n• Active peptic ulcer",
+            "ru": "• Транзиторная ишемическая атака (ТИА) в предшествующие 6 месяцев\n• Терапия пероральными антикоагулянтами\n• Беременность или первая неделя послеродового периода\n• Пункция сосудов в местах, недоступных для компрессии\n• Травматичная реанимация\n• Рефрактерная артериальная гипертензия (систолическое АД >180 мм рт. ст.)\n• Тяжелое заболевание печени\n• Инфекционный эндокардит\n• Обострение язвенной болезни желудка/ДПК"
+          },
+          "tone": "orange"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "thrombolysis",
+    "fibrinolysis",
+    "rtpa",
+    "alteplase",
+    "streptokinase",
+    "urokinase",
+    "contraindications",
+    "pe"
+  ]
+}

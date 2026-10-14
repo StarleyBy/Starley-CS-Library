@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt05-concomitant-avr-cabg-aorta",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 5",
+  "title": {
+    "en": "Recommendations on indications for concomitant aortic valve replacement at the time of coronary artery bypass grafting or ascending aorta surgery",
+    "ru": "Рекомендации по показаниям к сопутствующему протезированию аортального клапана во время коронарного шунтирования или операции на восходящей аорте"
+  },
+  "tags": [
+    "vhd",
+    "as",
+    "savr",
+    "cabg",
+    "ascending-aorta",
+    "concomitant-surgery",
+    "moderate-as",
+    "severe-as"
+  ],
+  "sections": [
+    {
+      "id": "sec-concomitant-savr",
+      "title": {
+        "en": "Concomitant SAVR at time of CABG or ascending aorta surgery",
+        "ru": "Сопутствующее протезирование АК (SAVR) при КШ или вмешательствах на восходящей аорте"
+      },
+      "rows": [
+        {
+          "id": "r01-severe-as-cabg-aorta",
+          "text": {
+            "en": "SAVR is recommended in symptomatic and asymptomatic patients with severe AS undergoing CABG or surgical intervention on the ascending aorta.",
+            "ru": "Хирургическое протезирование аортального клапана (SAVR) рекомендуется симптомным и бессимптомным пациентам с тяжелым аортальным стенозом, подвергающимся КШ или операции на восходящей аорте."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02-moderate-as-cabg-aorta",
+          "text": {
+            "en": "SAVR should be considered in symptomatic and asymptomatic patients with moderate AS^[c] undergoing CABG or surgical intervention on the ascending aorta.",
+            "ru": "Хирургическое протезирование аортального клапана (SAVR) следует рассматривать у симптомных и бессимптомных пациентов с умеренным аортальным стенозом^[c], подвергающихся КШ или операции на восходящей аорте."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Defined as an AVA of 1.0–1.5 cm² (or mean aortic gradient of 25–40 mmHg) in normal-flow conditions. Clinical assessment is essential to determine whether SAVR is appropriate for an individual patient.",
+      "ru": "Определяется как площадь отверстия (AVA) 1,0–1,5 см² (или средний градиент на АК 25–40 мм рт. ст.) при нормальном кровотоке. Клиническая оценка имеет решающее значение для определения целесообразности SAVR у конкретного пациента."
+    }
+  }
+}

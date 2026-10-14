@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt35-vte-prophylaxis",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 35",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 35 — Recommendations for venous thromboembolism prophylaxis during anticancer treatment",
+    "ru": "Таблица рекомендаций 35 — Рекомендации по профилактике венозных тромбоэмболий (ВТЭО) во время противоопухолевого лечения"
+  },
+  "tags": [
+    "cardio-oncology",
+    "vte-prophylaxis",
+    "lmwh",
+    "noac",
+    "apixaban",
+    "rivaroxaban",
+    "khorana",
+    "surgery",
+    "hospitalization"
+  ],
+  "source": {
+    "page": 76
+  },
+  "sections": [
+    {
+      "id": "sec01-vte-prophylaxis",
+      "title": {
+        "en": "Venous thromboembolism prophylaxis",
+        "ru": "Профилактика венозных тромбоэмболий (ВТЭО)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Extended prophylaxis with LMWH for 4 weeks post-operatively is recommended for patients with cancer undergoing major open or laparoscopic abdominal or pelvic surgery with low bleeding risk and high VTE risk (reduced mobility, obesity, VTE history).",
+            "ru": "Продленная тромбопрофилактика с применением НМГ в течение 4 недель после операции рекомендуется онкологическим пациентам, перенесшим обширные открытые или лапароскопические операции на брюшной полости или малом тазу, с низким риском кровотечений и высоким риском ВТЭО (гиподинамия, ожирение, анамнез ВТЭО)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Prophylactic LMWH for the primary prevention of VTE is indicated in hospitalized patients with cancer or those with prolonged bedrest or reduced mobility in the absence of bleeding or other contraindications.",
+            "ru": "Профилактические дозы НМГ для первичной профилактики ВТЭО показаны госпитализированным онкологическим пациентам или больным с длительным постельным режимом/ограничением подвижности при отсутствии кровотечений или иных противопоказаний."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "For ambulatory patients with cancer at high risk of thrombosis receiving systemic therapy (locally advanced or metastatic pancreas/lung cancer or Khorana score ≥ 2), primary thromboprophylaxis with a NOAC (apixaban or rivaroxaban) or LMWH may be considered, provided there are no significant contraindications.",
+            "ru": "Для амбулаторных пациентов с онкологическими заболеваниями высокого тромботического риска, получающих системную противоопухолевую терапию (местнораспространенный/метастатический рак поджелудочной железы или легкого либо балл по шкале Khorana ≥ 2), первичная тромбопрофилактика с помощью НОАК (апиксабан или ривароксабан) либо НМГ может быть рассмотрена при отсутствии значимых противопоказаний."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "A discussion with the patient about the relative benefits and harms, cancer prognosis, drug cost, and duration of treatment is recommended prior to prophylactic anticoagulation for the primary prevention of VTE.",
+            "ru": "Обсуждение с пациентом соотношения пользы и риска, онкологического прогноза, стоимости препаратов и продолжительности терапии рекомендуется перед назначением профилактической антикоагуляции для первичной профилактики ВТЭО."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

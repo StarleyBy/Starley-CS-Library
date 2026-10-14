@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt36-pad-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 36",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 36 — Recommendation for management of peripheral artery disease during anticancer treatment",
+    "ru": "Таблица рекомендаций 36 — Рекомендация по ведению заболеваний периферических артерий (ЗПА / PAD) во время противоопухолевого лечения"
+  },
+  "tags": [
+    "cardio-oncology",
+    "pad",
+    "peripheral-artery-disease",
+    "vegfi",
+    "nilotinib",
+    "ponatinib"
+  ],
+  "source": {
+    "page": 77
+  },
+  "sections": [
+    {
+      "id": "sec01-pad",
+      "title": {
+        "en": "Peripheral artery disease management",
+        "ru": "Ведение заболеваний периферических артерий"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients who develop new symptomatic PAD, a multidisciplinary approach regarding the decision to continue vs. interrupt culprit cancer therapy (VEGFi, nilotinib, ponatinib, platins, etc.) is recommended.",
+            "ru": "У пациентов с вновь развившимся симптоматическим заболеванием периферических артерий (ЗПА) рекомендуется мультидисциплинарный подход при решении вопроса о продолжении или прерывании причинной противоопухолевой терапии (VEGFi, нилотиниб, понатиниб, препараты платины и др.)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

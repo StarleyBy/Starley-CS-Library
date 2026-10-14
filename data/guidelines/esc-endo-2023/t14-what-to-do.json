@@ -1,0 +1,903 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.t14-what-to-do",
+  "guidelineId": "esc-endo-2023",
+  "number": "Table 14 (What to do)",
+  "type": "recommendations",
+  "title": {
+    "en": "Table 14 — 'What to do' and 'What not to do'",
+    "ru": "Таблица 14 — «Что делать» и «Чего не делать» (Ключевые рекомендации I и III классов)"
+  },
+  "tags": [
+    "endocarditis",
+    "what-to-do",
+    "what-not-to-do",
+    "summary",
+    "class-i",
+    "class-iii"
+  ],
+  "sections": [
+    {
+      "id": "sec-rt01-dental-prophylaxis",
+      "title": {
+        "en": "Recommendations for antibiotic prophylaxis in patients with cardiovascular diseases undergoing oro-dental procedures at increased risk of infective endocarditis",
+        "ru": "Рекомендации по антибиотикопрофилактике у пациентов с сердечно-сосудистыми заболеваниями при стоматологических процедурах с повышенным риском инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "General prevention measures are recommended in individuals at high and intermediate risk for IE.",
+            "ru": "Общие меры профилактики рекомендуются лицам с высоким и промежуточным риском ИЭ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with previous IE.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с предшествующим инфекционным эндокардитом в анамнезе."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with surgically implanted prosthetic valves and with any material used for surgical cardiac valve repair.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с хирургически имплантированными протезами клапанов сердца и с любыми материалами, использованными для хирургической пластики клапанов сердца."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with transcatheter implanted aortic and pulmonary valvular prostheses.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с транскатетерно имплантированными протезами аортального и легочного клапанов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with untreated cyanotic CHD, and patients treated with surgery or transcatheter procedures with post-operative palliative shunts, conduits, or other prostheses. After surgical repair, in the absence of residual defects or valve prostheses, antibiotic prophylaxis is recommended only for the first 6 months after the procedure.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с некорригированным цианотическим ВПС, а также пациентам, перенесшим хирургические или транскатетерные вмешательства с формированием послеоперационных паллиативных шунтов, кондуитов или установкой иных протезов. После хирургической коррекции в отсутствие резидуальных дефектов или клапанных протезов антибиотикопрофилактика рекомендуется только в первые 6 месяцев после вмешательства."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in patients with ventricular assist devices.",
+            "ru": "Антибиотикопрофилактика рекомендуется пациентам с устройствами вспомогательного кровообращения желудочков (VAD)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Antibiotic prophylaxis is not recommended in other patients at low risk for IE.",
+            "ru": "Антибиотикопрофилактика не рекомендуется остальным пациентам с низким риском ИЭ."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt02-prevention-high-risk",
+      "title": {
+        "en": "Recommendations for infective endocarditis prevention in high-risk patients",
+        "ru": "Рекомендации по профилактике инфекционного эндокардита у пациентов высокого риска"
+      },
+      "rows": [
+        {
+          "id": "r08",
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended in dental extractions, oral surgery procedures, and procedures requiring manipulation of the gingival or periapical region of the teeth.",
+            "ru": "Антибиотикопрофилактика рекомендуется при удалении зубов, челюстно-лицевых хирургических вмешательствах и процедурах, требующих манипуляций в области десны или периапикальной области зубов."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt03-prevention-cardiac-procedures",
+      "title": {
+        "en": "Recommendations for infective endocarditis prevention in cardiac procedures",
+        "ru": "Рекомендации по профилактике инфекционного эндокардита при кардиологических вмешательствах"
+      },
+      "rows": [
+        {
+          "id": "r09",
+          "text": {
+            "en": "Pre-operative screening for nasal carriage of S. aureus is recommended before elective cardiac surgery or transcatheter valve implantation to treat carriers.",
+            "ru": "Предоперационный скрининг на назальное носительство S. aureus рекомендуется перед плановой кардиохирургической операцией или транскатетерной имплантацией клапана для санации (деколонизации) носителей."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Peri-operative antibiotic prophylaxis is recommended before placement of a CIED.",
+            "ru": "Периоперационная антибиотикопрофилактика рекомендуется перед имплантацией CIED."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "Optimal pre-procedural aseptic measures of the site of implantation is recommended to prevent CIED infections.",
+            "ru": "Для профилактики инфекций CIED рекомендуется проведение оптимальных асептических мероприятий в области имплантации перед процедурой."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "Periprocedural antibiotic prophylaxis is recommended in patients undergoing surgical or transcatheter implantation of a prosthetic valve, intravascular prosthetic, or other foreign material.",
+            "ru": "Перипроцедурная антибиотикопрофилактика рекомендуется пациентам, которым выполняется хирургическая или транскатетерная имплантация клапанного протеза, внутрисосудистого протеза или другого инородного материала."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "Surgical standard aseptic measures are recommended during the insertion and manipulation of catheters in the catheterization laboratory environment.",
+            "ru": "При установке катетеров и манипуляциях с ними в условиях рентгенэндоваскулярной операционной рекомендуется соблюдение стандартных хирургических правил асептики."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "Systematic skin or nasal decolonization without screening for S. aureus is not recommended.",
+            "ru": "Систематическая деколонизация кожи или слизистой носа без предварительного скрининга на S. aureus не рекомендуется."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt04-endocarditis-team",
+      "title": {
+        "en": "Recommendations for the Endocarditis Team",
+        "ru": "Рекомендации по мультидисциплинарной «Команде по эндокардиту»"
+      },
+      "rows": [
+        {
+          "id": "r15",
+          "text": {
+            "en": "Diagnosis and management of patients with complicated IE are recommended to be performed at an early stage in a Heart Valve Centre, with immediate surgical facilities and an 'Endocarditis Team' to improve the outcomes.",
+            "ru": "Диагностику и лечение пациентов с осложненным ИЭ рекомендуется проводить на раннем этапе в Клапанном центре сердца с возможностью немедленного хирургического лечения и функционирующей «Командой по эндокардиту» для улучшения исходов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r16",
+          "text": {
+            "en": "For patients with uncomplicated IE managed in a Referring Centre, early and regular communication between the local and the Heart Valve Centre endocarditis teams is recommended to improve the outcomes of the patients.",
+            "ru": "У пациентов с неосложненным ИЭ, находящихся на лечении в направляющем центре, рекомендуется раннее и регулярное взаимодействие между локальной командой и «Командой по эндокардиту» Клапанного центра сердца для улучшения исходов."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt05-echocardiography",
+      "title": {
+        "en": "Recommendations for the role of echocardiography in infective endocarditis",
+        "ru": "Рекомендации по роли эхокардиографии при инфекционном эндокардите"
+      },
+      "rows": [
+        {
+          "id": "r17",
+          "text": {
+            "en": "TTE is recommended as the first-line imaging modality in suspected IE.",
+            "ru": "ТТЭхоКГ рекомендуется в качестве метода визуализации первой линии при подозрении на ИЭ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r18",
+          "text": {
+            "en": "TOE is recommended in all patients with clinical suspicion of IE and a negative or non-diagnostic TTE.",
+            "ru": "ЧПЭхоКГ рекомендуется всем пациентам с клиническим подозрением на ИЭ при отрицательных или недиагностических результатах ТТЭхоКГ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r19",
+          "text": {
+            "en": "TOE is recommended in patients with clinical suspicion of IE, when a prosthetic heart valve or an intracardiac device is present.",
+            "ru": "ЧПЭхоКГ рекомендуется пациентам с клиническим подозрением на ИЭ при наличии клапанного протеза сердца или внутрисердечного устройства."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r20",
+          "text": {
+            "en": "Repeating TTE and/or TOE within 5–7 days is recommended in cases of initially negative or inconclusive examination when clinical suspicion of IE remains high.",
+            "ru": "Повторение ТТЭхоКГ и/или ЧПЭхоКГ через 5–7 дней рекомендуется при первоначально отрицательном или сомнительном результате исследования, если клиническое подозрение на ИЭ остается высоким."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r21",
+          "text": {
+            "en": "TOE is recommended in patients with suspected IE, even in cases with positive TTE, except in isolated right-sided native valve IE with good quality TTE examination and unequivocal echocardiographic findings.",
+            "ru": "ЧПЭхоКГ рекомендуется пациентам с подозрением на ИЭ, даже при положительной ТТЭхоКГ, за исключением изолированного правостороннего ИЭ нативного клапана при высоком качестве ТТЭхоКГ и однозначных эхокардиографических находках."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r22",
+          "text": {
+            "en": "Repeating TTE and/or TOE is recommended as soon as a new complication of IE is suspected (new murmur, embolism, persisting fever and bacteraemia, HF, abscess, AVB).",
+            "ru": "Повторная ТТЭхоКГ и/или ЧПЭхоКГ рекомендуется сразу же при подозрении на новое осложнение ИЭ (новый шум, эмболия, сохраняющаяся лихорадка и бактериемия, сердечная недостаточность, абсцесс, АВ-блокада)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r23",
+          "text": {
+            "en": "TOE is recommended when patient is stable before switching from intravenous to oral antibiotic therapy.",
+            "ru": "ЧПЭхоКГ рекомендуется у стабильного пациента перед переводом с внутривенной на пероральную антибиотикотерапию."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r24",
+          "text": {
+            "en": "Intra-operative echocardiography is recommended in all cases of IE requiring surgery.",
+            "ru": "Интраоперационная эхокардиография рекомендуется во всех случаях ИЭ, требующих хирургического вмешательства."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r25",
+          "text": {
+            "en": "TTE and/or TOE are recommended at completion of antibiotic therapy for evaluation of cardiac and valve morphology and function in patients with IE who did not undergo heart valve surgery.",
+            "ru": "ТТЭхоКГ и/или ЧПЭхоКГ рекомендуются по завершении курса антибиотикотерапии для оценки морфологии и функции сердца и клапанов у пациентов с ИЭ, которым не выполнялось хирургическое лечение клапанов."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt06-ct-nuclear-mri",
+      "title": {
+        "en": "Recommendations for the role of computed tomography, nuclear imaging, and magnetic resonance in infective endocarditis",
+        "ru": "Рекомендации по роли компьютерной томографии, радионуклидной визуализации и магнитно-резонансной томографии при инфекционном эндокардите"
+      },
+      "rows": [
+        {
+          "id": "r26",
+          "text": {
+            "en": "Cardiac CTA is recommended in patients with possible NVE to detect valvular lesions and confirm the diagnosis of IE.",
+            "ru": "КТ-ангиография сердца рекомендуется пациентам с возможным ИЭ нативного клапана для выявления клапанных поражений и подтверждения диагноза ИЭ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r27",
+          "text": {
+            "en": "[18F]FDG-PET/CT(A) and cardiac CTA are recommended in possible PVE to detect valvular lesions and confirm the diagnosis of IE.",
+            "ru": "[18F]ФДГ-ПЭТ/КТ(А) и КТ-ангиография сердца рекомендуются при возможном ИЭ протезированного клапана для выявления клапанных поражений и подтверждения диагноза ИЭ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r28",
+          "text": {
+            "en": "Cardiac CTA is recommended in NVE and PVE to diagnose paravalvular or periprosthetic complications if echocardiography is inconclusive.",
+            "ru": "КТ-ангиография сердца рекомендуется при ИЭ нативного и протезированного клапанов для диагностики параклапанных или перипротезных осложнений, если данные эхокардиографии неубедительны."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r29",
+          "text": {
+            "en": "Brain and whole-body imaging (CT, [18F]FDG-PET/CT, and/or MRI) are recommended in symptomatic patients (symptoms suggesting septic embolic complications) with NVE and PVE to detect peripheral lesions or add minor diagnostic criteria.",
+            "ru": "Визуализация головного мозга и всего тела (КТ, [18F]ФДГ-ПЭТ/КТ и/или МРТ) рекомендуется симптомным пациентам (с симптомами, указывающими на септические эмболические осложнения) с ИЭ нативного и протезированного клапанов для выявления периферических поражений или добавления малых диагностических критериев."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt07-oral-streptococci",
+      "title": {
+        "en": "Recommendations for antibiotic treatment of infective endocarditis due to oral streptococci and Streptococcus gallolyticus group",
+        "ru": "Рекомендации по антибактериальной терапии инфекционного эндокардита, вызванного оральными стрептококками и группой Streptococcus gallolyticus"
+      },
+      "rows": [
+        {
+          "id": "r30",
+          "text": {
+            "en": "In patients with IE due to oral streptococci and S. gallolyticus group, penicillin G, amoxicillin, or ceftriaxone are recommended for 4 (in NVE) or 6 weeks (in PVE), using the following doses:\n• Adult dosage: Penicillin G 12–18 million U/day i.v. in 4–6 doses or continuously; Amoxicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 2 g/day i.v. in 1 dose.\n• Paediatric dosage: Penicillin G 200 000 U/kg/day i.v. in 4–6 divided doses; Amoxicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Ceftriaxone 100 mg/kg/day i.v. in 1 dose.",
+            "ru": "У пациентов с ИЭ, вызванным оральными стрептококками и группой S. gallolyticus, пенициллин G, амоксициллин или цефтриаксон рекомендуются в течение 4 (при ИЭ нативного клапана) или 6 недель (при ИЭ протезированного клапана) в следующих дозировках:\n• Дозы у взрослых: пенициллин G 12–18 млн ЕД/сут в/в в 4–6 введений или непрерывно; амоксициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 2 г/сут в/в в 1 введение.\n• Дозы у детей: пенициллин G 200 000 ЕД/кг/сут в/в в 4–6 введений; амоксициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); цефтриаксон 100 мг/кг/сут в/в в 1 введение."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r31",
+          "text": {
+            "en": "2-week treatment with penicillin G, amoxicillin, ceftriaxone combined with gentamicin is recommended only for the treatment of non-complicated NVE due to oral streptococci and S. gallolyticus in patients with normal renal function using the following doses:\n• Adult dosage: Penicillin G 12–18 million U/day i.v. in 4–6 doses or continuously; Amoxicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 2 g/day i.v. in 1 dose; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.\n• Paediatric dosage: Penicillin G 200 000 U/kg/day i.v. in 4–6 divided doses; Amoxicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Ceftriaxone 100 mg/kg i.v. in 1 dose; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose or 3 equally divided doses.",
+            "ru": "2-недельный курс лечения пенициллином G, амоксициллином или цефтриаксоном в комбинации с гентамицином рекомендуется только для терапии неосложненного ИЭ нативного клапана, вызванного оральными стрептококками и S. gallolyticus, у пациентов с нормальной функцией почек в следующих дозировках:\n• Дозы у взрослых: пенициллин G 12–18 млн ЕД/сут в/в в 4–6 введений или непрерывно; амоксициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 2 г/сут в/в в 1 введение; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение.\n• Дозы у детей: пенициллин G 200 000 ЕД/кг/сут в/в в 4–6 введений; амоксициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); цефтриаксон 100 мг/кг в/в в 1 введение; гентамицин 3 мг/кг/сут в/в или в/м в 1 или 3 равных введения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r32",
+          "text": {
+            "en": "In patients allergic to beta-lactams and with IE due to oral streptococci and S. gallolyticus, vancomycin for 4 weeks in NVE or for 6 weeks in PVE is recommended using the following doses:\n• Adult dosage: Vancomycin 30 mg/kg/day i.v. in 2 doses.\n• Paediatric dosage: Vancomycin 30 mg/kg/day i.v. in 2 or 3 equally divided doses.",
+            "ru": "У пациентов с аллергией на бета-лактамы при ИЭ, вызванном оральными стрептококками и S. gallolyticus, рекомендуется ванкомицин в течение 4 недель при ИЭ нативного клапана или 6 недель при ИЭ протезированного клапана в следующих дозировках:\n• Дозы у взрослых: ванкомицин 30 мг/кг/сут в/в в 2 введения.\n• Дозы у детей: ванкомицин 30 мг/кг/сут в/в в 2 или 3 равных введения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r33",
+          "text": {
+            "en": "In patients with NVE due to oral streptococci and S. gallolyticus, penicillin G, amoxicillin, or ceftriaxone for 4 weeks in combination with gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Penicillin G 24 million U/day i.v. in 4–6 doses or continuously; Amoxicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 2 g/day i.v. in 1 dose; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.",
+            "ru": "У пациентов с ИЭ нативного клапана, вызванным оральными стрептококками и S. gallolyticus, рекомендуется пенициллин G, амоксициллин или цефтриаксон в течение 4 недель в комбинации с гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: пенициллин G 24 млн ЕД/сут в/в в 4–6 введений или непрерывно; амоксициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 2 г/сут в/в в 1 введение; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r34",
+          "text": {
+            "en": "In patients with PVE due to oral streptococci and S. gallolyticus, penicillin G, amoxicillin, or ceftriaxone for 6 weeks combined with gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Penicillin G 24 million U/day i.v. in 4–6 doses or continuously; Amoxicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 2 g/day i.v. in 1 dose; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.",
+            "ru": "У пациентов с ИЭ протезированного клапана, вызванным оральными стрептококками и S. gallolyticus, рекомендуется пенициллин G, амоксициллин или цефтриаксон в течение 6 недель в комбинации с гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: пенициллин G 24 млн ЕД/сут в/в в 4–6 введений или непрерывно; амоксициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 2 г/сут в/в в 1 введение; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r35",
+          "text": {
+            "en": "In patients with NVE due to oral streptococci and S. gallolyticus and who are allergic to beta-lactams, vancomycin for 4 weeks is recommended using the following doses:\n• Adult dosage: Vancomycin 30 mg/kg/day i.v. in 2 doses.\n• Paediatric dosage: Vancomycin 30 mg/kg/day i.v. in 2 doses.",
+            "ru": "У пациентов с ИЭ нативного клапана, вызванным оральными стрептококками и S. gallolyticus, при аллергии на бета-лактамы рекомендуется ванкомицин в течение 4 недель в следующих дозах:\n• Дозы у взрослых: ванкомицин 30 мг/кг/сут в/в в 2 введения.\n• Дозы у детей: ванкомицин 30 мг/кг/сут в/в в 2 введения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r36",
+          "text": {
+            "en": "In patients with PVE due to oral streptococci and S. gallolyticus and who are allergic to beta-lactams, vancomycin for 6 weeks combined with gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Vancomycin 30 mg/kg/day i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.\n• Paediatric dosage: Vancomycin 30 mg/kg/day i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.",
+            "ru": "У пациентов с ИЭ протезированного клапана, вызванным оральными стрептококками и S. gallolyticus, при аллергии на бета-лактамы рекомендуется ванкомицин в течение 6 недель в сочетании с гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: ванкомицин 30 мг/кг/сут в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение.\n• Дозы у детей: ванкомицин 30 мг/кг/сут в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt08-staphylococcus",
+      "title": {
+        "en": "Recommendations for antibiotic treatment of infective endocarditis due to Staphylococcus spp.",
+        "ru": "Рекомендации по антибактериальной терапии инфекционного эндокардита, вызванного Staphylococcus spp."
+      },
+      "rows": [
+        {
+          "id": "r37",
+          "text": {
+            "en": "In patients with NVE due to methicillin-susceptible staphylococci, (flu)cloxacillin or cefazolin is recommended for 4–6 weeks using the following doses:\n• Adult dosage: (Flu)cloxacillin 12 g/day i.v. in 4–6 doses; Cefazolin 6 g/day i.v. in 3 doses.\n• Paediatric dosage: (Flu)cloxacillin 200–300 mg/kg/day i.v. in 4–6 equally divided doses; Cefazolin 100 mg/kg/day i.v. in 3–4 doses (max 6 g/day).",
+            "ru": "У пациентов с ИЭ нативного клапана, вызванным метициллин-чувствительными стафилококками, (флу)клоксациллин или цефазолин рекомендуются в течение 4–6 недель в следующих дозировках:\n• Дозы у взрослых: (флу)клоксациллин 12 г/сут в/в в 4–6 введений; цефазолин 6 г/сут в/в в 3 введения.\n• Дозы у детей: (флу)клоксациллин 200–300 мг/кг/сут в/в в 4–6 равных введений; цефазолин 100 мг/кг/сут в/в в 3–4 введения (макс. 6 г/сут)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r38",
+          "text": {
+            "en": "In patients with PVE due to methicillin-susceptible staphylococci, (flu)cloxacillin or cefazolin with rifampin for at least 6 weeks and gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: (Flu)cloxacillin 12 g/day i.v. in 4–6 doses; Cefazolin 6 g/day i.v. in 3 doses; Rifampin 900 mg/day i.v. or orally in 3 equally divided doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 (preferred) or 2 doses.\n• Paediatric dosage: (Flu)cloxacillin 200–300 mg/kg/day i.v. in 4–6 equally divided doses; Cefazolin 100 mg/kg/day i.v. in 3–4 doses (max 6 g/day); Rifampin 20 mg/kg/day i.v. or orally in 3 equally divided doses (max 900 mg/day); Gentamicin 3 mg/kg/day i.v. or i.m. in 1 (preferred) or 2 doses.",
+            "ru": "У пациентов с ИЭ протезированного клапана, вызванным метициллин-чувствительными стафилококками, рекомендуется (флу)клоксациллин или цефазолин с рифампицином в течение не менее 6 недель и гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: (флу)клоксациллин 12 г/сут в/в в 4–6 введений; цефазолин 6 г/сут в/в в 3 введения; рифампицин 900 мг/сут в/в или перорально в 3 равных приема; гентамицин 3 мг/кг/сут в/в или в/м в 1 (предпочтительно) или 2 введения.\n• Дозы у детей: (флу)клоксациллин 200–300 мг/кг/сут в/в в 4–6 равных доз; цефазолин 100 мг/кг/сут в/в в 3–4 введения (макс. 6 г/сут); рифампицин 20 мг/кг/сут в/в или перорально в 3 приема (макс. 900 мг/сут); гентамицин 3 мг/кг/сут в/в или в/м в 1 (предпочтительно) или 2 введения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r39",
+          "text": {
+            "en": "In patients with NVE due to methicillin-susceptible staphylococci who are allergic to penicillin, cefazolin for 4–6 weeks is recommended using the following doses:\n• Adult dosage: Cefazolin 6 g/day i.v. in 3 doses.\n• Paediatric dosage: Cefazolin 100 mg/kg/day i.v. in 3–4 doses (max 6 g/day).",
+            "ru": "У пациентов с ИЭ нативного клапана, вызванным метициллин-чувствительными стафилококками, при аллергии на пенициллин рекомендуется цефазолин в течение 4–6 недель в следующих дозах:\n• Дозы у взрослых: цефазолин 6 г/сут в/в в 3 введения.\n• Дозы у детей: цефазолин 100 мг/кг/сут в/в в 3–4 введения (макс. 6 г/сут)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r40",
+          "text": {
+            "en": "In patients with PVE due to methicillin-susceptible staphylococci who are allergic to penicillin, cefazolin combined with rifampin for at least 6 weeks and gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Cefazolin 6 g/day i.v. in 3 doses; Rifampin 900 mg/day i.v. or orally in 3 equally divided doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 (preferred) or 2 doses.\n• Paediatric dosage: Cefazolin 100 mg/kg/day i.v. in 3–4 doses (max 6 g/day); Rifampin 20 mg/kg/day i.v. or orally in 3 equally divided doses (max 900 mg/day); Gentamicin 3 mg/kg/day i.v. or i.m. in 1 (preferred) or 2 doses.",
+            "ru": "У пациентов с ИЭ протезированного клапана, вызванным метициллин-чувствительными стафилококками, при аллергии на пенициллин рекомендуется цефазолин в сочетании с рифампицином не менее 6 недель и гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: цефазолин 6 г/сут в/в в 3 введения; рифампицин 900 мг/сут в/в или перорально в 3 приема; гентамицин 3 мг/кг/сут в/в или в/м в 1 (предпочтительно) или 2 введения.\n• Дозы у детей: цефазолин 100 мг/кг/сут в/в в 3–4 введения (макс. 6 г/сут); рифампицин 20 мг/кг/сут в/в или внутрь в 3 приема (макс. 900 мг/сут); гентамицин 3 мг/кг/сут в/в или в/м в 1 (предпочтительно) или 2 введения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r41",
+          "text": {
+            "en": "In patients with NVE due to methicillin-resistant staphylococci, vancomycin is recommended for 4–6 weeks using the following doses:\n• Adult dosage: Vancomycin 30–60 mg/kg/day i.v. in 2–3 doses.\n• Paediatric dosage: Vancomycin 30 mg/kg/day i.v. in 2–3 equally divided doses.",
+            "ru": "У пациентов с ИЭ нативного клапана, вызванным метициллин-резистентными стафилококками, ванкомицин рекомендуется в течение 4–6 недель в следующих дозировках:\n• Дозы у взрослых: ванкомицин 30–60 мг/кг/сут в/в в 2–3 введения.\n• Дозы у детей: ванкомицин 30 мг/кг/сут в/в в 2–3 равных введения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r42",
+          "text": {
+            "en": "In patients with PVE due to methicillin-resistant staphylococci, vancomycin with rifampin for at least 6 weeks and gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Vancomycin 30–60 mg/kg/day i.v. in 2–3 doses; Rifampin 900–1200 mg/day i.v. or orally in 2 or 3 divided doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 (preferred) or 2 doses.\n• Paediatric dosage: Vancomycin 30 mg/kg/day i.v. in 2–3 equally divided doses; Rifampin 20 mg/kg/day i.v. or orally in 3 equally divided doses up to maximum of 900 mg/day; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 (preferred) or 2 doses.",
+            "ru": "У пациентов с ИЭ протезированного клапана, вызванным метициллин-резистентными стафилококками, рекомендуется ванкомицин с рифампицином в течение не менее 6 недель и гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: ванкомицин 30–60 мг/кг/сут в/в в 2–3 введения; рифампицин 900–1200 мг/сут в/в или внутрь в 2–3 приема; гентамицин 3 мг/кг/сут в/в или в/м в 1 (предпочтительно) или 2 введения.\n• Дозы у детей: ванкомицин 30 мг/кг/сут в/в в 2–3 равных приема; рифампицин 20 мг/кг/сут в/в или внутрь в 3 приема (макс. 900 мг/сут); гентамицин 3 мг/кг/сут в/в или в/м в 1 (предпочтительно) или 2 введения."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt09-enterococcus",
+      "title": {
+        "en": "Recommendations for antibiotic treatment of infective endocarditis due to Enterococcus spp.",
+        "ru": "Рекомендации по антибактериальной терапии инфекционного эндокардита, вызванного Enterococcus spp."
+      },
+      "rows": [
+        {
+          "id": "r43",
+          "text": {
+            "en": "In patients with NVE due to non-HLAR Enterococcus spp., the combination of ampicillin or amoxicillin with ceftriaxone for 6 weeks or with gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Amoxicillin 12 g/day i.v. in 4–6 doses; Ampicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 4 g/day i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.\n• Paediatric dosage: Amoxicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Ampicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Ceftriaxone 100 mg/kg i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 3 equally divided doses.",
+            "ru": "У пациентов с ИЭ нативного клапана, вызванным энтерококками без HLAR (высокого уровня устойчивости к аминогликозидам), рекомендуется комбинация ампициллина или амоксициллина с цефтриаксоном в течение 6 недель либо с гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: амоксициллин 12 г/сут в/в в 4–6 введений; ампициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 4 г/сут в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение.\n• Дозы у детей: амоксициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); ампициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); цефтриаксон 100 мг/кг в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 3 равных введения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r44",
+          "text": {
+            "en": "In patients with PVE and patients with complicated NVE or >3 months of symptoms due to non-HLAR Enterococcus spp., the combination of ampicillin or amoxicillin with ceftriaxone for 6 weeks or with gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Amoxicillin 12 g/day i.v. in 4–6 doses; Ampicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 4 g/day i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.\n• Paediatric dosage: Ampicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Amoxicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Ceftriaxone 100 mg/kg/day i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 3 equally divided doses.",
+            "ru": "У пациентов с ИЭ протезированного клапана, а также при осложненном ИЭ нативного клапана или длительности симптомов >3 месяцев, вызванных энтерококками без HLAR, рекомендуется комбинация ампициллина или амоксициллина с цефтриаксоном в течение 6 недель либо с гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: амоксициллин 12 г/сут в/в в 4–6 введений; ампициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 4 г/сут в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение.\n• Дозы у детей: ампициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); амоксициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); цефтриаксон 100 мг/кг/сут в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 3 равных введения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r45",
+          "text": {
+            "en": "In patients with NVE or PVE due to HLAR Enterococcus spp., the combination of ampicillin or amoxicillin and ceftriaxone for 6 weeks is recommended using the following doses:\n• Adult dosage: Ampicillin 12 g/day i.v. in 4–6 doses; Amoxicillin 12 g/day i.v. in 4–6 doses; Ceftriaxone 4 g/day i.v. or i.m. in 2 doses.\n• Paediatric dosage: Ampicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Amoxicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Ceftriaxone 100 mg/kg i.v. or i.m. in 2 doses.",
+            "ru": "У пациентов с ИЭ нативного или протезированного клапана, вызванным энтерококками с HLAR, рекомендуется комбинация ампициллина или амоксициллина и цефтриаксона в течение 6 недель в следующих дозировках:\n• Дозы у взрослых: ампициллин 12 г/сут в/в в 4–6 введений; амоксициллин 12 г/сут в/в в 4–6 введений; цефтриаксон 4 г/сут в/в или в/м в 2 введения.\n• Дозы у детей: ампициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); амоксициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); цефтриаксон 100 мг/кг в/в или в/м в 2 введения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r46",
+          "text": {
+            "en": "In patients with IE due to beta-lactam resistant Enterococcus spp. (E. faecium), vancomycin for 6 weeks combined with gentamicin for 2 weeks is recommended using the following doses:\n• Adult dosage: Vancomycin 30 mg/kg/day i.v. in 2 doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.\n• Paediatric dosage: Vancomycin 30 mg/kg/day i.v. in 2–3 equally divided doses; Gentamicin 3 mg/kg/day i.v. or i.m. in 1 dose.",
+            "ru": "У пациентов с ИЭ, вызванным устойчивыми к бета-лактамам энтерококками (E. faecium), рекомендуется ванкомицин в течение 6 недель в сочетании с гентамицином в течение 2 недель в следующих дозах:\n• Дозы у взрослых: ванкомицин 30 мг/кг/сут в/в в 2 введения; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение.\n• Дозы у детей: ванкомицин 30 мг/кг/сут в/в в 2–3 равных приема; гентамицин 3 мг/кг/сут в/в или в/м в 1 введение."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r47",
+          "text": {
+            "en": "In patients with IE due to vancomycin-resistant Enterococcus spp., daptomycin combined with beta-lactams (ampicillin, ertapenem, or ceftaroline) or fosfomycin is recommended using the following doses:\n• Adult dosage: Daptomycin 10–12 mg/kg/day i.v. in 1 dose; Ampicillin 12 g/day i.v. in 4–6 doses; Fosfomycin 12 g/day i.v. in 4 doses; Ceftaroline 1800 mg/day i.v. in 3 doses; Ertapenem 2 g/day i.v. or i.m. in 1 dose.\n• Paediatric dosage: Daptomycin 10–12 mg/kg/day i.v. in 1 dose (age-adjusted); Ampicillin 200–300 mg/kg/day i.v. in 4–6 doses (max 12 g/day); Fosfomycin 2–3 g/day i.v. in 1 dose; Ceftaroline 24–36 mg/kg/day in 3 doses; Ertapenem 1 g/day i.v. or i.m. in 1 dose (if <12 years, 15 mg/kg/dose [max 500 mg] twice daily).",
+            "ru": "У пациентов с ИЭ, вызванным ванкомицин-резистентными энтерококками, рекомендуется даптомицин в комбинации с бета-лактамами (ампициллин, эртапенем или цефтаролин) или фосфомицином в следующих дозировках:\n• Дозы у взрослых: даптомицин 10–12 мг/кг/сут в/в в 1 введение; ампициллин 12 г/сут в/в в 4–6 введений; фосфомицин 12 г/сут в/в в 4 введения; цефтаролин 1800 мг/сут в/в в 3 введения; эртапенем 2 г/сут в/в или в/м в 1 введение.\n• Дозы у детей: даптомицин 10–12 мг/кг/сут в/в в 1 прием (с коррекцией по возрасту); ампициллин 200–300 мг/кг/сут в/в в 4–6 введений (макс. 12 г/сут); фосфомицин 2–3 г/сут в/в в 1 введение; цефтаролин 24–36 мг/кг/сут в 3 приема; эртапенем 1 г/сут в/в или в/м в 1 введение (если младше 12 лет: 15 мг/кг на дозу [макс. 500 мг] дважды в сутки)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt11-outpatient-antibiotic-treatment",
+      "title": {
+        "en": "Recommendations for outpatient antibiotic treatment of infective endocarditis",
+        "ru": "Рекомендации по амбулаторной антибактериальной терапии инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r48",
+          "text": {
+            "en": "Outpatient parenteral antibiotic treatment is not recommended in patients with IE caused by highly difficult-to-treat microorganisms (microorganisms requiring i.v. antibiotic combinations that cannot be administered by means of outpatient parenteral antibiotic treatment or that require strict monitoring of drug levels either in blood or in other fluids owing to their potential toxicity or narrow therapeutic index, e.g. MRSA or vancomycin-resistant enterococci also resistant to alternative drugs such as daptomycin and linezolid, multidrug- or extensively drug-resistant Gram-negative rods, highly penicillin-resistant oral streptococci, fungi other than Candida), liver cirrhosis (Child–Pugh B or C), severe cerebral nervous system emboli, untreated large extracardiac abscesses, heart valve complications, or other severe conditions requiring surgery, severe post-surgical complications, and PWID-related IE.",
+            "ru": "Амбулаторная парентеральная антибиотикотерапия не рекомендуется при ИЭ, вызванном трудноизлечимыми микроорганизмами (требующими комбинаций в/в антибиотиков, не применимых амбулаторно, либо требующими строгого мониторинга концентрации из-за токсичности или узкого терапевтического окна: MRSA или VRE, устойчивые к даптомицину и линезолиду, полирезистентные грамотрицательные палочки, высокорезистентные к пенициллину стрептококки, микозы кроме Candida), при циррозе печени (Child–Pugh B или C), тяжелых эмболиях в ЦНС, недренированных крупных экстракардиальных абсцессах, клапанных осложнениях или других тяжелых состояниях, требующих операции, тяжелых послеоперационных осложнениях, а также при ИЭ у лиц, употребляющих инъекционные наркотики."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt12-surgical-indications",
+      "title": {
+        "en": "Recommendations for the main indications of surgery in infective endocarditis (native valve endocarditis and prosthetic valve endocarditis)",
+        "ru": "Рекомендации по основным показаниям к хирургическому лечению инфекционного эндокардита (эндокардит нативного и протезированного клапанов)"
+      },
+      "rows": [
+        {
+          "id": "r49",
+          "text": {
+            "en": "Emergency (within 24 h) surgery is recommended in aortic or mitral NVE or PVE with severe acute regurgitation, obstruction, or fistula causing refractory pulmonary oedema or cardiogenic shock.",
+            "ru": "Экстренное (в течение 24 ч) хирургическое вмешательство рекомендуется при ИЭ нативного или протезированного аортального либо митрального клапана с тяжелой острой регургитацией, обструкцией или фистулой, вызывающими рефрактерный отек легких или кардиогенный шок."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r50",
+          "text": {
+            "en": "Urgent (within 3–5 days) surgery is recommended in aortic or mitral NVE or PVE with severe acute regurgitation or obstruction causing symptoms of HF or echocardiographic signs of poor haemodynamic tolerance.",
+            "ru": "Неотложное (в течение 3–5 дней) хирургическое вмешательство рекомендуется при ИЭ нативного или протезированного аортального либо митрального клапана с тяжелой острой регургитацией или обструкцией, вызывающими симптомы СН или эхокардиографические признаки плохой гемодинамической переносимости."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r51",
+          "text": {
+            "en": "Urgent (within 3–5 days) surgery is recommended in locally uncontrolled infection (abscess, false aneurysm, fistula, enlarging vegetation, prosthetic dehiscence, new AVB).",
+            "ru": "Неотложное (в течение 3–5 дней) хирургическое вмешательство рекомендуется при локально неконтролируемой инфекции (абсцесс, ложная аневризма, фистула, увеличивающаяся вегетация, дегисценция протеза, вновь возникшая АВ-блокада)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r52",
+          "text": {
+            "en": "Urgent (within 3–5 days) or non-urgent (within same hospital admission) surgery is recommended in IE caused by fungi or multiresistant organisms according to the haemodynamic condition of the patient.",
+            "ru": "Неотложное (в течение 3–5 дней) или плановое (в пределах текущей госпитализации) хирургическое вмешательство рекомендуется при ИЭ, вызванном грибами или полирезистентными микроорганизмами, в зависимости от гемодинамического статуса пациента."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r53",
+          "text": {
+            "en": "Urgent (within 3–5 days) surgery is recommended in aortic or mitral NVE or PVE with persistent vegetations ≥10 mm after one or more embolic episodes despite appropriate antibiotic therapy.",
+            "ru": "Неотложное (в течение 3–5 дней) хирургическое вмешательство рекомендуется при ИЭ нативного или протезированного аортального либо митрального клапана с персистирующими вегетациями ≥10 мм после одного или более эмболических эпизодов, несмотря на адекватную антибиотикотерапию."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r54",
+          "text": {
+            "en": "Urgent (within 3–5 days) surgery is recommended in IE with vegetation ≥10 mm and other indications for surgery.",
+            "ru": "Неотложное (в течение 3–5 дней) хирургическое вмешательство рекомендуется при ИЭ с вегетациями ≥10 мм при наличии других показаний к операции."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt13-neurological-complications",
+      "title": {
+        "en": "Recommendations for the treatment of neurological complications of infective endocarditis",
+        "ru": "Рекомендации по лечению неврологических осложнений инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r55",
+          "text": {
+            "en": "Brain CT or MRA is recommended in patients with IE and suspected infective cerebral aneurysms.",
+            "ru": "КТ или МР-ангиография головного мозга рекомендуется пациентам с ИЭ при подозрении на инфекционные церебральные аневризмы."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r56",
+          "text": {
+            "en": "Neurosurgery or endovascular therapy is recommended for large aneurysms, those with continuous growth despite optimal antibiotic therapy, and ruptured intracranial infective cerebral aneurysms.",
+            "ru": "Нейрохирургическое или эндоваскулярное вмешательство рекомендуется при крупных аневризмах, аневризмах с непрерывным ростом, несмотря на оптимальную антибиотикотерапию, а также при разорвавшихся внутричерепных инфекционных аневризмах."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r57",
+          "text": {
+            "en": "Thrombolytic therapy is not recommended in embolic stroke due to IE.",
+            "ru": "Тромболитическая терапия не рекомендуется при эмболическом инсульте вследствие ИЭ."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt15-musculoskeletal-manifestations",
+      "title": {
+        "en": "Recommendations for patients with musculoskeletal manifestations of infective endocarditis",
+        "ru": "Рекомендации для пациентов с мышечно-скелетными проявлениями инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r58",
+          "text": {
+            "en": "MRI or PET/CT is recommended in patients with suspected spondylodiscitis and vertebral osteomyelitis complicating IE.",
+            "ru": "МРТ или ПЭТ/КТ рекомендуется пациентам с подозрением на спондилодисцит и остеомиелит позвоночника, осложняющие течение ИЭ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r59",
+          "text": {
+            "en": "TTE/TOE is recommended to rule out IE in patients with spondylodiscitis and/or septic arthritis with positive blood cultures for typical IE microorganisms.",
+            "ru": "ТТЭхоКГ/ЧПЭхоКГ рекомендуется для исключения ИЭ у пациентов со спондилодисцитом и/или септическим артритом при положительных посевах крови на типичные для ИЭ микроорганизмы."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt16-preoperative-coronary-anatomy",
+      "title": {
+        "en": "Recommendations for pre-operative coronary anatomy assessment in patients requiring surgery for infective endocarditis",
+        "ru": "Рекомендации по предоперационной оценке анатомии коронарных артерий у пациентов, нуждающихся в хирургическом лечении инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r60",
+          "text": {
+            "en": "In haemodynamically stable patients with aortic valve vegetations who require cardiac surgery and are high risk for CAD, a high-resolution multislice coronary CTA is recommended.",
+            "ru": "У гемодинамически стабильных пациентов с вегетациями на аортальном клапане, нуждающихся в кардиохирургическом вмешательстве и имеющих высокий риск ИБС, рекомендуется проведение высокоразрешающей мультиспиральной КТ-коронарографии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r61",
+          "text": {
+            "en": "Invasive coronary angiography is recommended in patients requiring heart surgery who are high risk for CAD, in the absence of aortic valve vegetations.",
+            "ru": "Инвазивная коронароангиография рекомендуется пациентам, нуждающимся в операции на сердце и имеющим высокий риск ИБС, при отсутствии вегетаций на аортальном клапане."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt17-surgery-timing-neurological",
+      "title": {
+        "en": "Indications and timing of cardiac surgery after neurological complications in active infective endocarditis",
+        "ru": "Показания и сроки кардиохирургического вмешательства после неврологических осложнений при активном инфекционном эндокардите"
+      },
+      "rows": [
+        {
+          "id": "r62",
+          "text": {
+            "en": "After a transient ischaemic attack, cardiac surgery, if indicated, is recommended without delay.",
+            "ru": "После транзиторной ишемической атаки кардиохирургическое вмешательство при наличии показаний рекомендуется без задержки."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r63",
+          "text": {
+            "en": "After a stroke, surgery is recommended without any delay in the presence of HF, uncontrolled infection, abscess, or persistent high embolic risk, as long as coma is absent and the presence of cerebral haemorrhage has been excluded by cranial CT or MRI.",
+            "ru": "После перенесенного инсульта хирургическое вмешательство рекомендуется без каких-либо задержек при наличии СН, неконтролируемой инфекции, абсцесса или сохраняющегося высокого риска эмболий, при условии отсутствия комы и исключения внутричерепного кровоизлияния по данным КТ или МРТ головного мозга."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt18-post-discharge-follow-up",
+      "title": {
+        "en": "Recommendations for post-discharge follow-up",
+        "ru": "Рекомендации по диспансерному наблюдению после выписки из стационара"
+      },
+      "rows": [
+        {
+          "id": "r64",
+          "text": {
+            "en": "Patient education on the risk of recurrence and preventive measures, with emphasis on dental health, and based on the individual risk profile, is recommended during follow-up.",
+            "ru": "Обучение пациента относительно риска рецидива и профилактических мер (с особым акцентом на санацию полости рта и с учетом индивидуального профиля риска) рекомендуется в процессе последующего наблюдения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r65",
+          "text": {
+            "en": "Addiction treatment for patients following PWID-related IE is recommended.",
+            "ru": "Лечение наркотической зависимости рекомендуется пациентам, перенесшим ИЭ, ассоциированный с инъекционным употреблением наркотиков."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt19-prosthetic-valve-endocarditis",
+      "title": {
+        "en": "Recommendations for prosthetic valve endocarditis",
+        "ru": "Рекомендации при инфекционном эндокардите протезированного клапана"
+      },
+      "rows": [
+        {
+          "id": "r66",
+          "text": {
+            "en": "Surgery is recommended for early PVE (within 6 months of valve surgery) with new valve replacement and complete debridement.",
+            "ru": "Хирургическое вмешательство рекомендуется при раннем ИЭ протезированного клапана (в течение 6 месяцев после операции на клапане) с повторным протезированием и полной хирургической обработкой (санацией)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt20-cied-endocarditis",
+      "title": {
+        "en": "Recommendations for cardiovascular implanted electronic device-related infective endocarditis",
+        "ru": "Рекомендации при инфекционном эндокардите, ассоциированном с имплантируемыми электронными сердечно-сосудистыми устройствами"
+      },
+      "rows": [
+        {
+          "id": "r67",
+          "text": {
+            "en": "Antibiotic prophylaxis covering S. aureus is recommended for CIED implantation.",
+            "ru": "Перед имплантацией CIED рекомендуется антибиотикопрофилактика, эффективная в отношении S. aureus."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r68",
+          "text": {
+            "en": "TTE and TOE are both recommended in case of suspected CIED-related IE to identify vegetations.",
+            "ru": "Как ТТЭхоКГ, так и ЧПЭхоКГ рекомендуются при подозрении на ассоциированный с CIED инфекционный эндокардит для выявления вегетаций."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r69",
+          "text": {
+            "en": "Complete system extraction without delay is recommended in patients with definite CIED-related IE under initial empirical antibiotic therapy.",
+            "ru": "Полное и безотлагательное удаление всей системы рекомендуется пациентам с определенным ИЭ, ассоциированным с CIED, на фоне стартовой эмпирической антибактериальной терапии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r70",
+          "text": {
+            "en": "Obtaining at least three sets of blood cultures is recommended before prompt initiation of empirical antibiotic therapy for CIED infection, covering methicillin-resistant staphylococci and Gram-negative bacteria.",
+            "ru": "Перед незамедлительным началом эмпирической антибиотикотерапии инфекции CIED рекомендуется забор не менее трех наборов культур крови; терапия должна перекрывать метициллин-резистентные стафилококки и грамотрицательные бактерии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r71",
+          "text": {
+            "en": "If CIED reimplantation is indicated after extraction for CIED-related IE, it is recommended to be performed at a site distant from the previous generator, as late as possible, once signs and symptoms of infection have abated and until blood cultures are negative for at least 72 h in the absence of vegetations, and negative for at least 2 weeks if vegetations were visualized.",
+            "ru": "Если после экстракции по поводу CIED-ассоциированного ИЭ показана реимплантация устройства, ее рекомендуется выполнять в области, отдаленной от предыдущего ложа генератора, как можно позже, после стихания признаков и симптомов инфекции и при условии отрицательных посевов крови в течение не менее 72 часов в отсутствие вегетаций, и не менее 2 недель при наличии визуализированных вегетаций."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r72",
+          "text": {
+            "en": "Removal of CIED after a single positive blood culture, with no other clinical evidence of infection, is not recommended.",
+            "ru": "Удаление CIED при однократном положительном посеве крови без каких-либо других клинических признаков инфекции не рекомендуется."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt21-right-sided-surgery",
+      "title": {
+        "en": "Recommendations for the surgical treatment of right-sided infective endocarditis",
+        "ru": "Рекомендации по хирургическому лечению правостороннего инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r73",
+          "text": {
+            "en": "Surgery is recommended in patients with right-sided IE who are receiving appropriate antibiotic therapy for right ventricular dysfunction secondary to acute severe tricuspid regurgitation non-responsive to diuretics.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с правосторонним ИЭ, получающим адекватную антибиотикотерапию, при правожелудочковой дисфункции вследствие острой тяжелой трикуспидальной регургитации, рефрактерной к диуретикам."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r74",
+          "text": {
+            "en": "Surgery is recommended in patients with right-sided IE who are receiving appropriate antibiotic therapy for persistent vegetation with respiratory insufficiency requiring ventilatory support after recurrent pulmonary emboli.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с правосторонним ИЭ, получающим адекватную антибиотикотерапию, при персистирующих вегетациях с дыхательной недостаточностью, требующей респираторной поддержки после повторных эмболий в легочную артерию."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r75",
+          "text": {
+            "en": "Surgery is recommended in patients with right-sided IE who are receiving appropriate antibiotic therapy for large residual tricuspid vegetations (>20 mm) after recurrent septic pulmonary emboli.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с правосторонним ИЭ, получающим адекватную антибиотикотерапию, при крупных резидуальных трикуспидальных вегетациях (>20 мм) после повторных септических легочных эмболий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r76",
+          "text": {
+            "en": "Surgery is recommended in patients with right-sided IE who are receiving appropriate antibiotic therapy for patients with simultaneous involvement of left-heart structures.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с правосторонним ИЭ, получающим адекватную антибиотикотерапию, при симультанном (одновременном) поражении левых камер/структур сердца."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt22-antithrombotic-therapy",
+      "title": {
+        "en": "Recommendations for the use of antithrombotic therapy in infective endocarditis",
+        "ru": "Рекомендации по применению антитромботической терапии при инфекционном эндокардите"
+      },
+      "rows": [
+        {
+          "id": "r77",
+          "text": {
+            "en": "Interruption of antiplatelet or anticoagulant therapy is recommended in the presence of major bleeding (including intracranial haemorrhage).",
+            "ru": "При наличии массивного (большого) кровотечения (включая внутричерепное кровоизлияние) рекомендуется прекращение антиагрегантной или антикоагулянтной терапии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r78",
+          "text": {
+            "en": "Thrombolytic therapy is not recommended in patients with IE.",
+            "ru": "Тромболитическая терапия не рекомендуется пациентам с инфекционным эндокардитом."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

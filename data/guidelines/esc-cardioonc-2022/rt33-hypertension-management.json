@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt33-hypertension-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 33",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 33 — Recommendations for the management of arterial hypertension in patients receiving anticancer treatment",
+    "ru": "Таблица рекомендаций 33 — Рекомендации по ведению артериальной гипертензии у пациентов, получающих противоопухолевое лечение"
+  },
+  "tags": [
+    "cardio-oncology",
+    "hypertension",
+    "blood-pressure",
+    "ace-i",
+    "arb",
+    "ccb",
+    "dihydropyridine",
+    "diltiazem",
+    "verapamil"
+  ],
+  "source": {
+    "page": 73
+  },
+  "sections": [
+    {
+      "id": "sec01-general",
+      "title": {
+        "en": "General",
+        "ru": "Общие положения"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Effective treatment of cancer therapy-induced arterial hypertension to prevent cancer treatment interruption and CV complications is recommended.",
+            "ru": "Эффективный контроль и лечение артериальной гипертензии, индуцированной противоопухолевой терапией, рекомендуется для предотвращения вынужденных прерываний лечения рака и сердечно-сосудистых осложнений."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "A BP target <140 mmHg systolic and <90 mmHg diastolic is recommended during cancer therapy.",
+            "ru": "Целевой уровень АД <140 мм рт. ст. систолического и <90 мм рт. ст. диастолического рекомендуется во время терапии рака."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "A BP target <130 mmHg systolic and <80 mmHg diastolic may be considered during cancer therapy provided that the treatment is well tolerated.",
+            "ru": "Целевой уровень АД <130 мм рт. ст. систолического и <80 мм рт. ст. диастолического может рассматриваться во время терапии рака при условии хорошей переносимости лечения."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In selected asymptomatic patients with metastatic cancer, a systolic BP 140–160 mmHg and diastolic BP 90–100 mmHg treatment threshold may be considered provided there is ongoing BP monitoring.",
+            "ru": "У отдельных бессимптомных пациентов с метастатическим раком порог начала/интенсификации антигипертензивной терапии при САД 140–160 мм рт. ст. и ДАД 90–100 мм рт. ст. может рассматриваться при условии регулярного мониторинга АД."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "The competing cancer and CV risk evaluation is recommended if the systolic BP is ≥180 mmHg or diastolic BP ≥110 mmHg, and any cancer therapy associated with hypertension should be deferred or temporarily withheld until the BP is controlled to values <160 mmHg (systolic) and <100 mmHg (diastolic).",
+            "ru": "Оценка конкурирующего онкологического и сердечно-сосудистого риска рекомендуется при САД ≥180 мм рт. ст. или ДАД ≥110 мм рт. ст.; любая противоопухолевая терапия, ассоциированная с гипертензией, должна быть отложена или временно приостановлена до снижения АД <160 мм рт. ст. (САД) и <100 мм рт. ст. (ДАД)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec02-treatment",
+      "title": {
+        "en": "Cancer therapy-induced arterial hypertension treatment",
+        "ru": "Лечение артериальной гипертензии, индуцированной терапией рака"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "ACE-I or ARB are the first-line antihypertensive drugs recommended for BP management in patients with cancer (unless contraindicated).",
+            "ru": "Ингибиторы АПФ или БРА рекомендуются в качестве антигипертензивных препаратов первой линии для контроля АД у онкологических больных (при отсутствии противопоказаний)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Dihydropyridine CCB are recommended as second-line antihypertensive drugs for patients with cancer with uncontrolled BP.",
+            "ru": "Дигидропиридиновые блокаторы кальциевых каналов (БКК) рекомендуются в качестве препаратов второй линии у пациентов с онкологическими заболеваниями при неконтролируемом АД."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Combination therapy with ACE-I or ARB and dihydropyridine CCB is recommended in patients with cancer with systolic BP ≥ 160 mmHg and diastolic BP ≥ 100 mmHg.",
+            "ru": "Комбинированная терапия иАПФ (или БРА) с дигидропиридиновым БКК рекомендуется пациентам с онкологическими заболеваниями при САД ≥ 160 мм рт. ст. и ДАД ≥ 100 мм рт. ст."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Diltiazem and verapamil are not recommended to treat arterial hypertension in patients with cancer due to their drug–drug interactions (in selected patients intolerant to other drugs, they may be considered with close monitoring).",
+            "ru": "Дилтиазем и верапамил не рекомендуются для лечения артериальной гипертензии у онкологических больных из-за высокого риска межлекарственных взаимодействий (у отдельных пациентов при непереносимости других классов они могут рассматриваться при строгом мониторинге взаимодействий)."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

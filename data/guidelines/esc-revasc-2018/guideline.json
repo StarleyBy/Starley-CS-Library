@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018",
+  "society": "ESC/EACTS",
+  "year": 2018,
+  "title": {
+    "en": "2018 ESC/EACTS Guidelines on myocardial revascularization",
+    "ru": "Рекомендации ESC/EACTS 2018 по реваскуляризации миокарда"
+  },
+  "shortTitle": {
+    "en": "ESC/EACTS Revascularization 2018",
+    "ru": "ESC/EACTS Реваскуляризация 2018"
+  },
+  "citation": "Eur Heart J. 2019;40(2):87–165",
+  "legend": "esc-2023",
+  "abbreviations": {
+    "ACS": { "en": "acute coronary syndromes", "ru": "острый коронарный синдром" },
+    "AF": { "en": "atrial fibrillation", "ru": "фибрилляция предсердий" },
+    "BRS": { "en": "bioresorbable scaffolds", "ru": "биорезорбируемые скаффолды (каркасы)" },
+    "CABG": { "en": "coronary artery bypass grafting", "ru": "коронарное шунтирование" },
+    "CAD": { "en": "coronary artery disease", "ru": "ишемическая болезнь сердца" },
+    "CCS": { "en": "Canadian Cardiovascular Society", "ru": "Канадское кардиоваскулярное общество" },
+    "CKD": { "en": "chronic kidney disease", "ru": "хроническая болезнь почек" },
+    "CMR": { "en": "cardiac magnetic resonance", "ru": "магнитно-резонансная томография сердца" },
+    "DES": { "en": "drug-eluting stents", "ru": "стенты с лекарственным покрытием" },
+    "EACTS": { "en": "European Association for Cardio-Thoracic Surgery", "ru": "Европейская ассоциация кардиоторакальной хирургии" },
+    "ECG": { "en": "electrocardiogram", "ru": "электрокардиограмма" },
+    "ESC": { "en": "European Society of Cardiology", "ru": "Европейское общество кардиологов" },
+    "FFR": { "en": "fractional flow reserve", "ru": "фракционный резерв кровотока" },
+    "GP": { "en": "glycoprotein", "ru": "гликопротеин" },
+    "HF": { "en": "heart failure", "ru": "сердечная недостаточность" },
+    "IRA": { "en": "infarct-related artery", "ru": "инфаркт-связанная артерия" },
+    "IVUS": { "en": "intravascular ultrasound", "ru": "внутрисосудистый ультразвук" },
+    "iwFR": { "en": "instantaneous wave-free ratio", "ru": "мгновенный резерв кровотока в период свободного волнения" },
+    "LAD": { "en": "left anterior descending", "ru": "передняя межжелудочковая ветвь (ПМЖВ)" },
+    "LVEF": { "en": "left ventricular ejection fraction", "ru": "фракция выброса левого желудочка" },
+    "MVD": { "en": "multivessel coronary artery disease", "ru": "многососудистое поражение коронарных артерий" },
+    "NOAC": { "en": "non-vitamin K oral anticoagulants", "ru": "новые/прямые пероральные антикоагулянты" },
+    "NSTE-ACS": { "en": "non-ST-elevation acute coronary syndromes", "ru": "острый коронарный синдром без подъема сегмента ST" },
+    "OCT": { "en": "optical coherence tomography", "ru": "оптическая когерентная томография" },
+    "PCI": { "en": "percutaneous coronary intervention", "ru": "чрескожное коронарное вмешательство" },
+    "PET": { "en": "positron emission tomography", "ru": "позитронно-эмиссионная томография" },
+    "SCAD": { "en": "stable coronary artery disease", "ru": "стабильная ишемическая болезнь сердца" },
+    "SPECT": { "en": "single-photon emission computed tomography", "ru": "однофотонная эмиссионная компьютерная томография" },
+    "STEMI": { "en": "ST-elevation myocardial infarction", "ru": "инфаркт миокарда с подъемом сегмента ST" },
+    "SVG": { "en": "saphenous vein grafts", "ru": "графты из большой подкожной вены" },
+    "SYNTAX": { "en": "Synergy between Percutaneous Coronary Intervention with TAXUS and Cardiac Surgery", "ru": "шкала оценки сложности коронарного поражения SYNTAX" },
+    "VKA": { "en": "vitamin K antagonists", "ru": "антагонисты витамина К" }
+  }
+}

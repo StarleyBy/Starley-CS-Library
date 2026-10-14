@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt03-decision-making-patient-information",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 3",
+  "title": {
+    "en": "Recommendations for decision-making and patient information in the elective setting",
+    "ru": "Рекомендации по принятию решений и информированию пациентов в плановом порядке"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Decision-making and patient information",
+        "ru": "Принятие решений и информирование пациента"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that patients undergoing coronary angiography are informed about benefits and risks, as well as potential therapeutic consequences, ahead of the procedure.",
+            "ru": "Рекомендуется информировать пациентов, направляемых на коронарографию, о пользе, рисках и возможных терапевтических последствиях до выполнения процедуры."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "It is recommended that patients are adequately informed about short- and long-term benefits and risks of the revascularization procedure with information about local experience, and allowed enough time for informed decision-making.",
+            "ru": "Рекомендуется надлежащим образом информировать пациентов о краткосрочной и долгосрочной пользе и рисках процедуры реваскуляризации с учетом данных местного опыта, а также предоставить достаточно времени для принятия осознанного решения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "It is recommended that institutional protocols are developed by the Heart Team to implement the appropriate revascularization strategy in accordance with current Guidelines.",
+            "ru": "Рекомендуется, чтобы команда кардиологов и кардиохирургов (Heart Team) разработала локальные клинические протоколы для реализации надлежащей стратегии реваскуляризации в соответствии с актуальными рекомендациями."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In PCI centres without on-site surgery, it is recommended that institutional protocols are established with partner institutions providing cardiac surgery.",
+            "ru": "В центрах ЧКВ без хирургического отделения на месте рекомендуется утвердить локальные протоколы взаимодействия с партнерскими клиниками, выполняющими кардиохирургические вмешательства."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

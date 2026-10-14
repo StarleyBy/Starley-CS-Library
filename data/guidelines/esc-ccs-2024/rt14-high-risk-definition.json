@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt14-high-risk-definition",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 14",
+  "title": {
+    "en": "Recommendations for definition of high risk of adverse events",
+    "ru": "Рекомендации по определению высокого риска неблагоприятных событий"
+  },
+  "tags": [
+    "ccs",
+    "risk-stratification",
+    "high-risk",
+    "adverse-events",
+    "duke-score",
+    "spect",
+    "pet",
+    "stress-echo",
+    "stress-cmr",
+    "ccta",
+    "ica",
+    "ffr",
+    "ifr"
+  ],
+  "source": {
+    "page": 41
+  },
+  "sections": [
+    {
+      "id": "sec-high-risk-criteria",
+      "title": {
+        "en": "Definition and management of high risk of adverse events",
+        "ru": "Определение и тактика при высоком риске неблагоприятных событий"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "An initial stratification of risk of adverse events is recommended based on basic clinical assessment (e.g. age, ECG, anginal threshold, diabetes, CKD, LVEF).",
+            "ru": "Первичная стратификация риска неблагоприятных событий рекомендуется на основании базовой клинической оценки (возраст, ЭКГ, порог стенокардии, сахарный диабет, ХБП, ФВ ЛЖ)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "The use of one or more of the following test results is recommended to identify individuals at high risk of adverse events:\n• exercise ECG: Duke Treadmill Score < -10;\n• stress SPECT or PET perfusion imaging: area of ischaemia ≥10% of the LV myocardium;\n• stress echocardiography: ≥3 of 16 segments with stress-induced hypokinesia or akinesia;\n• stress CMR: ≥2 of 16 segments with stress perfusion defects or ≥3 dobutamine-induced dysfunctional segments;\n• CCTA: left main disease with ≥50% stenosis, three-vessel disease with ≥70% stenosis, or two-vessel disease with ≥70% stenosis including the proximal LAD, or one-vessel disease of the proximal LAD with ≥70% stenosis and FFR-CT ≤0.8.",
+            "ru": "Рекомендуется использование одного или нескольких из следующих критериев для выявления лиц с высоким риском неблагоприятных событий:\n• нагрузочная ЭКГ: индекс шкалы Duke Treadmill Score < -10;\n• стресс-ОФЭКТ или стресс-ПЭТ: площадь ишемии ≥10% миокарда ЛЖ;\n• стресс-ЭхоКГ: ≥3 из 16 сегментов с вызванным стрессом гипокинезом или акинезом;\n• стресс-МРТ: ≥2 из 16 сегментов с дефектами перфузии или ≥3 дисфункциональных сегмента при пробе с добутамином;\n• КТ-коронарография (CCTA): стеноз ствола ЛКА ≥50%, трехсосудистое поражение со стенозом ≥70%, двухсосудистое поражение со стенозом ≥70% с вовлечением проксимальной ПМЖВ, либо изолированный стеноз проксимальной ПМЖВ ≥70% при FFR-CT ≤0,8."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In individuals at high risk of adverse events (regardless of symptoms), ICA—complemented by invasive coronary pressure (FFR/iFR) when appropriate—is recommended, with the aim of refining risk stratification and improving symptoms and cardiovascular outcomes by revascularization.",
+            "ru": "У лиц высокого риска неблагоприятных событий (независимо от выраженности симптомов) рекомендуется инвазивная коронарография (при необходимости дополненная измерением внутрикоронарного давления FFR/iFR) с целью уточнения стратификации риска, облегчения симптомов и улучшения сердечно-сосудистого прогноза посредством реваскуляризации."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt13-multiple-myeloma-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 13",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 13 — Recommendations for baseline risk assessment and monitoring during multiple myeloma therapies",
+    "ru": "Таблица рекомендаций 13 — Рекомендации по исходной оценке риска и мониторингу во время терапии множественной миеломы"
+  },
+  "tags": [
+    "cardio-oncology",
+    "multiple-myeloma",
+    "proteasome-inhibitors",
+    "bortezomib",
+    "carfilzomib",
+    "al-ca",
+    "vte",
+    "lmwh",
+    "anticoagulation"
+  ],
+  "source": {
+    "page": 35
+  },
+  "sections": [
+    {
+      "id": "sec01-bp",
+      "title": {
+        "en": "BP monitoring",
+        "ru": "Мониторинг артериального давления (АД)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "BP measurement is recommended for patients treated with proteasome inhibitors (PI) at every clinical visit.",
+            "ru": "Измерение АД рекомендуется пациентам, получающим терапию ингибиторами протеасом (ИП), при каждом клиническом визите."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Home monitoring of BP weekly during the first 3 months and monthly thereafter should be considered for patients treated with PI.",
+            "ru": "Еженедельный домашний самоконтроль АД в течение первых 3 месяцев и ежемесячно в дальнейшем следует рассмотреть для пациентов, получающих ИП."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec02-biomarkers",
+      "title": {
+        "en": "Cardiac serum biomarkers",
+        "ru": "Сердечные биомаркеры сыворотки крови"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "Measurement of NP is recommended prior to PI in high- and very high-risk patients.",
+            "ru": "Определение натрийуретических пептидов (NP) рекомендуется перед началом приема ИП у пациентов высокого и очень высокого риска."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Measurement of NP should be considered prior to PI in low- and moderate-risk patients.",
+            "ru": "Определение NP следует рассмотреть перед началом приема ИП у пациентов низкого и умеренного риска."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients receiving carfilzomib or bortezomib, measurement of NP should be considered at baseline and every cycle during the first 6 cycles (every 2 months for patients treated with oral ixazomib).",
+            "ru": "У пациентов, получающих карфилзомиб или бортезомиб, определение уровня NP следует рассмотреть исходно и каждый цикл в течение первых 6 циклов (каждые 2 месяца для пациентов, получающих пероральный иксазомиб)."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "NP and cTn measurements are recommended at baseline and every 3–6 months in patients with light-chain cardiac amyloidosis (AL-CA), depending on HF severity and treatment.",
+            "ru": "Определение уровней NP и тропонинов (cTn) рекомендуется исходно и каждые 3–6 месяцев у пациентов с AL-амилоидозом сердца (в зависимости от тяжести сердечной недостаточности и проводимой терапии)."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec03-echo",
+      "title": {
+        "en": "Transthoracic echocardiography (TTE)",
+        "ru": "Трансторакальная эхокардиография (ТТЭ / ЭхоКГ)"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "Baseline echocardiography, including assessment for AL-CA, is recommended in all patients with multiple myeloma scheduled to receive PI.",
+            "ru": "Исходная эхокардиография, включая оценку признаков AL-амилоидоза сердца, рекомендуется всем пациентам с множественной миеломой, которым планируется терапия ИП."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Echocardiography surveillance every 3 cycles should be considered in high- and very high-risk patients receiving carfilzomib.",
+            "ru": "Эхокардиографический контроль каждые 3 цикла следует рассмотреть у пациентов высокого и очень высокого риска, получающих карфилзомиб."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Echocardiography surveillance every 3 cycles may be considered in low- and moderate-risk patients receiving carfilzomib.",
+            "ru": "Эхокардиографический контроль каждые 3 цикла может рассматриваться у пациентов низкого и умеренного риска, получающих карфилзомиб."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Echocardiography surveillance should be considered every 3–6 months in patients with AL-CA treated with PI (depending on HF severity and treatment).",
+            "ru": "Эхокардиографический контроль следует рассмотреть каждые 3–6 месяцев у пациентов с AL-амилоидозом сердца, получающих лечение ИП (в зависимости от тяжести СН и терапии)."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec04-vte",
+      "title": {
+        "en": "Venous thromboembolism (VTE) prophylaxis",
+        "ru": "Профилактика венозных тромбоэмболических осложнений (ВТЭО)"
+      },
+      "rows": [
+        {
+          "id": "r11",
+          "text": {
+            "en": "Therapeutic doses of LMWH are recommended in patients with multiple myeloma with previous VTE.",
+            "ru": "Терапевтические дозы низкомолекулярного гепарина (НМГ) рекомендуются пациентам с множественной миеломой, имеющим венозные тромбоэмболии (ВТЭО) в анамнезе."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "Prophylactic doses of LMWH are recommended in patients with multiple myeloma with VTE-related risk factors (excluding previous VTE) at least during the first 6 months of therapy.",
+            "ru": "Профилактические дозы НМГ рекомендуются пациентам с множественной миеломой при наличии факторов риска ВТЭО (за исключением предшествующих ВТЭО в анамнезе) как минимум в течение первых 6 месяцев терапии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "Aspirin should be considered as an alternative to LMWH in patients with multiple myeloma with no risk factors or one VTE-related risk factor (excluding previous VTE) at least during the first 6 months of therapy.",
+            "ru": "Аспирин следует рассматривать как альтернативу НМГ у пациентов с множественной миеломой без факторов риска или с одним фактором риска ВТЭО (за исключением предшествующих ВТЭО в анамнезе) как минимум в течение первых 6 месяцев терапии."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "Low doses of apixaban (2.5 mg twice a day) or rivaroxaban (10 mg once a day) may be considered as an alternative to LMWH or aspirin in patients with multiple myeloma with VTE-related risk factors (excluding previous VTE) at least during the first 6 months of therapy.",
+            "ru": "Низкие дозы апиксабана (2,5 мг 2 раза в сутки) или ривароксабана (10 мг 1 раз в сутки) могут рассматриваться в качестве альтернативы НМГ или аспирину у пациентов с множественной миеломой с факторами риска ВТЭО (исключая анамнез ВТЭО) как минимум в течение первых 6 месяцев терапии."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

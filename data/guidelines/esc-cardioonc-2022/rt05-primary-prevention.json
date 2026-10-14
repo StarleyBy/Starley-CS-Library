@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt05-primary-prevention",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 5",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 5 — Recommendations for primary prevention of cancer therapy-related cardiovascular toxicity",
+    "ru": "Таблица рекомендаций 5 — Рекомендации по первичной профилактике сердечно-сосудистой токсичности противоопухолевой терапии"
+  },
+  "tags": [
+    "cardio-oncology",
+    "primary-prevention",
+    "cvrf",
+    "dexrazoxane",
+    "liposomal-anthracyclines",
+    "ace-i",
+    "arb",
+    "beta-blockers",
+    "statins",
+    "anthracyclines",
+    "her2"
+  ],
+  "sections": [
+    {
+      "id": "sec01",
+      "title": {
+        "en": "Primary prevention strategies",
+        "ru": "Стратегии первичной профилактики"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Management of CVRF according to the 2021 ESC Guidelines on CVD prevention in clinical practice is recommended before, during, and after cancer therapy (without delaying cancer treatments).",
+            "ru": "Контроль факторов сердечно-сосудистого риска в соответствии с рекомендациями ESC по профилактике ССЗ рекомендуется до, во время и после противоопухолевой терапии (без задержки начала онкологического лечения)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Dexrazoxane should be considered in adult patients with cancer at high and very high CV toxicity risk when anthracycline chemotherapy is indicated (≥350 mg/m² doxorubicin or equivalent according to EMA; ≥300 mg/m² according to FDA).",
+            "ru": "Дексразоксан следует рассмотреть у взрослых онкологических пациентов высокого и очень высокого риска кардиотоксичности при наличии показаний к химиотерапии антрациклинами (≥350 мг/м² доксорубицина или эквивалента согласно EMA; ≥300 мг/м² согласно FDA)."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Liposomal anthracyclines should be considered in adult patients with cancer at high and very high CV toxicity risk when anthracycline chemotherapy is indicated.",
+            "ru": "Липосомальные антрациклины следует рассмотреть у взрослых пациентов с онкологическими заболеваниями высокого и очень высокого риска кардиотоксичности при наличии показаний к химиотерапии антрациклинами."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "ACE-I or ARB and beta-blockers recommended for HF (carvedilol preferred, bisoprolol, metoprolol succinate, nebivolol) should be considered for primary prevention in high- and very high-risk patients receiving anthracyclines and/or anti-HER2 therapies.",
+            "ru": "Ингибиторы АПФ или БРА и бета-блокаторы, рекомендованные при СН (предпочтителен карведилол, а также бисопролол, метопролола сукцинат замедленного высвобождения, небиволол), следует рассмотреть для первичной профилактики у пациентов высокого и очень высокого риска, получающих антрациклины и/или anti-HER2 терапию."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "ACE-I or ARB and beta-blockers recommended for HF should be considered for primary prevention in high- and very high-risk patients receiving targeted cancer therapies that may cause HF (VEGFi and bevacizumab, RAF inhibitor, MEK inhibitor, PI, dasatinib, ponatinib, and osimertinib).",
+            "ru": "Ингибиторы АПФ или БРА и бета-блокаторы, рекомендованные при СН, следует рассмотреть для первичной профилактики у пациентов высокого и очень высокого риска, получающих таргетную противоопухолевую терапию с риском развития СН (ингибиторы VEGF и бевацизумаб, ингибиторы RAF, ингибиторы MEK, ингибиторы протеасом, дазатиниб, понатиниб и осимертиниб)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Statins should be considered for primary prevention in adult patients with cancer at high and very high CV toxicity risk.",
+            "ru": "Статины следует рассмотреть для первичной профилактики у взрослых пациентов с онкологическими заболеваниями категории высокого и очень высокого риска сердечно-сосудистой токсичности."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.rt01-recommendations-diagnosis",
+  "guidelineId": "esc-pe-2019",
+  "number": "Section 4.11",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for diagnosis of pulmonary embolism",
+    "ru": "Рекомендации по диагностике тромбоэмболии легочной артерии"
+  },
+  "sections": [
+    {
+      "id": "s01-suspected-pe-haemodynamic-instability",
+      "title": {
+        "en": "Suspected PE with haemodynamic instability",
+        "ru": "Подозрение на ТЭЛА с гемодинамической нестабильностью"
+      },
+      "rows": [
+        {
+          "id": "r01-bedside-echo-ctpa",
+          "text": {
+            "en": "In suspected high-risk PE, as indicated by the presence of haemodynamic instability, bedside echocardiography or emergency CTPA (depending on availability and clinical circumstances) is recommended for diagnosis.",
+            "ru": "При подозрении на ТЭЛА высокого риска, определяемом наличием гемодинамической нестабильности, для диагностики рекомендуется прикроватная эхокардиография или экстренная КТ-ангиопульмонография (в зависимости от доступности и клинической ситуации)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [169]
+        },
+        {
+          "id": "r02-iv-anticoagulation-ufh",
+          "text": {
+            "en": "It is recommended that i.v. anticoagulation with UFH, including a weight-adjusted bolus injection, be initiated without delay in patients with suspected high-risk PE.",
+            "ru": "Рекомендуется незамедлительно начать внутривенную антикоагуляцию НФГ, включая болюсное введение с коррекцией по массе тела, у пациентов с подозрением на ТЭЛА высокого риска."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s02-suspected-pe-without-instability",
+      "title": {
+        "en": "Suspected PE without haemodynamic instability",
+        "ru": "Подозрение на ТЭЛА без гемодинамической нестабильности"
+      },
+      "rows": [
+        {
+          "id": "r03-validated-criteria",
+          "text": {
+            "en": "The use of validated criteria for diagnosing PE is recommended.",
+            "ru": "Рекомендуется использовать валидированные критерии для диагностики ТЭЛА."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [12]
+        },
+        {
+          "id": "r04-anticoagulation-while-workup",
+          "text": {
+            "en": "Initiation of anticoagulation is recommended without delay in patients with high or intermediate clinical probability of PE while diagnostic workup is in progress.",
+            "ru": "Рекомендуется незамедлительно начать антикоагулянтную терапию у пациентов с высокой или промежуточной клинической вероятностью ТЭЛА на время проведения диагностического поиска."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03-clinical-evaluation",
+      "title": {
+        "en": "Clinical evaluation",
+        "ru": "Клиническая оценка"
+      },
+      "rows": [
+        {
+          "id": "r05-clinical-judgement-rule",
+          "text": {
+            "en": "It is recommended that the diagnostic strategy be based on clinical probability, assessed either by clinical judgement or by a validated prediction rule.",
+            "ru": "Рекомендуется основывать диагностическую стратегию на клинической вероятности, оцененной либо на основании клинического суждения врача, либо по валидированной шкале прогнозирования."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [89, 91, 92, 103, 134, 170, 171, 172]
+        }
+      ]
+    },
+    {
+      "id": "s04-d-dimer",
+      "title": {
+        "en": "D-dimer",
+        "ru": "D-димер"
+      },
+      "rows": [
+        {
+          "id": "r06-d-dimer-low-intermediate",
+          "text": {
+            "en": "Plasma D-dimer measurement, preferably using a highly sensitive assay, is recommended in outpatients/emergency department patients with low or intermediate clinical probability, or those that are PE-unlikely, to reduce the need for unnecessary imaging and irradiation.",
+            "ru": "Определение уровня D-димера в плазме (предпочтительно высокочувствительным методом) рекомендуется у амбулаторных пациентов и пациентов приемного отделения с низкой или промежуточной клинической вероятностью либо у лиц, для которых ТЭЛА маловероятна, для снижения потребности в ненужной визуализации и радиационном облучении."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [101, 102, 103, 122, 164, 171, 173, 174]
+        },
+        {
+          "id": "r07-d-dimer-age-adjusted",
+          "text": {
+            "en": "As an alternative to the fixed D-dimer cut-off, a negative D-dimer test using an age-adjusted cut-off (age × 10 μg/L, in patients aged >50 years) should be considered for excluding PE in patients with low or intermediate clinical probability, or those that are PE-unlikely.",
+            "ru": "В качестве альтернативы фиксированному пороговому значению D-димера следует рассматривать отрицательный результат теста с порогом, скорректированным по возрасту (возраст × 10 мкг/л у пациентов старше 50 лет), для исключения ТЭЛА у пациентов с низкой или промежуточной клинической вероятностью либо у лиц, для которых ТЭЛА маловероятна."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [106]
+        },
+        {
+          "id": "r08-d-dimer-adapted-probability-years",
+          "text": {
+            "en": "As an alternative to the fixed or age-adjusted D-dimer cut-off, D-dimer levels adapted to clinical probability should be considered to exclude PE.",
+            "ru": "В качестве альтернативы фиксированному или скорректированному по возрасту пороговому уровню D-димера следует рассматривать уровни D-димера, адаптированные к клинической вероятности (например, алгоритм YEARS), для исключения ТЭЛА."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [107]
+        },
+        {
+          "id": "r09-d-dimer-high-probability-not-rec",
+          "text": {
+            "en": "D-dimer measurement is not recommended in patients with high clinical probability, as a normal result does not safely exclude PE, even when using a highly sensitive assay.",
+            "ru": "Определение D-димера не рекомендуется у пациентов с высокой клинической вероятностью, поскольку нормальный результат не позволяет надежно исключить ТЭЛА даже при использовании высокочувствительного метода."
+          },
+          "class": "III",
+          "level": "A",
+          "refs": [175, 176]
+        }
+      ]
+    },
+    {
+      "id": "s05-ctpa",
+      "title": {
+        "en": "CTPA",
+        "ru": "КТ-ангиопульмонография (CTPA)"
+      },
+      "rows": [
+        {
+          "id": "r10-ctpa-normal-low-intermediate",
+          "text": {
+            "en": "It is recommended to reject the diagnosis of PE (without further testing) if CTPA is normal in a patient with low or intermediate clinical probability, or who is PE-unlikely.",
+            "ru": "Рекомендуется отвергнуть диагноз ТЭЛА (без дальнейшего обследования), если КТ-ангиография в норме у пациента с низкой или промежуточной клинической вероятностью либо у лиц, для которых ТЭЛА маловероятна."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [101, 122, 164, 171]
+        },
+        {
+          "id": "r11-ctpa-positive-intermediate-high",
+          "text": {
+            "en": "It is recommended to accept the diagnosis of PE (without further testing) if CTPA shows a segmental or more proximal filling defect in a patient with intermediate or high clinical probability.",
+            "ru": "Рекомендуется подтвердить диагноз ТЭЛА (без дальнейшего обследования), если КТ-ангиография выявляет дефект наполнения на сегментарном или более проксимальном уровне у пациента с промежуточной или высокой клинической вероятностью."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [115]
+        },
+        {
+          "id": "r12-ctpa-normal-high-probability",
+          "text": {
+            "en": "It should be considered to reject the diagnosis of PE (without further testing) if CTPA is normal in a patient with high clinical probability or who is PE-likely.",
+            "ru": "Следует рассмотреть возможность исключения диагноза ТЭЛА (без дальнейшего тестирования), если КТ-ангиография в норме у пациента с высокой клинической вероятностью либо у пациента, для которого ТЭЛА вероятна."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [171]
+        },
+        {
+          "id": "r13-ctpa-subsegmental-defect",
+          "text": {
+            "en": "Further imaging tests to confirm PE may be considered in cases of isolated subsegmental filling defects.",
+            "ru": "Дополнительные визуализирующие исследования для подтверждения ТЭЛА могут рассматриваться в случаях изолированных субсегментарных дефектов наполнения."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [115]
+        },
+        {
+          "id": "r14-ct-venography-not-recommended",
+          "text": {
+            "en": "CT venography is not recommended as an adjunct to CTPA.",
+            "ru": "КТ-венография не рекомендуется в качестве дополнения к КТ-ангиопульмонографии."
+          },
+          "class": "III",
+          "level": "B",
+          "refs": [115, 164]
+        }
+      ]
+    },
+    {
+      "id": "s06-vq-scintigraphy",
+      "title": {
+        "en": "V/Q scintigraphy",
+        "ru": "Вентиляционно-перфузионная сцинтиграфия (V/Q)"
+      },
+      "rows": [
+        {
+          "id": "r15-perfusion-normal-reject",
+          "text": {
+            "en": "It is recommended to reject the diagnosis of PE (without further testing) if the perfusion lung scan is normal.",
+            "ru": "Рекомендуется отвергнуть диагноз ТЭЛА (без дальнейшего обследования), если перфузионная сцинтиграфия легких в норме."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [75, 122, 134, 174]
+        },
+        {
+          "id": "r16-vq-high-probability-accept",
+          "text": {
+            "en": "It should be considered to accept that the diagnosis of PE (without further testing) if the V/Q scan yields high probability for PE.",
+            "ru": "Следует рассмотреть возможность подтверждения диагноза ТЭЛА (без дальнейшего тестирования), если сцинтиграфия V/Q указывает на высокую вероятность ТЭЛА."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [134]
+        },
+        {
+          "id": "r17-vq-nondiagnostic-plus-cus",
+          "text": {
+            "en": "A non-diagnostic V/Q scan should be considered as exclusion of PE when combined with a negative proximal CUS in patients with low clinical probability, or who are PE-unlikely.",
+            "ru": "Недиагностический результат V/Q сцинтиграфии следует рассматривать как исключение ТЭЛА в сочетании с отрицательным результатом проксимального компрессионного УЗИ (CUS) у пациентов с низкой клинической вероятностью либо у лиц, для которых ТЭЛА маловероятна."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [75, 122, 174]
+        }
+      ]
+    },
+    {
+      "id": "s07-vq-spect",
+      "title": {
+        "en": "V/Q SPECT",
+        "ru": "Вентиляционно-перфузионная ОФЭКТ (V/Q SPECT)"
+      },
+      "rows": [
+        {
+          "id": "r18-vq-spect-may-be-considered",
+          "text": {
+            "en": "V/Q SPECT may be considered for PE diagnosis.",
+            "ru": "Вентиляционно-перфузионная ОФЭКТ (V/Q SPECT) может рассматриваться для диагностики ТЭЛА."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [121, 126, 127, 128]
+        }
+      ]
+    },
+    {
+      "id": "s08-lower-limb-cus",
+      "title": {
+        "en": "Lower-limb CUS",
+        "ru": "Компрессионное ультразвуковое исследование (CUS) вен нижних конечностей"
+      },
+      "rows": [
+        {
+          "id": "r19-cus-proximal-dvt-accept",
+          "text": {
+            "en": "It is recommended to accept the diagnosis of VTE (and PE) if a CUS shows a proximal DVT in a patient with clinical suspicion of PE.",
+            "ru": "Рекомендуется подтвердить диагноз ВТЭ (и ТЭЛА), если компрессионное УЗИ выявляет проксимальный ТГВ у пациента с клиническим подозрением на ТЭЛА."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [164, 165]
+        },
+        {
+          "id": "r20-cus-distal-dvt-further-testing",
+          "text": {
+            "en": "If CUS shows only a distal DVT, further testing should be considered to confirm PE.",
+            "ru": "Если компрессионное УЗИ выявляет только дистальный ТГВ, следует рассмотреть возможность проведения дальнейшего обследования для подтверждения ТЭЛА."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [177]
+        },
+        {
+          "id": "r21-cus-positive-assess-severity",
+          "text": {
+            "en": "If a positive proximal CUS is used to confirm PE, assessment of PE severity should be considered to permit risk-adjusted management.",
+            "ru": "Если положительный результат проксимального CUS используется для подтверждения ТЭЛА, следует рассмотреть оценку тяжести ТЭЛА для проведения терапии, скорректированной по риску."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [178, 179]
+        }
+      ]
+    },
+    {
+      "id": "s09-mra",
+      "title": {
+        "en": "MRA",
+        "ru": "Магнитно-резонансная ангиография (МРА)"
+      },
+      "rows": [
+        {
+          "id": "r22-mra-not-recommended",
+          "text": {
+            "en": "MRA is not recommended for ruling out PE.",
+            "ru": "МРА не рекомендуется для исключения ТЭЛА."
+          },
+          "class": "III",
+          "level": "A",
+          "refs": [139, 140]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "diagnosis",
+    "recommendations",
+    "pe",
+    "ctpa",
+    "d-dimer",
+    "vq-scan",
+    "spect",
+    "cus",
+    "mra",
+    "heparin"
+  ]
+}

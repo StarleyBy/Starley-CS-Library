@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt44-adult-cancer-survivors-vhd",
+  "guidelineId": "esc-cardioonc-2022",
+  "type": "recommendations",
+  "number": "Rec Table 44",
+  "title": {
+    "en": "Recommendations for adult cancer survivors with valvular heart disease",
+    "ru": "Рекомендации для взрослых лиц, перенесших рак, с клапанной болезнью сердца"
+  },
+  "sections": [
+    {
+      "id": "sec-rt44-general",
+      "title": {
+        "en": "General recommendations",
+        "ru": "Общие рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "A MDT approach is recommended to discuss and define the surgical risk (including vascular access, sternal and skin wound healing, concomitant cardiac disease, radiation-induced lung and thoracic vessels disease, aortic calcification, STS PROM/EuroSCORE II) in CS with severe VHD.",
+            "ru": "Рекомендуется мультидисциплинарный командный подход (MDT) для обсуждения и определения хирургического риска (включая сосудистый доступ, заживление грудины и кожной раны, сопутствующие кардиальные заболевания, лучевое поражение легких и торакальных сосудов, кальциноз аорты, шкалы STS PROM/EuroSCORE II) у лиц, перенесших рак (CS), с тяжелой клапанной болезнью сердца (VHD)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "TAVI should be considered for patients with symptomatic severe aortic stenosis caused by radiation at intermediate surgical risk.",
+            "ru": "Транскатетерную имплантацию аортального клапана (TAVI) следует рассмотреть у пациентов с симптоматическим тяжелым аортальным стенозом, индуцированным лучевой терапией, при промежуточном хирургическом риске."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

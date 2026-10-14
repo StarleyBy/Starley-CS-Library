@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt29-disease-progression",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 29",
+  "title": {
+    "en": "Recommendations for diagnosis of disease progression in patients with established chronic coronary syndrome",
+    "ru": "Рекомендации по диагностике прогрессирования заболевания у пациентов с установленным хроническим коронарным синдромом"
+  },
+  "sections": [
+    {
+      "id": "asymptomatic-patients-established-ccs",
+      "title": {
+        "en": "Asymptomatic patients with established chronic coronary syndromes",
+        "ru": "Бессимптомные пациенты с установленным хроническим коронарным синдромом"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Regardless of symptoms, periodic visits (e.g. annual) to a general practitioner or cardiovascular healthcare professional are recommended to evaluate cardiovascular risk factor control and to assess changes in risk status, disease status, and comorbidities that may require lifestyle, medical, or procedural interventions.",
+            "ru": "Независимо от наличия симптомов рекомендуются периодические визиты (например, ежегодные) к врачу общей практики или кардиологу для оценки контроля факторов сердечно-сосудистого риска и выявления изменений в статусе риска, течении заболевания и сопутствующей патологии, которые могут потребовать модификации образа жизни, медикаментозных или инвазивных вмешательств."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "symptomatic-patients-established-ccs",
+      "title": {
+        "en": "Symptomatic patients with established chronic coronary syndromes",
+        "ru": "Симптомные пациенты с установленным хроническим коронарным синдромом"
+      },
+      "rows": [
+        {
+          "id": "r02",
+          "text": {
+            "en": "Reassessment of CAD status is recommended in patients with deteriorating LV systolic function that cannot be attributed to a reversible cause (e.g. longstanding tachycardia or myocarditis).",
+            "ru": "Повторная оценка статуса ИБС рекомендуется пациентам с ухудшением систолической функции ЛЖ, которое не может быть объяснено обратимой причиной (например, длительной тахикардией или миокардитом)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Risk stratification is recommended in patients with new or worsening symptoms, preferably using stress imaging.",
+            "ru": "Стратификация риска рекомендуется пациентам с впервые возникшими или ухудшающимися симптомами, предпочтительно с использованием стресс-визуализации."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients with symptoms refractory to medical treatment or at high risk of adverse events, invasive coronary angiography (with FFR/iFR when necessary) is recommended for risk stratification and for possible revascularization aimed at improving symptoms and prognosis.",
+            "ru": "У пациентов с симптомами, рефрактерными к медикаментозной терапии, или при высоком риске неблагоприятных событий рекомендуется инвазивная коронарография (с измерением FFR/iFR при необходимости) для стратификации риска и решения вопроса о возможной реваскуляризации с целью улучшения симптоматики и прогноза."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In CCS patients with symptoms refractory to medical treatment, and who have had previous coronary revascularization, CCTA should be considered to evaluate bypass graft or stent patency (for stents ≥3 mm).",
+            "ru": "У пациентов с ХКС с симптомами, рефрактерными к медикаментозному лечению, ранее перенесших реваскуляризацию миокарда, следует рассмотреть возможность проведения КТ-коронарографии для оценки проходимости шунтов или стентов (для стентов диаметром ≥3 мм)."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

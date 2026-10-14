@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt12-surgical-indications",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 12",
+  "title": {
+    "en": "Recommendations for the main indications of surgery in infective endocarditis (native valve endocarditis and prosthetic valve endocarditis)",
+    "ru": "Рекомендации по основным показаниям к хирургическому лечению инфекционного эндокардита (эндокардит нативного и протезированного клапанов)"
+  },
+  "sections": [
+    {
+      "id": "heart-failure",
+      "title": {
+        "en": "(i) Heart failure",
+        "ru": "(i) Сердечная недостаточность"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Emergency (within 24 h) surgery is recommended in aortic or mitral NVE or PVE with severe acute regurgitation, obstruction, or fistula causing refractory pulmonary oedema or cardiogenic shock.",
+            "ru": "Экстренное (в течение 24 ч) хирургическое вмешательство рекомендуется при ИЭ нативного или протезированного аортального либо митрального клапана с тяжелой острой регургитацией, обструкцией или фистулой, вызывающими рефрактерный отек легких или кардиогенный шок."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Urgent (within 3–5 days) surgery is recommended in aortic or mitral NVE or PVE with severe acute regurgitation or obstruction causing symptoms of HF or echocardiographic signs of poor haemodynamic tolerance.",
+            "ru": "Неотложное (в течение 3–5 дней) хирургическое вмешательство рекомендуется при ИЭ нативного или протезированного аортального либо митрального клапана с тяжелой острой регургитацией или обструкцией, вызывающими симптомы СН или эхокардиографические признаки плохой гемодинамической переносимости."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "uncontrolled-infection",
+      "title": {
+        "en": "(ii) Uncontrolled infection",
+        "ru": "(ii) Неконтролируемая инфекция"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "Urgent (within 3–5 days) surgery is recommended in locally uncontrolled infection (abscess, false aneurysm, fistula, enlarging vegetation, prosthetic dehiscence, new AVB).",
+            "ru": "Неотложное (в течение 3–5 дней) хирургическое вмешательство рекомендуется при локально неконтролируемой инфекции (абсцесс, ложная аневризма, фистула, увеличивающаяся вегетация, дегисценция протеза, вновь возникшая АВ-блокада)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Urgent (within 3–5 days) or non-urgent (within same hospital admission) surgery is recommended in IE caused by fungi or multiresistant organisms according to the haemodynamic condition of the patient.",
+            "ru": "Неотложное (в течение 3–5 дней) или плановое (в пределах текущей госпитализации) хирургическое вмешательство рекомендуется при ИЭ, вызванном грибами или полирезистентными микроорганизмами, в зависимости от гемодинамического статуса пациента."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Urgent (within 3–5 days) surgery should be considered in IE with persistently positive blood cultures >1 week or persistent sepsis despite appropriate antibiotic therapy and adequate control of metastatic foci.",
+            "ru": "Неотложное (в течение 3–5 дней) хирургическое лечение следует рассмотреть при ИЭ с персистирующе положительными посевами крови длительностью >1 недели или персистирующим сепсисом, несмотря на адекватную антибиотикотерапию и санацию метастатических очагов."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Urgent (within 3–5 days) surgery should be considered in PVE caused by S. aureus or non-HACEK Gram-negative bacteria.",
+            "ru": "Неотложное (в течение 3–5 дней) хирургическое вмешательство следует рассмотреть при ИЭ протезированного клапана, вызванном S. aureus или грамотрицательными бактериями не-HACEK группы."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "prevention-of-embolism",
+      "title": {
+        "en": "(iii) Prevention of embolism",
+        "ru": "(iii) Профилактика эмболий"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "Urgent (within 3–5 days) surgery is recommended in aortic or mitral NVE or PVE with persistent vegetations ≥10 mm after one or more embolic episodes despite appropriate antibiotic therapy.",
+            "ru": "Неотложное (в течение 3–5 дней) хирургическое вмешательство рекомендуется при ИЭ нативного или протезированного аортального либо митрального клапана с персистирующими вегетациями ≥10 мм после одного или более эмболических эпизодов, несмотря на адекватную антибиотикотерапию."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Urgent (within 3–5 days) surgery is recommended in IE with vegetation ≥10 mm and other indications for surgery.",
+            "ru": "Неотложное (в течение 3–5 дней) хирургическое вмешательство рекомендуется при ИЭ с вегетациями ≥10 мм при наличии других показаний к операции."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Urgent (within 3–5 days) surgery may be considered in aortic or mitral IE with vegetation ≥10 mm and without severe valve dysfunction or without clinical evidence of embolism and low surgical risk.",
+            "ru": "Неотложное (в течение 3–5 дней) хирургическое вмешательство может рассматриваться при аортальном или митральном ИЭ с размером вегетации ≥10 мм без тяжелой клапанной дисфункции или без клинических проявлений эмболии при низком хирургическом риске."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

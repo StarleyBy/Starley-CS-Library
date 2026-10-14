@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt16-stroke-prevention-cabg",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 16",
+  "title": {
+    "en": "Preoperative strategies to reduce the incidence of stroke in patients undergoing coronary artery bypass grafting",
+    "ru": "Предоперационные стратегии снижения частоты инсульта у пациентов, подвергающихся коронарному шунтированию"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Preoperative stroke reduction in CABG",
+        "ru": "Предоперационная профилактика инсульта при КШ"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients undergoing CABG, carotid DUS is recommended in patients with recent (<6 months) history of stroke/TIA.",
+            "ru": "У пациентов, подвергающихся КШ, дуплексное ультразвуковое сканирование сонных артерий рекомендуется при недавнем (<6 месяцев) анамнезе инсульта/ТИА."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with no recent (<6 months) history of TIA/stroke, carotid DUS may be considered before CABG in the following cases: age ≥70 years, multivessel coronary artery disease, concomitant LEAD, or carotid bruit.",
+            "ru": "У пациентов без недавнего (<6 месяцев) анамнеза ТИА/инсульта дуплексное ультразвуковое сканирование сонных артерий перед КШ может быть рассмотрено в следующих случаях: возраст ≥70 лет, многососудистое поражение коронарных артерий, сопутствующее заболевание артерий нижних конечностей или шум над сонными артериями."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Screening for carotid stenosis is not indicated in patients requiring urgent CABG with no recent stroke/TIA.",
+            "ru": "Скрининг стеноза сонных артерий не показан пациентам, требующим экстренного КШ, без недавнего инсульта/ТИА в анамнезе."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

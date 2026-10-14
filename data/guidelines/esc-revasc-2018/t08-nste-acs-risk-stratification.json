@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.t08-nste-acs-risk-stratification",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Figure 4",
+  "title": {
+    "en": "Selection of non-ST-elevation acute coronary syndrome treatment strategy and timing according to initial risk stratification",
+    "ru": "Выбор стратегии лечения и сроков вмешательства при остром коронарном синдроме без подъема сегмента ST в зависимости от исходной стратификации риска"
+  },
+  "type": "grid",
+  "columns": [
+    {
+      "id": "risk_category",
+      "title": {
+        "en": "Risk category",
+        "ru": "Категория риска"
+      }
+    },
+    {
+      "id": "criteria",
+      "title": {
+        "en": "Clinical criteria",
+        "ru": "Клинические критерии"
+      }
+    },
+    {
+      "id": "strategy",
+      "title": {
+        "en": "Strategy and timing",
+        "ru": "Стратегия и сроки"
+      }
+    },
+    {
+      "id": "class",
+      "title": {
+        "en": "Class",
+        "ru": "Класс"
+      }
+    },
+    {
+      "id": "level",
+      "title": {
+        "en": "Level",
+        "ru": "Уровень"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r_very_high",
+      "cells": [
+        {
+          "text": {
+            "en": "Very High-Risk",
+            "ru": "Очень высокий риск"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "• Haemodynamic instability or cardiogenic shock\n• Recurrent/ongoing chest pain refractory to medical treatment\n• Life-threatening arrhythmias or cardiac arrest\n• Mechanical complications of MI\n• Acute heart failure\n• Recurrent dynamic ST-T wave changes (particularly intermittent ST-elevation)",
+            "ru": "• Гемодинамическая нестабильность или кардиогенный шок\n• Рецидивирующая/сохраняющаяся боль в грудной клетке, рефрактерная к медикаментозной терапии\n• Жизнеугрожающие аритмии или остановка сердца\n• Механические осложнения инфаркта миокарда\n• Острая сердечная недостаточность\n• Рецидивирующие динамические изменения сегмента ST-T (особенно интермиттирующий подъем ST)"
+          }
+        },
+        {
+          "text": {
+            "en": "Immediate Invasive (<2 hours)",
+            "ru": "Неотложная инвазивная (<2 часов)"
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_high",
+      "cells": [
+        {
+          "text": {
+            "en": "High-Risk",
+            "ru": "Высокий риск"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "• Established diagnosis of non-ST-elevation myocardial infarction based on cardiac troponins\n• Dynamic ST/T-changes (symptomatic or silent)\n• GRACE score >140",
+            "ru": "• Подтвержденный диагноз инфаркта миокарда без подъема ST на основании динамики сердечных тропонинов\n• Динамические изменения ST/T (с симптомами или бессимптомные)\n• Оценка по шкале GRACE >140 баллов"
+          }
+        },
+        {
+          "text": {
+            "en": "Early Invasive (<24 hours)",
+            "ru": "Ранняя инвазивная (<24 часов)"
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r_intermediate",
+      "cells": [
+        {
+          "text": {
+            "en": "Intermediate Risk",
+            "ru": "Промежуточный риск"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "• Diabetes mellitus or renal insufficiency (eGFR <60 mL/min/1.73 m²)\n• LVEF <40% or congestive heart failure\n• Early post-infarction angina or prior PCI/CABG\n• GRACE risk score >109 and <140 or recurrent symptoms/ischaemia on non-invasive testing",
+            "ru": "• Сахарный диабет или почечная недостаточность (рСКФ <60 мл/мин/1,73 м²)\n• ФВ ЛЖ <40% или застойная сердечная недостаточность\n• Ранняя постинфарктная стенокардия либо ЧКВ/КШ в анамнезе\n• Оценка по шкале GRACE >109 и <140 либо рецидивирующие симптомы/ишемия при неинвазивных тестах"
+          }
+        },
+        {
+          "text": {
+            "en": "Invasive (<72 hours)",
+            "ru": "Инвазивная (<72 часов)"
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        }
+      ]
+    }
+  ]
+}

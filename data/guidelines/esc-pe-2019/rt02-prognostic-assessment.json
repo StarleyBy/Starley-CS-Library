@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.rt02-prognostic-assessment",
+  "guidelineId": "esc-pe-2019",
+  "number": "Section 5.7",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for prognostic assessment in acute pulmonary embolism",
+    "ru": "Рекомендации по оценке прогноза при острой тромбоэмболии легочной артерии"
+  },
+  "sections": [
+    {
+      "id": "s01-prognostic-assessment",
+      "title": {
+        "en": "Prognostic assessment",
+        "ru": "Оценка прогноза"
+      },
+      "rows": [
+        {
+          "id": "r01-initial-stratification-instability",
+          "text": {
+            "en": "Initial risk stratification of suspected or confirmed PE, based on the presence of haemodynamic instability, is recommended to identify patients at high risk of early mortality.",
+            "ru": "Начальная стратификация риска предполагаемой или подтвержденной ТЭЛА на основе наличия гемодинамической нестабильности рекомендуется для выявления пациентов с высоким риском ранней смерти."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [218, 219, 235]
+        },
+        {
+          "id": "r02-stratification-intermediate-low",
+          "text": {
+            "en": "In patients without haemodynamic instability, further stratification of patients with acute PE into intermediate- and low-risk categories is recommended.",
+            "ru": "У пациентов без гемодинамической нестабильности рекомендуется дальнейшая стратификация острой ТЭЛА на категории промежуточного и низкого риска."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [179, 218, 219, 235]
+        },
+        {
+          "id": "r03-clinical-rules-pesi-spesi",
+          "text": {
+            "en": "In patients without haemodynamic instability, use of clinical prediction rules integrating PE severity and comorbidity, preferably the PESI or sPESI, should be considered for risk assessment in the acute phase of PE.",
+            "ru": "У пациентов без гемодинамической нестабильности использование клинических шкал прогнозирования, объединяющих тяжесть ТЭЛА и коморбидность (предпочтительно PESI или sPESI), следует рассматривать для оценки риска в острой фазе ТЭЛА."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [178, 226, 229]
+        },
+        {
+          "id": "r04-rv-assessment-imaging-biomarkers",
+          "text": {
+            "en": "Assessment of the RV by imaging methods (TTE or CTPA) or laboratory biomarkers (cardiac troponins or natriuretic peptides) should be considered, even in the presence of a low PESI or a negative sPESI.",
+            "ru": "Оценку правого желудочка с помощью методов визуализации (ЭхоКГ или КТ-ангиография) или лабораторных биомаркеров (сердечные тропонины или натрийуретические пептиды) следует рассматривать даже при низком балле PESI или отрицательном sPESI."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [234]
+        },
+        {
+          "id": "r05-validated-combined-scores",
+          "text": {
+            "en": "In patients without haemodynamic instability, use of validated scores combining clinical, imaging, and laboratory PE-related prognostic factors may be considered to further stratify the severity of the acute PE episode.",
+            "ru": "У пациентов без гемодинамической нестабильности использование валидированных шкал, сочетающих клинические, визуализирующие и лабораторные прогностические факторы, связанные с ТЭЛА, может рассматриваться для дальнейшей стратификации тяжести острого эпизода ТЭЛА."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [218, 219, 220, 221, 222, 223]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "prognostic-assessment",
+    "risk-stratification",
+    "pesi",
+    "spesi",
+    "rv-dysfunction",
+    "troponin",
+    "bnp",
+    "pe"
+  ]
+}

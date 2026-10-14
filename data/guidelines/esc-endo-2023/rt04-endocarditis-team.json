@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt04-endocarditis-team",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 4",
+  "title": {
+    "en": "Recommendations for the Endocarditis Team",
+    "ru": "Рекомендации по мультидисциплинарной «Команде по эндокардиту»"
+  },
+  "sections": [
+    {
+      "id": "endocarditis-team-recommendations",
+      "title": {
+        "en": "Recommendations for the Endocarditis Team",
+        "ru": "Рекомендации по мультидисциплинарной «Команде по эндокардиту»"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Diagnosis and management of patients with complicated IE are recommended to be performed at an early stage in a Heart Valve Centre, with immediate surgical facilities and an 'Endocarditis Team' to improve the outcomes.",
+            "ru": "Диагностику и лечение пациентов с осложненным ИЭ рекомендуется проводить на раннем этапе в Клапанном центре сердца с возможностью немедленного хирургического лечения и функционирующей «Командой по эндокардиту» для улучшения исходов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "For patients with uncomplicated IE managed in a Referring Centre, early and regular communication between the local and the Heart Valve Centre endocarditis teams is recommended to improve the outcomes of the patients.",
+            "ru": "У пациентов с неосложненным ИЭ, находящихся на лечении в направляющем центре, рекомендуется раннее и регулярное взаимодействие между локальной командой и «Командой по эндокардиту» Клапанного центра сердца для улучшения исходов."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

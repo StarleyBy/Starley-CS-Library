@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt19-alk-egfr-inhibitors-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 19",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 19 — Recommendations for baseline risk assessment and monitoring during anaplastic lymphoma kinase and epidermal growth factor receptor inhibitors",
+    "ru": "Таблица рекомендаций 19 — Рекомендации по исходной оценке риска и мониторингу во время применения ингибиторов киназы анапластической лимфомы (ALK) и рецептора эпидермального фактора роста (EGFR)"
+  },
+  "tags": [
+    "cardio-oncology",
+    "alk",
+    "egfr",
+    "osimertinib",
+    "brigatinib",
+    "crizotinib",
+    "lorlatinib",
+    "lipid-profile",
+    "bp",
+    "tte",
+    "ecg"
+  ],
+  "source": {
+    "page": 44
+  },
+  "sections": [
+    {
+      "id": "sec01-alk-egfr",
+      "title": {
+        "en": "ALK and EGFR inhibitors monitoring",
+        "ru": "Мониторинг при применении ингибиторов ALK и EGFR"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Baseline CV risk assessment (physical examination, BP measurement, ECG, lipid profile, and HbA1c) is recommended in patients before ALK inhibitors and EGFR inhibitors.",
+            "ru": "Исходная оценка сердечно-сосудистого риска (физикальный осмотр, измерение АД, ЭКГ, липидограмма и HbA1c) рекомендуется пациентам перед началом приема ингибиторов ALK и EGFR."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Baseline echocardiography is recommended in all patients with cancer before starting osimertinib.",
+            "ru": "Исходная эхокардиография рекомендуется всем пациентам со злокачественными новообразованиями перед началом приема осимертиниба."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Home BP monitoring should be considered for patients treated with brigatinib, crizotinib, or lorlatinib.",
+            "ru": "Домашний самоконтроль АД следует рассмотреть для пациентов, получающих бригатиниб, кризотиниб или лорлатиниб."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Cholesterol profile assessment every 3–6 months should be considered for patients on crizotinib and lorlatinib.",
+            "ru": "Оценку липидного профиля каждые 3–6 месяцев следует рассмотреть для пациентов, принимающих кризотиниб и лорлатиниб."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Echocardiography should be considered every 3 months in patients during osimertinib therapy.",
+            "ru": "Эхокардиографию следует рассматривать каждые 3 месяца у пациентов во время терапии осимертинибом."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "ECG should be considered 4 weeks after starting therapy and every 3–6 months in patients during ALK inhibitor therapy.",
+            "ru": "ЭКГ следует рассматривать через 4 недели после начала лечения и каждые 3–6 месяцев у пациентов во время терапии ингибиторами ALK."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

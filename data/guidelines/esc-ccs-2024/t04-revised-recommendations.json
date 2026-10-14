@@ -1,0 +1,559 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.t04-revised-recommendations",
+  "guidelineId": "esc-ccs-2024",
+  "number": "Table 4 (Revised)",
+  "type": "grid",
+  "title": {
+    "en": "Revised recommendations in 2024 ESC Guidelines for the management of chronic coronary syndromes",
+    "ru": "Пересмотренные рекомендации в руководстве ESC 2024 по ведению хронических коронарных синдромов"
+  },
+  "tags": [
+    "ccs",
+    "revised",
+    "comparison",
+    "antianginal",
+    "antithrombotic",
+    "dapt",
+    "anticoagulation",
+    "statins",
+    "anoca",
+    "inoca",
+    "revascularization",
+    "cabg",
+    "pci",
+    "syntax"
+  ],
+  "source": {
+    "page": 24
+  },
+  "columns": [
+    {
+      "id": "c_prev_text",
+      "title": {
+        "en": "Recommendations in previous guidelines",
+        "ru": "Рекомендации в предыдущих руководствах"
+      }
+    },
+    {
+      "id": "c_prev_cls",
+      "title": {
+        "en": "Class",
+        "ru": "Класс"
+      }
+    },
+    {
+      "id": "c_prev_lvl",
+      "title": {
+        "en": "Level",
+        "ru": "Уровень"
+      }
+    },
+    {
+      "id": "c_curr_text",
+      "title": {
+        "en": "Recommendations in 2024 version",
+        "ru": "Рекомендации в версии 2024 г."
+      }
+    },
+    {
+      "id": "c_curr_cls",
+      "title": {
+        "en": "Class",
+        "ru": "Класс"
+      }
+    },
+    {
+      "id": "c_curr_lvl",
+      "title": {
+        "en": "Level",
+        "ru": "Уровень"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-antianginal-ranolazine",
+      "cells": [
+        {
+          "text": {
+            "en": "Nicorandil, ranolazine, ivabradine, or trimetazidine should be considered as a second-line treatment to reduce angina frequency and improve exercise tolerance in subjects who cannot tolerate, have contraindications to, or whose symptoms are not adequately controlled by beta-blockers, CCBs, and long-acting nitrates.",
+            "ru": "Никорандил, ранолазин, ивабрадин или триметазидин следует рассматривать в качестве терапии второй линии для снижения частоты стенокардии и повышения толерантности к нагрузке у лиц с непереносимостью, противопоказаниями или недостаточным контролем симптомов на бета-блокаторах, БКК и пролонгированных нитратах."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "B", "ru": "B" } },
+        {
+          "text": {
+            "en": "Long-acting nitrates or ranolazine should be considered as add-on therapy in patients with inadequate control of symptoms while on treatment with beta-blockers and/or CCBs, or as part of initial treatment in properly selected patients.",
+            "ru": "Пролонгированные нитраты или ранолазин следует рассмотреть в качестве дополнительной терапии у пациентов с неадекватным контролем симптомов при лечении бета-блокаторами и/или БКК, либо как компонент начальной терапии у тщательно отобранных пациентов."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r02-antianginal-nicorandil-trimetazidine",
+      "cells": [
+        {
+          "text": {
+            "en": "In selected patients, the combination of a beta-blocker or a CCB with second-line drugs (ranolazine, nicorandil, ivabradine, and trimetazidine) may be considered for first-line treatment according to heart rate, blood pressure, and tolerance.",
+            "ru": "У отдельных пациентов комбинация бета-блокатора или БКК с препаратами второй линии (ранолазин, никорандил, ивабрадин и триметазидин) может рассматриваться для терапии первой линии с учетом ЧСС, АД и переносимости."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" } },
+        { "text": { "en": "B", "ru": "B" } },
+        {
+          "text": {
+            "en": "Nicorandil or trimetazidine may be considered as add-on therapy in patients with inadequate control of symptoms while on treatment with beta-blockers and/or CCBs, or as part of initial treatment in properly selected patients.",
+            "ru": "Никорандил или триметазидин могут быть рассмотрены в качестве дополнительной терапии у пациентов с неадекватным контролем симптомов при лечении бета-блокаторами и/или БКК, либо в рамках начальной терапии у отобранных пациентов."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r03-aspirin-prior-mi",
+      "cells": [
+        {
+          "text": {
+            "en": "Aspirin 75–100 mg daily is recommended in patients with a previous MI or revascularization.",
+            "ru": "Аспирин 75–100 мг/сут рекомендуется пациентам с перенесенным ИМ или реваскуляризацией."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "A", "ru": "A" } },
+        {
+          "text": {
+            "en": "In CCS patients with a prior MI or remote PCI, aspirin 75–100 mg daily is recommended lifelong after an initial period of DAPT.",
+            "ru": "У пациентов с ХКС с перенесенным ИМ или давним ЧКВ аспирин в дозе 75–100 мг/сут рекомендуется пожизненно после завершения начального периода ДАТТ."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "A", "ru": "A" } }
+      ]
+    },
+    {
+      "id": "r04-clopidogrel-alternative",
+      "cells": [
+        {
+          "text": {
+            "en": "Clopidogrel 75 mg daily is recommended as an alternative to aspirin in patients with aspirin intolerance.\nClopidogrel 75 mg daily may be considered in preference to aspirin in symptomatic and asymptomatic patients with either PAD or a history of ischaemic stroke or transient ischaemic attack.",
+            "ru": "Клопидогрел 75 мг/сут рекомендуется как альтернатива аспирину при непереносимости аспирина.\nКлопидогрел 75 мг/сут может рассматриваться предпочтительнее аспирина у симптомных и бессимптомных пациентов с ЗПА или анамнезом ишемического инсульта/ТИА."
+          }
+        },
+        { "text": { "en": "I / IIb", "ru": "I / IIb" } },
+        { "text": { "en": "B / B", "ru": "B / B" } },
+        {
+          "text": {
+            "en": "In CCS patients with a prior MI or remote PCI, clopidogrel 75 mg daily is recommended as a safe and effective alternative to aspirin monotherapy.",
+            "ru": "У пациентов с ХКС с перенесенным ИМ или давним ЧКВ клопидогрел в дозе 75 мг/сут рекомендуется в качестве безопасной и эффективной альтернативы монотерапии аспирином."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "A", "ru": "A" } }
+      ]
+    },
+    {
+      "id": "r05-aspirin-no-prior-mi",
+      "cells": [
+        {
+          "text": {
+            "en": "Aspirin 75–100 mg daily may be considered in patients without a history of MI or revascularization, but with definitive evidence of CAD on imaging.",
+            "ru": "Аспирин 75–100 мг/сут может рассматриваться у пациентов без анамнеза ИМ или реваскуляризации, но с доказанной ИБС по визуализации."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "In patients without prior MI or revascularization but with evidence of significant obstructive CAD, aspirin 75–100 mg daily is recommended lifelong.",
+            "ru": "У пациентов без перенесенного ИМ или реваскуляризации, но с признаками гемодинамически значимой обструктивной ИБС, аспирин в дозе 75–100 мг/сут рекомендуется пожизненно."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r06-dapt-default-pci",
+      "cells": [
+        {
+          "text": {
+            "en": "Aspirin 75–100 mg daily is recommended following stenting.\nClopidogrel 75 mg daily following appropriate loading (e.g. 600 mg or >5 days of maintenance therapy) is recommended, in addition to aspirin, for 6 months following coronary stenting, irrespective of stent type, unless a shorter durations (1–3 months) is indicated due to risk of occurrence of life-threatening bleeding.",
+            "ru": "Аспирин 75–100 мг/сут рекомендуется после стентирования.\nКлопидогрел 75 мг/сут после нагрузочной дозы рекомендуется в дополнение к аспирину на 6 месяцев после стентирования независимо от типа стента, если не показана более короткая длительность (1–3 мес) из-за риска жизнеугрожающих кровотечений."
+          }
+        },
+        { "text": { "en": "I / I", "ru": "I / I" } },
+        { "text": { "en": "A / A", "ru": "A / A" } },
+        {
+          "text": {
+            "en": "In CCS patients with no indication for oral anticoagulation, DAPT consisting of aspirin 75–100 mg and clopidogrel 75 mg daily for up to 6 months is recommended as the default antithrombotic strategy after PCI-stenting.",
+            "ru": "У пациентов с ХКС без показаний к пероральным антикоагулянтам ДАТТ аспирином 75–100 мг и клопидогрелом 75 мг/сут на срок до 6 месяцев рекомендуется в качестве стандартной (default) антитромботической стратегии после ЧКВ со стентированием."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "A", "ru": "A" } }
+      ]
+    },
+    {
+      "id": "r07-dapt-hbr-pci",
+      "cells": [
+        {
+          "text": {
+            "en": "Clopidogrel 75 mg daily following appropriate loading may be considered for 1 month in patients with very high risk of life-threatening bleeding.\nClopidogrel 75 mg daily following appropriate loading should be considered for 3 months in patients with a higher risk of life-threatening bleeding.",
+            "ru": "Клопидогрел 75 мг/сут после нагрузки может рассматриваться на 1 месяц при очень высоком риске жизнеугрожающего кровотечения.\nКлопидогрел 75 мг/сут следует рассматривать на 3 месяца у пациентов с повышенным риском жизнеугрожающих кровотечений."
+          }
+        },
+        { "text": { "en": "IIb / IIa", "ru": "IIb / IIa" } },
+        { "text": { "en": "C / A", "ru": "C / A" } },
+        {
+          "text": {
+            "en": "In patients at high bleeding risk but not at high ischaemic risk, it is recommended to discontinue DAPT 1–3 months after PCI and continue single antiplatelet therapy.",
+            "ru": "У пациентов с высоким риском кровотечений (HBR), но без высокого ишемического риска, рекомендуется прекратить ДАТТ через 1–3 месяца после ЧКВ и продолжить монотерапию антиагрегантом."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "A", "ru": "A" } }
+      ]
+    },
+    {
+      "id": "r08-dapt-shortening-low-risk",
+      "cells": [
+        {
+          "text": {
+            "en": "Standard default 6-month DAPT without prior short-course options for non-HBR patients.",
+            "ru": "Стандартная 6-месячная ДАТТ по умолчанию без опций укорочения у пациентов без HBR."
+          }
+        },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        {
+          "text": {
+            "en": "Stopping DAPT after 1–3 months from PCI-stenting may be considered in patients who are not at high bleeding risk nor at high risk of ischaemic events.",
+            "ru": "Прекращение ДАТТ через 1–3 месяца после ЧКВ со стентированием может быть рассмотрено у пациентов, не имеющих ни высокого риска кровотечений, ни высокого риска ишемических событий."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r09-af-ccs-oac",
+      "cells": [
+        {
+          "text": {
+            "en": "When oral anticoagulation is initiated in a patient with AF who is eligible for a NOAC, a NOAC is recommended in preference to a VKA.\nLong-term OAC therapy (NOAC or VKA with TTR >70%) is recommended in patients with AF and a CHA2DS2-VASc score ≥2 in males and ≥3 in females.\nLong-term OAC therapy should be considered in patients with AF and CHA2DS2-VASc score 1 in males and 2 in females.\nAspirin 75–100 mg daily (or clopidogrel 75 mg daily) may be considered in addition to long-term OAC in AF, history of MI, and at high risk of recurrent ischaemic events who do not have high bleeding risk.",
+            "ru": "При назначении ПОАК пациенту с ФП, которому подходит НОАК, НОАК рекомендуется предпочесть АВК.\nДлительная терапия ОАК рекомендуется при ФП и баллах CHA2DS2-VASc ≥2 у мужчин и ≥3 у женщин.\nДлительная ОАК должна рассматриваться при 1 балле у мужчин и 2 баллах у женщин.\nАспирин (или клопидогрел) может рассматриваться в дополнение к ОАК при ФП, перенесенном ИМ и высоком ишемическом риске без высокого риска кровотечений."
+          }
+        },
+        { "text": { "en": "I / I / IIa / IIb", "ru": "I / I / IIa / IIb" } },
+        { "text": { "en": "A / A / B / B", "ru": "A / A / B / B" } },
+        {
+          "text": {
+            "en": "In CCS patients with a long-term indication for OAC, an AF-therapeutic-dose of VKA alone or, preferably, of DOAC alone (unless contraindicated) is recommended lifelong.",
+            "ru": "У пациентов с ХКС с долгосрочными показаниями к ОАК терапевтическая доза АВК в режиме монотерапии или, предпочтительно, прямого орального антикоагулянта (DOAC) в режиме монотерапии рекомендуется пожизненно."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r10-af-pci-dual-therapy",
+      "cells": [
+        {
+          "text": {
+            "en": "After uncomplicated PCI, early cessation (≤1 week) of aspirin and continuation of dual therapy with an OAC and clopidogrel should be considered if the risk of stent thrombosis is low, or if concerns about bleeding risk prevail over concerns about the risk of stent thrombosis, irrespective of the type of stent used.",
+            "ru": "После неосложненного ЧКВ раннее прекращение (≤1 недели) аспирина и продолжение двойной терапии ОАК и клопидогрелом следует рассмотреть, если риск тромбоза стента низкий или опасения по поводу риска кровотечений преобладают над риском тромбоза стента."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "B", "ru": "B" } },
+        {
+          "text": {
+            "en": "After uncomplicated PCI in CCS patients with concomitant indication for OAC:\n• early cessation of aspirin (≤1 week);\n• followed by continuation of OAC and clopidogrel:\n  o up to 6 months in patients not at high ischaemic risk; or\n  o up to 12 months in patients at high ischaemic risk;\n• followed by OAC alone; is recommended.",
+            "ru": "После неосложненного ЧКВ у пациентов с ХКС с сопутствующими показаниями к ОАК рекомендуется:\n• ранняя отмена аспирина (≤1 недели);\n• с последующим продолжением ОАК и клопидогрела:\n  o до 6 месяцев у пациентов без высокого ишемического риска; или\n  o до 12 месяцев у пациентов с высоким ишемическим риском;\n• с последующим переходом на монотерапию ОАК."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "A", "ru": "A" } }
+      ]
+    },
+    {
+      "id": "r11-af-pci-triple-therapy",
+      "cells": [
+        {
+          "text": {
+            "en": "Triple therapy with aspirin, clopidogrel, and an OAC for ≥1 month should be considered when the risk of stent thrombosis outweighs the bleeding risk, with the total duration (≤6 months) decided according to assessment of these risks and clearly specified at hospital discharge.",
+            "ru": "Тройная терапия аспирином, клопидогрелом и ОАК на срок ≥1 месяца должна рассматриваться, когда риск тромбоза стента превышает риск кровотечений, с определением общей длительности (≤6 месяцев) по оценке этих рисков."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "Continuation of aspirin up to 1 month after PCI, in addition to OAC and clopidogrel, should be considered in patients at high thrombotic risk or with anatomical/procedural characteristics judged to outweigh the bleeding risk.",
+            "ru": "Продолжение приема аспирина на срок до 1 месяца после ЧКВ в дополнение к ОАК и клопидогрелу следует рассмотреть у пациентов с высоким тромботическим риском или с анатомическими/процедурными характеристиками, превышающими риск кровотечений."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r12-statins-intensity",
+      "cells": [
+        {
+          "text": {
+            "en": "Statins are recommended in all patients with CCS.",
+            "ru": "Статины рекомендуются всем пациентам с ХКС."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "A", "ru": "A" } },
+        {
+          "text": {
+            "en": "A high-intensity statin up to the highest tolerated dose to reach the LDL-C goals is recommended for all patients with CCS.",
+            "ru": "Высокоинтенсивная терапия статинами в максимальной переносимой дозе для достижения целевых уровней ХС-ЛПНП рекомендуется всем пациентам с ХКС."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "A", "ru": "A" } }
+      ]
+    },
+    {
+      "id": "r13-anoca-inoca-testing",
+      "cells": [
+        {
+          "text": {
+            "en": "Guidewire-based CFR and/or microcirculatory resistance measurements should be considered in patients with persistent symptoms, but coronary arteries that are either angiographically normal or have moderate stenoses with preserved iwFR/FFR.\nIntracoronary acetylcholine with ECG monitoring may be considered during angiography, if coronary arteries are either angiographically normal or have moderate stenoses with preserved iwFR/FFR, to assess microvascular vasospasm.",
+            "ru": "Проводниковое измерение CFR и/или микроциркуляторного сопротивления следует рассматривать при персистирующих симптомах, но нормальных артериях или умеренных стенозах с сохранным FFR/iFR.\nВнутрикоронарное введение ацетилхолина с ЭКГ-мониторингом может рассматриваться при ангиографии для оценки микрососудистого вазоспазма."
+          }
+        },
+        { "text": { "en": "IIa / IIb", "ru": "IIa / IIb" } },
+        { "text": { "en": "B / B", "ru": "B / B" } },
+        {
+          "text": {
+            "en": "In persistently symptomatic patients despite medical treatment with suspected ANOCA/INOCA (i.e. anginal symptoms with normal coronary arteries or non-obstructive lesions at non-invasive imaging, or intermediate stenoses with normal FFR/iFR at coronary arteriography) and poor quality of life, invasive coronary functional testing is recommended to identify potentially treatable endotypes and to improve symptoms and quality of life, considering patient choices and preferences.",
+            "ru": "У пациентов с персистирующими симптомами, несмотря на медикаментозное лечение, с подозрением на ANOCA/INOCA и низким качеством жизни рекомендуется инвазивное функциональное тестирование коронарного русла для идентификации курабельных эндотипов и улучшения симптомов и качества жизни с учетом предпочтений пациента."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r14-vasospastic-st-monitoring",
+      "cells": [
+        {
+          "text": {
+            "en": "Ambulatory ST-segment monitoring should be considered to identify ST-segment deviation in the absence of increased heart rate.",
+            "ru": "Амбулаторное мониторирование сегмента ST должно рассматриваться для выявления девиации сегмента ST в отсутствие прироста ЧСС."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "In individuals with suspected vasospastic angina and frequent symptoms, ambulatory ST-segment monitoring should be considered to identify ST-segment deviation during angina.",
+            "ru": "У лиц с подозрением на вазоспастическую стенокардию и частыми симптомами амбулаторное мониторирование сегмента ST следует рассмотреть для выявления отклонений ST во время приступа стенокардии."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r15-asymptomatic-screening",
+      "cells": [
+        {
+          "text": {
+            "en": "Total risk estimation using a risk-estimation system such as SCORE is recommended for asymptomatic adults >40 years of age without evidence of CVD, diabetes, CKD, or familial hypercholesterolaemia.",
+            "ru": "Оценка суммарного риска по системе SCORE рекомендуется для бессимптомных взрослых старше 40 лет без признаков ССЗ, диабета, ХБП или семейной гиперхолестеринемии."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "C", "ru": "C" } },
+        {
+          "text": {
+            "en": "Opportunistic screening of healthy individuals for cardiovascular risk factors and to estimate risk of future cardiovascular events using scoring systems, e.g. SCORE2 and SCORE2-OP, is recommended to detect individuals at high risk and guide treatment decisions.",
+            "ru": "Оппортунистический скрининг практически здоровых лиц на факторы сердечно-сосудистого риска и оценка риска будущих кардиоваскулярных событий с использованием шкал (SCORE2 и SCORE2-OP) рекомендуется для выявления лиц высокого риска и определения терапевтической тактики."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r16-disease-progression-testing",
+      "cells": [
+        {
+          "text": {
+            "en": "Risk stratification is recommended in patients with new or worsening symptom levels, preferably using stress imaging or, alternatively, exercise stress ECG.",
+            "ru": "Стратификация риска рекомендуется у пациентов с впервые возникшими или прогрессирующими симптомами, предпочтительно с использованием стресс-визуализации или, альтернативно, нагрузочной ЭКГ."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "B", "ru": "B" } },
+        {
+          "text": {
+            "en": "Risk stratification is recommended in patients with new or worsening symptoms, preferably using stress imaging.",
+            "ru": "Стратификация риска рекомендуется у пациентов с новыми или ухудшающимися симптомами, предпочтительно с использованием стресс-визуализации."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "C", "ru": "C" } }
+      ]
+    },
+    {
+      "id": "r17-revasc-lvef-low",
+      "cells": [
+        {
+          "text": {
+            "en": "In patients with one- or two-vessel disease, PCI should be considered as an alternative to CABG when complete revascularization can be achieved.\nIn patients with three-vessel disease, PCI should be considered based on the evaluation by the Heart Team of the patient's coronary anatomy, the expected completeness of revascularization, diabetes status, and comorbidities.",
+            "ru": "У пациентов с 1- или 2-сосудистым поражением ЧКВ следует рассматривать как альтернативу КШ при достижении полной реваскуляризации.\nУ пациентов с трехсосудистым поражением ЧКВ следует рассматривать на основе оценки Heart Team анатомии, полноты реваскуляризации, диабета и коморбидности."
+          }
+        },
+        { "text": { "en": "IIa / IIa", "ru": "IIa / IIa" } },
+        { "text": { "en": "C / C", "ru": "C / C" } },
+        {
+          "text": {
+            "en": "In selected CCS patients with functionally significant MVD and LVEF ≤35% who are at high surgical risk or not operable, PCI may be considered as an alternative to CABG.",
+            "ru": "У отобранных пациентов с ХКС с функционально значимым многососудистым поражением и ФВ ЛЖ ≤35%, имеющих высокий хирургический риск или признанных неоперабельными, ЧКВ может быть рассмотрено в качестве альтернативы КШ."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r18-revasc-left-main-low-syntax",
+      "cells": [
+        {
+          "text": {
+            "en": "Left main disease with low SYNTAX score (0–22), PCI is recommended.",
+            "ru": "Поражение ствола ЛКА с низким индексом SYNTAX (0–22): рекомендуется ЧКВ."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "A", "ru": "A" } },
+        {
+          "text": {
+            "en": "In CCS patients with significant left main coronary stenosis of low complexity (SYNTAX score ≤22), in whom PCI can provide equivalent completeness of revascularization to that of CABG, PCI is recommended as an alternative to CABG, given its lower invasiveness and non-inferior survival.",
+            "ru": "У пациентов с ХКС со значимым стенозом ствола ЛКА низкой анатомической сложности (индекс SYNTAX ≤22), у которых ЧКВ обеспечивает эквивалентную полноту реваскуляризации по сравнению с КШ, ЧКВ рекомендуется как альтернатива КШ с учетом меньшей инвазивности и сопоставимой выживаемости."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "A", "ru": "A" } }
+      ]
+    },
+    {
+      "id": "r19-revasc-left-main-intermediate-syntax",
+      "cells": [
+        {
+          "text": {
+            "en": "Left main disease with intermediate SYNTAX score (23–32), PCI should be considered.",
+            "ru": "Поражение ствола ЛКА с промежуточным индексом SYNTAX (23–32): следует рассмотреть ЧКВ."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "A", "ru": "A" } },
+        {
+          "text": {
+            "en": "In CCS patients with significant left main coronary stenosis of intermediate complexity (SYNTAX score 23–32), in whom PCI can provide equivalent completeness of revascularization to that of CABG, PCI should be considered, given its lower invasiveness and non-inferior survival.",
+            "ru": "У пациентов с ХКС со значимым стенозом ствола ЛКА промежуточной сложности (индекс SYNTAX 23–32), у которых ЧКВ обеспечивает эквивалентную полноту реваскуляризации, ЧКВ следует рассматривать с учетом меньшей инвазивности и сопоставимой выживаемости."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "A", "ru": "A" } }
+      ]
+    },
+    {
+      "id": "r20-revasc-left-main-mvd-high-syntax",
+      "cells": [
+        {
+          "text": {
+            "en": "For left main disease with high SYNTAX score (≥33), PCI is not recommended.",
+            "ru": "При поражении ствола ЛКА с высоким индексом SYNTAX (≥33) ЧКВ не рекомендуется."
+          }
+        },
+        { "text": { "en": "III", "ru": "III" } },
+        { "text": { "en": "B", "ru": "B" } },
+        {
+          "text": {
+            "en": "In CCS patients at high surgical risk, PCI may be considered over medical therapy alone.",
+            "ru": "У пациентов с ХКС с высоким хирургическим риском ЧКВ может быть рассмотрено вместо изолированной медикаментозной терапии."
+          }
+        },
+        { "text": { "en": "IIb", "ru": "IIb" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r21-revasc-mvd-diabetes",
+      "cells": [
+        {
+          "text": {
+            "en": "For CCS patients with diabetes and three-vessel disease with low SYNTAX score 0–22, PCI may be considered.\nFor CCS patients with diabetes and three-vessel disease with intermediate or high SYNTAX score (>22), PCI is not recommended.",
+            "ru": "У пациентов с ХКС, диабетом и трехсосудистым поражением с низким SYNTAX (0–22) ЧКВ может рассматриваться.\nУ пациентов с диабетом и трехсосудистым поражением с промежуточным или высоким SYNTAX (>22) ЧКВ не рекомендуется."
+          }
+        },
+        { "text": { "en": "IIb / III", "ru": "IIb / III" } },
+        { "text": { "en": "A / A", "ru": "A / A" } },
+        {
+          "text": {
+            "en": "In CCS patients at very high surgical risk, PCI should be considered over medical therapy alone to reduce symptoms and adverse outcomes.",
+            "ru": "У пациентов с ХКС с очень высоким хирургическим риском ЧКВ следует рассмотреть вместо изолированной медикаментозной терапии для уменьшения симптомов и неблагоприятных исходов."
+          }
+        },
+        { "text": { "en": "IIa", "ru": "IIa" } },
+        { "text": { "en": "B", "ru": "B" } }
+      ]
+    },
+    {
+      "id": "r22-revasc-proximal-lad",
+      "cells": [
+        {
+          "text": {
+            "en": "For one or two-vessel disease with proximal LAD stenosis, CABG, or PCI are recommended.",
+            "ru": "При 1- или 2-сосудистом поражении со стенозом проксимальной ПМЖВ рекомендуются КШ или ЧКВ."
+          }
+        },
+        { "text": { "en": "I", "ru": "I" } },
+        { "text": { "en": "A", "ru": "A" } },
+        {
+          "text": {
+            "en": "In CCS patients with significant single- or double-vessel disease involving the proximal LAD and insufficient response to guideline-directed medical therapy, CABG or PCI is recommended over medical therapy alone to improve symptoms and outcomes.\nIn CCS patients with complex significant single- or double-vessel disease involving the proximal LAD, less amenable to PCI, and insufficient response to guideline-directed medical therapy, CABG is recommended over PCI to improve symptoms and reduce revascularization rates.",
+            "ru": "У пациентов с ХКС со значимым 1- или 2-сосудистым поражением с вовлечением проксимальной ПМЖВ и недостаточным ответом на ОМТ рекомендуются КШ или ЧКВ вместо изолированной медикаментозной терапии для улучшения симптомов и исходов.\nПри сложном анатомическом поражении проксимальной ПМЖВ, менее подходящем для ЧКВ, КШ рекомендуется предпочесть ЧКВ для уменьшения симптомов и частоты повторных реваскуляризаций."
+          }
+        },
+        { "text": { "en": "I / I", "ru": "I / I" } },
+        { "text": { "en": "A / B", "ru": "A / B" } }
+      ]
+    },
+    {
+      "id": "r23-revasc-no-proximal-lad",
+      "cells": [
+        {
+          "text": {
+            "en": "For one or two-vessel disease without proximal LAD stenosis PCI is recommended.\nFor one or two-vessel disease without proximal LAD stenosis, CABG may be considered.",
+            "ru": "При 1- или 2-сосудистом поражении без стеноза проксимальной ПМЖВ рекомендуется ЧКВ.\nПри 1- или 2-сосудистом поражении без стеноза проксимальной ПМЖВ может рассматриваться КШ."
+          }
+        },
+        { "text": { "en": "I / IIb", "ru": "I / IIb" } },
+        { "text": { "en": "C / C", "ru": "C / C" } },
+        {
+          "text": {
+            "en": "In symptomatic CCS patients with single- or double-vessel disease not involving the proximal LAD and with insufficient response to guideline-directed medical therapy, PCI is recommended to improve symptoms.\nIn symptomatic CCS patients with single- or double-vessel disease not involving the proximal LAD and with insufficient response to guideline-directed medical therapy, not amenable to revascularization by PCI, CABG may be considered to improve symptoms.",
+            "ru": "У симптомных пациентов с ХКС с 1- или 2-сосудистым поражением без вовлечения проксимальной ПМЖВ и недостаточным ответом на ОМТ рекомендуется ЧКВ для уменьшения симптомов.\nУ симптомных пациентов с ХКС с 1- или 2-сосудистым поражением без вовлечения проксимальной ПМЖВ при недостаточном ответе на ОМТ и невозможности выполнения ЧКВ может быть рассмотрено КШ для облегчения симптомов."
+          }
+        },
+        { "text": { "en": "I / IIb", "ru": "I / IIb" } },
+        { "text": { "en": "B / C", "ru": "B / C" } }
+      ]
+    }
+  ]
+}

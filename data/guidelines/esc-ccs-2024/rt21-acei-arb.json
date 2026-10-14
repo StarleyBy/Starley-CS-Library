@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt21-acei-arb",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 21",
+  "title": {
+    "en": "Recommendations for angiotensin-converting enzyme inhibitors in patients with chronic coronary syndrome",
+    "ru": "Рекомендации по ингибиторам ангиотензинпревращающего фермента у пациентов с хроническим коронарным синдромом"
+  },
+  "tags": [
+    "ccs",
+    "ace-i",
+    "arb",
+    "hypertension",
+    "diabetes",
+    "heart-failure",
+    "high-risk"
+  ],
+  "source": {
+    "page": 51
+  },
+  "sections": [
+    {
+      "id": "sec-acei-arb-general",
+      "title": {
+        "en": "ACE inhibitors and ARBs in CCS",
+        "ru": "Ингибиторы АПФ и БРА при ХКС"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In CCS patients, ACE-Is (or ARBs) are recommended in the presence of specific comorbidities, such as hypertension, diabetes, or heart failure.",
+            "ru": "У пациентов с ХКС ингибиторы АПФ (или БРА) рекомендуются при наличии определенных сопутствующих состояний, таких как артериальная гипертензия, сахарный диабет или сердечная недостаточность."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "ACE-Is should be considered in CCS patients at very high risk of cardiovascular events.",
+            "ru": "Ингибиторы АПФ следует рассмотреть у пациентов с ХКС, имеющих очень высокий риск сердечно-сосудистых событий."
+          },
+          "class": "IIa",
+          "level": "A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.t11-high-risk-features-ischaemic",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Table 9",
+  "title": {
+    "en": "High-risk features for ischaemic events",
+    "ru": "Факторы высокого риска ишемических событий"
+  },
+  "type": "grid",
+  "columns": [
+    {
+      "id": "num",
+      "title": {
+        "en": "No.",
+        "ru": "№"
+      }
+    },
+    {
+      "id": "feature",
+      "title": {
+        "en": "High-risk feature",
+        "ru": "Критерий высокого риска"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "f01",
+      "cells": [
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        },
+        {
+          "text": {
+            "en": "Prior stent thrombosis on adequate antiplatelet therapy",
+            "ru": "Тромбоз стента в анамнезе на фоне адекватной антитромбоцитарной терапии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f02",
+      "cells": [
+        {
+          "text": {
+            "en": "2",
+            "ru": "2"
+          }
+        },
+        {
+          "text": {
+            "en": "Stenting of the last remaining patent coronary artery",
+            "ru": "Стентирование единственной сохранной коронарной артерии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f03",
+      "cells": [
+        {
+          "text": {
+            "en": "3",
+            "ru": "3"
+          }
+        },
+        {
+          "text": {
+            "en": "Diffuse multivessel disease, especially in diabetic patients",
+            "ru": "Диффузное многососудистое поражение, особенно у пациентов с сахарным диабетом"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f04",
+      "cells": [
+        {
+          "text": {
+            "en": "4",
+            "ru": "4"
+          }
+        },
+        {
+          "text": {
+            "en": "Chronic kidney disease (i.e. creatinine clearance <60 mL/min)",
+            "ru": "Хроническая болезнь почек (клиренс креатинина <60 мл/мин)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f05",
+      "cells": [
+        {
+          "text": {
+            "en": "5",
+            "ru": "5"
+          }
+        },
+        {
+          "text": {
+            "en": "At least three stents implanted",
+            "ru": "Имплантация трех и более стентов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f06",
+      "cells": [
+        {
+          "text": {
+            "en": "6",
+            "ru": "6"
+          }
+        },
+        {
+          "text": {
+            "en": "At least three lesions treated",
+            "ru": "Лечение трех и более поражений"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f07",
+      "cells": [
+        {
+          "text": {
+            "en": "7",
+            "ru": "7"
+          }
+        },
+        {
+          "text": {
+            "en": "Bifurcation with two stents implanted",
+            "ru": "Бифуркационное поражение с имплантацией двух стентов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f08",
+      "cells": [
+        {
+          "text": {
+            "en": "8",
+            "ru": "8"
+          }
+        },
+        {
+          "text": {
+            "en": "Total stented length >60 mm",
+            "ru": "Общая длина стентированного сегмента >60 мм"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f09",
+      "cells": [
+        {
+          "text": {
+            "en": "9",
+            "ru": "9"
+          }
+        },
+        {
+          "text": {
+            "en": "Treatment of a chronic total occlusion",
+            "ru": "Рекреанализация/лечение хронической тотальной окклюзии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f10",
+      "cells": [
+        {
+          "text": {
+            "en": "10",
+            "ru": "10"
+          }
+        },
+        {
+          "text": {
+            "en": "History of STEMI",
+            "ru": "Инфаркт миокарда с подъемом сегмента ST в анамнезе"
+          }
+        }
+      ]
+    }
+  ]
+}

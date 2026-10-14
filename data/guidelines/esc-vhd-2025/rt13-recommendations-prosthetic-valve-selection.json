@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt13-recommendations-prosthetic-valve-selection",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 13",
+  "title": {
+    "en": "Recommendations for prosthetic valve selection",
+    "ru": "Рекомендации по выбору типа искусственного клапана сердца (механический или биологический протез)"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-valves",
+    "mhv",
+    "bhv",
+    "valve-selection",
+    "mechanical-valve",
+    "biological-valve",
+    "anticoagulation",
+    "pregnancy",
+    "age"
+  ],
+  "sections": [
+    {
+      "id": "sec-mechanical-heart-valve",
+      "title": {
+        "en": "Mechanical heart valve",
+        "ru": "Механический протез клапана сердца (MHV)"
+      },
+      "rows": [
+        {
+          "id": "r01-mhv-informed-desire",
+          "text": {
+            "en": "An MHV is recommended according to the desire of the informed patient and if there is no contraindication to long-term anticoagulation.",
+            "ru": "Механический протез рекомендуется в соответствии с желанием информированного пациента и при отсутствии противопоказаний к длительной антикоагулянтной терапии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02-mhv-long-life-expectancy",
+          "text": {
+            "en": "An MHV should be considered in patients with an estimated long life expectancy,^[c] if there are no contraindications for long-term OAC.",
+            "ru": "Механический протез следует рассматривать у пациентов с большой ожидаемой продолжительностью жизни^[c] при отсутствии противопоказаний к длительной пероральной антикоагулянтной терапии (ОАК)."
+          },
+          "refs": [801, 807, 808, 809, 810, 811],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r03-mhv-age-thresholds",
+          "text": {
+            "en": "An MHV should be considered in patients aged <60 years for prostheses in the aortic position and aged <65 years for prostheses in the mitral position.",
+            "ru": "Механический протез следует рассматривать у пациентов в возрасте <60 лет при протезировании в аортальной позиции и в возрасте <65 лет при протезировании в митральной позиции."
+          },
+          "refs": [801, 807, 808, 809, 810, 811],
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04-mhv-preexisting-mhv",
+          "text": {
+            "en": "An MHV should be considered in patients with a pre-existing MHV in another position.",
+            "ru": "Механический протез следует рассматривать у пациентов с уже имеющимся механическим протезом в другой позиции."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05-mhv-indication-oac",
+          "text": {
+            "en": "An MHV may be considered in patients with a clear indication for long-term OAC.",
+            "ru": "Механический протез можно рассматривать у пациентов с четкими показаниями к длительной пероральной антикоагулянтной терапии."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-biological-heart-valve",
+      "title": {
+        "en": "Biological heart valve",
+        "ru": "Биологический протез клапана сердца (BHV)"
+      },
+      "rows": [
+        {
+          "id": "r06-bhv-informed-desire",
+          "text": {
+            "en": "A BHV is recommended according to the desire of the informed patient.",
+            "ru": "Биологический протез рекомендуется в соответствии с желанием информированного пациента."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r07-bhv-bleeding-risk-short-life-expectancy",
+          "text": {
+            "en": "A BHV is recommended when an adequate quality of anticoagulation with VKA is unlikely, in patients at high bleeding risk, or with estimated short life expectancy.^[c]",
+            "ru": "Биологический протез рекомендуется, когда достижение адекватного качества антикоагуляции АВК маловероятно, у пациентов с высоким риском кровотечений или с короткой ожидаемой продолжительностью жизни.^[c]"
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08-bhv-age-thresholds",
+          "text": {
+            "en": "A BHV should be considered in patients aged >65 years for prostheses in the aortic position or aged >70 years for prostheses in the mitral position.",
+            "ru": "Биологический протез следует рассматривать у пациентов в возрасте >65 лет при протезировании в аортальной позиции или в возрасте >70 лет при протезировании в митральной позиции."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r09-bhv-pregnancy",
+          "text": {
+            "en": "A BHV should be considered in women contemplating pregnancy.",
+            "ru": "Биологический протез следует рассматривать у женщин, планирующих беременность."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Life expectancy should be estimated according to age, sex, comorbidities, ethnicity, and geographical area.",
+      "ru": "Ожидаемая продолжительность жизни должна оцениваться с учетом возраста, пола, коморбидности, этнической принадлежности и региона проживания."
+    }
+  }
+}

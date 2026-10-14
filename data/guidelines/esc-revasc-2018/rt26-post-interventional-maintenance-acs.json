@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt26-post-interventional-maintenance-acs",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 26",
+  "title": {
+    "en": "Recommendations for post-interventional and maintenance treatment in patients with NSTE-ACS and STEMI undergoing percutaneous coronary intervention",
+    "ru": "Рекомендации по послепроцедурной и поддерживающей терапии у пациентов с ОКСбпST и ИМпST, подвергающихся чрескожному коронарному вмешательству"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Post-interventional and maintenance antithrombotic treatment in ACS",
+        "ru": "Поддерживающая антитромботическая терапия при ОКС"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with ACS treated with coronary stent implantation, DAPT with a P2Y12 inhibitor on top of aspirin is recommended for 12 months unless there are contraindications such as an excessive risk of bleeding (e.g. PRECISE-DAPT ≥25).",
+            "ru": "У пациентов с ОКС после имплантации коронарного стента ДАТТ ингибитором P2Y12 в дополнение к АСК рекомендуется в течение 12 месяцев при отсутствии противопоказаний (чрезмерный риск кровотечений, например PRECISE-DAPT ≥25)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with ACS and stent implantation who are at high risk of bleeding (e.g. PRECISE-DAPT ≥25), discontinuation of P2Y12 inhibitor therapy after 6 months should be considered.",
+            "ru": "У пациентов с ОКС и стентированием с высоким риском кровотечений (например, PRECISE-DAPT ≥25) следует рассмотреть отмену ингибитора P2Y12 через 6 месяцев."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients with ACS treated with BRS, DAPT should be considered for at least 12 months and up to the presumed full absorption of the BRS, based on an individual assessment of bleeding and ischaemic risk.",
+            "ru": "У пациентов с ОКС, леченных с применением BRS, ДАТТ следует рассмотреть не менее чем на 12 месяцев и до предполагаемой полной резорбции каркаса с учетом индивидуального баланса риска кровотечений и ишемии."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "De-escalation of P2Y12 inhibitor treatment (e.g. with a switch from prasugrel or ticagrelor to clopidogrel) guided by platelet function testing may be considered as an alternative DAPT strategy, especially for ACS patients deemed unsuitable for 12-month potent platelet inhibition.",
+            "ru": "Деэскалация терапии ингибиторами P2Y12 (например, переход с прасугрела или тикагрелора на клопидогрел) под контролем функциональных тестов тромбоцитов может рассматриваться как альтернативная стратегия ДАТТ, особенно для пациентов с ОКС, которым противопоказано мощное 12-месячное ингибирование тромбоцитов."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients with ACS who have tolerated DAPT without a bleeding complication, continuation of DAPT for longer than 12 months may be considered.",
+            "ru": "У пациентов с ОКС, перенесших ДАТТ без геморрагических осложнений, может быть рассмотрено продление ДАТТ на срок более 12 месяцев."
+          },
+          "class": "IIb",
+          "level": "A"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In patients with MI and high ischaemic risk (defined as ≥50 years of age and having one of the following additional high-risk features: age ≥65 years, diabetes requiring medication, a second prior spontaneous MI, multivessel CAD, or chronic renal dysfunction with eCrCl <60 mL/min) who have tolerated DAPT without a bleeding complication, ticagrelor 60 mg b.i.d. for longer than 12 months on top of aspirin may be preferred over clopidogrel or prasugrel.",
+            "ru": "У пациентов с ИМ и высоким ишемическим риском (возраст ≥50 лет плюс один из дополнительных факторов: возраст ≥65 лет, диабет на медикаментозной терапии, второй спонтанный ИМ в анамнезе, многососудистая ИБС или ХБП с клиренсом креатинина <60 мл/мин), хорошо перенесших ДАТТ без кровотечений, продление терапии тикагрелором в дозе 60 мг 2 раза/сут на срок >12 месяцев в дополнение к АСК может быть предпочтительнее клопидогрела или прасугрела."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "In ACS patients with no prior stroke/TIA, and at high ischaemic risk as well as low bleeding risk, receiving aspirin and clopidogrel, low-dose rivaroxaban (2.5 mg b.i.d. for approximately 1 year) may be considered after discontinuation of parenteral anticoagulation.",
+            "ru": "У пациентов с ОКС без инсульта/ТИА в анамнезе, с высоким ишемическим и низким геморрагическим риском, получающих АСК и клопидогрел, низкие дозы ривароксабана (2,5 мг 2 раза в сутки на срок около 1 года) могут быть рассмотрены после прекращения парентеральной антикоагуляции."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

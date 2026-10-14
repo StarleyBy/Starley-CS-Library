@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.rt08-follow-up",
+  "guidelineId": "esc-pe-2019",
+  "number": "Section 10.4",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for follow-up after acute pulmonary embolism",
+    "ru": "Рекомендации по диспансерному наблюдению после перенесенной острой ТЭЛА"
+  },
+  "sections": [
+    {
+      "id": "s01-follow-up-recommendations",
+      "title": {
+        "en": "Follow-up after acute PE",
+        "ru": "Наблюдение после острой ТЭЛА"
+      },
+      "rows": [
+        {
+          "id": "r01-routine-clinical-eval-3-6-months",
+          "text": {
+            "en": "Routine clinical evaluation of patients 3–6 months after the acute PE episode is recommended.",
+            "ru": "Регулярная клиническая оценка пациентов через 3–6 месяцев после острого эпизода ТЭЛА рекомендуется (для оценки симптомов рецидива, кровотечений, онкопатологии, стойкого или нового ограничения физической нагрузки, а также для решения вопроса о продлении антикоагулянтной терапии)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [288, 352, 353, 437]
+        },
+        {
+          "id": "r02-integrated-care-model",
+          "text": {
+            "en": "An integrated model of patient care after PE (involving hospital specialists, appropriately qualified nurses, and primary care physicians) is recommended to ensure optimal transition from hospital to community care.",
+            "ru": "Интегрированная модель ведения пациентов после ТЭЛА (с участием профильных врачей стационара, квалифицированных медсестер и врачей первичного звена) рекомендуется для обеспечения оптимального перехода от стационарной к амбулаторной помощи."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03-cteph-referral-mismatched-defects",
+          "text": {
+            "en": "In symptomatic patients with mismatched perfusion defects persisting on V/Q scan (or dual-energy CT) beyond 3 months after acute PE, referral to a PH/CTEPH expert centre is recommended, after taking into account the results of echocardiography, natriuretic peptide levels, and/or CPET.",
+            "ru": "У симптомных пациентов с сохраняющимися несоответствующими перфузионными дефектами по данным сцинтиграфии V/Q (или двухэнергетической КТ) через более чем 3 месяца после острой ТЭЛА рекомендуется направление в экспертный центр ЛГ/ХТЛГ с учетом результатов эхокардиографии, уровня натрийуретических пептидов и/или кардиопульмонального нагрузочного теста (CPET)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [477]
+        },
+        {
+          "id": "r04-further-eval-symptomatic",
+          "text": {
+            "en": "Further diagnostic evaluation should be considered in patients with persistent or new-onset dyspnoea/exercise limitation after PE.",
+            "ru": "Дальнейшее диагностическое обследование следует рассматривать у пациентов с сохраняющейся или впервые возникшей одышкой / ограничением толерантности к физической нагрузке после ТЭЛА."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05-further-eval-asymptomatic-cteph-risk",
+          "text": {
+            "en": "Further diagnostic evaluation may be considered in asymptomatic patients with risk factors for CTEPH.",
+            "ru": "Дальнейшее диагностическое обследование может рассматриваться у бессимптомных пациентов при наличии факторов риска развития ХТЛГ."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [447, 448, 449, 478]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "follow-up",
+    "cteph",
+    "dyspnoea",
+    "vq-scan",
+    "cpet",
+    "integrated-care",
+    "pe"
+  ]
+}

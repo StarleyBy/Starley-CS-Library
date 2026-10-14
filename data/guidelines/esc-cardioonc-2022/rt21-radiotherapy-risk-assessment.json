@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt21-radiotherapy-risk-assessment",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 21",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 21 — Recommendations for baseline risk assessment of patients before radiotherapy to a volume including the heart",
+    "ru": "Таблица рекомендаций 21 — Рекомендации по исходной оценке риска пациентов перед лучевой терапией на область, включающую сердце"
+  },
+  "tags": [
+    "cardio-oncology",
+    "radiotherapy",
+    "rt",
+    "radiation-heart-disease",
+    "score2",
+    "cv-risk",
+    "tte"
+  ],
+  "source": {
+    "page": 47
+  },
+  "sections": [
+    {
+      "id": "sec01-rt",
+      "title": {
+        "en": "Radiotherapy to a volume including the heart",
+        "ru": "Лучевая терапия на объем, включающий сердце"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Baseline CV risk assessment (BP, lipids, fasting glucose, HbA1c, ECG, and lifestyle education) and estimation of 10-year fatal and non-fatal CVD risk with SCORE2 or SCORE2-OP is recommended.",
+            "ru": "Исходная оценка сердечно-сосудистого риска (АД, липиды, глюкоза натощак, HbA1c, ЭКГ и обучение здоровому образу жизни) и оценка 10-летнего риска фатальных и нефатальных сердечно-сосудистых событий по шкале SCORE2 или SCORE2-OP рекомендуется."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Baseline echocardiography should be considered in patients with previous CVD before RT to a volume including the heart.",
+            "ru": "Исходную эхокардиографию следует рассмотреть пациентам с предшествующими сердечно-сосудистыми заболеваниями перед проведением лучевой терапии на область, включающую сердце."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

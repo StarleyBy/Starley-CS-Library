@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt20-car-t-til-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 20",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 20 — Recommendations for baseline risk assessment and monitoring in patients receiving chimeric antigen receptor T cell and tumour-infiltrating lymphocytes therapies",
+    "ru": "Таблица рекомендаций 20 — Рекомендации по исходной оценке риска и мониторингу у пациентов, получающих CAR-T клеточную терапию и опухоль-инфильтрирующие лимфоциты (TIL)"
+  },
+  "tags": [
+    "cardio-oncology",
+    "car-t",
+    "til",
+    "cytokine-release-syndrome",
+    "crs",
+    "astct",
+    "tte",
+    "biomarkers",
+    "troponin",
+    "np"
+  ],
+  "source": {
+    "page": 45
+  },
+  "sections": [
+    {
+      "id": "sec01-car-t-til",
+      "title": {
+        "en": "CAR-T and TIL therapies",
+        "ru": "Терапия CAR-T и TIL клетками"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Baseline ECG, NP, and cTn are recommended in all patients with cancer before starting CAR-T and TIL therapies.",
+            "ru": "Исходная ЭКГ, определение натрийуретических пептидов (NP) и сердечных тропонинов (cTn) рекомендуются всем пациентам перед началом терапии CAR-T и TIL."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "A baseline echocardiography is recommended in patients with pre-existing CVD before starting CAR-T and TIL therapies.",
+            "ru": "Исходная эхокардиография рекомендуется пациентам с предшествующими ССЗ перед началом терапии CAR-T и TIL."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "A baseline echocardiography should be considered before starting CAR-T and TIL therapies.",
+            "ru": "Исходную эхокардиографию следует рассмотреть перед началом терапии CAR-T и TIL."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Measurement of NP, cTn, and echocardiography are recommended in patients who develop cytokine release syndrome (CRS) of ASTCT grade ≥2 (Grade 2: fever and hypotension not requiring vasopressors and/or hypoxia requiring low-flow O2; Grade 3-4: requiring vasopressors/high-flow O2 or mechanical ventilation).",
+            "ru": "Определение NP, cTn и эхокардиография рекомендуются пациентам, у которых развивается синдром выброса цитокинов (CRS) по классификации ASTCT ≥2 степени (2-я ст.: лихорадка и гипотензия без вазопрессоров и/или гипоксия с низкопоточной оксигенотерапией; 3–4 ст.: потребность в вазопрессорах, высокопоточной оксигенации или ИВЛ)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

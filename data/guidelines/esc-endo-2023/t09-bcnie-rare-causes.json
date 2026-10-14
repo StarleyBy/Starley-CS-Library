@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.t09-bcnie-rare-causes",
+  "guidelineId": "esc-endo-2023",
+  "number": "Table 9",
+  "type": "grid",
+  "title": {
+    "en": "Table 9 — Investigation of rare causes of blood culture-negative infective endocarditis",
+    "ru": "Таблица 9 — Диагностический поиск редких причин инфекционного эндокардита с отрицательной культурой крови (BCNIE)"
+  },
+  "tags": [
+    "endocarditis",
+    "bcnie",
+    "blood-culture-negative",
+    "brucella",
+    "coxiella",
+    "bartonella",
+    "whipple",
+    "mycoplasma",
+    "legionella",
+    "fungi",
+    "mycobacteria"
+  ],
+  "columns": [
+    {
+      "id": "c_pathogen",
+      "title": {
+        "en": "Pathogen",
+        "ru": "Возбудитель"
+      }
+    },
+    {
+      "id": "c_diagnostics",
+      "title": {
+        "en": "Diagnostic procedures",
+        "ru": "Диагностические методы исследования"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-brucella",
+      "cells": [
+        { "text": { "en": "Brucella spp.", "ru": "Brucella spp." } },
+        { "text": { "en": "Serology, blood cultures, tissue culture, immunohistology, and 16S rRNA sequencing of tissue", "ru": "Серология, посев крови, культура ткани, иммуногистология и секвенирование 16S рРНК ткани" } }
+      ]
+    },
+    {
+      "id": "r02-coxiella",
+      "cells": [
+        { "text": { "en": "C. burnetii", "ru": "Coxiella burnetii" } },
+        { "text": { "en": "Serology (IgG phase I >1:800), tissue culture, immunohistology, and 16S rRNA sequencing of tissue", "ru": "Серология (титр IgG к фазе I >1:800), культура ткани, иммуногистология и секвенирование 16S рРНК ткани" } }
+      ]
+    },
+    {
+      "id": "r03-bartonella",
+      "cells": [
+        { "text": { "en": "Bartonella spp.", "ru": "Bartonella spp." } },
+        { "text": { "en": "Serology (IgG phase I >1:800), blood cultures, tissue culture, immunohistology, and 16S rRNA sequencing of tissue", "ru": "Серология (титр IgG к фазе I >1:800), посев крови, культура ткани, иммуногистология и секвенирование 16S рРНК ткани" } }
+      ]
+    },
+    {
+      "id": "r04-whipplei",
+      "cells": [
+        { "text": { "en": "T. whipplei", "ru": "Tropheryma whipplei" } },
+        { "text": { "en": "Histology and 16S rRNA sequencing of tissue", "ru": "Гистология и секвенирование 16S рРНК ткани" } }
+      ]
+    },
+    {
+      "id": "r05-mycoplasma",
+      "cells": [
+        { "text": { "en": "Mycoplasma spp.", "ru": "Mycoplasma spp." } },
+        { "text": { "en": "Serology, tissue culture, immunohistology, and 16S rRNA sequencing of tissue", "ru": "Серология, культура ткани, иммуногистология и секвенирование 16S рРНК ткани" } }
+      ]
+    },
+    {
+      "id": "r06-legionella",
+      "cells": [
+        { "text": { "en": "Legionella spp.", "ru": "Legionella spp." } },
+        { "text": { "en": "Serology, blood cultures, tissue culture, immunohistology, and 16S rRNA sequencing of tissue", "ru": "Серология, посев крови, культура ткани, иммуногистология и секвенирование 16S рРНК ткани" } }
+      ]
+    },
+    {
+      "id": "r07-fungi",
+      "cells": [
+        { "text": { "en": "Fungi", "ru": "Грибы (Fungi)" } },
+        { "text": { "en": "Serology, blood cultures, 18S rRNA sequencing of tissue", "ru": "Серология, посев крови, секвенирование 18S рРНК ткани" } }
+      ]
+    },
+    {
+      "id": "r08-mycobacteria",
+      "cells": [
+        { "text": { "en": "Mycobacteria (including Mycobacterium chimaera)", "ru": "Микобактерии (включая Mycobacterium chimaera)" } },
+        { "text": { "en": "Specific blood cultures, 16S rRNA sequencing of tissue", "ru": "Специфический посев крови, секвенирование 16S рРНК ткани" } }
+      ]
+    }
+  ]
+}

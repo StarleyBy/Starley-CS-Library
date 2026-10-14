@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.t05-euroscore-in-rcts",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Table 5",
+  "title": {
+    "en": "Logistic EuroSCOREs in major randomized trials comparing percutaneous coronary intervention with coronary artery bypass grafting",
+    "ru": "Логистический EuroSCORE в ключевых рандомизированных исследованиях, сравнивающих чрескожное коронарное вмешательство и коронарное шунтирование"
+  },
+  "type": "grid",
+  "columns": [
+    {
+      "id": "trial",
+      "title": {
+        "en": "Trial",
+        "ru": "Исследование"
+      }
+    },
+    {
+      "id": "euroscore_pci",
+      "title": {
+        "en": "EuroSCORE PCI",
+        "ru": "EuroSCORE ЧКВ"
+      }
+    },
+    {
+      "id": "euroscore_cabg",
+      "title": {
+        "en": "EuroSCORE CABG",
+        "ru": "EuroSCORE КШ"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "syntax",
+      "cells": [
+        {
+          "text": {
+            "en": "SYNTAX",
+            "ru": "SYNTAX"
+          }
+        },
+        {
+          "text": {
+            "en": "3.8 ± 2.6",
+            "ru": "3,8 ± 2,6"
+          }
+        },
+        {
+          "text": {
+            "en": "3.8 ± 2.7",
+            "ru": "3,8 ± 2,7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "best",
+      "cells": [
+        {
+          "text": {
+            "en": "BEST",
+            "ru": "BEST"
+          }
+        },
+        {
+          "text": {
+            "en": "2.9 ± 2.0",
+            "ru": "2,9 ± 2,0"
+          }
+        },
+        {
+          "text": {
+            "en": "3.0 ± 2.1",
+            "ru": "3,0 ± 2,1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "freedom",
+      "cells": [
+        {
+          "text": {
+            "en": "FREEDOM",
+            "ru": "FREEDOM"
+          }
+        },
+        {
+          "text": {
+            "en": "2.7 ± 2.4",
+            "ru": "2,7 ± 2,4"
+          }
+        },
+        {
+          "text": {
+            "en": "2.8 ± 2.5",
+            "ru": "2,8 ± 2,5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "precombat",
+      "cells": [
+        {
+          "text": {
+            "en": "PRECOMBAT",
+            "ru": "PRECOMBAT"
+          }
+        },
+        {
+          "text": {
+            "en": "2.7 ± 1.8",
+            "ru": "2,7 ± 1,8"
+          }
+        },
+        {
+          "text": {
+            "en": "2.8 ± 1.9",
+            "ru": "2,8 ± 1,9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "excel",
+      "cells": [
+        {
+          "text": {
+            "en": "EXCEL",
+            "ru": "EXCEL"
+          }
+        },
+        {
+          "text": {
+            "en": "Not reported",
+            "ru": "Не указано"
+          }
+        },
+        {
+          "text": {
+            "en": "Not reported",
+            "ru": "Не указано"
+          }
+        }
+      ]
+    },
+    {
+      "id": "noble",
+      "cells": [
+        {
+          "text": {
+            "en": "NOBLE",
+            "ru": "NOBLE"
+          }
+        },
+        {
+          "text": {
+            "en": "2 (2–4)",
+            "ru": "2 (2–4)"
+          }
+        },
+        {
+          "text": {
+            "en": "2 (2–4)",
+            "ru": "2 (2–4)"
+          }
+        }
+      ]
+    }
+  ]
+}

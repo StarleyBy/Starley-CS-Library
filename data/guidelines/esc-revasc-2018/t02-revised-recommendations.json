@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.t02-revised-recommendations",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Figure 2",
+  "title": {
+    "en": "Changes in class of recommendation (2014 vs 2018)",
+    "ru": "Изменения класса рекомендаций (2014 против 2018)"
+  },
+  "type": "grid",
+  "columns": [
+    {
+      "id": "c_direction",
+      "title": {
+        "en": "Change",
+        "ru": "Изменение"
+      }
+    },
+    {
+      "id": "c_prev",
+      "title": {
+        "en": "2014 Class",
+        "ru": "Класс 2014"
+      }
+    },
+    {
+      "id": "c_curr",
+      "title": {
+        "en": "2018 Class",
+        "ru": "Класс 2018"
+      }
+    },
+    {
+      "id": "c_text",
+      "title": {
+        "en": "Recommendation",
+        "ru": "Рекомендация"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "up_01",
+      "cells": [
+        {
+          "text": {
+            "en": "Upgrade",
+            "ru": "Повышение"
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "For PCI of bifurcation lesions, stent implantation in the main vessel only, followed by provisional balloon angioplasty with or without stenting of the side branch.",
+            "ru": "При ЧКВ бифуркационных поражений: имплантация стента только в основной сосуд с последующей провизорной баллонной ангиопластикой со стентированием боковой ветви или без него."
+          }
+        }
+      ]
+    },
+    {
+      "id": "up_02",
+      "cells": [
+        {
+          "text": {
+            "en": "Upgrade",
+            "ru": "Повышение"
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Immediate coronary angiography and revascularization, if appropriate, in survivors of out-of-hospital cardiac arrest and an ECG consistent with STEMI.",
+            "ru": "Немедленная коронарография и при необходимости реваскуляризация у выживших после внебольничной остановки сердца с ЭКГ-признаками ИМпST."
+          }
+        }
+      ]
+    },
+    {
+      "id": "up_03",
+      "cells": [
+        {
+          "text": {
+            "en": "Upgrade",
+            "ru": "Повышение"
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Assess all patients for the risk of contrast-induced nephropathy.",
+            "ru": "Оценка риска контраст-индуцированной нефропатии у всех пациентов."
+          }
+        }
+      ]
+    },
+    {
+      "id": "up_04",
+      "cells": [
+        {
+          "text": {
+            "en": "Upgrade",
+            "ru": "Повышение"
+          }
+        },
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "OCT for stent optimization.",
+            "ru": "Оптическая когерентная томография (ОКТ) для оптимизации стентирования."
+          }
+        }
+      ]
+    },
+    {
+      "id": "down_01",
+      "cells": [
+        {
+          "text": {
+            "en": "Downgrade",
+            "ru": "Понижение"
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "Distal protection devices for PCI of SVG lesions.",
+            "ru": "Устройства дистальной защиты при ЧКВ на венозных шунтах (SVG)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "down_02",
+      "cells": [
+        {
+          "text": {
+            "en": "Downgrade",
+            "ru": "Понижение"
+          }
+        },
+        {
+          "text": {
+            "en": "I",
+            "ru": "I"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "Bivalirudin for PCI in NSTE-ACS.",
+            "ru": "Бивалирудин при ЧКВ у пациентов с ОКСбпST."
+          }
+        }
+      ]
+    },
+    {
+      "id": "down_03",
+      "cells": [
+        {
+          "text": {
+            "en": "Downgrade",
+            "ru": "Понижение"
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "Bivalirudin for PCI in STEMI.",
+            "ru": "Бивалирудин при ЧКВ у пациентов с ИМпST."
+          }
+        }
+      ]
+    },
+    {
+      "id": "down_04",
+      "cells": [
+        {
+          "text": {
+            "en": "Downgrade",
+            "ru": "Понижение"
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "PCI for MVD with diabetes and SYNTAX score <23.",
+            "ru": "ЧКВ при многососудистом поражении у пациентов с сахарным диабетом и шкалой SYNTAX <23."
+          }
+        }
+      ]
+    },
+    {
+      "id": "down_05",
+      "cells": [
+        {
+          "text": {
+            "en": "Downgrade",
+            "ru": "Понижение"
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "Platelet function testing to guide antiplatelet therapy interruption in patients undergoing cardiac surgery.",
+            "ru": "Тестирование функции тромбоцитов для определения сроков отмены антитромбоцитарной терапии перед кардиохирургическим вмешательством."
+          }
+        }
+      ]
+    },
+    {
+      "id": "down_06",
+      "cells": [
+        {
+          "text": {
+            "en": "Downgrade",
+            "ru": "Понижение"
+          }
+        },
+        {
+          "text": {
+            "en": "IIa",
+            "ru": "IIa"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "IIb",
+            "ru": "IIb"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "EuroSCORE II to assess in-hospital mortality after CABG.",
+            "ru": "Шкала EuroSCORE II для оценки госпитальной летальности после КШ."
+          }
+        }
+      ]
+    }
+  ]
+}

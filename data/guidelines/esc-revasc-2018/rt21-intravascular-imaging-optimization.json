@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt21-intravascular-imaging-optimization",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 21",
+  "title": {
+    "en": "Recommendations on intravascular imaging for procedural optimization",
+    "ru": "Рекомендации по внутрисосудистой визуализации для оптимизации процедур"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Intravascular imaging for procedural optimization",
+        "ru": "Внутрисосудистая визуализация для процедурной оптимизации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "IVUS or OCT should be considered in selected patients to optimize stent implantation.",
+            "ru": "ВСУЗИ или ОКТ следует рассмотреть у отдельных пациентов для оптимизации имплантации стента."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "IVUS should be considered to optimize treatment of unprotected left main lesions.",
+            "ru": "ВСУЗИ следует рассмотреть для оптимизации вмешательства при поражениях незащищенного ствола левой коронарной артерии."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

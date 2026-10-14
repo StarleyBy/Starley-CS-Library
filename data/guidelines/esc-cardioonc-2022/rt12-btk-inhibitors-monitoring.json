@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt12-btk-inhibitors-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 12",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 12 — Recommendations for baseline risk assessment and monitoring during Bruton tyrosine kinase inhibitor therapy",
+    "ru": "Таблица рекомендаций 12 — Рекомендации по исходной оценке риска и мониторингу во время терапии ингибиторами тирозинкиназы Брутона (BTK)"
+  },
+  "tags": [
+    "cardio-oncology",
+    "btk",
+    "ibrutinib",
+    "acalabrutinib",
+    "atrial-fibrillation",
+    "hypertension",
+    "tte",
+    "monitoring"
+  ],
+  "source": {
+    "page": 33
+  },
+  "sections": [
+    {
+      "id": "sec01-bp",
+      "title": {
+        "en": "BP monitoring and management",
+        "ru": "Мониторинг и контроль артериального давления (АД)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "BP measurement is recommended for patients treated with BTK inhibitors at every clinical visit.",
+            "ru": "Измерение АД рекомендуется пациентам, получающим терапию ингибиторами BTK, при каждом клиническом визите."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Weekly home monitoring of BP during the first 3 months and every month thereafter should be considered for patients treated with BTK inhibitors.",
+            "ru": "Еженедельный домашний самоконтроль АД в течение первых 3 месяцев и затем ежемесячно следует рассмотреть для пациентов, получающих ингибиторы BTK."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec02-echo",
+      "title": {
+        "en": "Echocardiography",
+        "ru": "Эхокардиография"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "Baseline echocardiography is recommended in high-risk patients (male, age ≥65 years, previous history of hypertension, DM, QTc ≥480 ms, AF, HF, cardiomyopathy, or severe VHD) scheduled to receive BTK inhibitors.",
+            "ru": "Исходная эхокардиография рекомендуется пациентам высокого риска (мужской пол, возраст ≥65 лет, анамнез артериальной гипертензии, СД, QTc ≥480 мс, ФП, СН, кардиомиопатия или тяжелый порок клапанов), которым запланирован прием ингибиторов BTK."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "TTE is recommended in all patients who develop AF during BTK inhibitor therapy.",
+            "ru": "ТТЭ рекомендуется всем пациентам, у которых развивается фибрилляция предсердий на фоне терапии ингибиторами BTK."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec03-af",
+      "title": {
+        "en": "Atrial fibrillation (AF)",
+        "ru": "Фибрилляция предсердий (ФП)"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Opportunistic screening for AF by pulse-taking or ECG rhythm strip is recommended at every clinical visit during BTK inhibitor therapy.",
+            "ru": "Оппортунистический скрининг на ФП путем пальпации пульса или регистрации фрагмента ритма на ЭКГ рекомендуется при каждом клиническом визите на фоне терапии ингибиторами BTK."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

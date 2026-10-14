@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.rt07-pe-in-pregnancy",
+  "guidelineId": "esc-pe-2019",
+  "number": "Section 9.5",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for pulmonary embolism in pregnancy",
+    "ru": "Рекомендации по ведению тромбоэмболии легочной артерии при беременности"
+  },
+  "sections": [
+    {
+      "id": "s01-pregnancy-diagnosis",
+      "title": {
+        "en": "Diagnosis of PE in pregnancy",
+        "ru": "Диагностика ТЭЛА при беременности"
+      },
+      "rows": [
+        {
+          "id": "r01-formal-validated-assessment",
+          "text": {
+            "en": "Formal diagnostic assessment with validated methods is recommended if PE is suspected during pregnancy or in the post-partum period.",
+            "ru": "Формализованная диагностическая оценка с использованием валидированных методов рекомендуется при подозрении на ТЭЛА во время беременности или в послеродовом периоде."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [388, 391]
+        },
+        {
+          "id": "r02-ddimer-prediction-rules",
+          "text": {
+            "en": "D-dimer measurement and clinical prediction rules should be considered to rule out PE during pregnancy or the post-partum period.",
+            "ru": "Определение D-димера и использование шкал клинической вероятности следует рассматривать для исключения ТЭЛА во время беременности или в послеродовом периоде."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [388, 391]
+        },
+        {
+          "id": "r03-venous-cus-pregnant",
+          "text": {
+            "en": "In a pregnant patient with suspected PE (particularly if she has symptoms of DVT), venous CUS should be considered to avoid unnecessary irradiation.",
+            "ru": "У беременных с подозрением на ТЭЛА (особенно при наличии симптомов ТГВ) следует рассмотреть компрессионное УЗИ вен нижних конечностей для предотвращения ненужного лучевого облучения."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [388]
+        },
+        {
+          "id": "r04-perfusion-ctpa-low-dose",
+          "text": {
+            "en": "Perfusion scintigraphy or CTPA (with a low-radiation dose protocol) should be considered to rule out suspected PE in pregnant women; CTPA should be considered as the first-line option if the chest X-ray is abnormal.",
+            "ru": "Перфузионную сцинтиграфию или КТ-ангиопульмонографию (по низкодозовому протоколу) следует рассматривать для исключения ТЭЛА у беременных женщин; КТ-ангиографию следует рассматривать как метод первого выбора при патологии на рентгенограмме грудной клетки."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [385, 386]
+        }
+      ]
+    },
+    {
+      "id": "s02-pregnancy-treatment",
+      "title": {
+        "en": "Treatment of PE in pregnancy",
+        "ru": "Лечение ТЭЛА при беременности"
+      },
+      "rows": [
+        {
+          "id": "r05-lmwh-weight-adjusted",
+          "text": {
+            "en": "A therapeutic, fixed dose of LMWH based on early pregnancy body weight is the recommended therapy for PE in the majority of pregnant women without haemodynamic instability.",
+            "ru": "Терапевтическая фиксированная доза НМГ, рассчитанная по массе тела на ранних сроках беременности, является рекомендованной терапией ТЭЛА у большинства беременных без гемодинамической нестабильности."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [408, 410]
+        },
+        {
+          "id": "r06-thrombolysis-embolectomy-high-risk",
+          "text": {
+            "en": "Thrombolysis or surgical embolectomy should be considered for pregnant women with high-risk PE.",
+            "ru": "Тромболизис или хирургическую эмболэктомию следует рассматривать для беременных женщин с ТЭЛА высокого риска."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [421]
+        },
+        {
+          "id": "r07-spinal-epidural-timing",
+          "text": {
+            "en": "Insertion of a spinal or epidural needle is not recommended, unless ≥24 h have passed since the last therapeutic dose of LMWH.",
+            "ru": "Выполнение спинальной или эпидуральной пункции не рекомендуется, если прошло менее 24 часов после введения последней терапевтической дозы НМГ."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r08-lmwh-after-epidural-removal",
+          "text": {
+            "en": "Administration of LMWH is not recommended within 4 h of removal of an epidural catheter.",
+            "ru": "Введение НМГ не рекомендуется в течение 4 часов после удаления эпидурального катетера."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r09-noacs-contraindicated-pregnancy",
+          "text": {
+            "en": "NOACs are not recommended during pregnancy or lactation.",
+            "ru": "НОАК не рекомендуются во время беременности или лактации."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s03-amniotic-fluid-embolism",
+      "title": {
+        "en": "Amniotic fluid embolism",
+        "ru": "Эмболия амниотической жидкостью"
+      },
+      "rows": [
+        {
+          "id": "r10-afe-diagnosis",
+          "text": {
+            "en": "Amniotic fluid embolism should be considered in a pregnant or post-partum woman with otherwise unexplained cardiac arrest, sustained hypotension, or respiratory deterioration, especially if accompanied by disseminated intravascular coagulation.",
+            "ru": "Эмболию околоплодными водами следует рассматривать у беременной или родильницы с необъяснимой остановкой сердца, стойкой артериальной гипотензией или ухудшением дыхания, особенно в сочетании с ДВС-синдромом."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [422, 425, 426]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "pregnancy",
+    "pe",
+    "lmwh",
+    "noac",
+    "epidural-safety",
+    "amniotic-fluid-embolism",
+    "ctpa",
+    "scintigraphy"
+  ]
+}

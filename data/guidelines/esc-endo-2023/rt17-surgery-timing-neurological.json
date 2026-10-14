@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt17-surgery-timing-neurological",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 17",
+  "title": {
+    "en": "Recommendations for indications and timing of cardiac surgery after neurological complications in active infective endocarditis",
+    "ru": "Рекомендации по показаниям и срокам кардиохирургического вмешательства после неврологических осложнений при активном инфекционном эндокардите"
+  },
+  "sections": [
+    {
+      "id": "surgery-timing-neurological-complications",
+      "title": {
+        "en": "Indications and timing of surgery after neurological complications",
+        "ru": "Показания и сроки операции после неврологических осложнений"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "After a transient ischaemic attack, cardiac surgery, if indicated, is recommended without delay.",
+            "ru": "После транзиторной ишемической атаки кардиохирургическое вмешательство при наличии показаний рекомендуется без задержки."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "After a stroke, surgery is recommended without any delay in the presence of HF, uncontrolled infection, abscess, or persistent high embolic risk, as long as coma is absent and the presence of cerebral haemorrhage has been excluded by cranial CT or MRI.",
+            "ru": "После перенесенного инсульта хирургическое вмешательство рекомендуется без каких-либо задержек при наличии СН, неконтролируемой инфекции, абсцесса или сохраняющегося высокого риска эмболий, при условии отсутствия комы и исключения внутричерепного кровоизлияния по данным КТ или МРТ головного мозга."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Following intracranial haemorrhage, delaying cardiac surgery >1 month, if possible, with frequent re-assessment of the patient's clinical condition and imaging should be considered.",
+            "ru": "После внутричерепного кровоизлияния следует рассмотреть возможность отсрочки кардиохирургической операции на >1 месяца (по возможности) с частой переоценкой клинического состояния пациента и данных нейровизуализации."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients with intracranial haemorrhage and unstable clinical status due to HF, uncontrolled infection or persistent high embolic risk, urgent or emergency surgery should be considered weighing the likelihood of a meaningful neurological outcome.",
+            "ru": "У пациентов с внутричерепным кровоизлиянием и нестабильным клиническим состоянием вследствие СН, неконтролируемой инфекции или персистирующего высокого эмболического риска следует рассмотреть неотложное или экстренное хирургическое вмешательство, сопоставляя его с вероятностью благоприятного неврологического исхода."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt09-recommendations-tricuspid-regurgitation",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 9",
+  "title": {
+    "en": "Recommendations on indications for intervention in tricuspid regurgitation",
+    "ru": "Рекомендации по показаниям к вмешательству при трикуспидальной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "tr",
+    "tricuspid-regurgitation",
+    "tv-surgery",
+    "tv-repair",
+    "transcatheter-tv",
+    "t-teer",
+    "left-sided-surgery",
+    "rv-dysfunction"
+  ],
+  "sections": [
+    {
+      "id": "sec-tr-evaluation",
+      "title": {
+        "en": "Evaluation prior to intervention",
+        "ru": "Оценка перед вмешательством"
+      },
+      "rows": [
+        {
+          "id": "r01-heart-team-evaluation",
+          "text": {
+            "en": "Careful evaluation of TR aetiology, stage of the disease (i.e. degree of TR severity, RV and LV dysfunction, and PH), patient operative risk, and likelihood of recovery by a multidisciplinary Heart Team is recommended in patients with severe TR prior to intervention.",
+            "ru": "Тщательная оценка этиологии ТР, стадии заболевания (степени тяжести ТР, систолической дисфункции ПЖ и ЛЖ, наличия ЛГ), оперативного риска и вероятности восстановления мультидисциплинарной кардиокомандой (Heart Team) рекомендуется у пациентов с тяжелой ТР перед вмешательством."
+          },
+          "refs": [691, 742],
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-tr-with-left-sided-surgery",
+      "title": {
+        "en": "Patients with tricuspid regurgitation and left-sided valvular heart disease requiring surgery",
+        "ru": "Пациенты с трикуспидальной регургитацией и пороками левых отделов сердца, требующими операции"
+      },
+      "rows": [
+        {
+          "id": "r02-concomitant-severe-tr",
+          "text": {
+            "en": "Concomitant TV surgery^[c] is recommended in patients with severe primary or secondary TR.",
+            "ru": "Сопутствующее хирургическое вмешательство на трикуспидальном клапане^[c] рекомендуется пациентам с тяжелой первичной или вторичной ТР."
+          },
+          "refs": [715, 731, 743, 744],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03-concomitant-moderate-tr",
+          "text": {
+            "en": "Concomitant TV repair should be considered in patients with moderate primary or secondary TR, to avoid progression of TR and RV remodelling.",
+            "ru": "Сопутствующую пластику трикуспидального клапана следует рассматривать у пациентов с умеренной первичной или вторичной ТР для предотвращения прогрессирования порока и ремоделирования ПЖ."
+          },
+          "refs": [723, 724, 726, 731],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r04-concomitant-mild-tr-dilated-annulus",
+          "text": {
+            "en": "Concomitant TV repair may be considered in selected patients with mild secondary TR and tricuspid annulus dilatation (≥40 mm or >21 mm/m²), to avoid progression of TR and RV remodelling.",
+            "ru": "Сопутствующую пластику трикуспидального клапана можно рассматривать у отдельных пациентов с легкой вторичной ТР и дилатацией фиброзного кольца ТК (≥40 мм или >21 мм/м²) для предотвращения прогрессирования ТР и ремоделирования ПЖ."
+          },
+          "refs": [723, 724, 726, 731, 745],
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-isolated-severe-tr",
+      "title": {
+        "en": "Patients with severe tricuspid regurgitation without left-sided valvular heart disease requiring surgery",
+        "ru": "Пациенты с тяжелой трикуспидальной регургитацией без сопутствующих пороков левых отделов сердца, требующих операции"
+      },
+      "rows": [
+        {
+          "id": "r05-isolated-symptomatic-primary-tr",
+          "text": {
+            "en": "TV surgery^[c] is recommended in symptomatic patients with severe primary TR without severe RV dysfunction or severe PH.",
+            "ru": "Хирургическое вмешательство на трикуспидальном клапане^[c] рекомендуется симптомным пациентам с тяжелой первичной ТР при отсутствии тяжелой дисфункции ПЖ или тяжелой ЛГ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06-isolated-asymptomatic-primary-tr",
+          "text": {
+            "en": "TV surgery^[c] should be considered in asymptomatic patients with severe primary TR who have RV dilatation/RV function deterioration, but without severe LV/RV dysfunction or severe PH.",
+            "ru": "Операцию на ТК^[c] следует рассматривать у бессимптомных пациентов с тяжелой первичной ТР при дилатации ПЖ или ухудшении функции ПЖ, но без тяжелой дисфункции ЛЖ/ПЖ или тяжелой ЛГ."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07-isolated-secondary-tr-surgery",
+          "text": {
+            "en": "TV surgery^[c] should be considered in patients with severe secondary TR who are symptomatic or have RV dilatation/RV function deterioration, but without severe LV/RV dysfunction or PH.",
+            "ru": "Операцию на ТК^[c] следует рассматривать у пациентов с тяжелой вторичной ТР при наличии симптомов или дилатации/ухудшении функции ПЖ, но без тяжелой дисфункции ЛЖ/ПЖ или ЛГ."
+          },
+          "refs": [695, 720, 745, 746, 747],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r08-transcatheter-tv-treatment",
+          "text": {
+            "en": "Transcatheter TV treatment should be considered to improve quality of life and RV remodelling in high-risk patients with symptomatic severe TR despite optimal medical therapy in the absence of severe RV dysfunction or pre-capillary PH.",
+            "ru": "Транскатетерное лечение трикуспидального клапана следует рассматривать для улучшения качества жизни и обратного ремоделирования ПЖ у пациентов высокого риска с симптомной тяжелой ТР, несмотря на оптимальную медикаментозную терапию, при отсутствии тяжелой дисфункции ПЖ или прекапиллярной ЛГ."
+          },
+          "refs": [713, 731, 735, 738, 748, 749, 750, 751],
+          "class": "IIa",
+          "level": "A"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Valve repair whenever possible.",
+      "ru": "Пластика клапана во всех случаях, когда это выполнимо."
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt05-echocardiography",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 5",
+  "title": {
+    "en": "Recommendations for the role of echocardiography in infective endocarditis",
+    "ru": "Рекомендации по роли эхокардиографии при инфекционном эндокардите"
+  },
+  "sections": [
+    {
+      "id": "diagnosis",
+      "title": {
+        "en": "A. Diagnosis",
+        "ru": "А. Диагностика"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "TTE is recommended as the first-line imaging modality in suspected IE.",
+            "ru": "ТТЭхоКГ рекомендуется в качестве метода визуализации первой линии при подозрении на ИЭ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "TOE is recommended in all patients with clinical suspicion of IE and a negative or non-diagnostic TTE.",
+            "ru": "ЧПЭхоКГ рекомендуется всем пациентам с клиническим подозрением на ИЭ при отрицательных или недиагностических результатах ТТЭхоКГ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "TOE is recommended in patients with clinical suspicion of IE, when a prosthetic heart valve or an intracardiac device is present.",
+            "ru": "ЧПЭхоКГ рекомендуется пациентам с клиническим подозрением на ИЭ при наличии клапанного протеза сердца или внутрисердечного устройства."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Repeating TTE and/or TOE within 5–7 days is recommended in cases of initially negative or inconclusive examination when clinical suspicion of IE remains high.",
+            "ru": "Повторение ТТЭхоКГ и/или ЧПЭхоКГ через 5–7 дней рекомендуется при первоначально отрицательном или сомнительном результате исследования, если клиническое подозрение на ИЭ остается высоким."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "TOE is recommended in patients with suspected IE, even in cases with positive TTE, except in isolated right-sided native valve IE with good quality TTE examination and unequivocal echocardiographic findings.",
+            "ru": "ЧПЭхоКГ рекомендуется пациентам с подозрением на ИЭ, даже при положительной ТТЭхоКГ, за исключением изолированного правостороннего ИЭ нативного клапана при высоком качестве ТТЭхоКГ и однозначных эхокардиографических находках."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Performing an echocardiography should be considered in S. aureus, E. faecalis, and some Streptococcus spp. bacteraemia.",
+            "ru": "Проведение эхокардиографии следует рассмотреть при бактериемии, вызванной S. aureus, E. faecalis и некоторыми видами Streptococcus spp."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "follow-up-medical-therapy",
+      "title": {
+        "en": "B. Follow-up under medical therapy",
+        "ru": "B. Наблюдение на фоне медикаментозной терапии"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "Repeating TTE and/or TOE is recommended as soon as a new complication of IE is suspected (new murmur, embolism, persisting fever and bacteraemia, HF, abscess, AVB).",
+            "ru": "Повторная ТТЭхоКГ и/или ЧПЭхоКГ рекомендуется сразу же при подозрении на новое осложнение ИЭ (новый шум, эмболия, сохраняющаяся лихорадка и бактериемия, сердечная недостаточность, абсцесс, АВ-блокада)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "TOE is recommended when patient is stable before switching from intravenous to oral antibiotic therapy.",
+            "ru": "ЧПЭхоКГ рекомендуется у стабильного пациента перед переводом с внутривенной на пероральную антибиотикотерапию."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "During follow-up of uncomplicated IE, repeat TTE and/or TOE should be considered to detect new silent complications. The timing of repeat TTE and/or TOE depends on the initial findings, type of microorganism, and initial response to therapy.",
+            "ru": "В процессе наблюдения при неосложненном ИЭ следует рассмотреть повторную ТТЭхоКГ и/или ЧПЭхоКГ для выявления бессимптомных осложнений. Сроки повторного исследования зависят от исходных данных, вида микроорганизма и раннего ответа на терапию."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "intra-operative-echocardiography",
+      "title": {
+        "en": "C. Intra-operative echocardiography",
+        "ru": "C. Интраоперационная эхокардиография"
+      },
+      "rows": [
+        {
+          "id": "r10",
+          "text": {
+            "en": "Intra-operative echocardiography is recommended in all cases of IE requiring surgery.",
+            "ru": "Интраоперационная эхокардиография рекомендуется во всех случаях ИЭ, требующих хирургического вмешательства."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "following-completion-of-therapy",
+      "title": {
+        "en": "D. Following completion of therapy",
+        "ru": "D. После завершения терапии"
+      },
+      "rows": [
+        {
+          "id": "r11",
+          "text": {
+            "en": "TTE and/or TOE are recommended at completion of antibiotic therapy for evaluation of cardiac and valve morphology and function in patients with IE who did not undergo heart valve surgery.",
+            "ru": "ТТЭхоКГ и/или ЧПЭхоКГ рекомендуются по завершении курса антибиотикотерапии для оценки морфологии и функции сердца и клапанов у пациентов с ИЭ, которым не выполнялось хирургическое лечение клапанов."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

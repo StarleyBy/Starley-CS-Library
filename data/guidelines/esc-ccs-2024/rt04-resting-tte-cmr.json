@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt04-resting-tte-cmr",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 4",
+  "title": {
+    "en": "Recommendations for resting transthoracic ultrasound and cardiac magnetic resonance imaging in the initial diagnostic management of individuals with suspected chronic coronary syndrome",
+    "ru": "Рекомендации по трансторакальной эхокардиографии и МРТ сердца в покое при первичной диагностике лиц с подозрением на хронический коронарный синдром"
+  },
+  "tags": [
+    "ccs",
+    "tte",
+    "cmr",
+    "lvef",
+    "diastolic-function",
+    "wall-motion",
+    "valve-disease",
+    "rv-function"
+  ],
+  "source": {
+    "page": 31
+  },
+  "sections": [
+    {
+      "id": "sec-resting-imaging",
+      "title": {
+        "en": "Resting transthoracic ultrasound and CMR",
+        "ru": "ЭхоКГ и МРТ сердца в покое"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "A resting transthoracic echocardiogram is recommended:\n• to measure LVEF, volumes and diastolic function;\n• identify regional wall motion abnormalities;\n• identify non-coronary cardiac disease (e.g. hypertrophy, cardiomyopathy, valve disease, pericardial effusion);\n• assess right ventricular function and estimate systolic pulmonary artery pressure;\nto refine risk stratification and guide treatment.",
+            "ru": "Трансторакальная эхокардиография (ЭхоКГ) покоя рекомендуется для:\n• измерения ФВ ЛЖ, объемов и диастолической функции;\n• выявления локальных нарушений сократимости миокарда;\n• диагностики некоронарных заболеваний сердца (гипертрофия, кардиомиопатия, пороки клапанов, выпот в полости перикарда);\n• оценки функции правого желудочка и систолического давления в легочной артерии;\nс целью детализации стратификации риска и выбора лечебной тактики."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "CMR, if available, may be considered as an alternative imaging test in individuals with inconclusive echocardiographic evaluation.",
+            "ru": "Магнитно-резонансная томография сердца (CMR) при ее доступности может рассматриваться в качестве альтернативного метода визуализации у лиц с неинформативными данными эхокардиографии."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt04-recommendations-severe-as",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 4",
+  "title": {
+    "en": "Recommendations on indications for intervention in symptomatic and asymptomatic severe aortic stenosis, and recommended mode of intervention",
+    "ru": "Рекомендации по показаниям к вмешательству при симптомном и бессимптомном тяжелом аортальном стенозе и выбору метода вмешательства"
+  },
+  "tags": [
+    "vhd",
+    "as",
+    "aortic-stenosis",
+    "savr",
+    "tavi",
+    "bav",
+    "valvotomy",
+    "heart-team",
+    "symptomatic-as",
+    "asymptomatic-as"
+  ],
+  "sections": [
+    {
+      "id": "sec-symptomatic-severe-as",
+      "title": {
+        "en": "Symptomatic patients with severe aortic stenosis",
+        "ru": "Симптомные пациенты с тяжелым аортальным стенозом"
+      },
+      "rows": [
+        {
+          "id": "r01-high-gradient-as",
+          "text": {
+            "en": "Intervention is recommended in symptomatic patients with severe, high-gradient AS [mean gradient ≥40 mmHg, V_max ≥4.0 m/s, AVA ≤1.0 cm² (or ≤0.6 cm²/m² BSA)].",
+            "ru": "Вмешательство рекомендуется симптоматическим пациентам с тяжелым высокоградиентным аортальным стенозом [средний градиент ≥40 мм рт. ст., V_max ≥4,0 м/с, площадь отверстия (AVA) ≤1,0 см² (или ≤0,6 см²/м² ППТ)]."
+          },
+          "refs": [380, 471, 472, 473, 474],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02-low-flow-low-gradient-reduced-ef",
+          "text": {
+            "en": "Intervention is recommended in symptomatic patients with low-flow (SVi ≤35 mL/m²), low-gradient (<40 mmHg) AS with reduced LVEF (<50%) after careful confirmation that AS is severe.^[c]",
+            "ru": "Вмешательство рекомендуется симптоматическим пациентам с низкопотоковым (SVi ≤35 мл/м²), низкоградиентным (<40 мм рт. ст.) АС со сниженной ФВ ЛЖ (<50%) после тщательного подтверждения истинной тяжести стеноза.^[c]"
+          },
+          "refs": [342, 345, 346, 348, 475],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03-low-flow-low-gradient-preserved-ef",
+          "text": {
+            "en": "Intervention should be considered in symptomatic patients with low-flow (SVi ≤35 mL/m²), low-gradient (<40 mmHg) AS with normal LVEF (≥50%) after careful confirmation that AS is severe.^[c]",
+            "ru": "Вмешательство следует рассматривать у симптоматических пациентов с низкопотоковым (SVi ≤35 мл/м²), низкоградиентным (<40 мм рт. ст.) АС с нормальной ФВ ЛЖ (≥50%) после тщательного подтверждения тяжести порока.^[c]"
+          },
+          "refs": [293, 348, 349, 476, 477, 478, 479, 480, 481],
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-asymptomatic-severe-as",
+      "title": {
+        "en": "Asymptomatic patients with severe aortic stenosis",
+        "ru": "Бессимптомные пациенты с тяжелым аортальным стенозом"
+      },
+      "rows": [
+        {
+          "id": "r04-asymptomatic-lvef-50",
+          "text": {
+            "en": "Intervention is recommended in asymptomatic patients with severe AS and LVEF <50% without another cause.",
+            "ru": "Вмешательство рекомендуется бессимптомным пациентам с тяжелым аортальным стенозом и ФВ ЛЖ <50% при отсутствии других причин дисфункции."
+          },
+          "refs": [14, 354, 355, 356, 357, 358, 359],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05-asymptomatic-high-gradient-preserved-ef",
+          "text": {
+            "en": "Intervention should be considered in asymptomatic patients (confirmed by a normal exercise test, if feasible) with severe, high-gradient AS and LVEF ≥50% as an alternative to close active surveillance, if the procedural risk is low.",
+            "ru": "Вмешательство следует рассматривать у бессимптомных пациентов (подтверждено нормальной нагрузочной пробой при возможности проведения) с тяжелым высокоградиентным АС и ФВ ЛЖ ≥50% как альтернативу тщательному активному наблюдению, если процедурный риск низкий."
+          },
+          "refs": [360, 361, 362, 363, 367, 368],
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r06-asymptomatic-risk-markers",
+          "text": {
+            "en": "Intervention should be considered in asymptomatic patients with severe AS and LVEF ≥50% if the procedural risk is low and one of the following parameters is present:",
+            "ru": "Вмешательство следует рассматривать у бессимптомных пациентов с тяжелым АС и ФВ ЛЖ ≥50%, если риск процедуры низкий и присутствует один из следующих параметров:"
+          },
+          "bullets": [
+            {
+              "text": {
+                "en": "Very severe AS (mean gradient ≥60 mmHg or V_max >5.0 m/s)",
+                "ru": "Крайне тяжелый стеноз (средний градиент ≥60 мм рт. ст. или V_max >5,0 м/с)"
+              },
+              "refs": [14, 362, 363, 482, 483, 484]
+            },
+            {
+              "text": {
+                "en": "Severe valve calcification (ideally assessed by CCT) and V_max progression ≥0.3 m/s/year",
+                "ru": "Выраженный кальциноз клапана (оптимально по данным КТ сердца) и прогрессирование V_max ≥0,3 м/с в год"
+              },
+              "refs": [303, 353, 364]
+            },
+            {
+              "text": {
+                "en": "Markedly elevated BNP/NT-proBNP levels (more than three times age- and sex-corrected normal range, confirmed on repeated measurement without other explanation)",
+                "ru": "Значительное повышение BNP/NT-proBNP (более чем в 3 раза выше возрастно-половой нормы, подтвержденное при повторном измерении без других причин)"
+              },
+              "refs": [97, 365]
+            },
+            {
+              "text": {
+                "en": "LVEF <55% without another cause",
+                "ru": "ФВ ЛЖ <55% при отсутствии других причин"
+              },
+              "refs": [14, 354, 356, 357, 358, 359]
+            }
+          ],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r07-exercise-bp-fall",
+          "text": {
+            "en": "Intervention should be considered in asymptomatic patients with severe AS and a sustained fall in BP (>20 mmHg) during exercise testing.",
+            "ru": "Вмешательство следует рассматривать у бессимптомных пациентов с тяжелым АС при стойком падении АД (>20 мм рт. ст.) во время нагрузочного тестирования."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-mode-of-intervention",
+      "title": {
+        "en": "Mode of intervention",
+        "ru": "Выбор метода вмешательства (SAVR против TAVI)"
+      },
+      "rows": [
+        {
+          "id": "r08-heart-valve-centre-requirement",
+          "text": {
+            "en": "It is recommended that AV interventions are performed in Heart Valve Centres that report their local expertise and outcome data, have on-site interventional cardiology and cardiac surgical programmes, and a structured collaborative Heart Team.",
+            "ru": "Рекомендуется выполнять вмешательства на аортальном клапане в Экспертных центрах (Heart Valve Centres), предоставляющих данные об опыте и исходах, имеющих отделения интервенционной кардиологии и кардиохирургии на одной базе, а также структурированную кардиокоманду (Heart Team)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r09-heart-team-decision",
+          "text": {
+            "en": "It is recommended that the mode of intervention is based on Heart Team assessment of individual clinical, anatomical, and procedural characteristics, incorporating lifetime management considerations and estimated life expectancy.",
+            "ru": "Рекомендуется, чтобы выбор метода вмешательства основывался на оценке Heart Team индивидуальных клинических, анатомических и процедурных характеристик, включая стратегию пожизненного ведения (lifetime management) и ожидаемую продолжительность жизни."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r10-tavi-age-ge-70",
+          "text": {
+            "en": "TAVI is recommended in patients ≥70 years of age with tricuspid AV stenosis, if the anatomy is suitable.^[d]",
+            "ru": "TAVI рекомендуется пациентам в возрасте ≥70 лет с трехстворчатым аортальным стенозом при подходящей анатомии.^[d]"
+          },
+          "refs": [1, 2, 3, 4, 389, 390, 391, 392, 393, 394, 395, 396, 397, 485, 486],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r11-savr-age-lt-70",
+          "text": {
+            "en": "SAVR is recommended in patients <70 years of age, if the surgical risk is low.^[e]",
+            "ru": "Хирургическое протезирование (SAVR) рекомендуется пациентам в возрасте <70 лет при низком хирургическом риске.^[e]"
+          },
+          "refs": [413, 429, 487],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r12-savr-or-tavi-remaining",
+          "text": {
+            "en": "SAVR or TAVI are recommended for all remaining candidates for an aortic BHV according to Heart Team assessment.",
+            "ru": "SAVR или TAVI рекомендуются всем остальным кандидатам на биологический аортальный протез на основании заключения мультидисциплинарной кардиокоманды (Heart Team)."
+          },
+          "refs": [2, 4, 356, 397, 429, 488, 489, 490],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r13-non-transfemoral-tavi",
+          "text": {
+            "en": "Non-transfemoral TAVI should be considered in patients who are unsuitable for surgery and transfemoral access.",
+            "ru": "Нетрансфеморальный доступ для TAVI следует рассматривать у пациентов, не подходящих для открытой хирургии и трансфеморального доступа."
+          },
+          "refs": [417, 421, 491, 492, 493, 494, 495, 496, 497, 498],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r14-tavi-bav-increased-risk",
+          "text": {
+            "en": "TAVI may be considered for the treatment of severe BAV stenosis in patients at increased surgical risk, if the anatomy is suitable.",
+            "ru": "TAVI может рассматриваться для лечения тяжелого стеноза двустворчатого АК (BAV) у пациентов с повышенным хирургическим риском при подходящей анатомии."
+          },
+          "refs": [430, 431, 432, 434, 499, 500, 501, 502],
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r15-bav-bridge-or-urgent-ncs",
+          "text": {
+            "en": "Balloon aortic valvotomy may be considered as a bridge to SAVR or TAVI in haemodynamically unstable patients, and (if feasible) in those with severe AS who require urgent high-risk NCS.",
+            "ru": "Баллонная аортальная вальвулопластика (БАВ) может рассматриваться как «мост» к SAVR или TAVI у гемодинамически нестабильных пациентов, а также (при возможности) у пациентов с тяжелым АС, нуждающихся в экстренной внесердечной операции высокого риска."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Explanations (such as measurement errors, uncontrolled blood pressure, and conditions lowering the stroke volume) other than severe AS for a small AVA but low gradient despite preserved LVEF are frequent and must be carefully excluded.",
+      "ru": "Альтернативные причины малой AVA при низком градиенте (погрешности измерений, неконтролируемая артериальная гипертензия, состояния со сниженным ударным объемом) встречаются часто и должны быть тщательно исключены."
+    },
+    "d": {
+      "en": "Suitability regarding transfemoral access, annulus dimensions, device landing zone calcification pattern, and coronary obstruction risk (Figure 9).",
+      "ru": "Пригодность с точки зрения трансфеморального доступа, размеров фиброзного кольца, характера кальциноза зоны имплантации и риска коронарной окклюзии (см. Рисунок 9)."
+    },
+    "e": {
+      "en": "Surgical risk based on STS-PROM and EuroSCORE II (<4%) and Heart Team assessment.",
+      "ru": "Хирургический риск на основании шкал STS-PROM и EuroSCORE II (<4%) и решения Heart Team."
+    }
+  }
+}

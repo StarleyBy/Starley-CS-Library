@@ -1,0 +1,281 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t01-new-concepts",
+  "guidelineId": "esc-pe-2019",
+  "number": "Section 2.2.1",
+  "type": "grid",
+  "title": {
+    "en": "New/revised concepts in 2019 ESC Guidelines on Pulmonary Embolism",
+    "ru": "Новые и пересмотренные концепции в рекомендациях ESC 2019 по тромбоэмболии легочной артерии"
+  },
+  "columns": [
+    {
+      "id": "c_category",
+      "title": {
+        "en": "Domain / Category",
+        "ru": "Область / Категория"
+      }
+    },
+    {
+      "id": "c_concept",
+      "title": {
+        "en": "New / revised concept in 2019",
+        "ru": "Новая / пересмотренная концепция 2019 г."
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-dx-dimer",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "D-dimer cut-off values adjusted for age or clinical probability can be used as an alternative to the fixed cut-off value.",
+            "ru": "Пороговые значения D-димера, скорректированные по возрасту или клинической вероятности, могут использоваться в качестве альтернативы фиксированному пороговому значению."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-dx-radiation",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        {
+          "text": {
+            "en": "Updated information is provided on the radiation dosage when using CTPA and a lung scan to diagnose PE (Table 6).",
+            "ru": "Предоставлена обновленная информация о дозах облучения при использовании КТ-ангиопульмонографии (CTPA) и сцинтиграфии легких для диагностики ТЭЛА (Таблица 6)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-risk-instability-def",
+      "cells": [
+        { "text": { "en": "Risk assessment", "ru": "Оценка риска" } },
+        {
+          "text": {
+            "en": "A clear definition of haemodynamic instability and high-risk PE is provided (Table 4).",
+            "ru": "Дано четкое определение гемодинамической нестабильности и ТЭЛА высокого риска (Таблица 4)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-risk-severity-early",
+      "cells": [
+        { "text": { "en": "Risk assessment", "ru": "Оценка риска" } },
+        {
+          "text": {
+            "en": "Assessment of PE severity and early PE-related risk is recommended, in addition to comorbidity/aggravating conditions and overall death risk.",
+            "ru": "Рекомендуется оценка тяжести ТЭЛА и раннего риска, обусловленного непосредственно ТЭЛА, в дополнение к сопутствующим/отягощающим факторам и общему риску смерти."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-risk-rv-caution",
+      "cells": [
+        { "text": { "en": "Risk assessment", "ru": "Оценка риска" } },
+        {
+          "text": {
+            "en": "A clear word of caution that RV dysfunction may be present, and affect early outcomes, in patients at 'low risk' based on clinical risk scores.",
+            "ru": "Четкое предостережение о том, что дисфункция ПЖ может присутствовать и влиять на ранние исходы даже у пациентов «низкого риска» по клиническим шкалам оценки риска."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-acute-support-haemo-resp",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "Thoroughly revised section on haemodynamic and respiratory support for high-risk PE (Section 6.1).",
+            "ru": "Тщательно пересмотрен раздел по гемодинамической и респираторной поддержке при ТЭЛА высокого риска (Раздел 6.1)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-acute-high-risk-algorithm",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "A dedicated management algorithm is proposed for high-risk PE (Supplementary Figure 1).",
+            "ru": "Предложен специализированный алгоритм ведения ТЭЛА высокого риска (Дополнительный рисунок 1)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-acute-noacs-first-choice",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "NOACs are recommended as the first choice for anticoagulation treatment in a patient eligible for NOACs; VKAs are an alternative to NOACs.",
+            "ru": "НОАК рекомендованы в качестве препарата первого выбора для антикоагулянтной терапии у пациентов, подходящих для их приема; АВК рассматриваются как альтернатива НОАК."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-acute-risk-adjusted-algorithm",
+      "cells": [
+        { "text": { "en": "Treatment in the acute phase", "ru": "Лечение в острой фазе" } },
+        {
+          "text": {
+            "en": "The risk-adjusted management algorithm (Figure 6) was revised to take into consideration clinical PE severity, aggravating conditions/comorbidity, and the presence of RV dysfunction.",
+            "ru": "Алгоритм ведения с поправкой на риск (Рисунок 6) был пересмотрен с учетом клинической тяжести ТЭЛА, отягощающих состояний/коморбидности и наличия дисфункции ПЖ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-chronic-risk-factors-vte",
+      "cells": [
+        { "text": { "en": "Chronic treatment after the first 3 months", "ru": "Хроническое лечение после первых 3 месяцев" } },
+        {
+          "text": {
+            "en": "Risk factors for VTE recurrence have been classified according to high, intermediate, or low recurrence risk (Table 11).",
+            "ru": "Факторы риска рецидива ВТЭ классифицированы по высокому, промежуточному или низкому риску рецидива (Таблица 11)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-chronic-extended-anticoag",
+      "cells": [
+        { "text": { "en": "Chronic treatment after the first 3 months", "ru": "Хроническое лечение после первых 3 месяцев" } },
+        {
+          "text": {
+            "en": "Potential indications for extended anticoagulation are discussed, including the presence of a minor transient or reversible risk factor for the index PE, any persisting risk factor, or no identifiable risk factor.",
+            "ru": "Обсуждаются потенциальные показания для продленной антикоагулянтной терапии, включая наличие незначительного преходящего или обратимого фактора риска индексной ТЭЛА, любого сохраняющегося фактора риска или отсутствие идентифицируемых факторов риска."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-chronic-terminology-provoked",
+      "cells": [
+        { "text": { "en": "Chronic treatment after the first 3 months", "ru": "Хроническое лечение после первых 3 месяцев" } },
+        {
+          "text": {
+            "en": "Terminology such as 'provoked' vs. 'unprovoked' PE/VTE is no longer supported by the Guidelines, as it is potentially misleading and not helpful for decision-making regarding the duration of anticoagulation.",
+            "ru": "Терминология «спровоцированная» против «неспровоцированной» ТЭЛА/ВТЭ больше не поддерживается рекомендациями, так как она потенциально вводит в заблуждение и не помогает в принятии решений о длительности антикоагуляции."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13-chronic-scores-vte-bleeding",
+      "cells": [
+        { "text": { "en": "Chronic treatment after the first 3 months", "ru": "Хроническое лечение после первых 3 месяцев" } },
+        {
+          "text": {
+            "en": "VTE recurrence scores are presented and discussed in parallel with bleeding scores for patients on anticoagulation treatment (Supplementary Tables 13 and 14, respectively).",
+            "ru": "Шкалы оценки риска рецидива ВТЭ представлены и обсуждаются параллельно со шкалами риска кровотечений у пациентов на антикоагулянтной терапии (Дополнительные таблицы 13 и 14 соответственно)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14-chronic-reduced-dose-doac",
+      "cells": [
+        { "text": { "en": "Chronic treatment after the first 3 months", "ru": "Хроническое лечение после первых 3 месяцев" } },
+        {
+          "text": {
+            "en": "A reduced dose of apixaban or rivaroxaban for extended anticoagulation should be considered after the first 6 months of treatment.",
+            "ru": "Сниженная доза апиксабана или ривароксабана для продленной антикоагулянтной терапии должна рассматриваться после первых 6 месяцев лечения."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r15-cancer-edoxaban-rivaroxaban",
+      "cells": [
+        { "text": { "en": "PE in cancer", "ru": "ТЭЛА при онкологических заболеваниях" } },
+        {
+          "text": {
+            "en": "Edoxaban or rivaroxaban should be considered as an alternative to LMWH, with a word of caution for patients with gastrointestinal cancer due to the increased bleeding risk with NOACs.",
+            "ru": "Эдоксабан или ривароксабан следует рассматривать как альтернативу НМГ, с предостережением относительно пациентов с раком ЖКТ из-за повышенного риска кровотечений на фоне НОАК."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r16-preg-diagnostic-algorithm",
+      "cells": [
+        { "text": { "en": "PE in pregnancy", "ru": "ТЭЛА при беременности" } },
+        {
+          "text": {
+            "en": "A dedicated diagnostic algorithm is proposed for suspected PE in pregnancy (Figure 7).",
+            "ru": "Предложен специализированный диагностический алгоритм при подозрении на ТЭЛА у беременных (Рисунок 7)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r17-preg-radiation-absorption",
+      "cells": [
+        { "text": { "en": "PE in pregnancy", "ru": "ТЭЛА при беременности" } },
+        {
+          "text": {
+            "en": "Updated information is provided on radiation absorption related to procedures used for diagnosing PE in pregnancy (Table 12).",
+            "ru": "Представлена обновленная информация о поглощении радиации при процедурах, используемых для диагностики ТЭЛА во время беременности (Таблица 12)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r18-longterm-integrated-care",
+      "cells": [
+        { "text": { "en": "Long-term sequelae", "ru": "Отдаленные последствия" } },
+        {
+          "text": {
+            "en": "An integrated model of patient care after PE is proposed to ensure optimal transition from hospital to community care.",
+            "ru": "Предложена интегративная модель ведения пациентов после ТЭЛА для обеспечения оптимального перехода от стационарной к амбулаторной помощи."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r19-longterm-postpe-spectrum",
+      "cells": [
+        { "text": { "en": "Long-term sequelae", "ru": "Отдаленные последствия" } },
+        {
+          "text": {
+            "en": "Recommendations on patient care have been extended to the entire spectrum of post-PE symptoms and functional limitation, not only CTEPH.",
+            "ru": "Рекомендации по ведению пациентов расширены на весь спектр пост-ТЭЛА симптомов и функциональных ограничений, а не только на ХТЛГ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r20-longterm-followup-algorithm",
+      "cells": [
+        { "text": { "en": "Long-term sequelae", "ru": "Отдаленные последствия" } },
+        {
+          "text": {
+            "en": "A new comprehensive algorithm is proposed for patient follow-up after acute PE (Figure 8).",
+            "ru": "Предложен новый комплексный алгоритм диспансерного наблюдения за пациентами после перенесенной острой ТЭЛА (Рисунок 8)."
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "new-concepts",
+    "pe",
+    "diagnosis",
+    "risk-assessment",
+    "acute-treatment",
+    "chronic-treatment",
+    "cancer",
+    "pregnancy",
+    "cteph",
+    "follow-up"
+  ]
+}

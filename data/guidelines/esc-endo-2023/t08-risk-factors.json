@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.t08-risk-factors",
+  "guidelineId": "esc-endo-2023",
+  "number": "Table 8",
+  "type": "grid",
+  "title": {
+    "en": "Table 8 — Cardiac and non-cardiac risk factors",
+    "ru": "Таблица 8 — Кардиальные и некардиальные факторы риска"
+  },
+  "tags": [
+    "endocarditis",
+    "risk-factors",
+    "cardiac",
+    "non-cardiac",
+    "cied",
+    "prosthetic-valves",
+    "catheters"
+  ],
+  "columns": [
+    {
+      "id": "c_category",
+      "title": {
+        "en": "Category",
+        "ru": "Категория факторов риска"
+      }
+    },
+    {
+      "id": "c_factor",
+      "title": {
+        "en": "Risk Factor",
+        "ru": "Фактор риска"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-cardiac-prev-ie",
+      "cells": [
+        { "text": { "en": "Cardiac risk factors", "ru": "Кардиальные факторы риска" } },
+        { "text": { "en": "Previous infective endocarditis", "ru": "Инфекционный эндокардит в анамнезе" } }
+      ]
+    },
+    {
+      "id": "r02-cardiac-vhd",
+      "cells": [
+        { "text": { "en": "Cardiac risk factors", "ru": "Кардиальные факторы риска" } },
+        { "text": { "en": "Valvular heart disease", "ru": "Клапанные пороки сердца" } }
+      ]
+    },
+    {
+      "id": "r03-cardiac-prosthetic-valve",
+      "cells": [
+        { "text": { "en": "Cardiac risk factors", "ru": "Кардиальные факторы риска" } },
+        { "text": { "en": "Prosthetic heart valve", "ru": "Протезированный клапан сердца" } }
+      ]
+    },
+    {
+      "id": "r04-cardiac-catheter",
+      "cells": [
+        { "text": { "en": "Cardiac risk factors", "ru": "Кардиальные факторы риска" } },
+        { "text": { "en": "Central venous or arterial catheter", "ru": "Центральный венозный или артериальный катетер" } }
+      ]
+    },
+    {
+      "id": "r05-cardiac-cied",
+      "cells": [
+        { "text": { "en": "Cardiac risk factors", "ru": "Кардиальные факторы риска" } },
+        { "text": { "en": "Transvenous cardiac implantable electronic device", "ru": "Трансвенозное имплантируемое электронное сердечное устройство (CIED)" } }
+      ]
+    },
+    {
+      "id": "r06-cardiac-chd",
+      "cells": [
+        { "text": { "en": "Cardiac risk factors", "ru": "Кардиальные факторы риска" } },
+        { "text": { "en": "Congenital heart disease", "ru": "Врожденный порок сердца" } }
+      ]
+    },
+    {
+      "id": "r07-non-cardiac-cvc",
+      "cells": [
+        { "text": { "en": "Non-cardiac risk factors", "ru": "Некардиальные факторы риска" } },
+        { "text": { "en": "Central venous catheter", "ru": "Центральный венозный катетер" } }
+      ]
+    },
+    {
+      "id": "r08-non-cardiac-pwid",
+      "cells": [
+        { "text": { "en": "Non-cardiac risk factors", "ru": "Некардиальные факторы риска" } },
+        { "text": { "en": "People who inject drugs", "ru": "Лица, употребляющие инъекционные наркотики" } }
+      ]
+    },
+    {
+      "id": "r09-non-cardiac-immunosuppression",
+      "cells": [
+        { "text": { "en": "Non-cardiac risk factors", "ru": "Некардиальные факторы риска" } },
+        { "text": { "en": "Immunosuppression", "ru": "Иммуносупрессия" } }
+      ]
+    },
+    {
+      "id": "r10-non-cardiac-recent-procedures",
+      "cells": [
+        { "text": { "en": "Non-cardiac risk factors", "ru": "Некардиальные факторы риска" } },
+        { "text": { "en": "Recent dental or surgical procedures", "ru": "Недавно перенесенные стоматологические или хирургические вмешательства" } }
+      ]
+    },
+    {
+      "id": "r11-non-cardiac-hospitalization",
+      "cells": [
+        { "text": { "en": "Non-cardiac risk factors", "ru": "Некардиальные факторы риска" } },
+        { "text": { "en": "Recent hospitalization", "ru": "Недавняя госпитализация" } }
+      ]
+    },
+    {
+      "id": "r12-non-cardiac-haemodialysis",
+      "cells": [
+        { "text": { "en": "Non-cardiac risk factors", "ru": "Некардиальные факторы риска" } },
+        { "text": { "en": "Haemodialysis", "ru": "Гемодиализ" } }
+      ]
+    }
+  ]
+}

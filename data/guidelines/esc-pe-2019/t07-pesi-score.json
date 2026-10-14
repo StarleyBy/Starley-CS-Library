@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t07-pesi-score",
+  "guidelineId": "esc-pe-2019",
+  "number": "Table 7",
+  "type": "grid",
+  "title": {
+    "en": "Original and simplified Pulmonary Embolism Severity Index",
+    "ru": "Оригинальный и упрощенный индексы тяжести тромбоэмболии легочной артерии (PESI и sPESI)"
+  },
+  "columns": [
+    {
+      "id": "c_parameter",
+      "title": {
+        "en": "Parameter",
+        "ru": "Параметр / Признак"
+      }
+    },
+    {
+      "id": "c_original",
+      "title": {
+        "en": "Original version",
+        "ru": "Оригинальная версия (PESI)"
+      }
+    },
+    {
+      "id": "c_simplified",
+      "title": {
+        "en": "Simplified version",
+        "ru": "Упрощенная версия (sPESI)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-age",
+      "cells": [
+        { "text": { "en": "Age", "ru": "Возраст" } },
+        { "text": { "en": "Age in years", "ru": "Возраст в годах (1 балл за каждый год)" } },
+        { "text": { "en": "1 point (if age >80 years)", "ru": "1 балл (если возраст >80 лет)" } }
+      ]
+    },
+    {
+      "id": "r02-male-sex",
+      "cells": [
+        { "text": { "en": "Male sex", "ru": "Мужской пол" } },
+        { "text": { "en": "+10 points", "ru": "+10 баллов" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r03-cancer",
+      "cells": [
+        { "text": { "en": "Cancer", "ru": "Злокачественное новообразование" } },
+        { "text": { "en": "+30 points", "ru": "+30 баллов" } },
+        { "text": { "en": "1 point", "ru": "1 балл" } }
+      ]
+    },
+    {
+      "id": "r04-chronic-hf",
+      "cells": [
+        { "text": { "en": "Chronic heart failure", "ru": "Хроническая сердечная недостаточность" } },
+        { "text": { "en": "+10 points", "ru": "+10 баллов" } },
+        { "text": { "en": "1 point (вместе с ХОБЛ/хроническими болезнями легких)", "ru": "1 балл (вместе с ХОБЛ/хроническими болезнями легких)" } }
+      ]
+    },
+    {
+      "id": "r05-chronic-pulmonary",
+      "cells": [
+        { "text": { "en": "Chronic pulmonary disease", "ru": "Хронические заболевания легких" } },
+        { "text": { "en": "+10 points", "ru": "+10 баллов" } },
+        { "text": { "en": "1 point (вместе с ХСН)", "ru": "1 балл (вместе с ХСН)" } }
+      ]
+    },
+    {
+      "id": "r06-pulse-rate-gte-110",
+      "cells": [
+        { "text": { "en": "Pulse rate ≥110 b.p.m.", "ru": "ЧСС / пульс ≥110 уд/мин" } },
+        { "text": { "en": "+20 points", "ru": "+20 баллов" } },
+        { "text": { "en": "1 point", "ru": "1 балл" } }
+      ]
+    },
+    {
+      "id": "r07-sbp-lt-100",
+      "cells": [
+        { "text": { "en": "Systolic BP <100 mmHg", "ru": "Систолическое АД <100 мм рт. ст." } },
+        { "text": { "en": "+30 points", "ru": "+30 баллов" } },
+        { "text": { "en": "1 point", "ru": "1 балл" } }
+      ]
+    },
+    {
+      "id": "r08-resp-rate-gt-30",
+      "cells": [
+        { "text": { "en": "Respiratory rate >30 breaths per min", "ru": "Частота дыхания >30 в минуту" } },
+        { "text": { "en": "+20 points", "ru": "+20 баллов" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r09-temperature-lt-36",
+      "cells": [
+        { "text": { "en": "Temperature <36°C", "ru": "Температура тела <36°C" } },
+        { "text": { "en": "+20 points", "ru": "+20 баллов" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r10-altered-mental-status",
+      "cells": [
+        { "text": { "en": "Altered mental status", "ru": "Нарушение ментального статуса / спутанность сознания" } },
+        { "text": { "en": "+60 points", "ru": "+60 баллов" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r11-sao2-lt-90",
+      "cells": [
+        { "text": { "en": "Arterial oxyhaemoglobin saturation <90%", "ru": "Сатурация артериальной крови кислородом <90%" } },
+        { "text": { "en": "+20 points", "ru": "+20 баллов" } },
+        { "text": { "en": "1 point", "ru": "1 балл" } }
+      ]
+    },
+    {
+      "id": "r12-risk-strata-header",
+      "kind": "section",
+      "cells": [
+        { "text": { "en": "Risk strata (based on the sum of points)", "ru": "Страты риска (на основании суммы баллов)" }, "colspan": 3 }
+      ]
+    },
+    {
+      "id": "r13-strata-low",
+      "cells": [
+        { "text": { "en": "Low 30-day mortality risk", "ru": "Низкий риск 30-дневной летальности" }, "tone": "green" },
+        {
+          "text": {
+            "en": "**Class I: ≤65 points**\nvery low 30 day mortality risk (0–1.6%)\n\n**Class II: 66–85 points**\nlow mortality risk (1.7–3.5%)",
+            "ru": "**Класс I: ≤65 баллов**\nочень низкий риск 30-дневной летальности (0–1,6%)\n\n**Класс II: 66–85 баллов**\nнизкий риск 30-дневной летальности (1,7–3,5%)"
+          }
+        },
+        {
+          "text": {
+            "en": "**0 points** = 30 day mortality risk 1.0% (95% CI 0.0–2.1%)",
+            "ru": "**0 баллов** = 30-дневный риск летальности 1,0% (95% ДИ 0,0–2,1%)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14-strata-high",
+      "cells": [
+        { "text": { "en": "Increased 30-day mortality risk", "ru": "Повышенный риск 30-дневной летальности" }, "tone": "red" },
+        {
+          "text": {
+            "en": "**Class III: 86–105 points**\nmoderate mortality risk (3.2–7.1%)\n\n**Class IV: 106–125 points**\nhigh mortality risk (4.0–11.4%)\n\n**Class V: >125 points**\nvery high mortality risk (10.0–24.5%)",
+            "ru": "**Класс III: 86–105 баллов**\nумеренный риск летальности (3,2–7,1%)\n\n**Класс IV: 106–125 баллов**\nвысокий риск летальности (4,0–11,4%)\n\n**Класс V: >125 баллов**\nочень высокий риск летальности (10,0–24,5%)"
+          }
+        },
+        {
+          "text": {
+            "en": "**≥1 point(s)** = 30 day mortality risk 10.9% (95% CI 8.5–13.2%)",
+            "ru": "**≥1 балла** = 30-дневный риск летальности 10,9% (95% ДИ 8,5–13,2%)"
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "pesi",
+    "spesi",
+    "severity-index",
+    "risk-stratification",
+    "mortality",
+    "prognosis",
+    "pe"
+  ]
+}

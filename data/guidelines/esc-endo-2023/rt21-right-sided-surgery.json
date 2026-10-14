@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt21-right-sided-surgery",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 21",
+  "title": {
+    "en": "Recommendations for the surgical treatment of right-sided infective endocarditis",
+    "ru": "Рекомендации по хирургическому лечению правостороннего инфекционного эндокардита"
+  },
+  "sections": [
+    {
+      "id": "right-sided-ie-surgery",
+      "title": {
+        "en": "Surgical treatment of right-sided infective endocarditis",
+        "ru": "Хирургическое лечение правостороннего инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Surgery is recommended in patients with right-sided IE who are receiving appropriate antibiotic therapy for right ventricular dysfunction secondary to acute severe tricuspid regurgitation non-responsive to diuretics.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с правосторонним ИЭ, получающим адекватную антибиотикотерапию, при правожелудочковой дисфункции вследствие острой тяжелой трикуспидальной регургитации, рефрактерной к диуретикам."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Surgery is recommended in patients with right-sided IE who are receiving appropriate antibiotic therapy for persistent vegetation with respiratory insufficiency requiring ventilatory support after recurrent pulmonary emboli.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с правосторонним ИЭ, получающим адекватную антибиотикотерапию, при персистирующих вегетациях с дыхательной недостаточностью, требующей респираторной поддержки после повторных эмболий в легочную артерию."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Surgery is recommended in patients with right-sided IE who are receiving appropriate antibiotic therapy for large residual tricuspid vegetations (>20 mm) after recurrent septic pulmonary emboli.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с правосторонним ИЭ, получающим адекватную антибиотикотерапию, при крупных резидуальных трикуспидальных вегетациях (>20 мм) после повторных септических легочных эмболий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Surgery is recommended in patients with right-sided IE who are receiving appropriate antibiotic therapy for patients with simultaneous involvement of left-heart structures.",
+            "ru": "Хирургическое лечение рекомендуется пациентам с правосторонним ИЭ, получающим адекватную антибиотикотерапию, при симультанном (одновременном) поражении левых камер/структур сердца."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Tricuspid valve repair should be considered instead of valve replacement, when possible.",
+            "ru": "Пластику трехстворчатого клапана следует предпочесть его протезированию, когда это возможно."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Surgery should be considered in patients with right-sided IE who are receiving appropriate antibiotic therapy and present persistent bacteraemia/sepsis after at least 1 week of appropriate antibiotic therapy.",
+            "ru": "Хирургическое вмешательство следует рассмотреть у пациентов с правосторонним ИЭ, получающих адекватную антибактериальную терапию, при персистирующей бактериемии/сепсисе после как минимум 1 недели адекватной антибиотикотерапии."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Prophylactic placement of an epicardial pacing lead should be considered at the time of tricuspid valve surgical procedures.",
+            "ru": "Профилактическую установку эпикардиального электрода стимуляции следует рассмотреть во время хирургических вмешательств на трехстворчатом клапане."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Debulking of right intra-atrial septic masses by aspiration may be considered in selected patients who are high risk for surgery.",
+            "ru": "Дебулкинг септических масс в правом предсердии методом аспирации может быть рассмотрен у отдельных пациентов с высоким хирургическим риском."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

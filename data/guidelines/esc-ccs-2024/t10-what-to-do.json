@@ -1,0 +1,1470 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.t10-what-to-do",
+  "guidelineId": "esc-ccs-2024",
+  "number": "Table 10 (What to do)",
+  "type": "recommendations",
+  "title": {
+    "en": "Table 10 — 'What to do' and 'What not to do'",
+    "ru": "Таблица 10 — «Что делать» и «Чего не делать» (Ключевые рекомендации I и III классов)"
+  },
+  "tags": [
+    "ccs",
+    "what-to-do",
+    "what-not-to-do",
+    "summary",
+    "class-i",
+    "class-iii"
+  ],
+  "sections": [
+    {
+      "id": "sec-rt01-history-ecg",
+      "title": {
+        "en": "Recommendations for history taking, risk factor assessment, and resting electrocardiogram in individuals with suspected chronic coronary syndrome",
+        "ru": "Рекомендации по сбору анамнеза, оценке факторов риска и ЭКГ покоя у лиц с подозрением на хронический коронарный синдром"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In individuals reporting symptoms of suspected myocardial ischaemic origin, a detailed assessment of cardiovascular risk factors, medical history, and symptom characteristics (including onset, duration, type, location, triggers, relieving factors, time of day) is recommended.",
+            "ru": "У лиц с симптомами предположительно ишемического генеза рекомендуется детальная оценка факторов сердечно-сосудистого риска, анамнеза жизни и характеристик симптомов (включая начало, длительность, характер, локализацию, провоцирующие и облегчающие факторы, время суток)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "If clinical or ECG assessment suggests ACS rather than CCS, immediate referral to the emergency department and/or repeated measurement of blood troponin, preferably using high-sensitivity or ultrasensitive assays, to rule out acute myocardial injury, is recommended.",
+            "ru": "Если клинические данные или ЭКГ указывают на острый коронарный синдром (ОКС), а не на ХКС, рекомендуется немедленное направление в отделение неотложной помощи и/или повторное определение уровня тропонина в крови (предпочтительно с использованием высокочувствительных или ультрачувствительных тестов) для исключения острого повреждения миокарда."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "A resting 12-lead ECG is recommended in all individuals reporting chest pain (unless an obvious non-cardiac cause is identified), particularly during, or immediately after, an episode suggestive of myocardial ischaemia.",
+            "ru": "Регистрация 12-канальной ЭКГ покоя рекомендуется всем лицам с жалобами на боль в груди (если не выявлена очевидная внесердечная причина), особенно во время или сразу после эпизода, подозрительного на ишемию миокарда."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Using ST-segment deviations during supraventricular tachyarrhythmias, particularly during re-entrant atrioventricular tachycardias, per se, as reliable evidence of obstructive CAD, is not recommended.",
+            "ru": "Использование смещений сегмента ST во время суправентрикулярных тахиаритмий (особенно при реципрокных атриовентрикулярных тахикардиях) самих по себе как достоверного признака обструктивной ИБС не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt02-biochemistry",
+      "title": {
+        "en": "Recommendations for basic biochemistry in the initial diagnostic management of individuals with suspected chronic coronary syndrome",
+        "ru": "Рекомендации по базовым биохимическим исследованиям при первичной диагностике у лиц с подозрением на хронический коронарный синдром"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "The following blood tests are recommended in all individuals to refine risk stratification, diagnose comorbidities, and guide treatment:\n• lipid profile including LDL-C;\n• full blood count (including haemoglobin);\n• creatinine with estimation of renal function;\n• glycaemic status with HbA1c and/or fasting plasma glucose.",
+            "ru": "Следующие лабораторные анализы крови рекомендуются всем лицам для уточнения стратификации риска, выявления коморбидных состояний и выбора терапии:\n• липидный профиль, включая ХС-ЛПНП;\n• общий анализ крови (включая гемоглобин);\n• креатинин с оценкой функции почек (СКФ);\n• гликемический статус с определением HbA1c и/или глюкозы плазмы натощак."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In patients with suspected CCS, it is recommended to assess thyroid function at least once.",
+            "ru": "У пациентов с подозрением на ХКС рекомендуется хотя бы однократно оценить функцию щитовидной железы (ТТГ)."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt03-pretest-likelihood",
+      "title": {
+        "en": "Recommendations for estimating, adjusting and reclassifying the likelihood of obstructive atherosclerotic coronary artery disease in the initial diagnostic management of individuals with suspected chronic coronary syndrome",
+        "ru": "Рекомендации по оценке, модификации и реклассификации вероятности обструктивной ИБС при первичной диагностике у лиц с подозрением на хронический коронарный синдром"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "It is recommended to estimate the pre-test likelihood of obstructive epicardial CAD using the Risk Factor-weighted Clinical Likelihood model.",
+            "ru": "Рекомендуется оценивать предтестовую вероятность обструктивной эпикардиальной ИБС с помощью модели клинической вероятности, взвешенной по факторам риска (Risk Factor-weighted Clinical Likelihood model)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "It is recommended to use additional clinical data (e.g. examination of peripheral arteries, resting ECG, resting echocardiography, presence of vascular calcifications on previously performed imaging tests) to adjust the estimate yielded by the Risk Factor-weighted Clinical Likelihood model.",
+            "ru": "Рекомендуется использовать дополнительные клинические данные (исследование периферических артерий, ЭКГ покоя, ЭхоКГ покоя, наличие сосудистого кальциноза по ранее выполненным лучевым исследованиям) для корректировки вероятности, полученной по модели Risk Factor-weighted Clinical Likelihood."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt04-resting-tte-cmr",
+      "title": {
+        "en": "Recommendations for resting transthoracic ultrasound and cardiac magnetic resonance imaging in the initial diagnostic management of individuals with suspected chronic coronary syndrome",
+        "ru": "Рекомендации по трансторакальной ЭхоКГ покоя и МРТ сердца при первичной диагностике у лиц с подозрением на хронический коронарный синдром"
+      },
+      "rows": [
+        {
+          "id": "r09",
+          "text": {
+            "en": "A resting transthoracic echocardiogram is recommended:\n• to measure LVEF, volumes and diastolic function;\n• identify regional wall motion abnormalities;\n• identify non-coronary cardiac disease (e.g. hypertrophy, cardiomyopathy, valve disease, pericardial effusion);\n• assess right ventricular function and estimate systolic pulmonary artery pressure;\nto refine risk stratification and guide treatment.",
+            "ru": "Трансторакальная эхокардиография (ЭхоКГ) покоя рекомендуется для:\n• измерения ФВ ЛЖ, объемов и диастолической функции;\n• выявления локальных нарушений сократимости миокарда;\n• диагностики некоронарных заболеваний сердца (гипертрофия, кардиомиопатия, пороки клапанов, выпот в полости перикарда);\n• оценки функции правого желудочка и систолического давления в легочной артерии;\nс целью детализации стратификации риска и выбора лечебной тактики."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt05-exercise-ecg",
+      "title": {
+        "en": "Recommendations for the use of exercise ECG in the initial diagnostic management of individuals with suspected chronic coronary syndrome",
+        "ru": "Рекомендации по применению нагрузочной ЭКГ при первичной диагностике у лиц с подозрением на хронический коронарный синдром"
+      },
+      "rows": [
+        {
+          "id": "r10",
+          "text": {
+            "en": "Exercise ECG is recommended in selected patients (when this information will have an impact on diagnostic strategy or management) for the assessment of exercise tolerance, symptoms, arrhythmias, BP response, and event risk.",
+            "ru": "Нагрузочная ЭКГ рекомендуется у отобранных пациентов (когда эта информация повлияет на диагностическую тактику или лечение) для оценки толерантности к физической нагрузке, симптомов, аритмий, реакции артериального давления и риска сердечно-сосудистых событий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "Exercise ECG is not recommended for diagnostic purposes in patients with ≥0.1 mV ST-segment depression on resting ECG, left bundle branch block or who are being treated with digitalis.",
+            "ru": "Нагрузочная ЭКГ не рекомендуется в диагностических целях у пациентов с депрессией сегмента ST ≥0,1 мВ на ЭКГ покоя, блокадой левой ножки пучка Гиса (БЛНПГ) или у лиц, получающих терапию препаратами наперстянки (дигиталис)."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "In individuals with a low or moderate (>5%–50%) pre-test likelihood of obstructive CAD, an exercise ECG is not recommended to rule out CAD if CCTA or functional imaging tests are available.",
+            "ru": "У лиц с низкой или умеренной (>5%–50%) предтестовой вероятностью обструктивной ИБС нагрузочная ЭКГ не рекомендуется для исключения ИБС при доступности КТ-коронарографии (CCTA) или функциональных стресс-визуализирующих тестов."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt07-ambulatory-ecg",
+      "title": {
+        "en": "Recommendations for ambulatory ECG monitoring in the initial diagnostic management of individuals with suspected chronic coronary syndrome",
+        "ru": "Рекомендации по амбулаторному мониторированию ЭКГ при первичной диагностике у лиц с подозрением на хронический коронарный синдром"
+      },
+      "rows": [
+        {
+          "id": "r13",
+          "text": {
+            "en": "Ambulatory ECG monitoring is recommended in subjects with chest pain and suspected arrhythmias.",
+            "ru": "Амбулаторное мониторирование ЭКГ рекомендуется лицам с болью в грудной клетке и подозрением на аритмии."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt08-ccta",
+      "title": {
+        "en": "Recommendations for non-invasive anatomical imaging tests in the initial diagnostic management of individuals with suspected chronic coronary syndrome—coronary computed tomography angiography, if available, and supported by local expertise",
+        "ru": "Рекомендации по неинвазивным анатомическим визуализирующим тестам при первичной диагностике у лиц с подозрением на ХКС — КТ-коронарография при наличии и подтвержденном опыте центра"
+      },
+      "rows": [
+        {
+          "id": "r14",
+          "text": {
+            "en": "In individuals with suspected CCS and low or moderate (>5%–50%) pre-test likelihood of obstructive CAD, CCTA is recommended to diagnose obstructive CAD and to estimate the risk of MACE.",
+            "ru": "У лиц с подозрением на ХКС и низкой или умеренной (>5%–50%) предтестовой вероятностью обструктивной ИБС рекомендуется КТ-коронарография (CCTA) для диагностики обструктивной ИБС и оценки риска больших сердечно-сосудистых событий (MACE)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "CCTA is recommended in individuals with low or moderate (>5%–50%) pre-test likelihood of obstructive CAD to refine diagnosis if another non-invasive test is non-diagnostic.",
+            "ru": "КТ-коронарография (CCTA) рекомендуется лицам с низкой или умеренной (>5%–50%) предтестовой вероятностью обструктивной ИБС для уточнения диагноза, если результаты другого неинвазивного теста неинформативны."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r16",
+          "text": {
+            "en": "CCTA is not recommended in patients with severe renal failure (eGFR <30 mL/min/1.73 m²), decompensated heart failure, extensive coronary calcification, fast irregular heart rate, severe obesity, inability to cooperate with breath-hold commands, or any other conditions that can make obtaining good imaging quality unlikely.",
+            "ru": "КТ-коронарография (CCTA) не рекомендуется пациентам с тяжелой почечной недостаточностью (рСКФ <30 мл/мин/1,73 м²), декомпенсированной сердечной недостаточностью, выраженным распространенным кальцинозом коронарных артерий, частым нерегулярным сердечным ритмом, выраженным ожирением, неспособностью задерживать дыхание по команде или любыми другими состояниями, делающими получение диагностического качества изображений маловероятным."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt09-stress-echocardiography",
+      "title": {
+        "en": "Recommendations for non-invasive tests in the initial diagnostic management of individuals with suspected chronic coronary syndrome—stress echocardiography, if available, and supported by local expertise",
+        "ru": "Рекомендации по неинвазивным тестам при первичной диагностике у лиц с подозрением на ХКС — стресс-эхокардиография при наличии и подтвержденном опыте центра"
+      },
+      "rows": [
+        {
+          "id": "r17",
+          "text": {
+            "en": "In individuals with suspected CCS and moderate or high (>15%–85%) pre-test likelihood of obstructive CAD, stress echocardiography is recommended to diagnose myocardial ischaemia and to estimate the risk of MACE.",
+            "ru": "У лиц с подозрением на ХКС и умеренной или высокой (>15%–85%) предтестовой вероятностью обструктивной ИБС рекомендуется стресс-эхокардиография для диагностики ишемии миокарда и оценки риска больших сердечно-сосудистых событий (MACE)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r18",
+          "text": {
+            "en": "During stress echocardiography, when two or more contiguous myocardial segments are not visualized, it is recommended to use commercially available intravenous ultrasound contrast agents (microbubbles) to improve diagnostic accuracy.",
+            "ru": "При стресс-эхокардиографии, когда не удается визуализировать два или более смежных сегмента миокарда, рекомендуется использовать внутривенные ультразвуковые контрастные препараты (микропузырьки) для повышения диагностической точности."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r19",
+          "text": {
+            "en": "During stress echocardiography, myocardial perfusion using commercially available intravenous ultrasound contrast agents (microbubbles) is recommended to improve diagnostic accuracy and to refine risk stratification beyond wall motion.",
+            "ru": "При стресс-эхокардиографии оценка перфузии миокарда с помощью внутривенных ультразвуковых контрастных препаратов (микропузырьков) рекомендуется для повышения диагностической точности и детализации стратификации риска в дополнение к оценке локальной сократимости."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt10-spect-pet-cmr",
+      "title": {
+        "en": "Recommendations for non-invasive functional myocardial imaging tests in the initial diagnostic management of individuals with suspected chronic coronary syndrome—resting and stress single-photon emission computed tomography/positron emission tomography—cardiac magnetic resonance imaging, if available, and supported by local expertise",
+        "ru": "Рекомендации по неинвазивным функциональным тестам визуализации миокарда при первичной диагностике у лиц с подозрением на ХКС — ОФЭКТ/ПЭТ покоя и нагрузки — МРТ сердца при наличии и подтвержденном опыте центра"
+      },
+      "rows": [
+        {
+          "id": "r20",
+          "text": {
+            "en": "In individuals with suspected CCS and moderate or high (>15%–85%) pre-test likelihood of obstructive CAD, stress SPECT or, preferably, PET myocardial perfusion imaging is recommended to:\n• diagnose and quantify myocardial ischaemia and/or scar;\n• estimate the risk of MACE;\n• quantify myocardial blood flow (PET).",
+            "ru": "У лиц с подозрением на ХКС и умеренной или высокой (>15%–85%) предтестовой вероятностью обструктивной ИБС перфузионная визуализация миокарда методом стресс-ОФЭКТ (SPECT) или предпочтительно стресс-ПЭТ (PET) рекомендуется для:\n• диагностики и количественной оценки ишемии и/или рубца миокарда;\n• оценки риска больших сердечно-сосудистых событий (MACE);\n• количественной оценки миокардиального кровотока (при ПЭТ)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r21",
+          "text": {
+            "en": "In patients selected for PET or SPECT myocardial perfusion imaging, it is recommended to measure CACS from unenhanced chest CT imaging (used for attenuation correction) to improve detection of both non-obstructive and obstructive CAD.",
+            "ru": "У пациентов, отобранных для перфузионной визуализации миокарда методами ПЭТ или ОФЭКТ, рекомендуется измерять индекс кальциноза коронарных артерий (CACS) по бесконтрастной КТ грудной клетки (применяемой для коррекции ослабления), чтобы повысить точность выявления как необструктивной, так и обструктивной ИБС."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r22",
+          "text": {
+            "en": "In individuals with suspected CCS and moderate or high (>15%–85%) pre-test likelihood of obstructive CAD, stress CMR perfusion imaging is recommended to diagnose and quantify myocardial ischaemia and/or scar and estimate the risk of MACE.",
+            "ru": "У лиц с подозрением на ХКС и умеренной или высокой (>15%–85%) предтестовой вероятностью обструктивной ИБС перфузионная МРТ сердца с нагрузкой (стресс-CMR) рекомендуется для диагностики и количественной оценки ишемии и/или рубца миокарда, а также для оценки риска MACE."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt11-ica-indications",
+      "title": {
+        "en": "Recommendations for invasive coronary angiography in individuals with suspected obstructive coronary artery disease",
+        "ru": "Рекомендации по проведению инвазивной коронарографии у лиц с подозрением на обструктивную ишемическую болезнь сердца"
+      },
+      "rows": [
+        {
+          "id": "r23",
+          "text": {
+            "en": "When ICA is indicated, radial artery access is recommended as the preferred access site.",
+            "ru": "При наличии показаний к инвазивной коронарографии (ICA) лучевой доступ рекомендуется в качестве предпочтительного места сосудистого доступа."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r24",
+          "text": {
+            "en": "When ICA is indicated, it is recommended to have coronary pressure assessment available and to use it to evaluate the functional severity of intermediate non-left main stem stenoses (typically 40%–90% by visual estimate) prior to revascularization.",
+            "ru": "При проведении инвазивной коронарографии рекомендуется иметь возможность измерения внутрикоронарного давления и применять его для оценки функциональной значимости пограничных стенозов (кроме ствола ЛКА; обычно 40%–90% визуально) перед реваскуляризацией."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r25",
+          "text": {
+            "en": "Invasive coronary angiography is recommended to diagnose obstructive CAD in individuals with a very high (>85%) clinical likelihood of disease, severe symptoms refractory to guideline-directed medical therapy, angina at a low level of exercise, and/or high event risk.",
+            "ru": "Инвазивная коронарография рекомендуется для диагностики обструктивной ИБС у лиц с очень высокой (>85%) клинической вероятностью заболевания, тяжелыми симптомами, резистентными к оптимальной медикаментозной терапии, стенокардией при низкой нагрузке и/или высоким риском неблагоприятных событий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r26",
+          "text": {
+            "en": "In individuals with de novo symptoms highly suggestive of obstructive CAD that occur at a low level of exercise, ICA with a view towards revascularization is recommended as first diagnostic test after clinical assessment by a cardiologist.",
+            "ru": "У лиц с впервые возникшими симптомами, убедительно указывающими на обструктивную ИБС и возникающими при низкой физической нагрузке, инвазивная коронарография с прицелом на реваскуляризацию рекомендуется в качестве первичного диагностического теста после клинической оценки кардиологом."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt12-functional-assessment",
+      "title": {
+        "en": "Recommendations for functional assessment of epicardial artery stenosis severity during invasive coronary angiography to guide revascularization",
+        "ru": "Рекомендации по функциональной оценке степени тяжести стенозов эпикардиальных артерий во время инвазивной коронарографии для определения тактики реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r27",
+          "text": {
+            "en": "During ICA, selective assessment of functional severity of intermediate (typically around 40%–90% for non-left main stem or 40%–70% for left main stem by visual estimate) diameter stenoses is recommended to guide the decision to revascularize, using FFR/iFR (significant ≤0.8 or ≤0.89, respectively).",
+            "ru": "Во время инвазивной коронарографии селективная функциональная оценка тяжести стенозов промежуточного диаметра (обычно около 40%–90% для артерий, кроме ствола ЛКА, и 40%–70% для ствола ЛКА визуально) рекомендуется для принятия решения о реваскуляризации с помощью измерения FFR/iFR (гемодинамически значимые при значениях ≤0,8 или ≤0,89 соответственно)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r28",
+          "text": {
+            "en": "During ICA, selective assessment of functional severity of intermediate diameter stenoses is recommended to guide the decision to revascularize, using QFR (significant ≤0.8).",
+            "ru": "Во время инвазивной коронарографии селективная функциональная оценка тяжести стенозов промежуточного диаметра рекомендуется для принятия решения о реваскуляризации с использованием ангиографического расчета QFR (гемодинамически значимый при ≤0,8)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r29",
+          "text": {
+            "en": "Systematic and routine wire-based coronary pressure assessment of all coronary vessels is not recommended.",
+            "ru": "Систематическая и рутинная проводниковая оценка внутрикоронарного давления во всех коронарных сосудах не рекомендуется."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt13-initial-test-selection",
+      "title": {
+        "en": "Recommendations for selection of initial diagnostic tests in individuals with suspected chronic coronary syndrome",
+        "ru": "Рекомендации по выбору первоначальных диагностических тестов у лиц с подозрением на хронический коронарный синдром"
+      },
+      "rows": [
+        {
+          "id": "r30",
+          "text": {
+            "en": "It is recommended to select the initial non-invasive diagnostic test based on pre-test likelihood of obstructive CAD, other patient characteristics that influence the performance of non-invasive tests (characteristics determining ability to exercise, likelihood of good image quality, expected radiation exposure, and risks or contraindications), and local expertise and availability.",
+            "ru": "Рекомендуется выбирать первичный неинвазивный диагностический тест на основании предтестовой вероятности обструктивной ИБС, индивидуальных характеристик пациента, влияющих на информативность тестов (способность выполнять физическую нагрузку, вероятность хорошего качества визуализации, лучевая нагрузка, риски и противопоказания), а также опыта клиники и доступности методик."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r31",
+          "text": {
+            "en": "In symptomatic patients in whom the pre-test likelihood of obstructive CAD by clinical assessment is >5%, CCTA or non-invasive functional imaging for myocardial ischaemia is recommended as the initial diagnostic test.",
+            "ru": "У симптомных пациентов с клинической предтестовой вероятностью обструктивной ИБС >5% в качестве первичного диагностического теста рекомендуется КТ-коронарография (CCTA) или неинвазивная функциональная визуализация ишемии миокарда."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r32",
+          "text": {
+            "en": "To rule out obstructive CAD in individuals with low or moderate (>5%–50%) pre-test likelihood, CCTA is recommended as the preferred diagnostic modality.",
+            "ru": "Для исключения обструктивной ИБС у лиц с низкой или умеренной (>5%–50%) предтестовой вероятностью КТ-коронарография (CCTA) рекомендуется в качестве предпочтительного метода диагностики."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r33",
+          "text": {
+            "en": "CCTA is recommended in individuals with low or moderate (>5%–50%) pre-test likelihood of obstructive CAD if functional imaging for myocardial ischaemia is not diagnostic.",
+            "ru": "КТ-коронарография (CCTA) рекомендуется лицам с низкой или умеренной (>5%–50%) предтестовой вероятностью обструктивной ИБС, если функциональная визуализация ишемии миокарда неинформативна."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r34",
+          "text": {
+            "en": "Functional imaging for myocardial ischaemia is recommended if CCTA has shown CAD of uncertain functional significance or is not diagnostic.",
+            "ru": "Функциональная визуализация ишемии миокарда рекомендуется, если CCTA выявила стенозы неопределенной функциональной значимости или оказалась неинформативной."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r35",
+          "text": {
+            "en": "Invasive coronary angiography with the availability of invasive functional assessments is recommended to confirm or exclude the diagnosis of obstructive CAD or ANOCA/INOCA in individuals with an uncertain diagnosis on non-invasive testing.",
+            "ru": "Инвазивная коронарография с возможностью инвазивной функциональной оценки рекомендуется для подтверждения или исключения диагноза обструктивной ИБС или ANOCA/INOCA у лиц с неопределенным диагнозом по результатам неинвазивных тестов."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt14-high-risk-definition",
+      "title": {
+        "en": "Recommendations for definition of high risk of adverse events",
+        "ru": "Рекомендации по определению высокого риска неблагоприятных сердечно-сосудистых событий"
+      },
+      "rows": [
+        {
+          "id": "r36",
+          "text": {
+            "en": "An initial stratification of risk of adverse events is recommended based on basic clinical assessment (e.g. age, ECG, anginal threshold, diabetes, CKD, LVEF).",
+            "ru": "Первичная стратификация риска неблагоприятных событий рекомендуется на основании базовой клинической оценки (возраст, ЭКГ, порог стенокардии, сахарный диабет, ХБП, ФВ ЛЖ)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r37",
+          "text": {
+            "en": "The use of one or more of the following test results is recommended to identify individuals at high risk of adverse events:\n• exercise ECG: Duke Treadmill Score < -10;\n• stress SPECT or PET perfusion imaging: area of ischaemia ≥10% of the LV myocardium;\n• stress echocardiography: ≥3 of 16 segments with stress-induced hypokinesia or akinesia;\n• stress CMR: ≥2 of 16 segments with stress perfusion defects or ≥3 dobutamine-induced dysfunctional segments;\n• CCTA: left main disease with ≥50% stenosis, three-vessel disease with ≥70% stenosis, or two-vessel disease with ≥70% stenosis including the proximal LAD, or one-vessel disease of the proximal LAD with ≥70% stenosis and FFR-CT ≤0.8.",
+            "ru": "Рекомендуется использование одного или нескольких из следующих критериев для выявления лиц с высоким риском неблагоприятных событий:\n• нагрузочная ЭКГ: индекс шкалы Duke Treadmill Score < -10;\n• стресс-ОФЭКТ или стресс-ПЭТ: площадь ишемии ≥10% миокарда ЛЖ;\n• стресс-ЭхоКГ: ≥3 из 16 сегментов с вызванным стрессом гипокинезом или акинезом;\n• стресс-МРТ: ≥2 из 16 сегментов с дефектами перфузии или ≥3 дисфункциональных сегмента при пробе с добутамином;\n• КТ-коронарография (CCTA): стеноз ствола ЛКА ≥50%, трехсосудистое поражение со стенозом ≥70%, двухсосудистое поражение со стенозом ≥70% с вовлечением проксимальной ПМЖВ, либо изолированный стеноз проксимальной ПМЖВ ≥70% при FFR-CT ≤0,8."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r38",
+          "text": {
+            "en": "In individuals at high risk of adverse events (regardless of symptoms), ICA—complemented by invasive coronary pressure (FFR/iFR) when appropriate—is recommended, with the aim of refining risk stratification and improving symptoms and cardiovascular outcomes by revascularization.",
+            "ru": "У лиц высокого риска неблагоприятных событий (независимо от выраженности симптомов) рекомендуется инвазивная коронарография (при необходимости дополненная измерением внутрикоронарного давления FFR/iFR) с целью уточнения стратификации риска, облегчения симптомов и улучшения сердечно-сосудистого прогноза посредством реваскуляризации."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt15-lifestyle-interventions",
+      "title": {
+        "en": "Recommendations for cardiovascular risk reduction, lifestyle changes, and exercise interventions in patients with established chronic coronary syndrome",
+        "ru": "Рекомендации по снижению сердечно-сосудистого риска, модификации образа жизни и программам физических тренировок у пациентов с установленным ХКС"
+      },
+      "rows": [
+        {
+          "id": "r39",
+          "text": {
+            "en": "An informed discussion on CVD risk and treatment benefits tailored to individual patient needs is recommended.",
+            "ru": "Рекомендуется информированное обсуждение риска ССЗ и пользы лечения с учетом индивидуальных потребностей пациента."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r40",
+          "text": {
+            "en": "Multidisciplinary behavioural approaches to help patients achieve healthy lifestyles, in addition to appropriate pharmacological management, are recommended.",
+            "ru": "Рекомендуются мультидисциплинарные поведенческие подходы для помощи пациентам в достижении здорового образа жизни в дополнение к надлежащей медикаментозной терапии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r41",
+          "text": {
+            "en": "A multidisciplinary exercise-based programme to improve cardiovascular risk profile and reduce cardiovascular mortality is recommended.",
+            "ru": "Рекомендуется участие в мультидисциплинарной программе кардиологической реабилитации на основе физических тренировок для улучшения профиля сердечно-сосудистого риска и снижения кардиоваскулярной смертности."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r42",
+          "text": {
+            "en": "Aerobic physical activity of at least 150–300 min per week of moderate intensity or 75–150 min per week of vigorous intensity and reduction in sedentary time are recommended.",
+            "ru": "Рекомендуются аэробные физические нагрузки умеренной интенсивности не менее 150–300 минут в неделю или высокой интенсивности 75–150 минут в неделю, а также сокращение времени малоподвижного образа жизни."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt16-antianginal-drugs",
+      "title": {
+        "en": "Recommendations for antianginal drugs in patients with chronic coronary syndrome",
+        "ru": "Рекомендации по антиангинальным препаратам у пациентов с хроническим коронарным синдромом"
+      },
+      "rows": [
+        {
+          "id": "r43",
+          "text": {
+            "en": "It is recommended to tailor the selection of antianginal drugs to the patient's characteristics, comorbidities, concomitant medications, treatment tolerability, and underlying pathophysiology of angina, also considering local drug availability and cost.",
+            "ru": "Рекомендуется индивидуализировать выбор антиангинальных препаратов с учетом характеристик пациента, сопутствующих заболеваний, сопутствующей медикаментозной терапии, переносимости лечения и патофизиологического механизма стенокардии, а также доступности и стоимости лекарств."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r44",
+          "text": {
+            "en": "Short-acting nitrates are recommended for immediate relief of angina.",
+            "ru": "Нитраты короткого действия рекомендуются для быстрого купирования приступов стенокардии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r45",
+          "text": {
+            "en": "Initial treatment with beta-blockers and/or CCBs to control heart rate and symptoms is recommended for most patients with CCS (may require caution or be contraindicated in low BP, DM, AV conduction disorders, or COPD for non-cardioselective beta-blockers).",
+            "ru": "Начальная терапия бета-блокаторами и/или БКК для контроля ЧСС и симптомов рекомендуется большинству пациентов с ХКС (требуется осторожность или имеются противопоказания при низком АД, СД, нарушениях АВ-проводимости или ХОБЛ для некардиоселективных бета-блокаторов)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r46",
+          "text": {
+            "en": "Ivabradine is not recommended as add-on therapy in patients with CCS, LVEF >40%, and no clinical heart failure.",
+            "ru": "Ивабрадин не рекомендуется в качестве дополнительной терапии у пациентов с ХКС, ФВ ЛЖ >40% и отсутствием клинических признаков сердечной недостаточности."
+          },
+          "class": "III",
+          "level": "B"
+        },
+        {
+          "id": "r47",
+          "text": {
+            "en": "Combination of ivabradine with non-DHP-CCB or other strong CYP3A4 inhibitors is not recommended.",
+            "ru": "Комбинация ивабрадина с недигидропиридиновыми блокаторами кальциевых каналов или другими мощными ингибиторами CYP3A4 не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        },
+        {
+          "id": "r48",
+          "text": {
+            "en": "Nitrates are not recommended in patients with hypertrophic cardiomyopathy or in co-administration with phosphodiesterase inhibitors.",
+            "ru": "Нитраты не рекомендуются пациентам с гипертрофической кардиомиопатией или при совместном применении с ингибиторами фосфодиэстеразы (ФДЭ-5)."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt17-antithrombotic-therapy",
+      "title": {
+        "en": "Recommendations for antithrombotic therapy in patients with chronic coronary syndrome",
+        "ru": "Рекомендации по антитромботической терапии у пациентов с хроническим коронарным синдромом"
+      },
+      "rows": [
+        {
+          "id": "r49",
+          "text": {
+            "en": "In CCS patients with a prior MI or remote PCI, aspirin 75–100 mg daily is recommended lifelong after an initial period of DAPT.",
+            "ru": "У пациентов с ХКС с перенесенным ИМ или давним ЧКВ аспирин в дозе 75–100 мг/сут рекомендуется пожизненно после завершения начального периода ДАТТ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r50",
+          "text": {
+            "en": "In CCS patients with a prior MI or remote PCI, clopidogrel 75 mg daily is recommended as a safe and effective alternative to aspirin monotherapy.",
+            "ru": "У пациентов с ХКС с перенесенным ИМ или давним ЧКВ клопидогрел в дозе 75 мг/сут рекомендуется в качестве безопасной и эффективной альтернативы монотерапии аспирином."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r51",
+          "text": {
+            "en": "After CABG, aspirin 75–100 mg daily is recommended lifelong.",
+            "ru": "После коронарного шунтирования (КШ) прием аспирина в дозе 75–100 мг/сут рекомендуется пожизненно."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r52",
+          "text": {
+            "en": "In patients without prior MI or revascularization but with evidence of significant obstructive CAD, aspirin 75–100 mg daily is recommended lifelong.",
+            "ru": "У пациентов без перенесенного ИМ или реваскуляризации, но с доказанной гемодинамически значимой обструктивной ИБС, аспирин в дозе 75–100 мг/сут рекомендуется пожизненно."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r53",
+          "text": {
+            "en": "In CCS patients with no indication for oral anticoagulation, DAPT consisting of aspirin 75–100 mg and clopidogrel 75 mg daily for up to 6 months is recommended as the default antithrombotic strategy after PCI-stenting.",
+            "ru": "У пациентов с ХКС без показаний к пероральным антикоагулянтам ДАТТ аспирином 75–100 мг и клопидогрелом 75 мг/сут на срок до 6 месяцев рекомендуется в качестве стандартной стратегии по умолчанию после ЧКВ со стентированием."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r54",
+          "text": {
+            "en": "In patients at high bleeding risk but not at high ischaemic risk, it is recommended to discontinue DAPT 1–3 months after PCI and to continue with single antiplatelet therapy.",
+            "ru": "У пациентов с высоким риском кровотечений (HBR), но без высокого ишемического риска, рекомендуется прекратить ДАТТ через 1–3 месяца после ЧКВ и продолжить монотерапию антиагрегантом."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r55",
+          "text": {
+            "en": "In CCS patients with a long-term indication for OAC, an AF therapeutic dose of VKA alone or, preferably, of DOAC alone (unless contraindicated) is recommended lifelong.",
+            "ru": "У пациентов с ХКС с долгосрочными показаниями к ОАК терапевтическая доза АВК в режиме монотерапии или, предпочтительно, прямого орального антикоагулянта (DOAC) в режиме монотерапии рекомендуется пожизненно."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r56",
+          "text": {
+            "en": "In patients with an indication for OAC who undergo PCI, initial low-dose aspirin once daily is recommended (loading dose when not on maintenance dose) in addition to OAC and clopidogrel.",
+            "ru": "У пациентов с показаниями к ОАК, которым выполняется ЧКВ, рекомендуется начальный прием низких доз аспирина 1 р/сут (нагрузочная доза при отсутствии предшествующего приема) в дополнение к ОАК и клопидогрелу."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r57",
+          "text": {
+            "en": "In patients who are eligible for OAC, DOAC (unless contraindicated) is recommended in preference to VKA.",
+            "ru": "У пациентов, которым показана антикоагулянтная терапия, прямые оральные антикоагулянты (DOAC) рекомендуются предпочтительнее антагонистов витамина К (АВК)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r58",
+          "text": {
+            "en": "After uncomplicated PCI in CCS patients with concomitant indication for OAC:\n• early cessation of aspirin (≤1 week);\n• followed by continuation of OAC and clopidogrel:\n  o up to 6 months in patients not at high ischaemic risk; or\n  o up to 12 months in patients at high ischaemic risk;\n• followed by OAC alone; is recommended.",
+            "ru": "После неосложненного ЧКВ у пациентов с ХКС с сопутствующими показаниями к ОАК рекомендуется:\n• ранняя отмена аспирина (≤1 недели);\n• с последующим продолжением ОАК и клопидогрела:\n  o до 6 месяцев у пациентов без высокого ишемического риска; или\n  o до 12 месяцев у пациентов с высоким ишемическим риском;\n• с последующим переходом на пожизненную монотерапию ОАК."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r59",
+          "text": {
+            "en": "The use of ticagrelor or prasugrel is generally not recommended as part of triple antithrombotic therapy with aspirin and an OAC.",
+            "ru": "Применение тикагрелора или прасугрела обычно не рекомендуется в составе тройной антитромботической терапии с аспирином и ОАК."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r60",
+          "text": {
+            "en": "It is recommended to initiate aspirin post-operatively as soon as there is no concern over bleeding.",
+            "ru": "Рекомендуется начинать прием аспирина в послеоперационном периоде, как только исчезнут опасения относительно кровотечения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r61",
+          "text": {
+            "en": "A proton pump inhibitor is recommended in patients at increased risk of gastrointestinal bleeding for the duration of combined antithrombotic therapy (antiplatelet therapy and/or OAC).",
+            "ru": "Ингибиторы протонной помпы (ИПП) рекомендуются пациентам с повышенным риском желудочно-кишечных кровотечений на весь период комбинированной антитромботической терапии (антиагреганты и/или ОАК)."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt18-lipid-lowering",
+      "title": {
+        "en": "Recommendations for lipid-lowering drugs in patients with chronic coronary syndrome",
+        "ru": "Рекомендации по гиполипидемической терапии у пациентов с хроническим коронарным синдромом"
+      },
+      "rows": [
+        {
+          "id": "r62",
+          "text": {
+            "en": "Lipid-lowering treatment with an LDL-C goal of <1.4 mmol/L (55 mg/dL) and a ≥50% reduction in LDL-C vs. baseline is recommended.",
+            "ru": "Рекомендуется гиполипидемическая терапия с целевым уровнем ХС-ЛПНП <1,4 ммоль/л (55 мг/дл) и снижением уровня ХС-ЛПНП на ≥50% от исходного значения."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r63",
+          "text": {
+            "en": "A high-intensity statin up to the highest tolerated dose to reach the LDL-C goals is recommended for all patients with CCS.",
+            "ru": "Высокоинтенсивная терапия статинами в максимальной переносимой дозе для достижения целевого уровня ХС-ЛПНП рекомендуется всем пациентам с ХКС."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r64",
+          "text": {
+            "en": "If a patient's goal is not achieved with the maximum tolerated dose of statin, combination with ezetimibe is recommended.",
+            "ru": "Если целевой уровень не достигнут на фоне максимально переносимой дозы статина, рекомендуется комбинация с эзетимибом."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r65",
+          "text": {
+            "en": "For patients who are statin intolerant and do not achieve their goal on ezetimibe, combination with bempedoic acid is recommended.",
+            "ru": "Пациентам с непереносимостью статинов, не достигшим целевого уровня на эзетимибе, рекомендуется комбинация с бемпедоевой кислотой."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r66",
+          "text": {
+            "en": "For patients who do not achieve their goal on a maximum tolerated dose of statin and ezetimibe, combination with a PCSK9 inhibitor is recommended.",
+            "ru": "Пациентам, не достигшим целевого уровня на максимально переносимой дозе статина и эзетимиба, рекомендуется комбинация с ингибитором PCSK9 (эволокумаб, алирокумаб)."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt19-sglt2-glp1",
+      "title": {
+        "en": "Recommendations for sodium–glucose cotransporter 2 inhibitors and/or glucagon-like peptide-1 receptor agonists in patients with chronic coronary syndrome",
+        "ru": "Рекомендации по ингибиторам SGLT2 и/или агонистам рецепторов GLP-1 у пациентов с хроническим коронарным синдромом"
+      },
+      "rows": [
+        {
+          "id": "r67",
+          "text": {
+            "en": "SGLT2 inhibitors with proven CV benefit (canagliflozin, dapagliflozin, empagliflozin, sotagliflozin) are recommended in patients with T2DM and CCS to reduce CV events, independent of baseline or target HbA1c and independent of concomitant glucose-lowering medication.",
+            "ru": "Ингибиторы SGLT2 с доказанной сердечно-сосудистой пользой (канаглифлозин, дапаглифлозин, эмпаглифлозин, сотаглифлозин) рекомендуются пациентам с СД 2 типа и ХКС для снижения частоты кардиоваскулярных событий независимо от исходного или целевого HbA1c и сопутствующей сахароснижающей терапии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r68",
+          "text": {
+            "en": "GLP-1 receptor agonists with proven CV benefit (dulaglutide, efpeglenatide, liraglutide, semaglutide) are recommended in patients with T2DM and CCS to reduce CV events, independent of baseline or target HbA1c and independent of concomitant glucose-lowering medication.",
+            "ru": "Агонисты рецепторов ГПП-1 (GLP-1) с доказанной сердечно-сосудистой пользой (дулаглутид, эфпегленатид, лираглутид, семаглутид) рекомендуются пациентам с СД 2 типа и ХКС для снижения частоты кардиоваскулярных событий независимо от исходного или целевого уровня HbA1c и сопутствующего сахароснижающего лечения."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt21-acei-arb",
+      "title": {
+        "en": "Recommendations for angiotensin-converting enzyme inhibitors in patients with chronic coronary syndrome",
+        "ru": "Рекомендации по ингибиторам ангиотензинпревращающего фермента у пациентов с хроническим коронарным синдромом"
+      },
+      "rows": [
+        {
+          "id": "r69",
+          "text": {
+            "en": "In CCS patients, ACE-Is (or ARBs) are recommended in the presence of specific comorbidities, such as hypertension, diabetes, or heart failure.",
+            "ru": "У пациентов с ХКС ингибиторы АПФ (или БРА) рекомендуются при наличии определенных сопутствующих состояний, таких как артериальная гипертензия, сахарный диабет или сердечная недостаточность."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt22-revascularization",
+      "title": {
+        "en": "Recommendations for revascularization in patients with chronic coronary syndrome",
+        "ru": "Рекомендации по реваскуляризации миокарда у пациентов с хроническим коронарным синдромом"
+      },
+      "rows": [
+        {
+          "id": "r70",
+          "text": {
+            "en": "It is recommended that patients scheduled for percutaneous or surgical revascularization receive complete information about the benefits, risks, therapeutic consequences, and alternatives to revascularization, as part of shared clinical decision-making.",
+            "ru": "Пациентам, которым планируется чрескожная или хирургическая реваскуляризация, рекомендуется предоставлять полную информацию о преимуществах, рисках, терапевтических последствиях и альтернативах вмешательства в рамках совместного принятия клинических решений."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r71",
+          "text": {
+            "en": "For complex clinical cases, to define the optimal treatment strategy, in particular when CABG and PCI hold the same level of recommendation, a Heart Team discussion is recommended, including representatives from interventional cardiology, cardiac surgery, non-interventional cardiology, and other specialties if indicated, aimed at selecting the most appropriate treatment to improve patient outcomes and quality of life.",
+            "ru": "В сложных клинических случаях для определения оптимальной стратегии лечения (особенно когда КШ и ЧКВ имеют одинаковый класс рекомендаций) рекомендуется обсуждение мультидисциплинарной кардиологической командой (Heart Team) с участием эндоваскулярного хирурга, кардиохирурга, клинического кардиолога и других специалистов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r72",
+          "text": {
+            "en": "It is recommended to communicate the proposal of the Heart Team in a balanced way using language that the patient can understand.",
+            "ru": "Рекомендуется сообщать пациенту заключение и рекомендации Heart Team во взвешенной и понятной для него форме."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r73",
+          "text": {
+            "en": "It is recommended that the decision for revascularization and its modality be patient-centred, considering patient preferences, health literacy, cultural circumstances, and social support.",
+            "ru": "Рекомендуется, чтобы решение о необходимости реваскуляризации и выборе ее метода было пациентоориентированным с учетом предпочтений больного, его медицинской грамотности, социокультурных факторов и уровня поддержки."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r74",
+          "text": {
+            "en": "It is recommended that the Heart Team (on site or with a partner institution) develop institutional protocols to implement the appropriate revascularization strategy in accordance with current guidelines.",
+            "ru": "Рекомендуется, чтобы команда Heart Team (в клинике или совместно с партнерским центром) разрабатывала локальные клинические протоколы для реализации надлежащей стратегии реваскуляризации в соответствии с актуальными клиническими руководствами."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r75",
+          "text": {
+            "en": "In CCS patients with LVEF >35%, myocardial revascularization is recommended, in addition to guideline-directed medical therapy, for patients with functionally significant left main stem stenosis to improve survival.",
+            "ru": "У пациентов с ХКС и ФВ ЛЖ >35% реваскуляризация миокарда в дополнение к оптимальной медикаментозной терапии рекомендуется при функционально значимом стенозе ствола левой коронарной артерии для увеличения выживаемости."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r76",
+          "text": {
+            "en": "In CCS patients with LVEF >35%, myocardial revascularization is recommended, in addition to guideline-directed medical therapy, for patients with functionally significant three-vessel disease to improve long-term survival and to reduce long-term cardiovascular mortality and the risk of spontaneous myocardial infarction.",
+            "ru": "У пациентов с ХКС и ФВ ЛЖ >35% реваскуляризация миокарда в дополнение к оптимальной медикаментозной терапии рекомендуется при функционально значимом трехсосудистом поражении для улучшения долгосрочной выживаемости, снижения сердечно-сосудистой смертности и риска спонтанного инфаркта миокарда."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r77",
+          "text": {
+            "en": "In CCS patients with LVEF >35%, myocardial revascularization is recommended, in addition to guideline-directed medical therapy, for patients with functionally significant single- or two-vessel disease involving the proximal LAD, to reduce long-term cardiovascular mortality and the risk of spontaneous myocardial infarction.",
+            "ru": "У пациентов с ХКС и ФВ ЛЖ >35% реваскуляризация миокарда в дополнение к оптимальной медикаментозной терапии рекомендуется при функционально значимом 1- или 2-сосудистом поражении с вовлечением проксимальной ПМЖВ для снижения долгосрочной кардиоваскулярной смертности и риска спонтанного инфаркта миокарда."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r78",
+          "text": {
+            "en": "In CCS patients with LVEF ≤35%, it is recommended to choose between revascularization or medical therapy alone, after careful evaluation, preferably by the Heart Team, of coronary anatomy, correlation between coronary artery disease and LV dysfunction, comorbidities, life expectancy, individual risk-to-benefit ratio, and patient perspectives.",
+            "ru": "У пациентов с ХКС и ФВ ЛЖ ≤35% рекомендуется индивидуализированный выбор между реваскуляризацией или изолированной медикаментозной терапией после тщательной оценки (желательно с участием Heart Team) коронарной анатомии, связи ИБС с дисфункцией ЛЖ, сопутствующих заболеваний, ожидаемой продолжительности жизни, соотношения риска и пользы, а также мнения самого пациента."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r79",
+          "text": {
+            "en": "In surgically eligible CCS patients with multivessel CAD and LVEF ≤35%, myocardial revascularization with CABG is recommended over medical therapy alone to improve long-term survival.",
+            "ru": "У операбельных пациентов с ХКС, многососудистым поражением и ФВ ЛЖ ≤35% реваскуляризация миокарда методом КШ рекомендуется предпочтительнее изолированной медикаментозной терапии для улучшения долгосрочной выживаемости."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r80",
+          "text": {
+            "en": "In CCS patients with persistent angina or anginal equivalent, despite guideline-directed medical treatment, myocardial revascularization of functionally significant obstructive CAD is recommended to improve symptoms.",
+            "ru": "У пациентов с ХКС с сохраняющейся стенокардией или ее эквивалентами, несмотря на оптимальную медикаментозную терапию, рекомендуется реваскуляризация миокарда функционально значимых обструктивных стенозов для облегчения симптомов."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r81",
+          "text": {
+            "en": "In patients with complex CAD in whom revascularization is being considered, it is recommended to assess procedural risks and post-procedural outcomes to guide shared clinical decision-making.",
+            "ru": "У пациентов со сложным поражением коронарного русла, рассматриваемых для реваскуляризации, рекомендуется оценка процедурных рисков и ожидаемых исходов для обоснованного совместного принятия решений."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r82",
+          "text": {
+            "en": "Calculation of the STS score is recommended to estimate in-hospital morbidity and 30-day mortality after CABG.",
+            "ru": "Рекомендуется расчет шкалы STS для оценки госпитальных осложнений и 30-дневной летальности после коронарного шунтирования."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r83",
+          "text": {
+            "en": "In patients with multivessel obstructive CAD, calculation of the SYNTAX score is recommended to assess the anatomical complexity of disease.",
+            "ru": "У пациентов с многососудистым обструктивным поражением рекомендуется расчет индекса SYNTAX для объективной оценки анатомической сложности поражения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r84",
+          "text": {
+            "en": "Intracoronary imaging guidance by IVUS or OCT is recommended when performing PCI on anatomically complex lesions, in particular left main stem, true bifurcations, and long lesions.",
+            "ru": "Внутрисосудистая визуализация с помощью ВСУЗИ (IVUS) или ОКТ (OCT) рекомендуется при выполнении ЧКВ на анатомически сложных поражениях, особенно ствола ЛКА, истинных бифуркаций и протяженных стенозов."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r85",
+          "text": {
+            "en": "Intracoronary pressure measurement (FFR or iFR) or computation (QFR) is recommended to guide lesion selection for intervention in patients with multivessel disease.",
+            "ru": "Внутрикоронарное измерение давления (FFR или iFR) или расчет (QFR) рекомендуется для выбора целевых поражений при вмешательстве у пациентов с многососудистым поражением."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r86",
+          "text": {
+            "en": "It is recommended that physicians select the most appropriate revascularization modality based on patient profile (age, frailty, cognitive status, diabetes, and other comorbidities), coronary anatomy (multivessel disease with/out left main stem involvement, high anatomical complexity, and likelihood of revascularization completeness), procedural factors (local expertise and outcomes, surgical and interventional risk), LVEF, preferences, and outcome expectations.",
+            "ru": "Рекомендуется, чтобы врачи выбирали наиболее подходящий метод реваскуляризации на основании профиля пациента (возраст, старческая астения, когнитивный статус, диабет, коморбидность), анатомии коронарного русла (многососудистое поражение, ствол ЛКА, сложность и вероятность полной реваскуляризации), процедурных факторов (опыт центра, хирургический и интервенционный риск), ФВ ЛЖ, предпочтений и ожиданий больного."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt23-revascularization-mode",
+      "title": {
+        "en": "Recommendations for mode of revascularization in patients with chronic coronary syndrome",
+        "ru": "Рекомендации по выбору метода реваскуляризации у пациентов с хроническим коронарным синдромом"
+      },
+      "rows": [
+        {
+          "id": "r87",
+          "text": {
+            "en": "In CCS patients at low surgical risk with significant left main coronary stenosis, CABG is recommended over medical therapy alone to improve survival.",
+            "ru": "У пациентов с ХКС и низким хирургическим риском со значимым стенозом ствола левой коронарной артерии коронарное шунтирование (КШ) рекомендуется вместо изолированной медикаментозной терапии для увеличения выживаемости."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r88",
+          "text": {
+            "en": "In CCS patients at low surgical risk with significant left main coronary stenosis, CABG is recommended as the overall preferred revascularization mode over PCI, given the lower risk of spontaneous myocardial infarction and repeat revascularization.",
+            "ru": "У пациентов с ХКС и низким хирургическим риском со значимым стенозом ствола ЛКА коронарное шунтирование рекомендуется как предпочтительный метод реваскуляризации по сравнению с ЧКВ в связи с более низким риском спонтанного инфаркта миокарда и повторных вмешательств."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r89",
+          "text": {
+            "en": "In CCS patients with significant left main coronary stenosis of low complexity (SYNTAX score ≤22), in whom PCI can provide equivalent completeness of revascularization to that of CABG, PCI is recommended as an alternative to CABG, given its lower invasiveness and non-inferior survival.",
+            "ru": "У пациентов с ХКС со значимым стенозом ствола ЛКА низкой анатомической сложности (индекс SYNTAX ≤22), у которых ЧКВ обеспечивает эквивалентную полноту реваскуляризации по сравнению с КШ, ЧКВ рекомендуется как альтернатива КШ с учетом меньшей инвазивности и сопоставимой выживаемости."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r90",
+          "text": {
+            "en": "In CCS patients at low surgical risk with suitable anatomy, CABG is recommended over medical therapy alone to improve survival.",
+            "ru": "У пациентов с ХКС и низким хирургическим риском при подходящей анатомии КШ рекомендуется вместо изолированной медикаментозной терапии для увеличения выживаемости."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r91",
+          "text": {
+            "en": "In CCS patients with significant multivessel disease and diabetes, with insufficient response to guideline-directed medical therapy, CABG is recommended over medical therapy alone and over PCI to improve symptoms and outcomes.",
+            "ru": "У пациентов с ХКС, значимым многососудистым поражением и сахарным диабетом при недостаточном ответе на медикаментозную терапию КШ рекомендуется предпочтительнее изолированной терапии и предпочтительнее ЧКВ для уменьшения симптомов и улучшения исходов."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r92",
+          "text": {
+            "en": "In CCS patients with significant three-vessel disease, preserved LVEF, no diabetes, and insufficient response to guideline-directed medical therapy, CABG is recommended over medical therapy alone to improve symptoms, survival, and other outcomes.",
+            "ru": "У пациентов с ХКС со значимым трехсосудистым поражением, сохранной ФВ ЛЖ, без диабета и с недостаточным ответом на медикаментозную терапию КШ рекомендуется вместо изолированной медикаментозной терапии для уменьшения симптомов, увеличения выживаемости и улучшения прогноза."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r93",
+          "text": {
+            "en": "In CCS patients with preserved LVEF, no diabetes, insufficient response to guideline-directed medical therapy, and significant three-vessel disease of low-to-intermediate anatomic complexity in whom PCI can provide similar completeness of revascularization to that of CABG, PCI is recommended, given its lower invasiveness, and generally non-inferior survival.",
+            "ru": "У пациентов с ХКС с сохранной ФВ ЛЖ, без диабета, с недостаточным ответом на медикаментозную терапию и значимым трехсосудистым поражением низкой или промежуточной анатомической сложности, у которых ЧКВ обеспечивает аналогичную полноту реваскуляризации по сравнению с КШ, ЧКВ рекомендуется с учетом меньшей инвазивности и в целом сопоставимой выживаемости."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r94",
+          "text": {
+            "en": "In CCS patients with significant single- or double-vessel disease involving the proximal LAD and insufficient response to guideline-directed medical therapy, CABG or PCI is recommended over medical therapy alone to improve symptoms and outcomes.",
+            "ru": "У пациентов с ХКС со значимым 1- или 2-сосудистым поражением с вовлечением проксимальной ПМЖВ и недостаточным ответом на медикаментозную терапию КШ или ЧКВ рекомендуется вместо изолированной терапии для улучшения симптомов и исходов."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r95",
+          "text": {
+            "en": "In CCS patients with complex significant single- or double-vessel disease involving the proximal LAD, less amenable to PCI, and insufficient response to guideline-directed medical therapy, CABG is recommended to improve symptoms and reduce revascularization rates.",
+            "ru": "У пациентов с ХКС со сложным значимым 1- или 2-сосудистым поражением с вовлечением проксимальной ПМЖВ, менее подходящим для ЧКВ, и недостаточным ответом на медикаментозную терапию КШ рекомендуется для облегчения симптомов и снижения частоты повторных вмешательств."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r96",
+          "text": {
+            "en": "In symptomatic CCS patients with significant single- or double-vessel disease not involving the proximal LAD and with insufficient response to guideline-directed medical therapy, PCI is recommended to improve symptoms.",
+            "ru": "У симптомных пациентов с ХКС со значимым 1- или 2-сосудистым поражением без вовлечения проксимальной ПМЖВ и с недостаточным ответом на медикаментозную терапию ЧКВ рекомендуется для уменьшения симптомов."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt24-ccs-and-heart-failure",
+      "title": {
+        "en": "Recommendations for management of chronic coronary syndrome patients with chronic heart failure",
+        "ru": "Рекомендации по ведению пациентов с хроническим коронарным синдромом и хронической сердечной недостаточностью"
+      },
+      "rows": [
+        {
+          "id": "r97",
+          "text": {
+            "en": "In HF patients with LVEF ≤35% in whom obstructive CAD is suspected, ICA is recommended with a view towards improving prognosis by CABG, taking into account the risk-to-benefit ratio of the procedures.",
+            "ru": "У пациентов с СН и ФВЛЖ ≤35% при подозрении на обструктивную ИБС рекомендуется проведение ИКГ с прицелом на улучшение прогноза с помощью АКШ, с учетом соотношения пользы и риска процедур."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r98",
+          "text": {
+            "en": "In HF patients with LVEF >35% and suspected CCS with low or moderate (>5%–50%) pre-test likelihood of obstructive CAD, CCTA or functional imaging is recommended.",
+            "ru": "У пациентов с СН и ФВЛЖ >35% при подозрении на ХКС с низкой или умеренной (>5%–50%) предтестовой вероятностью обструктивной ИБС рекомендуется КТ-коронарография или функциональная визуализация."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r99",
+          "text": {
+            "en": "In HF patients with LVEF >35% and suspected CCS with very high (>85%) pre-test likelihood of obstructive CAD, ICA (with FFR, iFR, or QFR when needed) is recommended.",
+            "ru": "У пациентов с СН и ФВЛЖ >35% при подозрении на ХКС с очень высокой (>85%) предтестовой вероятностью обструктивной ИБС рекомендуется проведение ИКГ (с оценкой FFR, iFR или QFR при необходимости)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r100",
+          "text": {
+            "en": "It is recommended that CCS patients with HF be enrolled in a multidisciplinary HF management programme to reduce the risk of HF hospitalization and to improve survival.",
+            "ru": "Пациентов с ХКС и СН рекомендуется включать в междисциплинарную программу ведения сердечной недостаточности для снижения риска госпитализаций по поводу СН и улучшения выживаемости."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r101",
+          "text": {
+            "en": "An ACE-I, an MRA, an SGLT2 inhibitor (dapagliflozin or empagliflozin), and, in stable conditions, a beta-blocker are recommended for CCS patients with HFrEF to reduce the risk of HF hospitalization and death.",
+            "ru": "ИАПФ, АМКР, ингибитор SGLT2 (дапаглифлозин или эмпаглифлозин) и в стабильном состоянии бета-блокатор рекомендуются пациентам с ХКС и СНнФВ для снижения риска госпитализации по поводу СН и смерти."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r102",
+          "text": {
+            "en": "An SGLT2 inhibitor (dapagliflozin or empagliflozin) is recommended in patients with Heart Failure with mildly reduced Ejection Fraction (HFmrEF) or HFpEF to reduce the risk of HF hospitalization or cardiovascular death.",
+            "ru": "Ингибитор SGLT2 (дапаглифлозин или эмпаглифлозин) рекомендуется пациентам с сердечной недостаточностью с умеренно сниженной фракцией выброса (СНумФВ) или СНсФВ для снижения риска госпитализации по поводу СН или сердечно-сосудистой смерти."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r103",
+          "text": {
+            "en": "An ARB is recommended in symptomatic patients with CCS and HFrEF unable to tolerate an ACE-I or ARNI to reduce the risk of HF hospitalization and cardiovascular death.",
+            "ru": "БРА рекомендуется симптомным пациентам с ХКС и СНнФВ при непереносимости ИАПФ или АРНИ для снижения риска госпитализации по поводу СН и сердечно-сосудистой смерти."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r104",
+          "text": {
+            "en": "Sacubitril/valsartan is recommended as a replacement for an ACE-I or ARB in CCS patients with HFrEF to reduce the risk of HF hospitalization and of cardiovascular and all-cause death.",
+            "ru": "Сакубитрил/валсартан рекомендуется в качестве замены ИАПФ или БРА у пациентов с ХКС и СНнФВ для снижения риска госпитализации по поводу СН, а также сердечно-сосудистой и общей смертности."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r105",
+          "text": {
+            "en": "Diuretics are recommended in CCS patients with HF and signs and/or symptoms of congestion to alleviate symptoms, improve exercise capacity, and reduce HF hospitalizations.",
+            "ru": "Диуретики рекомендуются пациентам с ХКС и СН при наличии признаков и/или симптомов застоя для облегчения симптоматики, улучшения толерантности к физической нагрузке и снижения риска госпитализаций по поводу СН."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r106",
+          "text": {
+            "en": "An ICD is recommended to reduce the risk of sudden death and all-cause mortality in patients with symptomatic HF (NYHA class II–III) of ischaemic aetiology (unless they have had an MI in the prior 40 days), and an LVEF ≤35% despite ≥3 months of optimized medical treatment, provided they are expected to survive substantially longer than 1 year with good functional status.",
+            "ru": "ИКД рекомендуется для снижения риска внезапной смерти и общей смертности у пациентов с симптомной СН (II–III ФК по NYHA) ишемической этиологии (если они не переносили ИМ за предшествующие 40 дней) и ФВЛЖ ≤35%, сохраняющейся несмотря на ≥3 месяцев оптимальной медикаментозной терапии, при условии ожидаемой продолжительности жизни существенно более 1 года с удовлетворительным функциональным статусом."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r107",
+          "text": {
+            "en": "An ICD is recommended to reduce the risk of sudden death and all-cause mortality in patients who have recovered from a ventricular arrhythmia causing haemodynamic instability, and who are expected to survive for >1 year with good functional status, in the absence of reversible causes or unless the ventricular arrhythmia has occurred <48 h after an MI.",
+            "ru": "ИКД рекомендуется для снижения риска внезапной смерти и общей смертности у пациентов, переживших желудочковую аритмию, вызвавшую гемодинамическую нестабильность, при ожидаемой продолжительности жизни >1 года с удовлетворительным функциональным статусом, в отсутствие обратимых причин или если желудочковая аритмия возникла не ранее чем через 48 часов после ИМ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r108",
+          "text": {
+            "en": "CRT is recommended for CCS patients with symptomatic HF, sinus rhythm, LVEF ≤35% despite GDMT, and a QRS duration ≥150 ms with an LBBB QRS morphology to improve symptoms and survival and to reduce morbidity.",
+            "ru": "СРТ рекомендуется пациентам с ХКС при симптомной СН, синусовом ритме, ФВЛЖ ≤35% несмотря на ОМТ и длительности QRS ≥150 мс с морфологией БЛНПГ для уменьшения выраженности симптомов, улучшения выживаемости и снижения заболеваемости."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r109",
+          "text": {
+            "en": "CRT rather than right ventricular pacing is recommended for patients with HFrEF regardless of NYHA class or QRS width who have an indication for ventricular pacing for high-degree AV block in order to reduce morbidity. This includes patients with AF.",
+            "ru": "СРТ, а не стимуляция правого желудочка, рекомендуется пациентам с СНнФВ независимо от функционального класса по NYHA или ширины комплекса QRS при наличии показаний к желудочковой электрокардиостимуляции по поводу атриовентрикулярной блокады высокой степени с целью снижения заболеваемости. Это положение распространяется и на пациентов с ФП."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt25-anoca-inoca",
+      "title": {
+        "en": "Recommendations for diagnosis and management of patients with angina with non-obstructive coronary arteries/ischaemia with non-obstructive coronary arteries",
+        "ru": "Рекомендации по диагностике и ведению пациентов со стенокардией/ишемией при необструктивном поражении коронарных артерий"
+      },
+      "rows": [
+        {
+          "id": "r110",
+          "text": {
+            "en": "In persistently symptomatic patients despite medical treatment with suspected ANOCA/INOCA (i.e. anginal symptoms with normal coronary arteries or non-obstructive lesions at non-invasive imaging, or intermediate stenoses with normal FFR/iFR at coronary arteriography) and poor quality of life, invasive coronary functional testing is recommended to identify potentially treatable endotypes and to improve symptoms and quality of life, considering patient choices and preferences.",
+            "ru": "У пациентов с персистирующими симптомами, несмотря на медикаментозное лечение, при подозрении на ANOCA/INOCA (т.е. симптомы стенокардии при интактных коронарных артериях или необструктивных поражениях по данным неинвазивной визуализации, либо промежуточные стенозы с нормальным FFR/iFR при коронарографии) и низком качестве жизни рекомендуется инвазивное функциональное тестирование коронарного русла для выявления потенциально поддающихся терапии эндотипов и улучшения симптомов и качества жизни, с учетом выбора и предпочтений пациента."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r111",
+          "text": {
+            "en": "In individuals with suspected vasospastic angina, a resting 12-lead ECG recording during angina is recommended.",
+            "ru": "У лиц с подозрением на вазоспастическую стенокардию рекомендуется регистрация стандартной ЭКГ в 12 отведениях в покое во время приступа стенокардии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r112",
+          "text": {
+            "en": "In patients with suspected vasospastic angina and repetitive episodes of rest angina associated with ST-segment changes that resolve with nitrates and/or calcium antagonists, invasive coronary functional testing is recommended to confirm the diagnosis and to determine the severity of underlying atherosclerotic disease.",
+            "ru": "У пациентов с подозрением на вазоспастическую стенокардию и повторяющимися эпизодами стенокардии покоя, ассоциированными с изменениями сегмента ST, купирующимися нитратами и/или антагонистами кальция, рекомендуется инвазивное функциональное тестирование коронарных артерий для подтверждения диагноза и определения тяжести сопутствующего атеросклеротического поражения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r113",
+          "text": {
+            "en": "Calcium channel blockers are recommended to control symptoms and to prevent ischaemia and potentially fatal complications.",
+            "ru": "Блокаторы кальциевых каналов рекомендуются для контроля симптомов, предотвращения ишемии и потенциально фатальных осложнений."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt26-special-patient-groups",
+      "title": {
+        "en": "Recommendations for older, female, high bleeding risk, comorbid, and socially/geographically diverse patients",
+        "ru": "Рекомендации для пожилых, женщин, пациентов с высоким риском кровотечений, коморбидных и социально/географически разнообразных групп пациентов"
+      },
+      "rows": [
+        {
+          "id": "r114",
+          "text": {
+            "en": "In older adults (≥75 years), particular attention to drug side effects, intolerance, drug–drug interactions, overdosing, and procedural complications is recommended.",
+            "ru": "У пожилых пациентов (≥75 лет) рекомендуется уделять особое внимание побочным эффектам лекарств, непереносимости, межлекарственным взаимодействиям, передозировке и процедурным осложнениям."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r115",
+          "text": {
+            "en": "In older, as in younger, individuals, diagnostic and revascularization decisions based on symptoms, extent of ischaemia, frailty, life expectancy, comorbidities, and patient preferences are recommended.",
+            "ru": "У пожилых лиц, как и у более молодых, рекомендуется принимать решения о диагностике и реваскуляризации на основании симптомов, выраженности ишемии, старческой астении (frailty), ожидаемой продолжительности жизни, коморбидности и предпочтений пациента."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r116",
+          "text": {
+            "en": "Similar guideline-directed cardiovascular preventive therapy is recommended in women and men.",
+            "ru": "Женщинам и мужчинам рекомендуется одинаковая направляемая клиническими рекомендациями сердечно-сосудистая профилактическая терапия."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r117",
+          "text": {
+            "en": "Systemic post-menopausal hormone therapy is not recommended in women with CCS, given the lack of cardiovascular benefit and an increased risk of thrombo-embolic complications.",
+            "ru": "Системная постменопаузальная гормональная терапия не рекомендуется женщинам с ХКС ввиду отсутствия сердечно-сосудистой пользы и повышенного риска тромбоэмболических осложнений."
+          },
+          "class": "III",
+          "level": "A"
+        },
+        {
+          "id": "r118",
+          "text": {
+            "en": "Bleeding risk assessment is recommended using the PRECISE-DAPT score, the qualitative ARC-HBR tool or other, validated methods.",
+            "ru": "Оценка риска кровотечений рекомендуется с использованием шкалы PRECISE-DAPT, качественного инструмента ARC-HBR или других валидированных методов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r119",
+          "text": {
+            "en": "Attention to interaction between antiretroviral treatment and statins is recommended in patients with HIV.",
+            "ru": "У пациентов с ВИЧ рекомендуется обращать внимание на взаимодействие между антиретровирусной терапией и статинами."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r120",
+          "text": {
+            "en": "Continued targeted efforts are recommended:\n• to increase delivery of safe and effective cardiac care to all CCS patients, especially those of lower socioeconomic classes; and\n• to enhance inclusion in future clinical trials of geographical, social, or other groups that are currently underrepresented.",
+            "ru": "Рекомендуются постоянные целенаправленные усилия:\n• для расширения доступности безопасной и эффективной кардиологической помощи всем пациентам с ХКС, особенно представителям более низких социально-экономических слоев; и\n• для расширения включения в будущие клинические исследования географических, социальных и других групп населения, которые в настоящее время недостаточно представлены."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt27-cad-screening-asymptomatic",
+      "title": {
+        "en": "Recommendations for screening for coronary artery disease in asymptomatic individuals",
+        "ru": "Рекомендации по скринингу ишемической болезни сердца у бессимптомных лиц"
+      },
+      "rows": [
+        {
+          "id": "r121",
+          "text": {
+            "en": "Opportunistic screening of healthy individuals for cardiovascular risk factors and to estimate the risk of future cardiovascular events using scoring systems, e.g. SCORE2 and SCORE-OP, is recommended to detect individuals at high risk and guide treatment decisions.",
+            "ru": "Оппортунистический скрининг практически здоровых лиц на наличие сердечно-сосудистых факторов риска и для оценки риска будущих сердечно-сосудистых событий с помощью прогностических шкал (например, SCORE2 и SCORE-OP) рекомендуется для выявления лиц высокого риска и определения тактики лечения."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt28-adherence-lifestyle-changes",
+      "title": {
+        "en": "Recommendations for adherence to medical therapy and lifestyle changes",
+        "ru": "Рекомендации по приверженности к медикаментозной терапии и изменению образа жизни"
+      },
+      "rows": [
+        {
+          "id": "r122",
+          "text": {
+            "en": "Mobile health interventions (e.g. using text messages, apps, wearable devices) are recommended to improve patient adherence to healthy lifestyles and medical therapy.",
+            "ru": "Вмешательства мобильного здравоохранения (например, текстовые сообщения, приложения, носимые устройства) рекомендуются для повышения приверженности пациентов к здоровому образу жизни и медикаментозной терапии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r123",
+          "text": {
+            "en": "Behavioural interventions are recommended to improve adherence.",
+            "ru": "Поведенческие вмешательства рекомендуются для повышения приверженности лечению."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r124",
+          "text": {
+            "en": "Simplifying medication regimens (e.g. using fixed-dose drug combinations) is recommended to increase patient adherence to medications.",
+            "ru": "Упрощение схем приема лекарственных препаратов (например, использование фиксированных комбинаций доз) рекомендуется для повышения приверженности пациентов к фармакотерапии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r125",
+          "text": {
+            "en": "Multiprofessional and family involvement is recommended to promote adherence, in addition to patient education and involvement.",
+            "ru": "Мультипрофессиональное участие и вовлечение членов семьи рекомендуются для содействия приверженности терапии в дополнение к обучению и вовлечению самого пациента."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt29-disease-progression",
+      "title": {
+        "en": "Recommendations for diagnosis of disease progression in patients with established chronic coronary syndrome",
+        "ru": "Рекомендации по диагностике прогрессирования заболевания у пациентов с установленным хроническим коронарным синдромом"
+      },
+      "rows": [
+        {
+          "id": "r126",
+          "text": {
+            "en": "Regardless of symptoms, periodic visits (e.g. annual) to a general practitioner or cardiovascular healthcare professional are recommended to evaluate cardiovascular risk factor control and to assess changes in risk status, disease status, and comorbidities that may require lifestyle, medical, or procedural interventions.",
+            "ru": "Независимо от наличия симптомов рекомендуются периодические визиты (например, ежегодные) к врачу общей практики или кардиологу для оценки контроля факторов сердечно-сосудистого риска и выявления изменений в статусе риска, течении заболевания и сопутствующей патологии, которые могут потребовать модификации образа жизни, медикаментозных или инвазивных вмешательств."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r127",
+          "text": {
+            "en": "Reassessment of CAD status is recommended in patients with deteriorating LV systolic function that cannot be attributed to a reversible cause (e.g. longstanding tachycardia or myocarditis).",
+            "ru": "Повторная оценка статуса ИБС рекомендуется пациентам с ухудшением систолической функции ЛЖ, которое не может быть объяснено обратимой причиной (например, длительной тахикардией или миокардитом)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r128",
+          "text": {
+            "en": "Risk stratification is recommended in patients with new or worsening symptoms, preferably using stress imaging.",
+            "ru": "Стратификация риска рекомендуется пациентам с впервые возникшими или ухудшающимися симптомами, предпочтительно с использованием стресс-визуализации."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r129",
+          "text": {
+            "en": "In patients with symptoms refractory to medical treatment or at high risk of adverse events, invasive coronary angiography (with FFR/iFR when necessary) is recommended for risk stratification and for possible revascularization aimed at improving symptoms and prognosis.",
+            "ru": "У пациентов с симптомами, рефрактерными к медикаментозной терапии, или при высоком риске неблагоприятных событий рекомендуется инвазивная коронарография (с измерением FFR/iFR при необходимости) для стратификации риска и решения вопроса о возможной реваскуляризации с целью улучшения симптоматики и прогноза."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt30-revascularization-failure",
+      "title": {
+        "en": "Recommendations for treatment of revascularization failure",
+        "ru": "Рекомендации по лечению неэффективности (несостоятельности) реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r130",
+          "text": {
+            "en": "DES is recommended over drug-coated balloons for treatment of in-DES restenosis.",
+            "ru": "Использование стентов с лекарственным покрытием (DES) рекомендуется вместо баллонов с лекарственным покрытием для лечения рестеноза внутри DES."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r131",
+          "text": {
+            "en": "LIMA is indicated as the conduit of choice for redo CABG in patients in whom the LIMA was not used previously.",
+            "ru": "Левая внутренняя грудная артерия (LIMA) показана в качестве кондуита выбора при повторном АКШ у пациентов, у которых LIMA не использовалась ранее."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-rt31-refractory-angina",
+      "title": {
+        "en": "Recommendations for recurrent or refractory angina/ischaemia",
+        "ru": "Рекомендации при рецидивирующей или рефрактерной стенокардии/ишемии"
+      },
+      "rows": [
+        {
+          "id": "r132",
+          "text": {
+            "en": "In patients with refractory angina leading to poor quality of life and with documented or suspected ANOCA/INOCA, invasive coronary functional testing is recommended to define ANOCA/INOCA endotypes and appropriate treatment, considering patient choices and preferences.",
+            "ru": "У пациентов с рефрактерной стенокардией, приводящей к низкому качеству жизни, и с документированной или подозреваемой ANOCA/INOCA рекомендуется инвазивное коронарное функциональное тестирование для определения эндотипов ANOCA/INOCA и подбора соответствующего лечения с учетом выбора и предпочтений пациента."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

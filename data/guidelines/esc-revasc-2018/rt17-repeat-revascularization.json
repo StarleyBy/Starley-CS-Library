@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt17-repeat-revascularization",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 17",
+  "title": {
+    "en": "Recommendations on repeat revascularization",
+    "ru": "Рекомендации по повторной реваскуляризации"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-early-graft-failure",
+      "title": {
+        "en": "Early post-operative ischaemia and graft failure",
+        "ru": "Ранняя послеоперационная ишемия и дисфункция шунта"
+      },
+      "rows": [
+        {
+          "id": "r_early_01",
+          "text": {
+            "en": "Coronary angiography post-CABG is recommended for patients with: symptoms of ischaemia and/or abnormal biomarkers suggestive of perioperative MI; ischaemic ECG changes indicating large area of risk; new significant wall motion abnormalities; or haemodynamic instability.",
+            "ru": "Коронарография после КШ рекомендуется пациентам при наличии: симптомов ишемии и/или патологических биомаркеров, указывающих на периоперационный ИМ; ишемических изменений ЭКГ, свидетельствующих о большой зоне риска; новых выраженных нарушений локальной сократимости; либо гемодинамической нестабильности."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_early_02",
+          "text": {
+            "en": "It is recommended that either emergency reoperation or PCI is decided upon by ad hoc consultation in the Heart Team, based on the feasibility of revascularization, area at risk, comorbidities, and clinical status.",
+            "ru": "Рекомендуется принимать решение об экстренной повторной операции или ЧКВ на основании экстренного (ad hoc) консилиума Heart Team с учетом технической выполнимости реваскуляризации, зоны риска, коморбидности и клинического статуса."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-disease-progression",
+      "title": {
+        "en": "Disease progression and late graft failure",
+        "ru": "Прогрессирование заболевания и поздняя несостоятельность шунтов"
+      },
+      "rows": [
+        {
+          "id": "r_late_01",
+          "text": {
+            "en": "Repeat revascularization is indicated in patients with a large area of ischaemia or severe symptoms despite medical therapy.",
+            "ru": "Повторная реваскуляризация показана пациентам с большой зоной ишемии или тяжелыми симптомами, несмотря на медикаментозную терапию."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_late_02",
+          "text": {
+            "en": "If considered safe, PCI should be considered as first choice over CABG.",
+            "ru": "Если вмешательство признано безопасным, ЧКВ следует рассматривать как метод первого выбора по сравнению с КШ."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-procedural-modalities-cabg",
+      "title": {
+        "en": "Procedural aspects of the revascularization modalities: CABG",
+        "ru": "Процедурные аспекты методов реваскуляризации: КШ"
+      },
+      "rows": [
+        {
+          "id": "r_cabg_01",
+          "text": {
+            "en": "IMA is the conduit of choice for redo CABG in patients in whom the IMA was not used previously.",
+            "ru": "Внутренняя грудная артерия (ВГА) является кондуитом выбора для повторного КШ у пациентов, у которых она не использовалась ранее."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_cabg_02",
+          "text": {
+            "en": "Redo CABG should be considered for patients without a patent IMA graft to the LAD.",
+            "ru": "Повторное КШ следует рассмотреть у пациентов без функционирующего маммарокоронарного шунта к ПМЖВ."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-procedural-modalities-pci",
+      "title": {
+        "en": "Procedural aspects of the revascularization modalities: PCI",
+        "ru": "Процедурные аспекты методов реваскуляризации: ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r_pci_01",
+          "text": {
+            "en": "Distal protection devices should be considered for PCI of SVG lesions.",
+            "ru": "Устройства дистальной защиты следует рассмотреть при ЧКВ на венозных шунтах (SVG)."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r_pci_02",
+          "text": {
+            "en": "PCI of the bypassed native artery should be considered over PCI of the bypass graft.",
+            "ru": "ЧКВ на шунтированной нативной коронарной артерии следует рассматривать предпочтительнее ЧКВ на самом шунте."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-restenosis",
+      "title": {
+        "en": "Restenosis",
+        "ru": "Рестеноз"
+      },
+      "rows": [
+        {
+          "id": "r_rest_01",
+          "text": {
+            "en": "DES are recommended for the treatment of in-stent restenosis of BMS or DES.",
+            "ru": "Стенты с лекарственным покрытием (DES) рекомендуются для лечения рестеноза внутри голометаллических стентов (BMS) или DES."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_rest_02",
+          "text": {
+            "en": "Drug-coated balloons are recommended for the treatment of in-stent restenosis of BMS or DES.",
+            "ru": "Баллоны с лекарственным покрытием рекомендуются для лечения рестеноза внутри голометаллических стентов (BMS) или DES."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_rest_03",
+          "text": {
+            "en": "In patients with recurrent episodes of diffuse in-stent restenosis, CABG should be considered by the Heart Team over a new PCI attempt.",
+            "ru": "У пациентов с рецидивирующими эпизодами диффузного рестеноза внутри стента команде Heart Team следует рассмотреть КШ предпочтительнее новой попытки ЧКВ."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_rest_04",
+          "text": {
+            "en": "IVUS and/or OCT should be considered to detect stent-related mechanical problems leading to restenosis.",
+            "ru": "ВСУЗИ и/или ОКТ следует рассмотреть для выявления связанных со стентом механических причин, приведших к рестенозу."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

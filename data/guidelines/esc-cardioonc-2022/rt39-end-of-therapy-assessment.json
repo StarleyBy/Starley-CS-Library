@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt39-end-of-therapy-assessment",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 39",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 39 — Recommendations for end-of-cancer therapy cardiovascular risk assessment",
+    "ru": "Таблица рекомендаций 39 — Рекомендации по оценке сердечно-сосудистого риска в конце противоопухолевой терапии"
+  },
+  "tags": [
+    "cardio-oncology",
+    "end-of-therapy",
+    "survivorship",
+    "tte",
+    "biomarkers",
+    "cpet",
+    "rehabilitation",
+    "ctrcd",
+    "follow-up"
+  ],
+  "source": {
+    "page": 83
+  },
+  "sections": [
+    {
+      "id": "sec01-end-of-therapy",
+      "title": {
+        "en": "End-of-cancer therapy cardiovascular risk assessment",
+        "ru": "Оценка сердечно-сосудистого риска в конце противоопухолевой терапии"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Educating and supporting patients with cancer to make appropriate healthy lifestyle choices is recommended (regulation of hypertension, DM, dyslipidaemia, smoking cessation, weight loss, exercise).",
+            "ru": "Обучение и поддержка онкологических пациентов в отношении приверженности здоровому образу жизни рекомендуются (контроль АГ, СД, дислипидемии, отказ от курения, нормализация веса, физические упражнения)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Education is recommended for patients with cancer regarding recognition for early signs and symptoms of CVD.",
+            "ru": "Обучение пациентов с онкологическими заболеваниями распознаванию ранних признаков и симптомов ССЗ рекомендуется."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "CVRF assessment is recommended during the first year after cancer therapy and thereafter according to the 2021 ESC Guidelines on CVD prevention in clinical practice.",
+            "ru": "Оценка факторов риска сердечно-сосудистых заболеваний (CVRF) рекомендуется в течение первого года после окончания терапии рака и далее в соответствии с рекомендациями ESC 2021 по профилактике ССЗ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In asymptomatic high-risk patients, echocardiography and cardiac serum biomarkers are recommended at 3 and 12 months after completion of cancer therapy.",
+            "ru": "У бессимптомных пациентов высокого риска эхокардиография и определение сердечных биомаркеров в сыворотке крови рекомендуются через 3 и 12 месяцев после завершения противоопухолевой терапии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In asymptomatic moderate-risk patients, echocardiography and cardiac serum biomarkers should be considered within 12 months after completion of cancer therapy.",
+            "ru": "У бессимптомных пациентов умеренного риска выполнение эхокардиографии и определение кардиомаркеров следует рассмотреть в течение 12 месяцев после завершения лечения рака."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In asymptomatic low-risk patients, echocardiography and cardiac serum biomarkers may be considered within 12 months after completion of cancer therapy.",
+            "ru": "У бессимптомных пациентов низкого риска выполнение эхокардиографии и определение биомаркеров могут рассматриваться в течение 12 месяцев после завершения лечения."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Cardiology referral (cardio-oncology referral when available) is recommended in patients with cancer with new cardiac symptoms or new asymptomatic abnormalities in echocardiography and/or cardiac serum biomarkers at the end of therapy assessment.",
+            "ru": "Направление к кардиологу (к кардиоонкологу при доступности) рекомендуется пациентам с новыми кардиальными симптомами либо новыми бессимптомными изменениями на ЭхоКГ и/или биомаркерах при оценке в конце лечения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "In selected patients with exercise intolerance persisting at 12 months after cancer treatment and with normal resting echocardiogram and cardiac biomarkers, exercise stress echocardiography and/or CPET may be considered.",
+            "ru": "У отдельных пациентов с непереносимостью физических нагрузок, сохраняющейся через 12 месяцев после терапии рака при нормальных ЭхоКГ покоя и биомаркерах, стресс-эхокардиография и/или КПНТ (CPET) могут быть рассмотрены."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "Targeted cardiac rehabilitation should be considered in cancer survivors with high CV risk.",
+            "ru": "Таргетную кардиореабилитацию следует рассмотреть у лиц, переживших рак (cancer survivors), с высоким риском сердечно-сосудистых осложнений."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Long-term continuation of cardiac medication is recommended in patients who develop severe CTRCD during cancer therapy.",
+            "ru": "Длительное продолжение приема кардиологических препаратов рекомендуется пациентам, у которых развилась тяжелая CTRCD во время противоопухолевой терапии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "CV follow-up and treatment optimization is recommended in patients who developed TKI-mediated hypertension during cancer therapy.",
+            "ru": "Кардиологическое наблюдение и оптимизация гипотензивной терапии рекомендуются пациентам с артериальной гипертензией, индуцированной ингибиторами тирозинкиназ (ИТК), во время терапии рака."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "CV follow-up and treatment optimization is recommended in patients who developed vascular toxicities during cancer therapy.",
+            "ru": "Кардиологическое наблюдение и оптимизация терапии рекомендуются пациентам, у которых развилась сосудистая токсичность во время лечения рака."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "ECG follow-up is recommended in patients who developed QT lengthening or LQTS during cancer therapy.",
+            "ru": "Динамический контроль ЭКГ рекомендуется пациентам, у которых развилось удлинение интервала QT или синдром удлиненного QT во время противоопухолевой терапии."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

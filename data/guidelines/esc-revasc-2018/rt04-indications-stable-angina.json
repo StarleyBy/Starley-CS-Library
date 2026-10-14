@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt04-indications-stable-angina",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 4",
+  "title": {
+    "en": "Indications for revascularization in patients with stable angina or silent ischaemia",
+    "ru": "Показания к реваскуляризации у пациентов со стабильной стенокардией или безболевой ишемией миокарда"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-prognosis",
+      "title": {
+        "en": "For prognosis",
+        "ru": "Для улучшения прогноза"
+      },
+      "rows": [
+        {
+          "id": "r_prog_01",
+          "text": {
+            "en": "Left main disease with stenosis >50% (with documented ischaemia or a haemodynamically relevant lesion defined by FFR ≤0.80 or iwFR ≤0.89, or >90% stenosis in a major coronary vessel).",
+            "ru": "Поражение ствола левой коронарной артерии со стенозом >50% (при подтвержденной ишемии или гемодинамически значимом стенозе по данным FFR ≤0,80 либо iwFR ≤0,89, либо при стенозе >90% магистральной коронарной артерии)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_prog_02",
+          "text": {
+            "en": "Proximal LAD stenosis >50% (with documented ischaemia or a haemodynamically relevant lesion defined by FFR ≤0.80 or iwFR ≤0.89, or >90% stenosis in a major coronary vessel).",
+            "ru": "Стеноз проксимального отдела ПМЖВ >50% (при подтвержденной ишемии или гемодинамически значимом стенозе по данным FFR ≤0,80 либо iwFR ≤0,89, либо при стенозе >90% магистральной коронарной артерии)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_prog_03",
+          "text": {
+            "en": "Two- or three-vessel disease with stenosis >50% with impaired LV function (LVEF ≤35%) (with documented ischaemia or a haemodynamically relevant lesion defined by FFR ≤0.80 or iwFR ≤0.89, or >90% stenosis in a major coronary vessel).",
+            "ru": "Двух- или трехсосудистое поражение со стенозом >50% и нарушением функции ЛЖ (ФВ ЛЖ ≤35%) (при подтвержденной ишемии или гемодинамически значимом стенозе по данным FFR ≤0,80 либо iwFR ≤0,89, либо при стенозе >90% магистральной коронарной артерии)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_prog_04",
+          "text": {
+            "en": "Large area of ischaemia detected by functional testing (>10% LV) or abnormal invasive FFR (based on FFR <0.75 indicating a prognostically relevant lesion).",
+            "ru": "Большая зона ишемии, выявленная при функциональном тестировании (>10% миокарда ЛЖ), или патологический инвазивный FFR (на основании FFR <0,75, указывающего на прогностически значимое поражение)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_prog_05",
+          "text": {
+            "en": "Single remaining patent coronary artery with stenosis >50% (with documented ischaemia or a haemodynamically relevant lesion defined by FFR ≤0.80 or iwFR ≤0.89, or >90% stenosis in a major coronary vessel).",
+            "ru": "Единственная сохранная проходимая коронарная артерия со стенозом >50% (при подтвержденной ишемии или гемодинамически значимом стенозе по данным FFR ≤0,80 либо iwFR ≤0,89, либо при стенозе >90% магистральной коронарной артерии)."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-symptoms",
+      "title": {
+        "en": "For symptoms",
+        "ru": "Для уменьшения симптомов"
+      },
+      "rows": [
+        {
+          "id": "r_symp_01",
+          "text": {
+            "en": "Haemodynamically significant coronary stenosis (with documented ischaemia or a haemodynamically relevant lesion defined by FFR ≤0.80 or iwFR ≤0.89, or >90% stenosis in a major coronary vessel) in the presence of limiting angina or angina equivalent, with insufficient response to optimized medical therapy (in consideration of patient compliance and wishes in relation to the intensity of anti-anginal therapy).",
+            "ru": "Гемодинамически значимый коронарный стеноз (при подтвержденной ишемии или гемодинамически значимом стенозе по данным FFR ≤0,80 либо iwFR ≤0,89, либо стенозе >90% магистральной артерии) при наличии лимитирующей стенокардии или ее эквивалентов и недостаточном ответе на оптимальную медикаментозную терапию (с учетом приверженности и пожеланий пациента относительно интенсивности антиангинальной терапии)."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.t07-savr-vs-tavi-factors",
+  "guidelineId": "esc-vhd-2025",
+  "number": "Figure 9 / Table 7",
+  "type": "grid",
+  "title": {
+    "en": "Factors to be considered when selecting the mode of intervention for aortic stenosis (Favours SAVR vs. Favours TAVI)",
+    "ru": "Факторы, учитываемые при выборе метода вмешательства при аортальном стенозе (в пользу SAVR или в пользу TAVI)"
+  },
+  "columns": [
+    {
+      "id": "c_savr",
+      "title": {
+        "en": "Favours SAVR",
+        "ru": "В пользу SAVR (хирургия)"
+      }
+    },
+    {
+      "id": "c_domain",
+      "title": {
+        "en": "Domain / Category",
+        "ru": "Критерий / Область"
+      }
+    },
+    {
+      "id": "c_tavi",
+      "title": {
+        "en": "Favours TAVI",
+        "ru": "В пользу TAVI (транскатетерно)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-age",
+      "cells": [
+        {
+          "text": {
+            "en": "<70 years",
+            "ru": "<70 лет"
+          }
+        },
+        {
+          "text": {
+            "en": "**Age**",
+            "ru": "**Возраст**"
+          }
+        },
+        {
+          "text": {
+            "en": "≥70 years",
+            "ru": "≥70 лет"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-anatomic-features",
+      "cells": [
+        {
+          "text": {
+            "en": "• Hostile annulus or LVOT calcification<br>• Bicuspid aortic valve<br>• Annulus dimensions unsuitable for TAVI<br>• Risk of coronary obstruction",
+            "ru": "• Неблагоприятный/выраженный кальциноз кольца или выносящего тракта ЛЖ (LVOT)<br>• Двустворчатый аортальный клапан<br>• Размеры фиброзного кольца, не подходящие для TAVI<br>• Высокий риск обструкции коронарных артерий"
+          }
+        },
+        {
+          "text": {
+            "en": "**Anatomic features**",
+            "ru": "**Анатомические особенности**"
+          }
+        },
+        {
+          "text": {
+            "en": "• Transfemoral access suitable for TAVI<br>• Porcelain aorta<br>• Intact coronary artery bypass grafts<br>• Severe chest deformity or scoliosis",
+            "ru": "• Трансфеморальный доступ, подходящий для TAVI<br>• «Фарфоровая» аорта<br>• Функционирующие коронарные шунты в опасной близости<br>• Выраженная деформация грудной клетки или сколиоз"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-concomitant-conditions",
+      "cells": [
+        {
+          "text": {
+            "en": "• Other relevant primary VHD<br>• Complex CAD<br>• Aortic root or ascending aortic aneurysm<br>• Septal hypertrophy requiring myectomy",
+            "ru": "• Другой сопутствующий клинически значимый первичный клапанный порок<br>• Сложное многососудистое поражение коронарных артерий<br>• Аневризма корня или восходящего отдела аорты<br>• Гипертрофия межжелудочковой перегородки, требующая миэктомии"
+          }
+        },
+        {
+          "text": {
+            "en": "**Concomitant conditions**^[a]",
+            "ru": "**Сопутствующие состояния**^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "• Comorbidities or cardiac conditions increasing surgical risk<br>• Frailty<br>• Sequelae of chest radiation",
+            "ru": "• Коморбидность или кардиальные факторы, повышающие открытый хирургический риск<br>• Старческая астения (хрупкость / frailty)<br>• Последствия лучевой терапии органов грудной клетки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-lifetime-management",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**Lifetime management**^[b]<br>Anticipate repeat procedure options and risks, when selecting modality and valve type at index procedure:<br>• **Redo SAVR:** risk of redo surgery<br>• **SAVR after TAVI:** increased risk associated with THV explantation<br>• **Valve-in-valve TAVI:** risk of coronary obstruction, impaired coronary access, prosthesis–patient mismatch",
+            "ru": "**Пожизненная стратегия ведения (Lifetime management)**^[b]<br>Прогнозирование вариантов повторных вмешательств и рисков при выборе метода и типа клапана при первичном вмешательстве:<br>• **Повторная открытая операция (Redo SAVR):** риски повторной стернотомии/хирургии<br>• **SAVR после предшествующей TAVI:** повышенный риск, связанный с эксплантацией транскатетерного клапана (THV)<br>• **TAVI «клапан-в-клапан» (ViV TAVI):** риск обструкции коронарных артерий, затруднение последующего доступа к коронарам, несоответствие «протез–пациент» (PPM)"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "LV thrombus and infective endocarditis are relative contraindications to TAVI and are therefore not listed.",
+      "ru": "Тромбоз полости ЛЖ и инфекционный эндокардит являются относительными противопоказаниями к TAVI и поэтому в таблице не приведены."
+    },
+    "b": {
+      "en": "Particularly relevant for patients in whom the anticipated life expectancy is thought to exceed valve durability.",
+      "ru": "Особенно актуально для пациентов, у которых ожидаемая продолжительность жизни превышает срок службы биопротеза."
+    }
+  },
+  "tags": [
+    "vhd",
+    "as",
+    "savr",
+    "tavi",
+    "decision-making",
+    "age",
+    "lifetime-management",
+    "porcelain-aorta",
+    "frailty",
+    "bicuspid"
+  ]
+}

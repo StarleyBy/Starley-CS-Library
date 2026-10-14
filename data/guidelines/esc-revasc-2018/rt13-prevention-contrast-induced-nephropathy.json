@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt13-prevention-contrast-induced-nephropathy",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 13",
+  "title": {
+    "en": "Recommendations for the prevention of contrast-induced nephropathy",
+    "ru": "Рекомендации по профилактике контраст-индуцированной нефропатии"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-angio-msct",
+      "title": {
+        "en": "Patients undergoing coronary angiography or MSCT",
+        "ru": "Пациенты, подвергающиеся коронарографии или МСКТ"
+      },
+      "rows": [
+        {
+          "id": "r_angio_01",
+          "text": {
+            "en": "It is recommended that all patients are assessed for the risk of contrast-induced nephropathy.",
+            "ru": "Рекомендуется оценивать риск контраст-индуцированной нефропатии у всех пациентов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_angio_02",
+          "text": {
+            "en": "Adequate hydration is recommended.",
+            "ru": "Рекомендуется адекватная гидратация."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-mod-severe-ckd",
+      "title": {
+        "en": "Patients with moderate or severe CKD (National Kidney Foundation stages 3b and 4)",
+        "ru": "Пациенты с умеренной или тяжелой ХБП (стадии 3b и 4 по классификации NKF)"
+      },
+      "rows": [
+        {
+          "id": "r_ckd_01",
+          "text": {
+            "en": "Use of low-osmolar or iso-osmolar contrast media is recommended.",
+            "ru": "Рекомендуется использование низкоосмолярных или изоосмолярных рентгеноконтрастных препаратов."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_ckd_02",
+          "text": {
+            "en": "It is recommended that the volume of contrast media be minimized (total contrast volume/GFR <3.7; for example, 370 mL of contrast medium in a patient with a GFR of 100 mL/min will yield a ratio of 3.7).",
+            "ru": "Рекомендуется минимизировать объем контрастного препарата (отношение суммарного объема контраста к СКФ <3,7; например, 370 мл контраста у пациента с СКФ 100 мл/мин дает отношение 3,7)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_ckd_03",
+          "text": {
+            "en": "In statin-naive patients, pre-treatment with high-dose statins should be considered (rosuvastatin 40/20 mg or atorvastatin 80 mg).",
+            "ru": "У пациентов, ранее не принимавших статины, следует рассмотреть предварительную терапию высокими дозами статинов (розувастатин 40/20 мг или аторвастатин 80 мг)."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r_ckd_04",
+          "text": {
+            "en": "Pre- and post-hydration with isotonic saline should be considered if the expected contrast volume is >100 mL (1 mL/kg/h 12 h before and continued for 24 h after the procedure; 0.5 mL/kg/h if LVEF ≤35% or NYHA >2).",
+            "ru": "Инфузию изотонического раствора хлорида натрия до и после процедуры следует рассмотреть, если ожидаемый объем контраста составляет >100 мл (1 мл/кг/ч за 12 ч до и продолжать в течение 24 ч после процедуры; 0,5 мл/кг/ч при ФВ ЛЖ ≤35% или NYHA >2)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_ckd_05",
+          "text": {
+            "en": "As an alternative to the pre- and post-hydration regimen, tailored hydration regimens may be considered (e.g. infusion of normal saline adjusted to central venous pressure or furosemide with matched infusion of normal saline).",
+            "ru": "В качестве альтернативы стандартному режиму пре- и постгидратации можно рассмотреть индивидуализированные протоколы гидратации (например, инфузия физиологического раствора под контролем центрального венозного давления или фуросемид с компенсирующей инфузией физиологического раствора)."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-severe-ckd-stage4",
+      "title": {
+        "en": "Patients with severe CKD (National Kidney Foundation stage 4)",
+        "ru": "Пациенты с тяжелой ХБП (стадия 4 по классификации NKF)"
+      },
+      "rows": [
+        {
+          "id": "r_stage4_01",
+          "text": {
+            "en": "Prophylactic haemofiltration 6 h before complex PCI may be considered (fluid replacement rate 1000 mL/h without negative loss and saline hydration continued for 24 h after the procedure).",
+            "ru": "Профилактическая гемофильтрация за 6 ч до сложного ЧКВ может быть рассмотрена (скорость замещения жидкости 1000 мл/ч без отрицательного баланса с продолжением гидратации физраствором в течение 24 ч после процедуры)."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r_stage4_02",
+          "text": {
+            "en": "Haemodialysis is not recommended as a preventive measure.",
+            "ru": "Гемодиализ в качестве профилактической меры не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

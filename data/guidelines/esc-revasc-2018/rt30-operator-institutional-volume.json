@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt30-operator-institutional-volume",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 30",
+  "title": {
+    "en": "Recommendations for operator/institutional volume in myocardial revascularization",
+    "ru": "Рекомендации по объемам вмешательств оператора и клиники при реваскуляризации миокарда"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-cabg",
+      "title": {
+        "en": "CABG volume",
+        "ru": "Объем операций КШ"
+      },
+      "rows": [
+        {
+          "id": "r_cabg_01",
+          "text": {
+            "en": "It should be considered that CABG be performed at institutions with annual institutional volumes of ≥200 CABG cases.",
+            "ru": "Следует рассмотреть выполнение КШ в клиниках с ежегодным объемом операций не менее 200 процедур КШ в год."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-pci",
+      "title": {
+        "en": "PCI volume",
+        "ru": "Объем процедур ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r_pci_01",
+          "text": {
+            "en": "It should be considered that PCI for ACS be performed by trained operators with annual volumes of ≥75 procedures at institutions performing ≥400 PCIs per year with an established 24 h/7 day service for the treatment of patients with ACS.",
+            "ru": "Следует рассмотреть выполнение ЧКВ при ОКС подготовленными специалистами с индивидуальным объемом ≥75 процедур в год в центрах с общим объемом ≥400 ЧКВ в год и круглосуточной службой 24/7."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_pci_02",
+          "text": {
+            "en": "It should be considered that PCI for SCAD be performed by trained operators with annual volumes of ≥75 procedures at institutions performing ≥200 PCIs per year.",
+            "ru": "Следует рассмотреть выполнение ЧКВ при стабильной ИБС подготовленными операторами с ежегодным объемом ≥75 процедур в клиниках, выполняющих ≥200 ЧКВ в год."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_pci_03",
+          "text": {
+            "en": "It should be considered that institutions with annual volumes of <400 PCIs collaborate in networks with higher-volume institutions (>400 PCIs per year), with shared written protocols and exchange of operators and support staff.",
+            "ru": "Клиникам с годовым объемом <400 ЧКВ следует сотрудничать в единой сети с высокопоточными центрами (>400 ЧКВ в год), с общими письменными протоколами и обменом персоналом."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_pci_04",
+          "text": {
+            "en": "It should be considered that PCI for LM be performed by trained operators with an annual volume of ≥25 LM PCI cases per year.",
+            "ru": "Следует рассмотреть выполнение ЧКВ на стволе левой коронарной артерии подготовленными операторами с годовым объемом вмешательств на стволе ЛКА не менее 25 процедур в год."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_pci_05",
+          "text": {
+            "en": "It should be considered that non-emergency high-risk PCI procedures—such as for LM disease, single remaining patent coronary artery, and complex chronic total occlusions—are only performed by adequately experienced operators at centres that have access to circulatory support and intensive care treatment.",
+            "ru": "Неэкстренные ЧКВ высокого риска (поражение ствола ЛКА, стентирование единственной проходимой артерии, сложные хронические тотальные окклюзии) следует выполнять только опытными операторами в центрах с возможностью механической поддержки кровообращения и ОРИТ."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.t12-adult-cancer-survivors-risk",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Table 12",
+  "type": "grid",
+  "title": {
+    "en": "Table 12 — Risk categories for asymptomatic adult cancer survivors",
+    "ru": "Таблица 12 — Категории риска для бессимптомных взрослых лиц, перенесших онкологические заболевания (adult cancer survivors)"
+  },
+  "tags": [
+    "cardio-oncology",
+    "cancer-survivors",
+    "adult-survivors",
+    "doxorubicin",
+    "radiotherapy",
+    "mhd",
+    "ctrcd",
+    "hsct"
+  ],
+  "source": {
+    "page": 86
+  },
+  "columns": [
+    {
+      "id": "c_risk_category",
+      "title": {
+        "en": "Risk category",
+        "ru": "Категория риска"
+      }
+    },
+    {
+      "id": "c_characteristics",
+      "title": {
+        "en": "Patient characteristics",
+        "ru": "Клинические характеристики пациентов"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-very-high",
+      "cells": [
+        {
+          "text": {
+            "en": "Very high risk",
+            "ru": "Очень высокий риск"
+          }
+        },
+        {
+          "text": {
+            "en": "• Very high baseline CV toxicity risk pre-treatment\n• Doxorubicin ≥ 400 mg/m² (or equivalent)\n• RT > 25 Gy MHD (or prescribed RT ≥35 Gy to volume exposing heart if MHD unavailable)\n• RT > 15–25 Gy MHD + doxorubicin ≥ 100 mg/m²",
+            "ru": "• Очень высокий исходный риск СС токсичности до начала лечения\n• Доксорубицин ≥ 400 мг/м² (или эквивалент)\n• Лучевая терапия (ЛТ) > 25 Гр MHD (или назначенная ЛТ ≥35 Гр при отсутствии MHD)\n• ЛТ > 15–25 Гр MHD + доксорубицин ≥ 100 мг/м²"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-early-high",
+      "cells": [
+        {
+          "text": {
+            "en": "Early high risk (<5 years after therapy)",
+            "ru": "Ранний высокий риск (<5 лет после терапии)"
+          }
+        },
+        {
+          "text": {
+            "en": "• High baseline CV toxicity risk\n• Symptomatic or asymptomatic moderate-to-severe CTRCD during treatment\n• Doxorubicin 250–399 mg/m²\n• High-risk HSCT (allogenic HSCT; pre-existing CVD or multiple uncontrolled CVRF; mediastinal radiation history, alkylating agents, >250 mg/m² doxorubicin, GVHD)",
+            "ru": "• Высокий исходный риск кардиоваскулярной токсичности\n• Симптоматическая или бессимптомная умеренная/тяжелая CTRCD во время лечения\n• Доксорубицин 250–399 мг/м²\n• Высокий риск после ТГСК (аллогенная ТГСК, предшествующие ССЗ, множественные неконтролируемые факторы риска, облучение средостения, алкилирующие средства, доксорубицин >250 мг/м², РТПХ)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-late-high",
+      "cells": [
+        {
+          "text": {
+            "en": "Late high risk",
+            "ru": "Поздний высокий риск"
+          }
+        },
+        {
+          "text": {
+            "en": "• RT > 15–25 Gy MHD\n• RT 5–15 Gy MHD + doxorubicin ≥ 100 mg/m²\n• Poorly controlled CVRF",
+            "ru": "• ЛТ > 15–25 Гр MHD\n• ЛТ 5–15 Гр MHD + доксорубицин ≥ 100 мг/м²\n• Плохо контролируемые факторы сердечно-сосудистого риска (CVRF)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-moderate",
+      "cells": [
+        {
+          "text": {
+            "en": "Moderate risk",
+            "ru": "Умеренный риск"
+          }
+        },
+        {
+          "text": {
+            "en": "• Moderate baseline CV toxicity risk\n• Doxorubicin 100–249 mg/m²\n• RT 5–15 Gy MHD (or prescribed RT 15–34 Gy if MHD unavailable)\n• RT < 5 Gy MHD + doxorubicin ≥ 100 mg/m²",
+            "ru": "• Умеренный исходный риск СС токсичности\n• Доксорубицин 100–249 мг/м²\n• ЛТ 5–15 Гр MHD (или назначенная ЛТ 15–34 Гр при отсутствии MHD)\n• ЛТ < 5 Гр MHD + доксорубицин ≥ 100 мг/м²"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-low",
+      "cells": [
+        {
+          "text": {
+            "en": "Low risk",
+            "ru": "Низкий риск"
+          }
+        },
+        {
+          "text": {
+            "en": "• Low baseline CV toxicity risk and normal end-of-therapy cardiac assessment\n• Mild CTRCD during therapy but recovered by the end of cancer therapy\n• RT < 5 Gy MHD (or prescribed RT < 15 Gy if MHD unavailable)\n• Doxorubicin < 100 mg/m²",
+            "ru": "• Низкий исходный риск СС токсичности и нормальные результаты обследования в конце лечения\n• Легкая CTRCD во время лечения с полным восстановлением к концу противоопухолевой терапии\n• ЛТ < 5 Гр MHD (или назначенная ЛТ < 15 Гр при отсутствии MHD)\n• Доксорубицин < 100 мг/м²"
+          }
+        }
+      ]
+    }
+  ]
+}

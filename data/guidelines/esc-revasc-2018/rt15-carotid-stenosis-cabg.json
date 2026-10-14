@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt15-carotid-stenosis-cabg",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 15",
+  "title": {
+    "en": "Recommendations on the management of carotid stenosis in patients undergoing coronary artery bypass grafting",
+    "ru": "Рекомендации по ведению стеноза сонной артерии у пациентов, подвергающихся коронарному шунтированию"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Management of carotid stenosis in CABG patients",
+        "ru": "Тактика при стенозе сонных артерий у кандидатов на КШ"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients scheduled for CABG, it is recommended that the indication (and if so the method and timing) for carotid revascularization be individualized after discussion within a multidisciplinary team, including a neurologist.",
+            "ru": "У пациентов, запланированных на КШ, рекомендуется индивидуализировать показания (а также метод и сроки) к реваскуляризации сонных артерий после обсуждения в мультидисциплинарной команде с участием невролога."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients scheduled for CABG, with recent (<6 months) history of TIA/stroke: carotid revascularization should be considered in patients with 50–99% carotid stenosis.",
+            "ru": "У пациентов, запланированных на КШ, с недавним (<6 месяцев) анамнезом ТИА/инсульта: реваскуляризацию сонных артерий следует рассмотреть при стенозе сонной артерии 50–99%."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients scheduled for CABG, with recent (<6 months) history of TIA/stroke: carotid revascularization with CEA should be considered as first choice in patients with 50–99% carotid stenosis.",
+            "ru": "У пациентов, запланированных на КШ, с недавним (<6 месяцев) анамнезом ТИА/инсульта: каротидная эндартерэктомия (КЭЭ) должна рассматриваться как метод первого выбора при стенозе сонной артерии 50–99%."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients scheduled for CABG, with recent (<6 months) history of TIA/stroke: carotid revascularization is not recommended in patients with carotid stenosis <50%.",
+            "ru": "У пациентов, запланированных на КШ, с недавним (<6 месяцев) анамнезом ТИА/инсульта: реваскуляризация сонных артерий не рекомендуется при стенозе сонной артерии <50%."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In neurologically asymptomatic patients scheduled for CABG: carotid revascularization may be considered in patients with bilateral 70–99% carotid stenosis or 70–99% carotid stenosis and contralateral occlusion.",
+            "ru": "У неврологически асимптомных пациентов, запланированных на КШ: реваскуляризация сонных артерий может быть рассмотрена при двустороннем стенозе 70–99% либо стенозе 70–99% с контралатеральной окклюзией."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In neurologically asymptomatic patients scheduled for CABG: carotid revascularization may be considered in patients with a 70–99% carotid stenosis, in the presence of one or more characteristics that may be associated with an increased risk of ipsilateral stroke (contralateral TIA/stroke, ipsilateral silent infarction on cerebral imaging, intraplaque haemorrhage or lipid-rich necrotic core on MRA, or high-risk ultrasound findings), in order to reduce stroke risk beyond the perioperative period.",
+            "ru": "У неврологически асимптомных пациентов, запланированных на КШ: реваскуляризация сонных артерий может быть рассмотрена при стенозе сонной артерии 70–99% при наличии одного или более признаков повышенного риска ипсилатерального инсульта (контралатеральная ТИА/инсульт, ипсилатеральный «немой» инфаркт мозга при нейровизуализации, внутрибляшечное кровоизлияние или богатое липидами некротическое ядро на МРА либо признаки высокого риска по УЗИ), с целью снижения риска инсульта за пределами периоперационного периода."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "In neurologically asymptomatic patients scheduled for CABG: routine prophylactic carotid revascularization in patients with a 70–99% carotid stenosis is not recommended.",
+            "ru": "У неврологически асимптомных пациентов, запланированных на КШ: рутинная профилактическая реваскуляризация сонных артерий при стенозе 70–99% не рекомендуется."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

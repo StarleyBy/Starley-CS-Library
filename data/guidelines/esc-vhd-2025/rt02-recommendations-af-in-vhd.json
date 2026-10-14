@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt02-recommendations-af-in-vhd",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 2",
+  "title": {
+    "en": "Recommendations for the management of atrial fibrillation in patients with native valvular heart disease",
+    "ru": "Рекомендации по ведению фибрилляции предсердий у пациентов с нативными пороками сердца"
+  },
+  "tags": [
+    "vhd",
+    "af",
+    "doac",
+    "vka",
+    "rheumatic-ms",
+    "surgical-ablation",
+    "laao",
+    "valve-surgery"
+  ],
+  "sections": [
+    {
+      "id": "sec-anticoagulation",
+      "title": {
+        "en": "Anticoagulation",
+        "ru": "Антикоагулянтная терапия"
+      },
+      "rows": [
+        {
+          "id": "r01-doac-over-vka",
+          "text": {
+            "en": "DOACs are recommended for stroke prevention in preference to VKAs in patients with AF and AS, AR, or MR who are eligible for OAC.",
+            "ru": "ПОАК рекомендуются для профилактики инсульта предпочтительнее АВК у пациентов с ФП и аортальным стенозом, аортальной или митральной регургитацией, показанных к приему ПОАК/ОАК."
+          },
+          "refs": [156, 157, 158, 159, 164],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02-doac-contraindicated-rheumatic-ms",
+          "text": {
+            "en": "The use of DOACs is not recommended in patients with AF and rheumatic MS with an MVA ≤2.0 cm².",
+            "ru": "Применение ПОАК не рекомендуется у пациентов с ФП и ревматическим митральным стенозом с площадью отверстия (MVA) ≤2,0 см²."
+          },
+          "refs": [165],
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-surgical-interventions",
+      "title": {
+        "en": "Surgical interventions",
+        "ru": "Хирургические вмешательства"
+      },
+      "rows": [
+        {
+          "id": "r03-concomitant-ablation-mv-surgery",
+          "text": {
+            "en": "Concomitant surgical ablation is recommended in patients undergoing MV surgery with AF suitable for a rhythm control strategy to prevent symptoms and recurrence of AF, according to an experienced team of electrophysiologists and arrhythmia surgeons.",
+            "ru": "Сопутствующая хирургическая аблация рекомендуется пациентам, переносящим операцию на митральном клапане, с ФП, подходящим для стратегии контроля ритма с целью профилактики симптомов и рецидивов ФП, по решению опытной команды электрофизиологов и хирургов-аритмологов."
+          },
+          "refs": [166, 167, 168, 169, 170, 171, 172, 173],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04-surgical-laa-closure",
+          "text": {
+            "en": "Surgical closure of the LA appendage is recommended as an adjunct to OAC in patients with AF undergoing valve surgery to prevent cardioembolic stroke and systemic thromboembolism.",
+            "ru": "Хирургическая окклюзия/ушивание ушка левого предсердия рекомендуется в дополнение к антикоагулянтной терапии у пациентов с ФП, подвергающихся операции на клапанах сердца, для профилактики кардиоэмболического инсульта и системных тромбоэмболий."
+          },
+          "refs": [160, 161, 162, 163],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05-concomitant-ablation-non-mv-surgery",
+          "text": {
+            "en": "Concomitant surgical ablation should be considered in patients undergoing non-MV surgery with AF suitable for a rhythm control strategy to prevent symptoms and recurrence of AF, according to an experienced team of electrophysiologists and arrhythmia surgeons.",
+            "ru": "Сопутствующую хирургическую аблацию следует рассматривать у пациентов, подвергающихся операции не на митральном клапане, с ФП, подходящим для стратегии контроля ритма для устранения симптомов и рецидивов ФП, по решению опытной команды электрофизиологов и хирургов-аритмологов."
+          },
+          "refs": [167, 169, 174, 175],
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

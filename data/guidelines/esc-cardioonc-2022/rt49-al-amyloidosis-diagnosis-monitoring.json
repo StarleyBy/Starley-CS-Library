@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt49-al-amyloidosis-diagnosis-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "type": "recommendations",
+  "number": "Rec Table 49",
+  "title": {
+    "en": "Recommendations for amyloid light-chain cardiac amyloidosis diagnosis and monitoring",
+    "ru": "Рекомендации по диагностике и мониторингу AL-амилоидоза сердца (амилоидоза легких цепей)"
+  },
+  "sections": [
+    {
+      "id": "sec-rt49-general",
+      "title": {
+        "en": "General recommendations",
+        "ru": "Общие рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Echocardiography, NP, and cTn are recommended for the diagnosis of AL-CA in patients with plasma cell dyscrasia.",
+            "ru": "Эхокардиография, натрийуретические пептиды (NP) и сердечный тропонин (cTn) рекомендуются для диагностики AL-амилоидоза сердца (AL-CA) у пациентов с плазмоклеточной дискразией."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "CMR is recommended in patients with suspected AL-CA.",
+            "ru": "Магнитно-резонансная томография сердца (CMR) рекомендуется пациентам с подозрением на AL-амилоидоз сердца (AL-CA)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "EMB should be considered in patients with suspected AL-CA involvement if CMR is not diagnostic.",
+            "ru": "Эндомиокардиальную биопсию (EMB) следует рассмотреть у пациентов с подозрением на AL-амилоидоз сердца (AL-CA), если данные CMR не позволяют установить однозначный диагноз."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Admission with inpatient ECG monitoring should be considered for high-risk patients with AL-CA (according to baseline evaluation using HFA-ICOS PI risk assessment tools) requiring PI during their first cycle of therapy.",
+            "ru": "Госпитализацию с круглосуточным ЭКГ-мониторированием следует рассмотреть для пациентов высокого риска с AL-амилоидозом сердца (AL-CA; согласно исходной оценке по шкале риска HFA-ICOS для ингибиторов протеасом), которым требуются ингибиторы протеасом (PI) во время их первого цикла терапии."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

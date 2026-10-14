@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt40-childhood-cancer-survivors-surveillance",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 40",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 40 — Recommendations for cardiovascular surveillance in asymptomatic adults who are childhood and adolescent cancer survivors",
+    "ru": "Таблица рекомендаций 40 — Рекомендации по сердечно-сосудистому наблюдению за бессимптомными взрослыми лицами, перенесшими рак в детском и подростковом возрасте"
+  },
+  "tags": [
+    "cardio-oncology",
+    "childhood-cancer",
+    "cancer-survivors",
+    "cvrf",
+    "pregnancy",
+    "tte",
+    "surveillance"
+  ],
+  "source": {
+    "page": 85
+  },
+  "sections": [
+    {
+      "id": "sec01-childhood-survivors",
+      "title": {
+        "en": "Cardiovascular surveillance in childhood and adolescent cancer survivors",
+        "ru": "Сердечно-сосудистое наблюдение за лицами, перенесшими рак в детском/подростковом возрасте"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Education of adults who are childhood and adolescent cancer survivors treated with anthracyclines, mitoxantrone, and/or RT to a volume including the heart and their healthcare providers regarding their increased CV risk is recommended.",
+            "ru": "Информирование взрослых лиц, перенесших онкологические заболевания в детском и подростковом возрасте и получавших антрациклины, митоксантрон и/или ЛТ на область сердца, а также их лечащих врачей о повышенном риске ССЗ рекомендуется."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Annual screening for modifiable CVRF (obesity, sedentary lifestyle, smoking, alcohol, unhealthy diet, dyslipidaemia, hypertension, DM) is recommended in adults who are childhood and adolescent cancer survivors treated with anthracyclines, mitoxantrone, and/or RT to a volume including the heart.",
+            "ru": "Ежегодный скрининг на модифицируемые факторы СС риска (ожирение, гиподинамия, курение, алкоголь, нерациональное питание, дислипидемия, гипертензия, СД) рекомендуется взрослым лицам, лечившимся в детстве/подростковом возрасте антрациклинами, митоксантроном и/или ЛТ на область сердца."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "CV assessment (BP, lipids, fasting glucose, HbA1c, ECG, and TTE) is recommended in female childhood and adolescent cancer survivors prior to pregnancy or in the first trimester.",
+            "ru": "Оценка сердечно-сосудистого статуса (АД, липиды, глюкоза натощак, HbA1c, ЭКГ и ЭхоКГ) рекомендуется женщинам, перенесшим рак в детском/подростковом возрасте, до наступления беременности или в первом триместре."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Echocardiography surveillance should be considered every 2 years in adults who are high-risk childhood and adolescent cancer survivors.",
+            "ru": "Эхокардиографический скрининг каждые 2 года следует рассмотреть у взрослых пациентов высокой группы риска, перенесших онкозаболевание в детском или подростковом возрасте."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Echocardiography surveillance should be considered every 5 years in adults who are moderate-risk childhood and adolescent cancer survivors.",
+            "ru": "Эхокардиографический скрининг каждые 5 лет следует рассмотреть у взрослых пациентов умеренной группы риска, перенесших рак в детстве или подростковом возрасте."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

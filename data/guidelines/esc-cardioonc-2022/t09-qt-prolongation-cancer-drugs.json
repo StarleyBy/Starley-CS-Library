@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.t09-qt-prolongation-cancer-drugs",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Table 9",
+  "type": "grid",
+  "title": {
+    "en": "Table 9 — Classification of corrected QT interval prolongation induced by cancer drug therapy",
+    "ru": "Таблица 9 — Классификация удлинения корригированного интервала QT, индуцированного противоопухолевой лекарственной терапией"
+  },
+  "tags": [
+    "cardio-oncology",
+    "qt-prolongation",
+    "qtc",
+    "qtcf",
+    "tdp",
+    "ribociclib",
+    "arsenic-trioxide",
+    "nilotinib",
+    "sunitinib"
+  ],
+  "source": {
+    "page": 69
+  },
+  "columns": [
+    {
+      "id": "c_classification",
+      "title": {
+        "en": "Classification",
+        "ru": "Классификация риска"
+      }
+    },
+    {
+      "id": "c_drugs",
+      "title": {
+        "en": "Drugs",
+        "ru": "Лекарственные препараты"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-high-risk",
+      "cells": [
+        {
+          "text": {
+            "en": "High risk: QTcF prolongation ≥ 10 ms and risk of TdP",
+            "ru": "Высокий риск: удлинение QTcF ≥ 10 мс и риск развития TdP"
+          }
+        },
+        {
+          "text": {
+            "en": "• Aclarubicin\n• Arsenic trioxide\n• Glasdegib\n• Nilotinib\n• Oxaliplatin\n• Pazopanib\n• Ribociclib\n• Sunitinib\n• Toremifene\n• Vandetanib",
+            "ru": "• Акларубицин\n• Триоксид мышьяка\n• Глаздегиб\n• Нилотиниб\n• Оксалиплатин\n• Пазопаниб\n• Рибоциклиб\n• Сунитиниб\n• Торемифен\n• Вандетаниб"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-moderate-risk",
+      "cells": [
+        {
+          "text": {
+            "en": "Moderate risk: QTcF prolongation ≥ 10 ms and low or no risk of TdP (or uncertain)",
+            "ru": "Умеренный риск: удлинение QTcF ≥ 10 мс и низкий или отсутствующий риск TdP (либо неопределенный)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Abarelix\n• Belinostat\n• Brigatinib\n• Cabozantinib\n• Ceritinib\n• Crizotinib\n• Dovitinib\n• Entrectinib\n• Eribulin\n• Gilteritinib\n• Ivosidenib\n• Lapatinib\n• Lenvatinib\n• Osimertinib\n• Panobinostat\n• Rucaparib\n• Selpercatinib\n• Sorafenib\n• Tipiracil/trifluridine\n• Vemurafenib",
+            "ru": "• Абареликс\n• Белиностат\n• Бригатиниб\n• Кабозантиниб\n• Церитиниб\n• Кризотиниб\n• Довитиниб\n• Энтректиниб\n• Эрибулин\n• Гилтеритиниб\n• Ивосидениб\n• Лапатиниб\n• Ленватиниб\n• Осимертиниб\n• Панобиностат\n• Рукапариб\n• Селперкатиниб\n• Сорафениб\n• Типирацил/трифлуридин\n• Вемурафениб"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-low-risk",
+      "cells": [
+        {
+          "text": {
+            "en": "Low risk: QTcF prolongation < 10 ms (ADT may prolong QTc: GnRH agonists/antagonists, bicalutamide, flutamide, apalutamide, darolutamide, enzalutamide, abiraterone)",
+            "ru": "Низкий риск: удлинение QTcF < 10 мс (препараты АДТ могут удлинять QTc: агонисты/антагонисты ГнРГ, бикалутамид, флутамид, апалутамид, даролутамид, энзалутамид, абиратерон)"
+          }
+        },
+        {
+          "text": {
+            "en": "• ADT\n• Afatinib\n• Axitinib\n• Binimetinib\n• Bortezomib\n• Bosutinib\n• Carfilzomib\n• Dabrafenib\n• Dasatinib\n• Encorafenib\n• Midostaurin\n• Pertuzumab\n• Ponatinib\n• Romidepsin\n• Quizartinib\n• Tamoxifen\n• Vorinostat",
+            "ru": "• Препараты андроген-депривационной терапии (АДТ)\n• Афатиниб\n• Акситиниб\n• Биниметиниб\n• Бортезомиб\n• Бозутиниб\n• Карфилзомиб\n• Дабрафениб\n• Дазатиниб\n• Энкорафениб\n• Мидостаурин\n• Пертузумаб\n• Понатиниб\n• Ромидепсин\n• Квизартиниб\n• Тамоксифен\n• Вориностат"
+          }
+        }
+      ]
+    }
+  ]
+}

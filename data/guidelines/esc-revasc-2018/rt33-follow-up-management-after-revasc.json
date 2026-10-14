@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt33-follow-up-management-after-revasc",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 33",
+  "title": {
+    "en": "Strategies for follow-up and management in patients after myocardial revascularization",
+    "ru": "Стратегии наблюдения и ведения пациентов после реваскуляризации миокарда"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-general-follow-up",
+      "title": {
+        "en": "General follow-up and rehabilitation",
+        "ru": "Общее наблюдение и реабилитация"
+      },
+      "rows": [
+        {
+          "id": "r_gen_01",
+          "text": {
+            "en": "After CABG or PCI for AMI, participation in a cardiac rehabilitation programme is recommended to improve patient outcomes.",
+            "ru": "После КШ или ЧКВ по поводу острого инфаркта миокарда рекомендуется участие в программе кардиореабилитации для улучшения клинических исходов."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_gen_02",
+          "text": {
+            "en": "It is recommended that secondary prevention measures, including medical therapy and lifestyle changes, are started and reinforced after myocardial revascularization.",
+            "ru": "Рекомендуется начинать и активно поддерживать меры вторичной профилактики, включая медикаментозную терапию и модификацию образа жизни, после реваскуляризации миокарда."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_gen_03",
+          "text": {
+            "en": "It is recommended that patients are re-evaluated after myocardial revascularization (e.g. at 3 months and thereafter, at least on an annual basis) in order to reassess symptoms and adherence to secondary prevention measures, and reinforce medical therapy and lifestyle changes when appropriate.",
+            "ru": "Рекомендуется повторное обследование пациентов после реваскуляризации миокарда (например, через 3 месяца и далее как минимум ежегодно) для оценки симптомов, приверженности мерам вторичной профилактики и своевременной коррекции терапии и образа жизни."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-symptomatic-patients",
+      "title": {
+        "en": "Symptomatic patients",
+        "ru": "Симптомные пациенты"
+      },
+      "rows": [
+        {
+          "id": "r_symp_01",
+          "text": {
+            "en": "Coronary angiography is recommended in patients with intermediate- to high-risk findings at stress testing (ischaemia at low workload, early-onset ischaemia, inducible wall motion abnormality, or reversible perfusion defect in ≥10% of LV myocardium).",
+            "ru": "Коронарография рекомендуется пациентам с признаками промежуточного или высокого риска при стресс-тестировании (ишемия при низкой нагрузке, раннее возникновение ишемии, индуцированные нарушения локальной сократимости или обратимый дефект перфузии ≥10% миокарда ЛЖ)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_symp_02",
+          "text": {
+            "en": "An imaging stress test should be considered in patients with prior revascularization over stress ECG.",
+            "ru": "Стресс-тест с визуализацией (стресс-ЭхоКГ, стресс-МРТ, ОФЭКТ/ПЭТ) следует рассмотреть у пациентов после реваскуляризации предпочтительнее нагрузочной стресс-ЭКГ."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-asymptomatic-patients",
+      "title": {
+        "en": "Asymptomatic patients",
+        "ru": "Асимптомные пациенты"
+      },
+      "rows": [
+        {
+          "id": "r_asymp_01",
+          "text": {
+            "en": "Surveillance by non-invasive imaging-based stress testing may be considered in high-risk patient subsets 6 months after revascularization.",
+            "ru": "Контрольное неинвазивное визуализирующее стресс-тестирование может быть рассмотрено в подгруппах высокого риска через 6 месяцев после реваскуляризации."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r_asymp_02",
+          "text": {
+            "en": "After high-risk PCI (e.g. unprotected LM stenosis), late (3–12 months) surveillance angiography may be considered, irrespective of symptoms.",
+            "ru": "После ЧКВ высокого риска (например, при стенозе незащищенного ствола ЛКА) может быть рассмотрена контрольная поздняя (через 3–12 месяцев) ангиография независимо от наличия симптомов."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r_asymp_03",
+          "text": {
+            "en": "Routine non-invasive imaging-based stress testing may be considered 1 year after PCI and >5 years after CABG.",
+            "ru": "Рутинное неинвазивное визуализирующее стресс-тестирование может быть рассмотрено через 1 год после ЧКВ и более чем через 5 лет после КШ."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt15-recommendations-mhv-non-cardiac-surgery",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 15",
+  "title": {
+    "en": "Recommendations for the management of antithrombotic therapy in patients with a mechanical heart valve undergoing elective non-cardiac surgery or invasive procedures",
+    "ru": "Рекомендации по ведению антитромботической терапии у пациентов с механическим протезом клапана сердца при плановых внесердечных операциях или инвазивных процедурах"
+  },
+  "tags": [
+    "vhd",
+    "mhv",
+    "non-cardiac-surgery",
+    "bridging",
+    "vka-interruption",
+    "perioperative",
+    "inr",
+    "minimally-invasive-procedures"
+  ],
+  "sections": [
+    {
+      "id": "sec-mhv-ncs-management",
+      "title": {
+        "en": "Management of VKA during non-cardiac surgery or invasive procedures",
+        "ru": "Ведение терапии АВК при внесердечных операциях или инвазивных процедурах"
+      },
+      "rows": [
+        {
+          "id": "r01-minor-procedures-continue-vka",
+          "text": {
+            "en": "Continuing VKA treatment is recommended in patients with an MHV for minor or minimally invasive interventions^[c] associated with no or minimal bleeding.",
+            "ru": "Продолжение приема АВК рекомендуется пациентам с MHV при малых или малоинвазивных вмешательствах^[c], не сопровождающихся кровотечением или сопряженных с минимальным риском кровотечения."
+          },
+          "refs": [851, 852, 853, 854, 855, 856],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02-major-surgery-discontinue-vka",
+          "text": {
+            "en": "It is recommended to discontinue VKA at least 4 days before major non-cardiac elective surgery, aiming for an INR <1.5, and to resume VKA treatment within 24 h after surgery, or as soon as considered safe.",
+            "ru": "Рекомендуется отменить АВК как минимум за 4 дня до крупной плановой внесердечной операции с целевым уровнем МНО <1,5 и возобновить прием АВК в течение 24 часов после операции или как только это будет признано безопасным."
+          },
+          "refs": [814, 857, 858],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03-bridging-high-thrombotic-risk",
+          "text": {
+            "en": "VKA interruption and resumption with bridging^[d] should be considered in patients with an MHV and thromboembolic risk factors^[e] undergoing major NCS.",
+            "ru": "Отмену и возобновление приема АВК с проведением «мост»-терапии (bridging)^[d] следует рассматривать у пациентов с MHV и факторами тромбоэмболического риска^[e], подвергающихся крупным внесердечным операциям."
+          },
+          "refs": [814, 857, 858],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r04-interruption-without-bridging-aortic-mhv",
+          "text": {
+            "en": "Interruption (3–4 days before surgery) and resumption of VKA without bridging may be considered to reduce bleeding in patients with new-generation aortic MHVs and no other thromboembolic risk factors^[e] undergoing major NCS or invasive procedures.",
+            "ru": "Отмену (за 3–4 дня до операции) и возобновление АВК без «мост»-терапии можно рассматривать для снижения риска кровотечений у пациентов с аортальными протезами нового поколения при отсутствии других факторов риска тромбоэмболии^[e], подвергающихся крупным внесердечным вмешательствам."
+          },
+          "refs": [814, 857, 858, 861, 862, 863, 864],
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "Skin; minor eye surgery including cataract; dental cleaning, treatment of caries, and dental extractions; pacemaker or device implantation; diagnostic cardiac catheterization; gastroscopic, colonoscopic, bronchoscopic, or genitourinary diagnostic or therapeutic procedures considered at low bleeding risk.",
+      "ru": "Операции на коже; малые офтальмологические операции, включая экстракцию катаракты; профессиональная чистка зубов, лечение кариеса и удаление зубов; имплантация ЭКС или других устройств; диагностическая катетеризация сердца; диагностические и лечебные эндоскопические процедуры (ФГДС, колоноскопия, бронхоскопия) и урологические вмешательства с низким риском кровотечения."
+    },
+    "d": {
+      "en": "Bridging needs to be started as soon as INR reaches a subtherapeutic value and on the first post-operative day or as soon as considered safe.",
+      "ru": "«Мост»-терапия должна начинаться, как только уровень МНО становится субтерапевтическим, и возобновляться в 1-е послеоперационные сутки или как только это будет признано безопасным."
+    },
+    "e": {
+      "en": "MHV in mitral or tricuspid position, older MHV generations in any position, inherited or acquired hypercoagulable state, LV dysfunction (LVEF <35%), AF with significant MS, recent (<12 months) major thrombotic event (i.e. cardioembolic stroke, deep vein thrombosis, pulmonary embolism).",
+      "ru": "Протез в митральной или трикуспидальной позиции, старые поколения протезов в любой позиции, наследственные или приобретенные тромбофилии, выраженная систолическая дисфункция ЛЖ (ФВ <35%), ФП со значимым митральным стенозом, недавнее (<12 мес.) тяжелое тромботическое событие (кардиоэмболический инсульт, ТГВ, ТЭЛА)."
+    }
+  }
+}

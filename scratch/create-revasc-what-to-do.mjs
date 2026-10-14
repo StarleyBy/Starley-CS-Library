@@ -1,0 +1,877 @@
+import fs from 'fs';
+import path from 'path';
+
+const baseDir = 'd:/IT sandbox/Starley-CS-Library/data/guidelines/esc-revasc-2018';
+
+// Section 21: Evidence-based 'to do' and 'not to do' messages from the Guidelines
+const t13 = {
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.t13-what-to-do",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Table 11 (What to do)",
+  "title": {
+    "en": "Evidence-based 'to do' and 'not to do' messages from the Guidelines",
+    "ru": "Доказательные рекомендации «Что делать» и «Чего не делать» из руководства"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-risk-models",
+      "title": {
+        "en": "Risk models to assess short- and long-term outcomes after myocardial revascularization",
+        "ru": "Модели оценки риска краткосрочных и долгосрочных исходов после реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r_risk_01",
+          "text": {
+            "en": "When evidence of ischaemia is not available, FFR or iwFR are recommended to assess the haemodynamic relevance of intermediate-grade stenosis.",
+            "ru": "При отсутствии доказательств ишемии рекомендуется проведение FFR или iwFR для оценки гемодинамической значимости промежуточных стенозов."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_risk_02",
+          "text": {
+            "en": "It is recommended that the STS score is calculated to assess in-hospital or 30 day mortality, and in-hospital morbidity, after CABG.",
+            "ru": "Рекомендуется рассчитывать оценку по шкале STS для прогнозирования госпитальной или 30-дневной летальности и госпитальных осложнений после КШ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_risk_03",
+          "text": {
+            "en": "In patients with LM or multivessel disease, it is recommended that the SYNTAX score is calculated to assess the anatomical complexity of CAD and the long-term risk of mortality and morbidity after PCI.",
+            "ru": "У пациентов с поражением ствола ЛКА или многососудистым поражением рекомендуется рассчитывать шкалу SYNTAX для оценки анатомической сложности ИБС и долгосрочного риска смерти и осложнений после ЧКВ."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-indications-stable-angina-prognosis",
+      "title": {
+        "en": "Indications for revascularization in patients with stable angina or silent ischaemia: For prognosis",
+        "ru": "Показания к реваскуляризации при стабильной стенокардии или безболевой ишемии: для улучшения прогноза"
+      },
+      "rows": [
+        {
+          "id": "r_ind_prog_01",
+          "text": {
+            "en": "LM disease with stenosis >50% (with documented ischaemia or a haemodynamically relevant lesion defined by FFR ≤0.80 or iwFR ≤0.89, or >90% stenosis in a major coronary vessel).",
+            "ru": "Поражение ствола ЛКА со стенозом >50% (при подтвержденной ишемии, FFR ≤0,80 / iwFR ≤0,89 или стенозе >90% магистральной артерии)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_ind_prog_02",
+          "text": {
+            "en": "Any proximal LAD stenosis >50% (with documented ischaemia or a haemodynamically relevant lesion defined by FFR ≤0.80 or iwFR ≤0.89, or >90% stenosis in a major coronary vessel).",
+            "ru": "Стеноз проксимального отдела ПМЖВ >50% (при подтвержденной ишемии, FFR ≤0,80 / iwFR ≤0,89 или стенозе >90% магистральной артерии)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_ind_prog_03",
+          "text": {
+            "en": "Two- or three-vessel disease with stenosis >50% with impaired LV function (LVEF ≤35%) (with documented ischaemia or a haemodynamically relevant lesion defined by FFR ≤0.80 or iwFR ≤0.89, or >90% stenosis in a major coronary vessel).",
+            "ru": "Двух- или трехсосудистое поражение со стенозом >50% и сниженной функцией ЛЖ (ФВ ЛЖ ≤35%) (при подтвержденной ишемии, FFR ≤0,80 / iwFR ≤0,89 или стенозе >90% магистральной артерии)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_ind_prog_04",
+          "text": {
+            "en": "Large area of ischaemia detected by functional testing (>10% LV) or abnormal invasive FFR (based on FFR <0.75 indicating a prognostically relevant lesion).",
+            "ru": "Большая зона ишемии при функциональном тестировании (>10% миокарда ЛЖ) или патологический инвазивный FFR (<0,75)."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-indications-stable-angina-symptoms",
+      "title": {
+        "en": "Indications for revascularization in patients with stable angina or silent ischaemia: For symptoms",
+        "ru": "Показания к реваскуляризации при стабильной стенокардии или безболевой ишемии: для уменьшения симптомов"
+      },
+      "rows": [
+        {
+          "id": "r_ind_symp_01",
+          "text": {
+            "en": "Any haemodynamically significant coronary stenosis in the presence of limiting angina or angina equivalent, with an insufficient response to optimized medical therapy.",
+            "ru": "Любой гемодинамически значимый коронарный стеноз при наличии лимитирующей стенокардии или ее эквивалентов при недостаточном ответе на оптимальную медикаментозную терапию."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-type-revasc-scad",
+      "title": {
+        "en": "Type of revascularization (CABG or PCI) in patients with SCAD with suitable coronary anatomy for both procedures and low predicted surgical mortality",
+        "ru": "Выбор метода реваскуляризации (КШ или ЧКВ) у пациентов со стабильной ИБС при анатомии, пригодной для обоих вмешательств, и низком хирургическом риске"
+      },
+      "rows": [
+        {
+          "id": "r_scad_1vd_plad_cabg",
+          "text": {
+            "en": "One-vessel CAD with proximal LAD stenosis: CABG is recommended.",
+            "ru": "Однососудистое поражение с проксимальным стенозом ПМЖВ: рекомендуется КШ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_scad_1vd_plad_pci",
+          "text": {
+            "en": "One-vessel CAD with proximal LAD stenosis: PCI is recommended.",
+            "ru": "Однососудистое поражение с проксимальным стенозом ПМЖВ: рекомендуется ЧКВ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_scad_2vd_plad_cabg",
+          "text": {
+            "en": "Two-vessel CAD with proximal LAD stenosis: CABG is recommended.",
+            "ru": "Двухсосудистое поражение с проксимальным стенозом ПМЖВ: рекомендуется КШ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_scad_lm_low_cabg",
+          "text": {
+            "en": "Left main CAD with low SYNTAX score (0–22): CABG is recommended.",
+            "ru": "Поражение ствола ЛКА с низким баллом SYNTAX (0–22): рекомендуется КШ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_scad_lm_low_pci",
+          "text": {
+            "en": "Left main CAD with low SYNTAX score (0–22): PCI is recommended.",
+            "ru": "Поражение ствола ЛКА с низким баллом SYNTAX (0–22): рекомендуется ЧКВ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_scad_lm_mid_cabg",
+          "text": {
+            "en": "Left main CAD with intermediate SYNTAX score (>22 and ≤32): CABG is recommended.",
+            "ru": "Поражение ствола ЛКА со средним баллом SYNTAX (>22 и ≤32): рекомендуется КШ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_scad_lm_high_cabg",
+          "text": {
+            "en": "Left main CAD with high SYNTAX score (>32): CABG is recommended.",
+            "ru": "Поражение ствола ЛКА с высоким баллом SYNTAX (>32): рекомендуется КШ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_scad_lm_high_pci_no",
+          "text": {
+            "en": "Left main CAD with high SYNTAX score (>32): PCI is not recommended (PCI should be considered if Heart Team has concern about surgical risk or if patient refuses CABG).",
+            "ru": "Поражение ствола ЛКА с высоким баллом SYNTAX (>32): ЧКВ не рекомендуется (ЧКВ может быть рассмотрено при высоком хирургическом риске или отказе пациента от КШ)."
+          },
+          "class": "III",
+          "level": "B"
+        },
+        {
+          "id": "r_scad_3vd_nondiab_low_cabg",
+          "text": {
+            "en": "Three-vessel CAD without diabetes mellitus with low SYNTAX score (0–22): CABG is recommended.",
+            "ru": "Трехсосудистое поражение без сахарного диабета с низким баллом SYNTAX (0–22): рекомендуется КШ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_scad_3vd_nondiab_low_pci",
+          "text": {
+            "en": "Three-vessel CAD without diabetes mellitus with low SYNTAX score (0–22): PCI is recommended.",
+            "ru": "Трехсосудистое поражение без сахарного диабета с низким баллом SYNTAX (0–22): рекомендуется ЧКВ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_scad_3vd_nondiab_high_cabg",
+          "text": {
+            "en": "Three-vessel CAD without diabetes mellitus with intermediate or high SYNTAX score (>22): CABG is recommended.",
+            "ru": "Трехсосудистое поражение без сахарного диабета со средним или высоким баллом SYNTAX (>22): рекомендуется КШ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_scad_3vd_nondiab_high_pci_no",
+          "text": {
+            "en": "Three-vessel CAD without diabetes mellitus with intermediate or high SYNTAX score (>22): PCI is not recommended (PCI should be considered if Heart Team has concern about surgical risk or if patient refuses CABG).",
+            "ru": "Трехсосудистое поражение без сахарного диабета со средним или высоким баллом SYNTAX (>22): ЧКВ не рекомендуется."
+          },
+          "class": "III",
+          "level": "A"
+        },
+        {
+          "id": "r_scad_3vd_diab_low_cabg",
+          "text": {
+            "en": "Three-vessel CAD with diabetes mellitus with low SYNTAX score (0–22): CABG is recommended.",
+            "ru": "Трехсосудистое поражение с сахарным диабетом с низким баллом SYNTAX (0–22): рекомендуется КШ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_scad_3vd_diab_high_cabg",
+          "text": {
+            "en": "Three-vessel CAD with diabetes mellitus with intermediate or high SYNTAX score (>22): CABG is recommended.",
+            "ru": "Трехсосудистое поражение с сахарным диабетом со средним или высоким баллом SYNTAX (>22): рекомендуется КШ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_scad_3vd_diab_high_pci_no",
+          "text": {
+            "en": "Three-vessel CAD with diabetes mellitus with intermediate or high SYNTAX score (>22): PCI is not recommended (PCI should be considered if Heart Team has concern about surgical risk or if patient refuses CABG).",
+            "ru": "Трехсосудистое поражение с сахарным диабетом со средним или высоким баллом SYNTAX (>22): ЧКВ не рекомендуется."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-nste-acs",
+      "title": {
+        "en": "Invasive evaluation and revascularization in NSTE-ACS",
+        "ru": "Инвазивная оценка и реваскуляризация при ОКСбпST"
+      },
+      "rows": [
+        {
+          "id": "r_nste_01",
+          "text": {
+            "en": "An early invasive strategy (<24 h) is recommended in patients with at least one high-risk criterion.",
+            "ru": "Ранняя инвазивная стратегия (<24 ч) рекомендуется пациентам при наличии хотя бы одного критерия высокого риска."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_nste_02",
+          "text": {
+            "en": "An invasive strategy (<72 h after first presentation) is indicated in patients with at least one intermediate-risk criterion or recurrent symptoms.",
+            "ru": "Инвазивная стратегия (<72 ч от первого обращения) показана пациентам при наличии хотя бы одного критерия промежуточного риска или рецидивирующих симптомах."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_nste_03",
+          "text": {
+            "en": "It is recommended that the revascularization strategy (ad hoc culprit-lesion PCI/multivessel PCI/CABG) is based on the patient's clinical status and comorbidities, as well as the disease severity, i.e. distribution and angiographic lesion characteristics (e.g. SYNTAX score), according to the principles for SCAD.",
+            "ru": "Рекомендуется базировать стратегию реваскуляризации (одномоментное ad hoc ЧКВ на инфаркт-связанной артерии, многососудистое ЧКВ или КШ) на клиническом состоянии, сопутствующей патологии и тяжести поражения (шкала SYNTAX) по принципам стабильной ИБС."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_nste_04",
+          "text": {
+            "en": "In cardiogenic shock, routine revascularization of non-IRA lesions is not recommended during primary PCI.",
+            "ru": "При кардиогенном шоке рутинная реваскуляризация артерий, не связанных с инфарктом, во время первичного ЧКВ не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-primary-pci-stemi",
+      "title": {
+        "en": "Primary PCI for myocardial reperfusion in STEMI",
+        "ru": "Первичное ЧКВ для реперфузии при ИМпST"
+      },
+      "rows": [
+        {
+          "id": "r_stemi_01",
+          "text": {
+            "en": "Reperfusion therapy is indicated in all patients with time from symptom onset <12 h duration and persistent ST-segment elevation.",
+            "ru": "Реперфузионная терапия показана всем пациентам с длительностью от начала симптомов <12 ч и стойким подъемом сегмента ST."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_stemi_02",
+          "text": {
+            "en": "A primary PCI strategy is recommended over fibrinolysis within indicated timeframes.",
+            "ru": "Стратегия первичного ЧКВ рекомендуется предпочтительнее фибринолиза в пределах установленных временных рамок."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_stemi_03",
+          "text": {
+            "en": "It is recommended that the pre-hospital management of STEMI patients be based on regional networks that are designed to timely and effectively deliver reperfusion therapy, and to offer primary PCI to as many patients as possible.",
+            "ru": "Рекомендуется строить догоспитальное ведение пациентов со STEMI на базе региональных сетей для своевременной и эффективной реперфузии."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_stemi_04",
+          "text": {
+            "en": "It is recommended that primary PCI-capable centres deliver a 24 h/7 day service and ensure that primary PCI is performed as fast as possible.",
+            "ru": "Рекомендуется, чтобы центры с возможностью первичного ЧКВ работали в круглосуточном режиме 24/7 и обеспечивали скорейшее выполнение вмешательства."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_stemi_05",
+          "text": {
+            "en": "Patients transferred to a PCI-capable centre for primary PCI should bypass the emergency department and be transferred directly to the catheterization laboratory.",
+            "ru": "Пациенты, доставляемые в ЧКВ-центр, должны миновать приемное отделение и транспортироваться непосредственно в рентгеноперационную."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_stemi_06",
+          "text": {
+            "en": "In cardiogenic shock, routine revascularization of non-IRA lesions is not recommended during primary PCI.",
+            "ru": "При кардиогенном шоке рутинная реваскуляризация не связанных с инфарктом артерий во время первичного ЧКВ не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        },
+        {
+          "id": "r_stemi_07",
+          "text": {
+            "en": "Routine use of thrombus aspiration is not recommended.",
+            "ru": "Рутинное применение мануальной тромбоаспирации не рекомендуется."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-hf-lv-dysfunction",
+      "title": {
+        "en": "Recommendations on revascularizations in patients with chronic heart failure and systolic LV dysfunction (EF ≤35%)",
+        "ru": "Реваскуляризация при ХСН и систолической дисфункции ЛЖ (ФВ ≤35%)"
+      },
+      "rows": [
+        {
+          "id": "r_hf_01",
+          "text": {
+            "en": "In patients with severe LV systolic dysfunction and coronary artery disease suitable for intervention, myocardial revascularization is recommended.",
+            "ru": "У пациентов с выраженной систолической дисфункцией ЛЖ и ИБС, подходящей для вмешательства, рекомендуется реваскуляризация миокарда."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_hf_02",
+          "text": {
+            "en": "CABG is recommended as the first revascularization strategy choice in patients with multivessel disease and acceptable surgical risk.",
+            "ru": "КШ рекомендуется как метод выбора первой линии у пациентов с многососудистым поражением и приемлемым хирургическим риском."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-cardiogenic-shock",
+      "title": {
+        "en": "Revascularizations in patients with cardiogenic shock",
+        "ru": "Реваскуляризация у пациентов с кардиогенным шоком"
+      },
+      "rows": [
+        {
+          "id": "r_shock_01",
+          "text": {
+            "en": "Emergency invasive evaluation is indicated in patients with acute heart failure or cardiogenic shock complicating ACS.",
+            "ru": "Экстренная инвазивная оценка показана пациентам с острой сердечной недостаточностью или кардиогенным шоком при ОКС."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_shock_02",
+          "text": {
+            "en": "Emergency PCI is indicated for patients with cardiogenic shock due to STEMI or NSTE-ACS, independent of time delay of symptom onset, if coronary anatomy is amenable.",
+            "ru": "Экстренное ЧКВ показано пациентам с кардиогенным шоком вследствие STEMI или NSTE-ACS независимо от времени начала симптомов."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_shock_03",
+          "text": {
+            "en": "Emergency CABG is recommended for patients with cardiogenic shock if the coronary anatomy is not amenable to PCI.",
+            "ru": "Экстренное КШ рекомендуется пациентам с кардиогенным шоком, если анатомия не позволяет выполнить ЧКВ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_shock_04",
+          "text": {
+            "en": "Routine use of IABP in patients with cardiogenic shock due to ACS is not recommended.",
+            "ru": "Рутинное применение ВАБК при кардиогенном шоке вследствие ОКС не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-contrast-induced-nephropathy",
+      "title": {
+        "en": "Prevention of contrast-induced nephropathy",
+        "ru": "Профилактика контраст-индуцированной нефропатии"
+      },
+      "rows": [
+        {
+          "id": "r_cin_01",
+          "text": {
+            "en": "Use of low- or iso-osmolar contrast media is recommended in patients with moderate-to-severe CKD.",
+            "ru": "Использование низко- или изоосмолярных контрастных препаратов рекомендуется у пациентов с умеренной и тяжелой ХБП."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_cin_02",
+          "text": {
+            "en": "It is recommended that the volume of contrast media is minimized.",
+            "ru": "Рекомендуется минимизировать объем контрастного препарата."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_cin_03",
+          "text": {
+            "en": "Haemodialysis therapy is not recommended as a preventative measure in severe CKD.",
+            "ru": "Гемодиализ в качестве профилактической меры при тяжелой ХБП не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-stroke-prevention-cabg",
+      "title": {
+        "en": "Pre-operative strategies to reduce the incidence of stroke in patients undergoing CABG",
+        "ru": "Предоперационная профилактика инсульта при КШ"
+      },
+      "rows": [
+        {
+          "id": "r_stroke_01",
+          "text": {
+            "en": "In patients undergoing CABG, carotid DUS is recommended in patients with recent (<6 months) history of stroke/TIA.",
+            "ru": "У пациентов перед КШ дуплексное УЗИ сонных артерий рекомендуется при недавнем (<6 мес) инсульте или ТИА."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-graft-failure-restenosis",
+      "title": {
+        "en": "Disease progression, late graft failure, and restenosis",
+        "ru": "Прогрессирование заболевания, поздняя дисфункция шунтов и рестеноз"
+      },
+      "rows": [
+        {
+          "id": "r_graft_01",
+          "text": {
+            "en": "Repeat revascularization is indicated in patients with extensive ischaemia or severe symptoms despite medical therapy.",
+            "ru": "Повторная реваскуляризация показана пациентам с обширной ишемией или выраженными симптомами, несмотря на медикаментозную терапию."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_graft_02",
+          "text": {
+            "en": "IMA is the conduit of choice for redo CABG in patients in whom the IMA was not used previously.",
+            "ru": "ВГА является кондуитом выбора для повторного КШ у пациентов, у которых она ранее не использовалась."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_graft_03",
+          "text": {
+            "en": "DES are recommended for the treatment of in-stent restenosis within BMS or DES.",
+            "ru": "DES рекомендуются для лечения рестеноза внутри BMS или DES."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_graft_04",
+          "text": {
+            "en": "Drug-coated balloons are recommended for the treatment of in-stent restenosis within BMS or DES.",
+            "ru": "Баллоны с лекарственным покрытием рекомендуются для лечения рестеноза внутри BMS или DES."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-arrhythmias-prevention",
+      "title": {
+        "en": "Prevention of arrhythmias by revascularization",
+        "ru": "Профилактика аритмий с помощью реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r_arrh_01",
+          "text": {
+            "en": "A primary PCI strategy is recommended in patients with resuscitated cardiac arrest and an ECG consistent with STEMI.",
+            "ru": "Первичное ЧКВ рекомендуется пациентам после успешной сердечно-легочной реанимации с признаками ИМпST на ЭКГ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_arrh_02",
+          "text": {
+            "en": "Perioperative oral beta-blocker therapy is recommended for the prevention of post-operative AF after CABG surgery.",
+            "ru": "Периоперационная терапия пероральными бета-блокаторами рекомендуется для профилактики послеоперационной ФП после КШ."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-procedural-cabg",
+      "title": {
+        "en": "Procedural aspects of CABG",
+        "ru": "Процедурные аспекты КШ"
+      },
+      "rows": [
+        {
+          "id": "r_proc_cabg_01",
+          "text": {
+            "en": "Arterial grafting with an IMA to the LAD system is recommended.",
+            "ru": "Рекомендуется артериальное шунтирование внутренней грудной артерией (ВГА) в бассейн ПМЖВ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_proc_cabg_02",
+          "text": {
+            "en": "Use of the radial artery is recommended over the saphenous vein in patients with high-degree stenosis.",
+            "ru": "Использование лучевой артерии рекомендуется вместо подкожной вены у пациентов с тяжелым стенозом."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_proc_cabg_03",
+          "text": {
+            "en": "Skeletonized IMA dissection is recommended in patients with high risk of sternal wound infection.",
+            "ru": "Скелетированный забор ВГА рекомендуется у пациентов с высоким риском инфекции грудины."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_proc_cabg_04",
+          "text": {
+            "en": "Minimization of aortic manipulation is recommended.",
+            "ru": "Рекомендуется минимизация любых манипуляций на аорте."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-procedural-pci",
+      "title": {
+        "en": "Procedural aspects of PCI",
+        "ru": "Процедурные аспекты ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r_proc_pci_01",
+          "text": {
+            "en": "DES are recommended over BMS for any PCI irrespective of clinical presentation, lesion type, planned surgery, DAPT duration, or anticoagulation.",
+            "ru": "Стенты с лекарственным покрытием (DES) рекомендуются вместо голометаллических (BMS) при любом ЧКВ независимо от клинической картины, анатомии, сопутствующей терапии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_proc_pci_02",
+          "text": {
+            "en": "Radial access is recommended as the standard approach, unless there are overriding procedural considerations.",
+            "ru": "Радиальный доступ рекомендуется в качестве стандартного подхода."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_proc_pci_03",
+          "text": {
+            "en": "Stent implantation in the main vessel only, followed by provisional balloon angioplasty with or without stenting of the side branch, is recommended for PCI of bifurcation lesions.",
+            "ru": "Имплантация стента в основной сосуд с провизорной ангиопластикой боковой ветви рекомендуется при ЧКВ бифуркаций."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-antithrombotic-scad-pci",
+      "title": {
+        "en": "Antithrombotic treatment in SCAD patients undergoing PCI",
+        "ru": "Антитромботическая терапия у пациентов со стабильной ИБС при ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r_anti_scad_01",
+          "text": {
+            "en": "Treatment with 600 mg clopidogrel is recommended in elective PCI patients once anatomy is known and the decision has been made to proceed with PCI.",
+            "ru": "Клопидогрел 600 мг рекомендуется плановым пациентам на ЧКВ после верификации анатомии и принятия решения о ЧКВ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_anti_scad_02",
+          "text": {
+            "en": "Aspirin is indicated before elective stenting.",
+            "ru": "Ацетилсалициловая кислота показана перед плановым стентированием."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_anti_scad_03",
+          "text": {
+            "en": "Clopidogrel (600 mg loading dose and 75 mg daily maintenance dose) is recommended for elective stenting.",
+            "ru": "Клопидогрел (600 мг нагрузка, 75 мг/сут поддержка) рекомендуется при плановом стентировании."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_anti_scad_04",
+          "text": {
+            "en": "UFH is indicated as a standard anticoagulant (70–100 U/kg).",
+            "ru": "НФГ показан в качестве стандартного антикоагулянта (70–100 ЕД/кг)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_anti_scad_05",
+          "text": {
+            "en": "Life-long single antiplatelet therapy, usually aspirin, is recommended.",
+            "ru": "Пожизненная одинарная антитромбоцитарная терапия (обычно АСК) рекомендуется."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_anti_scad_06",
+          "text": {
+            "en": "In patients with SCAD treated with coronary stent implantation, DAPT consisting of clopidogrel in addition to aspirin is generally recommended for 6 months, irrespective of the stent type.",
+            "ru": "ДАТТ (АСК + клопидогрел) обычно рекомендуется в течение 6 месяцев после стентирования независимо от типа стента."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-antithrombotic-nste-acs-pci",
+      "title": {
+        "en": "Antithrombotic treatment in NSTE-ACS patients undergoing PCI",
+        "ru": "Антитромботическая терапия у пациентов с ОКСбпST при ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r_anti_nste_01",
+          "text": {
+            "en": "Aspirin is recommended for all patients without contraindications at an initial oral loading dose of 150–300 mg (or 75–250 mg i.v.) and at a maintenance dose of 75–100 mg daily long-term, regardless of treatment strategy.",
+            "ru": "АСК рекомендуется всем пациентам без противопоказаний (150–300 мг нагрузка, затем 75–100 мг/сут длительно)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_anti_nste_02",
+          "text": {
+            "en": "A P2Y12 inhibitor is recommended in addition to aspirin, maintained over 12 months: prasugrel (60 mg loading dose and 10 mg daily dose) in P2Y12-naïve patients who proceed to PCI.",
+            "ru": "Ингибитор P2Y12 рекомендуется на 12 месяцев: прасугрел (60 мг нагрузка, 10 мг/сут поддержка) у пациентов, не получавших ранее ингибиторы P2Y12, идущих на ЧКВ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_anti_nste_03",
+          "text": {
+            "en": "A P2Y12 inhibitor is recommended in addition to aspirin, maintained over 12 months: ticagrelor (180 mg loading dose, 90 mg twice daily) irrespective of the pre-treatment and revascularization strategy.",
+            "ru": "Ингибитор P2Y12 рекомендуется на 12 месяцев: тикагрелор (180 мг нагрузка, 90 мг 2 раза/сут) независимо от предварительной терапии и стратегии реваскуляризации."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_anti_nste_04",
+          "text": {
+            "en": "A P2Y12 inhibitor is recommended in addition to aspirin, maintained over 12 months: clopidogrel (600 mg loading dose and 75 mg daily dose), only when prasugrel or ticagrelor are not available or are contraindicated.",
+            "ru": "Клопидогрел (600 мг нагрузка, 75 мг/сут) рекомендуется на 12 месяцев только в случае недоступности или противопоказаний к прасугрелу/тикагрелору."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_anti_nste_05",
+          "text": {
+            "en": "Pre-treatment with GP IIb/IIIa antagonists in patients in whom coronary anatomy is not known is not recommended.",
+            "ru": "Предварительное назначение блокаторов GP IIb/IIIa до установления коронарной анатомии не рекомендуется."
+          },
+          "class": "III",
+          "level": "A"
+        },
+        {
+          "id": "r_anti_nste_06",
+          "text": {
+            "en": "Administration of prasugrel to patients in whom coronary anatomy is not known is not recommended.",
+            "ru": "Назначение прасугрела до установления коронарной анатомии не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        },
+        {
+          "id": "r_anti_nste_07",
+          "text": {
+            "en": "Peri-interventional anticoagulation is recommended for all patients in addition to antiplatelet therapy.",
+            "ru": "Перипроцедурная антикоагуляция рекомендуется всем пациентам в дополнение к антиагрегантам."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_anti_nste_08",
+          "text": {
+            "en": "In patients on fondaparinux (2.5 mg daily s.c.), a single bolus UFH (85 IU/kg, or 60 IU in the case of concomitant use of GP IIb/IIIa receptor inhibitors) is indicated.",
+            "ru": "У пациентов на фондапаринуксе показан однократный болюс НФГ (85 МЕ/кг или 60 МЕ/кг при сопутствующих GP IIb/IIIa)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r_anti_nste_09",
+          "text": {
+            "en": "Crossover of UFH and LMWH is not recommended.",
+            "ru": "Перекрестная смена (crossover) НФГ и НМГ не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        },
+        {
+          "id": "r_anti_nste_10",
+          "text": {
+            "en": "In patients with ACS treated with coronary stent implantation, DAPT with a P2Y12 inhibitor on top of aspirin is recommended for 12 months unless there are contraindications such as an excessive risk of bleeding (e.g. PRECISE-DAPT ≥25).",
+            "ru": "ДАТТ (АСК + ингибитор P2Y12) рекомендуется в течение 12 месяцев после стентирования при отсутствии высокого риска кровотечений (PRECISE-DAPT ≥25)."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-antithrombotic-stemi-pci",
+      "title": {
+        "en": "Antithrombotic treatment in STEMI patients undergoing PCI",
+        "ru": "Антитромботическая терапия у пациентов со STEMI при ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r_anti_stemi_01",
+          "text": {
+            "en": "Aspirin is recommended for all patients without contraindications at an initial oral loading dose of 150–300 mg (or 75–250 mg i.v.), and at a maintenance dose of 75–100 mg daily long-term regardless of treatment strategy.",
+            "ru": "АСК рекомендуется всем пациентам без противопоказаний (150–300 мг нагрузка, затем 75–100 мг/сут длительно)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_anti_stemi_02",
+          "text": {
+            "en": "A potent P2Y12 inhibitor (prasugrel or ticagrelor), or clopidogrel if these are not available or are contraindicated, is recommended before (or at the time of PCI at the latest) and should be maintained over 12 months, unless there are contraindications.",
+            "ru": "Мощный ингибитор P2Y12 (прасугрел или тикагрелор, либо клопидогрел при их недоступности) рекомендуется до или во время ЧКВ с продолжением до 12 месяцев."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-follow-up-strategies",
+      "title": {
+        "en": "Strategies for follow-up and management",
+        "ru": "Стратегии наблюдения и ведения после реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r_fu_01",
+          "text": {
+            "en": "After CABG or PCI for AMI, participation in a cardiac rehabilitation programme is recommended to improve patient outcomes.",
+            "ru": "После КШ или ЧКВ по поводу инфаркта миокарда рекомендуется кардиореабилитация для улучшения исходов."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r_fu_02",
+          "text": {
+            "en": "It is recommended that secondary prevention measures, including medical therapy and lifestyle changes, are started and reinforced after myocardial revascularization.",
+            "ru": "Рекомендуется начинать и укреплять меры вторичной профилактики (медикаментозная терапия и изменение образа жизни) после реваскуляризации."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    }
+  ]
+};
+
+fs.writeFileSync(path.join(baseDir, 't13-what-to-do.json'), JSON.stringify(t13, null, 2), 'utf8');
+console.log('Successfully generated t13-what-to-do for esc-revasc-2018');

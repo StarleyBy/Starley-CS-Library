@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt14-valvular-coronary-interventions",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 14",
+  "title": {
+    "en": "Recommendations for combined valvular and coronary interventions",
+    "ru": "Рекомендации по сочетанным клапанным и коронарным вмешательствам"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-primary-valve",
+      "title": {
+        "en": "Primary valve intervention and coronary revascularization",
+        "ru": "Первичное вмешательство на клапанах и коронарная реваскуляризация"
+      },
+      "rows": [
+        {
+          "id": "r_valv_01",
+          "text": {
+            "en": "CABG is recommended in patients with a primary indication for aortic/mitral valve surgery and coronary artery diameter stenosis >70%.",
+            "ru": "КШ рекомендуется пациентам с первичными показаниями к операции на аортальном/митральном клапане и стенозом коронарной артерии по диаметру >70%."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_valv_02",
+          "text": {
+            "en": "CABG should be considered in patients with a primary indication for aortic/mitral valve surgery and coronary artery diameter stenosis of 50–70%.",
+            "ru": "КШ следует рассмотреть у пациентов с первичными показаниями к операции на аортальном/митральном клапане и стенозом коронарной артерии по диаметру 50–70%."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_valv_03",
+          "text": {
+            "en": "PCI should be considered in patients with a primary indication to undergo TAVI and coronary artery diameter stenosis >70% in proximal segments.",
+            "ru": "ЧКВ следует рассмотреть у пациентов с первичными показаниями к TAVI и стенозом коронарной артерии по диаметру >70% в проксимальных сегментах."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_valv_04",
+          "text": {
+            "en": "PCI should be considered in patients with a primary indication to undergo transcatheter mitral valve interventions and coronary artery diameter stenosis >70% in proximal segments.",
+            "ru": "ЧКВ следует рассмотреть у пациентов с первичными показаниями к транскатетерным вмешательствам на митральном клапане и стенозом коронарной артерии по диаметру >70% в проксимальных сегментах."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-primary-revasc",
+      "title": {
+        "en": "Primary myocardial revascularization and valve intervention",
+        "ru": "Первичная реваскуляризация миокарда и вмешательство на клапанах"
+      },
+      "rows": [
+        {
+          "id": "r_revasc_01",
+          "text": {
+            "en": "SAVR is indicated in patients with severe AS undergoing CABG, or surgery of the ascending aorta or another valve.",
+            "ru": "Хирургическое протезирование аортального клапана (SAVR) показано пациентам с тяжелым аортальным стенозом, подвергающимся КШ или операции на восходящей аорте либо другом клапане."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_revasc_02",
+          "text": {
+            "en": "Mitral valve surgery is indicated in patients with severe secondary MR undergoing CABG and LVEF >30%.",
+            "ru": "Хирургическое вмешательство на митральном клапане показано пациентам с тяжелой вторичной митральной регургитацией, подвергающимся КШ, при ФВ ЛЖ >30%."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_revasc_03",
+          "text": {
+            "en": "Mitral valve surgery should be considered in symptomatic patients with severe secondary MR and LVEF <30%, but with evidence of myocardial viability and an option for surgical revascularization.",
+            "ru": "Хирургическое вмешательство на митральном клапане следует рассмотреть у симптоматических пациентов с тяжелой вторичной митральной регургитацией и ФВ ЛЖ <30%, но при наличии признаков жизнеспособности миокарда и возможности хирургической реваскуляризации."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

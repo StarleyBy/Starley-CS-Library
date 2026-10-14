@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.t08-intensified-antithrombotic-options",
+  "guidelineId": "esc-ccs-2024",
+  "number": "Table 8",
+  "type": "grid",
+  "title": {
+    "en": "Options for extended intensified antithrombotic therapy",
+    "ru": "Варианты продленной интенсифицированной антитромботической терапии"
+  },
+  "tags": [
+    "ccs",
+    "antithrombotic",
+    "extended-dapt",
+    "rivaroxaban",
+    "clopidogrel",
+    "prasugrel",
+    "ticagrelor",
+    "nnt",
+    "nnh",
+    "compass",
+    "pegasus"
+  ],
+  "source": {
+    "page": 46
+  },
+  "columns": [
+    {
+      "id": "drug",
+      "title": {
+        "en": "Drug",
+        "ru": "Препарат / Исследование"
+      }
+    },
+    {
+      "id": "dose",
+      "title": {
+        "en": "Dose",
+        "ru": "Доза"
+      }
+    },
+    {
+      "id": "setting",
+      "title": {
+        "en": "Clinical setting",
+        "ru": "Клиническая ситуация"
+      }
+    },
+    {
+      "id": "nnt",
+      "title": {
+        "en": "NNT (ischaemic outcomes)",
+        "ru": "NNT (ишемические исходы)"
+      }
+    },
+    {
+      "id": "nnh",
+      "title": {
+        "en": "NNH (bleeding outcomes)",
+        "ru": "NNH (исходы кровотечений)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-rivaroxaban",
+      "cells": [
+        {
+          "text": {
+            "en": "Rivaroxaban (COMPASS trial; vs. placebo; co-administered with aspirin 100 mg o.d.)",
+            "ru": "Ривароксабан (исследование COMPASS; в комбинации с аспирином 100 мг 1 р/сут)"
+          }
+        },
+        {
+          "text": {
+            "en": "2.5 mg b.i.d.",
+            "ru": "2,5 мг 2 раза в сутки"
+          }
+        },
+        {
+          "text": {
+            "en": "Patients with CAD or symptomatic PAD at high risk of ischaemic events",
+            "ru": "Пациенты с ИБС или симптомным заболеванием периферических артерий (ЗПА) высокого ишемического риска"
+          }
+        },
+        {
+          "text": {
+            "en": "77",
+            "ru": "77"
+          }
+        },
+        {
+          "text": {
+            "en": "84 (modified-ISTH major bleeding)",
+            "ru": "84 (большие кровотечения по модифицированной шкале ISTH)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-clopidogrel",
+      "cells": [
+        {
+          "text": {
+            "en": "Clopidogrel (DAPT trial; vs. placebo; co-administered with low-dose aspirin 75–162 mg o.d.)",
+            "ru": "Клопидогрел (исследование DAPT; в комбинации с низкими дозами аспирина 75–162 мг 1 р/сут)"
+          }
+        },
+        {
+          "text": {
+            "en": "75 mg/day",
+            "ru": "75 мг/сутки"
+          }
+        },
+        {
+          "text": {
+            "en": "Post MI in patients who have tolerated DAPT for 1 year (25% ACS, 22% previous MI)",
+            "ru": "После инфаркта миокарда у пациентов, успешно перенесших 1 год ДАТТ"
+          }
+        },
+        {
+          "text": {
+            "en": "63",
+            "ru": "63"
+          }
+        },
+        {
+          "text": {
+            "en": "105 (moderate and severe GUSTO bleeds, or BARC 2, 3, and 5 bleeds)",
+            "ru": "105 (умеренные и тяжелые кровотечения по шкале GUSTO или BARC 2, 3 и 5)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-prasugrel",
+      "cells": [
+        {
+          "text": {
+            "en": "Prasugrel (DAPT trial; vs. placebo; co-administered with low-dose aspirin 75–162 mg o.d.)",
+            "ru": "Прасугрел (исследование DAPT; в комбинации с низкими дозами аспирина 75–162 мг 1 р/сут)"
+          }
+        },
+        {
+          "text": {
+            "en": "10 mg/day (5 mg/day if body weight <60 kg or age ≥75 years)",
+            "ru": "10 мг/сутки (5 мг/сутки при массе тела <60 кг или возрасте ≥75 лет)"
+          }
+        },
+        {
+          "text": {
+            "en": "Post PCI for MI in patients who have tolerated DAPT for 1 year",
+            "ru": "После ЧКВ по поводу инфаркта миокарда у пациентов, перенесших 1 год ДАТТ"
+          }
+        },
+        {
+          "text": {
+            "en": "63",
+            "ru": "63"
+          }
+        },
+        {
+          "text": {
+            "en": "105 (as above)",
+            "ru": "105 (как указано выше)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-ticagrelor",
+      "cells": [
+        {
+          "text": {
+            "en": "Ticagrelor (PEGASUS-TIMI 54; vs. placebo; co-administered with low-dose aspirin 75–162 mg o.d.)",
+            "ru": "Тикагрелор (исследование PEGASUS-TIMI 54; в комбинации с низкими дозами аспирина 75–162 мг 1 р/сут)"
+          }
+        },
+        {
+          "text": {
+            "en": "60/90 mg b.i.d.",
+            "ru": "60 мг 2 раза в сутки (или 90 мг 2 раза в сутки)"
+          }
+        },
+        {
+          "text": {
+            "en": "Post-MI in patients who have tolerated DAPT for 1 year",
+            "ru": "После перенесенного ИМ у пациентов, успешно завершивших 1 год ДАТТ"
+          }
+        },
+        {
+          "text": {
+            "en": "84",
+            "ru": "84"
+          }
+        },
+        {
+          "text": {
+            "en": "81 (TIMI major bleeds)",
+            "ru": "81 (большие кровотечения по критериям TIMI)"
+          }
+        }
+      ]
+    }
+  ]
+}

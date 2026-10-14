@@ -1,0 +1,597 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.t04-baseline-risk-stratification",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Table 4",
+  "type": "grid",
+  "title": {
+    "en": "Table 4 — Heart Failure Association–International Cardio-Oncology Society baseline cardiovascular toxicity risk stratification",
+    "ru": "Таблица 4 — Стратификация исходного риска кардиоваскулярной токсичности HFA-ICOS"
+  },
+  "tags": [
+    "cardio-oncology",
+    "hfa-icos",
+    "risk-stratification",
+    "anthracyclines",
+    "her2",
+    "vegf",
+    "bcr-abl",
+    "multiple-myeloma",
+    "raf-mek"
+  ],
+  "columns": [
+    {
+      "id": "c_risk_factor",
+      "title": {
+        "en": "Baseline CV toxicity risk factors",
+        "ru": "Исходные факторы риска кардиотоксичности"
+      }
+    },
+    {
+      "id": "c_anthra",
+      "title": {
+        "en": "Anthracycline",
+        "ru": "Антрациклины"
+      }
+    },
+    {
+      "id": "c_her2",
+      "title": {
+        "en": "HER2-targeted",
+        "ru": "HER2-таргетная"
+      }
+    },
+    {
+      "id": "c_vegf",
+      "title": {
+        "en": "VEGF inhibitors",
+        "ru": "Ингибиторы VEGF"
+      }
+    },
+    {
+      "id": "c_bcr_abl",
+      "title": {
+        "en": "BCR-ABL",
+        "ru": "BCR-ABL"
+      }
+    },
+    {
+      "id": "c_myeloma",
+      "title": {
+        "en": "Multiple myeloma",
+        "ru": "Множеств. миелома"
+      }
+    },
+    {
+      "id": "c_raf_mek",
+      "title": {
+        "en": "RAF / MEK",
+        "ru": "RAF / MEK"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-sec-cvd",
+      "cells": [
+        { "colspan": 7, "text": { "en": "Previous CVD", "ru": "Предшествующие ССЗ" } }
+      ]
+    },
+    {
+      "id": "r02-hf-cmp",
+      "cells": [
+        { "text": { "en": "HF / cardiomyopathy / CTRCD", "ru": "СН / кардиомиопатия / CTRCD" } },
+        { "text": { "en": "VH", "ru": "VH" } },
+        { "text": { "en": "VH", "ru": "VH" } },
+        { "text": { "en": "VH", "ru": "VH" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "VH", "ru": "VH" } },
+        { "text": { "en": "VH", "ru": "VH" } }
+      ]
+    },
+    {
+      "id": "r03-severe-vhd",
+      "cells": [
+        { "text": { "en": "Severe VHD", "ru": "Тяжелый порок сердца (VHD)" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "H", "ru": "H" } }
+      ]
+    },
+    {
+      "id": "r04-mi-pci-cabg",
+      "cells": [
+        { "text": { "en": "MI or PCI or CABG", "ru": "ИМ, ЧКВ или АКШ в анамнезе" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "VH", "ru": "VH" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "H", "ru": "H" } }
+      ]
+    },
+    {
+      "id": "r05-stable-angina",
+      "cells": [
+        { "text": { "en": "Stable angina", "ru": "Стабильная стенокардия" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "VH", "ru": "VH" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "H", "ru": "H" } }
+      ]
+    },
+    {
+      "id": "r06-arterial-vascular",
+      "cells": [
+        { "text": { "en": "Arterial vascular disease", "ru": "Заболевания периферических артерий" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "VH", "ru": "VH" } },
+        { "text": { "en": "VH", "ru": "VH" } },
+        { "text": { "en": "VH", "ru": "VH" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r07-abnormal-abi",
+      "cells": [
+        { "text": { "en": "Abnormal ankle–brachial pressure index", "ru": "Патологический лодыжечно-плечевой индекс" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r08-ph",
+      "cells": [
+        { "text": { "en": "Pulmonary hypertension (PH)", "ru": "Легочная гипертензия (ЛГ)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r09-arterial-thromb-tki",
+      "cells": [
+        { "text": { "en": "Arterial thrombosis with TKI", "ru": "Артериальный тромбоз на фоне ингибиторов тирозинкиназ" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "VH", "ru": "VH" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r10-venous-thromb",
+      "cells": [
+        { "text": { "en": "Venous thrombosis (DVT/PE)", "ru": "Венозный тромбоз (ТГВ / ТЭЛА)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "VH", "ru": "VH" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r11-arrhythmia",
+      "cells": [
+        { "text": { "en": "Arrhythmia (AF, VT, VF)", "ru": "Аритмии (ФП, ЖТ, ФЖ)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M1", "ru": "M1" } }
+      ]
+    },
+    {
+      "id": "r12-qtc-480-plus",
+      "cells": [
+        { "text": { "en": "QTc ≥ 480 ms", "ru": "QTc ≥ 480 мс" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r13-qtc-borderline",
+      "cells": [
+        { "text": { "en": "450 ≤ QTc < 480 ms (men); 460 ≤ QTc < 480 ms (women)", "ru": "450 ≤ QTc < 480 мс (мужчины); 460 ≤ QTc < 480 мс (женщины)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r14-prior-pi-tox",
+      "cells": [
+        { "text": { "en": "Prior PI CV toxicity", "ru": "Предшествующая кардиотоксичность ингибиторов протеасом" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "VH", "ru": "VH" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r15-prior-imid-tox",
+      "cells": [
+        { "text": { "en": "Prior IMiD CV toxicity", "ru": "Предшествующая кардиотоксичность иммуномодуляторов (IMiD)" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r16-sec-imaging",
+      "cells": [
+        { "colspan": 7, "text": { "en": "Cardiac imaging", "ru": "Визуализация сердца" } }
+      ]
+    },
+    {
+      "id": "r17-lvef-below-50",
+      "cells": [
+        { "text": { "en": "LVEF < 50%", "ru": "ФВ ЛЖ < 50%" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "H", "ru": "H" } }
+      ]
+    },
+    {
+      "id": "r18-lvef-50-54",
+      "cells": [
+        { "text": { "en": "LVEF 50–54%", "ru": "ФВ ЛЖ 50–54%" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M2", "ru": "M2" } }
+      ]
+    },
+    {
+      "id": "r19-lv-hypertrophy",
+      "cells": [
+        { "text": { "en": "LV hypertrophy", "ru": "Гипертрофия ЛЖ" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r20-cardiac-amyloidosis",
+      "cells": [
+        { "text": { "en": "Cardiac amyloidosis", "ru": "Амилоидоз сердца" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "VH", "ru": "VH" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r21-sec-biomarkers",
+      "cells": [
+        { "colspan": 7, "text": { "en": "Cardiac biomarkers", "ru": "Кардиоспецифические биомаркеры" } }
+      ]
+    },
+    {
+      "id": "r22-elevated-ctn",
+      "cells": [
+        { "text": { "en": "Elevated baseline cTn", "ru": "Повышенный исходный уровень сердечного тропонина" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M2", "ru": "M2" } }
+      ]
+    },
+    {
+      "id": "r23-elevated-np",
+      "cells": [
+        { "text": { "en": "Elevated baseline NP", "ru": "Повышенный исходный уровень натрийуретических пептидов (BNP / NT-proBNP)" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "M2", "ru": "M2" } }
+      ]
+    },
+    {
+      "id": "r24-sec-age-cvrf",
+      "cells": [
+        { "colspan": 7, "text": { "en": "Age and CVRF", "ru": "Возраст и сердечно-сосудистые факторы риска" } }
+      ]
+    },
+    {
+      "id": "r25-age-80-plus",
+      "cells": [
+        { "text": { "en": "Age ≥ 80 years", "ru": "Возраст ≥ 80 лет" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M1", "ru": "M1" } }
+      ]
+    },
+    {
+      "id": "r26-age-65-79",
+      "cells": [
+        { "text": { "en": "Age 65–79 years", "ru": "Возраст 65–79 лет" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M1", "ru": "M1" } }
+      ]
+    },
+    {
+      "id": "r27-age-75-plus",
+      "cells": [
+        { "text": { "en": "Age ≥ 75 years", "ru": "Возраст ≥ 75 лет" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "M1", "ru": "M1" } }
+      ]
+    },
+    {
+      "id": "r28-age-65-74",
+      "cells": [
+        { "text": { "en": "Age 65–74 years", "ru": "Возраст 65–74 года" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } }
+      ]
+    },
+    {
+      "id": "r29-age-60-plus",
+      "cells": [
+        { "text": { "en": "Age ≥ 60 years", "ru": "Возраст ≥ 60 лет" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r30-cvd-10yr-risk",
+      "cells": [
+        { "text": { "en": "CVD 10-year risk score > 20%", "ru": "10-летний риск ССЗ > 20%" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r31-hypertension",
+      "cells": [
+        { "text": { "en": "Hypertension", "ru": "Артериальная гипертензия" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M2", "ru": "M2" } }
+      ]
+    },
+    {
+      "id": "r32-ckd",
+      "cells": [
+        { "text": { "en": "Chronic kidney disease (CKD)", "ru": "Хроническая болезнь почек (ХБП)" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } }
+      ]
+    },
+    {
+      "id": "r33-proteinuria",
+      "cells": [
+        { "text": { "en": "Proteinuria", "ru": "Протеинурия" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r34-dm",
+      "cells": [
+        { "text": { "en": "Diabetes mellitus (DM)", "ru": "Сахарный диабет" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } }
+      ]
+    },
+    {
+      "id": "r35-hyperlipidaemia",
+      "cells": [
+        { "text": { "en": "Hyperlipidaemia", "ru": "Гиперлипидемия" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r36-thrombophilia-family",
+      "cells": [
+        { "text": { "en": "Family history of thrombophilia", "ru": "Семейный анамнез тромбофилии" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r37-sec-current-tx",
+      "cells": [
+        { "colspan": 7, "text": { "en": "Current cancer treatment", "ru": "Текущее противоопухолевое лечение" } }
+      ]
+    },
+    {
+      "id": "r38-dexamethasone",
+      "cells": [
+        { "text": { "en": "Dexamethasone > 160 mg/month", "ru": "Дексаметазон > 160 мг/месяц" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r39-anthra-before-her2",
+      "cells": [
+        { "text": { "en": "Includes anthracycline before HER2-targeted therapy", "ru": "Антрациклины перед терапией, направленной на HER2" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r40-sec-prev-exposure",
+      "cells": [
+        { "colspan": 7, "text": { "en": "Previous exposure to", "ru": "Предшествующее воздействие" } }
+      ]
+    },
+    {
+      "id": "r41-prev-anthra",
+      "cells": [
+        { "text": { "en": "Anthracycline", "ru": "Антрациклины" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "H", "ru": "H" } }
+      ]
+    },
+    {
+      "id": "r42-prev-trastuzumab",
+      "cells": [
+        { "text": { "en": "Trastuzumab", "ru": "Трастузумаб" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "VH", "ru": "VH" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r43-prev-rt",
+      "cells": [
+        { "text": { "en": "RT to left chest or mediastinum", "ru": "Лучевая терапия на область левой половины грудной клетки или средостения" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "M2", "ru": "M2" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M2", "ru": "M2" } }
+      ]
+    },
+    {
+      "id": "r44-prev-non-anthra",
+      "cells": [
+        { "text": { "en": "Non-anthracycline chemotherapy", "ru": "Неантрациклиновая химиотерапия" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "r45-sec-lifestyle",
+      "cells": [
+        { "colspan": 7, "text": { "en": "Lifestyle risk factors", "ru": "Факторы риска, связанные с образом жизни" } }
+      ]
+    },
+    {
+      "id": "r46-smoker",
+      "cells": [
+        { "text": { "en": "Current smoker or significant smoking history", "ru": "Курение в настоящее время или значимый стаж курения в анамнезе" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "H", "ru": "H" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } }
+      ]
+    },
+    {
+      "id": "r47-obesity",
+      "cells": [
+        { "text": { "en": "Obesity (BMI > 30 kg/m²)", "ru": "Ожирение (ИМТ > 30 кг/м²)" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } },
+        { "text": { "en": "M1", "ru": "M1" } }
+      ]
+    }
+  ]
+}

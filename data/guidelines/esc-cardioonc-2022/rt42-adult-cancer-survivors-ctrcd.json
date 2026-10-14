@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt42-adult-cancer-survivors-ctrcd",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 42",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 42 — Recommendations for adult cancer survivors who develop cancer therapy-related cardiac dysfunction late after cardiotoxic cancer therapy",
+    "ru": "Таблица рекомендаций 42 — Рекомендации для взрослых лиц, перенесших рак, у которых развивается кардиальная дисфункция (CTRCD) в поздние сроки после кардиотоксичной терапии"
+  },
+  "tags": [
+    "cardio-oncology",
+    "cancer-survivors",
+    "late-ctrcd",
+    "lvef",
+    "gls",
+    "biomarkers",
+    "ace-i",
+    "arb",
+    "beta-blockers"
+  ],
+  "source": {
+    "page": 88
+  },
+  "sections": [
+    {
+      "id": "sec01-late-ctrcd",
+      "title": {
+        "en": "Late CTRCD management in adult cancer survivors",
+        "ru": "Ведение поздней CTRCD у взрослых лиц, перенесших рак"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "ACE-I/ARB and/or beta-blockers are recommended in adult cancer survivors with moderate asymptomatic CTRCD (new LVEF reduction by ≥10% points to 40–49% OR reduction by <10% points to 40–49% AND either new relative decline in GLS by >15% or new rise in cardiac biomarkers).",
+            "ru": "Ингибиторы АПФ / БРА и/или бета-блокаторы рекомендуются взрослым лицам, перенесшим рак, с умеренной бессимптомной CTRCD (новое снижение ФВ ЛЖ на ≥10 процентных пунктов до 40–49% ИЛИ снижение на <10 пунктов до 40–49% В СОЧЕТАНИИ со снижением GLS >15% либо новым повышением сердечных биомаркеров)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "ACE-I/ARB and/or beta-blockers may be considered in adult cancer survivors with mild asymptomatic CTRCD (LVEF ≥ 50% and new relative decline in GLS by >15% from baseline AND/OR new rise in cardiac biomarkers).",
+            "ru": "Ингибиторы АПФ / БРА и/или бета-блокаторы могут рассматриваться у взрослых лиц, перенесших рак, с легкой бессимптомной CTRCD (ФВ ЛЖ ≥ 50% и новое относительное снижение GLS на >15% от исходного И/ИЛИ новое повышение уровней кардиомаркеров)."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

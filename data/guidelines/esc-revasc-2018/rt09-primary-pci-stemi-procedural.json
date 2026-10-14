@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt09-primary-pci-stemi-procedural",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 9",
+  "title": {
+    "en": "Primary percutaneous coronary intervention for myocardial reperfusion in ST-elevation myocardial infarction: procedural aspects (strategy and technique)",
+    "ru": "Первичное чрескожное коронарное вмешательство для реперфузии миокарда при инфаркте миокарда с подъемом сегмента ST: процедурные аспекты (стратегия и техника)"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-strategy",
+      "title": {
+        "en": "Strategy",
+        "ru": "Стратегия"
+      },
+      "rows": [
+        {
+          "id": "r_strat_01",
+          "text": {
+            "en": "Routine revascularization of non-IRA lesions should be considered in patients with multivessel disease before hospital discharge.",
+            "ru": "Рутинную реваскуляризацию не связанных с инфарктом поражений (non-IRA) следует рассмотреть у пациентов с многососудистым поражением до выписки из стационара."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r_strat_02",
+          "text": {
+            "en": "CABG should be considered in patients with ongoing ischaemia and large areas of jeopardized myocardium if PCI of the IRA cannot be performed.",
+            "ru": "КШ следует рассмотреть у пациентов с сохраняющейся ишемией и большой зоной жизнеспособного миокарда под угрозой, если ЧКВ на инфаркт-связанной артерии выполнить невозможно."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_strat_03",
+          "text": {
+            "en": "In cardiogenic shock, routine revascularization of non-IRA lesions is not recommended during primary PCI.",
+            "ru": "При кардиогенном шоке рутинная реваскуляризация не связанных с инфарктом артерий во время первичного ЧКВ не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-technique",
+      "title": {
+        "en": "Technique",
+        "ru": "Техника выполнения"
+      },
+      "rows": [
+        {
+          "id": "r_tech_01",
+          "text": {
+            "en": "Routine use of thrombus aspiration is not recommended.",
+            "ru": "Рутинное применение мануальной тромбоаспирации не рекомендуется."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    }
+  ]
+}

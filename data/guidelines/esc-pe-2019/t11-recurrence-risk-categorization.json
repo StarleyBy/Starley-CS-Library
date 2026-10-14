@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t11-recurrence-risk-categorization",
+  "guidelineId": "esc-pe-2019",
+  "number": "Table 11",
+  "type": "grid",
+  "title": {
+    "en": "Categorization of risk factors for venous thromboembolism based on the risk of recurrence over the long-term",
+    "ru": "Классификация факторов риска венозной тромбоэмболии на основе риска долгосрочного рецидива"
+  },
+  "columns": [
+    {
+      "id": "c_risk_level",
+      "title": {
+        "en": "Estimated risk for long-term recurrence (if anticoagulation discontinued after 3 months)",
+        "ru": "Ориентировочный риск рецидива в отдаленном периоде (при отмене антикоагулянтов через 3 мес)"
+      }
+    },
+    {
+      "id": "c_category",
+      "title": {
+        "en": "Risk factor category for index PE",
+        "ru": "Категория факторов риска индексной ТЭЛА"
+      }
+    },
+    {
+      "id": "c_examples",
+      "title": {
+        "en": "Examples",
+        "ru": "Примеры факторов риска"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-low-recurrence",
+      "cells": [
+        { "text": { "en": "Low (<3% per year)", "ru": "Низкий (<3% в год)" }, "tone": "green" },
+        {
+          "text": {
+            "en": "Major transient or reversible factors associated with >10-fold increased risk for the index VTE event (compared to patients without the risk factor)",
+            "ru": "Большие преходящие или обратимые факторы, повышающие риск индексного события ВТЭ более чем в 10 раз"
+          }
+        },
+        {
+          "text": {
+            "en": "• Surgery with general anaesthesia for >30 min\n• Confined to bed in hospital (only 'bathroom privileges') for ≥3 days due to an acute illness, or acute exacerbation of a chronic illness\n• Trauma with fractures",
+            "ru": "• Операция под общей анестезией длительностью >30 мин\n• Постельный режим в стационаре (разрешен только туалет) ≥3 дней по поводу острого заболевания или обострения хронического заболевания\n• Травма с переломами"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-intermediate-transient",
+      "cells": [
+        { "text": { "en": "Intermediate (3–8% per year)", "ru": "Промежуточный (3–8% в год)" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "Transient or reversible factors associated with ≤10-fold increased risk for first (index) VTE",
+            "ru": "Преходящие или обратимые факторы, повышающие риск первой (индексной) ВТЭ не более чем в 10 раз"
+          }
+        },
+        {
+          "text": {
+            "en": "• Minor surgery (general anaesthesia for <30 min)\n• Admission to hospital for <3 days with an acute illness\n• Oestrogen therapy / contraception\n• Pregnancy or puerperium\n• Confined to bed out of hospital for ≥3 days with an acute illness\n• Leg injury (without fracture) associated with reduced mobility for ≥3 days\n• Long-haul flight",
+            "ru": "• Малая хирургическая операция (общая анестезия <30 мин)\n• Госпитализация <3 дней по поводу острого заболевания\n• Эстрогенсодержащая терапия / контрацепция (КОК)\n• Беременность или послеродовой период\n• Постельный режим вне стационара ≥3 дней по поводу острого заболевания\n• Травма ноги (без перелома), сопровождавшаяся ограничением подвижности ≥3 дней\n• Длительный авиаперелет"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-intermediate-persistent",
+      "cells": [
+        { "text": { "en": "Intermediate (3–8% per year)", "ru": "Промежуточный (3–8% в год)" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "Non-malignant persistent risk factors",
+            "ru": "Постоянные (персистирующие) неонкологические факторы риска"
+          }
+        },
+        {
+          "text": {
+            "en": "• Inflammatory bowel disease\n• Active autoimmune disease",
+            "ru": "• Воспалительные заболевания кишечника (ВЗК)\n• Активное аутоиммунное заболевание"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-intermediate-unprovoked",
+      "cells": [
+        { "text": { "en": "Intermediate (3–8% per year)", "ru": "Промежуточный (3–8% в год)" }, "tone": "yellow" },
+        {
+          "text": {
+            "en": "No identifiable risk factor",
+            "ru": "Отсутствие идентифицируемых факторов риска"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-high-recurrence",
+      "cells": [
+        { "text": { "en": "High (>8% per year)", "ru": "Высокий (>8% в год)" }, "tone": "red" },
+        {
+          "text": {
+            "en": "High recurrence risk persistent or major conditions",
+            "ru": "Персистирующие или тяжелые состояния с высоким риском рецидива"
+          }
+        },
+        {
+          "text": {
+            "en": "• Active cancer\n• One or more previous episodes of VTE in the absence of a major transient or reversible factor\n• Antiphospholipid antibody syndrome",
+            "ru": "• Активное онкологическое заболевание\n• Один или более предшествующих эпизодов ВТЭ в отсутствие большого преходящего или обратимого фактора\n• Антифосфолипидный синдром"
+          },
+          "tone": "red"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "recurrence-risk",
+    "vte",
+    "pe",
+    "anticoagulation-duration",
+    "risk-factors",
+    "aps",
+    "cancer"
+  ]
+}

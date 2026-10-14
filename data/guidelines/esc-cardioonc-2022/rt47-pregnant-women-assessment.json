@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt47-pregnant-women-assessment",
+  "guidelineId": "esc-cardioonc-2022",
+  "type": "recommendations",
+  "number": "Rec Table 47",
+  "title": {
+    "en": "Recommendations for cardiovascular assessment and monitoring of pregnant women with cancer",
+    "ru": "Рекомендации по оценке и мониторингу сердечно-сосудистой системы у беременных женщин с онкологическими заболеваниями"
+  },
+  "sections": [
+    {
+      "id": "sec-rt47-general",
+      "title": {
+        "en": "General recommendations",
+        "ru": "Общие рекомендации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Management by an expert MDT (the pregnancy heart team) in an expert centre is recommended for pregnant women with cancer who require cardiotoxic cancer therapy.",
+            "ru": "Рекомендуется ведение экспертной мультидисциплинарной командой (Pregnancy Heart Team) в специализированном экспертном центре для беременных женщин с раком, которым требуется кардиотоксическая противоопухолевая терапия."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Cardiac assessment prior to cardiotoxic cancer therapy in pregnant women is recommended and consists of clinical history, physical examination, ECG, and echocardiography.",
+            "ru": "Кардиологическое обследование перед началом кардиотоксической терапии рака у беременных женщин рекомендуется и включает сбор клинического анамнеза, физикальный осмотр, ЭКГ и эхокардиографию."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Monthly or bimonthly CV evaluation, including TTE, should be considered during cardiotoxic cancer therapy (for patients receiving anthracycline-based chemotherapy) in pregnant women with cancer.",
+            "ru": "Ежемесячную или двухмесячную кардиоваскулярную оценку, включая трансторакальную эхокардиографию (ТТЭ), следует рассмотреть во время кардиотоксической терапии рака (у пациенток, получающих химиотерапию на основе антрациклинов) у беременных женщин с онкологическими заболеваниями."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "cTn may be considered at baseline and during anthracycline chemotherapy in pregnant women with cancer.",
+            "ru": "Определение сердечного тропонина (cTn) может быть рассмотрено исходно и в процессе химиотерапии антрациклинами у беременных женщин с раком."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

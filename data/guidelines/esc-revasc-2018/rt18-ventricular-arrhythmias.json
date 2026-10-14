@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt18-ventricular-arrhythmias",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 18",
+  "title": {
+    "en": "Recommendations for the prevention of ventricular arrhythmias by revascularization",
+    "ru": "Рекомендации по профилактике желудочковых аритмий с помощью реваскуляризации"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Ventricular arrhythmias and revascularization",
+        "ru": "Желудочковые аритмии и реваскуляризация"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "A primary PCI strategy is recommended in patients with resuscitated cardiac arrest and an ECG consistent with STEMI.",
+            "ru": "Стратегия первичного ЧКВ рекомендуется пациентам после успешной реанимации при остановке сердца с признаками ИМпST на ЭКГ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Urgent angiography (and PCI if indicated) should be considered in patients with resuscitated cardiac arrest without diagnostic ST-segment elevation but with a high suspicion of ongoing myocardial ischaemia.",
+            "ru": "Неотложную коронарографию (и ЧКВ при наличии показаний) следует рассмотреть у пациентов после успешной реанимации без диагностического подъема ST, но с высоким подозрением на продолжающуюся ишемию миокарда."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients with electrical storm, urgent coronary angiography and revascularization (as required) should be considered.",
+            "ru": "У пациентов с электрическим штормом следует рассмотреть проведение неотложной коронарографии и реваскуляризации (при необходимости)."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

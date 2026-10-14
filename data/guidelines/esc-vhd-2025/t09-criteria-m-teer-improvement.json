@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.t09-criteria-m-teer-improvement",
+  "guidelineId": "esc-vhd-2025",
+  "number": "Table 7",
+  "type": "grid",
+  "title": {
+    "en": "Clinical and echocardiographic criteria predicting outcome improvement in patients with severe ventricular secondary mitral regurgitation undergoing mitral transcatheter edge-to-edge repair",
+    "ru": "Клинические и эхокардиографические критерии, прогнозирующие улучшение исходов у пациентов с тяжелой желудочковой вторичной митральной регургитацией при транскатетерной пластике «край-в-край» (M-TEER)"
+  },
+  "columns": [
+    {
+      "id": "c_criteria",
+      "title": {
+        "en": "Predictive Criteria for M-TEER Benefit (COAPT-like profile)",
+        "ru": "Прогностические критерии пользы M-TEER (профиль типа COAPT)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-anatomy",
+      "cells": [
+        {
+          "text": {
+            "en": "Anatomy deemed suitable for M-TEER",
+            "ru": "Анатомия клапана, признанная подходящей для M-TEER"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-nyha",
+      "cells": [
+        {
+          "text": {
+            "en": "NYHA class ≥II",
+            "ru": "ФК ХСН по NYHA ≥II"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-lvef",
+      "cells": [
+        {
+          "text": {
+            "en": "LVEF 20%–50%",
+            "ru": "Фракция выброса ЛЖ (LVEF) 20%–50%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-lvesd",
+      "cells": [
+        {
+          "text": {
+            "en": "LVESD ≤70 mm",
+            "ru": "Конечно-систолический размер ЛЖ (LVESD) ≤70 мм"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-hf-hosp-or-bnp",
+      "cells": [
+        {
+          "text": {
+            "en": "At least one HF hospitalization within the previous year or increased natriuretic peptide levels (BNP ≥300 pg/mL or NT-proBNP ≥1000 pg/mL)",
+            "ru": "Как минимум одна госпитализация по поводу СН за предшествующий год или повышенный уровень натрийуретических пептидов (BNP ≥300 пг/мл или NT-proBNP ≥1000 пг/мл)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-spap",
+      "cells": [
+        {
+          "text": {
+            "en": "SPAP ≤70 mmHg",
+            "ru": "Систолическое давление в легочной артерии (SPAP) ≤70 мм рт. ст."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-no-rv-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "No severe RV dysfunction",
+            "ru": "Отсутствие тяжелой систолической дисфункции правого желудочка"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-no-stage-d-hf",
+      "cells": [
+        {
+          "text": {
+            "en": "No Stage D or advanced HF",
+            "ru": "Отсутствие терминальной стадии ХСН (Stage D / advanced HF)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-no-cad-revasc",
+      "cells": [
+        {
+          "text": {
+            "en": "No CAD requiring revascularization",
+            "ru": "Отсутствие ИБС, требующей реваскуляризации миокарда"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-no-severe-av-tv",
+      "cells": [
+        {
+          "text": {
+            "en": "No severe AV and/or TV disease",
+            "ru": "Отсутствие тяжелого сопутствующего поражения аортального и/или трикуспидального клапана"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-no-infiltrative-cmp",
+      "cells": [
+        {
+          "text": {
+            "en": "No hypertrophic, restrictive, or infiltrative cardiomyopathies",
+            "ru": "Отсутствие гипертрофической, рестриктивной или инфильтративной кардиомиопатии"
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "vhd",
+    "smr",
+    "ventricular-smr",
+    "m-teer",
+    "teer",
+    "coapt",
+    "selection-criteria",
+    "lvef",
+    "lvesd",
+    "bnp",
+    "spap"
+  ]
+}

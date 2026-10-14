@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt24-ccs-and-heart-failure",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 24",
+  "title": {
+    "en": "Recommendations for management of chronic coronary syndrome patients with chronic heart failure",
+    "ru": "Рекомендации по ведению пациентов с хроническим коронарным синдромом и хронической сердечной недостаточностью"
+  },
+  "sections": [
+    {
+      "id": "managing-ccs-in-hf",
+      "title": {
+        "en": "Managing CCS in heart failure patients",
+        "ru": "Ведение ХКС у пациентов с сердечной недостаточностью"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In HF patients with LVEF ≤35% in whom obstructive CAD is suspected, ICA is recommended with a view towards improving prognosis by CABG, taking into account the risk-to-benefit ratio of the procedures.",
+            "ru": "У пациентов с СН и ФВЛЖ ≤35% при подозрении на обструктивную ИБС рекомендуется проведение ИКГ с прицелом на улучшение прогноза с помощью АКШ, с учетом соотношения пользы и риска процедур."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In HF patients with LVEF >35% and suspected CCS with low or moderate (>5%–50%) pre-test likelihood of obstructive CAD, CCTA or functional imaging is recommended.",
+            "ru": "У пациентов с СН и ФВЛЖ >35% при подозрении на ХКС с низкой или умеренной (>5%–50%) предтестовой вероятностью обструктивной ИБС рекомендуется КТ-коронарография или функциональная визуализация."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In HF patients with LVEF >35% and suspected CCS with very high (>85%) pre-test likelihood of obstructive CAD, ICA (with FFR, iFR, or QFR when needed) is recommended.",
+            "ru": "У пациентов с СН и ФВЛЖ >35% при подозрении на ХКС с очень высокой (>85%) предтестовой вероятностью обструктивной ИБС рекомендуется проведение ИКГ (с оценкой FFR, iFR или QFR при необходимости)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients with HFpEF with persistent angina or equivalent symptoms and normal or non-obstructive epicardial coronary arteries, PET or CMR perfusion or invasive coronary functional testing should be considered to detect or rule out coronary microvascular dysfunction.",
+            "ru": "У пациентов с СНсФВ с персистирующей стенокардией или эквивалентными симптомами и интактными либо необструктивными эпикардиальными коронарными артериями следует рассмотреть возможность проведения ПЭТ, перфузионной МРТ сердца или инвазивного функционального коронарного тестирования для выявления или исключения коронарной микрососудистой дисфункции."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In selected patients with HFrEF undergoing high-risk PCI for complex CAD, the use of a microaxial flow pump may be considered in experienced centres.",
+            "ru": "У отобранных пациентов с СНнФВ при выполнении ЧКВ высокого риска по поводу сложного коронарного поражения в опытных центрах может быть рассмотрено использование микроаксиального насоса."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "managing-hf-in-ccs",
+      "title": {
+        "en": "Managing heart failure in CCS patients",
+        "ru": "Ведение сердечной недостаточности у пациентов с ХКС"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "It is recommended that CCS patients with HF be enrolled in a multidisciplinary HF management programme to reduce the risk of HF hospitalization and to improve survival.",
+            "ru": "Пациентов с ХКС и СН рекомендуется включать в междисциплинарную программу ведения сердечной недостаточности для снижения риска госпитализаций по поводу СН и улучшения выживаемости."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "An ACE-I, an MRA, an SGLT2 inhibitor (dapagliflozin or empagliflozin), and, in stable conditions, a beta-blocker are recommended for CCS patients with HFrEF to reduce the risk of HF hospitalization and death.",
+            "ru": "ИАПФ, АМКР, ингибитор SGLT2 (дапаглифлозин или эмпаглифлозин) и в стабильном состоянии бета-блокатор рекомендуются пациентам с ХКС и СНнФВ для снижения риска госпитализации по поводу СН и смерти."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "An SGLT2 inhibitor (dapagliflozin or empagliflozin) is recommended in patients with Heart Failure with mildly reduced Ejection Fraction (HFmrEF) or HFpEF to reduce the risk of HF hospitalization or cardiovascular death.",
+            "ru": "Ингибитор SGLT2 (дапаглифлозин или эмпаглифлозин) рекомендуется пациентам с сердечной недостаточностью с умеренно сниженной фракцией выброса (СНумФВ) или СНсФВ для снижения риска госпитализации по поводу СН или сердечно-сосудистой смерти."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "An ARB is recommended in symptomatic patients with CCS and HFrEF unable to tolerate an ACE-I or ARNI to reduce the risk of HF hospitalization and cardiovascular death.",
+            "ru": "БРА рекомендуется симптомным пациентам с ХКС и СНнФВ при непереносимости ИАПФ или АРНИ для снижения риска госпитализации по поводу СН и сердечно-сосудистой смерти."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "Sacubitril/valsartan is recommended as a replacement for an ACE-I or ARB in CCS patients with HFrEF to reduce the risk of HF hospitalization and of cardiovascular and all-cause death.",
+            "ru": "Сакубитрил/валсартан рекомендуется в качестве замены ИАПФ или БРА у пациентов с ХКС и СНнФВ для снижения риска госпитализации по поводу СН, а также сердечно-сосудистой и общей смертности."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "Diuretics are recommended in CCS patients with HF and signs and/or symptoms of congestion to alleviate symptoms, improve exercise capacity, and reduce HF hospitalizations.",
+            "ru": "Диуретики рекомендуются пациентам с ХКС и СН при наличии признаков и/или симптомов застоя для облегчения симптоматики, улучшения толерантности к физической нагрузке и снижения риска госпитализаций по поводу СН."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r12",
+          "text": {
+            "en": "An ICD is recommended to reduce the risk of sudden death and all-cause mortality in patients with symptomatic HF (NYHA class II–III) of ischaemic aetiology (unless they have had an MI in the prior 40 days), and an LVEF ≤35% despite ≥3 months of optimized medical treatment, provided they are expected to survive substantially longer than 1 year with good functional status.",
+            "ru": "ИКД рекомендуется для снижения риска внезапной смерти и общей смертности у пациентов с симптомной СН (II–III ФК по NYHA) ишемической этиологии (если они не переносили ИМ за предшествующие 40 дней) и ФВЛЖ ≤35%, сохраняющейся несмотря на ≥3 месяцев оптимальной медикаментозной терапии, при условии ожидаемой продолжительности жизни существенно более 1 года с удовлетворительным функциональным статусом."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r13",
+          "text": {
+            "en": "An ICD is recommended to reduce the risk of sudden death and all-cause mortality in patients who have recovered from a ventricular arrhythmia causing haemodynamic instability, and who are expected to survive for >1 year with good functional status, in the absence of reversible causes or unless the ventricular arrhythmia has occurred <48 h after an MI.",
+            "ru": "ИКД рекомендуется для снижения риска внезапной смерти и общей смертности у пациентов, переживших желудочковую аритмию, вызвавшую гемодинамическую нестабильность, при ожидаемой продолжительности жизни >1 года с удовлетворительным функциональным статусом, в отсутствие обратимых причин или если желудочковая аритмия возникла не ранее чем через 48 часов после ИМ."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "CRT is recommended for CCS patients with symptomatic HF, sinus rhythm, LVEF ≤35% despite GDMT, and a QRS duration ≥150 ms with an LBBB QRS morphology to improve symptoms and survival and to reduce morbidity.",
+            "ru": "СРТ рекомендуется пациентам с ХКС при симптомной СН, синусовом ритме, ФВЛЖ ≤35% несмотря на ОМТ и длительности QRS ≥150 мс с морфологией БЛНПГ для уменьшения выраженности симптомов, улучшения выживаемости и снижения заболеваемости."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "CRT rather than right ventricular pacing is recommended for patients with HFrEF regardless of NYHA class or QRS width who have an indication for ventricular pacing for high-degree AV block in order to reduce morbidity. This includes patients with AF.",
+            "ru": "СРТ, а не стимуляция правого желудочка, рекомендуется пациентам с СНнФВ независимо от функционального класса по NYHA или ширины комплекса QRS при наличии показаний к желудочковой электрокардиостимуляции по поводу атриовентрикулярной блокады высокой степени с целью снижения заболеваемости. Это положение распространяется и на пациентов с ФП."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    }
+  ]
+}

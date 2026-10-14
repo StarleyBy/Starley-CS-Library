@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.t07-endocarditis-team-members",
+  "guidelineId": "esc-endo-2023",
+  "number": "Table 7",
+  "type": "grid",
+  "title": {
+    "en": "Table 7 — Members of the Endocarditis Team",
+    "ru": "Таблица 7 — Состав мультидисциплинарной «Команды по эндокардиту»"
+  },
+  "tags": [
+    "endocarditis",
+    "endocarditis-team",
+    "heart-valve-centre",
+    "specialists",
+    "multidisciplinary"
+  ],
+  "columns": [
+    {
+      "id": "c_category",
+      "title": {
+        "en": "Category",
+        "ru": "Категория специалистов"
+      }
+    },
+    {
+      "id": "c_specialities",
+      "title": {
+        "en": "Heart Valve Centre Specialists",
+        "ru": "Специалисты Клапанного центра сердца"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-core-members",
+      "cells": [
+        {
+          "text": {
+            "en": "Core members",
+            "ru": "Основной состав"
+          }
+        },
+        {
+          "text": {
+            "en": "• Cardiologists\n• Cardiac imaging experts\n• Cardiovascular surgeons\n• Infectious disease specialist (or internal medicine specialist with expertise in infectious diseases)\n• Microbiologist\n• Specialist in outpatient parenteral antibiotic treatment",
+            "ru": "• Кардиологи\n• Эксперты по визуализации сердца\n• Сердечно-сосудистые хирурги\n• Инфекционист (или терапевт с опытом в области инфекционных болезней)\n• Микробиолог\n• Специалист по амбулаторной парентеральной антибиотикотерапии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-adjunct-specialities",
+      "cells": [
+        {
+          "text": {
+            "en": "Adjunct specialities",
+            "ru": "Привлекаемые специалисты"
+          }
+        },
+        {
+          "text": {
+            "en": "• Radiologist and nuclear medicine specialist\n• Pharmacologist\n• Neurologist and neurosurgeon\n• Nephrologist\n• Anaesthesiologists\n• Critical care\n• Multidisciplinary addiction medicine teams\n• Geriatricians\n• Social worker\n• Nurses\n• Pathologist",
+            "ru": "• Рентгенолог и специалист по радионуклидной диагностике\n• Клинический фармаколог\n• Невролог и нейрохирург\n• Нефролог\n• Анестезиологи\n• Реаниматологи / врачи интенсивной терапии\n• Мультидисциплинарные наркологические бригады\n• Гериатры\n• Социальный работник\n• Медицинские сестры\n• Патологоанатом"
+          }
+        }
+      ]
+    }
+  ]
+}

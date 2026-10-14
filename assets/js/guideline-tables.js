@@ -139,6 +139,11 @@
               <h2 id="gt-header-title">Guideline Tables</h2>
             </div>
             <div class="gt-modal-actions">
+              <div class="gt-book-nav" id="gt-book-nav" style="display:none;">
+                <button class="gt-btn gt-btn-nav" id="gt-btn-prev" title="Предыдущая таблица (←)">◀</button>
+                <span class="gt-book-page-info" id="gt-book-page-info">1 / 1</span>
+                <button class="gt-btn gt-btn-nav" id="gt-btn-next" title="Следующая таблица (→)">▶</button>
+              </div>
               <button class="gt-btn" id="gt-btn-catalog" title="Catalog / List">📚 Каталог</button>
               <div class="gt-lang-toggle">
                 <button class="gt-lang-btn is-active" data-lang="ru">RU</button>
@@ -166,6 +171,11 @@
       overlay.querySelector('#gt-btn-close').addEventListener('click', () => this.close());
       overlay.querySelector('#gt-btn-catalog').addEventListener('click', () => this.handleBackNavigation());
 
+      const prevBtn = overlay.querySelector('#gt-btn-prev');
+      const nextBtn = overlay.querySelector('#gt-btn-next');
+      if (prevBtn) prevBtn.addEventListener('click', () => this.flipTable(-1));
+      if (nextBtn) nextBtn.addEventListener('click', () => this.flipTable(1));
+
       overlay.querySelectorAll('.gt-lang-btn').forEach(btn => {
         btn.addEventListener('click', () => {
           overlay.querySelectorAll('.gt-lang-btn').forEach(b => b.classList.remove('is-active'));
@@ -186,8 +196,13 @@
       });
 
       document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape' && this.isOpen) {
+        if (!this.isOpen) return;
+        if (e.key === 'Escape') {
           this.close();
+        } else if (e.key === 'ArrowLeft' && this.activeTable && !['INPUT', 'TEXTAREA'].includes(document.activeElement?.tagName)) {
+          this.flipTable(-1);
+        } else if (e.key === 'ArrowRight' && this.activeTable && !['INPUT', 'TEXTAREA'].includes(document.activeElement?.tagName)) {
+          this.flipTable(1);
         }
       });
     }
@@ -283,6 +298,211 @@
       }
     }
 
+    highlightClinicalKeywords(text) {
+      if (!text) return '';
+      // Escape HTML entities first to avoid injection
+      let s = String(text)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+
+      // Comprehensive rule-based multi-tier semantic highlighting:
+
+      // 1. Interventions, Procedures, Devices & Surgeries (Vibrant Amber/Gold)
+      const interventions = [
+        'электрической кардиоверсии', 'электрическая кардиоверсия', 'электрической кардиоверсией', 'электрическую кардиоверсию',
+        'медикаментозной кардиоверсии', 'медикаментозная кардиоверсия', 'кардиоверсии', 'кардиоверсия',
+        'чрескожной окклюзии ушка левого предсердия', 'чрескожной окклюзии ушка', 'хирургической окклюзии ушка левого предсердия', 'окклюзии ушка левого предсердия', 'окклюзия ушка левого предсердия', 'окклюзии ушка',
+        'эндоскопической и гибридной аблации', 'гибридной аблации', 'катетерная аблация', 'катетерной аблации', 'катетерную аблацию', 'аблация', 'аблации',
+        'трансплантация сердца', 'трансплантации сердца', 'пересадка сердца',
+        'имплантация икд', 'имплантируемого кардиовертера', 'кардиовертера-дефибриллятора', 'кардиовертер-дефибриллятор',
+        'сердечной ресинхронизирующей терапии', 'ресинхронизирующей терапии', 'ресинхронизирующая терапия', 'сердечная ресинхронизация',
+        'септальная миэктомия', 'септальной миэктомии', 'септальная редукция', 'септальной редукционной терапии', 'спиртовая септальная аблация',
+        'чрескожное коронарное вмешательство', 'чрескожному вмешательству', 'чрескожных вмешательств', 'чкв', 'стентирование',
+        'аортокоронарное шунтирование', 'акш', 'кардиохирургических операций', 'хирургических операций', 'хирургическому вмешательству',
+        'фибринолитическая терапия', 'фибринолитической терапии', 'тромболизис', 'реперфузионной терапии', 'реперфузионная стратегия',
+        'трансплантации гемопоэтических стволовых клеток', 'трансплантация гемопоэтических стволовых клеток', 'тгск', 'лучевой терапии', 'лучевая терапия',
+        'electrical cardioversion', 'pharmacological cardioversion', 'cardioversion',
+        'percutaneous left atrial appendage occlusion', 'surgical left atrial appendage occlusion', 'left atrial appendage occlusion', 'laa occlusion',
+        'endoscopic and hybrid af ablation', 'hybrid af ablation', 'catheter ablation', 'ablation during cardiac surgery', 'ablation',
+        'heart transplantation', 'cardiac transplantation',
+        'implantable cardioverter defibrillator', 'cardioverter defibrillator', 'defibrillator',
+        'cardiac resynchronization therapy', 'resynchronization', 'septal myectomy', 'myectomy',
+        'septal reduction therapy', 'alcohol septal ablation', 'percutaneous coronary intervention', 'percutaneous intervention',
+        'coronary artery bypass graft', 'cabg', 'pci', 'icd', 'crt', 'srt', 'asa', 'fibrinolytic therapy', 'reperfusion strategy',
+        'haematopoietic stem cell transplantation', 'stem cell transplantation', 'hsct', 'radiotherapy', 'radiation therapy'
+      ];
+
+      // 2. Clinical Evaluation, Symptoms, Quality of Life, Decisions, Surveillance (Vivid Cobalt Blue)
+      const actions = [
+        'оценке симптомов', 'оценка симптомов', 'оценки симптомов', 'симптомов', 'симптомы',
+        'исходной оценке риска и мониторингу', 'исходной оценке риска', 'исходная оценка риска', 'оценке риска и мониторингу', 'оценке риска', 'мониторингу', 'мониторинг', 'наблюдению', 'наблюдение',
+        'первичная профилактика', 'первичной профилактике', 'первичной профилактики',
+        'вторичная профилактика', 'вторичной профилактике', 'вторичной профилактики',
+        'контролю частоты сердечных сокращений', 'контроль частоты сердечных сокращений', 'контроля частоты сердечных сокращений', 'контролю ритма', 'контроль ритма', 'удержания синусового ритма',
+        'пациентоориентированной помощи и обучению пациентов', 'пациентоориентированной помощи', 'обучению пациентов',
+        'качеству жизни', 'качества жизни', 'улучшению опыта', 'опыта и качества жизни',
+        'совместному принятию решений', 'совместного принятия решений', 'психологической поддержке', 'психологической поддержки',
+        'скринингу семей', 'скрининга семей', 'динамическому наблюдению', 'диспансерному наблюдению', 'плановому наблюдению',
+        'физическим нагрузкам', 'физической активности', 'занятиям спортом', 'спорту', 'соревновательному спорту',
+        'репродуктивным вопросам', 'беременности и родам', 'беременности', 'контрацепции',
+        'baseline risk assessment and monitoring', 'baseline risk assessment', 'risk assessment and monitoring', 'monitoring', 'surveillance',
+        'primary prevention', 'secondary prevention',
+        'symptom evaluation', 'evaluation of symptoms', 'symptoms',
+        'heart rate control', 'rate control', 'rhythm control', 'maintenance of sinus rhythm',
+        'patient-centred care', 'patient education', 'patient experience', 'quality of life',
+        'shared decision-making', 'psychological support', 'family screening', 'routine follow-up', 'follow-up',
+        'exercise recommendations', 'exercise and sports', 'sports', 'competitive sport',
+        'reproductive issues', 'pregnancy', 'contraception'
+      ];
+
+      // 3. Risk Assessment, Bleeding, Stroke, Sudden Death, Cardiotoxicity (Crimson / Coral Red)
+      const risks = [
+        'кардиоваскулярной токсичности', 'сердечно-сосудистой токсичности', 'кардиотоксичности', 'кардиотоксичность', 'токсичности', 'токсичность',
+        'кардиальной дисфункции', 'кардиальная дисфункция', 'дисфункции левого желудочка', 'дисфункция левого желудочка',
+        'факторов риска', 'факторам риска', 'факторы риска', 'фактор риска',
+        'тромбоэмболического риска', 'тромбоэмболический риск', 'тромбоэмболии', 'тромбоэмболических осложнений',
+        'риска кровотечений', 'риск кровотечений', 'риску кровотечений', 'кровотечений', 'кровотечения',
+        'профилактике инсульта', 'профилактики инсульта', 'инсульта', 'инсульт', 'инфаркта миокарда', 'инфаркт миокарда',
+        'внезапной сердечной смерти', 'внезапной смерти', 'остановке сердца', 'остановки сердца', 'всс',
+        'кардиогенного шока', 'кардиогенный шок', 'сердечной недостаточности', 'сердечная недостаточность', 'сн',
+        'синдром такоцубо', 'синдрома такоцубо', 'удлинение qtc', 'удлинения qtc', 'миокардит', 'миокардита',
+        'венозных тромбоэмболических осложнений', 'втэо',
+        'cardiovascular toxicity', 'cardiac toxicity', 'cardiotoxicity', 'cv toxicity',
+        'cardiac dysfunction', 'left ventricular dysfunction', 'ctrcd',
+        'risk factor management', 'risk factors', 'risk factor', 'risk stratification',
+        'thromboembolic risk', 'thromboembolism', 'bleeding risk', 'bleeding', 'major bleeding',
+        'stroke prevention', 'stroke', 'myocardial infarction',
+        'sudden cardiac death', 'sudden death', 'cardiac arrest', 'scd',
+        'cardiogenic shock', 'heart failure', 'hf', 'takotsubo syndrome', 'takotsubo', 'myocarditis', 'qtc prolongation',
+        'venous thromboembolism', 'vte'
+      ];
+
+      // 4. Pharmacotherapy & Critical Drug Classes (Emerald Green)
+      const pharmacology = [
+        'оральной антикоагулянтной терапии', 'оральной антикоагулянтной', 'оральных антикоагулянтов', 'оральным антикоагулянтам',
+        'пероральная антикоагулянтная терапия', 'пероральных антикоагулянтов', 'пероральной антикоагулянтной',
+        'антикоагулянтной терапии', 'антикоагулянтной', 'антикоагулянты', 'антикоагулянтов', 'антикоагуляция',
+        'комбинации антиагрегантов с антикоагулянтами', 'комбинации антиагрегантов', 'антиагрегантов', 'антиагреганты', 'двойной антитромбоцитарной терапии', 'датт',
+        'антиаритмическим препаратам', 'антиаритмических препаратов', 'антиаритмической терапии', 'антиаритмических средств',
+        'бета-блокаторы', 'бета-блокаторов', 'бета-блокаторами', 'верапамил', 'дилтиазем', 'дизопирамид', 'мавакамтен',
+        'ингибиторы апф', 'сакубитрил/валсартан', 'арни', 'дапаглифлозин', 'эмпаглифлозин', 'статины', 'статинов', 'ноак', 'доак', 'авк', 'нмг',
+        'антрациклинами', 'антрациклины', 'доксорубицин', 'дексразоксан', 'липосомальные антрациклины',
+        'таргетной терапии против her2', 'таргетной терапии her2', 'ингибиторами her2',
+        'фторпиримидинами', 'фторпиримидины', '5-фторурацил', 'капецитабин',
+        'ингибиторами фактора роста эндотелия сосудов', 'ингибиторами vegf', 'ингибиторы vegf', 'бевацизумаб', 'рамуцирумаб',
+        'ингибиторов тирозинкиназы bcr-abl', 'ингибиторов bcr-abl', 'ингибиторами btk', 'ингибиторы btk', 'ибрутиниб',
+        'ингибиторами протеасом', 'бортезомиб', 'карфилзомиб', 'иксазомиб',
+        'ингибиторами raf и mek', 'ингибиторами raf', 'ингибиторами mek', 'вемурафениб', 'дабрафениб', 'траметиниб', 'кобиметиниб',
+        'ингибиторами иммунных контрольных точек', 'иммунотерапии', 'иммунотерапия',
+        'андроген-депривационной терапии', 'андроген-депривационной', 'антагонисты гнрг', 'агонисты гнрг',
+        'эндокринной терапии', 'гормональной терапии', 'тамоксифен', 'ингибиторы ароматазы',
+        'ингибиторами cdk4/6', 'ингибиторы cdk4/6', 'рибоциклиб', 'палбоциклиб', 'абемациклиб',
+        'ингибиторов alk и egfr', 'ингибиторами alk', 'ингибиторами egfr', 'осимертиниб', 'кризотиниб', 'бригатиниб', 'лорлатиниб',
+        'карфилзомиб', 'бортезомиб', 'кортикостероиды', 'метилпреднизолон', 'преднизолон',
+        'combining antiplatelet drugs with anticoagulants', 'antiplatelet drugs', 'antiplatelet', 'dapt',
+        'oral anticoagulation', 'anticoagulation in patients', 'anticoagulation', 'anticoagulants', 'noac', 'doac', 'vka', 'lmwh',
+        'antiarrhythmic drugs', 'antiarrhythmic', 'antiarrhythmics',
+        'beta-blockers', 'beta-blocker', 'verapamil', 'diltiazem', 'disopyramide', 'mavacamten',
+        'ace inhibitors', 'sacubitril/valsartan', 'arni', 'sglt2 inhibitors', 'dapagliflozin', 'empagliflozin', 'statins',
+        'anthracyclines', 'anthracycline chemotherapy', 'anthracycline', 'doxorubicin', 'dexrazoxane', 'liposomal anthracyclines',
+        'her2-targeted therapies', 'her2-targeted', 'anti-her2',
+        'fluoropyrimidines', 'fluoropyrimidine therapy', '5-fluorouracil', 'capecitabine',
+        'vascular endothelial growth factor inhibitors', 'vegf inhibitors', 'vegfi', 'bevacizumab', 'ramucirumab',
+        'bcr-abl tyrosine kinase inhibitors', 'bcr-abl tki', 'btk inhibitors', 'btk inhibitor', 'ibrutinib',
+        'proteasome inhibitors', 'bortezomib', 'carfilzomib', 'ixazomib',
+        'raf and mek inhibitors', 'raf inhibitors', 'mek inhibitors', 'vemurafenib', 'dabrafenib', 'trametinib', 'cobimetinib',
+        'immune checkpoint inhibitors', 'ici therapy', 'immunotherapy',
+        'androgen deprivation therapy', 'adt', 'gnrh antagonist', 'gnrh agonist',
+        'endocrine therapy', 'tamoxifen', 'aromatase inhibitors',
+        'cyclin-dependent kinase 4/6', 'cdk4/6 inhibitor', 'ribociclib', 'palbociclib', 'abemaciclib',
+        'alk inhibitors', 'egfr inhibitors', 'osimertinib', 'crizotinib', 'brigatinib', 'lorlatinib',
+        'corticosteroids', 'methylprednisolone', 'prednisolone'
+      ];
+
+      // 5. Diagnostics, Imaging, ECG, Biomarkers & Genetics (Purple/Indigo)
+      const diagnostics = [
+        'диагностической оценке', 'диагностическая оценка', 'диагностике и лечению', 'диагностике', 'диагностика', 'диагностический поиск',
+        'эхокардиографии', 'эхокардиография', 'эхокардиографическая', 'эхокг', 'ттэхкг', 'чпэхкг', 'ттэ',
+        'мрт сердца', 'мрт', 'кт-коронарографии', 'кт-коронарография', 'кт', 'коронарография', 'кава-фильтр',
+        'сцинтиграфии', 'сцинтиграфия', 'биопсии миокарда', 'эндомиокардиальной биопсии', 'эмб',
+        'электрокардиографических признаков', 'электрокардиограмме', 'электрокардиография', 'экг', 'холтеровскому мониторированию', 'холтер',
+        'лабораторных тестов', 'лабораторным исследованиям', 'лабораторные тесты',
+        'сердечные биомаркеры', 'биомаркеры', 'натрийуретические пептиды', 'натрийуретических пептидов',
+        'генетическое тестирование', 'генетического тестирования', 'генетическому тестированию', 'генетическое консультирование', 'генетического консультирования',
+        'diagnostic evaluation', 'diagnosis and management', 'diagnosis', 'diagnostic work-up',
+        'echocardiography', 'echocardiographic', 'echo', 'tte', 'toe', 'tee',
+        'cardiac magnetic resonance', 'cmr', 'computed tomography', 'ct coronary angiography', 'coronary angiography', 'ccta', 'ct',
+        'bone-tracer scintigraphy', 'scintigraphy', 'endomyocardial biopsy', 'emb',
+        'electrocardiographic features', 'electrocardiogram', 'ecg', 'holter monitoring', 'holter',
+        'cardiac biomarkers', 'serum biomarkers', 'biomarkers',
+        'laboratory tests', 'genetic testing', 'genetic counselling', 'cascade testing',
+        'cha2ds2-vasc', 'has-bled', 'hcm risk-scd', 'score2-op', 'score2', 'nt-probnp', 'bnp', 'troponin', 'тропонин', 'ctn', 'np', 'gls'
+      ];
+
+      // 6. Core Diseases, Specific Nosologies, Cellular Types (Cyan/Teal accent with subtle underline)
+      const nosologies = [
+        'фибрилляции предсердий', 'фибрилляция предсердий', 'фибрилляцией предсердий', 'триггер-индуцированной фибрилляции предсердий', 'послеоперационной фибрилляции предсердий',
+        'трепетании предсердий', 'трепетания предсердий', 'трепетание предсердий',
+        'кардиомиопатиями', 'кардиомиопатий', 'кардиомиопатии', 'кардиомиопатия', 'кардиомиопатию',
+        'гипертрофической кардиомиопатии', 'гипертрофической кардиомиопатия', 'гипертрофическая кардиомиопатия',
+        'дилатационной кардиомиопатией', 'дилатационной кардиомиопатии', 'дилатационная кардиомиопатия',
+        'аритмогенной кардиомиопатией', 'аритмогенной кардиомиопатии', 'аритмогенная кардиомиопатия',
+        'рестриктивной кардиомиопатией', 'рестриктивной кардиомиопатии', 'рестриктивная кардиомиопатия',
+        'недилатированной кардиомиопатией', 'недилатированной кардиомиопатии', 'недилатированная кардиомиопатия',
+        'острого коронарного синдрома', 'острым коронарным синдромом', 'острый коронарный синдром', 'остром коронарном синдроме',
+        'ишемической болезни сердца', 'ишемическая болезнь сердца', 'ибс',
+        'врожденными пороками сердца', 'врожденных пороках сердца', 'врожденные пороки сердца',
+        'амилоидоз сердца', 'амилоидоза сердца', 'амилоидозе сердца', 'болезни фабри', 'болезнь фабри',
+        'эмболическим инсультом из неустановленного источника',
+        'раке молочной железы', 'рак молочной железы', 'раком молочной железы', 'рмж',
+        'раке предстательной железы', 'рак предстательной железы', 'рака предстательной железы', 'рпж',
+        'множественной миеломы', 'множественная миелома', 'множественной миеломе', 'мм',
+        'car-t клеточную терапию', 'car-t терапия', 'car-t клеточной', 'car-t', 'лимфоциты til', 'til',
+        'кардиоонкология', 'кардиоонкологии',
+        'atrial fibrillation', 'post-operative af', 'trigger-induced af', 'atrial flutter',
+        'cardiomyopathies', 'cardiomyopathy',
+        'hypertrophic cardiomyopathy', 'dilated cardiomyopathy', 'arrhythmogenic right ventricular cardiomyopathy',
+        'restrictive cardiomyopathy', 'non-dilated left ventricular cardiomyopathy',
+        'acute coronary syndromes', 'acute coronary syndrome', 'coronary artery disease', 'cad',
+        'congenital heart disease', 'adult congenital heart disease',
+        'cardiac amyloidosis', 'fabry disease', 'embolic stroke of unknown source', 'esus',
+        'breast cancer', 'prostate cancer', 'multiple myeloma', 'chimeric antigen receptor t cell', 'car-t',
+        'tumour-infiltrating lymphocytes', 'cardio-oncology',
+        'ГКМП', 'ДКМП', 'АКПЖ', 'РКМП', 'ННКМПЛЖ', 'НДЛЖКМП', 'ОКС', 'ВЗПС', 'ВПС', 'ФП', 'ТП', 'ИБС',
+        'HCM', 'DCM', 'ARVC', 'RCM', 'NDLVC', 'ACS', 'ACHD', 'AF', 'AFL', 'CAD', 'CVD', 'MM', 'BC', 'TKI', 'VEGFi', 'ICI'
+      ];
+
+      // Multi-pass safe replacement using tokens
+      const tokenMap = [];
+      function tokenizeAndApply(source, terms, cssClass) {
+        if (!terms || terms.length === 0) return source;
+        const sorted = [...terms].sort((a, b) => b.length - a.length);
+        const regexStr = '(?<![a-zA-Zа-яА-Я0-9_])(' + sorted.map(t => t.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')).join('|') + ')(?![a-zA-Zа-яА-Я0-9_])';
+        const re = new RegExp(regexStr, 'gi');
+        return source.replace(re, (match) => {
+          const tokenId = `___GT_TOKEN_${tokenMap.length}___`;
+          tokenMap.push(`<span class="${cssClass}">${match}</span>`);
+          return tokenId;
+        });
+      }
+
+      // Order of precedence: longer specific phrases first (Interventions -> Actions -> Risks -> Pharma -> Diagnostics -> Nosologies)
+      s = tokenizeAndApply(s, interventions, 'gt-hl-device');
+      s = tokenizeAndApply(s, actions, 'gt-hl-action');
+      s = tokenizeAndApply(s, risks, 'gt-hl-risk');
+      s = tokenizeAndApply(s, pharmacology, 'gt-hl-pharma');
+      s = tokenizeAndApply(s, diagnostics, 'gt-hl-diag');
+      s = tokenizeAndApply(s, nosologies, 'gt-hl-disease');
+
+      // Restore tokens back to HTML spans
+      for (let i = tokenMap.length - 1; i >= 0; i--) {
+        s = s.replace(`___GT_TOKEN_${i}___`, tokenMap[i]);
+      }
+
+      return s;
+    }
+
     async showCatalog() {
       this.activeTable = null;
       this.selectedGuidelineId = null;
@@ -291,7 +511,9 @@
       const badgeEl = document.getElementById('gt-header-badge');
       const container = document.getElementById('gt-view-container');
       const catBtn = document.getElementById('gt-btn-catalog');
+      const bookNav = document.getElementById('gt-book-nav');
       if (catBtn) catBtn.style.display = 'none';
+      if (bookNav) bookNav.style.display = 'none';
 
       const filterInput = document.getElementById('gt-table-filter');
       if (filterInput) filterInput.value = '';
@@ -309,22 +531,94 @@
         return;
       }
 
+      // Helper to identify topic icon
+      const getTopicIcon = (id) => {
+        if (id.includes('pe')) return '🫁'; // Pulmonary Embolism
+        if (id.includes('af')) return '⚡'; // Atrial Fibrillation / Arrhythmia
+        if (id.includes('endo')) return '🛡️'; // Endocarditis / Valve Infection
+        if (id.includes('revasc')) return '🩺'; // Revascularization / Stents / CABG
+        if (id.includes('cardioonc')) return '🎗️'; // Cardio-Oncology
+        if (id.includes('cmp')) return '🧬'; // Cardiomyopathies / Genetics
+        if (id.includes('achd')) return '🫀'; // Adult Congenital Heart Disease
+        if (id.includes('acs')) return '🚨'; // Acute Coronary Syndromes
+        if (id.includes('ccs')) return '💓'; // Chronic Coronary Syndromes
+        if (id.includes('valve') || id.includes('vhd')) return '❤️‍🩹'; // Valvular Heart Disease
+        if (id.includes('hf')) return '💧'; // Heart Failure
+        return '📑';
+      };
+
+      // Helper to format concise key title (e.g. "2024 ESC AF" / "2024 ESC ФП", "2019 ESC Pulmonary Embolism" / "2019 ESC ТЭЛА")
+      const getKeyTitle = (g, isRu) => {
+        const yr = g.year || '';
+        const soc = (g.society || 'ESC').split('/')[0].trim();
+        const id = g.id.toLowerCase();
+        let topic = '';
+
+        if (isRu) {
+          if (id.includes('vhd') || id.includes('valve')) topic = 'Пороки сердца';
+          else if (id.includes('pe')) topic = 'ТЭЛА';
+          else if (id.includes('af')) topic = 'ФП';
+          else if (id.includes('endo')) topic = 'Эндокардит';
+          else if (id.includes('revasc')) topic = 'Реваскуляризация';
+          else if (id.includes('cardioonc')) topic = 'Кардиоонкология';
+          else if (id.includes('cmp')) topic = 'Кардиомиопатии';
+          else if (id.includes('achd')) topic = 'ВПС у взрослых';
+          else if (id.includes('acs')) topic = 'ОКС';
+          else if (id.includes('ccs')) topic = 'ХКС';
+          else if (id.includes('hf')) topic = 'СН';
+          else if (g.shortTitle?.ru) topic = g.shortTitle.ru.replace(/^(ESC|AHA|ACC|EACTS)\s*/i, '').replace(/\s*\d{4}$/, '').trim();
+          else topic = g.id;
+        } else {
+          if (id.includes('vhd') || id.includes('valve')) topic = 'Valve Disease';
+          else if (id.includes('pe')) topic = 'Pulmonary Embolism';
+          else if (id.includes('af')) topic = 'AF';
+          else if (id.includes('endo')) topic = 'Endocarditis';
+          else if (id.includes('revasc')) topic = 'Revascularization';
+          else if (id.includes('cardioonc')) topic = 'Cardio-Oncology';
+          else if (id.includes('cmp')) topic = 'Cardiomyopathies';
+          else if (id.includes('achd')) topic = 'ACHD';
+          else if (id.includes('acs')) topic = 'ACS';
+          else if (id.includes('ccs')) topic = 'CCS';
+          else if (id.includes('hf')) topic = 'Heart Failure';
+          else if (g.shortTitle?.en) topic = g.shortTitle.en.replace(/^(ESC|AHA|ACC|EACTS)\s*/i, '').replace(/\s*\d{4}$/, '').trim();
+          else topic = g.id;
+        }
+
+        return `${yr} ${soc} ${topic}`;
+      };
+
       // Guidelines are pre-sorted by year descending in index
       let html = `<div class="gt-catalog-grid" id="gt-guidelines-list">`;
       guidelines.forEach(g => {
         const isRu = this.currentLang === 'ru';
-        const title = g.title ? (g.title[this.currentLang] || g.title.en) : g.id;
-        const shortTitle = g.shortTitle ? (g.shortTitle[this.currentLang] || g.shortTitle.en) : g.id;
+        const rawTitle = g.title ? (g.title[this.currentLang] || g.title.en) : g.id;
+        const keyTitle = getKeyTitle(g, isRu);
+        const topicIcon = getTopicIcon(g.id);
         const tablesText = isRu ? `${g.tablesCount} табл.` : `${g.tablesCount} tables`;
+
+        // Society theme and logo
+        const socUpper = (g.society || 'ESC').toUpperCase();
+        const isAmerican = socUpper.includes('AHA') || socUpper.includes('ACC');
+        const societyClass = isAmerican ? 'gt-society-aha' : 'gt-society-esc';
+        const logoPath = isAmerican ? 'assets/img/aha-logo.png' : 'assets/img/esc-logo.png';
+        const logoAlt = isAmerican ? 'AHA Logo' : 'ESC Logo';
+
+        // Neon Year style class
+        const yearClass = `gt-year-${g.year || 'default'}`;
+
         html += `
-          <div class="gt-guideline-card" data-guideline-id="${g.id}">
+          <div class="gt-guideline-card ${societyClass}" data-guideline-id="${g.id}">
+            <span class="gt-card-topic-icon" title="${keyTitle}">${topicIcon}</span>
             <div class="gt-guideline-top">
-              <span class="gt-year-badge">${g.year}</span>
+              <span class="gt-year-badge ${yearClass}">${g.year}</span>
               <span class="gt-count-badge">📊 ${tablesText}</span>
             </div>
-            <div class="gt-card-badge">${g.society || 'ESC'} • ${shortTitle}</div>
-            <div class="gt-guideline-title">${title}</div>
-            ${g.citation ? `<div class="gt-guideline-citation">${g.citation}</div>` : ''}
+            <div class="gt-guideline-brand">
+              <img src="${logoPath}" alt="${logoAlt}" class="gt-society-logo" onerror="this.style.display='none'">
+              <span style="font-size:0.75rem; font-weight:700; color:#94a3b8; text-transform:uppercase; letter-spacing:0.5px;">${g.society || 'ESC'}</span>
+            </div>
+            <div class="gt-guideline-key-title">${keyTitle}</div>
+            <div class="gt-guideline-sub" title="${rawTitle}">${rawTitle}</div>
           </div>
         `;
       });
@@ -348,7 +642,9 @@
       const badgeEl = document.getElementById('gt-header-badge');
       const container = document.getElementById('gt-view-container');
       const catBtn = document.getElementById('gt-btn-catalog');
+      const bookNav = document.getElementById('gt-book-nav');
       if (catBtn) catBtn.style.display = 'inline-flex';
+      if (bookNav) bookNav.style.display = 'none';
 
       const filterInput = document.getElementById('gt-table-filter');
       if (filterInput) filterInput.value = '';
@@ -367,9 +663,15 @@
 
       let html = `
         <div class="gt-catalog-header-bar">
-          <button class="gt-breadcrumb-btn" id="gt-btn-back-guidelines">
-            ← ${isRu ? 'Все руководства' : 'All Guidelines'}
-          </button>
+          <div style="display:flex; align-items:center; gap:0.6rem; flex-wrap:wrap;">
+            <button class="gt-breadcrumb-btn" id="gt-btn-back-guidelines">
+              ← ${isRu ? 'Все руководства' : 'All Guidelines'}
+            </button>
+            <span style="color:var(--gt-border)">|</span>
+            <button class="gt-btn gt-btn-primary" id="gt-btn-read-book" title="${isRu ? 'Читать таблицы как книгу по порядку' : 'Read tables like a book sequentially'}">
+              📖 ${isRu ? 'Листать таблицы (режим книги)' : 'Read as Book'}
+            </button>
+          </div>
           <span style="font-size:0.85rem; color:var(--gt-muted); font-weight:600;">
             ${items.length} ${isRu ? 'таблиц(ы)' : 'tables'}
           </span>
@@ -380,11 +682,12 @@
       items.forEach(item => {
         const tableLabel = isRu ? `Табл. ${item.number}` : `Table ${item.number}`;
         const defaultTitle = isRu ? `Таблица ${item.number}` : `Table ${item.number}`;
-        const title = item.title ? (item.title[this.currentLang] || item.title.en) : defaultTitle;
+        const rawTitle = item.title ? (item.title[this.currentLang] || item.title.en) : defaultTitle;
+        const highlightedTitle = this.highlightClinicalKeywords(rawTitle);
         html += `
           <div class="gt-card" data-table-id="${item.id}">
             <div class="gt-card-badge">${tableLabel} • ${item.type}</div>
-            <div class="gt-card-title">${title}</div>
+            <div class="gt-card-title">${highlightedTitle}</div>
             <div class="gt-card-tags">
               ${(item.tags || []).map(t => `<span class="gt-tag">#${t}</span>`).join('')}
             </div>
@@ -400,11 +703,34 @@
         backBtn.addEventListener('click', () => this.showCatalog());
       }
 
+      const readBookBtn = container.querySelector('#gt-btn-read-book');
+      if (readBookBtn && items.length > 0) {
+        readBookBtn.addEventListener('click', () => {
+          this.loadAndShowTable(items[0].id);
+        });
+      }
+
       container.querySelectorAll('.gt-card').forEach(card => {
         card.addEventListener('click', () => {
           this.loadAndShowTable(card.dataset.tableId);
         });
       });
+    }
+
+    async flipTable(direction) {
+      if (!this.activeTable || !this.selectedGuidelineId) return;
+      const index = await this.loadIndex();
+      const guidelineTables = (index?.tables || []).filter(t => t.guidelineId === this.selectedGuidelineId);
+      if (guidelineTables.length <= 1) return;
+
+      const currentIdx = guidelineTables.findIndex(t => t.id === this.activeTable.id);
+      if (currentIdx === -1) return;
+
+      let nextIdx = currentIdx + direction;
+      if (nextIdx < 0) nextIdx = guidelineTables.length - 1; // cycle or clamp
+      if (nextIdx >= guidelineTables.length) nextIdx = 0;
+
+      await this.loadAndShowTable(guidelineTables[nextIdx].id);
     }
 
     async loadAndShowTable(tableId) {
@@ -429,7 +755,34 @@
       const filterInput = document.getElementById('gt-table-filter');
       if (filterInput) filterInput.value = '';
 
+      // Update book flip navigation controls
+      this.updateBookNav();
+
       this.renderTable(table);
+    }
+
+    async updateBookNav() {
+      const bookNav = document.getElementById('gt-book-nav');
+      const pageInfo = document.getElementById('gt-book-page-info');
+      if (!bookNav || !pageInfo) return;
+
+      if (!this.activeTable || !this.selectedGuidelineId) {
+        bookNav.style.display = 'none';
+        return;
+      }
+
+      const index = await this.loadIndex();
+      const guidelineTables = (index?.tables || []).filter(t => t.guidelineId === this.selectedGuidelineId);
+      if (guidelineTables.length <= 1) {
+        bookNav.style.display = 'none';
+        return;
+      }
+
+      const currentIdx = guidelineTables.findIndex(t => t.id === this.activeTable.id);
+      const isRu = this.currentLang === 'ru';
+      bookNav.style.display = 'inline-flex';
+      pageInfo.textContent = `${currentIdx + 1} / ${guidelineTables.length}`;
+      pageInfo.title = isRu ? `Таблица ${currentIdx + 1} из ${guidelineTables.length} (стрелки клавиатуры ← / →)` : `Table ${currentIdx + 1} of ${guidelineTables.length} (keyboard arrows ← / →)`;
     }
 
     renderTable(table) {
@@ -446,7 +799,8 @@
       const defaultTitle = isRu ? `Таблица ${table.number}` : `Table ${table.number}`;
       const tTitle = table.title ? (table.title[this.currentLang] || table.title.en) : defaultTitle;
       const tablePrefix = isRu ? `Таблица ${table.number}` : `Table ${table.number}`;
-      titleEl.textContent = `${tTitle} (${tablePrefix})`;
+      const highlightedTitle = this.highlightClinicalKeywords(tTitle);
+      titleEl.innerHTML = `${highlightedTitle} <span style="font-size:0.85em; opacity:0.75; font-weight:normal;">(${tablePrefix})</span>`;
 
       // Render Table DOM
       const tableWrapper = document.createElement('div');
@@ -456,7 +810,7 @@
       let bodyHtml = `
         <div class="gt-head">
           <span class="gt-guideline">${gTitle} — ${tablePrefix}</span>
-          <div class="gt-title">${tTitle}</div>
+          <div class="gt-title">${highlightedTitle}</div>
         </div>
       `;
 
@@ -551,9 +905,32 @@
         </div>
       `;
 
+      // Book pagination footer (Next / Prev table in this guideline)
+      bodyHtml += `
+        <div class="gt-book-footer-bar">
+          <button class="gt-btn gt-btn-prev-table" id="gt-footer-btn-prev">
+            ← ${isRu ? 'Предыдущая таблица' : 'Previous Table'}
+          </button>
+          <button class="gt-btn" id="gt-footer-btn-catalog">
+            📚 ${isRu ? 'Все таблицы' : 'All Tables'}
+          </button>
+          <button class="gt-btn gt-btn-primary gt-btn-next-table" id="gt-footer-btn-next">
+            ${isRu ? 'Следующая таблица' : 'Next Table'} →
+          </button>
+        </div>
+      `;
+
       tableWrapper.innerHTML = bodyHtml;
       container.innerHTML = '';
       container.appendChild(tableWrapper);
+
+      // Attach book footer events
+      const footPrev = tableWrapper.querySelector('#gt-footer-btn-prev');
+      const footNext = tableWrapper.querySelector('#gt-footer-btn-next');
+      const footCat = tableWrapper.querySelector('#gt-footer-btn-catalog');
+      if (footPrev) footPrev.addEventListener('click', () => this.flipTable(-1));
+      if (footNext) footNext.addEventListener('click', () => this.flipTable(1));
+      if (footCat) footCat.addEventListener('click', () => this.handleBackNavigation());
 
       // Attach row / class click events
       this.attachTableInteractions(tableWrapper, table);

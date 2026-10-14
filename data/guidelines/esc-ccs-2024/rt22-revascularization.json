@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt22-revascularization",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 22",
+  "title": {
+    "en": "Recommendations for revascularization in patients with chronic coronary syndrome",
+    "ru": "Рекомендации по реваскуляризации у пациентов с хроническим коронарным синдромом"
+  },
+  "tags": [
+    "ccs",
+    "revascularization",
+    "heart-team",
+    "shared-decision-making",
+    "lvef",
+    "cabg",
+    "pci",
+    "symptoms-relief",
+    "procedural-risks",
+    "sts-score",
+    "syntax-score",
+    "ivus",
+    "oct",
+    "ffr",
+    "ifr",
+    "qfr"
+  ],
+  "source": {
+    "page": 53
+  },
+  "sections": [
+    {
+      "id": "sec-informed-shared-decisions",
+      "title": {
+        "en": "Informed and shared decisions",
+        "ru": "Информированные и совместные решения"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that patients scheduled for percutaneous or surgical revascularization receive complete information about the benefits, risks, therapeutic consequences, and alternatives to revascularization, as part of shared clinical decision-making.",
+            "ru": "Пациентам, которым планируется чрескожная или хирургическая реваскуляризация, рекомендуется предоставлять полную информацию о преимуществах, рисках, терапевтических последствиях и альтернативах вмешательства в рамках совместного принятия клинических решений."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "For complex clinical cases, to define the optimal treatment strategy, in particular when CABG and PCI hold the same level of recommendation, a Heart Team discussion is recommended, including representatives from interventional cardiology, cardiac surgery, non-interventional cardiology, and other specialties if indicated, aimed at selecting the most appropriate treatment to improve patient outcomes and quality of life.",
+            "ru": "В сложных клинических случаях для определения оптимальной стратегии лечения (особенно когда КШ и ЧКВ имеют одинаковый класс рекомендаций) рекомендуется обсуждение мультидисциплинарной кардиологической командой (Heart Team) с участием эндоваскулярного хирурга, кардиохирурга, клинического кардиолога и других специалистов."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "It is recommended to communicate the proposal of the Heart Team in a balanced way using language that the patient can understand.",
+            "ru": "Рекомендуется сообщать пациенту заключение и рекомендации Heart Team во взвешенной и понятной для него форме."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "It is recommended that the decision for revascularization and its modality be patient-centred, considering patient preferences, health literacy, cultural circumstances, and social support.",
+            "ru": "Рекомендуется, чтобы решение о необходимости реваскуляризации и выборе ее метода было пациентоориентированным с учетом предпочтений больного, его медицинской грамотности, социокультурных факторов и уровня поддержки."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "It is recommended that the Heart Team (on site or with a partner institution) develop institutional protocols to implement the appropriate revascularization strategy in accordance with current guidelines.",
+            "ru": "Рекомендуется, чтобы команда Heart Team (в клинике или совместно с партнерским центром) разрабатывала локальные клинические протоколы для реализации надлежащей стратегии реваскуляризации в соответствии с актуальными клиническими руководствами."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-revasc-improve-outcomes-lvef-normal",
+      "title": {
+        "en": "Revascularization to improve outcomes — In chronic coronary syndrome patients with left ventricular ejection fraction >35%",
+        "ru": "Реваскуляризация для улучшения прогноза — У пациентов с ХКС и фракцией выброса левого желудочка >35%"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "In CCS patients with LVEF >35%, myocardial revascularization is recommended, in addition to guideline-directed medical therapy, for patients with functionally significant left main stem stenosis to improve survival.",
+            "ru": "У пациентов с ХКС и ФВ ЛЖ >35% реваскуляризация миокарда в дополнение к оптимальной медикаментозной терапии рекомендуется при функционально значимом стенозе ствола левой коронарной артерии для увеличения выживаемости."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "In CCS patients with LVEF >35%, myocardial revascularization is recommended, in addition to guideline-directed medical therapy, for patients with functionally significant three-vessel disease to improve long-term survival and to reduce long-term cardiovascular mortality and the risk of spontaneous myocardial infarction.",
+            "ru": "У пациентов с ХКС и ФВ ЛЖ >35% реваскуляризация миокарда в дополнение к оптимальной медикаментозной терапии рекомендуется при функционально значимом трехсосудистом поражении для улучшения долгосрочной выживаемости, снижения сердечно-сосудистой смертности и риска спонтанного инфаркта миокарда."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "In CCS patients with LVEF >35%, myocardial revascularization is recommended, in addition to guideline-directed medical therapy, for patients with functionally significant single- or two-vessel disease involving the proximal LAD, to reduce long-term cardiovascular mortality and the risk of spontaneous myocardial infarction.",
+            "ru": "У пациентов с ХКС и ФВ ЛЖ >35% реваскуляризация миокарда в дополнение к оптимальной медикаментозной терапии рекомендуется при функционально значимом 1- или 2-сосудистом поражении с вовлечением проксимальной ПМЖВ для снижения долгосрочной кардиоваскулярной смертности и риска спонтанного инфаркта миокарда."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-revasc-improve-outcomes-lvef-reduced",
+      "title": {
+        "en": "Revascularization to improve outcomes — In chronic coronary syndrome patients with left ventricular ejection fraction ≤35%",
+        "ru": "Реваскуляризация для улучшения прогноза — У пациентов с ХКС и фракцией выброса левого желудочка ≤35%"
+      },
+      "rows": [
+        {
+          "id": "r09",
+          "text": {
+            "en": "In CCS patients with LVEF ≤35%, it is recommended to choose between revascularization or medical therapy alone, after careful evaluation, preferably by the Heart Team, of coronary anatomy, correlation between coronary artery disease and LV dysfunction, comorbidities, life expectancy, individual risk-to-benefit ratio, and patient perspectives.",
+            "ru": "У пациентов с ХКС и ФВ ЛЖ ≤35% рекомендуется индивидуализированный выбор между реваскуляризацией или изолированной медикаментозной терапией после тщательной оценки (желательно с участием Heart Team) коронарной анатомии, связи ИБС с дисфункцией ЛЖ, сопутствующих заболеваний, ожидаемой продолжительности жизни, соотношения риска и пользы, а также мнения самого пациента."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "In surgically eligible CCS patients with multivessel CAD and LVEF ≤35%, myocardial revascularization with CABG is recommended over medical therapy alone to improve long-term survival.",
+            "ru": "У операбельных пациентов с ХКС, многососудистым поражением и ФВ ЛЖ ≤35% реваскуляризация миокарда методом КШ рекомендуется предпочтительнее изолированной медикаментозной терапии для улучшения долгосрочной выживаемости."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r11",
+          "text": {
+            "en": "In selected CCS patients with functionally significant MVD and LVEF ≤35% who are at high surgical risk or not operable, PCI may be considered as an alternative to CABG.",
+            "ru": "У отобранных пациентов с ХКС, функционально значимым многососудистым поражением и ФВ ЛЖ ≤35%, имеющих высокий хирургический риск или признанных неоперабельными, ЧКВ может быть рассмотрено в качестве альтернативы КШ."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-revasc-improve-symptoms",
+      "title": {
+        "en": "Revascularization to improve symptoms",
+        "ru": "Реваскуляризация для уменьшения выраженности симптомов"
+      },
+      "rows": [
+        {
+          "id": "r12",
+          "text": {
+            "en": "In CCS patients with persistent angina or anginal equivalent, despite guideline-directed medical treatment, myocardial revascularization of functionally significant obstructive CAD is recommended to improve symptoms.",
+            "ru": "У пациентов с ХКС с сохраняющейся стенокардией или ее эквивалентами, несмотря на оптимальную медикаментозную терапию, рекомендуется реваскуляризация миокарда функционально значимых обструктивных стенозов для облегчения симптомов."
+          },
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-procedural-risks-outcomes",
+      "title": {
+        "en": "Assessment of procedural risks and post-procedural outcomes",
+        "ru": "Оценка процедурных рисков и исходов вмешательства"
+      },
+      "rows": [
+        {
+          "id": "r13",
+          "text": {
+            "en": "In patients with complex CAD in whom revascularization is being considered, it is recommended to assess procedural risks and post-procedural outcomes to guide shared clinical decision-making.",
+            "ru": "У пациентов со сложным поражением коронарного русла, рассматриваемых для реваскуляризации, рекомендуется оценка процедурных рисков и ожидаемых исходов для обоснованного совместного принятия решений."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r14",
+          "text": {
+            "en": "Calculation of the STS score is recommended to estimate in-hospital morbidity and 30-day mortality after CABG.",
+            "ru": "Рекомендуется расчет шкалы STS для оценки госпитальных осложнений и 30-дневной летальности после коронарного шунтирования."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r15",
+          "text": {
+            "en": "In patients with multivessel obstructive CAD, calculation of the SYNTAX score is recommended to assess the anatomical complexity of disease.",
+            "ru": "У пациентов с многососудистым обструктивным поражением рекомендуется расчет индекса SYNTAX для объективной оценки анатомической сложности поражения."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r16",
+          "text": {
+            "en": "Intracoronary imaging guidance by IVUS or OCT is recommended when performing PCI on anatomically complex lesions, in particular left main stem, true bifurcations, and long lesions.",
+            "ru": "Внутрисосудистая визуализация с помощью ВСУЗИ (IVUS) или ОКТ (OCT) рекомендуется при выполнении ЧКВ на анатомически сложных поражениях, особенно ствола ЛКА, истинных бифуркаций и протяженных стенозов."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r17",
+          "text": {
+            "en": "Intracoronary pressure measurement (FFR or iFR) or computation (QFR) is recommended to guide lesion selection for intervention in patients with multivessel disease.",
+            "ru": "Внутрикоронарное измерение давления (FFR или iFR) или расчет (QFR) рекомендуется для выбора целевых поражений при вмешательстве у пациентов с многососудистым поражением."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r18",
+          "text": {
+            "en": "Intracoronary pressure measurement (FFR or iFR) or computation (QFR) should be considered at the end of the procedure to identify patients at high risk of persistent angina and subsequent clinical events.",
+            "ru": "Внутрикоронарное измерение давления (FFR или iFR) или расчет (QFR) следует рассмотреть в конце процедуры для выявления пациентов с высоким риском персистирующей стенокардии и последующих неблагоприятных событий."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r19",
+          "text": {
+            "en": "Intracoronary pressure measurement (FFR or iFR) or computation (QFR) may be considered at the end of the procedure to identify lesions potentially amenable to treatment with additional PCI.",
+            "ru": "Внутрикоронарное измерение давления (FFR или iFR) или расчет (QFR) может рассматриваться в конце процедуры для выявления поражений, подлежащих коррекции дополнительным стентированием."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-choice-revasc-modality",
+      "title": {
+        "en": "Choice of revascularization modality",
+        "ru": "Выбор метода реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r20",
+          "text": {
+            "en": "It is recommended that physicians select the most appropriate revascularization modality based on patient profile (age, frailty, cognitive status, diabetes, and other comorbidities), coronary anatomy (multivessel disease with/out left main stem involvement, high anatomical complexity, and likelihood of revascularization completeness), procedural factors (local expertise and outcomes, surgical and interventional risk), LVEF, preferences, and outcome expectations.",
+            "ru": "Рекомендуется, чтобы врачи выбирали наиболее подходящий метод реваскуляризации на основании профиля пациента (возраст, старческая астения, когнитивный статус, диабет, коморбидность), анатомии коронарного русла (многососудистое поражение, ствол ЛКА, сложность и вероятность полной реваскуляризации), процедурных факторов (опыт центра, хирургический и интервенционный риск), ФВ ЛЖ, предпочтений и ожиданий больного."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

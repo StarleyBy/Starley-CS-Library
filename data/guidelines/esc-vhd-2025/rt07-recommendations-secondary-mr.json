@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt07-recommendations-secondary-mr",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 7",
+  "title": {
+    "en": "Recommendations on indications for intervention in secondary mitral regurgitation",
+    "ru": "Рекомендации по показаниям к вмешательству при вторичной митральной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "smr",
+    "secondary-mitral-regurgitation",
+    "atrial-smr",
+    "ventricular-smr",
+    "teer",
+    "m-teer",
+    "mv-surgery",
+    "cabg",
+    "pci",
+    "laao",
+    "surgical-ablation"
+  ],
+  "sections": [
+    {
+      "id": "sec-severe-atrial-smr",
+      "title": {
+        "en": "Severe atrial secondary mitral regurgitation",
+        "ru": "Тяжелая предсердная вторичная митральная регургитация (Atrial SMR)"
+      },
+      "rows": [
+        {
+          "id": "r01-atrial-smr-surgery-ablation-laao",
+          "text": {
+            "en": "MV surgery, surgical AF ablation, if indicated, and LAAO should be considered in symptomatic patients with severe atrial SMR under optimal medical therapy.",
+            "ru": "Хирургическую операцию на МК, хирургическую аблацию ФП (при наличии показаний) и окклюзию ушка ЛП следует рассматривать у симптомных пациентов с тяжелой предсердной ВМР на фоне оптимальной медикаментозной терапии."
+          },
+          "refs": [627, 628, 629, 630, 636, 637],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r02-atrial-smr-teer-inoperable",
+          "text": {
+            "en": "TEER may be considered in symptomatic patients with severe atrial SMR not eligible for surgery after optimization of medical therapy including rhythm control, when appropriate.",
+            "ru": "Транскатетерную пластику «край-в-край» (TEER) можно рассматривать у симптомных пациентов с тяжелой предсердной ВМР, не подходящих для хирургического лечения, после оптимизации медикаментозной терапии, включая контроль ритма (при целесообразности)."
+          },
+          "refs": [588, 590, 638, 639],
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-ventricular-smr-with-cad",
+      "title": {
+        "en": "Ventricular secondary mitral regurgitation and concomitant coronary artery disease",
+        "ru": "Желудочковая вторичная митральная регургитация и сопутствующая ИБС"
+      },
+      "rows": [
+        {
+          "id": "r03-severe-ventricular-smr-cabg",
+          "text": {
+            "en": "MV surgery is recommended in patients with severe ventricular SMR undergoing CABG.",
+            "ru": "Хирургическое вмешательство на митральном клапане рекомендуется пациентам с тяжелой желудочковой ВМР, подвергающимся коронарному шунтированию (КШ)."
+          },
+          "refs": [640],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04-moderate-ventricular-smr-cabg",
+          "text": {
+            "en": "MV surgery may be considered in patients with moderate SMR undergoing CABG.",
+            "ru": "Хирургическое вмешательство на митральном клапане можно рассматривать у пациентов с умеренной ВМР, подвергающихся КШ."
+          },
+          "refs": [622, 623, 624, 641, 642],
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r05-pci-followed-by-teer",
+          "text": {
+            "en": "PCI followed by TEER after re-evaluation of MR may be considered in symptomatic patients with chronic severe ventricular SMR and non-complex CAD.",
+            "ru": "ЧКВ с последующим выполнением TEER после повторной оценки тяжести МР можно рассматривать у симптоматических пациентов с хронической тяжелой желудочковой ВМР и несложным поражением коронарных артерий."
+          },
+          "refs": [150],
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-ventricular-smr-without-cad",
+      "title": {
+        "en": "Severe ventricular secondary mitral regurgitation without concomitant coronary artery disease",
+        "ru": "Тяжелая желудочковая вторичная митральная регургитация без сопутствующей ИБС"
+      },
+      "rows": [
+        {
+          "id": "r06-teer-coapt-criteria",
+          "text": {
+            "en": "TEER is recommended to reduce HF hospitalizations and improve quality of life in haemodynamically stable, symptomatic patients with impaired LVEF (<50%) and persistent severe ventricular SMR, despite optimized GDMT and CRT (if indicated), fulfilling specific clinical and echocardiographic criteria.^[c]",
+            "ru": "Транскатетерная пластика «край-в-край» (TEER) рекомендуется для снижения числа госпитализаций по поводу СН и улучшения качества жизни у гемодинамически стабильных симптоматических пациентов со сниженной ФВ ЛЖ (<50%) и персистирующей тяжелой желудочковой ВМР, несмотря на оптимальную медикаментозную терапию (ОМТ/GDMT) и СРТ (при наличии показаний), соответствующих специальным клиническим и эхокардиографическим критериям отбора.^[c]"
+          },
+          "refs": [583, 584, 606, 608, 643],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r07-teer-outside-coapt-lvad-htx",
+          "text": {
+            "en": "TEER may be considered for symptom improvement in selected symptomatic patients with severe ventricular SMR not fulfilling the specific clinical and echocardiographic criteria,^[c] after careful evaluation of LVAD or HTx.",
+            "ru": "TEER можно рассматривать для уменьшения симптомов у отдельных симптомных пациентов с тяжелой желудочковой ВМР, не соответствующих критериям отбора,^[c] после тщательной оценки показаний к имплантации аппарата вспомогательного кровообращения ЛЖ (LVAD) или трансплантации сердца (HTx)."
+          },
+          "refs": [303, 608, 609, 610],
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r08-mv-surgery-not-suitable-teer",
+          "text": {
+            "en": "MV surgery may be considered in symptomatic patients with severe ventricular SMR without advanced HF who are not suitable for TEER.",
+            "ru": "Хирургическое вмешательство на митральном клапане можно рассматривать у симптомных пациентов с тяжелой желудочковой ВМР без терминальной ХСН, не подходящих для транскатетерной пластики (TEER)."
+          },
+          "refs": [617],
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "c": {
+      "en": "See Table 7 (Clinical and echocardiographic criteria predicting outcome improvement in patients undergoing M-TEER).",
+      "ru": "См. Таблицу 7 (Клинические и эхокардиографические критерии, прогнозирующие пользу M-TEER)."
+    }
+  }
+}

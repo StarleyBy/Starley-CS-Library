@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt02-ecg-baseline",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 2",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 2 — Recommendations for electrocardiogram baseline assessment",
+    "ru": "Таблица рекомендаций 2 — Рекомендации по исходной оценке электрокардиограммы"
+  },
+  "tags": [
+    "cardio-oncology",
+    "ecg",
+    "qt-prolongation",
+    "arrhythmias",
+    "baseline-assessment"
+  ],
+  "sections": [
+    {
+      "id": "sec01",
+      "title": {
+        "en": "Baseline electrocardiogram evaluation",
+        "ru": "Исходная электрокардиографическая оценка"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "An ECG is recommended in all patients starting cancer therapy as part of their baseline CV risk assessment.",
+            "ru": "Регистрация ЭКГ рекомендуется всем пациентам, начинающим противоопухолевую терапию, как обязательная часть исходной оценки сердечно-сосудистого риска."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with an abnormal baseline ECG, referral to a cardiologist is recommended.",
+            "ru": "У пациентов с патологическими изменениями на исходной ЭКГ рекомендуется направление на консультацию к кардиологу/кардиоонкологу."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

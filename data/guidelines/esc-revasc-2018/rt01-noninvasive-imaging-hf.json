@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt01-noninvasive-imaging-hf",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 1",
+  "title": {
+    "en": "Recommendations for non-invasive imaging in patients with coronary artery disease and heart failure with reduced ejection fraction",
+    "ru": "Рекомендации по неинвазивной визуализации у пациентов с ишемической болезнью сердца и сердечной недостаточностью со сниженной фракцией выброса"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Non-invasive imaging in CAD and HFrEF",
+        "ru": "Неинвазивная визуализация при ИБС и СНнФВ"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Non-invasive stress imaging (CMR, stress echocardiography, SPECT, or PET) may be considered for the assessment of myocardial ischaemia and viability in patients with HF and CAD (considered suitable for coronary revascularization) before the decision on revascularization.",
+            "ru": "Неинвазивная стресс-визуализация (МРТ сердца, стресс-эхокардиография, ОФЭКТ или ПЭТ) может быть рассмотрена для оценки ишемии и жизнеспособности миокарда у пациентов с СН и ИБС (считающихся подходящими для реваскуляризации) до принятия решения о реваскуляризации."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

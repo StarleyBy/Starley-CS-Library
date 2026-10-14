@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt25-ctrcd-her2-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 25",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 25 — Recommendations for the management of cancer treatment-related cardiac dysfunction during human epidermal receptor 2-targeted therapies",
+    "ru": "Таблица рекомендаций 25 — Рекомендации по ведению кардиальной дисфункции, связанной с противоопухолевой терапией (CTRCD), во время таргетной терапии против HER2"
+  },
+  "tags": [
+    "cardio-oncology",
+    "her2",
+    "trastuzumab",
+    "ctrcd",
+    "lvef",
+    "heart-failure",
+    "gls",
+    "troponin",
+    "np",
+    "ace-i",
+    "arb",
+    "beta-blockers"
+  ],
+  "source": {
+    "page": 53
+  },
+  "sections": [
+    {
+      "id": "sec01-symptomatic-ctrcd",
+      "title": {
+        "en": "HER2-targeted therapy-induced symptomatic CTRCD",
+        "ru": "Симптоматическая CTRCD, вызванная таргетной терапией против HER2"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "HF therapy is recommended for patients who develop symptomatic moderate-to-severe CTRCD with LVEF < 50% during HER2-targeted treatment.",
+            "ru": "Терапия сердечной недостаточности рекомендуется пациентам, у которых развивается симптоматическая умеренная или тяжелая CTRCD со снижением ФВ ЛЖ < 50% во время таргетной терапии против HER2."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Temporary interruption of HER2-targeted treatment is recommended in patients who develop moderate or severe symptomatic CTRCD and the decision to restart should be based on a multidisciplinary approach after improvement of LV function and symptoms resolved (for patients where therapy was interrupted and who recovered LVEF ≥ 40% and are asymptomatic, resumption should be considered supported by HF therapy and echo/biomarkers every two cycles for the first 4 cycles).",
+            "ru": "Временное прерывание таргетной терапии против HER2 рекомендуется пациентам, у которых развивается умеренная или тяжелая симптоматическая CTRCD; решение о возобновлении должно приниматься мультидисциплинарно после восстановления функции ЛЖ и купирования симптомов (при восстановлении ФВ ЛЖ ≥ 40% и отсутствии симптомов возобновление терапии следует рассмотреть на фоне лечения СН с контролем ЭхоКГ и биомаркеров каждые 2 цикла первые 4 цикла)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients who develop mild symptomatic CTRCD, HF therapy and a multidisciplinary approach regarding the decision to continue vs. interrupt HER2-targeted therapy are recommended.",
+            "ru": "У пациентов с легкой симптоматической CTRCD рекомендуется терапия сердечной недостаточности и мультидисциплинарный подход при принятии решения о продолжении или прерывании терапии против HER2."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec02-asymptomatic-ctrcd",
+      "title": {
+        "en": "HER2-targeted therapy-induced asymptomatic CTRCD",
+        "ru": "Бессимптомная CTRCD, вызванная таргетной терапией против HER2"
+      },
+      "rows": [
+        {
+          "id": "r04",
+          "text": {
+            "en": "Temporary interruption of HER2-targeted therapy and initiation of HF therapy is recommended in patients who develop asymptomatic severe CTRCD.",
+            "ru": "Временное прерывание таргетной терапии против HER2 и назначение терапии СН рекомендуются пациентам с развившейся тяжелой бессимптомной CTRCD."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "A multidisciplinary approach regarding the decision to restart HER2-targeted treatment is recommended in patients with severe asymptomatic CTRCD.",
+            "ru": "Мультидисциплинарный подход относительно решения о возобновлении лечения против HER2 рекомендуется пациентам с тяжелой бессимптомной CTRCD."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Continuation of HER2-targeted therapy should be considered in patients who develop asymptomatic moderate (LVEF 40–49%) CTRCD with more frequent cardiac monitoring.",
+            "ru": "Продолжение таргетной терапии против HER2 следует рассмотреть у пациентов с развившейся умеренной бессимптомной CTRCD (ФВ ЛЖ 40–49%) на фоне более частого кардиологического мониторинга."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Continuation of HER2-targeted therapy is recommended in patients who develop asymptomatic mild (LVEF ≥ 50%) CTRCD with more frequent cardiac monitoring.",
+            "ru": "Продолжение таргетной терапии против HER2 рекомендуется пациентам с легкой бессимптомной CTRCD (ФВ ЛЖ ≥ 50%) на фоне более частого кардиологического мониторинга."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "ACE-I/ARB and beta-blockers are recommended in patients who develop asymptomatic moderate (LVEF 40–49%) CTRCD during HER2-targeted treatment (avoid hypotension).",
+            "ru": "Назначение иАПФ/БРА и бета-блокаторов рекомендуется пациентам, у которых развилась умеренная бессимптомная CTRCD (ФВ ЛЖ 40–49%) на фоне лечения препаратами против HER2 (избегая артериальной гипотензии)."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r09",
+          "text": {
+            "en": "ACE-I/ARB and/or beta-blockers should be considered in asymptomatic patients receiving HER2-targeted therapies who have LVEF ≥ 50% but develop a significant fall in GLS while continuing HER2-targeted therapy (avoid hypotension).",
+            "ru": "Назначение иАПФ/БРА и/или бета-блокаторов следует рассмотреть у бессимптомных пациентов, получающих терапию против HER2 с сохраненной ФВ ЛЖ ≥ 50%, при возникновении значимого падения GLS на фоне продолжения противоопухолевого лечения (избегая гипотензии)."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r10",
+          "text": {
+            "en": "ACE-I/ARB and/or beta-blockers should be considered in asymptomatic patients receiving HER2-targeted therapies who have LVEF ≥ 50% but develop a new troponin or NP rise while continuing HER2-targeted therapy (avoid hypotension).",
+            "ru": "Назначение иАПФ/БРА и/или бета-блокаторов следует рассмотреть у бессимптомных пациентов, получающих терапию против HER2 с сохраненной ФВ ЛЖ ≥ 50%, при возникновении нового подъема тропонина или NP на фоне продолжения противоопухолевого лечения (избегая гипотензии)."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

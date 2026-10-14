@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.rt16-recommendations-antithrombotic-bhv-repair",
+  "guidelineId": "esc-vhd-2025",
+  "type": "recommendations",
+  "number": "Recommendation Table 16",
+  "title": {
+    "en": "Recommendations for the management of antithrombotic therapy in patients with a biological heart valve or valve repair",
+    "ru": "Рекомендации по ведению антитромботической терапии у пациентов с биологическим протезом клапана сердца или после реконструктивной пластики клапана"
+  },
+  "tags": [
+    "vhd",
+    "bhv",
+    "tavi",
+    "valve-repair",
+    "antithrombotic",
+    "asa",
+    "vka",
+    "doac",
+    "af",
+    "mv-repair",
+    "tv-repair",
+    "av-repair"
+  ],
+  "sections": [
+    {
+      "id": "sec-surgical-bhv-no-oac",
+      "title": {
+        "en": "Surgical biological heart valve without indication for oral anticoagulation",
+        "ru": "Хирургический биологический протез без исходных показаний к пероральной антикоагуляции"
+      },
+      "rows": [
+        {
+          "id": "r01-aortic-bhv-first-3-months",
+          "text": {
+            "en": "Low-dose ASA (75–100 mg/day) or OAC using a VKA should be considered for the first 3 months after surgical implantation of an aortic BHV in patients without clear indication for OAC.",
+            "ru": "Низкие дозы аспирина (75–100 мг/сут) или ОАК с использованием АВК следует рассматривать в течение первых 3 месяцев после хирургической имплантации аортального биопротеза у пациентов без четких показаний к ОАК."
+          },
+          "refs": [865, 866],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r02-mitral-tricuspid-bhv-first-3-months",
+          "text": {
+            "en": "A VKA should be considered for the first 3 months after surgical implantation of a mitral or tricuspid BHV in patients without clear indication for OAC.",
+            "ru": "Прием АВК следует рассматривать в течение первых 3 месяцев после хирургической имплантации митрального или трикуспидального биопротеза у пациентов без четких показаний к ОАК."
+          },
+          "refs": [867, 868],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r03-lifelong-asa-surgical-bhv",
+          "text": {
+            "en": "Lifelong low-dose ASA (75–100 mg/day) may be considered 3 months after surgical implantation of an aortic or mitral BHV in patients without clear indication for OAC.",
+            "ru": "Пожизненный прием низких доз аспирина (75–100 мг/сут) можно рассматривать через 3 месяца после хирургической имплантации аортального или митрального биопротеза у пациентов без четких показаний к ОАК."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-tavi-no-oac",
+      "title": {
+        "en": "Transcatheter aortic valve implantation without indication for oral anticoagulation",
+        "ru": "Транскатетерная имплантация аортального клапана (TAVI) без исходных показаний к пероральной антикоагуляции"
+      },
+      "rows": [
+        {
+          "id": "r04-tavi-asa-12-months",
+          "text": {
+            "en": "Low-dose ASA (75–100 mg/day) is recommended for 12 months after TAVI in patients without indication for OAC.",
+            "ru": "Низкие дозы аспирина (75–100 мг/сут) рекомендуются в течение 12 месяцев после TAVI у пациентов без показаний к ОАК."
+          },
+          "refs": [869, 880, 881, 882],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r05-tavi-asa-long-term",
+          "text": {
+            "en": "Long-term (after the first 12 months) low-dose ASA (75–100 mg/day) should be considered after TAVI in patients without clear indication for OAC.",
+            "ru": "Длительный (по прошествии первых 12 месяцев) прием низких доз аспирина (75–100 мг/сут) следует рассматривать после TAVI у пациентов без четких показаний к ОАК."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06-tavi-dapt-not-recommended",
+          "text": {
+            "en": "DAPT is not recommended to prevent thrombosis after TAVI, unless there is a clear indication.",
+            "ru": "Двойная антитромбоцитарная терапия (ДАТТ/DAPT) не рекомендуется для профилактики тромбоза после TAVI при отсутствии четких показаний."
+          },
+          "refs": [881],
+          "class": "III",
+          "level": "B"
+        },
+        {
+          "id": "r07-tavi-routine-oac-not-recommended",
+          "text": {
+            "en": "Routine use of OAC is not recommended after TAVI in patients without baseline indication.",
+            "ru": "Рутинное применение пероральных антикоагулянтов (ОАК) не рекомендуется после TAVI у пациентов без исходных показаний."
+          },
+          "refs": [869, 880],
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "sec-surgical-repair-no-oac",
+      "title": {
+        "en": "Surgical repair without indication for oral anticoagulation",
+        "ru": "Хирургическая пластика клапанов без исходных показаний к пероральной антикоагуляции"
+      },
+      "rows": [
+        {
+          "id": "r08-repair-mv-tv-oac-3-months",
+          "text": {
+            "en": "OAC, with either VKAs or DOACs, should be considered during the first 3 months after surgical MV or TV repair.",
+            "ru": "Пероральную антикоагуляцию (АВК или ПОАК) следует рассматривать в течение первых 3 месяцев после хирургической пластики митрального или трикуспидального клапана."
+          },
+          "refs": [884, 885, 886, 887, 888],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r09-repair-av-asa-3-months",
+          "text": {
+            "en": "Low-dose ASA (75–100 mg/day) should be considered for the first 3 months after surgical AV repair in patients without indication for OAC.",
+            "ru": "Низкие дозы аспирина (75–100 мг/сут) следует рассматривать в течение первых 3 месяцев после хирургической пластики аортального клапана у пациентов без показаний к ОАК."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r10-repair-mv-tv-asa-high-bleeding-risk",
+          "text": {
+            "en": "Low-dose ASA (75–100 mg/day) may be considered after surgical MV or TV repair in preference to OAC in patients without clear indication for OAC and at high bleeding risk.",
+            "ru": "Низкие дозы аспирина (75–100 мг/сут) можно рассматривать после хирургической пластики МК или ТК предпочтительнее ОАК у пациентов без четких показаний к антикоагулянтам при высоком риске кровотечений."
+          },
+          "refs": [884, 885, 886, 887, 888],
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-surgical-bhv-with-oac",
+      "title": {
+        "en": "Surgical biological heart valve with indication for oral anticoagulation",
+        "ru": "Хирургический биопротез с сопутствующими показаниями к пероральной антикоагуляции"
+      },
+      "rows": [
+        {
+          "id": "r11-surgical-bhv-oac-continuation",
+          "text": {
+            "en": "OAC continuation is recommended in patients with a clear indication for OAC undergoing surgical BHV implantation.",
+            "ru": "Продолжение приема ОАК рекомендуется пациентам с четкими показаниями к антикоагулянтам, переносящим хирургическую имплантацию биопротеза."
+          },
+          "refs": [877, 889, 890],
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r12-surgical-bhv-doac-over-vka-after-3m",
+          "text": {
+            "en": "DOACs should be considered over VKAs after 3 months following surgical implantation of a BHV in patients with AF.",
+            "ru": "ПОАК (DOAC) следует рассматривать предпочтительнее АВК через 3 месяца после хирургической имплантации биопротеза у пациентов с ФП."
+          },
+          "refs": [873, 874, 876, 891],
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r13-surgical-bhv-doac-continuation",
+          "text": {
+            "en": "DOAC continuation may be considered after surgical BHV implantation in patients with an indication for DOAC.",
+            "ru": "Продолжение приема ПОАК можно рассматривать после хирургической имплантации биопротеза у пациентов с показаниями к приему ПОАК."
+          },
+          "refs": [877, 889, 890],
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-tavi-with-oac",
+      "title": {
+        "en": "Transcatheter biological heart valve with indication for oral anticoagulation",
+        "ru": "Транскатетерный биопротез (TAVI) с показаниями к пероральной антикоагуляции"
+      },
+      "rows": [
+        {
+          "id": "r14-tavi-oac-indicated",
+          "text": {
+            "en": "OAC is recommended for TAVI patients who have other indications for OAC.",
+            "ru": "Пероральная антикоагулянтная терапия рекомендуется пациентам после TAVI, имеющим другие показания к ОАК."
+          },
+          "refs": [879, 892, 893, 894],
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "sec-repair-with-oac-antiplatelet",
+      "title": {
+        "en": "Surgical repair with indication for oral anticoagulation and/or antiplatelet therapy",
+        "ru": "Хирургическая пластика клапана с показаниями к ОАК и/или антиагрегантной терапии"
+      },
+      "rows": [
+        {
+          "id": "r15-repair-continuation-oac-antiplatelet",
+          "text": {
+            "en": "Continuation of OAC or antiplatelet therapy should be considered after surgical valve repair in patients with a clear indication for an antithrombotic therapy.",
+            "ru": "Продолжение приема ОАК или антиагрегантной терапии следует рассматривать после хирургической пластики клапана у пациентов с четкими показаниями к антитромботической терапии."
+          },
+          "refs": [890],
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

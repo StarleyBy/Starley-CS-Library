@@ -1,0 +1,289 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.t06-syntax-score-calculation",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Table 6",
+  "title": {
+    "en": "Guide for calculating the SYNTAX score",
+    "ru": "Руководство по расчету шкалы SYNTAX score"
+  },
+  "type": "grid",
+  "columns": [
+    {
+      "id": "step",
+      "title": {
+        "en": "Steps",
+        "ru": "Шаг"
+      }
+    },
+    {
+      "id": "variable",
+      "title": {
+        "en": "Variable assessed",
+        "ru": "Оцениваемый параметр"
+      }
+    },
+    {
+      "id": "description",
+      "title": {
+        "en": "Description",
+        "ru": "Описание и баллы"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "step1",
+      "cells": [
+        {
+          "text": {
+            "en": "Step 1",
+            "ru": "Шаг 1"
+          }
+        },
+        {
+          "text": {
+            "en": "Dominance",
+            "ru": "Тип доминирования"
+          }
+        },
+        {
+          "text": {
+            "en": "The weight of individual coronary segments varies according to coronary artery dominance (right or left). Co-dominance does not exist as an option in the SYNTAX score.",
+            "ru": "Весовой коэффициент отдельных коронарных сегментов варьирует в зависимости от типа доминирования кровообращения (правый или левый). Сбалансированный тип (ко-доминирование) в шкале SYNTAX не предусмотрен."
+          }
+        }
+      ]
+    },
+    {
+      "id": "step2",
+      "cells": [
+        {
+          "text": {
+            "en": "Step 2",
+            "ru": "Шаг 2"
+          }
+        },
+        {
+          "text": {
+            "en": "Coronary segment",
+            "ru": "Коронарный сегмент"
+          }
+        },
+        {
+          "text": {
+            "en": "The diseased coronary segment directly affects the score as each coronary segment is assigned a weight depending on its location, ranging from 0.5 (i.e. the posterolateral branch) to 6 (i.e. left main in case of left dominance). Weighting factors: Left main (+5 for right, +6 for left dominance); LAD proximal (+3.5), mid (+2.5), apical (+1); Circumflex proximal (+1.5 for right, +2.5 for left dominance), obtuse marginal (+1), posterolateral (+0.5); RCA proximal (+1), mid (+1), distal (+1), PDA (+1 for right dominance).",
+            "ru": "Пораженный коронарный сегмент напрямую влияет на суммарный балл, так как каждому сегменту присвоен весовой коэффициент в зависимости от локализации — от 0,5 (заднебоковая ветвь) до 6 (ствол ЛКА при левом типе доминирования). Весовые коэффициенты: ствол ЛКА (+5 при правом, +6 при левом типе); ПМЖВ проксимальный (+3,5), средний (+2,5), верхушечный (+1); ОВ проксимальный (+1,5 при правом, +2,5 при левом типе), ВТК (+1), заднебоковая ветвь (+0,5); ПКА проксимальный (+1), средний (+1), дистальный (+1), ЗМЖВ (+1 при правом типе)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "step3",
+      "cells": [
+        {
+          "text": {
+            "en": "Step 3",
+            "ru": "Шаг 3"
+          }
+        },
+        {
+          "text": {
+            "en": "Diameter stenosis",
+            "ru": "Процент стеноза по диаметру"
+          }
+        },
+        {
+          "text": {
+            "en": "The score of each diseased coronary segment is multiplied by two in case of a stenosis 50–99% and by five in case of total occlusion.\nIn case of total occlusion, additional points will be added as follows:\n• Age >3 months or unknown: +1\n• Blunt stump: +1\n• Bridging: +1\n• First segment visible distally: +1 per non-visible segment\n• Side branch at the occlusion: +1 if <1.5 mm diameter; +1 if both <1.5 mm and ≥1.5 mm diameter; +0 if ≥1.5 mm diameter (i.e. bifurcation lesion)",
+            "ru": "Балл каждого пораженного сегмента умножается на 2 при стенозе 50–99% и на 5 при полной окклюзии (100%).\nПри полной окклюзии начисляются дополнительные баллы:\n• Давность окклюзии >3 месяцев или неизвестна: +1\n• Тупая культя (blunt stump): +1\n• Мостовидные коллатерали (bridging): +1\n• Первый дистально визуализируемый сегмент: +1 за каждый невизуализируемый сегмент\n• Боковая ветвь в зоне окклюзии: +1 если диаметр <1,5 мм; +1 если присутствуют обе (<1,5 мм и ≥1,5 мм); +0 если ≥1,5 мм (т.е. бифуркационное поражение)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "step4",
+      "cells": [
+        {
+          "text": {
+            "en": "Step 4",
+            "ru": "Шаг 4"
+          }
+        },
+        {
+          "text": {
+            "en": "Trifurcation lesion",
+            "ru": "Трифуркационное поражение"
+          }
+        },
+        {
+          "text": {
+            "en": "The presence of a trifurcation lesion adds additional points based on the number of diseased segments:\n• 1 segment: +3\n• 2 segments: +4\n• 3 segments: +5\n• 4 segments: +6",
+            "ru": "Наличие трифуркационного поражения добавляет баллы в зависимости от числа пораженных сегментов:\n• 1 сегмент: +3\n• 2 сегмента: +4\n• 3 сегмента: +5\n• 4 сегмента: +6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "step5",
+      "cells": [
+        {
+          "text": {
+            "en": "Step 5",
+            "ru": "Шаг 5"
+          }
+        },
+        {
+          "text": {
+            "en": "Bifurcation lesion",
+            "ru": "Бифуркационное поражение"
+          }
+        },
+        {
+          "text": {
+            "en": "The presence of a bifurcation lesion adds additional points based on the type of bifurcation according to the Medina classification:\n• Medina 1,0,0 / 0,1,0 / 1,1,0: +1\n• Medina 1,1,1 / 0,0,1 / 1,0,1 / 0,1,1: +2\nMoreover, the presence of a bifurcation angle <70° adds one additional point (+1).",
+            "ru": "Наличие бифуркационного поражения добавляет баллы в зависимости от типа по классификации Medina:\n• Medina 1,0,0 / 0,1,0 / 1,1,0: +1\n• Medina 1,1,1 / 0,0,1 / 1,0,1 / 0,1,1: +2\nКроме того, наличие бифуркационного угла <70° добавляет еще один балл (+1)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "step6",
+      "cells": [
+        {
+          "text": {
+            "en": "Step 6",
+            "ru": "Шаг 6"
+          }
+        },
+        {
+          "text": {
+            "en": "Aorto-ostial lesion",
+            "ru": "Аорто-устьевое поражение"
+          }
+        },
+        {
+          "text": {
+            "en": "The presence of aorto-ostial lesion segments adds one additional point (+1).",
+            "ru": "Наличие аорто-устьевого поражения сегментов добавляет один балл (+1)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "step7",
+      "cells": [
+        {
+          "text": {
+            "en": "Step 7",
+            "ru": "Шаг 7"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe tortuosity",
+            "ru": "Выраженная извитость"
+          }
+        },
+        {
+          "text": {
+            "en": "The presence of severe tortuosity proximal of the diseased segment adds two additional points (+2).",
+            "ru": "Наличие выраженной извитости проксимальнее пораженного сегмента добавляет два балла (+2)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "step8",
+      "cells": [
+        {
+          "text": {
+            "en": "Step 8",
+            "ru": "Шаг 8"
+          }
+        },
+        {
+          "text": {
+            "en": "Lesion length",
+            "ru": "Протяженность поражения"
+          }
+        },
+        {
+          "text": {
+            "en": "Lesion length >20 mm adds one additional point (+1).",
+            "ru": "Протяженность поражения >20 мм добавляет один балл (+1)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "step9",
+      "cells": [
+        {
+          "text": {
+            "en": "Step 9",
+            "ru": "Шаг 9"
+          }
+        },
+        {
+          "text": {
+            "en": "Calcification",
+            "ru": "Кальциноз"
+          }
+        },
+        {
+          "text": {
+            "en": "The presence of heavy calcification adds two additional points (+2).",
+            "ru": "Наличие выраженного кальциноза добавляет два балла (+2)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "step10",
+      "cells": [
+        {
+          "text": {
+            "en": "Step 10",
+            "ru": "Шаг 10"
+          }
+        },
+        {
+          "text": {
+            "en": "Thrombus",
+            "ru": "Тромбоз"
+          }
+        },
+        {
+          "text": {
+            "en": "The presence of thrombus adds one additional point (+1).",
+            "ru": "Наличие внутрисосудистого тромба добавляет один балл (+1)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "step11",
+      "cells": [
+        {
+          "text": {
+            "en": "Step 11",
+            "ru": "Шаг 11"
+          }
+        },
+        {
+          "text": {
+            "en": "Diffuse disease / small vessels",
+            "ru": "Диффузное поражение / сосуды малого диаметра"
+          }
+        },
+        {
+          "text": {
+            "en": "The presence of diffusely diseased and narrowed segments distal to the lesion (i.e. when at least 75% of the length of the segment distal to the lesion has a vessel diameter <2 mm) adds one point per segment number (+1 per segment).",
+            "ru": "Наличие диффузно пораженных и суженных сегментов дистальнее поражения (т.е. когда как минимум на 75% длины сегмента диаметр сосуда <2 мм) добавляет один балл за каждый такой сегмент (+1 за сегмент)."
+          }
+        }
+      ]
+    }
+  ]
+}

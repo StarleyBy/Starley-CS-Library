@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt23-cv-disease-management",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 23",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 23 — Recommendation for the management of cardiovascular disease and cancer therapy-related cardiovascular toxicity in patients receiving anticancer treatment",
+    "ru": "Таблица рекомендаций 23 — Рекомендация по ведению сердечно-сосудистых заболеваний и кардиоваскулярной токсичности у пациентов, получающих противоопухолевое лечение"
+  },
+  "tags": [
+    "cardio-oncology",
+    "specialist-assessment",
+    "referral",
+    "cv-toxicity",
+    "management"
+  ],
+  "source": {
+    "page": 49
+  },
+  "sections": [
+    {
+      "id": "sec01-specialist-assessment",
+      "title": {
+        "en": "Specialist CV assessment",
+        "ru": "Специализированная кардиологическая оценка"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "A specialist CV assessment (cardio-oncology referral when available; alternatively, referral to a specialized cardiologist with expertise in managing CVD in patients with cancer) is recommended for optimal diagnostic workup and management of patients with cancer who present with new CV toxicity during and after cancer treatment.",
+            "ru": "Специализированная кардиологическая оценка (направление к кардиоонкологу при доступности; в противном случае — к кардиологу с опытом ведения ССЗ у онкологических пациентов) рекомендуется для оптимального диагностического поиска и ведения пациентов с онкологическими заболеваниями при развитии новых признаков кардиоваскулярной токсичности во время и после противоопухолевого лечения."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

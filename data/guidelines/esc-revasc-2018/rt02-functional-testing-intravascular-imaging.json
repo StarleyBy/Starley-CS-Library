@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt02-functional-testing-intravascular-imaging",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 2",
+  "title": {
+    "en": "Recommendations on functional testing and intravascular imaging for lesion assessment",
+    "ru": "Рекомендации по функциональному тестированию и внутрисосудистой визуализации для оценки поражений"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Functional testing and intravascular imaging",
+        "ru": "Функциональное тестирование и внутрисосудистая визуализация"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "When evidence of ischaemia is not available, FFR or iwFR are recommended to assess the haemodynamic relevance of intermediate-grade stenosis.",
+            "ru": "При отсутствии доказательств ишемии рекомендуется проведение FFR или iwFR для оценки гемодинамической значимости промежуточных стенозов."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "FFR-guided PCI should be considered in patients with multivessel disease undergoing PCI.",
+            "ru": "ЧКВ под контролем FFR следует рассмотреть у пациентов с многососудистым поражением, подвергающихся ЧКВ."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "IVUS should be considered to assess the severity of unprotected left main lesions.",
+            "ru": "Внутрисосудистый ультразвук (ВСУЗИ) следует рассмотреть для оценки тяжести поражения незащищенного ствола левой коронарной артерии."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

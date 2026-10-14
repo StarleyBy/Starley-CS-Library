@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt28-dapt-cardiac-surgery",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 28",
+  "title": {
+    "en": "Dual antiplatelet therapy in patients undergoing cardiac surgery",
+    "ru": "Двойная антитромбоцитарная терапия у пациентов, подвергающихся кардиохирургическим операциям"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "DAPT in cardiac surgery",
+        "ru": "ДАТТ при кардиохирургических вмешательствах"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "It is recommended that the Heart Team estimates the individual bleeding and ischaemic risks, and guides the timing of CABG as well as the anti-thrombotic management.",
+            "ru": "Рекомендуется, чтобы команда Heart Team оценивала индивидуальный геморрагический и ишемический риски и определяла сроки проведения КШ, а также тактику антитромботической терапии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients on aspirin who need to undergo non-emergent cardiac surgery, it is recommended to continue aspirin at a low daily regimen throughout the peri-operative period.",
+            "ru": "У пациентов, принимающих АСК и нуждающихся в неэкстренной кардиохирургической операции, рекомендуется продолжать прием АСК в низкой суточной дозе на протяжении всего периоперационного периода."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients treated with DAPT after coronary stent implantation who subsequently undergo cardiac surgery, it is recommended to resume P2Y12 inhibitor therapy post-operatively as soon as it is deemed safe, so that DAPT continues until the recommended duration of therapy is completed.",
+            "ru": "У пациентов, получающих ДАТТ после имплантации коронарного стента и подвергающихся кардиохирургической операции, рекомендуется возобновить прием ингибитора P2Y12 после операции, как только это будет признано безопасным, для завершения рекомендуемой длительности курса ДАТТ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients with ACS (NSTE-ACS or STEMI) treated with DAPT who are undergoing CABG and do not require long-term OAC therapy, resumption of P2Y12 inhibitor therapy as soon as deemed safe after surgery and its continuation up to 12 months is recommended.",
+            "ru": "У пациентов с ОКС (ОКСбпST или ИМпST) на ДАТТ, подвергающихся КШ и не нуждающихся в длительном приеме ПОАК, возобновление терапии ингибитором P2Y12 рекомендуется сразу, как только это станет безопасным после операции, с продолжением терапии до 12 месяцев."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In patients on P2Y12 inhibitors who need to undergo non-emergent cardiac surgery, postponing surgery for at least 3 days after discontinuation of ticagrelor, at least 5 days after clopidogrel, and at least 7 days after prasugrel should be considered.",
+            "ru": "У пациентов, принимающих ингибиторы P2Y12 и нуждающихся в неэкстренной кардиохирургической операции, следует рассмотреть возможность отсрочки операции минимум на 3 дня после отмены тикагрелора, минимум на 5 дней после клопидогрела и минимум на 7 дней после прасугрела."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "In CABG patients with prior MI who are at high risk of severe bleeding (e.g. PRECISE-DAPT ≥25), discontinuation of P2Y12 inhibitor therapy after 6 months should be considered.",
+            "ru": "У пациентов после КШ с инфарктом миокарда в анамнезе и высоким риском тяжелых кровотечений (например, PRECISE-DAPT ≥25) следует рассмотреть возможность отмены ингибитора P2Y12 через 6 месяцев."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Platelet function testing may be considered to guide the decision on the timing of cardiac surgery in patients who have recently received P2Y12 inhibitors.",
+            "ru": "Тестирование функции тромбоцитов может быть рассмотрено для определения оптимальных сроков кардиохирургической операции у пациентов, недавно принимавших ингибиторы P2Y12."
+          },
+          "class": "IIb",
+          "level": "B"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "In patients perceived to be at high ischaemic risk with prior MI and CABG, who have tolerated DAPT without a bleeding complication, treatment with DAPT for longer than 12 months and up to 36 months may be considered.",
+            "ru": "У пациентов высокого ишемического риска с ИМ в анамнезе после КШ, хорошо перенесших ДАТТ без кровотечений, может быть рассмотрено продление ДАТТ на срок более 12 месяцев (до 36 месяцев)."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

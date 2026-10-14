@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.t05-requirements-heart-valve-centre",
+  "guidelineId": "esc-vhd-2025",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Requirements for a Heart Valve Centre",
+    "ru": "Требования к Экспертному центру клапанных пороков сердца (Heart Valve Centre)"
+  },
+  "columns": [
+    {
+      "id": "c_requirements",
+      "title": {
+        "en": "Requirements",
+        "ru": "Требования"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-onsite-services",
+      "cells": [
+        {
+          "text": {
+            "en": "Centre performing heart valve procedures with on-site interventional cardiology and cardiac surgery departments providing 24-h/7-day services.",
+            "ru": "Центр, выполняющий процедуры на клапанах сердца при наличии отделений интервенционной кардиологии и кардиохирургии, обеспечивающих круглосуточную службу 24/7."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-heart-team-core",
+      "cells": [
+        {
+          "text": {
+            "en": "**Heart Team core members:** Cardiologist with imaging expertise, interventional cardiologist, cardiac surgeon.",
+            "ru": "**Основной состав Heart Team:** кардиолог-специалист по визуализации, рентгенэндоваскулярный хирург (интервенционный кардиолог), сердечно-сосудистый хирург."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-heart-team-extended",
+      "cells": [
+        {
+          "text": {
+            "en": "**Additional specialists, if required (Extended Heart Team):** Specialized nursing personnel, HF specialist, electrophysiologist, cardiovascular anaesthetist, geriatrician, and other specialists (e.g. intensive care, vascular surgery, infectious diseases, neurology, radiology).",
+            "ru": "**Дополнительные специалисты при необходимости (расширенная кардиокоманда Heart Team):** специализированный сестринский персонал, специалист по СН, аритмолог-электрофизиолог, кардиоанестезиолог, гериатр и другие специалисты (реаниматолог, сосудистый хирург, инфекционист, невролог, рентгенолог)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-sop-governance",
+      "cells": [
+        {
+          "text": {
+            "en": "The Heart Team must meet on a regular basis and work according to locally defined standard operating procedures and clinical governance arrangements.",
+            "ru": "Кардиокоманда (Heart Team) должна регулярно собираться и работать в соответствии с локальными стандартными операционными процедурами (СОП) и правилами клинического управления."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-hybrid-cath-lab",
+      "cells": [
+        {
+          "text": {
+            "en": "A hybrid cardiac catheterization laboratory is desirable.",
+            "ru": "Желательно наличие гибридной рентгеноперационной (hybrid cath lab)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-high-volume",
+      "cells": [
+        {
+          "text": {
+            "en": "High volume for hospital and individual operators.",
+            "ru": "Высокий объем процедур для клиники и отдельных операторов."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-multimodality-imaging",
+      "cells": [
+        {
+          "text": {
+            "en": "Multimodality imaging (including advanced echocardiography, CCT, CMR, and nuclear techniques) and expertise in peri-procedural imaging guidance of surgical and transcatheter procedures.",
+            "ru": "Мультимодальная визуализация (включая экспертную эхокардиографию, КТ сердца, МРТ сердца и радионуклидные методы) и опыт интраоперационной навигации хирургических и транскатетерных вмешательств."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-outpatient-clinic",
+      "cells": [
+        {
+          "text": {
+            "en": "Heart Valve Clinic for outpatient assessment and follow-up.",
+            "ru": "Амбулаторная клапанная клиника (Heart Valve Clinic) для первичной оценки и диспансерного наблюдения."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-data-review-quality",
+      "cells": [
+        {
+          "text": {
+            "en": "**Data review:** continuous monitoring, evaluation, and reporting of procedural volumes and quality indicators, including clinical outcomes, as well as PROMs complemented by local/external audits.",
+            "ru": "**Анализ данных:** непрерывный мониторинг, оценка и отчетность по объемам процедур и индикаторам качества, включая клинические исходы и оценку качества жизни пациентами (PROMs), дополняемые локальными и внешними аудитами."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-education-programmes",
+      "cells": [
+        {
+          "text": {
+            "en": "Education programmes targeting primary care and referring physicians, operators, and diagnostic and interventional imaging specialists.",
+            "ru": "Образовательные программы для врачей первичного звена, направляющих специалистов, операторов и специалистов лучевой и функциональной диагностики."
+          }
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "vhd",
+    "heart-valve-centre",
+    "heart-team",
+    "imaging",
+    "organisation",
+    "cct",
+    "cmr"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt31-training-myocardial-revascularization",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 31",
+  "title": {
+    "en": "Recommendations for training in myocardial revascularization",
+    "ru": "Рекомендации по профессиональной подготовке в области реваскуляризации миокарда"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-cabg-training",
+      "title": {
+        "en": "Training in CABG",
+        "ru": "Подготовка по коронарному шунтированию"
+      },
+      "rows": [
+        {
+          "id": "r_cabg_tr_01",
+          "text": {
+            "en": "It is recommended that trainees in cardiac surgery and interventional cardiology follow a competency-driven residency programme with regular evaluation of progression.",
+            "ru": "Рекомендуется, чтобы ординаторы и стажеры по кардиохирургии и интервенционной кардиологии обучались по компетентностно-ориентированным программам с регулярной оценкой динамики навыков."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r_cabg_tr_02",
+          "text": {
+            "en": "It should be considered that trainees in cardiac surgery perform ≥200 CABG procedures under supervision before being independent.",
+            "ru": "Следует рассмотреть выполнение стажерами по кардиохирургии не менее 200 операций КШ под контролем наставника до перехода к самостоятельной практике."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-pci-training",
+      "title": {
+        "en": "Training in PCI",
+        "ru": "Подготовка по чрескожным коронарным вмешательствам"
+      },
+      "rows": [
+        {
+          "id": "r_pci_tr_01",
+          "text": {
+            "en": "It should be considered that trainees in interventional cardiology perform ≥200 PCI procedures as first operator, with one-third of PCI procedures in emergency or ACS patients under supervision, before being independent.",
+            "ru": "Следует рассмотреть выполнение интервенционными кардиологами не менее 200 процедур ЧКВ в качестве первого оператора (из них не менее одной трети при экстренных состояниях или ОКС) под курацией наставника до перехода к самостоятельной работе."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r_pci_tr_02",
+          "text": {
+            "en": "It should be considered that trainees in interventional cardiology complete formal training according to a 1–2 year curriculum at institutions with ≥800 PCIs per year and an established 24 h/7 day service for the treatment of patients with ACS.",
+            "ru": "Следует рассмотреть прохождение интервенционными кардиологами 1–2-годичной формальной программы подготовки в центрах с потоком ≥800 ЧКВ в год и круглосуточной службой 24/7 по лечению ОКС."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

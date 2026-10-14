@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt18-post-discharge-follow-up",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 18",
+  "title": {
+    "en": "Recommendations for post-discharge follow-up",
+    "ru": "Рекомендации по диспансерному наблюдению после выписки из стационара"
+  },
+  "sections": [
+    {
+      "id": "post-discharge-follow-up",
+      "title": {
+        "en": "Post-discharge follow-up of infective endocarditis",
+        "ru": "Наблюдение после выписки пациентов с инфекционным эндокардитом"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Patient education on the risk of recurrence and preventive measures, with emphasis on dental health, and based on the individual risk profile, is recommended during follow-up.",
+            "ru": "Обучение пациента относительно риска рецидива и профилактических мер (с особым акцентом на санацию полости рта и с учетом индивидуального профиля риска) рекомендуется в процессе последующего наблюдения."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Addiction treatment for patients following PWID-related IE is recommended.",
+            "ru": "Лечение наркотической зависимости рекомендуется пациентам, перенесшим ИЭ, ассоциированный с инъекционным употреблением наркотиков."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Cardiac rehabilitation including physical exercise training should be considered in clinically stable patients based on an individual assessment.",
+            "ru": "Кардиореабилитацию, включающую физические тренировки, следует рассмотреть у клинически стабильных пациентов на основе индивидуальной оценки."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Psychosocial support may be considered to be integrated in follow-up care, including screening for anxiety and depression, and referral to relevant psychological treatment.",
+            "ru": "Психосоциальная поддержка может быть интегрирована в систему последующего наблюдения, включая скрининг тревоги и депрессии и направление к профильным специалистам для психологической помощи."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

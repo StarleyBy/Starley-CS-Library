@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt09-stress-echocardiography",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 9",
+  "title": {
+    "en": "Recommendations for non-invasive tests in the initial diagnostic management of individuals with suspected chronic coronary syndrome — stress echocardiography, if available, and supported by local expertise",
+    "ru": "Рекомендации по неинвазивным функциональным тестам при первичной диагностике лиц с подозрением на хронический коронарный синдром — стресс-эхокардиография"
+  },
+  "tags": [
+    "ccs",
+    "stress-echo",
+    "contrast-agents",
+    "microbubbles",
+    "myocardial-perfusion",
+    "lad-flow-reserve",
+    "microvascular-function"
+  ],
+  "source": {
+    "page": 35
+  },
+  "sections": [
+    {
+      "id": "sec-stress-echo-general",
+      "title": {
+        "en": "Stress echocardiography recommendations",
+        "ru": "Рекомендации по стресс-эхокардиографии"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In individuals with suspected CCS and moderate or high (>15%–85%) pre-test likelihood of obstructive CAD, stress echocardiography is recommended to diagnose myocardial ischaemia and to estimate the risk of MACE.",
+            "ru": "У лиц с подозрением на ХКС и умеренной или высокой (>15%–85%) предтестовой вероятностью обструктивной ИБС рекомендуется стресс-эхокардиография для диагностики ишемии миокарда и оценки риска больших сердечно-сосудистых событий (MACE)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "During stress echocardiography, when two or more contiguous myocardial segments are not visualized, it is recommended to use commercially available intravenous ultrasound contrast agents (microbubbles) to improve diagnostic accuracy.",
+            "ru": "При стресс-эхокардиографии, когда не удается визуализировать два или более смежных сегмента миокарда, рекомендуется использовать внутривенные ультразвуковые контрастные препараты (микропузырьки) для повышения диагностической точности."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "During stress echocardiography, myocardial perfusion using commercially available intravenous ultrasound contrast agents (microbubbles) is recommended to improve diagnostic accuracy and to refine risk stratification beyond wall motion.",
+            "ru": "При стресс-эхокардиографии оценка перфузии миокарда с помощью внутривенных ультразвуковых контрастных препаратов (микропузырьков) рекомендуется для повышения диагностической точности и детализации стратификации риска в дополнение к оценке локальной сократимости."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "During stress echocardiography, Doppler left anterior descending coronary artery flow reserve may be considered to improve risk stratification beyond wall motion and to assess microvascular function.",
+            "ru": "При стресс-эхокардиографии допплеровская оценка резерва кровотока по передней межжелудочковой артерии (LAD) может быть рассмотрена для уточнения стратификации риска в дополнение к оценке локальной сократимости и для анализа микрососудистой функции."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

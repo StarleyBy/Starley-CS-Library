@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.t04-haemodynamic-instability",
+  "guidelineId": "esc-pe-2019",
+  "number": "Table 4",
+  "type": "grid",
+  "title": {
+    "en": "Definition of haemodynamic instability, which delineates acute high-risk pulmonary embolism (one of the following clinical manifestations at presentation)",
+    "ru": "Определение гемодинамической нестабильности, определяющей острую ТЭЛА высокого риска (одно из следующих клинических проявлений при поступлении)"
+  },
+  "columns": [
+    {
+      "id": "c_cardiac_arrest",
+      "title": {
+        "en": "(1) Cardiac arrest",
+        "ru": "(1) Остановка сердца"
+      }
+    },
+    {
+      "id": "c_obstructive_shock",
+      "title": {
+        "en": "(2) Obstructive shock",
+        "ru": "(2) Обструктивный шок"
+      }
+    },
+    {
+      "id": "c_persistent_hypotension",
+      "title": {
+        "en": "(3) Persistent hypotension",
+        "ru": "(3) Стойкая артериальная гипотензия"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-criteria",
+      "cells": [
+        {
+          "text": {
+            "en": "Need for cardiopulmonary resuscitation",
+            "ru": "Необходимость сердечно-легочной реанимации"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "Systolic BP < 90 mmHg or vasopressors required to achieve a BP ≥ 90 mmHg despite adequate filling status\n\n*And*\n\nEnd-organ hypoperfusion (altered mental status; cold, clammy skin; oliguria/anuria; increased serum lactate)",
+            "ru": "Систолическое АД < 90 мм рт. ст. или необходимость введения вазопрессоров для достижения АД ≥ 90 мм рт. ст., несмотря на адекватный статус наполнения\n\n*И*\n\nГипоперфузия органов-мишеней (изменение ментального статуса; холодная, влажная кожа; олигурия/анурия; повышение уровня лактата в сыворотке)"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "Systolic BP < 90 mmHg or systolic BP drop ≥ 40 mmHg, lasting longer than 15 min and not caused by new-onset arrhythmia, hypovolaemia, or sepsis",
+            "ru": "Систолическое АД < 90 мм рт. ст. или падение систолического АД ≥ 40 мм рт. ст., продолжительностью более 15 минут, не вызванное впервые возникшей аритмией, гиповолемией или сепсисом"
+          },
+          "tone": "orange"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "haemodynamic-instability",
+    "high-risk",
+    "pe",
+    "cardiac-arrest",
+    "obstructive-shock",
+    "hypotension",
+    "definition"
+  ]
+}

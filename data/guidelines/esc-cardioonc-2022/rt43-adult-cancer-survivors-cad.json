@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt43-adult-cancer-survivors-cad",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 43",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 43 — Recommendations for adult cancer survivors with coronary artery disease",
+    "ru": "Таблица рекомендаций 43 — Рекомендации для взрослых лиц, перенесших онкологические заболевания, с ишемической болезнью сердца"
+  },
+  "tags": [
+    "cardio-oncology",
+    "cancer-survivors",
+    "cad",
+    "radiation-induced-cad",
+    "ccta",
+    "stress-testing",
+    "cabg",
+    "pci",
+    "lima",
+    "rima",
+    "syntax"
+  ],
+  "source": {
+    "page": 89
+  },
+  "sections": [
+    {
+      "id": "sec01-asymptomatic-radiation-cad",
+      "title": {
+        "en": "Asymptomatic radiation-induced CAD detected during surveillance",
+        "ru": "Бессимптомная радиационно-индуцированная ИБС, выявленная при скрининге"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Non-invasive stress testing is recommended in asymptomatic cancer survivors with new moderate or severe radiation-induced CAD detected on CCTA to guide ischaemia-directed management.",
+            "ru": "Неинвазивные нагрузочные стресс-тесты рекомендуются бессимптомным лицам, перенесшим рак, при выявлении новой умеренной или тяжелой лучевой ИБС по данным КТ-коронарографии для определения тактики лечения, направленной на ишемию."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "A MDT discussion is recommended for clinical decision-making in patients with radiation-induced CAD and inducible ischaemia or severe left main CAD.",
+            "ru": "Мультидисциплинарный консилиум (MDT) рекомендуется для принятия клинических решений у пациентов с радиационно-индуцированной ИБС и индуцируемой ишемией или тяжелым поражением ствола левой коронарной артерии."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec02-symptomatic-cad",
+      "title": {
+        "en": "Symptomatic CAD",
+        "ru": "Симптоматическая ИБС"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "Pre-operative assessment of LIMA and RIMA viability, venous access, and sternal wound healing is recommended in cancer survivors with radiation-induced CAD where CABG is considered.",
+            "ru": "Предоперационная оценка жизнеспособности левой и правой внутренних грудных артерий (LIMA/RIMA), состояния венозных трансплантатов и условий заживления стернотомной раны рекомендуется лицам, перенесшим рак, с радиационно-индуцированной ИБС при планировании АКШ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "PCI may be considered in cancer survivors with radiation-induced CAD with severe left main or three-vessel disease with a high SYNTAX score (>22) in whom the procedure is technically feasible.",
+            "ru": "Чрескожное коронарное вмешательство (ЧКВ) может рассматриваться у лиц, перенесших рак, с радиационно-индуцированным тяжелым поражением ствола ЛКА или трехсосудистым поражением с высоким баллом SYNTAX (>22) при технической выполнимости вмешательства."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

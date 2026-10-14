@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.rt04-treatment-intermediate-low-risk",
+  "guidelineId": "esc-pe-2019",
+  "number": "Section 6.7–6.10",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for treatment of intermediate- or low-risk PE, PERT, IVC filters, and early discharge",
+    "ru": "Рекомендации по лечению ТЭЛА промежуточного и низкого риска, командам PERT, кава-фильтрам и ранней выписке"
+  },
+  "sections": [
+    {
+      "id": "s01-initiation-anticoagulation",
+      "title": {
+        "en": "Initiation of anticoagulation",
+        "ru": "Начало антикоагулянтной терапии"
+      },
+      "rows": [
+        {
+          "id": "r01-anticoagulation-without-delay",
+          "text": {
+            "en": "Initiation of anticoagulation is recommended without delay in patients with high or intermediate clinical probability of PE, while diagnostic workup is in progress.",
+            "ru": "Рекомендуется незамедлительно начать антикоагулянтную терапию у пациентов с высокой или промежуточной клинической вероятностью ТЭЛА на время проведения диагностического поиска."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02-parenteral-lmwh-fondaparinux",
+          "text": {
+            "en": "If anticoagulation is initiated parenterally, LMWH or fondaparinux is recommended (over UFH) for most patients.",
+            "ru": "Если антикоагуляция начинается парентерально, для большинства пациентов рекомендуется НМГ или фондапаринукс (предпочтительнее НФГ)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [262, 309, 310, 311]
+        },
+        {
+          "id": "r03-oral-noac-preferred",
+          "text": {
+            "en": "When oral anticoagulation is started in a patient with PE who is eligible for a NOAC (apixaban, dabigatran, edoxaban, or rivaroxaban), a NOAC is recommended in preference to a VKA.",
+            "ru": "При начале пероральной антикоагуляции у пациента с ТЭЛА, подходящего для приема НОАК (апиксабан, дабигатран, эдоксабан или ривароксабан), НОАК рекомендуется предпочесть АВК."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [260, 261, 312, 313, 314]
+        },
+        {
+          "id": "r04-vka-overlap-parenteral",
+          "text": {
+            "en": "When patients are treated with a VKA, overlapping with parenteral anticoagulation is recommended until an INR of 2.5 (range 2.0–3.0) is reached.",
+            "ru": "При лечении пациентов АВК рекомендуется перекрестное назначение с парентеральным антикоагулянтом до достижения целевого МНО 2,5 (диапазон 2,0–3,0)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [315, 316]
+        },
+        {
+          "id": "r05-noacs-contraindicated-groups",
+          "text": {
+            "en": "NOACs are not recommended in patients with severe renal impairment, during pregnancy and lactation, and in patients with antiphospholipid antibody syndrome.",
+            "ru": "НОАК не рекомендуются пациентам с тяжелой почечной недостаточностью (дабигатран при CrCl <30 мл/мин; эдоксабан/ривароксабан/апиксабан при CrCl <15 мл/мин), во время беременности и лактации, а также у пациентов с антифосфолипидным синдромом."
+          },
+          "class": "III",
+          "level": "C",
+          "refs": [260, 261, 312, 313, 314]
+        }
+      ]
+    },
+    {
+      "id": "s02-reperfusion-treatment",
+      "title": {
+        "en": "Reperfusion treatment in intermediate- or low-risk PE",
+        "ru": "Реперфузионная терапия при ТЭЛА промежуточного или низкого риска"
+      },
+      "rows": [
+        {
+          "id": "r06-rescue-thrombolytic-therapy",
+          "text": {
+            "en": "Rescue thrombolytic therapy is recommended for patients with haemodynamic deterioration on anticoagulation treatment.",
+            "ru": "Спасительная (rescue) тромболитическая терапия рекомендуется пациентам с ухудшением гемодинамики на фоне антикоагулянтной терапии."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [282]
+        },
+        {
+          "id": "r07-rescue-surgical-catheter",
+          "text": {
+            "en": "As an alternative to rescue thrombolytic therapy, surgical embolectomy or percutaneous catheter-directed treatment should be considered for patients with haemodynamic deterioration on anticoagulation treatment.",
+            "ru": "В качестве альтернативы спасительной тромболитической терапии следует рассматривать хирургическую эмболэктомию или чрескожное катетерное лечение у пациентов с гемодинамическим ухудшением на фоне антикоагуляции."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08-routine-primary-thrombolysis-not-rec",
+          "text": {
+            "en": "Routine use of primary systemic thrombolysis is not recommended in patients with intermediate- or low-risk PE.",
+            "ru": "Рутинное применение первичного системного тромболизиса не рекомендуется пациентам с ТЭЛА промежуточного или низкого риска."
+          },
+          "class": "III",
+          "level": "B",
+          "refs": [179]
+        }
+      ]
+    },
+    {
+      "id": "s03-multidisciplinary-pert",
+      "title": {
+        "en": "Multidisciplinary pulmonary embolism teams (PERT)",
+        "ru": "Мультидисциплинарные команды по ТЭЛА (PERT)"
+      },
+      "rows": [
+        {
+          "id": "r09-pert-team-setup",
+          "text": {
+            "en": "Set-up of a multidisciplinary team and a programme for the management of high- and (in selected cases) intermediate-risk PE should be considered, depending on the resources and expertise available in each hospital.",
+            "ru": "Создание мультидисциплинарной команды и программы ведения пациентов с ТЭЛА высокого и (в отдельных случаях) промежуточного риска следует рассматривать в зависимости от ресурсов и опыта, доступных в конкретном стационаре."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "s04-ivc-filters",
+      "title": {
+        "en": "Inferior vena cava filters",
+        "ru": "Кава-фильтры (фильтры нижней полой вены)"
+      },
+      "rows": [
+        {
+          "id": "r10-ivc-contraindication-anticoagulation",
+          "text": {
+            "en": "IVC filters should be considered in patients with acute PE and absolute contraindications to anticoagulation.",
+            "ru": "Установка кава-фильтра должна рассматриваться у пациентов с острой ТЭЛА и абсолютными противопоказаниями к антикоагулянтной терапии."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r11-ivc-recurrence-under-anticoagulation",
+          "text": {
+            "en": "IVC filters should be considered in cases of PE recurrence despite therapeutic anticoagulation.",
+            "ru": "Установка кава-фильтра должна рассматриваться в случаях рецидива ТЭЛА, несмотря на адекватную терапевтическую антикоагуляцию."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r12-ivc-routine-not-recommended",
+          "text": {
+            "en": "Routine use of IVC filters is not recommended.",
+            "ru": "Рутинная установка кава-фильтров не рекомендуется."
+          },
+          "class": "III",
+          "level": "A",
+          "refs": [302, 303, 304]
+        }
+      ]
+    },
+    {
+      "id": "s05-early-discharge-home-treatment",
+      "title": {
+        "en": "Early discharge and home treatment",
+        "ru": "Ранняя выписка и амбулаторное лечение"
+      },
+      "rows": [
+        {
+          "id": "r13-early-discharge-low-risk",
+          "text": {
+            "en": "Carefully selected patients with low-risk PE should be considered for early discharge and continuation of treatment at home, if proper outpatient care and anticoagulant treatment can be provided.",
+            "ru": "Тщательно отобранных пациентов с ТЭЛА низкого риска следует рассматривать для ранней выписки и продолжения лечения дома, при условии обеспечения надлежащего амбулаторного наблюдения и антикоагулянтной терапии."
+          },
+          "class": "IIa",
+          "level": "A",
+          "refs": [178, 206, 317, 318, 319]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "treatment",
+    "intermediate-risk",
+    "low-risk",
+    "pe",
+    "lmwh",
+    "noac",
+    "vka",
+    "rescue-thrombolysis",
+    "pert",
+    "ivc-filter",
+    "early-discharge"
+  ]
+}

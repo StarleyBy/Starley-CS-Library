@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.t05-anthracycline-equivalence",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Table 5 — Anthracycline equivalence dose",
+    "ru": "Таблица 5 — Эквивалентные дозы антрациклинов"
+  },
+  "tags": [
+    "cardio-oncology",
+    "anthracyclines",
+    "doxorubicin",
+    "epirubicin",
+    "daunorubicin",
+    "mitoxantrone",
+    "idarubicin",
+    "cardiotoxicity",
+    "dosage"
+  ],
+  "columns": [
+    {
+      "id": "c_metric",
+      "title": {
+        "en": "Parameter",
+        "ru": "Параметр"
+      }
+    },
+    {
+      "id": "c_doxo",
+      "title": {
+        "en": "Doxorubicin",
+        "ru": "Доксорубицин"
+      }
+    },
+    {
+      "id": "c_epi",
+      "title": {
+        "en": "Epirubicin",
+        "ru": "Эпирубицин"
+      }
+    },
+    {
+      "id": "c_dauno",
+      "title": {
+        "en": "Daunorubicin",
+        "ru": "Даунорубицин"
+      }
+    },
+    {
+      "id": "c_mitox",
+      "title": {
+        "en": "Mitoxantrone",
+        "ru": "Митоксантрон"
+      }
+    },
+    {
+      "id": "c_ida",
+      "title": {
+        "en": "Idarubicin",
+        "ru": "Идарубицин"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-ratio",
+      "cells": [
+        { "text": { "en": "CV toxicity dose ratio", "ru": "Коэффициент кардиотоксической дозы" } },
+        { "text": { "en": "1", "ru": "1" } },
+        { "text": { "en": "0.8", "ru": "0.8" } },
+        { "text": { "en": "0.6", "ru": "0.6" } },
+        { "text": { "en": "10.5", "ru": "10.5" } },
+        { "text": { "en": "5", "ru": "5" } }
+      ]
+    },
+    {
+      "id": "r02-iso-dose",
+      "cells": [
+        { "text": { "en": "Isoequivalent dose", "ru": "Изоэквивалентная доза" } },
+        { "text": { "en": "100 mg/m²", "ru": "100 мг/м²" } },
+        { "text": { "en": "125 mg/m²", "ru": "125 мг/м²" } },
+        { "text": { "en": "167 mg/m²", "ru": "167 мг/м²" } },
+        { "text": { "en": "9.5 mg/m²", "ru": "9.5 мг/м²" } },
+        { "text": { "en": "20 mg/m²", "ru": "20 мг/м²" } }
+      ]
+    }
+  ]
+}

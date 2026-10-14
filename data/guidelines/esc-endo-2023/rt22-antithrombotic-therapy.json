@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.rt22-antithrombotic-therapy",
+  "guidelineId": "esc-endo-2023",
+  "type": "recommendations",
+  "number": "Rec Table 22",
+  "title": {
+    "en": "Recommendations for the use of antithrombotic therapy in infective endocarditis",
+    "ru": "Рекомендации по применению антитромботической терапии при инфекционном эндокардите"
+  },
+  "sections": [
+    {
+      "id": "antithrombotic-therapy-in-ie",
+      "title": {
+        "en": "Antithrombotic therapy in infective endocarditis",
+        "ru": "Антитромботическая терапия при инфекционном эндокардите"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Interruption of antiplatelet or anticoagulant therapy is recommended in the presence of major bleeding (including intracranial haemorrhage).",
+            "ru": "При наличии массивного (большого) кровотечения (включая внутричерепное кровоизлияние) рекомендуется прекращение антиагрегантной или антикоагулянтной терапии."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with intracranial haemorrhage and a mechanical valve, reinitiating unfractionated heparin should be considered as soon as possible following multidisciplinary discussion.",
+            "ru": "У пациентов с внутричерепным кровоизлиянием и механическим протезом клапана следует рассмотреть возобновление введения нефракционированного гепарина как можно раньше после мультидисциплинарного консилиума."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In the absence of stroke, replacement of oral anticoagulant therapy by unfractionated heparin under close monitoring should be considered in cases where indication for surgery is likely (e.g. S. aureus IE).",
+            "ru": "В отсутствие инсульта замену пероральной антикоагулянтной терапии на нефракционированный гепарин под тщательным контролем следует рассмотреть в случаях, когда вероятна необходимость хирургического вмешательства (например, при ИЭ, вызванном S. aureus)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Thrombolytic therapy is not recommended in patients with IE.",
+            "ru": "Тромболитическая терапия не рекомендуется пациентам с инфекционным эндокардитом."
+          },
+          "class": "III",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

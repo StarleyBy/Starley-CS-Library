@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019.rt03-treatment-high-risk",
+  "guidelineId": "esc-pe-2019",
+  "number": "Section 6.6",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for acute-phase treatment of high-risk pulmonary embolism",
+    "ru": "Рекомендации по лечению острой ТЭЛА высокого риска"
+  },
+  "sections": [
+    {
+      "id": "s01-high-risk-acute-treatment",
+      "title": {
+        "en": "Acute-phase treatment of high-risk PE",
+        "ru": "Лечение в острой фазе ТЭЛА высокого риска"
+      },
+      "rows": [
+        {
+          "id": "r01-ufh-anticoagulation-bolus",
+          "text": {
+            "en": "It is recommended that anticoagulation with UFH, including a weight-adjusted bolus injection, be initiated without delay in patients with high-risk PE.",
+            "ru": "Рекомендуется незамедлительно начать антикоагуляцию НФГ, включая болюс с коррекцией по массе тела, у пациентов с ТЭЛА высокого риска."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02-systemic-thrombolytic-therapy",
+          "text": {
+            "en": "Systemic thrombolytic therapy is recommended for high-risk PE.",
+            "ru": "Системная тромболитическая терапия рекомендуется при ТЭЛА высокого риска."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [282]
+        },
+        {
+          "id": "r03-surgical-pulmonary-embolectomy",
+          "text": {
+            "en": "Surgical pulmonary embolectomy is recommended for patients with high-risk PE, in whom thrombolysis is contraindicated or has failed.",
+            "ru": "Хирургическая легочная эмболэктомия рекомендуется пациентам с ТЭЛА высокого риска, у которых тромболизис противопоказан или оказался неэффективным (при наличии опыта и ресурсов на месте)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [281]
+        },
+        {
+          "id": "r04-catheter-directed-treatment",
+          "text": {
+            "en": "Percutaneous catheter-directed treatment should be considered for patients with high-risk PE, in whom thrombolysis is contraindicated or has failed.",
+            "ru": "Чрескожное катетерное лечение следует рассматривать для пациентов с ТЭЛА высокого риска, у которых тромболизис противопоказан или оказался неэффективным (при наличии опыта и ресурсов на месте)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05-norepinephrine-dobutamine",
+          "text": {
+            "en": "Norepinephrine and/or dobutamine should be considered in patients with high-risk PE.",
+            "ru": "Норадреналин и/или добутамин следует рассматривать у пациентов с ТЭЛА высокого риска."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06-ecmo-embolectomy-catheter",
+          "text": {
+            "en": "ECMO may be considered, in combination with surgical embolectomy or catheter-directed treatment, in patients with PE and refractory circulatory collapse or cardiac arrest.",
+            "ru": "ЭКМО может рассматриваться в комбинации с хирургической эмболэктомией или катетерным лечением у пациентов с ТЭЛА и рефрактерным циркуляторным коллапсом или остановкой сердца."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [252]
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "treatment",
+    "high-risk",
+    "pe",
+    "thrombolysis",
+    "embolectomy",
+    "catheter-directed",
+    "ufh",
+    "ecmo",
+    "norepinephrine"
+  ]
+}

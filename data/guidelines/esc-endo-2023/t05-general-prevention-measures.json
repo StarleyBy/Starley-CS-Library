@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.t05-general-prevention-measures",
+  "guidelineId": "esc-endo-2023",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Table 5 — General prevention measures to be followed in patients at high and intermediate risk of infective endocarditis",
+    "ru": "Таблица 5 — Общие меры профилактики, рекомендуемые пациентам с высоким и промежуточным риском инфекционного эндокардита"
+  },
+  "tags": [
+    "endocarditis",
+    "prevention",
+    "hygiene",
+    "dental",
+    "high-risk",
+    "intermediate-risk"
+  ],
+  "columns": [
+    {
+      "id": "c_measure",
+      "title": {
+        "en": "Prevention Measure",
+        "ru": "Профилактическое мероприятие"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-dental-hygiene",
+      "cells": [
+        {
+          "text": {
+            "en": "Patients should be encouraged to maintain twice daily tooth cleaning and to seek professional dental cleaning and follow-up at least twice yearly for high-risk patients and yearly for others.",
+            "ru": "Пациентам следует рекомендовать чистить зубы дважды в день и проходить профессиональную гигиену полости рта и осмотр стоматолога не менее двух раз в год для пациентов высокого риска и ежегодно для остальных категорий."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-skin-hygiene",
+      "cells": [
+        {
+          "text": {
+            "en": "Strict cutaneous hygiene, including optimized treatment of chronic skin conditions.",
+            "ru": "Строгая гигиена кожных покровов, включая оптимизированное лечение хронических дерматологических заболеваний."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-wound-disinfection",
+      "cells": [
+        {
+          "text": {
+            "en": "Disinfection of wounds.",
+            "ru": "Антисептическая обработка и дезинфекция ран."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-curative-antibiotics",
+      "cells": [
+        {
+          "text": {
+            "en": "Curative antibiotics for any focus of bacterial infection.",
+            "ru": "Полноценная терапевтическая антибиотикотерапия любых очагов бактериальной инфекции."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-no-self-medication",
+      "cells": [
+        {
+          "text": {
+            "en": "No self-medication with antibiotics.",
+            "ru": "Категорический отказ от самолечения антибиотиками."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-infection-control",
+      "cells": [
+        {
+          "text": {
+            "en": "Strict infection control measures for any at-risk procedure.",
+            "ru": "Строгое соблюдение мер инфекционного контроля при любых процедурах, сопряженных с риском бактериемии."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-piercing-tattooing",
+      "cells": [
+        {
+          "text": {
+            "en": "Discouragement of piercing and tattooing.",
+            "ru": "Настоятельная рекомендация воздерживаться от пирсинга и нанесения татуировок."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-catheter-limitation",
+      "cells": [
+        {
+          "text": {
+            "en": "Limitation of infusion catheters and invasive procedures, when possible. Strict adherence to care bundles for central and peripheral cannulae should be performed.",
+            "ru": "Максимальное ограничение применения инфузионных катетеров и инвазивных процедур, когда это возможно. Строгое соблюдение протоколов ухода («care bundles») за центральными и периферическими венозными канюлями."
+          }
+        }
+      ]
+    }
+  ]
+}

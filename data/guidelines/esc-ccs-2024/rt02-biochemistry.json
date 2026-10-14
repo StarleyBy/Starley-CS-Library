@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt02-biochemistry",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 2",
+  "title": {
+    "en": "Recommendations for basic biochemistry in the initial diagnostic management of individuals with suspected chronic coronary syndrome",
+    "ru": "Рекомендации по базовым биохимическим исследованиям при первичной диагностике лиц с подозрением на хронический коронарный синдром"
+  },
+  "tags": [
+    "ccs",
+    "biochemistry",
+    "lipids",
+    "ldl-c",
+    "creatinine",
+    "hba1c",
+    "thyroid",
+    "hs-crp",
+    "fibrinogen"
+  ],
+  "source": {
+    "page": 29
+  },
+  "sections": [
+    {
+      "id": "sec-biochemistry-general",
+      "title": {
+        "en": "General recommendations for basic biochemistry",
+        "ru": "Общие рекомендации по базовым биохимическим исследованиям"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "The following blood tests are recommended in all individuals to refine risk stratification, diagnose comorbidities, and guide treatment:\n• lipid profile including LDL-C;\n• full blood count (including haemoglobin);\n• creatinine with estimation of renal function;\n• glycaemic status with HbA1c and/or fasting plasma glucose.",
+            "ru": "Следующие лабораторные анализы крови рекомендуются всем лицам для уточнения стратификации риска, выявления коморбидных состояний и выбора терапии:\n• липидный профиль, включая ХС-ЛПНП;\n• общий анализ крови (включая гемоглобин);\n• креатинин с оценкой функции почек (СКФ);\n• гликемический статус с определением HbA1c и/или глюкозы плазмы натощак."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients with suspected CCS, it is recommended to assess thyroid function at least once.",
+            "ru": "У пациентов с подозрением на ХКС рекомендуется хотя бы однократно оценить функцию щитовидной железы (ТТГ)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Additionally, hs-CRP and/or fibrinogen plasma levels should be considered.",
+            "ru": "Дополнительно следует рассмотреть определение уровня высокочувствительного С-реактивного белка (вчСРБ) и/или фибриногена плазмы."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt19-atrial-fibrillation",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 19",
+  "title": {
+    "en": "Recommendations for the prevention and treatment of atrial fibrillation in the setting of myocardial revascularization",
+    "ru": "Рекомендации по профилактике и лечению фибрилляции предсердий в контексте реваскуляризации миокарда"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Prevention and treatment of AF in revascularization",
+        "ru": "Профилактика и лечение ФП при реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Perioperative oral beta-blocker therapy is recommended for the prevention of post-operative AF after CABG surgery.",
+            "ru": "Периоперационная терапия пероральными бета-блокаторами рекомендуется для профилактики послеоперационной ФП после операции КШ."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Restoration of sinus rhythm by electrical cardioversion or antiarrhythmic drugs is recommended in post-operative AF with haemodynamic instability.",
+            "ru": "Восстановление синусового ритма путем электрической кардиоверсии или антиаритмических препаратов рекомендуется при послеоперационной ФП с гемодинамической нестабильностью."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Perioperative amiodarone should be considered as prophylactic therapy to prevent AF after CABG surgery.",
+            "ru": "Периоперационное применение амиодарона следует рассмотреть в качестве профилактической терапии для предотвращения ФП после КШ."
+          },
+          "class": "IIa",
+          "level": "A"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Long-term anticoagulation should be considered in patients with AF after CABG or PCI who are at risk of stroke, considering the individual stroke and bleeding risk.",
+            "ru": "Длительную антикоагулянтную терапию следует рассмотреть у пациентов с ФП после КШ или ЧКВ, имеющих риск инсульта, с учетом индивидуального риска инсульта и кровотечений."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Rate control and anticoagulation should be considered as the initial management of asymptomatic post-operative AF.",
+            "ru": "Контроль частоты сердечных сокращений и антикоагулянтная терапия должны рассматриваться в качестве начальной тактики при бессимптомной послеоперационной ФП."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Antiarrhythmic drugs should be considered for symptomatic post-operative AF after CABG or PCI in an attempt to restore sinus rhythm.",
+            "ru": "Антиаритмические препараты следует рассмотреть при симптомной послеоперационной ФП после КШ или ЧКВ с целью восстановления синусового ритма."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Surgical occlusion or exclusion of the LAA may be considered for stroke prevention in patients with AF undergoing CABG surgery.",
+            "ru": "Хирургическая окклюзия или исключение ушка левого предсердия (УЛП) может быть рассмотрена для профилактики инсульта у пациентов с ФП, подвергающихся операции КШ."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

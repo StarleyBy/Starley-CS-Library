@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt15-lifestyle-interventions",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 15",
+  "title": {
+    "en": "Recommendations for cardiovascular risk reduction, lifestyle changes, and exercise interventions in patients with established chronic coronary syndrome",
+    "ru": "Рекомендации по снижению сердечно-сосудистого риска, изменению образа жизни и физическим тренировкам у пациентов с установленным хроническим коронарным синдромом"
+  },
+  "tags": [
+    "ccs",
+    "lifestyle",
+    "exercise",
+    "cardiac-rehabilitation",
+    "mhealth",
+    "physical-activity",
+    "risk-reduction"
+  ],
+  "source": {
+    "page": 42
+  },
+  "sections": [
+    {
+      "id": "sec-lifestyle-general",
+      "title": {
+        "en": "Lifestyle changes and exercise interventions",
+        "ru": "Изменение образа жизни и физические нагрузки"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "An informed discussion on CVD risk and treatment benefits tailored to individual patient needs is recommended.",
+            "ru": "Рекомендуется информированное обсуждение риска ССЗ и пользы лечения с учетом индивидуальных потребностей пациента."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Multidisciplinary behavioural approaches to help patients achieve healthy lifestyles, in addition to appropriate pharmacological management, are recommended.",
+            "ru": "Рекомендуются мультидисциплинарные поведенческие подходы для помощи пациентам в достижении здорового образа жизни в дополнение к надлежащей медикаментозной терапии."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "A multidisciplinary exercise-based programme to improve cardiovascular risk profile and reduce cardiovascular mortality is recommended.",
+            "ru": "Рекомендуется участие в мультидисциплинарной программе кардиологической реабилитации на основе физических тренировок для улучшения профиля сердечно-сосудистого риска и снижения кардиоваскулярной смертности."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Aerobic physical activity of at least 150–300 min per week of moderate intensity or 75–150 min per week of vigorous intensity and reduction in sedentary time are recommended.",
+            "ru": "Рекомендуются аэробные физические нагрузки умеренной интенсивности не менее 150–300 минут в неделю или высокой интенсивности 75–150 минут в неделю, а также сокращение времени малоподвижного образа жизни."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Home-based cardiac rehabilitation and mobile health interventions should be considered to increase patients' long-term adherence to healthy behaviours, and to reduce hospitalizations or cardiac events.",
+            "ru": "Домашняя кардиологическая реабилитация и цифровые мобильные технологии здравоохранения (mHealth) должны рассматриваться для повышения долгосрочной приверженности пациентов здоровому образу жизни и снижения частоты госпитализаций или кардиальных событий."
+          },
+          "class": "IIa",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

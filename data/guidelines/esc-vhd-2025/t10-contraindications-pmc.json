@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-vhd-2025.t10-contraindications-pmc",
+  "guidelineId": "esc-vhd-2025",
+  "number": "Table 8",
+  "type": "grid",
+  "title": {
+    "en": "Contraindications for percutaneous mitral commissurotomy in rheumatic mitral stenosis",
+    "ru": "Противопоказания к чрескожной митральной комиссуротомии при ревматическом митральном стенозе"
+  },
+  "columns": [
+    {
+      "id": "c_contraindication",
+      "title": {
+        "en": "Contraindications",
+        "ru": "Противопоказания"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-mva",
+      "cells": [
+        {
+          "text": {
+            "en": "MVA >1.5 cm²^[a]",
+            "ru": "Площадь отверстия митрального клапана (MVA) >1,5 см²^[a]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-la-thrombus",
+      "cells": [
+        {
+          "text": {
+            "en": "LA thrombus^[b]",
+            "ru": "Тромб в левом предсердии^[b]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-mr",
+      "cells": [
+        {
+          "text": {
+            "en": "More than mild MR",
+            "ru": "Митральная регургитация более чем легкой степени (> mild MR)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-calcification",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe or bi-commissural calcification",
+            "ru": "Выраженный или двусторонний кальциноз комиссур"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-absence-fusion",
+      "cells": [
+        {
+          "text": {
+            "en": "Absence of commissural fusion",
+            "ru": "Отсутствие сращения (слияния) комиссур"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-concomitant-valve",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe concomitant AV disease, or severe combined tricuspid stenosis and regurgitation requiring surgery",
+            "ru": "Тяжелое сопутствующее поражение аортального клапана либо тяжелый сочетанный стеноз и недостаточность трикуспидального клапана, требующие хирургического лечения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-concomitant-cad",
+      "cells": [
+        {
+          "text": {
+            "en": "Concomitant CAD requiring bypass surgery",
+            "ru": "Сопутствующая ИБС, требующая операции коронарного шунтирования (КШ)"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "PMC may be considered in patients with MVA of >1.5 cm² with symptoms that cannot be explained by another cause and if the anatomy is favourable.",
+      "ru": "PMC можно рассматривать у пациентов с MVA >1,5 см² при наличии симптомов, не объяснимых другой причиной, и благоприятной анатомии."
+    },
+    "b": {
+      "en": "When the thrombus is located in the LA appendage, PMC may be considered in patients with contraindications to surgery or those without urgent need for intervention, in whom OAC can be safely given for 1–3 months, provided repeat TOE confirms resolution of thrombus.",
+      "ru": "При локализации тромба исключительно в ушке ЛП проведение PMC возможно у пациентов с противопоказаниями к открытой операции или без экстренной потребности во вмешательстве, которым можно безопасно назначить пероральные антикоагулянты на 1–3 месяца, при условии полного лизиса тромба по данным повторной ЧП-ЭхоКГ."
+    }
+  },
+  "tags": [
+    "vhd",
+    "ms",
+    "pmc",
+    "rheumatic-ms",
+    "contraindications",
+    "la-thrombus",
+    "calcification",
+    "toe"
+  ]
+}

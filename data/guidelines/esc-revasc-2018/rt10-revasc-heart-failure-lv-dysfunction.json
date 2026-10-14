@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt10-revasc-heart-failure-lv-dysfunction",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 10",
+  "title": {
+    "en": "Recommendations on revascularizations in patients with chronic heart failure and systolic left ventricular dysfunction (ejection fraction ≤35%)",
+    "ru": "Рекомендации по реваскуляризации у пациентов с хронической сердечной недостаточностью и систолической дисфункцией левого желудочка (фракция выброса ≤35%)"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Revascularization in chronic HF and LV dysfunction (LVEF ≤35%)",
+        "ru": "Реваскуляризация при ХСН и систолической дисфункции ЛЖ (ФВ ЛЖ ≤35%)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In patients with severe LV systolic dysfunction and coronary artery disease suitable for intervention, myocardial revascularization is recommended.",
+            "ru": "У пациентов с выраженной систолической дисфункцией ЛЖ и ишемической болезнью сердца, подходящей для вмешательства, рекомендуется проведение реваскуляризации миокарда."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "CABG is recommended as the first revascularization strategy choice in patients with multivessel disease and acceptable surgical risk.",
+            "ru": "КШ рекомендуется в качестве метода выбора первой линии реваскуляризации у пациентов с многососудистым поражением и приемлемым хирургическим риском."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "In patients with one- or two-vessel disease, PCI should be considered as an alternative to CABG when complete revascularization can be achieved.",
+            "ru": "У пациентов с одно- или двухсосудистым поражением следует рассмотреть ЧКВ как альтернативу КШ, если возможно достижение полной реваскуляризации."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "In patients with three-vessel disease, PCI should be considered based on the evaluation by the Heart Team of the patient's coronary anatomy, the expected completeness of revascularization, diabetes status, and comorbidities.",
+            "ru": "У пациентов с трехсосудистым поражением возможность ЧКВ следует рассматривать на основе коллегиальной оценки Heart Team коронарной анатомии, ожидаемой полноты реваскуляризации, наличия диабета и сопутствующих заболеваний."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "LV aneurysmectomy during CABG should be considered in patients with NYHA class III/IV, large LV aneurysm, large thrombus formation, or if the aneurysm is the origin of arrhythmias.",
+            "ru": "Аневризмэктомию ЛЖ во время КШ следует рассмотреть у пациентов с III/IV ФК по NYHA, большой аневризмой ЛЖ, формированием крупного тромба или если аневризма служит источником аритмий."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Surgical ventricular restoration during CABG may be considered in selected patients treated in centres with expertise.",
+            "ru": "Хирургическое ремоделирование/восстановление ЛЖ (SVR) во время КШ может быть рассмотрено у отдельных пациентов в специализированных центрах с соответствующим опытом."
+          },
+          "class": "IIb",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

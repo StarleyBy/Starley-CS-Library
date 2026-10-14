@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt18-cdk4-6-inhibitors-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 18",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 18 — Recommendations for baseline risk assessment and monitoring during cyclin-dependent kinase 4/6 inhibitor therapy",
+    "ru": "Таблица рекомендаций 18 — Рекомендации по исходной оценке риска и мониторингу во время терапии ингибиторами циклин-зависимых киназ 4/6 (CDK4/6)"
+  },
+  "tags": [
+    "cardio-oncology",
+    "cdk4-6",
+    "ribociclib",
+    "palbociclib",
+    "abemaciclib",
+    "qtc",
+    "ecg",
+    "monitoring"
+  ],
+  "source": {
+    "page": 43
+  },
+  "sections": [
+    {
+      "id": "sec01-cdk4-6",
+      "title": {
+        "en": "CDK4/6 inhibitor therapy",
+        "ru": "Терапия ингибиторами CDK4/6"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "QTc monitoring (using Fridericia correction QTcF preferred; upper 99% normal is 450 ms for men, 460 ms for women) is recommended at baseline and 14 and 28 days in all patients with cancer receiving ribociclib (interrupt ribociclib if QTcF >480 ms; resume same dose if <481 ms; if recurrence, reduce dose).",
+            "ru": "Мониторинг интервала QTc (предпочтительна формула Фридеричи QTcF; верхняя 99% граница нормы 450 мс для мужчин, 460 мс для женщин) рекомендуется исходно, а также на 14-й и 28-й дни всем пациентам, получающим рибоциклиб (при QTcF >480 мс прием приостанавливают; при снижении <481 мс возобновляют в прежней дозе, при повторе — снижают дозу)."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "QTc monitoring is recommended in patients treated with ribociclib with any dose increase.",
+            "ru": "Мониторинг интервала QTc рекомендуется пациентам, получающим рибоциклиб, при любом повышении дозы."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "QTc monitoring should be considered in patients treated with palbociclib or abemaciclib who have a baseline QTc above the normal range or other conditions that may prolong the QTc interval.",
+            "ru": "Мониторинг интервала QTc следует рассматривать у пациентов, получающих палбоциклиб или абемациклиб, имеющих исходное удлинение QTc выше нормы или другие сопутствующие факторы, способные удлинять интервал QTc."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

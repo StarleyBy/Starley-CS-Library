@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.t10-diagnostic-criteria",
+  "guidelineId": "esc-endo-2023",
+  "number": "Table 10",
+  "type": "grid",
+  "title": {
+    "en": "Table 10 — Definitions of the 2023 European Society of Cardiology modified diagnostic criteria of infective endocarditis",
+    "ru": "Таблица 10 — Модифицированные диагностические критерии инфекционного эндокардита Европейского общества кардиологов 2023 года"
+  },
+  "tags": [
+    "endocarditis",
+    "diagnostic-criteria",
+    "major-criteria",
+    "minor-criteria",
+    "blood-cultures",
+    "imaging",
+    "duke-criteria",
+    "esc-criteria"
+  ],
+  "columns": [
+    {
+      "id": "c_category",
+      "title": {
+        "en": "Category",
+        "ru": "Категория критериев"
+      }
+    },
+    {
+      "id": "c_description",
+      "title": {
+        "en": "Definition / Findings",
+        "ru": "Определение / Диагностические признаки"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-major-blood-culture-typical",
+      "cells": [
+        { "text": { "en": "Major criteria: (i) Blood cultures positive for IE", "ru": "Большие критерии: (i) Положительный посев крови на ИЭ" } },
+        {
+          "text": {
+            "en": "(a) Typical microorganisms consistent with IE from two separate blood cultures: Oral streptococci, Streptococcus gallolyticus (formerly S. bovis), HACEK group, S. aureus, E. faecalis.",
+            "ru": "(a) Типичные микроорганизмы, ассоциированные с ИЭ, выделенные из двух раздельных посевов крови: оральные стрептококки, Streptococcus gallolyticus (ранее S. bovis), бактерии группы HACEK, S. aureus, E. faecalis."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-major-blood-culture-persistent",
+      "cells": [
+        { "text": { "en": "Major criteria: (i) Blood cultures positive for IE", "ru": "Большие критерии: (i) Положительный посев крови на ИЭ" } },
+        {
+          "text": {
+            "en": "(b) Microorganisms consistent with IE from continuously positive blood cultures: • ≥2 positive blood cultures of blood samples drawn >12 h apart; • All of 3 or a majority of ≥4 separate cultures of blood (with first and last samples drawn ≥1 h apart).",
+            "ru": "(b) Микроорганизмы, ассоциированные с ИЭ, выделенные из персистирующе положительных посевов крови: • ≥2 положительных посевов крови, взятых с интервалом >12 ч; • все 3 или большинство из ≥4 раздельных посевов крови (первый и последний забор с интервалом ≥1 ч)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-major-blood-culture-coxiella",
+      "cells": [
+        { "text": { "en": "Major criteria: (i) Blood cultures positive for IE", "ru": "Большие критерии: (i) Положительный посев крови на ИЭ" } },
+        {
+          "text": {
+            "en": "(c) Single positive blood culture for C. burnetii or phase I IgG antibody titre >1:800.",
+            "ru": "(c) Однократный положительный посев крови на C. burnetii или титр антител IgG к фазе I >1:800."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-major-imaging",
+      "cells": [
+        { "text": { "en": "Major criteria: (ii) Imaging positive for IE", "ru": "Большие критерии: (ii) Положительные данные визуализации на ИЭ" } },
+        {
+          "text": {
+            "en": "Valvular, perivalvular/periprosthetic and foreign material anatomic and metabolic lesions characteristic of IE detected by any of the following imaging techniques: • Echocardiography (TTE and TOE); • Cardiac CT; • [18F]-FDG-PET/CT(A); • WBC SPECT/CT.",
+            "ru": "Клапанные, параклапанные/перипротезные и связанные с инородными материалами анатомические или метаболические поражения, характерные для ИЭ, выявленные любым из следующих методов визуализации: • эхокардиография (ТТЭхоКГ и ЧПЭхоКГ); • КТ сердца; • [18F]-ФДГ-ПЭТ/КТ(А); • ОФЭКТ/КТ с мечеными лейкоцитами."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-minor-predisposition",
+      "cells": [
+        { "text": { "en": "Minor criteria", "ru": "Малые критерии" } },
+        {
+          "text": {
+            "en": "(i) Predisposing conditions (i.e. predisposing heart condition at high or intermediate risk of IE or PWIDs).",
+            "ru": "(i) Предрасполагающие факторы (кардиальная патология высокого или промежуточного риска ИЭ либо употребление инъекционных наркотиков)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-minor-fever",
+      "cells": [
+        { "text": { "en": "Minor criteria", "ru": "Малые критерии" } },
+        {
+          "text": {
+            "en": "(ii) Fever defined as temperature >38°C.",
+            "ru": "(ii) Лихорадка (температура тела >38°C)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-minor-vascular",
+      "cells": [
+        { "text": { "en": "Minor criteria", "ru": "Малые критерии" } },
+        {
+          "text": {
+            "en": "(iii) Embolic vascular dissemination (including those asymptomatic detected by imaging only): • Major systemic and pulmonary emboli/infarcts and abscesses; • Haematogenous osteoarticular septic complications (i.e. spondylodiscitis); • Mycotic aneurysms; • Intracranial ischaemic/haemorrhagic lesions; • Conjunctival haemorrhages; • Janeway's lesions.",
+            "ru": "(iii) Сосудистые эмболические проявления (включая бессимптомные, выявленные только при визуализации): • большие системные и легочные эмболии/инфаркты и абсцессы; • гематогенные остеоартикулярные септические осложнения (спондилодисцит); • микотические аневризмы; • внутричерепные ишемические/геморрагические поражения; • кровоизлияния в конъюнктиву; • пятна Джейнуэя."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-minor-immunological",
+      "cells": [
+        { "text": { "en": "Minor criteria", "ru": "Малые критерии" } },
+        {
+          "text": {
+            "en": "(IV) Immunological phenomena: • Glomerulonephritis; • Osler nodes and Roth spots; • Rheumatoid factor.",
+            "ru": "(IV) Иммунологические феномены: • гломерулонефрит; • узелки Ослера и пятна Рота; • ревматоидный фактор."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-minor-microbiological",
+      "cells": [
+        { "text": { "en": "Minor criteria", "ru": "Малые критерии" } },
+        {
+          "text": {
+            "en": "(V) Microbiological evidence: • Positive blood culture but does not meet a major criterion as noted above; • Serological evidence of active infection with organism consistent with IE.",
+            "ru": "(V) Микробиологические доказательства: • положительный посев крови, не соответствующий критериям большого признака; • серологические маркеры активной инфекции возбудителем, ассоциированным с ИЭ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-classification-definite",
+      "cells": [
+        { "text": { "en": "IE Classification: Definite", "ru": "Классификация ИЭ: Определенный ИЭ" } },
+        {
+          "text": {
+            "en": "• 2 major criteria; OR • 1 major criterion and at least 3 minor criteria; OR • 5 minor criteria.",
+            "ru": "• 2 больших критерия; ИЛИ • 1 большой критерий и не менее 3 малых критериев; ИЛИ • 5 малых критериев."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-classification-possible",
+      "cells": [
+        { "text": { "en": "IE Classification: Possible", "ru": "Классификация ИЭ: Возможный ИЭ" } },
+        {
+          "text": {
+            "en": "• 1 major criterion and 1 or 2 minor criteria; OR • 3–4 minor criteria.",
+            "ru": "• 1 большой критерий и 1 или 2 малых критерия; ИЛИ • 3–4 малых критерия."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-classification-rejected",
+      "cells": [
+        { "text": { "en": "IE Classification: Rejected", "ru": "Классификация ИЭ: Отвергнутый ИЭ" } },
+        {
+          "text": {
+            "en": "• Does not meet criteria for definite or possible at admission with or without a firm alternative diagnosis.",
+            "ru": "• Не соответствует критериям определенного или возможного ИЭ при поступлении, с установлением твердого альтернативного диагноза или без него."
+          }
+        }
+      ]
+    }
+  ]
+}

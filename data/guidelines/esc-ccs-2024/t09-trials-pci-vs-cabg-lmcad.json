@@ -1,0 +1,451 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.t09-trials-pci-vs-cabg-lmcad",
+  "guidelineId": "esc-ccs-2024",
+  "number": "Table 9",
+  "type": "grid",
+  "title": {
+    "en": "Summary of trial-based evidence for the comparison of percutaneous coronary intervention and coronary artery bypass grafting in patients with left main coronary artery disease",
+    "ru": "Сводные данные рандомизированных исследований по сравнению ЧКВ и КШ у пациентов с поражением ствола левой коронарной артерии"
+  },
+  "tags": [
+    "ccs",
+    "left-main",
+    "pci",
+    "cabg",
+    "precombat",
+    "syntax",
+    "noble",
+    "excel",
+    "trials",
+    "mortality",
+    "stroke"
+  ],
+  "source": {
+    "page": 52
+  },
+  "columns": [
+    {
+      "id": "study",
+      "title": {
+        "en": "Study",
+        "ru": "Исследование"
+      }
+    },
+    {
+      "id": "population",
+      "title": {
+        "en": "Study population",
+        "ru": "Популяция пациентов"
+      }
+    },
+    {
+      "id": "endpoint",
+      "title": {
+        "en": "Primary endpoint",
+        "ru": "Первичная конечная точка"
+      }
+    },
+    {
+      "id": "followup",
+      "title": {
+        "en": "Follow-up",
+        "ru": "Период наблюдения"
+      }
+    },
+    {
+      "id": "findings",
+      "title": {
+        "en": "Findings",
+        "ru": "Основные результаты"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-precombat-2y",
+      "cells": [
+        {
+          "text": {
+            "en": "PRECOMBAT (non-inferiority)",
+            "ru": "PRECOMBAT (исследование не меньшей эффективности)"
+          }
+        },
+        {
+          "text": {
+            "en": "600 patients with newly diagnosed LMCAD who had stable angina, unstable angina, silent ischaemia, or non-ST-segment elevation MI",
+            "ru": "600 пациентов с впервые выявленным стенозом ствола ЛКА со стабильной или нестабильной стенокардией, безболевой ишемией или ИМбпST"
+          }
+        },
+        {
+          "text": {
+            "en": "All-cause death, MI, stroke, or ischaemia-driven target vessel revascularization",
+            "ru": "Общая смертность, инфаркт миокарда, инсульт или повторная реваскуляризация целевого сосуда по поводу ишемии"
+          }
+        },
+        {
+          "text": {
+            "en": "2 years",
+            "ru": "2 года"
+          }
+        },
+        {
+          "text": {
+            "en": "1-year follow-up: 8.7% and 6.7% primary endpoints for PCI and CABG, respectively, absolute risk difference 2% (95% CI, -1.6% to 5.6%), P = .01 for non-inferiority.\n2-year follow-up: 12.2% and 8.1% primary endpoints for PCI and CABG, respectively, HR 1.50 (95% CI, 0.90–2.52), P = .12.",
+            "ru": "1 год: 8,7% и 6,7% первичных точек для ЧКВ и КШ соответственно, абсолютная разница 2% (95% ДИ от -1,6% до 5,6%), P = 0,01 для non-inferiority.\n2 года: 12,2% и 8,1% точек для ЧКВ и КШ, ОР 1,50 (95% ДИ 0,90–2,52), P = 0,12."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-precombat-5y",
+      "cells": [
+        {
+          "text": {
+            "en": "PRECOMBAT (extended follow-up)",
+            "ru": "PRECOMBAT (продленное наблюдение)"
+          }
+        },
+        {
+          "text": {
+            "en": "600 patients with LMCAD",
+            "ru": "600 пациентов со стенозом ствола ЛКА"
+          }
+        },
+        {
+          "text": {
+            "en": "All-cause death, MI, stroke, or ischaemia-driven target vessel revascularization",
+            "ru": "Общая смертность, ИМ, инсульт или реваскуляризация целевого сосуда"
+          }
+        },
+        {
+          "text": {
+            "en": "5 years",
+            "ru": "5 лет"
+          }
+        },
+        {
+          "text": {
+            "en": "17.5% and 14.3% primary endpoints for PCI and CABG, respectively, HR 1.27 (95% CI, 0.84–1.90), P = .26",
+            "ru": "17,5% и 14,3% точек для ЧКВ и КШ соответственно, ОР 1,27 (95% ДИ 0,84–1,90), P = 0,26"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-precombat-11y",
+      "cells": [
+        {
+          "text": {
+            "en": "PRECOMBAT (extended follow-up)",
+            "ru": "PRECOMBAT (отдаленное наблюдение)"
+          }
+        },
+        {
+          "text": {
+            "en": "600 patients with LMCAD",
+            "ru": "600 пациентов со стенозом ствола ЛКА"
+          }
+        },
+        {
+          "text": {
+            "en": "All-cause death, MI, stroke, or ischaemia-driven target vessel revascularization",
+            "ru": "Общая смертность, ИМ, инсульт или реваскуляризация целевого сосуда"
+          }
+        },
+        {
+          "text": {
+            "en": "11.3 years (median)",
+            "ru": "11,3 года (медиана)"
+          }
+        },
+        {
+          "text": {
+            "en": "29.8% and 24.7% primary endpoints for PCI and CABG, respectively, HR 1.25 (95% CI, 0.93–1.69)",
+            "ru": "29,8% и 24,7% точек для ЧКВ и КШ соответственно, ОР 1,25 (95% ДИ 0,93–1,69)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-syntax-1y",
+      "cells": [
+        {
+          "text": {
+            "en": "SYNTAX (1 year)",
+            "ru": "SYNTAX (1 год)"
+          }
+        },
+        {
+          "text": {
+            "en": "1800 patients with de novo three-vessel (n = 1095) and LMCAD (n = 795)",
+            "ru": "1800 пациентов с трехсосудистым поражением (n = 1095) и поражением ствола ЛКА (n = 795)"
+          }
+        },
+        {
+          "text": {
+            "en": "All-cause death, stroke, MI, and repeat revascularization",
+            "ru": "Общая смертность, инсульт, инфаркт миокарда и повторная реваскуляризация"
+          }
+        },
+        {
+          "text": {
+            "en": "1 year",
+            "ru": "1 год"
+          }
+        },
+        {
+          "text": {
+            "en": "For the LMCAD group: 15.8% and 13.7% primary endpoints for PCI and CABG, respectively; P = .44",
+            "ru": "Для группы ствола ЛКА: 15,8% и 13,7% конечных точек для ЧКВ и КШ соответственно; P = 0,44"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-syntax-3y",
+      "cells": [
+        {
+          "text": {
+            "en": "SYNTAX (3 years)",
+            "ru": "SYNTAX (3 года)"
+          }
+        },
+        {
+          "text": {
+            "en": "LMCAD cohort (n = 795)",
+            "ru": "Когорта ствола ЛКА (n = 795)"
+          }
+        },
+        {
+          "text": {
+            "en": "All-cause death, stroke, MI, and repeat revascularization",
+            "ru": "Общая смертность, инсульт, ИМ и повторная реваскуляризация"
+          }
+        },
+        {
+          "text": {
+            "en": "3 years",
+            "ru": "3 года"
+          }
+        },
+        {
+          "text": {
+            "en": "For the LMCAD group: 26.8% and 22.3%, primary endpoints for PCI and CABG, respectively; P = .20",
+            "ru": "Для группы ствола ЛКА: 26,8% и 22,3% первичных точек для ЧКВ и КШ соответственно; P = 0,20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-syntax-5y",
+      "cells": [
+        {
+          "text": {
+            "en": "SYNTAX (5 years)",
+            "ru": "SYNTAX (5 лет)"
+          }
+        },
+        {
+          "text": {
+            "en": "LMCAD cohort (n = 795)",
+            "ru": "Когорта ствола ЛКА (n = 795)"
+          }
+        },
+        {
+          "text": {
+            "en": "All-cause death, stroke, MI, and repeat revascularization",
+            "ru": "Общая смертность, инсульт, ИМ и повторная реваскуляризация"
+          }
+        },
+        {
+          "text": {
+            "en": "5 years",
+            "ru": "5 лет"
+          }
+        },
+        {
+          "text": {
+            "en": "For the LMCAD group: 36.9% and 31.0% primary endpoints for PCI and CABG, respectively, HR 1.25 (95% CI, 0.93–1.69), P = .12",
+            "ru": "Для группы ствола ЛКА: 36,9% и 31,0% точек для ЧКВ и КШ соответственно, ОР 1,25 (95% ДИ 0,93–1,69), P = 0,12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-syntax-10y",
+      "cells": [
+        {
+          "text": {
+            "en": "SYNTAX (extended follow-up 10 years)",
+            "ru": "SYNTAX (отдаленное наблюдение 10 лет)"
+          }
+        },
+        {
+          "text": {
+            "en": "LMCAD cohort (n = 795)",
+            "ru": "Когорта ствола ЛКА (n = 795)"
+          }
+        },
+        {
+          "text": {
+            "en": "All-cause death",
+            "ru": "Общая смертность"
+          }
+        },
+        {
+          "text": {
+            "en": "10 years",
+            "ru": "10 лет"
+          }
+        },
+        {
+          "text": {
+            "en": "For the LMCAD group: 27% and 28% primary endpoints for PCI and CABG, respectively, HR 0.92 (95% CI, 0.69–1.22)",
+            "ru": "Для группы ствола ЛКА: 27% и 28% смертей для ЧКВ и КШ соответственно, ОР 0,92 (95% ДИ 0,69–1,22)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-noble-3y",
+      "cells": [
+        {
+          "text": {
+            "en": "NOBLE (non-inferiority hypothesis)",
+            "ru": "NOBLE (гипотеза не меньшей эффективности)"
+          }
+        },
+        {
+          "text": {
+            "en": "1201 patients with LMCAD who had stable angina pectoris, unstable angina pectoris, or non-ST-segment elevation myocardial infarction",
+            "ru": "1201 пациент со стенозом ствола ЛКА со стабильной, нестабильной стенокардией или ИМбпST"
+          }
+        },
+        {
+          "text": {
+            "en": "All-cause death, non-procedural MI, any repeat coronary revascularization, or stroke",
+            "ru": "Общая смертность, непроцедурный инфаркт миокарда, любая повторная реваскуляризация или инсульт"
+          }
+        },
+        {
+          "text": {
+            "en": "3.1 years (mean)",
+            "ru": "3,1 года (в среднем)"
+          }
+        },
+        {
+          "text": {
+            "en": "28% and 18% primary endpoints for PCI and CABG, HR 1.51 (95% CI, 1.13–2.00), P = .004 for superiority of CABG",
+            "ru": "28% и 18% первичных точек для ЧКВ и КШ, ОР 1,51 (95% ДИ 1,13–2,00), P = 0,004 в пользу превосходства КШ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-noble-5y",
+      "cells": [
+        {
+          "text": {
+            "en": "NOBLE (extended follow-up)",
+            "ru": "NOBLE (продленное наблюдение)"
+          }
+        },
+        {
+          "text": {
+            "en": "1201 patients with LMCAD",
+            "ru": "1201 пациент со стенозом ствола ЛКА"
+          }
+        },
+        {
+          "text": {
+            "en": "All-cause death, non-procedural MI, any repeat coronary revascularization, or stroke",
+            "ru": "Общая смертность, непроцедурный ИМ, любая повторная реваскуляризация или инсульт"
+          }
+        },
+        {
+          "text": {
+            "en": "4.9 years (median)",
+            "ru": "4,9 года (медиана)"
+          }
+        },
+        {
+          "text": {
+            "en": "28% and 19% primary endpoints for PCI and CABG, HR 1.58 (95% CI, 1.24–2.01), P < .001 for superiority of CABG",
+            "ru": "28% и 19% первичных точек для ЧКВ и КШ, ОР 1,58 (95% ДИ 1,24–2,01), P < 0,001 в пользу превосходства КШ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-excel-3y",
+      "cells": [
+        {
+          "text": {
+            "en": "EXCEL (non-inferiority hypothesis)",
+            "ru": "EXCEL (гипотеза не меньшей эффективности)"
+          }
+        },
+        {
+          "text": {
+            "en": "1905 patients with LMCAD of low or intermediate anatomical complexity (SYNTAX score ≤ 32)",
+            "ru": "1905 пациентов со стенозом ствола ЛКА низкой или промежуточной сложности (индекс SYNTAX ≤32)"
+          }
+        },
+        {
+          "text": {
+            "en": "All-cause death, stroke, or MI",
+            "ru": "Общая смертность, инсульт или инфаркт миокарда"
+          }
+        },
+        {
+          "text": {
+            "en": "3 years (median)",
+            "ru": "3 года (медиана)"
+          }
+        },
+        {
+          "text": {
+            "en": "15.4% and 14.7% primary endpoints for PCI and CABG, absolute risk difference 0.7% (upper 97.5% confidence limit: 4%), P = .02 for non-inferiority; HR 1.00 (95% CI, 0.79–1.26), P = .98 for superiority",
+            "ru": "15,4% и 14,7% точек для ЧКВ и КШ, абсолютная разница 0,7% (верхний 97,5% предел: 4%), P = 0,02 для non-inferiority; ОР 1,00 (95% ДИ 0,79–1,26), P = 0,98"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-excel-5y",
+      "cells": [
+        {
+          "text": {
+            "en": "EXCEL (extended follow-up)",
+            "ru": "EXCEL (продленное наблюдение)"
+          }
+        },
+        {
+          "text": {
+            "en": "1905 patients with LMCAD (SYNTAX score ≤ 32)",
+            "ru": "1905 пациентов со стенозом ствола ЛКА (SYNTAX ≤32)"
+          }
+        },
+        {
+          "text": {
+            "en": "All-cause death, stroke, or MI",
+            "ru": "Общая смертность, инсульт или инфаркт миокарда"
+          }
+        },
+        {
+          "text": {
+            "en": "5 years",
+            "ru": "5 лет"
+          }
+        },
+        {
+          "text": {
+            "en": "22.0% and 19.2% primary endpoints for PCI and CABG, absolute risk difference 2.8% (95% CI, -0.9 to 6.5), P = .13; OR 1.19 (95% CI, 0.95–1.50)",
+            "ru": "22,0% и 19,2% точек для ЧКВ и КШ, абсолютная разница 2,8% (95% ДИ от -0,9 до 6,5), P = 0,13; ОШ 1,19 (95% ДИ 0,95–1,50)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt11-bcr-abl-tki-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 11",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 11 — Recommendations for baseline risk assessment and monitoring during second- and third-generation breakpoint cluster region–Abelson oncogene locus tyrosine kinase inhibitors",
+    "ru": "Таблица рекомендаций 11 — Рекомендации по исходной оценке риска и мониторингу во время применения ингибиторов тирозинкиназы BCR-ABL второго и третьего поколений"
+  },
+  "tags": [
+    "cardio-oncology",
+    "bcr-abl",
+    "tki",
+    "dasatinib",
+    "nilotinib",
+    "ponatinib",
+    "cml",
+    "qtc",
+    "pad",
+    "abi"
+  ],
+  "source": {
+    "page": 32
+  },
+  "sections": [
+    {
+      "id": "sec01-bcr-abl",
+      "title": {
+        "en": "BCR-ABL TKI monitoring",
+        "ru": "Мониторинг при терапии ИТК BCR-ABL"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Baseline CV risk assessment (physical examination, BP measurement, ECG, lipid profile, and HbA1c; coronary artery calcium scoring may be considered in low- and moderate-risk patients as per HFA-ICOS tools) is recommended in patients who require second- or third-generation BCR-ABL TKI.",
+            "ru": "Исходная оценка сердечно-сосудистого риска (физикальный осмотр, измерение АД, ЭКГ, липидограмма и HbA1c; оценка кальциевого индекса коронарных артерий может рассматриваться у пациентов низкого и умеренного риска по шкалам HFA-ICOS) рекомендуется пациентам, которым показаны ИТК BCR-ABL второго или третьего поколений."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In patients treated with nilotinib or ponatinib, CV risk assessment is recommended every 3 months during the first year and every 6–12 months thereafter.",
+            "ru": "У пациентов, получающих нилотиниб или понатиниб, оценка сердечно-сосудистого риска рекомендуется каждые 3 месяца в течение первого года и каждые 6–12 месяцев в дальнейшем."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "QTc measurement (using Fridericia correction QTcF preferred) should be considered at baseline, at 2 and 4 weeks after starting nilotinib, and 2 weeks after any dose increase.",
+            "ru": "Измерение QTc (предпочтительна формула Фридеричи QTcF) следует рассмотреть исходно, через 2 и 4 недели после начала приема нилотиниба, а также через 2 недели после любого повышения дозы."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Baseline echocardiography should be considered in all patients before starting second- and third-generation BCR-ABL TKI.",
+            "ru": "Исходную эхокардиографию следует рассмотреть всем пациентам перед началом приема ИТК BCR-ABL второго и третьего поколений."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "Baseline echocardiography is recommended in patients scheduled to receive dasatinib.",
+            "ru": "Исходная эхокардиография рекомендуется пациентам, которым запланирован прием дазатиниба."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "Echocardiography should be considered every 3 months during the first year in high- and very high-risk patients receiving dasatinib or ponatinib.",
+            "ru": "Эхокардиографию следует рассматривать каждые 3 месяца в течение первого года у пациентов высокого и очень высокого риска, получающих дазатиниб или понатиниб."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r07",
+          "text": {
+            "en": "Echocardiography may be considered every 6–12 months in patients who require long-term (>12 months) ponatinib or dasatinib.",
+            "ru": "Эхокардиография может рассматриваться каждые 6–12 месяцев у пациентов, которым требуется длительное (>12 месяцев) лечение понатинибом или дазатинибом."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r08",
+          "text": {
+            "en": "Serial assessment of ankle brachial index may be considered to detect subclinical peripheral vascular disease.",
+            "ru": "Серийная оценка лодыжечно-плечевого индекса (ЛПИ) может рассматриваться для выявления субклинического поражения периферических сосудов."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

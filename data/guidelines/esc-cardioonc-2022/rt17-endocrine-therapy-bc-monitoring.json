@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt17-endocrine-therapy-bc-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 17",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 17 — Recommendations for baseline risk assessment and monitoring during endocrine therapy for breast cancer",
+    "ru": "Таблица рекомендаций 17 — Рекомендации по исходной оценке риска и мониторингу во время эндокринной (гормональной) терапии рака молочной железы"
+  },
+  "tags": [
+    "cardio-oncology",
+    "breast-cancer",
+    "endocrine-therapy",
+    "tamoxifen",
+    "aromatase-inhibitors",
+    "score2",
+    "cv-risk"
+  ],
+  "source": {
+    "page": 41
+  },
+  "sections": [
+    {
+      "id": "sec01-endocrine-bc",
+      "title": {
+        "en": "Endocrine therapy for breast cancer",
+        "ru": "Эндокринная терапия рака молочной железы"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Baseline CV risk assessment (BP, lipids, fasting glucose, HbA1c, ECG, and lifestyle education) and estimation of 10-year fatal and non-fatal CVD risk with SCORE2 or SCORE2-OP (or other validated scores) is recommended in breast cancer patients receiving endocrine therapies without pre-existing CVD.",
+            "ru": "Исходная оценка сердечно-сосудистого риска (АД, липиды, глюкоза, HbA1c, ЭКГ и обучение здоровому образу жизни) и оценка 10-летнего риска фатальных и нефатальных сердечно-сосудистых осложнений по шкале SCORE2 или SCORE2-OP (или другим валидированным шкалам) рекомендуется пациенткам с раком молочной железы, получающим эндокринную терапию, без предшествующих ССЗ."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Annual CV risk assessment is recommended during endocrine therapy in breast cancer patients with high 10-year risk of (fatal and non-fatal) CV events according to SCORE2/SCORE2-OP.",
+            "ru": "Ежегодная оценка сердечно-сосудистого риска рекомендуется во время эндокринной терапии пациенткам с раком молочной железы, имеющим высокий 10-летний риск (фатальных и нефатальных) сердечно-сосудистых событий по SCORE2/SCORE2-OP."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "CV risk assessment should be considered every 5 years in breast cancer patients with low or moderate 10-year risk of (fatal and non-fatal) CV events according to SCORE2/SCORE2-OP.",
+            "ru": "Оценку сердечно-сосудистого риска следует рассматривать каждые 5 лет у пациенток с раком молочной железы с низким или умеренным 10-летним риском (фатальных и нефатальных) сердечно-сосудистых событий по SCORE2/SCORE2-OP."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

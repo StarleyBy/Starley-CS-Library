@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-pe-2019",
+  "society": "ESC/ERS",
+  "year": 2019,
+  "title": {
+    "en": "2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (ERS)",
+    "ru": "Рекомендации ESC/ERS 2019 по диагностике и лечению острой тромбоэмболии легочной артерии"
+  },
+  "shortTitle": {
+    "en": "ESC/ERS Pulmonary Embolism 2019",
+    "ru": "ESC/ERS ТЭЛА 2019"
+  },
+  "citation": "Eur Heart J. 2020;41(4):543–603",
+  "legend": "esc-2023",
+  "abbreviations": {
+    "BP": { "en": "blood pressure", "ru": "артериальное давление" },
+    "b.p.m.": { "en": "beats per minute", "ru": "ударов в минуту" },
+    "CT": { "en": "computed tomography", "ru": "компьютерная томография" },
+    "CTEPH": { "en": "chronic thromboembolic pulmonary hypertension", "ru": "хроническая тромбоэмболическая легочная гипертензия" },
+    "CTPA": { "en": "computed tomography pulmonary angiography", "ru": "компьютерно-томографическая ангиопульмонография" },
+    "CVP": { "en": "central venous pressure", "ru": "центральное венозное давление" },
+    "DOAC": { "en": "direct oral anticoagulant", "ru": "прямой оральный антикоагулянт" },
+    "DVT": { "en": "deep vein thrombosis", "ru": "тромбоз глубоких вен" },
+    "ECG": { "en": "electrocardiogram", "ru": "электрокардиограмма" },
+    "ECMO": { "en": "extracorporeal membrane oxygenation", "ru": "экстракорпоральная мембранная оксигенация" },
+    "ERS": { "en": "European Respiratory Society", "ru": "Европейское респираторное общество" },
+    "ESC": { "en": "European Society of Cardiology", "ru": "Европейское общество кардиологов" },
+    "GI": { "en": "gastrointestinal", "ru": "желудочно-кишечный" },
+    "INR": { "en": "international normalized ratio", "ru": "международное нормализованное отношение (МНО)" },
+    "LMWH": { "en": "low-molecular-weight heparin", "ru": "низкомолекулярный гепарин" },
+    "LV": { "en": "left ventricle/ventricular", "ru": "левый желудочек / левожелудочковый" },
+    "NOAC": { "en": "non-vitamin K antagonist oral anticoagulant", "ru": "новые (не-антагонисты витамина К) оральные антикоагулянты" },
+    "PA": { "en": "pulmonary artery", "ru": "легочная артерия" },
+    "PE": { "en": "pulmonary embolism", "ru": "тромбоэмболия легочной артерии (ТЭЛА)" },
+    "PESI": { "en": "Pulmonary Embolism Severity Index", "ru": "индекс тяжести тромбоэмболии легочной артерии PESI" },
+    "PVR": { "en": "pulmonary vascular resistance", "ru": "легочное сосудистое сопротивление" },
+    "RV": { "en": "right ventricle/ventricular", "ru": "правый желудочек / правожелудочковый" },
+    "sPESI": { "en": "simplified Pulmonary Embolism Severity Index", "ru": "упрощенный индекс тяжести тромбоэмболии легочной артерии sPESI" },
+    "TTE": { "en": "transthoracic echocardiography", "ru": "трансторакальная эхокардиография" },
+    "UFH": { "en": "unfractionated heparin", "ru": "нефракционированный гепарин" },
+    "V/Q": { "en": "ventilation/perfusion (lung scan)", "ru": "вентиляционно-перфузионная (сцинтиграфия легких)" },
+    "VKA": { "en": "vitamin K antagonist", "ru": "антагонист витамина К" },
+    "VTE": { "en": "venous thromboembolism", "ru": "венозная тромбоэмболия" }
+  }
+}

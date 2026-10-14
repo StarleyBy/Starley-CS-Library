@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-revasc-2018.rt07-nste-acs-invasive-evaluation",
+  "guidelineId": "esc-revasc-2018",
+  "number": "Rec Table 7",
+  "title": {
+    "en": "Recommendations for invasive evaluation and revascularization in non-ST-elevation acute coronary syndrome",
+    "ru": "Рекомендации по инвазивной оценке и реваскуляризации при остром коронарном синдроме без подъема сегмента ST"
+  },
+  "type": "recommendations",
+  "sections": [
+    {
+      "id": "sec-01",
+      "title": {
+        "en": "Invasive evaluation and revascularization in NSTE-ACS",
+        "ru": "Инвазивная оценка и реваскуляризация при ОКСбпST"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "Urgent coronary angiography (<2 h) is recommended in patients at very high ischaemic risk.",
+            "ru": "Экстренная коронарография (<2 ч) рекомендуется пациентам очень высокого ишемического риска."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "An early invasive strategy (<24 h) is recommended in patients with at least one high-risk criterion.",
+            "ru": "Ранняя инвазивная стратегия (<24 ч) рекомендуется пациентам при наличии хотя бы одного критерия высокого риска."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "An invasive strategy (<72 h after first presentation) is indicated in patients with at least one intermediate-risk criterion or recurrent symptoms.",
+            "ru": "Инвазивная стратегия (<72 ч от первого обращения) показана пациентам при наличии хотя бы одного критерия промежуточного риска или рецидивирующих симптомах."
+          },
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "It is recommended to base the revascularization strategy (ad hoc culprit lesion PCI/multivessel PCI/CABG) on the clinical status and comorbidities, as well as the disease severity [i.e. the distribution and angiographic lesion characteristics (e.g. SYNTAX score)], according to the principles for SCAD (may apply to stabilized NSTE-ACS patients).",
+            "ru": "Рекомендуется основывать стратегию реваскуляризации (одномоментное ad hoc ЧКВ на инфаркт-связанной артерии, многососудистое ЧКВ или КШ) на клиническом состоянии и коморбидности, а также на тяжести поражения [т.е. локализации и ангиографических характеристиках поражений (например, по шкале SYNTAX)] в соответствии с принципами для стабильной ИБС (применимо к стабилизированным пациентам с ОКСбпST)."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "In cardiogenic shock, routine revascularization of non-IRA lesions is not recommended during primary PCI.",
+            "ru": "При кардиогенном шоке рутинная реваскуляризация не связанных с инфарктом поражений (non-IRA) во время первичного ЧКВ не рекомендуется."
+          },
+          "class": "III",
+          "level": "B"
+        }
+      ]
+    }
+  ]
+}

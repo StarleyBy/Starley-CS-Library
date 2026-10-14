@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-cardioonc-2022.rt15-ici-monitoring",
+  "guidelineId": "esc-cardioonc-2022",
+  "number": "Rec Table 15",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation Table 15 — Recommendations for baseline risk assessment and monitoring during immunotherapy",
+    "ru": "Таблица рекомендаций 15 — Рекомендации по исходной оценке риска и мониторингу во время иммунотерапии (ингибиторами иммунных контрольных точек, ICI)"
+  },
+  "tags": [
+    "cardio-oncology",
+    "ici",
+    "immune-checkpoint-inhibitors",
+    "myocarditis",
+    "troponin",
+    "np",
+    "ecg",
+    "tte",
+    "monitoring"
+  ],
+  "source": {
+    "page": 38
+  },
+  "sections": [
+    {
+      "id": "sec01-ici",
+      "title": {
+        "en": "Immune checkpoint inhibitors (ICI) monitoring",
+        "ru": "Мониторинг при терапии ингибиторами иммунных контрольных точек (ICI)"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "ECG, NP, and cTn measurements are recommended in all patients before starting ICI therapy.",
+            "ru": "ЭКГ, определение уровней натрийуретических пептидов (NP) и сердечных тропонинов (cTn) рекомендуются всем пациентам перед началом терапии ICI."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "Baseline echocardiography is recommended in high-risk patients (dual ICI, combination ICI-cardiotoxic therapy, ICI-related non-CV events, prior CTRCD, or CVD) before starting ICI therapy.",
+            "ru": "Исходная эхокардиография рекомендуется пациентам высокого риска (двойная блокада ICI, комбинация ICI с кардиотоксичной терапией, некардиальные иммуноопосредованные осложнения на ICI, предшествующая кардиотоксичность CTRCD или ССЗ) перед началом терапии ICI."
+          },
+          "class": "I",
+          "level": "B"
+        },
+        {
+          "id": "r03",
+          "text": {
+            "en": "Baseline echocardiography may be considered in all patients before starting ICI therapy.",
+            "ru": "Исходная эхокардиография может рассматриваться всем пациентам перед началом терапии ICI."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Serial ECG and cTn measurements should be considered before ICI doses 2, 3, and 4, and if normal, reduce to every three doses until completion of therapy to detect subclinical ICI-related CV toxicity.",
+            "ru": "Серийное выполнение ЭКГ и определение уровня cTn следует рассмотреть перед 2-м, 3-м и 4-м введениями ICI, а при отсутствии изменений — сократить частоту до одного раза в 3 введения до завершения терапии для выявления субклинической сердечно-сосудистой токсичности."
+          },
+          "class": "IIa",
+          "level": "B"
+        },
+        {
+          "id": "r05",
+          "text": {
+            "en": "CV assessment (physical examination, BP, NP [BNP or NT-proBNP], lipid profile, HbA1c, and ECG) is recommended every 6–12 months in high-risk patients who require long-term (>12 months) ICI treatment.",
+            "ru": "Оценка сердечно-сосудистого статуса (осмотр, АД, NP [BNP или NT-proBNP], липидограмма, HbA1c и ЭКГ) рекомендуется каждые 6–12 месяцев пациентам группы высокого риска, которым требуется длительное (>12 месяцев) лечение ICI."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06",
+          "text": {
+            "en": "CV assessment (physical examination, BP, NP, lipid profile, HbA1c, and ECG) may be considered every 6–12 months in all patients who require long-term (>12 months) ICI treatment.",
+            "ru": "Оценка сердечно-сосудистого статуса (осмотр, АД, NP, липидограмма, HbA1c и ЭКГ) может рассматриваться каждые 6–12 месяцев всем пациентам, которым требуется длительное (>12 месяцев) лечение ICI."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-ccs-2024.rt26-special-patient-groups",
+  "guidelineId": "esc-ccs-2024",
+  "type": "recommendations",
+  "number": "Rec Table 26",
+  "title": {
+    "en": "Recommendations for older, female, high bleeding risk, comorbid, and socially/geographically diverse patients",
+    "ru": "Рекомендации для пожилых, женщин, пациентов с высоким риском кровотечений, коморбидных и социально/географически разнообразных групп пациентов"
+  },
+  "sections": [
+    {
+      "id": "older-adults",
+      "title": {
+        "en": "Older adults",
+        "ru": "Пожилой и старческий возраст"
+      },
+      "rows": [
+        {
+          "id": "r01",
+          "text": {
+            "en": "In older adults (≥75 years), particular attention to drug side effects, intolerance, drug–drug interactions, overdosing, and procedural complications is recommended.",
+            "ru": "У пожилых пациентов (≥75 лет) рекомендуется уделять особое внимание побочным эффектам лекарств, непереносимости, межлекарственным взаимодействиям, передозировке и процедурным осложнениям."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02",
+          "text": {
+            "en": "In older, as in younger, individuals, diagnostic and revascularization decisions based on symptoms, extent of ischaemia, frailty, life expectancy, comorbidities, and patient preferences are recommended.",
+            "ru": "У пожилых лиц, как и у более молодых, рекомендуется принимать решения о диагностике и реваскуляризации на основании симптомов, выраженности ишемии, старческой астении (frailty), ожидаемой продолжительности жизни, коморбидности и предпочтений пациента."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sex",
+      "title": {
+        "en": "Sex",
+        "ru": "Пол"
+      },
+      "rows": [
+        {
+          "id": "r03",
+          "text": {
+            "en": "Similar guideline-directed cardiovascular preventive therapy is recommended in women and men.",
+            "ru": "Женщинам и мужчинам рекомендуется одинаковая направляемая клиническими рекомендациями сердечно-сосудистая профилактическая терапия."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04",
+          "text": {
+            "en": "Systemic post-menopausal hormone therapy is not recommended in women with CCS, given the lack of cardiovascular benefit and an increased risk of thrombo-embolic complications.",
+            "ru": "Системная постменопаузальная гормональная терапия не рекомендуется женщинам с ХКС ввиду отсутствия сердечно-сосудистой пользы и повышенного риска тромбоэмболических осложнений."
+          },
+          "class": "III",
+          "level": "A"
+        }
+      ]
+    },
+    {
+      "id": "high-bleeding-risk",
+      "title": {
+        "en": "High bleeding risk",
+        "ru": "Высокий риск кровотечений"
+      },
+      "rows": [
+        {
+          "id": "r05",
+          "text": {
+            "en": "Bleeding risk assessment is recommended using the PRECISE-DAPT score, the qualitative ARC-HBR tool or other, validated methods.",
+            "ru": "Оценка риска кровотечений рекомендуется с использованием шкалы PRECISE-DAPT, качественного инструмента ARC-HBR или других валидированных методов."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "hiv",
+      "title": {
+        "en": "HIV",
+        "ru": "ВИЧ-инфекция"
+      },
+      "rows": [
+        {
+          "id": "r06",
+          "text": {
+            "en": "Attention to interaction between antiretroviral treatment and statins is recommended in patients with HIV.",
+            "ru": "У пациентов с ВИЧ рекомендуется обращать внимание на взаимодействие между антиретровирусной терапией и статинами."
+          },
+          "class": "I",
+          "level": "B"
+        }
+      ]
+    },
+    {
+      "id": "socioeconomic-geographical-under-investigated",
+      "title": {
+        "en": "Socioeconomic, geographical, and under-investigated groups",
+        "ru": "Социально-экономические, географические и малоизученные группы"
+      },
+      "rows": [
+        {
+          "id": "r07",
+          "text": {
+            "en": "Continued targeted efforts are recommended:\n• to increase delivery of safe and effective cardiac care to all CCS patients, especially those of lower socioeconomic classes; and\n• to enhance inclusion in future clinical trials of geographical, social, or other groups that are currently underrepresented.",
+            "ru": "Рекомендуются постоянные целенаправленные усилия:\n• для расширения доступности безопасной и эффективной кардиологической помощи всем пациентам с ХКС, особенно представителям более низких социально-экономических слоев; и\n• для расширения включения в будущие клинические исследования географических, социальных и других групп населения, которые в настоящее время недостаточно представлены."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ]
+}

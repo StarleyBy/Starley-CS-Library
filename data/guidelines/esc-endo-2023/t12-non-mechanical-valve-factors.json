@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-endo-2023.t12-non-mechanical-valve-factors",
+  "guidelineId": "esc-endo-2023",
+  "number": "Table 12",
+  "type": "grid",
+  "title": {
+    "en": "Table 12 — Features favouring a non-mechanical valve substitute in the setting of surgery for acute infective endocarditis",
+    "ru": "Таблица 12 — Факторы в пользу выбора немеханического клапанного протеза (биологического протеза) при хирургическом лечении острого инфекционного эндокардита"
+  },
+  "tags": [
+    "endocarditis",
+    "surgery",
+    "valve-selection",
+    "bioprosthesis",
+    "non-mechanical-valve",
+    "stroke",
+    "bleeding"
+  ],
+  "columns": [
+    {
+      "id": "c_feature",
+      "title": {
+        "en": "Clinical Feature",
+        "ru": "Клинический фактор"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-recent-ischaemic-stroke",
+      "cells": [
+        {
+          "text": {
+            "en": "Early surgery after a recent ischaemic stroke",
+            "ru": "Раннее хирургическое вмешательство после недавнего ишемического инсульта"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-intracranial-bleeding",
+      "cells": [
+        {
+          "text": {
+            "en": "Evidence of intracranial bleeding",
+            "ru": "Признаки внутричерепного кровоизлияния"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-childbearing-age",
+      "cells": [
+        {
+          "text": {
+            "en": "Woman of childbearing age",
+            "ru": "Женщина детородного возраста (планирующая беременность)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-prolonged-mcs",
+      "cells": [
+        {
+          "text": {
+            "en": "High likelihood of prolonged mechanical circulatory support",
+            "ru": "Высокая вероятность длительной механической поддержки кровообращения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-advanced-age-frailty",
+      "cells": [
+        {
+          "text": {
+            "en": "Advanced age or frailty",
+            "ru": "Пожилой возраст или старческая астения (frailty)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-poor-compliance",
+      "cells": [
+        {
+          "text": {
+            "en": "Poor or unknown medical compliance",
+            "ru": "Низкая или неизвестная приверженность лечению"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-complicated-post-op",
+      "cells": [
+        {
+          "text": {
+            "en": "Expected complicated and prolonged post-operative course",
+            "ru": "Ожидаемое осложненное и затяжное послеоперационное течение"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-patient-preference",
+      "cells": [
+        {
+          "text": {
+            "en": "Patient preference",
+            "ru": "Предпочтение самого пациента"
+          }
+        }
+      ]
+    }
+  ]
+}
