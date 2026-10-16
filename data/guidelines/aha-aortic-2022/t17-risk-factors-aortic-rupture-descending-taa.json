@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t17-risk-factors-aortic-rupture-descending-taa",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 17",
+  "type": "grid",
+  "title": {
+    "en": "Risk Factors for Aortic Rupture Among Patients With Descending TAA",
+    "ru": "Факторы риска разрыва аорты у пациентов с аневризмой нисходящей грудной аорты"
+  },
+  "tags": [
+    "taa",
+    "descending-aorta",
+    "rupture",
+    "risk-factors",
+    "high-risk"
+  ],
+  "columns": [
+    {
+      "id": "feature",
+      "title": {
+        "en": "High-Risk Features for Rupture",
+        "ru": "Признаки высокого риска разрыва"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "aneurysm-growth",
+      "cells": [
+        {
+          "text": {
+            "en": "Aneurysm growth of ≥0.5 cm/y",
+            "ru": "Рост аневризмы ≥0,5 см/год"
+          },
+          "refs": [3]
+        }
+      ]
+    },
+    {
+      "id": "symptomatic-aneurysm",
+      "cells": [
+        {
+          "text": {
+            "en": "Symptomatic aneurysm",
+            "ru": "Симптомная аневризма"
+          },
+          "refs": [4]
+        }
+      ]
+    },
+    {
+      "id": "genetic-syndromes",
+      "cells": [
+        {
+          "text": {
+            "en": "Marfan, Loeys-Dietz, or vascular Ehlers-Danlos syndrome, or HTAD (see Section 6.1.2, \"Genetic Aortopathies\")",
+            "ru": "Синдром Марфана, синдром Лойса–Дитца или сосудистый тип синдрома Элерса–Данлоса, либо HTAD (см. раздел 6.1.2 «Генетические аортопатии»)"
+          },
+          "refs": [2]
+        }
+      ]
+    },
+    {
+      "id": "saccular-aneurysm",
+      "cells": [
+        {
+          "text": {
+            "en": "Saccular aneurysm",
+            "ru": "Мешотчатая аневризма"
+          },
+          "refs": [5]
+        }
+      ]
+    },
+    {
+      "id": "female-sex",
+      "cells": [
+        {
+          "text": {
+            "en": "Female sex",
+            "ru": "Женский пол"
+          },
+          "refs": [2]
+        }
+      ]
+    },
+    {
+      "id": "infectious-aneurysm",
+      "cells": [
+        {
+          "text": {
+            "en": "Infectious aneurysm",
+            "ru": "Инфекционная аневризма"
+          },
+          "refs": [6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

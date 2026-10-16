@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt44-open-vs-endovascular-repair-aaa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 44",
+  "title": {
+    "en": "Recommendations for Open Versus Endovascular Repair of AAA",
+    "ru": "Рекомендации по открытому в сравнении с эндоваскулярным протезированием аневризмы брюшной аорты (АБА)"
+  },
+  "tags": [
+    "aaa",
+    "evar",
+    "open-repair",
+    "shared-decision-making",
+    "high-risk",
+    "fenestrated"
+  ],
+  "sections": [
+    {
+      "id": "sec-open-vs-endovascular-repair-aaa",
+      "title": {
+        "en": "Open Versus Endovascular Repair of AAA",
+        "ru": "Открытое в сравнении с эндоваскулярным протезированием АБА"
+      },
+      "rows": [
+        {
+          "id": "r01-shared-decision-making-low-moderate-risk",
+          "text": {
+            "en": "In patients with nonruptured AAA with low to moderate operative risk and who have anatomy suitable for either open or EVAR, a shared decision-making process weighing the risks and benefits of each approach is recommended.",
+            "ru": "У пациентов с неразорвавшейся АБА с низким или умеренным операционным риском и анатомией, пригодной как для открытой операции, так и для EVAR, рекомендуется совместное принятие решений со взвешиванием рисков и преимуществ каждого подхода."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        },
+        {
+          "id": "r02-adherence-instructions-for-use",
+          "text": {
+            "en": "In patients undergoing elective endovascular repair for nonruptured AAA, adherence to manufacturer's instructions for use is recommended.",
+            "ru": "У пациентов, переносящих плановое эндоваскулярное протезирование неразорвавшейся АБА, рекомендуется строгое соблюдение инструкции производителя по применению (IFU)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [12, 13, 14, 15, 16]
+        },
+        {
+          "id": "r03-evar-high-perioperative-risk",
+          "text": {
+            "en": "In patients with nonruptured AAA and a high perioperative risk, EVAR is reasonable to reduce the risk of 30-day morbidity, mortality, or both.",
+            "ru": "У пациентов с неразорвавшейся АБА и высоким периоперационным риском целесообразно выполнение EVAR для снижения 30-дневной заболеваемости, смертности или обоих показателей."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [2, 10]
+        },
+        {
+          "id": "r04-fenestrated-endovascular-device",
+          "text": {
+            "en": "For patients with nonruptured AAA, a moderate to high perioperative risk, and anatomy suitable for an FDA-approved fenestrated endovascular device, endovascular repair is reasonable over open repair to reduce the risk of perioperative complications.",
+            "ru": "У пациентов с неразорвавшейся АБА с умеренным или высоким периоперационным риском и анатомией, подходящей для одобренного FDA фенестрированного эндопротеза, эндоваскулярное протезирование целесообразно предпочтительнее открытой операции для снижения риска периоперационных осложнений."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [10, 11, 17, 18]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

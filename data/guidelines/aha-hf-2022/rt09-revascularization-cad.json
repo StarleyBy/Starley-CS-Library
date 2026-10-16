@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt09-revascularization-cad",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendation for Revascularization for CAD",
+  "title": {
+    "en": "Recommendation for Revascularization for CAD",
+    "ru": "Рекомендация по реваскуляризации при ИБС"
+  },
+  "tags": [
+    "cad",
+    "revascularization",
+    "cabg",
+    "pci",
+    "ischemic-heart-disease",
+    "hfref",
+    "reduced-ef",
+    "gdmt",
+    "mortality",
+    "hospitalizations"
+  ],
+  "sections": [
+    {
+      "id": "sec-revascularization-cad",
+      "title": {
+        "en": "Surgical Revascularization in Heart Failure with Reduced Ejection Fraction",
+        "ru": "Хирургическая реваскуляризация при сердечной недостаточности со сниженной фракцией выброса"
+      },
+      "rows": [
+        {
+          "id": "r01-surgical-revasc-cad",
+          "text": {
+            "en": "In selected patients with HF, reduced EF (EF ≤35%), and suitable coronary anatomy, surgical revascularization plus GDMT is beneficial to improve symptoms, cardiovascular hospitalizations, and long-term all-cause mortality.",
+            "ru": "У отобранных пациентов с СН, сниженной ФВ (ФВ ≤35%) и подходящей коронарной анатомией хирургическая реваскуляризация в сочетании с GDMT эффективна для улучшения симптомов, снижения числа сердечно-сосудистых госпитализаций и долгосрочной общей смертности."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

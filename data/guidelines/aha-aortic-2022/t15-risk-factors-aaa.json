@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t15-risk-factors-aaa",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 15",
+  "type": "grid",
+  "title": {
+    "en": "Risk Factors for Abdominal Aortic Aneurysm",
+    "ru": "Факторы риска аневризмы брюшной аорты (АБА)"
+  },
+  "tags": [
+    "aaa",
+    "abdominal-aortic-aneurysm",
+    "risk-factors",
+    "smoking",
+    "age",
+    "hypertension",
+    "hyperlipidemia",
+    "connective-tissue",
+    "atherosclerosis"
+  ],
+  "columns": [
+    {
+      "id": "strong_risk_factors",
+      "title": {
+        "en": "Strong Risk Factors",
+        "ru": "Основные факторы риска"
+      }
+    },
+    {
+      "id": "additional_risk_factors",
+      "title": {
+        "en": "Additional Risk Factors",
+        "ru": "Дополнительные факторы риска"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "smoking-hypertension",
+      "cells": [
+        {
+          "text": {
+            "en": "Smoking history",
+            "ru": "Курение в анамнезе"
+          }
+        },
+        {
+          "text": {
+            "en": "Hypertension",
+            "ru": "Артериальная гипертензия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "age-hyperlipidemia",
+      "cells": [
+        {
+          "text": {
+            "en": "Older age",
+            "ru": "Пожилой возраст"
+          }
+        },
+        {
+          "text": {
+            "en": "Hyperlipidemia",
+            "ru": "Гиперлипидемия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sex-race",
+      "cells": [
+        {
+          "text": {
+            "en": "Male sex",
+            "ru": "Мужской пол"
+          }
+        },
+        {
+          "text": {
+            "en": "White race",
+            "ru": "Европеоидная раса"
+          }
+        }
+      ]
+    },
+    {
+      "id": "family-history-connective-tissue",
+      "cells": [
+        {
+          "text": {
+            "en": "Family history of abdominal aortic aneurysm",
+            "ru": "Семейный анамнез аневризмы брюшной аорты (АБА)"
+          }
+        },
+        {
+          "text": {
+            "en": "Inherited vascular connective tissue disorder",
+            "ru": "Наследственные сосудистые заболевания соединительной ткани"
+          }
+        }
+      ]
+    },
+    {
+      "id": "atherosclerotic-cvd",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Atherosclerotic cardiovascular disease",
+            "ru": "Атеросклеротические сердечно-сосудистые заболевания (ССЗ)"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

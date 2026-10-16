@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t03-stages-hf",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 3",
+  "type": "grid",
+  "title": {
+    "en": "ACC/AHA Stages of Heart Failure",
+    "ru": "Стадии сердечной недостаточности по ACC/AHA"
+  },
+  "tags": [
+    "stages",
+    "classification",
+    "stage-a",
+    "stage-b",
+    "stage-c",
+    "stage-d",
+    "at-risk",
+    "pre-hf",
+    "symptomatic",
+    "advanced"
+  ],
+  "columns": [
+    {
+      "id": "c_stage",
+      "title": { "en": "Stage", "ru": "Стадия" }
+    },
+    {
+      "id": "c_definition",
+      "title": { "en": "Definition and Criteria", "ru": "Определение и критерии" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "stage-a",
+      "cells": [
+        {
+          "text": { "en": "**Stage A: At Risk for HF**", "ru": "**Стадия A: Риск развития СН**" },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "At risk for HF but without current or previous symptoms/signs of HF, without structural heart disease, and without cardiac biomarkers of stretch or injury (e.g., patients with hypertension, atherosclerotic CVD, diabetes, metabolic syndrome and obesity, exposure to cardiotoxic agents, genetic variant for cardiomyopathy, or positive family history of cardiomyopathy).",
+            "ru": "Риск СН без текущих или предшествующих симптомов/признаков СН, без структурной болезни сердца и без сердечных биомаркеров растяжения или повреждения (например: АГ, атеросклеротические ССЗ, СД, метаболический синдром и ожирение, воздействие кардиотоксических агентов, генетический вариант кардиомиопатии, отягощённая наследственность по кардиомиопатии)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-b",
+      "cells": [
+        {
+          "text": { "en": "**Stage B: Pre-HF**", "ru": "**Стадия B: Пред-СН**" },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "No current or previous symptoms/signs of HF AND evidence of 1 of the following: (1) Structural heart disease (reduced LV or RV systolic function, LV hypertrophy, chamber enlargement, wall motion abnormalities, valvular heart disease); (2) Evidence of increased filling pressures (by invasive hemodynamic measurements or noninvasive imaging); (3) Patients with risk factors AND increased levels of BNP/NT-proBNP OR persistently elevated cardiac troponin in the absence of competing diagnoses.",
+            "ru": "Нет текущих или предшествующих симптомов/признаков СН И наличие хотя бы одного из: (1) Структурная болезнь сердца (снижение систолической функции ЛЖ/ПЖ, гипертрофия ЛЖ, увеличение камер, нарушения движения стенок, ВПС); (2) Признаки повышенного давления наполнения; (3) Факторы риска И повышенный уровень BNP/NT-proBNP ИЛИ персистентно повышенный тропонин при отсутствии конкурирующих диагнозов."
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-c",
+      "cells": [
+        {
+          "text": { "en": "**Stage C: Symptomatic HF**", "ru": "**Стадия C: Симптомная СН**" },
+          "tone": "blue"
+        },
+        {
+          "text": {
+            "en": "Structural heart disease with current or previous symptoms/signs of HF.",
+            "ru": "Структурная болезнь сердца с текущими или предшествующими симптомами/признаками СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-d",
+      "cells": [
+        {
+          "text": { "en": "**Stage D: Advanced HF**", "ru": "**Стадия D: Продвинутая СН**" },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "Marked HF symptoms that interfere with daily life and with recurrent hospitalizations despite attempts to optimize guideline-directed medical therapy (GDMT).",
+            "ru": "Выраженные симптомы СН, нарушающие повседневную жизнь, с рецидивирующими госпитализациями, несмотря на попытки оптимизации GDMT."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "BNP indicates B-type natriuretic peptide; CVD, cardiovascular disease; GDMT, guideline-directed medical therapy; HF, heart failure; LV, left ventricular; NT-proBNP, N-terminal pro-B-type natriuretic peptide; RV, right ventricular; VHD, valvular heart disease.",
+      "ru": "BNP — мозговой натрийуретический пептид; ССЗ — сердечно-сосудистые заболевания; GDMT — медикаментозная терапия согласно рекомендациям; СН — сердечная недостаточность; ЛЖ — левый желудочек; NT-proBNP — N-концевой фрагмент предшественника BNP; ПЖ — правый желудочек."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

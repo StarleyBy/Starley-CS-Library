@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt29-surgical-approach-sporadic-aortic-root-ascending",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 29",
+  "title": {
+    "en": "Recommendations for Surgical Approach for Patients With Sporadic Aneurysms of the Aortic Root and Ascending Aorta Meeting Criteria for Surgery",
+    "ru": "Рекомендации по выбору хирургического доступа и методики у пациентов со спорадическими аневризмами корня и восходящей аорты, соответствующими критериям операции"
+  },
+  "tags": [
+    "surgery",
+    "surgical-approach",
+    "sporadic-aneurysm",
+    "aortic-root",
+    "ascending-aorta",
+    "interposition-graft",
+    "valved-conduit",
+    "vsrr"
+  ],
+  "sections": [
+    {
+      "id": "sec-surgical-approach-sporadic-aortic-root-ascending",
+      "title": {
+        "en": "Surgical Approach for Sporadic Aneurysms of the Aortic Root and Ascending Aorta",
+        "ru": "Хирургическая тактика при спорадических аневризмах корня и восходящей аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-isolated-ascending-interposition-graft",
+          "text": {
+            "en": "In patients with an aneurysm isolated to the ascending aorta who meet criteria for surgery, aneurysm resection and replacement with an interposition graft should be performed.",
+            "ru": "У пациентов с изолированной аневризмой восходящей аорты, соответствующей критериям операции, следует выполнять резекцию аневризмы и протезирование интерпозиционным протезом."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-av-repair-replace-concomitant-ascending-graft",
+          "text": {
+            "en": "In patients undergoing aortic valve repair or replacement with a concomitant ascending aortic aneurysm, a separate aortic valve intervention and ascending aortic graft is recommended.",
+            "ru": "У пациентов, переносящих пластику или протезирование аортального клапана с сопутствующей аневризмой восходящей аорты, рекомендуется раздельное вмешательство на аортальном клапане и протезирование восходящей аорты."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [3, 4, 5, 6]
+        },
+        {
+          "id": "r03-valved-conduit-unsuitable-repair",
+          "text": {
+            "en": "In patients undergoing aortic root replacement with an aortic valve that is unsuitable for sparing or repair, a mechanical or biological valved conduit aortic root replacement is indicated.",
+            "ru": "У пациентов, переносящих протезирование корня аорты при аортальном клапане, не подлежащем сохранению или пластике, показано протезирование корня аорты механическим или биологическим клапаносодержащим кондуитом."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 7, 8]
+        },
+        {
+          "id": "r04-vsrr-suitable-valve-team",
+          "text": {
+            "en": "In patients undergoing aortic root replacement, valve-sparing aortic root replacement is reasonable if the aortic valve is suitable for sparing or repair and when performed by experienced surgeons in a Multidisciplinary Aortic Team.",
+            "ru": "У пациентов, переносящих вмешательство на корне аорты, целесообразно выполнение клапаносохраняющего протезирования корня аорты (VSRR), если аортальный клапан пригоден для сохранения или пластики, при выполнении опытными хирургами в составе мультидисциплинарной аортальной команды."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

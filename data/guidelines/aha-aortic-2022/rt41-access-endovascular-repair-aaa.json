@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt41-access-endovascular-repair-aaa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 41",
+  "title": {
+    "en": "Recommendation for Access During Endovascular Repair of AAA",
+    "ru": "Рекомендация по сосудистому доступу при эндоваскулярном протезировании аневризмы брюшной аорты (АБА)"
+  },
+  "tags": [
+    "aaa",
+    "evar",
+    "vascular-access",
+    "percutaneous",
+    "femoral-artery",
+    "ultrasound-guided"
+  ],
+  "sections": [
+    {
+      "id": "sec-access-endovascular-repair-aaa",
+      "title": {
+        "en": "Access During Endovascular Repair of AAA",
+        "ru": "Сосудистый доступ при эндоваскулярном протезировании АБА"
+      },
+      "rows": [
+        {
+          "id": "r01-percutaneous-femoral-access-ultrasound",
+          "text": {
+            "en": "In patients undergoing endovascular repair of AAA who have suitable common femoral artery anatomy, ultrasound-guided percutaneous access and closure is recommended over open cutdown to reduce operative time, blood loss, length of stay, time to wound healing, and pain.",
+            "ru": "У пациентов, переносящих эндоваскулярное протезирование АБА, при подходящей анатомии общей бедренной артерии рекомендуется чрескожный доступ и ушивание под контролем УЗИ предпочтительнее открытого хирургического доступа для сокращения времени операции, кровопотери, длительности госпитализации, времени заживления раны и выраженности боли."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

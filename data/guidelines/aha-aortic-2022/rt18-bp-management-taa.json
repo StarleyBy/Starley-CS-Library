@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt18-bp-management-taa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 18",
+  "title": {
+    "en": "Recommendations for BP Management in TAA",
+    "ru": "Рекомендации по контролю артериального давления при аневризме грудной аорты (АГА)"
+  },
+  "tags": [
+    "bp",
+    "blood-pressure",
+    "hypertension",
+    "taa",
+    "thoracic-aorta",
+    "beta-blockers",
+    "arb",
+    "cardiovascular-risk"
+  ],
+  "sections": [
+    {
+      "id": "sec-bp-management-taa",
+      "title": {
+        "en": "BP Management in TAA",
+        "ru": "Контроль артериального давления при АГА"
+      },
+      "rows": [
+        {
+          "id": "r01-antihypertensive-sbp-dbp-targets",
+          "text": {
+            "en": "In patients with TAA and an average systolic BP (SBP) of ≥130 mm Hg or an average diastolic BP (DBP) of ≥80 mm Hg, the use of antihypertensive medications is recommended to reduce risk of cardiovascular events.",
+            "ru": "У пациентов с АГА и средним систолическим АД (САД) ≥130 мм рт. ст. или средним диастолическим АД (ДАД) ≥80 мм рт. ст. рекомендуется применение антигипертензивных препаратов для снижения риска сердечно-сосудистых событий."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-beta-blockers-target-bp",
+          "text": {
+            "en": "In patients with TAA, regardless of cause and in the absence of contraindications, use of beta blockers to achieve target BP goals is reasonable.",
+            "ru": "У пациентов с АГА, независимо от причины и при отсутствии противопоказаний, целесообразно применение бета-блокаторов для достижения целевых значений АД."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 4, 5]
+        },
+        {
+          "id": "r03-arb-adjunct-beta-blockers",
+          "text": {
+            "en": "In patients with TAA, regardless of etiology and in the absence of contraindications, ARB therapy is a reasonable adjunct to beta-blocker therapy to achieve target BP goals.",
+            "ru": "У пациентов с АГА, независимо от этиологии и при отсутствии противопоказаний, терапия БРА целесообразна в качестве дополнения к бета-блокаторам для достижения целевых значений АД."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": [6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

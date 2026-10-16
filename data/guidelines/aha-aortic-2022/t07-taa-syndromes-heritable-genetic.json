@@ -1,0 +1,569 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t07-taa-syndromes-heritable-genetic",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 7",
+  "type": "grid",
+  "title": {
+    "en": "TAA Syndromes and Conditions Attributable to a Heritable or Genetic Cause^[c]",
+    "ru": "Синдромы и состояния при АГА, обусловленные наследственными или генетическими причинами^[c]"
+  },
+  "tags": [
+    "genetics",
+    "heritable-aortic-disease",
+    "htad",
+    "marfan",
+    "loeys-dietz",
+    "ehlers-danlos",
+    "ftaa",
+    "bav",
+    "turner-syndrome",
+    "fbn1",
+    "tgfbr",
+    "acta2"
+  ],
+  "columns": [
+    {
+      "id": "condition",
+      "title": {
+        "en": "Condition",
+        "ru": "Заболевание / синдром"
+      }
+    },
+    {
+      "id": "gene",
+      "title": {
+        "en": "Gene",
+        "ru": "Ген"
+      }
+    },
+    {
+      "id": "clinical_features",
+      "title": {
+        "en": "Clinical Features",
+        "ru": "Клинические проявления"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-syndromic-htad",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**Syndromic HTAD^[a]**",
+            "ru": "**Синдромальные формы HTAD^[a]**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "marfan-syndrome",
+      "cells": [
+        {
+          "text": {
+            "en": "Marfan syndrome",
+            "ru": "Синдром Марфана"
+          }
+        },
+        {
+          "text": {
+            "en": "FBN1",
+            "ru": "FBN1"
+          }
+        },
+        {
+          "text": {
+            "en": "Aortic root aneurysm, aortic dissection, TAA, MVP, long bone overgrowth, arachnodactyly, dolichostenomelia, scoliosis, pectus deformities, ectopia lentis, myopia, tall stature, pneumothorax, dural ectasia",
+            "ru": "Аневризма корня аорты, расслоение аорты, АГА, ПМК, избыточный рост длинных трубчатых костей, арахнодактилия, долихостеномелия, сколиоз, деформации грудной клетки, эктопия хрусталика, миопия, высокий рост, пневмоторакс, дуральная эктазия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "loeys-dietz-syndrome",
+      "cells": [
+        {
+          "text": {
+            "en": "Loeys-Dietz syndrome",
+            "ru": "Синдром Лойса–Дитца"
+          }
+        },
+        {
+          "text": {
+            "en": "TGFBR1, TGFBR2, SMAD3,^[b] TGFB2, TGFB3",
+            "ru": "TGFBR1, TGFBR2, SMAD3,^[b] TGFB2, TGFB3"
+          }
+        },
+        {
+          "text": {
+            "en": "TAA, branch vessel aneurysms, aortic dissection, arterial tortuosity, MVP, craniosynostosis, hypertelorism, bluish sclera, bifid/broad uvula, translucent skin, visible veins, club feet, dural ectasia, and premature osteoarthritis and peripheral neuropathy^[b]",
+            "ru": "АГА, аневризмы ветвей аорты, расслоение аорты, извитость артерий, ПМК, краниосиностоз, гипертелоризм, голубоватые склеры, раздвоенный/широкий язычок, полупрозрачная кожа, видимые подкожные вены, косолапость, дуральная эктазия, а также ранний остеоартрит и периферическая нейропатия^[b]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vascular-ehlers-danlos",
+      "cells": [
+        {
+          "text": {
+            "en": "Vascular Ehlers-Danlos syndrome",
+            "ru": "Сосудистый тип синдрома Элерса–Данлоса"
+          }
+        },
+        {
+          "text": {
+            "en": "COL3A1",
+            "ru": "COL3A1"
+          }
+        },
+        {
+          "text": {
+            "en": "TAA, AAA, arterial rupture, aortic dissection, MVP, bowel and uterine rupture, pneumothorax, translucent skin, atrophic scars, small joint hypermobility, easy bruising, carotid-cavernous fistula",
+            "ru": "АГА, АБА, разрыв артерий, расслоение аорты, ПМК, разрыв полых органов (кишечника, матки), пневмоторакс, полупрозрачная кожа, атрофические рубцы, гипермобильность мелких суставов, лёгкое образование гематом, каротидно-кавернозное соустье"
+          }
+        }
+      ]
+    },
+    {
+      "id": "arterial-tortuosity-syndrome",
+      "cells": [
+        {
+          "text": {
+            "en": "Arterial tortuosity syndrome",
+            "ru": "Синдром извитости артерий"
+          }
+        },
+        {
+          "text": {
+            "en": "SLC2A10",
+            "ru": "SLC2A10"
+          }
+        },
+        {
+          "text": {
+            "en": "Tortuous large and medium sized arteries, aortic dilation, craniofacial, skin and skeletal features",
+            "ru": "Выраженная извитость крупных и средних артерий, дилатация аорты, черепно-лицевые, кожные и скелетные аномалии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shprintzen-goldberg-syndrome",
+      "cells": [
+        {
+          "text": {
+            "en": "Shprintzen-Goldberg syndrome",
+            "ru": "Синдром Шпринтцена–Гольдберга"
+          }
+        },
+        {
+          "text": {
+            "en": "SKI",
+            "ru": "SKI"
+          }
+        },
+        {
+          "text": {
+            "en": "Craniosynostosis, skeletal features, aortic dilation",
+            "ru": "Краниосиностоз, скелетные аномалии, дилатация аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eds-periventricular-heterotopia",
+      "cells": [
+        {
+          "text": {
+            "en": "Ehlers-Danlos syndrome with periventricular nodular heterotopia",
+            "ru": "Синдром Элерса–Данлоса с перивентрикулярной узелковой гетеротопией"
+          }
+        },
+        {
+          "text": {
+            "en": "FLNA",
+            "ru": "FLNA"
+          }
+        },
+        {
+          "text": {
+            "en": "X-linked, periventricular nodular heterotopia, TAA, BAV, MV disease, PDA, VSD, seizures, joint hypermobility",
+            "ru": "Х-сцепленное наследование, перивентрикулярная узелковая гетеротопия, АГА, ДАК, патология митрального клапана, ОАП, ДМЖП, судорожные приступы, гипермобильность суставов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "meester-loeys-syndrome",
+      "cells": [
+        {
+          "text": {
+            "en": "Meester-Loeys syndrome",
+            "ru": "Синдром Местера–Лойса"
+          }
+        },
+        {
+          "text": {
+            "en": "BGN",
+            "ru": "BGN"
+          }
+        },
+        {
+          "text": {
+            "en": "X-linked, TAA, aortic dissection, MV disease",
+            "ru": "Х-сцепленное наследование, АГА, расслоение аорты, патология митрального клапана"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lox-related-taa",
+      "cells": [
+        {
+          "text": {
+            "en": "LOX-related TAA",
+            "ru": "АГА, ассоциированная с геном LOX"
+          }
+        },
+        {
+          "text": {
+            "en": "LOX",
+            "ru": "LOX"
+          }
+        },
+        {
+          "text": {
+            "en": "TAA, BAV, aortic dissection, Marfanoid habitus in some",
+            "ru": "АГА, ДАК, расслоение аорты, у части пациентов марфаноидный фенотип"
+          }
+        }
+      ]
+    },
+    {
+      "id": "smooth-muscle-dysfunction-syndrome",
+      "cells": [
+        {
+          "text": {
+            "en": "Smooth muscle dysfunction syndrome",
+            "ru": "Синдром дисфункции гладких мышц"
+          }
+        },
+        {
+          "text": {
+            "en": "ACTA2",
+            "ru": "ACTA2"
+          }
+        },
+        {
+          "text": {
+            "en": "TAA, moyamoya-like cerebrovascular disease, pulmonary hypertension, pulmonary disease, hypoperistalsis, hypotonic bladder, congenital mydriasis",
+            "ru": "АГА, мойя-мойя-подобная цереброваскулярная болезнь, лёгочная гипертензия, поражение лёгких, гипоперистальтика, гипотоничный мочевой пузырь, врождённый мидриаз"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-nonsyndromic-htad",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**Nonsyndromic HTAD (Familial TAA)**",
+            "ru": "**Несиндромальные формы HTAD (семейная АГА)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ftaa-acta2",
+      "cells": [
+        {
+          "text": {
+            "en": "FTAA",
+            "ru": "FTAA (Семейная АГА)"
+          }
+        },
+        {
+          "text": {
+            "en": "ACTA2",
+            "ru": "ACTA2"
+          }
+        },
+        {
+          "text": {
+            "en": "TAA, aortic dissection, premature CAD and moyamoya-like cerebrovascular disease, livedo reticularis, iris flocculi",
+            "ru": "АГА, расслоение аорты, раннее развитие ИБС и мойя-мойя-подобная цереброваскулярная патология, livedo reticularis, узелки радужки (iris flocculi)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ftaa-myh11",
+      "cells": [
+        {
+          "text": {
+            "en": "FTAA",
+            "ru": "FTAA (Семейная АГА)"
+          }
+        },
+        {
+          "text": {
+            "en": "MYH11",
+            "ru": "MYH11"
+          }
+        },
+        {
+          "text": {
+            "en": "TAA, aortic dissection, PDA",
+            "ru": "АГА, расслоение аорты, ОАП"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ftaa-mylk",
+      "cells": [
+        {
+          "text": {
+            "en": "FTAA",
+            "ru": "FTAA (Семейная АГА)"
+          }
+        },
+        {
+          "text": {
+            "en": "MYLK",
+            "ru": "MYLK"
+          }
+        },
+        {
+          "text": {
+            "en": "Aortic dissection at relatively small aortic size",
+            "ru": "Расслоение аорты при относительно небольшом диаметре аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ftaa-prkg1",
+      "cells": [
+        {
+          "text": {
+            "en": "FTAA",
+            "ru": "FTAA (Семейная АГА)"
+          }
+        },
+        {
+          "text": {
+            "en": "PRKG1",
+            "ru": "PRKG1"
+          }
+        },
+        {
+          "text": {
+            "en": "Aortic dissection at young ages at small aortic sizes",
+            "ru": "Расслоение аорты в молодом возрасте при небольших размерах аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ftaa-mat2a",
+      "cells": [
+        {
+          "text": {
+            "en": "FTAA",
+            "ru": "FTAA (Семейная АГА)"
+          }
+        },
+        {
+          "text": {
+            "en": "MAT2A",
+            "ru": "MAT2A"
+          }
+        },
+        {
+          "text": {
+            "en": "TAA, aortic dissection, BAV",
+            "ru": "АГА, расслоение аорты, ДАК"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ftaa-mfap5",
+      "cells": [
+        {
+          "text": {
+            "en": "FTAA",
+            "ru": "FTAA (Семейная АГА)"
+          }
+        },
+        {
+          "text": {
+            "en": "MFAP5",
+            "ru": "MFAP5"
+          }
+        },
+        {
+          "text": {
+            "en": "TAA, aortic dissection, skeletal features may be present",
+            "ru": "АГА, расслоение аорты, могут присутствовать скелетные аномалии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ftaa-foxe3",
+      "cells": [
+        {
+          "text": {
+            "en": "FTAA",
+            "ru": "FTAA (Семейная АГА)"
+          }
+        },
+        {
+          "text": {
+            "en": "FOXE3",
+            "ru": "FOXE3"
+          }
+        },
+        {
+          "text": {
+            "en": "TAA, aortic dissection",
+            "ru": "АГА, расслоение аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ftaa-thsd4",
+      "cells": [
+        {
+          "text": {
+            "en": "FTAA",
+            "ru": "FTAA (Семейная АГА)"
+          }
+        },
+        {
+          "text": {
+            "en": "THSD4",
+            "ru": "THSD4"
+          }
+        },
+        {
+          "text": {
+            "en": "TAA, aortic dissection",
+            "ru": "АГА, расслоение аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-bav-associated-aneurysm",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**Bicuspid Aortic Valve–Associated Ascending Aortic Aneurysm**",
+            "ru": "**Аневризма восходящей аорты, ассоциированная с двустворчатым аортальным клапаном (ДАК)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bav-familial-as-taa",
+      "cells": [
+        {
+          "text": {
+            "en": "Familial BAV/AS and TAA",
+            "ru": "Семейный ДАК/стеноз аортального клапана и АГА"
+          }
+        },
+        {
+          "text": {
+            "en": "NOTCH1",
+            "ru": "NOTCH1"
+          }
+        },
+        {
+          "text": {
+            "en": "Aortic valve stenosis, TAA",
+            "ru": "Стеноз аортального клапана, АГА"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bav-with-taa",
+      "cells": [
+        {
+          "text": {
+            "en": "BAV with TAA",
+            "ru": "ДАК с АГА"
+          }
+        },
+        {
+          "text": {
+            "en": "TGFBR2, MAT2A, GATA5, SMAD6, LOX, ROBO4, TBX20",
+            "ru": "TGFBR2, MAT2A, GATA5, SMAD6, LOX, ROBO4, TBX20"
+          }
+        },
+        {
+          "text": {
+            "en": "Syndromic and nonsyndromic HTAD and FTAA with an increased frequency of BAV",
+            "ru": "Синдромальные и несиндромальные формы HTAD и FTAA с повышенной частотой ДАК"
+          }
+        }
+      ]
+    },
+    {
+      "id": "turner-syndrome",
+      "cells": [
+        {
+          "text": {
+            "en": "Turner syndrome",
+            "ru": "Синдром Тёрнера"
+          }
+        },
+        {
+          "text": {
+            "en": "XO, Xp",
+            "ru": "XO, Xp"
+          }
+        },
+        {
+          "text": {
+            "en": "BAV, CoA, TAA, aortic dissection, short stature, lymphedema, webbed neck, premature ovarian failure",
+            "ru": "ДАК, коарктация аорты, АГА, расслоение аорты, низкий рост, лимфедема, крыловидная шея, преждевременная недостаточность яичников"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Some individuals with pathogenic variants in a gene that can lead to syndromic HTAD have very few or no syndromic features, and variants in some genes causing syndromic HTAD may also lead to nonsyndromic HTAD.",
+      "ru": "У некоторых лиц с патогенными вариантами в гене, способном приводить к синдромальным формам HTAD, признаки синдрома выражены минимально или отсутствуют, а варианты в некоторых генах, вызывающих синдромальные HTAD, также могут приводить к несиндромальным HTAD."
+    },
+    "b": {
+      "en": "SMAD3 premature osteoarthritis and peripheral neuropathy.",
+      "ru": "SMAD3 ассоциирован с ранним остеоартритом и периферической нейропатией."
+    },
+    "c": {
+      "en": "AAA indicates abdominal aortic aneurysm; AS, aortic stenosis; BAV, bicuspid aortic valve; CAD, coronary artery disease; CoA, coarctation of the aorta; EDS, Ehlers-Danlos syndrome; FTAA, familial thoracic aortic aneurysm (and dissection) syndrome; HTAD, heritable thoracic aortic disease; MV, mitral valve; MVP, mitral valve prolapse; PDA, patent ductus arteriosus; TAA, thoracic aortic aneurysm; and VSD, ventricular septal defect.",
+      "ru": "АБА — аневризма брюшной аорты; AS — аортальный стеноз; ДАК — двустворчатый аортальный клапан; ИБС — ишемическая болезнь сердца; КоА — коарктация аорты; EDS — синдром Элерса–Данлоса; FTAA — синдром семейной аневризмы (и расслоения) грудной аорты; HTAD — наследственные заболевания грудной аорты; МК — митральный клапан; ПМК — пролапс митрального клапана; ОАП — открытый артериальный проток; АГА — аневризма грудной аорты; ДМЖП — дефект межжелудочковой перегородки."
+    }
+  },
+  "source": {
+    "expectedRows": 23
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

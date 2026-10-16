@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt50-subsequent-medical-management-aas",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 50",
+  "title": {
+    "en": "Recommendation for Subsequent Medical Management of AAS",
+    "ru": "Рекомендация по последующей медикаментозной терапии острого аортального синдрома (ОАС)"
+  },
+  "tags": [
+    "aas",
+    "acute-aortic-syndrome",
+    "beta-blockers",
+    "arb",
+    "acei",
+    "blood-pressure",
+    "heart-rate",
+    "long-term-management"
+  ],
+  "sections": [
+    {
+      "id": "sec-subsequent-medical-management-aas",
+      "title": {
+        "en": "Subsequent Medical Management of AAS",
+        "ru": "Последующая медикаментозная терапия ОАС"
+      },
+      "rows": [
+        {
+          "id": "r01-long-term-beta-blockers-arbs-aceis",
+          "text": {
+            "en": "In patients with AAS, it is recommended to treat with long-term beta blockers (unless contraindicated) to control heart rate and BP to reduce late aortic-related adverse events. Additional antihypertensive agents (particularly ARBs and ACEIs) should be added, as necessary, to adequately control BP.",
+            "ru": "У пациентов с ОАС рекомендуется длительный прием бета-блокаторов (при отсутствии противопоказаний) для контроля ЧСС и АД с целью снижения риска отдаленных неблагоприятных событий, связанных с аортой. При необходимости для достижения адекватного контроля АД следует добавлять дополнительные антигипертензивные препараты (в особенности БРА и иАПФ)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t28-cancer-therapies-cardiomyopathy",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 28",
+  "type": "grid",
+  "title": {
+    "en": "Cancer Therapies Known to Be Associated With Cardiomyopathy",
+    "ru": "Противоопухолевые методы лечения, ассоциированные с развитием кардиомиопатии"
+  },
+  "tags": [
+    "cardio-oncology",
+    "cardiotoxicity",
+    "chemotherapy",
+    "anthracyclines",
+    "trastuzumab",
+    "checkpoint-inhibitors",
+    "car-t",
+    "radiation",
+    "monitoring"
+  ],
+  "columns": [
+    {
+      "id": "c_class",
+      "title": { "en": "Class", "ru": "Класс противоопухолевой терапии" }
+    },
+    {
+      "id": "c_agents",
+      "title": { "en": "Agent(s)", "ru": "Препарат(ы) / Метод" }
+    },
+    {
+      "id": "c_pretherapy",
+      "title": { "en": "Monitoring: Pretherapy", "ru": "Мониторинг: до начала терапии" }
+    },
+    {
+      "id": "c_serial",
+      "title": { "en": "Monitoring: Serial", "ru": "Мониторинг: серийный в процессе лечения" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "ct-01-anthracyclines",
+      "cells": [
+        { "text": { "en": "Anthracyclines", "ru": "Антрациклины" } },
+        { "text": { "en": "Doxorubicin, epirubicin", "ru": "Доксорубицин, эпирубицин" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } }
+      ]
+    },
+    {
+      "id": "ct-02-alkylating",
+      "cells": [
+        { "text": { "en": "Alkylating agents", "ru": "Алкилирующие средства" } },
+        { "text": { "en": "Cyclophosphamide, ifosfamide, melphalan", "ru": "Циклофосфамид, ифосфамид, мелфалан" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "ct-03-antimicrotubule",
+      "cells": [
+        { "text": { "en": "Antimicrotubule agents", "ru": "Антимикротубулярные средства" } },
+        { "text": { "en": "Docetaxel", "ru": "Доцетаксел" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "ct-04-antimetabolites",
+      "cells": [
+        { "text": { "en": "Antimetabolites", "ru": "Антиметаболиты" } },
+        { "text": { "en": "Fluorouracil, capecitabine, fludarabine, decitabine", "ru": "Фторурацил, капецитабин, флударабин, децитабин" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "ct-05-anti-her2",
+      "cells": [
+        { "text": { "en": "Anti-HER2 agents", "ru": "Анти-HER2 таргетные препараты" } },
+        { "text": { "en": "Trastuzumab, pertuzumab", "ru": "Трастузумаб, пертузумаб" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } }
+      ]
+    },
+    {
+      "id": "ct-06-mab",
+      "cells": [
+        { "text": { "en": "Monoclonal antibodies", "ru": "Моноклональные антитела" } },
+        { "text": { "en": "Rituximab", "ru": "Ритуксимаб" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "ct-07-tki",
+      "cells": [
+        { "text": { "en": "Tyrosine-kinase inhibitors", "ru": "Ингибиторы тирозинкиназы (ИТК)" } },
+        { "text": { "en": "Dabrafenib, dasatinib, lapatinib, pazopanib, ponatinib, sorafenib, trametinib, sunitinib, vandetanib, imatinib", "ru": "Дабрафениб, дазатиниб, лапатиниб, пазопаниб, понатиниб, сорафениб, траметиниб, сунитиниб, вандетаниб, иматиниб" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "ct-08-ici",
+      "cells": [
+        { "text": { "en": "Immune checkpoint inhibitors", "ru": "Ингибиторы иммунных контрольных точек (ICI)" } },
+        { "text": { "en": "Nivolumab, ipilimumab, pembrolizumab", "ru": "Ниволумаб, ипилимумаб, пембролизумаб" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "ct-09-proteasome",
+      "cells": [
+        { "text": { "en": "Protease inhibitors (Proteasome inhibitors)", "ru": "Ингибиторы протеасом" } },
+        { "text": { "en": "Bortezomib, carfilzomib", "ru": "Бортезомиб, карфилзомиб" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "ct-10-endocrine",
+      "cells": [
+        { "text": { "en": "Endocrine therapy", "ru": "Гормональная (эндокринная) терапия" } },
+        { "text": { "en": "Goserelin, leuprolide, flutamide, bicalutamide, nilutamide", "ru": "Гозерелин, лейпролид, флутамид, бикалутамид, нилутамид" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "ct-11-car-t",
+      "cells": [
+        { "text": { "en": "Chimeric antigen receptor T-cell therapy", "ru": "CAR-T клеточная терапия (химерные антигенные рецепторы)" } },
+        { "text": { "en": "Tisagenlecleucel, axicabtagene ciloleucel", "ru": "Тисагенлеклейсел, аксикабтаген силолейсел" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "ct-12-hsct",
+      "cells": [
+        { "text": { "en": "Hematopoietic stem cell transplantation", "ru": "Трансплантация гемопоэтических стволовых клеток (ТГСК)" } },
+        { "text": { "en": "Hematopoietic stem cell transplantation", "ru": "Трансплантация гемопоэтических стволовых клеток" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "ct-13-radiation",
+      "cells": [
+        { "text": { "en": "Radiation", "ru": "Лучевая терапия (радиационное воздействие)" } },
+        { "text": { "en": "Chest", "ru": "Облучение органов грудной клетки" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "X indicates cardiac function monitoring often performed in clinical practice.",
+      "ru": "X указывает на мониторинг функции сердца, часто выполняемый в клинической практике."
+    }
+  }
+}

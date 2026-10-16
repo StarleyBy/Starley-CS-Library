@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt55-management-imh",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 55",
+  "title": {
+    "en": "Recommendations for Management of IMH",
+    "ru": "Рекомендации по ведению интрамуральной гематомы (IMH)"
+  },
+  "tags": [
+    "imh",
+    "intramural-hematoma",
+    "acute-aortic-syndrome",
+    "type-a-imh",
+    "type-b-imh",
+    "open-repair",
+    "tevar",
+    "medical-therapy",
+    "high-risk-imaging"
+  ],
+  "sections": [
+    {
+      "id": "sec-management-imh",
+      "title": {
+        "en": "Management of IMH",
+        "ru": "Ведение интрамуральной гематомы (IMH)"
+      },
+      "rows": [
+        {
+          "id": "r01-complicated-imh-urgent-repair",
+          "text": {
+            "en": "In patients with complicated (Table 29) acute type A or type B aortic IMH, urgent repair is recommended.",
+            "ru": "У пациентов с осложненной (Таблица 29) острой интрамуральной гематомой (IMH) аорты типа А или типа В рекомендуется экстренное хирургическое или эндоваскулярное вмешательство."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02a-uncomplicated-type-a-prompt-open-repair",
+          "text": {
+            "en": "In patients with uncomplicated acute type A IMH, prompt open surgical repair is recommended.",
+            "ru": "У пациентов с неосложненной острой IMH типа А рекомендуется безотлагательное открытое хирургическое вмешательство."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 4, 5, 6]
+        },
+        {
+          "id": "r02b-uncomplicated-type-a-high-risk-medical-management",
+          "text": {
+            "en": "In selected patients with uncomplicated acute type A IMH who are at increased operative risk and do not have high-risk imaging features (Table 30), an initial or expectant approach of medical management may be considered.",
+            "ru": "У отдельных пациентов с неосложненной острой IMH типа А при повышенном операционном риске и отсутствии признаков высокого риска по данным визуализации (Таблица 30) может быть рассмотрена начальная или выжидательная тактика медикаментозной терапии."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [6, 7, 8, 9, 10, 11, 12]
+        },
+        {
+          "id": "r03-uncomplicated-type-b-medical-therapy",
+          "text": {
+            "en": "In patients with uncomplicated acute type B IMH, medical therapy as the initial management strategy is recommended.",
+            "ru": "У пациентов с неосложненной острой IMH типа В в качестве начальной тактики ведения рекомендуется медикаментозная терапия."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 13]
+        },
+        {
+          "id": "r04-type-b-favorable-anatomy-tevar",
+          "text": {
+            "en": "In patients with type B IMH who require repair of the distal aortic arch or descending thoracic aorta (zones 2-5) and have favorable anatomy, endovascular repair is reasonable when performed by surgeons with endovascular expertise.",
+            "ru": "У пациентов с IMH типа В, требующих вмешательства на дистальной части дуги или нисходящей грудной аорте (зоны 2–5), при благоприятной анатомии эндоваскулярное вмешательство целесообразно при выполнении хирургами с соответствующим опытом эндоваскулярных операций."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [2, 14]
+        },
+        {
+          "id": "r05-type-b-unfavorable-anatomy-open-repair",
+          "text": {
+            "en": "In patients with type B IMH who require repair of the distal aortic arch or descending thoracic aorta (zones 2-5) and have unfavorable anatomy for endovascular repair, open surgical repair is reasonable.",
+            "ru": "У пациентов с IMH типа В, требующих вмешательства на дистальной части дуги или нисходящей грудной аорте (зоны 2–5), при неблагоприятной анатомии для эндоваскулярного вмешательства целесообразна открытая хирургическая операция."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [2, 3]
+        },
+        {
+          "id": "r06-uncomplicated-type-b-high-risk-features-intervention",
+          "text": {
+            "en": "In patients with uncomplicated type B IMH and high-risk imaging features (Table 30), intervention may be reasonable.",
+            "ru": "У пациентов с неосложненной IMH типа В и признаками высокого риска по данным визуализации (Таблица 30) вмешательство может быть обосновано."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [13, 14, 15, 16]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

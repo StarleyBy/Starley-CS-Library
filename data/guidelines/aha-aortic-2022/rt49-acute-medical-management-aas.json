@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt49-acute-medical-management-aas",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 49",
+  "title": {
+    "en": "Recommendations for Acute Medical Management of AAS",
+    "ru": "Рекомендации по неотложной медикаментозной терапии острого аортального синдрома (ОАС)"
+  },
+  "tags": [
+    "aas",
+    "acute-aortic-syndrome",
+    "medical-management",
+    "beta-blockers",
+    "calcium-channel-blockers",
+    "vasodilators",
+    "pain-control",
+    "icu",
+    "blood-pressure"
+  ],
+  "sections": [
+    {
+      "id": "sec-acute-medical-management-aas",
+      "title": {
+        "en": "Acute Medical Management of AAS",
+        "ru": "Неотложная медикаментозная терапия ОАС"
+      },
+      "rows": [
+        {
+          "id": "r01-anti-impulse-invasive-monitoring",
+          "text": {
+            "en": "In patients presenting to the hospital with AAS, prompt treatment with anti-impulse therapy with invasive monitoring of BP with an arterial line in an ICU setting is recommended as initial treatment to decrease aortic wall stress.",
+            "ru": "У пациентов, поступающих в стационар с ОАС, рекомендуется незамедлительное проведение антиимпульсной терапии с инвазивным мониторингом АД через артериальную линию в условиях ОРИТ в качестве начального лечения для снижения стресса аортальной стенки."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-bp-heart-rate-targets",
+          "text": {
+            "en": "Patients with AAS should be treated to an SBP <120 mm Hg or to lowest BP that maintains adequate end-organ perfusion, as well as to a target heart rate of 60 to 80 bpm.",
+            "ru": "У пациентов с ОАС целевыми показателями терапии являются САД <120 мм рт. ст. (или минимальный уровень АД, обеспечивающий адекватную перфузию органов-мишеней) и целевая частота сердечных сокращений от 60 до 80 уд/мин."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [2, 6]
+        },
+        {
+          "id": "r03a-intravenous-beta-blockers",
+          "text": {
+            "en": "In patients with AAS, initial management should include intravenous beta blockers, except in patients with contraindications.",
+            "ru": "У пациентов с ОАС начальная терапия должна включать внутривенные бета-блокаторы, за исключением пациентов с противопоказаниями."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [2, 5, 7]
+        },
+        {
+          "id": "r03b-calcium-channel-blockers-intolerance",
+          "text": {
+            "en": "In those with contraindications or intolerance to beta blockers, initial management with an intravenous non-dihydropyridine calcium channel blocker is reasonable for heart rate control.",
+            "ru": "При наличии противопоказаний или непереносимости бета-блокаторов целесообразна начальная терапия внутривенными недигидропиридиновыми блокаторами кальциевых каналов для контроля частоты сердечных сокращений."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 5]
+        },
+        {
+          "id": "r04-intravenous-vasodilators",
+          "text": {
+            "en": "In patients with AAS, initial management should include intravenous vasodilators if the BP is not well controlled after initiation of intravenous beta-blocker therapy.",
+            "ru": "У пациентов с ОАС начальная терапия должна включать внутривенные вазодилататоры, если АД недостаточно контролируется после начала внутривенной терапии бета-блокаторами."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [8]
+        },
+        {
+          "id": "r05-pain-control",
+          "text": {
+            "en": "Patients with AAS should be treated with pain control, as needed, to help with hemodynamic management.",
+            "ru": "Пациентам с ОАС по мере необходимости показано купирование болевого синдрома для оптимизации гемодинамического контроля."
+          },
+          "class": "I",
+          "level": "C-EO"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

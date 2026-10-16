@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt51-initial-surgical-considerations-type-a-dissection",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 51",
+  "title": {
+    "en": "Recommendations for Initial Surgical Considerations in Acute Type A Aortic Dissection",
+    "ru": "Рекомендации по начальной хирургической тактике при остром расслоении аорты типа А"
+  },
+  "tags": [
+    "type-a-dissection",
+    "acute-dissection",
+    "emergency-surgery",
+    "transfer",
+    "high-volume-center",
+    "stroke",
+    "neurologic-outcomes"
+  ],
+  "sections": [
+    {
+      "id": "sec-initial-surgical-considerations-type-a-dissection",
+      "title": {
+        "en": "Initial Surgical Considerations in Acute Type A Aortic Dissection",
+        "ru": "Начальная хирургическая тактика при остром расслоении аорты типа А"
+      },
+      "rows": [
+        {
+          "id": "r01-emergency-surgical-consultation-intervention",
+          "text": {
+            "en": "In patients presenting with suspected or confirmed acute type A aortic dissection, emergency surgical consultation and evaluation and immediate surgical intervention is recommended because of the high risk of associated life-threatening complications.",
+            "ru": "У пациентов с подозрением на острое расслоение аорты типа А или с подтвержденным диагнозом рекомендуется экстренная хирургическая консультация и оценка, а также незамедлительное хирургическое вмешательство ввиду высокого риска связанных с ним жизнеугрожающих осложнений."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-transfer-to-high-volume-center",
+          "text": {
+            "en": "In patients presenting with acute type A aortic dissection, who are stable enough for transfer, transfer from a low- to a high-volume aortic center is reasonable to improve survival.",
+            "ru": "У пациентов с острым расслоением аорты типа А, достаточно стабильных для транспортировки, перевод из центра с малым объемом вмешательств в высокообъемный аортальный центр целесообразен для повышения выживаемости."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [3, 4]
+        },
+        {
+          "id": "r03-nonhemorrhagic-stroke-surgical-intervention",
+          "text": {
+            "en": "In patients presenting with nonhemorrhagic stroke complicating acute type A aortic dissection, surgical intervention is reasonable over medical therapy to reduce mortality and improve neurologic outcomes.",
+            "ru": "У пациентов с негеморрагическим инсультом, осложнившим острое расслоение аорты типа А, хирургическое вмешательство целесообразно предпочтительнее консервативной терапии для снижения летальности и улучшения неврологических исходов."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

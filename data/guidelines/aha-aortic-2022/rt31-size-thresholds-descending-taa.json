@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt31-size-thresholds-descending-taa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 31",
+  "title": {
+    "en": "Recommendations for Size Thresholds for Repair of Descending TAA",
+    "ru": "Рекомендации по пороговым размерам для вмешательства при аневризме нисходящей грудной аорты"
+  },
+  "tags": [
+    "taa",
+    "descending-aorta",
+    "size-thresholds",
+    "repair",
+    "rupture-risk",
+    "surgical-thresholds",
+    "perioperative-risk"
+  ],
+  "sections": [
+    {
+      "id": "sec-size-thresholds-descending-taa",
+      "title": {
+        "en": "Size Thresholds for Repair of Descending TAA",
+        "ru": "Пороговые размеры для вмешательства при аневризме нисходящей грудной аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-intact-descending-diameter-5-5-cm",
+          "text": {
+            "en": "In patients with intact descending TAA, repair is recommended when the diameter is ≥5.5 cm.",
+            "ru": "У пациентов с интактной аневризмой нисходящей грудной аорты вмешательство рекомендуется при диаметре ≥5,5 см."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-intact-descending-rupture-risk-factors",
+          "text": {
+            "en": "In patients with intact descending TAA and risk factors for rupture (Table 17), repair may be considered at a diameter of <5.5 cm.",
+            "ru": "У пациентов с интактной аневризмой нисходящей грудной аорты и факторами риска разрыва (Таблица 17) вмешательство может быть рассмотрено при диаметре <5,5 см."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [3, 4, 5, 6]
+        },
+        {
+          "id": "r03-perioperative-risk-increase-threshold",
+          "text": {
+            "en": "In patients at increased risk for perioperative morbidity and mortality (Table 18), it may be reasonable to increase the size threshold for surgery accordingly.",
+            "ru": "У пациентов с повышенным риском периоперационной заболеваемости и смертности (Таблица 18) может быть целесообразным соответственное увеличение порогового размера для хирургического вмешательства."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

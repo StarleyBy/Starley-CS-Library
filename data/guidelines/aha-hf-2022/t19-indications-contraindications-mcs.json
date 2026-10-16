@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t19-indications-contraindications-mcs",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 19",
+  "type": "grid",
+  "title": {
+    "en": "Indications and Contraindications to Durable Mechanical Support",
+    "ru": "Показания и противопоказания к длительной механической поддержке кровообращения"
+  },
+  "tags": [
+    "lvad",
+    "mcs",
+    "mechanical-circulatory-support",
+    "indications",
+    "contraindications",
+    "advanced-hf",
+    "stage-d",
+    "destination-therapy"
+  ],
+  "columns": [
+    {
+      "id": "c_type",
+      "title": { "en": "Category", "ru": "Категория" }
+    },
+    {
+      "id": "c_item",
+      "title": { "en": "Clinical Criteria and Factors", "ru": "Клинические критерии и факторы" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "hdr-indications",
+      "cells": [
+        {
+          "text": {
+            "en": "**Indications (combination of these):**",
+            "ru": "**Показания (сочетание следующих признаков):**"
+          },
+          "colspan": 2,
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "ind-hospitalizations",
+      "cells": [
+        { "text": { "en": "Indication", "ru": "Показание" } },
+        { "text": { "en": "Frequent hospitalizations for HF", "ru": "Частые госпитализации по поводу СН" } }
+      ]
+    },
+    {
+      "id": "ind-nyha-class",
+      "cells": [
+        { "text": { "en": "Indication", "ru": "Показание" } },
+        { "text": { "en": "NYHA class IIIb to IV functional limitations despite maximal therapy", "ru": "Функциональные ограничения IIIb–IV ФК по NYHA, несмотря на максимальную терапию" } }
+      ]
+    },
+    {
+      "id": "ind-intolerance-neurohormonal",
+      "cells": [
+        { "text": { "en": "Indication", "ru": "Показание" } },
+        { "text": { "en": "Intolerance of neurohormonal antagonists", "ru": "Непереносимость нейрогормональных антагонистов (иАПФ/АРНИ/БРА, бета-блокаторов, АМР)" } }
+      ]
+    },
+    {
+      "id": "ind-diuretic-requirement",
+      "cells": [
+        { "text": { "en": "Indication", "ru": "Показание" } },
+        { "text": { "en": "Increasing diuretic requirement", "ru": "Нарастающая потребность в диуретиках" } }
+      ]
+    },
+    {
+      "id": "ind-crt-failure",
+      "cells": [
+        { "text": { "en": "Indication", "ru": "Показание" } },
+        { "text": { "en": "Symptomatic despite CRT", "ru": "Сохранение симптомов, несмотря на СРТ" } }
+      ]
+    },
+    {
+      "id": "ind-inotrope-dependence",
+      "cells": [
+        { "text": { "en": "Indication", "ru": "Показание" } },
+        { "text": { "en": "Inotrope dependence", "ru": "Инотропная зависимость" } }
+      ]
+    },
+    {
+      "id": "ind-low-vo2",
+      "cells": [
+        { "text": { "en": "Indication", "ru": "Показание" } },
+        { "text": { "en": "Low peak VO₂ (<14–16 mL/kg/min)", "ru": "Низкое пиковое потребление кислорода VO₂ (<14–16 мл/кг/мин)" } }
+      ]
+    },
+    {
+      "id": "ind-end-organ-dysfunction",
+      "cells": [
+        { "text": { "en": "Indication", "ru": "Показание" } },
+        { "text": { "en": "End-organ dysfunction attributable to low cardiac output", "ru": "Дисфункция органов-мишеней вследствие низкого сердечного выброса" } }
+      ]
+    },
+    {
+      "id": "hdr-contraindications-absolute",
+      "cells": [
+        {
+          "text": {
+            "en": "**Absolute Contraindications:**",
+            "ru": "**Абсолютные противопоказания:**"
+          },
+          "colspan": 2,
+          "tone": "red"
+        }
+      ]
+    },
+    {
+      "id": "ci-abs-hepatic",
+      "cells": [
+        { "text": { "en": "Absolute CI", "ru": "Абсолютное ПП" }, "tone": "red" },
+        { "text": { "en": "Irreversible hepatic disease", "ru": "Необратимое поражение печени" } }
+      ]
+    },
+    {
+      "id": "ci-abs-renal",
+      "cells": [
+        { "text": { "en": "Absolute CI", "ru": "Абсолютное ПП" }, "tone": "red" },
+        { "text": { "en": "Irreversible renal disease", "ru": "Необратимое поражение почек" } }
+      ]
+    },
+    {
+      "id": "ci-abs-neurological",
+      "cells": [
+        { "text": { "en": "Absolute CI", "ru": "Абсолютное ПП" }, "tone": "red" },
+        { "text": { "en": "Irreversible neurological disease", "ru": "Необратимое неврологическое заболевание" } }
+      ]
+    },
+    {
+      "id": "ci-abs-nonadherence",
+      "cells": [
+        { "text": { "en": "Absolute CI", "ru": "Абсолютное ПП" }, "tone": "red" },
+        { "text": { "en": "Medical nonadherence", "ru": "Медицинская некомплаентность (неприверженность к лечению)" } }
+      ]
+    },
+    {
+      "id": "ci-abs-psychosocial",
+      "cells": [
+        { "text": { "en": "Absolute CI", "ru": "Абсолютное ПП" }, "tone": "red" },
+        { "text": { "en": "Severe psychosocial limitations", "ru": "Тяжёлые психосоциальные ограничения" } }
+      ]
+    },
+    {
+      "id": "hdr-contraindications-relative",
+      "cells": [
+        {
+          "text": {
+            "en": "**Relative Contraindications:**",
+            "ru": "**Относительные противопоказания:**"
+          },
+          "colspan": 2,
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "ci-rel-age",
+      "cells": [
+        { "text": { "en": "Relative CI", "ru": "Относительное ПП" }, "tone": "yellow" },
+        { "text": { "en": "Age >80 y for destination therapy", "ru": "Возраст >80 лет для постоянной терапии (destination therapy)" } }
+      ]
+    },
+    {
+      "id": "ci-rel-obesity-malnutrition",
+      "cells": [
+        { "text": { "en": "Relative CI", "ru": "Относительное ПП" }, "tone": "yellow" },
+        { "text": { "en": "Obesity or malnutrition", "ru": "Ожирение или недостаточность питания (мальнутриция)" } }
+      ]
+    },
+    {
+      "id": "ci-rel-musculoskeletal",
+      "cells": [
+        { "text": { "en": "Relative CI", "ru": "Относительное ПП" }, "tone": "yellow" },
+        { "text": { "en": "Musculoskeletal disease that impairs rehabilitation", "ru": "Заболевания опорно-двигательного аппарата, препятствующие реабилитации" } }
+      ]
+    },
+    {
+      "id": "ci-rel-infection-intubation",
+      "cells": [
+        { "text": { "en": "Relative CI", "ru": "Относительное ПП" }, "tone": "yellow" },
+        { "text": { "en": "Active systemic infection or prolonged intubation", "ru": "Активная системная инфекция или длительная интубация трахеи" } }
+      ]
+    },
+    {
+      "id": "ci-rel-malignancy",
+      "cells": [
+        { "text": { "en": "Relative CI", "ru": "Относительное ПП" }, "tone": "yellow" },
+        { "text": { "en": "Untreated malignancy", "ru": "Нелеченое злокачественное новообразование" } }
+      ]
+    },
+    {
+      "id": "ci-rel-pvd",
+      "cells": [
+        { "text": { "en": "Relative CI", "ru": "Относительное ПП" }, "tone": "yellow" },
+        { "text": { "en": "Severe peripheral vascular disease (PVD)", "ru": "Тяжёлое заболевание периферических артерий" } }
+      ]
+    },
+    {
+      "id": "ci-rel-substance",
+      "cells": [
+        { "text": { "en": "Relative CI", "ru": "Относительное ПП" }, "tone": "yellow" },
+        { "text": { "en": "Active substance abuse", "ru": "Активное злоупотребление психоактивными веществами или алкоголем" } }
+      ]
+    },
+    {
+      "id": "ci-rel-cognition",
+      "cells": [
+        { "text": { "en": "Relative CI", "ru": "Относительное ПП" }, "tone": "yellow" },
+        { "text": { "en": "Impaired cognitive function", "ru": "Когнитивные нарушения" } }
+      ]
+    },
+    {
+      "id": "ci-rel-psychiatric",
+      "cells": [
+        { "text": { "en": "Relative CI", "ru": "Относительное ПП" }, "tone": "yellow" },
+        { "text": { "en": "Unmanaged psychiatric disorder", "ru": "Неконтролируемое психическое расстройство" } }
+      ]
+    },
+    {
+      "id": "ci-rel-social-support",
+      "cells": [
+        { "text": { "en": "Relative CI", "ru": "Относительное ПП" }, "tone": "yellow" },
+        { "text": { "en": "Lack of social support", "ru": "Отсутствие социальной поддержки" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "CRT indicates cardiac resynchronization therapy; HF, heart failure; NYHA, New York Heart Association; VO₂, oxygen consumption; and PVD, peripheral vascular disease.",
+      "ru": "CRT (СРТ) — сердечная ресинхронизирующая терапия; HF (СН) — сердечная недостаточность; NYHA — Нью-Йоркская ассоциация кардиологов; VO₂ — потребление кислорода; PVD — поражение периферических сосудов."
+    }
+  },
+  "source": {
+    "expectedRows": 26
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

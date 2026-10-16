@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t19-features-increased-risk-taaa-rupture",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 19",
+  "type": "grid",
+  "title": {
+    "en": "Features Associated With an Increased Risk of TAAA Rupture",
+    "ru": "Признаки, ассоциированные с повышенным риском разрыва торакоабдоминальной аневризмы аорты (ТААА)"
+  },
+  "tags": [
+    "taaa",
+    "thoracoabdominal",
+    "rupture",
+    "risk-factors",
+    "high-risk"
+  ],
+  "columns": [
+    {
+      "id": "feature",
+      "title": {
+        "en": "High-Risk Features for Rupture",
+        "ru": "Признаки повышенного риска разрыва"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "rapid-growth",
+      "cells": [
+        {
+          "text": {
+            "en": "Rapid growth (confirmed increase in diameter of ≥0.5 cm/y)",
+            "ru": "Быстрый рост (подтвержденное увеличение диаметра ≥0,5 см/год)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "symptomatic-aneurysm",
+      "cells": [
+        {
+          "text": {
+            "en": "Symptomatic aneurysm",
+            "ru": "Симптомная аневризма"
+          }
+        }
+      ]
+    },
+    {
+      "id": "change-appearance",
+      "cells": [
+        {
+          "text": {
+            "en": "Significant change in aneurysm appearance",
+            "ru": "Существенное изменение внешнего вида аневризмы"
+          }
+        }
+      ]
+    },
+    {
+      "id": "saccular-pau",
+      "cells": [
+        {
+          "text": {
+            "en": "Saccular aneurysm or presence of penetrating atherosclerotic ulcers",
+            "ru": "Мешотчатая форма аневризмы или наличие пенетрирующих атеросклеротических язв (PAU)"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

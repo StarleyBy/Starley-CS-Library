@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt01-prevention-stage-a-b",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 1",
+  "title": {
+    "en": "Recommendations for Prevention of Heart Failure (Stages A and B)",
+    "ru": "Рекомендации по профилактике сердечной недостаточности (стадии A и B)"
+  },
+  "tags": ["prevention", "stage-a", "stage-b", "hypertension", "diabetes", "obesity", "acei", "arb", "structural", "biomarkers"],
+  "sections": [
+    {
+      "id": "sec-stage-a",
+      "title": {
+        "en": "Stage A — At-Risk for HF (Risk Factor Management)",
+        "ru": "Стадия A — Риск развития СН (управление факторами риска)"
+      },
+      "rows": [
+        {
+          "id": "r01-htn-control",
+          "text": {
+            "en": "Effective treatment of hypertension is recommended to prevent symptomatic HF.",
+            "ru": "Эффективный контроль артериальной гипертензии рекомендован для предотвращения симптомной СН."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02-sglt2i-diabetes-hf-risk",
+          "text": {
+            "en": "For patients with T2DM and either established CVD or at high cardiovascular risk, SGLT2i are recommended to prevent HF hospitalizations.",
+            "ru": "У пациентов с СД 2 типа и установленными ССЗ или высоким сердечно-сосудистым риском иНГЛТ-2 рекомендованы для предотвращения госпитализаций по поводу СН."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03-lifestyle-obesity",
+          "text": {
+            "en": "Healthy lifestyle habits (e.g., regular physical exercise, maintaining normal weight, healthy dietary patterns, avoiding smoking) are recommended to reduce lifetime risk of HF.",
+            "ru": "Здоровый образ жизни (регулярная физическая активность, нормальная масса тела, здоровое питание, отказ от курения) рекомендован для снижения пожизненного риска СН."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "C-LD"
+        },
+        {
+          "id": "r04-cardiotoxic-surveillance",
+          "text": {
+            "en": "For patients exposed to cardiotoxic agents (e.g., anthracyclines, trastuzumab), cardiac surveillance with biomarkers and imaging is reasonable to prevent HF or identify it at an early stage.",
+            "ru": "У пациентов, получающих кардиотоксические препараты (антрациклины, трастузумаб), кардиологическое наблюдение с биомаркерами и визуализацией целесообразно для предотвращения СН или её раннего выявления."
+          },
+          "refs": [],
+          "class": "IIa",
+          "level": "B-NR"
+        },
+        {
+          "id": "r05-natriuretic-peptide-screening",
+          "text": {
+            "en": "In patients at risk for HF, natriuretic peptide-based screening followed by team-based care can be beneficial to prevent HF.",
+            "ru": "У пациентов с риском СН скрининг на основе натрийуретических пептидов с последующим командным ведением может быть полезен для профилактики СН."
+          },
+          "refs": [],
+          "class": "IIa",
+          "level": "B-R"
+        }
+      ]
+    },
+    {
+      "id": "sec-stage-b",
+      "title": {
+        "en": "Stage B — Pre-HF (Structural Heart Disease Without Symptoms)",
+        "ru": "Стадия B — Пред-СН (структурная болезнь сердца без симптомов)"
+      },
+      "rows": [
+        {
+          "id": "r06-acei-reduced-ef-asymptomatic",
+          "text": {
+            "en": "ACEi are recommended to prevent symptomatic HF and reduce mortality in patients with LVEF ≤40% and recent or remote MI.",
+            "ru": "иАПФ рекомендованы для предотвращения симптомной СН и снижения смертности у пациентов с ФВ ЛЖ ≤40% и недавним или перенесённым ИМ."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r07-bb-reduced-ef-post-mi",
+          "text": {
+            "en": "Evidence-based beta-blockers (carvedilol, metoprolol succinate, bisoprolol) are recommended to reduce mortality in patients with LVEF ≤40% who are already receiving ACEi and have recent or remote MI.",
+            "ru": "Бета-блокаторы с доказанной эффективностью (карведилол, метопролола сукцинат, бисопролол) рекомендованы для снижения смертности у пациентов с ФВ ЛЖ ≤40% на фоне иАПФ, перенёсших ИМ."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "B-R"
+        },
+        {
+          "id": "r08-arb-acei-intolerant-pre-hf",
+          "text": {
+            "en": "ARB are recommended to prevent symptomatic HF in patients with LVEF ≤40% who are intolerant of ACEi.",
+            "ru": "БРА рекомендованы для предотвращения симптомной СН у пациентов с ФВ ЛЖ ≤40% при непереносимости иАПФ."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "B-NR"
+        },
+        {
+          "id": "r09-statin-prevent-hf",
+          "text": {
+            "en": "Statin therapy is reasonable in patients with structural heart disease and at risk for cardiac events to prevent symptomatic HF.",
+            "ru": "Терапия статинами целесообразна у пациентов со структурной болезнью сердца и риском сердечно-сосудистых событий для предотвращения симптомной СН."
+          },
+          "refs": [],
+          "class": "IIa",
+          "level": "C-LD"
+        },
+        {
+          "id": "r10-icd-pre-hf-reduced-ef",
+          "text": {
+            "en": "ICD implantation is recommended for primary prevention of sudden cardiac death (SCD) in patients with symptomatic HF (NYHA Class II–III), LVEF ≤35% despite ≥3 months of GDMT, and expected meaningful survival >1 year.",
+            "ru": "Имплантация ИКД рекомендована для первичной профилактики ВСС у пациентов с симптомной СН (ФК II–III по NYHA), ФВ ЛЖ ≤35% на фоне GDMT ≥3 мес., с ожидаемой значимой выживаемостью >1 года."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "A"
+        }
+      ]
+    }
+  ]
+}

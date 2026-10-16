@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t31-high-risk-imaging-features-paus",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 31",
+  "type": "grid",
+  "title": {
+    "en": "High-Risk Imaging Features of PAUs",
+    "ru": "Признаки высокого риска при визуализации пенетрирующих атеросклеротических язв (PAU)"
+  },
+  "tags": [
+    "pau",
+    "penetrating-atherosclerotic-ulcer",
+    "high-risk-imaging",
+    "saccular-aneurysm",
+    "pleural-effusion"
+  ],
+  "columns": [
+    {
+      "id": "feature",
+      "title": {
+        "en": "Feature",
+        "ru": "Признак"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "max-pau-diameter",
+      "cells": [
+        {
+          "text": {
+            "en": "Maximum PAU diameter ≥13–20 mm",
+            "ru": "Максимальный диаметр PAU ≥13–20 мм"
+          }
+        }
+      ]
+    },
+    {
+      "id": "max-pau-depth",
+      "cells": [
+        {
+          "text": {
+            "en": "Maximum PAU depth ≥10 mm",
+            "ru": "Максимальная глубина PAU ≥10 мм"
+          }
+        }
+      ]
+    },
+    {
+      "id": "growth-pau-diameter-depth",
+      "cells": [
+        {
+          "text": {
+            "en": "Significant growth of PAU diameter or depth",
+            "ru": "Существенное увеличение диаметра или глубины PAU"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pau-saccular-aneurysm",
+      "cells": [
+        {
+          "text": {
+            "en": "PAU associated with a saccular aneurysm",
+            "ru": "PAU в сочетании с мешотчатой аневризмой"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pau-increasing-pleural-effusion",
+      "cells": [
+        {
+          "text": {
+            "en": "PAU with an increasing pleural effusion",
+            "ru": "PAU с нарастающим плевральным выпотом"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

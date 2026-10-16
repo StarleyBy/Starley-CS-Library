@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt36-access-issues-tevar-descending-taa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 36",
+  "title": {
+    "en": "Recommendations for Access Issues for TEVAR in Descending TAA",
+    "ru": "Рекомендации по сосудистому доступу для TEVAR при аневризме нисходящей грудной аорты"
+  },
+  "tags": [
+    "vascular-access",
+    "tevar",
+    "descending-aorta",
+    "cta",
+    "conduits",
+    "percutaneous"
+  ],
+  "sections": [
+    {
+      "id": "sec-access-issues-tevar-descending-taa",
+      "title": {
+        "en": "Access Issues for TEVAR in Descending TAA",
+        "ru": "Сосудистый доступ для TEVAR при аневризме нисходящей грудной аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-preoperative-cta-iliofemoral",
+          "text": {
+            "en": "In patients with descending TAA undergoing TEVAR, review of preoperative CTA of the iliofemoral vessels should be performed to evaluate access.",
+            "ru": "У пациентов с аневризмой нисходящей грудной аорты, переносящих TEVAR, следует выполнить оценку предоперационной КТ-ангиографии подвздошно-бедренного сегмента для анализа сосудистого доступа."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-marginal-iliac-alternative-conduits",
+          "text": {
+            "en": "In patients with descending TAA undergoing TEVAR, if iliac access is marginal or inadequate to prevent access-related complications, the use of alternative conduits is recommended.",
+            "ru": "У пациентов с аневризмой нисходящей грудной аорты, переносящих TEVAR, при пограничном или неадекватном подвздошном доступе рекомендуется использование альтернативных сосудистых кондуитов для предотвращения осложнений, связанных с доступом."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r03-percutaneous-femoral-access",
+          "text": {
+            "en": "In patients with descending TAA undergoing TEVAR who have suitable anatomy, total percutaneous femoral access is a reasonable alternative to open surgical cutdown to avoid access-related complications.",
+            "ru": "У пациентов с аневризмой нисходящей грудной аорты, переносящих TEVAR, при подходящей анатомии полностью чрескожный бедренный доступ является разумной альтернативой открытому хирургическому доступу для предотвращения связанных с доступом осложнений."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

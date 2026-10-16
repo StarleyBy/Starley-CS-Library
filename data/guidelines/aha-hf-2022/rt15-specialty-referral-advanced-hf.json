@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt15-specialty-referral-advanced-hf",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendation for Specialty Referral for Advanced HF",
+  "title": {
+    "en": "Recommendation for Specialty Referral for Advanced HF",
+    "ru": "Рекомендация по направлению к специалисту по продвинутой сердечной недостаточности"
+  },
+  "tags": [
+    "advanced-hf",
+    "referral",
+    "specialty-care",
+    "lvad",
+    "transplantation",
+    "palliative-care",
+    "inotropes",
+    "stage-d"
+  ],
+  "sections": [
+    {
+      "id": "sec-specialty-referral",
+      "title": {
+        "en": "Timely Specialty Referral in Advanced HF",
+        "ru": "Своевременное направление к профильным специалистам при продвинутой СН"
+      },
+      "rows": [
+        {
+          "id": "r01-timely-referral-specialty-care",
+          "text": {
+            "en": "In patients with advanced HF, when consistent with the patient's goals of care, timely referral for HF specialty care is recommended to review HF management and assess suitability for advanced HF therapies (eg, LVAD, cardiac transplantation, palliative care, and palliative inotropes).",
+            "ru": "У пациентов с продвинутой СН, если это соответствует целям лечения пациента, рекомендовано своевременное направление в специализированное отделение/центр лечения СН для пересмотра терапии и оценки возможности применения продвинутых методов лечения (например, LVAD, трансплантация сердца, паллиативная помощь и паллиативные инотропы)."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

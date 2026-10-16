@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t04-classification-lvef",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 4",
+  "type": "grid",
+  "title": {
+    "en": "Classification of HF by LVEF",
+    "ru": "Классификация сердечной недостаточности по ФВ ЛЖ"
+  },
+  "tags": [
+    "classification",
+    "lvef",
+    "hfref",
+    "hfpef",
+    "hfmref",
+    "hfimpef",
+    "ejection-fraction"
+  ],
+  "columns": [
+    {
+      "id": "c_type",
+      "title": { "en": "Type of HF According to LVEF", "ru": "Тип СН по ФВ ЛЖ" }
+    },
+    {
+      "id": "c_criteria",
+      "title": { "en": "Criteria", "ru": "Критерии" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "hfref",
+      "cells": [
+        {
+          "text": {
+            "en": "**HFrEF** (HF with reduced EF)",
+            "ru": "**HFrEF** (СН со сниженной ФВ)"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "LVEF ≤40%",
+            "ru": "ФВ ЛЖ ≤40%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hfimpef",
+      "cells": [
+        {
+          "text": {
+            "en": "**HFimpEF** (HF with improved EF)",
+            "ru": "**HFimpEF** (СН с улучшенной ФВ)"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Previous LVEF ≤40% AND a follow-up measurement of LVEF >40%",
+            "ru": "Предшествующая ФВ ЛЖ ≤40% И повторное измерение ФВ ЛЖ >40%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hfmref",
+      "cells": [
+        {
+          "text": {
+            "en": "**HFmrEF** (HF with mildly reduced EF)",
+            "ru": "**HFmrEF** (СН с умеренно сниженной ФВ)"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "LVEF 41%–49% AND evidence of spontaneous or provokable increased LV filling pressures (e.g., elevated natriuretic peptide, noninvasive and invasive hemodynamic measurement)",
+            "ru": "ФВ ЛЖ 41%–49% И признаки спонтанного или провоцируемого повышения давления наполнения ЛЖ (например, повышенные натрийуретические пептиды, неинвазивные и инвазивные гемодинамические измерения)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hfpef",
+      "cells": [
+        {
+          "text": {
+            "en": "**HFpEF** (HF with preserved EF)",
+            "ru": "**HFpEF** (СН с сохранённой ФВ)"
+          },
+          "tone": "blue"
+        },
+        {
+          "text": {
+            "en": "LVEF ≥50% AND evidence of spontaneous or provokable increased LV filling pressures (e.g., elevated natriuretic peptide, noninvasive and invasive hemodynamic measurement)",
+            "ru": "ФВ ЛЖ ≥50% И признаки спонтанного или провоцируемого повышения давления наполнения ЛЖ (например, повышенные натрийуретические пептиды, неинвазивные и инвазивные гемодинамические измерения)"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "HF indicates heart failure; LV, left ventricular; LVEF, left ventricular ejection fraction. Please see Appendix 3 for suggested thresholds for structural heart disease and evidence of increased filling pressures.",
+      "ru": "СН — сердечная недостаточность; ЛЖ — левый желудочек; ФВ ЛЖ — фракция выброса левого желудочка. Пороговые значения для структурной болезни сердца и признаков повышенного давления наполнения см. в Приложении 3."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

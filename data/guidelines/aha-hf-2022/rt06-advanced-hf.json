@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt06-advanced-hf",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 6",
+  "title": {
+    "en": "Recommendations for Advanced Heart Failure (Stage D)",
+    "ru": "Рекомендации при продвинутой сердечной недостаточности (стадия D)"
+  },
+  "tags": ["advanced-hf", "stage-d", "lvad", "transplantation", "mcs", "palliative-care", "inotropes", "referral", "destination-therapy", "bridge-to-transplant"],
+  "sections": [
+    {
+      "id": "sec-referral-advanced-hf",
+      "title": {
+        "en": "Referral and Evaluation for Advanced HF",
+        "ru": "Направление и оценка при продвинутой СН"
+      },
+      "rows": [
+        {
+          "id": "r01-referral-advanced-hf-center",
+          "text": {
+            "en": "Patients with advanced HF with repeated or refractory HF hospitalizations, intolerance to GDMT, dependence on IV inotropes, or refractory cardiogenic shock should be referred to HF specialty centers for evaluation for advanced HF therapies.",
+            "ru": "Пациенты с продвинутой СН, повторными или рефрактерными госпитализациями, непереносимостью GDMT, зависимостью от в/в инотропов или рефрактерным кардиогенным шоком должны быть направлены в специализированные центры для оценки возможности продвинутых методов лечения."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r02-hemodynamic-monitoring",
+          "text": {
+            "en": "Implantable pulmonary artery pressure monitoring (CardioMEMS) is recommended to reduce HF hospitalizations in patients with ambulatory NYHA Class III HF with prior HF hospitalization.",
+            "ru": "Имплантируемый мониторинг давления в лёгочной артерии (CardioMEMS) рекомендован для снижения госпитализаций у амбулаторных пациентов с ФК III по NYHA и предшествующей госпитализацией по поводу СН."
+          },
+          "refs": [],
+          "class": "IIa",
+          "level": "B-R"
+        }
+      ]
+    },
+    {
+      "id": "sec-lvad",
+      "title": {
+        "en": "Left Ventricular Assist Device (LVAD)",
+        "ru": "Левожелудочковое вспомогательное устройство (LVAD)"
+      },
+      "rows": [
+        {
+          "id": "r03-lvad-bridge-transplant",
+          "text": {
+            "en": "LVAD is indicated for patients with advanced HFrEF awaiting cardiac transplantation (bridge to transplantation) who are deteriorating.",
+            "ru": "LVAD показан пациентам с продвинутой HFrEF, ожидающим трансплантацию сердца (мост к трансплантации) при ухудшении состояния."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "B-NR"
+        },
+        {
+          "id": "r04-lvad-destination-therapy",
+          "text": {
+            "en": "LVAD is reasonable in selected patients with advanced HFrEF not eligible for cardiac transplantation who have NYHA Class IIIB–IV symptoms despite GDMT, to improve functional status, QOL, and survival (destination therapy).",
+            "ru": "LVAD целесообразен у отдельных пациентов с продвинутой HFrEF, не подходящих для трансплантации, с ФК IIIB–IV на GDMT для улучшения функционального статуса, качества жизни и выживаемости (конечная цель терапии)."
+          },
+          "refs": [],
+          "class": "IIa",
+          "level": "B-R"
+        }
+      ]
+    },
+    {
+      "id": "sec-cardiac-transplantation",
+      "title": {
+        "en": "Cardiac Transplantation",
+        "ru": "Трансплантация сердца"
+      },
+      "rows": [
+        {
+          "id": "r05-transplant-selected-advanced",
+          "text": {
+            "en": "Cardiac transplantation is recommended for carefully selected patients with advanced HF with refractory symptoms, hemodynamics, or arrhythmias, despite optimal GDMT and device therapy.",
+            "ru": "Трансплантация сердца рекомендована тщательно отобранным пациентам с продвинутой СН и рефрактерными симптомами, нарушениями гемодинамики или аритмиями, несмотря на оптимальную GDMT и устройства."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "C-EO"
+        }
+      ]
+    },
+    {
+      "id": "sec-palliative-care",
+      "title": {
+        "en": "Palliative Care and End-of-Life",
+        "ru": "Паллиативная помощь и помощь в конце жизни"
+      },
+      "rows": [
+        {
+          "id": "r06-palliative-care",
+          "text": {
+            "en": "Palliative care, including discussion of prognosis for functional capacity and survival, should be integrated into the care of patients with HF.",
+            "ru": "Паллиативная помощь, включая обсуждение прогноза функциональных возможностей и выживаемости, должна быть интегрирована в ведение пациентов с СН."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "C-LD"
+        },
+        {
+          "id": "r07-goals-of-care-discussion",
+          "text": {
+            "en": "For patients with HF who are at risk for sudden death, discussion of the option to deactivate ICD should be part of shared decision-making.",
+            "ru": "У пациентов с СН и риском внезапной смерти обсуждение возможности отключения ИКД должно быть частью совместного принятия решений."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "C-LD"
+        }
+      ]
+    }
+  ]
+}

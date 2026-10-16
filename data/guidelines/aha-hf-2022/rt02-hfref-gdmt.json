@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt02-hfref-gdmt",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 2",
+  "title": {
+    "en": "Recommendations for Pharmacological Treatment of HFrEF (Stage C, LVEF ≤40%) — Guideline-Directed Medical Therapy",
+    "ru": "Рекомендации по медикаментозному лечению HFrEF (стадия C, ФВ ЛЖ ≤40%) — GDMT"
+  },
+  "tags": ["hfref", "gdmt", "arni", "sacubitril-valsartan", "beta-blocker", "mra", "sglt2i", "acei", "arb", "diuretics", "stage-c"],
+  "sections": [
+    {
+      "id": "sec-cornerstone-gdmt",
+      "title": {
+        "en": "Foundational Pharmacological Therapy (Four Pillars of HFrEF)",
+        "ru": "Базовая медикаментозная терапия (четыре столпа лечения HFrEF)"
+      },
+      "rows": [
+        {
+          "id": "r01-arni",
+          "text": {
+            "en": "ARNI (sacubitril/valsartan) is recommended for patients with chronic symptomatic HFrEF (NYHA Class II–III) to reduce morbidity and mortality. ARNI is preferred over ACEi or ARB.",
+            "ru": "АPNI (сакубитрил/валсартан) рекомендован пациентам с хронической симптомной HFrEF (ФК II–III по NYHA) для снижения заболеваемости и смертности. Предпочтительнее иАПФ или БРА."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r02-bb",
+          "text": {
+            "en": "Use of one of the three beta-blockers proven to reduce mortality (carvedilol, sustained-release metoprolol succinate, bisoprolol) is recommended for patients with stable HFrEF to reduce mortality and HF hospitalizations.",
+            "ru": "Применение одного из трёх бета-блокаторов с доказанным снижением смертности (карведилол, метопролола сукцинат, бисопролол) рекомендовано при стабильной HFrEF для снижения смертности и госпитализаций."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r03-mra",
+          "text": {
+            "en": "MRA (spironolactone, eplerenone) is recommended for patients with HFrEF (NYHA Class II–IV) to reduce morbidity and mortality, unless contraindicated. Creatinine ≤2.5 mg/dL (men) / ≤2.0 mg/dL (women) and K⁺ <5.0 mEq/L.",
+            "ru": "АМР (спиронолактон, эплеренон) рекомендованы при HFrEF (ФК II–IV по NYHA) для снижения заболеваемости и смертности при отсутствии противопоказаний. Креатинин ≤2,5 мг/дл (мужчины) / ≤2,0 мг/дл (женщины), К⁺ <5,0 мЭкв/л."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r04-sglt2i",
+          "text": {
+            "en": "SGLT2i (dapagliflozin or empagliflozin) are recommended for patients with HFrEF to reduce HF hospitalizations and cardiovascular mortality.",
+            "ru": "иНГЛТ-2 (дапаглифлозин или эмпаглифлозин) рекомендованы при HFrEF для снижения госпитализаций по поводу СН и сердечно-сосудистой смертности."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r05-acei-if-no-arni",
+          "text": {
+            "en": "ACEi are recommended for patients with HFrEF who cannot use ARNI, to reduce morbidity and mortality.",
+            "ru": "иАПФ рекомендованы пациентам с HFrEF, которые не могут принимать АРНИ, для снижения заболеваемости и смертности."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r06-arb-if-no-arni-acei",
+          "text": {
+            "en": "ARB are recommended for patients with HFrEF who cannot use ARNI due to ACEi intolerance, to reduce morbidity and mortality.",
+            "ru": "БРА рекомендованы пациентам с HFrEF при непереносимости АРНИ из-за побочных эффектов иАПФ, для снижения заболеваемости и смертности."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r07-diuretics-congestion",
+          "text": {
+            "en": "Diuretics are recommended for patients with HFrEF and fluid overload to relieve congestion, improve symptoms, and prevent HF hospitalization.",
+            "ru": "Диуретики рекомендованы пациентам с HFrEF и задержкой жидкости для устранения застоя, улучшения симптомов и предотвращения госпитализаций."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "C-LD"
+        }
+      ]
+    },
+    {
+      "id": "sec-additional-hfref",
+      "title": {
+        "en": "Additional Pharmacological Therapy for HFrEF",
+        "ru": "Дополнительная медикаментозная терапия при HFrEF"
+      },
+      "rows": [
+        {
+          "id": "r08-hydralazine-isosorbide-black",
+          "text": {
+            "en": "Combination of hydralazine and isosorbide dinitrate is recommended for self-identified Black patients with HFrEF (NYHA Class III–IV) who remain symptomatic despite GDMT, to reduce morbidity and mortality.",
+            "ru": "Комбинация гидралазина и изосорбида динитрата рекомендована темнокожим пациентам с HFrEF (ФК III–IV) с сохраняющимися симптомами на фоне GDMT."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "A"
+        },
+        {
+          "id": "r09-ivabradine",
+          "text": {
+            "en": "Ivabradine can be beneficial to reduce HF hospitalization in patients with HFrEF in sinus rhythm on maximally tolerated beta-blocker dose with resting HR ≥70 bpm (NYHA Class II–III, LVEF ≤35%).",
+            "ru": "Ивабрадин может быть полезен для снижения госпитализаций при HFrEF с синусовым ритмом на максимально переносимой дозе бета-блокатора при ЧСС ≥70 уд/мин (ФК II–III, ФВ ЛЖ ≤35%)."
+          },
+          "refs": [],
+          "class": "IIa",
+          "level": "B-R"
+        },
+        {
+          "id": "r10-vericiguat",
+          "text": {
+            "en": "Vericiguat may be considered in selected high-risk patients with HFrEF (NYHA Class II–IV) who have had a recent worsening HF event despite GDMT, to reduce cardiovascular mortality and HF hospitalization.",
+            "ru": "Верицигуат может быть рассмотрен у отдельных пациентов высокого риска с HFrEF (ФК II–IV), перенёсших декомпенсацию на фоне GDMT, для снижения сердечно-сосудистой смертности и госпитализаций."
+          },
+          "refs": [],
+          "class": "IIb",
+          "level": "B-R"
+        },
+        {
+          "id": "r11-digoxin",
+          "text": {
+            "en": "Digoxin may be considered in patients with HFrEF in sinus rhythm who have persistent symptoms despite GDMT, to reduce HF hospitalizations.",
+            "ru": "Дигоксин может быть рассмотрен при HFrEF с синусовым ритмом и сохраняющимися симптомами на фоне GDMT для снижения госпитализаций."
+          },
+          "refs": [],
+          "class": "IIb",
+          "level": "B-R"
+        },
+        {
+          "id": "r12-omega3",
+          "text": {
+            "en": "Omega-3 polyunsaturated fatty acids may be reasonable to use as an adjunct in patients with HFrEF to reduce cardiovascular hospitalizations and mortality.",
+            "ru": "Омега-3 полиненасыщенные жирные кислоты могут быть применены в качестве дополнения при HFrEF для снижения сердечно-сосудистых госпитализаций и смертности."
+          },
+          "refs": [],
+          "class": "IIb",
+          "level": "B-R"
+        },
+        {
+          "id": "r13-calcium-channel-blockers-harm",
+          "text": {
+            "en": "Routine use of non-dihydropyridine calcium channel blockers (diltiazem, verapamil) is potentially harmful in patients with HFrEF.",
+            "ru": "Рутинное применение недигидропиридиновых блокаторов кальциевых каналов (дилтиазем, верапамил) потенциально опасно при HFrEF."
+          },
+          "refs": [],
+          "class": "III-harm",
+          "level": "B-NR"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt58-pau-open-vs-endovascular-repair",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 58",
+  "title": {
+    "en": "Recommendations for PAU Open Surgical Repair Versus Endovascular Repair",
+    "ru": "Рекомендации по открытому хирургическому лечению в сравнении с эндоваскулярным лечением пенетрирующей атеросклеротической язвы (PAU)"
+  },
+  "tags": [
+    "pau",
+    "penetrating-atherosclerotic-ulcer",
+    "open-repair",
+    "endovascular-repair",
+    "ascending-aorta",
+    "aortic-arch",
+    "descending-thoracic-aorta",
+    "abdominal-aorta"
+  ],
+  "sections": [
+    {
+      "id": "sec-pau-open-vs-endovascular-repair",
+      "title": {
+        "en": "PAU Open Surgical Repair Versus Endovascular Repair",
+        "ru": "Открытое хирургическое лечение в сравнении с эндоваскулярным лечением PAU"
+      },
+      "rows": [
+        {
+          "id": "r01-ascending-proximal-arch-open-repair",
+          "text": {
+            "en": "In patients who require repair of a PAU in the ascending aorta or proximal aortic arch (zones 0-1), open surgical repair is recommended.",
+            "ru": "У пациентов, которым требуется вмешательство по поводу PAU в восходящей аорте или проксимальной части дуги аорты (зоны 0–1), рекомендуется открытая хирургическая операция."
+          },
+          "class": "I",
+          "level": "C-LD"
+        },
+        {
+          "id": "r02-distal-arch-descending-abdominal-open-vs-endovascular",
+          "text": {
+            "en": "In patients who require repair of a PAU in the distal aortic arch (zones 2-3), descending thoracic aorta, or abdominal aorta, either open surgical repair or endovascular repair is reasonable, based on anatomy and medical comorbidities.",
+            "ru": "У пациентов, которым требуется вмешательство по поводу PAU в дистальной части дуги аорты (зоны 2–3), нисходящей грудной аорте или брюшной аорте, целесообразно выполнение как открытой хирургической операции, так и эндоваскулярного вмешательства с учетом анатомических особенностей и сопутствующей патологии."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

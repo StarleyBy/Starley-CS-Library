@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t06-causes-elevated-bnp",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Selected Potential Causes of Elevated Natriuretic Peptide Levels",
+    "ru": "Избранные возможные причины повышения уровня натрийуретических пептидов"
+  },
+  "tags": [
+    "bnp",
+    "nt-probnp",
+    "natriuretic-peptide",
+    "biomarkers",
+    "differential-diagnosis",
+    "elevated-bnp",
+    "cardiac-causes",
+    "noncardiac-causes"
+  ],
+  "columns": [
+    {
+      "id": "c_category",
+      "title": { "en": "Category", "ru": "Категория" }
+    },
+    {
+      "id": "c_cause",
+      "title": { "en": "Potential Causes", "ru": "Возможные причины" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "cardiac-header",
+      "cells": [
+        {
+          "text": {
+            "en": "**Cardiac Causes**",
+            "ru": "**Кардиальные причины**"
+          },
+          "colspan": 2,
+          "tone": "blue"
+        }
+      ]
+    },
+    {
+      "id": "cardiac-hf",
+      "cells": [
+        { "text": { "en": "Heart Failure", "ru": "Сердечная недостаточность" } },
+        { "text": { "en": "HF, including RV HF syndromes", "ru": "СН, в том числе синдромы правожелудочковой СН" } }
+      ]
+    },
+    {
+      "id": "cardiac-acs",
+      "cells": [
+        { "text": { "en": "Coronary Syndromes", "ru": "Коронарные синдромы" } },
+        { "text": { "en": "Acute coronary syndromes (ACS)", "ru": "Острый коронарный синдром (ОКС)" } }
+      ]
+    },
+    {
+      "id": "cardiac-muscle",
+      "cells": [
+        { "text": { "en": "Myocardial Disease", "ru": "Болезни миокарда" } },
+        { "text": { "en": "Heart muscle disease, including LVH", "ru": "Болезни миокарда, включая гипертрофию ЛЖ (ГЛЖ)" } }
+      ]
+    },
+    {
+      "id": "cardiac-vhd",
+      "cells": [
+        { "text": { "en": "Valvular Disease", "ru": "Клапанные пороки" } },
+        { "text": { "en": "Valvular heart disease (VHD)", "ru": "Пороки клапанов сердца (ВПС)" } }
+      ]
+    },
+    {
+      "id": "cardiac-pericardial",
+      "cells": [
+        { "text": { "en": "Pericardial Disease", "ru": "Болезни перикарда" } },
+        { "text": { "en": "Pericardial disease", "ru": "Заболевания перикарда" } }
+      ]
+    },
+    {
+      "id": "cardiac-af",
+      "cells": [
+        { "text": { "en": "Arrhythmias", "ru": "Аритмии" } },
+        { "text": { "en": "Atrial fibrillation (AF)", "ru": "Фибрилляция предсердий (ФП)" } }
+      ]
+    },
+    {
+      "id": "cardiac-myocarditis",
+      "cells": [
+        { "text": { "en": "Inflammation", "ru": "Воспаление" } },
+        { "text": { "en": "Myocarditis", "ru": "Миокардит" } }
+      ]
+    },
+    {
+      "id": "cardiac-surgery-cv",
+      "cells": [
+        { "text": { "en": "Procedures", "ru": "Вмешательства" } },
+        { "text": { "en": "Cardiac surgery, cardioversion", "ru": "Операции на сердце, кардиоверсия" } }
+      ]
+    },
+    {
+      "id": "cardiac-toxic",
+      "cells": [
+        { "text": { "en": "Toxic Insults", "ru": "Токсические поражения" } },
+        { "text": { "en": "Toxic-metabolic myocardial insults, including cancer chemotherapy", "ru": "Токсико-метаболические повреждения миокарда, включая противоопухолевую химиотерапию" } }
+      ]
+    },
+    {
+      "id": "noncardiac-header",
+      "cells": [
+        {
+          "text": {
+            "en": "**Noncardiac Causes**",
+            "ru": "**Некардиальные причины**"
+          },
+          "colspan": 2,
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "nc-age",
+      "cells": [
+        { "text": { "en": "Demographics", "ru": "Демографические" } },
+        { "text": { "en": "Advancing age", "ru": "Пожилой возраст" } }
+      ]
+    },
+    {
+      "id": "nc-anemia",
+      "cells": [
+        { "text": { "en": "Hematologic", "ru": "Гематологические" } },
+        { "text": { "en": "Anemia", "ru": "Анемия" } }
+      ]
+    },
+    {
+      "id": "nc-renal",
+      "cells": [
+        { "text": { "en": "Renal", "ru": "Почечные" } },
+        { "text": { "en": "Renal failure", "ru": "Почечная недостаточность" } }
+      ]
+    },
+    {
+      "id": "nc-pulm",
+      "cells": [
+        { "text": { "en": "Pulmonary", "ru": "Лёгочные" } },
+        { "text": { "en": "Obstructive sleep apnea, severe pneumonia, pulmonary embolism, pulmonary arterial hypertension", "ru": "Обструктивное апноэ сна, тяжёлая пневмония, ТЭЛА, лёгочная артериальная гипертензия" } }
+      ]
+    },
+    {
+      "id": "nc-critical-sepsis-burns",
+      "cells": [
+        { "text": { "en": "Systemic Critical", "ru": "Критические состояния" } },
+        { "text": { "en": "Critical illness, bacterial sepsis, severe burns", "ru": "Критические состояния, бактериальный сепсис, тяжёлые ожоги" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "ACS indicates acute coronary syndromes; AF, atrial fibrillation; HF, heart failure; LVH, left ventricular hypertrophy; RV, right ventricular; and VHD, valvular heart disease.",
+      "ru": "ОКС — острый коронарный синдром; ФП — фибрилляция предсердий; СН — сердечная недостаточность; ГЛЖ — гипертрофия левого желудочка; ПЖ — правый желудочек; ВПС — клапанные пороки сердца."
+    }
+  },
+  "source": {
+    "expectedRows": 16
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

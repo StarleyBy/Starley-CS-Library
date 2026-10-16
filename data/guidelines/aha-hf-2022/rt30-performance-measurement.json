@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt30-performance-measurement",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Performance Measurement",
+  "title": {
+    "en": "Recommendations for Performance Measurement",
+    "ru": "Рекомендации по оценке показателей эффективности и качества медицинской помощи"
+  },
+  "tags": [
+    "performance-measures",
+    "quality-improvement",
+    "quality-measures",
+    "registries",
+    "benchmarking",
+    "quality-of-care"
+  ],
+  "sections": [
+    {
+      "id": "sec-performance-measurement",
+      "title": {
+        "en": "Performance Measurement",
+        "ru": "Оценка показателей эффективности и качества"
+      },
+      "rows": [
+        {
+          "id": "r01-performance-measures-guidelines",
+          "text": {
+            "en": "Performance measures based on professionally developed clinical practice guidelines should be used with the goal of improving quality of care for patients with HF.",
+            "ru": "Показатели эффективности (индикаторы качества), разработанные на основе профессиональных клинических руководств, следует использовать с целью повышения качества медицинской помощи пациентам с СН."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-quality-improvement-registries",
+          "text": {
+            "en": "Participation in quality improvement programs, including patient registries that provide benchmark feedback on nationally endorsed, clinical practice guideline–based quality and performance measures can be beneficial in improving the quality of care for patients with HF.",
+            "ru": "Участие в программах повышения качества, включая регистры пациентов с бенчмаркингом национально одобренных показателей качества клинических руководств, может быть полезным для улучшения помощи пациентам с СН."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 8, 9]
+        }
+      ]
+    }
+  ]
+}

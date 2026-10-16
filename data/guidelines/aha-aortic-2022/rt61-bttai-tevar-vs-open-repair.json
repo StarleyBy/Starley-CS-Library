@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt61-bttai-tevar-vs-open-repair",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 61",
+  "title": {
+    "en": "Recommendation for Endovascular Versus Open Surgical Repair",
+    "ru": "Рекомендация по эндоваскулярному лечению в сравнении с открытым хирургическим лечением"
+  },
+  "tags": [
+    "bttai",
+    "blunt-trauma",
+    "tevar",
+    "open-repair",
+    "thoracic-aorta"
+  ],
+  "sections": [
+    {
+      "id": "sec-bttai-endovascular-vs-open-repair",
+      "title": {
+        "en": "Endovascular Versus Open Surgical Repair",
+        "ru": "Эндоваскулярное лечение в сравнении с открытым хирургическим лечением"
+      },
+      "rows": [
+        {
+          "id": "r01-tevar-over-open-repair",
+          "text": {
+            "en": "In patients with BTTAI who meet indications for repair and with appropriate anatomy, TEVAR is recommended over open repair.",
+            "ru": "У пациентов с BTTAI при наличии показаний к вмешательству и подходящей анатомии рекомендуется проведение TEVAR предпочтительнее открытой хирургической операции."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

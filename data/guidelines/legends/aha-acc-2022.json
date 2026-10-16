@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acc-2022",
+  "classes": {
+    "I": {
+      "wording": { "en": "Strong recommendation / Benefit >>> Risk", "ru": "Сильная рекомендация / Польза >>> Риск" },
+      "meaning": {
+        "en": "Strong recommendation. The benefit greatly outweighs the risk. Procedure/treatment SHOULD be performed/administered.",
+        "ru": "Процедура/лечение РЕКОМЕНДОВАНЫ. Польза значительно превышает риск."
+      }
+    },
+    "IIa": {
+      "wording": { "en": "Moderate recommendation / Benefit >> Risk", "ru": "Умеренная рекомендация / Польза >> Риск" },
+      "meaning": {
+        "en": "Moderate recommendation. Additional studies with focused objectives needed. It is reasonable to perform procedure/administer treatment.",
+        "ru": "Польза и эффективность выше, чем риск. Целесообразно выполнить процедуру/назначить лечение."
+      }
+    },
+    "IIb": {
+      "wording": { "en": "Weak recommendation / Benefit ≥ Risk", "ru": "Слабая рекомендация / Польза ≥ Риск" },
+      "meaning": {
+        "en": "Weak recommendation. Additional studies with broad objectives needed; additional registry data would be helpful. Procedure/treatment MAY be considered.",
+        "ru": "Дополнительные широкоцелевые исследования необходимы. Процедура/лечение МОЖЕТ быть рассмотрена."
+      }
+    },
+    "III-no-benefit": {
+      "label": "III: No Benefit",
+      "wording": { "en": "No benefit / Benefit = Risk", "ru": "Нет пользы / Польза = Риск" },
+      "meaning": {
+        "en": "Moderate recommendation against. No proven benefit. Procedure/treatment is NOT recommended.",
+        "ru": "Не доказано наличие пользы. Процедура/лечение НЕ РЕКОМЕНДОВАНЫ."
+      }
+    },
+    "III-harm": {
+      "label": "III: Harm",
+      "wording": { "en": "Harm / Risk > Benefit", "ru": "Вред / Риск > Польза" },
+      "meaning": {
+        "en": "Strong recommendation against. Procedure/treatment is potentially harmful. Procedure/treatment SHOULD NOT be performed/administered.",
+        "ru": "Процедура/лечение ПОТЕНЦИАЛЬНО ОПАСНЫ. Не должны выполняться/назначаться."
+      }
+    },
+    "Value-High": {
+      "label": "High Value",
+      "wording": { "en": "Value Statement: High Value", "ru": "Оценка ценности: Высокая ценность" },
+      "meaning": {
+        "en": "High economic value: Better outcomes at lower cost or highly cost-effective (incremental cost-effectiveness ratio <$50,000 per QALY gained).",
+        "ru": "Высокая экономическая ценность: улучшение исходов при меньших затратах или высокая экономическая эффективность (<$50 000 за QALY)."
+      }
+    },
+    "Value-Low": {
+      "label": "Low Value",
+      "wording": { "en": "Value Statement: Low Value", "ru": "Оценка ценности: Низкая ценность" },
+      "meaning": {
+        "en": "Low economic value: Incremental cost-effectiveness ratio ≥$150,000 per QALY gained.",
+        "ru": "Низкая экономическая ценность: инкрементный показатель эффективности затрат ≥$150 000 за QALY."
+      }
+    },
+    "Value-Intermediate": {
+      "label": "Intermediate Value",
+      "wording": { "en": "Value Statement: Intermediate Value", "ru": "Оценка ценности: Промежуточная ценность" },
+      "meaning": {
+        "en": "Intermediate economic value: Incremental cost-effectiveness ratio $50,000 to <$150,000 per QALY gained.",
+        "ru": "Промежуточная экономическая ценность: инкрементный показатель эффективности затрат от $50 000 до <$150 000 за QALY."
+      }
+    },
+    "Value-Uncertain": {
+      "label": "Uncertain Value",
+      "wording": { "en": "Value Statement: Uncertain Value", "ru": "Оценка ценности: Неопределённая ценность" },
+      "meaning": {
+        "en": "Uncertain economic value: Uncertainty in the value of the intervention because of insufficient data or widely varying estimates.",
+        "ru": "Неопределённая экономическая ценность: неопределённость экономической оценки вмешательства из-за недостаточности данных или широкого разброса оценок."
+      }
+    }
+  },
+  "levels": {
+    "A": {
+      "meaning": {
+        "en": "High-quality evidence from more than 1 RCT. Meta-analyses of high-quality RCTs. One or more RCTs corroborated by high-quality registry studies.",
+        "ru": "Высококачественные данные ≥1 РКИ. Метаанализы высококачественных РКИ. ≥1 РКИ, подтверждённых высококачественными регистровыми исследованиями."
+      }
+    },
+    "B-R": {
+      "label": "B-R (Randomized)",
+      "meaning": {
+        "en": "Moderate-quality evidence from 1 or more RCTs. Meta-analyses of moderate-quality RCTs.",
+        "ru": "Умеренно качественные данные из ≥1 РКИ. Метаанализы РКИ умеренного качества."
+      }
+    },
+    "B-NR": {
+      "label": "B-NR (Non-Randomized)",
+      "meaning": {
+        "en": "Moderate-quality evidence from 1 or more well-designed, well-executed nonrandomized studies, observational studies, or registry studies. Meta-analyses of such studies.",
+        "ru": "Умеренно качественные данные ≥1 нерандомизированных, наблюдательных или регистровых исследований. Метаанализы таких исследований."
+      }
+    },
+    "C-LD": {
+      "label": "C-LD (Limited Data)",
+      "meaning": {
+        "en": "Randomized or nonrandomized observational or registry studies with limitations of design or execution. Meta-analyses of such studies. Physiological or mechanistic studies in human subjects.",
+        "ru": "Рандомизированные или нерандомизированные наблюдательные/регистровые исследования с ограничениями дизайна. Физиологические или механистические исследования."
+      }
+    },
+    "C-EO": {
+      "label": "C-EO (Expert Opinion)",
+      "meaning": {
+        "en": "Consensus of expert opinion based on clinical experience.",
+        "ru": "Консенсус мнений экспертов, основанный на клиническом опыте."
+      }
+    }
+  }
+}

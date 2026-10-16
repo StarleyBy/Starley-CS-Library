@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt28-disparities-vulnerable-populations",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Disparities and Vulnerable Populations",
+  "title": {
+    "en": "Recommendations for Disparities and Vulnerable Populations",
+    "ru": "Рекомендации по преодолению неравенства в отношении здоровья и ведению уязвимых групп пациентов"
+  },
+  "tags": [
+    "disparities",
+    "vulnerable-populations",
+    "social-determinants-of-health",
+    "health-equity",
+    "cvd-risk",
+    "multidisciplinary-care"
+  ],
+  "sections": [
+    {
+      "id": "sec-disparities-vulnerable-populations",
+      "title": {
+        "en": "Disparities and Vulnerable Populations",
+        "ru": "Неравенство в медицинской помощи и уязвимые группы пациентов"
+      },
+      "rows": [
+        {
+          "id": "r01-cvd-social-determinants",
+          "text": {
+            "en": "In vulnerable patient populations at risk for health disparities, HF risk assessments and multidisciplinary management strategies should target both known risks for CVD and social determinants of health, as a means toward elimination of disparate HF outcomes.",
+            "ru": "В уязвимых группах пациентов с риском неравенства в отношении здоровья оценка риска СН и мультидисциплинарные стратегии ведения должны быть направлены как на известные факторы риска сердечно-сосудистых заболеваний, так и на социальные детерминанты здоровья с целью устранения различий в исходах СН."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r02-monitor-address-disparities",
+          "text": {
+            "en": "Evidence of health disparities should be monitored and addressed at the clinical practice and the health care system levels.",
+            "ru": "Признаки неравенства в оказании медицинской помощи должны систематически отслеживаться и устраняться на уровне клинической практики и на уровне системы здравоохранения."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [7, 8, 9, 10, 11, 12, 13]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*This section crosslinks to Section 7.1.1, \"Stage C Nonpharmacological Interventions and Self-Care Support in HF,\" where screening and interventions for social determinants of health are now addressed.",
+      "ru": "*Этот раздел перекрестно ссылается на раздел 7.1.1 «Немедикаментозные вмешательства стадии C и поддержка самопомощи при СН», где рассматриваются скрининг и вмешательства в отношении социальных детерминант здоровья."
+    }
+  }
+}

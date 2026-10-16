@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt26-integration-of-care-transitions",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Integration of Care: Transitions and Team-Based Approaches",
+  "title": {
+    "en": "Recommendations for Integration of Care: Transitions and Team-Based Approaches",
+    "ru": "Рекомендации по интеграции медицинской помощи: переходные этапы и командный подход"
+  },
+  "tags": [
+    "transitions-of-care",
+    "transitional-care",
+    "multidisciplinary-care",
+    "disease-management",
+    "discharge-planning",
+    "early-followup",
+    "quality-measures",
+    "benchmarking"
+  ],
+  "sections": [
+    {
+      "id": "sec-integration-care-transitions",
+      "title": {
+        "en": "Integration of Care: Transitions and Team-Based Approaches",
+        "ru": "Интеграция медицинской помощи: переходные этапы и командный подход"
+      },
+      "rows": [
+        {
+          "id": "r01-multidisciplinary-hf-programs",
+          "text": {
+            "en": "In patients with high-risk HF, particularly those with recurrent hospitalizations for HFrEF, referral to multidisciplinary HF disease management programs is recommended to reduce the risk of hospitalization.",
+            "ru": "У пациентов с высоким риском неблагоприятных исходов СН, особенно с повторными госпитализациями по поводу HFrEF, рекомендуется направление в мультидисциплинарные программы ведения сердечной недостаточности для снижения риска госпитализаций."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-transitional-care-discharge-plan",
+          "text": {
+            "en": "In patients hospitalized with worsening HF, patient-centered discharge instructions with a clear plan for transitional care should be provided before hospital discharge.",
+            "ru": "У пациентов, госпитализированных с ухудшением течения СН, перед выпиской из стационара должны быть предоставлены ориентированные на пациента инструкции с четким планом переходного ведения (transitional care)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [5, 6]
+        },
+        {
+          "id": "r03-benchmarking-performance-measures",
+          "text": {
+            "en": "In patients hospitalized with worsening HF, participation in systems that allow benchmarking to performance measures is reasonable to increase use of evidence-based therapy, and to improve quality of care.",
+            "ru": "У пациентов, госпитализированных с ухудшением течения СН, целесообразно участие клиник в системах бенчмаркинга и контроля показателей эффективности для расширения применения доказательной терапии и повышения качества помощи."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [7, 8, 9, 10]
+        },
+        {
+          "id": "r04-early-followup-within-7-days",
+          "text": {
+            "en": "In patients being discharged after hospitalization for worsening HF, an early follow-up, generally within 7 days of hospital discharge, is reasonable to optimize care and reduce rehospitalization.",
+            "ru": "У пациентов, выписываемых после госпитализации по поводу ухудшения СН, целесообразно проведение раннего контрольного визита (как правило, в течение 7 дней после выписки) для оптимизации лечения и снижения частоты повторных госпитализаций."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [11, 12]
+        }
+      ]
+    }
+  ]
+}

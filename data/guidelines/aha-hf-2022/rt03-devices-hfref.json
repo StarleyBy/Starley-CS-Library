@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt03-devices-hfref",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for ICDs and CRTs",
+  "title": {
+    "en": "Recommendations for ICDs and CRTs",
+    "ru": "Рекомендации по применению ИКД и СРТ"
+  },
+  "tags": [
+    "icd",
+    "crt",
+    "crt-d",
+    "device",
+    "hfref",
+    "sudden-death",
+    "primary-prevention",
+    "resynchronization",
+    "lbbb",
+    "non-lbbb",
+    "qrs",
+    "nyha",
+    "high-value",
+    "economic-value"
+  ],
+  "sections": [
+    {
+      "id": "sec-icd-crt-recommendations",
+      "title": {
+        "en": "Recommendations for ICDs and CRTs",
+        "ru": "Рекомендации по имплантируемым кардиовертерам-дефибрилляторам (ИКД) и сердечной ресинхронизирующей терапии (СРТ)"
+      },
+      "rows": [
+        {
+          "id": "r01-icd-primary-prevention-dcm-cad",
+          "text": {
+            "en": "In patients with nonischemic DCM or ischemic heart disease at least 40 days post-MI with LVEF ≤35% and NYHA class II or III symptoms on chronic GDMT, who have reasonable expectation of meaningful survival for >1 year, ICD therapy is recommended for primary prevention of SCD to reduce total mortality.",
+            "ru": "Пациентам с неишемической ДКМП или ишемической болезнью сердца как минимум через 40 дней после ИМ с ФВ ЛЖ ≤35% и симптомами II или III ФК по NYHA на фоне хронической GDMT, имеющим обоснованное ожидание значимой продолжительности жизни >1 года, рекомендована терапия ИКД для первичной профилактики ВСС с целью снижения общей смертности."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9]
+        },
+        {
+          "id": "r02-transvenous-icd-high-value",
+          "text": {
+            "en": "A transvenous ICD provides high economic value in the primary prevention of SCD particularly when the patient's risk of death caused by ventricular arrhythmia is deemed high and the risk of nonarrhythmic death (either cardiac or noncardiac) is deemed low based on the patient's burden of comorbidities and functional status.",
+            "ru": "Трансвенозный ИКД обеспечивает высокую экономическую ценность при первичной профилактике ВСС, особенно когда риск смерти пациента от желудочковых аритмий оценивается как высокий, а риск неаритмической смерти (кардиальной или некардиальной) — как низкий с учётом бремени сопутствующих заболеваний и функционального статуса."
+          },
+          "class": "Value-High",
+          "level": "A",
+          "refs": [10, 11, 12, 13, 14, 15]
+        },
+        {
+          "id": "r03-icd-post-mi-nyha1",
+          "text": {
+            "en": "In patients at least 40 days post-MI with LVEF ≤30% and NYHA class I symptoms while receiving GDMT, who have reasonable expectation of meaningful survival for >1 year, ICD therapy is recommended for primary prevention of SCD to reduce total mortality.",
+            "ru": "Пациентам как минимум через 40 дней после ИМ с ФВ ЛЖ ≤30% и симптомами I ФК по NYHA на фоне GDMT, имеющим обоснованное ожидание значимой продолжительности жизни >1 года, рекомендована терапия ИКД для первичной профилактики ВСС с целью снижения общей смертности."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [6]
+        },
+        {
+          "id": "r04-crt-lbbb-150ms-nyha2-4",
+          "text": {
+            "en": "For patients who have LVEF ≤35%, sinus rhythm, left bundle branch block (LBBB) with a QRS duration ≥150 ms, and NYHA class II, III, or ambulatory IV symptoms on GDMT, CRT is indicated to reduce total mortality, reduce hospitalizations, and improve symptoms and QOL.",
+            "ru": "Пациентам с ФВ ЛЖ ≤35%, синусовым ритмом, блокадой левой ножки пучка Гиса (БЛНПГ) с продолжительностью QRS ≥150 мс и симптомами II, III или амбулаторного IV ФК по NYHA на фоне GDMT показана СРТ для снижения общей смертности, снижения числа госпитализаций и улучшения симптомов и качества жизни."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [16, 17, 18, 19, 20, 21]
+        },
+        {
+          "id": "r05-crt-high-value",
+          "text": {
+            "en": "For patients who have LVEF ≤35%, sinus rhythm, LBBB with a QRS duration of ≥150 ms, and NYHA class II, III, or ambulatory IV symptoms on GDMT, CRT implantation provides high economic value.",
+            "ru": "У пациентов с ФВ ЛЖ ≤35%, синусовым ритмом, БЛНПГ с продолжительностью QRS ≥150 мс и симптомами II, III или амбулаторного IV ФК по NYHA на фоне GDMT имплантация СРТ обеспечивает высокую экономическую ценность."
+          },
+          "class": "Value-High",
+          "level": "B-NR",
+          "refs": [22, 23, 24, 25, 26, 27]
+        },
+        {
+          "id": "r06-crt-non-lbbb-150ms",
+          "text": {
+            "en": "For patients who have LVEF ≤35%, sinus rhythm, a non-LBBB pattern with a QRS duration ≥150 ms, and NYHA class II, III, or ambulatory class IV symptoms on GDMT, CRT can be useful to reduce total mortality, reduce hospitalizations, and improve symptoms and QOL.",
+            "ru": "Пациентам с ФВ ЛЖ ≤35%, синусовым ритмом, паттерном не-БЛНПГ с продолжительностью QRS ≥150 мс и симптомами II, III или амбулаторного IV ФК по NYHA на фоне GDMT проведение СРТ может быть полезно для снижения общей смертности, снижения числа госпитализаций и улучшения симптомов и качества жизни."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [16, 17, 18, 19, 20, 21, 28, 29, 30, 31, 32, 33]
+        },
+        {
+          "id": "r07-crt-heart-block-ef-36-50",
+          "text": {
+            "en": "In patients with high-degree or complete heart block and LVEF of 36% to 50%, CRT is reasonable to reduce total mortality, reduce hospitalizations, and improve symptoms and QOL.",
+            "ru": "У пациентов с высокой степенью или полной атриовентрикулярной блокадой и ФВ ЛЖ от 36% до 50% применение СРТ целесообразно для снижения общей смертности, снижения числа госпитализаций и улучшения симптомов и качества жизни."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [34, 35]
+        },
+        {
+          "id": "r08-crt-lbbb-120-149ms",
+          "text": {
+            "en": "For patients who have LVEF ≤35%, sinus rhythm, LBBB with a QRS duration of 120 to 149 ms, and NYHA class II, III, or ambulatory IV symptoms on GDMT, CRT can be useful to reduce total mortality, reduce hospitalizations, and improve symptoms and QOL.",
+            "ru": "Пациентам с ФВ ЛЖ ≤35%, синусовым ритмом, БЛНПГ с продолжительностью QRS от 120 до 149 мс и симптомами II, III или амбулаторного IV ФК по NYHA на фоне GDMT проведение СРТ может быть полезно для снижения общей смертности, снижения числа госпитализаций и улучшения симптомов и качества жизни."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [16, 17, 18, 19, 20, 21, 28, 29, 30, 31, 32, 33]
+        },
+        {
+          "id": "r09-crt-af-ventricular-pacing",
+          "text": {
+            "en": "In patients with AF and LVEF ≤35% on GDMT, CRT can be useful to reduce total mortality, improve symptoms and QOL, and increase LVEF, if: a) the patient requires ventricular pacing or otherwise meets CRT criteria and b) atrioventricular nodal ablation or pharmacological rate control will allow near 100% ventricular pacing with CRT.",
+            "ru": "У пациентов с ФП и ФВ ЛЖ ≤35% на фоне GDMT проведение СРТ может быть полезно для снижения общей смертности, улучшения симптомов и качества жизни, а также повышения ФВ ЛЖ, если: а) пациенту требуется желудочковая стимуляция или он иным образом соответствует критериям СРТ и б) аблация АВ-узла или медикаментозный контроль ЧЖС позволят достичь близкой к 100% желудочковой стимуляции с помощью СРТ."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [16, 17, 18, 19, 20, 21, 28, 29, 30, 31, 32, 33]
+        },
+        {
+          "id": "r10-crt-upgrade-high-pacing",
+          "text": {
+            "en": "For patients on GDMT who have LVEF ≤35% and are undergoing placement of a new or replacement device implantation with anticipated requirement for significant (>40%) ventricular pacing, CRT can be useful to reduce total mortality, reduce hospitalizations, and improve symptoms and QOL.",
+            "ru": "Пациентам на фоне GDMT с ФВ ЛЖ ≤35%, которым проводится первичная или повторная имплантация устройства с ожидаемой необходимостью значительной (>40%) желудочковой стимуляции, проведение СРТ может быть полезно для снижения общей смертности, снижения числа госпитализаций и улучшения симптомов и качества жизни."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [16, 17, 18, 19, 20, 21, 28, 29, 30, 31, 32, 33]
+        },
+        {
+          "id": "r11-icd-genetic-arrhythmogenic-cmp",
+          "text": {
+            "en": "In patients with genetic arrhythmogenic cardiomyopathy with high-risk features of sudden death, with EF ≤45%, implantation of ICD is reasonable to decrease sudden death.",
+            "ru": "У пациентов с генетической аритмогенной кардиомиопатией с признаками высокого риска внезапной смерти и ФВ ≤45% имплантация ИКД целесообразна для снижения риска внезапной смерти."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [36, 37]
+        },
+        {
+          "id": "r12-crt-non-lbbb-120-149ms",
+          "text": {
+            "en": "For patients who have LVEF ≤35%, sinus rhythm, a non-LBBB pattern with QRS duration of 120 to 149 ms, and NYHA class III or ambulatory class IV on GDMT, CRT may be considered to reduce total mortality, reduce hospitalizations, and improve symptoms and QOL.",
+            "ru": "Пациентам с ФВ ЛЖ ≤35%, синусовым ритмом, паттерном не-БЛНПГ с продолжительностью QRS от 120 до 149 мс и симптомами III или амбулаторного IV ФК по NYHA на фоне GDMT проведение СРТ может быть рассмотрено для снижения общей смертности, снижения числа госпитализаций и улучшения симптомов и качества жизни."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [16, 17, 18, 19, 20, 21, 28, 29, 30, 31, 32, 33]
+        },
+        {
+          "id": "r13-crt-ischemic-lbbb-nyha1",
+          "text": {
+            "en": "For patients who have LVEF ≤30%, ischemic cause of HF, sinus rhythm, LBBB with a QRS duration ≥150 ms, and NYHA class I symptoms on GDMT, CRT may be considered to reduce hospitalizations and improve symptoms and QOL.",
+            "ru": "Пациентам с ФВ ЛЖ ≤30%, ишемической этиологией СН, синусовым ритмом, БЛНПГ с продолжительностью QRS ≥150 мс и симптомами I ФК по NYHA на фоне GDMT проведение СРТ может быть рассмотрено для снижения числа госпитализаций и улучшения симптомов и качества жизни."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [16, 17, 18, 19, 20, 21, 28, 29, 30, 31, 32, 33]
+        },
+        {
+          "id": "r14-crt-narrow-qrs-harm",
+          "text": {
+            "en": "In patients with QRS duration <120 ms, CRT is not recommended.",
+            "ru": "Пациентам с продолжительностью комплекса QRS <120 мс проведение СРТ не рекомендуется."
+          },
+          "class": "III-no-benefit",
+          "level": "B-R",
+          "refs": [38, 39, 40, 41]
+        },
+        {
+          "id": "r15-crt-non-lbbb-narrow-qrs-nyha1-2-harm",
+          "text": {
+            "en": "For patients with NYHA class I or II symptoms and non-LBBB pattern with QRS duration <150 ms, CRT is not recommended.",
+            "ru": "Пациентам с симптомами I или II ФК по NYHA и паттерном не-БЛНПГ с продолжительностью QRS <150 мс проведение СРТ не рекомендуется."
+          },
+          "class": "III-no-benefit",
+          "level": "B-NR",
+          "refs": [16, 17, 18, 19, 20, 21, 28, 29, 30, 31, 32, 33]
+        },
+        {
+          "id": "r16-device-limited-survival-harm",
+          "text": {
+            "en": "For patients whose comorbidities or frailty limit survival with good functional capacity to <1 year, ICD and cardiac resynchronization therapy with defibrillation (CRT-D) are not indicated.",
+            "ru": "Пациентам, чьи сопутствующие заболевания или старческая астения (хрупкость) ограничивают выживаемость с удовлетворительным функциональным статусом сроком <1 года, имплантация ИКД и сердечная ресинхронизирующая терапия с функцией дефибрилляции (СРТ-Д) не показаны."
+          },
+          "class": "III-no-benefit",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 16, 17, 18, 19, 20, 21]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 16
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

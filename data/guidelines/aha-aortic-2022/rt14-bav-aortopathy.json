@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt14-bav-aortopathy",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 14",
+  "title": {
+    "en": "Recommendations for BAV Aortopathy",
+    "ru": "Рекомендации по аортопатии при двустворчатом аортальном клапане (ДАК)"
+  },
+  "tags": [
+    "bav",
+    "bicuspid-aortic-valve",
+    "aortopathy",
+    "tte",
+    "ct",
+    "mri",
+    "genetics",
+    "first-degree-relatives",
+    "family-screening",
+    "coarctation"
+  ],
+  "sections": [
+    {
+      "id": "sec-bav-aortopathy",
+      "title": {
+        "en": "BAV Aortopathy",
+        "ru": "Аортопатия при ДАК"
+      },
+      "rows": [
+        {
+          "id": "r01-initial-tte-evaluation",
+          "text": {
+            "en": "In patients with a BAV, TTE is indicated to evaluate valve morphology and function, to evaluate the diameter of the aortic root and ascending aorta, and to evaluate for aortic coarctation and other associated cardiovascular defects.",
+            "ru": "У пациентов с ДАК показана ТТЭхоКГ для оценки морфологии и функции клапана, диаметра корня и восходящей аорты, а также для исключения коарктации аорты и других сопутствующих сердечно-сосудистых пороков."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-ct-mri-when-tte-suboptimal",
+          "text": {
+            "en": "In patients with a BAV, CT or MRI of the thoracic aorta is indicated when the diameter and morphology of the aortic root, ascending aorta, or both cannot be assessed accurately or completely by TTE.",
+            "ru": "У пациентов с ДАК показана КТ или МРТ грудной аорты, когда диаметр и морфология корня аорты, восходящей аорты или обоих отделов не могут быть точно или полностью оценены с помощью ТТЭхоКГ."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1]
+        },
+        {
+          "id": "r03-genetics-evaluation-htad-features",
+          "text": {
+            "en": "In patients with a BAV and either HTAD or phenotypic features concerning for Loeys-Dietz syndrome, a medical genetics evaluation is recommended.",
+            "ru": "У пациентов с ДАК и наличием HTAD либо фенотипических признаков, подозрительных на синдром Лойса–Дитца, рекомендуется медико-генетическое обследование."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [5, 6]
+        },
+        {
+          "id": "r04-screening-relatives-dilated-aorta",
+          "text": {
+            "en": "In patients with a BAV and a dilated aortic root or ascending aorta, screening of all first-degree relatives by TTE is recommended to evaluate for the presence of a BAV, dilation of the aortic root and ascending aorta, or both; if the diameter and morphology of the aortic root, ascending aorta, or both cannot be assessed accurately or completely by TTE, a cardiac-gated CT or MRI of the thoracic aorta is indicated.",
+            "ru": "У пациентов с ДАК и расширением корня или восходящей аорты рекомендуется скрининг всех родственников первой степени родства с помощью ТТЭхоКГ для выявления ДАК, дилатации корня и восходящей аорты либо обоих состояний; при недостаточной точности или неполноте оценки по ТТЭхоКГ показана КТ с ЭКГ-синхронизацией или МРТ грудной аорты."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [7]
+        },
+        {
+          "id": "r05-screening-all-first-degree-relatives",
+          "text": {
+            "en": "In patients with a BAV, screening of all first-degree relatives by TTE is reasonable to evaluate for the presence of a BAV, dilation of the aortic root and ascending aorta, or both.",
+            "ru": "У пациентов с ДАК целесообразен скрининг всех родственников первой степени родства с помощью ТТЭхоКГ для выявления наличия ДАК, дилатации корня и восходящей аорты либо обоих признаков."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [7, 8, 9, 10]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t29-features-complicated-imh",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 29",
+  "type": "grid",
+  "title": {
+    "en": "Features of Complicated IMH",
+    "ru": "Признаки осложненной интрамуральной гематомы (IMH)"
+  },
+  "tags": [
+    "imh",
+    "intramural-hematoma",
+    "complicated-imh",
+    "malperfusion",
+    "tamponade",
+    "rupture"
+  ],
+  "columns": [
+    {
+      "id": "feature",
+      "title": {
+        "en": "Feature",
+        "ru": "Признак"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "malperfusion",
+      "cells": [
+        {
+          "text": {
+            "en": "Malperfusion",
+            "ru": "Мальперфузия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "periaortic-hematoma",
+      "cells": [
+        {
+          "text": {
+            "en": "Periaortic hematoma",
+            "ru": "Периаортальная гематома"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pericardial-effusion-tamponade",
+      "cells": [
+        {
+          "text": {
+            "en": "Pericardial effusion with cardiac tamponade",
+            "ru": "Перикардиальный выпот с тампонадой сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "persistent-refractory-recurrent-pain",
+      "cells": [
+        {
+          "text": {
+            "en": "Persistent, refractory, or recurrent pain",
+            "ru": "Персистирующий, рефрактерный или рецидивирующий болевой синдром"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rupture",
+      "cells": [
+        {
+          "text": {
+            "en": "Rupture",
+            "ru": "Разрыв"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

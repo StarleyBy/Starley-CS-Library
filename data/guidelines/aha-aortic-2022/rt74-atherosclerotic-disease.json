@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt74-atherosclerotic-disease",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 74",
+  "title": {
+    "en": "Recommendations for Atherosclerotic Disease",
+    "ru": "Рекомендации при атеросклеротическом поражении аорты"
+  },
+  "tags": [
+    "atherosclerotic-disease",
+    "aortic-atheroma",
+    "cad",
+    "pad",
+    "antiplatelet",
+    "anticoagulant",
+    "statins"
+  ],
+  "sections": [
+    {
+      "id": "sec-atherosclerotic-disease",
+      "title": {
+        "en": "Atherosclerotic Disease",
+        "ru": "Атеросклеротическое поражение"
+      },
+      "rows": [
+        {
+          "id": "r01-aortic-atherosclerosis-cad-pad-antithrombotic",
+          "text": {
+            "en": "In patients with aortic atherosclerotic disease and concomitant coronary artery disease, PAD or both, it is recommended to prescribe antiplatelet therapy, anticoagulant therapy or both, guided by the clinical setting.",
+            "ru": "У пациентов с атеросклеротическим поражением аорты и сопутствующей ишемической болезнью сердца, ЗПА/PAD или их сочетанием рекомендуется назначать антитромбоцитарную терапию, антикоагулянтную терапию или их комбинацию с учетом конкретной клинической ситуации."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-aortic-atherosclerosis-risk-factors-moderate-high-statin",
+          "text": {
+            "en": "In patients with aortic atherosclerotic disease and risk factors for confirmed coronary artery disease, it is reasonable to prescribe a moderate- or high-intensity statin.",
+            "ru": "У пациентов с атеросклеротическим поражением аорты и факторами риска подтвержденной ишемической болезни сердца целесообразно назначение статинов умеренной или высокой интенсивности."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [4, 5, 6]
+        },
+        {
+          "id": "r03-aortic-atheroma-thickness-ge-4mm-statin",
+          "text": {
+            "en": "In patients with aortic atheromas of a thickness ≥4 mm, statin therapy may be reasonable.",
+            "ru": "У пациентов с атеромами аорты толщиной ≥4 мм терапия статинами может быть обоснованной."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [1, 7, 8, 9]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

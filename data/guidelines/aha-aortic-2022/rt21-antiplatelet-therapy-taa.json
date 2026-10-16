@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt21-antiplatelet-therapy-taa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 21",
+  "title": {
+    "en": "Recommendation for Antiplatelet Therapy in TAA",
+    "ru": "Рекомендация по антиагрегантной терапии при аневризме грудной аорты (АГА)"
+  },
+  "tags": [
+    "antiplatelet",
+    "aspirin",
+    "taa",
+    "atherosclerosis",
+    "atheroma",
+    "pau",
+    "thoracic-aorta"
+  ],
+  "sections": [
+    {
+      "id": "sec-antiplatelet-therapy-taa",
+      "title": {
+        "en": "Antiplatelet Therapy in TAA",
+        "ru": "Антиагрегантная терапия при АГА"
+      },
+      "rows": [
+        {
+          "id": "r01-aspirin-atheroma-pau",
+          "text": {
+            "en": "In patients with atherosclerotic TAA and concomitant aortic atheroma or PAU, the use of low-dose aspirin is reasonable, unless contraindicated.",
+            "ru": "У пациентов с атеросклеротической АГА и сопутствующей атеромой аорты или пенетрирующей атеросклеротической язвой (PAU) целесообразно применение низких доз аспирина при отсутствии противопоказаний."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

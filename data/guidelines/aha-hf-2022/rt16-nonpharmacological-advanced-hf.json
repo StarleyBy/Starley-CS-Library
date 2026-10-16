@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt16-nonpharmacological-advanced-hf",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendation for Nonpharmacological Management: Advanced HF",
+  "title": {
+    "en": "Recommendation for Nonpharmacological Management: Advanced HF",
+    "ru": "Рекомендация по немедикаментозному ведению продвинутой СН"
+  },
+  "tags": [
+    "advanced-hf",
+    "nonpharmacological",
+    "fluid-restriction",
+    "hyponatremia",
+    "congestion",
+    "stage-d"
+  ],
+  "sections": [
+    {
+      "id": "sec-fluid-restriction-advanced-hf",
+      "title": {
+        "en": "Fluid Restriction in Advanced Heart Failure",
+        "ru": "Ограничение жидкости при продвинутой сердечной недостаточности"
+      },
+      "rows": [
+        {
+          "id": "r01-fluid-restriction-hyponatremia",
+          "text": {
+            "en": "For patients with advanced HF and hyponatremia, the benefit of fluid restriction to reduce congestive symptoms is uncertain.",
+            "ru": "У пациентов с продвинутой СН и гипонатриемией польза ограничения жидкости для уменьшения симптомов застоя остаётся неопределённой."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

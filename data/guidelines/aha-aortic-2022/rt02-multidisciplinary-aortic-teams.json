@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt02-multidisciplinary-aortic-teams",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 2",
+  "title": {
+    "en": "Recommendations for Multidisciplinary Aortic Teams",
+    "ru": "Рекомендации по мультидисциплинарным аортальным командам"
+  },
+  "tags": [
+    "multidisciplinary-team",
+    "aortic-team",
+    "high-volume-center",
+    "urgent-repair",
+    "complex-repair",
+    "endovascular",
+    "open-repair",
+    "specialized-care"
+  ],
+  "sections": [
+    {
+      "id": "sec-multidisciplinary-aortic-teams",
+      "title": {
+        "en": "Multidisciplinary Aortic Teams",
+        "ru": "Мультидисциплинарные аортальные команды"
+      },
+      "rows": [
+        {
+          "id": "r01-urgent-repair-aortic-team",
+          "text": {
+            "en": "For patients with acute aortic disease that requires urgent repair, a multidisciplinary team should determine the most suitable intervention.",
+            "ru": "У пациентов с острым заболеванием аорты, требующим неотложного вмешательства, мультидисциплинарная команда должна определять наиболее подходящий вид вмешательства."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r02-high-volume-center-referral",
+          "text": {
+            "en": "For patients who are asymptomatic with extensive aortic disease, or who may benefit from complex open and endovascular aortic repairs, or with multiple comorbidities for whom intervention is considered, referral to a high-volume center (performing at least 30-40 aortic procedures annually) with experienced surgeons in a Multidisciplinary Aortic Team is reasonable to optimize treatment outcomes.",
+            "ru": "У пациентов с бессимптомным обширным заболеванием аорты, или которым могут быть показаны сложные открытые и эндоваскулярные вмешательства, либо с множественной сопутствующей патологией, когда рассматривается вопрос о вмешательстве, целесообразно направление в экспертный центр с большим объёмом операций (выполняющий не менее 30–40 процедур на аорте в год) с опытными хирургами в составе мультидисциплинарной аортальной команды для оптимизации результатов лечения."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

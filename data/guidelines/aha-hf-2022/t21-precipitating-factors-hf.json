@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t21-precipitating-factors-hf",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 21",
+  "type": "grid",
+  "title": {
+    "en": "Common Factors Precipitating HF Hospitalization With Acute Decompensated HF",
+    "ru": "Частые факторы, провоцирующие госпитализацию при острой декомпенсированной сердечной недостаточности"
+  },
+  "tags": [
+    "precipitating-factors",
+    "decompensation",
+    "adhf",
+    "acute-hf",
+    "hospitalization",
+    "triggers",
+    "arrhythmia",
+    "adherence",
+    "nsaid"
+  ],
+  "columns": [
+    {
+      "id": "c_num",
+      "title": { "en": "№", "ru": "№" }
+    },
+    {
+      "id": "c_factor",
+      "title": { "en": "Precipitating Factor", "ru": "Провоцирующий фактор" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "f01-acs",
+      "cells": [
+        { "text": { "en": "1", "ru": "1" } },
+        {
+          "text": {
+            "en": "ACS",
+            "ru": "Острый коронарный синдром (ОКС)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f02-hypertension",
+      "cells": [
+        { "text": { "en": "2", "ru": "2" } },
+        {
+          "text": {
+            "en": "Uncontrolled hypertension",
+            "ru": "Неконтролируемая артериальная гипертензия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f03-arrhythmias",
+      "cells": [
+        { "text": { "en": "3", "ru": "3" } },
+        {
+          "text": {
+            "en": "AF and other arrhythmias",
+            "ru": "Фибрилляция предсердий и другие аритмии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f04-cardiac-disease",
+      "cells": [
+        { "text": { "en": "4", "ru": "4" } },
+        {
+          "text": {
+            "en": "Additional cardiac disease (eg, endocarditis)",
+            "ru": "Дополнительное поражение сердца (например, инфекционный эндокардит)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f05-infections",
+      "cells": [
+        { "text": { "en": "5", "ru": "5" } },
+        {
+          "text": {
+            "en": "Acute infections (eg, pneumonia, urinary tract)",
+            "ru": "Острые инфекционные заболевания (например, пневмония, инфекция мочевыводящих путей)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f06-nonadherence",
+      "cells": [
+        { "text": { "en": "6", "ru": "6" } },
+        {
+          "text": {
+            "en": "Nonadherence with medication regimen or dietary intake",
+            "ru": "Несоблюдение режима медикаментозной терапии или диеты (потребление соли/жидкости)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f07-anemia",
+      "cells": [
+        { "text": { "en": "7", "ru": "7" } },
+        {
+          "text": {
+            "en": "Anemia",
+            "ru": "Анемия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f08-thyroid",
+      "cells": [
+        { "text": { "en": "8", "ru": "8" } },
+        {
+          "text": {
+            "en": "Hyper- or hypothyroidism",
+            "ru": "Гипер- или гипотиреоз"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f09-sodium-retention-drugs",
+      "cells": [
+        { "text": { "en": "9", "ru": "9" } },
+        {
+          "text": {
+            "en": "Medications that increase sodium retention (eg, NSAID)",
+            "ru": "Лекарственные средства, усиливающие задержку натрия (например, НПВП)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f10-negative-inotropes",
+      "cells": [
+        { "text": { "en": "10", "ru": "10" } },
+        {
+          "text": {
+            "en": "Medications with negative inotropic effect (eg, verapamil)",
+            "ru": "Лекарственные средства с отрицательным инотропным действием (например, верапамил)"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "ACS indicates acute coronary syndrome; AF, atrial fibrillation; HF, heart failure; and NSAID, nonsteroidal anti-inflammatory drug.",
+      "ru": "ACS (ОКС) — острый коронарный синдром; AF (ФП) — фибрилляция предсердий; HF (СН) — сердечная недостаточность; NSAID (НПВП) — нестероидный противовоспалительный препарат."
+    }
+  }
+}

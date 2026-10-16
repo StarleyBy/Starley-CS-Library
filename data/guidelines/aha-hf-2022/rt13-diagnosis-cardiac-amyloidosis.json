@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt13-diagnosis-cardiac-amyloidosis",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Diagnosis of Cardiac Amyloidosis",
+  "title": {
+    "en": "Recommendations for Diagnosis of Cardiac Amyloidosis",
+    "ru": "Рекомендации по диагностике амилоидоза сердца"
+  },
+  "tags": [
+    "amyloidosis",
+    "attr",
+    "al-amyloidosis",
+    "transthyretin",
+    "scintigraphy",
+    "light-chains",
+    "ttr-sequencing",
+    "genetics",
+    "diagnosis"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnosis-amyloidosis",
+      "title": {
+        "en": "Diagnostic Workup for Cardiac Amyloidosis",
+        "ru": "Диагностический алгоритм при подозрении на амилоидоз сердца"
+      },
+      "rows": [
+        {
+          "id": "r01-screen-monoclonal-light-chains",
+          "text": {
+            "en": "Patients for whom there is a clinical suspicion for cardiac amyloidosis^[a] should have screening for serum and urine monoclonal light chains with serum and urine immunofixation electrophoresis and serum free light chains.",
+            "ru": "Пациентам, у которых имеется клиническое подозрение на амилоидоз сердца^[a], необходимо проводить скрининг на моноклональные лёгкие цепи в сыворотке и моче с помощью иммунофиксационного электрофореза белков сыворотки и мочи и определения свободных лёгких цепей сыворотки."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r02-bone-scintigraphy-attr",
+          "text": {
+            "en": "In patients with high clinical suspicion for cardiac amyloidosis, without evidence of serum or urine monoclonal light chains, bone scintigraphy should be performed to confirm the presence of transthyretin cardiac amyloidosis.",
+            "ru": "У пациентов с высоким клиническим подозрением на амилоидоз сердца при отсутствии признаков моноклональных лёгких цепей в сыворотке или моче следует выполнять остеосцинтиграфию для подтверждения наличия транстиретинового амилоидоза сердца."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [7]
+        },
+        {
+          "id": "r03-ttr-genetic-sequencing",
+          "text": {
+            "en": "In patients for whom a diagnosis of transthyretin cardiac amyloidosis is made, genetic testing with *TTR* gene sequencing is recommended to differentiate hereditary variant from wild-type transthyretin cardiac amyloidosis.",
+            "ru": "Пациентам с установленным диагнозом транстиретинового амилоидоза сердца рекомендовано генетическое тестирование с секвенированием гена *TTR* для дифференциации наследственного варианта от транстиретинового амилоидоза сердца дикого типа."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [8]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "LV wall thickness ≥14 mm in conjunction with fatigue, dyspnea, or edema, especially in the context of discordance between wall thickness on echocardiogram and QRS voltage on ECG, and in the context of aortic stenosis, HFpEF, carpal tunnel syndrome, spinal stenosis, and autonomic or sensory polyneuropathy.",
+      "ru": "Толщина стенки ЛЖ ≥14 мм в сочетании с утомляемостью, одышкой или отёками, особенно в контексте дискордантности между утолщением стенки на ЭхоКГ и вольтажом QRS на ЭКГ, а также в контексте аортального стеноза, HFpEF, синдрома карпального канала, стеноза позвоночного канала и вегетативной или сенсорной полинейропатии."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt16-bav-replacement-aorta",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 16",
+  "title": {
+    "en": "Recommendations for BAV Aortopathy Interventions: Replacement of the Aorta in Patients With BAV",
+    "ru": "Рекомендации по хирургическим вмешательствам при аортопатии на фоне ДАК: протезирование аорты"
+  },
+  "tags": [
+    "bav",
+    "bicuspid-aortic-valve",
+    "surgery",
+    "aortic-replacement",
+    "aortic-root",
+    "ascending-aorta",
+    "multidisciplinary-team",
+    "cross-sectional-area",
+    "concomitant-replacement"
+  ],
+  "sections": [
+    {
+      "id": "sec-bav-replacement-aorta",
+      "title": {
+        "en": "Replacement of the Aorta in Patients With BAV",
+        "ru": "Протезирование аорты у пациентов с ДАК"
+      },
+      "rows": [
+        {
+          "id": "r01-threshold-5-5cm",
+          "text": {
+            "en": "In patients with a BAV and a diameter of the aortic root, ascending aorta, or both of ≥5.5 cm, surgery to replace the aortic root, ascending aorta, or both is recommended.",
+            "ru": "У пациентов с ДАК и диаметром корня аорты, восходящей аорты или обоих отделов ≥5,5 см рекомендуется хирургическая операция по протезированию корня аорты, восходящей аорты или обоих отделов."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-area-height-ratio-10",
+          "text": {
+            "en": "In patients with a BAV and a cross-sectional aortic root or ascending aortic area (cm2) to height (m) ratio of ≥10 cm2/m, surgery to replace the aortic root, ascending aorta, or both is reasonable, when performed by experienced surgeons in a Multidisciplinary Aortic Team.",
+            "ru": "У пациентов с ДАК при отношении площади поперечного сечения корня или восходящей аорты (см²) к росту (м) ≥10 см²/м целесообразна хирургическая операция по протезированию корня аорты, восходящей аорты или обоих отделов, выполненная опытными хирургами в составе мультидисциплинарной аортальной команды."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [3, 4]
+        },
+        {
+          "id": "r03-diameter-5-0-5-4cm-with-risk",
+          "text": {
+            "en": "In patients with a BAV, a diameter of the aortic root or ascending aorta of 5.0 cm to 5.4 cm, and an additional risk factor for aortic dissection (Table 14), surgery to replace the aortic root, ascending aorta, or both is reasonable, when performed by experienced surgeons in a Multidisciplinary Aortic Team.",
+            "ru": "У пациентов с ДАК при диаметре корня или восходящей аорты от 5,0 до 5,4 см и наличии дополнительного фактора риска расслоения аорты (Таблица 14) целесообразна хирургическая операция по протезированию корня аорты, восходящей аорты или обоих отделов, выполненная опытными хирургами в составе мультидисциплинарной аортальной команды."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 5]
+        },
+        {
+          "id": "r04-concomitant-valve-surgery-4-5cm",
+          "text": {
+            "en": "In patients with a BAV who are undergoing surgical aortic valve repair or replacement, and who have a diameter of the aortic root or ascending aorta of ≥4.5 cm, concomitant replacement of the aortic root, ascending aorta, or both is reasonable, when performed by experienced surgeons in a Multidisciplinary Aortic Team.",
+            "ru": "У пациентов с ДАК, которым планируется хирургическая пластика или протезирование аортального клапана и у которых диаметр корня или восходящей аорты составляет ≥4,5 см, целесообразно сопутствующее протезирование корня аорты, восходящей аорты или обоих отделов, выполненное опытными хирургами в составе мультидисциплинарной аортальной команды."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 6]
+        },
+        {
+          "id": "r05-diameter-5-0-5-4cm-low-risk",
+          "text": {
+            "en": "In patients with a BAV, a diameter of the aortic root or ascending aorta of 5.0 cm to 5.4 cm, no other risk factors for aortic dissection (Table 14), and at low surgical risk, surgery to replace the aortic root, ascending aorta, or both may be reasonable, when performed by experienced surgeons in a Multidisciplinary Aortic Team.",
+            "ru": "У пациентов с ДАК при диаметре корня или восходящей аорты от 5,0 до 5,4 см без других факторов риска расслоения аорты (Таблица 14) и при низком хирургическом риске может быть рассмотрена операция по протезированию корня аорты, восходящей аорты или обоих отделов, выполненная опытными хирургами в составе мультидисциплинарной аортальной команды."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [1, 2, 5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

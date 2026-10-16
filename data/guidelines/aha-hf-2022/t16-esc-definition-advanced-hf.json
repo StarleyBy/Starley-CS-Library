@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t16-esc-definition-advanced-hf",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 16",
+  "type": "grid",
+  "title": {
+    "en": "ESC Definition of Advanced HF",
+    "ru": "Определение терминальной (продвинутой) сердечной недостаточности по ESC"
+  },
+  "tags": [
+    "advanced-hf",
+    "definition",
+    "esc",
+    "criteria",
+    "nyha",
+    "inotropes",
+    "diuretics",
+    "exercise-capacity",
+    "stage-d",
+    "cardiac-dysfunction"
+  ],
+  "columns": [
+    {
+      "id": "c_num",
+      "title": { "en": "№", "ru": "№" }
+    },
+    {
+      "id": "c_domain",
+      "title": { "en": "Criterion Domain", "ru": "Критерий оценки" }
+    },
+    {
+      "id": "c_details",
+      "title": { "en": "Specific Clinical Requirements", "ru": "Конкретные клинические требования" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "row-header-requirement",
+      "cells": [
+        {
+          "text": {
+            "en": "**All of the following 4 criteria must be present despite optimal guideline-directed treatment:**",
+            "ru": "**Все следующие 4 критерия должны присутствовать, несмотря на оптимальное лечение по рекомендациям:**"
+          },
+          "colspan": 3,
+          "tone": "blue"
+        }
+      ]
+    },
+    {
+      "id": "crit-1-symptoms",
+      "cells": [
+        { "text": { "en": "1", "ru": "1" } },
+        {
+          "text": {
+            "en": "**Severe and persistent symptoms**",
+            "ru": "**Тяжёлые стойкие симптомы**"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "Severe and persistent symptoms of HF (NYHA class III [advanced] or IV).",
+            "ru": "Тяжёлые и персистирующие симптомы СН (ФК III [продвинутый] или IV по NYHA)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "crit-2-dysfunction",
+      "cells": [
+        { "text": { "en": "2", "ru": "2" } },
+        {
+          "text": {
+            "en": "**Severe cardiac dysfunction**",
+            "ru": "**Тяжёлая кардиальная дисфункция**"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "Defined by ≥1 of these:\n• LVEF ≤30%\n• Isolated RV failure\n• Nonoperable severe valve abnormalities\n• Nonoperable severe congenital heart disease\n• EF ≥40%, elevated natriuretic peptide levels and evidence of significant diastolic dysfunction",
+            "ru": "Определяется наличием ≥1 из следующих признаков:\n• ФВ ЛЖ ≤30%\n• Изолированная правожелудочковая недостаточность\n• Неоперабельные тяжёлые пороки клапанов сердца\n• Неоперабельные тяжёлые врождённые пороки сердца\n• ФВ ≥40%, повышенный уровень натрийуретических пептидов и признаки значимой диастолической дисфункции"
+          }
+        }
+      ]
+    },
+    {
+      "id": "crit-3-episodes",
+      "cells": [
+        { "text": { "en": "3", "ru": "3" } },
+        {
+          "text": {
+            "en": "**Episodes / Unplanned visits**",
+            "ru": "**Эпизоды декомпенсации / Госпитализации**"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "Hospitalizations or unplanned visits in the past 12 mo for episodes of:\n• Congestion requiring high-dose intravenous diuretics or diuretic combinations\n• Low output requiring inotropes or vasoactive medications\n• Malignant arrhythmias",
+            "ru": "Госпитализации или незапланированные визиты за последние 12 месяцев по поводу:\n• Застоя, требующего высоких доз внутривенных диуретиков или комбинаций диуретиков\n• Синдрома малого сердечного выброса, требующего инотропных или вазоактивных препаратов\n• Злокачественных аритмий"
+          }
+        }
+      ]
+    },
+    {
+      "id": "crit-4-exercise",
+      "cells": [
+        { "text": { "en": "4", "ru": "4" } },
+        {
+          "text": {
+            "en": "**Impairment of exercise capacity**",
+            "ru": "**Снижение толерантности к нагрузке**"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "Severe impairment of exercise capacity with inability to exercise or low 6-minute walk test distance (<300 m) or peak VO₂ (<12–14 mL/kg/min) estimated to be of cardiac origin.",
+            "ru": "Выраженное снижение толерантности к физической нагрузке с неспособностью выполнять нагрузку или низкой дистанцией теста 6-минутной ходьбы (<300 м) либо пиковым потреблением кислорода VO₂ (<12–14 мл/кг/мин) кардиального генеза."
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-qualification-comorbidities",
+      "cells": [
+        {
+          "text": {
+            "en": "*Criteria 1 and 4 can be met in patients with cardiac dysfunction (as described in criterion 2) but who also have substantial limitations as a result of other conditions (eg, severe pulmonary disease, noncardiac cirrhosis, renal disease). The therapeutic options for these patients may be more limited.*",
+            "ru": "*Критерии 1 и 4 могут быть выполнены у пациентов с кардиальной дисфункцией (как описано в критерии 2), но также имеющих существенные ограничения вследствие других заболеваний (например, тяжёлое заболевание лёгких, некардиальный цирроз печени, болезнь почек). Варианты лечения таких пациентов могут быть более ограничены.*"
+          },
+          "colspan": 3,
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "EF indicates ejection fraction; ESC, European Society of Cardiology; HF, heart failure; LVEF, left ventricular ejection fraction; NYHA, New York Heart Association; RV, right ventricular; and VO₂, oxygen consumption/oxygen uptake. Adapted with permission from Crespo-Leiro et al.",
+      "ru": "ФВ — фракция выброса; ESC — Европейское общество кардиологов; СН — сердечная недостаточность; ФВ ЛЖ — фракция выброса левого желудочка; NYHA — Нью-Йоркская ассоциация кардиологов; ПЖ — правый желудочек; VO₂ — пиковое потребление кислорода."
+    }
+  },
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt37-size-thresholds-open-repair-taaa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 37",
+  "title": {
+    "en": "Recommendations for Size Thresholds for Open Surgical Repair of TAAA",
+    "ru": "Рекомендации по пороговым размерам для открытого хирургического лечения торакоабдоминальных аневризм аорты (ТААА)"
+  },
+  "tags": [
+    "taaa",
+    "size-thresholds",
+    "open-repair",
+    "multidisciplinary-team",
+    "rupture-risk",
+    "thoracoabdominal"
+  ],
+  "sections": [
+    {
+      "id": "sec-size-thresholds-open-repair-taaa",
+      "title": {
+        "en": "Size Thresholds for Open Surgical Repair of TAAA",
+        "ru": "Пороговые размеры для открытого хирургического лечения ТААА"
+      },
+      "rows": [
+        {
+          "id": "r01-intact-degenerative-diameter-6-0-cm",
+          "text": {
+            "en": "In patients with intact degenerative TAAA, repair is recommended when the diameter is ≥6.0 cm.",
+            "ru": "У пациентов с интактной дегенеративной ТААА вмешательство рекомендуется при диаметре ≥6,0 см."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-intact-degenerative-diameter-5-5-cm-team",
+          "text": {
+            "en": "In patients with intact degenerative TAAA, repair is reasonable when the diameter is ≥5.5 cm and the repair is performed by experienced surgeons in a Multidisciplinary Aortic Team.",
+            "ru": "У пациентов с интактной дегенеративной ТААА вмешательство целесообразно при диаметре ≥5,5 см, если операция выполняется опытными хирургами в составе мультидисциплинарной аортальной команды."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r03-intact-degenerative-increased-rupture-risk",
+          "text": {
+            "en": "In patients with intact degenerative TAAA who have features associated with an increased risk of rupture (Table 19), repair is reasonable when the diameter is <5.5 cm.",
+            "ru": "У пациентов с интактной дегенеративной ТААА, имеющих признаки повышенного риска разрыва (Таблица 19), вмешательство целесообразно при диаметре <5,5 см."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

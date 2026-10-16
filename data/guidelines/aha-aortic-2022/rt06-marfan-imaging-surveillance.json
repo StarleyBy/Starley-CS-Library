@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt06-marfan-imaging-surveillance",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 6",
+  "title": {
+    "en": "Recommendations for Diagnostic and Surveillance Aortic Imaging in Marfan Syndrome",
+    "ru": "Рекомендации по диагностической и динамической визуализации аорты при синдроме Марфана"
+  },
+  "tags": [
+    "marfan",
+    "imaging",
+    "surveillance",
+    "tte",
+    "ct",
+    "mri",
+    "aortic-root-replacement",
+    "growth-rate",
+    "aaa",
+    "thoracic-aorta"
+  ],
+  "sections": [
+    {
+      "id": "sec-initial-diagnosis-surveillance",
+      "title": {
+        "en": "Initial Diagnosis and Surveillance Imaging",
+        "ru": "Первичная диагностика и динамическое наблюдение"
+      },
+      "rows": [
+        {
+          "id": "r01-initial-diagnosis-tte-interval",
+          "text": {
+            "en": "In patients with Marfan syndrome, a TTE is recommended at the time of initial diagnosis, to determine the diameters of the aortic root and ascending aorta, and 6 months thereafter, to determine the rate of aortic growth; if the aortic diameters are stable, an annual surveillance TTE is recommended. If the aortic root, ascending aorta, or both are not adequately visualized on TTE, a CT or MRI of the thoracic aorta is recommended.",
+            "ru": "У пациентов с синдромом Марфана рекомендуется выполнение ТТЭхоКГ на момент первичной диагностики для определения диаметров корня и восходящей аорты и через 6 месяцев после этого для оценки скорости роста аорты; при стабильных диаметрах аорты рекомендуется ежегодная контрольная ТТЭхоКГ. Если корень аорты, восходящая аорта или оба отдела недостаточно хорошо визуализируются при ТТЭхоКГ, рекомендуется КТ или МРТ грудной аорты."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-adults-baseline-ct-mri",
+          "text": {
+            "en": "In adults with Marfan syndrome, after the initial TTE, a CT or MRI of the thoracic aorta is reasonable to confirm the aortic diameters and assess the remainder of the thoracic aorta.",
+            "ru": "У взрослых пациентов с синдромом Марфана после первичной ТТЭхоКГ целесообразно выполнение КТ или МРТ грудной аорты для подтверждения диаметров аорты и оценки остальных отделов грудной аорты."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    },
+    {
+      "id": "sec-imaging-after-root-replacement",
+      "title": {
+        "en": "Imaging After Aortic Root Replacement",
+        "ru": "Визуализация после протезирования корня аорты"
+      },
+      "rows": [
+        {
+          "id": "r03-post-root-replacement-thoracic-mri-ct",
+          "text": {
+            "en": "In patients with Marfan syndrome who have undergone aortic root replacement, surveillance imaging of the thoracic aorta by MRI (or CT) is recommended to evaluate for distal TAD, initially annually and then, if normal in diameter and unchanged after 2 years, every other year.",
+            "ru": "У пациентов с синдромом Марфана, перенёсших протезирование корня аорты, рекомендуется динамическая визуализация грудной аорты с помощью МРТ (или КТ) для оценки дистальных отделов аорты на предмет TAD: сначала ежегодно, а затем, если диаметры нормальные и не изменяются в течение 2 лет, — 1 раз в 2 года."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [3, 4, 5, 6]
+        },
+        {
+          "id": "r04-post-root-replacement-aaa-surveillance",
+          "text": {
+            "en": "In patients with Marfan syndrome who have undergone aortic root replacement, surveillance imaging every 3 to 5 years for potential AAA is reasonable.",
+            "ru": "У пациентов с синдромом Марфана, перенёсших протезирование корня аорты, целесообразно проведение контрольной визуализации каждые 3–5 лет для исключения возможной аневризмы брюшной аорты (АБА)."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [2, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

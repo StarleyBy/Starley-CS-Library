@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t16-adverse-aortic-events-descending-taa",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 16",
+  "type": "grid",
+  "title": {
+    "en": "Adverse Aortic Events at 1 Year, Based on Baseline Aortic Diameter, Among Patients With Descending TAA",
+    "ru": "Неблагоприятные аортальные события за 1 год в зависимости от исходного диаметра аорты у пациентов с аневризмой нисходящей грудной аорты"
+  },
+  "tags": [
+    "taa",
+    "descending-aorta",
+    "adverse-events",
+    "diameter",
+    "rupture",
+    "dissection",
+    "outcomes"
+  ],
+  "columns": [
+    {
+      "id": "diameter",
+      "title": {
+        "en": "Aortic Diameter (cm)",
+        "ru": "Диаметр аорты (см)"
+      }
+    },
+    {
+      "id": "definite_event",
+      "title": {
+        "en": "Definite Aortic Event^[a] (%)",
+        "ru": "Определенное аортальное событие^[a] (%)"
+      }
+    },
+    {
+      "id": "probable_event",
+      "title": {
+        "en": "Probable Aortic Event^[b] (%)",
+        "ru": "Вероятное аортальное событие^[b] (%)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "diameter-5-0",
+      "cells": [
+        {
+          "text": { "en": "5.0", "ru": "5,0" }
+        },
+        {
+          "text": { "en": "5.5", "ru": "5,5" }
+        },
+        {
+          "text": { "en": "8.0", "ru": "8,0" }
+        }
+      ]
+    },
+    {
+      "id": "diameter-5-5",
+      "cells": [
+        {
+          "text": { "en": "5.5", "ru": "5,5" }
+        },
+        {
+          "text": { "en": "7.2", "ru": "7,2" }
+        },
+        {
+          "text": { "en": "11.2", "ru": "11,2" }
+        }
+      ]
+    },
+    {
+      "id": "diameter-6-0",
+      "cells": [
+        {
+          "text": { "en": "6.0", "ru": "6,0" }
+        },
+        {
+          "text": { "en": "9.3", "ru": "9,3" }
+        },
+        {
+          "text": { "en": "15.6", "ru": "15,6" }
+        }
+      ]
+    },
+    {
+      "id": "diameter-7-0",
+      "cells": [
+        {
+          "text": { "en": "7.0", "ru": "7,0" }
+        },
+        {
+          "text": { "en": "15.4", "ru": "15,4" }
+        },
+        {
+          "text": { "en": "28.1", "ru": "28,1" }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Definite aortic event includes aortic dissection or rupture confirmed with imaging or intraoperative findings.",
+      "ru": "Определенное аортальное событие включает расслоение или разрыв аорты, подтвержденные визуализацией или интраоперационными находками."
+    },
+    "b": {
+      "en": "Probable aortic event includes definite aortic events as well as sudden unexplained death.",
+      "ru": "Вероятное аортальное событие включает определенные аортальные события, а также внезапную необъяснимую смерть."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

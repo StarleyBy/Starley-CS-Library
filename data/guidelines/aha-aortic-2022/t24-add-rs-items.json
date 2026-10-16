@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t24-add-rs-items",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 24",
+  "type": "grid",
+  "title": {
+    "en": "Aortic Dissection Detection Risk Score (ADD-RS) Items^[a]",
+    "ru": "Компоненты шкалы риска выявления расслоения аорты (ADD-RS)^[a]"
+  },
+  "tags": [
+    "add-rs",
+    "aortic-dissection",
+    "risk-score",
+    "triage",
+    "chest-pain",
+    "pulse-deficit"
+  ],
+  "columns": [
+    {
+      "id": "high_risk_conditions",
+      "title": {
+        "en": "High-Risk Conditions",
+        "ru": "Состояния высокого риска"
+      }
+    },
+    {
+      "id": "high_risk_pain_features",
+      "title": {
+        "en": "High-Risk Pain Features",
+        "ru": "Характеристики боли высокого риска"
+      }
+    },
+    {
+      "id": "high_risk_examination_features",
+      "title": {
+        "en": "High-Risk Examination Features",
+        "ru": "Признаки высокого риска при физикальном осмотре"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "add-rs-categories",
+      "cells": [
+        {
+          "text": {
+            "en": "• Marfan syndrome or other connective tissue disease<br>• Family history of aortic disease<br>• Known aortic valve disease<br>• Recent aortic manipulation<br>• Known thoracic aortic aneurysm",
+            "ru": "• Синдром Марфана или другие заболевания соединительной ткани<br>• Семейный анамнез заболеваний аорты<br>• Известный порок аортального клапана<br>• Недавние инструментальные манипуляции/вмешательства на аорте<br>• Известная аневризма грудной аорты"
+          }
+        },
+        {
+          "text": {
+            "en": "Chest, back, or abdominal pain described as:<br>• Abrupt onset<br>• Severe in intensity<br>• Ripping or tearing in quality",
+            "ru": "Боль в груди, спине или животе, характеризующаяся как:<br>• Внезапное начало<br>• Высокая интенсивность<br>• Раздирающий или разрывающий характер"
+          }
+        },
+        {
+          "text": {
+            "en": "• Pulse deficit or systolic blood pressure differential<br>• Focal neurologic deficit (with pain)<br>• Murmur of aortic regurgitation (new, with pain)<br>• Hypotension or shock state",
+            "ru": "• Дефицит пульса или асимметрия систолического АД<br>• Очаговый неврологический дефицит (в сочетании с болью)<br>• Шум аортальной регургитации (впервые возникший, в сочетании с болью)<br>• Артериальная гипотензия или шоковое состояние"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "For each risk category, 1 point is assigned if ≥1 risk factors are present. Consequently, the total ADD-RS will range from 0 to 3. An ADD-RS of 0 points is low risk; 1 point is moderate risk; and 2 to 3 points is high risk.",
+      "ru": "Для каждой категории риска начисляется 1 балл при наличии ≥1 фактора риска. Суммарный балл ADD-RS составляет от 0 до 3: 0 баллов — низкий риск; 1 балл — умеренный риск; 2–3 балла — высокий риск."
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

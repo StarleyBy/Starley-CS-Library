@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt03-shared-decision-making",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 3",
+  "title": {
+    "en": "Recommendations for Shared Decision-Making",
+    "ru": "Рекомендации по совместному принятию решений"
+  },
+  "tags": [
+    "shared-decision-making",
+    "patient-centered-care",
+    "thresholds",
+    "pregnancy",
+    "mode-of-delivery",
+    "surveillance",
+    "surgical-choice"
+  ],
+  "sections": [
+    {
+      "id": "sec-shared-decision-making",
+      "title": {
+        "en": "Shared Decision-Making",
+        "ru": "Совместное принятие решений"
+      },
+      "rows": [
+        {
+          "id": "r01-shared-decision-making-thresholds",
+          "text": {
+            "en": "In patients with aortic disease, shared decision-making is recommended when determining the appropriate thresholds for intervention, deciding on the type of surgical repair, choosing between open surgical versus endovascular approaches; and in medical management and surveillance.",
+            "ru": "У пациентов с заболеваниями аорты рекомендуется совместное принятие решений при определении пороговых значений для вмешательства, выборе типа хирургической реконструкции, выборе между открытым хирургическим и эндоваскулярным доступом, а также при медикаментозном ведении и динамическом наблюдении."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-pregnancy-shared-decision-making",
+          "text": {
+            "en": "In patients with aortic disease who are contemplating pregnancy or who are pregnant, shared decision-making is recommended when considering the cardiovascular risks of pregnancy, the diameter thresholds for prophylactic aortic surgery, and the mode of delivery.",
+            "ru": "У пациенток с заболеваниями аорты, планирующих беременность или беременных, рекомендуется совместное принятие решений при оценке сердечно-сосудистых рисков беременности, пороговых значений диаметра для профилактической операции на аорте и способа родоразрешения."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt04-hfpef-hfmref",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for HF With Preserved Ejection Fraction",
+  "title": {
+    "en": "Recommendations for HF With Preserved Ejection Fraction",
+    "ru": "Рекомендации по сердечной недостаточности с сохранённой фракцией выброса (HFpEF)"
+  },
+  "tags": [
+    "hfpef",
+    "preserved-ef",
+    "hypertension",
+    "sglt2i",
+    "atrial-fibrillation",
+    "mra",
+    "arb",
+    "arni",
+    "nitrates",
+    "pde5i",
+    "hospitalizations",
+    "mortality"
+  ],
+  "sections": [
+    {
+      "id": "sec-hfpef-recommendations",
+      "title": {
+        "en": "Treatment of Heart Failure with Preserved Ejection Fraction",
+        "ru": "Лечение сердечной недостаточности с сохранённой фракцией выброса"
+      },
+      "rows": [
+        {
+          "id": "r01-htn-control-hfpef",
+          "text": {
+            "en": "Patients with HFpEF and hypertension should have medication titrated to attain blood pressure targets in accordance with published clinical practice guidelines to prevent morbidity.",
+            "ru": "Пациентам с HFpEF и артериальной гипертензией следует титровать дозы препаратов для достижения целевых уровней артериального давления в соответствии с опубликованными клиническими рекомендациями с целью предотвращения заболеваемости."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-sglt2i-hfpef",
+          "text": {
+            "en": "In patients with HFpEF, SGLT2i can be beneficial in decreasing HF hospitalizations and cardiovascular mortality.",
+            "ru": "У пациентов с HFpEF применение иНГЛТ-2 может быть полезно для снижения числа госпитализаций по поводу СН и сердечно-сосудистой смертности."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [4]
+        },
+        {
+          "id": "r03-af-management-hfpef",
+          "text": {
+            "en": "In patients with HFpEF, management of AF can be useful to improve symptoms.",
+            "ru": "У пациентов с HFpEF ведение фибрилляции предсердий (ФП) может быть полезно для улучшения симптомов."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r04-mra-hfpef",
+          "text": {
+            "en": "In selected patients with HFpEF, MRAs may be considered to decrease hospitalizations, particularly among patients with LVEF on the lower end of this spectrum.",
+            "ru": "У отдельных пациентов с HFpEF применение АМР может быть рассмотрено для снижения числа госпитализаций, в особенности среди пациентов с ФВ ЛЖ на нижней границе этого диапазона."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [5, 6, 7]
+        },
+        {
+          "id": "r05-arb-hfpef",
+          "text": {
+            "en": "In selected patients with HFpEF, the use of ARB may be considered to decrease hospitalizations, particularly among patients with LVEF on the lower end of this spectrum.",
+            "ru": "У отдельных пациентов с HFpEF применение БРА может быть рассмотрено для снижения числа госпитализаций, в особенности среди пациентов с ФВ ЛЖ на нижней границе этого диапазона."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [8, 9]
+        },
+        {
+          "id": "r06-arni-hfpef",
+          "text": {
+            "en": "In selected patients with HFpEF, ARNi may be considered to decrease hospitalizations, particularly among patients with LVEF on the lower end of this spectrum.",
+            "ru": "У отдельных пациентов с HFpEF применение АРНИ может быть рассмотрено для снижения числа госпитализаций, в особенности среди пациентов с ФВ ЛЖ на нижней границе этого диапазона."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [10, 11]
+        },
+        {
+          "id": "r07-nitrates-pde5i-no-benefit",
+          "text": {
+            "en": "In patients with HFpEF, routine use of nitrates or phosphodiesterase-5 inhibitors to increase activity or QOL is ineffective.",
+            "ru": "У пациентов с HFpEF рутинное применение нитратов или ингибиторов фосфодиэстеразы 5-го типа для повышения физической активности или улучшения качества жизни неэффективно."
+          },
+          "class": "III-no-benefit",
+          "level": "B-R",
+          "refs": [12, 13]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "See Section 7.2, \"Diuretics and Decongestion Strategies in Patients with HF,\" and Section 10.2, \"Management of Atrial Fibrillation (AF) in HF\" for recommendations for use of diuretics and management of AF in HF.",
+      "ru": "Рекомендации по применению диуретиков и контролю ФП при СН см. в разделах 7.2 «Диуретики и стратегии деконгестии у пациентов с СН» и 10.2 «Ведение фибрилляции предсердий при СН»."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

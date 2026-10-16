@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt09-marfan-nondissected-aneurysms",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 9",
+  "title": {
+    "en": "Recommendation for Replacement of Primary (Nondissected) Aneurysms of the Aortic Arch, Descending, and Abdominal Aorta in Patients With Marfan Syndrome",
+    "ru": "Рекомендации по протезированию первичных (нерасслоенных) аневризм дуги аорты, нисходящей и брюшной аорты у пациентов с синдромом Марфана"
+  },
+  "tags": [
+    "marfan",
+    "surgery",
+    "aortic-arch",
+    "descending-aorta",
+    "abdominal-aorta",
+    "nondissected-aneurysm",
+    "diameter-threshold"
+  ],
+  "sections": [
+    {
+      "id": "sec-marfan-nondissected-aneurysms",
+      "title": {
+        "en": "Replacement of Primary Aneurysms of the Arch, Descending, and Abdominal Aorta",
+        "ru": "Протезирование первичных аневризм дуги, нисходящей и брюшной аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-threshold-5cm-arch-descending-abdominal",
+          "text": {
+            "en": "In patients with Marfan syndrome and a nondissected aneurysm of the aortic arch, descending thoracic aorta, or abdominal aorta of ≥5.0 cm, surgical intervention to replace the aneurysmal segment is reasonable.",
+            "ru": "У пациентов с синдромом Марфана при нерасслоенной аневризме дуги аорты, нисходящей грудной аорты или брюшной аорты диаметром ≥5,0 см целесообразно хирургическое вмешательство по протезированию аневризматического сегмента."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

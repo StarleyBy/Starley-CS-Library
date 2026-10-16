@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t20-inotropic-agents-hf",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 20",
+  "type": "grid",
+  "title": {
+    "en": "Intravenous Inotropic Agents Used in the Management of HF",
+    "ru": "Внутривенные инотропные препараты, применяемые при сердечной недостаточности"
+  },
+  "tags": [
+    "inotropes",
+    "dopamine",
+    "dobutamine",
+    "milrinone",
+    "epinephrine",
+    "norepinephrine",
+    "vasopressors",
+    "pharmacology",
+    "hemodynamics"
+  ],
+  "columns": [
+    {
+      "id": "c_agent",
+      "title": { "en": "Agent / Class", "ru": "Препарат / Группа" }
+    },
+    {
+      "id": "c_bolus",
+      "title": { "en": "Bolus", "ru": "Болюс" }
+    },
+    {
+      "id": "c_infusion",
+      "title": { "en": "Infusion", "ru": "Инфузия" }
+    },
+    {
+      "id": "c_kinetics",
+      "title": { "en": "Kinetics / Metabolism", "ru": "Кинетика и метаболизм" }
+    },
+    {
+      "id": "c_co",
+      "title": { "en": "CO (СВ)", "ru": "СВ (CO)" }
+    },
+    {
+      "id": "c_hr",
+      "title": { "en": "HR (ЧСС)", "ru": "ЧСС (HR)" }
+    },
+    {
+      "id": "c_svr",
+      "title": { "en": "SVR (ОПСС)", "ru": "ОПСС (SVR)" }
+    },
+    {
+      "id": "c_pvr",
+      "title": { "en": "PVR (ЛСС)", "ru": "ЛСС (PVR)" }
+    },
+    {
+      "id": "c_adverse",
+      "title": { "en": "Adverse Effects", "ru": "Побочные эффекты" }
+    },
+    {
+      "id": "c_special",
+      "title": { "en": "Special Considerations", "ru": "Особые указания" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "hdr-adrenergic",
+      "cells": [
+        {
+          "text": {
+            "en": "**Adrenergic Agonists**",
+            "ru": "**Адренергические агонисты**"
+          },
+          "colspan": 10,
+          "tone": "blue"
+        }
+      ]
+    },
+    {
+      "id": "row-dopamine-med",
+      "cells": [
+        { "text": { "en": "**Dopamine** (medium dose)", "ru": "**Дофамин** (средние дозы)" } },
+        { "text": { "en": "NA", "ru": "Н/П" } },
+        { "text": { "en": "5–10 mcg/kg/min", "ru": "5–10 мкг/кг/мин" } },
+        { "text": { "en": "t½: 2–20 min", "ru": "T½: 2–20 мин" } },
+        { "text": { "en": "↑", "ru": "↑" }, "tone": "green" },
+        { "text": { "en": "↑", "ru": "↑" }, "tone": "yellow" },
+        { "text": { "en": "↔", "ru": "↔" } },
+        { "text": { "en": "↔", "ru": "↔" } },
+        { "text": { "en": "T, HA, N, tissue necrosis", "ru": "Тахиаритмии, головная боль, тошнота, некроз тканей" } },
+        { "text": { "en": "Caution: MAO-I", "ru": "Осторожно при приёме ингибиторов МАО" } }
+      ]
+    },
+    {
+      "id": "row-dopamine-high",
+      "cells": [
+        { "text": { "en": "**Dopamine** (high dose)", "ru": "**Дофамин** (высокие дозы)" } },
+        { "text": { "en": "NA", "ru": "Н/П" } },
+        { "text": { "en": "10–15 mcg/kg/min", "ru": "10–15 мкг/кг/мин" } },
+        { "text": { "en": "R, H, P", "ru": "Почечный, печёночный, плазма" } },
+        { "text": { "en": "↑", "ru": "↑" }, "tone": "green" },
+        { "text": { "en": "↑", "ru": "↑" }, "tone": "yellow" },
+        { "text": { "en": "↑", "ru": "↑" }, "tone": "orange" },
+        { "text": { "en": "↔", "ru": "↔" } },
+        { "text": { "en": "T, HA, N, tissue necrosis", "ru": "Тахиаритмии, головная боль, тошнота, некроз тканей" } },
+        { "text": { "en": "Caution: MAO-I", "ru": "Осторожно при приёме ингибиторов МАО" } }
+      ]
+    },
+    {
+      "id": "row-dobutamine",
+      "cells": [
+        { "text": { "en": "**Dobutamine**", "ru": "**Добутамин**" } },
+        { "text": { "en": "NA", "ru": "Н/П" } },
+        { "text": { "en": "2.5–20 mcg/kg/min", "ru": "2,5–20 мкг/кг/мин" } },
+        { "text": { "en": "t½: 2–3 min (hepatic)", "ru": "T½: 2–3 мин (печень)" } },
+        { "text": { "en": "↑", "ru": "↑" }, "tone": "green" },
+        { "text": { "en": "↑", "ru": "↑" }, "tone": "yellow" },
+        { "text": { "en": "↔", "ru": "↔" } },
+        { "text": { "en": "↔", "ru": "↔" } },
+        { "text": { "en": "↑/↓BP, HA, T, N, F, hypersensitivity", "ru": "↑/↓ АД, головная боль, тахиаритмии, тошнота, лихорадка, аллергия" } },
+        { "text": { "en": "Caution: MAO-I; CI: sulfite allergy", "ru": "Осторожно с ИМАО; противопоказан при аллергии на сульфиты" } }
+      ]
+    },
+    {
+      "id": "hdr-pde3",
+      "cells": [
+        {
+          "text": {
+            "en": "**PDE 3 Inhibitor**",
+            "ru": "**Ингибитор фосфодиэстеразы 3 типа (ФДЭ-3)**"
+          },
+          "colspan": 10,
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "row-milrinone",
+      "cells": [
+        { "text": { "en": "**Milrinone**", "ru": "**Милринон**" } },
+        { "text": { "en": "NR", "ru": "Не реком." } },
+        { "text": { "en": "0.125–0.75 mcg/kg/min", "ru": "0,125–0,75 мкг/кг/мин" } },
+        { "text": { "en": "t½: 2.5 h (hepatic)", "ru": "T½: 2,5 ч (печень)" } },
+        { "text": { "en": "↑", "ru": "↑" }, "tone": "green" },
+        { "text": { "en": "↑", "ru": "↑" }, "tone": "yellow" },
+        { "text": { "en": "↓", "ru": "↓" }, "tone": "blue" },
+        { "text": { "en": "↓", "ru": "↓" }, "tone": "blue" },
+        { "text": { "en": "T, ↓BP", "ru": "Тахиаритмии, гипотензия" } },
+        { "text": { "en": "Accumulation may occur in renal failure; monitor renal and LFTs", "ru": "Кумулирует при почечной недостаточности; мониторировать функцию почек и печени" } }
+      ]
+    },
+    {
+      "id": "hdr-vasopressors",
+      "cells": [
+        {
+          "text": {
+            "en": "**Vasopressors**",
+            "ru": "**Вазопрессоры**"
+          },
+          "colspan": 10,
+          "tone": "orange"
+        }
+      ]
+    },
+    {
+      "id": "row-epinephrine-low",
+      "cells": [
+        { "text": { "en": "**Epinephrine** (low dose)", "ru": "**Эпинефрин** (низкие дозы)" } },
+        { "text": { "en": "NR", "ru": "Не реком." } },
+        { "text": { "en": "5–15 mcg/min", "ru": "5–15 мкг/мин" } },
+        { "text": { "en": "t½: 2–3 min", "ru": "T½: 2–3 мин" } },
+        { "text": { "en": "↑", "ru": "↑" }, "tone": "green" },
+        { "text": { "en": "↑", "ru": "↑" }, "tone": "yellow" },
+        { "text": { "en": "↑(↓)", "ru": "↑(↓)" } },
+        { "text": { "en": "↔", "ru": "↔" } },
+        { "text": { "en": "HA, T", "ru": "Головная боль, тахиаритмии" } },
+        { "text": { "en": "Caution: MAO-I", "ru": "Осторожно при приёме ингибиторов МАО" } }
+      ]
+    },
+    {
+      "id": "row-epinephrine-high",
+      "cells": [
+        { "text": { "en": "**Epinephrine** (high dose)", "ru": "**Эпинефрин** (высокие дозы)" } },
+        { "text": { "en": "NR", "ru": "Не реком." } },
+        { "text": { "en": "15–20 mcg/min", "ru": "15–20 мкг/мин" } },
+        { "text": { "en": "t½: 2–3 min", "ru": "T½: 2–3 мин" } },
+        { "text": { "en": "↑", "ru": "↑" }, "tone": "green" },
+        { "text": { "en": "↑↑", "ru": "↑↑" }, "tone": "orange" },
+        { "text": { "en": "↑↑", "ru": "↑↑" }, "tone": "red" },
+        { "text": { "en": "↔", "ru": "↔" } },
+        { "text": { "en": "HA, T", "ru": "Головная боль, тахиаритмии" } },
+        { "text": { "en": "Caution: MAO-I", "ru": "Осторожно при приёме ингибиторов МАО" } }
+      ]
+    },
+    {
+      "id": "row-norepinephrine",
+      "cells": [
+        { "text": { "en": "**Norepinephrine**", "ru": "**Норэпинефрин**" } },
+        { "text": { "en": "NR", "ru": "Не реком." } },
+        { "text": { "en": "0.5–30 mcg/min", "ru": "0,5–30 мкг/мин" } },
+        { "text": { "en": "t½: 2.5 min", "ru": "T½: 2,5 мин" } },
+        { "text": { "en": "↔", "ru": "↔" } },
+        { "text": { "en": "↑", "ru": "↑" }, "tone": "yellow" },
+        { "text": { "en": "↑↑", "ru": "↑↑" }, "tone": "red" },
+        { "text": { "en": "↔", "ru": "↔" } },
+        { "text": { "en": "↓HR, tissue necrosis", "ru": "Рефлекторная брадикардия, некроз тканей" } },
+        { "text": { "en": "Caution: MAO-I", "ru": "Осторожно при приёме ингибиторов МАО" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "BP indicates blood pressure; CI, contraindication; CO, cardiac output; F, fever; H, hepatic; HA, headache; HF, heart failure; HR, heart rate; LFT, liver function test; MAO-I, monoamine oxidase inhibitor; N, nausea; NA, not applicable; NR, not recommended; P, plasma; PDE, phosphodiesterase; PVR, pulmonary vascular resistance; R, renal; SVR, systemic vascular resistance; T, tachyarrhythmias; and t½, elimination half-life. Up arrow means increase. Side arrow means no change. Down arrow means decrease. Up/down arrow means either increase or decrease.",
+      "ru": "BP (АД) — артериальное давление; CI — противопоказание; CO (СВ) — сердечный выброс; HR (ЧСС) — частота сердечных сокращений; LFT — печёночные пробы; MAO-I — ингибитор моноаминоксидазы; PVR (ЛСС) — лёгочное сосудистое сопротивление; SVR (ОПСС) — общее периферическое сосудистое сопротивление; T — тахиаритмии; t½ — период полувыведения. ↑ — увеличение; ↔ — без изменений; ↓ — снижение."
+    }
+  },
+  "source": {
+    "expectedRows": 10
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

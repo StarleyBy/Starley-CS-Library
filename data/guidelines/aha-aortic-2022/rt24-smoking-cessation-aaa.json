@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt24-smoking-cessation-aaa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 24",
+  "title": {
+    "en": "Recommendation for Smoking Cessation in AAA",
+    "ru": "Рекомендация по отказу от курения при аневризме брюшной аорты (АБА)"
+  },
+  "tags": [
+    "smoking",
+    "smoking-cessation",
+    "aaa",
+    "abdominal-aortic-aneurysm",
+    "lifestyle",
+    "prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-smoking-cessation-aaa",
+      "title": {
+        "en": "Smoking Cessation in AAA",
+        "ru": "Отказ от курения при АБА"
+      },
+      "rows": [
+        {
+          "id": "r01-smoking-cessation-efforts",
+          "text": {
+            "en": "In patients with AAA who smoke cigarettes, smoking cessation efforts are recommended.",
+            "ru": "Пациентам с АБА, курящим сигареты, рекомендуются активные меры по отказу от курения."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

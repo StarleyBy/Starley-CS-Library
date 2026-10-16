@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt46-surveillance-after-taa-repair",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 46",
+  "title": {
+    "en": "Recommendations for Surveillance After TAA Repair",
+    "ru": "Рекомендации по динамическому наблюдению после лечения аневризмы грудной аорты (АГА)"
+  },
+  "tags": [
+    "taa",
+    "tevar",
+    "open-repair",
+    "surveillance",
+    "ct",
+    "mri",
+    "residual-aortopathy"
+  ],
+  "sections": [
+    {
+      "id": "sec-surveillance-after-taa-repair",
+      "title": {
+        "en": "Surveillance After TAA Repair",
+        "ru": "Динамическое наблюдение после лечения АГА"
+      },
+      "rows": [
+        {
+          "id": "r01-tevar-ct-surveillance",
+          "text": {
+            "en": "In patients treated with TEVAR, surveillance imaging with CT is recommended after 1 month and 12 months and, if stable, annually thereafter.",
+            "ru": "У пациентов после TEVAR рекомендуется контрольная КТ через 1 месяц и 12 месяцев после операции, а при стабильных результатах — ежегодно в дальнейшем."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-tevar-mri-alternative",
+          "text": {
+            "en": "In patients treated with TEVAR, longitudinal surveillance with MRI is a reasonable alternative to CT for reduction of long-term radiation exposure or avoidance of an iodinated contrast allergy.",
+            "ru": "У пациентов после TEVAR динамическое наблюдение с помощью МРТ является разумной альтернативой КТ для снижения долгосрочной лучевой нагрузки или предотвращения аллергических реакций на йодсодержащий контраст."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [6, 7, 8, 9]
+        },
+        {
+          "id": "r03-open-repair-no-residual-aortopathy",
+          "text": {
+            "en": "In patients treated with open repair of the thoracic aorta without residual aortopathy, surveillance imaging with a CT or MRI within 1 year postoperatively and then every 5 years thereafter is reasonable.",
+            "ru": "У пациентов после открытой операции на грудной аорте без резидуальной аортопатии целесообразно проведение контрольной КТ или МРТ в течение 1 года после операции, а затем каждые 5 лет."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [10, 11, 12, 13, 14]
+        },
+        {
+          "id": "r04-open-repair-residual-aortopathy",
+          "text": {
+            "en": "In patients treated with open repair of the thoracic aorta who have residual aortopathy or abnormal findings on surveillance imaging, annual surveillance imaging is reasonable.",
+            "ru": "У пациентов после открытой операции на грудной аорте при наличии резидуальной аортопатии или патологических изменений на контрольных томограммах целесообразен ежегодный визуализирующий контроль."
+          },
+          "class": "IIa",
+          "level": "C-EO"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

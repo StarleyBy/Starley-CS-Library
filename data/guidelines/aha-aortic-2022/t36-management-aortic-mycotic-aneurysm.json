@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t36-management-aortic-mycotic-aneurysm",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 36",
+  "type": "grid",
+  "title": {
+    "en": "Management of Aortic Mycotic Aneurysm: Comparison of Resection and Extra-Anatomic Reconstruction, In Situ Reconstruction, or Endovascular Device Repair",
+    "ru": "Лечение микотической аневризмы аорты: сравнение резекции с экстраанатомической реконструкцией, реконструкции in situ и эндоваскулярного протезирования"
+  },
+  "tags": [
+    "mycotic-aneurysm",
+    "infectious-aortitis",
+    "extra-anatomic-reconstruction",
+    "in-situ-reconstruction",
+    "endovascular-repair",
+    "aortic-infection"
+  ],
+  "columns": [
+    {
+      "id": "procedure",
+      "title": {
+        "en": "Procedure",
+        "ru": "Вмешательство"
+      }
+    },
+    {
+      "id": "indications",
+      "title": {
+        "en": "Potential Indications^[a]",
+        "ru": "Потенциальные показания^[a]"
+      }
+    },
+    {
+      "id": "advantages",
+      "title": {
+        "en": "Advantages",
+        "ru": "Преимущества"
+      }
+    },
+    {
+      "id": "disadvantages",
+      "title": {
+        "en": "Disadvantages",
+        "ru": "Недостатки"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "extra-anatomic-reconstruction",
+      "cells": [
+        {
+          "text": {
+            "en": "Extra-anatomic reconstruction",
+            "ru": "Экстраанатомическая реконструкция"
+          }
+        },
+        {
+          "text": {
+            "en": "Infrarenal location with gross purulence, psoas or retroperitoneal abscess, vertebral osteomyelitis, inadequate response to antibiotic therapy, selected aortoenteric fistulae",
+            "ru": "Инфраренальная локализация с выраженным гнойным процессом, абсцесс поясничной мышцы (псоас-абсцесс) или забрюшинного пространства, остеомиелит позвонков, неадекватный ответ на антибиотикотерапию, отдельные аорто-кишечные фистулы"
+          }
+        },
+        {
+          "text": {
+            "en": "Avoids placement of foreign body in infected area",
+            "ru": "Позволяет избежать имплантации инородного материала в зону инфекции"
+          }
+        },
+        {
+          "text": {
+            "en": "• Not technically feasible for thoracic, suprarenal, or visceral location or for emergency use<br>• Long operating time<br>• Long-term patency rates low<br>• Stump blowout<br>• Limb ischemia, amputation<br>• Reinfection rate higher than for in situ reconstruction<br>• Ischemic colitis",
+            "ru": "• Технически невыполнима при грудной, супраренальной или висцеральной локализации, а также при экстренной операции<br>• Большая длительность операции<br>• Низкая отдаленная проходимость шунтов<br>• Разрыв культи аорты («stump blowout»)<br>• Ишемия конечности, ампутация<br>• Частота реинфицирования выше, чем при реконструкции in situ<br>• Ишемический колит"
+          }
+        }
+      ]
+    },
+    {
+      "id": "in-situ-reconstruction",
+      "cells": [
+        {
+          "text": {
+            "en": "In situ reconstruction",
+            "ru": "Реконструкция in situ"
+          }
+        },
+        {
+          "text": {
+            "en": "• Thoracic, suprarenal, infrarenal, or visceral location<br>• Selected aortoenteric fistulae",
+            "ru": "• Грудная, супраренальная, инфраренальная или висцеральная локализация<br>• Отдельные аорто-кишечные фистулы"
+          }
+        },
+        {
+          "text": {
+            "en": "• More versatile than extra-anatomic: fewer long-term complications, higher patency rates, lower recurrent infection rate, shorter operating time<br>• Polyester grafts^[b] available for emergency surgery",
+            "ru": "• Более универсальна, чем экстраанатомическая: меньше отдаленных осложнений, выше проходимость, ниже частота рецидива инфекции, меньшая длительность операции<br>• Доступность полиэстеровых протезов^[b] для экстренных операций"
+          }
+        },
+        {
+          "text": {
+            "en": "Theoretical risk of infection because of interposition of foreign material in infected site",
+            "ru": "Теоретический риск инфекции из-за размещения инородного материала в инфицированной зоне"
+          }
+        }
+      ]
+    },
+    {
+      "id": "endovascular-device-repair",
+      "cells": [
+        {
+          "text": {
+            "en": "Endovascular device repair",
+            "ru": "Эндоваскулярное протезирование"
+          }
+        },
+        {
+          "text": {
+            "en": "Bridge procedure^[c]: hemodynamic instability, uncontrolled bleeding, rupture or impending rupture, selected patients with aortoenteric fistulae, patients who are not fit for open surgery",
+            "ru": "Процедура «моста» (bridge-терапия)^[c]: гемодинамическая нестабильность, неконтролируемое кровотечение, разрыв или угроза разрыва, отдельные пациенты с аорто-кишечными фистулами, пациенты, не подходящие для открытой операции"
+          }
+        },
+        {
+          "text": {
+            "en": "• Emergency stabilization<br>• Low early morbidity, mortality<br>• Less invasive<br>• No cross-clamping of aorta: spinal cord injury, reperfusion injury",
+            "ru": "• Экстренная стабилизация<br>• Низкая ранняя заболеваемость и смертность<br>• Меньшая инвазивность<br>• Отсутствие пережатия аорты: снижен риск ишемического повреждения спинного мозга, реперфузионного повреждения"
+          }
+        },
+        {
+          "text": {
+            "en": "• Persistent infections and device infections<br>• Higher long-term morbidity, mortality with device retention<br>• Requires device explantation, reconstruction",
+            "ru": "• Персистирующая инфекция и инфицирование эндографта<br>• Более высокая отдаленная заболеваемость и смертность при сохранении эндографта<br>• Необходимость последующего удаления устройства (эксплантации) и реконструкции"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Potential indication; must be individualized for each patient.",
+      "ru": "Потенциальное показание; решение должно приниматься индивидуально для каждого пациента."
+    },
+    "b": {
+      "en": "Polyester grafts, rifampin-soaked or silver-coated; less experience reported with cryopreserved arterial allografts or venous autografts.",
+      "ru": "Полиэстеровые протезы, пропитанные рифампицином или покрытые серебром; описан меньший клинический опыт применения криосохраненных артериальных аллографтов или аутовенозных графтов."
+    },
+    "c": {
+      "en": "Bridge procedure, used to stabilize patients until device explantation and arterial reconstruction.",
+      "ru": "Процедура «моста» (bridge-терапия), применяемая для стабилизации пациента до эксплантации эндографта и выполнения артериальной реконструкции."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

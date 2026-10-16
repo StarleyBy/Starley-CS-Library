@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt12-loeys-dietz-replacement-aorta",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 12",
+  "title": {
+    "en": "Recommendations for Replacement of the Aorta in Patients With Loeys-Dietz Syndrome",
+    "ru": "Рекомендации по протезированию аорты у пациентов с синдромом Лойса–Дитца"
+  },
+  "tags": [
+    "loeys-dietz",
+    "surgery",
+    "aortic-replacement",
+    "aortic-root",
+    "ascending-aorta",
+    "aortic-arch",
+    "descending-aorta",
+    "abdominal-aorta",
+    "tgfbr1",
+    "tgfbr2",
+    "smad3",
+    "thresholds"
+  ],
+  "sections": [
+    {
+      "id": "sec-loeys-dietz-replacement-aorta",
+      "title": {
+        "en": "Replacement of the Aorta in Loeys-Dietz Syndrome",
+        "ru": "Протезирование аорты при синдроме Лойса–Дитца"
+      },
+      "rows": [
+        {
+          "id": "r01-root-ascending-prophylactic-thresholds",
+          "text": {
+            "en": "In patients with Loeys-Dietz syndrome and aortic dilation, the surgical threshold for prophylactic aortic root and ascending aortic replacement should be informed by the specific genetic variant, aortic diameter, aortic growth rate, extra-aortic features, family history, patient age and sex, and physician and patient preferences (Table 11).",
+            "ru": "У пациентов с синдромом Лойса–Дитца и дилатацией аорты хирургический порог для профилактического протезирования корня и восходящей аорты должен определяться конкретным генетическим вариантом, диаметром аорты, скоростью роста аорты, внеаортальными проявлениями, семейным анамнезом, возрастом и полом пациента, а также предпочтениями врача и пациента (Таблица 11)."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9]
+        },
+        {
+          "id": "r02-arch-descending-abdominal-4-5cm",
+          "text": {
+            "en": "In patients with Loeys-Dietz syndrome attributable to a pathogenic variant in TGFBR1, TGFBR2, or SMAD3, surgery to replace the intact aortic arch, descending aorta, or abdominal aorta at a diameter of ≥4.5 cm may be considered, with the specific genetic variant, patient age, aortic growth rate, family history, presence of high-risk features (Table 11), and surgical risk informing the decision.",
+            "ru": "У пациентов с синдромом Лойса–Дитца, обусловленным патогенным вариантом в генах TGFBR1, TGFBR2 или SMAD3, может быть рассмотрена операция по протезированию интактной дуги аорты, нисходящей аорты или брюшной аорты при диаметре ≥4,5 см с учётом конкретного генетического варианта, возраста пациента, скорости роста аорты, семейного анамнеза, наличия признаков высокого риска (Таблица 11) и хирургического риска."
+          },
+          "class": "IIb",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

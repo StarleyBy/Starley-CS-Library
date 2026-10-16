@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt79-physical-activity-quality-of-life",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 79",
+  "title": {
+    "en": "Recommendations for Physical Activity and Quality of Life",
+    "ru": "Рекомендации по физической активности и качеству жизни"
+  },
+  "tags": [
+    "physical-activity",
+    "exercise",
+    "quality-of-life",
+    "cardiac-rehabilitation",
+    "anxiety",
+    "depression",
+    "ptsd",
+    "lifestyle"
+  ],
+  "sections": [
+    {
+      "id": "sec-physical-activity-quality-of-life",
+      "title": {
+        "en": "Physical Activity and Quality of Life",
+        "ru": "Физическая активность и качество жизни"
+      },
+      "rows": [
+        {
+          "id": "r01-avoid-intense-isometric-valsalva-collision-sports",
+          "text": {
+            "en": "For patients with significant aortic disease, education and guidance should be provided about avoiding intense isometric exercises (eg, heavy weightlifting or activities requiring the Valsalva maneuver), burst exertion and activities, and collision sports.",
+            "ru": "Пациентам со значимой патологией аорты следует предоставить разъяснения и рекомендации по исключению интенсивных изометрических нагрузок (например, тяжелой атлетики или действий, требующих натуживания по Вальсальве), взрывных физических усилий и контактных видов спорта."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-postoperative-cardiac-rehabilitation",
+          "text": {
+            "en": "For patients who have undergone surgery for aortic aneurysm or dissection, postoperative cardiac rehabilitation is recommended.",
+            "ru": "Пациентам, перенесшим хирургическое вмешательство по поводу аневризмы или расслоения аорты, рекомендуется послеоперационная кардиореабилитация."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [3, 4]
+        },
+        {
+          "id": "r03-aerobic-activity-mild-to-moderate",
+          "text": {
+            "en": "In patients with thoracic or abdominal aortic aneurysms whose BP is adequately controlled, it is reasonable to encourage 30 to 60 minutes of mild-to-moderate intensity aerobic activity at least 3 to 4 days per week.",
+            "ru": "У пациентов с аневризмами грудной или брюшной аорты при адекватно контролируемом АД целесообразно рекомендовать от 30 до 60 минут аэробной физической активности легкой или умеренной интенсивности не менее 3–4 дней в неделю."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [5, 6]
+        },
+        {
+          "id": "r04-psychological-screening-anxiety-depression-ptsd-support",
+          "text": {
+            "en": "For patients with clinically significant aortic disease, it is reasonable to screen for anxiety, depression, and posttraumatic stress disorder and, when indicated, provide resources for support; it is also reasonable to provide education and resources to minimize patients' concerns, support optimal decision-making, and enhance quality of life.",
+            "ru": "У пациентов с клинически значимой патологией аорты целесообразно проводить скрининг на тревожность, депрессию и посттравматическое стрессовое расстройство и при наличии показаний предоставлять ресурсы психологической поддержки; также целесообразно информирование и консультирование пациентов для снижения уровня тревоги, поддержки совместного принятия решений и улучшения качества жизни."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [5, 7, 8, 9, 10, 11]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

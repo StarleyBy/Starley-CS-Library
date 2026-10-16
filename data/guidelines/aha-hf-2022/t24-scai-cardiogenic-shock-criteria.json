@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t24-scai-cardiogenic-shock-criteria",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 24",
+  "type": "grid",
+  "title": {
+    "en": "Society for Cardiovascular Angiography and Interventions (SCAI) Cardiogenic Shock Criteria",
+    "ru": "Критерии стадирования кардиогенного шока Общества сердечно-сосудистой ангиографии и интервенций (SCAI)"
+  },
+  "tags": [
+    "scai",
+    "cardiogenic-shock",
+    "shock-stages",
+    "stage-a",
+    "stage-b",
+    "stage-c",
+    "stage-d",
+    "stage-e",
+    "hemodynamics",
+    "biomarkers",
+    "lactate",
+    "cardiac-arrest"
+  ],
+  "columns": [
+    {
+      "id": "c_stage",
+      "title": { "en": "Stage", "ru": "Стадия шока" }
+    },
+    {
+      "id": "c_bedside",
+      "title": { "en": "Bedside Findings", "ru": "Клинические данные у постели больного" }
+    },
+    {
+      "id": "c_labs",
+      "title": { "en": "Selected Laboratory Markers", "ru": "Лабораторные маркеры" }
+    },
+    {
+      "id": "c_hemodynamics",
+      "title": { "en": "Hemodynamics", "ru": "Гемодинамические показатели" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "stage-a-at-risk",
+      "cells": [
+        {
+          "text": {
+            "en": "A: At risk\n• Normotensive\n• Normal perfusion\n• Cause for risk for shock such as large myocardial infarction or HF",
+            "ru": "A: В группе риска (At risk)\n• Нормотензия\n• Нормальная перфузия\n• Причина риска шока (обширный инфаркт миокарда или СН)"
+          }
+        },
+        {
+          "text": {
+            "en": "Normal venous pressure\nClear lungs\nWarm extremities\nStrong palpable pulses\nNormal mentation",
+            "ru": "Нормальное венозное давление\nЛегкие чистые, без хрипов\nТеплые конечности\nОтчетливый пульс\nЯсное сознание"
+          }
+        },
+        {
+          "text": {
+            "en": "Normal renal function\nNormal lactate",
+            "ru": "Нормальная функция почек\nНормальный уровень лактата"
+          }
+        },
+        {
+          "text": {
+            "en": "SBP >100 mm Hg\nHemodynamics: Normal",
+            "ru": "САД >100 мм рт. ст.\nГемодинамика: в пределах нормы"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-b-pre-shock",
+      "cells": [
+        {
+          "text": {
+            "en": "B: Beginning shock (\"pre-shock\")\n• Hypotension\n• Normal perfusion",
+            "ru": "B: Начинающийся шок («пре-шок»)\n• Артериальная гипотензия\n• Нормальная перфузия"
+          }
+        },
+        {
+          "text": {
+            "en": "Elevated venous pressure\nRales present\nWarm extremities\nStrong pulses\nNormal mentation",
+            "ru": "Повышенное венозное давление\nХрипы в легких\nТеплые конечности\nСохранный пульс\nЯсное сознание"
+          }
+        },
+        {
+          "text": {
+            "en": "Preserved renal function\nNormal lactate\nElevated BNP",
+            "ru": "Сохранная функция почек\nНормальный уровень лактата\nПовышенный уровень BNP/NT-proBNP"
+          }
+        },
+        {
+          "text": {
+            "en": "SBP <90 mm Hg, MAP <60 mm Hg, or >30 mm Hg decrease from baseline SBP\nHR >100 bpm\nHemodynamics: CI ≥2.2 L/min/m²",
+            "ru": "САД <90 мм рт. ст., СрАД <60 мм рт. ст. или снижение САД >30 мм рт. ст. от исходного\nЧСС >100 уд/мин\nГемодинамика: СИ ≥2,2 л/мин/м²"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-c-classic-shock",
+      "cells": [
+        {
+          "text": {
+            "en": "C: Classic cardiogenic shock\n• Hypotension\n• Hypoperfusion",
+            "ru": "C: Классический кардиогенный шок\n• Артериальная гипотензия\n• Тканевая гипоперфузия"
+          }
+        },
+        {
+          "text": {
+            "en": "Elevated venous pressure\nRales present\nCold, ashen, livedo\nWeak or nonpalpable pulses\nAltered mentation\nDecreased urine output\nRespiratory distress",
+            "ru": "Повышенное венозное давление\nВлажные хрипы в легких\nХолодная, пепельная кожа, livedo reticularis\nСлабый или нитевидный пульс\nНарушение сознания\nОлигурия (снижение диуреза)\nРеспираторный дистресс"
+          }
+        },
+        {
+          "text": {
+            "en": "Impaired renal function\nIncreased lactate\nElevated BNP\nIncreased LFTs\nAcidosis",
+            "ru": "Ухудшение функции почек (повышение креатинина)\nПовышение лактата\nЗначительно повышенный BNP\nПовышение трансаминаз (ПФП)\nМетаболический ацидоз"
+          }
+        },
+        {
+          "text": {
+            "en": "SBP <90 mm Hg; MAP <60 mm Hg; >30 mm Hg from baseline SBP despite drugs and temporary MCS\nHR >100 bpm\nHemodynamics: CI ≤2.2 L/min/m²; PCW >15 mm Hg; CPO <0.6 W; PAPi <2.0; CVP/PCW >1.0",
+            "ru": "САД <90 мм рт. ст.; СрАД <60 мм рт. ст.; снижение САД >30 мм рт. ст. от исходного, несмотря на вазопрессоры/инотропы и временную MCS\nЧСС >100 уд/мин\nГемодинамика: СИ ≤2,2 л/мин/м²; ДЗЛА >15 мм рт. ст.; CPO <0,6 Вт; PAPi <2,0; ЦВД/ДЗЛА >1,0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-d-deteriorating",
+      "cells": [
+        {
+          "text": {
+            "en": "D: Deteriorating\n• Worsening hypotension\n• Worsening hypoperfusion",
+            "ru": "D: Ухудшение состояния (Deteriorating)\n• Прогрессирующая гипотензия\n• Прогрессирующая гипоперфузия"
+          }
+        },
+        {
+          "text": {
+            "en": "Same as stage C",
+            "ru": "Аналогично стадии C"
+          }
+        },
+        {
+          "text": {
+            "en": "Persistent or worsening values of stage C",
+            "ru": "Сохраняющиеся или ухудшающиеся показатели стадии C"
+          }
+        },
+        {
+          "text": {
+            "en": "Escalating use of pressors or MCS to maintain SBP and end-organ perfusion in setting of stage C hemodynamics",
+            "ru": "Эскалация доз вазопрессоров/инотропов или мощности MCS для поддержания САД и перфузии органов на фоне гемодинамики стадии C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-e-extremis",
+      "cells": [
+        {
+          "text": {
+            "en": "E: Extremis\n• Refractory hypotension\n• Refractory hypoperfusion",
+            "ru": "E: Терминальная стадия (Extremis)\n• Рефрактерная гипотензия\n• Рефрактерная гипоперфузия"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiac arrest\nCPR",
+            "ru": "Остановка кровообращения\nСердечно-легочная реанимация (СЛР)"
+          }
+        },
+        {
+          "text": {
+            "en": "Worsening values of stage C laboratories",
+            "ru": "Крайне тяжелые/прогрессирующе ухудшающиеся показатели лаборатории стадии C"
+          }
+        },
+        {
+          "text": {
+            "en": "SBP only with resuscitation\nPEA\nRecurrent VT/VF",
+            "ru": "САД определяется только на фоне реанимационных мероприятий\nЭлектромеханическая диссоциация (ЭМД)\nРецидивирующая ЖТ / фибрилляция желудочков"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "BNP indicates brain natriuretic peptide; CI, cardiac index; CPO, cardiac power output; CPR, cardiopulmonary resuscitation; CVP, central venous pressure; HR, heart rate; LFT, liver function test; MAP, mean arterial blood pressure; MCS, mechanical circulatory support; PAPi, pulmonary artery pulsatility index; PCW, pulmonary capillary wedge pressures; PEA, pulseless electrical activity; SBP, systolic blood pressure; VF, ventricular fibrillation; and VT, ventricular tachycardia.",
+      "ru": "BNP (НУП) — мозговой натрийуретический пептид; CI (СИ) — сердечный индекс; CPO — сердечная мощность; CPR (СЛР) — сердечно-легочная реанимация; CVP (ЦВД) — центральное венозное давление; HR (ЧСС) — частота сердечных сокращений; LFT (ПФП) — печеночные пробы; MAP (СрАД) — среднее артериальное давление; MCS — механическая поддержка кровообращения; PAPi — индекс пульсатильности легочной артерии; PCW (ДЗЛА) — давление заклинивания легочных капилляров; PEA (ЭМД) — электромеханическая диссоциация; SBP (САД) — систолическое артериальное давление; VF (ФЖ) — фибрилляция желудочков; VT (ЖТ) — желудочковая тахикардия."
+    },
+    "b": {
+      "en": "Adapted from Baran D et al,^29 with permission from Wiley Periodicals, Inc.",
+      "ru": "Адаптировано из Baran D et al. с разрешения Wiley Periodicals, Inc."
+    }
+  }
+}

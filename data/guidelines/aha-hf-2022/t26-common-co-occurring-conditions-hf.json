@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t26-common-co-occurring-conditions-hf",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 26",
+  "type": "grid",
+  "title": {
+    "en": "Most Common Co-Occurring Chronic Conditions Among Medicare Beneficiaries With HF (N=4 947 918), 2011",
+    "ru": "Наиболее частые сопутствующие хронические заболевания у пациентов с СН в системе Medicare (N=4 947 918), 2011 г."
+  },
+  "tags": [
+    "comorbidities",
+    "multimorbidity",
+    "medicare",
+    "hypertension",
+    "ischemic-heart-disease",
+    "diabetes",
+    "hyperlipidemia",
+    "anemia",
+    "ckd",
+    "copd",
+    "atrial-fibrillation",
+    "dementia",
+    "depression",
+    "arthritis",
+    "asthma"
+  ],
+  "columns": [
+    {
+      "id": "c_rank",
+      "title": { "en": "Rank", "ru": "Ранг" }
+    },
+    {
+      "id": "c_cond_ge65",
+      "title": { "en": "Beneficiaries Age ≥65 y (n=4 376 150)*", "ru": "Пациенты в возрасте ≥65 лет (n=4 376 150)*" }
+    },
+    {
+      "id": "c_n_ge65",
+      "title": { "en": "n (≥65 y)", "ru": "n (≥65 лет)" }
+    },
+    {
+      "id": "c_pct_ge65",
+      "title": { "en": "% (≥65 y)", "ru": "% (≥65 лет)" }
+    },
+    {
+      "id": "c_cond_lt65",
+      "title": { "en": "Beneficiaries Age <65 y (n=571 768)†", "ru": "Пациенты в возрасте <65 лет (n=571 768)†" }
+    },
+    {
+      "id": "c_n_lt65",
+      "title": { "en": "n (<65 y)", "ru": "n (<65 лет)" }
+    },
+    {
+      "id": "c_pct_lt65",
+      "title": { "en": "% (<65 y)", "ru": "% (<65 лет)" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "rank-01",
+      "cells": [
+        { "text": { "en": "1", "ru": "1" } },
+        { "text": { "en": "Hypertension", "ru": "Артериальная гипертензия" } },
+        { "text": { "en": "3 685 373", "ru": "3 685 373" } },
+        { "text": { "en": "84.2%", "ru": "84,2%" } },
+        { "text": { "en": "Hypertension", "ru": "Артериальная гипертензия" } },
+        { "text": { "en": "461 235", "ru": "461 235" } },
+        { "text": { "en": "80.7%", "ru": "80,7%" } }
+      ]
+    },
+    {
+      "id": "rank-02",
+      "cells": [
+        { "text": { "en": "2", "ru": "2" } },
+        { "text": { "en": "Ischemic heart disease", "ru": "Ишемическая болезнь сердца" } },
+        { "text": { "en": "3 145 718", "ru": "3 145 718" } },
+        { "text": { "en": "71.9%", "ru": "71,9%" } },
+        { "text": { "en": "Ischemic heart disease", "ru": "Ишемическая болезнь сердца" } },
+        { "text": { "en": "365 889", "ru": "365 889" } },
+        { "text": { "en": "64.0%", "ru": "64,0%" } }
+      ]
+    },
+    {
+      "id": "rank-03",
+      "cells": [
+        { "text": { "en": "3", "ru": "3" } },
+        { "text": { "en": "Hyperlipidemia", "ru": "Гиперлипидемия" } },
+        { "text": { "en": "2 623 601", "ru": "2 623 601" } },
+        { "text": { "en": "60.0%", "ru": "60,0%" } },
+        { "text": { "en": "Diabetes", "ru": "Сахарный диабет" } },
+        { "text": { "en": "338 687", "ru": "338 687" } },
+        { "text": { "en": "59.2%", "ru": "59,2%" } }
+      ]
+    },
+    {
+      "id": "rank-04",
+      "cells": [
+        { "text": { "en": "4", "ru": "4" } },
+        { "text": { "en": "Anemia", "ru": "Анемия" } },
+        { "text": { "en": "2 200 674", "ru": "2 200 674" } },
+        { "text": { "en": "50.3%", "ru": "50,3%" } },
+        { "text": { "en": "Hyperlipidemia", "ru": "Гиперлипидемия" } },
+        { "text": { "en": "325 498", "ru": "325 498" } },
+        { "text": { "en": "56.9%", "ru": "56,9%" } }
+      ]
+    },
+    {
+      "id": "rank-05",
+      "cells": [
+        { "text": { "en": "5", "ru": "5" } },
+        { "text": { "en": "Diabetes", "ru": "Сахарный диабет" } },
+        { "text": { "en": "2 027 875", "ru": "2 027 875" } },
+        { "text": { "en": "46.3%", "ru": "46,3%" } },
+        { "text": { "en": "Anemia", "ru": "Анемия" } },
+        { "text": { "en": "284 102", "ru": "284 102" } },
+        { "text": { "en": "49.7%", "ru": "49,7%" } }
+      ]
+    },
+    {
+      "id": "rank-06",
+      "cells": [
+        { "text": { "en": "6", "ru": "6" } },
+        { "text": { "en": "Arthritis", "ru": "Артрит" } },
+        { "text": { "en": "1 901 447", "ru": "1 901 447" } },
+        { "text": { "en": "43.5%", "ru": "43,5%" } },
+        { "text": { "en": "CKD", "ru": "Хроническая болезнь почек (ХБП)" } },
+        { "text": { "en": "257 015", "ru": "257 015" } },
+        { "text": { "en": "45.0%", "ru": "45,0%" } }
+      ]
+    },
+    {
+      "id": "rank-07",
+      "cells": [
+        { "text": { "en": "7", "ru": "7" } },
+        { "text": { "en": "CKD", "ru": "Хроническая болезнь почек (ХБП)" } },
+        { "text": { "en": "1 851 812", "ru": "1 851 812" } },
+        { "text": { "en": "42.3%", "ru": "42,3%" } },
+        { "text": { "en": "Depression", "ru": "Депрессия" } },
+        { "text": { "en": "207 082", "ru": "207 082" } },
+        { "text": { "en": "36.2%", "ru": "36,2%" } }
+      ]
+    },
+    {
+      "id": "rank-08",
+      "cells": [
+        { "text": { "en": "8", "ru": "8" } },
+        { "text": { "en": "COPD", "ru": "Хроническая обструктивная болезнь легких (ХОБЛ)" } },
+        { "text": { "en": "1 311 118", "ru": "1 311 118" } },
+        { "text": { "en": "30.0%", "ru": "30,0%" } },
+        { "text": { "en": "Arthritis", "ru": "Артрит" } },
+        { "text": { "en": "201 964", "ru": "201 964" } },
+        { "text": { "en": "35.3%", "ru": "35,3%" } }
+      ]
+    },
+    {
+      "id": "rank-09",
+      "cells": [
+        { "text": { "en": "9", "ru": "9" } },
+        { "text": { "en": "AF", "ru": "Фибрилляция предсердий (ФП)" } },
+        { "text": { "en": "1 247 748", "ru": "1 247 748" } },
+        { "text": { "en": "28.5%", "ru": "28,5%" } },
+        { "text": { "en": "COPD", "ru": "Хроническая обструктивная болезнь легких (ХОБЛ)" } },
+        { "text": { "en": "191 016", "ru": "191 016" } },
+        { "text": { "en": "33.4%", "ru": "33,4%" } }
+      ]
+    },
+    {
+      "id": "rank-10",
+      "cells": [
+        { "text": { "en": "10", "ru": "10" } },
+        { "text": { "en": "Alzheimer's disease or dementia", "ru": "Болезнь Альцгеймера или деменция" } },
+        { "text": { "en": "1 207 704", "ru": "1 207 704" } },
+        { "text": { "en": "27.6%", "ru": "27,6%" } },
+        { "text": { "en": "Asthma", "ru": "Бронхиальная астма" } },
+        { "text": { "en": "88 816", "ru": "88 816" } },
+        { "text": { "en": "15.5%", "ru": "15,5%" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Data source: Centers for Medicare & Medicaid Services administrative claims data, January 2011 to December 2011, from the Chronic Condition Warehouse (CCW), ccwdata.org.50",
+      "ru": "Источник данных: административные данные обращений Центров услуг Medicare и Medicaid (CMS), январь–декабрь 2011 г., Chronic Condition Warehouse (CCW), ccwdata.org.50"
+    },
+    "b": {
+      "en": "AF indicates atrial fibrillation; CKD, chronic kidney disease; COPD, chronic obstructive pulmonary disease; and HF, heart failure.",
+      "ru": "AF (ФП) — фибрилляция предсердий; CKD (ХБП) — хроническая болезнь почек; COPD (ХОБЛ) — хроническая обструктивная болезнь легких; HF (СН) — сердечная недостаточность."
+    },
+    "c": {
+      "en": "*Mean No. of conditions is 6.1; median is 6.",
+      "ru": "*Среднее число сопутствующих заболеваний — 6,1; медиана — 6."
+    },
+    "d": {
+      "en": "†Mean No. of conditions is 5.5; median is 5.",
+      "ru": "†Среднее число сопутствующих заболеваний — 5,5; медиана — 5."
+    }
+  }
+}

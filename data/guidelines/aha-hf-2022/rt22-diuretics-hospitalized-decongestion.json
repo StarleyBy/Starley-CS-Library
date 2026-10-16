@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt22-diuretics-hospitalized-decongestion",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Diuretics in Hospitalized Patients: Decongestion Strategy",
+  "title": {
+    "en": "Recommendations for Diuretics in Hospitalized Patients: Decongestion Strategy",
+    "ru": "Рекомендации по применению диуретиков у госпитализированных пациентов: стратегия устранения застоя"
+  },
+  "tags": [
+    "diuretics",
+    "loop-diuretics",
+    "decongestion",
+    "hospitalization",
+    "adhf",
+    "acute-hf",
+    "combination-diuretics",
+    "discharge-planning"
+  ],
+  "sections": [
+    {
+      "id": "sec-diuretics-decongestion",
+      "title": {
+        "en": "Diuretics in Hospitalized Patients: Decongestion Strategy",
+        "ru": "Диуретики у госпитализированных пациентов: стратегия устранения застоя"
+      },
+      "rows": [
+        {
+          "id": "r01-prompt-iv-loop-diuretics",
+          "text": {
+            "en": "Patients with HF admitted with evidence of significant fluid overload should be promptly treated with intravenous loop diuretics to improve symptoms and reduce morbidity.",
+            "ru": "Пациентам с СН, госпитализированным с признаками выраженной задержки жидкости, показано безотлагательное лечение внутривенными петлевыми диуретиками для облегчения симптомов и снижения заболеваемости."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1]
+        },
+        {
+          "id": "r02-titrate-resolve-congestion",
+          "text": {
+            "en": "For patients hospitalized with HF, therapy with diuretics and other guideline-directed medications should be titrated with a goal to resolve clinical evidence of congestion to reduce symptoms and rehospitalizations.",
+            "ru": "У пациентов, госпитализированных с СН, терапия диуретиками и другими медикаментами в рамках GDMT должна титроваться с целью полного устранения клинических признаков застоя для уменьшения симптомов и повторных госпитализаций."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r03-discharge-diuretic-adjustment-plan",
+          "text": {
+            "en": "For patients requiring diuretic treatment during hospitalization for HF, the discharge regimen should include a plan for adjustment of diuretics to decrease rehospitalizations.",
+            "ru": "У пациентов, требовавших назначения диуретиков во время госпитализации по поводу СН, схема при выписке должна содержать план коррекции дозы диуретиков для снижения риска повторных госпитализаций."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [7]
+        },
+        {
+          "id": "r04-intensify-diuretic-regimen",
+          "text": {
+            "en": "In patients hospitalized with HF when diuresis is inadequate to relieve symptoms and signs of congestion, it is reasonable to intensify the diuretic regimen using either: a. higher doses of intravenous loop diuretics; or b. addition of a second diuretic.",
+            "ru": "У пациентов, госпитализированных с СН, при неадекватном диурезе для устранения симптомов и признаков застоя целесообразно усилить диуретическую терапию с помощью: а) более высоких доз внутривенных петлевых диуретиков; или б) добавления второго диуретика."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 3]
+        }
+      ]
+    }
+  ]
+}

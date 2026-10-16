@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt62-initial-management-baai",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 62",
+  "title": {
+    "en": "Recommendations for Initial Management of BAAI",
+    "ru": "Рекомендации по начальной тактике ведения тупой травмы брюшной аорты (BAAI)"
+  },
+  "tags": [
+    "baai",
+    "blunt-trauma",
+    "abdominal-aorta",
+    "grading",
+    "anti-impulse-therapy",
+    "malperfusion",
+    "reboa"
+  ],
+  "sections": [
+    {
+      "id": "sec-initial-management-baai",
+      "title": {
+        "en": "Initial Management of BAAI",
+        "ru": "Начальная тактика ведения BAAI"
+      },
+      "rows": [
+        {
+          "id": "r01-grade-1-to-2-anti-impulse-surveillance",
+          "text": {
+            "en": "In patients with grade 1 to 2 BAAI (Table 33) without malperfusion, anti-impulse therapy, if clinically tolerated, and repeat imaging within 24 to 48 hours of the initial scan is recommended to reduce risk of injury progression.",
+            "ru": "У пациентов с BAAI 1–2-й степени (Таблица 33) без мальперфузии рекомендуется антиимпульсная терапия (при клинической переносимости) и повторная визуализация в течение 24–48 часов после первичного сканирования для снижения риска прогрессирования повреждения."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1]
+        },
+        {
+          "id": "r02-grade-4-repair",
+          "text": {
+            "en": "In patients with grade 4 BAAI (Table 33), repair should be performed to address life-threatening aortic injury.",
+            "ru": "У пациентов с BAAI 4-й степени (Таблица 33) следует выполнять вмешательство для устранения жизнеугрожающего повреждения аорты."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [2, 3, 4]
+        },
+        {
+          "id": "r03-grade-2-malperfusion-repair",
+          "text": {
+            "en": "In patients with grade 2 BAAI (Table 33) and associated malperfusion, it is reasonable to consider repair.",
+            "ru": "У пациентов с BAAI 2-й степени (Таблица 33) и сопутствующей мальперфузией целесообразно рассмотреть вопрос о выполнении вмешательства."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1]
+        },
+        {
+          "id": "r04-endovascular-or-open-repair",
+          "text": {
+            "en": "In patients with BAAI, treatment with either endovascular or open repair is reasonable and depends on degree of injury, aortic anatomy, and the patient's overall clinical status.",
+            "ru": "У пациентов с BAAI целесообразно лечение с использованием как эндоваскулярного, так и открытого вмешательства, выбор которого зависит от степени повреждения, анатомии аорты и общего клинического статуса пациента."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r05-grade-3-repair-considered",
+          "text": {
+            "en": "In patients with grade 3 BAAI (Table 33), it may be reasonable to consider repair to reduce risk of progression to life-threatening injury.",
+            "ru": "У пациентов с BAAI 3-й степени (Таблица 33) может быть целесообразно рассмотреть выполнение вмешательства для снижения риска прогрессирования в жизнеугрожающее повреждение."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [5]
+        },
+        {
+          "id": "r06-reboa-harm",
+          "text": {
+            "en": "In patients with BAAI, the usefulness of routine application of resuscitative endovascular balloon occlusion of the aorta (REBOA) for hemorrhage control is unclear and, in some cases, may cause harm.",
+            "ru": "У пациентов с BAAI польза рутинного применения реанимационной эндоваскулярной баллонной окклюзии аорты (REBOA) для контроля кровотечения не ясна, а в ряде случаев может приводить к вреду."
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [6, 7, 8]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

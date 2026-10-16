@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt01-aortic-imaging-techniques",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 1",
+  "title": {
+    "en": "Recommendations for Aortic Imaging Techniques to Determine Presence and Progression of Aortic Disease",
+    "ru": "Рекомендации по методам визуализации аорты для определения наличия и прогрессирования заболевания аорты"
+  },
+  "tags": [
+    "imaging",
+    "ct",
+    "mri",
+    "echocardiography",
+    "tte",
+    "radiation-dose",
+    "inner-edge",
+    "leading-edge",
+    "sinus-to-sinus",
+    "indexing",
+    "bsa"
+  ],
+  "sections": [
+    {
+      "id": "sec-aortic-imaging-techniques",
+      "title": {
+        "en": "Aortic Imaging Techniques",
+        "ru": "Методы визуализации аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-measurement-landmarks",
+          "text": {
+            "en": "In patients with known or suspected aortic disease, aortic diameters should be measured at reproducible anatomic landmarks perpendicular to axis of blood flow, and these measurement methods should be reported in a clear and consistent manner. In cases of asymmetric or oval contour, the longest diameter and its perpendicular diameter should be reported.",
+            "ru": "У пациентов с подтверждённым или подозреваемым заболеванием аорты диаметры аорты следует измерять на уровне воспроизводимых анатомических ориентиров перпендикулярно оси кровотока, и эти методы измерения должны быть чётко и последовательно отражены в протоколе. При асимметричном или овальном контуре следует указывать наибольший диаметр и перпендикулярный ему диаметр."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [3, 4]
+        },
+        {
+          "id": "r02-radiation-dose-reduction",
+          "text": {
+            "en": "In patients with known or suspected aortic disease, episodic and cumulative ionizing radiation doses should be kept as low as feasible while maintaining diagnostic image quality.",
+            "ru": "У пациентов с подтверждённым или подозреваемым заболеванием аорты эпизодические и кумулятивные дозы ионизирующего излучения должны поддерживаться на минимально возможном уровне при сохранении диагностического качества изображений."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [5, 6, 7]
+        },
+        {
+          "id": "r03-ct-mr-inner-edge-ecg-gating",
+          "text": {
+            "en": "In patients with known or suspected aortic disease, when performing CT or MR imaging, it is recommended that the root and ascending aortic diameters be measured from inner-edge to inner-edge, using an electrocardiographic-synchronized technique. If there are aortic wall abnormalities, such as atherosclerosis or discrete wall thickening (more common in the distal aorta), the outer-edge to outer-edge diameter should be reported (Table 4).",
+            "ru": "У пациентов с подтверждённым или подозреваемым заболеванием аорты при выполнении КТ или МРТ рекомендуется измерять диаметры корня и восходящей аорты от внутреннего края до внутреннего края (inner-edge to inner-edge) с использованием методики с ЭКГ-синхронизацией. При наличии патологии стенки аорты, такой как атеросклероз или дискретное утолщение стенки (чаще встречается в дистальных отделах аорты), следует указывать диаметр от наружного края до наружного края (outer-edge to outer-edge) (Таблица 4)."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r04-aortic-root-sinus-to-sinus",
+          "text": {
+            "en": "In patients with known or suspected aortic disease, the aortic root diameter should be recorded as maximum sinus to sinus measurement. In the setting of known asymmetry, multiple measurements should be reported, and both short- and long-axis images of the root should be obtained to avoid underestimation of the diameter.",
+            "ru": "У пациентов с подтверждённым или подозреваемым заболеванием аорты диаметр корня аорты должен регистрироваться как максимальный размер от синуса до синуса (sinus to sinus). При известной асимметрии следует указывать несколько измерений, а также получать изображения корня как по короткой, так и по длинной оси во избежание недооценки диаметра."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r05-indexing-to-height-bsa",
+          "text": {
+            "en": "In patients with known or suspected aortic disease, it is reasonable that a dilated root or ascending aorta be indexed to patient height or BSA in the report, to aid in clinical risk assessment.",
+            "ru": "У пациентов с подтверждённым или подозреваемым заболеванием аорты целесообразно индексировать расширенный корень или восходящую аорту по росту или площади поверхности тела (ППТ) в протоколе заключения для содействия клинической оценке риска."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [8, 9, 10, 11]
+        },
+        {
+          "id": "r06a-echo-leading-edge",
+          "text": {
+            "en": "In patients with known or suspected aortic disease, when performing echocardiography, it is reasonable to measure the aorta from leading-edge to leading-edge, perpendicular to the axis of blood flow.",
+            "ru": "У пациентов с подтверждённым или подозреваемым заболеванием аорты при проведении эхокардиографии целесообразно измерять аорту от ведущего края к ведущему краю (leading-edge to leading-edge) перпендикулярно оси кровотока."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r06b-echo-inner-edge-short-axis",
+          "text": {
+            "en": "Using inner-edge to inner-edge measurements may also be considered, particularly on short-axis imaging.",
+            "ru": "Использование измерений от внутреннего края к внутреннему краю (inner-edge to inner-edge) также может быть рассмотрено, особенно при визуализации по короткой оси."
+          },
+          "class": "IIb",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

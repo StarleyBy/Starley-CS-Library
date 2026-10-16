@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt52-management-malperfusion",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 52",
+  "title": {
+    "en": "Recommendations for Management of Malperfusion",
+    "ru": "Рекомендации по ведению синдрома мальперфузии"
+  },
+  "tags": [
+    "malperfusion",
+    "type-a-dissection",
+    "acute-dissection",
+    "mesenteric-ischemia",
+    "renal-malperfusion",
+    "revascularization",
+    "ascending-aorta-repair",
+    "sma"
+  ],
+  "sections": [
+    {
+      "id": "sec-management-malperfusion",
+      "title": {
+        "en": "Management of Malperfusion",
+        "ru": "Ведение синдрома мальперфузии"
+      },
+      "rows": [
+        {
+          "id": "r01-immediate-operative-repair-ascending-aorta",
+          "text": {
+            "en": "In patients with acute type A aortic dissection presenting with renal, mesenteric, or lower extremity malperfusion, it is recommended to proceed to immediate operative repair of the ascending aorta.",
+            "ru": "У пациентов с острым расслоением аорты типа А, протекающим с почечной, мезентериальной мальперфузией или мальперфузией нижних конечностей, рекомендуется незамедлительно приступать к хирургическому вмешательству на восходящей аорте."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-mesenteric-malperfusion-revascularization-strategy",
+          "text": {
+            "en": "In patients with acute type A aortic dissection presenting with clinically significant mesenteric (celiac, SMA) malperfusion, either immediate operative repair of the ascending aorta or immediate mesenteric revascularization via endovascular or open surgical intervention by those with this expertise before ascending aortic repair is reasonable.",
+            "ru": "У пациентов с острым расслоением аорты типа А с клинически значимой мезентериальной мальперфузией (чревный ствол, ВБА) целесообразно либо незамедлительное хирургическое вмешательство на восходящей аорте, либо немедленная реваскуляризация мезентериального русла (эндоваскулярная или открытая хирургическая специалистами с соответствующим опытом) перед протезированием восходящей аорты."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

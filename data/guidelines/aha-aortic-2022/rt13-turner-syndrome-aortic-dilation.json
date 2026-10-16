@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt13-turner-syndrome-aortic-dilation",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 13",
+  "title": {
+    "en": "Recommendations for Diagnostic Testing, Surveillance, and Surgical Intervention for Aortic Dilation in Turner Syndrome",
+    "ru": "Рекомендации по диагностике, динамическому наблюдению и хирургическому лечению дилатации аорты при синдроме Тёрнера"
+  },
+  "tags": [
+    "turner-syndrome",
+    "asi",
+    "aortic-size-index",
+    "bav",
+    "coarctation",
+    "surveillance",
+    "pregnancy",
+    "surgery",
+    "root-replacement",
+    "ascending-aorta"
+  ],
+  "sections": [
+    {
+      "id": "sec-turner-syndrome-aortic-dilation",
+      "title": {
+        "en": "Turner Syndrome: Testing, Surveillance, and Surgery",
+        "ru": "Синдром Тёрнера: обследование, наблюдение и хирургия"
+      },
+      "rows": [
+        {
+          "id": "r01-baseline-tte-mri",
+          "text": {
+            "en": "In patients with Turner syndrome, TTE and cardiac MRI are recommended at the time of diagnosis to evaluate for BAV, aortic root and ascending aortic dilation, aortic coarctation, and other congenital heart defects.",
+            "ru": "У пациентов с синдромом Тёрнера рекомендуется проведение ТТЭхоКГ и МРТ сердца на момент постановки диагноза для исключения ДАК, дилатации корня и восходящей аорты, коарктации аорты и других врождённых пороков сердца."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9]
+        },
+        {
+          "id": "r02-asi-risk-assessment",
+          "text": {
+            "en": "In patients with Turner syndrome who are ≥15 years old, the use of the ASI (ratio of aortic diameter [cm] to BSA [m2]) is recommended to define the degree of aortic dilation and assess the risk of aortic dissection.",
+            "ru": "У пациентов с синдромом Тёрнера в возрасте ≥15 лет рекомендуется использование индекса размера аорты (ASI: отношение диаметра аорты [см] к ППТ [м²]) для определения степени дилатации аорты и оценки риска расслоения аорты."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [9, 10, 11]
+        },
+        {
+          "id": "r03-surveillance-interval-no-risk",
+          "text": {
+            "en": "In patients with Turner syndrome without risk factors for aortic dissection (Table 12), surveillance imaging with TTE or MRI to evaluate the aorta is recommended every 5 years in children and every 10 years in adults, as well as before planning a pregnancy.",
+            "ru": "У пациентов с синдромом Тёрнера без факторов риска расслоения аорты (Таблица 12) рекомендуется контрольная визуализация аорты с помощью ТТЭхоКГ или МРТ каждые 5 лет у детей и каждые 10 лет у взрослых, а также перед планированием беременности."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [9, 10, 11]
+        },
+        {
+          "id": "r04-asi-over-2-3-annual-imaging",
+          "text": {
+            "en": "In patients with Turner syndrome and an ASI >2.3 cm/m2, surveillance imaging of the aorta is recommended at least annually.",
+            "ru": "У пациентов с синдромом Тёрнера при значении ASI >2,3 см/м² рекомендуется контрольная визуализация аорты не реже одного раза в год."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [9]
+        },
+        {
+          "id": "r05-risk-factors-tailored-interval",
+          "text": {
+            "en": "In patients with Turner syndrome and risk factors for aortic dissection (Table 12), surveillance aortic imaging at an interval depending on the aortic diameter, ASI, and aortic growth rate is recommended (Figure 18).",
+            "ru": "У пациентов с синдромом Тёрнера при наличии факторов риска расслоения аорты (Таблица 12) рекомендуется контрольная визуализация аорты с интервалами, зависящими от диаметра аорты, ASI и скорости роста аорты (Рисунок 18)."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [9]
+        },
+        {
+          "id": "r06a-surgery-asi-2-5-with-risk",
+          "text": {
+            "en": "In patients with Turner syndrome who are ≥15 years old and have an ASI of ≥2.5 cm/m2 plus risk factors for aortic dissection (Table 12), surgical intervention to replace the aortic root, ascending aorta, or both is reasonable.",
+            "ru": "У пациентов с синдромом Тёрнера в возрасте ≥15 лет при ASI ≥2,5 см/м² в сочетании с факторами риска расслоения аорты (Таблица 12) целесообразно хирургическое вмешательство по протезированию корня аорты, восходящей аорты или обоих отделов."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [9, 10]
+        },
+        {
+          "id": "r06b-surgery-asi-2-5-no-risk",
+          "text": {
+            "en": "In those without risk factors for aortic dissection, surgical intervention to replace the aortic root, ascending aorta, or both may be considered.",
+            "ru": "У пациентов без факторов риска расслоения аорты может быть рассмотрено хирургическое вмешательство по протезированию корня аорты, восходящей аорты или обоих отделов."
+          },
+          "class": "IIb",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

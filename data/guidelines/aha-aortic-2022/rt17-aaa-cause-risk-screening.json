@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt17-aaa-cause-risk-screening",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 17",
+  "title": {
+    "en": "Recommendations for AAA: Cause, Risk Factors, and Screening",
+    "ru": "Рекомендации по АБА: причины, факторы риска и скрининг"
+  },
+  "tags": [
+    "aaa",
+    "abdominal-aortic-aneurysm",
+    "screening",
+    "ultrasound",
+    "smoking",
+    "age-65",
+    "first-degree-relatives",
+    "harm",
+    "no-benefit"
+  ],
+  "sections": [
+    {
+      "id": "sec-aaa-cause-risk-screening",
+      "title": {
+        "en": "AAA: Cause, Risk Factors, and Screening",
+        "ru": "АБА: причины, факторы риска и скрининг"
+      },
+      "rows": [
+        {
+          "id": "r01-men-65-smokers-ultrasound",
+          "text": {
+            "en": "In men who are ≥65 years of age who have ever smoked, ultrasound screening for detection of AAA is recommended.",
+            "ru": "Мужчинам в возрасте ≥65 лет с фактом курения в анамнезе рекомендуется ультразвуковой скрининг для выявления АБА."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1]
+        },
+        {
+          "id": "r02-first-degree-relatives-65",
+          "text": {
+            "en": "In men or women who are ≥65 years of age and who are first-degree relatives of patients with AAA, ultrasound screening for detection of AAA is recommended.",
+            "ru": "Мужчинам или женщинам в возрасте ≥65 лет, являющимся родственниками первой степени родства пациентов с АБА, рекомендуется ультразвуковой скрининг для выявления АБА."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [2, 3]
+        },
+        {
+          "id": "r03-women-65-smokers-ultrasound",
+          "text": {
+            "en": "In women who are ≥65 years of age who have ever smoked, ultrasound screening for detection of AAA is reasonable.",
+            "ru": "Женщинам в возрасте ≥65 лет с фактом курения в анамнезе целесообразен ультразвуковой скрининг для выявления АБА."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": [4, 5]
+        },
+        {
+          "id": "r04-under-65-multiple-risk-factors",
+          "text": {
+            "en": "In men or women <65 years of age and who have multiple risk factors (Table 15) or a first-degree relative with AAA, ultrasound screening for AAA may be considered.",
+            "ru": "Мужчинам или женщинам в возрасте <65 лет при наличии множественных факторов риска (Таблица 15) или родственника первой степени родства с АБА может быть рассмотрен ультразвуковой скрининг на АБА."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [5, 6]
+        },
+        {
+          "id": "r05-asymptomatic-over-75-repeat-screening",
+          "text": {
+            "en": "In asymptomatic men or women >75 years who have had a negative initial ultrasound screen, repeat screening for detection of AAA is not recommended.",
+            "ru": "Бессимптомным мужчинам или женщинам в возрасте >75 лет с отрицательным результатом первичного ультразвукового скрининга повторный скрининг на АБА не рекомендуется."
+          },
+          "class": "III-no-benefit",
+          "level": "B-NR",
+          "refs": [1]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

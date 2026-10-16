@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t32-palliative-supportive-care-domains",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 32",
+  "type": "grid",
+  "title": {
+    "en": "Palliative and Supportive Care Domains to Improve Processes of Care and Patient Outcomes",
+    "ru": "Домены паллиативной и поддерживающей помощи для оптимизации лечебного процесса и улучшения исходов"
+  },
+  "tags": [
+    "palliative-care",
+    "supportive-care",
+    "end-of-life",
+    "communication",
+    "prognosis",
+    "goals-of-care",
+    "shared-decision-making",
+    "symptom-management",
+    "caregiver-support"
+  ],
+  "columns": [
+    {
+      "id": "c_domain",
+      "title": { "en": "Palliative and Supportive Domains of Care", "ru": "Домен паллиативной и поддерживающей помощи" }
+    },
+    {
+      "id": "c_contribution",
+      "title": { "en": "What Palliative Care Adds to Overall HF Management", "ru": "Вклад паллиативной помощи в комплексное ведение СН" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "dom-01-communication",
+      "cells": [
+        {
+          "text": {
+            "en": "High-quality communication",
+            "ru": "Высококачественная коммуникация"
+          }
+        },
+        {
+          "text": {
+            "en": "Central to palliative care approaches are communication and patient-caregiver engagement techniques.16",
+            "ru": "Ключевое место в паллиативных подходах занимают навыки продуктивной доверительной коммуникации и вовлечения пациента и ухаживающих лиц.16"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dom-02-prognosis",
+      "cells": [
+        {
+          "text": {
+            "en": "Conveyance of prognosis",
+            "ru": "Информирование о прогнозе заболевания"
+          }
+        },
+        {
+          "text": {
+            "en": "Palliative care specifically addresses patient and caregiver understanding of disease, treatment, and prognosis. Research suggests that patients tend to overestimate their survival17 and overestimate the potential benefits of treatment.18 Objective risk models can calibrate expectations, but discussion of uncertainty should accompany prognostic conversations, often summarized as \"hope for the best, plan for the worst.\"",
+            "ru": "Паллиативная помощь специально ориентирована на понимание пациентом и близкими сути болезни, терапии и прогноза. Пациенты склонны переоценивать выживаемость17 и ожидаемую пользу лечения.18 Объективные модели риска позволяют откалибровать ожидания, а обсуждение неопределенности формулируется принципом: «надеяться на лучшее, быть готовым к худшему»."
+          }
+        }
+      ]
+    },
+    {
+      "id": "dom-03-goals-of-care",
+      "cells": [
+        {
+          "text": {
+            "en": "Clarifying goals of care",
+            "ru": "Уточнение целей медицинской помощи"
+          }
+        },
+        {
+          "text": {
+            "en": "Management of patients with HF as their disease becomes end-stage and death seems near includes decisions about when to discontinue treatments designed primarily to prolong life (eg, ICD, hospitalization, tube feeding), decisions on when to initiate treatments to reduce pain and suffering that may hasten death (eg, narcotics), and decisions about the location of death, home services, and hospice care. Exploring patients' expressed preferences, values, needs, concerns, means and desires through clinician-led discussion can clarify values-treatment concordance and improve medical decision-making.12",
+            "ru": "Ведение терминальных пациентов включает решения о деактивации жизнепродлевающих вмешательств (деактивация ИКД, отказ от госпитализаций, зондового питания), начале симптоматической терапии боли и страданий (опиоиды), выборе места завершения жизни и хосписа. Обсуждение ценностей и предпочтений обеспечивает согласие между приоритетами больного и лечебной тактикой.12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dom-04-shared-decision",
+      "cells": [
+        {
+          "text": {
+            "en": "Shared decision-making",
+            "ru": "Совместное принятие решений"
+          }
+        },
+        {
+          "text": {
+            "en": "Shared decision-making is a process by which patients and clinicians work together to make optimal health care decisions from medically reasonable options that align with what matters most to patients. Shared decision-making requires: unbiased medical evidence about the risks, benefits, and burdens of each alternative, including no intervention; clinician expertise in communication and tailoring that evidence for individual patients; and patient goals and informed preferences.19",
+            "ru": "Процесс совместного выбора оптимального решения из клинически обоснованных вариантов, согласующихся с приоритетами пациента. Требует: объективных данных о пользе, рисках и бремени каждой альтернативы (включая отказ от вмешательств); мастерства коммуникации врача; учета личных целей и информированных предпочтений пациента.19"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dom-05-symptom-management",
+      "cells": [
+        {
+          "text": {
+            "en": "Symptom management",
+            "ru": "Контроль и облегчение симптомов"
+          }
+        },
+        {
+          "text": {
+            "en": "Dyspnea, fatigue, pain, nausea, depression, anxiety, and other symptoms of HF refractory to cardiovascular therapies can be partially remediated through palliative and supportive approaches in addition to GDMT.1",
+            "ru": "Одышка, утомляемость, боль, тошнота, депрессия, тревога и другие симптомы СН, рефрактерные к стандартной кардиотропной терапии, могут быть существенно уменьшены паллиативными методами в дополнение к GDMT.1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dom-06-caregiver-support",
+      "cells": [
+        {
+          "text": {
+            "en": "Caregiver support",
+            "ru": "Поддержка ухаживающих лиц (семьи)"
+          }
+        },
+        {
+          "text": {
+            "en": "Care of the patient with heart failure should extend to their loved ones, including beyond their death, to offer support to families and help them cope with loss.",
+            "ru": "Забота о пациенте с СН должна распространяться на его близких, включая период после ухода из жизни, обеспечивая поддержку семье и помощь в преодолении утраты."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "GDMT indicates guideline-directed medical therapy; HF, heart failure; and ICD, implantable cardioverter-defibrillator.",
+      "ru": "GDMT — терапия по клиническим руководствам; HF (СН) — сердечная недостаточность; ICD (ИКД) — имплантируемый кардиовертер-дефибриллятор."
+    }
+  }
+}

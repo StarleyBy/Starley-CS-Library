@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt32-endovascular-vs-open-descending-taa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 32",
+  "title": {
+    "en": "Recommendations for Endovascular Versus Open Repair of Descending TAA",
+    "ru": "Рекомендации по эндоваскулярному в сравнении с открытым протезированием нисходящей грудной аорты"
+  },
+  "tags": [
+    "taa",
+    "descending-aorta",
+    "tevar",
+    "open-repair",
+    "vascular-access",
+    "comparative"
+  ],
+  "sections": [
+    {
+      "id": "sec-endovascular-vs-open-descending-taa",
+      "title": {
+        "en": "Endovascular Versus Open Repair of Descending TAA",
+        "ru": "Эндоваскулярное протезирование в сравнении с открытой операцией при аневризме нисходящей грудной аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-tevar-recommended-over-open",
+          "text": {
+            "en": "In patients without Marfan syndrome, Loeys-Dietz syndrome, or vascular Ehlers-Danlos syndrome, who have a descending TAA that meets criteria for intervention and anatomy suitable for endovascular repair, TEVAR is recommended over open surgery.",
+            "ru": "У пациентов без синдрома Марфана, синдрома Лойса–Дитца или сосудистого типа синдрома Элерса–Данлоса, имеющих аневризму нисходящей грудной аорты, соответствующую критериям вмешательства, и анатомию, пригодную для эндоваскулярного протезирования, рекомендуется TEVAR предпочтительнее открытой операции."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-alternative-vascular-access",
+          "text": {
+            "en": "In patients with a descending TAA that meets criteria for repair with TEVAR, who have smaller or diseased access vessels, considerations for alternative vascular access are recommended.",
+            "ru": "У пациентов с аневризмой нисходящей грудной аорты, соответствующей критериям TEVAR, но имеющих малый диаметр или поражение сосудов доступа, рекомендуются варианты альтернативного сосудистого доступа."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [5]
+        },
+        {
+          "id": "r03-unsuitable-tevar-open-repair",
+          "text": {
+            "en": "In patients with a descending TAA that meets criteria for intervention, who have anatomy unsuitable for endovascular repair, and who are without significant comorbidities and have a life expectancy of at least 10 years, open surgical repair is reasonable.",
+            "ru": "У пациентов с аневризмой нисходящей грудной аорты, соответствующей критериям вмешательства, но имеющих анатомию, непригодную для эндоваскулярного лечения, без тяжелой сопутствующей патологии и с ожидаемой продолжительностью жизни не менее 10 лет, целесообразно открытое хирургическое вмешательство."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [6, 7, 8, 9]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t30-high-risk-imaging-features-imh",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 30",
+  "type": "grid",
+  "title": {
+    "en": "High-Risk Imaging Features of IMH",
+    "ru": "Признаки высокого риска при визуализации интрамуральной гематомы (IMH)"
+  },
+  "tags": [
+    "imh",
+    "intramural-hematoma",
+    "high-risk-imaging",
+    "type-a-imh",
+    "type-b-imh",
+    "ulcer-like-projection",
+    "hematoma-thickness"
+  ],
+  "columns": [
+    {
+      "id": "for_type_a_imh",
+      "title": {
+        "en": "For Type A IMH",
+        "ru": "При IMH типа A"
+      }
+    },
+    {
+      "id": "for_type_b_imh",
+      "title": {
+        "en": "For Type B IMH",
+        "ru": "При IMH типа B"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "max-aortic-diameter",
+      "cells": [
+        {
+          "text": {
+            "en": "Maximum aortic diameter >45–50 mm",
+            "ru": "Максимальный диаметр аорты >45–50 мм"
+          }
+        },
+        {
+          "text": {
+            "en": "Maximum aortic diameter >47–50 mm",
+            "ru": "Максимальный диаметр аорты >47–50 мм"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hematoma-thickness",
+      "cells": [
+        {
+          "text": {
+            "en": "Hematoma thickness ≥10 mm",
+            "ru": "Толщина гематомы ≥10 мм"
+          }
+        },
+        {
+          "text": {
+            "en": "Hematoma thickness ≥13 mm",
+            "ru": "Толщина гематомы ≥13 мм"
+          }
+        }
+      ]
+    },
+    {
+      "id": "focal-intimal-disruption",
+      "cells": [
+        {
+          "text": {
+            "en": "Focal intimal disruption with ulcer-like projection involving ascending aorta or arch",
+            "ru": "Очаговый разрыв интимы с язвоподобным выпячиванием в восходящей аорте или дуге"
+          }
+        },
+        {
+          "text": {
+            "en": "Focal intimal disruption with ulcer-like projection involving the descending thoracic aorta if it develops in acute phase",
+            "ru": "Очаговый разрыв интимы с язвоподобным выпячиванием в нисходящей грудной аорте при возникновении в острой фазе"
+          }
+        }
+      ]
+    },
+    {
+      "id": "effusion",
+      "cells": [
+        {
+          "text": {
+            "en": "Pericardial effusion on admission",
+            "ru": "Перикардиальный выпот при поступлении"
+          }
+        },
+        {
+          "text": {
+            "en": "Increasing or recurrent pleural effusion",
+            "ru": "Нарастающий или рецидивирующий плевральный выпот"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-both-type-a-and-type-b-imh",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**For Both Type A and Type B IMH**",
+            "ru": "**При IMH как типа A, так и типа B**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "progression-to-aortic-dissection",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "Progression to aortic dissection",
+            "ru": "Трансформация в расслоение аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "increasing-aortic-diameter",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "Increasing aortic diameter",
+            "ru": "Увеличение диаметра аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "increasing-hematoma-thickness",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "Increasing hematoma thickness",
+            "ru": "Нарастание толщины гематомы"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

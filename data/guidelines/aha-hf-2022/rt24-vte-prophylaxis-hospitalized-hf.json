@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt24-vte-prophylaxis-hospitalized-hf",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendation for VTE Prophylaxis in Hospitalized Patients",
+  "title": {
+    "en": "Recommendation for VTE Prophylaxis in Hospitalized Patients",
+    "ru": "Рекомендации по профилактике ВТЭО у госпитализированных пациентов"
+  },
+  "tags": [
+    "vte",
+    "thromboprophylaxis",
+    "anticoagulation",
+    "hospitalization",
+    "adhf",
+    "acute-hf",
+    "dvt",
+    "pe"
+  ],
+  "sections": [
+    {
+      "id": "sec-vte-prophylaxis",
+      "title": {
+        "en": "VTE Prophylaxis in Hospitalized Patients",
+        "ru": "Профилактика венозных тромбоэмболических осложнений у госпитализированных пациентов"
+      },
+      "rows": [
+        {
+          "id": "r01-vte-prophylaxis-prevention",
+          "text": {
+            "en": "In patients hospitalized with HF, prophylaxis for VTE is recommended to prevent venous thromboembolic disease.",
+            "ru": "У пациентов, госпитализированных с СН, рекомендована профилактика ВТЭО для предотвращения венозной тромбоэмболии."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3]
+        }
+      ]
+    }
+  ]
+}

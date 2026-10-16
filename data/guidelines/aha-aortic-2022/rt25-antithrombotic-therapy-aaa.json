@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt25-antithrombotic-therapy-aaa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 25",
+  "title": {
+    "en": "Recommendation for Antithrombotic Therapy in AAA",
+    "ru": "Рекомендация по антитромботической терапии при аневризме брюшной аорты (АБА)"
+  },
+  "tags": [
+    "antithrombotic",
+    "aspirin",
+    "aaa",
+    "atherosclerosis",
+    "atheroma",
+    "pau",
+    "abdominal-aorta"
+  ],
+  "sections": [
+    {
+      "id": "sec-antithrombotic-therapy-aaa",
+      "title": {
+        "en": "Antithrombotic Therapy in AAA",
+        "ru": "Антитромботическая терапия при АБА"
+      },
+      "rows": [
+        {
+          "id": "r01-aspirin-atheroma-pau",
+          "text": {
+            "en": "In patients with AAA with concomitant atheroma and/or PAU, the use of low-dose aspirin may be considered, unless contraindicated.",
+            "ru": "У пациентов с АБА и сопутствующей атеромой и/или пенетрирующей атеросклеротической язвой (PAU) может быть рассмотрено применение низких доз аспирина при отсутствии противопоказаний."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [1]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

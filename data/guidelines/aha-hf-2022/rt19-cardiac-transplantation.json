@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt19-cardiac-transplantation",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendation for Cardiac Transplantation",
+  "title": {
+    "en": "Recommendation for Cardiac Transplantation",
+    "ru": "Рекомендации по трансплантации сердца"
+  },
+  "tags": [
+    "transplantation",
+    "heart-transplant",
+    "advanced-hf",
+    "stage-d",
+    "gdmt",
+    "economic-value",
+    "intermediate-value"
+  ],
+  "sections": [
+    {
+      "id": "sec-cardiac-transplantation",
+      "title": {
+        "en": "Recommendation for Cardiac Transplantation",
+        "ru": "Рекомендации по трансплантации сердца"
+      },
+      "rows": [
+        {
+          "id": "r01-cardiac-transplantation-indication",
+          "text": {
+            "en": "For selected patients with advanced HF despite GDMT, cardiac transplantation is indicated to improve survival and QOL.",
+            "ru": "У отобранных пациентов с продвинутой СН, несмотря на GDMT, показана трансплантация сердца для улучшения выживаемости и качества жизни."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-cardiac-transplantation-economic-value",
+          "text": {
+            "en": "In patients with stage D (advanced) HF despite GDMT, cardiac transplantation provides intermediate economic value.",
+            "ru": "У пациентов со стадией D (продвинутой) СН, несмотря на GDMT, трансплантация сердца обеспечивает промежуточную экономическую ценность."
+          },
+          "class": "Value-Intermediate",
+          "level": "C-LD",
+          "refs": [4]
+        }
+      ]
+    }
+  ]
+}

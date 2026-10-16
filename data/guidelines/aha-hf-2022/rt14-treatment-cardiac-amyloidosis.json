@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt14-treatment-cardiac-amyloidosis",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Treatment of Cardiac Amyloidosis",
+  "title": {
+    "en": "Recommendations for Treatment of Cardiac Amyloidosis",
+    "ru": "Рекомендации по лечению амилоидоза сердца"
+  },
+  "tags": [
+    "amyloidosis",
+    "attr",
+    "tafamidis",
+    "tetramer-stabilizer",
+    "anticoagulation",
+    "atrial-fibrillation",
+    "cha2ds2-vasc",
+    "low-value",
+    "economic-value",
+    "treatment"
+  ],
+  "sections": [
+    {
+      "id": "sec-treatment-amyloidosis",
+      "title": {
+        "en": "Medical Therapy and Management in Cardiac Amyloidosis",
+        "ru": "Медикаментозная терапия и ведение пациентов с амилоидозом сердца"
+      },
+      "rows": [
+        {
+          "id": "r01-tafamidis-attr-indication",
+          "text": {
+            "en": "In select patients with wild-type or variant transthyretin cardiac amyloidosis and NYHA class I to III HF symptoms, transthyretin tetramer stabilizer therapy (tafamidis) is indicated to reduce cardiovascular morbidity and mortality.",
+            "ru": "У отобранных пациентов с транстиретиновым амилоидозом сердца дикого или вариантного (наследственного) типа и симптомами СН I–III ФК по NYHA терапия стабилизатором тетрамера транстиретина (тафамидис) показана для снижения сердечно-сосудистой заболеваемости и смертности."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1]
+        },
+        {
+          "id": "r02-tafamidis-low-value",
+          "text": {
+            "en": "At 2020 list prices, tafamidis provides low economic value (>$180 000 per QALY gained) in patients with HF with wild-type or variant transthyretin cardiac amyloidosis.",
+            "ru": "В прейскурантных ценах 2020 года тафамидис обеспечивает низкую экономическую ценность (>$180 000 за добавленный год качественной жизни [QALY]) у пациентов с СН при транстиретиновом амилоидозе сердца дикого или вариантного типа."
+          },
+          "class": "Value-Low",
+          "level": "B-NR",
+          "refs": [2]
+        },
+        {
+          "id": "r03-anticoagulation-amyloid-af",
+          "text": {
+            "en": "In patients with cardiac amyloidosis and AF, anticoagulation is reasonable to reduce the risk of stroke regardless of the CHA₂DS₂-VASc (congestive heart failure, hypertension, age ≥75 years, diabetes mellitus, stroke or transient ischemic attack [TIA], vascular disease, age 65 to 74 years, sex category) score.",
+            "ru": "У пациентов с амилоидозом сердца и ФП антикоагулянтная терапия целесообразна для снижения риска инсульта независимо от суммы баллов по шкале CHA₂DS₂-VASc."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

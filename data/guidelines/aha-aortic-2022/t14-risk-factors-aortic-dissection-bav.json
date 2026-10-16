@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t14-risk-factors-aortic-dissection-bav",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 14",
+  "type": "grid",
+  "title": {
+    "en": "Risk Factors for Aortic Dissection",
+    "ru": "Факторы риска расслоения аорты (при ДАК)"
+  },
+  "tags": [
+    "bav",
+    "aortic-dissection",
+    "risk-factors",
+    "growth-rate",
+    "coarctation",
+    "root-phenotype",
+    "family-history"
+  ],
+  "columns": [
+    {
+      "id": "factor",
+      "title": {
+        "en": "Risk Factors for Aortic Dissection",
+        "ru": "Факторы риска расслоения аорты"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "family-history-dissection",
+      "cells": [
+        {
+          "text": {
+            "en": "Family history of aortic dissection",
+            "ru": "Семейный анамнез расслоения аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "growth-rate-0-3",
+      "cells": [
+        {
+          "text": {
+            "en": "Aortic growth rate ≥0.3 cm/y",
+            "ru": "Скорость роста аорты ≥0,3 см/год"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aortic-coarctation",
+      "cells": [
+        {
+          "text": {
+            "en": "Aortic coarctation",
+            "ru": "Коарктация аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "root-phenotype-aortopathy",
+      "cells": [
+        {
+          "text": {
+            "en": "\"Root phenotype\" aortopathy",
+            "ru": "Аортопатия с преимущественным поражением корня («root phenotype»)"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

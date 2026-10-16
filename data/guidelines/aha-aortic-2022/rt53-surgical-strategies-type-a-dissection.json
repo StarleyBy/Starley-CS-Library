@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt53-surgical-strategies-type-a-dissection",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 53",
+  "title": {
+    "en": "Recommendations for Surgical Repair Strategies in Acute Type A Aortic Dissection",
+    "ru": "Рекомендации по тактике хирургической реконструкции при остром расслоении аорты типа А"
+  },
+  "tags": [
+    "type-a-dissection",
+    "acute-dissection",
+    "surgical-repair",
+    "aortic-valve-resuspension",
+    "valved-conduit",
+    "valve-sparing-root-repair",
+    "open-distal-anastomosis",
+    "hemiarch",
+    "antegrade-stenting",
+    "axillary-cannulation",
+    "cerebral-perfusion",
+    "innominate-artery"
+  ],
+  "sections": [
+    {
+      "id": "sec-aortic-repair-strategies",
+      "title": {
+        "en": "Aortic Repair Strategies",
+        "ru": "Тактика реконструкции аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-aortic-valve-resuspension",
+          "text": {
+            "en": "In patients with acute type A aortic dissection and a partially dissected aortic root but no significant aortic valve leaflet pathology, aortic valve resuspension is recommended over valve replacement.",
+            "ru": "У пациентов с острым расслоением аорты типа А и частичным расслоением корня аорты при отсутствии значимой патологии створок аортального клапана рекомендуется ресуспензия аортального клапана предпочтительнее его протезирования."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-aortic-root-replacement-valved-conduit",
+          "text": {
+            "en": "In patients with acute type A aortic dissection who have extensive destruction of the aortic root, a root aneurysm, or a known genetic aortic disorder, aortic root replacement is recommended with a mechanical or biological valved conduit.",
+            "ru": "У пациентов с острым расслоением аорты типа А с обширным разрушением корня аорты, аневризмой корня или установленным генетическим заболеванием аорты рекомендуется протезирование корня аорты механическим или биологическим клапансодержащим кондуитом."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [5, 6, 7, 8, 9]
+        },
+        {
+          "id": "r03-valve-sparing-root-repair",
+          "text": {
+            "en": "In selected patients who are stable, valve-sparing root repair may be reasonable, when performed by experienced surgeons in a Multidisciplinary Aortic Team.",
+            "ru": "У отдельных стабильных пациентов клапаносохраняющая реконструкция корня аорты может быть обоснована при выполнении опытными хирургами в составе мультидисциплинарной аортальной бригады."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [10, 11]
+        },
+        {
+          "id": "r04-open-distal-anastomosis",
+          "text": {
+            "en": "In patients with acute type A aortic dissection undergoing aortic repair, an open distal anastomosis is recommended to improve survival and increase false-lumen thrombosis rates.",
+            "ru": "У пациентов с острым расслоением аорты типа А, перенесших операцию на аорте, рекомендуется формирование открытого дистального анастомоза для повышения выживаемости и увеличения частоты тромбирования ложного просвета."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [12, 13, 14, 15]
+        },
+        {
+          "id": "r05-hemiarch-repair",
+          "text": {
+            "en": "In patients with acute type A aortic dissection without an intimal tear in the arch or a significant arch aneurysm, hemiarch repair is recommended over more extensive arch replacement.",
+            "ru": "У пациентов с острым расслоением аорты типа А без разрыва интимы в дуге или значимой аневризмы дуги рекомендуется операция Hemiarch (гемидуга) предпочтительнее более расширенного протезирования дуги."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [16, 17, 18]
+        },
+        {
+          "id": "r06-antegrade-stenting-proximal-descending-thoracic-aorta",
+          "text": {
+            "en": "In patients with acute type A aortic dissection and a dissection flap extending through the arch into the descending thoracic aorta, an extended aortic repair with antegrade stenting of the proximal descending thoracic aorta may be considered to treat malperfusion and reduce late distal aortic complications.",
+            "ru": "У пациентов с острым расслоением аорты типа А и лоскутом расслоения, распространяющимся через дугу в нисходящую грудную аорту, может быть рассмотрена расширенная реконструкция аорты с антеградным стентированием проксимального отдела нисходящей грудной аорты для устранения мальперфузии и снижения риска отдаленных дистальных аортальных осложнений."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [19, 20]
+        }
+      ]
+    },
+    {
+      "id": "sec-perfusion-cannulation-strategies",
+      "title": {
+        "en": "Perfusion and Cannulation Strategies",
+        "ru": "Тактика перфузии и канюляции"
+      },
+      "rows": [
+        {
+          "id": "r07-axillary-cannulation",
+          "text": {
+            "en": "In patients with acute type A aortic dissection undergoing surgical repair, axillary cannulation, when feasible, is reasonable over femoral cannulation to reduce the risk of stroke or retrograde malperfusion.",
+            "ru": "У пациентов с острым расслоением аорты типа А при выполнении хирургического вмешательства, если это технически возможно, канюляция подмышечной артерии предпочтительнее бедренной канюляции для снижения риска инсульта или ретроградной мальперфузии."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [21, 22]
+        },
+        {
+          "id": "r08-cerebral-perfusion",
+          "text": {
+            "en": "In patients with acute type A aortic dissection undergoing surgical repair who require circulatory arrest, cerebral perfusion is reasonable to improve neurologic outcomes.",
+            "ru": "У пациентов с острым расслоением аорты типа А, которым выполняется хирургическое вмешательство с остановкой кровообращения, целесообразна перфузия головного мозга для улучшения неврологических исходов."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [23, 24, 25]
+        },
+        {
+          "id": "r09-direct-aortic-innominate-cannulation",
+          "text": {
+            "en": "In patients with acute type A aortic dissection undergoing surgical repair, direct aortic or innominate artery cannulation with imaging guidance is reasonable as an alternative to femoral or axillary cannulation.",
+            "ru": "У пациентов с острым расслоением аорты типа А при хирургическом вмешательстве прямая канюляция аорты или брахиоцефального ствола (под визуализационным контролем) целесообразна в качестве альтернативы бедренной или подмышечной канюляции."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [26, 27, 28, 29, 30, 31]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

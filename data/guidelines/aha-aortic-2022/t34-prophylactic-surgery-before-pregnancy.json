@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t34-prophylactic-surgery-before-pregnancy",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 34",
+  "type": "grid",
+  "title": {
+    "en": "Prophylactic Aortic Surgery Before Pregnancy in Women With Aortopathic Conditions",
+    "ru": "Профилактическое хирургическое лечение аорты перед беременностью у женщин с аортопатиями"
+  },
+  "tags": [
+    "pregnancy",
+    "prophylactic-surgery",
+    "marfan",
+    "loeys-dietz",
+    "nshtad",
+    "turner-syndrome",
+    "bav",
+    "surgical-threshold"
+  ],
+  "columns": [
+    {
+      "id": "condition",
+      "title": {
+        "en": "Condition",
+        "ru": "Заболевание / состояние"
+      }
+    },
+    {
+      "id": "surgical_threshold",
+      "title": {
+        "en": "Surgical Threshold Before Pregnancy^[a] by Aortic Diameter (cm) or Aortic Size Index (cm/m²)",
+        "ru": "Порог для хирургического лечения перед беременностью^[a] по диаметру аорты (см) или индексу размера аорты (см/м²)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "marfan-syndrome",
+      "cells": [
+        {
+          "text": {
+            "en": "Marfan syndrome",
+            "ru": "Синдром Марфана"
+          }
+        },
+        {
+          "tone": "green",
+          "text": {
+            "en": ">4.5 cm",
+            "ru": ">4,5 см"
+          }
+        }
+      ]
+    },
+    {
+      "id": "marfan-syndrome-risk-factors",
+      "cells": [
+        {
+          "text": {
+            "en": "Marfan syndrome with risk factors (rapid aortic growth of ≥0.3 cm/y; family history of aortic dissection)",
+            "ru": "Синдром Марфана с факторами риска (быстрый рост аорты ≥0,3 см/год; семейный анамнез расслоения аорты)"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "4.0–4.5 cm",
+            "ru": "4,0–4,5 см"
+          }
+        }
+      ]
+    },
+    {
+      "id": "loeys-dietz-tgfbr1-tgfbr2-smad3",
+      "cells": [
+        {
+          "text": {
+            "en": "Loeys-Dietz syndrome (attributable to pathogenic variants in *TGFBR1*, *TGFBR2*, or *SMAD3*)",
+            "ru": "Синдром Лойса-Дитца (обусловленный патогенными вариантами в генах *TGFBR1*, *TGFBR2* или *SMAD3*)"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "≥4.0 cm",
+            "ru": "≥4,0 см"
+          }
+        }
+      ]
+    },
+    {
+      "id": "loeys-dietz-tgfb2-tgfb3",
+      "cells": [
+        {
+          "text": {
+            "en": "Loeys-Dietz syndrome (attributable to pathogenic variants in *TGFB2* or *TGFB3*)",
+            "ru": "Синдром Лойса-Дитца (обусловленный патогенными вариантами в генах *TGFB2* или *TGFB3*)"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "≥4.5 cm",
+            "ru": "≥4,5 см"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nshtad",
+      "cells": [
+        {
+          "text": {
+            "en": "Nonsyndromic heritable thoracic aortic disease",
+            "ru": "Несиндромальные наследственные заболевания грудной аорты (nsHTAD)"
+          }
+        },
+        {
+          "tone": "green",
+          "text": {
+            "en": "≥4.5 cm^[b]",
+            "ru": "≥4,5 см^[b]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "turner-syndrome",
+      "cells": [
+        {
+          "text": {
+            "en": "Turner syndrome",
+            "ru": "Синдром Тернера"
+          }
+        },
+        {
+          "tone": "green",
+          "text": {
+            "en": "≥2.5 cm/m²",
+            "ru": "≥2,5 см/м²"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bicuspid-aortic-valve",
+      "cells": [
+        {
+          "text": {
+            "en": "Bicuspid aortic valve",
+            "ru": "Двустворчатый аортальный клапан (ДАК)"
+          }
+        },
+        {
+          "tone": "green",
+          "text": {
+            "en": "≥5.0 cm^[c]",
+            "ru": "≥5,0 см^[c]"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Shared decision-making is required to determine the surgical threshold before elective aortic root, ascending aortic surgery, or both and is informed by the condition, specific pathogenic variant, age, body size, aortic growth rate, phenotype, and family history of aortic dissection, and surgery at smaller aortic diameters may be considered depending on individual circumstances.",
+      "ru": "Для определения хирургического порога перед плановым вмешательством на корне и/или восходящей аорте требуется совместное принятие решений с учетом конкретного заболевания, патогенного варианта, возраста, размеров тела, скорости роста аорты, фенотипа и семейного анамнеза расслоения аорты; при индивидуальных обстоятельствах операция может рассматриваться при меньших диаметрах."
+    },
+    "b": {
+      "en": "Aortic dissection related to pregnancy has occurred at small aortic diameters in women with *ACTA2* and *MYLK* pathogenic variants. Prophylactic aortic surgery before pregnancy at smaller aortic diameters may be reasonable in these conditions and other nonsyndromic heritable thoracic aortic disease and may be informed by the molecular diagnosis, family history, and aortic growth rate.",
+      "ru": "Расслоение аорты, связанное с беременностью, наблюдалось при небольших диаметрах аорты у женщин с патогенными вариантами в генах *ACTA2* и *MYLK*. Профилактическая операция на аорте перед беременностью при меньших диаметрах может быть обоснована при этих состояниях и других nsHTAD с учетом молекулярно-генетического диагноза, семейного анамнеза и скорости роста аорты."
+    },
+    "c": {
+      "en": "Prophylactic aortic surgery may be considered at smaller aortic diameters depending on body size, aortic growth rate, and family history.",
+      "ru": "Профилактическая операция на аорте может рассматриваться при меньших диаметрах в зависимости от размеров тела, скорости роста аорты и семейного анамнеза."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

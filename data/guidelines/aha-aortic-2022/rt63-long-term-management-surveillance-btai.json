@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt63-long-term-management-surveillance-btai",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 63",
+  "title": {
+    "en": "Recommendations for Long-Term Management and Surveillance After BTAI",
+    "ru": "Рекомендации по долгосрочному ведению и визуализирующему наблюдению после тупой травмы аорты (BTAI)"
+  },
+  "tags": [
+    "btai",
+    "blunt-trauma",
+    "surveillance",
+    "long-term-management",
+    "ct-imaging"
+  ],
+  "sections": [
+    {
+      "id": "sec-long-term-management-surveillance-btai",
+      "title": {
+        "en": "Long-Term Management and Surveillance After BTAI",
+        "ru": "Долгосрочное ведение и визуализирующее наблюдение после BTAI"
+      },
+      "rows": [
+        {
+          "id": "r01-repaired-btai-surveillance",
+          "text": {
+            "en": "In patients with BTAI who have undergone aortic repair, surveillance imaging at intervals appropriate for the repair approach and location (see Section 7.8, \"Long-Term Management and Surveillance Imaging Following AAS\") is reasonable.",
+            "ru": "У пациентов с BTAI, перенесших операцию на аорте, целесообразно визуализирующее наблюдение с интервалами, соответствующими типу вмешательства и локализации (см. Раздел 7.8 «Долгосрочное ведение и визуализирующее наблюдение после ОАС»)."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-unrepaired-btai-surveillance",
+          "text": {
+            "en": "In patients with BTAI who have not undergone repair, surveillance imaging with a CT at 1 month, 6 months, and 12 months after the diagnosis and, if stable, at appropriate intervals thereafter (depending on the type and extent of the injury), may be reasonable.",
+            "ru": "У пациентов с BTAI без хирургического вмешательства может быть обоснован визуализационный контроль с помощью КТ через 1, 6 и 12 месяцев после установления диагноза и, при стабильном состоянии, с соответствующими интервалами в дальнейшем (в зависимости от типа и распространенности повреждения)."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

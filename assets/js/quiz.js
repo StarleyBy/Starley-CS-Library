@@ -48,6 +48,7 @@ const state = {
     selectedTaxonomyTopics: new Set(),
     taxonomy: null
 };
+window.quizState = state;
 
 const PLAYLIST_ICONS_MAP = [
     { id: 1, icon: '📚', nameEn: 'Book', nameRu: 'Книга' },
@@ -975,8 +976,15 @@ function renderLatexInElement(el) {
 
 function _markdownToHtml(txt) {
     if (!txt) return '';
+    // Convert [text](url) markdown links
+    let html = txt.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (match, label, url) => {
+        const isTable = url.startsWith('#/tables/') || url.includes('#/tables/') || url.startsWith('#guidelines');
+        const targetAttr = isTable ? '' : ' target="_blank" rel="noopener"';
+        const cls = isTable ? 'quiz-table-link' : 'quiz-ext-link';
+        return `<a href="${url}" class="${cls}"${targetAttr}>${label}</a>`;
+    });
     // Convert **bold** to <strong>
-    let html = txt.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+    html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
     // Convert *italic* to <em>
     html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
     // Convert newlines to <br>

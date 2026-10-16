@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt23-parenteral-vasodilation-hospitalized-hf",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendation for Parenteral Vasodilation Therapy in Patients Hospitalized With HF",
+  "title": {
+    "en": "Recommendation for Parenteral Vasodilation Therapy in Patients Hospitalized With HF",
+    "ru": "Рекомендации по парентеральной вазодилатирующей терапии у пациентов, госпитализированных с сердечной недостаточностью"
+  },
+  "tags": [
+    "vasodilators",
+    "nitroglycerin",
+    "nitroprusside",
+    "adhf",
+    "acute-hf",
+    "hospitalization",
+    "dyspnea",
+    "parenteral"
+  ],
+  "sections": [
+    {
+      "id": "sec-parenteral-vasodilation",
+      "title": {
+        "en": "Parenteral Vasodilation Therapy in Patients Hospitalized With HF",
+        "ru": "Парентеральная вазодилатирующая терапия у пациентов, госпитализированных с СН"
+      },
+      "rows": [
+        {
+          "id": "r01-iv-nitroglycerin-nitroprusside",
+          "text": {
+            "en": "In patients who are admitted with decompensated HF, in the absence of systemic hypotension, intravenous nitroglycerin or nitroprusside may be considered as an adjuvant to diuretic therapy for relief of dyspnea.",
+            "ru": "У пациентов, госпитализированных с декомпенсированной СН, при отсутствии системной гипотензии внутривенный нитроглицерин или нитропруссид могут рассматриваться в качестве дополнения к диуретической терапии для облегчения одышки."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ]
+}

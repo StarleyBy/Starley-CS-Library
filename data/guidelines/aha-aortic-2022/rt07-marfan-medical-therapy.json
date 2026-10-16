@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt07-marfan-medical-therapy",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 7",
+  "title": {
+    "en": "Recommendations for Medical Therapy in Marfan Syndrome",
+    "ru": "Рекомендации по медикаментозной терапии при синдроме Марфана"
+  },
+  "tags": [
+    "marfan",
+    "medical-therapy",
+    "beta-blocker",
+    "arb",
+    "growth-rate",
+    "aortic-dilation"
+  ],
+  "sections": [
+    {
+      "id": "sec-marfan-medical-therapy",
+      "title": {
+        "en": "Medical Therapy in Marfan Syndrome",
+        "ru": "Медикаментозная терапия при синдроме Марфана"
+      },
+      "rows": [
+        {
+          "id": "r01-beta-blocker-or-arb-monotherapy",
+          "text": {
+            "en": "In patients with Marfan syndrome, treatment with either a beta blocker or an ARB, in maximally tolerated doses (unless contraindicated), is recommended to reduce the rate of aortic dilation.",
+            "ru": "У пациентов с синдромом Марфана рекомендуется терапия бета-блокатором или БРА в максимально переносимых дозах (при отсутствии противопоказаний) для снижения скорости дилатации аорты."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-beta-blocker-plus-arb-combination",
+          "text": {
+            "en": "In patients with Marfan syndrome, the use of both a beta blocker and an ARB, in maximally tolerated doses (unless contraindicated), is reasonable to reduce the rate of aortic dilation.",
+            "ru": "У пациентов с синдромом Марфана целесообразно совместное применение бета-блокатора и БРА в максимально переносимых дозах (при отсутствии противопоказаний) для снижения скорости дилатации аорты."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

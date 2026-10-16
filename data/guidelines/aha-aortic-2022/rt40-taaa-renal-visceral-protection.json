@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt40-taaa-renal-visceral-protection",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 40",
+  "title": {
+    "en": "Recommendations for TAAA Renal and Visceral Organ Protection",
+    "ru": "Рекомендации по защите почек и висцеральных органов при операциях по поводу торакоабдоминальной аневризмы аорты (ТААА)"
+  },
+  "tags": [
+    "taaa",
+    "renal-protection",
+    "visceral-protection",
+    "cold-perfusion",
+    "revascularization"
+  ],
+  "sections": [
+    {
+      "id": "sec-taaa-renal-visceral-protection",
+      "title": {
+        "en": "TAAA Renal and Visceral Organ Protection",
+        "ru": "Защита почек и висцеральных органов при ТААА"
+      },
+      "rows": [
+        {
+          "id": "r01-cold-perfusion-renal-protection",
+          "text": {
+            "en": "In patients undergoing open repair of TAAA involving the renal arteries, cold blood or crystalloid renal perfusion is recommended to provide effective protection against renal injury.",
+            "ru": "У пациентов, переносящих открытое протезирование ТААА с вовлечением почечных артерий, рекомендуется холодовая перфузия почек кровью или кристаллоидным раствором для эффективной защиты от повреждения почек."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r02-revascularization-visceral-renal-stenoses",
+          "text": {
+            "en": "In patients undergoing open or endovascular TAAA repair who have end-organ ischemia or significant stenoses from atherosclerotic visceral or renal artery disease, additional revascularization procedures are recommended.",
+            "ru": "У пациентов, переносящих открытое или эндоваскулярное протезирование ТААА, имеющих ишемию органов-мишеней или гемодинамически значимые стенозы при атеросклеротическом поражении висцеральных либо почечных артерий, рекомендуются дополнительные процедуры реваскуляризации."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

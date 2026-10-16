@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt31-palliative-supportive-care-end-of-life",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Palliative and Supportive Care, Shared Decision-Making, and End-of-Life",
+  "title": {
+    "en": "Recommendations for Palliative and Supportive Care, Shared Decision-Making, and End-of-Life",
+    "ru": "Рекомендации по паллиативной и поддерживающей помощи, совместному принятию решений и помощи в конце жизни"
+  },
+  "tags": [
+    "palliative-care",
+    "supportive-care",
+    "end-of-life",
+    "shared-decision-making",
+    "advance-directives",
+    "hospice",
+    "caregiver-support",
+    "qol",
+    "suffering"
+  ],
+  "sections": [
+    {
+      "id": "sec-palliative-supportive-care",
+      "title": {
+        "en": "Palliative and Supportive Care, Shared Decision-Making, and End-of-Life",
+        "ru": "Паллиативная и поддерживающая помощь, совместное принятие решений и помощь в конце жизни"
+      },
+      "rows": [
+        {
+          "id": "r01-palliative-care-all-hf",
+          "text": {
+            "en": "For all patients with HF, palliative and supportive care—including high-quality communication, conveyance of prognosis, clarifying goals of care, shared decision-making, symptom management, and caregiver support—should be provided to improve QOL and relieve suffering.",
+            "ru": "Всем пациентам с СН должна предоставляться паллиативная и поддерживающая помощь — включая качественную коммуникацию, разъяснение прогноза, уточнение целей лечения, совместное принятие решений, контроль симптомов и поддержку ухаживающих лиц — для улучшения качества жизни и облегчения страданий."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1]
+        },
+        {
+          "id": "r02-discontinuation-discussion-life-extending",
+          "text": {
+            "en": "For patients with HF being considered for, or treated with, life-extending therapies, the option for discontinuation should be anticipated and discussed through the continuum of care, including at the time of initiation, and reassessed with changing medical conditions and shifting goals of care.",
+            "ru": "У пациентов с СН, рассматриваемых для жизнепродлевающей терапии или получающих её, возможность её прекращения должна заблаговременно обсуждаться на всех этапах помощи, включая момент её начала, и пересматриваться при изменении состояния и целей лечения."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [2, 3]
+        },
+        {
+          "id": "r03-specialist-palliative-consultation",
+          "text": {
+            "en": "For patients with HF—particularly stage D HF patients being evaluated for advanced therapies, patients requiring inotropic support or temporary mechanical support, patients experiencing uncontrolled symptoms, major medical decisions, or multimorbidity, frailty, and cognitive impairment—specialist palliative care consultation can be useful to improve QOL and relieve suffering.",
+            "ru": "У пациентов с СН — в особенности при стадии D, при оценке для продвинутых методов лечения, потребности в инотропах или временной MCS, неконтролируемых симптомах, сложных решениях или мультиморбидности, астении и когнитивных нарушениях — консультация специалиста по паллиативной помощи полезна для улучшения качества жизни и облегчения страданий."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [4, 5, 6]
+        },
+        {
+          "id": "r04-advance-care-directives",
+          "text": {
+            "en": "For patients with HF, execution of advance care directives can be useful to improve documentation of treatment preferences, delivery of patient-centered care, and dying in preferred place.",
+            "ru": "У пациентов с СН оформление предварительных медицинских распоряжений (advance care directives) может быть полезным для документирования предпочтений лечения, оказания пациент-центрированной помощи и реализации права на завершение жизни в желаемом месте."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [7]
+        },
+        {
+          "id": "r05-timely-referral-to-hospice",
+          "text": {
+            "en": "In patients with advanced HF with expected survival <6 months, timely referral to hospice can be useful to improve QOL.",
+            "ru": "У пациентов с продвинутой СН и ожидаемой продолжительностью жизни менее 6 месяцев своевременное направление в хоспис может быть полезным для улучшения качества жизни."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [8]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t25-transitional-care-plan-components",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 25",
+  "type": "grid",
+  "title": {
+    "en": "Important Components of a Transitional Care Plan",
+    "ru": "Важнейшие компоненты плана переходного ведения пациента (Transitional Care Plan)"
+  },
+  "tags": [
+    "transitional-care",
+    "discharge-plan",
+    "gdmt-optimization",
+    "education",
+    "adherence",
+    "comorbidities",
+    "cardiac-rehabilitation",
+    "palliative-care"
+  ],
+  "columns": [
+    {
+      "id": "c_num",
+      "title": { "en": "№", "ru": "№" }
+    },
+    {
+      "id": "c_component",
+      "title": { "en": "Component of Transitional Care Plan", "ru": "Компонент плана переходного ведения" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "tcp-01-precipitating-causes",
+      "cells": [
+        { "text": { "en": "1", "ru": "1" } },
+        {
+          "text": {
+            "en": "Addressing any precipitating causes of worsening HF identified in the hospital;",
+            "ru": "Устранение любых причин ухудшения/декомпенсации СН, выявленных во время пребывания в стационаре;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tcp-02-adjusting-diuretics",
+      "cells": [
+        { "text": { "en": "2", "ru": "2" } },
+        {
+          "text": {
+            "en": "Adjusting diuretics based on volume status (including weight) and electrolytes;",
+            "ru": "Коррекция доз диуретиков на основе волемического статуса (включая динамику массы тела) и уровней электролитов сыворотки;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tcp-03-safety-lab-checks",
+      "cells": [
+        { "text": { "en": "3", "ru": "3" } },
+        {
+          "text": {
+            "en": "Coordination of safety laboratory checks (eg, electrolytes after initiation or intensification of GDMT);",
+            "ru": "Координация контрольных лабораторных исследований безопасности (например, контроль калия и креатинина после инициации или интенсификации GDMT);"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tcp-04-optimize-gdmt",
+      "cells": [
+        { "text": { "en": "4", "ru": "4" } },
+        {
+          "text": {
+            "en": "Further changes to optimize GDMT, including:\n• Plans for resuming medications held in the hospital;\n• Plans for initiating new medications;\n• Plans for titration of GDMT to goal doses as tolerated;",
+            "ru": "Дальнейшие шаги по оптимизации GDMT, включая:\n• План возобновления препаратов, временно отмененных в стационаре;\n• План инициации новых классов рекомендованных препаратов;\n• План постепенного титрования GDMT до целевых доз при переносимости;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tcp-05-education-adherence",
+      "cells": [
+        { "text": { "en": "5", "ru": "5" } },
+        {
+          "text": {
+            "en": "Reinforcing HF education and assessing compliance with medical therapy and lifestyle modifications, including dietary restrictions and physical activity;",
+            "ru": "Закрепление обучения пациента по вопросам СН и оценка приверженности медикаментозной терапии и модификации образа жизни, включая диетические ограничения (соль/жидкость) и физическую активность;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tcp-06-high-risk-characteristics",
+      "cells": [
+        { "text": { "en": "6", "ru": "6" } },
+        {
+          "text": {
+            "en": "Addressing high-risk characteristics that may be associated with poor post-discharge clinical outcomes, such as:\n• Comorbid conditions (eg, renal dysfunction, pulmonary disease, diabetes, mental health, and substance use disorders);\n• Limitations in psychosocial support;\n• Impaired health literacy, cognitive impairment;",
+            "ru": "Работа с факторами высокого риска неблагоприятных исходов после выписки, такими как:\n• Коморбидные состояния (почечная дисфункция, патология легких, сахарный диабет, психические расстройства и расстройства, связанные с употреблением психоактивных веществ);\n• Ограничения психосоциальной поддержки;\n• Сниженная медицинская грамотность, когнитивные нарушения;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tcp-07-surgery-rehab",
+      "cells": [
+        { "text": { "en": "7", "ru": "7" } },
+        {
+          "text": {
+            "en": "Additional surgical or device therapy, referral to cardiac rehabilitation in the future, where appropriate;",
+            "ru": "Рассмотрение дополнительного хирургического или аппаратного лечения, направление на программы кардиологической реабилитации в будущем (при наличии показаний);"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tcp-08-palliative-hospice",
+      "cells": [
+        { "text": { "en": "8", "ru": "8" } },
+        {
+          "text": {
+            "en": "Referral to palliative care specialists and/or enrollment in hospice in selected patients.",
+            "ru": "Направление к специалистам паллиативной помощи и/или оформление в хоспис у отобранных пациентов."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "GDMT indicates guideline-directed medical therapy; and HF, heart failure.",
+      "ru": "GDMT — медикаментозная терапия в соответствии с клиническими руководствами; HF (СН) — сердечная недостаточность."
+    }
+  }
+}

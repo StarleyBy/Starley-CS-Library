@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t22-shock-clinical-criteria",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 22",
+  "type": "grid",
+  "title": {
+    "en": "Suggested Shock Clinical Criteria",
+    "ru": "Предлагаемые клинические критерии кардиогенного шока"
+  },
+  "tags": [
+    "cardiogenic-shock",
+    "shock",
+    "clinical-criteria",
+    "hypotension",
+    "hypoperfusion",
+    "oliguria",
+    "lactate",
+    "vasopressors"
+  ],
+  "columns": [
+    {
+      "id": "c_domain",
+      "title": { "en": "Domain / Category", "ru": "Категория / Домен" }
+    },
+    {
+      "id": "c_criterion",
+      "title": { "en": "Clinical Criterion", "ru": "Клинический критерий" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "crit-01-sbp",
+      "cells": [
+        {
+          "text": {
+            "en": "Hypotension / Vasopressor Support",
+            "ru": "Артериальная гипотензия / Потребность в вазопрессорах"
+          }
+        },
+        {
+          "text": {
+            "en": "SBP <90 mm Hg for >30 min",
+            "ru": "САД <90 мм рт. ст. в течение >30 минут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "crit-02-map",
+      "cells": [
+        {
+          "text": {
+            "en": "Hypotension / Vasopressor Support",
+            "ru": "Артериальная гипотензия / Потребность в вазопрессорах"
+          }
+        },
+        {
+          "text": {
+            "en": "a. Or mean BP <60 mm Hg for >30 min",
+            "ru": "а. Или среднее АД <60 мм рт. ст. в течение >30 минут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "crit-03-vasopressor-req",
+      "cells": [
+        {
+          "text": {
+            "en": "Hypotension / Vasopressor Support",
+            "ru": "Артериальная гипотензия / Потребность в вазопрессорах"
+          }
+        },
+        {
+          "text": {
+            "en": "b. Or requirement of vasopressors to maintain systolic BP ≥90 mm Hg or mean BP ≥60 mm Hg",
+            "ru": "б. Или потребность в вазопрессорах для поддержания САД ≥90 мм рт. ст. либо среднего АД ≥60 мм рт. ст."
+          }
+        }
+      ]
+    },
+    {
+      "id": "crit-04-mentation",
+      "cells": [
+        {
+          "text": {
+            "en": "Hypoperfusion",
+            "ru": "Гипоперфузия"
+          }
+        },
+        {
+          "text": {
+            "en": "c. Decreased mentation",
+            "ru": "в. Нарушение/угнетение сознания (заторможенность, спутанность)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "crit-05-extremities",
+      "cells": [
+        {
+          "text": {
+            "en": "Hypoperfusion",
+            "ru": "Гипоперфузия"
+          }
+        },
+        {
+          "text": {
+            "en": "d. Cold extremities, livedo reticularis",
+            "ru": "г. Холодные влажные конечности, мраморность кожи (livedo reticularis)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "crit-06-oliguria",
+      "cells": [
+        {
+          "text": {
+            "en": "Hypoperfusion",
+            "ru": "Гипоперфузия"
+          }
+        },
+        {
+          "text": {
+            "en": "e. Urine output <30 mL/h",
+            "ru": "д. Диурез <30 мл/ч (олигурия)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "crit-07-lactate",
+      "cells": [
+        {
+          "text": {
+            "en": "Hypoperfusion",
+            "ru": "Гипоперфузия"
+          }
+        },
+        {
+          "text": {
+            "en": "f. Lactate >2 mmol/L",
+            "ru": "е. Лактат сыворотки >2 ммоль/л"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "BP indicates blood pressure; and SBP, systolic blood pressure.",
+      "ru": "BP (АД) — артериальное давление; SBP (САД) — систолическое артериальное давление."
+    },
+    "b": {
+      "en": "*Systolic BP and hypoperfusion criteria need to be met for the shock diagnosis.",
+      "ru": "*Для постановки диагноза шока требуется обязательное соответствие критериям как артериальной гипотензии, так и тканевой гипоперфузии."
+    }
+  }
+}

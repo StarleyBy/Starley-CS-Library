@@ -11,14 +11,14 @@
     "classes": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["I", "IIa", "IIb", "III"],
-      "patternProperties": { "^(I|IIa|IIb|III)$": { "$ref": "#/$defs/classDef" } }
+      "required": ["I"],
+      "patternProperties": { "^(I|IIa|IIb|III|III-no-benefit|III-harm|Value-High|Value-Intermediate|Value-Low|Value-Uncertain)$": { "$ref": "#/$defs/classDef" } }
     },
     "levels": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["A", "B", "C"],
-      "patternProperties": { "^(A|B|C)$": { "$ref": "#/$defs/levelDef" } }
+      "required": ["A"],
+      "patternProperties": { "^(A|B|C|B-R|B-NR|C-LD|C-EO)$": { "$ref": "#/$defs/levelDef" } }
     }
   },
   "$defs": {
@@ -32,13 +32,13 @@
       "type": "object",
       "additionalProperties": false,
       "required": ["wording", "meaning"],
-      "properties": { "wording": { "$ref": "#/$defs/i18n" }, "meaning": { "$ref": "#/$defs/i18n" } }
+      "properties": { "label": { "type": "string" }, "wording": { "$ref": "#/$defs/i18n" }, "meaning": { "$ref": "#/$defs/i18n" } }
     },
     "levelDef": {
       "type": "object",
       "additionalProperties": false,
       "required": ["meaning"],
-      "properties": { "meaning": { "$ref": "#/$defs/i18n" } }
+      "properties": { "label": { "type": "string" }, "meaning": { "$ref": "#/$defs/i18n" } }
     }
   }
 }

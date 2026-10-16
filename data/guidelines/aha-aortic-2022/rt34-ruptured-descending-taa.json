@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt34-ruptured-descending-taa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 34",
+  "title": {
+    "en": "Recommendations for Ruptured Descending TAA",
+    "ru": "Рекомендации при разрыве нисходящей грудной аорты"
+  },
+  "tags": [
+    "taa",
+    "descending-aorta",
+    "ruptured",
+    "tevar",
+    "open-repair",
+    "left-subclavian-artery",
+    "celiac-artery",
+    "landing-zone"
+  ],
+  "sections": [
+    {
+      "id": "sec-ruptured-descending-taa",
+      "title": {
+        "en": "Ruptured Descending TAA",
+        "ru": "Разрыв нисходящей грудной аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-tevar-recommended-over-open-ruptured",
+          "text": {
+            "en": "In patients with ruptured descending TAA who are anatomic candidates for endovascular repair, TEVAR is recommended over open repair because of decreased perioperative death and morbidity.",
+            "ru": "У пациентов с разрывом аневризмы нисходящей грудной аорты, являющихся кандидатами на эндоваскулярное лечение по анатомическим критериям, рекомендуется TEVAR предпочтительнее открытой операции ввиду меньшей периоперационной летальности и частоты осложнений."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-intentional-coverage-lsa-celiac",
+          "text": {
+            "en": "In patients with ruptured descending TAA undergoing TEVAR, intentional coverage of the left subclavian artery, celiac artery, or both may be considered to increase the landing zone for endovascular repair.",
+            "ru": "У пациентов с разрывом аневризмы нисходящей грудной аорты при выполнении TEVAR может быть рассмотрено преднамеренное перекрытие левой подключичной артерии, чревного ствола или обоих сосудов для увеличения зоны посадки (landing zone) эндоваскулярного графта."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [5, 6, 7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

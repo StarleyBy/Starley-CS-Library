@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt11-loeys-dietz-medical-therapy",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 11",
+  "title": {
+    "en": "Recommendation for Medical Therapy in Loeys-Dietz Syndrome",
+    "ru": "Рекомендации по медикаментозной терапии при синдроме Лойса–Дитца"
+  },
+  "tags": [
+    "loeys-dietz",
+    "medical-therapy",
+    "beta-blocker",
+    "arb",
+    "blood-pressure",
+    "aortic-protection"
+  ],
+  "sections": [
+    {
+      "id": "sec-loeys-dietz-medical-therapy",
+      "title": {
+        "en": "Medical Therapy in Loeys-Dietz Syndrome",
+        "ru": "Медикаментозная терапия при синдроме Лойса–Дитца"
+      },
+      "rows": [
+        {
+          "id": "r01-beta-blocker-or-arb-therapy",
+          "text": {
+            "en": "In patients with Loeys-Dietz syndrome, treatment with a beta blocker or an ARB (unless contraindicated), or both, in maximally tolerated doses, is reasonable.",
+            "ru": "У пациентов с синдромом Лойса–Дитца целесообразна терапия бета-блокатором или БРА (при отсутствии противопоказаний), либо их комбинацией в максимально переносимых дозах."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

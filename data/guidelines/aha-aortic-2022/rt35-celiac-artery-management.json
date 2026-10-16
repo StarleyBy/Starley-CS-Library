@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt35-celiac-artery-management",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 35",
+  "title": {
+    "en": "Recommendation for Celiac Artery Management",
+    "ru": "Рекомендация по тактике в отношении чревного ствола"
+  },
+  "tags": [
+    "celiac-artery",
+    "tevar",
+    "descending-aorta",
+    "collaterals",
+    "visceral-ischemia"
+  ],
+  "sections": [
+    {
+      "id": "sec-celiac-artery-management",
+      "title": {
+        "en": "Celiac Artery Management",
+        "ru": "Тактика в отношении чревного ствола"
+      },
+      "rows": [
+        {
+          "id": "r01-confirm-adequate-collateralization",
+          "text": {
+            "en": "In patients with descending TAA undergoing TEVAR in whom celiac artery coverage is being considered, it is reasonable to first confirm adequate collateralization.",
+            "ru": "У пациентов с аневризмой нисходящей грудной аорты, переносящих TEVAR, при рассмотрении вопроса о перекрытии чревного ствола целесообразно предварительно подтвердить наличие адекватного коллатерального кровообращения."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

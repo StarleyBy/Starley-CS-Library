@@ -1,0 +1,119 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt71-inflammatory-aortitis-takayasu-gca",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 71",
+  "title": {
+    "en": "Recommendations for Inflammatory Aortitis: Diagnosis and Treatment of Takayasu Arteritis and GCA",
+    "ru": "Рекомендации при воспалительном аортите: диагностика и лечение артериита Такаясу и ГКА"
+  },
+  "tags": [
+    "inflammatory-aortitis",
+    "takayasu-arteritis",
+    "giant-cell-arteritis",
+    "gca",
+    "lvv",
+    "glucocorticoids",
+    "tocilizumab",
+    "methotrexate",
+    "dmard",
+    "pet-ct"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnosis",
+      "title": {
+        "en": "Diagnosis",
+        "ru": "Диагностика"
+      },
+      "rows": [
+        {
+          "id": "r01-lvv-prompt-evaluation-mri-ct-fdg-pet",
+          "text": {
+            "en": "In patients with large vessel vasculitis (LVV), prompt evaluation of the entire aorta and branch vessels with MRI or CT, with or without 18F-FDG positron emission tomography (FDG-PET), is recommended.",
+            "ru": "У пациентов с васкулитом крупных сосудов (LVV) рекомендуется безотлагательная оценка всей аорты и ее ветвей с помощью МРТ или КТ, в сочетании с позитронно-эмиссионной томографией с 18F-ФДГ (ФДГ-ПЭТ) или без нее."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    },
+    {
+      "id": "sec-treatment",
+      "title": {
+        "en": "Treatment",
+        "ru": "Лечение"
+      },
+      "rows": [
+        {
+          "id": "r02-active-gca-takayasu-high-dose-glucocorticoids",
+          "text": {
+            "en": "In patients with active GCA or Takayasu arteritis, initial medical therapy should include high-dose glucocorticoids.",
+            "ru": "У пациентов с активным ГКА или артериитом Такаясу начальная медикаментозная терапия должна включать высокие дозы глюкокортикоидов."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [7, 8, 9, 10, 11, 12]
+        },
+        {
+          "id": "r03-active-aortitis-gca-tocilizumab-methotrexate",
+          "text": {
+            "en": "In patients with GCA who have evidence of active aortitis, tocilizumab is recommended as adjunctive therapy to glucocorticoids, with methotrexate as an alternative.",
+            "ru": "У пациентов с ГКА и признаками активного аортита рекомендуется тоцилизумаб в качестве дополнительной терапии к глюкокортикоидам, с метотрексатом в качестве альтернативы."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [7, 13, 14]
+        },
+        {
+          "id": "r04-takayasu-nonbiological-dmard-glucocorticoids",
+          "text": {
+            "en": "In all patients with Takayasu arteritis, non-biological disease-modifying anti-rheumatic drugs (DMARD) should be given in combination with glucocorticoids.",
+            "ru": "Всем пациентам с артериитом Такаясу следует назначать небиологические базисные противовоспалительные препараты (БПВП/DMARD) в комбинации с глюкокортикоидами."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [7, 15, 16]
+        },
+        {
+          "id": "r05-treatment-efficacy-monitoring-crp-esr-imaging",
+          "text": {
+            "en": "In patients with active GCA or Takayasu arteritis, treatment efficacy should be periodically assessed by monitoring inflammatory serum markers (C-reactive protein and erythrocyte sedimentation rate), imaging with CT, MRI, or FDG-PET, and clinical symptoms.",
+            "ru": "У пациентов с активным ГКА или артериитом Такаясу эффективность лечения следует периодически оценивать путем мониторинга сывороточных маркеров воспаления (С-реактивного белка и скорости оседания эритроцитов), визуализации с помощью КТ, МРТ или ФДГ-ПЭТ, а также клинических симптомов."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 7, 15, 17, 18, 19, 20]
+        },
+        {
+          "id": "r06-remission-elective-intervention-aortic-branch-vessels",
+          "text": {
+            "en": "In patients with GCA or Takayasu arteritis who are in remission, elective endovascular or open surgical intervention is reasonable to treat aortic and branch vessel complications.",
+            "ru": "У пациентов с ГКА или артериитом Такаясу в стадии ремиссии целесообразно выполнение планового эндоваскулярного или открытого хирургического вмешательства для лечения осложнений со стороны аорты и ее ветвей."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [7, 21]
+        },
+        {
+          "id": "r07-remission-annual-surveillance-imaging",
+          "text": {
+            "en": "In patients with GCA or Takayasu arteritis and aortic involvement who are in remission, annual surveillance imaging with CT, MRI, or FDG-PET is reasonable.",
+            "ru": "У пациентов с ГКА или артериитом Такаясу с поражением аорты в стадии ремиссии целесообразно ежегодное динамическое визуализирующее обследование с помощью КТ, МРТ или ФДГ-ПЭТ."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": [1, 7, 17, 18, 19]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

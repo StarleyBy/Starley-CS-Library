@@ -64,8 +64,8 @@
         "ru": { "type": "string" }
       }
     },
-    "classValue": { "enum": ["I", "IIa", "IIb", "III"] },
-    "levelValue": { "enum": ["A", "B", "C"] },
+    "classValue": { "enum": ["I", "IIa", "IIb", "III", "III-no-benefit", "III-harm", "Value-High", "Value-Intermediate", "Value-Low", "Value-Uncertain"] },
+    "levelValue": { "enum": ["A", "B", "C", "B-R", "B-NR", "C-LD", "C-EO"] },
     "refs": { "type": "array", "items": { "type": "integer", "minimum": 1 }, "uniqueItems": true, "description": "Reference numbers, expanded (184–186 → 184,185,186). The UI collapses ranges." },
     "noteIds": { "type": "array", "items": { "$ref": "#/$defs/localId" }, "uniqueItems": true },
     "bullet": {

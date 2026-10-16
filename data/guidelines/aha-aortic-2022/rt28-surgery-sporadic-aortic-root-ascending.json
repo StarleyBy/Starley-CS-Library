@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt28-surgery-sporadic-aortic-root-ascending",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 28",
+  "title": {
+    "en": "Recommendations for Surgery for Sporadic Aneurysms of the Aortic Root and Ascending Aorta",
+    "ru": "Рекомендации по хирургическому лечению спорадических аневризм корня и восходящей аорты"
+  },
+  "tags": [
+    "surgery",
+    "sporadic-aneurysm",
+    "aortic-root",
+    "ascending-aorta",
+    "multidisciplinary-team",
+    "thresholds",
+    "asi",
+    "ahi"
+  ],
+  "sections": [
+    {
+      "id": "sec-surgery-sporadic-aortic-root-ascending",
+      "title": {
+        "en": "Surgery for Sporadic Aneurysms of the Aortic Root and Ascending Aorta",
+        "ru": "Хирургическое лечение спорадических аневризм корня и восходящей аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-symptomatic-aneurysm",
+          "text": {
+            "en": "In patients with aneurysms of the aortic root and ascending aorta who have symptoms attributable to the aneurysm, surgery is indicated.",
+            "ru": "Пациентам с аневризмами корня и восходящей аорты, имеющим симптомы, обусловленные аневризмой, показано хирургическое вмешательство."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-asymptomatic-diameter-5-5-cm",
+          "text": {
+            "en": "In asymptomatic patients with aneurysms of the aortic root or ascending aorta who have a maximum diameter of ≥5.5 cm, surgery is indicated.",
+            "ru": "Бессимптомным пациентам с аневризмами корня или восходящей аорты максимальным диаметром ≥5,5 см показано хирургическое вмешательство."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [3, 4, 5, 6, 7, 8, 9]
+        },
+        {
+          "id": "r03-rapid-growth-rate",
+          "text": {
+            "en": "In patients with an aneurysm of the aortic root or ascending aorta of <5.5 cm, whose growth rate confirmed by tomographic imaging is ≥0.3 cm/y in 2 consecutive years, or ≥0.5 cm in 1 year, surgery is indicated.",
+            "ru": "Пациентам с аневризмой корня или восходящей аорты <5,5 см, скорость роста которой по данным томографии составляет ≥0,3 см/год в течение 2 лет подряд или ≥0,5 см за 1 год, показано хирургическое вмешательство."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [10, 11, 12, 13]
+        },
+        {
+          "id": "r04-asymptomatic-diameter-5-0-cm-team",
+          "text": {
+            "en": "In asymptomatic patients with aneurysms of the aortic root or ascending aorta who have a maximum diameter of ≥5.0 cm, surgery is reasonable when performed by experienced surgeons in a Multidisciplinary Aortic Team.",
+            "ru": "У бессимптомных пациентов с аневризмами корня или восходящей аорты максимальным диаметром ≥5,0 см операция целесообразна при выполнении опытными хирургами в составе мультидисциплинарной аортальной команды."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [14, 15, 16, 17]
+        },
+        {
+          "id": "r05a-concomitant-tav-repair-replace-4-5-cm-team",
+          "text": {
+            "en": "In patients undergoing repair or replacement of a tricuspid aortic valve who have a concomitant aneurysm of the ascending aorta with a maximum diameter of ≥4.5 cm, ascending aortic replacement is reasonable when performed by experienced surgeons in a Multidisciplinary Aortic Team.",
+            "ru": "У пациентов, переносящих пластику или протезирование трехстворчатого аортального клапана, имеющих сопутствующую аневризму восходящей аорты максимальным диаметром ≥4,5 см, протезирование восходящей аорты целесообразно при выполнении опытными хирургами в составе мультидисциплинарной аортальной команды."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [18, 19, 20, 21]
+        },
+        {
+          "id": "r05b-concomitant-tav-repair-replace-5-0-cm",
+          "text": {
+            "en": "In patients undergoing repair or replacement of a tricuspid aortic valve who have a concomitant aneurysm of the ascending aorta with a maximum diameter of ≥5.0 cm, ascending aortic replacement is reasonable.",
+            "ru": "У пациентов, переносящих пластику или протезирование трехстворчатого аортального клапана, имеющих сопутствующую аневризму восходящей аорты максимальным диаметром ≥5,0 см, протезирование восходящей аорты целесообразно."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [18, 19, 20, 21]
+        },
+        {
+          "id": "r05c-concomitant-cardiac-surgery-other-5-0-cm",
+          "text": {
+            "en": "In patients undergoing cardiac surgery for indications other than aortic valve repair or replacement who have a concomitant aneurysm of ascending aorta with a maximum diameter of ≥5.0 cm, ascending aortic replacement may be reasonable.",
+            "ru": "У пациентов, переносящих кардиохирургическое вмешательство по показаниям, отличным от пластики или протезирования аортального клапана, имеющих сопутствующую аневризму восходящей аорты максимальным диаметром ≥5,0 см, протезирование восходящей аорты может быть целесообразным."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [18]
+        },
+        {
+          "id": "r06-indexed-cross-sectional-area-height-ratio",
+          "text": {
+            "en": "In patients with a height >1 standard deviation above or below the mean who have an asymptomatic aneurysm of the aortic root or ascending aorta and a maximal cross-sectional aortic area/height ratio of ≥10 cm2/m, surgery is reasonable when performed by experienced surgeons in a Multidisciplinary Aortic Team.",
+            "ru": "У пациентов с ростом более чем на 1 стандартное отклонение выше или ниже среднего, имеющих бессимптомную аневризму корня или восходящей аорты и отношение максимальной площади поперечного сечения аорты к росту ≥10 см²/м, операция целесообразна при выполнении опытными хирургами в составе мультидисциплинарной аортальной команды."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [14, 15, 22]
+        },
+        {
+          "id": "r07-indexed-asi-ahi-thresholds",
+          "text": {
+            "en": "In asymptomatic patients with aneurysms of the aortic root or ascending aorta who have either an ASI of ≥3.08 cm/m2 or AHI of ≥3.21 cm/m, surgery may be reasonable when performed by experienced surgeons in a Multidisciplinary Aortic Team.",
+            "ru": "У бессимптомных пациентов с аневризмами корня или восходящей аорты при значении ASI ≥3,08 см/м² либо AHI ≥3,21 см/м операция может быть целесообразной при выполнении опытными хирургами в составе мультидисциплинарной аортальной команды."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [23]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

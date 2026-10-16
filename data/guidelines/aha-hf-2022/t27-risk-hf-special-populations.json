@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t27-risk-hf-special-populations",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 27",
+  "type": "grid",
+  "title": {
+    "en": "Risk of HF and Outcomes in Special Populations",
+    "ru": "Риск развития сердечной недостаточности и клинические исходы в особых группах населения"
+  },
+  "tags": [
+    "special-populations",
+    "vulnerable-populations",
+    "disparities",
+    "women",
+    "older-adults",
+    "socioeconomic-status",
+    "black-populations",
+    "hispanic-populations",
+    "asian-populations",
+    "native-american",
+    "health-equity"
+  ],
+  "columns": [
+    {
+      "id": "c_population",
+      "title": { "en": "Vulnerable Population", "ru": "Особая / уязвимая группа населения" }
+    },
+    {
+      "id": "c_risk",
+      "title": { "en": "Risk of HF", "ru": "Риск развития СН" }
+    },
+    {
+      "id": "c_outcomes",
+      "title": { "en": "HF Outcomes", "ru": "Исходы и течение СН" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "pop-01-women",
+      "cells": [
+        {
+          "text": { "en": "Women", "ru": "Женщины" }
+        },
+        {
+          "text": {
+            "en": "The lifetime risk of HF is equivalent between sexes, but HFpEF risk is higher in women—in FHS participants with new-onset HF, odds of HFpEF (EF >45%) are 2.8-fold higher in women than in men.66\nSex-specific differences in the predictive value of cardiac biomarkers for incident HF.67\nNontraditional cardiovascular risk factors, including anxiety, depression, caregiver stress, and low household income may contribute more toward incident heart disease in women than men.68",
+            "ru": "Пожизненный риск развития СН сопоставим у обоих полов, однако риск HFpEF выше у женщин: у участников Фрамингемского исследования с впервые возникшей СН вероятность HFpEF (ФВ >45%) в 2,8 раза выше у женщин, чем у мужчин.66\nВыявлены половые различия в прогностической ценности кардиомаркеров.67\nНетрадиционные факторы риска (тревожность, депрессия, стресс ухода за близкими, низкий доход) могут вносить больший вклад в развитие патологии сердца у женщин, чем у мужчин.68"
+          }
+        },
+        {
+          "text": {
+            "en": "Overall, more favorable survival with HF than men. In the OPTIMIZE-HF registry, women with acute HF had a lower 1-y mortality (HR, 0.93; 95% CI, 0.89–0.97), although women are more likely not to receive optimal GDMT.30,69–71\nLower patient-reported quality of life for women with HFrEF, compared with men.18,71\nGreater transplant waitlist mortality for women but equivalent survival after heart transplantation or LVAD implantation.24,59",
+            "ru": "В целом лучшая выживаемость при СН, чем у мужчин. В регистре OPTIMIZE-HF у женщин с острой СН отмечена меньшая 1-годичная смертность (HR 0,93; 95% ДИ 0,89–0,97), хотя женщины реже получают оптимальную GDMT.30,69–71\nБолее низкое субъективное качество жизни у женщин с HFrEF по сравнению с мужчинами.18,71\nБолее высокая смертность в листе ожидания трансплантации, но эквивалентная выживаемость после пересадки сердца или имплантации LVAD.24,59"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pop-02-older-adults",
+      "cells": [
+        {
+          "text": { "en": "Older adults", "ru": "Пожилые пациенты" }
+        },
+        {
+          "text": {
+            "en": "Per FHS, at 40 y of age, the lifetime risk of incident HF is 20% for both sexes; at 80 y of age, the risk remains 20% for men and women despite the shorter life expectancy.72\nLVEF is preserved in at least two-thirds of older adults with the diagnosis of HF.73",
+            "ru": "По данным FHS, в возрасте 40 лет пожизненный риск развития СН составляет 20% для обоих полов; в возрасте 80 лет риск остается на уровне 20%, несмотря на меньшую оставшуюся продолжительность жизни.72\nФВ ЛЖ сохранена как минимум у двух третей пожилых пациентов с диагнозом СН.73"
+          }
+        },
+        {
+          "text": {
+            "en": "Among 1233 patients with HF aged ≥80 y, 40% mortality during mean 27-mo follow-up; survival associated with prescription of GDMT.74",
+            "ru": "Среди 1233 пациентов с СН в возрасте ≥80 лет смертность составила 40% за период наблюдения в среднем 27 мес.; выживаемость достоверно ассоциировалась с назначением GDMT.74"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pop-03-lower-ses",
+      "cells": [
+        {
+          "text": { "en": "Lower socioeconomic status populations", "ru": "Популяции с низким социально-экономическим статусом" }
+        },
+        {
+          "text": {
+            "en": "Among 27 078 White and Black adults of low income (70% earned <$15 000/y) participating from 2002–2009 in the Southern Community Cohort Study, a 1 interquartile increase in neighborhood deprivation index was associated with a 12% increase in risk of HF (adjusted HR, 1.12; 95% CI, 1.07–1.18).16",
+            "ru": "Среди 27 078 взрослых лиц с низким доходом (70% зарабатывали <$15 000/год), включенных в Southern Community Cohort Study (2002–2009), увеличение индекса депривации района на 1 межквартильный размах ассоциировалось с повышением риска СН на 12% (скорректированный HR 1,12; 95% ДИ 1,07–1,18).16"
+          }
+        },
+        {
+          "text": {
+            "en": "Age-adjusted 1999–2018 HF mortality (deaths/100 000; mean and 95% CI) was higher with increasing quartiles of ADI, which is based on 17 indicators of employment, poverty, and education:\nQuartile 1, 20.0 (19.4–20.5);\nQuartile 2, 23.3 (22.6–24.0);\nQuartile 3, 26.4 (25.5–27.3);\nQuartile 4, 33.1 (31.8–34.4).6",
+            "ru": "Стандартизованная по возрасту смертность от СН в 1999–2018 гг. (случаев на 100 000; среднее и 95% ДИ) нарастала по квартилям индекса депривации территории (ADI, 17 показателей занятости, бедности и образования):\nКвартиль 1: 20,0 (19,4–20,5);\nКвартиль 2: 23,3 (22,6–24,0);\nКвартиль 3: 26,4 (25,5–27,3);\nКвартиль 4: 33,1 (31,8–34,4).6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pop-04-black-populations",
+      "cells": [
+        {
+          "text": { "en": "Black populations", "ru": "Темнокожее население" }
+        },
+        {
+          "text": {
+            "en": "In MESA, patients of Black race had highest risk of incident HF (4.6/1000 person-years) and highest proportion of nonischemic incident HF.26\nHigher prevalence of HF risk factors including hypertension, obesity, and diabetes, compared with White populations.75",
+            "ru": "В исследовании MESA пациенты негроидной расы имели наивысший риск манифестации СН (4,6 на 1000 человеко-лет) и наибольшую долю неишемической СН.26\nБолее высокая распространенность факторов риска СН, включая гипертензию, ожирение и диабет, по сравнению с белым населением.75"
+          }
+        },
+        {
+          "text": {
+            "en": "CDC data show race-based differences in HF mortality over time: Black men had a 1.16-fold versus 1.43-fold higher age-adjusted HF-related CVD death rate compared with White men in 1999 versus 2017; Black women had a 1.35-fold versus 1.54-fold higher age-adjusted HF-related CVD death rate compared with White women in 1999 versus 2017.17\nGap in outcomes is more pronounced among younger adults (35–64 y of age) versus older adults (65–84 y of age); age-adjusted HF-related CVD death rates were 2.60-fold and 2.97-fold higher in young Black versus White men and women, respectively.27\nHigher rates of hospitalization3 and mortality among patients with HFpEF.76\nLower 5-year survival after heart transplant.77–79",
+            "ru": "Данные CDC демонстрируют расовые различия в смертности от СН во времени: у темнокожих мужчин стандартизованная по возрасту смертность была в 1,16 раза (в 1999 г.) и в 1,43 раза (в 2017 г.) выше, чем у белых мужчин; у темнокожих женщин — в 1,35 раза (1999 г.) и в 1,54 раза (2017 г.) выше, чем у белых женщин.17\nРазрыв наиболее выражен среди лиц молодого возраста (35–64 года): стандартизованная по возрасту смертность была выше в 2,60 раза у молодых темнокожих мужчин и в 2,97 раза у молодых темнокожих женщин.27\nБолее высокая частота госпитализаций3 и смертности при HFpEF.76\nБолее низкая 5-летняя выживаемость после трансплантации сердца.77–79"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pop-05-hispanic-populations",
+      "cells": [
+        {
+          "text": { "en": "Hispanic populations", "ru": "Латиноамериканское население" }
+        },
+        {
+          "text": {
+            "en": "MESA study showed higher HF incidence in Hispanic compared with non-Hispanic White groups (3.5 versus 2.4 per 1000 person-years) but lower than for African Americans (4.6/1000 person-years).7,56,80",
+            "ru": "Исследование MESA продемонстрировало более высокую частоту СН у латиноамериканцев по сравнению с неиспаноязычным белым населением (3,5 против 2,4 на 1000 человеко-лет), но более низкую, чем у афроамериканцев (4,6 на 1000 человеко-лет).7,56,80"
+          }
+        },
+        {
+          "text": {
+            "en": "Despite higher rates of hospitalization for HF compared with non-Hispanic Whites, Hispanic patients with HF have shown lower short-term mortality rates.81\nIn GWTG, Hispanic patients with HFpEF had lower mortality (OR, 0.50; 95% CI, 0.31–0.81) than non-Hispanic Whites, but this was not the case for Hispanic patients with HFrEF (OR, 0.94; 95% CI, 0.62–1.43).81\nLower risk of developing AF in the setting of HF, compared with White patients.82",
+            "ru": "Несмотря на более высокую частоту госпитализаций по поводу СН по сравнению с неиспаноязычными белыми пациентами, у латиноамериканцев отмечаются более низкие показатели краткосрочной смертности.81\nВ регистре GWTG у латиноамериканцев с HFpEF была более низкая смертность (OR 0,50; 95% ДИ 0,31–0,81), чем у белых пациентов, однако для HFrEF таких различий не выявлено (OR 0,94; 95% ДИ 0,62–1,43).81\nМеньший риск развития ФП на фоне СН по сравнению с пациентами европейского происхождения.82"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pop-06-asian-pacific",
+      "cells": [
+        {
+          "text": { "en": "Asian and Pacific Islander populations", "ru": "Выходцы из Азии и островов Тихого океана" }
+        },
+        {
+          "text": {
+            "en": "Limited population-specific data for Asian and Pacific Islander subgroups in the United States.44,83",
+            "ru": "Ограниченные популяционные данные по подгруппам выходцев из Азии и тихоокеанских островов в США.44,83"
+          }
+        },
+        {
+          "text": {
+            "en": "High rates of preventable HF hospitalization observed in some Asian and Pacific Islander populations.19\nLower mortality rates from HF for Asian subgroups when listed as the primary cause of death, compared with non-Hispanic White groups.84",
+            "ru": "Высокая частота предотвратимых госпитализаций по поводу СН в некоторых подгруппах азиатского и тихоокеанского происхождения.19\nБолее низкие показатели смертности от СН как основной причины смерти по сравнению с неиспаноязычным белым населением.84"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pop-07-native-american",
+      "cells": [
+        {
+          "text": { "en": "Native American and Alaskan Native populations", "ru": "Коренное население Америки и коренные народы Аляски" }
+        },
+        {
+          "text": {
+            "en": "Limited population-specific data, with cardiovascular risk factor trends best characterized by the Strong Heart Study and Strong Heart Family Study, demonstrating high rates of hypertension and diabetes.11,87",
+            "ru": "Ограниченные популяционные данные; профиль сердечно-сосудистых факторов риска наиболее полно охарактеризован в Strong Heart Study и Strong Heart Family Study, показавших высокую распространенность гипертензии и сахарного диабета.11,87"
+          }
+        },
+        {
+          "text": {
+            "en": "Limited data suggest HF mortality rates in American Indians and Alaska Natives are similar to those in White populations.88",
+            "ru": "Имеющиеся данные свидетельствуют о том, что показатели смертности от СН у американских индейцев и коренных народов Аляски сходны с таковыми у белого населения.88"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "CDC indicates Centers for Disease Control and Prevention; CVD, cardiovascular disease; FHS, Framingham Heart Study; GDMT, guideline-directed medical therapy; GWTG, Get With The Guidelines registry; HF, heart failure; HFpEF, heart failure with preserved ejection fraction; HFrEF, heart failure with reduced ejection fraction; HR, hazard ratio; LVAD, left ventricular assist device; LVEF, left ventricular ejection fraction; MESA, Multi-Ethnic Study of Atherosclerosis; OPTIMIZE-HF, Organized Program To Initiate Lifesaving Treatment In Hospitalized Patients With Heart Failure; and OR, odds ratio.",
+      "ru": "CDC — Центры по контролю и профилактике заболеваний США; CVD (ССЗ) — сердечно-сосудистые заболевания; FHS — Фрамингемское исследование сердца; GDMT — медикаментозная терапия по клиническим руководствам; GWTG — регистр Get With The Guidelines; HF (СН) — сердечная недостаточность; HFpEF — СН с сохраненной ФВ; HFrEF — СН со сниженной ФВ; HR — отношение рисков; LVAD — левожелудочковое устройство вспомогательного кровообращения; LVEF (ФВ ЛЖ) — фракция выброса левого желудочка; MESA — многоэтническое исследование атеросклероза; OPTIMIZE-HF — программа оптимизации лечения госпитализированных пациентов с СН; OR — отношение шансов."
+    }
+  }
+}

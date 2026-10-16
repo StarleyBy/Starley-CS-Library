@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt08-special-populations",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for HF and Pregnancy",
+  "title": {
+    "en": "Recommendations for HF and Pregnancy",
+    "ru": "Рекомендации по сердечной недостаточности и беременности"
+  },
+  "tags": [
+    "pregnancy",
+    "peripartum",
+    "ppcm",
+    "contraception",
+    "anticoagulation",
+    "contraindicated-drugs",
+    "fetal-harm",
+    "fetotoxicity"
+  ],
+  "sections": [
+    {
+      "id": "sec-hf-and-pregnancy",
+      "title": {
+        "en": "Heart Failure and Pregnancy",
+        "ru": "Сердечная недостаточность и беременность"
+      },
+      "rows": [
+        {
+          "id": "r01-contraception-counseling",
+          "text": {
+            "en": "In women with a history of HF or cardiomyopathy, including previous peripartum cardiomyopathy, patient-centered counseling regarding contraception and the risks of cardiovascular deterioration during pregnancy should be provided.",
+            "ru": "У женщин с анамнезом СН или кардиомиопатии, включая перенесенную ранее перипартальную кардиомиопатию, показано ориентированное на пациентку консультирование относительно контрацепции и рисков ухудшения сердечно-сосудистого статуса во время беременности."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r02-anticoagulation-ppcm-lvef30",
+          "text": {
+            "en": "In women with acute HF caused by peripartum cardiomyopathy and LVEF <30%, anticoagulation may be reasonable at diagnosis, until 6 to 8 weeks postpartum, although the efficacy and safety are uncertain.",
+            "ru": "У женщин с острой СН, вызванной перипартальной кардиомиопатией, и ФВ ЛЖ <30% может быть целесообразно назначение антикоагулянтной терапии с момента установления диагноза до 6–8 недель после родов, хотя её эффективность и безопасность остаются неопределенными."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [9, 10, 11, 12]
+        },
+        {
+          "id": "r03-contraindicated-drugs-pregnancy",
+          "text": {
+            "en": "In women with HF or cardiomyopathy who are pregnant or currently planning for pregnancy, ACEi, ARB, ARNi, MRA, SGLT2i, ivabradine, and vericiguat should not be administered because of significant risks of fetal harm.",
+            "ru": "У женщин с СН или кардиомиопатией, которые беременны или планируют беременность, не следует назначать иАПФ, БРА, АРНИ, АМР, иНГЛТ-2, ивабрадин и верицигуат в связи со значительным риском вреда для плода (фетотоксичности)."
+          },
+          "class": "III-harm",
+          "level": "C-LD",
+          "refs": [13, 14, 15]
+        }
+      ]
+    }
+  ]
+}

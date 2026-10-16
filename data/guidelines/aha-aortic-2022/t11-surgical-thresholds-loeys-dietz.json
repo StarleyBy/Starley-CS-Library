@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t11-surgical-thresholds-loeys-dietz",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 11",
+  "type": "grid",
+  "title": {
+    "en": "Surgical Thresholds for Prophylactic Aortic Root and Ascending Aortic Replacement in Loeys-Dietz Syndrome Based on Genetic Variant^[d]",
+    "ru": "Хирургические пороги для профилактического протезирования корня и восходящей аорты при синдроме Лойса–Дитца в зависимости от генетического варианта^[d]"
+  },
+  "tags": [
+    "loeys-dietz",
+    "surgical-thresholds",
+    "prophylactic-surgery",
+    "tgfbr1",
+    "tgfbr2",
+    "smad3",
+    "tgfb2",
+    "tgfb3",
+    "genetics",
+    "aortic-root",
+    "ascending-aorta"
+  ],
+  "columns": [
+    {
+      "id": "cor",
+      "title": {
+        "en": "COR",
+        "ru": "COR"
+      }
+    },
+    {
+      "id": "loe",
+      "title": {
+        "en": "LOE",
+        "ru": "LOE"
+      }
+    },
+    {
+      "id": "genetic_variant",
+      "title": {
+        "en": "Genetic Variant",
+        "ru": "Генетический вариант"
+      }
+    },
+    {
+      "id": "high_risk_features",
+      "title": {
+        "en": "Presence of High-Risk Features^[a]",
+        "ru": "Признаки высокого риска^[a]"
+      }
+    },
+    {
+      "id": "aortic_diameter",
+      "title": {
+        "en": "Aortic Diameter (cm)",
+        "ru": "Диаметр аорты (см)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "tgfbr1-no-risk",
+      "cells": [
+        {
+          "text": { "en": "1", "ru": "1" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "C-LD", "ru": "C-LD" },
+          "refs": [3]
+        },
+        {
+          "text": { "en": "TGFBR1", "ru": "TGFBR1" }
+        },
+        {
+          "text": { "en": "No", "ru": "Нет" }
+        },
+        {
+          "text": { "en": "≥4.5", "ru": "≥4,5" }
+        }
+      ]
+    },
+    {
+      "id": "tgfbr2-no-risk",
+      "cells": [
+        {
+          "text": { "en": "1", "ru": "1" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "C-LD", "ru": "C-LD" },
+          "refs": [3]
+        },
+        {
+          "text": { "en": "TGFBR2", "ru": "TGFBR2" }
+        },
+        {
+          "text": { "en": "No", "ru": "Нет" }
+        },
+        {
+          "text": { "en": "≥4.5", "ru": "≥4,5" }
+        }
+      ]
+    },
+    {
+      "id": "tgfbr1-high-risk",
+      "cells": [
+        {
+          "text": { "en": "2b", "ru": "2b" },
+          "tone": "orange"
+        },
+        {
+          "text": { "en": "C-EO", "ru": "C-EO" },
+          "refs": [2]
+        },
+        {
+          "text": { "en": "TGFBR1", "ru": "TGFBR1" }
+        },
+        {
+          "text": { "en": "Yes", "ru": "Да" }
+        },
+        {
+          "text": { "en": "≥4.0", "ru": "≥4,0" }
+        }
+      ]
+    },
+    {
+      "id": "tgfbr2-high-risk",
+      "cells": [
+        {
+          "text": { "en": "2a", "ru": "2a" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "C-LD", "ru": "C-LD" },
+          "refs": [1, 2]
+        },
+        {
+          "text": { "en": "TGFBR2", "ru": "TGFBR2" }
+        },
+        {
+          "text": { "en": "Yes", "ru": "Да" }
+        },
+        {
+          "text": { "en": "≥4.0", "ru": "≥4,0" }
+        }
+      ]
+    },
+    {
+      "id": "smad3",
+      "cells": [
+        {
+          "text": { "en": "2a", "ru": "2a" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "C-EO", "ru": "C-EO" },
+          "refs": [13, 16]
+        },
+        {
+          "text": { "en": "SMAD3", "ru": "SMAD3" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "≥4.5^[b]", "ru": "≥4,5^[b]" }
+        }
+      ]
+    },
+    {
+      "id": "tgfb2",
+      "cells": [
+        {
+          "text": { "en": "2b", "ru": "2b" },
+          "tone": "orange"
+        },
+        {
+          "text": { "en": "C-EO", "ru": "C-EO" },
+          "refs": [6, 7]
+        },
+        {
+          "text": { "en": "TGFB2^[c]", "ru": "TGFB2^[c]" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "≥4.5^[b]", "ru": "≥4,5^[b]" }
+        }
+      ]
+    },
+    {
+      "id": "tgfb3",
+      "cells": [
+        {
+          "text": { "en": "2b", "ru": "2b" },
+          "tone": "orange"
+        },
+        {
+          "text": { "en": "C-EO", "ru": "C-EO" },
+          "refs": [9, 23]
+        },
+        {
+          "text": { "en": "TGFB3", "ru": "TGFB3" }
+        },
+        {
+          "text": { "en": "—", "ru": "—" }
+        },
+        {
+          "text": { "en": "≥5.0^[b]", "ru": "≥5,0^[b]" }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Aortic surgery may be recommended at smaller aortic diameters in Loeys-Dietz syndrome attributable to TGFBR1 and TGFBR2 pathogenic variants when there are features that associate with a higher risk of aortic dissection, including: certain specific pathogenic variants; women with TGFBR2 and small body size; severe extra-aortic features (ie, craniosynostosis, cleft palate, hypertelorism, bifid uvula, marked arterial tortuosity, widened scars, and translucent skin); family history of aortic dissection (especially at young age or relatively small aortic diameter); and aortic growth rate >0.3 cm/y.",
+      "ru": "Хирургическое вмешательство на аорте может быть рекомендовано при меньших диаметрах аорты при синдроме Лойса–Дитца, обусловленном патогенными вариантами TGFBR1 и TGFBR2, при наличии признаков высокого риска расслоения аорты: определённые специфические варианты; женщины с TGFBR2 и малыми размерами тела; выраженные внеаортальные проявления (краниосиностоз, расщелина неба, гипертелоризм, раздвоенный язычок, выраженная извитость артерий, широкие рубцы, полупрозрачная кожа); семейный анамнез расслоения (особенно в молодом возрасте или при относительно небольшом диаметре); скорость роста аорты >0,3 см/год."
+    },
+    "b": {
+      "en": "Family history, age, and aortic growth rate also inform surgical thresholds.",
+      "ru": "Семейный анамнез, возраст и скорость роста аорты также определяют хирургические пороги."
+    },
+    "c": {
+      "en": "Pathogenic variants in the TGFB2 gene are different than variants in the TGFBR2 gene.",
+      "ru": "Патогенные варианты в гене TGFB2 отличаются от вариантов в гене TGFBR2."
+    },
+    "d": {
+      "en": "COR indicates class of recommendation; and LOE, level of evidence. Colors correspond to COR and LOE in Table 2.",
+      "ru": "COR — класс рекомендаций; LOE — уровень доказательности."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

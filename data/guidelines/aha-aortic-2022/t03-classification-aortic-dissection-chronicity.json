@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t03-classification-aortic-dissection-chronicity",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 3",
+  "type": "grid",
+  "title": {
+    "en": "Classification of Aortic Dissection Chronicity Based on the 2020 SVS/STS Reporting Standards^[a]",
+    "ru": "Классификация хроничности расслоения аорты на основе стандартов отчётности SVS/STS 2020^[a]"
+  },
+  "tags": [
+    "aortic-dissection",
+    "chronicity",
+    "hyperacute",
+    "acute",
+    "subacute",
+    "chronic",
+    "svs",
+    "sts",
+    "timing"
+  ],
+  "columns": [
+    {
+      "id": "chronicity",
+      "title": {
+        "en": "Chronicity",
+        "ru": "Хроничность / Фаза"
+      }
+    },
+    {
+      "id": "time_onset",
+      "title": {
+        "en": "Time From Onset of Symptoms",
+        "ru": "Время от появления симптомов"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "hyperacute",
+      "cells": [
+        {
+          "text": {
+            "en": "**Hyperacute**",
+            "ru": "**Сверхострая (гиперострая)**"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "<24 h",
+            "ru": "<24 ч"
+          }
+        }
+      ]
+    },
+    {
+      "id": "acute",
+      "cells": [
+        {
+          "text": {
+            "en": "**Acute**",
+            "ru": "**Острая**"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "1–14 d",
+            "ru": "1–14 дней"
+          }
+        }
+      ]
+    },
+    {
+      "id": "subacute",
+      "cells": [
+        {
+          "text": {
+            "en": "**Subacute**",
+            "ru": "**Подострая**"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "15–90 d",
+            "ru": "15–90 дней"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chronic",
+      "cells": [
+        {
+          "text": {
+            "en": "**Chronic**",
+            "ru": "**Хроническая**"
+          },
+          "tone": "neutral"
+        },
+        {
+          "text": {
+            "en": ">90 d",
+            "ru": ">90 дней"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "STS indicates Society of Thoracic Surgeons; and SVS, Society for Vascular Surgery. Adapted with permission from Springer Nature Customer Service Centre GmbH: Springer Nature, Clough RE, et al. Copyright 2015.",
+      "ru": "STS — Общество торакальных хирургов (Society of Thoracic Surgeons); SVS — Общество сосудистой хирургии (Society for Vascular Surgery). Адаптировано с разрешения Springer Nature Customer Service Centre GmbH: Springer Nature, Clough RE, et al. Copyright 2015."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

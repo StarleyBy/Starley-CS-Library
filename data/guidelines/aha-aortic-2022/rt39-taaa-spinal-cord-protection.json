@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt39-taaa-spinal-cord-protection",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 39",
+  "title": {
+    "en": "Recommendations for TAAA Spinal Cord Protection",
+    "ru": "Рекомендации по защите спинного мозга при операциях по поводу торакоабдоминальной аневризмы аорты (ТААА)"
+  },
+  "tags": [
+    "taaa",
+    "spinal-cord-injury",
+    "sci",
+    "csf-drainage",
+    "intrathecal-pressure",
+    "spinal-perfusion",
+    "open-repair",
+    "endovascular"
+  ],
+  "sections": [
+    {
+      "id": "sec-taaa-spinal-cord-protection",
+      "title": {
+        "en": "TAAA Spinal Cord Protection",
+        "ru": "Защита спинного мозга при ТААА"
+      },
+      "rows": [
+        {
+          "id": "r01-csf-drainage-high-risk-sci",
+          "text": {
+            "en": "In patients undergoing open TAAA repair who are at high risk for SCI, cerebrospinal fluid drainage is recommended to reduce the incidence of temporary SCI, permanent SCI, or both.",
+            "ru": "У пациентов, переносящих открытое протезирование ТААА с высоким риском ишемического повреждения спинного мозга (SCI), рекомендуется дренирование спинномозговой жидкости для снижения частоты преходящего, стойкого или обоих видов SCI."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-delayed-sci-management",
+          "text": {
+            "en": "In patients who experience delayed spinal cord dysfunction after either open or endovascular TAAA repair, timely measures to optimize spinal cord perfusion and decrease intrathecal pressure are recommended (Table 20).",
+            "ru": "У пациентов с отсроченной дисфункцией спинного мозга после открытого или эндоваскулярного протезирования ТААА рекомендуются своевременные меры по оптимизации перфузии спинного мозга и снижению интратекального давления (Таблица 20)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 8]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

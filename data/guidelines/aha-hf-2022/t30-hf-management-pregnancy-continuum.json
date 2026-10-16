@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t30-hf-management-pregnancy-continuum",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 30",
+  "type": "grid",
+  "title": {
+    "en": "HF Management Strategies Across the Pregnancy Continuum",
+    "ru": "Стратегии ведения сердечной недостаточности на всех этапах репродуктивного континуума"
+  },
+  "tags": [
+    "pregnancy",
+    "peripartum",
+    "ppcm",
+    "preconception",
+    "postpartum",
+    "lactation",
+    "breastfeeding",
+    "contraindicated-drugs",
+    "teratogenicity",
+    "bromocriptine",
+    "multidisciplinary-team"
+  ],
+  "columns": [
+    {
+      "id": "c_category",
+      "title": { "en": "Strategy Category", "ru": "Категория стратегии" }
+    },
+    {
+      "id": "c_preconception",
+      "title": { "en": "Preconception", "ru": "Прегравидарный этап (до зачатия)" }
+    },
+    {
+      "id": "c_pregnancy",
+      "title": { "en": "During Pregnancy", "ru": "Во время беременности" }
+    },
+    {
+      "id": "c_postpartum",
+      "title": { "en": "Postpartum", "ru": "Послеродовый период" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "strat-01-nonpharmacological",
+      "cells": [
+        {
+          "text": {
+            "en": "Nonpharmacological strategies",
+            "ru": "Немедикаментозные стратегии"
+          }
+        },
+        {
+          "text": {
+            "en": "Preconception genetic counseling and testing for potentially heritable cardiac conditions.\nUse of pregnancy cardiovascular risk tools,11,12,17,18 and echocardiography for myocardial structure and function assessment, to provide information that facilitates informed counseling.\nFor women planning a pregnancy, provide personalized counseling that promotes the autonomy and goals of the patient (and her partner, as applicable), the patient's ability for self-care and risk awareness, and ensures adequate psychosocial support for decision-making.3\nFor women not currently planning a pregnancy but who might conceive, discuss HF-specific considerations regarding pregnancy and refer to gynecology or primary care for contraceptive counseling.",
+            "ru": "Медико-генетическое консультирование и тестирование до зачатия при потенциально наследуемых заболеваниях сердца.\nИспользование шкал сердечно-сосудистого риска беременности и эхокардиографии для оценки структуры и функции миокарда с целью информированного консультирования.\nПерсонализированное консультирование женщин, планирующих беременность, поддерживающее цели пациентки (и партнера), способность к самопомощи, осведомленность о рисках и психосоциальную поддержку.\nДля женщин, не планирующих беременность в настоящее время, но способных к зачатию: обсуждение специфических рисков СН и направление к гинекологу для подбора надежной контрацепции."
+          }
+        },
+        {
+          "text": {
+            "en": "Close maternal monitoring for HF signs or symptoms or other cardiovascular instability by cardiology and obstetric and maternal-fetal medicine teams; close fetal monitoring by the obstetric and maternal-fetal medicine teams.\nConsideration of routine echocardiographic screening in the third trimester for reassessment of myocardial structure and function before labor; echocardiography for any significant changes in HF symptoms or signs during pregnancy, or if HF medications are reduced or discontinued.19\nBNP or NT-proBNP monitoring during pregnancy may have some value for prediction of cardiovascular events.23,24\nClose maternal monitoring by obstetrics and maternal-fetal medicine teams for preeclampsia, which has shared risk factors and pathogenesis with PPCM.25\nFor women presenting with decompensated HF or cardiogenic shock, hemodynamic monitoring and MCS, as appropriate, within a multidisciplinary collaborative approach that supports prompt decision-making about the timing and mechanism of delivery.",
+            "ru": "Тщательный мониторинг симптомов СН и гемодинамической стабильности кардиологом, акушером и специалистами медицины плода; тщательный мониторинг состояния плода.\nРассмотрение планового ЭхоКГ-скрининга в III триместре для оценки структуры и функции миокарда перед родами; внеплановая ЭхоКГ при любом нарастании симптомов СН или при снижении доз/отмене кардиотропных препаратов.\nКонтроль уровней BNP или NT-proBNP для прогнозирования сердечно-сосудистых событий.\nМониторинг преэклампсии, имеющей общие факторы риска и звенья патогенеза с ПКМП.\nПри декомпенсации СН или кардиогенном шоке: гемодинамический мониторинг и MCS (при необходимости) в рамках мультидисциплинарного консилиума для быстрого решения вопроса о сроках и методе родоразрешения."
+          }
+        },
+        {
+          "text": {
+            "en": "Multidisciplinary recommendations from obstetrics and neonatology and pediatrics teams and shared decision-making regarding the maternal and neonatal risks and benefits of breastfeeding.\nFor women presenting with decompensated HF or cardiogenic shock, HF management should include hemodynamic monitoring and mechanical circulatory support as appropriate.",
+            "ru": "Мультидисциплинарные рекомендации акушеров, неонатологов и педиатров и совместное принятие решений относительно пользы и рисков грудного вскармливания для матери и новорожденного.\nУ женщин с декомпенсированной СН или кардиогенным шоком ведение должно включать инвазивный мониторинг гемодинамики и механическую поддержку кровообращения (MCS) по показаниям."
+          }
+        }
+      ]
+    },
+    {
+      "id": "strat-02-pharmacological",
+      "cells": [
+        {
+          "text": {
+            "en": "Pharmacological strategies",
+            "ru": "Медикаментозные стратегии"
+          }
+        },
+        {
+          "text": {
+            "en": "Review of all current medications.\nFor women planning pregnancy imminently, modification of HF pharmacotherapy including: discontinuation of any ACEi, ARB, ARNi, MRA, or SGLT2i or ivabradine medications; within a construct of multidisciplinary shared decision-making, continuation of a beta blocker (most commonly metoprolol), hydralazine, and nitrates; adjustment of diuretic dosing to minimize the risk of placental hypoperfusion.13–15\nIdeally, repeat echocardiography approximately 3 mo after preconception HF medication adjustments to ensure stability of myocardial structure and function before conception.",
+            "ru": "Ревизия всех принимаемых лекарственных средств.\nПри скором планировании беременности: заблаговременная отмена тератогенных и фетотоксичных препаратов (иАПФ, БРА, АРНИ, АМР, иНГЛТ-2, ивабрадина, верицигуата); продолжение приема бета-блокаторов (чаще метопролола), гидралазина и нитратов; коррекция доз диуретиков для минимизации риска плацентарной гипоперфузии.\nВ идеале: повторная ЭхоКГ через ~3 месяца после коррекции терапии для подтверждения стабильности структуры и функции миокарда до зачатия."
+          }
+        },
+        {
+          "text": {
+            "en": "Close monitoring of maternal blood pressure, heart rate, and volume status, with adjustment of the modified HF regimen as appropriate to avoid hypotension (systemic vasodilation peaks in the second trimester) and placental hypoperfusion.\nFor women with HF or cardiomyopathy presenting during pregnancy without preconception counseling and assessment, urgent discontinuation of any GDMT pharmacotherapies with fetal toxicities; within a construct of multidisciplinary shared decision-making, continuation of a beta blocker (most commonly metoprolol succinate), hydralazine, and nitrates; adjustment of diuretic dosing to minimize the risk of placental hypoperfusion.",
+            "ru": "Тщательный контроль АД матери, ЧСС и волемического статуса с коррекцией схемы лечения во избежание артериальной гипотензии (пик системной вазодилатации приходится на II триместр) и плацентарной гипоперфузии.\nУ беременных женщин с СН без предшествующего прегравидарного консультирования: экстренная отмена всех препаратов GDMT с фетальной токсичностью; продолжение разрешенных бета-блокаторов (преимущественно метопролола сукцината), гидралазина и нитратов; титрование диуретиков под контролем перфузии плаценты."
+          }
+        },
+        {
+          "text": {
+            "en": "For women with acute HF caused by PPCM and LVEF <30%, consideration of anticoagulation until 6–8 wk postpartum, although the efficacy and safety remain uncertain at this time.\nFor postpartum women with severe acute HF caused by PPCM and LVEF <35%, in GDMT pharmacotherapy and prophylactic anticoagulation, to improve LVEF recovery4,31 (36); the efficacy and safety of bromocriptine for acute PPCM treatment remains uncertain at this time, particularly in the setting of contemporary HF GDMT and cardiogenic shock management.*\nFor women who choose to breastfeed, review medications with neonatology and pediatrics teams for neonatal safety during lactation, ideally with pharmacist consultation if available.\nWithin a construct of multidisciplinary shared decision-making, medications that may be appropriate during breastfeeding include ACEi (enalapril or captopril preferred, monitor neonatal weight), beta blockers (metoprolol preferred, monitor neonatal heart rate).15\nDiuretics can suppress lactation, but with neonatal follow-up the use of furosemide may be appropriate.15",
+            "ru": "При острой СН вследствие ПКМП и ФВ ЛЖ <30%: рассмотрение антикоагулянтной терапии до 6–8 недель после родов (эффективность и безопасность окончательно не установлены).\nПри тяжелой острой ПКМП с ФВ ЛЖ <35% на фоне GDMT и профилактической антикоагуляции для улучшения восстановления ФВ ЛЖ может обсуждаться бромокриптин (эффективность и безопасность в эпоху современной GDMT остаются неопределенными).*\nПри выборе грудного вскармливания: согласование безопасности препаратов с неонатологами и педиатрами; безопасными при лактации считаются иАПФ (эналаприл или каптоприл, контроль веса ребенка), бета-блокаторы (метопролол, контроль ЧСС ребенка).\nДиуретики могут подавлять лактацию, но при контроле неонатолога применение фуросемида допустимо."
+          }
+        }
+      ]
+    },
+    {
+      "id": "strat-03-multidisciplinary",
+      "cells": [
+        {
+          "text": {
+            "en": "Multidisciplinary care beyond the cardiology team",
+            "ru": "Мультидисциплинарная помощь за рамками кардиологии"
+          }
+        },
+        {
+          "text": {
+            "en": "Consultation with genetics, gynecology, and maternal fetal medicine teams, as appropriate to the outcome of shared decision-making.",
+            "ru": "Консультации генетика, гинеколога и специалистов медицины матери и плода в рамках совместного принятия решений."
+          }
+        },
+        {
+          "text": {
+            "en": "Multidisciplinary management with obstetrics and maternal-fetal medicine teams during pregnancy.\nFor women with decompensated HF or evidence of hemodynamic instability antepartum, delivery planning will include obstetrics and maternal-fetal medicine, anesthesia, and neonatology teams.",
+            "ru": "Ведение мультидисциплинарной командой с участием акушеров-гинекологов и врачей медицины плода.\nПри декомпенсации СН или гемодинамической нестабильности до родов: план родоразрешения составляется совместно акушерами, анестезиологами-реаниматологами и неонатологами."
+          }
+        },
+        {
+          "text": {
+            "en": "Multidisciplinary management with obstetrics, maternal-fetal medicine, neonatology, and pediatrics teams, especially for multidisciplinary recommendations regarding lactation.\nConsultation with gynecology team for ongoing contraceptive planning.",
+            "ru": "Мультидисциплинарное ведение совместно с акушерами, педиатрами и неонатологами, особенно в отношении тактики грудного вскармливания.\nКонсультация гинеколога для долгосрочного планирования надежной контрацепции."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "ACEi indicates angiotensin-converting enzyme inhibitor; ARB, angiotensin receptor blocker; ARNi, angiotensin receptor-neprilysin inhibitor; BNP, B-natriuretic peptide; GDMT, guideline-directed medical therapy; HF, heart failure; LVEF, left ventricular ejection fraction; MCS, mechanical circulatory support; MRA, mineralocorticoid receptor antagonist; NT-proBNP, N-terminal prohormone of brain natriuretic peptide; PPCM, peripartum cardiomyopathy; RCT, randomized controlled trial; RV, right ventricular; and SGLT2i, sodium-glucose cotransporter-2 inhibitor.",
+      "ru": "ACEi (иАПФ) — ингибитор АПФ; ARB (БРА) — блокатор рецепторов ангиотензина; ARNi (АРНИ) — ингибитор рецепторов ангиотензина и неприлизина; BNP — натрийуретический пептид; GDMT — терапия по клиническим рекомендациям; HF (СН) — сердечная недостаточность; LVEF (ФВ ЛЖ) — фракция выброса левого желудочка; MCS — механическая поддержка кровообращения; MRA (АМР) — антагонист минералокортикоидных рецепторов; NT-proBNP — N-концевой предшественник BNP; PPCM (ПКМП) — перипартальная кардиомиопатия; RCT (РКИ) — рандомизированное исследование; RV (ПЖ) — правый желудочек; SGLT2i (иНГЛТ-2) — ингибитор натрий-глюкозного котранспортера 2 типа."
+    },
+    "b": {
+      "en": "*Bromocriptine: an initial open-label pilot RCT in South Africa suggested addition of bromocriptine to GDMT improved LVEF recovery and lower composite endpoint at 6 mo. A multicenter German study randomized 63 patients to 1 vs 8 wk of bromocriptine. Bromocriptine may currently be most justified in women with LVEF <25% or cardiogenic shock. Bromocriptine stops lactation and should be accompanied by prophylactic-dose anticoagulation due to hypercoagulability risk.",
+      "ru": "*Бромокриптин: пилотное РКИ показало улучшение восстановления ФВ ЛЖ при добавлении бромокриптина к GDMT. В настоящее время может быть наиболее оправдан при тяжелой дисфункции (ФВ ЛЖ <25%) или кардиогенном шоке. Препарат полностью прекращает лактацию и требует обязательной сопутствующей антикоагулянтной терапии ввиду риска гиперкоагуляции."
+    }
+  }
+}

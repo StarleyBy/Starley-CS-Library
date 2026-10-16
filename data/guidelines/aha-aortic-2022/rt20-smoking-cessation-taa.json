@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt20-smoking-cessation-taa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 20",
+  "title": {
+    "en": "Recommendation for Smoking Cessation in TAA",
+    "ru": "Рекомендация по отказу от курения при аневризме грудной аорты (АГА)"
+  },
+  "tags": [
+    "smoking",
+    "smoking-cessation",
+    "taa",
+    "thoracic-aorta",
+    "lifestyle",
+    "prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-smoking-cessation-taa",
+      "title": {
+        "en": "Smoking Cessation in TAA",
+        "ru": "Отказ от курения при АГА"
+      },
+      "rows": [
+        {
+          "id": "r01-smoking-cessation-efforts",
+          "text": {
+            "en": "In patients with TAA who smoke cigarettes, smoking cessation efforts are recommended.",
+            "ru": "Пациентам с АГА, курящим сигареты, рекомендуются активные меры по отказу от курения."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

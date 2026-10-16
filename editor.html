@@ -6,6 +6,7 @@
     <title>Starley Medical Editor</title>
     <link rel="stylesheet" href="assets/css/styles.css?v=2.2">
     <link rel="stylesheet" href="assets/css/editor.css?v=2.2">
+    <link rel="stylesheet" href="assets/css/guideline-link-picker.css?v=1.0">
     <link rel="stylesheet" href="assets/css/auth.css">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css">
@@ -119,6 +120,16 @@
                     <button id="btn-load-hebrew" class="btn-load" style="background: #2980b9;" title="Load Hebrew Version">עברית</button>
                 </div>
             </div></div>
+            </div>
+
+            <!-- Ссылки на гайдлайны -->
+            <div class="tool-group">
+                <h4>📋 Guidelines Link <button class="tool-group-pin" title="Pin open">📌</button></h4>
+                <div class="tool-group-content"><div class="tool-group-content-inner">
+                    <button type="button" id="btn-insert-guideline-link" class="btn-load" onclick="window.GuidelineLinkPicker?.open()" style="width:100%; background:linear-gradient(135deg, #0284c7, #0369a1); color:white; font-weight:700; font-size:0.84rem; padding:8px 10px; border-radius:6px; cursor:pointer; border:1px solid #38bdf8; display:flex; align-items:center; justify-content:center; gap:6px;" title="Вставить ссылку на гайдлайн или таблицу в текст главы">
+                        <span>📋</span> <span>Вставить гайдлайн</span>
+                    </button>
+                </div></div>
             </div>
 
             <!-- Цветные овалы -->
@@ -644,6 +655,7 @@
     <script src="assets/js/supabase-api.js?v=1.0"></script>
     <script src="assets/js/auth.js?v=4.5"></script>
     <script src="assets/js/editor.js?v=2.2"></script>
+    <script src="assets/js/guideline-link-picker.js?v=1.0"></script>
     <script src="combain/combiner-launcher.js?v=1.0"></script>
 </body>
 </html>

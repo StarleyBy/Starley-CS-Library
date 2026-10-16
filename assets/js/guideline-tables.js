@@ -9,7 +9,7 @@
   class GuidelineManager {
     constructor() {
       this.basePath = this.detectBasePath();
-      this.currentLang = 'ru'; // 'ru' or 'en'
+      this.currentLang = 'en'; // default English
       this.registry = null;
       this.legends = {};
       this.guidelinesMeta = {};
@@ -21,6 +21,40 @@
 
       this.initDom();
       this.initRouting();
+    }
+
+    detectContextLanguage() {
+      // 1. In Russian chapter in reader.html
+      const isReader = window.location.pathname.includes('reader.html');
+      if (isReader) {
+        const urlParams = new URLSearchParams(window.location.search);
+        const edition = (urlParams.get('edition') || '').toLowerCase();
+        if (edition === 'russian' || document.documentElement.lang === 'ru') {
+          return 'ru';
+        }
+      }
+
+      // 2. In Russian quiz solving session in quiz.html
+      const isQuiz = window.location.pathname.includes('quiz.html');
+      if (isQuiz) {
+        const isSolving = document.getElementById('screen-question')?.classList.contains('active');
+        if (isSolving) {
+          let quizLang = '';
+          if (typeof state !== 'undefined' && state?.settings?.lang) {
+            quizLang = state.settings.lang;
+          } else if (window.quizState?.settings?.lang) {
+            quizLang = window.quizState.settings.lang;
+          } else {
+            quizLang = localStorage.getItem('starley_quiz_lang') || '';
+          }
+          if (quizLang.toLowerCase() === 'ru') {
+            return 'ru';
+          }
+        }
+      }
+
+      // Default is English in all other cases
+      return 'en';
     }
 
     detectBasePath() {
@@ -146,8 +180,8 @@
               </div>
               <button class="gt-btn" id="gt-btn-catalog" title="Catalog / List">📚 Каталог</button>
               <div class="gt-lang-toggle">
-                <button class="gt-lang-btn is-active" data-lang="ru">RU</button>
-                <button class="gt-lang-btn" data-lang="en">EN</button>
+                <button class="gt-lang-btn" data-lang="ru">RU</button>
+                <button class="gt-lang-btn is-active" data-lang="en">EN</button>
               </div>
               <button class="gt-btn-close" id="gt-btn-close" aria-label="Close">✕</button>
             </div>
@@ -211,20 +245,43 @@
       const handleHash = () => {
         const hash = window.location.hash;
         if (hash.startsWith('#guidelines') || hash.startsWith('#/guidelines') || hash.startsWith('#/tables/')) {
-          let tableId = '';
+          let ref = '';
           if (hash.includes('/')) {
             const parts = hash.split('/');
-            tableId = parts[parts.length - 1];
-            if (tableId === 'guidelines' || tableId === 'tables') tableId = '';
+            ref = parts[parts.length - 1];
+            if (ref === 'guidelines' || ref === 'tables') ref = '';
           }
-          this.open(tableId);
+          this.open(ref);
         }
       };
 
       window.addEventListener('hashchange', handleHash);
-      if (window.location.hash.startsWith('#guidelines') || window.location.hash.startsWith('#/tables/')) {
+      if (window.location.hash.startsWith('#guidelines') || window.location.hash.startsWith('#/guidelines') || window.location.hash.startsWith('#/tables/')) {
         setTimeout(handleHash, 250);
       }
+
+      // Universal click listener for deep links anywhere on the page (Reader, Quiz, Search)
+      document.addEventListener('click', (e) => {
+        const link = e.target.closest('a[href*="#/tables/"], a[href*="#/guidelines/"], a[href="#guidelines"], a[href="#/guidelines"]');
+        if (!link) return;
+        const href = link.getAttribute('href') || '';
+        if (href.includes('#/tables/')) {
+          e.preventDefault();
+          const tableId = href.split('#/tables/')[1]?.split('?')[0]?.split('#')[0];
+          if (tableId) {
+            this.open(decodeURIComponent(tableId));
+          }
+        } else if (href.includes('#/guidelines/')) {
+          e.preventDefault();
+          const guidelineId = href.split('#/guidelines/')[1]?.split('?')[0]?.split('#')[0];
+          if (guidelineId) {
+            this.open(decodeURIComponent(guidelineId));
+          }
+        } else if (href === '#guidelines' || href === '#/guidelines') {
+          e.preventDefault();
+          this.open();
+        }
+      });
     }
 
     updateUiLang() {
@@ -251,11 +308,17 @@
     onOpen(cb) { this.onOpenCallbacks.push(cb); }
     onClose(cb) { this.onCloseCallbacks.push(cb); }
 
-    async open(tableId = '') {
+    async open(targetRef = '') {
       this.initDom();
-      this.updateUiLang();
+      this.currentLang = this.detectContextLanguage();
       const overlay = document.getElementById('gt-modal-overlay');
-      overlay.classList.add('is-open');
+      if (overlay) {
+        overlay.querySelectorAll('.gt-lang-btn').forEach(btn => {
+          btn.classList.toggle('is-active', btn.dataset.lang === this.currentLang);
+        });
+        overlay.classList.add('is-open');
+      }
+      this.updateUiLang();
       this.isOpen = true;
       document.body.style.overflow = 'hidden';
 
@@ -263,8 +326,14 @@
         try { cb(); } catch (e) { console.error(e); }
       });
 
-      if (tableId) {
-        await this.loadAndShowTable(tableId);
+      if (targetRef) {
+        const index = await this.loadIndex();
+        const isGuideline = (index?.guidelines || []).some(g => g.id === targetRef);
+        if (isGuideline) {
+          await this.showGuidelineTables(targetRef);
+        } else {
+          await this.loadAndShowTable(targetRef);
+        }
       } else {
         await this.showCatalog();
       }
@@ -276,7 +345,7 @@
       this.isOpen = false;
       document.body.style.overflow = '';
 
-      if (window.location.hash.startsWith('#guidelines') || window.location.hash.startsWith('#/tables/')) {
+      if (window.location.hash.startsWith('#guidelines') || window.location.hash.startsWith('#/guidelines') || window.location.hash.startsWith('#/tables/')) {
         history.replaceState(null, document.title, window.location.pathname + window.location.search);
       }
 

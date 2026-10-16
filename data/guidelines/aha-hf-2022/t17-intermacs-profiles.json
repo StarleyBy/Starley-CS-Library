@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t17-intermacs-profiles",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 17",
+  "type": "grid",
+  "title": {
+    "en": "INTERMACS Profiles",
+    "ru": "Клинические профили INTERMACS"
+  },
+  "tags": [
+    "intermacs",
+    "advanced-hf",
+    "lvad",
+    "cardiogenic-shock",
+    "inotropes",
+    "profiles",
+    "mechanical-circulatory-support",
+    "stage-d"
+  ],
+  "columns": [
+    {
+      "id": "c_profile",
+      "title": { "en": "Profile", "ru": "Профиль" }
+    },
+    {
+      "id": "c_description",
+      "title": { "en": "Profile Description", "ru": "Клиническое описание" }
+    },
+    {
+      "id": "c_features",
+      "title": { "en": "Features", "ru": "Характеристики" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "profile-1",
+      "cells": [
+        { "text": { "en": "**1**", "ru": "**1**" } },
+        {
+          "text": {
+            "en": "**Critical cardiogenic shock**",
+            "ru": "**Критический кардиогенный шок**"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "Life-threatening hypotension and rapidly escalating inotropic/pressor support, with critical organ hypoperfusion often confirmed by worsening acidosis and lactate levels.",
+            "ru": "Жизнеугрожающая артериальная гипотензия и быстрое наращивание инотропной/вазопрессорной поддержки с критической гипоперфузией органов, часто подтверждаемой нарастающим ацидозом и уровнем лактата."
+          }
+        }
+      ]
+    },
+    {
+      "id": "profile-2",
+      "cells": [
+        { "text": { "en": "**2**", "ru": "**2**" } },
+        {
+          "text": {
+            "en": "**Progressive decline**",
+            "ru": "**Прогрессирующее ухудшение**"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "\"Dependent\" on inotropic support but nonetheless shows signs of continuing deterioration in nutrition, renal function, fluid retention, or other major status indicator. Can also apply to a patient with refractory volume overload, perhaps with evidence of impaired perfusion, in whom inotropic infusions cannot be maintained because of tachyarrhythmias, clinical ischemia, or other intolerance.",
+            "ru": "«Зависим» от инотропной поддержки, но, тем не менее, демонстрирует признаки прогрессирующего ухудшения нутритивного статуса, функции почек, задержки жидкости или других ключевых показателей. Также относится к пациентам с рефрактерной гиперволемией (возможно, с признаками нарушения перфузии), которым невозможно продолжать инфузию инотропов из-за тахиаритмий, ишемии или другой непереносимости."
+          }
+        }
+      ]
+    },
+    {
+      "id": "profile-3",
+      "cells": [
+        { "text": { "en": "**3**", "ru": "**3**" } },
+        {
+          "text": {
+            "en": "**Stable but inotrope dependent**",
+            "ru": "**Стабилен, но инотропозависим**"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "Clinically stable on mild-moderate doses of intravenous inotropes (or has a temporary circulatory support device) after repeated documentation of failure to wean without symptomatic hypotension, worsening symptoms, or progressive organ dysfunction (usually renal).",
+            "ru": "Клинически стабилен на малых и умеренных дозах внутривенных инотропов (или на временном устройстве механической поддержки кровообращения) после неоднократно документированных неудачных попыток отмены из-за симптомной гипотензии, нарастания симптомов или прогрессирующей органной дисфункции (обычно почечной)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "profile-4",
+      "cells": [
+        { "text": { "en": "**4**", "ru": "**4**" } },
+        {
+          "text": {
+            "en": "**Resting symptoms on oral therapy at home**",
+            "ru": "**Симптомы в покое на пероральной терапии дома**"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "Patient who is at home on oral therapy but frequently has symptoms of congestion at rest or with activities of daily living (dressing or bathing). He or she may have orthopnea, shortness of breath during dressing or bathing, gastrointestinal symptoms (abdominal discomfort, nausea, poor appetite), disabling ascites, or severe lower extremity edema.",
+            "ru": "Пациент находится дома на пероральной терапии, но часто испытывает симптомы застоя в покое или при повседневной активности (одевание, купание). Может иметь ортопноэ, одышку при одевании/купании, гастроинтестинальные симптомы (дискомфорт в животе, тошнота, плохой аппетит), инвалидизирующий асцит или выраженные отёки нижних конечностей."
+          }
+        }
+      ]
+    },
+    {
+      "id": "profile-5",
+      "cells": [
+        { "text": { "en": "**5**", "ru": "**5**" } },
+        {
+          "text": {
+            "en": "**Exertion intolerant**",
+            "ru": "**Непереносимость физической нагрузки**"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "Patient who is comfortable at rest but unable to engage in any activity, living predominantly within the house or housebound.",
+            "ru": "Пациент чувствует себя комфортно в покое, но не способен к какой-либо физической активности; в основном прикован к дому."
+          }
+        }
+      ]
+    },
+    {
+      "id": "profile-6",
+      "cells": [
+        { "text": { "en": "**6**", "ru": "**6**" } },
+        {
+          "text": {
+            "en": "**Exertion limited**",
+            "ru": "**Ограничение физической нагрузки**"
+          },
+          "tone": "blue"
+        },
+        {
+          "text": {
+            "en": "Patient who is comfortable at rest without evidence of fluid overload but who is able to do some mild activity. Activities of daily living are comfortable, and minor activities outside the home such as visiting friends or going to a restaurant can be performed, but fatigue results within a few minutes or with any meaningful physical exertion.",
+            "ru": "Пациент стабилен в покое без признаков гиперволемии и способен к лёгкой активности. Повседневная домашняя деятельность комфортна, возможны небольшие выходы из дома (в гости, в ресторан), однако усталость наступает через несколько минут или при любой значимой физической нагрузке."
+          }
+        }
+      ]
+    },
+    {
+      "id": "profile-7",
+      "cells": [
+        { "text": { "en": "**7**", "ru": "**7**" } },
+        {
+          "text": {
+            "en": "**Advanced NYHA class III**",
+            "ru": "**Продвинутый III ФК по NYHA**"
+          },
+          "tone": "blue"
+        },
+        {
+          "text": {
+            "en": "Patient who is clinically stable with a reasonable level of comfortable activity, despite a history of previous decompensation that is not recent. This patient is usually able to walk more than a block. Any decompensation requiring intravenous diuretics or hospitalization within the previous month should make this person a Patient Profile 6 or lower.",
+            "ru": "Клинически стабильный пациент с приемлемым уровнем комфортной активности, несмотря на перенесённую в прошлом декомпенсацию. Обычно способен пройти больше одного квартала. Любая декомпенсация, потребовавшая внутривенных диуретиков или госпитализации в течение предшествующего месяца, переводит пациента в профиль 6 или ниже."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "ICD indicates implantable cardioverter-defibrillator; INTERMACS, Interagency Registry for Mechanically Assisted Circulatory Support; and NYHA, New York Heart Association. Adapted from Stevenson et al. Modifier options: Profiles 3 to 6 can be modified for patients with recurrent decompensations leading to frequent (generally at least 2 in past 3 mo or 3 in past 6 mo) emergency department visits or hospitalizations for intravenous diuretics, ultrafiltration, or brief inotropic therapy. Profile 3 can be modified in this manner if the patient is usually at home. If a Profile 7 patient meets the modification of frequent hospitalizations, the patient should be moved to Profile 6 or worse. Other modifier options include arrhythmia, which should be used in the presence of recurrent ventricular tachyarrhythmias contributing to the overall clinical course (eg, frequent ICD shocks or requirement of external defibrillation, usually more than twice weekly); or temporary circulatory support for hospitalized patients Profiles 1 to 3.",
+      "ru": "INTERMACS — Межведомственный регистр механической поддержки кровообращения; ИКД — имплантируемый кардиовертер-дефибриллятор; NYHA — Нью-Йоркская ассоциация кардиологов. Модификаторы: профили 3–6 могут иметь модификатор частых декомпенсаций (≥2 визита в ОНП/госпитализации за 3 мес. или ≥3 за 6 мес. для в/в диуретиков, ультрафильтрации или кратковременных инотропов). Другие модификаторы включают аритмию (рецидивирующие желудочковые тахиаритмии, частые шоки ИКД) или временную механическую поддержку кровообращения для госпитализированных пациентов (профили 1–3)."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

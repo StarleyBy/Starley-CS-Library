@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt12-hfimpef",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendation for HF With Improved Ejection Fraction",
+  "title": {
+    "en": "Recommendation for HF With Improved Ejection Fraction",
+    "ru": "Рекомендация по сердечной недостаточности с улучшенной фракцией выброса (HFimpEF)"
+  },
+  "tags": [
+    "hfimpef",
+    "improved-ef",
+    "gdmt",
+    "continuation-therapy",
+    "relapse-prevention",
+    "remission",
+    "asymptomatic"
+  ],
+  "sections": [
+    {
+      "id": "sec-hfimpef-management",
+      "title": {
+        "en": "Management of Heart Failure with Improved Ejection Fraction",
+        "ru": "Ведение пациентов с сердечной недостаточностью с улучшенной фракцией выброса"
+      },
+      "rows": [
+        {
+          "id": "r01-continue-gdmt-hfimpef",
+          "text": {
+            "en": "In patients with HFimpEF after treatment, GDMT should be continued to prevent relapse of HF and LV dysfunction, even in patients who may become asymptomatic.",
+            "ru": "У пациентов с HFimpEF (СН с улучшенной ФВ) после лечения терапия GDMT должна продолжаться для предотвращения рецидива СН и дисфункции ЛЖ, даже у пациентов, у которых симптомы полностью регрессировали."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

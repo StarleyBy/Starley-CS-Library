@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt56-pau-imh-rupture",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 56",
+  "title": {
+    "en": "Recommendations for PAU With IMH, Rupture, or Both",
+    "ru": "Рекомендации по ведению пенетрирующей атеросклеротической язвы (PAU) с интрамуральной гематомой (IMH), разрывом или их сочетанием"
+  },
+  "tags": [
+    "pau",
+    "penetrating-atherosclerotic-ulcer",
+    "imh",
+    "rupture",
+    "urgent-repair",
+    "ascending-aorta",
+    "aortic-arch",
+    "descending-thoracic-aorta",
+    "abdominal-aorta"
+  ],
+  "sections": [
+    {
+      "id": "sec-pau-imh-rupture",
+      "title": {
+        "en": "PAU With IMH, Rupture, or Both",
+        "ru": "PAU с IMH, разрывом или их сочетанием"
+      },
+      "rows": [
+        {
+          "id": "r01-pau-rupture-urgent-repair",
+          "text": {
+            "en": "In patients with PAU of the aorta with rupture, urgent repair is recommended.",
+            "ru": "У пациентов с PAU аорты при наличии разрыва рекомендуется экстренное вмешательство."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-pau-ascending-aorta-imh-urgent-repair",
+          "text": {
+            "en": "In patients with PAU of the ascending aorta with associated IMH, urgent repair is recommended.",
+            "ru": "У пациентов с PAU восходящей аорты с сопутствующей IMH рекомендуется экстренное вмешательство."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r03-pau-arch-descending-imh-urgent-repair",
+          "text": {
+            "en": "In patients with PAU of the aortic arch or descending thoracic aorta with associated IMH, urgent repair is reasonable.",
+            "ru": "У пациентов с PAU дуги аорты или нисходящей грудной аорты с сопутствующей IMH целесообразно экстренное вмешательство."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r04-pau-abdominal-aorta-imh-urgent-repair",
+          "text": {
+            "en": "In patients with PAU of the abdominal aorta with associated IMH, urgent repair may be considered.",
+            "ru": "У пациентов с PAU брюшной аорты с сопутствующей IMH может быть рассмотрено экстренное вмешательство."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt66-surveillance-paus",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 66",
+  "title": {
+    "en": "Recommendations for Long-Term Management and Surveillance for PAUs",
+    "ru": "Рекомендации по долгосрочному ведению и наблюдению за пенетрирующими атеросклеротическими язвами (PAU)"
+  },
+  "tags": [
+    "pau",
+    "penetrating-atherosclerotic-ulcer",
+    "surveillance",
+    "long-term-management",
+    "ct-imaging"
+  ],
+  "sections": [
+    {
+      "id": "sec-long-term-management-surveillance-paus",
+      "title": {
+        "en": "Long-Term Management and Surveillance for PAUs",
+        "ru": "Долгосрочное ведение и наблюдение за PAU"
+      },
+      "rows": [
+        {
+          "id": "r01-repaired-pau-surveillance",
+          "text": {
+            "en": "In patients with a PAU who have undergone aortic repair, surveillance imaging at intervals appropriate for the repair approach and location (see Section 6.5.6, \"Surveillance After Aneurysm Repair\") is reasonable.",
+            "ru": "У пациентов с PAU, перенесших операцию на аорте, целесообразно визуализирующее наблюдение с интервалами, соответствующими типу вмешательства и локализации (см. Раздел 6.5.6 «Наблюдение после вмешательства по поводу аневризмы»)."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-medical-pau-surveillance",
+          "text": {
+            "en": "In patients with a PAU that is being managed medically, surveillance imaging with a CT is reasonable at 1 month after the diagnosis and, if stable, every 6 months for 2 years, and then at appropriate intervals thereafter (depending on patient age and PAU characteristics).",
+            "ru": "У пациентов с PAU на медикаментозном лечении целесообразен визуализационный контроль с помощью КТ через 1 месяц после установления диагноза и, при стабильном состоянии, каждые 6 месяцев в течение 2 лет, а затем с соответствующими интервалами в дальнейшем (в зависимости от возраста пациента и характеристик PAU)."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

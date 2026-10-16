@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t23-shock-hemodynamic-criteria",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 23",
+  "type": "grid",
+  "title": {
+    "en": "Suggested Shock Hemodynamic Criteria",
+    "ru": "Предлагаемые гемодинамические критерии кардиогенного шока"
+  },
+  "tags": [
+    "cardiogenic-shock",
+    "shock",
+    "hemodynamics",
+    "cardiac-index",
+    "pcwp",
+    "cpo",
+    "shock-index",
+    "rv-shock",
+    "papi",
+    "cvp"
+  ],
+  "columns": [
+    {
+      "id": "c_item",
+      "title": { "en": "Parameter / Domain", "ru": "Параметр / Домен" }
+    },
+    {
+      "id": "c_criteria",
+      "title": { "en": "Hemodynamic Diagnostic Criteria", "ru": "Гемодинамические диагностические критерии" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "h01-bp",
+      "cells": [
+        {
+          "text": {
+            "en": "1. Systemic Blood Pressure",
+            "ru": "1. Системное артериальное давление"
+          }
+        },
+        {
+          "text": {
+            "en": "SBP <90 mm Hg or mean BP <60 mm Hg",
+            "ru": "САД <90 мм рт. ст. или среднее АД <60 мм рт. ст."
+          }
+        }
+      ]
+    },
+    {
+      "id": "h02-cardiac-index",
+      "cells": [
+        {
+          "text": {
+            "en": "2. Cardiac Index (CI)",
+            "ru": "2. Сердечный индекс (СИ)"
+          }
+        },
+        {
+          "text": {
+            "en": "<2.2 L/min/m²",
+            "ru": "<2,2 л/мин/м²"
+          }
+        }
+      ]
+    },
+    {
+      "id": "h03-pcwp",
+      "cells": [
+        {
+          "text": {
+            "en": "3. Pulmonary Capillary Wedge Pressure (PCWP)",
+            "ru": "3. Давление заклинивания легочных капилляров (ДЗЛА)"
+          }
+        },
+        {
+          "text": {
+            "en": ">15 mm Hg",
+            "ru": ">15 мм рт. ст."
+          }
+        }
+      ]
+    },
+    {
+      "id": "h04-cpo",
+      "cells": [
+        {
+          "text": {
+            "en": "4a. Cardiac Power Output (CPO)",
+            "ru": "4а. Сердечная мощность (CPO)"
+          }
+        },
+        {
+          "text": {
+            "en": "([CO × MAP] / 451) <0.6 W",
+            "ru": "([СВ × СрАД] / 451) <0,6 Вт"
+          }
+        }
+      ]
+    },
+    {
+      "id": "h05-shock-index",
+      "cells": [
+        {
+          "text": {
+            "en": "4b. Shock Index (SI)",
+            "ru": "4б. Шоковый индекс (ШИ)"
+          }
+        },
+        {
+          "text": {
+            "en": "(HR / systolic BP) >1.0",
+            "ru": "(ЧСС / САД) >1,0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "h06-papi",
+      "cells": [
+        {
+          "text": {
+            "en": "4c-i. RV shock: Pulmonary Artery Pulsatility Index (PAPi)",
+            "ru": "4в-i. ПЖ-шок: индекс пульсатильности легочной артерии (PAPi)"
+          }
+        },
+        {
+          "text": {
+            "en": "([PASP - PADP] / CVP) <1.0",
+            "ru": "([СДЛА - ДДЛА] / ЦВД) <1,0"
+          }
+        }
+      ]
+    },
+    {
+      "id": "h07-cvp",
+      "cells": [
+        {
+          "text": {
+            "en": "4c-ii. RV shock: Central Venous Pressure (CVP)",
+            "ru": "4в-ii. ПЖ-шок: центральное венозное давление (ЦВД)"
+          }
+        },
+        {
+          "text": {
+            "en": ">15 mm Hg",
+            "ru": ">15 мм рт. ст."
+          }
+        }
+      ]
+    },
+    {
+      "id": "h08-cvp-pcw",
+      "cells": [
+        {
+          "text": {
+            "en": "4c-iii. RV shock: CVP / PCW ratio",
+            "ru": "4в-iii. ПЖ-шок: соотношение ЦВД / ДЗЛА"
+          }
+        },
+        {
+          "text": {
+            "en": ">0.6",
+            "ru": ">0,6"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "BP indicates blood pressure; CO, cardiac output; CVP, central venous pressure; HR, heart rate; MAP, mean arterial pressure; PADP, pulmonary artery diastolic pressure; PASP, pulmonary artery systolic pressure; PCW, pulmonary capillary wedge; RV, right ventricular; and SBP, systolic blood pressure.",
+      "ru": "BP (АД) — артериальное давление; CO (СВ) — сердечный выброс; CVP (ЦВД) — центральное венозное давление; HR (ЧСС) — частота сердечных сокращений; MAP (СрАД) — среднее артериальное давление; PADP (ДДЛА) — диастолическое давление в легочной артерии; PASP (СДЛА) — систолическое давление в легочной артерии; PCW (ДЗЛА) — давление заклинивания легочных капилляров; RV (ПЖ) — правый желудочек; SBP (САД) — систолическое артериальное давление."
+    },
+    "b": {
+      "en": "*Diagnosis of shock requires ≥1 criteria to be present along with cardiac index <2.0 L/min/m² and SBP <90 mm Hg.",
+      "ru": "*Диагностика кардиогенного шока требует наличия ≥1 критерия в сочетании с сердечным индексом <2,0 л/мин/м² и САД <90 мм рт. ст."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t21-abnormal-findings-duplex-evar",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 21",
+  "type": "grid",
+  "title": {
+    "en": "Abnormal Findings on Duplex Imaging After EVAR That Should Prompt Additional Imaging",
+    "ru": "Патологические изменения при дуплексном сканировании после EVAR, требующие дополнительной визуализации"
+  },
+  "tags": [
+    "evar",
+    "duplex",
+    "surveillance",
+    "endoleak",
+    "sac-enlargement",
+    "migration",
+    "stent-graft-fracture"
+  ],
+  "columns": [
+    {
+      "id": "finding",
+      "title": {
+        "en": "Abnormal Findings on Duplex Imaging After EVAR That Should Prompt Additional Imaging",
+        "ru": "Патологические изменения при дуплексном сканировании после EVAR, требующие дополнительной визуализации"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sac-enlargement",
+      "cells": [
+        {
+          "text": {
+            "en": "Aneurysm sac enlargement",
+            "ru": "Увеличение размеров аневризматического мешка"
+          }
+        }
+      ]
+    },
+    {
+      "id": "any-endoleak",
+      "cells": [
+        {
+          "text": {
+            "en": "Any endoleak",
+            "ru": "Любой эндолик (подтекание)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stent-graft-fracture",
+      "cells": [
+        {
+          "text": {
+            "en": "Stent graft fracture",
+            "ru": "Перелом структуры стент-графта"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stent-graft-migration",
+      "cells": [
+        {
+          "text": {
+            "en": "Stent graft migration",
+            "ru": "Миграция стент-графта"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stent-graft-separation",
+      "cells": [
+        {
+          "text": {
+            "en": "Stent graft separation",
+            "ru": "Разъединение компонентов стент-графта"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

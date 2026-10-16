@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t32-high-risk-imaging-features-bttai",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 32",
+  "type": "grid",
+  "title": {
+    "en": "High-Risk Imaging Features of BTTAI",
+    "ru": "Признаки высокого риска при визуализации тупой травмы грудной аорты (BTTAI)"
+  },
+  "tags": [
+    "bttai",
+    "blunt-trauma",
+    "high-risk-imaging",
+    "mediastinal-hematoma",
+    "pseudocoarctation",
+    "hemothorax"
+  ],
+  "columns": [
+    {
+      "id": "feature",
+      "title": {
+        "en": "Feature",
+        "ru": "Признак"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "posterior-mediastinal-hematoma",
+      "cells": [
+        {
+          "text": {
+            "en": "Posterior mediastinal hematoma >10 mm",
+            "ru": "Гематома заднего средостения >10 мм"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesion-to-normal-diameter-ratio",
+      "cells": [
+        {
+          "text": {
+            "en": "Lesion to normal aortic diameter ratio >1.4",
+            "ru": "Отношение диаметра зоны повреждения к нормальному диаметру аорты >1,4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mediastinal-hematoma-mass-effect",
+      "cells": [
+        {
+          "text": {
+            "en": "Mediastinal hematoma causing mass effect",
+            "ru": "Гематома средостения с объемным воздействием (масс-эффектом)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pseudocoarctation",
+      "cells": [
+        {
+          "text": {
+            "en": "Pseudocoarctation of the aorta",
+            "ru": "Псевдокоарктация аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "large-left-hemothorax",
+      "cells": [
+        {
+          "text": {
+            "en": "Large left hemothorax",
+            "ru": "Массивный левосторонний гемоторакс"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ascending-arch-great-vessel-involvement",
+      "cells": [
+        {
+          "text": {
+            "en": "Ascending aortic, aortic arch, or great vessel involvement",
+            "ru": "Вовлечение восходящей аорты, дуги аорты или брахиоцефальных сосудов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aortic-arch-hematoma",
+      "cells": [
+        {
+          "text": {
+            "en": "Aortic arch hematoma",
+            "ru": "Гематома в области дуги аорты"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

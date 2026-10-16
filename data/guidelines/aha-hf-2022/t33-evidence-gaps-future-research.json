@@ -1,0 +1,870 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t33-evidence-gaps-future-research",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 33",
+  "type": "grid",
+  "title": {
+    "en": "Evidence Gaps and Future Research Directions",
+    "ru": "Пробелы в доказательной базе и перспективные направления будущих исследований"
+  },
+  "tags": [
+    "evidence-gaps",
+    "future-research",
+    "clinical-trials",
+    "precision-medicine",
+    "biomarkers",
+    "hfpef",
+    "hfmref",
+    "sglt2i",
+    "arni",
+    "artificial-intelligence",
+    "digital-health"
+  ],
+  "columns": [
+    {
+      "id": "c_domain",
+      "title": { "en": "Domain / Category", "ru": "Область / Категория" }
+    },
+    {
+      "id": "c_direction",
+      "title": { "en": "Evidence Gap / Future Research Direction", "ru": "Пробел в доказательствах / Направление исследований" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "gap-01-def-classification",
+      "cells": [
+        { "text": { "en": "Definition", "ru": "Определение и классификация" } },
+        {
+          "text": {
+            "en": "Consensus on specific classifications of HFrEF, HFpEF, HFmrEF, and HFimpEF or whether a 2-category definition of HFrEF and HF with normal EF, or an additional category of HFimpEF is needed separately for HFpEF; and whether these approaches can be uniformly applied to clinical trials and practice.",
+            "ru": "Консенсус по классификации HFrEF, HFpEF, HFmrEF и HFimpEF или обоснованности 2-категориального разделения (HFrEF и СН с нормальной ФВ), либо выделения отдельной категории HFimpEF для HFpEF, а также их единообразное применение в клинических исследованиях и практике."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-02-def-myocarditis",
+      "cells": [
+        { "text": { "en": "Definition", "ru": "Определение и классификация" } },
+        {
+          "text": {
+            "en": "Definitions, detection, and management of myocarditis and myocardial injury, especially in the context of rapidly evolving concepts, such as COVID-19 infection and cardiotoxicity.",
+            "ru": "Определения, диагностика и лечение миокардита и повреждения миокарда, особенно в контексте быстро меняющихся концепций (инфекция COVID-19, лекарственная кардиотоксичность)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-03-def-cmp",
+      "cells": [
+        { "text": { "en": "Definition", "ru": "Определение и классификация" } },
+        {
+          "text": {
+            "en": "Definition and classification of cardiomyopathies.",
+            "ru": "Определение и классификация кардиомиопатий."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-04-scr-cost-effectiveness",
+      "cells": [
+        { "text": { "en": "Screening", "ru": "Скрининг" } },
+        {
+          "text": {
+            "en": "Cost-effectiveness of different strategies to screen for HF.",
+            "ru": "Клинико-экономическая эффективность различных популяционных стратегий скрининга сердечной недостаточности."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-05-scr-risk-prediction",
+      "cells": [
+        { "text": { "en": "Screening", "ru": "Скрининг" } },
+        {
+          "text": {
+            "en": "Prediction of higher risk for HF among patients with traditional risk factors (eg, which patients with diabetes would be at a higher risk HF, warranting preventive treatment for HF).",
+            "ru": "Прогнозирование высокого риска манифестации СН среди лиц с традиционными факторами риска (например, какие именно пациенты с сахарным диабетом имеют наивысший риск СН, требующий превентивного лечения)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-06-diag-targeted-cause",
+      "cells": [
+        { "text": { "en": "Diagnostics and monitoring", "ru": "Диагностика и мониторинг" } },
+        {
+          "text": {
+            "en": "Individualized treatment targeting specific causes.",
+            "ru": "Индивидуализированное лечение, направленное на конкретные этиологические причины СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-07-diag-precision-medicine",
+      "cells": [
+        { "text": { "en": "Diagnostics and monitoring", "ru": "Диагностика и мониторинг" } },
+        {
+          "text": {
+            "en": "Advanced role of precision medicine with incorporation of genetic, personalized, and individualized factors in medical management of HF.",
+            "ru": "Расширение роли прецизионной медицины с интеграцией генетических, молекулярных и индивидуализированных факторов в ведение пациентов с СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-08-diag-biomarkers",
+      "cells": [
+        { "text": { "en": "Diagnostics and monitoring", "ru": "Диагностика и мониторинг" } },
+        {
+          "text": {
+            "en": "High-value methods to use biomarkers in the optimization of medical therapy.",
+            "ru": "Высокоэффективные методы использования биологических маркеров для оптимизации медикаментозной терапии."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-09-diag-systems-biology",
+      "cells": [
+        { "text": { "en": "Diagnostics and monitoring", "ru": "Диагностика и мониторинг" } },
+        {
+          "text": {
+            "en": "Ability to use integrated systems biology models, including biomarkers, molecular markers, omics, diagnostic modalities, and genetic variables for diagnosis, prognosis, and targeting therapies.",
+            "ru": "Применение комплексных моделей системной биологии (биомаркеры, омиксные технологии, инструментальная визуализация, генетические данные) для диагностики, прогнозирования и таргетной терапии."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-10-diag-dynamic-monitoring",
+      "cells": [
+        { "text": { "en": "Diagnostics and monitoring", "ru": "Диагностика и мониторинг" } },
+        {
+          "text": {
+            "en": "Ability to monitor and adjust therapy to individual changes over time.",
+            "ru": "Возможность динамического мониторинга и точной коррекции терапии в ответ на индивидуальные изменения состояния пациента во времени."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-11-nonmed-diet",
+      "cells": [
+        { "text": { "en": "Nonmedical strategies", "ru": "Немедикаментозные стратегии" } },
+        {
+          "text": {
+            "en": "Efficacy and safety of specific dietary interventions, sodium restriction, and fluid restriction to prevent and treat HF.",
+            "ru": "Эффективность и безопасность специализированных диетических вмешательств, ограничения натрия и жидкости для профилактики и лечения СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-12-nonmed-rehab-pef-mref",
+      "cells": [
+        { "text": { "en": "Nonmedical strategies", "ru": "Немедикаментозные стратегии" } },
+        {
+          "text": {
+            "en": "Efficacy and safety of cardiac rehabilitation in patients with HFpEF and HFmrEF.",
+            "ru": "Эффективность и безопасность программ кардиологической реабилитации у пациентов с HFpEF и HFmrEF."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-13-med-hfpef",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Effective management strategies for patients with HFpEF.",
+            "ru": "Эффективные стратегии ведения и фармакотерапии пациентов с HFpEF."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-14-med-hfmref",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Evidence for specific treatment strategies for HFmrEF.",
+            "ru": "Доказательная база специфических стратегий лечения сердечной недостаточности с умеренно сниженной фракцией выброса (HFmrEF)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-15-med-ppcm",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Research on causes and targeted therapies for cardiomyopathies such as peripartum cardiomyopathy.",
+            "ru": "Изучение причин и разработка таргетных методов лечения специфических кардиомиопатий, включая перипартальную кардиомиопатию."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-16-med-asymptomatic-lvd",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Treatment of asymptomatic LV dysfunction to prevent transition to symptomatic HF.",
+            "ru": "Лечение бессимптомной систолической дисфункции ЛЖ (стадия B) для предотвращения перехода в клинически манифестную СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-17-med-phenotypes",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Therapies targeting different phenotypes of HF; patients with advanced HF, persistent congestion, patients with profiles excluded from clinical trials such as those with advanced kidney failure or hypotension.",
+            "ru": "Терапия различных клинических фенотипов СН: продвинутая СН, персистирующий застой, а также группы, исключаемые из РКИ (тяжелая почечная недостаточность, артериальная гипотензия)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-18-med-decongestion-crs",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Studies on targets for optimal decongestion; treatment and prevention of cardiorenal syndrome and diuretic resistance.",
+            "ru": "Исследования целевых ориентиров оптимальной деконгестии; лечение и профилактика кардиоренального синдрома и диуретикорезистентности."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-19-med-rv-failure",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Diagnostic and management strategies of RV failure.",
+            "ru": "Стратегии диагностики и терапевтического ведения правожелудочковой сердечной недостаточности."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-20-med-hydralazine-isdn",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Efficacy and safety of hydralazine isosorbide in non–African American patients with HF and also in African American patients on GDMT including SGLT2i and ARNi.",
+            "ru": "Эффективность и безопасность гидралазина/изосорбида у лиц неафриканского происхождения, а также у афроамериканцев на фоне современной GDMT, включающей иНГЛТ-2 и АРНИ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-21-med-vericiguat",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Efficacy and safety of vericiguat in patients with HFrEF and markedly elevated natriuretic peptide levels.",
+            "ru": "Эффективность и безопасность верицигуата у пациентов с HFrEF и крайне высокими уровнями натрийуретических пептидов."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-22-med-omecamtiv",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Efficacy and safety of omecamtiv mecarbil in patients with stage D (advanced HF) HFrEF.",
+            "ru": "Эффективность и безопасность омекамтива мекарбила у пациентов со стадией D (терминальной/продвинутой) HFrEF."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-23-med-sglt2i-sglt1i",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Additional efficacy and safety of SGLT2i therapies in patients with HFpEF or patients with HFmrEF; efficacy and safety of combined SGLT2i and SGLT1i in HFrEF, HFmrEF, or HFpEF.",
+            "ru": "Дополнительные данные об эффективности и безопасности иНГЛТ-2 при HFpEF и HFmrEF; эффективность двойных ингибиторов SGLT1/SGLT2 (сотаглифлозин) при HFrEF, HFmrEF и HFpEF."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-24-med-sglt2i-inpatient",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Additional efficacy and safety of SGLT2i studies in hospitalized patients with acute decompensated HF with and without diabetes.",
+            "ru": "Дополнительные исследования эффективности и безопасности ранней инициации иНГЛТ-2 у госпитализированных пациентов с острой декомпенсацией СН как с диабетом, так и без него."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-25-med-nonsteroidal-mra",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Efficacy and safety of nonsteroidal, selective MRA in patients with HF.",
+            "ru": "Эффективность и безопасность нестероидных селективных антагонистов минералокортикоидных рецепторов (финеренон) у пациентов с СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-26-med-arni-stage-b",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Efficacy and safety of ARNi in pre-HF stage (stage B).",
+            "ru": "Эффективность и безопасность применения АРНИ на стадии пре-СН (стадия B)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-27-med-cpc-ph",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Effective management strategies for combined post- and precapillary pulmonary hypertension.",
+            "ru": "Эффективные терапевтические стратегии при комбинированной пост- и прекапиллярной легочной гипертензии (Cpc-PH)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-28-med-attr",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Novel treatments for ATTR cardiomyopathy.",
+            "ru": "Инновационные методы лечения транстиретиновой амилоидной кардиомиопатии (ATTR-КМП)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-29-med-downstream-targets",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Treatment strategies targeting downstream processes such as fibrosis, cardiac metabolism or contractile performance in dilated cardiomyopathies and HFpEF.",
+            "ru": "Терапевтические стратегии, направленные на миокардиальный фиброз, энергетический метаболизм и сократимость миокарда при ДКМП и HFpEF."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-30-med-gdmt-sequencing",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Comparative effectiveness and safety of different initiation and titration of GDMT at the same time or in different sequences, optimal strategies for sequencing and titration of therapies for HFrEF and HFpEF.",
+            "ru": "Сравнительная эффективность и безопасность одновременной или последовательной инициации GDMT, оптимальные алгоритмы титрования терапии при HFrEF и HFpEF."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-31-med-response-prediction",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Studies on prediction of patient response; studies on how to incorporate patient preferences.",
+            "ru": "Исследования по прогнозированию ответа на терапию и учету индивидуальных предпочтений пациентов."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-32-med-bp-targets-hf",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Efficacy and safety of optimal BP target in patients with established HF and hypertension.",
+            "ru": "Эффективность и безопасность достижения оптимального целевого уровня АД у пациентов с манифестной СН и артериальной гипертензией."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-33-med-bp-during-gdmt",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Optimal BP target while optimizing GDMT in patients with HFrEF and HFpEF.",
+            "ru": "Оптимальный диапазон АД в процессе титрования и оптимизации GDMT у пациентов с HFrEF и HFpEF."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-34-med-electrolyte-management",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Appropriate management of electrolyte abnormalities in HF (eg, hyperkalemia or hypokalemia).",
+            "ru": "Оптимальные алгоритмы коррекции электролитных нарушений (гиперкалиемия, гипокалиемия) при СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-35-med-potassium-binders",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Role of potassium binders in optimization of GDMT and clinical outcomes in patients with HF.",
+            "ru": "Роль современных калиевых биндеров (патиромер, циклосиликат натрия-циркония) в обеспечении непрерывности GDMT и улучшении исходов."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-36-med-pirfenidone-fibrosis",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "Efficacy and safety of pirfenidone and other targeted treatment strategies for maladaptive fibrosis in patients with HFpEF.",
+            "ru": "Эффективность и безопасность пирфенидона и других антифибротических стратегий при дезадаптивном фиброзе миокарда у пациентов с HFpEF."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-37-med-pufa-af-risk",
+      "cells": [
+        { "text": { "en": "Medical therapies", "ru": "Медикаментозная терапия" } },
+        {
+          "text": {
+            "en": "AF risk in patients treated with PUFA for patients at risk for HF or with HF.",
+            "ru": "Риск развития фибрилляции предсердий у пациентов, получающих омега-3 ПНЖК для профилактики или лечения СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-38-dev-candidate-selection",
+      "cells": [
+        { "text": { "en": "Device management and advanced therapies", "ru": "Аппаратные методы и продвинутая терапия" } },
+        {
+          "text": {
+            "en": "Optimal and timely selection of candidates for percutaneous interventions, MCS, or cardiac transplantation.",
+            "ru": "Оптимальный и своевременный отбор кандидатов на транскатетерные вмешательства, долгосрочную MCS или трансплантацию сердца."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-39-dev-vt-interventions",
+      "cells": [
+        { "text": { "en": "Device management and advanced therapies", "ru": "Аппаратные методы и продвинутая терапия" } },
+        {
+          "text": {
+            "en": "Interventional approaches to recurrent, life-threatening ventricular tachyarrhythmias.",
+            "ru": "Интервенционные подходы к лечению рецидивирующих жизнеугрожающих желудочковых тахиаритмий при СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-40-dev-conduction-pacing",
+      "cells": [
+        { "text": { "en": "Device management and advanced therapies", "ru": "Аппаратные методы и продвинутая терапия" } },
+        {
+          "text": {
+            "en": "Comparative effectiveness of His-bundle pacing or multisite pacing to prevent progression of HF.",
+            "ru": "Сравнительная эффективность стимуляции пучка Гиса, области левой ножки или многоточечной стимуляции для предотвращения прогрессирования СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-41-dev-ccm-neuromodulation",
+      "cells": [
+        { "text": { "en": "Device management and advanced therapies", "ru": "Аппаратные методы и продвинутая терапия" } },
+        {
+          "text": {
+            "en": "Safety and efficacy of cardiac contractility modulation, vagal nerve stimulation, autonomic modulation, and renal denervation in patients with HF.",
+            "ru": "Безопасность и эффективность модуляции сердечной сократимости (CCM), стимуляции блуждающего нерва, вегетативной модуляции и почечной денервации при СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-42-dev-splanchnic-ablation",
+      "cells": [
+        { "text": { "en": "Device management and advanced therapies", "ru": "Аппаратные методы и продвинутая терапия" } },
+        {
+          "text": {
+            "en": "Safety and efficacy of splanchnic nerve ablation to reduce splanchnic vasoconstriction and volume redistribution in HF.",
+            "ru": "Безопасность и эффективность аблации спланхнических нервов для уменьшения спланхнической вазоконстрикции и патологического перераспределения объема крови при СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-43-dev-interatrial-shunt",
+      "cells": [
+        { "text": { "en": "Device management and advanced therapies", "ru": "Аппаратные методы и продвинутая терапия" } },
+        {
+          "text": {
+            "en": "Safety and efficacy of interatrial shunt, pericardiectomy, baroreceptor and neuromodulation, and renal denervation in HFpEF.",
+            "ru": "Безопасность и эффективность межпредсердного шунтирования, перикардэктомии, барорецепторной нейромодуляции и почечной денервации при HFpEF."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-44-dev-tricuspid-interventions",
+      "cells": [
+        { "text": { "en": "Device management and advanced therapies", "ru": "Аппаратные методы и продвинутая терапия" } },
+        {
+          "text": {
+            "en": "Safety and efficacy of percutaneous or surgical interventions for tricuspid regurgitation.",
+            "ru": "Безопасность и клиническая эффективность транскатетерных или хирургических вмешательств при тяжелой трикуспидальной регургитации."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-45-out-pro-qol",
+      "cells": [
+        { "text": { "en": "Clinical outcomes", "ru": "Клинические исходы" } },
+        {
+          "text": {
+            "en": "Impact of therapies in patient-reported outcomes, including symptoms and QOL.",
+            "ru": "Влияние различных терапевтических вмешательств на показатели, оцениваемые пациентами (PRO), включая бремя симптомов и качество жизни."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-46-out-goals-trajectory",
+      "cells": [
+        { "text": { "en": "Clinical outcomes", "ru": "Клинические исходы" } },
+        {
+          "text": {
+            "en": "Studies addressing patient goals about care and care intensity as it intersects with disease trajectory.",
+            "ru": "Исследования, сопоставляющие цели пациента в отношении интенсивности медицинской помощи с траекторией прогрессирования заболевания."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-47-out-rwe",
+      "cells": [
+        { "text": { "en": "Clinical outcomes", "ru": "Клинические исходы" } },
+        {
+          "text": {
+            "en": "Real-world evidence data to characterize generalization of therapies in HF populations who may not have been represented in trials.",
+            "ru": "Данные реальной клинической практики (RWE) для оценки генерализуемости эффектов терапии в популяциях пациентов, недостаточно представленных в РКИ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-48-sys-shared-decision",
+      "cells": [
+        { "text": { "en": "Systems of care and social determinants of health", "ru": "Системы помощи и социальные детерминанты здоровья" } },
+        {
+          "text": {
+            "en": "Implementation studies on how to develop a structured approach to patient participation in informed decision-making and goal setting through the continuum of HF care.",
+            "ru": "Исследования внедрения структурированного подхода к вовлечению пациента в информированное принятие решений и определение целей на всех этапах помощи при СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-49-sys-implementation-science",
+      "cells": [
+        { "text": { "en": "Systems of care and social determinants of health", "ru": "Системы помощи и социальные детерминанты здоровья" } },
+        {
+          "text": {
+            "en": "Implementation science for adoption and optimization of GDMT by clinicians on how to initiate multiple or sequenced GDMT, how to integrate these into learning health systems and networks, and how to increase patient education and adherence.",
+            "ru": "Наука внедрения (implementation science) для оптимизации назначения GDMT клиницистами: одновременный или пошаговый старт, интеграция в обучающиеся системы здравоохранения, рост приверженности."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-50-sys-multidisciplinary-models",
+      "cells": [
+        { "text": { "en": "Systems of care and social determinants of health", "ru": "Системы помощи и социальные детерминанты здоровья" } },
+        {
+          "text": {
+            "en": "Pragmatic studies on multidisciplinary new care models (eg, cardiac teams for structural and valve management, shock teams, cardiometabolic clinics, telemedicine, digital health, cardiac rehabilitation at home or postdischarge, and palliative care).",
+            "ru": "Прагматические исследования инновационных моделей помощи: кардиологические команды по клапанной патологии (Heart Team), шоковые команды (Shock Team), кардиометаболические клиники, телемедицина, реабилитация на дому."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-51-sys-disparities-equity",
+      "cells": [
+        { "text": { "en": "Systems of care and social determinants of health", "ru": "Системы помощи и социальные детерминанты здоровья" } },
+        {
+          "text": {
+            "en": "Studies on strategies to eliminate structural racism, disparities, and health inequities in HF care.",
+            "ru": "Исследования практических стратегий устранения структурного неравенства, расовых и социальных диспропорций в исходах сердечной недостаточности."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-52-sys-underrepresented-populations",
+      "cells": [
+        { "text": { "en": "Systems of care and social determinants of health", "ru": "Системы помощи и социальные детерминанты здоровья" } },
+        {
+          "text": {
+            "en": "Studies addressing evidence gaps in women, racial, and ethnic populations.",
+            "ru": "Исследования, восполняющие дефицит доказательств в отношении женщин, различных расовых и этнических групп."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-53-sys-palliative-strategies",
+      "cells": [
+        { "text": { "en": "Systems of care and social determinants of health", "ru": "Системы помощи и социальные детерминанты здоровья" } },
+        {
+          "text": {
+            "en": "Management strategies for palliative care.",
+            "ru": "Организационные и клинические стратегии интеграции паллиативной помощи в службу ведения СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-54-sys-unwarranted-variations",
+      "cells": [
+        { "text": { "en": "Systems of care and social determinants of health", "ru": "Системы помощи и социальные детерминанты здоровья" } },
+        {
+          "text": {
+            "en": "Identification of factors that lead to unwarranted variations in HF care.",
+            "ru": "Выявление и устранение факторов, приводящих к необоснованной вариабельности качества медицинской помощи при СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-55-sys-ehr-gdmt-optimization",
+      "cells": [
+        { "text": { "en": "Systems of care and social determinants of health", "ru": "Системы помощи и социальные детерминанты здоровья" } },
+        {
+          "text": {
+            "en": "Identify characteristics of systems of care (eg, disciplines and staffing, electronic health records, and models of care) that optimize GDMT before and after the discharge of hospitalized patients.",
+            "ru": "Определение характеристик систем помощи (кадровый состав, функционал электронных медицинских карт, клинические пути), обеспечивающих оптимизацию GDMT до и после выписки."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-56-com-af-ablation-vs-med",
+      "cells": [
+        { "text": { "en": "Comorbidities", "ru": "Коморбидные состояния" } },
+        {
+          "text": {
+            "en": "Further studies on rhythm control versus ablation in AF.",
+            "ru": "Дальнейшие исследования сравнительной эффективности медикаментозного контроля ритма и катетерной аблации при фибрилляции предсердий на фоне СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-57-com-vhd-patient-selection",
+      "cells": [
+        { "text": { "en": "Comorbidities", "ru": "Коморбидные состояния" } },
+        {
+          "text": {
+            "en": "Appropriate patient selection in evolving percutaneous approaches in VHD (eg, timing and appropriate patient selection for TAVI, Mitraclip, tricuspid valve interventions).",
+            "ru": "Оптимальный отбор пациентов и сроки проведения транскатетерных вмешательств при пороках сердца (TAVI, MitraClip, транскатетерные вмешательства на трикуспидальном клапане)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-58-com-multimorbidity-treatment",
+      "cells": [
+        { "text": { "en": "Comorbidities", "ru": "Коморбидные состояния" } },
+        {
+          "text": {
+            "en": "Effective and safe treatment options in CKD, sleep-disordered breathing, chronic lung disease, diabetes, depression, cognitive disorders, and iron deficiency.",
+            "ru": "Эффективные и безопасные варианты терапии при сочетании СН с ХБП, апноэ сна, ХОБЛ, сахарным диабетом, депрессией, когнитивными расстройствами и дефицитом железа."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-59-com-phrenic-stimulation",
+      "cells": [
+        { "text": { "en": "Comorbidities", "ru": "Коморбидные состояния" } },
+        {
+          "text": {
+            "en": "Efficacy and safety of transvenous stimulation of the phrenic nerve or role of nocturnal supplemental oxygen for treatment of central sleep apnea in patients with HF.",
+            "ru": "Эффективность и безопасность трансвенозной стимуляции диафрагмального нерва или ночной оксигенотерапии при центральном апноэ сна у пациентов с СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-60-com-obesity-weight-loss",
+      "cells": [
+        { "text": { "en": "Comorbidities", "ru": "Коморбидные состояния" } },
+        {
+          "text": {
+            "en": "Efficacy and safety of weight loss management and treatment strategies in patients with HF and obesity.",
+            "ru": "Эффективность и безопасность программ снижения массы тела и медикаментозного лечения ожирения у пациентов с сердечной недостаточностью."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-61-com-frailty-nutrition",
+      "cells": [
+        { "text": { "en": "Comorbidities", "ru": "Коморбидные состояния" } },
+        {
+          "text": {
+            "en": "Efficacy and safety of nutritional and food supplementation in patients with HF and frailty and malnutrition.",
+            "ru": "Эффективность и безопасность нутритивной поддержки и пищевых добавок у пациентов с СН, старческой астенией и мальнутрицией."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-62-com-esrd-egfr-under-30",
+      "cells": [
+        { "text": { "en": "Comorbidities", "ru": "Коморбидные состояния" } },
+        {
+          "text": {
+            "en": "Efficacy and safety of GDMT in end-stage renal disease or in patients with eGFR <30 mL/min/1.73 m².",
+            "ru": "Эффективность и безопасность применения современной GDMT при терминальной почечной недостаточности (тХПН) или при рСКФ <30 мл/мин/1,73 м²."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-63-fut-novel-pharmacology",
+      "cells": [
+        { "text": { "en": "Future/novel strategies", "ru": "Инновационные и будущие направления" } },
+        {
+          "text": {
+            "en": "Pharmacological therapies targeting novel pathways and endophenotypes.",
+            "ru": "Фармакологические препараты, воздействующие на новые сигнальные пути и патогенетические эндофенотипы СН."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-64-fut-novel-devices",
+      "cells": [
+        { "text": { "en": "Future/novel strategies", "ru": "Инновационные и будущие направления" } },
+        {
+          "text": {
+            "en": "New device therapies, including percutaneous and durable mechanical support devices.",
+            "ru": "Инновационные медицинские устройства, включая транскатетерные и долговременные системы механической поддержки кровообращения."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-65-fut-remote-monitoring",
+      "cells": [
+        { "text": { "en": "Future/novel strategies", "ru": "Инновационные и будущие направления" } },
+        {
+          "text": {
+            "en": "Invasive (eg, pulmonary artery pressure monitoring catheter) or noninvasive remote monitoring.",
+            "ru": "Инвазивный (имплантируемые датчики давления в легочной артерии, CardioMEMS) и неинвазивный дистанционный телемониторинг."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-66-fut-ai-digital-health",
+      "cells": [
+        { "text": { "en": "Future/novel strategies", "ru": "Инновационные и будущие направления" } },
+        {
+          "text": {
+            "en": "Studies on telehealth, digital health, apps, wearables technology, or artificial intelligence.",
+            "ru": "Исследования телемедицины, цифрового здравоохранения, мобильных приложений, носимых сенсорных устройств и искусственного интеллекта в кардиологии."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-67-fut-trial-designs",
+      "cells": [
+        { "text": { "en": "Future/novel strategies", "ru": "Инновационные и будущие направления" } },
+        {
+          "text": {
+            "en": "Role of enrichment trials, adaptive trials, umbrella trials, basket trials, and machine learning–based trials.",
+            "ru": "Роль обогащенных, адаптивных, зонтичных, корзинных клинических исследований и испытаний с применением алгоритмов машинного обучения."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-68-fut-multipathway-therapies",
+      "cells": [
+        { "text": { "en": "Future/novel strategies", "ru": "Инновационные и будущие направления" } },
+        {
+          "text": {
+            "en": "Therapies targeting multiple cardiovascular, cardiometabolic, renovascular, and pathobiological mechanisms.",
+            "ru": "Лечебные вмешательства, одновременно воздействующие на множественные кардиоваскулярные, кардиометаболические, реноваскулярные и патобиологические пути."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gap-69-fut-nlp-imaging-ai",
+      "cells": [
+        { "text": { "en": "Future/novel strategies", "ru": "Инновационные и будущие направления" } },
+        {
+          "text": {
+            "en": "Novel dissemination and implementation techniques to identify patients with HF (eg, natural language processing of electronic health records and automated analysis of cardiac imaging data) and to test and monitor proven interventions.",
+            "ru": "Новые методы выявления недиагностированной СН (обработка естественного языка [NLP] в электронных картах, автоматический ИИ-анализ эхокардиографии/МРТ) и контроль внедрения вмешательств."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "AF indicates atrial fibrillation; ARNi, angiotensin receptor-neprilysin inhibitor; ATTR, transthyretin amyloidosis; BP, blood pressure; CKD, chronic kidney disease; COVID-19, coronavirus disease 2019; eGFR, estimated glomerular filtration rate; GDMT, guideline-directed medical therapy; HF, heart failure; HFimpEF, heart failure with improved ejection fraction; HFmrEF, heart failure with mildly reduced ejection fraction; HFpEF, heart failure with preserved ejection fraction; HFrEF, heart failure with reduced ejection fraction; LV, left ventricular; MCS, mechanical circulatory support; MRA, mineralocorticoid receptor antagonist; PUFA, polyunsaturated fatty acid; QOL, quality of life; RV, right ventricular; SGLT1i, sodium-glucose cotransporter-1 inhibitors; SGLT2i, sodium-glucose cotransporter-2 inhibitors; TAVI, transcatheter aortic valve implantation; and VHD, valvular heart disease.",
+      "ru": "AF (ФП) — фибрилляция предсердий; ARNi (АРНИ) — ингибитор рецепторов ангиотензина и неприлизина; ATTR — транстиретиновый амилоидоз; BP (АД) — артериальное давление; CKD (ХБП) — хроническая болезнь почек; COVID-19 — коронавирусная инфекция; eGFR (рСКФ) — расчетная скорость клубочковой фильтрации; GDMT — терапия по руководствам; HF (СН) — сердечная недостаточность; HFimpEF — СН с улучшенной ФВ; HFmrEF — СН с умеренно сниженной ФВ; HFpEF — СН с сохраненной ФВ; HFrEF — СН со сниженной ФВ; LV (ЛЖ) — левый желудочек; MCS — механическая поддержка кровообращения; MRA (АМР) — антагонист минералокортикоидных рецепторов; PUFA (ПНЖК) — полиненасыщенные жирные кислоты; QOL — качество жизни; RV (ПЖ) — правый желудочек; SGLT1i/SGLT2i — ингибиторы натрий-глюкозного котранспортера 1 и 2 типа; TAVI — транскатетерная имплантация аортального клапана; VHD — клапанные пороки сердца."
+    }
+  }
+}

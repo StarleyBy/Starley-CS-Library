@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t20-measures-optimize-spinal-cord-perfusion",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 20",
+  "type": "grid",
+  "title": {
+    "en": "Measures to Optimize Spinal Cord and End-Organ Perfusion",
+    "ru": "Меры по оптимизации перфузии спинного мозга и органов-мишеней"
+  },
+  "tags": [
+    "spinal-cord",
+    "perfusion",
+    "taaa",
+    "csf-drain",
+    "map",
+    "hemoglobin",
+    "volume-resuscitation",
+    "cardioversion"
+  ],
+  "columns": [
+    {
+      "id": "measure",
+      "title": {
+        "en": "Measures to Optimize Spinal Cord and End-Organ Perfusion",
+        "ru": "Меры по оптимизации перфузии спинного мозга и органов-мишеней"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "cardioversion",
+      "cells": [
+        {
+          "text": {
+            "en": "Cardioversion for tachyarrhythmias",
+            "ru": "Кардиоверсия при тахиаритмиях"
+          }
+        }
+      ]
+    },
+    {
+      "id": "csf-drain",
+      "cells": [
+        {
+          "text": {
+            "en": "Insertion of cerebrospinal fluid drain",
+            "ru": "Установка дренажа спинномозговой жидкости"
+          }
+        }
+      ]
+    },
+    {
+      "id": "map-target",
+      "cells": [
+        {
+          "text": {
+            "en": "Increase mean arterial pressure to >100 mm Hg",
+            "ru": "Повышение среднего артериального давления до >100 мм рт. ст."
+          }
+        }
+      ]
+    },
+    {
+      "id": "transfusion-hemoglobin",
+      "cells": [
+        {
+          "text": {
+            "en": "Transfuse to a hemoglobin >10 g/dL",
+            "ru": "Гемотрансфузия до уровня гемоглобина >10 г/дл"
+          }
+        }
+      ]
+    },
+    {
+      "id": "volume-resuscitation",
+      "cells": [
+        {
+          "text": {
+            "en": "Volume resuscitation",
+            "ru": "Волемическая реанимация (инфузионная терапия)"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

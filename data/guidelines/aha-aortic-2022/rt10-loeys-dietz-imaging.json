@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt10-loeys-dietz-imaging",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 10",
+  "title": {
+    "en": "Recommendations for Imaging in Loeys-Dietz Syndrome",
+    "ru": "Рекомендации по визуализации при синдроме Лойса–Дитца"
+  },
+  "tags": [
+    "loeys-dietz",
+    "imaging",
+    "surveillance",
+    "tte",
+    "ct",
+    "mri",
+    "head-to-pelvis",
+    "cerebral-aneurysm",
+    "tortuosity"
+  ],
+  "sections": [
+    {
+      "id": "sec-loeys-dietz-imaging",
+      "title": {
+        "en": "Imaging in Loeys-Dietz Syndrome",
+        "ru": "Визуализация при синдроме Лойса–Дитца"
+      },
+      "rows": [
+        {
+          "id": "r01-baseline-tte-interval",
+          "text": {
+            "en": "In patients with Loeys-Dietz syndrome, a baseline TTE is recommended to determine the diameters of the aortic root and ascending aorta, and 6 months thereafter to determine the rate of aortic growth; if the aortic diameters are stable, annual surveillance TTE is recommended.",
+            "ru": "У пациентов с синдромом Лойса–Дитца рекомендуется выполнение базовой ТТЭхоКГ для определения диаметров корня и восходящей аорты и через 6 месяцев после этого для оценки скорости роста аорты; при стабильных диаметрах аорты рекомендуется ежегодная контрольная ТТЭхоКГ."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-dilated-dissected-annual-mri-ct",
+          "text": {
+            "en": "In patients with Loeys-Dietz syndrome and a dilated or dissected aorta and/or arterial branches at baseline, annual surveillance imaging of the affected aorta and arteries with MRI or CT is recommended.",
+            "ru": "У пациентов с синдромом Лойса–Дитца при исходной дилатации или расслоении аорты и/или артериальных ветвей рекомендуется ежегодная контрольная визуализация поражённой аорты и артерий с помощью МРТ или КТ."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [1]
+        },
+        {
+          "id": "r03-baseline-head-to-pelvis-mri-ct",
+          "text": {
+            "en": "In patients with Loeys-Dietz syndrome, a baseline MRI or CT from head to pelvis is recommended to evaluate the entire aorta and its branches for aneurysm, dissection, and tortuosity.",
+            "ru": "У пациентов с синдромом Лойса–Дитца рекомендуется исходное выполнение МРТ или КТ от головы до таза для оценки всей аорты и её ветвей на наличие аневризм, расслоения и извитости."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r04-chest-to-pelvis-surveillance-2years",
+          "text": {
+            "en": "In patients with Loeys-Dietz syndrome without dilation of the aorta distal to the aortic root or ascending aorta and without dilated or dissected arterial branches, surveillance imaging from chest to pelvis with MRI (or CT) every 2 years is reasonable, but imaging may be more frequent depending on family history.",
+            "ru": "У пациентов с синдромом Лойса–Дитца при отсутствии дилатации аорты дистальнее корня или восходящей аорты и без дилатации или расслоения артериальных ветвей целесообразна контрольная визуализация от грудной клетки до таза с помощью МРТ (или КТ) каждые 2 года, однако визуализация может проводиться чаще в зависимости от семейного анамнеза."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r05-cerebral-aneurysm-surveillance",
+          "text": {
+            "en": "In patients with Loeys-Dietz syndrome without dilation of the cerebral arteries on initial screening, periodic imaging surveillance for cerebral aneurysms with MRI or CT every 2 to 3 years is reasonable.",
+            "ru": "У пациентов с синдромом Лойса–Дитца при отсутствии дилатации мозговых артерий при первичном скрининге целесообразна периодическая контрольная визуализация для исключения церебральных аневризм с помощью МРТ или КТ каждые 2–3 года."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

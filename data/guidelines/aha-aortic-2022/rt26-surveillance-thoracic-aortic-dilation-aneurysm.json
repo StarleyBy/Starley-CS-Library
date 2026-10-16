@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt26-surveillance-thoracic-aortic-dilation-aneurysm",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 26",
+  "title": {
+    "en": "Recommendations for Surveillance of Thoracic Aortic Dilation and Aneurysm",
+    "ru": "Рекомендации по динамическому наблюдению при дилатации и аневризме грудной аорты"
+  },
+  "tags": [
+    "thoracic-aorta",
+    "taa",
+    "surveillance",
+    "imaging",
+    "tte",
+    "ct",
+    "mri",
+    "dilation",
+    "aneurysm"
+  ],
+  "sections": [
+    {
+      "id": "sec-surveillance-thoracic-aortic-dilation-aneurysm",
+      "title": {
+        "en": "Surveillance of Thoracic Aortic Dilation and Aneurysm",
+        "ru": "Динамическое наблюдение при дилатации и аневризме грудной аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-initial-diagnosis-tte",
+          "text": {
+            "en": "In patients with a dilated thoracic aorta, a TTE is recommended at the time of diagnosis to assess aortic valve anatomy, aortic valve function, and thoracic aortic diameters.",
+            "ru": "У пациентов с дилатацией грудной аорты на момент постановки диагноза рекомендуется проведение ТТЭхоКГ для оценки анатомии и функции аортального клапана, а также диаметров грудной аорты."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-initial-diagnosis-ct-mri",
+          "text": {
+            "en": "In patients with a dilated thoracic aorta, a CT or MRI at the time of diagnosis is reasonable to assess thoracic aortic anatomy and diameters.",
+            "ru": "У пациентов с дилатацией грудной аорты на момент постановки диагноза целесообразно выполнение КТ или МРТ для оценки анатомии и диаметров грудной аорты."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 3, 5, 6, 7]
+        },
+        {
+          "id": "r03-follow-up-surveillance-interval",
+          "text": {
+            "en": "In patients with a dilated thoracic aorta, follow-up imaging (with TTE, CT, or MRI, as appropriate based on individual anatomy) in 6 to 12 months is reasonable to determine the rate of aortic enlargement; if stable, surveillance imaging every 6 to 24 months (depending on aortic diameter) is reasonable.",
+            "ru": "У пациентов с дилатацией грудной аорты повторная визуализация (с помощью ТТЭхоКГ, КТ или МРТ в зависимости от индивидуальных анатомических особенностей) через 6–12 месяцев целесообразна для оценки скорости расширения аорты; при стабильных размерах целесообразен визуализирующий контроль каждые 6–24 месяца (в зависимости от диаметра аорты)."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

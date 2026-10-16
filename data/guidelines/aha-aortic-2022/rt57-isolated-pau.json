@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt57-isolated-pau",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 57",
+  "title": {
+    "en": "Recommendations for Isolated PAU",
+    "ru": "Рекомендации по ведению изолированной пенетрирующей атеросклеротической язвы (PAU)"
+  },
+  "tags": [
+    "pau",
+    "penetrating-atherosclerotic-ulcer",
+    "isolated-pau",
+    "symptomatic",
+    "asymptomatic",
+    "high-risk-imaging",
+    "elective-repair"
+  ],
+  "sections": [
+    {
+      "id": "sec-isolated-pau",
+      "title": {
+        "en": "Isolated PAU",
+        "ru": "Изолированная PAU"
+      },
+      "rows": [
+        {
+          "id": "r01-symptomatic-persistent-pain-repair",
+          "text": {
+            "en": "In patients with isolated PAU who are symptomatic and have persistent pain that is clinically correlated with the radiologic findings, repair is recommended.",
+            "ru": "У пациентов с изолированной PAU при наличии симптомов и персистирующего болевого синдрома, клинически коррелирующего с данными радиологического исследования, рекомендуется вмешательство."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-asymptomatic-high-risk-imaging-elective-repair",
+          "text": {
+            "en": "In patients with isolated PAU who are asymptomatic but have high-risk imaging features (Table 31), elective repair may be considered.",
+            "ru": "У пациентов с изолированной PAU при бессимптомном течении, но наличии признаков высокого риска по данным визуализации (Таблица 31), может быть рассмотрено плановое вмешательство."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [1, 2, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

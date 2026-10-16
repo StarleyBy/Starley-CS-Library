@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t22-signs-symptoms-aas",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 22",
+  "type": "grid",
+  "title": {
+    "en": "Signs and Symptoms of AAS",
+    "ru": "Признаки и симптомы острого аортального синдрома (ОАС)"
+  },
+  "tags": [
+    "aas",
+    "acute-aortic-syndrome",
+    "signs-and-symptoms",
+    "malperfusion",
+    "shock",
+    "ischemia"
+  ],
+  "columns": [
+    {
+      "id": "clinical_signs_symptoms",
+      "title": {
+        "en": "Clinical Signs and Symptoms",
+        "ru": "Клинические признаки и симптомы"
+      }
+    },
+    {
+      "id": "cause",
+      "title": {
+        "en": "Cause",
+        "ru": "Причина"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "asymmetric-bp",
+      "cells": [
+        {
+          "text": {
+            "en": "Asymmetric blood pressure (>20 mm Hg) between limbs",
+            "ru": "Асимметрия артериального давления (>20 мм рт. ст.) на конечностях"
+          }
+        },
+        {
+          "text": {
+            "en": "Compromise of branch artery flow",
+            "ru": "Нарушение кровотока по ветвям аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bowel-ischemia-gi-bleed",
+      "cells": [
+        {
+          "text": {
+            "en": "Bowel ischemia or gastrointestinal bleed",
+            "ru": "Ишемия кишечника или желудочно-кишечное кровотечение"
+          }
+        },
+        {
+          "text": {
+            "en": "Malperfusion of the celiac or superior mesenteric artery",
+            "ru": "Мальперфузия чревного ствола или верхней брыжеечной артерии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dysphagia",
+      "cells": [
+        {
+          "text": {
+            "en": "Dysphagia",
+            "ru": "Дисфагия"
+          }
+        },
+        {
+          "text": {
+            "en": "Compression of the esophagus",
+            "ru": "Сдавление пищевода"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dyspnea",
+      "cells": [
+        {
+          "text": {
+            "en": "Dyspnea",
+            "ru": "Одышка"
+          }
+        },
+        {
+          "text": {
+            "en": "Compression of trachea or bronchus, congestive heart failure from aortic regurgitation, or cardiac tamponade",
+            "ru": "Сдавление трахеи или бронха, застойная сердечная недостаточность вследствие аортальной регургитации или тампонада сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hemoptysis",
+      "cells": [
+        {
+          "text": {
+            "en": "Hemoptysis",
+            "ru": "Кровохарканье"
+          }
+        },
+        {
+          "text": {
+            "en": "Vascular rupture into lung parenchyma",
+            "ru": "Разрыв сосуда в паренхиму легкого"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hoarseness",
+      "cells": [
+        {
+          "text": {
+            "en": "Hoarseness",
+            "ru": "Осиплость голоса"
+          }
+        },
+        {
+          "text": {
+            "en": "Compression recurrent laryngeal nerve",
+            "ru": "Сдавление возвратного гортанного нерва"
+          }
+        }
+      ]
+    },
+    {
+      "id": "horners-syndrome",
+      "cells": [
+        {
+          "text": {
+            "en": "Horner's syndrome",
+            "ru": "Синдром Горнера"
+          }
+        },
+        {
+          "text": {
+            "en": "Compression of sympathetic chain",
+            "ru": "Сдавление симпатического ствола"
+          }
+        }
+      ]
+    },
+    {
+      "id": "myocardial-ischemia-infarction",
+      "cells": [
+        {
+          "text": {
+            "en": "Myocardial ischemia or myocardial infarction",
+            "ru": "Ишемия или инфаркт миокарда"
+          }
+        },
+        {
+          "text": {
+            "en": "Coronary artery involvement by dissection or compression by aneurysm",
+            "ru": "Вовлечение коронарных артерий в расслоение или их сдавление аневризмой"
+          }
+        }
+      ]
+    },
+    {
+      "id": "new-aortic-regurgitation-murmur",
+      "cells": [
+        {
+          "text": {
+            "en": "New murmur of aortic regurgitation",
+            "ru": "Впервые возникший шум аортальной регургитации"
+          }
+        },
+        {
+          "text": {
+            "en": "Incomplete aortic valve closure secondary to leaflet tethering by the dilated aorta or cusp prolapse because of dissection into the aortic root",
+            "ru": "Неполное смыкание аортального клапана вследствие натяжения створок расширенной аортой или пролапс створки из-за перехода расслоения на корень аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "oliguria-hematuria",
+      "cells": [
+        {
+          "text": {
+            "en": "Oliguria or hematuria (gross)",
+            "ru": "Олигурия или гематурия (макрогематурия)"
+          }
+        },
+        {
+          "text": {
+            "en": "Malperfusion of 1 or both renal arteries",
+            "ru": "Мальперфузия одной или обеих почечных артерий"
+          }
+        }
+      ]
+    },
+    {
+      "id": "paraplegia",
+      "cells": [
+        {
+          "text": {
+            "en": "Paraplegia",
+            "ru": "Параплегия"
+          }
+        },
+        {
+          "text": {
+            "en": "Spinal malperfusion attributable intercostal artery involvement",
+            "ru": "Мальперфузия спинного мозга вследствие поражения межреберных артерий"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lower-extremity-ischemia",
+      "cells": [
+        {
+          "text": {
+            "en": "Lower extremity ischemia",
+            "ru": "Ишемия нижней конечности"
+          }
+        },
+        {
+          "text": {
+            "en": "Malperfusion of iliac artery",
+            "ru": "Мальперфузия подвздошной артерии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shock",
+      "cells": [
+        {
+          "text": {
+            "en": "Shock",
+            "ru": "Шок"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiac tamponade, hemothorax, frank aortic rupture, acute severe aortic regurgitation, severe myocardial ischemia",
+            "ru": "Тампонада сердца, гемоторакс, явный разрыв аорты, острая тяжелая аортальная регургитация, тяжелая ишемия миокарда"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shortness-of-breath",
+      "cells": [
+        {
+          "text": {
+            "en": "Shortness of breath",
+            "ru": "Чувство нехватки воздуха"
+          }
+        },
+        {
+          "text": {
+            "en": "Pericardial effusion, congestive heart failure from acute severe aortic regurgitation, or hemothorax",
+            "ru": "Перикардиальный выпот, застойная сердечная недостаточность вследствие острой тяжелой аортальной регургитации или гемоторакс"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stroke-symptoms",
+      "cells": [
+        {
+          "text": {
+            "en": "Stroke symptoms",
+            "ru": "Симптомы инсульта"
+          }
+        },
+        {
+          "text": {
+            "en": "Carotid or vertebral artery involved",
+            "ru": "Поражение сонной или позвоночной артерии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "superior-vena-cava-syndrome",
+      "cells": [
+        {
+          "text": {
+            "en": "Superior vena cava syndrome",
+            "ru": "Синдром верхней полой вены"
+          }
+        },
+        {
+          "text": {
+            "en": "Compression of the superior vena cava",
+            "ru": "Сдавление верхней полой вены"
+          }
+        }
+      ]
+    },
+    {
+      "id": "syncope",
+      "cells": [
+        {
+          "text": {
+            "en": "Syncope",
+            "ru": "Синкопе (обморок)"
+          }
+        },
+        {
+          "text": {
+            "en": "Carotid artery involvement or cardiac tamponade",
+            "ru": "Поражение сонной артерии или тампонада сердца"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 17
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

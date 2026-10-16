@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt23-statins-aaa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 23",
+  "title": {
+    "en": "Recommendations for Treatment of AAA With Statins",
+    "ru": "Рекомендации по применению статинов при аневризме брюшной аорты (АБА)"
+  },
+  "tags": [
+    "statins",
+    "aaa",
+    "abdominal-aortic-aneurysm",
+    "atherosclerosis",
+    "lipid-lowering",
+    "cardiovascular-risk"
+  ],
+  "sections": [
+    {
+      "id": "sec-statins-aaa",
+      "title": {
+        "en": "Treatment of AAA With Statins",
+        "ru": "Применение статинов при АБА"
+      },
+      "rows": [
+        {
+          "id": "r01-statins-atherosclerosis-moderate-high",
+          "text": {
+            "en": "In patients with AAA and evidence of aortic atherosclerosis, statin therapy at moderate or high intensity is recommended.",
+            "ru": "У пациентов с АБА и признаками атеросклероза аорты рекомендуется терапия статинами умеренной или высокой интенсивности."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-statins-no-evidence-atherosclerosis",
+          "text": {
+            "en": "In patients with AAA but no evidence of atherosclerosis, statin therapy may be considered.",
+            "ru": "У пациентов с АБА без признаков атеросклероза может быть рассмотрена терапия статинами."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [4, 5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

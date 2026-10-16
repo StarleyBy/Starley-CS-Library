@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt65-long-term-management-dissection-imh",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 65",
+  "title": {
+    "en": "Recommendation for Long-Term Management After Acute Aortic Dissection and IMH",
+    "ru": "Рекомендация по долгосрочному ведению после острого расслоения аорты и интрамуральной гематомы (IMH)"
+  },
+  "tags": [
+    "aortic-dissection",
+    "imh",
+    "long-term-management",
+    "aneurysm",
+    "surgical-threshold",
+    "elective-repair"
+  ],
+  "sections": [
+    {
+      "id": "sec-long-term-management-dissection-imh",
+      "title": {
+        "en": "Long-Term Management After Acute Aortic Dissection and IMH",
+        "ru": "Долгосрочное ведение после острого расслоения аорты и IMH"
+      },
+      "rows": [
+        {
+          "id": "r01-chronic-residual-aneurysm-repair",
+          "text": {
+            "en": "In patients with a previous acute aortic dissection and IMH, whether initially treated medically or with intervention, who have chronic residual TAD and an aneurysm with a total aortic diameter of ≥5.5 cm, elective thoracic aortic repair is recommended.",
+            "ru": "У пациентов, перенесших острое расслоение аорты или IMH (независимо от того, проводилась ли изначально медикаментозная терапия или вмешательство), имеющих хроническое резидуальное поражение грудной аорты (TAD) и аневризму с общим диаметром аорты ≥5,5 см, рекомендуется плановое хирургическое вмешательство на грудной аорте."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

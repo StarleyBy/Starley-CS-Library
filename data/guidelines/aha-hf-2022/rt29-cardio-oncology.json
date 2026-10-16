@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt29-cardio-oncology",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Cardio-Oncology",
+  "title": {
+    "en": "Recommendations for Cardio-Oncology",
+    "ru": "Рекомендации по кардиоонкологии"
+  },
+  "tags": [
+    "cardio-oncology",
+    "cardiotoxicity",
+    "chemotherapy",
+    "cancer-therapy",
+    "anthracyclines",
+    "trastuzumab",
+    "troponin",
+    "monitoring",
+    "prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-cardio-oncology",
+      "title": {
+        "en": "Cardio-Oncology",
+        "ru": "Кардиоонкология"
+      },
+      "rows": [
+        {
+          "id": "r01-multidisciplinary-discussion",
+          "text": {
+            "en": "In patients who develop cancer therapy–related cardiomyopathy or HF, a multidisciplinary discussion involving the patient about the risk-benefit ratio of cancer therapy interruption, discontinuation, or continuation is recommended to improve management.",
+            "ru": "У пациентов с развитием кардиомиопатии или СН, ассоциированной с противоопухолевой терапией, рекомендуется мультидисциплинарное обсуждение с участием пациента соотношения пользы и риска прерывания, отмены или продолжения онкотерапии для оптимизации ведения."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-asymptomatic-ef-drop-gdmt",
+          "text": {
+            "en": "In asymptomatic patients with cancer therapy–related cardiomyopathy (EF <50%), ARB, ACEi, and beta blockers are reasonable to prevent progression to HF and improve cardiac function.",
+            "ru": "У бессимптомных пациентов с кардиомиопатией, ассоциированной с онкотерапией (ФВ <50%), целесообразно назначение БРА, иАПФ и бета-блокаторов для предотвращения прогрессирования в манифестную СН и улучшения сердечной функции."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [2, 3, 4]
+        },
+        {
+          "id": "r03-pretherapy-evaluation",
+          "text": {
+            "en": "In patients with cardiovascular risk factors or known cardiac disease being considered for potentially cardiotoxic anticancer therapies, pretherapy evaluation of cardiac function is reasonable to establish baseline cardiac function and guide the choice of cancer therapy.",
+            "ru": "У пациентов с сердечно-сосудистыми факторами риска или известным заболеванием сердца, рассматриваемых для потенциально кардиотоксичной онкотерапии, целесообразна оценка функции сердца до начала лечения для определения исходного статуса и выбора онкопрепаратов."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+        },
+        {
+          "id": "r04-monitoring-cardiac-function",
+          "text": {
+            "en": "In patients with cardiovascular risk factors or known cardiac disease receiving potentially cardiotoxic anticancer therapies, monitoring of cardiac function is reasonable for the early identification of drug-induced cardiomyopathy.",
+            "ru": "У пациентов с сердечно-сосудистыми факторами риска или известным заболеванием сердца, получающих потенциально кардиотоксичную онкотерапию, целесообразен мониторинг сердечной функции для раннего выявления лекарственно-индуцированной кардиомиопатии."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [2, 4, 6, 8]
+        },
+        {
+          "id": "r05-primary-prevention-uncertain",
+          "text": {
+            "en": "In patients at risk of cancer therapy–related cardiomyopathy, initiation of beta blockers and ACEi/ARB for the primary prevention of drug-induced cardiomyopathy is of uncertain benefit.",
+            "ru": "У пациентов группы риска кардиомиопатии, ассоциированной с онкотерапией, назначение бета-блокаторов и иАПФ/БРА для первичной профилактики лекарственно-индуцированной кардиомиопатии имеет неопределенную пользу."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+        },
+        {
+          "id": "r06-serial-troponin-monitoring",
+          "text": {
+            "en": "In patients being considered for potentially cardiotoxic therapies, serial measurement of cardiac troponin might be reasonable for further risk stratification.",
+            "ru": "У пациентов, рассматриваемых для потенциально кардиотоксичной терапии, серийное определение уровня сердечного тропонина может быть целесообразным для дополнительной стратификации риска."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [29, 30, 31, 32]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t04-essential-elements-ct-mri-imaging-reports",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 4",
+  "type": "grid",
+  "title": {
+    "en": "Essential Elements of CT and MRI Aortic Imaging Reports^[a]",
+    "ru": "Обязательные элементы протоколов КТ- и МРТ-исследований аорты^[a]"
+  },
+  "tags": [
+    "imaging-report",
+    "ct",
+    "mri",
+    "reporting-standards",
+    "diameter",
+    "acute-aortic-syndrome",
+    "stenosis",
+    "graft",
+    "malperfusion"
+  ],
+  "columns": [
+    {
+      "id": "item",
+      "title": {
+        "en": "#",
+        "ru": "№"
+      }
+    },
+    {
+      "id": "element",
+      "title": {
+        "en": "Essential Element",
+        "ru": "Обязательный элемент заключения"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "item-1-max-diameter",
+      "cells": [
+        {
+          "text": { "en": "1", "ru": "1" }
+        },
+        {
+          "text": {
+            "en": "Maximum aortic diameter at each level of dilation, perpendicular to the axis of blood flow. In cases of asymmetric or oval contour, the longest diameter and its perpendicular diameter should be reported. Standard measurement levels may be included, even when normal.",
+            "ru": "Максимальный диаметр аорты на каждом уровне дилатации, измеренный перпендикулярно оси кровотока. При асимметричном или овальном контуре следует указывать наибольший диаметр и перпендикулярный ему диаметр. Стандартные уровни измерений могут быть включены, даже если они в пределах нормы."
+          }
+        }
+      ]
+    },
+    {
+      "id": "item-2-wall-changes",
+      "cells": [
+        {
+          "text": { "en": "2", "ru": "2" }
+        },
+        {
+          "text": {
+            "en": "Wall changes suggestive of atherosclerosis, diffuse thickening (eg, aortitis), or mural thrombus.",
+            "ru": "Изменения стенки, подозрительные на атеросклероз, диффузное утолщение (например, аортит) или пристеночный тромбоз."
+          }
+        }
+      ]
+    },
+    {
+      "id": "item-3-stenosis-occlusion",
+      "cells": [
+        {
+          "text": { "en": "3", "ru": "3" }
+        },
+        {
+          "text": {
+            "en": "Evidence of luminal stenosis/occlusion, including location, severity, and length.",
+            "ru": "Признаки стеноза/окклюзии просвета, включая локализацию, степень выраженности и протяжённость."
+          }
+        }
+      ]
+    },
+    {
+      "id": "item-4-aas-findings",
+      "cells": [
+        {
+          "text": { "en": "4", "ru": "4" }
+        },
+        {
+          "text": {
+            "en": "Findings suggestive of acute aortic syndrome (eg, communicating dissection, intramural hematoma, penetrating atherosclerotic ulcer, focal intimal tear), including proximal/distal extension, suspected entry tear site (if visible), and complications (eg, active contrast extravasation, rupture, contained rupture, rupture including periaortic hemorrhage, pericardial and pleural fluid, mediastinal stranding).",
+            "ru": "Признаки, указывающие на острый аортальный синдром (например, сообщающееся расслоение, интрамуральная гематома, пенетрирующая атеросклеротическая язва, фокальный разрыв интимы), включая проксимальное/дистальное распространение, предполагаемое место входного разрыва (если визуализируется) и осложнения (например, активная экстравазация контраста, разрыв, прикрытый разрыв, периаортальное кровоизлияние, жидкость в полости перикарда и плевры, инфильтрация средостения)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "item-5-branch-vessels-malperfusion",
+      "cells": [
+        {
+          "text": { "en": "5", "ru": "5" }
+        },
+        {
+          "text": {
+            "en": "Extension of aortic disease process (acute or chronic) into branch vessels, findings suggestive of end-organ injury, and suspected malperfusion.",
+            "ru": "Распространение патологического процесса (острого или хронического) на ветви аорты, признаки повреждения органов-мишеней и подозрение на мальперфузию."
+          }
+        }
+      ]
+    },
+    {
+      "id": "item-6-prior-comparison",
+      "cells": [
+        {
+          "text": { "en": "6", "ru": "6" }
+        },
+        {
+          "text": {
+            "en": "Direct comparison with previous examinations should be detailed to identify pertinent changes.",
+            "ru": "Прямое сопоставление с предшествующими исследованиями должно быть подробно описано для выявления клинически значимых изменений."
+          }
+        }
+      ]
+    },
+    {
+      "id": "item-7-repair-complications",
+      "cells": [
+        {
+          "text": { "en": "7", "ru": "7" }
+        },
+        {
+          "text": {
+            "en": "Presence and extent of repair (eg, interposition graft, endovascular stent graft), as well as any evidence of complication.",
+            "ru": "Наличие и протяжённость зоны реконструкции (например, интерпозиционный протез, эндоваскулярный стент-графт), а также любые признаки осложнений."
+          }
+        }
+      ]
+    },
+    {
+      "id": "item-8-impression-classification",
+      "cells": [
+        {
+          "text": { "en": "8", "ru": "8" }
+        },
+        {
+          "text": {
+            "en": "Impression regarding disease classification (eg, acute aortic syndrome, aneurysm/pseudoaneurysm, luminal stenosis, atherosclerotic aortic disease).",
+            "ru": "Заключение о классификации заболевания (например, острый аортальный синдром, аневризма/псевдоаневризма, стеноз просвета, атеросклеротическое поражение аорты)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "item-9-acquisition-measurement-details",
+      "cells": [
+        {
+          "text": { "en": "9", "ru": "9" }
+        },
+        {
+          "text": {
+            "en": "Relevant details regarding method of image acquisition (eg, use of electrocardiographic-gating and phase of acquisition) and measurement (eg, axial versus double oblique, inner-edge versus outer-edge) should be included.",
+            "ru": "Соответствующие детали методики сбора данных (например, использование ЭКГ-синхронизации и фаза сбора данных) и измерений (например, аксиальная проекция или двойная косая, от внутреннего края к внутреннему или от наружного к наружному)."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "CT indicates computed tomography; and MRI, magnetic resonance imaging.",
+      "ru": "КТ — компьютерная томография; МРТ — магнитно-резонансная томография."
+    }
+  },
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

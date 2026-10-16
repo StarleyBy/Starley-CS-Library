@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt17-inotropic-support",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Inotropic Support",
+  "title": {
+    "en": "Recommendations for Inotropic Support",
+    "ru": "Рекомендации по инотропной поддержке"
+  },
+  "tags": [
+    "inotropes",
+    "advanced-hf",
+    "stage-d",
+    "bridge-therapy",
+    "mcs",
+    "cardiac-transplantation",
+    "palliative-care",
+    "harm"
+  ],
+  "sections": [
+    {
+      "id": "sec-inotropic-support",
+      "title": {
+        "en": "Inotropic Support in Advanced Heart Failure",
+        "ru": "Инотропная поддержка при терминальной (продвинутой) сердечной недостаточности"
+      },
+      "rows": [
+        {
+          "id": "r01-inotropes-bridge-mcs-transplant",
+          "text": {
+            "en": "In patients with advanced (stage D) HF refractory to GDMT and device therapy who are eligible for and awaiting MCS or cardiac transplantation, continuous intravenous inotropic support is reasonable as \"bridge therapy.\"",
+            "ru": "У пациентов с продвинутой (стадия D) СН, рефрактерной к GDMT и аппаратной терапии, которые являются кандидатами и ожидают механическую поддержку кровообращения (MCS) или трансплантацию сердца, непрерывная внутривенная инотропная поддержка целесообразна в качестве «терапии моста»."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-inotropes-palliative-therapy",
+          "text": {
+            "en": "In select patients with stage D HF, despite optimal GDMT and device therapy who are ineligible for either MCS or cardiac transplantation, continuous intravenous inotropic support may be considered as palliative therapy for symptom control and improvement in functional status.",
+            "ru": "У отдельных пациентов со стадией D СН, несмотря на оптимальную GDMT и аппаратную терапию, не являющихся кандидатами на MCS или трансплантацию сердца, непрерывная внутривенная инотропная поддержка может быть рассмотрена в качестве паллиативной терапии для контроля симптомов и улучшения функционального статуса."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [5, 6, 7]
+        },
+        {
+          "id": "r03-inotropes-long-term-harm",
+          "text": {
+            "en": "In patients with HF, long-term use of either continuous or intermittent intravenous inotropic agents, for reasons other than palliative care or as a bridge to advanced therapies, is potentially harmful.",
+            "ru": "У пациентов с СН длительное применение непрерывных или прерывистых внутривенных инфузий инотропных препаратов по показаниям, отличным от паллиативной помощи или терапии «моста» к продвинутым методам лечения, потенциально вредно и опасно."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [5, 6, 8, 9, 10, 11]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

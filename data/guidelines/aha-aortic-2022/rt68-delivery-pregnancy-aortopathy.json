@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt68-delivery-pregnancy-aortopathy",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 68",
+  "title": {
+    "en": "Recommendations for Delivery in Pregnant Patients With Aortopathy",
+    "ru": "Рекомендации по родоразрешению беременных пациенток с аортопатиями"
+  },
+  "tags": [
+    "pregnancy",
+    "delivery",
+    "aortopathy",
+    "cesarean",
+    "vaginal-delivery",
+    "chronic-dissection",
+    "aortic-diameter"
+  ],
+  "sections": [
+    {
+      "id": "sec-delivery-pregnancy-aortopathy",
+      "title": {
+        "en": "Delivery in Pregnant Patients With Aortopathy",
+        "ru": "Родоразрешение беременных пациенток с аортопатиями"
+      },
+      "rows": [
+        {
+          "id": "r01-chronic-dissection-cesarean",
+          "text": {
+            "en": "In pregnant patients with a history of chronic aortic dissection, cesarean delivery is recommended.",
+            "ru": "У беременных пациенток с хроническим расслоением аорты в анамнезе рекомендуется родоразрешение путем кесарева сечения."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r02-diameter-under-4cm-vaginal",
+          "text": {
+            "en": "In pregnant patients with an aortopathy and an aortic diameter of <4.0 cm, vaginal delivery (when otherwise appropriate) is recommended.",
+            "ru": "У беременных пациенток с аортопатией и диаметром аорты <4,0 см рекомендуются влагалищные роды (при отсутствии иных акушерских противопоказаний)."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r03-diameter-4-5cm-or-more-cesarean",
+          "text": {
+            "en": "In pregnant patients with a diameter of the aortic root, ascending aorta, or both, of ≥4.5 cm, cesarean delivery is reasonable.",
+            "ru": "У беременных пациенток с диаметром корня аорты и/или восходящей аорты ≥4,5 см целесообразно родоразрешение путем кесарева сечения."
+          },
+          "class": "IIa",
+          "level": "C-EO"
+        },
+        {
+          "id": "r04-diameter-4-to-4-5cm-assisted-vaginal",
+          "text": {
+            "en": "In pregnant patients with a diameter of the aortic root, ascending aorta, or both, of 4.0 cm to 4.5 cm, vaginal delivery with regional anesthesia, expedited second stage, and assisted delivery may be reasonable.",
+            "ru": "У беременных пациенток с диаметром корня аорты и/или восходящей аорты от 4,0 см до 4,5 см могут быть целесообразны влагалищные роды с регионарной анестезией, укорочением второго периода родов и оперативным родоразрешением."
+          },
+          "class": "IIb",
+          "level": "C-EO"
+        },
+        {
+          "id": "r05-htad-diameter-4-to-4-5cm-cesarean-considered",
+          "text": {
+            "en": "In pregnant patients with syndromic and nsHTAD, and a diameter of the aortic root, ascending aorta, or both, of 4.0 cm to 4.5 cm, cesarean delivery may be considered.",
+            "ru": "У беременных пациенток с синдромальными формами и nsHTAD и диаметром корня аорты и/или восходящей аорты от 4,0 см до 4,5 см может быть рассмотрено родоразрешение путем кесарева сечения."
+          },
+          "class": "IIb",
+          "level": "C-EO"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

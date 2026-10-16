@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt27-surveillance-aaa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 27",
+  "title": {
+    "en": "Recommendations for Surveillance of Abdominal Aortic Dilation and Aneurysm",
+    "ru": "Рекомендации по динамическому наблюдению при дилатации и аневризме брюшной аорты"
+  },
+  "tags": [
+    "aaa",
+    "abdominal-aorta",
+    "surveillance",
+    "ultrasound",
+    "ct",
+    "mri",
+    "preoperative-planning"
+  ],
+  "sections": [
+    {
+      "id": "sec-surveillance-aaa",
+      "title": {
+        "en": "Surveillance of Abdominal Aortic Dilation and Aneurysm",
+        "ru": "Динамическое наблюдение при дилатации и аневризме брюшной аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-aaa-3-to-3-9-cm",
+          "text": {
+            "en": "In patients with an AAA of 3.0 cm to 3.9 cm, surveillance ultrasound is recommended every 3 years to assess for interval change.",
+            "ru": "У пациентов с АБА размером от 3,0 см до 3,9 см рекомендуется ультразвуковой контроль каждые 3 года для оценки динамики изменений."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r02-aaa-4-to-4-9-cm-men-4-to-4-4-cm-women",
+          "text": {
+            "en": "In men with an AAA of 4.0 cm to 4.9 cm and in women with an AAA of 4.0 cm to 4.4 cm, surveillance ultrasound is recommended annually to assess for interval change.",
+            "ru": "У мужчин с АБА от 4,0 см до 4,9 см и у женщин с АБА от 4,0 см до 4,4 см рекомендуется ежегодный ультразвуковой контроль для оценки динамики изменений."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r03-aaa-5-cm-men-4-5-cm-women",
+          "text": {
+            "en": "In men with an AAA of ≥5.0 cm and women with an AAA of ≥4.5 cm, surveillance ultrasound is recommended every 6 months to assess for interval change.",
+            "ru": "У мужчин с АБА ≥5,0 см и у женщин с АБА ≥4,5 см рекомендуется ультразвуковой контроль каждые 6 месяцев для оценки динамики изменений."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r04a-inadequately-defined-ultrasound-ct",
+          "text": {
+            "en": "In patients with an AAA that is inadequately defined with ultrasound, surveillance CT is recommended.",
+            "ru": "У пациентов с АБА, параметры которой недостаточно четко визуализируются при УЗИ, рекомендуется контрольная КТ."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r04b-contraindication-ct-mri",
+          "text": {
+            "en": "In such patients, when there is a contraindication to CT or to lower cumulative radiation risk, surveillance MRI is reasonable.",
+            "ru": "У таких пациентов при наличии противопоказаний к КТ или с целью снижения кумулятивной лучевой нагрузки целесообразна контрольная МРТ."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [9, 10]
+        },
+        {
+          "id": "r05-preoperative-planning-ct",
+          "text": {
+            "en": "In patients with an AAA that meets criteria for repair, CT is recommended for preoperative planning.",
+            "ru": "У пациентов с АБА, соответствующей критериям оперативного лечения, рекомендуется выполнение КТ для предоперационного планирования."
+          },
+          "class": "I",
+          "level": "C-EO"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt05-acute-decompensated-hf",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 5",
+  "title": {
+    "en": "Recommendations for Management of Acute Decompensated Heart Failure (ADHF)",
+    "ru": "Рекомендации по ведению острой декомпенсированной сердечной недостаточности (ОДСН)"
+  },
+  "tags": ["acute-hf", "adhf", "decompensation", "diuretics", "vasodilators", "inotropes", "vasopressors", "pulmonary-edema", "cardiogenic-shock", "ultrafiltration"],
+  "sections": [
+    {
+      "id": "sec-volume-management",
+      "title": {
+        "en": "Volume Management and Decongestion",
+        "ru": "Управление волемией и устранение застоя"
+      },
+      "rows": [
+        {
+          "id": "r01-iv-diuretics",
+          "text": {
+            "en": "IV diuretics are recommended for patients admitted with ADHF who have fluid overload to improve symptoms and clinical status.",
+            "ru": "Внутривенные диуретики рекомендованы госпитализированным пациентам с ОДСН и задержкой жидкости для улучшения симптомов и клинического состояния."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "B-NR"
+        },
+        {
+          "id": "r02-urine-electrolytes",
+          "text": {
+            "en": "During treatment with IV diuretics, serial assessments of serum electrolytes and renal function should be performed to guide therapy.",
+            "ru": "При лечении в/в диуретиками необходим серийный контроль электролитов сыворотки и функции почек для коррекции терапии."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r03-ultrafiltration",
+          "text": {
+            "en": "Ultrafiltration may be considered in patients with ADHF who fail to respond to adequate diuretic therapy to restore volume homeostasis.",
+            "ru": "Ультрафильтрация может быть рассмотрена у пациентов с ОДСН, не отвечающих на адекватную диуретическую терапию, для восстановления волемического гомеостаза."
+          },
+          "refs": [],
+          "class": "IIb",
+          "level": "B-R"
+        }
+      ]
+    },
+    {
+      "id": "sec-vasodilators-inotropes",
+      "title": {
+        "en": "Vasodilators, Inotropes, and Vasopressors",
+        "ru": "Вазодилататоры, инотропные препараты и вазопрессоры"
+      },
+      "rows": [
+        {
+          "id": "r04-vasodilators-htn-adhf",
+          "text": {
+            "en": "IV vasodilators (nitroglycerin, nitroprusside, nesiritide) may be considered as an adjunct to diuretics in ADHF patients without hypotension to improve dyspnoea.",
+            "ru": "В/в вазодилататоры (нитроглицерин, нитропруссид, несиритид) могут рассматриваться как дополнение к диуретикам при ОДСН без гипотензии для улучшения одышки."
+          },
+          "refs": [],
+          "class": "IIb",
+          "level": "B-R"
+        },
+        {
+          "id": "r05-inotropes-cardiogenic-shock",
+          "text": {
+            "en": "Short-term IV inotropic support is recommended for patients with ADHF and cardiogenic shock to maintain systemic perfusion and preserve end-organ function.",
+            "ru": "Кратковременная в/в инотропная поддержка рекомендована при ОДСН и кардиогенном шоке для поддержания системной перфузии и функции органов-мишеней."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r06-routine-inotropes-harm",
+          "text": {
+            "en": "Routine use of IV inotropic agents in patients without evidence of low perfusion (systemic hypotension, organ dysfunction) is potentially harmful, as it may increase mortality.",
+            "ru": "Рутинное применение в/в инотропных препаратов у пациентов без признаков низкой перфузии (системная гипотензия, дисфункция органов) потенциально опасно и может увеличивать смертность."
+          },
+          "refs": [],
+          "class": "III-harm",
+          "level": "A"
+        },
+        {
+          "id": "r07-vasopressor-refractory-shock",
+          "text": {
+            "en": "For patients with ADHF and cardiogenic shock unresponsive to initial treatment, vasopressors (norepinephrine preferred) may be used as a bridge to advanced therapies.",
+            "ru": "Пациентам с ОДСН и кардиогенным шоком, не отвечающим на начальное лечение, вазопрессоры (предпочтителен норэпинефрин) могут применяться как мост к продвинутым методам лечения."
+          },
+          "refs": [],
+          "class": "IIa",
+          "level": "B-NR"
+        }
+      ]
+    },
+    {
+      "id": "sec-monitoring-discharge",
+      "title": {
+        "en": "Monitoring, Discharge Planning, and Optimization of GDMT",
+        "ru": "Мониторинг, планирование выписки и оптимизация GDMT"
+      },
+      "rows": [
+        {
+          "id": "r08-gdmt-continuation",
+          "text": {
+            "en": "In patients admitted for ADHF who are on chronic oral GDMT, it is recommended to continue GDMT in the absence of hemodynamic instability or contraindications.",
+            "ru": "У госпитализированных по поводу ОДСН, получающих хроническую GDMT перорально, рекомендовано продолжать GDMT при отсутствии гемодинамической нестабильности или противопоказаний."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "B-NR"
+        },
+        {
+          "id": "r09-gdmt-initiation-before-discharge",
+          "text": {
+            "en": "Before discharge from a hospitalization for HF, evaluation of adequacy of GDMT is recommended, with initiation of GDMT before discharge if not already done.",
+            "ru": "Перед выпиской после госпитализации по поводу СН рекомендована оценка адекватности GDMT и назначение GDMT до выписки, если это ещё не сделано."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "B-NR"
+        },
+        {
+          "id": "r10-congestion-before-discharge",
+          "text": {
+            "en": "Objective evidence of adequate decongestion before discharge is recommended to reduce the risk of early HF readmission.",
+            "ru": "Объективные признаки адекватной декомпрессии перед выпиской рекомендованы для снижения риска ранней повторной госпитализации."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "C-LD"
+        },
+        {
+          "id": "r11-early-followup",
+          "text": {
+            "en": "Scheduling of follow-up visits within 7–14 days of discharge is recommended for high-risk HF patients to reduce readmission and to up-titrate GDMT.",
+            "ru": "Планирование визитов в течение 7–14 дней после выписки рекомендовано для пациентов высокого риска с СН для снижения реадмиссий и титрования GDMT."
+          },
+          "refs": [],
+          "class": "I",
+          "level": "B-NR"
+        }
+      ]
+    }
+  ]
+}

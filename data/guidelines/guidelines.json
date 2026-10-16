@@ -10,6 +10,8 @@
     { "id": "esc-endo-2023", "path": "esc-endo-2023/" },
     { "id": "esc-revasc-2018", "path": "esc-revasc-2018/" },
     { "id": "esc-pe-2019", "path": "esc-pe-2019/" },
-    { "id": "esc-vhd-2025", "path": "esc-vhd-2025/" }
+    { "id": "esc-vhd-2025", "path": "esc-vhd-2025/" },
+    { "id": "aha-hf-2022", "path": "aha-hf-2022/" },
+    { "id": "aha-aortic-2022", "path": "aha-aortic-2022/" }
   ]
 }

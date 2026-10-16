@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt38-open-vs-endovascular-repair-taaa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 38",
+  "title": {
+    "en": "Recommendations for Open Versus Endovascular Repair of TAAA",
+    "ru": "Рекомендации по открытому в сравнении с эндоваскулярным лечением торакоабдоминальных аневризм аорты (ТААА)"
+  },
+  "tags": [
+    "taaa",
+    "open-repair",
+    "endovascular",
+    "ruptured-taaa",
+    "fenestrated-stent-grafts",
+    "branched-stent-grafts",
+    "marfan",
+    "loeys-dietz",
+    "ehlers-danlos"
+  ],
+  "sections": [
+    {
+      "id": "sec-ruptured-taaa",
+      "title": {
+        "en": "Ruptured TAAA",
+        "ru": "Разрыв ТААА"
+      },
+      "rows": [
+        {
+          "id": "r01-ruptured-taaa-open-repair",
+          "text": {
+            "en": "In patients with ruptured TAAA requiring intervention, open repair is recommended.",
+            "ru": "У пациентов с разрывом ТААА, требующим вмешательства, рекомендуется открытая операция."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-ruptured-taaa-hemodynamically-stable-endovascular",
+          "text": {
+            "en": "In patients with ruptured TAAA requiring intervention, provided that the patient is hemodynamically stable, endovascular repair may be reasonable in centers with endovascular expertise and access to appropriate endovascular stent grafts.",
+            "ru": "У пациентов с разрывом ТААА, требующим вмешательства, при условии гемодинамической стабильности может быть целесообразным эндоваскулярное лечение в центрах с соответствующим опытом и доступом к необходимым эндоваскулярным стент-графтам."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [6]
+        }
+      ]
+    },
+    {
+      "id": "sec-intact-taaa",
+      "title": {
+        "en": "Intact TAAA",
+        "ru": "Интактная ТААА"
+      },
+      "rows": [
+        {
+          "id": "r03-syndromic-intact-open-over-endo",
+          "text": {
+            "en": "In patients with Marfan syndrome, Loeys-Dietz syndrome, or vascular Ehlers-Danlos syndrome and intact TAAA requiring intervention, open repair is recommended over endovascular repair.",
+            "ru": "У пациентов с синдромом Марфана, синдромом Лойса–Дитца или сосудистым типом синдрома Элерса–Данлоса и интактной ТААА, требующей вмешательства, рекомендуется открытая операция предпочтительнее эндоваскулярного лечения."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [7, 8, 9]
+        },
+        {
+          "id": "r04-degenerative-intact-fenestrated-branched",
+          "text": {
+            "en": "In patients with intact degenerative TAAA and suitable anatomy, endovascular repair with fenestrated stent grafts, branched stent grafts, or both may be considered in centers with endovascular expertise and access to appropriate endovascular stent grafts.",
+            "ru": "У пациентов с интактной дегенеративной ТААА и подходящей анатомией может быть рассмотрено эндоваскулярное лечение с использованием фенестрированных и/или браншированных стент-графтов в центрах с соответствующим опытом и наличием необходимых эндоваскулярных графтов."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [10, 11, 12, 13]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt67-counseling-management-pregnancy",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 67",
+  "title": {
+    "en": "Recommendations for Counseling and Management of Aortic Disease in Pregnancy and Postpartum",
+    "ru": "Рекомендации по консультированию и ведению заболеваний аорты во время беременности и в послеродовом периоде"
+  },
+  "tags": [
+    "pregnancy",
+    "postpartum",
+    "aortopathy",
+    "marfan",
+    "loeys-dietz",
+    "nshtad",
+    "genetic-counseling",
+    "tte",
+    "mri",
+    "beta-blockers",
+    "hypertension"
+  ],
+  "sections": [
+    {
+      "id": "sec-prepregnancy",
+      "title": {
+        "en": "Prepregnancy",
+        "ru": "Период до беременности (прегравидарный этап)"
+      },
+      "rows": [
+        {
+          "id": "r01-genetic-counseling-prepregnancy",
+          "text": {
+            "en": "In patients with genetic aortopathies attributable to syndromic (Marfan syndrome, Loeys-Dietz syndrome, vascular Ehlers-Danlos syndrome) and nsHTAD and who are contemplating pregnancy, genetic counseling before pregnancy to discuss the heritable nature of their condition is recommended.",
+            "ru": "У пациенток с генетическими аортопатиями, обусловленными синдромальными формами (синдром Марфана, синдром Лойса-Дитца, сосудистый тип синдрома Элерса-Данло) и nsHTAD, планирующих беременность, рекомендуется медико-генетическое консультирование перед наступлением беременности для обсуждения наследственного характера заболевания."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-aortic-imaging-prepregnancy",
+          "text": {
+            "en": "In patients with syndromic and nsHTAD, Turner syndrome, BAV with aortic dilation, and other aortopathy conditions, aortic imaging (with TTE, MRI or CT, or both as appropriate) before pregnancy is recommended to determine aortic diameters.",
+            "ru": "У пациенток с синдромальными формами и nsHTAD, синдромом Тернера, ДАК с дилатацией аорты и другими аортопатиями перед наступлением беременности рекомендуется визуализация аорты (с помощью ТТЭхоКГ, МРТ или КТ по показаниям) для определения диаметра аорты."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+        },
+        {
+          "id": "r03-dissection-risk-counseling-prepregnancy",
+          "text": {
+            "en": "In patients with syndromic and nsHTAD, Turner syndrome, BAV with aortic dilation, and other aortopathy conditions, who are contemplating pregnancy, counseling about the risks of aortic dissection related to pregnancy is recommended.",
+            "ru": "У пациенток с синдромальными формами и nsHTAD, синдромом Тернера, ДАК с дилатацией аорты и другими аортопатиями, планирующих беременность, рекомендуется консультирование о рисках расслоения аорты, связанных с беременностью."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [2, 3, 4, 5, 10, 12, 14]
+        }
+      ]
+    },
+    {
+      "id": "sec-during-pregnancy",
+      "title": {
+        "en": "During Pregnancy",
+        "ru": "Во время беременности"
+      },
+      "rows": [
+        {
+          "id": "r04-multidisciplinary-team-management",
+          "text": {
+            "en": "In patients with aortic aneurysms, or at increased risk of aortic dissection, or both, it is recommended that pregnancy be managed by a multidisciplinary team including a maternal fetal medicine specialist and cardiologist, and, if logistically feasible, that delivery be planned in a hospital where the capability for emergency aortic repair is available.",
+            "ru": "У пациенток с аневризмами аорты и/или повышенным риском расслоения аорты ведение беременности рекомендуется мультидисциплинарной командой с участием специалиста по медицине плода/акушера и кардиолога, а родоразрешение (при логистической возможности) следует планировать в стационаре с возможностью экстренной хирургической помощи на аорте."
+          },
+          "class": "IIa",
+          "level": "C-EO"
+        },
+        {
+          "id": "r05-hypertension-guideline-directed-treatment",
+          "text": {
+            "en": "In patients with aortopathies who are pregnant, guideline-directed treatment of hypertension is recommended.",
+            "ru": "У беременных пациенток с аортопатиями рекомендуется лечение артериальной гипертензии в соответствии с клиническими рекомендациями."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [6, 15, 16, 17]
+        },
+        {
+          "id": "r06-beta-blocker-therapy-pregnancy-postpartum",
+          "text": {
+            "en": "In patients with syndromic and nsHTAD, beta-blocker therapy during pregnancy and postpartum is recommended, unless contraindicated.",
+            "ru": "У пациенток с синдромальными формами и nsHTAD во время беременности и в послеродовом периоде рекомендуется терапия бета-блокаторами (при отсутствии противопоказаний)."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r07-surveillance-tte-each-trimester-postpartum",
+          "text": {
+            "en": "In pregnant patients with an aortopathic condition or a dilated aortic root or ascending aorta, surveillance TTE to monitor aortic diameters and aortic valve function is recommended each trimester and again several weeks postpartum, although imaging may be more frequent depending on aortic diameter, aortic growth rate, and underlying condition.",
+            "ru": "У беременных пациенток с аортопатиями или дилатацией корня либо восходящей аорты рекомендуется динамическая ТТЭхоКГ для контроля диаметра аорты и функции аортального клапана в каждом триместре и повторно через несколько недель после родов (при необходимости чаще, в зависимости от диаметра аорты, скорости ее роста и основного заболевания)."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [7, 8, 9, 11, 17, 18]
+        },
+        {
+          "id": "r08-mri-without-gadolinium-over-ct",
+          "text": {
+            "en": "In pregnant patients with aortic disease who require surveillance imaging of the aortic arch, descending, abdominal aorta, or all 3, MRI without gadolinium is recommended over CT to avoid radiation exposure to the fetus.",
+            "ru": "У беременных пациенток с заболеваниями аорты, требующих визуализационного контроля дуги, нисходящей и/или брюшной аорты, рекомендуется проведение МРТ без гадолиния предпочтительнее КТ для исключения лучевой нагрузки на плод."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [19, 20]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

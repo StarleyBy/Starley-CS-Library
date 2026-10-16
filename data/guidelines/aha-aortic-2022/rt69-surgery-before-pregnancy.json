@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt69-surgery-before-pregnancy",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 69",
+  "title": {
+    "en": "Recommendations for Surgery Before Pregnancy in Women With Aortic Disease",
+    "ru": "Рекомендации по хирургическому лечению перед беременностью у женщин с заболеваниями аорты"
+  },
+  "tags": [
+    "pregnancy",
+    "prophylactic-surgery",
+    "marfan",
+    "loeys-dietz",
+    "nshtad",
+    "turner-syndrome",
+    "bav",
+    "sporadic-aneurysm",
+    "surgical-threshold"
+  ],
+  "sections": [
+    {
+      "id": "sec-surgery-before-pregnancy",
+      "title": {
+        "en": "Surgery Before Pregnancy in Women With Aortic Disease",
+        "ru": "Хирургическое лечение перед беременностью у женщин с заболеваниями аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-marfan-root-over-4-5cm",
+          "text": {
+            "en": "In patients with Marfan syndrome and an aortic root diameter of >4.5 cm, aortic surgery before pregnancy is recommended.",
+            "ru": "У пациенток с синдромом Марфана и диаметром корня аорты >4,5 см рекомендуется хирургическое вмешательство на аорте перед наступлением беременности."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-marfan-root-4-to-4-5cm-risk-factors",
+          "text": {
+            "en": "If the aortic root diameter is 4.0 cm to 4.5 cm, aortic surgery before pregnancy may be considered, especially if there are risk factors for aortic dissection (ie, rapid aortic growth of ≥0.3 cm/y or a family history of aortic dissection).",
+            "ru": "При диаметре корня аорты от 4,0 до 4,5 см хирургическое вмешательство на аорте перед наступлением беременности может быть рассмотрено, особенно при наличии факторов риска расслоения аорты (т. е. быстрый рост аорты ≥0,3 см/год или семейный анамнез расслоения аорты)."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [1, 2, 5, 6, 7, 8]
+        },
+        {
+          "id": "r03-loeys-dietz-tgfb2-tgfb3-over-4-5cm",
+          "text": {
+            "en": "In patients with Loeys-Dietz syndrome attributable to pathogenic variants in TGFB2 or TGFB3 and an aortic diameter of ≥4.5 cm, surgery before pregnancy is reasonable.",
+            "ru": "У пациенток с синдромом Лойса-Дитца, обусловленным патогенными вариантами в генах TGFB2 или TGFB3, и диаметром аорты ≥4,5 см хирургическое вмешательство перед наступлением беременности целесообразно."
+          },
+          "class": "IIa",
+          "level": "C-EO"
+        },
+        {
+          "id": "r04-loeys-dietz-tgfbr1-tgfbr2-smad3-over-4cm",
+          "text": {
+            "en": "If the Loeys-Dietz syndrome is attributable to pathogenic variants in TGFBR1, TGFBR2, or SMAD3, and the aortic diameter is ≥4.0 cm, surgery before pregnancy may be considered.",
+            "ru": "Если синдром Лойса-Дитца обусловлен патогенными вариантами в генах TGFBR1, TGFBR2 или SMAD3 и диаметр аорты составляет ≥4,0 см, хирургическое вмешательство перед наступлением беременности может быть рассмотрено."
+          },
+          "class": "IIb",
+          "level": "C-EO"
+        },
+        {
+          "id": "r05-nshtad-over-4-5cm",
+          "text": {
+            "en": "In patients with nsHTAD and an aortic diameter of ≥4.5 cm, surgery before pregnancy is recommended.",
+            "ru": "У пациенток с nsHTAD и диаметром аорты ≥4,5 см хирургическое вмешательство перед наступлением беременности рекомендуется."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r06-nshtad-4-to-4-4cm",
+          "text": {
+            "en": "If the aortic diameter is 4.0 cm to 4.4 cm, surgery before pregnancy may be considered, depending on the molecular diagnosis, family history, and aortic growth rate.",
+            "ru": "При диаметре аорты от 4,0 до 4,4 см хирургическое вмешательство перед наступлением беременности может быть рассмотрено в зависимости от молекулярно-генетического диагноза, семейного анамнеза и скорости роста аорты."
+          },
+          "class": "IIb",
+          "level": "C-EO"
+        },
+        {
+          "id": "r07-turner-syndrome-asi-over-2-5",
+          "text": {
+            "en": "In patients with Turner syndrome and ASI of ≥2.5 cm/m2, surgery before pregnancy is recommended.",
+            "ru": "У пациенток с синдромом Тернера и индексом размера аорты (ASI) ≥2,5 см/м² хирургическое вмешательство перед наступлением беременности рекомендуется."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [9, 10, 11]
+        },
+        {
+          "id": "r08-bav-over-5cm",
+          "text": {
+            "en": "In patients with a BAV (in the absence of Turner syndrome or an HTAD) and an aortic diameter of ≥5.0 cm, surgery before pregnancy is recommended.",
+            "ru": "У пациенток с ДАК (при отсутствии синдрома Тернера или HTAD) и диаметром аорты ≥5,0 см хирургическое вмешательство перед наступлением беременности рекомендуется."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r09-sporadic-aneurysm-over-5cm",
+          "text": {
+            "en": "In patients with sporadic aortic root aneurysms, ascending aortic aneurysms, or both and a diameter of ≥5.0 cm, surgery before pregnancy is recommended.",
+            "ru": "У пациенток со спорадическими аневризмами корня аорты, восходящей аорты или обоих отделов и диаметром ≥5,0 см хирургическое вмешательство перед наступлением беременности рекомендуется."
+          },
+          "class": "I",
+          "level": "C-EO"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

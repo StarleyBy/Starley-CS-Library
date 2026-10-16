@@ -108,9 +108,19 @@
 .gt-badge[data-class="IIa"] { background: var(--gt-cls-IIa-bg); color: var(--gt-cls-IIa-fg); }
 .gt-badge[data-class="IIb"] { background: var(--gt-cls-IIb-bg); color: var(--gt-cls-IIb-fg); }
 .gt-badge[data-class="III"] { background: var(--gt-cls-III-bg); color: var(--gt-cls-III-fg); }
+.gt-badge[data-class="III-no-benefit"],
+.gt-badge[data-class="III-harm"] { background: var(--gt-cls-III-bg); color: var(--gt-cls-III-fg); }
+.gt-badge[data-class="Value-High"] { background: #2e7d32; color: #ffffff; font-size: 0.65rem; }
+.gt-badge[data-class="Value-Intermediate"] { background: #f57c00; color: #ffffff; font-size: 0.65rem; }
+.gt-badge[data-class="Value-Low"]  { background: #c62828; color: #ffffff; font-size: 0.65rem; }
+.gt-badge[data-class="Value-Uncertain"] { background: #607d8b; color: #ffffff; font-size: 0.65rem; }
 .gt-badge[data-level="A"]   { background: var(--gt-lvl-A-bg);   color: var(--gt-lvl-A-fg); }
 .gt-badge[data-level="B"]   { background: var(--gt-lvl-B-bg);   color: var(--gt-lvl-B-fg); }
+.gt-badge[data-level="B-R"],
+.gt-badge[data-level="B-NR"] { background: var(--gt-lvl-B-bg); color: var(--gt-lvl-B-fg); }
 .gt-badge[data-level="C"]   { background: var(--gt-lvl-C-bg);   color: var(--gt-lvl-C-fg); }
+.gt-badge[data-level="C-LD"],
+.gt-badge[data-level="C-EO"] { background: var(--gt-lvl-C-bg); color: var(--gt-lvl-C-fg); }
 
 /* Grid-type tables: tone on any cell */
 .gt-cell[data-tone="neutral"] { background: var(--gt-tone-neutral-bg); color: var(--gt-tone-neutral-fg); }
@@ -762,4 +772,40 @@
 .gt-book-footer-bar .gt-btn {
   padding: 0.55rem 1.1rem;
   font-size: 0.88rem;
+}
+
+/* Deep-link triggers in Markdown chapters and Quiz */
+a[href*="#/tables/"],
+.quiz-table-link,
+.gt-inline-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  color: #38bdf8;
+  background: rgba(56, 189, 248, 0.12);
+  border: 1px solid rgba(56, 189, 248, 0.35);
+  padding: 0.15rem 0.55rem;
+  border-radius: 6px;
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 0.9em;
+  transition: all 0.2s ease;
+  vertical-align: baseline;
+  cursor: pointer;
+}
+
+a[href*="#/tables/"]:hover,
+.quiz-table-link:hover,
+.gt-inline-link:hover {
+  background: rgba(56, 189, 248, 0.22);
+  border-color: #38bdf8;
+  color: #7dd3fc;
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+a[href*="#/tables/"]::before,
+.gt-inline-link::before {
+  content: "📋";
+  font-size: 0.85em;
 }

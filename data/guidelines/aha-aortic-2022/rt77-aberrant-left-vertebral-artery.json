@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt77-aberrant-left-vertebral-artery",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 77",
+  "title": {
+    "en": "Recommendation for Aberrant Left Vertebral Artery Origin",
+    "ru": "Рекомендация при аберрантном отхождении левой позвоночной артерии"
+  },
+  "tags": [
+    "aberrant-left-vertebral-artery",
+    "vertebral-artery",
+    "revascularization",
+    "aortic-arch",
+    "aortic-repair"
+  ],
+  "sections": [
+    {
+      "id": "sec-aberrant-left-vertebral-artery",
+      "title": {
+        "en": "Aberrant Left Vertebral Artery Origin",
+        "ru": "Аберрантное отхождение левой позвоночной артерии"
+      },
+      "rows": [
+        {
+          "id": "r01-aberrant-left-vertebral-revascularization",
+          "text": {
+            "en": "In patients with an aberrant left vertebral artery origin arising directly from the thoracic aorta who require aortic repair involving reconstruction or coverage of the vertebral artery origin, revascularization of the vertebral artery is reasonable.",
+            "ru": "У пациентов с аберрантным отхождением левой позвоночной артерии непосредственно от грудной аорты, которым требуется вмешательство на аорте с реконструкцией или перекрытием устья позвоночной артерии, целесообразна реваскуляризация позвоночной артерии."
+          },
+          "class": "IIa",
+          "level": "C-EO"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

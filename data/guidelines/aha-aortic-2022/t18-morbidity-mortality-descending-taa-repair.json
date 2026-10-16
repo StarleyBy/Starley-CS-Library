@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t18-morbidity-mortality-descending-taa-repair",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 18",
+  "type": "grid",
+  "title": {
+    "en": "Patient Characteristics Associated With Increased Perioperative Morbidity and Mortality After Open and Endovascular Repair of Descending TAA",
+    "ru": "Характеристики пациентов, ассоциированные с повышенной периоперационной заболеваемостью и смертностью после открытого и эндоваскулярного протезирования нисходящей грудной аорты"
+  },
+  "tags": [
+    "taa",
+    "descending-aorta",
+    "open-repair",
+    "tevar",
+    "endovascular",
+    "morbidity",
+    "mortality",
+    "perioperative-risk"
+  ],
+  "columns": [
+    {
+      "id": "open_surgical_repair",
+      "title": {
+        "en": "Open Surgical Repair",
+        "ru": "Открытое хирургическое вмешательство"
+      }
+    },
+    {
+      "id": "endovascular_repair",
+      "title": {
+        "en": "Endovascular Repair",
+        "ru": "Эндоваскулярное вмешательство"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "age-functional-dependence",
+      "cells": [
+        {
+          "text": {
+            "en": "Advanced age<br>• 65–74 y (OR, 1.8; 95% CI, 1.4–2.4; *P*<0.001)<br>• ≥75 y (OR, 2.6; 95% CI, 2.0–3.5; *P*<0.001)",
+            "ru": "Пожилой и старческий возраст<br>• 65–74 года (ОШ 1,8; 95% ДИ 1,4–2,4; *P*<0,001)<br>• ≥75 лет (ОШ 2,6; 95% ДИ 2,0–3,5; *P*<0,001)"
+          },
+          "refs": [8]
+        },
+        {
+          "text": {
+            "en": "Functional dependence",
+            "ru": "Функциональная зависимость"
+          }
+        }
+      ]
+    },
+    {
+      "id": "renal-extent",
+      "cells": [
+        {
+          "text": {
+            "en": "Preoperative renal insufficiency (stage 3 or greater CKD) or hemodialysis",
+            "ru": "Дооперационная почечная недостаточность (ХБП 3 стадии или выше) или гемодиализ"
+          }
+        },
+        {
+          "text": {
+            "en": "Thoracoabdominal aortic aneurysm extent",
+            "ru": "Распространение аневризмы на торакоабдоминальный отдел"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pulmonary-disease",
+      "cells": [
+        {
+          "text": {
+            "en": "COPD and FEV1 ≤50% predicted",
+            "ru": "ХОБЛ и ОФВ1 ≤50% от должного"
+          }
+        },
+        {
+          "text": {
+            "en": "Pulmonary disease",
+            "ru": "Заболевания легких"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stroke-iliac-access",
+      "cells": [
+        {
+          "text": {
+            "en": "Previous stroke",
+            "ru": "Инсульт в анамнезе"
+          },
+          "refs": [9]
+        },
+        {
+          "text": {
+            "en": "Need for iliac access",
+            "ru": "Необходимость подвздошного сосудистого доступа"
+          }
+        }
+      ]
+    },
+    {
+      "id": "landing-zone",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Zone 1/2 landing for thoracic stent graft",
+            "ru": "Зона фиксации (landing zone) 1/2 для торакального стент-графта"
+          },
+          "refs": [7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

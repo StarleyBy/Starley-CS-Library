@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t05-nonischemic-causes-hf",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Other Potential Nonischemic Causes of Heart Failure",
+    "ru": "Другие возможные неишемические причины сердечной недостаточности"
+  },
+  "tags": [
+    "etiology",
+    "causes",
+    "nonischemic",
+    "cardiomyopathy",
+    "cardiotoxic",
+    "chemotherapy",
+    "myocarditis",
+    "infiltrative",
+    "takotsubo",
+    "peripartum",
+    "substance-abuse",
+    "genetic",
+    "hypertension",
+    "tachycardia"
+  ],
+  "columns": [
+    {
+      "id": "c_cause",
+      "title": { "en": "Cause", "ru": "Причина" }
+    },
+    {
+      "id": "c_refs",
+      "title": { "en": "References", "ru": "Ссылки" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "cause-chemo",
+      "cells": [
+        {
+          "text": {
+            "en": "Chemotherapy and other cardiotoxic medications",
+            "ru": "Химиотерапия и другие кардиотоксические препараты"
+          }
+        },
+        {
+          "text": { "en": "23–25", "ru": "23–25" }
+        }
+      ]
+    },
+    {
+      "id": "cause-rheum",
+      "cells": [
+        {
+          "text": {
+            "en": "Rheumatologic or autoimmune",
+            "ru": "Ревматологические или аутоиммунные заболевания"
+          }
+        },
+        {
+          "text": { "en": "26", "ru": "26" }
+        }
+      ]
+    },
+    {
+      "id": "cause-endocrine",
+      "cells": [
+        {
+          "text": {
+            "en": "Endocrine or metabolic (thyroid, acromegaly, pheochromocytoma, diabetes, obesity)",
+            "ru": "Эндокринные или метаболические (патология щитовидной железы, акромегалия, феохромоцитома, сахарный диабет, ожирение)"
+          }
+        },
+        {
+          "text": { "en": "27–31", "ru": "27–31" }
+        }
+      ]
+    },
+    {
+      "id": "cause-genetic",
+      "cells": [
+        {
+          "text": {
+            "en": "Familial cardiomyopathy or inherited and genetic heart disease",
+            "ru": "Семейная кардиомиопатия или наследственная и генетическая болезнь сердца"
+          }
+        },
+        {
+          "text": { "en": "32", "ru": "32" }
+        }
+      ]
+    },
+    {
+      "id": "cause-rhythm",
+      "cells": [
+        {
+          "text": {
+            "en": "Heart rhythm–related (e.g., tachycardia-mediated, PVCs, RV pacing)",
+            "ru": "Связанные с ритмом сердца (тахикардия-индуцированная, желудочковые экстрасистолы, стимуляция ПЖ)"
+          }
+        },
+        {
+          "text": { "en": "33", "ru": "33" }
+        }
+      ]
+    },
+    {
+      "id": "cause-htn",
+      "cells": [
+        {
+          "text": {
+            "en": "Hypertension",
+            "ru": "Артериальная гипертензия"
+          }
+        },
+        {
+          "text": { "en": "34", "ru": "34" }
+        }
+      ]
+    },
+    {
+      "id": "cause-infiltrative",
+      "cells": [
+        {
+          "text": {
+            "en": "Infiltrative cardiac disease (e.g., amyloid, sarcoid, hemochromatosis)",
+            "ru": "Инфильтративные болезни сердца (амилоидоз, саркоидоз, гемохроматоз)"
+          }
+        },
+        {
+          "text": { "en": "21, 35, 36", "ru": "21, 35, 36" }
+        }
+      ]
+    },
+    {
+      "id": "cause-myocarditis",
+      "cells": [
+        {
+          "text": {
+            "en": "Myocarditis (infectious, toxin or medication, immunological, hypersensitivity)",
+            "ru": "Миокардит (инфекционный, токсический или медикаментозный, иммунологический, гиперчувствительный)"
+          }
+        },
+        {
+          "text": { "en": "37, 38", "ru": "37, 38" }
+        }
+      ]
+    },
+    {
+      "id": "cause-peripartum",
+      "cells": [
+        {
+          "text": {
+            "en": "Peripartum cardiomyopathy",
+            "ru": "Перипартальная кардиомиопатия"
+          }
+        },
+        {
+          "text": { "en": "39", "ru": "39" }
+        }
+      ]
+    },
+    {
+      "id": "cause-takotsubo",
+      "cells": [
+        {
+          "text": {
+            "en": "Stress cardiomyopathy (Takotsubo)",
+            "ru": "Стресс-индуцированная кардиомиопатия (такоцубо)"
+          }
+        },
+        {
+          "text": { "en": "40, 41", "ru": "40, 41" }
+        }
+      ]
+    },
+    {
+      "id": "cause-substance",
+      "cells": [
+        {
+          "text": {
+            "en": "Substance abuse (e.g., alcohol, cocaine, methamphetamine)",
+            "ru": "Злоупотребление психоактивными веществами (алкоголь, кокаин, метамфетамин)"
+          }
+        },
+        {
+          "text": { "en": "42–44", "ru": "42–44" }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "HF indicates heart failure; PVC, premature ventricular contraction; and RV, right ventricular.",
+      "ru": "СН — сердечная недостаточность; ЖЭС — желудочковая экстрасистола; ПЖ — правый желудочек."
+    }
+  },
+  "source": {
+    "expectedRows": 11
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

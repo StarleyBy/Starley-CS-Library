@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t28-high-risk-features-uncomplicated-type-b-dissection",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 28",
+  "type": "grid",
+  "title": {
+    "en": "High-Risk Features in Uncomplicated Acute Type B Aortic Dissection",
+    "ru": "Признаки высокого риска при неосложненном остром расслоении аорты типа B"
+  },
+  "tags": [
+    "type-b-dissection",
+    "acute-dissection",
+    "uncomplicated-dissection",
+    "high-risk-features",
+    "imaging-findings",
+    "clinical-findings",
+    "refractory-hypertension",
+    "entry-tear"
+  ],
+  "columns": [
+    {
+      "id": "feature",
+      "title": {
+        "en": "High-Risk Features in Uncomplicated Acute Type B Aortic Dissection",
+        "ru": "Признаки высокого риска при неосложненном остром расслоении аорты типа B"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-high-risk-imaging-findings",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**High-Risk Imaging Findings**",
+            "ru": "**Признаки высокого риска при визуализации**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "maximal-aortic-diameter",
+      "cells": [
+        {
+          "text": {
+            "en": "Maximal aortic diameter >40 mm",
+            "ru": "Максимальный диаметр аорты >40 мм"
+          }
+        }
+      ]
+    },
+    {
+      "id": "false-lumen-diameter",
+      "cells": [
+        {
+          "text": {
+            "en": "False-lumen diameter >20–22 mm",
+            "ru": "Диаметр ложного просвета >20–22 мм"
+          }
+        }
+      ]
+    },
+    {
+      "id": "entry-tear-size",
+      "cells": [
+        {
+          "text": {
+            "en": "Entry tear >10 mm",
+            "ru": "Входной разрыв >10 мм"
+          }
+        }
+      ]
+    },
+    {
+      "id": "entry-tear-location",
+      "cells": [
+        {
+          "text": {
+            "en": "Entry tear on lesser curvature",
+            "ru": "Входной разрыв по малой кривизне"
+          }
+        }
+      ]
+    },
+    {
+      "id": "increase-aortic-diameter",
+      "cells": [
+        {
+          "text": {
+            "en": "Increase in total aortic diameter of >5 mm between serial imaging studies",
+            "ru": "Увеличение общего диаметра аорты >5 мм между последовательными визуализирующими исследованиями"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bloody-pleural-effusion",
+      "cells": [
+        {
+          "text": {
+            "en": "Bloody pleural effusion",
+            "ru": "Геморрагический плевральный выпот"
+          }
+        }
+      ]
+    },
+    {
+      "id": "imaging-only-malperfusion",
+      "cells": [
+        {
+          "text": {
+            "en": "Imaging-only evidence of malperfusion",
+            "ru": "Признаки мальперфузии исключительно по данным визуализации (субклиническая мальперфузия)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-high-risk-clinical-findings",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**High-Risk Clinical Findings**",
+            "ru": "**Клинические признаки высокого риска**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "refractory-hypertension",
+      "cells": [
+        {
+          "text": {
+            "en": "Refractory hypertension despite >3 different classes of antihypertensive medications at maximal recommended or tolerated doses",
+            "ru": "Рефрактерная артериальная гипертензия, несмотря на прием препаратов >3 различных классов антигипертензивных средств в максимальных рекомендуемых или переносимых дозах"
+          }
+        }
+      ]
+    },
+    {
+      "id": "refractory-pain",
+      "cells": [
+        {
+          "text": {
+            "en": "Refractory pain persisting >12 h despite maximal recommended or tolerated doses",
+            "ru": "Рефрактерный болевой синдром, персистирующий >12 ч, несмотря на терапию в максимальных рекомендуемых или переносимых дозах"
+          }
+        }
+      ]
+    },
+    {
+      "id": "need-for-readmission",
+      "cells": [
+        {
+          "text": {
+            "en": "Need for readmission",
+            "ru": "Необходимость повторной госпитализации"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 12
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

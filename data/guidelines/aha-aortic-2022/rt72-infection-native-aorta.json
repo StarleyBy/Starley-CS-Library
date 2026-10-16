@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt72-infection-native-aorta",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 72",
+  "title": {
+    "en": "Recommendations for Diagnosis and Management of Infection of the Native Aorta",
+    "ru": "Рекомендации по диагностике и лечению инфекционного поражения нативной аорты"
+  },
+  "tags": [
+    "infectious-aortitis",
+    "mycotic-aneurysm",
+    "native-aorta",
+    "open-repair",
+    "endovascular-repair",
+    "antimicrobial-therapy",
+    "aortic-rupture"
+  ],
+  "sections": [
+    {
+      "id": "sec-infection-native-aorta",
+      "title": {
+        "en": "Diagnosis and Management of Infection of the Native Aorta",
+        "ru": "Диагностика и лечение инфекции нативной аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-infectious-aortitis-aneurysm-dissection-open-repair",
+          "text": {
+            "en": "In patients with infectious aortitis and associated aneurysms or dissection of the thoracic or abdominal aorta, open surgical repair is recommended.",
+            "ru": "У пациентов с инфекционным аортитом и ассоциированными аневризмами или расслоением грудной либо брюшной аорты рекомендуется открытое хирургическое вмешательство."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r02-select-patients-endovascular-repair",
+          "text": {
+            "en": "In select patients, treatment with endovascular repair may be considered.",
+            "ru": "У отдельных пациентов может быть рассмотрено лечение методом эндоваскулярного протезирования."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r03-infectious-aortitis-rupture-open-or-endovascular",
+          "text": {
+            "en": "In patients with infectious aortitis complicated by rupture, either open or endovascular repair is reasonable, based on the patient's status at presentation and institutional expertise.",
+            "ru": "У пациентов с инфекционным аортитом, осложненным разрывом, целесообразно выполнение либо открытого, либо эндоваскулярного вмешательства с учетом клинического состояния пациента при поступлении и опыта медицинского центра."
+          },
+          "class": "IIa",
+          "level": "C-EO"
+        },
+        {
+          "id": "r04-antimicrobial-therapy-duration",
+          "text": {
+            "en": "In patients with infectious aortitis, intravenous antimicrobial therapy of at least 6 weeks' duration may be considered, with lifelong suppressive therapy in select cases not amenable to interventional repair or who have recurrent infection.",
+            "ru": "У пациентов с инфекционным аортитом может быть рассмотрена внутривенная антимикробная терапия продолжительностью не менее 6 недель, с пожизненной супрессивной терапией в отдельных случаях, не подлежащих интервенционному вмешательству, либо при рецидивирующей инфекции."
+          },
+          "class": "IIb",
+          "level": "C-EO"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

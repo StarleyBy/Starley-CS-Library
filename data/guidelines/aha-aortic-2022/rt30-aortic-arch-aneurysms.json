@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt30-aortic-arch-aneurysms",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 30",
+  "title": {
+    "en": "Recommendations for Aortic Arch Aneurysms",
+    "ru": "Рекомендации по аневризмам дуги аорты"
+  },
+  "tags": [
+    "aortic-arch",
+    "aneurysm",
+    "hemiarch",
+    "elephant-trunk",
+    "hybrid-repair",
+    "open-repair"
+  ],
+  "sections": [
+    {
+      "id": "sec-aortic-arch-aneurysms",
+      "title": {
+        "en": "Aortic Arch Aneurysms",
+        "ru": "Аневризмы дуги аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-symptomatic-arch-open-replacement",
+          "text": {
+            "en": "In patients with an aortic arch aneurysm who have symptoms attributable to the aneurysm and are at low or intermediate operative risk, open surgical replacement is recommended.",
+            "ru": "У пациентов с аневризмой дуги аорты, имеющих симптомы, обусловленные аневризмой, и низкий либо умеренный операционный риск, рекомендуется открытое хирургическое протезирование."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r02-asymptomatic-isolated-arch-5-5-cm",
+          "text": {
+            "en": "In patients with an isolated aortic arch aneurysm who are asymptomatic and have a low operative risk, open surgical replacement at an arch diameter of ≥5.5 cm is reasonable.",
+            "ru": "У пациентов с изолированной аневризмой дуги аорты без симптомов и с низким операционным риском целесообразно открытое хирургическое протезирование при диаметре дуги ≥5,5 см."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r03-hemiarch-replacement",
+          "text": {
+            "en": "In patients undergoing open surgical repair of an ascending aortic aneurysm, if the aneurysmal disease extends into the proximal aortic arch, it is reasonable to extend the repair with a hemiarch replacement.",
+            "ru": "У пациентов, переносящих открытую операцию по поводу аневризмы восходящей аорты, если аневризматическое расширение распространяется на проксимальный отдел дуги аорты, целесообразно расширить объем вмешательства до протезирования полудуги (hemiarch)."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [4, 5]
+        },
+        {
+          "id": "r04-elephant-trunk-procedure",
+          "text": {
+            "en": "In patients undergoing open surgical repair of an aortic arch aneurysm, if the aneurysmal disease extends into the proximal descending thoracic aorta, an elephant trunk procedure may be considered.",
+            "ru": "У пациентов, переносящих открытую операцию по поводу аневризмы дуги аорты, если аневризматическое расширение распространяется на проксимальный отдел нисходящей грудной аорты, может быть рассмотрено выполнение процедуры «хобот слона» (elephant trunk)."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [6, 7]
+        },
+        {
+          "id": "r05-high-risk-hybrid-endovascular",
+          "text": {
+            "en": "In patients with an aortic arch aneurysm who are asymptomatic but meet criteria for intervention, but have a high risk from open surgical repair, a hybrid or endovascular approach may be reasonable.",
+            "ru": "У пациентов с аневризмой дуги аорты без симптомов, соответствующих критериям вмешательства, но имеющих высокий риск открытой операции, может быть целесообразен гибридный или эндоваскулярный подход."
+          },
+          "class": "IIb",
+          "level": "C-EO"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t27-consensus-features-complicated-type-b-dissection",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 27",
+  "type": "grid",
+  "title": {
+    "en": "Consensus Features of Complicated Acute Type B Aortic Dissection",
+    "ru": "Консенсусные признаки осложненного острого расслоения аорты типа B"
+  },
+  "tags": [
+    "type-b-dissection",
+    "acute-dissection",
+    "complicated-dissection",
+    "aortic-rupture",
+    "malperfusion",
+    "extension",
+    "intractable-pain",
+    "uncontrolled-hypertension"
+  ],
+  "columns": [
+    {
+      "id": "feature",
+      "title": {
+        "en": "Feature",
+        "ru": "Признак"
+      }
+    },
+    {
+      "id": "comment",
+      "title": {
+        "en": "Comment",
+        "ru": "Комментарий"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "aortic-rupture",
+      "cells": [
+        {
+          "text": {
+            "en": "Aortic rupture",
+            "ru": "Разрыв аорты"
+          }
+        },
+        {
+          "text": {
+            "en": "This can be either free or contained (including hemothorax, increasing periaortic hematoma, or both; or mediastinal hematoma) and should be addressed promptly.",
+            "ru": "Может быть как свободным, так и прикрытым (включая гемоторакс, нарастающую периаортальную гематому или их сочетание; либо медиастинальную гематому) и требует незамедлительного устранения."
+          }
+        }
+      ]
+    },
+    {
+      "id": "branch-artery-occlusion-malperfusion",
+      "cells": [
+        {
+          "text": {
+            "en": "Branch artery occlusion and malperfusion",
+            "ru": "Окклюзия ветвей аорты и мальперфузия"
+          }
+        },
+        {
+          "text": {
+            "en": "Complete or partial occlusion of a major branch, with or without clinical evidence of ischemia; this includes visceral, renal, and peripheral arterial branches.",
+            "ru": "Полная или частичная окклюзия крупной ветви, с клиническими проявлениями ишемии или без них; включает висцеральные, почечные и периферические артериальные ветви."
+          }
+        }
+      ]
+    },
+    {
+      "id": "extension-of-dissection",
+      "cells": [
+        {
+          "text": {
+            "en": "Extension of dissection",
+            "ru": "Прогрессирование (распространение) расслоения"
+          }
+        },
+        {
+          "text": {
+            "en": "Extension of the dissection flap either distally or proximally (ie, retrograde type A dissection)",
+            "ru": "Распространение лоскута расслоения дистально либо проксимально (т. е. ретроградное расслоение типа А)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aortic-enlargement",
+      "cells": [
+        {
+          "text": {
+            "en": "Aortic enlargement",
+            "ru": "Расширение (дилатация) аорты"
+          }
+        },
+        {
+          "text": {
+            "en": "Progressive enlargement of the true, false, or both lumens while in the acute phase may require prompt intervention.",
+            "ru": "Прогрессирующее расширение истинного, ложного или обоих просветов в острой фазе может потребовать безотлагательного вмешательства."
+          }
+        }
+      ]
+    },
+    {
+      "id": "intractable-pain",
+      "cells": [
+        {
+          "text": {
+            "en": "Intractable pain",
+            "ru": "Некупируемый болевой синдром"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "uncontrolled-hypertension",
+      "cells": [
+        {
+          "text": {
+            "en": "Uncontrolled hypertension",
+            "ru": "Неконтролируемая артериальная гипертензия"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

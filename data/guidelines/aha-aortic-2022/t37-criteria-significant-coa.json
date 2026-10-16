@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t37-criteria-significant-coa",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 37",
+  "type": "grid",
+  "title": {
+    "en": "Criteria for Significant CoA",
+    "ru": "Критерии гемодинамически значимой коарктации аорты (CoA)"
+  },
+  "tags": [
+    "coa",
+    "coarctation-of-aorta",
+    "diagnostic-criteria",
+    "hypertension",
+    "pressure-gradient",
+    "catheterization",
+    "echocardiography"
+  ],
+  "columns": [
+    {
+      "id": "criteria",
+      "title": {
+        "en": "Criteria for Significant CoA",
+        "ru": "Критерии гемодинамически значимой коарктации аорты (CoA)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "preamble",
+      "cells": [
+        {
+          "text": {
+            "en": "The presence of significant CoA is based on evidence of upper extremity hypertension (at rest, on ambulatory BP monitoring, or with pathologic blood pressure response to exercise) or left ventricular hypertrophy and evidence for 1 of these gradient measurements:",
+            "ru": "Наличие значимой CoA устанавливается на основании артериальной гипертензии на верхних конечностях (в покое, при СМАД или при патологической реакции АД на физическую нагрузку) либо гипертрофии левого желудочка в сочетании с 1 из следующих измерений градиента давления:"
+          }
+        }
+      ]
+    },
+    {
+      "id": "noninvasive-bp-diff",
+      "cells": [
+        {
+          "text": {
+            "en": "1. A noninvasive blood pressure difference of >20 mm Hg between the upper and lower extremities",
+            "ru": "1. Неинвазивная разница артериального давления >20 мм рт. ст. между верхними и нижними конечностями"
+          }
+        }
+      ]
+    },
+    {
+      "id": "peak-to-peak-catheterization",
+      "cells": [
+        {
+          "text": {
+            "en": "2. A peak-to-peak gradient of >20 mm Hg across the coarct by catheterization; or a peak-to-peak gradient of >10 mm Hg across the coarct by catheterization in the setting of decreased left ventricular systolic function or significant collateral flow",
+            "ru": "2. Пик-пиковый градиент давления >20 мм рт. ст. в зоне коарктации при катетеризации; или пик-пиковый градиент >10 мм рт. ст. при катетеризации в условиях сниженной систолической функции левого желудочка либо выраженного коллатерального кровотока"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mean-gradient-doppler-echo",
+      "cells": [
+        {
+          "text": {
+            "en": "3. A mean gradient of >20 mm Hg across the coarct by Doppler echocardiography; or a mean gradient of >10 mm Hg across the coarct by Doppler echocardiography in the setting of decreased left ventricular systolic function or significant collateral flow",
+            "ru": "3. Средний градиент давления >20 мм рт. ст. в зоне коарктации по данным допплер-эхокардиографии; или средний градиент >10 мм рт. ст. по данным допплер-эхокардиографии в условиях сниженной систолической функции левого желудочка либо выраженного коллатерального кровотока"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t06-cause-of-taa",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Cause of TAA^[a]",
+    "ru": "Причины аневризмы грудной аорты (АГА)^[a]"
+  },
+  "tags": [
+    "taa",
+    "thoracic-aortic-aneurysm",
+    "causes",
+    "etiology",
+    "htad",
+    "marfan",
+    "loeys-dietz",
+    "bav",
+    "aortitis",
+    "genetics"
+  ],
+  "columns": [
+    {
+      "id": "cause",
+      "title": {
+        "en": "Etiology and Causes of TAA",
+        "ru": "Этиология и причины аневризмы грудной аорты"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "htad-syndromic",
+      "cells": [
+        {
+          "text": {
+            "en": "**HTAD (see Table 7): syndromic**<br>• Marfan syndrome<br>• Loeys-Dietz syndrome<br>• Vascular Ehlers-Danlos syndrome<br>• Smooth muscle dysfunction syndrome<br>• Others: attributable to pathogenic variants in FLNA, BGN, LOX",
+            "ru": "**HTAD (см. Таблицу 7): синдромальные формы**<br>• Синдром Марфана<br>• Синдром Лойса–Дитца<br>• Сосудистый тип синдрома Элерса–Данлоса<br>• Синдром дисфункции гладких мышц<br>• Другие: обусловленные патогенными вариантами в генах FLNA, BGN, LOX"
+          }
+        }
+      ]
+    },
+    {
+      "id": "htad-nonsyndromic",
+      "cells": [
+        {
+          "text": {
+            "en": "**HTAD (see Table 7): nonsyndromic**<br>• ACTA2, MYH11, PRKG1, MYLK, and others<br>• Familial thoracic aortic aneurysm without identified pathogenic variants in a known gene for HTAD",
+            "ru": "**HTAD (см. Таблицу 7): несиндромальные формы**<br>• Мутации в генах ACTA2, MYH11, PRKG1, MYLK и др.<br>• Семейная аневризма грудной аорты без выявленных патогенных вариантов в известных генах HTAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "congenital-conditions",
+      "cells": [
+        {
+          "text": {
+            "en": "**Congenital conditions**<br>• Bicuspid aortic valve<br>• Turner syndrome<br>• Coarctation of the aorta<br>• Complex congenital heart defects (tetralogy of Fallot, transposition of the great vessels, truncus arteriosus)",
+            "ru": "**Врождённые состояния**<br>• Двустворчатый аортальный клапан (ДАК)<br>• Синдром Тёрнера<br>• Коарктация аорты<br>• Сложные врождённые пороки сердца (тетрада Фалло, транспозиция магистральных артерий, общий артериальный ствол)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hypertension",
+      "cells": [
+        {
+          "text": {
+            "en": "Hypertension",
+            "ru": "Артериальная гипертензия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "atherosclerosis",
+      "cells": [
+        {
+          "text": {
+            "en": "Atherosclerosis",
+            "ru": "Атеросклероз"
+          }
+        }
+      ]
+    },
+    {
+      "id": "degenerative",
+      "cells": [
+        {
+          "text": {
+            "en": "Degenerative",
+            "ru": "Дегенеративные изменения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "previous-aortic-dissection",
+      "cells": [
+        {
+          "text": {
+            "en": "Previous aortic dissection",
+            "ru": "Предшествующее расслоение аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "inflammatory-aortitis",
+      "cells": [
+        {
+          "text": {
+            "en": "**Inflammatory aortitis**<br>• Giant cell arteritis<br>• Takayasu arteritis<br>• Behçet disease<br>• Immunoglobulin G4-related disease, antineutrophil cytoplasmic antibody-related, sarcoidosis",
+            "ru": "**Воспалительный аортит**<br>• Гигантоклеточный артериит<br>• Артериит Такаясу<br>• Болезнь Бехчета<br>• IgG4-ассоциированное заболевание, ANCA-ассоциированные васкулиты, саркоидоз"
+          }
+        }
+      ]
+    },
+    {
+      "id": "infectious-aortitis",
+      "cells": [
+        {
+          "text": {
+            "en": "**Infectious aortitis**<br>• Bacterial, fungal, syphilitic",
+            "ru": "**Инфекционный аортит**<br>• Бактериальный, грибковый, сифилитический"
+          }
+        }
+      ]
+    },
+    {
+      "id": "previous-traumatic-injury",
+      "cells": [
+        {
+          "text": {
+            "en": "Previous traumatic aortic injury",
+            "ru": "Предшествующая травма аорты"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "HTAD indicates heritable thoracic aortic diseases; and TAA, thoracic aortic aneurysms.",
+      "ru": "HTAD — наследственные заболевания грудной аорты; ТАА — аневризма грудной аорты."
+    }
+  },
+  "source": {
+    "expectedRows": 10
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

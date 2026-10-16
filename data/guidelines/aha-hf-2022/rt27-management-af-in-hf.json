@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt27-management-af-in-hf",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Management of AF in HF",
+  "title": {
+    "en": "Recommendations for Management of AF in HF",
+    "ru": "Рекомендации по ведению фибрилляции предсердий при сердечной недостаточности"
+  },
+  "tags": [
+    "atrial-fibrillation",
+    "af",
+    "anticoagulation",
+    "doac",
+    "warfarin",
+    "cha2ds2-vasc",
+    "catheter-ablation",
+    "av-node-ablation",
+    "crt",
+    "rhythm-control",
+    "rate-control"
+  ],
+  "sections": [
+    {
+      "id": "sec-af-management-hf",
+      "title": {
+        "en": "Management of Atrial Fibrillation in Heart Failure",
+        "ru": "Ведение фибрилляции предсердий при сердечной недостаточности"
+      },
+      "rows": [
+        {
+          "id": "r01-anticoagulation-cha2ds2-vasc",
+          "text": {
+            "en": "Patients with chronic HF with permanent-persistent-paroxysmal AF and a CHA2DS2-VASc score of ≥2 (for men) and ≥3 (for women) should receive chronic anticoagulant therapy.",
+            "ru": "Пациентам с хронической СН с постоянной, персистирующей или пароксизмальной ФП и оценкой по шкале CHA₂DS₂-VASc ≥2 (для мужчин) и ≥3 (для женщин) показана постоянная антикоагулянтная терапия."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-doac-over-warfarin",
+          "text": {
+            "en": "For patients with chronic HF with permanent-persistent-paroxysmal AF, DOAC is recommended over warfarin in eligible patients.",
+            "ru": "Пациентам с хронической СН с постоянной, персистирующей или пароксизмальной ФП рекомендуются прямые оральные антикоагулянты (ПОАК) предпочтительнее варфарина у подходящих пациентов."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+          "id": "r03-af-catheter-ablation",
+          "text": {
+            "en": "For patients with HF and symptoms caused by AF, AF ablation is reasonable to improve symptoms and QOL.",
+            "ru": "У пациентов с СН и симптомами, вызванными ФП, катетерная аблация ФП целесообразна для уменьшения выраженности симптомов и улучшения качества жизни."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [11, 12, 13, 14]
+        },
+        {
+          "id": "r04-av-node-ablation-crt",
+          "text": {
+            "en": "For patients with AF and LVEF ≤50%, if a rhythm control strategy fails or is not desired, and ventricular rates remain rapid despite medical therapy, atrioventricular nodal ablation with implantation of a CRT device is reasonable.",
+            "ru": "У пациентов с ФП и ФВ ЛЖ ≤50%, если стратегия контроля ритма неэффективна или нежелательна, а частота желудочковых сокращений остается высокой, несмотря на медикаментозную терапию, целесообразны аблация АВ-узла с имплантацией устройства СРТ (CRT)."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [15, 16, 17, 18, 19, 20, 21, 22]
+        },
+        {
+          "id": "r05-anticoagulation-no-added-risk",
+          "text": {
+            "en": "For patients with chronic HF and permanent-persistent-paroxysmal AF, chronic anticoagulant therapy is reasonable for men and women without additional risk factors.",
+            "ru": "У пациентов с хронической СН и постоянной, персистирующей или пароксизмальной ФП длительная антикоагулянтная терапия целесообразна для мужчин и женщин даже при отсутствии дополнительных факторов риска."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [23, 24, 25, 26]
+        }
+      ]
+    }
+  ]
+}

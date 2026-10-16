@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt19-statins-taa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 19",
+  "title": {
+    "en": "Recommendations for Treatment of TAA With Statins",
+    "ru": "Рекомендации по применению статинов при аневризме грудной аорты (АГА)"
+  },
+  "tags": [
+    "statins",
+    "taa",
+    "thoracic-aorta",
+    "atherosclerosis",
+    "lipid-lowering",
+    "cardiovascular-risk"
+  ],
+  "sections": [
+    {
+      "id": "sec-statins-taa",
+      "title": {
+        "en": "Treatment of TAA With Statins",
+        "ru": "Применение статинов при АГА"
+      },
+      "rows": [
+        {
+          "id": "r01-statins-atherosclerosis-moderate-high",
+          "text": {
+            "en": "In patients with TAA and imaging or clinical evidence of atherosclerosis, statin therapy at moderate or high intensity is reasonable.",
+            "ru": "У пациентов с АГА и визуальными либо клиническими признаками атеросклероза целесообразна терапия статинами умеренной или высокой интенсивности."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-statins-no-evidence-atherosclerosis",
+          "text": {
+            "en": "In patients with TAA who have no evidence of atherosclerosis, the use of statin therapy may be considered.",
+            "ru": "У пациентов с АГА без признаков атеросклероза может быть рассмотрено назначение статинов."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

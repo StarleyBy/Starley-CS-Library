@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt04-htad-genetic-testing-screening",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 4",
+  "title": {
+    "en": "Recommendations for HTAD: Genetic Testing and Screening of Family Members for TAD",
+    "ru": "Рекомендации по HTAD: генетическое тестирование и скрининг членов семьи на предмет заболеваний грудной аорты (TAD)"
+  },
+  "tags": [
+    "htad",
+    "genetics",
+    "screening",
+    "cascade-testing",
+    "family-history",
+    "tte",
+    "ct",
+    "mri",
+    "type-a-dissection",
+    "genetic-counseling"
+  ],
+  "sections": [
+    {
+      "id": "sec-htad-genetic-testing-screening",
+      "title": {
+        "en": "HTAD: Genetic Testing and Screening of Family Members",
+        "ru": "HTAD: генетическое тестирование и скрининг членов семьи"
+      },
+      "rows": [
+        {
+          "id": "r01-multigenerational-family-history",
+          "text": {
+            "en": "In patients with aortic root/ascending aortic aneurysms or aortic dissection, obtaining a multigenerational family history of TAD, unexplained sudden deaths, and peripheral and intracranial aneurysms is recommended.",
+            "ru": "У пациентов с аневризмами корня/восходящей аорты или расслоением аорты рекомендуется сбор семейного анамнеза в нескольких поколениях в отношении TAD, случаев необъяснимой внезапной смерти, а также периферических и интракраниальных аневризм."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-genetic-testing-htad-risk",
+          "text": {
+            "en": "In patients with aortic root/ascending aortic aneurysms or aortic dissection and risk factors for HTAD (Table 8, Figure 17), genetic testing to identify pathogenic/likely pathogenic variants (ie, mutations) is recommended.",
+            "ru": "У пациентов с аневризмами корня/восходящей аорты или расслоением аорты при наличии факторов риска HTAD (Таблица 8, Рисунок 17) рекомендуется проведение генетического тестирования для выявления патогенных/вероятно патогенных вариантов (мутаций)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [4, 5, 6]
+        },
+        {
+          "id": "r03-genetic-counseling-management",
+          "text": {
+            "en": "In patients with an established pathogenic or likely pathogenic variant in a gene predisposing to HTAD, it is recommended that genetic counseling be provided and the patient's clinical management be informed by the specific gene and variant in the gene.",
+            "ru": "У пациентов с установленным патогенным или вероятно патогенным вариантом в гене, предрасполагающем к HTAD, рекомендуется проведение медико-генетического консультирования, а клиническая тактика ведения должна определяться конкретным геном и вариантом в нём."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [5, 6, 7, 8, 9]
+        },
+        {
+          "id": "r04-cascade-genetic-testing-imaging",
+          "text": {
+            "en": "In patients with TAD who have a pathogenic/likely pathogenic variant, genetic testing of at-risk biological relatives (ie, cascade testing) is recommended. In family members who are found by genetic screening to have inherited the pathogenic/likely pathogenic variant, aortic imaging with TTE (if aortic root and ascending aorta are adequately visualized, otherwise with CT or MRI) is recommended.",
+            "ru": "У пациентов с TAD при выявлении патогенного/вероятно патогенного варианта рекомендуется генетическое тестирование кровных родственников группы риска (каскадное тестирование). Членам семьи, у которых при генетическом скрининге выявлен унаследованный патогенный/вероятно патогенный вариант, рекомендуется визуализация аорты с помощью ТТЭхоКГ (при адекватной визуализации корня и восходящей аорты, иначе — КТ или МРТ)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [4, 6, 10, 11, 12]
+        },
+        {
+          "id": "r05-cascade-imaging-unknown-variant",
+          "text": {
+            "en": "In a family with aortic root/ascending aortic aneurysms or aortic dissection, if the disease-causing variant is not identified with genetic testing, screening aortic imaging (as per recommendation 4) of at-risk biological relatives (ie, cascade testing) is recommended.",
+            "ru": "В семьях с аневризмами корня/восходящей аорты или расслоением аорты, если причинный вариант не выявлен при генетическом тестировании, рекомендуется скрининговая визуализация аорты (согласно рекомендации 4) у кровных родственников группы риска (каскадный скрининг)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [13, 14, 15]
+        },
+        {
+          "id": "r06-screening-first-degree-relatives",
+          "text": {
+            "en": "In patients with aortic root/ascending aortic aneurysms or aortic dissection, in the absence of either a known family history of TAD or pathogenic/likely pathogenic variant, screening aortic imaging (as per recommendation 4) of first-degree relatives is recommended.",
+            "ru": "У пациентов с аневризмами корня/восходящей аорты или расслоением аорты при отсутствии как отягощённого семейного анамнеза по TAD, так и патогенных/вероятно патогенных вариантов, рекомендуется скрининговая визуализация аорты (согласно рекомендации 4) у родственников первой степени родства."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [13]
+        },
+        {
+          "id": "r07-record-diameters-type-a-dissection",
+          "text": {
+            "en": "In patients with acute type A aortic dissection, the diameter of the aortic root and ascending aorta should be recorded in the operative note and medical record to inform the management of affected relatives.",
+            "ru": "У пациентов с острым расслоением аорты типа А диаметр корня и восходящей аорты должен быть зафиксирован в протоколе операции и медицинской документации для определения тактики ведения поражённых родственников."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

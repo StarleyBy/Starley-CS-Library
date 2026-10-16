@@ -1,0 +1,305 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t05-diagnostic-performance-aortic-imaging-modalities",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Diagnostic Performance of Aortic Imaging Modalities^[a]",
+    "ru": "Диагностические возможности методов визуализации аорты^[a]"
+  },
+  "tags": [
+    "imaging-modalities",
+    "ct",
+    "mri",
+    "tte",
+    "tee",
+    "ultrasound",
+    "spatial-resolution",
+    "temporal-resolution",
+    "portability",
+    "availability"
+  ],
+  "columns": [
+    {
+      "id": "parameter",
+      "title": {
+        "en": "Parameter",
+        "ru": "Параметр"
+      }
+    },
+    {
+      "id": "ct",
+      "title": {
+        "en": "CT",
+        "ru": "КТ"
+      }
+    },
+    {
+      "id": "mri",
+      "title": {
+        "en": "MRI",
+        "ru": "МРТ"
+      }
+    },
+    {
+      "id": "tte",
+      "title": {
+        "en": "TTE",
+        "ru": "ТТЭхоКГ"
+      }
+    },
+    {
+      "id": "tee",
+      "title": {
+        "en": "TEE",
+        "ru": "ЧПЭхоКГ"
+      }
+    },
+    {
+      "id": "us",
+      "title": {
+        "en": "US",
+        "ru": "УЗИ"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "availability",
+      "cells": [
+        {
+          "text": { "en": "Availability", "ru": "Доступность" }
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "++", "ru": "++" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "++", "ru": "++" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "portability",
+      "cells": [
+        {
+          "text": { "en": "Portability", "ru": "Портативность (мобильность)" }
+        },
+        {
+          "text": { "en": "–", "ru": "–" },
+          "tone": "neutral"
+        },
+        {
+          "text": { "en": "–", "ru": "–" },
+          "tone": "neutral"
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "speed-of-acquisition",
+      "cells": [
+        {
+          "text": { "en": "Speed of acquisition", "ru": "Скорость получения изображений" }
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "+", "ru": "+" },
+          "tone": "neutral"
+        },
+        {
+          "text": { "en": "++", "ru": "++" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "++", "ru": "++" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "++", "ru": "++" },
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "spatial-resolution",
+      "cells": [
+        {
+          "text": { "en": "Spatial resolution", "ru": "Пространственное разрешение" }
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "++", "ru": "++" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "++", "ru": "++" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "++", "ru": "++" },
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "temporal-resolution",
+      "cells": [
+        {
+          "text": { "en": "Temporal resolution", "ru": "Временное разрешение" }
+        },
+        {
+          "text": { "en": "+", "ru": "+" },
+          "tone": "neutral"
+        },
+        {
+          "text": { "en": "++", "ru": "++" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "three-dimensional-dataset",
+      "cells": [
+        {
+          "text": { "en": "Three-dimensional data set", "ru": "Трёхмерный массив данных (3D-реконструкция)" }
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "++", "ru": "++" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "+", "ru": "+" },
+          "tone": "neutral"
+        },
+        {
+          "text": { "en": "+", "ru": "+" },
+          "tone": "neutral"
+        },
+        {
+          "text": { "en": "+", "ru": "+" },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "arch-branch-vessels",
+      "cells": [
+        {
+          "text": { "en": "Arch branch vessel evaluation", "ru": "Оценка ветвей дуги аорты" }
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "++", "ru": "++" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "+", "ru": "+" },
+          "tone": "neutral"
+        },
+        {
+          "text": { "en": "NA", "ru": "NA" },
+          "tone": "neutral"
+        }
+      ]
+    },
+    {
+      "id": "valve-ventricular-function",
+      "cells": [
+        {
+          "text": { "en": "Evaluation of valve and ventricular function", "ru": "Оценка клапанного аппарата и функции желудочков" }
+        },
+        {
+          "text": { "en": "+", "ru": "+" },
+          "tone": "neutral"
+        },
+        {
+          "text": { "en": "++", "ru": "++" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "+++", "ru": "+++" },
+          "tone": "green"
+        },
+        {
+          "text": { "en": "NA", "ru": "NA" },
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "CT indicates computed tomography; MRI, magnetic resonance imaging; NA, not applicable; TEE, transesophageal echocardiography; TTE, transthoracic echocardiography; US, abdominal aortic ultrasound; +++ excellent results; ++ good results; + fair results; and -, not available.",
+      "ru": "КТ — компьютерная томография; МРТ — магнитно-резонансная томография; NA — неприменимо; ЧПЭхоКГ — чреспищеводная эхокардиография; ТТЭхоКГ — трансторакальная эхокардиография; УЗИ — ультразвуковое исследование брюшной аорты; +++ отличные результаты; ++ хорошие результаты; + удовлетворительные результаты; - недоступно."
+    }
+  },
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt07-comorbidities-hf",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for the Management of Comorbidities in Patients With HF",
+  "title": {
+    "en": "Recommendations for the Management of Comorbidities in Patients With HF",
+    "ru": "Рекомендации по ведению коморбидных состояний у пациентов с сердечной недостаточностью"
+  },
+  "tags": [
+    "comorbidities",
+    "anemia",
+    "iron-deficiency",
+    "iv-iron",
+    "esa-harm",
+    "hypertension",
+    "sleep-disorders",
+    "osa",
+    "csa",
+    "cpap",
+    "asv-harm",
+    "diabetes",
+    "sglt2i"
+  ],
+  "sections": [
+    {
+      "id": "sec-anemia-iron-deficiency",
+      "title": {
+        "en": "Management of Anemia or Iron Deficiency",
+        "ru": "Ведение анемии или дефицита железа"
+      },
+      "rows": [
+        {
+          "id": "r01-iv-iron-replacement",
+          "text": {
+            "en": "In patients with HFrEF and iron deficiency with or without anemia, intravenous iron replacement is reasonable to improve functional status and QOL.",
+            "ru": "У пациентов с HFrEF и дефицитом железа с анемией или без неё целесообразно внутривенное возмещение железа для улучшения функционального статуса и качества жизни."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-esa-avoid-harm",
+          "text": {
+            "en": "In patients with HF and anemia, erythropoietin-stimulating agents should not be used to improve morbidity and mortality.",
+            "ru": "У пациентов с СН и анемией стимуляторы эритропоэза не должны применяться для снижения заболеваемости и смертности."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [5, 6]
+        }
+      ]
+    },
+    {
+      "id": "sec-management-hypertension",
+      "title": {
+        "en": "Management of Hypertension",
+        "ru": "Ведение артериальной гипертензии"
+      },
+      "rows": [
+        {
+          "id": "r03-uptitrate-gdmt-hypertension",
+          "text": {
+            "en": "In patients with HFrEF and hypertension, uptitration of GDMT to the maximally tolerated target dose is recommended.",
+            "ru": "У пациентов с HFrEF и артериальной гипертензией рекомендуется титрование GDMT до максимально переносимой целевой дозы."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [7, 8]
+        }
+      ]
+    },
+    {
+      "id": "sec-management-sleep-disorders",
+      "title": {
+        "en": "Management of Sleep Disorders",
+        "ru": "Ведение нарушений сна и дыхания во сне"
+      },
+      "rows": [
+        {
+          "id": "r04-sleep-assessment-apnea",
+          "text": {
+            "en": "In patients with HF and suspicion of sleep-disordered breathing, a formal sleep assessment is reasonable to confirm the diagnosis and differentiate between obstructive and central sleep apnea.",
+            "ru": "У пациентов с СН и подозрением на нарушения дыхания во сне целесообразно специализированное сомнологическое обследование для подтверждения диагноза и дифференциации обструктивного и центрального апноэ сна."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [9, 10]
+        },
+        {
+          "id": "r05-cpap-obstructive-sleep-apnea",
+          "text": {
+            "en": "In patients with HF and obstructive sleep apnea, continuous positive airway pressure may be reasonable to improve sleep quality and decrease daytime sleepiness.",
+            "ru": "У пациентов с СН и обструктивным апноэ сна постоянное положительное давление в дыхательных путях (CPAP-терапия) может быть целесообразным для улучшения качества сна и уменьшения дневной сонливости."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [9, 11, 12, 13]
+        },
+        {
+          "id": "r06-asv-harm-central-sleep-apnea",
+          "text": {
+            "en": "In patients with NYHA class II to IV HFrEF and central sleep apnea, adaptive servo-ventilation causes harm.",
+            "ru": "У пациентов с HFrEF II–IV функционального класса по NYHA и центральным апноэ сна адаптивная сервовентиляция (ASV) причиняет вред."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [11, 12]
+        }
+      ]
+    },
+    {
+      "id": "sec-management-diabetes",
+      "title": {
+        "en": "Management of Diabetes",
+        "ru": "Ведение сахарного диабета"
+      },
+      "rows": [
+        {
+          "id": "r07-sglt2i-type2-diabetes",
+          "text": {
+            "en": "In patients with HF and type 2 diabetes, the use of SGLT2i is recommended for the management of hyperglycemia and to reduce HF-related morbidity and mortality.",
+            "ru": "У пациентов с СН и сахарным диабетом 2 типа применение иНГЛТ-2 рекомендовано для контроля гипергликемии и снижения заболеваемости и смертности, обусловленных СН."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [14, 15, 16, 17]
+        }
+      ]
+    }
+  ]
+}

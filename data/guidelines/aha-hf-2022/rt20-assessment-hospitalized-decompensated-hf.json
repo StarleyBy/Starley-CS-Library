@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt20-assessment-hospitalized-decompensated-hf",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Assessment of Patients Hospitalized With Decompensated HF",
+  "title": {
+    "en": "Recommendations for Assessment of Patients Hospitalized With Decompensated HF",
+    "ru": "Рекомендации по оценке пациентов, госпитализированных с декомпенсированной сердечной недостаточностью"
+  },
+  "tags": [
+    "hospitalized-hf",
+    "decompensation",
+    "assessment",
+    "congestion",
+    "perfusion",
+    "precipitating-factors",
+    "gdmt",
+    "volume-status"
+  ],
+  "sections": [
+    {
+      "id": "sec-assessment-decompensated-hf",
+      "title": {
+        "en": "Assessment of Patients Hospitalized With Decompensated HF",
+        "ru": "Оценка пациентов, госпитализированных с декомпенсированной СН"
+      },
+      "rows": [
+        {
+          "id": "r01-congestion-perfusion-assessment",
+          "text": {
+            "en": "In patients hospitalized with HF, severity of congestion and adequacy of perfusion should be assessed to guide triage and initial therapy.",
+            "ru": "У пациентов, госпитализированных с СН, необходимо оценивать выраженность застоя и адекватность перфузии для определения маршрутизации и стартовой терапии."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-precipitating-factors-trajectory",
+          "text": {
+            "en": "In patients hospitalized with HF, the common precipitating factors and the overall patient trajectory should be assessed to guide appropriate therapy.",
+            "ru": "У пациентов, госпитализированных с СН, следует оценивать типичные провоцирующие факторы и общую траекторию состояния пациента для выбора надлежащей терапии."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 6]
+        }
+      ]
+    },
+    {
+      "id": "sec-goals-optimization-continuation-gdmt",
+      "title": {
+        "en": "Goals for Optimization and Continuation of GDMT",
+        "ru": "Цели оптимизации и продолжения GDMT"
+      },
+      "rows": [
+        {
+          "id": "r03-treatment-goals-volume-gdmt",
+          "text": {
+            "en": "For patients admitted with HF, treatment should address reversible factors, establish optimal volume status, and advance GDMT toward targets for outpatient therapy.",
+            "ru": "У пациентов, госпитализированных с СН, лечение должно устранять обратимые факторы, обеспечивать достижение оптимального волемического статуса и продвигать GDMT к целевым уровням для амбулаторной терапии."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [6]
+        }
+      ]
+    }
+  ]
+}

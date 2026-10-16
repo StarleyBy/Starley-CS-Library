@@ -1,0 +1,255 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t31-clinical-performance-quality-measures",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 31",
+  "type": "grid",
+  "title": {
+    "en": "ACC/AHA 2020 HF Clinical Performance, Quality, and Structural Measures",
+    "ru": "Клинические показатели эффективности, качества и структуры ACC/AHA 2020 при сердечной недостаточности"
+  },
+  "tags": [
+    "performance-measures",
+    "quality-measures",
+    "structural-measures",
+    "lvef",
+    "gdmt",
+    "beta-blockers",
+    "arni",
+    "mra",
+    "icd",
+    "crt",
+    "rehabilitation",
+    "registries"
+  ],
+  "columns": [
+    {
+      "id": "c_measure_no",
+      "title": { "en": "Measure No.", "ru": "Код показателя" }
+    },
+    {
+      "id": "c_title",
+      "title": { "en": "Measure Title", "ru": "Название показателя" }
+    },
+    {
+      "id": "c_setting",
+      "title": { "en": "Care Setting", "ru": "Условия оказания помощи" }
+    },
+    {
+      "id": "c_attribution",
+      "title": { "en": "Attribution", "ru": "Субъект оценки (атрибуция)" }
+    },
+    {
+      "id": "c_domain",
+      "title": { "en": "Measure Domain", "ru": "Домен показателя" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "pm-01",
+      "cells": [
+        { "text": { "en": "PM-1", "ru": "PM-1" } },
+        { "text": { "en": "LVEF assessment", "ru": "Оценка фракции выброса левого желудочка (ФВ ЛЖ)" } },
+        { "text": { "en": "Outpatient", "ru": "Амбулаторно" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Diagnostic", "ru": "Диагностический" } }
+      ]
+    },
+    {
+      "id": "pm-02",
+      "cells": [
+        { "text": { "en": "PM-2", "ru": "PM-2" } },
+        { "text": { "en": "Symptom and activity assessment", "ru": "Оценка выраженности симптомов и уровня физической активности" } },
+        { "text": { "en": "Outpatient", "ru": "Амбулаторно" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Monitoring", "ru": "Мониторинг" } }
+      ]
+    },
+    {
+      "id": "pm-03",
+      "cells": [
+        { "text": { "en": "PM-3", "ru": "PM-3" } },
+        { "text": { "en": "Symptom management", "ru": "Контроль и купирование симптомов СН" } },
+        { "text": { "en": "Outpatient", "ru": "Амбулаторно" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Treatment", "ru": "Лечение" } }
+      ]
+    },
+    {
+      "id": "pm-04",
+      "cells": [
+        { "text": { "en": "PM-4", "ru": "PM-4" } },
+        { "text": { "en": "Beta-blocker therapy for HFrEF", "ru": "Назначение бета-блокаторов при HFrEF" } },
+        { "text": { "en": "Outpatient, Inpatient", "ru": "Амбулаторно, стационар" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Treatment", "ru": "Лечение" } }
+      ]
+    },
+    {
+      "id": "pm-05",
+      "cells": [
+        { "text": { "en": "PM-5", "ru": "PM-5" } },
+        { "text": { "en": "ACEi, ARB, or ARNi therapy for HFrEF", "ru": "Терапия иАПФ, БРА или АРНИ при HFrEF" } },
+        { "text": { "en": "Outpatient, Inpatient", "ru": "Амбулаторно, стационар" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Treatment", "ru": "Лечение" } }
+      ]
+    },
+    {
+      "id": "pm-06",
+      "cells": [
+        { "text": { "en": "PM-6", "ru": "PM-6" } },
+        { "text": { "en": "ARNi therapy for HFrEF", "ru": "Терапия ингибитором рецепторов ангиотензина и неприлизина (АРНИ) при HFrEF" } },
+        { "text": { "en": "Outpatient, Inpatient", "ru": "Амбулаторно, стационар" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Treatment", "ru": "Лечение" } }
+      ]
+    },
+    {
+      "id": "pm-07",
+      "cells": [
+        { "text": { "en": "PM-7", "ru": "PM-7" } },
+        { "text": { "en": "Dose of beta blocker therapy for HFrEF", "ru": "Достижение целевой/максимальной дозы бета-блокаторов при HFrEF" } },
+        { "text": { "en": "Outpatient", "ru": "Амбулаторно" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Treatment", "ru": "Лечение" } }
+      ]
+    },
+    {
+      "id": "pm-08",
+      "cells": [
+        { "text": { "en": "PM-8", "ru": "PM-8" } },
+        { "text": { "en": "Dose of ACEi, ARB, or ARNi therapy for HFrEF", "ru": "Достижение целевой/максимальной дозы иАПФ, БРА или АРНИ при HFrEF" } },
+        { "text": { "en": "Outpatient", "ru": "Амбулаторно" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Treatment", "ru": "Лечение" } }
+      ]
+    },
+    {
+      "id": "pm-09",
+      "cells": [
+        { "text": { "en": "PM-9", "ru": "PM-9" } },
+        { "text": { "en": "MRA therapy for HFrEF", "ru": "Терапия антагонистами минералокортикоидных рецепторов (АМР) при HFrEF" } },
+        { "text": { "en": "Outpatient, Inpatient", "ru": "Амбулаторно, стационар" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Treatment", "ru": "Лечение" } }
+      ]
+    },
+    {
+      "id": "pm-10",
+      "cells": [
+        { "text": { "en": "PM-10", "ru": "PM-10" } },
+        { "text": { "en": "Laboratory monitoring in new MRA therapy", "ru": "Лабораторный контроль (калий, креатинин) при начале терапии АМР" } },
+        { "text": { "en": "Outpatient, Inpatient", "ru": "Амбулаторно, стационар" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Monitoring", "ru": "Мониторинг" } }
+      ]
+    },
+    {
+      "id": "pm-11",
+      "cells": [
+        { "text": { "en": "PM-11", "ru": "PM-11" } },
+        { "text": { "en": "Hydralazine and isosorbide dinitrate therapy for HFrEF in those patients self-identified as Black or African American", "ru": "Терапия комбинацией гидралазина и изосорбида динитрата при HFrEF у темнокожих пациентов" } },
+        { "text": { "en": "Outpatient, Inpatient", "ru": "Амбулаторно, стационар" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Treatment", "ru": "Лечение" } }
+      ]
+    },
+    {
+      "id": "pm-12",
+      "cells": [
+        { "text": { "en": "PM-12", "ru": "PM-12" } },
+        { "text": { "en": "Counseling regarding ICD placement for patients with HFrEF on GDMT", "ru": "Консультирование относительно имплантации ИКД у пациентов с HFrEF на фоне GDMT" } },
+        { "text": { "en": "Outpatient", "ru": "Амбулаторно" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Treatment", "ru": "Лечение" } }
+      ]
+    },
+    {
+      "id": "pm-13",
+      "cells": [
+        { "text": { "en": "PM-13", "ru": "PM-13" } },
+        { "text": { "en": "CRT implantation for patients with HFrEF on GDMT", "ru": "Имплантация устройства СРТ (CRT) у пациентов с HFrEF на фоне GDMT" } },
+        { "text": { "en": "Outpatient", "ru": "Амбулаторно" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Treatment", "ru": "Лечение" } }
+      ]
+    },
+    {
+      "id": "qm-01",
+      "cells": [
+        { "text": { "en": "QM-1", "ru": "QM-1" } },
+        { "text": { "en": "Patient self-care education", "ru": "Обучение пациента методам и навыкам самопомощи" } },
+        { "text": { "en": "Outpatient", "ru": "Амбулаторно" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Self-care", "ru": "Самопомощь" } }
+      ]
+    },
+    {
+      "id": "qm-02",
+      "cells": [
+        { "text": { "en": "QM-2", "ru": "QM-2" } },
+        { "text": { "en": "Measurement of patient-reported outcome-health status", "ru": "Оценка статуса здоровья по опросникам исходов, заполняемым пациентом" } },
+        { "text": { "en": "Outpatient", "ru": "Амбулаторно" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Monitoring", "ru": "Мониторинг" } }
+      ]
+    },
+    {
+      "id": "qm-03",
+      "cells": [
+        { "text": { "en": "QM-3", "ru": "QM-3" } },
+        { "text": { "en": "Sustained or improved health status in HF", "ru": "Стойкое сохранение или улучшение статуса здоровья при СН" } },
+        { "text": { "en": "Outpatient", "ru": "Амбулаторно" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Outcome", "ru": "Клинический исход" } }
+      ]
+    },
+    {
+      "id": "qm-04",
+      "cells": [
+        { "text": { "en": "QM-4", "ru": "QM-4" } },
+        { "text": { "en": "Post-discharge appointment for patients with HF", "ru": "Назначение даты контрольного амбулаторного визита после выписки из стационара" } },
+        { "text": { "en": "Inpatient", "ru": "Стационар" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Treatment", "ru": "Лечение" } }
+      ]
+    },
+    {
+      "id": "sm-01",
+      "cells": [
+        { "text": { "en": "SM-1", "ru": "SM-1" } },
+        { "text": { "en": "HF registry participation", "ru": "Участие клиники в регистре пациентов с сердечной недостаточностью" } },
+        { "text": { "en": "Outpatient, Inpatient", "ru": "Амбулаторно, стационар" } },
+        { "text": { "en": "Facility", "ru": "Медицинская организация" } },
+        { "text": { "en": "Structure", "ru": "Структурный" } }
+      ]
+    },
+    {
+      "id": "rehab-pm-02",
+      "cells": [
+        { "text": { "en": "Rehab PM-2", "ru": "Rehab PM-2" } },
+        { "text": { "en": "Exercise training referral for HF from inpatient setting", "ru": "Направление на кардиологическую реабилитацию / физические тренировки из стационара" } },
+        { "text": { "en": "Inpatient", "ru": "Стационар" } },
+        { "text": { "en": "Facility", "ru": "Медицинская организация" } },
+        { "text": { "en": "Process", "ru": "Процесс" } }
+      ]
+    },
+    {
+      "id": "rehab-pm-04",
+      "cells": [
+        { "text": { "en": "Rehab PM-4", "ru": "Rehab PM-4" } },
+        { "text": { "en": "Exercise training referral for HF from outpatient setting", "ru": "Направление на кардиологическую реабилитацию / физические тренировки на амбулаторном этапе" } },
+        { "text": { "en": "Outpatient", "ru": "Амбулаторно" } },
+        { "text": { "en": "Individual practitioner, Facility", "ru": "Лечащий врач, медицинская организация" } },
+        { "text": { "en": "Process", "ru": "Процесс" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "ACEi indicates angiotensin-converting enzyme inhibitor; ACC, American College of Cardiology; AHA, American Heart Association; ARB, angiotensin receptor blocker; ARNi, angiotensin receptor-neprilysin inhibitor; CRT, cardiac resynchronization therapy; GDMT, guideline-directed medical therapy; HF, heart failure; HFrEF, heart failure with reduced ejection fraction; ICD, implantable cardioverter-defibrillator; LVEF, left ventricular ejection fraction; MRA, mineralocorticoid receptor antagonist; PM, performance measure; QM, quality measure; and SM, structural measure.",
+      "ru": "ACEi (иАПФ) — ингибитор АПФ; ACC — Американская коллегия кардиологов; AHA — Американская ассоциация сердца; ARB (БРА) — блокатор рецепторов ангиотензина; ARNi (АРНИ) — ингибитор рецепторов ангиотензина и неприлизина; CRT (СРТ) — сердечная ресинхронизирующая терапия; GDMT — терапия по клиническим руководствам; HF (СН) — сердечная недостаточность; HFrEF — СН со сниженной ФВ; ICD (ИКД) — имплантируемый кардиовертер-дефибриллятор; LVEF (ФВ ЛЖ) — фракция выброса левого желудочка; MRA (АМР) — антагонист минералокортикоидных рецепторов; PM — показатель эффективности; QM — показатель качества; SM — структурный показатель."
+    }
+  }
+}

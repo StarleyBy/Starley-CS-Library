@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt33-left-subclavian-artery-management",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 33",
+  "title": {
+    "en": "Recommendations for Left Subclavian Artery Management",
+    "ru": "Рекомендации по тактике в отношении левой подключичной артерии"
+  },
+  "tags": [
+    "left-subclavian-artery",
+    "tevar",
+    "revascularization",
+    "spinal-cord-injury",
+    "stroke-prevention",
+    "descending-aorta"
+  ],
+  "sections": [
+    {
+      "id": "sec-left-subclavian-artery-management",
+      "title": {
+        "en": "Left Subclavian Artery Management",
+        "ru": "Тактика в отношении левой подключичной артерии"
+      },
+      "rows": [
+        {
+          "id": "r01-revascularization-lsa-prior-tevar",
+          "text": {
+            "en": "In patients with descending TAA who undergo TEVAR with planned left subclavian artery coverage, revascularization of the left subclavian artery before TEVAR is recommended to prevent spinal cord injury (SCI) and potentially to reduce stroke risk and prevent other ischemic complications.",
+            "ru": "У пациентов с аневризмой нисходящей грудной аорты, переносящих TEVAR с запланированным перекрытием устья левой подключичной артерии, рекомендуется реваскуляризация левой подключичной артерии до TEVAR для предотвращения повреждения спинного мозга (SCI), потенциального снижения риска инсульта и предотвращения других ишемических осложнений."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-lsa-revascularization-for-sci",
+          "text": {
+            "en": "In patients with descending TAA who have undergone TEVAR with left subclavian coverage and develop SCI that is unresponsive to an increase in BP or a cerebrospinal fluid drain, left subclavian artery revascularization may be considered.",
+            "ru": "У пациентов с аневризмой нисходящей грудной аорты, перенесших TEVAR с перекрытием левой подключичной артерии, у которых развилось поражение спинного мозга (SCI), резистентное к повышению АД или дренированию спинномозговой жидкости, может быть рассмотрена реваскуляризация левой подключичной артерии."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [3]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t08-risk-factors-familial-tad",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 8",
+  "type": "grid",
+  "title": {
+    "en": "Risk Factors for Familial TAD^[a]",
+    "ru": "Факторы риска семейных заболеваний грудной аорты (TAD)^[a]"
+  },
+  "tags": [
+    "tad",
+    "familial-tad",
+    "risk-factors",
+    "genetics",
+    "family-history",
+    "sudden-death",
+    "marfan",
+    "loeys-dietz",
+    "ehlers-danlos"
+  ],
+  "columns": [
+    {
+      "id": "risk_factor",
+      "title": {
+        "en": "Risk Factor",
+        "ru": "Фактор риска"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "syndromic-features",
+      "cells": [
+        {
+          "text": {
+            "en": "TAD and syndromic features of Marfan syndrome, Loeys-Dietz syndrome, or vascular Ehlers-Danlos syndrome",
+            "ru": "Заболевание грудной аорты (TAD) и синдромальные признаки синдрома Марфана, синдрома Лойса–Дитца или сосудистого типа синдрома Элерса–Данлоса"
+          }
+        }
+      ]
+    },
+    {
+      "id": "young-age-onset",
+      "cells": [
+        {
+          "text": {
+            "en": "TAD presenting at age <60 y",
+            "ru": "Манифестация заболевания грудной аорты (TAD) в возрасте <60 лет"
+          }
+        }
+      ]
+    },
+    {
+      "id": "family-history-tad-aneurysms",
+      "cells": [
+        {
+          "text": {
+            "en": "A family history of either TAD or peripheral/intracranial aneurysms in a first- or second-degree relative",
+            "ru": "Семейный анамнез TAD либо периферических/интракраниальных аневризм у родственников 1-й или 2-й степени родства"
+          }
+        }
+      ]
+    },
+    {
+      "id": "family-history-sudden-death",
+      "cells": [
+        {
+          "text": {
+            "en": "A history of unexplained sudden death at a relatively young age in a first- or second-degree relative",
+            "ru": "Случаи необъяснимой внезапной смерти в относительно молодом возрасте у родственников 1-й или 2-й степени родства"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "TAD indicates thoracic aortic disease.",
+      "ru": "TAD — заболевания грудной аорты (thoracic aortic disease)."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

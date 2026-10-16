@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt70-dissection-surgery-in-pregnancy",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 70",
+  "title": {
+    "en": "Recommendations for Pregnancy in Patients With Aortopathy: Aortic Dissection and Aortic Surgery in Pregnancy",
+    "ru": "Рекомендации при беременности у пациенток с аортопатиями: расслоение аорты и хирургические вмешательства на аорте во время беременности"
+  },
+  "tags": [
+    "pregnancy",
+    "aortic-dissection",
+    "type-a-dissection",
+    "type-b-dissection",
+    "cesarean",
+    "fetal-monitoring",
+    "prophylactic-surgery"
+  ],
+  "sections": [
+    {
+      "id": "sec-dissection-surgery-in-pregnancy",
+      "title": {
+        "en": "Aortic Dissection and Aortic Surgery in Pregnancy",
+        "ru": "Расслоение аорты и операции на аорте во время беременности"
+      },
+      "rows": [
+        {
+          "id": "r01-first-second-trimester-type-a-urgent-surgery",
+          "text": {
+            "en": "In patients experiencing an acute type A aortic dissection during the first or second trimester of pregnancy, urgent aortic surgery with fetal monitoring is recommended.",
+            "ru": "У пациенток с острым расслоением аорты типа А в первом или втором триместре беременности рекомендуется экстренное хирургическое вмешательство на аорте с мониторингом состояния плода."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-third-trimester-type-a-cesarean-surgery",
+          "text": {
+            "en": "In patients experiencing an acute type A aortic dissection during the third trimester of pregnancy, urgent cesarean delivery immediately followed by aortic surgery is recommended.",
+            "ru": "У пациенток с острым расслоением аорты типа А в третьем триместре беременности рекомендуется экстренное родоразрешение путем кесарева сечения с немедленным последующим хирургическим вмешательством на аорте."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r03-pregnancy-type-b-medical-therapy",
+          "text": {
+            "en": "In patients experiencing an acute type B aortic dissection during pregnancy, medical therapy is recommended, unless endovascular or surgical therapy is required to manage acute complications.",
+            "ru": "У пациенток с острым расслоением аорты типа В во время беременности рекомендуется медикаментозная терапия, за исключением случаев, когда для лечения острых осложнений требуется эндоваскулярное или открытое хирургическое вмешательство."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [5]
+        },
+        {
+          "id": "r04-pregnancy-progressive-dilation-prophylactic-surgery",
+          "text": {
+            "en": "In patients with progressive aortic dilation during pregnancy, prophylactic aortic surgery may be considered, depending on individual circumstances.",
+            "ru": "У пациенток с прогрессирующей дилатацией аорты во время беременности может быть рассмотрено профилактическое хирургическое вмешательство на аорте с учетом индивидуальных клинических обстоятельств."
+          },
+          "class": "IIb",
+          "level": "C-EO",
+          "refs": [1, 2, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

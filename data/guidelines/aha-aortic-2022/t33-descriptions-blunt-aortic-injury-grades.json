@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t33-descriptions-blunt-aortic-injury-grades",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 33",
+  "type": "grid",
+  "title": {
+    "en": "Descriptions of Blunt Aortic Injury Grades",
+    "ru": "Градация степеней тупой травмы аорты"
+  },
+  "tags": [
+    "baai",
+    "bttai",
+    "blunt-trauma",
+    "aortic-injury",
+    "grading",
+    "intimal-flap",
+    "pseudoaneurysm",
+    "rupture"
+  ],
+  "columns": [
+    {
+      "id": "injury_grade",
+      "title": {
+        "en": "Injury Grade",
+        "ru": "Степень повреждения"
+      }
+    },
+    {
+      "id": "descriptions",
+      "title": {
+        "en": "Descriptions",
+        "ru": "Описание"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "grade-1",
+      "cells": [
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        },
+        {
+          "text": {
+            "en": "Minor intimal tear, intimal defect, or thrombus (≤10 mm)",
+            "ru": "Небольшой разрыв интимы, дефект интимы или тромб (≤10 мм)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "grade-2",
+      "cells": [
+        {
+          "text": {
+            "en": "2",
+            "ru": "2"
+          }
+        },
+        {
+          "text": {
+            "en": "Large intimal flap, intimal defect, or thrombus (>10 mm in length or width)",
+            "ru": "Крупный лоскут интимы, дефект интимы или тромб (>10 мм в длину или ширину)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "grade-3",
+      "cells": [
+        {
+          "text": {
+            "en": "3",
+            "ru": "3"
+          }
+        },
+        {
+          "text": {
+            "en": "Pseudoaneurysm",
+            "ru": "Псевдоаневризма"
+          }
+        }
+      ]
+    },
+    {
+      "id": "grade-4",
+      "cells": [
+        {
+          "text": {
+            "en": "4",
+            "ru": "4"
+          }
+        },
+        {
+          "text": {
+            "en": "Aortic rupture",
+            "ru": "Разрыв аорты"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

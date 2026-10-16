@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt18-mechanical-circulatory-support",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Mechanical Circulatory Support",
+  "title": {
+    "en": "Recommendations for Mechanical Circulatory Support",
+    "ru": "Рекомендации по механической поддержке кровообращения (MCS)"
+  },
+  "tags": [
+    "mcs",
+    "lvad",
+    "vad",
+    "advanced-hf",
+    "stage-d",
+    "cardiogenic-shock",
+    "bridge-to-recovery",
+    "bridge-to-decision",
+    "destination-therapy",
+    "economic-value",
+    "uncertain-value"
+  ],
+  "sections": [
+    {
+      "id": "sec-mcs-recommendations",
+      "title": {
+        "en": "Mechanical Circulatory Support in Advanced Heart Failure",
+        "ru": "Механическая поддержка кровообращения при продвинутой сердечной недостаточности"
+      },
+      "rows": [
+        {
+          "id": "r01-durable-lvad-inotrope-dependent",
+          "text": {
+            "en": "In select patients with advanced HFrEF with NYHA class IV symptoms who are deemed to be dependent on continuous intravenous inotropes or temporary MCS, durable LVAD implantation is effective to improve functional status, QOL, and survival.",
+            "ru": "У отобранных пациентов с продвинутой HFrEF и симптомами IV ФК по NYHA, признанных зависимыми от непрерывной внутривенной инфузии инотропов или временной механической поддержки кровообращения (MCS), имплантация долговременного LVAD эффективна для улучшения функционального статуса, качества жизни и выживаемости."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+        },
+        {
+          "id": "r02-durable-mcs-nyha4-gdmt",
+          "text": {
+            "en": "In select patients with advanced HFrEF who have NYHA class IV symptoms despite GDMT, durable MCS can be beneficial to improve symptoms, improve functional class, and reduce mortality.",
+            "ru": "У отобранных пациентов с продвинутой HFrEF с симптомами IV ФК по NYHA, несмотря на GDMT, долговременная механическая поддержка кровообращения (MCS) может быть полезна для уменьшения симптомов, улучшения функционального класса и снижения смертности."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [2, 4, 7, 10, 12, 13, 14, 15, 16, 17, 19]
+        },
+        {
+          "id": "r03-durable-mcs-economic-value",
+          "text": {
+            "en": "In patients with advanced HFrEF who have NYHA class IV symptoms despite GDMT, durable MCS devices provide low to intermediate economic value based on current costs and outcomes.",
+            "ru": "У пациентов с продвинутой HFrEF и симптомами IV ФК по NYHA, несмотря на GDMT, долговременные устройства MCS обеспечивают экономическую ценность от низкой до промежуточной на основе текущих затрат и клинических исходов."
+          },
+          "class": "Value-Uncertain",
+          "level": "B-NR",
+          "refs": [20, 21, 22, 23, 24]
+        },
+        {
+          "id": "r04-temporary-mcs-shock",
+          "text": {
+            "en": "In patients with advanced HFrEF and hemodynamic compromise and shock, temporary MCS, including percutaneous and extracorporeal ventricular assist devices, are reasonable as a \"bridge to recovery\" or \"bridge to decision.\"",
+            "ru": "У пациентов с продвинутой HFrEF, гемодинамической нестабильностью и кардиогенным шоком временная MCS, включая чрескожные и экстракорпоральные устройства вспомогательного кровообращения, целесообразна в качестве «моста к восстановлению» (bridge to recovery) или «моста к принятию решения» (bridge to decision)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [11, 25, 26, 27, 28, 29]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

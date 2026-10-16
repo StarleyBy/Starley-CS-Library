@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt64-surveillance-imaging-dissection-imh",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 64",
+  "title": {
+    "en": "Recommendations for Long-Term Surveillance Imaging After Aortic Dissection and IMH",
+    "ru": "Рекомендации по долгосрочному визуализирующему наблюдению после расслоения аорты и интрамуральной гематомы (IMH)"
+  },
+  "tags": [
+    "aortic-dissection",
+    "imh",
+    "surveillance",
+    "long-term-imaging",
+    "ct-imaging",
+    "mri"
+  ],
+  "sections": [
+    {
+      "id": "sec-long-term-surveillance-imaging-dissection-imh",
+      "title": {
+        "en": "Long-Term Surveillance Imaging After Aortic Dissection and IMH",
+        "ru": "Долгосрочное визуализирующее наблюдение после расслоения аорты и IMH"
+      },
+      "rows": [
+        {
+          "id": "r01-repaired-residual-disease-surveillance",
+          "text": {
+            "en": "In patients who have had an acute aortic dissection and IMH treated with either open or endovascular aortic repair and have residual aortic disease, surveillance imaging with a CT (or MRI) is recommended after 1 month, 6 months, and 12 months and then, if stable, annually thereafter.",
+            "ru": "У пациентов, перенесших острое расслоение аорты или IMH, получивших открытое хирургическое или эндоваскулярное лечение и имеющих резидуальное поражение аорты, рекомендуется визуализирующее наблюдение с помощью КТ (или МРТ) через 1, 6 и 12 месяцев и затем, при стабильном состоянии, ежегодно."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r02-medical-therapy-alone-surveillance",
+          "text": {
+            "en": "In patients who have had an acute aortic dissection and IMH that was managed with medical therapy alone, surveillance imaging with a CT (or MRI) is recommended after 1 month, 6 months, and 12 months and then, if stable, annually thereafter.",
+            "ru": "У пациентов, перенесших острое расслоение аорты или IMH, находившихся исключительно на медикаментозной терапии, рекомендуется визуализирующее наблюдение с помощью КТ (или МРТ) через 1, 6 и 12 месяцев и затем, при стабильном состоянии, ежегодно."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

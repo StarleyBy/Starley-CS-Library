@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt59-initial-management-bttai-emergency-department",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 59",
+  "title": {
+    "en": "Recommendations for Initial Management of BTTAI in the Emergency Department",
+    "ru": "Рекомендации по начальной тактике ведения тупой травмы грудной аорты (BTTAI) в приемном/экстренном отделении"
+  },
+  "tags": [
+    "bttai",
+    "trauma",
+    "blunt-trauma",
+    "thoracic-aorta",
+    "emergency-department",
+    "trauma-center",
+    "anti-impulse-therapy"
+  ],
+  "sections": [
+    {
+      "id": "sec-initial-management-bttai-emergency-department",
+      "title": {
+        "en": "Initial Management of BTTAI in the Emergency Department",
+        "ru": "Начальная тактика ведения BTTAI в приемном/экстренном отделении"
+      },
+      "rows": [
+        {
+          "id": "r01-trauma-center-management",
+          "text": {
+            "en": "In patients with BTTAI, management and treatment at a trauma center with the facilities and expertise to treat aortic pathology is recommended.",
+            "ru": "У пациентов с BTTAI рекомендуется ведение и лечение в травматологическом центре, располагающем ресурсами и опытом для лечения патологии аорты."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r02-anti-impulse-therapy",
+          "text": {
+            "en": "In patients with BTTAI, anti-impulse therapy to reduce the risk of injury extension and rupture should be implemented, except in patients with hypotension or hypovolemic shock.",
+            "ru": "У пациентов с BTTAI следует проводить антиимпульсную терапию для снижения риска прогрессирования повреждения и разрыва, за исключением пациентов с артериальной гипотензией или гиповолемическим шоком."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt32-patient-reported-outcomes",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendation for Patient-Reported Outcomes",
+  "title": {
+    "en": "Recommendation for Patient-Reported Outcomes",
+    "ru": "Рекомендации по оценке исходов, сообщаемых пациентами (PRO)"
+  },
+  "tags": [
+    "patient-reported-outcomes",
+    "pro",
+    "kccq",
+    "quality-of-life",
+    "qol",
+    "symptom-burden",
+    "functional-status",
+    "prognosis"
+  ],
+  "sections": [
+    {
+      "id": "sec-patient-reported-outcomes",
+      "title": {
+        "en": "Patient-Reported Outcomes",
+        "ru": "Исходы, сообщаемые пациентами"
+      },
+      "rows": [
+        {
+          "id": "r01-standardized-pro-assessment",
+          "text": {
+            "en": "In patients with HF, standardized assessment of patient-reported health status using a validated questionnaire can be useful to provide incremental information for patient functional status, symptom burden, and prognosis.",
+            "ru": "У пациентов с СН стандартизированная оценка статуса здоровья с использованием валидированных опросников (PRO) может быть полезна для получения дополнительной клинической информации о функциональном статусе, выраженности симптомов и индивидуальном прогнозе."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt73-prosthetic-aortic-graft-infection",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 73",
+  "title": {
+    "en": "Recommendations for Diagnosis and Management of Prosthetic Aortic Graft Infection",
+    "ru": "Рекомендации по диагностике и лечению инфекции протеза аорты"
+  },
+  "tags": [
+    "prosthetic-graft-infection",
+    "aortic-graft",
+    "in-situ-reconstruction",
+    "extra-anatomic-bypass",
+    "endovascular-therapy",
+    "antimicrobial-therapy",
+    "mrsa"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnosis",
+      "title": {
+        "en": "Diagnosis",
+        "ru": "Диагностика"
+      },
+      "rows": [
+        {
+          "id": "r01-unexplained-infection-gi-bleeding-cross-sectional-imaging",
+          "text": {
+            "en": "In patients with a prosthetic aortic graft, who have signs and symptoms or culture evidence of unexplained infection or have unexplained gastrointestinal bleeding, cross-sectional imaging is reasonable to evaluate for an underlying aortic graft infection.",
+            "ru": "У пациентов с протезом аорты при наличии признаков, симптомов или микробиологических данных за неясный инфекционный процесс либо при необъяснимом желудочно-кишечном кровотечении целесообразно выполнение послойной томографии (КТ/МРТ) для исключения инфицирования сосудистого протеза аорты."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    },
+    {
+      "id": "sec-treatment",
+      "title": {
+        "en": "Treatment",
+        "ru": "Лечение"
+      },
+      "rows": [
+        {
+          "id": "r02-stable-open-surgery-in-situ-or-extra-anatomic",
+          "text": {
+            "en": "In patients with an infected prosthetic aortic graft who are hemodynamically stable and have appropriate anatomy, it is reasonable to perform open surgery with either in situ reconstruction or extra-anatomic bypass.",
+            "ru": "У гемодинамически стабильных пациентов с инфицированным протезом аорты и подходящей анатомией целесообразно выполнение открытого хирургического вмешательства в виде реконструкции in situ или экстраанатомического шунтирования."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [7, 8, 9, 10, 11, 12, 13]
+        },
+        {
+          "id": "r03-unstable-open-surgery-explant-or-in-situ",
+          "text": {
+            "en": "In patients with an infected prosthetic aortic graft who are hemodynamically unstable, it is reasonable to perform open surgery with either explant or in situ reconstruction.",
+            "ru": "У гемодинамически нестабильных пациентов с инфицированным протезом аорты целесообразно выполнение открытой операции с эксплантацией протеза или реконструкцией in situ."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [7]
+        },
+        {
+          "id": "r04-endovascular-bridge-or-unfit-for-surgery",
+          "text": {
+            "en": "In patients with an infected prosthetic aortic graft, endovascular therapy is reasonable, either as bridge therapy in those with hemodynamic instability or as long-term therapy in those who are unsuitable candidates for open surgery.",
+            "ru": "У пациентов с инфицированным протезом аорты целесообразно эндоваскулярное вмешательство: либо в качестве «моста» (bridge-терапии) при гемодинамической нестабильности, либо как долгосрочное лечение у лиц, непригодных для открытой хирургии."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [13, 14, 15]
+        }
+      ]
+    },
+    {
+      "id": "sec-late-management",
+      "title": {
+        "en": "Late Management",
+        "ru": "Отдаленное ведение"
+      },
+      "rows": [
+        {
+          "id": "r05-acute-infection-iv-antimicrobials-6-weeks-id-consultation",
+          "text": {
+            "en": "In patients who have undergone treatment of an acute prosthetic aortic graft infection, targeted intravenous antimicrobial therapy of at least 6 weeks' duration, with prolonged suppressive oral therapy in select cases, plus a consultation and follow-up with an infectious disease specialist, is recommended.",
+            "ru": "У пациентов после лечения острой инфекции протеза аорты рекомендуется целенаправленная внутривенная антимикробная терапия продолжительностью не менее 6 недель, с продленной пероральной супрессивной терапией в отдельных случаях, а также консультация и последующее наблюдение инфекциониста."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [7, 11, 12, 16, 17]
+        },
+        {
+          "id": "r06-lifelong-suppressive-oral-therapy-high-risk",
+          "text": {
+            "en": "In patients with an infected prosthetic aortic graft and either an extensive perigraft abscess or an infection caused by methicillin-resistant *S. aureus*, *Pseudomonas aeruginosa*, or a multidrug-resistant microorganism, or who have undergone in situ reconstruction, lifelong suppressive oral antimicrobial therapy may be considered after the initial course of therapy.",
+            "ru": "У пациентов с инфицированным протезом аорты при наличии обширного перипротезного абсцесса или инфекции, вызванной метициллин-резистентным *S. aureus*, *Pseudomonas aeruginosa* либо полирезистентным микроорганизмом, а также после реконструкции in situ, после завершения начального курса лечения может быть рассмотрена пожизненная пероральная супрессивная антимикробная терапия."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [14, 15, 18, 19]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

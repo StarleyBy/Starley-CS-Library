@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt78-bovine-arch",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 78",
+  "title": {
+    "en": "Recommendation for Bovine Arch (Common Innominate and Left Carotid Artery)",
+    "ru": "Рекомендация при «бычьей дуге» аорты (общий ствол брахиоцефальной и левой общей сонной артерий)"
+  },
+  "tags": [
+    "bovine-arch",
+    "innominate-artery",
+    "carotid-artery",
+    "taa",
+    "aortic-arch-variant"
+  ],
+  "sections": [
+    {
+      "id": "sec-bovine-arch",
+      "title": {
+        "en": "Bovine Arch (Common Innominate and Left Carotid Artery)",
+        "ru": "«Бычья дуга» аорты (общий ствол брахиоцефальной и левой сонной артерий)"
+      },
+      "rows": [
+        {
+          "id": "r01-bovine-arch-imaging-taa",
+          "text": {
+            "en": "In patients with bovine arch (common innominate and left carotid artery), imaging to assess for TAA may be reasonable.",
+            "ru": "У пациентов с «бычьей дугой» аорты (общим стволом брахиоцефальной и левой сонной артерий) может быть целесообразной визуализация для исключения аневризмы грудной аорты (ТАА)."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

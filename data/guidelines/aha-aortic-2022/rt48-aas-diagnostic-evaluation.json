@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt48-aas-diagnostic-evaluation",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 48",
+  "title": {
+    "en": "Recommendations for AAS: Diagnostic Evaluation (Imaging, Laboratory Testing)",
+    "ru": "Рекомендации по диагностической оценке при остром аортальном синдроме (ОАС) (визуализация, лабораторные тесты)"
+  },
+  "tags": [
+    "aas",
+    "acute-aortic-syndrome",
+    "diagnostic-evaluation",
+    "ct",
+    "tee",
+    "mri",
+    "imaging"
+  ],
+  "sections": [
+    {
+      "id": "sec-aas-diagnostic-evaluation",
+      "title": {
+        "en": "AAS: Diagnostic Evaluation",
+        "ru": "Диагностическая оценка при ОАС"
+      },
+      "rows": [
+        {
+          "id": "r01-initial-ct",
+          "text": {
+            "en": "In patients with a suspected AAS, CT is recommended for initial diagnostic imaging, given its wide availability, accuracy, and speed, as well as the extent of anatomic detail it provides.",
+            "ru": "У пациентов с подозрением на ОАС рекомендуется КТ в качестве начального метода диагностической визуализации с учетом ее широкой доступности, точности и быстроты выполнения, а также объема предоставляемой анатомической детализации."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r02-tee-mri-alternatives",
+          "text": {
+            "en": "In patients with a suspected AAS, TEE and MRI are reasonable alternatives for initial diagnostic imaging.",
+            "ru": "У пациентов с подозрением на ОАС проведение ЧПЭхоКГ и МРТ целесообразно в качестве разумной альтернативы начальной визуализации."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

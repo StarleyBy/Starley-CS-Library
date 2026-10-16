@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt25-cardiogenic-shock-evaluation-management",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Evaluation and Management of Cardiogenic Shock",
+  "title": {
+    "en": "Recommendations for Evaluation and Management of Cardiogenic Shock",
+    "ru": "Рекомендации по оценке и ведению кардиогенного шока"
+  },
+  "tags": [
+    "cardiogenic-shock",
+    "shock",
+    "inotropes",
+    "temporary-mcs",
+    "multidisciplinary-team",
+    "shock-team",
+    "pulmonary-artery-catheter",
+    "pa-catheter",
+    "triage",
+    "transfer"
+  ],
+  "sections": [
+    {
+      "id": "sec-cardiogenic-shock-management",
+      "title": {
+        "en": "Evaluation and Management of Cardiogenic Shock",
+        "ru": "Оценка и ведение кардиогенного шока"
+      },
+      "rows": [
+        {
+          "id": "r01-inotropes-systemic-perfusion",
+          "text": {
+            "en": "In patients with cardiogenic shock, intravenous inotropic support should be used to maintain systemic perfusion and preserve end-organ performance.",
+            "ru": "У пациентов с кардиогенным шоком следует применять внутривенную инотропную поддержку для поддержания системной перфузии и сохранения функции органов-мишеней."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r02-temporary-mcs-shock",
+          "text": {
+            "en": "In patients with cardiogenic shock, temporary MCS is reasonable when end-organ function cannot be maintained by pharmacologic means to support cardiac function.",
+            "ru": "У пациентов с кардиогенным шоком применение временной механической поддержки кровообращения (MCS) целесообразно, когда функцию органов-мишеней невозможно поддержать медикаментозными средствами для обеспечения сердечной функции."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [9, 10, 11, 12, 13, 14, 15, 16, 17]
+        },
+        {
+          "id": "r03-multidisciplinary-shock-team",
+          "text": {
+            "en": "In patients with cardiogenic shock, management by a multidisciplinary team experienced in shock is reasonable.",
+            "ru": "У пациентов с кардиогенным шоком целесообразно ведение мультидисциплинарной командой специалистов с опытом ведения шока (Shock Team)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [17, 18, 19, 20, 21, 22]
+        },
+        {
+          "id": "r04-pa-catheter-hemodynamics",
+          "text": {
+            "en": "In patients presenting with cardiogenic shock, placement of a PA line may be considered to define hemodynamic subsets and appropriate management strategies.",
+            "ru": "У пациентов с манифестным кардиогенным шоком может быть рассмотрена катетеризация легочной артерии (катетер Свана-Ганца) для определения гемодинамического фенотипа и выбора надлежащей тактики лечения."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [23, 24, 25, 26, 27]
+        },
+        {
+          "id": "r05-triage-mcs-capable-center",
+          "text": {
+            "en": "For patients who are not rapidly responding to initial shock measures, triage to centers that can provide temporary MCS may be considered to optimize management.",
+            "ru": "У пациентов без быстрого ответа на начальные противошоковые мероприятия может быть рассмотрен перевод в специализированные центры с возможностью проведения временной MCS для оптимизации терапии."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [17, 18, 19, 20, 21, 22]
+        }
+      ]
+    }
+  ]
+}

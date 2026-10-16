@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t10-risk-features-marfan",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 10",
+  "type": "grid",
+  "title": {
+    "en": "Features Associated With Increased Risk of Aortic Complications in Marfan Syndrome",
+    "ru": "Признаки повышенного риска аортальных осложнений при синдроме Марфана"
+  },
+  "tags": [
+    "marfan",
+    "risk-features",
+    "aortic-dissection",
+    "complications",
+    "rapid-growth",
+    "family-history",
+    "arterial-tortuosity",
+    "diffuse-dilation"
+  ],
+  "columns": [
+    {
+      "id": "feature",
+      "title": {
+        "en": "Risk Feature",
+        "ru": "Фактор / признак риска"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "family-history-dissection",
+      "cells": [
+        {
+          "text": {
+            "en": "Family history of aortic dissection",
+            "ru": "Семейный анамнез расслоения аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rapid-growth",
+      "cells": [
+        {
+          "text": {
+            "en": "Rapid aortic growth (≥0.3 cm/y)",
+            "ru": "Быстрый рост аорты (≥0,3 см/год)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "diffuse-root-ascending-dilation",
+      "cells": [
+        {
+          "text": {
+            "en": "Diffuse aortic root and ascending aortic dilation",
+            "ru": "Диффузная дилатация корня и восходящей аорты"
+          },
+          "refs": [14]
+        }
+      ]
+    },
+    {
+      "id": "vertebral-arterial-tortuosity",
+      "cells": [
+        {
+          "text": {
+            "en": "Marked vertebral arterial tortuosity",
+            "ru": "Выраженная извитость позвоночных артерий"
+          },
+          "refs": [15]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

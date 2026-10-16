@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t25-aorta-simplified-score",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 25",
+  "type": "grid",
+  "title": {
+    "en": "Aorta Simplified Score (AORTAs) Pretest Probability Assessment Score^[a]",
+    "ru": "Упрощенная шкала оценки претестовой вероятности острой патологии аорты (AORTAs)^[a]"
+  },
+  "tags": [
+    "aortas",
+    "aortic-dissection",
+    "pretest-probability",
+    "risk-score",
+    "triage"
+  ],
+  "columns": [
+    {
+      "id": "clinical_item",
+      "title": {
+        "en": "Clinical Item",
+        "ru": "Клинический признак"
+      }
+    },
+    {
+      "id": "points",
+      "title": {
+        "en": "Points",
+        "ru": "Баллы"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "hypotension-shock",
+      "cells": [
+        {
+          "text": {
+            "en": "Hypotension/shock",
+            "ru": "Гипотензия/шок"
+          }
+        },
+        {
+          "text": {
+            "en": "2",
+            "ru": "2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aneurysm",
+      "cells": [
+        {
+          "text": {
+            "en": "Aneurysm",
+            "ru": "Аневризма"
+          }
+        },
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pulse-deficit",
+      "cells": [
+        {
+          "text": {
+            "en": "Pulse deficit",
+            "ru": "Дефицит пульса"
+          }
+        },
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "neurologic-deficit",
+      "cells": [
+        {
+          "text": {
+            "en": "Neurologic deficit",
+            "ru": "Неврологический дефицит"
+          }
+        },
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "severe-pain",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe pain",
+            "ru": "Выраженная боль"
+          }
+        },
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sudden-onset-pain",
+      "cells": [
+        {
+          "text": {
+            "en": "Sudden-onset pain",
+            "ru": "Внезапное начало боли"
+          }
+        },
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "The patient is given the number of points corresponding to each clinical item that is positive in the patient's presentation. The points are summed, and a total score of 0 to 1 point is low-probability of aortic dissection, where a total of ≥2 points is high probability.",
+      "ru": "Сумма баллов: 0–1 балл — низкая вероятность расслоения аорты; ≥2 баллов — высокая вероятность."
+    }
+  },
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt21-maintenance-optimization-gdmt-hospitalization",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Maintenance or Optimization of GDMT During Hospitalization",
+  "title": {
+    "en": "Recommendations for Maintenance or Optimization of GDMT During Hospitalization",
+    "ru": "Рекомендации по продолжению или оптимизации GDMT во время госпитализации"
+  },
+  "tags": [
+    "gdmt",
+    "hospitalization",
+    "hfref",
+    "continuation",
+    "initiation",
+    "renal-function",
+    "hypotension",
+    "clinical-stability"
+  ],
+  "sections": [
+    {
+      "id": "sec-gdmt-hospitalization",
+      "title": {
+        "en": "Maintenance or Optimization of GDMT During Hospitalization",
+        "ru": "Продолжение или оптимизация GDMT во время госпитализации"
+      },
+      "rows": [
+        {
+          "id": "r01-continue-optimize-preexisting-gdmt",
+          "text": {
+            "en": "In patients with HFrEF requiring hospitalization, preexisting GDMT should be continued and optimized to improve outcomes, unless contraindicated.",
+            "ru": "У пациентов с HFrEF, требующих госпитализации, ранее назначенную GDMT следует продолжать и оптимизировать для улучшения исходов, за исключением случаев наличия противопоказаний."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-mild-renal-drop-asymptomatic-bp",
+          "text": {
+            "en": "In patients experiencing mild decrease of renal function or asymptomatic reduction of blood pressure during HF hospitalization, diuresis and other GDMT should not routinely be discontinued.",
+            "ru": "У пациентов с умеренным снижением функции почек или бессимптомным снижением артериального давления во время госпитализации по поводу СН диурез и другие компоненты GDMT не следует рутинно отменять."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [6, 7, 8, 9, 10, 11]
+        },
+        {
+          "id": "r03-initiate-gdmt-after-stability",
+          "text": {
+            "en": "In patients with HFrEF, GDMT should be initiated during hospitalization after clinical stability is achieved.",
+            "ru": "У пациентов с HFrEF терапия GDMT должна быть инициирована во время госпитализации после достижения клинической стабильности."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [2, 3, 5, 12, 13, 14, 15, 16, 17, 18]
+        },
+        {
+          "id": "r04-reinitiate-discontinued-gdmt",
+          "text": {
+            "en": "In patients with HFrEF, if discontinuation of GDMT is necessary during hospitalization, it should be reinitiated and further optimized as soon as possible.",
+            "ru": "У пациентов с HFrEF, если во время госпитализации возникла необходимость отмены GDMT, её приём следует возобновить и далее оптимизировать как можно скорее."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [19, 20, 21, 22]
+        }
+      ]
+    }
+  ]
+}

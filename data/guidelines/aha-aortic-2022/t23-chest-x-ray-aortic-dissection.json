@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t23-chest-x-ray-aortic-dissection",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 23",
+  "type": "grid",
+  "title": {
+    "en": "Plain Chest X-Ray Suggestive of Aortic Dissection",
+    "ru": "Признаки расслоения аорты при обзорной рентгенографии органов грудной клетки"
+  },
+  "tags": [
+    "aortic-dissection",
+    "chest-x-ray",
+    "radiology",
+    "calcium-sign",
+    "mediastinal-widening"
+  ],
+  "columns": [
+    {
+      "id": "sign",
+      "title": {
+        "en": "Signs of Aortic Dissection on Chest X-Ray Findings",
+        "ru": "Рентгенологические признаки расслоения аорты при рентгенографии ОГК"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "mediastinal-widening",
+      "cells": [
+        {
+          "text": {
+            "en": "Mediastinal widening",
+            "ru": "Расширение тени средостения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "disruption-aortic-knob",
+      "cells": [
+        {
+          "text": {
+            "en": "Disruption of the normally distinct contour of the aortic knob",
+            "ru": "Нарушение четкости контура дуги (пуговки) аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "calcium-sign",
+      "cells": [
+        {
+          "text": {
+            "en": "\"Calcium sign,\" which appears as a separation of the intimal calcification from the aortic wall of >5 mm",
+            "ru": "«Симптом кальциноза» («calcium sign»), проявляющийся смещением обызвествления интимы от наружного контура стенки аорты >5 мм"
+          }
+        }
+      ]
+    },
+    {
+      "id": "double-density-aorta",
+      "cells": [
+        {
+          "text": {
+            "en": "Double density appearance within the aorta",
+            "ru": "Симптом двойной плотности тени аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tracheal-deviation",
+      "cells": [
+        {
+          "text": {
+            "en": "Tracheal deviation to the right",
+            "ru": "Отклонение трахеи вправо"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nasogastric-tube-deviation",
+      "cells": [
+        {
+          "text": {
+            "en": "Deviation of the nasogastric tube to the right",
+            "ru": "Отклонение назогастрального зонда вправо"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

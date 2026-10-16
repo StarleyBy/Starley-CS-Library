@@ -104,8 +104,15 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     function _markdownToHtml(txt) {
         if (!txt) return '';
+        // Convert [text](url) markdown links
+        let html = txt.replace(/\[([^\]]+)\]\(([^)]+)\)/g, (match, label, url) => {
+            const isTable = url.startsWith('#/tables/') || url.includes('#/tables/') || url.startsWith('#guidelines');
+            const targetAttr = isTable ? '' : ' target="_blank" rel="noopener"';
+            const cls = isTable ? 'quiz-table-link' : 'quiz-ext-link';
+            return `<a href="${url}" class="${cls}"${targetAttr}>${label}</a>`;
+        });
         // Convert **bold** to <strong>
-        let html = txt.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+        html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
         // Convert *italic* to <em>
         html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
         // Convert newlines to <br>
@@ -1543,6 +1550,34 @@ document.addEventListener('DOMContentLoaded', async () => {
         els.btnLoad.addEventListener('click', _loadManifest);
         els.btnNew.addEventListener('click', _createNewManifest);
 
+        const btnHeaderGl = document.getElementById('me-btn-guideline-link');
+        if (btnHeaderGl) {
+            btnHeaderGl.addEventListener('click', () => {
+                window.GuidelineLinkPicker?.open({
+                    targetTextarea: window._lastActiveManifestTextarea,
+                    onInsert: (markdown) => {
+                        const target = window._lastActiveManifestTextarea;
+                        if (target) {
+                            const start = target.selectionStart || 0;
+                            const end = target.selectionEnd || 0;
+                            const val = target.value || '';
+                            target.value = val.substring(0, start) + markdown + val.substring(end);
+                            target.selectionStart = target.selectionEnd = start + markdown.length;
+                            target.dispatchEvent(new Event('input', { bubbles: true }));
+                            target.focus();
+                        } else if (state.jsonEditor && document.querySelector('.me-tab-btn[data-tab="json"]')?.classList.contains('active')) {
+                            state.jsonEditor.replaceSelection(markdown);
+                            state.jsonEditor.focus();
+                        } else {
+                            navigator.clipboard.writeText(markdown).then(() => {
+                                alert('Ссылка скопирована в буфер обмена: ' + markdown);
+                            });
+                        }
+                    }
+                });
+            });
+        }
+
         // Tab switching with JSON validation guard
         els.tabBtns.forEach(btn => {
             btn.addEventListener('click', () => {
@@ -2484,6 +2519,9 @@ document.addEventListener('DOMContentLoaded', async () => {
             el.addEventListener('input', (e) => {
                 onChange(e.target.value);
             });
+            el.addEventListener('focus', () => {
+                window._lastActiveManifestTextarea = el;
+            });
 
             if (withToolbar) {
                 // Toolbar container: row 1 = formatting, row 2 = emojis
@@ -2528,6 +2566,33 @@ document.addEventListener('DOMContentLoaded', async () => {
                     };
                     toolbar.appendChild(btn);
                 });
+
+                // Guideline Link insertion button
+                const glBtn = document.createElement('button');
+                glBtn.type = 'button';
+                glBtn.className = 'me-toolbar-btn me-btn-guideline-link';
+                glBtn.innerHTML = `<i class="fas fa-table-list" style="color:#38bdf8;"></i>`;
+                glBtn.title = 'Вставить ссылку на гайдлайн или таблицу (Guideline Link)';
+                glBtn.onmousedown = (e) => e.preventDefault();
+                glBtn.onclick = (e) => {
+                    e.preventDefault();
+                    if (window.GuidelineLinkPicker) {
+                        window.GuidelineLinkPicker.open({
+                            targetTextarea: el,
+                            onInsert: (markdown) => {
+                                const start = el.selectionStart || 0;
+                                const end = el.selectionEnd || 0;
+                                const val = el.value || '';
+                                el.value = val.substring(0, start) + markdown + val.substring(end);
+                                el.selectionStart = el.selectionEnd = start + markdown.length;
+                                el.dispatchEvent(new Event('input', { bubbles: true }));
+                                el.focus();
+                            }
+                        });
+                    }
+                };
+                toolbar.appendChild(glBtn);
+
                 toolbarContainer.appendChild(toolbar);
 
                 // Row 2: Emoji toolbar

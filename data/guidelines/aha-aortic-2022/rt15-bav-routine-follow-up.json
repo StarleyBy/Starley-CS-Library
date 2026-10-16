@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt15-bav-routine-follow-up",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 15",
+  "title": {
+    "en": "Recommendations for Routine Follow-Up of BAV Disease Aortopathy",
+    "ru": "Рекомендации по плановому динамическому наблюдению аортопатии при двустворчатом аортальном клапане (ДАК)"
+  },
+  "tags": [
+    "bav",
+    "bicuspid-aortic-valve",
+    "aortopathy",
+    "follow-up",
+    "surveillance",
+    "tte",
+    "ct",
+    "mri",
+    "valve-repair",
+    "valve-replacement"
+  ],
+  "sections": [
+    {
+      "id": "sec-bav-routine-follow-up",
+      "title": {
+        "en": "Routine Follow-Up of BAV Disease Aortopathy",
+        "ru": "Плановое динамическое наблюдение аортопатии при ДАК"
+      },
+      "rows": [
+        {
+          "id": "r01-post-valve-surgery-surveillance",
+          "text": {
+            "en": "In patients with a BAV who have undergone previous aortic valve repair or replacement and have a diameter of the aortic root, ascending aortic, or both of ≥4.0 cm, lifelong surveillance imaging of the aortic root and ascending aorta by TTE, CT, or MRI is recommended at an interval dependent on aortic diameter and rate of growth.",
+            "ru": "У пациентов с ДАК, ранее перенёсших пластику или протезирование аортального клапана и имеющих диаметр корня аорты, восходящей аорты или обоих отделов ≥4,0 см, рекомендуется пожизненная контрольная визуализация корня и восходящей аорты с помощью ТТЭхоКГ, КТ или МРТ с интервалом, зависящим от диаметра аорты и скорости её роста."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-native-valve-surveillance-4cm",
+          "text": {
+            "en": "In patients with a BAV and a diameter of the aortic root, ascending aorta, or both of ≥4.0 cm, lifelong surveillance imaging of the aortic root and ascending aorta by TTE, CT, or MRI is recommended at an interval dependent on aortic diameter and rate of growth.",
+            "ru": "У пациентов с ДАК и диаметром корня аорты, восходящей аорты или обоих отделов ≥4,0 см рекомендуется пожизненная контрольная визуализация корня и восходящей аорты с помощью ТТЭхоКГ, КТ или МРТ с интервалом, зависящим от диаметра аорты и скорости её роста."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [4, 5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt60-approach-initial-management-bttai",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 60",
+  "title": {
+    "en": "Recommendations for Approach to the Initial Management of BTTAI",
+    "ru": "Рекомендации по тактике начального ведения тупой травмы грудной аорты (BTTAI)"
+  },
+  "tags": [
+    "bttai",
+    "blunt-trauma",
+    "thoracic-aorta",
+    "grading",
+    "nonoperative-management",
+    "aortic-intervention",
+    "high-risk-imaging"
+  ],
+  "sections": [
+    {
+      "id": "sec-approach-initial-management-bttai",
+      "title": {
+        "en": "Approach to the Initial Management of BTTAI",
+        "ru": "Тактика начального ведения BTTAI"
+      },
+      "rows": [
+        {
+          "id": "r01-grade-1-nonoperative",
+          "text": {
+            "en": "In patients with grade 1 BTTAI (Figure 23), nonoperative management and follow-up imaging are recommended.",
+            "ru": "У пациентов с BTTAI 1-й степени (Рисунок 23) рекомендуется консервативное ведение и визуализационный контроль в динамике."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-grade-3-to-4-intervention",
+          "text": {
+            "en": "In patients with grade 3 to 4 BTTAI (Figure 23) and nonprohibitive comorbidities or injuries, aortic intervention is recommended.",
+            "ru": "У пациентов с BTTAI 3–4-й степени (Рисунок 23) при отсутствии непреодолимых сопутствующих заболеваний или травм рекомендуется вмешательство на аорте."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 3]
+        },
+        {
+          "id": "r03-grade-2-high-risk-intervention",
+          "text": {
+            "en": "In patients with grade 2 BTTAI (Figure 23) and with high-risk imaging features (Table 32), aortic intervention is reasonable.",
+            "ru": "У пациентов с BTTAI 2-й степени (Рисунок 23) при наличии признаков высокого риска по данным визуализации (Таблица 32) целесообразно вмешательство на аорте."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [3, 4]
+        },
+        {
+          "id": "r04-grade-2-no-high-risk-nonoperative",
+          "text": {
+            "en": "In patients with grade 2 BTTAI (Figure 23) and without high-risk imaging features (Table 32), nonoperative management and follow-up surveillance imaging may be reasonable.",
+            "ru": "У пациентов с BTTAI 2-й степени (Рисунок 23) без признаков высокого риска по данным визуализации (Таблица 32) может быть обосновано консервативное ведение и контрольное динамическое визуализирующее наблюдение."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt10-valvular-heart-disease",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for Valvular Heart Disease",
+  "title": {
+    "en": "Recommendations for Valvular Heart Disease",
+    "ru": "Рекомендации по ведению клапанных пороков сердца"
+  },
+  "tags": [
+    "vhd",
+    "valvular",
+    "secondary-mr",
+    "mitral-regurgitation",
+    "gdmt",
+    "multidisciplinary",
+    "hfref"
+  ],
+  "sections": [
+    {
+      "id": "sec-vhd-hf",
+      "title": {
+        "en": "Management of Valvular Heart Disease in HF",
+        "ru": "Ведение пациентов с сердечной недостаточностью и клапанными пороками сердца"
+      },
+      "rows": [
+        {
+          "id": "r01-multidisciplinary-vhd",
+          "text": {
+            "en": "In patients with HF, VHD should be managed in a multidisciplinary manner in accordance with clinical practice guidelines for VHD to prevent worsening of HF and adverse clinical outcomes.",
+            "ru": "У пациентов с СН ведение клапанных пороков сердца должно осуществляться мультидисциплинарно в соответствии с клиническими рекомендациями по порокам сердца для предотвращения прогрессирования СН и неблагоприятных клинических исходов."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        },
+        {
+          "id": "r02-gdmt-before-secondary-mr-intervention",
+          "text": {
+            "en": "In patients with chronic severe secondary MR and HFrEF, optimization of GDMT is recommended before any intervention for secondary MR related to LV dysfunction.",
+            "ru": "У пациентов с хронической тяжёлой вторичной митральной регургитацией (МР) и HFrEF оптимизация GDMT рекомендована перед любым вмешательством по поводу вторичной МР, обусловленной систолической дисфункцией ЛЖ."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [3, 4, 5, 12, 13, 14]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

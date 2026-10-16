@@ -49,6 +49,11 @@
         "file": "chapter-03.md",
         "title": "3. Combain",
         "russian": "3. Объединение"
+      },
+      {
+        "file": "chapter-04.md",
+        "title": "Guidelines tables in chapters and quiz",
+        "russian": "Таблицы гайдлайнов в главе и квизе"
       }
     ]
   }

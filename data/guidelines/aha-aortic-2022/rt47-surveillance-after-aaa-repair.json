@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt47-surveillance-after-aaa-repair",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 47",
+  "title": {
+    "en": "Recommendations for Surveillance After AAA Repair",
+    "ru": "Рекомендации по динамическому наблюдению после лечения аневризмы брюшной аорты (АБА)"
+  },
+  "tags": [
+    "aaa",
+    "evar",
+    "open-repair",
+    "surveillance",
+    "ct",
+    "mri",
+    "duplex-ultrasound",
+    "endoleak"
+  ],
+  "sections": [
+    {
+      "id": "sec-surveillance-after-aaa-repair",
+      "title": {
+        "en": "Surveillance After AAA Repair",
+        "ru": "Динамическое наблюдение после лечения АБА"
+      },
+      "rows": [
+        {
+          "id": "r01-evar-baseline-ct-duplex",
+          "text": {
+            "en": "In patients with AAA treated with EVAR, baseline surveillance imaging with CT is recommended at 1 month postoperatively; if there is no evidence of endoleak or sac enlargement, continued surveillance with duplex ultrasound at 12 months and then annually thereafter is recommended.",
+            "ru": "У пациентов с АБА после EVAR рекомендуется исходная контрольная КТ через 1 месяц после операции; при отсутствии эндолика или увеличения аневризматического мешка рекомендуется дальнейшее наблюдение с помощью дуплексного УЗИ через 12 месяцев, а затем ежегодно."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-evar-5-year-cross-sectional",
+          "text": {
+            "en": "In patients with AAA treated with EVAR who are undergoing annual surveillance imaging duplex ultrasound, additional cross-sectional imaging with CT or MRI of the abdomen and pelvis every 5 years postoperatively is reasonable.",
+            "ru": "У пациентов с АБА после EVAR, проходящих ежегодное дуплексное УЗИ, целесообразно дополнительное томографическое исследование (КТ или МРТ брюшной полости и таза) каждые 5 лет после операции."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [5, 6, 7, 8]
+        },
+        {
+          "id": "r03-evar-abnormal-duplex-prompt-ct-mri",
+          "text": {
+            "en": "In patients with AAA treated with EVAR and abnormal findings (Table 21) on any surveillance duplex ultrasound, additional cross-sectional imaging with CT or MRI is reasonable.",
+            "ru": "У пациентов с АБА после EVAR при выявлении патологических изменений (Таблица 21) на контрольном дуплексном УЗИ целесообразна дополнительная томография с помощью КТ или МРТ."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [9]
+        },
+        {
+          "id": "r04-complex-evar-modified-surveillance",
+          "text": {
+            "en": "In patients with AAA treated with complex EVAR, a modified surveillance imaging plan that combines cross-sectional imaging and duplex ultrasound of target vessels is reasonable.",
+            "ru": "У пациентов с АБА после сложного EVAR целесообразен модифицированный план наблюдения, сочетающий томографические методы и дуплексное УЗИ целевых сосудов."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [10, 11]
+        },
+        {
+          "id": "r05-open-repair-surveillance",
+          "text": {
+            "en": "In patients with AAA who have undergone open repair, surveillance imaging with CT or MRI of the abdominopelvic aorta within 1 year postoperatively and then every 5 years thereafter is reasonable.",
+            "ru": "У пациентов с АБА после открытой операции целесообразно проведение КТ или МРТ брюшного и тазового отделов аорты в течение 1 года после вмешательства, а затем каждые 5 лет."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt76-aberrant-subclavian-artery-kommerell",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 76",
+  "title": {
+    "en": "Recommendations for Aberrant Subclavian Artery, Kommerell's Diverticulum",
+    "ru": "Рекомендации при аберрантной подключичной артерии и дивертикуле Коммерелля"
+  },
+  "tags": [
+    "aberrant-subclavian-artery",
+    "asca",
+    "kommerell-diverticulum",
+    "vascular-ring",
+    "taa",
+    "surgical-repair"
+  ],
+  "sections": [
+    {
+      "id": "sec-aberrant-subclavian-artery-kommerell",
+      "title": {
+        "en": "Aberrant Subclavian Artery, Kommerell's Diverticulum",
+        "ru": "Аберрантная подключичная артерия и дивертикул Коммерелля"
+      },
+      "rows": [
+        {
+          "id": "r01-asca-dedicated-imaging-taa",
+          "text": {
+            "en": "In patients discovered to have an ASCA in the absence of thoracic aortic imaging, dedicated imaging to assess for TAA is reasonable.",
+            "ru": "У пациентов с выявленной ASCA при отсутствии предшествующей визуализации грудной аорты целесообразно выполнение прицельного визуализирующего исследования для исключения аневризмы грудной аорты (ТАА)."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-kommerell-diverticulum-repair-thresholds",
+          "text": {
+            "en": "In patients with Kommerell's diverticulum, depending on patient anatomy and comorbidities, repair may be reasonable when the diverticulum orifice is >3.0 cm, the combined diameter of the diverticulum and adjacent descending aorta is >5.0 cm, or both (Figure 27).",
+            "ru": "У пациентов с дивертикулом Коммерелля, в зависимости от анатомических особенностей и сопутствующей патологии, вмешательство может быть обоснованным при диаметре устья дивертикула >3,0 см, суммарном диаметре дивертикула и прилежащей нисходящей аорты >5,0 см или при обоих критериях (Рисунок 27)."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [3]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

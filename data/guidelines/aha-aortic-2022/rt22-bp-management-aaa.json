@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt22-bp-management-aaa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 22",
+  "title": {
+    "en": "Recommendation for BP Management in AAA",
+    "ru": "Рекомендация по контролю артериального давления при аневризме брюшной аорты (АБА)"
+  },
+  "tags": [
+    "bp",
+    "blood-pressure",
+    "hypertension",
+    "aaa",
+    "abdominal-aortic-aneurysm",
+    "cardiovascular-risk"
+  ],
+  "sections": [
+    {
+      "id": "sec-bp-management-aaa",
+      "title": {
+        "en": "BP Management in AAA",
+        "ru": "Контроль артериального давления при АБА"
+      },
+      "rows": [
+        {
+          "id": "r01-antihypertensive-sbp-dbp-targets",
+          "text": {
+            "en": "In patients with AAA and an average SBP of ≥130 mm Hg, or an average DBP of ≥80 mm Hg, the use of antihypertensive medication is recommended to reduce risk of cardiovascular events.",
+            "ru": "У пациентов с АБА и средним САД ≥130 мм рт. ст. или средним ДАД ≥80 мм рт. ст. рекомендуется применение гипотензивных препаратов для снижения риска сердечно-сосудистых событий."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

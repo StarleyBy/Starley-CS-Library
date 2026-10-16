@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t35-diagnostic-criteria-inflammatory-aortitis",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 35",
+  "type": "grid",
+  "title": {
+    "en": "Diagnostic Criteria for Inflammatory Aortitis",
+    "ru": "Диагностические критерии воспалительного аортита"
+  },
+  "tags": [
+    "inflammatory-aortitis",
+    "diagnostic-criteria",
+    "takayasu-arteritis",
+    "giant-cell-arteritis",
+    "gca",
+    "esr"
+  ],
+  "columns": [
+    {
+      "id": "names",
+      "title": {
+        "en": "Names",
+        "ru": "Нозологическая форма"
+      }
+    },
+    {
+      "id": "criteria",
+      "title": {
+        "en": "Criteria Used in Diagnosis",
+        "ru": "Критерии, используемые в диагностике"
+      }
+    },
+    {
+      "id": "established",
+      "title": {
+        "en": "When Is Diagnosis Established?",
+        "ru": "Когда диагноз считается установленным?"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "takayasu-arteritis",
+      "cells": [
+        {
+          "text": {
+            "en": "Takayasu arteritis",
+            "ru": "Артериит Такаясу"
+          }
+        },
+        {
+          "text": {
+            "en": "• Age of onset <40 y<br>• Intermittent claudication<br>• Diminished brachial artery pulse<br>• Subclavian artery or aortic bruit<br>• Systolic BP variation of >10 mm Hg between arms<br>• Aortographic evidence of aorta or aortic branch stenosis",
+            "ru": "• Возраст начала заболевания <40 лет<br>• Перемежающаяся хромота<br>• Ослабление пульсации плечевой артерии<br>• Шум над подключичной артерией или аортой<br>• Разница систолического АД >10 мм рт. ст. между руками<br>• Аортографические признаки стеноза аорты или ее ветвей"
+          }
+        },
+        {
+          "tone": "neutral",
+          "text": {
+            "en": "≥3 criteria are present (sensitivity 90.5%; specificity 97.8%)",
+            "ru": "Присутствуют ≥3 критериев (чувствительность 90,5%; специфичность 97,8%)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "giant-cell-arteritis",
+      "cells": [
+        {
+          "text": {
+            "en": "Giant cell arteritis",
+            "ru": "Гигантоклеточный артериит"
+          }
+        },
+        {
+          "text": {
+            "en": "• Age >50 y<br>• Recent-onset localized headache<br>• Temporal artery tenderness or pulse attenuation<br>• Elevated erythrocyte sedimentation rate >50 mm/h<br>• Arterial biopsy shows necrotizing vasculitis",
+            "ru": "• Возраст >50 лет<br>• Впервые возникшая локализованная головная боль<br>• Болезненность или ослабление пульсации височной артерии<br>• Повышение скорости оседания эритроцитов (СОЭ) >50 мм/ч<br>• Некротизирующий васкулит по данным биопсии артерии"
+          }
+        },
+        {
+          "tone": "neutral",
+          "text": {
+            "en": "≥3 criteria are present (sensitivity >90%; specificity >90%)",
+            "ru": "Присутствуют ≥3 критериев (чувствительность >90%; специфичность >90%)"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

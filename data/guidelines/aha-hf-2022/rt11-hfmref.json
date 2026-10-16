@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.rt11-hfmref",
+  "guidelineId": "aha-hf-2022",
+  "type": "recommendations",
+  "number": "Recommendations for HF With Mildly Reduced Ejection Fraction",
+  "title": {
+    "en": "Recommendations for HF With Mildly Reduced Ejection Fraction",
+    "ru": "Рекомендации по сердечной недостаточности с умеренно сниженной фракцией выброса (HFmrEF)"
+  },
+  "tags": [
+    "hfmref",
+    "mildly-reduced-ef",
+    "sglt2i",
+    "beta-blockers",
+    "arni",
+    "acei",
+    "arb",
+    "mra",
+    "mortality",
+    "hospitalizations"
+  ],
+  "sections": [
+    {
+      "id": "sec-hfmref-medical-therapy",
+      "title": {
+        "en": "Pharmacological Therapy for Heart Failure with Mildly Reduced Ejection Fraction",
+        "ru": "Медикаментозная терапия сердечной недостаточности с умеренно сниженной фракцией выброса"
+      },
+      "rows": [
+        {
+          "id": "r01-sglt2i-hfmref",
+          "text": {
+            "en": "In patients with HFmrEF, SGLT2i can be beneficial in decreasing HF hospitalizations and cardiovascular mortality.",
+            "ru": "У пациентов с HFmrEF применение иНГЛТ-2 может быть полезно для снижения числа госпитализаций по поводу СН и сердечно-сосудистой смертности."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1]
+        },
+        {
+          "id": "r02-gdmt-lower-spectrum-hfmref",
+          "text": {
+            "en": "Among patients with current or previous symptomatic HFmrEF (LVEF, 41%–49%), use of evidence-based beta blockers for HFrEF, ARNi, ACEi, or ARB, and MRAs may be considered to reduce the risk of HF hospitalization and cardiovascular mortality, particularly among patients with LVEF on the lower end of this spectrum.",
+            "ru": "У пациентов с текущей или перенесённой симптомной HFmrEF (ФВ ЛЖ 41%–49%) применение доказанных при HFrEF бета-блокаторов, АРНИ, иАПФ или БРА и АМР может быть рассмотрено для снижения риска госпитализаций по поводу СН и сердечно-сосудистой смертности, особенно среди пациентов с ФВ ЛЖ на нижней границе этого диапазона."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [2, 3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t13-surgical-thresholds-nshtad",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 13",
+  "type": "grid",
+  "title": {
+    "en": "Surgical Thresholds for Prophylactic Aortic Root and Ascending Aortic Replacement in Nonsyndromic Heritable Thoracic Aortic Disease Based on the Genetic Variant and Additional Risk Factors for Aortic Dissection^[a]",
+    "ru": "Хирургические пороги для профилактического протезирования корня и восходящей аорты при несиндромальных наследственных заболеваниях грудной аорты в зависимости от генетического варианта и дополнительных факторов риска расслоения аорты^[a]"
+  },
+  "tags": [
+    "nshtad",
+    "heritable-aortic-disease",
+    "surgical-thresholds",
+    "acta2",
+    "prkg1",
+    "genetics",
+    "aortic-root",
+    "ascending-aorta"
+  ],
+  "columns": [
+    {
+      "id": "cor",
+      "title": {
+        "en": "COR",
+        "ru": "COR"
+      }
+    },
+    {
+      "id": "loe",
+      "title": {
+        "en": "LOE",
+        "ru": "LOE"
+      }
+    },
+    {
+      "id": "genetic_variant",
+      "title": {
+        "en": "Genetic Variant",
+        "ru": "Генетический вариант"
+      }
+    },
+    {
+      "id": "risk_factors",
+      "title": {
+        "en": "Risk Factors",
+        "ru": "Факторы риска"
+      }
+    },
+    {
+      "id": "aortic_diameter",
+      "title": {
+        "en": "Aortic Diameter (cm)",
+        "ru": "Диаметр аорты (см)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "acta2-no-risk",
+      "cells": [
+        {
+          "text": { "en": "2a", "ru": "2a" },
+          "tone": "yellow"
+        },
+        {
+          "text": { "en": "C-LD", "ru": "C-LD" }
+        },
+        {
+          "text": { "en": "ACTA2", "ru": "ACTA2" }
+        },
+        {
+          "text": { "en": "No", "ru": "Нет" }
+        },
+        {
+          "text": { "en": "≥4.5", "ru": "≥4,5" }
+        }
+      ]
+    },
+    {
+      "id": "acta2-high-risk",
+      "cells": [
+        {
+          "text": { "en": "2b", "ru": "2b" },
+          "tone": "orange"
+        },
+        {
+          "text": { "en": "C-EO", "ru": "C-EO" }
+        },
+        {
+          "text": { "en": "ACTA2", "ru": "ACTA2" }
+        },
+        {
+          "text": { "en": "Yes^[b]", "ru": "Да^[b]" }
+        },
+        {
+          "text": { "en": "≥4.2", "ru": "≥4,2" }
+        }
+      ]
+    },
+    {
+      "id": "prkg1-no-risk",
+      "cells": [
+        {
+          "text": { "en": "2b", "ru": "2b" },
+          "tone": "orange"
+        },
+        {
+          "text": { "en": "C-LD", "ru": "C-LD" }
+        },
+        {
+          "text": { "en": "PRKG1", "ru": "PRKG1" }
+        },
+        {
+          "text": { "en": "No", "ru": "Нет" }
+        },
+        {
+          "text": { "en": "≥4.2", "ru": "≥4,2" }
+        }
+      ]
+    },
+    {
+      "id": "prkg1-high-risk",
+      "cells": [
+        {
+          "text": { "en": "2b", "ru": "2b" },
+          "tone": "orange"
+        },
+        {
+          "text": { "en": "C-EO", "ru": "C-EO" }
+        },
+        {
+          "text": { "en": "PRKG1", "ru": "PRKG1" }
+        },
+        {
+          "text": { "en": "Yes^[b]", "ru": "Да^[b]" }
+        },
+        {
+          "text": { "en": "≥4.0^[b]", "ru": "≥4,0^[b]" }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Patient has risk factors for aortic dissection (family history of type A aortic dissection with minimal aortic enlargement, aortic growth rate ≥0.3 cm/y) or significant valve disease requiring surgery. Colors correspond to COR and LOE in Table 2. COR indicates class of recommendation; and LOE, level of evidence.",
+      "ru": "Пациент имеет факторы риска расслоения аорты (семейный анамнез расслоения типа А с минимальным расширением аорты, скорость роста аорты ≥0,3 см/год) или гемодинамически значимый клапанный порок, требующий операции. COR — класс рекомендаций; LOE — уровень доказательности."
+    },
+    "b": {
+      "en": "Earlier surgery may be considered in patients with a family history of type A aortic dissection in the setting of no or minimal aortic dilation, aortic growth rate ≥0.3 cm/y, or at the patient's request.",
+      "ru": "Более раннее хирургическое вмешательство может быть рассмотрено у пациентов с семейным анамнезом расслоения аорты типа А при отсутствии или минимальной дилатации аорты, скорости роста аорты ≥0,3 см/год или по запросу пациента."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt54-management-acute-type-b-dissection",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 54",
+  "title": {
+    "en": "Recommendations for the Management of Acute Type B Aortic Dissection",
+    "ru": "Рекомендации по ведению острого расслоения аорты типа B"
+  },
+  "tags": [
+    "type-b-dissection",
+    "acute-dissection",
+    "uncomplicated-dissection",
+    "complicated-dissection",
+    "tevar",
+    "stent-grafting",
+    "medical-therapy",
+    "rupture"
+  ],
+  "sections": [
+    {
+      "id": "sec-management-acute-type-b-dissection",
+      "title": {
+        "en": "Management of Acute Type B Aortic Dissection",
+        "ru": "Ведение острого расслоения аорты типа B"
+      },
+      "rows": [
+        {
+          "id": "r01-uncomplicated-medical-therapy-initial",
+          "text": {
+            "en": "In all patients with uncomplicated acute type B aortic dissection, medical therapy is recommended as the initial management strategy.",
+            "ru": "У всех пациентов с неосложненным острым расслоением аорты типа В в качестве начальной тактики ведения рекомендуется медикаментозная терапия."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02a-complicated-intervention-recommended",
+          "text": {
+            "en": "In patients with acute type B aortic dissection and rupture or other complications (Table 27), intervention is recommended.",
+            "ru": "У пациентов с острым расслоением аорты типа В при разрыве или других осложнениях (Таблица 27) рекомендуется вмешательство."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [4, 5, 6]
+        },
+        {
+          "id": "r02b-rupture-endovascular-stent-grafting",
+          "text": {
+            "en": "In patients with rupture, in the presence of suitable anatomy, endovascular stent grafting, rather than open surgical repair, is recommended.",
+            "ru": "У пациентов с разрывом при наличии подходящей анатомии рекомендуется эндоваскулярное стент-графтирование предпочтительнее открытой хирургической операции."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r02c-other-complications-endovascular-approaches",
+          "text": {
+            "en": "In patients with other complications, in the presence of suitable anatomy, the use of endovascular approaches, rather than open surgical repair, is reasonable.",
+            "ru": "У пациентов с другими осложнениями при наличии подходящей анатомии применение эндоваскулярных методик целесообразно предпочтительнее открытой хирургической операции."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [4, 5, 6, 7]
+        },
+        {
+          "id": "r03-uncomplicated-high-risk-endovascular-considered",
+          "text": {
+            "en": "In patients with uncomplicated acute type B aortic dissection who have high-risk anatomic features (Table 28), endovascular management may be considered.",
+            "ru": "У пациентов с неосложненным острым расслоением аорты типа В с анатомическими признаками высокого риска (Таблица 28) может быть рассмотрено эндоваскулярное лечение."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [8, 9]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

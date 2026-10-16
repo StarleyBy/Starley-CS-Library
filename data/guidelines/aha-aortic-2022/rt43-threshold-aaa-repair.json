@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt43-threshold-aaa-repair",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 43",
+  "title": {
+    "en": "Recommendations for the Threshold for AAA Repair",
+    "ru": "Рекомендации по пороговым критериям для вмешательства при аневризме брюшной аорты (АБА)"
+  },
+  "tags": [
+    "aaa",
+    "size-thresholds",
+    "repair",
+    "rupture-risk",
+    "saccular",
+    "growth-rate"
+  ],
+  "sections": [
+    {
+      "id": "sec-threshold-aaa-repair",
+      "title": {
+        "en": "Threshold for AAA Repair",
+        "ru": "Пороговые критерии для вмешательства при АБА"
+      },
+      "rows": [
+        {
+          "id": "r01-unruptured-diameter-thresholds-men-women",
+          "text": {
+            "en": "In patients with unruptured AAA, repair is recommended in those with a maximal aneurysm diameter of ≥5.5 cm in men or ≥5.0 cm in women.",
+            "ru": "У пациентов с неразорвавшейся АБА вмешательство рекомендуется при максимальном диаметре аневризмы ≥5,5 см у мужчин или ≥5,0 см у женщин."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r02-unruptured-symptomatic",
+          "text": {
+            "en": "In patients with unruptured AAA who have symptoms that are attributable to the aneurysm, repair is recommended to reduce the risk of rupture.",
+            "ru": "У пациентов с неразорвавшейся АБА, имеющих симптомы, обусловленные аневризмой, рекомендуется вмешательство для снижения риска разрыва."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [7, 8]
+        },
+        {
+          "id": "r03-unruptured-saccular",
+          "text": {
+            "en": "In patients with unruptured saccular AAA, intervention to reduce the risk of rupture may be reasonable.",
+            "ru": "У пациентов с неразорвавшейся мешотчатой АБА вмешательство для снижения риска разрыва может быть целесообразным."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [9]
+        },
+        {
+          "id": "r04-unruptured-rapid-growth",
+          "text": {
+            "en": "In patients with unruptured AAA and aneurysm growth of ≥0.5 cm in 6 months, repair to reduce the risk of rupture may be reasonable.",
+            "ru": "У пациентов с неразорвавшейся АБА при скорости роста аневризмы ≥0,5 см за 6 месяцев вмешательство для снижения риска разрыва может быть целесообразным."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

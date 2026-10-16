@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t18-clinical-indicators-advanced-hf",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 18",
+  "type": "grid",
+  "title": {
+    "en": "Clinical Indicators of Advanced HF",
+    "ru": "Клинические признаки (индикаторы) продвинутой сердечной недостаточности"
+  },
+  "tags": [
+    "advanced-hf",
+    "clinical-indicators",
+    "warning-signs",
+    "stage-d",
+    "intolerance",
+    "cachexia",
+    "hyponatremia",
+    "maggic",
+    "shfm"
+  ],
+  "columns": [
+    {
+      "id": "c_num",
+      "title": { "en": "№", "ru": "№" }
+    },
+    {
+      "id": "c_indicator",
+      "title": { "en": "Clinical Indicator of Advanced HF", "ru": "Клинический индикатор продвинутой СН" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "ind-01-hospitalizations",
+      "cells": [
+        { "text": { "en": "1", "ru": "1" } },
+        {
+          "text": {
+            "en": "Repeated hospitalizations or emergency department visits for HF in the past 12 mo.",
+            "ru": "Повторные госпитализации или обращения в отделения неотложной помощи по поводу декомпенсации СН за последние 12 месяцев."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ind-02-inotropes",
+      "cells": [
+        { "text": { "en": "2", "ru": "2" } },
+        {
+          "text": {
+            "en": "Need for intravenous inotropic therapy.",
+            "ru": "Потребность во внутривенной инотропной поддержке."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ind-03-symptoms",
+      "cells": [
+        { "text": { "en": "3", "ru": "3" } },
+        {
+          "text": {
+            "en": "Persistent NYHA functional class III to IV symptoms despite therapy.",
+            "ru": "Стойкие симптомы III–IV функционального класса по NYHA, несмотря на проводимую терапию."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ind-04-exercise",
+      "cells": [
+        { "text": { "en": "4", "ru": "4" } },
+        {
+          "text": {
+            "en": "Severely reduced exercise capacity (peak VO₂ <14 mL/kg/min or <50% predicted, 6-min walk test distance <300 m, or inability to walk 1 block on level ground because of dyspnea or fatigue).",
+            "ru": "Резко сниженная толерантность к физической нагрузке (пиковый VO₂ <14 мл/кг/мин или <50% от должного, дистанция теста 6-минутной ходьбы <300 м или неспособность пройти один квартал по ровной поверхности из-за одышки или усталости)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ind-05-raasi-intolerance",
+      "cells": [
+        { "text": { "en": "5", "ru": "5" } },
+        {
+          "text": {
+            "en": "Intolerance to RAASi because of hypotension or worsening renal function.",
+            "ru": "Непереносимость ингибиторов РААС (иАПФ, БРА, АРНИ) из-за артериальной гипотензии или ухудшения функции почек."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ind-06-bb-intolerance",
+      "cells": [
+        { "text": { "en": "6", "ru": "6" } },
+        {
+          "text": {
+            "en": "Intolerance to beta blockers as a result of worsening HF or hypotension.",
+            "ru": "Непереносимость бета-блокаторов вследствие усугубления СН или гипотензии."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ind-07-diuretic-escalation",
+      "cells": [
+        { "text": { "en": "7", "ru": "7" } },
+        {
+          "text": {
+            "en": "Recent need to escalate diuretics to maintain volume status, often reaching daily furosemide equivalent dose >160 mg/d or use of supplemental metolazone therapy.",
+            "ru": "Недавняя необходимость эскалации доз диуретиков для поддержания эуволемии (часто эквивалент фуросемида >160 мг/сут или добавление метолазона)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ind-08-refractory-congestion",
+      "cells": [
+        { "text": { "en": "8", "ru": "8" } },
+        {
+          "text": {
+            "en": "Refractory clinical congestion.",
+            "ru": "Рефрактерный клинический застой."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ind-09-renal-hepatic",
+      "cells": [
+        { "text": { "en": "9", "ru": "9" } },
+        {
+          "text": {
+            "en": "Progressive deterioration in renal or hepatic function.",
+            "ru": "Прогрессирующее ухудшение функции почек или печени."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ind-10-right-hf-ph",
+      "cells": [
+        { "text": { "en": "10", "ru": "10" } },
+        {
+          "text": {
+            "en": "Worsening right HF or secondary pulmonary hypertension.",
+            "ru": "Прогрессирование правожелудочковой СН или вторичной лёгочной гипертензии."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ind-11-hypotension",
+      "cells": [
+        { "text": { "en": "11", "ru": "11" } },
+        {
+          "text": {
+            "en": "Frequent SBP ≤90 mm Hg.",
+            "ru": "Частые эпизоды систолического АД ≤90 мм рт. ст."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ind-12-cachexia",
+      "cells": [
+        { "text": { "en": "12", "ru": "12" } },
+        {
+          "text": {
+            "en": "Cardiac cachexia.",
+            "ru": "Кардиальная кахексия."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ind-13-hyponatremia",
+      "cells": [
+        { "text": { "en": "13", "ru": "13" } },
+        {
+          "text": {
+            "en": "Persistent hyponatremia (serum sodium, <134 mEq/L).",
+            "ru": "Персистирующая гипонатриемия (натрий сыворотки <134 мЭкв/л)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ind-14-arrhythmias",
+      "cells": [
+        { "text": { "en": "14", "ru": "14" } },
+        {
+          "text": {
+            "en": "Refractory or recurrent ventricular arrhythmias; frequent ICD shocks.",
+            "ru": "Рефрактерные или рецидивирующие желудочковые тахиаритмии; частые срабатывания (шоки) ИКД."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ind-15-predicted-mortality",
+      "cells": [
+        { "text": { "en": "15", "ru": "15" } },
+        {
+          "text": {
+            "en": "Increased predicted 1-year mortality (eg, >20%) according to HF survival models (eg, MAGGIC, SHFM).",
+            "ru": "Повышенная расчётная 1-годичная смертность (например, >20%) по прогностическим шкалам выживаемости при СН (MAGGIC, SHFM)."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "HF indicates heart failure; ICD, implantable cardioverter-defibrillator; MAGGIC, Meta-analysis Global Group in Chronic Heart Failure; NYHA, New York Heart Association; RAASi, renin-angiotensin-aldosterone system inhibitors; SBP, systolic blood pressure; SHFM, Seattle Heart Failure model; and VO₂, oxygen consumption/oxygen uptake.",
+      "ru": "HF (СН) — сердечная недостаточность; ICD (ИКД) — имплантируемый кардиовертер-дефибриллятор; MAGGIC — шкала прогноза выживаемости при ХСН; NYHA — Нью-Йоркская ассоциация кардиологов; RAASi — ингибиторы ренин-ангиотензин-альдостероновой системы; SBP (САД) — систолическое АД; SHFM — Сиэтлская модель прогноза СН; VO₂ — потребление кислорода."
+    }
+  },
+  "source": {
+    "expectedRows": 15
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

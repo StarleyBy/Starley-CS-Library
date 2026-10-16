@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.t26-clinical-evidence-malperfusion",
+  "guidelineId": "aha-aortic-2022",
+  "number": "Table 26",
+  "type": "grid",
+  "title": {
+    "en": "Clinical Evidence of Malperfusion (\"Malperfusion Syndrome\")",
+    "ru": "Клинические признаки мальперфузии («синдром мальперфузии»)"
+  },
+  "tags": [
+    "malperfusion",
+    "malperfusion-syndrome",
+    "acute-aortic-dissection",
+    "end-organ",
+    "cardiac",
+    "cerebral",
+    "spinal",
+    "mesenteric",
+    "renal",
+    "extremity"
+  ],
+  "columns": [
+    {
+      "id": "end_organ",
+      "title": {
+        "en": "End Organ",
+        "ru": "Орган-мишень"
+      }
+    },
+    {
+      "id": "clinical_findings",
+      "title": {
+        "en": "Clinical Findings",
+        "ru": "Клинические проявления"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "cardiac",
+      "cells": [
+        {
+          "text": {
+            "en": "Cardiac",
+            "ru": "Сердце"
+          }
+        },
+        {
+          "text": {
+            "en": "Electrocardiographic changes of ischemia or infarction, troponin elevation, myocardial dysfunction",
+            "ru": "Электрокардиографические признаки ишемии или инфаркта, повышение уровня тропонина, дисфункция миокарда"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cerebral",
+      "cells": [
+        {
+          "text": {
+            "en": "Cerebral",
+            "ru": "Головной мозг"
+          }
+        },
+        {
+          "text": {
+            "en": "Stroke and neurologic deficits, coma and altered mental status",
+            "ru": "Инсульт и неврологический дефицит, кома и угнетение/изменение уровня сознания"
+          }
+        }
+      ]
+    },
+    {
+      "id": "spinal",
+      "cells": [
+        {
+          "text": {
+            "en": "Spinal",
+            "ru": "Спинной мозг"
+          }
+        },
+        {
+          "text": {
+            "en": "Paraplegia",
+            "ru": "Параплегия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mesenteric",
+      "cells": [
+        {
+          "text": {
+            "en": "Mesenteric",
+            "ru": "Брыжеечный бассейн"
+          }
+        },
+        {
+          "text": {
+            "en": "Abdominal pain, bowel ischemia, lactic acidosis, elevation of liver function test results",
+            "ru": "Боль в животе, ишемия кишечника, лактатацидоз, повышение биохимических показателей функции печени"
+          }
+        }
+      ]
+    },
+    {
+      "id": "renal",
+      "cells": [
+        {
+          "text": {
+            "en": "Renal",
+            "ru": "Почки"
+          }
+        },
+        {
+          "text": {
+            "en": "Acute kidney injury, oliguria",
+            "ru": "Острое повреждение почек, олигурия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "extremity",
+      "cells": [
+        {
+          "text": {
+            "en": "Extremity",
+            "ru": "Конечности"
+          }
+        },
+        {
+          "text": {
+            "en": "Loss of pulses in ≥1 extremity, sensory or motor dysfunction",
+            "ru": "Отсутствие пульса на ≥1 конечности, сенсорная или моторная дисфункция"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

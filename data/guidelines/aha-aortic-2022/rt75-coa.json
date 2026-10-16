@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-aortic-2022.rt75-coa",
+  "guidelineId": "aha-aortic-2022",
+  "type": "recommendations",
+  "number": "Recommendation Table 75",
+  "title": {
+    "en": "Recommendations for CoA",
+    "ru": "Рекомендации при коарктации аорты (CoA)"
+  },
+  "tags": [
+    "coa",
+    "coarctation-of-aorta",
+    "stenting",
+    "open-repair",
+    "hypertension",
+    "intracranial-aneurysms",
+    "screening"
+  ],
+  "sections": [
+    {
+      "id": "sec-coa",
+      "title": {
+        "en": "Coarctation of the Aorta",
+        "ru": "Коарктация аорты"
+      },
+      "rows": [
+        {
+          "id": "r01-coa-imaging-mri-ct",
+          "text": {
+            "en": "In patients with CoA, including those who have undergone surgical or endovascular intervention, an MRI or CT is recommended for initial, surveillance, and follow-up aortic imaging.",
+            "ru": "У пациентов с CoA, включая тех, кто перенес хирургическое или эндоваскулярное вмешательство, рекомендуется выполнение МРТ или КТ для первичной оценки, динамического наблюдения и контрольной визуализации аорты."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-coa-bp-measurement-both-arms-lower-extremity",
+          "text": {
+            "en": "In patients with CoA, BPs should be measured in both arms and one of the lower extremities.",
+            "ru": "У пациентов с CoA артериальное давление следует измерять на обеих руках и на одной из нижних конечностей."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r03-significant-native-recurrent-coa-stenting-open-repair",
+          "text": {
+            "en": "In patients with significant native or recurrent CoA (Table 37) and hypertension, endovascular stenting or open surgical repair of the coarctation is recommended.",
+            "ru": "У пациентов с гемодинамически значимой нативной или рецидивирующей CoA (Таблица 37) и артериальной гипертензией рекомендуется эндоваскулярное стентирование или открытая хирургическая коррекция коарктации."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [2, 3, 5, 6, 7, 8, 9, 10, 11, 12]
+        },
+        {
+          "id": "r04-coa-hypertension-guideline-directed-medical-therapy",
+          "text": {
+            "en": "In patients with CoA, guideline-directed medical therapy is recommended for the treatment of hypertension.",
+            "ru": "У пациентов с CoA рекомендуется медикаментозная терапия согласно клиническим рекомендациям для лечения артериальной гипертензии."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [13]
+        },
+        {
+          "id": "r05-coa-adult-screening-intracranial-aneurysms",
+          "text": {
+            "en": "In adult patients with CoA, screening for intracranial aneurysms by MRI or CT may be reasonable.",
+            "ru": "У взрослых пациентов с CoA может быть обоснованным скрининг интракраниальных аневризм с помощью МРТ или КТ."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [14, 15, 16, 17, 18]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

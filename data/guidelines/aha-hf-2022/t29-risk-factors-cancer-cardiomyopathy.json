@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hf-2022.t29-risk-factors-cancer-cardiomyopathy",
+  "guidelineId": "aha-hf-2022",
+  "number": "Table 29",
+  "type": "grid",
+  "title": {
+    "en": "Risk Factors for Cancer Therapy–Related Cardiomyopathy",
+    "ru": "Факторы риска кардиомиопатии, ассоциированной с противоопухолевой терапией"
+  },
+  "tags": [
+    "cardio-oncology",
+    "cardiotoxicity",
+    "risk-factors",
+    "anthracyclines",
+    "radiation",
+    "troponin",
+    "cad",
+    "hypertension",
+    "diabetes"
+  ],
+  "columns": [
+    {
+      "id": "c_num",
+      "title": { "en": "№", "ru": "№" }
+    },
+    {
+      "id": "c_factor",
+      "title": { "en": "Risk Factor", "ru": "Фактор риска" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "rf-01-age",
+      "cells": [
+        { "text": { "en": "1", "ru": "1" } },
+        { "text": { "en": "Age ≥60 y", "ru": "Возраст ≥60 лет" } }
+      ]
+    },
+    {
+      "id": "rf-02-black-race",
+      "cells": [
+        { "text": { "en": "2", "ru": "2" } },
+        { "text": { "en": "Black race", "ru": "Негроидная раса" } }
+      ]
+    },
+    {
+      "id": "rf-03-cad",
+      "cells": [
+        { "text": { "en": "3", "ru": "3" } },
+        { "text": { "en": "CAD", "ru": "Ишемическая болезнь сердца (ИБС)" } }
+      ]
+    },
+    {
+      "id": "rf-04-hypertension",
+      "cells": [
+        { "text": { "en": "4", "ru": "4" } },
+        { "text": { "en": "Hypertension", "ru": "Артериальная гипертензия" } }
+      ]
+    },
+    {
+      "id": "rf-05-diabetes",
+      "cells": [
+        { "text": { "en": "5", "ru": "5" } },
+        { "text": { "en": "Diabetes", "ru": "Сахарный диабет" } }
+      ]
+    },
+    {
+      "id": "rf-06-preexisting-cmp",
+      "cells": [
+        { "text": { "en": "6", "ru": "6" } },
+        { "text": { "en": "Preexisting cardiomyopathy", "ru": "Предшествующая кардиомиопатия" } }
+      ]
+    },
+    {
+      "id": "rf-07-anthracyclines",
+      "cells": [
+        { "text": { "en": "7", "ru": "7" } },
+        { "text": { "en": "Previous exposure to anthracyclines", "ru": "Предшествующее воздействие антрациклинов" } }
+      ]
+    },
+    {
+      "id": "rf-08-radiation",
+      "cells": [
+        { "text": { "en": "8", "ru": "8" } },
+        { "text": { "en": "Previous chest radiation", "ru": "Предшествующее облучение органов грудной клетки" } }
+      ]
+    },
+    {
+      "id": "rf-09-troponin",
+      "cells": [
+        { "text": { "en": "9", "ru": "9" } },
+        { "text": { "en": "Elevated troponin pretherapy", "ru": "Повышенный уровень тропонина до начала противоопухолевой терапии" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "CAD indicates coronary artery disease.",
+      "ru": "CAD (ИБС) — ишемическая болезнь сердца."
+    }
+  }
+}
