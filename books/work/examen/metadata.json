@@ -58,6 +58,11 @@
         "file": "quiz/quiz-seats3.json"
       },
       {
+        "id": "seats4",
+        "label": "🇺🇸📕SEATS4",
+        "file": "quiz/quiz-seats4.json"
+      },
+      {
         "id": "icu",
         "label": "🧑‍⚕️💊ICU from SEATS🩷",
         "file": "quiz/quiz-icu.json"
@@ -82,7 +87,7 @@
         "label": "💛200 PRACTICE QUESTIONS IN CARDIOTHORACIC SURGERY💛",
         "file": "quiz/quiz-200pqcs.json"
       }
-          ],
+    ],
     "versions": {
       "original": true,
       "russian": false,
