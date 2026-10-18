@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt30-intervention-chronic-primary-mr",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 30",
+  "title": {
+    "en": "Recommendations for Intervention for Chronic Primary MR",
+    "ru": "Рекомендации по хирургическому и эндоваскулярному вмешательству при хронической первичной митральной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "mitral-regurgitation",
+    "primary-mr",
+    "chronic-mr",
+    "mitral-valve-repair",
+    "mitral-valve-replacement",
+    "teer",
+    "mitraclip",
+    "transcatheter-edge-to-edge-repair",
+    "lvef",
+    "lvesd",
+    "degenerative-mr",
+    "rheumatic-mr"
+  ],
+  "sections": [
+    {
+      "id": "sec-intervention-chronic-primary-mr",
+      "title": {
+        "en": "Intervention for Chronic Primary MR",
+        "ru": "Вмешательство при хронической первичной митральной регургитации"
+      },
+      "rows": [
+        {
+          "id": "r01-symptomatic-stage-d-intervention-irrespective-ef",
+          "text": {
+            "en": "In symptomatic patients with severe primary MR (Stage D), mitral valve intervention is recommended irrespective of LV systolic function.",
+            "ru": "У симптомных пациентов с тяжелой первичной МР (Стадия D) рекомендуется вмешательство на митральном клапане независимо от систолической функции ЛЖ."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-asymptomatic-stage-c2-lv-dysfunction-surgery",
+          "text": {
+            "en": "In asymptomatic patients with severe primary MR and LV systolic dysfunction (LVEF ≤60%, LVESD ≥40 mm) (Stage C2), mitral valve surgery is recommended.",
+            "ru": "У бессимптомных пациентов с тяжелой первичной МР и систолической дисфункцией ЛЖ (ФВ ЛЖ ≤60%, КСР ЛЖ ≥40 мм) (Стадия C2) рекомендуется операция на митральном клапане."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [3, 4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+          "id": "r03-repair-preference-over-replacement-degenerative",
+          "text": {
+            "en": "In patients with severe primary MR for whom surgery is indicated, mitral valve repair is recommended in preference to mitral valve replacement when the anatomic cause of MR is degenerative disease, if a successful and durable repair is possible.",
+            "ru": "У пациентов с тяжелой первичной МР при наличии показаний к операции пластика митрального клапана рекомендуется предпочтительнее протезирования, если анатомической причиной МР является дегенеративное поражение и возможно выполнение успешной и долговечной пластики."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [11, 12, 13, 14, 15]
+        },
+        {
+          "id": "r04-asymptomatic-stage-c1-high-repair-success-valve-center",
+          "text": {
+            "en": "In asymptomatic patients with severe primary MR and normal LV systolic function (LVEF ≥60% and LVESD ≤40 mm) (Stage C1), mitral valve repair is reasonable when the likelihood of a successful and durable repair without residual MR is >95% with an expected mortality rate of <1%, when it can be performed at a Primary or Comprehensive Valve Center.",
+            "ru": "У бессимптомных пациентов с тяжелой первичной МР и нормальной систолической функцией ЛЖ (ФВ ЛЖ ≥60% и КСР ЛЖ ≤40 мм) (Стадия C1) пластика митрального клапана оправдана, если вероятность успешной и стойкой пластики без остаточной МР составляет >95% при ожидаемой летальности <1% при выполнении в первичном или экспертном клапанном центре."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [4, 13, 16]
+        },
+        {
+          "id": "r05-asymptomatic-stage-c1-progressive-lv-dilation-fall-ef",
+          "text": {
+            "en": "In asymptomatic patients with severe primary MR and normal LV systolic function (LVEF >60% and LVESD <40 mm) (Stage C1) but with a progressive increase in LV size or decrease in EF on ≥3 serial imaging studies, mitral valve surgery may be considered irrespective of the probability of a successful and durable repair.",
+            "ru": "У бессимптомных пациентов с тяжелой первичной МР и нормальной систолической функцией ЛЖ (ФВ ЛЖ >60% и КСР ЛЖ <40 мм) (Стадия C1), но с прогрессирующим увеличением размеров ЛЖ или снижением ФВ по данным ≥3 последовательных исследований визуализации, операция на митральном клапане может рассматриваться независимо от вероятности стойкой пластики."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [16]
+        },
+        {
+          "id": "r06-teer-severe-symptoms-high-prohibitive-surgical-risk",
+          "text": {
+            "en": "In severely symptomatic patients (NYHA class III or IV) with primary severe MR and high or prohibitive surgical risk, transcatheter edge-to-edge repair (TEER) is reasonable if mitral valve anatomy is favorable for the repair procedure and patient life expectancy is at least 1 year.",
+            "ru": "У пациентов с выраженной симптоматикой (III или IV ФК по NYHA), тяжелой первичной МР и высоким либо неприемлемым хирургическим риском транскатетерная краевая пластика «край-в-край» (TEER) оправдана, если анатомия клапана благоприятна для вмешательства, а ожидаемая продолжительность жизни пациента составляет не менее 1 года."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [17, 18]
+        },
+        {
+          "id": "r07-rheumatic-mr-repair-comprehensive-center",
+          "text": {
+            "en": "In symptomatic patients with severe primary MR attributable to rheumatic valve disease, mitral valve repair may be considered at a Comprehensive Valve Center by an experienced team when surgical treatment is indicated, if a durable and successful repair is likely.",
+            "ru": "У симптомных пациентов с тяжелой первичной МР ревматической этиологии пластика митрального клапана может рассматриваться в экспертном клапанном центре опытной бригадой при наличии показаний к операции, если вероятна успешная и долговечная реконструкция."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [19]
+        },
+        {
+          "id": "r08-harm-replacement-without-repair-attempt-less-than-half-posterior-leaflet",
+          "text": {
+            "en": "In patients with severe primary MR where leaflet pathology is limited to less than one half the posterior leaflet, mitral valve replacement should not be performed unless mitral valve repair has been attempted at a Primary or Comprehensive Valve Center and was unsuccessful.",
+            "ru": "У пациентов с тяжелой первичной МР, у которых патология створок ограничена менее чем половиной задней створки, протезирование митрального клапана не должно выполняться без предварительной попытки пластики в первичном или экспертном клапанном центре, оказавшейся безуспешной."
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [11, 12, 13, 14, 20, 21, 22]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

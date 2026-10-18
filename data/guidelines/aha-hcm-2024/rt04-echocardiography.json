@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt04-echocardiography",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 4",
+  "title": {
+    "en": "Recommendations for Echocardiography",
+    "ru": "Рекомендации по эхокардиографии"
+  },
+  "tags": [
+    "hcm",
+    "echocardiography",
+    "tte",
+    "tee",
+    "lvoto",
+    "provocation",
+    "exercise-tte",
+    "septal-myectomy",
+    "alcohol-septal-ablation",
+    "contrast-echocardiography",
+    "family-screening"
+  ],
+  "sections": [
+    {
+      "id": "sec-echocardiography",
+      "title": {
+        "en": "Echocardiography in HCM",
+        "ru": "Эхокардиография при ГКМП"
+      },
+      "rows": [
+        {
+          "id": "r01-initial-tte-suspected-hcm",
+          "text": {
+            "en": "In patients with suspected HCM, a transthoracic echocardiogram (TTE) is recommended in the initial evaluation.",
+            "ru": "У пациентов с подозрением на ГКМП в рамках первичного обследования рекомендуется выполнение трансторакальной эхокардиографии (ТТ-ЭхоКГ)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r02-stable-hcm-surveillance-tte",
+          "text": {
+            "en": "In patients with HCM who have no change in clinical status or events, repeat TTE is recommended every 1 to 2 years^[a] to assess the degree of myocardial hypertrophy, dynamic LVOTO, MR, and myocardial function (Figure 1).",
+            "ru": "У пациентов с ГКМП при стабильном клиническом статусе и отсутствии событий повторная ТТ-ЭхоКГ рекомендуется каждые 1–2 года^[a] для оценки степени гипертрофии миокарда, динамической обструкции ВТЛЖ (LVOTO), митральной регургитации и функции миокарда (Рисунок 1)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [7, 8, 9, 10, 11, 12, 13, 14]
+        },
+        {
+          "id": "r03-change-clinical-status-tte",
+          "text": {
+            "en": "For patients with HCM who experience a change in clinical status or a new clinical event, repeat TTE is recommended.",
+            "ru": "У пациентов с ГКМП при изменении клинического состояния или возникновении нового клинического события рекомендуется повторная ТТ-ЭхоКГ."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [9, 14, 15, 16, 17]
+        },
+        {
+          "id": "r04-provocative-maneuvers-tte-gradient-lt-50",
+          "text": {
+            "en": "For patients with HCM and resting peak LVOT gradient <50 mm Hg, a TTE with provocative maneuvers is recommended.",
+            "ru": "У пациентов с ГКМП и пиковым градиентом в ВТЛЖ (LVOT) в покое <50 мм рт. ст. рекомендуется проведение ТТ-ЭхоКГ с провокационными пробами."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [18, 19, 20, 21]
+        },
+        {
+          "id": "r05-exercise-tte-symptomatic-gradient-lt-50",
+          "text": {
+            "en": "For symptomatic patients with HCM who do not have a resting or provocable outflow tract peak gradient ≥50 mm Hg on TTE, exercise TTE is recommended for the detection and quantification of dynamic LVOTO.",
+            "ru": "У симптомных пациентов с ГКМП, не имеющих пикового градиента в выходном тракте в покое или при провокационных пробах ≥50 мм рт. ст. по данным ТТ-ЭхоКГ, рекомендуется нагрузочная стресс-ЭхоКГ для выявления и количественной оценки динамической обструкции ВТЛЖ."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [22, 23, 24, 25]
+        },
+        {
+          "id": "r06-intraoperative-tee-myectomy",
+          "text": {
+            "en": "For patients with HCM who are undergoing surgical septal myectomy, intraoperative transesophageal echocardiogram (TEE) is recommended to assess mitral valve anatomy and function and adequacy of septal myectomy.",
+            "ru": "У пациентов с ГКМП, подвергающихся хирургической септальной миэктомии, рекомендуется интраоперационная чреспищеводная эхокардиография (ЧП-ЭхоКГ/TEE) для оценки анатомии и функции митрального клапана и адекватности септальной миэктомии."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [26, 27, 28, 29]
+        },
+        {
+          "id": "r07-contrast-echo-alcohol-ablation",
+          "text": {
+            "en": "For patients with HCM who are undergoing alcohol septal ablation, TTE or intraoperative TEE with intracoronary ultrasound-enhancing contrast injection of the candidate's septal perforator(s) is recommended.",
+            "ru": "У пациентов с ГКМП, подвергающихся спиртовой септальной аблации, рекомендуется ТТ-ЭхоКГ или интраоперационная ЧП-ЭхоКГ с интракоронарным контрастным ультразвуковым картированием предполагаемой септальной перфорантной артерии (артерий)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [30, 31, 32, 33, 34]
+        },
+        {
+          "id": "r08-post-srt-tte-3-6-months",
+          "text": {
+            "en": "For patients with HCM who have undergone SRT, TTE within 3 to 6 months after the procedure is recommended to evaluate the procedural results.",
+            "ru": "У пациентов с ГКМП, перенесших септальную редукционную терапию (СРТ/SRT), рекомендуется проведение ТТ-ЭхоКГ через 3–6 месяцев после процедуры для оценки результатов вмешательства."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [35, 36, 37, 38]
+        },
+        {
+          "id": "r09-screening-first-degree-relatives-tte",
+          "text": {
+            "en": "Screening: In first-degree relatives of patients with HCM, a TTE is recommended as part of initial family screening and periodic follow-up (Figure 1, Table 7).",
+            "ru": "Скрининг: У родственников первой линии пациентов с ГКМП рекомендуется выполнение ТТ-ЭхоКГ в рамках первичного семейного скрининга и периодического наблюдения (Рисунок 1, Таблица 7)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [9, 10, 11, 12, 14, 32]
+        },
+        {
+          "id": "r10-screening-genotype-positive-phenotype-negative",
+          "text": {
+            "en": "Screening: In individuals who are genotype-positive, phenotype-negative, echocardiography is recommended at periodic intervals depending on age (1-2 years in children and adolescents, 3-5 years in adults) and change in clinical status (Figure 1, Table 7).",
+            "ru": "Скрининг: У лиц с положительным генотипом и отрицательным фенотипом (носителей мутаций без признаков ГЛЖ) эхокардиография рекомендуется с регулярными интервалами в зависимости от возраста (каждые 1–2 года у детей и подростков, каждые 3–5 лет у взрослых) и при изменении клинического статуса (Рисунок 1, Таблица 7)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [39, 40, 41, 42, 43]
+        },
+        {
+          "id": "r11-tee-planning-myectomy-structural-mitral",
+          "text": {
+            "en": "For patients with HCM, TEE can be useful if TTE is inconclusive in clinical decision-making regarding medical therapy, and in situations such as planning for myectomy, exclusion of subaortic membrane or MR secondary to structural abnormalities of the mitral valve apparatus, or in the assessment of the feasibility of alcohol septal ablation.",
+            "ru": "У пациентов с ГКМП выполнение ЧП-ЭхоКГ может быть полезным, если данные ТТ-ЭхоКГ неубедительны для принятия решений по медикаментозной терапии, а также при планировании миэктомии, исключении мембраны под аортальным клапаном или митральной регургитации вследствие структурных аномалий митрального клапанного аппарата, либо при оценке осуществимости спиртовой септальной аблации."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [26, 27, 28, 29]
+        },
+        {
+          "id": "r12-ultrasound-enhancing-agent-apical-atypical",
+          "text": {
+            "en": "For patients with HCM in whom the diagnosis of apical HCM, apical aneurysm, or atypical patterns of hypertrophy is inconclusive on TTE, the use of an intravenous ultrasound-enhancing agent is reasonable, particularly if other imaging modalities such as CMR are not readily available or are contraindicated.",
+            "ru": "У пациентов с ГКМП, у которых диагностика верхушечной ГКМП, аневризмы верхушки или атипичных вариантов гипертрофии по ТТ-ЭхоКГ неоднозначна, целесообразно внутривенное введение контрастного эхокардиографического препарата, особенно если другие методы визуализации (МРТ сердца) недоступны или противопоказаны."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [44, 45]
+        },
+        {
+          "id": "r13-exercise-tte-asymptomatic-gradient-lt-50",
+          "text": {
+            "en": "For asymptomatic patients with HCM who do not have a resting or provocable outflow tract peak gradient ≥50 mm Hg on standard TTE, exercise TTE is reasonable for the detection and quantification of dynamic LVOTO.",
+            "ru": "У бессимптомных пациентов с ГКМП, у которых отсутствует пиковый градиент в выходном тракте в покое или при стандартных пробах ≥50 мм рт. ст. по данным ТТ-ЭхоКГ, проведение стресс-ЭхоКГ с физической нагрузкой целесообразно для выявления и количественной оценки динамической обструкции ВТЛЖ."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [18, 19, 20, 22, 23, 24, 25]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Level of Evidence (LOE) is B-NR for children and C-LD for adults.",
+      "ru": "Уровень доказательности (LOE): B-NR для детей и C-LD для взрослых."
+    }
+  },
+  "source": {
+    "expectedRows": 13
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

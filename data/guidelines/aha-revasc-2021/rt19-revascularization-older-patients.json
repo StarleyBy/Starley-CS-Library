@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt19-revascularization-older-patients",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 19",
+  "title": {
+    "en": "Recommendation for Revascularization in Older Patients",
+    "ru": "Рекомендация по реваскуляризации у пациентов пожилого и старческого возраста"
+  },
+  "tags": [
+    "older-patients",
+    "geriatric",
+    "shared-decision-making",
+    "cognitive-function",
+    "life-expectancy"
+  ],
+  "sections": [
+    {
+      "id": "sec-revascularization-older-patients",
+      "title": {
+        "en": "Revascularization in Older Patients",
+        "ru": "Реваскуляризация у пациентов пожилого и старческого возраста"
+      },
+      "rows": [
+        {
+          "id": "r01-older-adults-treatment-strategy-factors",
+          "text": {
+            "en": "In older adults, as in all patients, the treatment strategy for CAD should be based on an individual patient's preferences, cognitive function, and life expectancy.",
+            "ru": "У пожилых пациентов, как и у всех больных, тактика лечения ИБС должна основываться на индивидуальных предпочтениях пациента, когнитивной функции и ожидаемой продолжительности жизни."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

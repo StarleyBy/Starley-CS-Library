@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt11-revascularization-survival-sihd-vs-medical-therapy",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 11",
+  "title": {
+    "en": "Recommendations for Revascularization to Improve Survival in SIHD Compared With Medical Therapy",
+    "ru": "Рекомендации по реваскуляризации для повышения выживаемости при стабильной ИБС (SIHD) в сравнении с медикаментозной терапией"
+  },
+  "tags": [
+    "sihd",
+    "stable-cad",
+    "survival",
+    "cabg",
+    "pci",
+    "left-ventricular-dysfunction",
+    "left-main",
+    "multivessel",
+    "proximal-lad"
+  ],
+  "sections": [
+    {
+      "id": "sec-lv-dysfunction-multivessel-cad",
+      "title": {
+        "en": "Left ventricular dysfunction and multivessel CAD",
+        "ru": "Дисфункция левого желудочка и многососудистое поражение коронарных артерий"
+      },
+      "rows": [
+        {
+          "id": "r01-sihd-severe-lv-dysfunction-cabg",
+          "text": {
+            "en": "In patients with SIHD and multivessel CAD appropriate for CABG with severe left ventricular systolic dysfunction (left ventricular ejection fraction <35%), CABG is recommended to improve survival.",
+            "ru": "У пациентов со стабильной ИБС (SIHD) и многососудистым поражением, подходящих для КШ, с тяжелой систолической дисфункцией левого желудочка (фракция выброса ЛЖ <35%), рекомендуется КШ для повышения выживаемости."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-sihd-mild-moderate-lv-dysfunction-cabg-lima",
+          "text": {
+            "en": "In selected patients with SIHD and multivessel CAD appropriate for CABG and mild-to-moderate left ventricular systolic dysfunction (ejection fraction 35%–50%), CABG (to include a left internal mammary artery [LIMA] graft to the LAD) is reasonable to improve survival.",
+            "ru": "У отобранных пациентов со стабильной ИБС (SIHD) и многососудистым поражением, подходящих для КШ, с легкой или умеренной систолической дисфункцией левого желудочка (фракция выброса 35%–50%), целесообразно выполнение КШ (включая шунтирование ПМЖВ левой внутренней грудной артерией [LIMA]) для повышения выживаемости."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [3, 4, 5, 6, 7, 8]
+        }
+      ]
+    },
+    {
+      "id": "sec-left-main-cad",
+      "title": {
+        "en": "Left main CAD",
+        "ru": "Поражение ствола левой коронарной артерии"
+      },
+      "rows": [
+        {
+          "id": "r03-sihd-left-main-cabg",
+          "text": {
+            "en": "In patients with SIHD and significant left main stenosis, CABG is recommended to improve survival.",
+            "ru": "У пациентов со стабильной ИБС (SIHD) и гемодинамически значимым стенозом ствола ЛКА рекомендуется КШ для повышения выживаемости."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [9, 10, 11, 12]
+        },
+        {
+          "id": "r04-sihd-left-main-pci-equivalent",
+          "text": {
+            "en": "In selected patients with SIHD and significant left main stenosis for whom PCI can provide equivalent revascularization to that possible with CABG, PCI is reasonable to improve survival.",
+            "ru": "У отобранных пациентов со стабильной ИБС (SIHD) и гемодинамически значимым стенозом ствола ЛКА, у которых ЧКВ может обеспечить эквивалентную реваскуляризацию по сравнению с КШ, целесообразно выполнение ЧКВ для повышения выживаемости."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [9]
+        }
+      ]
+    },
+    {
+      "id": "sec-multivessel-cad",
+      "title": {
+        "en": "Multivessel CAD",
+        "ru": "Многососудистое поражение коронарных артерий"
+      },
+      "rows": [
+        {
+          "id": "r05-sihd-3-vessel-normal-ef-cabg",
+          "text": {
+            "en": "In patients with SIHD, normal ejection fraction, significant stenosis in 3 major coronary arteries (with or without proximal LAD), and anatomy suitable for CABG, CABG may be reasonable to improve survival.",
+            "ru": "У пациентов со стабильной ИБС (SIHD), нормальной фракцией выброса, гемодинамически значимым стенозом в 3 магистральных коронарных артериях (с вовлечением проксимального отдела ПМЖВ или без него) и подходящей для КШ анатомией выполнение КШ может быть целесообразным для повышения выживаемости."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [10, 13, 14, 15]
+        },
+        {
+          "id": "r06-sihd-3-vessel-normal-ef-pci-uncertain",
+          "text": {
+            "en": "In patients with SIHD, normal ejection fraction, significant stenosis in 3 major coronary arteries (with or without proximal LAD), and anatomy suitable for PCI, the usefulness of PCI to improve survival is uncertain.",
+            "ru": "У пациентов со стабильной ИБС (SIHD), нормальной фракцией выброса, гемодинамически значимым стенозом в 3 магистральных коронарных артериях (с вовлечением проксимального отдела ПМЖВ или без него) и подходящей для ЧКВ анатомией польза ЧКВ для повышения выживаемости не определена."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+        }
+      ]
+    },
+    {
+      "id": "sec-proximal-lad",
+      "title": {
+        "en": "Stenosis in the proximal LAD artery",
+        "ru": "Стеноз проксимального отдела передней межжелудочковой ветви (LAD)"
+      },
+      "rows": [
+        {
+          "id": "r07-sihd-proximal-lad-normal-ef-revasc-uncertain",
+          "text": {
+            "en": "In patients with SIHD, normal left ventricular ejection fraction, and significant stenosis in the proximal LAD, the usefulness of coronary revascularization to improve survival is uncertain.",
+            "ru": "У пациентов со стабильной ИБС (SIHD), нормальной фракцией выброса левого желудочка и гемодинамически значимым стенозом в проксимальном отделе ПМЖВ польза коронарной реваскуляризации для повышения выживаемости не определена."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [10, 14, 17, 24, 25, 26, 27]
+        }
+      ]
+    },
+    {
+      "id": "sec-single-double-vessel-not-proximal-lad",
+      "title": {
+        "en": "Single- or double-vessel disease not involving the proximal LAD",
+        "ru": "Одно- или двухсосудистое поражение без вовлечения проксимального отдела ПМЖВ (LAD)"
+      },
+      "rows": [
+        {
+          "id": "r08-sihd-1-or-2-vessel-no-proximal-lad-no-benefit",
+          "text": {
+            "en": "In patients with SIHD, normal left ventricular ejection fraction, and 1- or 2-vessel CAD not involving the proximal LAD, coronary revascularization is not recommended to improve survival.",
+            "ru": "У пациентов со стабильной ИБС (SIHD), нормальной фракцией выброса левого желудочка и 1- или 2-сосудистым поражением без вовлечения проксимального отдела ПМЖВ коронарная реваскуляризация не рекомендуется для повышения выживаемости."
+          },
+          "class": "III-no-benefit",
+          "level": "B-R",
+          "refs": [10, 14, 16, 28, 29]
+        },
+        {
+          "id": "r09-sihd-non-significant-stenosis-harm",
+          "text": {
+            "en": "In patients with SIHD who have ≥1 coronary arteries that are not anatomically or functionally significant (<70% diameter of non-left main coronary artery stenosis, FFR >0.80), coronary revascularization should not be performed with the primary or sole intent to improve survival.",
+            "ru": "У пациентов со стабильной ИБС (SIHD), имеющих ≥1 коронарных артерий без анатомически или функционально значимого поражения (<70% диаметра стеноза нестволовой коронарной артерии, FFR >0.80), коронарная реваскуляризация не должна выполняться с первичной или единственной целью повышения выживаемости."
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [20, 22]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

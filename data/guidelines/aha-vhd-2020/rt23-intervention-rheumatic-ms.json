@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt23-intervention-rheumatic-ms",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 23",
+  "title": {
+    "en": "Recommendations for Intervention for Rheumatic MS",
+    "ru": "Рекомендации по вмешательству при ревматическом митральном стенозе"
+  },
+  "tags": [
+    "vhd",
+    "mitral-stenosis",
+    "rheumatic-ms",
+    "pmbc",
+    "percutaneous-mitral-balloon-commissurotomy",
+    "mitral-valve-surgery",
+    "mitral-commissurotomy",
+    "mitral-replacement",
+    "pulmonary-hypertension",
+    "atrial-fibrillation",
+    "sellers-criteria"
+  ],
+  "sections": [
+    {
+      "id": "sec-intervention-rheumatic-ms",
+      "title": {
+        "en": "Intervention for Rheumatic MS",
+        "ru": "Вмешательство при ревматическом митральном стенозе"
+      },
+      "rows": [
+        {
+          "id": "r01-pmbc-symptomatic-favorable-morphology",
+          "text": {
+            "en": "In symptomatic patients (NYHA class II, III, or IV) with severe rheumatic MS (mitral valve area ≤1.5 cm^2, Stage D) and favorable valve morphology with less than moderate (2+) MR^[a] in the absence of LA thrombus, PMBC is recommended if it can be performed at a Comprehensive Valve Center.",
+            "ru": "У симптомных пациентов (II, III или IV ФК по NYHA) с тяжелым ревматическим МС (площадь митрального отверстия ≤1,5 см², Стадия D), благоприятной морфологией клапана и менее чем умеренной (2+) МР^[a] при отсутствии тромбоза ЛП рекомендуется проведение ЧМБК (PMBC), если процедура может быть выполнена в экспертном клапанном центре."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+        },
+        {
+          "id": "r02-surgery-severely-symptomatic-contraindication-pmbc",
+          "text": {
+            "en": "In severely symptomatic patients (NYHA class III or IV) with severe rheumatic MS (mitral valve area ≤1.5 cm^2, Stage D) who 1) are not candidates for PMBC, 2) have failed a previous PMBC, 3) require other cardiac procedures, or 4) do not have access to PMBC, mitral valve surgery (repair, commissurotomy, or valve replacement) is indicated.",
+            "ru": "У пациентов с выраженной симптоматикой (III или IV ФК по NYHA) и тяжелым ревматическим МС (площадь митрального отверстия ≤1,5 см², Стадия D), которые 1) не являются кандидатами на ЧМБК, 2) имеют неэффективную ранее выполненную ЧМБК, 3) нуждаются в других кардиохирургических вмешательствах или 4) не имеют доступа к ЧМБК, показана хирургическая операция на митральном клапане (пластика, комиссуротомия или протезирование)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [6, 7, 13]
+        },
+        {
+          "id": "r03-pmbc-asymptomatic-elevated-pulmonary-pressure",
+          "text": {
+            "en": "In asymptomatic patients with severe rheumatic MS (mitral valve area ≤1.5 cm^2, Stage C) and favorable valve morphology with less than 2+ MR^[a] in the absence of LA thrombus who have elevated pulmonary pressures (pulmonary artery systolic pressure >50 mmHg), PMBC is reasonable if it can be performed at a Comprehensive Valve Center.",
+            "ru": "У бессимптомных пациентов с тяжелым ревматическим МС (площадь митрального отверстия ≤1,5 см², Стадия C), благоприятной морфологией клапана и МР менее 2+^[a] при отсутствии тромбоза ЛП, имеющих повышенное давление в легочной артерии (систолическое ДЛА >50 мм рт. ст.), выполнение ЧМБК оправдано при условии проведения в экспертном клапанном центре."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [14]
+        },
+        {
+          "id": "r04-pmbc-asymptomatic-new-onset-af",
+          "text": {
+            "en": "In asymptomatic patients with severe rheumatic MS (mitral valve area ≤1.5 cm^2, Stage C) and favorable valve morphology with less than 2+ MR^[a] in the absence of LA thrombus who have new onset of AF, PMBC may be considered if it can be performed at a Comprehensive Valve Center.",
+            "ru": "У бессимптомных пациентов с тяжелым ревматическим МС (площадь митрального отверстия ≤1,5 см², Стадия C), благоприятной морфологией клапана и МР менее 2+^[a] при отсутствии тромбоза ЛП, у которых впервые возникла фибрилляция предсердий, проведение ЧМБК можно рассмотреть при выполнении вмешательства в экспертном клапанном центре."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [15]
+        },
+        {
+          "id": "r05-pmbc-symptomatic-area-over-1-5-hemodynamic-gradient",
+          "text": {
+            "en": "In symptomatic patients (NYHA class II, III, or IV) with rheumatic MS and an mitral valve area >1.5 cm^2, if there is evidence of hemodynamically significant rheumatic MS on the basis of a pulmonary artery wedge pressure >25 mmHg or a mean mitral valve gradient >15 mmHg during exercise, PMBC may be considered if it can be performed at a Comprehensive Valve Center.",
+            "ru": "У симптомных пациентов (II, III или IV ФК по NYHA) с ревматическим МС и площадью митрального отверстия >1,5 см², при наличии признаков гемодинамически значимого МС по данным давления заклинивания в легочной артерии >25 мм рт. ст. или среднего трансмитрального градиента >15 мм рт. ст. при физической нагрузке, проведение ЧМБК можно рассмотреть при выполнении в экспертном клапанном центре."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [16]
+        },
+        {
+          "id": "r06-pmbc-severely-symptomatic-suboptimal-anatomy-high-risk",
+          "text": {
+            "en": "In severely symptomatic patients (NYHA class III or IV) with severe rheumatic MS (mitral valve area ≤1.5 cm^2, Stage D) who have a suboptimal valve anatomy and who are not candidates for surgery or are at high risk for surgery, PMBC may be considered if it can be performed at a Comprehensive Valve Center.",
+            "ru": "У пациентов с выраженной симптоматикой (III или IV ФК по NYHA) и тяжелым ревматическим МС (площадь митрального отверстия ≤1,5 см², Стадия D), имеющих субоптимальную анатомию клапана и не являющихся кандидатами на операцию либо относящихся к группе высокого хирургического риска, проведение ЧМБК можно рассмотреть при выполнении процедуры в экспертном клапанном центре."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [17, 18, 19]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "2+ on a 0 to 4+ scale according to Sellers criteria or less than moderate by Doppler echocardiography.",
+      "ru": "Степень 2+ по шкале от 0 до 4+ по критериям Селлерса (Sellers) или менее чем умеренная по данным допплеровской эхокардиографии."
+    }
+  },
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

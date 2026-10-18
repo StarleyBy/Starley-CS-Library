@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt07-cardiac-ct",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 7",
+  "title": {
+    "en": "Recommendation for Cardiac CT",
+    "ru": "Рекомендация по компьютерной томографии сердца (КТ сердца)"
+  },
+  "tags": [
+    "hcm",
+    "cardiac-ct",
+    "computed-tomography",
+    "diagnosis",
+    "inconclusive-echo",
+    "imaging"
+  ],
+  "sections": [
+    {
+      "id": "sec-cardiac-ct",
+      "title": {
+        "en": "Cardiac CT in HCM",
+        "ru": "КТ сердца при ГКМП"
+      },
+      "rows": [
+        {
+          "id": "r01-cardiac-ct-inconclusive-echo-no-cmr",
+          "text": {
+            "en": "In adult patients with suspected HCM, cardiac CT may be considered for diagnosis if the echocardiogram is not diagnostic and CMR imaging is unavailable.",
+            "ru": "У взрослых пациентов с подозрением на ГКМП можно рассмотреть проведение КТ сердца для диагностики, если эхокардиография неинформативна, а МРТ сердца (CMR) недоступна."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

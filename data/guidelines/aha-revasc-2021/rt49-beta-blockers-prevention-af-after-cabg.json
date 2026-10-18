@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt49-beta-blockers-prevention-af-after-cabg",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 49",
+  "title": {
+    "en": "Recommendation for Beta Blockers for the Prevention of Atrial Fibrillation After CABG",
+    "ru": "Рекомендация по бета-адреноблокаторам для профилактики фибрилляции предсердий после КШ"
+  },
+  "tags": [
+    "cabg",
+    "beta-blockers",
+    "atrial-fibrillation",
+    "postoperative-af",
+    "prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-beta-blockers-af-cabg",
+      "title": {
+        "en": "Beta Blockers for the Prevention of Atrial Fibrillation After CABG",
+        "ru": "Бета-блокаторы для профилактики фибрилляции предсердий после КШ"
+      },
+      "rows": [
+        {
+          "id": "r01-beta-blockers-start-early-postop-af",
+          "text": {
+            "en": "In patients after CABG, beta blockers are recommended and should be started as soon as possible to reduce the incidence or clinical sequelae of postoperative atrial fibrillation.",
+            "ru": "У пациентов после КШ рекомендуются бета-адреноблокаторы, прием которых следует начать как можно раньше для снижения частоты развития или клинических последствий послеоперационной фибрилляции предсердий."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t19-classification-of-tr",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 19",
+  "type": "grid",
+  "title": {
+    "en": "Classification of TR",
+    "ru": "Классификация трикуспидальной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "tricuspid-regurgitation",
+    "tr",
+    "etiology",
+    "classification",
+    "primary-tr",
+    "secondary-tr",
+    "functional-tr",
+    "ebstein",
+    "iatrogenic-tr"
+  ],
+  "columns": [
+    {
+      "id": "primary",
+      "title": {
+        "en": "Primary",
+        "ru": "Первичная"
+      }
+    },
+    {
+      "id": "secondary",
+      "title": {
+        "en": "Secondary",
+        "ru": "Вторичная"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "row-01",
+      "cells": [
+        {
+          "text": {
+            "en": "Rheumatic",
+            "ru": "Ревматическая"
+          }
+        },
+        {
+          "text": {
+            "en": "Pulmonary hypertension with RV remodeling (primary or secondary to left-sided heart disease)",
+            "ru": "Легочная гипертензия с ремоделированием ПЖ (первичная или вторичная по отношению к патологии левых отделов сердца)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-02",
+      "cells": [
+        {
+          "text": {
+            "en": "Infective endocarditis",
+            "ru": "Инфекционный эндокардит"
+          }
+        },
+        {
+          "text": {
+            "en": "Dilated cardiomyopathy",
+            "ru": "Дилатационная кардиомиопатия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-03",
+      "cells": [
+        {
+          "text": {
+            "en": "Iatrogenic (device leads, endomyocardial biopsy)",
+            "ru": "Ятрогенная (электроды имплантируемых устройств, эндомиокардиальная биопсия)"
+          }
+        },
+        {
+          "text": {
+            "en": "Annular dilation (associated with AF)^[a]",
+            "ru": "Дилатация фиброзного кольца (ассоциированная с ФП)^[a]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-04",
+      "cells": [
+        {
+          "text": {
+            "en": "Congenital (eg, Ebstein's, levo-transposition of the great arteries)",
+            "ru": "Врожденная (например, аномалия Эбштейна, L-транспозиция магистральных артерий)"
+          }
+        },
+        {
+          "text": {
+            "en": "RV volume overload (shunts/high output)",
+            "ru": "Объемная перегрузка ПЖ (сбросы крови/высокий сердечный выброс)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-05",
+      "cells": [
+        {
+          "text": {
+            "en": "Other (eg, trauma, carcinoid, drugs, irradiation)",
+            "ru": "Прочие (например, травма, карциноидный синдром, лекарственные воздействия, лучевое поражение)"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Isolated TR is associated with AF and has LVEF >60%, pulmonary artery systolic pressure <50 mm Hg, and no left-sided valve disease, with normal-appearing tricuspid valve leaflets. AF indicates atrial fibrillation; LVEF, left ventricular ejection fraction; RV, right ventricular; and TR, tricuspid regurgitation.",
+      "ru": "Изолированная ТР ассоциирована с ФП и характеризуется ФВ ЛЖ >60%, систолическим давлением в легочной артерии <50 мм рт. ст., отсутствием клапанной патологии левых отделов сердца и неизмененными створками трикуспидального клапана. AF (ФП) — фибрилляция предсердий; LVEF (ФВ ЛЖ) — фракция выброса левого желудочка; RV (ПЖ) — правый желудочек; TR (ТР) — трикуспидальная регургитация."
+    }
+  },
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

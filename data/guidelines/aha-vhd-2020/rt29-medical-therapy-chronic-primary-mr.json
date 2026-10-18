@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt29-medical-therapy-chronic-primary-mr",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 29",
+  "title": {
+    "en": "Recommendations for Medical Therapy for Chronic Primary MR",
+    "ru": "Рекомендации по медикаментозной терапии при хронической первичной митральной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "mitral-regurgitation",
+    "primary-mr",
+    "chronic-mr",
+    "medical-therapy",
+    "gdmt",
+    "heart-failure",
+    "vasodilators",
+    "systolic-dysfunction"
+  ],
+  "sections": [
+    {
+      "id": "sec-medical-therapy-chronic-primary-mr",
+      "title": {
+        "en": "Medical Therapy for Chronic Primary MR",
+        "ru": "Медикаментозная терапия при хронической первичной митральной регургитации"
+      },
+      "rows": [
+        {
+          "id": "r01-gdmt-severe-mr-systolic-dysfunction-no-surgery",
+          "text": {
+            "en": "In symptomatic or asymptomatic patients with severe primary MR and LV systolic dysfunction (Stages C2 and D) in whom surgery is not possible or must be delayed, GDMT for systolic dysfunction is reasonable.",
+            "ru": "У симптомных или бессимптомных пациентов с тяжелой первичной МР и систолической дисфункцией ЛЖ (Стадии C2 и D), которым операция не показана/невозможна или должна быть отложена, обоснована ОМТ (GDMT) систолической дисфункции."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-no-vasodilators-normal-lv-function-normotensive",
+          "text": {
+            "en": "In asymptomatic patients with primary MR and normal LV systolic function (Stages B and C1), vasodilator therapy is not indicated if the patient is normotensive.",
+            "ru": "У бессимптомных пациентов с первичной МР и нормальной систолической функцией ЛЖ (Стадии B и C1) вазодилататорная терапия не показана, если пациент нормотензивен."
+          },
+          "class": "III-no-benefit",
+          "level": "B-NR",
+          "refs": [4, 5, 6, 7, 8]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

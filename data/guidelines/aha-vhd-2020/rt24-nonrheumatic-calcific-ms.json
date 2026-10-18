@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt24-nonrheumatic-calcific-ms",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 24",
+  "title": {
+    "en": "Recommendation for Nonrheumatic Calcific MS",
+    "ru": "Рекомендация по неревматическому кальцинированному митральному стенозу"
+  },
+  "tags": [
+    "vhd",
+    "mitral-stenosis",
+    "nonrheumatic-ms",
+    "calcific-ms",
+    "mitral-annular-calcification",
+    "mac",
+    "valve-intervention",
+    "shared-decision-making"
+  ],
+  "sections": [
+    {
+      "id": "sec-nonrheumatic-calcific-ms",
+      "title": {
+        "en": "Nonrheumatic Calcific MS",
+        "ru": "Неревматический кальцинированный митральный стеноз"
+      },
+      "rows": [
+        {
+          "id": "r01-mac-severe-ms-valve-intervention-high-risk",
+          "text": {
+            "en": "In severely symptomatic patients (NYHA class III or IV) with severe MS (mitral valve area ≤1.5 cm^2, Stage D) attributable to extensive mitral annular calcification, valve intervention may be considered only after discussion of the high procedural risk and the individual patient's preferences and values.",
+            "ru": "У пациентов с выраженной симптоматикой (III или IV ФК по NYHA) и тяжелым МС (площадь митрального отверстия ≤1,5 см², Стадия D), обусловленным массивным кальцинозом фиброзного кольца митрального клапана (MAC), клапанное вмешательство можно рассмотреть только после обсуждения высокого процедурного риска и индивидуальных предпочтений и ценностей пациента."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

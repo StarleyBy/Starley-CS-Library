@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt02-shared-decision-making-informed-consent",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 2",
+  "title": {
+    "en": "Recommendations for Shared Decision-Making and Informed Consent",
+    "ru": "Рекомендации по совместному принятию решений и информированному согласию"
+  },
+  "tags": [
+    "revascularization",
+    "shared-decision-making",
+    "informed-consent",
+    "patient-centered-care",
+    "pci",
+    "cabg"
+  ],
+  "sections": [
+    {
+      "id": "sec-shared-decision-making-consent",
+      "title": {
+        "en": "Shared Decision-Making and Informed Consent",
+        "ru": "Совместное принятие решений и информированное согласие"
+      },
+      "rows": [
+        {
+          "id": "r01-patient-centered-decisions",
+          "text": {
+            "en": "In patients undergoing revascularization, decisions should be patient centered—that is, considerate of the patient’s preferences and goals, cultural beliefs, health literacy, and social determinants of health—and made in collaboration with the patient’s support system.",
+            "ru": "У пациентов, которым предстоит реваскуляризация, решения должны быть ориентированы на интересы пациента — то есть учитывать предпочтения и цели пациента, его культурные убеждения, уровень медицинской грамотности и социальные детерминанты здоровья — и приниматься в сотрудничестве с его близкими / системой поддержки."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-adequate-information-benefits-risks-sufficient-time",
+          "text": {
+            "en": "In patients undergoing coronary angiography or revascularization, adequate information about benefits, risks, therapeutic consequences, and potential alternatives in the performance of percutaneous and surgical myocardial revascularization should be given, when feasible, with sufficient time for informed decision-making to improve clinical outcomes.",
+            "ru": "Пациентам, которым проводится коронарография или реваскуляризация, по возможности должна быть предоставлена исчерпывающая информация о преимуществах, рисках, терапевтических последствиях и возможных альтернативах между чрескожной и хирургической реваскуляризацией миокарда, с достаточным временем для осознанного принятия решений с целью улучшения клинических исходов."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [3, 4, 5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

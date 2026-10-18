@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt22-medical-therapy-rheumatic-ms",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 22",
+  "title": {
+    "en": "Recommendations for Medical Therapy in Patients With Rheumatic MS",
+    "ru": "Рекомендации по медикаментозной терапии пациентов с ревматическим митральным стенозом"
+  },
+  "tags": [
+    "vhd",
+    "mitral-stenosis",
+    "rheumatic-ms",
+    "medical-therapy",
+    "anticoagulation",
+    "vka",
+    "atrial-fibrillation",
+    "rate-control",
+    "beta-blockers"
+  ],
+  "sections": [
+    {
+      "id": "sec-medical-therapy-rheumatic-ms",
+      "title": {
+        "en": "Medical Therapy in Patients With Rheumatic MS",
+        "ru": "Медикаментозная терапия у пациентов с ревматическим митральным стенозом"
+      },
+      "rows": [
+        {
+          "id": "r01-anticoagulation-vka-af-embolism-thrombus",
+          "text": {
+            "en": "In patients with rheumatic MS and 1) AF, 2) a prior embolic event, or 3) an LA thrombus, anticoagulation with a VKA is indicated.",
+            "ru": "У пациентов с ревматическим МС и 1) фибрилляцией предсердий, 2) предшествующим тромбоэмболическим событием или 3) тромбом в ЛП показана антикоагулянтная терапия АВК (варфарином)."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-rate-control-af-rapid-ventricular-response",
+          "text": {
+            "en": "In patients with rheumatic MS and AF with a rapid ventricular response, heart rate control can be beneficial.",
+            "ru": "У пациентов с ревматическим МС и тахисистолической формой ФП контроль частоты желудочковых сокращений может быть полезен."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [8]
+        },
+        {
+          "id": "r03-rate-control-sinus-tachycardia",
+          "text": {
+            "en": "In patients with rheumatic MS in normal sinus rhythm with symptomatic resting or exertional sinus tachycardia, heart rate control can be beneficial to manage symptoms.",
+            "ru": "У пациентов с ревматическим МС и синусовым ритмом при наличии симптомной синусовой тахикардии в покое или при нагрузке контроль ЧСС может быть полезен для облегчения симптомов."
+          },
+          "class": "IIa",
+          "level": "A",
+          "refs": [9, 10, 11, 12, 13, 14, 15]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

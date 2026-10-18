@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt35-intravenous-p2y12-inhibitors-pci",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 35",
+  "title": {
+    "en": "Recommendation for Intravenous P2Y12 Inhibitors in Patients Undergoing PCI",
+    "ru": "Рекомендация по внутривенным ингибиторам P2Y12 у пациентов, проходящих ЧКВ"
+  },
+  "tags": [
+    "intravenous-p2y12-inhibitors",
+    "cangrelor",
+    "pci",
+    "periprocedural-ischemia"
+  ],
+  "sections": [
+    {
+      "id": "sec-iv-p2y12-inhibitors-pci",
+      "title": {
+        "en": "Intravenous P2Y12 Inhibitors in Patients Undergoing PCI",
+        "ru": "Внутривенные ингибиторы P2Y12 у пациентов, проходящих ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r01-p2y12-naive-pci-iv-cangrelor",
+          "text": {
+            "en": "In patients undergoing PCI who are P2Y12 inhibitor naive, intravenous cangrelor may be reasonable to reduce periprocedural ischemic events.",
+            "ru": "У пациентов, которым проводится ЧКВ и которые ранее не получали ингибиторы P2Y12, внутривенное введение кангрелора может быть целесообразным для снижения риска перипроцедурных ишемических событий."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [1, 2, 3]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

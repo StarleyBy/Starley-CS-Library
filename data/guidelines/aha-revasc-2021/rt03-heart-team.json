@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt03-heart-team",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 3",
+  "title": {
+    "en": "Recommendation for the Heart Team",
+    "ru": "Рекомендация по мультидисциплинарной кардиологической команде (Heart Team)"
+  },
+  "tags": [
+    "heart-team",
+    "revascularization",
+    "multidisciplinary-team",
+    "interventional-cardiology",
+    "cardiac-surgery"
+  ],
+  "sections": [
+    {
+      "id": "sec-heart-team",
+      "title": {
+        "en": "The Heart Team",
+        "ru": "Мультидисциплинарная кардиологическая команда (Heart Team)"
+      },
+      "rows": [
+        {
+          "id": "r01-heart-team-unclear-strategy",
+          "text": {
+            "en": "In patients for whom the optimal treatment strategy is unclear, a Heart Team approach that includes representatives from interventional cardiology, cardiac surgery, and clinical cardiology is recommended to improve patient outcomes.",
+            "ru": "У пациентов, для которых оптимальная тактика лечения неясна, рекомендуется подход с участием мультидисциплинарной команды (Heart Team), включающей специалистов по рентгенэндоваскулярным диагностике и лечению, сердечно-сосудистых хирургов и кардиологов, для улучшения клинических исходов."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

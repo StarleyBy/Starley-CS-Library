@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt21-management-ventricular-arrhythmias",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 21",
+  "title": {
+    "en": "Recommendations for the Management of Patients With HCM and Ventricular Arrhythmias",
+    "ru": "Рекомендации по ведению пациентов с ГКМП и желудочковыми аритмиями"
+  },
+  "tags": [
+    "hcm",
+    "ventricular-arrhythmias",
+    "ventricular-tachycardia",
+    "vt",
+    "heart-transplantation",
+    "antiarrhythmic-drugs",
+    "amiodarone",
+    "mexiletine",
+    "sotalol",
+    "dofetilide",
+    "atp",
+    "antitachycardia-pacing",
+    "catheter-ablation"
+  ],
+  "sections": [
+    {
+      "id": "sec-management-ventricular-arrhythmias",
+      "title": {
+        "en": "Management of Patients With HCM and Ventricular Arrhythmias",
+        "ru": "Ведение пациентов с ГКМП и желудочковыми аритмиями"
+      },
+      "rows": [
+        {
+          "id": "r01-heart-transplantation-refractory-vt",
+          "text": {
+            "en": "In patients with HCM and recurrent, poorly tolerated life-threatening ventricular tachyarrhythmias refractory to maximal antiarrhythmic drug therapy and ablation, heart transplantation assessment is indicated in accordance with current listing criteria.",
+            "ru": "У пациентов с ГКМП и рецидивирующими, плохо переносимыми жизнеугрожающими желудочковыми тахиаритмиями, рефрактерными к максимальной антиаритмической лекарственной терапии и аблации, показана оценка на трансплантацию сердца в соответствии с действующими критериями включения в лист ожидания."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-antiarrhythmics-adults-symptomatic-va-shocks",
+          "text": {
+            "en": "In adults with HCM and symptomatic ventricular arrhythmias or recurrent ICD shocks despite beta-blocker use, antiarrhythmic drug therapy (eg, amiodarone,^[a] dofetilide,^[b] mexiletine,^[b] or sotalol^[b]) is recommended, with the choice of agent guided by age, underlying comorbidities, severity of disease, patient preferences, and balance between efficacy and safety.",
+            "ru": "У взрослых с ГКМП и симптомными желудочковыми аритмиями либо повторными разрядами ИКД несмотря на прием бета-блокаторов рекомендуется антиаритмическая лекарственная терапия (например, амиодарон,^[a] дофетилид,^[b] мексилетин^[b] или соталол^[b]) с выбором препарата с учетом возраста, сопутствующих заболеваний, тяжести болезни, предпочтений пациента и баланса между эффективностью и безопасностью."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [3, 4, 5, 6]
+        },
+        {
+          "id": "r03-antiarrhythmics-children-recurrent-va",
+          "text": {
+            "en": "In children with HCM and recurrent ventricular arrhythmias despite beta-blocker use, antiarrhythmic drug therapy (eg, amiodarone, mexiletine, sotalol) is recommended, with the choice of agent guided by age, underlying comorbidities, severity of disease, patient preferences, and balance of efficacy and safety.",
+            "ru": "У детей с ГКМП и рецидивирующими желудочковыми аритмиями несмотря на прием бета-блокаторов рекомендуется антиаритмическая терапия (например, амиодарон, мексилетин, соталол) с выбором препарата с учетом возраста, сопутствующих заболеваний, тяжести болезни, предпочтений пациента и баланса эффективности и безопасности."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 6]
+        },
+        {
+          "id": "r04-antitachycardia-pacing-icd",
+          "text": {
+            "en": "In patients with HCM and pacing-capable ICDs, programming antitachycardia pacing is recommended to minimize risk of shocks.",
+            "ru": "У пациентов с ГКМП и ИКД с возможностью стимуляции рекомендуется программирование антитахикардитической стимуляции (АТС/ATP) для минимизации риска нанесения разрядов."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [7, 8]
+        },
+        {
+          "id": "r05-catheter-ablation-recurrent-sustained-vt-shocks",
+          "text": {
+            "en": "In patients with HCM and recurrent symptomatic sustained monomorphic VT, or recurrent ICD shocks despite optimal device programming, and in whom antiarrhythmic drug therapy is either ineffective, not tolerated, or not preferred, catheter ablation can be useful for reducing arrhythmia burden.",
+            "ru": "У пациентов с ГКМП и рецидивирующей симптомной устойчивой мономорфной ЖТ либо повторными разрядами ИКД несмотря на оптимальное программирование устройства, при неэффективности, непереносимости или нежелании приема антиаритмической терапии катетерная аблация может быть полезной для снижения аритмического бремени."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [9, 10, 11]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Indicates the Level of Evidence for amiodarone.",
+      "ru": "Указывает на уровень доказательности для амиодарона (LOE B-NR)."
+    },
+    "b": {
+      "en": "Indicates the Level of Evidence for dofetilide, mexiletine, or sotalol.",
+      "ru": "Указывает на уровень доказательности для дофетилида, мексилетина или соталола (LOE C-LD)."
+    }
+  },
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

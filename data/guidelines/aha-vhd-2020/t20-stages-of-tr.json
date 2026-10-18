@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t20-stages-of-tr",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 20",
+  "type": "grid",
+  "title": {
+    "en": "Stages of TR",
+    "ru": "Стадии трикуспидальной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "tricuspid-regurgitation",
+    "tr",
+    "stages-of-tr",
+    "stage-b",
+    "stage-c",
+    "stage-d",
+    "vena-contracta",
+    "ero",
+    "regurgitant-volume",
+    "hepatic-vein-flow"
+  ],
+  "columns": [
+    {
+      "id": "stage",
+      "title": {
+        "en": "Stage",
+        "ru": "Стадия"
+      }
+    },
+    {
+      "id": "definition",
+      "title": {
+        "en": "Definition",
+        "ru": "Определение"
+      }
+    },
+    {
+      "id": "valve_hemodynamics",
+      "title": {
+        "en": "Valve Hemodynamics",
+        "ru": "Клапанная гемодинамика"
+      }
+    },
+    {
+      "id": "hemodynamic_consequences",
+      "title": {
+        "en": "Hemodynamic Consequences",
+        "ru": "Гемодинамические последствия"
+      }
+    },
+    {
+      "id": "clinical_symptoms",
+      "title": {
+        "en": "Clinical Symptoms and Presentation",
+        "ru": "Клинические симптомы и проявления"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "stage-b",
+      "cells": [
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          }
+        },
+        {
+          "text": {
+            "en": "Progressive TR",
+            "ru": "Прогрессирующая ТР"
+          }
+        },
+        {
+          "text": {
+            "en": "Central jet <50% RA\nVena contracta width <0.7 cm\nERO <0.40 cm^2\nRegurgitant volume <45 mL",
+            "ru": "Центральная струя <50% площади ПП\nШирина vena contracta <0,7 см\nERO <0,40 см²\nОбъем регургитации <45 мл"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-c",
+      "cells": [
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          }
+        },
+        {
+          "text": {
+            "en": "Asymptomatic severe TR",
+            "ru": "Бессимптомная тяжелая ТР"
+          }
+        },
+        {
+          "text": {
+            "en": "Central jet ≥50% RA\nVena contracta width ≥0.7 cm\nERO ≥0.40 cm^2\nRegurgitant volume ≥45 mL\nDense continuous wave signal with triangular shape\nHepatic vein systolic flow reversal",
+            "ru": "Центральная струя ≥50% площади ПП\nШирина vena contracta ≥0,7 см\nERO ≥0,40 см²\nОбъем регургитации ≥45 мл\nИнтенсивный спектр непрерывноволнового допплера с треугольной формой\nСистолический реверсивный кровоток в печеночных венах"
+          }
+        },
+        {
+          "text": {
+            "en": "Dilated RV and RA\nElevated RA with \"c-V\" wave^[a]",
+            "ru": "Дилатация ПЖ и ПП\nПовышенное давление в ПП с волной «c-V»^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Elevated venous pressure\nNo symptoms",
+            "ru": "Повышенное венозное давление\nСимптомы отсутствуют"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-d",
+      "cells": [
+        {
+          "text": {
+            "en": "D",
+            "ru": "D"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptomatic severe TR",
+            "ru": "Симптомная тяжелая ТР"
+          }
+        },
+        {
+          "text": {
+            "en": "Central jet ≥50% RA\nVena contracta width ≥0.7 cm\nERO ≥0.40 cm^2\nRegurgitant volume ≥45 mL\nDense continuous wave signal with triangular shape\nHepatic vein systolic flow reversal",
+            "ru": "Центральная струя ≥50% площади ПП\nШирина vena contracta ≥0,7 см\nERO ≥0,40 см²\nОбъем регургитации ≥45 мл\nИнтенсивный спектр непрерывноволнового допплера с треугольной формой\nСистолический реверсивный кровоток в печеночных венах"
+          }
+        },
+        {
+          "text": {
+            "en": "Dilated RV and RA\nElevated RA with \"c-V\" wave^[a]",
+            "ru": "Дилатация ПЖ и ПП\nПовышенное давление в ПП с волной «c-V»^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Elevated venous pressure\nDyspnea on exertion, fatigue, ascites, edema",
+            "ru": "Повышенное венозное давление\nОдышка при физической нагрузке, утомляемость, асцит, периферические отеки"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "c-V wave indicates systolic positive wave; ERO, effective regurgitant orifice; RA, right atrial; RV, right ventricular; and TR, tricuspid regurgitation.",
+      "ru": "Волна c-V указывает на систолическую положительную волну регургитации; ERO — эффективная площадь отверстия регургитации; RA (ПП) — правое предсердие; RV (ПЖ) — правый желудочек; TR (ТР) — трикуспидальная регургитация."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

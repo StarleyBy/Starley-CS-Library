@@ -1,0 +1,246 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t16-stages-of-ms",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 16",
+  "type": "grid",
+  "title": {
+    "en": "Stages of MS",
+    "ru": "Стадии митрального стеноза"
+  },
+  "tags": [
+    "vhd",
+    "mitral-stenosis",
+    "rheumatic-ms",
+    "stages-of-ms",
+    "stage-a",
+    "stage-b",
+    "stage-c",
+    "stage-d",
+    "mitral-valve-area",
+    "pressure-half-time",
+    "pasp"
+  ],
+  "columns": [
+    {
+      "id": "stage",
+      "title": {
+        "en": "Stage",
+        "ru": "Стадия"
+      }
+    },
+    {
+      "id": "definition",
+      "title": {
+        "en": "Definition",
+        "ru": "Определение"
+      }
+    },
+    {
+      "id": "valve_anatomy",
+      "title": {
+        "en": "Valve Anatomy",
+        "ru": "Анатомия клапана"
+      }
+    },
+    {
+      "id": "valve_hemodynamics",
+      "title": {
+        "en": "Valve Hemodynamics",
+        "ru": "Клапанная гемодинамика"
+      }
+    },
+    {
+      "id": "hemodynamic_consequences",
+      "title": {
+        "en": "Hemodynamic Consequences",
+        "ru": "Гемодинамические последствия"
+      }
+    },
+    {
+      "id": "symptoms",
+      "title": {
+        "en": "Symptoms",
+        "ru": "Симптомы"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "stage-a",
+      "cells": [
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        },
+        {
+          "text": {
+            "en": "At risk of MS",
+            "ru": "В группе риска развития МС"
+          }
+        },
+        {
+          "text": {
+            "en": "Mild valve doming during diastole",
+            "ru": "Незначительное куполообразное выбухание (doming) створок в диастолу"
+          }
+        },
+        {
+          "text": {
+            "en": "Normal transmitral flow velocity",
+            "ru": "Нормальная скорость трансмитрального кровотока"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-b",
+      "cells": [
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          }
+        },
+        {
+          "text": {
+            "en": "Progressive MS",
+            "ru": "Прогрессирующий МС"
+          }
+        },
+        {
+          "text": {
+            "en": "Rheumatic valve changes with commissural fusion and diastolic doming of the mitral valve leaflets\nPlanimetered mitral valve area >1.5 cm^2",
+            "ru": "Ревматические изменения клапана со сращением комиссур и диастолическим куполообразным выбуханием створок МК\nПланиметрическая площадь митрального клапана >1,5 см²"
+          }
+        },
+        {
+          "text": {
+            "en": "Increased transmitral flow velocities\nMitral valve area >1.5 cm^2\nDiastolic pressure half-time <150 ms",
+            "ru": "Повышение скорости трансмитрального кровотока\nПлощадь митрального отверстия >1,5 см²\nВремя полуспада диастолического градиента давления (PHT) <150 мс"
+          }
+        },
+        {
+          "text": {
+            "en": "Mild to moderate LA enlargement\nNormal pulmonary pressure at rest",
+            "ru": "Легкая или умеренная дилатация ЛП\nНормальное давление в легочной артерии в покое"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-c",
+      "cells": [
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          }
+        },
+        {
+          "text": {
+            "en": "Asymptomatic severe MS",
+            "ru": "Бессимптомный тяжелый МС"
+          }
+        },
+        {
+          "text": {
+            "en": "Rheumatic valve changes with commissural fusion and diastolic doming of the mitral valve leaflets\nPlanimetered mitral valve area ≤1.5 cm^2",
+            "ru": "Ревматические изменения клапана со сращением комиссур и диастолическим куполообразным выбуханием створок МК\nПланиметрическая площадь митрального клапана ≤1,5 см²"
+          }
+        },
+        {
+          "text": {
+            "en": "Mitral valve area ≤1.5 cm^2\nDiastolic pressure half-time ≥150 ms",
+            "ru": "Площадь митрального отверстия ≤1,5 см²\nВремя полуспада диастолического градиента давления (PHT) ≥150 мс"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe LA enlargement\nElevated PASP >50 mm Hg",
+            "ru": "Выраженная дилатация ЛП\nПовышенное СДЛА >50 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-d",
+      "cells": [
+        {
+          "text": {
+            "en": "D",
+            "ru": "D"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptomatic severe MS",
+            "ru": "Симптомный тяжелый МС"
+          }
+        },
+        {
+          "text": {
+            "en": "Rheumatic valve changes with commissural fusion and diastolic doming of the mitral valve leaflets\nPlanimetered mitral valve area ≤1.5 cm^2",
+            "ru": "Ревматические изменения клапана со сращением комиссур и диастолическим куполообразным выбуханием створок МК\nПланиметрическая площадь митрального клапана ≤1,5 см²"
+          }
+        },
+        {
+          "text": {
+            "en": "Mitral valve area ≤1.5 cm^2\nDiastolic pressure half-time ≥150 ms",
+            "ru": "Площадь митрального отверстия ≤1,5 см²\nВремя полуспада диастолического градиента давления (PHT) ≥150 мс"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe LA enlargement\nElevated PASP >50 mm Hg",
+            "ru": "Выраженная дилатация ЛП\nПовышенное СДЛА >50 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "Decreased exercise tolerance\nExertional dyspnea",
+            "ru": "Снижение толерантности к физической нагрузке\nОдышка при нагрузке"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "The transmitral mean pressure gradient should be obtained to further determine the hemodynamic effect of the MS and is usually >5 mm Hg to 10 mm Hg in severe MS; however, because of the variability of the mean pressure gradient with heart rate and forward flow, it has not been included in the criteria for severity. LA indicates left atrial; MS, mitral stenosis; and PASP, pulmonary artery systolic pressure.",
+      "ru": "Средний трансмитральный градиент давления следует определять для дальнейшей оценки гемодинамического эффекта МС (обычно >5–10 мм рт. ст. при тяжелом МС); однако из-за его вариабельности в зависимости от ЧСС и ударного объема он не включен в строгие критерии тяжести. LA (ЛП) — левое предсердие; MS (МС) — митральный стеноз; PASP (СДЛА) — систолическое давление в легочной артерии."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

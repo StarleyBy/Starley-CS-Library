@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt23-occupation-in-hcm",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 23",
+  "title": {
+    "en": "Recommendations for Occupation in Patients With HCM",
+    "ru": "Рекомендации по трудовой деятельности у пациентов с ГКМП"
+  },
+  "tags": [
+    "hcm",
+    "occupation",
+    "commercial-driving",
+    "aviation",
+    "pilots",
+    "manual-labor"
+  ],
+  "sections": [
+    {
+      "id": "sec-occupation-in-hcm",
+      "title": {
+        "en": "Occupation in Patients With HCM",
+        "ru": "Трудовая деятельность у пациентов с ГКМП"
+      },
+      "rows": [
+        {
+          "id": "r01-commercial-motor-vehicles-driving",
+          "text": {
+            "en": "For patients with HCM, it is reasonable to follow Federal Motor Carrier Safety Administration cardiovascular disease guidelines that permit driving commercial motor vehicles, if they do not have an ICD or any major risk factors for SCD and are using a GDMT plan.",
+            "ru": "У пациентов с ГКМП оправдано следование руководствам по сердечно-сосудистым заболеваниям Федерального управления безопасности автотранспортных средств (FMCSA), разрешающим управление коммерческим автотранспортом, если у них нет ИКД или каких-либо больших факторов риска ВСС и они получают терапию согласно плану ОМТ."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": [1]
+        },
+        {
+          "id": "r02-pilot-aircrew-aviation",
+          "text": {
+            "en": "For pilot aircrew with a diagnosis of HCM, it is reasonable to follow Federal Aviation Administration guidelines that permit consideration of multicrew flying duties, provided they are asymptomatic, are deemed low risk for SCD, and can complete a maximal treadmill stress test at 85% peak heart rate.",
+            "ru": "Для летного экипажа (пилотов) с диагнозом ГКМП оправдано следование руководствам Федерального управления гражданской авиации (FAA), допускающим рассмотрение полетов в составе многочленного экипажа, при условии отсутствия симптомов, низкого расчетного риска ВСС и способности выполнить максимальный тредмил-стресс-тест с достижением 85% пиковой ЧСС."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": [2]
+        },
+        {
+          "id": "r03-manual-labor-heavy-lifting",
+          "text": {
+            "en": "It is reasonable for patients with HCM to consider occupations that require manual labor, heavy lifting, or a high level of physical performance after a comprehensive clinical evaluation, risk stratification for SCD, and implementation of GDMT in the context of shared decision-making.",
+            "ru": "Пациентам с ГКМП оправдано рассматривать профессии, требующие физического труда, подъема тяжестей или высокой физической работоспособности, после комплексного клинического обследования, стратификации риска ВСС и назначения ОМТ в рамках совместного принятия решений."
+          },
+          "class": "IIb",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

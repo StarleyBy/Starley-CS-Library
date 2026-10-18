@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt39-diagnosis-follow-up-prosthetic-valves",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 39",
+  "title": {
+    "en": "Recommendations for Diagnosis and Follow-Up of Prosthetic Valves",
+    "ru": "Рекомендации по диагностике и наблюдению за протезированными клапанами"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-valves",
+    "bioprosthetic-valve",
+    "mechanical-valve",
+    "tavi",
+    "valve-repair",
+    "diagnosis",
+    "follow-up",
+    "tte",
+    "tee",
+    "cardiac-ct",
+    "fluoroscopy",
+    "valve-dysfunction"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnosis-follow-up-prosthetic-valves",
+      "title": {
+        "en": "Diagnosis and Follow-Up of Prosthetic Valves",
+        "ru": "Диагностика и наблюдение за протезированными клапанами"
+      },
+      "rows": [
+        {
+          "id": "r01-initial-postprocedural-tte-baseline",
+          "text": {
+            "en": "In patients with a surgical or transcatheter prosthetic valve and in patients who have had valve repair, an initial postprocedural TTE study is recommended for evaluation of valve hemodynamics and ventricular function.",
+            "ru": "У пациентов с хирургическим или транскатетерным клапанным протезом, а также у пациентов после пластики клапана рекомендуется исходное послеоперационное ТТ-ЭхоКГ для оценки гемодинамики клапана и функции желудочков."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-repeat-tte-symptoms-signs-valve-dysfunction",
+          "text": {
+            "en": "In patients with a prosthetic valve or prior valve repair and a change in clinical symptoms or signs suggesting valve dysfunction, repeat TTE is recommended.",
+            "ru": "У пациентов с клапанным протезом или предшествующей реконструкцией клапана при изменении клинических симптомов или признаков, подозрительных в отношении дисфункции протеза, рекомендуется повторное выполнение ТТ-ЭхоКГ."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r03-multimodality-tee-ct-fluoroscopy-dysfunction",
+          "text": {
+            "en": "In patients with a prosthetic valve replacement or prior valve repair and clinical symptoms or signs that suggest prosthetic valve dysfunction, additional imaging with TEE, gated cardiac CT, or fluoroscopy is recommended, even if TTE does not show valve dysfunction.",
+            "ru": "У пациентов с протезированным клапаном или после пластики клапана при наличии клинических симптомов или признаков дисфункции протеза рекомендуется дополнительная визуализация с помощью ЧП-ЭхоКГ, синхронизированной КТ сердца или рентгеноскопии, даже если ТТ-ЭхоКГ не выявляет нарушений."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": []
+        },
+        {
+          "id": "r04-routine-tte-surgical-bioprosthesis-5-10-years-annually",
+          "text": {
+            "en": "In patients with a bioprosthetic surgical valve, TTE at 5 and 10 years and then annually after implantation is reasonable, even in the absence of a change in clinical status.",
+            "ru": "У пациентов с хирургическим биологическим протезом оправдано проведение ТТ-ЭхоКГ через 5 и 10 лет, а затем ежегодно после имплантации, даже при отсутствии изменений клинического статуса."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": []
+        },
+        {
+          "id": "r05-routine-annual-tte-tavi-bioprosthesis",
+          "text": {
+            "en": "In patients with a bioprosthetic TAVI, TTE annually is reasonable.",
+            "ru": "У пациентов с биологическим протезом TAVI оправдано проведение ТТ-ЭхоКГ ежегодно."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

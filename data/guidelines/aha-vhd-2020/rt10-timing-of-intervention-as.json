@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt10-timing-of-intervention-as",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 10",
+  "title": {
+    "en": "Recommendations for Timing of Intervention of AS",
+    "ru": "Рекомендации по срокам вмешательства при аортальном стенозе"
+  },
+  "tags": [
+    "vhd",
+    "aortic-stenosis",
+    "timing-of-intervention",
+    "avr",
+    "stage-c1",
+    "stage-c2",
+    "stage-d1",
+    "stage-d2",
+    "stage-d3",
+    "bnp",
+    "exercise-testing"
+  ],
+  "sections": [
+    {
+      "id": "sec-timing-of-intervention-as",
+      "title": {
+        "en": "Timing of Intervention of AS",
+        "ru": "Сроки вмешательства при аортальном стенозе"
+      },
+      "rows": [
+        {
+          "id": "r01-symptomatic-high-gradient-stage-d1",
+          "text": {
+            "en": "In adults with severe high-gradient AS (Stage D1) and symptoms of exertional dyspnea, HF, angina, syncope, or presyncope by history or on exercise testing, AVR is indicated.",
+            "ru": "У взрослых пациентов с тяжелым высокоградиентным АС (Стадия D1) и симптомами одышки при нагрузке, сердечной недостаточности, стенокардии, синкопе или пресинкопе (в анамнезе или при нагрузочном тесте) показано протезирование аортального клапана (ПАК/AVR)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-asymptomatic-reduced-ef-stage-c2",
+          "text": {
+            "en": "In asymptomatic patients with severe AS and an LVEF <50% (Stage C2), AVR is indicated.",
+            "ru": "У бессимптомных пациентов с тяжелым АС и сниженной ФВ ЛЖ <50% (Стадия C2) показано ПАК (AVR)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [8, 9, 10, 11]
+        },
+        {
+          "id": "r03-asymptomatic-other-cardiac-surgery-stage-c1",
+          "text": {
+            "en": "In asymptomatic patients with severe AS (Stage C1) who are undergoing cardiac surgery for other indications, AVR is indicated.",
+            "ru": "У бессимптомных пациентов с тяжелым АС (Стадия C1), которым проводится кардиохирургическая операция по другим показаниям, показано сопутствующее ПАК (AVR)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [12, 13, 14, 15, 16]
+        },
+        {
+          "id": "r04-symptomatic-low-flow-reduced-ef-stage-d2",
+          "text": {
+            "en": "In symptomatic patients with low-flow, low-gradient severe AS with reduced LVEF (Stage D2), AVR is recommended.",
+            "ru": "У симптомных пациентов с низкопоточным низкоградиентным тяжелым АС со сниженной ФВ ЛЖ (Стадия D2) рекомендуется ПАК (AVR)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [17, 18, 19, 20, 21, 22, 23, 24]
+        },
+        {
+          "id": "r05-symptomatic-low-flow-normal-ef-stage-d3",
+          "text": {
+            "en": "In symptomatic patients with low-flow, low-gradient severe AS with normal LVEF (Stage D3), AVR is recommended if AS is the most likely cause of symptoms.",
+            "ru": "У симптомных пациентов с низкопоточным низкоградиентным тяжелым АС с сохраненной ФВ ЛЖ (Стадия D3) рекомендуется ПАК (AVR), если стеноз является наиболее вероятной причиной симптомов."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [25, 26, 27]
+        },
+        {
+          "id": "r06-asymptomatic-decreased-tolerance-fall-sbp",
+          "text": {
+            "en": "In apparently asymptomatic patients with severe AS (Stage C1) and low surgical risk, AVR is reasonable when an exercise test demonstrates decreased exercise tolerance (normalized for age and sex) or a fall in systolic blood pressure of ≥10 mm Hg from baseline to peak exercise.",
+            "ru": "У внешне бессимптомных пациентов с тяжелым АС (Стадия C1) и низким хирургическим риском проведение ПАК (AVR) оправдано при выявлении при нагрузочной пробе снижения толерантности к нагрузке (с поправкой на возраст и пол) или падения САД на ≥10 мм рт. ст. от исходного к пику нагрузки."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [13, 28, 29, 30]
+        },
+        {
+          "id": "r07-asymptomatic-very-severe-as",
+          "text": {
+            "en": "In asymptomatic patients with very severe AS (defined as an aortic velocity of ≥5 m/s) and low surgical risk, AVR is reasonable.",
+            "ru": "У бессимптомных пациентов с крайне тяжелым АС (скорость на аортальном клапане ≥5 м/с) и низким хирургическим риском проведение ПАК (AVR) оправдано."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [15, 31, 32, 33, 34, 35]
+        },
+        {
+          "id": "r08-asymptomatic-bnp-over-3x",
+          "text": {
+            "en": "In apparently asymptomatic patients with severe AS (Stage C1) and low surgical risk, AVR is reasonable when the serum B-type natriuretic peptide (BNP) level is >3 times normal.",
+            "ru": "У внешне бессимптомных пациентов с тяжелым АС (Стадия C1) и низким хирургическим риском проведение ПАК (AVR) оправдано при повышении уровня мозгового натрийуретического пептида (BNP) в сыворотке более чем в 3 раза выше нормы."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [32, 36, 37, 38]
+        },
+        {
+          "id": "r09-asymptomatic-rapid-progression-velocity",
+          "text": {
+            "en": "In asymptomatic patients with high-gradient severe AS (Stage C1) and low surgical risk, AVR is reasonable when serial testing shows an increase in aortic velocity ≥0.3 m/s per year.",
+            "ru": "У бессимптомных пациентов с высокоградиентным тяжелым АС (Стадия C1) и низким хирургическим риском проведение ПАК (AVR) оправдано при динамическом приросте аортальной скорости ≥0,3 м/с в год."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [39, 40]
+        },
+        {
+          "id": "r10-asymptomatic-progressive-ef-decline",
+          "text": {
+            "en": "In asymptomatic patients with severe high-gradient AS (Stage C1) and a progressive decrease in LVEF on at least 3 serial imaging studies to <60%, AVR may be considered.",
+            "ru": "У бессимптомных пациентов с тяжелым высокоградиентным АС (Стадия C1) и прогрессирующим снижением ФВ ЛЖ по данным как минимум 3 последовательных исследований до уровня <60% можно рассмотреть выполнение ПАК (AVR)."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [8, 9, 10, 11, 33]
+        },
+        {
+          "id": "r11-moderate-as-other-cardiac-surgery",
+          "text": {
+            "en": "In patients with moderate AS (Stage B) who are undergoing cardiac surgery for other indications, AVR may be considered.",
+            "ru": "У пациентов с умеренным АС (Стадия B), которым проводится кардиохирургическое вмешательство по другим показаниям, можно рассмотреть выполнение сопутствующего ПАК (AVR)."
+          },
+          "class": "IIb",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 11
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

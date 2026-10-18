@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt08-revascularization-infarct-artery-stemi",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 8",
+  "title": {
+    "en": "Recommendations for Revascularization of the Infarct Artery in Patients With STEMI",
+    "ru": "Рекомендации по реваскуляризации инфаркт-связанной артерии у пациентов с ИМпST (STEMI)"
+  },
+  "tags": [
+    "stemi",
+    "infarct-artery",
+    "primary-pci",
+    "cabg",
+    "cardiogenic-shock",
+    "mechanical-complications",
+    "fibrinolysis",
+    "rescue-pci"
+  ],
+  "sections": [
+    {
+      "id": "sec-revasc-infarct-artery-stemi",
+      "title": {
+        "en": "Revascularization of the Infarct Artery in Patients With STEMI",
+        "ru": "Реваскуляризация инфаркт-связанной артерии у пациентов с ИМпST (STEMI)"
+      },
+      "rows": [
+        {
+          "id": "r01-stemi-lt-12h-pci-survival",
+          "text": {
+            "en": "In patients with STEMI and ischemic symptoms for <12 hours, PCI should be performed to improve survival.",
+            "ru": "У пациентов с ИМпST (STEMI) и ишемическими симптомами продолжительностью <12 часов следует выполнять ЧКВ для повышения выживаемости."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-stemi-cardiogenic-shock-pci-cabg",
+          "text": {
+            "en": "In patients with STEMI and cardiogenic shock or hemodynamic instability, PCI or CABG (when PCI is not feasible) is indicated to improve survival, irrespective of the time delay from MI onset.",
+            "ru": "У пациентов с ИМпST (STEMI) и кардиогенным шоком или гемодинамической нестабильностью показано выполнение ЧКВ или КШ (если ЧКВ невыполнимо) для повышения выживаемости, независимо от времени, прошедшего от начала инфаркта."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [6, 7]
+        },
+        {
+          "id": "r03-stemi-mechanical-complications-cabg",
+          "text": {
+            "en": "In patients with STEMI who have mechanical complications (eg, ventricular septal rupture, mitral valve insufficiency because of papillary muscle infarction or rupture, or free wall rupture), CABG is recommended at the time of surgery, with the goal of improving survival.",
+            "ru": "У пациентов с ИМпST (STEMI) и механическими осложнениями (например, дефектом межжелудочковой перегородки, митральной недостаточностью вследствие инфаркта или разрыва сосочковой мышцы, либо разрывом свободной стенки) рекомендуется КШ во время кардиохирургической операции для повышения выживаемости."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [8, 9]
+        },
+        {
+          "id": "r04-stemi-failed-fibrinolysis-rescue-pci",
+          "text": {
+            "en": "In patients with STEMI and evidence of failed reperfusion after fibrinolytic therapy, rescue PCI of the infarct artery should be performed to improve clinical outcomes.",
+            "ru": "У пациентов с ИМпST (STEMI) с признаками неэффективной реперфузии после тромболитической (фибринолитической) терапии следует выполнить спасительное ЧКВ (rescue PCI) на инфаркт-связанной артерии для улучшения клинических исходов."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [10, 11, 12, 13]
+        },
+        {
+          "id": "r05-stemi-fibrinolysis-routine-early-angiography",
+          "text": {
+            "en": "In patients with STEMI who are treated with fibrinolytic therapy, angiography within 3 to 24 hours with the intent to perform PCI is reasonable to improve clinical outcomes.",
+            "ru": "У пациентов с ИМпST (STEMI), получавших фибринолитическую терапию, целесообразно проведение коронарографии в интервале от 3 до 24 часов с намерением выполнить ЧКВ для улучшения клинических исходов."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [14, 15, 16, 17, 18, 19, 20]
+        },
+        {
+          "id": "r06-stemi-stable-12-to-24h-pci",
+          "text": {
+            "en": "In patients with STEMI who are stable and presenting 12 to 24 hours after symptom onset, PCI is reasonable to improve clinical outcomes.",
+            "ru": "У стабильных пациентов с ИМпST (STEMI), поступивших через 12–24 часа от начала симптомов, выполнение ЧКВ целесообразно для улучшения клинических исходов."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [21, 22]
+        },
+        {
+          "id": "r07-stemi-failed-pci-large-area-at-risk-emergency-cabg",
+          "text": {
+            "en": "In patients with STEMI in whom PCI is not feasible or successful, with a large area of myocardium at risk, emergency or urgent CABG can be effective as a reperfusion modality to improve clinical outcomes.",
+            "ru": "У пациентов с ИМпST (STEMI), у которых ЧКВ невыполнимо или безуспешно, при наличии большой зоны миокарда под угрозой, экстренное или неотложное КШ может быть эффективным методом реперфузии для улучшения клинических исходов."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [23, 24]
+        },
+        {
+          "id": "r08-stemi-ongoing-ischemia-hf-arrhythmia-pci",
+          "text": {
+            "en": "In patients with STEMI complicated by ongoing ischemia, acute severe heart failure, or life-threatening arrhythmia, PCI can be beneficial to improve clinical outcomes, irrespective of time delay from MI onset.",
+            "ru": "У пациентов с ИМпST (STEMI), осложненным продолжающейся ишемией, острой тяжелой сердечной недостаточностью или жизнеугрожающими аритмиями, ЧКВ может быть полезно для улучшения клинических исходов независимо от времени, прошедшего от начала инфаркта."
+          },
+          "class": "IIa",
+          "level": "C-EO"
+        },
+        {
+          "id": "r09-stemi-stable-occluded-gt-24h-no-pci",
+          "text": {
+            "en": "In asymptomatic stable patients with STEMI who have a totally occluded infarct artery >24 hours after symptom onset and are without evidence of severe ischemia, PCI should not be performed.",
+            "ru": "У стабильных бессимптомных пациентов с ИМпST (STEMI) с тотально окклюзированной инфаркт-связанной артерией более чем через 24 часа после начала симптомов и при отсутствии признаков выраженной ишемии выполнение ЧКВ не рекомендовано."
+          },
+          "class": "III-no-benefit",
+          "level": "B-R",
+          "refs": [25, 26]
+        },
+        {
+          "id": "r10-stemi-failed-primary-pci-when-cabg-harmful",
+          "text": {
+            "en": "In patients with STEMI, emergency CABG should not be performed after failed primary PCI:",
+            "ru": "У пациентов с ИМпST (STEMI) экстренное КШ не должно выполняться после неудачного первичного ЧКВ:"
+          },
+          "bullets": [
+            {
+              "text": {
+                "en": "In the absence of ischemia or a large area of myocardium at risk, or",
+                "ru": "При отсутствии ишемии или большой зоны миокарда под угрозой, либо"
+              }
+            },
+            {
+              "text": {
+                "en": "If surgical revascularization is not feasible because of a no-reflow state or poor distal targets.",
+                "ru": "Если хирургическая реваскуляризация невыполнима из-за феномена no-reflow или неудовлетворительного дистального русла."
+              }
+            }
+          ],
+          "class": "III-harm",
+          "level": "C-EO"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 10
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

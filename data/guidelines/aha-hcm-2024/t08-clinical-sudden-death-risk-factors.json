@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.t08-clinical-sudden-death-risk-factors",
+  "guidelineId": "aha-hcm-2024",
+  "number": "Table 8",
+  "type": "grid",
+  "title": {
+    "en": "Clinical Sudden Death Risk Factors for Adults and Children With HCM",
+    "ru": "Клинические факторы риска внезапной смерти у взрослых и детей с ГКМП"
+  },
+  "tags": [
+    "hcm",
+    "scd-risk-factors",
+    "sudden-cardiac-death",
+    "massive-lvh",
+    "syncope",
+    "systolic-dysfunction",
+    "apical-aneurysm",
+    "lge",
+    "nsvt",
+    "genotype"
+  ],
+  "columns": [
+    {
+      "id": "risk_factor",
+      "title": {
+        "en": "Risk Factor",
+        "ru": "Фактор риска"
+      }
+    },
+    {
+      "id": "definition",
+      "title": {
+        "en": "Definition / Description",
+        "ru": "Определение / Описание"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "family-history-scd",
+      "cells": [
+        {
+          "text": {
+            "en": "Family history of sudden death from HCM",
+            "ru": "Семейный анамнез внезапной смерти от ГКМП"
+          }
+        },
+        {
+          "text": {
+            "en": "Sudden death judged definitively or likely attributable to HCM in ≥1 first-degree or close relatives who are ≤50 y of age. Close relatives would generally be second-degree relatives; however, multiple SCDs in tertiary relatives should also be considered relevant.",
+            "ru": "Внезапная смерть, определенно или вероятно обусловленная ГКМП, у ≥1 родственника первой линии или близкого родственника в возрасте ≤50 лет. Близкие родственники — это, как правило, родственники второй линии родства; однако множественные случаи ВСС у родственников третьей линии также следует считать значимыми."
+          },
+          "refs": [30, 31]
+        }
+      ]
+    },
+    {
+      "id": "massive-lvh",
+      "cells": [
+        {
+          "text": {
+            "en": "Massive LVH",
+            "ru": "Выраженная (массивная) ГЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "Wall thickness ≥30 mm in any segment within the chamber by echocardiography or CMR imaging; consideration for this morphologic marker is also given to borderline values of ≥28 mm in individual patients at the discretion of the treating cardiologist. For pediatric patients with HCM, an absolute or z-score threshold for wall thickness has not been established; however, a maximal wall thickness that corresponds to a z-score ≥20 (and >10 in conjunction with other risk factors) appears reasonable.",
+            "ru": "Толщина стенки ≥30 мм в любом сегменте ЛЖ по данным ЭхоКГ или МРТ сердца; данный морфологический маркер можно также рассматривать при пограничных значениях ≥28 мм у отдельных пациентов по усмотрению лечащего кардиолога. У детей и подростков с ГКМП абсолютный порог или z-критерий для толщины стенки не установлен; однако максимальная толщина стенки, соответствующая z-score ≥20 (и >10 в сочетании с другими факторами риска), представляется обоснованной."
+          },
+          "refs": [32, 33]
+        }
+      ]
+    },
+    {
+      "id": "unexplained-syncope",
+      "cells": [
+        {
+          "text": {
+            "en": "Unexplained syncope",
+            "ru": "Синкопальные состояния неясного генеза"
+          }
+        },
+        {
+          "text": {
+            "en": "≥1 unexplained episodes involving acute transient loss of consciousness, judged by history unlikely to be of neurocardiogenic (vasovagal) etiology, not attributable to LVOTO, and especially when occurring within 6 mo of evaluation (events beyond 5 y in the past do not appear to have relevance).",
+            "ru": "≥1 необъяснимый эпизод острой транзиторной потери сознания, по данным анамнеза маловероятно связанный с нейрокардиогенным (вазовагальным) механизмом, не обусловленный обструкцией ВТЛЖ, и особенно возникший в течение последних 6 месяцев до обследования (эпизоды более чем 5-летней давности, по-видимому, не имеют клинической значимости)."
+          },
+          "refs": [34]
+        }
+      ]
+    },
+    {
+      "id": "lv-systolic-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "HCM with LV systolic dysfunction",
+            "ru": "ГКМП с систолической дисфункцией ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "Systolic dysfunction with EF <50% by echocardiography or CMR imaging.",
+            "ru": "Систолическая дисфункция со снижением ФВ <50% по данным эхокардиографии или МРТ сердца."
+          },
+          "refs": [24, 27]
+        }
+      ]
+    },
+    {
+      "id": "lv-apical-aneurysm",
+      "cells": [
+        {
+          "text": {
+            "en": "LV apical aneurysm",
+            "ru": "Верхушечная аневризма ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "Apical aneurysm defined as a discrete thin-walled dyskinetic or akinetic segment with transmural scar or LGE of the most distal portion of the LV chamber, independent of size. (In children, apical aneurysm is uncommon, and the risk has not been studied.)",
+            "ru": "Аневризма верхушки, определяемая как обособленный тонкостенный дискинетичный или акинетичный сегмент с трансмуральным рубцом или LGE в наиболее дистальном отделе полости ЛЖ, независимо от ее размера. (У детей аневризма верхушки встречается редко, и риск не изучен)."
+          },
+          "refs": [15, 16]
+        }
+      ]
+    },
+    {
+      "id": "extensive-lge",
+      "cells": [
+        {
+          "text": {
+            "en": "Extensive LGE on CMR imaging",
+            "ru": "Обширное накопление контраста (LGE) на МРТ"
+          }
+        },
+        {
+          "text": {
+            "en": "Extensive LGE, representing replacement fibrosis, either quantified or estimated by visual inspection, comprising ≥15% of LV mass (extent of LGE conferring risk has not been defined in children).",
+            "ru": "Обширное LGE, отражающее заместительный фиброз, количественно определенное или визуально оцененное в объеме ≥15% массы миокарда ЛЖ (объем LGE, определяющий риск у детей, не установлен)."
+          },
+          "refs": [9, 10, 11, 20, 21, 22, 35]
+        }
+      ]
+    },
+    {
+      "id": "nsvt-ambulatory-monitor",
+      "cells": [
+        {
+          "text": {
+            "en": "NSVT on ambulatory monitor",
+            "ru": "Неустойчивая ЖТ (НУЖТ) при амбулаторном мониторировании"
+          }
+        },
+        {
+          "text": {
+            "en": "≥3 beats at ≥120 bpm has generally been used in studies. It would seem most appropriate to place greater weight on NSVT as a risk marker when runs are frequent (eg, ≥3), longer (eg, ≥10 beats), or faster (eg, ≥200 bpm) occurring usually over 24 to 48 h of monitoring. For pediatric patients, a VT rate that exceeds the baseline sinus rate by >20% is considered significant.",
+            "ru": "В исследованиях обычно использовался критерий ≥3 комплексов с ЧСС ≥120 уд/мин. Наиболее обоснованным представляется придавать больший вес НУЖТ как маркеру риска при частых (например, ≥3), более продолжительных (например, ≥10 комплексов) или более быстрых пробежках (например, ≥200 уд/мин), регистрируемых обычно за 24–48 часов мониторирования. У детей значимой считается частота ЖТ, превышающая исходный синусовый ритм более чем на 20%."
+          },
+          "refs": [36, 37]
+        }
+      ]
+    },
+    {
+      "id": "genotype-status",
+      "cells": [
+        {
+          "text": {
+            "en": "Genotype status",
+            "ru": "Генотипический статус"
+          }
+        },
+        {
+          "text": {
+            "en": "Genotype-positive status (ie, harboring a putatively disease-causing pathogenic/likely pathogenic variant) is associated with higher SCD risk in pediatric patients with HCM.",
+            "ru": "Генотип-положительный статус (наличие патогенного или вероятно патогенного причинного варианта) ассоциирован с более высоким риском ВСС у детей и подростков с ГКМП."
+          },
+          "refs": [13, 14]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "bpm indicates beats/min; CMR, cardiovascular magnetic resonance; EF, ejection fraction; HCM, hypertrophic cardiomyopathy; LGE, late gadolinium enhancement; LV, left ventricular; LVH, left ventricular hypertrophy; LVOTO, left ventricular outflow tract obstruction; NSVT, nonsustained ventricular tachycardia; SCD, sudden cardiac death; and VT, ventricular tachycardia.",
+      "ru": "bpm — ударов в минуту; CMR (МРТ) — магнитно-резонансная томография сердца; EF (ФВ) — фракция выброса; HCM (ГКМП) — гипертрофическая кардиомиопатия; LGE — отсроченное контрастирование гадолинием; LV (ЛЖ) — левый желудочек; LVH (ГЛЖ) — гипертрофия левого желудочка; LVOTO — обструкция выходного тракта левого желудочка; NSVT (НУЖТ) — неустойчивая желудочковая тахикардия; SCD (ВСС) — внезапная сердечная смерть; VT (ЖТ) — желудочковая тахикардия."
+    }
+  },
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

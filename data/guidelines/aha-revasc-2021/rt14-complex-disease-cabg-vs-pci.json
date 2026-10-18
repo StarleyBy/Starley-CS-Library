@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt14-complex-disease-cabg-vs-pci",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 14",
+  "title": {
+    "en": "Recommendations for Patients With Complex Disease",
+    "ru": "Рекомендации для пациентов со сложным поражением коронарного русла"
+  },
+  "tags": [
+    "complex-cad",
+    "left-main",
+    "syntax-score",
+    "multivessel",
+    "cabg",
+    "pci",
+    "survival"
+  ],
+  "sections": [
+    {
+      "id": "sec-patients-complex-disease",
+      "title": {
+        "en": "Patients With Complex Disease",
+        "ru": "Пациенты со сложным поражением коронарного русла"
+      },
+      "rows": [
+        {
+          "id": "r01-significant-left-main-high-complexity-cabg-over-pci",
+          "text": {
+            "en": "In patients who require revascularization for significant left main CAD with high-complexity CAD, it is recommended to choose CABG over PCI to improve survival.",
+            "ru": "У пациентов, нуждающихся в реваскуляризации по поводу значимого стеноза ствола ЛКА в сочетании с высокой анатомической сложностью поражения коронарного русла, рекомендуется отдавать предпочтение КШ перед ЧКВ для повышения выживаемости."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-multivessel-complex-syntax-gt-33-cabg-over-pci",
+          "text": {
+            "en": "In patients who require revascularization for multivessel CAD with complex or diffuse CAD (eg, SYNTAX score >33), it is reasonable to choose CABG over PCI to confer a survival advantage.",
+            "ru": "У пациентов, нуждающихся в реваскуляризации по поводу многососудистого поражения со сложной анатомией или диффузным поражением (например, по шкале SYNTAX >33), целесообразно отдавать предпочтение КШ перед ЧКВ для получения преимущества в выживаемости."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [3, 4, 5, 6, 7, 8]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

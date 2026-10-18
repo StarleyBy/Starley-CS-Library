@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt25-diagnostic-testing-initial-diagnosis-chronic-mr",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 25",
+  "title": {
+    "en": "Recommendations for Diagnostic Testing: Initial Diagnosis of Chronic MR",
+    "ru": "Рекомендации по диагностическому обследованию: первичная диагностика хронической митральной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "mitral-regurgitation",
+    "primary-mr",
+    "chronic-mr",
+    "diagnostic-testing",
+    "tte",
+    "tee",
+    "cmr",
+    "intraoperative-tee"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnostic-testing-initial-diagnosis-chronic-mr",
+      "title": {
+        "en": "Diagnostic Testing: Initial Diagnosis of Chronic MR",
+        "ru": "Диагностическое обследование: первичная диагностика хронической митральной регургитации"
+      },
+      "rows": [
+        {
+          "id": "r01-tte-baseline-evaluation-primary-mr",
+          "text": {
+            "en": "In patients with known or suspected primary MR, TTE is indicated for baseline evaluation of LV size and function, RV function, LA size, pulmonary artery pressure, and the mechanism and severity of primary MR (Stages A to D).",
+            "ru": "У пациентов с установленной или подозреваемой первичной МР показана исходная ТТ-ЭхоКГ для оценки размеров и функции ЛЖ, функции ПЖ, размеров ЛП, давления в легочной артерии, а также механизма и степени тяжести первичной МР (Стадии A–D)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-tee-insufficient-discordant-tte",
+          "text": {
+            "en": "In patients with primary MR, when TTE provides insufficient or discordant information, TEE is indicated for evaluation of the severity of MR, mechanism of MR, and status of LV function (Stages B to D).",
+            "ru": "У пациентов с первичной МР при получении недостаточных или противоречивых данных при ТТ-ЭхоКГ показана ЧП-ЭхоКГ для оценки тяжести МР, механизма регургитации и состояния систолической функции ЛЖ (Стадии B–D)."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r03-cmr-lv-rv-volumes-discrepancy",
+          "text": {
+            "en": "In patients with primary MR, CMR is indicated to assess LV and RV volumes and function and may help with assessing MR severity when there is a discrepancy between the findings on clinical assessment and echocardiography.",
+            "ru": "У пациентов с первичной МР показана МРТ сердца для оценки объемов и функции ЛЖ и ПЖ, а также для уточнения тяжести МР при расхождении клинических данных и результатов эхокардиографии."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [6, 7, 8, 9]
+        },
+        {
+          "id": "r04-intraoperative-tee-mitral-intervention",
+          "text": {
+            "en": "In patients with severe primary MR undergoing mitral intervention, intraoperative TEE is indicated to establish the anatomic basis for primary MR (Stages C and D) and to guide repair.",
+            "ru": "У пациентов с тяжелой первичной МР, подвергающихся вмешательству на митральном клапане, интраоперационная ЧП-ЭхоКГ показана для уточнения анатомической основы МР (Стадии C и D) и контроля пластики."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [10, 11]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

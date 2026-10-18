@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt34-aspirin-oral-p2y12-inhibitors-pci",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 34",
+  "title": {
+    "en": "Recommendations for Aspirin and Oral P2Y12 Inhibitors in Patients Undergoing PCI",
+    "ru": "Рекомендации по назначению аспирина и пероральных ингибиторов P2Y12 у пациентов, проходящих ЧКВ"
+  },
+  "tags": [
+    "pharmacotherapy",
+    "aspirin",
+    "p2y12-inhibitors",
+    "clopidogrel",
+    "ticagrelor",
+    "prasugrel",
+    "pci",
+    "acs",
+    "sihd",
+    "dapt"
+  ],
+  "sections": [
+    {
+      "id": "sec-aspirin-oral-p2y12-inhibitors-pci",
+      "title": {
+        "en": "Aspirin and Oral P2Y12 Inhibitors in Patients Undergoing PCI",
+        "ru": "Аспирин и пероральные ингибиторы P2Y12 у пациентов, проходящих ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r01-aspirin-loading-maintenance-pci",
+          "text": {
+            "en": "In patients undergoing PCI, a loading dose of aspirin, followed by daily dosing, is recommended to reduce ischemic events.",
+            "ru": "У пациентов, которым проводится ЧКВ, рекомендуется нагрузочная доза аспирина с последующим ежедневным приемом для снижения частоты ишемических событий."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-acs-pci-p2y12-loading-maintenance",
+          "text": {
+            "en": "In patients with ACS undergoing PCI, a loading dose of P2Y12 inhibitor, followed by daily dosing, is recommended to reduce ischemic events.",
+            "ru": "У пациентов с ОКС (ACS), которым проводится ЧКВ, рекомендуется нагрузочная доза ингибитора P2Y12 с последующим ежедневным приемом для снижения частоты ишемических событий."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+        },
+        {
+          "id": "r03-sihd-pci-clopidogrel-loading-maintenance",
+          "text": {
+            "en": "In patients with SIHD undergoing PCI, a loading dose of clopidogrel, followed by daily dosing, is recommended to reduce ischemic events.",
+            "ru": "У пациентов со стабильной ИБС (SIHD), которым проводится ЧКВ, рекомендуется нагрузочная доза клопидогрела с последующим ежедневным приемом для снижения частоты ишемических событий."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [8, 12, 15, 16, 17, 18, 19]
+        },
+        {
+          "id": "r04-post-fibrinolysis-pci-clopidogrel-300mg",
+          "text": {
+            "en": "In patients undergoing PCI within 24 hours after fibrinolytic therapy, a loading dose of 300 mg of clopidogrel, followed by daily dosing, is recommended to reduce ischemic events.",
+            "ru": "У пациентов, которым проводится ЧКВ в пределах 24 часов после тромболитической терапии, рекомендуется нагрузочная доза клопидогрела 300 мг с последующим ежедневным приемом для снижения частоты ишемических событий."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [5]
+        },
+        {
+          "id": "r05-acs-pci-ticagrelor-prasugrel-over-clopidogrel",
+          "text": {
+            "en": "In patients with ACS undergoing PCI, it is reasonable to use ticagrelor or prasugrel in preference to clopidogrel to reduce ischemic events, including stent thrombosis.",
+            "ru": "У пациентов с ОКС (ACS), которым проводится ЧКВ, целесообразно использовать тикагрелор или прасугрел предпочтительнее клопидогрела для снижения частоты ишемических событий, включая тромбоз стента."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [5, 14, 20]
+        },
+        {
+          "id": "r06-post-fibrinolysis-pci-lt-75yo-ticagrelor-alternative",
+          "text": {
+            "en": "In patients <75 years of age undergoing PCI within 24 hours after fibrinolytic therapy, ticagrelor may be a reasonable alternative to clopidogrel to reduce ischemic events.",
+            "ru": "У пациентов в возрасте <75 лет, которым проводится ЧКВ в пределах 24 часов после тромболитической терапии, тикагрелор может рассматриваться как разумная альтернатива клопидогрелу для снижения частоты ишемических событий."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [21]
+        },
+        {
+          "id": "r07-prior-stroke-tia-no-prasugrel-harm",
+          "text": {
+            "en": "In patients undergoing PCI who have a history of stroke or transient ischemic attack, prasugrel should not be administered.",
+            "ru": "У пациентов, которым проводится ЧКВ, имеющих в анамнезе инсульт или транзиторную ишемическую атаку (ТИА), прасугрел не должен назначаться."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [6]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Contraindications to ticagrelor: previous intracranial hemorrhage or ongoing bleeding. Contraindications to prasugrel: previous intracranial hemorrhage, previous ischemic stroke or transient ischemic attack, or ongoing bleeding. Prasugrel should be used with caution at a lower dose in patients ≥75 years of age or with a body weight <60 kg.",
+      "ru": "Противопоказания к тикагрелору: внутричерепное кровоизлияние в анамнезе или продолжающееся кровотечение. Противопоказания к прасугрелу: внутричерепное кровоизлияние в анамнезе, перенесенный ишемический инсульт или ТИА, продолжающееся кровотечение. Прасугрел следует применять с осторожностью в сниженной дозе у пациентов в возрасте ≥75 лет или с массой тела <60 кг."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

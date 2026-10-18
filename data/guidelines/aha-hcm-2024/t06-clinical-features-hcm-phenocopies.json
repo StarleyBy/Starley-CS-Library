@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.t06-clinical-features-hcm-phenocopies",
+  "guidelineId": "aha-hcm-2024",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Clinical Features in Patients With HCM Phenocopies (Mimics)",
+    "ru": "Клинические признаки у пациентов с фенокопиями («масками») ГКМП"
+  },
+  "tags": [
+    "hcm",
+    "phenocopies",
+    "mimics",
+    "differential-diagnosis",
+    "rasopathies",
+    "fabry-disease",
+    "amyloidosis",
+    "glycogen-storage-disease",
+    "mitochondrial-disease"
+  ],
+  "columns": [
+    {
+      "id": "typical_presentation_age",
+      "title": {
+        "en": "Typical Presentation Age",
+        "ru": "Типичный возраст манифестации"
+      }
+    },
+    {
+      "id": "systemic_features",
+      "title": {
+        "en": "Systemic Features",
+        "ru": "Системные проявления"
+      }
+    },
+    {
+      "id": "possible_etiology",
+      "title": {
+        "en": "Possible Etiology",
+        "ru": "Возможная этиология"
+      }
+    },
+    {
+      "id": "diagnostic_approach",
+      "title": {
+        "en": "Diagnostic Approach",
+        "ru": "Диагностический подход"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "infants-and-toddlers",
+      "cells": [
+        {
+          "text": {
+            "en": "Infants (0-12 mo) and toddlers",
+            "ru": "Младенцы (0–12 мес) и дети раннего возраста"
+          }
+        },
+        {
+          "text": {
+            "en": "Dysmorphic features, failure to thrive, metabolic acidosis",
+            "ru": "Дизморфические черты, задержка физического развития (failure to thrive), метаболический ацидоз"
+          }
+        },
+        {
+          "text": {
+            "en": "RASopathies\nGlycogen storage diseases, other metabolic or mitochondrial diseases\nInfant of a mother with diabetes",
+            "ru": "RASопатии\nБолезни накопления гликогена, другие метаболические или митохондриальные болезни\nМладенец от матери с сахарным диабетом"
+          }
+        },
+        {
+          "text": {
+            "en": "Geneticist assessment\nNewborn metabolic screening\nSpecific metabolic assays\nGenetic testing",
+            "ru": "Консультация генетика\nНеонатальный метаболический скрининг\nСпецифические биохимические/метаболические анализы\nГенетическое тестирование"
+          }
+        }
+      ]
+    },
+    {
+      "id": "early-childhood",
+      "cells": [
+        {
+          "text": {
+            "en": "Early childhood",
+            "ru": "Ранний детский возраст"
+          }
+        },
+        {
+          "text": {
+            "en": "Delayed or abnormal cognitive development, visual or hearing impairment",
+            "ru": "Задержка или нарушение когнитивного развития, нарушения зрения или слуха"
+          }
+        },
+        {
+          "text": {
+            "en": "RASopathies\nMitochondrial diseases",
+            "ru": "RASопатии\nМитохондриальные заболевания"
+          }
+        },
+        {
+          "text": {
+            "en": "Biochemical screening\nGenetic testing",
+            "ru": "Биохимический скрининг\nГенетическое тестирование"
+          }
+        }
+      ]
+    },
+    {
+      "id": "youth-and-adolescence",
+      "cells": [
+        {
+          "text": {
+            "en": "Youth and adolescence",
+            "ru": "Подростковый и юношеский возраст"
+          }
+        },
+        {
+          "text": {
+            "en": "Skeletal muscle weakness or movement disorder",
+            "ru": "Слабость скелетных мышц или двигательные нарушения"
+          }
+        },
+        {
+          "text": {
+            "en": "Friedreich's ataxia\nDanon disease\nMitochondrial disease",
+            "ru": "Атаксия Фридрейха\nБолезнь Данона\nМитохондриальные заболевания"
+          }
+        },
+        {
+          "text": {
+            "en": "Biochemical screening\nNeuromuscular assessment\nGenetic testing",
+            "ru": "Биохимический скрининг\nОсмотр невролога (оценка нервно-мышечной системы)\nГенетическое тестирование"
+          }
+        }
+      ]
+    },
+    {
+      "id": "adulthood",
+      "cells": [
+        {
+          "text": {
+            "en": "Adulthood",
+            "ru": "Взрослый возраст"
+          }
+        },
+        {
+          "text": {
+            "en": "Movement disorder, peripheral neuropathy, renal dysfunction",
+            "ru": "Двигательные расстройства, периферическая нейропатия, почечная дисфункция"
+          }
+        },
+        {
+          "text": {
+            "en": "Anderson-Fabry disease\nFriedreich's ataxia\nInfiltrative disorders (eg, amyloidosis)\nGlycogen storage diseases\nMitochondrial disease",
+            "ru": "Болезнь Андерсона–Фабри\nАтаксия Фридрейха\nИнфильтративные заболевания (например, амилоидоз)\nБолезни накопления гликогена\nМитохондриальные заболевания"
+          }
+        },
+        {
+          "text": {
+            "en": "Biochemical screening\nNeuromuscular assessment\nGenetic testing",
+            "ru": "Биохимический скрининг\nНервно-мышечное обследование\nГенетическое тестирование"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "HCM indicates hypertrophic cardiomyopathy.",
+      "ru": "HCM (ГКМП) — гипертрофическая кардиомиопатия."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

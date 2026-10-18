@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt11-choice-mechanical-vs-bioprosthetic-avr",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 11",
+  "title": {
+    "en": "Recommendations for Choice of Mechanical Versus Bioprosthetic AVR",
+    "ru": "Рекомендации по выбору механического или биологического протеза при протезировании аортального клапана"
+  },
+  "tags": [
+    "vhd",
+    "aortic-stenosis",
+    "avr",
+    "mechanical-valve",
+    "bioprosthetic-valve",
+    "ross-procedure",
+    "shared-decision-making",
+    "anticoagulation",
+    "age"
+  ],
+  "sections": [
+    {
+      "id": "sec-choice-mechanical-vs-bioprosthetic-avr",
+      "title": {
+        "en": "Choice of Mechanical Versus Bioprosthetic AVR",
+        "ru": "Выбор механического или биологического протеза при ПАК"
+      },
+      "rows": [
+        {
+          "id": "r01-shared-decision-making-avr-prosthesis",
+          "text": {
+            "en": "In patients with an indication for AVR, the choice of prosthetic valve should be based on a shared decision-making process that accounts for the patient's values and preferences and includes discussion of the indications for and risks of anticoagulant therapy and the potential need for and risks associated with valve reintervention.",
+            "ru": "У пациентов с показаниями к ПАК выбор типа протеза должен основываться на совместном принятии решений с учетом ценностей и предпочтений пациента, включая обсуждение показаний и рисков антикоагулянтной терапии, а также потенциальной необходимости и рисков повторного вмешательства на клапане."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r02-vka-contraindicated-bioprosthesis",
+          "text": {
+            "en": "For patients of any age requiring AVR for whom VKA anticoagulant therapy is contraindicated, cannot be managed appropriately, or is not desired, a bioprosthetic AVR is recommended.",
+            "ru": "Пациентам любого возраста, нуждающимся в ПАК, у которых терапия АВК противопоказана, не может надлежащим образом контролироваться или нежелательна, рекомендуется биологический протез аортального клапана."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r03-age-under-50-mechanical-valve",
+          "text": {
+            "en": "For patients <50 years of age who do not have a contraindication to anticoagulation and require AVR, it is reasonable to choose a mechanical aortic prosthesis over a bioprosthetic valve.",
+            "ru": "У пациентов в возрасте <50 лет, не имеющих противопоказаний к антикоагулянтной терапии и нуждающихся в ПАК, оправдан выбор механического аортального протеза вместо биологического."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1]
+        },
+        {
+          "id": "r04-age-50-to-65-individualized-choice",
+          "text": {
+            "en": "For patients 50 to 65 years of age who require AVR and who do not have a contraindication to anticoagulation, it is reasonable to individualize the choice of either a mechanical or bioprosthetic AVR with consideration of individual patient factors and after informed shared decision-making.",
+            "ru": "У пациентов в возрасте от 50 до 65 лет, нуждающихся в ПАК и не имеющих противопоказаний к антикоагулянтной терапии, оправдан индивидуализированный выбор между механическим и биологическим протезом с учетом индивидуальных факторов пациента и после совместного информированного принятия решений."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+          "id": "r05-age-over-65-bioprosthesis",
+          "text": {
+            "en": "In patients >65 years of age who require AVR, it is reasonable to choose a bioprosthesis over a mechanical valve.",
+            "ru": "У пациентов в возрасте >65 лет, нуждающихся в ПАК, оправдан выбор биологического протеза вместо механического клапана."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1]
+        },
+        {
+          "id": "r06-ross-procedure-under-50",
+          "text": {
+            "en": "In patients <50 years of age who prefer a bioprosthetic AVR and have appropriate anatomy, replacement of the aortic valve by a pulmonic autograft (the Ross procedure) may be considered at a Comprehensive Valve Center.",
+            "ru": "У пациентов в возрасте <50 лет, предпочитающих биологический протез и имеющих подходящую анатомию, в экспертном клапанном центре может быть рассмотрена операция Росса (замещение аортального клапана легочным аутографтом)."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [11, 12, 13]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

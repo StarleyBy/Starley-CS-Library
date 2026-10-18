@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt16-previous-cabg-repeat-revascularization",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 16",
+  "title": {
+    "en": "Recommendations for Patients With Previous CABG",
+    "ru": "Рекомендации для пациентов с ранее перенесенным КШ"
+  },
+  "tags": [
+    "previous-cabg",
+    "repeat-revascularization",
+    "patent-lima",
+    "pci-over-cabg",
+    "refractory-angina",
+    "gdmt",
+    "ima"
+  ],
+  "sections": [
+    {
+      "id": "sec-patients-previous-cabg",
+      "title": {
+        "en": "Patients With Previous CABG",
+        "ru": "Пациенты с ранее перенесенным КШ"
+      },
+      "rows": [
+        {
+          "id": "r01-previous-cabg-patent-lima-pci-over-cabg",
+          "text": {
+            "en": "In patients with previous CABG with a patent LIMA to the LAD who need repeat revascularization, if PCI is feasible, it is reasonable to choose PCI over CABG.",
+            "ru": "У пациентов с ранее перенесенным КШ и функционирующим маммарным шунтом (LIMA к LAD), нуждающихся в повторной реваскуляризации, при технической осуществимости ЧКВ целесообразно предпочесть ЧКВ повторному КШ."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-previous-cabg-refractory-angina-ima-to-lad-cabg-over-pci",
+          "text": {
+            "en": "In patients with previous CABG and refractory angina on GDMT that is attributable to LAD disease, it is reasonable to choose CABG over PCI when an internal mammary artery (IMA) can be used as a conduit to the LAD.",
+            "ru": "У пациентов с ранее перенесенным КШ и рефрактерной стенокардией на фоне ОМТ (GDMT), обусловленной поражением ПМЖВ (LAD), целесообразно выбрать КШ предпочтительнее ЧКВ, если внутренняя грудная артерия (IMA) может быть использована в качестве кондуита к LAD."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [3, 4]
+        },
+        {
+          "id": "r03-previous-cabg-complex-cad-ima-to-lad-cabg-over-pci",
+          "text": {
+            "en": "In patients with previous CABG and complex CAD, it may be reasonable to choose CABG over PCI when an IMA can be used as a conduit to the LAD.",
+            "ru": "У пациентов с ранее перенесенным КШ и сложным поражением коронарного русла выбор КШ предпочтительнее ЧКВ может быть целесообразным, если внутренняя грудная артерия (IMA) может быть использована в качестве кондуита к LAD."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

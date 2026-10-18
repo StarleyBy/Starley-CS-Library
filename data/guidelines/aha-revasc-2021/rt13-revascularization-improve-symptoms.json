@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt13-revascularization-improve-symptoms",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 13",
+  "title": {
+    "en": "Recommendations for Revascularization to Improve Symptoms",
+    "ru": "Рекомендации по реваскуляризации для уменьшения симптомов"
+  },
+  "tags": [
+    "revascularization",
+    "symptoms",
+    "angina",
+    "refractory-angina",
+    "medical-therapy",
+    "cabg",
+    "pci"
+  ],
+  "sections": [
+    {
+      "id": "sec-revasc-improve-symptoms",
+      "title": {
+        "en": "Revascularization to Improve Symptoms",
+        "ru": "Реваскуляризация для уменьшения симптомов"
+      },
+      "rows": [
+        {
+          "id": "r01-refractory-angina-revascularization-recommended",
+          "text": {
+            "en": "In patients with refractory angina despite medical therapy and with significant coronary artery stenoses amenable to revascularization, revascularization is recommended to improve symptoms.",
+            "ru": "У пациентов с рефрактерной стенокардией, несмотря на медикаментозную терапию, и с гемодинамически значимыми стенозами коронарных артерий, пригодными для вмешательства, рекомендуется реваскуляризация для уменьшения выраженности симптомов."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r02-angina-no-anatomic-physiologic-criteria-harm",
+          "text": {
+            "en": "In patients with angina but no anatomic or physiological criteria for revascularization, neither CABG nor PCI should be performed.",
+            "ru": "У пациентов со стенокардией при отсутствии анатомических или физиологических критериев для реваскуляризации не следует выполнять ни КШ, ни ЧКВ."
+          },
+          "class": "III-harm",
+          "level": "C-LD",
+          "refs": [7, 8]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt27-use-intravascular-imaging",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 27",
+  "title": {
+    "en": "Recommendations for Use of Intravascular Imaging",
+    "ru": "Рекомендации по применению методов внутрисосудистой визуализации"
+  },
+  "tags": [
+    "intravascular-imaging",
+    "ivus",
+    "oct",
+    "stent-implantation",
+    "left-main",
+    "stent-failure"
+  ],
+  "sections": [
+    {
+      "id": "sec-use-intravascular-imaging",
+      "title": {
+        "en": "Use of Intravascular Imaging",
+        "ru": "Применение методов внутрисосудистой визуализации"
+      },
+      "rows": [
+        {
+          "id": "r01-stent-implantation-ivus-guidance",
+          "text": {
+            "en": "In patients undergoing coronary stent implantation, IVUS can be useful for procedural guidance, particularly in cases of left main or complex coronary artery stenting, to reduce ischemic events.",
+            "ru": "У пациентов, которым выполняется имплантация коронарных стентов, ВСУЗИ (IVUS) может быть полезным для интраоперационной навигации, особенно при стентировании ствола ЛКА или сложных поражений коронарных артерий, для снижения частоты ишемических событий."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+          "id": "r02-stent-implantation-oct-alternative-to-ivus",
+          "text": {
+            "en": "In patients undergoing coronary stent implantation, OCT is a reasonable alternative to IVUS for procedural guidance, except in ostial left main disease.",
+            "ru": "У пациентов, которым выполняется имплантация коронарных стентов, ОКТ (OCT) является разумной альтернативой ВСУЗИ (IVUS) для интраоперационной навигации, за исключением поражения устья ствола ЛКА."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [11, 12, 13]
+        },
+        {
+          "id": "r03-stent-failure-ivus-or-oct-mechanism",
+          "text": {
+            "en": "In patients with stent failure, IVUS or OCT is reasonable to determine the mechanism of stent failure.",
+            "ru": "У пациентов с несостоятельностью стента целесообразно выполнение ВСУЗИ (IVUS) или ОКТ (OCT) для определения механизма несостоятельности стента."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [14, 15, 16, 17]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

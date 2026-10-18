@@ -1,0 +1,249 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t17-stages-of-chronic-primary-mr",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 17",
+  "type": "grid",
+  "title": {
+    "en": "Stages of Chronic Primary MR",
+    "ru": "Стадии хронической первичной митральной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "mitral-regurgitation",
+    "primary-mr",
+    "stages-of-mr",
+    "stage-a",
+    "stage-b",
+    "stage-c",
+    "stage-d",
+    "mitral-valve-prolapse",
+    "flail-leaflet",
+    "regurgitant-volume",
+    "ero",
+    "lvef",
+    "lvesd"
+  ],
+  "columns": [
+    {
+      "id": "stage",
+      "title": {
+        "en": "Stage",
+        "ru": "Стадия"
+      }
+    },
+    {
+      "id": "definition",
+      "title": {
+        "en": "Definition",
+        "ru": "Определение"
+      }
+    },
+    {
+      "id": "valve_anatomy",
+      "title": {
+        "en": "Valve Anatomy",
+        "ru": "Анатомия клапана"
+      }
+    },
+    {
+      "id": "valve_hemodynamics",
+      "title": {
+        "en": "Valve Hemodynamics*",
+        "ru": "Клапанная гемодинамика*"
+      }
+    },
+    {
+      "id": "hemodynamic_consequences",
+      "title": {
+        "en": "Hemodynamic Consequences",
+        "ru": "Гемодинамические последствия"
+      }
+    },
+    {
+      "id": "symptoms",
+      "title": {
+        "en": "Symptoms",
+        "ru": "Симптомы"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "stage-a",
+      "cells": [
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        },
+        {
+          "text": {
+            "en": "At risk of MR",
+            "ru": "В группе риска развития МР"
+          }
+        },
+        {
+          "text": {
+            "en": "Mild mitral valve prolapse with normal coaptation\nMild valve thickening and leaflet restriction",
+            "ru": "Незначительный пролапс митрального клапана с нормальной коаптацией\nЛегкое утолщение створок и легкое ограничение их подвижности"
+          }
+        },
+        {
+          "text": {
+            "en": "No MR jet or small central jet area <20% LA on Doppler\nSmall vena contracta <0.3 cm",
+            "ru": "Струя МР отсутствует или небольшая центральная струя площадью <20% ЛП по данным допплерографии\nУзкая vena contracta <0,3 см"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-b",
+      "cells": [
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          }
+        },
+        {
+          "text": {
+            "en": "Progressive MR",
+            "ru": "Прогрессирующая МР"
+          }
+        },
+        {
+          "text": {
+            "en": "Moderate to severe mitral valve prolapse with normal coaptation\nRheumatic valve changes with leaflet restriction and loss of central coaptation\nPrior IE",
+            "ru": "Умеренный или выраженный пролапс МК с сохранной нормальной коаптацией\nРевматические изменения клапана с ограничением подвижности створок и потерей центральной коаптации\nПеренесенный ИЭ"
+          }
+        },
+        {
+          "text": {
+            "en": "Central jet MR 20%–40% LA or late systolic eccentric jet MR\nVena contracta <0.7 cm\nRegurgitant volume <60 mL\nRegurgitant fraction <50%\nERO <0.40 cm^2\nAngiographic grade 1+ to 2+",
+            "ru": "Центральная струя МР 20%–40% площади ЛП или позднесистолическая эксцентрическая струя МР\nVena contracta <0,7 см\nОбъем регургитации <60 мл\nФракция регургитации <50%\nЭффективная площадь отверстия регургитации (ERO) <0,40 см²\nАнгиографическая градация 1+ – 2+"
+          }
+        },
+        {
+          "text": {
+            "en": "Mild LA enlargement\nNo LV enlargement\nNormal pulmonary pressure",
+            "ru": "Легкая дилатация ЛП\nДилатация ЛЖ отсутствует\nНормальное давление в легочной артерии"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-c",
+      "cells": [
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          }
+        },
+        {
+          "text": {
+            "en": "Asymptomatic severe MR",
+            "ru": "Бессимптомная тяжелая МР"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe mitral valve prolapse with loss of coaptation or flail leaflet\nRheumatic valve changes with leaflet restriction and loss of central coaptation\nPrior IE\nThickening of leaflets with radiation heart disease",
+            "ru": "Выраженный пролапс МК с утратой коаптации или отрывом/флотированием створки\nРевматические изменения клапана с ограничением подвижности створок и утратой центральной коаптации\nПеренесенный ИЭ\nУтолщение створок вследствие лучевого поражения сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "Central jet MR >40% LA or holosystolic eccentric jet MR\nVena contracta ≥0.7 cm\nRegurgitant volume ≥60 mL\nRegurgitant fraction ≥50%\nERO ≥0.40 cm^2\nAngiographic grade 3+ to 4+",
+            "ru": "Центральная струя МР >40% площади ЛП или пансистолическая эксцентрическая струя МР\nVena contracta ≥0,7 см\nОбъем регургитации ≥60 мл\nФракция регургитации ≥50%\nЭффективная площадь отверстия регургитации (ERO) ≥0,40 см²\nАнгиографическая градация 3+ – 4+"
+          }
+        },
+        {
+          "text": {
+            "en": "Moderate or severe LA enlargement\nLV enlargement\nPulmonary hypertension may be present at rest or with exercise\nC1: LVEF >60% and LVESD <40 mm\nC2: LVEF ≤60% and/or LVESD ≥40 mm",
+            "ru": "Умеренная или выраженная дилатация ЛП\nДилатация ЛЖ\nЛегочная гипертензия может присутствовать в покое или при нагрузке\nC1: ФВ ЛЖ >60% и КСР ЛЖ <40 мм\nC2: ФВ ЛЖ ≤60% и/или КСР ЛЖ ≥40 мм"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-d",
+      "cells": [
+        {
+          "text": {
+            "en": "D",
+            "ru": "D"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptomatic severe MR",
+            "ru": "Симптомная тяжелая МР"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe mitral valve prolapse with loss of coaptation or flail leaflet\nRheumatic valve changes with leaflet restriction and loss of central coaptation\nPrior IE\nThickening of leaflets with radiation heart disease",
+            "ru": "Выраженный пролапс МК с утратой коаптации или отрывом/флотированием створки\nРевматические изменения клапана с ограничением подвижности створок и утратой центральной коаптации\nПеренесенный ИЭ\nУтолщение створок вследствие лучевого поражения сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "Central jet MR >40% LA or holosystolic eccentric jet MR\nVena contracta ≥0.7 cm\nRegurgitant volume ≥60 mL\nRegurgitant fraction ≥50%\nERO ≥0.40 cm^2\nAngiographic grade 3+ to 4+",
+            "ru": "Центральная струя МР >40% площади ЛП или пансистолическая эксцентрическая струя МР\nVena contracta ≥0,7 см\nОбъем регургитации ≥60 мл\nФракция регургитации ≥50%\nЭффективная площадь отверстия регургитации (ERO) ≥0,40 см²\nАнгиографическая градация 3+ – 4+"
+          }
+        },
+        {
+          "text": {
+            "en": "Moderate or severe LA enlargement\nLV enlargement\nPulmonary hypertension present",
+            "ru": "Умеренная или выраженная дилатация ЛП\nДилатация ЛЖ\nПрисутствует легочная гипертензия"
+          }
+        },
+        {
+          "text": {
+            "en": "Decreased exercise tolerance\nExertional dyspnea",
+            "ru": "Снижение толерантности к физической нагрузке\nОдышка при нагрузке"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Several valve hemodynamic criteria are provided for assessment of MR severity, but not all criteria for each category will be present in each patient. Categorization of MR severity as mild, moderate, or severe depends on data quality and integration of these parameters in conjunction with other clinical evidence. ERO indicates effective regurgitant orifice; IE, infective endocarditis; LA, left atrium/atrial; LV, left ventricular; LVEF, left ventricular ejection fraction; LVESD, left ventricular end-systolic dimension; and MR, mitral regurgitation.",
+      "ru": "Для оценки степени тяжести МР представлено несколько клапанных гемодинамических критериев, однако не все критерии каждой категории обязательно присутствуют у каждого пациента. Классификация тяжести МР (легкая, умеренная или тяжелая) зависит от качества данных и интеграции этих параметров в совокупности с другими клиническими доказательствами. ERO — эффективная площадь отверстия регургитации; IE (ИЭ) — инфекционный эндокардит; LA (ЛП) — левое предсердие; LV (ЛЖ) — левый желудочек; LVEF (ФВ ЛЖ) — фракция выброса левого желудочка; LVESD (КСР ЛЖ) — конечно-систолический размер левого желудочка; MR (МР) — митральная регургитация."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt02-multidisciplinary-hcm-centers",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 2",
+  "title": {
+    "en": "Recommendations for Multidisciplinary HCM Centers",
+    "ru": "Рекомендации по мультидисциплинарным центрам ГКМП"
+  },
+  "tags": [
+    "hcm",
+    "multidisciplinary-centers",
+    "hcm-centers",
+    "septal-reduction-therapy",
+    "srt",
+    "referral",
+    "specialized-care"
+  ],
+  "sections": [
+    {
+      "id": "sec-multidisciplinary-hcm-centers",
+      "title": {
+        "en": "Multidisciplinary HCM Centers",
+        "ru": "Мультидисциплинарные центры ГКМП"
+      },
+      "rows": [
+        {
+          "id": "r01-srt-in-experienced-hcm-centers",
+          "text": {
+            "en": "In patients with HCM in whom SRT is indicated, the procedure should be performed at experienced centers (comprehensive or primary HCM centers) with demonstrated excellence in clinical outcomes for these procedures (Tables 4 and 5).",
+            "ru": "У пациентов с ГКМП при наличии показаний к септальной редукционной терапии (СРТ/SRT) процедуру следует выполнять в опытных центрах (экспертных многопрофильных или первичных центрах ГКМП) с доказанными высокими клиническими результатами данных вмешательств (Таблицы 4 и 5)."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-referral-to-hcm-centers-complex-decisions",
+          "text": {
+            "en": "In patients with HCM, consultation with or referral to a comprehensive or primary HCM center is reasonable to aid in complex disease-related management decisions (Table 4).",
+            "ru": "У пациентов с ГКМП консультация или направление в экспертный или первичный центр ГКМП целесообразны для содействия в принятии сложных клинических решений по ведению заболевания (Таблица 4)."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

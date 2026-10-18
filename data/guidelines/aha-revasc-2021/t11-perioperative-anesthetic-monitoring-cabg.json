@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.t11-perioperative-anesthetic-monitoring-cabg",
+  "guidelineId": "aha-revasc-2021",
+  "number": "Table 11",
+  "type": "grid",
+  "title": {
+    "en": "Perioperative Anesthetic and Monitoring Considerations for CABG",
+    "ru": "Периоперационные аспекты анестезии и интраоперационного мониторинга при КШ"
+  },
+  "tags": [
+    "cabg",
+    "anesthesia",
+    "analgesia",
+    "tee",
+    "pulmonary-artery-catheter",
+    "cns-monitoring",
+    "bis",
+    "nirs",
+    "lung-protective-ventilation"
+  ],
+  "columns": [
+    {
+      "id": "category",
+      "title": {
+        "en": "Category / Consideration",
+        "ru": "Категория / Аспект"
+      }
+    },
+    {
+      "id": "description",
+      "title": {
+        "en": "Recommendation / Clinical Evidence",
+        "ru": "Рекомендация / Клинические данные"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-anesthetic-considerations",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**Anesthetic considerations**",
+            "ru": "**Анестезиологические аспекты**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "perioperative-analgesia",
+      "cells": [
+        {
+          "text": {
+            "en": "Perioperative analgesia",
+            "ru": "Периоперационная анальгезия"
+          }
+        },
+        {
+          "text": {
+            "en": "Nonopioid medications (eg, acetaminophen, ketamine, dexmedetomidine) and/or regional techniques (eg, truncal nerve blocks), particularly as part of a multimodal analgesic approach, have been shown to reduce perioperative opioid use in cardiac surgery.",
+            "ru": "Неопиоидные препараты (например, парацетамол, кетамин, дексмедетомидин) и/или регионарные методики (например, фасциальные блокады нервов туловища), особенно в рамках мультимодальной анальгезии, доказанно снижают периоперационную потребность в опиоидах в кардиохирургии."
+          },
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        }
+      ]
+    },
+    {
+      "id": "maintenance-anesthesia",
+      "cells": [
+        {
+          "text": {
+            "en": "Maintenance anesthesia",
+            "ru": "Поддержание анестезии"
+          }
+        },
+        {
+          "text": {
+            "en": "Although volatile (versus intravenous) anesthesia may facilitate earlier extubation, recent evidence suggests that the choice of maintenance anesthetic likely does not impact mortality rate after cardiac surgery.",
+            "ru": "Хотя ингаляционная (по сравнению с тотальной внутривенной) анестезия может способствовать более ранней экстубации, современные данные свидетельствуют о том, что выбор анестетика для поддержания анестезии, вероятно, не влияет на летальность после кардиохирургических операций."
+          },
+          "refs": [2, 6, 7, 8, 9, 12, 14, 17, 18, 19, 20, 21]
+        }
+      ]
+    },
+    {
+      "id": "mechanical-ventilation",
+      "cells": [
+        {
+          "text": {
+            "en": "Mechanical ventilation",
+            "ru": "Искусственная вентиляция легких (ИВЛ)"
+          }
+        },
+        {
+          "text": {
+            "en": "An intraoperative lung-protective ventilation strategy (ie, tidal volume of 6–8 mL/kg predicted body weight + positive end-expiratory pressure) has been shown to improve pulmonary mechanics and reduce postoperative pulmonary complications.",
+            "ru": "Интраоперационная протективная вентиляция легких (дыхательный объем 6–8 мл/кг идеальной массы тела + положительное давление в конце выдоха [ПДКВ/PEEP]) улучшает механику дыхания и снижает частоту послеоперационных легочных осложнений."
+          },
+          "refs": [21, 22, 23, 24, 25]
+        }
+      ]
+    },
+    {
+      "id": "goal-directed-therapy",
+      "cells": [
+        {
+          "text": {
+            "en": "Goal-directed therapy",
+            "ru": "Целенаправленная терапия (GDT)"
+          }
+        },
+        {
+          "text": {
+            "en": "Goal-directed therapy, which creates protocols for the use of fluids and vasopressors to target specific hemodynamic goals, has yielded inconsistent results and requires additional investigation to determine its use in cardiac surgery.",
+            "ru": "Целенаправленная терапия с созданием протоколов инфузионной поддержки и применения вазопрессоров для достижения конкретных гемодинамических целей показала противоречивые результаты и требует дальнейших исследований для определения ее роли в кардиохирургии."
+          },
+          "refs": [26, 27]
+        }
+      ]
+    },
+    {
+      "id": "sec-tee",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**TEE**",
+            "ru": "**Чреспищеводная эхокардиография (ЧПЭхоКГ / TEE)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cabg-valve-procedures",
+      "cells": [
+        {
+          "text": {
+            "en": "CABG + valve procedures",
+            "ru": "КШ + операции на клапанах"
+          }
+        },
+        {
+          "text": {
+            "en": "Intraoperative TEE aids in the real-time assessment of heart valve function and pathology in those undergoing combination CABG and valve surgery.",
+            "ru": "Интраоперационная ЧПЭхоКГ помогает в режиме реального времени оценивать функцию и патологию клапанов сердца у пациентов, переносящих сочетанные операции КШ и клапанной хирургии."
+          },
+          "refs": [28, 29, 30]
+        }
+      ]
+    },
+    {
+      "id": "isolated-cabg-procedures",
+      "cells": [
+        {
+          "text": {
+            "en": "Isolated CABG procedures",
+            "ru": "Изолированное КШ"
+          }
+        },
+        {
+          "text": {
+            "en": "The use of intraoperative TEE in isolated CABG is less established but has been shown to aid in surgical and anesthetic decision-making as a tool for real-time assessment of hemodynamic status, regional wall motion, ventricular function, valve anatomy, and diastolic function.",
+            "ru": "Применение интраоперационной ЧПЭхоКГ при изолированном КШ менее регламентировано, однако доказана ее ценность для принятия хирургических и анестезиологических решений как инструмента оценки гемодинамического статуса, локальной сократимости, функции желудочков, анатомии клапанов и диастолической функции."
+          },
+          "refs": [29, 30, 31, 32, 33, 34, 35]
+        }
+      ]
+    },
+    {
+      "id": "sec-pulmonary-artery-catheters",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**Pulmonary artery catheters**",
+            "ru": "**Катетеры легочной артерии (катетер Свана-Ганца / PAC)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pac-high-risk-surgery",
+      "cells": [
+        {
+          "text": {
+            "en": "High-risk surgery",
+            "ru": "Операции высокого риска"
+          }
+        },
+        {
+          "text": {
+            "en": "Highly selective use of pulmonary artery catheters for high-risk patients (ie, older, with congestive heart failure, pulmonary hypertension, or previous multiple valve procedures) may be safe and may potentially aid in the surveillance and treatment of hemodynamic instability.",
+            "ru": "Высокоселективное использование катетеров легочной артерии у пациентов высокого риска (пожилые, с застойной сердечной недостаточностью, легочной гипертензией или повторными многоклапанными операциями) безопасно и потенциально может помочь в контроле и лечении гемодинамической нестабильности."
+          },
+          "refs": [36, 37, 38]
+        }
+      ]
+    },
+    {
+      "id": "pac-low-risk-surgery",
+      "cells": [
+        {
+          "text": {
+            "en": "Low-risk surgery",
+            "ru": "Операции низкого риска"
+          }
+        },
+        {
+          "text": {
+            "en": "The use of pulmonary artery catheters in low-risk or clinically stable patients is discouraged because the practice is associated with increased interventions that incur greater health care expense without associated improvement in morbidity or mortality rates.",
+            "ru": "Использование катетеров легочной артерии у пациентов низкого риска или клинически стабильных больных не рекомендуется, поскольку сопряжено с увеличением числа вмешательств и затрат на лечение без улучшения показателей заболеваемости или летальности."
+          },
+          "refs": [36, 37, 38, 39, 40, 41]
+        }
+      ]
+    },
+    {
+      "id": "sec-cns-monitoring",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**CNS monitoring**",
+            "ru": "**Мониторинг центральной нервной системы (ЦНС / CNS)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cns-cerebral-oxygen-saturation",
+      "cells": [
+        {
+          "text": {
+            "en": "Cerebral oxygen saturation",
+            "ru": "Церебральная оксиметрия (сатурация кислорода)"
+          }
+        },
+        {
+          "text": {
+            "en": "Intraoperative monitoring of cerebral oxygen saturation (ie, near-infrared spectroscopy) to detect cerebral hypoperfusion has been shown to guide anesthetic decision making and may prevent postoperative neurocognitive dysfunction.",
+            "ru": "Интраоперационный мониторинг сатурации кислорода в сосудах головного мозга (спектроскопия в ближней инфракрасной области [NIRS]) для выявления церебральной гипоперфузии помогает корректировать анестезиологическую тактику и может предупреждать послеоперационную нейрокогнитивную дисфункцию."
+          },
+          "refs": [41, 42, 43, 44, 45, 46, 47]
+        }
+      ]
+    },
+    {
+      "id": "cns-processed-electroencephalogram",
+      "cells": [
+        {
+          "text": {
+            "en": "Processed electroencephalogram",
+            "ru": "Мониторинг обработанной ЭЭГ (BIS-индекс)"
+          }
+        },
+        {
+          "text": {
+            "en": "Routine use of intraoperative monitoring of processed electroencephalogram (ie, bispectral index) has yielded inconsistent results with respect to the prevention of recall, determination of depth of anesthesia, or improvement in rate of recovery after cardiac surgery.",
+            "ru": "Рутинный интраоперационный мониторинг обработанной электроэнцефалограммы (биспектральный индекс [BIS]) показал противоречивые результаты в отношении предотвращения интраоперационного пробуждения, контроля глубины анестезии или ускорения восстановления после кардиохирургических операций."
+          },
+          "refs": [48, 49, 50, 51]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "CABG indicates coronary artery bypass graft; CNS, central nervous system; and TEE, transesophageal echocardiography.",
+      "ru": "CABG (КШ) — коронарное шунтирование; CNS (ЦНС) — центральная нервная система; TEE (ЧПЭхоКГ) — чреспищеводная эхокардиография."
+    }
+  },
+  "source": {
+    "expectedRows": 14
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

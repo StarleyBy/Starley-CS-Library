@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt28-diagnostic-testing-exercise-testing-chronic-primary-mr",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 28",
+  "title": {
+    "en": "Recommendation for Diagnostic Testing: Exercise Testing for Chronic Primary MR",
+    "ru": "Рекомендация по диагностическому обследованию: нагрузочное тестирование при хронической первичной митральной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "mitral-regurgitation",
+    "primary-mr",
+    "chronic-mr",
+    "exercise-testing",
+    "cpet",
+    "doppler-echo",
+    "cardiac-catheterization"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnostic-testing-exercise-testing-chronic-primary-mr",
+      "title": {
+        "en": "Exercise Testing for Chronic Primary MR",
+        "ru": "Нагрузочное тестирование при хронической первичной митральной регургитации"
+      },
+      "rows": [
+        {
+          "id": "r01-hemodynamic-exercise-testing-symptoms-mr",
+          "text": {
+            "en": "In patients with primary MR (Stages B and C) and symptoms that might be attributable to MR, hemodynamic exercise testing using Doppler echocardiography or cardiac catheterization or cardiopulmonary exercise testing is reasonable.",
+            "ru": "У пациентов с первичной МР (Стадии B и C) при наличии симптомов, которые могут быть обусловлены МР, оправдано проведение нагрузочного тестирования гемодинамики с допплеровской эхокардиографией, катетеризацией сердца или кардиопульмонального нагрузочного тестирования (КПНТ)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

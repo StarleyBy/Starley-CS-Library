@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt38-perioperative-considerations-cabg",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 38",
+  "title": {
+    "en": "Recommendation for Perioperative Considerations in Patients Undergoing CABG",
+    "ru": "Рекомендация по периоперационному ведению пациентов, проходящих КШ"
+  },
+  "tags": [
+    "cabg",
+    "perioperative",
+    "multidisciplinary",
+    "fast-track",
+    "extubation",
+    "opioid-sparing",
+    "analgesia"
+  ],
+  "sections": [
+    {
+      "id": "sec-perioperative-considerations-cabg",
+      "title": {
+        "en": "Perioperative Considerations in Patients Undergoing CABG",
+        "ru": "Периоперационное ведение пациентов, проходящих КШ"
+      },
+      "rows": [
+        {
+          "id": "r01-cabg-multidisciplinary-perioperative-program",
+          "text": {
+            "en": "For patients undergoing CABG, establishment of multidisciplinary, evidence-based perioperative management programs is recommended to optimize analgesia, minimize opioid exposure, prevent complications and to reduce time to extubation, length of stay, and health care costs.",
+            "ru": "У пациентов, которым выполняется КШ, рекомендуется внедрение мультидисциплинарных доказательных программ периоперационного ведения (ERAS/fast-track) для оптимизации обезболивания, минимизации использования опиоидов, предотвращения осложнений, сокращения времени до экстубации, длительности пребывания в стационаре и затрат на здравоохранение."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

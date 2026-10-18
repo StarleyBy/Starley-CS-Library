@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt32-treatment-stent-restenosis",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 32",
+  "title": {
+    "en": "Recommendations for Treatment of Patients With Stent Restenosis",
+    "ru": "Рекомендации по лечению пациентов с рестенозом стента"
+  },
+  "tags": [
+    "stent-restenosis",
+    "isr",
+    "des",
+    "cabg",
+    "brachytherapy",
+    "dapt"
+  ],
+  "sections": [
+    {
+      "id": "sec-treatment-stent-restenosis",
+      "title": {
+        "en": "Treatment of Patients With Stent Restenosis",
+        "ru": "Лечение пациентов с рестенозом стента"
+      },
+      "rows": [
+        {
+          "id": "r01-clinical-isr-repeat-pci-des",
+          "text": {
+            "en": "In patients who develop clinical in-stent restenosis (ISR) for whom repeat PCI is planned, a DES should be used to improve outcomes if anatomic factors are appropriate and the patient is able to comply with DAPT.",
+            "ru": "У пациентов с клиническим внутристентовым рестенозом (ISR), которым планируется повторное ЧКВ, следует использовать стент с лекарственным покрытием (DES) для улучшения исходов при благоприятных анатомических факторах и способности пациента соблюдать режим ДАТ (DAPT)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-recurrent-diffuse-isr-cabg-over-pci",
+          "text": {
+            "en": "In patients with symptomatic recurrent diffuse ISR with an indication for revascularization, CABG can be useful over repeat PCI to reduce recurrent events.",
+            "ru": "У пациентов с симптомным рецидивирующим диффузным ISR и показаниями к реваскуляризации КШ может быть полезным по сравнению с повторным ЧКВ для снижения частоты повторных сердечно-сосудистых событий."
+          },
+          "class": "IIa",
+          "level": "C-EO"
+        },
+        {
+          "id": "r03-recurrent-isr-brachytherapy",
+          "text": {
+            "en": "In patients who develop recurrent ISR, brachytherapy may be considered to improve symptoms.",
+            "ru": "У пациентов с рецидивирующим ISR может быть рассмотрена внутрисосудистая брахитерапия для уменьшения симптомов."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

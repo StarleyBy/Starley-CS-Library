@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.t07-patient-clinical-status-definitions-revascularization",
+  "guidelineId": "aha-revasc-2021",
+  "number": "Table 7",
+  "type": "grid",
+  "title": {
+    "en": "Patient Clinical Status Definitions to Guide Revascularization",
+    "ru": "Определения клинического статуса пациента для выбора тактики реваскуляризации"
+  },
+  "tags": [
+    "clinical-status",
+    "elective",
+    "urgent",
+    "emergency",
+    "salvage",
+    "revascularization",
+    "timing"
+  ],
+  "columns": [
+    {
+      "id": "clinical_status",
+      "title": {
+        "en": "Clinical Status",
+        "ru": "Клинический статус"
+      }
+    },
+    {
+      "id": "definition",
+      "title": {
+        "en": "Definition",
+        "ru": "Определение"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "elective",
+      "cells": [
+        {
+          "text": {
+            "en": "Elective",
+            "ru": "Плановый (Elective)"
+          }
+        },
+        {
+          "text": {
+            "en": "The patient's cardiac function has been stable in the days or weeks before intervention (whether surgical or procedural). The intervention could be deferred without increased risk of compromise to cardiac outcome.",
+            "ru": "Сердечная функция пациента была стабильной в течение нескольких дней или недель до вмешательства (хирургического или эндоваскулярного). Вмешательство можно отложить без повышения риска ухудшения кардиального исхода."
+          }
+        }
+      ]
+    },
+    {
+      "id": "urgent",
+      "cells": [
+        {
+          "text": {
+            "en": "Urgent",
+            "ru": "Неотложный (Urgent)"
+          }
+        },
+        {
+          "text": {
+            "en": "Intervention is required during the same hospitalization to minimize chance of further clinical deterioration. Examples include, but are not limited to, worsening sudden chest pain, heart failure, acute myocardial infarction, anatomy, intra-aortic balloon pump, unstable angina, with intravenous nitroglycerin, or rest angina.",
+            "ru": "Вмешательство требуется в течение той же госпитализации для минимизации вероятности дальнейшего клинического ухудшения. Примеры включают (но не ограничиваются ими): внезапное усиление загрудинной боли, сердечную недостаточность, острый инфаркт миокарда, анатомические особенности, применение внутриаортальной баллонной контрпульсации (ВАБК), нестабильную стенокардию с внутривенной инфузией нитроглицерина или стенокардию покоя."
+          }
+        }
+      ]
+    },
+    {
+      "id": "emergency",
+      "cells": [
+        {
+          "text": {
+            "en": "Emergency",
+            "ru": "Экстренный (Emergency)"
+          }
+        },
+        {
+          "text": {
+            "en": "Patients requiring emergency intervention will have ongoing, refractory (difficult, complicated, and/or unmanageable), unrelenting cardiac compromise, with or without hemodynamic instability, and not responsive to any form of therapy except cardiac intervention. An emergency intervention is one in which there should be no delay in providing operative intervention.",
+            "ru": "Пациенты, требующие экстренного вмешательства, имеют продолжающееся, рефрактерное (трудное, осложненное и/или не поддающееся контролю), непрекращающееся нарушение функции сердца, с гемодинамической нестабильностью или без нее, не отвечающее ни на какие виды терапии, кроме кардиального вмешательства. Экстренное вмешательство — это вмешательство, при котором не должно быть задержек в оказании оперативной помощи."
+          }
+        }
+      ]
+    },
+    {
+      "id": "emergency-salvage",
+      "cells": [
+        {
+          "text": {
+            "en": "Emergency/salvage",
+            "ru": "Экстренный / реанимационный (Emergency/salvage)"
+          }
+        },
+        {
+          "text": {
+            "en": "Patients requiring emergency/salvage intervention are those who require cardiopulmonary resuscitation en route to the operating room, or procedure room, before induction of anesthesia or who require extracorporeal membrane oxygenation to maintain life.",
+            "ru": "Пациенты, требующие экстренного/реанимационного (спасительного) вмешательства, — это пациенты, которым требуется проведение сердечно-легочной реанимации по пути в операционную или рентгеноперационную до вводного наркоза, либо требующие экстракорпоральной мембранной оксигенации (ЭКМО) для поддержания жизни."
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

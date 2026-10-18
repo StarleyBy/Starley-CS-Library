@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t04-stages-of-vhd",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 4",
+  "type": "grid",
+  "title": {
+    "en": "Stages of VHD",
+    "ru": "Стадии клапанных пороков сердца"
+  },
+  "tags": [
+    "vhd",
+    "stages-of-vhd",
+    "stage-a",
+    "stage-b",
+    "stage-c",
+    "stage-d",
+    "asymptomatic-severe",
+    "symptomatic-severe"
+  ],
+  "columns": [
+    {
+      "id": "stage",
+      "title": {
+        "en": "Stage",
+        "ru": "Стадия"
+      }
+    },
+    {
+      "id": "definition",
+      "title": {
+        "en": "Definition",
+        "ru": "Определение"
+      }
+    },
+    {
+      "id": "description",
+      "title": {
+        "en": "Description",
+        "ru": "Описание"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "stage-a",
+      "cells": [
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        },
+        {
+          "text": {
+            "en": "At risk",
+            "ru": "В группе риска"
+          }
+        },
+        {
+          "text": {
+            "en": "Patients with risk factors for development of VHD",
+            "ru": "Пациенты с факторами риска развития клапанного порока сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-b",
+      "cells": [
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          }
+        },
+        {
+          "text": {
+            "en": "Progressive",
+            "ru": "Прогрессирующий порок"
+          }
+        },
+        {
+          "text": {
+            "en": "Patients with progressive VHD (mild to moderate severity and asymptomatic)",
+            "ru": "Пациенты с прогрессирующим пороком клапана (легкой или умеренной степени тяжести, без симптомов)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-c",
+      "cells": [
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          }
+        },
+        {
+          "text": {
+            "en": "Asymptomatic severe",
+            "ru": "Бессимптомный тяжелый порок"
+          }
+        },
+        {
+          "text": {
+            "en": "Asymptomatic patients who have the criteria for severe VHD:\n\nC1: Asymptomatic patients with severe VHD in whom the LV or RV remains compensated\n\nC2: Asymptomatic patients with severe VHD with decompensation of the LV or RV",
+            "ru": "Бессимптомные пациенты, соответствующие критериям тяжелого порока клапана:\n\nC1: Бессимптомные пациенты с тяжелым пороком, у которых функция ЛЖ или ПЖ остается компенсированной\n\nC2: Бессимптомные пациенты с тяжелым пороком и декомпенсацией ЛЖ или ПЖ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-d",
+      "cells": [
+        {
+          "text": {
+            "en": "D",
+            "ru": "D"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptomatic severe",
+            "ru": "Симптомный тяжелый порок"
+          }
+        },
+        {
+          "text": {
+            "en": "Patients who have developed symptoms as a result of VHD",
+            "ru": "Пациенты, у которых развились клинические симптомы вследствие клапанного порока сердца"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "LV indicates left ventricle; RV, right ventricle; and VHD, valvular heart disease.",
+      "ru": "LV — левый желудочек; RV — правый желудочек; VHD — клапанные пороки сердца."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

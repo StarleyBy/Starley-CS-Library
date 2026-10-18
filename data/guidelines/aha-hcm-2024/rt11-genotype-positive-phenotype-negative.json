@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt11-genotype-positive-phenotype-negative",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 11",
+  "title": {
+    "en": "Recommendations for Individuals Who Are Genotype-Positive, Phenotype-Negative",
+    "ru": "Рекомендации для лиц с положительным генотипом и отрицательным фенотипом"
+  },
+  "tags": [
+    "hcm",
+    "genotype-positive-phenotype-negative",
+    "preclinical-hcm",
+    "surveillance",
+    "competitive-sports",
+    "icd",
+    "primary-prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-genotype-positive-phenotype-negative",
+      "title": {
+        "en": "Individuals Who Are Genotype-Positive, Phenotype-Negative",
+        "ru": "Лица с положительным генотипом и отрицательным фенотипом"
+      },
+      "rows": [
+        {
+          "id": "r01-surveillance-intervals-age-dependent",
+          "text": {
+            "en": "In individuals who are genotype-positive, phenotype-negative for HCM, serial clinical assessment, electrocardiography, and cardiac imaging are recommended at periodic intervals depending on age (every 1-2 years in children and adolescents and every 3-5 years in adults) and change in clinical status (Figures 1 and 2, Table 7).",
+            "ru": "У лиц с положительным генотипом и отрицательным фенотипом ГКМП рекомендуется регулярная клиническая оценка, ЭКГ и визуализация сердца с периодичностью в зависимости от возраста (каждые 1–2 года у детей и подростков и каждые 3–5 лет у взрослых) и при изменении клинического статуса (Рисунки 1 и 2, Таблица 7)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-participation-competitive-sports",
+          "text": {
+            "en": "In individuals who are genotype-positive, phenotype-negative for HCM, participation in competitive sports of any intensity is reasonable.",
+            "ru": "У лиц с положительным генотипом и отрицательным фенотипом ГКМП участие в соревновательных видах спорта любой интенсивности является обоснованным."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [6, 7]
+        },
+        {
+          "id": "r03-no-icd-primary-prevention",
+          "text": {
+            "en": "In individuals who are genotype-positive, phenotype-negative for HCM, ICD is not recommended for primary prevention.",
+            "ru": "У лиц с положительным генотипом и отрицательным фенотипом ГКМП имплантация ИКД для первичной профилактики не рекомендуется."
+          },
+          "class": "III-no-benefit",
+          "level": "B-NR",
+          "refs": [3, 4, 5, 8]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt15-timing-of-intervention-chronic-ar",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 15",
+  "title": {
+    "en": "Recommendations for Timing of Intervention for Chronic AR",
+    "ru": "Рекомендации по срокам вмешательства при хронической аортальной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "aortic-regurgitation",
+    "chronic-ar",
+    "timing-of-intervention",
+    "savr",
+    "stage-c1",
+    "stage-c2",
+    "stage-d",
+    "lvesd",
+    "lvedd",
+    "tavi-contraindication"
+  ],
+  "sections": [
+    {
+      "id": "sec-timing-of-intervention-chronic-ar",
+      "title": {
+        "en": "Timing of Intervention for Chronic AR",
+        "ru": "Сроки вмешательства при хронической аортальной регургитации"
+      },
+      "rows": [
+        {
+          "id": "r01-symptomatic-severe-stage-d",
+          "text": {
+            "en": "In symptomatic patients with severe AR (Stage D), aortic valve surgery is indicated regardless of LV systolic function.",
+            "ru": "У симптомных пациентов с тяжелой АР (Стадия D) хирургическое вмешательство на аортальном клапане показано независимо от систолической функции ЛЖ."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-asymptomatic-depressed-ef-stage-c2",
+          "text": {
+            "en": "In asymptomatic patients with chronic severe AR and LV systolic dysfunction (LVEF ≤55%) (Stage C2), aortic valve surgery is indicated if no other cause for systolic dysfunction is identified.",
+            "ru": "У бессимптомных пациентов с хронической тяжелой АР и систолической дисфункцией ЛЖ (ФВ ЛЖ ≤55%) (Стадия C2) хирургическое вмешательство на аортальном клапане показано при отсутствии других причин снижения фракции выброса."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [3, 5, 8, 9, 10, 11, 12]
+        },
+        {
+          "id": "r03-severe-ar-other-cardiac-surgery-stages-c-d",
+          "text": {
+            "en": "In patients with severe AR (Stage C or D) who are undergoing cardiac surgery for other indications, aortic valve surgery is indicated.",
+            "ru": "У пациентов с тяжелой АР (Стадия C или D), которым проводится кардиохирургическая операция по другим показаниям, показано вмешательство на аортальном клапане."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r04-asymptomatic-severe-lv-dilation-lvesd",
+          "text": {
+            "en": "In asymptomatic patients with severe AR and normal LV systolic function (LVEF >55%), aortic valve surgery is reasonable when the LV is severely enlarged (LVESD >50 mm or indexed LVESD >25 mm/m^2) (Stage C2).",
+            "ru": "У бессимптомных пациентов с тяжелой АР и нормальной систолической функцией ЛЖ (ФВ ЛЖ >55%) операция на аортальном клапане оправдана при наличии тяжелой дилатации ЛЖ (КСР ЛЖ >50 мм или индексированный КСР >25 мм/м²) (Стадия C2)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+        },
+        {
+          "id": "r05-moderate-ar-other-cardiac-surgery-stage-b",
+          "text": {
+            "en": "In patients with moderate AR (Stage B) who are undergoing cardiac or aortic surgery for other indications, aortic valve surgery is reasonable.",
+            "ru": "У пациентов с умеренной АР (Стадия B), которым проводится операция на сердце или аорте по другим показаниям, оправдано вмешательство на аортальном клапане."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r06-asymptomatic-progressive-decline-ef-or-lvedd",
+          "text": {
+            "en": "In asymptomatic patients with severe AR and normal LV systolic function at rest (LVEF >55%; Stage C1) and low surgical risk, aortic valve surgery may be considered when there is a progressive decline in LVEF on at least 3 serial studies to the low–normal range (LVEF 55% to 60%) or a progressive increase in LV dilation into the severe range (LV end-diastolic dimension [LVEDD] >65 mm).",
+            "ru": "У бессимптомных пациентов с тяжелой АР и нормальной систолической функцией ЛЖ в покое (ФВ ЛЖ >55%; Стадия C1) и низким хирургическим риском операцию на аортальном клапане можно рассмотреть при прогрессирующем снижении ФВ ЛЖ по данным как минимум 3 последовательных исследований до нижней границы нормы (55%–60%) или прогрессирующем нарастании дилатации ЛЖ до тяжелой степени (КДР ЛЖ >65 мм)."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [12, 16, 17, 20, 25, 26, 27, 28]
+        },
+        {
+          "id": "r07-no-tavi-isolated-ar-surgical-candidates",
+          "text": {
+            "en": "In patients with isolated severe AR who have indications for SAVR and are candidates for surgery, TAVI should not be performed.",
+            "ru": "У пациентов с изолированной тяжелой АР, имеющих показания к SAVR и являющихся кандидатами на хирургическое лечение, TAVI выполнять не следует."
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [29, 30, 31, 32]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

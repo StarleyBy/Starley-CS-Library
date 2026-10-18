@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt35-medical-therapy-for-tr",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 35",
+  "title": {
+    "en": "Recommendations for Medical Therapy for TR",
+    "ru": "Рекомендации по медикаментозной терапии трикуспидальной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "tricuspid-regurgitation",
+    "tr",
+    "medical-therapy",
+    "diuretics",
+    "right-heart-failure",
+    "pulmonary-vasodilators",
+    "af-rhythm-control",
+    "gdmt"
+  ],
+  "sections": [
+    {
+      "id": "sec-medical-therapy-for-tr",
+      "title": {
+        "en": "Medical Therapy for TR",
+        "ru": "Медикаментозная терапия трикуспидальной регургитации"
+      },
+      "rows": [
+        {
+          "id": "r01-diuretics-right-hf-severe-tr",
+          "text": {
+            "en": "In patients with signs and symptoms of right-sided HF attributable to severe TR (Stages C and D), diuretics can be useful.",
+            "ru": "У пациентов с признаками и симптомами правожелудочковой сердечной недостаточности, обусловленной тяжелой ТР (Стадии C и D), диуретики могут быть полезны."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r02-treatment-primary-cause-hf-secondary-tr",
+          "text": {
+            "en": "In patients with signs and symptoms of right-sided HF attributable to severe secondary TR (Stages C and D), therapies to treat the primary cause of HF (eg, pulmonary vasodilators to reduce elevated pulmonary artery pressures, GDMT for HF with reduced LVEF, or rhythm control of AF) can be useful.",
+            "ru": "У пациентов с признаками и симптомами правожелудочковой сердечной недостаточности, обусловленной тяжелой вторичной ТР (Стадии C и D), может быть полезна терапия, направленная на первопричину СН (например, легочные вазодилататоры для снижения повышенного давления в легочной артерии, ОМТ СН со сниженной ФВ ЛЖ или контроль ритма при ФП)."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

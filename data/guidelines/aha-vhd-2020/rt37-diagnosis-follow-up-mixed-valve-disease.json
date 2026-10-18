@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt37-diagnosis-follow-up-mixed-valve-disease",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 37",
+  "title": {
+    "en": "Recommendations for Diagnosis and Follow-Up of Patients With Mixed Valve Disease",
+    "ru": "Рекомендации по диагностике и наблюдению пациентов с сочетанными и многоклапанными пороками сердца"
+  },
+  "tags": [
+    "vhd",
+    "mixed-valve-disease",
+    "multivalvular-disease",
+    "diagnosis",
+    "follow-up",
+    "tte",
+    "filling-pressure",
+    "hemodynamics",
+    "biomarkers"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnosis-follow-up-mixed-valve-disease",
+      "title": {
+        "en": "Diagnosis and Follow-Up of Patients With Mixed Valve Disease",
+        "ru": "Диагностика и наблюдение пациентов с сочетанными пороками сердца"
+      },
+      "rows": [
+        {
+          "id": "r01-tte-etiology-severity-pathophysiology",
+          "text": {
+            "en": "For patients with mixed valve disease, TTE is recommended to assess the etiology, severity, and pathophysiological impact.",
+            "ru": "Пациентам с сочетанным (многоклапанным) пороком сердца рекомендуется проведение ТТ-ЭхоКГ для оценки этиологии, тяжести и патофизиологического влияния поражения."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r02-ambiguous-symptoms-filling-pressure-biomarkers-invasive",
+          "text": {
+            "en": "In patients with ambiguous symptoms that are suspected to be attributable to mixed mitral valve disease, further assessment of filling pressure by using biomarkers or invasive hemodynamic measurements at rest or with exercise is reasonable.",
+            "ru": "У пациентов с неоднозначными симптомами, предположительно обусловленными сочетанным митральным пороком, оправдана дополнительная оценка давления наполнения с помощью биомаркеров или инвазивных гемодинамических измерений в покое или при физической нагрузке."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

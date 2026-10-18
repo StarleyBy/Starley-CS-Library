@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt05-cmr-imaging",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 5",
+  "title": {
+    "en": "Recommendations for CMR Imaging",
+    "ru": "Рекомендации по магнитно-резонансной томографии сердца (МРТ сердца/CMR)"
+  },
+  "tags": [
+    "hcm",
+    "cmr",
+    "mri",
+    "late-gadolinium-enhancement",
+    "lge",
+    "fibrosis",
+    "scd-risk",
+    "icd",
+    "apical-aneurysm",
+    "srt-planning",
+    "athletes-heart"
+  ],
+  "sections": [
+    {
+      "id": "sec-cmr-imaging",
+      "title": {
+        "en": "CMR Imaging in HCM",
+        "ru": "МРТ сердца при ГКМП"
+      },
+      "rows": [
+        {
+          "id": "r01-inconclusive-echo-cmr-clarification",
+          "text": {
+            "en": "For patients suspected of having HCM in whom echocardiography is inconclusive, CMR imaging is indicated for diagnostic clarification.",
+            "ru": "У пациентов с подозрением на ГКМП при неубедительных результатах эхокардиографии показана МРТ сердца (CMR) для уточнения диагноза."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-lvh-differential-diagnosis-cmr",
+          "text": {
+            "en": "For patients with LVH in whom there is a suspicion of alternative diagnoses, including infiltrative or storage disease as well as athlete's heart, CMR imaging is useful (Figure 1).",
+            "ru": "У пациентов с ГЛЖ при подозрении на альтернативные диагнозы, включая инфильтративные болезни, болезни накопления или спортивное сердце, МРТ сердца полезна (Рисунок 1)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r03-scd-risk-stratification-icd-decision-cmr",
+          "text": {
+            "en": "For patients with HCM who are not otherwise identified as high risk for SCD, or in whom a decision to proceed with ICD remains uncertain after clinical assessment that includes personal or family history, echocardiography, and ambulatory electrocardiographic monitoring, CMR imaging is beneficial to assess for maximum LV wall thickness, EF, LV apical aneurysm, and extent of myocardial replacement fibrosis with late gadolinium enhancement (LGE).",
+            "ru": "У пациентов с ГКМП, не отнесенных к группе высокого риска ВСС, либо у которых решение об имплантации ИКД остается неопределенным после клинической оценки (анамнез, ЭхоКГ, суточное мониторирование ЭКГ), МРТ сердца приносит пользу для оценки максимальной толщины стенки ЛЖ, ФВ, аневризмы верхушки ЛЖ и распространенности заместительного фиброза миокарда по отсроченному контрастированию гадолинием (LGE)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+        },
+        {
+          "id": "r04-mechanism-obstruction-srt-planning-cmr",
+          "text": {
+            "en": "For patients with obstructive HCM in whom the anatomic mechanism of obstruction is inconclusive on echocardiography, CMR imaging is indicated to inform the selection and planning of SRT.",
+            "ru": "У пациентов с обструктивной ГКМП, у которых анатомический механизм обструкции остается неясным по данным эхокардиографии, показана МРТ сердца для обоснования выбора и планирования септальной редукционной терапии (СРТ/SRT)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [16, 17, 18, 19, 20]
+        },
+        {
+          "id": "r05-periodic-repeat-contrast-cmr-3-5y",
+          "text": {
+            "en": "For patients with HCM, repeat contrast-enhanced CMR imaging on a periodic basis (every 3-5 years) for the purpose of SCD risk stratification may be considered to evaluate changes in LGE and other morphologic changes, including EF, development of apical aneurysm, or LV wall thickness (Figure 1, Table 8).",
+            "ru": "У пациентов с ГКМП можно рассмотреть повторную МРТ сердца с контрастированием на периодической основе (каждые 3–5 лет) с целью стратификации риска ВСС для оценки динамики LGE и других морфологических изменений, включая ФВ, формирование аневризмы верхушки или толщину стенки ЛЖ (Рисунок 1, Таблица 8)."
+          },
+          "class": "IIb",
+          "level": "C-EO"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

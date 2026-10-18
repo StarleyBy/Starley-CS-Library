@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt21-diagnostic-testing-exercise-testing-rheumatic-ms",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 21",
+  "title": {
+    "en": "Recommendation for Diagnostic Testing: Exercise Testing in Patients With Rheumatic MS",
+    "ru": "Рекомендация по диагностическому обследованию: нагрузочное тестирование у пациентов с ревматическим митральным стенозом"
+  },
+  "tags": [
+    "vhd",
+    "mitral-stenosis",
+    "rheumatic-ms",
+    "exercise-testing",
+    "doppler-echo",
+    "hemodynamic-assessment",
+    "pulmonary-artery-pressure",
+    "mitral-gradient"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnostic-testing-exercise-testing-rheumatic-ms",
+      "title": {
+        "en": "Exercise Testing in Patients With Rheumatic MS",
+        "ru": "Нагрузочное тестирование у пациентов с ревматическим митральным стенозом"
+      },
+      "rows": [
+        {
+          "id": "r01-discrepancy-resting-echo-symptoms-exercise",
+          "text": {
+            "en": "In patients with rheumatic MS and a discrepancy between resting echocardiographic findings and clinical symptoms, exercise testing with Doppler or invasive hemodynamic assessment is recommended to evaluate symptomatic response, exercise capacity, and the response of the mean mitral gradient and pulmonary artery pressure.",
+            "ru": "У пациентов с ревматическим МС при расхождении между данными ЭхоКГ покоя и клиническими симптомами рекомендуется нагрузочное тестирование с допплеровской эхокардиографией или инвазивной оценкой гемодинамики для оценки симптоматического ответа, толерантности к нагрузке, а также динамики среднего трансмитрального градиента и давления в легочной артерии."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

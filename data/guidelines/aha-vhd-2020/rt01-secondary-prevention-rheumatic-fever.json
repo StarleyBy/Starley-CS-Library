@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt01-secondary-prevention-rheumatic-fever",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 1",
+  "title": {
+    "en": "Recommendation for Secondary Prevention of Rheumatic Fever",
+    "ru": "Рекомендация по вторичной профилактике острой ревматической лихорадки"
+  },
+  "tags": [
+    "vhd",
+    "rheumatic-heart-disease",
+    "rheumatic-fever",
+    "secondary-prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-secondary-prevention-rheumatic-fever",
+      "title": {
+        "en": "Secondary Prevention of Rheumatic Fever",
+        "ru": "Вторичная профилактика острой ревматической лихорадки"
+      },
+      "rows": [
+        {
+          "id": "r01-secondary-prevention-rhd",
+          "text": {
+            "en": "In patients with rheumatic heart disease, secondary prevention of rheumatic fever is indicated (Tables 6 and 7).",
+            "ru": "У пациентов с ревматической болезнью сердца показана вторичная профилактика острой ревматической лихорадки (Таблицы 6 и 7)."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [1]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

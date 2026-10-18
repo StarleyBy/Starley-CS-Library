@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt36-intravenous-gpiib-iiia-inhibitors-pci",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 36",
+  "title": {
+    "en": "Recommendations for Intravenous Glycoprotein IIb/IIIa Inhibitors in Patients Undergoing PCI",
+    "ru": "Рекомендации по внутривенным ингибиторам гликопротеина IIb/IIIa у пациентов, проходящих ЧКВ"
+  },
+  "tags": [
+    "gp-iib-iiia-inhibitors",
+    "thrombus-burden",
+    "no-reflow",
+    "slow-flow",
+    "acs",
+    "sihd",
+    "pci"
+  ],
+  "sections": [
+    {
+      "id": "sec-iv-gp-iib-iiia-inhibitors-pci",
+      "title": {
+        "en": "Intravenous Glycoprotein IIb/IIIa Inhibitors in Patients Undergoing PCI",
+        "ru": "Внутривенные ингибиторы гликопротеина IIb/IIIa у пациентов, проходящих ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r01-acs-pci-large-thrombus-no-reflow-gpi",
+          "text": {
+            "en": "In patients with ACS undergoing PCI with large thrombus burden, no-reflow, or slow flow, intravenous glycoprotein IIb/IIIa inhibitor agents are reasonable to improve procedural success.",
+            "ru": "У пациентов с ОКС (ACS), которым проводится ЧКВ, при массивном тромбозе, феномене no-reflow или замедлении кровотока (slow-flow) внутривенное введение ингибиторов гликопротеина IIb/IIIa целесообразно для повышения успеха процедуры."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-sihd-pci-no-routine-gpi-no-benefit",
+          "text": {
+            "en": "In patients with SIHD undergoing PCI, the routine use of an intravenous glycoprotein IIb/IIIa inhibitor agent is not recommended.",
+            "ru": "У пациентов со стабильной ИБС (SIHD), которым проводится ЧКВ, рутинное применение внутривенных ингибиторов гликопротеина IIb/IIIa не рекомендуется."
+          },
+          "class": "III-no-benefit",
+          "level": "B-R",
+          "refs": [3, 4, 5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

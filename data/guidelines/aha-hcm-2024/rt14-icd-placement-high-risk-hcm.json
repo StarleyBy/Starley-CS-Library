@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt14-icd-placement-high-risk-hcm",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 14",
+  "title": {
+    "en": "Recommendations for ICD Placement in High-Risk Patients With HCM",
+    "ru": "Рекомендации по имплантации ИКД у пациентов высокого риска с ГКМП"
+  },
+  "tags": [
+    "hcm",
+    "icd",
+    "primary-prevention",
+    "secondary-prevention",
+    "scd-risk",
+    "massive-lvh",
+    "syncope",
+    "cardiac-arrest",
+    "ventricular-arrhythmias",
+    "lge",
+    "nsvt",
+    "competitive-athletics"
+  ],
+  "sections": [
+    {
+      "id": "sec-icd-placement-high-risk-hcm",
+      "title": {
+        "en": "ICD Placement in High-Risk Patients With HCM",
+        "ru": "Имплантация ИКД у пациентов высокого риска с ГКМП"
+      },
+      "rows": [
+        {
+          "id": "r01-individual-clinical-judgment-discussion",
+          "text": {
+            "en": "In patients with HCM, application of individual clinical judgment is recommended when assessing the prognostic strength of conventional risk marker(s) within the clinical profile of the individual patient, as well as a thorough and balanced discussion of the evidence, benefits, and estimated risks to engage the fully informed patient's active participation in ICD decision-making.",
+            "ru": "У пациентов с ГКМП рекомендуется применение индивидуального клинического суждения при оценке прогностической силы традиционных маркеров риска в контексте клинического профиля конкретного пациента, а также детальное и сбалансированное обсуждение доказательств, пользы и потенциальных рисков для активного вовлечения информированного пациента в процесс принятия решений об ИКД."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r02-secondary-prevention-cardiac-arrest-sustained-vt",
+          "text": {
+            "en": "For patients with HCM and previous documented cardiac arrest or sustained VT, ICD placement is recommended (Figure 3, Table 8).",
+            "ru": "У пациентов с ГКМП и документированным эпизодом остановки сердца или устойчивой ЖТ в анамнезе рекомендуется имплантация ИКД (Рисунок 3, Таблица 8)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r03-primary-prevention-adults-major-risk-factors",
+          "text": {
+            "en": "For adult patients with HCM with ≥1 major risk factors for SCD, it is reasonable to offer an ICD. These major risk factors include (Figure 3, Table 8):",
+            "ru": "У взрослых пациентов с ГКМП при наличии ≥1 большого фактора риска ВСС целесообразно предложить имплантацию ИКД. Эти большие факторы риска включают (Рисунок 3, Таблица 8):"
+          },
+          "bullets": [
+            {
+              "text": {
+                "en": "Sudden death judged definitively or likely attributable to HCM in ≥1 first-degree or close relatives who are ≤50 years of age;",
+                "ru": "Внезапная смерть, определенно или вероятно обусловленная ГКМП, у ≥1 родственника первой линии или близкого родственника в возрасте ≤50 лет;"
+              }
+            },
+            {
+              "text": {
+                "en": "Massive LVH ≥30 mm in any LV segment;",
+                "ru": "Массивная ГЛЖ ≥30 мм в любом сегменте ЛЖ;"
+              }
+            },
+            {
+              "text": {
+                "en": "≥1 recent episodes of syncope suspected by clinical history to be arrhythmic (ie, unlikely to be of neurocardiogenic [vasovagal] etiology, or related to LVOTO);",
+                "ru": "≥1 недавний эпизод синкопе с подозрением на аритмический генез (т. е. маловероятно связанный с нейрокардиогенным механизмом или обструкцией ВТЛЖ);"
+              }
+            },
+            {
+              "text": {
+                "en": "LV apical aneurysm with transmural scar or LGE;",
+                "ru": "Аневризма верхушки ЛЖ с трансмуральным рубцом или накоплением LGE;"
+              }
+            },
+            {
+              "text": {
+                "en": "LV systolic dysfunction (EF <50%).",
+                "ru": "Систолическая дисфункция ЛЖ (ФВ <50%)."
+              }
+            }
+          ],
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [2, 17, 18, 19, 20, 21]
+        },
+        {
+          "id": "r04-primary-prevention-pediatric-conventional-risk-factors",
+          "text": {
+            "en": "For children with HCM who have ≥1 conventional risk factors, including unexplained syncope, massive LVH, NSVT, or family history of early HCM-related SCD, ICD placement is reasonable after considering the relatively high complication rates of long-term ICD placement in younger patients (Figure 3, Table 8).",
+            "ru": "У детей с ГКМП, имеющих ≥1 традиционный фактор риска, включая синкопе неясного генеза, массивную ГЛЖ, НУЖТ или семейный анамнез ранней ВСС от ГКМП, имплантация ИКД целесообразна с учетом относительно высокой частоты осложнений при долгосрочном наличии ИКД у молодых пациентов (Рисунок 3, Таблица 8)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [22, 23, 24, 25, 26, 27, 28, 29, 30]
+        },
+        {
+          "id": "r05-discussion-5-year-risk-shared-decision-making",
+          "text": {
+            "en": "For patients with HCM with ≥1 major SCD risk factors, discussion of the estimated 5-year sudden death risk and mortality rates can be useful during the shared decision-making process for ICD placement (Figure 3, Table 8).",
+            "ru": "У пациентов с ГКМП, имеющих ≥1 большой фактор риска ВСС, обсуждение расчетного 5-летнего риска внезапной смерти и показателей смертности может быть полезным в процессе совместного принятия решения об имплантации ИКД (Рисунок 3, Таблица 8)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [3, 19, 29, 30]
+        },
+        {
+          "id": "r06-icd-consideration-extensive-lge-nsvt-adults",
+          "text": {
+            "en": "In select adult patients with HCM and without major SCD risk factors after clinical assessment, or in whom the decision to proceed with ICD placement remains otherwise uncertain, ICD may be considered in patients with extensive LGE by contrast-enhanced CMR imaging or NSVT present on ambulatory monitoring (Figure 3, Table 8).",
+            "ru": "У отдельных взрослых пациентов с ГКМП без больших факторов риска ВСС после клинической оценки, либо у которых решение об имплантации ИКД остается неопределенным, имплантацию ИКД можно рассмотреть при наличии обширного LGE по данным контрастной МРТ сердца или пробежек НУЖТ при амбулаторном мониторировании (Рисунок 3, Таблица 8)."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [2, 3, 16, 19, 31, 32, 33]
+        },
+        {
+          "id": "r07-icd-consideration-extensive-lge-systolic-dysfunction-pediatric",
+          "text": {
+            "en": "In pediatric patients with HCM, it can be useful to consider additional factors such as extensive LGE on contrast-enhanced CMR imaging and systolic dysfunction in risk stratification for ICD shared decision-making (Figure 3, Table 8).",
+            "ru": "У детей и подростков с ГКМП может быть полезным учет дополнительных факторов, таких как обширное накопление LGE по данным контрастной МРТ сердца и систолическая дисфункция, при стратификации риска для совместного принятия решения об имплантации ИКД (Рисунок 3, Таблица 8)."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [34, 35]
+        },
+        {
+          "id": "r08-no-icd-without-risk-factors",
+          "text": {
+            "en": "In patients with HCM without risk factors, ICD placement should not be performed.",
+            "ru": "У пациентов с ГКМП при отсутствии факторов риска имплантация ИКД не должна проводиться."
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [2]
+        },
+        {
+          "id": "r09-no-icd-solely-for-competitive-sports",
+          "text": {
+            "en": "In patients with HCM, ICD placement for the sole purpose of participation in competitive athletics should not be performed.",
+            "ru": "У пациентов с ГКМП имплантация ИКД исключительно с целью допуска к участию в соревновательном спорте не должна выполняться."
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [36]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

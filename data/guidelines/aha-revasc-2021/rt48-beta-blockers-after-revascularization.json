@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt48-beta-blockers-after-revascularization",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 48",
+  "title": {
+    "en": "Recommendation for Beta Blockers in Patients After Revascularization",
+    "ru": "Рекомендация по бета-адреноблокаторам у пациентов после реваскуляризации"
+  },
+  "tags": [
+    "revascularization",
+    "beta-blockers",
+    "sihd",
+    "normal-lvef",
+    "complete-revascularization"
+  ],
+  "sections": [
+    {
+      "id": "sec-beta-blockers-post-revasc",
+      "title": {
+        "en": "Beta Blockers in Patients After Revascularization",
+        "ru": "Бета-адреноблокаторы у пациентов после реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r01-routine-chronic-beta-blockers-sihd-normal-lv",
+          "text": {
+            "en": "In patients with SIHD and normal left ventricular function, the routine use of chronic oral beta blockers is not beneficial to reduce cardiovascular events after complete revascularization.",
+            "ru": "У пациентов со стабильной ИБС (SIHD) и сохранной функцией левого желудочка рутинное длительное пероральное применение бета-блокаторов не приносит пользы для снижения сердечно-сосудистых событий после полной реваскуляризации миокарда."
+          },
+          "class": "III-no-benefit",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt19-intervention-repair-replacement-aortic-valve-bav",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 19",
+  "title": {
+    "en": "Recommendations for Intervention: Repair or Replacement of the Aortic Valve",
+    "ru": "Рекомендации по вмешательству: пластика или протезирование аортального клапана при ДАК"
+  },
+  "tags": [
+    "vhd",
+    "bicuspid-aortic-valve",
+    "bav",
+    "aortic-valve-repair",
+    "tavi",
+    "savr",
+    "aortic-stenosis",
+    "aortic-regurgitation",
+    "comprehensive-valve-center"
+  ],
+  "sections": [
+    {
+      "id": "sec-intervention-repair-replacement-aortic-valve-bav",
+      "title": {
+        "en": "Repair or Replacement of the Aortic Valve in BAV",
+        "ru": "Пластика или протезирование аортального клапана при ДАК"
+      },
+      "rows": [
+        {
+          "id": "r01-valve-repair-bav-severe-ar",
+          "text": {
+            "en": "In patients with BAV and severe AR who meet criteria for AVR, aortic valve repair may be considered in selected patients if the surgery is performed at a Comprehensive Valve Center.",
+            "ru": "У пациентов с ДАК и тяжелой АР, соответствующим критериям для ПАК (AVR), у отобранных пациентов можно рассмотреть пластику аортального клапана при выполнении вмешательства в экспертном клапанном центре."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-tavi-alternative-savr-bav-severe-as",
+          "text": {
+            "en": "In patients with BAV and symptomatic, severe AS, TAVI may be considered as an alternative to SAVR after consideration of patient-specific procedural risks, values, trade-offs, and preferences, and when the surgery is performed at a Comprehensive Valve Center.",
+            "ru": "У пациентов с ДАК и симптомным тяжелым АС можно рассмотреть TAVI в качестве альтернативы SAVR после учета индивидуальных процедурных рисков, ценностей, компромиссов и предпочтений пациента при выполнении процедуры в экспертном клапанном центре."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

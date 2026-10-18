@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt01-equity-of-care-revascularization",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 1",
+  "title": {
+    "en": "Recommendation to Improve Equity of Care in Revascularization",
+    "ru": "Рекомендация по повышению доступности и равенства медицинской помощи при реваскуляризации"
+  },
+  "tags": [
+    "revascularization",
+    "equity-of-care",
+    "disparities",
+    "cad"
+  ],
+  "sections": [
+    {
+      "id": "sec-equity-of-care",
+      "title": {
+        "en": "Improve Equity of Care in Revascularization",
+        "ru": "Повышение доступности и равенства оказания помощи при реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r01-equity-of-care-revascularization",
+          "text": {
+            "en": "In patients who require coronary revascularization, treatment decisions should be based on clinical indication, regardless of sex or race or ethnicity, and efforts to reduce disparities of care are warranted.",
+            "ru": "У пациентов, нуждающихся в коронарной реваскуляризации, решения о тактике лечения должны основываться на клинических показаниях независимо от пола, расовой или этнической принадлежности; необходимы активные усилия по устранению неравенства в оказании медицинской помощи."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

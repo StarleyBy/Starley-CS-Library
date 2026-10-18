@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt10-coronary-angiography-revascularization-nste-acs",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 10",
+  "title": {
+    "en": "Recommendations for Coronary Angiography and Revascularization in Patients With NSTE-ACS",
+    "ru": "Рекомендации по коронарографии и реваскуляризации у пациентов с ОКСбпST (NSTE-ACS)"
+  },
+  "tags": [
+    "nste-acs",
+    "angiography",
+    "revascularization",
+    "pci",
+    "cabg",
+    "cardiogenic-shock",
+    "timing"
+  ],
+  "sections": [
+    {
+      "id": "sec-angiography-revascularization-nste-acs",
+      "title": {
+        "en": "Coronary Angiography and Revascularization in Patients With NSTE-ACS",
+        "ru": "Коронарография и реваскуляризация у пациентов с ОКСбпST (NSTE-ACS)"
+      },
+      "rows": [
+        {
+          "id": "r01-nste-acs-elevated-risk-invasive-strategy",
+          "text": {
+            "en": "In patients with NSTE-ACS who are at elevated risk of recurrent ischemic events and are appropriate candidates for revascularization, an invasive strategy with the intent to proceed with revascularization is indicated to reduce cardiovascular events.",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS) с повышенным риском рецидивирующих ишемических событий, являющихся подходящими кандидатами для реваскуляризации, показана инвазивная стратегия с намерением выполнить реваскуляризацию для снижения частоты сердечно-сосудистых событий."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-nste-acs-cardiogenic-shock-emergency-revasc",
+          "text": {
+            "en": "In patients with NSTE-ACS and cardiogenic shock who are appropriate candidates for revascularization, emergency revascularization is recommended to reduce risk of death.",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS) и кардиогенным шоком, являющихся подходящими кандидатами для реваскуляризации, рекомендуется экстренная реваскуляризация для снижения риска смерти."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [5, 6, 7, 8, 9]
+        },
+        {
+          "id": "r03-nste-acs-refractory-angina-immediate-invasive",
+          "text": {
+            "en": "In appropriate patients with NSTE-ACS who have refractory angina or hemodynamic or electrical instability, an immediate invasive strategy with intent to perform revascularization is indicated to improve outcomes.",
+            "ru": "У подходящих пациентов с ОКСбпST (NSTE-ACS) с рефрактерной стенокардией, гемодинамической или электрической нестабильностью показана немедленная инвазивная стратегия с намерением выполнить реваскуляризацию для улучшения исходов."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [10]
+        },
+        {
+          "id": "r04-nste-acs-stabilized-high-risk-early-invasive",
+          "text": {
+            "en": "In patients with NSTE-ACS who are initially stabilized and are at high risk of clinical events, it is reasonable to choose an early invasive strategy (within 24 hours) over a delayed invasive strategy to improve outcomes.",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS), первоначально стабилизированных и имеющих высокий риск клинических событий, целесообразно выбрать раннюю инвазивную стратегию (в течение 24 часов), а не отсроченную инвазивную стратегию, для улучшения исходов."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [11, 12, 13, 14, 15]
+        },
+        {
+          "id": "r05-nste-acs-intermediate-low-risk-predischarge-invasive",
+          "text": {
+            "en": "In patients with NSTE-ACS who are initially stabilized and are at intermediate or low risk of clinical events, an invasive strategy with intent to perform revascularization is reasonable before hospital discharge to improve outcomes.",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS), первоначально стабилизированных и имеющих промежуточный или низкий риск клинических событий, целесообразна инвазивная стратегия с намерением выполнить реваскуляризацию до выписки из стационара для улучшения исходов."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [11, 12, 13, 14, 15, 16]
+        },
+        {
+          "id": "r06-nste-acs-failed-pci-emergency-cabg",
+          "text": {
+            "en": "In patients with NSTE-ACS who have failed PCI and have ongoing ischemia, hemodynamic compromise, or threatened occlusion of an artery with substantial myocardium at risk, who are appropriate candidates for CABG, emergency CABG is reasonable.",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS) после неудачного ЧКВ с продолжающейся ишемией, гемодинамическими нарушениями или угрозой окклюзии артерии со значительной зоной миокарда под угрозой, являющихся подходящими кандидатами для КШ, целесообразно экстренное КШ."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [5, 17]
+        },
+        {
+          "id": "r07-nste-acs-cardiogenic-shock-no-routine-multivessel-pci",
+          "text": {
+            "en": "In patients with NSTE-ACS who present in cardiogenic shock, routine multivessel PCI of non-culprit lesions in the same setting should not be performed.",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS), поступивших с кардиогенным шоком, не следует рутинно выполнять многососудистое ЧКВ неинфаркт-связанных (не-виновных) поражений во время той же процедуры."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [18, 19]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

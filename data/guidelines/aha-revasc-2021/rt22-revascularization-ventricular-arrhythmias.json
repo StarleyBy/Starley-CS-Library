@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt22-revascularization-ventricular-arrhythmias",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 22",
+  "title": {
+    "en": "Recommendations for Revascularization in Patients to Reduce Ventricular Arrhythmias",
+    "ru": "Рекомендации по реваскуляризации у пациентов для снижения риска желудочковых аритмий"
+  },
+  "tags": [
+    "ventricular-arrhythmias",
+    "ventricular-fibrillation",
+    "ventricular-tachycardia",
+    "vt",
+    "cardiac-arrest",
+    "scar-mediated-vt"
+  ],
+  "sections": [
+    {
+      "id": "sec-revascularization-ventricular-arrhythmias",
+      "title": {
+        "en": "Revascularization in Patients to Reduce Ventricular Arrhythmias",
+        "ru": "Реваскуляризация у пациентов для снижения риска желудочковых аритмий"
+      },
+      "rows": [
+        {
+          "id": "r01-vf-polymorphic-vt-cardiac-arrest-revasc",
+          "text": {
+            "en": "In patients with ventricular fibrillation, polymorphic ventricular tachycardia (VT), or cardiac arrest, revascularization of significant CAD is recommended to improve survival.",
+            "ru": "У пациентов с фибрилляцией желудочков, полиморфной желудочковой тахикардией (ЖТ/VT) или остановкой сердца рекомендуется реваскуляризация при значимом стенозировании коронарных артерий для повышения выживаемости."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-scar-mediated-monomorphic-vt-no-revasc-sole-purpose",
+          "text": {
+            "en": "In patients with CAD and suspected scar-mediated sustained monomorphic VT, revascularization is not recommended for the sole purpose of preventing recurrent VT.",
+            "ru": "У пациентов с ИБС и подозрением на устойчивую мономорфную желудочковую тахикардию (ЖТ), обусловленную рубцовой тканью, реваскуляризация исключительно с целью предотвращения рецидивов ЖТ не рекомендуется."
+          },
+          "class": "III-no-benefit",
+          "level": "C-LD",
+          "refs": [5, 6, 7, 8, 9]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

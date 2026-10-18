@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.t08-best-practices-cath-lab-ckd",
+  "guidelineId": "aha-revasc-2021",
+  "number": "Table 8",
+  "type": "grid",
+  "title": {
+    "en": "Best Practices in the Catheterization Laboratory for Patients With CKD Undergoing Angiography",
+    "ru": "Передовая практика в ангиографической лаборатории (рентгеноперационной) у пациентов с ХБП, проходящих ангиографию"
+  },
+  "tags": [
+    "ckd",
+    "catheterization-laboratory",
+    "angiography",
+    "contrast-induced-aki",
+    "hydration",
+    "radial-access",
+    "statins",
+    "cabg-timing"
+  ],
+  "columns": [
+    {
+      "id": "best_practice",
+      "title": {
+        "en": "Best Practice",
+        "ru": "Клиническая рекомендация / практика"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "assess-aki-risk",
+      "cells": [
+        {
+          "text": {
+            "en": "Assess the risk of contrast-induced AKI before the procedure",
+            "ru": "Оценить риск контраст-индуцированного ОПП (AKI) до начала процедуры"
+          },
+          "refs": [1, 2, 3]
+        }
+      ]
+    },
+    {
+      "id": "preprocedural-hydration",
+      "cells": [
+        {
+          "text": {
+            "en": "Administer adequate preprocedural hydration",
+            "ru": "Обеспечить адекватную препроцедурную гидратацию"
+          },
+          "refs": [19, 20]
+        }
+      ]
+    },
+    {
+      "id": "minimize-contrast-volume",
+      "cells": [
+        {
+          "text": {
+            "en": "Record the volume of contrast media administered, and minimize contrast use",
+            "ru": "Регистрировать объем введенного контрастного препарата и минимизировать расход контраста"
+          },
+          "refs": [19, 22, 23]
+        }
+      ]
+    },
+    {
+      "id": "high-intensity-statins",
+      "cells": [
+        {
+          "text": {
+            "en": "Pretreat with high-intensity statins",
+            "ru": "Провести предварительную подготовку высокоинтенсивными статинами"
+          },
+          "refs": [21, 24, 25]
+        }
+      ]
+    },
+    {
+      "id": "radial-artery-access",
+      "cells": [
+        {
+          "text": {
+            "en": "Use radial artery if feasible",
+            "ru": "Использовать доступ через лучевую артерию при технической осуществимости"
+          },
+          "refs": [31, 32, 33]
+        }
+      ]
+    },
+    {
+      "id": "no-n-acetylcysteine",
+      "cells": [
+        {
+          "text": {
+            "en": "Do not administer N-acetyl-L-cysteine to prevent contrast-induced AKI",
+            "ru": "Не вводить N-ацетил-L-цистеин для профилактики контраст-индуцированного ОПП (AKI)"
+          },
+          "refs": [39, 40]
+        }
+      ]
+    },
+    {
+      "id": "no-prophylactic-rrt",
+      "cells": [
+        {
+          "text": {
+            "en": "Do not give prophylactic renal replacement therapy",
+            "ru": "Не проводить профилактическую заместительную почечную терапию"
+          },
+          "refs": [41, 42]
+        }
+      ]
+    },
+    {
+      "id": "delay-cabg-post-angiography",
+      "cells": [
+        {
+          "text": {
+            "en": "Delay CABG in stable patients after angiography beyond 24 hours when clinically feasible",
+            "ru": "Отложить КШ у стабильных пациентов после ангиографии более чем на 24 часа при клинической осуществимости"
+          },
+          "refs": [43, 44, 45]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "AKI indicates acute kidney injury; CABG, coronary artery bypass graft; and CKD, chronic kidney disease.",
+      "ru": "AKI — острое повреждение почек (ОПП); CABG (КШ) — коронарное шунтирование; CKD (ХБП) — хроническая болезнь почек."
+    }
+  },
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

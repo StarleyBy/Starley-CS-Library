@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t22-factors-shared-decision-making-choice-prosthetic-valve",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 22",
+  "type": "grid",
+  "title": {
+    "en": "Selected Factors That May Impact Shared Decision-Making for the Choice of Prosthetic Valve",
+    "ru": "Факторы, влияющие на совместное принятие решений при выборе типа клапанного протеза"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-valves",
+    "mechanical-valve",
+    "bioprosthesis",
+    "shared-decision-making",
+    "structural-deterioration",
+    "anticoagulation",
+    "inr-monitoring",
+    "valve-in-valve",
+    "viv"
+  ],
+  "columns": [
+    {
+      "id": "favor_mechanical",
+      "title": {
+        "en": "Favor Mechanical Prosthesis",
+        "ru": "В пользу механического протеза"
+      }
+    },
+    {
+      "id": "favor_bioprosthesis",
+      "title": {
+        "en": "Favor Bioprosthesis",
+        "ru": "В пользу биологического протеза"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "row-01-age",
+      "cells": [
+        {
+          "text": {
+            "en": "Age <50 y\n\nIncreased incidence of structural deterioration with bioprosthesis (15-y risk: 30% for age 40 y, 50% for age 20 y)\n\nLower risk of anticoagulation complications",
+            "ru": "Возраст <50 лет\n\nВысокая частота структурной дегенерации биопротеза (15-летний риск: 30% в возрасте 40 лет, 50% в возрасте 20 лет)\n\nБолее низкий риск осложнений антикоагулянтной терапии"
+          }
+        },
+        {
+          "text": {
+            "en": "Age >65 y\n\nLow incidence of structural deterioration (15-y risk: <10% for age >70 y)\n\nHigher risk of anticoagulation complications",
+            "ru": "Возраст >65 лет\n\nНизкая частота структурной дегенерации (15-летний риск: <10% для возраста >70 лет)\n\nБолее высокий риск геморрагических осложнений антикоагулянтной терапии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-02-patient-preference",
+      "cells": [
+        {
+          "text": {
+            "en": "Patient preference (avoid risk of reintervention)",
+            "ru": "Предпочтение пациента (желание избежать риска повторной операции)"
+          }
+        },
+        {
+          "text": {
+            "en": "Patient preference (avoid risk and inconvenience of anticoagulation)",
+            "ru": "Предпочтение пациента (желание избежать риска и неудобств антикоагулянтной терапии)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-03-risk-long-term-anticoagulation",
+      "cells": [
+        {
+          "text": {
+            "en": "Low risk of long-term anticoagulation",
+            "ru": "Низкий риск длительной антикоагулянтной терапии"
+          }
+        },
+        {
+          "text": {
+            "en": "High risk of long-term anticoagulation",
+            "ru": "Высокий риск длительной антикоагулянтной терапии (высокий риск кровотечений)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-04-compliance-inr-monitoring",
+      "cells": [
+        {
+          "text": {
+            "en": "Compliant patient with either home monitoring or close access to INR monitoring",
+            "ru": "Комплаентный пациент с возможностью самоконтроля МНО на дому или доступным регулярным лабораторным контролем МНО"
+          }
+        },
+        {
+          "text": {
+            "en": "Limited access to medical care or inability to regulate VKA",
+            "ru": "Ограниченный доступ к медицинской помощи или невозможность регулярного подбора дозы АВК"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-05-other-indication-or-reoperation-mortality",
+      "cells": [
+        {
+          "text": {
+            "en": "Other indication for long-term anticoagulation (eg, AF)",
+            "ru": "Наличие других показаний к длительной антикоагулянтной терапии (например, ФП)"
+          }
+        },
+        {
+          "text": {
+            "en": "Access to surgical centers with low reoperation mortality rate",
+            "ru": "Доступ к хирургическим центрам с низкой летальностью при повторных операциях"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-06-reintervention-risk-viv",
+      "cells": [
+        {
+          "text": {
+            "en": "High-risk reintervention (eg, porcelain aorta, prior radiation therapy)",
+            "ru": "Высокий риск повторного хирургического вмешательства (например, «фарфоровая» аорта, предшествующая лучевая терапия)"
+          }
+        },
+        {
+          "text": {
+            "en": "Access to transcatheter ViV replacement",
+            "ru": "Доступность транскатетерной имплантации «клапан-в-клапан» (ViV)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-07-aortic-root-size",
+      "cells": [
+        {
+          "text": {
+            "en": "Small aortic root size for AVR (may preclude ViV procedure in future)",
+            "ru": "Малый размер корня аорты при AVR (может сделать невозможной процедуру ViV в будущем)"
+          }
+        },
+        {
+          "text": {
+            "en": "TAVI valves have larger effective orifice areas for smaller valve sizes (avoid patient–prosthesis mismatch)",
+            "ru": "Клапаны TAVI имеют большую эффективную площадь отверстия при малых размерах протеза (профилактика несоответствия протеза пациенту)"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "AF indicates atrial fibrillation; AVR, aortic valve replacement; INR, international normalized ratio; TAVI, transcatheter aortic valve implantation; ViV, valve-in-valve; and VKA, vitamin K antagonist.",
+      "ru": "AF (ФП) — фибрилляция предсердий; AVR — протезирование аортального клапана; INR (МНО) — международное нормализованное отношение; TAVI — транскатетерная имплантация аортального клапана; ViV — «клапан-в-клапан» (valve-in-valve); VKA (АВК) — антагонист витамина K."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

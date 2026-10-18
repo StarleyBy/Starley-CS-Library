@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt18-intervention-replacement-aorta-bav",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 18",
+  "title": {
+    "en": "Recommendations for Intervention: Replacement of the Aorta in Patients With a BAV",
+    "ru": "Рекомендации по вмешательству: протезирование аорты у пациентов с двустворчатым аортальным клапаном"
+  },
+  "tags": [
+    "vhd",
+    "bicuspid-aortic-valve",
+    "bav",
+    "aortic-aneurysm",
+    "aortic-replacement",
+    "ascending-aorta",
+    "aortic-sinuses",
+    "aortic-dissection",
+    "valve-sparing-surgery"
+  ],
+  "sections": [
+    {
+      "id": "sec-intervention-replacement-aorta-bav",
+      "title": {
+        "en": "Replacement of the Aorta in Patients With a BAV",
+        "ru": "Протезирование аорты у пациентов с ДАК"
+      },
+      "rows": [
+        {
+          "id": "r01-aorta-diameter-over-5-5-cm",
+          "text": {
+            "en": "In asymptomatic or symptomatic patients with a BAV and a diameter of the aortic sinuses or ascending aorta >5.5 cm, operative intervention to replace the aortic sinuses and/or the ascending aorta is recommended.",
+            "ru": "У бессимптомных или симптомных пациентов с ДАК и диаметром синусов аорты или восходящей аорты >5,5 см рекомендуется хирургическое вмешательство по протезированию синусов аорты и/или восходящей аорты."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-aorta-5-0-to-5-5-cm-with-risk-factors",
+          "text": {
+            "en": "In asymptomatic patients with a BAV, a diameter of the aortic sinuses or ascending aorta of 5.0 to 5.5 cm, and an additional risk factor for dissection (eg, family history of aortic dissection, aortic growth rate >0.5 cm per year, aortic coarctation), operative intervention to replace the aortic sinuses and/or the ascending aorta is reasonable if the surgery is performed at a Comprehensive Valve Center.",
+            "ru": "У бессимптомных пациентов с ДАК, диаметром синусов аорты или восходящей аорты 5,0–5,5 см и дополнительным фактором риска расслоения (семейный анамнез расслоения аорты, скорость роста аорты >0,5 см/год, коарктация аорты) оправдано хирургическое протезирование синусов и/или восходящей аорты при условии выполнения операции в экспертном клапанном центре."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [2, 4]
+        },
+        {
+          "id": "r03-savr-indication-aorta-over-4-5-cm",
+          "text": {
+            "en": "In patients with a BAV with indications for SAVR and a diameter of the aortic sinuses or ascending aorta ≥4.5 cm, replacement of the aortic sinuses and/or ascending aorta is reasonable if the surgery is performed at a Comprehensive Valve Center.",
+            "ru": "У пациентов с ДАК, имеющих показания к SAVR и диаметр синусов аорты или восходящей аорты ≥4,5 см, оправдано симультанное протезирование синусов и/или восходящей аорты при выполнении вмешательства в экспертном клапанном центре."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [4, 5, 6, 7]
+        },
+        {
+          "id": "r04-valve-sparing-surgery-criteria-met",
+          "text": {
+            "en": "In patients with a BAV who meet criteria for replacement of the aortic sinuses, valve-sparing surgery may be considered if the surgery is performed at a Comprehensive Valve Center.",
+            "ru": "У пациентов с ДАК, соответствующим критериям для протезирования синусов аорты, можно рассмотреть клапансохраняющую операцию при условии ее выполнения в экспертном клапанном центре."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [8, 9]
+        },
+        {
+          "id": "r05-asymptomatic-5-0-to-5-5-cm-no-risk-factors",
+          "text": {
+            "en": "In asymptomatic patients with a BAV who are at low surgical risk, have a diameter of the aortic sinuses or ascending aorta of 5.0 to 5.5 cm, and have no additional risk factors for dissection, operative intervention to replace the aortic sinuses and/or the ascending aorta may be considered if the surgery is performed at a Comprehensive Valve Center.",
+            "ru": "У бессимптомных пациентов с ДАК при низком хирургическом риске, диаметре синусов или восходящей аорты 5,0–5,5 см и отсутствии дополнительных факторов риска расслоения можно рассмотреть протезирование синусов и/или восходящей аорты при выполнении вмешательства в экспертном клапанном центре."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [4, 5, 6, 7, 10, 11, 12, 13, 14]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

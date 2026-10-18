@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt17-diagnostic-testing-routine-follow-up-bav",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 17",
+  "title": {
+    "en": "Recommendations for Diagnostic Testing: Routine Follow-Up of Patients With a BAV",
+    "ru": "Рекомендации по диагностическому обследованию: плановое динамическое наблюдение пациентов с двустворчатым аортальным клапаном"
+  },
+  "tags": [
+    "vhd",
+    "bicuspid-aortic-valve",
+    "bav",
+    "follow-up",
+    "aortic-dilation",
+    "aortopathy",
+    "echo",
+    "cmr",
+    "ct-angiography",
+    "post-avr"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnostic-testing-routine-follow-up-bav",
+      "title": {
+        "en": "Diagnostic Testing: Routine Follow-Up of Patients With a BAV",
+        "ru": "Диагностическое обследование: плановое динамическое наблюдение пациентов с ДАК"
+      },
+      "rows": [
+        {
+          "id": "r01-serial-imaging-aorta-over-4cm",
+          "text": {
+            "en": "In patients with BAV and a diameter of the aortic sinuses or ascending aorta of ≥4.0 cm, lifelong serial evaluation of the size and morphology of the aortic sinuses and ascending aorta by echocardiography, CMR, or CT angiography is reasonable, with the examination interval determined by the degree and rate of progression of aortic dilation and by family history.",
+            "ru": "У пациентов с ДАК и диаметром синусов аорты или восходящей аорты ≥4,0 см оправдан пожизненный динамический контроль размеров и морфологии корня и восходящей аорты с помощью ЭхоКГ, МРТ или КТ-ангиографии, с интервалами, определяемыми степенью и скоростью прогрессирования дилатации аорты, а также семейным анамнезом."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-serial-imaging-post-avr-aorta-over-4cm",
+          "text": {
+            "en": "In patients with a BAV who have undergone AVR, continued lifelong serial interval imaging of the aorta is reasonable if the diameter of the aortic sinuses or ascending aorta is ≥4.0 cm.",
+            "ru": "У пациентов с ДАК, перенесших ПАК (AVR), оправдана непрерывная пожизненная периодическая визуализация аорты, если диаметр синусов аорты или восходящей аорты составляет ≥4,0 см."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [6, 7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t18-stages-of-secondary-mr",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 18",
+  "type": "grid",
+  "title": {
+    "en": "Stages of Secondary MR",
+    "ru": "Стадии вторичной митральной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "mitral-regurgitation",
+    "secondary-mr",
+    "functional-mr",
+    "stages-of-mr",
+    "stage-a",
+    "stage-b",
+    "stage-c",
+    "stage-d",
+    "tethering",
+    "ero",
+    "cad",
+    "cardiomyopathy"
+  ],
+  "columns": [
+    {
+      "id": "stage",
+      "title": {
+        "en": "Stage",
+        "ru": "Стадия"
+      }
+    },
+    {
+      "id": "definition",
+      "title": {
+        "en": "Definition",
+        "ru": "Определение"
+      }
+    },
+    {
+      "id": "valve_anatomy",
+      "title": {
+        "en": "Valve Anatomy",
+        "ru": "Анатомия клапана"
+      }
+    },
+    {
+      "id": "valve_hemodynamics",
+      "title": {
+        "en": "Valve Hemodynamics*",
+        "ru": "Клапанная гемодинамика*"
+      }
+    },
+    {
+      "id": "associated_cardiac_findings",
+      "title": {
+        "en": "Associated Cardiac Findings",
+        "ru": "Сопутствующие кардиальные изменения"
+      }
+    },
+    {
+      "id": "symptoms",
+      "title": {
+        "en": "Symptoms",
+        "ru": "Симптомы"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "stage-a",
+      "cells": [
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        },
+        {
+          "text": {
+            "en": "At risk of MR",
+            "ru": "В группе риска развития МР"
+          }
+        },
+        {
+          "text": {
+            "en": "Normal valve leaflets, chords, and annulus in a patient with CAD or cardiomyopathy",
+            "ru": "Нормальные створки, хорды и кольцо клапана у пациента с ИБС или кардиомиопатией"
+          }
+        },
+        {
+          "text": {
+            "en": "No MR jet or small central jet area <20% LA on Doppler\nSmall vena contracta <0.30 cm",
+            "ru": "Струя МР отсутствует или небольшая центральная струя площадью <20% ЛП по данным допплерографии\nУзкая vena contracta <0,30 см"
+          }
+        },
+        {
+          "text": {
+            "en": "Normal or mildly dilated LV size with fixed (infarction) or inducible (ischemia) regional wall motion abnormalities\nPrimary myocardial disease with LV dilation and systolic dysfunction",
+            "ru": "Нормальный или незначительно увеличенный размер ЛЖ со стойкими (рубец/инфаркт) или индуцируемыми (ишемия) нарушениями локальной сократимости\nПервичное заболевание миокарда с дилатацией ЛЖ и систолической дисфункцией"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptoms attributable to coronary ischemia or HF may be present that respond to revascularization and appropriate medical therapy",
+            "ru": "Могут присутствовать симптомы, обусловленные коронарной ишемией или СН, отвечающие на реваскуляризацию и надлежащую медикаментозную терапию"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-b",
+      "cells": [
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          }
+        },
+        {
+          "text": {
+            "en": "Progressive MR",
+            "ru": "Прогрессирующая МР"
+          }
+        },
+        {
+          "text": {
+            "en": "Regional wall motion abnormalities with mild tethering of mitral leaflet\nAnnular dilation with mild loss of central coaptation of the mitral leaflets",
+            "ru": "Нарушения локальной сократимости с легким натяжением (тент-эффектом/tethering) митральной створки\nДилатация фиброзного кольца с легкой потерей центральной коаптации створок МК"
+          }
+        },
+        {
+          "text": {
+            "en": "ERO <0.40 cm^2^[b]\nRegurgitant volume <60 mL\nRegurgitant fraction <50%",
+            "ru": "ERO <0,40 см²^[b]\nОбъем регургитации <60 мл\nФракция регургитации <50%"
+          }
+        },
+        {
+          "text": {
+            "en": "Regional wall motion abnormalities with reduced LV systolic function\nLV dilation and systolic dysfunction attributable to primary myocardial disease",
+            "ru": "Нарушения локальной сократимости со снижением систолической функции ЛЖ\nДилатация ЛЖ и систолическая дисфункция вследствие первичного поражения миокарда"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptoms attributable to coronary ischemia or HF may be present that respond to revascularization and appropriate medical therapy",
+            "ru": "Могут присутствовать симптомы, обусловленные коронарной ишемией или СН, отвечающие на реваскуляризацию и надлежащую медикаментозную терапию"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-c",
+      "cells": [
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          }
+        },
+        {
+          "text": {
+            "en": "Asymptomatic severe MR",
+            "ru": "Бессимптомная тяжелая МР"
+          }
+        },
+        {
+          "text": {
+            "en": "Regional wall motion abnormalities and/or LV dilation with severe tethering of mitral leaflet\nAnnular dilation with severe loss of central coaptation of the mitral leaflets",
+            "ru": "Нарушения локальной сократимости и/или дилатация ЛЖ с выраженным натяжением (тент-эффектом/tethering) створок МК\nДилатация фиброзного кольца с выраженной утратой центральной коаптации створок МК"
+          }
+        },
+        {
+          "text": {
+            "en": "ERO ≥0.40 cm^2^[b]\nRegurgitant volume ≥60 mL^[c]\nRegurgitant fraction ≥50%",
+            "ru": "ERO ≥0,40 см²^[b]\nОбъем регургитации ≥60 мл^[c]\nФракция регургитации ≥50%"
+          }
+        },
+        {
+          "text": {
+            "en": "Regional wall motion abnormalities with reduced LV systolic function\nLV dilation and systolic dysfunction attributable to primary myocardial disease",
+            "ru": "Нарушения локальной сократимости со снижением систолической функции ЛЖ\nДилатация ЛЖ и систолическая дисфункция вследствие первичного поражения миокарда"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptoms attributable to coronary ischemia or HF may be present that respond to revascularization and appropriate medical therapy",
+            "ru": "Могут присутствовать симптомы, обусловленные коронарной ишемией или СН, отвечающие на реваскуляризацию и надлежащую медикаментозную терапию"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-d",
+      "cells": [
+        {
+          "text": {
+            "en": "D",
+            "ru": "D"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptomatic severe MR",
+            "ru": "Симптомная тяжелая МР"
+          }
+        },
+        {
+          "text": {
+            "en": "Regional wall motion abnormalities and/or LV dilation with severe tethering of mitral leaflet\nAnnular dilation with severe loss of central coaptation of the mitral leaflets",
+            "ru": "Нарушения локальной сократимости и/или дилатация ЛЖ с выраженным натяжением (тент-эффектом/tethering) створок МК\nДилатация фиброзного кольца с выраженной утратой центральной коаптации створок МК"
+          }
+        },
+        {
+          "text": {
+            "en": "ERO ≥0.40 cm^2^[b]\nRegurgitant volume ≥60 mL^[c]\nRegurgitant fraction ≥50%",
+            "ru": "ERO ≥0,40 см²^[b]\nОбъем регургитации ≥60 мл^[c]\nФракция регургитации ≥50%"
+          }
+        },
+        {
+          "text": {
+            "en": "Regional wall motion abnormalities with reduced LV systolic function\nLV dilation and systolic dysfunction attributable to primary myocardial disease",
+            "ru": "Нарушения локальной сократимости со снижением систолической функции ЛЖ\nДилатация ЛЖ и систолическая дисфункция вследствие первичного поражения миокарда"
+          }
+        },
+        {
+          "text": {
+            "en": "HF symptoms attributable to MR persist even after revascularization and optimization of medical therapy\nDecreased exercise tolerance\nExertional dyspnea",
+            "ru": "Симптомы СН, обусловленные МР, сохраняются даже после реваскуляризации и оптимизации медикаментозной терапии\nСнижение толерантности к физической нагрузке\nОдышка при нагрузке"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Several valve hemodynamic criteria are provided for assessment of MR severity, but not all criteria for each category will be present in each patient. Categorization of MR severity as mild, moderate, or severe depends on data quality and integration of these parameters in conjunction with other clinical evidence.",
+      "ru": "Для оценки степени тяжести МР представлено несколько гемодинамических критериев, однако не все критерии каждой категории обязательно присутствуют у каждого пациента. Классификация тяжести МР (легкая, умеренная или тяжелая) зависит от качества данных и интеграции этих параметров в совокупности с другими клиническими доказательствами."
+    },
+    "b": {
+      "en": "The measurement of the proximal isovelocity surface area by 2D TTE in patients with secondary MR underestimates the true ERO because of the crescentic shape of the proximal convergence.",
+      "ru": "Измерение площади проксимальной зоны конвергенции (PISA) при 2D ТТ-ЭхоКГ у пациентов со вторичной МР занижает истинную эффективную площадь отверстия регургитации (ERO) из-за полулунной (серповидной) формы зоны конвергенции."
+    },
+    "c": {
+      "en": "May be lower in low-flow states. 2D indicates 2-dimensional; CAD, coronary artery disease; ERO, effective regurgitant orifice; HF, heart failure; LA, left atrium; LV, left ventricular; MR, mitral regurgitation; and TTE, transthoracic echocardiogram.",
+      "ru": "Может быть ниже при состояниях с низким сердечным выбросом (low-flow). 2D — двухмерная; CAD (ИБС) — ишемическая болезнь сердца; ERO — эффективная площадь отверстия регургитации; HF (СН) — сердечная недостаточность; LA (ЛП) — левое предсердие; LV (ЛЖ) — левый желудочек; MR (МР) — митральная регургитация; TTE (ТТ-ЭхоКГ) — трансторакальная эхокардиография."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

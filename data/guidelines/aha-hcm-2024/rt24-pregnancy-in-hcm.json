@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt24-pregnancy-in-hcm",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 24",
+  "title": {
+    "en": "Recommendations for Pregnancy in Patients With HCM",
+    "ru": "Рекомендации по ведению беременности у пациенток с ГКМП"
+  },
+  "tags": [
+    "hcm",
+    "pregnancy",
+    "anticoagulation",
+    "lmwh",
+    "vka",
+    "beta-blockers",
+    "vaginal-delivery",
+    "genetic-counseling",
+    "cardioversion",
+    "anesthesia",
+    "fetal-echocardiography",
+    "mavacamten"
+  ],
+  "sections": [
+    {
+      "id": "sec-pregnancy-in-hcm",
+      "title": {
+        "en": "Pregnancy in Patients With HCM",
+        "ru": "Беременность у пациенток с ГКМП"
+      },
+      "rows": [
+        {
+          "id": "r01-anticoagulation-pregnancy-af",
+          "text": {
+            "en": "For pregnant women with HCM and AF or other indications for anticoagulation, low-molecular-weight heparin or vitamin K antagonists (at maximum therapeutic dose of <5 mg daily) are recommended for stroke prevention.",
+            "ru": "У беременных женщин с ГКМП и ФП или другими показаниями к антикоагулянтной терапии для профилактики инсульта рекомендуются низкомолекулярный гепарин или антагонисты витамина К (в максимальной терапевтической дозе <5 мг/сутки)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-beta-blockers-pregnancy",
+          "text": {
+            "en": "In pregnant women with HCM, selected beta blockers should be administered for symptoms related to outflow tract obstruction or arrhythmias, with monitoring of fetal growth.",
+            "ru": "У беременных женщин с ГКМП при симптомах, связанных с обструкцией выходного тракта или аритмиями, следует назначать селективные бета-блокаторы с обязательным контролем роста плода."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [3, 4]
+        },
+        {
+          "id": "r03-vaginal-delivery-first-choice",
+          "text": {
+            "en": "In most pregnant women with HCM, vaginal delivery is recommended as the first-choice delivery option.",
+            "ru": "У большинства беременных женщин с ГКМП роды через естественные родовые пути рекомендуются в качестве предпочтительного метода родоразрешения."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [3, 5]
+        },
+        {
+          "id": "r04-preconceptional-prenatal-genetic-counseling",
+          "text": {
+            "en": "In affected families with HCM, preconceptional and prenatal reproductive and genetic counseling should be offered.",
+            "ru": "В семьях с ГКМП следует предлагать преконцепционное и пренатальное репродуктивное и медико-генетическое консультирование."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [3, 4, 5, 6]
+        },
+        {
+          "id": "r05-coordinated-care-cardiologist-obstetrician",
+          "text": {
+            "en": "For pregnant women with HCM, care should be coordinated between their cardiologist and an obstetrician. For patients with HCM who are deemed high risk, consultation is advised with an expert in maternal-fetal medicine.",
+            "ru": "Ведение беременных женщин с ГКМП должно быть скоординировано между кардиологом и акушером-гинекологом. При высоком риске рекомендуется консультация эксперта по медицине плода и материнства."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r06-clinically-stable-pregnancy-generally-safe",
+          "text": {
+            "en": "For women with clinically stable HCM who wish to become pregnant, it is reasonable to advise that pregnancy is generally safe as part of a shared discussion regarding potential maternal and fetal risks, and initiation of GDMT.",
+            "ru": "Женщинам с клинически стабильной ГКМП, желающим забеременеть, оправдано разъяснять, что беременность в целом безопасна, в рамках совместного обсуждения потенциальных рисков для матери и плода и назначения ОМТ."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [7, 8, 9, 10]
+        },
+        {
+          "id": "r07-cardioversion-af-pregnancy",
+          "text": {
+            "en": "In pregnant women with HCM, cardioversion for new or recurrent AF, particularly if symptomatic, is reasonable.",
+            "ru": "У беременных женщин с ГКМП проведение кардиоверсии при впервые возникшей или рецидивирующей ФП, особенно симптомной, оправдано."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [5, 11]
+        },
+        {
+          "id": "r08-general-epidural-anesthesia",
+          "text": {
+            "en": "In pregnant women with HCM, general or epidural anesthesia is reasonable, with precautions to avoid hypotension.",
+            "ru": "У беременных женщин с ГКМП проведение общей или эпидуральной анестезии оправдано с соблюдением мер предосторожности по предупреждению артериальной гипотензии."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [5]
+        },
+        {
+          "id": "r09-serial-echocardiography-pregnancy",
+          "text": {
+            "en": "In pregnant women with HCM, it is reasonable to perform serial echocardiography, particularly during the second or third trimester when hemodynamic load is highest, or if clinical symptoms develop.",
+            "ru": "У беременных женщин с ГКМП оправдано проведение динамической эхокардиографии, особенно во II или III триместре, когда гемодинамическая нагрузка максимальна, либо при развитии клинических симптомов."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r10-fetal-echocardiography",
+          "text": {
+            "en": "In pregnant women with HCM, fetal echocardiography may be considered for diagnosis of fetal HCM in the context of prenatal counseling.",
+            "ru": "У беременных женщин с ГКМП может быть рассмотрено проведение ЭхоКГ плода для диагностики ГКМП плода в рамках пренатального консультирования."
+          },
+          "class": "IIb",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r11-contraindication-mavacamten",
+          "text": {
+            "en": "In pregnant women, use of mavacamten is contraindicated due to potential teratogenic effects.",
+            "ru": "У беременных женщин применение мавакамтена противопоказано из-за потенциального тератогенного действия."
+          },
+          "class": "III-harm",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 11
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

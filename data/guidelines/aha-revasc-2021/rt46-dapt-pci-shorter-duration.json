@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt46-dapt-pci-shorter-duration",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 46",
+  "title": {
+    "en": "Recommendation for Dual Antiplatelet Therapy in Patients After PCI",
+    "ru": "Рекомендация по двойной антиагрегантной терапии у пациентов после ЧКВ"
+  },
+  "tags": [
+    "pci",
+    "dapt",
+    "antiplatelet-therapy",
+    "short-dapt",
+    "p2y12-inhibitors",
+    "bleeding-risk"
+  ],
+  "sections": [
+    {
+      "id": "sec-dapt-after-pci",
+      "title": {
+        "en": "Dual Antiplatelet Therapy in Patients After PCI",
+        "ru": "Двойная антиагрегантная терапия у пациентов после ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r01-short-dapt-transition-p2y12-monotherapy",
+          "text": {
+            "en": "In selected patients undergoing PCI, shorter-duration DAPT (1–3 months) is reasonable, with subsequent transition to P2Y12 inhibitor monotherapy to reduce the risk of bleeding events.",
+            "ru": "У отдельных отобранных пациентов, подвергающихся ЧКВ, сокращенная продолжительность ДАТТ (1–3 месяца) с последующим переходом на монотерапию ингибитором P2Y12 является обоснованной для снижения риска геморрагических событий."
+          },
+          "class": "IIa",
+          "level": "A",
+          "refs": [1, 2, 3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

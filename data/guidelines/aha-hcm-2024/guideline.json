@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024",
+  "society": "AHA/ACC/AMSSM/HRS/PACES/SCMR",
+  "year": 2024,
+  "title": {
+    "en": "2024 AHA/ACC/AMSSM/HRS/PACES/SCMR Guideline for the Management of Hypertrophic Cardiomyopathy: A Report of the American Heart Association/American College of Cardiology Joint Committee on Clinical Practice Guidelines",
+    "ru": "Рекомендации AHA/ACC/AMSSM/HRS/PACES/SCMR 2024 по ведению гипертрофической кардиомиопатии"
+  },
+  "shortTitle": {
+    "en": "AHA/ACC Hypertrophic Cardiomyopathy 2024",
+    "ru": "AHA/ACC Гипертрофическая кардиомиопатия 2024"
+  },
+  "citation": "Circulation. 2024;149(23):e1239–e1311",
+  "doi": "10.1161/CIR.0000000000001250",
+  "legend": "aha-acc-2022",
+  "abbreviations": {
+    "AF": { "en": "atrial fibrillation", "ru": "фибрилляция предсердий (ФП)" },
+    "CMR": { "en": "cardiovascular magnetic resonance", "ru": "магнитно-резонансная томография сердца (МРТ сердца/CMR)" },
+    "COR": { "en": "Class of Recommendation", "ru": "класс рекомендаций (COR)" },
+    "CRT": { "en": "cardiac resynchronization therapy", "ru": "сердечная ресинхронизирующая терапия (СРТ/CRT)" },
+    "HCM": { "en": "hypertrophic cardiomyopathy", "ru": "гипертрофическая кардиомиопатия (ГКМП/HCM)" },
+    "HF": { "en": "heart failure", "ru": "сердечная недостаточность (СН)" },
+    "HFpEF": { "en": "heart failure with preserved ejection fraction", "ru": "сердечная недостаточность с сохраненной фракцией выброса (СНсФВ/HFpEF)" },
+    "HFrEF": { "en": "heart failure with reduced ejection fraction", "ru": "сердечная недостаточность со сниженной фракцией выброса (СНнФВ/HFrEF)" },
+    "ICD": { "en": "implantable cardioverter-defibrillator", "ru": "имплантируемый кардиовертер-дефибриллятор (ИКД/ICD)" },
+    "LAD": { "en": "left anterior descending", "ru": "передняя межжелудочковая ветвь (ПМЖВ/LAD)" },
+    "LOE": { "en": "Level of Evidence", "ru": "уровень доказательности (LOE)" },
+    "LVOTO": { "en": "left ventricular outflow tract obstruction", "ru": "обструкция выходного тракта левого желудочка (ВТЛЖ/LVOTO)" },
+    "NYHA": { "en": "New York Heart Association", "ru": "Нью-Йоркская кардиологическая ассоциация (NYHA)" },
+    "SCD": { "en": "sudden cardiac death", "ru": "внезапная сердечная смерть (ВСС/SCD)" },
+    "SRT": { "en": "septal reduction therapy", "ru": "септальная редукционная терапия (СРТ/SRT)" },
+    "TTE": { "en": "transthoracic echocardiography", "ru": "трансторакальная эхокардиография (ТТ-ЭхоКГ/TTE)" }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt43-insulin-sternal-wound-infection-cabg",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 43",
+  "title": {
+    "en": "Recommendations for Insulin Infusion and Other Measures to Reduce Sternal Wound Infection in Patients Undergoing CABG",
+    "ru": "Рекомендации по инфузии инсулина и другим мерам снижения риска инфекции стернотомной раны у пациентов, проходящих КШ"
+  },
+  "tags": [
+    "cabg",
+    "sternal-wound-infection",
+    "insulin",
+    "glycemic-control",
+    "dswi",
+    "hyperglycemia",
+    "infection-prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-insulin-wound-infection-cabg",
+      "title": {
+        "en": "Insulin Infusion and Other Measures to Reduce Sternal Wound Infection in Patients Undergoing CABG",
+        "ru": "Инфузия инсулина и другие меры профилактики инфекции стернотомной раны у пациентов, проходящих КШ"
+      },
+      "rows": [
+        {
+          "id": "r01-intraoperative-continuous-insulin-target-180",
+          "text": {
+            "en": "In patients undergoing CABG, an intraoperative continuous insulin infusion should be initiated to maintain serum glucose level <180 mg/dL to reduce sternal wound infection.",
+            "ru": "У пациентов, подвергающихся КШ, следует начинать интраоперационную непрерывную инфузию инсулина для поддержания уровня глюкозы в сыворотке <180 мг/дл (<10,0 ммоль/л) с целью снижения риска инфекции стернотомной раны."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-postoperative-continuous-insulin-target-180",
+          "text": {
+            "en": "In patients undergoing CABG, the use of continuous intravenous insulin to achieve and maintain an early postoperative blood glucose concentration of <180 mg/dL while avoiding hypoglycemia is indicated to reduce the incidence of adverse events, including deep sternal wound infection.",
+            "ru": "У пациентов, подвергающихся КШ, применение непрерывной внутривенной инфузии инсулина для достижения и поддержания концентрации глюкозы в крови в раннем послеоперационном периоде <180 мг/дл (<10,0 ммоль/л) при избегании гипогликемии показано для снижения частоты нежелательных явлений, включая глубокую инфекцию стернотомной раны."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r03-comprehensive-approach-sternal-infection-reduction",
+          "text": {
+            "en": "In patients undergoing CABG, a comprehensive approach to reduce sternal wound infection is recommended.",
+            "ru": "У пациентов, подвергающихся КШ, рекомендуется комплексный подход для снижения риска инфекции стернотомной раны."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [7, 8, 9, 10, 11, 12, 13, 14]
+        },
+        {
+          "id": "r04-intraoperative-insulin-target-140-uncertain",
+          "text": {
+            "en": "In patients undergoing CABG, the usefulness of continuous intravenous insulin designed to achieve a target intraoperative blood glucose concentration <140 mg/dL is uncertain.",
+            "ru": "У пациентов, подвергающихся КШ, польза непрерывной внутривенной инфузии инсулина с целевым уровнем интраоперационной гликемии <140 мг/дл (<7,8 ммоль/л) не определена."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [4, 15]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt41-antithrombotic-therapy-prosthetic-valves",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 41",
+  "title": {
+    "en": "Recommendations for Antithrombotic Therapy for Prosthetic Valves",
+    "ru": "Рекомендации по антитромботической терапии у пациентов с искусственными клапанами сердца"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-valves",
+    "antithrombotic-therapy",
+    "anticoagulation",
+    "antiplatelet",
+    "vka",
+    "warfarin",
+    "aspirin",
+    "clopidogrel",
+    "mechanical-valve",
+    "bioprosthesis",
+    "tavi",
+    "on-x",
+    "inr-targets",
+    "noac-contraindicated",
+    "dabigatran-contraindicated"
+  ],
+  "sections": [
+    {
+      "id": "sec-antithrombotic-therapy-prosthetic-valves",
+      "title": {
+        "en": "Antithrombotic Therapy for Prosthetic Valves",
+        "ru": "Антитромботическая терапия при наличии искусственных клапанов сердца"
+      },
+      "rows": [
+        {
+          "id": "r01-mechanical-valve-vka-anticoagulation",
+          "text": {
+            "en": "In patients with a mechanical prosthetic valve, anticoagulation with a VKA is recommended.",
+            "ru": "У пациентов с механическим клапанным протезом рекомендуется антикоагулянтная терапия антагонистами витамина K (АВК)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-mechanical-avr-bileaflet-tilting-inr-2-5",
+          "text": {
+            "en": "For patients with a mechanical bileaflet or current-generation single-tilting disk AVR and no risk factors for thromboembolism, anticoagulation with a VKA to achieve an INR of 2.5 is recommended.",
+            "ru": "У пациентов с двустворчатым или современным однодисковым механическим аортальным протезом без факторов риска тромбоэмболии рекомендуется антикоагулянтная терапия АВК с целевым МНО 2,5."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [6, 7, 8]
+        },
+        {
+          "id": "r03-mechanical-avr-thromboembolic-risks-inr-3-0",
+          "text": {
+            "en": "For patients with a mechanical AVR and additional risk factors for thromboembolism (eg, AF, previous thromboembolism, LV dysfunction, hypercoagulable state) or an older-generation prosthesis (eg, ball-in-cage), anticoagulation with a VKA is indicated to achieve an INR of 3.0.",
+            "ru": "У пациентов с механическим аортальным протезом и дополнительными факторами риска тромбоэмболии (ФП, тромбоэмболия в анамнезе, дисфункция ЛЖ, гиперкоагуляционное состояние) или протезом старого поколения (шаровым) показана антикоагулянтная терапия АВК с целевым МНО 3,0."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [9, 10]
+        },
+        {
+          "id": "r04-mechanical-mvr-inr-3-0",
+          "text": {
+            "en": "For patients with a mechanical mitral valve replacement, anticoagulation with a VKA is indicated to achieve an INR of 3.0.",
+            "ru": "У пациентов с механическим митральным протезом показана антикоагулянтная терапия АВК с целевым МНО 3,0."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [9, 11]
+        },
+        {
+          "id": "r05-bioprosthetic-tavi-aspirin",
+          "text": {
+            "en": "For patients with a bioprosthetic TAVI, aspirin 75 to 100 mg daily is reasonable in the absence of other indications for oral anticoagulants.",
+            "ru": "У пациентов с биологическим протезом TAVI при отсутствии других показаний к пероральным антикоагулянтам оправдан прием аспирина в дозе 75–100 мг в сутки."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [12, 13, 14]
+        },
+        {
+          "id": "r06-bioprosthetic-savr-or-mvr-aspirin",
+          "text": {
+            "en": "For all patients with a bioprosthetic SAVR or mitral valve replacement, aspirin 75 to 100 mg daily is reasonable in the absence of other indications for oral anticoagulants.",
+            "ru": "Всем пациентам с хирургическим биологическим аортальным или митральным протезом при отсутствии других показаний к пероральным антикоагулянтам оправдан прием аспирина в дозе 75–100 мг в сутки."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [9, 15, 16, 17, 18]
+        },
+        {
+          "id": "r07-bioprosthetic-savr-mvr-vka-early-3-to-6-months",
+          "text": {
+            "en": "For patients with a bioprosthetic SAVR or mitral valve replacement who are at low risk of bleeding, anticoagulation with a VKA to achieve an INR of 2.5 is reasonable for at least 3 months and for as long as 6 months after surgical replacement.",
+            "ru": "У пациентов с хирургическим биологическим аортальным или митральным протезом при низком риске кровотечений оправдана терапия АВК с целевым МНО 2,5 на протяжении не менее 3 и до 6 месяцев после хирургического вмешательства."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [15, 19, 20, 21, 22, 23, 24, 25]
+        },
+        {
+          "id": "r08-mechanical-valve-vka-plus-aspirin-selected-cases",
+          "text": {
+            "en": "For patients with a mechanical SAVR or mitral valve replacement who are managed with a VKA and have an indication for antiplatelet therapy, addition of aspirin 75 to 100 mg daily may be considered when the risk of bleeding is low.",
+            "ru": "У пациентов с механическим аортальным или митральным протезом, получающих АВК и имеющих показания к антиагрегантной терапии, добавление аспирина 75–100 мг/сут можно рассмотреть при низком риске кровотечений."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [26]
+        },
+        {
+          "id": "r09-mechanical-on-x-avr-lower-inr-target",
+          "text": {
+            "en": "For patients with a mechanical On-X AVR and no thromboembolic risk factors, use of a VKA targeted to a lower INR (1.5–2.0) may be reasonable starting ≥3 months after surgery, with continuation of aspirin 75 to 100 mg daily.",
+            "ru": "У пациентов с механическим аортальным протезом On-X без тромбоэмболических факторов риска через ≥3 месяца после операции может быть оправдана терапия АВК с более низким целевым МНО (1,5–2,0) в сочетании с продолжением приема аспирина 75–100 мг в сутки."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [27, 28]
+        },
+        {
+          "id": "r10-bioprosthetic-tavi-dapt-3-to-6-months",
+          "text": {
+            "en": "For patients with a bioprosthetic TAVI who are at low risk of bleeding, dual-antiplatelet therapy with aspirin 75 to 100 mg and clopidogrel 75 mg may be reasonable for 3 to 6 months after valve implantation.",
+            "ru": "У пациентов с биологическим протезом TAVI при низком риске кровотечений может быть оправдана двойная антитромбоцитарная терапия (аспирин 75–100 мг + клопидогрел 75 мг) в течение 3–6 месяцев после имплантации."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [12, 13, 29]
+        },
+        {
+          "id": "r11-bioprosthetic-tavi-vka-early-3-months",
+          "text": {
+            "en": "For patients with a bioprosthetic TAVI who are at low risk of bleeding, anticoagulation with a VKA to achieve an INR of 2.5 may be reasonable for at least 3 months after valve implantation.",
+            "ru": "У пациентов с биологическим протезом TAVI при низком риске кровотечений терапия АВК с целевым МНО 2,5 может быть оправдана в течение как минимум 3 месяцев после имплантации."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [23, 31, 32, 33]
+        },
+        {
+          "id": "r12-no-rivaroxaban-plus-aspirin-tavi",
+          "text": {
+            "en": "For patients with bioprosthetic TAVI, treatment with low-dose rivaroxaban (10 mg daily) plus aspirin (75–100 mg) is contraindicated in the absence of other indications for oral anticoagulants.",
+            "ru": "У пациентов с биологическим протезом TAVI терапия низкими дозами ривароксабана (10 мг/сут) в сочетании с аспирином (75–100 мг) противопоказана при отсутствии других показаний к пероральным антикоагулянтам."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [33]
+        },
+        {
+          "id": "r13-no-dabigatran-mechanical-prosthesis",
+          "text": {
+            "en": "For patients with a mechanical valve prosthesis, anticoagulation with the direct thrombin inhibitor, dabigatran, is contraindicated.",
+            "ru": "У пациентов с механическим клапанным протезом антикоагулянтная терапия прямым ингибитором тромбина дабигатраном противопоказана."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [4, 5]
+        },
+        {
+          "id": "r14-no-anti-xa-doac-mechanical-prosthesis",
+          "text": {
+            "en": "For patients with a mechanical valve prosthesis, the use of anti-Xa direct oral anticoagulants has not been assessed and is not recommended.",
+            "ru": "У пациентов с механическим клапанным протезом применение прямых пероральных антикоагулянтов — ингибиторов фактора Ха не изучено и не рекомендуется."
+          },
+          "class": "III-harm",
+          "level": "C-EO",
+          "refs": [34, 35, 36, 37]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 14
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

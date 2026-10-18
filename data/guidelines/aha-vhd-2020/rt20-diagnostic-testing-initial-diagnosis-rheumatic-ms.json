@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt20-diagnostic-testing-initial-diagnosis-rheumatic-ms",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 20",
+  "title": {
+    "en": "Recommendations for Diagnostic Testing: Initial Diagnosis of Rheumatic MS",
+    "ru": "Рекомендации по диагностическому обследованию: первичная диагностика ревматического митрального стеноза"
+  },
+  "tags": [
+    "vhd",
+    "mitral-stenosis",
+    "rheumatic-ms",
+    "diagnostic-testing",
+    "tte",
+    "tee",
+    "pmbc",
+    "la-thrombus",
+    "mitral-regurgitation",
+    "commissurotomy"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnostic-testing-initial-diagnosis-rheumatic-ms",
+      "title": {
+        "en": "Diagnostic Testing: Initial Diagnosis of Rheumatic MS",
+        "ru": "Диагностическое обследование: первичная диагностика ревматического митрального стеноза"
+      },
+      "rows": [
+        {
+          "id": "r01-tte-signs-symptoms-rheumatic-ms",
+          "text": {
+            "en": "In patients with signs or symptoms of rheumatic MS, TTE is indicated to establish the diagnosis, quantify hemodynamic severity, assess concomitant valvular lesions, and demonstrate valve morphology (to determine suitability for mitral commissurotomy).",
+            "ru": "У пациентов с признаками или симптомами ревматического МС показано проведение ТТ-ЭхоКГ для установления диагноза, количественной оценки гемодинамической тяжести, выявления сопутствующих клапанных поражений и оценки морфологии клапана (для определения пригодности к митральной комиссуротомии)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-tee-before-pmbc-thrombus-mr",
+          "text": {
+            "en": "In patients considered for percutaneous mitral balloon commissurotomy (PMBC), TEE should be performed to assess the presence or absence of LA thrombus and to evaluate the severity of MR.",
+            "ru": "У пациентов, рассматриваемых в качестве кандидатов на чрескожную митральную баллонную комиссуротомию (ЧМБК/PMBC), следует выполнить ЧП-ЭхоКГ для исключения тромбоза ушка/полости ЛП и оценки тяжести сопутствующей митральной регургитации."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

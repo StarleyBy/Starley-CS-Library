@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt38-timing-of-intervention-mixed-as-ar",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 38",
+  "title": {
+    "en": "Recommendations for Timing of Intervention for Mixed AS and AR",
+    "ru": "Рекомендации по срокам вмешательства при сочетанном аортальном стенозе и аортальной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "mixed-valve-disease",
+    "aortic-stenosis",
+    "aortic-regurgitation",
+    "mixed-as-ar",
+    "timing-of-intervention",
+    "avr",
+    "savr"
+  ],
+  "sections": [
+    {
+      "id": "sec-timing-of-intervention-mixed-as-ar",
+      "title": {
+        "en": "Timing of Intervention for Mixed AS and AR",
+        "ru": "Сроки вмешательства при сочетанном аортальном пороке (АС + АР)"
+      },
+      "rows": [
+        {
+          "id": "r01-symptomatic-peak-velocity-gradient-avr",
+          "text": {
+            "en": "In symptomatic patients with combined AS and AR and a peak transvalvular jet velocity of at least 4.0 m/s or a mean transvalvular gradient of at least 40 mmHg, AVR is recommended.",
+            "ru": "У симптомных пациентов с сочетанным АС и АР и пиковой трансклапанной скоростью струи не менее 4,0 м/с или средним трансклапанным градиентом не менее 40 мм рт. ст. рекомендуется протезирование аортального клапана (AVR)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-asymptomatic-velocity-lvef-savr",
+          "text": {
+            "en": "In asymptomatic patients with combined AS and AR who have a jet velocity of ≥4.0 m/s with an LVEF <50%, SAVR is recommended.",
+            "ru": "У бессимптомных пациентов с сочетанным АС и АР, имеющих скорость струи ≥4,0 м/с и ФВ ЛЖ <50%, рекомендуется хирургическое протезирование аортального клапана (SAVR)."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

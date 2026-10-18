@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t23-systemic-fibrinolysis-vs-surgery-prosthetic-valve-thrombosis",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 23",
+  "type": "grid",
+  "title": {
+    "en": "Systemic Fibrinolysis Versus Surgery for Prosthetic Valve Thrombosis",
+    "ru": "Системный фибринолиз в сравнении с хирургическим вмешательством при тромбозе клапанного протеза"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-valves",
+    "valve-thrombosis",
+    "systemic-fibrinolysis",
+    "surgery",
+    "clot-size",
+    "nyha-class",
+    "pannus",
+    "la-thrombus"
+  ],
+  "columns": [
+    {
+      "id": "favor_surgery",
+      "title": {
+        "en": "Favor Surgery",
+        "ru": "В пользу хирургического вмешательства"
+      }
+    },
+    {
+      "id": "favor_fibrinolysis",
+      "title": {
+        "en": "Favor Fibrinolysis",
+        "ru": "В пользу фибринолиза"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "row-01-surgical-expertise",
+      "cells": [
+        {
+          "text": {
+            "en": "Readily available surgical expertise",
+            "ru": "Наличие доступного хирургического опыта"
+          }
+        },
+        {
+          "text": {
+            "en": "No surgical expertise available",
+            "ru": "Отсутствие доступного хирургического опыта"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-02-surgical-risk",
+      "cells": [
+        {
+          "text": {
+            "en": "Low surgical risk",
+            "ru": "Низкий хирургический риск"
+          }
+        },
+        {
+          "text": {
+            "en": "High surgical risk",
+            "ru": "Высокий хирургический риск"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-03-contraindication-to-fibrinolysis",
+      "cells": [
+        {
+          "text": {
+            "en": "Contraindication to fibrinolysis",
+            "ru": "Наличие противопоказаний к фибринолизу"
+          }
+        },
+        {
+          "text": {
+            "en": "No contraindication to fibrinolysis",
+            "ru": "Отсутствие противопоказаний к фибринолизу"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-04-recurrence",
+      "cells": [
+        {
+          "text": {
+            "en": "Recurrent valve thrombosis",
+            "ru": "Рецидивирующий тромбоз клапана"
+          }
+        },
+        {
+          "text": {
+            "en": "First-time episode of valve thrombosis",
+            "ru": "Впервые возникший эпизод тромбоза клапана"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-05-nyha-class",
+      "cells": [
+        {
+          "text": {
+            "en": "NYHA class IV",
+            "ru": "IV функциональный класс по NYHA"
+          }
+        },
+        {
+          "text": {
+            "en": "NYHA class I, II, or III",
+            "ru": "I, II или III функциональный класс по NYHA"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-06-clot-size",
+      "cells": [
+        {
+          "text": {
+            "en": "Large clot (>0.8 cm²)",
+            "ru": "Большой тромб (>0,8 см²)"
+          }
+        },
+        {
+          "text": {
+            "en": "Small clot (≤0.8 cm²)",
+            "ru": "Малый тромб (≤0,8 см²)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-07-la-thrombus",
+      "cells": [
+        {
+          "text": {
+            "en": "LA thrombus",
+            "ru": "Тромб в левом предсердии"
+          }
+        },
+        {
+          "text": {
+            "en": "No LA thrombus",
+            "ru": "Отсутствие тромба в левом предсердии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-08-concomitant-cad",
+      "cells": [
+        {
+          "text": {
+            "en": "Concomitant CAD in need of revascularization",
+            "ru": "Сопутствующая ИБС, требующая реваскуляризации"
+          }
+        },
+        {
+          "text": {
+            "en": "No or mild CAD",
+            "ru": "Отсутствие или незначительная ИБС"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-09-other-valve-disease",
+      "cells": [
+        {
+          "text": {
+            "en": "Other valve disease",
+            "ru": "Сопутствующее другое клапанное поражение"
+          }
+        },
+        {
+          "text": {
+            "en": "No other valve disease",
+            "ru": "Отсутствие других клапанных пороков"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-10-pannus-vs-thrombus",
+      "cells": [
+        {
+          "text": {
+            "en": "Possible pannus",
+            "ru": "Вероятный паннус"
+          }
+        },
+        {
+          "text": {
+            "en": "Thrombus visualized",
+            "ru": "Визуализируется тромб"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-11-patient-choice",
+      "cells": [
+        {
+          "text": {
+            "en": "Patient choice",
+            "ru": "Выбор пациента"
+          }
+        },
+        {
+          "text": {
+            "en": "Patient choice",
+            "ru": "Выбор пациента"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "CAD indicates coronary artery disease; and NYHA, New York Heart Association.\nAdapted from several references.2,5,7,13,14",
+      "ru": "CAD (ИБС) — ишемическая болезнь сердца; NYHA — Нью-Йоркская кардиологическая ассоциация.\nАдаптировано из нескольких источников.2,5,7,13,14"
+    }
+  },
+  "source": {
+    "expectedRows": 11
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.t03-ideal-components-shared-decision-making-consent",
+  "guidelineId": "aha-revasc-2021",
+  "number": "Table 3",
+  "type": "grid",
+  "title": {
+    "en": "Ideal Components of the Shared Decision-Making and Informed Consent Process",
+    "ru": "Оптимальные компоненты процесса совместного принятия решений и информированного согласия"
+  },
+  "tags": [
+    "shared-decision-making",
+    "informed-consent",
+    "patient-centered-care",
+    "revascularization",
+    "communication"
+  ],
+  "columns": [
+    {
+      "id": "component",
+      "title": {
+        "en": "Component",
+        "ru": "Компонент"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-patient-centered-care",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Patient-Centered Care**",
+            "ru": "**Пациент-ориентированная помощь**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pcc-assess-understanding",
+      "cells": [
+        {
+          "text": {
+            "en": "Assess a patient's ability to understand complex health information",
+            "ru": "Оценка способности пациента понимать сложную медицинскую информацию"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pcc-seek-family-support",
+      "cells": [
+        {
+          "text": {
+            "en": "Seek support of family/others",
+            "ru": "Привлечение поддержки семьи и близких"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pcc-elicit-respect-values",
+      "cells": [
+        {
+          "text": {
+            "en": "Elicit and respect cultural, racial, ethnic, or religious preferences and values",
+            "ru": "Выявление и уважение культурных, расовых, этнических или религиозных предпочтений и ценностей"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pcc-evaluate-social-determinants",
+      "cells": [
+        {
+          "text": {
+            "en": "Evaluate social determinants of health (education, income, access to health care)",
+            "ru": "Оценка социальных детерминант здоровья (образование, доход, доступность медицинской помощи)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pcc-improve-telemedicine",
+      "cells": [
+        {
+          "text": {
+            "en": "Improve telephone/telemedicine access",
+            "ru": "Улучшение телефонного и телемедицинского доступа"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pcc-discuss-alternatives-qol",
+      "cells": [
+        {
+          "text": {
+            "en": "Discuss treatment alternatives and how each affects the patient's quality of life",
+            "ru": "Обсуждение альтернативных вариантов лечения и их влияния на качество жизни пациента"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-shared-decision-making",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Shared Decision-Making**",
+            "ru": "**Совместное принятие решений**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sdm-encourage-questions",
+      "cells": [
+        {
+          "text": {
+            "en": "Encourage questions and explain the patient's role in the decision-making partnership",
+            "ru": "Поощрение вопросов и разъяснение роли пациента в партнерстве по принятию решений"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sdm-communicate-risks-benefits",
+      "cells": [
+        {
+          "text": {
+            "en": "Clearly and accurately communicate the potential risks and benefits of a particular procedure and alternative treatments",
+            "ru": "Четкое и точное информирование о потенциальных рисках и пользе конкретной процедуры и альтернативных методов лечения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sdm-ensure-key-role",
+      "cells": [
+        {
+          "text": {
+            "en": "Ensure that patients have a key role in deciding what revascularization approach is appropriate",
+            "ru": "Обеспечение ключевой роли пациента в принятии решения о выборе подходящего метода реваскуляризации"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sdm-decision-aids",
+      "cells": [
+        {
+          "text": {
+            "en": "Use shared decision aids:<br>• Alphabetical List of Decision Aids by Health Topic, Ottawa Hospital Research Institute (https://decisionaid.ohri.ca/implement.html)<br>• SHARE Approach Curriculum Tools, Agency for Healthcare Research and Quality (https://www.ahrq.gov/health-literacy/curriculum-tools/shareddecisionmaking/tools/tool-1/index.html)",
+            "ru": "Использование вспомогательных инструментов совместного принятия решений:<br>• Алфавитный список инструментов поддержки принятия решений по медицинским темам, Ottawa Hospital Research Institute (https://decisionaid.ohri.ca/implement.html)<br>• Учебные материалы подхода SHARE, Agency for Healthcare Research and Quality (https://www.ahrq.gov/health-literacy/curriculum-tools/shareddecisionmaking/tools/tool-1/index.html)"
+          },
+          "refs": [27, 28]
+        }
+      ]
+    },
+    {
+      "id": "sdm-sufficient-time-second-opinion",
+      "cells": [
+        {
+          "text": {
+            "en": "Spend sufficient time to engage in shared decision-making; allow for a second opinion",
+            "ru": "Выделение достаточного времени для совместного принятия решений; предоставление возможности получения второго мнения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sdm-multidisciplinary-team",
+      "cells": [
+        {
+          "text": {
+            "en": "Work with a chaplain, social worker, or other team members to facilitate shared decision-making",
+            "ru": "Сотрудничество со священнослужителем, социальным работником или другими членами мультидисциплинарной команды для содействия совместному принятию решений"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sdm-address-emotions",
+      "cells": [
+        {
+          "text": {
+            "en": "Encourage patients to share their fears, stress, or other emotions, and address appropriately",
+            "ru": "Поощрение пациентов делиться своими страхами, стрессом или другими эмоциями и адекватное реагирование на них"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sdm-negotiate-partnership",
+      "cells": [
+        {
+          "text": {
+            "en": "Negotiate decision in partnership with the patient and family members",
+            "ru": "Согласование решения в партнерстве с пациентом и членами его семьи"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sdm-respect-autonomy",
+      "cells": [
+        {
+          "text": {
+            "en": "Respect patient's autonomy to decline recommended treatment",
+            "ru": "Уважение автономии пациента при отказе от рекомендованного лечения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-consent-procedures",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Consent Procedures**",
+            "ru": "**Процедура информированного согласия**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cp-plain-language-pictures",
+      "cells": [
+        {
+          "text": {
+            "en": "Use plain language, avoiding jargon, and adopt the patient's words; integrate pictures to teach",
+            "ru": "Использование простого и понятного языка без медицинского жаргона, адаптация к лексике пациента; привлечение иллюстраций для наглядного объяснения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cp-document-teach-back",
+      "cells": [
+        {
+          "text": {
+            "en": "Document teach-back of patient's knowledge and understanding",
+            "ru": "Документирование обратной связи («teach-back») для проверки усвоения и понимания информации пациентом"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cp-trained-interpreter",
+      "cells": [
+        {
+          "text": {
+            "en": "Conduct conversations with a trained interpreter, as needed",
+            "ru": "Проведение бесед с участием квалифицированного медицинского переводчика при необходимости"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cp-patient-specific-risks",
+      "cells": [
+        {
+          "text": {
+            "en": "Provide patient-specific short- and long-term risks, benefits, and alternative treatments",
+            "ru": "Предоставление индивидуализированной информации о краткосрочных и долгосрочных рисках, пользе и альтернативных методах лечения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cp-unbiased-evidence-based",
+      "cells": [
+        {
+          "text": {
+            "en": "Provide unbiased, evidence-based, reliable, accessible, and relevant information to patient",
+            "ru": "Предоставление пациенту объективной, основанной на доказательствах, надежной, доступной и актуальной информации"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cp-discuss-outcomes-uncertainties",
+      "cells": [
+        {
+          "text": {
+            "en": "Discuss specific risks and benefits with regard to survival, relief of angina, quality of life, and potential additional intervention, as well as uncertainties associated with different treatment strategies",
+            "ru": "Обсуждение конкретных рисков и преимуществ в отношении выживаемости, купирования стенокардии, качества жизни и возможных повторных вмешательств, а также неопределенностей, связанных с различными стратегиями лечения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cp-time-to-reflect",
+      "cells": [
+        {
+          "text": {
+            "en": "Provide patient time to reflect on the trade-offs imposed by the outcome estimates",
+            "ru": "Предоставление пациенту времени на осмысление компромиссов, обусловленных прогнозируемыми исходами"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cp-operator-expertise-volume",
+      "cells": [
+        {
+          "text": {
+            "en": "Provide information on the level of operator expertise, volume of the facility, and local results in the performance of coronary revascularization options",
+            "ru": "Предоставление информации об уровне квалификации оператора, объеме вмешательств в клинике и локальных результатах выполнения различных вариантов коронарной реваскуляризации"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cp-continued-medical-therapy",
+      "cells": [
+        {
+          "text": {
+            "en": "Clearly inform of the need for continued medical therapy and lifestyle modifications",
+            "ru": "Четкое информирование о необходимости продолжения медикаментозной терапии и модификации образа жизни"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 27
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

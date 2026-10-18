@@ -1,0 +1,844 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t11-structure-primary-comprehensive-valve-centers",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 11",
+  "type": "grid",
+  "title": {
+    "en": "Structure of Primary and Comprehensive Valve Centers",
+    "ru": "Структура первичных и экспертных клапанных центров"
+  },
+  "tags": [
+    "vhd",
+    "valve-centers",
+    "comprehensive-center",
+    "primary-center",
+    "tavi",
+    "savr",
+    "teer",
+    "imaging",
+    "infrastructure",
+    "mdt"
+  ],
+  "columns": [
+    {
+      "id": "comprehensive",
+      "title": {
+        "en": "Comprehensive (Level I) Valve Center",
+        "ru": "Экспертный (уровень I) клапанный центр"
+      }
+    },
+    {
+      "id": "primary",
+      "title": {
+        "en": "Primary (Level II) Valve Center",
+        "ru": "Первичный (уровень II) клапанный центр"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-interventional-procedures",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**Interventional procedures**^[a]",
+            "ru": "**Интервенционные вмешательства**^[a]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tavi-transfemoral",
+      "cells": [
+        {
+          "text": {
+            "en": "TAVI—transfemoral",
+            "ru": "TAVI — трансфеморальный доступ"
+          }
+        },
+        {
+          "text": {
+            "en": "TAVI—transfemoral",
+            "ru": "TAVI — трансфеморальный доступ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "percutaneous-aortic-balloon-dilation",
+      "cells": [
+        {
+          "text": {
+            "en": "Percutaneous aortic valve balloon dilation",
+            "ru": "Чрескожная баллонная вальвулопластика аортального клапана"
+          }
+        },
+        {
+          "text": {
+            "en": "Percutaneous aortic valve balloon dilation",
+            "ru": "Чрескожная баллонная вальвулопластика аортального клапана"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tavi-alternative-access",
+      "cells": [
+        {
+          "text": {
+            "en": "TAVI—alternative access, including transthoracic (transaortic, transapical) and extrathoracic (eg, subclavian, carotid, caval) approaches",
+            "ru": "TAVI — альтернативные доступы, включая трансторакальные (трансаортальный, верхушечный) и экстраторакальные (подключичный, сонный, кавальный)"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "valve-in-valve",
+      "cells": [
+        {
+          "text": {
+            "en": "Valve-in-valve procedures",
+            "ru": "Процедуры «клапан-в-клапан» (Valve-in-valve)"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "teer",
+      "cells": [
+        {
+          "text": {
+            "en": "TEER",
+            "ru": "Транскатетерная пластика «край-в-край» (TEER)"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "paravalvular-leak-closure",
+      "cells": [
+        {
+          "text": {
+            "en": "Prosthetic valve paravalvular leak closure",
+            "ru": "Закрытие парапротезных фистул"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mitral-balloon-commissurotomy",
+      "cells": [
+        {
+          "text": {
+            "en": "Percutaneous mitral balloon commissurotomy",
+            "ru": "Чрескожная митральная баллонная комиссуротомия"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-surgical-procedures",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**Surgical procedures**^[a]",
+            "ru": "**Хирургические вмешательства**^[a]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "savr",
+      "cells": [
+        {
+          "text": {
+            "en": "SAVR",
+            "ru": "Хирургическое протезирование аортального клапана (SAVR)"
+          }
+        },
+        {
+          "text": {
+            "en": "SAVR",
+            "ru": "Хирургическое протезирование аортального клапана (SAVR)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "valve-sparing-aortic-root",
+      "cells": [
+        {
+          "text": {
+            "en": "Valve-sparing aortic root procedures",
+            "ru": "Клапансохраняющие операции на корне аорты"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aortic-root-aneurysmal",
+      "cells": [
+        {
+          "text": {
+            "en": "Aortic root procedures for aneurysmal disease",
+            "ru": "Операции на корне аорты при аневризме"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "concomitant-myectomy-avr",
+      "cells": [
+        {
+          "text": {
+            "en": "Concomitant septal myectomy with AVR",
+            "ru": "Сопутствующая септальная миэктомия при ПАК"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "root-enlargement-avr",
+      "cells": [
+        {
+          "text": {
+            "en": "Root enlargement with AVR",
+            "ru": "Расширение корня аорты при ПАК"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mitral-repair-primary-mr",
+      "cells": [
+        {
+          "text": {
+            "en": "Mitral repair for primary MR",
+            "ru": "Пластика МК при первичной МР"
+          }
+        },
+        {
+          "text": {
+            "en": "Mitral repair for posterior leaflet primary MR^[b]",
+            "ru": "Пластика МК при первичной МР задней створки^[b]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mitral-valve-replacement",
+      "cells": [
+        {
+          "text": {
+            "en": "Mitral valve replacement^[c]",
+            "ru": "Протезирование митрального клапана^[c]"
+          }
+        },
+        {
+          "text": {
+            "en": "Mitral valve replacement^[c]",
+            "ru": "Протезирование митрального клапана^[c]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "multivalve-operations",
+      "cells": [
+        {
+          "text": {
+            "en": "Multivalve operations",
+            "ru": "Многоклапанные операции"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reoperative-valve-surgery",
+      "cells": [
+        {
+          "text": {
+            "en": "Reoperative valve surgery",
+            "ru": "Повторные операции на клапанах (реоперации)"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tricuspid-repair-replacement",
+      "cells": [
+        {
+          "text": {
+            "en": "Isolated or concomitant tricuspid valve repair or replacement",
+            "ru": "Изолированная или сопутствующая пластика/протезирование трикуспидального клапана"
+          }
+        },
+        {
+          "text": {
+            "en": "Concomitant tricuspid valve repair or replacement with mitral surgery",
+            "ru": "Сопутствующая пластика/протезирование трикуспидального клапана при операциях на митральном клапане"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-imaging-personnel",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**Imaging personnel**",
+            "ru": "**Специалисты по визуализации**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "echocardiographer-expertise",
+      "cells": [
+        {
+          "text": {
+            "en": "Echocardiographer with expertise in valve disease and transcatheter and surgical interventions",
+            "ru": "Специалист по ЭхоКГ с опытом в оценке клапанных пороков, транскатетерных и хирургических вмешательствах"
+          }
+        },
+        {
+          "text": {
+            "en": "Echocardiographer with expertise in valve disease and transcatheter and surgical interventions",
+            "ru": "Специалист по ЭхоКГ с опытом в оценке клапанных пороков, транскатетерных и хирургических вмешательствах"
+          }
+        }
+      ]
+    },
+    {
+      "id": "expertise-ct",
+      "cells": [
+        {
+          "text": {
+            "en": "Expertise in CT with application to valve assessment and procedural planning",
+            "ru": "Опыт в КТ применительно к оценке пороков и планированию процедур"
+          }
+        },
+        {
+          "text": {
+            "en": "Expertise in CT with application to valve assessment and procedural planning",
+            "ru": "Опыт в КТ применительно к оценке пороков и планированию процедур"
+          }
+        }
+      ]
+    },
+    {
+      "id": "interventional-echocardiographer",
+      "cells": [
+        {
+          "text": {
+            "en": "Interventional echocardiographer to provide imaging guidance for transcatheter and intraoperative procedures",
+            "ru": "Интервенционный специалист по ЭхоКГ для навигации при транскатетерных и интраоперационных вмешательствах"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "expertise-cmr",
+      "cells": [
+        {
+          "text": {
+            "en": "Expertise in cardiac MRI with application to assessment of VHD",
+            "ru": "Опыт в МРТ сердца применительно к оценке клапанных пороков"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-criteria-imaging-personnel",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**Criteria for imaging personnel**",
+            "ru": "**Критерии для специалистов по визуализации**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "role-valve-echocardiographer",
+      "cells": [
+        {
+          "text": {
+            "en": "A formalized role/position for a “valve echocardiographer” who performs both the pre- and postprocedural assessment of valve disease",
+            "ru": "Официальная должность «клапанного эхокардиографиста», выполняющего до- и послеоперационную оценку пороков"
+          }
+        },
+        {
+          "text": {
+            "en": "A formalized role/position for a “valve echocardiographer” who performs both the pre- and postprocedural assessment of valve disease",
+            "ru": "Официальная должность «клапанного эхокардиографиста», выполняющего до- и послеоперационную оценку пороков"
+          }
+        }
+      ]
+    },
+    {
+      "id": "role-ct-expert",
+      "cells": [
+        {
+          "text": {
+            "en": "A formalized role/position for the expert in CT who oversees the preprocedural assessment of patients with valve disease",
+            "ru": "Официальная должность эксперта по КТ, курирующего предоперационную оценку пациентов с пороками клапанов"
+          }
+        },
+        {
+          "text": {
+            "en": "A formalized role/position for the expert in CT who oversees the preprocedural assessment of patients with valve disease",
+            "ru": "Официальная должность эксперта по КТ, курирующего предоперационную оценку пациентов с пороками клапанов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "role-interventional-echocardiographer",
+      "cells": [
+        {
+          "text": {
+            "en": "A formalized role/position for an interventional echocardiographer",
+            "ru": "Официальная должность интервенционного специалиста по ЭхоКГ"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-institutional-facilities-infrastructure",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**Institutional facilities and infrastructure**",
+            "ru": "**Оснащение учреждения и инфраструктура**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mdt",
+      "cells": [
+        {
+          "text": {
+            "en": "MDT",
+            "ru": "Мультидисциплинарная клапанная команда (MDT)"
+          }
+        },
+        {
+          "text": {
+            "en": "MDT",
+            "ru": "Мультидисциплинарная клапанная команда (MDT)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "valve-coordinator",
+      "cells": [
+        {
+          "text": {
+            "en": "A formalized role/position for a dedicated valve coordinator who organizes care across the continuum and system of care",
+            "ru": "Официальная должность клапанного координатора, обеспечивающего непрерывность лечебно-диагностического процесса"
+          }
+        },
+        {
+          "text": {
+            "en": "A formalized role/position for a dedicated valve coordinator who organizes care across the continuum and system of care",
+            "ru": "Официальная должность клапанного координатора, обеспечивающего непрерывность лечебно-диагностического процесса"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cardiac-anesthesia-support",
+      "cells": [
+        {
+          "text": {
+            "en": "Cardiac anesthesia support",
+            "ru": "Кардиоанестезиологическая служба"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiac anesthesia support",
+            "ru": "Кардиоанестезиологическая служба"
+          }
+        }
+      ]
+    },
+    {
+      "id": "palliative-care-team",
+      "cells": [
+        {
+          "text": {
+            "en": "Palliative care team",
+            "ru": "Служба паллиативной помощи"
+          }
+        },
+        {
+          "text": {
+            "en": "Palliative care team",
+            "ru": "Служба паллиативной помощи"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vascular-surgery-support",
+      "cells": [
+        {
+          "text": {
+            "en": "Vascular surgery support",
+            "ru": "Служба сосудистой хирургии"
+          }
+        },
+        {
+          "text": {
+            "en": "Vascular surgery support",
+            "ru": "Служба сосудистой хирургии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "neurology-stroke-team",
+      "cells": [
+        {
+          "text": {
+            "en": "Neurology stroke team",
+            "ru": "Неврологическая инсультная бригада"
+          }
+        },
+        {
+          "text": {
+            "en": "Neurology stroke team",
+            "ru": "Неврологическая инсультная бригада"
+          }
+        }
+      ]
+    },
+    {
+      "id": "consultative-cardiovascular",
+      "cells": [
+        {
+          "text": {
+            "en": "Consultative services with other cardiovascular subspecialties",
+            "ru": "Консультативные службы по другим кардиологическим субспециальностям"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "consultative-medical-surgical",
+      "cells": [
+        {
+          "text": {
+            "en": "Consultative services with other medical and surgical subspecialties",
+            "ru": "Консультативные службы по другим терапевтическим и хирургическим специальностям"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "echo-facilities",
+      "cells": [
+        {
+          "text": {
+            "en": "Echocardiography—3D TEE; comprehensive TTE for assessment of valve disease",
+            "ru": "Эхокардиография — 3D ЧП-ЭхоКГ; экспертная ТТ-ЭхоКГ для оценки клапанных пороков"
+          }
+        },
+        {
+          "text": {
+            "en": "Echocardiography—comprehensive TTE for assessment of valve disease",
+            "ru": "Эхокардиография — экспертная ТТ-ЭхоКГ для оценки клапанных пороков"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cardiac-ct-facility",
+      "cells": [
+        {
+          "text": {
+            "en": "Cardiac CT",
+            "ru": "КТ сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiac CT",
+            "ru": "КТ сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "icu",
+      "cells": [
+        {
+          "text": {
+            "en": "ICU",
+            "ru": "Отделение реанимации и интенсивной терапии (ОРИТ)"
+          }
+        },
+        {
+          "text": {
+            "en": "ICU",
+            "ru": "Отделение реанимации и интенсивной терапии (ОРИТ)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "temporary-mechanical-support",
+      "cells": [
+        {
+          "text": {
+            "en": "Temporary mechanical support (including percutaneous support devices such as intra-aortic balloon counterpulsation, temporary percutaneous ventricular assist device or ECMO)",
+            "ru": "Временная механическая поддержка кровообращения (включая ВАКБ, чрескожные системы вспомогательного кровообращения или ЭКМО)"
+          }
+        },
+        {
+          "text": {
+            "en": "Temporary mechanical support (including percutaneous support devices such as intra-aortic balloon counterpulsation, temporary percutaneous ventricular assist device or ECMO)",
+            "ru": "Временная механическая поддержка кровообращения (включая ВАКБ, чрескожные системы вспомогательного кровообращения или ЭКМО)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vad-capabilities",
+      "cells": [
+        {
+          "text": {
+            "en": "Left/right ventricular assist device capabilities (on-site or at an affiliated institution)",
+            "ru": "Возможности имплантации систем поддержки ЛЖ/ПЖ (на базе центра или в аффилированном учреждении)"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cath-lab-hybrid",
+      "cells": [
+        {
+          "text": {
+            "en": "Cardiac catheterization laboratory, hybrid catheterization laboratory, or hybrid OR laboratory^[d]",
+            "ru": "Рентгеноперационная (катлаб), гибридная рентгеноперационная или гибридная операционная^[d]"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiac catheterization laboratory",
+            "ru": "Рентгеноперационная (катлаб)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ppm-icd-implantation",
+      "cells": [
+        {
+          "text": {
+            "en": "PPM and ICD implantation",
+            "ru": "Имплантация постоянных кардиостимуляторов (ЭКС) и ИКД"
+          }
+        },
+        {
+          "text": {
+            "en": "PPM and ICD implantation",
+            "ru": "Имплантация постоянных кардиостимуляторов (ЭКС) и ИКД"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-criteria-facilities-infrastructure",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**Criteria for institutional facilities and infrastructure**",
+            "ru": "**Критерии для оснащения учреждения и инфраструктуры**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "iac-accreditation",
+      "cells": [
+        {
+          "text": {
+            "en": "IAC echocardiography laboratory accreditation",
+            "ru": "Аккредитация эхокардиографической лаборатории IAC"
+          }
+        },
+        {
+          "text": {
+            "en": "IAC echocardiography laboratory accreditation",
+            "ru": "Аккредитация эхокардиографической лаборатории IAC"
+          }
+        }
+      ]
+    },
+    {
+      "id": "intensivist-coverage",
+      "cells": [
+        {
+          "text": {
+            "en": "24/7 intensivist coverage for ICU",
+            "ru": "Круглосуточное (24/7) дежурство врача-реаниматолога в ОРИТ"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "A primary (Level II) Center may provide additional procedures traditionally offered at a Comprehensive (Level I) Center as long as the criteria for competence and outcomes are met.",
+      "ru": "Первичный (уровень II) центр может выполнять дополнительные вмешательства, традиционно проводимые в экспертном (уровень I) центре, при условии соответствия критериям компетентности и клинических результатов."
+    },
+    "b": {
+      "en": "If intraoperative imaging and surgical expertise exist.",
+      "ru": "При наличии возможностей интраоперационной визуализации и хирургического опыта."
+    },
+    "c": {
+      "en": "If mitral valve anatomy is not suitable for valve repair.",
+      "ru": "Если анатомия митрального клапана не подходит для пластики."
+    },
+    "d": {
+      "en": "Equipped with a fixed radiographic imaging system and flat-panel fluoroscopy, offering catheterization laboratory-quality imaging and hemodynamic capability.",
+      "ru": "Оснащена стационарной рентгеновской системой с плоскопанельным детектором, обеспечивающей качество визуализации и гемодинамического мониторинга уровня ангиографической лаборатории."
+    },
+    "e": {
+      "en": "AVR indicates aortic valve replacement; CT, computed tomography; ECMO, extracorporeal membrane oxygenation; ICD, implantable cardioverter defibrillator; IAC, Intersocietal Accreditation Commission; ICU, intensive care unit; MDT, multidisciplinary team; MR, mitral regurgitation; MRI, magnetic resonance imaging; OR, operating room; PPM, permanent pacemaker; SAVR, surgical aortic valve replacement; TAVI, transcatheter aortic valve implantation; TEE, transesophageal echocardiography; TEER, transcatheter edge-to-edge repair; TTE, transthoracic echocardiography; VHD, valvular heart disease; and ViV, valve-in-valve. Used with permission from Nishimura et al.",
+      "ru": "AVR — протезирование аортального клапана; CT — компьютерная томография; ECMO (ЭКМО) — экстракорпоральная мембранная оксигенация; ICD (ИКД) — имплантируемый кардиовертер-дефибриллятор; IAC — Межобщественная аккредитационная комиссия; ICU (ОРИТ) — отделение реанимации и интенсивной терапии; MDT — мультидисциплинарная команда; MR — митральная регургитация; MRI — МРТ; OR — операционная; PPM (ЭКС) — постоянный кардиостимулятор; SAVR — хирургическое протезирование аортального клапана; TAVI — транскатетерная имплантация аортального клапана; TEE — чреспищеводная эхокардиография; TEER — транскатетерная пластика «край-в-край»; TTE — трансторакальная эхокардиография; VHD — клапанные пороки сердца; ViV — «клапан-в-клапан»."
+    }
+  },
+  "source": {
+    "expectedRows": 47
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

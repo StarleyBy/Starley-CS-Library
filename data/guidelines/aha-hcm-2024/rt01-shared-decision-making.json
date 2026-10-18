@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt01-shared-decision-making",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 1",
+  "title": {
+    "en": "Recommendation for Shared Decision-Making",
+    "ru": "Рекомендация по совместному принятию решений"
+  },
+  "tags": [
+    "hcm",
+    "shared-decision-making",
+    "patient-centered-care",
+    "lifestyle",
+    "genetic-evaluation",
+    "therapy-choices"
+  ],
+  "sections": [
+    {
+      "id": "sec-shared-decision-making",
+      "title": {
+        "en": "Shared Decision-Making",
+        "ru": "Совместное принятие решений"
+      },
+      "rows": [
+        {
+          "id": "r01-shared-decision-making-plan-of-care",
+          "text": {
+            "en": "For patients with HCM or at risk for HCM, shared decision-making is recommended in developing a plan of care (including, but not limited to, decisions regarding genetic evaluation, activity, lifestyle, and therapy choices) that includes a full disclosure of the risks, benefits, and anticipated outcomes of all options, as well the opportunity for the patient and caregivers to express their goals and concerns.",
+            "ru": "У пациентов с ГКМП или риском развития ГКМП рекомендуется совместное принятие решений при разработке плана ведения (включая, но не ограничиваясь, решениями о медико-генетическом обследовании, физической активности, образе жизни и выборе терапии), с полным информированием о рисках, пользе и ожидаемых результатах всех вариантов, а также предоставлением пациенту и его близким возможности выразить свои цели и опасения."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

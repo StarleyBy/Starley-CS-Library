@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt51-diagnosis-prosthetic-valve-regurgitation",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 51",
+  "title": {
+    "en": "Recommendations for Diagnosis of Prosthetic Valve Regurgitation",
+    "ru": "Рекомендации по диагностике регургитации клапанного протеза"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-valves",
+    "prosthetic-valve-regurgitation",
+    "paravalvular-leak",
+    "tte",
+    "tee",
+    "3d-tee",
+    "intraprocedural-guidance"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnosis-prosthetic-valve-regurgitation",
+      "title": {
+        "en": "Diagnosis of Prosthetic Valve Regurgitation",
+        "ru": "Диагностика регургитации клапанного протеза"
+      },
+      "rows": [
+        {
+          "id": "r01-suspected-regurgitation-tte-tee",
+          "text": {
+            "en": "In patients with suspected mechanical or bioprosthetic valve regurgitation, TTE and TEE are recommended to determine the cause and severity of the leak, assess ventricular function, and estimate pulmonary artery systolic pressure.",
+            "ru": "У пациентов с подозрением на регургитацию на механическом или биологическом протезе клапана рекомендуются ТТ-ЭхоКГ и ЧП-ЭхоКГ для определения причины и степени выраженности регургитации, оценки функции желудочков и определения систолического давления в легочной артерии."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-transcatheter-paravalvular-procedure-3d-tee",
+          "text": {
+            "en": "In patients undergoing a transcatheter procedure for paravalvular prosthetic regurgitation, 3D TEE is recommended for intraprocedural guidance.",
+            "ru": "У пациентов, которым выполняется транскатетерная процедура закрытия парапротезной фистулы (параклапанной регургитации), рекомендуется интрапроцедурное наведение с помощью 3D ЧП-ЭхоКГ."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [4, 5, 6, 7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt26-diagnostic-testing-changing-signs-symptoms-primary-mr",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 26",
+  "title": {
+    "en": "Recommendation for Diagnostic Testing: Changing Signs or Symptoms in Patients With Primary MR",
+    "ru": "Рекомендация по диагностическому обследованию: изменение симптомов или признаков у пациентов с первичной митральной регургитацией"
+  },
+  "tags": [
+    "vhd",
+    "mitral-regurgitation",
+    "primary-mr",
+    "diagnostic-testing",
+    "tte",
+    "mitral-valve-apparatus",
+    "lv-function",
+    "changing-symptoms"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnostic-testing-changing-signs-symptoms-primary-mr",
+      "title": {
+        "en": "Changing Signs or Symptoms in Patients With Primary MR",
+        "ru": "Изменение симптомов или признаков у пациентов с первичной митральной регургитацией"
+      },
+      "rows": [
+        {
+          "id": "r01-tte-new-onset-changing-symptoms",
+          "text": {
+            "en": "In patients with primary MR (Stages B to D) and new-onset or changing symptoms, TTE is indicated to evaluate the mitral valve apparatus and LV function.",
+            "ru": "У пациентов с первичной МР (Стадии B–D) при возникновении новых или изменении существующих симптомов показано проведение ТТ-ЭхоКГ для оценки митрального клапанного аппарата и функции ЛЖ."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

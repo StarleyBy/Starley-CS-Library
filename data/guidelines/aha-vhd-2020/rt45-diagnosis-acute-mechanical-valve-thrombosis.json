@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt45-diagnosis-acute-mechanical-valve-thrombosis",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 45",
+  "title": {
+    "en": "Recommendation for Diagnosis of Acute Mechanical Valve Thrombosis",
+    "ru": "Рекомендация по диагностике острого тромбоза механического клапанного протеза"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-valves",
+    "mechanical-valve-thrombosis",
+    "tte",
+    "tee",
+    "fluoroscopy",
+    "ct-imaging",
+    "leaflet-motion",
+    "urgent-evaluation"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnosis-acute-mechanical-valve-thrombosis",
+      "title": {
+        "en": "Diagnosis of Acute Mechanical Valve Thrombosis",
+        "ru": "Диагностика острого тромбоза механического протеза клапана"
+      },
+      "rows": [
+        {
+          "id": "r01-urgent-multimodality-evaluation-suspected-thrombosis",
+          "text": {
+            "en": "In patients with suspected mechanical prosthetic valve thrombosis, urgent evaluation with TTE, TEE, fluoroscopy, and/or multidetector CT imaging is indicated to assess valve function, leaflet motion, and the presence and extent of thrombus.",
+            "ru": "У пациентов с подозрением на тромбоз механического клапанного протеза показано неотложное обследование с использованием ЭхоКГ (ТТ-ЭхоКГ, ЧП-ЭхоКГ), рентгеноскопии и/или мультидетекторной КТ для оценки функции клапана, подвижности запирающих элементов, а также наличия и распространенности тромботических масс."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

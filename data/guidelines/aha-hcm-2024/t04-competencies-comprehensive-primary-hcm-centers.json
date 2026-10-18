@@ -1,0 +1,293 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.t04-competencies-comprehensive-primary-hcm-centers",
+  "guidelineId": "aha-hcm-2024",
+  "number": "Table 4",
+  "type": "grid",
+  "title": {
+    "en": "Suggested Competencies of Comprehensive and Primary HCM Centers",
+    "ru": "Предлагаемые компетенции экспертных многопрофильных и первичных центров ГКМП"
+  },
+  "tags": [
+    "hcm",
+    "hcm-centers",
+    "competencies",
+    "comprehensive-center",
+    "primary-center",
+    "referral",
+    "multidisciplinary-care"
+  ],
+  "columns": [
+    {
+      "id": "competency",
+      "title": {
+        "en": "Potential HCM Care Delivery Competencies",
+        "ru": "Потенциальные компетенции по оказанию помощи при ГКМП"
+      }
+    },
+    {
+      "id": "comprehensive_center",
+      "title": {
+        "en": "Comprehensive HCM Center",
+        "ru": "Экспертный центр ГКМП"
+      }
+    },
+    {
+      "id": "primary_center",
+      "title": {
+        "en": "Primary HCM Center",
+        "ru": "Первичный центр ГКМП"
+      }
+    },
+    {
+      "id": "referring_centers",
+      "title": {
+        "en": "Referring Centers and Physicians",
+        "ru": "Направляющие центры и врачи"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "diagnosis",
+      "cells": [
+        { "text": { "en": "Diagnosis", "ru": "Диагностика" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } }
+      ]
+    },
+    {
+      "id": "initial-surveillance-tte",
+      "cells": [
+        { "text": { "en": "Initial and surveillance TTE", "ru": "Первичная и динамическая ТТ-ЭхоКГ" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } }
+      ]
+    },
+    {
+      "id": "advanced-echo-latent-lvoto",
+      "cells": [
+        { "text": { "en": "Advanced echocardiographic imaging to detect latent LVOTO", "ru": "Углубленная эхокардиография для выявления латентной обструкции ВТЛЖ (LVOTO)" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "echo-guide-srt",
+      "cells": [
+        { "text": { "en": "Echocardiography to guide SRT", "ru": "Эхокардиографическое сопровождение септальной редукционной терапии (СРТ/SRT)" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "*", "ru": "*" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "cmr-imaging",
+      "cells": [
+        { "text": { "en": "CMR imaging for diagnosis and risk stratification", "ru": "МРТ сердца (CMR) для диагностики и стратификации риска" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "invasive-evaluation-lvoto",
+      "cells": [
+        { "text": { "en": "Invasive evaluation for LVOTO", "ru": "Инвазивная оценка обструкции ВТЛЖ (LVOTO)" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "*", "ru": "*" } },
+        { "text": { "en": "*", "ru": "*" } }
+      ]
+    },
+    {
+      "id": "coronary-angiography",
+      "cells": [
+        { "text": { "en": "Coronary angiography", "ru": "Коронароангиография" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } }
+      ]
+    },
+    {
+      "id": "stress-testing-lvoto-hf",
+      "cells": [
+        { "text": { "en": "Stress testing for elicitation of LVOTO or consideration of advanced HF therapies and transplant", "ru": "Нагрузочное тестирование для провокации обструкции ВТЛЖ или оценки показаний к продвинутой терапии СН и трансплантации" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "family-screening",
+      "cells": [
+        { "text": { "en": "Counseling and performing family screening (imaging and genetic)", "ru": "Консультирование и проведение семейного скрининга (визуализирующего и генетического)" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } }
+      ]
+    },
+    {
+      "id": "genetic-testing-counseling",
+      "cells": [
+        { "text": { "en": "Genetic testing and counseling", "ru": "Генетическое тестирование и консультирование" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "*", "ru": "*" } }
+      ]
+    },
+    {
+      "id": "scd-risk-assessment",
+      "cells": [
+        { "text": { "en": "SCD risk assessment", "ru": "Оценка риска внезапной сердечной смерти (ВСС/SCD)" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } }
+      ]
+    },
+    {
+      "id": "icd-decision-cor-1-2a-adults",
+      "cells": [
+        { "text": { "en": "COR 1 and COR 2a ICD decision-making with adult patients", "ru": "Принятие решений об имплантации ИКД класса 1 и 2a у взрослых пациентов" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } }
+      ]
+    },
+    {
+      "id": "icd-decision-cor-2b-adults",
+      "cells": [
+        { "text": { "en": "COR 2b ICD decision-making with adult patients", "ru": "Принятие решений об имплантации ИКД класса 2b у взрослых пациентов" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "icd-implantation-adults",
+      "cells": [
+        { "text": { "en": "ICD implantation (adults)", "ru": "Имплантация ИКД (взрослые)" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "*", "ru": "*" } }
+      ]
+    },
+    {
+      "id": "icd-pediatric-adolescent",
+      "cells": [
+        { "text": { "en": "ICD decision-making and implantation with children and adolescents and their parents and caregivers", "ru": "Принятие решений об имплантации ИКД и процедура имплантации у детей и подростков совместно с их родителями/опекунами" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "*", "ru": "*" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "initial-af-management",
+      "cells": [
+        { "text": { "en": "Initial AF management and stroke prevention", "ru": "Первичное ведение фибрилляции предсердий и профилактика инсульта" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } }
+      ]
+    },
+    {
+      "id": "af-catheter-ablation",
+      "cells": [
+        { "text": { "en": "AF catheter ablation", "ru": "Катетерная аблация фибрилляции предсердий" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "*", "ru": "*" } }
+      ]
+    },
+    {
+      "id": "initial-hfref-hfpef-management",
+      "cells": [
+        { "text": { "en": "Initial management of HFrEF and HFpEF", "ru": "Первичное ведение СНнФВ (HFrEF) и СНсФВ (HFpEF)" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } }
+      ]
+    },
+    {
+      "id": "advanced-hf-management",
+      "cells": [
+        { "text": { "en": "Advanced HF management (eg, transplantation, CRT)", "ru": "Продвинутая терапия СН (например, трансплантация, СРТ/CRT)" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "*", "ru": "*" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "pharmacological-therapy-hcm",
+      "cells": [
+        { "text": { "en": "Pharmacological therapy for HCM", "ru": "Фармакотерапия ГКМП" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } }
+      ]
+    },
+    {
+      "id": "invasive-management-obstructive-hcm",
+      "cells": [
+        { "text": { "en": "Invasive management of symptomatic obstructive HCM", "ru": "Инвазивное лечение симптоматической обструктивной ГКМП" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "†", "ru": "†" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "counseling-occupational-healthy-living",
+      "cells": [
+        { "text": { "en": "Counseling occupational and healthy living choices other than high-intensity or competitive activities", "ru": "Консультирование по профессиональной деятельности и образу жизни (за исключением высокоинтенсивных или соревновательных нагрузок)" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } }
+      ]
+    },
+    {
+      "id": "counseling-high-intensity-competitive-athletics",
+      "cells": [
+        { "text": { "en": "Counseling options on participation in high-intensity or competitive athletics", "ru": "Консультирование по вопросам участия в высокоинтенсивных или соревновательных видах спорта" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "pregnancy-management",
+      "cells": [
+        { "text": { "en": "Managing women with HCM through pregnancy", "ru": "Ведение женщин с ГКМП во время беременности" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "*", "ru": "*" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "management-comorbidities",
+      "cells": [
+        { "text": { "en": "Management of comorbidities", "ru": "Ведение коморбидных состояний" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } },
+        { "text": { "en": "X", "ru": "X" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "* Optional depending on the core competencies of the institution. † If these procedures are performed, adequate quality assurance should be in place to demonstrate outcomes consistent with that achieved by comprehensive centers.",
+      "ru": "* Опционально в зависимости от базовых компетенций учреждения. † При выполнении данных процедур должен быть обеспечен надлежащий контроль качества, гарантирующий результаты, сопоставимые с экспертными многопрофильными центрами."
+    },
+    "b": {
+      "en": "AF indicates atrial fibrillation; CMR, cardiovascular magnetic resonance; COR, Class of Recommendation; CRT, cardiac resynchronization therapy; HCM, hypertrophic cardiomyopathy; HF, heart failure; HFpEF, heart failure with preserved ejection fraction; HFrEF, heart failure with reduced ejection fraction; ICD, implantable cardioverter-defibrillator; LVOTO, left ventricular outflow tract obstruction; SCD, sudden cardiac death; SRT, septal reduction therapy; and TTE, transthoracic echocardiography.",
+      "ru": "AF (ФП) — фибрилляция предсердий; CMR (МРТ) — магнитно-резонансная томография сердца; COR — класс рекомендаций; CRT (СРТ) — сердечная ресинхронизирующая терапия; HCM (ГКМП) — гипертрофическая кардиомиопатия; HF (СН) — сердечная недостаточность; HFpEF (СНсФВ) — сердечная недостаточность с сохраненной фракцией выброса; HFrEF (СНнФВ) — сердечная недостаточность со сниженной фракцией выброса; ICD (ИКД) — имплантируемый кардиовертер-дефибриллятор; LVOTO — обструкция выходного тракта левого желудочка; SCD (ВСС) — внезапная сердечная смерть; SRT (СРТ) — септальная редукционная терапия; TTE (ТТ-ЭхоКГ) — трансторакальная эхокардиография."
+    }
+  },
+  "source": {
+    "expectedRows": 25
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

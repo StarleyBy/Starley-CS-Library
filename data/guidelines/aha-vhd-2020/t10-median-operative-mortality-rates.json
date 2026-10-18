@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t10-median-operative-mortality-rates",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 10",
+  "type": "grid",
+  "title": {
+    "en": "Median Operative Mortality Rates for Specific Surgical Procedures (STS Adult Cardiac Surgery Database, 2019)",
+    "ru": "Медиана операционной летальности при отдельных кардиохирургических вмешательствах (база данных STS для взрослых, 2019 г.)"
+  },
+  "tags": [
+    "vhd",
+    "operative-mortality",
+    "sts-database",
+    "avr",
+    "cabg",
+    "mitral-valve-replacement",
+    "mitral-valve-repair",
+    "surgical-outcomes"
+  ],
+  "columns": [
+    {
+      "id": "procedure",
+      "title": {
+        "en": "Procedure",
+        "ru": "Вид вмешательства"
+      }
+    },
+    {
+      "id": "mortality_rate",
+      "title": {
+        "en": "Mortality Rate (%)",
+        "ru": "Летальность (%)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "avr",
+      "cells": [
+        {
+          "text": {
+            "en": "AVR",
+            "ru": "ПАК (AVR)"
+          }
+        },
+        {
+          "text": {
+            "en": "2.2",
+            "ru": "2,2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "avr-cabg",
+      "cells": [
+        {
+          "text": {
+            "en": "AVR and CABG",
+            "ru": "ПАК + КШ (AVR + CABG)"
+          }
+        },
+        {
+          "text": {
+            "en": "4",
+            "ru": "4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "avr-mvr",
+      "cells": [
+        {
+          "text": {
+            "en": "AVR and mitral valve replacement",
+            "ru": "ПАК + протезирование митрального клапана"
+          }
+        },
+        {
+          "text": {
+            "en": "9",
+            "ru": "9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mvr",
+      "cells": [
+        {
+          "text": {
+            "en": "Mitral valve replacement",
+            "ru": "Протезирование митрального клапана"
+          }
+        },
+        {
+          "text": {
+            "en": "5",
+            "ru": "5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mvr-cabg",
+      "cells": [
+        {
+          "text": {
+            "en": "Mitral valve replacement and CABG",
+            "ru": "Протезирование митрального клапана + КШ"
+          }
+        },
+        {
+          "text": {
+            "en": "9",
+            "ru": "9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mitral-repair",
+      "cells": [
+        {
+          "text": {
+            "en": "Mitral valve repair",
+            "ru": "Пластика митрального клапана"
+          }
+        },
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mitral-repair-cabg",
+      "cells": [
+        {
+          "text": {
+            "en": "Mitral valve repair and CABG",
+            "ru": "Пластика митрального клапана + КШ"
+          }
+        },
+        {
+          "text": {
+            "en": "5",
+            "ru": "5"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "AVR indicates aortic valve replacement; CABG, coronary artery bypass graft surgery; and STS, Society of Thoracic Surgeons.",
+      "ru": "AVR — протезирование аортального клапана; CABG (КШ) — коронарное шунтирование; STS — Общество торакальных хирургов."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

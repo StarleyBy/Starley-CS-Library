@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt08-angiography-invasive-hemodynamic-assessment",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 8",
+  "title": {
+    "en": "Recommendations for Angiography and Invasive Hemodynamic Assessment",
+    "ru": "Рекомендации по ангиографии и инвазивной оценке гемодинамики"
+  },
+  "tags": [
+    "hcm",
+    "coronary-angiography",
+    "cardiac-catheterization",
+    "invasive-hemodynamics",
+    "lvoto",
+    "myocardial-ischemia",
+    "septal-myectomy"
+  ],
+  "sections": [
+    {
+      "id": "sec-angiography-invasive-hemodynamics",
+      "title": {
+        "en": "Angiography and Invasive Hemodynamic Assessment",
+        "ru": "Ангиография и инвазивная оценка гемодинамики"
+      },
+      "rows": [
+        {
+          "id": "r01-invasive-hemodynamics-uncertain-lvoto",
+          "text": {
+            "en": "For patients with symptomatic HCM for whom there is uncertainty regarding the presence or severity of LVOTO on noninvasive imaging studies, invasive hemodynamic assessment with cardiac catheterization is recommended.",
+            "ru": "У пациентов с симптомной ГКМП при неопределенности относительно наличия или выраженности обструкции ВТЛЖ (LVOTO) по данным неинвазивных визуализирующих методов рекомендуется инвазивная оценка гемодинамики с катетеризацией полостей сердца."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-coronary-angiography-ischemia",
+          "text": {
+            "en": "In patients with HCM who have symptoms or evidence of myocardial ischemia, coronary angiography (CT or invasive) is recommended.",
+            "ru": "У пациентов с ГКМП, имеющих симптомы или признаки ишемии миокарда, рекомендуется проведение коронароангиографии (инвазивной или КТ-коронарографии)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [5]
+        },
+        {
+          "id": "r03-coronary-angiography-before-myectomy-cad-risk",
+          "text": {
+            "en": "In patients with HCM who are at risk of coronary atherosclerosis, coronary angiography (CT or invasive) is recommended before surgical myectomy.",
+            "ru": "У пациентов с ГКМП, имеющих риск коронарного атеросклероза, рекомендуется проведение коронароангиографии (инвазивной или КТ-коронарографии) перед хирургической септальной миэктомией."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

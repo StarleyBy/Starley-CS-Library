@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.t06-angiographic-features-cad-complexity",
+  "guidelineId": "aha-revasc-2021",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Angiographic Features Contributing to Increasing Complexity of CAD",
+    "ru": "Ангиографические признаки, повышающие анатомическую сложность поражения коронарного русла"
+  },
+  "tags": [
+    "cad-complexity",
+    "angiography",
+    "left-main",
+    "lad",
+    "cto",
+    "bifurcation",
+    "calcification",
+    "tortuosity"
+  ],
+  "columns": [
+    {
+      "id": "feature",
+      "title": {
+        "en": "Angiographic Feature",
+        "ru": "Ангиографический признак"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "multivessel-disease",
+      "cells": [
+        {
+          "text": {
+            "en": "Multivessel disease",
+            "ru": "Многососудистое поражение"
+          }
+        }
+      ]
+    },
+    {
+      "id": "left-main-or-proximal-lad",
+      "cells": [
+        {
+          "text": {
+            "en": "Left main or proximal LAD artery lesion",
+            "ru": "Поражение ствола ЛКА или проксимального отдела ПМЖВ (LAD)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chronic-total-occlusion",
+      "cells": [
+        {
+          "text": {
+            "en": "Chronic total occlusion",
+            "ru": "Хроническая тотальная окклюзия (ХТО/CTO)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "trifurcation-lesion",
+      "cells": [
+        {
+          "text": {
+            "en": "Trifurcation lesion",
+            "ru": "Трифуркационное поражение"
+          }
+        }
+      ]
+    },
+    {
+      "id": "complex-bifurcation-lesion",
+      "cells": [
+        {
+          "text": {
+            "en": "Complex bifurcation lesion",
+            "ru": "Сложное бифуркационное поражение"
+          }
+        }
+      ]
+    },
+    {
+      "id": "heavy-calcification",
+      "cells": [
+        {
+          "text": {
+            "en": "Heavy calcification",
+            "ru": "Выраженный кальциноз"
+          }
+        }
+      ]
+    },
+    {
+      "id": "severe-tortuosity",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe tortuosity",
+            "ru": "Выраженная извитость артерии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aorto-ostial-stenosis",
+      "cells": [
+        {
+          "text": {
+            "en": "Aorto-ostial stenosis",
+            "ru": "Аорто-устьевой стеноз"
+          }
+        }
+      ]
+    },
+    {
+      "id": "diffuse-disease-narrowed-distal",
+      "cells": [
+        {
+          "text": {
+            "en": "Diffusely diseased and narrowed segments distal to the lesion",
+            "ru": "Диффузное поражение и сужение сегментов дистальнее места стеноза"
+          }
+        }
+      ]
+    },
+    {
+      "id": "thrombotic-lesion",
+      "cells": [
+        {
+          "text": {
+            "en": "Thrombotic lesion",
+            "ru": "Тромботическое поражение"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lesion-length-gt-20mm",
+      "cells": [
+        {
+          "text": {
+            "en": "Lesion length >20 mm",
+            "ru": "Протяженность поражения >20 мм"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 11
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt33-hemodynamic-support-complex-pci",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 33",
+  "title": {
+    "en": "Recommendation for Hemodynamic Support in Complex PCI",
+    "ru": "Рекомендация по гемодинамической поддержке при проведении сложного ЧКВ"
+  },
+  "tags": [
+    "hemodynamic-support",
+    "complex-pci",
+    "iabp",
+    "impella",
+    "mcs",
+    "high-risk-pci"
+  ],
+  "sections": [
+    {
+      "id": "sec-hemodynamic-support-complex-pci",
+      "title": {
+        "en": "Hemodynamic Support in Complex PCI",
+        "ru": "Гемодинамическая поддержка при проведении сложного ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r01-complex-pci-elective-hemodynamic-support",
+          "text": {
+            "en": "In selected high-risk patients, elective insertion of an appropriate hemodynamic support device as an adjunct to PCI may be reasonable to prevent hemodynamic compromise during PCI.",
+            "ru": "У отобранных пациентов высокого риска плановое подключение соответствующего устройства механической поддержки кровообращения в качестве дополнения к ЧКВ может быть целесообразным для предотвращения гемодинамического коллапса во время процедуры ЧКВ."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

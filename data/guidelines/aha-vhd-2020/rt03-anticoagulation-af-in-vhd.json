@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt03-anticoagulation-af-in-vhd",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 3",
+  "title": {
+    "en": "Recommendations for Anticoagulation for AF in Patients With VHD",
+    "ru": "Рекомендации по антикоагулянтной терапии при фибрилляции предсердий у пациентов с клапанными пороками сердца"
+  },
+  "tags": [
+    "vhd",
+    "atrial-fibrillation",
+    "anticoagulation",
+    "noac",
+    "doac",
+    "vka",
+    "mitral-stenosis",
+    "bioprosthetic-valve",
+    "mechanical-heart-valve"
+  ],
+  "sections": [
+    {
+      "id": "sec-anticoagulation-af-in-vhd",
+      "title": {
+        "en": "Anticoagulation for AF in Patients With VHD",
+        "ru": "Антикоагулянтная терапия при ФП у пациентов с пороками сердца"
+      },
+      "rows": [
+        {
+          "id": "r01-noac-native-vhd-bioprosthesis-over-3m",
+          "text": {
+            "en": "For patients with AF and native valve heart disease (except rheumatic mitral stenosis [MS]) or who received a bioprosthetic valve >3 months ago, a non–vitamin K oral anticoagulant (NOAC) is an effective alternative to VKA anticoagulation and should be administered on the basis of the patient's CHA2DS2-VASc score.",
+            "ru": "У пациентов с ФП и нативными пороками сердца (за исключением ревматического митрального стеноза [МС]) либо при сроке >3 месяцев после имплантации биопротеза клапана прямые пероральные антикоагулянты (ПОАК/NOAC) являются эффективной альтернативой антагонистам витамина К (АВК) и должны назначаться на основании шкалы CHA₂DS₂-VASc."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-vka-rheumatic-ms",
+          "text": {
+            "en": "For patients with AF and rheumatic MS, long-term VKA oral anticoagulation is recommended.",
+            "ru": "У пациентов с ФП и ревматическим митральным стенозом рекомендуется длительная антикоагулянтная терапия антагонистами витамина К (АВК)."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r03-vka-new-onset-af-under-3m-bioprosthesis",
+          "text": {
+            "en": "For patients with new-onset AF ≤3 months after surgical or transcatheter bioprosthetic valve replacement, anticoagulation with a VKA is reasonable.",
+            "ru": "У пациентов с впервые возникшей ФП в течение ≤3 месяцев после хирургического или транскатетерного протезирования клапана биопротезом оправдана антикоагулянтная терапия АВК."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [3, 4, 5, 6]
+        },
+        {
+          "id": "r04-no-noac-mechanical-valves",
+          "text": {
+            "en": "In patients with mechanical heart valves with or without AF who require long-term anticoagulation with VKA to prevent valve thrombosis, NOACs are not recommended.",
+            "ru": "У пациентов с механическими протезами клапанов сердца с ФП или без нее, требующих длительного приема АВК для профилактики тромбоза протеза, применение ПОАК (NOAC) не рекомендуется."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

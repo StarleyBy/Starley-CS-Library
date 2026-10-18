@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt04-evaluation-surgical-interventional-risk",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 4",
+  "title": {
+    "en": "Recommendation for Evaluation of Surgical and Interventional Risk",
+    "ru": "Рекомендация по оценке хирургического и интервенционного риска"
+  },
+  "tags": [
+    "vhd",
+    "risk-evaluation",
+    "surgical-risk",
+    "transcatheter-procedures",
+    "shared-decision-making",
+    "risk-calculators"
+  ],
+  "sections": [
+    {
+      "id": "sec-evaluation-surgical-interventional-risk",
+      "title": {
+        "en": "Evaluation of Surgical and Interventional Risk",
+        "ru": "Оценка хирургического и интервенционного риска"
+      },
+      "rows": [
+        {
+          "id": "r01-calculate-individual-risk-shared-decision-making",
+          "text": {
+            "en": "For patients with VHD for whom intervention is contemplated, individual risks should be calculated for specific surgical and/or transcatheter procedures, using online tools when available, and discussed before the procedure as a part of a shared decision-making process.",
+            "ru": "У пациентов с клапанными пороками сердца, которым планируется вмешательство, следует рассчитать индивидуальный риск для конкретных хирургических и/или транскатетерных процедур с использованием доступных онлайн-инструментов и обсудить его до вмешательства в рамках совместного принятия решений."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

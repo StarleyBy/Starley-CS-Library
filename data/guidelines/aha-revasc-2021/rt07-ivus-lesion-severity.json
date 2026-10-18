@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt07-ivus-lesion-severity",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 7",
+  "title": {
+    "en": "Recommendation for Intravascular Ultrasound to Assess Lesion Severity",
+    "ru": "Рекомендация по внутрисосудистому ультразвуковому исследованию для оценки тяжести поражения"
+  },
+  "tags": [
+    "ivus",
+    "left-main",
+    "intermediate-stenosis",
+    "intravascular-imaging",
+    "lesion-severity"
+  ],
+  "sections": [
+    {
+      "id": "sec-ivus-lesion-severity",
+      "title": {
+        "en": "Intravascular Ultrasound to Assess Lesion Severity",
+        "ru": "Внутрисосудистое ультразвуковое исследование для оценки тяжести поражения"
+      },
+      "rows": [
+        {
+          "id": "r01-ivus-intermediate-left-main",
+          "text": {
+            "en": "In patients with intermediate stenosis of the left main artery, intravascular ultrasound (IVUS) is reasonable to help define lesion severity.",
+            "ru": "У пациентов с пограничным стенозом ствола левой коронарной артерии целесообразно выполнение внутрисосудистого ультразвукового исследования (ВСУЗИ/IVUS) для уточнения тяжести поражения."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

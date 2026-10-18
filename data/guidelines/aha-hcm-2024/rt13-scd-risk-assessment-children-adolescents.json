@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt13-scd-risk-assessment-children-adolescents",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 13",
+  "title": {
+    "en": "Recommendations for SCD Risk Assessment in Children and Adolescents With HCM",
+    "ru": "Рекомендации по оценке риска внезапной сердечной смерти у детей и подростков с ГКМП"
+  },
+  "tags": [
+    "hcm",
+    "scd",
+    "risk-assessment",
+    "pediatric",
+    "children",
+    "adolescents",
+    "icd",
+    "cmr",
+    "lge",
+    "genotype"
+  ],
+  "sections": [
+    {
+      "id": "sec-scd-risk-assessment-children",
+      "title": {
+        "en": "SCD Risk Assessment in Children and Adolescents With HCM",
+        "ru": "Оценка риска ВСС у детей и подростков с ГКМП"
+      },
+      "rows": [
+        {
+          "id": "r01-systematic-scd-risk-assessment-pediatric",
+          "text": {
+            "en": "For children and adolescents with HCM, a comprehensive, systematic noninvasive SCD risk assessment at initial evaluation and every 1 to 2 years thereafter is recommended and should include evaluation of these risk factors (Figures 1 and 3, Table 8):",
+            "ru": "У детей и подростков с ГКМП рекомендуется проведение комплексной систематической неинвазивной оценки риска ВСС при первичном обследовании и затем каждые 1–2 года, включающей оценку следующих факторов риска (Рисунки 1 и 3, Таблица 8):"
+          },
+          "bullets": [
+            {
+              "text": {
+                "en": "Personal history of cardiac arrest or sustained ventricular arrhythmias;",
+                "ru": "Анамнез остановки сердца или устойчивых желудочковых аритмий;"
+              }
+            },
+            {
+              "text": {
+                "en": "Personal history of syncope suspected by clinical history to be arrhythmic;",
+                "ru": "Анамнез синкопальных состояний с подозрением на аритмический генез;"
+              }
+            },
+            {
+              "text": {
+                "en": "Family history in close relative of premature HCM-related sudden death, cardiac arrest, or sustained ventricular arrhythmias;",
+                "ru": "Семейный анамнез преждевременной внезапной смерти, связанной с ГКМП, остановки сердца или устойчивых желудочковых аритмий у близких родственников;"
+              }
+            },
+            {
+              "text": {
+                "en": "Maximal LV wall thickness, EF, LV apical aneurysm;",
+                "ru": "Максимальная толщина стенки ЛЖ, ФВ, верхушечная аневризма ЛЖ;"
+              }
+            },
+            {
+              "text": {
+                "en": "NSVT episodes on continuous ambulatory electrocardiographic monitoring.",
+                "ru": "Эпизоды неустойчивой желудочковой тахикардии (НУЖТ) при суточном мониторировании ЭКГ."
+              }
+            }
+          ],
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r02-cmr-borderline-risk-pediatric",
+          "text": {
+            "en": "For children and adolescents with HCM who have a borderline risk for SCD, or in whom a decision to proceed with ICD placement remains uncertain after clinical assessment that includes personal and family history, echocardiography, and ambulatory electrocardiographic monitoring, CMR imaging is beneficial to assess for extent of myocardial fibrosis with LGE (Table 8).",
+            "ru": "У детей и подростков с ГКМП, имеющих пограничный риск ВСС, или у которых решение об имплантации ИКД остается неопределенным после клинической оценки (анамнез, ЭхоКГ, суточное мониторирование ЭКГ), МРТ сердца полезна для оценки распространенности фиброза миокарда по отсроченному накоплению гадолиния (LGE) (Таблица 8)."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [9, 10, 11]
+        },
+        {
+          "id": "r03-pediatric-5-year-scd-risk-calculation",
+          "text": {
+            "en": "For patients <16 years of age with HCM, it is reasonable to calculate an estimated 5-year sudden death risk that includes echocardiographic parameters (interventricular septal thickness in diastole, LV posterior wall thickness in end-diastole, left atrial diameter, maximal LVOT gradient) and genotype, which may be useful during shared decision-making for ICD placement (Table 8).",
+            "ru": "У пациентов с ГКМП в возрасте <16 лет целесообразно рассчитывать предполагаемый 5-летний риск внезапной смерти с учетом эхокардиографических параметров (толщина межжелудочковой перегородки в диастолу, толщина задней стенки ЛЖ в конечную диастолу, диаметр левого предсердия, максимальный градиент в ВТЛЖ) и генотипа, что может быть полезно в процессе совместного принятия решения об имплантации ИКД (Таблица 8)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 12]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

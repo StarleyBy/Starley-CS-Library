@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt07-diagnostic-testing-initial-diagnosis-as",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 7",
+  "title": {
+    "en": "Recommendations for Diagnostic Testing: Initial Diagnosis of AS",
+    "ru": "Рекомендации по диагностическому обследованию: первичная диагностика аортального стеноза"
+  },
+  "tags": [
+    "vhd",
+    "aortic-stenosis",
+    "diagnostic-testing",
+    "tte",
+    "low-flow-low-gradient",
+    "dobutamine-stress",
+    "velocity-ratio",
+    "calcium-score",
+    "ct"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnostic-testing-initial-diagnosis-as",
+      "title": {
+        "en": "Diagnostic Testing: Initial Diagnosis of AS",
+        "ru": "Диагностическое обследование: первичная диагностика аортального стеноза"
+      },
+      "rows": [
+        {
+          "id": "r01-tte-signs-symptoms-bav",
+          "text": {
+            "en": "In patients with signs or symptoms of AS or a BAV, TTE is indicated for accurate diagnosis of the cause of AS, assessment of hemodynamic severity, measurement of LV size and systolic function, and determination of prognosis and timing of valve intervention.",
+            "ru": "У пациентов с признаками или симптомами АС либо ДАК показано проведение ТТ-ЭхоКГ для точного установления причины АС, оценки тяжести гемодинамических нарушений, измерения размеров и систолической функции ЛЖ, определения прогноза и сроков вмешательства на клапане."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-bp-control-normal-ef-low-flow-low-gradient",
+          "text": {
+            "en": "In patients with suspected low-flow, low-gradient severe AS with normal LVEF (Stage D3), optimization of blood pressure control is recommended before measurement of AS severity by TTE, TEE, cardiac catheterization, or CMR.",
+            "ru": "У пациентов с подозрением на тяжелый низкопоточный низкоградиентный АС с сохраненной ФВ ЛЖ (Стадия D3) рекомендуется оптимизация контроля АД до проведения оценки тяжести АС с помощью ТТ-ЭхоКГ, ЧП-ЭхоКГ, катетеризации сердца или МРТ сердца."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r03-dobutamine-stress-reduced-ef-low-flow-low-gradient",
+          "text": {
+            "en": "In patients with suspected low-flow, low-gradient severe AS with reduced LVEF (Stage D2), low-dose dobutamine stress testing with echocardiographic or invasive hemodynamic measurements is reasonable to further define severity and assess contractile reserve.",
+            "ru": "У пациентов с подозрением на тяжелый низкопоточный низкоградиентный АС со сниженной ФВ ЛЖ (Стадия D2) оправдано проведение стресс-теста с малыми дозами добутамина под эхокардиографическим или инвазивным гемодинамическим контролем для уточнения степени тяжести и оценки сократительного резерва."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [8, 9, 10]
+        },
+        {
+          "id": "r04-velocity-ratio-low-flow-low-gradient",
+          "text": {
+            "en": "In patients with suspected low-flow, low-gradient severe AS with normal or reduced LVEF (Stages D2 and D3), calculation of the ratio of the outflow tract to aortic velocity is reasonable to further define severity.",
+            "ru": "У пациентов с подозрением на тяжелый низкопоточный низкоградиентный АС с сохраненной или сниженной ФВ ЛЖ (Стадии D2 и D3) оправдан расчет соотношения скоростей в выводном тракте ЛЖ и на аортальном клапане (индекса скорости / DVI) для уточнения степени тяжести."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 11, 12, 13]
+        },
+        {
+          "id": "r05-calcium-score-ct-low-flow-low-gradient",
+          "text": {
+            "en": "In patients with suspected low-flow, low-gradient severe AS with normal or reduced LVEF (Stages D2 and D3), measurement of aortic valve calcium score by CT imaging is reasonable to further define severity.",
+            "ru": "У пациентов с подозрением на тяжелый низкопоточный низкоградиентный АС с сохраненной или сниженной ФВ ЛЖ (Стадии D2 и D3) оправдано определение кальциевого индекса аортального клапана по данным компьютерной томографии (КТ) для уточнения степени тяжести."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [14, 15, 16, 17, 18]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

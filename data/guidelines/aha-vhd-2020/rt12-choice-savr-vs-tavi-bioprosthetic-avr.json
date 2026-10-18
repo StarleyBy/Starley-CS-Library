@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt12-choice-savr-vs-tavi-bioprosthetic-avr",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 12",
+  "title": {
+    "en": "Recommendations for Choice of SAVR Versus TAVI for Patients for Whom a Bioprosthetic AVR Is Appropriate",
+    "ru": "Рекомендации по выбору между SAVR и TAVI у пациентов, которым показано биопротезирование аортального клапана"
+  },
+  "tags": [
+    "vhd",
+    "aortic-stenosis",
+    "savr",
+    "tavi",
+    "bioprosthetic-avr",
+    "high-surgical-risk",
+    "prohibitive-risk",
+    "palliative-care",
+    "balloon-valvuloplasty",
+    "age",
+    "life-expectancy"
+  ],
+  "sections": [
+    {
+      "id": "sec-choice-savr-vs-tavi-bioprosthetic-avr",
+      "title": {
+        "en": "Choice of SAVR Versus TAVI for Patients for Whom a Bioprosthetic AVR Is Appropriate",
+        "ru": "Выбор между SAVR и TAVI у пациентов, которым показано биопротезирование аортального клапана"
+      },
+      "rows": [
+        {
+          "id": "r01-age-under-65-savr",
+          "text": {
+            "en": "For symptomatic and asymptomatic patients with severe AS and any indication for AVR who are <65 years of age or have a life expectancy >20 years, SAVR is recommended.",
+            "ru": "У симптомных и бессимптомных пациентов с тяжелым АС и любыми показаниями к ПАК в возрасте <65 лет или с ожидаемой продолжительностью жизни >20 лет рекомендуется хирургическое протезирование аортального клапана (SAVR)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-age-65-to-80-savr-or-tavi",
+          "text": {
+            "en": "For symptomatic patients with severe AS who are 65 to 80 years of age and have no anatomic contraindication to transfemoral TAVI, either SAVR or transfemoral TAVI is recommended after shared decision-making about the balance between expected patient longevity and valve durability.",
+            "ru": "У симптомных пациентов с тяжелым АС в возрасте от 65 до 80 лет при отсутствии анатомических противопоказаний к трансфеморальному доступу рекомендуется либо SAVR, либо трансфеморальное TAVI после совместного принятия решений с оценкой баланса ожидаемой продолжительности жизни и долговечности клапана."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r03-age-over-80-tavi",
+          "text": {
+            "en": "For symptomatic patients with severe AS who are >80 years of age or for younger patients with a life expectancy <10 years and no anatomic contraindication to transfemoral TAVI, transfemoral TAVI is recommended in preference to SAVR.",
+            "ru": "У симптомных пациентов с тяжелым АС в возрасте >80 лет или у более молодых пациентов с ожидаемой продолжительностью жизни <10 лет и при отсутствии анатомических противопоказаний к трансфеморальному доступу рекомендуется трансфеморальное TAVI предпочтительнее SAVR."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+          "id": "r04-asymptomatic-reduced-ef-savr-vs-tavi",
+          "text": {
+            "en": "In asymptomatic patients with severe AS and an LVEF <50% who are ≤80 years of age and have no anatomic contraindication to transfemoral TAVI, the decision between TAVI and SAVR should follow the same recommendations as for symptomatic patients in Recommendations 1, 2, and 3 above.",
+            "ru": "У бессимптомных пациентов с тяжелым АС и ФВ ЛЖ <50% в возрасте ≤80 лет без анатомических противопоказаний к трансфеморальному доступу выбор между TAVI и SAVR должен следовать тем же рекомендациям, что и для симптомных пациентов (пункты 1, 2 и 3 выше)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+          "id": "r05-asymptomatic-cor-2a-indications-savr-preference",
+          "text": {
+            "en": "For asymptomatic patients with severe AS and an abnormal exercise test, very severe AS, rapid progression, or an elevated BNP (COR 2a indications for AVR), SAVR is recommended in preference to TAVI.",
+            "ru": "У бессимптомных пациентов с тяжелым АС и патологическим нагрузочным тестом, крайне тяжелым АС, быстрым прогрессированием или повышенным уровнем BNP (показания класса 2a к ПАК) рекомендуется SAVR предпочтительнее TAVI."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 11]
+        },
+        {
+          "id": "r06-not-suitable-transfemoral-tavi-savr",
+          "text": {
+            "en": "For patients with an indication for AVR for whom a bioprosthetic valve is preferred but valve or vascular anatomy or other factors are not suitable for transfemoral TAVI, SAVR is recommended.",
+            "ru": "У пациентов с показаниями к ПАК, предпочитающих биологический протез, но имеющих клапанные, сосудистые или иные анатомические ограничения для трансфеморального TAVI, рекомендуется выполнение SAVR."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 11]
+        },
+        {
+          "id": "r07-high-or-prohibitive-risk-tavi",
+          "text": {
+            "en": "For symptomatic patients of any age with severe AS and a high or prohibitive surgical risk, TAVI is recommended if predicted post-TAVI survival is >12 months with an acceptable quality of life.",
+            "ru": "У симптомных пациентов любого возраста с тяжелым АС и высоким или крайне высоким (неприемлемым) хирургическим риском рекомендуется TAVI, если ожидаемая выживаемость после вмешательства составляет >12 месяцев с приемлемым качеством жизни."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [12, 13, 14, 15]
+        },
+        {
+          "id": "r08-futile-survival-under-12m-palliation",
+          "text": {
+            "en": "For symptomatic patients with severe AS for whom predicted post-TAVI or post-SAVR survival is <12 months or for whom minimal improvement in quality of life is expected, palliative care is recommended after shared decision-making, including discussion of patient preferences and values.",
+            "ru": "У симптомных пациентов с тяжелым АС, у которых прогнозируемая выживаемость после TAVI или SAVR составляет <12 месяцев либо ожидается минимальное улучшение качества жизни, рекомендуется паллиативная помощь после совместного принятия решений с обсуждением предпочтений и ценностей пациента."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r09-balloon-dilation-bridge",
+          "text": {
+            "en": "In critically ill patients with severe AS, percutaneous aortic balloon dilation may be considered as a bridge to SAVR or TAVI.",
+            "ru": "У крайне тяжелых (критических) пациентов с тяжелым АС можно рассмотреть проведение чрескожной баллонной вальвулопластики аортального клапана в качестве «моста» к SAVR или TAVI."
+          },
+          "class": "IIb",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

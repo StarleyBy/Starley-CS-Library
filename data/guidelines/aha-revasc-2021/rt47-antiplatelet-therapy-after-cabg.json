@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt47-antiplatelet-therapy-after-cabg",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 47",
+  "title": {
+    "en": "Recommendations for Antiplatelet Therapy in Patients After CABG",
+    "ru": "Рекомендации по антиагрегантной терапии у пациентов после КШ"
+  },
+  "tags": [
+    "cabg",
+    "antiplatelet-therapy",
+    "aspirin",
+    "svg-patency",
+    "dapt",
+    "ticagrelor",
+    "clopidogrel"
+  ],
+  "sections": [
+    {
+      "id": "sec-antiplatelet-after-cabg",
+      "title": {
+        "en": "Antiplatelet Therapy in Patients After CABG",
+        "ru": "Антиагрегантная терапия у пациентов после КШ"
+      },
+      "rows": [
+        {
+          "id": "r01-aspirin-initiation-within-6h-indefinite",
+          "text": {
+            "en": "In patients undergoing CABG, aspirin (100–325 mg daily) should be initiated within 6 hours postoperatively and then continued indefinitely to reduce the occurrence of SVG closure and adverse cardiovascular events.",
+            "ru": "У пациентов, подвергающихся КШ, прием аспирина (100–325 мг/сут) следует начинать в течение 6 часов после операции и затем продолжать неопределенно долго для снижения частоты окклюзии венозных шунтов (SVG) и нежелательных сердечно-сосудистых событий."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-dapt-1-year-vein-graft-patency",
+          "text": {
+            "en": "In selected patients undergoing CABG, DAPT with aspirin and ticagrelor or clopidogrel for 1 year may be reasonable to improve vein graft patency compared with aspirin alone.",
+            "ru": "У отдельных отобранных пациентов, подвергающихся КШ, проведение ДАТТ (аспирин в комбинации с тикагрелором или клопидогрелом) в течение 1 года может быть целесообразным для улучшения проходимости венозных шунтов по сравнению с монотерапией аспирином."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [8, 9, 10]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

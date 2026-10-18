@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt53-diagnosis-of-ie",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 53",
+  "title": {
+    "en": "Recommendations for Diagnosis of IE",
+    "ru": "Рекомендации по диагностике инфекционного эндокардита"
+  },
+  "tags": [
+    "vhd",
+    "ie",
+    "infective-endocarditis",
+    "blood-cultures",
+    "duke-criteria",
+    "heart-valve-team",
+    "tte",
+    "tee",
+    "ct",
+    "pet-ct",
+    "staphylococcus-aureus"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnosis-of-ie",
+      "title": {
+        "en": "Diagnosis of IE",
+        "ru": "Диагностика инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r01-risk-of-ie-unexplained-fever-blood-cultures",
+          "text": {
+            "en": "In patients at risk of IE (eg, those with congenital or acquired VHD, previous IE, prosthetic heart valves, certain congenital or heritable heart malformations, immunodeficiency states, or injection drug use) who have unexplained fever, blood culture samples should be obtained.",
+            "ru": "У пациентов группы риска развития ИЭ (например, с врожденными или приобретенными пороками сердца, перенесенным ранее ИЭ, протезированными клапанами сердца, определенными врожденными или наследственными аномалиями сердца, иммунодефицитными состояниями или инъекционным употреблением наркотиков) при лихорадке неясного генеза необходимо выполнить забор образцов крови для бактериологического исследования (посева крови)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1]
+        },
+        {
+          "id": "r02-recent-onset-left-sided-regurgitation-blood-cultures",
+          "text": {
+            "en": "In patients with the recent onset of left-sided valve regurgitation, at least 2 sets of blood culture samples should be obtained.",
+            "ru": "У пациентов с недавно возникшей регургитацией на левосторонних клапанах сердца необходимо получить как минимум 2 набора образцов крови для микробиологического исследования (посева)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+        },
+        {
+          "id": "r03-modified-duke-criteria-diagnosis",
+          "text": {
+            "en": "In patients with suspected IE, the Modified Duke Criteria should be used for diagnosis (Tables 24 and 25).",
+            "ru": "У пациентов с подозрением на ИЭ для установления диагноза следует использовать модифицированные критерии Дьюка (Duke Criteria) (Таблицы 24 и 25)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+          "id": "r04-multispecialty-heart-valve-team",
+          "text": {
+            "en": "Patients with IE should be evaluated and managed with consultation with a multispecialty Heart Valve Team, which includes an infectious disease specialist, cardiologist, and cardiac surgeon; a cardiac anesthesiologist for surgically managed patients; and a neurologist for patients with neurological events.",
+            "ru": "Пациенты с ИЭ должны обследоваться и вестись при участии мультидисциплинарной клапанной команды (Heart Valve Team), включающей инфекциониста, кардиолога и кардиохирурга, а также кардиоанестезиолога (при хирургическом лечении) и невролога (при развитии неврологических нарушений)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [11, 12, 13]
+        },
+        {
+          "id": "r05-tte-suspected-ie",
+          "text": {
+            "en": "In patients with suspected IE, TTE is recommended to identify vegetations, characterize the hemodynamic severity of valvular lesions, assess ventricular function and pulmonary pressures, and detect complications.",
+            "ru": "У пациентов с подозрением на ИЭ рекомендуется проведение ТТ-ЭхоКГ для выявления вегетаций, определения гемодинамической тяжести клапанных поражений, оценки функции желудочков и давления в легочной артерии, а также выявления осложнений."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [14, 15, 16, 17, 18, 19, 20]
+        },
+        {
+          "id": "r06-tee-nondiagnostic-tte-or-complications-or-leads",
+          "text": {
+            "en": "In all patients with known or suspected IE and nondiagnostic TTE results, when complications have developed or are clinically suspected or when intracardiac device leads are present, TEE is recommended.",
+            "ru": "Всем пациентам с установленным или подозреваемым ИЭ и недиагностическими результатами ТТ-ЭхоКГ, при развитии или клиническом подозрении на осложнения, либо при наличии внутрисердечных электродов имплантированных устройств рекомендуется проведение ЧП-ЭхоКГ."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [21, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+        },
+        {
+          "id": "r07-repeat-tte-tee-clinical-change-or-high-risk",
+          "text": {
+            "en": "In patients with IE who have a change in clinical signs or symptoms (eg, new murmur, embolism, persistent fever, HF, abscess, or atrioventricular heart block) and in patients at high risk of complications (eg, extensive infected tissue, large vegetation on initial echocardiogram, or staphylococcal, enterococcal, or fungal infections), TTE and/or TEE are recommended for reevaluation.",
+            "ru": "У пациентов с ИЭ при изменении клинических признаков или симптомов (например, появление нового шума, эмболии, персистирующая лихорадка, сердечная недостаточность, абсцесс или атриовентрикулярная блокада), а также у пациентов высокого риска осложнений (например, обширное инфицирование тканей, крупные вегетации по данным исходной ЭхоКГ или стафилококковая, энтерококковая либо грибковая инфекция) рекомендуется повторная ТТ-ЭхоКГ и/или ЧП-ЭхоКГ."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [24, 31, 41, 42, 43, 44, 45, 46]
+        },
+        {
+          "id": "r08-intraoperative-tee-surgery-ie",
+          "text": {
+            "en": "In patients undergoing valve surgery for IE, intraoperative TEE is recommended.",
+            "ru": "У пациентов, которым выполняется операция на клапанах по поводу ИЭ, рекомендуется проведение интраоперационной ЧП-ЭхоКГ."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [47, 48, 49, 50]
+        },
+        {
+          "id": "r09-tee-timing-early-oral-antibiotic-therapy",
+          "text": {
+            "en": "In patients being considered for an early change to oral antibiotic therapy for the treatment of stable IE, a baseline TEE before switching to oral therapy and a repeat TEE 1 to 3 days before completion of the oral antibiotic regimen should be performed.",
+            "ru": "У пациентов, рассматриваемых для раннего перехода на пероральную антибиотикотерапию при стабильном ИЭ, следует выполнить исходную ЧП-ЭхоКГ перед переходом на пероральный прием и повторную ЧП-ЭхоКГ за 1–3 дня до завершения курса пероральных антибиотиков."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [51]
+        },
+        {
+          "id": "r10-tee-staph-aureus-bacteremia-unknown-source",
+          "text": {
+            "en": "In patients with Staphylococcus aureus bacteremia without a known source, TEE is reasonable to diagnose possible IE.",
+            "ru": "У пациентов с бактериемией, вызванной Staphylococcus aureus, без установленного источника оправдано проведение ЧП-ЭхоКГ для диагностики возможного ИЭ."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [11, 36, 52, 53, 54, 55, 56]
+        },
+        {
+          "id": "r11-tee-prosthetic-valve-persistent-fever",
+          "text": {
+            "en": "In patients with a prosthetic valve in the presence of persistent fever without bacteremia or a new murmur, a TEE is reasonable to aid in the diagnosis of IE.",
+            "ru": "У пациентов с протезированным клапаном при наличии персистирующей лихорадки без подтвержденной бактериемии или при отсутствии нового шума оправдано проведение ЧП-ЭхоКГ для уточнения диагноза ИЭ."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [57, 58, 59, 60]
+        },
+        {
+          "id": "r12-ct-imaging-paravalvular-infections",
+          "text": {
+            "en": "In patients in whom the anatomy cannot be clearly delineated by echocardiography in the setting of suspected paravalvular infections, CT imaging is reasonable.",
+            "ru": "У пациентов, у которых анатомические ориентиры не могут быть четко визуализированы с помощью ЭхоКГ при подозрении на паравальвулярные инфекционные осложнения, оправдано выполнение компьютерной томографии (КТ)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [37, 61, 62, 63, 64, 65, 66, 67, 68]
+        },
+        {
+          "id": "r13-pet-ct-possible-ie",
+          "text": {
+            "en": "In patients classified by Modified Duke Criteria as having “possible IE,” 18F-fluorodeoxyglucose PET/CT is reasonable as adjunct diagnostic imaging.",
+            "ru": "У пациентов, классифицированных по модифицированным критериям Дьюка как имеющие «вероятный (возможный) ИЭ», оправдано выполнение ПЭТ/КТ с 18F-фтордезоксиглюкозой в качестве дополнительного метода лучевой диагностики."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [69, 70, 71]
+        },
+        {
+          "id": "r14-tee-nosocomial-staph-aureus-bacteremia-known-portal",
+          "text": {
+            "en": "In patients with nosocomial S. aureus bacteremia with a known portal of entry from an extracardiac source, TEE might be considered to detect concomitant staphylococcal IE.",
+            "ru": "У пациентов с нозокомиальной бактериемией S. aureus с установленными входными воротами внесердечной локализации можно рассмотреть проведение ЧП-ЭхоКГ для выявления сопутствующего стафилококкового ИЭ."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [22, 50, 54, 72, 73, 74]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 14
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

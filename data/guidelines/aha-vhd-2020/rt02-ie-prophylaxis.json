@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt02-ie-prophylaxis",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 2",
+  "title": {
+    "en": "Recommendations for IE Prophylaxis",
+    "ru": "Рекомендации по профилактике инфекционного эндокардита"
+  },
+  "tags": [
+    "vhd",
+    "infective-endocarditis",
+    "ie-prophylaxis",
+    "antibiotic-prophylaxis",
+    "dental-procedures",
+    "prosthetic-valves",
+    "congenital-heart-disease"
+  ],
+  "sections": [
+    {
+      "id": "sec-ie-prophylaxis",
+      "title": {
+        "en": "IE Prophylaxis",
+        "ru": "Профилактика инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r01-antibiotic-prophylaxis-dental",
+          "text": {
+            "en": "Antibiotic prophylaxis is reasonable before dental procedures that involve manipulation of gingival tissue, manipulation of the periapical region of teeth, or perforation of the oral mucosa in patients with VHD who have any of the following:",
+            "ru": "Антибиотикопрофилактика оправдана перед стоматологическими процедурами, связанными с манипуляциями на десне, в периапикальной области зубов или с перфорацией слизистой оболочки полости рта, у пациентов с клапанными пороками сердца при наличии любого из следующих состояний:"
+          },
+          "bullets": [
+            {
+              "text": {
+                "en": "Prosthetic cardiac valves, including transcatheter-implanted prostheses and homografts.",
+                "ru": "Протезированные клапаны сердца, включая транскатетерные протезы и гомографты."
+              }
+            },
+            {
+              "text": {
+                "en": "Prosthetic material used for cardiac valve repair, such as annuloplasty rings, chords, or clips.",
+                "ru": "Искусственные материалы, использованные при пластике клапана сердца (опорные кольца аннулопластики, хорды или клипсы)."
+              }
+            },
+            {
+              "text": {
+                "en": "Previous IE.",
+                "ru": "Инфекционный эндокардит в анамнезе."
+              }
+            },
+            {
+              "text": {
+                "en": "Unrepaired cyanotic congenital heart disease or repaired congenital heart disease, with residual shunts or valvular regurgitation at the site of or adjacent to the site of a prosthetic patch or prosthetic device.",
+                "ru": "Некорригированные цианотические врожденные пороки сердца (ВПС) или корригированные ВПС с резидуальными шунтами или клапанной регургитацией в зоне или вблизи синтетической заплаты либо окклюдера."
+              }
+            },
+            {
+              "text": {
+                "en": "Cardiac transplant with valve regurgitation attributable to a structurally abnormal valve.",
+                "ru": "Трансплантация сердца с клапанной регургитацией вследствие структурной аномалии клапана."
+              }
+            }
+          ],
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9]
+        },
+        {
+          "id": "r02-no-prophylaxis-nondental-procedures",
+          "text": {
+            "en": "In patients with VHD who are at high risk of IE, antibiotic prophylaxis is not recommended for nondental procedures (eg, TEE, esophagogastroduodenoscopy, colonoscopy, or cystoscopy) in the absence of active infection.",
+            "ru": "У пациентов с клапанными пороками сердца группы высокого риска ИЭ антибиотикопрофилактика не рекомендуется перед нестоматологическими вмешательствами (например, ЧП-ЭхоКГ, ЭГДС, колоноскопия, цистоскопия) при отсутствии признаков активной инфекции."
+          },
+          "class": "III-no-benefit",
+          "level": "B-NR",
+          "refs": [10, 11]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

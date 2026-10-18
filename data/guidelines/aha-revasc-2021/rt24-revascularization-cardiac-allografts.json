@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt24-revascularization-cardiac-allografts",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 24",
+  "title": {
+    "en": "Recommendation for Revascularization in Patients With Cardiac Allografts",
+    "ru": "Рекомендация по реваскуляризации у пациентов с трансплантированным сердцем (сердечным аллотрансплантатом)"
+  },
+  "tags": [
+    "cardiac-allograft",
+    "cav",
+    "heart-transplant",
+    "allograft-vasculopathy",
+    "pci"
+  ],
+  "sections": [
+    {
+      "id": "sec-revascularization-cardiac-allografts",
+      "title": {
+        "en": "Revascularization in Patients With Cardiac Allografts",
+        "ru": "Реваскуляризация у пациентов с трансплантированным сердцем"
+      },
+      "rows": [
+        {
+          "id": "r01-cav-proximal-discrete-lesions-pci",
+          "text": {
+            "en": "In patients with cardiac allograft vasculopathy and severe, proximal, discrete coronary lesions, revascularization with PCI is reasonable.",
+            "ru": "У пациентов с васкулопатией сердечного аллотрансплантата (CAV) и тяжелыми проксимальными дискретными поражениями коронарных артерий целесообразно выполнение реваскуляризации методом ЧКВ."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

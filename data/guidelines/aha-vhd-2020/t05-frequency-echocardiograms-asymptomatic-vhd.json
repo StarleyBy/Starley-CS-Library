@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t05-frequency-echocardiograms-asymptomatic-vhd",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Frequency of Echocardiograms in Asymptomatic Patients With VHD and Normal LV Function",
+    "ru": "Частота проведения эхокардиографии у бессимптомных пациентов с клапанными пороками сердца и нормальной функцией ЛЖ"
+  },
+  "tags": [
+    "vhd",
+    "echocardiography",
+    "frequency",
+    "surveillance",
+    "aortic-stenosis",
+    "aortic-regurgitation",
+    "mitral-stenosis",
+    "mitral-regurgitation",
+    "stage-b",
+    "stage-c1"
+  ],
+  "columns": [
+    {
+      "id": "stage",
+      "title": {
+        "en": "Stage",
+        "ru": "Стадия порока"
+      }
+    },
+    {
+      "id": "aortic_stenosis",
+      "title": {
+        "en": "Aortic Stenosis^[a]",
+        "ru": "Аортальный стеноз^[a]"
+      }
+    },
+    {
+      "id": "aortic_regurgitation",
+      "title": {
+        "en": "Aortic Regurgitation",
+        "ru": "Аортальная регургитация"
+      }
+    },
+    {
+      "id": "mitral_stenosis",
+      "title": {
+        "en": "Mitral Stenosis",
+        "ru": "Митральный стеноз"
+      }
+    },
+    {
+      "id": "mitral_regurgitation",
+      "title": {
+        "en": "Mitral Regurgitation",
+        "ru": "Митральная регургитация"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-stage-b-mild",
+      "cells": [
+        {
+          "text": {
+            "en": "Progressive (Stage B)",
+            "ru": "Прогрессирующий (Стадия B)"
+          }
+        },
+        {
+          "text": {
+            "en": "Every 3–5 y (mild severity; V_max 2.0–2.9 m/s)",
+            "ru": "Каждые 3–5 лет (легкая степень; V_max 2,0–2,9 м/с)"
+          }
+        },
+        {
+          "text": {
+            "en": "Every 3–5 y (mild severity)",
+            "ru": "Каждые 3–5 лет (легкая степень)"
+          }
+        },
+        {
+          "text": {
+            "en": "Every 3–5 y (MV area >1.5 cm^2)",
+            "ru": "Каждые 3–5 лет (площадь МК >1,5 см²)"
+          }
+        },
+        {
+          "text": {
+            "en": "Every 3–5 y (mild severity)",
+            "ru": "Каждые 3–5 лет (легкая степень)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-stage-b-moderate",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Every 1–2 y (moderate severity; V_max 3.0–3.9 m/s)",
+            "ru": "Каждые 1–2 года (умеренная степень; V_max 3,0–3,9 м/с)"
+          }
+        },
+        {
+          "text": {
+            "en": "Every 1–2 y (moderate severity)",
+            "ru": "Каждые 1–2 года (умеренная степень)"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Every 1–2 y (moderate severity)",
+            "ru": "Каждые 1–2 года (умеренная степень)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-stage-c1-standard",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe asymptomatic (Stage C1)",
+            "ru": "Бессимптомный тяжелый (Стадия C1)"
+          }
+        },
+        {
+          "text": {
+            "en": "Every 6–12 mo (V_max ≥4 m/s)",
+            "ru": "Каждые 6–12 месяцев (V_max ≥4 м/с)"
+          }
+        },
+        {
+          "text": {
+            "en": "Every 6–12 mo",
+            "ru": "Каждые 6–12 месяцев"
+          }
+        },
+        {
+          "text": {
+            "en": "Every 1–2 y (MV area 1.0–1.5 cm^2)",
+            "ru": "Каждые 1–2 года (площадь МК 1,0–1,5 см²)"
+          }
+        },
+        {
+          "text": {
+            "en": "Every 6–12 mo",
+            "ru": "Каждые 6–12 месяцев"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-stage-c1-progression",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Dilating LV: More frequently",
+            "ru": "При дилатации ЛЖ: чаще"
+          }
+        },
+        {
+          "text": {
+            "en": "Every year (MV area <1.0 cm^2)",
+            "ru": "Каждый год (площадь МК <1,0 см²)"
+          }
+        },
+        {
+          "text": {
+            "en": "Dilating LV: More frequently",
+            "ru": "При дилатации ЛЖ: чаще"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "With normal stroke volume.",
+      "ru": "При нормальном ударном объеме."
+    },
+    "b": {
+      "en": "Patients with mixed valve disease may require serial evaluations at intervals earlier than recommended for single-valve lesions. These intervals apply to most patients with each valve lesion and do not take into consideration the etiology of the valve disease.",
+      "ru": "Пациентам с сочетанными пороками сердца могут требоваться повторные исследования с меньшими интервалами, чем рекомендовано для изолированных пороков. Данные интервалы применимы к большинству пациентов с каждым пороком и не учитывают этиологию поражения клапана."
+    },
+    "c": {
+      "en": "LV indicates left ventricle; MV, mitral valve; VHD, valvular heart disease; and V_max, maximum velocity.",
+      "ru": "LV — левый желудочек; MV — митральный клапан; VHD — клапанные пороки сердца; V_max — максимальная скорость потока."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

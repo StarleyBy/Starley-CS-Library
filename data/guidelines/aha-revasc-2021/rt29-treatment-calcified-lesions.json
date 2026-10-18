@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt29-treatment-calcified-lesions",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 29",
+  "title": {
+    "en": "Recommendations for the Treatment of Calcified Lesions",
+    "ru": "Рекомендации по лечению кальцинированных поражений"
+  },
+  "tags": [
+    "calcified-lesions",
+    "rotational-atherectomy",
+    "orbital-atherectomy",
+    "lithotripsy",
+    "laser-angioplasty",
+    "plaque-modification"
+  ],
+  "sections": [
+    {
+      "id": "sec-treatment-calcified-lesions",
+      "title": {
+        "en": "Treatment of Calcified Lesions",
+        "ru": "Лечение кальцинированных поражений"
+      },
+      "rows": [
+        {
+          "id": "r01-calcified-rotational-atherectomy",
+          "text": {
+            "en": "In patients with fibrotic or heavily calcified lesions, plaque modification with rotational atherectomy can be useful to improve procedural success.",
+            "ru": "У пациентов с фиброзными или выраженно кальцинированными поражениями модификация бляшки с помощью ротационной атерэктомии (ротаблации) может быть полезной для повышения непосредственного успеха вмешательства."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-calcified-other-plaque-modification-devices",
+          "text": {
+            "en": "In patients with fibrotic or heavily calcified lesions, plaque modification with orbital atherectomy, balloon atherotomy, laser angioplasty, or intracoronary lithotripsy may be considered to improve procedural success.",
+            "ru": "У пациентов с фиброзными или выраженно кальцинированными поражениями модификация бляшки с помощью орбитальной атерэктомии, баллонной атеротомии (режущие/надрезающие баллоны), лазерной ангиопластики или внутрикоронарной литотрипсии может рассматриваться для повышения непосредственного успеха вмешательства."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [4, 5, 6, 7, 8]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

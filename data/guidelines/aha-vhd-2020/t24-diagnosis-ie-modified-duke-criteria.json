@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t24-diagnosis-ie-modified-duke-criteria",
+  "guidelineId": "aha-vhd-2020",
+  "type": "grid",
+  "number": "Table 24",
+  "title": {
+    "en": "Diagnosis of IE According to the Proposed Modified Duke Criteria",
+    "ru": "Диагностика инфекционного эндокардита в соответствии с предложенными модифицированными критериями Дьюка (Duke Criteria)"
+  },
+  "tags": [
+    "vhd",
+    "ie",
+    "infective-endocarditis",
+    "duke-criteria",
+    "definite-ie",
+    "possible-ie",
+    "rejected-ie"
+  ],
+  "columns": [
+    {
+      "id": "category",
+      "title": {
+        "en": "Category",
+        "ru": "Категория диагноза"
+      }
+    },
+    {
+      "id": "criteria",
+      "title": {
+        "en": "Diagnostic Criteria",
+        "ru": "Диагностические критерии"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "row-definite-ie",
+      "cells": [
+        {
+          "text": {
+            "en": "Definite IE",
+            "ru": "Достоверный (определенный) ИЭ"
+          }
+        },
+        {
+          "text": {
+            "en": "**Pathological criteria:**\n• Microorganisms demonstrated by culture or histological examination of a vegetation, a vegetation that has embolized, or an intracardiac abscess specimen; or\n• Pathological lesions: Vegetation or intracardiac abscess confirmed by histological examination showing active endocarditis\n\n**Clinical criteria:**\n• 2 major criteria; or\n• 1 major criterion and 3 minor criteria; or\n• 5 minor criteria",
+            "ru": "**Патоморфологические критерии:**\n• Микроорганизмы, выявленные при посеве или гистологическом исследовании вегетации, эмболизированной вегетации или образца ткани внутрисердечного абсцесса; или\n• Патоморфологические изменения: вегетация или внутрисердечный абсцесс, подтвержденные гистологическим исследованием с картиной активного эндокардита\n\n**Клинические критерии:**\n• 2 больших критерия; или\n• 1 большой критерий и 3 малых критерия; или\n• 5 малых критериев"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-possible-ie",
+      "cells": [
+        {
+          "text": {
+            "en": "Possible IE",
+            "ru": "Вероятный (возможный) ИЭ"
+          }
+        },
+        {
+          "text": {
+            "en": "• 1 major criterion and 1 minor criterion; or\n• 3 minor criteria",
+            "ru": "• 1 большой критерий и 1 малый критерий; или\n• 3 малых критерия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-rejected-ie",
+      "cells": [
+        {
+          "text": {
+            "en": "Rejected",
+            "ru": "Отвергнутый диагноз ИЭ"
+          }
+        },
+        {
+          "text": {
+            "en": "• Firm alternative diagnosis explaining evidence of IE; or\n• Resolution of IE syndrome with antibiotic therapy for <4 d; or\n• No pathological evidence of IE at surgery or autopsy, with antibiotic therapy for <4 d; or\n• Does not meet criteria for possible IE as listed above",
+            "ru": "• Убедительный альтернативный диагноз, объясняющий признаки ИЭ; или\n• Полное купирование проявлений синдрома ИЭ на фоне антибактериальной терапии продолжительностью <4 дней; или\n• Отсутствие гистологических/патоморфологических признаков ИЭ при операции или аутопсии при продолжительности антибактериальной терапии <4 дней; или\n• Несоответствие приведенным выше критериям вероятного ИЭ"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "IE indicates infective endocarditis. Adapted from Durack DT, et al., and Li JS, et al.",
+      "ru": "ИЭ — инфекционный эндокардит. Адаптировано из Durack DT, et al., и Li JS, et al."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

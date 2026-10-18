@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020",
+  "society": "ACC/AHA",
+  "year": 2020,
+  "title": {
+    "en": "2020 ACC/AHA Guideline for the Management of Patients With Valvular Heart Disease: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines",
+    "ru": "Рекомендации ACC/AHA 2020 по ведению пациентов с клапанными пороками сердца"
+  },
+  "shortTitle": {
+    "en": "ACC/AHA Valvular Heart Disease 2020",
+    "ru": "ACC/AHA Клапанные пороки сердца 2020"
+  },
+  "citation": "Circulation. 2021;143(5):e72–e227",
+  "doi": "10.1161/CIR.0000000000000923",
+  "legend": "aha-acc-2022",
+  "abbreviations": {
+    "AF": { "en": "atrial fibrillation", "ru": "фибрилляция предсердий (ФП)" },
+    "AR": { "en": "aortic regurgitation", "ru": "аортальная регургитация (АР)" },
+    "AS": { "en": "aortic stenosis", "ru": "аортальный стеноз (АС)" },
+    "AVR": { "en": "aortic valve replacement", "ru": "протезирование аортального клапана (ПАК)" },
+    "CMR": { "en": "cardiac magnetic resonance", "ru": "магнитно-резонансная томография сердца (МРТ сердца/CMR)" },
+    "COR": { "en": "Class of Recommendation", "ru": "класс рекомендаций (COR)" },
+    "CT": { "en": "computed tomography", "ru": "компьютерная томография (КТ)" },
+    "ECG": { "en": "electrocardiogram", "ru": "электрокардиограмма (ЭКГ)" },
+    "GDMT": { "en": "guideline-directed medical therapy", "ru": "оптимальная медикаментозная терапия по рекомендациям (ОМТ/GDMT)" },
+    "HF": { "en": "heart failure", "ru": "сердечная недостаточность (СН)" },
+    "LOE": { "en": "Level of Evidence", "ru": "уровень доказательности (LOE)" },
+    "LV": { "en": "left ventricle", "ru": "левый желудочек (ЛЖ)" },
+    "MR": { "en": "mitral regurgitation", "ru": "митральная регургитация (МР)" },
+    "MS": { "en": "mitral stenosis", "ru": "митральный стеноз (МС)" },
+    "MV": { "en": "mitral valve", "ru": "митральный клапан (МК)" },
+    "PET": { "en": "positron emission tomography", "ru": "позитронно-эмиссионная томография (ПЭТ)" },
+    "RV": { "en": "right ventricle", "ru": "правый желудочек (ПЖ)" },
+    "SAVR": { "en": "surgical aortic valve replacement", "ru": "хирургическое протезирование аортального клапана (SAVR)" },
+    "STS": { "en": "Society of Thoracic Surgeons", "ru": "Общество торакальных хирургов (STS)" },
+    "TAVI": { "en": "transcatheter aortic valve implantation", "ru": "транскатетерная имплантация аортального клапана (TAVI/TAVR)" },
+    "TEE": { "en": "transesophageal echocardiography", "ru": "чреспищеводная эхокардиография (ЧП-ЭхоКГ/TEE)" },
+    "TTE": { "en": "transthoracic echocardiography", "ru": "трансторакальная эхокардиография (ТТ-ЭхоКГ/TTE)" },
+    "VHD": { "en": "valvular heart disease", "ru": "клапанные пороки сердца (ВХД/VHD)" }
+  }
+}

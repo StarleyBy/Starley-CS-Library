@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt50-intervention-prosthetic-valve-stenosis",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 50",
+  "title": {
+    "en": "Recommendations for Intervention for Prosthetic Valve Stenosis",
+    "ru": "Рекомендации по вмешательствам при стенозе клапанного протеза"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-valves",
+    "prosthetic-valve-stenosis",
+    "reoperation",
+    "valve-in-valve",
+    "viv",
+    "tavi",
+    "comprehensive-valve-center",
+    "vka",
+    "thrombosis"
+  ],
+  "sections": [
+    {
+      "id": "sec-intervention-prosthetic-valve-stenosis",
+      "title": {
+        "en": "Intervention for Prosthetic Valve Stenosis",
+        "ru": "Вмешательства при стенозе клапанного протеза"
+      },
+      "rows": [
+        {
+          "id": "r01-symptomatic-severe-stenosis-repeat-surgery",
+          "text": {
+            "en": "In patients with symptomatic severe stenosis of a bioprosthetic or mechanical prosthetic valve, repeat surgical intervention is indicated unless surgical risk is high or prohibitive.",
+            "ru": "У пациентов с симптомным тяжелым стенозом биологического или механического протеза клапана показано повторное хирургическое вмешательство, за исключением случаев высокого или неприемлемого хирургического риска."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-bioprosthetic-aortic-stenosis-high-risk-viv",
+          "text": {
+            "en": "For severely symptomatic patients with bioprosthetic aortic valve stenosis and high or prohibitive surgical risk, a transcatheter ViV procedure is reasonable when performed at a Comprehensive Valve Center.",
+            "ru": "У пациентов с выраженной симптоматикой, стенозом биологического протеза аортального клапана и высоким или неприемлемым хирургическим риском оправдано выполнение транскатетерной процедуры «клапан-в-клапан» (ViV) при условии ее проведения в экспертном клапанном центре (Comprehensive Valve Center)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [4, 5]
+        },
+        {
+          "id": "r03-bioprosthetic-stenosis-valve-thrombosis-vka",
+          "text": {
+            "en": "For patients with significant bioprosthetic valve stenosis attributable to suspected or documented valve thrombosis, oral anticoagulation with a VKA is reasonable.",
+            "ru": "У пациентов со значимым стенозом биологического протеза клапана, обусловленным подозреваемым или подтвержденным тромбозом протеза, оправдана пероральная антикоагулянтная терапия АВК."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [6, 7, 8, 9, 10, 11, 12, 13]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt46-intervention-mechanical-prosthetic-valve-thrombosis",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 46",
+  "title": {
+    "en": "Recommendation for Intervention for Mechanical Prosthetic Valve Thrombosis",
+    "ru": "Рекомендация по вмешательству при тромбозе механического клапанного протеза"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-valves",
+    "mechanical-valve-thrombosis",
+    "valve-obstruction",
+    "slow-infusion-fibrinolysis",
+    "low-dose-fibrinolysis",
+    "emergency-surgery",
+    "left-sided-valve"
+  ],
+  "sections": [
+    {
+      "id": "sec-intervention-mechanical-prosthetic-valve-thrombosis",
+      "title": {
+        "en": "Intervention for Mechanical Prosthetic Valve Thrombosis",
+        "ru": "Вмешательство при тромбозе механического клапанного протеза"
+      },
+      "rows": [
+        {
+          "id": "r01-thrombosed-left-sided-mechanical-valve-fibrinolysis-or-surgery",
+          "text": {
+            "en": "For patients with a thrombosed left-sided mechanical prosthetic heart valve who present with symptoms of valve obstruction, urgent initial treatment with either slow-infusion, low-dose fibrinolytic therapy or emergency surgery is recommended.",
+            "ru": "У пациентов с тромбозом левостороннего механического клапанного протеза сердца и симптомами клапанной обструкции рекомендуется неотложное начальное лечение методом либо медленной инфузии низкодозовой фибринолитической терапии, либо экстренного хирургического вмешательства."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

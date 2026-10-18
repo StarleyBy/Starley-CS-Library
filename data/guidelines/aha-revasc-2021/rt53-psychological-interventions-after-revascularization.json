@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt53-psychological-interventions-after-revascularization",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 53",
+  "title": {
+    "en": "Recommendations for Psychological Interventions in Patients After Revascularization",
+    "ru": "Рекомендации по психологическим вмешательствам у пациентов после реваскуляризации"
+  },
+  "tags": [
+    "revascularization",
+    "psychological-interventions",
+    "depression",
+    "anxiety",
+    "stress",
+    "cbt",
+    "mental-health",
+    "quality-of-life"
+  ],
+  "sections": [
+    {
+      "id": "sec-psychological-interventions-post-revasc",
+      "title": {
+        "en": "Psychological Interventions in Patients After Revascularization",
+        "ru": "Психологические вмешательства у пациентов после реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r01-cbt-counseling-pharmacotherapy-depression-anxiety",
+          "text": {
+            "en": "In patients who have undergone coronary revascularization who have symptoms of depression, anxiety, or stress, treatment with cognitive behavioral therapy, psychological counseling, and/or pharmacological interventions is beneficial to improve quality of life and cardiac outcomes.",
+            "ru": "У пациентов, перенесших коронарную реваскуляризацию и имеющих симптомы депрессии, тревоги или стресса, лечение с применением когнитивно-поведенческой терапии, психологического консультирования и/или фармакотерапии приносит пользу для улучшения качества жизни и кардиальных исходов."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-screening-depression-referral-treatment",
+          "text": {
+            "en": "In patients who have undergone coronary revascularization, it may be reasonable to screen for depression and refer or treat when it is indicated to improve quality of life and recovery.",
+            "ru": "У пациентов, перенесших коронарную реваскуляризацию, может быть целесообразным проведение скрининга на депрессию с последующим направлением к специалисту или лечением при наличии показаний для улучшения качества жизни и восстановления."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [8, 9]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

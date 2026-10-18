@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.t05-targets-invasive-septal-reduction-therapies-outcomes",
+  "guidelineId": "aha-hcm-2024",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Targets for Invasive Septal Reduction Therapies Outcomes",
+    "ru": "Целевые показатели исходов инвазивной септальной редукционной терапии"
+  },
+  "tags": [
+    "hcm",
+    "srt",
+    "myectomy",
+    "alcohol-septal-ablation",
+    "quality-targets",
+    "complications",
+    "mortality",
+    "lvot-gradient"
+  ],
+  "columns": [
+    {
+      "id": "outcome",
+      "title": {
+        "en": "Outcome",
+        "ru": "Клинический исход / показатель"
+      }
+    },
+    {
+      "id": "myectomy",
+      "title": {
+        "en": "Myectomy, Rate (%)",
+        "ru": "Миэктомия, частота (%)"
+      }
+    },
+    {
+      "id": "alcohol_septal_ablation",
+      "title": {
+        "en": "Alcohol Septal Ablation, Rate (%)",
+        "ru": "Спиртовая септальная аблация, частота (%)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "mortality-30d",
+      "cells": [
+        { "text": { "en": "30-d mortality", "ru": "30-дневная летальность" } },
+        { "text": { "en": "≤1", "ru": "≤1" } },
+        { "text": { "en": "≤1", "ru": "≤1" } }
+      ]
+    },
+    {
+      "id": "adverse-complications-30d",
+      "cells": [
+        { "text": { "en": "30-d adverse complications (tamponade, LAD dissection, infection, major bleeding)", "ru": "30-дневные тяжелые осложнения (тампонада, диссекция ПМЖВ, инфекция, большое кровотечение)" } },
+        { "text": { "en": "≤5", "ru": "≤5" } },
+        { "text": { "en": "≤5", "ru": "≤5" } }
+      ]
+    },
+    {
+      "id": "complete-heart-block-30d",
+      "cells": [
+        { "text": { "en": "30-d complete heart block resulting in need for permanent pacemaker", "ru": "30-дневная полная атриовентрикулярная блокада, потребовавшая имплантации постоянного кардиостимулятора" } },
+        { "text": { "en": "≤5", "ru": "≤5" } },
+        { "text": { "en": "≤10", "ru": "≤10" } }
+      ]
+    },
+    {
+      "id": "mitral-valve-replacement-1y",
+      "cells": [
+        { "text": { "en": "Mitral valve replacement within 1 y", "ru": "Протезирование митрального клапана в течение 1 года" } },
+        { "text": { "en": "≤5", "ru": "≤5" } },
+        { "text": { "en": "—", "ru": "—" } }
+      ]
+    },
+    {
+      "id": "residual-mitral-regurgitation",
+      "cells": [
+        { "text": { "en": "More than moderate residual mitral regurgitation", "ru": "Остаточная митральная регургитация более чем умеренной степени" } },
+        { "text": { "en": "≤5", "ru": "≤5" } },
+        { "text": { "en": "≤5", "ru": "≤5" } }
+      ]
+    },
+    {
+      "id": "repeat-procedure-rate",
+      "cells": [
+        { "text": { "en": "Repeat procedure rate", "ru": "Частота повторных процедур" } },
+        { "text": { "en": "≤3", "ru": "≤3" } },
+        { "text": { "en": "≤10", "ru": "≤10" } }
+      ]
+    },
+    {
+      "id": "symptomatic-improvement",
+      "cells": [
+        { "text": { "en": "Symptomatic improvement (eg, ≥1 NYHA functional class)", "ru": "Симптоматическое улучшение (например, на ≥1 функциональный класс по NYHA)" } },
+        { "text": { "en": ">90", "ru": ">90" } },
+        { "text": { "en": ">90", "ru": ">90" } }
+      ]
+    },
+    {
+      "id": "lvot-gradient-rest-provoked",
+      "cells": [
+        { "text": { "en": "Rest and provoked LVOT gradient <50 mm Hg", "ru": "Градиент в ВТЛЖ (LVOT) в покое и при провокации <50 мм рт. ст." } },
+        { "text": { "en": ">90", "ru": ">90" } },
+        { "text": { "en": ">90", "ru": ">90" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "LAD indicates left anterior descending; LVOT, left ventricular outflow tract; and NYHA, New York Heart Association.",
+      "ru": "LAD (ПМЖВ) — передняя межжелудочковая ветвь; LVOT (ВТЛЖ) — выходной тракт левого желудочка; NYHA — Нью-Йоркская кардиологическая ассоциация."
+    }
+  },
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

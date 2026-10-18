@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt12-revascularization-reduce-cardiovascular-events-sihd",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 12",
+  "title": {
+    "en": "Recommendation for Revascularization to Reduce Cardiovascular Events in SIHD Compared With Medical Therapy",
+    "ru": "Рекомендация по реваскуляризации для снижения частоты сердечно-сосудистых событий при стабильной ИБС (SIHD) в сравнении с медикаментозной терапией"
+  },
+  "tags": [
+    "sihd",
+    "stable-cad",
+    "cardiovascular-events",
+    "spontaneous-mi",
+    "urgent-revascularization",
+    "cardiac-death",
+    "cabg",
+    "pci"
+  ],
+  "sections": [
+    {
+      "id": "sec-revasc-reduce-cv-events-sihd",
+      "title": {
+        "en": "Revascularization to Reduce Cardiovascular Events in SIHD Compared With Medical Therapy",
+        "ru": "Реваскуляризация для снижения частоты сердечно-сосудистых событий при стабильной ИБС (SIHD) в сравнении с медикаментозной терапией"
+      },
+      "rows": [
+        {
+          "id": "r01-sihd-multivessel-reduce-cv-events",
+          "text": {
+            "en": "In patients with SIHD and multivessel CAD appropriate for either CABG or PCI, revascularization is reasonable to lower the risk of cardiovascular events such as spontaneous MI, unplanned urgent revascularizations, or cardiac death.",
+            "ru": "У пациентов со стабильной ИБС (SIHD) и многососудистым поражением, подходящих как для КШ, так и для ЧКВ, реваскуляризация целесообразна для снижения риска сердечно-сосудистых событий, таких как спонтанный ИМ, незапланированные неотложные реваскуляризации или смерть от сердечно-сосудистых причин."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

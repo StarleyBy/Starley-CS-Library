@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt09-revascularization-non-infarct-artery-stemi",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 9",
+  "title": {
+    "en": "Recommendations for Revascularization of the Non-Infarct Artery in Patients With STEMI",
+    "ru": "Рекомендации по реваскуляризации неинфаркт-связанной артерии у пациентов с ИМпST (STEMI)"
+  },
+  "tags": [
+    "stemi",
+    "non-infarct-artery",
+    "multivessel",
+    "staged-pci",
+    "elective-cabg",
+    "cardiogenic-shock"
+  ],
+  "sections": [
+    {
+      "id": "sec-revasc-non-infarct-artery-stemi",
+      "title": {
+        "en": "Revascularization of the Non-Infarct Artery in Patients With STEMI",
+        "ru": "Реваскуляризация неинфаркт-связанной артерии у пациентов с ИМпST (STEMI)"
+      },
+      "rows": [
+        {
+          "id": "r01-stemi-multivessel-staged-pci",
+          "text": {
+            "en": "In selected hemodynamically stable patients with STEMI and multivessel disease, after successful primary PCI, staged PCI of a significant non-infarct artery stenosis is recommended to reduce the risk of death or MI.",
+            "ru": "У отобранных гемодинамически стабильных пациентов с ИМпST (STEMI) и многососудистым поражением после успешного первичного ЧКВ рекомендуется этапное ЧКВ гемодинамически значимого стеноза неинфаркт-связанной артерии для снижения риска смерти или ИМ."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-stemi-complex-multivessel-elective-cabg",
+          "text": {
+            "en": "In selected patients with STEMI with complex multivessel non-infarct artery disease, after successful primary PCI, elective CABG is reasonable to reduce the risk of cardiac events.",
+            "ru": "У отобранных пациентов с ИМпST (STEMI) со сложным многососудистым поражением неинфаркт-связанных артерий после успешного первичного ЧКВ целесообразно плановое КШ для снижения риска кардиальных событий."
+          },
+          "class": "IIa",
+          "level": "C-EO"
+        },
+        {
+          "id": "r03-stemi-low-complexity-pci-at-primary-pci",
+          "text": {
+            "en": "In selected hemodynamically stable patients with STEMI and low-complexity multivessel disease, PCI of a non-infarct artery stenosis may be considered at the time of primary PCI to reduce cardiac event rates.",
+            "ru": "У отобранных гемодинамически стабильных пациентов с ИМпST (STEMI) и анатомически несложным многососудистым поражением может быть рассмотрено ЧКВ стеноза неинфаркт-связанной артерии во время первичного ЧКВ для снижения частоты кардиальных событий."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [1, 3, 5, 6, 7]
+        },
+        {
+          "id": "r04-stemi-cardiogenic-shock-no-routine-non-infarct-pci",
+          "text": {
+            "en": "In patients with STEMI complicated by cardiogenic shock, routine PCI of a non-infarct artery at the time of primary PCI should not be performed because of the higher risk of death or renal failure.",
+            "ru": "У пациентов с ИМпST (STEMI), осложненным кардиогенным шоком, рутинное ЧКВ неинфаркт-связанной артерии во время первичного ЧКВ выполнять не следует из-за повышенного риска смерти или почечной недостаточности."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [8, 9, 10]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

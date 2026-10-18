@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt54-assessment-outcomes-after-revascularization",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 54",
+  "title": {
+    "en": "Recommendations for Assessment of Outcomes in Patients After Revascularization",
+    "ru": "Рекомендации по оценке исходов у пациентов после реваскуляризации"
+  },
+  "tags": [
+    "revascularization",
+    "outcomes-assessment",
+    "quality-improvement",
+    "clinical-registries",
+    "peer-review",
+    "hospital-volume"
+  ],
+  "sections": [
+    {
+      "id": "sec-assessment-outcomes-post-revasc",
+      "title": {
+        "en": "Assessment of Outcomes in Patients After Revascularization",
+        "ru": "Оценка исходов у пациентов после реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r01-participation-clinical-registries-risk-adjusted-outcomes",
+          "text": {
+            "en": "With the goal of improving patient outcomes, it is recommended that cardiac surgery and PCI programs participate in state, regional, or national clinical data registries and receive periodic reports of their risk-adjusted outcomes as a quality assessment and improvement strategy.",
+            "ru": "С целью улучшения исходов лечения пациентов кардиохирургическим отделениям и центрам ЧКВ рекомендуется участвовать в региональных или национальных регистрах клинических данных и получать периодические отчеты о результатах лечения с поправкой на риск (risk-adjusted outcomes) в рамках стратегии оценки и повышения качества медицинской помощи."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r02-multicomponent-quality-improvement-program",
+          "text": {
+            "en": "With the goal of improving patient outcomes, it is reasonable for cardiac surgery and PCI programs to have a quality improvement program that routinely 1) reviews institutional quality programs and outcomes, 2) reviews individual operator outcomes, 3) provides peer review of difficult or complicated cases, and 4) performs random case reviews.",
+            "ru": "С целью улучшения исходов лечения пациентов кардиохирургическим отделениям и центрам ЧКВ целесообразно внедрять программу повышения качества, которая на регулярной основе предусматривает: 1) анализ общеклинических программ качества и исходов, 2) оценку индивидуальных результатов работы операторов/хирургов, 3) экспертное рецензирование (peer review) трудных или осложненных клинических случаев и 4) выборочный экспертный разбор случайных историй болезней."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [9, 10]
+        },
+        {
+          "id": "r03-small-volume-affiliation-high-volume-center",
+          "text": {
+            "en": "Smaller volume cardiac surgery and PCI programs may consider affiliating with a high-volume center to improve patient care.",
+            "ru": "Кардиохирургическим отделениям и центрам ЧКВ с малым объемом вмешательств можно рассмотреть вопрос об интеграции/партнерстве с высокопоточными специализированными центрами для повышения качества медицинской помощи пациентам."
+          },
+          "class": "IIb",
+          "level": "C-EO"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

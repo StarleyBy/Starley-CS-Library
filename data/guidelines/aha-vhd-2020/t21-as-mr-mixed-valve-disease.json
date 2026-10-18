@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t21-as-mr-mixed-valve-disease",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 21",
+  "type": "grid",
+  "title": {
+    "en": "AS/MR Mixed Valve Disease",
+    "ru": "Сочетанный порок: аортальный стеноз и митральная регургитация (АС / МР)"
+  },
+  "tags": [
+    "vhd",
+    "mixed-valve-disease",
+    "aortic-stenosis",
+    "mitral-regurgitation",
+    "as-mr",
+    "savr",
+    "tavi",
+    "teer",
+    "mitral-repair",
+    "mitral-replacement",
+    "surgical-risk"
+  ],
+  "columns": [
+    {
+      "id": "severe_as",
+      "title": {
+        "en": "Severe AS",
+        "ru": "Тяжелый аортальный стеноз"
+      }
+    },
+    {
+      "id": "severe_mr",
+      "title": {
+        "en": "Severe MR",
+        "ru": "Тяжелая митральная регургитация"
+      }
+    },
+    {
+      "id": "surgical_risk",
+      "title": {
+        "en": "Surgical Risk",
+        "ru": "Хирургический риск"
+      }
+    },
+    {
+      "id": "procedure",
+      "title": {
+        "en": "Procedure",
+        "ru": "Вмешательство"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "row-01",
+      "cells": [
+        {
+          "text": {
+            "en": "SAVR candidate",
+            "ru": "Кандидат на SAVR"
+          }
+        },
+        {
+          "text": {
+            "en": "Primary MR\nRepairable valve",
+            "ru": "Первичная МР\nКлапан пригоден к пластике"
+          }
+        },
+        {
+          "text": {
+            "en": "Low\nintermediate",
+            "ru": "Низкий\nпромежуточный"
+          }
+        },
+        {
+          "text": {
+            "en": "SAVR\nSurgical mitral valve repair",
+            "ru": "SAVR\nХирургическая пластика митрального клапана"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-02",
+      "cells": [
+        {
+          "text": {
+            "en": "SAVR candidate",
+            "ru": "Кандидат на SAVR"
+          }
+        },
+        {
+          "text": {
+            "en": "Primary MR\nValve not repairable",
+            "ru": "Первичная МР\nКлапан непригоден к пластике"
+          }
+        },
+        {
+          "text": {
+            "en": "Low\nintermediate",
+            "ru": "Низкий\nпромежуточный"
+          }
+        },
+        {
+          "text": {
+            "en": "SAVR\nSurgical mitral valve replacement",
+            "ru": "SAVR\nХирургическое протезирование митрального клапана"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-03",
+      "cells": [
+        {
+          "text": {
+            "en": "TAVI candidate",
+            "ru": "Кандидат на TAVI"
+          }
+        },
+        {
+          "text": {
+            "en": "Primary\nRepairable valve",
+            "ru": "Первичная МР\nКлапан пригоден к пластике"
+          }
+        },
+        {
+          "text": {
+            "en": "High\nprohibitive",
+            "ru": "Высокий\nкрайне высокий (неприемлемый)"
+          }
+        },
+        {
+          "text": {
+            "en": "TAVI\nMitral TEER^[a]",
+            "ru": "TAVI\nМитральная транскатетерная краевая коаптация (TEER)^[a]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-04",
+      "cells": [
+        {
+          "text": {
+            "en": "SAVR candidate\nTAVI candidate",
+            "ru": "Кандидат на SAVR\nКандидат на TAVI"
+          }
+        },
+        {
+          "text": {
+            "en": "Secondary MR",
+            "ru": "Вторичная МР"
+          }
+        },
+        {
+          "text": {
+            "en": "Low\nintermediate",
+            "ru": "Низкий\nпромежуточный"
+          }
+        },
+        {
+          "text": {
+            "en": "SAVR\nSurgical mitral valve repair/mitral valve replacement\nor\nTAVI\nMitral TEER^[a]",
+            "ru": "SAVR\nХирургическая пластика МК / протезирование МК\nили\nTAVI\nМитральная процедура TEER^[a]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-05",
+      "cells": [
+        {
+          "text": {
+            "en": "TAVI candidate",
+            "ru": "Кандидат на TAVI"
+          }
+        },
+        {
+          "text": {
+            "en": "Secondary MR",
+            "ru": "Вторичная МР"
+          }
+        },
+        {
+          "text": {
+            "en": "High\nprohibitive",
+            "ru": "Высокий\nкрайне высокий (неприемлемый)"
+          }
+        },
+        {
+          "text": {
+            "en": "TAVI\nMitral TEER^[a]",
+            "ru": "TAVI\nМитральная процедура TEER^[a]"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Consider TEER as a later staged procedure if symptoms and severe MR persist after treatment of the AS. AS indicates aortic stenosis; MR, mitral regurgitation; SAVR, surgical aortic valve replacement; TAVI, transcatheter aortic valve implantation; and TEER, transcatheter edge-to-edge repair.",
+      "ru": "Рассмотрите возможность выполнения TEER вторым этапом, если симптомы и тяжелая МР сохраняются после устранения аортального стеноза. AS (АС) — аортальный стеноз; MR (МР) — митральная регургитация; SAVR — хирургическое протезирование аортального клапана; TAVI — транскатетерная имплантация аортального клапана; TEER — транскатетерная краевая коаптация «край-в-край»."
+    }
+  },
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

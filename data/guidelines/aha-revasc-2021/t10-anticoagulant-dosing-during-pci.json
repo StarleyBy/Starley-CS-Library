@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.t10-anticoagulant-dosing-during-pci",
+  "guidelineId": "aha-revasc-2021",
+  "number": "Table 10",
+  "type": "grid",
+  "title": {
+    "en": "Anticoagulant Dosing During PCI",
+    "ru": "Дозирование антикоагулянтов при проведении ЧКВ"
+  },
+  "tags": [
+    "anticoagulant-dosing",
+    "pci",
+    "ufh",
+    "enoxaparin",
+    "bivalirudin",
+    "argatroban",
+    "act"
+  ],
+  "columns": [
+    {
+      "id": "drug",
+      "title": {
+        "en": "Drug",
+        "ru": "Препарат"
+      }
+    },
+    {
+      "id": "previous_anticoagulation",
+      "title": {
+        "en": "Patient Has Received Previous Anticoagulant Therapy",
+        "ru": "Пациент ранее получал антикоагулянтную терапию"
+      }
+    },
+    {
+      "id": "no_previous_anticoagulation",
+      "title": {
+        "en": "Patient Has Not Received Previous Anticoagulant Therapy",
+        "ru": "Пациент ранее не получал антикоагулянтную терапию"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "ufh",
+      "cells": [
+        {
+          "text": {
+            "en": "UFH",
+            "ru": "НФГ (UFH)"
+          }
+        },
+        {
+          "text": {
+            "en": "Additional UFH as needed (eg, 2000–5000 U) to achieve an ACT of 250–300 s*",
+            "ru": "Дополнительное введение НФГ (UFH) по мере необходимости (например, 2000–5000 ЕД) для достижения АВСК (ACT) 250–300 с*"
+          }
+        },
+        {
+          "text": {
+            "en": "70–100 U/kg initial bolus to achieve target ACT of 250–300 s*",
+            "ru": "Начальный болюс 70–100 ЕД/кг для достижения целевого АВСК (ACT) 250–300 с*"
+          }
+        }
+      ]
+    },
+    {
+      "id": "enoxaparin",
+      "cells": [
+        {
+          "text": {
+            "en": "Enoxaparin",
+            "ru": "Эноксапарин"
+          }
+        },
+        {
+          "text": {
+            "en": "For previous treatment with enoxaparin, if the last SC dose was administered 8–12 h earlier or if only 1 SC dose of enoxaparin has been administered, an IV dose of 0.3 mg/kg of enoxaparin should be given\nIf the last SC dose was administered within the previous 8 h, no additional enoxaparin should be given",
+            "ru": "При предшествующей терапии эноксапарином: если последняя п/к доза была введена за 8–12 часов до процедуры или если была введена только одна п/к доза, следует ввести эноксапарин в/в в дозе 0,3 мг/кг\nЕсли последняя п/к доза была введена в предшествующие 8 часов, дополнительный эноксапарин вводить не следует"
+          },
+          "refs": [43, 44, 45]
+        },
+        {
+          "text": {
+            "en": "0.5–0.75 mg/kg IV bolus",
+            "ru": "0,5–0,75 мг/кг в/в болюс"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bivalirudin",
+      "cells": [
+        {
+          "text": {
+            "en": "Bivalirudin",
+            "ru": "Бивалирудин"
+          }
+        },
+        {
+          "text": {
+            "en": "For patients who have received UFH, repeat ACT\nIf ACT is not in therapeutic range, then give 0.75 mg/kg IV bolus, then 1.75 mg/kg/h IV infusion",
+            "ru": "Для пациентов, получавших НФГ (UFH): повторить определение АВСК (ACT)\nЕсли ACT вне терапевтического диапазона: в/в болюс 0,75 мг/кг, затем инфузия 1,75 мг/кг/ч"
+          }
+        },
+        {
+          "text": {
+            "en": "0.75 mg/kg bolus, 1.75 mg/kg/h IV infusion",
+            "ru": "Болюс 0,75 мг/кг, затем в/в инфузия 1,75 мг/кг/ч"
+          }
+        }
+      ]
+    },
+    {
+      "id": "argatroban",
+      "cells": [
+        {
+          "text": {
+            "en": "Argatroban",
+            "ru": "Аргатробан"
+          }
+        },
+        {
+          "text": {
+            "en": "200 µg/kg IV bolus, then 15 µg/kg/min IV infusion",
+            "ru": "В/в болюс 200 мкг/кг, затем в/в инфузия 15 мкг/кг/мин"
+          }
+        },
+        {
+          "text": {
+            "en": "350 µg/kg, then 15 µg/kg/min IV infusion",
+            "ru": "350 мкг/кг, затем в/в инфузия 15 мкг/кг/мин"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "ACS indicates acute coronary syndrome; ACT, activated clotting time; CTO, chronic total occlusion; PCI, percutaneous coronary intervention; and UFH, unfractionated heparin. *Target ACTs for UFH dosing shown for HemoTec (GmbH, Switzerland) or I-Stat (Abbott) device. For Hemochron ACT (Werfen) devices, ACT goals are 50 s higher. In the case of CTO or ACS, consider higher target ACT. If IV glycoprotein IIb/IIIa receptor inhibitor is planned, target ACT 200–250 s.",
+      "ru": "ACS — острый коронарный синдром (ОКС); ACT — активированное время свертывания крови (АВСК); CTO — хроническая тотальная окклюзия (ХТО); PCI (ЧКВ) — чрескожное коронарное вмешательство; UFH — нефракционированный гепарин (НФГ). *Целевые значения АВСК (ACT) для дозирования НФГ приведены для приборов HemoTec или I-Stat. Для приборов Hemochron ACT целевые значения на 50 с выше. При ХТО или ОКС следует рассматривать более высокие целевые значения ACT. При планировании применения ингибиторов гликопротеина IIb/IIIa целевой ACT составляет 200–250 с."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

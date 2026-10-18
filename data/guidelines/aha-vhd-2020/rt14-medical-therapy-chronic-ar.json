@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt14-medical-therapy-chronic-ar",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 14",
+  "title": {
+    "en": "Recommendations for Medical Therapy of Chronic AR",
+    "ru": "Рекомендации по медикаментозной терапии хронической аортальной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "aortic-regurgitation",
+    "chronic-ar",
+    "medical-therapy",
+    "hypertension",
+    "hf-treatment",
+    "ace-inhibitors",
+    "arb",
+    "sacubitril-valsartan",
+    "prohibitive-risk"
+  ],
+  "sections": [
+    {
+      "id": "sec-medical-therapy-chronic-ar",
+      "title": {
+        "en": "Medical Therapy of Chronic AR",
+        "ru": "Медикаментозная терапия хронической аортальной регургитации"
+      },
+      "rows": [
+        {
+          "id": "r01-hypertension-stages-b-c",
+          "text": {
+            "en": "In asymptomatic patients with chronic AR (Stages B and C), treatment of hypertension (systolic blood pressure >140 mmHg) is recommended.",
+            "ru": "У бессимптомных пациентов с хронической АР (Стадии B и C) рекомендуется лечение артериальной гипертензии (систолическое АД >140 мм рт. ст.)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-gdmt-hfref-prohibitive-surgical-risk",
+          "text": {
+            "en": "In patients with severe AR who have symptoms and/or LV systolic dysfunction (Stages C2 and D) but a prohibitive surgical risk, GDMT for reduced LVEF with ACE inhibitors, ARBs, and/or sacubitril/valsartan is recommended.",
+            "ru": "У пациентов с тяжелой АР, имеющих симптомы и/или систолическую дисфункцию ЛЖ (Стадии C2 и D), но с крайне высоким (неприемлемым) хирургическим риском, рекомендуется проведение ОМТ сердечной недостаточности со сниженной ФВ ЛЖ с применением иАПФ, БРА и/или сакубитрила/валсартана."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

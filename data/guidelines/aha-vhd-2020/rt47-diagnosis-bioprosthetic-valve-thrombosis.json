@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt47-diagnosis-bioprosthetic-valve-thrombosis",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 47",
+  "title": {
+    "en": "Recommendation for Diagnosis of Bioprosthetic Valve Thrombosis",
+    "ru": "Рекомендация по диагностике тромбоза биологического клапанного протеза"
+  },
+  "tags": [
+    "vhd",
+    "bioprosthesis",
+    "prosthetic-valves",
+    "bioprosthetic-valve-thrombosis",
+    "leaflet-thrombosis",
+    "3d-tee",
+    "4d-ct"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnosis-bioprosthetic-valve-thrombosis",
+      "title": {
+        "en": "Diagnosis of Bioprosthetic Valve Thrombosis",
+        "ru": "Диагностика тромбоза биологического клапанного протеза"
+      },
+      "rows": [
+        {
+          "id": "r01-suspected-bioprosthetic-thrombosis-3d-tee-4d-ct",
+          "text": {
+            "en": "In patients with suspected bioprosthetic valve thrombosis, 3D TEE or 4D CT imaging can be useful to rule out leaflet thrombosis.",
+            "ru": "У пациентов с подозрением на тромбоз биологического клапанного протеза выполнение 3D ЧП-ЭхоКГ или 4D КТ может быть полезно для исключения тромбоза створок."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

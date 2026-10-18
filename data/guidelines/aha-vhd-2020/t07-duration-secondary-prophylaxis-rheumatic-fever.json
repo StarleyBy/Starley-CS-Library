@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t07-duration-secondary-prophylaxis-rheumatic-fever",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 7",
+  "type": "grid",
+  "title": {
+    "en": "Duration of Secondary Prophylaxis for Rheumatic Fever",
+    "ru": "Длительность вторичной профилактики острой ревматической лихорадки"
+  },
+  "tags": [
+    "vhd",
+    "rheumatic-fever",
+    "rheumatic-heart-disease",
+    "duration",
+    "secondary-prophylaxis",
+    "carditis"
+  ],
+  "columns": [
+    {
+      "id": "type",
+      "title": {
+        "en": "Type",
+        "ru": "Категория поражения"
+      }
+    },
+    {
+      "id": "duration",
+      "title": {
+        "en": "Duration After Last Attack^[a]",
+        "ru": "Длительность после последней атаки^[a]"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "carditis-residual-vhd",
+      "cells": [
+        {
+          "text": {
+            "en": "Rheumatic fever with carditis and residual heart disease (persistent VHD^[b])",
+            "ru": "Ревматическая лихорадка с кардитом и резидуальным поражением сердца (стойкий клапанный порок^[b])"
+          }
+        },
+        {
+          "text": {
+            "en": "10 y or until patient is 40 y of age (whichever is longer)",
+            "ru": "10 лет или до достижения возраста 40 лет (в зависимости от того, что дольше)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "carditis-no-residual-vhd",
+      "cells": [
+        {
+          "text": {
+            "en": "Rheumatic fever with carditis but no residual heart disease (no valvular disease^[b])",
+            "ru": "Ревматическая лихорадка с кардитом, но без резидуального поражения сердца (без клапанного порока^[b])"
+          }
+        },
+        {
+          "text": {
+            "en": "10 y or until patient is 21 y of age (whichever is longer)",
+            "ru": "10 лет или до достижения возраста 21 года (в зависимости от того, что дольше)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "no-carditis",
+      "cells": [
+        {
+          "text": {
+            "en": "Rheumatic fever without carditis",
+            "ru": "Ревматическая лихорадка без кардита"
+          }
+        },
+        {
+          "text": {
+            "en": "5 y or until patient is 21 y of age (whichever is longer)",
+            "ru": "5 лет или до достижения возраста 21 года (в зависимости от того, что дольше)"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Lifelong prophylaxis may be recommended if the patient is at high risk of group A streptococcus exposure. Secondary rheumatic heart disease prophylaxis is required even after valve replacement.",
+      "ru": "Пожизненная профилактика может быть рекомендована при высоком риске контакта со стрептококком группы А. Вторичная профилактика требуется даже после протезирования клапана."
+    },
+    "b": {
+      "en": "Clinical or echocardiographic evidence.",
+      "ru": "Клинические или эхокардиографические признаки."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

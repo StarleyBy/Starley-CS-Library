@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.t13-best-practices-reduce-sternal-wound-infection-cabg",
+  "guidelineId": "aha-revasc-2021",
+  "number": "Table 13",
+  "type": "grid",
+  "title": {
+    "en": "Best Practices to Reduce Sternal Wound Infection in Patients Undergoing CABG",
+    "ru": "Передовая клиническая практика по снижению риска инфекции стернотомной раны у пациентов, подвергающихся КШ"
+  },
+  "tags": [
+    "cabg",
+    "sternal-wound-infection",
+    "infection-prevention",
+    "mupirocin",
+    "staphylococcus-aureus",
+    "antibiotic-prophylaxis",
+    "hba1c",
+    "smoking-cessation",
+    "vancomycin",
+    "bima",
+    "skeletonized-harvest"
+  ],
+  "columns": [
+    {
+      "id": "best_practice",
+      "title": {
+        "en": "Best Practice",
+        "ru": "Клиническая рекомендация / практика"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "nasal-swab-staph-aureus",
+      "cells": [
+        {
+          "text": {
+            "en": "Perform nasal swab testing for Staphylococcus aureus.",
+            "ru": "Выполнить мазок из носа для выявления носительства Staphylococcus aureus."
+          },
+          "refs": [8]
+        }
+      ]
+    },
+    {
+      "id": "mupirocin-known-carriers",
+      "cells": [
+        {
+          "text": {
+            "en": "Apply mupirocin 2% ointment to known nasal carriers of S aureus.",
+            "ru": "Применять 2% мазь мупироцина у подтвержденных назальных носителей S. aureus."
+          },
+          "refs": [8]
+        }
+      ]
+    },
+    {
+      "id": "mupirocin-unknown-carrier-status",
+      "cells": [
+        {
+          "text": {
+            "en": "Apply preoperative intranasal mupirocin 2% ointment to those patients whose nasal culture or PCR result is unknown.",
+            "ru": "Применять интраназально 2% мазь мупироцина перед операцией у тех пациентов, результаты назального посева или ПЦР которых неизвестны."
+          },
+          "refs": [8]
+        }
+      ]
+    },
+    {
+      "id": "redose-prophylactic-antimicrobials",
+      "cells": [
+        {
+          "text": {
+            "en": "Redose prophylactic antimicrobials for long procedures (>2 half-lives of the antibiotic) or in cases of excessive blood loss during CABG.",
+            "ru": "Вводить повторную дозу профилактических антибактериальных препаратов при длительных вмешательствах (>2 периодов полувыведения антибиотика) или в случаях массивной кровопотери во время КШ."
+          },
+          "refs": [10, 11, 27]
+        }
+      ]
+    },
+    {
+      "id": "measure-perioperative-hba1c",
+      "cells": [
+        {
+          "text": {
+            "en": "Measure perioperative HbA1c.",
+            "ru": "Измерять периоперационный уровень HbA1c."
+          },
+          "refs": [31]
+        }
+      ]
+    },
+    {
+      "id": "treat-extrathoracic-infections",
+      "cells": [
+        {
+          "text": {
+            "en": "Treat all distant extrathoracic infections before nonemergency surgical coronary revascularization.",
+            "ru": "Санировать/излечить все отдаленные экстраторакальные очаги инфекции перед выполнением неэкстренной хирургической реваскуляризации миокарда."
+          },
+          "refs": [19]
+        }
+      ]
+    },
+    {
+      "id": "smoking-cessation-elective-cabg",
+      "cells": [
+        {
+          "text": {
+            "en": "Advise smoking cessation before elective CABG surgery.",
+            "ru": "Рекомендовать отказ от курения перед плановой операцией КШ."
+          },
+          "refs": [7]
+        }
+      ]
+    },
+    {
+      "id": "topical-vancomycin-sternal-edges",
+      "cells": [
+        {
+          "text": {
+            "en": "Apply topical antibiotics (vancomycin) to the cut edges of the sternum on opening and before closing in cardiac surgical procedures involving a median sternotomy.",
+            "ru": "Наносить местные антибиотики (ванкомицин) на края распила грудины при ее рассечении и перед сведением при кардиохирургических вмешательствах, выполняемых из срединной стернотомии."
+          },
+          "refs": [4, 32]
+        }
+      ]
+    },
+    {
+      "id": "skeletonized-ima-bima-grafting",
+      "cells": [
+        {
+          "text": {
+            "en": "Use skeletonized harvest of IMA in BIMA grafting.",
+            "ru": "Использовать скелетированный способ забора ВГА при билатеральном маммарокоронарном шунтировании (BIMA)."
+          },
+          "refs": [16]
+        }
+      ]
+    },
+    {
+      "id": "no-antibiotics-beyond-48h",
+      "cells": [
+        {
+          "text": {
+            "en": "Do not continue prophylactic antibiotics beyond 48 hours.",
+            "ru": "Не продолжать антибиотикопрофилактику более 48 часов."
+          },
+          "refs": [9, 11]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "BIMA indicates bilateral internal mammary artery; CABG, coronary artery bypass graft; HbA1c, glycated hemoglobin A1c; IMA, internal mammary artery; and PCR, polymerase chain reaction.",
+      "ru": "BIMA — двусторонняя внутренняя грудная артерия; CABG (КШ) — коронарное шунтирование; HbA1c — гликированный гемоглобин A1c; IMA (ВГА) — внутренняя грудная артерия; PCR (ПЦР) — полимеразная цепная реакция."
+    }
+  },
+  "source": {
+    "expectedRows": 10
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

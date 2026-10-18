@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t12-timing-periodic-imaging-after-valve-intervention",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 12",
+  "type": "grid",
+  "title": {
+    "en": "Timing of Periodic Imaging After Valve Intervention",
+    "ru": "Сроки периодической визуализации после вмешательств на клапанах"
+  },
+  "tags": [
+    "vhd",
+    "periodic-imaging",
+    "postoperative-imaging",
+    "mechanical-valve",
+    "bioprosthetic-valve",
+    "mitral-repair",
+    "bicuspid-aortic-valve",
+    "surveillance"
+  ],
+  "columns": [
+    {
+      "id": "valve_intervention",
+      "title": {
+        "en": "Valve Intervention",
+        "ru": "Вид вмешательства на клапане"
+      }
+    },
+    {
+      "id": "minimal_imaging_frequency",
+      "title": {
+        "en": "Minimal Imaging Frequency^[b]",
+        "ru": "Минимальная частота визуализации^[b]"
+      }
+    },
+    {
+      "id": "location",
+      "title": {
+        "en": "Location^[a]",
+        "ru": "Уровень центра^[a]"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "mechanical-valve-surgical",
+      "cells": [
+        {
+          "text": {
+            "en": "Mechanical valve (surgical)",
+            "ru": "Механический клапан (хирургический)"
+          }
+        },
+        {
+          "text": {
+            "en": "Baseline",
+            "ru": "Исходно после операции"
+          }
+        },
+        {
+          "text": {
+            "en": "Primary Valve Center",
+            "ru": "Первичный клапанный центр"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bioprosthetic-valve-surgical",
+      "cells": [
+        {
+          "text": {
+            "en": "Bioprosthetic valve (surgical)",
+            "ru": "Биологический протез (хирургический)"
+          }
+        },
+        {
+          "text": {
+            "en": "Baseline, 5 and 10 y after surgery,^[c] and then annually",
+            "ru": "Исходно, через 5 и 10 лет после операции,^[c] затем ежегодно"
+          }
+        },
+        {
+          "text": {
+            "en": "Primary Valve Center",
+            "ru": "Первичный клапанный центр"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bioprosthetic-valve-transcatheter",
+      "cells": [
+        {
+          "text": {
+            "en": "Bioprosthetic valve (transcatheter)",
+            "ru": "Биологический протез (транскатетерный)"
+          }
+        },
+        {
+          "text": {
+            "en": "Baseline and then annually",
+            "ru": "Исходно, затем ежегодно"
+          }
+        },
+        {
+          "text": {
+            "en": "Primary Valve Center",
+            "ru": "Первичный клапанный центр"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mitral-valve-repair-surgical",
+      "cells": [
+        {
+          "text": {
+            "en": "Mitral valve repair (surgical)",
+            "ru": "Пластика митрального клапана (хирургическая)"
+          }
+        },
+        {
+          "text": {
+            "en": "Baseline, 1 y, and then every 2 to 3 y",
+            "ru": "Исходно, через 1 год, затем каждые 2–3 года"
+          }
+        },
+        {
+          "text": {
+            "en": "Primary Valve Center",
+            "ru": "Первичный клапанный центр"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mitral-valve-repair-transcatheter",
+      "cells": [
+        {
+          "text": {
+            "en": "Mitral valve repair (transcatheter)",
+            "ru": "Пластика митрального клапана (транскатетерная)"
+          }
+        },
+        {
+          "text": {
+            "en": "Baseline and then annually",
+            "ru": "Исходно, затем ежегодно"
+          }
+        },
+        {
+          "text": {
+            "en": "Comprehensive Valve Center",
+            "ru": "Экспертный клапанный центр"
+          }
+        }
+      ]
+    },
+    {
+      "id": "bicuspid-aortic-valve-disease",
+      "cells": [
+        {
+          "text": {
+            "en": "Bicuspid aortic valve disease",
+            "ru": "Пороки при двустворчатом аортальном клапане"
+          }
+        },
+        {
+          "text": {
+            "en": "Continued post-AVR monitoring of aortic size if aortic diameter is ≥4.0 cm at time of AVR, as detailed in Section 5.1",
+            "ru": "Продолжение динамического контроля диаметра аорты после ПАК, если диаметр аорты ≥4,0 см на момент операции"
+          }
+        },
+        {
+          "text": {
+            "en": "Primary Valve Center",
+            "ru": "Первичный клапанный центр"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Initial postprocedural TTE is recommended for all patients, ideally 1 to 3 months after the procedure. Annual clinical follow-up is recommended annually for all patients after valve intervention at a Primary or Comprehensive Valve Center.",
+      "ru": "Исходная послеоперационная ТТ-ЭхоКГ рекомендуется всем пациентам, оптимально через 1–3 месяца после процедуры. Ежегодный клинический осмотр рекомендуется ежегодно для всех пациентов после вмешательства в первичном или экспертном клапанном центре."
+    },
+    "b": {
+      "en": "Repeat imaging is appropriate at shorter follow-up intervals for changing signs or symptoms, during pregnancy, and to monitor residual or concurrent cardiac dysfunction.",
+      "ru": "Повторная визуализация показана с более короткими интервалами при появлении новых симптомов, во время беременности, а также для контроля резидуальной или сопутствующей дисфункции сердца."
+    },
+    "c": {
+      "en": "Imaging may be done more frequently in patients with bioprosthetic surgical valves if there are risk factors for early valve degeneration (eg, younger age, renal failure, diabetes).",
+      "ru": "Визуализация может проводиться чаще у пациентов с биологическими протезами при наличии факторов риска ранней дегенерации (молодой возраст, почечная недостаточность, сахарный диабет)."
+    },
+    "d": {
+      "en": "AVR indicates aortic valve replacement; and TTE, transthoracic echocardiography.",
+      "ru": "AVR — протезирование аортального клапана; TTE — трансторакальная эхокардиография."
+    }
+  },
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

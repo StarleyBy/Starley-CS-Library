@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt45-beta-blockers-amiodarone-cabg",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 45",
+  "title": {
+    "en": "Recommendations for Beta Blockers and Amiodarone in Patients Undergoing CABG",
+    "ru": "Рекомендации по бета-адреноблокаторам и амиодарону у пациентов, проходящих КШ"
+  },
+  "tags": [
+    "cabg",
+    "beta-blockers",
+    "amiodarone",
+    "atrial-fibrillation",
+    "postoperative-af",
+    "mortality-reduction",
+    "arrhythmias",
+    "preoperative-medication"
+  ],
+  "sections": [
+    {
+      "id": "sec-beta-blockers-amiodarone-cabg",
+      "title": {
+        "en": "Beta Blockers and Amiodarone in Patients Undergoing CABG",
+        "ru": "Бета-блокаторы и амиодарон у пациентов, проходящих КШ"
+      },
+      "rows": [
+        {
+          "id": "r01-preop-beta-blockers-postop-af",
+          "text": {
+            "en": "In patients undergoing CABG, who do not have a contraindication to beta blockers, the administration of beta blockers before surgery can be beneficial to reduce the incidence of postoperative atrial fibrillation.",
+            "ru": "У пациентов, подвергающихся КШ и не имеющих противопоказаний к бета-адреноблокаторам, назначение бета-блокаторов перед операцией может быть полезным для снижения частоты послеоперационной фибрилляции предсердий."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r02-preop-amiodarone-postop-af",
+          "text": {
+            "en": "In patients undergoing CABG, preoperative amiodarone is reasonable to reduce the incidence of postoperative atrial fibrillation.",
+            "ru": "У пациентов, подвергающихся КШ, предоперационное назначение амиодарона целесообразно для снижения частоты послеоперационной фибрилляции предсердий."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [9, 10, 11]
+        },
+        {
+          "id": "r03-preop-beta-blockers-mortality",
+          "text": {
+            "en": "In patients undergoing CABG, who do not have a contraindication to beta blockers, preoperative use of beta blockers may be effective in reducing in-hospital and 30-day mortality rates.",
+            "ru": "У пациентов, подвергающихся КШ и не имеющих противопоказаний к бета-адреноблокаторам, предоперационное применение бета-блокаторов может быть эффективным для снижения показателей госпитальной и 30-дневной летальности."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [12, 13, 14, 15, 16, 17, 18]
+        },
+        {
+          "id": "r04-preop-beta-blockers-mi-stroke-aki-uncertain",
+          "text": {
+            "en": "In patients undergoing CABG, the role of preoperative beta blockers for the prevention of acute postoperative myocardial ischemia, stroke, AKI, or ventricular arrhythmia is uncertain.",
+            "ru": "У пациентов, подвергающихся КШ, роль предоперационного назначения бета-блокаторов в профилактике острой послеоперационной ишемии миокарда, инсульта, ОПП (AKI) или желудочковых аритмий не определена."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [12, 13, 14, 18]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

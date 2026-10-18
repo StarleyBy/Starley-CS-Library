@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt30-treatment-svg-disease",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 30",
+  "title": {
+    "en": "Recommendations for Treatment of SVG Disease (Previous CABG)",
+    "ru": "Рекомендации по лечению поражения аутовенозных шунтов (SVG) у пациентов с ранее перенесенным КШ"
+  },
+  "tags": [
+    "svg",
+    "saphenous-vein-graft",
+    "previous-cabg",
+    "embolic-protection",
+    "native-coronary-pci",
+    "chronic-occlusion"
+  ],
+  "sections": [
+    {
+      "id": "sec-treatment-svg-disease",
+      "title": {
+        "en": "Treatment of SVG Disease (Previous CABG)",
+        "ru": "Лечение поражения аутовенозных шунтов (SVG) у пациентов с ранее перенесенным КШ"
+      },
+      "rows": [
+        {
+          "id": "r01-svg-embolic-protection-device",
+          "text": {
+            "en": "In select patients with previous CABG undergoing PCI of a SVG, the use of an embolic protection device, when technically feasible, is reasonable to decrease the risk of distal embolization.",
+            "ru": "У отдельных пациентов с ранее перенесенным КШ, которым проводится ЧКВ на аутовенозном шунте (SVG), применение устройства для дистальной защиты от эмболии при его технической осуществимости целесообразно для снижения риска дистальной эмболизации."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-svg-native-coronary-pci-over-svg-pci",
+          "text": {
+            "en": "In patients with previous CABG, if PCI of a diseased native coronary artery is feasible, then it is reasonable to choose PCI of the native coronary artery over PCI of the severely diseased SVG.",
+            "ru": "У пациентов с ранее перенесенным КШ, если технически осуществимо ЧКВ пораженной нативной коронарной артерии, целесообразно отдать предпочтение ЧКВ нативной артерии перед ЧКВ тяжело пораженного венозного шунта (SVG)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [4, 5, 6]
+        },
+        {
+          "id": "r03-svg-chronic-occlusion-no-revasc",
+          "text": {
+            "en": "In patients with a chronic occlusion of a SVG, percutaneous revascularization of the SVG should not be performed.",
+            "ru": "У пациентов с хронической окклюзией аутовенозного шунта (SVG) эндоваскулярная реваскуляризация шунта не должна выполняться."
+          },
+          "class": "III-no-benefit",
+          "level": "C-LD",
+          "refs": [7, 8]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

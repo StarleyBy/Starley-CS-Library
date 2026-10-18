@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt03-clinical-diagnosis",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 3",
+  "title": {
+    "en": "Recommendation for Clinical Diagnosis",
+    "ru": "Рекомендация по клинической диагностике"
+  },
+  "tags": [
+    "hcm",
+    "diagnosis",
+    "physical-examination",
+    "family-history",
+    "pedigree",
+    "initial-assessment"
+  ],
+  "sections": [
+    {
+      "id": "sec-clinical-diagnosis",
+      "title": {
+        "en": "Clinical Diagnosis",
+        "ru": "Клиническая диагностика"
+      },
+      "rows": [
+        {
+          "id": "r01-physical-exam-medical-family-history-3-gen",
+          "text": {
+            "en": "In patients with suspected HCM, comprehensive physical examination and complete medical and 3-generation family history is recommended as part of the initial diagnostic assessment (Tables 6 and 7).",
+            "ru": "У пациентов с подозрением на ГКМП в рамках первичного диагностического обследования рекомендуется проведение подробного физикального осмотра, сбор полного медицинского анамнеза и родословной семьи не менее чем в 3 поколениях (Таблицы 6 и 7)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

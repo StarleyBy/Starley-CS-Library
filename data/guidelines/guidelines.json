@@ -12,6 +12,9 @@
     { "id": "esc-pe-2019", "path": "esc-pe-2019/" },
     { "id": "esc-vhd-2025", "path": "esc-vhd-2025/" },
     { "id": "aha-hf-2022", "path": "aha-hf-2022/" },
-    { "id": "aha-aortic-2022", "path": "aha-aortic-2022/" }
+    { "id": "aha-aortic-2022", "path": "aha-aortic-2022/" },
+    { "id": "aha-revasc-2021", "path": "aha-revasc-2021/" },
+    { "id": "aha-hcm-2024", "path": "aha-hcm-2024/" },
+    { "id": "aha-vhd-2020", "path": "aha-vhd-2020/" }
   ]
 }

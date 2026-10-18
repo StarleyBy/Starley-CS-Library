@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt33-intervention-secondary-mr",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 33",
+  "title": {
+    "en": "Recommendations for Intervention for Secondary MR",
+    "ru": "Рекомендации по хирургическому и эндоваскулярному вмешательству при вторичной митральной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "mitral-regurgitation",
+    "secondary-mr",
+    "functional-mr",
+    "teer",
+    "mitraclip",
+    "transcatheter-edge-to-edge-repair",
+    "cabg",
+    "annuloplasty",
+    "chordal-sparing-mvr",
+    "atrial-functional-mr"
+  ],
+  "sections": [
+    {
+      "id": "sec-intervention-secondary-mr",
+      "title": {
+        "en": "Intervention for Secondary MR",
+        "ru": "Вмешательство при вторичной митральной регургитации"
+      },
+      "rows": [
+        {
+          "id": "r01-teer-symptomatic-stage-d-optimal-gdmt",
+          "text": {
+            "en": "In patients with chronic severe secondary MR related to LV systolic dysfunction (LVEF <50%) who have persistent symptoms (NYHA class II, III, or IV) while on optimal GDMT for HF (Stage D), TEER is reasonable in patients with appropriate anatomy as defined on TEE and with LVEF between 20% and 50%, LVESD ≤70 mm, and pulmonary artery systolic pressure ≤70 mm Hg.",
+            "ru": "У пациентов с хронической тяжелой вторичной МР, обусловленной систолической дисфункцией ЛЖ (ФВ ЛЖ <50%), с персистирующими симптомами (II, III или IV ФК по NYHA) на фоне оптимальной ОМТ сердечной недостаточности (Стадия D), транскатетерная пластика «край-в-край» (TEER) оправдана при подходящей анатомии по данным ЧП-ЭхоКГ, ФВ ЛЖ от 20% до 50%, КСР ЛЖ ≤70 мм и систолическом давлении в ЛА ≤70 мм рт. ст."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r02-surgery-combined-with-cabg",
+          "text": {
+            "en": "In patients with severe secondary MR (Stages C and D), mitral valve surgery is reasonable when CABG is undertaken for the treatment of myocardial ischemia.",
+            "ru": "У пациентов с тяжелой вторичной МР (Стадии C и D) операция на митральном клапане оправдана при выполнении КШ (АКШ) по поводу ишемии миокарда."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [9, 10, 11, 12, 13, 14, 15]
+        },
+        {
+          "id": "r03-atrial-functional-mr-preserved-ef-surgery",
+          "text": {
+            "en": "In patients with chronic severe secondary MR from atrial annular dilation with preserved LV systolic function (LVEF ≥50%) who have severe persistent symptoms (NYHA class III or IV) despite therapy for HF and therapy for associated AF or other comorbidities (Stage D), mitral valve surgery may be considered.",
+            "ru": "У пациентов с хронической тяжелой вторичной МР вследствие предсердной дилатации кольца клапана при сохранной систолической функции ЛЖ (ФВ ЛЖ ≥50%) и тяжелых персистирующих симптомах (III или IV ФК по NYHA), несмотря на терапию СН, сопутствующей ФП или других коморбидных состояний (Стадия D), может рассматриваться операция на митральном клапане."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [16, 17, 18, 19, 20]
+        },
+        {
+          "id": "r04-lv-dysfunction-persistent-severe-symptoms-surgery",
+          "text": {
+            "en": "In patients with chronic severe secondary MR related to LV systolic dysfunction (LVEF <50%) who have persistent severe symptoms (NYHA class III or IV) while on optimal GDMT for HF (Stage D), mitral valve surgery may be considered.",
+            "ru": "У пациентов с хронической тяжелой вторичной МР, обусловленной систолической дисфункцией ЛЖ (ФВ ЛЖ <50%), с сохраняющимися выраженными симптомами (III или IV ФК по NYHA) на фоне оптимальной ОМТ сердечной недостаточности (Стадия D), может рассматриваться операция на митральном клапане."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [9, 12, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43]
+        },
+        {
+          "id": "r05-chordal-sparing-mvr-vs-downsized-annuloplasty",
+          "text": {
+            "en": "In patients with CAD and chronic severe secondary MR related to LV systolic dysfunction (LVEF <50%) (Stage D) who are undergoing mitral valve surgery because of severe symptoms (NYHA class III or IV) that persist despite GDMT for HF, chordal-sparing mitral valve replacement may be reasonable to choose over downsized annuloplasty repair.",
+            "ru": "У пациентов с ИБС и хронической тяжелой вторичной МР, обусловленной систолической дисфункцией ЛЖ (ФВ ЛЖ <50%) (Стадия D), подвергающихся операции на МК по поводу тяжелых персистирующих симптомов (III или IV ФК) на фоне ОМТ, оправдан выбор протезирования митрального клапана с сохранением подклапанных структур (хорд) вместо рестриктивной (уменьшающей) аннулопластики."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [9, 12, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 44, 45, 46, 47]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

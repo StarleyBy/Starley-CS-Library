@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt40-cabg-patients-undergoing-other-cardiac-surgery",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 40",
+  "title": {
+    "en": "Recommendations for CABG in Patients Undergoing Other Cardiac Surgery",
+    "ru": "Рекомендации по выполнению КШ у пациентов, переносящих другие кардиохирургические операции"
+  },
+  "tags": [
+    "cabg",
+    "concomitant-cabg",
+    "valve-surgery",
+    "aortic-surgery",
+    "combined-surgery"
+  ],
+  "sections": [
+    {
+      "id": "sec-cabg-other-cardiac-surgery",
+      "title": {
+        "en": "CABG in Patients Undergoing Other Cardiac Surgery",
+        "ru": "КШ у пациентов, переносящих другие кардиохирургические операции"
+      },
+      "rows": [
+        {
+          "id": "r01-valve-aortic-surgery-significant-cad-cabg",
+          "text": {
+            "en": "In patients undergoing valve surgery, aortic surgery, or other cardiac operations who have significant CAD, CABG is recommended with a goal of reducing ischemic events.",
+            "ru": "У пациентов, которым выполняется операция на клапанах сердца, аорте или другие кардиохирургические вмешательства, имеющих гемодинамически значимую ИБС, рекомендуется выполнение КШ с целью снижения ишемических событий."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        },
+        {
+          "id": "r02-valve-aortic-surgery-intermediate-cad-cabg",
+          "text": {
+            "en": "In patients undergoing valve surgery, aortic surgery, or other cardiac operations who have intermediate CAD, CABG may be reasonable with a goal of reducing ischemic events.",
+            "ru": "У пациентов, которым выполняется операция на клапанах сердца, аорте или другие кардиохирургические вмешательства, имеющих стенозы коронарных артерий промежуточной степени, выполнение КШ может быть целесообразным с целью снижения ишемических событий."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [5, 7, 10, 12]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.t09-antiarrhythmic-drug-therapy-options-hcm-af",
+  "guidelineId": "aha-hcm-2024",
+  "number": "Table 9",
+  "type": "grid",
+  "title": {
+    "en": "Antiarrhythmic Drug Therapy Options for Patients With HCM and AF",
+    "ru": "Варианты антиаритмической лекарственной терапии для пациентов с ГКМП и ФП"
+  },
+  "tags": [
+    "hcm",
+    "atrial-fibrillation",
+    "antiarrhythmic-drugs",
+    "disopyramide",
+    "flecainide",
+    "propafenone",
+    "sotalol",
+    "dofetilide",
+    "dronedarone",
+    "amiodarone",
+    "qtc-prolongation",
+    "torsades-de-pointes"
+  ],
+  "columns": [
+    {
+      "id": "antiarrhythmic_drug",
+      "title": {
+        "en": "Antiarrhythmic Drug",
+        "ru": "Антиаритмический препарат"
+      }
+    },
+    {
+      "id": "efficacy_for_af",
+      "title": {
+        "en": "Efficacy for AF",
+        "ru": "Эффективность при ФП"
+      }
+    },
+    {
+      "id": "adverse_effects",
+      "title": {
+        "en": "Adverse Effects",
+        "ru": "Нежелательные явления"
+      }
+    },
+    {
+      "id": "toxicities",
+      "title": {
+        "en": "Toxicities",
+        "ru": "Токсические проявления"
+      }
+    },
+    {
+      "id": "use_in_hcm",
+      "title": {
+        "en": "Use in HCM",
+        "ru": "Применение при ГКМП"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "disopyramide",
+      "cells": [
+        {
+          "text": {
+            "en": "Disopyramide",
+            "ru": "Дизопирамид"
+          }
+        },
+        {
+          "text": {
+            "en": "Modest",
+            "ru": "Умеренная"
+          }
+        },
+        {
+          "text": {
+            "en": "Anticholinergic\nHF",
+            "ru": "Антихолинергические эффекты\nСН"
+          }
+        },
+        {
+          "text": {
+            "en": "Prolonged QTc\nTdP",
+            "ru": "Удлинение QTc\nПируэтная тахикардия (TdP)"
+          }
+        },
+        {
+          "text": {
+            "en": "Particularly with early onset AF\n\nGenerally used in conjunction with atrioventricular nodal blocking agents",
+            "ru": "Особенно при раннем дебюте ФП\n\nКак правило, применяется в сочетании с препаратами, замедляющими АВ-проведение"
+          }
+        }
+      ]
+    },
+    {
+      "id": "flecainide-propafenone",
+      "cells": [
+        {
+          "text": {
+            "en": "Flecainide and propafenone",
+            "ru": "Флекаинид и пропафенон"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Prolonged QRS",
+            "ru": "Уширение комплекса QRS"
+          }
+        },
+        {
+          "text": {
+            "en": "Proarrhythmia\nTypical atrial flutter",
+            "ru": "Проаритмогенное действие\nТипичное трепетание предсердий"
+          }
+        },
+        {
+          "text": {
+            "en": "Not generally recommended in the absence of an ICD",
+            "ru": "Как правило, не рекомендуются при отсутствии ИКД"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sotalol",
+      "cells": [
+        {
+          "text": {
+            "en": "Sotalol",
+            "ru": "Соталол"
+          }
+        },
+        {
+          "text": {
+            "en": "Modest",
+            "ru": "Умеренная"
+          }
+        },
+        {
+          "text": {
+            "en": "Fatigue, bradycardia",
+            "ru": "Утомляемость, брадикардия"
+          }
+        },
+        {
+          "text": {
+            "en": "Prolonged QTc\nTdP",
+            "ru": "Удлинение QTc\nПируэтная тахикардия (TdP)"
+          }
+        },
+        {
+          "text": {
+            "en": "Reasonable",
+            "ru": "Оправдан (целесообразен)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dofetilide",
+      "cells": [
+        {
+          "text": {
+            "en": "Dofetilide",
+            "ru": "Дофетилид"
+          }
+        },
+        {
+          "text": {
+            "en": "Modest",
+            "ru": "Умеренная"
+          }
+        },
+        {
+          "text": {
+            "en": "Headache",
+            "ru": "Головная боль"
+          }
+        },
+        {
+          "text": {
+            "en": "Prolonged QTc\nTdP",
+            "ru": "Удлинение QTc\nПируэтная тахикардия (TdP)"
+          }
+        },
+        {
+          "text": {
+            "en": "Reasonable",
+            "ru": "Оправдан (целесообразен)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dronedarone",
+      "cells": [
+        {
+          "text": {
+            "en": "Dronedarone",
+            "ru": "Дронедарон"
+          }
+        },
+        {
+          "text": {
+            "en": "Low",
+            "ru": "Низкая"
+          }
+        },
+        {
+          "text": {
+            "en": "HF",
+            "ru": "СН"
+          }
+        },
+        {
+          "text": {
+            "en": "Prolonged QTc",
+            "ru": "Удлинение QTc"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "amiodarone",
+      "cells": [
+        {
+          "text": {
+            "en": "Amiodarone",
+            "ru": "Амиодарон"
+          }
+        },
+        {
+          "text": {
+            "en": "Modest-high",
+            "ru": "От умеренной до высокой"
+          }
+        },
+        {
+          "text": {
+            "en": "Bradycardia",
+            "ru": "Брадикардия"
+          }
+        },
+        {
+          "text": {
+            "en": "Liver, lung, thyroid, skin, neurologic\nProlonged QTc",
+            "ru": "Поражение печени, легких, щитовидной железы, кожи, неврологическая токсичность\nУдлинение QTc"
+          }
+        },
+        {
+          "text": {
+            "en": "Reasonable",
+            "ru": "Оправдан (целесообразен)"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "AF indicates atrial fibrillation; HCM, hypertrophic cardiomyopathy; HF, heart failure; ICD, implantable cardioverter-defibrillator; and TdP, torsades de pointes.",
+      "ru": "AF — фибрилляция предсердий; HCM — гипертрофическая кардиомиопатия; HF — сердечная недостаточность; ICD — имплантируемый кардиовертер-дефибриллятор; TdP — желудочковая тахикардия типа «пируэт» (torsades de pointes)."
+    }
+  },
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

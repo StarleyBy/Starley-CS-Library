@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t15-stages-of-chronic-ar",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 15",
+  "type": "grid",
+  "title": {
+    "en": "Stages of Chronic AR",
+    "ru": "Стадии хронической аортальной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "aortic-regurgitation",
+    "chronic-ar",
+    "stages-of-ar",
+    "stage-a",
+    "stage-b",
+    "stage-c",
+    "stage-d",
+    "vena-contracta",
+    "regurgitant-volume",
+    "regurgitant-fraction",
+    "ero"
+  ],
+  "columns": [
+    {
+      "id": "stage",
+      "title": {
+        "en": "Stage",
+        "ru": "Стадия"
+      }
+    },
+    {
+      "id": "definition",
+      "title": {
+        "en": "Definition",
+        "ru": "Определение"
+      }
+    },
+    {
+      "id": "valve_anatomy",
+      "title": {
+        "en": "Valve Anatomy",
+        "ru": "Анатомия клапана"
+      }
+    },
+    {
+      "id": "valve_hemodynamics",
+      "title": {
+        "en": "Valve Hemodynamics",
+        "ru": "Клапанная гемодинамика"
+      }
+    },
+    {
+      "id": "hemodynamic_consequences",
+      "title": {
+        "en": "Hemodynamic Consequences",
+        "ru": "Гемодинамические последствия"
+      }
+    },
+    {
+      "id": "symptoms",
+      "title": {
+        "en": "Symptoms",
+        "ru": "Симптомы"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "stage-a",
+      "cells": [
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        },
+        {
+          "text": {
+            "en": "At risk of AR",
+            "ru": "В группе риска развития АР"
+          }
+        },
+        {
+          "text": {
+            "en": "BAV (or other congenital valve anomaly)\nAortic valve sclerosis\nDiseases of the aortic sinuses or ascending aorta\nHistory of rheumatic fever or known rheumatic heart disease\nIE",
+            "ru": "ДАК (или другая врожденная аномалия клапана)\nСклероз аортального клапана\nПатология синусов аорты или восходящей аорты\nОстрая ревматическая лихорадка в анамнезе или установленная ревматическая болезнь сердца\nИнфекционный эндокардит"
+          }
+        },
+        {
+          "text": {
+            "en": "AR severity: none or trace",
+            "ru": "Степень тяжести АР: отсутствует или следовая"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-b",
+      "cells": [
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          }
+        },
+        {
+          "text": {
+            "en": "Progressive AR",
+            "ru": "Прогрессирующая АР"
+          }
+        },
+        {
+          "text": {
+            "en": "Mild to moderate calcification of a trileaflet valve BAV (or other congenital abnormality)\nDilated aortic sinuses\nRheumatic valve changes\nPrevious IE",
+            "ru": "Легкий или умеренный кальциноз трехстворчатого клапана или ДАК (или другая врожденная аномалия)\nДилатация синусов аорты\nРевматические изменения клапана\nПеренесенный ИЭ"
+          }
+        },
+        {
+          "text": {
+            "en": "Mild AR:\n  Jet width <25% of LVOT\n  Vena contracta <0.3 cm\n  Regurgitant volume <30 mL/beat\n  Regurgitant fraction <30%\n  ERO <0.10 cm^2\n  Angiography grade 1\nModerate AR:\n  Jet width 25%–64% of LVOT\n  Vena contracta 0.3–0.6 cm\n  Regurgitant volume 30–59 mL/beat\n  Regurgitant fraction 30% to 49%\n  ERO 0.10–0.29 cm^2\n  Angiography grade 2",
+            "ru": "Легкая АР:\n  Ширина струи <25% ВТЛЖ\n  Vena contracta <0,3 см\n  Объем регургитации <30 мл/удар\n  Фракция регургитации <30%\n  ЭРЭ (ERO) <0,10 см²\n  Ангиография 1 степени\nУмеренная АР:\n  Ширина струи 25%–64% ВТЛЖ\n  Vena contracta 0,3–0,6 см\n  Объем регургитации 30–59 мл/удар\n  Фракция регургитации 30%–49%\n  ЭРЭ (ERO) 0,10–0,29 см²\n  Ангиография 2 степени"
+          }
+        },
+        {
+          "text": {
+            "en": "Normal LV systolic function\nNormal LV volume or mild LV dilation",
+            "ru": "Нормальная систолическая функция ЛЖ\nНормальный объем ЛЖ или легкая дилатация ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-c",
+      "cells": [
+        {
+          "text": {
+            "en": "C",
+            "ru": "C"
+          }
+        },
+        {
+          "text": {
+            "en": "Asymptomatic severe AR",
+            "ru": "Бессимптомная тяжелая АР"
+          }
+        },
+        {
+          "text": {
+            "en": "Calcific aortic valve disease\nBicuspid valve (or other congenital abnormality)\nDilated aortic sinuses or ascending aorta\nRheumatic valve changes\nIE with abnormal leaflet closure or perforation",
+            "ru": "Кальциноз аортального клапана\nДвустворчатый клапан (или другая врожденная аномалия)\nДилатация синусов аорты или восходящей аорты\nРевматические изменения клапана\nИЭ с нарушением смыкания или перфорацией створок"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe AR:\n  Jet width ≥65% of LVOT\n  Vena contracta >0.6 cm\n  Holodiastolic flow reversal in the proximal abdominal aorta\n  Regurgitant volume ≥60 mL/beat\n  Regurgitant fraction ≥50%\n  ERO ≥0.3 cm^2\n  Angiography grade 3 to 4\n  In addition, diagnosis of chronic severe AR requires evidence of LV dilation",
+            "ru": "Тяжелая АР:\n  Ширина струи ≥65% ВТЛЖ\n  Vena contracta >0,6 см\n  Пандиастолический ретроградный кровоток в проксимальном отделе брюшной аорты\n  Объем регургитации ≥60 мл/удар\n  Фракция регургитации ≥50%\n  ЭРЭ (ERO) ≥0,3 см²\n  Ангиография 3–4 степени\n  Кроме того, для диагноза хронической тяжелой АР требуется наличие дилатации ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "C1: Normal LVEF (>55%) and mild to moderate LV dilation (LVESD <50 mm)\nC2: Abnormal LV systolic function with depressed LVEF (≤55%) or severe LV dilation (LVESD >50 mm or indexed LVESD >25 mm/m^2)",
+            "ru": "C1: Нормальная ФВ ЛЖ (>55%) и легкая или умеренная дилатация ЛЖ (КСР ЛЖ <50 мм)\nC2: Нарушение систолической функции ЛЖ со снижением ФВ ЛЖ (≤55%) или тяжелая дилатация ЛЖ (КСР ЛЖ >50 мм или индексированный КСР >25 мм/м²)"
+          }
+        },
+        {
+          "text": {
+            "en": "None; exercise testing is reasonable to confirm symptom status",
+            "ru": "Отсутствуют; нагрузочный тест оправдан для подтверждения отсутствия симптомов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-d",
+      "cells": [
+        {
+          "text": {
+            "en": "D",
+            "ru": "D"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptomatic severe AR",
+            "ru": "Симптомная тяжелая АР"
+          }
+        },
+        {
+          "text": {
+            "en": "Calcific valve disease\nBicuspid valve (or other congenital abnormality)\nDilated aortic sinuses or ascending aorta\nRheumatic valve changes\nPrevious IE with abnormal leaflet closure or perforation",
+            "ru": "Кальциноз клапана\nДвустворчатый клапан (или другая врожденная аномалия)\nДилатация синусов аорты или восходящей аорты\nРевматические изменения клапана\nПеренесенный ИЭ с нарушением смыкания или перфорацией створок"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe AR:\n  Doppler jet width ≥65% of LVOT\n  Vena contracta >0.6 cm\n  Holodiastolic flow reversal in the proximal abdominal aorta\n  Regurgitant volume ≥60 mL/beat\n  Regurgitant fraction ≥50%\n  ERO ≥0.3 cm^2\n  Angiography grade 3 to 4\n  In addition, diagnosis of chronic severe AR requires evidence of LV dilation",
+            "ru": "Тяжелая АР:\n  Ширина струи по Допплеру ≥65% ВТЛЖ\n  Vena contracta >0,6 см\n  Пандиастолический ретроградный кровоток в проксимальном отделе брюшной аорты\n  Объем регургитации ≥60 мл/удар\n  Фракция регургитации ≥50%\n  ЭРЭ (ERO) ≥0,3 см²\n  Ангиография 3–4 степени\n  Кроме того, для диагноза хронической тяжелой АР требуется наличие дилатации ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptomatic severe AR may occur with normal systolic function (LVEF >55%), mild to moderate LV dysfunction (LVEF 40% to 55%), or severe LV dysfunction (LVEF <40%)\nModerate to severe LV dilation is present",
+            "ru": "Симптомная тяжелая АР может протекать с сохраненной систолической функцией (ФВ ЛЖ >55%), легкой/умеренной дисфункцией ЛЖ (ФВ 40%–55%) или тяжелой дисфункцией ЛЖ (ФВ <40%)\nПрисутствует умеренная или тяжелая дилатация ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "Exertional dyspnea or angina or more severe HF symptoms",
+            "ru": "Одышка при нагрузке, стенокардия или более тяжелые симптомы сердечной недостаточности"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "AR indicates aortic regurgitation; BAV, bicuspid aortic valve; ERO, effective regurgitant orifice; HF, heart failure; IE, infective endocarditis; LV, left ventricular; LVEF, left ventricular ejection fraction; LVESD, left ventricular end-systolic dimension; and LVOT, left ventricular outflow tract.",
+      "ru": "AR (АР) — аортальная регургитация; BAV (ДАК) — двустворчатый аортальный клапан; ERO (ЭРЭ) — эффективная площадь отверстия регургитации; HF (СН) — сердечная недостаточность; IE (ИЭ) — инфекционный эндокардит; LV (ЛЖ) — левый желудочек; LVEF (ФВ ЛЖ) — фракция выброса левого желудочка; LVESD (КСР ЛЖ) — конечно-систолический размер левого желудочка; LVOT (ВТЛЖ) — выводной тракт левого желудочка."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

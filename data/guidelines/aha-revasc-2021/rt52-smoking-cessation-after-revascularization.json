@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt52-smoking-cessation-after-revascularization",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 52",
+  "title": {
+    "en": "Recommendations for Smoking Cessation in Patients After Revascularization",
+    "ru": "Рекомендации по отказу от курения у пациентов после реваскуляризации"
+  },
+  "tags": [
+    "revascularization",
+    "smoking-cessation",
+    "tobacco-use",
+    "pharmacotherapy",
+    "behavioral-interventions",
+    "secondary-prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-smoking-cessation-post-revasc",
+      "title": {
+        "en": "Smoking Cessation in Patients After Revascularization",
+        "ru": "Отказ от курения у пациентов после реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r01-behavioral-plus-pharmacotherapy-smoking-cessation",
+          "text": {
+            "en": "In patients who use tobacco and have undergone coronary revascularization, a combination of behavioral interventions plus pharmacotherapy is recommended to maximize cessation and reduce adverse cardiac events.",
+            "ru": "У пациентов, употребляющих табак и перенесших коронарную реваскуляризацию, рекомендуется комбинация поведенческих вмешательств и фармакотерапии для достижения максимальной частоты отказа от курения и снижения нежелательных кардиальных событий."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-inpatient-interventions-with-1-month-follow-up",
+          "text": {
+            "en": "In patients who use tobacco and have undergone coronary revascularization, smoking cessation interventions are recommended during hospitalization and should include supportive follow-up for at least 1 month after discharge to facilitate tobacco cessation and reduce morbidity and mortality.",
+            "ru": "У пациентов, употребляющих табак и перенесших коронарную реваскуляризацию, вмешательства по отказу от курения рекомендуются во время госпитализации и должны включать поддерживающее наблюдение в течение как минимум 1 месяца после выписки для содействия прекращению употребления табака и снижения заболеваемости и смертности."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

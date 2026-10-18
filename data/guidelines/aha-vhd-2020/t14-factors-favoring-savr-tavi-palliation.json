@@ -1,0 +1,339 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t14-factors-favoring-savr-tavi-palliation",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 14",
+  "type": "grid",
+  "title": {
+    "en": "A Simplified Framework With Examples of Factors Favoring SAVR, TAVI, or Palliation Instead of Aortic Valve Intervention",
+    "ru": "Упрощенная схема с примерами факторов в пользу SAVR, TAVI или паллиативной помощи вместо вмешательства на аортальном клапане"
+  },
+  "tags": [
+    "vhd",
+    "aortic-stenosis",
+    "savr",
+    "tavi",
+    "palliation",
+    "decision-framework",
+    "frailty",
+    "porcelain-aorta",
+    "bicuspid-aortic-valve"
+  ],
+  "columns": [
+    {
+      "id": "factor",
+      "title": {
+        "en": "Factor",
+        "ru": "Фактор"
+      }
+    },
+    {
+      "id": "favors_savr",
+      "title": {
+        "en": "Favors SAVR",
+        "ru": "В пользу SAVR"
+      }
+    },
+    {
+      "id": "favors_tavi",
+      "title": {
+        "en": "Favors TAVI",
+        "ru": "В пользу TAVI"
+      }
+    },
+    {
+      "id": "favors_palliation",
+      "title": {
+        "en": "Favors Palliation",
+        "ru": "В пользу паллиативной помощи"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "age-life-expectancy",
+      "cells": [
+        {
+          "text": {
+            "en": "Age/life expectancy^[a]",
+            "ru": "Возраст / ожидаемая продолжительность жизни^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Younger age/longer life expectancy",
+            "ru": "Молодой возраст / большая ожидаемая продолжительность жизни"
+          }
+        },
+        {
+          "text": {
+            "en": "Older age/fewer expected remaining years of life",
+            "ru": "Пожилой возраст / меньшая ожидаемая продолжительность жизни"
+          }
+        },
+        {
+          "text": {
+            "en": "Limited life expectancy",
+            "ru": "Резко ограниченная ожидаемая продолжительность жизни"
+          }
+        }
+      ]
+    },
+    {
+      "id": "valve-anatomy",
+      "cells": [
+        {
+          "text": {
+            "en": "Valve anatomy",
+            "ru": "Анатомия клапана"
+          }
+        },
+        {
+          "text": {
+            "en": "BAV\nSubaortic (LV outflow tract) calcification\nRheumatic valve disease\nSmall or large aortic annulus^[b]",
+            "ru": "ДАК\nПодклапанный кальциноз (ВТЛЖ)\nРевматическое поражение клапана\nМаленькое или очень широкое фиброзное кольцо аорты^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "Calcific AS of a trileaflet valve",
+            "ru": "Кальцинированный АС трехстворчатого клапана"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "prosthetic-preference",
+      "cells": [
+        {
+          "text": {
+            "en": "Prosthetic valve preference",
+            "ru": "Предпочтение типа протеза"
+          }
+        },
+        {
+          "text": {
+            "en": "Mechanical or surgical bioprosthetic valve preferred\nConcern for patient–prosthesis mismatch (annular enlargement might be considered)",
+            "ru": "Предпочтение механического или хирургического биопротеза\nОпасение несоответствия протеза пациенту (PPM) (возможно расширение кольца аорты)"
+          }
+        },
+        {
+          "text": {
+            "en": "Bioprosthetic valve preferred\nFavorable ratio of life expectancy to valve durability\nTAVI provides larger valve area than same size SAVR",
+            "ru": "Предпочтение биопротеза\nБлагоприятное соотношение ожидаемой продолжительности жизни и долговечности биопротеза\nTAVI обеспечивает большую эффективную площадь, чем хирургический биопротез того же размера"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "concurrent-cardiac",
+      "cells": [
+        {
+          "text": {
+            "en": "Concurrent cardiac conditions",
+            "ru": "Сопутствующая сердечная патология"
+          }
+        },
+        {
+          "text": {
+            "en": "Aortic dilation^[c]\nSevere primary MR\nSevere CAD requiring bypass grafting\nSeptal hypertrophy requiring myectomy\nAF",
+            "ru": "Дилатация восходящей аорты^[c]\nТяжелая первичная МР\nТяжелое поражение коронарных артерий, требующее КШ\nАсимметричная гипертрофия МЖП, требующая миэктомии\nФибрилляция предсердий"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe calcification of the ascending aorta (“porcelain” aorta)",
+            "ru": "Выраженный кальциноз восходящей аорты («фарфоровая» аорта)"
+          }
+        },
+        {
+          "text": {
+            "en": "Irreversible severe LV systolic dysfunction\nSevere MR attributable to annular calcification",
+            "ru": "Необратимая тяжелая систолическая дисфункция ЛЖ\nТяжелая МР вследствие кальциноза фиброзного кольца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "noncardiac-conditions",
+      "cells": [
+        {
+          "text": {
+            "en": "Noncardiac conditions",
+            "ru": "Внесердечная патология"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe lung, liver, or renal disease\nMobility issues (high procedural risk with sternotomy)",
+            "ru": "Тяжелые заболевания легких, печени или почек\nОграничение мобильности (высокий риск осложнений стернотомии)"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptoms likely attributable to noncardiac conditions\nSevere dementia\nModerate to severe involvement of ≥2 other organ systems",
+            "ru": "Симптомы преимущественно обусловлены внесердечными заболеваниями\nТяжелая деменция\nУмеренное или тяжелое поражение ≥2 других органных систем"
+          }
+        }
+      ]
+    },
+    {
+      "id": "frailty",
+      "cells": [
+        {
+          "text": {
+            "en": "Frailty",
+            "ru": "Старческая астения (хрупкость)"
+          }
+        },
+        {
+          "text": {
+            "en": "Not frail or few frailty measures",
+            "ru": "Отсутствие астении или минимальные признаки"
+          }
+        },
+        {
+          "text": {
+            "en": "Frailty likely to improve after TAVI",
+            "ru": "Астения, вероятно обратимая после TAVI"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe frailty unlikely to improve after TAVI",
+            "ru": "Тяжелая астения, необратимая после TAVI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "risk-savr-tavi",
+      "cells": [
+        {
+          "text": {
+            "en": "Estimated procedural or surgical risk of SAVR or TAVI",
+            "ru": "Расчетный риск вмешательства (SAVR или TAVI)"
+          }
+        },
+        {
+          "text": {
+            "en": "SAVR risk low\nTAVI risk high",
+            "ru": "Низкий риск SAVR\nВысокий риск TAVI"
+          }
+        },
+        {
+          "text": {
+            "en": "TAVI risk low to medium\nSAVR risk high to prohibitive",
+            "ru": "Низкий/умеренный риск TAVI\nВысокий или крайне высокий риск SAVR"
+          }
+        },
+        {
+          "text": {
+            "en": "Prohibitive SAVR risk (>15%) or post-TAVI life expectancy <1 y",
+            "ru": "Крайне высокий риск SAVR (>15%) или ожидаемая продолжительность жизни после TAVI <1 года"
+          }
+        }
+      ]
+    },
+    {
+      "id": "procedure-impediments",
+      "cells": [
+        {
+          "text": {
+            "en": "Procedure-specific impediments",
+            "ru": "Специфические анатомические препятствия к вмешательству"
+          }
+        },
+        {
+          "text": {
+            "en": "Valve anatomy, annular size, or low coronary ostial height precludes TAVI\nVascular access does not allow transfemoral TAVI",
+            "ru": "Анатомия клапана, размер кольца или низкое отхождение устьев коронарных артерий исключают TAVI\nСосудистый доступ не позволяет провести трансфеморальное TAVI"
+          }
+        },
+        {
+          "text": {
+            "en": "Previous cardiac surgery with at-risk coronary grafts\nPrevious chest irradiation",
+            "ru": "Предшествующая кардиохирургическая операция с риском повреждения шунтов\nПредшествующее лучевое облучение грудной клетки"
+          }
+        },
+        {
+          "text": {
+            "en": "Valve anatomy, annular size, or coronary ostial height precludes TAVI\nVascular access does not allow transfemoral TAVI",
+            "ru": "Анатомия клапана, размер кольца или низкое отхождение устьев исключают TAVI\nСосудистый доступ не позволяет провести трансфеморальное TAVI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "goals-of-care",
+      "cells": [
+        {
+          "text": {
+            "en": "Goals of Care and patient preferences and values",
+            "ru": "Цели лечения, предпочтения и ценности пациента"
+          }
+        },
+        {
+          "text": {
+            "en": "Less uncertainty about valve durability\nAvoid repeat intervention\nLower risk of permanent pacer\nLife prolongation\nSymptom relief\nImproved long-term exercise capacity and QOL\nAvoid vascular complications\nAccepts longer hospital stay, pain in recovery period",
+            "ru": "Меньшая неопределенность в отношении долговечности клапана\nСтремление избежать повторного вмешательства\nМеньший риск имплантации постоянного ЭКС\nПродление жизни\nОблегчение симптомов\nУлучшение отдаленной толерантности к нагрузке и качества жизни\nИзбежание сосудистых осложнений\nГотовность к более длительной госпитализации и послеоперационной боли"
+          }
+        },
+        {
+          "text": {
+            "en": "Accepts uncertainty about valve durability and possible repeat intervention\nHigher risk of permanent pacer\nLife prolongation\nSymptom relief\nImproved exercise capacity and QOL\nPrefers shorter hospital stay, less postprocedural pain",
+            "ru": "Готовность к неопределенности долговечности и возможному повторному вмешательству\nПринятие более высокого риска имплантации ЭКС\nПродление жизни\nОблегчение симптомов\nУлучшение переносимости нагрузки и качества жизни\nПредпочтение короткой госпитализации и меньшей боли"
+          }
+        },
+        {
+          "text": {
+            "en": "Life prolongation not an important goal\nAvoid futile or unnecessary diagnostic or therapeutic procedures\nAvoid procedural stroke risk\nAvoid possibility of cardiac pacer",
+            "ru": "Продление жизни не является приоритетной целью\nСтремление избежать бесперспективных процедур\nСтремление избежать процедурного инсульта\nСтремление избежать имплантации кардиостимулятора"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Expected remaining years of life can be estimated from US Actuarial Life Expectancy tables. The balance between expected patient longevity and valve durability varies continuously across the age range, with more durable valves preferred for patients with a longer life expectancy. Bioprosthetic valve durability is finite (with shorter durability for younger patients), whereas mechanical valves are very durable but require lifelong anticoagulation. Long-term (20-y) data on outcomes with surgical bioprosthetic valves are available; robust data on transcatheter bioprosthetic valves extend only to 5 y, leading to uncertainty about longer-term outcomes. The decision about valve type should be individualized on the basis of patient-specific factors that might affect expected longevity.",
+      "ru": "Ожидаемая продолжительность жизни может быть оценена по актуарным таблицам. Баланс между продолжительностью жизни и долговечностью клапана непрерывно меняется в зависимости от возраста. Долговечность биологических протезов ограничена (особенно у молодых пациентов), тогда как механические клапаны долговечны, но требуют пожизненного приема антикоагулянтов. Имеются 20-летние данные по хирургическим биопротезам, тогда как данные по TAVI ограничены ~5 годами. Выбор типа клапана должен индивидуализироваться на основе индивидуальных факторов пациента."
+    },
+    "b": {
+      "en": "A large aortic annulus may not be suitable for currently available transcatheter valve sizes. With a small aortic annulus or aorta, a surgical annulus-enlarging procedure may be needed to allow placement of a larger prosthesis and avoid patient–prosthesis mismatch.",
+      "ru": "Широкое фиброзное кольцо может не подойти под доступные размеры транскатетерных клапанов. При узком кольце может потребоваться хирургическое расширение корня аорты для имплантации клапана большего размера и предотвращения несоответствия протеза пациенту (PPM)."
+    },
+    "c": {
+      "en": "Dilation of the aortic sinuses or ascending aorta may require concurrent surgical replacement, particularly in younger patients with a BAV.",
+      "ru": "Дилатация синусов Вальсальвы или восходящей аорты может потребовать симультанного хирургического протезирования аорты, особенно у молодых пациентов с ДАК."
+    },
+    "d": {
+      "en": "AF indicates atrial fibrillation; AS, aortic stenosis; BAV, bicuspid aortic valve; CAD, coronary artery disease; LV, left ventricular; MR, mitral regurgitation; QOL, quality of life; SAVR, surgical aortic valve replacement; and TAVI, transcatheter aortic valve implantation. Modified from Burke et al.",
+      "ru": "AF (ФП) — фибрилляция предсердий; AS (АС) — аортальный стеноз; BAV (ДАК) — двустворчатый аортальный клапан; CAD (ИБС) — ишемическая болезнь сердца; LV (ЛЖ) — левый желудочек; MR — митральная регургитация; QOL — качество жизни; SAVR — хирургическое протезирование аортального клапана; TAVI — транскатетерная имплантация аортального клапана."
+    }
+  },
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

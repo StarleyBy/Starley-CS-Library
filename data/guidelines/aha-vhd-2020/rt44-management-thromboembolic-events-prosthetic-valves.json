@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt44-management-thromboembolic-events-prosthetic-valves",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 44",
+  "title": {
+    "en": "Recommendations for Management of Thromboembolic Events With Prosthetic Valves",
+    "ru": "Рекомендации по ведению тромбоэмболических осложнений у пациентов с клапанными протезами"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-valves",
+    "thromboembolism",
+    "stroke",
+    "systemic-embolism",
+    "inr-target-increase",
+    "aspirin",
+    "mechanical-avr",
+    "mechanical-mvr",
+    "bioprosthesis"
+  ],
+  "sections": [
+    {
+      "id": "sec-management-thromboembolic-events-prosthetic-valves",
+      "title": {
+        "en": "Management of Thromboembolic Events With Prosthetic Valves",
+        "ru": "Ведение пациентов с тромбоэмболическими осложнениями при наличии клапанных протезов"
+      },
+      "rows": [
+        {
+          "id": "r01-mechanical-avr-embolic-event-increase-inr-or-aspirin",
+          "text": {
+            "en": "In patients with a mechanical AVR who experience a stroke or systemic embolic event while in therapeutic range on VKA anticoagulation, it is reasonable to increase the INR goal from 2.5 (range, 2.0–3.0) to 3.0 (range, 2.5–3.5) or to add daily low-dose aspirin (75–100 mg), with assessment of bleeding risk.",
+            "ru": "У пациентов с механическим аортальным протезом (AVR), перенесших инсульт или системную эмболию на фоне терапевтического диапазона МНО при приеме АВК, оправдано повышение целевого уровня МНО с 2,5 (диапазон 2,0–3,0) до 3,0 (диапазон 2,5–3,5) или добавление низких доз аспирина (75–100 мг/сут) с обязательной оценкой риска кровотечений."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r02-mechanical-mvr-embolic-event-increase-inr-or-aspirin",
+          "text": {
+            "en": "In patients with a mechanical mitral valve replacement who experience a stroke or systemic embolic event while in therapeutic range on VKA anticoagulation, it is reasonable to increase the INR goal from 3.0 (range, 2.5–3.5) to 4.0 (range, 3.5–4.0) or to add daily low-dose aspirin (75–100 mg), with assessment of bleeding risk.",
+            "ru": "У пациентов с механическим митральным протезом, перенесших инсульт или системную эмболию на фоне терапевтического диапазона МНО при приеме АВК, оправдано повышение целевого уровня МНО с 3,0 (диапазон 2,5–3,5) до 4,0 (диапазон 3,5–4,0) или добавление низких доз аспирина (75–100 мг/сут) с обязательной оценкой риска кровотечений."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r03-bioprosthetic-valve-embolic-event-switch-to-vka",
+          "text": {
+            "en": "In patients with a bioprosthetic surgical or transcatheter aortic valve or bioprosthetic mitral valve who experience a stroke or systemic embolic event while on antiplatelet therapy, VKA anticoagulation, instead of antiplatelet therapy may be considered after assessment of bleeding risk.",
+            "ru": "У пациентов с биологическим хирургическим или транскатетерным аортальным протезом либо биологическим митральным протезом, перенесших инсульт или системную эмболию на фоне антитромбоцитарной терапии, можно рассмотреть перевод на антикоагулянтную терапию АВК вместо антиагрегантов после оценки риска кровотечений."
+          },
+          "class": "IIb",
+          "level": "C-EO",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

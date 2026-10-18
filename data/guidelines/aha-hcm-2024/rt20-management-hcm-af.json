@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt20-management-hcm-af",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 20",
+  "title": {
+    "en": "Recommendations for Management of Patients With HCM and AF",
+    "ru": "Рекомендации по ведению пациентов с ГКМП и фибрилляцией предсердий"
+  },
+  "tags": [
+    "hcm",
+    "atrial-fibrillation",
+    "anticoagulation",
+    "doac",
+    "vka",
+    "subclinical-af",
+    "rate-control",
+    "rhythm-control",
+    "catheter-ablation",
+    "surgical-ablation"
+  ],
+  "sections": [
+    {
+      "id": "sec-management-hcm-af",
+      "title": {
+        "en": "Management of Patients With HCM and AF",
+        "ru": "Ведение пациентов с ГКМП и фибрилляцией предсердий"
+      },
+      "rows": [
+        {
+          "id": "r01-anticoagulation-clinical-af",
+          "text": {
+            "en": "In patients with HCM and clinical AF, anticoagulation is recommended with direct-acting oral anticoagulants (DOACs) as first-line option and vitamin K antagonists as second-line option, independent of CHA2DS2-VASc score.",
+            "ru": "У пациентов с ГКМП и клинической ФП рекомендуется антикоагулянтная терапия прямыми пероральными антикоагулянтами (ПОАК/DOACs) в качестве препаратов первой линии и антагонистами витамина К в качестве второй линии, независимо от баллов по шкале CHA₂DS₂-VASc."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r02-anticoagulation-subclinical-af-over-24h",
+          "text": {
+            "en": "In patients with HCM and subclinical AF detected by internal or external cardiac device or monitor of >24 hours' duration for a given episode, anticoagulation is recommended with DOACs as first-line option and vitamin K antagonists as second-line option, independent of CHA2DS2-VASc score.",
+            "ru": "У пациентов с ГКМП и субклинической ФП длительностью отдельного эпизода >24 часов, выявленной при мониторировании имплантируемым или наружным кардиальным устройством, рекомендуется антикоагулянтная терапия ПОАК (первая линия) или антагонистами витамина К (вторая линия), независимо от баллов по шкале CHA₂DS₂-VASc."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 6, 7, 8]
+        },
+        {
+          "id": "r03-rate-control-beta-blockers-verapamil-diltiazem",
+          "text": {
+            "en": "In patients with AF in whom rate control strategy is planned, beta blockers, verapamil, or diltiazem are recommended, with the choice of agents according to patient preferences and comorbid conditions.",
+            "ru": "У пациентов с ФП при планировании стратегии контроля частоты сердечных сокращений рекомендуются бета-блокаторы, верапамил или дилтиазем с выбором препарата в зависимости от предпочтений пациента и сопутствующих заболеваний."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [9, 10]
+        },
+        {
+          "id": "r04-anticoagulation-subclinical-af-5min-to-24h",
+          "text": {
+            "en": "In patients with HCM and subclinical AF detected by internal or external device or monitor, of >5 minutes' duration but <24 hours' duration for a given episode, anticoagulation with DOACs as first-line option and vitamin K antagonists as second-line option can be beneficial, taking into consideration duration of AF episodes, total AF burden, underlying risk factors, and bleeding risk.",
+            "ru": "У пациентов с ГКМП и субклинической ФП длительностью эпизода >5 минут, но <24 часов по данным устройства или монитора антикоагулянтная терапия ПОАК (первая линия) или АВК (вторая линия) может быть полезной с учетом продолжительности эпизодов ФП, суммарного бремени аритмии, фоновых факторов риска и риска кровотечений."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 6, 7, 8, 11]
+        },
+        {
+          "id": "r05-rhythm-control-cardioversion-antiarrhythmics",
+          "text": {
+            "en": "In patients with HCM and poorly tolerated AF, a rhythm-control strategy with cardioversion or antiarrhythmic drugs can be beneficial with the choice of an agent according to AF symptom severity, patient preferences, and comorbid conditions.",
+            "ru": "У пациентов с ГКМП и плохо переносимой ФП стратегия контроля ритма с помощью кардиоверсии или антиаритмических препаратов может быть полезной с выбором средства в зависимости от выраженности симптомов ФП, предпочтений пациента и сопутствующей патологии."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [9, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+        },
+        {
+          "id": "r06-catheter-ablation-symptomatic-af",
+          "text": {
+            "en": "In patients with HCM and symptomatic AF, as part of an AF rhythm-control strategy, catheter ablation for AF can be effective when drug therapy is ineffective, contraindicated, or not the patient's preference.",
+            "ru": "У пациентов с ГКМП и симптомной ФП в рамках стратегии контроля ритма катетерная аблация ФП может быть эффективной при неэффективности, противопоказаниях или нежелании пациента принимать медикаментозную терапию."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [12, 25, 26]
+        },
+        {
+          "id": "r07-concomitant-surgical-af-ablation-myectomy",
+          "text": {
+            "en": "In patients with HCM and AF who require surgical myectomy, concomitant surgical AF ablation procedure can be beneficial for AF rhythm control.",
+            "ru": "У пациентов с ГКМП и ФП, которым требуется хирургическая миэктомия, одномоментная хирургическая аблация ФП может быть полезной для контроля синусового ритма."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [13, 27, 28, 29, 30, 31, 32, 33]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt17-dapt-adherence-cabg-vs-pci",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 17",
+  "title": {
+    "en": "Recommendation for DAPT Adherence",
+    "ru": "Рекомендация при оценке приверженности к ДАТ (DAPT)"
+  },
+  "tags": [
+    "dapt",
+    "adherence",
+    "multivessel",
+    "cabg-over-pci",
+    "antiplatelet-therapy"
+  ],
+  "sections": [
+    {
+      "id": "sec-dapt-adherence",
+      "title": {
+        "en": "DAPT Adherence",
+        "ru": "Приверженность к двойной антитромбоцитарной терапии (ДАТ)"
+      },
+      "rows": [
+        {
+          "id": "r01-unable-to-tolerate-adhere-dapt-cabg-over-pci",
+          "text": {
+            "en": "In patients with multivessel CAD amenable to treatment with either PCI or CABG who are unable to access, tolerate, or adhere to DAPT for the appropriate duration of treatment, CABG is reasonable in preference to PCI.",
+            "ru": "У пациентов с многососудистым поражением коронарных артерий, подходящих для лечения как методом ЧКВ, так и КШ, которые не могут получать, переносить или соблюдать прием двойной антитромбоцитарной терапии (ДАТ/DAPT) в течение необходимой продолжительности лечения, целесообразно отдать предпочтение КШ перед ЧКВ."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

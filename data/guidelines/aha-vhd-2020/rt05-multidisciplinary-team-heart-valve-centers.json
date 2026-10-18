@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt05-multidisciplinary-team-heart-valve-centers",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 5",
+  "title": {
+    "en": "Recommendations for the Multidisciplinary Heart Valve Team and Heart Valve Centers",
+    "ru": "Рекомендации по мультидисциплинарной клапанной команде (Heart Valve Team) и клапанным центрам"
+  },
+  "tags": [
+    "vhd",
+    "heart-valve-team",
+    "multidisciplinary-team",
+    "valve-centers",
+    "primary-center",
+    "comprehensive-center",
+    "referral"
+  ],
+  "sections": [
+    {
+      "id": "sec-heart-valve-team-centers",
+      "title": {
+        "en": "The Multidisciplinary Heart Valve Team and Heart Valve Centers",
+        "ru": "Мультидисциплинарная клапанная команда и специализированные клапанные центры"
+      },
+      "rows": [
+        {
+          "id": "r01-mdt-evaluation-severe-vhd",
+          "text": {
+            "en": "Patients with severe VHD should be evaluated by a Multidisciplinary Heart Valve Team (MDT) when intervention is considered.",
+            "ru": "Пациенты с тяжелым клапанным пороком сердца при рассмотрении вопроса о вмешательстве должны быть обследованы мультидисциплинарной клапанной командой (MDT)."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r02-referral-valve-centers",
+          "text": {
+            "en": "Consultation with or referral to a Primary or Comprehensive Heart Valve Center is reasonable when treatment options are being discussed for 1) asymptomatic patients with severe VHD, 2) patients who may benefit from valve repair versus valve replacement, or 3) patients with multiple comorbidities for whom valve intervention is considered.",
+            "ru": "Консультация или направление в первичный либо экспертный клапанный центр оправданы при обсуждении вариантов лечения для: 1) бессимптомных пациентов с тяжелым пороком клапана, 2) пациентов, у которых пластика клапана предпочтительнее протезирования, или 3) пациентов с множественной коморбидностью, рассматриваемых на вмешательство на клапане."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

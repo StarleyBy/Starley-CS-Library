@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.t05-risk-factors-not-in-sts",
+  "guidelineId": "aha-revasc-2021",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Assessment of Risk Factors Not Quantified in the STS Score",
+    "ru": "Оценка факторов риска, не учитываемых шкалой риска STS"
+  },
+  "tags": [
+    "risk-assessment",
+    "sts-score",
+    "cirrhosis",
+    "meld-score",
+    "frailty",
+    "gait-speed",
+    "malnutrition",
+    "must"
+  ],
+  "columns": [
+    {
+      "id": "risk_factor",
+      "title": {
+        "en": "Risk Factor",
+        "ru": "Фактор риска"
+      }
+    },
+    {
+      "id": "assessment_tool",
+      "title": {
+        "en": "Assessment Tool",
+        "ru": "Инструмент оценки"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "cirrhosis",
+      "cells": [
+        {
+          "text": {
+            "en": "Cirrhosis",
+            "ru": "Цирроз печени"
+          }
+        },
+        {
+          "text": {
+            "en": "Model for End-Stage Liver Disease (MELD) score",
+            "ru": "Шкала оценки терминальной стадии заболеваний печени (MELD)"
+          },
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    },
+    {
+      "id": "frailty",
+      "cells": [
+        {
+          "text": {
+            "en": "Frailty",
+            "ru": "Старческая астения (хрупкость)"
+          }
+        },
+        {
+          "text": {
+            "en": "Gait speed",
+            "ru": "Скорость ходьбы"
+          },
+          "refs": [8, 10, 11, 12, 13, 14, 16]
+        }
+      ]
+    },
+    {
+      "id": "malnutrition",
+      "cells": [
+        {
+          "text": {
+            "en": "Malnutrition",
+            "ru": "Недостаточность питания (мальнутриция)"
+          }
+        },
+        {
+          "text": {
+            "en": "Malnutrition Universal Screening Tool (MUST)",
+            "ru": "Универсальный инструмент скрининга недостаточности питания (MUST)"
+          },
+          "refs": [7, 9, 15, 16]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

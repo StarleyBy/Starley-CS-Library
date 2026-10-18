@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt18-revascularization-pregnant-patients",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 18",
+  "title": {
+    "en": "Recommendations for Revascularization in Pregnant Patients",
+    "ru": "Рекомендации по реваскуляризации у беременных пациенток"
+  },
+  "tags": [
+    "pregnancy",
+    "stemi",
+    "scad",
+    "primary-pci",
+    "nste-acs",
+    "invasive-strategy"
+  ],
+  "sections": [
+    {
+      "id": "sec-revascularization-pregnant-patients",
+      "title": {
+        "en": "Revascularization in Pregnant Patients",
+        "ru": "Реваскуляризация у беременных пациенток"
+      },
+      "rows": [
+        {
+          "id": "r01-pregnancy-stemi-non-scad-primary-pci",
+          "text": {
+            "en": "In pregnant patients with STEMI not caused by spontaneous coronary artery dissection (SCAD), it is reasonable to perform primary PCI as the preferred revascularization strategy.",
+            "ru": "У беременных пациенток с ИМпST (STEMI), не обусловленным спонтанной диссекцией коронарных артерий (СДКА/SCAD), целесообразно выполнение первичного ЧКВ в качестве предпочтительной стратегии реваскуляризации."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-pregnancy-nste-acs-invasive-strategy",
+          "text": {
+            "en": "In pregnant patients with NSTE-ACS, an invasive strategy is reasonable if medical therapy is ineffective for the management of life-threatening complications.",
+            "ru": "У беременных пациенток с ОКСбпST (NSTE-ACS) инвазивная стратегия целесообразна при неэффективности медикаментозной терапии для купирования жизнеугрожающих осложнений."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

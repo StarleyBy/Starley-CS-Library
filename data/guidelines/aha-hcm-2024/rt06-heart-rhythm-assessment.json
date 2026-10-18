@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt06-heart-rhythm-assessment",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 6",
+  "title": {
+    "en": "Recommendations for Heart Rhythm Assessment",
+    "ru": "Рекомендации по оценке сердечного ритма"
+  },
+  "tags": [
+    "hcm",
+    "ecg",
+    "ambulatory-monitoring",
+    "holter",
+    "atrial-fibrillation",
+    "scd-risk",
+    "palpitations",
+    "syncope",
+    "family-screening"
+  ],
+  "sections": [
+    {
+      "id": "sec-heart-rhythm-assessment",
+      "title": {
+        "en": "Heart Rhythm Assessment",
+        "ru": "Оценка сердечного ритма"
+      },
+      "rows": [
+        {
+          "id": "r01-12-lead-ecg-initial-and-followup",
+          "text": {
+            "en": "In patients with HCM, a 12-lead ECG is recommended in the initial evaluation and as part of periodic follow-up (every 1-2 years) (Figure 1, Table 7).",
+            "ru": "У пациентов с ГКМП рекомендуется регистрация ЭКГ в 12 отведениях при первичном обследовании и в рамках регулярного наблюдения (каждые 1–2 года) (Рисунок 1, Таблица 7)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-ambulatory-ecg-24-48h-scd-risk",
+          "text": {
+            "en": "In patients with HCM, 24- to 48-hour ambulatory electrocardiographic monitoring is recommended in the initial evaluation and as part of periodic follow-up (every 1-2 years) to identify patients who are at risk for SCD and to guide management of arrhythmias (Figure 1).",
+            "ru": "У пациентов с ГКМП рекомендуется 24–48-часовое холтеровское мониторирование ЭКГ при первичном обследовании и в рамках периодического наблюдения (каждые 1–2 года) для выявления пациентов группы риска ВСС и выбора тактики ведения аритмий (Рисунок 1)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [4, 5, 6]
+        },
+        {
+          "id": "r03-palpitations-lightheadedness-extended-monitoring",
+          "text": {
+            "en": "In patients with HCM who develop palpitations or lightheadedness, extended (>24 hours) electrocardiographic monitoring or event recording is recommended for arrhythmia diagnosis and clinical correlation.",
+            "ru": "У пациентов с ГКМП при возникновении сердцебиения или пресинкопальных состояний (головокружения) рекомендуется продленное (>24 часов) мониторирование ЭКГ или регистрация событий для диагностики аритмий и сопоставления с клинической картиной."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [6]
+        },
+        {
+          "id": "r04-screening-first-degree-relatives-ecg",
+          "text": {
+            "en": "In first-degree relatives of patients with HCM, a 12-lead ECG is recommended as a component of the screening algorithm (Figure 1, Table 7).",
+            "ru": "У родственников первой линии пациентов с ГКМП рекомендуется регистрация ЭКГ в 12 отведениях как обязательный компонент скринингового алгоритма (Рисунок 1, Таблица 7)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r05-high-risk-af-extended-monitoring-annual",
+          "text": {
+            "en": "In patients with HCM who are deemed to be at high risk for developing AF based on the presence of risk factors or as determined by a validated risk score, and who are eligible for anticoagulation, extended ambulatory monitoring is recommended to screen for AF as part of initial evaluation and annual follow-up (Figure 1).",
+            "ru": "У пациентов с ГКМП, относящихся к группе высокого риска развития ФП на основании факторов риска или валидированной шкалы риска, и являющихся кандидатами на антикоагулянтную терапию, рекомендуется продленное амбулаторное мониторирование ЭКГ для скрининга ФП при первичном обследовании и ежегодно при динамическом наблюдении (Рисунок 1)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [7, 8, 9, 10]
+        },
+        {
+          "id": "r06-asymptomatic-af-screening-adults-no-risk-factors",
+          "text": {
+            "en": "In adult patients with HCM without risk factors for AF and who are eligible for anticoagulation, extended ambulatory monitoring may be considered to assess for asymptomatic paroxysmal AF as part of initial evaluation and periodic follow-up (every 1-2 years).",
+            "ru": "У взрослых пациентов с ГКМП без факторов риска ФП, являющихся кандидатами на антикоагулянтную терапию, можно рассмотреть продленное амбулаторное мониторирование для выявления бессимптомной пароксизмальной ФП в рамках первичного обследования и периодического наблюдения (каждые 1–2 года)."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [7, 8, 9, 10, 11, 12]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

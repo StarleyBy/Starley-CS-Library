@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt36-timing-of-intervention-tr",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 36",
+  "title": {
+    "en": "Recommendations for Timing of Intervention for TR",
+    "ru": "Рекомендации по срокам и показаниям к вмешательству при трикуспидальной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "tricuspid-regurgitation",
+    "tr",
+    "timing-of-intervention",
+    "tricuspid-valve-surgery",
+    "annuloplasty",
+    "concomitant-left-sided-surgery",
+    "isolated-tr-surgery",
+    "reoperation"
+  ],
+  "sections": [
+    {
+      "id": "sec-timing-of-intervention-tr",
+      "title": {
+        "en": "Timing of Intervention for TR",
+        "ru": "Сроки и показания к вмешательству при трикуспидальной регургитации"
+      },
+      "rows": [
+        {
+          "id": "r01-severe-tr-concomitant-left-sided-surgery",
+          "text": {
+            "en": "In patients with severe TR (Stages C and D) undergoing left-sided valve surgery, tricuspid valve surgery is recommended.",
+            "ru": "У пациентов с тяжелой ТР (Стадии C и D), подвергающихся операции на клапанах левых отделов сердца, рекомендуется операция на трикуспидальном клапане."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r02-progressive-tr-annular-dilation-or-prior-hf",
+          "text": {
+            "en": "In patients with progressive TR (Stage B) undergoing left-sided valve surgery, tricuspid valve surgery can be beneficial in the context of either 1) tricuspid annular dilation (tricuspid annulus end diastolic diameter >4.0 cm) or 2) prior signs and symptoms of right-sided HF.",
+            "ru": "У пациентов с прогрессирующей ТР (Стадия B), подвергающихся операции на клапанах левых отделов сердца, операция на трикуспидальном клапане может быть полезна при наличии: 1) дилатации фиброзного кольца ТК (конечно-диастолический диаметр кольца >4,0 см) или 2) предшествующих признаков и симптомов правожелудочковой СН."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [2, 3, 4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+          "id": "r03-isolated-surgery-symptomatic-severe-primary-tr",
+          "text": {
+            "en": "In patients with signs and symptoms of right-sided HF and severe primary TR (Stage D), isolated tricuspid valve surgery can be beneficial to reduce symptoms and recurrent hospitalizations.",
+            "ru": "У пациентов с признаками и симптомами правожелудочковой СН и тяжелой первичной ТР (Стадия D) изолированная операция на трикуспидальном клапане может быть полезна для уменьшения выраженности симптомов и частоты повторных госпитализаций."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [11, 12, 13, 14]
+        },
+        {
+          "id": "r04-isolated-surgery-severe-isolated-secondary-tr",
+          "text": {
+            "en": "In patients with signs and symptoms of right-sided HF and severe isolated secondary TR attributable to annular dilation (in the absence of pulmonary hypertension or left-sided disease) who are poorly responsive to medical therapy (Stage D), isolated tricuspid valve surgery can be beneficial to reduce symptoms and recurrent hospitalizations.",
+            "ru": "У пациентов с признаками и симптомами правожелудочковой СН и тяжелой изолированной вторичной ТР вследствие дилатации фиброзного кольца (при отсутствии легочной гипертензии или патологии левых отделов сердца), рефрактерных к медикаментозной терапии (Стадия D), изолированная операция на трикуспидальном клапане может быть полезна для облегчения симптомов и снижения частоты повторных госпитализаций."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [11, 12, 15, 16, 17, 18]
+        },
+        {
+          "id": "r05-isolated-surgery-asymptomatic-primary-rv-dilation",
+          "text": {
+            "en": "In asymptomatic patients with severe primary TR (Stage C) and progressive RV dilation or systolic dysfunction, isolated tricuspid valve surgery may be considered.",
+            "ru": "У бессимптомных пациентов с тяжелой первичной ТР (Стадия C) и прогрессирующей дилатацией или систолической дисфункцией ПЖ может рассматриваться изолированная операция на трикуспидальном клапане."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [12, 20]
+        },
+        {
+          "id": "r06-reoperation-isolated-tv-previous-left-surgery",
+          "text": {
+            "en": "In patients with signs and symptoms of right-sided HF and severe TR (Stage D) who have undergone previous left-sided valve surgery, reoperation with isolated tricuspid valve surgery may be considered in the absence of severe pulmonary hypertension or severe RV systolic dysfunction.",
+            "ru": "У пациентов с признаками и симптомами правожелудочковой СН и тяжелой ТР (Стадия D), ранее перенесших операцию на клапанах левых отделов сердца, повторная операция с изолированным вмешательством на трикуспидальном клапане может рассматриваться при отсутствии тяжелой легочной гипертензии или тяжелой систолической дисфункции ПЖ."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [1, 2, 11, 14]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

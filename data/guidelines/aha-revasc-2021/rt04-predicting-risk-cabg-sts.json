@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt04-predicting-risk-cabg-sts",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 4",
+  "title": {
+    "en": "Recommendation for Predicting Patient Risk of Death With CABG",
+    "ru": "Рекомендация по оценке риска летального исхода у пациентов при коронарном шунтировании"
+  },
+  "tags": [
+    "cabg",
+    "risk-assessment",
+    "sts-score",
+    "operative-mortality",
+    "risk-stratification"
+  ],
+  "sections": [
+    {
+      "id": "sec-predicting-risk-death-cabg",
+      "title": {
+        "en": "Predicting Patient Risk of Death With CABG",
+        "ru": "Оценка риска летального исхода у пациентов при коронарном шунтировании"
+      },
+      "rows": [
+        {
+          "id": "r01-sts-risk-score-stratification",
+          "text": {
+            "en": "In patients who are being considered for CABG, calculation of the STS risk score is recommended to help stratify patient risk.",
+            "ru": "У пациентов, рассматриваемых в качестве кандидатов на КШ (CABG), рекомендуется расчет шкалы риска STS для стратификации периоперационного риска."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

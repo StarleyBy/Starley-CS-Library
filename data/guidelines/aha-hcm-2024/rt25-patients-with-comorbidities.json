@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt25-patients-with-comorbidities",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 25",
+  "title": {
+    "en": "Recommendations for Patients With Comorbidities",
+    "ru": "Рекомендации для пациентов с сопутствующими заболеваниями (коморбидностью)"
+  },
+  "tags": [
+    "hcm",
+    "comorbidities",
+    "primary-prevention",
+    "obesity",
+    "weight-loss",
+    "hypertension",
+    "sleep-disordered-breathing",
+    "osa"
+  ],
+  "sections": [
+    {
+      "id": "sec-patients-with-comorbidities",
+      "title": {
+        "en": "Patients With Comorbidities",
+        "ru": "Пациенты с сопутствующими заболеваниями"
+      },
+      "rows": [
+        {
+          "id": "r01-primary-prevention-guidelines",
+          "text": {
+            "en": "In patients with HCM, adherence to the ACC/AHA primary prevention guideline is recommended to reduce risk of cardiovascular events.",
+            "ru": "У пациентов с ГКМП рекомендуется соблюдение рекомендаций ACC/AHA по первичной профилактике для снижения риска сердечно-сосудистых событий."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [1]
+        },
+        {
+          "id": "r02-overweight-obesity-lifestyle-weight-loss",
+          "text": {
+            "en": "In patients with HCM who are overweight or obese, counseling and comprehensive lifestyle interventions are recommended for achieving and maintaining weight loss and possibly lowering the risk of developing LVOTO, HF, and AF.",
+            "ru": "У пациентов с ГКМП с избыточной массой тела или ожирением рекомендуются консультирование и комплексные вмешательства по изменению образа жизни для достижения и поддержания снижения массы тела и потенциального снижения риска развития обструкции ВТЛЖ, СН и ФП."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r03-hypertension-management",
+          "text": {
+            "en": "In patients with HCM and hypertension, lifestyle modifications and medical therapy for hypertension are recommended, with preference for beta blockers and nondihydropyridine calcium channel blockers in patients with obstructive HCM.",
+            "ru": "У пациентов с ГКМП и артериальной гипертензией рекомендуются модификация образа жизни и лекарственная антигипертензивная терапия с предпочтением бета-блокаторов и недигидропиридиновых блокаторов кальциевых каналов при обструктивной ГКМП."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1]
+        },
+        {
+          "id": "r04-sleep-disordered-breathing",
+          "text": {
+            "en": "In patients with HCM, assessment for symptoms of sleep-disordered breathing is recommended, and, if present, referral to a sleep medicine specialist for evaluation and treatment is recommended.",
+            "ru": "У пациентов с ГКМП рекомендуется оценка наличия симптомов нарушений дыхания во сне и, при их наличии, направление к врачу-сомнологу для обследования и лечения."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [5, 6, 7, 8]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

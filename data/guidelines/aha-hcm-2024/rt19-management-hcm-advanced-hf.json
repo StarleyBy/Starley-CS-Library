@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt19-management-hcm-advanced-hf",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 19",
+  "title": {
+    "en": "Recommendations for Management of Patients With HCM and Advanced HF",
+    "ru": "Рекомендации по ведению пациентов с ГКМП и терминальной (тяжелой) сердечной недостаточностью"
+  },
+  "tags": [
+    "hcm",
+    "advanced-heart-failure",
+    "systolic-dysfunction",
+    "reduced-ef",
+    "gdmt",
+    "cpet",
+    "heart-transplantation",
+    "lvad",
+    "myosin-inhibitors",
+    "crt",
+    "icd"
+  ],
+  "sections": [
+    {
+      "id": "sec-management-hcm-advanced-hf",
+      "title": {
+        "en": "Management of Patients With HCM and Advanced HF",
+        "ru": "Ведение пациентов с ГКМП и тяжелой сердечной недостаточностью"
+      },
+      "rows": [
+        {
+          "id": "r01-gdmt-systolic-dysfunction-lvef-under-50",
+          "text": {
+            "en": "In patients with HCM who develop systolic dysfunction with an LVEF <50%, GDMT for HF with reduced EF is recommended.",
+            "ru": "У пациентов с ГКМП при развитии систолической дисфункции с ФВЛЖ <50% рекомендуется ОМТ сердечной недостаточности со сниженной ФВ."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-diagnostic-testing-concomitant-causes",
+          "text": {
+            "en": "In patients with HCM and systolic dysfunction, diagnostic testing to assess for concomitant causes of systolic dysfunction (eg, CAD) is recommended.",
+            "ru": "У пациентов с ГКМП и систолической дисфункцией рекомендуется проведение диагностического обследования для выявления сопутствующих причин систолической дисфункции (например, ИБС)."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [4, 5]
+        },
+        {
+          "id": "r03-cpet-advanced-hf",
+          "text": {
+            "en": "In patients with nonobstructive HCM and advanced HF (NYHA functional class III to class IV despite GDMT), CPET should be performed to quantify the degree of functional limitation and aid in selection of patients for heart transplantation or mechanical circulatory support.",
+            "ru": "У пациентов с необструктивной ГКМП и терминальной СН (III–IV функциональный класс по NYHA несмотря на ОМТ) следует выполнить КПНТ (CPET) для количественной оценки степени функциональных ограничений и помощи в отборе пациентов на трансплантацию сердца или механическую поддержку кровообращения."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [6, 7]
+        },
+        {
+          "id": "r04-assessment-heart-transplantation",
+          "text": {
+            "en": "In patients with nonobstructive HCM and advanced HF (NYHA functional class III to class IV despite GDMT) or with life-threatening ventricular arrhythmias refractory to maximal GDMT, assessment for heart transplantation in accordance with current listing criteria is recommended.",
+            "ru": "У пациентов с необструктивной ГКМП и терминальной СН (III–IV функциональный класс по NYHA несмотря на ОМТ) либо с жизнеугрожающими желудочковыми аритмиями, рефрактерными к максимальной ОМТ, рекомендуется оценка показаний к трансплантации сердца в соответствии с действующими критериями включения в лист ожидания."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [8, 9, 10, 11, 12, 13]
+        },
+        {
+          "id": "r05-discontinue-cardiac-myosin-inhibitors-lvef-under-50",
+          "text": {
+            "en": "In patients with HCM who develop persistent systolic dysfunction (LVEF <50%), cardiac myosin inhibitors should be discontinued.",
+            "ru": "У пациентов с ГКМП при развитии стойкой систолической дисфункции (ФВЛЖ <50%) ингибиторы сердечного миозина должны быть отменены."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [14]
+        },
+        {
+          "id": "r06-discontinue-negative-inotropes",
+          "text": {
+            "en": "For patients with HCM who develop systolic dysfunction (LVEF <50%), it is reasonable to discontinue previously indicated negative inotropic agents (specifically, verapamil, diltiazem, or disopyramide).",
+            "ru": "У пациентов с ГКМП при развитии систолической дисфункции (ФВЛЖ <50%) оправдана отмена ранее назначенных препаратов с отрицательным инотропным действием (в частности, верапамила, дилтиазема или дизопирамида)."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r07-continuous-flow-lvad-bridge-transplant",
+          "text": {
+            "en": "In patients with nonobstructive HCM and advanced HF (NYHA functional class III to class IV despite GDMT) who are candidates for heart transplantation, continuous-flow LVAD therapy is reasonable as a bridge to heart transplantation.",
+            "ru": "У пациентов с необструктивной ГКМП и терминальной СН (III–IV функциональный класс по NYHA несмотря на ОМТ), являющихся кандидатами на трансплантацию сердца, терапия аппаратами механической поддержки ЛЖ с непрерывным потоком (LVAD) оправдана в качестве моста к трансплантации сердца."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [15, 16, 17, 18, 19]
+        },
+        {
+          "id": "r08-icd-persistent-lvef-under-50",
+          "text": {
+            "en": "In patients with HCM and persistent LVEF <50%, ICD placement can be beneficial.",
+            "ru": "У пациентов с ГКМП и стойким снижением ФВЛЖ <50% имплантация ИКД может быть полезной."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [3, 20]
+        },
+        {
+          "id": "r09-crt-lbbb-lvef-under-50",
+          "text": {
+            "en": "In patients with HCM and LVEF <50%, NYHA functional class II to class IV symptoms despite GDMT, and LBBB, CRT can be beneficial to improve symptoms.",
+            "ru": "У пациентов с ГКМП с ФВЛЖ <50%, симптомами II–IV функционального класса по NYHA несмотря на ОМТ и блокадой ЛНПГ проведение СРТ (CRT) может быть полезным для уменьшения симптомов."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [21, 22, 23, 24, 25]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

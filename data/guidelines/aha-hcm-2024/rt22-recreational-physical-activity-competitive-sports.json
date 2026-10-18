@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt22-recreational-physical-activity-competitive-sports",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 22",
+  "title": {
+    "en": "Recommendations for Recreational Physical Activity and Competitive Sports",
+    "ru": "Рекомендации по оздоровительной физической активности и соревновательному спорту"
+  },
+  "tags": [
+    "hcm",
+    "physical-activity",
+    "exercise",
+    "sports",
+    "competitive-sports",
+    "recreational-exercise",
+    "athletes",
+    "icd"
+  ],
+  "sections": [
+    {
+      "id": "sec-recreational-physical-activity-competitive-sports",
+      "title": {
+        "en": "Recreational Physical Activity and Competitive Sports",
+        "ru": "Оздоровительная физическая активность и соревновательный спорт"
+      },
+      "rows": [
+        {
+          "id": "r01-mild-to-moderate-recreational-exercise",
+          "text": {
+            "en": "For patients with HCM, mild- to moderate-intensity^[a] recreational^[b] exercise is beneficial to improve cardiorespiratory fitness, physical functioning, and quality of life, and for overall health in keeping with physical activity guidelines for the general population.",
+            "ru": "У пациентов с ГКМП физические нагрузки легкой и умеренной интенсивности^[a] оздоровительного (любительского)^[b] характера полезны для повышения кардиореспираторной выносливости, физического функционирования и качества жизни, а также для общего укрепления здоровья в соответствии с рекомендациями по физической активности для общей популяции."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-athletes-comprehensive-evaluation-shared-decision-making",
+          "text": {
+            "en": "For athletes with HCM, a comprehensive evaluation and shared decision-making about sports participation with an expert professional is recommended.",
+            "ru": "У спортсменов с ГКМП рекомендуется проведение комплексного обследования и совместное принятие решений относительно участия в спорте с профильным экспертом."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [4]
+        },
+        {
+          "id": "r03-genotype-positive-phenotype-negative-competitive-sports",
+          "text": {
+            "en": "In individuals who are genotype-positive, phenotype-negative for HCM, participation in competitive sports of any intensity is reasonable.",
+            "ru": "У лиц с положительным генотипом и отрицательным фенотипом (носителей патогенного варианта без проявлений ГКМП) участие в соревновательном спорте любой интенсивности оправдано."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [5, 6]
+        },
+        {
+          "id": "r04-vigorous-recreational-activities-annual-evaluation",
+          "text": {
+            "en": "For patients with HCM, participation in vigorous^[a] recreational activities is reasonable after an annual comprehensive evaluation and shared decision-making with an expert professional who balances potential benefits and risks, with this process being repeated annually.",
+            "ru": "У пациентов с ГКМП участие в высокоинтенсивных^[a] оздоровительных (любительских) нагрузках оправдано после ежегодного комплексного обследования и совместного принятия решений с профильным экспертом с оценкой потенциальной пользы и рисков."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [4, 7, 8, 9]
+        },
+        {
+          "id": "r05-high-level-performance-competitive-sports",
+          "text": {
+            "en": "For patients with HCM who are capable of a high level of physical performance, participation in competitive sports^[b] may be considered after review by an expert provider with experience managing athletes with HCM who conducts an annual comprehensive evaluation and shared decision-making that balances potential benefits and risks.",
+            "ru": "У пациентов с ГКМП, способных к высокой физической работоспособности, участие в соревновательном спорте^[b] может быть рассмотрено после консультации эксперта с опытом ведения спортсменов с ГКМП, проводящего ежегодное комплексное обследование и совместное принятие решений со взвешиванием потенциальной пользы и рисков."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [5, 10, 11, 12, 13, 14]
+        },
+        {
+          "id": "r06-no-universal-restriction-vigorous-activity",
+          "text": {
+            "en": "For most patients with HCM, universal restriction from vigorous physical activity or competitive sports is not indicated.",
+            "ru": "Для большинства пациентов с ГКМП поголовное (универсальное) ограничение интенсивной физической активности или соревновательного спорта не показано."
+          },
+          "class": "III-no-benefit",
+          "level": "B-NR",
+          "refs": [3, 11, 12, 13]
+        },
+        {
+          "id": "r07-no-icd-solely-for-competitive-sports",
+          "text": {
+            "en": "In patients with HCM, ICD placement for the sole purpose of participation in competitive sports should not be performed.",
+            "ru": "У пациентов с ГКМП имплантация ИКД исключительно с целью допуска к участию в соревновательном спорте не должна проводиться."
+          },
+          "class": "III-harm",
+          "level": "C-EO",
+          "refs": [10]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Exercise intensity can be gauged by metabolic equivalents (METs): light <3 METs, moderate 3–6 METs, and vigorous >6 METs, by percentage of maximum heart rate achieved (light 40%–50%, moderate 50%–70%, vigorous >70%), or by level of perceived exertion on the Borg scale (light 7–12, moderate 13–14, vigorous ≥15).",
+      "ru": "Интенсивность физической нагрузки может оцениваться по метаболическим эквивалентам (МЕТ): легкая <3 METs, умеренная 3–6 METs, высокая >6 METs; по проценту от максимальной ЧСС (легкая 40%–50%, умеренная 50%–70%, высокая >70%); либо по шкале Борга (легкая 7–12, умеренная 13–14, высокая ≥15)."
+    },
+    "b": {
+      "en": "Recreational exercise is done for the purpose of leisure with no requirement for systematic training and without the purpose to excel or compete against others. Competitive sports involve systematic training for the primary purpose of competition against others, at multiple levels, including high school, collegiate, master's level, semiprofessional, or professional sporting activities.",
+      "ru": "Оздоровительные (любительские) упражнения выполняются для отдыха и поддержания формы, не требуют систематических тренировок и не имеют целью состязание с другими. Соревновательный спорт предполагает регулярные систематические тренировки с главной целью состязания с другими на школьном, студенческом, ветеранском (мастерс), полупрофессиональном или профессиональном уровне."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

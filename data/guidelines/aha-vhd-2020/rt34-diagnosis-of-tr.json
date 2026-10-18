@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt34-diagnosis-of-tr",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 34",
+  "title": {
+    "en": "Recommendations for Diagnosis of TR",
+    "ru": "Рекомендации по диагностике трикуспидальной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "tricuspid-regurgitation",
+    "tr",
+    "diagnosis",
+    "tte",
+    "rv-function",
+    "pulmonary-hypertension",
+    "invasive-hemodynamics",
+    "cardiac-catheterization"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnosis-of-tr",
+      "title": {
+        "en": "Diagnosis of TR",
+        "ru": "Диагностика трикуспидальной регургитации"
+      },
+      "rows": [
+        {
+          "id": "r01-tte-tr-severity-etiology-rv-function",
+          "text": {
+            "en": "In patients with TR, TTE is indicated to evaluate the presence and severity of TR, determine the etiology, measure the sizes of the right-sided chambers and inferior vena cava, assess RV systolic function, estimate pulmonary artery systolic pressure, and characterize any associated left-sided heart disease.",
+            "ru": "У пациентов с ТР показано выполнение ТТ-ЭхоКГ для оценки наличия и тяжести ТР, установления этиологии, измерения размеров правых камер сердца и нижней полой вены, оценки систолической функции ПЖ, расчетного систолического давления в легочной артерии и выявления сопутствующей патологии левых отделов сердца."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-invasive-hemodynamics-right-heart-catheterization",
+          "text": {
+            "en": "In patients with TR, invasive measurement of the cardiac index, right-sided diastolic pressures, pulmonary artery pressures, and pulmonary vascular resistance, as well as right ventriculography, can be useful when clinical and noninvasive data are discordant or inadequate.",
+            "ru": "У пациентов с ТР инвазивное измерение сердечного индекса, диастолического давления в правых отделах, давления в легочной артерии и легочного сосудистого сопротивления, а также правая вентрикулография могут быть полезны при расхождении или недостаточной информативности клинических и неинвазивных данных."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [3, 4, 5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

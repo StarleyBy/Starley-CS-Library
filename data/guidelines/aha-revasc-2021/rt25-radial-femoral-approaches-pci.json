@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt25-radial-femoral-approaches-pci",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 25",
+  "title": {
+    "en": "Recommendations for Radial and Femoral Approaches for PCI",
+    "ru": "Рекомендации по лучевому и бедренному доступам при проведении ЧКВ"
+  },
+  "tags": [
+    "access-site",
+    "radial-approach",
+    "femoral-approach",
+    "pci",
+    "acs",
+    "sihd",
+    "bleeding",
+    "vascular-complications"
+  ],
+  "sections": [
+    {
+      "id": "sec-radial-femoral-approaches-pci",
+      "title": {
+        "en": "Radial and Femoral Approaches for PCI",
+        "ru": "Лучевой и бедренный доступы при проведении ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r01-acs-pci-radial-preference-over-femoral",
+          "text": {
+            "en": "In patients with ACS undergoing PCI, a radial approach is indicated in preference to a femoral approach to reduce the risk of death, vascular complications, or bleeding.",
+            "ru": "У пациентов с ОКС (ACS), которым проводится ЧКВ, показан доступ через лучевую артерию предпочтительнее доступа через бедренную артерию для снижения риска смерти, сосудистых осложнений или кровотечений."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-sihd-pci-radial-approach-recommended",
+          "text": {
+            "en": "In patients with SIHD undergoing PCI, the radial approach is recommended to reduce access site bleeding and vascular complications.",
+            "ru": "У пациентов со стабильной ИБС (SIHD), которым проводится ЧКВ, рекомендуется доступ через лучевую артерию для снижения частоты кровотечений из места пункции и сосудистых осложнений."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [4, 5, 6, 7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t09-procedure-specific-risk-factors",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 9",
+  "type": "grid",
+  "title": {
+    "en": "Examples of Procedure-Specific Risk Factors for Interventions Not Incorporated Into Existing Risk Scores",
+    "ru": "Примеры специфических факторов риска процедур, не включенных в стандартные шкалы риска"
+  },
+  "tags": [
+    "vhd",
+    "risk-factors",
+    "procedure-specific",
+    "savr",
+    "tavi",
+    "mitral-surgery",
+    "teer",
+    "futility",
+    "frailty",
+    "comorbidities"
+  ],
+  "columns": [
+    {
+      "id": "savr",
+      "title": {
+        "en": "SAVR",
+        "ru": "SAVR (хирургическое ПАК)"
+      }
+    },
+    {
+      "id": "tavi",
+      "title": {
+        "en": "TAVI",
+        "ru": "TAVI (транскатетерное ПАК)"
+      }
+    },
+    {
+      "id": "surgical_mitral",
+      "title": {
+        "en": "Surgical Mitral Valve Repair or Replacement",
+        "ru": "Хирургическая пластика или протезирование МК"
+      }
+    },
+    {
+      "id": "teer",
+      "title": {
+        "en": "TEER",
+        "ru": "TEER (транскатетерная пластика МК)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-technical-or-anatomic",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 4,
+          "text": {
+            "en": "**Technical or anatomic**",
+            "ru": "**Технические или анатомические факторы**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "technical-anatomic-data",
+      "cells": [
+        {
+          "text": {
+            "en": "Prior mediastinal radiation\n\nAscending aortic calcification (porcelain aorta may be prohibitive)",
+            "ru": "Предшествующее лучевое облучение средостения\n\nКальциноз восходящей аорты («фарфоровая» аорта может быть непреодолимым противопоказанием)"
+          }
+        },
+        {
+          "text": {
+            "en": "Aorto-iliac occlusive disease precluding transfemoral approach\n\nAortic arch atherosclerosis (protuberant lesions)\n\nSevere MR or TR\n\nLow-lying coronary arteries\n\nBasal septal hypertrophy\n\nValve morphology (eg, bicuspid or unicuspid valve)\n\nExtensive LV outflow tract calcification",
+            "ru": "Окклюзирующее поражение аорто-подвздошного сегмента, исключающее трансфеморальный доступ\n\nАтеросклероз дуги аорты (выступающие атеромы)\n\nТяжелая МР или ТР\n\nНизкое отхождение устьев коронарных артерий\n\nБазальная гипертрофия межжелудочковой перегородки\n\nМорфология клапана (двустворчатый или одностворчатый клапан)\n\nВыраженный кальциноз выводного тракта ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "Prior sternotomy\n\nPrior mediastinal radiation\n\nAscending aortic calcification (porcelain aorta may be prohibitive)",
+            "ru": "Предшествующая стернотомия\n\nПредшествующее лучевое облучение средостения\n\nКальциноз восходящей аорты («фарфоровая» аорта может быть непреодолимым противопоказанием)"
+          }
+        },
+        {
+          "text": {
+            "en": "Multivalve disease\n\nValve morphology (eg, thickening, perforations, clefts, calcification, and stenosis)\n\nPrior mitral valve surgery",
+            "ru": "Многоклапанное поражение\n\nМорфология створок (утолщение, перфорации, расщепление, кальциноз, стеноз)\n\nПредшествующие операции на митральном клапане"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-comorbidities",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 4,
+          "text": {
+            "en": "**Comorbidities**",
+            "ru": "**Сопутствующие заболевания (коморбидность)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorbidities-data",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe COPD or home oxygen therapy\n\nPulmonary hypertension\n\nSevere RV dysfunction\n\nHepatic dysfunction\n\nFrailty^[a]",
+            "ru": "Тяжелая ХОБЛ или кислородотерапия на дому\n\nЛегочная гипертензия\n\nТяжелая дисфункция ПЖ\n\nПеченочная дисфункция\n\nСтарческая астения (хрупкость)^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe COPD or home oxygen therapy\n\nPulmonary hypertension\n\nSevere RV dysfunction\n\nHepatic dysfunction\n\nFrailty^[a]",
+            "ru": "Тяжелая ХОБЛ или кислородотерапия на дому\n\nЛегочная гипертензия\n\nТяжелая дисфункция ПЖ\n\nПеченочная дисфункция\n\nСтарческая астения (хрупкость)^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe COPD or home oxygen therapy\n\nPulmonary hypertension\n\nHepatic dysfunction\n\nFrailty^[a]",
+            "ru": "Тяжелая ХОБЛ или кислородотерапия на дому\n\nЛегочная гипертензия\n\nПеченочная дисфункция\n\nСтарческая астения (хрупкость)^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe COPD or home oxygen therapy\n\nPulmonary hypertension\n\nHepatic dysfunction\n\nFrailty^[a]",
+            "ru": "Тяжелая ХОБЛ или кислородотерапия на дому\n\nЛегочная гипертензия\n\nПеченочная дисфункция\n\nСтарческая астения (хрупкость)^[a]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-futility",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 4,
+          "text": {
+            "en": "**Futility**",
+            "ru": "**Бесперспективность вмешательства (futility)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "futility-data",
+      "cells": [
+        {
+          "text": {
+            "en": "STS score >15\n\nLife expectancy <1 y\n\nPoor candidate for rehabilitation",
+            "ru": "Оценка STS >15%\n\nОжидаемая продолжительность жизни <1 года\n\nНизкий потенциал для реабилитации"
+          }
+        },
+        {
+          "text": {
+            "en": "STS score >15\n\nLife expectancy <1 y\n\nPoor candidate for rehabilitation",
+            "ru": "Оценка STS >15%\n\nОжидаемая продолжительность жизни <1 года\n\nНизкий потенциал для реабилитации"
+          }
+        },
+        {
+          "text": {
+            "en": "STS score >15\n\nLife expectancy <1 y\n\nPoor candidate for rehabilitation",
+            "ru": "Оценка STS >15%\n\nОжидаемая продолжительность жизни <1 года\n\nНизкий потенциал для реабилитации"
+          }
+        },
+        {
+          "text": {
+            "en": "STS score >15\n\nLife expectancy <1 y\n\nPoor candidate for rehabilitation",
+            "ru": "Оценка STS >15%\n\nОжидаемая продолжительность жизни <1 года\n\nНизкий потенциал для реабилитации"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Validated frailty scores include the Katz Activities of Daily Living Score.",
+      "ru": "Валидированные шкалы старческой астении включают индекс повседневной активности Катца (Katz ADL)."
+    },
+    "b": {
+      "en": "COPD indicates chronic obstructive pulmonary disease; MR, mitral regurgitation; RV, right ventricular; SAVR, surgical aortic valve replacement; STS, Society of Thoracic Surgeons; TAVI, transcatheter aortic valve implantation; TEER, transcatheter edge-to-edge repair; and TR, tricuspid regurgitation.",
+      "ru": "COPD (ХОБЛ) — хроническая обструктивная болезнь легких; MR — митральная регургитация; RV — правый желудочек; SAVR — хирургическое протезирование аортального клапана; STS — Общество торакальных хирургов; TAVI — транскатетерная имплантация аортального клапана; TEER — транскатетерная пластика «край-в-край»; TR — трикуспидальная регургитация."
+    }
+  },
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

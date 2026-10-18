@@ -1,0 +1,228 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t08-risk-assessment-surgical-valve-procedures",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 8",
+  "type": "grid",
+  "title": {
+    "en": "Risk Assessment for Surgical Valve Procedures",
+    "ru": "Оценка риска хирургических клапанных вмешательств"
+  },
+  "tags": [
+    "vhd",
+    "surgical-risk",
+    "sts-score",
+    "savr",
+    "mitral-repair",
+    "frailty",
+    "prohibitive-risk",
+    "high-risk"
+  ],
+  "columns": [
+    {
+      "id": "criteria",
+      "title": {
+        "en": "Criteria",
+        "ru": "Критерии"
+      }
+    },
+    {
+      "id": "low_risk_savr",
+      "title": {
+        "en": "Low-Risk SAVR (Must Meet ALL Criteria in This Column)",
+        "ru": "Низкий риск SAVR (должны выполняться ВСЕ критерии в этой колонке)"
+      }
+    },
+    {
+      "id": "low_risk_mitral",
+      "title": {
+        "en": "Low-Risk Surgical Mitral Valve Repair for Primary MR (Must Meet ALL Criteria in This Column)",
+        "ru": "Низкий риск пластики МК при первичной МР (должны выполняться ВСЕ критерии в этой колонке)"
+      }
+    },
+    {
+      "id": "high_risk",
+      "title": {
+        "en": "High Surgical Risk (Any 1 Criterion in This Column)",
+        "ru": "Высокий хирургический риск (ЛЮБОЙ 1 критерий в этой колонке)"
+      }
+    },
+    {
+      "id": "prohibitive_risk",
+      "title": {
+        "en": "Prohibitive Surgical Risk (Any 1 Criterion in This Column)",
+        "ru": "Неприемлемый (крайне высокий) хирургический риск (ЛЮБОЙ 1 критерий в этой колонке)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sts-risk",
+      "cells": [
+        {
+          "text": {
+            "en": "STS-predicted risk of death^[a]",
+            "ru": "Расчетный риск смерти по шкале STS^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "<3%\nAND",
+            "ru": "<3%\nИ"
+          }
+        },
+        {
+          "text": {
+            "en": "<1%\nAND",
+            "ru": "<1%\nИ"
+          }
+        },
+        {
+          "text": {
+            "en": ">8%\nOR",
+            "ru": ">8%\nИЛИ"
+          }
+        },
+        {
+          "text": {
+            "en": "Predicted risk of death or major morbidity (all-cause) >50% at 30 d\nOR",
+            "ru": "Расчетный риск смерти или тяжелых осложнений (от любых причин) >50% через 30 дней\nИЛИ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "frailty",
+      "cells": [
+        {
+          "text": {
+            "en": "Frailty^[b]",
+            "ru": "Старческая астения (хрупкость)^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "None\nAND",
+            "ru": "Отсутствует\nИ"
+          }
+        },
+        {
+          "text": {
+            "en": "None\nAND",
+            "ru": "Отсутствует\nИ"
+          }
+        },
+        {
+          "text": {
+            "en": "≤1 Indice (moderate to severe)\nOR",
+            "ru": "≤1 признак (от умеренной до тяжелой степени)\nИЛИ"
+          }
+        },
+        {
+          "text": {
+            "en": "≥2 Indices (moderate to severe)\nOR",
+            "ru": "≥2 признаков (от умеренной до тяжелой степени)\nИЛИ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "organ-compromise",
+      "cells": [
+        {
+          "text": {
+            "en": "Cardiac or other major organ system compromise not to be improved postoperatively^[c]",
+            "ru": "Сердечная или иная органная недостаточность, не устранимая после операции^[c]"
+          }
+        },
+        {
+          "text": {
+            "en": "None\nAND",
+            "ru": "Отсутствует\nИ"
+          }
+        },
+        {
+          "text": {
+            "en": "None\nAND",
+            "ru": "Отсутствует\nИ"
+          }
+        },
+        {
+          "text": {
+            "en": "1 to 2 Organ systems\nOR",
+            "ru": "1–2 органные системы\nИЛИ"
+          }
+        },
+        {
+          "text": {
+            "en": "≥3 Organ systems\nOR",
+            "ru": "≥3 органных систем\nИЛИ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "procedure-impediment",
+      "cells": [
+        {
+          "text": {
+            "en": "Procedure-specific impediment^[d]",
+            "ru": "Специфические анатомические / процедурные препятствия^[d]"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        },
+        {
+          "text": {
+            "en": "Possible procedure-specific impediment",
+            "ru": "Возможное процедурное препятствие"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe procedure-specific impediment",
+            "ru": "Тяжелое непреодолимое процедурное препятствие"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Use of the STS Predicted Risk of Mortality (http://riskcalc.sts.org/stswebriskcalc/#/) to predict risk in a given institution with reasonable reliability is appropriate only if institutional outcomes are within 1 standard deviation of the STS average observed/expected mortality ratio for the procedure in question. The EUROSCORE II risk calculator may also be considered for use and is available at http://www.euroscore.org/calc.html.",
+      "ru": "Использование калькулятора STS Predicted Risk of Mortality для прогнозирования риска в конкретном учреждении целесообразно только при совпадении результатов центра со средней летальностью STS (в пределах 1 SD). Калькулятор EuroSCORE II также может использоваться."
+    },
+    "b": {
+      "en": "Seven frailty indices: Katz Activities of Daily Living (independence in feeding, bathing, dressing, transferring, toileting, and urinary continence) plus independence in ambulation (no walking aid or assistance required, or completion of a 5-m walk in <6 s). Other scoring systems can be applied to calculate no, mild, or moderate to severe frailty.",
+      "ru": "Семь показателей хрупкости: шкала Катца (независимость в приеме пищи, купании, одевании, перемещении, посещении туалета и удержании мочи) плюс независимость в ходьбе (без вспомогательных средств или прохождение 5 м за <6 с). Могут применяться и другие шкалы."
+    },
+    "c": {
+      "en": "Examples of major organ system compromise include cardiac dysfunction (severe LV systolic or diastolic dysfunction or RV dysfunction, fixed pulmonary hypertension); kidney dysfunction (chronic kidney disease, stage 3 or worse); pulmonary dysfunction (FEV1 <50% or DLCO <50% of predicted); central nervous system dysfunction (dementia, Alzheimer's disease, Parkinson's disease, cerebrovascular accident with persistent physical limitation); gastrointestinal dysfunction (Crohn's disease, ulcerative colitis, nutritional impairment, or serum albumin <3.0); cancer (active malignancy); and liver dysfunction (any history of cirrhosis, variceal bleeding, or elevated INR in the absence of VKA therapy).",
+      "ru": "Примеры тяжелой органной дисфункции: сердечная дисфункция (тяжелая систолическая/диастолическая дисфункция ЛЖ или ПЖ, фиксированная ЛГ); дисфункция почек (ХБП 3 стадии и выше); дисфункция легких (ОФВ1 <50% или DLCO <50%); дисфункция ЦНС (деменция, болезнь Альцгеймера, болезнь Паркинсона, инсульт со стойким дефицитом); поражение ЖКТ (болезнь Крона, НЯК, нутритивная недостаточность, альбумин <3,0 г/дл); активный рак; поражение печени (цирроз, кровотечение из варикозных вен, спонтанное повышение МНО без АВК)."
+    },
+    "d": {
+      "en": "Examples of procedure-specific impediments include presence of tracheostomy, heavily calcified (porcelain) ascending aorta, chest malformation, arterial coronary graft adherent to posterior chest wall, and radiation damage.",
+      "ru": "Примеры специфических процедурных препятствий включают наличие трахеостомы, выраженный кальциноз («фарфоровая») восходящей аорты, деформацию грудной клетки, прилежание артериального коронарного шунта к задней поверхности грудины, лучевые поражения."
+    },
+    "e": {
+      "en": "DLCO indicates diffusion capacity for carbon dioxide; FEV1, forced expiratory volume in 1 s; INR, international normalized ratio; LV, left ventricular; MR, mitral regurgitation; RV, right ventricular; SAVR, surgical aortic valve replacement; STS, Society of Thoracic Surgeons; and VKA, vitamin K antagonist.",
+      "ru": "DLCO — диффузионная способность легких по оксиду углерода; FEV1 — объем форсированного выдоха за 1 с; INR — международное нормализованное отношение; LV — левый желудочек; MR — митральная регургитация; RV — правый желудочек; SAVR — хирургическое протезирование аортального клапана; STS — Общество торакальных хирургов; VKA — антагонист витамина К."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

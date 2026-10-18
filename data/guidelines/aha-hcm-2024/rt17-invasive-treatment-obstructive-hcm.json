@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt17-invasive-treatment-obstructive-hcm",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 17",
+  "title": {
+    "en": "Recommendations for Invasive Treatment of Symptomatic Patients With Obstructive HCM",
+    "ru": "Рекомендации по инвазивному лечению симптомных пациентов с обструктивной ГКМП"
+  },
+  "tags": [
+    "hcm",
+    "obstructive-hcm",
+    "septal-reduction-therapy",
+    "srt",
+    "surgical-myectomy",
+    "alcohol-septal-ablation",
+    "mitral-valve-replacement",
+    "pulmonary-hypertension",
+    "nyha-ii"
+  ],
+  "sections": [
+    {
+      "id": "sec-invasive-treatment-obstructive-hcm",
+      "title": {
+        "en": "Invasive Treatment of Symptomatic Patients With Obstructive HCM",
+        "ru": "Инвазивное лечение симптомных пациентов с обструктивной ГКМП"
+      },
+      "rows": [
+        {
+          "id": "r01-srt-in-eligible-patients-experienced-centers",
+          "text": {
+            "en": "In patients with obstructive HCM who remain symptomatic despite GDMT, SRT in eligible patients^[a] performed at experienced HCM centers^[b] is recommended for relieving LVOTO (Tables 4 and 5).",
+            "ru": "У пациентов с обструктивной ГКМП, сохраняющих симптомы несмотря на ОМТ, рекомендуется проведение СРТ/SRT у подходящих кандидатов^[a] в опытных центрах ГКМП^[b] для устранения обструкции ВТЛЖ (Таблицы 4 и 5)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-surgical-myectomy-associated-cardiac-disease",
+          "text": {
+            "en": "In symptomatic patients with obstructive HCM who have associated cardiac disease requiring surgical treatment (eg, associated anomalous papillary muscle, markedly elongated anterior mitral leaflet, intrinsic mitral valve disease, multivessel CAD, valvular aortic stenosis), surgical myectomy, performed at experienced HCM centers^[b] is recommended (Tables 4 and 5).",
+            "ru": "У симптомных пациентов с обструктивной ГКМП, имеющих сопутствующую кардиальную патологию, требующую хирургического лечения (например, аномальная сосочковая мышца, выраженно удлиненная передняя створка МК, клапанная патология МК, многососудистая ИБС, аортальный стеноз), рекомендуется хирургическая миэктомия в опытных центрах ГКМП^[b] (Таблицы 4 и 5)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [4, 5, 6, 7]
+        },
+        {
+          "id": "r03-alcohol-septal-ablation-surgical-contraindications",
+          "text": {
+            "en": "In adult patients with obstructive HCM who remain severely symptomatic, despite GDMT and in whom surgery is contraindicated or the risk is considered unacceptable because of serious comorbidities or advanced age, alcohol septal ablation in eligible patients^[a] performed at experienced HCM centers^[b] is recommended (Tables 4 and 5).",
+            "ru": "У взрослых пациентов с обструктивной ГКМП, сохраняющих выраженные симптомы несмотря на ОМТ, при наличии противопоказаний к операции или неприемлемом риске вследствие тяжелой коморбидности или пожилого возраста, рекомендуется спиртовая септальная аблация у подходящих кандидатов^[a] в опытных центрах ГКМП^[b] (Таблицы 4 и 5)."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [8, 9, 10]
+        },
+        {
+          "id": "r04-earlier-nyha-class-ii-myectomy-additional-factors",
+          "text": {
+            "en": "In patients with obstructive HCM, earlier (NYHA class II) surgical myectomy performed at comprehensive HCM centers (Tables 4 and 5) may be reasonable in the presence of additional clinical factors, including:",
+            "ru": "У пациентов с обструктивной ГКМП более ранняя (II ФК по NYHA) хирургическая миэктомия в экспертных многопрофильных центрах ГКМП (Таблицы 4 и 5) может быть обоснованной при наличии дополнительных клинических факторов, включая:"
+          },
+          "bullets": [
+            {
+              "text": {
+                "en": "Severe and progressive pulmonary hypertension thought to be attributable to LVOTO or associated MR;",
+                "ru": "Тяжелую прогрессирующую легочную гипертензию, предположительно обусловленную обструкцией ВТЛЖ или сопутствующей митральной регургитацией;"
+              }
+            },
+            {
+              "text": {
+                "en": "Left atrial enlargement with ≥1 episodes of symptomatic AF;",
+                "ru": "Дилатацию левого предсердия с ≥1 эпизодом симптомной ФП;"
+              }
+            },
+            {
+              "text": {
+                "en": "Poor functional capacity attributable to LVOTO as documented on treadmill exercise testing;",
+                "ru": "Низкую толерантность к нагрузке вследствие обструкции ВТЛЖ по данным тредмил-теста;"
+              }
+            },
+            {
+              "text": {
+                "en": "Children and young adults with very high resting LVOT gradients (>100 mm Hg).",
+                "ru": "Детей и молодых взрослых с очень высокими градиентами в ВТЛЖ в покое (>100 мм рт. ст.)."
+              }
+            }
+          ],
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [3, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+        },
+        {
+          "id": "r05-srt-alternative-escalation-medical-therapy",
+          "text": {
+            "en": "For symptomatic patients with obstructive HCM, SRT in eligible patients^[a] performed at experienced HCM centers^[b] (Tables 4 and 5), may be considered as an alternative to escalation of medical therapy after shared decision-making including risks and benefits of all treatment options.",
+            "ru": "У симптомных пациентов с обструктивной ГКМП проведение СРТ/SRT у подходящих кандидатов^[a] в опытных центрах ГКМП^[b] (Таблицы 4 и 5) можно рассмотреть в качестве альтернативы эскалации медикаментозной терапии после совместного принятия решения с обсуждением рисков и пользы всех вариантов лечения."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [1, 16, 21, 22, 23, 24, 25]
+        },
+        {
+          "id": "r06-no-srt-asymptomatic-normal-exercise",
+          "text": {
+            "en": "For patients with HCM who are asymptomatic and have normal exercise capacity, SRT is not recommended.",
+            "ru": "У пациентов с ГКМП при отсутствии симптомов и нормальной толерантности к физической нагрузке выполнение СРТ/SRT не рекомендуется."
+          },
+          "class": "III-harm",
+          "level": "C-LD",
+          "refs": [13, 21]
+        },
+        {
+          "id": "r07-no-mvr-solely-for-lvoto",
+          "text": {
+            "en": "For symptomatic patients with obstructive HCM in whom SRT is an option, mitral valve replacement should not be performed for the sole purpose of relief of LVOTO.",
+            "ru": "У симптомных пациентов с обструктивной ГКМП, являющихся кандидатами на СРТ, протезирование митрального клапана исключительно с целью устранения обструкции ВТЛЖ не должно выполняться."
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [26, 27]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "General eligibility criteria for septal reduction therapy: (a) clinical: severe dyspnea or chest pain (usually NYHA functional class III or class IV), or occasionally other exertional symptoms (eg, syncope, near syncope), when attributable to LVOTO, that interferes with everyday activity or quality of life despite optimal medical therapy; (b) hemodynamic: dynamic LVOT gradient at rest or with physiologic provocation with approximate peak gradient of ≥50 mm Hg, associated with septal hypertrophy and SAM of mitral valve; and (c) anatomic: targeted anterior septal thickness sufficient to perform the procedure safely and effectively in the judgment of the individual operator.",
+      "ru": "Общие критерии отбора на септальную редукционную терапию: (a) клинические: выраженная одышка или боль в груди (обычно III–IV ФК по NYHA), либо другие симптомы при нагрузке (синкопе, пресинкопе), обусловленные обструкцией ВТЛЖ и нарушающие качество жизни несмотря на ОМТ; (b) гемодинамические: динамический градиент в ВТЛЖ в покое или при провокации с пиковым значением ≥50 мм рт. ст., ассоциированный с гипертрофией перегородки и САМ-синдромом митрального клапана; (c) анатомические: достаточная толщина передне-перегородочного сегмента для безопасного и эффективного выполнения процедуры по оценке оператора."
+    },
+    "b": {
+      "en": "Comprehensive or primary HCM centers with demonstrated excellence in clinical outcomes for these procedures (Tables 4 and 5).",
+      "ru": "Экспертные многопрофильные или первичные центры ГКМП с доказанными высокими клиническими результатами данных вмешательств (Таблицы 4 и 5)."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

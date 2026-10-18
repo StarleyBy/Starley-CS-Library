@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt32-medical-therapy-secondary-mr",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 32",
+  "title": {
+    "en": "Recommendations for Medical Therapy for Secondary MR",
+    "ru": "Рекомендации по медикаментозной терапии вторичной митральной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "mitral-regurgitation",
+    "secondary-mr",
+    "functional-mr",
+    "medical-therapy",
+    "gdmt",
+    "heart-failure",
+    "hfref",
+    "biventricular-pacing",
+    "crt"
+  ],
+  "sections": [
+    {
+      "id": "sec-medical-therapy-secondary-mr",
+      "title": {
+        "en": "Medical Therapy for Secondary MR",
+        "ru": "Медикаментозная терапия вторичной митральной регургитации"
+      },
+      "rows": [
+        {
+          "id": "r01-gdmt-hf-reduced-lvef-biventricular-pacing",
+          "text": {
+            "en": "Patients with chronic severe secondary MR (Stages C and D) and HF with reduced LVEF should receive standard GDMT for HF, including ACE inhibitors, ARBs, beta blockers, aldosterone antagonists, and/or sacubitril/valsartan, and biventricular pacing as indicated.",
+            "ru": "Пациенты с хронической тяжелой вторичной МР (Стадии C и D) и сердечной недостаточностью со сниженной ФВ ЛЖ должны получать стандартную ОМТ (GDMT) сердечной недостаточности, включая ингибиторы АПФ, БРА, бета-блокаторы, антагонисты альдостерона и/или сакубитрил/валсартан, а также бивентрикулярную стимуляцию (СРТ) по показаниям."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        },
+        {
+          "id": "r02-hf-cardiologist-primary-mdt-member",
+          "text": {
+            "en": "In patients with chronic severe secondary MR and HF with reduced LVEF, a cardiologist expert in the management of patients with HF and LV systolic dysfunction should be the primary MDT member responsible for implementing and monitoring optimal GDMT.",
+            "ru": "У пациентов с хронической тяжелой вторичной МР и СН со сниженной ФВ ЛЖ кардиолог-эксперт по ведению пациентов с сердечной недостаточностью и систолической дисфункцией ЛЖ должен являться ключевым членом мультидисциплинарной команды (MDT), ответственным за инициацию и мониторинг оптимальной ОМТ."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [5, 12]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

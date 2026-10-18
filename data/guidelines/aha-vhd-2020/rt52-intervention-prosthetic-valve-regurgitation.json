@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt52-intervention-prosthetic-valve-regurgitation",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 52",
+  "title": {
+    "en": "Recommendations for Intervention for Prosthetic Valve Regurgitation",
+    "ru": "Рекомендации по вмешательствам при регургитации клапанного протеза"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-valves",
+    "prosthetic-valve-regurgitation",
+    "paravalvular-leak",
+    "hemolysis",
+    "heart-failure",
+    "reoperation",
+    "percutaneous-repair",
+    "valve-in-valve",
+    "viv",
+    "comprehensive-valve-center"
+  ],
+  "sections": [
+    {
+      "id": "sec-intervention-prosthetic-valve-regurgitation",
+      "title": {
+        "en": "Intervention for Prosthetic Valve Regurgitation",
+        "ru": "Вмешательства при регургитации клапанного протеза"
+      },
+      "rows": [
+        {
+          "id": "r01-intractable-hemolysis-or-hf-surgery",
+          "text": {
+            "en": "In patients with intractable hemolysis or HF attributable to prosthetic transvalvular or paravalvular leak, surgery is recommended unless surgical risk is high or prohibitive.",
+            "ru": "У пациентов с резистентным гемолизом или сердечной недостаточностью, обусловленными трансвальвулярной или парапротезной фистулой (регургитацией), рекомендуется хирургическое вмешательство, за исключением случаев высокого или неприемлемого хирургического риска."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-asymptomatic-severe-regurgitation-surgery",
+          "text": {
+            "en": "In asymptomatic patients with severe prosthetic regurgitation and low operative risk, surgery is reasonable.",
+            "ru": "У бессимптомных пациентов с тяжелой протезной регургитацией и низким операционным риском проведение хирургического вмешательства оправдано."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r03-high-risk-paravalvular-leak-percutaneous-repair",
+          "text": {
+            "en": "In patients with prosthetic paravalvular regurgitation with the following: 1) either intractable hemolysis or NYHA class III or IV symptoms and 2) who are at high or prohibitive surgical risk and 3) have anatomic features suitable for catheter-based therapy, percutaneous repair of paravalvular leak is reasonable when performed at a Comprehensive Valve Center.",
+            "ru": "У пациентов с парапротезной регургитацией при соблюдении следующих условий: 1) наличие резистентного гемолиза или симптомов III–IV ФК по NYHA, 2) высокий или неприемлемый хирургический риск и 3) анатомические характеристики, подходящие для катетерного вмешательства, оправдано чрескожное закрытие парапротезной фистулы при условии его выполнения в экспертном клапанном центре (Comprehensive Valve Center)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [5, 6, 7, 8, 9]
+        },
+        {
+          "id": "r04-bioprosthetic-regurgitation-high-risk-viv",
+          "text": {
+            "en": "For patients with severe HF symptoms caused by bioprosthetic valve regurgitation who are at high to prohibitive surgical risk, a transcatheter ViV procedure is reasonable when performed at a Comprehensive Valve Center.",
+            "ru": "У пациентов с выраженными симптомами сердечной недостаточности, вызванными регургитацией на биологическом протезе клапана, при высоком или неприемлемом хирургическом риске оправдано проведение транскатетерной процедуры «клапан-в-клапан» (ViV) при условии ее выполнения в экспертном клапанном центре (Comprehensive Valve Center)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [10, 11, 12]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

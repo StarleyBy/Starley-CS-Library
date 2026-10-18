@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt16-pharmacological-management-obstructive-hcm",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 16",
+  "title": {
+    "en": "Recommendations for Pharmacological Management of Symptomatic Patients With Obstructive HCM",
+    "ru": "Рекомендации по медикаментозной терапии симптомных пациентов с обструктивной ГКМП"
+  },
+  "tags": [
+    "hcm",
+    "obstructive-hcm",
+    "pharmacotherapy",
+    "beta-blockers",
+    "calcium-channel-blockers",
+    "verapamil",
+    "diltiazem",
+    "myosin-inhibitors",
+    "mavacamten",
+    "disopyramide",
+    "phenylephrine",
+    "diuretics"
+  ],
+  "sections": [
+    {
+      "id": "sec-pharmacological-management-obstructive-hcm",
+      "title": {
+        "en": "Pharmacological Management of Symptomatic Patients With Obstructive HCM",
+        "ru": "Фармакотерапия симптомных пациентов с обструктивной ГКМП"
+      },
+      "rows": [
+        {
+          "id": "r01-nonvasodilating-beta-blockers",
+          "text": {
+            "en": "In patients with obstructive HCM and symptoms^[a] attributable to LVOTO, nonvasodilating beta blockers, titrated to effectiveness or maximally tolerated doses, are recommended.",
+            "ru": "У пациентов с обструктивной ГКМП и симптомами^[a], обусловленными обструкцией ВТЛЖ (LVOTO), рекомендуются невазодилатирующие бета-блокаторы с титрацией до достижения эффекта или максимально переносимых доз."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-nondihydropyridine-ccb-verapamil-diltiazem",
+          "text": {
+            "en": "In patients with obstructive HCM and symptoms^[a] attributable to LVOTO, for whom beta blockers are ineffective or not tolerated, substitution with nondihydropyridine calcium channel blockers (eg, verapamil, diltiazem)^[b] is recommended.",
+            "ru": "У пациентов с обструктивной ГКМП и симптомами^[a], обусловленными обструкцией ВТЛЖ, при неэффективности или непереносимости бета-блокаторов рекомендуется их замена на недигидропиридиновые блокаторы кальциевых каналов (например, верапамил, дилтиазем)^[b]."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [6, 7, 8, 9]
+        },
+        {
+          "id": "r03-add-myosin-inhibitor-disopyramide-srt",
+          "text": {
+            "en": "For patients with obstructive HCM who have persistent symptoms^[a] attributable to LVOTO despite beta blockers or nondihydropyridine calcium channel blockers, adding a myosin inhibitor (adult patients only), or disopyramide (in combination with an atrioventricular nodal blocking agent), or SRT performed at experienced centers,^[c] is recommended.",
+            "ru": "У пациентов с обструктивной ГКМП, имеющих сохраняющиеся симптомы^[a], обусловленные обструкцией ВТЛЖ, несмотря на терапию бета-блокаторами или недигидропиридиновыми БКК, рекомендуется добавление ингибитора миозина (только у взрослых пациентов) либо дизопирамида (в комбинации с препаратом, замедляющим АВ-проведение) или выполнение СРТ в опытных центрах^[c]."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [7, 8, 9, 10, 11, 12, 13, 14]
+        },
+        {
+          "id": "r04-phenylephrine-acute-hypotension",
+          "text": {
+            "en": "For patients with obstructive HCM and acute hypotension who do not respond to fluid administration, intravenous phenylephrine (or other vasoconstrictors without inotropic activity), alone or in combination with beta-blocking drugs, is recommended.",
+            "ru": "У пациентов с обструктивной ГКМП и острой артериальной гипотензией, рефрактерной к инфузионной терапии, рекомендуется внутривенное введение фенилэфрина (или других вазоконстрикторов без инотропной активности) изолированно или в комбинации с бета-адреноблокаторами."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [15]
+        },
+        {
+          "id": "r05-cautious-low-dose-oral-diuretics-volume-overload",
+          "text": {
+            "en": "For patients with obstructive HCM and persistent dyspnea with clinical evidence of volume overload and high left-sided filling pressures despite other HCM GDMT, cautious use of low-dose oral diuretics may be considered.",
+            "ru": "У пациентов с обструктивной ГКМП и сохраняющейся одышкой с клиническими признаками гиперволемии и высокого давления наполнения левых отделов сердца, несмотря на другую ОМТ ГКМП, можно рассмотреть осторожное применение низких доз пероральных диуретиков."
+          },
+          "class": "IIb",
+          "level": "C-EO"
+        },
+        {
+          "id": "r06-discontinuation-vasodilators-digoxin",
+          "text": {
+            "en": "For patients with obstructive HCM, discontinuation of vasodilators (eg, angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, dihydropyridine calcium channel blockers) or digoxin may be reasonable because these agents can worsen symptoms caused by dynamic outflow tract obstruction.",
+            "ru": "У пациентов с обструктивной ГКМП отмена вазодилататоров (например, ингибиторов АПФ, блокаторов рецепторов ангиотензина, дигидропиридиновых БКК) или дигоксина может быть обоснованной, поскольку эти препараты способны усиливать симптомы, вызванные динамической обструкцией выходного тракта."
+          },
+          "class": "IIb",
+          "level": "C-EO"
+        },
+        {
+          "id": "r07-verapamil-harmful-severe-dyspnea-infants",
+          "text": {
+            "en": "For patients with obstructive HCM and severe dyspnea at rest, hypotension, very high resting gradients (eg, >100 mm Hg), as well as all children <6 weeks of age, verapamil is potentially harmful.",
+            "ru": "У пациентов с обструктивной ГКМП при тяжелой одышке в покое, артериальной гипотензии, очень высоких градиентах покоя (например, >100 мм рт. ст.), а также у всех детей в возрасте <6 недель применение верапамила потенциально вредно."
+          },
+          "class": "III-harm",
+          "level": "C-LD",
+          "refs": [4, 16]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Symptoms include effort-related dyspnea or chest pain and occasionally other exertional symptoms (eg, syncope, near syncope) that are attributed to LVOTO and interfere with everyday activity or quality of life.",
+      "ru": "Симптомы включают одышку при нагрузке или боль в груди, а также эпизодические симптомы при напряжении (синкопе, пресинкопе), обусловленные обструкцией ВТЛЖ и нарушающие повседневную активность или качество жизни."
+    },
+    "b": {
+      "en": "Level of Evidence is B-NR for verapamil and C-LD for diltiazem.",
+      "ru": "Уровень доказательности (LOE): B-NR для верапамила и C-LD для дилтиазема."
+    },
+    "c": {
+      "en": "Comprehensive or primary HCM centers with demonstrated excellence in clinical outcomes for these procedures (Tables 4 and 5).",
+      "ru": "Экспертные многопрофильные или первичные центры ГКМП с подтвержденными высокими клиническими результатами данных процедур (Таблицы 4 и 5)."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

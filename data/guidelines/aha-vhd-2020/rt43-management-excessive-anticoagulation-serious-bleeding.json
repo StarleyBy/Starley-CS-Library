@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt43-management-excessive-anticoagulation-serious-bleeding",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 43",
+  "title": {
+    "en": "Recommendations for Management of Excessive Anticoagulation and Serious Bleeding in Patients With Prosthetic Valves",
+    "ru": "Рекомендации по ведению пациентов с протезированными клапанами при избыточной антикоагуляции и тяжелых кровотечениях"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-valves",
+    "bleeding",
+    "excessive-anticoagulation",
+    "anticoagulation-reversal",
+    "prothrombin-complex-concentrate",
+    "pcc",
+    "vitamin-k",
+    "idarucizumab",
+    "andexanet-alfa",
+    "dabigatran",
+    "supratherapeutic-inr"
+  ],
+  "sections": [
+    {
+      "id": "sec-management-excessive-anticoagulation-serious-bleeding",
+      "title": {
+        "en": "Management of Excessive Anticoagulation and Serious Bleeding in Patients With Prosthetic Valves",
+        "ru": "Ведение пациентов при избыточной антикоагуляции и тяжелых кровотечениях"
+      },
+      "rows": [
+        {
+          "id": "r01-mechanical-valves-uncontrollable-bleeding-4-factor-pcc",
+          "text": {
+            "en": "For patients with mechanical valves and uncontrollable bleeding who require immediate reversal of anticoagulation, administration of 4-factor prothrombin complex (or its activated form) is reasonable.",
+            "ru": "У пациентов с механическими клапанами при неконтролируемом кровотечении, требующем немедленной нейтрализации антикоагулянтного эффекта, оправдано введение 4-факторного концентрата протромбинового комплекса (или его активированной формы)."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": []
+        },
+        {
+          "id": "r02-adjunctive-iv-vitamin-k-if-no-vka-for-7-days",
+          "text": {
+            "en": "For patients with mechanical valves and uncontrollable bleeding who have received 4-factor prothrombin concentrate complex, adjunctive use of intravenous vitamin K is reasonable if resumption of VKA therapy is not anticipated for 7 days.",
+            "ru": "У пациентов с механическими клапанами и неконтролируемым кровотечением, получивших 4-факторный концентрат протромбинового комплекса, оправдано дополнительное внутривенное введение витамина K, если возобновление терапии АВК не планируется в течение 7 дней."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": []
+        },
+        {
+          "id": "r03-doac-reversal-idarucizumab-andexanet-alfa",
+          "text": {
+            "en": "For patients with bioprosthetic valves or annuloplasty rings who are receiving a direct oral anticoagulant and who require immediate reversal of anticoagulation because of uncontrollable bleeding, treatment with idarucizumab (for dabigatran) or andexanet alfa (for anti-Xa agents) is reasonable.",
+            "ru": "У пациентов с биологическими клапанами или кольцами для аннулопластики, получающих прямой пероральный антикоагулянт (ПОАК), при необходимости немедленной нейтрализации антикоагуляции из-за неконтролируемого кровотечения оправдано применение идаруцизумаба (для дабигатрана) или андексанета альфа (для ингибиторов фактора Ха)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r04-supratherapeutic-inr-no-active-bleeding-oral-vitamin-k-uncertain",
+          "text": {
+            "en": "For patients with a mechanical prosthetic valve and supratherapeutic INR (>5.0) who are not actively bleeding, the benefit of individualized treatment with oral vitamin K, in addition to temporary withdrawal of the VKA, is uncertain.",
+            "ru": "У пациентов с механическим клапанным протезом и супратерапевтическим МНО (>5,0) при отсутствии активного кровотечения польза индивидуализированного назначения витамина K перорально в дополнение к временной отмене АВК остается неопределенной."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

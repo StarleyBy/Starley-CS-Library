@@ -1,0 +1,381 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.t04-factors-heart-team",
+  "guidelineId": "aha-revasc-2021",
+  "number": "Table 4",
+  "type": "grid",
+  "title": {
+    "en": "Factors for Consideration by the Heart Team",
+    "ru": "Факторы, подлежащие рассмотрению мультидисциплинарной кардиологической командой (Heart Team)"
+  },
+  "tags": [
+    "heart-team",
+    "coronary-anatomy",
+    "comorbidities",
+    "syntax-score",
+    "risk-assessment",
+    "revascularization"
+  ],
+  "columns": [
+    {
+      "id": "factor",
+      "title": {
+        "en": "Factor",
+        "ru": "Фактор"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-coronary-anatomy",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Coronary Anatomy**",
+            "ru": "**Анатомия коронарных артерий**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ca-left-main",
+      "cells": [
+        {
+          "text": {
+            "en": "Left main disease",
+            "ru": "Поражение ствола левой коронарной артерии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ca-multivessel",
+      "cells": [
+        {
+          "text": {
+            "en": "Multivessel disease",
+            "ru": "Многососудистое поражение"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ca-high-complexity",
+      "cells": [
+        {
+          "text": {
+            "en": "High anatomic complexity (ie, bifurcation disease, high SYNTAX score)",
+            "ru": "Высокая анатомическая сложность (бифуркационные поражения, высокий балл по шкале SYNTAX)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-comorbidities",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Comorbidities**",
+            "ru": "**Сопутствующие заболевания**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorb-diabetes",
+      "cells": [
+        {
+          "text": {
+            "en": "Diabetes",
+            "ru": "Сахарный диабет"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorb-systolic-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "Systolic dysfunction",
+            "ru": "Систолическая дисфункция левого желудочка"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorb-coagulopathy",
+      "cells": [
+        {
+          "text": {
+            "en": "Coagulopathy",
+            "ru": "Коагулопатия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorb-vhd",
+      "cells": [
+        {
+          "text": {
+            "en": "Valvular heart disease",
+            "ru": "Клапанные пороки сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorb-frailty",
+      "cells": [
+        {
+          "text": {
+            "en": "Frailty",
+            "ru": "Старческая астения (хрупкость)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorb-malignancy",
+      "cells": [
+        {
+          "text": {
+            "en": "Malignant neoplasm",
+            "ru": "Злокачественные новообразования"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorb-esrd",
+      "cells": [
+        {
+          "text": {
+            "en": "End-stage renal disease",
+            "ru": "Терминальная стадия почечной недостаточности"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorb-copd",
+      "cells": [
+        {
+          "text": {
+            "en": "Chronic obstructive pulmonary disease",
+            "ru": "Хроническая обструктивная болезнь легких (ХОБЛ)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorb-immunosuppression",
+      "cells": [
+        {
+          "text": {
+            "en": "Immunosuppression",
+            "ru": "Иммуносупрессия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorb-neuro-disorders",
+      "cells": [
+        {
+          "text": {
+            "en": "Debilitating neurological disorders",
+            "ru": "Инвалидизирующие неврологические расстройства"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorb-liver-disease",
+      "cells": [
+        {
+          "text": {
+            "en": "Liver disease/cirrhosis",
+            "ru": "Заболевания печени / цирроз"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorb-prior-cva",
+      "cells": [
+        {
+          "text": {
+            "en": "Prior CVA",
+            "ru": "Перенесенное ОНМК (инсульт)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorb-porcelain-aorta",
+      "cells": [
+        {
+          "text": {
+            "en": "Calcified/porcelain aorta",
+            "ru": "Кальциноз аорты / «фарфоровая» аорта"
+          }
+        }
+      ]
+    },
+    {
+      "id": "comorb-aortic-aneurysm",
+      "cells": [
+        {
+          "text": {
+            "en": "Aortic aneurysm",
+            "ru": "Аневризма аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-procedural-factors",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Procedural Factors**",
+            "ru": "**Процедурные факторы**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "proc-local-regional-outcomes",
+      "cells": [
+        {
+          "text": {
+            "en": "Local and regional outcomes",
+            "ru": "Локальные и региональные клинические исходы"
+          }
+        }
+      ]
+    },
+    {
+      "id": "proc-access-site-pci",
+      "cells": [
+        {
+          "text": {
+            "en": "Access site for PCI",
+            "ru": "Сосудистый доступ для ЧКВ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "proc-surgical-risk",
+      "cells": [
+        {
+          "text": {
+            "en": "Surgical risk",
+            "ru": "Хирургический риск"
+          }
+        }
+      ]
+    },
+    {
+      "id": "proc-pci-risk",
+      "cells": [
+        {
+          "text": {
+            "en": "PCI risk",
+            "ru": "Риск ЧКВ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-patient-factors",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Patient Factors**",
+            "ru": "**Факторы со стороны пациента**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pat-unstable-shock",
+      "cells": [
+        {
+          "text": {
+            "en": "Unstable presentation or shock",
+            "ru": "Нестабильное клиническое состояние или кардиогенный шок"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pat-preferences",
+      "cells": [
+        {
+          "text": {
+            "en": "Patient preferences",
+            "ru": "Предпочтения пациента"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pat-dapt-adherence",
+      "cells": [
+        {
+          "text": {
+            "en": "Inability or unwillingness to adhere to DAPT",
+            "ru": "Невозможность или нежелание соблюдать режим ДАТТ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pat-social-support",
+      "cells": [
+        {
+          "text": {
+            "en": "Patient social support",
+            "ru": "Социальная поддержка пациента"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pat-religious-beliefs",
+      "cells": [
+        {
+          "text": {
+            "en": "Religious beliefs",
+            "ru": "Религиозные убеждения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pat-education-understanding",
+      "cells": [
+        {
+          "text": {
+            "en": "Patient education, knowledge, and understanding",
+            "ru": "Уровень информированности, знаний и понимания пациента"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 31
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t03-evaluation-patients-known-suspected-vhd",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 3",
+  "type": "grid",
+  "title": {
+    "en": "Evaluation of Patients With Known or Suspected VHD",
+    "ru": "Обследование пациентов с известным или подозреваемым клапанным пороком сердца"
+  },
+  "tags": [
+    "vhd",
+    "evaluation",
+    "tte",
+    "tee",
+    "cmr",
+    "pet-ct",
+    "stress-testing",
+    "catheterization",
+    "biomarkers",
+    "procedural-risk",
+    "preprocedural-testing",
+    "tavi"
+  ],
+  "columns": [
+    {
+      "id": "reason",
+      "title": {
+        "en": "Reason",
+        "ru": "Цель исследования"
+      }
+    },
+    {
+      "id": "test",
+      "title": {
+        "en": "Test",
+        "ru": "Метод исследования"
+      }
+    },
+    {
+      "id": "indication",
+      "title": {
+        "en": "Indication",
+        "ru": "Показания и клиническое значение"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-initial-tte",
+      "cells": [
+        {
+          "text": {
+            "en": "Initial evaluation: All patients with known or suspected valve disease",
+            "ru": "Первичная оценка: Все пациенты с известным или подозреваемым пороком сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "TTE^[a]",
+            "ru": "ТТ-ЭхоКГ^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Establishes chamber size and function, valve morphology and severity, and effect on pulmonary and systemic circulation",
+            "ru": "Определяет размеры и функцию камер сердца, морфологию и тяжесть порока, а также влияние на малый и большой круги кровообращения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-initial-history-physical",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "History and physical",
+            "ru": "Сбор анамнеза и физикальное обследование"
+          }
+        },
+        {
+          "text": {
+            "en": "Establishes symptom severity, comorbidities, valve disease presence and severity, and presence of HF",
+            "ru": "Определяет выраженность симптомов, сопутствующие заболевания, наличие и тяжесть порока клапана, а также наличие СН"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-initial-ecg",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "ECG",
+            "ru": "ЭКГ"
+          }
+        },
+        {
+          "text": {
+            "en": "Establishes rhythm, LV function, and presence or absence of hypertrophy",
+            "ru": "Определяет сердечный ритм, косвенную функцию ЛЖ, наличие или отсутствие гипертрофии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-further-chest-xray",
+      "cells": [
+        {
+          "text": {
+            "en": "Further diagnostic testing: Information required for equivocal symptom status, discrepancy between examination and echocardiogram, further definition of valve disease, or assessing response of the ventricles and pulmonary circulation to load and to exercise",
+            "ru": "Дальнейшее диагностическое тестирование: Информация, необходимая при сомнительном статусе симптомов, несоответствии между осмотром и ЭхоКГ, для уточнения порока или оценки реакции желудочков и легочного кровотока на нагрузку"
+          }
+        },
+        {
+          "text": {
+            "en": "Chest x-ray",
+            "ru": "Рентгенография органов грудной клетки"
+          }
+        },
+        {
+          "text": {
+            "en": "Important for the symptomatic patient; establishes heart size and presence or absence of pulmonary vascular congestion, intrinsic lung disease, and calcification of aorta and pericardium",
+            "ru": "Важна для пациента с симптомами; определяет размеры сердца, наличие или отсутствие венозного застоя в легких, легочную патологию, кальциноз аорты и перикарда"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-further-tee",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "TEE",
+            "ru": "ЧП-ЭхоКГ"
+          }
+        },
+        {
+          "text": {
+            "en": "Provides high-quality assessment of mitral and prosthetic valve, including definition of intracardiac masses and possible associated abnormalities (eg, intracardiac abscess, LA thrombus)",
+            "ru": "Обеспечивает высококачественную оценку митрального клапана и протезов, включая выявление внутрисердечных образований и ассоциированных аномалий (например, абсцесс, тромб ЛП)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-further-cmr",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "CMR",
+            "ru": "МРТ сердца (CMR)"
+          }
+        },
+        {
+          "text": {
+            "en": "Provides assessment of LV volumes and function, valve severity, and aortic disease",
+            "ru": "Обеспечивает оценку объемов и функции ЛЖ, степени тяжести порока и патологии аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-further-pet-ct",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "PET CT",
+            "ru": "ПЭТ-КТ"
+          }
+        },
+        {
+          "text": {
+            "en": "Aids in determination of active infection or inflammation",
+            "ru": "Помогает в выявлении активной инфекции или воспаления"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-further-stress-testing",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Stress testing",
+            "ru": "Нагрузочное тестирование"
+          }
+        },
+        {
+          "text": {
+            "en": "Gives an objective measure of exercise capacity",
+            "ru": "Дает объективную оценку переносимости физической нагрузки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-further-catheterization",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Catheterization",
+            "ru": "Катетеризация сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "Provides measurement of intracardiac and pulmonary pressures, valve severity, and hemodynamic response to exercise and drugs",
+            "ru": "Обеспечивает измерение внутрисердечного и легочного давления, тяжести порока и гемодинамического ответа на нагрузку и медикаменты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-strat-biomarkers",
+      "cells": [
+        {
+          "text": {
+            "en": "Further risk stratification: Information on future risk of the valve disease, which is important for determination of timing of intervention",
+            "ru": "Дальнейшая стратификация риска: Информация о будущем риске прогрессирования порока клапана, важная для определения сроков вмешательства"
+          }
+        },
+        {
+          "text": {
+            "en": "Biomarkers",
+            "ru": "Биомаркеры"
+          }
+        },
+        {
+          "text": {
+            "en": "Provide indirect assessment of filling pressures and myocardial damage",
+            "ru": "Обеспечивают косвенную оценку давления наполнения и повреждения миокарда"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-strat-tte-strain",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "TTE strain",
+            "ru": "ТТ-ЭхоКГ: стрейн (деформация миокарда)"
+          }
+        },
+        {
+          "text": {
+            "en": "Helps assess intrinsic myocardial performance",
+            "ru": "Помогает оценить истинную сократительную способность миокарда"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-strat-cmr",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "CMR",
+            "ru": "МРТ сердца (CMR)"
+          }
+        },
+        {
+          "text": {
+            "en": "Assesses fibrosis by gadolinium enhancement",
+            "ru": "Оценивает фиброз методом контрастирования гадолинием"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13-strat-stress-testing",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Stress testing",
+            "ru": "Нагрузочное тестирование"
+          }
+        },
+        {
+          "text": {
+            "en": "Provides prognostic markers",
+            "ru": "Предоставляет прогностические маркеры"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14-strat-procedural-risk",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Procedural risk",
+            "ru": "Процедурный риск"
+          }
+        },
+        {
+          "text": {
+            "en": "Quantified by STS (Predicted Risk of Mortality) and TAVI scores",
+            "ru": "Количественно оценивается по шкале STS (расчетный риск смертности) и шкалам TAVI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r15-strat-frailty-score",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Frailty score",
+            "ru": "Оценка старческой астении (хрупкости)"
+          }
+        },
+        {
+          "text": {
+            "en": "Provides assessment of risk of procedure and chance of recovery of quality of life",
+            "ru": "Оценивает риск вмешательства и вероятность восстановления качества жизни"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r16-pre-dental-exam",
+      "cells": [
+        {
+          "text": {
+            "en": "Preprocedural testing: Testing required before valve intervention",
+            "ru": "Предоперационное обследование: Обследование, необходимое перед клапанным вмешательством"
+          }
+        },
+        {
+          "text": {
+            "en": "Dental examination",
+            "ru": "Осмотр стоматолога"
+          }
+        },
+        {
+          "text": {
+            "en": "Rules out potential infection sources",
+            "ru": "Исключает потенциальные источники инфекции"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r17-pre-coronary-angiogram",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "CT coronary angiogram or invasive coronary angiogram",
+            "ru": "КТ-коронарография или инвазивная коронарография"
+          }
+        },
+        {
+          "text": {
+            "en": "Gives an assessment of coronary anatomy",
+            "ru": "Дает оценку анатомии коронарных артерий"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r18-pre-ct-peripheral",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "CT: Peripheral",
+            "ru": "КТ: периферические сосуды"
+          }
+        },
+        {
+          "text": {
+            "en": "Assesses femoral access for TAVI and other transcatheter procedures",
+            "ru": "Оценивает бедренный сосудистый доступ для TAVI и других транскатетерных процедур"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r19-pre-ct-cardiac",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "CT: Cardiac",
+            "ru": "КТ: сердце"
+          }
+        },
+        {
+          "text": {
+            "en": "Assesses suitability for TAVI and other transcatheter procedures",
+            "ru": "Оценивает пригодность к TAVI и другим транскатетерным процедурам"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "TTE is the standard initial diagnostic test in the initial evaluation of patients with known or suspected VHD.",
+      "ru": "ТТ-ЭхоКГ является стандартным начальным методом диагностики при первичной оценке пациентов с известным или предполагаемым клапанным пороком сердца."
+    },
+    "b": {
+      "en": "CMR indicates cardiac magnetic resonance; CT, computed tomography; ECG, electrocardiogram; HF, heart failure; LV, left ventricular; PET, positron emission tomography; STS, Society of Thoracic Surgeons; TAVI, transcatheter aortic valve implantation; TEE, transesophageal echocardiography; TTE, transthoracic echocardiography; and VHD, valvular heart disease.",
+      "ru": "CMR — магнитно-резонансная томография сердца; CT — компьютерная томография; ECG — электрокардиограмма; HF — сердечная недостаточность; LV — левый желудочек; PET — позитронно-эмиссионная томография; STS — Общество торакальных хирургов; TAVI — транскатетерная имплантация аортального клапана; TEE — чреспищеводная эхокардиография; TTE — трансторакальная эхокардиография; VHD — клапанные пороки сердца."
+    }
+  },
+  "source": {
+    "expectedRows": 19
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

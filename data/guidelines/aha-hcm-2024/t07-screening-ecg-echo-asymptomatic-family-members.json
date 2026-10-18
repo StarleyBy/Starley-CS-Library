@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.t07-screening-ecg-echo-asymptomatic-family-members",
+  "guidelineId": "aha-hcm-2024",
+  "number": "Table 7",
+  "type": "grid",
+  "title": {
+    "en": "Screening With Electrocardiography and 2D Echocardiography in Asymptomatic Family Members",
+    "ru": "Скрининг с помощью электрокардиографии и двухмерной эхокардиографии у бессимптомных членов семьи"
+  },
+  "tags": [
+    "hcm",
+    "screening",
+    "family-screening",
+    "first-degree-relatives",
+    "pediatric",
+    "adults",
+    "ecg",
+    "echocardiography",
+    "genotype-positive"
+  ],
+  "columns": [
+    {
+      "id": "age_of_relative",
+      "title": {
+        "en": "Age of First-Degree Relative",
+        "ru": "Возраст родственника первой линии"
+      }
+    },
+    {
+      "id": "initiation_of_screening",
+      "title": {
+        "en": "Initiation of Screening",
+        "ru": "Начало скрининга"
+      }
+    },
+    {
+      "id": "repeat_ecg_echo",
+      "title": {
+        "en": "Repeat ECG, Echo",
+        "ru": "Повторные ЭКГ, ЭхоКГ"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-pediatric",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "Pediatric",
+            "ru": "Дети и подростки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pediatric-genotype-positive-early-onset",
+      "cells": [
+        {
+          "text": {
+            "en": "Children and adolescents from genotype-positive families, and families with early onset disease",
+            "ru": "Дети и подростки из генотип-положительных семей и семей с ранним началом заболевания"
+          }
+        },
+        {
+          "text": {
+            "en": "At the time HCM is diagnosed in another family member",
+            "ru": "В момент установления диагноза ГКМП у другого члена семьи"
+          }
+        },
+        {
+          "text": {
+            "en": "Every 1-2 y",
+            "ru": "Каждые 1–2 года"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pediatric-all-other",
+      "cells": [
+        {
+          "text": {
+            "en": "All other children and adolescents",
+            "ru": "Все остальные дети и подростки"
+          }
+        },
+        {
+          "text": {
+            "en": "At any time after HCM is diagnosed in a family member but no later than puberty",
+            "ru": "В любое время после установления диагноза ГКМП у члена семьи, но не позднее периода полового созревания"
+          }
+        },
+        {
+          "text": {
+            "en": "Every 2-3 y",
+            "ru": "Каждые 2–3 года"
+          }
+        }
+      ]
+    },
+    {
+      "id": "adults",
+      "cells": [
+        {
+          "text": {
+            "en": "Adults",
+            "ru": "Взрослые"
+          }
+        },
+        {
+          "text": {
+            "en": "At the time HCM is diagnosed in another family member",
+            "ru": "В момент установления диагноза ГКМП у другого члена семьи"
+          }
+        },
+        {
+          "text": {
+            "en": "Every 3-5 y",
+            "ru": "Каждые 3–5 лет"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Includes all asymptomatic, phenotype-negative, first-degree relatives deemed to be at risk for developing HCM based on family history or genotype status and may sometimes include more distant relatives based on clinical judgment. Screening interval may be modified (eg, at onset of new symptoms or in families with a malignant clinical course or late-onset HCM).",
+      "ru": "Включает всех бессимптомных, фенотип-отрицательных родственников первой линии родства, отнесенных к группе риска развития ГКМП на основании семейного анамнеза или генотипического статуса; по клиническому усмотрению могут включаться и более дальние родственники. Интервал скрининга может быть изменен (например, при появлении новых симптомов либо в семьях со злокачественным течением или поздним началом ГКМП)."
+    },
+    "b": {
+      "en": "ECG indicates electrocardiogram; Echo, echocardiogram; and HCM, hypertrophic cardiomyopathy.",
+      "ru": "ECG (ЭКГ) — электрокардиограмма; Echo (ЭхоКГ) — эхокардиография; HCM (ГКМП) — гипертрофическая кардиомиопатия."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

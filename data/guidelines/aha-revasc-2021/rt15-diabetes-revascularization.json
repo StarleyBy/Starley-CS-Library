@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt15-diabetes-revascularization",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 15",
+  "title": {
+    "en": "Recommendations for Patients With Diabetes",
+    "ru": "Рекомендации для пациентов с сахарным диабетом"
+  },
+  "tags": [
+    "diabetes",
+    "multivessel",
+    "lad",
+    "lima",
+    "cabg",
+    "pci",
+    "left-main",
+    "syntax-score"
+  ],
+  "sections": [
+    {
+      "id": "sec-patients-with-diabetes",
+      "title": {
+        "en": "Patients With Diabetes",
+        "ru": "Пациенты с сахарным диабетом"
+      },
+      "rows": [
+        {
+          "id": "r01-diabetes-multivessel-lad-cabg-lima-over-pci",
+          "text": {
+            "en": "In patients with diabetes and multivessel CAD with the involvement of the LAD, who are appropriate candidates for CABG, CABG (with a LIMA to the LAD) is recommended in preference to PCI to reduce mortality and repeat revascularizations.",
+            "ru": "У пациентов с сахарным диабетом и многососудистым поражением с вовлечением ПМЖВ (LAD), являющихся подходящими кандидатами для КШ, рекомендуется КШ (с шунтированием ПМЖВ левой внутренней грудной артерией [LIMA]) предпочтительнее ЧКВ для снижения смертности и повторных реваскуляризаций."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r02-diabetes-multivessel-poor-surgical-candidates-pci",
+          "text": {
+            "en": "In patients with diabetes who have multivessel CAD amenable to PCI and an indication for revascularization and are poor candidates for surgery, PCI can be useful to reduce long-term ischemic outcomes.",
+            "ru": "У пациентов с сахарным диабетом с многососудистым поражением, анатомически подходящим для ЧКВ, и показаниями к реваскуляризации, являющихся неблагоприятными кандидатами для хирургического вмешательства, ЧКВ может быть полезным для снижения отдаленных ишемических исходов."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [9, 10]
+        },
+        {
+          "id": "r03-diabetes-left-main-low-intermediate-complexity-pci",
+          "text": {
+            "en": "In patients with diabetes who have left main stenosis and low- or intermediate-complexity CAD in the rest of the coronary anatomy, PCI may be considered an alternative to CABG to reduce major adverse cardiovascular outcomes.",
+            "ru": "У пациентов с сахарным диабетом со стенозом ствола ЛКА и низкой или промежуточной анатомической сложностью поражения остального коронарного русла ЧКВ может рассматриваться как альтернатива КШ для снижения частоты больших неблагоприятных сердечно-сосудистых событий."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [3, 11]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt49-diagnosis-prosthetic-valve-stenosis",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 49",
+  "title": {
+    "en": "Recommendations for Diagnosis of Prosthetic Valve Stenosis",
+    "ru": "Рекомендации по диагностике стеноза клапанного протеза"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-valves",
+    "prosthetic-valve-stenosis",
+    "tte",
+    "tee",
+    "fluoroscopy",
+    "cine-ct",
+    "3d-tee",
+    "4d-ct",
+    "leaflet-motion",
+    "leaflet-thrombosis"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnosis-prosthetic-valve-stenosis",
+      "title": {
+        "en": "Diagnosis of Prosthetic Valve Stenosis",
+        "ru": "Диагностика стеноза клапанного протеза"
+      },
+      "rows": [
+        {
+          "id": "r01-suspected-stenosis-tte-tee",
+          "text": {
+            "en": "In patients with suspected mechanical or bioprosthetic valve stenosis, TTE and TEE are recommended to diagnosis the cause and severity of valve obstruction, assess ventricular function, and estimate pulmonary artery systolic pressure.",
+            "ru": "У пациентов с подозрением на стеноз механического или биологического протеза клапана рекомендуются ТТ-ЭхоКГ и ЧП-ЭхоКГ для диагностики причины и выраженности обструкции протеза, оценки функции желудочков и определения систолического давления в легочной артерии."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-mechanical-valve-stenosis-fluoroscopy-cine-ct",
+          "text": {
+            "en": "In patients with mechanical valve stenosis, fluoroscopy or cine-CT is recommended to assess motion of the mechanical valve leaflets.",
+            "ru": "У пациентов со стенозом механического клапанного протеза рекомендуется рентгеноскопия или кино-КТ для оценки подвижности запирающих элементов (створок) механического клапана."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r03-bioprosthetic-stenosis-3d-tee-4d-ct-rule-out-thrombosis",
+          "text": {
+            "en": "In patients with bioprosthetic valve stenosis, 3D TEE or 4D CT imaging can be useful to rule out leaflet thrombosis.",
+            "ru": "У пациентов со стенозом биологического протеза клапана выполнение 3D ЧП-ЭхоКГ или 4D КТ может быть полезно для исключения тромбоза створок."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [3, 4, 5, 6, 7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

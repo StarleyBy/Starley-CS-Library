@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt15-icd-device-selection-considerations",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 15",
+  "title": {
+    "en": "Recommendations for ICD Device Selection Considerations",
+    "ru": "Рекомендации по выбору типа устройства для имплантации ИКД"
+  },
+  "tags": [
+    "hcm",
+    "icd",
+    "subcutaneous-icd",
+    "transvenous-icd",
+    "single-coil",
+    "dual-chamber-icd",
+    "crt",
+    "pacing",
+    "lbbb"
+  ],
+  "sections": [
+    {
+      "id": "sec-icd-device-selection",
+      "title": {
+        "en": "ICD Device Selection Considerations",
+        "ru": "Факторы выбора типа ИКД"
+      },
+      "rows": [
+        {
+          "id": "r01-single-chamber-transvenous-or-subcutaneous-icd",
+          "text": {
+            "en": "In patients with HCM who are receiving an ICD, either a single-chamber transvenous ICD or a subcutaneous ICD is recommended after a shared decision-making discussion that takes into consideration patient preferences, age, lifestyle, and potential need for pacing for bradycardia or VT termination.",
+            "ru": "У пациентов с ГКМП, которым показан ИКД, рекомендуется выбор однокамерного трансвенозного ИКД или подкожного ИКД (S-ICD) после совместного обсуждения и принятия решения с учетом предпочтений пациента, возраста, образа жизни и потенциальной потребности в электрокардиостимуляции при брадикардии или антитахикардитической стимуляции для купирования ЖТ."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r02-single-coil-leads-preferred",
+          "text": {
+            "en": "In patients with HCM who are receiving a transvenous ICD, single-coil ICD leads are recommended in preference to dual-coil leads, if defibrillation threshold is deemed adequate.",
+            "ru": "У пациентов с ГКМП, получающих трансвенозный ИКД, рекомендуются односпиральные (single-coil) дефибрилляционные электроды предпочтительнее двухспиральных (dual-coil) при условии адекватного порога дефибрилляции."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [7, 8, 9]
+        },
+        {
+          "id": "r03-dual-chamber-icd-pacing-needs",
+          "text": {
+            "en": "In patients with HCM who are receiving an ICD, dual-chamber ICDs are reasonable for patients with a need for atrial or atrioventricular sequential pacing for bradycardia/conduction abnormalities, or as an attempt to relieve symptoms of obstructive HCM (most commonly in patients >65 years of age).",
+            "ru": "У пациентов с ГКМП, получающих ИКД, двухкамерные ИКД целесообразны при необходимости предсердной или последовательной атриовентрикулярной стимуляции по поводу брадикардии/нарушений проводимости либо как попытка уменьшения симптомов обструктивной ГКМП (чаще всего у пациентов старше 65 лет)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [10, 11, 12, 13]
+        },
+        {
+          "id": "r04-crt-nonobstructive-hcm-lbbb-lvef-lt-50",
+          "text": {
+            "en": "In selected adult patients with nonobstructive HCM receiving an ICD who have NYHA class II to ambulatory class IV HF, left bundle branch block (LBBB), and LVEF <50%, cardiac resynchronization therapy (CRT) for symptom reduction is reasonable.",
+            "ru": "У отдельных взрослых пациентов с необструктивной ГКМП, получающих ИКД, имеющих ХСН II–IV амбулаторного функционального класса по NYHA, блокаду левой ножки пучка Гиса (БЛНПГ) и ФВЛЖ <50%, применение сердечной ресинхронизирующей терапии (СРТ/CRT) для уменьшения симптомов является целесообразным."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [14, 15, 16, 17, 18]
+        },
+        {
+          "id": "r05-dual-chamber-icd-paroxysmal-at-af",
+          "text": {
+            "en": "In patients with HCM in whom a decision has been made for ICD implantation and who have paroxysmal atrial tachycardias or AF, dual-chamber ICDs may be reasonable, but this decision must be balanced against higher complication rates of dual-chamber devices.",
+            "ru": "У пациентов с ГКМП, которым показана имплантация ИКД и имеющих пароксизмальные предсердные тахикардии или ФП, установка двухкамерного ИКД может быть обоснованной, однако это решение необходимо сопоставлять с более высокой частотой осложнений двухкамерных систем."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [19, 20, 21, 22, 23, 24]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

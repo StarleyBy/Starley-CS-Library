@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt27-diagnostic-testing-routine-follow-up-chronic-primary-mr",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 27",
+  "title": {
+    "en": "Recommendations for Diagnostic Testing: Routine Follow-Up for Chronic Primary MR",
+    "ru": "Рекомендации по диагностическому обследованию: плановое динамическое наблюдение при хронической первичной митральной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "mitral-regurgitation",
+    "primary-mr",
+    "chronic-mr",
+    "follow-up",
+    "surveillance",
+    "tte",
+    "lvef",
+    "lvesd",
+    "lvedd",
+    "global-longitudinal-strain",
+    "biomarkers"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnostic-testing-routine-follow-up-chronic-primary-mr",
+      "title": {
+        "en": "Routine Follow-Up for Chronic Primary MR",
+        "ru": "Плановое динамическое наблюдение при хронической первичной митральной регургитации"
+      },
+      "rows": [
+        {
+          "id": "r01-tte-every-6-to-12-months-asymptomatic",
+          "text": {
+            "en": "For asymptomatic patients with severe primary MR (Stages B and C1), TTE is indicated every 6 to 12 months for surveillance of LV function (estimated by LVEF, LVEDD, and LVESD) and assessment of pulmonary artery pressure.",
+            "ru": "У бессимптомных пациентов с тяжелой первичной МР (Стадии B и C1) показано выполнение ТТ-ЭхоКГ каждые 6–12 месяцев для контроля функции ЛЖ (оцениваемой по ФВ ЛЖ, КДР и КСР ЛЖ) и мониторинга давления в легочной артерии."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        },
+        {
+          "id": "r02-biomarkers-gls-adjunct-timing-intervention",
+          "text": {
+            "en": "In asymptomatic patients with severe primary MR (Stages B and C1), use of serum biomarkers and novel measurements of LV function, such as global longitudinal strain, may be considered as an adjunct to guide timing of intervention.",
+            "ru": "У бессимптомных пациентов с тяжелой первичной МР (Стадии B и C1) можно рассмотреть определение сывороточных биомаркеров и новых параметров функции ЛЖ (таких как глобальная продольная деформация / GLS) в качестве дополнительного инструмента для выбора оптимальных сроков вмешательства."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

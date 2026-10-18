@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt05-syntax-score-lesion-complexity",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 5",
+  "title": {
+    "en": "Recommendation for Defining Coronary Artery Lesion Complexity: Calculation of the SYNTAX Score",
+    "ru": "Рекомендация по определению анатомической сложности поражения коронарных артерий: расчет шкалы SYNTAX"
+  },
+  "tags": [
+    "syntax-score",
+    "cad-complexity",
+    "multivessel-cad",
+    "revascularization",
+    "pci",
+    "cabg"
+  ],
+  "sections": [
+    {
+      "id": "sec-syntax-score-lesion-complexity",
+      "title": {
+        "en": "Defining Coronary Artery Lesion Complexity: Calculation of the SYNTAX Score",
+        "ru": "Определение анатомической сложности поражения коронарных артерий: расчет шкалы SYNTAX"
+      },
+      "rows": [
+        {
+          "id": "r01-syntax-score-multivessel-cad",
+          "text": {
+            "en": "In patients with multivessel CAD, an assessment of CAD complexity, such as the SYNTAX score, may be useful to guide revascularization.",
+            "ru": "У пациентов с многососудистым поражением коронарного русла (CAD) оценка анатомической сложности поражения, такая как расчет шкалы SYNTAX, может быть полезна для определения оптимального метода реваскуляризации."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt18-management-nonobstructive-hcm-preserved-ef",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 18",
+  "title": {
+    "en": "Recommendations for Management of Patients With Nonobstructive HCM With Preserved EF",
+    "ru": "Рекомендации по ведению пациентов с необструктивной ГКМП с сохраненной ФВ"
+  },
+  "tags": [
+    "hcm",
+    "nonobstructive-hcm",
+    "preserved-ef",
+    "beta-blockers",
+    "calcium-channel-blockers",
+    "diuretics",
+    "ace-inhibitors",
+    "arbs",
+    "valsartan",
+    "apical-myectomy"
+  ],
+  "sections": [
+    {
+      "id": "sec-management-nonobstructive-hcm-preserved-ef",
+      "title": {
+        "en": "Management of Patients With Nonobstructive HCM With Preserved EF",
+        "ru": "Ведение пациентов с необструктивной ГКМП с сохраненной ФВ"
+      },
+      "rows": [
+        {
+          "id": "r01-beta-blockers-ccb-angina-dyspnea",
+          "text": {
+            "en": "In patients with nonobstructive HCM with preserved EF and symptoms of exertional angina or dyspnea, beta blockers or nondihydropyridine calcium channel blockers are recommended.",
+            "ru": "У пациентов с необструктивной ГКМП с сохраненной ФВ и симптомами стенокардии напряжения или одышки рекомендуются бета-блокаторы или недигидропиридиновые блокаторы кальциевых каналов."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-oral-diuretics-persistent-dyspnea",
+          "text": {
+            "en": "In patients with nonobstructive HCM with preserved EF, it is reasonable to add oral diuretics when exertional dyspnea persists despite the use of beta blockers or nondihydropyridine calcium channel blockers.",
+            "ru": "У пациентов с необструктивной ГКМП с сохраненной ФВ оправдано добавление пероральных диуретиков при сохранении одышки напряжения, несмотря на прием бета-блокаторов или недигидропиридиновых блокаторов кальциевых каналов."
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r03-acei-arb-usefulness-not-established",
+          "text": {
+            "en": "In patients with nonobstructive HCM with preserved EF, the usefulness of angiotensin-converting enzyme inhibitors and angiotensin receptor blockers in the treatment of symptoms (angina and dyspnea) is not well established.",
+            "ru": "У пациентов с необструктивной ГКМП с сохраненной ФВ польза ингибиторов ангиотензинпревращающего фермента и блокаторов рецепторов ангиотензина для купирования симптомов (стенокардии и одышки) четко не установлена."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [6]
+        },
+        {
+          "id": "r04-apical-myectomy-severe-symptoms",
+          "text": {
+            "en": "In highly selected patients with apical HCM with severe dyspnea or angina (NYHA functional class III or class IV) despite maximal medical therapy, and with preserved EF and small LV cavity size (LV end-diastolic volume <50 mL/m^2 and LV stroke volume <30 mL/m^2), apical myectomy by experienced surgeons at comprehensive centers may be considered to reduce symptoms.",
+            "ru": "У строго отобранных пациентов с верхушечной ГКМП с выраженной одышкой или стенокардией (III или IV функциональный класс по NYHA) несмотря на максимальную медикаментозную терапию, с сохраненной ФВ и малым объемом полости ЛЖ (конечно-диастолический объем ЛЖ <50 мл/м² и ударный объем ЛЖ <30 мл/м²), для уменьшения симптомов может быть рассмотрена верхушечная миэктомия опытными хирургами в экспертных центрах."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [7]
+        },
+        {
+          "id": "r05-asymptomatic-benefit-bb-ccb-not-established",
+          "text": {
+            "en": "In asymptomatic patients with nonobstructive HCM, the benefit of beta blockers or calcium channel blockers is not well established.",
+            "ru": "У бессимптомных пациентов с необструктивной ГКМП польза бета-блокаторов или блокаторов кальциевых каналов четко не установлена."
+          },
+          "class": "IIb",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r06-valsartan-younger-sarcomere-variant-mild-phenotype",
+          "text": {
+            "en": "For younger (eg, ≤45 years of age) patients with nonobstructive HCM due to a pathogenic or likely pathogenic cardiac sarcomere genetic variant, and a mild phenotype,^[a] valsartan may be beneficial to slow adverse cardiac remodeling.",
+            "ru": "У более молодых пациентов (например, ≤45 лет) с необструктивной ГКМП, обусловленной патогенным или вероятно патогенным генетическим вариантом саркомерных белков, и мягким фенотипом^[a] валсартан может быть полезен для замедления неблагоприятного ремоделирования сердца."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [8]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Mild phenotype indicates NYHA functional class I or II, maximal LV wall thickness 13 to 25 mm, no secondary prevention ICDs, no history of appropriate ICD shocks, and no AF.",
+      "ru": "Мягкий фенотип означает I или II функциональный класс по NYHA, максимальную толщину стенки ЛЖ от 13 до 25 мм, отсутствие ИКД для вторичной профилактики, отсутствие обоснованных срабатываний ИКД в анамнезе и отсутствие ФП."
+    }
+  },
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

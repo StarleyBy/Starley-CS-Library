@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t06-secondary-prevention-rheumatic-fever",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Secondary Prevention of Rheumatic Fever",
+    "ru": "Вторичная профилактика острой ревматической лихорадки"
+  },
+  "tags": [
+    "vhd",
+    "rheumatic-fever",
+    "rheumatic-heart-disease",
+    "secondary-prevention",
+    "penicillin",
+    "sulfadiazine",
+    "macrolides"
+  ],
+  "columns": [
+    {
+      "id": "antibiotic",
+      "title": {
+        "en": "Antibiotics for Prevention",
+        "ru": "Антибиотики для профилактики"
+      }
+    },
+    {
+      "id": "dosage",
+      "title": {
+        "en": "Dosage^[a]",
+        "ru": "Дозировка^[a]"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "penicillin-g-benzathine",
+      "cells": [
+        {
+          "text": {
+            "en": "Penicillin G benzathine",
+            "ru": "Бензатина бензилпенициллин"
+          }
+        },
+        {
+          "text": {
+            "en": "1.2 million U intramuscularly every 4 wk^[b]",
+            "ru": "1,2 млн ЕД внутримышечно каждые 4 недели^[b]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "penicillin-v-potassium",
+      "cells": [
+        {
+          "text": {
+            "en": "Penicillin V potassium",
+            "ru": "Феноксиметилпенициллин (пенициллин V)"
+          }
+        },
+        {
+          "text": {
+            "en": "250 mg orally twice daily",
+            "ru": "250 мг внутрь 2 раза в сутки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sulfadiazine",
+      "cells": [
+        {
+          "text": {
+            "en": "Sulfadiazine",
+            "ru": "Сульфадиазин"
+          }
+        },
+        {
+          "text": {
+            "en": "1 g orally once daily",
+            "ru": "1 г внутрь 1 раз в сутки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "macrolide-azalide",
+      "cells": [
+        {
+          "text": {
+            "en": "Macrolide or azalide antibiotic (for patients allergic to penicillin and sulfadiazine)^[c]",
+            "ru": "Макролидный или азалидный антибиотик (для пациентов с аллергией на пенициллин и сульфадиазин)^[c]"
+          }
+        },
+        {
+          "text": {
+            "en": "Varies",
+            "ru": "Варьирует"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "In patients with documented valvular heart disease, the duration of rheumatic fever prophylaxis should be ≥10 y or until the patient is 40 y of age (whichever is longer). Lifelong prophylaxis may be recommended if the patient is at high risk of group A streptococcus exposure. Secondary rheumatic heart disease prophylaxis is required even after valve replacement.",
+      "ru": "У пациентов с подтвержденным клапанным пороком сердца продолжительность профилактики ревматической лихорадки должна составлять ≥10 лет или до достижения возраста 40 лет (в зависимости от того, что дольше). Пожизненная профилактика может быть рекомендована при высоком риске контакта со стрептококком группы А. Вторичная профилактика требуется даже после протезирования клапана."
+    },
+    "b": {
+      "en": "Administration every 3 wk is recommended in certain high-risk situations.",
+      "ru": "Введение каждые 3 недели рекомендуется в определенных ситуациях высокого риска."
+    },
+    "c": {
+      "en": "Macrolide antibiotics should not be used in persons taking other medications that inhibit cytochrome P450 3A, such as azole antifungal agents, HIV protease inhibitors, and some selective serotonin reuptake inhibitors.",
+      "ru": "Антибиотики-макролиды не следует применять у лиц, принимающих препараты, ингибирующие цитохром P450 3A (азоловые противогрибковые средства, ингибиторы протеазы ВИЧ, некоторые СИОЗС)."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

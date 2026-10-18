@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt39-bypass-conduits-cabg",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 39",
+  "title": {
+    "en": "Recommendations for Bypass Conduits in Patients Undergoing CABG",
+    "ru": "Рекомендации по выбору шунтов у пациентов, проходящих КШ"
+  },
+  "tags": [
+    "cabg",
+    "bypass-conduits",
+    "radial-artery",
+    "lima",
+    "bima",
+    "saphenous-vein",
+    "internal-mammary-artery"
+  ],
+  "sections": [
+    {
+      "id": "sec-bypass-conduits-cabg",
+      "title": {
+        "en": "Bypass Conduits in Patients Undergoing CABG",
+        "ru": "Выбор шунтов у пациентов, проходящих КШ"
+      },
+      "rows": [
+        {
+          "id": "r01-isolated-cabg-radial-artery-over-svg",
+          "text": {
+            "en": "In patients undergoing isolated CABG, the use of a radial artery is recommended in preference to a saphenous vein conduit to graft the second most important, significantly stenosed, non–LAD vessel to improve long-term cardiac outcomes.",
+            "ru": "У пациентов, которым выполняется изолированное КШ, рекомендуется использование лучевой артерии предпочтительнее аутовенозного трансплантата для шунтирования второй по значимости, гемодинамически значимо стенозированной не-LAD артерии для улучшения отдаленных кардиальных исходов."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-cabg-ima-to-lad-survival",
+          "text": {
+            "en": "In patients undergoing CABG, an IMA, preferably the left, should be used to bypass the LAD when bypass of the LAD is indicated to improve survival and reduce recurrent ischemic events.",
+            "ru": "У пациентов, которым выполняется КШ, внутренняя грудная артерия (IMA), преимущественно левая (LIMA), должна использоваться для шунтирования ПМЖВ (LAD) при наличии показаний к шунтированию LAD для повышения выживаемости и снижения рецидивирующих ишемических событий."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [5, 6, 7, 8, 9]
+        },
+        {
+          "id": "r03-cabg-bilateral-ima-experienced-operators",
+          "text": {
+            "en": "In patients undergoing CABG, bilateral IMA (BIMA) grafting by experienced operators can be beneficial in appropriate patients to improve long-term cardiac outcomes.",
+            "ru": "У пациентов, которым выполняется КШ, двустороннее маммарно-коронарное шунтирование (BIMA) опытными хирургами может быть полезным у подходящих больных для улучшения отдаленных кардиальных исходов."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [2, 10, 11, 12]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

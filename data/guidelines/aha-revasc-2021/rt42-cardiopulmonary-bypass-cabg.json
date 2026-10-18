@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt42-cardiopulmonary-bypass-cabg",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 42",
+  "title": {
+    "en": "Recommendations for Use of Cardiopulmonary Bypass in Patients Undergoing CABG",
+    "ru": "Рекомендации по использованию искусственного кровообращения у пациентов, проходящих КШ"
+  },
+  "tags": [
+    "cabg",
+    "cardiopulmonary-bypass",
+    "off-pump",
+    "beating-heart",
+    "aortic-calcification",
+    "stroke-prevention",
+    "pulmonary-disease"
+  ],
+  "sections": [
+    {
+      "id": "sec-cardiopulmonary-bypass-cabg",
+      "title": {
+        "en": "Use of Cardiopulmonary Bypass in Patients Undergoing CABG",
+        "ru": "Использование искусственного кровообращения у пациентов, проходящих КШ"
+      },
+      "rows": [
+        {
+          "id": "r01-calcified-aorta-avoid-manipulation-off-pump",
+          "text": {
+            "en": "In patients with significant calcification of the aorta, the use of techniques to avoid aortic manipulation (off-pump techniques or beating heart) is reasonable to decrease the incidence of perioperative stroke when performed by experienced surgeons.",
+            "ru": "У пациентов с выраженным кальцинозом аорты использование методик, позволяющих избежать манипуляций на аорте (операции без искусственного кровообращения [off-pump/OPCAB] или на работающем сердце), целесообразно для снижения частоты периоперационного инсульта при условии выполнения опытными хирургами."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-pulmonary-disease-off-pump-cabg",
+          "text": {
+            "en": "In patients with significant pulmonary disease, off-pump surgery may be reasonable to reduce perioperative risk when performed by experienced surgeons.",
+            "ru": "У пациентов с тяжелыми заболеваниями легких выполнение операции без искусственного кровообращения (off-pump) может быть целесообразным для снижения периоперационного риска при условии выполнения опытными хирургами."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

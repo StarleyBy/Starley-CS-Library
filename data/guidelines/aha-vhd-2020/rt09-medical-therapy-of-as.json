@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt09-medical-therapy-of-as",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 9",
+  "title": {
+    "en": "Recommendations for Medical Therapy of AS",
+    "ru": "Рекомендации по медикаментозной терапии аортального стеноза"
+  },
+  "tags": [
+    "vhd",
+    "aortic-stenosis",
+    "medical-therapy",
+    "hypertension",
+    "statins",
+    "tavi",
+    "ace-inhibitors",
+    "arb",
+    "atherosclerosis-prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-medical-therapy-of-as",
+      "title": {
+        "en": "Medical Therapy of AS",
+        "ru": "Медикаментозная терапия аортального стеноза"
+      },
+      "rows": [
+        {
+          "id": "r01-hypertension-gdmt-titration",
+          "text": {
+            "en": "In patients at risk of developing AS (Stage A) and in patients with asymptomatic AS (Stages B and C), hypertension should be treated according to standard GDMT, started at a low dose, and gradually titrated upward as needed, with appropriate clinical monitoring.",
+            "ru": "У пациентов группы риска развития АС (Стадия A) и у пациентов с бессимптомным АС (Стадии B и C) артериальную гипертензию следует лечить в соответствии со стандартной ОМТ, начиная с низкой дозы с постепенной титрацией вверх под тщательным клиническим наблюдением."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-statin-atherosclerosis-prevention",
+          "text": {
+            "en": "In all patients with calcific AS, statin therapy is indicated for primary and secondary prevention of atherosclerosis on the basis of standard risk scores.",
+            "ru": "У всех пациентов с кальцинированным АС терапия статинами показана для первичной и вторичной профилактики атеросклероза на основании стандартных шкал сердечно-сосудистого риска."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [4, 5, 6]
+        },
+        {
+          "id": "r03-ras-blockers-post-tavi",
+          "text": {
+            "en": "In patients who have undergone TAVI, renin–angiotensin system blocker therapy (ACE inhibitor or ARB) may be considered to reduce the long-term risk of all-cause mortality.",
+            "ru": "У пациентов, перенесших TAVI, можно рассмотреть блокаторы ренин-ангиотензиновой системы (ингибиторы АПФ или БРА) для снижения отдаленного риска смерти от любых причин."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [7, 8]
+        },
+        {
+          "id": "r04-no-statins-to-slow-as-progression",
+          "text": {
+            "en": "In patients with calcific AS (Stages B and C), statin therapy is not indicated for prevention of hemodynamic progression of AS.",
+            "ru": "У пациентов с кальцинированным АС (Стадии B и C) терапия статинами не показана исключительно с целью замедления гемодинамического прогрессирования стеноза."
+          },
+          "class": "III-no-benefit",
+          "level": "A",
+          "refs": [4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

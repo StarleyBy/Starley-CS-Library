@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt12-scd-risk-assessment-adults",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 12",
+  "title": {
+    "en": "Recommendations for SCD Risk Assessment in Adults With HCM",
+    "ru": "Рекомендации по оценке риска внезапной сердечной смерти у взрослых с ГКМП"
+  },
+  "tags": [
+    "hcm",
+    "scd",
+    "risk-assessment",
+    "adults",
+    "icd",
+    "cmr",
+    "lvoto",
+    "syncope",
+    "lvh"
+  ],
+  "sections": [
+    {
+      "id": "sec-scd-risk-assessment-adults",
+      "title": {
+        "en": "SCD Risk Assessment in Adults With HCM",
+        "ru": "Оценка риска ВСС у взрослых пациентов с ГКМП"
+      },
+      "rows": [
+        {
+          "id": "r01-systematic-scd-risk-assessment",
+          "text": {
+            "en": "In adult patients with HCM, a comprehensive, systematic noninvasive SCD risk assessment at initial evaluation and every 1 to 2 years thereafter is recommended and should include evaluation of these risk factors (Figures 1 and 3, Table 8):",
+            "ru": "У взрослых пациентов с ГКМП рекомендуется проведение комплексной систематической неинвазивной оценки риска ВСС при первичном обследовании и затем каждые 1–2 года, включающей оценку следующих факторов риска (Рисунки 1 и 3, Таблица 8):"
+          },
+          "bullets": [
+            {
+              "text": {
+                "en": "Personal history of cardiac arrest or sustained ventricular arrhythmias;",
+                "ru": "Анамнез остановки сердца или устойчивых желудочковых аритмий;"
+              }
+            },
+            {
+              "text": {
+                "en": "Personal history of syncope suspected by clinical history to be arrhythmic;",
+                "ru": "Анамнез синкопальных состояний с подозрением на аритмический генез;"
+              }
+            },
+            {
+              "text": {
+                "en": "Family history in close relative of premature HCM-related sudden death, cardiac arrest, or sustained ventricular arrhythmias;",
+                "ru": "Семейный анамнез преждевременной внезапной смерти, связанной с ГКМП, остановки сердца или устойчивых желудочковых аритмий у близких родственников;"
+              }
+            },
+            {
+              "text": {
+                "en": "Maximal LV wall thickness, EF, LV apical aneurysm;",
+                "ru": "Максимальная толщина стенки ЛЖ, ФВ, верхушечная аневризма ЛЖ;"
+              }
+            },
+            {
+              "text": {
+                "en": "NSVT episodes on continuous ambulatory electrocardiographic monitoring.",
+                "ru": "Эпизоды неустойчивой желудочковой тахикардии (НУЖТ) при суточном мониторировании ЭКГ."
+              }
+            }
+          ],
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
+        },
+        {
+          "id": "r02-cmr-imaging-intermediate-uncertain-risk",
+          "text": {
+            "en": "For adult patients with HCM who are not otherwise identified as high risk for SCD, or in whom a decision to proceed with ICD placement remains uncertain after clinical assessment that includes personal/family history, echocardiography, and ambulatory electrocardiographic monitoring, CMR imaging is beneficial to assess for maximum LV wall thickness, EF, LV apical aneurysm, and extent of myocardial fibrosis with LGE (Table 8).",
+            "ru": "У взрослых пациентов с ГКМП, не отнесенных к группе высокого риска ВСС, или у которых решение об имплантации ИКД остается неопределенным после клинической оценки (анамнез, ЭхоКГ, суточное мониторирование ЭКГ), МРТ сердца приносит пользу для оценки максимальной толщины стенки ЛЖ, ФВ, аневризмы верхушки ЛЖ и распространенности фиброза миокарда по отсроченному накоплению гадолиния (LGE) (Таблица 8)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 11, 12, 15, 16, 17, 18, 19, 20]
+        },
+        {
+          "id": "r03-echocardiographic-5-year-scd-risk-calculation",
+          "text": {
+            "en": "For patients who are ≥16 years of age with HCM, it is reasonable to obtain echocardiography-derived left atrial diameter and maximal LVOT gradient to aid in calculating an estimated 5-year sudden death risk that may be useful during shared decision-making for ICD placement (Table 8).",
+            "ru": "У пациентов с ГКМП в возрасте ≥16 лет целесообразно определять эхокардиографический диаметр левого предсердия и максимальный градиент в ВТЛЖ для помощи в расчете предполагаемого 5-летнего риска внезапной смерти, что может быть полезно в процессе совместного принятия решения об имплантации ИКД (Таблица 8)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [3, 23]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

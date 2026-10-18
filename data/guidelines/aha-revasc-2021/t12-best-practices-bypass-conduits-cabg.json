@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.t12-best-practices-bypass-conduits-cabg",
+  "guidelineId": "aha-revasc-2021",
+  "number": "Table 12",
+  "type": "grid",
+  "title": {
+    "en": "Best Practices for the Use of Bypass Conduits in CABG",
+    "ru": "Передовая клиническая практика использования шунтов при КШ"
+  },
+  "tags": [
+    "cabg",
+    "bypass-conduits",
+    "radial-artery",
+    "skeletonization",
+    "endoscopic-vein-harvest",
+    "no-touch",
+    "gastroepiploic-artery"
+  ],
+  "columns": [
+    {
+      "id": "best_practice",
+      "title": {
+        "en": "Best Practice",
+        "ru": "Клиническая рекомендация / практика"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "palmar-arch-assessment",
+      "cells": [
+        {
+          "text": {
+            "en": "Objectively assess palmar arch completeness and ulnar compensation before harvesting the radial artery. Use the arm with the best ulnar compensation for radial artery harvesting.",
+            "ru": "Объективно оценить замкнутость ладонной дуги и локтевую компенсацию перед забором лучевой артерии. Использовать руку с наилучшей локтевой компенсацией для забора лучевой артерии."
+          }
+        }
+      ]
+    },
+    {
+      "id": "radial-target-subocclusive",
+      "cells": [
+        {
+          "text": {
+            "en": "Use radial artery grafts to target vessels with subocclusive stenoses.",
+            "ru": "Использовать шунты из лучевой артерии к целевым артериям с субокклюзирующими стенозами."
+          }
+        }
+      ]
+    },
+    {
+      "id": "avoid-radial-after-catheterization",
+      "cells": [
+        {
+          "text": {
+            "en": "Avoid the use of the radial artery after transradial catheterization.",
+            "ru": "Избегать использования лучевой артерии после трансрадиальной катетеризации."
+          }
+        }
+      ]
+    },
+    {
+      "id": "avoid-radial-ckd-hemodialysis",
+      "cells": [
+        {
+          "text": {
+            "en": "Avoid the use of the radial artery in patients with chronic kidney disease and a high likelihood of rapid progression to hemodialysis.",
+            "ru": "Избегать использования лучевой артерии у пациентов с хронической болезнью почек с высокой вероятностью быстрого перехода на гемодиализ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "calcium-channel-blockers-radial",
+      "cells": [
+        {
+          "text": {
+            "en": "Use oral calcium channel blockers for the first postoperative year after radial artery grafting.",
+            "ru": "Назначать пероральные блокаторы кальциевых каналов в течение первого послеоперационного года после шунтирования лучевой артерией."
+          }
+        }
+      ]
+    },
+    {
+      "id": "preserve-radial-arteries",
+      "cells": [
+        {
+          "text": {
+            "en": "Avoid bilateral percutaneous or surgical radial artery procedures in patients with coronary artery disease to preserve the artery for future use.",
+            "ru": "Избегать двусторонних эндоваскулярных или хирургических вмешательств на лучевой артерии у пациентов с ИБС для сохранения артерии для возможного будущего использования."
+          }
+        }
+      ]
+    },
+    {
+      "id": "ima-skeletonization",
+      "cells": [
+        {
+          "text": {
+            "en": "Harvest the internal mammary artery using the skeletonization technique to reduce the risk of sternal wound complications.",
+            "ru": "Выделять внутреннюю грудную артерию по скелетизированной методике (скелетизация) для снижения риска инфекционных осложнений стернотомной раны."
+          }
+        }
+      ]
+    },
+    {
+      "id": "endoscopic-vein-harvest",
+      "cells": [
+        {
+          "text": {
+            "en": "Use an endoscopic saphenous vein harvest technique in patients at risk of wound complications.",
+            "ru": "Использовать эндоскопический забор большой подкожной вены (EVH) у пациентов с повышенным риском раневых осложнений."
+          }
+        }
+      ]
+    },
+    {
+      "id": "no-touch-vein-harvest",
+      "cells": [
+        {
+          "text": {
+            "en": "Use a no-touch saphenous vein harvest technique in patients at low risk of wound complications.",
+            "ru": "Использовать бесконтактную технику забора большой подкожной вены (no-touch) у пациентов с низким риском раневых осложнений."
+          }
+        }
+      ]
+    },
+    {
+      "id": "gastroepiploic-artery",
+      "cells": [
+        {
+          "text": {
+            "en": "Use the skeletonized right gastroepiploic artery to graft right coronary artery target vessels with subocclusive stenosis if the operator is experienced with the use of the artery.",
+            "ru": "Использовать скелетизированную правую желудочно-сальниковую артерию для шунтирования правой коронарной артерии с субокклюзирующим стенозом при наличии у хирурга опыта работы с данным трансплантатом."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "CABG indicates coronary artery bypass graft.",
+      "ru": "CABG (КШ) — коронарное шунтирование."
+    }
+  },
+  "source": {
+    "expectedRows": 10
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

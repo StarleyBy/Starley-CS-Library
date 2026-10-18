@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt50-antiplatelet-af-anticoagulation-after-pci",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 50",
+  "title": {
+    "en": "Recommendations for Antiplatelet Therapy in Patients With Atrial Fibrillation on Anticoagulation After PCI",
+    "ru": "Рекомендации по антиагрегантной терапии у пациентов с фибрилляцией предсердий, получающих антикоагулянты, после ЧКВ"
+  },
+  "tags": [
+    "pci",
+    "atrial-fibrillation",
+    "oral-anticoagulation",
+    "doac",
+    "noac",
+    "warfarin",
+    "dapt",
+    "triple-therapy",
+    "double-therapy",
+    "bleeding-risk"
+  ],
+  "sections": [
+    {
+      "id": "sec-antiplatelet-af-pci",
+      "title": {
+        "en": "Antiplatelet Therapy in Patients With Atrial Fibrillation on Anticoagulation After PCI",
+        "ru": "Антиагрегантная терапия у пациентов с фибрилляцией предсердий, получающих антикоагулянты, после ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r01-discontinue-aspirin-1-4-weeks-double-therapy",
+          "text": {
+            "en": "In patients with atrial fibrillation who are undergoing PCI and are taking oral anticoagulant therapy, it is recommended to discontinue aspirin treatment after 1 to 4 weeks while maintaining P2Y12 inhibitors in addition to a non–vitamin K oral anticoagulant (rivaroxaban, dabigatran, apixaban, or edoxaban) or warfarin to reduce the risk of bleeding.",
+            "ru": "У пациентов с фибрилляцией предсердий, подвергающихся ЧКВ и принимающих пероральные антикоагулянты, рекомендуется отменить терапию аспирином через 1–4 недели, продолжая прием ингибитора P2Y12 в комбинации с прямым оральным антикоагулянтом (ривароксабан, дабигатран, апиксабан или эдоксабан) либо варфарином для снижения риска кровотечений."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-doac-over-warfarin-bleeding-reduction",
+          "text": {
+            "en": "In patients with atrial fibrillation who are undergoing PCI, are taking oral anticoagulant therapy, and are treated with DAPT or a P2Y12 inhibitor monotherapy, it is reasonable to choose a non–vitamin K oral anticoagulant over warfarin to reduce the risk of bleeding.",
+            "ru": "У пациентов с фибрилляцией предсердий, подвергающихся ЧКВ, принимающих пероральные антикоагулянты и получающих ДАТТ или монотерапию ингибитором P2Y12, целесообразно отдавать предпочтение прямому оральному антикоагулянту (ПОАК) перед варфарином для снижения риска кровотечений."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1, 3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt48-medical-therapy-bioprosthetic-valve-thrombosis",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 48",
+  "title": {
+    "en": "Recommendation for Medical Therapy of Bioprosthetic Valve Thrombosis",
+    "ru": "Рекомендация по медикаментозной терапии тромбоза биологического клапанного протеза"
+  },
+  "tags": [
+    "vhd",
+    "bioprosthesis",
+    "prosthetic-valves",
+    "bioprosthetic-valve-thrombosis",
+    "vka",
+    "hemodynamically-stable",
+    "anticoagulation"
+  ],
+  "sections": [
+    {
+      "id": "sec-medical-therapy-bioprosthetic-valve-thrombosis",
+      "title": {
+        "en": "Medical Therapy of Bioprosthetic Valve Thrombosis",
+        "ru": "Медикаментозная терапия тромбоза биологического клапанного протеза"
+      },
+      "rows": [
+        {
+          "id": "r01-hemodynamically-stable-bioprosthetic-thrombosis-vka",
+          "text": {
+            "en": "In patients with suspected or confirmed bioprosthetic valve thrombosis who are hemodynamically stable and have no contraindications to anticoagulation, initial treatment with a VKA is reasonable.",
+            "ru": "У пациентов с подозрением на тромбоз биопротеза или подтвержденным тромбозом, находящихся в гемодинамически стабильном состоянии и не имеющих противопоказаний к антикоагулянтам, оправдано начальное лечение АВК."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

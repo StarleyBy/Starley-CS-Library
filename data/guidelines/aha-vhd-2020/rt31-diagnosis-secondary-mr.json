@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt31-diagnosis-secondary-mr",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 31",
+  "title": {
+    "en": "Recommendations for Diagnosis of Secondary MR",
+    "ru": "Рекомендации по диагностике вторичной митральной регургитации"
+  },
+  "tags": [
+    "vhd",
+    "mitral-regurgitation",
+    "secondary-mr",
+    "functional-mr",
+    "diagnosis",
+    "tte",
+    "tee",
+    "coronary-angiography",
+    "myocardial-viability",
+    "cmr",
+    "transcatheter-intervention"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnosis-secondary-mr",
+      "title": {
+        "en": "Diagnosis of Secondary MR",
+        "ru": "Диагностика вторичной митральной регургитации"
+      },
+      "rows": [
+        {
+          "id": "r01-tte-etiology-remodeling-dysfunction-ph",
+          "text": {
+            "en": "In patients with chronic secondary MR (Stages B to D), TTE is useful to establish the etiology and to assess the extent of regional and global LV remodeling and systolic dysfunction, severity of MR, and magnitude of pulmonary hypertension.",
+            "ru": "У пациентов с хронической вторичной МР (Стадии B–D) ТТ-ЭхоКГ полезна для установления этиологии, оценки степени регионарного и глобального ремоделирования и систолической дисфункции ЛЖ, тяжести МР и выраженности легочной гипертензии."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-imaging-viability-coronary-arteriography",
+          "text": {
+            "en": "In patients with chronic secondary MR (Stages B to D), noninvasive imaging (stress nuclear/PET, CMR, or stress echocardiography), coronary CT angiography, or coronary arteriography is useful to establish etiology of MR and to assess myocardial viability.",
+            "ru": "У пациентов с хронической вторичной МР (Стадии B–D) неинвазивная визуализация (стресс-радионуклидная/ПЭТ, МРТ сердца или стресс-ЭхоКГ), КТ-коронарография или коронарная ангиография полезны для уточнения этиологии МР и оценки жизнеспособности миокарда."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r03-tee-suitability-transcatheter-intervention",
+          "text": {
+            "en": "In patients with chronic secondary MR with severe symptoms (Stage D) that are unresponsive to GDMT who are being considered for transcatheter mitral valve interventions, TEE is indicated to determine suitability for the procedure.",
+            "ru": "У пациентов с хронической вторичной МР и выраженными симптомами (Стадия D), рефрактерными к ОМТ, рассматриваемых на транскатетерное вмешательство на митральном клапане, показана ЧП-ЭхоКГ для определения анатомической пригодности к вмешательству."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [3, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r04-tee-intraprocedural-guidance-transcatheter",
+          "text": {
+            "en": "In patients with chronic secondary MR undergoing transcatheter mitral valve intervention, intraprocedural guidance with TEE is recommended.",
+            "ru": "У пациентов с хронической вторичной МР, подвергающихся транскатетерному вмешательству на митральном клапане, рекомендуется интрапроцедурная ЧП-ЭхоКГ-навигация."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [4, 7, 9, 10, 11, 12, 13]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

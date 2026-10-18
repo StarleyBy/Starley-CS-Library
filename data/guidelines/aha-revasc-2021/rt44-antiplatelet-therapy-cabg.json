@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt44-antiplatelet-therapy-cabg",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 44",
+  "title": {
+    "en": "Recommendations for Antiplatelet Therapy in Patients Undergoing CABG",
+    "ru": "Рекомендации по антиагрегантной терапии у пациентов, проходящих КШ"
+  },
+  "tags": [
+    "cabg",
+    "antiplatelet-therapy",
+    "aspirin",
+    "p2y12-inhibitors",
+    "clopidogrel",
+    "ticagrelor",
+    "prasugrel",
+    "gp-iib-iiia-inhibitors",
+    "bleeding-risk",
+    "urgent-cabg",
+    "elective-cabg"
+  ],
+  "sections": [
+    {
+      "id": "sec-antiplatelet-therapy-cabg",
+      "title": {
+        "en": "Antiplatelet Therapy in Patients Undergoing CABG",
+        "ru": "Антиагрегантная терапия у пациентов, проходящих КШ"
+      },
+      "rows": [
+        {
+          "id": "r01-continue-daily-aspirin-preop",
+          "text": {
+            "en": "In patients undergoing CABG who are already taking daily aspirin preoperatively, it is recommended that they continue taking aspirin until the time of surgery to reduce ischemic events.",
+            "ru": "У пациентов, подвергающихся КШ, которые уже ежедневно принимают аспирин до операции, рекомендуется продолжать прием аспирина вплоть до момента операции для снижения частоты ишемических событий."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-discontinue-clopidogrel-ticagrelor-urgent-24h",
+          "text": {
+            "en": "In patients referred for urgent CABG, clopidogrel and ticagrelor should be discontinued for at least 24 hours before surgery to reduce major bleeding complications.",
+            "ru": "У пациентов, направленных на неотложное КШ, прием клопидогрела и тикагрелора следует прекратить как минимум за 24 часа до операции для снижения частоты больших геморрагических осложнений."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [8, 9, 10, 11]
+        },
+        {
+          "id": "r03-discontinue-gp-iib-iiia-inhibitors-preop",
+          "text": {
+            "en": "In patients undergoing CABG, discontinuation of short-acting glycoprotein IIb/IIIa inhibitors (eptifibatide and tirofiban) for 4 hours and abciximab for 12 hours before surgery is recommended to reduce the risk of bleeding and transfusion.",
+            "ru": "У пациентов, подвергающихся КШ, для снижения риска кровотечений и трансфузий рекомендуется отмена короткодействующих ингибиторов гликопротеина IIb/IIIa (эптифибатида и тирофибана) за 4 часа, а абциксимаба — за 12 часов до операции."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [12, 13, 14]
+        },
+        {
+          "id": "r04-discontinue-p2y12-elective-cabg-timing",
+          "text": {
+            "en": "In patients undergoing elective CABG who receive P2Y12 receptor inhibitors before surgery, it is reasonable to discontinue clopidogrel for 5 days, ticagrelor for 3 days, and prasugrel for 7 days before CABG to reduce risk of major bleeding and blood product transfusion.",
+            "ru": "У пациентов, подвергающихся плановому КШ и получающих ингибиторы рецепторов P2Y12 перед операцией, целесообразно отменить клопидогрел за 5 дней, тикагрелор за 3 дня и прасугрел за 7 дней до КШ для снижения риска больших кровотечений и трансфузий компонентов крови."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [8, 9, 11, 15, 16, 17, 18, 19, 20, 21, 22, 23]
+        },
+        {
+          "id": "r05-no-new-aspirin-initiation-preop-elective",
+          "text": {
+            "en": "In patients undergoing elective CABG who are not already taking aspirin, the initiation of aspirin (100–300 mg daily) in the immediate preoperative period (<24 hours before surgery) is not recommended.",
+            "ru": "У пациентов, подвергающихся плановому КШ, которые ранее не принимали аспирин, начало приема аспирина (100–300 мг/сут) в непосредственном предоперационном периоде (<24 часов до операции) не рекомендуется."
+          },
+          "class": "III-no-benefit",
+          "level": "B-R",
+          "refs": [24, 25]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

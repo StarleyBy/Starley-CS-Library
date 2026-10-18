@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt06-periodic-imaging-after-valve-intervention",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 6",
+  "title": {
+    "en": "Recommendation for Periodic Imaging After Valve Intervention",
+    "ru": "Рекомендация по периодической визуализации после вмешательства на клапане"
+  },
+  "tags": [
+    "vhd",
+    "valve-intervention",
+    "postprocedural-imaging",
+    "tte",
+    "surveillance",
+    "monitoring"
+  ],
+  "sections": [
+    {
+      "id": "sec-periodic-imaging-after-valve-intervention",
+      "title": {
+        "en": "Periodic Imaging After Valve Intervention",
+        "ru": "Периодическая визуализация после клапанного вмешательства"
+      },
+      "rows": [
+        {
+          "id": "r01-baseline-periodic-postprocedural-tte",
+          "text": {
+            "en": "In asymptomatic patients with any type of valve intervention, a baseline postprocedural TTE followed by periodic monitoring with TTE is recommended, depending on type of intervention, length of time after intervention, ventricular function, and concurrent cardiac conditions.",
+            "ru": "У бессимптомных пациентов после любого типа клапанного вмешательства рекомендуется выполнение исходной ТТ-ЭхоКГ после процедуры с последующим периодическим мониторингом с помощью ТТ-ЭхоКГ в зависимости от типа вмешательства, времени после вмешательства, функции желудочков и сопутствующих кардиальных состояний."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

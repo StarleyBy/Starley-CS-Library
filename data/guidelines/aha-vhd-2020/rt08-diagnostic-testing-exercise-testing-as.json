@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt08-diagnostic-testing-exercise-testing-as",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 8",
+  "title": {
+    "en": "Recommendations for Diagnostic Testing: Exercise Testing in Patients With AS",
+    "ru": "Рекомендации по диагностическому обследованию: нагрузочное тестирование у пациентов с аортальным стенозом"
+  },
+  "tags": [
+    "vhd",
+    "aortic-stenosis",
+    "exercise-testing",
+    "stress-testing",
+    "asymptomatic-as",
+    "stage-c1",
+    "stage-d1",
+    "contraindication"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnostic-testing-exercise-testing-as",
+      "title": {
+        "en": "Diagnostic Testing: Exercise Testing in Patients With AS",
+        "ru": "Диагностическое обследование: нагрузочное тестирование у пациентов с аортальным стенозом"
+      },
+      "rows": [
+        {
+          "id": "r01-exercise-testing-asymptomatic-stage-c1",
+          "text": {
+            "en": "In asymptomatic patients with severe AS (Stage C1), exercise testing is reasonable to assess physiological changes with exercise and to confirm the absence of symptoms.",
+            "ru": "У бессимптомных пациентов с тяжелым АС (Стадия C1) оправдано проведение нагрузочного теста для оценки физиологических изменений при нагрузке и подтверждения бессимптомного статуса."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-no-exercise-testing-symptomatic-stage-d1",
+          "text": {
+            "en": "In symptomatic patients with severe AS (Stage D1, aortic velocity ≥4.0 m/s or mean pressure gradient ≥40 mm Hg), exercise testing should not be performed because of the risk of severe hemodynamic compromise.",
+            "ru": "У симптомных пациентов с тяжелым АС (Стадия D1, скорость на аортальном клапане ≥4,0 м/с или средний градиент давления ≥40 мм рт. ст.) нагрузочное тестирование не должно проводиться из-за риска тяжелых гемодинамических нарушений."
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

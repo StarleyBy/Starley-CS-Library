@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-hcm-2024.rt10-genetics-family-screening",
+  "guidelineId": "aha-hcm-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 10",
+  "title": {
+    "en": "Recommendations for Genetics and Family Screening",
+    "ru": "Рекомендации по генетическому тестированию и семейному скринингу"
+  },
+  "tags": [
+    "hcm",
+    "genetics",
+    "genetic-testing",
+    "family-screening",
+    "cascade-testing",
+    "genetic-counseling",
+    "proband",
+    "vus",
+    "postmortem-genetics",
+    "prenatal-counseling"
+  ],
+  "sections": [
+    {
+      "id": "sec-genetics-family-screening",
+      "title": {
+        "en": "Genetics and Family Screening in HCM",
+        "ru": "Генетическое тестирование и семейный скрининг при ГКМП"
+      },
+      "rows": [
+        {
+          "id": "r01-familial-inheritance-3-generation-history",
+          "text": {
+            "en": "In patients with HCM, evaluation of familial inheritance, including a 3-generation family history, is recommended as part of the initial assessment.",
+            "ru": "У пациентов с ГКМП оценка семейного наследования, включая сбор родословной в 3 поколениях семьи, рекомендуется в рамках первичного обследования."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-genetic-testing-cascade-screening",
+          "text": {
+            "en": "In patients with HCM, genetic testing is beneficial to elucidate the genetic basis to facilitate the identification of family members at risk for developing HCM (cascade testing).",
+            "ru": "У пациентов с ГКМП генетическое тестирование полезно для выяснения генетической причины с целью облегчения выявления членов семьи, подверженных риску развития заболевания (каскадное тестирование)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [8, 9, 10, 11]
+        },
+        {
+          "id": "r03-atypical-presentation-phenocopies-testing",
+          "text": {
+            "en": "In patients with an atypical clinical presentation of HCM or when another genetic condition is suspected to be the cause, a workup including genetic testing for HCM and other genetic causes of unexplained cardiac hypertrophy (\"HCM phenocopies\") is recommended.",
+            "ru": "У пациентов с атипичной клинической картиной ГКМП или при подозрении на другое генетическое заболевание рекомендуется обследование, включающее генетическое тестирование на ГКМП и другие наследственные причины необъяснимой гипертрофии миокарда («фенокопии ГКМП»)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [12, 13, 14]
+        },
+        {
+          "id": "r04-cardiovascular-genetic-counseling",
+          "text": {
+            "en": "In patients with HCM, genetic counseling by an expert in the genetics of cardiovascular disease is recommended so that risks, benefits, test results, and their clinical significance can be reviewed and discussed with the patient in a shared decision-making process.",
+            "ru": "У пациентов с ГКМП рекомендуется медико-генетическое консультирование специалистом в области кардиогенетики для обсуждения рисков, пользы, результатов тестов и их клинического значения совместно с пациентом в процессе партнерского принятия решений."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 15]
+        },
+        {
+          "id": "r05-initial-tier-strong-evidence-genes",
+          "text": {
+            "en": "When performing genetic testing in a proband with HCM, the initial tier of genes tested should include genes with strong evidence to be disease-causing in HCM.^[a]",
+            "ru": "При проведении генетического тестирования у пробанда с ГКМП первичная панель исследуемых генов должна включать гены с доказанной причинной связью с ГКМП.^[a]"
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [8, 11, 16, 17]
+        },
+        {
+          "id": "r06-first-degree-relatives-clinical-cascade-testing",
+          "text": {
+            "en": "In first-degree relatives of patients with HCM, both clinical screening (ECG and 2D echocardiogram) and cascade genetic testing (when a pathogenic/likely pathogenic variant has been identified in the proband) should be offered.",
+            "ru": "Родственникам первой линии пациентов с ГКМП следует предлагать как клинический скрининг (ЭКГ и двухмерную ЭхоКГ), так и каскадное генетическое тестирование (если у пробанда выявлен патогенный или вероятно патогенный вариант)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [2, 12, 18, 19, 20]
+        },
+        {
+          "id": "r07-postmortem-genetic-testing-sudden-death",
+          "text": {
+            "en": "In families where a sudden unexplained death has occurred with a postmortem diagnosis of HCM, postmortem genetic testing is beneficial to facilitate cascade genetic testing and clinical screening in first-degree relatives.",
+            "ru": "В семьях, где произошла внезапная необъяснимая смерть с посмертным диагнозом ГКМП, посмертное генетическое тестирование полезно для облегчения каскадного генетического тестирования и клинического скрининга родственников первой линии."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [21, 22]
+        },
+        {
+          "id": "r08-serial-reevaluation-variant-reclassification",
+          "text": {
+            "en": "In patients with HCM who have undergone genetic testing, serial reevaluation of the clinical significance of the variant(s) identified is recommended to assess for variant reclassification, which may impact diagnosis and cascade genetic testing in family members (Figures 1 and 2).",
+            "ru": "У пациентов с ГКМП, прошедших генетическое тестирование, рекомендуется периодическая переоценка клинической значимости выявленных вариантов генов на предмет возможной реклассификации, которая может повлиять на диагноз и каскадное тестирование членов семьи (Рисунки 1 и 2)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [23, 24, 25]
+        },
+        {
+          "id": "r09-preconception-prenatal-genetic-counseling",
+          "text": {
+            "en": "In affected families with HCM, preconception and prenatal reproductive and genetic counseling should be offered.",
+            "ru": "В семьях с ГКМП следует предлагать преконцепционное и пренатальное репродуктивное и генетическое консультирование."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 15]
+        },
+        {
+          "id": "r10-genetic-testing-scd-risk-uncertain-adults",
+          "text": {
+            "en": "In adult patients with HCM, the usefulness of genetic testing in the assessment of risk of SCD is uncertain.",
+            "ru": "У взрослых пациентов с ГКМП польза генетического тестирования в оценке риска ВСС не определена."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [10, 26, 27]
+        },
+        {
+          "id": "r11-vus-testing-phenotype-negative-uncertain",
+          "text": {
+            "en": "In patients with HCM who have a variant of uncertain significance (VUS), the usefulness of clinical genetic testing of phenotype-negative relatives for the purpose of variant reclassification is uncertain.",
+            "ru": "У пациентов с ГКМП, имеющих вариант с неопределенной значимостью (VUS), польза клинического генетического тестирования фенотип-отрицательных родственников с целью реклассификации варианта не определена."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [4, 28, 29]
+        },
+        {
+          "id": "r12-no-pathogenic-variant-no-cascade-testing",
+          "text": {
+            "en": "For patients with HCM who have undergone genetic testing and were found to have no pathogenic variants (ie, harbor only benign or likely benign variants), cascade genetic testing of the family is not useful.",
+            "ru": "У пациентов с ГКМП, прошедших генетическое тестирование и не имеющих патогенных вариантов (то есть несущих только доброкачественные или вероятно доброкачественные варианты), каскадное генетическое тестирование членов семьи не приносит пользы."
+          },
+          "class": "III-no-benefit",
+          "level": "B-NR",
+          "refs": [4, 8, 9, 10]
+        },
+        {
+          "id": "r13-no-ongoing-screening-genotype-negative",
+          "text": {
+            "en": "Ongoing clinical screening is not indicated in genotype-negative relatives in families with genotype-positive HCM, unless the disease-causing variant is downgraded to a VUS, likely benign, or benign variant during follow-up.",
+            "ru": "Дальнейший клинический скрининг не показан генотип-отрицательным родственникам в семьях с генотип-положительной ГКМП, если только причинный вариант в процессе наблюдения не был реклассифицирован в VUS, вероятно доброкачественный или доброкачественный."
+          },
+          "class": "III-no-benefit",
+          "level": "B-NR",
+          "refs": [10, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Strong evidence HCM genes include, at the time of this publication: MYH7, MYBPC3, TNNI3, TNNT2, TPM1, MYL2, MYL3, and ACTC1.",
+      "ru": "Гены ГКМП с убедительной доказательной базой включают (на момент публикации): MYH7, MYBPC3, TNNI3, TNNT2, TPM1, MYL2, MYL3 и ACTC1."
+    }
+  },
+  "source": {
+    "expectedRows": 13
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

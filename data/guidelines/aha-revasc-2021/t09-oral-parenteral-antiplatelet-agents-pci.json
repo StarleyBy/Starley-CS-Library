@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.t09-oral-parenteral-antiplatelet-agents-pci",
+  "guidelineId": "aha-revasc-2021",
+  "number": "Table 9",
+  "type": "grid",
+  "title": {
+    "en": "Oral and Parenteral Antiplatelet Agents for Patients Undergoing PCI",
+    "ru": "Пероральные и парентеральные антиагреганты для пациентов, проходящих ЧКВ"
+  },
+  "tags": [
+    "antiplatelet-agents",
+    "pci",
+    "aspirin",
+    "clopidogrel",
+    "prasugrel",
+    "ticagrelor",
+    "abciximab",
+    "eptifibatide",
+    "tirofiban",
+    "cangrelor",
+    "dosing"
+  ],
+  "columns": [
+    {
+      "id": "drug",
+      "title": {
+        "en": "Drug",
+        "ru": "Препарат"
+      }
+    },
+    {
+      "id": "loading_dose",
+      "title": {
+        "en": "Loading Dose",
+        "ru": "Нагрузочная доза"
+      }
+    },
+    {
+      "id": "maintenance_dose",
+      "title": {
+        "en": "Maintenance Dose",
+        "ru": "Поддерживающая доза"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-oral-antiplatelet-agents",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**Oral antiplatelet agents**",
+            "ru": "**Пероральные антитромбоцитарные препараты**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aspirin",
+      "cells": [
+        {
+          "text": {
+            "en": "Aspirin",
+            "ru": "Аспирин"
+          }
+        },
+        {
+          "text": {
+            "en": "Loading dose of 162–325 mg orally\nAspirin may be chewed to achieve faster action",
+            "ru": "Нагрузочная доза 162–325 мг внутрь\nАспирин можно разжевать для ускорения начала действия"
+          },
+          "refs": [11]
+        },
+        {
+          "text": {
+            "en": "Maintenance dose of 75–100 mg orally daily",
+            "ru": "Поддерживающая доза 75–100 мг внутрь 1 раз в сутки"
+          },
+          "refs": [24, 25]
+        }
+      ]
+    },
+    {
+      "id": "clopidogrel",
+      "cells": [
+        {
+          "text": {
+            "en": "Clopidogrel",
+            "ru": "Клопидогрел"
+          }
+        },
+        {
+          "text": {
+            "en": "Loading dose of 600 mg orally\nA lower loading dose of 300 mg should be considered in patients after fibrinolytic therapy",
+            "ru": "Нагрузочная доза 600 мг внутрь\nБолее низкая нагрузочная доза 300 мг должна быть рассмотрена у пациентов после фибринолитической терапии"
+          },
+          "refs": [5, 14]
+        },
+        {
+          "text": {
+            "en": "Maintenance dose of 75 mg orally daily",
+            "ru": "Поддерживающая доза 75 мг внутрь 1 раз в сутки"
+          },
+          "refs": [14]
+        }
+      ]
+    },
+    {
+      "id": "prasugrel",
+      "cells": [
+        {
+          "text": {
+            "en": "Prasugrel",
+            "ru": "Прасугрел"
+          }
+        },
+        {
+          "text": {
+            "en": "Loading dose of 60 mg orally",
+            "ru": "Нагрузочная доза 60 мг внутрь"
+          },
+          "refs": [20]
+        },
+        {
+          "text": {
+            "en": "Maintenance dose of 10 mg orally daily\nIn patients with body weight <60 kg, a maintenance dose of 5 mg orally daily is recommended\nIn patients ≥75 years of age, a dose of 5 mg orally daily can be used if deemed necessary",
+            "ru": "Поддерживающая доза 10 мг внутрь 1 раз в сутки\nУ пациентов с массой тела <60 кг рекомендуется поддерживающая доза 5 мг внутрь 1 раз в сутки\nУ пациентов в возрасте ≥75 лет доза 5 мг внутрь 1 раз в сутки может использоваться при необходимости"
+          },
+          "refs": [20, 26]
+        }
+      ]
+    },
+    {
+      "id": "ticagrelor",
+      "cells": [
+        {
+          "text": {
+            "en": "Ticagrelor",
+            "ru": "Тикагрелор"
+          }
+        },
+        {
+          "text": {
+            "en": "Loading dose of 180 mg orally\nTicagrelor may be chewed to achieve faster action",
+            "ru": "Нагрузочная доза 180 мг внутрь\nТикагрелор можно разжевать для ускорения начала действия"
+          },
+          "refs": [14]
+        },
+        {
+          "text": {
+            "en": "Maintenance dose of 90 mg orally twice a day",
+            "ru": "Поддерживающая доза 90 мг внутрь 2 раза в сутки"
+          },
+          "refs": [14]
+        }
+      ]
+    },
+    {
+      "id": "sec-intravenous-antiplatelet-agents",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "text": {
+            "en": "**Intravenous antiplatelet agents**",
+            "ru": "**Внутривенные антитромбоцитарные препараты**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "abciximab",
+      "cells": [
+        {
+          "text": {
+            "en": "Abciximab (GPI)*",
+            "ru": "Абциксимаб (GPI)*"
+          }
+        },
+        {
+          "text": {
+            "en": "Bolus of 0.25 mg/kg",
+            "ru": "Болюс 0,25 мг/кг"
+          },
+          "refs": [36]
+        },
+        {
+          "text": {
+            "en": "Maintenance of 0.125 µg/kg/min infusion (maximum 10 µg/min) for 12 h",
+            "ru": "Поддерживающая инфузия 0,125 мкг/кг/мин (максимум 10 мкг/мин) в течение 12 часов"
+          },
+          "refs": [36]
+        }
+      ]
+    },
+    {
+      "id": "eptifibatide",
+      "cells": [
+        {
+          "text": {
+            "en": "Eptifibatide (GPI)",
+            "ru": "Эптифибатид (GPI)"
+          }
+        },
+        {
+          "text": {
+            "en": "Double bolus of 180 µg/kg (given at a 10-min interval)",
+            "ru": "Двойной болюс по 180 мкг/кг (с интервалом 10 минут)"
+          },
+          "refs": [37]
+        },
+        {
+          "text": {
+            "en": "Maintenance infusion of 2.0 µg/kg/min for up to 18 h",
+            "ru": "Поддерживающая инфузия 2,0 мкг/кг/мин до 18 часов"
+          },
+          "refs": [37]
+        }
+      ]
+    },
+    {
+      "id": "tirofiban",
+      "cells": [
+        {
+          "text": {
+            "en": "Tirofiban (GPI)",
+            "ru": "Тирофибан (GPI)"
+          }
+        },
+        {
+          "text": {
+            "en": "Bolus of 25 µg/kg over 3 min",
+            "ru": "Болюс 25 мкг/кг в течение 3 минут"
+          },
+          "refs": [38]
+        },
+        {
+          "text": {
+            "en": "Maintenance infusion of 0.15 µg/kg/min for up to 18 h",
+            "ru": "Поддерживающая инфузия 0,15 мкг/кг/мин до 18 часов"
+          },
+          "refs": [38]
+        }
+      ]
+    },
+    {
+      "id": "cangrelor",
+      "cells": [
+        {
+          "text": {
+            "en": "Cangrelor",
+            "ru": "Кангрелор"
+          }
+        },
+        {
+          "text": {
+            "en": "Bolus of 30 µg/kg",
+            "ru": "Болюс 30 мкг/кг"
+          },
+          "refs": [39]
+        },
+        {
+          "text": {
+            "en": "Maintenance infusion 4 µg/kg/min for at least 2 h or duration of the procedure, whichever is longer",
+            "ru": "Поддерживающая инфузия 4 мкг/кг/мин не менее 2 часов или на протяжении всей процедуры (в зависимости от того, что дольше)"
+          },
+          "refs": [39]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "GPI indicates glycoprotein IIb/IIIa inhibitor; and PCI, percutaneous coronary intervention. *Abciximab may not be readily available to clinicians in the United States.",
+      "ru": "GPI — ингибитор гликопротеина IIb/IIIa; PCI (ЧКВ) — чрескожное коронарное вмешательство. *Абциксимаб может быть недоступен для клинического применения в ряде стран."
+    }
+  },
+  "source": {
+    "expectedRows": 10
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

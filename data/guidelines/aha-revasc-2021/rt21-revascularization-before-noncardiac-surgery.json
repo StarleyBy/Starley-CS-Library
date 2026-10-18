@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt21-revascularization-before-noncardiac-surgery",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 21",
+  "title": {
+    "en": "Recommendation for Revascularization in Patients Before Noncardiac Surgery",
+    "ru": "Рекомендация по реваскуляризации у пациентов перед некардиальными хирургическими вмешательствами"
+  },
+  "tags": [
+    "noncardiac-surgery",
+    "perioperative",
+    "revascularization",
+    "stable-cad",
+    "noncomplex-cad"
+  ],
+  "sections": [
+    {
+      "id": "sec-revascularization-before-noncardiac-surgery",
+      "title": {
+        "en": "Revascularization in Patients Before Noncardiac Surgery",
+        "ru": "Реваскуляризация у пациентов перед некардиальными хирургическими вмешательствами"
+      },
+      "rows": [
+        {
+          "id": "r01-noncardiac-surgery-noncomplex-no-routine-revasc",
+          "text": {
+            "en": "In patients with non–left main or noncomplex CAD who are undergoing noncardiac surgery, routine coronary revascularization is not recommended solely to reduce perioperative cardiovascular events.",
+            "ru": "У пациентов с поражением не ствола ЛКА или несложным поражением коронарного русла, которым предстоит внесердечная операция, рутинная коронарная реваскуляризация исключительно с целью снижения периоперационных сердечно-сосудистых событий не рекомендуется."
+          },
+          "class": "III-no-benefit",
+          "level": "B-R",
+          "refs": [1]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

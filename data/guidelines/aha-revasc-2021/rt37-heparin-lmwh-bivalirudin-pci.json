@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt37-heparin-lmwh-bivalirudin-pci",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 37",
+  "title": {
+    "en": "Recommendations for Heparin, Low-Molecular-Weight Heparin, and Bivalirudin in Patients Undergoing PCI",
+    "ru": "Рекомендации по гепарину, низкомолекулярному гепарину и бивалирудину у пациентов, проходящих ЧКВ"
+  },
+  "tags": [
+    "anticoagulation",
+    "ufh",
+    "lmwh",
+    "enoxaparin",
+    "bivalirudin",
+    "argatroban",
+    "hit",
+    "pci"
+  ],
+  "sections": [
+    {
+      "id": "sec-heparin-lmwh-bivalirudin-pci",
+      "title": {
+        "en": "Heparin, Low-Molecular-Weight Heparin, and Bivalirudin in Patients Undergoing PCI",
+        "ru": "Гепарин, низкомолекулярный гепарин и бивалирудин у пациентов, проходящих ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r01-pci-iv-ufh-useful",
+          "text": {
+            "en": "In patients undergoing PCI, administration of intravenous unfractionated heparin (UFH) is useful to reduce ischemic events.",
+            "ru": "У пациентов, которым проводится ЧКВ, внутривенное введение нефракционированного гепарина (НФГ/UFH) полезно для снижения частоты ишемических событий."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r02-hit-pci-bivalirudin-or-argatroban",
+          "text": {
+            "en": "In patients with heparin-induced thrombocytopenia undergoing PCI, bivalirudin or argatroban should be used to replace UFH to avoid thrombotic complications.",
+            "ru": "У пациентов с гепарин-индуцированной тромбоцитопенией (ГИТ/HIT), которым проводится ЧКВ, вместо НФГ (UFH) следует использовать бивалирудин или аргатробан для предотвращения тромботических осложнений."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r03-pci-bivalirudin-alternative-to-ufh-bleeding",
+          "text": {
+            "en": "In patients undergoing PCI, bivalirudin may be a reasonable alternative to UFH to reduce bleeding.",
+            "ru": "У пациентов, которым проводится ЧКВ, бивалирудин может быть разумной альтернативой НФГ (UFH) для снижения риска кровотечений."
+          },
+          "class": "IIb",
+          "level": "A",
+          "refs": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+        },
+        {
+          "id": "r04-upstream-sc-enoxaparin-iv-enoxaparin-at-pci",
+          "text": {
+            "en": "In patients treated with upstream subcutaneous enoxaparin for unstable angina or NSTE-ACS, the use of intravenous enoxaparin may be considered at the time of PCI to reduce ischemic events.",
+            "ru": "У пациентов, получавших предварительную подкожную терапию эноксапарином по поводу нестабильной стенокардии или ОКСбпST (NSTE-ACS), может быть рассмотрено внутривенное введение эноксапарина во время ЧКВ для снижения ишемических событий."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [13, 14, 15, 16, 17]
+        },
+        {
+          "id": "r05-sc-enoxaparin-within-12h-no-ufh-harm",
+          "text": {
+            "en": "In patients on therapeutic subcutaneous enoxaparin, in whom the last dose was administered within 12 hours of PCI, UFH should not be used for PCI and may increase bleeding.",
+            "ru": "У пациентов, получающих терапевтические дозы подкожного эноксапарина, у которых последняя доза была введена в пределах 12 часов до ЧКВ, НФГ (UFH) не должен применяться при ЧКВ, так как это может увеличить риск кровотечений."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [14, 18, 19]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

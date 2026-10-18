@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt31-treatment-cto",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 31",
+  "title": {
+    "en": "Recommendation for Treatment of CTO",
+    "ru": "Рекомендация по лечению хронических тотальных окклюзий (ХТО/CTO)"
+  },
+  "tags": [
+    "cto",
+    "chronic-total-occlusion",
+    "refractory-angina",
+    "pci"
+  ],
+  "sections": [
+    {
+      "id": "sec-treatment-cto",
+      "title": {
+        "en": "Treatment of CTO",
+        "ru": "Лечение хронических тотальных окклюзий (ХТО/CTO)"
+      },
+      "rows": [
+        {
+          "id": "r01-cto-refractory-angina-pci-benefit-uncertain",
+          "text": {
+            "en": "In patients with suitable anatomy who have refractory angina on medical therapy, after treatment of non-CTO lesions, the benefit of PCI of a CTO to improve symptoms is uncertain.",
+            "ru": "У пациентов с подходящей анатомией и рефрактерной стенокардией на фоне медикаментозной терапии после лечения поражений, не являющихся ХТО, польза ЧКВ хронической тотальной окклюзии (ХТО/CTO) для уменьшения симптомов не определена."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

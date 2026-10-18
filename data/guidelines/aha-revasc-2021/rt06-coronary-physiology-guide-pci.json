@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt06-coronary-physiology-guide-pci",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 6",
+  "title": {
+    "en": "Recommendations for the Use of Coronary Physiology to Guide Revascularization With PCI",
+    "ru": "Рекомендации по оценке физиологии коронарного кровотока для определения показаний к ЧКВ"
+  },
+  "tags": [
+    "coronary-physiology",
+    "ffr",
+    "ifr",
+    "intermediate-stenosis",
+    "pci",
+    "ischemia"
+  ],
+  "sections": [
+    {
+      "id": "sec-coronary-physiology-pci",
+      "title": {
+        "en": "Coronary Physiology to Guide Revascularization With PCI",
+        "ru": "Оценка физиологии коронарного кровотока для определения показаний к ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r01-ffr-ifr-intermediate-stenosis-angina",
+          "text": {
+            "en": "In patients with angina or an anginal equivalent, undocumented ischemia, and angiographically intermediate stenoses, the use of fractional flow reserve (FFR) or instantaneous wave-free ratio (iFR) is recommended to guide the decision to proceed with PCI.",
+            "ru": "У пациентов со стенокардией или ее эквивалентами, недокументированной ишемией и ангиографически пограничными стенозами рекомендуется определение фракционного резерва кровотока (FFR) или моментального резерва кровотока в диастолу (iFR) для принятия решения о целесообразности ЧКВ."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-ffr-gt-080-ifr-gt-089-no-pci",
+          "text": {
+            "en": "In stable patients with angiographically intermediate stenoses and FFR >0.80 or iFR >0.89, PCI should not be performed.",
+            "ru": "У стабильных пациентов с ангиографически пограничными стенозами и значениями FFR >0,80 или iFR >0,89 выполнение ЧКВ не рекомендовано."
+          },
+          "class": "III-no-benefit",
+          "level": "B-R",
+          "refs": [5, 6, 7, 8, 9, 10]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

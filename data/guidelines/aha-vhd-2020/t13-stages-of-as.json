@@ -1,0 +1,396 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t13-stages-of-as",
+  "guidelineId": "aha-vhd-2020",
+  "number": "Table 13",
+  "type": "grid",
+  "title": {
+    "en": "Stages of AS",
+    "ru": "Стадии аортального стеноза"
+  },
+  "tags": [
+    "vhd",
+    "aortic-stenosis",
+    "stages-of-as",
+    "stage-a",
+    "stage-b",
+    "stage-c1",
+    "stage-c2",
+    "stage-d1",
+    "stage-d2",
+    "stage-d3",
+    "low-flow-low-gradient",
+    "paradoxical-low-flow"
+  ],
+  "columns": [
+    {
+      "id": "stage",
+      "title": {
+        "en": "Stage",
+        "ru": "Стадия"
+      }
+    },
+    {
+      "id": "definition",
+      "title": {
+        "en": "Definition",
+        "ru": "Определение"
+      }
+    },
+    {
+      "id": "valve_anatomy",
+      "title": {
+        "en": "Valve Anatomy",
+        "ru": "Анатомия клапана"
+      }
+    },
+    {
+      "id": "valve_hemodynamics",
+      "title": {
+        "en": "Valve Hemodynamics",
+        "ru": "Клапанная гемодинамика"
+      }
+    },
+    {
+      "id": "hemodynamic_consequences",
+      "title": {
+        "en": "Hemodynamic Consequences",
+        "ru": "Гемодинамические последствия"
+      }
+    },
+    {
+      "id": "symptoms",
+      "title": {
+        "en": "Symptoms",
+        "ru": "Симптомы"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "stage-a",
+      "cells": [
+        {
+          "text": {
+            "en": "A",
+            "ru": "A"
+          }
+        },
+        {
+          "text": {
+            "en": "At risk of AS",
+            "ru": "В группе риска развития АС"
+          }
+        },
+        {
+          "text": {
+            "en": "BAV (or other congenital valve anomaly)\nAortic valve sclerosis",
+            "ru": "ДАК (или другая врожденная клапанная аномалия)\nСклероз аортального клапана"
+          }
+        },
+        {
+          "text": {
+            "en": "Aortic V_max <2 m/s with normal leaflet motion",
+            "ru": "Скорость на аортальном клапане V_max <2 м/с при нормальной подвижности створок"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-b",
+      "cells": [
+        {
+          "text": {
+            "en": "B",
+            "ru": "B"
+          }
+        },
+        {
+          "text": {
+            "en": "Progressive AS",
+            "ru": "Прогрессирующий АС"
+          }
+        },
+        {
+          "text": {
+            "en": "Mild to moderate leaflet calcification/fibrosis of a bicuspid or trileaflet valve with some reduction in systolic motion or\nRheumatic valve changes with commissural fusion",
+            "ru": "Легкий или умеренный кальциноз/фиброз створок двустворчатого или трехстворчатого клапана с некоторым ограничением систолического открытия или\nРевматические изменения клапана со сращением комиссур"
+          }
+        },
+        {
+          "text": {
+            "en": "Mild AS: aortic V_max 2.0–2.9 m/s or mean ΔP <20 mm Hg\nModerate AS: aortic V_max 3.0–3.9 m/s or mean ΔP 20–39 mm Hg",
+            "ru": "Легкий АС: аортальная V_max 2,0–2,9 м/с или средний ΔP <20 мм рт. ст.\nУмеренный АС: аортальная V_max 3,0–3,9 м/с или средний ΔP 20–39 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "Early LV diastolic dysfunction may be present\nNormal LVEF",
+            "ru": "Возможна ранняя диастолическая дисфункция ЛЖ\nНормальная ФВ ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-stage-c",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 6,
+          "text": {
+            "en": "**C: Asymptomatic severe AS**",
+            "ru": "**C: Бессимптомный тяжелый аортальный стеноз**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-c1",
+      "cells": [
+        {
+          "text": {
+            "en": "C1",
+            "ru": "C1"
+          }
+        },
+        {
+          "text": {
+            "en": "Asymptomatic severe AS",
+            "ru": "Бессимптомный тяжелый АС"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe leaflet calcification/fibrosis or congenital stenosis with severely reduced leaflet opening",
+            "ru": "Выраженный кальциноз/фиброз створок или врожденный стеноз с резким ограничением открытия створок"
+          }
+        },
+        {
+          "text": {
+            "en": "Aortic V_max ≥4 m/s or mean ΔP ≥40 mm Hg\nAVA typically is ≤1.0 cm^2 (or AVAi ≤0.6 cm^2/m^2) but not required to define severe AS\nVery severe AS is an aortic V_max ≥5 m/s or mean P ≥60 mm Hg",
+            "ru": "Аортальная V_max ≥4 м/с или средний ΔP ≥40 мм рт. ст.\nПлощадь АОК обычно ≤1,0 см² (или индекс AVAi ≤0,6 см²/м²), но не обязательна для констатации тяжелого АС\nКрайне тяжелый АС: V_max ≥5 м/с или средний градиент ≥60 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "LV diastolic dysfunction\nMild LV hypertrophy\nNormal LVEF",
+            "ru": "Диастолическая дисфункция ЛЖ\nУмеренная гипертрофия ЛЖ\nНормальная ФВ ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "None\nExercise testing is reasonable to confirm symptom status",
+            "ru": "Отсутствуют\nНагрузочный тест оправдан для подтверждения отсутствия симптомов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-c2",
+      "cells": [
+        {
+          "text": {
+            "en": "C2",
+            "ru": "C2"
+          }
+        },
+        {
+          "text": {
+            "en": "Asymptomatic severe AS with LV systolic dysfunction",
+            "ru": "Бессимптомный тяжелый АС с систолической дисфункцией ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe leaflet calcification/fibrosis or congenital stenosis with severely reduced leaflet opening",
+            "ru": "Выраженный кальциноз/фиброз створок или врожденный стеноз с резким ограничением открытия створок"
+          }
+        },
+        {
+          "text": {
+            "en": "Aortic V_max ≥4 m/s or mean ΔP ≥40 mm Hg\nAVA typically ≤1.0 cm^2 (or AVAi 0.6 cm^2/m^2) but not required to define severe AS",
+            "ru": "Аортальная V_max ≥4 м/с или средний ΔP ≥40 мм рт. ст.\nПлощадь АОК обычно ≤1,0 см² (или индекс 0,6 см²/м²), но не обязательна для констатации тяжелого АС"
+          }
+        },
+        {
+          "text": {
+            "en": "LVEF <50%",
+            "ru": "ФВ ЛЖ <50%"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-stage-d",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 6,
+          "text": {
+            "en": "**D: Symptomatic severe AS**",
+            "ru": "**D: Симптомный тяжелый аортальный стеноз**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-d1",
+      "cells": [
+        {
+          "text": {
+            "en": "D1",
+            "ru": "D1"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptomatic severe high-gradient AS",
+            "ru": "Симптомный тяжелый высокоградиентный АС"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe leaflet calcification/fibrosis or congenital stenosis with severely reduced leaflet opening",
+            "ru": "Выраженный кальциноз/фиброз створок или врожденный стеноз с резким ограничением открытия створок"
+          }
+        },
+        {
+          "text": {
+            "en": "Aortic V_max ≥4 m/s or mean ΔP ≥40 mm Hg\nAVA typically ≤1.0 cm^2 (or AVAi ≤0.6 cm^2/m^2) but may be larger with mixed AS/AR",
+            "ru": "Аортальная V_max ≥4 м/с или средний ΔP ≥40 мм рт. ст.\nПлощадь АОК обычно ≤1,0 см² (или индекс AVAi ≤0,6 см²/м²), но может быть больше при сочетанном АС/АР"
+          }
+        },
+        {
+          "text": {
+            "en": "LV diastolic dysfunction\nLV hypertrophy\nPulmonary hypertension may be present",
+            "ru": "Диастолическая дисфункция ЛЖ\nГипертрофия ЛЖ\nВозможна легочная гипертензия"
+          }
+        },
+        {
+          "text": {
+            "en": "Exertional dyspnea, decreased exercise tolerance, or HF\nExertional angina\nExertional syncope or presyncope",
+            "ru": "Одышка при нагрузке, снижение толерантности к нагрузке или СН\nСтенокардия при нагрузке\nСинкопе или пресинкопе при нагрузке"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-d2",
+      "cells": [
+        {
+          "text": {
+            "en": "D2",
+            "ru": "D2"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptomatic severe low-flow, low-gradient AS with reduced LVEF",
+            "ru": "Симптомный тяжелый низкопоточный низкоградиентный АС со сниженной ФВ ЛЖ"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe leaflet calcification/fibrosis with severely reduced leaflet motion",
+            "ru": "Выраженный кальциноз/фиброз створок с резким ограничением подвижности створок"
+          }
+        },
+        {
+          "text": {
+            "en": "AVA ≤1.0 cm^2 with resting aortic V_max <4 m/s or mean ΔP <40 mm Hg\nDobutamine stress echocardiography shows AVA ≤1.0 cm^2 with V_max ≥4 m/s at any flow rate",
+            "ru": "Площадь АОК ≤1,0 см² при скорости в покое V_max <4 м/с или среднем ΔP <40 мм рт. ст.\nПри стресс-ЭхоКГ с добутамином: площадь АОК ≤1,0 см² при скорости V_max ≥4 м/с на любом уровне потока"
+          }
+        },
+        {
+          "text": {
+            "en": "LV diastolic dysfunction\nLV hypertrophy\nLVEF <50%",
+            "ru": "Диастолическая дисфункция ЛЖ\nГипертрофия ЛЖ\nФВ ЛЖ <50%"
+          }
+        },
+        {
+          "text": {
+            "en": "HF\nAngina\nSyncope or presyncope",
+            "ru": "СН\nСтенокардия\nСинкопе или пресинкопе"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stage-d3",
+      "cells": [
+        {
+          "text": {
+            "en": "D3",
+            "ru": "D3"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptomatic severe low-gradient AS with normal LVEF or paradoxical low-flow severe AS",
+            "ru": "Симптомный тяжелый низкоградиентный АС с сохраненной ФВ ЛЖ (парадоксальный низкопоточный тяжелый АС)"
+          }
+        },
+        {
+          "text": {
+            "en": "Severe leaflet calcification/fibrosis with severely reduced leaflet motion",
+            "ru": "Выраженный кальциноз/фиброз створок с резким ограничением подвижности створок"
+          }
+        },
+        {
+          "text": {
+            "en": "AVA ≤1.0 cm^2 (indexed AVA ≤0.6 cm^2/m^2) with an aortic V_max <4 m/s or mean ΔP <40 mm Hg\nAND\nStroke volume index <35 mL/m^2\nMeasured when patient is normotensive (systolic blood pressure <140 mm Hg)",
+            "ru": "Площадь АОК ≤1,0 см² (индексированная площадь ≤0,6 см²/м²) при аортальной V_max <4 м/с или среднем ΔP <40 мм рт. ст.\nИ\nУдарный индекс <35 мл/м²\nИзмеренные при нормальном АД (САД <140 мм рт. ст.)"
+          }
+        },
+        {
+          "text": {
+            "en": "Increased LV relative wall thickness\nSmall LV chamber with low stroke volume\nRestrictive diastolic filling\nLVEF ≥50%",
+            "ru": "Увеличение относительной толщины стенок ЛЖ\nМаленькая полость ЛЖ с низким ударным объемом\nРестриктивный тип диастолического наполнения\nФВ ЛЖ ≥50%"
+          }
+        },
+        {
+          "text": {
+            "en": "HF\nAngina\nSyncope or presyncope",
+            "ru": "СН\nСтенокардия\nСинкопе или пресинкопе"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "AR indicates aortic regurgitation; AS, aortic stenosis; AVA, aortic valve area circulation; AVAi, AVA indexed to body surface area; BAV, bicuspid aortic valve; ΔP, pressure gradient between the LV and aorta; HF, heart failure; LV, left ventricular; LVEF, left ventricular ejection fraction; and V_max, maximum velocity.",
+      "ru": "AR — аортальная регургитация; AS (АС) — аортальный стеноз; AVA — площадь аортального клапана; AVAi — индексированная площадь АОК; BAV (ДАК) — двустворчатый аортальный клапан; ΔP — градиент давления между ЛЖ и аортой; HF (СН) — сердечная недостаточность; LV (ЛЖ) — левый желудочек; LVEF (ФВ ЛЖ) — фракция выброса левого желудочка; V_max — максимальная скорость."
+    }
+  },
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt42-bridging-therapy-interruption-oral-anticoagulation",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 42",
+  "title": {
+    "en": "Recommendations for Bridging Therapy During Interruption of Oral Anticoagulation in Patients With Prosthetic Heart Valves",
+    "ru": "Рекомендации по «мост-терапии» (bridging) при прерывании пероральной антикоагулянтной терапии у пациентов с протезированными клапанами сердца"
+  },
+  "tags": [
+    "vhd",
+    "prosthetic-valves",
+    "bridging-therapy",
+    "anticoagulation-interruption",
+    "vka",
+    "mechanical-valve",
+    "minor-procedures",
+    "prothrombin-complex-concentrate",
+    "pcc",
+    "cha2ds2-vasc"
+  ],
+  "sections": [
+    {
+      "id": "sec-bridging-therapy-interruption-oral-anticoagulation",
+      "title": {
+        "en": "Bridging Therapy During Interruption of Oral Anticoagulation in Patients With Prosthetic Heart Valves",
+        "ru": "«Мост-терапия» при прерывании пероральной антикоагулянтной терапии у пациентов с протезированными клапанами сердца"
+      },
+      "rows": [
+        {
+          "id": "r01-minor-procedures-continue-vka",
+          "text": {
+            "en": "For patients with mechanical heart valves who are undergoing minor procedures (eg, dental extractions or cataract removal) where bleeding is easily controlled, continuation of VKA anticoagulation with a therapeutic INR is recommended.",
+            "ru": "У пациентов с механическими клапанами сердца при проведении малых вмешательств (например, экстракция зуба или удаление катаракты), при которых кровотечение легко контролируется, рекомендуется продолжение антикоагулянтной терапии АВК с терапевтическим уровнем МНО."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r02-bileaflet-avr-no-risk-factors-no-bridging",
+          "text": {
+            "en": "For patients with a bileaflet mechanical AVR and no other risk factors for thromboembolism who are undergoing invasive procedures, temporary interruption of VKA anticoagulation, without bridging agents while the INR is subtherapeutic, is recommended.",
+            "ru": "У пациентов с двухстворчатым механическим аортальным протезом (AVR) без других факторов риска тромбоэмболии при проведении инвазивных процедур рекомендуется временная отмена терапии АВК без назначения «мост-терапии» на период субтерапевтического МНО."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": []
+        },
+        {
+          "id": "r03-emergency-procedure-4-factor-pcc",
+          "text": {
+            "en": "For patients with a mechanical valve prosthesis receiving VKA therapy who require immediate/emergency noncardiac surgery or an invasive procedure, administration of 4-factor prothrombin complex concentrate (or its activated form) is reasonable.",
+            "ru": "У пациентов с механическим протезом клапана, получающих терапию АВК, при необходимости экстренной некардиальной операции или инвазивной процедуры оправдано введение 4-факторного концентрата протромбинового комплекса (или его активированной формы)."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": []
+        },
+        {
+          "id": "r04-bioprosthesis-rings-af-bridging-by-cha2ds2-vasc",
+          "text": {
+            "en": "For patients with bioprosthetic heart valves or annuloplasty rings who are receiving anticoagulation for AF, it is reasonable to consider the need for bridging anticoagulant therapy around the time of invasive procedures on the basis of the CHA2DS2-VASc score weighed against the risk of bleeding.",
+            "ru": "У пациентов с биологическими протезами клапанов или опорными кольцами для аннулопластики, получающих антикоагулянты по поводу ФП, оправдано принятие решения о необходимости «мост-терапии» в периоперационном периоде на основе шкалы CHA2DS2-VASc в сопоставлении с риском кровотечений."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": []
+        },
+        {
+          "id": "r05-high-risk-mechanical-valves-individualized-bridging",
+          "text": {
+            "en": "For patients who are undergoing invasive procedures and have 1) a mechanical AVR and any thromboembolic risk factor, 2) an older-generation mechanical AVR, or 3) a mechanical mitral valve replacement, bridging anticoagulation therapy during the preoperative time interval when the INR is subtherapeutic is reasonable on an individualized basis, with the risks of bleeding weighed against the benefits of thromboembolism prevention.",
+            "ru": "У пациентов перед инвазивными процедурами, имеющих 1) механический аортальный протез и любой фактор риска тромбоэмболий, 2) механический аортальный протез старого поколения или 3) механический митральный протез, оправдано индивидуализированное назначение «мост-терапии» антикоагулянтами в предоперационном интервале при субтерапевтическом уровне МНО с сопоставлением риска кровотечений и пользы предотвращения тромбоэмболии."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

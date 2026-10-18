@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt41-epiaortic-ultrasound-cabg",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 41",
+  "title": {
+    "en": "Recommendation for Use of Epiaortic Ultrasound in Patients Undergoing CABG",
+    "ru": "Рекомендация по применению эпиаортального ультразвукового сканирования у пациентов, проходящих КШ"
+  },
+  "tags": [
+    "cabg",
+    "epiaortic-ultrasound",
+    "ascending-aorta",
+    "atheroembolism",
+    "stroke-prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-epiaortic-ultrasound-cabg",
+      "title": {
+        "en": "Use of Epiaortic Ultrasound in Patients Undergoing CABG",
+        "ru": "Применение эпиаортального ультразвукового сканирования у пациентов, проходящих КШ"
+      },
+      "rows": [
+        {
+          "id": "r01-cabg-routine-epiaortic-ultrasound",
+          "text": {
+            "en": "In patients undergoing CABG, the routine use of epiaortic ultrasound scanning can be useful to evaluate the presence, location, and severity of plaque in the ascending aorta to reduce the incidence of atheroembolic complications.",
+            "ru": "У пациентов, которым выполняется КШ, рутинное применение эпиаортального ультразвукового сканирования может быть полезным для оценки наличия, локализации и тяжести атеросклеротических бляшек в восходящей аорте с целью снижения частоты атероэмболических осложнений (инсульта)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

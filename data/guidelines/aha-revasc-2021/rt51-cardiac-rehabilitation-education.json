@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt51-cardiac-rehabilitation-education",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 51",
+  "title": {
+    "en": "Recommendations for Cardiac Rehabilitation and Education",
+    "ru": "Рекомендации по кардиореабилитации и обучению пациентов"
+  },
+  "tags": [
+    "revascularization",
+    "cardiac-rehabilitation",
+    "patient-education",
+    "secondary-prevention",
+    "lifestyle",
+    "readmission-reduction"
+  ],
+  "sections": [
+    {
+      "id": "sec-cardiac-rehab-education",
+      "title": {
+        "en": "Cardiac Rehabilitation and Education",
+        "ru": "Кардиореабилитация и обучение пациентов"
+      },
+      "rows": [
+        {
+          "id": "r01-comprehensive-cardiac-rehab-program",
+          "text": {
+            "en": "In patients who have undergone revascularization, a comprehensive cardiac rehabilitation program (home based or center based) should be prescribed either before hospital discharge or during the first outpatient visit to reduce deaths and hospital readmissions and improve quality of life.",
+            "ru": "У пациентов, перенесших реваскуляризацию миокарда, комплексная программа кардиореабилитации (домашняя или на базе специализированного центра) должна назначаться либо до выписки из стационара, либо во время первого амбулаторного визита для снижения смертности и повторных госпитализаций, а также для улучшения качества жизни."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-education-cvd-risk-factors-modification",
+          "text": {
+            "en": "Patients who have undergone revascularization should be educated about CVD risk factors and their modification to reduce cardiovascular events.",
+            "ru": "Пациенты, перенесшие реваскуляризацию, должны быть информированы и обучены относительно факторов риска сердечно-сосудистых заболеваний и способов их модификации для снижения частоты сердечно-сосудистых событий."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [5, 6, 7]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

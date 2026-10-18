@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-revasc-2021.rt28-thrombectomy",
+  "guidelineId": "aha-revasc-2021",
+  "type": "recommendations",
+  "number": "Recommendation Table 28",
+  "title": {
+    "en": "Recommendation for Thrombectomy",
+    "ru": "Рекомендация по тромбэктомии"
+  },
+  "tags": [
+    "thrombectomy",
+    "aspiration-thrombectomy",
+    "stemi",
+    "primary-pci"
+  ],
+  "sections": [
+    {
+      "id": "sec-thrombectomy",
+      "title": {
+        "en": "Thrombectomy",
+        "ru": "Тромбэктомия"
+      },
+      "rows": [
+        {
+          "id": "r01-stemi-routine-aspiration-thrombectomy-no-benefit",
+          "text": {
+            "en": "In patients with STEMI, routine aspiration thrombectomy before primary PCI is not useful.",
+            "ru": "У пациентов с ИМпST (STEMI) рутинная мануальная аспирационная тромбэктомия перед первичным ЧКВ неэффективна (не приносит пользы)."
+          },
+          "class": "III-no-benefit",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}
