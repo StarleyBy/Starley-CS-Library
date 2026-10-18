@@ -11,8 +11,8 @@ if (self.location.hostname === 'localhost' || self.location.hostname === '127.0.
   });
 } else {
 
-const CACHE_STATIC = 'static-v26';
-const CACHE_DYNAMIC = 'dynamic-v26';
+const CACHE_STATIC = 'static-v27';
+const CACHE_DYNAMIC = 'dynamic-v27';
 
 const APP_SHELL = [
   './',
@@ -33,6 +33,8 @@ const APP_SHELL = [
   './assets/css/binder.css',
   './assets/js/binder-shelf.js',
   './assets/css/quiz.css',
+  './assets/js/quiz-storage.js',
+  './assets/js/quiz-stats.js',
   './assets/js/quiz.js',
   './assets/css/toc-hud.css',
   './assets/js/toc-hud.js',

@@ -48,6 +48,8 @@ const state = {
     selectedTaxonomyTopics: new Set(),
     taxonomy: null
 };
+window.state = state;
+window.QuizState = state;
 
 const PLAYLIST_ICONS_MAP = [
     { id: 1, icon: '📚', nameEn: 'Book', nameRu: 'Книга' },
@@ -156,6 +158,7 @@ async function loadAllQuizManifestIndex(forceRefresh = false) {
                                 let qList = Array.isArray(mData) ? mData : (mData.questions || []);
                                 qList = qList.map((q, idx) => decorateQuestionWithSpecialId(q, idx, manifest.id, manifest.file, ''));
                                 state.setQuestionsMap[manifest.id] = qList;
+                                indexBankQuestions(qList);
                                 manifest.totalQuestions = qList.length;
                                 manifest.totalQ = qList.length;
                             }
@@ -165,6 +168,7 @@ async function loadAllQuizManifestIndex(forceRefresh = false) {
                     } else if (state.setQuestionsMap[manifest.id]) {
                         manifest.totalQuestions = state.setQuestionsMap[manifest.id].length;
                         manifest.totalQ = state.setQuestionsMap[manifest.id].length;
+                        indexBankQuestions(state.setQuestionsMap[manifest.id]);
                     }
                 }));
             }
@@ -246,22 +250,52 @@ function parseSpecialId(specialIdStr) {
     };
 }
 
+const _questionSpecialIdIndex = new Map();
+
+function indexBankQuestions(qList) {
+    if (!Array.isArray(qList)) return;
+    qList.forEach(q => {
+        if (!q) return;
+        const specId = getQuestionSpecialId(q);
+        if (specId) _questionSpecialIdIndex.set(specId, q);
+        if (q.specialId) _questionSpecialIdIndex.set(q.specialId, q);
+        if (q.manifestNum && q.id !== undefined) {
+            _questionSpecialIdIndex.set(`${q.manifestNum}🧠${q.id}`, q);
+        }
+    });
+}
+window.indexBankQuestions = indexBankQuestions;
+
 function resolveQuestionBySpecialId(specialIdStr) {
-    const parsed = parseSpecialId(specialIdStr);
+    if (!specialIdStr) return null;
+    const str = String(specialIdStr).trim();
+    if (_questionSpecialIdIndex.has(str)) {
+        return _questionSpecialIdIndex.get(str);
+    }
+
+    const parsed = parseSpecialId(str);
     if (!parsed) return null;
     
     const targetKey = `${parsed.manifestNum}🧠${parsed.questionId}`;
+    if (_questionSpecialIdIndex.has(targetKey)) {
+        return _questionSpecialIdIndex.get(targetKey);
+    }
 
     if (state.setQuestionsMap) {
         for (const setList of Object.values(state.setQuestionsMap)) {
             if (Array.isArray(setList)) {
-                const found = setList.find(q => getQuestionSpecialId(q) === targetKey);
-                if (found) return found;
+                const found = setList.find(q => getQuestionSpecialId(q) === targetKey || q.specialId === targetKey);
+                if (found) {
+                    _questionSpecialIdIndex.set(targetKey, found);
+                    _questionSpecialIdIndex.set(str, found);
+                    return found;
+                }
             }
         }
     }
     return null;
 }
+window.resolveQuestionBySpecialId = resolveQuestionBySpecialId;
 
 /**
  * Open image in interactive inspector (lightbox) with zoom, pan, and contrast controls
@@ -307,133 +341,54 @@ const ALL_MANIFESTS_REGISTRY = [
 ];
 window.ALL_MANIFESTS_REGISTRY = ALL_MANIFESTS_REGISTRY;
 
+const _manifestByNumMap = new Map();
+const _manifestByIdMap = new Map();
+
+function ensureManifestMaps() {
+    const registry = (state.allQuizRegistry && state.allQuizRegistry.length > 0) ? state.allQuizRegistry : ALL_MANIFESTS_REGISTRY;
+    if (_manifestByNumMap.size !== registry.length) {
+        _manifestByNumMap.clear();
+        _manifestByIdMap.clear();
+        registry.forEach(m => {
+            if (m.num) _manifestByNumMap.set(Number(m.num), m);
+            if (m.id) _manifestByIdMap.set(String(m.id).toLowerCase(), m);
+        });
+    }
+    return registry;
+}
+
 function resolveQuestionManifestItem(q, specialIdStr) {
     if (!q && !specialIdStr) return null;
-    const registry = (state.allQuizRegistry && state.allQuizRegistry.length > 0) ? state.allQuizRegistry : ALL_MANIFESTS_REGISTRY;
+    const registry = ensureManifestMaps();
     let sId = specialIdStr || (q ? (q.specialId || (typeof getQuestionSpecialId === 'function' ? getQuestionSpecialId(q) : q.id)) : '');
     if (sId && typeof sId === 'string' && sId.includes('🧠')) {
         const parts = sId.split('🧠');
         const num = parseInt(parts[0], 10);
-        if (num) {
-            const found = registry.find(m => m.num === num);
-            if (found) return found;
+        if (num && _manifestByNumMap.has(num)) {
+            return _manifestByNumMap.get(num);
         }
     }
     const mId = q ? (q.manifestId || q.setId || q.bookPath || '') : '';
     if (mId) {
+        const lower = String(mId).toLowerCase();
+        if (_manifestByIdMap.has(lower)) {
+            return _manifestByIdMap.get(lower);
+        }
         const found = registry.find(m => m.id === mId || (m.file && m.file.includes(mId)));
-        if (found) return found;
+        if (found) {
+            _manifestByIdMap.set(lower, found);
+            return found;
+        }
     }
     return null;
 }
 window.resolveQuestionManifestItem = resolveQuestionManifestItem;
 
 function calculateTopicManifestAnalytics(history) {
-    const hist = Array.isArray(history) ? history : [];
-    const registry = (state.allQuizRegistry && state.allQuizRegistry.length > 0) ? state.allQuizRegistry : ALL_MANIFESTS_REGISTRY;
-    
-    const manifestStats = {};
-    registry.forEach(m => {
-        const totalQ = (state.setQuestionsMap && state.setQuestionsMap[m.id] && state.setQuestionsMap[m.id].length)
-            ? state.setQuestionsMap[m.id].length
-            : Number(m.totalQuestions || m.totalQ || 0);
-
-        manifestStats[m.num] = {
-            num: m.num,
-            id: m.id,
-            icon: m.icon || '📝',
-            titleRu: m.titleRu || m.title || m.id,
-            titleEn: m.titleEn || m.title || m.id,
-            file: m.file,
-            totalBankQ: totalQ,
-            attemptedCount: 0,
-            correctCount: 0,
-            wrongCount: 0,
-            accuracy: 0,
-            uniqueQuestions: new Set(),
-            uniqueErrors: new Set(),
-            lastDate: null
-        };
-    });
-
-    hist.forEach(sess => {
-        const sDate = sess.date || null;
-        
-        if (Array.isArray(sess.errors) && sess.errors.length > 0) {
-            sess.errors.forEach(e => {
-                const specId = e.specialId || e.questionId || '';
-                const mItem = resolveQuestionManifestItem(e, specId);
-                if (mItem && manifestStats[mItem.num]) {
-                    const st = manifestStats[mItem.num];
-                    st.attemptedCount++;
-                    if (e.isCorrect) {
-                        st.correctCount++;
-                    } else {
-                        st.wrongCount++;
-                        st.uniqueErrors.add(specId);
-                    }
-                    if (specId) st.uniqueQuestions.add(specId);
-                    if (sDate) st.lastDate = sDate;
-                }
-            });
-        } else if (Array.isArray(sess.manifestBreakdown) && sess.manifestBreakdown.length > 0) {
-            sess.manifestBreakdown.forEach(mb => {
-                const mItem = registry.find(m => m.id === mb.id || m.num === mb.num);
-                if (mItem && manifestStats[mItem.num]) {
-                    const st = manifestStats[mItem.num];
-                    st.attemptedCount += (mb.total || 0);
-                    st.correctCount += (mb.correct || 0);
-                    st.wrongCount += (mb.wrong || 0);
-                    if (sDate) st.lastDate = sDate;
-                }
-            });
-        } else {
-            const tNames = Array.isArray(sess.topics) ? sess.topics : (sess.setTitle ? [sess.setTitle] : []);
-            tNames.forEach(name => {
-                const mItem = registry.find(m => 
-                    m.titleRu === name || m.titleEn === name || m.id === name || m.title === name
-                );
-                if (mItem && manifestStats[mItem.num]) {
-                    const st = manifestStats[mItem.num];
-                    const qCount = Number(sess.totalQ || sess.count) || 0;
-                    const cCount = Number(sess.correctQ || sess.correctCount) || 0;
-                    st.attemptedCount += qCount;
-                    st.correctCount += cCount;
-                    st.wrongCount += Math.max(0, qCount - cCount);
-                    if (sDate) st.lastDate = sDate;
-                }
-            });
-        }
-    });
-
-    return registry.map(m => {
-        const st = manifestStats[m.num] || {
-            num: m.num,
-            id: m.id,
-            icon: m.icon || '📝',
-            titleRu: m.titleRu || m.title || m.id,
-            titleEn: m.titleEn || m.title || m.id,
-            file: m.file,
-            totalBankQ: Number(m.totalQuestions || m.totalQ || 0),
-            attemptedCount: 0,
-            correctCount: 0,
-            wrongCount: 0,
-            accuracy: 0,
-            uniqueQuestions: new Set(),
-            uniqueErrors: new Set(),
-            lastDate: null
-        };
-        const totalQ = st.totalBankQ;
-        const acc = st.attemptedCount > 0 ? Math.round((st.correctCount / st.attemptedCount) * 100) : 0;
-        const coveragePct = totalQ > 0 ? Math.min(100, Math.round((st.uniqueQuestions.size / totalQ) * 100)) : 0;
-        return {
-            ...st,
-            accuracy: acc,
-            coveragePct: coveragePct,
-            uniqueSolvedCount: st.uniqueQuestions.size,
-            errorCount: st.wrongCount
-        };
-    });
+    if (window.QuizStats && typeof window.QuizStats.calculateTopicManifestAnalytics === 'function') {
+        return window.QuizStats.calculateTopicManifestAnalytics(history);
+    }
+    return [];
 }
 window.calculateTopicManifestAnalytics = calculateTopicManifestAnalytics;
 
@@ -712,6 +667,9 @@ function getQuestionTopic(q) {
 }
 
 function getQuestionMastery(q) {
+    if (window.QuizStorage && typeof window.QuizStorage.getQuestionMastery === 'function') {
+        return window.QuizStorage.getQuestionMastery(q);
+    }
     const key = getQuestionKey(q);
     const stored = localStorage.getItem(key);
     if (!stored) {
@@ -725,13 +683,19 @@ function getQuestionMastery(q) {
         return { state: 'unseen', consecutiveCorrect: 0, views: 0 };
     }
 }
+window.getQuestionMastery = getQuestionMastery;
 
 function saveQuestionMastery(q, mastery) {
+    if (window.QuizStorage && typeof window.QuizStorage.saveQuestionMastery === 'function') {
+        window.QuizStorage.saveQuestionMastery(q, mastery);
+        return;
+    }
     const key = getQuestionKey(q);
     mastery.views = (mastery.views || 0) + 1;
     mastery.lastSeen = Date.now();
     localStorage.setItem(key, JSON.stringify(mastery));
 }
+window.saveQuestionMastery = saveQuestionMastery;
 
 /**
  * Smart Sampler Algorithm:
@@ -2070,12 +2034,18 @@ const AVATAR_ICONS_MAP = {
 };
 
 function getScopedUserKey(baseKey) {
+    if (window.QuizStorage && typeof window.QuizStorage.getScopedUserKey === 'function') {
+        return window.QuizStorage.getScopedUserKey(baseKey);
+    }
     const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
     const uid = (user && !user.isGuest && user.id) ? user.id : 'guest';
     return `${baseKey}_${uid}`;
 }
 
 function loadUserProfile() {
+    if (window.QuizStorage && typeof window.QuizStorage.loadUserProfile === 'function') {
+        return window.QuizStorage.loadUserProfile();
+    }
     const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
     const profKey = getScopedUserKey('starley_user_profile');
     let localProfile = null;
@@ -2084,24 +2054,10 @@ function loadUserProfile() {
         if (stored) localProfile = JSON.parse(stored);
     } catch (e) {}
 
-    if (user && !user.isGuest) {
-        return {
-            nickname: user.nickname || (localProfile && localProfile.nickname) || user.username || 'Doctor',
-            avatar: user.avatar || (localProfile && localProfile.avatar) || 'doc',
-            streak: (localProfile && localProfile.streak) || 1,
-            lastActiveDate: (localProfile && localProfile.lastActiveDate) || new Date().toDateString(),
-            totalSolved: (localProfile && localProfile.totalSolved) || 0,
-            correctCount: (localProfile && localProfile.correctCount) || 0,
-            level: (localProfile && localProfile.level) || 1,
-            currentExp: (localProfile && localProfile.currentExp) || 0,
-            totalExp: (localProfile && localProfile.totalExp) || 0,
-            tierId: (localProfile && localProfile.tierId) || 1
-        };
-    }
-    
+    const isAuth = user && !user.isGuest;
     return {
-        nickname: (localProfile && localProfile.nickname) || 'Guest Doctor',
-        avatar: (localProfile && localProfile.avatar) || 'doc',
+        nickname: (isAuth && user.nickname) || (localProfile && localProfile.nickname) || (isAuth ? user.username : 'Guest Doctor'),
+        avatar: (isAuth && user.avatar) || (localProfile && localProfile.avatar) || 'doc',
         streak: (localProfile && localProfile.streak) || 1,
         lastActiveDate: (localProfile && localProfile.lastActiveDate) || new Date().toDateString(),
         totalSolved: (localProfile && localProfile.totalSolved) || 0,
@@ -2112,8 +2068,13 @@ function loadUserProfile() {
         tierId: (localProfile && localProfile.tierId) || 1
     };
 }
+window.loadUserProfile = loadUserProfile;
 
 function saveUserProfile(profile) {
+    if (window.QuizStorage && typeof window.QuizStorage.saveUserProfile === 'function') {
+        window.QuizStorage.saveUserProfile(profile);
+        return;
+    }
     try {
         const profKey = getScopedUserKey('starley_user_profile');
         localStorage.setItem(profKey, JSON.stringify(profile));
@@ -2123,109 +2084,7 @@ function saveUserProfile(profile) {
         }
     } catch (e) {}
 }
-
-// Legacy updateUserProfileDisplay superseded by unified RPG 100-tier prestige engine (see line 5175+)
-
-const DOCTOR_RANKS_50 = [
-    { level: 1, en: "Medical Student I", ru: "Студент I" },
-    { level: 2, en: "Medical Student II", ru: "Студент II" },
-    { level: 3, en: "Medical Student III", ru: "Студент III" },
-    { level: 4, en: "Medical Student IV", ru: "Студент IV" },
-    { level: 5, en: "Medical Student V", ru: "Студент V" },
-    { level: 6, en: "Junior Intern I", ru: "Младший интерн I" },
-    { level: 7, en: "Junior Intern II", ru: "Младший интерн II" },
-    { level: 8, en: "Junior Intern III", ru: "Младший интерн III" },
-    { level: 9, en: "Junior Intern IV", ru: "Младший интерн IV" },
-    { level: 10, en: "Chief Intern", ru: "Главный интерн" },
-    { level: 11, en: "Resident I", ru: "Резидент I" },
-    { level: 12, en: "Resident II", ru: "Резидент II" },
-    { level: 13, en: "Resident III", ru: "Резидент III" },
-    { level: 14, en: "Senior Resident", ru: "Старший резидент" },
-    { level: 15, en: "Chief Resident", ru: "Главный резидент" },
-    { level: 16, en: "Clinical Fellow I", ru: "Клинический Fellow I" },
-    { level: 17, en: "Clinical Fellow II", ru: "Клинический Fellow II" },
-    { level: 18, en: "Clinical Fellow III", ru: "Клинический Fellow III" },
-    { level: 19, en: "Senior Fellow", ru: "Старший Fellow" },
-    { level: 20, en: "Chief Fellow", ru: "Главный Fellow" },
-    { level: 21, en: "Junior Attending", ru: "Младший врач" },
-    { level: 22, en: "Attending Physician I", ru: "Врач-специалист I" },
-    { level: 23, en: "Attending Physician II", ru: "Врач-специалист II" },
-    { level: 24, en: "Senior Attending", ru: "Старший врач-специалист" },
-    { level: 25, en: "Staff Physician", ru: "Штатный врач клиники" },
-    { level: 26, en: "Senior Specialist I", ru: "Ведущий специалист I" },
-    { level: 27, en: "Senior Specialist II", ru: "Ведущий специалист II" },
-    { level: 28, en: "Department Specialist", ru: "Специалист отделения" },
-    { level: 29, en: "Associate Consultant", ru: "Консультант клиники" },
-    { level: 30, en: "Senior Consultant", ru: "Главный консультант" },
-    { level: 31, en: "Assistant Professor I", ru: "Ассистент кафедры I" },
-    { level: 32, en: "Assistant Professor II", ru: "Ассистент кафедры II" },
-    { level: 33, en: "Associate Professor I", ru: "Доцент I" },
-    { level: 34, en: "Associate Professor II", ru: "Доцент II" },
-    { level: 35, en: "Professor of Medicine", ru: "Профессор медицины" },
-    { level: 36, en: "Distinguished Professor", ru: "Заслуженный профессор" },
-    { level: 37, en: "Department Vice-Chair", ru: "Зам. заведующего отделением" },
-    { level: 38, en: "Department Chair", ru: "Заведующий отделением" },
-    { level: 39, en: "Medical Director", ru: "Медицинский директор" },
-    { level: 40, en: "Chief Medical Officer", ru: "Главный врач клиники" },
-    { level: 41, en: "Academic Fellow", ru: "Действительный член Академии" },
-    { level: 42, en: "Corresponding Member", ru: "Член-корреспондент" },
-    { level: 43, en: "Academician I", ru: "Академик I" },
-    { level: 44, en: "Senior Academician", ru: "Старший академик" },
-    { level: 45, en: "Master of Surgery", ru: "Мастер кардиохирургии" },
-    { level: 46, en: "Distinguished Scholar", ru: "Заслуженный деятель науки" },
-    { level: 47, en: "National Expert", ru: "Национальный эксперт" },
-    { level: 48, en: "Global Pioneer", ru: "Мировой пионер медицины" },
-    { level: 49, en: "Medical Luminary", ru: "Корифей медицины" },
-    { level: 50, en: "Grand Medical Legend", ru: "Легенда медицины" }
-];
-
-function calculate50LevelAndRank(uniqueSolved, totalBank, recentAccuracy, lang = 'Ru') {
-    const totalQBank = Math.max(totalBank || 3000, 3000);
-    const coverageFraction = Math.min(uniqueSolved / totalQBank, 1.0);
-    let rawLevel = Math.min(50, Math.floor(coverageFraction * 50) + 1);
-
-    let effectiveLevel = rawLevel;
-    let isDegraded = false;
-
-    // Apply accuracy degradation penalties
-    if (rawLevel >= 45) {
-        if (recentAccuracy < 90 || coverageFraction < 0.85) {
-            const drop = Math.ceil((90 - Math.min(recentAccuracy, 90)) / 2) + (coverageFraction < 0.85 ? 5 : 0);
-            effectiveLevel = Math.max(44, rawLevel - drop);
-            isDegraded = true;
-        }
-    } else if (rawLevel >= 31) {
-        if (recentAccuracy < 80) {
-            const drop = Math.ceil((80 - recentAccuracy) / 3);
-            effectiveLevel = Math.max(1, rawLevel - drop);
-            isDegraded = true;
-        }
-    } else if (rawLevel >= 16) {
-        if (recentAccuracy < 70) {
-            const drop = Math.ceil((70 - recentAccuracy) / 4);
-            effectiveLevel = Math.max(1, rawLevel - drop);
-            isDegraded = true;
-        }
-    } else if (rawLevel >= 1) {
-        if (recentAccuracy < 60) {
-            const drop = Math.ceil((60 - recentAccuracy) / 5);
-            effectiveLevel = Math.max(1, rawLevel - drop);
-            isDegraded = true;
-        }
-    }
-
-    effectiveLevel = Math.max(1, Math.min(50, effectiveLevel));
-    const rankObj = DOCTOR_RANKS_50.find(r => r.level === effectiveLevel) || DOCTOR_RANKS_50[0];
-    const title = lang === 'Ru' ? rankObj.ru : rankObj.en;
-
-    return {
-        level: effectiveLevel,
-        rawLevel: rawLevel,
-        title: title,
-        isDegraded: isDegraded,
-        badgeText: `Lv.${effectiveLevel} ${title}`
-    };
-}
+window.saveUserProfile = saveUserProfile;
 
 function setupProfileListeners() {
     updateUserProfileDisplay();
@@ -3853,18 +3712,8 @@ function renderQuestion() {
                     confContainer.style.display = 'block';
                     const btnUnsure = document.getElementById('chip-unsure');
                     const btnEasy = document.getElementById('chip-easy');
-                    
-                    btnUnsure.classList.remove('active');
-                    btnEasy.classList.remove('active');
-                    
-                    btnUnsure.onclick = () => {
-                        btnUnsure.classList.add('active');
-                        submitCustomCardAnswer(false);
-                    };
-                    btnEasy.onclick = () => {
-                        btnEasy.classList.add('active');
-                        submitCustomCardAnswer(true);
-                    };
+                    if (btnUnsure) btnUnsure.classList.remove('active');
+                    if (btnEasy) btnEasy.classList.remove('active');
                 }
                 showCustomCardExplanation(q);
             }, 300);
@@ -3895,38 +3744,28 @@ function renderQuestion() {
         imgCont.style.display = 'none';
     }
 
-    optionsCont.innerHTML = '';
     const options = q['options' + lang] || q['optionsEn'] || q.options || {};
     const correctChoices = (Array.isArray(q.correctAnswer) ? [...q.correctAnswer] : [q.correctAnswer]).map(String);
     const userChoices = isAlreadyAnswered
         ? (Array.isArray(currentAnswer.chosen) ? currentAnswer.chosen.map(String) : (currentAnswer.chosen != null ? [String(currentAnswer.chosen)] : []))
         : [];
-    
-    Object.entries(options).forEach(([letter, text]) => {
-        const btn = document.createElement('button');
-        btn.className = 'option-btn';
-        btn.innerHTML = `<span class="option-letter">${letter}</span> <span class="option-text">${_markdownToHtml(text)}</span>`;
-        
+
+    optionsCont.innerHTML = Object.entries(options).map(([letter, text]) => {
+        let extraClass = '';
+        const disabledAttr = isAlreadyAnswered ? 'disabled' : '';
+
         if (isAlreadyAnswered) {
-            btn.disabled = true;
             if (state.settings.exam) {
-                // In Exam Sim: show selection only, do not reveal correct/wrong until end
-                if (userChoices.includes(letter)) {
-                    btn.classList.add('selected');
-                }
+                if (userChoices.includes(letter)) extraClass = 'selected';
             } else {
-                if (correctChoices.includes(letter)) {
-                    btn.classList.add('correct');
-                } else if (userChoices.includes(letter)) {
-                    btn.classList.add('wrong');
-                }
+                if (correctChoices.includes(letter)) extraClass = 'correct';
+                else if (userChoices.includes(letter)) extraClass = 'wrong';
             }
-        } else {
-            btn.onclick = () => selectAnswer(letter, btn);
         }
 
-        optionsCont.appendChild(btn);
-    });
+        return `<button class="option-btn ${extraClass}" data-letter="${letter}" ${disabledAttr}><span class="option-letter">${letter}</span> <span class="option-text">${_markdownToHtml(text)}</span></button>`;
+    }).join('');
+
     renderLatexInElement(optionsCont);
 
     let submitBtnCont = document.getElementById('q-submit-container');
@@ -4172,39 +4011,10 @@ function submitAnswer(forceWrong = false) {
         const confContainer = document.getElementById('confidence-rating-container');
         if (confContainer) {
             confContainer.style.display = 'block';
-            
             const btnUnsure = document.getElementById('chip-unsure');
             const btnEasy = document.getElementById('chip-easy');
-            
-            btnUnsure.classList.remove('active');
-            btnEasy.classList.remove('active');
-            
-            btnUnsure.onclick = () => {
-                playSound('click');
-                triggerHaptic('click');
-                btnUnsure.classList.add('active');
-                btnEasy.classList.remove('active');
-                
-                const mastery = getQuestionMastery(q);
-                mastery.consecutiveCorrect = (mastery.consecutiveCorrect || 0) + 1;
-                if (mastery.consecutiveCorrect === 1) mastery.state = 'yellow';
-                else if (mastery.consecutiveCorrect >= 2) mastery.state = 'green';
-                mastery.lastAnswered = Date.now();
-                saveQuestionMastery(q, mastery);
-            };
-            
-            btnEasy.onclick = () => {
-                playSound('click');
-                triggerHaptic('click');
-                btnEasy.classList.add('active');
-                btnUnsure.classList.remove('active');
-                
-                const mastery = getQuestionMastery(q);
-                mastery.consecutiveCorrect = Math.max((mastery.consecutiveCorrect || 0) + 2, 2);
-                mastery.state = 'green';
-                mastery.lastAnswered = Date.now();
-                saveQuestionMastery(q, mastery);
-            };
+            if (btnUnsure) btnUnsure.classList.remove('active');
+            if (btnEasy) btnEasy.classList.remove('active');
         }
     } else {
         const mastery = getQuestionMastery(q);
@@ -4605,7 +4415,66 @@ window.addEventListener('popstate', () => {
 });
 
 
+function handleConfidenceChipClick(isEasy) {
+    const q = state.questions[state.currentIndex];
+    if (!q) return;
+
+    if (q.isCustomCard) {
+        const btnUnsure = document.getElementById('chip-unsure');
+        const btnEasy = document.getElementById('chip-easy');
+        if (btnUnsure) btnUnsure.classList.toggle('active', !isEasy);
+        if (btnEasy) btnEasy.classList.toggle('active', isEasy);
+        submitCustomCardAnswer(isEasy);
+        return;
+    }
+
+    playSound('click');
+    triggerHaptic('click');
+    const btnUnsure = document.getElementById('chip-unsure');
+    const btnEasy = document.getElementById('chip-easy');
+    if (btnUnsure) btnUnsure.classList.toggle('active', !isEasy);
+    if (btnEasy) btnEasy.classList.toggle('active', isEasy);
+
+    const mastery = getQuestionMastery(q);
+    if (isEasy) {
+        mastery.consecutiveCorrect = Math.max((mastery.consecutiveCorrect || 0) + 2, 2);
+        mastery.state = 'green';
+    } else {
+        mastery.consecutiveCorrect = (mastery.consecutiveCorrect || 0) + 1;
+        if (mastery.consecutiveCorrect === 1) mastery.state = 'yellow';
+        else if (mastery.consecutiveCorrect >= 2) mastery.state = 'green';
+    }
+    mastery.lastAnswered = Date.now();
+    saveQuestionMastery(q, mastery);
+}
+
 function setupQuestionListeners() {
+    // Delegated click handler on options container (prevents memory leaks and per-button closures)
+    const optionsCont = document.getElementById('q-options');
+    if (optionsCont && !optionsCont.dataset.delegated) {
+        optionsCont.dataset.delegated = 'true';
+        optionsCont.addEventListener('click', (e) => {
+            const btn = e.target.closest('.option-btn');
+            if (!btn || btn.disabled) return;
+            const letter = btn.dataset.letter;
+            if (letter) {
+                selectAnswer(letter, btn);
+            }
+        });
+    }
+
+    // Delegated click handler on confidence rating container (Unsure / Easy)
+    const confCont = document.getElementById('confidence-rating-container');
+    if (confCont && !confCont.dataset.delegated) {
+        confCont.dataset.delegated = 'true';
+        confCont.addEventListener('click', (e) => {
+            const chip = e.target.closest('#chip-unsure, #chip-easy');
+            if (!chip) return;
+            const isEasy = chip.id === 'chip-easy';
+            handleConfidenceChipClick(isEasy);
+        });
+    }
+
     // Shared Next Question handler used by both #btn-next-q and bottom CD action
     const handleNextQuestionFlow = () => {
         const q = state.questions[state.currentIndex];
@@ -6399,147 +6268,37 @@ function updateQuizStatsUI() {
     }
 }
 
-/**
- * Update UI Sync Status Badges with Wolfson-style indicators
- * States: 'syncing' (🟡 ↻), 'ok' (🟢 ✓), 'err' (🔴 ✗), 'off' (⚪ ·)
- */
 function setSyncStatus(status, detailText = '') {
-    const syncBadge = document.getElementById('quiz-sync-status-badge');
-    const cabinetBadge = document.getElementById('cabinet-sync-indicator');
-    const lastSyncEl = document.getElementById('txt-last-sync-time');
-
-    let badgeText = '⚪ · Local';
-    let badgeColor = '#8b949e';
-    let badgeBorder = 'rgba(139, 148, 158, 0.3)';
-    let cabText = '⚪ · Local Mode';
-
-    if (status === 'syncing') {
-        badgeText = '🟡 ↻ Syncing...';
-        badgeColor = '#eab308';
-        badgeBorder = 'rgba(234, 179, 8, 0.3)';
-        cabText = '🟡 ↻ Syncing with Supabase...';
-    } else if (status === 'ok') {
-        badgeText = '🟢 ✓ Synced';
-        badgeColor = '#3fb950';
-        badgeBorder = 'rgba(63, 185, 80, 0.3)';
-        cabText = '🟢 ✓ Cloud Synced to Supabase';
-        if (lastSyncEl) {
-            const timeStr = new Date().toLocaleTimeString();
-            lastSyncEl.textContent = timeStr;
-        }
-    } else if (status === 'err') {
-        badgeText = '🔴 ✗ Network Error';
-        badgeColor = '#f85149';
-        badgeBorder = 'rgba(248, 81, 73, 0.3)';
-        cabText = '🔴 ✗ Sync Error (Saved Locally)';
-    }
-
-    if (syncBadge) {
-        syncBadge.textContent = badgeText;
-        syncBadge.style.color = badgeColor;
-        syncBadge.style.borderColor = badgeBorder;
-    }
-    if (cabinetBadge) {
-        cabinetBadge.textContent = detailText || cabText;
-        cabinetBadge.style.color = badgeColor;
+    if (window.QuizStorage && typeof window.QuizStorage.setSyncStatus === 'function') {
+        window.QuizStorage.setSyncStatus(status, detailText);
     }
 }
+window.setSyncStatus = setSyncStatus;
 
 /**
  * Fail-safe LocalStorage Session Persistence with Smart Pruning
  * Guaranteed NEVER to drop or fail to save the latest completed session due to browser quota!
  */
 function safeSaveSessionHistory(historyList) {
+    if (window.QuizStorage && typeof window.QuizStorage.safeSaveSessionHistory === 'function') {
+        return window.QuizStorage.safeSaveSessionHistory(historyList);
+    }
     if (!Array.isArray(historyList)) return false;
-    const histKey = getScopedUserKey('starley_session_history');
-    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-    const isGuest = !user || user.isGuest;
-
-    function tryStore(list) {
-        const json = JSON.stringify(list);
-        localStorage.setItem(histKey, json);
-        if (isGuest) {
-            localStorage.setItem('starley_session_history', json);
-        }
+    try {
+        localStorage.setItem('starley_session_history', JSON.stringify(historyList));
         return true;
-    }
-
-    // 1. Direct standard save
-    try {
-        return tryStore(historyList);
-    } catch (errQuota) {
-        console.warn('[Session] Local storage quota reached. Performing smart compression on historical sessions...', errQuota);
-    }
-
-    // 2. Fallback 1: Keep latest 5 sessions with errors, strip bulky explanation texts from older sessions (> 5)
-    try {
-        const compressed1 = historyList.map((s, idx) => {
-            if (idx < 5) return s;
-            if (!Array.isArray(s.errors)) return s;
-            return {
-                ...s,
-                errors: s.errors.map(e => ({
-                    questionIndex: e.questionIndex,
-                    specialId: e.specialId,
-                    questionId: e.questionId,
-                    isCorrect: e.isCorrect,
-                    chosen: e.chosen,
-                    correctAnswer: e.correctAnswer
-                }))
-            };
-        });
-        if (tryStore(compressed1)) {
-            state.sessionHistory = compressed1;
-            return true;
-        }
-    } catch (e1) {
-        console.warn('[Session] Fallback compression 1 failed, applying maximum compact format...', e1);
-    }
-
-    // 3. Fallback 2: Keep latest 50 sessions in summary-only format (metadata, totalQ, correctQ, scorePct, expGained, detailSummary)
-    try {
-        const compressed2 = historyList.slice(0, 50).map(s => ({
-            sessionId: s.sessionId,
-            date: s.date,
-            setTitle: s.setTitle,
-            mode: s.mode,
-            lang: s.lang,
-            totalQ: s.totalQ,
-            correctQ: s.correctQ,
-            scorePct: s.scorePct,
-            timeSpentSec: s.timeSpentSec,
-            expGained: s.expGained,
-            topics: s.topics,
-            detailString: s.detailString || s.detailSummary || ''
-        }));
-        if (tryStore(compressed2)) {
-            state.sessionHistory = compressed2;
-            return true;
-        }
-    } catch (e2) {
-        console.error('[Session] Fatal: unable to save history to localStorage:', e2);
+    } catch (e) {
         return false;
     }
 }
+window.safeSaveSessionHistory = safeSaveSessionHistory;
 
 function removeFromPendingSync(sessionId) {
-    if (!sessionId) return;
-    try {
-        const pendingKey = getScopedUserKey('starley_pending_sessions');
-        let pending = [];
-        const raw = localStorage.getItem(pendingKey);
-        if (raw) pending = JSON.parse(raw);
-        if (Array.isArray(pending)) {
-            pending = pending.filter(p => String(p.sessionId || p.session_id) !== String(sessionId));
-            if (pending.length > 0) {
-                localStorage.setItem(pendingKey, JSON.stringify(pending));
-            } else {
-                localStorage.removeItem(pendingKey);
-                localStorage.removeItem('starley_pending_sessions');
-            }
-        }
-    } catch (e) {}
+    if (window.QuizStorage && typeof window.QuizStorage.removeFromPendingSync === 'function') {
+        window.QuizStorage.removeFromPendingSync(sessionId);
+    }
 }
+window.removeFromPendingSync = removeFromPendingSync;
 
 window.deleteSessionRecord = async function(sessionId) {
     if (!sessionId) return false;
@@ -6596,47 +6355,11 @@ window.deleteSessionRecord = async function(sessionId) {
  * Resilient Session Sync & Local-First Persistence
  */
 function enqueueSessionForSync(sessionObj) {
-    if (!sessionObj) return;
-    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-    if (!user || user.isGuest) return;
-
-    try {
-        const pendingKey = getScopedUserKey('starley_pending_sessions');
-        let pending = [];
-        const raw = localStorage.getItem(pendingKey) || localStorage.getItem('starley_pending_sessions');
-        if (raw) pending = JSON.parse(raw);
-        if (!Array.isArray(pending)) pending = [];
-
-        const sId = String(sessionObj.sessionId || sessionObj.session_id);
-        if (!pending.some(p => String(p.sessionId || p.session_id) === sId)) {
-            // Strip bulky fields for pending queue to keep payload light and within quota
-            const pendingItem = {
-                sessionId: sId,
-                date: sessionObj.date || new Date().toISOString(),
-                setTitle: sessionObj.setTitle || 'Quiz Session',
-                mode: sessionObj.mode || 'smart',
-                lang: sessionObj.lang || 'En',
-                totalQ: sessionObj.totalQ || sessionObj.count || 0,
-                correctQ: sessionObj.correctQ || sessionObj.correctCount || 0,
-                scorePct: sessionObj.scorePct || sessionObj.accuracyPct || 0,
-                timeSpentSec: sessionObj.timeSpentSec || 0,
-                expGained: sessionObj.expGained || 0,
-                topics: sessionObj.topics || [],
-                detailSummary: sessionObj.detailSummary || sessionObj.detailString || ''
-            };
-            pending.push(pendingItem);
-            localStorage.setItem(pendingKey, JSON.stringify(pending));
-        }
-    } catch (e) {
-        console.warn('[Session] enqueueSessionForSync error:', e);
-    }
-
-    if (window.SupabaseAPI && typeof window.SupabaseAPI.syncPendingQuizSessions === 'function') {
-        window.SupabaseAPI.syncPendingQuizSessions().catch(err => {
-            console.warn('[Session] syncPendingQuizSessions error:', err);
-        });
+    if (window.QuizStorage && typeof window.QuizStorage.enqueueSessionForSync === 'function') {
+        window.QuizStorage.enqueueSessionForSync(sessionObj);
     }
 }
+window.enqueueSessionForSync = enqueueSessionForSync;
 
 function syncProfileRpgToSupabase(updatedRpg) {
     const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
@@ -6648,89 +6371,15 @@ function syncProfileRpgToSupabase(updatedRpg) {
         tier_id: updatedRpg.tierId
     }).catch(e => console.warn('[Profile] RPG sync failed:', e));
 }
+window.syncProfileRpgToSupabase = syncProfileRpgToSupabase;
 
 function mergeAndPersistSessionHistory(remoteSessionsRaw) {
-    const user = window.AuthSystem ? window.AuthSystem.getCurrentUser() : null;
-    const isGuest = !user || user.isGuest;
-    const histKey = getScopedUserKey('starley_session_history');
-
-    let localHistory = [];
-    try {
-        localHistory = JSON.parse(localStorage.getItem(histKey) || '[]');
-    } catch (e) {
-        localHistory = [];
+    if (window.QuizStorage && typeof window.QuizStorage.mergeAndPersistSessionHistory === 'function') {
+        return window.QuizStorage.mergeAndPersistSessionHistory(remoteSessionsRaw);
     }
-    if (!Array.isArray(localHistory)) localHistory = [];
-
-    const remoteSessions = (Array.isArray(remoteSessionsRaw) ? remoteSessionsRaw : [])
-        .map(mapSupabaseSessionToLocal)
-        .filter(Boolean);
-
-    const sessionMap = new Map();
-
-    // 1. Remote sessions as base (Cloud authoritative for authenticated users)
-    remoteSessions.forEach(s => {
-        if (s && s.sessionId) sessionMap.set(String(s.sessionId), s);
-    });
-
-    // 2. Merge only local sessions belonging to THIS specific user's scoped history
-    const unSyncedLocal = [];
-    localHistory.forEach(localSess => {
-        if (!localSess) return;
-        const id = String(localSess.sessionId || localSess.session_id || '');
-        if (!id) return;
-
-        if (!sessionMap.has(id)) {
-            sessionMap.set(id, localSess);
-            unSyncedLocal.push(localSess);
-        } else {
-            const remote = sessionMap.get(id);
-            if (Array.isArray(localSess.errors) && localSess.errors.length > 0 && (!remote.errors || remote.errors.length === 0)) {
-                remote.errors = localSess.errors;
-            }
-            if (Array.isArray(localSess.manifestBreakdown) && localSess.manifestBreakdown.length > 0 && (!remote.manifestBreakdown || remote.manifestBreakdown.length === 0)) {
-                remote.manifestBreakdown = localSess.manifestBreakdown;
-            }
-        }
-    });
-
-    const merged = Array.from(sessionMap.values());
-    merged.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
-
-    state.sessionHistory = merged;
-    try {
-        localStorage.setItem(histKey, JSON.stringify(merged));
-        if (isGuest) {
-            localStorage.setItem('starley_session_history', JSON.stringify(merged));
-        }
-    } catch (e) {}
-
-    // Enqueue unsynced local sessions to cloud pending queue (scoped to user)
-    if (!isGuest && unSyncedLocal.length > 0) {
-        try {
-            const pendingKey = getScopedUserKey('starley_pending_sessions');
-            let pending = [];
-            const raw = localStorage.getItem(pendingKey);
-            if (raw) pending = JSON.parse(raw);
-            if (!Array.isArray(pending)) pending = [];
-
-            unSyncedLocal.forEach(s => {
-                const sId = String(s.sessionId || s.session_id);
-                if (!pending.some(p => String(p.sessionId || p.session_id) === sId)) {
-                    pending.push(s);
-                }
-            });
-            localStorage.setItem(pendingKey, JSON.stringify(pending));
-            if (window.SupabaseAPI && typeof window.SupabaseAPI.syncPendingQuizSessions === 'function') {
-                window.SupabaseAPI.syncPendingQuizSessions().catch(() => {});
-            }
-        } catch (e) {}
-    }
-
-    updateQuizStatsUI();
-    if (typeof renderHistoryTab === 'function') renderHistoryTab();
-    return merged;
+    return state.sessionHistory || [];
 }
+window.mergeAndPersistSessionHistory = mergeAndPersistSessionHistory;
 
 /**
  * Adapt Login / Logout buttons based on Guest mode vs Authenticated account
@@ -6971,13 +6620,14 @@ function setUserPlaylists(pls) {
     updateQuizStatsUI();
 }
 
-// Legacy helper stubs
-function enqueueCloudSync(s) { if (s && typeof s === 'object') state.sessionHistory.unshift(s); }
+// Cloud sync helpers
+function enqueueCloudSync(s) { 
+    if (s && typeof s === 'object') {
+        state.sessionHistory.unshift(s);
+        safeSaveSessionHistory(state.sessionHistory);
+    } 
+}
 function syncCloudUserData(s) { enqueueCloudSync(s); }
-function schedulePush() {}
-async function pushToSheets() {}
-async function pullFromSheets() { await initSupabaseAccountSync(); }
-function processSyncQueue() {}
 
 // UI Control Handlers for Settings & Sync Tab
 window.testSheetsConn = async function() {
@@ -7013,401 +6663,9 @@ window.triggerRebuildGoogleSheetStructure = function() {
 };
 
 /* ==========================================================================
-   RPG PROGRESSION & 10-TIER PRESTIGE SYSTEM (Lv.1 Resident to Lv.100 Unrivaled)
+   RPG PROGRESSION & 10-TIER PRESTIGE SYSTEM (Loaded from quiz-stats.js)
    ========================================================================== */
-
-const RPG_SYSTEM = {
-    TIERS: [
-        {
-            id: 1,
-            nameEn: 'Resident',
-            nameRu: 'Ординатор',
-            icon: '🥉',
-            color: '#a8a29e',
-            accent: '#f59e0b',
-            titlesEn: [
-                'Resident Novice', 'Resident Initiate', 'Junior Resident', 'Floor Resident', 'ICU Resident',
-                'Trauma Resident', 'Senior Resident', 'Sub-I Resident', 'Pre-Chief Resident', 'Chief Resident'
-            ],
-            titlesRu: [
-                'Ординатор-стажер', 'Младший ординатор', 'Ординатор приемного', 'Палатный ординатор', 'Ординатор ОРИТ',
-                'Травма-ординатор', 'Старший ординатор', 'Суб-ординатор', 'Пре-шеф ординатор', 'Главный ординатор'
-            ]
-        },
-        {
-            id: 2,
-            nameEn: 'Fellow',
-            nameRu: 'Клинический феллоу',
-            icon: '🧪',
-            color: '#14b8a6',
-            accent: '#2dd4bf',
-            titlesEn: [
-                'Clinical Fellow', 'Surgical Registrar', 'Procedural Fellow', 'Acute Care Fellow', 'Interventionalist',
-                'Senior Registrar', 'Cardiopulmonary Fellow', 'Advanced Surgical Fellow', 'Certified Fellow', 'Distinguished Fellow'
-            ],
-            titlesRu: [
-                'Клинический феллоу', 'Хирургический регистратор', 'Процедурный феллоу', 'Феллоу неотложки', 'Интервенционист',
-                'Старший регистратор', 'Кардиопульмональный феллоу', 'Продвинутый феллоу', 'Сертифицированный феллоу', 'Заслуженный феллоу'
-            ]
-        },
-        {
-            id: 3,
-            nameEn: 'Specialist',
-            nameRu: 'Врач-специалист',
-            icon: '🌿',
-            color: '#10b981',
-            accent: '#34d399',
-            titlesEn: [
-                'Staff Physician', 'Associate Specialist', 'Clinical Specialist', 'Operative Specialist', 'Specialist Attending',
-                'Senior Specialist', 'Expert Specialist', 'Lead Specialist', 'Master Specialist', 'Honored Specialist'
-            ],
-            titlesRu: [
-                'Штатный врач', 'Ассоциированный специалист', 'Клинический специалист', 'Операционный специалист', 'Лечащий специалист',
-                'Старший специалист', 'Эксперт-специалист', 'Ведущий специалист', 'Мастер-специалист', 'Почетный специалист'
-            ]
-        },
-        {
-            id: 4,
-            nameEn: 'Senior Consultant',
-            nameRu: 'Старший консультант',
-            icon: '💎',
-            color: '#3b82f6',
-            accent: '#60a5fa',
-            titlesEn: [
-                'Clinical Consultant', 'Review Consultant', 'Diagnostic Consultant', 'Operative Consultant', 'Senior Consultant',
-                'Advisory Consultant', 'Tertiary Consultant', 'Critical Care Consultant', 'Principal Consultant', 'Chief Consultant'
-            ],
-            titlesRu: [
-                'Клинический консультант', 'Эксперт консилиумов', 'Диагностический консультант', 'Операционный консультант', 'Старший консультант',
-                'Консультант совета', 'Консультант третичного звена', 'Консультант реанимации', 'Главный эксперт-консультант', 'Шеф-консультант'
-            ]
-        },
-        {
-            id: 5,
-            nameEn: 'Department Chair',
-            nameRu: 'Заведующий отделением',
-            icon: '👑',
-            color: '#a855f7',
-            accent: '#c084fc',
-            titlesEn: [
-                'Acting Service Chief', 'Division Chief', 'Service Director', 'Department Vice-Chair', 'Department Chair',
-                'Surgical Director', 'Clinical Executive', 'Governance Chair', 'Chief of Surgery', 'Medical Center Chief'
-            ],
-            titlesRu: [
-                'И.о. заведующего', 'Заведующий направлением', 'Директор службы', 'Заместитель заведующего', 'Заведующий отделением',
-                'Хирургический директор', 'Клинический руководитель', 'Председатель коллегии', 'Главный хирург клиники', 'Шеф медицинского центра'
-            ]
-        },
-        {
-            id: 6,
-            nameEn: 'Professor',
-            nameRu: 'Профессор и академик',
-            icon: '🦅',
-            color: '#f43f5e',
-            accent: '#fb7185',
-            titlesEn: [
-                'Assistant Professor', 'Associate Professor', 'Clinical Professor', 'Research Professor', 'Tenured Professor',
-                'Department Professor', 'Distinguished Professor', 'Academy Fellow', 'Academy Laureate', 'Grand Academician'
-            ],
-            titlesRu: [
-                'Ассистент кафедры', 'Доцент кафедры', 'Клинический профессор', 'Профессор исследований', 'Заслуженный профессор',
-                'Профессор кафедры', 'Выдающийся профессор', 'Член академии наук', 'Лауреат академии', 'Гранд-академик'
-            ]
-        },
-        {
-            id: 7,
-            nameEn: 'Grand Master',
-            nameRu: 'Гранд-мастер хирургии',
-            icon: '⚜️',
-            color: '#eab308',
-            accent: '#fde047',
-            titlesEn: [
-                'Scalpel Virtuoso', 'Operative Maestro', 'Grand Preceptor', 'Surgical Virtuoso', 'High Master Surgeon',
-                'Operative Sovereign', 'Legendary Surgeon', 'Sovereign Preceptor', 'Apex Surgeon', 'Supreme Grand Master'
-            ],
-            titlesRu: [
-                'Виртуоз скальпеля', 'Операционный маэстро', 'Гранд-наставник', 'Хирургический виртуоз', 'Высший мастер хирургии',
-                'Суверен операционной', 'Легендарный хирург', 'Верховный наставник', 'Апекс-хирург', 'Верховный гранд-мастер'
-            ]
-        },
-        {
-            id: 8,
-            nameEn: 'Luminary Vanguard',
-            nameRu: 'Светило медицины',
-            icon: '☀️',
-            color: '#f97316',
-            accent: '#fdba74',
-            titlesEn: [
-                'Luminary Initiate', 'Clinical Luminary', 'Surgical Luminary', 'Vanguard Innovator', 'Eminent Luminary',
-                'Global Vanguard', 'Apex Luminary', 'Living Legend Healer', 'Grand Luminary', 'Supreme Luminary Vanguard'
-            ],
-            titlesRu: [
-                'Восходящее светило', 'Клиническое светило', 'Хирургическое светило', 'Инноватор авангарда', 'Выдающееся светило',
-                'Мировой авангард', 'Апекс-светило', 'Живая легенда медицины', 'Великое светило', 'Верховный авангард медицины'
-            ]
-        },
-        {
-            id: 9,
-            nameEn: 'Mythic Ascendant',
-            nameRu: 'Мифический первопроходец',
-            icon: '🌌',
-            color: '#818cf8',
-            accent: '#38bdf8',
-            titlesEn: [
-                'Mythic Candidate', 'Ethereal Physician', 'Transcendent Healer', 'Master of Life Flow', 'Mythic Pioneer',
-                'Sovereign Ascendant', 'Immortal Healer', 'Mythic Architect', 'Celestial Healer', 'Supreme Mythic Ascendant'
-            ],
-            titlesRu: [
-                'Мифический кандидат', 'Эфирный клиницист', 'Трансцендентный целитель', 'Владыка витального потока', 'Мифический пионер',
-                'Суверенный первопроходец', 'Бессмертный целитель', 'Мифический архитектор', 'Небесный целитель', 'Верховный мифический титан'
-            ]
-        },
-        {
-            id: 10,
-            nameEn: 'Unrivaled',
-            nameRu: 'Непревзойденный',
-            icon: '🌈',
-            color: '#ffffff',
-            accent: '#f472b6',
-            titlesEn: [
-                'Archon Unrivaled', 'Divine Operator', 'Epoch Healer', 'Sovereign of Vitality', 'Celestial Sovereign',
-                'Primordial Virtuoso', 'Eternal Master', 'Omniscient Clinician', 'Demigod of Surgery', 'The Unrivaled'
-            ],
-            titlesRu: [
-                'Непревзойденный архонт', 'Божественный оператор', 'Целитель эпохи', 'Владыка жизни', 'Небесный суверен',
-                'Первозданный виртуоз', 'Вечный мастер', 'Всеведущий клиницист', 'Полубог хирургии', 'Непревзойденный'
-            ]
-        }
-    ],
-
-    getLevelData(level, lang = 'En') {
-        const clampedLevel = Math.min(100, Math.max(1, Math.round(Number(level) || 1)));
-        const tierId = Math.min(10, Math.max(1, Math.ceil(clampedLevel / 10)));
-        const tier = this.TIERS[tierId - 1] || this.TIERS[0];
-        const idxInTier = (clampedLevel - 1) % 10;
-        const isRu = lang === 'Ru';
-        const title = isRu ? tier.titlesRu[idxInTier] : tier.titlesEn[idxInTier];
-        const tierName = isRu ? tier.nameRu : tier.nameEn;
-        return {
-            level: clampedLevel,
-            tierId: tierId,
-            tierName: tierName,
-            tierIcon: tier.icon,
-            title: title,
-            fullTitle: `Lv.${clampedLevel} ${title}`,
-            tier: tier
-        };
-    },
-
-    getRequiredExp(level) {
-        const l = Math.min(100, Math.max(1, Number(level) || 1));
-        return Math.round(1000 + 280000 * Math.pow((l - 1) / 99, 2.6));
-    },
-
-    getCorrectExp(level) {
-        const l = Math.min(100, Math.max(1, Number(level) || 1));
-        return Math.round(10 + 15 * ((l - 1) / 99));
-    },
-
-    getMistakePenalty(level) {
-        const l = Math.min(100, Math.max(1, Number(level) || 1));
-        return Math.round(5 + 145 * Math.pow((l - 1) / 99, 1.7));
-    },
-
-    calculateSessionExp(session, currentLevel) {
-        const cLevel = Math.min(100, Math.max(1, Number(currentLevel) || 1));
-        const correctCount = Number(session.correctQ || session.correctCount) || 0;
-        const totalCount = Number(session.totalQ || session.totalCount) || 0;
-        const wrongCount = Math.max(0, totalCount - correctCount);
-        
-        const baseExp = this.getCorrectExp(cLevel);
-        const penalty = this.getMistakePenalty(cLevel);
-
-        const grossExp = correctCount * baseExp;
-        const grossLoss = wrongCount * penalty;
-
-        // Bonuses
-        const accPct = totalCount > 0 ? (correctCount / totalCount) * 100 : 0;
-        const masteryBonus = accPct >= 90 ? Math.round(grossExp * 0.25) : 0;
-        
-        const avgTime = session.timeSpentSec && totalCount > 0 ? (session.timeSpentSec / totalCount) : 999;
-        const speedBonus = (avgTime < 15 && totalCount >= 3) ? Math.round(grossExp * 0.15) : 0;
-
-        const totalGained = grossExp + masteryBonus + speedBonus;
-        const netExp = totalGained - grossLoss;
-
-        return {
-            netExp: netExp,
-            totalGained: totalGained,
-            grossLoss: grossLoss,
-            baseExp: baseExp,
-            penalty: penalty,
-            masteryBonus: masteryBonus,
-            speedBonus: speedBonus
-        };
-    },
-
-    applyExpDelta(rpgState, delta, lang = 'En') {
-        let curLevel = Math.min(100, Math.max(1, Number(rpgState.level) || 1));
-        let curExp = Math.max(0, Number(rpgState.currentExp) || 0) + delta;
-        let totExp = Math.max(0, (Number(rpgState.totalExp) || 0) + delta);
-        let leveledUp = false;
-        let leveledDown = false;
-        const oldLevel = curLevel;
-
-        if (delta > 0) {
-            while (curExp >= this.getRequiredExp(curLevel) && curLevel < 100) {
-                curExp -= this.getRequiredExp(curLevel);
-                curLevel++;
-                leveledUp = true;
-            }
-            if (curLevel === 100 && curExp > this.getRequiredExp(100)) {
-                curExp = this.getRequiredExp(100);
-            }
-        } else if (delta < 0) {
-            while (curExp < 0 && curLevel > 1) {
-                curLevel--;
-                curExp += this.getRequiredExp(curLevel);
-                leveledDown = true;
-            }
-            if (curLevel === 1 && curExp < 0) {
-                curExp = 0;
-            }
-        }
-
-        const reqExp = this.getRequiredExp(curLevel);
-        const progressPct = reqExp > 0 ? Math.min(100, Math.max(0, Math.round((curExp / reqExp) * 100))) : 0;
-        const levelData = this.getLevelData(curLevel, lang);
-
-        return {
-            level: curLevel,
-            tierId: levelData.tierId,
-            currentExp: curExp,
-            totalExp: totExp,
-            reqExp: reqExp,
-            progressPct: progressPct,
-            leveledUp: leveledUp,
-            leveledDown: leveledDown,
-            oldLevel: oldLevel,
-            levelData: levelData
-        };
-    },
-
-    getProfileRpgState(userProfile, sessionHistory, lang = 'En') {
-        const prof = userProfile || {};
-
-        let simulatedState = { level: 1, currentExp: 0, totalExp: 0 };
-        if (Array.isArray(sessionHistory) && sessionHistory.length > 0) {
-            sessionHistory.slice().reverse().forEach(s => {
-                const expResult = this.calculateSessionExp(s, simulatedState.level);
-                simulatedState = this.applyExpDelta(simulatedState, expResult.netExp, lang);
-            });
-        } else {
-            let parsedLevel = 1;
-            if (typeof prof.level === 'number') parsedLevel = prof.level;
-            else if (typeof prof.level === 'string') {
-                const m = prof.level.match(/Lv\.?(\d+)/i);
-                if (m) parsedLevel = parseInt(m[1], 10) || 1;
-            }
-            simulatedState.level = Math.min(100, Math.max(1, parsedLevel));
-            simulatedState.currentExp = Math.max(0, Number(prof.currentExp) || 0);
-            simulatedState.totalExp = Math.max(0, Number(prof.totalExp) || 0);
-        }
-
-        const reqExp = this.getRequiredExp(simulatedState.level);
-        const progressPct = reqExp > 0 ? Math.min(100, Math.max(0, Math.round((simulatedState.currentExp / reqExp) * 100))) : 0;
-        const levelData = this.getLevelData(simulatedState.level, lang);
-
-        return {
-            level: simulatedState.level,
-            tierId: levelData.tierId,
-            currentExp: simulatedState.currentExp,
-            totalExp: simulatedState.totalExp,
-            reqExp: reqExp,
-            progressPct: progressPct,
-            levelData: levelData,
-            tierData: levelData.tier,
-            nextLevelData: this.getLevelData(Math.min(100, simulatedState.level + 1), lang)
-        };
-    },
-
-    calculateRpgAttributes(history, totalBankQ) {
-        const hist = Array.isArray(history) ? history : [];
-        const bankQ = totalBankQ || (typeof getTotalBankQuestions === 'function' ? getTotalBankQuestions() : 2949);
-
-        let totalAnswered = 0;
-        let totalCorrect = 0;
-        let maxSession = 0;
-        const uniqueSolved = new Set();
-        const uniqueTopics = new Set();
-        const scores = [];
-
-        hist.forEach(s => {
-            const q = Number(s.totalQ || s.count) || 0;
-            const c = Number(s.correctQ || s.correctCount) || 0;
-            totalAnswered += q;
-            totalCorrect += c;
-            if (q > maxSession) maxSession = q;
-
-            const score = s.scorePct !== undefined ? s.scorePct : (q > 0 ? (c / q) * 100 : 0);
-            scores.push(score);
-
-            if (Array.isArray(s.topics)) s.topics.forEach(t => uniqueTopics.add(t));
-            else if (s.setTitle) uniqueTopics.add(s.setTitle);
-
-            if (Array.isArray(s.errors)) {
-                s.errors.forEach(e => {
-                    const id = e.specialId || e.questionId;
-                    if (id) uniqueSolved.add(id);
-                });
-            }
-        });
-
-        // 1. Clinical Knowledge: Unique Solved vs Bank (0..100)
-        const knowledgeScore = Math.min(100, Math.round((uniqueSolved.size / (bankQ * 0.4 || 1)) * 100));
-
-        // 2. Surgical Precision: Total Accuracy (0..100)
-        const precisionScore = totalAnswered > 0 ? Math.round((totalCorrect / totalAnswered) * 100) : 0;
-
-        // 3. Cognitive Velocity: Session Pace
-        const velocityScore = Math.min(100, Math.round(Math.min(totalAnswered, 500) / 5));
-
-        // 4. Mental Stamina: Streak & Endurance
-        const staminaScore = Math.min(100, Math.round((maxSession / 50) * 60 + Math.min(hist.length, 20) * 2));
-
-        // 5. Specialty Breadth: Covered manifests out of 18
-        const breadthScore = Math.min(100, Math.round((uniqueTopics.size / 18) * 100));
-
-        // 6. Consistency & Fortitude: Stability across last 10 runs
-        let consistencyScore = 50;
-        if (scores.length >= 3) {
-            const recent = scores.slice(0, 10);
-            const mean = recent.reduce((a, b) => a + b, 0) / recent.length;
-            const variance = recent.reduce((a, b) => a + Math.pow(b - mean, 2), 0) / recent.length;
-            const stdDev = Math.sqrt(variance);
-            consistencyScore = Math.max(10, Math.min(100, Math.round(100 - stdDev * 2)));
-        }
-
-        const getRank = (score) => {
-            if (score >= 95) return { grade: 'SSS', cls: 'rpg-rank-sss' };
-            if (score >= 88) return { grade: 'S', cls: 'rpg-rank-s' };
-            if (score >= 75) return { grade: 'A', cls: 'rpg-rank-a' };
-            if (score >= 60) return { grade: 'B', cls: 'rpg-rank-b' };
-            if (score >= 45) return { grade: 'C', cls: 'rpg-rank-c' };
-            return { grade: 'D', cls: 'rpg-rank-d' };
-        };
-
-        return [
-            { id: 'knowledge', nameEn: 'Clinical Knowledge', nameRu: 'Клинический кругозор', icon: '🧠', score: knowledgeScore, rank: getRank(knowledgeScore), color: '#58a6ff' },
-            { id: 'precision', nameEn: 'Surgical Precision', nameRu: 'Хирургическая точность', icon: '🎯', score: precisionScore, rank: getRank(precisionScore), color: '#3fb950' },
-            { id: 'velocity', nameEn: 'Cognitive Velocity', nameRu: 'Скорость мышления', icon: '⚡', score: velocityScore, rank: getRank(velocityScore), color: '#eab308' },
-            { id: 'stamina', nameEn: 'Mental Stamina', nameRu: 'Интеллектуальная выносливость', icon: '🛡️', score: staminaScore, rank: getRank(staminaScore), color: '#f97316' },
-            { id: 'breadth', nameEn: 'Specialty Breadth', nameRu: 'Широта специализаций', icon: '🌐', score: breadthScore, rank: getRank(breadthScore), color: '#c084fc' },
-            { id: 'consistency', nameEn: 'Consistency & Fortitude', nameRu: 'Стабильность результатов', icon: '⚖️', score: consistencyScore, rank: getRank(consistencyScore), color: '#2dd4bf' }
-        ];
-    }
-};
-window.RPG_SYSTEM = RPG_SYSTEM;
+const RPG_SYSTEM = (window.QuizStats && window.QuizStats.RPG_SYSTEM) || window.RPG_SYSTEM;
 
 /**
  * Render RPG Session Results Card on Quiz Finish
@@ -8530,63 +7788,12 @@ window.switchTopicFilter = function(filterKey) {
 };
 
 function calculateDisciplineAnalytics() {
-    if (!state.taxonomy || !state.taxonomy.disciplines) return [];
-    
-    return state.taxonomy.disciplines.map(disc => {
-        const discTopics = (state.taxonomy.topics || []).filter(t => t.disciplineId === disc.id);
-        const discTopicIds = new Set(discTopics.map(t => t.id));
-
-        let totalBankQ = 0;
-        let attemptedCount = 0;
-        let correctCount = 0;
-        let wrongCount = 0;
-        const seenKeys = new Set();
-
-        if (state.setQuestionsMap) {
-            Object.values(state.setQuestionsMap).forEach(list => {
-                if (Array.isArray(list)) {
-                    list.forEach(q => {
-                        const qTopics = getQuestionTopics(q);
-                        const qDiscs = getQuestionDisciplines(q);
-                        if (qDiscs.includes(disc.id) || qTopics.some(t => discTopicIds.has(t))) {
-                            const key = getQuestionKey(q);
-                            if (!seenKeys.has(key)) {
-                                seenKeys.add(key);
-                                totalBankQ++;
-                                const m = getQuestionMastery(q);
-                                if (m.views > 0 || m.state !== 'unseen') {
-                                    attemptedCount++;
-                                    if (m.state === 'green' || m.state === 'yellow') {
-                                        correctCount++;
-                                    } else if (m.state === 'red') {
-                                        wrongCount++;
-                                    }
-                                }
-                            }
-                        }
-                    });
-                }
-            });
-        }
-
-        const accuracy = attemptedCount > 0 ? Math.round((correctCount / attemptedCount) * 100) : 0;
-        const coveragePct = totalBankQ > 0 ? Math.round((attemptedCount / totalBankQ) * 100) : 0;
-
-        return {
-            id: disc.id,
-            icon: disc.icon,
-            titleRu: disc.nameRu,
-            titleEn: disc.nameEn,
-            totalBankQ: totalBankQ,
-            attemptedCount: attemptedCount,
-            correctCount: correctCount,
-            wrongCount: wrongCount,
-            accuracy: accuracy,
-            coveragePct: coveragePct,
-            topics: discTopics
-        };
-    });
+    if (window.QuizStats && typeof window.QuizStats.calculateDisciplineAnalytics === 'function') {
+        return window.QuizStats.calculateDisciplineAnalytics();
+    }
+    return [];
 }
+window.calculateDisciplineAnalytics = calculateDisciplineAnalytics;
 
 function renderTopicManifestsSection() {
     const container = document.getElementById('cab-topics-mastery-list');
