@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt62-management-cad-patients-undergoing-valve-surgery",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 62",
+  "title": {
+    "en": "Recommendations for Management of CAD in Patients Undergoing Valve Surgery",
+    "ru": "Рекомендации по ведению ИБС у пациентов, которым планируется хирургическое вмешательство на клапанах сердца"
+  },
+  "tags": [
+    "vhd",
+    "cad",
+    "valve-surgery",
+    "coronary-angiography",
+    "ct-angiography",
+    "cabg"
+  ],
+  "sections": [
+    {
+      "id": "sec-management-cad-valve-surgery",
+      "title": {
+        "en": "Management of CAD in Patients Undergoing Valve Surgery",
+        "ru": "Ведение сопутствующей ИБС у пациентов перед операцией на клапанах"
+      },
+      "rows": [
+        {
+          "id": "r01-invasive-coronary-angiography-before-valve-intervention",
+          "text": {
+            "en": "In patients with symptoms of angina, objective evidence of ischemia, decreased LV systolic function, history of CAD, or coronary risk factors (including men >40 years of age and postmenopausal women), invasive coronary angiography is indicated before valve intervention.",
+            "ru": "У пациентов с симптомами стенокардии, объективными признаками ишемии, сниженной систолической функцией ЛЖ, анамнезом ИБС или факторами коронарного риска (включая мужчин старше 40 лет и женщин в постменопаузе) перед вмешательством на клапане показана инвазивная коронарография."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "id": "r02-chronic-severe-secondary-mr-invasive-angiography",
+          "text": {
+            "en": "In patients with chronic severe secondary MR, invasive coronary angiography should be performed as part of the evaluation.",
+            "ru": "У пациентов с хронической тяжелой вторичной митральной регургитацией инвазивная коронарография должна выполняться как обязательная часть диагностического обследования."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "id": "r03-coronary-cta-low-intermediate-probability",
+          "text": {
+            "en": "In selected patients with a low to intermediate pretest probability of CAD, contrast-enhanced coronary CT angiography is reasonable to exclude the presence of significant obstructive CAD.",
+            "ru": "У отдельных пациентов с низкой или промежуточной предтестовой вероятностью ИБС целесообразно выполнение КТ-коронарографии с контрастированием для исключения гемодинамически значимого обструктивного поражения коронарных артерий."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "id": "r04-significant-proximal-cad-concomitant-cabg",
+          "text": {
+            "en": "In patients undergoing valve repair or replacement with significant proximal CAD (≥70% reduction in luminal diameter in major coronary arteries or ≥50% reduction in luminal diameter in the left main coronary artery and/or physiologically significance), CABG is reasonable for selective patients.",
+            "ru": "У пациентов, которым выполняется пластика или протезирование клапана, при наличии гемодинамически значимого проксимального поражения коронарных артерий (сужение просвета магистральных артерий ≥70%, либо сужение ствола ЛКА ≥50%, и/или функциональная значимость по данным физиологических тестов), сопутствующее выполнение КШ (CABG) целесообразно."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [
+            19,
+            20
+          ]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

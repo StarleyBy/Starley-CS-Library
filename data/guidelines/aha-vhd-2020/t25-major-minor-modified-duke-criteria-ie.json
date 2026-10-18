@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t25-major-minor-modified-duke-criteria-ie",
+  "guidelineId": "aha-vhd-2020",
+  "type": "grid",
+  "number": "Table 25",
+  "title": {
+    "en": "Major and Minor Criteria in the Modified Duke Criteria for the Diagnosis of IE",
+    "ru": "Большие и малые критерии в модифицированных критериях Дьюка (Modified Duke Criteria) для диагностики инфекционного эндокардита"
+  },
+  "tags": [
+    "vhd",
+    "ie",
+    "infective-endocarditis",
+    "duke-criteria",
+    "major-criteria",
+    "minor-criteria",
+    "blood-cultures",
+    "echocardiogram"
+  ],
+  "columns": [
+    {
+      "id": "category",
+      "title": {
+        "en": "Criterion Type",
+        "ru": "Тип критерия"
+      }
+    },
+    {
+      "id": "definition",
+      "title": {
+        "en": "Definition and Manifestations",
+        "ru": "Определение и клинические проявления"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "row-major-blood-culture",
+      "cells": [
+        {
+          "text": {
+            "en": "Major criteria: Blood culture positive for IE",
+            "ru": "Большие критерии: Положительная гемокультура (посев крови) на ИЭ"
+          }
+        },
+        {
+          "text": {
+            "en": "**Typical microorganisms consistent with IE from 2 separate blood cultures:**\n• *Viridans streptococci*, *Streptococcus bovis*, HACEK group (*Haemophilus* spp, *Actinobacillus actinomycetemcomitans*, *Cardiobacterium hominis*, *Eikenella* spp, and *Kingella kingae*), *S. aureus*; or community-acquired enterococci, in the absence of a primary focus; or\n\n**Microorganisms consistent with IE from persistently positive blood culture results, defined as follows:**\n• At least 2 positive culture results of blood samples drawn 12 h apart; or\n• All of 3 or most of ≥4 separate culture samples of blood (with first and last samples drawn at least 1 h apart);\n\n**Single positive blood culture result for *Coxiella burnetii* or antiphase I IgG antibody titer >1:800**",
+            "ru": "**Типичные для ИЭ микроорганизмы, выделенные из 2 раздельных посевов крови:**\n• Зеленящие стрептококки (*Viridans streptococci*), *Streptococcus bovis*, бактерии группы HACEK (*Haemophilus* spp., *Actinobacillus actinomycetemcomitans*, *Cardiobacterium hominis*, *Eikenella* spp., *Kingella kingae*), *S. aureus*; или внебольничные энтерококки при отсутствии первичного очага инфекции; или\n\n**Микроорганизмы, ассоциированные с ИЭ, выделенные из повторно положительных посевов крови:**\n• Не менее 2 положительных результатов посева крови, взятых с интервалом 12 часов; или\n• Все 3 или большинство из ≥4 отдельных посевов крови (первый и последний забор с интервалом не менее 1 часа);\n\n**Однократный положительный посев крови на *Coxiella burnetii* или титр антител IgG к антигенам I фазы >1:800**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-major-endocardial",
+      "cells": [
+        {
+          "text": {
+            "en": "Major criteria: Evidence of endocardial involvement",
+            "ru": "Большие критерии: Доказательства поражения эндокарда"
+          }
+        },
+        {
+          "text": {
+            "en": "**Echocardiogram positive for IE defined as follows:**\n• Oscillating intracardiac mass on valve or supporting structures, in the path of regurgitant jets, or on implanted material in the absence of an alternative anatomic explanation\n• Abscess; or\n• New partial dehiscence of prosthetic valve\n• New valvular regurgitation (worsening or changing of preexisting murmur not sufficient)",
+            "ru": "**Положительные эхокардиографические признаки ИЭ:**\n• Осциллирующее внутрисердечное образование (вегетация) на клапане или поддерживающих структурах, на пути регургитирующей струи или на имплантированном материале при отсутствии альтернативного анатомического объяснения;\n• Абсцесс; или\n• Вновь возникшая частичная дегисценция (расхождение швов) клапанного протеза;\n• Вновь возникшая клапанная регургитация (нарастания или изменения уже существовавшего шума недостаточно)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-minor-predisposition",
+      "cells": [
+        {
+          "text": {
+            "en": "Minor criteria: Predisposition",
+            "ru": "Малые критерии: Предрасположенность"
+          }
+        },
+        {
+          "text": {
+            "en": "Predisposition, predisposing heart condition, or injection drug use",
+            "ru": "Предрасположенность: предшествующее кардиальное заболевание/порок сердца или инъекционное употребление наркотиков"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-minor-fever",
+      "cells": [
+        {
+          "text": {
+            "en": "Minor criteria: Fever",
+            "ru": "Малые критерии: Лихорадка"
+          }
+        },
+        {
+          "text": {
+            "en": "Fever, temperature >38°C (100.4°F)",
+            "ru": "Лихорадка с температурой тела >38,0°C"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-minor-vascular",
+      "cells": [
+        {
+          "text": {
+            "en": "Minor criteria: Vascular phenomena",
+            "ru": "Малые критерии: Сосудистые феномены"
+          }
+        },
+        {
+          "text": {
+            "en": "Vascular phenomena, major arterial emboli, septic pulmonary infarcts, mycotic aneurysm, intracranial hemorrhage, conjunctival hemorrhages, and Janeway lesions",
+            "ru": "Сосудистые феномены: эмболии крупных артерий, септические инфаркты легких, микотические аневризмы, внутричерепные кровоизлияния, кровоизлияния в конъюнктиву и пятна Джейнуэя"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-minor-immunological",
+      "cells": [
+        {
+          "text": {
+            "en": "Minor criteria: Immunological phenomena",
+            "ru": "Малые критерии: Иммунологические феномены"
+          }
+        },
+        {
+          "text": {
+            "en": "Immunological phenomena: glomerulonephritis, Osler's nodes, Roth's spots, and rheumatoid factor",
+            "ru": "Иммунологические феномены: гломерулонефрит, узелки Ослера, пятна Рота и ревматоидный фактор"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-minor-microbiological",
+      "cells": [
+        {
+          "text": {
+            "en": "Minor criteria: Microbiological evidence",
+            "ru": "Малые критерии: Микробиологические доказательства"
+          }
+        },
+        {
+          "text": {
+            "en": "Microbiological evidence: positive blood culture but does not meet a major criterion as noted above* or serological evidence of active infection with organism consistent with IE",
+            "ru": "Микробиологические данные: положительный посев крови, не соответствующий большому критерию*, или серологические маркеры активной инфекции, вызванной типичным для ИЭ возбудителем"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Excludes single positive cultures for coagulase-negative staphylococci and organisms that do not cause IE. IE indicates infective endocarditis; IgG, immunoglobulin G; and spp, species. Adapted from Durack DT, et al., and Kupferwasser LI, et al.",
+      "ru": "*Исключая единичные положительные посевы на коагулазонегативные стафилококки и микроорганизмы, не вызывающие ИЭ. ИЭ — инфекционный эндокардит; IgG — иммуноглобулин G; spp. — виды. Адаптировано из Durack DT, et al., и Kupferwasser LI, et al."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

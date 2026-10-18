@@ -1,0 +1,310 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt61-anticoagulation-pregnant-women-mechanical-prosthetic-valves",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 61",
+  "title": {
+    "en": "Recommendations for Anticoagulation for Pregnant Women With Mechanical Prosthetic Heart Valves",
+    "ru": "Рекомендации по антикоагулянтной терапии у беременных женщин с механическими протезами клапанов сердца"
+  },
+  "tags": [
+    "vhd",
+    "pregnancy",
+    "mechanical-prosthetic-valves",
+    "anticoagulation",
+    "warfarin",
+    "lmwh",
+    "anti-xa",
+    "ufh",
+    "delivery",
+    "harm"
+  ],
+  "sections": [
+    {
+      "id": "sec-anticoagulation-pregnant-women-mechanical-valves",
+      "title": {
+        "en": "Anticoagulation for Pregnant Women With Mechanical Prosthetic Heart Valves",
+        "ru": "Антикоагулянтная терапия у беременных с механическими клапанами"
+      },
+      "rows": [
+        {
+          "id": "r01-pregnant-mechanical-therapeutic-anticoagulation-monitoring",
+          "text": {
+            "en": "Pregnant women with mechanical prostheses should receive therapeutic anticoagulation with frequent monitoring during pregnancy.",
+            "ru": "Беременные женщины с механическими протезами клапанов должны получать терапевтическую антикоагулянтную терапию с частым лабораторным мониторингом на протяжении всей беременности."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "r02-cannot-maintain-monitoring-counseled-against-pregnancy",
+          "text": {
+            "en": "Women with mechanical heart valves who cannot maintain therapeutic anticoagulation with frequent monitoring should be counseled against pregnancy.",
+            "ru": "Женщинам с механическими клапанами сердца, которые не могут поддерживать терапевтический уровень антикоагуляции с регулярным контролем, следует рекомендовать воздержаться от беременности."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            7,
+            8,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "id": "r03-shared-decision-making-anticoagulation-strategy-vka-vs-heparins",
+          "text": {
+            "en": "Women with mechanical heart valves and their providers should use shared decision-making to choose an anticoagulation strategy for pregnancy. Women should be informed that VKA during pregnancy is associated with the lowest likelihood of maternal complications but the highest likelihood of miscarriage, fetal death, and congenital abnormalities, particularly if taken during the first trimester and if the warfarin dose exceeds 5 mg/d.",
+            "ru": "Женщины с механическими клапанами сердца и их врачи должны использовать процесс совместного принятия решений при выборе стратегии антикоагуляции на период беременности. Пациентки должны быть проинформированы о том, что терапия АВК (варфарином) во время беременности сопряжена с наименьшей вероятностью материнских тромботических осложнений, но с максимальным риском выкидыша, гибели плода и врожденных пороков развития, особенно при приеме в первом триместре и если доза варфарина превышает 5 мг/сутки."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            3,
+            4,
+            5,
+            6,
+            11,
+            14,
+            15
+          ]
+        },
+        {
+          "id": "r04-warfarin-switch-lmwh-ufh-1-week-before-delivery",
+          "text": {
+            "en": "Pregnant women with mechanical valve prostheses who are on warfarin should switch to twice-daily LMWH (with a target anti-Xa level of 0.8 U/mL to 1.2 U/mL at 4 to 6 hours after dose) or intravenous UFH (with an activated partial thromboplastin time [aPTT] 2 times control) at least 1 week before planned delivery.",
+            "ru": "Беременные женщины с механическими протезами клапанов, принимающие варфарин, должны быть переведены на двукратное введение НМГ (с целевым уровнем анти-Ха от 0,8 до 1,2 МЕ/мл через 4–6 часов после инъекции) или внутривенный НФГ (с поддержанием АЧТВ в 2 раза выше контроля) не менее чем за 1 неделю до планируемого родоразрешения."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [
+            3,
+            6,
+            11,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "id": "r05-lmwh-switch-ufh-36-hours-before-delivery",
+          "text": {
+            "en": "Pregnant women with mechanical valve prostheses who are on LMWH should switch to UFH (with an aPTT 2 times control) at least 36 hours before planned delivery.",
+            "ru": "Беременные женщины с механическими протезами клапанов, получающие НМГ, должны быть переведены на внутривенный НФГ (с поддержанием АЧТВ в 2 раза выше контроля) не менее чем за 36 часов до планируемого родоразрешения."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "r06-stop-ufh-6-hours-before-vaginal-delivery",
+          "text": {
+            "en": "Pregnant women with valve prostheses should stop UFH at least 6 hours before planned vaginal delivery.",
+            "ru": "Беременным женщинам с клапанными протезами инфузию НФГ следует прекратить не менее чем за 6 часов до планируемых вагинальных родов."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "id": "r07-labor-vka-cesarean-after-reversal",
+          "text": {
+            "en": "If labor begins or urgent delivery is required in a woman therapeutically anticoagulated with a VKA, cesarean section should be performed after reversal of anticoagulation.",
+            "ru": "При начале родовой деятельности или необходимости экстренного родоразрешения у женщины, находящейся на терапевтической антикоагуляции АВК, следует выполнить кесарево сечение после реверсии антикоагулянтного эффекта."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [
+            3,
+            22,
+            23
+          ]
+        },
+        {
+          "id": "r08-warfarin-le-5mg-continuation-reasonable",
+          "text": {
+            "en": "For pregnant women with mechanical prostheses who require a dose of warfarin ≤5 mg/d to maintain a therapeutic INR, continuation of warfarin for all 3 trimesters is reasonable after full discussion with the patient about risks and benefits.",
+            "ru": "У беременных женщин с механическими протезами, которым требуется доза варфарина ≤5 мг/сут для поддержания терапевтического МНО, продолжение приема варфарина на протяжении всех трех триместров целесообразно после детального обсуждения с пациенткой соотношения пользы и рисков."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [
+            3,
+            6,
+            11,
+            14,
+            15,
+            22,
+            24,
+            25
+          ]
+        },
+        {
+          "id": "r09-warfarin-gt-5mg-lmwh-first-trimester-then-warfarin",
+          "text": {
+            "en": "For pregnant women with mechanical prostheses who require >5 mg/d of warfarin to achieve a therapeutic INR, dose-adjusted LMWH (with a target anti-Xa level of 0.8 to 1.2 U/mL at 4 to 6 hours after dose) at least 2 times per day during the first trimester, followed by warfarin during the second and third trimesters, is reasonable.",
+            "ru": "У беременных женщин с механическими протезами, которым требуется доза варфарина >5 мг/сут для терапевтического МНО, назначение титруемого по дозе НМГ (с целевым анти-Ха 0,8–1,2 МЕ/мл через 4–6 часов после введения) не менее 2 раз в сутки в первом триместре с последующим приемом варфарина во втором и третьем триместрах является целесообразным."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [
+            3,
+            6,
+            11,
+            14,
+            25
+          ]
+        },
+        {
+          "id": "r10-warfarin-gt-5mg-ufh-first-trimester-if-lmwh-unavailable",
+          "text": {
+            "en": "For pregnant women with mechanical prostheses who require a dose of warfarin >5 mg/d to achieve a therapeutic INR, and for whom dose-adjusted LMWH is unavailable, dose-adjusted continuous intravenous UFH during the first trimester (with aPTT 2 times control), followed by warfarin for the second and third trimesters, is reasonable.",
+            "ru": "У беременных женщин с механическими протезами, которым требуется доза варфарина >5 мг/сут для терапевтического МНО, при недоступности мониторируемого НМГ, целесообразно проведение постоянной внутривенной инфузии титруемого НФГ в первом триместре (с поддержанием АЧТВ в 2 раза выше контроля) с последующим переходом на варфарин во втором и третьем триместрах."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [
+            3,
+            6,
+            11,
+            14
+          ]
+        },
+        {
+          "id": "r11-hemodynamically-stable-obstructive-thrombosis-fibrinolysis",
+          "text": {
+            "en": "For hemodynamically stable pregnant women with obstructive left-sided mechanical valve thrombosis, it is reasonable to manage with slow-infusion, low-dose fibrinolytic therapy.",
+            "ru": "У гемодинамически стабильных беременных женщин с обструктивным тромбозом механического протеза клапана левых камер сердца целесообразно проведение низкодозовой медленной инфузии тромболитической терапии."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [
+            26
+          ]
+        },
+        {
+          "id": "r12-warfarin-gt-5mg-lmwh-all-3-trimesters-considered",
+          "text": {
+            "en": "For pregnant women with mechanical prostheses who require a warfarin dose >5 mg/d to achieve a therapeutic INR, dose-adjusted LMWH (with a target anti-Xa level of 0.8 to 1.2 U/mL at 4 to 6 hours after dose) at least 2 times per day for all 3 trimesters may be considered.",
+            "ru": "У беременных женщин с механическими протезами, которым требуется доза варфарина >5 мг/сут для достижения терапевтического МНО, может быть рассмотрено назначение дозо-адаптированного НМГ (целевой уровень анти-Ха 0,8–1,2 МЕ/мл через 4–6 ч после введения) не менее 2 раз в сутки на протяжении всех 3 триместров."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [
+            3,
+            6,
+            10,
+            14,
+            27
+          ]
+        },
+        {
+          "id": "r13-warfarin-le-5mg-lmwh-first-trimester-considered",
+          "text": {
+            "en": "For pregnant women with mechanical prostheses who require a dose of warfarin ≤5 mg/d to maintain a therapeutic INR, dose-adjusted LMWH at least 2 times per day during the first trimester, followed by warfarin for the second and third trimesters, may be considered.",
+            "ru": "У беременных женщин с механическими протезами, требующих дозы варфарина ≤5 мг/сут для терапевтического МНО, может быть рассмотрено применение дозо-контролируемого НМГ не менее 2 раз в день в первом триместре с последующим приемом варфарина во втором и третьем триместрах."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [
+            3,
+            4,
+            5,
+            6,
+            8,
+            14,
+            16,
+            22
+          ]
+        },
+        {
+          "id": "r14-aspirin-addition-if-indicated",
+          "text": {
+            "en": "For pregnant women with mechanical prostheses, aspirin 75 to 100 mg daily may be considered, in addition to anticoagulation, if needed for other indications.",
+            "ru": "У беременных женщин с механическими протезами клапанов в дополнение к антикоагулянтной терапии может быть рассмотрено назначение аспирина в дозе 75–100 мг в сутки при наличии сопутствующих показаний."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [
+            28
+          ]
+        },
+        {
+          "id": "r15-lmwh-harm-without-anti-xa-monitoring",
+          "text": {
+            "en": "For pregnant women with mechanical prostheses, LMWH should not be administered unless anti-Xa levels are monitored 4 to 6 hours after administration and dose is adjusted according to levels.",
+            "ru": "У беременных женщин с механическими протезами клапанов НМГ не должен применяться без регулярного контроля пиковой активности анти-Ха через 4–6 часов после введения и обязательной коррекции дозы по полученным результатам."
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [
+            8,
+            9,
+            10,
+            16,
+            27
+          ]
+        },
+        {
+          "id": "r16-dabigatran-contraindicated-mechanical-valves",
+          "text": {
+            "en": "For patients with mechanical valve prostheses, anticoagulation with the direct thrombin inhibitor, dabigatran, should not be administered.",
+            "ru": "У пациентов с механическими протезами клапанов антикоагулянтная терапия прямым ингибитором тромбина дабигатраном противопоказана и не должна назначаться."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [
+            29
+          ]
+        },
+        {
+          "id": "r17-doacs-anti-xa-not-recommended-mechanical-valves",
+          "text": {
+            "en": "The use of anti-Xa direct oral anticoagulants with mechanical heart valves in pregnancy has not been assessed and is not recommended.",
+            "ru": "Применение прямых пероральных ингибиторов фактора Ха (ПОАК) при механических протезах клапанов во время беременности не исследовалось и не рекомендуется (противопоказано)."
+          },
+          "class": "III-harm",
+          "level": "C-EO",
+          "refs": [
+            30,
+            31,
+            32
+          ]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 17
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

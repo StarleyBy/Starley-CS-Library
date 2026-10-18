@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt55-intervention-for-ie",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 55",
+  "title": {
+    "en": "Recommendations for Intervention for IE",
+    "ru": "Рекомендации по хирургическому и инвазивному лечению инфекционного эндокардита"
+  },
+  "tags": [
+    "vhd",
+    "ie",
+    "infective-endocarditis",
+    "surgery",
+    "heart-valve-team",
+    "heart-failure",
+    "abscess",
+    "stroke",
+    "vegetation"
+  ],
+  "sections": [
+    {
+      "id": "sec-intervention-for-ie",
+      "title": {
+        "en": "Intervention for IE",
+        "ru": "Хирургическое и инвазивное лечение инфекционного эндокардита"
+      },
+      "rows": [
+        {
+          "id": "r01-timing-surgical-intervention-heart-valve-team",
+          "text": {
+            "en": "Decisions about the timing of surgical intervention for IE should be made by a Heart Valve Team.",
+            "ru": "Решения о сроках хирургического вмешательства при ИЭ должны приниматься мультидисциплинарной клапанной командой (Heart Valve Team)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "r02-valve-dysfunction-hf-early-surgery",
+          "text": {
+            "en": "In patients with IE who present with valve dysfunction resulting in symptoms of HF, early surgery (during initial hospitalization and before completion of a full therapeutic course of antibiotics) is indicated.",
+            "ru": "У пациентов с ИЭ и клапанной дисфункцией, приводящей к развитию симптомов сердечной недостаточности, показано раннее хирургическое вмешательство (во время первичной госпитализации до завершения полного терапевтического курса антибиотикотерапии)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "id": "r03-left-sided-ie-s-aureus-fungal-resistant-organisms-early-surgery",
+          "text": {
+            "en": "In patients with left-sided IE caused by *S. aureus*, a fungal organism, or other highly resistant organisms, early surgery (during initial hospitalization and before completion of a full therapeutic course of antibiotics) is indicated.",
+            "ru": "У пациентов с левосторонним ИЭ, вызванным *S. aureus*, грибковыми возбудителями или другими высокорезистентными микроорганизмами, показано раннее хирургическое вмешательство (во время первичной госпитализации до завершения полного терапевтического курса антибиотикотерапии)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            7,
+            8,
+            15,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "id": "r04-ie-heart-block-abscess-penetrating-lesions-early-surgery",
+          "text": {
+            "en": "In patients with IE complicated by heart block, annular or aortic abscess, or destructive penetrating lesions, early surgery (during initial hospitalization and before completion of a full therapeutic course of antibiotics) is indicated.",
+            "ru": "У пациентов с ИЭ, осложнившимся блокадой сердца, абсцессом фиброзного кольца или корня аорты, либо деструктивными проникающими поражениями, показано раннее хирургическое вмешательство (во время первичной госпитализации до завершения полного терапевтического курса антибиотикотерапии)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            7,
+            8,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "id": "r05-persistent-infection-fever-bacteremia-early-surgery",
+          "text": {
+            "en": "In patients with IE and evidence of persistent infection as manifested by persistent bacteremia or fevers lasting >5 days after onset of appropriate antimicrobial therapy, early surgery (during initial hospitalization and before completion of a full therapeutic course of antibiotics) for IE is indicated.",
+            "ru": "У пациентов с ИЭ и признаками персистирующей инфекции, проявляющейся персистирующей бактериемией или лихорадкой продолжительностью >5 дней после начала адекватной антибактериальной терапии, показано раннее хирургическое вмешательство (во время первичной госпитализации до завершения полного терапевтического курса антибиотикотерапии)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            7,
+            8,
+            15,
+            23,
+            28,
+            45,
+            46,
+            47,
+            48
+          ]
+        },
+        {
+          "id": "r06-implanted-cardiac-device-complete-removal",
+          "text": {
+            "en": "In all patients with definite endocarditis and an implanted cardiac electronic device, complete removal of the pacemaker or defibrillator systems, including all leads and the generator, is indicated.",
+            "ru": "У всех пациентов с определенным эндокардитом и имплантированным сердечным электронным устройством показано полное удаление системы кардиостимулятора или дефибриллятора, включая все электроды и генератор."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55
+          ]
+        },
+        {
+          "id": "r07-pve-relapsing-infection-surgery",
+          "text": {
+            "en": "For patients with prosthetic valve endocarditis and relapsing infection (defined as recurrence of bacteremia after a complete course of appropriate antibiotics and subsequent negative blood culture results) without other identifiable source of infection, surgery is recommended.",
+            "ru": "У пациентов с эндокардитом протезированного клапана (PVE) и рецидивирующей инфекцией (определяемой как возобновление бактериемии после завершения полного курса адекватных антибиотиков и последующих отрицательных посевов крови) при отсутствии иного идентифицируемого источника инфекции рекомендуется хирургическое лечение."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [
+            7
+          ]
+        },
+        {
+          "id": "r08-recurrent-endocarditis-iv-drug-use-addiction-medicine",
+          "text": {
+            "en": "In patients with recurrent endocarditis and continued intravenous drug use, consultation with addiction medicine is recommended to discuss the long-term prognosis for the patient's refraining from actions that risk reinfection before repeat surgical intervention is considered.",
+            "ru": "У пациентов с рецидивирующим эндокардитом и продолжающимся инъекционным употреблением наркотиков рекомендуется консультация специалиста по аддиктологии/наркологии для оценки отдаленного прогноза и готовности пациента отказаться от действий, создающих риск повторного инфицирования, до рассмотрения вопроса о повторном хирургическом вмешательстве."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [
+            56,
+            57,
+            58,
+            59,
+            60
+          ]
+        },
+        {
+          "id": "r09-recurrent-emboli-persistent-vegetations-early-surgery",
+          "text": {
+            "en": "In patients with IE who present with recurrent emboli and persistent vegetations despite appropriate antibiotic therapy, early surgery (during initial hospitalization and before completion of a full therapeutic course of antibiotics) is reasonable.",
+            "ru": "У пациентов с ИЭ, у которых возникают рецидивирующие эмболии и сохраняются вегетации, несмотря на адекватную антибактериальную терапию, целесообразно проведение раннего хирургического вмешательства (во время первичной госпитализации до завершения полного терапевтического курса антибиотикотерапии)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [
+            12,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
+          ]
+        },
+        {
+          "id": "r10-native-left-sided-vegetations-greater-10mm-early-surgery",
+          "text": {
+            "en": "In patients with native left-sided valve endocarditis who exhibit mobile vegetations >10 mm in length (with or without clinical evidence of embolic phenomenon), early surgery (during initial hospitalization and before completion of a full therapeutic course of antibiotics) may be considered.",
+            "ru": "У пациентов с эндокардитом нативного клапана левых отделов сердца с подвижными вегетациями длиной >10 мм (с клиническими признаками эмболического феномена или без них) может быть рассмотрено раннее хирургическое вмешательство (во время первичной госпитализации до завершения полного терапевтического курса антибиотикотерапии)."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [
+            22,
+            61,
+            62,
+            63,
+            67
+          ]
+        },
+        {
+          "id": "r11-stroke-no-hemorrhage-surgery-without-delay",
+          "text": {
+            "en": "In patients with IE and an indication for surgery who have suffered a stroke but have no evidence of intracranial hemorrhage or extensive neurological damage, operation without delay may be considered.",
+            "ru": "У пациентов с ИЭ и показаниями к операции, перенесших инсульт без признаков внутричерепного кровоизлияния или обширного неврологического дефицита, может быть рассмотрено проведение операции без задержки."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [
+            68,
+            69,
+            70,
+            71
+          ]
+        },
+        {
+          "id": "r12-major-stroke-hemorrhage-delay-surgery-4-weeks",
+          "text": {
+            "en": "For patients with IE and major ischemic stroke with extensive neurological damage or intracranial hemorrhage, if the patient is hemodynamically stable, delaying valve surgery for at least 4 weeks may be considered.",
+            "ru": "У пациентов с ИЭ и обширным ишемическим инсультом с выраженным неврологическим дефицитом либо внутричерепным кровоизлиянием при гемодинамической стабильности может быть рассмотрена отсрочка операции на клапане не менее чем на 4 недели."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [
+            68,
+            71
+          ]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 12
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

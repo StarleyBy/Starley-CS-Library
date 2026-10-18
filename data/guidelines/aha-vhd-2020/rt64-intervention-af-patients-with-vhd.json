@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt64-intervention-af-patients-with-vhd",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 64",
+  "title": {
+    "en": "Recommendations for Intervention for AF in Patients With VHD",
+    "ru": "Рекомендации по инвазивному и хирургическому лечению фибрилляции предсердий у пациентов с клапанными пороками сердца"
+  },
+  "tags": [
+    "vhd",
+    "af",
+    "atrial-fibrillation",
+    "maze-procedure",
+    "pulmonary-vein-isolation",
+    "la-appendage",
+    "harm"
+  ],
+  "sections": [
+    {
+      "id": "sec-intervention-af-patients-vhd",
+      "title": {
+        "en": "Intervention for AF in Patients With VHD",
+        "ru": "Вмешательства при фибрилляции предсердий у пациентов с клапанными пороками"
+      },
+      "rows": [
+        {
+          "id": "r01-vhd-af-surgical-intervention-discuss-arrhythmia-surgery",
+          "text": {
+            "en": "In patients with VHD and AF for whom surgical intervention is planned, the potential symptomatic benefits and additional procedural risks of adjunctive arrhythmia surgery at the time of cardiac valvular surgery should be discussed with the patient.",
+            "ru": "У пациентов с клапанными пороками сердца и ФП, которым планируется хирургическое вмешательство, следует обсудить с пациентом потенциальную клиническую пользу и дополнительные периоперационные риски сопутствующей хирургической аблации аритмии во время операции на клапане."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "id": "r02-symptomatic-af-valvular-surgery-pvi-or-maze",
+          "text": {
+            "en": "For symptomatic patients with paroxysmal or persistent AF who are undergoing valvular surgery, surgical pulmonary vein isolation or a maze procedure can be beneficial to reduce symptoms and prevent recurrent arrhythmias.",
+            "ru": "У пациентов с симптомами пароксизмальной или персистирующей ФП, которым выполняется хирургическое вмешательство на клапане, хирургическая изоляция легочных вен или процедура «лабиринт» (Maze) приносит пользу для облегчения симптомов и профилактики рецидивов аритмии."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [
+            1,
+            2,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "id": "r03-af-afl-valvular-surgery-laa-ligation-excision",
+          "text": {
+            "en": "For patients with AF or atrial flutter who are undergoing valve surgery, LA appendage ligation/excision is reasonable to reduce the risk of thromboembolic events.",
+            "ru": "У пациентов с ФП или трепетанием предсердий, переносящих операцию на клапанах, лигирование или резекция ушка левого предсердия (УЛП) целесообразны для снижения риска тромбоэмболических осложнений."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [
+            16,
+            17,
+            18,
+            19
+          ]
+        },
+        {
+          "id": "r04-la-surgical-ablation-laa-anticoagulation-at-least-3-months",
+          "text": {
+            "en": "In patients undergoing LA surgical ablation of atrial arrhythmias and/or LA appendage ligation/excision, anticoagulation therapy is reasonable for at least 3 months after the procedure.",
+            "ru": "У пациентов, перенесших хирургическую аблацию предсердных аритмий в левом предсердии и/или резекцию/лигирование ушка левого предсердия, проведение антикоагулянтной терапии целесообразно в течение не менее 3 месяцев после операции."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "id": "r05-without-atrial-arrhythmias-laa-occlusion-harmful",
+          "text": {
+            "en": "For patients without atrial arrhythmias who are undergoing valvular surgery, LA appendage occlusion/exclusion/amputation is potentially harmful.",
+            "ru": "У пациентов без предсердных аритмий, которым выполняется операция на клапанах, окклюзия, исключение или ампутация ушка левого предсердия потенциально вредны (не показаны)."
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [
+            23
+          ]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

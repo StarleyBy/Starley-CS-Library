@@ -1,0 +1,339 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.t26-evidence-gaps-future-directions-vhd",
+  "guidelineId": "aha-vhd-2020",
+  "type": "grid",
+  "number": "Table 26",
+  "title": {
+    "en": "Evidence Gaps and Future Directions for Patients With VHD",
+    "ru": "Пробелы в доказательной базе и перспективные направления исследований у пациентов с клапанными пороками сердца"
+  },
+  "tags": [
+    "vhd",
+    "evidence-gaps",
+    "future-directions",
+    "research",
+    "tavi",
+    "antithrombotic",
+    "prevention"
+  ],
+  "columns": [
+    {
+      "id": "domain",
+      "title": {
+        "en": "Evidence Gaps",
+        "ru": "Пробелы в доказательной базе"
+      }
+    },
+    {
+      "id": "directions",
+      "title": {
+        "en": "Future Directions",
+        "ru": "Перспективные направления исследований"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "row-stage-a-disease-mechanisms",
+      "cells": [
+        {
+          "text": {
+            "en": "**Identification of patients at risk and valve disease prevention (Stage A)**\nDisease mechanisms",
+            "ru": "**Выявление пациентов группы риска и профилактика клапанных пороков (Стадия A)**\nМеханизмы развития заболевания"
+          }
+        },
+        {
+          "text": {
+            "en": "Basic science to identify specific targets for medical therapy",
+            "ru": "Фундаментальные исследования для определения специфических терапевтических мишеней медикаментозной терапии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-a-rheumatic-heart-disease",
+      "cells": [
+        {
+          "text": {
+            "en": "Rheumatic heart disease",
+            "ru": "Ревматическая болезнь сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "Primary and secondary prevention",
+            "ru": "Первичная и вторичная профилактика ревматизма и клапанных поражений"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-a-calcific-valve-disease",
+      "cells": [
+        {
+          "text": {
+            "en": "Calcific valve disease",
+            "ru": "Кальцинирующие пороки клапанов"
+          }
+        },
+        {
+          "text": {
+            "en": "• Identification of patients at risk\n• Risk factor intervention\n• Prevention of disease initiation",
+            "ru": "• Выявление пациентов группы риска\n• Вмешательство на модифицируемые факторы риска\n• Предотвращение инициации кальциноза и дегенерации створок"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-b-disease-mechanisms",
+      "cells": [
+        {
+          "text": {
+            "en": "**Medical therapy for progressive valve disease (Stage B)**\nDisease mechanisms",
+            "ru": "**Медикаментозная терапия прогрессирующего клапанного порока (Стадия B)**\nМеханизмы прогрессирования заболевания"
+          }
+        },
+        {
+          "text": {
+            "en": "Basic science to identify specific targets to slow or reverse disease progression",
+            "ru": "Фундаментальные исследования для поиска мишеней замедления или обратного развития прогрессирования порока"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-b-medical-intervention",
+      "cells": [
+        {
+          "text": {
+            "en": "Medical intervention",
+            "ru": "Фармакотерапевтическое вмешательство"
+          }
+        },
+        {
+          "text": {
+            "en": "Targeted therapy using advanced imaging endpoints to study disease mechanisms",
+            "ru": "Таргетная терапия с использованием передовых визуализирующих конечных точек для изучения патогенетических механизмов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-b-ventricular-vascular-interactions",
+      "cells": [
+        {
+          "text": {
+            "en": "Ventricular and vascular interactions",
+            "ru": "Взаимодействие желудочков и сосудистого русла"
+          }
+        },
+        {
+          "text": {
+            "en": "• Dynamic interplay between valve disease severity and changes in ventricular anatomy and function\n• Modulation of ventricular and vascular dysfunction in patients with VHD",
+            "ru": "• Динамическое взаимодействие между тяжестью клапанного порока и ремоделированием анатомии/функции желудочков\n• Модуляция желудочковой и сосудистой дисфункции у пациентов с пороками сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-c-measures-severity",
+      "cells": [
+        {
+          "text": {
+            "en": "**Optimal timing of intervention (Stage C)**\nImproved measures of disease severity",
+            "ru": "**Оптимальные сроки вмешательства (Стадия C)**\nСовершенствование критериев тяжести заболевания"
+          }
+        },
+        {
+          "text": {
+            "en": "• Validation of newer measures of LV size (eg, volumes instead of dimension) and function (eg, strain) for timing of intervention decisions\n• Evaluation of nonimaging parameters (serum markers and other novel approaches)",
+            "ru": "• Валидация новых параметров размера ЛЖ (объемы вместо линейных размеров) и функции (глобальная продольная деформация / strain) для принятия решений о сроках вмешательства\n• Оценка невизуализирующих параметров (биомаркеры сыворотки крови и новые подходы)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-c-timing-intervention",
+      "cells": [
+        {
+          "text": {
+            "en": "Timing of intervention",
+            "ru": "Сроки проведения вмешательства"
+          }
+        },
+        {
+          "text": {
+            "en": "• Timing of intervention in asymptomatic patients with valve regurgitation\n• Intervention for asymptomatic severe AS\n• Intervention for moderate AS with LV dysfunction\n• Identification of patients with secondary MR who benefit from intervention",
+            "ru": "• Сроки вмешательства у бессимптомных пациентов с клапанной регургитацией\n• Вмешательство при бессимптомном тяжелом аортальном стенозе\n• Вмешательство при умеренном аортальном стенозе с дисфункцией ЛЖ\n• Выявление подгрупп пациентов с вторичной МР, получающих максимальную пользу от вмешательства"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-c-patient-centered-research",
+      "cells": [
+        {
+          "text": {
+            "en": "Patient-centered research",
+            "ru": "Пациент-центрированные исследования"
+          }
+        },
+        {
+          "text": {
+            "en": "Involvement of patients in identifying research questions, study design, and definition of outcomes",
+            "ru": "Привлечение пациентов к формированию научных вопросов, дизайну клинических исследований и определению ключевых исходов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-c-diverse-patient-groups",
+      "cells": [
+        {
+          "text": {
+            "en": "Inclusion of diverse patient groups",
+            "ru": "Включение разнообразных групп пациентов"
+          }
+        },
+        {
+          "text": {
+            "en": "Adequate representation of diverse patient populations in RCTs for VHD",
+            "ru": "Адекватное представительство гетерогенных популяций пациентов в рандомизированных контролируемых исследованиях (РКИ) по порокам сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-c-decision-aids",
+      "cells": [
+        {
+          "text": {
+            "en": "Decision aids",
+            "ru": "Инструменты поддержки принятия решений"
+          }
+        },
+        {
+          "text": {
+            "en": "• Development and validation of improved decision aids for shared decision-making with patients\n• Implementation and validation of decision algorithms for physicians and Heart Valve Teams",
+            "ru": "• Разработка и валидация усовершенствованных инструментов для совместного принятия решений с пациентами\n• Внедрение и валидация алгоритмов принятия решений для врачей и мультидисциплинарных клапанных команд"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-d-prosthetic-valves",
+      "cells": [
+        {
+          "text": {
+            "en": "**Intervention options and long-term management (Stage D)**\nImproved prosthetic valves",
+            "ru": "**Варианты вмешательств и длительное ведение (Стадия D)**\nУсовершенствование клапанных протезов"
+          }
+        },
+        {
+          "text": {
+            "en": "• Durability of TAVI valves\n• Nonthrombogenic durable surgical and transcatheter valves",
+            "ru": "• Долговечность транскатетерных клапанов TAVI\n• Создание нетромбогенных и долговечных хирургических и транскатетерных протезов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-d-antithrombotic-therapy",
+      "cells": [
+        {
+          "text": {
+            "en": "Optimal antithrombotic therapy",
+            "ru": "Оптимальная антитромботическая терапия"
+          }
+        },
+        {
+          "text": {
+            "en": "• Alternatives to VKA anticoagulation for mechanical valves\n• Management of anticoagulation during pregnancy\n• Optimal antithrombotic therapy after TAVI",
+            "ru": "• Альтернативы терапии АВК (варфарином) для механических протезов\n• Ведение антикоагулянтной терапии во время беременности\n• Оптимальные режимы антитромботической терапии после TAVI"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-d-medical-therapy-after-avr",
+      "cells": [
+        {
+          "text": {
+            "en": "Medical therapy after AVR",
+            "ru": "Медикаментозная терапия после протезирования аортального клапана (AVR)"
+          }
+        },
+        {
+          "text": {
+            "en": "• Medical therapy to address ventricular and vascular function\n• Optimal blood pressure targets after valve intervention",
+            "ru": "• Медикаментозное лечение для оптимизации функции желудочков и сосудистого русла\n• Оптимальные целевые уровни артериального давления после вмешательств на клапанах"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-d-procedural-risk",
+      "cells": [
+        {
+          "text": {
+            "en": "Lower procedural risk",
+            "ru": "Снижение процедурного риска"
+          }
+        },
+        {
+          "text": {
+            "en": "• Approaches to lower surgical morbidity and mortality rates\n• Prevention of postoperative AF\n• Noninvasive approaches for correction of valve dysfunction",
+            "ru": "• Подходы к снижению хирургической заболеваемости и летальности\n• Профилактика послеоперационной фибрилляции предсердий\n• Неинвазивные методы коррекции дисфункции клапанов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-d-prevention-complications",
+      "cells": [
+        {
+          "text": {
+            "en": "Prevention of complications",
+            "ru": "Профилактика осложнений"
+          }
+        },
+        {
+          "text": {
+            "en": "• Approaches to avoid need for permanent pacing after SAVR or TAVI\n• Better prevention, diagnosis and treatment of endocarditis\n• Better prevention of thromboembolic events",
+            "ru": "• Подходы к предотвращению потребности в постоянной электрокардиостимуляции (ЭКС) после SAVR или TAVI\n• Улучшение профилактики, диагностики и лечения эндокардита\n• Повышение эффективности профилактики тромбоэмболических осложнений"
+          }
+        }
+      ]
+    },
+    {
+      "id": "row-stage-d-promoting-equity",
+      "cells": [
+        {
+          "text": {
+            "en": "Promoting equity",
+            "ru": "Обеспечение равного доступа к медицинской помощи"
+          }
+        },
+        {
+          "text": {
+            "en": "• Identify and address disparities in outcomes and survival across diverse patient populations\n• Develop novel, cost-effective approaches for long-term management in rural settings\n• Expand access to therapies for valvular dysfunction",
+            "ru": "• Выявление и устранение неравенства в исходах и выживаемости среди различных групп пациентов\n• Разработка новых экономически эффективных подходов к длительному наблюдению в отдаленных/сельских районах\n• Расширение доступности современных методов лечения клапанной дисфункции"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "AF indicates atrial fibrillation; AS, aortic stenosis; AVR, aortic valve replacement; LV, left ventricular; MR, mitral regurgitation; RCT, randomized controlled trial; SAVR, surgical aortic valve replacement; TAVI, transcatheter aortic valve implantation; VHD, valvular heart disease; and VKA, vitamin K antagonist.",
+      "ru": "AF/ФП — фибрилляция предсердий; AS/АС — аортальный стеноз; AVR/ПАК — протезирование аортального клапана; LV/ЛЖ — левый желудочек; MR/МР — митральная регургитация; RCT/РКИ — рандомизированное контролируемое исследование; SAVR — хирургическое протезирование аортального клапана; TAVI — транскатетерная имплантация аортального клапана; VHD — клапанные пороки сердца; VKA/АВК — антагонист витамина К."
+    }
+  },
+  "source": {
+    "expectedRows": 17
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt56-initial-management-women-with-vhd-before-during-pregnancy",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 56",
+  "title": {
+    "en": "Recommendations for Initial Management of Women With VHD Before and During Pregnancy",
+    "ru": "Рекомендации по начальному ведению женщин с клапанными пороками сердца до и во время беременности"
+  },
+  "tags": [
+    "vhd",
+    "pregnancy",
+    "pre-pregnancy",
+    "counseling",
+    "heart-valve-team",
+    "tte",
+    "exercise-testing"
+  ],
+  "sections": [
+    {
+      "id": "sec-initial-management-women-vhd-pregnancy",
+      "title": {
+        "en": "Initial Management of Women With VHD Before and During Pregnancy",
+        "ru": "Начальное ведение женщин с пороками сердца до и во время беременности"
+      },
+      "rows": [
+        {
+          "id": "r01-suspected-vhd-pre-pregnancy-evaluation-tte",
+          "text": {
+            "en": "Women with suspected valve disease who are considering pregnancy should undergo a clinical evaluation and TTE before pregnancy.",
+            "ru": "Женщинам с подозрением на клапанный порок сердца, планирующим беременность, до ее наступления следует пройти клиническое обследование и ТТ-ЭхоКГ."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "r02-severe-vhd-pre-pregnancy-counseling-cardiologist",
+          "text": {
+            "en": "Women with severe valve disease (Stages C and D) who are considering pregnancy should undergo pre-pregnancy counseling by a cardiologist with expertise in managing women with VHD during pregnancy.",
+            "ru": "Женщинам с тяжелыми клапанными пороками сердца (стадии C и D), планирующим беременность, следует пройти преконцепционное консультирование у кардиолога с опытом ведения женщин с пороками сердца во время беременности."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "id": "r03-severe-vhd-pregnancy-tertiary-center-heart-valve-team",
+          "text": {
+            "en": "Pregnant women with severe valve disease (Stages C and D) should be monitored in a tertiary-care center with a dedicated Heart Valve Team of cardiologists, surgeons, anesthesiologists, and maternal-fetal medicine obstetricians with expertise in the management of high-risk cardiac conditions during pregnancy.",
+            "ru": "Беременные женщины с тяжелыми пороками сердца (стадии C и D) должны наблюдаться в специализированном высокотехнологичном центре с привлечением специализированной клапанной команды (Heart Valve Team), включающей кардиологов, кардиохирургов, анестезиологов и акушеров-гинекологов по материнско-плодовой медицине с опытом ведения кардиальной патологии высокого риска."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "id": "r04-asymptomatic-severe-vhd-exercise-testing-before-pregnancy",
+          "text": {
+            "en": "In asymptomatic women with severe valve disease (Stage C1) who are considering pregnancy, exercise testing is reasonable before pregnancy for risk assessment.",
+            "ru": "У бессимптомных женщин с тяжелым пороком сердца (стадия C1), планирующих беременность, целесообразно проведение нагрузочного тестирования до беременности для стратификации риска."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [
+            3,
+            4,
+            5,
+            11,
+            13,
+            14,
+            15
+          ]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

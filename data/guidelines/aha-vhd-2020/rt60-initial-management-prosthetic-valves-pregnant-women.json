@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt60-initial-management-prosthetic-valves-pregnant-women",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 60",
+  "title": {
+    "en": "Recommendations for Initial Management of Prosthetic Heart Valves in Pregnant Women",
+    "ru": "Рекомендации по первичному ведению беременных женщин с протезированными клапанами сердца"
+  },
+  "tags": [
+    "vhd",
+    "pregnancy",
+    "prosthetic-valves",
+    "mechanical-valves",
+    "pre-pregnancy-assessment",
+    "tee",
+    "valve-obstruction"
+  ],
+  "sections": [
+    {
+      "id": "sec-initial-management-prosthetic-valves-pregnant",
+      "title": {
+        "en": "Initial Management of Prosthetic Heart Valves in Pregnant Women",
+        "ru": "Первичное ведение протезированных клапанов у беременных"
+      },
+      "rows": [
+        {
+          "id": "r01-prosthetic-valve-pre-pregnancy-assessment-echo",
+          "text": {
+            "en": "Women with a prosthetic valve should undergo pre-pregnancy assessment, including echocardiography, by a cardiologist with expertise in managing women with VHD during pregnancy.",
+            "ru": "Женщинам с клапанным протезом до наступления беременности следует пройти обследование, включая эхокардиографию, у кардиолога с опытом ведения женщин с пороками сердца во время беременности."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r02-mechanical-prosthesis-monitoring-tertiary-center-mdt",
+          "text": {
+            "en": "Pregnant women with a mechanical prosthesis should be monitored in a tertiary-care center with a dedicated MDT of cardiologists, surgeons, anesthesiologists, and maternal-fetal medicine obstetricians with expertise in the management of high-risk cardiac conditions during pregnancy.",
+            "ru": "Беременные женщины с механическим протезом клапана должны наблюдаться в высокотехнологичном центре третьего уровня со специализированной мультидисциплинарной командой кардиологов, кардиохирургов, анестезиологов и акушеров по материнско-плодовой медицине с опытом ведения беременности высокого сердечно-сосудистого риска."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": "r03-mechanical-valves-counseling-high-risk-pregnancy",
+          "text": {
+            "en": "Women with mechanical heart valves considering pregnancy should be counselled that pregnancy is high risk and that there is no anticoagulation strategy that is consistently safe for the mother and baby.",
+            "ru": "Женщины с механическими клапанами сердца, планирующие беременность, должны быть проконсультированы о том, что беременность сопряжена с высоким риском и что не существует стратегии антикоагуляции, полностью безопасной одновременно для матери и плода."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "id": "r04-mechanical-prosthetic-valve-obstruction-embolism-tee",
+          "text": {
+            "en": "Pregnant women with a mechanical prosthetic valve who have prosthetic valve obstruction or experience an embolic event should undergo a TEE.",
+            "ru": "Беременным женщинам с механическим протезом клапана при развитии обструкции протеза или тромбоэмболического события показано проведение чреспищеводной эхокардиографии (ЧП-ЭхоКГ/TEE)."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            7,
+            8,
+            9
+          ]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

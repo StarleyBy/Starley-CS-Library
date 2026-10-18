@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt58-pre-pregnancy-intervention-women-with-vhd",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 58",
+  "title": {
+    "en": "Recommendations for Pre-Pregnancy Intervention in Women With VHD",
+    "ru": "Рекомендации по вмешательствам до наступления беременности у женщин с клапанными пороками сердца"
+  },
+  "tags": [
+    "vhd",
+    "pregnancy",
+    "pre-pregnancy",
+    "intervention",
+    "pmbc",
+    "bioprosthetic-vs-mechanical",
+    "aortic-stenosis",
+    "mitral-stenosis",
+    "mitral-repair"
+  ],
+  "sections": [
+    {
+      "id": "sec-pre-pregnancy-intervention-women-vhd",
+      "title": {
+        "en": "Pre-Pregnancy Intervention in Women With VHD",
+        "ru": "Вмешательства до наступления беременности у женщин с клапанными пороками"
+      },
+      "rows": [
+        {
+          "id": "r01-symptomatic-severe-vhd-intervention-before-pregnancy",
+          "text": {
+            "en": "In symptomatic women with severe VHD who are considering pregnancy, intervention before pregnancy is recommended on the basis of standard indications.",
+            "ru": "У женщин с симптомами тяжелого клапанного порока сердца, планирующих беременность, рекомендуется выполнение вмешательства до наступления беременности на основании стандартных показаний."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
+        },
+        {
+          "id": "r02-valve-choice-shared-decision-making-mechanical-vs-bioprosthetic",
+          "text": {
+            "en": "In women who require a valve intervention before pregnancy, the choice of prosthetic valve should be based on a shared decision-making process that accounts for the patient's values and preferences, including discussion of the risks of mechanical valves during pregnancy and the reduced durability of bioprosthetic valves in young women.",
+            "ru": "У женщин, нуждающихся в протезировании клапана до наступления беременности, выбор типа протеза должен основываться на процессе совместного принятия решений с учетом ценностей и предпочтений пациентки, включая обсуждение рисков механических протезов при беременности и сниженной долговечности биологических протезов у молодых женщин."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r03-asymptomatic-severe-rheumatic-ms-pmbc-before-pregnancy",
+          "text": {
+            "en": "In asymptomatic women with severe rheumatic MS (mitral valve area ≤1.5 cm^2, Stage C1) who are considering pregnancy, PMBC at a Comprehensive Valve Center is reasonable before pregnancy for those who have favorable valve morphology.",
+            "ru": "У бессимптомных женщин с тяжелым ревматическим митральным стенозом (площадь отверстия митрального клапана ≤1,5 см², стадия C1), планирующих беременность, при благоприятной морфологии клапана целесообразно выполнение чрескожной митральной баллонной комиссуротомии (PMBC) в экспертном кардиохирургическом центре (Comprehensive Valve Center) до наступления беременности."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            12,
+            13
+          ]
+        },
+        {
+          "id": "r04-women-childbearing-age-bioprosthetic-preferred-over-mechanical",
+          "text": {
+            "en": "In women of childbearing age who require valve replacement, bioprosthetic valves are preferred over mechanical valves because of the increased maternal and fetal risks of mechanical heart valves in pregnancy.",
+            "ru": "У женщин детородного возраста, нуждающихся в протезировании клапана, биологические протезы предпочтительнее механических из-за повышенного риска материнских и перинатальных осложнений при наличии механических клапанов во время беременности."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [
+            14
+          ]
+        },
+        {
+          "id": "r05-asymptomatic-severe-as-intervention-before-pregnancy",
+          "text": {
+            "en": "In asymptomatic women with severe AS (aortic velocity ≥4.0 m/s or mean pressure gradient ≥40 mm Hg, Stage C) who are considering pregnancy, valve intervention before pregnancy is reasonable.",
+            "ru": "У бессимптомных женщин с тяжелым аортальным стенозом (скорость кровотока на аортальном клапане ≥4,0 м/с или средний градиент давления ≥40 мм рт. ст., стадия C), планирующих беременность, вмешательство на клапане до наступления беременности целесообразно."
+          },
+          "class": "IIa",
+          "level": "C-EO"
+        },
+        {
+          "id": "r06-asymptomatic-severe-as-medical-management-avoid-prosthesis",
+          "text": {
+            "en": "In asymptomatic women with severe AS (aortic velocity ≥4.0 m/s or mean pressure gradient ≥40 mm Hg, Stage C1) who are considering pregnancy, do not meet COR 1 criteria for intervention, and have a preconception evaluation confirming the absence of symptoms (including normal exercise stress testing and serum BNP measurements), medical management during pregnancy may be considered to avoid prosthetic valve replacement.",
+            "ru": "У бессимптомных женщин с тяжелым аортальным стенозом (скорость на аортальном клапане ≥4,0 м/с или средний градиент давления ≥40 мм рт. ст., стадия C1), планирующих беременность, не имеющих показаний класса 1 к вмешательству, при подтверждении отсутствия симптомов до зачатия (включая нормальные результаты нагрузочной пробы и нормальный уровень BNP в сыворотке), может быть рассмотрено консервативное ведение во время беременности во избежание имплантации клапанного протеза."
+          },
+          "class": "IIb",
+          "level": "C-EO"
+        },
+        {
+          "id": "r07-asymptomatic-severe-mr-valve-repair-before-pregnancy",
+          "text": {
+            "en": "In asymptomatic women with severe MR (Stage C1) and a valve suitable for repair who are considering pregnancy, valve repair before pregnancy at a Comprehensive Valve Center may be considered but only after detailed discussion with the patient about the risks and benefits of the surgery and its effect on future pregnancies.",
+            "ru": "У бессимптомных женщин с тяжелой митральной регургитацией (стадия C1) и анатомией клапана, пригодной для реконструкции, планирующих беременность, пластика митрального клапана в экспертном центре (Comprehensive Valve Center) до наступления беременности может быть рассмотрена, но только после подробного обсуждения с пациенткой рисков и преимуществ операции и ее влияния на течение будущих беременностей."
+          },
+          "class": "IIb",
+          "level": "C-EO"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt65-diagnosis-patients-vhd-undergoing-noncardiac-surgery",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 65",
+  "title": {
+    "en": "Recommendation for Diagnosis in Patients With VHD Undergoing Noncardiac Surgery",
+    "ru": "Рекомендация по диагностике у пациентов с клапанными пороками сердца перед внесердечными операциями"
+  },
+  "tags": [
+    "vhd",
+    "noncardiac-surgery",
+    "preoperative-evaluation",
+    "echocardiography",
+    "diagnosis"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnosis-vhd-noncardiac-surgery",
+      "title": {
+        "en": "Diagnosis in Patients With VHD Undergoing Noncardiac Surgery",
+        "ru": "Диагностика у пациентов с пороками сердца перед внесердечными операциями"
+      },
+      "rows": [
+        {
+          "id": "r01-preoperative-echocardiography-suspected-moderate-severe-vhd",
+          "text": {
+            "en": "In patients with clinically suspected moderate or greater degrees of valvular stenosis or regurgitation who are undergoing noncardiac surgery, preoperative echocardiography is recommended.",
+            "ru": "У пациентов с клиническим подозрением на умеренную или более выраженную степень клапанного стеноза или регургитации, которым предстоит внесердечная операция, рекомендуется предоперационное эхокардиографическое исследование."
+          },
+          "class": "I",
+          "level": "C-EO"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

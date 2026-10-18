@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt63-management-cad-patients-undergoing-tavi",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 63",
+  "title": {
+    "en": "Recommendations for Management of CAD in Patients Undergoing TAVI",
+    "ru": "Рекомендации по ведению ИБС у пациентов, которым выполняется TAVI"
+  },
+  "tags": [
+    "vhd",
+    "cad",
+    "tavi",
+    "tavr",
+    "pci",
+    "coronary-ct",
+    "syntax-score",
+    "savr-cabg"
+  ],
+  "sections": [
+    {
+      "id": "sec-management-cad-patients-undergoing-tavi",
+      "title": {
+        "en": "Management of CAD in Patients Undergoing TAVI",
+        "ru": "Ведение сопутствующей ИБС у пациентов перед TAVI"
+      },
+      "rows": [
+        {
+          "id": "r01-tavi-coronary-cta-or-invasive-angiogram",
+          "text": {
+            "en": "In patients undergoing TAVI, 1) contrast-enhanced coronary CT angiography (in patients with a low pretest probability for CAD) or 2) an invasive coronary angiogram is recommended to assess coronary anatomy and guide revascularization.",
+            "ru": "У пациентов, которым планируется TAVI, рекомендуется проведение: 1) КТ-коронарографии с контрастированием (при низкой предтестовой вероятности ИБС) либо 2) инвазивной коронарографии для детальной оценки анатомии коронарного русла и планирования реваскуляризации."
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r02-tavi-significant-left-main-proximal-cad-pci-before-tavi",
+          "text": {
+            "en": "In patients undergoing TAVI with significant left main or proximal CAD with or without angina, revascularization by PCI before TAVI is reasonable.",
+            "ru": "У пациентов перед проведением TAVI со значимым стенозом ствола ЛКА или проксимальных отделов коронарных артерий (со стенокардией или без нее) реваскуляризация миокарда методом ЧКВ (PCI) до процедуры TAVI целесообразна."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [
+            1,
+            2
+          ]
+        },
+        {
+          "id": "r03-as-complex-cad-syntax-gt-33-savr-cabg-preferred",
+          "text": {
+            "en": "In patients with significant AS and significant CAD (luminal reduction >70% diameter, fractional flow reserve <0.8, instantaneous wave-free ratio <0.89) consisting of complex bifurcation left main and/or multivessel CAD with a SYNTAX (Synergy Between Percutaneous Coronary Intervention With Taxus and Cardiac Surgery) score >33, SAVR and CABG are reasonable and preferred over TAVI and PCI.",
+            "ru": "У пациентов со значимым аортальным стенозом и гемодинамически значимой ИБС (стеноз >70% диаметра, FFR <0,8, iFR <0,89), включающей сложное бифуркационное поражение ствола ЛКА и/или многососудистое поражение с оценкой по шкале SYNTAX >33 баллов, проведение открытого протезирования аортального клапана и КШ (SAVR + CABG) целесообразно и предпочтительнее по сравнению с TAVI и ЧКВ."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [
+            3,
+            4
+          ]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

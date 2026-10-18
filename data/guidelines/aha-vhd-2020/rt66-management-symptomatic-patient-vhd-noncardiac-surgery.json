@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt66-management-symptomatic-patient-vhd-noncardiac-surgery",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 66",
+  "title": {
+    "en": "Recommendation for Management of the Symptomatic Patient With VHD Undergoing Noncardiac Surgery",
+    "ru": "Рекомендация по ведению пациентов с симптомами клапанных пороков сердца перед внесердечными операциями"
+  },
+  "tags": [
+    "vhd",
+    "noncardiac-surgery",
+    "symptomatic-vhd",
+    "intervention-before-noncardiac"
+  ],
+  "sections": [
+    {
+      "id": "sec-management-symptomatic-patient-vhd-noncardiac",
+      "title": {
+        "en": "Management of the Symptomatic Patient With VHD Undergoing Noncardiac Surgery",
+        "ru": "Ведение симптомных пациентов с пороками сердца перед внесердечными операциями"
+      },
+      "rows": [
+        {
+          "id": "r01-symptomatic-vhd-intervention-before-elective-noncardiac-surgery",
+          "text": {
+            "en": "In patients who meet standard indications for intervention for VHD (replacement and repair) on the basis of symptoms and disease severity, intervention should be performed before elective noncardiac surgery to reduce perioperative risk if possible, depending on the urgency and risk of the noncardiac procedure.",
+            "ru": "У пациентов, соответствующих стандартным показаниям к вмешательству на клапане сердца (протезирование или пластика) по тяжести симптомов и порока, вмешательство следует выполнить до плановой внесердечной операции для снижения периоперационного риска, если это возможно в зависимости от срочности и риска планируемого некардиального вмешательства."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [
+            1
+          ]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

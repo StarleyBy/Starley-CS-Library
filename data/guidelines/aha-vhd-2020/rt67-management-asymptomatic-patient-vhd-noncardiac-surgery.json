@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt67-management-asymptomatic-patient-vhd-noncardiac-surgery",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 67",
+  "title": {
+    "en": "Recommendations for Management of the Asymptomatic Patient With VHD Undergoing Noncardiac Surgery",
+    "ru": "Рекомендации по ведению бессимптомных пациентов с клапанными пороками сердца перед внесердечными операциями"
+  },
+  "tags": [
+    "vhd",
+    "noncardiac-surgery",
+    "asymptomatic-vhd",
+    "aortic-stenosis",
+    "mitral-stenosis",
+    "mitral-regurgitation",
+    "aortic-regurgitation"
+  ],
+  "sections": [
+    {
+      "id": "sec-management-asymptomatic-patient-vhd-noncardiac",
+      "title": {
+        "en": "Management of the Asymptomatic Patient With VHD Undergoing Noncardiac Surgery",
+        "ru": "Ведение бессимптомных пациентов с пороками сердца перед внесердечными операциями"
+      },
+      "rows": [
+        {
+          "id": "r01-asymptomatic-moderate-severe-as-elective-noncardiac-surgery",
+          "text": {
+            "en": "In asymptomatic patients with moderate or greater degrees of AS and normal LV systolic function, it is reasonable to perform elective noncardiac surgery.",
+            "ru": "У бессимптомных пациентов с умеренной или тяжелой степенью аортального стеноза и сохранной систолической функцией ЛЖ выполнение плановой внесердечной операции целесообразно."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "id": "r02-asymptomatic-moderate-severe-ms-elective-noncardiac-surgery",
+          "text": {
+            "en": "In asymptomatic patients with moderate or greater degrees of rheumatic MS with less than severe pulmonary hypertension (pulmonary artery systolic pressure <50 mm Hg), it is reasonable to perform elective noncardiac surgery.",
+            "ru": "У бессимптомных пациентов с умеренным или тяжелым ревматическим митральным стенозом без выраженной легочной гипертензии (систолическое давление в легочной артерии <50 мм рт. ст.) выполнение плановой внесердечной операции целесообразно."
+          },
+          "class": "IIa",
+          "level": "C-EO"
+        },
+        {
+          "id": "r03-asymptomatic-moderate-severe-mr-elective-noncardiac-surgery",
+          "text": {
+            "en": "In asymptomatic patients with moderate or greater degrees of MR and normal LV systolic function with less than severe pulmonary hypertension (pulmonary artery systolic pressure <50 mm Hg), it is reasonable to perform elective noncardiac surgery.",
+            "ru": "У бессимптомных пациентов с умеренной или тяжелой митральной регургитацией, нормальной систолической функцией ЛЖ и отсутствием выраженной легочной гипертензии (систолическое давление в легочной артерии <50 мм рт. ст.) выполнение плановой внесердечной операции целесообразно."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "id": "r04-asymptomatic-moderate-severe-ar-elective-noncardiac-surgery",
+          "text": {
+            "en": "In asymptomatic patients with moderate or greater degrees of AR and normal LV systolic function, it is reasonable to perform elective noncardiac surgery.",
+            "ru": "У бессимптомных пациентов с умеренной или тяжелой аортальной регургитацией и нормальной систолической функцией ЛЖ выполнение плановой внесердечной операции целесообразно."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [
+            8
+          ]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

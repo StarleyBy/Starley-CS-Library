@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt57-medical-therapy-pregnant-women-with-vhd",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 57",
+  "title": {
+    "en": "Recommendations for Medical Therapy of Pregnant Women With VHD",
+    "ru": "Рекомендации по медикаментозной терапии беременных женщин с клапанными пороками сердца"
+  },
+  "tags": [
+    "vhd",
+    "pregnancy",
+    "medical-therapy",
+    "beta-blockers",
+    "diuretics",
+    "acei-contraindicated",
+    "arb-contraindicated"
+  ],
+  "sections": [
+    {
+      "id": "sec-medical-therapy-pregnant-women-vhd",
+      "title": {
+        "en": "Medical Therapy of Pregnant Women With VHD",
+        "ru": "Медикаментозная терапия беременных с клапанными пороками сердца"
+      },
+      "rows": [
+        {
+          "id": "r01-pregnant-vhd-beta-blockers-heart-rate-arrhythmias",
+          "text": {
+            "en": "In pregnant women with VHD, beta-blocker medications are reasonable as required for heart rate control or treatment of arrhythmias.",
+            "ru": "У беременных женщин с клапанными пороками сердца прием бета-адреноблокаторов целесообразен при необходимости контроля частоты сердечных сокращений или лечения аритмий."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "id": "r02-pregnant-vhd-hf-symptoms-diuretics",
+          "text": {
+            "en": "In pregnant women with VHD and HF symptoms (Stage D), diuretic medications are reasonable if needed for volume overload.",
+            "ru": "У беременных женщин с клапанными пороками сердца и симптомами сердечной недостаточности (стадия D) целесообразно применение диуретиков при признаках объемной перегрузки."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [
+            7,
+            8
+          ]
+        },
+        {
+          "id": "r03-pregnant-vhd-ace-inhibitors-arbs-harm",
+          "text": {
+            "en": "In pregnant women with VHD, ACE inhibitors and ARBs should not be given because of fetal risk.",
+            "ru": "Беременным женщинам с клапанными пороками сердца ингибиторы АПФ и блокаторы рецепторов ангиотензина (БРА) назначать нельзя из-за фетотоксического риска для плода."
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [
+            6,
+            9,
+            10,
+            11
+          ]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-vhd-2020.rt59-intervention-during-pregnancy-women-with-vhd",
+  "guidelineId": "aha-vhd-2020",
+  "type": "recommendations",
+  "number": "Recommendation Table 59",
+  "title": {
+    "en": "Recommendations for Intervention During Pregnancy in Women With VHD",
+    "ru": "Рекомендации по выполнению вмешательств во время беременности у женщин с клапанными пороками сердца"
+  },
+  "tags": [
+    "vhd",
+    "pregnancy",
+    "intervention-during-pregnancy",
+    "aortic-stenosis",
+    "pmbc",
+    "valve-surgery-pregnancy",
+    "harm"
+  ],
+  "sections": [
+    {
+      "id": "sec-intervention-during-pregnancy-women-vhd",
+      "title": {
+        "en": "Intervention During Pregnancy in Women With VHD",
+        "ru": "Вмешательства во время беременности у женщин с клапанными пороками"
+      },
+      "rows": [
+        {
+          "id": "r01-pregnant-severe-as-hemodynamic-deterioration-hf-intervention",
+          "text": {
+            "en": "In pregnant women with severe AS (mean pressure gradient ≥40 mm Hg, Stage D), valve intervention during pregnancy is reasonable if there is hemodynamic deterioration or if there are NYHA class III or IV HF symptoms.",
+            "ru": "У беременных женщин с тяжелым аортальным стенозом (средний градиент давления ≥40 мм рт. ст., стадия D) вмешательство на клапане во время беременности целесообразно при ухудшении гемодинамики или появлении симптомов сердечной недостаточности III или IV функционального класса по NYHA."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "id": "r02-pregnant-severe-rheumatic-ms-symptomatic-pmbc",
+          "text": {
+            "en": "In pregnant women with severe rheumatic MS (mitral valve area ≤1.5 cm^2, Stage D) and with valve morphology favorable for PMBC who remain symptomatic with NYHA class III or IV HF symptoms despite medical therapy, PMBC is reasonable during pregnancy if it is performed at a Comprehensive Valve Center.",
+            "ru": "У беременных женщин с тяжелым ревматическим митральным стенозом (площадь митрального отверстия ≤1,5 см², стадия D) и морфологией клапана, благоприятной для PMBC, сохраняющих симптомы СН III или IV класса по NYHA, несмотря на медикаментозную терапию, выполнение PMBC целесообразно во время беременности, если вмешательство проводится в экспертном клапанном центре (Comprehensive Valve Center)."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [
+            8,
+            9,
+            10,
+            11,
+            12
+          ]
+        },
+        {
+          "id": "r03-pregnant-severe-regurgitation-nyha-iv-valve-surgery",
+          "text": {
+            "en": "In pregnant women with severe valve regurgitation and with NYHA class IV HF symptoms (Stage D) refractory to medical therapy, valve surgery is reasonable during pregnancy.",
+            "ru": "У беременных женщин с тяжелой клапанной регургитацией и симптомами СН IV функционального класса по NYHA (стадия D), рефрактерными к медикаментозной терапии, хирургическое вмешательство на клапане целесообразно во время беременности."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "id": "r04-pregnant-vhd-valve-surgeries-harm-without-severe-refractory-hf",
+          "text": {
+            "en": "In pregnant women with VHD, valve surgeries should not be performed in the absence of severe HF symptoms refractory to medical therapy.",
+            "ru": "У беременных женщин с клапанными пороками сердца операции на клапанах не должны проводиться при отсутствии тяжелых симптомов сердечной недостаточности, рефрактерных к медикаментозной терапии."
+          },
+          "class": "III-harm",
+          "level": "C-LD",
+          "refs": [
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}
