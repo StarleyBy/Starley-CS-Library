@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt24-immunizations",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 24",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Immunizations",
+    "ru": "Рекомендации по иммунизации (вакцинации)"
+  },
+  "tags": [
+    "ccd",
+    "immunizations",
+    "vaccination",
+    "influenza",
+    "covid-19",
+    "pneumococcal-vaccine",
+    "mortality-reduction",
+    "prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-immunizations",
+      "title": {
+        "en": "Immunizations",
+        "ru": "Иммунизация (вакцинация)"
+      },
+      "rows": [
+        {
+          "id": "r01-influenza-vaccination",
+          "text": {
+            "en": "In patients with CCD, an annual influenza vaccination is recommended to reduce cardiovascular morbidity, cardiovascular death, and all-cause death.",
+            "ru": "У пациентов с ХИБС (CCD) рекомендуется ежегодная вакцинация против гриппа для снижения сердечно-сосудистой заболеваемости, сердечно-сосудистой смертности и общей смертности."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-covid19-vaccination",
+          "text": {
+            "en": "In patients with CCD, coronavirus disease 2019 (COVID-19) vaccination is recommended per public health guidelines to reduce COVID-19 complications.",
+            "ru": "У пациентов с ХИБС (CCD) рекомендуется вакцинация против коронавирусной инфекции (COVID-19) в соответствии с действующими национальными клиническими рекомендациями для снижения частоты осложнений COVID-19."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [8, 9, 10]
+        },
+        {
+          "id": "r03-pneumococcal-vaccine",
+          "text": {
+            "en": "In patients with CCD, a pneumococcal vaccine is reasonable to reduce cardiovascular morbidity and mortality and all-cause death.",
+            "ru": "У пациентов с ХИБС (CCD) целесообразна пневмококковая вакцинация для снижения сердечно-сосудистой заболеваемости и смертности, а также общей смертности."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [11, 12, 13]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

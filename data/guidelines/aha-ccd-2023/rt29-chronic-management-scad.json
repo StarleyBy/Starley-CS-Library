@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt29-chronic-management-scad",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 29",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Chronic Management After SCAD",
+    "ru": "Рекомендации по длительному ведению пациентов после спонтанной диссекции коронарных артерий (SCAD)"
+  },
+  "tags": [
+    "ccd",
+    "scad",
+    "spontaneous-coronary-artery-dissection",
+    "vasculopathy",
+    "beta-blockers",
+    "recurrence-prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-chronic-management-scad",
+      "title": {
+        "en": "Chronic Management After SCAD",
+        "ru": "Длительное ведение после SCAD"
+      },
+      "rows": [
+        {
+          "id": "r01-scad-counseling-triggers-recurrence",
+          "text": {
+            "en": "In patients with CCD who have experienced SCAD, counseling should be provided regarding potential triggers and risk of SCAD recurrence.",
+            "ru": "У пациентов с ХИБС (CCD), перенесших спонтанную диссекцию коронарных артерий (СДКА/SCAD), следует проводить консультирование относительно потенциальных провоцирующих факторов и риска рецидива SCAD."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+        },
+        {
+          "id": "r02-scad-vasculopathies-evaluation",
+          "text": {
+            "en": "In patients with CCD who have experienced SCAD, evaluation for underlying vasculopathies is reasonable to identify abnormalities in other vascular beds.",
+            "ru": "У пациентов с ХИБС (CCD), перенесших SCAD (СДКА), целесообразно обследование на предмет сопутствующих васкулопатий для выявления патологических изменений в других сосудистых бассейнах."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 7, 10, 13, 14, 15]
+        },
+        {
+          "id": "r03-scad-beta-blocker-therapy",
+          "text": {
+            "en": "In patients with CCD who have experienced SCAD, beta-blocker therapy may be reasonable to reduce the incidence of recurrent SCAD.",
+            "ru": "У пациентов с ХИБС (CCD), перенесших SCAD (СДКА), назначение бета-адреноблокаторов может быть оправдано для снижения частоты рецидивов SCAD."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [1]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

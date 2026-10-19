@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt14-blood-pressure-management",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 14",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Blood Pressure Management",
+    "ru": "Рекомендации по контролю артериального давления"
+  },
+  "tags": [
+    "ccd",
+    "blood-pressure",
+    "hypertension",
+    "target-bp",
+    "ace-inhibitors",
+    "arbs",
+    "beta-blockers",
+    "lifestyle"
+  ],
+  "sections": [
+    {
+      "id": "sec-blood-pressure-management",
+      "title": {
+        "en": "Blood Pressure Management",
+        "ru": "Контроль артериального давления"
+      },
+      "rows": [
+        {
+          "id": "r01-nonpharmacologic-elevated-bp",
+          "text": {
+            "en": "In adults with CCD, nonpharmacologic strategies are recommended as first-line therapy to lower BP in those with elevated BP (120-129/<80 mm Hg) (see Table 12).^[a]",
+            "ru": "У взрослых с ХИБС (CCD) немедикаментозные стратегии рекомендуются в качестве терапии первой линии для снижения АД у пациентов с повышенным АД (120–129/<80 мм рт. ст.) (см. Таблицу 12).^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9]
+        },
+        {
+          "id": "r02-bp-target-hypertension",
+          "text": {
+            "en": "In adults with CCD who have hypertension, a BP target of <130/<80 mm Hg is recommended to reduce CVD events and all-cause death.^[a]",
+            "ru": "У взрослых с ХИБС (CCD) и артериальной гипертензией рекомендуется целевой уровень АД <130/<80 мм рт. ст. для снижения частоты сердечно-сосудистых событий и общей смертности.^[a]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [10, 11, 12, 13, 14]
+        },
+        {
+          "id": "r03-first-line-antihypertensive-gdmt",
+          "text": {
+            "en": "In adults with CCD and hypertension (systolic BP ≥130 and/or diastolic BP ≥80 mm Hg), in addition to nonpharmacological strategies, GDMT angiotensin-converting enzyme (ACE) inhibitors, angiotensin-receptor blockers (ARB), or beta blockers are recommended as first-line therapy for compelling indications (eg, recent MI or angina), with additional antihypertensive medications (eg, dihydropyridine calcium channel blockers [CCB], long-acting thiazide diuretics, and/or mineralocorticoid receptor antagonists) added as needed to optimize BP control.^[a]",
+            "ru": "У взрослых с ХИБС (CCD) и артериальной гипертензией (систолическое АД ≥130 и/или диастолическое АД ≥80 мм рт. ст.) в дополнение к немедикаментозным мерам ОМТ (GDMT) ингибиторы ангиотензинпревращающего фермента (иАПФ), блокаторы рецепторов ангиотензина (БРА) или бета-адреноблокаторы рекомендуются в качестве терапии первой линии при наличии убедительных показаний (например, недавний ИМ или стенокардия), с добавлением дополнительных антигипертензивных средств (например, дигидропиридиновых блокаторов кальциевых каналов [БКК], длительно действующих тиазидных диуретиков и/или антагонистов минералокортикоидных рецепторов) по мере необходимости для оптимизации контроля АД.^[a]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [13, 15, 16, 17, 18]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Modified from the 2017 ACC/AHA Multisociety Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults.19",
+      "ru": "Адаптировано из совместного руководства ACC/AHA по профилактике, выявлению, оценке и лечению высокого артериального давления у взрослых 2017 года.19"
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

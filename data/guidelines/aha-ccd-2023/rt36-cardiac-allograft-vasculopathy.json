@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt36-cardiac-allograft-vasculopathy",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 36",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Management of Cardiac Allograft Vasculopathy in Heart Transplant Recipients",
+    "ru": "Рекомендации по ведению васкулопатии сердечного трансплантата у реципиентов трансплантированного сердца"
+  },
+  "tags": [
+    "ccd",
+    "heart-transplantation",
+    "cardiac-allograft-vasculopathy",
+    "cav",
+    "statins",
+    "aspirin",
+    "revascularization",
+    "mace"
+  ],
+  "sections": [
+    {
+      "id": "sec-cardiac-allograft-vasculopathy",
+      "title": {
+        "en": "Management of Cardiac Allograft Vasculopathy in Heart Transplant Recipients",
+        "ru": "Ведение пациентов с васкулопатией сердечного трансплантата (CAV)"
+      },
+      "rows": [
+        {
+          "id": "r01-statins-cav",
+          "text": {
+            "en": "In patients with cardiac allograft vasculopathy, statins are recommended for secondary prevention to reduce MACE.",
+            "ru": "У пациентов с васкулопатией сердечного трансплантата (CAV) рекомендуется терапия статинами для вторичной профилактики с целью снижения риска неблагоприятных сердечно-сосудистых событий (MACE)."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1]
+        },
+        {
+          "id": "r02-aspirin-cav",
+          "text": {
+            "en": "In patients with cardiac allograft vasculopathy, aspirin can be beneficial for secondary prevention to reduce MACE.",
+            "ru": "У пациентов с васкулопатией сердечного трансплантата (CAV) терапия аспирином может быть полезна для вторичной профилактики с целью снижения риска MACE."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [2]
+        },
+        {
+          "id": "r03-revascularization-severe-cav",
+          "text": {
+            "en": "In patients with severe cardiac allograft vasculopathy, revascularization is reasonable in those with suitable anatomy to potentially mitigate the adverse long-term consequences of cardiac allograft vasculopathy.^[a]",
+            "ru": "У пациентов с тяжелой васкулопатией сердечного трансплантата (CAV) и подходящей анатомией реваскуляризация миокарда целесообразна для потенциального уменьшения неблагоприятных отдаленных последствий васкулопатии.^[a]"
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Modified from the 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization.7",
+      "ru": "Модифицировано на основе рекомендаций ACC/AHA/SCAI 2021 по реваскуляризации миокарда.7"
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

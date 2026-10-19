@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t07-screening-questions-psychological-health",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 7",
+  "type": "grid",
+  "title": {
+    "en": "Suggested Screening Questions to Assess Psychological Health",
+    "ru": "Рекомендуемые скрининговые вопросы для оценки психологического здоровья"
+  },
+  "tags": [
+    "ccd",
+    "psychological-health",
+    "well-being",
+    "optimism",
+    "positive-affect",
+    "gratitude",
+    "screening"
+  ],
+  "columns": [
+    {
+      "id": "parameter",
+      "title": {
+        "en": "Well-being parameter",
+        "ru": "Параметр благополучия"
+      }
+    },
+    {
+      "id": "question",
+      "title": {
+        "en": "Question",
+        "ru": "Скрининговый вопрос"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "health-related-optimism",
+      "cells": [
+        {
+          "text": {
+            "en": "Health-related optimism",
+            "ru": "Оптимизм в отношении здоровья"
+          }
+        },
+        {
+          "text": {
+            "en": "How do you think things will go with your health moving forward?",
+            "ru": "Как, по вашему мнению, будет складываться ситуация с вашим здоровьем в дальнейшем?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "positive-affect",
+      "cells": [
+        {
+          "text": {
+            "en": "Positive affect",
+            "ru": "Позитивный аффект (положительные эмоции)"
+          }
+        },
+        {
+          "text": {
+            "en": "How often do you experience pleasure or happiness in your life?",
+            "ru": "Как часто вы испытываете удовольствие или счастье в своей жизни?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gratitude",
+      "cells": [
+        {
+          "text": {
+            "en": "Gratitude",
+            "ru": "Чувство благодарности"
+          }
+        },
+        {
+          "text": {
+            "en": "Do you ever feel grateful about your health? Do you ever feel grateful about other things in your life?",
+            "ru": "Испытываете ли вы когда-либо благодарность за свое здоровье? Испытываете ли вы благодарность за другие стороны вашей жизни?"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Data derived from Levine GN et al.7,46 Reprinted with permission from Levine GN et al. Copyright 2021 American Heart Association, Inc.",
+      "ru": "Данные Levine GN et al.7,46 Воспроизведено с разрешения Levine GN et al. Авторское право 2021 American Heart Association, Inc."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

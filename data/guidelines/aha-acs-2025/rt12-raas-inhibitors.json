@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt12-raas-inhibitors",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 12",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Renin-Angiotensin-Aldosterone System Inhibitors",
+    "ru": "Рекомендации по ингибиторам ренин-ангиотензин-альдостероновой системы"
+  },
+  "tags": [
+    "acs",
+    "raas",
+    "acei",
+    "arb",
+    "mra",
+    "lvef",
+    "heart-failure",
+    "diabetes",
+    "hypertension",
+    "stemi",
+    "mace",
+    "mortality"
+  ],
+  "sections": [
+    {
+      "id": "sec-raas-inhibitors",
+      "title": {
+        "en": "Renin-Angiotensin-Aldosterone System Inhibitors in Patients With ACS",
+        "ru": "Ингибиторы ренин-ангиотензин-альдостероновой системы у пациентов с ОКС"
+      },
+      "rows": [
+        {
+          "id": "r01-high-risk-acs-oral-acei-arb",
+          "text": {
+            "en": "In high-risk patients with ACS (LVEF ≤40%, hypertension, diabetes mellitus, or STEMI with anterior location), an oral angiotensin-converting enzyme inhibitor (ACEi) or an angiotensin receptor blocker (ARB) is indicated to reduce all-cause death and MACE.",
+            "ru": "У пациентов высокого риска с ОКС (ФВЛЖ ≤40%, артериальная гипертензия, сахарный диабет или передний ИМпST) показан пероральный ингибитор АПФ (иАПФ/ACEi) или блокатор рецепторов ангиотензина (БРА/ARB) для снижения общей смертности и частоты MACE."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r02-lvef-40-hf-diabetes-mra",
+          "text": {
+            "en": "In patients with ACS and LVEF ≤40%, and with HF symptoms and/or diabetes mellitus, a mineralocorticoid receptor antagonist is indicated to reduce all-cause death and MACE.",
+            "ru": "У пациентов с ОКС и ФВЛЖ ≤40%, а также с симптомами сердечной недостаточности и/или сахарным диабетом показан антагонист минералокортикоидных рецепторов (АМКР/MRA) для снижения общей смертности и частоты MACE."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [7]
+        },
+        {
+          "id": "r03-non-high-risk-acs-oral-acei-arb",
+          "text": {
+            "en": "In patients with ACS who are not considered high risk, an oral ACEi or an ARB is reasonable to reduce MACE.",
+            "ru": "У пациентов с ОКС, не относящихся к группе высокого риска, назначение перорального иАПФ (ACEi) или БРА (ARB) оправдано для снижения частоты MACE."
+          },
+          "class": "IIa",
+          "level": "A",
+          "refs": [4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

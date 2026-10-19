@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt08-intravenous-glycoprotein-iib-iiia-inhibitors",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 8",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Intravenous Glycoprotein IIb/IIIa Inhibitors",
+    "ru": "Рекомендации по внутривенному применению ингибиторов гликопротеина IIb/IIIa"
+  },
+  "tags": [
+    "acs",
+    "gpiib-iiia",
+    "antiplatelet",
+    "pci",
+    "thrombus",
+    "no-reflow",
+    "slow-flow",
+    "bleeding"
+  ],
+  "sections": [
+    {
+      "id": "sec-glycoprotein-iib-iiia-inhibitors",
+      "title": {
+        "en": "Intravenous Glycoprotein IIb/IIIa Inhibitors in ACS",
+        "ru": "Внутривенные ингибиторы гликопротеина IIb/IIIa при ОКС"
+      },
+      "rows": [
+        {
+          "id": "r01-large-thrombus-no-reflow-slow-flow-gpiib-iiia",
+          "text": {
+            "en": "In patients with ACS undergoing PCI with large thrombus burden, no-reflow, or slow flow, adjunctive use of an intravenous or intracoronary glycoprotein IIb/IIIa inhibitor is reasonable to improve procedural success and reduce infarct size.^[a]",
+            "ru": "У пациентов с ОКС, подвергающихся ЧКВ (PCI), при массивном тромбозе, феномене no-reflow или замедленном кровотоке (slow flow) дополнительное внутривенное или интракоронарное введение ингибитора гликопротеина IIb/IIIa оправдано для повышения успеха процедуры и уменьшения размера инфаркта.^[a]"
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-no-routine-gpiib-iiia-administration",
+          "text": {
+            "en": "In patients with ACS, glycoprotein IIb/IIIa inhibitors should not be administered routinely due to lack of ischemic benefit and increased risk of bleeding.",
+            "ru": "У пациентов с ОКС рутинное применение ингибиторов гликопротеина IIb/IIIa не рекомендуется ввиду отсутствия ишемической пользы и повышенного риска кровотечений."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [3, 4, 5]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Adapted from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "*Адаптировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    }
+  },
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

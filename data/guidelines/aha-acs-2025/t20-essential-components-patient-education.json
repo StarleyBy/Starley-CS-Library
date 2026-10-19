@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t20-essential-components-patient-education",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 20",
+  "type": "grid",
+  "title": {
+    "en": "Essential Components of Patient Education",
+    "ru": "Основные компоненты обучения пациентов"
+  },
+  "tags": [
+    "acs",
+    "patient-education",
+    "discharge",
+    "lifestyle",
+    "medications",
+    "adherence",
+    "cardiac-rehabilitation",
+    "cr"
+  ],
+  "columns": [
+    {
+      "id": "component",
+      "title": {
+        "en": "Essential Components of Patient Education",
+        "ru": "Основные компоненты обучения пациентов"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-reason-for-hospitalization",
+      "cells": [
+        {
+          "text": {
+            "en": "Reason for hospitalization (explain reason for admission, diagnostic tests, procedural results)",
+            "ru": "Причина госпитализации (разъяснение причины поступления, результатов диагностических тестов и выполненных процедур)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-tailored-lifestyle-modifications",
+      "cells": [
+        {
+          "text": {
+            "en": "Tailored discussion of lifestyle modifications (AHA’s Life’s Essential 8)",
+            "ru": "Индивидуальное обсуждение изменения образа жизни (ключевые факторы сердечно-сосудистого здоровья AHA Life’s Essential 8)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-medications-instructions",
+      "cells": [
+        {
+          "text": {
+            "en": "Medications (written and verbal instructions including purpose, dose, frequency, potential adverse effects of each medication; refill instructions; changes to prehospital regimen; importance of adherence)",
+            "ru": "Лекарственная терапия (письменные и устные инструкции: назначение, доза, кратность приема, возможные побочные эффекты каждого препарата; правила продления рецептов; изменения догоспитальной схемы; важность приверженности лечению)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-symptom-management",
+      "cells": [
+        {
+          "text": {
+            "en": "Symptom management (what to monitor for and actions to take should symptoms recur, including whom to call)",
+            "ru": "Контроль симптомов (за чем следить и какие действия предпринимать при возобновлении симптомов, включая экстренные контакты для связи)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-returning-to-daily-routine",
+      "cells": [
+        {
+          "text": {
+            "en": "Returning to daily routine (when to resume physical activity, sexual activity, work, and travel)",
+            "ru": "Возвращение к повседневной активности (сроки возобновления физической активности, сексуальной жизни, трудовой деятельности и поездок/путешествий)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-psychosocial-considerations",
+      "cells": [
+        {
+          "text": {
+            "en": "Psychosocial considerations (open dialogue about symptoms of depression and anxiety)",
+            "ru": "Психосоциальные аспекты (открытый диалог о симптомах тревоги и депрессии)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-follow-up-care",
+      "cells": [
+        {
+          "text": {
+            "en": "Follow-up care (future appointments with cardiology, CR, additional testing postdischarge)",
+            "ru": "Последующее диспансерное наблюдение (плановые визиты к кардиологу, участие в программах кардиореабилитации [CR], дополнительные обследования после выписки)"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

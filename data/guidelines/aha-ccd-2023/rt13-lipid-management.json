@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt13-lipid-management",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 13",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Lipid Management",
+    "ru": "Рекомендации по контролю липидов (гиполипидемической терапии)"
+  },
+  "tags": [
+    "ccd",
+    "lipid-management",
+    "statins",
+    "ldl-c",
+    "ezetimibe",
+    "pcsk9",
+    "icosapent-ethyl",
+    "bempedoic-acid",
+    "inclisiran",
+    "cost-value"
+  ],
+  "sections": [
+    {
+      "id": "sec-lipid-management",
+      "title": {
+        "en": "Lipid Management",
+        "ru": "Гиполипидемическая терапия"
+      },
+      "rows": [
+        {
+          "id": "r01-high-intensity-statin",
+          "text": {
+            "en": "In patients with CCD, high-intensity statin therapy is recommended with the aim of achieving a ≥50% reduction in LDL-C levels to reduce the risk of MACE.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) рекомендуется высокоинтенсивная терапия статинами с целью достижения снижения уровня ХС ЛНП (LDL-C) на ≥50% для снижения риска MACE.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-moderate-intensity-statin-if-not-tolerated",
+          "text": {
+            "en": "In patients in whom high-intensity statin therapy is contraindicated or not tolerated, moderate-intensity statin therapy is recommended with the aim of achieving a 30% to 49% reduction in LDL-C levels to reduce the risk of MACE.^[a]",
+            "ru": "У пациентов, которым высокоинтенсивная терапия статинами противопоказана или плохо переносится, рекомендуется терапия статинами умеренной интенсивности с целью достижения снижения уровня ХС ЛНП (LDL-C) на 30–49% для снижения риска MACE.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [2, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r03-assess-adherence-fasting-lipids",
+          "text": {
+            "en": "In patients with CCD, adherence to changes in lifestyle and effects of lipid-lowering medication should be assessed by measurement of fasting lipids in 4 to 12 weeks after statin initiation or dose adjustment and then every 3 to 12 months thereafter based on need to assess response or adherence to therapy.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) приверженность к модификации образа жизни и эффекты липидснижающей терапии следует оценивать путем определения липидного профиля натощак через 4–12 недель после начала приема или коррекции дозы статина, а затем каждые 3–12 месяцев в зависимости от необходимости оценки ответа или приверженности.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [2, 9, 10, 11]
+        },
+        {
+          "id": "r04-generic-statins-cost-saving",
+          "text": {
+            "en": "In patients with CCD, the use of generic formulations of maximally tolerated statin therapy is projected to be cost saving.",
+            "ru": "У пациентов с ХИБС (CCD) использование дженерических форм максимально переносимой терапии статинами, по прогнозам, приводит к прямой экономии затрат здравоохранения (cost saving)."
+          },
+          "class": "Value-High",
+          "level": "B-NR",
+          "refs": [12, 13]
+        },
+        {
+          "id": "r05-ezetimibe-very-high-risk",
+          "text": {
+            "en": "In patients with CCD who are judged to be at very high risk (Table 10) and on maximally tolerated statin therapy with an LDL-C level ≥70 mg/dL (≥1.8 mmol/L), ezetimibe can be beneficial to further reduce the risk of MACE.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) категории очень высокого риска (Таблица 10) на максимально переносимой терапии статинами с уровнем ХС ЛНП ≥70 мг/дл (≥1,8 ммоль/л) добавление эзетимиба может быть полезно для дальнейшего снижения риска MACE.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [14, 15, 16, 17, 18, 19]
+        },
+        {
+          "id": "r06-generic-ezetimibe-high-value",
+          "text": {
+            "en": "In patients with CCD, addition of generic ezetimibe to maximally tolerated statin therapy in appropriately selected patients is projected to be of high economic value at US prices.",
+            "ru": "У пациентов с ХИБС (CCD) добавление дженерического эзетимиба к максимально переносимой терапии статинами у надлежащим образом отобранных пациентов обладает высокой экономической ценностью (High Value)."
+          },
+          "class": "Value-High",
+          "level": "B-NR",
+          "refs": [12, 20, 21]
+        },
+        {
+          "id": "r07-pcsk9-mab-very-high-risk",
+          "text": {
+            "en": "In patients with CCD who are judged to be at very high risk (Table 10) and who have an LDL-C level ≥70 mg/dL (≥1.8 mmol/L), or a non–high-density lipoprotein cholesterol (HDL-C) level ≥100 mg/dL (≥2.6 mmol/L), on maximally tolerated statin and ezetimibe, a PCSK9 monoclonal antibody can be beneficial to further reduce the risk of MACE.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) категории очень высокого риска (Таблица 10) с уровнем ХС ЛНП ≥70 мг/дл (≥1,8 ммоль/л) или ХС не-ЛВП ≥100 мг/дл (≥2,6 ммоль/л) на максимально переносимой терапии статином и эзетимибом добавление моноклональных антител к PCSK9 может быть полезно для дальнейшего снижения риска MACE.^[a]"
+          },
+          "class": "IIa",
+          "level": "A",
+          "refs": [22, 23, 24, 25, 26, 27, 28, 29]
+        },
+        {
+          "id": "r08-pcsk9-mab-uncertain-value",
+          "text": {
+            "en": "In patients with CCD who are very high risk, the use of PCSK9 monoclonal antibodies is projected to be of uncertain economic value at US prices.",
+            "ru": "У пациентов с ХИБС (CCD) очень высокого риска применение моноклональных антител к PCSK9, по расчетам, имеет неопределенную экономическую ценность (Uncertain Value) в ценах США."
+          },
+          "class": "Value-Uncertain",
+          "level": "B-NR",
+          "refs": [12, 20, 21, 30, 31]
+        },
+        {
+          "id": "r09-icosapent-ethyl-elevated-triglycerides",
+          "text": {
+            "en": "In patients with CCD on maximally tolerated statin therapy with an LDL-C level <100 mg/dL (<2.6 mmol/L) and a persistent fasting triglyceride level of 150 to 499 mg/dL (1.7–5.6 mmol/L) after addressing secondary causes, icosapent ethyl may be considered to further reduce the risk of MACE and cardiovascular death.",
+            "ru": "У пациентов с ХИБС (CCD) на максимально переносимой терапии статинами с уровнем ХС ЛНП <100 мг/дл (<2,6 ммоль/л) и стойкой триглицеридемией натощак от 150 до 499 мг/дл (1,7–5,6 ммоль/л) после устранения вторичных причин может быть рассмотрено назначение икосапент-этила для дальнейшего снижения риска MACE и сердечно-сосудистой смерти."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [32]
+        },
+        {
+          "id": "r10-ezetimibe-not-very-high-risk",
+          "text": {
+            "en": "In patients with CCD who are not at very high risk and on maximally tolerated statin therapy with an LDL-C level ≥70 mg/dL (≥1.8 mmol/L), it may be reasonable to add ezetimibe to further reduce the risk of MACE.^[a]",
+            "ru": "У пациентов с ХИБС (CCD), не относящихся к категории очень высокого риска, получающих максимально переносимую терапию статинами с уровнем ХС ЛНП ≥70 мг/дл (≥1,8 ммоль/л), целесообразно рассмотреть добавление эзетимиба для дальнейшего снижения риска MACE.^[a]"
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [14, 15, 18, 19]
+        },
+        {
+          "id": "r11-bempedoic-acid-inclisiran",
+          "text": {
+            "en": "In patients with CCD on maximally tolerated statin therapy who have an LDL-C level ≥70 mg/dL (≥1.8 mmol/L), and in whom ezetimibe and PCSK9 monoclonal antibody are deemed insufficient or not tolerated, it may be reasonable to add bempedoic acid or inclisiran (in place of PCSK9 monoclonal antibody) to further reduce LDL-C levels.",
+            "ru": "У пациентов с ХИБС (CCD) на максимально переносимой терапии статинами с уровнем ХС ЛНП ≥70 мг/дл (≥1,8 ммоль/л), у которых эзетимиб и моноклональные антитела к PCSK9 признаны недостаточными или плохо переносятся, целесообразно рассмотреть добавление бемпедоевой кислоты или инклисирана (вместо антител к PCSK9) для дальнейшего снижения уровня ХС ЛНП."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [33, 34, 35]
+        },
+        {
+          "id": "r12-no-benefit-niacin-fenofibrate-omega3",
+          "text": {
+            "en": "In patients with CCD receiving statin therapy, adding niacin, or fenofibrate or dietary supplements containing omega-3 fatty acids, are not beneficial in reducing cardiovascular risk.",
+            "ru": "У пациентов с ХИБС (CCD), получающих терапию статинами, добавление ниацина, фенофибрата или биологически активных добавок, содержащих омега-3 жирные кислоты, не приносит пользы в отношении снижения сердечно-сосудистого риска."
+          },
+          "class": "III-no-benefit",
+          "level": "B-R",
+          "refs": [36, 37, 38, 39, 40, 41]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the 2018 AHA/ACC/Multisociety Guideline on the Management of Blood Cholesterol.42",
+      "ru": "*Модифицировано из Руководства AHA/ACC 2018 по контролю уровня холестерина в крови.42"
+    }
+  },
+  "source": {
+    "expectedRows": 12
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

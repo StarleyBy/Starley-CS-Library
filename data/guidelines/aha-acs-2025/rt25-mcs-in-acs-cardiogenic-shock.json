@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt25-mcs-in-acs-cardiogenic-shock",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 25",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for MCS in Patients With ACS and Cardiogenic Shock",
+    "ru": "Рекомендации по механической поддержке кровообращения у пациентов с ОКС и кардиогенным шоком"
+  },
+  "tags": [
+    "acs",
+    "stemi",
+    "cardiogenic-shock",
+    "mcs",
+    "microaxial-flow-pump",
+    "iabp",
+    "ecmo",
+    "va-ecmo",
+    "mechanical-complications"
+  ],
+  "sections": [
+    {
+      "id": "sec-mcs-acs-cardiogenic-shock",
+      "title": {
+        "en": "MCS in Patients With ACS and Cardiogenic Shock",
+        "ru": "Механическая поддержка кровообращения у пациентов с ОКС и кардиогенным шоком"
+      },
+      "rows": [
+        {
+          "id": "r01-stemi-severe-shock-microaxial-pump",
+          "text": {
+            "en": "In selected^[a] patients with STEMI and severe or refractory cardiogenic shock, insertion of a microaxial intravascular flow pump is reasonable to reduce death.",
+            "ru": "У отобранных^[a] пациентов с ИМпST (STEMI) и тяжелым или рефрактерным кардиогенным шоком установка микроаксиального внутрисосудистого насоса оправдана для снижения смертности."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1]
+        },
+        {
+          "id": "r02-mechanical-complication-short-term-mcs-bridge",
+          "text": {
+            "en": "In patients with mechanical complication of ACS, short-term MCS devices are reasonable for hemodynamic stabilization as a bridge to surgery.",
+            "ru": "У пациентов с механическими осложнениями ОКС применение устройств кратковременной МПК (MCS) оправдано для гемодинамической стабилизации в качестве «моста» к хирургическому вмешательству."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [2, 3, 4]
+        },
+        {
+          "id": "r03-ami-shock-routine-iabp-va-ecmo-not-recommended",
+          "text": {
+            "en": "In patients with AMI and cardiogenic shock, the routine use of intra-aortic balloon pump (IABP) or venoarterial extracorporeal membrane oxygenation (VA-ECMO) is not recommended due to a lack of survival benefit.",
+            "ru": "У пациентов с острым ИМ (AMI) и кардиогенным шоком рутинное применение внутриаортальной баллонной контрпульсации (ВАБК/IABP) или вено-артериальной экстракорпоральной мембранной оксигенации (ВА-ЭКМО/VA-ECMO) не рекомендуется ввиду отсутствия преимуществ в выживаемости."
+          },
+          "class": "III-no-benefit",
+          "level": "B-R",
+          "refs": [5, 6, 7, 8, 9]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*See supportive text.",
+      "ru": "*См. пояснительный текст в руководстве."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

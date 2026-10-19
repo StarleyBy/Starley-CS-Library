@@ -1,0 +1,264 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t10-very-high-risk-future-ascvd-events",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 10",
+  "type": "grid",
+  "title": {
+    "en": "Very High-Risk of Future ASCVD Events",
+    "ru": "Критерии очень высокого риска будущих сердечно-сосудистых событий (ASCVD)"
+  },
+  "tags": [
+    "ccd",
+    "ascvd",
+    "very-high-risk",
+    "risk-stratification",
+    "acs",
+    "stroke",
+    "pad",
+    "ckd",
+    "diabetes",
+    "hypertension"
+  ],
+  "columns": [
+    {
+      "id": "criterion",
+      "title": {
+        "en": "Criteria & Clinical Features",
+        "ru": "Критерии и клинические признаки"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-definition",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Definition of Very High-Risk**^[a]",
+            "ru": "**Определение категории очень высокого риска**^[a]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "def-multiple-events",
+      "cells": [
+        {
+          "text": {
+            "en": "History of multiple major ASCVD events",
+            "ru": "Анамнез множественных больших событий АССЗ (ASCVD)"
+          },
+          "tone": "red"
+        }
+      ]
+    },
+    {
+      "id": "def-or",
+      "cells": [
+        {
+          "text": {
+            "en": "**OR**",
+            "ru": "**ИЛИ**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "def-one-event-conditions",
+      "cells": [
+        {
+          "text": {
+            "en": "One major ASCVD event **AND** ≥2 high-risk conditions",
+            "ru": "Одно большое событие АССЗ (ASCVD) **И** ≥2 состояний высокого риска"
+          },
+          "tone": "red"
+        }
+      ]
+    },
+    {
+      "id": "sec-major-events",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Major ASCVD Events**",
+            "ru": "**Большие события АССЗ (Major ASCVD Events)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "major-recent-acs",
+      "cells": [
+        {
+          "text": {
+            "en": "Recent ACS (within the past 12 mo)",
+            "ru": "Недавно перенесенный ОКС (в предшествующие 12 месяцев)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "major-history-mi",
+      "cells": [
+        {
+          "text": {
+            "en": "History of MI (other than recent ACS events listed above)",
+            "ru": "Инфаркт миокарда (ИМ) в анамнезе (помимо недавнего ОКС)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "major-history-stroke",
+      "cells": [
+        {
+          "text": {
+            "en": "History of ischemic stroke",
+            "ru": "Ишемический инсульт в анамнезе"
+          }
+        }
+      ]
+    },
+    {
+      "id": "major-symptomatic-pad",
+      "cells": [
+        {
+          "text": {
+            "en": "Symptomatic peripheral artery disease (history of claudication with ABI <0.85, or previous revascularization or amputation)51",
+            "ru": "Симптомное заболевание периферических артерий (перемежающаяся хромота с ЛПИ <0,85, либо перенесенная реваскуляризация или ампутация)51"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-high-risk-conditions",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**High-Risk Conditions**",
+            "ru": "**Сопутствующие состояния высокого риска**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cond-age-65",
+      "cells": [
+        {
+          "text": {
+            "en": "Age ≥65 y",
+            "ru": "Возраст ≥65 лет"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cond-fh",
+      "cells": [
+        {
+          "text": {
+            "en": "Familial hypercholesterolemia^[b]",
+            "ru": "Семейная гиперхолестеринемия^[b]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cond-cabg-pci",
+      "cells": [
+        {
+          "text": {
+            "en": "History of previous coronary artery bypass graft surgery or percutaneous coronary intervention outside of the major ASCVD event(s)",
+            "ru": "Перенесенное коронарное шунтирование (КШ/CABG) или ЧКВ (PCI) вне рамок основных индексных событий АССЗ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cond-diabetes",
+      "cells": [
+        {
+          "text": {
+            "en": "Diabetes",
+            "ru": "Сахарный диабет"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cond-hypertension",
+      "cells": [
+        {
+          "text": {
+            "en": "Hypertension",
+            "ru": "Артериальная гипертензия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cond-ckd",
+      "cells": [
+        {
+          "text": {
+            "en": "Chronic kidney disease (eGFR, 15–59 mL/min/1.73 m2)15,29",
+            "ru": "Хроническая болезнь почек (рСКФ 15–59 мл/мин/1,73 м²)15,29"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cond-smoking",
+      "cells": [
+        {
+          "text": {
+            "en": "Current tobacco smoking",
+            "ru": "Курение табака в настоящее время"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cond-elevated-ldl",
+      "cells": [
+        {
+          "text": {
+            "en": "Persistently elevated LDL-C ≥100 mg/dL (≥2.6 mmol/L) despite maximally tolerated statin therapy and ezetimibe",
+            "ru": "Стойко повышенный уровень ХС ЛНП ≥100 мг/дл (≥2,6 ммоль/л), несмотря на максимально переносимую терапию статином и эзетимибом"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cond-hf",
+      "cells": [
+        {
+          "text": {
+            "en": "History of congestive heart failure",
+            "ru": "Хроническая застойная сердечная недостаточность (СН/HF) в анамнезе"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Very high-risk includes a history of multiple major ASCVD events or 1 major ASCVD event and multiple high-risk conditions.",
+      "ru": "*Очень высокий риск включает наличие в анамнезе нескольких больших событий АССЗ (ASCVD) либо 1 большого события АССЗ в сочетании с несколькими состояниями высокого риска."
+    },
+    "b": {
+      "en": "†Management of patients with familial hypercholesterolemia often requires combination lipid lowering therapy and referral to a lipid specialist, and possibly lipoprotein apheresis.58,59",
+      "ru": "†Ведение пациентов с семейной гиперхолестеринемией часто требует комбинированной липидснижающей терапии, консультации липидолога и, возможно, проведения афереза липопротеинов.58,59"
+    }
+  },
+  "source": {
+    "expectedRows": 19
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

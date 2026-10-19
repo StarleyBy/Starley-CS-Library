@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt01-diagnostic-evaluation",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 1",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Diagnostic Evaluation",
+    "ru": "Рекомендации по диагностической оценке"
+  },
+  "tags": [
+    "ccd",
+    "diagnostic-evaluation",
+    "stress-imaging",
+    "pet",
+    "spect",
+    "cmr",
+    "stress-echo",
+    "ica",
+    "treadmill",
+    "mbfr",
+    "ccta"
+  ],
+  "sections": [
+    {
+      "id": "sec-diagnostic-evaluation",
+      "title": {
+        "en": "Diagnostic Evaluation",
+        "ru": "Диагностическая оценка"
+      },
+      "rows": [
+        {
+          "id": "r01-stress-imaging-ischemia-detection",
+          "text": {
+            "en": "In patients with CCD and a change in symptoms or functional capacity that persists despite GDMT, stress positron emission tomography/single photon emission CT myocardial perfusion imaging (PET/SPECT MPI), cardiovascular magnetic resonance (CMR) imaging, or stress echocardiography is recommended to detect the presence and extent of myocardial ischemia, estimate risk of major adverse cardiovascular events (MACE), and guide therapeutic decision-making.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) при изменении симптомов или функциональной способности, сохраняющемся несмотря на ОМТ (GDMT), рекомендуется проведение стресс-ПЭТ/ОФЭКТ перфузионной сцинтиграфии миокарда (PET/SPECT MPI), стресс-МРТ сердца (CMR) или стресс-эхокардиографии для выявления наличия и распространенности ишемии миокарда, оценки риска развития MACE и выбора лечебной тактики.^[a]"
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
+        },
+        {
+          "id": "r02-ica-persistent-symptoms",
+          "text": {
+            "en": "In patients with CCD and a change in symptoms or functional capacity that persists despite GDMT, invasive coronary angiography (ICA) is recommended for guiding therapeutic decision-making with the goal of improving anginal symptoms.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) при изменении симптомов или функциональной способности, сохраняющемся несмотря на ОМТ (GDMT), рекомендуется проведение инвазивной коронарографии (КАГ/ICA) для принятия терапевтических решений с целью уменьшения симптомов стенокардии.^[a]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [24, 25, 26, 27, 28]
+        },
+        {
+          "id": "r03-pet-preference-over-spect",
+          "text": {
+            "en": "In patients with CCD and a change in symptoms or functional capacity that persists despite GDMT, when selected for rest/stress nuclear MPI, PET is reasonable in preference to SPECT, if available, to improve diagnostic accuracy and decrease the rate of nondiagnostic test results.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) при изменении симптомов или функциональной способности, сохраняющемся несмотря на ОМТ (GDMT), при выборе радионуклидной перфузионной визуализации покоя/стресса целесообразно отдавать предпочтение ПЭТ (PET) перед ОФЭКТ (SPECT) (при наличии возможности) для повышения диагностической точности и снижения доли недиагностических результатов.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [29]
+        },
+        {
+          "id": "r04-exercise-treadmill-testing",
+          "text": {
+            "en": "In patients with CCD and a change in symptoms or functional capacity that persists despite GDMT, exercise treadmill testing can be useful to determine whether the symptoms are consistent with angina pectoris, assess the severity of symptoms, evaluate functional capacity, and guide management.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) при изменении симптомов или функциональной способности, сохраняющемся несмотря на ОМТ (GDMT), тредмил-тест с физической нагрузкой может быть полезен для подтверждения связи симптомов со стенокардией, оценки тяжести симптомов, определения функциональной способности и выбора тактики ведения.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [26, 30, 31, 32]
+        },
+        {
+          "id": "r05-mbfr-addition-pet-cmr",
+          "text": {
+            "en": "In patients with CCD undergoing stress PET MPI or stress CMR imaging, the addition of myocardial blood flow reserve (MBFR) can be useful to improve diagnostic accuracy and enhance risk stratification.^[a]",
+            "ru": "У пациентов с ХИБС (CCD), проходящих стресс-ПЭТ MPI или стресс-МРТ сердца, дополнительная оценка резерва миокардиального кровотока (MBFR) может быть полезна для повышения диагностической точности и улучшения стратификации риска.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [19, 20, 21, 22, 23]
+        },
+        {
+          "id": "r06-ccta-prior-revascularization",
+          "text": {
+            "en": "In patients with CCD and a change in symptoms or functional capacity that persists despite GDMT, and who have had previous coronary revascularization, coronary CT angiography (CCTA) is reasonable to evaluate bypass graft or stent patency (for stents ≥3 mm).^[a]",
+            "ru": "У пациентов с ХИБС (CCD) при изменении симптомов или функциональной способности, сохраняющемся несмотря на ОМТ (GDMT), ранее перенесших реваскуляризацию миокарда, выполнение КТ-коронарографии (CCTA) целесообразно для оценки проходимости шунтов или стентов (при диаметре стента ≥3 мм).^[a]"
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [33, 34, 35, 36, 37]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the 2021 AHA/ACC/Multisociety Guideline for the Evaluation and Diagnosis of Chest Pain.",
+      "ru": "*Модифицировано из Руководства AHA/ACC 2021 по оценке и диагностике боли в грудной клетке."
+    }
+  },
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

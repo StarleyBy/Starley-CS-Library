@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t06-analgesic-treatment-cardiac-chest-pain",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Analgesic Treatment Options for Cardiac Chest Pain",
+    "ru": "Варианты анальгетической терапии при кардиальной боли в грудной клетке"
+  },
+  "tags": [
+    "acs",
+    "analgesia",
+    "chest-pain",
+    "nitroglycerin",
+    "morphine",
+    "fentanyl",
+    "opioids",
+    "nitrates"
+  ],
+  "columns": [
+    {
+      "id": "medication",
+      "title": {
+        "en": "Medication",
+        "ru": "Препарат"
+      }
+    },
+    {
+      "id": "route",
+      "title": {
+        "en": "Route",
+        "ru": "Путь введения"
+      }
+    },
+    {
+      "id": "dosing",
+      "title": {
+        "en": "Suggested Dosing",
+        "ru": "Рекомендуемый режим дозирования"
+      }
+    },
+    {
+      "id": "considerations",
+      "title": {
+        "en": "Considerations",
+        "ru": "Особые указания и меры предосторожности"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-nitroglycerin-sl",
+      "cells": [
+        {
+          "text": {
+            "en": "Nitroglycerin^[a]",
+            "ru": "Нитроглицерин^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "SL (tablets, spray)",
+            "ru": "Сублингвально (таблетки, спрей)"
+          }
+        },
+        {
+          "text": {
+            "en": "0.3 or 0.4 mg every 5 min as needed up to a total of 3 doses",
+            "ru": "0,3 или 0,4 мг каждые 5 мин по потребности, максимум до 3 доз"
+          }
+        },
+        {
+          "text": {
+            "en": "Use in hemodynamically stable patients with SBP ≥90 mm Hg.",
+            "ru": "Применять у гемодинамически стабильных пациентов с САД ≥90 мм рт. ст."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-nitroglycerin-iv",
+      "cells": [
+        {
+          "text": {
+            "en": "Nitroglycerin^[a]",
+            "ru": "Нитроглицерин^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "IV",
+            "ru": "Внутривенно"
+          }
+        },
+        {
+          "text": {
+            "en": "Start at 10 µg/min and titrate to pain relief and hemodynamic tolerability.",
+            "ru": "Начальная скорость 10 мкг/мин с последующей титрацией до купирования боли и с учетом гемодинамической переносимости."
+          }
+        },
+        {
+          "text": {
+            "en": "Consider for persistent anginal pain after oral nitrate therapy, or if ACS is accompanied by hypertension or pulmonary edema. Avoid use in suspected RV infarction, SBP <90 mm Hg or a change in SBP >30 mm Hg below baseline. Tachyphylaxis may occur after approximately 24 h.",
+            "ru": "Рассмотреть при сохраняющейся ангинозной боли после сублингвального/перорального приема нитратов, либо если ОКС сопровождается артериальной гипертензией или отеком легких. Избегать применения при подозрении на инфаркт правого желудочка (ПЖ/RV), САД <90 мм рт. ст. или снижении САД более чем на 30 мм рт. ст. от исходного. Примерно через 24 ч может развиваться тахифилаксия."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-morphine-iv",
+      "cells": [
+        {
+          "text": {
+            "en": "Morphine",
+            "ru": "Морфин"
+          }
+        },
+        {
+          "text": {
+            "en": "IV",
+            "ru": "Внутривенно"
+          }
+        },
+        {
+          "text": {
+            "en": "2-4 mg; may repeat if needed every 5-15 min. Doses up to 10 mg may be considered.",
+            "ru": "2–4 мг; при необходимости повторить каждые 5–15 мин. Могут рассматриваться суммарные дозы до 10 мг."
+          }
+        },
+        {
+          "text": {
+            "en": "Use for relief of pain that is resistant to other maximally tolerated anti-ischemic medications. May delay the effects of oral P2Y12 therapy. Monitor closely for adverse effects.",
+            "ru": "Применять для купирования боли, рефрактерной к другим максимально переносимым антиишемическим препаратам. Может замедлять всасывание и эффект пероральных ингибиторов P2Y12. Тщательно мониторировать нежелательные реакции."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-fentanyl-iv",
+      "cells": [
+        {
+          "text": {
+            "en": "Fentanyl",
+            "ru": "Фентанил"
+          }
+        },
+        {
+          "text": {
+            "en": "IV",
+            "ru": "Внутривенно"
+          }
+        },
+        {
+          "text": {
+            "en": "25-50 µg; may repeat if needed. Doses up to 100 µg may be considered.",
+            "ru": "25–50 мкг; при необходимости повторить. Могут рассматриваться дозы до 100 мкг."
+          }
+        },
+        {
+          "text": {
+            "en": "Use for relief of pain that is resistant to other maximally tolerated anti-ischemic medications. May delay the effects of oral P2Y12 therapy. Monitor closely for adverse effects.",
+            "ru": "Применять для купирования боли, рефрактерной к другим максимально переносимым антиишемическим препаратам. Может замедлять эффект пероральных ингибиторов P2Y12. Тщательно мониторировать нежелательные реакции."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Nitrates should not be administered after recent PDE5 inhibitor use. Avoid use of nitrates/nitroglycerin within 12 h of avanafil, 24 h of sildenafil/vardenafil, or 48 h of tadalafil.",
+      "ru": "*Нитраты не следует применять после недавнего приема ингибиторов ФДЭ-5 (PDE5). Избегать применения нитратов/нитроглицерина в течение 12 ч после аванафила, 24 ч после силденафила/варденафила или 48 ч после тадалафила."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

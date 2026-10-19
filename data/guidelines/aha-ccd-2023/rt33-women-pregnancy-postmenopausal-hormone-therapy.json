@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt33-women-pregnancy-postmenopausal-hormone-therapy",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 33",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Women, Including Pregnancy and Postmenopausal Hormone Therapy",
+    "ru": "Рекомендации для женщин, включая беременность и заместительную гормональную терапию в постменопаузе"
+  },
+  "tags": [
+    "ccd",
+    "women",
+    "pregnancy",
+    "postmenopausal-hormone-therapy",
+    "cardio-obstetrics",
+    "statins",
+    "raas-contraindications",
+    "mace"
+  ],
+  "sections": [
+    {
+      "id": "sec-pregnancy",
+      "title": {
+        "en": "Pregnancy",
+        "ru": "Беременность"
+      },
+      "rows": [
+        {
+          "id": "r01-risk-stratification-counseling-pregnancy",
+          "text": {
+            "en": "Women with CCD who are contemplating pregnancy or who are pregnant should be risk-stratified and counseled regarding risks of adverse maternal, obstetric, and fetal outcomes.",
+            "ru": "Женщинам с ХКИ (CCD), планирующим беременность или уже беременным, показана стратификация риска и консультирование относительно рисков неблагоприятных материнских, акушерских и перинатальных исходов."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-multidisciplinary-cardio-obstetric-team",
+          "text": {
+            "en": "Women with CCD who are contemplating pregnancy or who are pregnant should receive care from a multidisciplinary cardio-obstetric care team beginning before conception and continuing throughout pregnancy, delivery, and postpartum to improve maternal and fetal outcomes.",
+            "ru": "Женщинам с ХКИ (CCD), планирующим беременность или уже беременным, рекомендуется ведение мультидисциплинарной кардиоакушерской бригадой специалистов, начиная с периода до зачатия и на протяжении всей беременности, родов и послеродового периода для улучшения исходов у матери и плода."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 5]
+        },
+        {
+          "id": "r03-continuation-statin-pregnancy",
+          "text": {
+            "en": "In women with CCD, continuation of statin use during pregnancy may be considered.",
+            "ru": "У женщин с ХКИ (CCD) во время беременности может быть рассмотрено продолжение терапии статинами."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [6]
+        },
+        {
+          "id": "r04-harm-raas-blockers-pregnancy",
+          "text": {
+            "en": "Women with CCD who are contemplating pregnancy or who are pregnant should not use ACE inhibitors, ARBs, direct renin inhibitors, angiotensin receptor-neprilysin inhibitors, or aldosterone antagonists during pregnancy to prevent harm to the fetus.",
+            "ru": "Женщинам с ХКИ (CCD), планирующим беременность или уже беременным, не следует применять ингибиторы АПФ, БРА, прямые ингибиторы ренина, ингибиторы рецепторов ангиотензина и неприлизина (АРНИ) или антагонисты альдостерона во время беременности во избежание тератогенного повреждения плода."
+          },
+          "class": "III-harm",
+          "level": "C-LD",
+          "refs": [2, 7, 8]
+        }
+      ]
+    },
+    {
+      "id": "sec-postmenopausal-hormone-therapy",
+      "title": {
+        "en": "Postmenopausal Hormone Therapy",
+        "ru": "Гормональная терапия в постменопаузе"
+      },
+      "rows": [
+        {
+          "id": "r05-harm-systemic-hrt-postmenopausal",
+          "text": {
+            "en": "Women with CCD should not receive systemic postmenopausal hormone therapy because of a lack of benefit on MACE and mortality, and an increased risk of venous thromboembolism.",
+            "ru": "Женщинам с ХКИ (CCD) не следует назначать системную постменопаузальную гормональную терапию ввиду отсутствия пользы в отношении снижения сердечно-сосудистых событий (MACE) и смертности, а также повышенного риска венозных тромбоэмболий."
+          },
+          "class": "III-harm",
+          "level": "A",
+          "refs": [9, 10, 11]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

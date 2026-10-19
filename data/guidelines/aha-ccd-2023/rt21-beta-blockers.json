@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt21-beta-blockers",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 21",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Beta Blockers",
+    "ru": "Рекомендации по применению бета-адреноблокаторов"
+  },
+  "tags": [
+    "ccd",
+    "beta-blockers",
+    "metoprolol",
+    "carvedilol",
+    "bisoprolol",
+    "heart-failure",
+    "lvef",
+    "post-mi",
+    "mace"
+  ],
+  "sections": [
+    {
+      "id": "sec-beta-blockers",
+      "title": {
+        "en": "Beta Blockers",
+        "ru": "Бета-адреноблокаторы"
+      },
+      "rows": [
+        {
+          "id": "r01-beta-blockers-lvef-le-40",
+          "text": {
+            "en": "In patients with CCD and LVEF ≤40% with or without previous MI, the use of beta-blocker therapy is recommended to reduce the risk of future MACE, including cardiovascular death.",
+            "ru": "У пациентов с ХИБС (CCD) и ФВЛЖ ≤40% с перенесенным инфарктом миокарда или без него рекомендуется терапия бета-адреноблокаторами для снижения риска будущих событий MACE, включая сердечно-сосудистую смерть."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-evidenced-beta-blockers-hf",
+          "text": {
+            "en": "In patients with CCD and LVEF <50%, the use of sustained release metoprolol succinate, carvedilol, or bisoprolol with titration to target doses is recommended in preference to other beta blockers.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) и ФВЛЖ <50% рекомендуется применение метопролола сукцината замедленного высвобождения, карведилола или бисопролола с титрацией до целевых доз преимущественно перед другими бета-адреноблокаторами.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 3, 4, 5, 6, 7, 8]
+        },
+        {
+          "id": "r03-reassess-indication-after-1-year",
+          "text": {
+            "en": "In patients with CCD who were initiated on beta-blocker therapy for previous MI without a history of or current LVEF ≤50%, angina, arrhythmias, or uncontrolled hypertension, it may be reasonable to reassess the indication for long-term (>1 year) use of beta-blocker therapy for reducing MACE.",
+            "ru": "У пациентов с ХИБС (CCD), начавших прием бета-адреноблокаторов по поводу перенесенного ИМ, при отсутствии в анамнезе или в настоящее время ФВЛЖ ≤50%, стенокардии, аритмий или неконтролируемой артериальной гипертензии, может быть целесообразным пересмотреть показания к длительному (>1 года) приему бета-адреноблокаторов для снижения риска MACE."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [9, 10, 11, 12, 13, 14, 15]
+        },
+        {
+          "id": "r04-no-benefit-normal-ef-no-mi",
+          "text": {
+            "en": "In patients with CCD without previous MI or LVEF ≤50%, the use of beta-blocker therapy is not beneficial in reducing MACE, in the absence of another primary indication for beta-blocker therapy.^[b]",
+            "ru": "У пациентов с ХИБС (CCD) без перенесенного ИМ в анамнезе или ФВЛЖ ≤50% применение бета-адреноблокаторов не приносит пользы в снижении риска MACE при отсутствии других первичных показаний к терапии бета-блокаторами.^[b]"
+          },
+          "class": "III-no-benefit",
+          "level": "B-NR",
+          "refs": [16, 17, 18, 19]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Modified from the 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure.20",
+      "ru": "Адаптировано из совместного руководства AHA/ACC/HFSA по ведению сердечной недостаточности 2022 года.20"
+    },
+    "b": {
+      "en": "Adapted from the 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization.21",
+      "ru": "Адаптировано из Руководства ACC/AHA/SCAI по реваскуляризации миокарда 2021 года.21"
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

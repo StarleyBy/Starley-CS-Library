@@ -93,8 +93,9 @@ function stripDiacritics(str) {
 
 function tokenizeText(text) {
   const clean = stripDiacritics(text.toLowerCase())
+    .replace(/https?:\/\/\S+/g, ' ')
     .replace(/[^\w\u0400-\u04FF\u0590-\u05FF-]/g, ' ');
-  return clean.split(/\s+/).filter(t => t.length > 1);
+  return clean.split(/\s+/).filter(t => t.length > 1 && t.length <= 32);
 }
 
 function buildWordCounts(text) {
@@ -104,10 +105,6 @@ function buildWordCounts(text) {
   tokens.forEach(t => {
     if (t.length > 2 && !STOP_WORDS.has(t) && !/^\d+$/.test(t) && !/_/.test(t)) {
       counts[t] = (counts[t] || 0) + 1;
-      const stemmed = stemRussianWord(t);
-      if (stemmed !== t && stemmed.length > 2) {
-        counts[stemmed] = (counts[stemmed] || 0) + 1;
-      }
     }
   });
 
@@ -154,12 +151,8 @@ function addWeightedTokens(wordCounts, str, weight = 5) {
   if (!str || typeof str !== 'string') return;
   const tokens = tokenizeText(str);
   tokens.forEach(t => {
-    if (t.length > 2 && !STOP_WORDS.has(t) && !/^\d+$/.test(t)) {
+    if (t.length > 2 && !STOP_WORDS.has(t) && !/^\d+$/.test(t) && !/_/.test(t)) {
       wordCounts[t] = (wordCounts[t] || 0) + weight;
-      const stemmed = stemRussianWord(t);
-      if (stemmed !== t && stemmed.length > 2) {
-        wordCounts[stemmed] = (wordCounts[stemmed] || 0) + weight;
-      }
     }
   });
 }
@@ -274,7 +267,13 @@ function generateIndex() {
             else if (mdFile.endsWith('-starley.md')) editionKey = 'starley';
 
             const chapterBaseName = chFolder;
-            const plainText = content.replace(/^#+\s+/gm, '').replace(/```[\s\S]*?```/g, '');
+            const plainText = content
+              .replace(/```[\s\S]*?```/g, ' ')
+              .replace(/`[^`]*`/g, ' ')
+              .replace(/!\[.*?\]\(.*?\)/g, ' ')
+              .replace(/\[([^\]]+)\]\([^\)]+\)/g, '$1')
+              .replace(/<[^>]+>/g, ' ')
+              .replace(/^#+\s+/gm, ' ');
 
             if (plainText.length < 20) continue;
 

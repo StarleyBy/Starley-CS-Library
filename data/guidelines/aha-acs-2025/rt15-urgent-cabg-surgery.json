@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt15-urgent-cabg-surgery",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 15",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Urgent CABG Surgery",
+    "ru": "Рекомендация по неотложной операции коронарного шунтирования"
+  },
+  "tags": [
+    "acs",
+    "stemi",
+    "cabg",
+    "urgent-cabg",
+    "failed-pci",
+    "myocardium-at-risk"
+  ],
+  "sections": [
+    {
+      "id": "sec-urgent-cabg-surgery",
+      "title": {
+        "en": "Urgent CABG Surgery in STEMI",
+        "ru": "Неотложное коронарное шунтирование при ИМпST (STEMI)"
+      },
+      "rows": [
+        {
+          "id": "r01-stemi-failed-or-unfeasible-pci-urgent-cabg",
+          "text": {
+            "en": "In patients with STEMI in whom PCI is not feasible or successful, with a large area of myocardium at risk, emergency or urgent CABG surgery can be effective to improve clinical outcomes.^[a]",
+            "ru": "У пациентов с ИМпST (STEMI), у которых выполнение ЧКВ невозможно или безуспешно, при наличии большой зоны миокарда под угрозой, экстренная или неотложная операция КШ (CABG) может быть эффективной для улучшения клинических исходов.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "*Модифицировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

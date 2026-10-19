@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt28-cicu-admission",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 28",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for CICU",
+    "ru": "Рекомендация по госпитализации в кардиологическое отделение реанимации и интенсивной терапии (ОРИТК/CICU)"
+  },
+  "tags": [
+    "acs",
+    "cicu",
+    "intensive-care",
+    "ongoing-angina",
+    "hemodynamic-instability",
+    "arrhythmias",
+    "cardiogenic-shock"
+  ],
+  "sections": [
+    {
+      "id": "sec-cicu-admission",
+      "title": {
+        "en": "Cardiac Intensive Care Unit Admission",
+        "ru": "Госпитализация в кардиологическое отделение реанимации и интенсивной терапии (ОРИТК/CICU)"
+      },
+      "rows": [
+        {
+          "id": "r01-cicu-admission-high-risk-acs",
+          "text": {
+            "en": "Patients with ACS and with ongoing angina, hemodynamic instability, uncontrolled arrhythmias, suboptimal reperfusion, or cardiogenic shock should be admitted to a CICU to reduce cardiovascular events.",
+            "ru": "Пациенты с ОКС и продолжающейся стенокардией, гемодинамической нестабильностью, неконтролируемыми аритмиями, субоптимальной реперфузией или кардиогенным шоком должны быть госпитализированы в отделение реанимации и интенсивной терапии кардиологического профиля (ОРИТК/CICU) для снижения частоты сердечно-сосудистых событий."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

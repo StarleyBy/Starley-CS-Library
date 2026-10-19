@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt21-use-of-intracoronary-imaging",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 21",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Use of Intracoronary Imaging",
+    "ru": "Рекомендация по применению интракоронарной визуализации"
+  },
+  "tags": [
+    "acs",
+    "pci",
+    "stenting",
+    "intracoronary-imaging",
+    "ivus",
+    "oct",
+    "left-main",
+    "complex-lesions"
+  ],
+  "sections": [
+    {
+      "id": "sec-intracoronary-imaging",
+      "title": {
+        "en": "Use of Intracoronary Imaging",
+        "ru": "Применение интракоронарной визуализации"
+      },
+      "rows": [
+        {
+          "id": "r01-intracoronary-imaging-ivus-oct-stenting",
+          "text": {
+            "en": "In patients with ACS undergoing coronary stent implantation in left main artery or in complex lesions, intracoronary imaging with intravascular ultrasound (IVUS) or optical coherence tomography (OCT) is recommended for procedural guidance to reduce ischemic events.^[a]",
+            "ru": "У пациентов с ОКС, подвергающихся имплантации коронарного стента в ствол левой коронарной артерии или при сложных поражениях, рекомендуется интракоронарная визуализация с использованием внутрисосудистого ультразвука (ВСУЗИ/IVUS) или оптической когерентной томографии (ОКТ/OCT) для контроля вмешательства с целью снижения риска ишемических событий.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Adapted from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "*Адаптировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

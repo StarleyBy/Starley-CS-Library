@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt10-lipid-management",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 10",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Lipid Management",
+    "ru": "Рекомендации по гиполипидемической терапии"
+  },
+  "tags": [
+    "acs",
+    "lipid",
+    "statin",
+    "ldl-c",
+    "ezetimibe",
+    "nonstatin",
+    "pcsk9",
+    "mace"
+  ],
+  "sections": [
+    {
+      "id": "sec-lipid-management",
+      "title": {
+        "en": "Lipid Management in Patients With ACS",
+        "ru": "Гиполипидемическая терапия у пациентов с ОКС"
+      },
+      "rows": [
+        {
+          "id": "r01-high-intensity-statin",
+          "text": {
+            "en": "In patients with ACS, high-intensity statin therapy is recommended to reduce the risk of MACE.^[a]",
+            "ru": "У пациентов с ОКС рекомендуется терапия статинами высокой интенсивности для снижения риска MACE.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-statin-ldl-c-70-or-more-add-nonstatin",
+          "text": {
+            "en": "In patients with ACS who are already on maximally tolerated statin therapy with low-density lipoprotein cholesterol (LDL-C) ≥70 mg/dL (≥1.8 mmol/L), adding a nonstatin lipid-lowering agent is recommended to further reduce the risk of MACE.^[b]",
+            "ru": "У пациентов с ОКС, уже получающих максимально переносимую дозу статинов, с уровнем холестерина липопротеинов низкой плотности (ХС ЛНП/LDL-C) ≥70 мг/дл (≥1,8 ммоль/л), рекомендуется добавление нестатинового гиполипидемического препарата для дальнейшего снижения риска MACE.^[b]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [5, 6, 7]
+        },
+        {
+          "id": "r03-statin-intolerant-nonstatin-therapy",
+          "text": {
+            "en": "In patients with ACS who are statin intolerant, nonstatin lipid-lowering therapy is recommended to lower LDL-C and reduce the risk of MACE.",
+            "ru": "У пациентов с ОКС с непереносимостью статинов рекомендуется нестатиновая гиполипидемическая терапия для снижения уровня ХС ЛНП (LDL-C) и снижения риска MACE."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [8, 9, 10]
+        },
+        {
+          "id": "r04-statin-ldl-c-55-to-69-add-nonstatin",
+          "text": {
+            "en": "In patients with ACS who are already on maximally tolerated statin therapy with LDL-C 55 to 69 mg/dL (≥1.4 to <1.8 mmol/L), adding a nonstatin lipid-lowering agent is reasonable to reduce the risk of MACE.^[a]",
+            "ru": "У пациентов с ОКС, уже получающих максимально переносимую дозу статинов, с уровнем ХС ЛНП (LDL-C) от 55 до 69 мг/дл (от ≥1,4 до <1,8 ммоль/л), добавление нестатинового гиполипидемического препарата обосновано для снижения риска MACE.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [5, 6, 7, 11, 12, 13]
+        },
+        {
+          "id": "r05-concurrent-initiation-ezetimibe-with-statin",
+          "text": {
+            "en": "In patients with ACS, the concurrent initiation of ezetimibe in combination with maximally tolerated statin may be considered to reduce the risk of MACE.",
+            "ru": "У пациентов с ОКС одновременный старт эзетимиба в комбинации с максимально переносимой дозой статина может быть рассмотрен для снижения риска MACE."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [5]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the “2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for the Management of Patients With Chronic Coronary Disease”.",
+      "ru": "*Модифицировано из Руководства AHA/ACC/ACCP/ASPC/NLA/PCNA 2023 по ведению пациентов с хронической ишемической болезнью сердца."
+    },
+    "b": {
+      "en": "†Adapted from the “2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for the Management of Patients With Chronic Coronary Disease”.",
+      "ru": "†Адаптировано из Руководства AHA/ACC/ACCP/ASPC/NLA/PCNA 2023 по ведению пациентов с хронической ишемической болезнью сердца."
+    }
+  },
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

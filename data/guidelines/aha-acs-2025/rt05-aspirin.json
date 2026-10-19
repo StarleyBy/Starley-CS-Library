@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt05-aspirin",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 5",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Aspirin",
+    "ru": "Рекомендация по применению аспирина"
+  },
+  "tags": [
+    "acs",
+    "aspirin",
+    "antiplatelet",
+    "loading-dose",
+    "maintenance",
+    "mace",
+    "mortality"
+  ],
+  "sections": [
+    {
+      "id": "sec-aspirin",
+      "title": {
+        "en": "Aspirin in Patients With ACS",
+        "ru": "Аспирин у пациентов с ОКС"
+      },
+      "rows": [
+        {
+          "id": "r01-aspirin-loading-and-maintenance-dose",
+          "text": {
+            "en": "In patients with ACS, an initial oral loading dose of aspirin, followed by daily low-dose aspirin, is recommended to reduce death and MACE.",
+            "ru": "У пациентов с ОКС рекомендуется начальная нагрузочная доза аспирина перорально с последующим ежедневным приемом низких доз аспирина для снижения смертности и частоты больших неблагоприятных сердечно-сосудистых событий (MACE)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

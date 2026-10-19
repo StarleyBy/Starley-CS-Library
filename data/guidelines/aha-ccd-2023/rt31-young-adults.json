@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt31-young-adults",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 31",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Young Adults",
+    "ru": "Рекомендации для взрослых пациентов молодого возраста"
+  },
+  "tags": [
+    "ccd",
+    "young-adults",
+    "risk-factors",
+    "nontraditional-risk-factors",
+    "prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-young-adults",
+      "title": {
+        "en": "Young Adults",
+        "ru": "Взрослые пациенты молодого возраста"
+      },
+      "rows": [
+        {
+          "id": "r01-nontraditional-risk-factors-young-adults",
+          "text": {
+            "en": "In young adults with CCD, after optimization of traditional cardiovascular risk factors, a comprehensive evaluation and treatment of nontraditional cardiovascular risk factors can be beneficial in reducing the risk of cardiovascular events.",
+            "ru": "У взрослых пациентов молодого возраста с ХКИ (CCD) после оптимизации традиционных сердечно-сосудистых факторов риска комплексная оценка и коррекция нетрадиционных факторов риска могут быть полезны для снижения риска сердечно-сосудистых событий."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

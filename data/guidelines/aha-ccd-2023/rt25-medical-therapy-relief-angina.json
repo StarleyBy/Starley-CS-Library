@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt25-medical-therapy-relief-angina",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 25",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Medical Therapy for Relief of Angina",
+    "ru": "Рекомендации по медикаментозной терапии для купирования и профилактики стенокардии"
+  },
+  "tags": [
+    "ccd",
+    "angina",
+    "antianginal-therapy",
+    "beta-blockers",
+    "ccb",
+    "nitrates",
+    "ranolazine",
+    "nitroglycerin",
+    "ivabradine"
+  ],
+  "sections": [
+    {
+      "id": "sec-medical-therapy-angina",
+      "title": {
+        "en": "Medical Therapy for Relief of Angina",
+        "ru": "Медикаментозная терапия для облегчения стенокардии"
+      },
+      "rows": [
+        {
+          "id": "r01-first-line-antianginal-therapy",
+          "text": {
+            "en": "In patients with CCD and angina, antianginal therapy with either a beta blocker, CCB, or long-acting nitrate is recommended for relief of angina or equivalent symptoms.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) и стенокардией рекомендуется антиангинальная терапия бета-адреноблокатором, БКК (CCB) или нитратом длительного действия для облегчения стенокардии или ее эквивалентов.^[a]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-second-antianginal-agent-combination",
+          "text": {
+            "en": "In patients with CCD and angina who remain symptomatic after initial treatment, addition of a second antianginal agent from a different therapeutic class (beta blockers, CCB, long-acting nitrates) is recommended for relief of angina or equivalent symptoms.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) и стенокардией при сохранении симптомов на фоне начальной терапии рекомендуется добавление второго антиангинального препарата другого терапевтического класса (бета-блокаторы, БКК, пролонгированные нитраты) для облегчения стенокардии или ее эквивалентов.^[a]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [3, 4, 5, 6]
+        },
+        {
+          "id": "r03-ranolazine-refractory-symptoms",
+          "text": {
+            "en": "In patients with CCD, ranolazine is recommended in patients who remain symptomatic despite treatment with beta blockers, CCB, or long-acting nitrate therapies.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) рекомендуется назначение ранолазина пациентам, у которых сохраняются симптомы, несмотря на терапию бета-блокаторами, БКК или пролонгированными нитратами.^[a]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [7, 8]
+        },
+        {
+          "id": "r04-sublingual-nitroglycerin-short-term-relief",
+          "text": {
+            "en": "In patients with CCD, sublingual nitroglycerin or nitroglycerin spray is recommended for immediate short-term relief of angina or equivalent symptoms.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) рекомендуется сублингвальный нитроглицерин или спрей нитроглицерина для быстрого кратковременного купирования приступа стенокардии или эквивалентных симптомов.^[a]"
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [9, 10]
+        },
+        {
+          "id": "r05-harm-ivabradine-normal-lv-function",
+          "text": {
+            "en": "In patients with CCD and normal LV function, the addition of ivabradine to standard anti-anginal therapy is potentially harmful.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) и нормальной функцией ЛЖ добавление ивабрадина к стандартной антиангинальной терапии потенциально вредно и опасно (Harm).^[a]"
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [11]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Modified from the 2012 ACC/AHA Multisociety Guideline for the Diagnosis and Management of Patients With SIHD.12",
+      "ru": "Адаптировано из Руководства ACC/AHA 2012 года по диагностике и лечению пациентов со стабильной ишемической болезнью сердца (SIHD).12"
+    }
+  },
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

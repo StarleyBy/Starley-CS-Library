@@ -1,0 +1,413 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t04-us-heart-disease-prevalence",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 4",
+  "type": "grid",
+  "title": {
+    "en": "US Heart Disease Prevalence, by Age, Race, Ethnicity, and Sex, 2015 to 2018",
+    "ru": "Распространенность заболеваний сердца в США по возрасту, расе, этнической принадлежности и полу (2015–2018 гг.)"
+  },
+  "tags": [
+    "ccd",
+    "chd",
+    "cad",
+    "epidemiology",
+    "prevalence",
+    "mi",
+    "angina",
+    "demographics"
+  ],
+  "columns": [
+    {
+      "id": "population-group",
+      "title": {
+        "en": "Population Group",
+        "ru": "Группа населения"
+      }
+    },
+    {
+      "id": "prevalence-chd",
+      "title": {
+        "en": "Prevalence, CHD, 2015–2018, Age ≥20 y",
+        "ru": "Распространенность КБС (CHD), 2015–2018, возраст ≥20 лет"
+      }
+    },
+    {
+      "id": "prevalence-mi",
+      "title": {
+        "en": "Prevalence, MI, 2015–2018, Age ≥20 y",
+        "ru": "Распространенность ИМ (MI), 2015–2018, возраст ≥20 лет"
+      }
+    },
+    {
+      "id": "prevalence-ap",
+      "title": {
+        "en": "Prevalence, AP^[a], 2015–2018, Age ≥20 y",
+        "ru": "Распространенность стенокардии (AP)^[a], 2015–2018, возраст ≥20 лет"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-both-sexes",
+      "cells": [
+        {
+          "text": {
+            "en": "Both sexes",
+            "ru": "Оба пола"
+          }
+        },
+        {
+          "text": {
+            "en": "20.1 million (7.2% [95% CI, 6.5–7.9])",
+            "ru": "20,1 млн (7,2% [95% ДИ: 6,5–7,9])"
+          }
+        },
+        {
+          "text": {
+            "en": "8.8 million (3.1% [95% CI, 2.7–3.6])",
+            "ru": "8,8 млн (3,1% [95% ДИ: 2,7–3,6])"
+          }
+        },
+        {
+          "text": {
+            "en": "11 million (4.1%)",
+            "ru": "11 млн (4,1%)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-men",
+      "cells": [
+        {
+          "text": {
+            "en": "Men",
+            "ru": "Мужчины"
+          }
+        },
+        {
+          "text": {
+            "en": "11 million (8.3%)",
+            "ru": "11 млн (8,3%)"
+          }
+        },
+        {
+          "text": {
+            "en": "5.8 million (4.3%)",
+            "ru": "5,8 млн (4,3%)"
+          }
+        },
+        {
+          "text": {
+            "en": "5.3 million (4.2%)",
+            "ru": "5,3 млн (4,2%)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-women",
+      "cells": [
+        {
+          "text": {
+            "en": "Women",
+            "ru": "Женщины"
+          }
+        },
+        {
+          "text": {
+            "en": "9.1 million (6.2%)",
+            "ru": "9,1 млн (6,2%)"
+          }
+        },
+        {
+          "text": {
+            "en": "3 million (2.1%)",
+            "ru": "3 млн (2,1%)"
+          }
+        },
+        {
+          "text": {
+            "en": "5.7 million (4.0%)",
+            "ru": "5,7 млн (4,0%)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-nh-white-men",
+      "cells": [
+        {
+          "text": {
+            "en": "NH White men",
+            "ru": "Белые мужчины неиспанского происхождения"
+          }
+        },
+        {
+          "text": {
+            "en": "8.7%",
+            "ru": "8,7%"
+          }
+        },
+        {
+          "text": {
+            "en": "4.4%",
+            "ru": "4,4%"
+          }
+        },
+        {
+          "text": {
+            "en": "4.5%",
+            "ru": "4,5%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-nh-white-women",
+      "cells": [
+        {
+          "text": {
+            "en": "NH White women",
+            "ru": "Белые женщины неиспанского происхождения"
+          }
+        },
+        {
+          "text": {
+            "en": "6.0%",
+            "ru": "6,0%"
+          }
+        },
+        {
+          "text": {
+            "en": "2.0%",
+            "ru": "2,0%"
+          }
+        },
+        {
+          "text": {
+            "en": "4.0%",
+            "ru": "4,0%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-nh-black-men",
+      "cells": [
+        {
+          "text": {
+            "en": "NH Black men",
+            "ru": "Чернокожие мужчины неиспанского происхождения"
+          }
+        },
+        {
+          "text": {
+            "en": "6.7%",
+            "ru": "6,7%"
+          }
+        },
+        {
+          "text": {
+            "en": "3.9%",
+            "ru": "3,9%"
+          }
+        },
+        {
+          "text": {
+            "en": "3.3%",
+            "ru": "3,3%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-nh-black-women",
+      "cells": [
+        {
+          "text": {
+            "en": "NH Black women",
+            "ru": "Чернокожие женщины неиспанского происхождения"
+          }
+        },
+        {
+          "text": {
+            "en": "7.2%",
+            "ru": "7,2%"
+          }
+        },
+        {
+          "text": {
+            "en": "2.3%",
+            "ru": "2,3%"
+          }
+        },
+        {
+          "text": {
+            "en": "4.7%",
+            "ru": "4,7%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-hispanic-men",
+      "cells": [
+        {
+          "text": {
+            "en": "Hispanic men",
+            "ru": "Мужчины латиноамериканского происхождения"
+          }
+        },
+        {
+          "text": {
+            "en": "6.8%",
+            "ru": "6,8%"
+          }
+        },
+        {
+          "text": {
+            "en": "3.7%",
+            "ru": "3,7%"
+          }
+        },
+        {
+          "text": {
+            "en": "3.5%",
+            "ru": "3,5%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-hispanic-women",
+      "cells": [
+        {
+          "text": {
+            "en": "Hispanic women",
+            "ru": "Женщины латиноамериканского происхождения"
+          }
+        },
+        {
+          "text": {
+            "en": "6.4%",
+            "ru": "6,4%"
+          }
+        },
+        {
+          "text": {
+            "en": "2.1%",
+            "ru": "2,1%"
+          }
+        },
+        {
+          "text": {
+            "en": "4.3%",
+            "ru": "4,3%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-nh-asian-men",
+      "cells": [
+        {
+          "text": {
+            "en": "NH Asian men",
+            "ru": "Азиатские мужчины неиспанского происхождения"
+          }
+        },
+        {
+          "text": {
+            "en": "5.0%",
+            "ru": "5,0%"
+          }
+        },
+        {
+          "text": {
+            "en": "2.7%",
+            "ru": "2,7%"
+          }
+        },
+        {
+          "text": {
+            "en": "2.1%",
+            "ru": "2,1%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-nh-asian-women",
+      "cells": [
+        {
+          "text": {
+            "en": "NH Asian women",
+            "ru": "Азиатские женщины неиспанского происхождения"
+          }
+        },
+        {
+          "text": {
+            "en": "3.2%",
+            "ru": "3,2%"
+          }
+        },
+        {
+          "text": {
+            "en": "0.7%",
+            "ru": "0,7%"
+          }
+        },
+        {
+          "text": {
+            "en": "2.2%",
+            "ru": "2,2%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-nh-native-american-alaska-native",
+      "cells": [
+        {
+          "text": {
+            "en": "NH Native American/Alaska Native",
+            "ru": "Коренные американцы / коренные жители Аляски неиспанского происхождения"
+          }
+        },
+        {
+          "text": {
+            "en": "---",
+            "ru": "---"
+          }
+        },
+        {
+          "text": {
+            "en": "---",
+            "ru": "---"
+          }
+        },
+        {
+          "text": {
+            "en": "---",
+            "ru": "---"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*AP is chest pain or discomfort that results from insufficient blood flow to the heart muscle. Stable AP is predictable chest pain on exertion or under mental or emotional stress. The incidence estimate is for AP without MI.",
+      "ru": "*Стенокардия (AP) — боль или дискомфорт в груди, возникающие вследствие недостаточного кровоснабжения сердечной мышцы. Стабильная стенокардия — предсказуемая боль при физической нагрузке или психоэмоциональном стрессе. Оценка частоты приведена для стенокардии без предшествующего ИМ."
+    }
+  },
+  "source": {
+    "expectedRows": 12
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

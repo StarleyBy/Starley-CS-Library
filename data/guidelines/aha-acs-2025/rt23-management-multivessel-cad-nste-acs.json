@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt23-management-multivessel-cad-nste-acs",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 23",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Management of Multivessel CAD in NSTE-ACS",
+    "ru": "Рекомендации по ведению многососудистого поражения коронарных артерий при ОКСбпST (NSTE-ACS)"
+  },
+  "tags": [
+    "acs",
+    "nste-acs",
+    "multivessel-cad",
+    "mvd",
+    "pci",
+    "cabg",
+    "nonculprit-lesion",
+    "physiological-assessment",
+    "cardiogenic-shock"
+  ],
+  "sections": [
+    {
+      "id": "sec-mode-revascularization-mvd",
+      "title": {
+        "en": "Mode of Revascularization in Multivessel CAD",
+        "ru": "Выбор метода реваскуляризации при многососудистом поражении"
+      },
+      "rows": [
+        {
+          "id": "r01-mode-revascularization-cabg-or-pci",
+          "text": {
+            "en": "In patients with NSTE-ACS with MVD, the mode of revascularization (CABG or multivessel PCI) should be based on the disease complexity and patient’s comorbidities.",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS) и многососудистым поражением (MVD) выбор метода реваскуляризации (КШ или многососудистое ЧКВ) должен основываться на сложности анатомического поражения и сопутствующих заболеваниях пациента."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        }
+      ]
+    },
+    {
+      "id": "sec-multivessel-cad-pci-candidates",
+      "title": {
+        "en": "Multivessel CAD and Candidates for PCI",
+        "ru": "Многососудистое поражение коронарных артерий и кандидаты на ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r02-stable-nste-acs-mvd-nonculprit-pci",
+          "text": {
+            "en": "In stable patients with NSTE-ACS with MVD but without left main stenosis who are not intended for CABG surgery and undergoing culprit-lesion PCI, PCI of significant nonculprit lesions (at the time of the index procedure or as a staged procedure) is recommended to reduce the risk of MACE.",
+            "ru": "У стабильных пациентов с ОКСбпST (NSTE-ACS) и многососудистым поражением (MVD) без стеноза ствола ЛКА, не рассматриваемых для проведения операции КШ и подвергающихся ЧКВ симптом-связанного стеноза, рекомендуется ЧКВ гемодинамически значимых непораженных инфарктом артерий (во время индексной процедуры или вторым этапом) для снижения риска MACE."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r03-physiological-assessment-nonculprit-stenosis",
+          "text": {
+            "en": "In patients with NSTE-ACS in whom multivessel PCI is being considered, physiological assessment of a nonculprit stenosis may be considered to guide revascularization decisions.",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS), у которых рассматривается возможность выполнения многососудистого ЧКВ, физиологическая оценка незначимого/несимптомного стеноза может быть рассмотрена для обоснования решений по реваскуляризации."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [7, 8, 9]
+        },
+        {
+          "id": "r04-cardiogenic-shock-no-routine-nonculprit-pci-harm",
+          "text": {
+            "en": "In patients with NSTE-ACS complicated by cardiogenic shock, routine PCI of a nonculprit artery at the time of index procedure should not be performed because of the higher risk of death or kidney failure.^[a]",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS), осложненным кардиогенным шоком, рутинное ЧКВ не связанной с инфарктом артерии во время индексной процедуры не должно выполняться из-за более высокого риска смерти или почечной недостаточности.^[a]"
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [10, 11]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "*Модифицировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

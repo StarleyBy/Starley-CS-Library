@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t03-electrocardiographic-interpretation-suspected-acs",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 3",
+  "type": "grid",
+  "title": {
+    "en": "Electrocardiographic Interpretation for Patients With Suspected Acute Coronary Syndromes",
+    "ru": "Интерпретация электрокардиограммы у пациентов с подозрением на острый коронарный синдром"
+  },
+  "tags": [
+    "acs",
+    "ecg",
+    "stemi",
+    "nste-acs",
+    "ischemia",
+    "st-elevation",
+    "st-depression",
+    "t-wave",
+    "lbbb",
+    "posterior-leads"
+  ],
+  "columns": [
+    {
+      "id": "category",
+      "title": {
+        "en": "ECG Feature",
+        "ru": "ЭКГ-характеристика"
+      }
+    },
+    {
+      "id": "nste-acs",
+      "title": {
+        "en": "NSTE-ACS",
+        "ru": "ОКСбпST (NSTE-ACS)"
+      }
+    },
+    {
+      "id": "stemi",
+      "title": {
+        "en": "STEMI",
+        "ru": "ИМпST (STEMI)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-evidence-of-ischemia",
+      "cells": [
+        {
+          "text": {
+            "en": "Electrocardiographic evidence of ischemia",
+            "ru": "Электрокардиографические признаки ишемии"
+          }
+        },
+        {
+          "text": {
+            "en": "New or presumed new and usually dynamic horizontal or downsloping ST-segment depression ≥0.5 mm in ≥2 contiguous leads and/or T-wave inversion >1 mm in ≥2 contiguous leads with prominent R wave or R/S ratio >1 or transient ST-segment elevation.",
+            "ru": "Вновь возникшая или предположительно новая (как правило, динамическая) горизонтальная или косонисходящая депрессия сегмента ST ≥0,5 мм в ≥2 смежных отведениях и/или инверсия зубца T >1 мм в ≥2 смежных отведениях с преобладающим зубцом R (или отношением R/S >1), либо преходящая элевация сегмента ST."
+          }
+        },
+        {
+          "text": {
+            "en": "New or presumed new ST-elevation of ≥1 mm in ≥2 anatomically contiguous leads (measured at the J-point) in all leads other than V2-V3 and ≥2 mm in men ≥40 y, ≥2.5 mm in men <40 y, and ≥1.5 mm in women regardless of age in leads V2-V3.^[a]",
+            "ru": "Вновь возникшая или предположительно новая элевация сегмента ST ≥1 мм в ≥2 анатомически смежных отведениях (измеренная в точке J) во всех отведениях, кроме V2–V3, а в отведениях V2–V3: ≥2 мм у мужчин ≥40 лет, ≥2,5 мм у мужчин <40 лет и ≥1,5 мм у женщин любого возраста.^[a]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-other-observed-changes",
+      "cells": [
+        {
+          "text": {
+            "en": "Other observed electrocardiographic changes",
+            "ru": "Другие выявляемые электрокардиографические изменения"
+          }
+        },
+        {
+          "text": {
+            "en": "Many patients with NSTE-ACS have either nonspecific ST-segment or T-wave changes or a normal ECG. The absence of electrocardiographic evidence of ischemia does not exclude ACS.",
+            "ru": "У многих пациентов с ОКСбпST (NSTE-ACS) выявляются неспецифические изменения сегмента ST или зубца T либо регистрируется нормальная ЭКГ. Отсутствие ЭКГ-признаков ишемии не исключает диагноз ОКС."
+          }
+        },
+        {
+          "text": {
+            "en": "Posterior leads (V7-V9) should be obtained in patients with suspected left circumflex occlusion particularly in the setting of isolated ST-segment depression ≥0.5 mm in leads V1-V3.",
+            "ru": "Задние отведения (V7–V9) следует регистрировать при подозрении на окклюзию огибающей ветви левой коронарной артерии, особенно при наличии изолированной депрессии сегмента ST ≥0,5 мм в отведениях V1–V3."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*ST-segment changes may be observed in other conditions including acute pericarditis, left ventricular hypertrophy, LBBB, Brugada syndrome, right ventricular pacing, Takotsubo syndrome, and early repolarization that may obscure the diagnosis of STEMI. New or presumably new LBBB at presentation occurs infrequently and should not be considered diagnostic of AMI in isolation; clinical correlation is required. A new LBBB in an asymptomatic patient does not constitute a STEMI equivalent.",
+      "ru": "*Изменения сегмента ST могут наблюдаться при других состояниях, включая острый перикардит, гипертрофию левого желудочка, БЛНПГ, синдром Бругада, стимуляцию правого желудочка, синдром такоцубо и раннюю реполяризацию желудочков, которые могут маскировать диагноз ИМпST (STEMI). Вновь возникшая или предположительно новая БЛНПГ при поступлении встречается редко и не должна изолированно расцениваться как критерий ОИМ; требуется клиническая корреляция. Новая БЛНПГ у бессимптомного пациента не является эквивалентом STEMI."
+    }
+  },
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

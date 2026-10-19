@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t18-clinical-criteria-diagnosis-pericarditis",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 18",
+  "type": "grid",
+  "title": {
+    "en": "Clinical Criteria for Diagnosis of Pericarditis",
+    "ru": "Клинические критерии диагностики перикардита"
+  },
+  "tags": [
+    "acs",
+    "pericarditis",
+    "diagnostic-criteria",
+    "chest-pain",
+    "pericardial-rub",
+    "ecg",
+    "pericardial-effusion"
+  ],
+  "columns": [
+    {
+      "id": "criterion",
+      "title": {
+        "en": "Diagnosis Is Made With Presence of Pleuritic Chest Pain and ≥1 of the Following Criteria:",
+        "ru": "Диагноз устанавливается при наличии плевритической боли в груди и ≥1 из следующих критериев:"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-pericardial-friction-rub",
+      "cells": [
+        {
+          "text": {
+            "en": "Friction pericardial rub on auscultation",
+            "ru": "Шум трения перикарда при аускультации"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-electrocardiographic-evidence",
+      "cells": [
+        {
+          "text": {
+            "en": "Electrocardiographic evidence such as classic PR-segment depression or diffusive concave ST-segment elevations, or in the setting of MI, persistent ST-segment elevations or dynamic T-wave changes",
+            "ru": "Электрокардиографические признаки: классическая депрессия сегмента PR или диффузная конкавная (вогнутая) элевация сегмента ST, либо (при наличии ИМ) персистирующая элевация сегмента ST или динамические изменения зубца T"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-pericardial-effusion-echocardiography",
+      "cells": [
+        {
+          "text": {
+            "en": "New or growing pericardial effusion on echocardiography",
+            "ru": "Впервые возникший или нарастающий перикардиальный выпот по данным эхокардиографии"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

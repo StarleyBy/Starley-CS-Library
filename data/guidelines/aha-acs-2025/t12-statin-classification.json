@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t12-statin-classification",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 12",
+  "type": "grid",
+  "title": {
+    "en": "Statin Classification",
+    "ru": "Классификация статинов по интенсивности снижения ХС ЛНП"
+  },
+  "tags": [
+    "acs",
+    "lipid",
+    "statin",
+    "atorvastatin",
+    "rosuvastatin",
+    "simvastatin",
+    "pravastatin",
+    "lovastatin",
+    "fluvastatin",
+    "pitavastatin",
+    "high-intensity",
+    "moderate-intensity",
+    "low-intensity",
+    "ldl-c"
+  ],
+  "columns": [
+    {
+      "id": "high-intensity",
+      "title": {
+        "en": "High-Intensity Therapy",
+        "ru": "Высокая интенсивность"
+      }
+    },
+    {
+      "id": "moderate-intensity",
+      "title": {
+        "en": "Moderate-Intensity Therapy",
+        "ru": "Умеренная интенсивность"
+      }
+    },
+    {
+      "id": "low-intensity",
+      "title": {
+        "en": "Low-Intensity Therapy",
+        "ru": "Низкая интенсивность"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-statin-classification-by-ldl-c-reduction",
+      "cells": [
+        {
+          "text": {
+            "en": "**Expected LDL-C reduction ≥50%**^[a]\n\n• Atorvastatin 40–80 mg\n• Rosuvastatin 20–40 mg",
+            "ru": "**Ожидаемое снижение ХС ЛНП ≥50%**^[a]\n\n• Аторвастатин 40–80 мг\n• Розувастатин 20–40 мг"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "**Expected LDL-C reduction 30% to 49%**^[b]\n\n• Atorvastatin 10–20 mg\n• Rosuvastatin 5–10 mg\n• Simvastatin 20–40 mg\n• Pravastatin 40–80 mg\n• Lovastatin 40 mg\n• Fluvastatin XL 80 mg\n• Fluvastatin 40 mg BID\n• Pitavastatin 1–4 mg",
+            "ru": "**Ожидаемое снижение ХС ЛНП на 30–49%**^[b]\n\n• Аторвастатин 10–20 мг\n• Розувастатин 5–10 мг\n• Симвастатин 20–40 мг\n• Правастатин 40–80 мг\n• Ловастатин 40 мг\n• Флувастатин XL 80 мг\n• Флувастатин 40 мг 2 раза/сут\n• Питавастатин 1–4 мг"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "**Expected LDL-C reduction <30%**^[c]\n\n• Simvastatin 10 mg\n• Pravastatin 10–20 mg\n• Lovastatin 20 mg\n• Fluvastatin 20–40 mg",
+            "ru": "**Ожидаемое снижение ХС ЛНП <30%**^[c]\n\n• Симвастатин 10 мг\n• Правастатин 10–20 мг\n• Ловастатин 20 мг\n• Флувастатин 20–40 мг"
+          },
+          "tone": "neutral"
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*High-Intensity Therapy: expected LDL-C reduction ≥50%.",
+      "ru": "*Терапия высокой интенсивности: ожидаемое снижение ХС ЛНП ≥50%."
+    },
+    "b": {
+      "en": "†Moderate-Intensity Therapy: expected LDL-C reduction ≥30% to 49%.",
+      "ru": "†Терапия умеренной интенсивности: ожидаемое снижение ХС ЛНП на 30–49%."
+    },
+    "c": {
+      "en": "‡Low-Intensity Therapy: expected LDL-C reduction <30%.",
+      "ru": "‡Терапия низкой интенсивности: ожидаемое снижение ХС ЛНП <30%."
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t16-diagnostic-criteria-vasospastic-angina",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 16",
+  "type": "grid",
+  "title": {
+    "en": "Diagnostic Criteria for Vasospastic Angina",
+    "ru": "Диагностические критерии вазоспастической стенокардии"
+  },
+  "tags": [
+    "ccd",
+    "vasospastic-angina",
+    "vsa",
+    "prinzmetal-angina",
+    "coronary-spasm",
+    "nitrates",
+    "st-elevation",
+    "acetylcholine",
+    "diagnostic-criteria"
+  ],
+  "columns": [
+    {
+      "id": "criterion",
+      "title": {
+        "en": "Diagnostic Criterion",
+        "ru": "Диагностический критерий"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "nitrate-responsive-angina",
+      "cells": [
+        {
+          "text": {
+            "en": "**Nitrate-responsive angina:** during spontaneous episode, *with at least 1 of the following:*\n• Rest angina, especially between night and early morning\n• Marked diurnal variation in exercise tolerance, reduced in morning\n• Hyperventilation can precipitate an episode\n• Calcium channel blockers (not beta blockers) suppress episodes",
+            "ru": "**Нитрат-чувствительная стенокардия:** во время спонтанного приступа, *в сочетании хотя бы с 1 из следующих признаков:*\n• Стенокардия покоя, особенно ночью и в ранние утренние часы\n• Выраженная суточная вариабельность толерантности к нагрузке (снижена по утрам)\n• Гипервентиляция может провоцировать приступ\n• Блокаторы кальциевых каналов (но не бета-блокаторы) купируют и предотвращают приступы"
+          }
+        }
+      ]
+    },
+    {
+      "id": "transient-ischemic-ecg-changes",
+      "cells": [
+        {
+          "text": {
+            "en": "**Transient ischemic electrocardiographic changes:** during spontaneous episode, including any of the following *in at least 2 contiguous leads:*\n• ST segment elevation ≥0.1 mV\n• ST segment depression ≥0.1 mV\n• New negative U waves",
+            "ru": "**Преходящие ишемические изменения на ЭКГ:** во время спонтанного эпизода, включающие любой из следующих признаков *как минимум в 2 смежных отведениях:*\n• Элевация сегмента ST ≥0,1 мВ\n• Депрессия сегмента ST ≥0,1 мВ\n• Появление новых отрицательных зубцов U"
+          }
+        }
+      ]
+    },
+    {
+      "id": "coronary-artery-spasm",
+      "cells": [
+        {
+          "text": {
+            "en": "**Coronary artery spasm:** defined as transient total or subtotal coronary artery occlusion (>90% constriction) with angina and ischemic electrocardiographic changes either spontaneously or in response to a provocative stimulus (typically acetylcholine, ergot, or hyperventilation)^[a]",
+            "ru": "**Спазм коронарной артерии:** определяется как преходящая тотальная или субтотальная окклюзия коронарной артерии (>90% сужения диаметра) со стенокардией и ишемическими изменениями на ЭКГ, возникающими спонтанно либо в ответ на провокационную пробу (обычно с ацетилхолином, эргометрином или гипервентиляцией)^[a]"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "“Definitive” vasospastic angina is diagnosed if nitrate-responsive angina is evident during spontaneous episodes and either transient ischemic ECG changes or coronary artery spasm criteria are fulfilled. “Suspected” vasospastic angina is diagnosed if nitrate-responsive angina is evident during spontaneous episodes but transient ischemic electrocardiographic changes are equivocal or unavailable and coronary artery spasm criteria are equivocal.",
+      "ru": "«Определенная» вазоспастическая стенокардия диагностируется, если нитрат-чувствительная стенокардия подтверждена во время спонтанных приступов и выполняются критерии либо преходящих ишемических изменений на ЭКГ, либо ангиографического спазма коронарной артерии. «Подозреваемая» вазоспастическая стенокардия диагностируется при наличии нитрат-чувствительной стенокардии, но сомнительных или недоступных данных ЭКГ и сомнительных критериях спазма."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

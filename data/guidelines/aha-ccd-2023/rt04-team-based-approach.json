@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt04-team-based-approach",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 4",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Team-Based Approach",
+    "ru": "Рекомендация по командному подходу"
+  },
+  "tags": [
+    "ccd",
+    "team-based-care",
+    "multidisciplinary",
+    "ascvd",
+    "risk-factors",
+    "health-outcomes"
+  ],
+  "sections": [
+    {
+      "id": "sec-team-based-approach",
+      "title": {
+        "en": "Team-Based Approach",
+        "ru": "Командный междисциплинарный подход"
+      },
+      "rows": [
+        {
+          "id": "r01-multidisciplinary-team-approach",
+          "text": {
+            "en": "In patients with CCD, a multidisciplinary team-based approach is recommended to improve health outcomes, facilitate modification of ASCVD risk factors, and improve health service utilization.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) рекомендуется применение мультидисциплинарного командного подхода для улучшения клинических исходов, содействия модификации факторов риска АССЗ (ASCVD) и оптимизации использования ресурсов здравоохранения.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease.14",
+      "ru": "*Модифицировано из Руководства ACC/AHA 2019 по первичной профилактике сердечно-сосудистых заболеваний.14"
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

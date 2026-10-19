@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt20-antiplatelet-therapy-oral-anticoagulants",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 20",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Antiplatelet Therapy and Oral Anticoagulants",
+    "ru": "Рекомендации по антитромбоцитарной терапии и пероральным антикоагулянтам"
+  },
+  "tags": [
+    "ccd",
+    "antiplatelet-therapy",
+    "aspirin",
+    "clopidogrel",
+    "dapt",
+    "sapt",
+    "pci",
+    "des",
+    "cabg",
+    "doac",
+    "anticoagulation",
+    "rivaroxaban",
+    "ppi",
+    "bleeding-risk",
+    "mace"
+  ],
+  "sections": [
+    {
+      "id": "sec-antiplatelet-without-oac",
+      "title": {
+        "en": "Antiplatelet Therapy Without Oral Anticoagulants",
+        "ru": "Антитромбоцитарная терапия без пероральных антикоагулянтов"
+      },
+      "rows": [
+        {
+          "id": "r01-aspirin-monotherapy",
+          "text": {
+            "en": "In patients with CCD and no indication for oral anticoagulant therapy, low-dose aspirin 81 mg (75-100 mg) is recommended to reduce atherosclerotic events.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) при отсутствии показаний к антикоагулянтной терапии рекомендуется низкая доза аспирина 81 мг (75–100 мг/сут) для снижения частоты атеросклеротических событий.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-dapt-post-pci",
+          "text": {
+            "en": "In patients with CCD treated with PCI, dual antiplatelet therapy (DAPT) consisting of aspirin and clopidogrel for 6 months post PCI followed by single antiplatelet therapy (SAPT) is indicated to reduce MACE and bleeding events.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) после выполнения ЧКВ показана двойная антитромбоцитарная терапия (ДАТТ/DAPT), состоящая из аспирина и клопидогрела в течение 6 месяцев после ЧКВ с последующим переходом на монотерапию одним антиагрегантом (ОАТ/SAPT) для снижения риска MACE и кровотечений.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [4, 5, 6, 7]
+        },
+        {
+          "id": "r03-p2y12-monotherapy-after-short-dapt",
+          "text": {
+            "en": "In select patients with CCD treated with PCI and a drug-eluting stent (DES) who have completed a 1- to 3-month course of DAPT, P2Y12 inhibitor monotherapy for at least 12 months is reasonable to reduce bleeding risk.",
+            "ru": "У отдельных пациентов с ХИБС (CCD) после имплантации стента с лекарственным покрытием (СЛП/DES), завершивших 1–3-месячный курс ДАТТ, целесообразен переход на монотерапию ингибитором P2Y12 продолжительностью не менее 12 месяцев для снижения риска кровотечений."
+          },
+          "class": "IIa",
+          "level": "A",
+          "refs": [8, 9, 10, 11, 12]
+        },
+        {
+          "id": "r04-extended-dapt-post-mi",
+          "text": {
+            "en": "In patients with CCD who have had a previous MI and are at low bleeding risk, extended DAPT beyond 12 months for a period of up to 3 years may be reasonable to reduce MACE.^[a]",
+            "ru": "У пациентов с ХИБС (CCD), перенесших инфаркт миокарда и имеющих низкий риск кровотечений, может быть оправдано продление ДАТТ более 12 месяцев (на срок до 3 лет) для снижения риска MACE.^[a]"
+          },
+          "class": "IIb",
+          "level": "A",
+          "refs": [13, 14]
+        },
+        {
+          "id": "r05-vorapaxar-post-mi",
+          "text": {
+            "en": "In patients with CCD and a previous history of MI without a history of stroke, transient ischemic attack (TIA), or ICH, vorapaxar may be added to aspirin therapy to reduce MACE.",
+            "ru": "У пациентов с ХИБС (CCD) с перенесенным ИМ в анамнезе без указаний на инсульт, транзиторную ишемическую атаку (ТИА) или внутричерепное кровоизлияние (ВЧК/ICH) ворапаксар может быть добавлен к аспирину для снижения риска MACE."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [15, 16, 17]
+        },
+        {
+          "id": "r06-dapt-post-cabg",
+          "text": {
+            "en": "In patients with CCD, the use of DAPT after CABG may be useful to reduce the incidence of saphenous vein graft occlusion.",
+            "ru": "У пациентов с ХИБС (CCD) применение ДАТТ после коронарного шунтирования (КШ/CABG) может быть целесообразным для снижения частоты окклюзии венозных (подкожных) шунтов."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [18]
+        },
+        {
+          "id": "r07-no-benefit-clopidogrel-without-indication",
+          "text": {
+            "en": "In patients with CCD without recent ACS or a PCI-related indication for DAPT, the addition of clopidogrel to aspirin therapy is not useful to reduce MACE.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) без недавнего ОКС или показаний к ДАТТ после ЧКВ добавление клопидогрела к терапии аспирином не приносит пользы в снижении риска MACE.^[a]"
+          },
+          "class": "III-no-benefit",
+          "level": "A",
+          "refs": [19]
+        },
+        {
+          "id": "r08-harm-vorapaxar-prior-stroke",
+          "text": {
+            "en": "In patients with CCD and previous stroke, TIA, or ICH, vorapaxar should not be added to DAPT because of increased risk of major bleeding and ICH.",
+            "ru": "У пациентов с ХИБС (CCD) с перенесенным инсультом, ТИА или внутричерепным кровоизлиянием ворапаксар не должен добавляться к ДАТТ из-за повышенного риска больших кровотечений и ВЧК."
+          },
+          "class": "III-harm",
+          "level": "A",
+          "refs": [15, 20]
+        },
+        {
+          "id": "r09-harm-prasugrel-prior-stroke",
+          "text": {
+            "en": "In patients with CCD and previous stroke, TIA, or ICH, prasugrel should not be used because of risk of significant or fatal bleeding.",
+            "ru": "У пациентов с ХИБС (CCD) с инсультом, ТИА или ВЧК в анамнезе прасугрел не должен применяться из-за риска значимых или фатальных кровотечений."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [21]
+        },
+        {
+          "id": "r10-harm-chronic-nsaids",
+          "text": {
+            "en": "In patients with CCD, chronic nonsteroidal anti-inflammatory drugs should not be used because of increased cardiovascular and bleeding complications.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) не следует применять нестероидные противовоспалительные препараты (НПВП) на постоянной основе из-за повышенного риска сердечно-сосудистых осложнений и кровотечений.^[a]"
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [22]
+        }
+      ]
+    },
+    {
+      "id": "sec-antiplatelet-with-doac",
+      "title": {
+        "en": "Antiplatelet Therapy With Direct Oral Anticoagulant (DOAC)",
+        "ru": "Антитромбоцитарная терапия в сочетании с прямыми оральными антикоагулянтами (ПОАК/DOAC)"
+      },
+      "rows": [
+        {
+          "id": "r11-elective-pci-doac-regimen",
+          "text": {
+            "en": "In patients with CCD who have undergone elective PCI and who require oral anticoagulant therapy, DAPT for 1 to 4 weeks followed by clopidogrel alone for 6 months should be administered in addition to DOAC.^[b]",
+            "ru": "У пациентов с ХИБС (CCD) после планового ЧКВ, нуждающихся в пероральной антикоагулянтной терапии, в дополнение к ПОАК (DOAC) следует назначать ДАТТ на 1–4 недели с последующим переходом на монотерапию клопидогрелом на 6 месяцев.^[b]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [23]
+        },
+        {
+          "id": "r12-triple-therapy-up-to-1-month",
+          "text": {
+            "en": "In patients with CCD who have undergone PCI and who require oral anticoagulant therapy, continuing aspirin in addition to clopidogrel for up to 1 month is reasonable if the patient has a high thrombotic risk and low bleeding risk.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) после ЧКВ, нуждающихся в пероральной антикоагулянтной терапии, продолжение приема аспирина в дополнение к клопидогрелу (тройная терапия) на срок до 1 месяца целесообразно при высоком тромботическом риске и низком риске кровотечений.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [23, 24, 25]
+        },
+        {
+          "id": "r13-discontinue-aspirin-1-year-post-pci",
+          "text": {
+            "en": "In patients with CCD who require oral anticoagulation and have a low atherothrombotic risk, discontinuation of aspirin therapy with continuation of DOAC alone may be considered 1 year after PCI to reduce bleeding risk.^[a]",
+            "ru": "У пациентов с ХИБС (CCD), нуждающихся в пероральной антикоагуляции и имеющих низкий атеротромботический риск, через 1 год после ЧКВ может быть рассмотрена отмена аспирина с продолжением монотерапии ПОАК (DOAC) для снижения риска кровотечений.^[a]"
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [26]
+        },
+        {
+          "id": "r14-doac-monotherapy-stable",
+          "text": {
+            "en": "In patients with CCD who require oral anticoagulation, DOAC monotherapy may be considered if there is no acute indication for concomitant antiplatelet therapy.",
+            "ru": "У пациентов с ХИБС (CCD), нуждающихся в пероральной антикоагуляции, может быть рассмотрена монотерапия ПОАК (DOAC) при отсутствии острых показаний к сопутствующей антитромбоцитарной терапии."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [27, 28, 29]
+        }
+      ]
+    },
+    {
+      "id": "sec-antiplatelet-with-low-dose-doac",
+      "title": {
+        "en": "Antiplatelet Therapy and Low-Dose DOAC",
+        "ru": "Антитромбоцитарная терапия и низкие дозы ПОАК"
+      },
+      "rows": [
+        {
+          "id": "r15-dual-pathway-rivaroxaban-aspirin",
+          "text": {
+            "en": "In patients with CCD without an indication for therapeutic DOAC or DAPT and who are at high risk of recurrent ischemic events but low-to-moderate bleeding risk, the addition of low-dose rivaroxaban 2.5 mg twice daily to aspirin 81 mg daily is reasonable for long-term reduction of risk for MACE.",
+            "ru": "У пациентов с ХИБС (CCD) без показаний к терапевтическим дозам ПОАК или ДАТТ с высоким риском повторных ишемических событий и низким/умеренным риском кровотечений добавление низкой дозы ривароксабана 2,5 мг 2 раза в сутки к аспирину 81 мг в сутки целесообразно для долгосрочного снижения риска MACE."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [30, 31, 32]
+        }
+      ]
+    },
+    {
+      "id": "sec-dapt-and-ppi",
+      "title": {
+        "en": "DAPT and Proton Pump Inhibitor (PPI)",
+        "ru": "ДАТТ и ингибиторы протонной помпы (ИПП/PPI)"
+      },
+      "rows": [
+        {
+          "id": "r16-ppi-with-dapt",
+          "text": {
+            "en": "In patients with CCD on DAPT, the use of a PPI can be effective in reducing gastrointestinal bleeding risk.^[a]",
+            "ru": "У пациентов с ХИБС (CCD), получающих ДАТТ, применение ИПП (PPI) эффективно для снижения риска желудочно-кишечных кровотечений.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [33]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Modified from the 2016 ACC/AHA Guideline Focused Update on Duration of Dual Antiplatelet Therapy in Patients With Coronary Artery Disease.34",
+      "ru": "Адаптировано из Целевого обновления руководства ACC/AHA 2016 года по длительности двойной антитромбоцитарной терапии у пациентов с ИБС.34"
+    },
+    "b": {
+      "en": "Modified from the 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization.35",
+      "ru": "Адаптировано из Руководства ACC/AHA/SCAI по реваскуляризации миокарда 2021 года.35"
+    }
+  },
+  "source": {
+    "expectedRows": 16
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

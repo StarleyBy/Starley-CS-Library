@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt17-cardiac-rehabilitation",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 17",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Cardiac Rehabilitation",
+    "ru": "Рекомендации по кардиореабилитации"
+  },
+  "tags": [
+    "ccd",
+    "cardiac-rehabilitation",
+    "cr",
+    "mi",
+    "pci",
+    "cabg",
+    "stable-angina",
+    "heart-transplant",
+    "scad"
+  ],
+  "sections": [
+    {
+      "id": "sec-cardiac-rehabilitation",
+      "title": {
+        "en": "Cardiac Rehabilitation",
+        "ru": "Кардиореабилитация"
+      },
+      "rows": [
+        {
+          "id": "r01-cardiac-rehabilitation-referral",
+          "text": {
+            "en": "All patients with CCD and appropriate indications^[a]^[b]^[c] should be referred to a cardiac rehabilitation program to improve outcomes.",
+            "ru": "Все пациенты с ХИБС (CCD) при наличии соответствующих показаний^[a]^[b]^[c] должны направляться на программу кардиореабилитации (CR) для улучшения клинических исходов."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Level of Evidence A: After recent MI, PCI, or CABG.1-5",
+      "ru": "Уровень доказательности A: после недавнего ИМ, ЧКВ или КШ.1-5"
+    },
+    "b": {
+      "en": "Level of Evidence B-R: With stable angina2,6,7 or after heart transplant.8-13",
+      "ru": "Уровень доказательности B-R: при стабильной стенокардии2,6,7 или после трансплантации сердца.8-13"
+    },
+    "c": {
+      "en": "Level of Evidence C-LD: After recent spontaneous coronary artery dissection event.14-17",
+      "ru": "Уровень доказательности C-LD: после недавней спонтанной диссекции коронарных артерий (СДКА/SCAD).14-17"
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

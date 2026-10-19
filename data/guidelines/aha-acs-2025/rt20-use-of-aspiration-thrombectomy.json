@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt20-use-of-aspiration-thrombectomy",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 20",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Use of Aspiration Thrombectomy",
+    "ru": "Рекомендация по применению аспирационной тромбэктомии"
+  },
+  "tags": [
+    "acs",
+    "stemi",
+    "ppci",
+    "pci",
+    "thrombectomy",
+    "aspiration-thrombectomy",
+    "no-benefit"
+  ],
+  "sections": [
+    {
+      "id": "sec-aspiration-thrombectomy",
+      "title": {
+        "en": "Use of Aspiration Thrombectomy",
+        "ru": "Применение аспирационной тромбэктомии"
+      },
+      "rows": [
+        {
+          "id": "r01-stemi-manual-aspiration-thrombectomy-not-routine",
+          "text": {
+            "en": "Among patients with STEMI undergoing PPCI, manual aspiration thrombectomy should not be performed routinely prior to PCI given lack of clinical benefit.^[a]",
+            "ru": "У пациентов с ИМпST (STEMI), подвергающихся первичному ЧКВ (ПЧКВ/PPCI), рутинное выполнение мануальной аспирационной тромбэктомии перед ЧКВ не рекомендовано ввиду отсутствия клинической пользы.^[a]"
+          },
+          "class": "III-no-benefit",
+          "level": "A",
+          "refs": [1, 2, 3, 4]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "*Модифицировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt11-alcohol-and-substance-use",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 11",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Alcohol and Substance Use",
+    "ru": "Рекомендации по употреблению алкоголя и психоактивных веществ"
+  },
+  "tags": [
+    "ccd",
+    "alcohol",
+    "substance-use",
+    "ascvd",
+    "lifestyle",
+    "prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-alcohol-substance-use",
+      "title": {
+        "en": "Alcohol and Substance Use",
+        "ru": "Алкоголь и психоактивные вещества"
+      },
+      "rows": [
+        {
+          "id": "r01-routine-inquiry-substance-use",
+          "text": {
+            "en": "Patients with CCD should be routinely asked and counseled about substance use to reduce ASCVD events.",
+            "ru": "Пациентов с ХИБС (CCD) следует рутинно опрашивать и консультировать относительно употребления психоактивных веществ для снижения частоты событий АССЗ (ASCVD)."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-limit-alcohol-intake",
+          "text": {
+            "en": "In patients with CCD who consume alcohol, it is reasonable to limit alcohol intake (≤1 drink/d for women, ≤2 drinks/d for men) to reduce cardiovascular and all-cause death.",
+            "ru": "У пациентов с ХИБС (CCD), употребляющих алкоголь, целесообразно ограничить его количество (≤1 порции в день для женщин, ≤2 порций в день для мужчин) для снижения сердечно-сосудистой и общей смертности."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [6, 7, 8]
+        },
+        {
+          "id": "r03-no-alcohol-for-cardioprotection",
+          "text": {
+            "en": "Patients with CCD should not be advised to consume alcohol for the purpose of cardiovascular protection.",
+            "ru": "Пациентам с ХИБС (CCD) не следует рекомендовать употребление алкоголя с целью кардиопротекции (защиты сердца и сосудов)."
+          },
+          "class": "III-no-benefit",
+          "level": "B-NR",
+          "refs": [9, 10]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt03-management-patients-presenting-with-cardiac-arrest",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 3",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Management of Patients Presenting With Cardiac Arrest",
+    "ru": "Рекомендации по ведению пациентов с остановкой сердца при поступлении"
+  },
+  "tags": [
+    "acs",
+    "cardiac-arrest",
+    "stemi",
+    "ppci",
+    "resuscitation",
+    "comatose",
+    "coronary-angiography"
+  ],
+  "sections": [
+    {
+      "id": "sec-cardiac-arrest",
+      "title": {
+        "en": "Management of Patients Presenting With Cardiac Arrest",
+        "ru": "Ведение пациентов с остановкой сердца при поступлении"
+      },
+      "rows": [
+        {
+          "id": "r01-resuscitated-stemi-transfer-ppci-center",
+          "text": {
+            "en": "Patients with cardiac arrest and STEMI who have been resuscitated should preferentially be transferred by EMS to a PPCI-capable center.",
+            "ru": "Пациенты с остановкой сердца и ИМпST (STEMI), успешно реанимированные, должны предпочтительно транспортироваться бригадой СМП (EMS) в центр с возможностью выполнения первичного ЧКВ (ПЧКВ/PPCI)."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-resuscitated-stemi-noncomatose-or-favorable-ppci",
+          "text": {
+            "en": "Patients who have been resuscitated after cardiac arrest and are noncomatose or who are comatose with favorable prognostic features and with evidence of STEMI, should undergo PPCI to improve survival.",
+            "ru": "Пациентам, реанимированным после остановки сердца, находящимся в ясном сознании (не в коме) или находящимся в коме с благоприятными прогностическими признаками и признаками ИМпST (STEMI), следует выполнить первичное ЧКВ (ПЧКВ/PPCI) для повышения выживаемости."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r03-resuscitated-stemi-comatose-unfavorable-individualized-ppci",
+          "text": {
+            "en": "In patients with cardiac arrest who are comatose, have unfavorable prognostic features, and evidence of STEMI, PPCI may be reasonable after individualized assessment.",
+            "ru": "У пациентов с остановкой сердца, находящихся в коме, с неблагоприятными прогностическими признаками и признаками ИМпST (STEMI), выполнение первичного ЧКВ (ПЧКВ/PPCI) может быть целесообразным после индивидуализированной клинической оценки."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [4, 7]
+        },
+        {
+          "id": "r04-resuscitated-comatose-stable-no-stemi-no-immediate-angiography",
+          "text": {
+            "en": "In resuscitated patients who are comatose after cardiac arrest, electrically and hemodynamically stable, and without evidence of STEMI, immediate angiography is not recommended due to lack of benefit.",
+            "ru": "У реанимированных пациентов, находящихся в коме после остановки сердца, электрически и гемодинамически стабильных и без признаков ИМпST (STEMI), немедленная коронарография не рекомендуется ввиду отсутствия клинической пользы."
+          },
+          "class": "III-no-benefit",
+          "level": "A",
+          "refs": [8, 9, 10, 11, 12, 13, 14]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

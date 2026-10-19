@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt32-cardiac-rehabilitation",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 32",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for CR",
+    "ru": "Рекомендации по кардиореабилитации (КР/CR)"
+  },
+  "tags": [
+    "acs",
+    "cardiac-rehabilitation",
+    "cr",
+    "secondary-prevention",
+    "outpatient-cr",
+    "home-based-cr",
+    "qol"
+  ],
+  "sections": [
+    {
+      "id": "sec-cardiac-rehabilitation",
+      "title": {
+        "en": "Cardiac Rehabilitation",
+        "ru": "Кардиореабилитация (КР/CR)"
+      },
+      "rows": [
+        {
+          "id": "r01-outpatient-cr-referral-prior-to-discharge",
+          "text": {
+            "en": "Patients with ACS should be referred to an outpatient CR program prior to hospital discharge to reduce death, MI, hospital readmissions, and improve functional status and QOL.",
+            "ru": "Пациенты с ОКС должны быть направлены на амбулаторную программу кардиореабилитации (КР/CR) до выписки из стационара для снижения риска смерти, ИМ, повторных госпитализаций, а также для улучшения функционального статуса и качества жизни (QOL)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-home-based-cr-alternative",
+          "text": {
+            "en": "In patients with ACS, a home-based CR program is a reasonable alternative to a center-based CR program to improve functional status and QOL.",
+            "ru": "У пациентов с ОКС домашняя программа кардиореабилитации является разумной альтернативой реабилитации на базе медицинского центра для улучшения функционального статуса и качества жизни (QOL)."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [5, 6, 7, 8, 9]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

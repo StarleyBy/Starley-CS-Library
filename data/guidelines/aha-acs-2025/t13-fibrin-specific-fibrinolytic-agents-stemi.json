@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t13-fibrin-specific-fibrinolytic-agents-stemi",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 13",
+  "type": "grid",
+  "title": {
+    "en": "Fibrin-Specific Fibrinolytic Agents for STEMI",
+    "ru": "Фибрин-специфичные фибринолитические препараты при ИМпST (STEMI)"
+  },
+  "tags": [
+    "acs",
+    "stemi",
+    "fibrinolysis",
+    "tenecteplase",
+    "reteplase",
+    "alteplase",
+    "tnk-tpa",
+    "rpa",
+    "tpa",
+    "dosing"
+  ],
+  "columns": [
+    {
+      "id": "agent",
+      "title": {
+        "en": "Fibrinolytic Agent",
+        "ru": "Фибринолитический препарат"
+      }
+    },
+    {
+      "id": "dose",
+      "title": {
+        "en": "Dose",
+        "ru": "Дозирование"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-tenecteplase",
+      "cells": [
+        {
+          "text": {
+            "en": "Tenecteplase (TNK-tPA)",
+            "ru": "Тенектеплаза (TNK-tPA)"
+          }
+        },
+        {
+          "text": {
+            "en": "Single IV weight-based bolus^[a]",
+            "ru": "Однократный в/в болюс с расчетом по массе тела^[a]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-reteplase",
+      "cells": [
+        {
+          "text": {
+            "en": "Reteplase (rPA)",
+            "ru": "Ретеплаза (rPA)"
+          }
+        },
+        {
+          "text": {
+            "en": "Two 10-unit IV boluses given 30 min apart (administered over 2 min)",
+            "ru": "Два в/в болюса по 10 единиц с интервалом 30 мин (каждый вводится в течение 2 мин)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-alteplase",
+      "cells": [
+        {
+          "text": {
+            "en": "Alteplase (tPA)",
+            "ru": "Альтеплаза (tPA)"
+          }
+        },
+        {
+          "text": {
+            "en": "90-min weight-based infusion^[b]",
+            "ru": "90-минутная инфузия с расчетом по массе тела^[b]"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*30 mg for weight <60 kg; 35 mg for 60-69 kg; 40 mg for 70-79 kg; 45 mg for 80-89 kg; and 50 mg for ≥90 kg.",
+      "ru": "*30 мг при массе тела <60 кг; 35 мг при 60–69 кг; 40 мг при 70–79 кг; 45 мг при 80–89 кг; 50 мг при ≥90 кг."
+    },
+    "b": {
+      "en": "†Adults ≥67 kg: 100-mg total dosage administered as a 15-mg IV bolus, followed by 50-mg IV infused over 30 min, and then 35-mg IV infused over the next 60 min. Adults <67 kg: 15-mg IV bolus, followed by 0.75 mg/kg IV (not to exceed 50 mg) infused over 30 min, and then 0.5 mg/kg IV (not to exceed 35 mg) over the next 60 min.",
+      "ru": "†Взрослые ≥67 кг: суммарная доза 100 мг: в/в болюс 15 мг, затем инфузия 50 мг в/в за 30 мин, затем инфузия 35 мг в/в за следующие 60 мин. Взрослые <67 кг: в/в болюс 15 мг, затем инфузия 0,75 мг/кг в/в (не более 50 мг) за 30 мин, затем инфузия 0,5 мг/кг в/в (не более 35 мг) за следующие 60 мин."
+    }
+  },
+  "notes": {
+    "streptokinase-availability": {
+      "target": "table",
+      "title": {
+        "en": "Availability Remark",
+        "ru": "Доступность препаратов"
+      },
+      "text": {
+        "en": "Streptokinase is no longer available in the United States.",
+        "ru": "Стрептокиназа больше не доступна в США."
+      }
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

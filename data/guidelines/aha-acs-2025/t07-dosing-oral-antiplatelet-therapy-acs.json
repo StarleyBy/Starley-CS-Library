@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t07-dosing-oral-antiplatelet-therapy-acs",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 7",
+  "type": "grid",
+  "title": {
+    "en": "Dosing Considerations for Oral Antiplatelet Therapy in Patients With ACS",
+    "ru": "Режимы дозирования пероральной антитромбоцитарной терапии у пациентов с ОКС"
+  },
+  "tags": [
+    "acs",
+    "antiplatelet",
+    "aspirin",
+    "clopidogrel",
+    "prasugrel",
+    "ticagrelor",
+    "dosing",
+    "loading-dose",
+    "maintenance-dose",
+    "fibrinolysis",
+    "pci"
+  ],
+  "columns": [
+    {
+      "id": "agent",
+      "title": {
+        "en": "Agent",
+        "ru": "Препарат"
+      }
+    },
+    {
+      "id": "setting",
+      "title": {
+        "en": "Setting",
+        "ru": "Клиническая ситуация / популяция"
+      }
+    },
+    {
+      "id": "dosing",
+      "title": {
+        "en": "Dosing Considerations",
+        "ru": "Режим дозирования"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-aspirin",
+      "cells": [
+        {
+          "text": {
+            "en": "Aspirin",
+            "ru": "Аспирин (ацетилсалициловая кислота)"
+          }
+        },
+        {
+          "text": {
+            "en": "NSTE-ACS or STEMI",
+            "ru": "ОКСбпST (NSTE-ACS) или ИМпST (STEMI)"
+          }
+        },
+        {
+          "text": {
+            "en": "Loading dose 162-325 mg orally. Aspirin (nonenteric coated) should be chewed, when possible, to achieve faster onset of antiplatelet action. Loading dose should be administered for patients already on aspirin therapy.\n\nMaintenance dose 75-100 mg orally daily (nonenteric coated)",
+            "ru": "Нагрузочная доза 162–325 мг перорально. Аспирин (без кишечнорастворимой оболочки) следует по возможности разжевать для более быстрого начала антиагрегантного действия. Нагрузочную дозу следует принять даже пациентам, уже находящимся на терапии аспирином.\n\nПоддерживающая доза 75–100 мг перорально 1 раз в сутки (без кишечнорастворимой оболочки)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-clopidogrel-no-fibrinolytic",
+      "cells": [
+        {
+          "text": {
+            "en": "Clopidogrel",
+            "ru": "Клопидогрел"
+          }
+        },
+        {
+          "text": {
+            "en": "NSTE-ACS or STEMI without fibrinolytic",
+            "ru": "ОКСбпST или ИМпST без проведения фибринолиза"
+          }
+        },
+        {
+          "text": {
+            "en": "Loading dose 300 or 600 mg orally\n\nMaintenance 75 mg orally daily",
+            "ru": "Нагрузочная доза 300 или 600 мг перорально\n\nПоддерживающая доза 75 мг перорально 1 раз в сутки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-clopidogrel-with-fibrinolytic",
+      "cells": [
+        {
+          "text": {
+            "en": "Clopidogrel",
+            "ru": "Клопидогрел"
+          }
+        },
+        {
+          "text": {
+            "en": "STEMI with fibrinolytic",
+            "ru": "ИМпST с проведением фибринолитической терапии"
+          }
+        },
+        {
+          "text": {
+            "en": "Loading dose 300 mg orally if age ≤75 y; Initial dose 75 mg orally if age >75 y\n\nMaintenance 75 mg orally daily",
+            "ru": "Нагрузочная доза 300 мг перорально при возрасте ≤75 лет; начальная доза 75 мг перорально при возрасте >75 лет\n\nПоддерживающая доза 75 мг перорально 1 раз в сутки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-prasugrel",
+      "cells": [
+        {
+          "text": {
+            "en": "Prasugrel",
+            "ru": "Прасугрел"
+          }
+        },
+        {
+          "text": {
+            "en": "NSTE-ACS or STEMI without fibrinolytic, and undergoing PCI",
+            "ru": "ОКСбпST или ИМпST без фибринолиза при проведении ЧКВ (PCI)"
+          }
+        },
+        {
+          "text": {
+            "en": "Loading dose 60 mg orally\n\nMaintenance dose 10 mg orally daily if body weight ≥60 kg and age <75 y\n\nMaintenance dose 5 mg orally daily if body weight <60 kg or age ≥75 y (use caution)",
+            "ru": "Нагрузочная доза 60 мг перорально\n\nПоддерживающая доза 10 мг перорально 1 раз в сутки при массе тела ≥60 кг и возрасте <75 лет\n\nПоддерживающая доза 5 мг перорально 1 раз в сутки при массе тела <60 кг или возрасте ≥75 лет (с осторожностью)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-ticagrelor",
+      "cells": [
+        {
+          "text": {
+            "en": "Ticagrelor",
+            "ru": "Тикагрелор"
+          }
+        },
+        {
+          "text": {
+            "en": "NSTE-ACS or STEMI without fibrinolytic",
+            "ru": "ОКСбпST или ИМпST без проведения фибринолиза"
+          }
+        },
+        {
+          "text": {
+            "en": "Loading dose 180 mg orally\n\nMaintenance dose 90 mg orally twice daily",
+            "ru": "Нагрузочная доза 180 мг перорально\n\nПоддерживающая доза 90 мг перорально 2 раза в сутки"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

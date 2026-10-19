@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t09-transition-cangrelor-to-oral-p2y12-inhibitor",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 9",
+  "type": "grid",
+  "title": {
+    "en": "Transition From Intravenous Cangrelor Infusion to Oral P2Y12 Inhibitor^[a]",
+    "ru": "Переход с внутривенной инфузии кангрелора на пероральный ингибитор P2Y12^[a]"
+  },
+  "tags": [
+    "acs",
+    "cangrelor",
+    "clopidogrel",
+    "prasugrel",
+    "ticagrelor",
+    "transition",
+    "loading-dose",
+    "antiplatelet"
+  ],
+  "columns": [
+    {
+      "id": "agent",
+      "title": {
+        "en": "Oral P2Y12 inhibitor",
+        "ru": "Пероральный ингибитор P2Y12"
+      }
+    },
+    {
+      "id": "loading-dose",
+      "title": {
+        "en": "Loading Dose",
+        "ru": "Нагрузочная доза"
+      }
+    },
+    {
+      "id": "timing",
+      "title": {
+        "en": "Timing of Loading Dose Administration",
+        "ru": "Время введения нагрузочной дозы"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-clopidogrel",
+      "cells": [
+        {
+          "text": {
+            "en": "Clopidogrel",
+            "ru": "Клопидогрел"
+          }
+        },
+        {
+          "text": {
+            "en": "600 mg",
+            "ru": "600 мг"
+          }
+        },
+        {
+          "text": {
+            "en": "Immediately after discontinuation of cangrelor",
+            "ru": "Сразу после прекращения инфузии кангрелора"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-prasugrel",
+      "cells": [
+        {
+          "text": {
+            "en": "Prasugrel",
+            "ru": "Прасугрел"
+          }
+        },
+        {
+          "text": {
+            "en": "60 mg",
+            "ru": "60 мг"
+          }
+        },
+        {
+          "text": {
+            "en": "Immediately after discontinuation of cangrelor",
+            "ru": "Сразу после прекращения инфузии кангрелора"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-ticagrelor",
+      "cells": [
+        {
+          "text": {
+            "en": "Ticagrelor",
+            "ru": "Тикагрелор"
+          }
+        },
+        {
+          "text": {
+            "en": "180 mg",
+            "ru": "180 мг"
+          }
+        },
+        {
+          "text": {
+            "en": "At any time during or immediately after discontinuation of cangrelor",
+            "ru": "В любой момент во время или сразу после прекращения инфузии кангрелора"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Recommendations in table obtained from US Food and Drug Administration labeling for cangrelor.",
+      "ru": "Рекомендации в таблице основаны на инструкции по медицинскому применению кангрелора Управления по контролю качества пищевых продуктов и медикаментов США (FDA)."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

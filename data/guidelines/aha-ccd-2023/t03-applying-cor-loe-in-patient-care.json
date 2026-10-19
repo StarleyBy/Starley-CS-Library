@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t03-applying-cor-loe-in-patient-care",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 3",
+  "type": "grid",
+  "title": {
+    "en": "Applying the American College of Cardiology/American Heart Association Class of Recommendation and Level of Evidence to Clinical Strategies, Interventions, Treatments, or Diagnostic Testing in Patient Care^[a] (Updated May 2019)",
+    "ru": "Применение классов рекомендаций и уровней доказательности ACC/AHA к клиническим стратегиям, вмешательствам, методам лечения или диагностическим тестам^[a] (обновлено в мае 2019 г.)"
+  },
+  "tags": [
+    "cor",
+    "loe",
+    "methodology",
+    "evidence-levels",
+    "recommendation-classes",
+    "acc-aha",
+    "rct",
+    "clinical-practice"
+  ],
+  "columns": [
+    {
+      "id": "category",
+      "title": {
+        "en": "Classification / Level",
+        "ru": "Класс рекомендации / Уровень доказательности"
+      }
+    },
+    {
+      "id": "description",
+      "title": {
+        "en": "Definition and Suggested Phrases for Recommendations",
+        "ru": "Определение и рекомендуемые формулировки"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-class-strength",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**CLASS (STRENGTH) OF RECOMMENDATION**",
+            "ru": "**КЛАСС (СИЛА) РЕКОМЕНДАЦИИ**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01-class-1-strong",
+      "cells": [
+        {
+          "text": {
+            "en": "**CLASS 1 (STRONG)**\nBenefit >>> Risk",
+            "ru": "**КЛАСС 1 (СИЛЬНАЯ)**\nПольза >>> Риск"
+          }
+        },
+        {
+          "text": {
+            "en": "**Suggested phrases for writing recommendations:**\n• Is recommended\n• Is indicated/useful/effective/beneficial\n• Should be performed/administered/other\n• Comparative-Effectiveness Phrases^[b]:\n  – Treatment/strategy A is recommended/indicated in preference to treatment B\n  – Treatment A should be chosen over treatment B",
+            "ru": "**Рекомендуемые формулировки:**\n• Рекомендуется\n• Показан / полезен / эффективен / имеет клиническую пользу\n• Следует выполнять / назначать\n• Формулировки сравнительной эффективности^[b]:\n  – Лечение/стратегия А рекомендуется/показана предпочтительнее лечения B\n  – Лечение А должно быть выбрано вместо лечения B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-class-2a-moderate",
+      "cells": [
+        {
+          "text": {
+            "en": "**CLASS 2a (MODERATE)**\nBenefit >> Risk",
+            "ru": "**КЛАСС 2a (УМЕРЕННАЯ)**\nПольза >> Риск"
+          }
+        },
+        {
+          "text": {
+            "en": "**Suggested phrases for writing recommendations:**\n• Is reasonable\n• Can be useful/effective/beneficial\n• Comparative-Effectiveness Phrases^[b]:\n  – Treatment/strategy A is probably recommended/indicated in preference to treatment B\n  – It is reasonable to choose treatment A over treatment B",
+            "ru": "**Рекомендуемые формулировки:**\n• Целесообразно / обоснованно\n• Может быть полезным / эффективным\n• Формулировки сравнительной эффективности^[b]:\n  – Лечение/стратегия А, вероятно, рекомендуется/показана предпочтительнее лечения B\n  – Целесообразно выбрать лечение А вместо лечения B"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-class-2b-weak",
+      "cells": [
+        {
+          "text": {
+            "en": "**CLASS 2b (WEAK)**\nBenefit ≥ Risk",
+            "ru": "**КЛАСС 2b (СЛАБАЯ)**\nПольза ≥ Риск"
+          }
+        },
+        {
+          "text": {
+            "en": "**Suggested phrases for writing recommendations:**\n• May/might be reasonable\n• May/might be considered\n• Usefulness/effectiveness is unknown/unclear/uncertain or not well-established",
+            "ru": "**Рекомендуемые формулировки:**\n• Может быть обоснованным\n• Может быть рассмотрено\n• Полезность/эффективность неизвестна / неясна / не доказана убедительно"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-class-3-no-benefit",
+      "cells": [
+        {
+          "text": {
+            "en": "**CLASS 3: No Benefit (MODERATE)**\nBenefit = Risk\n*(Generally, LOE A or B use only)*",
+            "ru": "**КЛАСС 3: Нет пользы (УМЕРЕННАЯ)**\nПольза = Риск\n*(Как правило, применяется только при LOE A или B)*"
+          }
+        },
+        {
+          "text": {
+            "en": "**Suggested phrases for writing recommendations:**\n• Is not recommended\n• Is not indicated/useful/effective/beneficial\n• Should not be performed/administered/other",
+            "ru": "**Рекомендуемые формулировки:**\n• Не рекомендуется\n• Не показан / не является полезным или эффективным\n• Не должен выполняться / назначаться"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-class-3-harm",
+      "cells": [
+        {
+          "text": {
+            "en": "**CLASS 3: Harm (STRONG)**\nRisk > Benefit",
+            "ru": "**КЛАСС 3: Вред (СИЛЬНАЯ)**\nРиск > Польза"
+          }
+        },
+        {
+          "text": {
+            "en": "**Suggested phrases for writing recommendations:**\n• Potentially harmful\n• Causes harm\n• Associated with excess morbidity/mortality\n• Should not be performed/administered/other",
+            "ru": "**Рекомендуемые формулировки:**\n• Потенциально вредно\n• Наносит вред\n• Ассоциировано с повышенной заболеваемостью/смертностью\n• Не должно выполняться / назначаться"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-level-quality",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**LEVEL (QUALITY) OF EVIDENCE**^[c]",
+            "ru": "**УРОВЕНЬ (КАЧЕСТВО) ДОКАЗАТЕЛЬСТВ**^[c]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-level-a",
+      "cells": [
+        {
+          "text": {
+            "en": "**LEVEL A**",
+            "ru": "**УРОВЕНЬ A**"
+          }
+        },
+        {
+          "text": {
+            "en": "• High-quality evidence^[c] from more than 1 RCT\n• Meta-analyses of high-quality RCTs\n• One or more RCTs corroborated by high-quality registry studies",
+            "ru": "• Высококачественные доказательства^[c] из более чем 1 РКИ (RCT)\n• Метаанализы высококачественных РКИ\n• Одно или несколько РКИ, подтвержденных качественными регистровыми исследованиями"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-level-b-r",
+      "cells": [
+        {
+          "text": {
+            "en": "**LEVEL B-R (Randomized)**",
+            "ru": "**УРОВЕНЬ B-R (Рандомизированные)**"
+          }
+        },
+        {
+          "text": {
+            "en": "• Moderate-quality evidence^[c] from 1 or more RCTs\n• Meta-analyses of moderate-quality RCTs",
+            "ru": "• Умеренно качественные доказательства^[c] из 1 или более РКИ\n• Метаанализы РКИ умеренного качества"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-level-b-nr",
+      "cells": [
+        {
+          "text": {
+            "en": "**LEVEL B-NR (Nonrandomized)**",
+            "ru": "**УРОВЕНЬ B-NR (Нерандомизированные)**"
+          }
+        },
+        {
+          "text": {
+            "en": "• Moderate-quality evidence^[c] from 1 or more well-designed, well-executed nonrandomized studies, observational studies, or registry studies\n• Meta-analyses of such studies",
+            "ru": "• Умеренно качественные доказательства^[c] из 1 или более хорошо спланированных и выполненных нерандомизированных, обсервационных или регистровых исследований\n• Метаанализы таких исследований"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-level-c-ld",
+      "cells": [
+        {
+          "text": {
+            "en": "**LEVEL C-LD (Limited Data)**",
+            "ru": "**УРОВЕНЬ C-LD (Ограниченные данные)**"
+          }
+        },
+        {
+          "text": {
+            "en": "• Randomized or nonrandomized observational or registry studies with limitations of design or execution\n• Meta-analyses of such studies\n• Physiological or mechanistic studies in human subjects",
+            "ru": "• Рандомизированные или нерандомизированные обсервационные или регистровые исследования с ограничениями дизайна или выполнения\n• Метаанализы таких исследований\n• Физиологические или патофизиологические/механистические исследования на людях"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-level-c-eo",
+      "cells": [
+        {
+          "text": {
+            "en": "**LEVEL C-EO (Expert Opinion)**",
+            "ru": "**УРОВЕНЬ C-EO (Мнение экспертов)**"
+          }
+        },
+        {
+          "text": {
+            "en": "• Consensus of expert opinion based on clinical experience",
+            "ru": "• Консенсус мнений экспертов на основе клинического опыта"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*The outcome or result of the intervention should be specified (an improved clinical outcome or increased diagnostic accuracy or incremental prognostic information).",
+      "ru": "*Исход или результат вмешательства должен быть точно определен (улучшение клинических исходов, повышение диагностической точности или дополнительная прогностическая информация)."
+    },
+    "b": {
+      "en": "†For comparative-effectiveness recommendations (COR 1 and 2a; LOE A and B only), studies that support the use of comparator verbs should involve direct comparisons of the treatments or strategies being evaluated.",
+      "ru": "†Для рекомендаций по сравнительной эффективности (COR 1 и 2a; только при LOE A и B) исследования, поддерживающие использование сравнительных формулировок, должны включать прямое сравнение оцениваемых методов лечения или стратегий."
+    },
+    "c": {
+      "en": "‡The method of assessing quality is evolving, including the application of standardized, widely-used, and preferably validated evidence grading tools; and for systematic reviews, the incorporation of an Evidence Review Committee.",
+      "ru": "‡Методология оценки качества развивается, включая применение стандартизированных, широко используемых и валидированных шкал градации доказательств, а для систематических обзоров — привлечение Комитета по экспертизе доказательств."
+    }
+  },
+  "notes": {
+    "cor-loe-principles": {
+      "target": "table",
+      "title": {
+        "en": "COR and LOE Determination Principles",
+        "ru": "Принципы определения COR и LOE"
+      },
+      "text": {
+        "en": "COR and LOE are determined independently (any COR may be paired with any LOE). A recommendation with LOE C does not imply that the recommendation is weak. Many important clinical questions addressed in guidelines do not lend themselves to clinical trials. Although RCTs are unavailable, there may be a very clear clinical consensus that a particular test or therapy is useful or effective.",
+        "ru": "Класс рекомендаций (COR) и уровень доказательности (LOE) определяются независимо (любой COR может сочетаться с любым LOE). Рекомендация с LOE C не означает, что она слабая: многие важные клинические вопросы не могут быть изучены в РКИ, но при этом существует четкий клинический консенсус об их пользе или эффективности."
+      }
+    }
+  },
+  "source": {
+    "expectedRows": 12
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t15-clinical-criteria-microvascular-angina",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 15",
+  "type": "grid",
+  "title": {
+    "en": "Clinical Criteria for Suspecting Microvascular Angina",
+    "ru": "Клинические критерии подозрения на микроваскулярную стенокардию"
+  },
+  "tags": [
+    "ccd",
+    "microvascular-angina",
+    "inoca",
+    "cmd",
+    "cfr",
+    "imr",
+    "timi-frame-count",
+    "acetylcholine",
+    "diagnostic-criteria"
+  ],
+  "columns": [
+    {
+      "id": "criteria",
+      "title": {
+        "en": "Criteria",
+        "ru": "Критерий"
+      }
+    },
+    {
+      "id": "evidence",
+      "title": {
+        "en": "Evidence",
+        "ru": "Категория признаков"
+      }
+    },
+    {
+      "id": "parameters",
+      "title": {
+        "en": "Diagnostic Parameters",
+        "ru": "Диагностические параметры"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "criteria-1-symptoms-ischemia",
+      "cells": [
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        },
+        {
+          "text": {
+            "en": "Symptoms of myocardial ischemia",
+            "ru": "Симптомы ишемии миокарда"
+          }
+        },
+        {
+          "text": {
+            "en": "Effort or rest angina; exertional dyspnea",
+            "ru": "Стенокардия напряжения или покоя; одышка при физической нагрузке"
+          }
+        }
+      ]
+    },
+    {
+      "id": "criteria-2-absence-obstructive-cad",
+      "cells": [
+        {
+          "text": {
+            "en": "2",
+            "ru": "2"
+          }
+        },
+        {
+          "text": {
+            "en": "Absence of obstructive CAD (<50% diameter reduction or FFR >0.80)",
+            "ru": "Отсутствие обструктивной ИБС (<50% сужения диаметра или ФРК/FFR >0,80)"
+          }
+        },
+        {
+          "text": {
+            "en": "Coronary CTA; invasive coronary angiography",
+            "ru": "КТ-коронарография; инвазивная коронарография"
+          }
+        }
+      ]
+    },
+    {
+      "id": "criteria-3-objective-evidence-ischemia",
+      "cells": [
+        {
+          "text": {
+            "en": "3",
+            "ru": "3"
+          }
+        },
+        {
+          "text": {
+            "en": "Objective evidence of myocardial ischemia",
+            "ru": "Объективные признаки ишемии миокарда"
+          }
+        },
+        {
+          "text": {
+            "en": "Ischemic changes on ECG during an episode of chest pain; stress-induced chest pain and/or ischemic changes on ECG in the presence or absence of transient/reversible abnormal myocardial perfusion and/or wall motion abnormality",
+            "ru": "Ишемические изменения на ЭКГ во время приступа боли в груди; индуцированная нагрузкой боль в груди и/или ишемические сдвиги на ЭКГ при наличии или отсутствии преходящих нарушений перфузии миокарда и/или локальной сократимости"
+          }
+        }
+      ]
+    },
+    {
+      "id": "criteria-4-impaired-microvascular-function",
+      "cells": [
+        {
+          "text": {
+            "en": "4",
+            "ru": "4"
+          }
+        },
+        {
+          "text": {
+            "en": "Evidence of impaired coronary microvascular function",
+            "ru": "Признаки нарушения коронарной микрососудистой функции"
+          }
+        },
+        {
+          "text": {
+            "en": "Impaired coronary flow reserve (cut-off value depending on methodology between ≤2.0 and ≤2.5); coronary microvascular spasm, defined as reproduction of symptoms, ischemic shifts on ECG but no epicardial spasm during acetylcholine testing; abnormal coronary microvascular resistance indices (eg, IMR >25); coronary slow flow phenomenon, defined as TIMI frame count >25^[a]",
+            "ru": "Снижение коронарного резерва кровотока (пороговое значение в зависимости от методики от ≤2,0 до ≤2,5); микрососудистый коронарный спазм (воспроизведение симптомов и ишемических изменений на ЭКГ без эпикардиального спазма при тесте с ацетилхолином); патологические индексы микрососудистого сопротивления (например, IMR >25); феномен замедленного коронарного кровотока (TIMI frame count >25)^[a]"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Definitive microvascular angina is only diagnosed if all 4 criteria are present. Suspected microvascular angina is diagnosed if symptoms of ischemia are present (criteria 1) with no obstructive CAD (criteria 2) but only (a) objective evidence of myocardial ischemia (criteria 3) or (b) evidence of impaired coronary microvascular function (criteria 4) alone.",
+      "ru": "Определенный диагноз микроваскулярной стенокардии устанавливается только при наличии всех 4 критериев. Подозрение на микроваскулярную стенокардию устанавливается при наличии симптомов ишемии (критерий 1) и отсутствии обструктивной ИБС (критерий 2) в сочетании только с (а) объективными признаками ишемии миокарда (критерий 3) или (б) признаками нарушения микрососудистой функции (критерий 4)."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

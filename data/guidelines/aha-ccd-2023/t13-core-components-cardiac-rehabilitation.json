@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t13-core-components-cardiac-rehabilitation",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 13",
+  "type": "grid",
+  "title": {
+    "en": "Core Components of CR",
+    "ru": "Ключевые компоненты кардиореабилитации (CR)"
+  },
+  "tags": [
+    "ccd",
+    "cardiac-rehabilitation",
+    "lifestyle",
+    "exercise",
+    "prevention"
+  ],
+  "columns": [
+    {
+      "id": "component",
+      "title": {
+        "en": "Core Component",
+        "ru": "Ключевой компонент программы"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "patient-assessment",
+      "cells": [
+        {
+          "text": {
+            "en": "Patient assessment",
+            "ru": "Клиническая оценка состояния пациента"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nutritional-counseling",
+      "cells": [
+        {
+          "text": {
+            "en": "Nutritional counseling",
+            "ru": "Консультирование по вопросам питания"
+          }
+        }
+      ]
+    },
+    {
+      "id": "weight-management",
+      "cells": [
+        {
+          "text": {
+            "en": "Weight management",
+            "ru": "Контроль массы тела"
+          }
+        }
+      ]
+    },
+    {
+      "id": "blood-pressure-management",
+      "cells": [
+        {
+          "text": {
+            "en": "Blood pressure management",
+            "ru": "Контроль артериального давления"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lipid-management",
+      "cells": [
+        {
+          "text": {
+            "en": "Lipid management",
+            "ru": "Контроль липидного профиля"
+          }
+        }
+      ]
+    },
+    {
+      "id": "diabetes-management",
+      "cells": [
+        {
+          "text": {
+            "en": "Diabetes management",
+            "ru": "Контроль сахарного диабета"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tobacco-cessation",
+      "cells": [
+        {
+          "text": {
+            "en": "Tobacco cessation",
+            "ru": "Отказ от курения табака"
+          }
+        }
+      ]
+    },
+    {
+      "id": "psychosocial-management",
+      "cells": [
+        {
+          "text": {
+            "en": "Psychosocial management",
+            "ru": "Психосоциальная поддержка и ведение"
+          }
+        }
+      ]
+    },
+    {
+      "id": "physical-activity-counseling",
+      "cells": [
+        {
+          "text": {
+            "en": "Physical activity counseling",
+            "ru": "Консультирование по физической активности"
+          }
+        }
+      ]
+    },
+    {
+      "id": "exercise-training",
+      "cells": [
+        {
+          "text": {
+            "en": "Exercise training",
+            "ru": "Физические тренировки (дозированные нагрузки)"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 10
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

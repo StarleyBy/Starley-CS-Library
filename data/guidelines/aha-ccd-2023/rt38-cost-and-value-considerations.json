@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt38-cost-and-value-considerations",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 38",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Cost and Value Considerations",
+    "ru": "Рекомендации по учету стоимости и ценности медицинской помощи"
+  },
+  "tags": [
+    "ccd",
+    "cost-and-value",
+    "out-of-pocket-costs",
+    "medication-adherence",
+    "shared-decision-making"
+  ],
+  "sections": [
+    {
+      "id": "sec-cost-and-value",
+      "title": {
+        "en": "Cost and Value Considerations",
+        "ru": "Вопросы стоимости и ценности медицинской помощи"
+      },
+      "rows": [
+        {
+          "id": "r01-discuss-out-of-pocket-costs",
+          "text": {
+            "en": "When discussing treatment and prevention with patients who have CCD, it is recommended that the health care team discuss out-of-pocket costs for medications at the time of initiating a new medication and at least annually thereafter to preempt cost-related nonadherence.",
+            "ru": "При обсуждении лечения и профилактики с пациентами с ХКИ (CCD) медицинской бригаде рекомендуется обсуждать личные расходы пациента на приобретение лекарственных препаратов при назначении новой терапии и в последующем не реже одного раза в год для упреждения связанного со стоимостью снижения приверженности лечению."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

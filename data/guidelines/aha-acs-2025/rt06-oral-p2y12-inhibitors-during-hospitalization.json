@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt06-oral-p2y12-inhibitors-during-hospitalization",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 6",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Oral P2Y12 Inhibitors During Hospitalization",
+    "ru": "Рекомендации по применению пероральных ингибиторов P2Y12 во время госпитализации"
+  },
+  "tags": [
+    "acs",
+    "antiplatelet",
+    "p2y12",
+    "clopidogrel",
+    "prasugrel",
+    "ticagrelor",
+    "stemi",
+    "nste-acs",
+    "pci",
+    "ppci",
+    "upstream",
+    "stroke",
+    "tia"
+  ],
+  "sections": [
+    {
+      "id": "sec-all-patients-acs",
+      "title": {
+        "en": "All Patients With ACS (STEMI and NSTE-ACS)",
+        "ru": "Все пациенты с ОКС (ИМпST и ОКСбпST)"
+      },
+      "rows": [
+        {
+          "id": "r01-oral-p2y12-in-addition-to-aspirin",
+          "text": {
+            "en": "In patients with ACS, an oral P2Y12 inhibitor should be administered in addition to aspirin to reduce MACE.",
+            "ru": "У пациентов с ОКС пероральный ингибитор P2Y12 должен назначаться в дополнение к аспирину для снижения частоты больших неблагоприятных сердечно-сосудистых событий (MACE)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-history-stroke-tia-no-prasugrel",
+          "text": {
+            "en": "In patients with a history of stroke or transient ischemic attack, prasugrel should not be administered because of worse net clinical outcomes.^[a]^[b]",
+            "ru": "У пациентов с инсультом или транзиторной ишемической атакой (ТИА/TIA) в анамнезе прасугрел не должен применяться из-за ухудшения чистой клинической пользы (повышения риска неблагоприятных исходов).^[a]^[b]"
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [4]
+        }
+      ]
+    },
+    {
+      "id": "sec-in-hospital-nste-acs",
+      "title": {
+        "en": "In-Hospital Management in Patients With NSTE-ACS",
+        "ru": "Госпитальное ведение пациентов с ОКСбпST (NSTE-ACS)"
+      },
+      "rows": [
+        {
+          "id": "r03-nste-acs-pci-prasugrel-or-ticagrelor",
+          "text": {
+            "en": "In patients with NSTE-ACS undergoing PCI, prasugrel or ticagrelor is recommended to reduce MACE and stent thrombosis.",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS), подвергающихся ЧКВ (PCI), рекомендуется прасугрел или тикагрелор для снижения частоты MACE и тромбоза стента."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [4, 5, 6]
+        },
+        {
+          "id": "r04-nste-acs-no-planned-invasive-ticagrelor",
+          "text": {
+            "en": "In patients with NSTE-ACS who are managed without planned invasive evaluation, ticagrelor is recommended to reduce MACE.",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS), которые ведутся без запланированного инвазивного обследования (консервативно), рекомендуется тикагрелор для снижения частоты MACE."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [5, 7]
+        },
+        {
+          "id": "r05-nste-acs-clopidogrel-if-prasugrel-ticagrelor-contraindicated",
+          "text": {
+            "en": "In patients with NSTE-ACS, clopidogrel is recommended to reduce MACE when prasugrel or ticagrelor are unavailable, cannot be tolerated, or are contraindicated.",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS) рекомендуется клопидогрел для снижения частоты MACE, если прасугрел или тикагрелор недоступны, не переносятся или противопоказаны."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1]
+        },
+        {
+          "id": "r06-nste-acs-angiography-over-24h-upstream-clopidogrel-ticagrelor",
+          "text": {
+            "en": "In patients with NSTE-ACS planned for an invasive strategy with timing of angiography anticipated to be >24 hours, upstream treatment with clopidogrel or ticagrelor may be considered to reduce MACE.",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS), которым планируется инвазивная стратегия с ожидаемым временем до коронарографии >24 часов, может быть рассмотрена предварительная (upstream) терапия клопидогрелом или тикагрелором для снижения частоты MACE."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [1, 5, 8]
+        }
+      ]
+    },
+    {
+      "id": "sec-in-hospital-stemi",
+      "title": {
+        "en": "In-Hospital Management in Patients With STEMI",
+        "ru": "Госпитальное ведение пациентов с ИМпST (STEMI)"
+      },
+      "rows": [
+        {
+          "id": "r07-stemi-ppci-prasugrel-or-ticagrelor",
+          "text": {
+            "en": "In patients with STEMI managed with PPCI, prasugrel or ticagrelor should be administered to reduce MACE and stent thrombosis.",
+            "ru": "У пациентов с ИМпST (STEMI), которым выполняется первичное ЧКВ (ПЧКВ/PPCI), следует назначать прасугрел или тикагрелор для снижения частоты MACE и тромбоза стента."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [4, 5, 9, 10]
+        },
+        {
+          "id": "r08-stemi-ppci-clopidogrel-fallback",
+          "text": {
+            "en": "In patients with STEMI managed with PPCI, clopidogrel is recommended to reduce MACE and stent thrombosis when prasugrel or ticagrelor are unavailable, cannot be tolerated, or are contraindicated.",
+            "ru": "У пациентов с ИМпST (STEMI), которым выполняется первичное ЧКВ (ПЧКВ/PPCI), рекомендуется клопидогрел для снижения частоты MACE и тромбоза стента, если прасугрел или тикагрелор недоступны, не переносятся или противопоказаны."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [11]
+        },
+        {
+          "id": "r09-stemi-fibrinolysis-clopidogrel",
+          "text": {
+            "en": "In patients with STEMI managed with fibrinolytic therapy, clopidogrel should be administered concurrently to reduce death and MACE.",
+            "ru": "У пациентов с ИМпST (STEMI), которым проводится фибринолитическая терапия, клопидогрел должен назначаться одновременно для снижения смертности и частоты MACE."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [2, 3]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "*Модифицировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    },
+    "b": {
+      "en": "†Modified from the “2023 AHA/ACC/ACCP/ASPC/NLA/PCNA Guideline for the Management of Patients With Chronic Coronary Disease”.",
+      "ru": "†Модифицировано из Руководства AHA/ACC/ACCP/ASPC/NLA/PCNA 2023 по ведению пациентов с хронической ишемической болезнью сердца."
+    }
+  },
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

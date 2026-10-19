@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt08-nutrition-including-supplements",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 8",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Nutrition, Including Supplements",
+    "ru": "Рекомендации по питанию, включая биологически активные добавки"
+  },
+  "tags": [
+    "ccd",
+    "nutrition",
+    "diet",
+    "lifestyle",
+    "saturated-fat",
+    "sodium",
+    "trans-fat",
+    "supplements",
+    "omega-3",
+    "vitamins"
+  ],
+  "sections": [
+    {
+      "id": "sec-nutrition",
+      "title": {
+        "en": "Nutrition",
+        "ru": "Питание"
+      },
+      "rows": [
+        {
+          "id": "r01-plant-predominant-diet",
+          "text": {
+            "en": "In patients with CCD, a diet emphasizing vegetables, fruits, legumes, nuts, whole grains, and lean protein is recommended to reduce the risk of CVD events.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) рекомендуется рацион с преобладанием овощей, фруктов, бобовых, орехов, цельнозерновых продуктов и нежирного белка для снижения риска сердечно-сосудистых событий (CVD).^[a]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-reduce-saturated-fat",
+          "text": {
+            "en": "In patients with CCD, reducing the percentage of calories from saturated fat (<6% of total calories) and replacing with dietary monounsaturated and polyunsaturated fat, complex carbohydrates, and dietary fiber can be beneficial to reduce the risk of CVD events.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) снижение доли калорий за счет насыщенных жиров (<6% от общей калорийности) и их замена мононенасыщенными и полиненасыщенными жирами, сложными углеводами и пищевыми волокнами может быть полезно для снижения риска сердечно-сосудистых событий (CVD).^[a]"
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r03-minimize-sodium-processed-meats",
+          "text": {
+            "en": "In patients with CCD, minimization of sodium (<2300 mg/d; optimally 1500 mg/d) and minimization of processed meats (eg, cured bacon, hot dogs) can be beneficial to reduce the risk of CVD events.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) минимизация потребления натрия (<2300 мг/сут; оптимально 1500 мг/сут) и минимизация переработанного мяса (например, бекон, сосиски, хот-доги) может быть полезна для снижения риска сердечно-сосудистых событий (CVD).^[a]"
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [2, 3, 6, 7]
+        },
+        {
+          "id": "r04-limit-refined-carbs-sweetened-beverages",
+          "text": {
+            "en": "In patients with CCD, limiting refined carbohydrates (eg, containing <25% whole grain by weight, including refined cold ready-to-eat breakfast cereal, white bread, white rice), and sugar-sweetened beverages (eg, soft drinks, energy drinks, fruit drinks with added sugars) can be beneficial to reduce the risk of CVD events.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) ограничение рафинированных углеводов (например, содержащих <25% цельного зерна по массе, включая сухие готовые завтраки, белый хлеб, белый рис) и сахаросодержащих напитков (газированные напитки, энергетики, фруктовые напитки с добавлением сахара) может быть полезно для снижения риска сердечно-сосудистых событий (CVD).^[a]"
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [2, 3, 4, 6, 8]
+        },
+        {
+          "id": "r05-avoid-trans-fat",
+          "text": {
+            "en": "In patients with CCD, the intake of trans fat should be avoided because trans fat is associated with increased morbidity and mortality rates.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) следует избегать употребления трансжиров, поскольку они ассоциированы с повышением показателей заболеваемости и смертности.^[a]"
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [9, 10]
+        }
+      ]
+    },
+    {
+      "id": "sec-nutrition-supplements",
+      "title": {
+        "en": "Nutrition Supplements",
+        "ru": "Пищевые добавки"
+      },
+      "rows": [
+        {
+          "id": "r06-no-benefit-dietary-supplements",
+          "text": {
+            "en": "In patients with CCD, the use of nonprescription or dietary supplements, including omega-3 fatty acid, vitamins C, D, E, beta-carotene, and calcium, is not beneficial to reduce the risk of acute CVD events.",
+            "ru": "У пациентов с ХИБС (CCD) применение безрецептурных или биологически активных добавок к пище (БАД), включая омега-3 жирные кислоты, витамины C, D, E, бета-каротин и кальций, не приносит пользы для снижения риска острых сердечно-сосудистых событий (CVD)."
+          },
+          "class": "III-no-benefit",
+          "level": "B-NR",
+          "refs": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease.23",
+      "ru": "*Модифицировано из Руководства ACC/AHA 2019 по первичной профилактике сердечно-сосудистых заболеваний.23"
+    }
+  },
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

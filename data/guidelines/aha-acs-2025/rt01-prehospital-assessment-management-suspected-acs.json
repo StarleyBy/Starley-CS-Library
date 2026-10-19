@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt01-prehospital-assessment-management-suspected-acs",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 1",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Prehospital Assessment and Management Considerations for Suspected ACS",
+    "ru": "Рекомендации по догоспитальной оценке и ведению пациентов с подозрением на ОКС"
+  },
+  "tags": [
+    "acs",
+    "prehospital",
+    "ecg",
+    "stemi",
+    "ppci",
+    "fmc",
+    "ems",
+    "triage",
+    "reperfusion"
+  ],
+  "sections": [
+    {
+      "id": "sec-suspected-acs",
+      "title": {
+        "en": "Suspected ACS",
+        "ru": "Подозрение на ОКС"
+      },
+      "rows": [
+        {
+          "id": "r01-12-lead-ecg-within-10-min-fmc",
+          "text": {
+            "en": "In patients with suspected ACS, a 12-lead ECG should be acquired and interpreted within 10 minutes of first medical contact (FMC)* to identify patients with STEMI.^[a]",
+            "ru": "У пациентов с подозрением на ОКС 12-канальная ЭКГ должна быть зарегистрирована и расшифрована в течение 10 минут от момента первого медицинского контакта (FMC)* для выявления пациентов с ИМпST (STEMI).^[a]"
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-nondiagnostic-initial-ecg-serial-ecgs",
+          "text": {
+            "en": "In patients with suspected ACS in which the initial ECG is nondiagnostic of STEMI, serial ECGs to detect potential ischemic changes should be performed, especially when clinical suspicion of ACS is high, symptoms are persistent, or the clinical condition deteriorates.^[b]",
+            "ru": "У пациентов с подозрением на ОКС, у которых исходная ЭКГ не является диагностической для ИМпST (STEMI), следует выполнять повторные (серийные) ЭКГ для выявления потенциальных ишемических изменений, особенно при высокой клинической вероятности ОКС, сохраняющихся симптомах или ухудшении клинического состояния.^[b]"
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [3, 4]
+        }
+      ]
+    },
+    {
+      "id": "sec-stemi",
+      "title": {
+        "en": "STEMI",
+        "ru": "Инфаркт миокарда с подъемом сегмента ST (STEMI)"
+      },
+      "rows": [
+        {
+          "id": "r03-immediate-ems-transport-pci-capable-hospital-fmc-to-device-90-min",
+          "text": {
+            "en": "In patients with suspected STEMI, immediate emergency medical services (EMS) transport to a PCI-capable hospital for primary PCI (PPCI‡) is the recommended triage strategy, with an FMC–to–first-device time system goal of ≤90 minutes.^[c]",
+            "ru": "У пациентов с подозрением на ИМпST (STEMI) незамедлительная транспортировка бригадой скорой медицинской помощи (СМП/EMS) в стационар с возможностью проведения ЧКВ для первичного ЧКВ (ПЧКВ/PPCI‡) является рекомендуемой стратегией маршрутизации с системным целевым временем от первого медицинского контакта до проведения проводника/устройства (FMC-to-device) ≤90 минут.^[c]"
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [5, 6, 7]
+        },
+        {
+          "id": "r04-advance-notification-activation-cath-lab-team",
+          "text": {
+            "en": "In patients with suspected STEMI, early advance notification of the receiving PCI-capable hospital by EMS personnel and activation of the cardiac catheterization team is recommended to reduce time to reperfusion.",
+            "ru": "У пациентов с подозрением на ИМпST (STEMI) рекомендуется раннее заблаговременное оповещение принимающего ЧКВ-центра персоналом СМП и активация бригады рентгенэндоваскулярной операционной (cath lab) для сокращения времени до реперфузии."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 8, 9]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*FMC indicates the time point when the patient is initially assessed by a health care professional who can obtain and interpret the ECG and deliver initial interventions (eg, defibrillation).",
+      "ru": "*FMC (первый медицинский контакт) указывает на момент времени, когда пациент впервые осмотрен медицинским работником, способным зарегистрировать и интерпретировать ЭКГ и провести первоначальные вмешательства (например, дефибрилляцию)."
+    },
+    "b": {
+      "en": "†Modified from the “2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain”.",
+      "ru": "†Модифицировано из Руководства AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR 2021 по оценке и диагностике боли в грудной клетке."
+    },
+    "c": {
+      "en": "‡PPCI refers to emergency PCI in the setting of STEMI to achieve reperfusion in patients without previous fibrinolytic treatment.",
+      "ru": "‡PPCI (первичное ЧКВ) означает экстренное ЧКВ в условиях ИМпST для достижения реперфузии у пациентов без предшествующей фибринолитической терапии."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

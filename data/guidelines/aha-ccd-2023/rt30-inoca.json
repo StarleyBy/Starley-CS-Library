@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt30-inoca",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 30",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for INOCA",
+    "ru": "Рекомендации по ишемии миокарда без обструктивного поражения коронарных артерий (INOCA)"
+  },
+  "tags": [
+    "ccd",
+    "inoca",
+    "nonobstructive-cad",
+    "coronary-function-testing",
+    "cmd",
+    "microvascular-angina",
+    "qol"
+  ],
+  "sections": [
+    {
+      "id": "sec-inoca",
+      "title": {
+        "en": "Ischemia With Nonobstructive Coronary Arteries (INOCA)",
+        "ru": "Ишемия без обструктивного поражения коронарных артерий (INOCA)"
+      },
+      "rows": [
+        {
+          "id": "r01-stratified-medical-therapy-inoca",
+          "text": {
+            "en": "In symptomatic patients with nonobstructive CAD, a strategy of stratified medical therapy^[a] guided by invasive coronary physiologic testing can be useful for improving angina severity and QOL.",
+            "ru": "У пациентов с клиническими симптомами и необструктивным поражением коронарных артерий стратегия стратифицированной медикаментозной терапии^[a] под контролем инвазивного физиологического исследования коронарного русла может быть полезна для уменьшения тяжести стенокардии и улучшения качества жизни (QOL)."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "See recommendation-specific supportive text for details.",
+      "ru": "Подробности см. в сопроводительном тексте руководства."
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

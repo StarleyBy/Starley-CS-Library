@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt30-telemetry-and-length-of-stay",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 30",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Telemetry and Length of Stay",
+    "ru": "Рекомендация по телеметрическому мониторингу и длительности госпитализации"
+  },
+  "tags": [
+    "acs",
+    "telemetry",
+    "monitoring",
+    "length-of-stay",
+    "arrhythmia-monitoring",
+    "risk-stratification"
+  ],
+  "sections": [
+    {
+      "id": "sec-telemetry-length-of-stay",
+      "title": {
+        "en": "Telemetry and Length of Stay",
+        "ru": "Телеметрический мониторинг и длительность госпитализации"
+      },
+      "rows": [
+        {
+          "id": "r01-telemetry-monitoring-duration-by-risk",
+          "text": {
+            "en": "In patients with ACS, telemetry monitoring is recommended to reduce cardiovascular events with duration determined by cardiac risk.",
+            "ru": "У пациентов с ОКС рекомендуется телеметрический мониторинг для снижения частоты сердечно-сосудистых событий; его продолжительность определяется уровнем кардиального риска."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

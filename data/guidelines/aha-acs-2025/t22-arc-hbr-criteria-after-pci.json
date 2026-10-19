@@ -1,0 +1,323 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t22-arc-hbr-criteria-after-pci",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 22",
+  "type": "grid",
+  "title": {
+    "en": "Academic Research Consortium High Bleeding Risk Criteria After PCI^[a]",
+    "ru": "Критерии высокого риска кровотечений Академического исследовательского консорциума (ARC-HBR) после ЧКВ^[a]"
+  },
+  "tags": [
+    "acs",
+    "pci",
+    "bleeding-risk",
+    "arc-hbr",
+    "hbr",
+    "major-criteria",
+    "minor-criteria",
+    "dapt"
+  ],
+  "columns": [
+    {
+      "id": "major-criteria",
+      "title": {
+        "en": "Major Criteria",
+        "ru": "Большие критерии"
+      }
+    },
+    {
+      "id": "minor-criteria",
+      "title": {
+        "en": "Minor Criteria",
+        "ru": "Малые критерии"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-age",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Age ≥75 y",
+            "ru": "Возраст ≥75 лет"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-oral-anticoagulation",
+      "cells": [
+        {
+          "text": {
+            "en": "Anticipated use of long-term oral anticoagulation (Section 11.1.1, “Antiplatelet Therapy in Patients on Anticoagulation Postdischarge”)",
+            "ru": "Предполагаемый длительный прием пероральных антикоагулянтов (раздел 11.1.1)"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-ckd",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe or end-stage CKD (eGFR <30 mL/min)",
+            "ru": "Тяжелая или терминальная ХБП (рСКФ <30 мл/мин)"
+          }
+        },
+        {
+          "text": {
+            "en": "Moderate CKD (eGFR 30-59 mL/min)",
+            "ru": "Умеренная ХБП (рСКФ 30–59 мл/мин)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-hemoglobin",
+      "cells": [
+        {
+          "text": {
+            "en": "Hemoglobin level <11 g/dL",
+            "ru": "Уровень гемоглобина <11 г/дл (<110 г/л)"
+          }
+        },
+        {
+          "text": {
+            "en": "Hemoglobin level 11-12.9 g/dL for men and 11-11.9 g/dL for women",
+            "ru": "Уровень гемоглобина 11–12,9 г/дл для мужчин и 11–11,9 г/дл для женщин"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-spontaneous-bleeding",
+      "cells": [
+        {
+          "text": {
+            "en": "Spontaneous bleeding requiring hospitalization or transfusion in the past 6 mo or at any time, if recurrent",
+            "ru": "Спонтанное кровотечение, потребовавшее госпитализации или гемотрансфузии, в течение предшествующих 6 месяцев либо в любое время, если оно было рецидивирующим"
+          }
+        },
+        {
+          "text": {
+            "en": "Spontaneous bleeding requiring hospitalization or transfusion within the past 12 mo not meeting the major criterion",
+            "ru": "Спонтанное кровотечение, потребовавшее госпитализации или гемотрансфузии, в течение предшествующих 12 месяцев, не отвечающее критериям большого"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-thrombocytopenia",
+      "cells": [
+        {
+          "text": {
+            "en": "Moderate or severe baseline thrombocytopenia (platelet count <100×10⁹/L)",
+            "ru": "Умеренная или тяжелая исходная тромбоцитопения (количество тромбоцитов <100 × 10⁹/л)"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-bleeding-diathesis",
+      "cells": [
+        {
+          "text": {
+            "en": "Chronic bleeding diathesis",
+            "ru": "Хронический геморрагический диатез"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-liver-cirrhosis",
+      "cells": [
+        {
+          "text": {
+            "en": "Liver cirrhosis with portal hypertension",
+            "ru": "Цирроз печени с портальной гипертензией"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-nsaids-steroids",
+      "cells": [
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "Long-term use of oral NSAIDs or steroids",
+            "ru": "Длительный прием пероральных НПВП (NSAID) или системных глюкокортикостероидов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-active-malignancy",
+      "cells": [
+        {
+          "text": {
+            "en": "Active malignancy (excluding nonmelanoma skin cancer) within the past 12 mo",
+            "ru": "Активное злокачественное новообразование (исключая немеланомный рак кожи) в течение предшествующих 12 месяцев"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-prior-spontaneous-ich",
+      "cells": [
+        {
+          "text": {
+            "en": "Previous spontaneous ICH (at any time)",
+            "ru": "Предшествующее спонтанное ВЧК (ICH) в анамнезе (в любое время)"
+          }
+        },
+        {
+          "text": {
+            "en": "Any ischemic stroke at any time not meeting the major criterion",
+            "ru": "Любой ишемический инсульт в любое время, не отвечающий критериям большого"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-prior-traumatic-ich",
+      "cells": [
+        {
+          "text": {
+            "en": "Previous traumatic ICH within the past 12 mo",
+            "ru": "Предшествующее травматическое ВЧК (ICH) в течение предшествующих 12 месяцев"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13-brain-arteriovenous-malformation",
+      "cells": [
+        {
+          "text": {
+            "en": "Presence of a brain arteriovenous malformation",
+            "ru": "Наличие церебральной артериовенозной мальформации"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14-ischemic-stroke-within-6mo",
+      "cells": [
+        {
+          "text": {
+            "en": "Moderate or severe ischemic stroke within the past 6 mo",
+            "ru": "Умеренный или тяжелый ишемический инсульт в течение предшествующих 6 месяцев"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r15-nondeferrable-surgery-dapt",
+      "cells": [
+        {
+          "text": {
+            "en": "Nondeferrable major surgery on DAPT",
+            "ru": "Неотложное/неотсрочиваемое большое хирургическое вмешательство на фоне ДАТТ (DAPT)"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r16-recent-surgery-trauma-before-pci",
+      "cells": [
+        {
+          "text": {
+            "en": "Recent major surgery or major trauma within 30 d before PCI",
+            "ru": "Недавнее большое хирургическое вмешательство или тяжелая травма в пределах 30 дней перед ЧКВ"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*The presence of at least 1 major or 2 minor criteria helps to identify those at increased risk of bleeding. Modified with permission from Urban et al. Copyright 2019 American Heart Association, Inc.",
+      "ru": "*Наличие хотя бы 1 большого или 2 малых критериев позволяет выявить пациентов с повышенным риском кровотечений. Модифицировано с разрешения Urban et al. Copyright 2019 American Heart Association, Inc."
+    }
+  },
+  "source": {
+    "expectedRows": 16
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

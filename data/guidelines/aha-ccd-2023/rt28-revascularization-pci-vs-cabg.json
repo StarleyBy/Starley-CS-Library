@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt28-revascularization-pci-vs-cabg",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 28",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Revascularization: PCI Versus CABG",
+    "ru": "Рекомендации по реваскуляризации: ЧКВ в сравнении с КШ"
+  },
+  "tags": [
+    "ccd",
+    "revascularization",
+    "pci",
+    "cabg",
+    "left-main",
+    "syntax-score",
+    "multivessel-cad",
+    "surgical-risk",
+    "diabetes",
+    "lima-lad",
+    "mace"
+  ],
+  "sections": [
+    {
+      "id": "sec-patients-with-ccd",
+      "title": {
+        "en": "Patients With CCD",
+        "ru": "Пациенты с ХИБС (CCD)"
+      },
+      "rows": [
+        {
+          "id": "r01-cabg-preferred-left-main-high-complexity",
+          "text": {
+            "en": "In patients with CCD who require revascularization for significant left main involvement associated with high-complexity CAD, CABG is recommended in preference to PCI to improve survival.^[a]",
+            "ru": "У пациентов с ХИБС (CCD), требующих реваскуляризации по поводу значимого поражения ствола ЛКА высокой анатомической сложности, рекомендуется КШ (CABG) преимущественно перед ЧКВ для увеличения выживаемости.^[a]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-cabg-multivessel-syntax-gt-33",
+          "text": {
+            "en": "In patients with CCD who require revascularization for multivessel CAD with complex and diffuse CAD (eg, SYNTAX score >33), it is reasonable to choose CABG over PCI to improve survival.^[a]",
+            "ru": "У пациентов с ХИБС (CCD), требующих реваскуляризации по поводу многососудистого сложного и диффузного поражения (например, шкала SYNTAX >33), целесообразно выбрать КШ (CABG) вместо ЧКВ для увеличения выживаемости.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1, 3, 4, 5, 6]
+        }
+      ]
+    },
+    {
+      "id": "sec-patients-at-high-surgical-risk",
+      "title": {
+        "en": "Patients With CCD at High Surgical Risk",
+        "ru": "Пациенты с ХИБС высокого хирургического риска"
+      },
+      "rows": [
+        {
+          "id": "r03-pci-poor-surgical-candidates",
+          "text": {
+            "en": "In patients with CCD who are appropriate for revascularization but poor candidates for surgery, it is reasonable to choose PCI over CABG to improve symptoms and reduce MACE.",
+            "ru": "У пациентов с ХИБС (CCD), имеющих показания к реваскуляризации, но являющихся неоптимальными кандидатами для хирургического вмешательства, целесообразно выбрать ЧКВ вместо КШ для облегчения симптомов и снижения риска MACE."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [7, 8, 9]
+        }
+      ]
+    },
+    {
+      "id": "sec-patients-with-ccd-and-diabetes",
+      "title": {
+        "en": "Patients With CCD and Diabetes",
+        "ru": "Пациенты с ХИБС и сахарным диабетом"
+      },
+      "rows": [
+        {
+          "id": "r04-cabg-diabetes-multivessel-lad",
+          "text": {
+            "en": "In patients with CCD, diabetes, and multivessel CAD with involvement of the left anterior descending artery who are appropriate candidates for CABG, CABG (with a left internal mammary artery to the left anterior descending artery) is recommended in preference to PCI to reduce mortality and repeat revascularizations.^[a]",
+            "ru": "У пациентов с ХИБС (CCD), сахарным диабетом и многососудистым поражением с вовлечением передней межжелудочковой ветви (ПМЖВ/LAD), являющихся кандидатами на КШ, рекомендуется проведение КШ (с маммарокоронарным шунтированием ЛВГА/LIMA к ПМЖВ) преимущественно перед ЧКВ для снижения смертности и повторных реваскуляризаций.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [5, 10, 11, 12, 13, 14, 15, 16, 17]
+        },
+        {
+          "id": "r05-pci-diabetes-left-main-syntax-le-33",
+          "text": {
+            "en": "In patients with CCD and diabetes who have left main stenosis and low- or intermediate-complexity CAD (eg, SYNTAX score ≤33), PCI may be considered as an alternative to CABG to reduce MACE.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) и сахарным диабетом со стенозом ствола ЛКА и низкой/промежуточной анатомической сложностью (например, шкала SYNTAX ≤33) ЧКВ может рассматриваться как альтернатива КШ для снижения риска MACE.^[a]"
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [10, 18]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Modified from the 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization.19",
+      "ru": "Адаптировано из Руководства ACC/AHA/SCAI по реваскуляризации миокарда 2021 года.19"
+    }
+  },
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

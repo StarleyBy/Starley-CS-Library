@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt22-raas-inhibitors",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 22",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Renin-Angiotensin-Aldosterone Inhibitors",
+    "ru": "Рекомендации по ингибиторам ренин-ангиотензин-альдостероновой системы (РААС)"
+  },
+  "tags": [
+    "ccd",
+    "raas",
+    "ace-inhibitors",
+    "arbs",
+    "hypertension",
+    "diabetes",
+    "ckd",
+    "lvef",
+    "heart-failure",
+    "prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-raas-inhibitors",
+      "title": {
+        "en": "Renin-Angiotensin-Aldosterone Inhibitors",
+        "ru": "Ингибиторы ренин-ангиотензин-альдостероновой системы"
+      },
+      "rows": [
+        {
+          "id": "r01-raas-inhibitors-compelling-indications",
+          "text": {
+            "en": "In patients with CCD who also have hypertension, diabetes, LVEF ≤40%, or CKD, the use of ACE inhibitors, or ARBs if ACE inhibitor–intolerant, is recommended to reduce cardiovascular events.",
+            "ru": "У пациентов с ХИБС (CCD) при наличии сопутствующей артериальной гипертензии, сахарного диабета, ФВЛЖ ≤40% или ХБП (CKD) рекомендуется применение ингибиторов АПФ (ACE) или БРА (ARB) при непереносимости ингибиторов АПФ для снижения частоты сердечно-сосудистых событий."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-raas-inhibitors-preserved-ef-no-comorbidities",
+          "text": {
+            "en": "In patients with CCD without hypertension, diabetes, or CKD and LVEF >40%, the use of ACE inhibitors or ARBs may be considered to reduce cardiovascular events.",
+            "ru": "У пациентов с ХИБС (CCD) без артериальной гипертензии, сахарного диабета или ХБП и с ФВЛЖ >40% может быть рассмотрено применение ингибиторов АПФ или БРА для снижения частоты сердечно-сосудистых событий."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [6, 7, 8, 9, 10]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

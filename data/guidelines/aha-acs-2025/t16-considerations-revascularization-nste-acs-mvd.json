@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t16-considerations-revascularization-nste-acs-mvd",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 16",
+  "type": "grid",
+  "title": {
+    "en": "Considerations for Choice of Coronary Revascularization Strategy for Patients With NSTE-ACS and MVD^[a]",
+    "ru": "Клинические ситуации в пользу выбора коронарного шунтирования у пациентов с ОКСбпST (NSTE-ACS) и многососудистым поражением^[a]"
+  },
+  "tags": [
+    "acs",
+    "nste-acs",
+    "mvd",
+    "multivessel-cad",
+    "cabg",
+    "pci",
+    "revascularization-strategy",
+    "left-main",
+    "diabetes",
+    "lv-dysfunction"
+  ],
+  "columns": [
+    {
+      "id": "situation",
+      "title": {
+        "en": "In patients with NSTE-ACS and MVD, CABG surgery may be preferred over multivessel PCI in any of the following situations:",
+        "ru": "У пациентов с ОКСбпST (NSTE-ACS) и многососудистым поражением операция КШ (CABG) может иметь преимущество перед многососудистым ЧКВ в следующих ситуациях:"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-left-main-high-complexity",
+      "cells": [
+        {
+          "text": {
+            "en": "Significant left main coronary stenosis with high-complexity CAD",
+            "ru": "Гемодинамически значимый стеноз ствола левой коронарной артерии с высокой анатомической сложностью ИБС (CAD)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-multivessel-complex-diffuse",
+      "cells": [
+        {
+          "text": {
+            "en": "Multivessel CAD with complex or diffuse CAD",
+            "ru": "Многососудистое поражение со сложной анатомией или диффузным атеросклерозом коронарных артерий"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-diabetes-mvd-lad",
+      "cells": [
+        {
+          "text": {
+            "en": "Diabetes mellitus and MVD with the involvement of the LAD",
+            "ru": "Сахарный диабет и многососудистое поражение с вовлечением передней межжелудочковой ветви (ПМЖВ/LAD)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-multivessel-left-main-severe-lv-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "Multivessel CAD or complex left main CAD with severe left ventricular dysfunction",
+            "ru": "Многососудистое поражение или сложное поражение ствола ЛКА с выраженной систолической дисфункцией левого желудочка"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Adapted from the “2021 ACC/AHA/SCAI Coronary Revascularization Guideline”.",
+      "ru": "*Адаптировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

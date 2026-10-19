@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt02-initial-in-hospital-assessment-suspected-acs",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 2",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Initial In-Hospital Assessment of Patients With Confirmed or Suspected ACS",
+    "ru": "Рекомендации по первичной госпитальной оценке пациентов с подтвержденным или подозреваемым ОКС"
+  },
+  "tags": [
+    "acs",
+    "in-hospital",
+    "assessment",
+    "ecg",
+    "troponin",
+    "hs-ctn",
+    "serial-ecg"
+  ],
+  "sections": [
+    {
+      "id": "sec-initial-in-hospital-assessment",
+      "title": {
+        "en": "Initial In-Hospital Assessment of Patients With Confirmed or Suspected ACS",
+        "ru": "Первичная госпитальная оценка пациентов с подтвержденным или подозреваемым ОКС"
+      },
+      "rows": [
+        {
+          "id": "r01-ecg-within-10-minutes",
+          "text": {
+            "en": "In patients with suspected ACS, acquisition and interpretation of an ECG within 10 minutes is recommended to help guide patient management.^[a]",
+            "ru": "У пациентов с подозрением на ОКС рекомендуется регистрация и интерпретация ЭКГ в течение 10 минут для определения тактики ведения пациента.^[a]"
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-nondiagnostic-initial-ecg-serial-12-lead",
+          "text": {
+            "en": "In patients with suspected ACS in whom the initial ECG is nondiagnostic, serial 12-lead ECGs should be performed to detect potential ischemic changes, especially when clinical suspicion of ACS is high, symptoms are persistent, or clinical condition deteriorates.^[a]",
+            "ru": "У пациентов с подозрением на ОКС, у которых исходная ЭКГ неинформативна (недиагностична), следует выполнять повторные (серийные) 12-канальные ЭКГ для выявления потенциальных ишемических изменений, особенно при высокой клинической вероятности ОКС, сохраняющихся симптомах или ухудшении клинического состояния.^[a]"
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [3]
+        },
+        {
+          "id": "r03-ctn-measurement-asap-hs-ctn",
+          "text": {
+            "en": "In patients with suspected ACS, cTn should be measured as soon as possible, preferably using a high-sensitivity cTn (hs-cTn) assay.^[a]",
+            "ru": "У пациентов с подозрением на ОКС уровень сердечного тропонина (cTn) следует определять как можно скорее, предпочтительно с использованием высокочувствительного метода (вч-cTn/hs-cTn).^[a]"
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [4, 5, 6, 7]
+        },
+        {
+          "id": "r04-repeat-ctn-measurement-intervals",
+          "text": {
+            "en": "In patients with suspected ACS with an initial hs-cTn or cTn that is nondiagnostic, the recommended time intervals for repeat measurements after the initial sample collection (time zero) are 1 to 2 hours for hs-cTn and 3 to 6 hours for conventional cTn assays.^[a]",
+            "ru": "У пациентов с подозрением на ОКС с недиагностическим исходным уровнем hs-cTn или cTn рекомендуемые интервалы времени для повторного измерения после первого забора крови (время ноль) составляют от 1 до 2 часов для hs-cTn и от 3 до 6 часов для стандартных тестов cTn.^[a]"
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [8, 9, 10, 11, 12]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Adapted from the “2021 AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR Guideline for the Evaluation and Diagnosis of Chest Pain”.",
+      "ru": "*Адаптировано из Руководства AHA/ACC/ASE/CHEST/SAEM/SCCT/SCMR 2021 по оценке и диагностике боли в грудной клетке."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

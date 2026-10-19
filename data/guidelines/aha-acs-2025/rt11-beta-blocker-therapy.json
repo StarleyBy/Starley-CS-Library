@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt11-beta-blocker-therapy",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 11",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Beta-Blocker Therapy",
+    "ru": "Рекомендация по терапии бета-адреноблокаторами"
+  },
+  "tags": [
+    "acs",
+    "beta-blockers",
+    "reinfarction",
+    "ventricular-arrhythmias",
+    "early-initiation"
+  ],
+  "sections": [
+    {
+      "id": "sec-beta-blocker-therapy",
+      "title": {
+        "en": "Beta-Blocker Therapy in Patients With ACS",
+        "ru": "Терапия бета-адреноблокаторами у пациентов с ОКС"
+      },
+      "rows": [
+        {
+          "id": "r01-early-oral-beta-blocker-initiation",
+          "text": {
+            "en": "In patients with ACS without contraindications, early (<24 hours) initiation of oral beta-blocker therapy is recommended to reduce risk of reinfarction and ventricular arrhythmias.",
+            "ru": "У пациентов с ОКС при отсутствии противопоказаний рекомендуется раннее (<24 часов) начало пероральной терапии бета-адреноблокаторами для снижения риска реинфаркта и желудочковых аритмий."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

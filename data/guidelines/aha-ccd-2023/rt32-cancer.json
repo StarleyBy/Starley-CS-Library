@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt32-cancer",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 32",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Cancer",
+    "ru": "Рекомендации при онкологических заболеваниях"
+  },
+  "tags": [
+    "ccd",
+    "cancer",
+    "cardio-oncology",
+    "multidisciplinary-team",
+    "cvd-outcomes"
+  ],
+  "sections": [
+    {
+      "id": "sec-cancer",
+      "title": {
+        "en": "Cancer",
+        "ru": "Онкологические заболевания"
+      },
+      "rows": [
+        {
+          "id": "r01-multidisciplinary-team-cancer",
+          "text": {
+            "en": "In patients with CCD and cancer, a multidisciplinary team including cardiology and oncology expertise is recommended to improve long-term CVD outcomes.",
+            "ru": "У пациентов с ХКИ (CCD) и злокачественными новообразованиями рекомендуется участие мультидисциплинарной команды с привлечением кардиологов и онкологов для улучшения отдаленных сердечно-сосудистых исходов."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t10-dosing-parenteral-anticoagulation-acs",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 10",
+  "type": "grid",
+  "title": {
+    "en": "Dosing of Parenteral Anticoagulation in ACS",
+    "ru": "Режимы дозирования парентеральных антикоагулянтов при ОКС"
+  },
+  "tags": [
+    "acs",
+    "anticoagulation",
+    "dosing",
+    "ufh",
+    "bivalirudin",
+    "enoxaparin",
+    "fondaparinux",
+    "pci",
+    "ppci",
+    "fibrinolysis",
+    "aptt",
+    "act"
+  ],
+  "columns": [
+    {
+      "id": "drug",
+      "title": {
+        "en": "Drug",
+        "ru": "Препарат"
+      }
+    },
+    {
+      "id": "dosing",
+      "title": {
+        "en": "Dosing",
+        "ru": "Режим дозирования"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-ufh",
+      "cells": [
+        {
+          "text": {
+            "en": "UFH",
+            "ru": "НФГ (нефракционированный гепарин / UFH)"
+          }
+        },
+        {
+          "text": {
+            "en": "**Initial therapy:** Loading dose 60 IU/kg (max 4000 IU), with initial infusion 12 IU/kg per h (max 1000 IU/h) adjusted to therapeutic aPTT range of 60-80 s.\n\n**To support PCI:** In patients who have received prior anticoagulant therapy, additional UFH as needed to achieve an ACT 250-300 s. In patients who have not received prior anticoagulant therapy, 70-100 U/kg initial bolus to achieve target ACT of 250-300 s.\n\n**With fibrinolytic therapy:** Loading dose 60 IU/kg (maximum 4000 IU) with initial infusion 12 IU/kg per h (maximum 1000 IU/h) adjusted to therapeutic aPTT range.*^[a]",
+            "ru": "**Начальная терапия:** нагрузочная доза 60 МЕ/кг (макс. 4000 МЕ) с начальной инфузией 12 МЕ/кг в час (макс. 1000 МЕ/ч), титруемой до целевого терапевтического диапазона АЧТВ (aPTT) 60–80 с.\n\n**Для обеспечения ЧКВ (PCI):** у пациентов, ранее получавших антикоагулянты, дополнительное введение НФГ по потребности для достижения АВС (ACT) 250–300 с. У пациентов без предшествующей антикоагуляции — начальный болюс 70–100 ЕД/кг для достижения целевого ACT 250–300 с.\n\n**При проведении фибринолиза:** нагрузочная доза 60 МЕ/кг (макс. 4000 МЕ) с начальной инфузией 12 МЕ/кг в час (макс. 1000 МЕ/ч), титруемой до целевого диапазона АЧТВ.*^[a]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-bivalirudin",
+      "cells": [
+        {
+          "text": {
+            "en": "Bivalirudin",
+            "ru": "Бивалирудин"
+          }
+        },
+        {
+          "text": {
+            "en": "**To support PCI:** 0.75 mg/kg bolus, 1.75 mg/kg per h IV infusion during the PCI procedure.\n\n**Post-PCI infusion for PPCI:** 1.75 mg/kg per h for 2-4 h post-PCI.\n\nIn patients with CrCl <30 mL/min, reduced infusion to 1 mg/kg per h.",
+            "ru": "**Для обеспечения ЧКВ (PCI):** болюс 0,75 мг/кг, затем внутривенная инфузия 1,75 мг/кг в час во время процедуры ЧКВ.\n\n**Инфузия после ЧКВ при первичном ЧКВ (PPCI):** 1,75 мг/кг в час в течение 2–4 ч после ЧКВ.\n\nУ пациентов с КК (CrCl) <30 мл/мин скорость инфузии снижают до 1 мг/кг в час."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-enoxaparin",
+      "cells": [
+        {
+          "text": {
+            "en": "Enoxaparin",
+            "ru": "Эноксапарин"
+          }
+        },
+        {
+          "text": {
+            "en": "**Initial therapy:** 1 mg/kg subcutaneous every 12 h. Reduce dose to 1 mg/kg per d subcutaneous if CrCl <30 mL/min.\n\n**To support PCI:** For previous treatment with enoxaparin, if the last subcutaneous dose was administered 8-12 h earlier or if only 1 subcutaneous dose of enoxaparin has been administered, an IV dose of 0.3 mg/kg of enoxaparin should be given. If the last dose was administered within the previous 8 h, no additional enoxaparin should be given. For patients who have not received prior anticoagulant therapy, 0.5-0.75 mg/kg IV bolus.\n\n**With fibrinolytic therapy:** If age <75 y, 30 mg IV bolus, followed in 15 min by 1 mg/kg subcutaneous every 12 h (maximum 100 mg for the first 2 doses).\nIf age ≥75 y: no bolus, 0.75 mg/kg subcutaneous every 12 h (maximum 75 mg for the first 2 doses).\nRegardless of age, if CrCl <30 mL/min: 1 mg/kg subcutaneous every 24 h.",
+            "ru": "**Начальная терапия:** 1 мг/кг подкожно каждые 12 ч. Снизить дозу до 1 мг/кг подкожно 1 раз в сутки при КК (CrCl) <30 мл/мин.\n\n**Для обеспечения ЧКВ (PCI):** при предшествующей терапии эноксапарином, если последняя подкожная доза введена за 8–12 ч до вмешательства или если была введена только 1 доза, следует ввести внутривенно 0,3 мг/кг эноксапарина. Если последняя доза была введена в течение предшествующих 8 ч, дополнительное введение не требуется. Для пациентов, ранее не получавших антикоагулянты, — в/в болюс 0,5–0,75 мг/кг.\n\n**При проведении фибринолиза:** при возрасте <75 лет — в/в болюс 30 мг с последующим (через 15 мин) подкожным введением 1 мг/кг каждые 12 ч (макс. 100 мг для первых 2 доз).\nПри возрасте ≥75 лет: без болюса, 0,75 мг/кг подкожно каждые 12 ч (макс. 75 мг для первых 2 доз).\nНезависимо от возраста при КК <30 мл/мин: 1 мг/кг подкожно каждые 24 ч."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-fondaparinux",
+      "cells": [
+        {
+          "text": {
+            "en": "Fondaparinux",
+            "ru": "Фондапаринукс"
+          }
+        },
+        {
+          "text": {
+            "en": "**Initial therapy:** 2.5 mg subcutaneous daily.\n\n**With fibrinolytic therapy:** 2.5 mg IV, then 2.5 mg subcutaneous daily starting the following day. Contraindicated if CrCl <30 mL/min.\n\nFondaparinux should not be used to support PCI because of the risk of catheter thrombosis.",
+            "ru": "**Начальная терапия:** 2,5 мг подкожно 1 раз в сутки.\n\n**При проведении фибринолиза:** 2,5 мг в/в, затем 2,5 мг подкожно 1 раз в сутки, начиная со следующего дня. Противопоказан при КК (CrCl) <30 мл/мин.\n\nФондапаринукс не должен использоваться для обеспечения ЧКВ из-за риска катетерного тромбоза."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Therapeutic aPTT range in setting of fibrinolytic therapy is 50-70 s.",
+      "ru": "*Терапевтический целевой диапазон АЧТВ (aPTT) при проведении фибринолиза составляет 50–70 с."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

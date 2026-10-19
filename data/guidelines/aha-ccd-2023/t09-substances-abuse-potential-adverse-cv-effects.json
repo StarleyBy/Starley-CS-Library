@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t09-substances-abuse-potential-adverse-cv-effects",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 9",
+  "type": "grid",
+  "title": {
+    "en": "Substances With Abuse Potential and Adverse Cardiovascular Effects for Patients With CCD",
+    "ru": "Психоактивные вещества с потенциалом злоупотребления и их неблагоприятные сердечно-сосудистые эффекты у пациентов с ХИБС (CCD)"
+  },
+  "tags": [
+    "ccd",
+    "substances",
+    "abuse-potential",
+    "alcohol",
+    "cocaine",
+    "methamphetamine",
+    "opioids",
+    "marijuana",
+    "adverse-effects"
+  ],
+  "columns": [
+    {
+      "id": "substance",
+      "title": {
+        "en": "Substance",
+        "ru": "Вещество"
+      }
+    },
+    {
+      "id": "effects",
+      "title": {
+        "en": "Potential Adverse Cardiovascular Effects",
+        "ru": "Потенциальные неблагоприятные сердечно-сосудистые эффекты"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "alcohol",
+      "cells": [
+        {
+          "text": {
+            "en": "**Alcohol**",
+            "ru": "**Алкоголь**"
+          }
+        },
+        {
+          "text": {
+            "en": "• J-shaped relationship between alcohol intake and cardiovascular risk in observational studies but limited by confounding.18\n• Heavy alcohol use and binge drinking associated with increased morbidity and mortality rates.9,10,19\n• May increase serum triglycerides.\n• Potential drug-drug interactions with cardiovascular therapies.",
+            "ru": "• J-образная связь между приемом алкоголя и сердечно-сосудистым риском в обсервационных исследованиях ограничена вмешивающимися факторами (конфаундингом).18\n• Злоупотребление алкоголем и эпизодическое пьянство ассоциированы с ростом заболеваемости и смертности.9,10,19\n• Может повышать уровень сывороточных триглицеридов.\n• Риск неблагоприятных лекарственных взаимодействий с кардиологическими препаратами."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cocaine-methamphetamine",
+      "cells": [
+        {
+          "text": {
+            "en": "**Cocaine, methamphetamine**",
+            "ru": "**Кокаин, метамфетамин**"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "• Stimulation of the sympathetic nervous system.5,20\n• Platelet activation and aggregation.20\n• Increased myocardial oxygen demand.5\n• Can present with cocaine-associated chest pain.\n• MI risk independent of route of administration.21",
+            "ru": "• Мощная стимуляция симпатической нервной системы.5,20\n• Активация и агрегация тромбоцитов.20\n• Выраженное повышение потребности миокарда в кислороде.5\n• Может манифестировать кокаин-ассоциированной болью в груди.\n• Риск развития ИМ (MI) не зависит от способа введения вещества.21"
+          }
+        }
+      ]
+    },
+    {
+      "id": "opioids",
+      "cells": [
+        {
+          "text": {
+            "en": "**Opioids**",
+            "ru": "**Опиоиды**"
+          },
+          "tone": "orange"
+        },
+        {
+          "text": {
+            "en": "• Possible association with risk of MI in chronic use.22\n• High potential for dependence and abuse with chronic use.\n• Potential for drug-drug interactions with cardiovascular therapies.",
+            "ru": "• Возможная ассоциация с риском ИМ (MI) при длительном хроническом применении.22\n• Высокий потенциал формирования зависимости и злоупотребления.\n• Потенциал нежелательных межлекарственных взаимодействий с кардиоваскулярными средствами."
+          }
+        }
+      ]
+    },
+    {
+      "id": "marijuana",
+      "cells": [
+        {
+          "text": {
+            "en": "**Marijuana**",
+            "ru": "**Марихуана (каннабис)**"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "• Stimulation of the sympathetic nervous system.\n• Platelet activation.\n• Endothelial dysfunction.\n• Carbon monoxide toxicity from smoking and inhalatation.12\n• Route of administration may impact toxicity, with edible products associated with fewer acute cardiovascular symptoms.23",
+            "ru": "• Стимуляция симпатической нервной системы.\n• Активация тромбоцитов.\n• Дисфункция эндотелия.\n• Токсичность угарного газа (CO) при курении и ингаляционном употреблении.12\n• Путь поступления влияет на токсичность: пероральные формы («съедобные») вызывают меньше острых кардиоваскулярных симптомов.23"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*List is not all inclusive.",
+      "ru": "*Список не является исчерпывающим."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

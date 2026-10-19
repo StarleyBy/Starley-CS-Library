@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt35-hiv-and-autoimmune-disorders",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 35",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for HIV and Autoimmune Disorders",
+    "ru": "Рекомендации при ВИЧ-инфекции и аутоиммунных заболеваниях"
+  },
+  "tags": [
+    "ccd",
+    "hiv",
+    "art",
+    "autoimmune-disorders",
+    "rheumatoid-arthritis",
+    "dmards",
+    "biologics",
+    "glucocorticoids-harm",
+    "statin-interactions"
+  ],
+  "sections": [
+    {
+      "id": "sec-hiv",
+      "title": {
+        "en": "HIV",
+        "ru": "ВИЧ-инфекция"
+      },
+      "rows": [
+        {
+          "id": "r01-art-beneficial-hiv",
+          "text": {
+            "en": "In adults with CCD and HIV, antiretroviral therapy is beneficial to decrease the risk of cardiovascular events.",
+            "ru": "У взрослых пациентов с ХКИ (CCD) и ВИЧ-инфекцией антиретровирусная терапия полезна для снижения риска сердечно-сосудистых событий."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-favorable-art-regimens",
+          "text": {
+            "en": "In adults with CCD and HIV, it is reasonable to choose antiretroviral therapy regimens associated with more favorable lipid and cardiovascular risk profiles with consideration of drug-drug interactions.",
+            "ru": "У взрослых пациентов с ХКИ (CCD) и ВИЧ-инфекцией целесообразно выбирать схемы антиретровирусной терапии с более благоприятным липидным профилем и профилем сердечно-сосудистого риска с учетом межлекарственных взаимодействий."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [3, 4, 5]
+        },
+        {
+          "id": "r03-harm-lovastatin-simvastatin-pi",
+          "text": {
+            "en": "In adults with CCD and HIV, lovastatin or simvastatin should not be administered with protease inhibitors as this may cause harm.",
+            "ru": "У взрослых пациентов с ХКИ (CCD) и ВИЧ-инфекцией ловастатин или симвастатин не следует назначать совместно с ингибиторами протеазы ввиду риска тяжелых токсических осложнений."
+          },
+          "class": "III-harm",
+          "level": "C-LD",
+          "refs": [6, 7]
+        }
+      ]
+    },
+    {
+      "id": "sec-autoimmune-disorders",
+      "title": {
+        "en": "Autoimmune Disorders in CCD",
+        "ru": "Аутоиммунные заболевания при ХКИ"
+      },
+      "rows": [
+        {
+          "id": "r04-dmards-rheumatoid-arthritis",
+          "text": {
+            "en": "In adults with CCD and rheumatoid arthritis, initiation and maintenance of disease-modifying anti-rheumatoid drugs is beneficial to decrease the risk of cardiovascular events.",
+            "ru": "У взрослых пациентов с ХКИ (CCD) и ревматоидным артритом назначение и продолжение приема базисных противовоспалительных препаратов (БПВП / DMARD) полезны для снижения риска сердечно-сосудистых событий."
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [8, 9, 10, 11]
+        },
+        {
+          "id": "r05-biologics-immune-modulating",
+          "text": {
+            "en": "In adults with CCD and autoimmune diseases, treatment with biologics and other immune modulating therapies that reduce disease activity may be considered to decrease the risk of cardiovascular events.",
+            "ru": "У взрослых пациентов с ХКИ (CCD) и аутоиммунными заболеваниями может быть рассмотрено лечение генно-инженерными биологическими препаратами (ГИБП) и другими иммуномодулирующими средствами, снижающими активность заболевания, для снижения риска сердечно-сосудистых событий."
+          },
+          "class": "IIb",
+          "level": "C-LD",
+          "refs": [10, 11]
+        },
+        {
+          "id": "r06-harm-high-dose-glucocorticoids",
+          "text": {
+            "en": "In patients with CCD and rheumatoid arthritis, high-dose glucocorticoids should not be used long term if alternative therapies are available because of increased cardiovascular risk.",
+            "ru": "У пациентов с ХКИ (CCD) и ревматоидным артритом при наличии альтернативных терапевтических опций не следует длительно применять высокие дозы глюкокортикоидов из-за повышения сердечно-сосудистого риска."
+          },
+          "class": "III-harm",
+          "level": "C-LD",
+          "refs": [11, 12]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

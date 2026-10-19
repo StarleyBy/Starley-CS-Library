@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t18-traditional-nontraditional-risk-factors-young-adults",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 18",
+  "type": "grid",
+  "title": {
+    "en": "Traditional and Nontraditional Risk Factors Associated With CCD in Young Adults",
+    "ru": "Традиционные и нетрадиционные факторы риска, ассоциированные с ХКИ у взрослых пациентов молодого возраста"
+  },
+  "tags": [
+    "ccd",
+    "young-adults",
+    "risk-factors",
+    "traditional-risk-factors",
+    "nontraditional-risk-factors",
+    "prevention"
+  ],
+  "columns": [
+    {
+      "id": "traditional",
+      "title": {
+        "en": "Traditional Risk Factors",
+        "ru": "Традиционные факторы риска"
+      }
+    },
+    {
+      "id": "nontraditional",
+      "title": {
+        "en": "Nontraditional Risk Factors",
+        "ru": "Нетрадиционные факторы риска"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-hypertension-hiv",
+      "cells": [
+        {
+          "text": {
+            "en": "Hypertension (Section 4.2.7, “Blood Pressure Management”)",
+            "ru": "Артериальная гипертензия (Раздел 4.2.7, «Контроль артериального давления»)"
+          }
+        },
+        {
+          "text": {
+            "en": "HIV and ART (Section 6.8, “HIV/Autoimmune Disorders”)",
+            "ru": "ВИЧ и АРТ (Раздел 6.8, «ВИЧ / аутоиммунные заболевания»)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-obesity-substances",
+      "cells": [
+        {
+          "text": {
+            "en": "Obesity and metabolic syndrome (Section 4.2.9, “Weight Management”)",
+            "ru": "Ожирение и метаболический синдром (Раздел 4.2.9, «Контроль массы тела»)"
+          }
+        },
+        {
+          "text": {
+            "en": "Recreational substance use (cocaine and marijuana) (Section 4.2.4, “Alcohol and Substance Use”)",
+            "ru": "Употребление психоактивных веществ в рекреационных целях (кокаин и марихуана) (Раздел 4.2.4, «Алкоголь и психоактивные вещества»)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-diabetes-inflammatory",
+      "cells": [
+        {
+          "text": {
+            "en": "Diabetes (Section 4.2.8, “Sodium Glucose Cotransporter 2 Inhibitors and Glucagon Peptide-1 Receptor Agonists”)",
+            "ru": "Сахарный диабет (Раздел 4.2.8, «Ингибиторы натрий-глюкозного котранспортера 2 и агонисты рецепторов глюкагоноподобного пептида-1»)"
+          }
+        },
+        {
+          "text": {
+            "en": "Systemic inflammatory disorders (IBD, SLE, RA, gout, PsA, AS) and vasculitides",
+            "ru": "Системные воспалительные заболевания (ВЗК, СКВ, РА, подагра, ПсА, АС) и васкулиты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-lifestyle-pregnancy",
+      "cells": [
+        {
+          "text": {
+            "en": "Unhealthy diet and physical inactivity (Section 4.2.1, “Nutrition, including Supplements,” and Section 4.2.11, physical activity)",
+            "ru": "Нездоровое питание и гиподинамия (Раздел 4.2.1, «Питание, включая пищевые добавки» и Раздел 4.2.11, «Физическая активность»)"
+          }
+        },
+        {
+          "text": {
+            "en": "Pregnancy-related complications (IUGR, HDP, gestational diabetes) (Section 6.5, “Women, Including Pregnancy and Hormone Therapy”)",
+            "ru": "Осложнения беременности (ЗВУР, гипертензивные расстройства беременности [HDP], гестационный сахарный диабет) (Раздел 6.5, «Женщины, включая беременность и гормональную терапию»)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-hyperlipidemia-fh",
+      "cells": [
+        {
+          "text": {
+            "en": "Hyperlipidemia (LDL-C, Lp(a)) (Section 4.2.6, “Lipid Management”)",
+            "ru": "Гиперлипидемия (ХС ЛНП, Лп(a)) (Раздел 4.2.6, «Липидснижающая терапия»)"
+          }
+        },
+        {
+          "text": {
+            "en": "Familial hypercholesterolemia",
+            "ru": "Семейная гиперхолестеринемия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-tobacco-miscellaneous",
+      "cells": [
+        {
+          "text": {
+            "en": "Tobacco use (Section 4.2.3, “Tobacco Products”)",
+            "ru": "Употребление табака (Раздел 4.2.3, «Табачные изделия»)"
+          }
+        },
+        {
+          "text": {
+            "en": "Miscellaneous (psychological well-being, sleep quality, social determinants of health (Section 4.1.4, “Social Determinants of Health,” and Section 4.2.2, “Mental Health”)",
+            "ru": "Прочие факторы (психоэмоциональное благополучие, качество сна, социальные детерминанты здоровья) (Раздел 4.1.4, «Социальные детерминанты здоровья» и Раздел 4.2.2, «Психическое здоровье»)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-family-history-radiation",
+      "cells": [
+        {
+          "text": {
+            "en": "Family history of premature CAD",
+            "ru": "Отягощенный семейный анамнез раннего развития ИБС/КАД"
+          }
+        },
+        {
+          "text": {
+            "en": "History of chest radiation",
+            "ru": "Лучевая терапия органов грудной клетки в анамнезе"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

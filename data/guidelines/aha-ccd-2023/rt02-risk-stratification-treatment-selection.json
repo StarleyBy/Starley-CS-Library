@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt02-risk-stratification-treatment-selection",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 2",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Risk Stratification and Relationship to Treatment Selection",
+    "ru": "Рекомендации по стратификации риска и выбору лечебной тактики"
+  },
+  "tags": [
+    "ccd",
+    "risk-stratification",
+    "prognosis",
+    "gdmt",
+    "lv-dysfunction",
+    "heart-failure",
+    "ica",
+    "revascularization"
+  ],
+  "sections": [
+    {
+      "id": "sec-risk-stratification-prognosis",
+      "title": {
+        "en": "Risk Stratification and Prognosis",
+        "ru": "Стратификация риска и прогноз"
+      },
+      "rows": [
+        {
+          "id": "r01-risk-stratification-all-info",
+          "text": {
+            "en": "In patients with CCD, it is recommended that risk stratification incorporate all available information, including noninvasive, invasive, or both cardiovascular diagnostic testing results or use validated risk scores to classify patients as low (<1%), intermediate (1%-3%), or high (>3%) yearly risk for cardiovascular death or nonfatal MI.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) рекомендуется проводить стратификацию риска с учетом всей доступной информации, включая результаты неинвазивных, инвазивных или комбинированных кардиоваскулярных диагностических тестов, либо использовать валидированные шкалы риска для классификации пациентов на категории низкого (<1%), промежуточного (1%–3%) или высокого (>3%) годового риска сердечно-сосудистой смерти или нефатального ИМ.^[a]"
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4]
+        }
+      ]
+    },
+    {
+      "id": "sec-relationship-to-treatment",
+      "title": {
+        "en": "Relationship to Treatment",
+        "ru": "Взаимосвязь с выбором тактики лечения"
+      },
+      "rows": [
+        {
+          "id": "r02-gdmt-optimization",
+          "text": {
+            "en": "In patients with CCD, optimization of GDMT is recommended to reduce MACE.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) рекомендуется оптимизация ОМТ (GDMT) для снижения риска развития MACE.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [5, 6, 7]
+        },
+        {
+          "id": "r03-ica-reduced-lv-systolic-function-hf",
+          "text": {
+            "en": "In patients with CCD with newly reduced LV systolic function, clinical heart failure, or both, ICA is recommended to assess coronary anatomy and guide potential revascularization.",
+            "ru": "У пациентов с ХИБС (CCD) с впервые выявленным снижением систолической функции ЛЖ, клинической сердечной недостаточностью или их сочетанием рекомендуется проведение инвазивной коронарографии (КАГ/ICA) для оценки коронарной анатомии и определения возможности реваскуляризации."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [8, 9]
+        },
+        {
+          "id": "r04-no-routine-ica-low-risk",
+          "text": {
+            "en": "In patients with CCD, ICA for risk stratification is not routinely recommended in patients without LV systolic dysfunction, heart failure, stable chest pain refractory to GDMT, and/or noninvasive testing suggestive of significant (>50%) left main disease.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) проведение инвазивной коронарографии (КАГ/ICA) с целью стратификации риска рутинно не рекомендуется при отсутствии систолической дисфункции ЛЖ, сердечной недостаточности, стабильной боли в груди, рефрактерной к ОМТ, и/или данных неинвазивных тестов, указывающих на значимое (>50%) поражение ствола левой коронарной артерии.^[a]"
+          },
+          "class": "III-no-benefit",
+          "level": "A",
+          "refs": [5, 6, 7, 10, 11]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the 2021 AHA/ACC/Multisociety Guideline for the Evaluation and Diagnosis of Chest Pain.12",
+      "ru": "*Модифицировано из Руководства AHA/ACC 2021 по оценке и диагностике боли в грудной клетке.12"
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

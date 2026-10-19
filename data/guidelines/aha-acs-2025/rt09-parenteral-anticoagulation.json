@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt09-parenteral-anticoagulation",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 9",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Parenteral Anticoagulation",
+    "ru": "Рекомендации по парентеральной антикоагулянтной терапии"
+  },
+  "tags": [
+    "acs",
+    "anticoagulation",
+    "parenteral",
+    "ufh",
+    "enoxaparin",
+    "fondaparinux",
+    "bivalirudin",
+    "pci",
+    "ppci",
+    "fibrinolysis",
+    "catheter-thrombosis"
+  ],
+  "sections": [
+    {
+      "id": "sec-nste-acs-upstream-anticoagulant",
+      "title": {
+        "en": "NSTE-ACS: Upstream* Anticoagulant Therapy^[a]",
+        "ru": "ОКСбпST (NSTE-ACS): предварительная (upstream*) антикоагулянтная терапия^[a]"
+      },
+      "rows": [
+        {
+          "id": "r01-nste-acs-upstream-ufh",
+          "text": {
+            "en": "In patients with NSTE-ACS, intravenous unfractionated heparin (UFH) is useful to reduce ischemic events.^[b]",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS) внутривенное введение нефракционированного гепарина (НФГ/UFH) полезно для снижения частоты ишемических событий.^[b]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-nste-acs-no-early-invasive-enoxaparin-fondaparinux",
+          "text": {
+            "en": "In patients with NSTE-ACS in whom an early invasive approach is not anticipated, either enoxaparin or fondaparinux are recommended alternatives to UFH to reduce ischemic events.",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS), которым не планируется ранняя инвазивная тактика, эноксапарин или фондапаринукс являются рекомендуемыми альтернативами НФГ для снижения частоты ишемических событий."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [5, 6, 7, 8, 9, 10, 11]
+        }
+      ]
+    },
+    {
+      "id": "sec-anticoagulant-coronary-revascularization",
+      "title": {
+        "en": "Anticoagulant Therapy in Patients Undergoing Coronary Revascularization",
+        "ru": "Антикоагулянтная терапия у пациентов, подвергающихся реваскуляризации миокарда"
+      },
+      "rows": [
+        {
+          "id": "r03-anticoagulation-continued-until-revascularization",
+          "text": {
+            "en": "In patients with ACS undergoing coronary revascularization (CABG or PCI) in the same admission, parenteral anticoagulation should be continued until revascularization to reduce ischemic events.",
+            "ru": "У пациентов с ОКС, подвергающихся реваскуляризации миокарда (КШ или ЧКВ) в течение той же госпитализации, парентеральная антикоагулянтная терапия должна продолжаться до момента реваскуляризации для снижения частоты ишемических событий."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [12, 13]
+        }
+      ]
+    },
+    {
+      "id": "sec-anticoagulant-support-pci",
+      "title": {
+        "en": "Anticoagulant Therapy to Support PCI in ACS (STEMI and NSTE-ACS)",
+        "ru": "Антикоагулянтная терапия для обеспечения ЧКВ при ОКС (ИМпST и ОКСбпST)"
+      },
+      "rows": [
+        {
+          "id": "r04-pci-support-iv-ufh",
+          "text": {
+            "en": "In patients with ACS undergoing PCI, intravenous UFH is useful to reduce ischemic events.^[b]",
+            "ru": "У пациентов с ОКС, подвергающихся ЧКВ (PCI), внутривенное введение НФГ (UFH) полезно для снижения частоты ишемических событий.^[b]"
+          },
+          "class": "I",
+          "level": "C-EO"
+        },
+        {
+          "id": "r05-stemi-pci-bivalirudin",
+          "text": {
+            "en": "In patients with STEMI undergoing PCI, bivalirudin is useful as an alternative to UFH to reduce mortality and bleeding.^[b]",
+            "ru": "У пациентов с ИМпST (STEMI), подвергающихся ЧКВ, бивалирудин полезен в качестве альтернативы НФГ для снижения смертности и кровотечений.^[b]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [14, 15, 16, 17, 18, 19]
+        },
+        {
+          "id": "r06-nste-acs-pci-bivalirudin",
+          "text": {
+            "en": "In patients with NSTE-ACS undergoing PCI, bivalirudin may be reasonable as an alternative to UFH to reduce bleeding.^[b]",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS), подвергающихся ЧКВ, применение бивалирудина может быть целесообразным в качестве альтернативы НФГ для уменьшения кровотечений.^[b]"
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [15, 20, 21, 22, 23]
+        },
+        {
+          "id": "r07-acs-pci-iv-enoxaparin",
+          "text": {
+            "en": "In patients with ACS, intravenous enoxaparin may be considered as an alternative to UFH at the time of PCI to reduce ischemic events.^[c]",
+            "ru": "У пациентов с ОКС внутривенное введение эноксапарина может рассматриваться в качестве альтернативы НФГ во время ЧКВ для снижения частоты ишемических событий.^[c]"
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [18, 24, 25, 26]
+        },
+        {
+          "id": "r08-acs-pci-no-fondaparinux-catheter-thrombosis",
+          "text": {
+            "en": "In patients with ACS, fondaparinux should not be used to support PCI because of the risk of catheter thrombosis.",
+            "ru": "У пациентов с ОКС фондапаринукс не должен использоваться для обеспечения ЧКВ из-за риска катетерного тромбоза."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [5, 27]
+        }
+      ]
+    },
+    {
+      "id": "sec-stemi-anticoagulant-fibrinolytic",
+      "title": {
+        "en": "STEMI: Anticoagulant Therapy Treated With Fibrinolytic Therapy",
+        "ru": "ИМпST (STEMI): антикоагулянтная терапия при проведении фибринолиза"
+      },
+      "rows": [
+        {
+          "id": "r09-stemi-fibrinolysis-anticoagulation-duration",
+          "text": {
+            "en": "In patients with STEMI treated with fibrinolytic therapy, parenteral anticoagulation should be continued for the duration of the hospital stay (maximum of 8 days) or until revascularization is performed to reduce ischemic events.",
+            "ru": "У пациентов с ИМпST (STEMI), получавших фибринолитическую терапию, парентеральная антикоагуляция должна продолжаться на протяжении всего периода пребывания в стационаре (максимум до 8 дней) или до выполнения реваскуляризации для снижения частоты ишемических событий."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [9, 10, 27, 28, 29]
+        },
+        {
+          "id": "r10-stemi-fibrinolysis-no-invasive-enoxaparin",
+          "text": {
+            "en": "In patients with STEMI treated with fibrinolytic therapy who are not intended to undergo an invasive approach, enoxaparin is the recommended anticoagulant to reduce ischemic events.",
+            "ru": "У пациентов с ИМпST (STEMI), получавших фибринолитическую терапию, которым не планируется инвазивная стратегия, эноксапарин является рекомендуемым антикоагулянтом для снижения частоты ишемических событий."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [9, 10, 28, 29]
+        },
+        {
+          "id": "r11-stemi-fibrinolysis-no-invasive-fondaparinux",
+          "text": {
+            "en": "In patients with STEMI treated with fibrinolytic therapy who are not intended to undergo an invasive approach, fondaparinux is a recommended alternative to reduce ischemic events.",
+            "ru": "У пациентов с ИМпST (STEMI), получавших фибринолитическую терапию, которым не планируется инвазивная стратегия, фондапаринукс является рекомендуемой альтернативой для снижения частоты ишемических событий."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [27, 30]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*At the time of diagnosis and prior to invasive coronary angiography if planned.",
+      "ru": "*В момент установления диагноза и до проведения инвазивной коронарографии (если планируется)."
+    },
+    "b": {
+      "en": "†Adapted from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "†Адаптировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    },
+    "c": {
+      "en": "‡Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "‡Модифицировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    }
+  },
+  "source": {
+    "expectedRows": 11
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

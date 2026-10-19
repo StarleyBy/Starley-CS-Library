@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t17-invasive-coronary-function-testing-inoca",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 17",
+  "type": "grid",
+  "title": {
+    "en": "Invasive Coronary Function Testing Definition and Linked Pharmacotherapy for INOCA Endotypes",
+    "ru": "Определение эндотипов INOCA при инвазивной оценке функции коронарных артерий и соответствующая фармакотерапия"
+  },
+  "tags": [
+    "ccd",
+    "inoca",
+    "mva",
+    "vsa",
+    "cmd",
+    "cfr",
+    "imr",
+    "pharmacotherapy",
+    "endotypes",
+    "calcium-channel-blockers",
+    "beta-blockers",
+    "nicorandil",
+    "ranolazine"
+  ],
+  "columns": [
+    {
+      "id": "endotype",
+      "title": {
+        "en": "Endotype",
+        "ru": "Эндотип"
+      }
+    },
+    {
+      "id": "disorder",
+      "title": {
+        "en": "Disorder of Coronary Artery Function",
+        "ru": "Нарушение функции коронарных артерий"
+      }
+    },
+    {
+      "id": "definition",
+      "title": {
+        "en": "Diagnostic Definition",
+        "ru": "Диагностические критерии и параметры"
+      }
+    },
+    {
+      "id": "pharmacotherapy",
+      "title": {
+        "en": "Linked Pharmacotherapy",
+        "ru": "Связанная медикаментозная терапия"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "mva-increased-resistance",
+      "cells": [
+        {
+          "text": {
+            "en": "**Microvascular angina**\n(nonobstructive CAD and proven CMD)",
+            "ru": "**Микроваскулярная стенокардия (МВС)**\n(необструктивная ИБС и подтвержденная КМД)"
+          }
+        },
+        {
+          "text": {
+            "en": "↑ Microvascular resistance",
+            "ru": "↑ Микрососудистое сопротивление"
+          }
+        },
+        {
+          "text": {
+            "en": "IMR ≥25.\nIMR is a quantitative method for specifically assessing microvascular function independent resting hemodynamics.\nIMR is distal coronary pressure × transit time (average time for 3 saline bolus runs at hyperemia).",
+            "ru": "IMR ≥25.\nIMR — метод специфической количественной оценки микрососудистой функции, независимый от гемодинамики покоя.\nIMR рассчитывается как дистальное коронарное давление, умноженное на среднее время транзита 3 болюсов физраствора при гиперемии."
+          }
+        },
+        {
+          "text": {
+            "en": "**Baseline therapy:** Consider aspirin, statin, and ACEi therapy in all patients. Sublingual nitroglycerin as needed.\nSmoking cessation and lifestyle changes.\n\n**Antianginal Rx:**\n• **First line:** Beta blocker (eg, carvedilol 6.25 mg BID uptitrated)\n• **Second line:** CCB substituted (non-DHP [eg, verapamil 40 mg BID titrated]) where beta blockers are not tolerated or ineffective.\n• **Third line:** Add-in therapy: CCB-DHP (eg, amlodipine) only for those on beta blockers; nicorandil^[a] (5 mg BID uptitrated); ranolazine (375 mg BID uptitrated)",
+            "ru": "**Базисная терапия:** Рассмотреть аспирин, статин и иАПФ (ACEi) у всех пациентов. Сублингвальный нитроглицерин по потребности.\nОтказ от курения и модификация образа жизни.\n\n**Антиангинальная терапия:**\n• **1-я линия:** Бета-адреноблокатор (например, карведилол 6,25 мг 2 р/сут с титрацией)\n• **2-я линия:** Замена на БКК (недигидропиридиновый [например, верапамил 40 мг 2 р/сут с титрацией]), если бета-блокаторы не переносятся или неэффективны.\n• **3-я линия:** Дополнительная терапия: дигидропиридиновый БКК (например, амлодипин) только в сочетании с бета-блокаторами; никорандил^[a] (5 мг 2 р/сут с титрацией); ранолазин (375 мг 2 р/сут с титрацией)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mva-reduced-vasorelaxation",
+      "cells": [
+        {
+          "text": {
+            "en": "**Microvascular angina** (continued)",
+            "ru": "**Микроваскулярная стенокардия** (продолжение)"
+          }
+        },
+        {
+          "text": {
+            "en": "↓ Coronary vasorelaxation",
+            "ru": "↓ Коронарная вазорелаксация"
+          }
+        },
+        {
+          "text": {
+            "en": "CFR by thermodilution <2.0.\nThis reflects the inability to increase coronary flow above 2 times the resting flow.",
+            "ru": "CFR (КРК) по данным термодилюции <2,0.\nОтражает неспособность увеличить коронарный кровоток более чем в 2 раза по сравнению с уровнем покоя."
+          }
+        },
+        {
+          "text": {
+            "en": "Same as for microvascular resistance (beta blockers, CCB, lifestyle, baseline prevention).",
+            "ru": "Аналогично эндотипу повышенного микрососудистого сопротивления (бета-блокаторы, БКК, модификация образа жизни, базисная профилактика)."
+          }
+        }
+      ]
+    },
+    {
+      "id": "mva-reduced-microvasodilator-capacity",
+      "cells": [
+        {
+          "text": {
+            "en": "**Microvascular angina** (continued)",
+            "ru": "**Микроваскулярная стенокардия** (продолжение)"
+          }
+        },
+        {
+          "text": {
+            "en": "↓ Microvasodilator capacity",
+            "ru": "↓ Микровазодилатирующая способность"
+          }
+        },
+        {
+          "text": {
+            "en": "Resistive reserve ratio <2.0.\nThis reflects the vasodilator capacity of the microcirculation to change from baseline to hyperemia (resistance at rest divided by resistance at hyperemia).",
+            "ru": "Резерв сопротивления (Resistive reserve ratio) <2,0.\nОтражает сосудорасширяющую способность микроциркуляторного русла при переходе от покоя к гиперемии (сопротивление в покое, деленное на сопротивление при гиперемии)."
+          }
+        },
+        {
+          "text": {
+            "en": "Same as for microvascular resistance.",
+            "ru": "Аналогично эндотипу повышенного микрососудистого сопротивления."
+          }
+        }
+      ]
+    },
+    {
+      "id": "mva-microvascular-spasm",
+      "cells": [
+        {
+          "text": {
+            "en": "**Microvascular angina** (continued)",
+            "ru": "**Микроваскулярная стенокардия** (продолжение)"
+          }
+        },
+        {
+          "text": {
+            "en": "Microvascular spasm",
+            "ru": "Микрососудистый спазм"
+          }
+        },
+        {
+          "text": {
+            "en": "Angina during acetylcholine infusion or bolus with typical ischemic ST-segment changes and epicardial coronary constriction <90% reduction in epicardial coronary artery diameter. Represents inappropriate susceptibility microvascular constriction.",
+            "ru": "Стенокардия при введении ацетилхолина с типичными ишемическими изменениями сегмента ST и эпикардиальной констрикцией <90% уменьшения диаметра артерии. Отражает патологическую микрососудистую гиперконстрикцию."
+          }
+        },
+        {
+          "text": {
+            "en": "Same as for microvascular resistance; CCB preferred as first-line therapy.",
+            "ru": "Аналогично микрососудистому сопротивлению; БКК являются предпочтительной терапией первой линии."
+          }
+        }
+      ]
+    },
+    {
+      "id": "vasospastic-angina",
+      "cells": [
+        {
+          "text": {
+            "en": "**Vasospastic angina**",
+            "ru": "**Вазоспастическая стенокардия (ВСС/VSA)**"
+          }
+        },
+        {
+          "text": {
+            "en": "Epicardial spasm",
+            "ru": "Эпикардиальный спазм"
+          }
+        },
+        {
+          "text": {
+            "en": "Epicardial coronary artery spasm is defined as reduction in coronary diameter >90% after intracoronary acetylcholine in comparison with baseline resting condition after intracoronary glyceryl trinitrate (nitroglycerin) administration in any epicardial coronary artery segment together with symptoms and ST-segment deviation on the ECG.",
+            "ru": "Эпикардиальный спазм определяется как уменьшение диаметра артерии >90% после интракоронарного введения ацетилхолина по сравнению с исходным состоянием покоя после интракоронарного нитроглицерина в любом сегменте в сочетании с симптомами и смещением сегмента ST на ЭКГ."
+          }
+        },
+        {
+          "text": {
+            "en": "**Baseline therapy:** If atherosclerosis or endothelial impairment, aspirin and statin should be considered. Sublingual nitroglycerin as needed.\nSmoking cessation and lifestyle changes.\n\n**Antianginal Rx:**\n• **First line:** CCB (eg, verapamil 40 mg BID uptitrated)\n• **Second line:** Add long-acting nitrate (eg, isosorbide mononitrate 10 mg BID)\n• **Third line:** Change nitrate to nicorandil^[a] (eg, nicorandil 5 mg BID)",
+            "ru": "**Базисная терапия:** При атеросклерозе или эндотелиальной дисфункции рассмотреть аспирин и статин. Сублингвальный нитроглицерин по потребности.\nОтказ от курения и изменение образа жизни.\n\n**Антиангинальная терапия:**\n• **1-я линия:** БКК (например, верапамил 40 мг 2 р/сут с титрацией вверх)\n• **2-я линия:** Добавление пролонгированного нитрата (например, изосорбида мононитрат 10 мг 2 р/сут)\n• **3-я линия:** Замена нитрата на никорандил^[a] (например, никорандил 5 мг 2 р/сут)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mixed-mva-vsa",
+      "cells": [
+        {
+          "text": {
+            "en": "**Mixed MVA/VSA**",
+            "ru": "**Смешанная МВС/ВСС (MVA/VSA)**"
+          }
+        },
+        {
+          "text": {
+            "en": "CMD and epicardial vasospasm",
+            "ru": "КМД (CMD) и эпикардиальный вазоспазм"
+          }
+        },
+        {
+          "text": {
+            "en": "Epicardial spasm plus any abnormality of:\n• Microvascular resistance\n• Coronary vasorelaxation\n• Microvasodilator capacity",
+            "ru": "Эпикардиальный спазм плюс любое из нарушений:\n• Микрососудистого сопротивления\n• Коронарной вазорелаксации\n• Микровазодилатирующей способности"
+          }
+        },
+        {
+          "text": {
+            "en": "**Baseline therapy:** Consider aspirin, statin, and ACEi therapy in all patients. Sublingual nitroglycerin as needed. Combined therapy with CCB plus nitrates/ranolazine.",
+            "ru": "**Базисная терапия:** Рассмотреть аспирин, статин и иАПФ у всех пациентов. Сублингвальный нитроглицерин по потребности. Комбинированная терапия БКК с нитратами или ранолазином."
+          }
+        }
+      ]
+    },
+    {
+      "id": "obstructive-cad",
+      "cells": [
+        {
+          "text": {
+            "en": "**Obstructive CAD**",
+            "ru": "**Обструктивная ИБС**"
+          }
+        },
+        {
+          "text": {
+            "en": "Epicardial stenosis",
+            "ru": "Эпикардиальный стеноз"
+          }
+        },
+        {
+          "text": {
+            "en": ">50% lesion by diameter stenosis in epicardial artery >2.5 mm or a FFR ≤0.80",
+            "ru": ">50% стеноз диаметра в эпикардиальной артерии диаметром >2,5 мм или ФРК (FFR) ≤0,80"
+          }
+        },
+        {
+          "text": {
+            "en": "**Baseline therapy:** If atherosclerosis or endothelial impairment, patients should be considered for aspirin, statin, and ACEi.\nConsideration of revascularization, antianginal therapy as per guidelines.",
+            "ru": "**Базисная терапия:** При атеросклерозе или эндотелиальной дисфункции показаны аспирин, статин и иАПФ.\nРассмотрение вопроса о реваскуляризации, антиангинальная терапия согласно руководствам."
+          }
+        }
+      ]
+    },
+    {
+      "id": "noncardiac",
+      "cells": [
+        {
+          "text": {
+            "en": "**Noncardiac**",
+            "ru": "**Некардиальный генез симптомов**"
+          }
+        },
+        {
+          "text": {
+            "en": "None",
+            "ru": "Отсутствуют"
+          }
+        },
+        {
+          "text": {
+            "en": "Exclusion of diffuse or obstructive epicardial coronary disease (FFR >0.8) without any of the abnormalities of coronary function: CFR <2.0, IMR ≥25 or functional angina/spasm during acetylcholine.",
+            "ru": "Исключение диффузного или обструктивного поражения эпикардиальных артерий (ФРК/FFR >0,80) при отсутствии функциональных нарушений: CFR <2,0, IMR ≥25 или индуцированного спазма/стенокардии при пробе с ацетилхолином."
+          }
+        },
+        {
+          "text": {
+            "en": "Cessation of antianginal therapy. Stop antiplatelet and statins unless other indication.\nConsider noncardiac investigation or referral where appropriate (eg, psychology, gastroenterology).",
+            "ru": "Отмена антиангинальной терапии. Отмена антиагрегантов и статинов (если нет других показаний).\nРассмотрение некардиального обследования или консультаций специалистов (например, гастроэнтеролога, психотерапевта)."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Currently unavailable in the United States.",
+      "ru": "В настоящее время препарат недоступен в США."
+    }
+  },
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t24-ddi-statins-immunosuppressants",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 24",
+  "type": "grid",
+  "title": {
+    "en": "Drug-Drug Interactions With Statins and Immunosuppressants and Recommendations for Management",
+    "ru": "Лекарственные взаимодействия между статинами и иммуносупрессорами и рекомендации по тактике ведения"
+  },
+  "tags": [
+    "ccd",
+    "heart-transplantation",
+    "statins",
+    "immunosuppressants",
+    "cyclosporine",
+    "tacrolimus",
+    "drug-interactions",
+    "myopathy",
+    "rhabdomyolysis"
+  ],
+  "columns": [
+    {
+      "id": "immunosuppressant",
+      "title": {
+        "en": "Immunosuppressant",
+        "ru": "Иммуносупрессор"
+      }
+    },
+    {
+      "id": "statin",
+      "title": {
+        "en": "Statin",
+        "ru": "Статин"
+      }
+    },
+    {
+      "id": "effect",
+      "title": {
+        "en": "Effect",
+        "ru": "Эффект"
+      }
+    },
+    {
+      "id": "magnitude",
+      "title": {
+        "en": "Magnitude",
+        "ru": "Выраженность эффекта"
+      }
+    },
+    {
+      "id": "recommendation",
+      "title": {
+        "en": "Recommendation",
+        "ru": "Рекомендация"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-atorvastatin",
+      "cells": [
+        {
+          "text": {
+            "en": "Cyclosporine / tacrolimus / everolimus / sirolimus^[a]",
+            "ru": "Циклоспорин / такролимус / эверолимус / сиролимус^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Atorvastatin",
+            "ru": "Аторвастатин"
+          }
+        },
+        {
+          "text": {
+            "en": "Increased statin exposure through multiple mechanisms. Increased risk for muscle-related toxicity.",
+            "ru": "Повышение системной экспозиции статина вследствие множественных механизмов. Повышенный риск мышечной токсичности (миопатии/рабдомиолиза)."
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "Severe\n6- to 15-fold increase in AUC of atorvastatin",
+            "ru": "Тяжелая\nУвеличение AUC аторвастатина в 6–15 раз"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "Limit dose of atorvastatin to 10 mg daily",
+            "ru": "Ограничить дозу аторвастатина до 10 мг/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-rosuvastatin",
+      "cells": [
+        {
+          "text": {
+            "en": "Cyclosporine / tacrolimus / everolimus / sirolimus^[a]",
+            "ru": "Циклоспорин / такролимус / эверолимус / сиролимус^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Rosuvastatin",
+            "ru": "Розувастатин"
+          }
+        },
+        {
+          "text": {
+            "en": "Increased statin exposure through multiple mechanisms. Increased risk for muscle-related toxicity.",
+            "ru": "Повышение системной экспозиции статина вследствие множественных механизмов. Повышенный риск мышечной токсичности (миопатии/рабдомиолиза)."
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "Severe\n7-fold increase in AUC of rosuvastatin",
+            "ru": "Тяжелая\nУвеличение AUC розувастатина в 7 раз"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "Limit dose of rosuvastatin to 5 mg daily",
+            "ru": "Ограничить дозу розувастатина до 5 мг/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-pravastatin",
+      "cells": [
+        {
+          "text": {
+            "en": "Cyclosporine / tacrolimus / everolimus / sirolimus^[a]",
+            "ru": "Циклоспорин / такролимус / эверолимус / сиролимус^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Pravastatin",
+            "ru": "Правастатин"
+          }
+        },
+        {
+          "text": {
+            "en": "Increased statin exposure through multiple mechanisms. Increased risk for muscle-related toxicity.",
+            "ru": "Повышение системной экспозиции статина вследствие множественных механизмов. Повышенный риск мышечной токсичности (миопатии/рабдомиолиза)."
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "Severe\n5- to 10-fold increase in AUC of pravastatin",
+            "ru": "Тяжелая\nУвеличение AUC правастатина в 5–10 раз"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "Limit dose of pravastatin to 40 mg daily",
+            "ru": "Ограничить дозу правастатина до 40 мг/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-fluvastatin",
+      "cells": [
+        {
+          "text": {
+            "en": "Cyclosporine / tacrolimus / everolimus / sirolimus^[a]",
+            "ru": "Циклоспорин / такролимус / эверолимус / сиролимус^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Fluvastatin",
+            "ru": "Флувастатин"
+          }
+        },
+        {
+          "text": {
+            "en": "Increased statin exposure through multiple mechanisms. Increased risk for muscle-related toxicity.",
+            "ru": "Повышение системной экспозиции статина вследствие множественных механизмов. Повышенный риск мышечной токсичности (миопатии/рабдомиолиза)."
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "Moderate\n2- to 4-fold increase in AUC of fluvastatin",
+            "ru": "Умеренная\nУвеличение AUC флувастатина в 2–4 раза"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "Limit dose of fluvastatin 40 mg daily",
+            "ru": "Ограничить дозу флувастатина до 40 мг/сут"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-simvastatin",
+      "cells": [
+        {
+          "text": {
+            "en": "Cyclosporine / tacrolimus / everolimus / sirolimus^[a]",
+            "ru": "Циклоспорин / такролимус / эверолимус / сиролимус^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Simvastatin",
+            "ru": "Симвастатин"
+          }
+        },
+        {
+          "text": {
+            "en": "Increased statin exposure through multiple mechanisms. Increased risk for muscle-related toxicity.",
+            "ru": "Повышение системной экспозиции статина вследствие множественных механизмов. Повышенный риск мышечной токсичности (миопатии/рабдомиолиза)."
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "Severe\n6- to 8-fold increase in AUC of simvastatin",
+            "ru": "Тяжелая\nУвеличение AUC симвастатина в 6–8 раз"
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "Avoid combination",
+            "ru": "Избегать комбинации (противопоказано)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-lovastatin",
+      "cells": [
+        {
+          "text": {
+            "en": "Cyclosporine / tacrolimus / everolimus / sirolimus^[a]",
+            "ru": "Циклоспорин / такролимус / эверолимус / сиролимус^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Lovastatin",
+            "ru": "Ловастатин"
+          }
+        },
+        {
+          "text": {
+            "en": "Increased statin exposure through multiple mechanisms. Increased risk for muscle-related toxicity.",
+            "ru": "Повышение системной экспозиции статина вследствие множественных механизмов. Повышенный риск мышечной токсичности (миопатии/рабдомиолиза)."
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "Severe\n5- to 20-fold increase in AUC of lovastatin",
+            "ru": "Тяжелая\nУвеличение AUC ловастатина в 5–20 раз"
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "Avoid combination",
+            "ru": "Избегать комбинации (противопоказано)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-pitavastatin",
+      "cells": [
+        {
+          "text": {
+            "en": "Cyclosporine / tacrolimus / everolimus / sirolimus^[a]",
+            "ru": "Циклоспорин / такролимус / эверолимус / сиролимус^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Pitavastatin",
+            "ru": "Питавастатин"
+          }
+        },
+        {
+          "text": {
+            "en": "Increased statin exposure through multiple mechanisms. Increased risk for muscle-related toxicity.",
+            "ru": "Повышение системной экспозиции статина вследствие множественных механизмов. Повышенный риск мышечной токсичности (миопатии/рабдомиолиза)."
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "Severe\n5-fold increase in AUC of pitavastatin",
+            "ru": "Тяжелая\nУвеличение AUC питавастатина в 5 раз"
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "Avoid combination",
+            "ru": "Избегать комбинации (противопоказано)"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Magnitude of drug-drug interactions based on AUC increase: minor, >1.25 to <2; moderate, ≥2 to 4.9; and severe, ≥5. Changes in magnitude of statin AUC are reported with cyclosporine. Limited data exist with tacrolimus, everolimus, and sirolimus. Adapted with permission from Wiggins BS, et al. Copyright 2016 American Heart Association, Inc.",
+      "ru": "Степень межлекарственного взаимодействия на основе роста AUC: незначительная (>1.25 до <2); умеренная (≥2 до 4.9); тяжелая (≥5). Данные об увеличении AUC статинов получены в основном для циклоспорина. Данные для такролимуса, эверолимуса и сиролимуса ограничены. Воспроизведено с разрешения Wiggins BS, et al. Авторское право 2016 American Heart Association, Inc."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t22-the-geriatric-5-ms",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 22",
+  "type": "grid",
+  "title": {
+    "en": "The Geriatric 5 Ms",
+    "ru": "Гериатрическая концепция 5M (The Geriatric 5 Ms)"
+  },
+  "tags": [
+    "ccd",
+    "geriatrics",
+    "older-adults",
+    "5ms",
+    "mind",
+    "mobility",
+    "medications",
+    "multicomplexity",
+    "matters-most"
+  ],
+  "columns": [
+    {
+      "id": "domain",
+      "title": {
+        "en": "Domain (5 Ms)",
+        "ru": "Домен концепции 5M"
+      }
+    },
+    {
+      "id": "details",
+      "title": {
+        "en": "Description and Focus Areas",
+        "ru": "Описание и фокусные области"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-mind",
+      "cells": [
+        {
+          "text": {
+            "en": "MIND",
+            "ru": "MIND (Интеллект и ментальный статус)"
+          }
+        },
+        {
+          "text": {
+            "en": "Mentation, dementia, delirium, depression",
+            "ru": "Когнитивный статус, деменция, делирий, депрессия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-mobility",
+      "cells": [
+        {
+          "text": {
+            "en": "MOBILITY",
+            "ru": "MOBILITY (Мобильность)"
+          }
+        },
+        {
+          "text": {
+            "en": "Impaired gait and balance, fall injury prevention",
+            "ru": "Нарушения походки и равновесия, профилактика падений и связанных с ними травм"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-medications",
+      "cells": [
+        {
+          "text": {
+            "en": "MEDICATIONS",
+            "ru": "MEDICATIONS (Медикаменты)"
+          }
+        },
+        {
+          "text": {
+            "en": "Polypharmacy, deprescribing, optimal prescribing\n\nAdverse medication effects and medication burden",
+            "ru": "Полипрагмазия, депрескрипция (отмена нецелесообразных препаратов), оптимизация назначений\n\nНежелательные лекарственные реакции и бремя медикаментозной нагрузки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-multicomplexity",
+      "cells": [
+        {
+          "text": {
+            "en": "MULTICOMPLEXITY",
+            "ru": "MULTICOMPLEXITY (Мультиморбидность и сложность)"
+          }
+        },
+        {
+          "text": {
+            "en": "Multimorbidity\n\nComplex biopsychosocial situations",
+            "ru": "Мультиморбидность (полиморбидность)\n\nСложные биопсихосоциальные ситуации и контекст"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-matters-most",
+      "cells": [
+        {
+          "text": {
+            "en": "MATTERS MOST",
+            "ru": "MATTERS MOST (Жизненные приоритеты пациента)"
+          }
+        },
+        {
+          "text": {
+            "en": "Each individual’s own meaningful health outcome goals and care preferences",
+            "ru": "Индивидуальные значимые цели пациента в отношении здоровья и личные предпочтения по оказанию медицинской помощи"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

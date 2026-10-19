@@ -1,0 +1,414 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t12-nonpharmacologic-strategies-bp-management",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 12",
+  "type": "grid",
+  "title": {
+    "en": "Nonpharmacologic Strategies for Blood Pressure Management",
+    "ru": "Немедикаментозные стратегии контроля артериального давления"
+  },
+  "tags": [
+    "ccd",
+    "blood-pressure",
+    "hypertension",
+    "lifestyle",
+    "nonpharmacologic",
+    "weight-loss",
+    "dash-diet",
+    "sodium",
+    "potassium",
+    "physical-activity",
+    "alcohol"
+  ],
+  "columns": [
+    {
+      "id": "intervention",
+      "title": {
+        "en": "Nonpharmacologic Intervention",
+        "ru": "Немедикаментозное вмешательство"
+      }
+    },
+    {
+      "id": "dose",
+      "title": {
+        "en": "Dose / Parameter",
+        "ru": "Параметр / Доза"
+      }
+    },
+    {
+      "id": "strategy",
+      "title": {
+        "en": "Target / Strategy",
+        "ru": "Целевой ориентир / Стратегия"
+      }
+    },
+    {
+      "id": "sbp-hypertension",
+      "title": {
+        "en": "Impact on SBP: Hypertension",
+        "ru": "Снижение САД: Гипертензия"
+      }
+    },
+    {
+      "id": "sbp-normotension",
+      "title": {
+        "en": "Impact on SBP: Normotension",
+        "ru": "Снижение САД: Нормотензия"
+      }
+    },
+    {
+      "id": "reference",
+      "title": {
+        "en": "Reference",
+        "ru": "Ссылки"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "weight-loss",
+      "cells": [
+        {
+          "text": {
+            "en": "**Weight loss**",
+            "ru": "**Снижение массы тела**"
+          }
+        },
+        {
+          "text": {
+            "en": "Weight/body fat",
+            "ru": "Масса тела / жировая масса"
+          }
+        },
+        {
+          "text": {
+            "en": "Best goal is ideal body weight but aim for at least a 1-kg reduction in body weight for most adults who are overweight. Expect about 1 mm Hg for every 1-kg reduction in body weight.",
+            "ru": "Оптимальная цель — идеальная масса тела, но для большинства взрослых с избыточной массой тела следует стремиться к снижению массы тела как минимум на 1 кг. Ожидается снижение САД примерно на 1 мм рт. ст. на каждый 1 кг снижения массы тела."
+          }
+        },
+        {
+          "text": {
+            "en": "−5 mm Hg",
+            "ru": "−5 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "−2/3 mm Hg",
+            "ru": "−2/3 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "5",
+            "ru": "5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "healthy-diet",
+      "cells": [
+        {
+          "text": {
+            "en": "**Healthy diet**",
+            "ru": "**Здоровое питание**"
+          }
+        },
+        {
+          "text": {
+            "en": "DASH dietary pattern",
+            "ru": "Диетический паттерн DASH"
+          }
+        },
+        {
+          "text": {
+            "en": "Consume a diet rich in fruits, vegetables, whole grains, and low-fat dairy products, with reduced content of saturated and total fat.",
+            "ru": "Рацион, богатый фруктами, овощами, цельнозерновыми продуктами и маложирными молочными продуктами, с пониженным содержанием насыщенных и общих жиров."
+          }
+        },
+        {
+          "text": {
+            "en": "−11 mm Hg",
+            "ru": "−11 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "−3 mm Hg",
+            "ru": "−3 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "2, 3",
+            "ru": "2, 3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "reduced-sodium",
+      "cells": [
+        {
+          "text": {
+            "en": "**Reduced intake of dietary sodium**",
+            "ru": "**Снижение потребления натрия с пищей**"
+          }
+        },
+        {
+          "text": {
+            "en": "Dietary sodium",
+            "ru": "Натрий в рационе"
+          }
+        },
+        {
+          "text": {
+            "en": "Optimal goal is <1500 mg/d but aim for at least a 1000-mg/d reduction in most adults.",
+            "ru": "Оптимальная цель — <1500 мг/сут, но для большинства взрослых следует стремиться к снижению потребления не менее чем на 1000 мг/сут."
+          }
+        },
+        {
+          "text": {
+            "en": "−5/6 mm Hg",
+            "ru": "−5/6 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "−2/3 mm Hg",
+            "ru": "−2/3 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "29, 30",
+            "ru": "29, 30"
+          }
+        }
+      ]
+    },
+    {
+      "id": "enhanced-potassium",
+      "cells": [
+        {
+          "text": {
+            "en": "**Enhanced intake of dietary potassium**",
+            "ru": "**Увеличение потребления калия с пищей**"
+          }
+        },
+        {
+          "text": {
+            "en": "Dietary potassium",
+            "ru": "Калий в рационе"
+          }
+        },
+        {
+          "text": {
+            "en": "Aim for 3500–5000 mg/d, preferably by consumption of a diet rich in potassium.",
+            "ru": "Стремиться к 3500–5000 мг/сут, предпочтительно за счет употребления продуктов, богатых калием."
+          }
+        },
+        {
+          "text": {
+            "en": "−4/5 mm Hg",
+            "ru": "−4/5 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "−2 mm Hg",
+            "ru": "−2 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "35",
+            "ru": "35"
+          }
+        }
+      ]
+    },
+    {
+      "id": "physical-activity-aerobic",
+      "cells": [
+        {
+          "text": {
+            "en": "**Physical activity**",
+            "ru": "**Физическая активность**"
+          }
+        },
+        {
+          "text": {
+            "en": "Aerobic",
+            "ru": "Аэробные нагрузки"
+          }
+        },
+        {
+          "text": {
+            "en": "90–150 min/wk\n65%–75% heart rate reserve",
+            "ru": "90–150 мин/неделю\n65%–75% резерва ЧСС"
+          }
+        },
+        {
+          "text": {
+            "en": "−5/8 mm Hg",
+            "ru": "−5/8 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "−2/4 mm Hg",
+            "ru": "−2/4 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "4, 8",
+            "ru": "4, 8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "physical-activity-dynamic-resistance",
+      "cells": [
+        {
+          "text": {
+            "en": "**Physical activity**",
+            "ru": "**Физическая активность**"
+          }
+        },
+        {
+          "text": {
+            "en": "Dynamic resistance",
+            "ru": "Динамические силовые нагрузки"
+          }
+        },
+        {
+          "text": {
+            "en": "90–150 min/wk\n50%–80% of 1 repetition maximum\n6 exercises, 3 sets/exercise, 10 repetitions/set",
+            "ru": "90–150 мин/неделю\n50%–80% от 1 повторного максимума\n6 упражнений, 3 подхода на упражнение, 10 повторений в подходе"
+          }
+        },
+        {
+          "text": {
+            "en": "−4 mm Hg",
+            "ru": "−4 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "−2 mm Hg",
+            "ru": "−2 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "4",
+            "ru": "4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "physical-activity-isometric-resistance",
+      "cells": [
+        {
+          "text": {
+            "en": "**Physical activity**",
+            "ru": "**Физическая активность**"
+          }
+        },
+        {
+          "text": {
+            "en": "Isometric resistance",
+            "ru": "Изометрические силовые нагрузки"
+          }
+        },
+        {
+          "text": {
+            "en": "4×2 min (hand grip), 1 min rest between exercises, 30%–40% maximum voluntary contraction, 3 sessions/wk\n8–10 wk",
+            "ru": "4×2 мин (сжатие кистевого эспандера), 1 мин отдыха между упражнениями, 30%–40% максимального произвольного сокращения, 3 тренировки в неделю\n8–10 недель"
+          }
+        },
+        {
+          "text": {
+            "en": "−5 mm Hg",
+            "ru": "−5 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "−4 mm Hg",
+            "ru": "−4 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "36, 37",
+            "ru": "36, 37"
+          }
+        }
+      ]
+    },
+    {
+      "id": "moderation-alcohol-intake",
+      "cells": [
+        {
+          "text": {
+            "en": "**Moderation in alcohol intake**",
+            "ru": "**Ограничение потребления алкоголя**"
+          }
+        },
+        {
+          "text": {
+            "en": "Alcohol consumption",
+            "ru": "Потребление алкоголя"
+          }
+        },
+        {
+          "text": {
+            "en": "In individuals who drink alcohol, limit alcohol^[b] to:\nMen: ≤2 drinks daily\nWomen: ≤1 drink daily",
+            "ru": "Лицам, употребляющим алкоголь, ограничить прием алкоголя^[b]:\nМужчины: ≤2 стандартных порций в день\nЖенщины: ≤1 стандартной порции в день"
+          }
+        },
+        {
+          "text": {
+            "en": "−4 mm Hg",
+            "ru": "−4 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "−3 mm Hg",
+            "ru": "−3 мм рт. ст."
+          }
+        },
+        {
+          "text": {
+            "en": "6",
+            "ru": "6"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Type, dose, and expected impact on BP in adults with a normal BP and with hypertension.",
+      "ru": "Тип, доза и ожидаемое влияние на АД у взрослых с нормальным АД и с артериальной гипертензией."
+    },
+    "b": {
+      "en": "In the United States, 1 \"standard\" drink contains roughly 14 g of pure alcohol, which is typically found in 12 oz of regular beer (usually about 5% alcohol), 5 oz of wine (usually about 12% alcohol), and 1.5 oz of distilled spirits (usually about 40% alcohol).",
+      "ru": "В США 1 «стандартная» порция алкоголя содержит примерно 14 г чистого этанола, что обычно эквивалентно 355 мл (12 унций) обычного пива (~5% алкоголя), 150 мл (5 унций) вина (~12% алкоголя) или 45 мл (1,5 унции) крепких спиртных напитков (~40% алкоголя)."
+    }
+  },
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

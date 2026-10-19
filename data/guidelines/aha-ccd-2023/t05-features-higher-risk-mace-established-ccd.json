@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t05-features-higher-risk-mace-established-ccd",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Potential Features Associated With a Higher Risk of MACE Among Patients With Established CCD",
+    "ru": "Потенциальные факторы, ассоциированные с повышенным риском MACE у пациентов с установленной ХИБС (CCD)"
+  },
+  "tags": [
+    "ccd",
+    "mace",
+    "risk-factors",
+    "prognosis",
+    "cad",
+    "ccta",
+    "cmr",
+    "pet",
+    "spect",
+    "biomarkers"
+  ],
+  "columns": [
+    {
+      "id": "feature",
+      "title": {
+        "en": "Risk Feature",
+        "ru": "Фактор риска"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-demographics-socioeconomic",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Demographics and Socioeconomic Status (also see Section 4.1.4, “Social Determinants of Health”)**",
+            "ru": "**Демографические и социально-экономические факторы (см. также раздел 4.1.4 «Социальные детерминанты здоровья»)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "age",
+      "cells": [
+        {
+          "text": {
+            "en": "Age",
+            "ru": "Возраст"
+          }
+        }
+      ]
+    },
+    {
+      "id": "male-sex",
+      "cells": [
+        {
+          "text": {
+            "en": "Male sex",
+            "ru": "Мужской пол"
+          }
+        }
+      ]
+    },
+    {
+      "id": "poor-social-support",
+      "cells": [
+        {
+          "text": {
+            "en": "Poor social support",
+            "ru": "Низкий уровень социальной поддержки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "poverty-lack-healthcare-access",
+      "cells": [
+        {
+          "text": {
+            "en": "Poverty or lack of health care access",
+            "ru": "Бедность или ограниченный доступ к качественной медицинской помощи"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-past-concurrent-conditions",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Past or Concurrent Medical, Mental Health Conditions**",
+            "ru": "**Анамнестические или сопутствующие соматические и психические расстройства**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "elevated-bmi",
+      "cells": [
+        {
+          "text": {
+            "en": "Elevated body mass index",
+            "ru": "Повышенный индекс массы тела (ИМТ)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "previous-mi-pci-cabg",
+      "cells": [
+        {
+          "text": {
+            "en": "Previous MI, PCI, or CABG",
+            "ru": "Перенесенный ИМ (MI), ЧКВ (PCI) или КШ (CABG)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hf",
+      "cells": [
+        {
+          "text": {
+            "en": "HF",
+            "ru": "Сердечная недостаточность (СН/HF)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "af-flutter",
+      "cells": [
+        {
+          "text": {
+            "en": "Atrial fibrillation or flutter",
+            "ru": "Фибрилляция или трепетание предсердий"
+          }
+        }
+      ]
+    },
+    {
+      "id": "diabetes",
+      "cells": [
+        {
+          "text": {
+            "en": "Diabetes",
+            "ru": "Сахарный диабет"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dyslipidemia",
+      "cells": [
+        {
+          "text": {
+            "en": "Dyslipidemia",
+            "ru": "Дислипидемия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chronic-kidney-disease",
+      "cells": [
+        {
+          "text": {
+            "en": "Chronic kidney disease",
+            "ru": "Хроническая болезнь почек (ХБП/CKD)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "current-former-smoker",
+      "cells": [
+        {
+          "text": {
+            "en": "Current or former smoker",
+            "ru": "Курение в настоящее время или в анамнезе"
+          }
+        }
+      ]
+    },
+    {
+      "id": "peripheral-artery-disease",
+      "cells": [
+        {
+          "text": {
+            "en": "Peripheral artery disease",
+            "ru": "Заболевание периферических артерий (ЗПА/PAD)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "depression",
+      "cells": [
+        {
+          "text": {
+            "en": "Depression",
+            "ru": "Депрессия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "poor-adherence-pharmacotherapy",
+      "cells": [
+        {
+          "text": {
+            "en": "Poor adherence with goal-directed pharmacotherapy",
+            "ru": "Низкая приверженность к оптимальной медикаментозной терапии (GDMT)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-ancillary-cardiac-testing",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Ancillary Cardiac Testing or Imaging**",
+            "ru": "**Дополнительные кардиологические тесты и методы визуализации**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "inability-to-exercise",
+      "cells": [
+        {
+          "text": {
+            "en": "Inability to exercise",
+            "ru": "Неспособность выполнять физическую нагрузку"
+          }
+        }
+      ]
+    },
+    {
+      "id": "angina-with-stress",
+      "cells": [
+        {
+          "text": {
+            "en": "Angina with stress",
+            "ru": "Стенокардия при физической нагрузке/стрессе"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ecg-lbbb-lvh-resting-hr",
+      "cells": [
+        {
+          "text": {
+            "en": "ECG: left bundle branch block, left ventricular hypertrophy, higher resting heart rate",
+            "ru": "ЭКГ: блокада левой ножки пучка Гиса (БЛНПГ/LBBB), гипертрофия левого желудочка (ГЛЖ/LVH), повышенная ЧСС в покое"
+          }
+        }
+      ]
+    },
+    {
+      "id": "echo-reduced-lvef-lvh",
+      "cells": [
+        {
+          "text": {
+            "en": "Echocardiography: reduced left ventricular ejection fraction, left ventricular hypertrophy",
+            "ru": "Эхокардиография: сниженная фракция выброса левого желудочка (ФВ ЛЖ/LVEF), гипертрофия левого желудочка (ГЛЖ/LVH)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "est-higher-dts-resting-hr-submaximal",
+      "cells": [
+        {
+          "text": {
+            "en": "EST: higher DTS, higher resting heart rate, achieved heart rate <85% predicted",
+            "ru": "Нагрузочный ЭКГ-тест (EST): более высокий балл по шкале DTS (высокий риск), повышенная ЧСС в покое, достигнутая ЧСС <85% от расчетной максимальной"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stress-echo-high-risk-features",
+      "cells": [
+        {
+          "text": {
+            "en": "Exercise or dobutamine stress echocardiography: higher DTS, lower exercise workload, peak rate-pressure product <15 000, coronary flow reserve <2, no change or increase in left ventricular end-systolic volume, reduced ejection fraction, ischemic electrocardiographic changes with stress",
+            "ru": "Стресс-эхокардиография с физической нагрузкой или добутамином: более высокий балл по шкале DTS (высокий риск), низкая переносимость физической нагрузки, пиковое двойное произведение (RPP) <15 000, коронарный резерв кровотока <2, отсутствие уменьшения или нарастание конечно-систолического объема ЛЖ, снижение фракции выброса, ишемические изменения ЭКГ при нагрузке"
+          }
+        }
+      ]
+    },
+    {
+      "id": "spect-pet-high-risk-features",
+      "cells": [
+        {
+          "text": {
+            "en": "SPECT or PET: Percentage fixed myocardium on SPECT, transient ischemic dilation with stress, reduced coronary flow reserve, ischemic electrocardiographic changes with stress",
+            "ru": "ОФЭКТ (SPECT) или ПЭТ (PET): процент фиксированного дефекта перфузии на SPECT, транзиторная ишемическая дилатация (TID) при стрессе, снижение коронарного резерва кровотока, ишемические изменения ЭКГ при нагрузке"
+          }
+        }
+      ]
+    },
+    {
+      "id": "higher-calcium-score",
+      "cells": [
+        {
+          "text": {
+            "en": "Higher calcium score: alone and in addition to functional imaging",
+            "ru": "Более высокий кальциевый индекс (CAC): изолированно и дополнительно к функциональной визуализации"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ccta-plaque-burden-high-risk",
+      "cells": [
+        {
+          "text": {
+            "en": "CCTA: total plaque burden, high-risk plaque (positive remodeling [remodeling index >1.1], low attenuation [mean CT number <30 HU], or napkin-ring sign), reduced CT-fractional flow reserve",
+            "ru": "КТ-коронарография (CCTA): общая бляшечная нагрузка, признаки бляшки высокого риска (положительное ремоделирование [индекс ремоделирования >1,1], низкая плотность [средняя рентгеновская плотность <30 HU] или симптом «салфеточного кольца» [napkin-ring sign]), сниженный фракционный резерв кровотока по данным КТ (CT-FFR)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cmr-reduced-lvef-rvef-scar-perfusion",
+      "cells": [
+        {
+          "text": {
+            "en": "CMR: reduced left and/or right ventricular ejection fraction, left ventricular hypertrophy, scar or infarct, reduced myocardial perfusion reserve, myocardial blood flow at stress",
+            "ru": "МРТ сердца (CMR): снижение фракции выброса левого и/или правого желудочка, гипертрофия левого желудочка, фиброз/рубец или инфаркт, снижение миокардиального перфузионного резерва, снижение миокардиального кровотока при стрессе"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-biomarkers",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Biomarkers**",
+            "ru": "**Биомаркеры**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hs-troponin-bnp",
+      "cells": [
+        {
+          "text": {
+            "en": "High-sensitivity troponin, B-type natriuretic peptide",
+            "ru": "Высокочувствительный сердечный тропонин (hs-cTn), мозговой натрийуретический пептид (BNP)"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 30
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

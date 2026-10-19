@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t08-behavioral-resources-smoking-cessation",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 8",
+  "type": "grid",
+  "title": {
+    "en": "Behavioral Resources for Smoking Cessation",
+    "ru": "Поведенческие и информационные ресурсы для отказа от курения"
+  },
+  "tags": [
+    "ccd",
+    "smoking-cessation",
+    "tobacco",
+    "behavioral-support",
+    "quitline",
+    "resources",
+    "lifestyle"
+  ],
+  "columns": [
+    {
+      "id": "resource",
+      "title": {
+        "en": "Resource",
+        "ru": "Ресурс"
+      }
+    },
+    {
+      "id": "description",
+      "title": {
+        "en": "Description",
+        "ru": "Описание и особенности"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "telephone-quitline",
+      "cells": [
+        {
+          "text": {
+            "en": "**Telephone-based: Quitline**\n• English: 1-800-QUIT-NOW (1-800-784-8669)\n• Spanish: 1-855-DÉJELO-YA (1-855-335-3569)\n• Mandarin and Cantonese: 1-800-838-8917\n• Korean: 1-800-556-5564\n• Vietnamese: 1-800-778-8440",
+            "ru": "**Телефонные линии: Quitline**\n• Английский: 1-800-QUIT-NOW (1-800-784-8669)\n• Испанский: 1-855-DÉJELO-YA (1-855-335-3569)\n• Мандарин и кантонский: 1-800-838-8917\n• Корейский: 1-800-556-5564\n• Вьетнамский: 1-800-778-8440"
+          }
+        },
+        {
+          "text": {
+            "en": "Counseling by telephone from a trained tobacco coach who offers support via a series of scheduled telephone calls before and after a smoker's quit date.\nPatients can self-refer to the Quitline, or clinicians can refer patients, with their consent, proactively.\nQuitline services vary by state, can include text messaging and web coaching support, and may provide free samples of nicotine replacement therapy.\nState-by-state information about Quitline services is available at https://www.cdc.gov/tobacco/patient-care/quitlines-other/index.html",
+            "ru": "Телефонное консультирование подготовленным инструктором по отказу от табака с серией запланированных звонков до и после даты прекращения курения.\nПациенты могут обратиться самостоятельно, либо врачи могут активно направлять пациентов с их согласия.\nУслуги Quitline варьируют в зависимости от штата, могут включать SMS-сообщения, онлайн-поддержку и бесплатные образцы препаратов никотинзаместительной терапии (НЗТ).\nИнформация по службам Quitline: https://www.cdc.gov/tobacco/patient-care/quitlines-other/index.html"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ala-freedom-from-smoking",
+      "cells": [
+        {
+          "text": {
+            "en": "**Web-based: American Lung Association Freedom From Smoking**\nhttps://www.lung.org/quit-smoking/join-freedom-from-smoking",
+            "ru": "**Веб-ресурс: American Lung Association Freedom From Smoking**\nhttps://www.lung.org/quit-smoking/join-freedom-from-smoking"
+          }
+        },
+        {
+          "text": {
+            "en": "Created by the American Lung Association to support smoking cessation in persons who want to quit. The program also provides information about nicotine replacement therapy and pharmacotherapy.\nMultiple modes of support available to patients, including group clinics, a telephone-based “Lung HelpLine,” a self-help guide, and a web-based interactive customized program.\nInteractive program available for computer, tablet, or smartphone interface.",
+            "ru": "Создана Американской ассоциацией легких (ALA) для поддержки лиц, желающих бросить курить. Программа также предоставляет информацию о НЗТ и фармакотерапии.\nДоступны различные форматы поддержки: групповые занятия, телефонная линия «Lung HelpLine», руководство по самопомощи и персонализированная интерактивная онлайн-программа для компьютеров, планшетов и смартфонов."
+          }
+        }
+      ]
+    },
+    {
+      "id": "nci-smokefree-gov",
+      "cells": [
+        {
+          "text": {
+            "en": "**Web-based: National Cancer Institute**\n• English: Smokefree.gov\n• Spanish: https://espanol.smokefree.gov/Spanish",
+            "ru": "**Веб-ресурс: National Cancer Institute (NCI)**\n• Английский: Smokefree.gov\n• Испанский: https://espanol.smokefree.gov/Spanish"
+          }
+        },
+        {
+          "text": {
+            "en": "Supported by the US Department of Health and Human Services and National Institutes of Health, created by the National Cancer Institute.\nWebsite contains information about quitting and resources for quitting and allows users to create a personalized quit plan.\nSpecific websites are also available for women, teens, Veterans, and those >60 y of age.\nPrograms available through the website include: SmokefreeTXT (text messaging program), QuitGuide, and quitSTART (mobile phone apps).",
+            "ru": "Поддерживается Министерством здравоохранения и социальных служб США (HHS) и Национальными институтами здоровья (NIH), разработан Национальным институтом рака (NCI).\nСайт содержит материалы по отказу от курения и позволяет составить индивидуальный план.\nДоступны специализированные разделы для женщин, подростков, ветеранов и лиц старше 60 лет.\nПрограммы платформы включают: SmokefreeTXT (программа текстовых сообщений), QuitGuide и мобильные приложения quitSTART."
+          }
+        }
+      ]
+    },
+    {
+      "id": "asian-smokers-quitline",
+      "cells": [
+        {
+          "text": {
+            "en": "**Web-based: Asian Smokers' Quitline**\nMandarin, Cantonese, Korean, and Vietnamese Speakers\nhttps://www.asiansmokersquitline.org/",
+            "ru": "**Веб-ресурс: Asian Smokers' Quitline**\nДля говорящих на мандаринском, кантонском, корейском и вьетнамском языках\nhttps://www.asiansmokersquitline.org/"
+          }
+        },
+        {
+          "text": {
+            "en": "Operated by the Moores Cancer Center at the University of California, San Diego, funded by a grant from the US Centers for Disease Control and Prevention.\nCreated to support tobacco cessation for persons who speak Mandarin, Cantonese, Korean, and Vietnamese across the United States.\nSome participants may be eligible for a 2-wk starter kit of nicotine patches.\nTelephone counseling developed to deliver a quit plan and support quitting, and printed self-help materials sent to participants.",
+            "ru": "Курируется Онкологическим центром Мурса Калифорнийского университета в Сан-Диего при грантовой поддержке CDC.\nСоздана для помощи в отказе от курения носителям азиатских языков на всей территории США.\nУчастникам может быть предоставлен стартовый 2-недельный набор никотиновых пластырей.\nТелефонное консультирование по индивидуальному плану и отправка печатных материалов для самопомощи."
+          }
+        }
+      ]
+    },
+    {
+      "id": "become-an-ex",
+      "cells": [
+        {
+          "text": {
+            "en": "**Web-based: BecomeAnEX**\nAvailable in English and Spanish\nhttps://www.becomeanex.org",
+            "ru": "**Веб-ресурс: BecomeAnEX**\nДоступен на английском и испанском языках\nhttps://www.becomeanex.org"
+          }
+        },
+        {
+          "text": {
+            "en": "Created by the Truth Initiative, a nonprofit public education in partnership with the Mayo Clinic Nicotine Dependence Center.\nWebsite with information about cessation of smoking, vaping, or use of smokeless tobacco, with resources to build an individualized quit plan.\nIncludes support from experts and an online community, and a text message–based program for quitting vaping focused on teens and young adults, “This is Quitting.”\nAn employer-based program, the EX Program, is also available through the Truth Initiative.",
+            "ru": "Создан организацией Truth Initiative в партнерстве с Центром никотиновой зависимости клиники Мэйо (Mayo Clinic Nicotine Dependence Center).\nПлатформа содержит информацию по прекращению курения обычных сигарет, вейпинга и бездымного табака с инструментами составления индивидуального плана.\nВключает поддержку экспертов, онлайн-сообщество и программу «This is Quitting» для молодежи.\nТакже доступна корпоративная программа EX Program для работодателей."
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

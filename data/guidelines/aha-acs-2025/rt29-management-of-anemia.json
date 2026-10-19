@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt29-management-of-anemia",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 29",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Management of Anemia in ACS",
+    "ru": "Рекомендация по коррекции анемии при ОКС"
+  },
+  "tags": [
+    "acs",
+    "anemia",
+    "blood-transfusion",
+    "hemoglobin",
+    "transfusion-threshold"
+  ],
+  "sections": [
+    {
+      "id": "sec-management-of-anemia",
+      "title": {
+        "en": "Management of Anemia in ACS",
+        "ru": "Коррекция анемии при ОКС"
+      },
+      "rows": [
+        {
+          "id": "r01-anemia-blood-transfusion-target-10",
+          "text": {
+            "en": "In patients with ACS and acute or chronic anemia, blood transfusion to achieve a hemoglobin level ≥10 g/dL may be reasonable to reduce cardiovascular events.",
+            "ru": "У пациентов с ОКС и острой или хронической анемией гемотрансфузия для достижения уровня гемоглобина ≥10 г/дл (≥100 г/л) может быть целесообразной для снижения риска сердечно-сосудистых событий."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [1]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

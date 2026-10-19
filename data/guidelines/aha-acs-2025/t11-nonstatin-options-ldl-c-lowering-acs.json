@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t11-nonstatin-options-ldl-c-lowering-acs",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 11",
+  "type": "grid",
+  "title": {
+    "en": "Nonstatin Treatment Options for LDL-C Lowering in Patients With ACS Who Are Not at LDL-C Goal on Maximally Tolerated Statin Therapy",
+    "ru": "Варианты нестатиновой терапии для снижения ХС ЛНП у пациентов с ОКС, не достигших целевого уровня на максимально переносимой дозе статинов"
+  },
+  "tags": [
+    "acs",
+    "lipid",
+    "ldl-c",
+    "ezetimibe",
+    "evolocumab",
+    "alirocumab",
+    "inclisiran",
+    "bempedoic-acid",
+    "pcsk9",
+    "nonstatin"
+  ],
+  "columns": [
+    {
+      "id": "drug",
+      "title": {
+        "en": "Drug",
+        "ru": "Препарат"
+      }
+    },
+    {
+      "id": "mechanism",
+      "title": {
+        "en": "Mechanism of Action",
+        "ru": "Механизм действия"
+      }
+    },
+    {
+      "id": "ldl-lowering",
+      "title": {
+        "en": "LDL-C Lowering (%)",
+        "ru": "Снижение ХС ЛНП (%)"
+      }
+    },
+    {
+      "id": "outcomes-study",
+      "title": {
+        "en": "Outcomes Study Performed in Patients With Recent ACS?",
+        "ru": "Исследования исходов у пациентов с недавним ОКС"
+      }
+    },
+    {
+      "id": "adverse-effects",
+      "title": {
+        "en": "Potential Adverse Effects",
+        "ru": "Потенциальные нежелательные явления"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-ezetimibe",
+      "cells": [
+        {
+          "text": {
+            "en": "Ezetimibe^[a]",
+            "ru": "Эзетимиб^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Blocks NPC1L1 cholesterol absorption",
+            "ru": "Блокирует всасывание холестерина через транспортер NPC1L1 в тонком кишечнике"
+          }
+        },
+        {
+          "text": {
+            "en": "15-25",
+            "ru": "15–25"
+          }
+        },
+        {
+          "text": {
+            "en": "Yes (<10 d post ACS)",
+            "ru": "Да (<10 дней после ОКС [исследование IMPROVE-IT])"
+          }
+        },
+        {
+          "text": {
+            "en": "Liver function test abnormalities",
+            "ru": "Отклонения печеночных проб (повышение трансаминаз)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-evolocumab",
+      "cells": [
+        {
+          "text": {
+            "en": "Evolocumab",
+            "ru": "Эволокумаб"
+          }
+        },
+        {
+          "text": {
+            "en": "Monoclonal antibody to PCSK9",
+            "ru": "Моноклональное антитело к PCSK9"
+          }
+        },
+        {
+          "text": {
+            "en": "~60",
+            "ru": "~60"
+          }
+        },
+        {
+          "text": {
+            "en": "Established ASCVD (>1 mo post ACS)",
+            "ru": "Установленное АСССЗ (ASCVD; >1 мес после ОКС [FOURIER])"
+          }
+        },
+        {
+          "text": {
+            "en": "Injection site reaction",
+            "ru": "Реакции в месте инъекции"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-alirocumab",
+      "cells": [
+        {
+          "text": {
+            "en": "Alirocumab",
+            "ru": "Алирокумаб"
+          }
+        },
+        {
+          "text": {
+            "en": "Monoclonal antibody to PCSK9",
+            "ru": "Моноклональное антитело к PCSK9"
+          }
+        },
+        {
+          "text": {
+            "en": "~60",
+            "ru": "~60"
+          }
+        },
+        {
+          "text": {
+            "en": "Yes (1-12 mo post ACS)",
+            "ru": "Да (1–12 мес после ОКС [ODYSSEY OUTCOMES])"
+          }
+        },
+        {
+          "text": {
+            "en": "Injection site reaction",
+            "ru": "Реакции в месте инъекции"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-inclisiran",
+      "cells": [
+        {
+          "text": {
+            "en": "Inclisiran",
+            "ru": "Инклисиран"
+          }
+        },
+        {
+          "text": {
+            "en": "Inhibitor of PCSK9 synthesis (small interfering RNA)",
+            "ru": "Ингибитор трансляции PCSK9 (малая интерферирующая РНК / siРНК)"
+          }
+        },
+        {
+          "text": {
+            "en": "~50",
+            "ru": "~50"
+          }
+        },
+        {
+          "text": {
+            "en": "Clinical outcomes trials in ASCVD are ongoing",
+            "ru": "Клинические исследования сердечно-сосудистых исходов при АСССЗ продолжаются"
+          }
+        },
+        {
+          "text": {
+            "en": "Injection site reaction",
+            "ru": "Реакции в месте инъекции"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-bempedoic-acid",
+      "cells": [
+        {
+          "text": {
+            "en": "Bempedoic acid^[b]",
+            "ru": "Бемпедоевая кислота^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "ATP-citrate lyase inhibitor",
+            "ru": "Ингибитор АТФ-цитратлиазы"
+          }
+        },
+        {
+          "text": {
+            "en": "~20",
+            "ru": "~20"
+          }
+        },
+        {
+          "text": {
+            "en": "With or at high risk for CVD (>90 d post ACS)",
+            "ru": "С подтвержденным ССЗ (CVD) или высоким риском (>90 дней после ОКС [CLEAR Outcomes])"
+          }
+        },
+        {
+          "text": {
+            "en": "Gout; gallstones; liver function test abnormalities",
+            "ru": "Подагра; желчнокаменная болезнь; повышение активности печеночных трансаминаз"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*The LDL-C lowering potency of ezetimibe is greater when used in combination with statin therapy (approximately 25% LDL-C reduction) than when used as monotherapy (15%-20%).",
+      "ru": "*Эффективность эзетимиба по снижению ХС ЛНП выше при совместном применении со статинами (снижение ХС ЛНП примерно на 25%), чем при монотерапии (15%–20%)."
+    },
+    "b": {
+      "en": "†Coadministration of bempedoic acid with simvastatin at a dose >20 mg and pravastatin at a dose >40 mg is not recommended due to the increased risk of muscle-related adverse effects from statins.",
+      "ru": "†Совместное назначение бемпедоевой кислоты с симвастатином в дозе >20 мг и правастатином в дозе >40 мг не рекомендуется из-за повышенного риска миотоксических побочных эффектов статинов."
+    }
+  },
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t05-selected-risk-stratification-tools-acs",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Selected Risk Stratification Tools for Patients With ACS",
+    "ru": "Шкалы стратификации риска для пациентов с ОКС"
+  },
+  "tags": [
+    "acs",
+    "risk-stratification",
+    "grace-score",
+    "timi-score",
+    "nstemi",
+    "stemi",
+    "unstable-angina",
+    "mortality"
+  ],
+  "columns": [
+    {
+      "id": "attribute",
+      "title": {
+        "en": "Feature",
+        "ru": "Характеристика"
+      }
+    },
+    {
+      "id": "grace",
+      "title": {
+        "en": "GRACE Risk Score (2.0)",
+        "ru": "Шкала риска GRACE (2.0)"
+      }
+    },
+    {
+      "id": "timi-nste-acs",
+      "title": {
+        "en": "TIMI Risk Score for Unstable Angina/NSTEMI",
+        "ru": "Шкала риска TIMI для нестабильной стенокардии / ИМбпST"
+      }
+    },
+    {
+      "id": "timi-stemi",
+      "title": {
+        "en": "TIMI Risk Score for STEMI",
+        "ru": "Шкала риска TIMI для ИМпST (STEMI)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-target-population",
+      "cells": [
+        {
+          "text": {
+            "en": "Target population",
+            "ru": "Целевая популяция"
+          }
+        },
+        {
+          "text": {
+            "en": "ACS",
+            "ru": "ОКС"
+          }
+        },
+        {
+          "text": {
+            "en": "Unstable angina or NSTEMI",
+            "ru": "Нестабильная стенокардия или ИМбпST (NSTEMI)"
+          }
+        },
+        {
+          "text": {
+            "en": "STEMI",
+            "ru": "ИМпST (STEMI)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-target-outcomes",
+      "cells": [
+        {
+          "text": {
+            "en": "Target outcome(s)",
+            "ru": "Оцениваемые исходы"
+          }
+        },
+        {
+          "text": {
+            "en": "In-hospital, 6-mo, 1-y, 3-y, death or death/MI",
+            "ru": "Внутрибольничная, 6-месячная, 1-летняя, 3-летняя смерть или смерть/ИМ"
+          }
+        },
+        {
+          "text": {
+            "en": "14-d all-cause death, MI, or urgent revascularization",
+            "ru": "14-дневная общая летальность, ИМ или экстренная реваскуляризация"
+          }
+        },
+        {
+          "text": {
+            "en": "30-d all-cause death",
+            "ru": "30-дневная общая летальность"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-variables-used",
+      "cells": [
+        {
+          "text": {
+            "en": "Variables used",
+            "ru": "Используемые переменные"
+          }
+        },
+        {
+          "text": {
+            "en": "**In-hospital risk score:**\n• Age\n• Killip class\n• Systolic blood pressure\n• Heart rate\n• ST-segment deviation\n• Cardiac arrest on admission\n• Serum creatinine\n• Elevated cardiac biomarkers",
+            "ru": "**Внутрибольничная шкала риска:**\n• Возраст\n• Класс по Killip\n• Систолическое АД\n• ЧСС\n• Девиация сегмента ST\n• Остановка сердца при поступлении\n• Креатинин сыворотки\n• Повышение уровня кардиомаркеров"
+          }
+        },
+        {
+          "text": {
+            "en": "• Age ≥65 y\n• ≥3 risk factors for CAD\n• Known coronary stenosis (≥50%)\n• ST-segment deviation ≥0.5 mm\n• ≥2 anginal events in prior 24 h\n• Aspirin use in prior 7 d\n• Elevated cardiac biomarkers (CK-MB or troponin)^[a]",
+            "ru": "• Возраст ≥65 лет\n• ≥3 факторов риска ИБС (CAD)\n• Известный коронарный стеноз (≥50%)\n• Девиация сегмента ST ≥0,5 мм\n• ≥2 приступов стенокардии за последние 24 ч\n• Прием аспирина в течение предшествующих 7 дней\n• Повышение уровня биомаркеров (КФК-MB или тропонин)^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "• Age (65–74 y / ≥75 y) (2–3 points)\n• Killip class II–IV (2 points)\n• Systolic blood pressure (<100 mm Hg, 3 points)\n• Heart rate >100 bpm (2 points)\n• Anterior ST-segment elevation or LBBB (1 point)\n• Diabetes / hypertension / angina (1 point)\n• Weight (<67 kg, 1 point)\n• Time to treatment >4 h (1 point)",
+            "ru": "• Возраст (65–74 года / ≥75 лет) (2–3 балла)\n• Класс по Killip II–IV (2 балла)\n• Систолическое АД (<100 мм рт. ст., 3 балла)\n• ЧСС >100 уд/мин (2 балла)\n• Элевация ST в передних отведениях или БЛНПГ (1 балл)\n• Сахарный диабет / артериальная гипертензия / стенокардия (1 балл)\n• Масса тела (<67 кг, 1 балл)\n• Время до начала лечения >4 ч (1 балл)"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Score 1 point for each characteristic that is present.",
+      "ru": "*Начисляется 1 балл за каждый присутствующий признак."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt13-regional-systems-stemi-care",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 13",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Regional Systems of STEMI Care",
+    "ru": "Рекомендация по региональным системам оказания помощи при ИМпST (STEMI)"
+  },
+  "tags": [
+    "acs",
+    "stemi",
+    "regional-systems",
+    "prehospital",
+    "coordination",
+    "ischemic-time",
+    "survival"
+  ],
+  "sections": [
+    {
+      "id": "sec-regional-systems-stemi-care",
+      "title": {
+        "en": "Regional Systems of STEMI Care",
+        "ru": "Региональные системы оказания помощи при ИМпST (STEMI)"
+      },
+      "rows": [
+        {
+          "id": "r01-regional-stemi-systems-coordinate-care",
+          "text": {
+            "en": "All communities should create and maintain regional systems of STEMI care that coordinate prehospital and hospital-based STEMI care processes with the goal of reducing total ischemic time and improving survival in patients with STEMI.",
+            "ru": "Во всех регионах и медицинских округах следует создавать и поддерживать региональные системы помощи при ИМпST (STEMI), координирующие догоспитальные и стационарные этапы с целью сокращения общего времени ишемии миокарда и повышения выживаемости пациентов с ИМпST."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

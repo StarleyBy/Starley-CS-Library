@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t08-management-p2y12-inhibitors-cabg-surgery",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 8",
+  "type": "grid",
+  "title": {
+    "en": "Management of Oral P2Y12 Inhibitors for Patients Who Require CABG Surgery^[a]",
+    "ru": "Ведение пациентов, принимающих пероральные ингибиторы P2Y12, при необходимости проведения КШ (CABG)^[a]"
+  },
+  "tags": [
+    "acs",
+    "cabg",
+    "antiplatelet",
+    "p2y12",
+    "clopidogrel",
+    "prasugrel",
+    "ticagrelor",
+    "surgery",
+    "interruption",
+    "bleeding"
+  ],
+  "columns": [
+    {
+      "id": "drug",
+      "title": {
+        "en": "Oral P2Y12 Inhibitor",
+        "ru": "Пероральный ингибитор P2Y12"
+      }
+    },
+    {
+      "id": "timing",
+      "title": {
+        "en": "Discontinuation Timing Before CABG",
+        "ru": "Сроки отмены перед КШ (CABG)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-clopidogrel",
+      "cells": [
+        {
+          "text": {
+            "en": "Clopidogrel",
+            "ru": "Клопидогрел"
+          }
+        },
+        {
+          "text": {
+            "en": "**Elective CABG:** Interrupt for 5 d before surgery.\n\n**Urgent CABG:** Interruption for at least 24 h (ideally) and proceeding earlier than 5 d may be reasonable.",
+            "ru": "**Плановое КШ (CABG):** отменить за 5 дней до операции.\n\n**Неотложное/экстренное КШ:** отмена как минимум за 24 ч (в идеале); выполнение операции ранее 5 дней может быть оправданным."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-prasugrel",
+      "cells": [
+        {
+          "text": {
+            "en": "Prasugrel",
+            "ru": "Прасугрел"
+          }
+        },
+        {
+          "text": {
+            "en": "**Elective CABG:** Interrupt for 7 d before surgery.\n\n**Urgent CABG:** Interruption for at least 24 h (ideally) and proceeding earlier than 7 d may be reasonable.",
+            "ru": "**Плановое КШ (CABG):** отменить за 7 дней до операции.\n\n**Неотложное/экстренное КШ:** отмена как минимум за 24 ч (в идеале); выполнение операции ранее 7 дней может быть оправданным."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-ticagrelor",
+      "cells": [
+        {
+          "text": {
+            "en": "Ticagrelor",
+            "ru": "Тикагрелор"
+          }
+        },
+        {
+          "text": {
+            "en": "**Elective CABG:** Interrupt for 3-5 d before surgery.\n\n**Urgent CABG:** Interruption for at least 24 h (ideally) and proceeding earlier than 5 d may be reasonable.",
+            "ru": "**Плановое КШ (CABG):** отменить за 3–5 дней до операции.\n\n**Неотложное/экстренное КШ:** отмена как минимум за 24 ч (в идеале); выполнение операции ранее 5 дней может быть оправданным."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*For all patients, oral P2Y12 inhibitor should be resumed after surgery when bleeding risk not excessive (typically 24-72 hours).",
+      "ru": "*У всех пациентов прием перорального ингибитора P2Y12 следует возобновить после операции, когда риск кровотечения перестает быть избыточным (обычно через 24–72 часа)."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

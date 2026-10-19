@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt27-revascularization",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 27",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Revascularization",
+    "ru": "Рекомендации по реваскуляризации миокарда"
+  },
+  "tags": [
+    "ccd",
+    "revascularization",
+    "cabg",
+    "pci",
+    "left-main",
+    "multivessel-cad",
+    "lvef",
+    "heart-failure",
+    "ffr",
+    "ifr",
+    "heart-team",
+    "cost-value"
+  ],
+  "sections": [
+    {
+      "id": "sec-goals-revascularization",
+      "title": {
+        "en": "Goals of Revascularization",
+        "ru": "Цели реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r01-revasc-lifestyle-limiting-angina",
+          "text": {
+            "en": "In patients with CCD and lifestyle-limiting angina despite GDMT and with significant coronary artery stenoses amenable to revascularization, revascularization is recommended to improve symptoms.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) и стенокардией, ограничивающей образ жизни, несмотря на ОМТ (GDMT), и с гемодинамически значимыми стенозами коронарных артерий, пригодными для реваскуляризации, рекомендуется проведение реваскуляризации для облегчения симптомов.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-cabg-left-main-or-multivessel-severe-lv-dysfunction",
+          "text": {
+            "en": "In patients with CCD who have significant left main disease or multivessel disease with severe LV dysfunction (LVEF ≤ 35%), CABG in addition to medical therapy is recommended over medical therapy alone to improve survival.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) со значимым поражением ствола ЛКА или многососудистым поражением с тяжелой дисфункцией ЛЖ (ФВЛЖ ≤35%) рекомендуется выполнение КШ (CABG) в дополнение к медикаментозной терапии преимущественно перед исключительно медикаментозной терапией для увеличения выживаемости.^[a]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [8, 9, 10, 11]
+        },
+        {
+          "id": "r03-cabg-intermediate-economic-value",
+          "text": {
+            "en": "In patients with CCD and multivessel disease with severe LV dysfunction, CABG added to optimal medical therapy is of intermediate economic value compared with medical therapy alone.",
+            "ru": "У пациентов с ХИБС (CCD) с многососудистым поражением и тяжелой систолической дисфункцией ЛЖ добавление КШ (CABG) к оптимальной медикаментозной терапии обладает промежуточной экономической ценностью (Intermediate Value) по сравнению с только медикаментозной терапией."
+          },
+          "class": "Value-Intermediate",
+          "level": "B-NR",
+          "refs": [12]
+        },
+        {
+          "id": "r04-revasc-multivessel-reduce-events",
+          "text": {
+            "en": "In patients with CCD and multivessel CAD appropriate for either CABG or PCI, revascularization in addition to GDMT is reasonable to lower the risk of cardiovascular events such as spontaneous MI, unplanned urgent revascularizations, or cardiac death.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) и многососудистым поражением коронарного русла, подходящим как для КШ, так и для ЧКВ, проведение реваскуляризации в дополнение к ОМТ (GDMT) оправдано для снижения риска сердечно-сосудистых событий, таких как спонтанный ИМ, внеплановые экстренные реваскуляризации или сердечная смерть.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [13, 14, 15, 16, 17, 18, 19, 20]
+        },
+        {
+          "id": "r05-pci-left-main-stenosis",
+          "text": {
+            "en": "In selected patients with CCD and significant left main stenosis for whom PCI can provide equivalent revascularization to that possible with CABG, PCI is reasonable to improve survival.^[a]",
+            "ru": "У отобранных пациентов с ХИБС (CCD) и значимым стенозом ствола ЛКА, у которых ЧКВ способно обеспечить эквивалентную анатомическую полноту реваскуляризации по сравнению с КШ, выполнение ЧКВ оправдано для увеличения выживаемости.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [21]
+        }
+      ]
+    },
+    {
+      "id": "sec-decision-making-revascularization",
+      "title": {
+        "en": "Decision-Making for Revascularization",
+        "ru": "Принятие решений о реваскуляризации"
+      },
+      "rows": [
+        {
+          "id": "r06-ffr-ifr-intermediate-stenosis",
+          "text": {
+            "en": "In patients with CCD who have angina or an anginal equivalent, no previous evaluation for ischemia, and angiographically intermediate stenoses, the use of FFR or other proven nonhyperemic pressure ratios (eg, iFR) is recommended before proceeding with PCI.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) со стенокардией или ее эквивалентами, без предшествующей оценки ишемии и с ангиографически пограничными стенозами, рекомендуется определение ФРК (FFR) или других валидированных моментальных индексов давления (например, iFR) перед выполнением ЧКВ.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [2, 22, 23]
+        },
+        {
+          "id": "r07-ffr-high-economic-value",
+          "text": {
+            "en": "In patients with CCD undergoing coronary angiography without previous stress testing, the use of invasive FFR to evaluate angiographically intermediate coronary stenoses before proceeding with PCI is a high economic value intervention.",
+            "ru": "У пациентов с ХИБС (CCD), проходящих коронарографию без предшествующих нагрузочных тестов, использование инвазивного ФРК (FFR) для оценки ангиографически пограничных стенозов перед ЧКВ представляет собой вмешательство высокой экономической ценности (High Value)."
+          },
+          "class": "Value-High",
+          "level": "B-NR",
+          "refs": [24, 25]
+        },
+        {
+          "id": "r08-heart-team-complex-3-vessel-disease",
+          "text": {
+            "en": "In patients with CCD with complex 3-vessel disease or for whom the optimal treatment strategy is unclear, a Heart Team approach that includes representatives from interventional cardiology and cardiac surgery is recommended to improve patient outcomes.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) со сложным трехсосудистым поражением или при неясной оптимальной тактике лечения рекомендуется мультидисциплинарный подход кардиокоманды (Heart Team) с участием интервенционных кардиологов и кардиохирургов для улучшения исходов лечения.^[a]"
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [26, 27, 28, 29]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Modified from the 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization.30",
+      "ru": "Адаптировано из Руководства ACC/AHA/SCAI по реваскуляризации миокарда 2021 года.30"
+    }
+  },
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

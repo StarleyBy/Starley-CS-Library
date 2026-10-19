@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt05-patient-education",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 5",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Patient Education",
+    "ru": "Рекомендации по обучению пациентов"
+  },
+  "tags": [
+    "ccd",
+    "patient-education",
+    "symptom-management",
+    "lifestyle",
+    "sdoh",
+    "medication-adherence"
+  ],
+  "sections": [
+    {
+      "id": "sec-patient-education",
+      "title": {
+        "en": "Patient Education",
+        "ru": "Обучение пациентов"
+      },
+      "rows": [
+        {
+          "id": "r01-education-symptom-lifestyle-sdoh",
+          "text": {
+            "en": "Patients with CCD should receive ongoing individualized education on symptom management, lifestyle changes, and SDOH risk factors to improve knowledge and facilitate behavior change.",
+            "ru": "Пациенты с ХИБС (CCD) должны получать непрерывное индивидуализированное обучение по контролю симптомов, изменению образа жизни и учету факторов риска, связанных с социальными детерминантами здоровья (SDOH), для повышения уровня знаний и содействия изменению поведения."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1]
+        },
+        {
+          "id": "r02-education-medication-adherence",
+          "text": {
+            "en": "Patients with CCD should receive ongoing individualized education on medication adherence to improve knowledge and facilitate behavior change.",
+            "ru": "Пациенты с ХИБС (CCD) должны получать непрерывное индивидуализированное обучение по приверженности к медикаментозной терапии для повышения уровня знаний и содействия изменению поведения."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [2, 3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t23-common-art-drugs-effects-lipid-levels",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 23",
+  "type": "grid",
+  "title": {
+    "en": "Common Antiretroviral Therapy Drugs and Effects on Lipid Levels",
+    "ru": "Распространенные препараты антиретровирусной терапии и их влияние на уровни липидов"
+  },
+  "tags": [
+    "ccd",
+    "hiv",
+    "art",
+    "lipids",
+    "cholesterol",
+    "triglycerides",
+    "protease-inhibitors",
+    "nrtis",
+    "nnrtis",
+    "integrase-inhibitors"
+  ],
+  "columns": [
+    {
+      "id": "class",
+      "title": {
+        "en": "Class",
+        "ru": "Класс АРТ"
+      }
+    },
+    {
+      "id": "drug",
+      "title": {
+        "en": "Drug",
+        "ru": "Препарат"
+      }
+    },
+    {
+      "id": "effects",
+      "title": {
+        "en": "Effect on Blood Lipids",
+        "ru": "Влияние на липидный профиль крови"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-atazanavir",
+      "cells": [
+        {
+          "text": {
+            "en": "Protease inhibitors",
+            "ru": "Ингибиторы протеазы"
+          }
+        },
+        {
+          "text": {
+            "en": "Atazanavir",
+            "ru": "Атазанавир"
+          }
+        },
+        {
+          "text": {
+            "en": "Increases HDL-C and decreases LDL-C levels",
+            "ru": "Повышает уровень ХС ЛВП и снижает уровень ХС ЛНП"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-darunavir",
+      "cells": [
+        {
+          "text": {
+            "en": "Protease inhibitors",
+            "ru": "Ингибиторы протеазы"
+          }
+        },
+        {
+          "text": {
+            "en": "Darunavir",
+            "ru": "Дарунавир"
+          }
+        },
+        {
+          "text": {
+            "en": "Increases HDL-C levels",
+            "ru": "Повышает уровень ХС ЛВП"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-fosamprenavir",
+      "cells": [
+        {
+          "text": {
+            "en": "Protease inhibitors",
+            "ru": "Ингибиторы протеазы"
+          }
+        },
+        {
+          "text": {
+            "en": "Fosamprenavir",
+            "ru": "Фосампренавир"
+          }
+        },
+        {
+          "text": {
+            "en": "Hypertriglyceridemia",
+            "ru": "Гипертриглицеридемия (повышение ТГ)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-ritonavir",
+      "cells": [
+        {
+          "text": {
+            "en": "Protease inhibitors",
+            "ru": "Ингибиторы протеазы"
+          }
+        },
+        {
+          "text": {
+            "en": "Ritonavir^[a]",
+            "ru": "Ритонавир^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Increases HDL-C levels",
+            "ru": "Повышает уровень ХС ЛВП"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-saquinavir",
+      "cells": [
+        {
+          "text": {
+            "en": "Protease inhibitors",
+            "ru": "Ингибиторы протеазы"
+          }
+        },
+        {
+          "text": {
+            "en": "Saquinavir",
+            "ru": "Саквинавир"
+          }
+        },
+        {
+          "text": {
+            "en": "Neutral",
+            "ru": "Нейтральное"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-tipranavir",
+      "cells": [
+        {
+          "text": {
+            "en": "Protease inhibitors",
+            "ru": "Ингибиторы протеазы"
+          }
+        },
+        {
+          "text": {
+            "en": "Tipranavir",
+            "ru": "Типранавир"
+          }
+        },
+        {
+          "text": {
+            "en": "Dyslipidemia",
+            "ru": "Дислипидемия"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-abacavir",
+      "cells": [
+        {
+          "text": {
+            "en": "NRTIs",
+            "ru": "НИОТ (нуклеозидные ингибиторы обратной транскриптазы)"
+          }
+        },
+        {
+          "text": {
+            "en": "Abacavir",
+            "ru": "Абакавир"
+          }
+        },
+        {
+          "text": {
+            "en": "Increases total cholesterol, LDL-C, and HDL-C levels",
+            "ru": "Повышает уровни общего холестерина, ХС ЛНП и ХС ЛВП"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-lamivudine",
+      "cells": [
+        {
+          "text": {
+            "en": "NRTIs",
+            "ru": "НИОТ"
+          }
+        },
+        {
+          "text": {
+            "en": "Lamivudine",
+            "ru": "Ламивудин"
+          }
+        },
+        {
+          "text": {
+            "en": "Increases total cholesterol, LDL-C, and HDL-C levels",
+            "ru": "Повышает уровни общего холестерина, ХС ЛНП и ХС ЛВП"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-tenofovir-disoproxil",
+      "cells": [
+        {
+          "text": {
+            "en": "NRTIs",
+            "ru": "НИОТ"
+          }
+        },
+        {
+          "text": {
+            "en": "Tenofovir fumarate disoproxil",
+            "ru": "Тенофовира дизопроксил фумарат"
+          }
+        },
+        {
+          "text": {
+            "en": "Lowers LDL levels",
+            "ru": "Снижает уровень ХС ЛНП"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-zidovudine",
+      "cells": [
+        {
+          "text": {
+            "en": "NRTIs",
+            "ru": "НИОТ"
+          }
+        },
+        {
+          "text": {
+            "en": "Zidovudine",
+            "ru": "Зидовудин"
+          }
+        },
+        {
+          "text": {
+            "en": "Hypertriglyceridemia",
+            "ru": "Гипертриглицеридемия (повышение ТГ)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-efavirenz",
+      "cells": [
+        {
+          "text": {
+            "en": "NNRTIs",
+            "ru": "ННИОТ (ненуклеозидные ингибиторы обратной транскриптазы)"
+          }
+        },
+        {
+          "text": {
+            "en": "Efavirenz",
+            "ru": "Эфавиренз"
+          }
+        },
+        {
+          "text": {
+            "en": "Increases total cholesterol, LDL-C, HDL-C, and triglyceride levels",
+            "ru": "Повышает уровни общего холестерина, ХС ЛНП, ХС ЛВП и триглицеридов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-nevirapine",
+      "cells": [
+        {
+          "text": {
+            "en": "NNRTIs",
+            "ru": "ННИОТ"
+          }
+        },
+        {
+          "text": {
+            "en": "Nevirapine",
+            "ru": "Невирапин"
+          }
+        },
+        {
+          "text": {
+            "en": "Neutral or decreases lipid levels",
+            "ru": "Нейтральное или снижает уровни липидов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13-rilpivirine",
+      "cells": [
+        {
+          "text": {
+            "en": "NNRTIs",
+            "ru": "ННИОТ"
+          }
+        },
+        {
+          "text": {
+            "en": "Rilpivirine",
+            "ru": "Рилпивирин"
+          }
+        },
+        {
+          "text": {
+            "en": "Neutral",
+            "ru": "Нейтральное"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14-dolutegravir",
+      "cells": [
+        {
+          "text": {
+            "en": "Integrase inhibitors",
+            "ru": "Ингибиторы интегразы"
+          }
+        },
+        {
+          "text": {
+            "en": "Dolutegravir",
+            "ru": "Долутегравир"
+          }
+        },
+        {
+          "text": {
+            "en": "Neutral",
+            "ru": "Нейтральное"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r15-raltegravir",
+      "cells": [
+        {
+          "text": {
+            "en": "Integrase inhibitors",
+            "ru": "Ингибиторы интегразы"
+          }
+        },
+        {
+          "text": {
+            "en": "Raltegravir",
+            "ru": "Ралтегравир"
+          }
+        },
+        {
+          "text": {
+            "en": "Increases HDL levels",
+            "ru": "Повышает уровень ХС ЛВП"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Although ritonavir is a protease inhibitor, this drug is generally used as a pharmacokinetic enhancer.",
+      "ru": "Хотя ритонавир относится к ингибиторам протеазы, этот препарат преимущественно используется в качестве фармакокинетического усилителя (бустера)."
+    }
+  },
+  "source": {
+    "expectedRows": 15
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

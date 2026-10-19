@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t19-additional-therapy-persistent-late-pericarditis",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 19",
+  "type": "grid",
+  "title": {
+    "en": "Additional Therapy for Persistent/Late Pericarditis Symptoms",
+    "ru": "Дополнительная терапия при персистирующих/поздних симптомах перикардита"
+  },
+  "tags": [
+    "acs",
+    "pericarditis",
+    "aspirin",
+    "colchicine",
+    "dosing",
+    "antiinflammatory"
+  ],
+  "columns": [
+    {
+      "id": "medical-therapy",
+      "title": {
+        "en": "Medical Therapy",
+        "ru": "Медикаментозная терапия"
+      }
+    },
+    {
+      "id": "dosing-schedule",
+      "title": {
+        "en": "Dosing Schedule",
+        "ru": "Режим дозирования"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-high-dose-aspirin",
+      "cells": [
+        {
+          "text": {
+            "en": "High-dose aspirin",
+            "ru": "Высокие дозы аспирина"
+          }
+        },
+        {
+          "text": {
+            "en": "500-1000 mg every 6-8 h until symptoms improve",
+            "ru": "500–1000 мг каждые 6–8 ч до купирования симптомов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-colchicine",
+      "cells": [
+        {
+          "text": {
+            "en": "Colchicine",
+            "ru": "Колхицин"
+          }
+        },
+        {
+          "text": {
+            "en": "0.5-0.6 mg once^[a] or twice daily for 3 mo",
+            "ru": "0,5–0,6 мг 1 раз в сутки^[a] или 2 раза в сутки в течение 3 месяцев"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Daily dosing should be used in patients who weigh <70 kg and further adjusted in patients with stage 4-5 kidney disease, severe hepatic impairment, or with concomitant P-glycoprotein and/or moderate and severe CYP3A4 inhibitors.",
+      "ru": "*Прием 1 раз в сутки следует использовать у пациентов с массой тела <70 кг; дальнейшая коррекция дозы необходима при ХБП 4–5 стадии, тяжелой печеночной недостаточности или при одновременном приеме ингибиторов P-гликопротеина и/или умеренных и сильных ингибиторов CYP3A4."
+    }
+  },
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

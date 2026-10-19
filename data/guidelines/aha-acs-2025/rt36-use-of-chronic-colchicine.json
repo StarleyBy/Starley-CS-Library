@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt36-use-of-chronic-colchicine",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 36",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Use of Chronic Colchicine",
+    "ru": "Рекомендация по длительному применению колхицина"
+  },
+  "tags": [
+    "acs",
+    "colchicine",
+    "low-dose-colchicine",
+    "secondary-prevention",
+    "mace",
+    "antiinflammatory"
+  ],
+  "sections": [
+    {
+      "id": "sec-use-of-chronic-colchicine",
+      "title": {
+        "en": "Use of Chronic Colchicine",
+        "ru": "Длительное применение колхицина"
+      },
+      "rows": [
+        {
+          "id": "r01-low-dose-colchicine-reduce-mace",
+          "text": {
+            "en": "In patients after ACS, low-dose colchicine may be reasonable to reduce risk of MACE.",
+            "ru": "У пациентов после ОКС применение низких доз колхицина может быть целесообразным для снижения риска MACE."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

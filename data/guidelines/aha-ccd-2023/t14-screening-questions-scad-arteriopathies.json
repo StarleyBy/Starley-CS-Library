@@ -1,0 +1,437 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t14-screening-questions-scad-arteriopathies",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 14",
+  "type": "grid",
+  "title": {
+    "en": "Screening Questions for SCAD-Associated Arteriopathies and Connective Tissue Disorders",
+    "ru": "Скрининговые вопросы для выявления ассоциированных со SCAD артериопатий и дисплазий соединительной ткани"
+  },
+  "tags": [
+    "ccd",
+    "scad",
+    "arteriopathy",
+    "connective-tissue-disorders",
+    "screening",
+    "ehlers-danlos",
+    "marfan",
+    "loeys-dietz"
+  ],
+  "columns": [
+    {
+      "id": "question",
+      "title": {
+        "en": "Screening Question / Feature",
+        "ru": "Скрининговый вопрос / Клинический признак"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-personal-history",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Personal history (Have you ever been diagnosed with or experienced any of the following?)**",
+            "ru": "**Индивидуальный анамнез (Диагностировалось ли у вас когда-либо что-либо из следующего?)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "early-onset-hypertension",
+      "cells": [
+        {
+          "text": {
+            "en": "Early-onset hypertension",
+            "ru": "Раннее развитие артериальной гипертензии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stroke-or-transient-ischemic-attack",
+      "cells": [
+        {
+          "text": {
+            "en": "Stroke or transient ischemic attack",
+            "ru": "Инсульт или транзиторная ишемическая атака"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pulsatile-tinnitus",
+      "cells": [
+        {
+          "text": {
+            "en": "Pulsatile tinnitus",
+            "ru": "Пульсирующий шум в ушах"
+          }
+        }
+      ]
+    },
+    {
+      "id": "migraine-headaches",
+      "cells": [
+        {
+          "text": {
+            "en": "Migraine headaches",
+            "ru": "Мигренозные головные боли"
+          }
+        }
+      ]
+    },
+    {
+      "id": "renal-infarction",
+      "cells": [
+        {
+          "text": {
+            "en": "Renal infarction",
+            "ru": "Инфаркт почки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "subarachnoid-hemorrhage",
+      "cells": [
+        {
+          "text": {
+            "en": "Subarachnoid hemorrhage",
+            "ru": "Субарахноидальное кровоизлияние"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aneurysm",
+      "cells": [
+        {
+          "text": {
+            "en": "Aneurysm (aortic, peripheral, brain)",
+            "ru": "Аневризма (аорты, периферических сосудов, сосудов головного мозга)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dissection",
+      "cells": [
+        {
+          "text": {
+            "en": "Dissection (aortic, peripheral)",
+            "ru": "Диссекция (аорты, периферических артерий)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rupture-of-hollow-organs",
+      "cells": [
+        {
+          "text": {
+            "en": "Rupture of hollow organs (intestinal, bladder, uterine)",
+            "ru": "Разрыв полых органов (кишечника, мочевого пузыря, матки)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pneumothorax",
+      "cells": [
+        {
+          "text": {
+            "en": "Pneumothorax",
+            "ru": "Пневмоторакс"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tendon-or-muscle-rupture",
+      "cells": [
+        {
+          "text": {
+            "en": "Tendon or muscle rupture",
+            "ru": "Разрыв сухожилий или мышц"
+          }
+        }
+      ]
+    },
+    {
+      "id": "joint-dislocation",
+      "cells": [
+        {
+          "text": {
+            "en": "Joint dislocation",
+            "ru": "Вывихи суставов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "talipes-equinovarus-clubfoot",
+      "cells": [
+        {
+          "text": {
+            "en": "Talipes equinovarus (clubfoot)",
+            "ru": "Косолапость (эквиноварусная деформация стопы)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "umbilical-or-inguinal-hernia",
+      "cells": [
+        {
+          "text": {
+            "en": "Umbilical or inguinal hernia",
+            "ru": "Пупочная или паховая грыжа"
+          }
+        }
+      ]
+    },
+    {
+      "id": "scoliosis-or-pectus-deformity",
+      "cells": [
+        {
+          "text": {
+            "en": "Scoliosis or pectus deformity",
+            "ru": "Сколиоз или деформация грудной клетки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "pregnancy-complications",
+      "cells": [
+        {
+          "text": {
+            "en": "Pregnancy complications (cervical incompetence, hemorrhage, uterine prolapse, hypertension)",
+            "ru": "Осложнения беременности (истмико-цервикальная недостаточность, кровотечение, выпадение/опущение матки, гипертензия)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "poor-wound-healing",
+      "cells": [
+        {
+          "text": {
+            "en": "Poor wound healing",
+            "ru": "Плохое заживление ран"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ectopia-lentis",
+      "cells": [
+        {
+          "text": {
+            "en": "Ectopia lentis",
+            "ru": "Эктопия хрусталика (подвывих)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "myopia",
+      "cells": [
+        {
+          "text": {
+            "en": "Myopia",
+            "ru": "Миопия (близорукость)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "detached-retina-glaucoma-cataracts",
+      "cells": [
+        {
+          "text": {
+            "en": "Detached retina, early glaucoma, or early cataracts",
+            "ru": "Отслойка сетчатки, ранняя глаукома или ранняя катаракта"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tall-stature",
+      "cells": [
+        {
+          "text": {
+            "en": "Tall stature",
+            "ru": "Высокий рост (марфаноидное телосложение)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "abnormality-of-cardiac-valve",
+      "cells": [
+        {
+          "text": {
+            "en": "Abnormality of cardiac valve",
+            "ru": "Аномалии клапанов сердца"
+          }
+        }
+      ]
+    },
+    {
+      "id": "systemic-inflammatory-disease",
+      "cells": [
+        {
+          "text": {
+            "en": "Systemic inflammatory disease",
+            "ru": "Системные воспалительные заболевания"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-family-history",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Family history (Does anyone in your family have the following?)**",
+            "ru": "**Семейный анамнез (Было ли у кого-либо в вашей семье следующее?)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "family-dissection",
+      "cells": [
+        {
+          "text": {
+            "en": "Dissection (coronary, aortic, peripheral)",
+            "ru": "Диссекция (коронарных артерий, аорты, периферических артерий)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "family-inherited-arteriopathy",
+      "cells": [
+        {
+          "text": {
+            "en": "Inherited arteriopathy or connective tissue disorder (eg, vascular Ehlers-Danlos syndrome, Marfan syndrome, Loeys-Dietz syndrome)",
+            "ru": "Наследственная артериопатия или дисплазия соединительной ткани (например, сосудистый тип синдрома Элерса–Данлоса, синдром Марфана, синдром Лойса–Дитца)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "family-early-stroke-mi-scd",
+      "cells": [
+        {
+          "text": {
+            "en": "Early stroke, early myocardial infarction, sudden cardiac death",
+            "ru": "Ранний инсульт, ранний инфаркт миокарда, внезапная сердечная смерть"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-review-of-systems",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Review of systems (Are you currently experiencing any of the following?)**",
+            "ru": "**Опрос по системам органов (Испытываете ли вы в настоящее время что-либо из следующего?)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ros-headaches",
+      "cells": [
+        {
+          "text": {
+            "en": "Headaches",
+            "ru": "Головные боли"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ros-pulsatile-tinnitus",
+      "cells": [
+        {
+          "text": {
+            "en": "Pulsatile tinnitus",
+            "ru": "Пульсирующий шум в ушах"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ros-postprandial-abdominal-pain",
+      "cells": [
+        {
+          "text": {
+            "en": "Postprandial abdominal pain",
+            "ru": "Боль в животе после приема пищи (брюшная жаба)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ros-flank-pain",
+      "cells": [
+        {
+          "text": {
+            "en": "Flank pain",
+            "ru": "Боль в боку или пояснице"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ros-claudication",
+      "cells": [
+        {
+          "text": {
+            "en": "Claudication",
+            "ru": "Перемежающаяся хромота"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ros-easy-bruising",
+      "cells": [
+        {
+          "text": {
+            "en": "Easy bruising",
+            "ru": "Легкое возникновение кровоподтеков (синяков)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ros-joint-hypermobility",
+      "cells": [
+        {
+          "text": {
+            "en": "Joint hypermobility or laxity",
+            "ru": "Гипермобильность или повышенная подвижность суставов"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 36
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

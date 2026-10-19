@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt34-antiplatelet-therapy-anticoagulation-postdischarge",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 34",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Antiplatelet Therapy in Patients on Anticoagulation Postdischarge",
+    "ru": "Рекомендация по антитромбоцитарной терапии у пациентов, получающих пероральные антикоагулянты после выписки"
+  },
+  "tags": [
+    "acs",
+    "anticoagulation",
+    "antiplatelet",
+    "triple-therapy",
+    "dual-pathway",
+    "clopidogrel",
+    "bleeding-risk",
+    "postdischarge"
+  ],
+  "sections": [
+    {
+      "id": "sec-antiplatelet-anticoagulation-postdischarge",
+      "title": {
+        "en": "Antiplatelet Therapy in Patients on Anticoagulation Postdischarge",
+        "ru": "Антитромбоцитарная терапия у пациентов, получающих пероральные антикоагулянты после выписки"
+      },
+      "rows": [
+        {
+          "id": "r01-discontinue-aspirin-triple-therapy-1-to-4-weeks",
+          "text": {
+            "en": "In patients with ACS who require oral anticoagulant therapy, aspirin should be discontinued after 1 to 4 weeks of triple antithrombotic therapy, with continued use of a P2Y12 inhibitor (preferably clopidogrel) and an oral anticoagulant to reduce bleeding risk.^[a]",
+            "ru": "У пациентов с ОКС, нуждающихся в приеме пероральных антикоагулянтов, прием аспирина следует прекратить после 1–4 недель тройной антитромботической терапии с продолжением терапии ингибитором P2Y12 (предпочтительно клопидогрелом) и пероральным антикоагулянтом для снижения риска кровотечений.^[a]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "*Модифицировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

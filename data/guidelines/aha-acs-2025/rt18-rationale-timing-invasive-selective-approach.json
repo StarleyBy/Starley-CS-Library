@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt18-rationale-timing-invasive-selective-approach",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 18",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Rationale and Timing for a Routine Invasive or Selective Invasive Approach",
+    "ru": "Рекомендации по обоснованию и срокам рутинной инвазивной или селективной инвазивной стратегии"
+  },
+  "tags": [
+    "acs",
+    "nste-acs",
+    "invasive-strategy",
+    "selective-invasive",
+    "timing",
+    "early-invasive",
+    "refractory-angina",
+    "angiography"
+  ],
+  "sections": [
+    {
+      "id": "sec-routine-vs-selective",
+      "title": {
+        "en": "Routine Invasive Versus Selective Invasive Strategy",
+        "ru": "Рутинная инвазивная стратегия в сравнении с селективной инвазивной стратегией"
+      },
+      "rows": [
+        {
+          "id": "r01-intermediate-high-risk-invasive-approach",
+          "text": {
+            "en": "In patients with NSTE-ACS who are at intermediate or high risk of ischemic events and are appropriate candidates for revascularization, an invasive approach with the intent to proceed with revascularization is recommended during hospitalization to reduce MACE.^[a]",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS) с промежуточным или высоким риском ишемических событий, являющихся подходящими кандидатами для реваскуляризации, рекомендуется инвазивная стратегия с намерением выполнить реваскуляризацию во время госпитализации для снижения MACE.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r02-low-risk-routine-or-selective-approach",
+          "text": {
+            "en": "In patients with NSTE-ACS who are at low risk of ischemic events, either a routine invasive or selective invasive approach is recommended to help identify those who may require revascularization and to reduce MACE.",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS) с низким риском ишемических событий рекомендуется как рутинная инвазивная, так и селективная инвазивная стратегия для выявления лиц, которым может потребоваться реваскуляризация, и для снижения MACE."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 7]
+        }
+      ]
+    },
+    {
+      "id": "sec-timing-coronary-angiography",
+      "title": {
+        "en": "Timing of Coronary Angiography for Those in Whom an Invasive Approach Is Planned",
+        "ru": "Сроки проведения коронарографии у пациентов с запланированной инвазивной стратегией"
+      },
+      "rows": [
+        {
+          "id": "r03-refractory-angina-immediate-invasive",
+          "text": {
+            "en": "In patients with NSTE-ACS who have refractory angina or hemodynamic or electrical instability, an immediate invasive strategy with intent to perform revascularization is indicated to reduce MACE.^[b]",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS) с рефрактерной стенокардией либо гемодинамической или электрической нестабильностью показана немедленная инвазивная стратегия с намерением выполнить реваскуляризацию для снижения MACE.^[b]"
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [8, 9, 10, 11]
+        },
+        {
+          "id": "r04-high-risk-early-invasive-within-24h",
+          "text": {
+            "en": "In patients with NSTE-ACS who are at high risk^[c] of ischemic events, it is reasonable to choose an early invasive strategy (within 24 hours) to reduce MACE.^[b]",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS) с высоким риском^[c] ишемических событий целесообразно выбрать раннюю инвазивную стратегию (в пределах 24 часов) для снижения MACE.^[b]"
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [8, 9, 11, 12]
+        },
+        {
+          "id": "r05-not-high-risk-angiography-before-discharge",
+          "text": {
+            "en": "In patients with NSTE-ACS who are not at high risk and are intended for an invasive strategy, it is reasonable to perform angiography before hospital discharge to reduce MACE.^[a]",
+            "ru": "У пациентов с ОКСбпST (NSTE-ACS) без высокого риска, у которых запланирована инвазивная стратегия, целесообразно выполнить коронарографию до выписки из стационара для снижения MACE.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [8, 11]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Reproduced from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "*Воспроизведено из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    },
+    "b": {
+      "en": "†Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "†Модифицировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    },
+    "c": {
+      "en": "‡Predictors of risk are outlined in Figure 8.",
+      "ru": "‡Предикторы риска представлены на рисунке 8 руководства."
+    }
+  },
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

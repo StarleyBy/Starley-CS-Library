@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt26-refractory-angina",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 26",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Management of Refractory Angina",
+    "ru": "Рекомендации по ведению рефрактерной стенокардии"
+  },
+  "tags": [
+    "ccd",
+    "refractory-angina",
+    "angina",
+    "eecp",
+    "counterpulsation",
+    "symptom-relief"
+  ],
+  "sections": [
+    {
+      "id": "sec-refractory-angina",
+      "title": {
+        "en": "Management of Refractory Angina",
+        "ru": "Ведение рефрактерной стенокардии"
+      },
+      "rows": [
+        {
+          "id": "r01-eecp-refractory-angina",
+          "text": {
+            "en": "In patients with CCD, refractory angina, and no other treatment options, enhanced external counterpulsation may be considered for relief of symptoms.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) с рефрактерной стенокардией при исчерпании других терапевтических возможностей может быть рассмотрено проведение усиленной наружной контрпульсации (УНКП/EECP) для облегчения симптомов.^[a]"
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [1]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Modified from the 2012 ACC/AHA Multisociety Guideline for the Diagnosis and Management of Patients With SIHD.2",
+      "ru": "Адаптировано из Руководства ACC/AHA 2012 года по диагностике и лечению пациентов со стабильной ишемической болезнью сердца (SIHD).2"
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

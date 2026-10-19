@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt10-tobacco-products",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 10",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Tobacco Products",
+    "ru": "Рекомендации по табакокурению и никотинсодержащей продукции"
+  },
+  "tags": [
+    "ccd",
+    "tobacco",
+    "smoking-cessation",
+    "nicotine",
+    "varenicline",
+    "bupropion",
+    "nrt",
+    "e-cigarettes",
+    "secondhand-smoke"
+  ],
+  "sections": [
+    {
+      "id": "sec-tobacco-products",
+      "title": {
+        "en": "Tobacco Products",
+        "ru": "Табачная продукция и отказ от курения"
+      },
+      "rows": [
+        {
+          "id": "r01-assess-tobacco-use-every-visit",
+          "text": {
+            "en": "In patients with CCD, tobacco use should be assessed at every health care visit to facilitate identification of those who may benefit from behavioral or pharmacologic interventions.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) факт употребления табака следует оценивать при каждом визите к врачу для своевременного выявления тех, кому показаны поведенческие или фармакологические вмешательства.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-advise-to-quit-every-visit",
+          "text": {
+            "en": "Patients with CCD who regularly smoke tobacco should be advised to quit at every visit.^[a]",
+            "ru": "Пациентам с ХИБС (CCD), регулярно курящим табак, при каждом визите следует настоятельно рекомендовать бросить курить.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [4]
+        },
+        {
+          "id": "r03-behavioral-and-pharmacotherapy-combination",
+          "text": {
+            "en": "In patients with CCD who regularly smoke tobacco, behavioral interventions are recommended to maximize cessation rates in combination with pharmacotherapy, including bupropion, varenicline, or combination long- and short-acting nicotine replacement therapy (NRT).^[a]",
+            "ru": "У пациентов с ХИБС (CCD), регулярно курящих табак, для достижения максимальной частоты отказа от курения рекомендуются поведенческие вмешательства в комбинации с фармакотерапией, включая бупропион, варениклин или комбинацию никотинзаместительной терапии (НЗТ/NRT) длительного и короткого действия.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [5, 6, 7]
+        },
+        {
+          "id": "r04-varenicline-versus-bupropion-nrt",
+          "text": {
+            "en": "In patients with CCD who regularly smoke tobacco, varenicline may be considered versus bupropion or NRT to increase cessation rates.",
+            "ru": "У пациентов с ХИБС (CCD), регулярно курящих табак, может быть рассмотрен выбор варениклина в сравнении с бупропионом или НЗТ для повышения частоты отказа от курения."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [5]
+        },
+        {
+          "id": "r05-short-term-nicotine-e-cigarettes",
+          "text": {
+            "en": "In patients with CCD who regularly smoke tobacco, the short-term use of nicotine-containing e-cigarettes may be considered to aid smoking cessation, although the risk of sustained use and unknown long-term safety may outweigh the benefits.",
+            "ru": "У пациентов с ХИБС (CCD), регулярно курящих табак, может быть рассмотрено краткосрочное использование никотинсодержащих электронных сигарет для облегчения отказа от курения, хотя риск их длительного применения и неизвестная долгосрочная безопасность могут превышать пользу."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [8, 9, 10]
+        },
+        {
+          "id": "r06-avoid-secondhand-smoke",
+          "text": {
+            "en": "Patients with CCD should avoid secondhand smoke exposure to reduce risk of cardiovascular events.^[a]",
+            "ru": "Пациенты с ХИБС (CCD) должны избегать воздействия пассивного курения для снижения риска сердечно-сосудистых событий.^[a]"
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [11, 12]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease.13",
+      "ru": "*Модифицировано из Руководства ACC/AHA 2019 по первичной профилактике сердечно-сосудистых заболеваний.13"
+    }
+  },
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

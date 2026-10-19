@@ -178,6 +178,8 @@
                 <span class="gt-book-page-info" id="gt-book-page-info">1 / 1</span>
                 <button class="gt-btn gt-btn-nav" id="gt-btn-next" title="Следующая таблица (→)">▶</button>
               </div>
+              <button class="gt-btn" id="gt-btn-cor-loe-aha" title="AHA/ACC Classes of Recommendation & Levels of Evidence">⚖️ AHA COR/LOE</button>
+              <button class="gt-btn" id="gt-btn-cor-loe-esc" title="ESC Classes of Recommendation & Levels of Evidence">🇪🇺 ESC COR/LOE</button>
               <button class="gt-btn" id="gt-btn-catalog" title="Catalog / List">📚 Каталог</button>
               <div class="gt-lang-toggle">
                 <button class="gt-lang-btn" data-lang="ru">RU</button>
@@ -204,6 +206,14 @@
 
       overlay.querySelector('#gt-btn-close').addEventListener('click', () => this.close());
       overlay.querySelector('#gt-btn-catalog').addEventListener('click', () => this.handleBackNavigation());
+      const corLoeAhaBtn = overlay.querySelector('#gt-btn-cor-loe-aha') || overlay.querySelector('#gt-btn-cor-loe');
+      if (corLoeAhaBtn) {
+        corLoeAhaBtn.addEventListener('click', () => this.loadAndShowTable('aha-ccd-2023.t03-applying-cor-loe-in-patient-care'));
+      }
+      const corLoeEscBtn = overlay.querySelector('#gt-btn-cor-loe-esc');
+      if (corLoeEscBtn) {
+        corLoeEscBtn.addEventListener('click', () => this.loadAndShowTable('esc-acs-2023.t01-classes-of-recommendations-and-levels-of-evidence'));
+      }
 
       const prevBtn = overlay.querySelector('#gt-btn-prev');
       const nextBtn = overlay.querySelector('#gt-btn-next');
@@ -298,6 +308,16 @@
           catBtn.textContent = isRu ? '📚 Каталог' : '📚 Catalog';
           catBtn.title = isRu ? 'Каталог руководств' : 'Guidelines Catalog';
         }
+      }
+      const corLoeAhaBtn = document.getElementById('gt-btn-cor-loe-aha') || document.getElementById('gt-btn-cor-loe');
+      if (corLoeAhaBtn) {
+        corLoeAhaBtn.textContent = '⚖️ AHA COR/LOE';
+        corLoeAhaBtn.title = isRu ? 'Классы рекомендаций и уровни доказательности (AHA/ACC)' : 'Classes of Recommendation & Levels of Evidence (AHA/ACC)';
+      }
+      const corLoeEscBtn = document.getElementById('gt-btn-cor-loe-esc');
+      if (corLoeEscBtn) {
+        corLoeEscBtn.textContent = '🇪🇺 ESC COR/LOE';
+        corLoeEscBtn.title = isRu ? 'Классы рекомендаций и уровни доказательности (ESC)' : 'Classes of Recommendation & Levels of Evidence (ESC)';
       }
       const searchInput = document.getElementById('gt-table-filter');
       if (searchInput) {
@@ -1032,7 +1052,9 @@
           e.stopPropagation();
           const cls = badge.dataset.class;
           const lvl = badge.dataset.level;
-          const legend = this.legends['esc-2023'];
+          const meta = this.guidelinesMeta[table.guidelineId];
+          const legendId = meta?.legend || 'esc-2023';
+          const legend = this.legends[legendId] || this.legends['esc-2023'];
 
           if (cls && legend?.classes?.[cls]) {
             const info = legend.classes[cls];

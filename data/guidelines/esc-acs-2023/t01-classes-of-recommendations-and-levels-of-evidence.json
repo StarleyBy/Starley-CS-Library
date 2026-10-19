@@ -1,0 +1,236 @@
+{
+  "schemaVersion": 1,
+  "id": "esc-acs-2023.t01-classes-of-recommendations-and-levels-of-evidence",
+  "guidelineId": "esc-acs-2023",
+  "number": "Table 1 & 2",
+  "type": "grid",
+  "title": {
+    "en": "Classes of Recommendations and Levels of Evidence (ESC)",
+    "ru": "Классы рекомендаций и уровни доказательности Европейского общества кардиологов (ESC)"
+  },
+  "tags": [
+    "cor",
+    "loe",
+    "esc",
+    "classes-of-recommendations",
+    "levels-of-evidence",
+    "methodology",
+    "clinical-practice"
+  ],
+  "columns": [
+    {
+      "id": "classification",
+      "title": {
+        "en": "Classes of Recommendations / Levels of Evidence",
+        "ru": "Классы рекомендаций / Уровни доказательности"
+      }
+    },
+    {
+      "id": "definition",
+      "title": {
+        "en": "Definition",
+        "ru": "Определение"
+      }
+    },
+    {
+      "id": "wording",
+      "title": {
+        "en": "Wording to Use",
+        "ru": "Рекомендуемая формулировка"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-classes-of-recommendations",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Table 1. Classes of recommendations (ESC)**",
+            "ru": "**Таблица 1. Классы рекомендаций (ESC)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01-class-i",
+      "cells": [
+        {
+          "tone": "green",
+          "text": {
+            "en": "**Class I**",
+            "ru": "**Класс I**"
+          }
+        },
+        {
+          "text": {
+            "en": "Evidence and/or general agreement that a given treatment or procedure is beneficial, useful, effective.",
+            "ru": "Доказательства и/или общее согласие экспертов в том, что данный метод лечения или процедура полезны, эффективны."
+          }
+        },
+        {
+          "tone": "green",
+          "text": {
+            "en": "**Is recommended or is indicated**",
+            "ru": "**Рекомендуется или показано**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-class-iia",
+      "cells": [
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "**Class IIa**",
+            "ru": "**Класс IIa**"
+          }
+        },
+        {
+          "text": {
+            "en": "*Conflicting evidence and/or a divergence of opinion about the usefulness/efficacy of the given treatment or procedure.*\n\n**Weight of evidence/opinion is in favour of usefulness/efficacy.**",
+            "ru": "*Противоречивые данные и/или расхождение мнений экспертов о полезности/эффективности лечения или процедуры.*\n\n**Преобладают доказательства / мнения в пользу полезности/эффективности.**"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "**Should be considered**",
+            "ru": "**Следует рассмотреть**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-class-iib",
+      "cells": [
+        {
+          "tone": "orange",
+          "text": {
+            "en": "**Class IIb**",
+            "ru": "**Класс IIb**"
+          }
+        },
+        {
+          "text": {
+            "en": "*Conflicting evidence and/or a divergence of opinion about the usefulness/efficacy of the given treatment or procedure.*\n\n**Usefulness/efficacy is less well established by evidence/opinion.**",
+            "ru": "*Противоречивые данные и/или расхождение мнений экспертов о полезности/эффективности лечения или процедуры.*\n\n**Полезность/эффективность менее убедительно подтверждена доказательствами / мнениями.**"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "**May be considered**",
+            "ru": "**Можно рассмотреть**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-class-iii",
+      "cells": [
+        {
+          "tone": "red",
+          "text": {
+            "en": "**Class III**",
+            "ru": "**Класс III**"
+          }
+        },
+        {
+          "text": {
+            "en": "Evidence or general agreement that the given treatment or procedure is not useful/effective, and in some cases may be harmful.",
+            "ru": "Доказательства или общее согласие экспертов в том, что данный метод лечения или процедура не являются полезными/эффективными, а в ряде случаев могут быть вредны."
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "**Is not recommended**",
+            "ru": "**Не рекомендуется**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-levels-of-evidence",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Table 2. Levels of evidence (ESC)**",
+            "ru": "**Таблица 2. Уровни доказательности (ESC)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-level-a",
+      "cells": [
+        {
+          "tone": "blue",
+          "text": {
+            "en": "**Level of evidence A**",
+            "ru": "**Уровень доказательности A**"
+          }
+        },
+        {
+          "colspan": 2,
+          "text": {
+            "en": "Data derived from multiple randomized clinical trials or meta-analyses.",
+            "ru": "Данные получены на основе многочисленных рандомизированных клинических исследований (РКИ) или метаанализов."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-level-b",
+      "cells": [
+        {
+          "tone": "blue",
+          "text": {
+            "en": "**Level of evidence B**",
+            "ru": "**Уровень доказательности B**"
+          }
+        },
+        {
+          "colspan": 2,
+          "text": {
+            "en": "Data derived from a single randomized clinical trial or large non-randomized studies.",
+            "ru": "Данные получены на основе одного рандомизированного клинического исследования (РКИ) или крупных нерандомизированных исследований."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-level-c",
+      "cells": [
+        {
+          "tone": "neutral",
+          "text": {
+            "en": "**Level of evidence C**",
+            "ru": "**Уровень доказательности C**"
+          }
+        },
+        {
+          "colspan": 2,
+          "text": {
+            "en": "Consensus of opinion of the experts and/or small studies, retrospective studies, registries.",
+            "ru": "Консенсус мнений экспертов и/или небольшие исследования, ретроспективные исследования, регистры."
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt37-immunization",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 37",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Immunization",
+    "ru": "Рекомендация по иммунизации"
+  },
+  "tags": [
+    "acs",
+    "immunization",
+    "vaccination",
+    "influenza",
+    "secondary-prevention",
+    "mace"
+  ],
+  "sections": [
+    {
+      "id": "sec-immunization",
+      "title": {
+        "en": "Immunization",
+        "ru": "Иммунизация"
+      },
+      "rows": [
+        {
+          "id": "r01-annual-influenza-vaccination",
+          "text": {
+            "en": "In patients with ACS without a contraindication, annual influenza vaccination is recommended to reduce the risk of death and MACE.",
+            "ru": "У пациентов с ОКС при отсутствии противопоказаний рекомендуется ежегодная вакцинация против гриппа для снижения риска смерти и MACE."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt07-sdoh-social-determinants-of-health",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 7",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for SDOH",
+    "ru": "Рекомендация по социальным детерминантам здоровья (SDOH)"
+  },
+  "tags": [
+    "ccd",
+    "sdoh",
+    "social-determinants-of-health",
+    "patient-centered-care",
+    "lifestyle",
+    "prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-sdoh",
+      "title": {
+        "en": "Social Determinants of Health (SDOH)",
+        "ru": "Социальные детерминанты здоровья (SDOH)"
+      },
+      "rows": [
+        {
+          "id": "r01-routine-sdoh-assessment",
+          "text": {
+            "en": "In patients with CCD, routine assessment by clinicians and the care team for SDOH is recommended to inform patient-centered treatment decisions and lifestyle change recommendations.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) рекомендуется рутинная оценка социальных детерминант здоровья (SDOH) клиницистами и лечащей командой для принятия пациентоориентированных решений о лечении и формирования рекомендаций по изменению образа жизни.^[a]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the 2019 ACC/AHA Guideline on the Primary Prevention of Cardiovascular Disease.9",
+      "ru": "*Модифицировано из Руководства ACC/AHA 2019 по первичной профилактике сердечно-сосудистых заболеваний.9"
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

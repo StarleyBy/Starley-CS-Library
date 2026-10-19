@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt16-reperfusion-non-pci-capable-hospitals",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 16",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Reperfusion at Non–PCI-Capable Hospitals",
+    "ru": "Рекомендации по реперфузии в стационарах без возможности проведения ЧКВ"
+  },
+  "tags": [
+    "acs",
+    "stemi",
+    "non-pci-hospital",
+    "transfer",
+    "ppci",
+    "fibrinolysis",
+    "contraindication",
+    "st-depression",
+    "posterior-stemi"
+  ],
+  "sections": [
+    {
+      "id": "sec-reperfusion-non-pci-capable",
+      "title": {
+        "en": "Reperfusion Strategy at Non–PCI-Capable Hospitals",
+        "ru": "Стратегия реперфузии в стационарах без возможности проведения ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r01-stemi-transfer-under-120-min-fmc-ppci",
+          "text": {
+            "en": "In patients with STEMI and an estimated time from FMC to device activation of ≤120 minutes or those with a contraindication to fibrinolytic therapy, transfer to a PCI-capable hospital for PPCI is recommended to reduce MACE.",
+            "ru": "У пациентов с ИМпST (STEMI) и расчетным временем от FMC до активации устройства ≤120 минут либо при наличии противопоказаний к фибринолитической терапии рекомендуется перевод в ЧКВ-центр для проведения первичного ЧКВ (ПЧКВ/PPCI) с целью снижения MACE."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-stemi-symptoms-under-12h-delay-over-120-min-fibrinolysis",
+          "text": {
+            "en": "In patients with STEMI and symptom onset of <12 hours and anticipated delay to PPCI >120 minutes from FMC, fibrinolytic therapy should be administered in patients without contraindication to reduce MACE.",
+            "ru": "У пациентов с ИМпST (STEMI) при давности симптомов <12 часов и ожидаемой задержке до первичного ЧКВ >120 минут от момента первого медицинского контакта (FMC) следует проводить фибринолитическую терапию (при отсутствии противопоказаний) для снижения MACE."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [4, 5, 6, 7, 8, 9, 10]
+        },
+        {
+          "id": "r03-stemi-12-to-24h-transfer-for-ppci",
+          "text": {
+            "en": "In patients with STEMI and symptom onset of 12 to 24 hours, transfer to a PCI-capable hospital for PPCI is reasonable to reduce infarct size and MACE.",
+            "ru": "У пациентов с ИМпST (STEMI) при давности симптомов от 12 до 24 часов перевод в ЧКВ-центр для выполнения первичного ЧКВ оправдан для уменьшения размера инфаркта и снижения частоты MACE."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [11, 12]
+        },
+        {
+          "id": "r04-isolated-st-depression-no-fibrinolysis-harm",
+          "text": {
+            "en": "In patients with only ST-segment depression, except when true posterior STEMI is suspected, fibrinolytic therapy should not be administered due to risk of hemorrhagic stroke and major noncerebral bleeding.",
+            "ru": "У пациентов только с депрессией сегмента ST (за исключением случаев подозрения на истинный задний ИМпST) фибринолитическая терапия не должна проводиться из-за риска геморрагического инсульта и больших внецеребральных кровотечений."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [13]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

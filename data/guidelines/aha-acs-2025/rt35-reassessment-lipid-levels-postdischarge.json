@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt35-reassessment-lipid-levels-postdischarge",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 35",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Reassessment of Lipid Levels Postdischarge",
+    "ru": "Рекомендация по повторной оценке уровней липидов после выписки из стационара"
+  },
+  "tags": [
+    "acs",
+    "lipid-lowering",
+    "cholesterol",
+    "fasting-lipid-panel",
+    "adherence",
+    "statin",
+    "postdischarge"
+  ],
+  "sections": [
+    {
+      "id": "sec-reassessment-lipid-levels-postdischarge",
+      "title": {
+        "en": "Reassessment of Lipid Levels Postdischarge",
+        "ru": "Повторная оценка уровней липидов после выписки из стационара"
+      },
+      "rows": [
+        {
+          "id": "r01-fasting-lipid-panel-4-to-8-weeks",
+          "text": {
+            "en": "In patients after ACS, a fasting lipid panel is recommended 4 to 8 weeks after initiation or dose adjustment of lipid-lowering therapy to assess response or adherence to therapy.^[a]",
+            "ru": "У пациентов после ОКС рекомендуется исследование липидного спектра крови натощак через 4–8 недель после начала или изменения дозы гиполипидемической терапии для оценки ответа на лечение или приверженности терапии.^[a]"
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the “2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA Guideline on the Management of Blood Cholesterol”.",
+      "ru": "*Модифицировано из Руководства AHA/ACC/.../PCNA 2018 по ведению пациентов с повышенным уровнем холестерина в крови."
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

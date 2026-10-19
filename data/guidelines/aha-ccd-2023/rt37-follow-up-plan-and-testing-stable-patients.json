@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt37-follow-up-plan-and-testing-stable-patients",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 37",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Follow-Up Plan and Testing in Stable Patients",
+    "ru": "Рекомендации по плану динамического наблюдения и обследованию стабильных пациентов"
+  },
+  "tags": [
+    "ccd",
+    "follow-up",
+    "stable-patients",
+    "telehealth",
+    "stress-testing",
+    "ccta",
+    "lv-function",
+    "angiography-harm",
+    "routine-testing-no-benefit"
+  ],
+  "sections": [
+    {
+      "id": "sec-follow-up-plan-testing",
+      "title": {
+        "en": "Follow-Up Plan and Testing in Stable Patients",
+        "ru": "План динамического наблюдения и обследование стабильных пациентов"
+      },
+      "rows": [
+        {
+          "id": "r01-telehealth-community-programs",
+          "text": {
+            "en": "In stable patients with CCD and with previous ACS or coronary revascularization, referral to telehealth programs, community-based programs, or both for lifestyle interventions may be reasonable as an adjunct to usual care to improve management of cardiovascular risk factors.",
+            "ru": "У стабильных пациентов с ХКИ (CCD) и перенесенным ранее ОКС (ACS) или реваскуляризацией миокарда направление в программы телемедицины и/или локальные общественные программы по модификации образа жизни может быть целесообразным в качестве дополнения к стандартной помощи для оптимизации контроля сердечно-сосудистых факторов риска."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-no-benefit-routine-ccta-stress-testing",
+          "text": {
+            "en": "In patients with CCD without a change in clinical or functional status on optimized GDMT, routine periodic testing with coronary CTA or stress testing with or without imaging is not recommended to guide therapeutic decision-making.",
+            "ru": "У пациентов с ХКИ (CCD) без изменений клинического или функционального статуса на фоне оптимизированной медикаментозной терапии (GDMT) рутинное периодическое тестирование с помощью КТ-коронарографии (CCTA) или нагрузочных стресс-тестов (с визуализацией или без) не рекомендуется для определения лечебной тактики."
+          },
+          "class": "III-no-benefit",
+          "level": "B-R",
+          "refs": [8, 9, 10]
+        },
+        {
+          "id": "r03-no-benefit-routine-lv-function-reassessment",
+          "text": {
+            "en": "In patients with CCD without a change in clinical or functional status, routine periodic reassessment of LV function is not recommended to guide therapeutic decision-making.",
+            "ru": "У пациентов с ХКИ (CCD) без изменений клинического или функционального статуса рутинная периодическая повторная оценка функции левого желудочка (ЛЖ) не рекомендуется для определения лечебной тактики."
+          },
+          "class": "III-no-benefit",
+          "level": "B-R",
+          "refs": [11, 12]
+        },
+        {
+          "id": "r04-harm-routine-invasive-angiography",
+          "text": {
+            "en": "In patients with CCD without a change in clinical or functional status, routine periodic invasive coronary angiography should not be performed to guide therapeutic decision-making.",
+            "ru": "У пациентов с ХКИ (CCD) без изменений клинического или функционального статуса проведение рутинной периодической инвазивной коронарографии (ИКА) не должно выполняться для определения лечебной тактики."
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [13, 14, 15, 16, 17]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt34-chronic-kidney-disease",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 34",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for CKD",
+    "ru": "Рекомендации при хронической болезни почек (ХБП / CKD)"
+  },
+  "tags": [
+    "ccd",
+    "ckd",
+    "aki",
+    "acute-kidney-injury",
+    "prevention",
+    "contrast-induced-aki"
+  ],
+  "sections": [
+    {
+      "id": "sec-ckd",
+      "title": {
+        "en": "Chronic Kidney Disease",
+        "ru": "Хроническая болезнь почек"
+      },
+      "rows": [
+        {
+          "id": "r01-minimize-risk-treatment-related-aki",
+          "text": {
+            "en": "In patients with CCD and CKD, measures should be taken to minimize the risk of treatment-related acute kidney injury.^[a]",
+            "ru": "У пациентов с ХКИ (CCD) и ХБП (CKD) следует принимать меры по минимизации риска ятрогенного (связанного с лечением) острого повреждения почек (ОПП / AKI).^[a]"
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Modified from the 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization.4",
+      "ru": "Модифицировано на основе рекомендаций ACC/AHA/SCAI 2021 по реваскуляризации миокарда.4"
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

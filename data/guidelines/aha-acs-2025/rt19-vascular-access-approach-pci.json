@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt19-vascular-access-approach-pci",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 19",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Vascular Access Approach for PCI",
+    "ru": "Рекомендация по сосудистому доступу для ЧКВ"
+  },
+  "tags": [
+    "acs",
+    "pci",
+    "vascular-access",
+    "radial-approach",
+    "femoral-approach",
+    "bleeding",
+    "vascular-complications"
+  ],
+  "sections": [
+    {
+      "id": "sec-vascular-access-approach",
+      "title": {
+        "en": "Vascular Access Approach for PCI",
+        "ru": "Сосудистый доступ для ЧКВ"
+      },
+      "rows": [
+        {
+          "id": "r01-radial-preferred-over-femoral",
+          "text": {
+            "en": "In patients with ACS undergoing PCI, a radial approach is preferred to a femoral approach to reduce bleeding, vascular complications, and death.^[a]",
+            "ru": "У пациентов с ОКС, подвергающихся ЧКВ (PCI), радиальный доступ предпочтительнее феморального для снижения частоты кровотечений, сосудистых осложнений и смерти.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "*Модифицировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

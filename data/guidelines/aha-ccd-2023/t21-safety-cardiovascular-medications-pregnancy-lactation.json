@@ -1,0 +1,587 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t21-safety-cardiovascular-medications-pregnancy-lactation",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 21",
+  "type": "grid",
+  "title": {
+    "en": "Safety of Cardiovascular Medications During Pregnancy and Lactation",
+    "ru": "Безопасность сердечно-сосудистых препаратов во время беременности и лактации"
+  },
+  "tags": [
+    "ccd",
+    "pregnancy",
+    "lactation",
+    "cardiovascular-medications",
+    "safety",
+    "contraindications",
+    "antiarrhythmics",
+    "heart-failure",
+    "anticoagulants",
+    "antiplatelets",
+    "antihypertensives"
+  ],
+  "columns": [
+    {
+      "id": "medication",
+      "title": {
+        "en": "Medication",
+        "ru": "Лекарственный препарат"
+      }
+    },
+    {
+      "id": "safety-pregnancy",
+      "title": {
+        "en": "Safety in Pregnancy",
+        "ru": "Безопасность при беременности"
+      }
+    },
+    {
+      "id": "safety-lactation",
+      "title": {
+        "en": "Safety in Lactation",
+        "ru": "Безопасность при лактации"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-arrhythmias",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Arrhythmias**",
+            "ru": "**Аритмии**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01-adenosine",
+      "cells": [
+        { "text": { "en": "Adenosine", "ru": "Аденозин" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r02-metoprolol-propranolol",
+      "cells": [
+        { "text": { "en": "Metoprolol / propranolol", "ru": "Метопролол / пропранолол" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r03-digoxin",
+      "cells": [
+        { "text": { "en": "Digoxin", "ru": "Дигоксин" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } }
+      ]
+    },
+    {
+      "id": "r04-lidocaine",
+      "cells": [
+        { "text": { "en": "Lidocaine", "ru": "Лидокаин" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } }
+      ]
+    },
+    {
+      "id": "r05-verapamil",
+      "cells": [
+        { "text": { "en": "Verapamil", "ru": "Верапамил" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r06-diltiazem",
+      "cells": [
+        { "text": { "en": "Diltiazem", "ru": "Дилтиазем" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r07-procainamide",
+      "cells": [
+        { "text": { "en": "Procainamide", "ru": "Прокаинамид" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r08-sotalol",
+      "cells": [
+        { "text": { "en": "Sotalol", "ru": "Соталол" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r09-flecainide",
+      "cells": [
+        { "text": { "en": "Flecainide", "ru": "Флекаинид" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r10-propafenone",
+      "cells": [
+        { "text": { "en": "Propafenone", "ru": "Пропафенон" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r11-amiodarone",
+      "cells": [
+        { "text": { "en": "Amiodarone^[a]", "ru": "Амиодарон^[a]" } },
+        { "tone": "red", "text": { "en": "C (Contraindicated)", "ru": "C (Противопоказан)" } },
+        { "tone": "red", "text": { "en": "C (Contraindicated)", "ru": "C (Противопоказан)" } }
+      ]
+    },
+    {
+      "id": "sec-heart-failure",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Heart Failure**",
+            "ru": "**Сердечная недостаточность**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-metoprolol",
+      "cells": [
+        { "text": { "en": "Metoprolol", "ru": "Метопролол" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r13-carvedilol",
+      "cells": [
+        { "text": { "en": "Carvedilol", "ru": "Карведилол" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r14-furosemide-hf",
+      "cells": [
+        { "text": { "en": "Furosemide", "ru": "Фуросемид" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r15-bumetanide",
+      "cells": [
+        { "text": { "en": "Bumetanide", "ru": "Буметанид" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r16-dopamine",
+      "cells": [
+        { "text": { "en": "Dopamine", "ru": "Допамин" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r17-dobutamine",
+      "cells": [
+        { "text": { "en": "Dobutamine", "ru": "Добутамин" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r18-norepinephrine",
+      "cells": [
+        { "text": { "en": "Norepinephrine", "ru": "Норэпинефрин (норадреналин)" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r19-hydralazine-hf",
+      "cells": [
+        { "text": { "en": "Hydralazine", "ru": "Гидралазин" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } }
+      ]
+    },
+    {
+      "id": "r20-nitroglycerin-hf",
+      "cells": [
+        { "text": { "en": "Nitroglycerin", "ru": "Нитроглицерин" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r21-isdn-hf",
+      "cells": [
+        { "text": { "en": "Isosorbide dinitrate", "ru": "Изосорбида динитрат" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r22-torsemide",
+      "cells": [
+        { "text": { "en": "Torsemide", "ru": "Торасемид" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r23-metolazone",
+      "cells": [
+        { "text": { "en": "Metolazone", "ru": "Метолазон" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "sec-anticoagulants",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Anticoagulants**",
+            "ru": "**Антикоагулянты**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r24-warfarin",
+      "cells": [
+        { "text": { "en": "Warfarin", "ru": "Варфарин" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } }
+      ]
+    },
+    {
+      "id": "r25-ufh",
+      "cells": [
+        { "text": { "en": "Unfractionated heparin", "ru": "Нефракционированный гепарин (НФГ)" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } }
+      ]
+    },
+    {
+      "id": "r26-enoxaparin",
+      "cells": [
+        { "text": { "en": "Enoxaparin", "ru": "Эноксапарин" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } }
+      ]
+    },
+    {
+      "id": "r27-fondaparinux",
+      "cells": [
+        { "text": { "en": "Fondaparinux", "ru": "Фондапаринукс" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r28-argatroban",
+      "cells": [
+        { "text": { "en": "Argatroban", "ru": "Аргатробан" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r29-bivalirudin",
+      "cells": [
+        { "text": { "en": "Bivalirudin", "ru": "Бивалирудин" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "sec-antiplatelets",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Antiplatelets**",
+            "ru": "**Антитромбоцитарные препараты**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r30-aspirin-low-dose",
+      "cells": [
+        { "text": { "en": "Aspirin (low dose)", "ru": "Аспирин (низкая доза)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r31-clopidogrel",
+      "cells": [
+        { "text": { "en": "Clopidogrel", "ru": "Клопидогрел" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r32-prasugrel",
+      "cells": [
+        { "text": { "en": "Prasugrel", "ru": "Прасугрел" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r33-ticagrelor",
+      "cells": [
+        { "text": { "en": "Ticagrelor", "ru": "Тикагрелор" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "sec-thrombolytics",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Thrombolytics**",
+            "ru": "**Тромболитики**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r34-alteplase",
+      "cells": [
+        { "text": { "en": "Alteplase", "ru": "Альтеплаза" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r35-streptokinase",
+      "cells": [
+        { "text": { "en": "Streptokinase", "ru": "Стрептокиназа" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "sec-hypertension",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Hypertension**",
+            "ru": "**Артериальная гипертензия**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r36-labetalol",
+      "cells": [
+        { "text": { "en": "Labetalol", "ru": "Лабеталол" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r37-nifedipine",
+      "cells": [
+        { "text": { "en": "Nifedipine", "ru": "Нифедипин" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } }
+      ]
+    },
+    {
+      "id": "r38-methyldopa",
+      "cells": [
+        { "text": { "en": "Alpha-methyldopa (oral)", "ru": "Альфа-метилдопа (перорально)" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } }
+      ]
+    },
+    {
+      "id": "r39-hydralazine-htn",
+      "cells": [
+        { "text": { "en": "Hydralazine", "ru": "Гидралазин" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } }
+      ]
+    },
+    {
+      "id": "r40-nitroglycerin-htn",
+      "cells": [
+        { "text": { "en": "Nitroglycerin", "ru": "Нитроглицерин" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r41-nitroprusside",
+      "cells": [
+        { "text": { "en": "Nitroprusside", "ru": "Нитропруссид натрия" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r42-isdn-htn",
+      "cells": [
+        { "text": { "en": "Isosorbide dinitrate", "ru": "Изосорбида динитрат" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r43-amlodipine",
+      "cells": [
+        { "text": { "en": "Amlodipine", "ru": "Амлодипин" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r44-furosemide-htn",
+      "cells": [
+        { "text": { "en": "Furosemide", "ru": "Фуросемид" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r45-hctz",
+      "cells": [
+        { "text": { "en": "Hydrochlorothiazide", "ru": "Гидрохлоротиазид" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "green", "text": { "en": "S (Considered safe)", "ru": "S (Считается безопасным)" } }
+      ]
+    },
+    {
+      "id": "r46-clonidine",
+      "cells": [
+        { "text": { "en": "Clonidine", "ru": "Клонидин" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "sec-contraindicated",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Cautionary Use and Contraindicated in Pregnancy**",
+            "ru": "**Препараты, требующие осторожности и противопоказанные при беременности**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r47-atenolol",
+      "cells": [
+        { "text": { "en": "Atenolol", "ru": "Атенолол" } },
+        { "tone": "red", "text": { "en": "C (Contraindicated)", "ru": "C (Противопоказан)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r48-acei-class",
+      "cells": [
+        { "text": { "en": "ACE inhibitor class^[b]", "ru": "Класс ингибиторов АПФ^[b]" } },
+        { "tone": "red", "text": { "en": "C (Contraindicated)", "ru": "C (Противопоказаны)" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } }
+      ]
+    },
+    {
+      "id": "r49-arb-class",
+      "cells": [
+        { "text": { "en": "ARB class", "ru": "Класс блокаторов рецепторов ангиотензина (БРА)" } },
+        { "tone": "red", "text": { "en": "C (Contraindicated)", "ru": "C (Противопоказаны)" } },
+        { "tone": "blue", "text": { "en": "U (Conflicting data, unknown)", "ru": "U (Противоречивые данные, неизвестно)" } }
+      ]
+    },
+    {
+      "id": "r50-aldosterone-antagonists",
+      "cells": [
+        { "text": { "en": "Aldosterone antagonists", "ru": "Антагонисты альдостерона" } },
+        { "tone": "red", "text": { "en": "C (Contraindicated)", "ru": "C (Противопоказаны)" } },
+        { "tone": "red", "text": { "en": "C (Contraindicated)", "ru": "C (Противопоказаны)" } }
+      ]
+    },
+    {
+      "id": "r51-statin-class",
+      "cells": [
+        { "text": { "en": "Statin class", "ru": "Класс статинов" } },
+        { "tone": "yellow", "text": { "en": "LD (Limited data, use with caution)", "ru": "LD (Ограниченные данные, с осторожностью)" } },
+        { "tone": "red", "text": { "en": "C (Contraindicated)", "ru": "C (Противопоказаны)" } }
+      ]
+    },
+    {
+      "id": "r52-doac",
+      "cells": [
+        { "text": { "en": "DOAC", "ru": "Прямые оральные антикоагулянты (ПОАК / DOAC)" } },
+        { "tone": "red", "text": { "en": "C (Contraindicated)", "ru": "C (Противопоказаны)" } },
+        { "tone": "red", "text": { "en": "C (Contraindicated)", "ru": "C (Противопоказаны)" } }
+      ]
+    },
+    {
+      "id": "r53-eras",
+      "cells": [
+        { "text": { "en": "ERAs (eg, bosentan)", "ru": "Антагонисты рецепторов эндотелина (например, бозентан)" } },
+        { "tone": "red", "text": { "en": "C (Contraindicated)", "ru": "C (Противопоказаны)" } },
+        { "tone": "red", "text": { "en": "C (Contraindicated)", "ru": "C (Противопоказаны)" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "May be used if other therapies fail.",
+      "ru": "Может применяться при неэффективности других видов терапии."
+    },
+    "b": {
+      "en": "Captopril, benazepril, and enalapril are considered safe during lactation.",
+      "ru": "Каптоприл, беназеприл и эналаприл считаются безопасными в период лактации."
+    }
+  },
+  "source": {
+    "expectedRows": 60
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt23-colchicine",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 23",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Colchicine",
+    "ru": "Рекомендации по применению колхицина"
+  },
+  "tags": [
+    "ccd",
+    "colchicine",
+    "secondary-prevention",
+    "ascvd",
+    "antiinflammatory",
+    "prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-colchicine",
+      "title": {
+        "en": "Colchicine",
+        "ru": "Колхицин"
+      },
+      "rows": [
+        {
+          "id": "r01-colchicine-secondary-prevention",
+          "text": {
+            "en": "In patients with CCD, the addition of colchicine for secondary prevention may be considered to reduce recurrent ASCVD events.",
+            "ru": "У пациентов с ХИБС (CCD) может быть рассмотрено добавление колхицина для вторичной профилактики с целью снижения частоты повторных событий АССЗ (ASCVD)."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [1, 2]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

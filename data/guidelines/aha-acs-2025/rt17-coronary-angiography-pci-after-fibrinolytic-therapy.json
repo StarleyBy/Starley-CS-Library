@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt17-coronary-angiography-pci-after-fibrinolytic-therapy",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 17",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Coronary Angiography and PCI After Fibrinolytic Therapy",
+    "ru": "Рекомендации по коронарографии и ЧКВ после фибринолитической терапии"
+  },
+  "tags": [
+    "acs",
+    "stemi",
+    "fibrinolysis",
+    "rescue-pci",
+    "angiography",
+    "failed-reperfusion",
+    "pharmacoinvasive"
+  ],
+  "sections": [
+    {
+      "id": "sec-angiography-pci-after-fibrinolysis",
+      "title": {
+        "en": "Coronary Angiography and PCI After Fibrinolytic Therapy",
+        "ru": "Коронарография и ЧКВ после фибринолитической терапии"
+      },
+      "rows": [
+        {
+          "id": "r01-stemi-transfer-immediately-after-fibrinolysis",
+          "text": {
+            "en": "In patients with STEMI, transfer to a PCI-capable center immediately after fibrinolytic therapy is recommended.",
+            "ru": "У пациентов с ИМпST (STEMI) рекомендуется немедленный перевод в ЧКВ-центр сразу после проведения фибринолитической терапии."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5]
+        },
+        {
+          "id": "r02-failed-reperfusion-rescue-pci",
+          "text": {
+            "en": "In patients with STEMI with suspected failed reperfusion after fibrinolytic therapy, immediate angiography with rescue PCI is recommended to reduce the risk of death or recurrent MI.^[a]",
+            "ru": "У пациентов с ИМпST (STEMI) при подозрении на неэффективность реперфузии после фибринолитической терапии рекомендуется немедленная коронарография со спасительным ЧКВ (rescue PCI) для снижения риска смерти или повторного ИМ.^[a]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [6, 7, 8, 9]
+        },
+        {
+          "id": "r03-early-angiography-2-to-24h-after-fibrinolysis",
+          "text": {
+            "en": "In patients with STEMI treated with fibrinolytic therapy, early angiography between 2 and 24 hours with the intent to perform PCI is recommended to reduce the rates of death or MI.^[a]",
+            "ru": "У пациентов с ИМпST (STEMI), получавших фибринолитическую терапию, рекомендуется ранняя коронарография в интервале от 2 до 24 часов с намерением выполнить ЧКВ для снижения частоты смерти или ИМ.^[a]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4, 5, 10, 11]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "*Модифицировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

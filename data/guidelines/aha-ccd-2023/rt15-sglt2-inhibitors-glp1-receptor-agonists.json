@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt15-sglt2-inhibitors-glp1-receptor-agonists",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 15",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Use of SGLT2 Inhibitors and GLP-1 Receptor Agonists",
+    "ru": "Рекомендации по применению ингибиторов SGLT2 и агонистов рецепторов ГПП-1"
+  },
+  "tags": [
+    "ccd",
+    "sglt2-inhibitors",
+    "glp1-receptor-agonists",
+    "diabetes",
+    "type-2-diabetes",
+    "heart-failure",
+    "lvef",
+    "mace",
+    "qol",
+    "cost-value"
+  ],
+  "sections": [
+    {
+      "id": "sec-sglt2i-glp1ra",
+      "title": {
+        "en": "Use of SGLT2 Inhibitors and GLP-1 Receptor Agonists",
+        "ru": "Применение ингибиторов SGLT2 и агонистов рецепторов ГПП-1"
+      },
+      "rows": [
+        {
+          "id": "r01-sglt2i-or-glp1ra-t2d",
+          "text": {
+            "en": "In patients with CCD who have type 2 diabetes, the use of either an SGLT2 inhibitor or a GLP-1 receptor agonist with proven cardiovascular benefit is recommended to reduce the risk of MACE.",
+            "ru": "У пациентов с ХИБС (CCD) и сахарным диабетом 2 типа рекомендуется применение либо ингибитора SGLT2 (НГЛТ-2), либо агониста рецепторов ГПП-1 (GLP-1 RA) с доказанной сердечно-сосудистой пользой для снижения риска MACE."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+        },
+        {
+          "id": "r02-glp1ra-t2d-cost-value",
+          "text": {
+            "en": "In patients with CCD and type 2 diabetes, addition of a GLP-1 receptor agonist at US prices is projected to be of high value compared with standard of care.",
+            "ru": "У пациентов с ХИБС (CCD) и сахарным диабетом 2 типа добавление агониста рецепторов ГПП-1 (GLP-1 RA) по ценам США обладает высокой экономической ценностью (High Value) по сравнению со стандартным лечением."
+          },
+          "class": "Value-High",
+          "level": "B-NR",
+          "refs": [18]
+        },
+        {
+          "id": "r03-sglt2i-t2d-cost-value",
+          "text": {
+            "en": "In patients with CCD and type 2 diabetes, addition of an SGLT2 inhibitor at US prices is projected to be of intermediate value compared with standard of care.",
+            "ru": "У пациентов с ХИБС (CCD) и сахарным диабетом 2 типа добавление ингибитора SGLT2 (НГЛТ-2) по ценам США обладает промежуточной экономической ценностью (Intermediate Value) по сравнению со стандартным лечением."
+          },
+          "class": "Value-Intermediate",
+          "level": "B-NR",
+          "refs": [18]
+        },
+        {
+          "id": "r04-sglt2i-hf-reduced-lvef",
+          "text": {
+            "en": "In patients with CCD and heart failure with LVEF ≤40%, use of an SGLT2 inhibitor is recommended to reduce the risk of cardiovascular death and heart failure hospitalization and to improve QOL, irrespective of diabetes status.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) и сердечной недостаточностью с ФВЛЖ ≤40% рекомендуется применение ингибитора SGLT2 (НГЛТ-2) для снижения риска сердечно-сосудистой смерти и госпитализаций по поводу сердечной недостаточности, а также для улучшения качества жизни (QOL) независимо от наличия сахарного диабета.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [19, 20, 21, 22, 23, 24]
+        },
+        {
+          "id": "r05-sglt2i-hf-reduced-lvef-cost-value",
+          "text": {
+            "en": "In patients with CCD and heart failure with LVEF ≤40%, addition of an SGLT2 inhibitor to GDMT, irrespective of diabetes status, is projected to be of intermediate value at US prices.",
+            "ru": "У пациентов с ХИБС (CCD) и сердечной недостаточностью с ФВЛЖ ≤40% добавление ингибитора SGLT2 (НГЛТ-2) к ОМТ (GDMT) независимо от наличия сахарного диабета обладает промежуточной экономической ценностью (Intermediate Value) по ценам США."
+          },
+          "class": "Value-Intermediate",
+          "level": "B-NR",
+          "refs": [25, 26]
+        },
+        {
+          "id": "r06-sglt2i-hf-preserved-lvef",
+          "text": {
+            "en": "In patients with CCD and heart failure with LVEF >40%, use of an SGLT2 inhibitor can be beneficial in decreasing heart failure hospitalizations and to improve QOL, irrespective of diabetes status.",
+            "ru": "У пациентов с ХИБС (CCD) и сердечной недостаточностью с ФВЛЖ >40% применение ингибитора SGLT2 (НГЛТ-2) может быть целесообразным для снижения частоты госпитализаций по поводу сердечной недостаточности и улучшения качества жизни (QOL) независимо от наличия сахарного диабета."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [4, 27, 28, 29]
+        },
+        {
+          "id": "r07-sglt2i-hf-preserved-lvef-cost-value",
+          "text": {
+            "en": "In patients with CCD and heart failure with LVEF >40%, addition of an SGLT2 inhibitor to GDMT, irrespective of diabetes status, is projected to be of uncertain value at US prices.",
+            "ru": "У пациентов с ХИБС (CCD) и сердечной недостаточностью с ФВЛЖ >40% добавление ингибитора SGLT2 (НГЛТ-2) к ОМТ (GDMT) независимо от наличия сахарного диабета имеет неопределенную экономическую ценность (Uncertain Value) по ценам США."
+          },
+          "class": "Value-Uncertain",
+          "level": "B-NR",
+          "refs": [30]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Modified from the 2022 AHA/ACC/HFSA Guideline for the Management of Heart Failure.31",
+      "ru": "Адаптировано из совместного руководства AHA/ACC/HFSA по ведению сердечной недостаточности 2022 года.31"
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

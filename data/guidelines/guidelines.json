@@ -15,6 +15,8 @@
     { "id": "aha-aortic-2022", "path": "aha-aortic-2022/" },
     { "id": "aha-revasc-2021", "path": "aha-revasc-2021/" },
     { "id": "aha-hcm-2024", "path": "aha-hcm-2024/" },
-    { "id": "aha-vhd-2020", "path": "aha-vhd-2020/" }
+    { "id": "aha-vhd-2020", "path": "aha-vhd-2020/" },
+    { "id": "aha-acs-2025", "path": "aha-acs-2025/" },
+    { "id": "aha-ccd-2023", "path": "aha-ccd-2023/" }
   ]
 }

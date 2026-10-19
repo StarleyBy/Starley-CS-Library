@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt18-physical-activity",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 18",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Physical Activity",
+    "ru": "Рекомендации по физической активности"
+  },
+  "tags": [
+    "ccd",
+    "physical-activity",
+    "exercise",
+    "aerobic-exercise",
+    "resistance-training",
+    "sedentary-behavior",
+    "qol",
+    "lifestyle"
+  ],
+  "sections": [
+    {
+      "id": "sec-physical-activity",
+      "title": {
+        "en": "Physical Activity",
+        "ru": "Физическая активность"
+      },
+      "rows": [
+        {
+          "id": "r01-aerobic-exercise-regimen",
+          "text": {
+            "en": "For patients with CCD who do not have contraindications, an exercise regimen is recommended, including ≥150 minutes/wk of moderate-intensity aerobic activities or ≥75 minutes/wk of higher-intensity aerobic activities to improve functional capacity and QOL, and to reduce hospital admission and mortality rates.",
+            "ru": "Пациентам с ХИБС (CCD) при отсутствии противопоказаний рекомендуется регулярный режим физических тренировок, включающий ≥150 минут в неделю аэробных нагрузок умеренной интенсивности или ≥75 минут в неделю аэробных нагрузок высокой интенсивности для повышения функциональных возможностей и качества жизни (QOL), а также снижения частоты госпитализаций и смертности."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-resistance-strength-training",
+          "text": {
+            "en": "For patients with CCD who do not have contraindications, resistance (strength) training exercises are recommended on ≥2 days/wk to improve muscle strength, functional capacity, and cardiovascular risk factor control.",
+            "ru": "Пациентам с ХИБС (CCD) при отсутствии противопоказаний рекомендуются силовые тренировки (упражнения с отягощением) ≥2 дней в неделю для увеличения мышечной силы, улучшения функциональной способности и контроля факторов сердечно-сосудистого риска."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [4, 5, 6]
+        },
+        {
+          "id": "r03-reduce-sedentary-behavior",
+          "text": {
+            "en": "For patients with CCD who do not have contraindications, lower-intensity lifestyle activities (eg, walking breaks at work) to reduce sedentary behavior (ie, sitting time) are reasonable to improve functional capacity and reduce cardiovascular risk, especially in individuals with low levels of habitual leisure time physical activity.",
+            "ru": "Пациентам с ХИБС (CCD) при отсутствии противопоказаний целесообразны повседневные активности низкой интенсивности (например, короткие перерывы на ходьбу на работе) для уменьшения времени малоподвижного поведения (сидячего образа жизни) с целью повышения функциональной способности и снижения сердечно-сосудистого риска, особенно у лиц с исходно низким уровнем физической активности."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [7, 8, 9]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

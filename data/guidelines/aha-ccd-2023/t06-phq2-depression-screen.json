@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t06-phq2-depression-screen",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Suggested Screening Tool to Assess Psychological Distress: Patient Health Questionnaire-2 Depression Screen",
+    "ru": "Рекомендуемый скрининговый инструмент для оценки психологического дистресса: опросник депрессии PHQ-2"
+  },
+  "tags": [
+    "ccd",
+    "depression",
+    "phq-2",
+    "psychological-distress",
+    "mental-health",
+    "screening",
+    "questionnaire"
+  ],
+  "columns": [
+    {
+      "id": "problem",
+      "title": {
+        "en": "Over the past 2 weeks, how often have you been bothered by the following problems?",
+        "ru": "За последние 2 недели, как часто вас беспокоили следующие проблемы?"
+      }
+    },
+    {
+      "id": "not-at-all",
+      "title": {
+        "en": "Not at all",
+        "ru": "Совсем нет"
+      }
+    },
+    {
+      "id": "several-days",
+      "title": {
+        "en": "Several days",
+        "ru": "Несколько дней"
+      }
+    },
+    {
+      "id": "more-than-half",
+      "title": {
+        "en": "More than half the days",
+        "ru": "Более половины дней"
+      }
+    },
+    {
+      "id": "nearly-every-day",
+      "title": {
+        "en": "Nearly every day",
+        "ru": "Почти каждый день"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "item-1-little-interest",
+      "cells": [
+        {
+          "text": {
+            "en": "Little interest or pleasure in doing things",
+            "ru": "Мало интереса или удовольствия от деятельности"
+          }
+        },
+        {
+          "text": { "en": "0", "ru": "0" }
+        },
+        {
+          "text": { "en": "1", "ru": "1" }
+        },
+        {
+          "text": { "en": "2", "ru": "2" }
+        },
+        {
+          "text": { "en": "3", "ru": "3" }
+        }
+      ]
+    },
+    {
+      "id": "item-2-feeling-down",
+      "cells": [
+        {
+          "text": {
+            "en": "Feeling down, depressed, or hopeless",
+            "ru": "Чувство подавленности, депрессии или безнадежности"
+          }
+        },
+        {
+          "text": { "en": "0", "ru": "0" }
+        },
+        {
+          "text": { "en": "1", "ru": "1" }
+        },
+        {
+          "text": { "en": "2", "ru": "2" }
+        },
+        {
+          "text": { "en": "3", "ru": "3" }
+        }
+      ]
+    },
+    {
+      "id": "interpretation",
+      "cells": [
+        {
+          "colspan": 5,
+          "tone": "orange",
+          "text": {
+            "en": "**Scoring / Interpretation:** Total score of ≥3 warrants further assessment for depression.^[a]",
+            "ru": "**Оценка / Интерпретация:** Суммарный балл ≥3 требует дальнейшего углубленного обследования на предмет депрессии.^[a]"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Data derived from Kroenke et al.31 and Levine et al.7,46 Reprinted with permission from Levine GN et al. Copyright 2021 American Heart Association, Inc.",
+      "ru": "Данные Kroenke et al.31 и Levine et al.7,46 Воспроизведено с разрешения Levine GN et al. Авторское право 2021 American Heart Association, Inc."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

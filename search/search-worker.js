@@ -385,7 +385,17 @@ function executeSearch(query, categoryFilter = 'all', bookFilter = 'all', langFi
         qEn: doc.qEn || null,
         optRu: doc.optRu || null,
         optEn: doc.optEn || null,
-        ans: doc.ans || null
+        ans: doc.ans || null,
+        // Guideline Fields
+        tableId: doc.tableId || null,
+        rowId: doc.rowId || null,
+        guidelineName: doc.guidelineName || null,
+        tableTitleRu: doc.tableTitleRu || null,
+        tableTitleEn: doc.tableTitleEn || null,
+        rowTextRu: doc.rowTextRu || null,
+        rowTextEn: doc.rowTextEn || null,
+        recClass: doc.recClass || null,
+        recLevel: doc.recLevel || null
       });
     }
   }

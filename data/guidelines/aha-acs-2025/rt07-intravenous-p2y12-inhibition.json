@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt07-intravenous-p2y12-inhibition",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 7",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Intravenous P2Y12 Inhibition",
+    "ru": "Рекомендация по внутривенному ингибированию P2Y12"
+  },
+  "tags": [
+    "acs",
+    "antiplatelet",
+    "p2y12",
+    "cangrelor",
+    "intravenous",
+    "pci",
+    "periprocedural"
+  ],
+  "sections": [
+    {
+      "id": "sec-intravenous-p2y12-inhibition",
+      "title": {
+        "en": "Intravenous P2Y12 Inhibition in Patients With ACS",
+        "ru": "Внутривенное ингибирование P2Y12 у пациентов с ОКС"
+      },
+      "rows": [
+        {
+          "id": "r01-cangrelor-pci-naive-p2y12",
+          "text": {
+            "en": "Among patients with ACS undergoing PCI who have not received a P2Y12 inhibitor, intravenous cangrelor may be reasonable to reduce periprocedural ischemic events.^[a]",
+            "ru": "У пациентов с ОКС, подвергающихся ЧКВ (PCI), ранее не получавших ингибитор P2Y12, внутривенное введение кангрелора может быть целесообразным для снижения частоты перипроцедурных ишемических событий.^[a]"
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Reproduced from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "*Воспроизведено из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    }
+  },
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t21-guidance-acs-discharge-best-practices",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 21",
+  "type": "grid",
+  "title": {
+    "en": "Guidance for ACS Discharge: Best Practices",
+    "ru": "Руководство по выписке пациентов с ОКС: наилучшие клинические практики"
+  },
+  "tags": [
+    "acs",
+    "discharge",
+    "best-practices",
+    "communication",
+    "clinical-assessment",
+    "patient-education",
+    "cr",
+    "social-determinants"
+  ],
+  "columns": [
+    {
+      "id": "category",
+      "title": {
+        "en": "Category",
+        "ru": "Категория"
+      }
+    },
+    {
+      "id": "best-practices",
+      "title": {
+        "en": "Best Practices",
+        "ru": "Рекомендации надлежащей клинической практики"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-communication",
+      "cells": [
+        {
+          "text": {
+            "en": "Communication",
+            "ru": "Коммуникация"
+          }
+        },
+        {
+          "text": {
+            "en": "• Patient centered, verbally and in writing in patient/caregiver preferred language\n• Shared decision-making regarding assessment of goals and preferences should be discussed with patient/caregiver",
+            "ru": "• Пациент-центрированный подход, в устной и письменной форме на предпочитаемом пациентом/ухаживающим лицом языке\n• Совместное принятие решений относительно оценки целей и предпочтений должно обсуждаться с пациентом/ухаживающим лицом"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-clinical-assessment",
+      "cells": [
+        {
+          "text": {
+            "en": "Clinical assessment",
+            "ru": "Клиническая оценка"
+          }
+        },
+        {
+          "text": {
+            "en": "• Address comorbidities and risk factors for recurrent events\n• Assess for presence of ongoing ischemic symptoms, using standardized instrument ideally embedded into EHR\n• Assess risk for bleeding related to medications or procedural site\n• Assess need for additional testing (eg, repeat echocardiogram, staged PCI)\n• Assess whether vaccinations are current (eg, influenza)\n• Perform medication reconciliation, including a prescription for sublingual nitroglycerin, unless contraindicated",
+            "ru": "• Оценка и коррекция сопутствующих заболеваний и факторов риска повторных событий\n• Оценка наличия сохраняющихся ишемических симптомов с использованием стандартизированного опросника, интегрированного в ЭМК (EHR)\n• Оценка риска кровотечений, связанных с фармакотерапией или местом сосудистого доступа\n• Оценка потребности в дополнительных исследованиях (например, повторная ЭхоКГ, этапное ЧКВ)\n• Проверка вакцинального статуса (например, против гриппа)\n• Согласование схемы лекарственной терапии (медикаментозная реконсиляция), включая рецепт на сублингвальный нитроглицерин (при отсутствии противопоказаний)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-patient-caregiver-assessment",
+      "cells": [
+        {
+          "text": {
+            "en": "Patient/caregiver assessment",
+            "ru": "Оценка пациента и ухаживающего лица"
+          }
+        },
+        {
+          "text": {
+            "en": "• Assess capacity for patient/caregiver for self-care (eg, secondary prevention, symptom monitoring, following plan of care, lifestyle changes, contact information for continuing care team)\n• Provide verbal and written educational information related to self-care\n• Use teach-back method to confirm understanding of self-care\n• Use teach-back method for patient/caregiver understanding of medication adherence and treatment regimen",
+            "ru": "• Оценка способности пациента/ухаживающего лица к самостоятельному уходу (вторичная профилактика, мониторинг симптомов, соблюдение плана лечения, изменение образа жизни, контактные данные лечащей команды)\n• Предоставление устной и письменной обучающей информации по вопросам самопомощи\n• Использование метода обратной связи («teach-back») для подтверждения понимания правил ухода и самоконтроля\n• Использование метода «teach-back» для проверки понимания приверженности лечению и режима приема медикаментов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-referrals",
+      "cells": [
+        {
+          "text": {
+            "en": "Referrals",
+            "ru": "Направления на последующие этапы"
+          }
+        },
+        {
+          "text": {
+            "en": "• Confirm referral to CR\n• Provide educational materials related to CR including contact information",
+            "ru": "• Подтверждение направления на кардиореабилитацию (CR)\n• Предоставление обучающих материалов по кардиореабилитации, включая контактную информацию"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-social-determinants-of-health",
+      "cells": [
+        {
+          "text": {
+            "en": "Social determinants of health",
+            "ru": "Социальные детерминанты здоровья"
+          }
+        },
+        {
+          "text": {
+            "en": "• Assess and address barriers to obtaining and taking prescribed medications, to include referral to pharmacy assistance programs or social worker as appropriate\n• Assess and address barriers to attending CR, including viability of home-based or hybrid CR",
+            "ru": "• Оценка и устранение барьеров для получения и регулярного приема назначенных препаратов (включая направление в программы льготного лекарственного обеспечения или к социальному работнику при необходимости)\n• Оценка и устранение препятствий для участия в кардиореабилитации, включая рассмотрение возможности домашних или гибридных программ КР"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

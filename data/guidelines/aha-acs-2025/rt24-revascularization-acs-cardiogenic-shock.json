@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt24-revascularization-acs-cardiogenic-shock",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 24",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Revascularization in ACS With Cardiogenic Shock",
+    "ru": "Рекомендации по реваскуляризации при ОКС, осложненном кардиогенным шоком"
+  },
+  "tags": [
+    "acs",
+    "cardiogenic-shock",
+    "hemodynamic-instability",
+    "revascularization",
+    "culprit-vessel",
+    "pci",
+    "cabg",
+    "ppci",
+    "noninfarct-artery"
+  ],
+  "sections": [
+    {
+      "id": "sec-revascularization-cardiogenic-shock",
+      "title": {
+        "en": "Revascularization in ACS With Cardiogenic Shock",
+        "ru": "Реваскуляризация при ОКС с кардиогенным шоком"
+      },
+      "rows": [
+        {
+          "id": "r01-emergency-revascularization-culprit-vessel",
+          "text": {
+            "en": "In patients with ACS and cardiogenic shock or hemodynamic instability, emergency revascularization of the culprit vessel by PCI or with CABG is indicated to improve survival, irrespective of time from symptom onset.",
+            "ru": "У пациентов с ОКС и кардиогенным шоком либо гемодинамической нестабильностью экстренная реваскуляризация симптом-связанного сосуда путем ЧКВ или КШ показана для улучшения выживаемости независимо от времени от начала симптомов."
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-no-routine-noninfarct-artery-pci-harm",
+          "text": {
+            "en": "In patients with ACS complicated by cardiogenic shock, routine PCI of a noninfarct-related artery at the time of PPCI should not be performed because of the higher risk of death or renal failure.^[a]",
+            "ru": "У пациентов с ОКС, осложненным кардиогенным шоком, рутинное ЧКВ не связанной с инфарктом артерии во время проведения первичного ЧКВ (ПЧКВ/PPCI) не должно выполняться из-за более высокого риска смерти или почечной недостаточности.^[a]"
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [5, 6, 7]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "*Модифицировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    }
+  },
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

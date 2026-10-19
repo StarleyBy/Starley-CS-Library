@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt16-weight-management",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 16",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Weight Management",
+    "ru": "Рекомендации по контролю массы тела"
+  },
+  "tags": [
+    "ccd",
+    "weight-management",
+    "obesity",
+    "bmi",
+    "lifestyle",
+    "glp1-receptor-agonists",
+    "semaglutide",
+    "liraglutide",
+    "bariatric-surgery",
+    "sympathomimetics"
+  ],
+  "sections": [
+    {
+      "id": "sec-weight-management",
+      "title": {
+        "en": "Weight Management",
+        "ru": "Контроль массы тела"
+      },
+      "rows": [
+        {
+          "id": "r01-bmi-waist-circumference-assessment",
+          "text": {
+            "en": "In patients with CCD, assessment of BMI with or without waist circumference is recommended during routine clinical follow-up.",
+            "ru": "У пациентов с ХИБС (CCD) в рамках регулярного клинического наблюдения рекомендуется оценка ИМТ (BMI) с измерением окружности талии или без нее."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": [1, 2, 3, 4, 5, 6]
+        },
+        {
+          "id": "r02-diet-lifestyle-counseling-overweight-obesity",
+          "text": {
+            "en": "Patients with CCD and overweight or obesity should receive counseling on diet, lifestyle, and goals for weight loss.",
+            "ru": "Пациентам с ХИБС (CCD) с избыточной массой тела или ожирением следует проводить консультирование по вопросам питания, образа жизни и индивидуальным целям снижения массы тела."
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [7, 8, 9, 10]
+        },
+        {
+          "id": "r03-glp1ra-weight-reduction-semaglutide-preferred",
+          "text": {
+            "en": "For patients with CCD and overweight or obesity in whom pharmacologic therapy is warranted for further weight reduction, a GLP-1 receptor agonist can be beneficial in addition to counseling for diet and physical activity, and it is reasonable to choose semaglutide over liraglutide.",
+            "ru": "У пациентов с ХИБС (CCD) с избыточной массой тела или ожирением, которым показана медикаментозная терапия для дальнейшего снижения массы тела, добавление агониста рецепторов ГПП-1 (GLP-1 RA) к диетическому консультированию и физической активности может быть полезным, при этом целесообразно предпочесть семаглутид лираглутиду."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [11, 12, 13, 14]
+        },
+        {
+          "id": "r04-bariatric-procedure-severe-obesity",
+          "text": {
+            "en": "In patients with CCD and severe obesity who have not met weight loss goals with lifestyle and pharmacologic intervention, and who have acceptable surgical risk, referral for consideration of a bariatric procedure is reasonable for weight loss and cardiovascular risk factor reduction.",
+            "ru": "У пациентов с ХИБС (CCD) и тяжелым ожирением, не достигших целевых показателей снижения массы тела на фоне изменения образа жизни и фармакотерапии, при приемлемом хирургическом риске целесообразно рассмотрение вопроса о направлении на бариатрическую операцию для снижения массы тела и контроля факторов сердечно-сосудистого риска."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [15, 16, 17, 18]
+        },
+        {
+          "id": "r05-sympathomimetic-weight-loss-drugs-harm",
+          "text": {
+            "en": "In patients with CCD, use of sympathomimetic weight loss drugs is potentially harmful.",
+            "ru": "У пациентов с ХИБС (CCD) применение симпатомиметических препаратов для снижения массы тела потенциально опасно (Harm)."
+          },
+          "class": "III-harm",
+          "level": "B-R",
+          "refs": [19]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

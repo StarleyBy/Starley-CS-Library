@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t20-carpreg-ii-risk-prediction-model",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 20",
+  "type": "grid",
+  "title": {
+    "en": "CARPREG II Risk Prediction Model",
+    "ru": "Модель прогнозирования риска при беременности CARPREG II"
+  },
+  "tags": [
+    "ccd",
+    "women",
+    "pregnancy",
+    "carpreg-ii",
+    "risk-prediction",
+    "cardiac-events",
+    "maternal-outcomes"
+  ],
+  "columns": [
+    {
+      "id": "parameter",
+      "title": {
+        "en": "CARPREG II Predictors / Score",
+        "ru": "Предикторы CARPREG II / Баллы"
+      }
+    },
+    {
+      "id": "value",
+      "title": {
+        "en": "Points / Predicted Risk (%)",
+        "ru": "Баллы / Прогнозируемый риск (%)"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-predictors",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "tone": "neutral",
+          "text": {
+            "en": "**CARPREG II Predictors**",
+            "ru": "**Предикторы модели CARPREG II**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01-previous-event",
+      "cells": [
+        {
+          "text": {
+            "en": "Previous cardiac event or arrhythmia",
+            "ru": "Предшествующее кардиальное событие или аритмия"
+          }
+        },
+        {
+          "text": {
+            "en": "3",
+            "ru": "3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-nyha-class",
+      "cells": [
+        {
+          "text": {
+            "en": "Baseline NYHA functional class III to IV or cyanosis",
+            "ru": "Исходный функциональный класс III–IV по NYHA или цианоз"
+          }
+        },
+        {
+          "text": {
+            "en": "3",
+            "ru": "3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-mechanical-valve",
+      "cells": [
+        {
+          "text": {
+            "en": "Mechanical valve",
+            "ru": "Механический протез клапана сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "3",
+            "ru": "3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-ventricular-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "Ventricular dysfunction",
+            "ru": "Дисфункция желудочков сердца"
+          }
+        },
+        {
+          "text": {
+            "en": "2",
+            "ru": "2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-left-valve-lvot",
+      "cells": [
+        {
+          "text": {
+            "en": "High-risk left-sided valve disease and LVOT obstruction",
+            "ru": "Поражение клапанов левых отделов сердца высокого риска и обструкция ВТЛЖ (LVOT)"
+          }
+        },
+        {
+          "text": {
+            "en": "2",
+            "ru": "2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-pulmonary-hypertension",
+      "cells": [
+        {
+          "text": {
+            "en": "Pulmonary hypertension",
+            "ru": "Легочная гипертензия"
+          }
+        },
+        {
+          "text": {
+            "en": "2",
+            "ru": "2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-cad",
+      "cells": [
+        {
+          "text": {
+            "en": "CAD",
+            "ru": "Ишемическая болезнь сердца (ИБС / CAD)"
+          }
+        },
+        {
+          "text": {
+            "en": "2",
+            "ru": "2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-high-risk-aortopathy",
+      "cells": [
+        {
+          "text": {
+            "en": "High-risk aortopathy",
+            "ru": "Аортопатия высокого риска"
+          }
+        },
+        {
+          "text": {
+            "en": "2",
+            "ru": "2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-no-previous-intervention",
+      "cells": [
+        {
+          "text": {
+            "en": "No previous cardiac intervention",
+            "ru": "Отсутствие кардиохирургических вмешательств в анамнезе"
+          }
+        },
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-late-pregnancy-assessment",
+      "cells": [
+        {
+          "text": {
+            "en": "Late pregnancy assessment",
+            "ru": "Позднее первичное обследование во время беременности"
+          }
+        },
+        {
+          "text": {
+            "en": "1",
+            "ru": "1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-risk-score",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "tone": "neutral",
+          "text": {
+            "en": "**CARPREG II Score and Predicted Risk of Primary Cardiac Events^[a]**",
+            "ru": "**Суммарный балл CARPREG II и прогнозируемый риск первичных кардиальных событий^[a]**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-score-0-to-1",
+      "cells": [
+        {
+          "text": {
+            "en": "0 to 1 point",
+            "ru": "0–1 балл"
+          }
+        },
+        {
+          "tone": "green",
+          "text": {
+            "en": "5%",
+            "ru": "5%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-score-2",
+      "cells": [
+        {
+          "text": {
+            "en": "2 points",
+            "ru": "2 балла"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "10%",
+            "ru": "10%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13-score-3",
+      "cells": [
+        {
+          "text": {
+            "en": "3 points",
+            "ru": "3 балла"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "15%",
+            "ru": "15%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14-score-4",
+      "cells": [
+        {
+          "text": {
+            "en": "4 points",
+            "ru": "4 балла"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "22%",
+            "ru": "22%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r15-score-gt-4",
+      "cells": [
+        {
+          "text": {
+            "en": ">4 points",
+            "ru": ">4 баллов"
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "41%",
+            "ru": "41%"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Primary cardiac events were defined as any of these: maternal cardiac death; cardiac arrest; sustained arrhythmia requiring treatment; left-sided HF defined as pulmonary edema; right-sided HF; stroke or TIA; cardiac thromboembolism; MI; and vascular dissection. The CARPREG (Cardiac Disease in Pregnancy Study) II risk score is based on 10 predictors. Each predictor is assigned a weighted point score. The sum of points represents the risk score categorized into 5 groups (https://doi.org/10.1016/j.jacc.2018.02.076). Modified with permission from Silversides CK, et al. Copyright 2018 American College of Cardiology Foundation.",
+      "ru": "Первичные кардиальные события определялись как любое из следующих: материнская сердечная смерть; остановка сердца; устойчивая аритмия, требующая лечения; левожелудочковая СН (отек легких); правожелудочковая СН; инсульт или ТИА; кардиальная тромбоэмболия; инфаркт миокарда; диссекция сосудов. Шкала риска CARPREG (Cardiac Disease in Pregnancy Study) II основана на 10 предикторах; сумма баллов подразделяется на 5 групп риска (https://doi.org/10.1016/j.jacc.2018.02.076). Модифицировано с разрешения Silversides CK, et al. Авторское право 2018 American College of Cardiology Foundation."
+    }
+  },
+  "source": {
+    "expectedRows": 17
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

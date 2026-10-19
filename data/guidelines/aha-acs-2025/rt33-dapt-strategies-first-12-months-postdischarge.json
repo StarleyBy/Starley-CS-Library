@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt33-dapt-strategies-first-12-months-postdischarge",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 33",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for DAPT Strategies in the First 12 Months Postdischarge",
+    "ru": "Рекомендации по стратегиям ДАТТ в первые 12 месяцев после выписки из стационара"
+  },
+  "tags": [
+    "acs",
+    "dapt",
+    "discharge",
+    "antiplatelet",
+    "bleeding-risk",
+    "ticagrelor-monotherapy",
+    "ppi",
+    "de-escalation",
+    "sapt"
+  ],
+  "sections": [
+    {
+      "id": "sec-default-duration-dapt",
+      "title": {
+        "en": "Default Duration of DAPT",
+        "ru": "Стандартная продолжительность ДАТТ"
+      },
+      "rows": [
+        {
+          "id": "r01-default-dapt-1-year",
+          "text": {
+            "en": "In patients with ACS who are not at high bleeding risk, DAPT with aspirin and an oral P2Y12 inhibitor should be administered for at least 1 year to reduce MACE.",
+            "ru": "У пациентов с ОКС без высокого риска кровотечений двойная антитромбоцитарная терапия (ДАТТ/DAPT) аспирином и пероральным ингибитором P2Y12 должна проводиться в течение как минимум 1 года для снижения риска MACE."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6]
+        }
+      ]
+    },
+    {
+      "id": "sec-bleeding-reduction-strategies",
+      "title": {
+        "en": "Bleeding Reduction Strategies",
+        "ru": "Стратегии снижения риска кровотечений"
+      },
+      "rows": [
+        {
+          "id": "r02-ticagrelor-monotherapy-after-1mo",
+          "text": {
+            "en": "In patients with ACS who have tolerated DAPT with ticagrelor, transition to ticagrelor monotherapy ≥1 month post PCI is useful to reduce bleeding risk.",
+            "ru": "У пациентов с ОКС, удовлетворительно переносящих ДАТТ с тикагрелором, переход на монотерапию тикагрелором через ≥1 месяц после ЧКВ полезен для снижения риска кровотечений."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [7, 8, 9, 10, 11]
+        },
+        {
+          "id": "r03-gi-bleeding-risk-ppi",
+          "text": {
+            "en": "In patients at high risk of gastrointestinal bleeding, a proton pump inhibitor (PPI) is recommended in combination with DAPT, oral anticoagulants, or both to reduce risk of bleeding.",
+            "ru": "У пациентов с высоким риском желудочно-кишечных кровотечений рекомендуется применение ингибитора протонной помпы (ИПП/PPI) в комбинации с ДАТТ, пероральными антикоагулянтами или их сочетанием для снижения риска кровотечений."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [12, 13, 14, 15]
+        },
+        {
+          "id": "r04-dapt-de-escalation-to-clopidogrel-after-1mo",
+          "text": {
+            "en": "In patients with ACS undergoing PCI, de-escalation of DAPT (switching from ticagrelor or prasugrel to clopidogrel) after 1 month may be reasonable to reduce bleeding risk.",
+            "ru": "У пациентов с ОКС, перенесших ЧКВ, деэскалация ДАТТ (переход с тикагрелора или прасугрела на клопидогрел) через 1 месяц может быть целесообразной для снижения риска кровотечений."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [16, 17, 18, 19, 20]
+        },
+        {
+          "id": "r05-high-bleeding-risk-sapt-after-1mo",
+          "text": {
+            "en": "In patients with ACS undergoing PCI who are at high bleeding risk, transition to single antiplatelet therapy (aspirin or P2Y12 inhibitor) after 1 month may be reasonable to reduce bleeding risk.",
+            "ru": "У пациентов с ОКС, перенесших ЧКВ, с высоким риском кровотечений переход на одинарную антитромбоцитарную терапию (аспирин или ингибитор P2Y12) через 1 месяц может быть целесообразным для снижения риска кровотечений."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [21]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.fig07-recommended-nutrition",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Figure 7",
+  "type": "grid",
+  "title": {
+    "en": "Recommended Nutrition",
+    "ru": "Рекомендации по рациональному питанию (Figure 7)"
+  },
+  "tags": [
+    "ccd",
+    "nutrition",
+    "diet",
+    "lifestyle",
+    "trans-fat",
+    "saturated-fat",
+    "sodium",
+    "figure",
+    "algorithm"
+  ],
+  "columns": [
+    {
+      "id": "component",
+      "title": {
+        "en": "Dietary Component",
+        "ru": "Компонент рациона"
+      }
+    },
+    {
+      "id": "guidance",
+      "title": {
+        "en": "Guidance & Examples",
+        "ru": "Рекомендации, целевые уровни и примеры"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-choose-these",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**CHOOSE THESE (Encouraged / ↑)**",
+            "ru": "**РЕКОМЕНДУЕТСЯ ОТДАВАТЬ ПРЕДПОЧТЕНИЕ (↑)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vegetables-fruit",
+      "cells": [
+        {
+          "text": {
+            "en": "Vegetables, fruit",
+            "ru": "Овощи, фрукты"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Emphasize daily varied fresh or frozen vegetables and whole fruits",
+            "ru": "Ежедневное разнообразное потребление свежих или замороженных овощей и цельных фруктов"
+          }
+        }
+      ]
+    },
+    {
+      "id": "legumes-nuts",
+      "cells": [
+        {
+          "text": {
+            "en": "Legumes, nuts",
+            "ru": "Бобовые, орехи"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Rich sources of plant protein, healthy fats, and dietary fiber",
+            "ru": "Богатые источники растительного белка, полезных жиров и клетчатки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "whole-grains",
+      "cells": [
+        {
+          "text": {
+            "en": "Whole grains",
+            "ru": "Цельнозерновые продукты"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Oats, brown rice, whole wheat, barley, quinoa",
+            "ru": "Овсянка, бурый рис, цельная пшеница, ячмень, киноа"
+          }
+        }
+      ]
+    },
+    {
+      "id": "lean-protein",
+      "cells": [
+        {
+          "text": {
+            "en": "Lean protein",
+            "ru": "Нежирный белок"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Poultry without skin, fish, legumes, egg whites",
+            "ru": "Птица без кожи, рыба, бобовые, яичный белок"
+          }
+        }
+      ]
+    },
+    {
+      "id": "complex-carbohydrates",
+      "cells": [
+        {
+          "text": {
+            "en": "Complex carbohydrates",
+            "ru": "Сложные углеводы"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Unprocessed grains and starchy vegetables with slow glycemic response",
+            "ru": "Непереработанные злаки и овощи с медленным гликемическим ответом"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dietary-fiber",
+      "cells": [
+        {
+          "text": {
+            "en": "Dietary fiber",
+            "ru": "Пищевые волокна (клетчатка)"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "Soluble and insoluble fiber from plant sources to support metabolic health",
+            "ru": "Растворимая и нерастворимая клетчатка растительного происхождения"
+          }
+        }
+      ]
+    },
+    {
+      "id": "monounsaturated-fat",
+      "cells": [
+        {
+          "text": {
+            "en": "Monounsaturated fat",
+            "ru": "Мононенасыщенные жиры"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "≤20% of daily calories (eg, olive oil, avocados)",
+            "ru": "≤20% от суточной калорийности (например, оливковое масло, авокадо)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "polyunsaturated-fat",
+      "cells": [
+        {
+          "text": {
+            "en": "Polyunsaturated fat",
+            "ru": "Полиненасыщенные жиры"
+          },
+          "tone": "green"
+        },
+        {
+          "text": {
+            "en": "≤10% of daily calories (eg, salmon, fatty fish, flaxseeds, walnuts)",
+            "ru": "≤10% от суточной калорийности (например, лосось, жирная рыба, льняное семя, грецкие орехи)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-instead-of-these",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**INSTEAD OF THESE (Limit / Replace / ↓)**",
+            "ru": "**ЗАМЕНЯТЬ И ОГРАНИЧИВАТЬ (↓)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "saturated-fat",
+      "cells": [
+        {
+          "text": {
+            "en": "Saturated fat",
+            "ru": "Насыщенные жиры"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "≤6% of daily calories (replace with unsaturated fats and complex carbs)",
+            "ru": "≤6% от суточной калорийности (заменять ненасыщенными жирами и сложными углеводами)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dietary-sodium",
+      "cells": [
+        {
+          "text": {
+            "en": "Dietary sodium",
+            "ru": "Пищевой натрий"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "1500 to <2300 mg/day (minimization beneficial for BP and CVD risk)",
+            "ru": "1500–<2300 мг/сут (снижение благоприятно влияет на АД и риск ССЗ)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "processed-meat",
+      "cells": [
+        {
+          "text": {
+            "en": "Processed meat",
+            "ru": "Переработанное мясо"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "Minimize intake (eg, cured hot dogs, bacon, sausages, deli meats)",
+            "ru": "Минимизировать (например, сосиски, хот-доги, бекон, колбасы, мясные деликатесы)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "refined-carbohydrates",
+      "cells": [
+        {
+          "text": {
+            "en": "Refined carbohydrates",
+            "ru": "Рафинированные углеводы"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "Limit intake (eg, white rice, white bread, low-fiber cold breakfast cereals)",
+            "ru": "Ограничить потребление (например, белый рис, белый хлеб, сухие хлопья с низким содержанием клетчатки)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sugar-sweetened-beverages",
+      "cells": [
+        {
+          "text": {
+            "en": "Sugar-sweetened beverages",
+            "ru": "Сахаросодержащие напитки"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "Avoid or minimize (eg, sugar-added soft drinks, energy drinks, fruit drinks)",
+            "ru": "Избегать или минимизировать (сладкие газированные напитки, энергетики, фруктовые напитки с добавлением сахара)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "alcoholic-beverages",
+      "cells": [
+        {
+          "text": {
+            "en": "Alcoholic beverages",
+            "ru": "Алкогольные напитки"
+          },
+          "tone": "yellow"
+        },
+        {
+          "text": {
+            "en": "Minimize or eliminate alcohol consumption",
+            "ru": "Минимизировать или полностью исключить употребление алкоголя"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-avoid-trans-fat",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 2,
+          "text": {
+            "en": "**AVOID TRANS FAT (Strictly Avoid / 🚫)**",
+            "ru": "**ПОЛНОСТЬЮ ИЗБЕГАТЬ ТРАНСЖИРОВ (🚫)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "baked-goods",
+      "cells": [
+        {
+          "text": {
+            "en": "Baked goods",
+            "ru": "Промышленная выпечка"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "Commercial pastries, pies, cookies, cakes, crackers",
+            "ru": "Коммерческая выпечка, пирожные, печенье, торты, крекеры"
+          }
+        }
+      ]
+    },
+    {
+      "id": "fried-foods-hydrogenated-oil",
+      "cells": [
+        {
+          "text": {
+            "en": "Fried foods",
+            "ru": "Жареные блюда на трансжирах"
+          },
+          "tone": "red"
+        },
+        {
+          "text": {
+            "en": "Foods prepared with partially hydrogenated oil or vegetable shortening",
+            "ru": "Блюда, приготовленные на частично гидрогенизированных растительных маслах или шортенинге"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 19,
+    "note": "Transcribed from Figure 7: Recommended Nutrition"
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

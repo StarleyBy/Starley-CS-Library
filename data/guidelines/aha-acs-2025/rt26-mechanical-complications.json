@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt26-mechanical-complications",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 26",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Mechanical Complications",
+    "ru": "Рекомендации по ведению механических осложнений"
+  },
+  "tags": [
+    "acs",
+    "mechanical-complications",
+    "cardiac-surgery",
+    "mcs",
+    "bridge-to-surgery",
+    "hemodynamic-stabilization"
+  ],
+  "sections": [
+    {
+      "id": "sec-mechanical-complications",
+      "title": {
+        "en": "Mechanical Complications of ACS",
+        "ru": "Механические осложнения ОКС"
+      },
+      "rows": [
+        {
+          "id": "r01-cardiac-surgical-expertise-facility",
+          "text": {
+            "en": "Patients with a mechanical complication of ACS should be managed in a facility with cardiac surgical expertise.",
+            "ru": "Пациенты с механическими осложнениями ОКС должны получать лечение в медицинском учреждении, обладающем опытом в области кардиохирургии."
+          },
+          "class": "I",
+          "level": "C-EO",
+          "refs": []
+        },
+        {
+          "id": "r02-short-term-mcs-bridge-to-surgery",
+          "text": {
+            "en": "In patients with a mechanical complication of ACS, short-term MCS devices are reasonable for hemodynamic stabilization as a bridge to surgery.",
+            "ru": "У пациентов с механическими осложнениями ОКС применение устройств кратковременной МПК (MCS) оправдано для гемодинамической стабилизации в качестве «моста» к хирургическому вмешательству."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

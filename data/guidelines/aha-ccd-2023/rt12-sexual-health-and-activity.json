@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt12-sexual-health-and-activity",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 12",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Sexual Health and Activity",
+    "ru": "Рекомендации по сексуальному здоровью и половой активности"
+  },
+  "tags": [
+    "ccd",
+    "sexual-health",
+    "sexual-activity",
+    "cardiac-rehabilitation",
+    "pde5-inhibitors",
+    "nitrates",
+    "hypotension"
+  ],
+  "sections": [
+    {
+      "id": "sec-sexual-health-activity",
+      "title": {
+        "en": "Sexual Health and Activity",
+        "ru": "Сексуальное здоровье и активность"
+      },
+      "rows": [
+        {
+          "id": "r01-individualized-resumption-sexual-activity",
+          "text": {
+            "en": "In patients with CCD, it is reasonable to individualize resumption of sexual activity based on type of sexual activity, exercise capacity, and postprocedural healing.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) целесообразно индивидуализировать возобновление половой активности с учетом ее характера, толерантности к физической нагрузке и заживления после выполненных вмешательств.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2]
+        },
+        {
+          "id": "r02-cardiac-rehab-exercise-for-sexual-activity",
+          "text": {
+            "en": "In patients with CCD, cardiac rehabilitation and regular exercise can be useful to reduce the risk of cardiovascular complications with sexual activity.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) кардиореабилитация и регулярные физические тренировки могут быть полезны для снижения риска сердечно-сосудистых осложнений при половой активности.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [3]
+        },
+        {
+          "id": "r03-pde5-inhibitors-contraindicated-with-nitrates",
+          "text": {
+            "en": "In patients with CCD, phosphodiesterase type 5 inhibitors should not be used concomitantly with nitrate medications because of risk for severe hypotension.^[a]",
+            "ru": "У пациентов с ХИБС (CCD) ингибиторы фосфодиэстеразы 5-го типа (ФДЭ-5/PDE5) не должны применяться одновременно с нитратами из-за риска развития тяжелой гипотензии.^[a]"
+          },
+          "class": "III-harm",
+          "level": "B-NR",
+          "refs": [4]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Modified from the 2012 AHA Scientific Statement on Sexual Activity and Cardiovascular Disease.5",
+      "ru": "*Модифицировано из Научного заявления AHA 2012 по сексуальной активности и сердечно-сосудистым заболеваниям.5"
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt19-environmental-exposures",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 19",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Environmental Exposures",
+    "ru": "Рекомендации по воздействию факторов окружающей среды"
+  },
+  "tags": [
+    "ccd",
+    "environmental-exposures",
+    "air-pollution",
+    "climate-change",
+    "wildfire-smoke",
+    "extreme-temperatures",
+    "prevention"
+  ],
+  "sections": [
+    {
+      "id": "sec-environmental-exposures",
+      "title": {
+        "en": "Environmental Exposures",
+        "ru": "Факторы окружающей среды"
+      },
+      "rows": [
+        {
+          "id": "r01-ambient-air-pollution",
+          "text": {
+            "en": "In patients with CCD, minimization of exposure to ambient air pollution is reasonable to reduce the risk of cardiovascular events.",
+            "ru": "У пациентов с ХИБС (CCD) целесообразна минимизация воздействия загрязненного атмосферного воздуха для снижения риска сердечно-сосудистых событий."
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-climate-related-exposures",
+          "text": {
+            "en": "In patients with CCD, minimization of climate-related exposures (eg, extreme temperatures, wildfire smoke) may be reasonable to reduce the risk of cardiovascular events.",
+            "ru": "У пациентов с ХИБС (CCD) может быть целесообразным уменьшение воздействия неблагоприятных климатических факторов (например, экстремальных температур, дыма лесных пожаров) для снижения риска сердечно-сосудистых событий."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [8, 9, 10]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

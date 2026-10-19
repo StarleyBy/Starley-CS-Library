@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt14-ppci-in-stemi",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 14",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for PPCI in STEMI",
+    "ru": "Рекомендации по первичному ЧКВ при ИМпST (STEMI)"
+  },
+  "tags": [
+    "acs",
+    "stemi",
+    "ppci",
+    "fmc",
+    "cardiogenic-shock",
+    "delayed-presentation",
+    "occluded-artery",
+    "timing",
+    "reperfusion"
+  ],
+  "sections": [
+    {
+      "id": "sec-ppci-stemi",
+      "title": {
+        "en": "Primary PCI in Patients With STEMI",
+        "ru": "Первичное ЧКВ у пациентов с ИМпST (STEMI)"
+      },
+      "rows": [
+        {
+          "id": "r01-stemi-under-12h-ppci-timing",
+          "text": {
+            "en": "In patients with STEMI presenting <12 hours after symptom onset, PPCI should be performed with a goal of FMC to device activation of ≤90 minutes, or ≤120 minutes in patients requiring hospital transfer, to improve survival.",
+            "ru": "У пациентов с ИМпST (STEMI) при поступлении <12 часов от начала симптомов следует выполнять первичное ЧКВ (ПЧКВ/PPCI) с целевым временем от FMC до активации устройства (проводника) ≤90 минут (или ≤120 минут при необходимости межбольничного перевода) для повышения выживаемости."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4, 5, 6, 7]
+        },
+        {
+          "id": "r02-acs-cardiogenic-shock-emergency-revasc",
+          "text": {
+            "en": "In patients with ACS and cardiogenic shock or hemodynamic instability, emergency revascularization of the culprit vessel by PCI or CABG is indicated to improve survival, irrespective of time from symptom onset.^[b]",
+            "ru": "У пациентов с ОКС и кардиогенным шоком или гемодинамической нестабильностью показана экстренная реваскуляризация инфаркт-связанной артерии путем ЧКВ или КШ (CABG) для повышения выживаемости независимо от времени, прошедшего от начала симптомов.^[b]"
+          },
+          "class": "I",
+          "level": "B-R",
+          "refs": [8, 9, 10, 11]
+        },
+        {
+          "id": "r03-stemi-12-to-24h-ppci",
+          "text": {
+            "en": "In patients with STEMI presenting 12 to 24 hours after symptom onset, PPCI is reasonable to improve clinical outcomes.^[a]",
+            "ru": "У пациентов с ИМпST (STEMI) при поступлении через 12–24 часа от начала симптомов выполнение первичного ЧКВ (ПЧКВ/PPCI) оправдано для улучшения клинических исходов.^[a]"
+          },
+          "class": "IIa",
+          "level": "B-NR",
+          "refs": [12, 13, 14, 15]
+        },
+        {
+          "id": "r04-stemi-over-24h-ongoing-ischemia-arrhythmia-ppci",
+          "text": {
+            "en": "In patients with STEMI presenting >24 hours after symptom onset with the presence of ongoing ischemia or life-threatening arrhythmia, PPCI is reasonable to improve clinical outcomes.^[b]",
+            "ru": "У пациентов с ИМпST (STEMI) при поступлении >24 часов от начала симптомов при наличии продолжающейся ишемии или жизнеугрожающих аритмий выполнение первичного ЧКВ (ПЧКВ/PPCI) оправдано для улучшения клинических исходов.^[b]"
+          },
+          "class": "IIa",
+          "level": "C-LD",
+          "refs": [12, 14]
+        },
+        {
+          "id": "r05-stemi-stable-occluded-artery-over-24h-no-routine-ppci",
+          "text": {
+            "en": "In patients who are stable with STEMI who have a totally occluded infarct-related artery >24 hours after symptom onset and are without evidence of ongoing ischemia, acute severe HF, or life-threatening arrhythmia, PPCI should not be performed due to lack of benefit.^[b]",
+            "ru": "У стабильных пациентов с ИМпST (STEMI) с тотально окклюзированной инфаркт-связанной артерией через >24 часа после начала симптомов при отсутствии признаков продолжающейся ишемии, острой тяжелой сердечной недостаточности или жизнеугрожающих аритмий первичное ЧКВ не должно выполняться ввиду отсутствия пользы.^[b]"
+          },
+          "class": "III-no-benefit",
+          "level": "B-R",
+          "refs": [16, 17]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Reproduced from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "*Воспроизведено из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    },
+    "b": {
+      "en": "†Modified from the “2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization”.",
+      "ru": "†Модифицировано из Руководства ACC/AHA/SCAI 2021 по реваскуляризации миокарда."
+    }
+  },
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

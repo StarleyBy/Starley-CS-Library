@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t15-relative-contraindications-routine-invasive-approach-acs",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 15",
+  "type": "grid",
+  "title": {
+    "en": "Relative Contraindications for a Routine Invasive Approach in ACS",
+    "ru": "Относительные противопоказания к рутинной инвазивной стратегии при ОКС"
+  },
+  "tags": [
+    "acs",
+    "invasive-strategy",
+    "contraindications",
+    "dapt",
+    "thrombocytopenia",
+    "kidney-disease",
+    "dementia"
+  ],
+  "columns": [
+    {
+      "id": "contraindication",
+      "title": {
+        "en": "Relative Contraindication",
+        "ru": "Относительное противопоказание"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-high-bleeding-risk-dapt",
+      "cells": [
+        {
+          "text": {
+            "en": "High risk for bleeding on DAPT",
+            "ru": "Высокий риск кровотечений на фоне ДАТТ (DAPT)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-severe-thrombocytopenia",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe thrombocytopenia (platelet count <50 × 10⁹/L)",
+            "ru": "Тяжелая тромбоцитопения (количество тромбоцитов <50 × 10⁹/л)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-advanced-kidney-disease",
+      "cells": [
+        {
+          "text": {
+            "en": "Advanced kidney disease (not on dialysis)",
+            "ru": "Тяжелая хроническая болезнь почек (без диализа)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-acute-renal-failure",
+      "cells": [
+        {
+          "text": {
+            "en": "Acute renal failure",
+            "ru": "Острая почечная недостаточность"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-limited-life-expectancy",
+      "cells": [
+        {
+          "text": {
+            "en": "Limited (<1-2 y) life expectancy",
+            "ru": "Ограниченная (<1–2 лет) ожидаемая продолжительность жизни"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-advanced-dementia",
+      "cells": [
+        {
+          "text": {
+            "en": "Advanced dementia",
+            "ru": "Тяжелая деменция"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-precluding-coronary-anatomy",
+      "cells": [
+        {
+          "text": {
+            "en": "Known coronary anatomy that precludes PCI and/or CABG surgery",
+            "ru": "Известная анатомия коронарного русла, исключающая возможность ЧКВ (PCI) и/или операции КШ (CABG)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-patient-preference",
+      "cells": [
+        {
+          "text": {
+            "en": "Patient preference",
+            "ru": "Предпочтение пациента (отказ от инвазивного вмешательства)"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

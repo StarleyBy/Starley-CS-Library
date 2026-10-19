@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt09-mental-health-conditions",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 9",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Mental Health Conditions",
+    "ru": "Рекомендации при расстройствах психического здоровья"
+  },
+  "tags": [
+    "ccd",
+    "mental-health",
+    "depression",
+    "screening",
+    "psychological-distress",
+    "pharmacotherapy",
+    "psychotherapy"
+  ],
+  "sections": [
+    {
+      "id": "sec-mental-health-conditions",
+      "title": {
+        "en": "Mental Health Conditions",
+        "ru": "Расстройства психического здоровья"
+      },
+      "rows": [
+        {
+          "id": "r01-targeted-screening-discussions",
+          "text": {
+            "en": "In patients with CCD, targeted discussions and screening for mental health is reasonable for clinicians to assess and to refer for additional mental health evaluation and management.",
+            "ru": "У пациентов с ХИБС (CCD) целесообразно проведение целенаправленных бесед и скрининга психического здоровья клиницистами для оценки состояния и направления на дополнительное специализированное обследование и лечение."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-treatment-pharmacologic-nonpharmacologic",
+          "text": {
+            "en": "In patients with CCD, treatment for mental health conditions with either pharmacologic or nonpharmacologic therapies, or both, is reasonable to improve cardiovascular outcomes.",
+            "ru": "У пациентов с ХИБС (CCD) лечение расстройств психического здоровья с использованием медикаментозной, немедикаментозной терапии или их комбинации целесообразно для улучшения сердечно-сосудистых исходов."
+          },
+          "class": "IIa",
+          "level": "B-R",
+          "refs": [2, 4, 5, 6]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

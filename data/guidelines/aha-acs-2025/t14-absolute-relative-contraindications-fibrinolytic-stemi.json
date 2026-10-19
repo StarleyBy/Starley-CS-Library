@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t14-absolute-relative-contraindications-fibrinolytic-stemi",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 14",
+  "type": "grid",
+  "title": {
+    "en": "Absolute and Relative Contraindications for Fibrinolytic Therapy in STEMI^[a]",
+    "ru": "Абсолютные и относительные противопоказания к фибринолитической терапии при ИМпST (STEMI)^[a]"
+  },
+  "tags": [
+    "acs",
+    "stemi",
+    "fibrinolysis",
+    "contraindications",
+    "bleeding-risk",
+    "ich",
+    "stroke"
+  ],
+  "columns": [
+    {
+      "id": "contraindication",
+      "title": {
+        "en": "Contraindication",
+        "ru": "Противопоказание"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-absolute",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Absolute Contraindications**",
+            "ru": "**Абсолютные противопоказания**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01-prior-ich",
+      "cells": [
+        {
+          "text": {
+            "en": "Any prior ICH",
+            "ru": "Любое предшествующее внутричерепное кровоизлияние (ВЧК/ICH)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-cerebral-vascular-lesion",
+      "cells": [
+        {
+          "text": {
+            "en": "Known structural cerebral vascular lesion (eg, arteriovenous malformation)",
+            "ru": "Известная структурная цереброваскулярная патология (например, артериовенозная мальформация)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-malignant-intracranial-neoplasm",
+      "cells": [
+        {
+          "text": {
+            "en": "Known malignant intracranial neoplasm (primary or metastatic)",
+            "ru": "Известное злокачественное интракраниальное новообразование (первичное или метастатическое)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-ischemic-stroke-within-3mo",
+      "cells": [
+        {
+          "text": {
+            "en": "Ischemic stroke within 3 mo except acute ischemic stroke^[b]",
+            "ru": "Ишемический инсульт в течение предшествующих 3 месяцев, за исключением острого ишемического инсульта^[b]"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-suspected-aortic-dissection",
+      "cells": [
+        {
+          "text": {
+            "en": "Suspected aortic dissection",
+            "ru": "Подозрение на расслоение аорты"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-active-bleeding",
+      "cells": [
+        {
+          "text": {
+            "en": "Active bleeding or bleeding diathesis (excluding menses)",
+            "ru": "Активное кровотечение или геморрагический диатез (исключая менструации)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-head-facial-trauma",
+      "cells": [
+        {
+          "text": {
+            "en": "Significant closed-head or facial trauma within 3 mo",
+            "ru": "Значимая закрытая черепно-мозговая или лицевая травма в течение предшествующих 3 месяцев"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-intracranial-intraspinal-surgery",
+      "cells": [
+        {
+          "text": {
+            "en": "Intracranial or intraspinal surgery within 2 mo",
+            "ru": "Интракраниальное или интраспинальное хирургическое вмешательство в течение предшествующих 2 месяцев"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-severe-uncontrolled-hypertension",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe uncontrolled hypertension (unresponsive to therapy) (SBP >180 mm Hg or DBP >110 mm Hg)",
+            "ru": "Тяжелая неконтролируемая артериальная гипертензия (рефрактерная к терапии) (САД >180 мм рт. ст. или ДАД >110 мм рт. ст.)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-relative",
+      "kind": "section",
+      "cells": [
+        {
+          "text": {
+            "en": "**Relative Contraindications**",
+            "ru": "**Относительные противопоказания**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-chronic-severe-hypertension",
+      "cells": [
+        {
+          "text": {
+            "en": "History of chronic, severe, poorly controlled hypertension",
+            "ru": "Анамнез хронической, тяжелой, плохо контролируемой артериальной гипертензии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-significant-hypertension-presentation",
+      "cells": [
+        {
+          "text": {
+            "en": "Significant hypertension on presentation (SBP >180 mm Hg or DBP >110 mm Hg)",
+            "ru": "Выраженная артериальная гипертензия при поступлении (САД >180 мм рт. ст. или ДАД >110 мм рт. ст.)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-prior-ischemic-stroke-over-3mo",
+      "cells": [
+        {
+          "text": {
+            "en": "History of prior ischemic stroke >3 mo",
+            "ru": "Анамнез предшествующего ишемического инсульта давностью >3 месяцев"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13-dementia",
+      "cells": [
+        {
+          "text": {
+            "en": "Dementia",
+            "ru": "Деменция"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14-intracranial-pathology-other",
+      "cells": [
+        {
+          "text": {
+            "en": "Known intracranial pathology not covered in absolute contraindications",
+            "ru": "Известная интракраниальная патология, не вошедшая в абсолютные противопоказания"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r15-prolonged-cpr",
+      "cells": [
+        {
+          "text": {
+            "en": "Traumatic or prolonged (>10 min) CPR",
+            "ru": "Травматичная или длительная (>10 мин) сердечно-легочная реанимация (СЛР/CPR)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r16-major-surgery",
+      "cells": [
+        {
+          "text": {
+            "en": "Major surgery (<3 wk)",
+            "ru": "Большое хирургическое вмешательство (<3 недель назад)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r17-recent-internal-bleeding",
+      "cells": [
+        {
+          "text": {
+            "en": "Recent (within 2 to 4 wk) internal bleeding",
+            "ru": "Недавнее (в течение 2–4 недель) внутреннее кровотечение"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r18-noncompressible-vascular-punctures",
+      "cells": [
+        {
+          "text": {
+            "en": "Noncompressible vascular punctures",
+            "ru": "Пункция сосудов в местах, недоступных для компрессии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r19-pregnancy",
+      "cells": [
+        {
+          "text": {
+            "en": "Pregnancy",
+            "ru": "Беременность"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r20-active-peptic-ulcer",
+      "cells": [
+        {
+          "text": {
+            "en": "Active peptic ulcer",
+            "ru": "Обострение язвенной болезни желудка или двенадцатиперстной кишки"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r21-oral-anticoagulant-therapy",
+      "cells": [
+        {
+          "text": {
+            "en": "Oral anticoagulant therapy",
+            "ru": "Терапия пероральными антикоагулянтами"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Viewed as advisory for clinical decision-making and may not be all-inclusive or definitive.",
+      "ru": "*Рассматривается как рекомендация для принятия клинических решений и может не являться исчерпывающим перечнем."
+    },
+    "b": {
+      "en": "†Acute ischemic stroke within 4.5 h of onset.",
+      "ru": "†Острый ишемический инсульт в пределах 4,5 часов от начала симптомов."
+    }
+  },
+  "source": {
+    "expectedRows": 23
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t04-types-ami-universal-definition",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 4",
+  "type": "grid",
+  "title": {
+    "en": "Types of Acute Myocardial Infarction According to the Universal Definition of Myocardial Infarction",
+    "ru": "Типы острого инфаркта миокарда согласно универсальному определению инфаркта миокарда"
+  },
+  "tags": [
+    "acs",
+    "ami",
+    "universal-definition",
+    "type-1-mi",
+    "type-2-mi",
+    "type-3-mi",
+    "type-4-mi",
+    "type-5-mi",
+    "atherothrombosis"
+  ],
+  "columns": [
+    {
+      "id": "type",
+      "title": {
+        "en": "Type",
+        "ru": "Тип"
+      }
+    },
+    {
+      "id": "definition",
+      "title": {
+        "en": "Definition / Pathophysiology",
+        "ru": "Определение / Патофизиология"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-type-1",
+      "cells": [
+        {
+          "text": {
+            "en": "Type 1^[a]",
+            "ru": "Тип 1^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Caused by acute coronary atherothrombosis, usually precipitated by atherosclerotic plaque disruption (rupture or erosion) and often associated with partial or complete vessel thrombosis.",
+            "ru": "Обусловлен острым коронарным атеротромбозом, обычно спровоцированным повреждением атеросклеротической бляшки (разрывом или эрозией) и часто ассоциированным с частичным или полным тромбозом сосуда."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-type-2",
+      "cells": [
+        {
+          "text": {
+            "en": "Type 2",
+            "ru": "Тип 2"
+          }
+        },
+        {
+          "text": {
+            "en": "Caused by an imbalance between myocardial oxygen supply and demand unrelated to acute coronary atherothrombosis.",
+            "ru": "Обусловлен дисбалансом между доставкой и потребностью миокарда в кислороде, не связанным с острым коронарным атеротромбозом."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-type-3",
+      "cells": [
+        {
+          "text": {
+            "en": "Type 3",
+            "ru": "Тип 3"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardiac death, with symptoms of myocardial ischemia and presumed ischemic electrocardiographic changes or ventricular arrhythmia, before blood samples for cardiac biomarkers can be obtained or increases in cardiac biomarkers can be identified and/or in whom MI is identified by autopsy.",
+            "ru": "Сердечная смерть с симптомами ишемии миокарда и предположительно ишемическими изменениями на ЭКГ или желудочковой аритмией, наступившая до того, как удалось взять образцы крови для определения биомаркеров, либо до выявления повышения их уровня, и/или у пациентов, у которых инфаркт миокарда был верифицирован на аутопсии."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-type-4",
+      "cells": [
+        {
+          "text": {
+            "en": "Type 4",
+            "ru": "Тип 4"
+          }
+        },
+        {
+          "text": {
+            "en": "**4a:** Peri-PCI MI caused by a procedural complication and detected ≤48 h after PCI.\n\n**4b:** Post-PCI MI caused by coronary stent or stent scaffold thrombosis.\n\n**4c:** Post-PCI MI caused by coronary stent restenosis.",
+            "ru": "**4a:** Перипроцедурный ИМ при ЧКВ, вызванный осложнением процедуры и выявленный в течение ≤48 ч после ЧКВ (PCI).\n\n**4b:** ИМ после ЧКВ, вызванный тромбозом коронарного стента или скаффолда.\n\n**4c:** ИМ после ЧКВ, вызванный рестенозом в стенте."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-type-5",
+      "cells": [
+        {
+          "text": {
+            "en": "Type 5",
+            "ru": "Тип 5"
+          }
+        },
+        {
+          "text": {
+            "en": "Peri-CABG MI caused by a procedural complication detected ≤48 h after CABG surgery.",
+            "ru": "Перипроцедурный ИМ при КШ, вызванный осложнением вмешательства и выявленный в течение ≤48 ч после операции коронарного шунтирования (CABG)."
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*This guideline focuses on the management of type 1 AMI. The diagnostic evaluation of chest pain and the management of type 2 MI, SCAD, and MINOCA are covered in separate documents.",
+      "ru": "*Данное руководство сфокусировано на ведении пациентов с ОИМ 1-го типа. Диагностическая оценка боли в грудной клетке и ведение инфаркта миокарда 2-го типа, спонтанной диссекции КА (SCAD) и MINOCA подробно освещены в отдельных документах."
+    }
+  },
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

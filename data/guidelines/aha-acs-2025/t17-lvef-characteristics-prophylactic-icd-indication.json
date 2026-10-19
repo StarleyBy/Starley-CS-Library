@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.t17-lvef-characteristics-prophylactic-icd-indication",
+  "guidelineId": "aha-acs-2025",
+  "number": "Table 17",
+  "type": "grid",
+  "title": {
+    "en": "LVEF and Patient Characteristics Defining an Indication for Prophylactic ICD Implantation for Primary Prevention in Ischemic Heart Disease",
+    "ru": "ФВЛЖ и клинические характеристики пациентов, определяющие показания к профилактической имплантации ИКД (ICD) для первичной профилактики при ишемической болезни сердца"
+  },
+  "tags": [
+    "acs",
+    "ischemic-heart-disease",
+    "lvef",
+    "icd",
+    "prophylactic-icd",
+    "primary-prevention",
+    "nyha",
+    "vt"
+  ],
+  "columns": [
+    {
+      "id": "lvef",
+      "title": {
+        "en": "LVEF",
+        "ru": "ФВЛЖ"
+      }
+    },
+    {
+      "id": "patient-category",
+      "title": {
+        "en": "Patient Category: All Patients Should Have Expected Survival of ≥1 y",
+        "ru": "Категория пациентов: у всех пациентов ожидаемая продолжительность жизни должна составлять ≥1 года"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-lvef-30-or-less",
+      "cells": [
+        {
+          "text": {
+            "en": "≤30%",
+            "ru": "≤30%"
+          }
+        },
+        {
+          "text": {
+            "en": "NYHA class I, II, or III",
+            "ru": "I, II или III функциональный класс по NYHA"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-lvef-31-to-35",
+      "cells": [
+        {
+          "text": {
+            "en": "31%-35%",
+            "ru": "31%–35%"
+          }
+        },
+        {
+          "text": {
+            "en": "NYHA class II or III",
+            "ru": "II или III функциональный класс по NYHA"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-lvef-40-or-less-inducible-vt",
+      "cells": [
+        {
+          "text": {
+            "en": "≤40%",
+            "ru": "≤40%"
+          }
+        },
+        {
+          "text": {
+            "en": "Inducible VT",
+            "ru": "Индуцируемая ЖТ (VT)"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

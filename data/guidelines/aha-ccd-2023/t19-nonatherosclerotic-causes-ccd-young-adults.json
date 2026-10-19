@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t19-nonatherosclerotic-causes-ccd-young-adults",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 19",
+  "type": "grid",
+  "title": {
+    "en": "Nonatherosclerotic Causes of CCD in Young Adults: Evaluation and Management",
+    "ru": "Неатеросклеротические причины ХКИ у взрослых пациентов молодого возраста: диагностика и тактика ведения"
+  },
+  "tags": [
+    "ccd",
+    "young-adults",
+    "nonatherosclerotic",
+    "kawasaki-disease",
+    "coronary-anomalies",
+    "myocardial-bridging",
+    "management"
+  ],
+  "columns": [
+    {
+      "id": "cause",
+      "title": {
+        "en": "Cause",
+        "ru": "Причина"
+      }
+    },
+    {
+      "id": "presentation",
+      "title": {
+        "en": "Presentation",
+        "ru": "Клинические проявления"
+      }
+    },
+    {
+      "id": "management",
+      "title": {
+        "en": "Management",
+        "ru": "Тактика ведения"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-kawasaki-disease",
+      "cells": [
+        {
+          "text": {
+            "en": "Kawasaki disease",
+            "ru": "Болезнь Кавасаки"
+          }
+        },
+        {
+          "text": {
+            "en": "Late sequelae: coronary artery aneurysm, stenosis, thrombosis, or fistula",
+            "ru": "Поздние последствия: аневризма коронарной артерии, стеноз, тромбоз или фистула"
+          }
+        },
+        {
+          "text": {
+            "en": "Lifelong follow-up with quantitative assessment of luminal dimensions.\n\nLow-dose aspirin therapy for small- or medium-sized coronary artery aneurysms.\n\nLow-dose aspirin plus anticoagulant therapy for large coronary artery aneurysms.",
+            "ru": "Пожизненное наблюдение с количественной оценкой просвета сосуда.\n\nТерапия низкими дозами аспирина при аневризмах коронарных артерий малого или среднего размера.\n\nНизкие дозы аспирина в комбинации с антикоагулянтной терапией при аневризмах коронарных артерий большого размера."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-coronary-artery-anomalies",
+      "cells": [
+        {
+          "text": {
+            "en": "Coronary artery anomalies",
+            "ru": "Аномалии коронарных артерий"
+          }
+        },
+        {
+          "text": {
+            "en": "Anomalous left coronary artery from the pulmonary artery\n\nAnomalous origin of the coronary artery from the opposite sinus of Valsalva with an interarterial course",
+            "ru": "Аномальное отхождение левой коронарной артерии от легочного ствола (ALCAPA / синдром Бланда — Уайта — Гарленда)\n\nАномальное отхождение коронарной артерии от противоположного синуса Вальсальвы с межартериальным ходом"
+          }
+        },
+        {
+          "text": {
+            "en": "Surgical repair – translocation of left coronary artery to aortic root for anomalous left coronary artery from the pulmonary artery.\n\nSurgical correction among young adults with interarterial course of coronary artery originating from opposite sinus of Valsalva and symptoms during exercise suggestive of myocardial ischemia.",
+            "ru": "Хирургическая коррекция — транслокация левой коронарной артерии в корень аорты при аномальном отхождении левой коронарной артерии от легочной артерии.\n\nХирургическая коррекция у молодых взрослых пациентов при межартериальном ходе коронарной артерии, отходящей от противоположного синуса Вальсальвы, и наличии симптомов ишемии миокарда при физической нагрузке."
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-myocardial-bridging",
+      "cells": [
+        {
+          "text": {
+            "en": "Myocardial bridging",
+            "ru": "Мышечные мостики миокарда"
+          }
+        },
+        {
+          "text": {
+            "en": "Exercise-induced ischemia\n\nCoronary artery vasospasm\n\nSudden cardiac death",
+            "ru": "Ишемия, индуцированная физической нагрузкой\n\nСпазм коронарной артерии\n\nВнезапная сердечная смерть"
+          }
+        },
+        {
+          "text": {
+            "en": "Beta-adrenergic blocking agents in symptomatic patients.\n\nRestriction to low-intensity sports.\n\nSurgical correction if symptoms refractory to medical therapy.",
+            "ru": "Бета-адреноблокаторы у пациентов с клиническими симптомами.\n\nОграничение занятий спортом (только виды спорта низкой интенсивности).\n\nХирургическая коррекция при рефрактерности симптомов к медикаментозной терапии."
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

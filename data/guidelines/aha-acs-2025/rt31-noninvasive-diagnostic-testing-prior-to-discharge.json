@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt31-noninvasive-diagnostic-testing-prior-to-discharge",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 31",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendation for Noninvasive Diagnostic Testing Prior to Hospital Discharge",
+    "ru": "Рекомендация по неинвазивному диагностическому тестированию перед выпиской из стационара"
+  },
+  "tags": [
+    "acs",
+    "discharge",
+    "lvef",
+    "echocardiography",
+    "risk-stratification",
+    "gdmt"
+  ],
+  "sections": [
+    {
+      "id": "sec-noninvasive-testing-discharge",
+      "title": {
+        "en": "Noninvasive Diagnostic Testing Prior to Hospital Discharge",
+        "ru": "Неинвазивное диагностическое тестирование перед выпиской из стационара"
+      },
+      "rows": [
+        {
+          "id": "r01-lvef-assessment-prior-to-discharge",
+          "text": {
+            "en": "In patients with ACS, an assessment of LVEF is recommended prior to hospital discharge to guide therapy and for risk stratification.",
+            "ru": "У пациентов с ОКС рекомендуется оценка ФВЛЖ (LVEF) перед выпиской из стационара для определения тактики медикаментозной терапии и стратификации риска."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

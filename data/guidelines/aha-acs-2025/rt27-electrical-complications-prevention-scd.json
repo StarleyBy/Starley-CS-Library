@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt27-electrical-complications-prevention-scd",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 27",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Electrical Complications and Prevention of Sudden Cardiac Death After ACS",
+    "ru": "Рекомендации по электрическим осложнениям и профилактике внезапной сердечной смерти после ОКС"
+  },
+  "tags": [
+    "acs",
+    "electrical-complications",
+    "arrhythmias",
+    "ventricular-arrhythmias",
+    "bradyarrhythmias",
+    "scd",
+    "icd",
+    "wearable-defibrillator",
+    "av-block",
+    "pacemaker"
+  ],
+  "sections": [
+    {
+      "id": "sec-ventricular-arrhythmias",
+      "title": {
+        "en": "Ventricular Arrhythmias",
+        "ru": "Желудочковые аритмии"
+      },
+      "rows": [
+        {
+          "id": "r01-post-mi-icd-implantation-lvef-under-40",
+          "text": {
+            "en": "In patients post MI, implantable cardioverter-defibrillator (ICD) implantation is recommended in selected patients with an LVEF ≤40% (Table 17) at least 40 days post MI and at least 90 days postrevascularization to reduce death.^[a]",
+            "ru": "У пациентов после ИМ (MI) имплантация кардиовертера-дефибриллятора (ИКД/ICD) рекомендуется отобранным пациентам с ФВЛЖ ≤40% (таблица 17) не ранее чем через 40 дней после ИМ и не ранее чем через 90 дней после реваскуляризации для снижения смертности.^[a]"
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [1, 2, 3, 4]
+        },
+        {
+          "id": "r02-ventricular-arrhythmias-48h-to-40d-icd",
+          "text": {
+            "en": "In patients post ACS, ICD implantation is reasonable in patients with clinically relevant ventricular arrhythmias >48 hours and within 40 days post MI to improve survival.^[a]",
+            "ru": "У пациентов после ОКС имплантация ИКД (ICD) оправдана при клинически значимых желудочковых аритмиях, возникших спустя >48 часов и в пределах 40 дней после ИМ, для улучшения выживаемости.^[a]"
+          },
+          "class": "IIa",
+          "level": "C-EO",
+          "refs": [5, 6]
+        },
+        {
+          "id": "r03-wearable-cardioverter-defibrillator-uncertain",
+          "text": {
+            "en": "In patients early after MI, usefulness of a temporary wearable cardioverter-defibrillator is uncertain in patients with an LVEF ≤35% to improve survival.",
+            "ru": "У пациентов в ранние сроки после ИМ (MI) польза временного носимого кардиовертера-дефибриллятора при ФВЛЖ ≤35% не определена в отношении улучшения выживаемости."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [7]
+        }
+      ]
+    },
+    {
+      "id": "sec-bradyarrhythmias",
+      "title": {
+        "en": "Bradyarrhythmias",
+        "ru": "Брадиаритмии"
+      },
+      "rows": [
+        {
+          "id": "r04-bradyarrhythmias-permanent-pacing",
+          "text": {
+            "en": "In patients presenting with an AMI with sustained evidence of second-degree Mobitz type II atrioventricular block, high-grade atrioventricular block, alternating bundle-branch block, or third-degree atrioventricular block (persistent or infranodal), permanent pacing is indicated.^[b]",
+            "ru": "У пациентов с острым ИМ (AMI) со стойкими признаками атриовентрикулярной блокады II степени типа Мобитц II, АВ-блокады высокой степени, альтернирующей блокады ножек пучка Гиса или АВ-блокады III степени (персистирующей или инфранодальной) показана постоянная электрокардиостимуляция.^[b]"
+          },
+          "class": "I",
+          "level": "B-NR",
+          "refs": [8, 9]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Adapted from the “2017 AHA/ACC/HRS Guideline for Management of Patients With Ventricular Arrhythmias and the Prevention of Sudden Cardiac Death”.",
+      "ru": "*Адаптировано из Руководства AHA/ACC/HRS 2017 по ведению пациентов с желудочковыми аритмиями и профилактике внезапной сердечной смерти."
+    },
+    "b": {
+      "en": "†Adapted from the “2018 ACC/AHA/HRS Guideline on the Evaluation and Management of Patients With Bradycardia and Cardiac Conduction Delay”.",
+      "ru": "†Адаптировано из Руководства ACC/AHA/HRS 2018 по оценке и ведению пациентов с брадикардией и нарушениями сердечной проводимости."
+    }
+  },
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

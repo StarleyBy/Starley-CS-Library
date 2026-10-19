@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt03-general-approach-treatment-decisions",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 3",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for General Approach to Treatment Decisions",
+    "ru": "Рекомендации по общему подходу к принятию решений о лечении"
+  },
+  "tags": [
+    "ccd",
+    "treatment-decisions",
+    "follow-up",
+    "proms",
+    "qol",
+    "functional-status",
+    "adherence"
+  ],
+  "sections": [
+    {
+      "id": "sec-general-approach-treatment-decisions",
+      "title": {
+        "en": "General Approach to Treatment Decisions",
+        "ru": "Общий подход к принятию решений о лечении"
+      },
+      "rows": [
+        {
+          "id": "r01-annual-clinical-follow-up",
+          "text": {
+            "en": "In patients with CCD, clinical follow-up at least annually is recommended to assess for symptoms, change in functional status, adherence to and adequacy of lifestyle and medical interventions, and monitoring for complications of CCD and its treatments.",
+            "ru": "У пациентов с ХИБС (CCD) рекомендуется проведение клинического наблюдения не реже одного раза в год для оценки симптомов, динамики функционального статуса, приверженности к модификации образа жизни и медикаментозной терапии и их адекватности, а также мониторинга осложнений ХИБС и проводимого лечения."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+        },
+        {
+          "id": "r02-patient-reported-health-status-qol",
+          "text": {
+            "en": "In patients with CCD, use of a validated CCD-specific patient-reported health status measure may be reasonable to assess symptoms, functional status, and QOL.",
+            "ru": "У пациентов с ХИБС (CCD) целесообразно рассмотреть использование валидированных опросников оценки состояния здоровья самими пациентами (PROMs), специфичных для ХИБС, для мониторинга симптомов, функционального статуса и качества жизни (QOL)."
+          },
+          "class": "IIb",
+          "level": "B-NR",
+          "refs": [19, 20, 21, 22, 23]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

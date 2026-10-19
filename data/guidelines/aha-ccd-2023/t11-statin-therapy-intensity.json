@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.t11-statin-therapy-intensity",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Table 11",
+  "type": "grid",
+  "title": {
+    "en": "High-, Moderate-, and Low-Intensity Statin Therapy",
+    "ru": "Высоко-, умеренно- и низкоинтенсивная терапия статинами"
+  },
+  "tags": [
+    "ccd",
+    "statins",
+    "statin-intensity",
+    "ldl-c",
+    "atorvastatin",
+    "rosuvastatin",
+    "simvastatin",
+    "pravastatin",
+    "lovastatin",
+    "fluvastatin",
+    "pitavastatin"
+  ],
+  "columns": [
+    {
+      "id": "parameter",
+      "title": {
+        "en": "Statin Therapy Parameter",
+        "ru": "Параметр терапии статинами"
+      }
+    },
+    {
+      "id": "high-intensity",
+      "title": {
+        "en": "High Intensity",
+        "ru": "Высокая интенсивность"
+      }
+    },
+    {
+      "id": "moderate-intensity",
+      "title": {
+        "en": "Moderate Intensity",
+        "ru": "Умеренная интенсивность"
+      }
+    },
+    {
+      "id": "low-intensity",
+      "title": {
+        "en": "Low Intensity",
+        "ru": "Низкая интенсивность"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "ldl-c-lowering",
+      "cells": [
+        {
+          "text": {
+            "en": "**LDL-C Lowering**^[b]",
+            "ru": "**Снижение уровня ХС ЛНП (LDL-C)**^[b]"
+          }
+        },
+        {
+          "tone": "green",
+          "text": {
+            "en": "≥50%",
+            "ru": "≥50%"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "30%–49%",
+            "ru": "30%–49%"
+          }
+        },
+        {
+          "tone": "blue",
+          "text": {
+            "en": "<30%",
+            "ru": "<30%"
+          }
+        }
+      ]
+    },
+    {
+      "id": "primary-statins",
+      "cells": [
+        {
+          "text": {
+            "en": "**Primary Statins**",
+            "ru": "**Основные статины**"
+          }
+        },
+        {
+          "text": {
+            "en": "• **Atorvastatin (40 mg^[c]), 80 mg**\n• **Rosuvastatin 20 mg (40 mg)**",
+            "ru": "• **Аторвастатин (40 мг^[c]), 80 мг**\n• **Розувастатин 20 мг (40 мг)**"
+          }
+        },
+        {
+          "text": {
+            "en": "• **Atorvastatin 10 mg (20 mg)**\n• **Rosuvastatin (5 mg) 10 mg**\n• **Simvastatin 20–40 mg^[d]**",
+            "ru": "• **Аторвастатин 10 мг (20 мг)**\n• **Розувастатин (5 мг) 10 мг**\n• **Симвастатин 20–40 мг^[d]**"
+          }
+        },
+        {
+          "text": {
+            "en": "• Simvastatin 10 mg",
+            "ru": "• Симвастатин 10 мг"
+          }
+        }
+      ]
+    },
+    {
+      "id": "other-statins",
+      "cells": [
+        {
+          "text": {
+            "en": "**Other Statins**",
+            "ru": "**Другие статины**"
+          }
+        },
+        {
+          "text": {
+            "en": "—",
+            "ru": "—"
+          }
+        },
+        {
+          "text": {
+            "en": "• **Pravastatin 40 mg (80 mg)**\n• **Lovastatin 40 mg (80 mg)**\n• Fluvastatin XL 80 mg\n• Fluvastatin 40 mg BID\n• Pitavastatin 1–4 mg",
+            "ru": "• **Правастатин 40 мг (80 мг)**\n• **Ловастатин 40 мг (80 мг)**\n• Флувастатин XL 80 мг\n• Флувастатин 40 мг 2 раза/сут\n• Питавастатин 1–4 мг"
+          }
+        },
+        {
+          "text": {
+            "en": "• **Pravastatin 10–20 mg**\n• **Lovastatin 20 mg**\n• Fluvastatin 20–40 mg",
+            "ru": "• **Правастатин 10–20 мг**\n• **Ловастатин 20 мг**\n• Флувастатин 20–40 мг"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "*Percent reductions are estimates from data across large populations. Individual responses to statin therapy varied in the RCTs and should be expected to vary in clinical practice.11 Boldface type indicates specific statins and doses that were evaluated in RCTs and the Cholesterol Treatment Trialists’ 2010 meta-analysis.22 These RCTs demonstrated a reduction in major cardiovascular events.",
+      "ru": "*Процент снижения рассчитан на основе популяционных данных. Индивидуальный ответ варьирует в клинической практике.11 Полужирным шрифтом выделены конкретные статины и дозировки, изученные в РКИ и метаанализе Cholesterol Treatment Trialists 2010.22"
+    },
+    "b": {
+      "en": "†LDL-C lowering that should occur with the dosage listed below each intensity.",
+      "ru": "†Ожидаемое снижение уровня ХС ЛНП при приеме указанных доз."
+    },
+    "c": {
+      "en": "‡Evidence from 1 RCT only: down titration if unable to tolerate atorvastatin 80 mg in the IDEAL (Incremental Decrease through Aggressive Lipid Lowering) study.61",
+      "ru": "‡Доказательства получены только в 1 РКИ: титрация дозы вниз при непереносимости аторвастатина 80 мг в исследовании IDEAL.61"
+    },
+    "d": {
+      "en": "§Although simvastatin 80 mg was evaluated in RCTs, initiation of simvastatin 80 mg or titration to 80 mg is not recommended by the FDA because of the increased risk of myopathy, including rhabdomyolysis.",
+      "ru": "§Хотя симвастатин в дозе 80 мг исследовался в РКИ, назначение или титрация до 80 мг не рекомендованы FDA из-за высокого риска миопатии, включая рабдомиолиз."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

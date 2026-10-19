@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-ccd-2023.rt06-shared-decision-making",
+  "guidelineId": "aha-ccd-2023",
+  "number": "Recommendation Table 6",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Shared Decision-Making",
+    "ru": "Рекомендации по совместному принятию решений"
+  },
+  "tags": [
+    "ccd",
+    "shared-decision-making",
+    "patient-autonomy",
+    "revascularization",
+    "decision-aid",
+    "angina",
+    "gdmt"
+  ],
+  "sections": [
+    {
+      "id": "sec-shared-decision-making",
+      "title": {
+        "en": "Shared Decision-Making",
+        "ru": "Совместное принятие решений"
+      },
+      "rows": [
+        {
+          "id": "r01-shared-decision-making-uncertainty-tradeoffs",
+          "text": {
+            "en": "Patients with CCD and their clinicians should engage in shared decision-making particularly when evidence is unclear on the optimal diagnostic or treatment strategy, or when a significant risk or benefit tradeoff exists.",
+            "ru": "Пациенты с ХИБС (CCD) и их лечащие врачи должны участвовать в совместном принятии решений, особенно когда доказательные данные о наилучшей диагностической или лечебной тактике неоднозначны, либо когда существует значимое соотношение между потенциальной пользой и рисками."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1, 2, 3]
+        },
+        {
+          "id": "r02-decision-aid-angina-revascularization",
+          "text": {
+            "en": "For patients with CCD and angina on GDMT who are engaged in shared decision-making regarding revascularization, a validated decision aid may be considered to improve patient understanding and knowledge about treatment options.",
+            "ru": "У пациентов с ХИБС (CCD) и стенокардией на фоне ОМТ (GDMT), участвующих в совместном принятии решений относительно реваскуляризации, может быть рассмотрено применение валидированных вспомогательных инструментов принятия решений (decision aids) для углубления понимания пациентом сути болезни и возможных вариантов лечения."
+          },
+          "class": "IIb",
+          "level": "B-R",
+          "refs": [4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

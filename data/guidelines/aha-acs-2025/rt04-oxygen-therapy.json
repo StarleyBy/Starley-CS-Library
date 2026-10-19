@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "aha-acs-2025.rt04-oxygen-therapy",
+  "guidelineId": "aha-acs-2025",
+  "number": "Recommendation Table 4",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Oxygen Therapy",
+    "ru": "Рекомендации по оксигенотерапии"
+  },
+  "tags": [
+    "acs",
+    "oxygen",
+    "hypoxia",
+    "saturation",
+    "angina"
+  ],
+  "sections": [
+    {
+      "id": "sec-oxygen-therapy",
+      "title": {
+        "en": "Oxygen Therapy",
+        "ru": "Оксигенотерапия"
+      },
+      "rows": [
+        {
+          "id": "r01-hypoxia-saturation-below-90-supplemental-oxygen",
+          "text": {
+            "en": "In patients with ACS and confirmed hypoxia (oxygen saturation <90%), supplemental oxygen to increase oxygen saturations to ≥90% is recommended to improve myocardial oxygen supply and decrease anginal symptoms.",
+            "ru": "У пациентов с ОКС и подтвержденной гипоксией (сатурация кислорода <90%) рекомендуется дополнительная оксигенотерапия для повышения сатурации до ≥90% с целью улучшения доставки кислорода к миокарду и уменьшения симптомов стенокардии."
+          },
+          "class": "I",
+          "level": "C-LD",
+          "refs": [1]
+        },
+        {
+          "id": "r02-normoxia-saturation-90-or-more-no-routine-oxygen",
+          "text": {
+            "en": "In patients with ACS and oxygen saturations ≥90%, routine administration of supplemental oxygen is not recommended because it does not improve cardiovascular outcomes.",
+            "ru": "У пациентов с ОКС и сатурацией кислорода ≥90% рутинное назначение дополнительного кислорода не рекомендуется, поскольку оно не улучшает сердечно-сосудистые исходы."
+          },
+          "class": "III-no-benefit",
+          "level": "A",
+          "refs": [2, 3, 4]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}
