@@ -1,0 +1,101 @@
+CS risk stratiﬁcation. A LVEF of 40–49% is associated with an almost
+eight-fold increased risk for LVEF ,40% at 10-year follow-up com-
+pared with patients with a preserved LVEF ( ≥50%).654 Lifelong sur-
+veillance for high-risk survivors is recommended. 7
+8.1.2. Adult cancer survivors
+Long-term cancer survivorship care is an advancing ﬁeld of research.
+Many survivors will experience several cancer- and treatment-related
+late effects throughout their lives, including CTR-CVT. Besides affect-
+ing their physical and psychosocial health status, these might reduce
+life expectancy and quality of life. This is relevant in some cancer types,
+when CVD risk —especially CTRCD risk —exceeds cancer mortal-
+ity.658,659 The risk of fatal heart disease is increased more than two-
+fold in survivors of several solid cancers and lymphoma compared
+with the general population.660–662
+CV risk assessment at the end of therapy ( Section 7) identiﬁes CS
+who require long-term cardiology follow-up beyond the ﬁrst 12
+months after completing their cancer treatment. Asymptomatic
+CS with new or persisting abnormalities at their end-of-therapy as-
+sessment will be identi ﬁed as at high risk for future CV events and
+require long-term surveillance.
+Speciﬁc cancer treatments carry the highest risk of long-term CV
+toxicity including anthracycline chemotherapy and RT where the
+heart is within the RT treatment volume. Progressive RT-related
+CV toxicity typically develops 5 –10 years after the initial treatment,
+and may cause CAD and HF at an incidence up to six-fold higher than
+in the general population. An increased CV mortality compared with
+the general population has been attributed to radiation-associated
+heart disease in Hodgkin lymphoma, non-Hodgkin lymphoma, BC,
+and patients with lung cancer. 663–665 The incidence and progression
+of the radiation-related CV complications depends on the dose to
+the CV tissue and on concomitant cancer therapies and patient char-
+acteristics, such as pre-existing CVD, CVRF, and age. 389,400
+Late CV complications are also observed in CS who required HSCT.
+The incidence of HF increases up to 14.5% in women 15 years after
+HSCT. Risk factors for CVD following HSCT include age, anthracycline
+dose, chest radiation exposure, hypertension, DM, and smoking.666
+Long-term follow-up surveillance, based on CV toxicity risks
+(Table 12), includes patient education and CVRF optimization. An an-
+nual clinical CV risk assessment is recommended for all adult CS to
+optimize CVRF control, promote a healthy lifestyle, and symptom re-
+view. This can be done in collaboration with primary care or a
+Table 11 Risk categories for asymptomatic adults who are childhood and adolescent cancer survivors
+Risk category RT dose a (Gy MHD) Total cumulative doxorubicin b
+dose (mg/m2)
+Combination therapy
+RT dosea (Gy MHD) Total cumulative doxorubicin b
+dose (mg/m2)
+Very high risk .25c ≥400 .15c ≥100
+High risk .15 to 25 c 250–399 5 –15d ≥100
+Moderate risk 5 –15d 100–249 ,5e ≥100
+Low risk ,5e ,100 –
+© ESC 2022
+Gy, Gray; MHD, mean heart dose; RT, radiotherapy.
+aRT risk categorization based on MHD is recommended over categorization based on prescribed dose, which may not accurately re ﬂect cardiac radiation exposure. Depending on dose
+distribution and exposure of speci ﬁc cardiac substructures (as well as clinical risk factors), the treatment team may judge the patient to belong to a higher risk category. In addition, a
+patient may be judged to belong to a lower risk category if only a small part of the heart is exposed to a relatively high prescribed dose.
+bOr doxorubicin equivalent.
+cOr prescribed RT ≥ 35 Gy to a volume exposing the heart if MHD is not available. Note that in this case, the limited information about cardiac exposure does not allow one to distinguish
+between high- and very high-risk categories.
+dOr prescribed RT 15 –34 Gy to a volume exposing the heart if MHD is not available.
+eOr prescribed RT , 15 Gy to a volume exposing the heart if MHD is not available.
+Recommendation Table 40 — Recommendations for
+cardiovascular surveillance in asymptomatic adults
+who are childhood and adolescent cancer survivors
+Recommendations Class a Levelb
+Education of adults who are childhood and
+adolescent CS treated with anthracyclines,
+mitoxantrone, and/or RT to a volume including
+the heart and their healthcare providers regarding
+their increased CV risk is recommended. 655–657
+IB
+Annual screening for modi ﬁable CVRFc is
+recommended in adults who are childhood and
+adolescent CS treated with anthracyclines,
+mitoxantrone, and/or RT to a volume including
+the heart.
+IC
+CV assessmentd is recommended in female
+childhood and adolescent CS prior to pregnancy
+or in the ﬁrst trimester.
+IC
+Echocardiography surveillance should be
+considered every 2 years in adults who are
+high-risk childhood and adolescent e CS.7
+IIa B
+Echocardiography surveillance should be
+considered every 5 years in adults who are
+moderate-risk childhood and adolescent e CS.7,654
+IIa B
+© ESC 2022
+BP, blood pressure; CS, cancer survivors; CV, cardiovascular; CVRF, cardiovascular risk
+factors; DM, diabetes mellitus; ECG, electrocardiogram; HbA1c, glycated haemoglobin;
+RT, radiotherapy; TTE, transthoracic echocardiography.
+aClass of recommendation.
+bLevel of evidence.
+cObesity, sedentary lifestyle, cigarette smoking, alcohol intake, unhealthy diet,
+dyslipidaemia, hypertension, DM.
+dBP, lipids, fasting glucose, HbA1c, ECG, and TTE.
+eSee Table 11.
+ESC Guidelines 4313
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026

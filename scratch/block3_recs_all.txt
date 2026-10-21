@@ -1,0 +1,835 @@
+
+==================== REC TABLE 24 ====================
+Recommendation Table 24 — Recommendations for
+the management of cancer treatment-related cardiac
+dysfunction during anthracycline chemotherapy
+Recommendations
+Classa
+Levelb
+Anthracycline chemotherapy-induced symptomatic CTRCD
+HF therapy is recommended for patients who
+develop symptomatic CTRCD during
+anthracycline chemotherapy.c,208,425
+I
+B
+Discontinuation of anthracycline chemotherapy is
+recommended in patients who develop
+symptomatic severe CTRCD.c
+I
+C
+Temporary interruption of anthracycline
+chemotherapy is recommended in patients who
+develop symptomatic moderate CTRCDc and a
+multidisciplinary approach regarding the decision
+to restart is recommended.
+I
+C
+A multidisciplinary approach regarding
+interruption vs. continuation of anthracycline
+chemotherapy is recommended in patients who
+develop mild symptomatic CTRCD.c
+I
+C
+Anthracycline chemotherapy-induced asymptomatic
+CTRCD
+Temporary interruption of anthracycline
+chemotherapy and initiation of HF therapy is
+recommended in patients who develop
+asymptomatic moderate or severe CTRCD.c,22
+I
+C
+A multidisciplinary approach regarding the
+decision when to restart is recommended in all
+patients with moderate or severe asymptomatic
+CTRCD.c,22
+I
+C
+Continuation of anthracycline chemotherapy is
+recommended in asymptomatic patients who
+have LVEF ≥50% and who have developed a
+signiﬁcant fall in GLSc or a troponin or a NP
+elevation . ULN.
+I
+C
+Asymptomatic patients who have LVEF ≥50%
+and who have developed a signiﬁcant fall in GLSc
+should be considered for ACE-I/ARB and/or
+beta-blockers.d,75,93,102
+IIa
+B
+Asymptomatic patients who have LVEF ≥50%
+and who have developed a troponin elevation
+.ULN should be considered for ACE-I/ARB and/
+or beta-blockers.d,147,211
+IIa
+B
+Continued
+Asymptomatic patients who have LVEF ≥50%
+and who have developed NP .ULN may be
+considered for ACE-I/ARB and/or
+beta-blockers.d,211
+IIb
+C
+Strategies for restarting anthracycline chemotherapy in
+patients with CTRCD
+Liposomal anthracyclinee may be considered in
+patients with moderate or severe symptomatic or
+asymptomatic CTRCDc who require further
+anthracycline chemotherapy to reduce the risk of
+further CV toxicity.
+IIb
+C
+Dexrazoxanef may be considered in patients with
+moderate or severe symptomatic or
+asymptomatic CTRCDc who require further
+anthracycline chemotherapy to reduce the risk of
+further CV toxicity.
+IIb
+C
+© ESC 2022
+ACE-I, angiotensin-converting enzyme inhibitors; ARB, angiotensin receptor blockers;
+CTRCD, cancer therapy-related cardiac dysfunction; CV, cardiovascular; GLS, global
+longitudinal strain; HF, heart failure; LVEF, left ventricular ejection fraction; NP,
+natriuretic peptides; ULN, upper limit of normal.
+aClass of recommendation.
+bLevel of evidence.
+cSee Table 3. Signiﬁcant fall in GLS = relative reduction .15%.
+dAvoid hypotension.
+eSee text for speciﬁc liposomal doxorubicin type and malignancies (Section 5.2).
+fAs per the European Medicines Agency: ≥350 mg/m2 doxorubicin or equivalent; as
+per the United States Food and Drug Administration: ≥300 mg/m2 doxorubicin or
+equivalent.
+4284
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 25 ====================
+Recommendation Table 25 — Recommendations for
+the management of cancer treatment-related cardiac
+dysfunction during human epidermal receptor 2-tar-
+geted therapies
+Recommendations
+Classa
+Levelb
+HER2-targeted therapy-induced symptomatic CTRCD
+HF therapy is recommended for patients who
+develop symptomatic moderate-to-severe
+CTRCD with LVEF , 50%c during HER2-targeted
+treatment.14,61,430,431
+I
+B
+Temporary interruption of HER2-targeted
+treatment is recommended in patients who
+develop moderate or severe symptomatic
+CTRCDc and the decision to restart should be
+based on a multidisciplinary approach after
+improvement of LV function and symptoms
+resolved.d
+I
+C
+In patients who develop mild symptomatic
+CTRCD,c HF therapy and a multidisciplinary
+approach regarding the decision to continue vs.
+interrupt HER2-targeted therapy are
+recommended.d,431,432
+I
+C
+HER2-targeted therapy-induced asymptomatic CTRCD
+Temporary interruption of HER2-targeted
+therapy and initiation of HF therapy is
+recommended in patients who develop
+asymptomatic severe CTRCD.c
+I
+C
+A multidisciplinary approach regarding the
+decision to restart HER2-targeted treatment is
+recommended in patients with severe
+asymptomatic CTRCD.c
+I
+C
+Continuation of HER2-targeted therapy should be
+considered in patients who develop asymptomatic
+moderate (LVEF 40–49%) CTRCDc with more
+frequent cardiac monitoring.33,189,428,433
+IIa
+B
+Continuation of HER2-targeted therapy is
+recommended in patients who develop
+asymptomatic mild (LVEF ≥50%) CTRCDc with
+more frequent cardiac monitoring.428
+I
+C
+ACE-I/ARB and beta-blockers are recommended
+in patients who develop asymptomatic moderate
+(LVEF 40–49%) CTRCDc during HER2-targeted
+treatment.e,189
+I
+C
+ACE-I/ARB and/or beta-blockers should be
+considered in asymptomatic patients receiving
+HER2-targeted therapies who have LVEF ≥50%
+but develop a signiﬁcant fall in GLSc while
+continuing HER2-targeted therapy.e,22,428
+IIa
+B
+Continued
+ACE-I/ARB and/or beta-blockers should be
+considered in asymptomatic patients receiving
+HER2-targeted therapies who have LVEF ≥50%
+but develop a new troponin or NP rise while
+continuing HER2-targeted therapy.e,22,211,428
+IIa
+B
+© ESC 2022
+ACE-I, angiotensin-converting enzyme inhibitors; ARB, angiotensin receptor blockers;
+CTRCD, cancer therapy-related cardiac dysfunction; GLS, global longitudinal strain;
+HER2, human epidermal receptor 2; HF, heart failure; LV, left ventricular; LVEF, LV
+ejection fraction; NP, natriuretic peptides.
+aClass of recommendation.
+bLevel of evidence.
+cSee Table 3.
+dFor patients where HER2-targeted therapy has been interrupted and who have
+recovered LVEF ≥40% and are now asymptomatic, resumption of HER2-targeted
+therapy should be considered supported by HF therapy and echocardiography and
+cardiac biomarkers assessment every two cycles for the ﬁrst four cycles after
+restarting and then frequency can be reduced.
+eAvoid hypotension.
+4286
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 26 ====================
+Recommendation Table 26 — Recommendations for
+the diagnosis and management of immune checkpoint
+inhibitor-associated myocarditis
+Recommendations
+Classa
+Levelb
+cTn, ECG, and CV imaging (echocardiography and
+CMR) are recommended to diagnose
+ICI-associated myocarditis.320,434,435,453
+I
+B
+In patients with suspected ICI-associated
+myocarditis, temporary interruption of ICI
+treatment is recommended until the diagnosis is
+conﬁrmed or refuted.
+I
+C
+Continued
+EMB should be considered to conﬁrm the
+diagnosis of ICI-associated myocarditis if the
+diagnosis is suspected but not conﬁrmed after
+cardiac imaging and biomarkers.c
+IIa
+C
+Interruption of ICI treatment is recommended in
+patients with conﬁrmed ICI-associated
+myocarditis.
+I
+C
+Continuous ECG monitoring to assess for new
+AV block and tachyarrhythmias during the acute
+phase is recommended for all patients with
+symptomatic ICI-associated myocarditis.
+I
+C
+Early high-dose corticosteroidsd are
+recommended in patients with cancer and
+conﬁrmed ICI-associated myocarditis.22,436,454
+I
+C
+Continuation of high-dose corticosteroids is
+recommended for the treatment of ICI-associated
+myocarditis until resolution of symptoms, LV
+systolic dysfunction, conduction abnormalities,
+and signiﬁcant cTn reduction.e
+I
+C
+Switching from i.v. to oral prednisolone should be
+considered after clinical improvement (resolution
+of: symptoms, LV systolic dysfunction, conduction
+abnormalities, and signiﬁcant cTn reductione).f
+IIa
+C
+Second-line immunosuppression treatment
+should be considered in patients with
+steroid-refractory ICI-associated myocarditis.g
+IIa
+C
+Admission to ICU (level 3), treatment with i.v.
+methylprednisolone, and optimal CV treatment
+including mechanical support (when indicated) is
+recommended for patients with ICI-associated
+fulminant myocarditis.14
+I
+C
+A single dose of i.v. methylprednisoloned should
+be considered in unstableh patients with cancer
+where ICI-induced myocarditis is suspected.
+IIa
+C
+A multidisciplinary discussion is recommended
+before restarting ICI treatment in selected
+patients with previous uncomplicated
+ICI-associated myocarditis.
+I
+C
+© ESC 2022
+AV, atrioventricular; CMR, cardiac magnetic resonance; cTn, cardiac troponin;
+CV, cardiovascular; ECG, electrocardiogram; EMB, endomyocardial biopsy; HF, heart
+failure; ICI, immune checkpoint inhibitors; ICU, intensive care unit; i.v., intravenous;
+LGE, late gadolinium enhancement; LV, left ventricular; LVD, LV dysfunction; LVEF,
+LV ejection fraction.
+aClass of recommendation.
+bLevel of evidence.
+cSee Table 3 for ICI-related myocarditis deﬁnition. EMB should be considered in unstable
+patients or when CMR is contraindicated.
+dEarly: ≤24 h; high-dose corticosteroids (methylprednisolone 500–1000 mg/day).
+eReduction of cTn by .50% from peak level.
+fComplete recovery: Patients with complete resolution of acute symptoms,
+normalization of biomarkers, or reduction of cTn by .50% from peak level and
+recovery of LVEF after discontinuation of immunosuppression are considered to
+have achieved complete recovery. CMR may still show LGE or elevated T1 due to
+ﬁbrosis but any suggestion of acute oedema should be absent. Incomplete
+recovery: (1) an increase in symptoms or biomarkers of myocarditis or an inability
+to taper immunosuppression without a clinical or biomarker ﬂare; (2) patients with
+persistent LVD despite resolution of acute symptoms with immunosuppression.
+gSteroid refractory: non-resolving or worsening myocarditis (clinical worsening or
+persistent troponin elevation after exclusion of other aetiologies) despite high-dose
+methylprednisolone (Table 3; Supplementary data, Table S1).
+hUnstable: patients with symptomatic HF, ventricular arrhythmias, new complete
+heart block.
+ESC Guidelines
+4289
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 27 ====================
+Recommendation Table 27 — Recommendations for
+the diagnosis and management of Takotsubo syn-
+drome in patients with cancer
+Recommendations
+Classa
+Levelb
+Coronary angiography (invasive or CCTA) is
+recommended to exclude ACS.
+I
+C
+CMR is recommended to exclude myocarditis and
+MI.458
+I
+B
+QT-prolonging drugs are not recommended
+during the acute TTS phase.c
+III
+C
+© ESC 2022
+ACS, acute coronary syndromes; CMR, cardiac magnetic resonance; CCTA, coronary
+computed tomography angiography; LV, left ventricular; MI, myocardial infarction;
+QTc, corrected QT interval; TTS, Takotsubo syndrome.
+aClass of recommendation.
+bLevel of evidence.
+cUntil full recovery and normalization of LV function and QTc.
+Table 7
+Cancer treatments that predispose to acute
+coronary syndromes
+Accelerated atherosclerosis
+and plaque rupture
+ADT (GnRH agonists), ICI, nilotinib,
+ponatinib, radiation therapy, VEGFi
+Vasospasm
+Bleomycin, ﬂuoropyrimidines, taxanes,
+VEGFi, vinca alkaloids
+Coronary thrombosis
+Alkylating agents (cisplatin,
+cyclophosphamide), erlotinib, ICI, IMiD
+(lenalidomide, thalidomide), monoclonal
+antibodies (VEGFi, anti-CD20), nilotinib,
+platinum chemotherapy, PI, ponatinib,
+VEGFi.
+© ESC 2022
+ADT, androgen deprivation therapy; GnRH, gonadotropin-releasing hormone; ICI,
+immune checkpoint inhibitors; IMiD, immunomodulatory drugs; PI, proteasome
+inhibitors; VEGFi, vascular endothelial growth factor inhibitors.
+ESC Guidelines
+4291
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 28 ====================
+Recommendation Table 28 — Recommendations for
+the management of acute coronary syndromes in pa-
+tients receiving anticancer treatment
+Recommendations
+Classa
+Levelb
+An invasive strategy is recommended in patients
+with cancer presenting with STEMI or high-risk
+NSTE-ACS with life expectancy ≥6
+months.475,479,483
+I
+B
+A conservative non-invasive strategy should be
+considered in patients with poor cancer
+prognosisc (with life expectancy ,6 months) and/
+or very high bleeding risk presenting with STEMI
+or NSTE-ACS.479
+IIa
+C
+A temporary interruption of cancer therapy is
+recommended in patients where the cancer
+therapy is suspected as a contributing
+cause.d,10,490
+I
+C
+A short DAPT strategy should be considered in
+patients with cancer with very high bleeding risk
+treated with PCI for an ACS.e
+IIa
+C
+Continued
+4292
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 29 ====================
+Recommendation Table 29 — Recommendation for
+the management of chronic coronary syndromes in
+patients receiving anticancer treatment
+Recommendation
+Classa
+Levelb
+Individualized duration of DAPT is recommended
+in patients with cancer with CCS, following
+revascularization, based upon thrombotic/
+ischaemic and bleeding risk, type and stage of
+cancer, and current cancer treatment.100,498
+I
+C
+© ESC 2022
+CCS, chronic coronary syndromes; DAPT, dual antiplatelet therapy.
+aClass of recommendation.
+bLevel of evidence.
+
+==================== REC TABLE 30 ====================
+Recommendation Table 30 — Recommendations for
+the management of valvular heart disease in patients
+receiving anticancer treatment
+Recommendations
+Classa
+Levelb
+In patients with cancer and pre-existing severe
+VHD, management according to the 2021 ESC/
+EACTS Guidelines for the management of VHD is
+recommended, taking into consideration cancer
+prognosis and patient preferences.507
+I
+C
+Continued
+ESC Guidelines
+4293
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 31 ====================
+Recommendation Table 31 — Recommendations for
+the management of atrial ﬁbrillation in patients re-
+ceiving anticancer treatment
+Recommendations
+Classa
+Levelb
+CHA2DS2-VASc score should be considered for
+risk stratiﬁcation for stroke/systemic
+thromboembolism taking into account that it may
+underestimate the actual thromboembolic
+risk.519,526
+IIa
+C
+Long-term anticoagulation is recommended for
+stroke/systemic thromboembolism prevention in
+patients with cancer with AF and a
+CHA2DS2-VASc score ≥2 (men) or ≥3 (women)
+as per the 2020 ESC Guidelines for the diagnosis
+and management of atrial ﬁbrillation.273
+I
+C
+Continued
+Long-term anticoagulation should be considered
+for stroke/systemic thromboembolism
+prevention in patients with cancer with AF and a
+CHA2DS2-VASc score = 1 (men) or = 2
+(women) as per the 2020 ESC Guidelines for the
+diagnosis and management of atrial ﬁbrillation.273
+IIa
+C
+Patients with cancer,c AF, and CHA2DS2-VASc
+score 0 (men) or 1 (women) may have a higher
+thrombotic risk than patients without cancer and
+may be considered for therapeutic anticoagulation
+after consideration of the bleeding risk.526
+IIb
+C
+Thromboembolic and bleeding risk reassessment
+is recommended during follow-up in patients with
+cancer with AF.d,273
+I
+C
+NOAC should be considered for stroke
+prevention in preference to LMWH and VKA
+(excluding patients with mechanical heart valves
+or moderate-to-severe mitral stenosis) in patients
+without a high bleeding risk, signiﬁcant drug–drug
+interactions, or severe renal dysfunction.531–537
+IIa
+B
+LMWH should be considered in patients with
+active cancere and AF who are not suitable for
+NOACf.525
+IIa
+C
+LAA occlusion may be considered for stroke
+prevention in patients with cancer with AF and
+contraindications for long-term anticoagulation
+with a life expectancy .12 months.273,539
+IIb
+C
+Antiplatelet therapy or prophylactic LMWH are
+not recommended for stroke or systemic
+thromboembolism prevention in AF with
+cancer.273
+III
+C
+Heart rate control strategy, preferably with
+beta-blockers, should be considered in patients
+who develop well-tolerated AF while they are
+receiving active cancer treatmentg.
+IIa
+C
+© ESC 2022
+5-FU, 5-ﬂuorouracil; AF, atrial ﬁbrillation; BMI, body mass index; CHA2DS2-VASc,
+Congestive heart failure, Hypertension, Age .75 years (2 points), Diabetes mellitus,
+Stroke (2 points)—Vascular disease, Age 65–74 years, Sex category (female); CrCl,
+creatinine clearance; eGFR, estimated glomerular ﬁltration rate; EGFR, epidermal
+growth factor receptor; ESC, European Society of Cardiology; HF, heart failure; LAA,
+left atrial appendage; LMWH, low-molecular-weight heparins; LV, left ventricular;
+MM, multiple myeloma; NOAC, non-vitamin K antagonist oral anticoagulants; VKA,
+vitamin K antagonists.
+aClass of recommendation.
+bLevel of evidence.
+cFactors that may increase thromboembolic risk in patients with cancer including
+comorbidities (proteinuria . 150 mg/24 h, eGFR, 45 mL/min/1.73 m2, BMI ≥30 kg/m2,
+thrombophilia), cancer type (pancreatic, gastric, ovarian, brain, lung, MM), cancer stage
+(metastatic disease) anticancer therapies: alkylating agents, aﬂibercept, bevacizumab,
+anthracyclines,
+capecitabine,
+5-FU,
+gemcitabine,
+methotrexate,
+EGFR
+inhibitors,
+bleomycin, axitinib, lenvatinib, pazopanib, sorafenib, sunitinib, carﬁlzomib, irinotecan,
+taxanes, tasonermin, tretinoin.
+dStroke and bleeding risk may change during both cancer treatment and the course of the
+underlying disease; reassessment is important to inform treatment decisions and address
+potentially modiﬁable bleeding risk factors.
+ePatients receiving cancer treatment, patients diagnosed with cancer in the past 6 months,
+and patients with progressive or advanced disease.
+fHigh bleeding risk, severe renal dysfunction (CrCl, 15 mL/min); NOAC major drug–drug
+interactions.
+gAsymptomatic or mild symptomatic patients without HF signs or symptoms or
+deterioration of LV function. The optimal heart rate target in AF patients is unclear. A
+resting heart rate ,110 bpm (i.e. lenient rate control) should be considered as the
+initial heart rate target for rate control therapy. A review of rate vs. rhythm strategy
+should be made at the end of cancer treatment.273
+ESC Guidelines
+4297
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 32 ====================
+Recommendation Table 32 — Recommendations for
+the management of long corrected QT interval and
+ventricular arrhythmias in patients receiving antican-
+cer treatment
+Recommendations
+Classa
+Levelb
+How to manage QTc prolongation in patients with cancer
+Discontinuation of QTc-prolonging cancer
+therapy is recommended in patients who develop
+TdP or sustained ventricular tachyarrhythmias
+during treatment.549
+I
+C
+Temporary interruption of QTc-prolonging
+cancer therapy is recommended in patients who
+develop asymptomatic QTcF ≥500 ms and an
+ECG should be repeated every 24 h until
+resolution of the QTcF prolongation.549
+I
+C
+Immediate withdrawal of any offending drug and
+correction of electrolyte abnormalities and other
+risk factorsc is recommended in patients with
+cancer who develop QTcF ≥500 ms.349,442,546
+I
+C
+Weekly ECG monitoring is recommended in
+asymptomatic patients with cancer with QTcF
+480–500 ms who are treated with a
+QTc-prolonging cancer therapy.349,442,546
+I
+C
+A 12-lead ECG is recommended after any dose
+increase of QTc-prolonging cancer
+therapy.270,442,544
+I
+C
+Continued
+Restarting QTc-prolonging cancer therapy
+A multidisciplinary discussion is recommended
+before restarting QTc-prolonging drugs in
+patients who have developed signiﬁcant QTcF
+prolongation, to discuss alternative cancer
+treatments.4,22,259,349,442,546
+I
+C
+In patients who experienced signiﬁcant QTcF
+prolongation, restarting the culprit
+QTc-prolonging cancer treatment may be
+considered, ideally at a reduced dose according to
+each drug recommendation.45,259,349,442,546,549
+IIb
+C
+Weekly ECG monitoring during the ﬁrst 4–6
+weeks and then monthly thereafter is
+recommended in patients with cancer after
+restarting QTc-prolonging cancer therapy.549
+I
+C
+© ESC 2022
+ECG, electrocardiogram; QTc, corrected QT interval; QTcF, corrected QT interval
+using Fridericia correction; TdP, torsade de pointes.
+aClass of recommendation.
+bLevel of evidence.
+cSee https://www.crediblemeds.org and Table 8.
+4300
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 33 ====================
+Recommendation Table 33 — Recommendations for
+the management of arterial hypertension in patients
+receiving anticancer treatment
+Recommendations
+Classa
+Levelb
+General
+Effective treatment of cancer therapy-induced
+arterial hypertension to prevent cancer treatment
+interruption and CV complications is
+recommended.
+I
+C
+A BP target ,140 mmHg systolic and ,90 mmHg
+diastolic is recommended during cancer therapy.
+I
+C
+A BP target ,130 mmHg systolic and ,80 mmHg
+diastolic may be considered during cancer therapy
+provided that the treatment is well tolerated.
+IIb
+C
+In selected asymptomatic patients with metastatic
+cancer, a systolic BP 140–160 mmHg and diastolic
+BP 90–100 mmHg treatment threshold may be
+considered provided there is ongoing BP monitoring.
+IIb
+C
+The competing cancer and CV risk evaluation is
+recommended if the systolic BP is ≥180 mmHg or
+diastolic BP ≥110 mmHg, and any cancer therapy
+associated with hypertension should be deferred
+or temporarily withheld until the BP is controlled
+to values ,160 mmHg (systolic) and
+,100 mmHg (diastolic).
+I
+C
+Continued
+Cancer therapy-induced arterial hypertension treatment
+ACE-I or ARB are the ﬁrst-line antihypertensive
+drugsc recommended for BP management in
+patients with cancer.555–557
+I
+B
+Dihydropyridine CCB are recommended as
+second-line antihypertensive drugs for patients
+with cancer with uncontrolled BP.
+I
+C
+Combination therapy with ACE-I or ARB and
+dihydropyridine CCB is recommended in patients
+with cancer with systolic BP ≥160 mmHg and
+diastolic BP ≥100 mmHg.
+I
+C
+Diltiazem and verapamil are not recommended to
+treat arterial hypertension in patients with cancer
+due to their drug–drug interactions.d
+III
+C
+© ESC 2022
+ACE-I, angiotensin-converting enzyme inhibitors; ARB, angiotensin receptor blockers;
+BP, blood pressure; CCB, calcium channel blockers; CV, cardiovascular.
+aClass of recommendation.
+bLevel of evidence.
+cUnless contraindicated.
+dIn selected patients with cancer, who are intolerant to multiple other antihypertensive
+drugs, diltiazem and verapamil may be considered with close monitoring of drug–drug
+interactions.
+4302
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 34 ====================
+Recommendation Table 34 — Recommendations for
+the management of venous thromboembolism in pa-
+tients receiving anticancer treatment
+Recommendations
+Classa
+Levelb
+Apixaban, edoxaban, or rivaroxabanc are
+recommended for the treatment of symptomatic
+or incidental VTE in patients with cancer without
+contraindications.d,578–581,584,585
+I
+A
+LMWH are recommended for the treatment of
+symptomatic or incidental VTE in patients with
+cancer with platelet count .50 000/µL.298,299,578–
+581,584,585
+I
+A
+In patients with cancer with platelet counts of
+25 000–50 000/µL, anticoagulation with half-dose
+LMWH may be considered after a
+multidisciplinary discussion.591
+IIb
+C
+Prolongation of anticoagulation therapy beyond 6
+months should be considered in selected patients
+with active cancere including metastatic
+disease.589,590
+IIa
+A
+Catheter-associated VTE
+Duration of anticoagulation in patients with
+cancer with a catheter-associated VTE is
+recommended for a minimum of 3 months and
+continuing longer if the catheter remains in situ.
+I
+C
+© ESC 2022
+CrCl,
+creatinine
+clearance;
+GI,
+gastrointestinal;
+GU,
+genitourinary;
+LMWH,
+low-molecular-weight
+heparins;
+ULN,
+upper
+limit
+of
+normal;
+VTE,
+venous
+thromboembolism.
+aClass of recommendation.
+bLevel of evidence.
+cDrugs are listed in alphabetical order
+dHigh risk of GI or GU bleeding, GI absorption concerns, signiﬁcant drug–drug
+interactions, severe renal dysfunction (CrCl , 15 mL/min), signiﬁcant liver disease
+(alanine
+aminotransferase/aspartate
+aminotransferase . 2 × ULN),
+or
+signiﬁcant
+thrombocytopaenia (platelet count , 50 000/µL). In addition, patients with primary
+brain tumours or brain metastases and acute leukaemia were excluded from the
+seminal apixaban trial.580
+ePatients receiving cancer treatment, patients diagnosed with cancer in the past 6
+months, and patients with progressive or advanced disease.
+ESC Guidelines
+4305
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 35 ====================
+Recommendation Table 35 — Recommendations for
+venous thromboembolism prophylaxis during antican-
+cer treatment
+Recommendation
+Classa
+Levelb
+Extended prophylaxis with LMWH for 4 weeks
+post-operatively is recommended for patients
+with cancer undergoing major open or
+laparoscopic abdominal or pelvic surgery with low
+bleeding risk and high VTE risk.c,298,299,595
+I
+B
+Prophylactic LMWH for the primary prevention
+of VTE is indicated in hospitalized patients with
+cancer or those with prolonged bedrest or
+reduced mobility in the absence of bleeding or
+other contraindications.298,299,592,594
+I
+B
+For ambulatory patients with cancer at high risk of
+thrombosis receiving systemic therapy,d primary
+thromboprophylaxis with a NOAC (apixaban or
+rivaroxaban) or LMWH may be considered,
+provided there are no signiﬁcant
+contraindications.e,298,593,594,601,602
+IIb
+B
+A discussion with the patient about the relative
+beneﬁts and harms, cancer prognosis, drug cost,
+and duration of treatment is recommended prior
+to prophylactic anticoagulation for the primary
+prevention of VTE.
+I
+C
+© ESC 2022
+LMWH, low-molecular-weight heparins; NOAC, non-vitamin K antagonist oral
+anticoagulants; VTE, venous thromboembolism.
+aClass of recommendation.
+bLevel of evidence.
+cReduced mobility, obesity, VTE history.
+dLocally advanced or metastatic pancreas or lung cancer or Khorana score ≥2.
+eRisk factors for bleeding, signiﬁcant drug–drug interactions, or severe renal dysfunction.
+4306
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 36 ====================
+Recommendation Table 36 — Recommendation for
+management of peripheral artery disease during antic-
+ancer treatment
+Recommendation
+Classa
+Levelb
+In patients who develop new symptomatic PAD, a
+multidisciplinary approach regarding the decision
+to continue vs. interrupt culprit cancer therapyc is
+recommended.
+I
+C
+© ESC 2022
+PAD, peripheral artery disease; VEGFi, vascular endothelial growth factor inhibitors.
+aClass of recommendation.
+bLevel of evidence.
+cVEGFi, nilotinib, ponatinib, platins, etc.
+ESC Guidelines
+4307
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026

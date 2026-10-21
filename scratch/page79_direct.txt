@@ -1,0 +1,113 @@
+6.8. Peripheral artery disease
+There is growing evidence that cancer therapy affects the vascula-
+ture. A recent meta-analysis showed a signi ﬁcantly increased arterial
+stiffness after anthracycline and non-anthracycline treatment. 611
+Paraneoplastic acral vascular syndrome was described after initiation
+of nivolumab, with ﬁrst symptoms 3 weeks after initiation of ther-
+apy.612 Raynaud phenomenon has been associated with the use of
+bleomycin, cyclophosphamide, platinum compounds, vinca alkaloids,
+and ﬂuoropyrimidines.491 Usual treatment of Raynaud ’s includes
+non-pharmacological measures to help prevent an episode (avoid-
+ance of provoking factors such as cold temperature, vasoconstricting
+drugs) and a long-acting dihydropyridine CCB (amlodipine,
+modiﬁed-release nifedipine).
+Treatment with nilotinib or ponatinib may be associated with an
+increased risk of vascular adverse events, including arterial stiffness
+and PAD development. 494 In a subgroup of patients, these events
+are severe or even life-threatening. 613 Although the exact mechan-
+isms remain unknown, we recommend screening for pre-existing
+PAD and for vascular risk factors such as DM in all patients before
+and during nilotinib or ponatinib therapy. Pooled data from three
+clinical trials showed arterial occlusive disease to be related to
+dose intensity in ponatinib-treated patients, 614 but PAD was not ad-
+dressed separately. If rapidly progressive PAD occurs with second-
+generation TKI, it may be advisable to switch to an alternative lower-
+risk TKI (e.g. imatinib). Platelet aggregation inhibitors or anticoagula-
+tion and statins should be considered. Despite lack of evidence, all
+risk factors should be corrected. 615
+6.9. Pulmonary hypertension
+All ﬁve groups of the PH classi ﬁcation can be observed in patients
+with cancer. Several cancer drugs can cause group 1 PH (pulmonary
+arterial hypertension [PAH]), including car ﬁlzomib, bosutinib, dasati-
+nib,616 ponatinib, interferon alpha, and alkylating agents (e.g. mitomy-
+cin C and cyclophosphamide, which mostly cause pulmonary
+veno-occlusive disease). 617 PH associated with left heart disease
+(group 2) is related to drugs causing HF (e.g. anthracyclines). PH as-
+sociated with lung disease (group 3) is related to drugs and therapies
+causing pulmonary ﬁbrosis (e.g. bleomycin, thoracic radiation). The
+most common pulmonary vascular disease complicating cancer is
+VTE, which can cause chronic thromboembolic PH (group 4). Of
+note, central venous catheters are important causes of group 4 PH
+complicating cancer management. Other group 4 PH due to pulmon-
+ary artery obstructions includes angiosarcoma and other malignant
+tumours (e.g. renal carcinoma, uterine carcinoma, germ cell tumours
+of the testis). 618
+PH with unclear and/or multifactorial mechanisms (group 5) in-
+cludes several conditions that may be complicated by complex and
+sometimes overlapping pulmonary vascular involvement. Tumoral
+PH includes pulmonary tumour micro-embolism and pulmonary tu-
+mour thrombotic microangiopathy. 619 Multiple causes of PH have
+been described in patients with chronic myeloproliferative disorders.
+In chronic myelogenous leukaemia, spleen enlargement and anaemia
+can give rise to hyperkinetic syndrome. In polycythaemia vera and es-
+sential thrombocythemia, there is an increased risk of VTE and
+chronic thromboembolic PH. Moreover, formation of a blood clot
+within the hepatic veins can lead to Budd –Chiari syndrome and sub-
+sequent porto-PH. Pulmonary extramedullary haematopoiesis com-
+plicating idiopathic or secondary myelo ﬁbrosis may also contribute
+to dyspnoea and PH. 620
+Symptoms of PH are non-speciﬁc, such as shortness of breath and
+fatigue. In later stages, symptoms of right-sided HF may develop. An
+ECG should be performed and examined for RV hypertrophy, but a
+normal ECG does not exclude PH. Echocardiography is the ﬁrst
+choice for assessing PH probability in patients who develop symp-
+toms and/or signs suggestive of PH during cancer treatment.
+When peak tricuspid regurgitation velocity (TRV) is ≤2.8 m/s
+(equating to an estimated systolic PAP [sPAP] of ≤35 mmHg)
+and no other signs of PH are present, then the probability of PH
+is low. In the absence of a tricuspid regurgitant jet, other echocar-
+diography signs may increase suspicion of PH (e.g. RV/LV basal
+diameter ratio . 1, RV out ﬂow tract acceleration time , 105 ms,
+inferior vena cava diameter . 21 mm with decreased inspiratory col-
+lapse).620 Baseline TTE should be considered in patients receiving
+cancer drugs that can cause PH; ho wever, a right-heart catheter-
+ization is required for de ﬁnitive diagnosis of PH and to support
+PAH treatment decisions. In the DASISION (DASatinib vs. Imatinib
+Study In treatment-Naïve chronic myeloid leukemia patients) trial,
+5% of patients randomized to da satinib were diagnosed with
+PH, compared with 0.4% of those randomized to imatinib. 621 In
+patients who develop PH, dasatin ib treatment should be inter-
+rupted and an alternative TKI should be used. 616
+Overall management of PH in oncology patients should be based
+on the 2022 ESC/European Respiratory Society (ERS) Guidelines for
+the diagnosis and treatment of pulmonary hypertension. 620 Referral
+to a PH centre is recommended for multidisciplinary management
+with the oncology team. In patients with CML treated with drugs
+causing PH-induced PAH, discontinuation of the potential culprit
+therapy is recommended if there is a high probability of new PH
+(peak TRV . 3.4 m/s, equating to an estimated sPAP of
+≥50 mmHg) until the diagnosis is con ﬁrmed or ruled out by a right-
+heart catheterization. In CML patients on dasatinib, an alternative
+BCR-ABL TKI is recommended if they develop symptomatic PAH
+or an asymptomatic increase in peak TRV .3.4 m/s. Dasatinib
+dose reduction and close monitoring of peak TRV with TTE every
+4 weeks should be considered in CML patients who develop new
+asymptomatic peak TRV ranging from 2.9 to 3.4 m/s. 620 If peak
+TRV remains normal or mildly elevated on serial monitoring, then da-
+satinib can continue, with reduced TTE monitoring to every 3
+Recommendation Table 36 — Recommendation for
+management of peripheral artery disease during antic-
+ancer treatment
+Recommendation Class a Levelb
+In patients who develop new symptomatic PAD, a
+multidisciplinary approach regarding the decision
+to continue vs. interrupt culprit cancer therapy c is
+recommended.
+I C
+© ESC 2022
+PAD, peripheral artery disease; VEGFi, vascular endothelial growth factor inhibitors.
+aClass of recommendation.
+bLevel of evidence.
+cVEGFi, nilotinib, ponatinib, platins, etc.
+ESC Guidelines 4307
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026

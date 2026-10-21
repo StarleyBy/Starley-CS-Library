@@ -1,0 +1,82 @@
+Table 10):
+(1) Baseline high or very high risk based on HFA-ICOS risk assess-
+ment tools12 (Section 4).
+(2) Cardiotoxic cancer therapy with a high risk of long-term CV
+complications7,21 (Section 8).
+(3) Moderate or severe CTR-CVT diagnosed during cancer treat-
+ment (Table 3).68
+(4) New abnormalities in cardiac function detected by echocardiog-
+raphy, new elevated cardiac serum biomarkers, or newly CV
+symptoms detected at the end-of-therapy assessment (3 or 12
+months after treatment).68,208
+The timing of the ﬁrst CV assessment after cardiotoxic cancer
+treatment depends on the risk deﬁned by baseline CV assessment,
+the type of cancer therapy, and whether CTR-CVT was diagnosed
+during treatment.
+In asymptomatic high-risk patients (Table 10), echocardiography
+and cardiac serum biomarkers are recommended at 3 and 12 months
+after
+completion
+of
+cancer
+therapy.53,54,59,61,68,148,208,425
+In
+Recommendation Table 38 — Recommendations for
+the management of pericardial diseases in patients re-
+ceiving anticancer treatment
+Recommendations
+Classa
+Levelb
+General
+Diagnosis and management of acute pericarditis in
+patients with cancer based on the 2015 ESC
+Guidelines for the diagnosis and management of
+pericardial diseases is recommended and a
+multidisciplinary discussion is needed before
+interrupting cancer therapy.444
+I
+C
+A surgical pericardial window should be
+considered if the percutaneous approach is not
+feasible or in cases of recurrent malignant
+pericardial effusions.
+IIa
+C
+Intrapericardial instillation of cytostatic or
+sclerosing agents may be considered for
+prevention of recurrence.
+IIb
+C
+Diagnosis and management of ICI-associated pericarditis
+Multimodality CV imaging (echocardiography,
+CMR + CT), ECG and measurement of cardiac
+biomarkers are recommended to conﬁrm the
+diagnosis, assess the haemodynamic
+consequences of pericardial disease, and rule out
+associated myocarditis.
+I
+C
+Prednisolone and colchicine are recommended
+for patients with ICI-associated
+pericarditis.326,624,625,630
+I
+C
+Interruption of ICI treatment in patients with
+conﬁrmed ICI-associated pericarditis with
+moderate-to-severe pericardial effusion is
+recommended.
+I
+C
+A multidisciplinary discussion is recommended
+before restarting ICI treatment.
+I
+C
+© ESC 2022
+CMR, cardiac magnetic resonance; CT, computed tomography; CV, cardiovascular;
+ECG, electrocardiogram; ESC, European Society of Cardiology; ICI, immune
+checkpoint inhibitors.
+aClass of recommendation.
+bLevel of evidence.
+ESC Guidelines
+4309
+Downlo

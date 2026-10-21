@@ -1,0 +1,3095 @@
+
+
+=== PAGE 1 ===
+
+2022 ESC Guidelines on cardio-oncology
+developed in collaboration with the European
+Hematology Association (EHA), the European
+Society for Therapeutic Radiology and
+Oncology (ESTRO) and the International
+Cardio-Oncology Society (IC-OS)
+Developed by the task force on cardio-oncology of the European
+Society of Cardiology (ESC)
+Authors/Task Force Members: Alexander R. Lyon*† (Chairperson) (United
+Kingdom), Teresa López-Fernández*† (Chairperson) (Spain), Liam S. Couch (Task
+Force Coordinator) (United Kingdom), Riccardo Asteggiano (Italy),
+Marianne C. Aznar1 (United Kingdom), Jutta Bergler-Klein (Austria),
+Giuseppe Boriani (Italy), Daniela Cardinale (Italy), Raul Cordoba2 (Spain),
+Bernard Cosyns (Belgium), David J. Cutter (United Kingdom),
+Evandro de Azambuja (Belgium), Rudolf A. de Boer (Netherlands), Susan F. Dent3
+(United States of America), Dimitrios Farmakis (Cyprus), Soﬁe A. Gevaert
+(Belgium), Diana A. Gorog (United Kingdom), Joerg Herrmann3 (United States of
+America), Daniel Lenihan3 (United States of America), Javid Moslehi (United
+States of America), Brenda Moura (Portugal), Sonja S. Salinger (Serbia),
+Richard Stephens (United Kingdom), Thomas M. Suter (Switzerland),
+Sebastian Szmit (Poland), Juan Tamargo (Spain), Paaladinesh Thavendiranathan
+(Canada), Carlo G. Tocchetti (Italy), Peter van der Meer (Netherlands),
+Helena J.H. van der Pal (Netherlands), and ESC Scientiﬁc Document Group
+*Corresponding authors: Alexander R. Lyon, National Heart and Lung Institute, Imperial College London and Cardio-Oncology Service, Royal Brompton Hospital, London, United
+Kingdom. Tel: +44 207 352 8121, E-mail: a.lyon@imperial.ac.uk.
+Teresa López-Fernández, Cardiology Department, La Paz University Hospital, IdiPAZ Research Institute, Madrid, Spain. Tel: +34 619 227 076, E-mail: tlfernandez8@gmail.com.
+† The two chairpersons contributed equally to the document and are joint corresponding authors.
+Author/Task Force Member afﬁliations are listed in Author information.
+1Representing the European Society for Therapeutic Radiology and Oncology (ESTRO); 2representing the European Hematology Association (EHA); 3representing the International
+Cardio-Oncology Society (IC-OS).
+ESC Clinical Practice Guidelines (CPG) Committee: listed in the Appendix.
+ESC subspecialty communities having participated in the development of this document:
+Associations: Association for Acute CardioVascular Care (ACVC), European Association of Cardiovascular Imaging (EACVI), European Association of Preventive Cardiology (EAPC),
+European Association of Percutaneous Cardiovascular Interventions (EAPCI), European Heart Rhythm Association (EHRA), Heart Failure Association (HFA).
+Councils: Council of Cardio-Oncology, Council on Hypertension, Council on Valvular Heart Disease.
+Working Groups: Aorta and Peripheral Vascular Diseases, Cardiovascular Pharmacotherapy, e-Cardiology, Myocardial Function, Pulmonary Circulation and Right Ventricular Function,
+Thrombosis.
+Patient Forum
+European Heart Journal (2022) 43, 4229–4361
+https://doi.org/10.1093/eurheartj/ehac244
+ESC GUIDELINES
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 2 ===
+
+Document Reviewers: Patrizio Lancellotti (CPG Review Coordinator) (Belgium), Franck Thuny (CPG Review
+Coordinator) (France), Magdy Abdelhamid (Egypt), Victor Aboyans (France), Berthe Aleman1 (Netherlands),
+Joachim Alexandre (France), Ana Barac3 (United States of America), Michael A. Borger (Germany),
+Ruben Casado-Arroyo (Belgium), Jennifer Cautela (France), Jolanta Čelutkienė (Lithuania), Maja Cikes
+(Croatia), Alain Cohen-Solal (France), Kreena Dhiman (United Kingdom), Stéphane Ederhy (France),
+Thor Edvardsen (Norway), Laurent Fauchier (France), Michael Fradley3 (United States of America), Julia Grapsa
+(United Kingdom), Sigrun Halvorsen (Norway), Michael Heuser2 (Germany), Marc Humbert (France),
+Tiny Jaarsma (Sweden), Thomas Kahan (Sweden), Aleksandra Konradi (Russian Federation),
+Konstantinos C. Koskinas (Switzerland), Dipak Kotecha (United Kingdom), Bonnie Ky3 (United States
+of America), Ulf Landmesser (Germany), Basil S. Lewis (Israel), Ales Linhart (Czech Republic), Gregory Y.H. Lip
+(United Kingdom), Maja-Lisa Løchen (Norway), Katarzyna Malaczynska-Rajpold (United Kingdom),
+Marco Metra (Italy), Richard Mindham (United Kingdom), Marie Moonen (Belgium), Tomas G. Neilan
+(United States of America), Jens Cosedis Nielsen (Denmark), Anna-Sonia Petronio (Italy), Eva Prescott
+(Denmark), Amina Rakisheva (Kazakhstan), Joe-Elie Salem (France), Gianluigi Savarese (Sweden), Marta Sitges
+(Spain), Jurrien ten Berg (Netherlands), Rhian M. Touyz (Canada/United Kingdom), Agnieszka Tycinska
+(Poland), Matthias Wilhelm (Switzerland), and Jose Luis Zamorano (Spain)
+All experts involved in the development of these Guidelines have submitted declarations of interest. These have
+been compiled in a report and published in a supplementary document simultaneously to the Guidelines. The
+report is also available on the ESC website www.escardio.org/Guidelines
+See the European Heart Journal online for supplementary data that includes background information and
+detailed discussion of the data that have provided the basis of the guidelines.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Keywords
+Guidelines • Androgen deprivation therapy • Anthracycline • Atrial ﬁbrillation • Arrhythmias • Biomarkers •
+Cancer • Cancer survivors • Carcinoid syndrome • Amyloid light-chain cardiac amyloidosis • Cardiac magnetic
+resonance • Cardiac tumour • Cardio-oncology • Cardiotoxicity • Coronary artery disease • Chemotherapy •
+Echocardiography • Fluoropyrimidine • Heart failure • Haematopoietic stem cell transplantation • Hormone therapy
+• Hypertension • Immunotherapy • Ischaemic heart disease • Myocarditis • Pericardial disease • Pulmonary
+hypertension • Thrombosis • Risk stratiﬁcation • Trastuzumab • Valvular heart disease • Vascular endothelial
+growth factor inhibitors (VEGFi) • Venous thromboembolism • Pericardial disease • Proteasome inhibitors • QTc
+prolongation • Radiotherapy • Strain
+The content of these European Society of Cardiology (ESC) Guidelines has been published for personal and educational use only. No commercial use is authorized. No part of the ESC
+Guidelines may be translated or reproduced in any form without written permission from the ESC. Permission can be obtained upon submission of a written request to Oxford University
+Press, the publisher of the European Heart Journal and the party authorized to handle such permissions on behalf of the ESC (journals.permissions@oup.com).
+Disclaimer: The ESC Guidelines represent the views of the ESC and were produced after careful consideration of the scientiﬁc and medical knowledge and the evidence available at the
+time of their publication. The ESC is not responsible in the event of any contradiction, discrepancy and/or ambiguity between the ESC Guidelines and any other ofﬁcial recommendations
+or guidelines issued by the relevant public health authorities, in particular in relation to good use of healthcare or therapeutic strategies. Health professionals are encouraged to take the
+ESC Guidelines fully into account when exercising their clinical judgement, as well as in the determination and the implementation of preventive, diagnostic or therapeutic medical strat-
+egies; however, the ESC Guidelines do not override, in any way whatsoever, the individual responsibility of health professionals to make appropriate and accurate decisions in consid-
+eration of each patient’s health condition and in consultation with that patient and, where appropriate and/or necessary, the patient’s caregiver. Nor do the ESC Guidelines exempt health
+professionals from taking into full and careful consideration the relevant ofﬁcial updated recommendations or guidelines issued by the competent public health authorities, in order to
+manage each patient’s case in light of the scientiﬁcally accepted data pursuant to their respective ethical and professional obligations. It is also the health professional’s responsibility to
+verify the applicable rules and regulations relating to drugs and medical devices at the time of prescription.
+This article has been co-published with permission in the European Heart Journal and the European Heart Journal – Cardiovascular Imaging. © The European Society of Cardiology 2022. All
+rights reserved. The articles are identical except for minor stylistic and spelling differences in keeping with each journal’s style. Either citation can be used when citing this article. For
+permissions please e-mail: journals.permissions@oup.com.
+4230
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 3 ===
+
+Table of contents
+1. Preamble ........................................................................................................
+4236
+2. Introduction .................................................................................................
+4238
+2.1. Cancer and cardiovascular needs of patients with cancer
+4238
+2.2. Role of cardio-oncology services ............................................... 4238
+2.3. General principles of cardio-oncology ..................................... 4239
+3. Cancer therapy-related cardiovascular toxicity deﬁnitions .....
+4242
+4. Cardiovascular toxicity risk stratiﬁcation before anticancer
+therapy .................................................................................................................
+4244
+4.1. General approach to cardiovascular toxicity risk in patients
+with cancer ................................................................................................... 4244
+4.2. History and clinical examination ................................................. 4249
+4.3. Electrocardiogram ............................................................................. 4249
+4.4. Cardiac serum biomarkers ............................................................ 4251
+4.5. Cardiovascular imaging ................................................................... 4252
+4.6. Cardiopulmonary ﬁtness assessment ....................................... 4253
+4.7. Cardiovascular risk evaluation before cancer surgery ...... 4254
+4.8. Genetic testing ................................................................................... 4254
+5. Prevention and monitoring of cardiovascular complications
+during cancer therapy ...................................................................................
+4254
+5.1. General principles ............................................................................. 4254
+5.2. Primary prevention strategies ...................................................... 4256
+5.2.1. Primary prevention of cancer therapy-related
+cardiovascular toxicity during anthracycline
+chemotherapy ..................................................................................
+4256
+5.2.2. Primary prevention of radiation-induced
+cardiovascular toxicity ..................................................................
+4256
+5.3. Secondary prevention strategies ................................................ 4257
+5.4. Cardiovascular surveillance during cancer therapies ......... 4257
+5.4.1. Cardiac serum biomarkers .............................................
+4257
+5.4.2. Cardiac imaging ....................................................................
+4257
+5.5. Cancer therapy-related cardiovascular toxicity monitoring
+protocols ....................................................................................................... 4259
+5.5.1. Anthracycline chemotherapy .........................................
+4259
+5.5.2. HER2-targeted therapies .................................................
+4259
+5.5.3. Fluoropyrimidines ...............................................................
+4261
+5.5.4. Vascular endothelial growth factor inhibitors ........
+4261
+5.5.5. Multitargeted kinase inhibitors targeting BCR-ABL
+4264
+5.5.6. Bruton tyrosine kinase inhibitors .................................
+4267
+5.5.7. Multiple myeloma therapies ...........................................
+4268
+5.5.8. Rapidly accelerated ﬁbrosarcoma and mitogen-
+activated extracellular signal-regulated kinase inhibitor
+treatment ............................................................................................
+4271
+5.5.9. Immune checkpoint inhibitors ......................................
+4273
+5.5.10. Androgen deprivation therapies for prostate
+cancer ...................................................................................................
+4274
+5.5.11. Endocrine therapies for breast cancer ...................
+4276
+5.5.12. Cyclin-dependent kinase 4/6 inhibitors ..................
+4276
+5.5.13. Anaplastic lymphoma kinase inhibitors ...................
+4277
+5.5.14. Epidermal growth factor receptor inhibitors ......
+4277
+5.5.15. Chimeric antigen receptor
+T cell and tumour-inﬁltrating lymphocytes therapies .....
+4278
+5.5.16. Radiotherapy ......................................................................
+4279
+5.5.17. Haematopoietic stem cell transplantation ............
+4279
+5.5.18. Other cancer treatments .............................................
+4282
+6. Diagnosis and management of acute and subacute
+cardiovascular toxicity in patients receiving anticancer treatment
+4282
+6.1. Cancer therapy-related cardiac dysfunction .......................... 4282
+6.1.1. Anthracycline chemotherapy-related cardiac
+dysfunction .........................................................................................
+4282
+6.1.2. Human epidermal receptor 2-targeted therapy-
+related cardiac dysfunction .........................................................
+4284
+6.1.3. Immune checkpoint inhibitor-associated
+myocarditis and non-inﬂammatory heart failure ...............
+4286
+6.1.4. Chimeric antigen receptor T cell and tumour-
+inﬁltrating lymphocytes therapies and heart dysfunction
+4290
+6.1.5. Heart failure during haematopoietic stem cell
+transplantation .................................................................................
+4291
+6.1.6. Takotsubo syndrome and cancer ................................
+4291
+6.2. Coronary artery disease ................................................................. 4291
+6.2.1. Acute coronary syndromes ............................................
+4291
+6.2.2. Chronic coronary syndromes .......................................
+4293
+6.3. Valvular heart disease ...................................................................... 4293
+6.4. Cardiac arrhythmias ......................................................................... 4294
+6.4.1. Atrial ﬁbrillation ...................................................................
+4294
+6.4.2. Long corrected QT interval and ventricular
+arrhythmias ........................................................................................
+4298
+6.4.3. Bradyarrhythmias ................................................................
+4300
+6.5. Arterial hypertension ....................................................................... 4300
+6.6. Thrombosis and thromboembolic events .............................. 4303
+6.6.1. Venous thromboembolism .............................................
+4303
+6.6.2. Arterial thromboembolism ............................................
+4304
+6.6.3. Intracardiac thrombosis ...................................................
+4304
+6.6.4. Anticoagulation therapy ...................................................
+4305
+6.7. Bleeding complications .................................................................... 4306
+6.7.1. High-risk patients ................................................................
+4306
+6.7.2. Antiplatelet therapy ...........................................................
+4306
+6.7.3. Management of bleeding ..................................................
+4306
+6.8. Peripheral artery disease ................................................................ 4307
+6.9. Pulmonary hypertension ................................................................ 4307
+6.10. Pericardial diseases ......................................................................... 4308
+6.10.1. Pericarditis ...........................................................................
+4308
+6.10.2. Pericardial effusion ...........................................................
+4308
+7. End-of-cancer therapy cardiovascular risk assessment .............
+4309
+7.1. Cardiovascular evaluation during the ﬁrst year after
+cardiotoxic anticancer therapy ............................................................ 4309
+7.2. Which cancer survivors require cardiovascular surveillance
+in the ﬁrst year after cancer treatment? .......................................... 4309
+7.3. Management of cancer therapy-related cardiac dysfunction
+at the end-of-therapy assessment ...................................................... 4310
+7.4. Cardiopulmonary exercise testing and ﬁtness during the
+end-of-therapy assessment .................................................................... 4310
+7.5. The role of cardiac rehabilitation ............................................... 4310
+8. Long-term follow-up and chronic cardiovascular complications
+in cancer survivors ..........................................................................................
+4312
+8.1. Cancer survivors ................................................................................ 4312
+8.1.1. Adult survivors of childhood and adolescent
+cancer ...................................................................................................
+4312
+8.1.2. Adult cancer survivors ......................................................
+4313
+8.2. Myocardial dysfunction and heart failure ................................ 4315
+8.3. Coronary artery disease ................................................................. 4316
+8.4. Valvular heart disease ...................................................................... 4317
+8.5. Peripheral artery disease and stroke ........................................ 4317
+8.6. Pericardial complications ................................................................ 4317
+8.7. Arrhythmias and autonomic disease ......................................... 4318
+ESC Guidelines
+4231
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 4 ===
+
+8.8. Metabolic syndrome, lipid abnormalities, diabetes mellitus,
+and hypertension ........................................................................................ 4318
+8.9. Pregnancy in cancer survivors ..................................................... 4318
+8.10. Pulmonary hypertension .............................................................. 4319
+9. Special populations ....................................................................................
+4319
+9.1. Cardiac tumours ................................................................................ 4319
+9.2. Pregnant patients with cancer ..................................................... 4319
+9.2.1. Left ventricular dysfunction and heart failure ........
+4320
+9.2.2. Venous thromboembolism and pulmonary
+embolism ..................................................................................... 4320
+9.3. Carcinoid valvular heart disease ................................................. 4323
+9.4. Amyloid light-chain cardiac amyloidosis .................................. 4324
+9.5. Cardiac implantable electronic devices .................................... 4326
+10. Patient information, communication, and self-management
+4330
+11. The role of scientiﬁc societies in the promotion and
+development of cardio-oncology in modern medicine ..................
+4331
+12. Key messages ............................................................................................
+4331
+13. Future needs ..............................................................................................
+4332
+14. Gaps in evidence ......................................................................................
+4333
+15. ‘What to do’ and ‘what not to do’ messages from the
+Guidelines ...........................................................................................................
+4333
+16. Quality indicators for cardio-oncology ..........................................
+4342
+17. Supplementary data ................................................................................
+4342
+18. Data availability statement ...................................................................
+4342
+19. Author information ................................................................................
+4342
+20. Appendix .....................................................................................................
+4342
+21. References ..................................................................................................
+4343
+Tables of Recommendations
+Recommendation Table 1 — Recommendations for a general
+approach to cardiovascular toxicity risk categorization .................
+4249
+Recommendation Table 2 — Recommendations for
+electrocardiogram baseline assessment ................................................
+4251
+Recommendation Table 3 — Recommendation for cardiac
+biomarker assessment prior to potentially cardiotoxic therapies .
+4252
+Recommendation Table 4 — Recommendations for cardiac
+imaging modalities in patients with cancer ..........................................
+4253
+Recommendation Table 5 — Recommendations for
+primary prevention of cancer therapy-related cardiovascular
+toxicity ......................................................................................................... 4256
+Recommendation Table 6 — Recommendation for secondary
+prevention of cancer therapy-related cardiovascular toxicity .....
+4257
+Recommendation Table 7 — Recommendations for baseline risk
+assessment and monitoring during anthracycline chemotherapy
+and in the ﬁrst 12 months after therapy ..............................................
+4259
+Recommendation Table 8 — Recommendations for baseline risk
+assessment and monitoring during human epidermal receptor
+2-targeted therapies and in the ﬁrst 12 months after therapy ...
+4260
+Recommendation Table 9 — Recommendations for baseline risk
+assessment and monitoring during ﬂuoropyrimidine therapy .....
+4261
+Recommendation Table 10 — Recommendations for baseline
+risk assessment and monitoring during vascular endothelial
+growth factor inhibitors ...............................................................................
+4264
+Recommendation Table 11 — Recommendations for baseline
+risk assessment and monitoring during second- and
+third-generation breakpoint cluster region–Abelson oncogene
+locus tyrosine kinase inhibitors .................................................................
+4267
+Recommendation Table 12 — Recommendations for baseline
+risk assessment and monitoring during Bruton tyrosine kinase
+inhibitor therapy ..............................................................................................
+4267
+Recommendation Table 13 — Recommendations for baseline
+risk assessment and monitoring during multiple myeloma
+therapies ..................................................................................................... 4271
+Recommendation Table 14 — Recommendations for baseline
+risk assessment and monitoring during combined rapidly
+accelerated ﬁbrosarcoma and mitogen-activated extracellular
+signal-regulated kinase inhibitor therapy ...............................................
+4272
+Recommendation Table 15 — Recommendations for baseline
+risk assessment and monitoring during immunotherapy ...............
+4274
+Recommendation Table 16 — Recommendations for baseline
+risk assessment and monitoring during androgen deprivation
+therapy for prostate cancer .......................................................................
+4276
+Recommendation Table 17 — Recommendations for baseline
+risk assessment and monitoring during endocrine therapy for
+breast cancer ....................................................................................................
+4276
+Recommendation Table 18 — Recommendations for baseline
+risk assessment and monitoring during cyclin-dependent kinase
+4/6 inhibitor therapy ......................................................................................
+4277
+Recommendation Table 19 — Recommendations for baseline
+risk assessment and monitoring during anaplastic lymphoma
+kinase and epidermal growth factor receptor inhibitors ...............
+4277
+Recommendation Table 20 — Recommendations for baseline
+risk assessment and monitoring in patients receiving chimeric
+antigen receptor T cell and tumour-inﬁltrating lymphocytes
+therapies .............................................................................................................
+4279
+Recommendation Table 21 — Recommendations for baseline
+risk assessment of patients before radiotherapy to a volume
+including the heart ..........................................................................................
+4279
+Recommendation Table 22 — Recommendations for baseline
+risk assessment in haematopoietic stem cell transplantation
+patients ................................................................................................................
+4281
+Recommendation Table 23 — Recommendation for the
+management of cardiovascular disease and cancer
+therapy-related cardiovascular toxicity in patients receiving
+anticancer treatment .....................................................................................
+4282
+Recommendation Table 24 — Recommendations for the
+management of cancer treatment-related cardiac dysfunction
+during anthracycline chemotherapy ........................................................
+4284
+Recommendation Table 25 — Recommendations for the
+management of cancer treatment-related cardiac dysfunction
+during human epidermal receptor 2-targeted therapies ...............
+4286
+Recommendation Table 26 — Recommendations for the
+diagnosis and management of immune checkpoint
+inhibitor-associated myocarditis ...............................................................
+4289
+Recommendation Table 27 — Recommendations for the
+diagnosis and management of Takotsubo syndrome in patients
+with cancer ........................................................................................................
+4291
+Recommendation Table 28 — Recommendations for the
+management of acute coronary syndromes in patients receiving
+anticancer treatment .....................................................................................
+4292
+Recommendation Table 29 — Recommendation for the
+management of chronic coronary syndromes in patients receiving
+anticancer treatment .....................................................................................
+4293
+Recommendation Table 30 — Recommendations for the
+management of valvular heart disease in patients receiving
+anticancer treatment .....................................................................................
+4293
+4232
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 5 ===
+
+Recommendation Table 31 — Recommendations for the
+management of atrial ﬁbrillation in patients receiving anticancer
+treatment ............................................................................................................
+4297
+Recommendation Table 32 — Recommendations for the
+management of long corrected QT interval and ventricular
+arrhythmias in patients receiving anticancer treatment .................
+4300
+Recommendation Table 33 — Recommendations for the
+management of arterial hypertension in patients receiving
+anticancer treatment .....................................................................................
+4302
+Recommendation Table 34 — Recommendations for the
+management of venous thromboembolism in patients receiving
+anticancer treatment .....................................................................................
+4305
+Recommendation Table 35 — Recommendations for venous
+thromboembolism prophylaxis during anticancer treatment ......
+4306
+Recommendation Table 36 — Recommendation for management
+of peripheral artery disease during anticancer treatment ..................
+4307
+Recommendation Table 37 — Recommendations for the
+management of pulmonary hypertension during anticancer
+treatment ............................................................................................................
+4308
+Recommendation Table 38 — Recommendations for the
+management of pericardial diseases in patients receiving
+anticancer treatment .....................................................................................
+4309
+Recommendation Table 39 — Recommendations for
+end-of-cancer therapy cardiovascular risk assessment ...................
+4312
+Recommendation Table 40 — Recommendations for
+cardiovascular surveillance in asymptomatic adults who are
+childhood and adolescent cancer survivors .........................................
+4313
+Recommendation Table 41 — Recommendations for
+cardiovascular surveillance in asymptomatic adult cancer survivors
+4314
+Recommendation Table 42 — Recommendations for adult
+cancer survivors who develop cancer therapy-related cardiac
+dysfunction late after cardiotoxic cancer therapy ............................
+4316
+Recommendation Table 43 — Recommendations for adult
+cancer survivors with coronary artery disease ..................................
+4316
+Recommendation Table 44 — Recommendations for adult
+cancer survivors with valvular heart disease .......................................
+4317
+Recommendation Table 45 — Recommendation for adult cancer
+survivors with pericardial complications ...............................................
+4318
+Recommendation Table 46 — Recommendations for
+cardiovascular monitoring in cancer survivors during pregnancy
+4319
+Recommendation Table 47 — Recommendations for cardiovascular
+assessment and monitoring of pregnant women with cancer .............
+4323
+Recommendation Table 48 — Recommendations for carcinoid
+valvular heart diseases ...................................................................................
+4323
+Recommendation Table 49 — Recommendations for amyloid
+light-chain cardiac amyloidosis diagnosis and monitoring ..............
+4326
+Recommendation Table 50 — Recommendations for risk
+stratiﬁcation and monitoring for patients with cardiac implantable
+electronic devices undergoing radiotherapy ....................................................
+4330
+List of tables
+Table 1 Classes of recommendations ....................................................
+4237
+Table 2 Levels of evidence ..........................................................................
+4237
+Table 3 Cancer therapy-related cardiovascular toxicity deﬁnitions
+4243
+Table 4 Heart Failure Association–International Cardio-Oncology
+Society baseline cardiovascular toxicity risk stratiﬁcation ............... 4246
+Table 5 Anthracycline equivalence dose ...............................................
+4247
+Table 6 Factors that could inﬂuence peri-operative risk during
+cancer surgery and preventive strategies .............................................
+4254
+Table 7 Cancer treatments that predispose to acute coronary
+syndromes ..........................................................................................................
+4291
+Table 8 Risk factors for drug-induced QT prolongation and
+torsade de pointes ..........................................................................................
+4298
+Table 9 Classiﬁcation of corrected QT interval prolongation
+induced by cancer drug therapy ...............................................................
+4298
+Table 10 Risk factors for future cardiovascular disease at the
+end-of-cancer therapy cardiovascular risk assessment ...................
+4310
+Table 11 Risk categories for asymptomatic adults who are
+childhood and adolescent cancer survivors .........................................
+4313
+Table 12 Risk categories for asymptomatic adult cancer survivors
+4314
+Table 13 Management strategies and surgery indications for
+symptomatic and asymptomatic patients with benign and
+malignant cardiac tumours ..........................................................................
+4321
+List of ﬁgures
+Figure 1 Video 1 Central Illustration: Dynamics of
+cardiovascular toxicity risk of patients with cancer over their
+therapy continuum .................................................................................. 4239
+Figure 2 Cardio-oncology care pathways .............................................
+4240
+Figure 3 Baseline cardiovascular toxicity risk assessment checklist
+4241
+Figure 4 Dimensions of cancer therapy-related cardiovascular
+toxicity risk and disease severity ..............................................................
+4242
+Figure 5 Baseline cardiovascular toxicity risk assessment before
+anticancer therapy ..........................................................................................
+4245
+Figure 6 General cardio-oncology approach after Heart Failure
+Association–International Cardio-Oncology Society
+cardiovascular toxicity risk assessment ................................................ 4248
+Figure 7 Baseline screening recommendations for patients with
+cancer treated with potentially cardiotoxic drugs ............................
+4250
+Figure 8 Recommended transthoracic echocardiography and
+cardiac magnetic resonance imaging parameters in the evaluation of
+patients with cancer ...............................................................................................
+4252
+Figure 9 Primary and secondary cancer therapy-related
+cardiovascular toxicity prevention ..................................................................
+4255
+Figure 10 Cardiovascular toxicity monitoring in patients receiving
+anthracycline chemotherapy ......................................................................
+4258
+Figure 11 Cardiovascular toxicity monitoring in patients receiving
+human epidermal receptor 2-targeted therapies ..............................
+4260
+Figure 12 Vascular endothelial growth factor inhibitors-related
+cardiovascular toxicities ...............................................................................
+4262
+Figure 13 Cardiovascular toxicity monitoring in patients receiving
+vascular endothelial growth factor inhibitors .....................................
+4263
+Figure 14 Breakpoint cluster region–Abelson oncogene locus
+tyrosine kinase inhibitor-related cardiovascular toxicities ............
+4265
+Figure 15 Second- and third-generation breakpoint cluster
+region–Abelson oncogene locus tyrosine kinase inhibitors
+surveillance protocol .....................................................................................
+4266
+Figure 16 Multiple myeloma drug-related cardiovascular toxicities
+4268
+Figure 17 Cardiovascular monitoring in patients with multiple
+myeloma receiving proteasome inhibitors ...........................................
+4269
+Figure 18 Risk factors for venous thromboembolic events in
+patients with multiple myeloma ...............................................................
+4270
+Figure 19 Rapidly accelerated ﬁbrosarcoma and mitogen-activated
+extracellular signal-regulated kinase inhibitor-related cardiovascular
+toxicities ........................................................................................................................
+4272
+ESC Guidelines
+4233
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 6 ===
+
+Figure 20 Cardiovascular surveillance in patients treated with
+immune checkpoint inhibitors ...................................................................
+4273
+Figure 21 Androgen deprivation therapy-related cardiovascular
+toxicities ..............................................................................................................
+4275
+Figure 22 Anaplastic lymphoma kinase and epidermal growth
+factor receptor inhibitor-related cardiovascular toxicities ...........
+4278
+Figure 23 Radiotherapy mean heart dose and associated
+cardiovascular toxicity risk ..........................................................................
+4280
+Figure 24 Risk factors and cardiovascular surveillance in patients
+referred for haematopoietic stem cell transplantation ..................
+4281
+Figure 25 Management of anthracycline chemotherapy-related
+cardiac dysfunction .........................................................................................
+4283
+Figure 26 Management of human epidermal receptor 2-targeted
+therapy-related cardiac dysfunction ........................................................
+4285
+Figure 27 Direct and indirect immune checkpoint
+inhibitor-related cardiovascular toxicity ................................................
+4287
+Figure 28 Diagnosis and management of immune checkpoint
+inhibitor-related myocarditis ......................................................................
+4288
+Figure 29 Diagnosis and management workup in cancer-related
+Takotsubo syndrome ....................................................................................
+4290
+Figure 30 Pathophysiology of atrial ﬁbrillation associated with
+cancer ...................................................................................................................
+4295
+Figure 31 Structured approach to anticoagulation for atrial
+ﬁbrillation in patients with cancer ............................................................
+4296
+Figure 32 Corrected QT interval monitoring before and during
+treatment with corrected QT interval-prolonging anticancer drugs
+4299
+Figure 33 Recommended threshold for asymptomatic
+hypertension treatment in different clinical scenarios ....................
+4301
+Figure 34 Treatment of arterial hypertension in patients with
+cancer ...................................................................................................................
+4302
+Figure 35 Risk factors for venous thromboembolism in patients
+with cancer ........................................................................................................
+4303
+Figure 36 Structured approach to anticoagulation for venous
+thromboembolism in patients with active cancer ............................
+4304
+Figure 37 Management of cancer therapy-related cardiac
+dysfunction after cancer therapy .............................................................
+4311
+Figure 38 Long-term follow-up in cancer survivors .........................
+4315
+Figure 39 Location of primary and secondary cardiac tumours .
+4320
+Figure 40 Diagnostic algorithm for cardiac masses ..........................
+4321
+Figure 41 Cardiac monitoring protocol for pregnant women
+receiving anthracycline-based chemotherapy .....................................
+4322
+Figure 42 Carcinoid heart disease: clinical features and diagnostic
+tests .......................................................................................................................
+4324
+Figure 43 Non-invasive diagnosis of amyloid light-chain cardiac
+amyloidosis .........................................................................................................
+4325
+Figure 44 Risk stratiﬁcation in patients with a cardiac implantable
+electronic device undergoing radiotherapy .........................................
+4327
+Figure 45 Management of patients with a cardiac implantable
+electronic device located in the radiotherapy treatment beam .
+4328
+Figure 46 Management of patients with a cardiac implantable
+electronic device located outside the radiotherapy treatment
+volume .................................................................................................................
+4329
+Figure 47 Patient information, communication, and
+self-management ..............................................................................................
+4330
+Figure 48 The role of scientiﬁc societies in the promotion and
+development of cardio-oncology .............................................................
+4331
+Abbreviations and acronyms
+2D
+Two-dimensional
+3D
+Three-dimensional
+5-FU
+5-ﬂuorouracil
+5HIAA
+5-hydroxyindoleacetic acid
+a′
+Late diastolic velocity of mitral annulus
+obtained by tissue Doppler imaging
+ABC
+Atrial ﬁbrillation Better Care
+ABI
+Ankle–brachial index
+AC
+Anthracycline chemotherapy
+ACE-I
+Angiotensin-converting enzyme inhibitors
+ACS
+Acute coronary syndromes
+ADT
+Androgen deprivation therapy
+ADVANCE
+Action in Diabetes and Vascular Disease:
+Preterax and Diamicron-MR Controlled
+Evaluation
+AF
+Atrial ﬁbrillation
+AI
+Aromatase inhibitors
+AL-CA
+Amyloid light-chain cardiac amyloidosis
+ALK
+Anaplastic lymphoma kinase
+ANS
+Autonomic nervous system
+ARB
+Angiotensin receptor blockers
+ARISTOTLE
+Apixaban for Reduction in Stroke and Other
+Thromboembolic Events in Atrial Fibrillation
+ASCVD
+AtheroSclerotic Cardiovascular Disease
+ASPIRE
+Carﬁlzomib, Lenalidomide, and
+Dexamethasone vs. Lenalidomide and
+Dexamethasone for the Treatment of
+Patients with Relapsed Multiple Myeloma
+ASTCT
+American Society for Transplantation and
+Cellular Therapy
+ATAC
+‘Arimidex’ and Tamoxifen Alone or in
+Combination
+ATE
+Arterial thromboembolism
+AV
+Atrioventricular
+BB
+Beta-blockers
+BC
+Breast cancer
+BCR-ABL
+Breakpoint cluster region–Abelson oncogene
+locus
+BIG
+Breast International Group
+BLEED
+Increased bleeding risk
+BMI
+Body mass index
+BNP
+B-type natriuretic peptide
+BP
+Blood pressure
+BTK
+Bruton tyrosine kinase
+C
+Chemotherapy cycle
+CABG
+Coronary artery bypass graft
+CAD
+Coronary artery disease
+CARDIOTOX
+CARDIOvascular TOXicity induced by
+cancer-related therapies
+CAR-T
+Chimeric antigen receptor T cell
+CCB
+Calcium channel blockers
+CCS
+Chronic coronary syndromes
+CCTA
+Coronary computed tomography
+angiography
+4234
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 7 ===
+
+CCU
+Coronary care unit
+CDK
+Cyclin-dependent kinase
+CHA2DS2-VASc
+Congestive heart failure, Hypertension, Age
+≥75 years (2 points), Diabetes mellitus,
+Stroke (2 points)—Vascular disease, Age
+65–74 years, Sex category (female)
+CIED
+Cardiac implantable electronic device
+CML
+Chronic myeloid leukaemia
+CMR
+Cardiac magnetic resonance
+COMPASS-CAT
+Prospective COmparison of Methods for
+thromboembolic risk assessment with clinical
+Perceptions and AwareneSS in real-life
+patients—Cancer Associated Thrombosis
+CPET
+Cardiopulmonary exercise testing
+CrCl
+Creatinine clearance
+CRF
+Cardiorespiratory ﬁtness
+CRS
+Cytokine release syndrome
+CS
+Cancer survivors
+CT
+Computed tomography
+CTLA-4
+Cytotoxic T lymphocyte-associated
+antigen-4
+cTn
+Cardiac troponin
+CTRCD
+Cancer therapy-related cardiac
+dysfunction
+CTR-CVT
+Cancer therapy-related cardiovascular
+toxicity
+CV
+Cardiovascular
+CVD
+Cardiovascular disease
+CVRF
+Cardiovascular risk factors
+DAPT
+Dual antiplatelet therapy
+DASISION
+DASatinib vs. Imatinib Study In
+treatment-Naïve chronic myeloid
+leukaemia patients
+DL
+Dyslipidaemia
+DM
+Diabetes mellitus
+DNR
+Do not resuscitate
+DVT
+Deep vein thrombosis
+E
+Mitral inﬂow early diastolic velocity
+obtained by pulsed wave
+e′
+Early diastolic velocity of the mitral annulus
+obtained by tissue Doppler imaging
+EACTS
+European Association for Cardio-Thoracic
+Surgery
+EBC
+Early breast cancer
+ECG
+Electrocardiogram
+Echo
+Echocardiography
+ECV
+Extracellular volume fraction
+eGFR
+Estimated glomerular ﬁltration rate
+EGFR
+Epidermal growth factor receptor
+EMA
+European Medicines Agency
+EMB
+Endomyocardial biopsy
+ENGAGE AF-TIMI 48
+Effective Anticoagulation with Factor
+Xa Next Generation in Atrial Fibrillation-
+Thrombolysis in Myocardial Infarction 48
+ENOXACAN
+Enoxaparin and Cancer
+EoL
+End of life
+ERS
+European Respiratory Society
+ESC
+European Society of Cardiology
+ESC-CCO
+European Society of Cardiology Council of
+Cardio-Oncology
+ESH
+European Society of Hypertension
+EuroSCORE
+European System for Cardiac Operative
+Risk Evaluation
+FAC
+Fractional area change
+FDA
+Food and Drug Administration
+FLT3
+FMS-like tyrosine kinase 3
+FWLS
+Free wall longitudinal strain
+GI
+Gastrointestinal
+GLS
+Global longitudinal strain
+GnRH
+Gonadotropin-releasing hormone
+GU
+Genitourinary
+GVHD
+Graft vs. host disease
+Gy
+Gray
+HAS-BLED
+Hypertension, Abnormal renal and liver
+function, Stroke, Bleeding Labile
+international normalized ratio, Elderly,
+Drugs or alcohol
+HbA1c
+Glycated haemoglobin
+HDU
+High-dependency unit
+HER2
+Human epidermal receptor 2
+HF
+Heart failure
+HFA
+Heart Failure Association
+HFmrEF
+Heart failure with mildly reduced ejection
+fraction
+HFpEF
+Heart failure with preserved ejection fraction
+HFrEF
+Heart failure with reduced ejection fraction
+HG
+Hyperglycaemia
+HIIT
+High-intensity interval training
+HSCT
+Haematopoietic stem cell transplantation
+hs-cTn
+High-sensitivity cardiac troponin
+HTN
+Hypertension
+ICD
+Implantable cardioverter deﬁbrillator
+ICI
+Immune checkpoint inhibitors
+ICOS
+International Cardio-Oncology Society
+ICU
+Intensive care unit
+IHD
+Ischaemic heart disease
+IMiD
+Immunomodulatory drugs
+i.v.
+Intravenous
+IVC
+Inferior vena cava
+IVS
+Intraventricular septum
+LA
+Left atrial
+LAA
+Left atrial appendage
+LGE
+Late gadolinium enhancement
+LIMA
+Left internal mammary artery
+LMWH
+Low-molecular-weight heparins
+LQTS
+Long QT syndrome
+LS
+Longitudinal strain
+LV
+Left ventricular
+LVD
+Left ventricular dysfunction
+LVEDD
+Left ventricular end diastolic diameter
+LVEF
+Left ventricular ejection fraction
+LVV
+Left ventricular volume
+M
+Months
+MACE
+Major adverse cardiovascular events
+MCS
+Mechanical circulatory support
+MDT
+Multidisciplinary team
+ESC Guidelines
+4235
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 8 ===
+
+MedDRA
+Medical dictionary for regulatory activities
+MEK
+Mitogen-activated extracellular
+signal-regulated kinase
+MHD
+Mean heart dose
+MI
+Myocardial infarction
+MM
+Multiple myeloma
+MUGA
+Multigated acquisition nuclear imaging
+N
+No
+NOAC
+Non-vitamin K antagonist oral
+anticoagulants
+NP
+Natriuretic peptides
+NSTE-ACS
+Non-ST-segment elevation acute coronary
+syndromes
+NT-proBNP
+N-terminal pro-B-type natriuretic peptide
+PAD
+Peripheral artery disease
+PAH
+Pulmonary arterial hypertension
+PAP
+Pulmonary arterial pressure
+PCI
+Percutaneous coronary intervention
+PD-1
+Programmed death-1
+PD-L1
+Programmed death-ligand 1
+PE
+Pulmonary embolism
+Peric-E
+Pericardial effusion
+PET
+Positron emission tomography
+PH
+Pulmonary hypertension
+PI
+Proteasome inhibitors
+Pleu-E
+Pleural effusion
+PRECISE-DAPT
+PREdicting bleeding Complications In
+patients undergoing Stent implantation and
+subsEquent Dual Anti Platelet Therapy
+PRONOUNCE
+A Trial Comparing Cardiovascular Safety
+of Degarelix Versus Leuprolide in Patients
+With Advanced Prostate Cancer and
+Cardiovascular Disease
+PW
+Left ventricular posterior wall
+QI
+Quality indicator
+↑QTc
+Corrected QT interval prolongation
+QTc
+Corrected QT interval
+QTcF
+Corrected QT interval using Fridericia
+correction
+RA
+Right atrial
+RAF
+Rapidly accelerated ﬁbrosarcoma
+RCT
+Randomized controlled trial
+RIMA
+Right internal mammary artery
+ROCKET AF
+Rivaroxaban Once Daily Oral Direct Factor
+Xa Inhibition Compared with Vitamin K
+Antagonism for Prevention of Stroke and
+Embolism Trial in Atrial Fibrillation
+RT
+Radiotherapy
+RV
+Right ventricular
+RVEF
+Right ventricular ejection fraction
+RVV
+Right ventricular volume
+s′
+Systolic velocity of tricuspid annulus
+obtained by doppler tissue imaging
+SBr
+Sinus bradycardia
+SCORE2
+Systematic Coronary Risk Estimation 2
+SCORE2-OP
+Systematic Coronary Risk Estimation 2—
+Older Persons
+SEER
+Surveillance, Epidemiology, and End Results
+SMART
+Second manifestations of arterial disease
+sPAP
+Systolic pulmonary artery pressure
+SPEP
+Serum protein electrophoresis
+STEMI
+ST-segment elevation myocardial infarction
+STIR
+Short tau inversion recovery
+STS PROM
+Society of Thoracic Surgeons – Predicted
+Risk of Mortality
+SVT
+Supraventricular tachycardia
+SYNTAX
+SYNergy between percutaneous coronary
+intervention with TAXus and cardiac surgery
+TAPSE
+Tricuspid annular plane systolic excursion
+TAVI
+Transcatheter aortic valve implantation
+TBIP
+Thromboembolic risk, Bleeding risk, drug–
+drug Interactions, Patient preferences
+TdP
+Torsade de pointes
+TIL
+Tumour-inﬁltrating lymphocytes
+TKI
+Tyrosine kinase inhibitors
+TRV
+Tricuspid regurgitation velocity
+TTE
+Transthoracic echocardiography
+TTS
+Takotsubo syndrome
+tx
+Treatment
+ULN
+Upper limit of normal
+UPEP
+Urine protein electrophoresis
+VA
+Ventricular arrhythmias
+VascTox
+Vascular toxicity
+VEGF
+Vascular endothelial growth factor
+VEGFi
+Vascular endothelial growth factor inhibitors
+VH
+Very high risk
+VHD
+Valvular heart disease
+VKA
+Vitamin K antagonists
+VTE
+Venous thromboembolism
+Y
+Yes
+1. Preamble
+Guidelines summarize and evaluate available evidence with the aim of
+assisting health professionals in proposing the best management strat-
+egies for an individual patient with a given condition. Guidelines and
+their recommendations should facilitate decision making of health pro-
+fessionals in their daily practice. However, guidelines are not a substi-
+tute for the patient’s relationship with their practitioner. The ﬁnal
+decisions concerning an individual patient must be made by the re-
+sponsible health professional(s), based on what they consider to be
+the most appropriate in the circumstances. These decisions are
+made in consultation with the patient and caregiver as appropriate.
+Guidelines are intended for use by health professionals. To ensure
+that all users have access to the most recent recommendations, the
+ESC makes its Guidelines freely available. The ESC warns readers
+that the technical language may be misinterpreted and declines any
+responsibility in this respect.
+A great number of guidelines have been issued in recent years by the
+ESC. Because of their impact on clinical practice, quality criteria for the
+development of guidelines have been established to make all decisions
+transparent to the user. The recommendations for formulating and is-
+suing ESC Guidelines can be found on the ESC website (https://www.
+escardio.org/Guidelines). The ESC Guidelines represent the ofﬁcial pos-
+ition of the ESC on a given topic and are regularly updated.
+4236
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 9 ===
+
+In addition to the publication of Clinical Practice Guidelines, the ESC
+carries out the EURObservational Research Programme of internation-
+al registries of cardiovascular diseases and interventions, which are es-
+sential to assess diagnostic/therapeutic processes, use of resources
+and adherence to guidelines. These registries aim at providing a better
+understanding of medical practice in Europe and around the world,
+based on high-quality data collected during routine clinical practice.
+Furthermore, the ESC develops sets of quality indicators (QIs),
+which are tools to evaluate the level of implementation of the guide-
+lines and may be used by the ESC, hospitals, healthcare providers and
+professionals to measure clinical practice, and in educational pro-
+grammes, alongside the key messages from the guidelines, to im-
+prove quality of care and clinical outcomes.
+The Members of this Task Force were selected by the ESC to re-
+present professionals involved with the medical care of patients with
+this pathology. The selection procedure aimed to ensure that there is
+a representative mix of members predominantly from across the whole
+of the ESC region and from relevant ESC Subspecialty Communities.
+Consideration was given to diversity and inclusion, notably with respect
+to gender and country of origin. A critical evaluation of diagnostic and
+therapeutic procedures was performed, including assessment of the
+risk–beneﬁt ratio. The level of evidence and the strength of the recom-
+mendation of particular management options were weighed and scored
+according to predeﬁned scales, as outlined below. The Task Force fol-
+lowed the ESC voting procedures. All recommendations subject to a
+vote achieved at least 75% among voting members.
+The experts of the writing and reviewing panels provided declar-
+ation of interest forms for all relationships that might be perceived as
+real or potential sources of conﬂicts of interest. Their declarations of
+interest were reviewed according to the ESC declaration of interest
+rules and can be found on the ESC website (http://www.escardio.org/
+Guidelines) and have been compiled in a report and published in a
+supplementary document simultaneously to the guidelines.
+This process ensures transparency and prevents potential biases in
+the development and review processes. Any changes in declarations
+of interest that arise during the writing period were notiﬁed to the
+Table 1
+Classes of recommendations
+©ESC 2022
+Classes of recommendations
+Class I 
+Evidence and/or general agreement
+that a given treatment or procedure is
+beneficial, useful, effective.
+efficacy of the given treatment or procedure.
+favour of usefulness/efficacy.
+Usefulness/efficacy is less well
+useful/effective, and in some cases
+Conﬂicting evidence and/or a divergence of opinion about the usefulness/ 
+ 
+Is recommended or is indicated
+Wording to use
+Deﬁnition
+Class III 
+Evidence or general agreement that the
+given treatment or procedure is not
+may be harmful. 
+Is not recommended
+     Class IIb
+established by evidence/opinion.
+May be considered
+ 
+   Class IIa
+Weight of evidence/opinion is in
+Should be considered
+Class II 
+Table 2
+Levels of evidence
+Level of
+evidence A
+Level of
+evidence B
+Level of
+evidence C
+Data derived from multiple randomized clinical trials
+or meta-analyses.
+Data derived from a single randomized clinical trial
+or large non-randomized studies.
+Consensus of opinion of the experts and/or small studies,
+retrospective studies, registries.
+©ESC 2022
+ESC Guidelines
+4237
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 10 ===
+
+ESC and updated. The Task Force received its entire ﬁnancial support
+from the ESC without any involvement from the healthcare industry.
+The ESC CPG supervises and coordinates the preparation of new
+guidelines. The Committee is also responsible for the approval pro-
+cess of these guidelines. The ESC Guidelines undergo extensive re-
+view by the CPG and external experts, including a mix of
+members from across the whole of the ESC region and from relevant
+ESC Subspecialty Communities and National Cardiac Societies. After
+appropriate revisions, the guidelines are signed off by all the experts
+involved in the Task Force. The ﬁnalized document is signed off by
+the CPG for publication in the European Heart Journal. The guidelines
+were developed after careful consideration of the scientiﬁc and med-
+ical knowledge and the evidence available at the time of their writing.
+The task of developing ESC Guidelines also includes the creation of
+educational tools and implementation programmes for the recommen-
+dations, including condensed pocket guideline versions, summary slides,
+summary cards for non-specialists and an electronic version for digital
+applications (smartphones, etc.). These versions are abridged and thus,
+for more detailed information, the user should always access the full-
+text version of the guidelines, which is freely available via the ESC web-
+site and the European Heart Journal. The National Cardiac Societies of
+the ESC are encouraged to endorse, adopt, translate and implement all
+ESC Guidelines. Implementation programmes are needed because it
+has been shown that the outcome of disease may be favourably inﬂu-
+enced by the thorough application of clinical recommendations.
+Health professionals are encouraged to take the ESC Guidelines
+fully into account when exercising their clinical judgement, as well
+as in the determination and the implementation of preventive, diag-
+nostic or therapeutic medical strategies. However, the ESC
+Guidelines do not override in any way whatsoever the individual re-
+sponsibility of health professionals to make appropriate and accurate
+decisions in consideration of each patient’s health condition and in
+consultation with that patient or the patient’s caregiver where ap-
+propriate and/or necessary. It is also the health professional’s re-
+sponsibility to verify the rules and regulations applicable in each
+country to drugs and devices at the time of prescription and to re-
+spect the ethical rules of their profession.
+Off-label use of medication may be presented in this guideline if
+sufﬁcient level of evidence shows that it can be considered medically
+appropriate to a given condition and if patients could beneﬁt from
+the recommended therapy. However, the ﬁnal decisions concerning
+an individual patient must be made by the responsible health profes-
+sional giving special consideration to:
+(1) the speciﬁc situation of the patient. In this respect, it is speciﬁed
+that, unless otherwise provided for by national regulations, off-
+label use of medication should be limited to situations where it
+is in the patient’s interest to do so, with regard to the quality,
+safety and efﬁcacy of care, and only after the patient has been in-
+formed and has provided consent;
+(2) country-speciﬁc health regulations, indications by governmental
+drug regulatory agencies and the ethical rules to which health
+professionals are subject, where applicable.
+2. Introduction
+This is the ﬁrst European Society of Cardiology (ESC) guideline on
+cardio-oncology. The aim of this guideline is to help all the healthcare
+professionals providing care to oncology patients before, during, and
+after their cancer treatments with respect to their cardiovascular (CV)
+health and wellness. This guideline provides guidance on the deﬁnitions,
+diagnosis, treatment, and prevention of cancer therapy-related CV
+toxicity (CTR-CVT), and the management of CV disease (CVD)
+caused directly or indirectly by cancer. This area of medicine has lim-
+ited trials and evidence on which to base decision-making and,
+where evidence is limited, this guideline provides the consensus of
+expert opinion to guide healthcare professionals.
+This guideline includes the deﬁnitions of CTR-CVT (Section 3),1 and
+provides a personalized approach to care based upon the baseline
+CV toxicity risk assessment (Section 4) and new protocols for CV sur-
+veillance during cancer treatment (Section 5). The management of acute
+CTR-CVT is addressed in Section 6, where patients with activecancer are
+those receiving anticancer treatment. Throughout these sections,
+decision-making depends upon the risk/beneﬁt balance of oncology
+treatment efﬁcacy and the severity and impact of CTR-CVT. Guidance
+is provided for the ﬁrst 12 months after completion of cardiotoxic treat-
+ments (Section 7), when subacute CVD can emerge, and when patients
+who developed CTR-CVT during cancer treatment are reviewed.
+Diagnosis and management of the long-term CV complications of previ-
+ous oncology treatments, beyond 12 months after completing the cardi-
+otoxic treatments, and integration into the overall survivorship strategy
+for cancer survivors (CS) is presented in Section 8 with new long-term
+surveillance recommendations for high-risk patients.
+In Section 9, we address special populations where CVDs are dir-
+ectly caused by the cancer, or where special considerations are re-
+quired. Section 10 provides information for patients’ involvement in
+their own care. The ﬁnal section highlights the role of the ESC and
+the ESC Council of Cardio-Oncology (ESC-CCO).
+CTR-CVT risk is a dynamic variable, and the risk changes through-
+out the pathway of care (Figure 1, Video 1). Absolute risk of
+CTR-CVT is important to understand and balance against the abso-
+lute beneﬁt of the cancer treatment before and during treatment.
+However, CTR-CVT risk can be inﬂuenced by several variables, in-
+cluding implementation of primary prevention treatments, optimiza-
+tion of pre-existing CVD, dose, frequency, and duration of oncology
+treatment, emergence of CV complications during treatment and
+their severity, and in CS, the overall cumulative treatment received,
+the time since treatment, and the interaction with other CVDs.
+2.1. Cancer and cardiovascular needs of
+patients with cancer
+Since the 1990s, there has been a steady decline in cancer-related
+mortality mirrored by a steady increase in CS.2,3 In this context,
+treatment-related
+side
+effects
+have
+gained
+more
+signiﬁcance.
+Management of CTR-CVT has a tremendous impact on the type of
+anticancer therapies that patients can receive as well as the long-term
+morbidity and mortality outcomes of patients with cancer. Effective
+management of patients with both cancer and CVD requires the un-
+ique interest and expertise of healthcare providers, which has led to
+the formation of a new discipline: cardio-oncology.4,5 A recently pub-
+lished ESC-CCO document describes appropriate criteria for the or-
+ganization and implementation of cardio-oncology services.5
+2.2. Role of cardio-oncology services
+The overarching goal of the cardio-oncology discipline is to allow pa-
+tients with cancer to receive the best possible cancer treatments safely,
+4238
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 11 ===
+
+minimizing CTR-CVT across the entire continuum of cancer care.5
+Before initiation of cancer therapies with a known CV toxicity proﬁle,
+the cardio-oncology team should identify and treat CV risk factors
+(CVRF) and pre-existing CVDs and deﬁne an appropriate prevention
+and surveillance plan for early identiﬁcation and appropriate manage-
+ment of potential CV complications (Figure 2). Another important as-
+pect is the participation in interdisciplinary discussions regarding the
+beneﬁts and risks of certain cancer treatments and their continuation
+or interruption should side effects become apparent. After cancer
+treatment has been completed, the focus shifts to co-ordination of
+long-term follow-up and treatment. For patients on long-term cancer
+therapies with CV toxicity risk, surveillance should continue until the
+treatment is ﬁnished.6–8 There is also the need for re-assessment of
+CV risks in patients requiring treatment for secondary malignancies.
+2.3. General principles of
+cardio-oncology
+A guiding principle of cardio-oncology is the integration of clinical dis-
+ciplines. Cardio-oncology providers must have knowledge of the
+broad scope of cardiology, oncology, and haematology management.5
+Recommendations are formed regarding the most permissible (from a
+Time
+Baseline
+risk
+Du
+D ring cardiotoxic
+cancer therapy
+p
+Long-term foll
+f
+ow-up after
+cancer treatment
+Primary and
+secondary
+prevention
+strategies
+Cancer treatment
+surveillance
+Early CTR-CVT
+management
+Cancer survivorship programmes
+Low risk
+High risk
+CTR-CVT
+CTR-CVT
+risk
+risk
+Figure 1 Video 1 Central Illustration: Dynamics of cardiovascular toxicity risk of patients with cancer over their therapy continuum. CS, cancer
+survivors; CTR-CVT, cancer therapy-related cardiovascular toxicity; CV, cardiovascular; CVD, cardiovascular disease; CVRF, cardiovascular risk fac-
+tors; CTR-CVT risk is a dynamic variable that changes through the pathway of care, and is inﬂuenced by several conditions including age, cancer
+history, pre-existing CVRF or CVD, and previous cardiotoxic cancer therapy. The CTR-CVT risk changes during and after treatment according
+to type, dose, frequency, and duration of oncology treatment (blue solid line). Pre-existing CVRF, CVD, or previous cancer treatments may increase
+the magnitude of acute and long-term CV toxicity risk (purple solid line). CTR-CVT risk remains variable in extent during anticancer treatment and
+may or may not gradually increase over time (dotted lines). Cardio-oncology strategy may reduce the magnitude of CTR-CVT by: (1) optimizing CVD
+and CVRF management (green arrows); (2) considering cardioprotective strategies in high-risk patients (green arrows); (3) organizing cancer treat-
+ment surveillance; and (4) introducing early cardioprotection after the detection of subclinical CTR-CVT (purple arrows). CV risk assessment within
+the ﬁrst year after completion of cardiotoxic cancer therapy identiﬁes CS who require long-term follow-up. Cancer survivorship programmes that
+include annual CV risk assessment and CVRF/CVD management are recommended to minimize long-term CV adverse events (brown arrows).
+ESC Guidelines
+4239
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 12 ===
+
+CVD perspective) and the most effective (from an oncological per-
+spective) cancer treatment. Adjudication of CV events occurring in pa-
+tients
+on
+active
+therapy
+is
+another
+important
+aspect
+of
+cardio-oncology practice.1,3 This is in addition to recommendations
+on best treatment and management practices. This includes the full
+scope of CV therapies, including healthy lifestyle promotion and
+pharmacological, device, and surgical treatments.4,9,10
+The principle underlying the dynamic course of CTR-CVT develop-
+ment in patients with cancer is that the absolute risk depends on their
+baseline risk and changes with exposure to cardiotoxic therapies over
+New cancer
+diagnosis
+During cancer
+treatmenta
+First year after
+cancer treatmentb
+Long term
+follow-up
+Cardio-Oncology Care Pathways
+Class 1
+Class 1Ia
+Class 1Ib
+Baseline CV
+toxicity risk
+assessmentc
+Informing, advising, and supporting patients to promote a healthy lifestyle
+Management of CVRF and CVD according to ESC Guidelines
+Low risk
+patients
+Annual CVRF
+assessmente
+Reassessment if new CV
+signs/symptoms 
+Standard
+surveillance
+Assessment at 1 year
+after completion of
+cancer therapy
+Moderate risk
+ patients
+Annual CVRF assessmente
+CV toxicity re-stratification
+at 5 years
+TTE every 5 years
+Cardiology referrald
+Assessment at 1 year
+after completion of
+cancer therapy
+High and
+very high risk
+patients
+Annual CVRF
+assessmente
+TTE at years 1, 3, 5 and 
+every 5 years
+Cardiology referrald
+CVD prevention
+Assessment at 3
+months and 1 year
+after completion of
+cancer therapy
+Cardiology referrald if new CV signs/symptoms or CTR-CVT develop
+Figure 2 Cardio-oncology care pathways. BP, blood pressure; CS, cancer survivors; CTR-CVT, cancer therapy-related cardiovascular toxicity;
+CV, cardiovascular; CVD, cardiovascular disease; CVRF, cardiovascular risk factors; ECG, electrocardiogram; ESC, European Society of
+Cardiology; HbA1c, glycated haemoglobin; HFA, Heart Failure Association; ICOS, International Cardio-Oncology Society; NP, natriuretic pep-
+tides; RT, radiotherapy; TTE, transthoracic echocardiography. aCV surveillance according to baseline CV toxicity risk, type of cancer, cancer
+stage, and cancer therapy. bCTR-CVT risk assessment is recommended during the ﬁrst year after cardiotoxic cancer treatment to establish a
+long-term follow-up care plan. cThe use of HFA-ICOS risk assessment tools should be considered to assess CTR-CVT risk in patients with can-
+cer scheduled to receive cardiotoxic anticancer therapy. Clinical assessment and ECG are recommended at baseline in all patients with cancer
+and echocardiography, cardiac biomarkers, or other cardiac imaging tests in selected patients according to baseline CV toxicity risk and cancer
+treatment type (see Figure 7). dCardio-oncology referral is recommended when available, alternatively patients should be referred to a specia-
+lized cardiologist with expertise in managing CVD in patients with cancer. eAnnual CV risk assessment (including clinical review, BP, lipid proﬁle,
+HbA1c, ECG, and NP) and CVRF management is recommended in CS who were treated with a potentially cardiotoxic cancer drug or RT to a
+volume exposing the heart.
+4240
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 13 ===
+
+time (Figure 3).11 This has been recognized in conceptual models, with
+risk stratiﬁcation tools designed to grade patients with cancer into
+low, moderate, high, and very high risk of CV complications prior to
+starting treatment. These have been published by the Heart Failure
+Association (HFA) of the ESC in collaboration with the International
+Cardio-Oncology Society (ICOS) (see Section 4).12,13 Severity, dur-
+ation, and type of manifestation of CTR-CVT vary by type of malig-
+nancy and cancer treatment. The risk itself can be understood in
+two ways: (1) the likelihood of its occurrence and (2) the severity of
+the complication (Figure 4). For example, a patient could be very likely
+to experience a CTR-CVT, but if this event is mild, oncology treat-
+ment should continue. Conversely, a patient at low likelihood could
+still be at high risk according to the severity of the event, which would
+lead to interruption of cancer treatment, e.g. a signiﬁcant decline in
+left ventricular (LV) ejection fraction (LVEF) to , 40% with anthracy-
+cline chemotherapy. The timeline of these developments may also be
+rather different. After the cardiotoxic cancer treatment has been
+completed, a new risk assessment is recommended to establish differ-
+ent long-term trajectories of CV health. These trajectories are im-
+pacted by the permanent CV toxic effects and cardiac or vascular
+injury of some cancer therapies, patient-related CVRF, environmental
+factors, and stressors (e.g. acute viral infections). The aim should be to
+personalize approaches to minimize CTR-CVT and improve both
+cancer and CV outcomes.
+Baseline CV toxicity risk assessment checklist
+Cancer treatment history
+CV history
+CVRF
+Physical examination
+Vital signs measurementa
+BNP or NT-p
+T roBNPb
+cTnb
+ECG
+Fasting plasma glucose / HbA1c
+Kidney function / eGFR
+Lipid profile
+TTEc
+Clinical assessment
+Complementary tests
+CTR-CVT
+risk factors
+Medical
+CVRF
+Previous
+CVD
+Lifestyle
+risk factors
+ECG, TTE, and
+cardiac biomarkers
+abnormalities
+Previous
+cardiotoxic 
+therapies
+Age, sex,
+genetics
+Figure 3 Baseline cardiovascular toxicity risk assessment checklist. BNP, B-type natriuretic peptide; cTn, cardiac troponin; CTR-CVT, cancer therapy-related
+cardiovascular toxicity; CV, cardiovascular; CVD, CV disease; CVRF, cardiovascular risk factors; ECG, electrocardiogram; eGFR, estimated glomerular ﬁltration
+rate; HbA1c, glycated haemoglobin; NT-proBNP, N-terminal pro-BNP; TTE, transthoracic echocardiography. aIncluding blood pressure, heart rate, height,
+weight, and body mass index. bCardiac biomarkers (troponin and NP) should be measured in patients at risk of CTRCD where available and results should
+be interpreted according to the patient clinical status, type of cancer treatment, and kidney function. cConsider other CV complementary tests in selected
+patients: cardiac magnetic resonance, coronary computed tomography angiography, CPET (in selected patients for pre-operative [lung, colon, and rectal can-
+cers] risk stratiﬁcation). See Section 4.6.
+ESC Guidelines
+4241
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 14 ===
+
+3. Cancer therapy-related
+cardiovascular toxicity deﬁnitions
+Several terminologies and deﬁnitions have previously been proposed
+to describe the spectrum of CTR-CVT, leading to inconsistencies in
+diagnosis and management. The need to harmonize these deﬁnitions
+has frequently been stated and recognized, and resulted in the recent
+international deﬁnitions of CTR-CVT1 supported by this guideline
+(Table 3; Supplementary data, Table S1). This document will focus
+on consensus deﬁnitions for cardiomyopathy and heart failure
+(HF), myocarditis, vascular toxicities, hypertension, cardiac arrhyth-
+mias, and corrected QT interval (QTc) prolongation. The deﬁnitions
+of other CTR-CVT, including pericardial and valvular heart diseases
+(VHDs), are the same as those used for the general cardiology popu-
+lation. For cardiac injury, cardiomyopathy, and HF, the descriptive
+term cancer therapy-related cardiac dysfunction (CTRCD) is recom-
+mended as it captures the broad spectrum of possible presentations
+and the aetiological link with the broad scope of various cancer ther-
+apies, including chemotherapy, targeted agents, immune therapies,
+and radiation therapy.
+High
+Intermediate
+Low
+Severe and
+very severe
+Moderate
+Mild
+Likelihood of
+CTR-CVT
+Clinical severity of CTR-CVT
+Figure 4 Dimensions of cancer therapy-related cardiovascular toxicity risk and disease severity. CTR-CVT, cancer therapy-related cardiovascular tox-
+icity; CV, cardiovascular. The ultimate risk is the combination of the likelihood (based on reported incidence) and degree (severity or grade) of the adverse
+event. The most vulnerable patient groups are those at high likelihood of experiencing a severe adverse event. The level of attention that needs to be
+devoted to these patients varies accordingly. The risk and type of CTR-CVT, as well as the potential for reversibility, depends on different factors, listed in
+Figure 3, that should be considered to deﬁne global CV and oncological prognosis and to individualize CTR-CVT surveillance. Additional factors that add to
+the complexity of CTR-CVT risk assessment are the cancer type and prognosis, and type, duration, and intensity of cancer treatment.
+4242
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 15 ===
+
+Table 3
+Cancer therapy-related cardiovascular toxicity deﬁnitions
+CTRCD
+Symptomatic CTRCD (HF)a,b
+Very severe
+HF requiring inotropic support, mechanical circulatory support, or
+consideration of transplantation
+Severe
+HF hospitalization
+Moderate
+Need for outpatient intensiﬁcation of diuretic and HF therapy
+Mild
+Mild HF symptoms, no intensiﬁcation of therapy required
+Asymptomatic CTRCD
+Severe
+New LVEF reduction to ,40%
+Moderate
+New LVEF reduction by ≥10 percentage points to an LVEF
+of 40–49%
+OR
+New LVEF reduction by ,10 percentage points to an LVEF of 40–
+49% AND either new relative decline in GLS by .15% from baseline
+OR new rise in cardiac biomarkersc
+Mild
+LVEF ≥50%
+AND new relative decline in GLS by .15% from baseline
+AND/OR new rise in cardiac biomarkersc
+ICI myocarditis (either pathohistological diagnosis or clinical diagnosis)
+Pathohistological diagnosis (EMB)
+Multifocal inﬂammatory cell inﬁltrates with overt cardiomyocyte loss by light microscopy
+Clinical diagnosisd
+cTn elevation (new or signiﬁcant change from baseline)e with 1 major criterion or 2 minor criteria,
+after exclusion of ACS and acute infectious myocarditis based on clinical suspicionf
+Major criterion:
+• CMR diagnostic for acute myocarditis (modiﬁed Lake Louise criteria)g
+Minor criteria:
+• Clinical syndrome (including any one of the following: fatigue, myalgias, chest pain, diplopia, ptosis,
+shortness of breath, orthopnoea, lower-extremity oedema, palpitations, light-headedness/dizziness,
+syncope, muscle weakness, cardiogenic shock)
+• Ventricular arrhythmia (including cardiac arrest) and/or new conduction system disease
+• Decline in LV systolic function, with or without regional wall motion abnormalities in a non-Takotsubo
+pattern
+• Other immune-related adverse events, particularly myositis, myopathy, myasthenia gravis
+• Suggestive CMRh
+Severity of myocarditis
+• Fulminant: Haemodynamic instability, HF requiring non-invasive or invasive ventilation, complete or
+high-grade heart block, and/or signiﬁcant ventricular arrhythmia
+• Non-fulminant: including symptomatic but haemodynamically and electrically stable patients and
+incidental cases diagnosed at the same time as other immuno-related adverse events. Patients may have
+reduced LVEF but no features of severe disease
+• Steroid refractory: non-resolving or worsening myocarditis (clinical worsening or persistent troponin
+elevation after exclusion of other aetiologies) despite high-dose methylprednisolone
+Recovery from myocarditis
+• Complete recovery: Patients with complete resolution of acute symptoms, normalization of
+biomarkers, and recovery of LVEF after discontinuation of immunosuppression. CMR may still show LGE
+or elevated T1 due to ﬁbrosis, but any suggestion of acute oedema should be absent
+• Recovering: Ongoing improvement in patient clinical symptoms, signs, biomarkers, and imaging
+parameters, but not yet normalized, while on tapering doses of immunosuppression
+Vascular toxicity (for general cardiology deﬁnitions, see Supplementary data, Table S1)
+Asymptomatic vascular toxicity
+CAD
+Symptomatic vascular
+toxicity
+Stroke
+PAD
+Transient ischaemic attack
+Carotid artery disease
+MI
+Venous thrombosis
+ACS
+Arterial thrombosis
+CCS
+Peripheral vasoreactivity
+PAD
+Continued
+ESC Guidelines
+4243
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 16 ===
+
+4. Cardiovascular toxicity risk
+stratiﬁcation before anticancer
+therapy
+The optimal time to consider CVD prevention strategies in patients
+with cancer is at the time of cancer diagnosis and prior to the initi-
+ation of cancer treatment.4,5 This enables the oncology team to con-
+sider CV risk while making cancer treatment choices, educating
+patients regarding their CV risk, personalizing CV surveillance and
+follow-up strategies, and making appropriate referrals of high-risk pa-
+tients to cardio-oncology services. These strategies are needed to
+mitigate CVD risk, and improve the adherence to effective cancer
+treatments and the overall survival.
+CVD prevention strategies require a personalized approach. Risk
+assessment is a challenging task and it is vital that clinicians adopt a
+systematic approach without delaying oncological treatment.12,21,22
+Figure 5 provides a comprehensive approach to risk assessment.
+The choice of the cardiac tests (electrocardiogram [ECG], biomar-
+kers, and imaging) should be individualized based on CV risk and
+the planned cancer treatments.
+4.1. General approach to cardiovascular
+toxicity risk in patients with cancer
+Pre-treatment CTR-CVT risk assessment should ideally be per-
+formed using a recognized risk stratiﬁcation method where multiple
+risk factors are incorporated to determine patient-speciﬁc risk.23
+Coronary epicardial
+vasoreactivity
+Vasospastic angina
+Coronary microvascular
+vasoreactivity
+Microvascular angina
+Raynaud’s phenomenon
+Arterial hypertension
+Treatment threshold for
+hypertension before, during, and
+after therapy
+In patients with high CV riski: ≥130 mmHg systolic and/or ≥80 mmHg diastolic
+Otherwise: ≥140 mmHg systolic and/or ≥90 mmHg diastolic
+Cancer therapy holding threshold
+≥180 mmHg systolic and/or ≥110 mmHg diastolic
+Hypertensive emergency
+(Very high) BP elevation associated with acute hypertension-mediated organ damage (heart, retina, brain,
+kidneys, and large arteries), requiring immediate BP reduction to limit extension or promote regression of
+target organ damage
+Cardiac arrhythmias
+QT prolongation
+Prolonged: QTcF . 500 msj
+Bradycardia
+For general cardiology deﬁnitions, see Supplementary data, Table S1
+Supraventricular tachycardia
+Ventricular arrhythmias
+AF
+© ESC 2022
+ACS, acute coronary syndromes; AF, atrial ﬁbrillation; BNP, B-type natriuretic peptide; BP, blood pressure; CAD, coronary artery disease; CCS, chronic coronary syndromes; CMR,
+cardiac magnetic resonance; cTn, cardiac troponin; CTRCD, cancer therapy-related cardiac dysfunction; CV, cardiovascular; ECV, extracellular volume fraction; EMB,
+endomyocardial biopsy; ESC, European Society of Cardiology; GLS, global longitudinal strain; HF, heart failure; HFmrEF, HF with mildly reduced ejection fraction; HFpEF, heart
+failure with preserved ejection fraction; HFrEF, heart failure with reduced ejection fraction; ICI, immune checkpoint inhibitors; LGE, late gadolinium enhancement; LV, left
+ventricular; LVEF, left ventricular ejection fraction; MI, myocardial infarction; NT-proBNP, N-terminal pro-B-type natriuretic peptide; PAD, peripheral artery disease; QTcF,
+corrected QT interval using Fridericia correction; SCORE2, Systematic Coronary Risk Estimation 2; SCORE2-OP, Systematic Coronary Risk Estimation 2—Older Persons.
+See Supplementary data, Table S1 for expanded deﬁnitions.
+aWith LVEF and supportive diagnostic biomarkers based on the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic HF.14
+bSymptomatic CTRCD represents HF, which is a clinical syndrome consisting of cardinal symptoms (e.g. breathlessness, ankle swelling, and fatigue) that may be accompanied by signs (e.g.
+elevated jugular venous pressure, pulmonary crackles, and peripheral oedema) and has traditionally been divided into distinct phenotypes based on the measurement of LVEF: ≤40% =
+HFrEF; 41–49% = HFmrEF; ≥50% = HFpEF.
+ccTnI/cTnT . 99th percentile, BNP ≥35 pg/mL, NT-proBNP ≥125 pg/mL or new signiﬁcant rise from baseline beyond the biological and analytical variation of the assay used.
+dClinical diagnoses should be conﬁrmed with magnetic resonance imaging or EMB if possible and without causing treatment delays. Treatment with immunosuppression should be
+promptly initiated while awaiting further conﬁrmatory testing in symptomatic patients.
+eBoth troponin I and troponin T can be used; however, clinical observations suggest that troponin T may be falsely elevated in patients with concomitant myositis and without myocarditis.15–17
+fAccording to local protocols.
+gDiagnostic CMR: Based on updated Lake Louise criteria18: T2-based criterion + T1-based criterion + supportive criteria (T2-based criteria: regional or global increase of native T2, or T2signal
+intensity; T1-based criteria: regional or global increase of native T1, or regional or global increase in the ECV, or presence of LGE; supportive criteria: pericarditis and/or regional or global LV
+systolic dysfunction).
+hSuggestive CMR: meeting some but not all of the modiﬁed Lake Louise criteria. The presence of T2- or T1-based criteria may support a diagnosis of acute myocardial inﬂammation in the
+appropriate clinical scenario.
+iSCORE2 (,70 years), SCORE2-OP (≥70 years) or equivalent.19 CV risk stratiﬁcation: ,50 years: low risk ,2.5%, moderate risk 2.5% to ,7.5%, high risk ≥7.5%; 50–69 years: low risk ,5%;
+moderate risk 5% to ,10%; high risk ≥10%; ≥70 years: low risk ,7.5%, moderate risk 7.5% to ,15%, high risk ≥15%.
+jQTcF 480–500 ms: correct reversible causes, minimize other QT prolonging medications, close QTcF monitoring. Fridericia correction is recommended (QTcF = QT/3√RR).20
+4244
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 17 ===
+
+Only a limited number of retrospective risk scores have been pub-
+lished in patients with cancer. Most of these scores have been devel-
+oped for speciﬁc cancer-patient groups and cannot be readily applied
+or extrapolated to other type of malignancies.24–29 While further
+validation is needed, HFA-ICOS risk assessment tools should be con-
+sidered to determine pre-treatment risk of CTR-CVT as they are
+easy to use and implement in oncology and haematology services
+(Table 4; Supplementary data, Tables S2–S7).12,13 Other CV risk
+Physical and metabolic
+assessmentb
+ECG
+(Class I)
+Pre-existing CVD or
+at risk of CTRCDc
+New, untreated or
+uncontrolled medical, and
+lifestyle CVRF
+Arrhythmias
+Prolonged QTcF
+Check and correct
+precipitant factorsf
+(Class I)
+Ref
+cardiologistg
+(Class I)
+Ref
+rdiologist g
+(Class I)
+Suspected
+CVD
+cTn and NP
+increasedd
+TTE
+(LVEF and GLS)
+reducede
+Aggressive management of
+CVRF and pre-existing CVD
+according to ESC Guidelines
+Healthy lifestyle promotion
+(Class I)
+Baseline cardiovascular toxicity risk assessment
+Consider primary vs secondary preventive strategies according to CV toxicity risk,
+pre-existing CVD, and cancer treatment type
+HFA-ICOS risk
+assessment:
+CVRFa
+CVD history
+Cancer history
+Cancer treatment history
+Figure 5 Baseline cardiovascular toxicity risk assessment before anticancer therapy. BNP, B-type natriuretic peptide; cTn, cardiac troponin; CTRCD,
+cancer therapy-related cardiac dysfunction; CV, cardiovascular; CVD, CV disease; CVRF, CV risk factors; ECG, electrocardiogram; ESC, European
+Society of Cardiology; GLS, global longitudinal strain; HFA, Heart Failure Association; ICOS, International Cardio-Oncology Society; LVEF, left ven-
+tricular ejection fraction; NP, natriuretic peptides (including BNP and NT-proBNP); NT-proBNP, N-terminal pro-BNP peptide; QTc, corrected QT
+interval; QTcF, corrected QT interval using Fridericia correction; TTE, transthoracic echocardiography. aWhen assessing CVRF, include information
+about unhealthy lifestyle including sedentary behaviour, smoking, and alcohol intake. bSee Figure 3. cAccording to cancer treatment and HFA-ICOS
+risk assessment. dcTnI/T . 99th percentile, BNP ≥35 pg/mL, NT-proBNP ≥125 pg/mL. ePatients with baseline LVEF , 50% or in the low normal
+range (LVEF 50–54%) should be referred to a specialized cardiologist or cardio-oncologist. When TTE is used, ideally three-dimensional-LVEF and GLS
+should be measured. If GLS assessment is not available, other markers of longitudinal function (e.g. annular Doppler velocity) should be considered.
+Cardiac magnetic resonance should be considered if echocardiography is of non-diagnostic quality. fAnaemia, infections, electrolyte abnormalities, meta-
+bolic problems, other QTc-prolonging drugs. gCardio-oncology referral is recommended when available; alternatively, patients should be referred to a
+specialized cardiologist with expertise in managing CVD in patients with cancer.
+ESC Guidelines
+4245
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 18 ===
+
+Table 4
+Heart Failure Association–International Cardio-Oncology Society baseline cardiovascular toxicity risk
+stratiﬁcation
+Baseline CV toxicity
+risk factors
+Anthracycline
+chemotherapy
+HER2-targeted
+therapies
+VEGF
+inhibitors
+BCR-ABL
+inhibitors
+Multiple
+myeloma
+therapies
+RAF and
+MEK
+inhibitors
+Previous CVD
+HF/cardiomyopathy/
+CTRCD
+VH
+VH
+VH
+H
+VH
+VH
+Severe VHD
+H
+H
+–
+–
+–
+H
+MI or PCI or CABG
+H
+H
+VH
+–
+–
+H
+Stable angina
+H
+H
+VH
+–
+–
+H
+Arterial vascular disease
+–
+–
+VH
+VH
+VH
+–
+Abnormal ankle-brachial
+pressure index
+–
+–
+–
+H
+–
+–
+PH
+–
+–
+–
+H
+–
+–
+Arterial thrombosis with TKI
+–
+–
+–
+VH
+–
+–
+Venous thrombosis
+(DVT/PE)
+–
+–
+H
+M2
+VH
+–
+Arrhythmiaa
+–
+M2
+M2
+M2
+M2
+M1
+QTc ≥480 ms
+–
+–
+H
+H
+–
+–
+450 ≤QTc , 480 ms (men);
+460 ≤QTc , 480 ms
+(women)
+–
+–
+M2
+M2
+–
+–
+Prior PI CV toxicity
+–
+–
+–
+–
+VH
+–
+Prior IMiD CV toxicity
+–
+–
+–
+–
+H
+–
+Cardiac imaging
+LVEF , 50%
+H
+H
+H
+H
+H
+H
+LVEF 50–54%
+M2
+M2
+M2
+–
+M2
+M2
+LV hypertrophy
+–
+–
+–
+–
+M1
+–
+Cardiac amyloidosis
+–
+–
+–
+–
+VH
+–
+Cardiac biomarkers
+Elevated baseline cTnb
+M1
+M2
+M1
+–
+M2
+M2
+Elevated baseline NPb
+M1
+M2
+M1
+–
+H
+M2
+Age and CVRF
+Age ≥80 years
+H
+H
+–
+–
+–
+M1
+Age 65–79 years
+M2
+M2
+–
+–
+–
+M1
+Age ≥75 years
+–
+–
+H
+H
+H
+M1
+Age 65–74 years
+–
+–
+M1
+M2
+M1
+M1
+Age ≥60 years
+–
+–
+–
+M1
+–
+–
+CVD 10-year risk score
+. 20%
+–
+–
+–
+H
+–
+–
+Hypertensionc
+M1
+M1
+H
+M2
+M1
+M2
+Chronic kidney diseased
+M1
+M1
+M1
+M1
+M1
+M1
+Proteinuria
+–
+–
+M1
+–
+–
+–
+DMe
+M1
+M1
+M1
+M1
+M1
+M1
+Hyperlipidaemiaf
+–
+–
+M1
+M1
+M1
+–
+Family history of
+thrombophilia
+–
+–
+–
+M1
+M1
+–
+Continued
+4246
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 19 ===
+
+calculators (e.g. SMART [Second manifestations of arterial disease]
+risk score, ADVANCE [Action in Diabetes and Vascular Disease:
+Preterax and Diamicron-MR Controlled Evaluation] risk score,
+SCORE2 [Systematic Coronary Risk Estimation 2], SCORE2-OP
+[Systematic Coronary Risk Estimation 2—Older Persons], ASCVD
+[AtheroSclerotic Cardiovascular Disease] risk score, U-Prevent,
+and lifetime risk calculators) may be considered at baseline for the
+assessment of CV risk, considering that cancer itself may increase
+the likelihood of CVD.19,23,30,31
+Baseline risk assessment should be considered by the treating on-
+cology or haematology team for all patients diagnosed with cancer
+who are scheduled to receive a cancer treatment identiﬁed to
+have a clinically signiﬁcant level of CRT-CVT, or by a cardiologist if
+appropriate.
+In
+the
+case
+of
+patients
+scheduled
+to
+receive
+Current cancer treatment
+Dexamethasone . 160 mg/
+month
+–
+–
+–
+–
+M1
+–
+Includes anthracycline
+before HER2-targeted
+therapy
+–
+M1g
+–
+–
+–
+–
+Previous exposure to
+Anthracycline
+H
+M2h
+H
+–
+H
+H
+Trastuzumab
+–
+VH
+–
+–
+–
+–
+RT to left chest or
+mediastinum
+H
+M2
+M1
+–
+M1
+M2
+Non-anthracycline
+chemotherapy
+M1
+–
+–
+–
+–
+–
+Lifestyle risk factors
+Current smoker or
+signiﬁcant smoking history
+M1
+M1
+M1
+H
+M1
+M1
+Obesity (BMI . 30 kg/m2)
+M1
+M1
+M1
+M1
+M1
+M1
+© ESC 2022
+AF, atrial ﬁbrillation; BCR-ABL, breakpoint cluster region–Abelson oncogene locus; BMI, body mass index; BNP, B-type natriuretic peptide; BP, blood pressure; CABG, coronary artery
+bypass graft; cTn, cardiac troponin; CTRCD, cancer therapy-related cardiac dysfunction; CV, cardiovascular; CVD, cardiovascular disease; CVRF, cardiovascular risk factors; DM, diabetes
+mellitus; DVT, deep vein thrombosis; eGFR, estimated glomerular ﬁltration rate; H, high risk; HbA1c, glycated haemoglobin; HER2, human epidermal receptor 2; HF, heart failure; IMiD,
+immunomodulatory drugs; LV, left ventricular; LVEF, left ventricular ejection fraction; M, moderate risk; MEK, mitogen-activated extracellular signal-regulated kinase; MI, myocardial
+infarction; MM, multiple myeloma; NP, natriuretic peptides (including BNP and NT-proBNP); NT-proBNP, N-terminal pro-B-type natriuretic peptide; PCI, percutaneous coronary
+intervention; PE, pulmonary embolism; PH, pulmonary hypertension; PI, proteasome inhibitors; QTc, corrected QT interval; RAF, rapidly accelerated ﬁbrosarcoma; RT,
+radiotherapy; TKI, tyrosine kinase inhibitors; ULN, upper limit of normal; VEGFi, vascular endothelial growth factor inhibitors; VH, very high risk; VHD, valvular heart disease.
+An expanded version of this table is provided in Supplementary data, Tables S2–S7.
+Risk level: Low risk = no risk factors OR one moderate1 risk factor; moderate risk (M) = moderate risk factors with a total of 2–4 points (Moderate 1 [M1] = 1 point; Moderate
+[M2] = 2 points); high risk (H) = moderate risk factors with a total of ≥5 points OR any high-risk factor; very-high risk (VH) = any very-high risk factor.
+aAF, atrial ﬂutter, ventricular tachycardia, or ventricular ﬁbrillation.
+bElevated above the ULN of the local laboratory reference range.
+cSystolic BP . 140 mmHg or diastolic BP . 90 mmHg, or on treatment.
+deGFR , 60 mL/min/1.73 m2.
+eHbA1c . 7.0% or .53 mmol/mol, or on treatment.
+fNon-high density lipoprotein cholesterol .3.8 mmol/L (.145 mg/dL) or on treatment.
+gHigh risk if anthracycline chemotherapy and trastuzumab delivered concurrently.
+hPrevious malignancy (not current treatment protocol).
+Table 5
+Anthracycline equivalence dose
+Doxorubicin
+Epirubicin
+Daunorubicin
+Mitoxantrone
+Idarubicina
+CV toxicity dose ratio
+1
+0.8
+0.6
+10.5
+5
+Isoequivalent dose
+100 mg/m2
+125 mg/m2
+167 mg/m2
+9.5 mg/m2
+20 mg/m2
+© ESC 2022
+This table refers to anthracycline equivalence dose using doxorubicin as a reference. Note that these isoequivalent doses are derived from paediatric CS.
+CS, cancer survivors; CV, cardiovascular.
+aData for idarubicin are based upon an estimated anticancer efﬁcacy ratio, not derived from cardiotoxicity data. The CV toxicity dose ratio provides the value that should be used to
+multiply the dose of the anthracycline of interest to convert to isoequivalent doses of doxorubicin; e.g. to convert 125 mg/m2 of epirubicin to doxorubicin isoequivalent, multiply the dose
+by 0.8 (125 mg/m2 × 0.8 = 100 mg/m2 of doxorubicin).
+ESC Guidelines
+4247
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 20 ===
+
+anthracycline chemotherapy, the total planned cumulative anthracy-
+cline dose is also relevant, and ≥250 mg/m2 of doxorubicin or
+equivalent should be considered higher risk (Table 5).32
+CV risk stratiﬁcation results should be discussed with the patient
+and documented in clinical notes. This process will also enable future
+validation of these tools.
+Cardiology referral (cardio-oncology programme or cardiolo-
+gist with expertise in managing CVD in patients with cancer) is
+recommended for patients identiﬁed to be at high or very high
+risk for CTR-CVT at baseline (Table 4) to institute strategies to miti-
+gate risk.33 Patients at moderate risk can beneﬁt from closer cardiac
+monitoring, strict management of traditional CVRF, and selected
+moderate-risk patients may also beneﬁt from a cardio-oncology re-
+ferral (Figure 6). Low-risk patients can be followed within the oncol-
+ogy programme with appropriate referral to cardio-oncology if a
+CTR-CVT emerges or new or uncontrolled CVRF appear.
+AND
+AND
+AND
+AND
+AND
+CV risk stratification befof re anticancer therapy
+p
+(Class I)
+Communicate the CV toxicity risk assessment results (Class I)
+Educate patients regarding risks and protective healthy lifestyle (Class I)
+f
+Management of CVRF and CVD according to ESC Guidelines (Class I)
+HFA-ICOS baseline risk assessment
+F
+(Class IIa)
+Low risk
+Routine oncology foll
+f
+ow-up
+Moderate risk
+Cardiologya refef rral if
+CV toxicity develops
+(Class I)
+Closer oncology foll
+f
+ow-up
+Cardiologya refef rral if
+CV toxicity develops
+(Class I)
+Cardiology refef rrala
+(Class IIb)
+Cardiologya refef rral
+(Class I)
+Cardioprotective strategies
+(Class IIa)
+Discussion of the risk/benefit
+balance of cardiotoxic
+anticancer treatment
+(Class I)
+HFA-ICOS
+F
+results
+High/very high risk
+Patient with cancer
+Figure 6 General cardio-oncology approach after Heart Failure Association–International Cardio-Oncology Society cardiovascular toxicity risk assess-
+ment. CV, cardiovascular; CVD, CV disease; CVRF, CV risk factors; ESC, European Society of Cardiology; HFA, Heart Failure Association; ICOS,
+International Cardio-Oncology Society. aCardio-oncology referral is recommended when available; alternatively, patients should be referred to a spe-
+cialized cardiologist with expertise in managing CVD in patients with cancer.
+4248
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 21 ===
+
+4.2. History and clinical examination
+A careful clinical history and physical examination is recommended as
+part of the baseline risk assessment. Oncology patients can be di-
+vided into two cohorts with respect to the presence or absence of
+pre-existing CVD. A primary prevention strategy can be considered
+in patients without previous CVD or CTR-CVT while secondary
+prevention includes interventions in patients with prior or active
+CVD or previous CTR-CVT.12
+Reviewing traditional risk factors for CVD is recommended.
+Where present, the efﬁcacy of treatment and control of these modi-
+ﬁable risk factors should be determined to ensure optimal control
+during
+cancer
+therapy.4,34
+Although
+recent
+SCORE2
+and
+SCORE2-OP19 tables are not focused on patients with cancer, risk
+calculation is recommended for patients with cancer .40 years of
+age (unless they are automatically categorized as being at high risk
+or very high risk based on documented CVD, diabetes mellitus
+[DM], kidney disease, or a highly elevated single risk factor) as a ref-
+erence to optimize CVRF treatment goals.19,31,35 A family history of
+premature CVD should be considered because genetic abnormalities
+associated with CVD may predispose patients with cancer to a high-
+er risk of CTR-CVT.36–38 Lifestyle factors such as smoking, alcohol
+consumption, sedentary lifestyle, exposure to pollution, and frailty
+are important shared risk factors for both cancer and CVD.
+Information on prior history of cancer, cardiotoxic cancer therapies,
+and their respective doses should be collected. Patients should be
+asked about typical cardiac symptoms (e.g. chest pain with activity,
+dyspnoea on exertion, orthopnoea, palpitations, and peripheral oe-
+dema), which can guide clinical examination and investigations.
+Physical examination should document vital signs and look for poten-
+tial indicators of undiagnosed CVD such as HF, pericardial disease,
+VHD, and arrhythmias.39–42
+The second scenario is secondary prevention in patients with a
+prior history of CVD. These patients with cancer are potentially at
+high or very high risk of future CV events,12 and require a more
+comprehensive clinical evaluation of their CVD, its severity, and
+prior and current treatments. Depending on the type and severity
+of CVD, additional investigations—including resting or stress echo-
+cardiography, cardiac magnetic resonance (CMR), nuclear perfusion
+imaging, and coronary computed tomography angiography (CCTA)
+—may be indicated to determine risk status. Identifying prior CVD
+should not automatically be a reason to withhold cancer therapy
+but considered an opportunity to optimize CV risk prior to and dur-
+ing treatment. Risk/beneﬁt discussions should include the patient,
+oncologist or haematologist, and—where available—a specialized
+cardio-oncology service.
+Additional factors that add to the complexity of baseline CV risk
+assessment are the cancer type and prognosis, and type, duration,
+and intensity of cancer treatment (Figure 1).4,12,43 Clinical history,
+physical examination features, and treatment-related risk factors
+that contribute to CTR-CVT for various cancer therapies are sum-
+marized in Supplementary data, Table S8. These risk factors should
+be collected and considered along with baseline ECG, cardiac serum
+biomarkers, and cardiac imaging tests (summarized in Figure 7) to
+complete baseline CTR-CVT evaluation.
+4.3. Electrocardiogram
+A baseline 12-lead ECG is a readily available test that can provide im-
+portant clues to underlying CVD. ECG evidence of chamber enlarge-
+ment, conduction abnormalities, arrhythmias, ischaemia, or prior
+myocardial infarction (MI), and low voltages should be interpreted
+in the clinical context. A baseline ECG is recommended prior to
+starting a cancer treatment known to cause QTc prolongation.44–49
+Measurement of QTc using the Fridericia correction (QTcF) is
+Recommendation Table 1 — Recommendations for a
+general
+approach
+to
+cardiovascular
+toxicity
+risk
+categorization
+Recommendations
+Classa
+Levelb
+CV toxicity risk stratiﬁcationc before starting
+potentially cardiotoxic anticancer therapy is
+recommended in all patients with
+cancer.12,14,19,21,25,28,31
+I
+B
+Communicating the results of the CV toxicity risk
+assessment to the patient and other appropriate
+healthcare professionals is recommended.
+I
+C
+The use of HFA-ICOS risk assessment should be
+considered to stratify CV toxicity risk in patients
+with cancer scheduled to receive cardiotoxic
+anticancer therapy.12
+IIa
+C
+It is recommended that patients categorized to be
+at low CV toxicity risk should proceed to
+anticancer therapy without delay.
+I
+C
+In patients categorized at moderate CV toxicity
+risk, cardiology referrald may be considered.e
+IIb
+C
+Cardiology referrald is recommended in high-risk
+and very high-risk patients before anticancer
+therapy.f
+I
+C
+Discussion of the risk/beneﬁt balance of
+cardiotoxic anticancer treatment in high- and very
+high-risk patients in a multidisciplinary approach
+prior to starting treatment is recommended.
+I
+C
+Cardiology referrald is recommended for patients
+with cancer and pre-existing CVD or abnormal
+ﬁndings at baseline CV toxicity risk assessmentg
+who require potentially cardiotoxic anticancer
+therapy.
+I
+C
+© ESC 2022
+CV, cardiovascular; CVD, CV disease; ECG, electrocardiogram; GLS, global longitudinal
+strain; HbA1c, glycated haemoglobin; HFA, Heart Failure Association; ICOS,
+International Cardio-Oncology Society; LVEF, left ventricular ejection fraction; TTE,
+transthoracic echocardiography; ULN, upper limit of normal; VHD, valvular heart
+disease.
+aClass of recommendation.
+bLevel of evidence.
+cIncluding clinical history and physical examination, ECG, general blood test, HbA1c,
+lipid proﬁle, and cardiac serum biomarkers and/or TTE (according to cancer drug
+type and CV toxicity risk).
+dCardio-oncology referral is recommended when available; alternatively, the patients
+should be referred to a specialized cardiologist with expertise in managing CVD in
+patients with cancer.
+eWithout delaying cancer treatments.
+fUnless there is an oncology emergency requiring immediate cancer treatment.
+gModerate-to-severe pre-existing CVDs or new abnormal ﬁndings (baseline cardiac
+serum biomarkers . ULN, LVEF ≤50%, GLS under normal local values, previously
+undiagnosed moderate-to-severe myocardial, pericardial, or VHDs, abnormal baseline
+ECG).
+ESC Guidelines
+4249
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 22 ===
+
+HER2-targeted therapiesc
+Baseline clinical CV assessment, p
+, hysical exam and ECG are recommended
+in all cancer patients scheduled for ca
+f
+rdiotoxic therapiesa
+Previous
+CVD
+Previous
+CVD
+All other
+patients
+All
+patients
+All
+patients
+All other
+patients
+Previous
+CVD
+All
+patients
+High and
+very high risk
+Moderate
+risk
+Low
+risk
+Other
+conditions
+Class IIb
+Class IIa
+Class I
+Anthracyclines
+Fluoropyrymidines
+VEGFi
+Second- and third-generation BCR-ABL TKId
+BTK inhibitors
+PIe
+RAF and MEK inhibitors
+ICI
+Osimertinib
+CAR-T and TIL
+RT to a
+R
+volume including the heart
+HSCT
+TTEb
+Patient risk level
+NP
+cTn
+Figure 7 Baseline screening recommendations for patients with cancer treated with potentially cardiotoxic drugs. 3D, three-dimensional; ADT, andro-
+gen deprivation therapy; AL-CA, amyloid light-chain cardiac amyloidosis; BC, breast cancer; BCR-ABL, breakpoint cluster region-Abelson oncogene locus;
+BNP, B-type natriuretic peptide; BTK, Bruton tyrosine kinase; CAR-T, chimeric antigen receptor T cell; CDK, cyclin-dependent kinase; CMR, cardiac mag-
+netic resonance; cTn, cardiac troponin; CV, cardiovascular; CVD, cardiovascular disease; ECG, electrocardiogram; GLS, global longitudinal strain; HER2,
+human epidermal receptor 2; HSCT, haematopoietic stem cell transplantation; ICI, immune checkpoint inhibitors; LVEF, left ventricular ejection fraction;
+MEK, mitogen-activated extracellular signal-regulated kinase; NP, natriuretic peptides (including BNP and NT-proBNP); NT-proBNP, N-terminal
+pro-B-type natriuretic peptide; PI, proteasome inhibitors; RAF, rapidly accelerated ﬁbrosarcoma; RT, radiotherapy; TIL, tumour-inﬁltrating lymphocytes;
+TKI, tyrosine kinase inhibitors; TTE, transthoracic echocardiography; VEGFi, vascular endothelial growth factor inhibitors. aIncluding patients scheduled to
+receive ADT for prostate cancer, CDK 4/6 inhibitors, endocrine hormone therapy for BC and anaplastic lymphoma kinase inhibitors. bTTE is recom-
+mended as the ﬁrst-line modality for the assessment of cardiac function. 3D echocardiography is recommended to measure LVEF. GLS is recommended
+in all patients with cancer having echocardiography, if available. CMR should be considered when echocardiography is unavailable or not diagnostic.
+cBaseline cTn measurement should be considered (Class IIa, Level A) in low- and moderate-risk patients post-anthracycline chemotherapy but prior
+to starting HER2-targeted therapies. Baseline NP and cTn measurement may be considered (Class IIb, Level C) in low- and moderate-risk patients.
+dBaseline echocardiography is recommended in patients scheduled to receive dasatinib (Class I, Level C). eNP and cTn measurements are recommended
+at baseline in patients with AL-CA (Class I, Level B).
+4250
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 23 ===
+
+recommended.44–48 When baseline QTcF prolongation is recog-
+nized, the correction of reversible causes and the identiﬁcation of
+genetic conditions that prolong QT is recommended (see Section
+6.4.2).45
+Left atrial enlargement on baseline ECG before ibrutinib has
+been shown to be a predictor for the development of atrial ﬁbril-
+lation (AF) during chemotherapy.50,51 The presence of atrioven-
+tricular (AV) conduction delays and premature atrial complexes
+are associated with the development of atrial arrhythmias in pa-
+tients undergoing autologous haematopoietic stem cell transplant-
+ation (HSCT).52
+4.4. Cardiac serum biomarkers
+The literature on the use of biomarkers for CTR-CVT risk strati-
+ﬁcation before cancer therapy is limited, and recommendations
+are mostly based on expert opinion.12,43,53–55 Four recent position
+papers based on collaboration among the Cardio-Oncology Study
+Group of the HFA of the ESC, the ESC-CCO, and ICOS have sug-
+gested that measurement of cardiac serum biomarkers—cardiac
+troponin (cTn) I or T and natriuretic peptides (NP) (e.g. B-type
+natriuretic
+peptide
+[BNP]
+or
+N-terminal
+pro-BNP
+[NT-proBNP])—help in baseline CV risk stratiﬁcation of patients
+scheduled for cancer therapies including anthracyclines, human
+epidermal receptor 2 (HER2)-targeted therapies, vascular endo-
+thelial growth factor (VEGF) inhibitors (VEGFi), proteasome inhi-
+bitors (PI), immune checkpoint inhibitors (ICI), chimeric antigen
+receptor T cell (CAR-T) and tumour-inﬁltrating lymphocytes
+(TIL) therapies, allowing identiﬁcation of those who may beneﬁt
+from cardioprotective therapy.12,43,53,54 Baseline cardiac serum
+biomarker measurements are required if the degree of change in
+the biomarkers is to be used to identify subclinical cardiac injury
+during cancer treatment.
+A few studies of paediatric and adult patients requiring an-
+thracycline chemotherapy have reported that patients with can-
+cer with an increased cTn before treatment were more likely to
+develop CTRCD.56–58 However, most published studies have
+not reported on the prognostic value of baseline cTn measure-
+ments, possibly due to the low prevalence of patients with pre-
+vious CVD or CVRF in these studies.55,59,60 A study of 251
+women receiving trastuzumab for early HER2-positive breast
+cancer (BC) reported that 19% of the patients who developed
+cardiac dysfunction during trastuzumab therapy had positive ul-
+trasensitive troponin I at baseline (.80 ng/L).61 Furthermore,
+baseline high cTnI level was a predictor of lack of recovery des-
+pite optimal HF therapy.61 These ﬁndings have been conﬁrmed
+in a subsequent study of 533 patients with BC who had serial
+high-sensitivity cTn (hs-cTn) I and T measurements during tras-
+tuzumab
+therapy.62
+Increased
+baseline
+cTn
+(.40 ng/L
+and
+.14 ng/L for hs-cTnI and hs-cTnT, respectively) was associated
+with a four-fold risk of developing LV dysfunction (LVD).62
+However, given the high proportion of patients with previous
+anthracycline exposure in both studies, these elevated cTn levels
+are not a true baseline as they reﬂect pre-trastuzumab but post-
+anthracycline
+chemotherapy.
+It
+is
+unclear
+whether
+pre-
+treatment cTn levels will be predictive of LVD in patients before
+any treatment, or for those BC patients treated with trastuzu-
+mab without prior anthracyclines.
+NP are another potential biomarker for CV risk stratiﬁcation.
+Several studies have shown the role of NP measurement at baseline
+or NP changes to predict future CTR-CVT.63–65 In patients with mul-
+tiple myeloma (MM), pre-treatment NP may be a predictive marker
+for subsequent CV adverse events. In 109 patients with relapsed MM,
+BNP . 100 pg/mL or NT-proBNP . 125 pg/mL levels before initi-
+ation of carﬁlzomib were associated with an odds ratio of 10.8 for
+subsequent CV adverse events.66 Therefore, baseline NP measure-
+ment is recommended in high- and very high-risk patients and should
+be considered in low- and moderate-risk patients before PI
+treatment.
+Baseline elevated values of CV functional peptides (including
+NT-proBNP) and hs-cTnT were strongly related to all-cause mortal-
+ity in 555 patients with different types of tumours, suggesting that
+the presence of a subclinical myocardial injury might be directly
+linked to disease progression.67 However, in the CARDIOTOX
+(CARDIOvascular TOXicity induced by cancer-related therapies)
+registry, in 855 patients treated with a range of oncological treat-
+ments, including radiotherapy (RT), both NT-proBNP and cTn eleva-
+tion at baseline were not associated with the development of severe
+CTRCD (LVEF , 40% or clinical HF).68
+There has also been interest in other novel biomarkers for
+CTR-CVT risk stratiﬁcation before cancer treatment; however,
+the literature is limited. Candidates include myeloperoxidase,
+C-reactive protein, galectin-3, arginine–nitric oxide metabolites,
+growth
+differentiation
+factor-15,
+placental
+growth
+factor,
+fms-like tyrosine kinase-1, micro-ribonucleic acids, and immuno-
+globulin E.60,69–71 Currently, there is no evidence to support
+routine measurement of these novel biomarkers and more re-
+search is required.
+Recommendation Table 2 — Recommendations for
+electrocardiogram baseline assessment
+Recommendations
+Classa
+Levelb
+An ECG is recommended in all patients starting
+cancer therapy as part of their baseline CV risk
+assessment.
+I
+C
+In patients with an abnormal baseline ECG,c
+referral to a cardiologistd is recommended.
+I
+C
+© ESC 2022
+AF, atrial ﬁbrillation; CV, cardiovascular; ECG, electrocardiogram; LV, left ventricular;
+QTc, corrected QT interval; QTcF, corrected QT interval using Fridericia correction.
+aClass of recommendation.
+bLevel of evidence.
+cAdvanced conduction disease (left bundle branch block, right bundle branch block,
+second degree heart block, severe ﬁrst degree heart block with a PR interval
+.300 ms); Q waves in two or more contiguous leads; LV hypertrophy; AF/atrial
+ﬂutter if previously undiagnosed; QTc prolongation using Fridericia correction
+formula (QTcF = QT/3√RR) .450 ms for men and .460 ms for women or other
+ECG abnormality raising concern.
+dCardio-oncology referral is recommended when available; alternatively, the patients
+should be referred to a specialized cardiologist with expertise in managing CVD in
+patients with cancer.
+ESC Guidelines
+4251
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 24 ===
+
+4.5. Cardiovascular imaging
+CV imaging has an important role in identifying patients with subclin-
+ical CVD, determining the degree of pre-existing cardiac comorbidity
+prior to decisions regarding cancer therapy, and serves as a reference
+for identiﬁcation of changes during treatment and long-term follow-
+up.12,54,72–74 Transthoracic echocardiography (TTE) is the preferred
+imaging technique for baseline risk stratiﬁcation as it provides quan-
+titative assessment of LV and right ventricular (RV) function, cham-
+ber dilation, LV hypertrophy, regional wall motion abnormalities,
+diastolic function, VHD, pulmonary arterial pressure (PAP), and peri-
+cardial disease, which may inﬂuence the therapeutic decision.22,72
+Suggestions for the components of a baseline echocardiography
+study are provided in Figure 8.
+Current deﬁnitions of CTRCD are based on a reduction of LVEF
+and/or relative changes in global longitudinal strain (GLS) (Table 3).
+Three-dimensional (3D) echocardiography is the preferred echocar-
+diography modality for the assessment of LVEF and cardiac
+Recommendation Table 3 — Recommendation for
+cardiac biomarker assessment prior to potentially car-
+diotoxic therapies
+Recommendation
+Classa
+Levelb
+Baseline measurement of NPc and/or cTnd is
+recommended in all patients with cancer at risk of
+CTRCD if these biomarkers are going to be
+measured during treatment to detect
+CTRCD.e,53,55
+I
+C
+© ESC 2022
+cTn, cardiac troponin; CTRCD, cancer therapy-related cardiac dysfunction; NP,
+natriuretic peptides.
+aClass of recommendation.
+bLevel of evidence.
+cNPs including B-type natriuretic peptide or N-terminal pro-B-type natriuretic peptide.
+dcTn includes any of troponin I, troponin T, or hs-cTnT.
+eSpeciﬁc recommendations for baseline cardiac biomarkers in patients with cancer at
+low, moderate, high, and very high risk of cancer therapy-related cardiovascular
+toxicity are included in Section 5.
+TTE
+Left ventricle-left atriuma
+TTE
+LVV and LV mass
+3D-LVEF (2D-LVEF if 
+3D not available)
+Contrast echo if inadequate 
+TTE image quality
+GLS 
+E/e´, LAV
+RVV
+RVEF
+CMR
+Right ventricle-right atriuma
+RV dimensions
+S´
+TAPSE
+FAC
+RV-FWLS
+RA area
+Peak TRV
+LVV and LV mass
+LVEF 
+LS and circumferential strain
+if available
+Myocardial Characterization 
+T2w (STIR), T1, T2 maps, LGE
+CMR
+Valvular and pericardial
+diseases
+IVC diameter, and respiratory
+changes
+Valvular and pericardial
+diseases
+Other parameters
+TTE
+CMR
+Figure 8 Recommended transthoracic echocardiography and cardiac magnetic resonance imaging parameters in the evaluation of patients with cancer.
+2D, two-dimensional; 3D, three-dimensional; BP, blood pressure; CMR, cardiac magnetic resonance; E, mitral inﬂow early diastolic velocity obtained by pulsed
+wave; e′, early diastolic velocity of the mitral annulus obtained by tissue doppler imaging; echo, echocardiography; FAC, fractional area change; FWLS, free wall
+longitudinal strain; GLS, global longitudinal strain; IVC, inferior vena cava; LAV, left atrial volume; LGE, late gadolinium enhancement; LS, longitudinal strain; LV,
+left ventricular; LVEF, left ventricular ejection fraction; LVV, left ventricular volume; RA, right atrial; RV, right ventricular; RVEF, right ventricular ejection fraction;
+RVV, right ventricular volume; s′, systolic velocity of tricuspid annulus obtained by doppler tissue imaging; STIR, short tau inversion recovery; TAPSE, tricuspid
+annular plane systolic excursion; TTE, transthoracic echocardiography; TRV, tricuspid regurgitation velocity. aChanges in systemic arterial BP and loading con-
+ditions may inﬂuence cardiac function measurements.
+4252
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 25 ===
+
+volumes.54,75–79 If 3D echocardiography is not feasible (e.g. unavail-
+able or poor tracking), the modiﬁed two-dimensional (2D)
+Simpson’s biplane method is recommended.80,81 In patients with in-
+adequate TTE image quality, ultrasound-enhancing contrast agents
+should be added to improve evaluation of LV function and volumes
+if two or more LV segments are not well visualized.82 Alternatively, in
+subjects with poor-quality echocardiography windows, when avail-
+able, CMR should be considered (Figure 8).14,72,83,84 If TTE and
+CMR are both unavailable for the assessment of LVEF, multigated ac-
+quisition nuclear imaging (MUGA) can be considered as a third-line
+modality. MUGA scans should be avoided whenever possible due
+to radiation exposure and the inability to obtain other important in-
+formation (e.g. VHD, PAP, or GLS).
+Baseline LVEF and GLS are recommended in all patients evaluated
+with TTE before cardiotoxic cancer treatment initiation to stratify
+CTR-CVT risk and to identify signiﬁcant changes during treat-
+ment.8,64 Changes in loading conditions occur frequently during
+chemotherapy (e.g. volume increase due to intravenous [i.v.] ﬂuids,
+volume loss due to vomiting or diarrhoea, blood pressure [BP] and
+heart rate changes with pain or stress) and may affect cardiac vo-
+lumes, LVEF, and GLS quantiﬁcation. Systemic arterial BP measure-
+ment is recommended with all resting TTE as it can inﬂuence
+cardiac function measurements and should be recorded on the
+TTE report. A baseline borderline (50–54%) or reduced (,50%)
+LVEF is a risk factor for future CTR-CVT from most cardiotoxic can-
+cer therapies, in particular with anthracyclines or trastuzumab.12,24,74
+Increased baseline indexed LV end-diastolic volume can be a predict-
+or of major CV events (symptomatic HF or cardiac death) during an-
+thracycline chemotherapy in patients with preserved LVEF.85
+A normal LVEF does not exclude CTRCD and deformation para-
+meters can detect early systolic impairment with sufﬁcient test reli-
+ability.86–89 Determination of GLS using speckle tracking is
+recommended at baseline, using three apical views,90 particularly
+in moderate- and high-risk patients. Baseline GLS can predict
+LVD89–94 in patients receiving anthracyclines and/or trastuzumab.
+Strain measurements may be subject to inter-vendor variability95
+and serial GLS measurement for each patient is recommended to
+be performed using the same machine/software. A median GLS
+change of 13.6% predicted a future fall in LVEF with a 95% upper limit
+of GLS reduction of 15%.93 Using the 15% cut-off improves speciﬁ-
+city and is therefore the threshold recommended when monitoring
+GLS during cancer therapy. Global circumferential strain96 has been
+reported to identify patients at risk of CTRCD, but data are currently
+insufﬁcient to recommend its use routinely. Baseline LV diastolic
+function may be associated with a small risk of subsequent systolic
+dysfunction, especially with anthracyclines and trastuzumab, al-
+though the evidence is not consistent.97,98 Chest computed tomog-
+raphy (CT) or CMR may be helpful for identifying subclinical CVD
+such as coronary calcium or intracardiac masses on readily available
+routine imaging performed for cancer staging.99
+In the secondary prevention setting or patients with symptoms or
+signs of pre-existing CVD, a careful evaluation should begin with a
+comprehensive TTE.73 This is both to obtain baseline assessment
+as in the primary prevention setting and to determine the severity
+of the underlying CVD. In case of poor-quality or uninterpretable
+TTE images, or if a speciﬁc CVD is identiﬁed (e.g. hypertrophic
+cardiomyopathy), CMR should be considered for further risk
+assessment.
+Functional imaging tests for myocardial ischaemia—including
+stress echocardiography, perfusion CMR, or nuclear myocardial per-
+fusion imaging—should be performed to assess for ischaemia in
+symptomatic patients (stable angina, limiting dyspnoea) if clinical sus-
+picion of coronary artery disease (CAD) exists, especially prior to
+use of cancer therapies associated with vascular toxicity (e.g. ﬂuoro-
+pyrimidines, VEGFi, breakpoint cluster region–Abelson oncogene lo-
+cus [BCR-ABL], tyrosine kinase inhibitors [TKI]). Alternatively, in
+patients with low to intermediate pre-test probability of CAD,
+CCTA is a robust alternate modality with high sensitivity to rule
+out obstructive CAD.100,101
+4.6. Cardiopulmonary ﬁtness assessment
+Maximal cardiopulmonary exercise testing (CPET) assesses the inte-
+grative capacity of the CV system to transport oxygen and energy
+substrate to skeletal muscle during exercise,109 described as cardio-
+respiratory ﬁtness (CRF). CPET can therefore provide a more global
+assessment of CV health than organ-speciﬁc tools. CPET-derived
+Recommendation Table 4 — Recommendations for
+cardiac imaging modalities in patients with cancer
+General
+Classa
+Levelb
+Echocardiography is recommended as the
+ﬁrst-line modality for the assessment of cardiac
+function in patients with cancer.4,12,54,94
+I
+C
+3D echocardiography is recommended as the
+preferred echocardiographic modality to measure
+LVEF.77–79,89
+I
+B
+GLS is recommended in all patients with cancer
+having echocardiography, if
+available.75,80,81,89,90,92,93,102,103
+I
+C
+CMR should be considered for the assessment of
+cardiac function when echocardiography is
+unavailable or non-diagnostic.83,104,105
+IIa
+C
+MUGA may be considered when TTE is not
+diagnostic and CMR is not available.106–108
+IIb
+C
+Baseline cardiac imaging prior to potentially cardiotoxic
+therapiesc
+Baseline comprehensive TTE is recommended in
+all patients with cancer at high risk and very high
+risk of CV toxicity before starting anticancer
+therapy.d,54
+I
+C
+© ESC 2022
+3D, three-dimensional;
+CMR,
+cardiac magnetic
+resonance;
+CTR-CVT, cancer
+therapy-related CV toxicity; CV, cardiovascular; GLS, global longitudinal strain; LVEF,
+left ventricular ejection fraction; MUGA, multigated acquisition nuclear imaging; TTE,
+transthoracic echocardiography.
+aClass of recommendation.
+bLevel of evidence.
+cSpeciﬁc recommendations for baseline CV imaging in patients with cancer at low or
+moderate risk of CTR-CVT are included in Section 5.
+dExcept asymptomatic patients referred to breakpoint cluster region-Abelson oncogene
+locus therapy (BCR-ABL) where baseline TTE should be considered (see Figure 7
+and Section 5.5.5).
+ESC Guidelines
+4253
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 26 ===
+
+CRF—typically measured as the peak rate of oxygen consump-
+tion110,111 or metabolic equivalents111,112 during exercise—is one
+of the most robust predictors of CV health and longevity,113,114
+and improves risk classiﬁcation.115–121 Evidence for CPET pre-
+treatment is limited to pre-operative risk stratiﬁcation particularly
+for patients with lung,122 colon,123 and rectal124 cancers. Whether
+CPET performed prior to cardiotoxic cancer therapies is prognostic
+of future CV events is unknown.
+4.7. Cardiovascular risk evaluation
+before cancer surgery
+Cancer surgery remains the primary treatment modality for many
+cancers. Cardio-oncology teams should be involved in pre-operative
+CV risk stratiﬁcation to identify and provide appropriate manage-
+ment and surveillance of the potential risk factors.5
+In patients undergoing oncological surgery, peri-operative car-
+diac complications are determined by patient-related risk factors,
+the tumour type, concomitant cancer therapies, and the expected
+surgical risk. To ensure safe cancer surgery, consultations should
+be directed at: (1) patients with previous signiﬁcant or symptom-
+atic CVD; (2) patients at high and very high CV toxicity risk, ac-
+cording to baseline HFA-ICOS risk assessment tools,12 when
+adjuvant (post-surgery) cancer treatment is planned; and (3) pa-
+tients who have received neoadjuvant (prior to surgery) cancer
+therapy that is potentially cardiotoxic. Pre-operative clinical evalu-
+ation should not delay surgery. Complementary tests required for
+the patients included in groups 1 and 2 should be guided by general
+ESC Guidelines.125 However, in group 3 patients, the pre-
+operative evaluation should be aimed at conﬁrming that no rele-
+vant events have occurred during CV monitoring (Section 5).
+Table 6 summarizes factors that could inﬂuence peri-operative
+risk during cancer surgery.
+4.8. Genetic testing
+Candidate gene and genome-wide association studies have re-
+sulted in the identiﬁcation of 40 candidate genes and single nucleo-
+tide polymorphisms associated with anthracycline-related cardiac
+dysfunction.37,126–128 It should be noted that with the advent of
+immunotherapies, germline genes may not be the only genetic pre-
+dispositions to CTR-CVT. A study of patients with ICI-associated
+myocarditis identiﬁed that the selective clonal T-cell populations
+inﬁltrating the myocardium were identical to those present in tu-
+mours and skeletal muscle, with ribonucleic acid sequencing stud-
+ies revealing expression of cardiac-speciﬁc genes in the tumour,129
+raising the intriguing possibility that somatic mutations in the tu-
+mour itself could contribute to CTR-CVT. A list of genetic variants
+associated
+with
+CVD
+during
+cancer
+therapy
+is
+provided
+(Supplementary data, Table S9) and has recently been reviewed.38
+Routine use of genetic testing for the assessment of CTR-CVT risk
+prior to initiation of cancer therapy is not currently recommended.
+In the future, a personalized genetic approach may help deﬁne indi-
+vidual susceptibility to CVD in patients with cancer and more re-
+search is required.
+5. Prevention and monitoring of
+cardiovascular complications
+during cancer therapy
+5.1. General principles
+CTR-CVT risk may vary according to cancer type and stage, antic-
+ancer drugs, doses, and underlying comorbidities. Certain therapy
+combinations (drug–drug or drug–radiation) may have a synergis-
+tically toxic effect on the heart, possibly depending on the timing
+of these therapies (sequential or concomitant) and previous co-
+morbidities. The pathophysiology of CTR-CVT is out of the scope
+of this guideline and is extensively reviewed in the
+ESC
+CardioMed textbook.130
+CVD and cancer share common modiﬁable and non-modiﬁable
+risk factors (Figure 3).4,131,132 The ﬁrst step is to optimize lifestyle
+CVRF, smoking cessation, restricting alcohol consumption to a max-
+imum of 100 g per week, and maintaining adequate physical activ-
+ity.30 Exercise prescription seems to be a promising treatment to
+Table 6
+Factors that could inﬂuence peri-operative risk during cancer surgery and preventive strategies
+Factors that could inﬂuence peri-operative risk during cancer surgery
+Preventive strategies
+Patient-related
+factors
+• Lifestyle risk factors: smoking, obesity, sedentary lifestyle
+• Poorly controlled CVRF: hypertension, DM
+• Pre-existing CVD including CTR-CVT
+• Cardiac medications that increase peri-operative bleeding risk (e.g. antiplatelets and
+anticoagulants)
+• Historical primary malignancy
+• Current cancer type, stage and location
+• Optimal management of CVRF and
+CVD (Section 5)
+• Optimize VTE and ATE preventive
+strategies (Section 6)
+Neoadjuvant cancer
+therapy
+• Neoadjuvant cardiotoxic cancer treatments (see Section 5; especially anthracycline
+chemotherapy and/or trastuzumab, ICI, VEGFi, ﬂuoropyrimidine, and thoracic RT)
+• Cancer treatments that increase peri-operative bleeding risk (e.g. VEGFi, BTK
+inhibitors)
+• Thrombocytopaenia caused by cancer treatment
+• Ensure optimal CV monitoring of
+neoadjuvant therapy (Section 5)
+• Optimize VTE and ATE preventive
+strategies (Section 6)
+© ESC 2022
+ATE, arterial thromboembolism; BTK, Bruton tyrosine kinase; CTR-CVT, cancer therapy-related cardiovascular toxicity; CV, cardiovascular; CVD, cardiovascular disease; CVRF,
+cardiovascular risk factors; DM, diabetes mellitus; ICI, immune checkpoint inhibitors; RT, radiotherapy; VEGFi, vascular endothelial growth factor inhibitors; VTE, venous
+thromboembolism.
+4254
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026

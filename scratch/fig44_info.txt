@@ -1,0 +1,1 @@
+Block: (48.01890182495117, 533.1436157226562, 552.2861328125, 552.9052734375, 'Figure 44 Risk stratiﬁcation in patients with a cardiac implantable electronic device undergoing radiotherapy. CIED, cardiac implantable electronic de-\nvice; Gy, Gray; ICD, implantable cardioverter deﬁbrillator; MV, megavolt; RT, radiotherapy.\n', 21, 0)

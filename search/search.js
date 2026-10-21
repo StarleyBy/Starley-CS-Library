@@ -48,6 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function escapeRegex(string) {
+        if (!string || typeof string !== 'string') return '';
         return string.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
     }
 
@@ -65,28 +66,33 @@ document.addEventListener('DOMContentLoaded', () => {
         
         queryWords.forEach((word, wordIdx) => {
             const escapedWord = escapeRegex(word);
-            const regex = new RegExp(escapedWord, 'gi');
-            
-            let match;
-            while ((match = regex.exec(text)) !== null) {
-                const start = match.index;
-                const end = start + word.length;
+            if (!escapedWord) return;
+            try {
+                const regex = new RegExp(escapedWord, 'gi');
                 
-                // Boundary check
-                const prevChar = start > 0 ? text[start - 1] : '';
-                const nextChar = end < text.length ? text[end] : '';
-                
-                const isPrevWordChar = isWordChar.test(prevChar);
-                const isNextWordChar = isWordChar.test(nextChar);
-                
-                // Enforce strict boundaries for short words
-                if (word.length <= 3) {
-                    if (isPrevWordChar || isNextWordChar) {
-                        continue;
+                let match;
+                while ((match = regex.exec(text)) !== null) {
+                    const start = match.index;
+                    const end = start + word.length;
+                    
+                    // Boundary check
+                    const prevChar = start > 0 ? text[start - 1] : '';
+                    const nextChar = end < text.length ? text[end] : '';
+                    
+                    const isPrevWordChar = isWordChar.test(prevChar);
+                    const isNextWordChar = isWordChar.test(nextChar);
+                    
+                    // Enforce strict boundaries for short words
+                    if (word.length <= 3) {
+                        if (isPrevWordChar || isNextWordChar) {
+                            continue;
+                        }
                     }
+                    
+                    matches.push({ start, end, word, wordIdx });
                 }
-                
-                matches.push({ start, end, word, wordIdx });
+            } catch (err) {
+                console.warn('[findWordMatches regex error]:', err);
             }
         });
         
@@ -193,8 +199,8 @@ document.addEventListener('DOMContentLoaded', () => {
         showLoading('Loading search index...');
         try {
             const [indexRes, configRes] = await Promise.all([
-                fetch('search-index.json'),
-                fetch('search-config.json')
+                fetch('search-index.json?v=v28'),
+                fetch('search-config.json?v=v28')
             ]);
 
             if (!indexRes.ok || !configRes.ok) {

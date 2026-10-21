@@ -87,6 +87,24 @@ try {
   assert(false, `Ошибка unit-тестирования reader.js: ${e.message}`);
 }
 
+// 6. Проверка поискового модуля Spotlight Search 2.0 (search-optimizations)
+console.log('\n📋 6. Проверка Spotlight Search 2.0 (search-optimizations)...');
+try {
+  const searchOutput = execSync('node tests/unit/search-optimizations.test.mjs', { cwd: root, encoding: 'utf8' });
+  assert(searchOutput.includes('ALL SPOTLIGHT SEARCH 2.0 UNIT TESTS PASSED'), 'Unit-тесты Spotlight Search 2.0 успешно пройдены');
+} catch (e) {
+  assert(false, `Ошибка unit-тестирования Spotlight Search 2.0: ${e.message}`);
+}
+
+// 7. Проверка синхронизации и авторизации Cloud Sync & Auth (supabase-sync-optimizations)
+console.log('\n📋 7. Проверка Cloud Sync & Auth (supabase-sync-optimizations)...');
+try {
+  const syncOutput = execSync('node tests/unit/supabase-sync-optimizations.test.mjs', { cwd: root, encoding: 'utf8' });
+  assert(syncOutput.includes('ALL CLOUD SYNC & AUTH OPTIMIZATION TESTS PASSED'), 'Unit-тесты Cloud Sync & Auth успешно пройдены');
+} catch (e) {
+  assert(false, `Ошибка unit-тестирования Cloud Sync & Auth: ${e.message}`);
+}
+
 console.log(`\n======================================================`);
 console.log(`Итог: Всего проверок: ${totalTests} | Пройдено: ${passedTests} | Провалено: ${failedTests}`);
 console.log(`======================================================\n`);

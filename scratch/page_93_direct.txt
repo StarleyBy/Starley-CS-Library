@@ -1,0 +1,67 @@
+CTbEchocardiographya PETdCMRc
+Secondary tumour
+(metastasis)f
+Benign primary
+tumour
+Malignant primary
+tumour
+Diagnostic algorithm for cardiac masses
+Non-invasive assessment of single or multiple cardiac masses
+T umour
+Type
+Thrombus, vegetation, structural
+Consider cardiac mass biopsy if malignant primary
+tumour suspected or diagnosis uncertain on imaginge
+Lymphoma
+Sarcoma
+Angioma, lipoma, papillary
+fibroelastoma
+Myxoma 
+Leukaemias 
+Lymphomas
+Melanomas
+Solid tumours: breast, lung,
+and oesophageal cancers
+Figure 40 Diagnostic algorithm for cardiac masses. CMR, cardiac magnetic resonance; CT, computed tomography; PET, positron emission tomog-
+raphy; TTE, transthoracic echocardiography. aTTE/transoesophageal echocardiography: location, size, and haemodynamic disturbances. Contrast echo-
+cardiography to assess vascularization. bIdentify primary extra-cardiac malignancy. Reveal extra-cardiac changes. Staging of malignant lesions. cTissue
+characterization (fat in ﬁltration, necrosis, haemorrhage, calci ﬁcation, and vascularization). Exclude thrombus. dDistinguish malignant vs. benign lesions.
+Staging of malignant lesions. eMass biopsy of suspected primary malignant cardiac tumours and/or biopsy of extracardiac masses if detected and safer
+to biopsy. f20–30 times more likely than primary tumours.
+Table 13 Management strategies and surgery indications for symptomatic and asymptomatic patients with benign
+and malignant cardiac tumours
+Classiﬁcation Management strategies Surgery indications
+Benign
+tumours
+Asymptomatic MDT discussion is required considering: tumour type,
+location, size, growth rate, and likelihood of embolism.
+Anticoagulation should be considered for left-sided
+tumours or right-sided tumours associated with an
+intracardiac shunt, according to the individual’s embolic and
+bleeding risk
+If left-sided and endocardial: even if small and incidental, a
+MDT is needed to consider the indication for surgical
+removal due to the embolic risk
+Symptomatic Non-surgical management for:
+ Rhabdomyomas (possible spontaneous regression)
+ Intramural haemangioma (possible response to
+corticosteroids)
+ Unresectable cases: if antiarrhythmic therapy is sufﬁcient
+Surgical resection is indicated in all other cases.
+For large, benign, unresectable, symptomatic cardiac
+tumours (obstruction, severe HF, or malignant
+arrhythmias), heart transplantation may be indicated in
+some cases
+Malignant
+tumours
+Asymptomatic Histopathological diagnosis is required If primary cardiac sarcoma, a complete surgical resection
+may increase survival
+Symptomatic Chemotherapy and/or RT are the only therapeutic options
+for secondary cardiac tumours.
+If primary cardiac lymphoma: chemotherapy
+Secondary cardiac tumours may also be treated with
+palliative cardiac surgery
+© ESC 2022
+HF, heart failure; MDT, multidisciplinary team; RT, radiotherapy.
+ESC Guidelines 4321
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026

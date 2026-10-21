@@ -64,6 +64,21 @@
         "file": "chapter-07.md",
         "title": "Chronic coronary syndromes 2024 (ESC)",
         "russian": "Хронический коронарный синдром 2024 (ESC)"
+      },
+      {
+        "file": "chapter-08.md",
+        "title": "Surgical treatment of acute type A aortic dissection (AATS 2021 Consensus)",
+        "russian": "Хирургическое лечение острого расслоения аорты типа А (Консенсус AATS 2021)"
+      },
+      {
+        "file": "chapter-09.md",
+        "title": "Pulmonary embolism 2019 (ESC/ERS)",
+        "russian": "Тромбоэмболия легочной артерии 2019 (ESC/ERS)"
+      },
+      {
+        "file": "chapter-10.md",
+        "title": "Cardio-oncology 2022 (ESC/EHA/ESTRO/IC-OS)",
+        "russian": "Кардиоонкология 2022 (ESC/EHA/ESTRO/IC-OS)"
       }
     ],
     "appendices": []

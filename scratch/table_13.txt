@@ -1,0 +1,57 @@
+Table 13).756
+9.2. Pregnant patients with cancer
+The diagnosis of cancer during pregnancy is uncommon (1 in every
+1000 pregnant women is diagnosed with cancer), with BC, melan-
+oma, and cervical cancer being the most frequent diagnoses.757
+Chemotherapy is generally not applied during the ﬁrst trimester
+due to the high risk of foetal congenital abnormalities (up to 20%)
+and cytotoxic chemotherapies have different risk proﬁles during
+the second or third trimesters.758,759 Furthermore, chemotherapy
+administration is usually not given beyond week 34 of gestation to
+provide a 3-week window between the last cycle and delivery.757
+Supplementary data, Table S19 summarizes the chemotherapies
+for pregnant patients with cancer.760,761
+Cardiac assessment prior to chemotherapy in pregnant women
+with cancer should consist of clinical history, physical examination,
+ECG, cardiac biomarker assessment and TTE (Figure 41).741
+Baseline and follow-up TTE should be interpreted in the context
+of physiological haemodynamic alterations during pregnancy. In nor-
+mal pregnancy, increase in stroke volume, heart rate, and pre-load
+blood volume, and decrease in systemic vascular resistance, lead to
+an increase in cardiac output from the ﬁrst trimester to 80–85%
+above baseline by the third trimester.762–764 An increase in LV
+mass and LV and RV volumes is observed in the third trimester.
+During normal pregnancy, LVEF is usually unchanged and can be
+used for CTRCD monitoring. Although NP and cTn may be slightly
+elevated during normal pregnancy (NT-proBNP , 300 ng/L, BNP ,
+100 pg/mL,14 and hs-cTnT765,766), serial evaluation may be useful for
+Recommendation Table 46 — Recommendations for
+cardiovascular monitoring in cancer survivors during
+pregnancy
+Recommendations
+Classa
+Levelb
+In high-risk female CS, pre-pregnancy counselling
+and management during pregnancy and around
+delivery by a multidisciplinary pregnancy heart
+team is recommended.
+I
+C
+A baseline CV evaluation including history,
+physical examination, ECG, NP, and
+echocardiography is recommended in female CS
+with a history of CTRCD who are considering
+pregnancy.
+I
+C
+A baseline CV evaluation including history,
+physical examination, ECG, and echocardiography
+should be considered in all female CS who
+received potentially cardiotoxic cancer therapy
+and are considering pregnancy.
+IIa
+C
+A CV evaluation including echocardiography is
+recommended at 12 weeks of pregnancy in female
+CS who are either high-risk or who received
+potentially cardioto

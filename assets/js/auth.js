@@ -341,7 +341,7 @@
     }
 
     function showRoleIndicator(userInfo) {
-        if (!userInfo) return;
+        if (!userInfo || typeof document === 'undefined' || !document.body) return;
         const existing = document.getElementById('role-indicator');
         if (existing) existing.remove();
 
@@ -543,6 +543,23 @@
         // Resilient background sync: flush any pending quiz sessions
         if (currentUser && !currentUser.isGuest && window.SupabaseAPI && typeof window.SupabaseAPI.syncPendingQuizSessions === 'function') {
             window.SupabaseAPI.syncPendingQuizSessions().catch(() => {});
+        }
+
+        // Reactive UI updates via decoupled authEvents Observer
+        if (window.SupabaseAPI && window.SupabaseAPI.authEvents) {
+            window.SupabaseAPI.authEvents.addEventListener('authChange', (e) => {
+                const { event, session, user } = e.detail || {};
+                const nameDisplay = document.getElementById('profile-nickname-display');
+                const userProfileEl = document.getElementById('user-profile');
+                if (event === 'SIGNED_OUT') {
+                    if (nameDisplay) nameDisplay.textContent = 'Войти';
+                    if (userProfileEl) userProfileEl.textContent = 'Войти';
+                } else if (event === 'SIGNED_IN' && user) {
+                    const nick = user.user_metadata?.nickname || user.email || 'Doctor';
+                    if (nameDisplay) nameDisplay.textContent = nick;
+                    if (userProfileEl) userProfileEl.textContent = nick;
+                }
+            });
         }
     }
 

@@ -1,0 +1,482 @@
+
+
+==================== PAGE 15 ====================
+
+Table 3
+Cancer therapy-related cardiovascular toxicity deﬁnitions
+CTRCD
+Symptomatic CTRCD (HF)a,b
+Very severe
+HF requiring inotropic support, mechanical circulatory support, or
+consideration of transplantation
+Severe
+HF hospitalization
+Moderate
+Need for outpatient intensiﬁcation of diuretic and HF therapy
+Mild
+Mild HF symptoms, no intensiﬁcation of therapy required
+Asymptomatic CTRCD
+Severe
+New LVEF reduction to ,40%
+Moderate
+New LVEF reduction by ≥10 percentage points to an LVEF
+of 40–49%
+OR
+New LVEF reduction by ,10 percentage points to an LVEF of 40–
+49% AND either new relative decline in GLS by .15% from baseline
+OR new rise in cardiac biomarkersc
+Mild
+LVEF ≥50%
+AND new relative decline in GLS by .15% from baseline
+AND/OR new rise in cardiac biomarkersc
+ICI myocarditis (either pathohistological diagnosis or clinical diagnosis)
+Pathohistological diagnosis (EMB)
+Multifocal inﬂammatory cell inﬁltrates with overt cardiomyocyte loss by light microscopy
+Clinical diagnosisd
+cTn elevation (new or signiﬁcant change from baseline)e with 1 major criterion or 2 minor criteria,
+after exclusion of ACS and acute infectious myocarditis based on clinical suspicionf
+Major criterion:
+• CMR diagnostic for acute myocarditis (modiﬁed Lake Louise criteria)g
+Minor criteria:
+• Clinical syndrome (including any one of the following: fatigue, myalgias, chest pain, diplopia, ptosis,
+shortness of breath, orthopnoea, lower-extremity oedema, palpitations, light-headedness/dizziness,
+syncope, muscle weakness, cardiogenic shock)
+• Ventricular arrhythmia (including cardiac arrest) and/or new conduction system disease
+• Decline in LV systolic function, with or without regional wall motion abnormalities in a non-Takotsubo
+pattern
+• Other immune-related adverse events, particularly myositis, myopathy, myasthenia gravis
+• Suggestive CMRh
+Severity of myocarditis
+• Fulminant: Haemodynamic instability, HF requiring non-invasive or invasive ventilation, complete or
+high-grade heart block, and/or signiﬁcant ventricular arrhythmia
+• Non-fulminant: including symptomatic but haemodynamically and electrically stable patients and
+incidental cases diagnosed at the same time as other immuno-related adverse events. Patients may have
+reduced LVEF but no features of severe disease
+• Steroid refractory: non-resolving or worsening myocarditis (clinical worsening or persistent troponin
+elevation after exclusion of other aetiologies) despite high-dose methylprednisolone
+Recovery from myocarditis
+• Complete recovery: Patients with complete resolution of acute symptoms, normalization of
+biomarkers, and recovery of LVEF after discontinuation of immunosuppression. CMR may still show LGE
+or elevated T1 due to ﬁbrosis, but any suggestion of acute oedema should be absent
+• Recovering: Ongoing improvement in patient clinical symptoms, signs, biomarkers, and imaging
+parameters, but not yet normalized, while on tapering doses of immunosuppression
+Vascular toxicity (for general cardiology deﬁnitions, see Supplementary data, Table S1)
+Asymptomatic vascular toxicity
+CAD
+Symptomatic vascular
+toxicity
+Stroke
+PAD
+Transient ischaemic attack
+Carotid artery disease
+MI
+Venous thrombosis
+ACS
+Arterial thrombosis
+CCS
+Peripheral vasoreactivity
+PAD
+Continued
+ESC Guidelines
+4243
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+==================== PAGE 18 ====================
+
+Table 4
+Heart Failure Association–International Cardio-Oncology Society baseline cardiovascular toxicity risk
+stratiﬁcation
+Baseline CV toxicity
+risk factors
+Anthracycline
+chemotherapy
+HER2-targeted
+therapies
+VEGF
+inhibitors
+BCR-ABL
+inhibitors
+Multiple
+myeloma
+therapies
+RAF and
+MEK
+inhibitors
+Previous CVD
+HF/cardiomyopathy/
+CTRCD
+VH
+VH
+VH
+H
+VH
+VH
+Severe VHD
+H
+H
+–
+–
+–
+H
+MI or PCI or CABG
+H
+H
+VH
+–
+–
+H
+Stable angina
+H
+H
+VH
+–
+–
+H
+Arterial vascular disease
+–
+–
+VH
+VH
+VH
+–
+Abnormal ankle-brachial
+pressure index
+–
+–
+–
+H
+–
+–
+PH
+–
+–
+–
+H
+–
+–
+Arterial thrombosis with TKI
+–
+–
+–
+VH
+–
+–
+Venous thrombosis
+(DVT/PE)
+–
+–
+H
+M2
+VH
+–
+Arrhythmiaa
+–
+M2
+M2
+M2
+M2
+M1
+QTc ≥480 ms
+–
+–
+H
+H
+–
+–
+450 ≤QTc , 480 ms (men);
+460 ≤QTc , 480 ms
+(women)
+–
+–
+M2
+M2
+–
+–
+Prior PI CV toxicity
+–
+–
+–
+–
+VH
+–
+Prior IMiD CV toxicity
+–
+–
+–
+–
+H
+–
+Cardiac imaging
+LVEF , 50%
+H
+H
+H
+H
+H
+H
+LVEF 50–54%
+M2
+M2
+M2
+–
+M2
+M2
+LV hypertrophy
+–
+–
+–
+–
+M1
+–
+Cardiac amyloidosis
+–
+–
+–
+–
+VH
+–
+Cardiac biomarkers
+Elevated baseline cTnb
+M1
+M2
+M1
+–
+M2
+M2
+Elevated baseline NPb
+M1
+M2
+M1
+–
+H
+M2
+Age and CVRF
+Age ≥80 years
+H
+H
+–
+–
+–
+M1
+Age 65–79 years
+M2
+M2
+–
+–
+–
+M1
+Age ≥75 years
+–
+–
+H
+H
+H
+M1
+Age 65–74 years
+–
+–
+M1
+M2
+M1
+M1
+Age ≥60 years
+–
+–
+–
+M1
+–
+–
+CVD 10-year risk score
+. 20%
+–
+–
+–
+H
+–
+–
+Hypertensionc
+M1
+M1
+H
+M2
+M1
+M2
+Chronic kidney diseased
+M1
+M1
+M1
+M1
+M1
+M1
+Proteinuria
+–
+–
+M1
+–
+–
+–
+DMe
+M1
+M1
+M1
+M1
+M1
+M1
+Hyperlipidaemiaf
+–
+–
+M1
+M1
+M1
+–
+Family history of
+thrombophilia
+–
+–
+–
+M1
+M1
+–
+Continued
+4246
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+==================== PAGE 19 ====================
+
+calculators (e.g. SMART [Second manifestations of arterial disease]
+risk score, ADVANCE [Action in Diabetes and Vascular Disease:
+Preterax and Diamicron-MR Controlled Evaluation] risk score,
+SCORE2 [Systematic Coronary Risk Estimation 2], SCORE2-OP
+[Systematic Coronary Risk Estimation 2—Older Persons], ASCVD
+[AtheroSclerotic Cardiovascular Disease] risk score, U-Prevent,
+and lifetime risk calculators) may be considered at baseline for the
+assessment of CV risk, considering that cancer itself may increase
+the likelihood of CVD.19,23,30,31
+Baseline risk assessment should be considered by the treating on-
+cology or haematology team for all patients diagnosed with cancer
+who are scheduled to receive a cancer treatment identiﬁed to
+have a clinically signiﬁcant level of CRT-CVT, or by a cardiologist if
+appropriate.
+In
+the
+case
+of
+patients
+scheduled
+to
+receive
+Current cancer treatment
+Dexamethasone . 160 mg/
+month
+–
+–
+–
+–
+M1
+–
+Includes anthracycline
+before HER2-targeted
+therapy
+–
+M1g
+–
+–
+–
+–
+Previous exposure to
+Anthracycline
+H
+M2h
+H
+–
+H
+H
+Trastuzumab
+–
+VH
+–
+–
+–
+–
+RT to left chest or
+mediastinum
+H
+M2
+M1
+–
+M1
+M2
+Non-anthracycline
+chemotherapy
+M1
+–
+–
+–
+–
+–
+Lifestyle risk factors
+Current smoker or
+signiﬁcant smoking history
+M1
+M1
+M1
+H
+M1
+M1
+Obesity (BMI . 30 kg/m2)
+M1
+M1
+M1
+M1
+M1
+M1
+© ESC 2022
+AF, atrial ﬁbrillation; BCR-ABL, breakpoint cluster region–Abelson oncogene locus; BMI, body mass index; BNP, B-type natriuretic peptide; BP, blood pressure; CABG, coronary artery
+bypass graft; cTn, cardiac troponin; CTRCD, cancer therapy-related cardiac dysfunction; CV, cardiovascular; CVD, cardiovascular disease; CVRF, cardiovascular risk factors; DM, diabetes
+mellitus; DVT, deep vein thrombosis; eGFR, estimated glomerular ﬁltration rate; H, high risk; HbA1c, glycated haemoglobin; HER2, human epidermal receptor 2; HF, heart failure; IMiD,
+immunomodulatory drugs; LV, left ventricular; LVEF, left ventricular ejection fraction; M, moderate risk; MEK, mitogen-activated extracellular signal-regulated kinase; MI, myocardial
+infarction; MM, multiple myeloma; NP, natriuretic peptides (including BNP and NT-proBNP); NT-proBNP, N-terminal pro-B-type natriuretic peptide; PCI, percutaneous coronary
+intervention; PE, pulmonary embolism; PH, pulmonary hypertension; PI, proteasome inhibitors; QTc, corrected QT interval; RAF, rapidly accelerated ﬁbrosarcoma; RT,
+radiotherapy; TKI, tyrosine kinase inhibitors; ULN, upper limit of normal; VEGFi, vascular endothelial growth factor inhibitors; VH, very high risk; VHD, valvular heart disease.
+An expanded version of this table is provided in Supplementary data, Tables S2–S7.
+Risk level: Low risk = no risk factors OR one moderate1 risk factor; moderate risk (M) = moderate risk factors with a total of 2–4 points (Moderate 1 [M1] = 1 point; Moderate
+[M2] = 2 points); high risk (H) = moderate risk factors with a total of ≥5 points OR any high-risk factor; very-high risk (VH) = any very-high risk factor.
+aAF, atrial ﬂutter, ventricular tachycardia, or ventricular ﬁbrillation.
+bElevated above the ULN of the local laboratory reference range.
+cSystolic BP . 140 mmHg or diastolic BP . 90 mmHg, or on treatment.
+deGFR , 60 mL/min/1.73 m2.
+eHbA1c . 7.0% or .53 mmol/mol, or on treatment.
+fNon-high density lipoprotein cholesterol .3.8 mmol/L (.145 mg/dL) or on treatment.
+gHigh risk if anthracycline chemotherapy and trastuzumab delivered concurrently.
+hPrevious malignancy (not current treatment protocol).
+Table 5
+Anthracycline equivalence dose
+Doxorubicin
+Epirubicin
+Daunorubicin
+Mitoxantrone
+Idarubicina
+CV toxicity dose ratio
+1
+0.8
+0.6
+10.5
+5
+Isoequivalent dose
+100 mg/m2
+125 mg/m2
+167 mg/m2
+9.5 mg/m2
+20 mg/m2
+© ESC 2022
+This table refers to anthracycline equivalence dose using doxorubicin as a reference. Note that these isoequivalent doses are derived from paediatric CS.
+CS, cancer survivors; CV, cardiovascular.
+aData for idarubicin are based upon an estimated anticancer efﬁcacy ratio, not derived from cardiotoxicity data. The CV toxicity dose ratio provides the value that should be used to
+multiply the dose of the anthracycline of interest to convert to isoequivalent doses of doxorubicin; e.g. to convert 125 mg/m2 of epirubicin to doxorubicin isoequivalent, multiply the dose
+by 0.8 (125 mg/m2 × 0.8 = 100 mg/m2 of doxorubicin).
+ESC Guidelines
+4247
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026

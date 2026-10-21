@@ -28,11 +28,13 @@ function stemRussianWord(word) {
   return w.length >= 2 ? w : word;
 }
 
-// IndexedDB Helper for Instant Local Caching (< 15ms)
-function getCachedIndexFromIndexedDB() {
+const SEARCH_INDEX_VERSION = 'v28';
+
+// IndexedDB Helper for Instant Local Caching (< 15ms) with Version Invalidation
+function getCachedIndexFromIndexedDB(expectedVersion = SEARCH_INDEX_VERSION) {
   return new Promise((resolve) => {
     try {
-      const req = indexedDB.open('StarleySearchCache', 1);
+      const req = indexedDB.open('StarleySearchCache', 2);
       req.onupgradeneeded = (e) => {
         const db = e.target.result;
         if (!db.objectStoreNames.contains('store')) {
@@ -42,9 +44,19 @@ function getCachedIndexFromIndexedDB() {
       req.onsuccess = (e) => {
         const db = e.target.result;
         const tx = db.transaction('store', 'readonly');
-        const getReq = tx.objectStore('store').get('indexData');
-        getReq.onsuccess = () => resolve(getReq.result || null);
-        getReq.onerror = () => resolve(null);
+        const store = tx.objectStore('store');
+        const getVer = store.get('version');
+        const getReq = store.get('indexData');
+
+        tx.oncomplete = () => {
+          const cachedVer = getVer.result;
+          if (cachedVer === expectedVersion && getReq.result) {
+            resolve(getReq.result);
+          } else {
+            resolve(null); // Stale cache version, force network reload
+          }
+        };
+        tx.onerror = () => resolve(null);
       };
       req.onerror = () => resolve(null);
     } catch (err) {
@@ -53,13 +65,15 @@ function getCachedIndexFromIndexedDB() {
   });
 }
 
-function saveIndexToIndexedDB(data) {
+function saveIndexToIndexedDB(data, version = SEARCH_INDEX_VERSION) {
   try {
-    const req = indexedDB.open('StarleySearchCache', 1);
+    const req = indexedDB.open('StarleySearchCache', 2);
     req.onsuccess = (e) => {
       const db = e.target.result;
       const tx = db.transaction('store', 'readwrite');
-      tx.objectStore('store').put(data, 'indexData');
+      const store = tx.objectStore('store');
+      store.put(data, 'indexData');
+      store.put(version, 'version');
     };
   } catch (e) {}
 }
@@ -103,15 +117,15 @@ function expandQueryTokens(queryTokens) {
   return Array.from(expanded);
 }
 
-// Load Search Index with Instant IndexedDB Cache Fallback
-async function initWorker(baseUrl = './') {
+// Load Search Index with Instant IndexedDB Cache Fallback & Versioning
+async function initWorker(baseUrl = './', version = SEARCH_INDEX_VERSION) {
   try {
-    const cachedData = await getCachedIndexFromIndexedDB();
+    const cachedData = await getCachedIndexFromIndexedDB(version);
     if (cachedData && cachedData.documents && cachedData.documents.length > 0) {
       searchIndexData = cachedData;
       isReady = true;
 
-      fetch(`${baseUrl}search-config.json`).then(r => r.json()).then(cfg => {
+      fetch(`${baseUrl}search-config.json?v=${version}`).then(r => r.json()).then(cfg => {
         searchConfigData = cfg;
         self.postMessage({
           type: 'READY',
@@ -128,10 +142,10 @@ async function initWorker(baseUrl = './') {
         });
       });
 
-      fetch(`${baseUrl}search-index.json`).then(r => r.json()).then(freshData => {
+      fetch(`${baseUrl}search-index.json?v=${version}`).then(r => r.json()).then(freshData => {
         if (freshData && freshData.documents) {
           searchIndexData = freshData;
-          saveIndexToIndexedDB(freshData);
+          saveIndexToIndexedDB(freshData, version);
         }
       }).catch(() => {});
 
@@ -139,9 +153,9 @@ async function initWorker(baseUrl = './') {
     }
 
     const [indexRes, configRes, thesaurusRes] = await Promise.all([
-      fetch(`${baseUrl}search-index.json`),
-      fetch(`${baseUrl}search-config.json`).catch(() => null),
-      fetch(`${baseUrl}thesaurus.json`).catch(() => null)
+      fetch(`${baseUrl}search-index.json?v=${version}`),
+      fetch(`${baseUrl}search-config.json?v=${version}`).catch(() => null),
+      fetch(`${baseUrl}thesaurus.json?v=${version}`).catch(() => null)
     ]);
 
     if (!indexRes.ok) {
@@ -156,7 +170,7 @@ async function initWorker(baseUrl = './') {
       thesaurusData = await thesaurusRes.json();
     }
 
-    saveIndexToIndexedDB(searchIndexData);
+    saveIndexToIndexedDB(searchIndexData, version);
     isReady = true;
 
     const docs = searchIndexData.documents || searchIndexData.items || [];
@@ -172,9 +186,9 @@ async function initWorker(baseUrl = './') {
 }
 
 // Execute Search Query with Instant Embedded Category Matching & Directive Parsing
-function executeSearch(query, categoryFilter = 'all', bookFilter = 'all', langFilter = 'all') {
+function executeSearch(query, categoryFilter = 'all', bookFilter = 'all', langFilter = 'all', requestId = null) {
   if (!isReady || !searchIndexData) {
-    self.postMessage({ type: 'RESULTS', results: [], query });
+    self.postMessage({ type: 'RESULTS', results: [], totalFound: 0, query, requestId });
     return;
   }
 
@@ -204,7 +218,7 @@ function executeSearch(query, categoryFilter = 'all', bookFilter = 'all', langFi
   const allTokens = cleanQuery.split(/\s+/).filter(t => t.length > 1);
 
   if (allTokens.length === 0) {
-    self.postMessage({ type: 'RESULTS', results: [], query });
+    self.postMessage({ type: 'RESULTS', results: [], totalFound: 0, query, requestId });
     return;
   }
 
@@ -402,17 +416,68 @@ function executeSearch(query, categoryFilter = 'all', bookFilter = 'all', langFi
 
   results.sort((a, b) => b.score - a.score);
 
-  self.postMessage({ type: 'RESULTS', results: results.slice(0, 60), query });
+  const totalFound = results.length;
+  // Limit to top 25-30 most relevant items and construct lightweight DTO
+  // to minimize Structured Clone serialization overhead and GC freezes
+  const topResults = results.slice(0, 30).map(item => {
+    const dto = {
+      id: item.id,
+      type: item.type,
+      bookId: item.bookId,
+      chapterId: item.chapterId,
+      title: item.title,
+      heading: item.heading,
+      edition: item.edition,
+      lang: item.lang,
+      score: item.score,
+      matchTerm: item.matchTerm,
+      sourceId: item.sourceId,
+      topics: (item.topics || []).slice(0, 2),
+      tags: (item.tags || []).slice(0, 3)
+    };
+
+    if (item.type === 'guideline') {
+      dto.tableId = item.tableId;
+      dto.rowId = item.rowId;
+      dto.guidelineName = item.guidelineName;
+      dto.tableTitleRu = item.tableTitleRu;
+      dto.tableTitleEn = item.tableTitleEn;
+      dto.rowTextRu = item.rowTextRu;
+      dto.rowTextEn = item.rowTextEn;
+      dto.recClass = item.recClass;
+      dto.recLevel = item.recLevel;
+    } else if (item.type === 'quiz') {
+      dto.quizFile = item.quizFile;
+      dto.manifestName = item.manifestName;
+      dto.manifestTitle = item.manifestTitle;
+      dto.qId = item.qId;
+      dto.qRu = item.qRu;
+      dto.qEn = item.qEn;
+      dto.optRu = item.optRu;
+      dto.optEn = item.optEn;
+      dto.ans = item.ans;
+    }
+
+    return dto;
+  });
+
+  self.postMessage({
+    type: 'RESULTS',
+    results: topResults,
+    totalFound: totalFound,
+    query,
+    requestId
+  });
 }
 
 // Worker postMessage Dispatcher
 self.onmessage = function (e) {
-  const { type, query, category, book, lang, baseUrl } = e.data;
+  const { type, query, category, book, lang, baseUrl, requestId, version } = e.data;
 
   if (type === 'INIT') {
-    initWorker(baseUrl || './');
+    initWorker(baseUrl || './', version || SEARCH_INDEX_VERSION);
   } else if (type === 'SEARCH') {
-    executeSearch(query || '', category || 'all', book || 'all', lang || 'all');
+    executeSearch(query || '', category || 'all', book || 'all', lang || 'all', requestId || null);
   }
 };
 

@@ -1,0 +1,484 @@
+==================== TABLE 10 ====================
+=== PAGE 4 ===
+8.8. Metabolic syndrome, lipid abnormalities, diabetes mellitus,
+and hypertension ........................................................................................ 4318
+8.9. Pregnancy in cancer survivors ..................................................... 4318
+8.10. Pulmonary hypertension .............................................................. 4319
+9. Special populations .................................................................................... 4319
+9.1. Cardiac tumours ................................................................................ 4319
+9.2. Pregnant patients with cancer ..................................................... 4319
+9.2.1. Left ventricular dysfunction and heart failure ........ 4320
+9.2.2. Venous thromboembolism and pulmonary
+embolism ..................................................................................... 4320
+9.3. Carcinoid valvular heart disease ................................................. 4323
+9.4. Amyloid light-chain cardiac amyloidosis .................................. 4324
+9.5. Cardiac implantable electronic devices .................................... 4326
+10. Patient information, communication, and self-management 4330
+11. The role of scienti ﬁc societies in the promotion and
+development of cardio-oncology in modern medicine .................. 4331
+12. Key messages ............................................................................................ 4331
+13. Future needs .............................................................................................. 4332
+14. Gaps in evidence ...................................................................................... 4333
+15. ‘What to do ’ and ‘what not to do ’ messages from the
+Guidelines ........................................................................................................... 4333
+16. Quality indicators for cardio-oncology .......................................... 4342
+17. Supplementary data ................................................................................ 4342
+18. Data availability statement ................................................................... 4342
+19. Author information ................................................................................ 4342
+20. Appendix ..................................................................................................... 4342
+21. References .................................................................................................. 4343
+Tables of Recommendations
+Recommendation Table 1 — Recommendations for a general
+approach to cardiovascular toxicity risk categorization ................. 4249
+Recommendation Table 2 — Recommendations for
+electrocardiogram baseline assessment ................................................ 4251
+Recommendation Table 3 — Recommendation for cardiac
+biomarker assessment prior to potentially cardiotoxic therapies . 4252
+Recommendation Table 4 — Recommendations for cardiac
+imaging modalities in patients with cancer .......................................... 4253
+Recommendation Table 5 — Recommendations for
+primary prevention of cancer the rapy-related cardiovascular
+toxicity ......................................................................................................... 4256
+Recommendation Table 6 — Recommendation for secondary
+prevention of cancer therapy-related cardiovascular toxicity ..... 4257
+Recommendation Table 7 — Recommendations for baseline risk
+assessment and monitoring during anthracycline chemotherapy
+and in the ﬁrst 12 months after therapy .............................................. 4259
+Recommendation Table 8 — Recommendations for baseline risk
+assessment and monitoring during human epidermal receptor
+2-targeted therapies and in the ﬁrst 12 months after therapy ... 4260
+Recommendation Table 9 — Recommendations for baseline risk
+assessment and monitoring during ﬂuoropyrimidine therapy ..... 4261
+Recommendation Table 10 — Recommendations for baseline
+risk assessment and monitoring during vascular endothelial
+growth factor inhibitors ............................................................................... 4264
+Recommendation Table 11 — Recommendations for baseline
+risk assessment and monitoring during second- and
+third-generation breakpoint cluster region –Abelson oncogene
+locus tyrosine kinase inhibitors ................................................................. 4267
+Recommendation Table 12 — Recommendations for baseline
+risk assessment and monitoring during Bruton tyrosine kinase
+inhibitor therapy .............................................................................................. 4267
+Recommendation Table 13 — Recommendations for baseline
+risk assessment and monitoring during multiple myeloma
+therapies ..................................................................................................... 4271
+Recommendation Table 14 — Recommendations for baseline
+risk assessment and monitoring during combined rapidly
+accelerated ﬁbrosarcoma and mitogen-activated extracellular
+signal-regulated kinase inhibitor therapy ............................................... 4272
+Recommendation Table 15 — Recommendations for baseline
+risk assessment and monitoring during immunotherapy ............... 4274
+Recommendation Table 16 — Recommendations for baseline
+risk assessment and monitoring during androgen deprivation
+therapy for prostate cancer ....................................................................... 4276
+Recommendation Table 17 — Recommendations for baseline
+risk assessment and monitoring during endocrine therapy for
+breast cancer .................................................................................................... 4276
+Recommendation Table 18 — Recommendations for baseline
+risk assessment and monitoring during cyclin-dependent kinase
+4/6 inhibitor therapy ...................................................................................... 4277
+Recommendation Table 19 — Recommendations for baseline
+risk assessment and monitoring during anaplastic lymphoma
+kinase and epidermal growth factor receptor inhibitors ............... 4277
+Recommendation Table 20 — Recommendations for baseline
+risk assessment and monitoring in patients receiving chimeric
+antigen receptor T cell and tumour-in ﬁltrating lymphocytes
+therapies ............................................................................................................. 4279
+Recommendation Table 21 — Recommendations for baseline
+risk assessment of patients before radiotherapy to a volume
+including the heart .......................................................................................... 4279
+Recommendation Table 22 — Recommendations for baseline
+risk assessment in haematopoietic stem cell transplantation
+patients ................................................................................................................ 4281
+Recommendation Table 23 — Recommendation for the
+management of cardiovascular disease and cancer
+therapy-related cardiovascular toxicity in patients receiving
+anticancer treatment ..................................................................................... 4282
+Recommendation Table 24 — Recommendations for the
+management of cancer treatment-related cardiac dysfunction
+during anthracycline chemotherapy ........................................................ 4284
+Recommendation Table 25 — Recommendations for the
+management of cancer treatment-related cardiac dysfunction
+during human epidermal receptor 2-targeted therapies ............... 4286
+Recommendation Table 26 — Recommendations for the
+diagnosis and management of immune checkpoint
+inhibitor-associated myocarditis ............................................................... 4289
+Recommendation Table 27 — Recommendations for the
+diagnosis and management of Takotsubo syndrome in patients
+with cancer ........................................................................................................ 4291
+Recommendation Table 28 — Recommendations for the
+management of acute coronary syndromes in patients receiving
+anticancer treatment ..................................................................................... 4292
+Recommendation Table 29 — Recommendation for the
+management of chronic coronary syndromes in patients receiving
+anticancer treatment ..................................................................................... 4293
+Recommendation Table 30 — Recommendations for the
+management of valvular heart disease in patients receiving
+anticancer treatment ..................................................................................... 4293
+4232 ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+==================== TABLE 11 ====================
+=== PAGE 4 ===
+8.8. Metabolic syndrome, lipid abnormalities, diabetes mellitus,
+and hypertension ........................................................................................ 4318
+8.9. Pregnancy in cancer survivors ..................................................... 4318
+8.10. Pulmonary hypertension .............................................................. 4319
+9. Special populations .................................................................................... 4319
+9.1. Cardiac tumours ................................................................................ 4319
+9.2. Pregnant patients with cancer ..................................................... 4319
+9.2.1. Left ventricular dysfunction and heart failure ........ 4320
+9.2.2. Venous thromboembolism and pulmonary
+embolism ..................................................................................... 4320
+9.3. Carcinoid valvular heart disease ................................................. 4323
+9.4. Amyloid light-chain cardiac amyloidosis .................................. 4324
+9.5. Cardiac implantable electronic devices .................................... 4326
+10. Patient information, communication, and self-management 4330
+11. The role of scienti ﬁc societies in the promotion and
+development of cardio-oncology in modern medicine .................. 4331
+12. Key messages ............................................................................................ 4331
+13. Future needs .............................................................................................. 4332
+14. Gaps in evidence ...................................................................................... 4333
+15. ‘What to do ’ and ‘what not to do ’ messages from the
+Guidelines ........................................................................................................... 4333
+16. Quality indicators for cardio-oncology .......................................... 4342
+17. Supplementary data ................................................................................ 4342
+18. Data availability statement ................................................................... 4342
+19. Author information ................................................................................ 4342
+20. Appendix ..................................................................................................... 4342
+21. References .................................................................................................. 4343
+Tables of Recommendations
+Recommendation Table 1 — Recommendations for a general
+approach to cardiovascular toxicity risk categorization ................. 4249
+Recommendation Table 2 — Recommendations for
+electrocardiogram baseline assessment ................................................ 4251
+Recommendation Table 3 — Recommendation for cardiac
+biomarker assessment prior to potentially cardiotoxic therapies . 4252
+Recommendation Table 4 — Recommendations for cardiac
+imaging modalities in patients with cancer .......................................... 4253
+Recommendation Table 5 — Recommendations for
+primary prevention of cancer the rapy-related cardiovascular
+toxicity ......................................................................................................... 4256
+Recommendation Table 6 — Recommendation for secondary
+prevention of cancer therapy-related cardiovascular toxicity ..... 4257
+Recommendation Table 7 — Recommendations for baseline risk
+assessment and monitoring during anthracycline chemotherapy
+and in the ﬁrst 12 months after therapy .............................................. 4259
+Recommendation Table 8 — Recommendations for baseline risk
+assessment and monitoring during human epidermal receptor
+2-targeted therapies and in the ﬁrst 12 months after therapy ... 4260
+Recommendation Table 9 — Recommendations for baseline risk
+assessment and monitoring during ﬂuoropyrimidine therapy ..... 4261
+Recommendation Table 10 — Recommendations for baseline
+risk assessment and monitoring during vascular endothelial
+growth factor inhibitors ............................................................................... 4264
+Recommendation Table 11 — Recommendations for baseline
+risk assessment and monitoring during second- and
+third-generation breakpoint cluster region –Abelson oncogene
+locus tyrosine kinase inhibitors ................................................................. 4267
+Recommendation Table 12 — Recommendations for baseline
+risk assessment and monitoring during Bruton tyrosine kinase
+inhibitor therapy .............................................................................................. 4267
+Recommendation Table 13 — Recommendations for baseline
+risk assessment and monitoring during multiple myeloma
+therapies ..................................................................................................... 4271
+Recommendation Table 14 — Recommendations for baseline
+risk assessment and monitoring during combined rapidly
+accelerated ﬁbrosarcoma and mitogen-activated extracellular
+signal-regulated kinase inhibitor therapy ............................................... 4272
+Recommendation Table 15 — Recommendations for baseline
+risk assessment and monitoring during immunotherapy ............... 4274
+Recommendation Table 16 — Recommendations for baseline
+risk assessment and monitoring during androgen deprivation
+therapy for prostate cancer ....................................................................... 4276
+Recommendation Table 17 — Recommendations for baseline
+risk assessment and monitoring during endocrine therapy for
+breast cancer .................................................................................................... 4276
+Recommendation Table 18 — Recommendations for baseline
+risk assessment and monitoring during cyclin-dependent kinase
+4/6 inhibitor therapy ...................................................................................... 4277
+Recommendation Table 19 — Recommendations for baseline
+risk assessment and monitoring during anaplastic lymphoma
+kinase and epidermal growth factor receptor inhibitors ............... 4277
+Recommendation Table 20 — Recommendations for baseline
+risk assessment and monitoring in patients receiving chimeric
+antigen receptor T cell and tumour-in ﬁltrating lymphocytes
+therapies ............................................................................................................. 4279
+Recommendation Table 21 — Recommendations for baseline
+risk assessment of patients before radiotherapy to a volume
+including the heart .......................................................................................... 4279
+Recommendation Table 22 — Recommendations for baseline
+risk assessment in haematopoietic stem cell transplantation
+patients ................................................................................................................ 4281
+Recommendation Table 23 — Recommendation for the
+management of cardiovascular disease and cancer
+therapy-related cardiovascular toxicity in patients receiving
+anticancer treatment ..................................................................................... 4282
+Recommendation Table 24 — Recommendations for the
+management of cancer treatment-related cardiac dysfunction
+during anthracycline chemotherapy ........................................................ 4284
+Recommendation Table 25 — Recommendations for the
+management of cancer treatment-related cardiac dysfunction
+during human epidermal receptor 2-targeted therapies ............... 4286
+Recommendation Table 26 — Recommendations for the
+diagnosis and management of immune checkpoint
+inhibitor-associated myocarditis ............................................................... 4289
+Recommendation Table 27 — Recommendations for the
+diagnosis and management of Takotsubo syndrome in patients
+with cancer ........................................................................................................ 4291
+Recommendation Table 28 — Recommendations for the
+management of acute coronary syndromes in patients receiving
+anticancer treatment ..................................................................................... 4292
+Recommendation Table 29 — Recommendation for the
+management of chronic coronary syndromes in patients receiving
+anticancer treatment ..................................................................................... 4293
+Recommendation Table 30 — Recommendations for the
+management of valvular heart disease in patients receiving
+anticancer treatment ..................................................................................... 4293
+4232 ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+==================== TABLE 12 ====================
+=== PAGE 4 ===
+8.8. Metabolic syndrome, lipid abnormalities, diabetes mellitus,
+and hypertension ........................................................................................ 4318
+8.9. Pregnancy in cancer survivors ..................................................... 4318
+8.10. Pulmonary hypertension .............................................................. 4319
+9. Special populations .................................................................................... 4319
+9.1. Cardiac tumours ................................................................................ 4319
+9.2. Pregnant patients with cancer ..................................................... 4319
+9.2.1. Left ventricular dysfunction and heart failure ........ 4320
+9.2.2. Venous thromboembolism and pulmonary
+embolism ..................................................................................... 4320
+9.3. Carcinoid valvular heart disease ................................................. 4323
+9.4. Amyloid light-chain cardiac amyloidosis .................................. 4324
+9.5. Cardiac implantable electronic devices .................................... 4326
+10. Patient information, communication, and self-management 4330
+11. The role of scienti ﬁc societies in the promotion and
+development of cardio-oncology in modern medicine .................. 4331
+12. Key messages ............................................................................................ 4331
+13. Future needs .............................................................................................. 4332
+14. Gaps in evidence ...................................................................................... 4333
+15. ‘What to do ’ and ‘what not to do ’ messages from the
+Guidelines ........................................................................................................... 4333
+16. Quality indicators for cardio-oncology .......................................... 4342
+17. Supplementary data ................................................................................ 4342
+18. Data availability statement ................................................................... 4342
+19. Author information ................................................................................ 4342
+20. Appendix ..................................................................................................... 4342
+21. References .................................................................................................. 4343
+Tables of Recommendations
+Recommendation Table 1 — Recommendations for a general
+approach to cardiovascular toxicity risk categorization ................. 4249
+Recommendation Table 2 — Recommendations for
+electrocardiogram baseline assessment ................................................ 4251
+Recommendation Table 3 — Recommendation for cardiac
+biomarker assessment prior to potentially cardiotoxic therapies . 4252
+Recommendation Table 4 — Recommendations for cardiac
+imaging modalities in patients with cancer .......................................... 4253
+Recommendation Table 5 — Recommendations for
+primary prevention of cancer the rapy-related cardiovascular
+toxicity ......................................................................................................... 4256
+Recommendation Table 6 — Recommendation for secondary
+prevention of cancer therapy-related cardiovascular toxicity ..... 4257
+Recommendation Table 7 — Recommendations for baseline risk
+assessment and monitoring during anthracycline chemotherapy
+and in the ﬁrst 12 months after therapy .............................................. 4259
+Recommendation Table 8 — Recommendations for baseline risk
+assessment and monitoring during human epidermal receptor
+2-targeted therapies and in the ﬁrst 12 months after therapy ... 4260
+Recommendation Table 9 — Recommendations for baseline risk
+assessment and monitoring during ﬂuoropyrimidine therapy ..... 4261
+Recommendation Table 10 — Recommendations for baseline
+risk assessment and monitoring during vascular endothelial
+growth factor inhibitors ............................................................................... 4264
+Recommendation Table 11 — Recommendations for baseline
+risk assessment and monitoring during second- and
+third-generation breakpoint cluster region –Abelson oncogene
+locus tyrosine kinase inhibitors ................................................................. 4267
+Recommendation Table 12 — Recommendations for baseline
+risk assessment and monitoring during Bruton tyrosine kinase
+inhibitor therapy .............................................................................................. 4267
+Recommendation Table 13 — Recommendations for baseline
+risk assessment and monitoring during multiple myeloma
+therapies ..................................................................................................... 4271
+Recommendation Table 14 — Recommendations for baseline
+risk assessment and monitoring during combined rapidly
+accelerated ﬁbrosarcoma and mitogen-activated extracellular
+signal-regulated kinase inhibitor therapy ............................................... 4272
+Recommendation Table 15 — Recommendations for baseline
+risk assessment and monitoring during immunotherapy ............... 4274
+Recommendation Table 16 — Recommendations for baseline
+risk assessment and monitoring during androgen deprivation
+therapy for prostate cancer ....................................................................... 4276
+Recommendation Table 17 — Recommendations for baseline
+risk assessment and monitoring during endocrine therapy for
+breast cancer .................................................................................................... 4276
+Recommendation Table 18 — Recommendations for baseline
+risk assessment and monitoring during cyclin-dependent kinase
+4/6 inhibitor therapy ...................................................................................... 4277
+Recommendation Table 19 — Recommendations for baseline
+risk assessment and monitoring during anaplastic lymphoma
+kinase and epidermal growth factor receptor inhibitors ............... 4277
+Recommendation Table 20 — Recommendations for baseline
+risk assessment and monitoring in patients receiving chimeric
+antigen receptor T cell and tumour-in ﬁltrating lymphocytes
+therapies ............................................................................................................. 4279
+Recommendation Table 21 — Recommendations for baseline
+risk assessment of patients before radiotherapy to a volume
+including the heart .......................................................................................... 4279
+Recommendation Table 22 — Recommendations for baseline
+risk assessment in haematopoietic stem cell transplantation
+patients ................................................................................................................ 4281
+Recommendation Table 23 — Recommendation for the
+management of cardiovascular disease and cancer
+therapy-related cardiovascular toxicity in patients receiving
+anticancer treatment ..................................................................................... 4282
+Recommendation Table 24 — Recommendations for the
+management of cancer treatment-related cardiac dysfunction
+during anthracycline chemotherapy ........................................................ 4284
+Recommendation Table 25 — Recommendations for the
+management of cancer treatment-related cardiac dysfunction
+during human epidermal receptor 2-targeted therapies ............... 4286
+Recommendation Table 26 — Recommendations for the
+diagnosis and management of immune checkpoint
+inhibitor-associated myocarditis ............................................................... 4289
+Recommendation Table 27 — Recommendations for the
+diagnosis and management of Takotsubo syndrome in patients
+with cancer ........................................................................................................ 4291
+Recommendation Table 28 — Recommendations for the
+management of acute coronary syndromes in patients receiving
+anticancer treatment ..................................................................................... 4292
+Recommendation Table 29 — Recommendation for the
+management of chronic coronary syndromes in patients receiving
+anticancer treatment ..................................................................................... 4293
+Recommendation Table 30 — Recommendations for the
+management of valvular heart disease in patients receiving
+anticancer treatment ..................................................................................... 4293
+4232 ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+==================== TABLE 13 ====================
+=== PAGE 4 ===
+8.8. Metabolic syndrome, lipid abnormalities, diabetes mellitus,
+and hypertension ........................................................................................ 4318
+8.9. Pregnancy in cancer survivors ..................................................... 4318
+8.10. Pulmonary hypertension .............................................................. 4319
+9. Special populations .................................................................................... 4319
+9.1. Cardiac tumours ................................................................................ 4319
+9.2. Pregnant patients with cancer ..................................................... 4319
+9.2.1. Left ventricular dysfunction and heart failure ........ 4320
+9.2.2. Venous thromboembolism and pulmonary
+embolism ..................................................................................... 4320
+9.3. Carcinoid valvular heart disease ................................................. 4323
+9.4. Amyloid light-chain cardiac amyloidosis .................................. 4324
+9.5. Cardiac implantable electronic devices .................................... 4326
+10. Patient information, communication, and self-management 4330
+11. The role of scienti ﬁc societies in the promotion and
+development of cardio-oncology in modern medicine .................. 4331
+12. Key messages ............................................................................................ 4331
+13. Future needs .............................................................................................. 4332
+14. Gaps in evidence ...................................................................................... 4333
+15. ‘What to do ’ and ‘what not to do ’ messages from the
+Guidelines ........................................................................................................... 4333
+16. Quality indicators for cardio-oncology .......................................... 4342
+17. Supplementary data ................................................................................ 4342
+18. Data availability statement ................................................................... 4342
+19. Author information ................................................................................ 4342
+20. Appendix ..................................................................................................... 4342
+21. References .................................................................................................. 4343
+Tables of Recommendations
+Recommendation Table 1 — Recommendations for a general
+approach to cardiovascular toxicity risk categorization ................. 4249
+Recommendation Table 2 — Recommendations for
+electrocardiogram baseline assessment ................................................ 4251
+Recommendation Table 3 — Recommendation for cardiac
+biomarker assessment prior to potentially cardiotoxic therapies . 4252
+Recommendation Table 4 — Recommendations for cardiac
+imaging modalities in patients with cancer .......................................... 4253
+Recommendation Table 5 — Recommendations for
+primary prevention of cancer the rapy-related cardiovascular
+toxicity ......................................................................................................... 4256
+Recommendation Table 6 — Recommendation for secondary
+prevention of cancer therapy-related cardiovascular toxicity ..... 4257
+Recommendation Table 7 — Recommendations for baseline risk
+assessment and monitoring during anthracycline chemotherapy
+and in the ﬁrst 12 months after therapy .............................................. 4259
+Recommendation Table 8 — Recommendations for baseline risk
+assessment and monitoring during human epidermal receptor
+2-targeted therapies and in the ﬁrst 12 months after therapy ... 4260
+Recommendation Table 9 — Recommendations for baseline risk
+assessment and monitoring during ﬂuoropyrimidine therapy ..... 4261
+Recommendation Table 10 — Recommendations for baseline
+risk assessment and monitoring during vascular endothelial
+growth factor inhibitors ............................................................................... 4264
+Recommendation Table 11 — Recommendations for baseline
+risk assessment and monitoring during second- and
+third-generation breakpoint cluster region –Abelson oncogene
+locus tyrosine kinase inhibitors ................................................................. 4267
+Recommendation Table 12 — Recommendations for baseline
+risk assessment and monitoring during Bruton tyrosine kinase
+inhibitor therapy .............................................................................................. 4267
+Recommendation Table 13 — Recommendations for baseline
+risk assessment and monitoring during multiple myeloma
+therapies ..................................................................................................... 4271
+Recommendation Table 14 — Recommendations for baseline
+risk assessment and monitoring during combined rapidly
+accelerated ﬁbrosarcoma and mitogen-activated extracellular
+signal-regulated kinase inhibitor therapy ............................................... 4272
+Recommendation Table 15 — Recommendations for baseline
+risk assessment and monitoring during immunotherapy ............... 4274
+Recommendation Table 16 — Recommendations for baseline
+risk assessment and monitoring during androgen deprivation
+therapy for prostate cancer ....................................................................... 4276
+Recommendation Table 17 — Recommendations for baseline
+risk assessment and monitoring during endocrine therapy for
+breast cancer .................................................................................................... 4276
+Recommendation Table 18 — Recommendations for baseline
+risk assessment and monitoring during cyclin-dependent kinase
+4/6 inhibitor therapy ...................................................................................... 4277
+Recommendation Table 19 — Recommendations for baseline
+risk assessment and monitoring during anaplastic lymphoma
+kinase and epidermal growth factor receptor inhibitors ............... 4277
+Recommendation Table 20 — Recommendations for baseline
+risk assessment and monitoring in patients receiving chimeric
+antigen receptor T cell and tumour-in ﬁltrating lymphocytes
+therapies ............................................................................................................. 4279
+Recommendation Table 21 — Recommendations for baseline
+risk assessment of patients before radiotherapy to a volume
+including the heart .......................................................................................... 4279
+Recommendation Table 22 — Recommendations for baseline
+risk assessment in haematopoietic stem cell transplantation
+patients ................................................................................................................ 4281
+Recommendation Table 23 — Recommendation for the
+management of cardiovascular disease and cancer
+therapy-related cardiovascular toxicity in patients receiving
+anticancer treatment ..................................................................................... 4282
+Recommendation Table 24 — Recommendations for the
+management of cancer treatment-related cardiac dysfunction
+during anthracycline chemotherapy ........................................................ 4284
+Recommendation Table 25 — Recommendations for the
+management of cancer treatment-related cardiac dysfunction
+during human epidermal receptor 2-targeted therapies ............... 4286
+Recommendation Table 26 — Recommendations for the
+diagnosis and management of immune checkpoint
+inhibitor-associated myocarditis ............................................................... 4289
+Recommendation Table 27 — Recommendations for the
+diagnosis and management of Takotsubo syndrome in patients
+with cancer ........................................................................................................ 4291
+Recommendation Table 28 — Recommendations for the
+management of acute coronary syndromes in patients receiving
+anticancer treatment ..................................................................................... 4292
+Recommendation Table 29 — Recommendation for the
+management of chronic coronary syndromes in patients receiving
+anticancer treatment ..................................................................................... 4293
+Recommendation Table 30 — Recommendations for the
+management of valvular heart disease in patients receiving
+anticancer treatment ..................................................................................... 4293
+4232 ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+

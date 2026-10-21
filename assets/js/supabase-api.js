@@ -32,6 +32,180 @@
     );
 
     // -------------------------------------------------------------------
+    // Auth Events & Observer (EventTarget decoupling)
+    // -------------------------------------------------------------------
+    const authEvents = (typeof EventTarget !== 'undefined') ? new EventTarget() : null;
+
+    if (client.auth && typeof client.auth.onAuthStateChange === 'function') {
+        client.auth.onAuthStateChange((event, session) => {
+            if (authEvents) {
+                try {
+                    authEvents.dispatchEvent(new CustomEvent('authChange', {
+                        detail: { event, session, user: session?.user || null }
+                    }));
+                } catch (e) {
+                    console.warn('[SupabaseAPI] authChange dispatch error:', e);
+                }
+            }
+        });
+    }
+
+    // -------------------------------------------------------------------
+    // Offline Resilience & Retry Queue (OfflineSyncManager)
+    // -------------------------------------------------------------------
+    function isNetworkError(error) {
+        if (!error) return false;
+        if (typeof navigator !== 'undefined' && !navigator.onLine) return true;
+        const msg = String(error.message || error).toLowerCase();
+        return msg.includes('network') ||
+               msg.includes('fetch') ||
+               msg.includes('offline') ||
+               msg.includes('failed to fetch') ||
+               msg.includes('connection') ||
+               msg.includes('timeout') ||
+               msg.includes('abort') ||
+               error.status === 0 ||
+               error.status === 502 ||
+               error.status === 503 ||
+               error.status === 504;
+    }
+
+    class OfflineSyncManager {
+        constructor() {
+            this.storageKey = 'cs_offline_sync_queue';
+            this.queue = [];
+            this.isFlushing = false;
+            this.load();
+
+            if (typeof window !== 'undefined') {
+                window.addEventListener('online', () => {
+                    console.log('[OfflineSyncManager] Online detected, flushing sync queue...');
+                    this.flush();
+                });
+                if (typeof document !== 'undefined') {
+                    document.addEventListener('visibilitychange', () => {
+                        if (document.visibilityState === 'visible' && (typeof navigator === 'undefined' || navigator.onLine)) {
+                            this.flush();
+                        }
+                    });
+                }
+            }
+        }
+
+        load() {
+            try {
+                if (typeof localStorage !== 'undefined') {
+                    const raw = localStorage.getItem(this.storageKey);
+                    if (raw) {
+                        const parsed = JSON.parse(raw);
+                        if (Array.isArray(parsed)) this.queue = parsed;
+                    }
+                }
+            } catch (e) {
+                console.warn('[OfflineSyncManager] Error loading queue:', e);
+            }
+        }
+
+        save() {
+            try {
+                if (typeof localStorage !== 'undefined') {
+                    localStorage.setItem(this.storageKey, JSON.stringify(this.queue));
+                }
+            } catch (e) {
+                console.warn('[OfflineSyncManager] Error saving queue:', e);
+            }
+        }
+
+        enqueue(table, operation, payload, options = {}) {
+            const item = {
+                id: Date.now() + '_' + Math.random().toString(36).slice(2, 9),
+                table,
+                operation,
+                payload,
+                options,
+                retries: 0,
+                createdAt: new Date().toISOString()
+            };
+            this.queue.push(item);
+            this.save();
+            console.log(`[OfflineSyncManager] Enqueued ${operation} for ${table || 'rpc'}:`, item.id);
+
+            if (typeof navigator === 'undefined' || navigator.onLine) {
+                this.flush();
+            }
+            return item;
+        }
+
+        async flush() {
+            if (this.isFlushing) return;
+            if (typeof navigator !== 'undefined' && !navigator.onLine) return;
+            if (!this.queue || this.queue.length === 0) return;
+
+            this.isFlushing = true;
+            const items = [...this.queue];
+
+            for (const item of items) {
+                try {
+                    let result = null;
+                    if (item.operation === 'upsert') {
+                        const opt = item.options?.onConflict ? { onConflict: item.options.onConflict } : undefined;
+                        result = await client.from(item.table).upsert(item.payload, opt);
+                    } else if (item.operation === 'delete') {
+                        let query = client.from(item.table).delete();
+                        for (const [k, v] of Object.entries(item.payload)) {
+                            query = query.eq(k, v);
+                        }
+                        result = await query;
+                    } else if (item.operation === 'insert') {
+                        result = await client.from(item.table).insert(item.payload);
+                    } else if (item.operation === 'rpc') {
+                        result = await client.rpc(item.payload.fnName, item.payload.params);
+                    }
+
+                    if (result && result.error) {
+                        if (isNetworkError(result.error)) {
+                            console.warn('[OfflineSyncManager] Flush deferred due to network error:', result.error.message);
+                            break;
+                        }
+                        item.retries = (item.retries || 0) + 1;
+                        if (item.retries >= 5) {
+                            console.warn('[OfflineSyncManager] Dropping failed item after max retries:', item.id, result.error.message);
+                            this.queue = this.queue.filter(q => q.id !== item.id);
+                            this.save();
+                        }
+                    } else {
+                        this.queue = this.queue.filter(q => q.id !== item.id);
+                        this.save();
+                    }
+                } catch (err) {
+                    if (isNetworkError(err)) {
+                        console.warn('[OfflineSyncManager] Network exception during flush:', err.message);
+                        break;
+                    }
+                    item.retries = (item.retries || 0) + 1;
+                    if (item.retries >= 5) {
+                        this.queue = this.queue.filter(q => q.id !== item.id);
+                        this.save();
+                    }
+                }
+            }
+
+            this.isFlushing = false;
+        }
+
+        getQueue() {
+            return [...this.queue];
+        }
+
+        clear() {
+            this.queue = [];
+            this.save();
+        }
+    }
+
+    const syncManager = new OfflineSyncManager();
+
+    // -------------------------------------------------------------------
     // Auth — PIN is mapped to a synthetic email so we can reuse Supabase's
     // password auth (hashing, session issuance, abuse protection).
     // -------------------------------------------------------------------
@@ -138,21 +312,40 @@
         const safePatch = {};
         allowed.forEach(k => { if (patch[k] !== undefined) safePatch[k] = patch[k]; });
 
-        const { data, error } = await client
-            .from('profiles')
-            .update(safePatch)
-            .eq('id', user.id)
-            .select()
-            .single();
-        if (error) return { ok: false, error: error.message };
-        return { ok: true, success: true, data };
+        if (typeof navigator !== 'undefined' && !navigator.onLine) {
+            syncManager.enqueue('profiles', 'upsert', { id: user.id, ...safePatch });
+            return { ok: true, success: true, queued: true, data: { id: user.id, ...safePatch } };
+        }
+
+        try {
+            const { data, error } = await client
+                .from('profiles')
+                .update(safePatch)
+                .eq('id', user.id)
+                .select()
+                .single();
+            if (error) {
+                if (isNetworkError(error)) {
+                    syncManager.enqueue('profiles', 'upsert', { id: user.id, ...safePatch });
+                    return { ok: true, success: true, queued: true, data: { id: user.id, ...safePatch } };
+                }
+                return { ok: false, error: error.message };
+            }
+            return { ok: true, success: true, data };
+        } catch (err) {
+            if (isNetworkError(err)) {
+                syncManager.enqueue('profiles', 'upsert', { id: user.id, ...safePatch });
+                return { ok: true, success: true, queued: true, data: { id: user.id, ...safePatch } };
+            }
+            return { ok: false, error: err.message };
+        }
     }
 
     // -------------------------------------------------------------------
-    // Favorites — single-row add/remove. No array merge logic needed.
+    // Favorites — single-row add/remove with offline resilience.
     // -------------------------------------------------------------------
     async function getFavorites() {
-        const { data: { user } } = await client.auth.getUser();
+        const user = await getAuthUser();
         if (!user) return { ok: false, data: [] };
         const { data, error } = await client
             .from('favorites')
@@ -163,25 +356,67 @@
     }
 
     async function addFavorite(specialId) {
-        const { data: { user } } = await client.auth.getUser();
+        const user = await getAuthUser();
         if (!user) return { ok: false, error: 'Not authenticated' };
-        const { error } = await client
-            .from('favorites')
-            .upsert({ user_id: user.id, special_id: specialId }, { onConflict: 'user_id,special_id' });
-        if (error) return { ok: false, error: error.message };
-        return { ok: true, success: true };
+        const payload = { user_id: user.id, special_id: specialId };
+
+        if (typeof navigator !== 'undefined' && !navigator.onLine) {
+            syncManager.enqueue('favorites', 'upsert', payload, { onConflict: 'user_id,special_id' });
+            return { ok: true, success: true, queued: true };
+        }
+
+        try {
+            const { error } = await client
+                .from('favorites')
+                .upsert(payload, { onConflict: 'user_id,special_id' });
+            if (error) {
+                if (isNetworkError(error)) {
+                    syncManager.enqueue('favorites', 'upsert', payload, { onConflict: 'user_id,special_id' });
+                    return { ok: true, success: true, queued: true };
+                }
+                return { ok: false, error: error.message };
+            }
+            return { ok: true, success: true };
+        } catch (err) {
+            if (isNetworkError(err)) {
+                syncManager.enqueue('favorites', 'upsert', payload, { onConflict: 'user_id,special_id' });
+                return { ok: true, success: true, queued: true };
+            }
+            return { ok: false, error: err.message };
+        }
     }
 
     async function removeFavorite(specialId) {
-        const { data: { user } } = await client.auth.getUser();
+        const user = await getAuthUser();
         if (!user) return { ok: false, error: 'Not authenticated' };
-        const { error } = await client
-            .from('favorites')
-            .delete()
-            .eq('user_id', user.id)
-            .eq('special_id', specialId);
-        if (error) return { ok: false, error: error.message };
-        return { ok: true, success: true };
+        const payload = { user_id: user.id, special_id: specialId };
+
+        if (typeof navigator !== 'undefined' && !navigator.onLine) {
+            syncManager.enqueue('favorites', 'delete', payload);
+            return { ok: true, success: true, queued: true };
+        }
+
+        try {
+            const { error } = await client
+                .from('favorites')
+                .delete()
+                .eq('user_id', user.id)
+                .eq('special_id', specialId);
+            if (error) {
+                if (isNetworkError(error)) {
+                    syncManager.enqueue('favorites', 'delete', payload);
+                    return { ok: true, success: true, queued: true };
+                }
+                return { ok: false, error: error.message };
+            }
+            return { ok: true, success: true };
+        } catch (err) {
+            if (isNetworkError(err)) {
+                syncManager.enqueue('favorites', 'delete', payload);
+                return { ok: true, success: true, queued: true };
+            }
+            return { ok: false, error: err.message };
+        }
     }
 
     // -------------------------------------------------------------------
@@ -253,23 +488,61 @@
 
     async function togglePlaylistItem(playlistId, specialId, add) {
         if (add) {
-            const { error } = await client
-                .from('playlist_items')
-                .upsert({ playlist_id: playlistId, special_id: specialId }, { onConflict: 'playlist_id,special_id' });
-            if (error) return { ok: false, error: error.message };
+            const payload = { playlist_id: playlistId, special_id: specialId };
+            if (typeof navigator !== 'undefined' && !navigator.onLine) {
+                syncManager.enqueue('playlist_items', 'upsert', payload, { onConflict: 'playlist_id,special_id' });
+                return { ok: true, success: true, queued: true };
+            }
+            try {
+                const { error } = await client
+                    .from('playlist_items')
+                    .upsert(payload, { onConflict: 'playlist_id,special_id' });
+                if (error) {
+                    if (isNetworkError(error)) {
+                        syncManager.enqueue('playlist_items', 'upsert', payload, { onConflict: 'playlist_id,special_id' });
+                        return { ok: true, success: true, queued: true };
+                    }
+                    return { ok: false, error: error.message };
+                }
+            } catch (err) {
+                if (isNetworkError(err)) {
+                    syncManager.enqueue('playlist_items', 'upsert', payload, { onConflict: 'playlist_id,special_id' });
+                    return { ok: true, success: true, queued: true };
+                }
+                return { ok: false, error: err.message };
+            }
         } else {
-            const { error } = await client
-                .from('playlist_items')
-                .delete()
-                .eq('playlist_id', playlistId)
-                .eq('special_id', specialId);
-            if (error) return { ok: false, error: error.message };
+            const payload = { playlist_id: playlistId, special_id: specialId };
+            if (typeof navigator !== 'undefined' && !navigator.onLine) {
+                syncManager.enqueue('playlist_items', 'delete', payload);
+                return { ok: true, success: true, queued: true };
+            }
+            try {
+                const { error } = await client
+                    .from('playlist_items')
+                    .delete()
+                    .eq('playlist_id', playlistId)
+                    .eq('special_id', specialId);
+                if (error) {
+                    if (isNetworkError(error)) {
+                        syncManager.enqueue('playlist_items', 'delete', payload);
+                        return { ok: true, success: true, queued: true };
+                    }
+                    return { ok: false, error: error.message };
+                }
+            } catch (err) {
+                if (isNetworkError(err)) {
+                    syncManager.enqueue('playlist_items', 'delete', payload);
+                    return { ok: true, success: true, queued: true };
+                }
+                return { ok: false, error: err.message };
+            }
         }
         return { ok: true, success: true };
     }
 
     async function clearPlaylistItems(playlistId) {
-        const { data: { user } } = await client.auth.getUser();
+        const user = await getAuthUser();
         if (!user) return { ok: false, error: 'Not authenticated' };
         const { error } = await client
             .from('playlist_items')
@@ -280,7 +553,7 @@
     }
 
     async function deletePlaylist(playlistId) {
-        const { data: { user } } = await client.auth.getUser();
+        const user = await getAuthUser();
         if (!user) return { ok: false, error: 'Not authenticated' };
         const { error } = await client
             .from('playlists')
@@ -292,7 +565,7 @@
     }
 
     // -------------------------------------------------------------------
-    // Quiz sessions — local-first resilient sync with cloud
+    // Quiz sessions — local-first resilient sync with cloud & atomic RPC
     // -------------------------------------------------------------------
     function normalizeSessionRow(sessionSummary, userId) {
         let cleanTopics = [];
@@ -334,14 +607,184 @@
 
         const row = normalizeSessionRow(sessionSummary, user.id);
 
-        const { error } = await client
-            .from('quiz_sessions')
-            .upsert(row, { onConflict: 'user_id,session_id' });
-        if (error) {
-            console.error('[SupabaseAPI] saveSession error:', error);
-            return { ok: false, error: error.message };
+        if (typeof navigator !== 'undefined' && !navigator.onLine) {
+            syncManager.enqueue('quiz_sessions', 'upsert', row, { onConflict: 'user_id,session_id' });
+            return { ok: true, success: true, queued: true };
         }
-        return { ok: true, success: true };
+
+        try {
+            const { error } = await client
+                .from('quiz_sessions')
+                .upsert(row, { onConflict: 'user_id,session_id' });
+            if (error) {
+                if (isNetworkError(error)) {
+                    syncManager.enqueue('quiz_sessions', 'upsert', row, { onConflict: 'user_id,session_id' });
+                    return { ok: true, success: true, queued: true };
+                }
+                console.error('[SupabaseAPI] saveSession error:', error);
+                return { ok: false, error: error.message };
+            }
+            return { ok: true, success: true };
+        } catch (err) {
+            if (isNetworkError(err)) {
+                syncManager.enqueue('quiz_sessions', 'upsert', row, { onConflict: 'user_id,session_id' });
+                return { ok: true, success: true, queued: true };
+            }
+            return { ok: false, error: err.message };
+        }
+    }
+
+    async function saveQuizResults(sessionData, answersData = []) {
+        const user = await getAuthUser();
+        if (!user) return { ok: false, error: 'Not authenticated' };
+
+        const sessionRow = normalizeSessionRow(sessionData, user.id);
+        const formattedAnswers = Array.isArray(answersData) ? answersData : [];
+
+        if (typeof navigator !== 'undefined' && !navigator.onLine) {
+            syncManager.enqueue('quiz_sessions', 'rpc', {
+                fnName: 'submit_quiz_session',
+                params: { p_session_data: sessionRow, p_answers_data: formattedAnswers }
+            });
+            return { ok: true, success: true, queued: true, sessionId: sessionRow.session_id };
+        }
+
+        // 1. Try atomic PostgreSQL RPC submit_quiz_session
+        try {
+            const { data, error } = await client.rpc('submit_quiz_session', {
+                p_session_data: sessionRow,
+                p_answers_data: formattedAnswers
+            });
+
+            if (!error) {
+                return { ok: true, success: true, sessionId: data || sessionRow.session_id };
+            }
+
+            if (isNetworkError(error)) {
+                syncManager.enqueue('quiz_sessions', 'rpc', {
+                    fnName: 'submit_quiz_session',
+                    params: { p_session_data: sessionRow, p_answers_data: formattedAnswers }
+                });
+                return { ok: true, success: true, queued: true, sessionId: sessionRow.session_id };
+            }
+
+            // Function missing on backend (PGRST202: could not find function) -> graceful fallback to saveSession
+            if (error.code === 'PGRST202' || (error.message && error.message.toLowerCase().includes('function') && error.message.toLowerCase().includes('not found'))) {
+                console.warn('[SupabaseAPI] submit_quiz_session RPC not found in DB, using fallback saveSession');
+                return await saveSession(sessionData);
+            }
+
+            return { ok: false, error: error.message };
+        } catch (err) {
+            if (isNetworkError(err)) {
+                syncManager.enqueue('quiz_sessions', 'rpc', {
+                    fnName: 'submit_quiz_session',
+                    params: { p_session_data: sessionRow, p_answers_data: formattedAnswers }
+                });
+                return { ok: true, success: true, queued: true, sessionId: sessionRow.session_id };
+            }
+            return await saveSession(sessionData);
+        }
+    }
+
+    // -------------------------------------------------------------------
+    // Reading Progress — Scroll position & bookmarks per chapter
+    // -------------------------------------------------------------------
+    async function saveReadingProgress(bookId, chapterId, progressData) {
+        const user = await getAuthUser();
+        if (!user) return { ok: false, error: 'Not authenticated' };
+
+        const row = {
+            user_id: user.id,
+            book_id: String(bookId),
+            chapter_id: String(chapterId),
+            progress: progressData,
+            updated_at: new Date().toISOString()
+        };
+
+        if (typeof navigator !== 'undefined' && !navigator.onLine) {
+            syncManager.enqueue('reading_progress', 'upsert', row, { onConflict: 'user_id,book_id,chapter_id' });
+            return { ok: true, success: true, queued: true };
+        }
+
+        try {
+            const { error } = await client
+                .from('reading_progress')
+                .upsert(row, { onConflict: 'user_id,book_id,chapter_id' });
+            if (error) {
+                if (isNetworkError(error)) {
+                    syncManager.enqueue('reading_progress', 'upsert', row, { onConflict: 'user_id,book_id,chapter_id' });
+                    return { ok: true, success: true, queued: true };
+                }
+                return { ok: false, error: error.message };
+            }
+            return { ok: true, success: true };
+        } catch (err) {
+            if (isNetworkError(err)) {
+                syncManager.enqueue('reading_progress', 'upsert', row, { onConflict: 'user_id,book_id,chapter_id' });
+                return { ok: true, success: true, queued: true };
+            }
+            return { ok: false, error: err.message };
+        }
+    }
+
+    async function getReadingProgress(bookId, chapterId) {
+        const user = await getAuthUser();
+        if (!user) return { ok: false, error: 'Not authenticated', data: null };
+        try {
+            const { data, error } = await client
+                .from('reading_progress')
+                .select('*')
+                .eq('user_id', user.id)
+                .eq('book_id', String(bookId))
+                .eq('chapter_id', String(chapterId))
+                .single();
+            if (error) return { ok: false, error: error.message, data: null };
+            return { ok: true, success: true, data: data?.progress || data };
+        } catch (err) {
+            return { ok: false, error: err.message, data: null };
+        }
+    }
+
+    // -------------------------------------------------------------------
+    // Parallel initial profile & data loading (No waterfall requests)
+    // -------------------------------------------------------------------
+    async function loadUserData(userId = null) {
+        const user = userId ? { id: userId } : await getAuthUser();
+        if (!user || !user.id) return { ok: false, error: 'Not authenticated', data: null };
+
+        try {
+            const [profileRes, favsRes, playlistsRes, sessionsRes] = await Promise.all([
+                client.from('profiles').select('*').eq('id', user.id).single(),
+                client.from('favorites').select('special_id').eq('user_id', user.id),
+                client.from('playlists').select('id, title, icon_id, playlist_items(special_id)').eq('user_id', user.id).order('created_at', { ascending: true }),
+                client.from('quiz_sessions').select('*').eq('user_id', user.id).order('date', { ascending: false }).limit(50)
+            ]);
+
+            const favorites = (favsRes.data || []).map(r => r.special_id || r);
+            const playlists = (playlistsRes.data || []).map(pl => ({
+                id: pl.id,
+                title: pl.title,
+                iconId: pl.icon_id,
+                questionIds: (pl.playlist_items || []).map(i => i.special_id)
+            }));
+
+            return {
+                ok: true,
+                success: true,
+                data: {
+                    user: profileRes.data || null,
+                    profile: profileRes.data || null,
+                    stats: profileRes.data || null,
+                    favorites: favorites,
+                    playlists: playlists,
+                    sessions: sessionsRes.data || []
+                }
+            };
+        } catch (err) {
+            console.error('[SupabaseAPI] loadUserData error:', err);
+            return { ok: false, error: err.message, data: null };
+        }
     }
 
     async function batchSaveSessions(sessionsList) {
@@ -734,11 +1177,16 @@
 
     window.SupabaseAPI = {
         client,
+        authEvents,
+        syncManager,
+        OfflineSyncManager,
+        isNetworkError,
         loginWithPin,
         logout,
         getSession,
         getProfile,
         updateProfile,
+        loadUserData,
         getFavorites,
         addFavorite,
         removeFavorite,
@@ -749,6 +1197,9 @@
         deletePlaylist,
         togglePlaylistItem,
         saveSession,
+        saveQuizResults,
+        saveReadingProgress,
+        getReadingProgress,
         batchSaveSessions,
         syncPendingQuizSessions,
         getSessionHistory,
@@ -760,4 +1211,10 @@
         adminDeleteUser,
         checkPinExists
     };
+
+    if (typeof window !== 'undefined') {
+        window.authEvents = authEvents;
+        window.SyncManager = syncManager;
+        window.OfflineSyncManager = OfflineSyncManager;
+    }
 })();

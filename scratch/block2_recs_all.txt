@@ -1,0 +1,985 @@
+
+==================== REC TABLE 5 ====================
+Recommendation Table 5 — Recommendations for
+primary prevention of cancer therapy-related car-
+diovascular toxicity
+Recommendations
+Classa
+Levelb
+Management of CVRF according to the 2021 ESC
+Guidelines on CVD prevention in clinical practice
+is recommended before,c during, and after cancer
+therapy.19
+I
+C
+Dexrazoxane should be considered in adult
+patients with cancer at high and very high CV
+toxicity risk when anthracycline chemotherapy is
+indicated.d,158
+IIa
+B
+Liposomal anthracyclines should be considered in
+adult patients with cancer at high and very high CV
+toxicity risk when anthracycline chemotherapy is
+indicated.e,164,165,168
+IIa
+B
+Continued
+4256
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 6 ====================
+Recommendation Table 6 — Recommendation for
+secondary prevention of cancer therapy-related car-
+diovascular toxicity
+Recommendation
+Classa
+Levelb
+Management of CVD according to applicable ESC
+Guidelines is recommended before,c during, and
+after cancer therapy.
+I
+C
+© ESC 2022
+CVD, cardiovascular disease; ESC, European Society of Cardiology.
+aClass of recommendation.
+bLevel of evidence.
+cWithout delaying cancer treatments.
+ACE-I or ARB and beta-blockers recommended
+for HFf should be considered for primary
+prevention in high- and very high-risk patients
+receiving anthracyclines and/or anti-HER2
+therapies.145,150,155–157,159,160,175
+IIa
+B
+ACE-I or ARB and beta-blockers recommended
+for HFf should be considered for primary
+prevention in high- and very high-risk patients
+receiving targeted cancer therapies that may cause
+HF.g
+IIa
+C
+Statins should be considered for primary
+prevention in adult patients with cancer at high
+and very high CV toxicity risk.h,149,176–185
+IIa
+B
+© ESC 2022
+ACE-I, angiotensin-converting enzyme inhibitors; ARB, angiotensin receptor blockers;
+CV, cardiovascular; CVD, CV disease; CVRF, CV risk factors; ESC, European Society
+of Cardiology; HER2, human epidermal receptor 2; HF, heart failure; HFA, Heart
+Failure
+Association;
+ICOS,
+International
+Cardio-Oncology
+Society;
+MEK,
+mitogen-activated extracellular signal-regulated kinase; PI, proteasome inhibitors;
+RAF, rapidly accelerated ﬁbrosarcoma; VEGFi, vascular endothelial growth factor
+inhibitors.
+aClass of recommendation.
+bLevel of evidence.
+cWithout delaying cancer treatments.
+dAs per the European Medicine Agency: ≥350 mg/m2 doxorubicin or equivalent; as per the
+United States Food and Drug Administration: ≥300 mg/m2 doxorubicin or equivalent.
+eSee Section 5.2.1 for speciﬁc liposomal doxorubicin type and malignancies.
+fCarvedilol (preferred beta-blocker for CV protection if there is no contraindication),186
+bisoprolol, controlled/extended-release metoprolol succinate and nebivolol.
+gVEGFi and bevacizumab, RAF inhibitor, MEK inhibitor, PI, dasatinib, ponatinib, and
+osimertinib.
+hAccording to HFA-ICOS risk assessment tools (Section 4.1; Table 4).
+ESC Guidelines
+4257
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 7 ====================
+Recommendation Table 7 — Recommendations for
+baseline risk assessment and monitoring during an-
+thracycline chemotherapy and in the ﬁrst 12 months
+after therapy
+Recommendations
+Classa
+Levelb
+TTE
+Baseline echocardiographyc is recommended in all
+patients with cancer before anthracycline
+chemotherapy.12,24,208–210
+I
+B
+In all adults receiving anthracycline chemotherapy,
+an echocardiogram is recommended within 12
+months after completing treatment.208
+I
+B
+In high- and very high-risk patients,
+echocardiography is recommended every two
+cycles and within 3 months after completing
+treatment.24,208–210
+I
+C
+In moderate-risk patients, additional
+echocardiography should be considered after a
+cumulative dose of ≥250 mg/m2 of doxorubicin
+or equivalent.7
+IIa
+C
+In low-risk patients, additional echocardiography
+may be considered after a cumulative
+dose of ≥250 mg/m2 of doxorubicin or
+equivalent.7
+IIb
+C
+Cardiac serum biomarkers
+Baseline measurement of NP and cTn is
+recommended in high- and very high-risk patients
+prior to anthracycline chemotherapy.55,65,211
+I
+B
+Continued
+Baseline measurement of NP and cTn should be
+considered in low- and moderate-risk patients
+prior to anthracycline chemotherapy.211
+IIa
+C
+cTn and NP monitoring before every cycle during
+anthracycline chemotherapy and 3 and 12 months
+after therapy completion is recommended in high-
+and very high-risk patients.55,175,211
+I
+B
+cTn and NP monitoring every two cycles during
+anthracycline chemotherapy and within 3 months
+after therapy completion should be considered in
+moderate-risk patients and in low-risk patients
+receiving a cumulative dose of ≥250 mg/m2 of
+doxorubicin or equivalent.55,59,212,213
+IIa
+C
+cTn and NP monitoring every two cycles during
+anthracycline chemotherapy and within 3 months
+after therapy completion may be considered in
+low-risk patients.55,59,212,213
+IIb
+C
+© ESC 2022
+cTn, cardiac troponin; NP, natriuretic peptides; TTE, transthoracic echocardiography.
+aClass of recommendation.
+bLevel of evidence.
+cIf echocardiography is unavailable or non-diagnostic, follow general cardiac imaging
+modalities recommendations (see Section 4.5).
+ESC Guidelines
+4259
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 8 ====================
+Recommendation Table 8 — Recommendations for
+baseline risk assessment and monitoring during hu-
+man epidermal receptor 2-targeted therapies and in
+the ﬁrst 12 months after therapy
+Recommendations
+Classa
+Levelb
+TTE
+Baseline echocardiographyc is recommended
+before HER2-targeted therapies in all patients.225
+I
+B
+Continued
+9 M
+12 M
+3 M
+6 M
+HER2-targeted therapy surveillance protocol
+High and 
+very high 
+riskb
+Low and
+moderate
+riska
+Baseline
+e
+ECG
+cTnd / NPd
+TTEc
+ECG
+cTn / NP
+TTEc
+Class 1
+Class 1Ia
+Class 1Ib
+3 M
+post tx
+12 M
+post tx
+Figure 11 Cardiovascular toxicity monitoring in patients receiving human epidermal receptor 2-targeted therapies. cTn, cardiac troponin; CV,
+cardiovascular; EBC, early breast cancer; ECG, electrocardiogram; HER2, human epidermal receptor 2; M, months; NP, natriuretic peptides; TTE, trans-
+thoracic echocardiography; tx, treatment. This protocol refers to CV toxicity monitoring in patients receiving neoadjuvant or adjuvant anti-HER2 tar-
+geted therapies for non-metastatic disease or ﬁrst year in metastatic disease. Biomarker assessment should ideally be performed before the
+corresponding trastuzumab cycle. TTE should be performed in week 2 or 3 of a 3-weekly trastuzumab cycle. aIn low-risk HER2+ EBC patients who
+are asymptomatic and with a normal assessment after 3 months, reducing TTE monitoring to every 4 months may be considered (Class IIb, Level C).
+In low- and moderate-risk metastatic HER2+ disease, TTE surveillance can be reduced to every 6 months after the ﬁrst year in asymptomatic patients
+with normal TTE assessment (Class I, Level C). bIn high- and very high-risk metastatic HER2+ disease, TTE monitoring every 2–3 cycles may be considered
+depending on the absolute risk and local availability. cCardiac magnetic resonance should be considered for the assessment of cardiac function when TTE
+is unavailable or not diagnostic. dMeasurement of NP and/or cTn is recommended in all patients with cancer if these biomarkers are going to be used
+during treatment monitoring. eBaseline cTn measurement should be considered in low- and moderate-risk patients after anthracycline chemotherapy
+but prior to starting anti-HER2 targeted therapies for CV toxicity risk prediction.
+4260
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 9 ====================
+Recommendation Table 9 — Recommendations for
+baseline risk assessment and monitoring during ﬂuor-
+opyrimidine therapy
+Recommendations
+Classa
+Levelb
+Baseline CV risk assessment and evaluation
+including BP measurement, ECG, lipid proﬁle,
+HbA1c measurement, and SCORE2/
+SCORE2-OPc or equivalent is recommended19
+before starting ﬂuoropyrimidines.
+I
+C
+A baseline echocardiogram is recommended in
+patients with a history of symptomatic CVD
+before starting ﬂuoropyrimidines.
+I
+C
+Screening for CADd may be considered in patients
+at high and very high risk of CADc before
+ﬂuoropyrimidines.
+IIb
+C
+© ESC 2022
+BP, blood pressure; CAD, coronary artery disease; CV, cardiovascular; CVD,
+cardiovascular disease; ECG, electrocardiogram; HbA1c, glycated haemoglobin;
+SCORE2, Systematic Coronary Risk Estimation 2; SCORE2-OP, Systematic Coronary
+Risk Estimation 2—Older Persons.
+aClass of recommendation.
+bLevel of evidence.
+cSCORE2 (,70 years) or SCORE2-OP (≥70 years) CV risk stratiﬁcation: ,50 years:
+low risk ,2.5%, moderate risk 2.5% to ,7.5%, high risk ≥7.5%; 50–69 years: low risk
+,5%; moderate risk 5% to ,10%; high risk ≥10%; ≥70 years: low risk ,7.5%,
+moderate risk 7.5% to ,15%, high risk ≥15%.
+dAccording to pre-existing CVD and local protocols.234
+ESC Guidelines
+4261
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 10 ====================
+Recommendation Table 10 — Recommendations for
+baseline risk assessment and monitoring during vascu-
+lar endothelial growth factor inhibitors
+Recommendations
+Classa
+Levelb
+BP monitoring
+BP measurement is recommended for patients
+treated with VEGFi, bevacizumab, or
+ramucirumab at every clinical visit.
+I
+C
+Daily home monitoring of BP for patients treated
+with VEGFi during the ﬁrst cycle, after each
+increase of VEGFi dose, and every 2–3 weeks
+thereafter is recommended.
+I
+C
+ECG monitoring
+In patients treated with VEGFi at moderate or
+high risk of QTc prolongation, QTcc monitoring is
+recommended monthly during the ﬁrst 3 months
+and every 3–6 months thereafter.d
+I
+C
+Echocardiography
+Baseline echocardiography is recommended in
+high- and very high-risk patients treated with
+VEGFi or bevacizumab.
+I
+C
+Baseline echocardiography should be considered
+in low- and moderate-risk patients treated with a
+VEGFi or bevacizumab.
+IIa
+C
+Continued
+Echocardiography may be considered every 4
+months during the ﬁrst year in moderate-risk
+patients receiving VEGFi or bevacizumab.
+IIb
+C
+Echocardiography should be considered every 3
+months during the ﬁrst year in high- and very
+high-risk patients receiving a VEGFi or
+bevacizumab.e
+IIa
+C
+Echocardiography every 6–12 months should be
+considered in moderate- and high-risk patients
+with cancer who require long-term treatment
+with a VEGFi.
+IIa
+C
+Cardiac biomarker
+NP may be considered at baseline and then every
+4 months during the ﬁrst year in moderate-risk
+patients receiving a VEGFi.
+IIb
+C
+NP should be considered at baseline, 4 weeks
+after starting treatment, and them every 3 months
+during the ﬁrst year in high- and very high-risk
+patients receiving a VEGFi.
+IIa
+C
+© ESC 2022
+BP, blood pressure; ECG, electrocardiogram; NP, natriuretic peptides; QTc, corrected
+QT interval; QTcF, corrected QT interval using Fridericia correction; VEGFi, vascular
+endothelial growth factor inhibitors.
+aClass of recommendation.
+bLevel of evidence.
+cQTc interval using Fridericia correction (QTcF = QT/3√RR) is the preferred method.
+dConsider an ECG 2 weeks after starting treatment in high-risk patients and new
+monitoring in the case of any dose increase (see Section 6.4.2).
+eAn additional echocardiography 4 weeks after starting treatment should be considered
+in selected high- and very high-risk patients according to local availability, especially if
+cardiac biomarker surveillance is not available.
+4264
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 11 ====================
+Recommendation Table 11 — Recommendations for
+baseline
+risk
+assessment
+and
+monitoring
+during
+second- and third-generation breakpoint cluster re-
+gion–Abelson
+oncogene
+locus
+tyrosine
+kinase
+inhibitors
+Recommendations
+Classa
+Levelb
+Baseline CV risk assessmentc is recommended in
+patients who require second- or third-generation
+BCR-ABL TKI.256,261
+I
+C
+In patients treated with nilotinib or ponatinib, CV
+risk assessmentc is recommended every 3 months
+during the ﬁrst year and every 6–12 months
+thereafter.256,261
+I
+C
+QTcd measurement should be considered at
+baseline, at 2 and 4 weeks after starting nilotinib,
+and 2 weeks after any dose increase.259
+IIa
+C
+Baseline echocardiography should be considered
+in all patients before starting second- and
+third-generation BCR-ABL TKI.
+IIa
+C
+Baseline echocardiography is recommended in
+patients scheduled to receive dasatinib.
+I
+C
+Echocardiography should be considered every 3
+months during the ﬁrst year in high- and very
+high-risk patients receiving dasatinib or ponatinib.
+IIa
+C
+Echocardiography may be considered every 6–12
+months in patients who require long-term (.12
+months) ponatinib or dasatinib.
+IIb
+C
+Serial assessment of ankle brachial index may be
+considered to detect subclinical peripheral
+vascular disease.
+IIb
+C
+© ESC 2022
+BCR-ABL, breakpoint cluster region–Abelson oncogene locus; BP, blood pressure; CV,
+cardiovascular; ECG, electrocardiogram; HbA1c, glycated haemoglobin; HFA, Heart
+Failure Association; ICOS, International Cardio-Oncology Society; QTc, corrected
+QT interval; QTcF, corrected QT interval using Fridericia correction; TKI, tyrosine
+kinase inhibitors.
+aClass of recommendation.
+bLevel of evidence.
+cPhysical examination, BP measurement, ECG, lipid proﬁle, and HbA1c measurement.
+Coronary artery calcium scoring can reclassify CV disease risk upwards and downwards
+in addition to conventional risk factors, and may be considered at baseline in low- and
+moderate-risk patients as per HFA-ICOS risk assessment tools.19
+dQTc interval using Fridericia correction (QTcF = QT/3√RR) is the preferred
+method.
+
+==================== REC TABLE 12 ====================
+Recommendation Table 12 — Recommendations for
+baseline
+risk
+assessment
+and
+monitoring
+during
+Bruton tyrosine kinase inhibitor therapy
+Recommendations
+Classa
+Levelb
+BP monitoring and management
+BP measurement is recommended for patients
+treated with BTK inhibitors at every clinical
+visit.264
+I
+B
+Weekly home monitoring of BP during the ﬁrst 3
+months and every month thereafter should be
+considered for patients treated with BTK
+inhibitors.
+IIa
+C
+Echocardiography
+Baseline echocardiography is recommended in
+high-risk patientsc scheduled to receive BTK
+inhibitors.267,268
+I
+C
+TTE is recommended in all patients who develop
+AF during BTK inhibitor therapy.
+I
+C
+Continued
+ESC Guidelines
+4267
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 13 ====================
+Recommendation Table 13 — Recommendations for
+baseline risk assessment and monitoring during mul-
+tiple myeloma therapies
+Recommendations
+Classa
+Levelb
+BP monitoring
+BP measurement is recommended for patients
+treated with PI at every clinical visit.
+I
+C
+Home monitoring of BP weekly during the ﬁrst 3
+months and monthly thereafter should be
+considered for patients treated with PI.
+IIa
+C
+Cardiac serum biomarkers
+Measurement of NP is recommended prior to PI
+in high- and very high-risk patients.66,303
+I
+C
+Measurement of NP should be considered prior
+to PI in low- and moderate-risk patients.66
+IIa
+C
+In patients receiving carﬁlzomib or bortezomib,
+measurement of NP should be considered at
+baseline and every cycle during the ﬁrst 6
+cycles.c,66
+IIa
+B
+NP and cTn measurements are recommended at
+baseline and every 3–6 months in patients with
+AL-CA.d,290
+I
+B
+TTE
+Baseline echocardiography, including assessment
+for AL-CA, is recommended in all patients with
+MM scheduled to receive PI.
+I
+C
+Echocardiography surveillance every 3 cycles
+should be considered in high- and very high-risk
+patients receiving carﬁlzomib.280
+IIa
+B
+Echocardiography surveillance every 3 cycles may
+be considered in low- and moderate-risk patients
+receiving carﬁlzomib.
+IIb
+C
+Echocardiography surveillance should be
+considered every 3–6 months in patients with
+AL-CA treated with PI.d,290
+IIa
+C
+VTE prophylaxis
+Therapeutic doses of LMWH are recommended
+in patients with MM with previous
+VTE.296,298,302,304,305
+I
+B
+Prophylactic doses of LMWH are recommended
+in patients with MM with VTE-related risk factorse
+(excluding previous VTE) at least during the ﬁrst 6
+months of therapy.296,304,305
+I
+A
+Aspirin should be considered as an alternative to
+LMWH in patients with MM with no risk factors
+or one VTE-related risk factore (excluding
+previous VTE) at least during the ﬁrst 6 months of
+therapy.296,304–307
+IIa
+B
+Continued
+Low doses of apixaban or rivaroxabanf may be
+considered as an alternative to LMWH or aspirin
+in patients with MM with VTE-related risk factorse
+(excluding previous VTE) at least during the ﬁrst 6
+months of therapy.300–302
+IIb
+C
+© ESC 2022
+AL-CA, amyloid light-chain cardiac amyloidosis; BP, blood pressure; cTn, cardiac
+troponin; HF, heart failure; LMWH, low-molecular-weight heparins; MM, multiple
+myeloma; NP, natriuretic peptides; PI, proteasome inhibitors; TTE, transthoracic
+echocardiography; VTE, venous thromboembolism.
+aClass of recommendation.
+bLevel of evidence.
+cEvery 2 months for patients treated with oral ixazomib.
+dDepending on HF severity and treatment.
+eSee Figure 18.295,296,299
+fLow doses of apixaban (2.5 mg twice a day) or rivaroxaban (10 mg once a day).
+ESC Guidelines
+4271
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 14 ====================
+Recommendation Table 14 — Recommendations for baseline risk assessment and monitoring during combined rap-
+idly accelerated ﬁbrosarcoma and mitogen-activated extracellular signal-regulated kinase inhibitor therapy
+Recommendations
+Classa
+Levelb
+BP monitoring at each clinical visit and weekly outpatient monitoring during the ﬁrst 3 months of treatment and monthly thereafter is
+recommended.
+I
+C
+In patients treated with cobimetinib/vemurafenib, an ECG is recommended at 2 and 4 weeks after initiation of treatment and every 3
+months thereafter.c
+I
+C
+Baseline echocardiography is recommended in all high- and very high-risk patients scheduled to receive combined RAF and MEK
+inhibitors.
+I
+C
+Baseline echocardiography may be considered in low- and moderate-risk patients scheduled to receive combined RAF and MEK
+inhibitors.
+IIb
+C
+Echocardiography should be considered every 4 months during the ﬁrst year in high- and very high-risk patients receiving combined RAF
+and MEK inhibitors.
+IIa
+C
+© ESC 2022
+BP, blood pressure; ECG, electrocardiogram; MEK, mitogen-activated extracellular signal-regulated kinase; RAF, rapidly accelerated ﬁbrosarcoma.
+aClass of recommendation.
+bLevel of evidence.
+cConsider an ECG and new monitoring in the case of any dose increase (see Section 6.4.2).
+4272
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 15 ====================
+Recommendation Table 15 — Recommendations for
+baseline
+risk
+assessment
+and
+monitoring
+during
+immunotherapy
+Recommendations
+Classa
+Levelb
+ECG, NP, and cTn measurements are
+recommended in all patients before starting ICI
+therapy.333
+I
+B
+Baseline echocardiography is recommended in
+high-risk patientsc before starting ICI therapy.333
+I
+B
+Baseline echocardiography may be considered in
+all patients before starting ICI therapy.
+IIb
+C
+Continued
+Serial ECG and cTn measurements should be
+considered before ICI doses 2, 3, and 4, and if
+normal, reduce to every three doses until
+completion of therapy to detect subclinical
+ICI-related CV toxicity.333
+IIa
+B
+CV assessmentd is recommended every 6–12
+months in high-risk patientsc who require
+long-term (.12 months) ICI treatment.321–
+323,335,336
+I
+C
+CV assessmentd may be considered every 6–12
+months in all patients who require long-term
+(.12 months) ICI treatment.
+IIb
+C
+© ESC 2022
+BNP, B-type natriuretic peptide; BP, blood pressure; cTn, cardiac troponin; CTRCD,
+cancer therapy-related cardiac dysfunction; CV, cardiovascular; CVD, cardiovascular
+disease; ECG, electrocardiogram; HbA1c, glycated haemoglobin; ICI, immune
+checkpoint inhibitors; NP, natriuretic peptides; NT-proBNP, N-terminal pro-B-type
+natriuretic peptide.
+aClass of recommendation.
+bLevel of evidence.
+cDual ICI, combination ICI-cardiotoxic therapy; ICI-related non-CV events, prior
+CTRCD, or CVD.
+dPhysical examination, BP, NP (BNP or NT-proBNP), lipid proﬁle, HbA1c, and ECG.
+4274
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 16 ====================
+Recommendation Table 16 — Recommendations for
+baseline risk assessment and monitoring during an-
+drogen deprivation therapy for prostate cancer
+Recommendations
+Classa
+Levelb
+Baseline CV risk assessmentc and estimation of
+10-year fatal and non-fatal CVD risk with
+SCORE2 or SCORE2-OPd is recommended in
+patients treated with ADT without pre-existing
+CVD.19,341,342
+I
+B
+Baseline and serial ECGs are recommended in
+patients at risk of QTc prolongation during ADT
+therapy.e,339–342
+I
+B
+A GnRH antagonist should be considered in
+patients with pre-existing symptomatic CADf
+who require ADT.341,342
+IIa
+B
+Annual CV risk assessmentc is recommended
+during ADT.19,339,341,342
+I
+B
+© ESC 2022
+ACS, acute coronary syndromes; ADT, androgen deprivation therapy; BP, blood
+pressure; CAD, coronary artery disease; CCS, chronic coronary syndromes; CV,
+cardiovascular;
+CVD,
+cardiovascular
+disease;
+ECG,
+electrocardiogram;
+GnRH,
+gonadotropin-releasing hormone; HbA1c, glycated haemoglobin; QTc, corrected QT
+interval; SCORE2, Systematic Coronary Risk Estimation 2; SCORE2-OP, Systematic
+Coronary Risk Estimation 2—Older Persons.
+aClass of recommendation.
+bLevel of evidence.
+cBP, lipids, fasting glucose, HbA1c, ECG, and patient education on healthy lifestyle and
+lifestyle risk factor control is recommended.
+dSCORE2 (,70 years) or SCORE2-OP (≥70 years) CV risk stratiﬁcation: ,50 years:
+low risk ,2.5%, moderate risk 2.5% to ,7.5%, high risk ≥7.5%; 50–69 years: low
+risk ,5%; moderate risk 5% to ,10%; high risk ≥10%; ≥70 years: low risk ,7.5%,
+moderate risk 7.5% to ,15%, high risk ≥15%.
+eSee Table 9.
+fCCS and ACS.
+
+==================== REC TABLE 17 ====================
+Recommendation Table 17 — Recommendations for
+baseline risk assessment and monitoring during endo-
+crine therapy for breast cancer
+Recommendations
+Classa
+Levelb
+Baseline CV risk assessmentc and estimation of
+10-year fatal and non-fatal CVD risk with
+SCORE2 or SCORE2-OPd,e is recommended in
+BC patients receiving endocrine therapies without
+pre-existing CVD.19
+I
+C
+Annual CV risk assessmentc is recommended
+during endocrine therapy in BC patients with high
+10-year risk of (fatal and non-fatal) CV events
+according to SCORE2/SCORE2-OP.d,e
+I
+C
+CV risk assessmentc should be considered every 5
+years in BC patients with low or moderate
+10-year risk of (fatal and non-fatal) CV events
+according to SCORE2/SCORE2-OP.d,e
+IIa
+C
+© ESC 2022
+BC, breast cancer; BP, blood pressure; CV, cardiovascular; CVD, cardiovascular disease;
+ECG,
+electrocardiogram;
+HbA1c,
+glycated
+haemoglobin;
+SCORE2,
+Systematic
+Coronary Risk Estimation 2; SCORE2-OP, Systematic Coronary Risk Estimation 2—
+Older persons.
+aClass of recommendation.
+bLevel of evidence.
+cBP, lipids, fasting glucose, HbA1c, ECG and patient education on healthy lifestyle and
+lifestyle risk factor control.
+dOr other validated CV risk scores.
+eSCORE2 (,70 years) or SCORE2-OP (≥70 years) CV risk stratiﬁcation: ,50 years:
+low risk ,2.5%, moderate risk 2.5% to ,7.5%, high risk ≥7.5%; 50–69 years: low
+risk ,5%; moderate risk 5% to ,10%; high risk ≥10%; ≥70 years: low risk ,7.5%,
+moderate risk 7.5% to ,15%, high risk ≥15%.19
+4276
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 18 ====================
+Recommendation Table 18 — Recommendations for
+baseline risk assessment and monitoring during cyclin-
+dependent kinase 4/6 inhibitor therapy
+Recommendations
+Classa
+Levelb
+QTcc,d monitoring is recommended at baseline
+and 14 and 28 days in all patients with cancer
+receiving ribociclib.361,365,367,368
+I
+A
+QTcc,d monitoring is recommended in patients
+treated with ribociclib with any dose
+increase.361,365,367,368
+I
+B
+QTcc monitoring should be considered in patients
+treated with palbociclib or abemaciclib who have a
+baseline QTc above the normal rangec or other
+conditions that may prolong the QTc interval.e
+IIa
+C
+© ESC 2022
+QTc, corrected QT interval; QTcF, corrected QT interval using Fridericia correction.
+aClass of recommendation.
+bLevel of evidence.
+cQT interval using Fridericia correction (QTcF = QT/3√RR) is the preferred method in
+patients with cancer. Upper 99% limit of normal for QTc values in the general
+population are 450 ms for men and 460 ms for women.369
+dAccording to the European Medicines Agency: (1) ribociclib should be interrupted
+when QTcF . 480 ms; (2) if QTcF prolongation resolves to ,481 ms, resume
+treatment at the same dose level; (3) if QTcF ≥481 ms recurs, interrupt dose until
+QTcF resolves to ,481 ms and then resume ribociclib at next lower dose level.
+eSee Section 6.4.2 and Table 8.
+
+==================== REC TABLE 19 ====================
+Recommendation Table 19 — Recommendations for
+baseline risk assessment and monitoring during ana-
+plastic lymphoma kinase and epidermal growth factor
+receptor inhibitors
+Recommendations
+Classa
+Levelb
+Baseline CV risk assessmentc is recommended in
+patients before ALK inhibitors and EGFR
+inhibitors.
+I
+C
+Baseline echocardiography is recommended in all
+patients with cancer before starting osimertinib.376
+I
+B
+Home BP monitoring should be considered for
+patients treated with brigatinib, crizotinib, or
+lorlatinib.
+IIa
+C
+Cholesterol proﬁle assessment every 3–6 months
+should be considered for patients on crizotinib
+and lorlatinib.
+IIa
+C
+Echocardiography should be considered every 3
+months in patients during osimertinib therapy.376
+IIa
+B
+ECG should be considered 4 weeks after starting
+therapy and every 3–6 months in patients during
+ALK inhibitor therapy.
+IIa
+C
+© ESC 2022
+ALK, anaplastic lymphoma kinase; BP, blood pressure; CV, cardiovascular; ECG,
+electrocardiogram; EGFR, epidermal growth factor receptor; HbA1c, glycated
+haemoglobin.
+aClass of recommendation.
+bLevel of evidence.
+cPhysical examination, BP measurement, ECG, lipid proﬁle, and HbA1c measurement.
+ESC Guidelines
+4277
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 20 ====================
+Recommendation Table 20 — Recommendations for
+baseline risk assessment and monitoring in patients
+receiving chimeric antigen receptor T cell and tumour-
+inﬁltrating lymphocytes therapies
+Recommendations
+Classa
+Levelb
+Baseline ECG, NP, and cTn are recommended in
+all patients with cancer before starting CAR-T and
+TIL therapies.388
+I
+C
+A baseline echocardiography is recommended in
+patients with pre-existing CVD before starting
+CAR-T and TIL therapies.388
+I
+C
+A baseline echocardiography should be
+considered before starting CAR-T and TIL
+therapies.388
+IIa
+C
+Measurement of NP, cTn, and echocardiography
+are recommended in patients who develop CRS
+of ASTCT ≥2.c,378,388
+I
+C
+© ESC 2022
+ASTCT, American Society for Transplantation and Cellular Therapy; CAR-T, chimeric
+antigen receptor T cell; CRS, cytokine release syndrome; cTn, cardiac troponin; CVD,
+cardiovascular disease; ECG, electrocardiogram; NP, natriuretic peptides; TIL,
+tumour-inﬁltrating lymphocytes.
+aClass of recommendation.
+bLevel of evidence.
+cDetermine CRS grade according to ASTCT grading: Grade 1: fever; Grade 2: fever
+AND hypotension not requiring vasopressors AND/OR hypoxia requiring low-ﬂow
+nasal oxygen; Grade 3: fever AND hypotension requiring one vasopressor +
+vasopressin AND/OR hypoxia requiring high-ﬂow nasal cannula or facemask or
+non-rebreather mask or Venturi mask; Grade 4: fever AND hypotension requiring
+multiple vasopressors, not including vasopressin AND/OR hypoxia requiring positive
+airway pressure.
+
+==================== REC TABLE 21 ====================
+Recommendation Table 21 — Recommendations for
+baseline risk assessment of patients before radiother-
+apy to a volume including the heart
+Recommendations
+Classa
+Levelb
+Baseline CV risk assessmentc and estimation of
+10-year fatal and non-fatal CVD risk with
+SCORE2 or SCORE2-OPd is recommended.19,389
+I
+B
+Baseline echocardiography should be considered
+in patients with previous CVD before RT to a
+volume including the heart.
+IIa
+C
+© ESC 2022
+BP,
+blood
+pressure;
+CV,
+cardiovascular;
+CVD,
+cardiovascular
+disease;
+ECG,
+electrocardiogram; HbA1c,
+glycated haemoglobin; RT, radiotherapy; SCORE2,
+Systematic Coronary Risk Estimation 2; SCORE2-OP, Systematic Coronary Risk
+Estimation 2—Older Persons.
+aClass of recommendation.
+bLevel of evidence.
+cBP, lipids, fasting glucose, HbA1c, ECG and patient education on healthy lifestyle and
+lifestyle risk factor control.
+dSCORE2 (,70 years) or SCORE2-OP (≥70 years) CV risk stratiﬁcation: ,50 years:
+low risk ,2.5%, moderate risk 2.5% to ,7.5%, high risk ≥7.5%; 50–69 years: low
+risk ,5%; moderate risk 5% to ,10%; high risk ≥10%; ≥70 years: low risk ,7.5%,
+moderate risk 7.5% to ,15%, high risk ≥15%.19
+ESC Guidelines
+4279
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 22 ====================
+Recommendation Table 22 — Recommendations for
+baseline risk assessment in haematopoietic stem cell
+transplantation patients
+Recommendations
+Classa
+Levelb
+Baseline and serial CV risk assessment (3 and 12
+months, then yearly) including BP measurement,
+ECG, lipid measurement, and HbA1c is
+recommended in HSCT patients.
+I
+C
+Echocardiography is recommended in all patients
+before HSCT.
+I
+C
+Baseline NP measurement should be considered
+before HSCT.417,418
+IIa
+C
+© ESC 2022
+BP, blood pressure; CV, cardiovascular; ECG, electrocardiogram; HbA1c, glycated
+haemoglobin; HSCT, haematopoietic stem cell transplantation; NP, natriuretic peptides.
+aClass of recommendation.
+bLevel of evidence.
+ESC Guidelines
+4281
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 23 ====================
+Recommendation Table 23 — Recommendation for
+the management of cardiovascular disease and cancer
+therapy-related cardiovascular toxicity in patients re-
+ceiving anticancer treatment
+Recommendation
+Classa
+Levelb
+A specialist CV assessmentc is recommended for
+optimal diagnostic workup and management of
+patients with cancer who present with new CV
+toxicity during and after cancer treatment.5
+I
+C
+© ESC 2022
+CV, cardiovascular; CVD, cardiovascular disease.
+aClass of recommendation.
+bLevel of evidence.
+cCardio-oncology referral is recommended when available; alternatively, patients should
+be referred to a specialized cardiologist with expertise in managing CVD in patients with
+cancer.
+4282
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026

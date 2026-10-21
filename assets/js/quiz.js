@@ -5310,18 +5310,26 @@ function showResults() {
         if (user && !user.isGuest && window.SupabaseAPI) {
             enqueueSessionForSync(newSessionObj);
 
-            if (typeof window.SupabaseAPI.saveSession === 'function') {
-                window.SupabaseAPI.saveSession(newSessionObj).then(res => {
-                    if (res && (res.ok || res.success)) {
-                        console.log('✅ [Session] Direct save to Supabase succeeded:', newSessionObj.sessionId);
-                        removeFromPendingSync(newSessionObj.sessionId);
-                    } else {
-                        console.warn('⚠️ [Session] Direct save returned warning, kept in pending:', res && res.error);
-                    }
-                }).catch(err => {
-                    console.warn('⚠️ [Session] Network error on direct save, kept in pending:', err);
-                });
-            }
+            const answersData = (state.answers || []).map((ans, idx) => ({
+                question_id: ans?.questionId || ans?.specialId || `q_${idx}`,
+                is_correct: !!ans?.isCorrect,
+                chosen_option: typeof ans?.chosen === 'number' ? ans.chosen : null
+            }));
+
+            const savePromise = (typeof window.SupabaseAPI.saveQuizResults === 'function')
+                ? window.SupabaseAPI.saveQuizResults(newSessionObj, answersData)
+                : window.SupabaseAPI.saveSession(newSessionObj);
+
+            savePromise.then(res => {
+                if (res && (res.ok || res.success)) {
+                    console.log('✅ [Session] Direct save to Supabase succeeded:', newSessionObj.sessionId);
+                    removeFromPendingSync(newSessionObj.sessionId);
+                } else {
+                    console.warn('⚠️ [Session] Direct save returned warning, kept in pending:', res && res.error);
+                }
+            }).catch(err => {
+                console.warn('⚠️ [Session] Network error on direct save, kept in pending:', err);
+            });
         }
 
         // 3. Sync RPG progression to Supabase profile

@@ -1,0 +1,124 @@
+specialist in CV medicine with expertise in CVRF management. CS at
+high or very high risk of future CVD can be divided into those at high
+early risk (within 5 years of completing cancer therapy) and those at
+high late risk (.30 years from completing treatment). The timing and
+frequency of other complementary tests depends upon the risk for
+CTR-CVT (Figure 38).
+CS with a high or very high baseline risk and patients with abnormal
+LV function at the end-of-therapy assessment have a high or very high
+early risk, particularly in the ﬁrst 2 years. 61,667,668 Annual CV assess-
+ment with clinical examination, ECG, and NP measurement is recom-
+mended in CS. TTE should be considered at years 1, 3, and 5 after
+completion of cardiotoxic cancer therapy and every 5 years thereafter
+in asymptomatic very high- and early high-risk adult CS.
+In adult CS with late high CTR-CVT risk (e.g. young adults with
+Hodgkin lymphoma or sarcomas who received a high total cumula-
+tive anthracycline dose or patients treated with high-dose radiation
+to a ﬁeld involving the heart, e.g. Mantle RT) there is a progressive
+risk of CTRCD. 661,669 Annual CV assessment with clinical examin-
+ation, ECG, and NP measurement is recommended, starting 5 years
+after the end of treatment, provided the end-of-therapy assessment
+at 12 months is normal. TTE should also be considered every 5 years,
+as well as non-invasive screening for CAD ( Section 8.3) and carotid
+disease (Section 8.5) according to local protocols. 670
+The long-term effects of CTRCD caused by trastuzumab and
+other targeted cancer therapies (e.g. TKI) beyond 10 years are un-
+known. Currently, there is no recommendation for lifelong surveil-
+lance in these CS unless they have another indication.
+CV assessment with clinical examination, ECG, echocardiography,
+and NP measurement every 5 years should be considered in asymp-
+tomatic adult CS at moderate risk of future CTR-CVT and a normal
+end-of-therapy CV assessment.
+Table 12 Risk categories for asymptomatic adult can-
+cer survivors
+Risk categorya Patient characteristics
+Very high risk  Very high baseline CV toxicity risk
+pre-treatment
+ Doxorubicinb ≥ 400 mg/m2
+ RT . 25 Gy MHD c
+ RT . 15–25 Gy MHD c + doxorubicinb
+≥100 mg/m2
+Early high risk
+(,5 years after
+therapy)
+ High baseline CV toxicity risk
+ Symptomatic or asymptomatic
+moderate-to-severe CTRCD during
+treatment
+ Doxorubicinb 250–399 mg/m2
+ High-risk HSCTd
+Late high risk  RT . 15–25 Gy MHD c
+ RT 5–15 Gy MHD e + doxorubicinb
+≥100 mg/m2
+ Poorly controlled CVRF
+Moderate risk  Moderate baseline CV toxicity risk
+ Doxorubicinb 100–249 mg/m2
+ RT 5–15 Gy MHD e
+ RT , 5 Gy MHD f + doxorubicinb ≥ 100 mg/
+m2
+Low risk  Low baseline CV toxicity risk and normal
+end-of-therapy cardiac assessment
+ Mild CTRCD during therapy but recovered by
+the end of cancer therapy
+ RT , 5 Gy MHD f
+ Doxorubicinb , 100 mg/m2
+© ESC 2022
+CTRCD, cancer therapy-related cardiac dysfunction; CV, cardiovascular; CVD,
+cardiovascular disease; CVRF, cardiovascular risk factors; GVHD, graft vs. host
+disease; Gy, Gray; HSCT, haematopoietic stell cell transplantation; MHD, mean heart
+dose; RT, radiotherapy. References: 397,399,400,673,674
+aRT risk categorization based on MHD is recommended over categorization based on
+prescribed dose, which may not accurately re ﬂect cardiac radiation exposure.
+Depending on dose distribution and exposure of speci ﬁc cardiac substructures (as well
+as clinical risk factors), the treatment team may judge the patient to belong to a higher
+risk category. In addition, a patient may be judged to belong to a lower risk category in
+case only a small part of the heart is exposed to a relatively high prescribed dose.
+bOr equivalent.
+cOr prescribed RT≥ 35 Gy to a volume exposing the heart if MHD is not available. Note
+that in this case, the limited information about cardiac exposure does not allow one to
+distinguish between high- and very high-risk categories.
+dHigh-risk HSCT patients: allogenic HSCT; pre-existing CVD or multiple uncontrolled
+CVRF; cancer treatment history (mediastinal or mantle ﬁeld radiation, alkylating agents,
+.250 mg/m2 doxorubicin or equivalent); conditioning schemes (total body irradiation,
+alkylating agents); development of GVHD.
+eOr prescribed RT 15–34 Gy to a volume exposing the heart if MHD is not available.
+fOr prescribed RT , 15 Gy to a volume exposing the heart if MHD is not available.
+Recommendation Table 41 — Recommendations for
+cardiovascular surveillance in asymptomatic adult can-
+cer survivors
+Recommendations Class a Levelb
+Annual CV risk assessment, c including ECG and
+NP, and CVRF management is recommended in
+CS who were treated with a potentially
+cardiotoxic cancer drug or RT. d,631–633,671,672
+IB
+CV toxicity risk restrati ﬁcatione is recommended
+5 years after therapy to organize long-term
+follow-up.
+IC
+Echocardiography at years 1, 3, and 5 after
+completion of cardiotoxic cancer therapy and
+every 5 years thereafter should be considered in
+asymptomatic very high- and early high-risk adult
+CS.f
+IIa C
+Echocardiography should be considered in
+asymptomatic late high-risk adult CS f starting at 5
+years after radiation to a volume including the
+heart and then every 5 years.
+IIa C
+Echocardiography may be considered every 5
+years in asymptomatic moderate-risk adult CS. f IIb C
+Non-invasive screening for CAD g should be
+considered every 5 –10 years in asymptomatic
+patients who received .15 Gy MHD, d starting at
+5 years after radiation.
+IIa C
+Carotid ultrasound imaging should be considered
+every 5 years in asymptomatic patients with a
+history of head/neck RT, starting at 5 years after
+radiation and every 5 –10 years thereafter.
+IIa C
+Continued
+4314 ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026

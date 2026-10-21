@@ -1,0 +1,662 @@
+==================== REC TABLE 37 ====================
+Recommendation Table 37 — Recommendations for
+the management of pulmonary hypertension during
+anticancer treatment
+Recommendations Class a Levelb
+Right-heart catheterization and discontinuation of
+dasatinib is recommended in patients who
+develop symptomatic or asymptomatic increase in
+peak TRV .3.4 m/s.
+IC
+Dasatinib dose reduction and close monitoring of
+peak TRV with echocardiography should be
+considered in patients who develop new
+asymptomatic peak TRV ranging from 2.9 to
+3.4 m/s.
+IIa C
+In patients with con ﬁrmed dasatinib-induced
+PAHc or new asymptomatic peak TRV .3.4 m/s,
+an alternative BCR-ABL inhibitor is recommended
+after peak TRV recovery to ,2.8 m/s.
+I C
+© ESC 2022
+BCL-ABL, breakpoint cluster region–Abelson oncogene locus; PAH, pulmonary arterial
+hypertension; TRV, tricuspid regurgitation velocity.
+aClass of recommendation.
+bLevel of evidence.
+cDeﬁnite diagnosis of PAH requires a right-heart catheterization.
+4308 ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+
+==================== REC TABLE 37 NOT MATCHED WITH REGEX ====================
+
+==================== REC TABLE 38 ====================
+Recommendation Table 38 — Recommendations for
+the management of pericardial diseases in patients re-
+ceiving anticancer treatment
+Recommendations
+Classa
+Levelb
+General
+Diagnosis and management of acute pericarditis in
+patients with cancer based on the 2015 ESC
+Guidelines for the diagnosis and management of
+pericardial diseases is recommended and a
+multidisciplinary discussion is needed before
+interrupting cancer therapy.444
+I
+C
+A surgical pericardial window should be
+considered if the percutaneous approach is not
+feasible or in cases of recurrent malignant
+pericardial effusions.
+IIa
+C
+Intrapericardial instillation of cytostatic or
+sclerosing agents may be considered for
+prevention of recurrence.
+IIb
+C
+Diagnosis and management of ICI-associated pericarditis
+Multimodality CV imaging (echocardiography,
+CMR + CT), ECG and measurement of cardiac
+biomarkers are recommended to conﬁrm the
+diagnosis, assess the haemodynamic
+consequences of pericardial disease, and rule out
+associated myocarditis.
+I
+C
+Prednisolone and colchicine are recommended
+for patients with ICI-associated
+pericarditis.326,624,625,630
+I
+C
+Interruption of ICI treatment in patients with
+conﬁrmed ICI-associated pericarditis with
+moderate-to-severe pericardial effusion is
+recommended.
+I
+C
+A multidisciplinary discussion is recommended
+before restarting ICI treatment.
+I
+C
+© ESC 2022
+CMR, cardiac magnetic resonance; CT, computed tomography; CV, cardiovascular;
+ECG, electrocardiogram; ESC, European Society of Cardiology; ICI, immune
+checkpoint inhibitors.
+aClass of recommendation.
+bLevel of evidence.
+ESC Guidelines
+4309
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 39 ====================
+Recommendation Table 39 — Recommendations for
+end-of-cancer therapy cardiovascular risk assessment
+Recommendations
+Classa
+Levelb
+Educating and supporting patients with cancer to
+make appropriate healthy lifestyle choices is
+recommended.c
+I
+C
+Education is recommended for patients with
+cancer regarding recognition for early signs and
+symptoms of CVD.
+I
+C
+CVRF assessment is recommended during the
+ﬁrst year after cancer therapyc,12,22,31,632,643 and
+thereafter according to the 2021 ESC Guidelines
+on CVD prevention in clinical practice.19
+I
+B
+In asymptomatic high-risk patients,d
+echocardiography and cardiac serum biomarkers
+are recommended at 3 and 12 months after
+completion of cancer
+therapy.53,54,59,61,68,148,208,425
+I
+B
+In asymptomatic moderate-risk patients,e
+echocardiography and cardiac serum biomarkers
+should be considered within 12 months after
+completion of cancer therapy.53,54,59,61,68,148,208
+IIa
+B
+In asymptomatic low-risk patients,e
+echocardiography and cardiac serum biomarkers
+may be considered within 12 months after
+completion of cancer therapy.634
+IIb
+C
+Cardiology referralf is recommended in patients
+with cancer with new cardiac symptoms or new
+asymptomatic abnormalities in echocardiography
+and/or cardiac serum biomarkers at the end of
+therapy assessment.11
+I
+C
+In selected patients with exercise intolerance
+persisting at 12 months after cancer treatment
+and with normal resting echocardiogram and
+cardiac biomarkers, exercise stress
+echocardiography and/or CPET may be
+considered.
+IIb
+C
+Targeted cardiac rehabilitation should be
+considered in CS with high CV risk.638–640
+IIa
+B
+Long-term continuation of cardiac medication is
+recommended in patients who develop severe
+CTRCD during cancer therapy.
+I
+C
+CV follow-up and treatment optimization is
+recommended in patients who developed
+TKI-mediated hypertension during cancer
+therapy.644,645
+I
+C
+CV follow-up and treatment optimization is
+recommended in patients who developed vascular
+toxicities during cancer therapy.10,237
+I
+C
+Continued
+ECG follow-up is recommended in patients who
+developed QT lengthening or LQTS during cancer
+therapy.646
+I
+C
+© ESC 2022
+CPET, cardiopulmonary exercise testing; CS, cancer survivors; CTRCD, cancer
+therapy-related cardiac dysfunction; CV, cardiovascular; CVD, cardiovascular disease;
+CVRF, cardiovascular risk factors; DM, diabetes mellitus; ECG, electrocardiogram;
+ESC, European Society of Cardiology; LQTS, long QT syndrome; TKI, tyrosine kinase
+inhibitors.
+aClass of recommendation.
+bLevel of evidence.
+cIncluding regulation of hypertension, DM, dyslipidaemia, smoking cessation, weight loss
+in case of obesity, and an adequate amount of exercise.
+dHigh-risk patients: see Table 10.
+eModerate- or low-risk patients: according to CV toxicity baseline risk stratiﬁcation.
+fCardio-oncology referral is recommended when available; alternatively, the patient
+should be referred to a cardiologist with expertise in managing CVD in patients with
+cancer.
+4312
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 40 ====================
+Recommendation Table 40 — Recommendations for
+cardiovascular surveillance in asymptomatic adults
+who are childhood and adolescent cancer survivors
+Recommendations
+Classa
+Levelb
+Education of adults who are childhood and
+adolescent CS treated with anthracyclines,
+mitoxantrone, and/or RT to a volume including
+the heart and their healthcare providers regarding
+their increased CV risk is recommended.655–657
+I
+B
+Annual screening for modiﬁable CVRFc is
+recommended in adults who are childhood and
+adolescent CS treated with anthracyclines,
+mitoxantrone, and/or RT to a volume including
+the heart.
+I
+C
+CV assessmentd is recommended in female
+childhood and adolescent CS prior to pregnancy
+or in the ﬁrst trimester.
+I
+C
+Echocardiography surveillance should be
+considered every 2 years in adults who are
+high-risk childhood and adolescente CS.7
+IIa
+B
+Echocardiography surveillance should be
+considered every 5 years in adults who are
+moderate-risk childhood and adolescente CS.7,654
+IIa
+B
+© ESC 2022
+BP, blood pressure; CS, cancer survivors; CV, cardiovascular; CVRF, cardiovascular risk
+factors; DM, diabetes mellitus; ECG, electrocardiogram; HbA1c, glycated haemoglobin;
+RT, radiotherapy; TTE, transthoracic echocardiography.
+aClass of recommendation.
+bLevel of evidence.
+cObesity, sedentary lifestyle, cigarette smoking, alcohol intake, unhealthy diet,
+dyslipidaemia, hypertension, DM.
+dBP, lipids, fasting glucose, HbA1c, ECG, and TTE.
+eSee Table 11.
+ESC Guidelines
+4313
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 41 ====================
+Recommendation Table 41 — Recommendations for
+cardiovascular surveillance in asymptomatic adult can-
+cer survivors
+Recommendations
+Classa
+Levelb
+Annual CV risk assessment,c including ECG and
+NP, and CVRF management is recommended in
+CS who were treated with a potentially
+cardiotoxic cancer drug or RT.d,631–633,671,672
+I
+B
+CV toxicity risk restratiﬁcatione is recommended
+5 years after therapy to organize long-term
+follow-up.
+I
+C
+Echocardiography at years 1, 3, and 5 after
+completion of cardiotoxic cancer therapy and
+every 5 years thereafter should be considered in
+asymptomatic very high- and early high-risk adult
+CS.f
+IIa
+C
+Echocardiography should be considered in
+asymptomatic late high-risk adult CSf starting at 5
+years after radiation to a volume including the
+heart and then every 5 years.
+IIa
+C
+Echocardiography may be considered every 5
+years in asymptomatic moderate-risk adult CS.f
+IIb
+C
+Non-invasive screening for CADg should be
+considered every 5–10 years in asymptomatic
+patients who received .15 Gy MHD,d starting at
+5 years after radiation.
+IIa
+C
+Carotid ultrasound imaging should be considered
+every 5 years in asymptomatic patients with a
+history of head/neck RT, starting at 5 years after
+radiation and every 5–10 years thereafter.
+IIa
+C
+Continued
+4314
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 42 ====================
+Recommendation Table 42 — Recommendations for
+adult
+cancer
+survivors
+who
+develop
+cancer
+therapy-related cardiac dysfunction late after cardio-
+toxic cancer therapy
+Recommendations
+Classa
+Levelb
+ACE-I/ARB and/or beta-blockers are
+recommended in adult CS with moderate
+asymptomatic CTRCD.c,208,425,675–678
+I
+C
+ACE-I/ARB and/or beta-blockers may be
+considered in adult CS with mild asymptomatic
+CTRCD.d
+IIb
+C
+© ESC 2022
+ACE-I, angiotensin-converting enzyme inhibitors; ARB, angiotensin receptor blockers;
+CS, cancer survivors; CTRCD, cancer therapy-related cardiac dysfunction; GLS,
+global longitudinal strain; LVEF, left ventricular ejection fraction.
+aClass of recommendation.
+bLevel of evidence.
+cNew LVEF reduction by ≥10 percentage points to an LVEF of 40–49% OR new LVEF
+reduction by ,10 percentage points to an LVEF of 40–49% AND either new relative
+decline in GLS by .15% from baseline OR new rise in cardiac biomarkers.
+dLVEF ≥50% and new relative decline in GLS by .15% from baseline AND/OR new
+rise in cardiac biomarkers.
+
+==================== REC TABLE 43 ====================
+Recommendation Table 43 — Recommendations for
+adult cancer survivors with coronary artery disease
+Recommendations
+Classa
+Levelb
+Asymptomatic radiation-induced CAD detected during
+surveillance
+Non-invasive stress testingc is recommended in
+asymptomatic CS with new moderate or severe
+radiation-induced CAD detected on CCTA to
+guide ischaemia-directed management.635,688
+I
+C
+A MDT discussion is recommended for clinical
+decision-making in patients with radiation-induced
+CAD and inducible ischaemia or severe left main
+CAD.
+I
+C
+Symptomatic CAD
+Pre-operative assessment of LIMA and RIMA
+viability, venous access, and sternal wound healing
+is recommended in CS with radiation-induced
+CAD where CABG is considered.
+I
+C
+Continued
+4316
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 44 ====================
+Recommendation Table 44 — Recommendations for
+adult cancer survivors with valvular heart disease
+Recommendations
+Classa
+Levelb
+A MDT approach is recommended to discuss and
+deﬁne the surgical riskc in CS with severe VHD.
+I
+C
+Continued
+TAVI should be considered for patients with
+symptomatic severe aortic stenosis caused by
+radiation at intermediate surgical
+risk.504,506,693,694,696,697
+IIa
+B
+© ESC 2022
+CS, cancer survivors; EuroSCORE, European System for Cardiac Operative Risk
+Evaluation; MDT, multidisciplinary team; STS PROM, Society of Thoracic Surgeons–
+Predicted Risk of Mortality; TAVI, transcatheter aortic valve implantation; VHD,
+valvular heart disease.
+aClass of recommendation.
+bLevel of evidence.
+cSurgical risks include: vascular access, sternal and skin wound healing, concomitant
+cardiac
+disease,
+radiation-induced
+lung
+and
+thoracic
+vessels
+disease,
+aortic
+calciﬁcation, STS PROM/EuroSCORE II.
+ESC Guidelines
+4317
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 45 ====================
+Recommendation Table 45 — Recommendation for
+adult cancer survivors with pericardial complications
+Recommendation
+Classa
+Levelb
+Patients with acute pericarditis during RT to a
+volume including the heart are at higher risk of
+developing chronic constrictive pericarditis, hence
+echocardiography surveillance every 5 years may
+be considered.
+IIb
+C
+© ESC 2022
+RT, radiotherapy.
+aClass of recommendation.
+bLevel of evidence.
+4318
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 46 ====================
+Recommendation Table 46 — Recommendations for
+cardiovascular monitoring in cancer survivors during
+pregnancy
+Recommendations
+Classa
+Levelb
+In high-risk female CS, pre-pregnancy counselling
+and management during pregnancy and around
+delivery by a multidisciplinary pregnancy heart
+team is recommended.
+I
+C
+A baseline CV evaluation including history,
+physical examination, ECG, NP, and
+echocardiography is recommended in female CS
+with a history of CTRCD who are considering
+pregnancy.
+I
+C
+A baseline CV evaluation including history,
+physical examination, ECG, and echocardiography
+should be considered in all female CS who
+received potentially cardiotoxic cancer therapy
+and are considering pregnancy.
+IIa
+C
+A CV evaluation including echocardiography is
+recommended at 12 weeks of pregnancy in female
+CS who are either high-risk or who received
+potentially cardiotoxic cancer therapy and did not
+have a baseline CV assessment.
+I
+C
+A second CV evaluation including
+echocardiography should be considered at 20
+weeks of pregnancy in high-risk female CSc who
+received potentially cardiotoxic cancer therapy.
+IIa
+C
+© ESC 2022
+CS, cancer survivors; CTRCD, cancer therapy-related cardiac dysfunction; CV,
+cardiovascular; ECG, electrocardiogram, NP, natriuretic peptides.
+aClass of recommendation.
+bLevel of evidence.
+cSee Tables 11 and 12.
+ESC Guidelines
+4319
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 47 ====================
+Recommendation Table 47 — Recommendations for
+cardiovascular assessment and monitoring of pregnant
+women with cancer
+Recommendations
+Classa
+Levelb
+Management by an expert MDT (the pregnancy
+heart team) in an expert centre is recommended
+for pregnant women with cancer who require
+cardiotoxic cancer therapy.741
+I
+C
+Cardiac assessment prior to cardiotoxic cancer
+therapy in pregnant women is recommended and
+consists of clinical history, physical examination,
+ECG, and echocardiography.741
+I
+C
+Monthly or bimonthly CV evaluation, including
+TTE, should be considered during cardiotoxic
+cancer therapyc in pregnant women with cancer.
+IIa
+C
+cTn may be considered at baseline and during
+anthracycline chemotherapy in pregnant women
+with cancer.
+IIb
+C
+© ESC 2022
+cTn,
+cardiac
+troponin;
+CV,
+cardiovascular;
+ECG,
+electrocardiogram;
+MDT,
+multidisciplinary team; TTE, transthoracic echocardiography.
+aClass of recommendation.
+bLevel of evidence.
+cFor patients receiving anthracycline-based chemotherapy.
+
+==================== REC TABLE 48 ====================
+Recommendation Table 48 — Recommendations for
+carcinoid valvular heart diseases
+Recommendations
+Classa
+Levelb
+Echocardiographyc is recommended for the
+detection of carcinoid cardiac involvement in all
+patients with carcinoid syndrome and elevated NP
+levels and/or clinical signs of carcinoid heart
+disease, and for surveillance every 3 or 6 months
+depending on the severity of cardiac involvement
+and clinical status.772,790,791
+I
+B
+NP should be considered for screening and
+surveillance of carcinoid heart disease every 6
+months.777–780
+IIa
+B
+A MDT discussion for optimal medial
+management to prevent carcinoid crisis is
+recommended before any invasive or surgical
+cardiac procedure.
+I
+C
+Valve replacement surgery is recommended in
+symptomatic patients with severe carcinoid
+tricuspid or pulmonary VHD and an expected
+survival ≥12 months.d,783,785
+I
+C
+Valve replacement surgery should be considered
+in patients with asymptomatic severe carcinoid
+tricuspid or pulmonary VHD, progressive RV
+dysfunction/dilatation, and an expected survival
+≥12 months.d,772
+IIa
+C
+Continued
+ESC Guidelines
+4323
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 49 ====================
+Recommendation Table 49 — Recommendations for
+amyloid light-chain cardiac amyloidosis diagnosis and
+monitoring
+Recommendations
+Classa
+Levelb
+Echocardiography, NP, and cTn are
+recommended for the diagnosis of AL-CA in
+patients with plasma cell dyscrasia.290,820–822
+I
+B
+CMR is recommended in patients with suspected
+AL-CA.290,803,804
+I
+A
+EMB should be considered in patients with
+suspected AL-CA involvement if CMR is not
+diagnostic.290
+IIa
+C
+Admission with inpatient ECG monitoring should be
+considered for high-risk patients with AL-CA
+requiring PI during their ﬁrst cycle of therapy.c,808,811
+IIa
+C
+© ESC 2022
+AL-CA, amyloid light-chain cardiac amyloidosis; CMR, cardiac magnetic resonance; cTn,
+cardiac troponin; ECG, electrocardiogram; EMB, endomyocardial biopsy; HFA, Heart
+Failure Association; ICOS, International Cardio-Oncology Society; NP, natriuretic
+peptides; PI, proteasome inhibitors.
+aClass of recommendation.
+bLevel of evidence.
+cAccording to baseline evaluation using HFA-ICOS PI risk assessment tools (see
+Section 4).
+4326
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+==================== REC TABLE 50 ====================
+Recommendation Table 50 — Recommendations for
+riskstratiﬁcationandmonitoringforpatientswithcardiac
+implantable electronic devices undergoing radiotherapy
+Recommendations
+Classa
+Levelb
+Risk stratiﬁcation including planned radiation type
+and energy, dose to CIED, the patient’s device
+type, and pacing dependence is recommended
+prior to starting treatment.824,825,827,828
+I
+C
+In patients undergoing RT, a CIED check is
+recommended in all patients before and after
+completing RT, and during RT according to
+individual risk.824,826
+I
+C
+In patients with a CIED undergoing RT at high risk
+of arrhythmia and/or device dysfunction, ECG
+monitoring and/or pulse oximetry are
+recommended during every RT session.827,829,831
+I
+C
+© ESC 2022
+CIED, cardiac implantable electronic device; ECG, electrocardiogram; RT, radiotherapy.
+aClass of recommendation.
+bLevel of evidence.
+Interaction between healthcare professionals and patients with cancer
+Information
+Raise awareness
+of possible CVD
+with cancer
+Understand shared
+risk factors for
+cancer and CVD
+Appropriate lifestyle
+modification
+Active treatment
+of CVRF
+Recognition and
+report of early CV
+symptoms and signs
+Regular CV follow-up 
+(also if asymptomatic)
+Don’t stop
+cardioprotective therapy
+without medical advice
+Timely EoL and
+DNR discussion
+Education, counselling, and support
+Consider specific psychologic and social conditions
+Aid of digital health tools or information leaflets
+Appropriate language
+and communication
+Figure 47 Patient information, communication, and self-management. CV, cardiovascular; CVD, cardiovascular disease; CVRF, cardiovascular risk fac-
+tors; DNR, do not resuscitate; EoL, end of life.
+4330
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026

@@ -52,7 +52,9 @@ const APP_SHELL = [
   './search/search-worker.js',
   './search/thesaurus.json',
   './search/search-ui.js',
-  './search/search.css'
+  './search/search.css',
+  './assets/js/supabase-api.js',
+  './assets/js/sync-queue.js'
 ];
 
 // Установка

@@ -1,0 +1,71 @@
+8.2. Myocardial dysfunction and heart
+failure
+HF treatment in CS should follow the current 2021 ESC Guidelines
+for the diagnosis and treatment of acute and chronic HF. 14
+Treatment with ACE-I/ARB and/or beta-blockers is recommended
+for both symptomatic and asymptomatic CS who have LVEF ,
+50% detected on CV assessment. 14,61,208,675 In CS with mild asymp-
+tomatic CTRCD detected on CV assessment (LVEF . 50% but new
+fall in GLS and/or cardiac serum biomarker increase), treatment with
+ACE-I/ARB and/or beta-blockers may be considered.
+Renal artery ultrasound should be considered in
+patients with a history of abdominal and pelvic
+radiation who present with worsening renal
+function and/or systemic hypertension.
+IIa C
+© ESC 2022
+BP, blood pressure; CAD, coronary artery disease; CMR, cardiac magnetic resonance;
+CS, cancer survivors; CT, computed tomography; CTR-CVT, cancer therapy-related
+cardiovascular toxicity; CV, cardiovascular; CVD, cardiovascular disease; CVRF,
+cardiovascular risk factors; ECG, electrocardiogram; HbA1c, glycated haemoglobin;
+MHD, mean heart dose; NP, natriuretic peptides; RT, radiotherapy.
+aClass of recommendation.
+bLevel of evidence.
+cClinical review, BP, lipid pro ﬁle, HbA1c.
+dRT risk categorization based on MHD is recommended over categorization based on
+prescribed dose ( ≥35 Gy to a volume exposing the heart if MHD is not available).
+eRestratiﬁcation includes evaluation of new or pre-existing CVRF and CVD (including
+CTR-CVT).
+fSee Table 12.
+gStress echocardiography, cardiac CT, stress CMR, single-photon emission CT stress
+test, according to local protocol. 234
+Long-term surveillance in asymptomatic CS
+High and 
+very high 
+risk
+Moderate
+risk
+Low
+risk
+Class 1
+ Class 1Ia
+ Class 1Ib
+TTE every 2 years in
+adults who are childhood
+and adolescent CS
+TTE at years 1, 3, and 5 after
+cardiotoxic cancer therapy and
+every 5 years thereafter in adult CS
+Annual CV risk 
+assessmenta
+CV toxicity risk 
+re-stratificationc
+at 5 years 
+Patient education and
+CVRF optimization
+Cardiology referralb
+if new CV
+symptoms develop
+TTE every 5 years in
+adults who are childhood
+and adolescent CS
+TTE every 5 years in
+adult CS
+Figure 38 Long-term follow-up in cancer survivors. BP, blood pressure; CAD, coronary artery disease; CS, cancer survivors; CTR-CVT, cancer
+therapy-related cardiovascular toxicity; CV, cardiovascular; CVD, cardiovascular disease; CVRF, cardiovascular risk factors; ECG, electrocar diogram;
+HbA1c, glycated haemoglobin; NP, natriuretic peptides; TTE, transthoracic echocardiography. aClinical review, BP, lipid pro ﬁle, HbA1c, ECG, NP. In
+selected patients, non-invasive screening for CAD and carotid or renal diseases every 5 –10 years, starting at 5 years after radiation may be considered.
+bCardio-oncology referral is recommended when available; alternatively, the patient should be referred to a specialized cardiologist with experti se in
+managing CVD in patients with cancer. cRestratiﬁcation includes evaluation of new or pre-existing CVRF and CVD (including CTR-CVT).
+ESC Guidelines 4315
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026

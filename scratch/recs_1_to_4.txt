@@ -1,0 +1,520 @@
+
+
+==================== PAGE 21 ====================
+
+4.2. History and clinical examination
+A careful clinical history and physical examination is recommended as
+part of the baseline risk assessment. Oncology patients can be di-
+vided into two cohorts with respect to the presence or absence of
+pre-existing CVD. A primary prevention strategy can be considered
+in patients without previous CVD or CTR-CVT while secondary
+prevention includes interventions in patients with prior or active
+CVD or previous CTR-CVT.12
+Reviewing traditional risk factors for CVD is recommended.
+Where present, the efﬁcacy of treatment and control of these modi-
+ﬁable risk factors should be determined to ensure optimal control
+during
+cancer
+therapy.4,34
+Although
+recent
+SCORE2
+and
+SCORE2-OP19 tables are not focused on patients with cancer, risk
+calculation is recommended for patients with cancer .40 years of
+age (unless they are automatically categorized as being at high risk
+or very high risk based on documented CVD, diabetes mellitus
+[DM], kidney disease, or a highly elevated single risk factor) as a ref-
+erence to optimize CVRF treatment goals.19,31,35 A family history of
+premature CVD should be considered because genetic abnormalities
+associated with CVD may predispose patients with cancer to a high-
+er risk of CTR-CVT.36–38 Lifestyle factors such as smoking, alcohol
+consumption, sedentary lifestyle, exposure to pollution, and frailty
+are important shared risk factors for both cancer and CVD.
+Information on prior history of cancer, cardiotoxic cancer therapies,
+and their respective doses should be collected. Patients should be
+asked about typical cardiac symptoms (e.g. chest pain with activity,
+dyspnoea on exertion, orthopnoea, palpitations, and peripheral oe-
+dema), which can guide clinical examination and investigations.
+Physical examination should document vital signs and look for poten-
+tial indicators of undiagnosed CVD such as HF, pericardial disease,
+VHD, and arrhythmias.39–42
+The second scenario is secondary prevention in patients with a
+prior history of CVD. These patients with cancer are potentially at
+high or very high risk of future CV events,12 and require a more
+comprehensive clinical evaluation of their CVD, its severity, and
+prior and current treatments. Depending on the type and severity
+of CVD, additional investigations—including resting or stress echo-
+cardiography, cardiac magnetic resonance (CMR), nuclear perfusion
+imaging, and coronary computed tomography angiography (CCTA)
+—may be indicated to determine risk status. Identifying prior CVD
+should not automatically be a reason to withhold cancer therapy
+but considered an opportunity to optimize CV risk prior to and dur-
+ing treatment. Risk/beneﬁt discussions should include the patient,
+oncologist or haematologist, and—where available—a specialized
+cardio-oncology service.
+Additional factors that add to the complexity of baseline CV risk
+assessment are the cancer type and prognosis, and type, duration,
+and intensity of cancer treatment (Figure 1).4,12,43 Clinical history,
+physical examination features, and treatment-related risk factors
+that contribute to CTR-CVT for various cancer therapies are sum-
+marized in Supplementary data, Table S8. These risk factors should
+be collected and considered along with baseline ECG, cardiac serum
+biomarkers, and cardiac imaging tests (summarized in Figure 7) to
+complete baseline CTR-CVT evaluation.
+4.3. Electrocardiogram
+A baseline 12-lead ECG is a readily available test that can provide im-
+portant clues to underlying CVD. ECG evidence of chamber enlarge-
+ment, conduction abnormalities, arrhythmias, ischaemia, or prior
+myocardial infarction (MI), and low voltages should be interpreted
+in the clinical context. A baseline ECG is recommended prior to
+starting a cancer treatment known to cause QTc prolongation.44–49
+Measurement of QTc using the Fridericia correction (QTcF) is
+Recommendation Table 1 — Recommendations for a
+general
+approach
+to
+cardiovascular
+toxicity
+risk
+categorization
+Recommendations
+Classa
+Levelb
+CV toxicity risk stratiﬁcationc before starting
+potentially cardiotoxic anticancer therapy is
+recommended in all patients with
+cancer.12,14,19,21,25,28,31
+I
+B
+Communicating the results of the CV toxicity risk
+assessment to the patient and other appropriate
+healthcare professionals is recommended.
+I
+C
+The use of HFA-ICOS risk assessment should be
+considered to stratify CV toxicity risk in patients
+with cancer scheduled to receive cardiotoxic
+anticancer therapy.12
+IIa
+C
+It is recommended that patients categorized to be
+at low CV toxicity risk should proceed to
+anticancer therapy without delay.
+I
+C
+In patients categorized at moderate CV toxicity
+risk, cardiology referrald may be considered.e
+IIb
+C
+Cardiology referrald is recommended in high-risk
+and very high-risk patients before anticancer
+therapy.f
+I
+C
+Discussion of the risk/beneﬁt balance of
+cardiotoxic anticancer treatment in high- and very
+high-risk patients in a multidisciplinary approach
+prior to starting treatment is recommended.
+I
+C
+Cardiology referrald is recommended for patients
+with cancer and pre-existing CVD or abnormal
+ﬁndings at baseline CV toxicity risk assessmentg
+who require potentially cardiotoxic anticancer
+therapy.
+I
+C
+© ESC 2022
+CV, cardiovascular; CVD, CV disease; ECG, electrocardiogram; GLS, global longitudinal
+strain; HbA1c, glycated haemoglobin; HFA, Heart Failure Association; ICOS,
+International Cardio-Oncology Society; LVEF, left ventricular ejection fraction; TTE,
+transthoracic echocardiography; ULN, upper limit of normal; VHD, valvular heart
+disease.
+aClass of recommendation.
+bLevel of evidence.
+cIncluding clinical history and physical examination, ECG, general blood test, HbA1c,
+lipid proﬁle, and cardiac serum biomarkers and/or TTE (according to cancer drug
+type and CV toxicity risk).
+dCardio-oncology referral is recommended when available; alternatively, the patients
+should be referred to a specialized cardiologist with expertise in managing CVD in
+patients with cancer.
+eWithout delaying cancer treatments.
+fUnless there is an oncology emergency requiring immediate cancer treatment.
+gModerate-to-severe pre-existing CVDs or new abnormal ﬁndings (baseline cardiac
+serum biomarkers . ULN, LVEF ≤50%, GLS under normal local values, previously
+undiagnosed moderate-to-severe myocardial, pericardial, or VHDs, abnormal baseline
+ECG).
+ESC Guidelines
+4249
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+==================== PAGE 23 ====================
+
+recommended.44–48 When baseline QTcF prolongation is recog-
+nized, the correction of reversible causes and the identiﬁcation of
+genetic conditions that prolong QT is recommended (see Section
+6.4.2).45
+Left atrial enlargement on baseline ECG before ibrutinib has
+been shown to be a predictor for the development of atrial ﬁbril-
+lation (AF) during chemotherapy.50,51 The presence of atrioven-
+tricular (AV) conduction delays and premature atrial complexes
+are associated with the development of atrial arrhythmias in pa-
+tients undergoing autologous haematopoietic stem cell transplant-
+ation (HSCT).52
+4.4. Cardiac serum biomarkers
+The literature on the use of biomarkers for CTR-CVT risk strati-
+ﬁcation before cancer therapy is limited, and recommendations
+are mostly based on expert opinion.12,43,53–55 Four recent position
+papers based on collaboration among the Cardio-Oncology Study
+Group of the HFA of the ESC, the ESC-CCO, and ICOS have sug-
+gested that measurement of cardiac serum biomarkers—cardiac
+troponin (cTn) I or T and natriuretic peptides (NP) (e.g. B-type
+natriuretic
+peptide
+[BNP]
+or
+N-terminal
+pro-BNP
+[NT-proBNP])—help in baseline CV risk stratiﬁcation of patients
+scheduled for cancer therapies including anthracyclines, human
+epidermal receptor 2 (HER2)-targeted therapies, vascular endo-
+thelial growth factor (VEGF) inhibitors (VEGFi), proteasome inhi-
+bitors (PI), immune checkpoint inhibitors (ICI), chimeric antigen
+receptor T cell (CAR-T) and tumour-inﬁltrating lymphocytes
+(TIL) therapies, allowing identiﬁcation of those who may beneﬁt
+from cardioprotective therapy.12,43,53,54 Baseline cardiac serum
+biomarker measurements are required if the degree of change in
+the biomarkers is to be used to identify subclinical cardiac injury
+during cancer treatment.
+A few studies of paediatric and adult patients requiring an-
+thracycline chemotherapy have reported that patients with can-
+cer with an increased cTn before treatment were more likely to
+develop CTRCD.56–58 However, most published studies have
+not reported on the prognostic value of baseline cTn measure-
+ments, possibly due to the low prevalence of patients with pre-
+vious CVD or CVRF in these studies.55,59,60 A study of 251
+women receiving trastuzumab for early HER2-positive breast
+cancer (BC) reported that 19% of the patients who developed
+cardiac dysfunction during trastuzumab therapy had positive ul-
+trasensitive troponin I at baseline (.80 ng/L).61 Furthermore,
+baseline high cTnI level was a predictor of lack of recovery des-
+pite optimal HF therapy.61 These ﬁndings have been conﬁrmed
+in a subsequent study of 533 patients with BC who had serial
+high-sensitivity cTn (hs-cTn) I and T measurements during tras-
+tuzumab
+therapy.62
+Increased
+baseline
+cTn
+(.40 ng/L
+and
+.14 ng/L for hs-cTnI and hs-cTnT, respectively) was associated
+with a four-fold risk of developing LV dysfunction (LVD).62
+However, given the high proportion of patients with previous
+anthracycline exposure in both studies, these elevated cTn levels
+are not a true baseline as they reﬂect pre-trastuzumab but post-
+anthracycline
+chemotherapy.
+It
+is
+unclear
+whether
+pre-
+treatment cTn levels will be predictive of LVD in patients before
+any treatment, or for those BC patients treated with trastuzu-
+mab without prior anthracyclines.
+NP are another potential biomarker for CV risk stratiﬁcation.
+Several studies have shown the role of NP measurement at baseline
+or NP changes to predict future CTR-CVT.63–65 In patients with mul-
+tiple myeloma (MM), pre-treatment NP may be a predictive marker
+for subsequent CV adverse events. In 109 patients with relapsed MM,
+BNP . 100 pg/mL or NT-proBNP . 125 pg/mL levels before initi-
+ation of carﬁlzomib were associated with an odds ratio of 10.8 for
+subsequent CV adverse events.66 Therefore, baseline NP measure-
+ment is recommended in high- and very high-risk patients and should
+be considered in low- and moderate-risk patients before PI
+treatment.
+Baseline elevated values of CV functional peptides (including
+NT-proBNP) and hs-cTnT were strongly related to all-cause mortal-
+ity in 555 patients with different types of tumours, suggesting that
+the presence of a subclinical myocardial injury might be directly
+linked to disease progression.67 However, in the CARDIOTOX
+(CARDIOvascular TOXicity induced by cancer-related therapies)
+registry, in 855 patients treated with a range of oncological treat-
+ments, including radiotherapy (RT), both NT-proBNP and cTn eleva-
+tion at baseline were not associated with the development of severe
+CTRCD (LVEF , 40% or clinical HF).68
+There has also been interest in other novel biomarkers for
+CTR-CVT risk stratiﬁcation before cancer treatment; however,
+the literature is limited. Candidates include myeloperoxidase,
+C-reactive protein, galectin-3, arginine–nitric oxide metabolites,
+growth
+differentiation
+factor-15,
+placental
+growth
+factor,
+fms-like tyrosine kinase-1, micro-ribonucleic acids, and immuno-
+globulin E.60,69–71 Currently, there is no evidence to support
+routine measurement of these novel biomarkers and more re-
+search is required.
+Recommendation Table 2 — Recommendations for
+electrocardiogram baseline assessment
+Recommendations
+Classa
+Levelb
+An ECG is recommended in all patients starting
+cancer therapy as part of their baseline CV risk
+assessment.
+I
+C
+In patients with an abnormal baseline ECG,c
+referral to a cardiologistd is recommended.
+I
+C
+© ESC 2022
+AF, atrial ﬁbrillation; CV, cardiovascular; ECG, electrocardiogram; LV, left ventricular;
+QTc, corrected QT interval; QTcF, corrected QT interval using Fridericia correction.
+aClass of recommendation.
+bLevel of evidence.
+cAdvanced conduction disease (left bundle branch block, right bundle branch block,
+second degree heart block, severe ﬁrst degree heart block with a PR interval
+.300 ms); Q waves in two or more contiguous leads; LV hypertrophy; AF/atrial
+ﬂutter if previously undiagnosed; QTc prolongation using Fridericia correction
+formula (QTcF = QT/3√RR) .450 ms for men and .460 ms for women or other
+ECG abnormality raising concern.
+dCardio-oncology referral is recommended when available; alternatively, the patients
+should be referred to a specialized cardiologist with expertise in managing CVD in
+patients with cancer.
+ESC Guidelines
+4251
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+==================== PAGE 24 ====================
+
+4.5. Cardiovascular imaging
+CV imaging has an important role in identifying patients with subclin-
+ical CVD, determining the degree of pre-existing cardiac comorbidity
+prior to decisions regarding cancer therapy, and serves as a reference
+for identiﬁcation of changes during treatment and long-term follow-
+up.12,54,72–74 Transthoracic echocardiography (TTE) is the preferred
+imaging technique for baseline risk stratiﬁcation as it provides quan-
+titative assessment of LV and right ventricular (RV) function, cham-
+ber dilation, LV hypertrophy, regional wall motion abnormalities,
+diastolic function, VHD, pulmonary arterial pressure (PAP), and peri-
+cardial disease, which may inﬂuence the therapeutic decision.22,72
+Suggestions for the components of a baseline echocardiography
+study are provided in Figure 8.
+Current deﬁnitions of CTRCD are based on a reduction of LVEF
+and/or relative changes in global longitudinal strain (GLS) (Table 3).
+Three-dimensional (3D) echocardiography is the preferred echocar-
+diography modality for the assessment of LVEF and cardiac
+Recommendation Table 3 — Recommendation for
+cardiac biomarker assessment prior to potentially car-
+diotoxic therapies
+Recommendation
+Classa
+Levelb
+Baseline measurement of NPc and/or cTnd is
+recommended in all patients with cancer at risk of
+CTRCD if these biomarkers are going to be
+measured during treatment to detect
+CTRCD.e,53,55
+I
+C
+© ESC 2022
+cTn, cardiac troponin; CTRCD, cancer therapy-related cardiac dysfunction; NP,
+natriuretic peptides.
+aClass of recommendation.
+bLevel of evidence.
+cNPs including B-type natriuretic peptide or N-terminal pro-B-type natriuretic peptide.
+dcTn includes any of troponin I, troponin T, or hs-cTnT.
+eSpeciﬁc recommendations for baseline cardiac biomarkers in patients with cancer at
+low, moderate, high, and very high risk of cancer therapy-related cardiovascular
+toxicity are included in Section 5.
+TTE
+Left ventricle-left atriuma
+TTE
+LVV and LV mass
+3D-LVEF (2D-LVEF if 
+3D not available)
+Contrast echo if inadequate 
+TTE image quality
+GLS 
+E/e´, LAV
+RVV
+RVEF
+CMR
+Right ventricle-right atriuma
+RV dimensions
+S´
+TAPSE
+FAC
+RV-FWLS
+RA area
+Peak TRV
+LVV and LV mass
+LVEF 
+LS and circumferential strain
+if available
+Myocardial Characterization 
+T2w (STIR), T1, T2 maps, LGE
+CMR
+Valvular and pericardial
+diseases
+IVC diameter, and respiratory
+changes
+Valvular and pericardial
+diseases
+Other parameters
+TTE
+CMR
+Figure 8 Recommended transthoracic echocardiography and cardiac magnetic resonance imaging parameters in the evaluation of patients with cancer.
+2D, two-dimensional; 3D, three-dimensional; BP, blood pressure; CMR, cardiac magnetic resonance; E, mitral inﬂow early diastolic velocity obtained by pulsed
+wave; e′, early diastolic velocity of the mitral annulus obtained by tissue doppler imaging; echo, echocardiography; FAC, fractional area change; FWLS, free wall
+longitudinal strain; GLS, global longitudinal strain; IVC, inferior vena cava; LAV, left atrial volume; LGE, late gadolinium enhancement; LS, longitudinal strain; LV,
+left ventricular; LVEF, left ventricular ejection fraction; LVV, left ventricular volume; RA, right atrial; RV, right ventricular; RVEF, right ventricular ejection fraction;
+RVV, right ventricular volume; s′, systolic velocity of tricuspid annulus obtained by doppler tissue imaging; STIR, short tau inversion recovery; TAPSE, tricuspid
+annular plane systolic excursion; TTE, transthoracic echocardiography; TRV, tricuspid regurgitation velocity. aChanges in systemic arterial BP and loading con-
+ditions may inﬂuence cardiac function measurements.
+4252
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+==================== PAGE 25 ====================
+
+volumes.54,75–79 If 3D echocardiography is not feasible (e.g. unavail-
+able or poor tracking), the modiﬁed two-dimensional (2D)
+Simpson’s biplane method is recommended.80,81 In patients with in-
+adequate TTE image quality, ultrasound-enhancing contrast agents
+should be added to improve evaluation of LV function and volumes
+if two or more LV segments are not well visualized.82 Alternatively, in
+subjects with poor-quality echocardiography windows, when avail-
+able, CMR should be considered (Figure 8).14,72,83,84 If TTE and
+CMR are both unavailable for the assessment of LVEF, multigated ac-
+quisition nuclear imaging (MUGA) can be considered as a third-line
+modality. MUGA scans should be avoided whenever possible due
+to radiation exposure and the inability to obtain other important in-
+formation (e.g. VHD, PAP, or GLS).
+Baseline LVEF and GLS are recommended in all patients evaluated
+with TTE before cardiotoxic cancer treatment initiation to stratify
+CTR-CVT risk and to identify signiﬁcant changes during treat-
+ment.8,64 Changes in loading conditions occur frequently during
+chemotherapy (e.g. volume increase due to intravenous [i.v.] ﬂuids,
+volume loss due to vomiting or diarrhoea, blood pressure [BP] and
+heart rate changes with pain or stress) and may affect cardiac vo-
+lumes, LVEF, and GLS quantiﬁcation. Systemic arterial BP measure-
+ment is recommended with all resting TTE as it can inﬂuence
+cardiac function measurements and should be recorded on the
+TTE report. A baseline borderline (50–54%) or reduced (,50%)
+LVEF is a risk factor for future CTR-CVT from most cardiotoxic can-
+cer therapies, in particular with anthracyclines or trastuzumab.12,24,74
+Increased baseline indexed LV end-diastolic volume can be a predict-
+or of major CV events (symptomatic HF or cardiac death) during an-
+thracycline chemotherapy in patients with preserved LVEF.85
+A normal LVEF does not exclude CTRCD and deformation para-
+meters can detect early systolic impairment with sufﬁcient test reli-
+ability.86–89 Determination of GLS using speckle tracking is
+recommended at baseline, using three apical views,90 particularly
+in moderate- and high-risk patients. Baseline GLS can predict
+LVD89–94 in patients receiving anthracyclines and/or trastuzumab.
+Strain measurements may be subject to inter-vendor variability95
+and serial GLS measurement for each patient is recommended to
+be performed using the same machine/software. A median GLS
+change of 13.6% predicted a future fall in LVEF with a 95% upper limit
+of GLS reduction of 15%.93 Using the 15% cut-off improves speciﬁ-
+city and is therefore the threshold recommended when monitoring
+GLS during cancer therapy. Global circumferential strain96 has been
+reported to identify patients at risk of CTRCD, but data are currently
+insufﬁcient to recommend its use routinely. Baseline LV diastolic
+function may be associated with a small risk of subsequent systolic
+dysfunction, especially with anthracyclines and trastuzumab, al-
+though the evidence is not consistent.97,98 Chest computed tomog-
+raphy (CT) or CMR may be helpful for identifying subclinical CVD
+such as coronary calcium or intracardiac masses on readily available
+routine imaging performed for cancer staging.99
+In the secondary prevention setting or patients with symptoms or
+signs of pre-existing CVD, a careful evaluation should begin with a
+comprehensive TTE.73 This is both to obtain baseline assessment
+as in the primary prevention setting and to determine the severity
+of the underlying CVD. In case of poor-quality or uninterpretable
+TTE images, or if a speciﬁc CVD is identiﬁed (e.g. hypertrophic
+cardiomyopathy), CMR should be considered for further risk
+assessment.
+Functional imaging tests for myocardial ischaemia—including
+stress echocardiography, perfusion CMR, or nuclear myocardial per-
+fusion imaging—should be performed to assess for ischaemia in
+symptomatic patients (stable angina, limiting dyspnoea) if clinical sus-
+picion of coronary artery disease (CAD) exists, especially prior to
+use of cancer therapies associated with vascular toxicity (e.g. ﬂuoro-
+pyrimidines, VEGFi, breakpoint cluster region–Abelson oncogene lo-
+cus [BCR-ABL], tyrosine kinase inhibitors [TKI]). Alternatively, in
+patients with low to intermediate pre-test probability of CAD,
+CCTA is a robust alternate modality with high sensitivity to rule
+out obstructive CAD.100,101
+4.6. Cardiopulmonary ﬁtness assessment
+Maximal cardiopulmonary exercise testing (CPET) assesses the inte-
+grative capacity of the CV system to transport oxygen and energy
+substrate to skeletal muscle during exercise,109 described as cardio-
+respiratory ﬁtness (CRF). CPET can therefore provide a more global
+assessment of CV health than organ-speciﬁc tools. CPET-derived
+Recommendation Table 4 — Recommendations for
+cardiac imaging modalities in patients with cancer
+General
+Classa
+Levelb
+Echocardiography is recommended as the
+ﬁrst-line modality for the assessment of cardiac
+function in patients with cancer.4,12,54,94
+I
+C
+3D echocardiography is recommended as the
+preferred echocardiographic modality to measure
+LVEF.77–79,89
+I
+B
+GLS is recommended in all patients with cancer
+having echocardiography, if
+available.75,80,81,89,90,92,93,102,103
+I
+C
+CMR should be considered for the assessment of
+cardiac function when echocardiography is
+unavailable or non-diagnostic.83,104,105
+IIa
+C
+MUGA may be considered when TTE is not
+diagnostic and CMR is not available.106–108
+IIb
+C
+Baseline cardiac imaging prior to potentially cardiotoxic
+therapiesc
+Baseline comprehensive TTE is recommended in
+all patients with cancer at high risk and very high
+risk of CV toxicity before starting anticancer
+therapy.d,54
+I
+C
+© ESC 2022
+3D, three-dimensional;
+CMR,
+cardiac magnetic
+resonance;
+CTR-CVT, cancer
+therapy-related CV toxicity; CV, cardiovascular; GLS, global longitudinal strain; LVEF,
+left ventricular ejection fraction; MUGA, multigated acquisition nuclear imaging; TTE,
+transthoracic echocardiography.
+aClass of recommendation.
+bLevel of evidence.
+cSpeciﬁc recommendations for baseline CV imaging in patients with cancer at low or
+moderate risk of CTR-CVT are included in Section 5.
+dExcept asymptomatic patients referred to breakpoint cluster region-Abelson oncogene
+locus therapy (BCR-ABL) where baseline TTE should be considered (see Figure 7
+and Section 5.5.5).
+ESC Guidelines
+4253
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026

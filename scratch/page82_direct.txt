@@ -1,0 +1,113 @@
+asymptomatic moderate-risk patients (according to CV toxicity
+baseline risk stratiﬁcation), echocardiography and cardiac serum bio-
+markers should be considered within 12 months after completion of
+cancer therapy.53,54,59,61,68,148,208 In asymptomatic low-risk patients
+(according to CV toxicity baseline risk strati ﬁcation), echocardiog-
+raphy and cardiac serum biomarkers may be considered within 12
+months after completion of cancer therapy. 634
+All patients started on CV therapies (ACE-I/ARB/angiotensin
+receptor-neprilysin inhibitors, beta-blockers, mineralocorticoid re-
+ceptor antagonists, sodium-glucose co-transporter 2 inhibitors, anti-
+hypertensive medications, antiarrhythmic medications, antiplatelet
+therapies, statins) for any CTR-CVT (especially CTRCD) should
+have a clinical assessment, ECG, echocardiography, and cardiac ser-
+um biomarkers (if LV systolic dysfunction/HF is a potential risk) at 3,
+6, and 12 months after completing cancer treatment. A MDT-based
+approach to palliative and end-of-life care for patients with cancer
+with HF or other CTR-CVT should be focused on symptom relief
+according to general ESC Guidelines.
+7.3. Management of cancer
+therapy-related cardiac dysfunction at
+the end-of-therapy assessment
+During this end-of-treatment assessment, a review of cardioprotec-
+tive medications initiated during cancer therapy to treat CTRCD is
+recommended ( Figure 37 ). In selected patients with asymptomatic
+mild or moderate CTRCD who have fully recovered with normal
+TTE and cardiac serum biomarkers, a trial of weaning off CV
+medication should be considered after MDT discussion. This is
+most common after asymptomatic mild or moderate CTRCD sec-
+ondary to trastuzumab, particularly in younger otherwise healthy
+HER2+ BC survivors with no exposure to anthracycline chemother-
+apy. Further assessment of cardiac function with TTE and cardiac
+serum biomarkers is recommended following withdrawal of CV
+medication in patients with previous CTRCD to ensure cardiac func-
+tion remains normal.
+Continuing long-term CV medication is generally recommended
+in patients with moderate and severe symptomatic or severe asymp-
+tomatic CTRCD due to the high rate of recurrent HF. Long-term
+treatment is also recommended in CS with mild or moderate
+CTRCD who fail to recover normal LV function at their
+end-of-therapy assessment ( Figure 37).
+7.4. Cardiopulmonary exercise testing
+and ﬁtness during the end-of-therapy
+assessment
+CRF impairment is a strong predictor of patient outcome following
+cancer treatment and an intervention target in CS. Low CRF is asso-
+ciated with poor quality of life, increased morbidity, reduced exercise
+cardiac function and worse CVD risk pro ﬁle, and is a robust inde-
+pendent predictor of all-cause, cancer-related, and CVD-related
+mortality in CS. 119,120 Recent evidence suggests the risk of
+CVD-related mortality in CS decreases by 14% per 1 metabolic
+equivalent (3.5 mL O 2/kg/min) increase in CRF. 120
+CPET may be considered for CS with exertional limitation, who
+may have substantial bene ﬁt from cardiac rehabilitation. Eligible pa-
+tients include those treated with higher doses of anthracycline
+chemotherapy and/or RT to a volume including the heart, high CV
+toxicity risk at baseline, patients who developed CTRCD during can-
+cer therapy, and those identi ﬁed with new abnormalities in LV func-
+tion at their end-of-therapy assessment. 11 CPET can be an objective
+tool in the diagnosis of decreased physical capacity and identify CV vs.
+non-CV causes.635
+7.5. The role of cardiac rehabilitation
+Exercise is a potent multitarg eted therapy that prevents and
+treats multiple competing mechanisms of CTR-CVT in CS, includ-
+ing CRF impairment, 636 CV injury, and pre-existing and new
+CVRF.137 Prescribing exercise facilitates the delivery of therapeut-
+ic exercise that is individualized to a person ’s ﬁtness level and sys-
+tematically progressed to optimize physiological adaptation. 637
+Current evidence demonstrates that supervised exercise therapy
+(including high-intensity interval training [HIIT]) is safe and well
+tolerated, 638 attenuates CTR-CVT risk, and improves CRF.
+Furthermore, HIIT reduces CVRF 460 and CV risk 639 in patients
+Table 10 Risk factors for future cardiovascular dis-
+ease at the end-of-cancer therapy cardiovascular risk
+assessment
+High-risk conditions
+High- and very-high baseline CV toxicity risk based on HFA-ICOS
+assessment
+Speciﬁc anticancer treatment proven to have a high risk of long-term CV
+complicationsa
+Doxorubicinb ≥ 250 mg/m2
+RT . 15 Gy MHD c
+Both doxorubicinb ≥ 100 mg/m2 and RT 5 –15 Gy MHD d
+High-risk HSCT patients e
+Moderate or severe CTR-CVT during cancer treatment (especially
+CTRCD), ICI-related myocarditis, cardiac arrhythmias, or severe vascular
+toxicities (ACS, stroke, PVD)
+New CV symptoms or new asymptomatic abnormalities in
+echocardiography and/or cardiac serum biomarkers at the end of therapy
+assessment
+© ESC 2022
+ACS, acute coronary syndromes; CTRCD, cancer therapy-related cardiac dysfunction;
+CTR-CVT, cancer therapy-related cardiovascular toxicity; CV, cardiovascular; CVD,
+cardiovascular disease; CVRF, cardiovascular risk factors; GVHD, graft vs. host
+disease; Gy, Gray; HFA, Heart Failure Association; HSCT, haematopoietic stem cell
+transplantation; ICI, immune checkpoint inhibitors; ICOS, International
+Cardio-Oncology Society; MHD, mean heart dose; PVD, peripheral vascular disease;
+RT, radiotherapy.
+aRT risk categorization based on MHD is recommended over categorization based on
+prescribed dose, which may not accurately re ﬂect cardiac radiation exposure.
+Depending on dose distribution and exposure of speci ﬁc cardiac substructures (as
+well as clinical risk factors), the treatment team may judge the patient to belong to a
+higher risk category. In addition, a patient may be judged to belong to a lower risk
+category if only a small part of the heart is exposed to a relatively high prescribed
+dose (i.e. RT to left breast or left chest wall only).
+bOr doxorubicin equivalent.
+cOr prescribed RT ≥ 35 Gy to a volume exposing the heart if MHD is not available.
+dOr prescribed RT 15 –34 Gy to a volume exposing the heart if MHD is not available.
+eHigh-risk HSCT patients: allogenic HSCT; pre-existing CVD or multiple uncontrolled
+CVRF; cancer treatment history (mediastinal or mantle ﬁeld radiation, alkylating
+agents, .250 mg/m2 doxorubicin or equivalent); conditioning schemes (total body
+irradiation, alkylating agents); development of GVHD.
+4310 ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026

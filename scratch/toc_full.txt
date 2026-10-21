@@ -1,0 +1,118 @@
+  L1: p.1 - 2022 ESC Guidelines on cardio-oncology developed in collaboration with the European Hematology Association (EHA), the European Society for Therapeutic Radiology and Oncology (ESTRO) and the International Cardio-Oncology Society (IC-OS)
+    L2: p.6 - Abbreviations and acronyms
+    L2: p.8 - 1. Preamble
+    L2: p.10 - 2. Introduction
+      L3: p.10 - 2.1. Cancer and cardiovascular needs of patients with cancer
+      L3: p.10 - 2.2. Role of cardio-oncology services
+      L3: p.11 - 2.3. General principles of cardio-oncology
+    L2: p.14 - 3. Cancer therapy-related cardiovascular toxicity definitions
+    L2: p.16 - 4. Cardiovascular toxicity risk stratification before anticancer therapy
+      L3: p.16 - 4.1. General approach to cardiovascular toxicity risk in patients with cancer
+      L3: p.21 - 4.2. History and clinical examination
+      L3: p.21 - 4.3. Electrocardiogram
+      L3: p.23 - 4.4. Cardiac serum biomarkers
+      L3: p.24 - 4.5. Cardiovascular imaging
+      L3: p.25 - 4.6. Cardiopulmonary fitness assessment
+      L3: p.26 - 4.7. Cardiovascular risk evaluation before cancer surgery
+      L3: p.26 - 4.8. Genetic testing
+    L2: p.26 - 5. Prevention and monitoring of cardiovascular complications during cancer therapy
+      L3: p.26 - 5.1. General principles
+      L3: p.28 - 5.2. Primary prevention strategies
+        L4: p.28 - 5.2.1. Primary prevention of cancer therapy-related cardiovascular toxicity during anthracycline chemotherapy
+        L4: p.28 - 5.2.2. Primary prevention of radiation-induced cardiovascular toxicity
+      L3: p.29 - 5.3. Secondary prevention strategies
+      L3: p.29 - 5.4. Cardiovascular surveillance during cancer therapies
+        L4: p.29 - 5.4.1. Cardiac serum biomarkers
+        L4: p.29 - 5.4.2. Cardiac imaging
+      L3: p.31 - 5.5. Cancer therapy-related cardiovascular toxicity monitoring protocols
+        L4: p.31 - 5.5.1. Anthracycline chemotherapy
+        L4: p.31 - 5.5.2. HER2-targeted therapies
+        L4: p.33 - 5.5.3. Fluoropyrimidines
+        L4: p.33 - 5.5.4. Vascular endothelial growth factor inhibitors
+        L4: p.36 - 5.5.5. Multitargeted kinase inhibitors targeting BCR-ABL
+        L4: p.39 - 5.5.6. Bruton tyrosine kinase inhibitors
+        L4: p.40 - 5.5.7. Multiple myeloma therapies
+        L4: p.43 - 5.5.8. Rapidly accelerated fibrosarcoma and mitogen-activated extracellular signal-regulated kinase inhibitor treatment
+        L4: p.45 - 5.5.9. Immune checkpoint inhibitors
+        L4: p.46 - 5.5.10. Androgen deprivation therapies for prostate cancer
+        L4: p.48 - 5.5.11. Endocrine therapies for breast cancer
+        L4: p.48 - 5.5.12. Cyclin-dependent kinase 4/6 inhibitors
+        L4: p.49 - 5.5.13. Anaplastic lymphoma kinase inhibitors
+        L4: p.49 - 5.5.14. Epidermal growth factor receptor inhibitors
+        L4: p.50 - 5.5.15. Chimeric antigen receptor T cell and tumour-infiltrating lymphocytes therapies
+        L4: p.51 - 5.5.16. Radiotherapy
+        L4: p.51 - 5.5.17. Haematopoietic stem cell transplantation
+        L4: p.54 - 5.5.18. Other cancer treatments
+    L2: p.54 - 6. Diagnosis and management of acute and subacute cardiovascular toxicity in patients receiving anticancer treatment
+      L3: p.54 - 6.1. Cancer therapy-related cardiac dysfunction
+        L4: p.54 - 6.1.1. Anthracycline chemotherapy-related cardiac dysfunction
+        L4: p.56 - 6.1.2. Human epidermal receptor 2-targeted therapy-related cardiac dysfunction
+        L4: p.58 - 6.1.3. Immune checkpoint inhibitor-associated myocarditis and non-inflammatory heart failure
+        L4: p.62 - 6.1.4. Chimeric antigen receptor T cell and tumour-infiltrating lymphocytes therapies and heart dysfunction
+        L4: p.63 - 6.1.5. Heart failure during haematopoietic stem cell transplantation
+        L4: p.63 - 6.1.6. Takotsubo syndrome and cancer
+      L3: p.63 - 6.2. Coronary artery disease
+        L4: p.63 - 6.2.1. Acute coronary syndromes
+        L4: p.65 - 6.2.2. Chronic coronary syndromes
+      L3: p.65 - 6.3. Valvular heart disease
+      L3: p.66 - 6.4. Cardiac arrhythmias
+        L4: p.66 - 6.4.1. Atrial fibrillation
+        L4: p.70 - 6.4.2. Long corrected QT interval and ventricular arrhythmias
+        L4: p.72 - 6.4.3. Bradyarrhythmias
+      L3: p.72 - 6.5. Arterial hypertension
+      L3: p.75 - 6.6. Thrombosis and thromboembolic events
+        L4: p.75 - 6.6.1. Venous thromboembolism
+        L4: p.76 - 6.6.2. Arterial thromboembolism
+        L4: p.76 - 6.6.3. Intracardiac thrombosis
+        L4: p.77 - 6.6.4. Anticoagulation therapy
+          L5: p.77 - 6.6.4.1. Treatment and secondary prevention of venous thromboembolism
+          L5: p.77 - 6.6.4.2. Primary prevention of venous thromboembolism
+      L3: p.78 - 6.7. Bleeding complications
+        L4: p.78 - 6.7.1. High-risk patients
+        L4: p.78 - 6.7.2. Antiplatelet therapy
+        L4: p.78 - 6.7.3. Management of bleeding
+      L3: p.79 - 6.8. Peripheral artery disease
+      L3: p.79 - 6.9. Pulmonary hypertension
+      L3: p.80 - 6.10. Pericardial diseases
+        L4: p.80 - 6.10.1. Pericarditis
+        L4: p.80 - 6.10.2. Pericardial effusion
+    L2: p.81 - 7. End-of-cancer therapy cardiovascular risk assessment
+      L3: p.81 - 7.1. Cardiovascular evaluation during the first year after cardiotoxic anticancer therapy
+      L3: p.81 - 7.2. Which cancer survivors require cardiovascular surveillance in the first year after cancer treatment?
+      L3: p.82 - 7.3. Management of cancer therapy-related cardiac dysfunction at the end-of-therapy assessment
+      L3: p.82 - 7.4. Cardiopulmonary exercise testing and fitness during the end-of-therapy assessment
+      L3: p.82 - 7.5. The role of cardiac rehabilitation
+    L2: p.84 - 8. Long-term follow-up and chronic cardiovascular complications in cancer survivors
+      L3: p.84 - 8.1. Cancer survivors
+        L4: p.84 - 8.1.1. Adult survivors of childhood and adolescent cancer
+        L4: p.85 - 8.1.2. Adult cancer survivors
+      L3: p.87 - 8.2. Myocardial dysfunction and heart failure
+      L3: p.88 - 8.3. Coronary artery disease
+      L3: p.89 - 8.4. Valvular heart disease
+      L3: p.89 - 8.5. Peripheral artery disease and stroke
+      L3: p.89 - 8.6. Pericardial complications
+      L3: p.90 - 8.7. Arrhythmias and autonomic disease
+      L3: p.90 - 8.8. Metabolic syndrome, lipid abnormalities, diabetes mellitus, and hypertension
+      L3: p.90 - 8.9. Pregnancy in cancer survivors
+      L3: p.91 - 8.10. Pulmonary hypertension
+    L2: p.91 - 9. Special populations
+      L3: p.91 - 9.1. Cardiac tumours
+      L3: p.91 - 9.2. Pregnant patients with cancer
+        L4: p.92 - 9.2.1. Left ventricular dysfunction and heart failure
+        L4: p.92 - 9.2.2. Venous thromboembolism and pulmonary embolism
+      L3: p.95 - 9.3. Carcinoid valvular heart disease
+      L3: p.96 - 9.4. Amyloid light-chain cardiac amyloidosis
+      L3: p.98 - 9.5. Cardiac implantable electronic devices
+    L2: p.102 - 10. Patient information, communication, and self-management
+    L2: p.103 - 11. The role of scientific societies in the promotion and development of cardio-oncology in modern medicine
+    L2: p.103 - 12. Key messages
+    L2: p.104 - 13. Future needs
+    L2: p.105 - 14. Gaps in evidence
+    L2: p.105 - 15. ‘What to do’ and ‘what not to do’ messages from the Guidelines
+    L2: p.114 - 16. Quality indicators for cardio-oncology
+    L2: p.114 - 17. Supplementary data
+    L2: p.114 - 18. Data availability statement
+    L2: p.114 - 19. Author information
+    L2: p.114 - Appendix
+    L2: p.115 - References
+    L2: p.115 - References

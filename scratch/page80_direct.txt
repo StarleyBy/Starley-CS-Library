@@ -1,0 +1,112 @@
+months. If peak TRV continues to rise, then right-heart catheteriza-
+tion should be performed, dasatinib treatment should be stopped,
+and PAH drugs should be considered if PAH is con ﬁrmed.
+6.10. Pericardial diseases
+Pericarditis and pericardial effusion can be related to a wide range of
+cancer treatments including chest radiation, cytotoxic therapies (an-
+thracyclines, bleomycin, cyclophosphamide, cytarabine), targeted
+therapies (all- trans retinoic acid, arsenic trioxide, dasatinib), and
+immune-based therapies (interleukin-2, interferon-αICI). A combin-
+ation of therapies may have a synergistic effect on the pericardium.
+These therapy-induced complications must be differentiated from
+progressive cancer (local invasion, metastatic involvement, or medias-
+tinal lymphatic drainage obstruction) and non-cancer-related causes
+such as infection, especially in immune-compromised patients. 622 A
+careful history and clinical examination are of help to determine the
+cause. TTE plays a central role in diagnosis and management. CT
+and CMR can provide additional information on pericardial inﬂamma-
+tion and constrictive physiology. The principles for the diagnosis and
+management should follow the 2015 ESC Guidelines for the diagnosis
+and management of pericardial diseases,444 but there are some speciﬁc
+issues to consider in patients with cancer. 482
+6.10.1. Pericarditis
+The diagnosis of pericarditis in patients with cancer follows the same
+principles as in those without, but symptoms can be atypical. 444
+Acute pericarditis caused by radiation has become rare due to lower
+doses and improved radiation techniques. It occurs within days to
+weeks after treatment and is usually self-limiting, but can evolve to-
+wards constrictive pericarditis many years later ( Section 8.6 ).
+Pericarditis caused by conventional cancer therapies often resolves
+with standard therapy or after discontinuation of the treatment. 444
+Cancer treatment interruption should be discussed with the
+cardio-oncology team. Treatment with anti-in ﬂammatory drugs
+(e.g. ibuprofen) and colchicine, in the absence of contraindications,
+is recommended as it reduces the rate of recurrence requiring re-
+peat intervention.623 Low-to-moderate doses of steroids are only in-
+dicated for resistant cases except ICI-related pericarditis. 444
+ICI-associated pericarditis has a median time of onset of 30 days in
+retrospective surveillance studies and is associated with a poor prog-
+nosis, especially in case of concomitant myocarditis. 444,624
+In patients with severe ICI-associated pericarditis with moderate or
+severe effusion, ICI discontinuation and high-dose steroids (methylpred-
+nisolone 1 mg/kg/day) with or without colchicine are recommended, as
+well as pericardiocentesis in case of cardiac tamponade.624,625 In case of
+refractory pericarditis, immunosuppressive drugs should be considered.
+For uncomplicated ICI-related pericarditis, the ICI might be continued
+and colchicine or non-steroidal anti-inﬂammatory drugs could be con-
+sidered.326,444 For patients requiring ICI discontinuation, restarting ICI
+can be considered in a MDT discussion after resolution of pericardial
+disease and under close monitoring.
+6.10.2. Pericardial effusion
+Pericardial effusions are often observed as an incidental ﬁnding in pa-
+tients with cancer. Cancer therapy is the cause of a pericardial effu-
+sion in ,30% of cases, although this may increase with the expanding
+use of ICI in cancer. Malignancy-related pericardial effusions caused
+by direct (lung, oesophageal, breast) or metastatic invasion (haem-
+atological malignancies, ovarian, melanoma) or by lymph node ob-
+struction are generally associated with poor prognosis.
+Clinical presentation depends on the size of the effusion and the
+speed of its growth. 444 Malignancy-related pericardial effusions
+make up .30% of patients presenting with cardiac tamponade 626
+and usually develop slowly, resulting in larger pericardial effusions
+at the time of diagnosis compared with non-malignant pericardial ef-
+fusions. Management consists of determination of the cause and
+evaluation of the haemodynamic impact. Small-to-medium-sized ef-
+fusions ( .4 and ,20 mm) can be monitored with a reassessment
+7–14 days after initial diagnosis and at further 4 –6-weekly inter-
+vals.444,627 In unstable patients with signs of tamponade, immediate
+echocardiographic-guided percutaneous pericardiocentesis is pre-
+ferred over surgical pericardiotomy to minimize potential complica-
+tions.628 In patients with cardiac tamponade due to malignant
+pericardial effusions, colchicine may be useful to improve clinical out-
+comes and reduce the rate of repeat intervention. 623 Drainage of a
+pericardial effusion related to ICI is rarely required 629 and corticos-
+teroids should be considered. 630 Intrapericardial instillation of
+cytostatic/sclerosing agents, colchicine, 623 and radiation for
+radiation-sensitive tumours can reduce recurrence after drainage.
+The creation of a pleuropericardial or pleuroperitoneal window
+with balloon pericardiotomy or surgery should be considered in
+case of recurrent malignant pericardial effusions after emergency
+pericardiocentesis.444
+A surgical pericardial window should be considered if the percu-
+taneous approach is not feasible and in stable patients with large
+(≥20 mm) or rapidly expanding malignant pericardial effusions prior
+to the development of cardiac tamponade.
+Recommendation Table 37 — Recommendations for
+the management of pulmonary hypertension during
+anticancer treatment
+Recommendations Class a Levelb
+Right-heart catheterization and discontinuation of
+dasatinib is recommended in patients who
+develop symptomatic or asymptomatic increase in
+peak TRV .3.4 m/s.
+IC
+Dasatinib dose reduction and close monitoring of
+peak TRV with echocardiography should be
+considered in patients who develop new
+asymptomatic peak TRV ranging from 2.9 to
+3.4 m/s.
+IIa C
+In patients with con ﬁrmed dasatinib-induced
+PAHc or new asymptomatic peak TRV .3.4 m/s,
+an alternative BCR-ABL inhibitor is recommended
+after peak TRV recovery to ,2.8 m/s.
+I C
+© ESC 2022
+BCL-ABL, breakpoint cluster region–Abelson oncogene locus; PAH, pulmonary arterial
+hypertension; TRV, tricuspid regurgitation velocity.
+aClass of recommendation.
+bLevel of evidence.
+cDeﬁnite diagnosis of PAH requires a right-heart catheterization.
+4308 ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026

@@ -28,6 +28,8 @@
     constructor() {
       this.worker = null;
       this.currentQuery = '';
+      this.currentSearchId = 0;
+      this.totalFound = 0;
       this.selectedCategories = new Set(); // Empty Set = All Topics
       this.selectedBooks = new Set();      // Empty Set = All Books
       this.currentLang = 'all';
@@ -97,10 +99,10 @@
       if (window.Worker && location.protocol !== 'file:') {
         try {
           this.worker = new Worker('./search-worker.js');
-          this.worker.postMessage({ type: 'INIT', baseUrl: './' });
+          this.worker.postMessage({ type: 'INIT', baseUrl: './', version: 'v28' });
 
           this.worker.onmessage = (e) => {
-            const { type, results, query, documentCount, config, message } = e.data;
+            const { type, results, totalFound, query, requestId, documentCount, config, message } = e.data;
 
             if (type === 'READY') {
               this.isWorkerReady = true;
@@ -112,8 +114,13 @@
                 this.performSearch(this.searchInput.value);
               }
             } else if (type === 'RESULTS') {
+              // Ignore stale response if requestId doesn't match the current search ID
+              if (requestId !== undefined && requestId !== null && requestId !== this.currentSearchId) {
+                return;
+              }
               if (query === this.currentQuery) {
                 this.results = results || [];
+                this.totalFound = typeof totalFound === 'number' ? totalFound : this.results.length;
                 this.selectedIndex = 0;
                 this.renderResults();
               }
@@ -136,11 +143,12 @@
 
     async initFallbackEngine() {
       this.updateStatusText('Loading search index...', true);
+      const version = 'v28';
       try {
         const [indexRes, configRes, thesaurusRes] = await Promise.all([
-          fetch('./search-index.json'),
-          fetch('./search-config.json').catch(() => null),
-          fetch('./thesaurus.json').catch(() => null)
+          fetch(`./search-index.json?v=${version}`),
+          fetch(`./search-config.json?v=${version}`).catch(() => null),
+          fetch(`./thesaurus.json?v=${version}`).catch(() => null)
         ]);
 
         if (!indexRes.ok) {
@@ -604,8 +612,11 @@
 
     performSearch(query) {
       this.currentQuery = (query || '').trim();
+      const requestId = ++this.currentSearchId;
+
       if (!this.currentQuery) {
         this.results = [];
+        this.totalFound = 0;
         this.renderResults();
         return;
       }
@@ -621,23 +632,27 @@
           query: this.currentQuery,
           category: categoryFilter,
           book: bookFilter,
-          lang: this.currentLang
+          lang: this.currentLang,
+          requestId: requestId
         });
       } else if (this.isFallbackReady) {
         setTimeout(() => {
-          this.executeMainThreadSearch();
+          this.executeMainThreadSearch(requestId);
         }, 10);
       }
     }
 
-    executeMainThreadSearch() {
+    executeMainThreadSearch(requestId = null) {
+      if (requestId && requestId !== this.currentSearchId) return;
       if (!this.searchIndexData) return;
       const docs = this.searchIndexData.documents || this.searchIndexData.items || [];
       const cleanQuery = stripDiacritics(this.currentQuery.toLowerCase().replace(/[^\w\s\u0400-\u04FF\u0590-\u05FF-]/g, ' ').trim());
       const allTokens = cleanQuery.split(/\s+/).filter(t => t.length > 1);
 
       if (allTokens.length === 0) {
+        if (requestId && requestId !== this.currentSearchId) return;
         this.results = [];
+        this.totalFound = 0;
         this.renderResults();
         return;
       }
@@ -780,7 +795,9 @@
       }
 
       matched.sort((a, b) => b.score - a.score);
-      this.results = matched.slice(0, 60);
+      if (requestId && requestId !== this.currentSearchId) return;
+      this.totalFound = matched.length;
+      this.results = matched.slice(0, 30);
       this.selectedIndex = 0;
       this.renderResults();
     }
@@ -788,8 +805,10 @@
     renderResults() {
       if (!this.resultsPane) return;
 
+      const totalCount = typeof this.totalFound === 'number' ? this.totalFound : this.results.length;
+
       if (this.countBadge) {
-        this.countBadge.textContent = this.results.length;
+        this.countBadge.textContent = totalCount;
       }
 
       if (!this.currentQuery) {
@@ -819,7 +838,11 @@
         return;
       }
 
-      this.updateStatusText(`Found ${this.results.length} results`, false);
+      if (totalCount > this.results.length) {
+        this.updateStatusText(`Found ${totalCount} results (showing top ${this.results.length})`, false);
+      } else {
+        this.updateStatusText(`Found ${this.results.length} results`, false);
+      }
 
       let html = '';
       this.results.forEach((item, index) => {
@@ -1243,35 +1266,60 @@
   }
 
   function escapeRegExp(string) {
-    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    if (!string || typeof string !== 'string') return '';
+    return string.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
   }
 
   function highlightMatch(htmlOrText, query) {
     if (!htmlOrText || !query) return htmlOrText;
-    let rawQ = query.replace(/^"|"$/g, '').replace(/\b(type|t):(quiz|book)\b/gi, '').replace(/\bin:(ru|en|he)\b/gi, '').trim();
-    const terms = rawQ.toLowerCase().split(/\s+/).filter(t => t.length > 1 && !STOP_WORDS.has(t));
-    const evalTerms = terms.length > 0 ? terms : rawQ.toLowerCase().split(/\s+/).filter(t => t.length > 1);
-    if (evalTerms.length === 0) return htmlOrText;
+    try {
+      let rawQ = query.replace(/^"|"$/g, '').replace(/\b(type|t):(quiz|book)\b/gi, '').replace(/\bin:(ru|en|he)\b/gi, '').trim();
+      const terms = rawQ.toLowerCase().split(/\s+/).filter(t => t.length > 1 && !STOP_WORDS.has(t));
+      const evalTerms = terms.length > 0 ? terms : rawQ.toLowerCase().split(/\s+/).filter(t => t.length > 1);
+      if (evalTerms.length === 0) return htmlOrText;
 
-    // First try exact contiguous phrase match if multi-word query
-    let result = htmlOrText;
-    if (rawQ.includes(' ') && rawQ.length > 3) {
-      const phrasePattern = new RegExp(`(${escapeRegExp(rawQ)})`, 'gi');
-      if (phrasePattern.test(result)) {
-        return result.replace(phrasePattern, '<mark class="spotlight-mark">$1</mark>');
+      let result = htmlOrText;
+
+      // First try exact contiguous phrase match if multi-word query
+      if (rawQ.includes(' ') && rawQ.length > 3) {
+        try {
+          const safePhrase = escapeRegExp(rawQ);
+          if (safePhrase) {
+            const phrasePattern = new RegExp(`(${safePhrase})`, 'gi');
+            if (phrasePattern.test(result)) {
+              return result.replace(phrasePattern, '<mark class="spotlight-mark">$1</mark>');
+            }
+          }
+        } catch (e) {
+          console.warn('[highlightMatch phrase regex warning]:', e);
+        }
       }
+
+      // Add Russian stemmed terms to match patterns
+      const patternTerms = new Set();
+      evalTerms.forEach(t => {
+        const safeT = escapeRegExp(t);
+        if (safeT) patternTerms.add(safeT);
+        const stemmed = stemRussianWord(t);
+        if (stemmed && stemmed.length >= 3) {
+          const safeStemmed = escapeRegExp(stemmed);
+          if (safeStemmed) patternTerms.add(safeStemmed);
+        }
+      });
+
+      if (patternTerms.size === 0) return htmlOrText;
+
+      try {
+        const pattern = new RegExp(`(${Array.from(patternTerms).join('|')})`, 'gi');
+        return result.replace(pattern, '<mark class="spotlight-mark">$1</mark>');
+      } catch (patternErr) {
+        console.warn('[highlightMatch pattern regex warning]:', patternErr);
+        return htmlOrText;
+      }
+    } catch (err) {
+      console.warn('[highlightMatch top-level warning]:', err);
+      return htmlOrText;
     }
-
-    // Add Russian stemmed terms to match patterns
-    const patternTerms = new Set();
-    evalTerms.forEach(t => {
-      patternTerms.add(t);
-      const stemmed = stemRussianWord(t);
-      if (stemmed && stemmed.length >= 3) patternTerms.add(stemmed);
-    });
-
-    const pattern = new RegExp(`(${Array.from(patternTerms).map(t => escapeRegExp(t)).join('|')})`, 'gi');
-    return result.replace(pattern, '<mark class="spotlight-mark">$1</mark>');
   }
 
   function extractSnippetFromMarkdown(markdown, query) {

@@ -1,0 +1,14 @@
+Figure 37 -> Page 83, caption y0=536.2
+Figure 38 -> Page 87, caption y0=663.3
+Figure 39 -> Page 92, caption y0=539.8
+Figure 40 -> Page 93, caption y0=393.8
+Figure 41 -> Page 94, caption y0=535.0
+Figure 42 -> Page 96, caption y0=691.2
+Figure 43 -> Page 97, caption y0=535.6
+Figure 43 -> Page 98, caption y0=132.4
+Figure 43 -> Page 98, caption y0=264.4
+Figure 44 -> NOT FOUND
+Figure 45 -> Page 100, caption y0=546.3
+Figure 46 -> Page 101, caption y0=546.3
+Figure 47 -> Page 102, caption y0=713.1
+Figure 48 -> Page 103, caption y0=732.7

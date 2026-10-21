@@ -1,0 +1,3197 @@
+
+
+=== PAGE 54 ===
+
+5.5.18. Other cancer treatments
+Several other cancer therapies may also induce clinically relevant CV
+events. Cyclophosphamide, cisplatin, ifosfamide, and taxanes (pacli-
+taxel and docetaxel) can induce myocardial dysfunction and HF.4
+Cyclophosphamide CV toxicity is primarily seen in patients receiving
+high doses (.140 mg/kg) before HSCT and typically occurs within
+days of drug administration.410
+Platinum-containing chemotherapy (cisplatin, carboplatin, oxali-
+platin) may cause vascular disease (vasospasm, MI, and venous and
+arterial thrombosis). These may occur during treatment and also
+contribute to increased long-term risk of CAD in survivors.
+Patients with testicular cancer treated with cisplatin have a higher
+risk for vascular disease at long-term follow-up.421 The risk of the in-
+dividual patient is still hard to predict, but lifestyle interventions, a
+high degree of clinical suspicion in patients who experience chest
+pain, and close CVRF monitoring is recommended during and after
+therapy.422 Cisplatin422 infrequently causes HF; however, because
+it requires the administration of a high i.v. volume to avoid renal tox-
+icity, patients with pre-existing CVD may develop symptomatic HF.
+Arsenic trioxide is used to treat some leukaemias and myelomas.
+Arsenic trioxide frequently prolongs the QT interval (26–93% of pa-
+tients), and life-threatening ventricular tachyarrhythmias have been
+reported.45,259 QTc prolongation was observed 1–5 weeks after ar-
+senic trioxide infusion and then returned towards baseline by the end
+of 8 weeks. Patients receiving treatment with arsenic trioxide should
+be monitored weekly with ECG during the ﬁrst 8 weeks of therapy.
+Electrolyte monitoring is also required as arsenic trioxide may induce
+hypokalaemia, hypomagnesaemia, and renal dysfunction. Risk factors
+for QT prolongation should be controlled before, during, and after
+cancer treatment (Section 6.4.2).
+Several FMS-like tyrosine kinase 3 (FLT3) inhibitors (ﬁrst-generation:
+midostaurin; second-generation: gilteritinib) have been tested for the
+treatment of acute myeloid leukaemias. Gilterinib-induced differenti-
+ation syndrome (fever, dyspnoea, pleuropericardial effusion, pulmon-
+ary oedema, peripheral oedema, hypotension, renal dysfunction, and
+rash) requires early corticosteroid therapy and haemodynamic moni-
+toring until resolution of symptoms. Midostaurin and gilterinib may
+prolong QTc interval and close electrolyte surveillance and minimizing
+drug–drug interactions are required (see Section 6.4.2; Table 9;
+Supplementary data, Tables S15 and S16).423
+6. Diagnosis and management of
+acute and subacute cardiovascular
+toxicity in patients receiving
+anticancer treatment
+A coordinated MDT is recommended to discuss patients with cancer
+who develop acute CV complications of their cancer treatment.5
+Referral to a specialized cardio-oncology service is recommended
+for patients with cancer who present with new CTR-CVT during
+and after cancer treatment.12 The prevention and management of
+CVD in patients with cancer should generally follow published ESC
+Guidelines for speciﬁc CVD. This chapter provides guidance on
+the management of CTR-CVT that occur during cancer treatment,
+and highlights where management differs for patients with cancer
+compared with those without. The decision to initiate CV treatment
+(medication, devices) needs to include consideration of a range of
+factors including both cancer and CV symptom burden, cancer prog-
+nosis, ongoing cancer treatment requirements including alternative
+options, possible adverse drug reactions, drug–drug interactions,
+and patient preferences. An extensive list of drug–drug interactions
+is provided in Supplementary data, Tables S15–S17.
+6.1. Cancer therapy-related cardiac
+dysfunction
+6.1.1. Anthracycline chemotherapy-related cardiac
+dysfunction
+CTRCD during anthracycline chemotherapy may present clinically or
+be detected in asymptomatic patients during surveillance (Figure 10;
+Table 3).4 The diagnosis of anthracycline chemotherapy-related car-
+diac dysfunction includes new CV symptoms, new abnormalities in
+cardiac function on CV imaging, and/or new increases in cardiac bio-
+markers (Table 3). A MDT discussion is recommended to consider
+the risk/beneﬁt ratio of continuing anthracycline chemotherapy in
+patients who develop new CTRCD.
+Discontinuation of anthracycline chemotherapy is recommended
+in patients with cancer who develop severe symptomatic CTRCD.22
+There are rare exceptions where rechallenge with further anthracy-
+cline chemotherapy may be considered after a MDT discussion, using
+prevention strategies described below and under close monitoring
+with each cycle of anthracycline chemotherapy. Temporary interrup-
+tion of anthracycline chemotherapy is recommended in patients who
+develop moderate symptomatic CTRCD, and in patients who de-
+velop moderate or severe asymptomatic CTRCD. A MDT approach
+regarding interruption vs. continuation of anthracycline chemother-
+apy is recommended in patients who develop mild symptomatic
+CTRCD.
+Guideline-based HF therapy is recommended in patients who de-
+velop symptomatic CTRCD or asymptomatic moderate or severe
+CTRCD during anthracycline chemotherapy. The use of an ACE-I/
+ARB or angiotensin receptor–neprilysin inhibitor, a beta-blocker, a
+sodium–glucose co-transporter 2 inhibitor, and a mineralocorticoid re-
+ceptor antagonist is recommended unless the drugs are contraindi-
+cated or not tolerated. Up-titration to target doses as described in
+the 2021 ESC Guidelines for the diagnosis and treatment of acute
+and chronic HF is recommended.14 ACE-I, ARB, and/or beta-blockers
+Recommendation Table 23 — Recommendation for
+the management of cardiovascular disease and cancer
+therapy-related cardiovascular toxicity in patients re-
+ceiving anticancer treatment
+Recommendation
+Classa
+Levelb
+A specialist CV assessmentc is recommended for
+optimal diagnostic workup and management of
+patients with cancer who present with new CV
+toxicity during and after cancer treatment.5
+I
+C
+© ESC 2022
+CV, cardiovascular; CVD, cardiovascular disease.
+aClass of recommendation.
+bLevel of evidence.
+cCardio-oncology referral is recommended when available; alternatively, patients should
+be referred to a specialized cardiologist with expertise in managing CVD in patients with
+cancer.
+4282
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 55 ===
+
+should be considered in mild asymptomatic CTRCD while anthracy-
+cline chemotherapy continues uninterrupted (Figure 25).1,14,102,424
+The beneﬁcial effects of aerobic exercise before and during anthracy-
+cline chemotherapy have been demonstrated and is recommended
+for patients with cancer who develop CTRCD.11
+A MDT is recommended to discuss restarting anthracycline
+chemotherapy in patients who developed mild or moderate
+symptomatic CTRCD, or moderate or severe asymptomatic
+CTRCD, after recovery of LV function under HF treatment. If there
+is a compelling reason to continue anthracycline chemotherapy,
+three other strategies exist in addition to continuing ACE-I/ARB
+and beta-blockers at target doses for HF.14 First, minimizing the
+dose of anthracycline chemotherapy administered. Second, switch-
+ing to liposomal anthracycline preparations. Third, pre-treatment
+Discontinue
+AC
+(Class I)
+Interrupt
+AC
+(Class I)
+MDT approach
+regarding interruption
+vs. conti
+.
+nuation
+of AC
+(Class I)
+Interrupt
+AC
+(Class I)
+Continue
+AC
+with CV monitoring
+(Class I)
+Symptomatic CTRCDa
+Ve
+V ry severe/severe
+Oncological
+strategy
+CV
+strategy
+Moderate
+MDTb
+Mild
+Severe/moderate
+Mild
+GLS decrease >15%
+or cTn increase
+ACE-I/ARB
+and/or BB
+(Class IIb)
+ACE-I/ARB
+and/or BB
+(Class IIa)
+HF therapy
+p
+(Class I)
+NP increase
+Asymptomatic CTRCDa
+Management of patients with AC-related cardiac dysfunction
+AND
+MDTc
+AND
+MDTc
+AND
+Figure 25 Management of anthracycline chemotherapy-related cardiac dysfunction. AC, anthracycline chemotherapy; ACE-I, angiotensin-converting
+enzyme inhibitors; ARB, angiotensin receptor blockers; BB, beta-blockers; cTn, cardiac troponin; CTRCD, cancer therapy-related cardiac dysfunction;
+CV, cardiovascular; GLS, global longitudinal strain; HF, heart failure; LV, left ventricular; LVEF, left ventricular ejection fraction; MDT, multidisciplinary
+team; NP, natriuretic peptides. aSee Table 3 (Section 3) for complete deﬁnition (symptomatic CTRCD: symptomatic conﬁrmed HF syndrome; asymptom-
+atic severe CTRCD: LVEF , 40%; asymptomatic moderate CTRCD: LVEF 40–49%; asymptomatic mild CTRCD: LVEF . 50%). bIn rare exceptions, an-
+thracycline chemotherapy may be restarted after recovery of LV function with optimal HF therapy. cA MDT discussion is recommended before restarting
+anthracycline chemotherapy after recovery of LV function.
+ESC Guidelines
+4283
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 56 ===
+
+with dexrazoxane before each further cycle of anthracycline chemo-
+therapy (Section 5.2.1).
+Close cardiac monitoring every 1–2 cycles is recommended in pa-
+tients who restart anthracycline chemotherapy following an episode
+of CTRCD and in patients with mild asymptomatic CTRCD while
+they continue anthracycline chemotherapy.
+6.1.2. Human epidermal receptor 2-targeted
+therapy-related cardiac dysfunction
+The diagnosis of HER2-targeted therapy-related CTRCD can be
+made using the combination of new CV symptoms, imaging, and
+biomarkers. Patients may present with symptomatic CTRCD or
+may be asymptomatic.426 Early treatment of symptomatic and
+asymptomatic severe CTRCD (LVEF , 40%), according to the
+2021 ESC Guidelines for the diagnosis and treatment of acute
+and chronic HF,14 is recommended to prevent worsening HF,425
+particularly when targeted cancer therapy is continued.427 In pa-
+tients who develop CTRCD, a MDT is recommended to guide
+clinical
+decisions.
+Temporary
+interruption
+is
+recommended
+in patients who develop moderate or severe symptomatic
+CTRCD or severe asymptomatic CTRCD (LVEF , 40%) during
+HER2-targeted therapy. In patients with mild symptomatic
+CTRCD, a MDT approach is recommended to continue vs. inter-
+rupt HER2-targeted therapy. In patients with asymptomatic mod-
+erate CTRCD (LVEF 40–49%), HER2-targeted treatment should
+be continued, and cardioprotective therapy (ACE-I/ARB and beta-
+blockers) is recommended with frequent cardiac monitor-
+ing.22,33,189 In patients with asymptomatic mild CTRCD (LVEF ≥
+50% with a signiﬁcant new GLS reduction and/or cardiac biomark-
+er increase), continuing HER2-targeted treatment is recom-
+mended
+and
+cardioprotective
+therapy
+(ACE-I/ARB
+and/or
+beta-blockers) should be considered.22,211,428,429
+Frequent cardiac surveillance with cardiac imaging and cardiac
+serum biomarkers is recommended in all patients with CTRCD
+Recommendation Table 24 — Recommendations for
+the management of cancer treatment-related cardiac
+dysfunction during anthracycline chemotherapy
+Recommendations
+Classa
+Levelb
+Anthracycline chemotherapy-induced symptomatic CTRCD
+HF therapy is recommended for patients who
+develop symptomatic CTRCD during
+anthracycline chemotherapy.c,208,425
+I
+B
+Discontinuation of anthracycline chemotherapy is
+recommended in patients who develop
+symptomatic severe CTRCD.c
+I
+C
+Temporary interruption of anthracycline
+chemotherapy is recommended in patients who
+develop symptomatic moderate CTRCDc and a
+multidisciplinary approach regarding the decision
+to restart is recommended.
+I
+C
+A multidisciplinary approach regarding
+interruption vs. continuation of anthracycline
+chemotherapy is recommended in patients who
+develop mild symptomatic CTRCD.c
+I
+C
+Anthracycline chemotherapy-induced asymptomatic
+CTRCD
+Temporary interruption of anthracycline
+chemotherapy and initiation of HF therapy is
+recommended in patients who develop
+asymptomatic moderate or severe CTRCD.c,22
+I
+C
+A multidisciplinary approach regarding the
+decision when to restart is recommended in all
+patients with moderate or severe asymptomatic
+CTRCD.c,22
+I
+C
+Continuation of anthracycline chemotherapy is
+recommended in asymptomatic patients who
+have LVEF ≥50% and who have developed a
+signiﬁcant fall in GLSc or a troponin or a NP
+elevation . ULN.
+I
+C
+Asymptomatic patients who have LVEF ≥50%
+and who have developed a signiﬁcant fall in GLSc
+should be considered for ACE-I/ARB and/or
+beta-blockers.d,75,93,102
+IIa
+B
+Asymptomatic patients who have LVEF ≥50%
+and who have developed a troponin elevation
+.ULN should be considered for ACE-I/ARB and/
+or beta-blockers.d,147,211
+IIa
+B
+Continued
+Asymptomatic patients who have LVEF ≥50%
+and who have developed NP .ULN may be
+considered for ACE-I/ARB and/or
+beta-blockers.d,211
+IIb
+C
+Strategies for restarting anthracycline chemotherapy in
+patients with CTRCD
+Liposomal anthracyclinee may be considered in
+patients with moderate or severe symptomatic or
+asymptomatic CTRCDc who require further
+anthracycline chemotherapy to reduce the risk of
+further CV toxicity.
+IIb
+C
+Dexrazoxanef may be considered in patients with
+moderate or severe symptomatic or
+asymptomatic CTRCDc who require further
+anthracycline chemotherapy to reduce the risk of
+further CV toxicity.
+IIb
+C
+© ESC 2022
+ACE-I, angiotensin-converting enzyme inhibitors; ARB, angiotensin receptor blockers;
+CTRCD, cancer therapy-related cardiac dysfunction; CV, cardiovascular; GLS, global
+longitudinal strain; HF, heart failure; LVEF, left ventricular ejection fraction; NP,
+natriuretic peptides; ULN, upper limit of normal.
+aClass of recommendation.
+bLevel of evidence.
+cSee Table 3. Signiﬁcant fall in GLS = relative reduction .15%.
+dAvoid hypotension.
+eSee text for speciﬁc liposomal doxorubicin type and malignancies (Section 5.2).
+fAs per the European Medicines Agency: ≥350 mg/m2 doxorubicin or equivalent; as
+per the United States Food and Drug Administration: ≥300 mg/m2 doxorubicin or
+equivalent.
+4284
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 57 ===
+
+who continue HER2-targeted cancer therapies and in those who
+restart after an interruption following resolution of HF signs and
+symptoms and recovery of LVEF ≥40% (and ideally recovery to
+LVEF ≥50%) (Figure 26).22,33,189 Echocardiography and cardiac
+serum biomarker measurement every two cycles for the ﬁrst
+four cycles after restarting HER2-targeted therapy is recom-
+mended, and then the frequency can be reduced if cardiac function
+and biomarker levels remain stable.
+Anti-HER2
+interruption
+(Class I)
+Anti-HER2
+interruption
+(Class I)
+MDT approach
+regarding
+interruption
+vs. conti
+.
+nuation of
+anti-HER2
+(Class I)c
+Continue anti-HER2
+under CV monitoring
+(Class I)
+Continue anti-HER2
+under CV monitoring
+(Class IIa)
+Symptomatic CTRCDa
+Moderata e to very severe
+Oncological
+strategy
+CV
+strategy
+Mild
+MDTb,c
+Severe
+Moderate
+Mild
+ACE-I/ARB
+and/or BB
+(Class IIa)
+HF therapy
+p
+(Class I)
+Asymptomatic CTRCDa
+Management of patients with HER2-targeted therapies related cardiac dysfunction
+AND
+MDTb,c
+AND
+GLS decrease >15%
+cTn and NP increase
+Figure 26 Management of human epidermal receptor 2-targeted therapy-related cardiac dysfunction. ACE-I, angiotensin-converting enzyme inhibitors;
+ARB, angiotensin receptor blockers; BB, beta-blockers; cTn, cardiac troponin; CTRCD, cancer therapy-related cardiac dysfunction; CV, cardiovascular;
+GLS, global longitudinal strain; HER2, human epidermal receptor 2; HF, heart failure; LVEF, left ventricular ejection fraction; MDT, multidisciplinary team;
+NP, natriuretic peptides. aSee Table 3 (Section 3) (symptomatic CTRCD: symptomatic conﬁrmed HF syndrome; asymptomatic severe CTRCD: LVEF ,
+40%; asymptomatic moderate CTRCD: LVEF 40–49%; asymptomatic mild CTRCD: LVEF . 50%). bFor patients in whom HER2-targeted therapy has
+been interrupted, whose signs and symptoms of HF do not resolve and/or LVEF remains ,40%, resumption of HER2-targeted therapy may be considered
+if no alternative therapeutic option exists. In advanced cancer that only responds well to trastuzumab, the risk/beneﬁt ratio may warrant continued ther-
+apy if other options remain limited.22 cFor patients where HER2-targeted therapy has been interrupted and who have recovered LVEF ≥40% and are
+now asymptomatic, resumption of HER2-targeted therapy should be considered, supported by HF therapy, and echocardiography and cardiac biomarker
+assessment every two cycles for the ﬁrst four cycles after restarting and then the frequency can be reduced.22
+ESC Guidelines
+4285
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 58 ===
+
+6.1.3. Immune checkpoint inhibitor-associated
+myocarditis and non-inﬂammatory heart failure
+Myocarditis is a severe complication of ICI with a high fatality
+rate that most frequently develops during the ﬁrst 12 weeks of
+treatment, although late cases (after week 20) may occur.386
+Other ICI-related CV toxicities include dyslipidaemia, ACS, vascu-
+litis, AV block, supraventricular and ventricular arrhythmias, sud-
+den death, TTS, non-inﬂammatory LVD, pericarditis, pericardial
+effusion, and ischaemic stroke, with higher risks for myocarditis
+(odds
+ratio
+4.42)
+and
+dyslipidaemia
+(odds
+ratio
+3.68)
+(Figure 27).323,325
+The diagnosis of ICI-associated myocarditis is initially based on the
+presence of symptoms, a new increase in troponin (associated with
+either CV symptoms or non-CV immuno-related adverse events),
+and new ECG abnormalities (AV or intraventricular conduction dis-
+orders,
+bradycardia,
+tachyarrhythmias)
+(see
+Section
+3;
+Table 3).17,434,435 Any abnormal ﬁnding should prompt urgent CV im-
+aging and other causes of myocardial injury (e.g. ACS, acute infec-
+tious myocarditis) should be excluded. Treatment with high-dose
+methylprednisolone should be promptly initiated in haemodynamic-
+ally unstable patients (including those with ventricular arrhythmias
+[VA] or complete AV block) while awaiting further conﬁrmatory
+testing.436 TTE and CMR are recommended in all patients with sus-
+pected ICI-associated myocarditis. Currently, speciﬁc CMR features
+for ICI-induced myocarditis are not well described and modiﬁed Lake
+Louise criteria are recommended (Table 3).18 Cardiac ﬂuorodeoxy-
+glucose positron emission tomography (PET) may be consid-
+ered437,438 if CMR is not available or contraindicated, although PET
+sensitivity is low and requires a strict 18-h carbohydrate-free
+fast.439 Endomyocardial biopsy (EMB) should be considered in cases
+where the diagnosis is suspected but not conﬁrmed non-invasively
+(e.g. conﬂicting results of cardiac imaging and biomarkers or clinically
+unstable patients).440 All cases of ICI-associated myocarditis should
+be classiﬁed according to the severity of the myocarditis (fulminant
+Recommendation Table 25 — Recommendations for
+the management of cancer treatment-related cardiac
+dysfunction during human epidermal receptor 2-tar-
+geted therapies
+Recommendations
+Classa
+Levelb
+HER2-targeted therapy-induced symptomatic CTRCD
+HF therapy is recommended for patients who
+develop symptomatic moderate-to-severe
+CTRCD with LVEF , 50%c during HER2-targeted
+treatment.14,61,430,431
+I
+B
+Temporary interruption of HER2-targeted
+treatment is recommended in patients who
+develop moderate or severe symptomatic
+CTRCDc and the decision to restart should be
+based on a multidisciplinary approach after
+improvement of LV function and symptoms
+resolved.d
+I
+C
+In patients who develop mild symptomatic
+CTRCD,c HF therapy and a multidisciplinary
+approach regarding the decision to continue vs.
+interrupt HER2-targeted therapy are
+recommended.d,431,432
+I
+C
+HER2-targeted therapy-induced asymptomatic CTRCD
+Temporary interruption of HER2-targeted
+therapy and initiation of HF therapy is
+recommended in patients who develop
+asymptomatic severe CTRCD.c
+I
+C
+A multidisciplinary approach regarding the
+decision to restart HER2-targeted treatment is
+recommended in patients with severe
+asymptomatic CTRCD.c
+I
+C
+Continuation of HER2-targeted therapy should be
+considered in patients who develop asymptomatic
+moderate (LVEF 40–49%) CTRCDc with more
+frequent cardiac monitoring.33,189,428,433
+IIa
+B
+Continuation of HER2-targeted therapy is
+recommended in patients who develop
+asymptomatic mild (LVEF ≥50%) CTRCDc with
+more frequent cardiac monitoring.428
+I
+C
+ACE-I/ARB and beta-blockers are recommended
+in patients who develop asymptomatic moderate
+(LVEF 40–49%) CTRCDc during HER2-targeted
+treatment.e,189
+I
+C
+ACE-I/ARB and/or beta-blockers should be
+considered in asymptomatic patients receiving
+HER2-targeted therapies who have LVEF ≥50%
+but develop a signiﬁcant fall in GLSc while
+continuing HER2-targeted therapy.e,22,428
+IIa
+B
+Continued
+ACE-I/ARB and/or beta-blockers should be
+considered in asymptomatic patients receiving
+HER2-targeted therapies who have LVEF ≥50%
+but develop a new troponin or NP rise while
+continuing HER2-targeted therapy.e,22,211,428
+IIa
+B
+© ESC 2022
+ACE-I, angiotensin-converting enzyme inhibitors; ARB, angiotensin receptor blockers;
+CTRCD, cancer therapy-related cardiac dysfunction; GLS, global longitudinal strain;
+HER2, human epidermal receptor 2; HF, heart failure; LV, left ventricular; LVEF, LV
+ejection fraction; NP, natriuretic peptides.
+aClass of recommendation.
+bLevel of evidence.
+cSee Table 3.
+dFor patients where HER2-targeted therapy has been interrupted and who have
+recovered LVEF ≥40% and are now asymptomatic, resumption of HER2-targeted
+therapy should be considered supported by HF therapy and echocardiography and
+cardiac biomarkers assessment every two cycles for the ﬁrst four cycles after
+restarting and then frequency can be reduced.
+eAvoid hypotension.
+4286
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 59 ===
+
+or non-fulminant, including symptomatic but haemodynamically and
+electrically stable patients and incidental cases diagnosed at the same
+time as other immune-related adverse events) to guide the manage-
+ment pathway (Figure 28).331
+Interruption of ICI treatment is recommended in all cases of
+suspected ICI-associated myocarditis (any patient developing
+new cardiac symptoms, new cardiac arrhythmias, new heart
+blocks, or new troponin increase who has received an ICI therapy
+in the past 12 weeks) while investigations are performed. Once
+the abnormal ﬁndings have resolved, a MDT discussion is recom-
+mended to determine the risk/beneﬁt to permanent stopping vs.
+resuming ICI treatment in patients with suspected but not con-
+ﬁrmed myocarditis.
+Cessation of ICI treatment is recommended in patients with can-
+cer with fulminant or non-fulminant ICI-associated myocarditis and
+the patient should be admitted to hospital and a level 2 or 3 bed
+with continuous ECG monitoring is required. CV complications
+should be treated as per speciﬁc ESC Guidelines (HF,14 tachyarrhyth-
+mias,441,442 AV block,443 or pericardial effusion444).
+Treatment of both non-fulminant and fulminant ICI-associated
+myocarditis with methylprednisolone 500–1000 mg i.v. bolus once
+daily for the ﬁrst 3–5 days should be started as soon as possible,
+once the diagnosis is considered likely, to reduce MACE including
+mortality.386,436 If clinical improvement is observed (cTn reduced
+by .50% from peak level within 24–72 h and any LVD, AV block,
+and arrhythmias resolved), switching to oral prednisolone is
+Direct CV Toxicity
+Arrhythmias
+Arrhythmias
+Myocarditis
+Non-inflammatory HF
+Takotsubo syndrome
+Pericarditis
+Vascular
+Indirect CV Toxicity
+Thyroid
+Adrenal
+Pituitary
+Pancreas
+Embolism
+Figure 27 Direct and indirect immune checkpoint inhibitor-related cardiovascular toxicity. CV, cardiovascular; HF, heart failure.
+ESC Guidelines
+4287
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 60 ===
+
+recommended starting at 1 mg/kg up to 80 mg/day. Although the
+most appropriate weaning off protocol is not conﬁrmed, a weekly
+reduction of oral prednisolone (most commonly by 10 mg per
+week) under clinical, ECG, and cTn surveillance should be consid-
+ered (Figure 28). A reassessment of LV function and cTn should be
+considered when the prednisolone dose is reduced to 20 mg/day
+and then continue weaning the prednisolone by 5 mg per week to
+5 mg/day, and a ﬁnal reduction from 5 mg/day in 1-mg per week
+steps.
+If the troponin does not reduce signiﬁcantly (.50% reduction
+from peak) and/or AV block, ventricular arrhythmias, or LVD persist
+despite 3 days of i.v. methylprednisolone plus cardiac treatments,
+then steroid-resistant ICI-associated myocarditis is conﬁrmed and
+second-line immunosuppression should be considered.22,445,446
+Complete recovery
+Recoveringb
+Steroid refractory
+Haemodynamically unstable
+fulminant myocarditis
+Switching to
+oral prednisolone (1 mg/kg/day)
+a
+(Class IIa)
+Second-line immunosuppression
+(Class IIa)
+Methylprednisolone 500–1000 mg i.v.v bolus once dai
+.
+ly (minimum 3 days)
+a
+(Class I)
+Discontinue ICI; hospital admission
+;
+; ECG monitoring
+;
+(Class I)
+Severity (fulminant vs. non-fulminant)
+.
+a
+Admission to ICU (level 3)
+(Class I)
+Optimal CV treatment
+including MCS
+(Class I)
+Weaning p
+W
+rotocol by 10 mg/week
+with troponin monitoring
+(Class IIa)
+Management of patients with a definitive diagnosis of ICI-related myocarditis
+AND
+AND
+Second-line immunosuppression
+(Class I)
+AND
+Figure 28 Diagnosis and management of immune checkpoint inhibitor-related myocarditis. CMR, cardiac magnetic resonance; CV, cardiovascular;
+ECG, electrocardiogram; HF, heart failure; ICI, immune checkpoint inhibitor; ICU, intensive care unit; i.v., intravenous; LGE, late gadolinium enhancement;
+LVEF, left ventricular ejection fraction; MCS, mechanical circulatory support. aFulminant: haemodynamic instability, HF requiring non-invasive or inva-
+sive ventilation, complete or high-grade heart block, and/or signiﬁcant ventricular arrhythmia. Non-fulminant: including symptomatic but haemo-
+dynamically and electrically stable patients and incidental cases diagnosed at the same time as other immuno-related adverse events. Patients may
+have reduced LVEF but no features of severe disease. bRecovering: ongoing improvement in patient clinical symptoms, signs, biomarkers, and imaging
+parameters, but not yet normalized, while on tapering doses of immunosuppression. Complete recovery: patients with complete resolution of acute
+symptoms, normalization of biomarkers, and recovery of LVEF after discontinuation of immunosuppression. CMR may still show LGE or elevated T1 due
+to ﬁbrosis, but any suggestion of acute oedema should be absent.
+4288
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 61 ===
+
+There is a lack of data to recommend a speciﬁc second-line immunosup-
+pression regimen and MDT discussion is recommended. Several agents
+are currently being investigated with promising results from case series
+including i.v. mycophenolate mofetil, anti-thymocyte globulin (anti-CD3
+antibody), i.v. immunoglobulin, plasma exchange, tocilizumab, abatacept
+(CTLA-4 agonist), alemtuzumab (anti-CD52 antibody), and tofacitinib.
+Caution is advised against the use of inﬂiximab for steroid-refractory
+myocarditis and HF.447,448 Patients with fulminant ICI-associated myo-
+carditis, complicated by haemodynamic and/or electrical instability, re-
+quire admission to the intensive care unit (ICU) and cardiogenic
+shock should be managed according to the 2021 ESC Guidelines for
+the diagnosis and treatment of acute and chronic HF.14 A single dose
+of i.v. methylprednisolone should be considered in clinically unstable pa-
+tients with cancer where ICI-induced myocarditis is suspected at pres-
+entation but before deﬁnitive diagnosis can be conﬁrmed.
+Following recovery from ICI-associated myocarditis and weaning
+of oral steroid therapy, MDT discussion is recommended to review
+the decision on whether to restart ICI treatment. This depends on
+various factors including the severity of the ICI-associated myocardi-
+tis (fulminant vs. non-fulminant vs. asymptomatic), alternative oncol-
+ogy
+treatment
+options,
+metastatic
+vs.
+adjuvant/neoadjuvant
+indication, and reducing from dual ICI to single ICI treatment if trig-
+gered by combination ICI treatment.449
+Non-inﬂammatory HF syndromes have also been observed in pa-
+tients treated with ICI. These include TTS, non-inﬂammatory HF or
+LVD,450 and post-MI HF.451,452 Non-inﬂammatory HF is generally a
+late event and the diagnostic workﬂow should be based on deﬁning
+the HF phenotype and excluding myocarditis, TTS, and ACS.14 There
+is also evidence that vasculitis and CAD can occur after ICI treat-
+ment.335 HF treatment as per the 2021 ESC Guidelines for the diagno-
+sis and treatment of acute and chronic HF is indicated,14 but there is no
+indication for immunosuppression if myocarditis has been excluded.
+Interruption vs. continuing ICI therapy depends on the severity of
+the HF syndrome and each case should be reviewed by a MDT.
+Arrhythmias, such as AF, can be seen in patients with ICI therapy with-
+out myocarditis (e.g. ICI-associated thyroiditis with thyrotoxicosis,
+ICI-associated pericarditis, or ICI-associated severe systemic inﬂamma-
+tory syndromes). ICI treatment can be continued after excluding
+myocarditis.
+Recommendation Table 26 — Recommendations for
+the diagnosis and management of immune checkpoint
+inhibitor-associated myocarditis
+Recommendations
+Classa
+Levelb
+cTn, ECG, and CV imaging (echocardiography and
+CMR) are recommended to diagnose
+ICI-associated myocarditis.320,434,435,453
+I
+B
+In patients with suspected ICI-associated
+myocarditis, temporary interruption of ICI
+treatment is recommended until the diagnosis is
+conﬁrmed or refuted.
+I
+C
+Continued
+EMB should be considered to conﬁrm the
+diagnosis of ICI-associated myocarditis if the
+diagnosis is suspected but not conﬁrmed after
+cardiac imaging and biomarkers.c
+IIa
+C
+Interruption of ICI treatment is recommended in
+patients with conﬁrmed ICI-associated
+myocarditis.
+I
+C
+Continuous ECG monitoring to assess for new
+AV block and tachyarrhythmias during the acute
+phase is recommended for all patients with
+symptomatic ICI-associated myocarditis.
+I
+C
+Early high-dose corticosteroidsd are
+recommended in patients with cancer and
+conﬁrmed ICI-associated myocarditis.22,436,454
+I
+C
+Continuation of high-dose corticosteroids is
+recommended for the treatment of ICI-associated
+myocarditis until resolution of symptoms, LV
+systolic dysfunction, conduction abnormalities,
+and signiﬁcant cTn reduction.e
+I
+C
+Switching from i.v. to oral prednisolone should be
+considered after clinical improvement (resolution
+of: symptoms, LV systolic dysfunction, conduction
+abnormalities, and signiﬁcant cTn reductione).f
+IIa
+C
+Second-line immunosuppression treatment
+should be considered in patients with
+steroid-refractory ICI-associated myocarditis.g
+IIa
+C
+Admission to ICU (level 3), treatment with i.v.
+methylprednisolone, and optimal CV treatment
+including mechanical support (when indicated) is
+recommended for patients with ICI-associated
+fulminant myocarditis.14
+I
+C
+A single dose of i.v. methylprednisoloned should
+be considered in unstableh patients with cancer
+where ICI-induced myocarditis is suspected.
+IIa
+C
+A multidisciplinary discussion is recommended
+before restarting ICI treatment in selected
+patients with previous uncomplicated
+ICI-associated myocarditis.
+I
+C
+© ESC 2022
+AV, atrioventricular; CMR, cardiac magnetic resonance; cTn, cardiac troponin;
+CV, cardiovascular; ECG, electrocardiogram; EMB, endomyocardial biopsy; HF, heart
+failure; ICI, immune checkpoint inhibitors; ICU, intensive care unit; i.v., intravenous;
+LGE, late gadolinium enhancement; LV, left ventricular; LVD, LV dysfunction; LVEF,
+LV ejection fraction.
+aClass of recommendation.
+bLevel of evidence.
+cSee Table 3 for ICI-related myocarditis deﬁnition. EMB should be considered in unstable
+patients or when CMR is contraindicated.
+dEarly: ≤24 h; high-dose corticosteroids (methylprednisolone 500–1000 mg/day).
+eReduction of cTn by .50% from peak level.
+fComplete recovery: Patients with complete resolution of acute symptoms,
+normalization of biomarkers, or reduction of cTn by .50% from peak level and
+recovery of LVEF after discontinuation of immunosuppression are considered to
+have achieved complete recovery. CMR may still show LGE or elevated T1 due to
+ﬁbrosis but any suggestion of acute oedema should be absent. Incomplete
+recovery: (1) an increase in symptoms or biomarkers of myocarditis or an inability
+to taper immunosuppression without a clinical or biomarker ﬂare; (2) patients with
+persistent LVD despite resolution of acute symptoms with immunosuppression.
+gSteroid refractory: non-resolving or worsening myocarditis (clinical worsening or
+persistent troponin elevation after exclusion of other aetiologies) despite high-dose
+methylprednisolone (Table 3; Supplementary data, Table S1).
+hUnstable: patients with symptomatic HF, ventricular arrhythmias, new complete
+heart block.
+ESC Guidelines
+4289
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 62 ===
+
+6.1.4. Chimeric antigen receptor T cell and
+tumour-inﬁltrating lymphocytes therapies and
+heart dysfunction
+Although no large-scale studies on the multiple CV complications
+among adults treated with CAR-T therapies exist, small studies
+and case reports have shown that CV complications represent
+around 20% of adverse events.378 CV complications are associated
+with high mortality rates, and are secondary to CRS and immune ef-
+fector cell-associated neurotoxicity syndrome. The most common
+CV complications in patients receiving CAR-T therapies are arrhyth-
+mias (77.6%), including QTc prolongation, ventricular arrhythmias,
+and AF; HF (14.3%); and MI and VTE (0.5%).455 When suspected, a
+resting 12-lead ECG, continuous ECG monitoring, TTE, and cTn
+and NP are recommended. Admission to ICU (level 3) is recom-
+mended in severe cases due to the risk of malignant cardiac arrhyth-
+mias, circulatory collapse, and multiorgan system failure. In general,
+the degree of elevation of cytokines correlates with the severity of
+CRS. C-reactive protein is not speciﬁc for CRS and changes in
+C-reactive protein may lag behind clinical changes by ≥12 h. A dra-
+matic elevation of interleukin-6 is a supportive ﬁnding for the diagno-
+sis of CRS. Management of the speciﬁc CV complication should
+follow ESC Guidelines, with additional management of the CRS
+(e.g. the anti-interleukin-6 receptor antibody, tocilizumab, and
+dexamethasone).381
+Recovery of function
+MDT
+(Class I)
+N
+Diagnosis and management workup in patients with cancer-r related Ta
+T kotsubo synd
+k
+rome
+AND
+Coronary angiography
+(invasive or CCTA)
+T
+to exclude ACS
+(Class I)
+CMR
+to exclude myocarditis and
+myocardial infarction
+(Class I)
+AND
+Y
+Clinical evaluation
+ECG
+TTE
+Cardiac serum biomarkers
+k
+AND
+Interruption of the
+culprit cancer drug
+(Class I)
+Av
+A oid QT-p
+T rolonging
+drugs
+(Class III)
+Consider resuming cancer
+treatment under close
+monitoring
+(Class I)
+MDT approach regarding
+interruption vs resuming
+the culprit cancer drug
+For ICI-related TTS:
+methylprednisolone 
+(1000 mg i.v.)
+v
+AND
+CCU/HDU/ICU admission
+ECG monitoring
+Figure 29 Diagnosis and management workup in cancer-related Takotsubo syndrome. ACS, acute coronary syndromes; CCTA, coronary computed
+tomography angiography; CCU, coronary care unit; CMR, cardiac magnetic resonance; ECG, electrocardiogram; HDU, high-dependency unit; ICI, im-
+mune checkpoint inhibitor; ICU, intensive care unit; i.v., intravenous; MDT, multidisciplinary team; N, no TTE, transthoracic echocardiography; TTS,
+Takotsubo syndrome; Y, yes.
+4290
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 63 ===
+
+Although CV complications are common with TIL therapies, sur-
+vival does not appear to be signiﬁcantly affected. The most frequent
+CV events are hypotension that may require treatment with i.v. ﬂuids
+and pressors, AF, and to a lesser extent, cTn elevation suggestive of
+myocardial damage.380 Further research is needed to deﬁne mechan-
+isms and potential prevention strategies to help clinicians with the
+management of these CV events.
+6.1.5. Heart failure during haematopoietic stem cell
+transplantation
+CV complications during HSCT, including congestive HF,456 arterial
+events, tamponade, and rhythm disturbances (AF, atrial ﬂutter, and
+supraventricular tachycardia),457 are uncommon but clinically rele-
+vant, and should be treated as per speciﬁc ESC Guidelines (HF,14 ta-
+chyarrhythmias,273,441 pericardial effusion,444 or acute coronary
+syndrome458). Studies of treatments during HSCT to prevent both
+acute and late CV toxicity are limited.145 ACE-I and beta-blockers
+may
+be
+effective,
+but
+this
+requires
+further
+conﬁrmation.
+Outpatient and home-based exercise and education programmes in-
+stituted after HSCT can improve exercise capacity and quality of
+life,459 and the role of exercise pre-habilitation prior to HSCT is
+being investigated.460,461
+6.1.6. Takotsubo syndrome and cancer
+The prevalence of malignant diseases is high in patients with TTS
+and is a risk factor for worse outcomes. Malignancy itself, some
+cancer treatments (5-FU, ICI, VEGFi), and the stress associated
+with the diagnosis, investigations, and treatment are recognized
+triggers or predisposing factors for TTS.462–466 Diagnosis using
+general TTS criteria is recommended.467,468 Investigations in a pa-
+tient with cancer with suspected TTS should include clinical exam-
+ination, ECG, TTE, cardiac biomarkers (cTn and NP), and CMR
+(Figure 29).468,469 Most patients require invasive coronary angiog-
+raphy to exclude acute MI. In patients with advanced malignancy or
+signiﬁcant thrombocytopaenia where invasive coronary angiog-
+raphy is contraindicated, a CCTA is recommended. Cardiac im-
+aging studies should be performed as early as possible when the
+diagnosis is suspected as LVD can be transient, and if signiﬁcant
+LVD is detected then repeat imaging to conﬁrm recovery is
+recommended.
+Interruption of the culprit cancer drug in patients with TTS is re-
+commended. QT-prolonging drugs should be avoided.467 In cases of
+ICI-associated TTS, the role of immunosuppression is unknown and
+if myocardial inﬂammation is present in a TTS pattern on CMR then
+i.v. methylprednisolone is recommended given the overlap between
+ICI-induced TTS and ICI-induced myocarditis. Limited information
+exists regarding the feasibility of ICI rechallenge following TTS and
+after recovery of LV function.
+A MDT discussion is recommended after recovery from the
+acute phase of TTS and, if restarting the culprit cancer drug is re-
+quired from an oncology perspective, regular cardiac biomarker
+monitoring is recommended (e.g. cTn and NP measured before
+every ICI cycle, and TTE if a new rise in cardiac biomarkers occurs)
+(Figure 29).
+6.2. Coronary artery disease
+6.2.1. Acute coronary syndromes
+Patients with cancer are at increased risk of CAD because of shared
+CVRFs34 and CV toxicity of cancer therapy12 compounded by a
+cancer-induced
+pro-inﬂammatory
+and
+prothrombotic
+state
+(Table 7).467,468,470–473
+Current knowledge on ACS in patients with cancer is based on
+observational data and registries demonstrating that, especially
+when diagnosed within 1 year, they are at increased risk for major
+CV events, bleeding, and cardiac and non-cardiac mortality.474–480
+The proportion of ACS patients with a diagnosis of cancer is rising
+and constitutes about 3% of large series.475
+Diagnosis of ACS is based on the same principles as in patients
+without cancer, including symptoms, an early 12-lead ECG, and serial
+measurements of hs-cTn for patients presenting with possible
+non-ST-segment elevation ACS (NSTE-ACS).458 Clinical presenta-
+tion can be atypical481 or masked by cancer or therapy-related
+side effects; therefore, diagnostic suspicion should be increased in pa-
+tients at high CV risk or treated with vascular cardiotoxic therapies
+Recommendation Table 27 — Recommendations for
+the diagnosis and management of Takotsubo syn-
+drome in patients with cancer
+Recommendations
+Classa
+Levelb
+Coronary angiography (invasive or CCTA) is
+recommended to exclude ACS.
+I
+C
+CMR is recommended to exclude myocarditis and
+MI.458
+I
+B
+QT-prolonging drugs are not recommended
+during the acute TTS phase.c
+III
+C
+© ESC 2022
+ACS, acute coronary syndromes; CMR, cardiac magnetic resonance; CCTA, coronary
+computed tomography angiography; LV, left ventricular; MI, myocardial infarction;
+QTc, corrected QT interval; TTS, Takotsubo syndrome.
+aClass of recommendation.
+bLevel of evidence.
+cUntil full recovery and normalization of LV function and QTc.
+Table 7
+Cancer treatments that predispose to acute
+coronary syndromes
+Accelerated atherosclerosis
+and plaque rupture
+ADT (GnRH agonists), ICI, nilotinib,
+ponatinib, radiation therapy, VEGFi
+Vasospasm
+Bleomycin, ﬂuoropyrimidines, taxanes,
+VEGFi, vinca alkaloids
+Coronary thrombosis
+Alkylating agents (cisplatin,
+cyclophosphamide), erlotinib, ICI, IMiD
+(lenalidomide, thalidomide), monoclonal
+antibodies (VEGFi, anti-CD20), nilotinib,
+platinum chemotherapy, PI, ponatinib,
+VEGFi.
+© ESC 2022
+ADT, androgen deprivation therapy; GnRH, gonadotropin-releasing hormone; ICI,
+immune checkpoint inhibitors; IMiD, immunomodulatory drugs; PI, proteasome
+inhibitors; VEGFi, vascular endothelial growth factor inhibitors.
+ESC Guidelines
+4291
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 64 ===
+
+(Table 7). Echocardiography improves the diagnostic precision in pa-
+tients with atypical symptoms and assesses for other cardiac causes
+of chest pain.
+Management of ACS in patients with cancer can be challenging be-
+cause of frailty, increased bleeding risk, thrombocytopaenia, increased
+thrombotic risk, and the possible need for future surgery/interven-
+tions.482 Cancer treatment should be temporarily interrupted, and
+an urgent multidisciplinary approach5 is indicated to plan an individua-
+lized guideline-based management, taking into account cancer status,
+prognosis, and the patient’s preferences regarding invasive manage-
+ment. As in patients without cancer, admission to a monitored unit
+and initiation of appropriate anti-ischaemic and antithrombotic treat-
+ment are indicated, in the absence of contraindications.
+A large retrospective propensity score-matching analysis
+found that percutaneous coronary intervention (PCI), despite
+its lower use, was strongly associated with lower adjusted
+MACE
+and
+all-cause
+mortality
+in
+patients
+with
+cancer
+(Hodgkin and non-Hodgkin lymphomas and breast, lung, colon,
+and prostate cancers).483 Therefore, immediate coronary angi-
+ography and PCI are recommended in patients with cancer
+and ACS if cancer prognosis is ≥6 months or if they have acute
+complications of ACS (cardiogenic shock, pulmonary oedema,
+ventricular tachyarrhythmias), where PCI offers palliation of
+symptoms.483
+When
+stenting
+is
+indicated,
+third-generation
+drug-eluting stents are preferred because of the lower risk of
+in-stent thrombosis. Balloon angioplasty is associated with
+worse outcome474 and should only be used in case of severe
+thrombocytopaenia or need for urgent surgery. Fractional
+ﬂow reserve or instantaneous free wave ratio are advised by
+experts484 to avoid unnecessary interventions while intravascu-
+lar ultrasound and optical coherence tomography can be used
+to ensure optimal stent apposition and expansion, to avoid
+thrombotic complications.485
+Retrospective data have demonstrated a lower use of invasive
+management in patients with cancer with ST-segment elevation MI
+(STEMI), with a better outcome for invasively treated pa-
+tients.475,480,483 PCI has not demonstrated a mortality beneﬁt in pa-
+tients with advanced cancer and NSTE-ACS compared with optimal
+medical therapy.479 Therefore, a non-invasive approach can be at-
+tempted in low-risk (without signs or symptoms of ongoing ischae-
+mia or haemodynamic instability) NSTE-ACS patients with poor
+cancer prognosis (,6 months).
+Due to a potentially higher bleeding risk (especially in patients with
+active GI cancer),477 the preferred antithrombotic strategy after
+drug-eluting stent consists of DAPT with aspirin and clopidogrel in-
+stead of newer P2Y12 antagonists. The duration of DAPT should be
+kept as short as possible (1–3 months).458 In patients with need for
+therapeutic anticoagulation and antiplatelet therapy, a NOAC and
+single oral antiplatelet (preferably clopidogrel) is the default strategy
+after a short period of triple antithrombotic therapy (up to 1 week in
+hospital).458 Coronary artery bypass graft (CABG) surgery can be
+considered in patients with extensive CAD who are not amenable
+with PCI, after MDT discussion and where cancer prognosis is
+.12 months.
+Thrombocytopaenia (platelet count , 100 000/µL) is present in
+about 10% of patients with cancer and may complicate ACS manage-
+ment. Based on a small series, coronary angiography can be safely per-
+formed in these patients when preventative measures to avoid
+bleeding are taken: platelet transfusion before catheterization (for
+platelets ,20 000/µL), radial access, careful haemostasis, and
+the use of a lower heparin dose (30–50 U/kg).486 Antiplatelets should
+not be withheld unless platelet count is ,10 000/µL for aspirin or
+,30 000/µL for clopidogrel. For PCI and CABG, experts advise min-
+imum platelet counts of 30 000/µL and 50 000/µL, respectively.484
+In case of MI with non-obstructive coronary arteries, CMR may be
+considered to detect other causes of myocardial injury, especially
+myocarditis and TTS.
+When acute ischaemia is provoked by cancer therapy, alternative
+cancer therapies should be considered after a MDT discussion. In the
+case of coronary vasospasm secondary to ﬂuoropyrimidines, and in
+the absence of an alternative therapy, a rechallenge, although contro-
+versial, can be considered in a monitored unit after exclusion of se-
+vere CAD (CT or coronary angiography) and after initiation of
+prophylactic therapy with long-acting nitrates and calcium channel
+blockers (CCB).487–489
+Following ACS, a review of the cancer medications is recom-
+mended, and any cancer drug associated with thrombosis and MI
+should be stopped. Restarting cancer drugs associated with acute
+thrombosis and MI after ACS (Table 7) should occur only after a
+MDT to explore other cancer therapies, with appropriate patient
+education and consent. Cancer therapies not associated with MI
+can be restarted once revascularization, where indicated, has been
+completed and the patient is stabilized on ACS medical therapy with-
+out complications.
+Recommendation Table 28 — Recommendations for
+the management of acute coronary syndromes in pa-
+tients receiving anticancer treatment
+Recommendations
+Classa
+Levelb
+An invasive strategy is recommended in patients
+with cancer presenting with STEMI or high-risk
+NSTE-ACS with life expectancy ≥6
+months.475,479,483
+I
+B
+A conservative non-invasive strategy should be
+considered in patients with poor cancer
+prognosisc (with life expectancy ,6 months) and/
+or very high bleeding risk presenting with STEMI
+or NSTE-ACS.479
+IIa
+C
+A temporary interruption of cancer therapy is
+recommended in patients where the cancer
+therapy is suspected as a contributing
+cause.d,10,490
+I
+C
+A short DAPT strategy should be considered in
+patients with cancer with very high bleeding risk
+treated with PCI for an ACS.e
+IIa
+C
+Continued
+4292
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 65 ===
+
+6.2.2. Chronic coronary syndromes
+Several cancer treatments are associated with an increased risk of
+stable angina and chronic coronary syndromes (CCS).491 5-FU and
+capecitabine can precipitate effort angina in some cases.4,482,492
+Platinum-containing chemotherapy-induced ischaemia usually occurs
+after one of the ﬁrst three cycles and in patients with underlying
+CAD.493 The incidence of cardiac ischaemia is 1–5% with antimicro-
+tubule agents, 2–3% with small-molecule VEGF-TKI, and 0.6–1.5%
+with VEGFi monoclonal antibody therapies.492 Nilotinib, ponati-
+nib,494 and ICI335 also accelerate atherosclerosis, which can lead to
+stable angina.
+Patients receiving cancer therapy who present with new stable an-
+gina should have careful clinical evaluation, with aggressive CVRF
+modiﬁcation and an initial medical management of their symp-
+toms.484 The diagnosis and management of CAD should follow the
+2019 ESC Guidelines for the diagnosis and management of chronic
+coronary syndromes.100
+The management of CCS is similar in patients with and with-
+out cancer, in accordance with guideline recommendations.100
+However, in the setting of CCS, decisions regarding coronary
+revascularization should be undertaken by a MDT that includes
+cardio-oncology, intervention, and oncology specialists.5 PCI in
+patients with cancer is associated with an increased risk of
+bleeding, 90-day readmissions for acute MI, in-hospital and long-
+term mortality, and the need for repeat revascularization, with
+the magnitude of risk depending on both cancer type and
+stage.495,496 The excess bleeding risk should be mitigated by
+keeping the duration of DAPT as short as possible.497,498 The
+risk is higher in patients with a cancer diagnosis within the pre-
+ceding year.477
+6.3. Valvular heart disease
+New or worsening VHD in patients with cancer may be related
+to coexisting conditions, including CTRCD, ACS, PH, endocarditis,
+cardiac tumours, and mechanical prosthetic valve thrombosis.499,500
+Pre-existing severe VHD is associated with an increased risk of
+CTRCD,12,501–503 and may also pose a risk for cancer surgery out-
+comes. In patients with mechanical prosthetic valves, the risk of
+thrombosis vs. bleeding should be carefully balanced during chemo-
+therapy treatment. In patients with severe VHD diagnosed at base-
+line assessment, a MDT is required before cancer therapy to
+decide the best treatment option. Cardiac surgery is frequently chal-
+lenging in patients with cancer because of comorbidities, frailty, me-
+diastinal ﬁbrosis due to prior RT, impaired wound healing, and the
+need for urgent oncology treatment (surgery, chemotherapy, tar-
+geted cancer therapies that effect wound healing). Transcatheter
+aortic valve implantation (TAVI) may be a viable option for patients
+with cancer with severe aortic stenosis to limit recovery time and de-
+lays in starting cancer treatment.504–506
+Patients with cancer suspected of new or worsening VHD, such as
+dyspnoea or a new cardiac murmur, or those with fever and positive
+blood cultures, should be screened for endocarditis and managed ac-
+cording to the recommendations from the 2021 ESC/European
+Association for Cardio-Thoracic Surgery (EACTS) Guidelines for
+the management of VHD,507 while considering the cancer-related
+prognosis. If valve surgery or percutaneous valve treatment is indi-
+cated in a patient receiving cancer treatment, then a MDT is recom-
+mended regarding type of valve treatment and periprocedural
+management of cancer treatments.
+In patients with cancer, thrombocytopaenia,
+and ACS, aspirin is not recommended if platelets
+,10 000/µL.
+III
+C
+In patients with cancer, thrombocytopaenia, and
+ACS, clopidogrel is not recommended if platelets
+,30 000/µL and prasugrel or ticagrelor are not
+recommended if platelets ,50 000/µL.
+III
+C
+Ticagrelor or prasugrel may be considered in
+patients with cancer with low bleeding risk and
+excessive thrombotic risk who are treated with
+PCI for ACS.
+IIb
+C
+© ESC 2022
+ACS, acute coronary syndromes; CrCl, creatinine clearance; CV, cardiovascular; DAPT,
+dual
+antiplatelet
+therapy;
+GI,
+gastrointestinal;
+GU,
+genitourinary;
+NSTE-ACS,
+non-ST-segment elevation acute coronary syndromes; PCI, percutaneous coronary
+intervention; STEMI, ST-segment elevation myocardial infarction; ULN, upper limit of
+normal.
+aClass of recommendation.
+bLevel of evidence.
+cRelated to advanced cancer stage and/or severe irreversible non-CV comorbidities.
+dAnticancer therapies associated with high risk of ACS (very common [.10%]):
+capecitabine, paclitaxel, cisplatin, carﬁlzomib, bevacizumab, ramucirumab, aﬂibercept,
+axitinib, sorafenib, pazopanib, cabozantinib, lenvatinib, ponatinib, erlotinib.
+eHigh risk of GI or GU bleeding, signiﬁcant drug–drug interactions, severe renal
+dysfunction (CrCl , 30 mL/min), signiﬁcant liver disease (alanine aminotransferase/
+aspartate aminotransferase .2 × ULN), or signiﬁcant thrombocytopaenia (platelet
+count , 50 000/µL).
+Recommendation Table 29 — Recommendation for
+the management of chronic coronary syndromes in
+patients receiving anticancer treatment
+Recommendation
+Classa
+Levelb
+Individualized duration of DAPT is recommended
+in patients with cancer with CCS, following
+revascularization, based upon thrombotic/
+ischaemic and bleeding risk, type and stage of
+cancer, and current cancer treatment.100,498
+I
+C
+© ESC 2022
+CCS, chronic coronary syndromes; DAPT, dual antiplatelet therapy.
+aClass of recommendation.
+bLevel of evidence.
+Recommendation Table 30 — Recommendations for
+the management of valvular heart disease in patients
+receiving anticancer treatment
+Recommendations
+Classa
+Levelb
+In patients with cancer and pre-existing severe
+VHD, management according to the 2021 ESC/
+EACTS Guidelines for the management of VHD is
+recommended, taking into consideration cancer
+prognosis and patient preferences.507
+I
+C
+Continued
+ESC Guidelines
+4293
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 66 ===
+
+6.4. Cardiac arrhythmias
+6.4.1. Atrial ﬁbrillation
+AF may occur in patients with cancer in different settings: it may be a
+marker of cancer type or occult cancer, or it may develop in patients
+undergoing surgery, chemotherapy, or RT.508,509 All types of cancer
+show an increased risk of AF compared with the control group, but
+the risk of AF depends on the cancer type and stage.510,511 AF during
+a cancer treatment may be caused by a speciﬁc therapy or interaction
+with a pre-existing substrate in older patients with cancer.
+During cancer therapy AF may occur with a frequency ranging
+from 2% to 16%, according to a variety of factors,4,490,508,512–514
+and may present either as ﬁrst-diagnosed AF or as recurrence of par-
+oxysmal AF. The risk of developing AF is greater in patients older
+than 65 years and/or with pre-existing CVD.4,509,512,515 Cancer sur-
+gery is associated with a variable rate of AF occurrence, with the
+highest incidence reported for lung surgery, ranging from 6% to
+32%, but with occurrence also in cases of non-thoracic surgery
+(e.g. 4–5% after colectomy).509
+Many anticancer drugs have been associated with an increased risk
+of AF both in terms of incident and recurrent AF (Supplementary
+data, Table S18).251 AF may occur shortly after treatment516 or
+weeks or months after starting treatment.517,518 The pathophysi-
+ology of AF associated with cancer is complex and has been exten-
+sively reviewed elsewhere (Figure 30).509
+In patients with cancer, the occurrence of AF is associated with a
+two-fold higher risk of systemic thromboembolism/stroke and a six-
+fold increase in the risk of HF.4,509,512 The coexistence of cancer in-
+creases the risk of all-cause mortality, major bleeding, and intracranial
+haemorrhage in patients with AF. The association between cancer
+and ischaemic stroke differs between cancer types, and in some
+types, the risk of bleeding seems to exceed the thromboembolic
+risk.519 The management of AF in patients with cancer should follow
+the 2020 ESC Guidelines for the diagnosis and management of atrial
+ﬁbrillation273 and the ‘ABC pathway’ (Atrial ﬁbrillation Better Care)
+approach should be applied (A: Anticoagulation to avoid stroke/sys-
+temic embolism, B: Better symptom control with rate- and/or
+rhythm-control drugs and interventions, and C: Comorbidities and
+CVRF management, including lifestyle changes).273,520
+The acute management of AF in patients with cancer should con-
+sider electrical cardioversion in cases of haemodynamic instability,521
+while in others, the alternative between rate and rhythm control has
+several important considerations speciﬁc to patients with cancer.
+Drugs for rhythm control may lead to QT-interval prolongation,369
+frequently have drug–drug interactions with cancer therapies, or
+may have a limited efﬁcacy if a cancer therapy is the speciﬁc cause
+of the AF.508 Among rate-control drugs, beta-blockers are preferred,
+especially if the cancer therapies have potential CTRCD risk, where-
+as diltiazem and verapamil should be avoided where possible due to
+their drug–drug interactions and negative inotropic effects.508 The
+possibility of AF ablation should be discussed in selected patients
+with HF/LVD and/or uncontrolled symptoms, taking into consider-
+ation cancer status and prognosis in the context of a MDT
+approach.522
+A complex issue in patients with cancer with new AF is risk strati-
+ﬁcation for stroke/systemic embolism, which according to guidelines,
+should be based on the CHA2DS2-VASc score (Congestive heart fail-
+ure, Hypertension, Age ≥75 years [2 points], Diabetes mellitus,
+Stroke [2 points]—Vascular disease, Age 65–74 years, Sex category
+[female]).273,523,524 The CHA2DS2-VASc score has not been exten-
+sively validated in patients with cancer.525 In a large cohort of patients
+with AF, the predictive value of the CHA2DS2-VASc score was lower
+in patients with cancer than in those without, but a progressive in-
+crease
+in
+the
+risk
+of
+ischaemic
+stroke
+according
+to
+the
+CHA2DS2-VASc score was also found in AF patients with cancer
+(from 0.9% per year to 8.9% per year).519 However, the scope of
+this score is not to identify high-risk patients, but rather to identify
+low-risk individuals in whom anticoagulation can be avoided. A study
+based on the Danish healthcare system data set found that
+CHA2DS2-VASc scores of 0 and 1 in patients with recent cancer
+were linked with higher risk of stroke/thromboembolism at 2 years
+than in patients without recent cancer.526 This concept should be
+considered in deﬁning the risk/beneﬁt ratio of anticoagulation in indi-
+vidual patients with cancer. Therefore, the decision for anticoagula-
+tion in patients with an active malignancy should take into account
+the enhanced thrombotic and/or bleeding risk and other risk predic-
+tion scores used for general AF populations.509 For bleeding risk as-
+sessment, the HAS-BLED (Hypertension, Abnormal renal and liver
+function, Stroke, Bleeding Labile international normalized ratio,
+Elderly, Drugs or alcohol) score may be considered. A proposed ap-
+proach to anticoagulation therapy in cancer, based on the acronym T
+(thrombotic risk), B (bleeding risk), I (interactions among drugs), P
+(patient access and preferences), is outlined in Figure 31.519,527
+Long-term anticoagulation is recommended in adult patients with
+CHA2DS2-VASc score ≥2 in men or ≥3 in women and must be con-
+sidered also when the score is 1 in men and 2 in women.273 The clin-
+ical pattern of AF (i.e. ﬁrst detected, paroxysmal, persistent,
+long-standing persistent, permanent, post-operative) should not in-
+ﬂuence the indication of thromboprophylaxis.273 The same approach
+can be proposed for patients with cancer and AF, also considering
+that the CHA2DS2-VASc score likely underestimates their thrombo-
+embolic risk.530 In the speciﬁc setting of cancer, decision-making on
+long-term oral anticoagulation should also consider the cancer-
+related type, stage, prognosis and the potentially changing thrombo-
+embolic or bleeding risk.508,509 The use of vitamin K antagonists
+(VKA) in cancer is limited by their drawbacks in this setting; however,
+they remain the only indicated anticoagulants in patients with mod-
+erate to severe mitral stenosis or a mechanical prosthetic valve.
+LMWH constitute a viable short-term anticoagulation option, par-
+ticularly in hospitalized patients with a recent cancer diagnosis, ad-
+vanced cancer disease, or during some cancer treatments (e.g.
+In patients with cancer developing new VHD
+during cancer therapy, management according to
+the 2021 ESC/EACTS Guidelines for the
+management of VHD507 is recommended, taking
+into consideration cancer prognosis and patient
+comorbidities.
+I
+C
+© ESC 2022
+EACTS, European Association for Cardio-Thoracic Surgery; ESC, European Society of
+Cardiology; VHD, valvular heart disease.
+aClass of recommendation.
+bLevel of evidence.
+4294
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 67 ===
+
+patients receiving myelosuppressive chemotherapy or with recent
+active bleeding). However, LMWH efﬁcacy for stroke or systemic
+embolism prevention in AF has not been established and their
+use is only based on their proven efﬁcacy and safety in VTE. The
+use of a NOAC for AF has not been evaluated in a dedicated
+RCT in patients with cancer. However, secondary analyses of sem-
+inal NOAC trials using direct factor Xa inhibitors (ROCKET AF
+[Rivaroxaban Once Daily Oral Direct Factor Xa Inhibition
+Compared
+with
+Vitamin
+K
+Antagonism
+for
+Prevention
+of
+Stroke and Embolism Trial in Atrial Fibrillation], ARISTOTLE
+[Apixaban for Reduction in Stroke and Other Thromboembolic
+Events in Atrial Fibrillation], ENGAGE AF-TIMI 48 [Effective
+Anticoagulation with Factor Xa Next Generation in Atrial
+Fibrillation–Thrombolysis in Myocardial Infarction 48]) and obser-
+vational data suggest better safety and at least similar effectiveness
+of the NOAC when compared with VKA in patients with AF and
+active cancer.531–538 NOAC use in cancer is limited by drug–drug
+interactions,508 severe renal dysfunction, increased risk of bleeding
+in patients with unoperated or residual GI or genitourinary (GU)
+malignancies, or impaired GI absorption.
+Left atrial appendage (LAA) occluder devices are used in very se-
+lected patients with cancer in clinical practice. The potential
+Pathophysiology of AF associated with cancer
+AF
+in cancer
+Ageing
+CV and metabolic
+comorbiditiesb
+Anticancer
+treatmentsa
+Cancer
+invasion
+Cancer
+surgery
+Inflammation
+Hypoxia
+ANS imbalance
+Paraneoplastic
+manifestations
+Figure 30 Pathophysiology of atrial ﬁbrillation associated with cancer. AF, atrial ﬁbrillation; ANS, autonomic nervous system; CV, cardiovascular; DM,
+diabetes mellitus; HF, heart failure; IHD, ischaemic heart disease; VHD, valvular heart disease. aSupplementary data, Table S18. bObesity, hypertension,
+DM, CVDs (HF, VHD, IHD, cardiomyopathies, cardiac amyloidosis), thyroid diseases, obstructive sleep apnoea, chronic obstructive pulmonary disease,
+chronic kidney disease, autonomic dysfunction, alcohol consumption, genetic predisposition.
+ESC Guidelines
+4295
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 68 ===
+
+Thrombocytopaenia
+GI/GU cancer, GI comorbidities, or GI toxicity
+Recent or evolving intracranial lesions
+Active bleeding or recent major bleeding
+Severe renal dysfunction (eGFR <30 mL/min/1.73 m 2)
+Bleeding risk scores (e.g., HAS-BLED)
+Assess Bleeding risk:
+Cancer-related risk (cancer type and stage, cancer treatment)
+CHA2DS2-VASc score for risk stratiﬁcation (Class IIa)
+a
+Assess Thromboembolic risk:
+Anticancer agents
+Supportive therapies
+Assess drug-drug Interactions (P-glycoprotein, CYP3A4):
+Assess Patient preferences and drug availability
+T
+B
+I
+P
+Thromboembolic and
+bleeding risk reassessment
+(Class I)
+Very high bleeding riskb
+Type of anticoagulant
+treatment
+LAA oclusionc
+(Class IIb)
+LMWH
+(Class IIa)
+Moderate/severe mitral stenosis
+or mechanical prosthetic valve
+Patients suitable
+for NOACd
+N
+N
+Structured approach to anticoagulation for AF in patients with cancer
+No anticoagulation
+Y
+VKA
+(Class IIa)
+Y
+NOAC
+(Class IIa)
+Y
+Long-term anticoagulation
+according to CHA2DS2-VASc score
+≥2 (men) or ≥3 (women) (Class I)
+1 (men) or 2 (women) (Class IIa)
+ 0 (men) or 1 (women) (Class IIb)
+N
+Figure 31 Structured approach to anticoagulation for atrial ﬁbrillation in patients with cancer. AF, atrial ﬁbrillation; CHA2DS2-VASc, Congestive heart
+failure, Hypertension, Age ≥75 years (2 points), Diabetes mellitus, Stroke (2 points)—Vascular disease, Age 65–74 years, Sex category (female); CrCl,
+creatinine clearance; eGFR, estimated glomerular ﬁltration rate; GI, gastrointestinal; GU, genitourinary; HAS-BLED, Hypertension, Abnormal renal and
+liver function, Stroke, Bleeding Labile international normalized ratio, Elderly, Drugs or alcohol; LA, left atrial; LAA, left atrial appendage; LMWH,
+low-molecular-weight heparins; N, no; NOAC, non-vitamin K antagonist oral anticoagulant; VKA, vitamin K antagonists; Y, yes. aIn selected patients, car-
+diac imaging parameters related to increased thromboembolic risk should be considered (LAA thrombus, severely dilated left atrium, severely impaired
+LA strain528). bVery high bleeding risk: active or recent major bleeding (,1 month previously); recent/evolving intracranial lesions; platelet count ,25
+000/µL. According to the International Society on Thrombosis and Haemostasis,529 major bleeding is deﬁned as a fall in haemoglobin level ≥2 g/dL and/or
+transfusion of ≥2 units of red blood cells and/or fatal bleeding and/or bleeding in a critical area (intracranial, intraspinal, intraocular, pericardial,
+intra-articular, intramuscular with compartment syndrome, or retroperitoneal). cPercutaneous left appendage closure may be considered in pa-
+tients with a life expectancy of .1 year who are at high thromboembolic and bleeding risk and in whom anticoagulation is contraindicated. dConditions
+favouring LMWH: unoperated GI/GU cancer; GI comorbidities or toxicity; severe renal dysfunction (CrCl , 15 mL/min); NOAC major drug–drug
+interactions, platelet count ,50 000/µL.
+4296
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 69 ===
+
+complications related to the implant—including device-related throm-
+bosis—and the lack of prospective data in the setting of patients with
+cancer have to be taken into consideration for this option. In a recent
+retrospective analysis of patients referred to LAA occlusion the risk of
+in-hospital ischaemic stroke/transient ischaemic attack was higher in
+patients with active cancer than in those with no cancer or prior his-
+tory of cancer. The rate of in-hospital composite outcome (in-hospital
+death, ischaemic stroke/transient ischaemic attack, systemic embolism,
+bleeding requiring blood transfusion, pericardial effusion/cardiac tam-
+ponade treated with pericardiocentesis or surgically, and removal of
+embolized device) and 30-day/180-day readmission outcomes were
+not signiﬁcantly different between the groups.539
+The onset of AF may be related to transient factors, such as the
+peri-operative period or the effect of drugs known to facilitate AF
+onset. The traditional assumption that in these cases, AF may occur
+as an isolated event without recurrence may not be valid as the oc-
+currence of AF may often be related to a pre-existing atrial substrate
+with vulnerability to AF.540 Post-operative AF has been associated
+with a four- to ﬁve-fold risk of AF recurrence in the following 5 years,
+along with a comparable long-term thromboembolic risk with AF not
+related to surgery.273,540,541 Anticoagulation therapy yielded a simi-
+larly lower risk of thromboembolic events and all-cause death in
+both groups.541 In the absence of direct evidence, anticoagulation
+to prevent thromboembolic events should be considered in patients
+at risk for stroke with AF after cancer surgery considering the antici-
+pated net clinical beneﬁt and informed patient preferences.273
+Similarly, in patients with AF apparently related to transient factors
+—such as chemotherapy, other drugs, or electrolyte disturbances
+—a careful clinical assessment of the propensity to further develop
+AF is recommended, with need to revisit the risk/beneﬁt ratio of
+long-term prescription of anticoagulation after a period of 3 months.
+In patients with cancer and newly detected or recurrence of AF, de-
+cision making on anticancer treatment requires a cardio-oncology MDT
+management,5 taking into account that neither the presence nor the risk
+of AF constitutes contraindications to anticancer treatment.508,517
+Recommendation Table 31 — Recommendations for
+the management of atrial ﬁbrillation in patients re-
+ceiving anticancer treatment
+Recommendations
+Classa
+Levelb
+CHA2DS2-VASc score should be considered for
+risk stratiﬁcation for stroke/systemic
+thromboembolism taking into account that it may
+underestimate the actual thromboembolic
+risk.519,526
+IIa
+C
+Long-term anticoagulation is recommended for
+stroke/systemic thromboembolism prevention in
+patients with cancer with AF and a
+CHA2DS2-VASc score ≥2 (men) or ≥3 (women)
+as per the 2020 ESC Guidelines for the diagnosis
+and management of atrial ﬁbrillation.273
+I
+C
+Continued
+Long-term anticoagulation should be considered
+for stroke/systemic thromboembolism
+prevention in patients with cancer with AF and a
+CHA2DS2-VASc score = 1 (men) or = 2
+(women) as per the 2020 ESC Guidelines for the
+diagnosis and management of atrial ﬁbrillation.273
+IIa
+C
+Patients with cancer,c AF, and CHA2DS2-VASc
+score 0 (men) or 1 (women) may have a higher
+thrombotic risk than patients without cancer and
+may be considered for therapeutic anticoagulation
+after consideration of the bleeding risk.526
+IIb
+C
+Thromboembolic and bleeding risk reassessment
+is recommended during follow-up in patients with
+cancer with AF.d,273
+I
+C
+NOAC should be considered for stroke
+prevention in preference to LMWH and VKA
+(excluding patients with mechanical heart valves
+or moderate-to-severe mitral stenosis) in patients
+without a high bleeding risk, signiﬁcant drug–drug
+interactions, or severe renal dysfunction.531–537
+IIa
+B
+LMWH should be considered in patients with
+active cancere and AF who are not suitable for
+NOACf.525
+IIa
+C
+LAA occlusion may be considered for stroke
+prevention in patients with cancer with AF and
+contraindications for long-term anticoagulation
+with a life expectancy .12 months.273,539
+IIb
+C
+Antiplatelet therapy or prophylactic LMWH are
+not recommended for stroke or systemic
+thromboembolism prevention in AF with
+cancer.273
+III
+C
+Heart rate control strategy, preferably with
+beta-blockers, should be considered in patients
+who develop well-tolerated AF while they are
+receiving active cancer treatmentg.
+IIa
+C
+© ESC 2022
+5-FU, 5-ﬂuorouracil; AF, atrial ﬁbrillation; BMI, body mass index; CHA2DS2-VASc,
+Congestive heart failure, Hypertension, Age .75 years (2 points), Diabetes mellitus,
+Stroke (2 points)—Vascular disease, Age 65–74 years, Sex category (female); CrCl,
+creatinine clearance; eGFR, estimated glomerular ﬁltration rate; EGFR, epidermal
+growth factor receptor; ESC, European Society of Cardiology; HF, heart failure; LAA,
+left atrial appendage; LMWH, low-molecular-weight heparins; LV, left ventricular;
+MM, multiple myeloma; NOAC, non-vitamin K antagonist oral anticoagulants; VKA,
+vitamin K antagonists.
+aClass of recommendation.
+bLevel of evidence.
+cFactors that may increase thromboembolic risk in patients with cancer including
+comorbidities (proteinuria . 150 mg/24 h, eGFR, 45 mL/min/1.73 m2, BMI ≥30 kg/m2,
+thrombophilia), cancer type (pancreatic, gastric, ovarian, brain, lung, MM), cancer stage
+(metastatic disease) anticancer therapies: alkylating agents, aﬂibercept, bevacizumab,
+anthracyclines,
+capecitabine,
+5-FU,
+gemcitabine,
+methotrexate,
+EGFR
+inhibitors,
+bleomycin, axitinib, lenvatinib, pazopanib, sorafenib, sunitinib, carﬁlzomib, irinotecan,
+taxanes, tasonermin, tretinoin.
+dStroke and bleeding risk may change during both cancer treatment and the course of the
+underlying disease; reassessment is important to inform treatment decisions and address
+potentially modiﬁable bleeding risk factors.
+ePatients receiving cancer treatment, patients diagnosed with cancer in the past 6 months,
+and patients with progressive or advanced disease.
+fHigh bleeding risk, severe renal dysfunction (CrCl, 15 mL/min); NOAC major drug–drug
+interactions.
+gAsymptomatic or mild symptomatic patients without HF signs or symptoms or
+deterioration of LV function. The optimal heart rate target in AF patients is unclear. A
+resting heart rate ,110 bpm (i.e. lenient rate control) should be considered as the
+initial heart rate target for rate control therapy. A review of rate vs. rhythm strategy
+should be made at the end of cancer treatment.273
+ESC Guidelines
+4297
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 70 ===
+
+6.4.2. Long corrected QT interval and ventricular
+arrhythmias
+VA are not common during cancer, although their incidence in-
+creases in patients with advanced cancer and CV comorbid-
+ities.49,259,516,542
+Mechanisms
+proposed
+to
+explain
+cancer
+therapy-induced VA include: (1) direct effects of cancer drugs on
+the activity/expression of ionic channels that regulate the ventricular
+action potential,4,369,442,516,542,543 and (2) a permanent arrhythmo-
+genic substrate created by cancer and systemic inﬂammation caused
+by
+cancer,
+pre-existing
+CV
+comorbidities,
+and/or
+a
+new
+CTR-CVT.4,9,259,369,442,516,542,543
+Treatment of cancer therapy-induced VA should follow general
+clinical guidelines.22,442,544 In patients with asymptomatic self-
+terminating VA, drug discontinuation is not required unless they
+have
+additional
+CVRF
+or
+persistent
+ECG
+abnormalities.270
+Symptomatic VA require cancer drug dose reduction or discontinu-
+ation and patients should be referred to the cardiologist for evalu-
+ation and treatment.4,442
+Recurrent symptomatic life-threatening VA require urgent inter-
+vention.4,270,442,544 The administration of class IA, IC, and III anti-
+arrhythmic drugs is limited by the risk of drug–drug interactions
+and QTc prolongation. Beta-blockers and class IB drugs are less likely
+to cause drug interactions or QTc prolongation. Beta-blockers are
+the preferred choice if the cancer drug is also associated with
+CTRCD. Amiodarone is the antiarrhythmic drug of choice in patients
+with
+structural
+heart
+disease
+and
+haemodynamic
+instability.
+Table 8
+Risk factors for drug-induced QT prolonga-
+tion and torsade de pointes
+Correctable
+Non-correctable
+QT-prolonging drugsa
+• Antiarrhythmics
+• Antibiotics
+• Antidepressants
+• Antifungals
+• Antiemetics
+• Antihistamines
+• Antipsychotics
+• Loop diuretics
+• Opioids (methadone)
+Bradyarrhythmia
+Electrolyte imbalance/
+abnormalities
+• Hypokalaemia (≤3.5 mEq/L)
+• Hypomagnesaemia
+(≤1.6 mEq/L)
+• Hypocalcaemia (≤8.5 mEq/L)
+Inadequate dose adjustment of
+renal or hepatic cleared
+QT-prolonging drugs
+Acute myocardial ischaemia
+Age . 65 years
+Baseline QTc interval
+prolongationb
+Family history of sudden death
+(congenital LQTS or genetic
+polymorphism)
+Female sex
+Impaired renal function (for
+renally excreted drugs)
+Liver disease (for hepatically
+excreted drugs)
+Personal history of syncope or
+drug-induced TdP
+Pre-existing CVD (CAD, HF, LV
+hypertrophy)
+© ESC 2022
+CAD, coronary artery disease; CVD, cardiovascular disease; HF, heart failure; LQTS,
+long QT syndrome; LV, left ventricular; QTc, corrected QT interval; TdP, torsade de
+pointes.
+aSee https://www.crediblemeds.org.
+bQTc using Fridericia correction (QTcF = QT/3√RR) is recommended in patients with
+cancer.
+Table 9
+Classiﬁcation of corrected QT interval pro-
+longation induced by cancer drug therapy
+Classiﬁcation
+Drugs
+High risk: QTcF prolongation ≥10 ms and risk
+of TdP
+• Aclarubicin
+• Arsenic trioxide
+• Glasdegib
+• Nilotinib
+• Oxaliplatin
+• Pazopanib
+• Ribociclib
+• Sunitinib
+• Toremifene
+• Vandetanib
+Moderate risk: QTcF prolongation ≥10 ms
+and low or no risk of TdP (or uncertain)
+• Abarelix
+• Belinostat
+• Brigantinib
+• Carbozantinib
+• Ceritinib
+• Crizotinib
+• Dovitinib
+• Entrectinib
+• Eribulin
+• Gilteritinib
+• Ivosidenib
+• Lapatinib
+• Lenvatinib
+• Osimertinib
+• Panobinostat
+• Rucaparib
+• Selpercatinib
+• Sorafenib
+• Tipiracil/
+triﬂuridine
+• Vemurafenib
+Low risk: QTcF prolongation , 10 msa
+• ADT
+• Afatinib
+• Axitinib
+• Binimetinib
+• Bortezomib
+• Bosutinib
+• Carﬁlzomib
+• Dabrafenib
+• Dasatinib
+• Encorafenib
+• Midostaurin
+• Pertuzumab
+• Ponatinib
+• Romidepsin
+• Quizartinib
+• Tamoxifen
+• Vorinostat
+© ESC 2022
+ADT, androgen deprivation therapy; QTcF, corrected QT interval using Fridericia
+correction; TdP, torsade de pointes.
+aADT may prolong the QTc interval (GnRH agonist, GnRH antagonist, bicalutamide,
+ﬂutamide, apalutamide, darolutamide, enzalutamide, and abiraterone) (see Figure 21).
+Developed from EMA prescribing information,252 FDA prescribing information,253
+and AZCERT.547
+4298
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 71 ===
+
+Decisions on the use of antiarrhythmic drugs or device therapy (car-
+dioverter deﬁbrillators, catheter ablation) should consider life ex-
+pectancy, quality of life, and complication risks.349
+Most cancer therapy-induced VA are related to a prolongation of
+QTc leading to the development of TdP.259,516,542 Risk factors for
+QTc prolongation and TdP are summarized in Table 8.4,22,45,48,516,543
+The upper 99% limits of normal for QTc values in the general
+population are 450 ms for men and 460 ms for women.545
+Although there is no threshold of QTc prolongation at which TdP
+can occur, a QTc ≥500 ms is associated with a two- to three-fold
+higher risk for TdP, while TdP rarely occurs when QTc is
+,500 ms.442
+Although
+the
+incidence
+of
+QTc
+prolongation
+≥500 ms and TdP is low during cancer therapy, QTc prolongation
+to levels that require closer monitoring (QTc ≥480 ms) is more
+common (Table 9).4,9,22,45,48,49,259,369,516,543,546 Changes in the QT
+interval of .60 ms from baseline should not routinely affect treat-
+ment decisions if the QTc remains ,500 ms.1 Cardiology consult-
+ation is advised in patients with an abnormal baseline QTc interval,
+patients treated with drugs that prolong the QT interval, those
+who develop new cardiac symptoms (syncope or pre-syncope, rapid
+palpitations or QTc prolongation with new-onset bradycardia, high
+degree of heart block), and/or those with known inherited arrhythmia
+QTcF value
+QTcF value
+QTcF value
+QTcF monitoring
+according to drug-
+specific protocol
+ECG after any
+dose increase of QTc-
+prolonging drug
+(class I)
+If QTcF <500 ms
+Continue treatment at same or
+reduced dose according to
+drug-specific protocol
+(Class I)
+Consider
+alternative
+treatment
+Alternative
+treatment
+(Class I)
+(Class I)
+(Class I)
+QTcF value
+Resume treatment at the same
+or reduced dose according
+to drug-specific protocol
+Consider restarting treatment
+at reduced dose
+(Class IIb)
+MDT to discuss alternative
+cancer treatments
+(Class I)
+≤480 ms
+≤480 ms
+≤480 ms
+>480 ms
+>480 ms and
+<500 ms
+>480 ms and
+<500 ms
+>480 ms and
+<500 ms
+≥500 ms
+≥500 ms
+≥500 ms
+TdP or
+sustainedVA
+Correct baseline risk factors for QTc prolongationb
+Avoid/stop concomitant QTc prolonging drugsb
+Ensure K+ >4.0 mmol/L, Mg2+ >2.0 mg/dL (>1.10 mmol/L) and normal values of corrected Ca2+
+Baseline 12-lead ECG: QTcF
+Start therapy
+ECG monitoringc
+Cardio-oncology evaluation
+Correct reversible causesb
+Correct
+reversible
+causesb
+Weekly ECG
+monitoring
+Drug
+interruption
+Correct
+reversible
+causesb
+Drug
+withhold
+Correct
+reversible
+causesb
+QTc monitoring before and duringtreatment withQTc prolonginganticancerdrugsa
+Figure 32 Corrected QT interval monitoring before and during treatment with corrected QT interval-prolonging anticancer drugs. Ca2+ , calcium; ECG,
+electrocardiogram; K+, potassium; MDT, multidisciplinary team; Mg2+, magnesium; QTc, corrected QT interval; QTcF, corrected QT interval using
+Fridericia correction; TdP, Torsade de pointes; VA, ventricular arrhythmias. QT interval using Fridericia correction (QTcF = QT/3√RR) is recommended in
+patients with cancer. Upper 99% limits of normal for QTc values in the general population are 450 ms for men and 460 ms for women.369 aTable 9.
+bTable 8 and https://www.crediblemeds.org. cECG monitoring at baseline, once steady-state anticancer drug levels have been achieved, after each dose modi-
+ﬁcation, or any treatment interruption .2 weeks; monthly for the ﬁrst 3 months, and then periodically during treatment depending on patient-speciﬁc risk
+factors and cancer treatment.
+ESC Guidelines
+4299
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 72 ===
+
+disorders.4,45,48,442,544 The challenges for the cardio-oncology teams
+are to identify patients more susceptible to developing VA, determine
+whether a VA is directly due to CTR-CVT, individualize the treatment
+strategy, and optimize clinical monitoring during treatment.
+Figure 32 shows the algorithm for the management of QTc pro-
+longation during cancer therapy. In patients with cancer, the
+Fridericia formula is recommended and has demonstrated less error
+than other correction methods such as Bazzett at both high and low
+heart rates.44 In patients treated with QTc-prolonging drugs, serum
+electrolytes and other risk factors should be closely monitored and
+corrected, and concomitant QT-prolonging drugs avoided if pos-
+sible.4,22,45,369,543 For selected cancer drugs, there are speciﬁc manu-
+facturer recommendations for ECG monitoring during treatment,
+dosage adjustments, or discontinuation of therapy in case of QTc
+prolongation.548
+Although there are no recommendations, patients with cancer
+with QTc prolongation associated with severe bradycardia or sinus
+pauses may beneﬁt from isoprenaline infusion or temporary pa-
+cing. Despite present restrictions, the improved prognosis for
+many malignancies is increasing the number of patients with cancer
+who are candidates for an implantable cardioverter deﬁbrillator
+(ICD), particularly when life expectancy is .1 year (including pa-
+tients who experienced resuscitated sudden cardiac death or se-
+vere VA from a QTc-prolonging drug with no alternative
+treatment available).
+6.4.3. Bradyarrhythmias
+AV conduction disease can be caused by ICI in the presence or ab-
+sence of myocarditis. If the PR interval increases (new ﬁrst-degree
+heart block) in patients treated with ICI, serial ECG monitoring is re-
+commended, and if PR prolongation to .300 ms develops, the pa-
+tient should be hospitalized under close ECG monitoring and i.v.
+methylprednisolone is recommended.550
+IMiD (thalidomide, pomalidomide)285 and ALK inhibitors (crizoti-
+nib, alectinib, brigatinib, or ceritinib)551 are associated with sinus
+bradycardia. Holter ECG monitoring is recommended to exclude
+signiﬁcant sinus pauses in symptomatic patients. In asymptomatic pa-
+tients with normal LV function, sinus bradycardia is usually well tol-
+erated and treatment can continue. If patients are symptomatic
+(syncope, pre-syncope of reduced exercise tolerance from chrono-
+tropic incompetence) then a trial of cancer drug withdrawal to con-
+ﬁrm causation with the symptoms is recommended. A MDT
+discussion is needed to analyse risks/beneﬁts of alternative cancer
+therapies vs. restarting the culprit cancer therapy at a lower dose
+with heart rate monitoring. In selected cases, when no cancer treat-
+ment alternative is available, pacing is indicated.
+6.5. Arterial hypertension
+Arterial hypertension in patients with cancer may be caused by their
+cancer treatments (e.g. VEGFi, second- and third-generation
+BCR-ABL TKI, brigatinib, ibrutinib, ﬂuoropyrimidines, cisplatin, abir-
+aterone, bicalutamide, enzalutamide), non-cancer drugs (e.g. corti-
+costeroids, non-steroidal anti-inﬂammatory drugs), and other
+factors including stress, pain, excessive alcohol consumption, renal
+impairment, untreated sleep apnoea, obesity, and reduced exer-
+cise.552 In all patients with cancer with new hypertension assessment,
+correction of these other factors is important before considering
+interruption of a cancer treatment.
+Untreated hypertension344 is a conﬁrmed risk factor of HF during
+treatment with anthracyclines,553 ibrutinib,264 and VEGFi.554 Given
+that many of the cancer therapies that cause hypertension also cause
+Recommendation Table 32 — Recommendations for
+the management of long corrected QT interval and
+ventricular arrhythmias in patients receiving antican-
+cer treatment
+Recommendations
+Classa
+Levelb
+How to manage QTc prolongation in patients with cancer
+Discontinuation of QTc-prolonging cancer
+therapy is recommended in patients who develop
+TdP or sustained ventricular tachyarrhythmias
+during treatment.549
+I
+C
+Temporary interruption of QTc-prolonging
+cancer therapy is recommended in patients who
+develop asymptomatic QTcF ≥500 ms and an
+ECG should be repeated every 24 h until
+resolution of the QTcF prolongation.549
+I
+C
+Immediate withdrawal of any offending drug and
+correction of electrolyte abnormalities and other
+risk factorsc is recommended in patients with
+cancer who develop QTcF ≥500 ms.349,442,546
+I
+C
+Weekly ECG monitoring is recommended in
+asymptomatic patients with cancer with QTcF
+480–500 ms who are treated with a
+QTc-prolonging cancer therapy.349,442,546
+I
+C
+A 12-lead ECG is recommended after any dose
+increase of QTc-prolonging cancer
+therapy.270,442,544
+I
+C
+Continued
+Restarting QTc-prolonging cancer therapy
+A multidisciplinary discussion is recommended
+before restarting QTc-prolonging drugs in
+patients who have developed signiﬁcant QTcF
+prolongation, to discuss alternative cancer
+treatments.4,22,259,349,442,546
+I
+C
+In patients who experienced signiﬁcant QTcF
+prolongation, restarting the culprit
+QTc-prolonging cancer treatment may be
+considered, ideally at a reduced dose according to
+each drug recommendation.45,259,349,442,546,549
+IIb
+C
+Weekly ECG monitoring during the ﬁrst 4–6
+weeks and then monthly thereafter is
+recommended in patients with cancer after
+restarting QTc-prolonging cancer therapy.549
+I
+C
+© ESC 2022
+ECG, electrocardiogram; QTc, corrected QT interval; QTcF, corrected QT interval
+using Fridericia correction; TdP, torsade de pointes.
+aClass of recommendation.
+bLevel of evidence.
+cSee https://www.crediblemeds.org and Table 8.
+4300
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 73 ===
+
+CTRCD, treatment of hypertension with ACE-I or ARB as ﬁrst-line
+therapy
+is
+recommended
+to
+reduce
+the
+risk
+of
+CTRCD.
+Combination therapy with an ACE-I or ARB and a dihydropyridine
+CCB is recommended in patients with cancer with systolic BP ≥
+160 mmHg and diastolic BP ≥100 mmHg due to the more rapid on-
+set of BP control with the combination compared with ACE-I/ARB
+monotherapy (Figures 33 and 34).
+If severe hypertension is diagnosed (systolic BP ≥180 mmHg or
+diastolic BP ≥110 mmHg), the competing cancer and CV risks
+should be evaluated by a MDT, and any cancer therapy associated
+with hypertension should be deferred or temporarily withheld until
+the BP is controlled to values ,160 mmHg (systolic BP) and
+,100 mmHg (diastolic BP). Culprit cancer therapy can be restarted
+once BP is controlled, with consideration for dose reduction.
+In patients with resistant cancer therapy-related hypertension,
+spironolactone, oral or transdermal nitrates, and/or hydralazine
+should be considered. In patients with cancer with evidence of
+high sympathetic tone, stress, and/or pain, beta-blockers including
+carvedilol or nebivolol should be considered. Diuretics, preferably
+spironolactone, may be considered in patients with cancer with
+hypertension and evidence of increased ﬂuid retention, with moni-
+toring of BP, electrolytes, and renal function.
+The decisions to initiate BP treatment and BP targets during the
+management of cancer-drug induced hypertension depend upon
+the context of the cancer and prognosis (Figure 34). CS should be
+treated
+according
+to
+the
+2018
+ESC/European
+Society
+of
+Hypertension (ESH) Guidelines for the management of arterial
+hypertension.138
+Recommended threshold for asymptomatic hypertension treatment
+in differentclinicalscenarios
+CS
+Home
+BP mmHg
+Curable cancer
+during treatment
+Metastatic cancer
+Prognosis >3 years
+Metastatic cancer
+Prognosis 1–3 years
+Metastatic cancer
+Prognosis <1 year
+160+
+Treat
+Treat
+Treat
+Treat
+Treat
+140–159
+Treat
+Treat
+Treat
+Consider
+treatment
+May treat
+135–139
+Treat
+May treat
+Consider
+treatment
+May treat
+None
+130–134
+May treat
+None
+None
+None
+None
+<130
+None
+None
+None
+None
+None
+Class 1
+Class 1Ia
+Class 1Ib
+Figure 33 Recommended threshold for asymptomatic hypertension treatment in different clinical scenarios. BP, blood pressure; CS, cancer survivors.
+ESC Guidelines
+4301
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 74 ===
+
+BP target during cancer therapy
+p
+Systolic BP ≥160 mmHg and diastolic BP ≥100 mmHg
+Hypertension caused by cancer therapy
+p
+ACE-I or ARB
+(Class I)
+ACE-I or ARB
+(Class I)
+Dihydropyridine CCB
+p
+as second-line therapy
+p
+in patients with
+uncontrolled BP
+(Class I)
+Dihydropyridine CCB
+p
+(Class I)
+BP target <140 mmHg systolic and
+<90 mmHg diastolic
+(Class I)
+BP target <130 mmHg systolic and <80 mmHg
+diastolic if well tolerated
+(Class IIb)
+Beta-blockers
+k
+b
+Spironolactone
+Oral or transdermal nitrates and/or hydralazine
+(Class IIa)
+If resistant hypertensiona:
+In selected asymptomatic patients with
+metastatic cancer systolic BP 140–160 mmHg,
+and diastolic BP 90–100 mmHg 
+(Class IIb)
+N
+Tr
+T eatment of arterial hypertension in patients with cancer
+Y
+OR
+AND
+OR
+Figure 34 Treatment of arterial hypertension in patients with cancer. AF, atrial ﬁbrillation; ACE-I, angiotensin-converting enzyme inhibitors; ARB, angio-
+tensin receptor blockers; BP, blood pressure; CCB, calcium channel blockers; HF, heart failure; MI, myocardial infarction; N, no; VEGFi, vascular endothelial
+growth factor inhibitors; Y, yes. aResistant hypertension is deﬁned as BP being uncontrolled despite treatment with optimal or best-tolerated doses of three
+or more drugs including a diuretic, and conﬁrmed by ambulatory and home BP monitoring. bConsider beta-blockers (nebivolol or carvedilol are preferred in
+patients on VEGFi) at any treatment step, when there is a speciﬁc indication for their use, e.g. HF, angina, post-MI, or AF.
+Recommendation Table 33 — Recommendations for
+the management of arterial hypertension in patients
+receiving anticancer treatment
+Recommendations
+Classa
+Levelb
+General
+Effective treatment of cancer therapy-induced
+arterial hypertension to prevent cancer treatment
+interruption and CV complications is
+recommended.
+I
+C
+A BP target ,140 mmHg systolic and ,90 mmHg
+diastolic is recommended during cancer therapy.
+I
+C
+A BP target ,130 mmHg systolic and ,80 mmHg
+diastolic may be considered during cancer therapy
+provided that the treatment is well tolerated.
+IIb
+C
+In selected asymptomatic patients with metastatic
+cancer, a systolic BP 140–160 mmHg and diastolic
+BP 90–100 mmHg treatment threshold may be
+considered provided there is ongoing BP monitoring.
+IIb
+C
+The competing cancer and CV risk evaluation is
+recommended if the systolic BP is ≥180 mmHg or
+diastolic BP ≥110 mmHg, and any cancer therapy
+associated with hypertension should be deferred
+or temporarily withheld until the BP is controlled
+to values ,160 mmHg (systolic) and
+,100 mmHg (diastolic).
+I
+C
+Continued
+Cancer therapy-induced arterial hypertension treatment
+ACE-I or ARB are the ﬁrst-line antihypertensive
+drugsc recommended for BP management in
+patients with cancer.555–557
+I
+B
+Dihydropyridine CCB are recommended as
+second-line antihypertensive drugs for patients
+with cancer with uncontrolled BP.
+I
+C
+Combination therapy with ACE-I or ARB and
+dihydropyridine CCB is recommended in patients
+with cancer with systolic BP ≥160 mmHg and
+diastolic BP ≥100 mmHg.
+I
+C
+Diltiazem and verapamil are not recommended to
+treat arterial hypertension in patients with cancer
+due to their drug–drug interactions.d
+III
+C
+© ESC 2022
+ACE-I, angiotensin-converting enzyme inhibitors; ARB, angiotensin receptor blockers;
+BP, blood pressure; CCB, calcium channel blockers; CV, cardiovascular.
+aClass of recommendation.
+bLevel of evidence.
+cUnless contraindicated.
+dIn selected patients with cancer, who are intolerant to multiple other antihypertensive
+drugs, diltiazem and verapamil may be considered with close monitoring of drug–drug
+interactions.
+4302
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 75 ===
+
+6.6. Thrombosis and thromboembolic
+events
+Thromboembolic events that develop during cancer and its treat-
+ment encompass both VTE and arterial thromboembolism (ATE)
+and are collectively referred to as cancer-associated thrombosis.
+Cancer-associated thrombosis is determined by the prothrombotic
+milieu induced by cancer, the prothrombotic properties of certain
+anticancer
+and adjunctive
+therapies, and patient-related
+risk
+factors,
+including
+demographics,
+genetic
+predisposition,
+and
+comorbidities.513
+6.6.1. Venous thromboembolism
+VTE, including deep vein thrombosis (DVT) and PE, is the
+second-leading cause of death in patients with malignancies.558
+Cancer confers a ﬁve-fold higher risk of VTE and cancer-associated
+VTE represents 30% of all VTE cases.559,560 The risk of VTE varies
+in the course of cancer, with the highest risk occurring in the period
+following cancer diagnosis, during hospitalization and chemotherapy,
+and upon development of metastatic disease.561,562 Unprovoked
+VTE may be the ﬁrst clinical sign of a malignancy, followed by a 5%
+incidence of cancer diagnosis during the subsequent 12 months.563
+The risk factors for VTE in cancer are summarized in
+Figure 35.564,565 Patients with symptoms or signs suggestive of
+VTE, such as unilateral lower limb oedema or unexplained dyspnoea,
+should be screened with lower-extremity venous ultrasonography
+or contrast-enhanced CT for DVT and CT pulmonary angiography
+for PE, according to the 2019 ESC Guidelines for the diagnosis and
+management of acute pulmonary embolism recommendations566
+Risk factors for VTE in patients with cancer
+Patient-related factors
+Ageing
+Comorbiditiesa
+Sex (female)
+Hereditary coagulation defectsb 
+Performance status 
+Prior VTE history
+Treatment-related factors
+Cancer therapyc 
+Central venous catheters
+Hospitalization 
+Major surgery
+Cancer-related factors
+Cancer type
+Genetic characteristics (JAK2 or K-ras mutations)
+Histology (adenocarcinoma)
+Initial period after diagnosis 
+Primary site (pancreas, stomach, ovaries,
+brain, lung, myeloma)
+Stage (advanced, metastatic)
+Figure 35 Risk factors for venous thromboembolism in patients with cancer. ATE, arterial thromboembolism; BMI, body mass index; CrCl, creatinine
+clearance; IMiD, immunomodulatory drugs; PI, proteasome inhibitors; VTE, venous thromboembolism. aAcute infection, chronic kidney disease (CrCl ,
+45 mL/min), pulmonary disease, obesity (BMI ≥30 kg/m2), ATE. bFactor V Leiden, prothrombin gene mutation. cChemotherapy (carboplatin, cyclophos-
+phamide, anthracyclines, antimetabolites, irinotecan, taxanes, tasonermin), anti-angiogenic agents (bevacizumab, axitinib, lenvatinib, pazopanib, sorafenib,
+sunitinib), IMiD (thalidomide, lenalidomide), PI (carﬁlzomib), hormonal therapy, erythropoiesis-stimulating agents.
+ESC Guidelines
+4303
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 76 ===
+
+and the second consensus document on diagnosis and management
+of acute deep vein thrombosis.567
+6.6.2. Arterial thromboembolism
+Cancer carries a two-fold higher risk of ATE, including MI and ischae-
+mic stroke.568 ATE risk is higher in men, with advanced age, and in
+patients with lung or kidney cancer. Pathologies related to ATE in
+cancer include ischaemic stroke induced by AF or RT-induced ca-
+rotid artery disease, embolization by tumour cells or non-bacterial
+thrombotic endocarditis, disseminated intravascular coagulation-
+related peripheral microcirculatory thromboembolism, paradoxical
+cerebral embolism in the course of VTE, and cerebral sinus
+thrombosis.569
+6.6.3. Intracardiac thrombosis
+Intracardiac thrombus in patients with malignancies may result from
+the prothrombotic properties of cancer and its treatment and the
+use of central venous catheters. Thrombus is the most common in-
+tracardiac mass and it can occur within any cardiac chamber. Right
+atrial thrombi are often related to a venous catheter where the
+line
+has
+inappropriately
+advanced
+into
+the
+right
+atrium.
+Intraventricular thrombi usually occur in the setting of CTRCD.
+LAA thrombi are most commonly associated with AF, which may
+also be related to cancer or its therapy.
+Patients with systemic embolization should be screened for car-
+diac origin of thrombus initially with TTE and/or transoesophageal
+echocardiography.528 CMR is more sensitive and speciﬁc than TTE
+Thrombocytopaenia
+GI/GU cancer, GI comorbidities, or GI toxicity
+Recent or evolving intracranial lesions
+Active bleeding or recent major bleeding
+Severe renal dysfunction (eGFR <30 mL/min/1.73 m2)
+Assess Bleeding risk:
+Patient-related factors
+Cancer-related factors
+Treatment-related factors
+Assess Thromboembolic risk:
+Anticancer agents
+Supportive therapies
+Assess drug-drug Interactions (P-glycoprotein, CYP3A4):
+Assess Patient preferences
+T
+B
+I
+P
+Thromboembolic and
+bleeding risk reassessment
+(Class I)
+Very high bleeding riska
+Conditions favouring
+LMWH over NOACb
+NOAC or LMWH 
+(Class I)
+LMWH
+(Class I)
+No anticoagulation
+Patient’s preference
+N
+N
+Structured approach to anticoagulation forVTE in patients with cancer
+Y
+Y
+Figure 36 Structured approach to anticoagulation for venous thromboembolism in patients with active cancer. CrCl, creatinine clearance; eGFR, es-
+timated glomerular ﬁltration rate; GI, gastrointestinal; GU, genitourinary; LMWH, low-molecular-weight heparins; N, no; NOAC, non-vitamin K antag-
+onist oral anticoagulants; VTE, venous thromboembolism; Y, yes. aVery high bleeding risk: active or recent major bleeding (,1 month); recent/
+evolving intracranial lesions; platelet count ,25 000/µL. According to the International Society on Thrombosis and Haemostasis,529 major bleeding is
+deﬁned as: fall in haemoglobin level ≥2 g/dL, transfusion of ≥2 units of red blood cells, fatal bleeding, or bleeding in a critical area (intracranial, intraspinal,
+intraocular, pericardial, intra-articular, intramuscular with compartment syndrome, or retroperitoneal). bConditions favouring LMWH: unoper-
+ated GI/GU cancer; GI comorbidities or toxicity; severe renal dysfunction (CrCl , 15 mL/min); NOAC major drug–drug interactions, platelet
+count , 50 000/µL.
+4304
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 77 ===
+
+for detecting intracardiac thrombi and late gadolinium enhancement
+(LGE) CMR with the long inversion time technique is currently con-
+sidered the gold standard.570,571
+6.6.4. Anticoagulation therapy
+Patients with cancer frequently have both an increased thrombotic risk
+and an increased bleeding risk associated with certain cancer locations
+(e.g. GI, intracranial), thrombocytopaenia, and other coagulation de-
+fects (secondary to bone marrow invasion, cancer therapies, or cancer
+itself) and associated comorbidities (e.g. renal or hepatic dysfunction,
+GI toxicities). Several anticancer agents are further characterized by
+drug–drug interactions with anticoagulants. All these factors may ren-
+der anticoagulation in cancer quite challenging. A proposed approach
+to anticoagulation therapy in cancer-associated venous thrombosis,
+based on the TBIP acronym (Thromboembolic risk, Bleeding risk,
+drug–drug Interactions, Patient preferences), is outlined in Figure 36.527
+6.6.4.1. Treatment and secondary prevention of venous
+thromboembolism
+Several large RCTs and meta-analyses have shown that LMWH de-
+crease the risk of recurrent VTE by 40% compared to VKA, with a
+similar risk of major bleeding.572–576 However, VKA are character-
+ized by an unpredictable anticoagulation effect and low time in thera-
+peutic range in patients with malignancies due to multiple drug–drug
+interactions, GI toxicity, malnutrition, and liver dysfunction.577
+NOAC have been assessed as potential alternatives to LMWH for
+cancer-associated VTE, based on RCTs that compared edoxaban, rivar-
+oxaban or apixaban to dalteparin.578–583 The totality of evidence de-
+rived by these trials and subsequent meta-analyses584–586 shows that
+NOAC are non-inferior to dalteparin in reducing the risk of VTE recur-
+rence. The risk of major bleeding was similar, although NOAC were as-
+sociated with an increased risk of clinically relevant non-major bleeding,
+particularly in patients with luminal GI and GU malignancies.586 As a re-
+sult, edoxaban, rivaroxaban, and apixaban are recommended for the
+treatment of VTE (DVT and PE) in patients with cancer without any
+of the following bleeding risk factors: unoperated GI or GU malignan-
+cies, history of recent bleeding or within 7 days of major surgery, signiﬁ-
+cant thrombocytopaenia (platelet count, 50000/µL), severe renal
+dysfunction (creatinine clearance (CrCl, 15 mL/min), or GI comorbid-
+ities.582,586 In addition, drug–drug interactions between NOAC, cancer
+therapies, and other concomitant treatments should be checked.587
+There are also concerns about NOAC in patients with GI toxicity
+such as vomiting or those having undergone gastrectomy or extensive
+intestine resection, as well as those with severely impaired renal func-
+tion. Shared decision-making considering informed patient preferences
+should guide the choice of anticoagulation.
+Incidentally encountered proximal DVT or PE should be treated in
+the same manner as symptomatic VTE as they bear similar rates of
+recurrence and mortality.588
+The minimal duration of anticoagulation is 6 months and extended
+anticoagulation is suggested in the presence of active malignancy,
+metastatic disease, or chemotherapy use. Cohort studies have
+shown that extended LMWH therapy beyond 6 and up to 12 months
+is safe in cancer-associated VTE.589,590 However, patients with can-
+cer are also at high risk of bleeding during anticoagulant treatment
+and a periodic assessment of the risk/beneﬁt ratio should performed.
+In VTE relapse under anticoagulation, the patient should be investi-
+gated for treatment adherence, cancer progression or relapse, while a
+different anticoagulation strategy should be endorsed (e.g. replacement
+of NOAC with LMWH). The management of patients with VTE and a
+platelet count ,25000/µL should be individualized by a MDT.299
+The duration of anticoagulation in patients with catheter-
+associated thrombosis depends upon whether the catheter is re-
+moved or remains in situ. If removed, then anticoagulation should
+continue for a minimum of 3 months and until follow-up cardiac im-
+aging conﬁrms resolution of the thrombus. If the catheter remains in
+situ, then long-term therapeutic anticoagulation should continue.
+6.6.4.2. Primary prevention of venous thromboembolism
+Patients undergoing surgery and those who are hospitalized or in
+prolonged bed rest require thromboprophylaxis with low-dose an-
+ticoagulation.298,299,592–594 The ENOXACAN (Enoxaparin and
+Recommendation Table 34 — Recommendations for
+the management of venous thromboembolism in pa-
+tients receiving anticancer treatment
+Recommendations
+Classa
+Levelb
+Apixaban, edoxaban, or rivaroxabanc are
+recommended for the treatment of symptomatic
+or incidental VTE in patients with cancer without
+contraindications.d,578–581,584,585
+I
+A
+LMWH are recommended for the treatment of
+symptomatic or incidental VTE in patients with
+cancer with platelet count .50 000/µL.298,299,578–
+581,584,585
+I
+A
+In patients with cancer with platelet counts of
+25 000–50 000/µL, anticoagulation with half-dose
+LMWH may be considered after a
+multidisciplinary discussion.591
+IIb
+C
+Prolongation of anticoagulation therapy beyond 6
+months should be considered in selected patients
+with active cancere including metastatic
+disease.589,590
+IIa
+A
+Catheter-associated VTE
+Duration of anticoagulation in patients with
+cancer with a catheter-associated VTE is
+recommended for a minimum of 3 months and
+continuing longer if the catheter remains in situ.
+I
+C
+© ESC 2022
+CrCl,
+creatinine
+clearance;
+GI,
+gastrointestinal;
+GU,
+genitourinary;
+LMWH,
+low-molecular-weight
+heparins;
+ULN,
+upper
+limit
+of
+normal;
+VTE,
+venous
+thromboembolism.
+aClass of recommendation.
+bLevel of evidence.
+cDrugs are listed in alphabetical order
+dHigh risk of GI or GU bleeding, GI absorption concerns, signiﬁcant drug–drug
+interactions, severe renal dysfunction (CrCl , 15 mL/min), signiﬁcant liver disease
+(alanine
+aminotransferase/aspartate
+aminotransferase . 2 × ULN),
+or
+signiﬁcant
+thrombocytopaenia (platelet count , 50 000/µL). In addition, patients with primary
+brain tumours or brain metastases and acute leukaemia were excluded from the
+seminal apixaban trial.580
+ePatients receiving cancer treatment, patients diagnosed with cancer in the past 6
+months, and patients with progressive or advanced disease.
+ESC Guidelines
+4305
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 78 ===
+
+Cancer) II study showed favourable outcomes with LMWH as pri-
+mary thromboprophylaxis for 4 weeks after major abdominal or pel-
+vic cancer surgery.595 For ambulatory patients, VTE risk should be
+individually determined and proposed scores such as the Khorana
+or the COMPASS-CAT (prospective COmparison of Methods for
+thromboembolic risk assessment with clinical Perceptions and
+AwareneSS in real-life patients—Cancer Associated Thrombosis)
+score may be useful.596,597 Further trials and a meta-analysis have
+shown that LMWH signiﬁcantly reduced the incidence of symptomatic
+VTE in ambulatory patients with cancer receiving chemotherapy with
+acceptable
+safety.598–600
+Two
+randomized,
+placebo-controlled,
+double-blind clinical trials have assessed the role of NOAC in primary
+prevention of VTE in high-risk ambulatory patients receiving systemic
+cancer therapy (Khorana score ≥2).601,602 Over a follow-up period of
+180 days, apixaban (2.5 mg twice a day)601 therapy resulted in a signiﬁ-
+cantly lower rate of VTE, although the rate of major bleeding episodes
+was higher than with placebo. Rivaroxaban (10 mg once a day)602
+treatment resulted in a non-signiﬁcantly lower incidence of VTE or
+death due to VTE with low bleeding risk (no signiﬁcant differences
+with placebo). Further data on the use of NOAC in this setting are
+warranted. Consideration of such therapy should be accompanied
+by a discussion with the patient about the relative beneﬁts and harms,
+cancer prognosis, drug cost, and duration of prophylaxis.
+6.7. Bleeding complications
+Bleeding complications are more common in patients with cancer
+than in patients without cancer. This may be directly related to the
+tumour
+itself,
+or
+indirectly
+related
+to
+chemotherapy-
+or
+RT-induced weakening of mucosal barriers.530
+6.7.1. High-risk patients
+GI and GU cancers are associated with a signiﬁcant excess bleeding
+risk compared with other solid tumours.603 Thrombocytopaenia
+and platelet dysfunction due to haematological malignancies or
+bone marrow suppression can exacerbate bleeding. Other bleed-
+ing risk factors include advancing age, renal or hepatic impair-
+ment, metastatic disease, low body mass index, and treatment
+with ibrutinib, VEGFi, cetuximab, or bevacizumab.578,603–605
+Gastric protection with routine proton pump inhibitor use
+should be considered in all patients with cancer on DAPT606,607
+or anticoagulation.530
+6.7.2. Antiplatelet therapy
+Antiplatelet therapy, in particular DAPT, increases the risk of bleed-
+ing in patients with cancer.477 Following ACS and/or PCI, the risk of
+bleeding is approximately 1.6-fold greater in patients with cancer
+than in those without.477,605 The risk is greatest in those diagnosed
+with cancer in the preceding year, whereas more remote cancers
+carry lower excess risk.477 The PRECISE-DAPT (PREdicting bleeding
+Complications In patients undergoing Stent implantation and
+subsEquent Dual Anti Platelet Therapy) score appears not to per-
+form well for predicting bleeding in patients with cancer.477 In order
+to reduce bleeding risk, the duration and intensity of DAPT should be
+minimized477,607 and triple therapy avoided whenever possible. At
+the same time, DAPT—if indicated—should not be withheld without
+good reason. A recent expert consensus statement suggests reduced
+platelet count thresholds for CV therapies, recommending aspirin
+initiation for platelet counts .10 000/µL and DAPT initiation (with
+aspirin and clopidogrel) for platelet counts .30 000/µL.608 In pa-
+tients with platelet counts ,50 000/µL, clopidogrel is preferred
+over prasugrel or ticagrelor, and glycoprotein IIb/IIIa inhibitors
+should be avoided.608 To reduce peri-procedural bleeding, PCI
+should preferably be undertaken via the radial approach484 and
+prophylactic platelet transfusion may be considered for patients
+with platelet count ,20 000/µL.609
+6.7.3. Management of bleeding
+Basic principles of bleeding management should be followed with
+control of the bleeding source whenever possible. Platelet transfu-
+sions for signiﬁcant thrombocytopaenia and withholding and reversal
+of anticoagulation for life-threatening bleeding may be needed as in
+the general population.530,610 Antiﬁbrinolytic agents, such as tranex-
+amic acid or e-aminocaproic acid, can be considered. Non-speciﬁc
+support of haemostasis using coagulation factor concentrates and
+speciﬁc reversal agents may be needed for patients on a NOAC
+with life-threatening bleeding.530 Recombinant activated factor VII
+or activated prothrombin complex concentrates should be avoided
+in patients with recent thrombosis.
+Recommendation Table 35 — Recommendations for
+venous thromboembolism prophylaxis during antican-
+cer treatment
+Recommendation
+Classa
+Levelb
+Extended prophylaxis with LMWH for 4 weeks
+post-operatively is recommended for patients
+with cancer undergoing major open or
+laparoscopic abdominal or pelvic surgery with low
+bleeding risk and high VTE risk.c,298,299,595
+I
+B
+Prophylactic LMWH for the primary prevention
+of VTE is indicated in hospitalized patients with
+cancer or those with prolonged bedrest or
+reduced mobility in the absence of bleeding or
+other contraindications.298,299,592,594
+I
+B
+For ambulatory patients with cancer at high risk of
+thrombosis receiving systemic therapy,d primary
+thromboprophylaxis with a NOAC (apixaban or
+rivaroxaban) or LMWH may be considered,
+provided there are no signiﬁcant
+contraindications.e,298,593,594,601,602
+IIb
+B
+A discussion with the patient about the relative
+beneﬁts and harms, cancer prognosis, drug cost,
+and duration of treatment is recommended prior
+to prophylactic anticoagulation for the primary
+prevention of VTE.
+I
+C
+© ESC 2022
+LMWH, low-molecular-weight heparins; NOAC, non-vitamin K antagonist oral
+anticoagulants; VTE, venous thromboembolism.
+aClass of recommendation.
+bLevel of evidence.
+cReduced mobility, obesity, VTE history.
+dLocally advanced or metastatic pancreas or lung cancer or Khorana score ≥2.
+eRisk factors for bleeding, signiﬁcant drug–drug interactions, or severe renal dysfunction.
+4306
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 79 ===
+
+6.8. Peripheral artery disease
+There is growing evidence that cancer therapy affects the vascula-
+ture. A recent meta-analysis showed a signiﬁcantly increased arterial
+stiffness after anthracycline and non-anthracycline treatment.611
+Paraneoplastic acral vascular syndrome was described after initiation
+of nivolumab, with ﬁrst symptoms 3 weeks after initiation of ther-
+apy.612 Raynaud phenomenon has been associated with the use of
+bleomycin, cyclophosphamide, platinum compounds, vinca alkaloids,
+and ﬂuoropyrimidines.491 Usual treatment of Raynaud’s includes
+non-pharmacological measures to help prevent an episode (avoid-
+ance of provoking factors such as cold temperature, vasoconstricting
+drugs)
+and
+a
+long-acting
+dihydropyridine
+CCB
+(amlodipine,
+modiﬁed-release nifedipine).
+Treatment with nilotinib or ponatinib may be associated with an
+increased risk of vascular adverse events, including arterial stiffness
+and PAD development.494 In a subgroup of patients, these events
+are severe or even life-threatening.613 Although the exact mechan-
+isms remain unknown, we recommend screening for pre-existing
+PAD and for vascular risk factors such as DM in all patients before
+and during nilotinib or ponatinib therapy. Pooled data from three
+clinical trials showed arterial occlusive disease to be related to
+dose intensity in ponatinib-treated patients,614 but PAD was not ad-
+dressed separately. If rapidly progressive PAD occurs with second-
+generation TKI, it may be advisable to switch to an alternative lower-
+risk TKI (e.g. imatinib). Platelet aggregation inhibitors or anticoagula-
+tion and statins should be considered. Despite lack of evidence, all
+risk factors should be corrected.615
+6.9. Pulmonary hypertension
+All ﬁve groups of the PH classiﬁcation can be observed in patients
+with cancer. Several cancer drugs can cause group 1 PH (pulmonary
+arterial hypertension [PAH]), including carﬁlzomib, bosutinib, dasati-
+nib,616 ponatinib, interferon alpha, and alkylating agents (e.g. mitomy-
+cin C and cyclophosphamide, which mostly cause pulmonary
+veno-occlusive disease).617 PH associated with left heart disease
+(group 2) is related to drugs causing HF (e.g. anthracyclines). PH as-
+sociated with lung disease (group 3) is related to drugs and therapies
+causing pulmonary ﬁbrosis (e.g. bleomycin, thoracic radiation). The
+most common pulmonary vascular disease complicating cancer is
+VTE, which can cause chronic thromboembolic PH (group 4). Of
+note, central venous catheters are important causes of group 4 PH
+complicating cancer management. Other group 4 PH due to pulmon-
+ary artery obstructions includes angiosarcoma and other malignant
+tumours (e.g. renal carcinoma, uterine carcinoma, germ cell tumours
+of the testis).618
+PH with unclear and/or multifactorial mechanisms (group 5) in-
+cludes several conditions that may be complicated by complex and
+sometimes overlapping pulmonary vascular involvement. Tumoral
+PH includes pulmonary tumour micro-embolism and pulmonary tu-
+mour thrombotic microangiopathy.619 Multiple causes of PH have
+been described in patients with chronic myeloproliferative disorders.
+In chronic myelogenous leukaemia, spleen enlargement and anaemia
+can give rise to hyperkinetic syndrome. In polycythaemia vera and es-
+sential thrombocythemia, there is an increased risk of VTE and
+chronic thromboembolic PH. Moreover, formation of a blood clot
+within the hepatic veins can lead to Budd–Chiari syndrome and sub-
+sequent porto-PH. Pulmonary extramedullary haematopoiesis com-
+plicating idiopathic or secondary myeloﬁbrosis may also contribute
+to dyspnoea and PH.620
+Symptoms of PH are non-speciﬁc, such as shortness of breath and
+fatigue. In later stages, symptoms of right-sided HF may develop. An
+ECG should be performed and examined for RV hypertrophy, but a
+normal ECG does not exclude PH. Echocardiography is the ﬁrst
+choice for assessing PH probability in patients who develop symp-
+toms and/or signs suggestive of PH during cancer treatment.
+When peak tricuspid regurgitation velocity (TRV) is ≤2.8 m/s
+(equating to an estimated systolic PAP [sPAP] of ≤35 mmHg)
+and no other signs of PH are present, then the probability of PH
+is low. In the absence of a tricuspid regurgitant jet, other echocar-
+diography signs may increase suspicion of PH (e.g. RV/LV basal
+diameter ratio . 1, RV outﬂow tract acceleration time , 105 ms,
+inferior vena cava diameter . 21 mm with decreased inspiratory col-
+lapse).620 Baseline TTE should be considered in patients receiving
+cancer drugs that can cause PH; however, a right-heart catheter-
+ization is required for deﬁnitive diagnosis of PH and to support
+PAH treatment decisions. In the DASISION (DASatinib vs. Imatinib
+Study In treatment-Naïve chronic myeloid leukemia patients) trial,
+5% of patients randomized to dasatinib were diagnosed with
+PH, compared with 0.4% of those randomized to imatinib.621 In
+patients who develop PH, dasatinib treatment should be inter-
+rupted and an alternative TKI should be used.616
+Overall management of PH in oncology patients should be based
+on the 2022 ESC/European Respiratory Society (ERS) Guidelines for
+the diagnosis and treatment of pulmonary hypertension.620 Referral
+to a PH centre is recommended for multidisciplinary management
+with the oncology team. In patients with CML treated with drugs
+causing PH-induced PAH, discontinuation of the potential culprit
+therapy is recommended if there is a high probability of new PH
+(peak
+TRV . 3.4 m/s,
+equating
+to
+an
+estimated
+sPAP
+of
+≥50 mmHg) until the diagnosis is conﬁrmed or ruled out by a right-
+heart catheterization. In CML patients on dasatinib, an alternative
+BCR-ABL TKI is recommended if they develop symptomatic PAH
+or an asymptomatic increase in peak TRV .3.4 m/s. Dasatinib
+dose reduction and close monitoring of peak TRV with TTE every
+4 weeks should be considered in CML patients who develop new
+asymptomatic peak TRV ranging from 2.9 to 3.4 m/s.620 If peak
+TRV remains normal or mildly elevated on serial monitoring, then da-
+satinib can continue, with reduced TTE monitoring to every 3
+Recommendation Table 36 — Recommendation for
+management of peripheral artery disease during antic-
+ancer treatment
+Recommendation
+Classa
+Levelb
+In patients who develop new symptomatic PAD, a
+multidisciplinary approach regarding the decision
+to continue vs. interrupt culprit cancer therapyc is
+recommended.
+I
+C
+© ESC 2022
+PAD, peripheral artery disease; VEGFi, vascular endothelial growth factor inhibitors.
+aClass of recommendation.
+bLevel of evidence.
+cVEGFi, nilotinib, ponatinib, platins, etc.
+ESC Guidelines
+4307
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 80 ===
+
+months. If peak TRV continues to rise, then right-heart catheteriza-
+tion should be performed, dasatinib treatment should be stopped,
+and PAH drugs should be considered if PAH is conﬁrmed.
+6.10. Pericardial diseases
+Pericarditis and pericardial effusion can be related to a wide range of
+cancer treatments including chest radiation, cytotoxic therapies (an-
+thracyclines, bleomycin, cyclophosphamide, cytarabine), targeted
+therapies (all-trans retinoic acid, arsenic trioxide, dasatinib), and
+immune-based therapies (interleukin-2, interferon-αICI). A combin-
+ation of therapies may have a synergistic effect on the pericardium.
+These therapy-induced complications must be differentiated from
+progressive cancer (local invasion, metastatic involvement, or medias-
+tinal lymphatic drainage obstruction) and non-cancer-related causes
+such as infection, especially in immune-compromised patients.622 A
+careful history and clinical examination are of help to determine the
+cause. TTE plays a central role in diagnosis and management. CT
+and CMR can provide additional information on pericardial inﬂamma-
+tion and constrictive physiology. The principles for the diagnosis and
+management should follow the 2015 ESC Guidelines for the diagnosis
+and management of pericardial diseases,444 but there are some speciﬁc
+issues to consider in patients with cancer.482
+6.10.1. Pericarditis
+The diagnosis of pericarditis in patients with cancer follows the same
+principles as in those without, but symptoms can be atypical.444
+Acute pericarditis caused by radiation has become rare due to lower
+doses and improved radiation techniques. It occurs within days to
+weeks after treatment and is usually self-limiting, but can evolve to-
+wards constrictive pericarditis many years later (Section 8.6).
+Pericarditis caused by conventional cancer therapies often resolves
+with standard therapy or after discontinuation of the treatment.444
+Cancer treatment interruption should be discussed with the
+cardio-oncology team. Treatment with anti-inﬂammatory drugs
+(e.g. ibuprofen) and colchicine, in the absence of contraindications,
+is recommended as it reduces the rate of recurrence requiring re-
+peat intervention.623 Low-to-moderate doses of steroids are only in-
+dicated for resistant cases except ICI-related pericarditis.444
+ICI-associated pericarditis has a median time of onset of 30 days in
+retrospective surveillance studies and is associated with a poor prog-
+nosis, especially in case of concomitant myocarditis.444,624
+In patients with severe ICI-associated pericarditis with moderate or
+severe effusion, ICI discontinuation and high-dose steroids (methylpred-
+nisolone 1 mg/kg/day) with or without colchicine are recommended, as
+well as pericardiocentesis in case of cardiac tamponade.624,625 In case of
+refractory pericarditis, immunosuppressive drugs should be considered.
+For uncomplicated ICI-related pericarditis, the ICI might be continued
+and colchicine or non-steroidal anti-inﬂammatory drugs could be con-
+sidered.326,444 For patients requiring ICI discontinuation, restarting ICI
+can be considered in a MDT discussion after resolution of pericardial
+disease and under close monitoring.
+6.10.2. Pericardial effusion
+Pericardial effusions are often observed as an incidental ﬁnding in pa-
+tients with cancer. Cancer therapy is the cause of a pericardial effu-
+sion in ,30% of cases, although this may increase with the expanding
+use of ICI in cancer. Malignancy-related pericardial effusions caused
+by direct (lung, oesophageal, breast) or metastatic invasion (haem-
+atological malignancies, ovarian, melanoma) or by lymph node ob-
+struction are generally associated with poor prognosis.
+Clinical presentation depends on the size of the effusion and the
+speed of its growth.444 Malignancy-related pericardial effusions
+make up .30% of patients presenting with cardiac tamponade626
+and usually develop slowly, resulting in larger pericardial effusions
+at the time of diagnosis compared with non-malignant pericardial ef-
+fusions. Management consists of determination of the cause and
+evaluation of the haemodynamic impact. Small-to-medium-sized ef-
+fusions (.4 and ,20 mm) can be monitored with a reassessment
+7–14 days after initial diagnosis and at further 4–6-weekly inter-
+vals.444,627 In unstable patients with signs of tamponade, immediate
+echocardiographic-guided percutaneous pericardiocentesis is pre-
+ferred over surgical pericardiotomy to minimize potential complica-
+tions.628 In patients with cardiac tamponade due to malignant
+pericardial effusions, colchicine may be useful to improve clinical out-
+comes and reduce the rate of repeat intervention.623 Drainage of a
+pericardial effusion related to ICI is rarely required629 and corticos-
+teroids should be considered.630 Intrapericardial instillation of
+cytostatic/sclerosing
+agents,
+colchicine,623
+and
+radiation
+for
+radiation-sensitive tumours can reduce recurrence after drainage.
+The creation of a pleuropericardial or pleuroperitoneal window
+with balloon pericardiotomy or surgery should be considered in
+case of recurrent malignant pericardial effusions after emergency
+pericardiocentesis.444
+A surgical pericardial window should be considered if the percu-
+taneous approach is not feasible and in stable patients with large
+(≥20 mm) or rapidly expanding malignant pericardial effusions prior
+to the development of cardiac tamponade.
+Recommendation Table 37 — Recommendations for
+the management of pulmonary hypertension during
+anticancer treatment
+Recommendations
+Classa
+Levelb
+Right-heart catheterization and discontinuation of
+dasatinib is recommended in patients who
+develop symptomatic or asymptomatic increase in
+peak TRV .3.4 m/s.
+I
+C
+Dasatinib dose reduction and close monitoring of
+peak TRV with echocardiography should be
+considered in patients who develop new
+asymptomatic peak TRV ranging from 2.9 to
+3.4 m/s.
+IIa
+C
+In patients with conﬁrmed dasatinib-induced
+PAHc or new asymptomatic peak TRV .3.4 m/s,
+an alternative BCR-ABL inhibitor is recommended
+after peak TRV recovery to ,2.8 m/s.
+I
+C
+© ESC 2022
+BCL-ABL, breakpoint cluster region–Abelson oncogene locus; PAH, pulmonary arterial
+hypertension; TRV, tricuspid regurgitation velocity.
+aClass of recommendation.
+bLevel of evidence.
+cDeﬁnite diagnosis of PAH requires a right-heart catheterization.
+4308
+ESC Guidelines
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026
+
+
+=== PAGE 81 ===
+
+7. End-of-cancer therapy
+cardiovascular risk assessment
+7.1. Cardiovascular evaluation during the
+ﬁrst year after cardiotoxic anticancer
+therapy
+End-of-cancer therapy CV risk assessment covers the ﬁrst 12
+months after the last cardiotoxic cancer treatment. These recom-
+mendations are where cardiotoxic cancer therapy has been success-
+fully
+completed
+with
+good
+long-term
+prognosis.
+These
+recommendations are not indicated when cancer therapies are dis-
+continued due to cancer progression and prognosis is poor, or
+where end-of-life care is indicated. Selected patients with cancer
+continue on long-term oncology therapies, e.g. women with oestro-
+gen receptor-positive early invasive BC. In this example, the
+end-of-therapy risk assessment refers to the timepoint from the
+last anthracycline or trastuzumab dose.
+High-risk patients can be identiﬁed at completion of their cardio-
+toxic cancer therapies by their clinical characteristics, history of
+CTR-CVT during treatment, and by elevated cardiac biomarkers
+and/or abnormal CV imaging at follow up.53,54,92 Cardiac serum bio-
+markers (NP and cTn) are useful given their high negative predictive
+value for future CV events.197,631 In a prospective study of 2625 adult
+patients with cancer that assessed LVEF after anthracycline-based
+chemotherapy, the overall incidence of CTRCD was 9%; 98% of
+cases could be detected within 12 months after chemotherapy and
+the median time from chemotherapy to CTRCD detection was
+3.5 months (interquartile range 3–6 months).208 The response to
+ACE-I treatment declined when the interval between the end of
+chemotherapy and CTRCD detection lengthened; complete LVEF
+recovery was not observed in patients where treatment was delayed
+by .6 months.425
+Measurement of cTn after completion of anthracycline chemo-
+therapy during the end-of-treatment assessment should be consid-
+ered. Rises in cTnI after anthracycline chemotherapy identify
+patients at risk of future cardiac dysfunction who then beneﬁt
+from CV protection.4 Educating patients with cancer of their poten-
+tial increased CVD risk and supporting them to make appropriate
+healthy lifestyle choices is recommended. CS should also be advised
+to promptly report early signs and symptoms of possible CVD and
+inform medical teams of their previous cardiotoxic cancer therapies.
+CVRF including hypertension, DM, and dyslipidaemia correlate with
+the probability of future CV events in CS and should be well con-
+trolled after completion of cancer therapy.31,632,633
+7.2. Which cancer survivors require
+cardiovascular surveillance in the ﬁrst
+year after cancer treatment?
+The end-of-treatment risk assessment ideally identiﬁes those high-risk
+CS, who require long-term CV surveillance, based on the following
+criteria (Table 10):
+(1) Baseline high or very high risk based on HFA-ICOS risk assess-
+ment tools12 (Section 4).
+(2) Cardiotoxic cancer therapy with a high risk of long-term CV
+complications7,21 (Section 8).
+(3) Moderate or severe CTR-CVT diagnosed during cancer treat-
+ment (Table 3).68
+(4) New abnormalities in cardiac function detected by echocardiog-
+raphy, new elevated cardiac serum biomarkers, or newly CV
+symptoms detected at the end-of-therapy assessment (3 or 12
+months after treatment).68,208
+The timing of the ﬁrst CV assessment after cardiotoxic cancer
+treatment depends on the risk deﬁned by baseline CV assessment,
+the type of cancer therapy, and whether CTR-CVT was diagnosed
+during treatment.
+In asymptomatic high-risk patients (Table 10), echocardiography
+and cardiac serum biomarkers are recommended at 3 and 12 months
+after
+completion
+of
+cancer
+therapy.53,54,59,61,68,148,208,425
+In
+Recommendation Table 38 — Recommendations for
+the management of pericardial diseases in patients re-
+ceiving anticancer treatment
+Recommendations
+Classa
+Levelb
+General
+Diagnosis and management of acute pericarditis in
+patients with cancer based on the 2015 ESC
+Guidelines for the diagnosis and management of
+pericardial diseases is recommended and a
+multidisciplinary discussion is needed before
+interrupting cancer therapy.444
+I
+C
+A surgical pericardial window should be
+considered if the percutaneous approach is not
+feasible or in cases of recurrent malignant
+pericardial effusions.
+IIa
+C
+Intrapericardial instillation of cytostatic or
+sclerosing agents may be considered for
+prevention of recurrence.
+IIb
+C
+Diagnosis and management of ICI-associated pericarditis
+Multimodality CV imaging (echocardiography,
+CMR + CT), ECG and measurement of cardiac
+biomarkers are recommended to conﬁrm the
+diagnosis, assess the haemodynamic
+consequences of pericardial disease, and rule out
+associated myocarditis.
+I
+C
+Prednisolone and colchicine are recommended
+for patients with ICI-associated
+pericarditis.326,624,625,630
+I
+C
+Interruption of ICI treatment in patients with
+conﬁrmed ICI-associated pericarditis with
+moderate-to-severe pericardial effusion is
+recommended.
+I
+C
+A multidisciplinary discussion is recommended
+before restarting ICI treatment.
+I
+C
+© ESC 2022
+CMR, cardiac magnetic resonance; CT, computed tomography; CV, cardiovascular;
+ECG, electrocardiogram; ESC, European Society of Cardiology; ICI, immune
+checkpoint inhibitors.
+aClass of recommendation.
+bLevel of evidence.
+ESC Guidelines
+4309
+Downloaded from https://academic.oup.com/eurheartj/article/43/41/4229/6673995 by guest on 31 March 2026

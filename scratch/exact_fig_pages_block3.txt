@@ -1,0 +1,15 @@
+Figure 25 -> Page 55, caption y0=659.2
+Figure 26 -> Page 57, caption y0=538.9
+Figure 27 -> Page 59, caption y0=536.8
+Figure 28 -> Page 60, caption y0=537.1
+Figure 29 -> Page 62, caption y0=702.5
+Figure 29 -> Page 63, caption y0=468.4
+Figure 29 -> Page 63, caption y0=720.4
+Figure 30 -> Page 67, caption y0=538.6
+Figure 31 -> Page 68, caption y0=573.6
+Figure 32 -> Page 71, caption y0=663.8
+Figure 32 -> Page 72, caption y0=108.4
+Figure 33 -> Page 73, caption y0=721.2
+Figure 34 -> Page 74, caption y0=367.3
+Figure 35 -> Page 75, caption y0=684.3
+Figure 36 -> Page 76, caption y0=653.2
