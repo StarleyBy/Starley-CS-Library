@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt19-prevention-leg-ischaemia",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 19",
+  "title": {
+    "en": "Recommendations for the Prevention of Leg Ischaemia",
+    "ru": "Рекомендации по профилактике ишемии нижней конечности при ВМПК (tMCS)"
+  },
+  "tags": [
+    "tmcs",
+    "leg-ischaemia",
+    "limb-perfusion",
+    "distal-perfusion-cannula",
+    "dpc",
+    "femoral-cannulation",
+    "nirs",
+    "oxygen-saturation-difference"
+  ],
+  "sections": [
+    {
+      "id": "sec-prevention-leg-ischaemia",
+      "title": {
+        "en": "Recommendations for the Prevention of Leg Ischaemia",
+        "ru": "Рекомендации по профилактике ишемии нижней конечности"
+      },
+      "rows": [
+        {
+          "id": "r01-distal-perfusion-cannula-femoral-arterial",
+          "text": {
+            "en": "A distal perfusion cannula is recommended for patients with femoral arterial cannulation.",
+            "ru": "При канюляции бедренной артерии для предотвращения ишемии конечности рекомендуется обязательная установка канюли (катетера) дистальной перфузии ноги."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [423, 425, 426, 427, 428]
+        },
+        {
+          "id": "r02-monitoring-distal-perfusion-peripheral-cannulation",
+          "text": {
+            "en": "Monitoring of distal perfusion is recommended in patients with peripheral cannulation.",
+            "ru": "У пациентов с периферической канюляцией рекомендуется регулярный мониторинг дистальной перфузии конечности."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [462, 464, 465, 518]
+        },
+        {
+          "id": "r03-oxygen-saturation-difference-over-15-percent",
+          "text": {
+            "en": "In patients with peripheral cannulation, differences in oxygen saturation between the extremities > 15% may be considered an indication for prompt evaluation of extremity perfusion.",
+            "ru": "У пациентов с периферической канюляцией разница в насыщении кислородом (сатурации/rSO₂) между конечностями > 15% может рассматриваться как показание к экстренной оценке перфузии конечности и ревизии сосудистого русла."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [462, 466]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

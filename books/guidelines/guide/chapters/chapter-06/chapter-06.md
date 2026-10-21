@@ -102,6 +102,9 @@ The specific situation of the patient. Unless otherwise provided for by national
 
 #### <span id="table-1"></span>Table 1: Classes of recommendations</summary><div class="details-content">
 
+[📋 Interactive Table: Classes of Recommendations and Levels of Evidence](#/tables/esc-acs-2023.t01-classes-of-recommendations-and-levels-of-evidence)
+
+
 | Class | Definition | Wording to use |
 |-------|------------|----------------|
 | Class I | Evidence and/or general agreement that a given treatment or procedure is beneficial, useful, effective. | Is recommended or is indicated |
@@ -195,6 +198,9 @@ The total number of recommendations in this guideline is 193. A summary of the r
 
 #### <span id="table-4"></span>Table 4: New recommendations</summary><div class="details-content">
 
+[📋 Interactive Table: New recommendations in 2023 ESC Guidelines for the management of acute coronary syndromes](#/tables/esc-acs-2023.t04-new-recommendations)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Recommendations for antiplatelet and anticoagulant therapy in acute coronary syndrome** | | |
@@ -250,6 +256,9 @@ The total number of recommendations in this guideline is 193. A summary of the r
 <details class="med-details"><summary>
 
 #### <span id="table-5"></span>Table 5: Revised recommendations</summary><div class="details-content">
+
+[📋 Interactive Table: Revised recommendations in 2023 ESC Guidelines for the management of acute coronary syndromes](#/tables/esc-acs-2023.t05-revised-recommendations)
+
 
 | Recommendations in 2017 and 2020 versions | Class | Level | Recommendations in 2023 version | Class | Level |
 |------------------------------------------|-------|-------|--------------------------------|-------|-------|
@@ -487,6 +496,9 @@ Several cardiac and non-cardiac conditions that may mimic ACS should be consider
 
 #### Recommendation Table 1 - Recommendations for clinical and diagnostic tools for patients with suspected acute coronary syndrome</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for clinical and diagnostic tools for patients with suspected acute coronary syndrome](#/tables/esc-acs-2023.rt01)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | It is recommended to base the diagnosis and initial short-term risk stratification of ACS on a combination of clinical history, symptoms, vital signs, other physical findings, ECG, and hs-cTn. | I | B |
@@ -508,6 +520,9 @@ Several cardiac and non-cardiac conditions that may mimic ACS should be consider
 <details class="med-details"><summary>
 
 #### Recommendation Table 2 - Recommendations for non-invasive imaging in the initial assessment of patients with suspected acute coronary syndrome</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for non-invasive imaging in the initial assessment of patients with suspected acute coronary syndrome](#/tables/esc-acs-2023.rt02)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -641,6 +656,9 @@ Few RCTs testing early i.v. beta-blockers have been performed in the era of inva
 <details class="med-details"><summary>
 
 #### Recommendation Table 3 - Recommendations for the initial management of patients with acute coronary syndrome</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for the initial management of patients with acute coronary syndrome](#/tables/esc-acs-2023.rt03)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -801,6 +819,9 @@ Information regarding the management of ACS patients with CAD that is not amenab
 
 #### Recommendation Table 4 - Recommendations for reperfusion therapy and timing of invasive strategy</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for reperfusion therapy and timing of invasive strategy](#/tables/esc-acs-2023.rt04)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Recommendations for reperfusion therapy for patients with STEMI** | | |
@@ -836,6 +857,9 @@ Antithrombotic treatment is an important component of the management of all pati
 **Figure 9** Antithrombotic treatments in acute coronary syndrome: pharmacological targets.
 
 <span id="table-6"></span>**Table 6** Dose regimen of antiplatelet and anticoagulant drugs in acute coronary syndrome patients
+
+[📋 Interactive Table: Dose regimen of antiplatelet and anticoagulant drugs in acute coronary syndrome patients](#/tables/esc-acs-2023.t06-dose-regimen)
+
 
 | I. Antiplatelet drugs | |
 |----------------------|---|
@@ -1110,6 +1134,9 @@ Patients with a final diagnosis of ACS who do not undergo reperfusion should rec
 
 #### Recommendation Table 5 - Recommendations for antiplatelet and anticoagulant therapy in acute coronary syndrome</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for antiplatelet and anticoagulant therapy in acute coronary syndrome](#/tables/esc-acs-2023.rt05)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Antiplatelet therapy** | | |
@@ -1157,6 +1184,9 @@ Patients with a final diagnosis of ACS who do not undergo reperfusion should rec
 
 #### Recommendation Table 6 - Recommendations for alternative antithrombotic therapy regimens</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for alternative antithrombotic therapy regimens](#/tables/esc-acs-2023.rt06)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Shortening/de-escalation of antithrombotic therapy** | | |
@@ -1177,6 +1207,9 @@ Patients with a final diagnosis of ACS who do not undergo reperfusion should rec
 <details class="med-details"><summary>
 
 #### Recommendation Table 7 - Recommendations for fibrinolytic therapy</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for fibrinolytic therapy](#/tables/esc-acs-2023.rt07)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1242,6 +1275,9 @@ It is important to note that while there is still a lack of high-quality randomi
 
 #### Recommendation Table 8 - Recommendations for cardiac arrest and out-of-hospital cardiac arrest</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for cardiac arrest and out-of-hospital cardiac arrest](#/tables/esc-acs-2023.rt08)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Cardiac arrest and OHCA** | | |
@@ -1260,6 +1296,9 @@ It is important to note that while there is still a lack of high-quality randomi
 <details class="med-details"><summary>
 
 #### Recommendation Table 9 - Recommendations for cardiogenic shock</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for cardiogenic shock](#/tables/esc-acs-2023.rt09)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1381,6 +1420,9 @@ Major bleeding events affect prognosis in a similar way to spontaneous ischaemic
 <details class="med-details"><summary>
 
 #### Recommendation Table 10 - Recommendations for in-hospital management</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for in-hospital management](#/tables/esc-acs-2023.rt10)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1538,6 +1580,9 @@ Conservative medical management, as opposed to PCI, is generally recommended for
 
 #### Recommendation Table 11 - Recommendations for technical aspects of invasive strategies</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for technical aspects of invasive strategies](#/tables/esc-acs-2023.rt11)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Radial access is recommended as the standard approach, unless there are overriding procedural considerations. | I | A |
@@ -1635,6 +1680,9 @@ Hybrid coronary revascularization (HCR) is defined as combined or consecutive pr
 
 #### Recommendation Table 12 - Recommendations for management of patients with multivessel disease</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for management of patients with multivessel disease](#/tables/esc-acs-2023.rt12)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | It is recommended to base the revascularization strategy (IRA PCI, multivessel PCI/CABG) on the patient's clinical status and comorbidities, as well as their disease complexity, according to the principles of management of myocardial revascularization. | I | B |
@@ -1675,11 +1723,12 @@ If the underlying cause of MINOCA is not established using functional coronary a
 
 Diagnosis of the underlying cause of MINOCA will enable the appropriate treatment to be initiated based on the final diagnosis. Secondary prevention therapies should be considered for those with evidence of coronary atherosclerotic disease and to control risk factors. The management of takotsubo syndrome is not informed by any prospective RCTs, and treatment is largely supportive and empiric. The treatment of patients with myocarditis has been covered by previous ESC documents. Ischemia with non-obstructive coronary arteries (INOCA) has also been described in the context of CCS. Additional information about MINOCA is provided in the Supplementary data online, including Table S13.
 
-</div></details>
-
 <details class="med-details"><summary>
 
 #### Recommendation Table 13 - Recommendations for myocardial infarction with non-obstructive coronary arteries</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for myocardial infarction with non-obstructive coronary arteries](#/tables/esc-acs-2023.rt13)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1913,6 +1962,9 @@ A section on the impact of Coronavirus disease (COVID-19) on ACS management is p
 
 #### Recommendation Table 14 - Recommendations for acute coronary syndrome complications</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for acute coronary syndrome complications](#/tables/esc-acs-2023.rt14)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Heart failure** | | |
@@ -1947,6 +1999,9 @@ A section on the impact of Coronavirus disease (COVID-19) on ACS management is p
 <details class="med-details"><summary>
 
 #### Recommendation Table 15 - Recommendations for acute coronary syndrome comorbid conditions</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for acute coronary syndrome comorbid conditions](#/tables/esc-acs-2023.rt15)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -2198,6 +2253,9 @@ For further information on hormone replacement therapy in patients with ACS, ple
 
 #### Recommendation Table 16 - Recommendations for long-term management</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for long-term management](#/tables/esc-acs-2023.rt16)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Cardiac rehabilitation** | | |
@@ -2315,6 +2373,9 @@ Many ACS patients may not be fully aware of what has happened to them and how to
 
 #### Recommendation Table 17 - Recommendations for patient perspectives in acute coronary syndrome care</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for patient perspectives in acute coronary syndrome care](#/tables/esc-acs-2023.rt17)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Patient-centred care is recommended by assessing and adhering to individual patient preferences, needs and beliefs, ensuring that patient values are used to inform all clinical decisions. | I | B |
@@ -2404,70 +2465,165 @@ Acute coronary syndrome QIs aim to audit practice and improve clinical outcomes 
 
 ## 17. Sex differences</summary><div class="details-content">
 
-Female sex is less common in patients diagnosed with IE, being present in approximately one-third of cases; a finding that has been demonstrated in multiple IE patient subpopulations and across different regions. The reason why female sex is observed less frequently in IE is unknown and deserves further investigation. Possible reasons include underdiagnosis of IE in women, referral bias in published studies, intrinsic protective mechanisms against IE in women, and decreased incidence of risk factors for IE in women (e.g. bicuspid aortic valve disease, previous heart valve replacement surgery), among others. A recent nationwide population study of individual patient-level linkage data of 7513 patients hospitalized for IE in Scotland, however, demonstrated roughly equal proportions of male and female patients throughout the 25-year study period.
+There are currently no data supporting the differential management of ACS based on sex. However, several studies have reported that women presenting with ACS are treated differently than men. This includes being less likely than men to receive ICA, timely revascularization, CR, and secondary prevention medications. Healthcare providers and policymakers should be conscious of this potential gender bias in the management of ACS and make a concerted effort to ensure that women with ACS receive evidence-based care.
 
-Female patients with IE have been demonstrated to have a higher prevalence of several risk factors for IE in comparison to their male counterparts including older age, mitral valve involvement, S. aureus infection, neurological symptoms, and haemodialysis. However, men have a higher prevalence of other important risk factors including previous prosthetic valve replacement, periannular complications, CAD, and liver cirrhosis.
-
-Some studies have demonstrated higher mortality rates for female patients with IE, while others have demonstrated no differences in early and 1-year mortality rates between males and females. The abovementioned population study from Scotland showed lower mortality rates for women during the study period.
-
-Although surgery has been demonstrated to be protective against mortality in several clinical scenarios (see Section 8), surgery is performed less frequently in female patients with IE. In a study using the National Inpatient Sample of 81,942 patients hospitalized for IE over an 11-year period, women were 43% less likely to undergo valve replacement surgery, a significant difference that remained after adjusting for confounding factors. The reason for decreased surgery in female IE patients is unknown and requires further investigation.
-
-Female sex has also been identified as an independent risk factor for mortality in prediction models for patients with IE undergoing surgery. However, a single-centre study suggested that worse observed surgical outcomes in female patients with IE was related to their increased risk factors and severity of presentation, rather than gender per se. In addition, a large multicentre registry of 4300 patients undergoing surgery for IE failed to identify female gender as an independent predictor of mortality.
+In order to ensure the generalizability of the findings yielded by RCTs, patient recruitment should be reflective of real-world populations from different socioeconomic backgrounds. Several studies have reported that a disproportionately low proportion of women are recruited to CV trials. Alongside historic under-representation of other subsets of patients, including older patients and ethnic minorities, this suggests an underlying recruitment bias. Increased representation of female patients in future clinical trials is required to better inform the optimal management of women with ACS.
 
 </div></details>
 
 <details class="med-details"><summary>
 
-## 18. What to do' and 'What not to do' messages from the Guidelines</summary><div class="details-content">
+## 18. 'What to do' and 'What not to do' messages from the Guidelines</summary><div class="details-content">
 
-Class I and Class III recommendations from throughout the guideline document are summarized in [Table 14](#table-14).
+Class I and Class III recommendations from throughout the guideline document are summarized in [Table 9](#table-9).
 
 <details class="med-details"><summary>
 
-#### <span id="table-14"></span>Table 14: What to do' and 'What not to do'</summary><div class="details-content">
+#### <span id="table-9"></span>Table 9: 'What to do' and 'What not to do' messages from the Guidelines</summary><div class="details-content">
+
+[📋 Interactive Table: Table 9: 'What to do' and 'What not to do' messages from the Guidelines](#/tables/esc-acs-2023.t09-what-to-do)
 
 | Recommendation | Class | Level |
 |----------------|-------|-------|
-| **Prevention** | | |
-| Antibiotic prophylaxis is recommended in patients with previous IE. | I | B |
-| General prevention measures are recommended in individuals at high and intermediate risk of IE. | I | C |
-| Antibiotic prophylaxis is recommended in patients with surgically implanted prosthetic valves and with any material used for surgical cardiac valve repair. | I | C |
-| Antibiotic prophylaxis is recommended in patients with transcatheter implanted aortic and pulmonary valvular prostheses. | I | C |
-| Antibiotic prophylaxis is recommended in patients with untreated cyanotic CHD, and patients treated with surgery or transcatheter procedures with post-operative palliative shunts, conduits, or other prostheses. | I | C |
-| Antibiotic prophylaxis is recommended in patients with ventricular assist devices. | I | C |
-| Antibiotic prophylaxis is not recommended in other patients at low risk of IE. | III | C |
-| Systematic skin or nasal decolonization without screening for S. aureus is not recommended. | III | C |
-| **Diagnosis** | | |
-| TTE is recommended as the first-line imaging modality in suspected IE. | I | B |
-| TOE is recommended in all patients with clinical suspicion of IE and a negative or non-diagnostic TTE. | I | B |
-| TOE is recommended in patients with clinical suspicion of IE, when a prosthetic heart valve or an intracardiac device is present. | I | B |
-| Repeating TTE and/or TOE within 5-7 days is recommended in cases of initially negative or inconclusive examination when clinical suspicion of IE remains high. | I | C |
-| TOE is recommended in patients with suspected IE, even in cases with positive TTE, except in isolated right-sided native valve IE with good quality TTE examination and unequivocal echocardiographic findings. | I | C |
-| **Antimicrobial therapy** | | |
-| For penicillin-susceptible oral streptococci NVE: penicillin G, amoxicillin, or ceftriaxone for 4 weeks (I B). For PVE: 6 weeks (I B). | I | B |
-| 2-week treatment for uncomplicated NVE due to oral streptococci (penicillin/amoxicillin/ceftriaxone + gentamicin). | I | B |
-| For MSSA NVE: (flu)cloxacillin or cefazolin 4-6 weeks (I B). For PVE: + rifampin (≥6 weeks) + gentamicin (2 weeks) (I B). | I | B |
-| For MRSA NVE: vancomycin 4-6 weeks (I B). For PVE: + rifampin + gentamicin (I B). | I | B |
-| For non-HLAR Enterococcus NVE: ampicillin/amoxicillin + ceftriaxone 6 weeks or + gentamicin 2 weeks (I B). | I | B |
-| OPAT not recommended in highly difficult-to-treat microorganisms, severe CNS emboli, PWID-related IE. | III | C |
-| Thrombolytic therapy is not recommended in embolic stroke due to IE. | III | C |
-| **Surgery** | | |
-| Emergency surgery in aortic/mitral NVE/PVE with severe acute regurgitation/obstruction/fistula causing refractory pulmonary oedema or cardiogenic shock (I B). | I | B |
-| Urgent surgery in locally uncontrolled infection (abscess, false aneurysm, fistula, enlarging vegetation, prosthetic dehiscence, new AVB) (I B). | I | B |
-| Urgent surgery in aortic/mitral NVE/PVE with persistent vegetations ≥10 mm after one or more embolic episodes despite antibiotics (I B). | I | B |
-| **Follow-up** | | |
-| Patient education on recurrence risk and preventive measures during follow-up (I C). | I | C |
-| Addiction treatment for patients following PWID-related IE (I C). | I | C |
-| **CIED-related IE** | | |
-| Antibiotic prophylaxis covering S. aureus for CIED implantation (I A). | I | A |
-| TTE and TOE both recommended in suspected CIED-related IE (I B). | I | B |
-| Complete system extraction without delay in definite CIED-related IE (I B). | I | B |
-| Removal of CIED after a single positive blood culture with no other clinical evidence of infection – not recommended (III C). | III | C |
-| **Right-sided IE** | | |
-| Surgery recommended for right ventricular dysfunction from acute severe TR non-responsive to diuretics (I B). | I | B |
-| Surgery recommended for persistent vegetation with respiratory insufficiency after recurrent pulmonary emboli (I B). | I | B |
-
-*CHD, congenital heart disease; CIED, cardiac implantable electronic device; IE, infective endocarditis; MRSA, methicillin-resistant Staphylococcus aureus; MSSA, methicillin-susceptible Staphylococcus aureus; NVE, native valve endocarditis; OPAT, outpatient parenteral antibiotic therapy; PVE, prosthetic valve endocarditis; PWID, people who inject drugs; TOE, transoesophageal echocardiography; TTE, transthoracic echocardiography.*
+| **Recommendations for clinical and diagnostic tools for patients with suspected acute coronary syndrome** | | |
+| It is recommended that patients with suspected STEMI are immediately triaged for an emergency reperfusion strategy. | I | A |
+| It is recommended to base the diagnosis and initial short-term risk stratification of ACS on a combination of clinical history, symptoms, vital signs, other physical findings, ECG, and hs-cTn. | I | B |
+| Twelve-lead ECG recording and interpretation is recommended as soon as possible at the point of first medical contact, with a target of <10 min. | I | B |
+| Continuous ECG monitoring and the availability of defibrillator capacity is recommended as soon as possible in all patients with suspected STEMI, in suspected ACS with other ECG changes or ongoing chest pain, and once the diagnosis of MI is made. | I | B |
+| The use of additional ECG leads (V3R, V4R, and V7–V9) is recommended in cases of inferior STEMI or if total vessel occlusion is suspected and standard leads are inconclusive. | I | B |
+| An additional 12-lead ECG is recommended in cases with recurrent symptoms or diagnostic uncertainty. | I | C |
+| It is recommended to measure cardiac troponins with high-sensitivity assays immediately after presentation and to obtain the results within 60 min of blood sampling. | I | B |
+| It is recommended to use an ESC algorithmic approach with serial hs-cTn measurements (0 h/1 h or 0 h/2 h) to rule in and rule out NSTEMI. | I | B |
+| Additional testing after 3 h is recommended if the first two hs-cTn measurements of the 0 h/1 h algorithm are inconclusive and no alternative diagnoses explaining the condition have been made. | I | B |
+| **Recommendations for non-invasive imaging in the initial assessment of patients with suspected acute coronary syndrome** | | |
+| Emergency TTE is recommended in patients with suspected ACS presenting with cardiogenic shock or suspected mechanical complications. | I | C |
+| Routine, early coronary computed tomography angiography in patients with suspected ACS is not recommended. | III | B |
+| **Recommendations for the initial management of patients with acute coronary syndrome** | | |
+| It is recommended that the pre-hospital management of patients with a working diagnosis of STEMI is based on regional networks designed to deliver reperfusion therapy expeditiously and effectively, with efforts made to make PPCI available to as many patients as possible. | I | B |
+| It is recommended that PPCI-capable centres deliver a 24/7 service and are able to perform PPCI without delay. | I | B |
+| It is recommended that patients transferred for PPCI bypass the emergency department and CCU/ICU and are transferred directly to the catheterization laboratory. | I | B |
+| Oxygen is recommended in patients with hypoxaemia (SaO2 <90%). | I | C |
+| It is recommended that EMS transfer patients with suspected STEMI to a PCI-capable centre, bypassing non-PCI centres. | I | C |
+| It is recommended that ambulance teams are trained and equipped to identify ECG patterns suggestive of acute coronary occlusion and to administer initial therapy, including defibrillation, and fibrinolysis when applicable. | I | C |
+| It is recommended that all hospitals and EMS participating in the care of patients with suspected STEMI record and audit delay times and work together to achieve and maintain quality targets. | I | C |
+| Routine oxygen is not recommended in patients with oxygen saturation >90%. | III | A |
+| **Recommendations for reperfusion therapy and timing of invasive strategy** | | |
+| Reperfusion therapy is recommended in all patients with a working diagnosis of STEMI (persistent ST-segment elevation or equivalents) and symptoms of ischaemia of ≤12 h duration. | I | A |
+| A PPCI strategy is recommended over fibrinolysis if the anticipated time from diagnosis to PCI is <120 min. | I | A |
+| If timely PPCI (<120 min) cannot be performed in patients with a working diagnosis of STEMI, fibrinolytic therapy is recommended within 12 h of symptom onset in patients without contraindications. | I | A |
+| Rescue PCI is recommended for failed fibrinolysis (i.e. ST-segment resolution <50% within 60–90 min of fibrinolytic administration) or in the presence of haemodynamic or electrical instability, worsening ischaemia, or persistent chest pain. | I | A |
+| In patients with a working diagnosis of STEMI and a time from symptom onset >12 h, a PPCI strategy is recommended in the presence of ongoing symptoms suggestive of ischaemia, haemodynamic instability, or life-threatening arrhythmias. | I | C |
+| Routine PCI of an occluded IRA is not recommended in STEMI patients presenting >48 h after symptom onset and without persistent symptoms. | III | A |
+| Transfer to a PCI-capable centre is recommended in all patients immediately after fibrinolysis. | I | A |
+| Emergency angiography and PCI of the IRA, if indicated, is recommended in patients with new-onset or persistent heart failure/shock after fibrinolysis. | I | A |
+| Angiography and PCI of the IRA, if indicated, is recommended between 2 and 24 h after successful fibrinolysis. | I | A |
+| An invasive strategy during hospital admission is recommended in NSTE-ACS patients with high-risk criteria or with a high index of suspicion for unstable angina. | I | A |
+| A selective invasive approach is recommended in patients without very high- or high-risk features and a low index of suspicion for NSTE-ACS. | I | A |
+| An immediate invasive strategy is recommended in patients with a working diagnosis of NSTE-ACS and with at least one of the following very high-risk criteria: • Haemodynamic instability or cardiogenic shock • Recurrent or refractory chest pain despite medical treatment • In-hospital life-threatening arrhythmias • Mechanical complications of MI • Acute heart failure presumed secondary to ongoing myocardial ischaemia • Recurrent dynamic ST-segment or T wave changes, particularly intermittent ST-segment elevation. | I | C |
+| **Recommendations for antiplatelet and anticoagulant therapy in acute coronary syndrome** | | |
+| Aspirin is recommended for all patients without contraindications at an initial oral LD of 150–300 mg (or 75–250 mg i.v.) and an MD of 75–100 mg o.d. for long-term treatment. | I | A |
+| In all ACS patients, a P2Y12 receptor inhibitor is recommended in addition to aspirin, given as an initial oral LD followed by an MD for 12 months unless there is high bleeding risk. | I | A |
+| A proton pump inhibitor in combination with dual antiplatelet therapy is recommended in patients at high risk of gastrointestinal bleeding. | I | A |
+| Prasugrel is recommended in P2Y12 receptor inhibitor-naive patients proceeding to PCI (60 mg LD, 10 mg o.d. MD, 5 mg o.d. MD for patients aged ≥75 years or with a body weight <60 kg). | I | B |
+| Ticagrelor is recommended irrespective of the treatment strategy (invasive or conservative) (180 mg LD, 90 mg twice a day MD). | I | B |
+| Clopidogrel (300–600 mg LD, 75 mg o.d. MD) is recommended when prasugrel or ticagrelor are not available, cannot be tolerated, or are contraindicated. | I | C |
+| If patients presenting with ACS stop DAPT to undergo CABG, it is recommended they resume DAPT after surgery for at least 12 months. | I | C |
+| Pre-treatment with a glycoprotein IIb/IIIa antagonist is not recommended. | III | A |
+| Routine pre-treatment with a P2Y12 receptor inhibitor in NSTE-ACS patients in whom coronary anatomy is not known and early invasive management (<24 h) is planned is not recommended. | III | A |
+| Parenteral anticoagulation is recommended for all patients with ACS at the time of diagnosis. | I | A |
+| Routine use of a UFH bolus (weight-adjusted i.v. bolus during PCI of 70–100 IU/kg) is recommended in patients undergoing PCI. | I | C |
+| Fondaparinux is not recommended in patients with STEMI undergoing PPCI. | III | B |
+| For patients with NSTE-ACS in whom early invasive angiography (i.e. within 24 h) is not anticipated, fondaparinux is recommended. | I | B |
+| As the default strategy for patients with atrial fibrillation and CHA2DS2-VASc score ≥1 in men and ≥2 in women, after up to 1 week of triple antithrombotic therapy following the ACS event, dual antithrombotic therapy using a non-vitamin K antagonist oral anticoagulant at the recommended dose for stroke prevention and a single oral antiplatelet agent (preferably clopidogrel) for up to 12 months is recommended. | I | A |
+| During PCI, a UFH bolus is recommended in any of the following circumstances: • if the patient is on a NOAC • if the INR is <2.5 in VKA-treated patients. | I | C |
+| The use of ticagrelor or prasugrel as part of triple antithrombotic therapy is not recommended. | III | C |
+| **Recommendations for alternative antithrombotic therapy regimens** | | |
+| Discontinuation of antiplatelet treatment in patients treated with an oral anticoagulant is recommended after 12 months. | I | B |
+| De-escalation of antiplatelet therapy in the first 30 days after ACS is not recommended. | III | B |
+| **Recommendations for fibrinolytic therapy** | | |
+| When fibrinolysis is the reperfusion strategy, it is recommended to initiate this treatment as soon as possible after diagnosis in the pre-hospital setting (aim for target of <10 min to lytic bolus). | I | A |
+| A fibrin-specific agent (i.e. tenecteplase, alteplase, or reteplase) is recommended. | I | B |
+| Aspirin and clopidogrel are recommended as antiplatelet co-therapy with fibrinolysis. | I | A |
+| Anticoagulation is recommended in patients treated with fibrinolysis until revascularization (if performed) or for the duration of hospital stay (up to 8 days). | I | A |
+| Enoxaparin i.v. followed by subcutaneous is recommended as the preferred anticoagulant. | I | A |
+| When enoxaparin is not available, unfractionated heparin is recommended as a weight-adjusted i.v. bolus, followed by infusion. | I | B |
+| **Recommendations for cardiac arrest and out-of-hospital cardiac arrest** | | |
+| A PPCI strategy is recommended in patients with resuscitated cardiac arrest and an ECG with persistent ST-segment elevation (or equivalents). | I | B |
+| Temperature control (i.e. continuous monitoring of core temperature and active prevention of fever [i.e. >37.7°C]) is recommended after either out-of-hospital or in-hospital cardiac arrest for adults who remain unresponsive after return of spontaneous circulation. | I | B |
+| Routine immediate angiography after resuscitated cardiac arrest is not recommended in haemodynamically stable patients without persistent ST-segment elevation (or equivalents). | III | A |
+| It is recommended that healthcare systems implement strategies to facilitate transfer of all patients in whom ACS is suspected after resuscitated cardiac arrest directly to a hospital offering 24/7 PPCI via one specialized EMS. | I | C |
+| Evaluation of neurological prognosis (no earlier than 72 h after admission) is recommended in all comatose survivors after cardiac arrest. | I | C |
+| **Recommendations for cardiogenic shock** | | |
+| Immediate coronary angiography and PCI of the IRA (if indicated) is recommended in patients with CS complicating ACS. | I | B |
+| Emergency CABG is recommended for ACS-related CS if PCI of the IRA is not feasible/unsuccessful. | I | B |
+| In cases of haemodynamic instability, emergency surgical/catheter-based repair of mechanical complications of ACS is recommended, based on Heart Team discussion. | I | C |
+| The routine use of an intra-aortic balloon pump in ACS patients with CS and without mechanical complications is not recommended. | III | B |
+| **Recommendations for in-hospital management** | | |
+| It is recommended that all hospitals participating in the care of high-risk patients have an ICCU/CCU equipped to provide all required aspects of care, including treatment of ischaemia, severe heart failure, arrhythmias, and common comorbidities. | I | C |
+| It is recommended that high-risk patients (including all STEMI patients and very high-risk NSTE-ACS patients) have ECG monitoring for a minimum of 24 h. | I | C |
+| It is recommended that high-risk patients with successful reperfusion therapy and an uncomplicated clinical course (including all STEMI patients and very high-risk NSTE-ACS patients) are kept in the CCU/ICCU for a minimum of 24 h whenever possible, after which they may be moved to a step-down monitored bed for an additional 24–48 h. | I | C |
+| **Recommendations for technical aspects of invasive strategies** | | |
+| Radial access is recommended as the standard approach, unless there are over-riding procedural considerations. | I | A |
+| PCI with stent deployment in the IRA during the index procedure is recommended for patients undergoing PPCI. | I | A |
+| Drug-eluting stents are recommended in preference to bare metal stents in all cases. | I | A |
+| In patients with spontaneous coronary artery dissection, PCI is recommended only for patients with symptoms and signs of ongoing myocardial ischaemia, a large area of myocardium in jeopardy, and reduced antegrade flow. | I | C |
+| The routine use of thrombus aspiration is not recommended. | III | A |
+| **Recommendations for management of patients with multivessel disease** | | |
+| It is recommended to base the revascularization strategy (IRA PCI, multivessel PCI/CABG) on the patient's clinical status and comorbidities, as well as their disease complexity, according to the principles of management of myocardial revascularization. | I | B |
+| IRA-only PCI during the index procedure is recommended in ACS patients presenting in cardiogenic shock. | I | B |
+| Complete revascularization is recommended either during the index PCI procedure or within 45 days in haemodynamically stable STEMI patients undergoing PPCI. | I | A |
+| It is recommended that PCI of the non-IRA is based on angiographic severity in haemodynamically stable STEMI patients undergoing PPCI. | I | B |
+| Invasive epicardial functional assessment of non-culprit segments of the IRA is not recommended during the index procedure. | III | C |
+| **Recommendations for myocardial infarction with non-obstructive coronary arteries** | | |
+| In patients with a working diagnosis of MINOCA CMR imaging is recommended after invasive angiography if the final diagnosis is not clear. | I | B |
+| Management of MINOCA according to the final established underlying diagnosis is recommended, consistent with the appropriate disease-specific guidelines. | I | B |
+| In all patients with an initial working diagnosis of MINOCA, it is recommended to follow a diagnostic algorithm to determine the underlying final diagnosis. | I | C |
+| **Recommendations for acute coronary syndrome complications** | | |
+| Intravenous beta-blockers are recommended when rate control is needed in the absence of acute HF or hypotension. | I | C |
+| Intravenous amiodarone is recommended when rate control is needed in the presence of acute HF and no hypotension. | I | C |
+| Immediate electrical cardioversion is recommended in patients with ACS and haemodynamic instability and when adequate rate control cannot be achieved promptly with pharmacological agents. | I | C |
+| Intravenous amiodarone is recommended to facilitate electrical cardioversion and/or decrease risk of early recurrence of AF after electrical cardioversion in unstable patients with recent-onset AF. | I | C |
+| Implantable cardioverter defibrillator use is recommended to reduce sudden cardiac death in patients with symptomatic HF (NYHA Class II–III) and LVEF ≤35% despite optimal medical therapy for >3 months and at least 6 weeks after MI who are expected to survive for at least 1 year with good functional status. | I | A |
+| Intravenous beta-blocker and/or amiodarone treatment is recommended for patients with polymorphic VT and/or VF unless contraindicated. | I | B |
+| Prompt and complete revascularization is recommended to treat myocardial ischaemia that may be present in patients with recurrent VT and/or VF. | I | C |
+| In cases of sinus bradycardia with haemodynamic intolerance or high-degree AV block without stable escape rhythm: • i.v. positive chronotropic medication (adrenaline, vasopressin, and/or atropine) is recommended. | I | C |
+| In cases of sinus bradycardia with haemodynamic intolerance or high-degree AV block without stable escape rhythm: • temporary pacing is recommended in cases of failure to respond to atropine. | I | C |
+| In cases of sinus bradycardia with haemodynamic intolerance or high-degree AV block without stable escape rhythm: • urgent angiography with a view to revascularization is recommended if the patient has not received previous reperfusion therapy. | I | C |
+| Implantation of a permanent pacemaker is recommended when high-degree AV block does not resolve within a waiting period of at least 5 days after MI. | I | C |
+| Pacing is not recommended if high-degree AV block resolves after revascularization or spontaneously. | III | B |
+| Treatment of asymptomatic and haemodynamically irrelevant ventricular arrhythmias with anti-arrhythmic drugs is not recommended. | III | C |
+| **Recommendations for acute coronary syndrome comorbid conditions** | | |
+| The use of low- or iso-osmolar contrast media (at the lowest possible volume) is recommended for invasive strategies. | I | A |
+| It is recommended to assess kidney function using eGFR in all patients with ACS. | I | C |
+| It is recommended to apply the same diagnostic and therapeutic strategies in patients with CKD (dose adjustment may be necessary) as in patients with normal kidney function. | I | C |
+| It is recommended to base the choice of long-term glucose-lowering treatment on the presence of comorbidities, including heart failure, CKD, and obesity. | I | A |
+| It is recommended to assess glycaemic status at initial evaluation in all patients with ACS. | I | B |
+| It is recommended to frequently monitor blood glucose levels in patients with known diabetes mellitus or hyperglycaemia (defined as glucose levels ≥11.1 mmol/L or ≥200 mg/dL). | I | C |
+| It is recommended to apply the same diagnostic and treatment strategies in older patients as in younger patients. | I | B |
+| It is recommended to adapt the choice and dosage of antithrombotic agent, as well as of secondary prevention medications, to renal function, co-medications, comorbidities, frailty, cognitive function, and specific contraindications. | I | B |
+| For frail older patients with comorbidities, a holistic approach is recommended to individualize interventional and pharmacological treatments after careful evaluation of the risks and benefits. | I | B |
+| An invasive strategy is recommended in cancer patients presenting with high-risk ACS with expected life survival ≥6 months. | I | B |
+| A temporary interruption of cancer therapy is recommended in patients in whom the cancer therapy is suspected to be a contributing cause of ACS. | I | C |
+| Aspirin is not recommended in cancer patients with a platelet count <10 000/μL. | III | C |
+| Clopidogrel is not recommended in cancer patients with a platelet count <30 000/μL. | III | C |
+| In ACS patients with cancer and <50 000/μL platelet count, prasugrel or ticagrelor are not recommended. | III | C |
+| **Recommendations for long-term management** | | |
+| It is recommended that all ACS patients participate in a medically supervised, structured, comprehensive, multidisciplinary exercise-based cardiac rehabilitation and prevention programme. | I | A |
+| It is recommended that ACS patients adopt a healthy lifestyle, including: • stopping all smoking of tobacco • healthy diet (Mediterranean style) • alcohol restriction • regular aerobic physical activity and resistance exercise • reduced sedentary time | I | B |
+| It is recommended that high-dose statin therapy is initiated or continued as early as possible, regardless of initial LDL-C values. | I | A |
+| It is recommended to aim to achieve an LDL-C level of <1.4 mmol/L (<55 mg/dL) and to reduce LDL-C by ≥50% from baseline. | I | A |
+| If the LDL-C goal is not achieved despite maximally tolerated statin therapy and ezetimibe after 4–6 weeks, the addition of a PCSK9 inhibitor is recommended. | I | A |
+| If the LDL-C goal is not achieved despite maximally tolerated statin therapy after 4–6 weeks, the addition of ezetimibe is recommended. | I | B |
+| It is recommended to intensify lipid-lowering therapy during the index ACS hospitalization for patients who were on lipid-lowering therapy before admission. | I | C |
+| Beta-blockers are recommended in ACS patients with LVEF ≤40% regardless of HF symptoms. | I | A |
+| Angiotensin-converting enzyme inhibitors are recommended in ACS patients with HF symptoms, LVEF ≤40%, diabetes, hypertension, and/or CKD. | I | A |
+| Mineralocorticoid receptor antagonists are recommended in ACS patients with an LVEF ≤40% and HF or diabetes. | I | A |
+| In patients with pre-discharge LVEF ≤40%, repeat evaluation of the LVEF 6–12 weeks after an ACS (and after complete revascularization and the institution of optimal medical therapy) is recommended to assess the potential need for sudden cardiac death primary prevention ICD implantation. | I | C |
+| Influenza vaccination is recommended for all ACS patients. | I | A |
+| **Recommendations for patient perspectives in acute coronary syndrome care** | | |
+| Patient-centred care is recommended by assessing and adhering to individual patient preferences, needs and beliefs, ensuring that patient values are used to inform all clinical decisions. | I | B |
+| It is recommended to include ACS patients in decision-making (as much as their condition allows) and to inform them about the risk of adverse events, radiation exposure, and alternative options. Decision aids should be used to facilitate the discussion. | I | B |
+| It is recommended to assess symptoms using methods that help patients to describe their experience. | I | C |
 
 </div></details>
 
@@ -2484,6 +2640,8 @@ The ESC understands the need for measuring and reporting quality and outcomes of
 The ESC aims to harmonize its QIs for various CV conditions and integrate them with ESC registries. This integrative approach provides 'real-world' data about the patterns and outcomes of care for CVD across Europe.
 
 </div></details>
+
+<details class="med-details"><summary>
 
 ## 20. Supplementary data</summary><div class="details-content">
 

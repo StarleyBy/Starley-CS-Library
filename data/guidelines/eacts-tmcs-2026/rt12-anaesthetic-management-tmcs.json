@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt12-anaesthetic-management-tmcs",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 12",
+  "title": {
+    "en": "Recommendations for Anaesthetic Management of Patients Requiring tMCS",
+    "ru": "Рекомендации по анестезиологическому обеспечению пациентов, нуждающихся в ВМПК (tMCS)"
+  },
+  "tags": [
+    "tmcs",
+    "anaesthetic-management",
+    "sedation",
+    "local-anaesthetics",
+    "light-sedation",
+    "sedation-scale"
+  ],
+  "sections": [
+    {
+      "id": "sec-anaesthetic-management-tmcs",
+      "title": {
+        "en": "Recommendations for Anaesthetic Management of Patients Requiring tMCS",
+        "ru": "Рекомендации по анестезиологическому обеспечению пациентов, нуждающихся в ВМПК"
+      },
+      "rows": [
+        {
+          "id": "r01-adjust-level-of-sedation-patient-needs",
+          "text": {
+            "en": "It is recommended to adjust the level of sedation to the clinical situation and the patient's needs.",
+            "ru": "Рекомендуется индивидуально подбирать (титровать) уровень седации в зависимости от клинической ситуации и потребностей пациента."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r02-local-anaesthetics-light-sedation-implant",
+          "text": {
+            "en": "Implanting tMCS employing local anaesthetics while the patient is under light sedation should be considered.",
+            "ru": "Следует рассмотреть возможность имплантации ВМПК (tMCS) с применением местной анестезии в условиях поверхностной (легкой) седации пациента."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [474, 475, 476, 477]
+        },
+        {
+          "id": "r03-validated-sedation-scale-titration",
+          "text": {
+            "en": "The use of a validated sedation scale to facilitate titration of sedation agents is recommended.",
+            "ru": "Для обеспечения точного титрования седативных препаратов рекомендуется использовать валидированную шкалу оценки глубины седации."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [481, 484]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

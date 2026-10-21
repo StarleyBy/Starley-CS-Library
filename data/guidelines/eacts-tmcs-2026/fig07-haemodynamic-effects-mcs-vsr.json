@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.fig07-haemodynamic-effects-mcs-vsr",
+  "guidelineId": "eacts-tmcs-2026",
+  "number": "Figure 7",
+  "type": "grid",
+  "title": {
+    "en": "Baseline Haemodynamic Effects of Mechanical Circulatory Support on the Pathophysiology of Post-infarction Ventricular Septal Rupture",
+    "ru": "Исходные гемодинамические эффекты систем механической поддержки кровообращения при патофизиологии постинфарктного разрыва МЖП"
+  },
+  "tags": [
+    "tmcs",
+    "vsr",
+    "vsd",
+    "post-ami",
+    "hemodynamics",
+    "afterload",
+    "preload",
+    "pcwp",
+    "shunt",
+    "iabp",
+    "va-ecls",
+    "mafp",
+    "lvad"
+  ],
+  "columns": [
+    {
+      "id": "device",
+      "title": {
+        "en": "Configuration",
+        "ru": "Конфигурация поддержки"
+      }
+    },
+    {
+      "id": "afterload",
+      "title": {
+        "en": "Afterload",
+        "ru": "Постнагрузка"
+      }
+    },
+    {
+      "id": "preload",
+      "title": {
+        "en": "Preload (PCWP)",
+        "ru": "Преднагрузка (ДЗЛА / PCWP)"
+      }
+    },
+    {
+      "id": "pap",
+      "title": {
+        "en": "PAP",
+        "ru": "ДЛА (PAP)"
+      }
+    },
+    {
+      "id": "cvp",
+      "title": {
+        "en": "CVP",
+        "ru": "ЦВД (CVP)"
+      }
+    },
+    {
+      "id": "co",
+      "title": {
+        "en": "CO",
+        "ru": "СВ (CO)"
+      }
+    },
+    {
+      "id": "lv_wall_stress",
+      "title": {
+        "en": "LV wall stress",
+        "ru": "Напряжение стенки ЛЖ"
+      }
+    },
+    {
+      "id": "rv_wall_stress",
+      "title": {
+        "en": "RV wall stress",
+        "ru": "Напряжение стенки ПЖ"
+      }
+    },
+    {
+      "id": "shunt",
+      "title": {
+        "en": "Shunt",
+        "ru": "Сброс через дефект"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-iabp",
+      "cells": [
+        {
+          "text": {
+            "en": "**A • IABP**",
+            "ru": "**A • ВАБК (IABP)**"
+          }
+        },
+        { "text": { "en": "↓↓", "ru": "↓↓" } },
+        { "text": { "en": "↓", "ru": "↓" } },
+        { "text": { "en": "↓", "ru": "↓" } },
+        { "text": { "en": "↓", "ru": "↓" } },
+        { "text": { "en": "↑", "ru": "↑" } },
+        { "tone": "green", "text": { "en": "↓", "ru": "↓" } },
+        { "tone": "green", "text": { "en": "↓", "ru": "↓" } },
+        { "text": { "en": "↓", "ru": "↓" } }
+      ]
+    },
+    {
+      "id": "r02-va-ecls",
+      "cells": [
+        {
+          "text": {
+            "en": "**B • VA-ECLS**",
+            "ru": "**B • ВА-ЭКМО (VA-ECLS)**"
+          }
+        },
+        { "tone": "red", "text": { "en": "↑↑↑", "ru": "↑↑↑" } },
+        { "tone": "orange", "text": { "en": "↑↑", "ru": "↑↑" } },
+        { "tone": "red", "text": { "en": "↑↑↑", "ru": "↑↑↑" } },
+        { "text": { "en": "↓", "ru": "↓" } },
+        { "tone": "red", "text": { "en": "↓", "ru": "↓" } },
+        { "tone": "red", "text": { "en": "↑↑↑", "ru": "↑↑↑" } },
+        { "tone": "red", "text": { "en": "↑↑↑", "ru": "↑↑↑" } },
+        { "tone": "red", "text": { "en": "↑↑↑", "ru": "↑↑↑" } }
+      ]
+    },
+    {
+      "id": "r03-mafp",
+      "cells": [
+        {
+          "text": {
+            "en": "**C • mAFP**",
+            "ru": "**C • мОН (mAFP / Impella)**"
+          }
+        },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓", "ru": "↓↓" } },
+        { "text": { "en": "↑↑↑", "ru": "↑↑↑" } },
+        { "tone": "green", "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "tone": "green", "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓↓ or inversion", "ru": "↓↓↓ или инверсия" } }
+      ]
+    },
+    {
+      "id": "r04-percutaneous-transseptal-pump",
+      "cells": [
+        {
+          "text": {
+            "en": "**D • Percutaneous transseptal extracorporeal pump**",
+            "ru": "**D • Чрескожный транссептальный экстракорпоральный насос (TandemHeart)**"
+          }
+        },
+        { "tone": "orange", "text": { "en": "↑↑↑", "ru": "↑↑↑" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓", "ru": "↓↓" } },
+        { "text": { "en": "↓", "ru": "↓" } },
+        { "tone": "green", "text": { "en": "↓↓", "ru": "↓↓" } },
+        { "tone": "green", "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓", "ru": "↓↓" } }
+      ]
+    },
+    {
+      "id": "r05-va-ecls-plus-iabp",
+      "cells": [
+        {
+          "text": {
+            "en": "**E • VA-ECLS + IABP**",
+            "ru": "**E • ВА-ЭКМО + ВАБК (VA-ECLS + IABP)**"
+          }
+        },
+        { "text": { "en": "↓", "ru": "↓" } },
+        { "text": { "en": "↓", "ru": "↓" } },
+        { "text": { "en": "↕", "ru": "↕" } },
+        { "text": { "en": "↓↓", "ru": "↓↓" } },
+        { "text": { "en": "↑", "ru": "↑" } },
+        { "tone": "green", "text": { "en": "↓", "ru": "↓" } },
+        { "tone": "green", "text": { "en": "↓", "ru": "↓" } },
+        { "text": { "en": "↕", "ru": "↕" } }
+      ]
+    },
+    {
+      "id": "r06-va-ecls-plus-mafp",
+      "cells": [
+        {
+          "text": {
+            "en": "**F • VA-ECLS + mAFP**",
+            "ru": "**F • ВА-ЭКМО + мОН (ECPELLA / VA-ECLS + mAFP)**"
+          }
+        },
+        { "text": { "en": "↓ or ↑", "ru": "↓ или ↑" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↑↑", "ru": "↑↑" } },
+        { "tone": "green", "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "tone": "green", "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } }
+      ]
+    },
+    {
+      "id": "r07-va-ecls-plus-pa-cannula",
+      "cells": [
+        {
+          "text": {
+            "en": "**G • VA-ECLS + PA cannula**",
+            "ru": "**G • ВА-ЭКМО + канюляция легочной артерии (VA-ECLS + PA)**"
+          }
+        },
+        { "text": { "en": "↓", "ru": "↓" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↑", "ru": "↑" } },
+        { "tone": "green", "text": { "en": "↓↓", "ru": "↓↓" } },
+        { "tone": "green", "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↕", "ru": "↕" } }
+      ]
+    },
+    {
+      "id": "r08-percutaneous-transseptal-pump-plus-mafp",
+      "cells": [
+        {
+          "text": {
+            "en": "**H • Percutaneous transseptal extracorporeal pump + mAFP**",
+            "ru": "**H • Чрескожный транссептальный насос + мОН (TandemHeart + Impella)**"
+          }
+        },
+        { "text": { "en": "↓ or ↑", "ru": "↓ или ↑" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↑↑", "ru": "↑↑" } },
+        { "tone": "green", "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "tone": "green", "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "inversion", "ru": "инверсия сброса" } }
+      ]
+    },
+    {
+      "id": "r09-lvad",
+      "cells": [
+        {
+          "text": {
+            "en": "**I • LVAD**",
+            "ru": "**I • Изолированный обход ЛЖ (LVAD)**"
+          }
+        },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "↓↓", "ru": "↓↓" } },
+        { "text": { "en": "↑↑↑", "ru": "↑↑↑" } },
+        { "tone": "green", "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "tone": "green", "text": { "en": "↓↓↓", "ru": "↓↓↓" } },
+        { "text": { "en": "inversion", "ru": "инверсия сброса" } }
+      ]
+    }
+  ],
+  "source": {
+    "note": "Baseline haemodynamic effects of mechanical circulatory support on post-infarction ventricular septal rupture (Figure 7)"
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

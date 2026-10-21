@@ -189,6 +189,8 @@ The 2024 Guidelines contain a number of new and revised recommendations, which a
 
 #### TABLE 3: New major recommendations in 2024</summary><div class="details-content">
 
+[📋 Interactive Table: New major recommendations in 2024](#/tables/esc-ccs-2024.t03-new-recommendations)
+
 | Recommendation | Class | Level |
 |---|---|---|
 | **History taking and risk factor assessment** | | |
@@ -276,7 +278,39 @@ The 2024 Guidelines contain a number of new and revised recommendations, which a
 </div></details>
 
 <span id="table-4"></span>
-*(Table 4 – Revised recommendations – omitted here for brevity; will be included in final document.)*
+<details class="med-details"><summary>
+
+#### <span id="table-4"></span>TABLE 4: Revised recommendations in 2024 ESC Guidelines for the management of chronic coronary syndromes</summary><div class="details-content">
+
+[📋 Interactive Table: Revised recommendations in 2024 ESC Guidelines for the management of chronic coronary syndromes](#/tables/esc-ccs-2024.t04-revised-recommendations)
+
+| 2019 Recommendation | 2019 Class | 2019 Level | 2024 Recommendation | 2024 Class | 2024 Level |
+|---|:---:|:---:|---|:---:|:---:|
+| Nicorandil, ranolazine, ivabradine, or trimetazidine should be considered as a second-line treatment to reduce angina frequency and improve exercise tolerance in subjects who cannot tolerate, have contraindications to, or whose symptoms are not adequately controlled by beta-blockers, CCBs, and long-acting nitrates. | IIa | B | Long-acting nitrates or ranolazine should be considered as add-on therapy in patients with inadequate control of symptoms while on treatment with beta-blockers and/or CCBs, or as part of initial treatment in properly selected patients. | IIa | B |
+| In selected patients, the combination of a beta-blocker or a CCB with second-line drugs (ranolazine, nicorandil, ivabradine, and trimetazidine) may be considered for first-line treatment according to heart rate, blood pressure, and tolerance. | IIb | B | Nicorandil or trimetazidine may be considered as add-on therapy in patients with inadequate control of symptoms while on treatment with beta-blockers and/or CCBs, or as part of initial treatment in properly selected patients. | IIb | B |
+| Aspirin 75–100 mg daily is recommended in patients with a previous MI or revascularization. | I | A | In CCS patients with a prior MI or remote PCI, aspirin 75–100 mg daily is recommended lifelong after an initial period of DAPT. | I | A |
+| Clopidogrel 75 mg daily is recommended as an alternative to aspirin in patients with aspirin intolerance.<br>Clopidogrel 75 mg daily may be considered in preference to aspirin in symptomatic and asymptomatic patients with either PAD or a history of ischaemic stroke or transient ischaemic attack. | I / IIb | B / B | In CCS patients with a prior MI or remote PCI, clopidogrel 75 mg daily is recommended as a safe and effective alternative to aspirin monotherapy. | I | A |
+| Aspirin 75–100 mg daily may be considered in patients without a history of MI or revascularization, but with definitive evidence of CAD on imaging. | IIb | C | In patients without prior MI or revascularization but with evidence of significant obstructive CAD, aspirin 75–100 mg daily is recommended lifelong. | I | B |
+| Aspirin 75–100 mg daily is recommended following stenting.<br>Clopidogrel 75 mg daily following appropriate loading (e.g. 600 mg or >5 days of maintenance therapy) is recommended, in addition to aspirin, for 6 months following coronary stenting, irrespective of stent type, unless a shorter durations (1–3 months) is indicated due to risk of occurrence of life-threatening bleeding. | I / I | A / A | In CCS patients with no indication for oral anticoagulation, DAPT consisting of aspirin 75–100 mg and clopidogrel 75 mg daily for up to 6 months is recommended as the default antithrombotic strategy after PCI-stenting. | I | A |
+| Clopidogrel 75 mg daily following appropriate loading may be considered for 1 month in patients with very high risk of life-threatening bleeding.<br>Clopidogrel 75 mg daily following appropriate loading should be considered for 3 months in patients with a higher risk of life-threatening bleeding. | IIb / IIa | C / A | In patients at high bleeding risk but not at high ischaemic risk, it is recommended to discontinue DAPT 1–3 months after PCI and continue single antiplatelet therapy. | I | A |
+| Standard default 6-month DAPT without prior short-course options for non-HBR patients. | — | — | Stopping DAPT after 1–3 months from PCI-stenting may be considered in patients who are not at high bleeding risk nor at high risk of ischaemic events. | IIb | B |
+| When oral anticoagulation is initiated in a patient with AF who is eligible for a NOAC, a NOAC is recommended in preference to a VKA.<br>Long-term OAC therapy (NOAC or VKA with TTR >70%) is recommended in patients with AF and a CHA2DS2-VASc score ≥2 in males and ≥3 in females.<br>Long-term OAC therapy should be considered in patients with AF and CHA2DS2-VASc score 1 in males and 2 in females.<br>Aspirin 75–100 mg daily (or clopidogrel 75 mg daily) may be considered in addition to long-term OAC in AF, history of MI, and at high risk of recurrent ischaemic events who do not have high bleeding risk. | I / I / IIa / IIb | A / A / B / B | In CCS patients with a long-term indication for OAC, an AF-therapeutic-dose of VKA alone or, preferably, of DOAC alone (unless contraindicated) is recommended lifelong. | I | B |
+| After uncomplicated PCI, early cessation (≤1 week) of aspirin and continuation of dual therapy with an OAC and clopidogrel should be considered if the risk of stent thrombosis is low, or if concerns about bleeding risk prevail over concerns about the risk of stent thrombosis, irrespective of the type of stent used. | IIa | B | After uncomplicated PCI in CCS patients with concomitant indication for OAC:<br>• early cessation of aspirin (≤1 week);<br>• followed by continuation of OAC and clopidogrel:<br>  o up to 6 months in patients not at high ischaemic risk; or<br>  o up to 12 months in patients at high ischaemic risk;<br>• followed by OAC alone; is recommended. | I | A |
+| Triple therapy with aspirin, clopidogrel, and an OAC for ≥1 month should be considered when the risk of stent thrombosis outweighs the bleeding risk, with the total duration (≤6 months) decided according to assessment of these risks and clearly specified at hospital discharge. | IIa | C | Continuation of aspirin up to 1 month after PCI, in addition to OAC and clopidogrel, should be considered in patients at high thrombotic risk or with anatomical/procedural characteristics judged to outweigh the bleeding risk. | IIa | B |
+| Statins are recommended in all patients with CCS. | I | A | A high-intensity statin up to the highest tolerated dose to reach the LDL-C goals is recommended for all patients with CCS. | I | A |
+| Guidewire-based CFR and/or microcirculatory resistance measurements should be considered in patients with persistent symptoms, but coronary arteries that are either angiographically normal or have moderate stenoses with preserved iwFR/FFR.<br>Intracoronary acetylcholine with ECG monitoring may be considered during angiography, if coronary arteries are either angiographically normal or have moderate stenoses with preserved iwFR/FFR, to assess microvascular vasospasm. | IIa / IIb | B / B | In persistently symptomatic patients despite medical treatment with suspected ANOCA/INOCA (i.e. anginal symptoms with normal coronary arteries or non-obstructive lesions at non-invasive imaging, or intermediate stenoses with normal FFR/iFR at coronary arteriography) and poor quality of life, invasive coronary functional testing is recommended to identify potentially treatable endotypes and to improve symptoms and quality of life, considering patient choices and preferences. | I | B |
+| Ambulatory ST-segment monitoring should be considered to identify ST-segment deviation in the absence of increased heart rate. | IIa | C | In individuals with suspected vasospastic angina and frequent symptoms, ambulatory ST-segment monitoring should be considered to identify ST-segment deviation during angina. | IIa | B |
+| Total risk estimation using a risk-estimation system such as SCORE is recommended for asymptomatic adults >40 years of age without evidence of CVD, diabetes, CKD, or familial hypercholesterolaemia. | I | C | Opportunistic screening of healthy individuals for cardiovascular risk factors and to estimate risk of future cardiovascular events using scoring systems, e.g. SCORE2 and SCORE2-OP, is recommended to detect individuals at high risk and guide treatment decisions. | I | C |
+| Risk stratification is recommended in patients with new or worsening symptom levels, preferably using stress imaging or, alternatively, exercise stress ECG. | I | B | Risk stratification is recommended in patients with new or worsening symptoms, preferably using stress imaging. | I | C |
+| In patients with one- or two-vessel disease, PCI should be considered as an alternative to CABG when complete revascularization can be achieved.<br>In patients with three-vessel disease, PCI should be considered based on the evaluation by the Heart Team of the patient's coronary anatomy, the expected completeness of revascularization, diabetes status, and comorbidities. | IIa / IIa | C / C | In selected CCS patients with functionally significant MVD and LVEF ≤35% who are at high surgical risk or not operable, PCI may be considered as an alternative to CABG. | IIb | B |
+| Left main disease with low SYNTAX score (0–22), PCI is recommended. | I | A | In CCS patients with significant left main coronary stenosis of low complexity (SYNTAX score ≤22), in whom PCI can provide equivalent completeness of revascularization to that of CABG, PCI is recommended as an alternative to CABG, given its lower invasiveness and non-inferior survival. | I | A |
+| Left main disease with intermediate SYNTAX score (23–32), PCI should be considered. | IIa | A | In CCS patients with significant left main coronary stenosis of intermediate complexity (SYNTAX score 23–32), in whom PCI can provide equivalent completeness of revascularization to that of CABG, PCI should be considered, given its lower invasiveness and non-inferior survival. | IIa | A |
+| For left main disease with high SYNTAX score (≥33), PCI is not recommended. | III | B | In CCS patients at high surgical risk, PCI may be considered over medical therapy alone. | IIb | B |
+| For CCS patients with diabetes and three-vessel disease with low SYNTAX score 0–22, PCI may be considered.<br>For CCS patients with diabetes and three-vessel disease with intermediate or high SYNTAX score (>22), PCI is not recommended. | IIb / III | A / A | In CCS patients at very high surgical risk, PCI should be considered over medical therapy alone to reduce symptoms and adverse outcomes. | IIa | B |
+| For one or two-vessel disease with proximal LAD stenosis, CABG, or PCI are recommended. | I | A | In CCS patients with significant single- or double-vessel disease involving the proximal LAD and insufficient response to guideline-directed medical therapy, CABG or PCI is recommended over medical therapy alone to improve symptoms and outcomes.<br>In CCS patients with complex significant single- or double-vessel disease involving the proximal LAD, less amenable to PCI, and insufficient response to guideline-directed medical therapy, CABG is recommended over PCI to improve symptoms and reduce revascularization rates. | I / I | A / B |
+| For one or two-vessel disease without proximal LAD stenosis PCI is recommended.<br>For one or two-vessel disease without proximal LAD stenosis, CABG may be considered. | I / IIb | C / C | In symptomatic CCS patients with single- or double-vessel disease not involving the proximal LAD and with insufficient response to guideline-directed medical therapy, PCI is recommended to improve symptoms.<br>In symptomatic CCS patients with single- or double-vessel disease not involving the proximal LAD and with insufficient response to guideline-directed medical therapy, not amenable to revascularization by PCI, CABG may be considered to improve symptoms. | I / IIb | B / C |
+
+</div></details>
 
 </div></details>
 
@@ -323,6 +357,8 @@ Anginal pain symptoms have been traditionally classified as “typical, atypical
 
 ##### TABLE 5: Grading of effort angina severity according to the Canadian Cardiovascular Society</summary><div class="details-content">
 
+[📋 Interactive Table: Grading of effort angina severity according to the Canadian Cardiovascular Society](#/tables/esc-ccs-2024.t05-ccs-angina-grading)
+
 | Grade | Description of angina severity |
 |-------|--------------------------------|
 | I | Angina only with strenuous exertion |
@@ -365,6 +401,8 @@ Long-term ambulatory ECG monitoring can be considered in selected patients to de
 
 ###### Recommendation Table 1 – Recommendations for history taking, risk factor assessment, and resting electrocardiogram in individuals with suspected chronic coronary syndrome</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for history taking, risk factor assessment, and resting electrocardiogram in individuals with suspected chronic coronary syndrome](#/tables/esc-ccs-2024.rt01-history-ecg)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | **History taking and risk factor assessment** | | |
@@ -397,6 +435,8 @@ Markers of inflammation such as C-reactive protein and fibrinogen are predictors
 <details class="med-details"><summary>
 
 ###### Recommendation Table 2 – Recommendations for basic biochemistry in the initial diagnostic management of individuals with suspected chronic coronary syndrome</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for basic biochemistry in the initial diagnostic management of individuals with suspected chronic coronary syndrome](#/tables/esc-ccs-2024.rt02-biochemistry)
 
 | Recommendations | Class | Level |
 |---|---|---|
@@ -449,6 +489,8 @@ By using pre-test likelihood estimates and diagnostic imaging-test positive and 
 
 ###### Recommendation Table 3 – Recommendations for estimating, adjusting and reclassifying the likelihood of obstructive atherosclerotic coronary artery disease</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for estimating, adjusting and reclassifying the likelihood of obstructive atherosclerotic coronary artery disease](#/tables/esc-ccs-2024.rt03-pretest-likelihood)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | It is recommended to estimate the pre-test likelihood of obstructive epicardial CAD using the Risk Factor-weighted Clinical Likelihood model. | I | B |
@@ -478,6 +520,8 @@ The strongest predictor of long-term survival is systolic LV function. Hence, ri
 
 ###### Recommendation Table 4 – Recommendations for resting transthoracic ultrasound and cardiac magnetic resonance imaging</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for resting transthoracic ultrasound and cardiac magnetic resonance imaging](#/tables/esc-ccs-2024.rt04-resting-tte-cmr)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | A resting transthoracic echocardiogram is recommended: to measure LVEF, volumes and diastolic function; identify regional wall motion abnormalities; identify non-coronary cardiac disease (e.g. hypertrophy, cardiomyopathy, valve disease, pericardial effusion); assess right ventricular function and estimate systolic pulmonary artery pressure; to refine risk stratification and guide treatment. | I | B (for LVEF, etc.) |
@@ -506,6 +550,8 @@ In summary, due to its low sensitivity (58%) and specificity (62%), exercise ECG
 
 ###### Recommendation Table 5 – Recommendations for exercise ECG in the initial diagnostic management</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for exercise ECG in the initial diagnostic management](#/tables/esc-ccs-2024.rt05-exercise-ecg)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | Exercise ECG is recommended in selected patients for the assessment of exercise tolerance, symptoms, arrhythmias, BP response, and event risk. | I | C |
@@ -530,6 +576,8 @@ Chest X-ray is commonly utilized in the evaluation of patients experiencing ches
 
 ###### Recommendation Table 6 – Recommendations for chest X-ray</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for chest X-ray](#/tables/esc-ccs-2024.rt06-chest-xray)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | A chest X-ray should be considered for individuals with: signs and symptoms suggestive of heart failure; suspected acute pulmonary disease; suspected aortic, non-coronary cardiac, or other thoracic causes of chest pain. | IIa | C |
@@ -548,6 +596,8 @@ Ambulatory ECG monitoring can assist in evaluating patients with chest pain and 
 <details class="med-details"><summary>
 
 ###### Recommendation Table 7 – Recommendations for ambulatory ECG monitoring</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for ambulatory ECG monitoring](#/tables/esc-ccs-2024.rt07-ambulatory-ecg)
 
 | Recommendations | Class | Level |
 |---|---|---|
@@ -609,6 +659,8 @@ Generally, a slow and regular heart rate, and compliance with breath-holding ins
 
 ##### Recommendation Table 8 – Recommendations for non-invasive anatomical imaging tests (CCTA)</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for non-invasive anatomical imaging tests (CCTA)](#/tables/esc-ccs-2024.rt08-ccta)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | In individuals with suspected CCS and low or moderate (>5-50%) pre-test likelihood of obstructive CAD, CCTA is recommended to diagnose obstructive CAD and to estimate the risk of MACE. | I | A (for diagnosis), B (for MACE) |
@@ -639,6 +691,8 @@ Finally, carotid ultrasound may be performed in the same session with stress ech
 <details class="med-details"><summary>
 
 ###### Recommendation Table 9 – Recommendations for stress echocardiography</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for stress echocardiography](#/tables/esc-ccs-2024.rt09-stress-echocardiography)
 
 | Recommendations | Class | Level |
 |---|---|---|
@@ -698,6 +752,8 @@ If available, and if no contraindications are met, stress CMR is recommended as 
 
 ###### Recommendation Table 10 – Recommendations for non-invasive functional myocardial imaging tests (SPECT/PET/CMR)</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for non-invasive functional myocardial imaging tests (SPECT/PET/CMR)](#/tables/esc-ccs-2024.rt10-spect-pet-cmr)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | In individuals with suspected CCS and moderate or high (>15-85%) pre-test likelihood of obstructive CAD, stress SPECT or, preferably, PET myocardial perfusion imaging is recommended to: diagnose and quantify myocardial ischaemia and/or scar; estimate the risk of MACE; quantify myocardial blood flow (PET). | I | B |
@@ -755,6 +811,8 @@ Performing ICA is not exempt from potential complications. Given that femoral di
 
 ###### Recommendation Table 11 – Recommendations for invasive coronary angiography</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for invasive coronary angiography](#/tables/esc-ccs-2024.rt11-ica-indications)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | When ICA is indicated, radial artery access is recommended as the preferred access site. | I | A |
@@ -796,6 +854,8 @@ While coronary pressure thresholds, specifically 0.80 for FFR and 0.89 for iFR, 
 <details class="med-details"><summary>
 
 ###### Recommendation Table 12 – Recommendations for functional assessment of epicardial artery stenosis severity during ICA</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for functional assessment of epicardial artery stenosis severity during ICA](#/tables/esc-ccs-2024.rt12-functional-assessment)
 
 | Recommendations | Class | Level |
 |---|---|---|
@@ -852,6 +912,8 @@ Individual adjustment of the clinical likelihood should always be considered bas
 
 ##### TABLE 6: Overview of non-invasive tests used for first-line testing in individuals with suspected chronic coronary syndrome</summary><div class="details-content">
 
+[📋 Interactive Table: Overview of non-invasive tests used for first-line testing in individuals with suspected chronic coronary syndrome](#/tables/esc-ccs-2024.t06-noninvasive-tests-overview)
+
 | Main imaging target(s) in CCS | Requirements | Limitations |
 |---|---|---|
 | **Anatomical imaging** | | |
@@ -893,6 +955,8 @@ Individuals in the moderate likelihood group, except older men with all three CC
 <details class="med-details"><summary>
 
 ##### Recommendation Table 13 – Recommendations for selection of initial diagnostic tests</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for selection of initial diagnostic tests](#/tables/esc-ccs-2024.rt13-initial-test-selection)
 
 | Recommendations | Class | Level |
 |---|---|---|
@@ -957,6 +1021,8 @@ In summary, when assessing event risk, clinicians should choose an integrative a
 
 ##### Recommendation Table 14 – Recommendations for definition of high risk of adverse events</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for definition of high risk of adverse events](#/tables/esc-ccs-2024.rt14-high-risk-definition)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | An initial stratification of risk of adverse events is recommended based on basic clinical assessment (e.g. age, ECG, anginal threshold, diabetes, CKD, LVEF). | I | B |
@@ -979,8 +1045,6 @@ Guideline-directed management and therapy are started during or after the diagno
 
 </div></details>
 
-</div></details>
-  
 </div></details>
 
 <details class="med-details"><summary>
@@ -1013,6 +1077,8 @@ Reducing CVD risk at the individual level begins with effective information on r
 <details class="med-details"><summary>
 
 ##### TABLE 7: Practical advice on lifestyle counselling and interventions</summary><div class="details-content">
+
+[📋 Interactive Table: Practical advice on lifestyle counselling and interventions](#/tables/esc-ccs-2024.t07-lifestyle-counselling)
 
 | Topic | Recommendation and treatment goals in patients with established CCS |
 |---|---|
@@ -1110,6 +1176,8 @@ Small, single-centre studies on exercise training in patients with INOCA show th
 
 ##### Recommendation Table 15 – Recommendations for cardiovascular risk reduction, lifestyle changes, and exercise interventions in patients with established CCS</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for cardiovascular risk reduction, lifestyle changes, and exercise interventions in patients with established chronic coronary syndrome](#/tables/esc-ccs-2024.rt15-lifestyle-interventions)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | An informed discussion on CVD risk and treatment benefits tailored to individual patient needs is recommended. | I | C |
@@ -1172,6 +1240,8 @@ The following points should additionally be kept in mind: (i) beta-blockers are 
 <details class="med-details"><summary>
 
 ##### Recommendation Table 16 – Recommendations for antianginal drugs in patients with chronic coronary syndrome</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for antianginal drugs in patients with chronic coronary syndrome](#/tables/esc-ccs-2024.rt16-antianginal-drugs)
 
 | Recommendations | Class | Level |
 |---|---|---|
@@ -1305,6 +1375,8 @@ Patient eligibility for extended intensified antithrombotic therapy must be defi
 
 ###### TABLE 8: Options for extended intensified antithrombotic therapy</summary><div class="details-content">
 
+[📋 Interactive Table: Options for extended intensified antithrombotic therapy](#/tables/esc-ccs-2024.t08-intensified-antithrombotic-options)
+
 | Drug | Dose | Clinical setting | NNT (ischaemic outcomes) | NNH (bleeding outcomes) |
 |---|---|---|---|---|
 | **Co-administered with aspirin 100 mg o.d.** | | | | |
@@ -1385,6 +1457,8 @@ Antithrombotic therapy may provoke GI bleeding, especially in patients at increa
 
 ##### Recommendation Table 17 – Recommendations for antithrombotic therapy in patients with chronic coronary syndrome</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for antithrombotic therapy in patients with chronic coronary syndrome](#/tables/esc-ccs-2024.rt17-antithrombotic-therapy)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | **Long-term antithrombotic therapy in CCS and no clear indication for OAC** | | |
@@ -1443,6 +1517,8 @@ In patients scheduled to undergo elective PCI, pre-treatment with a high-dose st
 
 ##### Recommendation Table 18 – Recommendations for lipid-lowering drugs in patients with chronic coronary syndrome</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for lipid-lowering drugs in patients with chronic coronary syndrome](#/tables/esc-ccs-2024.rt18-lipid-lowering)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | Lipid-lowering treatment with an LDL-C goal of <1.4 mmol/L (55 mg/dL) and a ≥50% reduction in LDL-C vs. baseline is recommended. | I | A |
@@ -1470,6 +1546,8 @@ Sacubitril/valsartan contains an ARB and a prodrug of neprilysin inhibitor, whic
 
 ##### Recommendation Table 21 – Recommendations for angiotensin-converting enzyme inhibitors in patients with chronic coronary syndrome</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for angiotensin-converting enzyme inhibitors in patients with chronic coronary syndrome](#/tables/esc-ccs-2024.rt21-acei-arb)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | In CCS patients, ACE-Is (or ARBs) are recommended in the presence of specific comorbidities, such as hypertension, diabetes, or heart failure. | I | A |
@@ -1493,6 +1571,8 @@ In patients with pre-existing CVD, the SELECT trial assessed the effect of weekl
 <details class="med-details"><summary>
 
 ##### Recommendation Table 19 – Recommendations for sodium-glucose cotransporter 2 inhibitors and/or glucagon-like peptide-1 receptor agonists in patients with chronic coronary syndrome</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for sodium–glucose cotransporter 2 inhibitors and/or glucagon-like peptide-1 receptor agonists in patients with chronic coronary syndrome](#/tables/esc-ccs-2024.rt19-sglt2-glp1)
 
 | Recommendations | Class | Level |
 |---|---|---|
@@ -1524,6 +1604,8 @@ A recent meta-analysis including over 12 000 patients with atherothrombotic CAD 
 <details class="med-details"><summary>
 
 ##### Recommendation Table 20 – Recommendations for anti-inflammatory drugs in patients with chronic coronary syndrome</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for anti-inflammatory drugs in patients with chronic coronary syndrome](#/tables/esc-ccs-2024.rt20-anti-inflammatory-drugs)
 
 | Recommendation | Class | Level |
 |---|---|---|
@@ -1636,7 +1718,21 @@ Over the past two decades, several trials have compared PCI and CABG in patients
 
 ###### TABLE 9: Summary of trial-based evidence for the comparison of percutaneous coronary intervention and coronary artery bypass grafting in patients with left main coronary artery disease</summary><div class="details-content">
 
-*(Table 9 omitted here for brevity; contains detailed results from SYNTAX, PRECOMBAT, NOBLE, EXCEL trials. Will be included in final document.)*
+[📋 Interactive Table: Summary of trial-based evidence for the comparison of percutaneous coronary intervention and coronary artery bypass grafting in patients with left main coronary artery disease](#/tables/esc-ccs-2024.t09-trials-pci-vs-cabg-lmcad)
+
+| Study | Study population | Primary endpoint | Follow-up | Findings |
+|---|---|---|---|---|
+| PRECOMBAT (non-inferiority) | 600 patients with newly diagnosed LMCAD who had stable angina, unstable angina, silent ischaemia, or non-ST-segment elevation MI | All-cause death, MI, stroke, or ischaemia-driven target vessel revascularization | 2 years | 1-year follow-up: 8.7% and 6.7% primary endpoints for PCI and CABG, respectively, absolute risk difference 2% (95% CI, -1.6% to 5.6%), P = .01 for non-inferiority.<br>2-year follow-up: 12.2% and 8.1% primary endpoints for PCI and CABG, respectively, HR 1.50 (95% CI, 0.90–2.52), P = .12. |
+| PRECOMBAT (extended follow-up) | 600 patients with LMCAD | All-cause death, MI, stroke, or ischaemia-driven target vessel revascularization | 5 years | 17.5% and 14.3% primary endpoints for PCI and CABG, respectively, HR 1.27 (95% CI, 0.84–1.90), P = .26 |
+| PRECOMBAT (extended follow-up) | 600 patients with LMCAD | All-cause death, MI, stroke, or ischaemia-driven target vessel revascularization | 11.3 years (median) | 29.8% and 24.7% primary endpoints for PCI and CABG, respectively, HR 1.25 (95% CI, 0.93–1.69) |
+| SYNTAX (1 year) | 1800 patients with de novo three-vessel (n = 1095) and LMCAD (n = 795) | All-cause death, stroke, MI, and repeat revascularization | 1 year | For the LMCAD group: 15.8% and 13.7% primary endpoints for PCI and CABG, respectively; P = .44 |
+| SYNTAX (3 years) | LMCAD cohort (n = 795) | All-cause death, stroke, MI, and repeat revascularization | 3 years | For the LMCAD group: 26.8% and 22.3%, primary endpoints for PCI and CABG, respectively; P = .20 |
+| SYNTAX (5 years) | LMCAD cohort (n = 795) | All-cause death, stroke, MI, and repeat revascularization | 5 years | For the LMCAD group: 36.9% and 31.0% primary endpoints for PCI and CABG, respectively, HR 1.25 (95% CI, 0.93–1.69), P = .12 |
+| SYNTAX (extended follow-up 10 years) | LMCAD cohort (n = 795) | All-cause death | 10 years | For the LMCAD group: 27% and 28% primary endpoints for PCI and CABG, respectively, HR 0.92 (95% CI, 0.69–1.22) |
+| NOBLE (non-inferiority hypothesis) | 1201 patients with LMCAD who had stable angina pectoris, unstable angina pectoris, or non-ST-segment elevation myocardial infarction | All-cause death, non-procedural MI, any repeat coronary revascularization, or stroke | 3.1 years (mean) | 28% and 18% primary endpoints for PCI and CABG, HR 1.51 (95% CI, 1.13–2.00), P = .004 for superiority of CABG |
+| NOBLE (extended follow-up) | 1201 patients with LMCAD | All-cause death, non-procedural MI, any repeat coronary revascularization, or stroke | 4.9 years (median) | 28% and 19% primary endpoints for PCI and CABG, HR 1.58 (95% CI, 1.24–2.01), P < .001 for superiority of CABG |
+| EXCEL (non-inferiority hypothesis) | 1905 patients with LMCAD of low or intermediate anatomical complexity (SYNTAX score ≤ 32) | All-cause death, stroke, or MI | 3 years (median) | 15.4% and 14.7% primary endpoints for PCI and CABG, absolute risk difference 0.7% (upper 97.5% confidence limit: 4%), P = .02 for non-inferiority; HR 1.00 (95% CI, 0.79–1.26), P = .98 for superiority |
+| EXCEL (extended follow-up) | 1905 patients with LMCAD (SYNTAX score ≤ 32) | All-cause death, stroke, or MI | 5 years | 22.0% and 19.2% primary endpoints for PCI and CABG, absolute risk difference 2.8% (95% CI, -0.9 to 6.5), P = .13; OR 1.19 (95% CI, 0.95–1.50) |
 
 </div></details>
 
@@ -1727,6 +1823,8 @@ Institutional protocols, developed by the Heart Team and aligned with the curren
 
 ##### Recommendation Table 22 – Recommendations for revascularization in patients with chronic coronary syndrome</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for revascularization in patients with chronic coronary syndrome](#/tables/esc-ccs-2024.rt22-revascularization)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | **Informed and shared decisions** | | |
@@ -1758,6 +1856,8 @@ Institutional protocols, developed by the Heart Team and aligned with the curren
 <details class="med-details"><summary>
 
 ##### Recommendation Table 23 – Recommendations for mode of revascularization in patients with chronic coronary syndrome</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for mode of revascularization in patients with chronic coronary syndrome](#/tables/esc-ccs-2024.rt23-revascularization-mode)
 
 | Recommendations | Class | Level |
 |---|---|---|
@@ -1819,6 +1919,8 @@ During high-risk PCI for complex CAD in patients with HFrEF, mechanical cardiac 
 <details class="med-details"><summary>
 
 #### Recommendation Table 24 – Recommendations for management of chronic coronary syndrome patients with chronic heart failure</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for management of chronic coronary syndrome patients with chronic heart failure](#/tables/esc-ccs-2024.rt24-ccs-and-heart-failure)
 
 | Recommendations | Class | Level |
 |---|---|---|
@@ -1981,6 +2083,8 @@ There are currently several studies evaluating therapies specific to ANOCA/INOCA
 
 #### Recommendation Table 25 – Recommendations for diagnosis and management of patients with angina/ischaemia with non-obstructive coronary arteries</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for diagnosis and management of patients with angina/ischaemia with non-obstructive coronary arteries](#/tables/esc-ccs-2024.rt25-anoca-inoca)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | **Diagnosis of ANOCA/INOCA endotypes** | | |
@@ -2123,6 +2227,8 @@ Within a large prospective study, South Asian individuals had a substantially hi
 
 #### Recommendation Table 26 – Recommendations for older, female, high bleeding risk, comorbid, and socially/geographically diverse patients</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for older, female, high bleeding risk, comorbid, and socially/geographically diverse patients](#/tables/esc-ccs-2024.rt26-special-patient-groups)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | **Older adults** | | |
@@ -2160,6 +2266,8 @@ Carotid ultrasound, aortic pulse wave velocity, arterial augmentation index, and
 <details class="med-details"><summary>
 
 #### Recommendation Table 27 – Recommendations for screening for coronary artery disease in asymptomatic individuals</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for screening for coronary artery disease in asymptomatic individuals](#/tables/esc-ccs-2024.rt27-cad-screening-asymptomatic)
 
 | Recommendations | Class | Level |
 |---|---|---|
@@ -2295,6 +2403,8 @@ A review of mobile phone text messaging found promising, if limited, evidence th
 
 ##### Recommendation Table 28 – Recommendations for adherence to medical therapy and lifestyle changes</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for adherence to medical therapy and lifestyle changes](#/tables/esc-ccs-2024.rt28-adherence-lifestyle-changes)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | Mobile health interventions (e.g. using text messages, apps, wearable devices) are recommended to improve patient adherence to healthy lifestyles and medical therapy. | I | A |
@@ -2365,6 +2475,8 @@ All non-invasive diagnostic testing, including CCTA, stress SPECT, or PET myocar
 
 #### Recommendation Table 29 – Recommendations for diagnosis of disease progression in patients with established chronic coronary syndrome</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for diagnosis of disease progression in patients with established chronic coronary syndrome](#/tables/esc-ccs-2024.rt29-disease-progression)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | **Asymptomatic patients with established chronic coronary syndromes** | | |
@@ -2412,6 +2524,8 @@ If re-operation is required, the surgical risk is generally increased. If acute 
 
 #### Recommendation Table 30 – Recommendations for treatment of revascularization failure</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for treatment of revascularization failure](#/tables/esc-ccs-2024.rt30-revascularization-failure)
+
 | Recommendations | Class | Level |
 |---|---|---|
 | DES is recommended over drug-coated balloons for treatment of in-DES restenosis. | I | A |
@@ -2449,6 +2563,8 @@ To date, the main limitations of reported experiences with all novel therapeutic
 <details class="med-details"><summary>
 
 #### Recommendation Table 31 – Recommendations for recurrent or refractory angina/ischaemia</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for recurrent or refractory angina/ischaemia](#/tables/esc-ccs-2024.rt31-refractory-angina)
 
 | Recommendations | Class | Level |
 |---|---|---|
@@ -2539,6 +2655,8 @@ An ICD is recommended in patients with ischaemic cardiomyopathy and LVEF <35% or
 <details class="med-details"><summary>
 
 #### TABLE 10: 'What to do' and 'What not to do'</summary><div class="details-content">
+
+[📋 Interactive Table: Table 10 — 'What to do' and 'What not to do'](#/tables/esc-ccs-2024.t10-what-to-do)
 
 | Recommendations | Class | Level |
 |---|---|---|

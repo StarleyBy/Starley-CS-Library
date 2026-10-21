@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt04-acetylsalicylic-acid",
+  "guidelineId": "eacts-periop-2024",
+  "number": "Recommendation Table 4",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Acetylsalicylic Acid",
+    "ru": "Рекомендации по применению ацетилсалициловой кислоты (АСК)"
+  },
+  "tags": [
+    "eacts",
+    "perioperative",
+    "asa",
+    "aspirin",
+    "antiplatelet",
+    "cabg",
+    "graft-patency",
+    "ischaemic-events"
+  ],
+  "sections": [
+    {
+      "id": "sec-preoperative-period",
+      "title": {
+        "en": "Preoperative period",
+        "ru": "Предоперационный период"
+      },
+      "rows": [
+        {
+          "id": "r01-continue-preoperative-asa-cabg",
+          "text": {
+            "en": "In patients undergoing CABG who are on low-dose ASA preoperatively, continuing ASA throughout the perioperative period is recommended to reduce ischaemic events.",
+            "ru": "У пациентов, которым выполняется КШ (CABG) и которые уже принимают низкие дозы АСК (ASA) до операции, рекомендуется продолжение приема АСК на протяжении всего периоперационного периода для снижения риска ишемических событий."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [102, 104]
+        }
+      ]
+    },
+    {
+      "id": "sec-postoperative-period",
+      "title": {
+        "en": "Postoperative period",
+        "ru": "Послеоперационный период"
+      },
+      "rows": [
+        {
+          "id": "r02-restart-early-postoperative-asa-cabg",
+          "text": {
+            "en": "In patients undergoing CABG, it is recommended to (re)start low-dose ASA within 24 h (ideally <6 h) postoperatively to reduce ischaemic events and graft occlusion.",
+            "ru": "У пациентов после коронарного шунтирования (КШ / CABG) рекомендуется (возобновить) прием низких доз АСК в течение первых 24 часов (в идеале <6 часов) после операции для снижения риска ишемических событий и окклюзии шунтов."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [112, 116]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

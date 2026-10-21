@@ -1,0 +1,861 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.t05-clinical-scenarios-warrant-tmcs-consideration",
+  "guidelineId": "eacts-tmcs-2026",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Clinical Scenarios That Warrant Consideration for tMCS and Possible tMCS Type^[a]",
+    "ru": "Клинические сценарии, требующие рассмотрения вопроса о применении ВМПК (tMCS), и возможные типы поддержки^[a]"
+  },
+  "tags": [
+    "tmcs",
+    "clinical-scenarios",
+    "cabg",
+    "valves",
+    "tavi",
+    "post-ami",
+    "aortic-dissection",
+    "pericardiectomy",
+    "risk-stratification"
+  ],
+  "columns": [
+    {
+      "id": "setting",
+      "title": {
+        "en": "Type of surgical setting",
+        "ru": "Клинический сценарий / тип хирургического вмешательства"
+      }
+    },
+    {
+      "id": "risk",
+      "title": {
+        "en": "Extent of periprocedural risk^[b]",
+        "ru": "Степень перипроцедурального риска^[b]"
+      }
+    },
+    {
+      "id": "tmcs_type",
+      "title": {
+        "en": "Type of tMCS",
+        "ru": "Рекомендуемый тип ВМПК"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-poor-preoperative-status",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Poor preoperative surgical candidate status**",
+            "ru": "**Тяжелый исходный предоперационный статус пациента**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01-severe-metabolic-acidosis",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe metabolic acidosis",
+            "ru": "Тяжелый метаболический ацидоз"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "++++^[b]",
+            "ru": "++++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "VA-ECLS + mAFP",
+            "ru": "ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-severe-acute-pulmonary-oedema",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe acute pulmonary oedema",
+            "ru": "Тяжелый острый отек легких"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "+++^[b]",
+            "ru": "+++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "VA- or VV- ECLS",
+            "ru": "ВА-ЭКМО (VA-ECLS) или ВВ-ЭКМО (VV-ECLS)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-severe-cardiogenic-shock",
+      "cells": [
+        {
+          "text": {
+            "en": "Severe cardiogenic shock",
+            "ru": "Тяжелый кардиогенный шок"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "++++^[b]",
+            "ru": "++++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "VA-ECLS + mAFP",
+            "ru": "ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-cardiac-arrest",
+      "cells": [
+        {
+          "text": {
+            "en": "Cardiac arrest",
+            "ru": "Остановка кровообращения"
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "+++++^[b]",
+            "ru": "+++++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "VA-ECLS",
+            "ru": "ВА-ЭКМО (VA-ECLS / ECPR)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-cabg-surgery",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**CABG surgery**",
+            "ru": "**Операции коронарного шунтирования (КШ / CABG)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-cabg-preop-lvef-under-30",
+      "cells": [
+        {
+          "text": {
+            "en": "Coronary artery bypass grafting with preoperative LVEF (<30%)",
+            "ru": "Коронарное шунтирование при предоперационной ФВЛЖ (<30%)"
+          }
+        },
+        {
+          "tone": "green",
+          "text": {
+            "en": "++^[b]",
+            "ru": "++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "IABP<br>mAFP",
+            "ru": "ВАБК (IABP)<br>мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-cabg-ami-shock-or-arrest",
+      "cells": [
+        {
+          "text": {
+            "en": "Coronary artery bypass grafting in patients with AMI-related cardiogenic shock or cardiac arrest",
+            "ru": "Коронарное шунтирование у пациентов с кардиогенным шоком вследствие ОИМ или остановкой сердца"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "++++^[b]",
+            "ru": "++++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "VA-ECLS + mAFP",
+            "ru": "ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-cabg-low-lvef-incomplete-revasc",
+      "cells": [
+        {
+          "text": {
+            "en": "Coronary artery bypass grafting with low LVEF and expected incomplete or complex revascularization",
+            "ru": "Коронарное шунтирование при низкой ФВЛЖ и ожидаемой неполной или технически сложной реваскуляризации"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "++++^[b]",
+            "ru": "++++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "IABP<br>mAFP",
+            "ru": "ВАБК (IABP)<br>мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-cabg-low-lvef-diffuse-cad",
+      "cells": [
+        {
+          "text": {
+            "en": "Coronary artery bypass grafting with low LVEF and diffuse coronary artery disease",
+            "ru": "Коронарное шунтирование при низкой ФВЛЖ и диффузном атеросклеротическом поражении коронарного русла"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "+++^[b]",
+            "ru": "+++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "IABP<br>mAFP",
+            "ru": "ВАБК (IABP)<br>мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-cabg-kawasaki-giant-aneurysms",
+      "cells": [
+        {
+          "text": {
+            "en": "Coronary artery bypass grafting in Kawasaki syndrome with aneurysmatic (giant) coronary arteries",
+            "ru": "Коронарное шунтирование при болезни Кавасаки с гигантскими аневризмами коронарных артерий"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "+++^[b]",
+            "ru": "+++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "IABP<br>mAFP",
+            "ru": "ВАБК (IABP)<br>мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-post-ami-complications",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Post-AMI mechanical complications**",
+            "ru": "**Механические осложнения острого инфаркта миокарда (ОИМ / AMI)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-ventricular-septal-rupture",
+      "cells": [
+        {
+          "text": {
+            "en": "Ventricular septal rupture",
+            "ru": "Разрыв межжелудочковой перегородки (постинфарктный ДМЖП)"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "+++^[b]",
+            "ru": "+++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "IABP<br>VA-ECLS + mAFP",
+            "ru": "ВАБК (IABP)<br>ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-ventricular-septal-rupture-rv-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "Ventricular septal rupture with RV dysfunction",
+            "ru": "Разрыв МЖП с сопутствующей правожелудочковой дисфункцией"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "++++^[b]",
+            "ru": "++++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "VA-ECLS<br>VA-ECLS + mAFP",
+            "ru": "ВА-ЭКМО (VA-ECLS)<br>ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-papillary-muscle-rupture",
+      "cells": [
+        {
+          "text": {
+            "en": "Papillary muscle rupture",
+            "ru": "Разрыв (отрыв) сосочковой мышцы"
+          }
+        },
+        {
+          "tone": "green",
+          "text": {
+            "en": "++^[b]",
+            "ru": "++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "VA-ECLS + mAFP",
+            "ru": "ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13-ventricular-reconstruction-extensive-lv-aneurysm",
+      "cells": [
+        {
+          "text": {
+            "en": "Ventricular reconstruction for extensive LV aneurysm",
+            "ru": "Реконструкция левого желудочка при обширной аневризме ЛЖ"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "+++^[b]",
+            "ru": "+++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "mAFP<br>VA-ECLS + mAFP",
+            "ru": "мОН (mAFP)<br>ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-valve-surgery",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Valve surgery**",
+            "ru": "**Операции на клапанах сердца**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14-tavi-severely-depressed-function",
+      "cells": [
+        {
+          "text": {
+            "en": "Patients undergoing TAVI with severely depressed uni- or biventricular function",
+            "ru": "Пациенты на транскатетерную имплантацию аортального клапана (TAVI) с резко сниженной моно- или бивентрикулярной функцией"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "+++^[b]",
+            "ru": "+++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "mAFP<br>VA-ECLS + mAFP",
+            "ru": "мОН (mAFP)<br>ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r15-acute-mitral-aortic-endocarditis",
+      "cells": [
+        {
+          "text": {
+            "en": "Acute mitral and/or aortic endocarditis with massive regurgitation, pulmonary oedema, and uni- or biventricular dysfunction",
+            "ru": "Острый митральный и/или аортальный инфекционный эндокардит с массивной регургитацией, отеком легких и желудочковой дисфункцией"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "++++^[b]",
+            "ru": "++++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "mAFP<br>VA-ECLS + mAFP",
+            "ru": "мОН (mAFP)<br>ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r16-mitral-valve-surgery-low-lvef",
+      "cells": [
+        {
+          "text": {
+            "en": "Mitral valve surgery with low preoperative LVEF",
+            "ru": "Вмешательство на митральном клапане при низкой предоперационной ФВЛЖ"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "+++^[b]",
+            "ru": "+++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "IABP<br>mAFP<br>VA-ECLS + mAFP",
+            "ru": "ВАБК (IABP)<br>мОН (mAFP)<br>ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r17-mitral-valve-high-ph-rv-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "Mitral valve surgery with high pulmonary hypertension and signs of RV dysfunction",
+            "ru": "Операция на митральном клапане при высокой легочной гипертензии и признаках дисфункции ПЖ"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "++++^[b]",
+            "ru": "++++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "VA-ECLS + mAFP",
+            "ru": "ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r18-tricuspid-valve-surgery-preoperative-rv-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "Tricuspid valve surgery in the presence of preoperative RV dysfunction",
+            "ru": "Операция на трикуспидальном клапане при исходной правожелудочковой дисфункции"
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "+++++^[b]",
+            "ru": "+++++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "tRVAD<br>OxyRVAD<br>VA-ECLS",
+            "ru": "tRVAD<br>OxyRVAD<br>ВА-ЭКМО (VA-ECLS)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r19-avr-massive-regurgitation-poor-lvef",
+      "cells": [
+        {
+          "text": {
+            "en": "Aortic valve replacement for massive regurgitation and chronic poor preoperative LVEF",
+            "ru": "Протезирование аортального клапана при тяжелой регургитации и исходно низкой фракции выброса ЛЖ"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "+++^[b]",
+            "ru": "+++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "mAFP<br>VA-ECLS + mAFP",
+            "ru": "мОН (mAFP)<br>ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r20-aortic-mitral-combined-cabg-lvef-under-30",
+      "cells": [
+        {
+          "text": {
+            "en": "Aortic and mitral valve surgery for severe insufficiency combined with CABG and severe LV dysfunction (LVEF < 30%)",
+            "ru": "Сочетанная операция на аортальном и митральном клапанах с КШ при тяжелой дисфункции ЛЖ (ФВЛЖ < 30%)"
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "+++++^[b]",
+            "ru": "+++++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "VA-ECLS + mAFP",
+            "ru": "ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-heart-failure-surgery",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Heart failure surgery**",
+            "ru": "**Хирургическое лечение терминальной сердечной недостаточности**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r21-htx-prolonged-ischaemia-post-ecc-failure",
+      "cells": [
+        {
+          "text": {
+            "en": "Heart transplant with prolonged ischaemic time and uni- or biventricular failure after ECC weaning",
+            "ru": "Трансплантация сердца с длительной ишемией донорского органа и развитием желудочковой недостаточности после отключения ИК"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "+++^[b]",
+            "ru": "+++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "VA-ECLS + mAFP<br>tRVAD<br>OxyRVAD",
+            "ru": "ВА-ЭКМО (VA-ECLS) + мОН (mAFP)<br>tRVAD<br>OxyRVAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r22-lvad-preoperative-moderate-severe-rv-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "LVAD implant with preoperative moderate-to-severe RV dysfunction",
+            "ru": "Имплантация постоянного LVAD при исходной умеренной или тяжелой дисфункции правого желудочка"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "++++^[b]",
+            "ru": "++++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "tRVAD<br>OxyRVAD",
+            "ru": "tRVAD<br>OxyRVAD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-pulmonary-artery-surgery",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Pulmonary artery-related surgery**",
+            "ru": "**Вмешательства на легочной артерии**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r23-pea-chronic-embolization-rv-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "Pulmonary artery endo-endarterectomy for chronic embolization and with preoperative chronic RV dysfunction",
+            "ru": "Легочная эндартерэктомия (PEA) при хронической посттромбоэмболической легочной гипертензии и дисфункции ПЖ"
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "+++++^[b]",
+            "ru": "+++++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "RVAD<br>OxyRVAD<br>VA-ECLS",
+            "ru": "RVAD<br>OxyRVAD<br>ВА-ЭКМО (VA-ECLS)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r24-embolectomy-acute-pe-rv-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "Pulmonary artery embolectomy for acute pulmonary embolism and preoperative RV dysfunction",
+            "ru": "Эмболэктомия из легочной артерии при острой ТЭЛА и исходной дисфункции правого желудочка"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "+++^[b]",
+            "ru": "+++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "RVAD<br>OxyRVAD<br>VA-ECLS",
+            "ru": "RVAD<br>OxyRVAD<br>ВА-ЭКМО (VA-ECLS)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-aortic-surgery",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Aortic surgery**",
+            "ru": "**Хирургия аорты**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r25-type-a-dissection-coronary-compromise",
+      "cells": [
+        {
+          "text": {
+            "en": "Type A dissection with coronary artery compromise and preoperative myocardial ischaemia",
+            "ru": "Расслоение аорты типа А с компрометацией устьев коронарных артерий и предоперационной ишемией миокарда"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "++++^[b]",
+            "ru": "++++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "VA-ECLS + mAFP",
+            "ru": "ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r26-prolonged-aortic-surgery-rv-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "Prolonged surgery with long cardiac ischaemic time and difficult ECC weaning (particularly for RV dysfunction)",
+            "ru": "Длительное вмешательство на аорте с продолжительной ишемией миокарда и затрудненным отключением от ИК (особенно из-за дисфункции ПЖ)"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "+++^[b]",
+            "ru": "+++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "VA-ECLS + mAFP",
+            "ru": "ВА-ЭКМО (VA-ECLS) + мОН (mAFP)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-post-trauma-surgery",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Post-trauma cardiovascular surgery**",
+            "ru": "**Посттравматическая кардиоваскулярная хирургия**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r27-cardiac-major-vessel-injury-lung-contusion",
+      "cells": [
+        {
+          "text": {
+            "en": "Cardiac or major vessel injury requiring cardiac surgery with lung contusion",
+            "ru": "Ранение/травма сердца или магистральных сосудов, требующая кардиохирургического вмешательства, в сочетании с ушибом легких"
+          }
+        },
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "+++^[b]",
+            "ru": "+++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "VA-ECLS",
+            "ru": "ВА-ЭКМО (VA-ECLS)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-constrictive-pericarditis",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 3,
+          "tone": "neutral",
+          "text": {
+            "en": "**Constrictive pericarditis surgery**",
+            "ru": "**Хирургия констриктивного перикардита**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r28-pericardiectomy-moderate-severe-rv-dysfunction",
+      "cells": [
+        {
+          "text": {
+            "en": "Pericardiectomy with preoperative moderate-to-severe RV dysfunction, with preoperative TVI requiring intervention associated with RV dysfunction",
+            "ru": "Перикардэктомия при исходной умеренной или тяжелой дисфункции ПЖ и трикуспидальной недостаточности, требующей коррекции на фоне дисфункции ПЖ"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "++++^[b]",
+            "ru": "++++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "RVAD<br>OxyRVAD<br>VA-ECLS<br>VA-ECLS + mAFP",
+            "ru": "RVAD<br>OxyRVAD<br>ВА-ЭКМО (VA-ECLS)<br>ВА-ЭКМО + мОН (mAFP)"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Adapted from EACTS/ELSO/STS/AATS expert consensus on post-cardiotomy extracorporeal life support in adult patients with permission from Oxford University Press.",
+      "ru": "Адаптировано из экспертного соглашения EACTS/ELSO/STS/AATS по посткардиотомной экстракорпоральной поддержке жизни у взрослых пациентов с разрешения Oxford University Press."
+    },
+    "b": {
+      "en": "Low periprocedural risk (+) through incremental levels (++ to ++++) to High periprocedural risk (+++++).",
+      "ru": "Низкий перипроцедуральный риск (+) с нарастанием градации (++ до ++++) до Высокого риска (+++++)."
+    }
+  },
+  "source": {
+    "note": "Clinical scenarios that warrant consideration for tMCS and recommended device modalities (Table 5)"
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

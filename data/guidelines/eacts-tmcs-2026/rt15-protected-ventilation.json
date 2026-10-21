@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt15-protected-ventilation",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 15",
+  "title": {
+    "en": "Recommendations for Protected Ventilation",
+    "ru": "Рекомендации по протективной искусственной вентиляции легких"
+  },
+  "tags": [
+    "tmcs",
+    "ecls",
+    "vv-ecls",
+    "va-v-ecls",
+    "mechanical-ventilation",
+    "protected-ventilation",
+    "tidal-volume",
+    "peep",
+    "plateau-pressure"
+  ],
+  "sections": [
+    {
+      "id": "sec-protected-ventilation",
+      "title": {
+        "en": "Recommendations for Protected Ventilation",
+        "ru": "Рекомендации по протективной искусственной вентиляции легких"
+      },
+      "rows": [
+        {
+          "id": "r01-respiratory-insufficiency-goal-ventilator-settings",
+          "text": {
+            "en": "In patients with respiratory insufficiency on VV- or V-AV- ECLS, goal ventilator settings should be considered:\n• Respiratory frequency of 6 to 10 breaths/min\n• FiO₂ adjusted to an appropriate saturation level\n• Tidal volume ≤ 6 ml/kg of predicted body weight\n• Plateau pressure ≤ 25 cm H₂O\n• Inspiratory pressure ≤ 15 cm H₂O\n• PEEP between 10 and 15 cm H₂O\n• Inspiratory to expiratory ratio of 1:1.",
+            "ru": "У пациентов с дыхательной недостаточностью на ВВ-ЭКМО (VV-ECLS) или V-AV-ECLS следует рассмотреть следующие целевые параметры протективной вентиляции легких:\n• Частота дыхания (ЧД): от 6 до 10 вдохов/мин\n• FiO₂: титруется до достижения адекватного уровня сатурации\n• Дыхательный объем (ДО / Vt): ≤ 6 мл/кг идеальной массы тела (PBW)\n• Давление плато (Pplat): ≤ 25 см H₂O\n• Инспираторное давление (Pinsp / Driving pressure): ≤ 15 см H₂O\n• ПДКВ (PEEP): от 10 до 15 см H₂O\n• Отношение вдоха к выдоху (I:E): 1:1."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [534]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

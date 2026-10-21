@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt25-weaning-from-tmcs",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 25",
+  "title": {
+    "en": "Recommendations for Weaning from tMCS^[d]",
+    "ru": "Рекомендации по отлучению (weaning) от ВМПК (tMCS)^[d]"
+  },
+  "tags": [
+    "tmcs",
+    "weaning",
+    "map",
+    "vis",
+    "echocardiography",
+    "right-heart-catheterization",
+    "rhc",
+    "acute-dilation",
+    "mafp",
+    "heart-team"
+  ],
+  "sections": [
+    {
+      "id": "sec-weaning-from-tmcs",
+      "title": {
+        "en": "Recommendations for Weaning from tMCS",
+        "ru": "Рекомендации по отлучению от ВМПК"
+      },
+      "rows": [
+        {
+          "id": "r01-weaning-map-65-minimal-vasoactive-vis-under-10",
+          "text": {
+            "en": "In patients on tMCS, weaning may be considered when patients can maintain an MAP ≥ 65 mmHg (≥ 8.66 kPa) with minimal vasoactive support (VIS < 10).",
+            "ru": "У пациентов на ВМПК процесс отлучения может быть рассмотрен при способности пациента поддерживать среднее АД (САД / MAP) ≥ 65 мм рт. ст. (≥ 8,66 кПа) на фоне минимальной вазоактивной поддержки (индекс VIS < 10)."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [694, 740, 749, 750, 756]
+        },
+        {
+          "id": "r02-echocardiography-evaluate-myocardial-function-weaning",
+          "text": {
+            "en": "Echocardiography is recommended to evaluate myocardial function for weaning.",
+            "ru": "Для оценки сократимости и восстановления миокарда при подготовке к отлучению рекомендуется проведение эхокардиографии."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r03-right-heart-catheterization-evaluate-myocardial-function",
+          "text": {
+            "en": "Right heart catheterization should be considered to evaluate myocardial function for weaning.",
+            "ru": "Для комплексной оценки функции миокарда и внутрисердечной гемодинамики перед отлучением следует рассмотреть катетеризацию правых отделов сердца."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r04-algorithms-specific-individual-support-methods",
+          "text": {
+            "en": "In patients on tMCS, algorithms specific to individual support methods (VA-ECLS with or without mAFP, RVAD) should be considered for weaning.^[d]",
+            "ru": "У пациентов на ВМПК при отлучении следует применять протоколы и алгоритмы, специфичные для конкретного метода механической поддержки (VA-ECLS с/без мОН/mAFP, RVAD).^[d]"
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r05-no-weaning-if-acute-dilation-rv-lv",
+          "text": {
+            "en": "In patients undergoing echocardiographic evaluation for weaning from tMCS, it is not recommended to continue with weaning in the face of acute dilation of the RV or the LV.^[d]",
+            "ru": "При эхокардиографической оценке в ходе отлучения от ВМПК не рекомендуется продолжать отлучение при возникновении острой дилатации ПЖ или ЛЖ.^[d]"
+          },
+          "class": "III",
+          "level": "C",
+          "refs": [737]
+        },
+        {
+          "id": "r06-ecls-respiratory-rv-recovery-transition-mafp",
+          "text": {
+            "en": "In patients on ECLS with both respiratory and RV recovery, transition to mAFP may be considered.",
+            "ru": "У пациентов на ЭКМО при восстановлении функции легких и правого желудочка можно рассмотреть переход (деэскалацию) на микроаксиальный насос (мОН / mAFP)."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [691]
+        },
+        {
+          "id": "r07-weaning-strategies-interdisciplinary-heart-team",
+          "text": {
+            "en": "In patients on tMCS, it is recommended that weaning strategies be implemented with the guidance of an interdisciplinary Heart Team.",
+            "ru": "У пациентов на ВМПК реализацию стратегий отлучения от аппарата рекомендуется проводить под контролем и руководством междисциплинарной кардиокоманды (Heart Team)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "d": {
+      "en": "See flow charts in Figures 8–11 as companion guides to the recommendations.",
+      "ru": "См. блок-схемы алгоритмов на Рисунках 8–11 в качестве сопроводительных руководств к рекомендациям."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

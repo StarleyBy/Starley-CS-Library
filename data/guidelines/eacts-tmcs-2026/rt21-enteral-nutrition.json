@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt21-enteral-nutrition",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 21",
+  "title": {
+    "en": "Recommendations for Enteral Nutrition in Patients on tMCS",
+    "ru": "Рекомендации по энтеральному питанию пациентов на ВМПК (tMCS)"
+  },
+  "tags": [
+    "tmcs",
+    "enteral-nutrition",
+    "nutrition",
+    "icu",
+    "vasoactive-support",
+    "gut-perfusion"
+  ],
+  "sections": [
+    {
+      "id": "sec-enteral-nutrition",
+      "title": {
+        "en": "Recommendations for Enteral Nutrition in Patients on tMCS",
+        "ru": "Рекомендации по энтеральному питанию"
+      },
+      "rows": [
+        {
+          "id": "r01-early-enteral-nutrition-within-24-48h",
+          "text": {
+            "en": "Early enteral nutrition should be considered within 24–48 hours of admission to the ICU.",
+            "ru": "Раннее начало энтерального питания следует рассмотреть в течение первых 24–48 часов после поступления в ОРИТ."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [669, 671, 675, 676]
+        },
+        {
+          "id": "r02-high-dose-vasoactive-postpone-full-enteral",
+          "text": {
+            "en": "In patients requiring high-dose vasoactive support, it may be considered to postpone the introduction of full enteral nutrition.",
+            "ru": "У пациентов, требующих высоких доз вазоактивной поддержки, можно рассмотреть отсрочку расширения энтерального питания до полного объема."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [670, 674, 675]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

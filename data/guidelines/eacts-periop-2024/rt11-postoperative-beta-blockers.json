@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt11-postoperative-beta-blockers",
+  "guidelineId": "eacts-periop-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 11",
+  "title": {
+    "en": "Recommendations for postoperative beta-blockers",
+    "ru": "Рекомендации по применению бета-адреноблокаторов в послеоперационном периоде"
+  },
+  "tags": [
+    "beta-blockers",
+    "cardioselective",
+    "heart-failure",
+    "myocardial-infarction",
+    "lvef"
+  ],
+  "sections": [
+    {
+      "id": "sec-postoperative-beta-blockers",
+      "title": {
+        "en": "Postoperative beta-blockers",
+        "ru": "Послеоперационные бета-адреноблокаторы"
+      },
+      "rows": [
+        {
+          "id": "r01-long-term-cardioselective-bbs-hf-mi-reduced-lvef",
+          "text": {
+            "en": "Long-term cardioselective BBs are recommended in patients with HF and in those with recent MI and reduced LVEF.",
+            "ru": "Длительный прием кардиоселективных бета-адреноблокаторов (БАБ/BB) рекомендуется пациентам с СН (HF), а также пациентам с недавним инфарктом миокарда (ИМ/MI) и сниженной ФВЛЖ (LVEF)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [329, 330, 331]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

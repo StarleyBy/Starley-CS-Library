@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt09-non-cardiac-comorbidities",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 9",
+  "title": {
+    "en": "Recommendations for Use of tMCS in Patients with Non-cardiac Comorbidities",
+    "ru": "Рекомендации по применению ВМПК (tMCS) у пациентов с внесердечными сопутствующими заболеваниями"
+  },
+  "tags": [
+    "tmcs",
+    "comorbidities",
+    "frailty",
+    "elderly",
+    "obesity",
+    "sepsis",
+    "diabetes",
+    "pvd",
+    "malignancy",
+    "liver-disease",
+    "aki",
+    "ckd",
+    "dementia"
+  ],
+  "sections": [
+    {
+      "id": "sec-age-and-frailty",
+      "title": {
+        "en": "Age and frailty",
+        "ru": "Возраст и старческая астения (хрупкость)"
+      },
+      "rows": [
+        {
+          "id": "r01-advanced-age-not-absolute-contraindication",
+          "text": {
+            "en": "It is recommended that advanced age not be considered as an absolute contraindication for tMCS.",
+            "ru": "Рекомендуется не рассматривать пожилой и старческий возраст как абсолютное противопоказание к проведению ВМПК (tMCS)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [308, 309, 310, 313, 314, 315, 317, 318]
+        },
+        {
+          "id": "r02-moderate-severe-frailty-relative-contraindication",
+          "text": {
+            "en": "Moderate and severe frailty should be considered as a relative contraindication to tMCS.",
+            "ru": "Умеренную и выраженную старческую астению (хрупкость) следует рассматривать как относительное противопоказание к ВМПК (tMCS)."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [319, 322, 323, 324]
+        }
+      ]
+    },
+    {
+      "id": "sec-obese-or-malnourished",
+      "title": {
+        "en": "Patients who are obese or malnourished",
+        "ru": "Пациенты с ожирением или белково-энергетической недостаточностью (мальнутрицией)"
+      },
+      "rows": [
+        {
+          "id": "r03-malnutrition-not-absolute-contraindication",
+          "text": {
+            "en": "It is recommended that malnutrition alone not be considered as an absolute contraindication to tMCS.",
+            "ru": "Рекомендуется не рассматривать изолированную нутритивную недостаточность (мальнутрицию) как абсолютное противопоказание к ВМПК (tMCS)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [313, 330, 331]
+        },
+        {
+          "id": "r04-obesity-not-absolute-contraindication",
+          "text": {
+            "en": "It is recommended that obesity alone not be considered as an absolute contraindication to tMCS.",
+            "ru": "Рекомендуется не рассматривать изолированное ожирение как абсолютное противопоказание к ВМПК (tMCS)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [331, 336, 337, 338]
+        },
+        {
+          "id": "r05-bmi-over-35-additional-risk-factor",
+          "text": {
+            "en": "A BMI > 35 kg/m² may be considered as an additional risk factor for tMCS.",
+            "ru": "Индекс массы тела (ИМТ / BMI) > 35 кг/м² может рассматриваться как дополнительный фактор риска при проведении ВМПК (tMCS)."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [338, 339]
+        },
+        {
+          "id": "r06-obese-imaging-guided-cannulation",
+          "text": {
+            "en": "In obese patients (BMI > 35 kg/m²), imaging-guided cannulation for peripheral tMCS is recommended.",
+            "ru": "У пациентов с ожирением (ИМТ > 35 кг/м²) канюляцию сосудов для периферической ВМПК (tMCS) рекомендуется выполнять строго под визуальным контролем (УЗИ/рентгеноскопия)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [340, 419]
+        }
+      ]
+    },
+    {
+      "id": "sec-patients-who-are-septic",
+      "title": {
+        "en": "Patients who are septic",
+        "ru": "Пациенты с сепсисом и септическим шоком"
+      },
+      "rows": [
+        {
+          "id": "r07-refractory-septic-shock-septic-cardiomyopathy",
+          "text": {
+            "en": "In patients with refractory septic shock and sepsis-related cardiomyopathy, tMCS should be considered.",
+            "ru": "У пациентов с рефрактерным септическим шоком и сепсис-индуцированной кардиомиопатией следует рассмотреть применение ВМПК (tMCS)."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [346, 347, 348, 420]
+        },
+        {
+          "id": "r08-device-infection-removal-bridge-exchange-tx",
+          "text": {
+            "en": "In patients who require durable device removal to treat a related infection, tMCS may be considered as a bridge to device exchange or a transplant.",
+            "ru": "У пациентов, которым требуется эксплантация постоянного устройства поддержки (dMCS) для санации инфекции, ВМПК (tMCS) может быть рассмотрена как «мост» к реимплантации нового аппарата или трансплантации сердца."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [81, 349, 350, 351]
+        }
+      ]
+    },
+    {
+      "id": "sec-patients-with-diabetes",
+      "title": {
+        "en": "Patients with diabetes",
+        "ru": "Пациенты с сахарным диабетом"
+      },
+      "rows": [
+        {
+          "id": "r09-diabetes-not-contraindication",
+          "text": {
+            "en": "It is recommended that diabetes mellitus not be considered a contraindication for tMCS.",
+            "ru": "Рекомендуется не рассматривать сахарный диабет как противопоказание к проведению ВМПК (tMCS)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [352, 355]
+        },
+        {
+          "id": "r10-diabetic-ketoacidosis-cardiogenic-shock",
+          "text": {
+            "en": "tMCS should be considered in patients in cardiogenic shock due to diabetic ketoacidosis.",
+            "ru": "Применение ВМПК (tMCS) следует рассмотреть у пациентов с кардиогенным шоком, развившимся на фоне тяжелого диабетического кетоацидоза."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [360, 362]
+        }
+      ]
+    },
+    {
+      "id": "sec-peripheral-vascular-disease",
+      "title": {
+        "en": "Peripheral vascular disease",
+        "ru": "Заболевания периферических сосудов (ЗПА / PVD)"
+      },
+      "rows": [
+        {
+          "id": "r11-pvd-cannulation-guided-by-imaging",
+          "text": {
+            "en": "In patients with PVD, it is recommended that adjustments to cannulation strategies be guided by available imaging.",
+            "ru": "У пациентов с заболеваниями периферических сосудов рекомендуется корректировать стратегию сосудистого доступа и канюляции на основании данных лучевой визуализации (КТ-ангиография, УЗДГ)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        }
+      ]
+    },
+    {
+      "id": "sec-malignancy",
+      "title": {
+        "en": "Malignancy",
+        "ru": "Злокачественные новообразования (онкология)"
+      },
+      "rows": [
+        {
+          "id": "r12-oncology-prognosis-under-1-year-not-recommended",
+          "text": {
+            "en": "In oncology patients based upon an interdisciplinary prognosis of ≤ 1 year, tMCS is not recommended.",
+            "ru": "У онкологических пациентов при междисциплинарной оценке прогноза продолжительности жизни ≤ 1 года применение ВМПК (tMCS) не рекомендуется."
+          },
+          "class": "III",
+          "level": "C",
+          "refs": []
+        }
+      ]
+    },
+    {
+      "id": "sec-liver-disease",
+      "title": {
+        "en": "Liver disease",
+        "ru": "Заболевания печени"
+      },
+      "rows": [
+        {
+          "id": "r13-chronic-liver-disease-not-absolute-contraindication",
+          "text": {
+            "en": "It is recommended that chronic liver disease not be considered an absolute contraindication for tMCS.",
+            "ru": "Рекомендуется не рассматривать хронические заболевания печени как абсолютное противопоказание к проведению ВМПК (tMCS)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [404, 405, 406, 408]
+        },
+        {
+          "id": "r14-acute-liver-injury-not-absolute-contraindication",
+          "text": {
+            "en": "It is recommended that acute liver injury not be considered an absolute contraindication for tMCS.",
+            "ru": "Рекомендуется не рассматривать острое повреждение печени («кардиогенный шоковый гепатоз») как абсолютное противопоказание к ВМПК (tMCS)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [409, 410, 411, 412, 413, 414]
+        }
+      ]
+    },
+    {
+      "id": "sec-renal-disease",
+      "title": {
+        "en": "Renal disease",
+        "ru": "Заболевания почек"
+      },
+      "rows": [
+        {
+          "id": "r15-aki-not-contraindication",
+          "text": {
+            "en": "It is recommended that AKI not be considered a contraindication for tMCS.",
+            "ru": "Рекомендуется не рассматривать острое повреждение почек (ОПП / AKI) как противопоказание к ВМПК (tMCS)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [415, 416]
+        },
+        {
+          "id": "r16-ckd-hktx-or-recovery-goal",
+          "text": {
+            "en": "Patients with CKD should be considered for tMCS if HKTx or anticipated myocardial recovery is the primary goal.",
+            "ru": "Пациентов с хронической болезнью почек (ХБП / CKD) следует рассматривать как кандидатов на ВМПК (tMCS), если основной целью является сочетанная трансплантация сердца и почек (HKTx) или ожидаемое восстановление функции миокарда."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [416]
+        },
+        {
+          "id": "r17-ckd-bridge-to-dmcs",
+          "text": {
+            "en": "In patients with CKD, tMCS as a bridge to dMCS may be considered.",
+            "ru": "У пациентов с ХБП (CKD) применение ВМПК (tMCS) может быть рассмотрено в качестве «моста» к постоянной поддержке (dMCS)."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [418]
+        }
+      ]
+    },
+    {
+      "id": "sec-cognitive-psychological-disorders",
+      "title": {
+        "en": "Cognitive and psychological disorders",
+        "ru": "Когнитивные и психологические расстройства"
+      },
+      "rows": [
+        {
+          "id": "r18-dementia-cognitive-wishes-family-carers",
+          "text": {
+            "en": "When deciding on tMCS for patients with dementia or cognitive or psychological disorders, it is recommended to take into account their wishes and those of their family and/or carers.",
+            "ru": "При принятии решения о начале ВМПК (tMCS) у пациентов с деменцией, когнитивными или психическими расстройствами рекомендуется учитывать их предшествующие пожелания, а также мнение членов семьи и лиц, осуществляющих уход."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 18
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

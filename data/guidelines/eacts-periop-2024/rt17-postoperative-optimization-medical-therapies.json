@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt17-postoperative-optimization-medical-therapies",
+  "guidelineId": "eacts-periop-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 17",
+  "title": {
+    "en": "Recommendations for postoperative optimization of medical therapies",
+    "ru": "Рекомендации по послеоперационной оптимизации медикаментозной терапии"
+  },
+  "tags": [
+    "gdmt",
+    "postoperative",
+    "cabg",
+    "savr",
+    "tavi",
+    "valvular-surgery",
+    "adherence",
+    "quality-improvement"
+  ],
+  "sections": [
+    {
+      "id": "sec-postoperative-period",
+      "title": {
+        "en": "Postoperative period",
+        "ru": "Послеоперационный период"
+      },
+      "rows": [
+        {
+          "id": "r01-gdmt-post-cabg-discharge",
+          "text": {
+            "en": "Long-term GDMT, including low-dose ASA (75–100 mg), lipid-lowering therapy and a RAS inhibitor (ACEI or ARB), is recommended post-CABG at discharge, in the absence of contraindications^[a].",
+            "ru": "Длительная ОМТ (GDMT), включающая низкие дозы АСК (75–100 мг), гиполипидемическую терапию и ингибитор РААС (иАПФ или БРА), рекомендуется после КШ (CABG) при выписке при отсутствии противопоказаний^[a]."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [2, 3, 4, 5]
+        },
+        {
+          "id": "r02-gdmt-post-cabg-recent-acs-pci",
+          "text": {
+            "en": "In patients with recent ACS or PCI, long-term GDMT, including DAPT for the indicated duration followed by low-dose ASA (75–100 mg), lipid-lowering therapy, RAS inhibitor (ACEI or ARB), is recommended post-CABG at discharge, in the absence of contraindications^[a].",
+            "ru": "У пациентов с недавним ОКС (ACS) или ЧКВ (PCI) длительная ОМТ (GDMT), включающая ДАТ (DAPT) на рекомендованный срок с последующим переходом на низкие дозы АСК (75–100 мг), гиполипидемическую терапию, ингибитор РААС (иАПФ или БРА), рекомендуется после КШ (CABG) при выписке при отсутствии противопоказаний^[a]."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03-gdmt-post-cabg-hf-reduced-lvef",
+          "text": {
+            "en": "In patients with HF and reduced LVEF <40%, long-term GDMT, including low-dose ASA (75–100 mg), lipid-lowering therapy, a RAS inhibitor, MRA, SGLT2 inhibitor and BB are recommended post CABG at discharge, in the absence of contraindications^[a].",
+            "ru": "У пациентов с СН (HF) и сниженной ФВЛЖ (LVEF < 40%) длительная ОМТ (GDMT), включающая низкие дозы АСК (75–100 мг), гиполипидемическую терапию, ингибитор РААС, АНМКР (MRA), ингибитор SGLT2 и бета-блокатор, рекомендуется после КШ (CABG) при выписке при отсутствии противопоказаний^[a]."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r04-gdmt-post-savr-post-tavi",
+          "text": {
+            "en": "Long-term GDMT, including an indicated antithrombotic regimen, lipid-lowering therapy and a RAS inhibitor (ACEI or ARB), may be considered post-SAVR and post-TAVI, in the absence of contraindications^[a].",
+            "ru": "Длительная ОМТ (GDMT), включающая показанный антитромботический режим, гиполипидемическую терапию и ингибитор РААС (иАПФ или БРА), может быть рассмотрена после ХПАК (SAVR) и после ТИАК (TAVI) при отсутствии противопоказаний^[a]."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [303, 332, 341, 529, 531, 533]
+        },
+        {
+          "id": "r05-gdmt-post-valvular-hf-reduced-lvef",
+          "text": {
+            "en": "In patients with HF and reduced LVEF ≤40%, long-term GDMT, including recommended antithrombotic regimen, lipid-lowering therapy, a RAS inhibitor, MRA, SGLT2 inhibitor and BB may be considered after valvular heart surgery, in the absence of contraindications^[a].",
+            "ru": "У пациентов с СН (HF) и сниженной ФВЛЖ (LVEF ≤ 40%) длительная ОМТ (GDMT), включающая рекомендованный антитромботический режим, гиполипидемическую терапию, ингибитор РААС, АНМКР (MRA), ингибитор SGLT2 и бета-блокатор, может рассматриваться после операций на клапанах сердца при отсутствии противопоказаний^[a]."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r06-adherence-to-gdmt",
+          "text": {
+            "en": "It is recommended that patients undergo regular examinations and strictly adhere to their prescribed GDMT over time, to derive the most long-term benefits from the operation.",
+            "ru": "Рекомендуется регулярное медицинское наблюдение и строгое соблюдение предписанной ОМТ (GDMT) с течением времени для получения максимальной долгосрочной пользы от выполненной операции."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [2, 534, 535, 536]
+        },
+        {
+          "id": "r07-quality-assurance-programs",
+          "text": {
+            "en": "Quality assurance initiatives that systematically measure adherence to GDMT, along with quality improvement programs, are recommended to enhance adherence to and persistence with GDMT.",
+            "ru": "Инициативы по обеспечению качества, систематически оценивающие приверженность ОМТ (GDMT), наряду с программами непрерывного улучшения качества, рекомендуются для повышения приверженности и удержания на терапии ОМТ."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [548]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "If so, substitution with similar medications from the same or a similar drug class is recommended to achieve the desired effects.",
+      "ru": "В случае наличия противопоказаний рекомендуется замена аналогичными препаратами из того же или близкого фармакологического класса для достижения желаемого терапевтического эффекта."
+    }
+  },
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

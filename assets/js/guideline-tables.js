@@ -172,20 +172,22 @@
               <span class="gt-guideline" id="gt-header-badge">📋 CLINICAL GUIDELINES</span>
               <h2 id="gt-header-title">Guideline Tables</h2>
             </div>
-            <div class="gt-modal-actions">
+            <div class="gt-modal-actions" id="gt-modal-actions">
               <div class="gt-book-nav" id="gt-book-nav" style="display:none;">
                 <button class="gt-btn gt-btn-nav" id="gt-btn-prev" title="Предыдущая таблица (←)">◀</button>
                 <span class="gt-book-page-info" id="gt-book-page-info">1 / 1</span>
                 <button class="gt-btn gt-btn-nav" id="gt-btn-next" title="Следующая таблица (→)">▶</button>
               </div>
-              <button class="gt-btn" id="gt-btn-cor-loe-aha" title="AHA/ACC Classes of Recommendation & Levels of Evidence">⚖️ AHA COR/LOE</button>
-              <button class="gt-btn" id="gt-btn-cor-loe-esc" title="ESC Classes of Recommendation & Levels of Evidence">🇪🇺 ESC COR/LOE</button>
               <button class="gt-btn" id="gt-btn-catalog" title="Catalog / List">📚 Каталог</button>
+              <button class="gt-btn" id="gt-btn-cor-loe-aha" title="AHA/ACC Classes of Recommendation & Levels of Evidence">⚖️ AHA<span class="gt-extra-label"> COR/LOE</span></button>
+              <button class="gt-btn" id="gt-btn-cor-loe-esc" title="ESC Classes of Recommendation & Levels of Evidence">🇪🇺 ESC<span class="gt-extra-label"> COR/LOE</span></button>
+            </div>
+            <div class="gt-modal-header-tools">
               <div class="gt-lang-toggle">
                 <button class="gt-lang-btn" data-lang="ru">RU</button>
                 <button class="gt-lang-btn is-active" data-lang="en">EN</button>
               </div>
-              <button class="gt-btn-close" id="gt-btn-close" aria-label="Close">✕</button>
+              <button class="gt-btn-close" id="gt-btn-close" aria-label="Close" title="Закрыть (Esc)">✕</button>
             </div>
           </div>
           <div class="gt-modal-body" id="gt-modal-content">
@@ -299,10 +301,10 @@
       const catBtn = document.getElementById('gt-btn-catalog');
       if (catBtn) {
         if (this.activeTable) {
-          catBtn.textContent = isRu ? '↩ К таблицам' : '↩ To Tables';
+          catBtn.textContent = isRu ? '↩ Таблицы' : '↩ Tables';
           catBtn.title = isRu ? 'Назад к таблицам этого руководства' : 'Back to tables of this guideline';
         } else if (this.selectedGuidelineId) {
-          catBtn.textContent = isRu ? '↩ Все руководства' : '↩ All Guidelines';
+          catBtn.textContent = isRu ? '↩ Все гайдлайны' : '↩ All Guidelines';
           catBtn.title = isRu ? 'Назад к списку всех руководств' : 'Back to guidelines catalog';
         } else {
           catBtn.textContent = isRu ? '📚 Каталог' : '📚 Catalog';
@@ -311,12 +313,12 @@
       }
       const corLoeAhaBtn = document.getElementById('gt-btn-cor-loe-aha') || document.getElementById('gt-btn-cor-loe');
       if (corLoeAhaBtn) {
-        corLoeAhaBtn.textContent = '⚖️ AHA COR/LOE';
+        corLoeAhaBtn.innerHTML = '⚖️ AHA<span class="gt-extra-label"> COR/LOE</span>';
         corLoeAhaBtn.title = isRu ? 'Классы рекомендаций и уровни доказательности (AHA/ACC)' : 'Classes of Recommendation & Levels of Evidence (AHA/ACC)';
       }
       const corLoeEscBtn = document.getElementById('gt-btn-cor-loe-esc');
       if (corLoeEscBtn) {
-        corLoeEscBtn.textContent = '🇪🇺 ESC COR/LOE';
+        corLoeEscBtn.innerHTML = '🇪🇺 ESC<span class="gt-extra-label"> COR/LOE</span>';
         corLoeEscBtn.title = isRu ? 'Классы рекомендаций и уровни доказательности (ESC)' : 'Classes of Recommendation & Levels of Evidence (ESC)';
       }
       const searchInput = document.getElementById('gt-table-filter');
@@ -608,7 +610,7 @@
       if (filterInput) filterInput.value = '';
 
       titleEl.textContent = this.currentLang === 'ru' ? 'Клинические руководства' : 'Clinical Guidelines';
-      badgeEl.textContent = 'ESC / AHA / ACC';
+      badgeEl.textContent = 'ESC / AHA / ACC / EACTS';
 
       container.innerHTML = '<div style="text-align:center; padding: 2rem; color: var(--gt-muted);">Загрузка руководств...</div>';
 
@@ -622,21 +624,25 @@
 
       // Helper to identify topic icon
       const getTopicIcon = (id) => {
-        if (id.includes('pe')) return '🫁'; // Pulmonary Embolism
-        if (id.includes('af')) return '⚡'; // Atrial Fibrillation / Arrhythmia
-        if (id.includes('endo')) return '🛡️'; // Endocarditis / Valve Infection
-        if (id.includes('revasc')) return '🩺'; // Revascularization / Stents / CABG
-        if (id.includes('cardioonc')) return '🎗️'; // Cardio-Oncology
-        if (id.includes('cmp')) return '🧬'; // Cardiomyopathies / Genetics
-        if (id.includes('achd')) return '🫀'; // Adult Congenital Heart Disease
-        if (id.includes('acs')) return '🚨'; // Acute Coronary Syndromes
-        if (id.includes('ccs')) return '💓'; // Chronic Coronary Syndromes
-        if (id.includes('valve') || id.includes('vhd')) return '❤️‍🩹'; // Valvular Heart Disease
-        if (id.includes('hf')) return '💧'; // Heart Failure
+        const lower = id.toLowerCase();
+        if (lower.includes('tmcs') || lower.includes('mcs')) return '🔄'; // Temporary Mechanical Circulatory Support (EACTS/STS/AATS)
+        if (lower.includes('periop')) return '💊'; // Perioperative Care / Medication (EACTS)
+        if (lower.includes('vhd') || lower.includes('valve')) return '❤️‍🩹'; // Valvular Heart Disease
+        if (lower.includes('-pe-') || lower.endsWith('-pe') || lower.includes('esc-pe')) return '🫁'; // Pulmonary Embolism
+        if (lower.includes('af')) return '⚡'; // Atrial Fibrillation / Arrhythmia
+        if (lower.includes('endo')) return '🛡️'; // Endocarditis / Valve Infection
+        if (lower.includes('revasc')) return '🩺'; // Revascularization / Stents / CABG
+        if (lower.includes('cardioonc')) return '🎗️'; // Cardio-Oncology
+        if (lower.includes('cmp') || lower.includes('hcm')) return '🧬'; // Cardiomyopathies / HCM
+        if (lower.includes('achd')) return '🫀'; // Adult Congenital Heart Disease
+        if (lower.includes('acs')) return '🚨'; // Acute Coronary Syndromes
+        if (lower.includes('ccs') || lower.includes('ccd')) return '💓'; // Chronic Coronary Syndromes / CCD
+        if (lower.includes('hf')) return '💧'; // Heart Failure
+        if (lower.includes('aortic')) return '🫀'; // Aortic Disease
         return '📑';
       };
 
-      // Helper to format concise key title (e.g. "2024 ESC AF" / "2024 ESC ФП", "2019 ESC Pulmonary Embolism" / "2019 ESC ТЭЛА")
+      // Helper to format concise key title (e.g. "2024 ESC AF" / "2024 ESC ФП", "2026 EACTS ВМПК (tMCS)")
       const getKeyTitle = (g, isRu) => {
         const yr = g.year || '';
         const soc = (g.society || 'ESC').split('/')[0].trim();
@@ -644,31 +650,41 @@
         let topic = '';
 
         if (isRu) {
-          if (id.includes('vhd') || id.includes('valve')) topic = 'Пороки сердца';
-          else if (id.includes('pe')) topic = 'ТЭЛА';
+          if (id.includes('tmcs') || id.includes('mcs')) topic = 'ВМПК (tMCS)';
+          else if (id.includes('periop')) topic = 'Периоперационная терапия';
+          else if (id.includes('vhd') || id.includes('valve')) topic = 'Пороки сердца';
+          else if (id.includes('-pe-') || id.endsWith('-pe') || id.includes('esc-pe')) topic = 'ТЭЛА';
           else if (id.includes('af')) topic = 'ФП';
           else if (id.includes('endo')) topic = 'Эндокардит';
           else if (id.includes('revasc')) topic = 'Реваскуляризация';
           else if (id.includes('cardioonc')) topic = 'Кардиоонкология';
           else if (id.includes('cmp')) topic = 'Кардиомиопатии';
+          else if (id.includes('hcm')) topic = 'ГКМП';
           else if (id.includes('achd')) topic = 'ВПС у взрослых';
           else if (id.includes('acs')) topic = 'ОКС';
           else if (id.includes('ccs')) topic = 'ХКС';
+          else if (id.includes('ccd')) topic = 'ХИБС';
           else if (id.includes('hf')) topic = 'СН';
+          else if (id.includes('aortic')) topic = 'Аорта';
           else if (g.shortTitle?.ru) topic = g.shortTitle.ru.replace(/^(ESC|AHA|ACC|EACTS)\s*/i, '').replace(/\s*\d{4}$/, '').trim();
           else topic = g.id;
         } else {
-          if (id.includes('vhd') || id.includes('valve')) topic = 'Valve Disease';
-          else if (id.includes('pe')) topic = 'Pulmonary Embolism';
+          if (id.includes('tmcs') || id.includes('mcs')) topic = 'tMCS';
+          else if (id.includes('periop')) topic = 'Perioperative Medication';
+          else if (id.includes('vhd') || id.includes('valve')) topic = 'Valve Disease';
+          else if (id.includes('-pe-') || id.endsWith('-pe') || id.includes('esc-pe')) topic = 'Pulmonary Embolism';
           else if (id.includes('af')) topic = 'AF';
           else if (id.includes('endo')) topic = 'Endocarditis';
           else if (id.includes('revasc')) topic = 'Revascularization';
           else if (id.includes('cardioonc')) topic = 'Cardio-Oncology';
           else if (id.includes('cmp')) topic = 'Cardiomyopathies';
+          else if (id.includes('hcm')) topic = 'HCM';
           else if (id.includes('achd')) topic = 'ACHD';
           else if (id.includes('acs')) topic = 'ACS';
           else if (id.includes('ccs')) topic = 'CCS';
+          else if (id.includes('ccd')) topic = 'CCD';
           else if (id.includes('hf')) topic = 'Heart Failure';
+          else if (id.includes('aortic')) topic = 'Aorta';
           else if (g.shortTitle?.en) topic = g.shortTitle.en.replace(/^(ESC|AHA|ACC|EACTS)\s*/i, '').replace(/\s*\d{4}$/, '').trim();
           else topic = g.id;
         }
@@ -688,9 +704,10 @@
         // Society theme and logo
         const socUpper = (g.society || 'ESC').toUpperCase();
         const isAmerican = socUpper.includes('AHA') || socUpper.includes('ACC');
-        const societyClass = isAmerican ? 'gt-society-aha' : 'gt-society-esc';
+        const isEacts = socUpper.includes('EACTS');
+        const societyClass = isAmerican ? 'gt-society-aha' : (isEacts ? 'gt-society-eacts' : 'gt-society-esc');
         const logoPath = isAmerican ? 'assets/img/aha-logo.png' : 'assets/img/esc-logo.png';
-        const logoAlt = isAmerican ? 'AHA Logo' : 'ESC Logo';
+        const logoAlt = isAmerican ? 'AHA Logo' : (isEacts ? 'EACTS' : 'ESC Logo');
 
         // Neon Year style class
         const yearClass = `gt-year-${g.year || 'default'}`;

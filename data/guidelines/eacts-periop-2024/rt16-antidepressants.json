@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt16-antidepressants",
+  "guidelineId": "eacts-periop-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 16",
+  "title": {
+    "en": "Recommendations for antidepressants",
+    "ru": "Рекомендации по применению антидепрессантов"
+  },
+  "tags": [
+    "antidepressants",
+    "ssri",
+    "tca",
+    "gastroprotection",
+    "nsaid",
+    "qt-prolongation",
+    "vasospastic-angina"
+  ],
+  "sections": [
+    {
+      "id": "sec-antidepressants",
+      "title": {
+        "en": "Antidepressants",
+        "ru": "Антидепрессанты"
+      },
+      "rows": [
+        {
+          "id": "r01-continue-ssris",
+          "text": {
+            "en": "Continuation of SSRIs should be considered throughout the perioperative period in patients already on treatment, with careful consideration of drug interactions.",
+            "ru": "Следует рассмотреть возможность продолжения приема СИОЗС (SSRI) на протяжении всего периоперационного периода у пациентов, уже получающих лечение, с тщательным учетом лекарственных взаимодействий."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [483, 486, 487, 488, 489]
+        },
+        {
+          "id": "r02-ssris-gastroprotectants",
+          "text": {
+            "en": "In patients on SSRIs, gastroprotectant drugs are recommended.",
+            "ru": "Пациентам, принимающим СИОЗС (SSRI), рекомендуются гастропротекторы (ИПП)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [495, 496]
+        },
+        {
+          "id": "r03-nsaids-with-ssris-not-recommended",
+          "text": {
+            "en": "NSAIDs are not recommended in cardiac surgery patients on SSRIs due to the risk of gastrointestinal bleeding.",
+            "ru": "НПВП (NSAIDs) не рекомендуются кардиохирургическим пациентам, принимающим СИОЗС (SSRI), из-за риска желудочно-кишечных кровотечений."
+          },
+          "class": "III",
+          "level": "B",
+          "refs": [495, 496]
+        },
+        {
+          "id": "r04-discontinue-tricyclic-antidepressants",
+          "text": {
+            "en": "It is recommended to discontinue tricyclic antidepressants before open-heart surgery, in consultation with a psychiatric specialist.",
+            "ru": "Рекомендуется отменить трициклические антидепрессанты (ТЦА) перед операцией на открытом сердце по согласованию с врачом-психиатром."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r05-ssris-qt-prolongation-vasospastic-not-recommended",
+          "text": {
+            "en": "SSRIs in patients with QT prolongation or vasospastic angina are not recommended.",
+            "ru": "СИОЗС (SSRI) не рекомендуются пациентам с удлинением интервала QT или вазоспастической стенокардией."
+          },
+          "class": "III",
+          "level": "B",
+          "refs": [508, 509]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

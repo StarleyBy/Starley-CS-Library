@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt10-postoperative-raas-mra-sglt2-inhibitors",
+  "guidelineId": "eacts-periop-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 10",
+  "title": {
+    "en": "Recommendations for postoperative renin-angiotensin-aldosterone system inhibitors, aldosterone antagonists and sodium-glucose cotransporter-2 inhibitors",
+    "ru": "Рекомендации по послеоперационному применению ингибиторов РААС, антагонистов альдостерона и ингибиторов SGLT2"
+  },
+  "tags": [
+    "raas",
+    "acei",
+    "arb",
+    "arni",
+    "mra",
+    "sglt2",
+    "heart-failure",
+    "cabg",
+    "savr",
+    "tavi",
+    "lvef"
+  ],
+  "sections": [
+    {
+      "id": "sec-postoperative-raas-mra-sglt2",
+      "title": {
+        "en": "Postoperative RAAS inhibitors, aldosterone antagonists and SGLT2 inhibitors",
+        "ru": "Послеоперационные ингибиторы РААС, антагонисты альдостерона и ингибиторы SGLT2"
+      },
+      "rows": [
+        {
+          "id": "r01-hf-restart-short-acting-ras",
+          "text": {
+            "en": "In patients with HF, it should be considered to (re)start short-acting, low-dose RAS inhibitors (ACEIs or ARBs) as soon as it is deemed safe after open-heart surgery, based on haemodynamic stability and renal function.",
+            "ru": "У пациентов с СН (HF) следует рассмотреть возможность возобновления/старта терапии короткодействующими ингибиторами РААС (иАПФ или БРА) в низких дозах, как только это будет сочтено безопасным после операции на открытом сердце, исходя из гемодинамической стабильности и функции почек."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r02-long-term-optimal-dose-ras-hf-hta",
+          "text": {
+            "en": "Long-term optimal-dose RAS inhibition (ACEIs or ARBs) is recommended after cardiac surgery in patients with HF and/or HTA.",
+            "ru": "Длительное применение ингибиторов РААС (иАПФ или БРА) в оптимальных дозах рекомендуется после кардиохирургических вмешательств пациентам с СН (HF) и/или артериальной гипертензией (АГ/HTA)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [4, 303, 304, 323]
+        },
+        {
+          "id": "r03-acei-intolerant-arb-reduced-lvef",
+          "text": {
+            "en": "In ACEI-intolerant patients, an ARB is recommended in patients with a reduced LVEF (≤40%).",
+            "ru": "При непереносимости иАПФ прием БРА рекомендуется пациентам со сниженной ФВЛЖ (LVEF ≤40%)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [304, 324, 325]
+        },
+        {
+          "id": "r04-sacubitril-valsartan-reduced-lvef",
+          "text": {
+            "en": "Sacubitril/valsartan is recommended as a replacement for an ACEI in ambulatory patients with reduced LVEF (≤40%) who remain symptomatic despite optimal treatment with an ACEI, a BB, a MRA and an SGLT 2 inhibitor.",
+            "ru": "Сакубитрил/валсартан (АРНИ/ARNI) рекомендуется для замены иАПФ у амбулаторных пациентов со сниженной ФВЛЖ (LVEF ≤40%), у которых сохраняются симптомы, несмотря на оптимальную терапию иАПФ, бета-блокатором, АНМКР (MRA) и ингибитором SGLT2."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [304, 311, 312]
+        },
+        {
+          "id": "r05-long-term-mra-hf-reduced-lvef",
+          "text": {
+            "en": "Long-term MRA in addition to BBs and ACEI therapy is recommended after cardiac surgery in patients with HF and reduced LVEF (≤35%), eGFR >30 ml/min/1.73 m² and without hyperkalaemia.",
+            "ru": "Длительный прием АНМКР (MRA) в дополнение к бета-блокаторам и иАПФ рекомендуется после кардиохирургических операций пациентам с СН (HF) и сниженной ФВЛЖ (LVEF ≤35%), рСКФ (eGFR) >30 мл/мин/1,73 м² и при отсутствии гиперкалиемии."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [307, 308]
+        },
+        {
+          "id": "r06-sglt2-inhibitors-hf",
+          "text": {
+            "en": "SGLT2 inhibitors are recommended for patients with HF.",
+            "ru": "Ингибиторы SGLT2 рекомендуются пациентам с сердечной недостаточностью (СН/HF)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [311, 320, 326]
+        },
+        {
+          "id": "r07-long-term-raas-cabg-savr-tavi",
+          "text": {
+            "en": "Long-term optimal-dose RAAS inhibition may be considered in patients following CABG and/or SAVR, and in post-TAVI patients.",
+            "ru": "Длительное применение ингибиторов РААС в оптимальных дозах может быть рассмотрено у пациентов после КШ (CABG) и/или ХПАК (SAVR), а также после ТИАК (TAVI)."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [4, 303, 327]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 7
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

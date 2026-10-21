@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt23-organ-recovery",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 23",
+  "title": {
+    "en": "Recommendations for Organ Recovery",
+    "ru": "Рекомендации по оценке восстановления функций органов (Organ Recovery)"
+  },
+  "tags": [
+    "tmcs",
+    "organ-recovery",
+    "cardiac-index",
+    "combined-output",
+    "lactate",
+    "liver-function",
+    "renal-function",
+    "univentricular-support"
+  ],
+  "sections": [
+    {
+      "id": "sec-organ-recovery",
+      "title": {
+        "en": "Recommendations for Organ Recovery",
+        "ru": "Рекомендации по восстановлению функций органов"
+      },
+      "rows": [
+        {
+          "id": "r01-combined-output-2-5-l-m2",
+          "text": {
+            "en": "In patients on tMCS, an initial combined output ≥ 2.5 L/m², depending on the patient's metabolic demands, is recommended.",
+            "ru": "У пациентов на ВМПК рекомендуется поддерживать начальный суммарный сердечный индекс (combined output) ≥ 2,5 л/мин/м² в зависимости от метаболических потребностей пациента."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r02-serial-monitoring-lactate",
+          "text": {
+            "en": "In patients on tMCS, serial monitoring of lactate levels is recommended.",
+            "ru": "У пациентов на ВМПК рекомендуется серийный мониторинг уровня лактата крови (как маркера адекватности тканевой перфузии)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [346, 698, 699, 701, 702]
+        },
+        {
+          "id": "r03-serial-monitoring-liver-renal-functions",
+          "text": {
+            "en": "In patients on tMCS, serial monitoring of liver and renal functions is recommended.",
+            "ru": "У пациентов на ВМПК рекомендуется серийный мониторинг функции печени и почек."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [413, 693, 706, 707, 715]
+        },
+        {
+          "id": "r04-univentricular-serial-monitoring-unsupported-ventricle",
+          "text": {
+            "en": "In patients on univentricular support, serial monitoring of the function of the unsupported ventricle is recommended.",
+            "ru": "У пациентов на изолированной поддержке одного желудочка рекомендуется серийный мониторинг функции неподдерживаемого контралатерального желудочка."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [716, 717]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

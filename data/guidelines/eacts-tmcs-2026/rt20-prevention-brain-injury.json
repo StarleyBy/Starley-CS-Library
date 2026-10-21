@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt20-prevention-brain-injury",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 20",
+  "title": {
+    "en": "Recommendations for the Prevention of Brain Injury in Patients on tMCS",
+    "ru": "Рекомендации по профилактике церебральных повреждений у пациентов на ВМПК (tMCS)"
+  },
+  "tags": [
+    "tmcs",
+    "brain-injury",
+    "stroke",
+    "hyperoxia",
+    "hypocapnia",
+    "pco2",
+    "cta",
+    "eeg",
+    "seizure",
+    "neuromonitoring"
+  ],
+  "sections": [
+    {
+      "id": "sec-prevention-brain-injury",
+      "title": {
+        "en": "Recommendations for the Prevention of Brain Injury in Patients on tMCS",
+        "ru": "Рекомендации по профилактике церебральных повреждений"
+      },
+      "rows": [
+        {
+          "id": "r01-avoid-hyperoxia-rapid-decrease-pco2-va-ecls",
+          "text": {
+            "en": "At the initiation of VA-ECLS, it should be considered to avoid hyperoxia (e.g., pO₂ > 200 mmHg [> 26.66 kPa]) or rapid decreases in pCO₂.",
+            "ru": "При инициации VA-ECLS следует избегать гипероксии (например, pO₂ > 200 мм рт. ст. [> 26,66 кПа]) и резкого быстрого падения pCO₂."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [633, 634]
+        },
+        {
+          "id": "r02-suspected-stroke-emergency-cta",
+          "text": {
+            "en": "If a stroke is suspected, emergency computed tomography angiography should be considered.",
+            "ru": "При подозрении на инсульт следует незамедлительно рассмотреть выполнение экстренной компьютерно-томографической ангиографии (КТ-ангиографии)."
+          },
+          "class": "IIa",
+          "level": "A",
+          "refs": [635, 636, 637, 638]
+        },
+        {
+          "id": "r03-comatose-eeg-rule-out-seizure",
+          "text": {
+            "en": "In comatose patients unable to undergo a sensitive neurologic examination, an EEG should be considered to rule out a seizure.",
+            "ru": "У пациентов в коматозном состоянии, у которых невозможно провести информативный неврологический осмотр, следует рассмотреть выполнение ЭЭГ для исключения эпилептического статуса или бессудорожной судорожной активности."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [648, 655]
+        },
+        {
+          "id": "r04-protocolized-neurologic-monitoring",
+          "text": {
+            "en": "Protocolized neurologic monitoring may be considered to mitigate acute brain injury.",
+            "ru": "Для снижения риска и раннего выявления острого повреждения головного мозга может быть рассмотрено проведение протоколизированного неврологического мониторинга."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [655]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

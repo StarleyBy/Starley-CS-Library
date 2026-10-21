@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt13-prophylactic-use-steroids",
+  "guidelineId": "eacts-periop-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 13",
+  "title": {
+    "en": "Recommendation for prophylactic use of steroids",
+    "ru": "Рекомендации по профилактическому применению глюкокортикостероидов"
+  },
+  "tags": [
+    "steroids",
+    "prophylaxis",
+    "anti-inflammatory",
+    "cardiac-surgery"
+  ],
+  "sections": [
+    {
+      "id": "sec-prophylactic-steroids",
+      "title": {
+        "en": "Prophylactic use of steroids",
+        "ru": "Профилактическое применение глюкокортикостероидов"
+      },
+      "rows": [
+        {
+          "id": "r01-routine-prophylactic-steroids-not-recommended",
+          "text": {
+            "en": "The routine use of prophylactic steroids for patients undergoing open-heart surgery is not recommended.",
+            "ru": "Рутинное профилактическое применение глюкокортикостероидов у пациентов, переносящих операции на открытом сердце, не рекомендуется."
+          },
+          "class": "III",
+          "level": "A",
+          "refs": [82, 358, 359, 360, 361]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

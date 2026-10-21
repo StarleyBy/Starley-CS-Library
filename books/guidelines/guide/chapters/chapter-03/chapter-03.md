@@ -151,6 +151,9 @@ The main objective of the current Task Force was to provide clear and simple rec
 
 #### <span id="table-3"></span>Table 3: New recommendations</summary><div class="details-content">
 
+[📋 Interactive Table: Table 3 — New recommendations](#/tables/esc-endo-2023.t03-new-recommendations)
+
+
 | Recommendation | Class | Level |
 |----------------|-------|-------|
 | **Section 3. Recommendation Table 1** | | |
@@ -216,6 +219,9 @@ The main objective of the current Task Force was to provide clear and simple rec
 
 #### <span id="table-4"></span>Table 4: Revised recommendations</summary><div class="details-content">
 
+[📋 Interactive Table: Table 4 — Revised recommendations](#/tables/esc-endo-2023.t04-revised-recommendations)
+
+
 *(Table content from original – сохраняется без изменений, добавлен якорь)*
 
 </div></details>
@@ -266,6 +272,9 @@ Most of the IE in recipients of solid organ transplant is nosocomial. A recent s
 
 #### <span id="table-5"></span>Table 5: General prevention measures to be followed in patients at high and intermediate risk of infective endocarditis</summary><div class="details-content">
 
+[📋 Interactive Table: Table 5 — General prevention measures to be followed in patients at high and intermediate risk of infective endocarditis](#/tables/esc-endo-2023.t05-general-prevention-measures)
+
+
 - Patients should be encouraged to maintain twice daily tooth cleaning and to seek professional dental cleaning and follow-up at least twice yearly for high-risk patients and yearly for others.
 - Strict cutaneous hygiene, including optimized treatment of chronic skin conditions.
 - Disinfection of wounds.
@@ -281,6 +290,9 @@ Most of the IE in recipients of solid organ transplant is nosocomial. A recent s
 <details class="med-details"><summary>
 
 #### Recommendation Table 1 - Recommendations for antibiotic prophylaxis in patients with cardiovascular diseases undergoing oro-dental procedures at increased risk for infective endocarditis</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for antibiotic prophylaxis in patients with cardiovascular diseases undergoing oro-dental procedures at increased risk for infective endocarditis](#/tables/esc-endo-2023.rt01-dental-prophylaxis)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -316,6 +328,9 @@ The main target for antibiotic prophylaxis is oral streptococci. [Table 6](#tabl
 
 ##### <span id="table-6"></span>Table 6: Prophylactic antibiotic regime for high-risk dental procedures</summary><div class="details-content">
 
+[📋 Interactive Table: Table 6 — Prophylactic antibiotic regime for high-risk dental procedures](#/tables/esc-endo-2023.t06-prophylactic-antibiotic-regimes)
+
+
 | Situation | Antibiotic | Single-dose 30-60 min before procedure |
 |-----------|------------|------------------------------------------|
 | | | Adults | Children |
@@ -347,6 +362,9 @@ No convincing evidence has been brought forward on the relationship between bact
 
 #### <span id="table-rec-2"></span>Recommendation Table 2 - Recommendations for infective endocarditis prevention in high-risk patients</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for infective endocarditis prevention in high-risk patients](#/tables/esc-endo-2023.rt02-prevention-high-risk)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Antibiotic prophylaxis is recommended in dental extractions, oral surgery procedures, and procedures requiring manipulation of the gingival or periapical region of the teeth. | I | B |
@@ -367,6 +385,9 @@ In all patients undergoing implantation of a prosthetic valve, any type of prost
 <details class="med-details"><summary>
 
 #### Recommendation Table 3 - Recommendations for infective endocarditis prevention in cardiac procedures</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for infective endocarditis prevention in cardiac procedures](#/tables/esc-endo-2023.rt03-prevention-cardiac-procedures)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -423,6 +444,9 @@ A critical aspect of the Endocarditis Team decision-making process is defining w
 
 #### <span id="table-7"></span>Table 7: Members of the Endocarditis Team</summary><div class="details-content">
 
+[📋 Interactive Table: Table 7 — Members of the Endocarditis Team](#/tables/esc-endo-2023.t07-endocarditis-team-members)
+
+
 | Heart Valve Centre |
 |--------------------|
 | **Core members** |
@@ -455,6 +479,9 @@ A critical aspect of the Endocarditis Team decision-making process is defining w
 
 #### Recommendation Table 4 - Recommendations for the Endocarditis Team</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for the Endocarditis Team](#/tables/esc-endo-2023.rt04-endocarditis-team)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Diagnosis and management of patients with complicated IE are recommended to be performed at an early stage in a Heart Valve Centre, with immediate surgical facilities and an ‘Endocarditis Team’ to improve the outcomes. | I | B |
@@ -485,6 +512,9 @@ In the European Infective Endocarditis Registry (EURO-ENDO), fever (77.7%), card
 <details class="med-details"><summary>
 
 #### <span id="table-8"></span>Table 8: Cardiac and non-cardiac risk factors</summary><div class="details-content">
+
+[📋 Interactive Table: Table 8 — Cardiac and non-cardiac risk factors](#/tables/esc-endo-2023.t08-risk-factors)
+
 
 | Cardiac risk factors | Non-cardiac risk factors |
 |---------------------|--------------------------|
@@ -534,6 +564,9 @@ When all microbiological assays are negative, the diagnosis of non-bacterial end
 <details class="med-details"><summary>
 
 ##### <span id="table-9"></span>Table 9: Investigation of rare causes of blood culture-negative infective endocarditis</summary><div class="details-content">
+
+[📋 Interactive Table: Table 9 — Investigation of rare causes of blood culture-negative infective endocarditis](#/tables/esc-endo-2023.t09-bcnie-rare-causes)
+
 
 | Pathogen | Diagnostic procedures |
 |----------|----------------------|
@@ -587,6 +620,9 @@ Scoring systems have been developed to help in the appropriate indication to per
 <details class="med-details"><summary>
 
 #### Recommendation Table 5 - Recommendations for the role of echocardiography in infective endocarditis</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for the role of echocardiography in infective endocarditis](#/tables/esc-endo-2023.rt05-echocardiography)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -664,6 +700,9 @@ Combining PET/CT acquisition with a CT angiography (PET/CTA) allows the detectio
 
 #### Recommendation Table 6 - Recommendations for the role of computed tomography, nuclear imaging, and magnetic resonance in infective endocarditis</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for the role of computed tomography, nuclear imaging, and magnetic resonance in infective endocarditis](#/tables/esc-endo-2023.rt06-ct-nuclear-mri)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Cardiac CTA is recommended in patients with possible NVE to detect valvular lesions and confirm the diagnosis of IE. | I | B |
@@ -703,6 +742,9 @@ The current 2023 ESC Guidelines for the management of endocarditis introduce the
 <details class="med-details"><summary>
 
 ##### <span id="table-10"></span>Table 10: Definitions of the 2023 European Society of Cardiology modified diagnostic criteria of infective endocarditis</summary><div class="details-content">
+
+[📋 Interactive Table: Table 10 — Definitions of the 2023 European Society of Cardiology modified diagnostic criteria of infective endocarditis](#/tables/esc-endo-2023.t10-diagnostic-criteria)
+
 
 | Major criteria |
 |----------------|
@@ -848,6 +890,9 @@ Oral streptococci include the groups mitis, sanguinis, anginosus, salivarius, do
 
 #### <span id="table-rec-7"></span>Recommendation Table 7 - Recommendations for antibiotic treatment of infective endocarditis due to oral streptococci and Streptococcus gallolyticus group</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for antibiotic treatment of infective endocarditis due to oral streptococci and Streptococcus gallolyticus group](#/tables/esc-endo-2023.rt07-oral-streptococci)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Penicillin-susceptible oral streptococci and Streptococcus gallolyticus group** | | |
@@ -913,6 +958,9 @@ Staphylococcus aureus PVE carries a very high risk of mortality (>45%) and often
 
 #### <span id="table-rec-8"></span>Recommendation Table 8 - Recommendations for antibiotic treatment of infective endocarditis due to Staphylococcus spp.</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for antibiotic treatment of infective endocarditis due to Staphylococcus spp.](#/tables/esc-endo-2023.rt08-staphylococcus)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **IE caused by methicillin-susceptible staphylococci** | | |
@@ -962,6 +1010,9 @@ Beta-lactam or vancomycin resistance is mainly observed in E. faecium. Since dua
 <details class="med-details"><summary>
 
 #### <span id="table-rec-9"></span>Recommendation Table 9 - Recommendations for antibiotic treatment of infective endocarditis due to Enterococcus spp.</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for antibiotic treatment of infective endocarditis due to Enterococcus spp.](#/tables/esc-endo-2023.rt09-enterococcus)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1016,6 +1067,9 @@ The main causes of BCNIE are summarized in Section 5.3.2. Treatment options are 
 
 #### <span id="table-11"></span>Table 11: Antibiotic treatment of blood culture-negative infective endocarditis</summary><div class="details-content">
 
+[📋 Interactive Table: Table 11 — Antibiotic treatment of blood culture-negative infective endocarditis](#/tables/esc-endo-2023.t11-bcnie-treatment)
+
+
 | Pathogen | Proposed therapy | Treatment outcome |
 |----------|------------------|-------------------|
 | Brucella spp. | Doxycycline (200 mg/24 h) + cotrimoxazole (960 mg/12 h) + rifampin (300-600 mg/24 h) for ≥3-6 months orally | Success defined as antibody titre <1.60. Some add gentamicin for first 3 weeks. |
@@ -1055,6 +1109,9 @@ Native valve endocarditis and late PVE regimens should cover staphylococci, stre
 <details class="med-details"><summary>
 
 #### <span id="table-rec-10"></span>Recommendation Table 10 - Recommendations for antibiotic regimens for initial empirical treatment of infective endocarditis (before pathogen identification)</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for antibiotic regimens for initial empirical treatment of infective endocarditis (before pathogen identification)](#/tables/esc-endo-2023.rt10-empirical-treatment)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1109,6 +1166,9 @@ Although the evidence is weak, another option (in addition to the combinations l
 <details class="med-details"><summary>
 
 #### <span id="table-rec-11"></span>Recommendation Table 11 - Recommendations for outpatient antibiotic treatment of infective endocarditis</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for outpatient antibiotic treatment of infective endocarditis](#/tables/esc-endo-2023.rt11-outpatient-antibiotic-treatment)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1271,6 +1331,9 @@ The main indications and the timing of surgery to prevent embolism based on the 
 
 #### <span id="table-rec-12"></span>Recommendation Table 12 - Recommendations for the main indications of surgery in infective endocarditis (native valve endocarditis and prosthetic valve endocarditis)</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for the main indications of surgery in infective endocarditis (native valve endocarditis and prosthetic valve endocarditis)](#/tables/esc-endo-2023.rt12-surgical-indications)
+
+
 | Indication | Recommendation | Class | Level |
 |------------|----------------|-------|-------|
 | **(i) Heart failure** | | | |
@@ -1336,6 +1399,9 @@ In patients without neurological symptoms, cerebral MRI often detects 'silent' l
 
 #### <span id="table-rec-13"></span>Recommendation Table 13 - Recommendations for the treatment of neurological complications of infective endocarditis</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for the treatment of neurological complications of infective endocarditis](#/tables/esc-endo-2023.rt13-neurological-complications)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Brain CT or MRA is recommended in patients with IE and suspected infective cerebral aneurysms. | I | B |
@@ -1400,6 +1466,9 @@ Pacemaker implantation should be considered in patients with surgery for valvula
 
 #### <span id="table-rec-14"></span>Recommendation Table 14 - Recommendations for pacemaker implantation in patients with complete atrioventricular block and infective endocarditis</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for pacemaker implantation in patients with complete atrioventricular block and infective endocarditis](#/tables/esc-endo-2023.rt14-pacemaker-implantation)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Immediate epicardial pacemaker implantation should be considered in patients undergoing surgery for valvular IE and complete AVB if one of the following predictors of persistent AVB is present: pre-operative conduction abnormality, S. aureus infection, aortic root abscess, tricuspid valve involvement, or previous valvular surgery. | IIa | C |
@@ -1439,6 +1508,9 @@ The pathogenesis of rheumatoid manifestations and musculoskeletal symptoms in IE
 <details class="med-details"><summary>
 
 #### <span id="table-rec-15"></span>Recommendation Table 15 - Recommendations for patients with musculoskeletal manifestations of infective endocarditis</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for patients with musculoskeletal manifestations of infective endocarditis](#/tables/esc-endo-2023.rt15-musculoskeletal-manifestations)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1489,6 +1561,9 @@ When cardiac surgery becomes necessary in IE, assessment of coronary anatomy is 
 <details class="med-details"><summary>
 
 #### <span id="table-rec-16"></span>Recommendation Table 16 - Recommendations for pre-operative coronary anatomy assessment in patients requiring surgery for infective endocarditis</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for pre-operative coronary anatomy assessment in patients requiring surgery for infective endocarditis](#/tables/esc-endo-2023.rt16-preoperative-coronary-anatomy)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1559,6 +1634,9 @@ Beyond the patient characteristics that apply in the non-IE setting, valve selec
 
 ##### <span id="table-12"></span>Table 12: Features favouring a non-mechanical valve substitute in the setting of surgery for acute infective endocarditis</summary><div class="details-content">
 
+[📋 Interactive Table: Table 12 — Features favouring a non-mechanical valve substitute in the setting of surgery for acute infective endocarditis](#/tables/esc-endo-2023.t12-non-mechanical-valve-factors)
+
+
 - Early surgery after a recent ischaemic stroke
 - Evidence of intracranial bleeding
 - Woman of childbearing age
@@ -1595,6 +1673,9 @@ Several retrospective studies report benefits of early surgery (within 2 weeks) 
 <details class="med-details"><summary>
 
 #### <span id="table-rec-17"></span>Recommendation Table 17 - Indications and timing of cardiac surgery after neurological complications in active infective endocarditis</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for indications and timing of cardiac surgery after neurological complications in active infective endocarditis](#/tables/esc-endo-2023.rt17-surgery-timing-neurological)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1657,6 +1738,9 @@ Partial oral vs. i.v. antibiotic treatment of IE, as well as OPAT vs. hospital-b
 
 #### <span id="table-13"></span>Table 13: Factors associated with an increased rate of relapse of infective endocarditis</summary><div class="details-content">
 
+[📋 Interactive Table: Table 13 — Factors associated with an increased rate of relapse of infective endocarditis](#/tables/esc-endo-2023.t13-relapse-factors)
+
+
 - Inadequate antibiotic treatment (i.e. agent, dose, duration)
 - Resistant microorganisms (i.e. Brucella spp., Legionella spp., Chlamydia spp., Mycoplasma spp., Mycobacterium spp., Bartonella spp., C. burnetii, fungi)
 - Infective endocarditis caused by S. aureus and Enterococcus spp.
@@ -1690,6 +1774,9 @@ Patients, and their caregivers, should be informed of their risk of IE recurrenc
 <details class="med-details"><summary>
 
 #### <span id="table-rec-18"></span>Recommendation Table 18 - Recommendations for post-discharge follow-up</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for post-discharge follow-up](#/tables/esc-endo-2023.rt18-post-discharge-follow-up)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1759,6 +1846,9 @@ Early PVE following valve replacement surgery is a separate entity associated wi
 <details class="med-details"><summary>
 
 #### <span id="table-rec-19"></span>Recommendation Table 19 - Recommendations for prosthetic valve endocarditis</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for prosthetic valve endocarditis](#/tables/esc-endo-2023.rt19-prosthetic-valve-endocarditis)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1948,6 +2038,9 @@ For patients with a high risk of sudden cardiac death, a wearable defibrillator 
 
 #### <span id="table-rec-20"></span>Recommendation Table 20 - Recommendations for cardiovascular implanted electronic device-related infective endocarditis</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for cardiovascular implanted electronic device-related infective endocarditis](#/tables/esc-endo-2023.rt20-cied-endocarditis)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Antibiotic prophylaxis covering S. aureus is recommended for CIED implantation. | I | A |
@@ -2080,6 +2173,9 @@ Recently, interest has been generated in the extraction of large vegetations usi
 
 #### <span id="table-rec-21"></span>Recommendation Table 21 - Recommendations for the surgical treatment of right-sided infective endocarditis</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for the surgical treatment of right-sided infective endocarditis](#/tables/esc-endo-2023.rt21-right-sided-surgery)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Surgery is recommended in patients with right-sided IE who are receiving appropriate antibiotic therapy for the following scenarios:** | | |
@@ -2191,6 +2287,9 @@ The level of evidence underlying the recommendations for antithrombotic and anti
 <details class="med-details"><summary>
 
 #### <span id="table-rec-22"></span>Recommendation Table 22 - Recommendations for the use of antithrombotic therapy in infective endocarditis</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for the use of antithrombotic therapy in infective endocarditis](#/tables/esc-endo-2023.rt22-antithrombotic-therapy)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -2381,6 +2480,9 @@ Class I and Class III recommendations from throughout the guideline document are
 <details class="med-details"><summary>
 
 #### <span id="table-14"></span>Table 14: What to do' and 'What not to do'</summary><div class="details-content">
+
+[📋 Interactive Table: Table 14 — 'What to do' and 'What not to do'](#/tables/esc-endo-2023.t14-what-to-do)
+
 
 | Recommendation | Class | Level |
 |----------------|-------|-------|

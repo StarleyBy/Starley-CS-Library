@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt06-tmcs-implant-post-procedural-lcos",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 6",
+  "title": {
+    "en": "Recommendations for a tMCS Implant in Post-procedural LCOS",
+    "ru": "Рекомендации по имплантации ВМПК при постпроцедуральном синдроме низкого сердечного выброса (LCOS)"
+  },
+  "tags": [
+    "tmcs",
+    "lcos",
+    "cpb-weaning",
+    "futility",
+    "contraindications",
+    "recovery"
+  ],
+  "sections": [
+    {
+      "id": "sec-tmcs-implant-post-procedural-lcos",
+      "title": {
+        "en": "Recommendations for a tMCS Implant in Post-procedural LCOS",
+        "ru": "Рекомендации по имплантации ВМПК при постпроцедуральном синдроме низкого сердечного выброса"
+      },
+      "rows": [
+        {
+          "id": "r01-post-procedural-lcos-tmcs-recommended",
+          "text": {
+            "en": "In patients with post-procedural LCOS, tMCS is recommended.",
+            "ru": "У пациентов с развившимся постпроцедуральным синдромом низкого сердечного выброса (LCOS) рекомендуется применение ВМПК (tMCS)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [195, 196, 228, 240]
+        },
+        {
+          "id": "r02-no-likelihood-recovery-ineligible-dmcs-htx",
+          "text": {
+            "en": "In patients with no likelihood of myocardial recovery and not eligible for dMCS/HTx, tMCS is not recommended.",
+            "ru": "У пациентов при отсутствии вероятности восстановления миокарда и невозможности проведения постоянной поддержки (dMCS) или трансплантации сердца (ТС/HTx) применение ВМПК (tMCS) не рекомендуется."
+          },
+          "class": "III",
+          "level": "C",
+          "refs": [37, 54]
+        },
+        {
+          "id": "r03-cannot-be-weaned-from-cpb-immediate-transition",
+          "text": {
+            "en": "For tMCS-eligible patients who cannot be weaned from CPB despite optimal therapeutic measures, immediate transition to tMCS is recommended.",
+            "ru": "У пациентов, подходящих для механической поддержки, которых невозможно отключить от аппарата искусственного кровообращения (ИК/CPB) несмотря на все оптимальные терапевтические меры, рекомендуется незамедлительный перевод на ВМПК (tMCS)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [195, 197, 228, 240]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

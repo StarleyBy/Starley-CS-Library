@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.t07-classes-drugs-affect-raas",
+  "guidelineId": "eacts-periop-2024",
+  "number": "Table 7",
+  "type": "grid",
+  "title": {
+    "en": "Classes of drugs that affect the renin-angiotensin-aldosterone system",
+    "ru": "Классы препаратов, влияющих на ренин-ангиотензин-альдостероновую систему (РААС)"
+  },
+  "tags": [
+    "raas",
+    "acei",
+    "arb",
+    "mra",
+    "dri",
+    "arni",
+    "heart-failure",
+    "hypertension"
+  ],
+  "columns": [
+    {
+      "id": "parameter",
+      "title": { "en": "Class", "ru": "Класс препаратов" }
+    },
+    {
+      "id": "acei",
+      "title": { "en": "ACEI", "ru": "иАПФ (ACEI)" }
+    },
+    {
+      "id": "arb",
+      "title": { "en": "ARB", "ru": "БРА (ARB)" }
+    },
+    {
+      "id": "mra",
+      "title": { "en": "MRA", "ru": "АНМКР (MRA)" }
+    },
+    {
+      "id": "dri",
+      "title": { "en": "DRI", "ru": "ПИР (DRI)" }
+    },
+    {
+      "id": "arni",
+      "title": { "en": "ARNI", "ru": "АРНИ (ARNI)" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-common-drugs",
+      "cells": [
+        { "text": { "en": "Common drugs", "ru": "Основные препараты" } },
+        { "text": { "en": "Enalapril, captopril, lisinopril, ramipril, trandolapril", "ru": "Эналаприл, каптоприл, лизиноприл, рамиприл, трандолаприл" } },
+        { "text": { "en": "Candesartan, valsartan, losartan", "ru": "Кандесартан, валсартан, лозартан" } },
+        { "text": { "en": "Spironolactone, eplerenone", "ru": "Спиронолактон, эплеренон" } },
+        { "text": { "en": "Aliskiren, imarikiren", "ru": "Алискирен, имарикирен" } },
+        { "text": { "en": "Sacubitril/valsartan", "ru": "Сакубитрил/валсартан" } }
+      ]
+    },
+    {
+      "id": "r02-mechanism-of-action",
+      "cells": [
+        { "text": { "en": "Mechanism of action", "ru": "Механизм действия" } },
+        { "text": { "en": "Blocks the conversion of AT1 and its degradation and blocks the destruction of bradykinins", "ru": "Блокирует превращение АТ I в АТ II и подавляет распад брадикинина" } },
+        { "text": { "en": "Inhibits the union of AT2 to its receptor", "ru": "Ингибирует связывание АТ II с его рецепторами (блокада AT1-рецепторов)" } },
+        { "text": { "en": "Inhibits the effect of aldosterone on the mineralocorticoid receptor", "ru": "Блокирует действие альдостерона на минералокортикоидные рецепторы" } },
+        { "text": { "en": "Blocks renin activity", "ru": "Блокирует активность ренина" } },
+        { "text": { "en": "Blockade of neprilysin that cleaves a variety of peptides such as natriuretic peptides, bradykinin, adrenomedullin, substance P, AT 1 and 2, and endothelin", "ru": "Блокада неприлизина, расщепляющего спектр пептидов: натрийуретические пептиды, брадикинин, адреномедуллин, субстанцию P, АТ I и II, эндотелин" } }
+      ]
+    },
+    {
+      "id": "r03-main-clinical-effects",
+      "cells": [
+        { "text": { "en": "Main clinical effects", "ru": "Основные клинические эффекты" } },
+        { "text": { "en": "Dilates blood vessels", "ru": "Вызывает вазодилатацию сосудов" } },
+        { "text": { "en": "Reduces CV effects caused by AT2", "ru": "Снижает сердечно-сосудистые эффекты, вызываемые АТ II" } },
+        { "text": { "en": "Blocks the effects of aldosterone, reducing water and sodium reabsorption", "ru": "Блокирует эффекты альдостерона, снижая реабсорбцию натрия и воды" } },
+        { "text": { "en": "Increases renal vasodilation", "ru": "Усиливает почечную вазодилатацию" } },
+        { "text": { "en": "Increases vasodilatory natriuretic peptides and prevents activation of AT system (reduces blood pressure, increases natriuresis)", "ru": "Повышает уровень натрийуретических пептидов и препятствует активации РААС (снижает АД, увеличивает натрийурез)" } }
+      ]
+    },
+    {
+      "id": "r04-side-effects",
+      "cells": [
+        { "text": { "en": "Side effects", "ru": "Побочные эффекты" } },
+        { "text": { "en": "Cough, angioedema, hyperkalaemia, hypotension, worsening CKD", "ru": "Кашель, ангионевротический отек, гиперкалиемия, гипотензия, ухудшение функции почек при ХБП" } },
+        { "text": { "en": "Hypotension, worsening CKD, interaction with other drugs", "ru": "Гипотензия, ухудшение функции почек при ХБП, лекарственные взаимодействия" } },
+        { "text": { "en": "Risk of hyperkalaemia and worsening renal function in CKD, gynaecomastia, loss of libido", "ru": "Риск гиперкалиемии и ухудшения функции почек при ХБП, гинекомастия, снижение либидо" } },
+        { "text": { "en": "Hyperkalaemia, hypotension, renal impairment", "ru": "Гиперкалиемия, гипотензия, нарушение функции почек" } },
+        { "text": { "en": "Hypotension, hyperkalaemia", "ru": "Гипотензия, гиперкалиемия" } }
+      ]
+    },
+    {
+      "id": "r05-contraindications",
+      "cells": [
+        { "text": { "en": "Contraindications", "ru": "Противопоказания" } },
+        { "text": { "en": "AKI, angioedema, bilateral renal artery stenosis, concomitant treatment with ARB, pregnancy", "ru": "ОПП (AKI), ангионевротический отек, двусторонний стеноз почечных артерий, одновременный прием БРА, беременность" }, "tone": "red" },
+        { "text": { "en": "Concomitant treatment with ACEIs, allergy to the drug", "ru": "Одновременный прием иАПФ, аллергия/гиперчувствительность к препарату" }, "tone": "red" },
+        { "text": { "en": "Hyperkalaemia, severe renal dysfunction with eGFR <30 ml/min/m²", "ru": "Гиперкалиемия, тяжелая почечная дисфункция с рСКФ <30 мл/мин/1,73 м²" }, "tone": "red" },
+        { "text": { "en": "Combination with ACEIs and ARB", "ru": "Комбинация с иАПФ или БРА" }, "tone": "red" },
+        { "text": { "en": "Angioedema, bilateral renal artery stenosis, pregnancy, allergy, eGFR<30", "ru": "Ангионевротический отек, двусторонний стеноз почечных артерий, беременность, гиперчувствительность, рСКФ <30 мл/мин/1,73 м²" }, "tone": "red" }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

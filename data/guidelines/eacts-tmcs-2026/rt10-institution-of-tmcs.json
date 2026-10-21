@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt10-institution-of-tmcs",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 10",
+  "title": {
+    "en": "Recommendations for the Institution of tMCS",
+    "ru": "Рекомендации по установке и техническим аспектам подключения ВМПК (tMCS)"
+  },
+  "tags": [
+    "tmcs",
+    "institution",
+    "device-selection",
+    "de-escalation",
+    "biventricular",
+    "cardiopulmonary",
+    "distal-perfusion",
+    "lv-unloading",
+    "va-ecls",
+    "mafp"
+  ],
+  "sections": [
+    {
+      "id": "sec-device-selection",
+      "title": {
+        "en": "Device selection",
+        "ru": "Выбор устройства и деэскалация поддержки"
+      },
+      "rows": [
+        {
+          "id": "r01-device-selection-clinical-experience",
+          "text": {
+            "en": "It is recommended that device selection should be made in the context of the clinical situation and the team's experience.",
+            "ru": "Рекомендуется осуществлять выбор конкретной системы ВМПК (tMCS) с учетом конкретной клинической ситуации, анатомических особенностей и опыта мультидисциплинарной команды."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r02-daily-evaluation-de-escalation",
+          "text": {
+            "en": "It is recommended that evaluation for de-escalation of tMCS support occur on a daily basis.",
+            "ru": "Рекомендуется проводить ежедневную оценку возможности деэскалации (снижения объема поддержки или эксплантации) ВМПК (tMCS)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r03-serial-intracardiac-pressures-monitoring",
+          "text": {
+            "en": "Serial assessments of intracardiac pressures should be considered to guide tMCS management.",
+            "ru": "Следует рассмотреть серийную оценку внутрисердечного давления для оптимизации управления параметрами ВМПК (tMCS)."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": []
+        }
+      ]
+    },
+    {
+      "id": "sec-isolated-lv-support",
+      "title": {
+        "en": "Isolated LV support",
+        "ru": "Изолированная поддержка левого желудочка"
+      },
+      "rows": [
+        {
+          "id": "r04-cannulation-promote-mobilization",
+          "text": {
+            "en": "In patients supported with tMCS, cannulation strategies to promote patient mobilization should be considered.",
+            "ru": "У пациентов на поддержке ВМПК (tMCS) следует рассматривать стратегии канюляции (например, подмышечный/подключичный доступ), способствующие ранней активизации и мобилизации пациента."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r05-echo-fluoroscopic-guidance-peripheral-cannula",
+          "text": {
+            "en": "It is recommended to use echocardiographic or fluoroscopic guidance for the insertion of a peripheral cannula.",
+            "ru": "Для установки периферических канюль ВМПК рекомендуется обязательное использование эхокардиографического или рентгеноскопического контроля."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        }
+      ]
+    },
+    {
+      "id": "sec-biventricular-support",
+      "title": {
+        "en": "Biventricular support",
+        "ru": "Бивентрикулярная поддержка"
+      },
+      "rows": [
+        {
+          "id": "r06-biventricular-failure-va-ecls-mafp-or-tvad",
+          "text": {
+            "en": "In patients with biventricular failure, it is recommended to support both ventricles either with VA-ECLS in combination with mAFP, or a combination of 2 mAFP, or 2 tVAD.",
+            "ru": "У пациентов с бивентрикулярной недостаточностью рекомендуется поддержка обоих желудочков: либо с помощью ВА-ЭКМО (VA-ECLS) в комбинации с мОН (mAFP), либо комбинацией двух мОН (Bi-mAFP), либо двумя временными желудочковыми ассистами (Bi-tVAD)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        }
+      ]
+    },
+    {
+      "id": "sec-cardiopulmonary-support",
+      "title": {
+        "en": "Cardiopulmonary support",
+        "ru": "Сердечно-легочная поддержка и защита конечности"
+      },
+      "rows": [
+        {
+          "id": "r07-cardiopulmonary-va-ecls-or-oxybvad",
+          "text": {
+            "en": "In patients requiring cardiac and pulmonary support, it is recommended to utilize VA-ECLS or an oxyBVAD.",
+            "ru": "У пациентов, нуждающихся одновременно в кардиальной и легочной поддержке, рекомендуется использовать ВА-ЭКМО (VA-ECLS) или бивентрикулярный обход с оксигенатором (oxyBVAD)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r08-femoral-distal-leg-perfusion-catheter",
+          "text": {
+            "en": "In patients with femoral artery cannulation, it is recommended to utilize a distal leg perfusion catheter.",
+            "ru": "У пациентов с канюляцией бедренной артерии рекомендуется обязательная установка катетера для дистальной перфузии нижней конечности (профилактика критической ишемии ноги)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [423, 424, 425, 426, 427, 428]
+        }
+      ]
+    },
+    {
+      "id": "sec-lv-unloading",
+      "title": {
+        "en": "LV unloading",
+        "ru": "Разгрузка левого желудочка при ВА-ЭКМО"
+      },
+      "rows": [
+        {
+          "id": "r09-va-ecls-timely-lv-unloading",
+          "text": {
+            "en": "In patients supported with VA-ECLS, timely LV unloading should be considered.",
+            "ru": "У пациентов на поддержке ВА-ЭКМО (VA-ECLS) следует своевременно рассмотреть активную декомпрессию (разгрузку) левого желудочка (ECPELLA, канюляция ЛП/ЛЖ, транссептальная пункция или ВАБК)."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [12, 274, 430, 434, 435, 438, 439]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

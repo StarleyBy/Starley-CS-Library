@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt14-inadequate-pulmonary-function",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 14",
+  "title": {
+    "en": "Recommendations for Patients on tMCS with Inadequate Pulmonary Function",
+    "ru": "Рекомендации для пациентов на ВМПК (tMCS) с неадекватной функцией легких"
+  },
+  "tags": [
+    "tmcs",
+    "pulmonary-function",
+    "differential-oxygenation",
+    "harlequin-syndrome",
+    "va-v-ecls",
+    "axillary-cannulation",
+    "aortic-cannulation",
+    "venting",
+    "lv-unloading"
+  ],
+  "sections": [
+    {
+      "id": "sec-inadequate-pulmonary-function",
+      "title": {
+        "en": "Recommendations for Patients on tMCS with Inadequate Pulmonary Function",
+        "ru": "Рекомендации для пациентов на ВМПК с неадекватной функцией легких"
+      },
+      "rows": [
+        {
+          "id": "r01-differential-oxygenation-va-v-ecls-cannula",
+          "text": {
+            "en": "In patients with differential oxygenation,^[d] the insertion of an additional cannula (VA-V-ECLS) to return oxygenated blood to the right atrium is recommended.",
+            "ru": "У пациентов с дифференциальной оксигенацией (синдромом Арлекина)^[d] рекомендуется установка дополнительной канюли (конфигурация VA-V-ECLS) для возврата оксигенированной крови в правое предсердие."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r02-differential-oxygenation-axillary-or-aortic-cannulation",
+          "text": {
+            "en": "In patients with differential oxygenation, right axillary or aortic cannulation should be considered.",
+            "ru": "У пациентов с дифференциальной оксигенацией следует рассмотреть возможность канюляции правой подмышечной/подключичной артерии или восходящей аорты."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r03-differential-oxygenation-venting-left-side",
+          "text": {
+            "en": "In patients with differential oxygenation,^[d] venting the left side of the heart into the VA-ECLS circuit should be considered.",
+            "ru": "У пациентов с дифференциальной оксигенацией^[d] следует рассмотреть дренирование (разгрузку) левых отделов сердца в контур VA-ECLS."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "d": {
+      "en": "Harlequin syndrome.",
+      "ru": "Синдром Арлекина (дифференциальная гипоксемия верхней половины туловища и головного мозга при периферическом ВА-ЭКМО на фоне дыхательной недостаточности)."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -339,12 +339,14 @@ function updatePreview() {
     previewContainer.querySelectorAll('img').forEach(img => {
         img.classList.add('med-img');
         const rawSrc = img.getAttribute('src');
+        let localFallback = '';
         if (rawSrc && currentBookPath) {
             const r2Prefix = window.R2_MEDIA_BASE_URL ? window.R2_MEDIA_BASE_URL.replace(/\/$/, '') : '';
-            if (!r2Prefix || !rawSrc.startsWith(r2Prefix)) {
-                const fileName = rawSrc.split('?')[0].split('#')[0].split('/').pop();
-                if (fileName && !fileName.includes('book-placeholder')) {
-                    const relativePath = `${currentBookPath}/chapters/${imgParentFolder}/images/${fileName}`;
+            const fileName = rawSrc.split('?')[0].split('#')[0].split('/').pop();
+            if (fileName && !fileName.includes('book-placeholder')) {
+                const relativePath = `${currentBookPath}/chapters/${imgParentFolder}/images/${fileName}`;
+                localFallback = (typeof BASE_URL !== 'undefined' ? BASE_URL : './') + relativePath;
+                if (!r2Prefix || !rawSrc.startsWith(r2Prefix)) {
                     if (typeof window.getImageUrl === 'function') {
                         img.src = window.getImageUrl(relativePath);
                     }
@@ -352,6 +354,10 @@ function updatePreview() {
             }
         }
         img.onerror = function() {
+            if (localFallback && this.src !== localFallback) {
+                this.src = localFallback;
+                return;
+            }
             this.onerror = null;
             this.src = 'assets/img/book-placeholder.png';
             this.classList.add('cover-fallback');

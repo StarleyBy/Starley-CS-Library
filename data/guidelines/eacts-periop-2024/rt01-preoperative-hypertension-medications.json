@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt01-preoperative-hypertension-medications",
+  "guidelineId": "eacts-periop-2024",
+  "number": "Recommendation Table 1",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Preoperative Hypertension Medications",
+    "ru": "Рекомендации по предоперационной антигипертензивной терапии"
+  },
+  "tags": [
+    "eacts",
+    "perioperative",
+    "hypertension",
+    "beta-blockers",
+    "acei",
+    "arb",
+    "ccb",
+    "diuretics"
+  ],
+  "sections": [
+    {
+      "id": "sec-preop-hypertension",
+      "title": {
+        "en": "Preoperative Hypertension Medications",
+        "ru": "Предоперационная антигипертензивная терапия"
+      },
+      "rows": [
+        {
+          "id": "r01-continue-beta-blockers",
+          "text": {
+            "en": "It is recommended to continue BBs until open-heart surgery.",
+            "ru": "Рекомендуется продолжать прием бета-адреноблокаторов (БАБ / BB) вплоть до выполнения операции на открытом сердце."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [32, 33, 34, 35]
+        },
+        {
+          "id": "r02-consider-continuing-acei-arbs",
+          "text": {
+            "en": "Continuing ACEIs and ARBs should be considered until open-heart surgery, taking into account each drug’s half-life and the characteristics of the individual patient.",
+            "ru": "Следует рассмотреть возможность продолжения приема ингибиторов АПФ (иАПФ / ACEI) и БРА (ARB) вплоть до операции на открытом сердце с учетом периода полувыведения конкретного препарата и индивидуальных клинических особенностей пациента."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [45, 46, 47, 48]
+        },
+        {
+          "id": "r03-continue-ccb-diuretics",
+          "text": {
+            "en": "It is recommended to continue CCBs and diuretics until open-heart surgery.",
+            "ru": "Рекомендуется продолжать прием блокаторов кальциевых каналов (БКК / CCB) и диуретиков вплоть до выполнения операции на открытом сердце."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

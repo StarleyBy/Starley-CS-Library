@@ -246,6 +246,9 @@ Selected revised recommendations, new recommendations, and new concepts are summ
 
 #### <span id="table-3"></span>Table 3: Selected revised recommendations (R), new recommendations (N), and new concepts</summary><div class="details-content">
 
+[📋 Interactive Table: Table 3: Selected revised recommendations (R), new recommendations (N), and new concepts](#/tables/esc-achd-2020.t03-revised-new)
+
+
 *(Table content summarised in Executive Summary above – full details in original PDF)*
 
 </div></details>
@@ -282,6 +285,9 @@ Transfer of adolescents to ACHD care is vital as they approach adulthood without
 
 #### <span id="table-4"></span>Table 4: Classification of congenital heart disease complexity</summary><div class="details-content">
 
+[📋 Interactive Table: Table 4: Classification of congenital heart disease complexity](#/tables/esc-achd-2020.t04-complexity-classification)
+
+
 | **MILD** | **MODERATE** (Repaired or unrepaired where not specified) | **SEVERE** (Repaired or unrepaired where not specified) |
 |----------|-----------------------------------------------------------|----------------------------------------------------------|
 | Isolated congenital aortic valve disease and bicuspid aortic disease | Anomalous pulmonary venous connection (partial or total) | Any CHD (repaired or unrepaired) associated with pulmonary vascular disease (including Eisenmenger syndrome) |
@@ -308,6 +314,9 @@ Transfer of adolescents to ACHD care is vital as they approach adulthood without
 <details class="med-details"><summary>
 
 #### <span id="table-5"></span>Table 5: Staff requirements for specialist ACHD centres</summary><div class="details-content">
+
+[📋 Interactive Table: Table 5: Staff requirements for specialist ACHD centres](#/tables/esc-achd-2020.t05-staff-requirements)
+
 
 | Discipline | Required number |
 |------------|-----------------|
@@ -369,6 +378,9 @@ Indications for CMR are summarized in [Table 6](#table-6).
 <details class="med-details"><summary>
 
 #### <span id="table-6"></span>Table 6: Indications for cardiovascular magnetic resonance imaging in ACHD patients</summary><div class="details-content">
+
+[📋 Interactive Table: Table 6: Indications for cardiovascular magnetic resonance imaging in ACHD patients](#/tables/esc-achd-2020.t06-cmr-indications)
+
 
 - Quantification of RV volumes, EF (including subpulmonary RV, systemic RV, and single ventricle)
 - Evaluation of RVOTO and RV–PA conduits
@@ -467,6 +479,9 @@ The entire spectrum of arrhythmias may be encountered in ACHD patients. However,
 
 ##### <span id="table-7"></span>Table 7: Risk estimates for arrhythmic events and bradycardia in ACHD</summary><div class="details-content">
 
+[📋 Interactive Table: Table 7: Risk estimates for arrhythmic events and bradycardia in ACHD](#/tables/esc-achd-2020.t07-risk-estimates-arrhythmias)
+
+
 *(Table content summarised from original: for each lesion – Secundum ASD, Superior sinus venosus defect, AVSD/primum ASD, VSD, Ebstein anomaly, TOF, TGA atrial switch, TGA arterial switch, ccTGA, Fontan atriopulmonary connection, Fontan lateral tunnel, Fontan extracardiac conduit, Eisenmenger physiology, Incompletely palliated CHD – rated for AVRT, IART/EAT, AF, sustained VT, SCD, SND, congenital AV block, acquired AV block. Ratings: ++ high, + moderate, (+) low, – none/negligible.)*
 
 </div></details>
@@ -513,6 +528,9 @@ The usefulness of programmed electrical stimulation (PES) in asymptomatic patien
 
 #### Recommendation Table for treatment of arrhythmias in adult congenital heart disease</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for treatment of arrhythmias in adult congenital heart disease](#/tables/esc-achd-2020.rt01-arrhythmias)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | In patients with moderate and severe CHD complexity (Table 4) and documented arrhythmias, referral to a centre with a multidisciplinary team and expertise in ACHD patients and ACHD-related arrhythmia is indicated. | I | C |
@@ -553,6 +571,9 @@ Although PAH-CHD can occur in males and females of any age, the disease is more 
 <details class="med-details"><summary>
 
 ##### <span id="table-8"></span>Table 8: Definitions of pulmonary hypertension subtypes and their occurrence in ACHD</summary><div class="details-content">
+
+[📋 Interactive Table: Table 8: Definitions of pulmonary hypertension subtypes and their occurrence in ACHD](#/tables/esc-achd-2020.t08-ph-definitions)
+
 
 | Definition | Haemodynamic characteristics | Clinical settings |
 |------------|------------------------------|-------------------|
@@ -636,6 +657,9 @@ Heart-lung or lung transplantation with heart surgery is an option in special ca
 <details class="med-details"><summary>
 
 #### Recommendation Table for treatment of pulmonary arterial hypertension associated with congenital heart disease</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for treatment of pulmonary arterial hypertension associated with congenital heart disease](#/tables/esc-achd-2020.rt02-pah-treatment)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -782,6 +806,9 @@ All cyanotic patients require lifelong evaluation with follow-up visits every 6-
 
 ##### <span id="table-9"></span>Table 9: Risk reduction strategies in patients with cyanotic congenital heart disease</summary><div class="details-content">
 
+[📋 Interactive Table: Table 9: Risk reduction strategies in patients with cyanotic congenital heart disease](#/tables/esc-achd-2020.t09-cyanotic-risk-reduction)
+
+
 - **Exposures/activities to avoid:** Pregnancy in Eisenmenger syndrome and in cyanotic patients without PAH but arterial oxygen saturation <90%; Iron deficiency and anaemia (no routine, inappropriate phlebotomies to maintain a pre-determined haemoglobin) – treat iron deficiency and iron-deficient anaemia; Inappropriate anticoagulation; Dehydration; Infectious disease: administer influenza and pneumococcal vaccines; Contraceptive advice at each clinic visit; Cigarette smoking, recreational drug abuse including excessive alcohol; Transvenous PM/ICD leads; Strenuous exercise; Acute exposure to heat (sauna, hot tub, or hot shower) or extreme cold; Oestrogen-containing contraception.
 - **Other risk reduction strategies:** Use of an air filter in an intravenous line to prevent air embolism; Consultation with an ACHD cardiologist before administration of any agent and performance of any surgical/interventional procedure; Prompt antibiotic therapy of upper respiratory tract infections; Cautious use or avoidance of agents that impair renal function.
 
@@ -891,6 +918,9 @@ Sexuality is an important element of quality of life. The few available data sug
 
 ##### <span id="table-10"></span>Table 10: Congenital heart disease with high risk and extremely high risk for pregnancy</summary><div class="details-content">
 
+[📋 Interactive Table: Table 10: Congenital heart disease with high risk and extremely high risk for pregnancy](#/tables/esc-achd-2020.t10-pregnancy-risk)
+
+
 | Significantly increased risk of maternal mortality or severe morbidity (mWHO class III) (cardiac event rate 19-27%) | Extremely high risk of maternal mortality or severe morbidity (mWHO class IV) (cardiac event rate 40-100%) |
 |-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | Unrepaired cyanotic heart disease | Pulmonary arterial hypertension |
@@ -918,6 +948,9 @@ One of the important and specific aspects of genetic counselling is the assessme
 <details class="med-details"><summary>
 
 ##### <span id="table-11"></span>Table 11: Recurrence rates for various congenital heart lesions according to the sex of the affected parent</summary><div class="details-content">
+
+[📋 Interactive Table: Table 11: Recurrence rates for various congenital heart lesions according to the sex of the affected parent](#/tables/esc-achd-2020.t11-recurrence-rates)
+
 
 | Lesion | Recurrence rate (%) |
 |--------|---------------------|
@@ -1021,6 +1054,9 @@ In patients of advanced age with ASDs not suitable for device closure, individua
 <details class="med-details"><summary>
 
 #### Recommendation Table for intervention in atrial septal defect (native and residual)</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for intervention in atrial septal defect (native and residual)](#/tables/esc-achd-2020.rt03-asd-intervention)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1159,6 +1195,9 @@ Patients eligible for VSD closure at adult age are rare. Most patients have eith
 
 #### Recommendation Table for intervention in ventricular septal defect (native and residual)</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for intervention in ventricular septal defect (native and residual)](#/tables/esc-achd-2020.rt04-vsd-intervention)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | In patients with evidence of LV volume overload* and no PAH (no non-invasive signs of PAP elevation or invasive confirmation of PVR <3 WU in case of such signs), VSD closure is recommended regardless of symptoms. | I | C |
@@ -1250,6 +1289,9 @@ Catheter closure of AVSDs is not feasible, and intervention is therefore surgica
 <details class="med-details"><summary>
 
 #### Recommendation Table for intervention in atrioventricular septal defect</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for intervention in atrioventricular septal defect](#/tables/esc-achd-2020.rt05-avsd-intervention)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1347,6 +1389,9 @@ In adults, calcification of the PDA may cause a problem for surgical closure. De
 
 #### Recommendation Table for intervention in patent ductus arteriosus</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for intervention in patent ductus arteriosus](#/tables/esc-achd-2020.rt06-pda-intervention)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | In patients with evidence of LV volume overload* and no PAH (no non-invasive signs of PAP elevation or invasive confirmation of PVR <3 WU in case of such signs), PDA closure is recommended regardless of symptoms. | I | C |
@@ -1433,6 +1478,9 @@ Specific clinical findings include the typical systolic ejection murmur over the
 
 ##### <span id="table-12"></span>Table 12: Diagnostic criteria for degree of aortic stenosis severity</summary><div class="details-content">
 
+[📋 Interactive Table: Table 12: Diagnostic criteria for degree of aortic stenosis severity](#/tables/esc-achd-2020.t12-as-severity-criteria)
+
+
 | | Mild AS | Moderate AS | Severe AS |
 |--|---------|-------------|-----------|
 | Vmax (m/s)* | 2.6-2.9 | 3.0-3.9 | ≥4.0 |
@@ -1470,6 +1518,9 @@ In selected adolescents and young adults with non-calcified valves, balloon valv
 <details class="med-details"><summary>
 
 #### Recommendation Table for intervention in valvular aortic stenosis</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for intervention in valvular aortic stenosis](#/tables/esc-achd-2020.rt07-as-intervention)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1559,6 +1610,9 @@ Surgery is the primary treatment: the operative mortality rate for fibrous diaph
 
 #### Recommendation Table for intervention in supravalvular aortic stenosis</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for intervention in supravalvular aortic stenosis](#/tables/esc-achd-2020.rt08-supravalvular-as)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | In patients with symptoms (spontaneous or on exercise test) and mean Doppler gradient ≥40 mmHg, surgery is recommended. | I | C |
@@ -1633,6 +1687,9 @@ Surgical treatment is the only effective intervention and involves a complete re
 <details class="med-details"><summary>
 
 #### Recommendation Table for intervention in subaortic stenosis</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for intervention in subaortic stenosis](#/tables/esc-achd-2020.rt09-subaortic-stenosis)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1723,6 +1780,9 @@ Indications for intervention are summarized in the Recommendations for intervent
 <details class="med-details"><summary>
 
 #### Recommendation Table for intervention in coarctation and re-coarctation of the aorta</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for intervention in coarctation and re-coarctation of the aorta](#/tables/esc-achd-2020.rt10-coarctation)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1898,6 +1958,9 @@ With advances in assisted reproductive technology and oocyte donation, an increa
 
 #### Recommendation Table for aortic surgery in aortopathies</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for aortic surgery in aortopathies](#/tables/esc-achd-2020.rt11-aortopathies)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Marfan syndrome and HTAD** | | |
@@ -1985,6 +2048,9 @@ Indications for intervention are summarized in the Recommendations for intervent
 <details class="med-details"><summary>
 
 #### Recommendation Table for intervention in right ventricular outflow tract obstruction</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for intervention in right ventricular outflow tract obstruction](#/tables/esc-achd-2020.rt12-rvoto)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -2075,6 +2141,9 @@ The previously high operative mortality (>25%) has fallen to <6% in specialized 
 <details class="med-details"><summary>
 
 #### Recommendation Table for intervention in Ebstein anomaly</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for intervention in Ebstein anomaly](#/tables/esc-achd-2020.rt13-ebstein)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -2180,6 +2249,9 @@ TPVI techniques have become an alternative to open heart surgery primarily in pa
 <details class="med-details"><summary>
 
 #### Recommendation Table for intervention after repair of tetralogy of Fallot</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for intervention after repair of tetralogy of Fallot](#/tables/esc-achd-2020.rt14-tof-repair)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -2412,6 +2484,9 @@ Indications for intervention are summarized in the Recommendations for surgical 
 
 #### Recommendation Table for intervention in transposition of the great arteries after atrial switch operation</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for intervention in transposition of the great arteries after atrial switch operation](#/tables/esc-achd-2020.rt15-tga-atrial-switch)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Indications for surgical intervention** | | |
@@ -2478,6 +2553,9 @@ Indications for intervention are summarized in the Recommendations for intervent
 <details class="med-details"><summary>
 
 #### Recommendation Table for intervention in transposition of the great arteries after arterial switch operation</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for intervention in transposition of the great arteries after arterial switch operation](#/tables/esc-achd-2020.rt16-tga-arterial-switch)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -2635,6 +2713,9 @@ Systemic AV valve (tricuspid) regurgitation is frequently the focus of surgical 
 
 #### Recommendation Table for intervention in congenitally corrected transposition of the great arteries</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for intervention in congenitally corrected transposition of the great arteries](#/tables/esc-achd-2020.rt17-cctga-intervention)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | In symptomatic patients with severe TR and preserved or mildly impaired systemic RV systolic function (EF >40%), TV replacement is indicated. | I | C |
@@ -2707,6 +2788,9 @@ Balloon dilation/stent implantation have been reported to be safe and to prolong
 <details class="med-details"><summary>
 
 #### Recommendation Table for intervention in right ventricular to pulmonary artery conduits</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for intervention in right ventricular to pulmonary artery conduits](#/tables/esc-achd-2020.rt18-rv-pa-conduits)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -2814,6 +2898,9 @@ Clinical findings include central cyanosis, clubbing of fingers and toes, and of
 <details class="med-details"><summary>
 
 #### Special considerations and Recommendations for intervention in univentricular heart</summary><div class="details-content">
+
+[📋 Interactive Table: Special considerations and Recommendations for intervention in univentricular heart](#/tables/esc-achd-2020.rt19-univentricular-heart)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -2927,6 +3014,9 @@ Patients with a 'failing Fontan' (with a combination of intractable arrhythmia, 
 
 #### Special considerations and Recommendations for intervention after Fontan operation</summary><div class="details-content">
 
+[📋 Interactive Table: Special considerations and Recommendations for intervention after Fontan operation](#/tables/esc-achd-2020.rt20-fontan-intervention)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Sustained atrial arrhythmia with rapid AV conduction is a medical emergency and should be promptly treated with electrical cardioversion. | I | C |
@@ -3013,6 +3103,9 @@ Assessment of physical stress-induced ischaemia using advanced imaging modalitie
 <details class="med-details"><summary>
 
 #### Recommendation Table for the management of patients with anomalous coronary arteries</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for the management of patients with anomalous coronary arteries](#/tables/esc-achd-2020.rt21-anomalous-coronary-arteries)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -3265,6 +3358,9 @@ Class I and Class III recommendations from throughout the guideline document are
 <details class="med-details"><summary>
 
 #### <span id="table-13"></span>Table 13: What to do' and 'what not to do' messages</summary><div class="details-content">
+
+[📋 Interactive Table: Table 13: 'What to do' and 'what not to do' messages from the Guidelines](#/tables/esc-achd-2020.t13-what-to-do)
+
 
 *(Full table content from original – due to the large size of this table (70+ rows), the complete content is presented in the Executive Summary and relevant sections above. Key examples:)*
 

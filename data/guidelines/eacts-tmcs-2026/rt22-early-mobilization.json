@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt22-early-mobilization",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 22",
+  "title": {
+    "en": "Recommendations for Early Mobilization in Patients on tMCS",
+    "ru": "Рекомендации по ранней мобилизации пациентов на ВМПК (tMCS)"
+  },
+  "tags": [
+    "tmcs",
+    "early-mobilization",
+    "rehabilitation",
+    "femoral-cannulation",
+    "cannula-relocation",
+    "axillary-cannulation"
+  ],
+  "sections": [
+    {
+      "id": "sec-early-mobilization",
+      "title": {
+        "en": "Recommendations for Early Mobilization in Patients on tMCS",
+        "ru": "Рекомендации по ранней мобилизации пациентов"
+      },
+      "rows": [
+        {
+          "id": "r01-mobilization-as-soon-as-possible",
+          "text": {
+            "en": "In appropriate patients, it is recommended that mobilization occur as soon as possible.",
+            "ru": "У подходящих по клиническому состоянию пациентов рекомендуется начинать мобилизацию как можно раньше."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [684, 687, 688, 689]
+        },
+        {
+          "id": "r02-relocation-femoral-cannulas-for-mobilization",
+          "text": {
+            "en": "In patients with femoral cannulation, relocation of the femoral cannula(s) should be considered to facilitate mobilization when feasible.",
+            "ru": "У пациентов с бедренной канюляцией при возможности следует рассмотреть перемещение (релокацию) бедренных канюль (например, в подмышечные сосуды) для облегчения активизации и мобилизации."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

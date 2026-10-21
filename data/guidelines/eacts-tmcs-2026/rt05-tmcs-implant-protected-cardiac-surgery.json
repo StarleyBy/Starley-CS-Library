@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt05-tmcs-implant-protected-cardiac-surgery",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 5",
+  "title": {
+    "en": "Recommendations for a tMCS Implant in Protected Cardiac Surgery for Patients at High Risk of Periprocedural LCOS",
+    "ru": "Рекомендации по имплантации ВМПК в рамках защищенной кардиохирургии у пациентов высокого риска перипроцедурального синдрома низкого сердечного выброса (LCOS)"
+  },
+  "tags": [
+    "tmcs",
+    "protected-cardiac-surgery",
+    "shock-team",
+    "lcos",
+    "cpb-weaning",
+    "bridge-to-recovery",
+    "bridge-to-transplant"
+  ],
+  "sections": [
+    {
+      "id": "sec-tmcs-protected-cardiac-surgery-lcos",
+      "title": {
+        "en": "Recommendations for a tMCS Implant in Protected Cardiac Surgery",
+        "ru": "Рекомендации по имплантации ВМПК в рамках защищенной кардиохирургии"
+      },
+      "rows": [
+        {
+          "id": "r01-interdisciplinary-shock-team-discussion",
+          "text": {
+            "en": "It is recommended that the type and modality of tMCS should be discussed by an interdisciplinary team (Shock Team) based on haemodynamic conditions, patient characteristics, and prognosis.",
+            "ru": "Рекомендуется, чтобы тип и модальность ВМПК (tMCS) определялись междисциплинарной командой специалистов («Шок-командой» / Shock Team) с учетом гемодинамического статуса, индивидуальных особенностей пациента и прогноза."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [186, 187, 188]
+        },
+        {
+          "id": "r02-mortality-risk-factors-consideration",
+          "text": {
+            "en": "Significant co-morbidities, advanced age, elevated lactate levels, and renal injury are risk factors associated with death and should be considered prior to initiation of tMCS.",
+            "ru": "Тяжелая сопутствующая патология, пожилой возраст, повышенный уровень лактата и острое повреждение почек являются факторами риска летального исхода и должны учитываться до начала применения ВМПК (tMCS)."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [186, 194, 197]
+        },
+        {
+          "id": "r03-preoperative-bridge-to-corrective-procedure",
+          "text": {
+            "en": "In patients with structural cardiac anomalies, post-AMI mechanical complications, and other haemodynamic, respiratory, or metabolic compromise refractory to optimal medical therapy, implanting a pre-operative tMCS may be considered as a bridge to the corrective procedure.",
+            "ru": "У пациентов со структурными аномалиями сердца, механическими осложнениями инфаркта миокарда и другими выраженными гемодинамическими, дыхательными или метаболическими нарушениями, рефрактерными к оптимальной терапии, предоперационная имплантация ВМПК (tMCS) может быть рассмотрена как «мост» к корригирующему хирургическому вмешательству."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [54, 191, 192, 193]
+        },
+        {
+          "id": "r04-intraoperative-tmcs-bridge-to-recovery",
+          "text": {
+            "en": "In patients at high risk of post-procedural LCOS, intraoperative implantation of tMCS should be considered to facilitate CPB weaning and the perioperative course as a bridge to recovery.",
+            "ru": "У пациентов с высоким риском развития постпроцедурального синдрома низкого сердечного выброса (LCOS) следует рассмотреть интраоперационную имплантацию ВМПК (tMCS) для облегчения отключения от аппарата ИК (CPB) и ведения раннего послеоперационного периода как «мост» к восстановлению миокарда."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [194]
+        },
+        {
+          "id": "r05-post-procedural-bridge-to-htx-dmcs",
+          "text": {
+            "en": "When the likelihood of myocardial recovery is low, post-procedural tMCS is recommended in patients eligible for HTx or a dMCS.",
+            "ru": "При низкой вероятности восстановления сократимости миокарда постпроцедуральная ВМПК (tMCS) рекомендуется у пациентов, являющихся кандидатами на трансплантацию сердца (ТС/HTx) или установку постоянной системы поддержки (dMCS)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [186, 194]
+        },
+        {
+          "id": "r06-difficulty-weaning-from-cpb-early-tmcs",
+          "text": {
+            "en": "When experiencing difficulty weaning from CPB, early implementation of tMCS is recommended.",
+            "ru": "При возникновении трудностей с отключением от аппарата искусственного кровообращения (ИК/CPB) рекомендуется раннее подключение ВМПК (tMCS)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [37, 186, 197]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

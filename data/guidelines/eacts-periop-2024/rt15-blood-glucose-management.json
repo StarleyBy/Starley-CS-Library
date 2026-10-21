@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt15-blood-glucose-management",
+  "guidelineId": "eacts-periop-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 15",
+  "title": {
+    "en": "Recommendations for blood glucose management",
+    "ru": "Рекомендации по контролю гликемии"
+  },
+  "tags": [
+    "glycaemia",
+    "diabetes",
+    "insulin",
+    "sglt2",
+    "icu",
+    "hyperglycaemia",
+    "thiazolidinediones"
+  ],
+  "sections": [
+    {
+      "id": "sec-preoperative-period",
+      "title": {
+        "en": "Preoperative period",
+        "ru": "Предоперационный период"
+      },
+      "rows": [
+        {
+          "id": "r01-discontinue-non-insulin-glucose-lowering-long-acting-insulins",
+          "text": {
+            "en": "It is recommended to discontinue oral and subcutaneous non-insulin glucose-lowering drugs and long-acting insulins, at least 24 h before surgery, taking into account the half-life of each agent.",
+            "ru": "Рекомендуется отменить пероральные и подкожные неинсулиновые сахароснижающие препараты и инсулины длительного действия как минимум за 24 часа до операции, с учетом периода полувыведения каждого препарата."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r02-discontinue-sglt2-72h",
+          "text": {
+            "en": "Discontinuation of SGLT2 inhibitors should be considered at least 72 h before open-heart surgery to reduce the risk of euglycemic ketoacidosis.^[a]",
+            "ru": "Отмену ингибиторов SGLT2 следует рассмотреть как минимум за 72 часа до операции на открытом сердце для снижения риска эугликемического кетоацидоза.^[a]"
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [454, 455, 469, 470]
+        },
+        {
+          "id": "r03-glucose-target-preop-24h",
+          "text": {
+            "en": "In the 24 h before the operation, blood glucose levels should be maintained between 120 and 180 mg/dl (6.7–10 mmol/l) by using short-acting insulin.",
+            "ru": "В течение 24 часов до операции уровень глюкозы крови следует поддерживать в пределах 120–180 мг/дл (6,7–10 ммоль/л) с использованием инсулина короткого действия."
+          },
+          "class": "IIa",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-intraoperative-period",
+      "title": {
+        "en": "Intraoperative period",
+        "ru": "Интраоперационный период"
+      },
+      "rows": [
+        {
+          "id": "r04-intraop-without-dm-monitoring-insulin",
+          "text": {
+            "en": "In patients without DM, blood glucose monitoring is recommended during open-heart surgery; for persistent levels >180 mg/dl (>10 mmol/l), intravenous insulin is recommended.",
+            "ru": "У пациентов без СД (DM) рекомендуется мониторинг гликемии во время операции на открытом сердце; при стойких значениях > 180 мг/дл (> 10 ммоль/л) рекомендовано внутривенное введение инсулина."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [471, 472, 473]
+        },
+        {
+          "id": "r05-intraop-with-dm-continuous-iv-insulin",
+          "text": {
+            "en": "In patients with DM, it is recommended to maintain a blood glucose level <180 mg/dl (<10 mmol/l) by continuous IV insulin infusion, which is started and maintained throughout the operation with glucose monitoring.",
+            "ru": "У пациентов с СД (DM) рекомендуется поддерживать уровень глюкозы крови < 180 мг/дл (< 10 ммоль/л) с помощью непрерывной в/в инфузии инсулина, начатой и проводимой на протяжении всей операции под контролем гликемии."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [449, 474]
+        }
+      ]
+    },
+    {
+      "id": "sec-intensive-care-unit",
+      "title": {
+        "en": "Intensive care unit",
+        "ru": "Отделение реанимации и интенсивной терапии (ОРИТ/ICU)"
+      },
+      "rows": [
+        {
+          "id": "r06-icu-glucose-target-continuous-insulin",
+          "text": {
+            "en": "In patients with or without DM in the ICU, it is recommended to maintain blood glucose levels <180 mg/dl (10 mmol/l) by continuous insulin IV infusion, if needed.",
+            "ru": "У пациентов с СД или без него в ОРИТ (ICU) рекомендуется поддерживать уровень глюкозы крови < 180 мг/дл (10 ммоль/л) с помощью непрерывной в/в инфузии инсулина при необходимости."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [437, 448, 475]
+        }
+      ]
+    },
+    {
+      "id": "sec-post-intensive-care-unit",
+      "title": {
+        "en": "Post-intensive care unit",
+        "ru": "После перевода из ОРИТ в профильное отделение"
+      },
+      "rows": [
+        {
+          "id": "r07-post-icu-subcutaneous-insulin-combination",
+          "text": {
+            "en": "A combination of short-acting and long-acting subcutaneous insulin should be started at 50% of total previous 24-h insulin dose in the ICU and then titrated when the patient restarts a regular diet.",
+            "ru": "Комбинацию подкожного инсулина короткого и длительного действия следует начинать в дозе 50% от общей суточной дозы инсулина в ОРИТ за предыдущие 24 часа с последующим титрованием при возобновлении обычного питания."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08-post-icu-check-glucose-every-4h",
+          "text": {
+            "en": "It should be considered to check blood glucose levels every 4 h to target <180 mg/dl (10 mmol/l) and adjust insulin dosing as needed.",
+            "ru": "Следует рассмотреть контроль уровня глюкозы крови каждые 4 часа с целевым значением < 180 мг/дл (10 ммоль/л) и коррекцией дозы инсулина по потребности."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r09-restart-preop-glucose-lowering-50-percent",
+          "text": {
+            "en": "It may be considered to restart preoperative glucose-lowering drugs at 50% of the preoperative dose when the patient restarts a regular diet.",
+            "ru": "При возобновлении обычного питания может быть рассмотрен рестарт предоперационных сахароснижающих препаратов в половинной (50%) дозе."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r10-restart-sglt2-when-stable",
+          "text": {
+            "en": "It may be considered to restart SGLT2 inhibitors when the patient is haemodynamically stable.^[a]",
+            "ru": "Возобновление приема ингибиторов SGLT2 может быть рассмотрено при достижении гемодинамической стабильности пациента.^[a]"
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-at-hospital-discharge",
+      "title": {
+        "en": "At hospital discharge",
+        "ru": "При выписке из стационара"
+      },
+      "rows": [
+        {
+          "id": "r11-discharge-diabetes-specialist-consultation",
+          "text": {
+            "en": "It is recommended to consult a diabetes specialist before discharge for patients with DM and de novo persistent hyperglycaemia to plan short- and long-term management and target HbA1c <7%.",
+            "ru": "Перед выпиской рекомендуется консультация эндокринолога/диабетолога для пациентов с СД (DM) и впервые возникшей стойкой гипергликемией для планирования тактики лечения с целевым HbA1c < 7%."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [431, 475, 476, 477, 478]
+        },
+        {
+          "id": "r12-discharge-prioritize-cv-benefit",
+          "text": {
+            "en": "In patients with DM, it is recommended to reconsider oral glucose-lowering therapy and prioritize the use of agents with CV proven benefit over those without.",
+            "ru": "У пациентов с СД (DM) рекомендуется пересмотреть пероральную сахароснижающую терапию и отдавать приоритет препаратам с доказанным сердечно-сосудистым преимуществом."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r13-thiazolidinediones-dm-hf-not-recommended",
+          "text": {
+            "en": "Thiazolidinediones are not recommended in patients with DM and HF.",
+            "ru": "Тиазолидиндионы не рекомендуются пациентам с СД (DM) и сопутствующей сердечной недостаточностью (СН/HF)."
+          },
+          "class": "III",
+          "level": "A",
+          "refs": [479, 480, 481, 482]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "This recommendation applies to all approved indications for SGLT2 inhibitors.",
+      "ru": "Данная рекомендация применима ко всем зарегистрированным показаниям для ингибиторов SGLT2."
+    }
+  },
+  "source": {
+    "expectedRows": 13
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

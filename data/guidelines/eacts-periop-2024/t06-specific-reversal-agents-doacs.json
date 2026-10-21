@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.t06-specific-reversal-agents-doacs",
+  "guidelineId": "eacts-periop-2024",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Specific reversal agents for direct oral anticoagulants",
+    "ru": "Специфические антидоты для прямых оральных антикоагулянтов (ПОАК/DOAC)"
+  },
+  "tags": [
+    "doac",
+    "antidote",
+    "reversal",
+    "andexanet-alfa",
+    "idarucizumab",
+    "dabigatran",
+    "rivaroxaban",
+    "apixaban",
+    "edoxaban",
+    "enoxaparin"
+  ],
+  "columns": [
+    {
+      "id": "parameter",
+      "title": { "en": "Parameter", "ru": "Параметр" }
+    },
+    {
+      "id": "andexanet-alfa",
+      "title": { "en": "Andexanet alfa", "ru": "Андексанет альфа" }
+    },
+    {
+      "id": "idarucizumab",
+      "title": { "en": "Idarucizumab", "ru": "Идаруцизумаб" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-specific-reversed-drug",
+      "cells": [
+        { "text": { "en": "Specific reversed drug", "ru": "Нейтрализуемый препарат" } },
+        { "text": { "en": "Rivaroxaban\nApixaban\nEdoxaban^[a]\nEnoxaparin^[a]", "ru": "Ривароксабан\nАпиксабан\nЭдоксабан^[a]\nЭноксапарин^[a]" } },
+        { "text": { "en": "Dabigatran", "ru": "Дабигатран" } }
+      ]
+    },
+    {
+      "id": "r02-drug-target",
+      "cells": [
+        { "text": { "en": "Drug target", "ru": "Мишень действия" } },
+        { "text": { "en": "Decoy protein sequestering all FXa inhibitors", "ru": "Белок-ловушка («decoy protein»), связывающий все ингибиторы FXa" } },
+        { "text": { "en": "Monoclonal antibody fragment binding only dabigatran", "ru": "Фрагмент моноклонального антитела, специфично связывающий только дабигатран" } }
+      ]
+    },
+    {
+      "id": "r03-dosing",
+      "cells": [
+        { "text": { "en": "Dosing", "ru": "Режим дозирования" } },
+        {
+          "text": {
+            "en": "i. Last DOAC administration ≥8 h: low dose\nii. Last DOAC administration <8 h:\n    a. Low-dose, if rivaroxaban dosage is ≤10 mg, or apixaban ≤5 mg, or edoxaban ≤30 mg^[a]\n    b. High-dose, if rivaroxaban dosage is >10 mg, or apixaban >5 mg, or edoxaban ≥30 mg^[a]",
+            "ru": "i. Последний прием ПОАК ≥8 ч: низкая доза\nii. Последний прием ПОАК <8 ч:\n    a. Низкая доза, если доза ривароксабана ≤10 мг, или апиксабана ≤5 мг, или эдоксабана ≤30 мг^[a]\n    b. Высокая доза, если доза ривароксабана >10 мг, или апиксабана >5 мг, или эдоксабана ≥30 мг^[a]"
+          }
+        },
+        { "text": { "en": "5 g (2 vials of 2.5 g/50 mL)", "ru": "5 г (2 флакона по 2,5 г/50 мл)" } }
+      ]
+    },
+    {
+      "id": "r04-administration",
+      "cells": [
+        { "text": { "en": "Administration", "ru": "Способ введения" } },
+        {
+          "text": {
+            "en": "Low-dose: 400 mg bolus, followed by 2-h infusion, 4 mg/min\nHigh-dose: 800 mg bolus, followed by 2-h infusion, 8 mg/min",
+            "ru": "Низкая доза: болюс 400 мг, затем 2-часовая инфузия со скоростью 4 мг/мин\nВысокая доза: болюс 800 мг, затем 2-часовая инфузия со скоростью 8 мг/мин"
+          }
+        },
+        {
+          "text": {
+            "en": "Two intravenous doses administered within 5–10 min (infusion or bolus)",
+            "ru": "Две внутривенные дозы, вводимые в течение 5–10 мин (инфузия или болюс)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-onset",
+      "cells": [
+        { "text": { "en": "Onset", "ru": "Начало действия" } },
+        { "text": { "en": "Within minutes", "ru": "В течение нескольких минут" } },
+        { "text": { "en": "Within minutes", "ru": "В течение нескольких минут" } }
+      ]
+    },
+    {
+      "id": "r06-half-life",
+      "cells": [
+        { "text": { "en": "Half-life", "ru": "Период полувыведения (T1/2)" } },
+        { "text": { "en": "5–7 h", "ru": "5–7 ч" } },
+        { "text": { "en": "Biphasic: 45 min (initial), terminal 4–8 h", "ru": "Двухфазный: 45 мин (начальный), 4–8 ч (терминальный)" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Not yet approved for edoxaban or enoxaparin, but the extension of the phase 3 RCT (203) reported similar efficacy in reducing anti-Xa activity compared to rivaroxaban and apixaban (164).",
+      "ru": "Пока официально не одобрен для эдоксабана или эноксапарина, однако в расширенном исследовании 3 фазы (203) показана сопоставимая эффективность снижения анти-Xa активности по сравнению с ривароксабаном и апиксабаном (164)."
+    }
+  },
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

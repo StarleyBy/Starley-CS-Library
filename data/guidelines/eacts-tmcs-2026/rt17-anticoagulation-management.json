@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt17-anticoagulation-management",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 17",
+  "title": {
+    "en": "Recommendations for Anticoagulation Management with tMCS",
+    "ru": "Рекомендации по антикоагулянтной терапии при проведении ВМПК (tMCS)"
+  },
+  "tags": [
+    "tmcs",
+    "anticoagulation",
+    "ufh",
+    "heparin",
+    "dti",
+    "bivalirudin",
+    "bleeding-complications",
+    "thrombosis"
+  ],
+  "sections": [
+    {
+      "id": "sec-anticoagulation-management",
+      "title": {
+        "en": "Recommendations for Anticoagulation Management with tMCS",
+        "ru": "Рекомендации по антикоагулянтной терапии при проведении ВМПК"
+      },
+      "rows": [
+        {
+          "id": "r01-institutional-anticoagulation-protocols",
+          "text": {
+            "en": "It is recommended that institutions establish protocols for anticoagulation management.",
+            "ru": "Рекомендуется разработать и внедрить внутрибольничные институциональные протоколы контроля антикоагулянтной терапии."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r02-anticoagulation-ufh-or-dti",
+          "text": {
+            "en": "It is recommended to maintain anticoagulation after tMCS initiation using either UFH or DTI, depending on patient-specific factors and institutional protocols.",
+            "ru": "После начала ВМПК рекомендуется проводить антикоагулянтную терапию с использованием нефракционированного гепарина (НФГ / UFH) или прямых ингибиторов тромбина (ПИТ / DTI) в зависимости от индивидуальных факторов пациента и внутрибольничных протоколов."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [564, 565, 566, 567]
+        },
+        {
+          "id": "r03-bleeding-complications-discontinuation-reduction",
+          "text": {
+            "en": "In patients with bleeding complications, discontinuation or reduction of anticoagulation should be considered based on bleeding severity, location and controllability, tMCS flow, and patient-specific thrombotic risk factors.",
+            "ru": "При развитии геморрагических осложнений следует рассмотреть временную отмену или редукцию дозы антикоагулянтов с учетом тяжести, локализации и контролируемости кровотечения, объемной скорости потока ВМПК и индивидуальных факторов риска тромбоза."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [569, 570, 571, 573]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

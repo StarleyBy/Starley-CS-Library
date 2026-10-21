@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt14-antibiotics",
+  "guidelineId": "eacts-periop-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 14",
+  "title": {
+    "en": "Recommendations for antibiotics",
+    "ru": "Рекомендации по антибактериальной терапии и антибиотикопрофилактике"
+  },
+  "tags": [
+    "antibiotics",
+    "prophylaxis",
+    "mupirocin",
+    "cefazolin",
+    "cefuroxime",
+    "vancomycin",
+    "clindamycin",
+    "mrsa",
+    "ssi"
+  ],
+  "sections": [
+    {
+      "id": "sec-staphylococcus-carriage",
+      "title": {
+        "en": "Staphylococcus aureus carriage",
+        "ru": "Носительство Staphylococcus aureus"
+      },
+      "rows": [
+        {
+          "id": "r01-staphylococcus-mupirocin",
+          "text": {
+            "en": "In patients undergoing open-heart surgery who are Staphylococcus aureus carriers, intranasal mupirocin twice daily is recommended starting 4 days before surgery.",
+            "ru": "У пациентов, идущих на операцию на открытом сердце и являющихся носителями Staphylococcus aureus, рекомендуется интраназальное применение мупироцина дважды в сутки, начиная за 4 дня до вмешательства."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [366, 373, 411]
+        }
+      ]
+    },
+    {
+      "id": "sec-general-prophylaxis",
+      "title": {
+        "en": "General prophylaxis",
+        "ru": "Общие принципы антибиотикопрофилактики"
+      },
+      "rows": [
+        {
+          "id": "r02-antibiotic-prophylaxis-general",
+          "text": {
+            "en": "Antibiotic prophylaxis is recommended to prevent infectious-related complications.",
+            "ru": "Антибиотикопрофилактика рекомендуется для предотвращения инфекционных осложнений."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [393, 412, 413, 414]
+        }
+      ]
+    },
+    {
+      "id": "sec-timing",
+      "title": {
+        "en": "Timing",
+        "ru": "Сроки и время введения"
+      },
+      "rows": [
+        {
+          "id": "r03-timing-first-dose",
+          "text": {
+            "en": "It is recommended to complete the first dose of antibiotic^[a] prophylaxis infusion within 30–60 min before skin incision.",
+            "ru": "Рекомендуется завершить инфузию первой дозы антибиотика^[a] для периоперационной профилактики за 30–60 минут до разреза кожи."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [393, 414, 415, 416]
+        }
+      ]
+    },
+    {
+      "id": "sec-dosing",
+      "title": {
+        "en": "Dosing",
+        "ru": "Режим дозирования"
+      },
+      "rows": [
+        {
+          "id": "r04-dosing-individualized",
+          "text": {
+            "en": "Antibiotic prophylaxis dosage is recommended to be individualized according to patient characteristics, including underweight, obesity and renal function, with appropriate adjustments.",
+            "ru": "Дозу антибиотика для профилактики рекомендуется подбирать индивидуально в соответствии с характеристиками пациента, включая дефицит массы тела, ожирение и функцию почек, с соответствующей коррекцией."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-duration",
+      "title": {
+        "en": "Duration",
+        "ru": "Длительность профилактики"
+      },
+      "rows": [
+        {
+          "id": "r05-duration-24-48h",
+          "text": {
+            "en": "A prophylaxis duration of 24 h and no longer than 48 h post-open-heart surgery should be considered.",
+            "ru": "Следует рассмотреть длительность профилактики в течение 24 часов и не более 48 часов после операции на открытом сердце."
+          },
+          "class": "IIa",
+          "level": "A",
+          "refs": [398, 399, 400, 417, 418]
+        },
+        {
+          "id": "r06-intraoperative-redosing",
+          "text": {
+            "en": "Intraoperative antibiotic redosing should be considered based on patient characteristics, haemodilution or blood loss or if the procedure exceeds 2 half-lives of the antibiotic agent.",
+            "ru": "Повторное интраоперационное введение антибиотика следует рассмотреть с учетом характеристик пациента, степени гемодилюции или кровопотери, либо если продолжительность операции превышает 2 периода полувыведения препарата."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [407, 415, 419, 420, 421]
+        }
+      ]
+    },
+    {
+      "id": "sec-selection-antibiotic-agent",
+      "title": {
+        "en": "Selection of antibiotic agent",
+        "ru": "Выбор антибактериального препарата"
+      },
+      "rows": [
+        {
+          "id": "r07-selection-local-resistance",
+          "text": {
+            "en": "It is recommended that prophylactic agents and dosage are chosen based on local antimicrobial environment reports and resistance patterns and are tailored to the patient's characteristics.",
+            "ru": "Рекомендуется выбирать препараты и дозы для антибиотикопрофилактики на основе локальных данных о микробиологическом пейзаже и профилях резистентности с адаптацией к характеристикам конкретного пациента."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08-first-line-cefazolin-cefuroxime",
+          "text": {
+            "en": "Cefazolin or cefuroxime should be considered as first-line treatment in non-allergic patients.",
+            "ru": "Цефазолин или цефуроксим следует рассматривать в качестве препаратов первой линии у пациентов без аллергии."
+          },
+          "class": "IIa",
+          "level": "A",
+          "refs": [378, 421, 422]
+        },
+        {
+          "id": "r09-beta-lactam-allergy-vancomycin-clindamycin",
+          "text": {
+            "en": "Vancomycin or clindamycin should be considered in patients with a documented β-lactam allergy.",
+            "ru": "Ванкомицин или клиндамицин следует рассматривать у пациентов с подтвержденной аллергией на бета-лактамы."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [381, 383, 384]
+        },
+        {
+          "id": "r10-mrsa-colonization-vancomycin",
+          "text": {
+            "en": "Vancomycin should be considered for prophylaxis in patients with a documented methicillin-resistant Staphylococcus aureus colonization.",
+            "ru": "Ванкомицин следует рассматривать для профилактики у пациентов с подтвержденной колонизацией метициллин-резистентным Staphylococcus aureus (MRSA)."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [379, 380, 423, 424]
+        },
+        {
+          "id": "r11-topical-vancomycin-gentamicin-sponge",
+          "text": {
+            "en": "Topical vancomycin or gentamicin-collagen sponges may be considered as adjunctive measures to prevent surgical site infections.",
+            "ru": "Местное применение ванкомицина или гентамицин-коллагеновых губок может рассматриваться в качестве дополнительных мер для профилактики инфекций области хирургического вмешательства."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [408, 409, 410]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "See Table 8 for different antibiotics.",
+      "ru": "См. Таблицу 8 для различных антибиотиков."
+    }
+  },
+  "source": {
+    "expectedRows": 11
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

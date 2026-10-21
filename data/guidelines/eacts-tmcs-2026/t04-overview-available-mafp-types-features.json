@@ -1,0 +1,324 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.t04-overview-available-mafp-types-features",
+  "guidelineId": "eacts-tmcs-2026",
+  "number": "Table 4",
+  "type": "grid",
+  "title": {
+    "en": "Overview of Available mAFP Types and Features",
+    "ru": "Обзор доступных типов микроаксиальных насосов (мОН/mAFP) и их характеристик"
+  },
+  "tags": [
+    "tmcs",
+    "mafp",
+    "impella",
+    "cardiac-surgery",
+    "catheter-size",
+    "flow-rate",
+    "ecp"
+  ],
+  "columns": [
+    {
+      "id": "feature",
+      "title": {
+        "en": "Feature",
+        "ru": "Параметр"
+      }
+    },
+    {
+      "id": "partial_left",
+      "title": {
+        "en": "Partial support left-sided mAFP",
+        "ru": "мОН с частичной поддержкой ЛЖ (Partial left mAFP)"
+      }
+    },
+    {
+      "id": "full_left",
+      "title": {
+        "en": "Full support left-sided mAFP",
+        "ru": "мОН с полной поддержкой ЛЖ (Full left mAFP)"
+      }
+    },
+    {
+      "id": "femoral_right",
+      "title": {
+        "en": "Femorally implanted right-sided mAFP",
+        "ru": "Бедренный правосторонний мОН (Femoral right mAFP)"
+      }
+    },
+    {
+      "id": "jugular_right",
+      "title": {
+        "en": "Jugularly implanted right-sided mAFP",
+        "ru": "Яремный правосторонний мОН (Jugular right mAFP)"
+      }
+    },
+    {
+      "id": "expandable_left",
+      "title": {
+        "en": "Expandable partial support left-sided mAFP^[a]",
+        "ru": "Раскрывающийся мОН с частичной поддержкой ЛЖ^[a]"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-catheter-size",
+      "cells": [
+        {
+          "text": {
+            "en": "**Catheter size**",
+            "ru": "**Размер катетера**"
+          }
+        },
+        {
+          "text": {
+            "en": "9 Fr",
+            "ru": "9 Fr"
+          }
+        },
+        {
+          "text": {
+            "en": "9 Fr (70 cm length)",
+            "ru": "9 Fr (длина 70 см)"
+          }
+        },
+        {
+          "text": {
+            "en": "11 Fr",
+            "ru": "11 Fr"
+          }
+        },
+        {
+          "text": {
+            "en": "11 Fr",
+            "ru": "11 Fr"
+          }
+        },
+        {
+          "text": {
+            "en": "9 Fr",
+            "ru": "9 Fr"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-maximal-size",
+      "cells": [
+        {
+          "text": {
+            "en": "**Maximal size**",
+            "ru": "**Максимальный размер интродьюсера / канюли**"
+          }
+        },
+        {
+          "text": {
+            "en": "14 Fr",
+            "ru": "14 Fr"
+          }
+        },
+        {
+          "text": {
+            "en": "21 Fr",
+            "ru": "21 Fr"
+          }
+        },
+        {
+          "text": {
+            "en": "22 Fr",
+            "ru": "22 Fr"
+          }
+        },
+        {
+          "text": {
+            "en": "22 Fr",
+            "ru": "22 Fr"
+          }
+        },
+        {
+          "text": {
+            "en": "9 Fr",
+            "ru": "9 Fr"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-peak-flow",
+      "cells": [
+        {
+          "text": {
+            "en": "**Peak flow**",
+            "ru": "**Пиковая производительность (поток)**"
+          }
+        },
+        {
+          "text": {
+            "en": "4.3 L/min",
+            "ru": "4,3 л/мин"
+          }
+        },
+        {
+          "text": {
+            "en": "5.5 L/min",
+            "ru": "5,5 л/мин"
+          }
+        },
+        {
+          "text": {
+            "en": "4.0 L/min",
+            "ru": "4,0 л/мин"
+          }
+        },
+        {
+          "text": {
+            "en": "4 L/min",
+            "ru": "4,0 л/мин"
+          }
+        },
+        {
+          "text": {
+            "en": ">3.5 L/min",
+            "ru": ">3,5 л/мин"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-access-site",
+      "cells": [
+        {
+          "text": {
+            "en": "**Access site**",
+            "ru": "**Зона сосудистого доступа**"
+          }
+        },
+        {
+          "text": {
+            "en": "Percutaneous femoral or axillary",
+            "ru": "Чрескожный бедренный или подмышечный"
+          }
+        },
+        {
+          "text": {
+            "en": "Surgical cutdown of supra-aortic vessels or direct aortic access",
+            "ru": "Хирургический доступ через наддуговые сосуды или прямая канюляция аорты"
+          }
+        },
+        {
+          "text": {
+            "en": "Single venous access through right femoral vein",
+            "ru": "Одиночный венозный доступ через правую бедренную вену"
+          }
+        },
+        {
+          "text": {
+            "en": "Percutaneous, right internal jugular insertion",
+            "ru": "Чрескожное введение в правую внутреннюю яремную вену"
+          }
+        },
+        {
+          "text": {
+            "en": "Percutaneous femoral",
+            "ru": "Чрескожный бедренный доступ"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-ventricle",
+      "cells": [
+        {
+          "text": {
+            "en": "**Ventricle**",
+            "ru": "**Разгружаемый желудочек**"
+          }
+        },
+        {
+          "text": {
+            "en": "LV unloading",
+            "ru": "Разгрузка ЛЖ (LV)"
+          }
+        },
+        {
+          "text": {
+            "en": "LV unloading",
+            "ru": "Разгрузка ЛЖ (LV)"
+          }
+        },
+        {
+          "text": {
+            "en": "RV unloading",
+            "ru": "Разгрузка ПЖ (RV)"
+          }
+        },
+        {
+          "text": {
+            "en": "RV unloading",
+            "ru": "Разгрузка ПЖ (RV)"
+          }
+        },
+        {
+          "text": {
+            "en": "LV unloading",
+            "ru": "Разгрузка ЛЖ (LV)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-approval",
+      "cells": [
+        {
+          "text": {
+            "en": "**Approval**",
+            "ru": "**Регистрационный статус (одобрение)**"
+          }
+        },
+        {
+          "text": {
+            "en": "CE mark; FDA-approved",
+            "ru": "Маркировка CE; одобрено FDA"
+          }
+        },
+        {
+          "text": {
+            "en": "CE mark; FDA-approved",
+            "ru": "Маркировка CE; одобрено FDA"
+          }
+        },
+        {
+          "text": {
+            "en": "CE mark; FDA-approved",
+            "ru": "Маркировка CE; одобрено FDA"
+          }
+        },
+        {
+          "text": {
+            "en": "Not yet certified for clinical use in Europe",
+            "ru": "Пока не сертифицирован для клинического применения в Европе"
+          }
+        },
+        {
+          "text": {
+            "en": "Not yet certified for clinical use",
+            "ru": "Пока не сертифицирован для клинического применения"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "ECP (expandable cardiac pump) just in pre-clinical studies.",
+      "ru": "ECP (expandable cardiac pump — расширяемый насос сердца) находится на стадии доклинических исследований."
+    }
+  },
+  "source": {
+    "note": "Overview of available microaxial flow pump (mAFP) types and technical features (Table 4)"
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

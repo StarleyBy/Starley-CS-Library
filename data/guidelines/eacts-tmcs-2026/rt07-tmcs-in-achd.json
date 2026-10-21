@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt07-tmcs-in-achd",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 7",
+  "title": {
+    "en": "Recommendations for tMCS in Patients with ACHD",
+    "ru": "Рекомендации по временной механической поддержке кровообращения (ВМПК/tMCS) у взрослых пациентов с врожденными пороками сердца (ВПС/ACHD)"
+  },
+  "tags": [
+    "tmcs",
+    "achd",
+    "congenital",
+    "fontan",
+    "transposition",
+    "btt",
+    "dmcs",
+    "ecls",
+    "mafp"
+  ],
+  "sections": [
+    {
+      "id": "sec-tmcs-achd",
+      "title": {
+        "en": "Recommendations for tMCS in Patients with ACHD",
+        "ru": "Рекомендации по ВМПК у взрослых с врожденными пороками сердца"
+      },
+      "rows": [
+        {
+          "id": "r01-good-functional-status-btt-dmcs-recovery",
+          "text": {
+            "en": "In patients with good functional status and preserved end-organ function, tMCS is recommended as a BTT, dMCS, or to support cardiac recovery.",
+            "ru": "У пациентов с сохранным функциональным статусом и сохранной функцией внутренних органов рекомендуется применение ВМПК (tMCS) в качестве «моста» к трансплантации сердца (BTT), к установке постоянной системы поддержки (dMCS) или для поддержки до восстановления функции миокарда."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [243, 244, 246]
+        },
+        {
+          "id": "r02-biventricular-anatomy-systemic-rv",
+          "text": {
+            "en": "In patients with biventricular anatomy and physiology, including those with systemic right ventricles (e.g., cc-TGA; d-TGA s/p atrial switch), a tMCS implant is recommended in a manner similar to that for adults without ACHD.",
+            "ru": "У пациентов с бивентрикулярной анатомией и физиологией, включая пациентов с системным правым желудочком (например, скорригированная транспозиция магистральных артерий — сс-TGA; простая ТМА после операции предсердного переключения — d-TGA s/p atrial switch), имплантация ВМПК (tMCS) рекомендуется аналогично тактике у взрослых пациентов без ВПС."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [245, 246, 247, 248]
+        },
+        {
+          "id": "r03-fontan-central-ecls-direct-decompression",
+          "text": {
+            "en": "In patients with Fontan circulation supported with central ECLS, direct ventricular decompression should be considered.",
+            "ru": "У пациентов с гемодинамикой Фонтена на фоне центрального ЭКМО (ECLS) следует рассмотреть прямую разгрузку (декомпрессию) системного желудочка."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [249, 250]
+        },
+        {
+          "id": "r04-fontan-peripheral-ecls-mafp-decompression",
+          "text": {
+            "en": "In patients with Fontan circulation supported with peripheral ECLS, mAFP should be considered for ventricular decompression.",
+            "ru": "У пациентов с гемодинамикой Фонтена на фоне периферического ЭКМО (ECLS) для декомпрессии системного желудочка следует рассмотреть установку микроаксиального насоса (мОН/mAFP)."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [249, 250]
+        },
+        {
+          "id": "r05-fontan-ecls-fenestration-not-recommended",
+          "text": {
+            "en": "In patients with Fontan circulation supported with ECLS, direct systemic ventricular decompression via a fenestration is not recommended.",
+            "ru": "У пациентов с циркуляцией Фонтена на поддержке ЭКМО (ECLS) прямая декомпрессия системного желудочка через фенестрацию не рекомендуется."
+          },
+          "class": "III",
+          "level": "C",
+          "refs": [249, 250]
+        },
+        {
+          "id": "r06-fontan-collaterals-shunts-pump-flow",
+          "text": {
+            "en": "In patients with Fontan circulation requiring tMCS, the presence of collaterals and persistent arterial-to-pulmonary shunts should be considered when determining pump flow.",
+            "ru": "У пациентов с циркуляцией Фонтена, требующих применения ВМПК (tMCS), при расчете и поддержании производительности (потока) насоса следует учитывать наличие системно-легочных коллатералей и функционирующих аортолегочных шунтов."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [251]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

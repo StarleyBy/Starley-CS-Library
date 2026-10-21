@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt24-myocardial-recovery",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 24",
+  "title": {
+    "en": "Recommendations for Myocardial Recovery",
+    "ru": "Рекомендации по оценке восстановления миокарда (Myocardial Recovery)"
+  },
+  "tags": [
+    "tmcs",
+    "myocardial-recovery",
+    "weaning",
+    "end-organ-dysfunction",
+    "va-ecls-conversion",
+    "vv-ecls",
+    "v-av-ecls"
+  ],
+  "sections": [
+    {
+      "id": "sec-myocardial-recovery",
+      "title": {
+        "en": "Recommendations for Myocardial Recovery",
+        "ru": "Рекомендации по восстановлению миокарда"
+      },
+      "rows": [
+        {
+          "id": "r01-continuous-assessment-myocardial-recovery",
+          "text": {
+            "en": "In patients on tMCS, continuous assessment of myocardial recovery is recommended.",
+            "ru": "У пациентов на ВМПК рекомендуется непрерывная динамическая оценка восстановления функции миокарда."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [692, 694, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739]
+        },
+        {
+          "id": "r02-persistent-end-organ-dysfunction-no-weaning",
+          "text": {
+            "en": "In patients with persistent end organ dysfunction, the initiation of weaning circulatory support is not recommended.",
+            "ru": "При сохраняющейся полиорганной дисфункции начинать процесс отлучения от механической поддержки кровообращения не рекомендуется."
+          },
+          "class": "III",
+          "level": "C",
+          "refs": [693, 706, 707, 708]
+        },
+        {
+          "id": "r03-respiratory-insufficiency-weaning-conversion-v-av-vv-ecls",
+          "text": {
+            "en": "In patients with respiratory insufficiency who are considered for weaning from VA-ECLS, initial conversion to V-AV- or VV-ECLS should be considered.",
+            "ru": "У пациентов с дыхательной недостаточностью при планировании отлучения от VA-ECLS следует рассмотреть предварительную конверсию в конфигурацию V-AV- или VV-ECLS."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [694, 740]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

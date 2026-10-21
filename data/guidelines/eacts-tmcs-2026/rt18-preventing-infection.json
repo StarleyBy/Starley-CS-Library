@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt18-preventing-infection",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 18",
+  "title": {
+    "en": "Recommendations for Preventing Infection",
+    "ru": "Рекомендации по профилактике инфекционных осложнений при ВМПК (tMCS)"
+  },
+  "tags": [
+    "tmcs",
+    "infection-prevention",
+    "antibiotic-protocols",
+    "cannula-fixation",
+    "driveline",
+    "exit-site"
+  ],
+  "sections": [
+    {
+      "id": "sec-preventing-infection",
+      "title": {
+        "en": "Recommendations for Preventing Infection",
+        "ru": "Рекомендации по профилактике инфекций"
+      },
+      "rows": [
+        {
+          "id": "r01-institutional-antibiotic-protocols",
+          "text": {
+            "en": "The development of institutional antibiotic protocols is recommended.",
+            "ru": "Рекомендуется разработка и внедрение локальных внутрибольничных протоколов антибиотикопрофилактики и антибактериальной терапии."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r02-cannula-driveline-anchoring-devices",
+          "text": {
+            "en": "It is recommended that percutaneous cannulas and drivelines be secured with an anchoring device(s) to minimize movement and exit site trauma.",
+            "ru": "Рекомендуется надежно фиксировать чрескожные канюли и приводные линии (driveline) с помощью специальных фиксирующих устройств (anchoring devices) для минимизации их подвижности и травматизации места выхода."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [607, 608, 609, 610, 611]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

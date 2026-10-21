@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026",
+  "society": "EACTS/STS/AATS",
+  "year": 2026,
+  "title": {
+    "en": "2026 EACTS/STS/AATS Guidelines on temporary mechanical circulatory support in adult cardiac surgery",
+    "ru": "Рекомендации EACTS/STS/AATS 2026 года по временной механической поддержке кровообращения в кардиохирургии у взрослых"
+  },
+  "shortTitle": {
+    "en": "EACTS/STS/AATS tMCS 2026",
+    "ru": "EACTS/STS/AATS ВМПК 2026"
+  },
+  "citation": "Eur J Cardiothorac Surg. 2026; ezaf330",
+  "doi": "10.1093/ejcts/ezaf330",
+  "legend": "esc-2023",
+  "abbreviations": {
+    "tMCS": { "en": "temporary mechanical circulatory support", "ru": "временная механическая поддержка кровообращения (ВМПК/tMCS)" },
+    "dMCS": { "en": "durable mechanical circulatory support", "ru": "длительная (постоянная) механическая поддержка кровообращения (dMCS)" },
+    "mAFP": { "en": "microaxial flow pump", "ru": "микроаксиальный насос (мОН/mAFP, напр. Impella)" },
+    "VA-ECLS": { "en": "veno-arterial extracorporeal life support", "ru": "вено-артериальная экстракорпоральная поддержка жизни (ВА-ЭКМО/VA-ECLS)" },
+    "IABP": { "en": "intra-aortic balloon pump", "ru": "внутриаортальный баллонный контрпульсатор (ВАБК/IABP)" },
+    "tLVAD": { "en": "temporary left ventricular assist device", "ru": "временное устройство поддержки левого желудочка (tLVAD)" },
+    "RVAD": { "en": "right ventricular assist device", "ru": "устройство поддержки правого желудочка (RVAD)" },
+    "OxyRVAD": { "en": "oxygenated right ventricular assist device", "ru": "устройство поддержки правого желудочка с оксигенатором (OxyRVAD)" },
+    "dLVAD": { "en": "durable left ventricular assist device", "ru": "постоянное устройство поддержки левого желудочка (dLVAD)" },
+    "HTx": { "en": "heart transplantation", "ru": "трансплантация сердца (ТС/HTx)" },
+    "ECPR": { "en": "extracorporeal cardiopulmonary resuscitation", "ru": "экстракорпоральная сердечно-легочная реанимация (ЭК-СЛР/ECPR)" },
+    "ROSC": { "en": "return of spontaneous circulation", "ru": "восстановление спонтанного кровообращения (ВСР/ROSC)" },
+    "CPR": { "en": "cardiopulmonary resuscitation", "ru": "сердечно-легочная реанимация (СЛР/CPR)" },
+    "AKI": { "en": "acute kidney injury", "ru": "острое почечное повреждение (ОПП/AKI)" },
+    "VSD": { "en": "ventricular septal defect", "ru": "дефект межжелудочковой перегородки (ДМЖП/VSD)" },
+    "MI": { "en": "myocardial infarction", "ru": "инфаркт миокарда (ИМ/MI)" },
+    "LV": { "en": "left ventricle", "ru": "левый желудочек (ЛЖ/LV)" },
+    "RV": { "en": "right ventricle", "ru": "правый желудочек (ПЖ/RV)" },
+    "PA": { "en": "pulmonary artery", "ru": "легочная артерия (ЛА/PA)" },
+    "RA": { "en": "right atrium", "ru": "правое предсердие (ПП/RA)" },
+    "PCI": { "en": "percutaneous coronary intervention", "ru": "чрескожное коронарное вмешательство (ЧКВ/PCI)" },
+    "SIRS": { "en": "systemic inflammatory response syndrome", "ru": "синдром системного воспалительного ответа (ССВО/SIRS)" },
+    "CE": { "en": "Conformité Européenne", "ru": "европейская сертификация (маркировка CE)" },
+    "FDA": { "en": "Food and Drug Administration", "ru": "Управление по контролю за продуктами и лекарствами США (FDA)" }
+  }
+}

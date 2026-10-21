@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt03-stress-ulcer-prophylaxis",
+  "guidelineId": "eacts-periop-2024",
+  "number": "Recommendation Table 3",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Stress Ulcer Prophylaxis",
+    "ru": "Рекомендации по профилактике стрессовых язв"
+  },
+  "tags": [
+    "eacts",
+    "perioperative",
+    "stress-ulcer",
+    "prophylaxis",
+    "ppi",
+    "gastroprotection",
+    "gastrointestinal-bleeding"
+  ],
+  "sections": [
+    {
+      "id": "sec-stress-ulcer-prophylaxis",
+      "title": {
+        "en": "Stress Ulcer Prophylaxis",
+        "ru": "Профилактика стрессовых язв ЖКТ"
+      },
+      "rows": [
+        {
+          "id": "r01-perioperative-gastroprotection-ppi",
+          "text": {
+            "en": "The perioperative administration of gastroprotection, preferably with a PPI rather than histamine-2 receptor blockers, is recommended to prevent gastrointestinal bleeding in patients having open-heart surgery.",
+            "ru": "Периоперационное назначение гастропротекции, преимущественно ингибиторов протонной помпы (ИПП / PPI), а не блокаторов H2-гистаминовых рецепторов, рекомендуется для профилактики желудочно-кишечных кровотечений у пациентов, перенесших операцию на открытом сердце."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [94, 95, 96]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

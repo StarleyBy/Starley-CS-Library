@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt08-postoperative-antithrombotic-drugs",
+  "guidelineId": "eacts-periop-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 8",
+  "title": {
+    "en": "Recommendations for postoperative antithrombotic drugs",
+    "ru": "Рекомендации по послеоперационной антитромботической терапии"
+  },
+  "tags": [
+    "antithrombotic",
+    "anticoagulation",
+    "antiplatelet",
+    "vka",
+    "doac",
+    "asa",
+    "mechanical-valve",
+    "bioprosthesis",
+    "valve-repair",
+    "tavi",
+    "vte"
+  ],
+  "sections": [
+    {
+      "id": "sec-restarting-oral-anticoagulation",
+      "title": {
+        "en": "Postoperative (re)starting of oral anticoagulation",
+        "ru": "Послеоперационное возобновление/старт пероральной антикоагулянтной терапии"
+      },
+      "rows": [
+        {
+          "id": "r01-high-thromboembolic-risk-ufh-lmwh",
+          "text": {
+            "en": "In patients with an indication for postoperative oral anticoagulation and high thromboembolic risk^[a], it is recommended to start UFH or LMWH after the operation, as soon as it is considered safe.",
+            "ru": "У пациентов с показаниями к послеоперационной пероральной антикоагулянтной терапии и высоким тромбоэмболическим риском^[a] рекомендуется начать введение НФГ (UFH) или НМГ (LMWH) после операции, как только это будет сочтено безопасным."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [208, 209, 210, 211, 212]
+        },
+        {
+          "id": "r02-restart-vka-bridging-heparin",
+          "text": {
+            "en": "It is recommended to restart VKA together with bridging heparin on the first postoperative day or as soon as it is considered safe",
+            "ru": "Рекомендуется возобновить прием АВК (VKA) совместно с мост-терапией гепарином в первые послеоперационные сутки или как только это будет сочтено безопасным."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r03-restart-doacs-2-3-days",
+          "text": {
+            "en": "DOACs, when indicated, should be (re)started 2 to 3 days after open-heart surgery as soon as it is considered safe.",
+            "ru": "Прием ПОАК (DOAC) при наличии показаний следует возобновить/начать через 2–3 дня после операции на открытом сердце, как только это будет сочтено безопасным."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [161]
+        }
+      ]
+    },
+    {
+      "id": "sec-mechanical-heart-valves",
+      "title": {
+        "en": "Mechanical Heart Valves",
+        "ru": "Механические протезы клапанов сердца"
+      },
+      "rows": [
+        {
+          "id": "r04-lifelong-vkas-mhv",
+          "text": {
+            "en": "Lifelong VKAs are recommended for all patients, with anticoagulation levels consistent with valve type, position and patient characteristics.",
+            "ru": "Пожизненный прием АВК (VKA) рекомендуется всем пациентам, с уровнем антикоагуляции, соответствующим типу протеза, его позиции и характеристикам пациента."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [204, 205, 206]
+        },
+        {
+          "id": "r05-doacs-not-recommended-mhv",
+          "text": {
+            "en": "DOACs are not recommended in patients with mechanical valve prosthesis to prevent thromboembolic events.",
+            "ru": "ПОАК (DOAC) не рекомендуются пациентам с механическими протезами клапанов сердца для профилактики тромбоэмболических событий."
+          },
+          "class": "III",
+          "level": "A",
+          "refs": [223, 224]
+        },
+        {
+          "id": "r06-addition-asa-vka-atherosclerosis",
+          "text": {
+            "en": "The addition of low-dose ASA (75–100 mg/day) to VKA should be considered in case of concomitant significant atherosclerotic disease.",
+            "ru": "Добавление низких доз АСК (75–100 мг/сут) к АВК (VKA) следует рассмотреть в случае сопутствующего клинически значимого атеросклеротического заболевания."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [213, 225]
+        },
+        {
+          "id": "r07-thromboembolic-complication-despite-inr",
+          "text": {
+            "en": "In patients with MHV who develop a major thromboembolic complication despite a documented adequate INR, either an increase in the INR target or the addition of low-dose ASA should be considered.",
+            "ru": "У пациентов с механическим протезом клапана (МПК/MHV), у которых развивается большое тромбоэмболическое осложнение, несмотря на подтвержденный адекватный уровень МНО (INR), следует рассмотреть повышение целевого уровня МНО или добавление низких доз АСК."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r08-inr-self-monitoring",
+          "text": {
+            "en": "INR self-monitoring and self-management are recommended in appropriately trained patients.",
+            "ru": "Самоконтроль и самостоятельное титрование дозы под контролем МНО (INR) рекомендуются обученным соответствующим образом пациентам."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [216, 221, 222]
+        }
+      ]
+    },
+    {
+      "id": "sec-bioprosthetic-heart-valves",
+      "title": {
+        "en": "Bioprosthetic Heart Valves",
+        "ru": "Биологические протезы клапанов сердца"
+      },
+      "rows": [
+        {
+          "id": "r09-aortic-bhv-first-3-months",
+          "text": {
+            "en": "In patients with no clear indications for OAC, either low-dose ASA [75–100 mg/day] or VKA, based on the bleeding profile of the individual patient, is recommended for the first 3 months after a surgical aortic BHV implant.",
+            "ru": "У пациентов без четких показаний к ОАК (OAC) в первые 3 месяца после хирургической имплантации аортального биопротеза (БПК/BHV) рекомендуется либо низкая доза АСК [75–100 мг/сут], либо АВК (VKA) с учетом индивидуального профиля риска кровотечений."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r10-aortic-bhv-long-term-asa",
+          "text": {
+            "en": "In patients with no clear indications for OAC, long-term dose ASA (75–100 mg/day) may be considered after the first 3 months following a surgical aortic BHV implant.",
+            "ru": "У пациентов без четких показаний к ОАК (OAC) длительный прием АСК (75–100 мг/сут) может быть рассмотрен после первых 3 месяцев после хирургической имплантации аортального биопротеза (БПК/BHV)."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r11-mitral-tricuspid-bhv-first-3-months",
+          "text": {
+            "en": "In patients with no clear indications for OAC, VKAs are recommended for the first 3 months after surgical implantation of a mitral or tricuspid BHV.",
+            "ru": "У пациентов без четких показаний к ОАК (OAC) в первые 3 месяца после хирургической имплантации митрального или трикуспидального биопротеза (БПК/BHV) рекомендуются АВК (VKA)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [237, 238]
+        },
+        {
+          "id": "r12-mitral-tricuspid-bhv-long-term-asa",
+          "text": {
+            "en": "In patients with no clear indications for OAC, long-term dose ASA (75–100 mg/day) should be considered after the first 3 months following a surgical mitral or tricuspid BHV implant.",
+            "ru": "У пациентов без четких показаний к ОАК (OAC) длительный прием АСК (75–100 мг/сут) следует рассмотреть после первых 3 месяцев после хирургической имплантации митрального или трикуспидального биопротеза (БПК/BHV)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r13-bhv-long-term-oac-indicated",
+          "text": {
+            "en": "For patients with surgical- or transcatheter-implanted bioprostheses and an indication for OAC, long-term OAC is recommended to prevent thromboembolic events.",
+            "ru": "Пациентам с хирургически или транскатетерно имплантированными биопротезами и сопутствующими показаниями к ОАК (OAC) рекомендована длительная ОАК для предотвращения тромбоэмболических событий."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r14-doac-alternative-vka-3-months-bhv",
+          "text": {
+            "en": "DOACs may be considered as an alternative to VKA 3 months after the surgical implantation of a BHV in patients with another indication for OAC.",
+            "ru": "ПОАК (DOAC) могут рассматриваться в качестве альтернативы АВК (VKA) через 3 месяца после хирургической имплантации биопротеза (БПК/BHV) у пациентов с сопутствующими показаниями к ОАК."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [241, 244, 245]
+        }
+      ]
+    },
+    {
+      "id": "sec-surgical-valve-repair",
+      "title": {
+        "en": "Surgical valve repair",
+        "ru": "Хирургическая пластика клапанов"
+      },
+      "rows": [
+        {
+          "id": "r15-sapt-aortic-tricuspid-repair",
+          "text": {
+            "en": "SAPT with low-dose ASA (75–100 mg/day) should be considered for the first 3 months following valve-sparing aortic surgery and tricuspid valve repair in the absence of indications for OAC.",
+            "ru": "Монотерапия низкими дозами АСК (75–100 мг/сут) должна рассматриваться в первые 3 месяца после клапансохраняющих операций на аорте и пластики трикуспидального клапана при отсутствии показаний к ОАК (OAC)."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r16-sapt-mitral-repair",
+          "text": {
+            "en": "SAPT with low-dose ASA (75–100 mg/day) should be considered for the first 3 months after mitral valve repair.",
+            "ru": "Монотерапия низкими дозами АСК (75–100 мг/сут) должна рассматриваться в течение первых 3 месяцев после пластики митрального клапана."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [246, 247, 248]
+        },
+        {
+          "id": "r17-oac-after-repair-if-indicated",
+          "text": {
+            "en": "OAC is recommended after surgical valve repair in patients who have other indications for OAC to prevent thromboembolic events.",
+            "ru": "ОАК (OAC) рекомендуется после хирургической пластики клапана пациентам, имеющим другие показания к антикоагулянтной терапии, для предотвращения тромбоэмболических событий."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-tavi",
+      "title": {
+        "en": "TAVI",
+        "ru": "Транскатетерная имплантация аортального клапана (ТИАК/TAVI)"
+      },
+      "rows": [
+        {
+          "id": "r18-tavi-asa-12-months",
+          "text": {
+            "en": "Low-dose ASA (75–100 mg/day) is recommended for 12 months after TAVI in patients with no clear indication for OAC.",
+            "ru": "Низкие дозы АСК (75–100 мг/сут) рекомендуются в течение 12 месяцев после ТИАК (TAVI) пациентам без четких показаний к ОАК (OAC)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [251, 252, 253, 257, 263]
+        },
+        {
+          "id": "r19-tavi-long-term-asa",
+          "text": {
+            "en": "Long-term low-dose ASA (75–100 mg/day) may be considered after TAVI in patients with no clear indication for OAC.",
+            "ru": "Длительный прием низких доз АСК (75–100 мг/сут) может быть рассмотрен после ТИАК (TAVI) у пациентов без четких показаний к ОАК (OAC)."
+          },
+          "class": "IIb",
+          "level": "C"
+        },
+        {
+          "id": "r20-tavi-oac-dapt-not-recommended-without-indication",
+          "text": {
+            "en": "OAC or DAPT is not recommended after TAVI in patients with no clear indication for OAC or DAPT, respectively.",
+            "ru": "ОАК (OAC) или ДАТ (DAPT) не рекомендуются после ТИАК (TAVI) у пациентов без четких показаний к ОАК или ДАТ соответственно."
+          },
+          "class": "III",
+          "level": "B",
+          "refs": [252, 253]
+        },
+        {
+          "id": "r21-tavi-oac-long-term-if-indicated",
+          "text": {
+            "en": "OAC is recommended for long-term use in patients having TAVI who have other indications for OAC.",
+            "ru": "ОАК (OAC) рекомендуется для длительного применения у пациентов после ТИАК (TAVI), имеющих другие показания к антикоагулянтной терапии."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [255]
+        },
+        {
+          "id": "r22-tavi-doac-rather-than-vka",
+          "text": {
+            "en": "DOAC may be considered rather than VKA following TAVI when there is an indication for OAC therapy.",
+            "ru": "ПОАК (DOAC) могут быть рассмотрены предпочтительнее АВК (VKA) после ТИАК (TAVI) при наличии показаний к терапии ОАК."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [256, 257]
+        }
+      ]
+    },
+    {
+      "id": "sec-other-indications",
+      "title": {
+        "en": "Other indications",
+        "ru": "Другие показания"
+      },
+      "rows": [
+        {
+          "id": "r23-vte-prophylaxis-lmwh",
+          "text": {
+            "en": "VTE prophylaxis with LMWH should be considered after open-heart surgery as soon as there is no safety concern.",
+            "ru": "Профилактику ВТЭ (VTE) с применением НМГ (LMWH) следует рассмотреть после операции на открытом сердце, как только исчезнут опасения по поводу безопасности."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [258, 259]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Patients with a mechanical prosthetic heart valve, AF with rheumatic valvular disease, an acute thrombotic event within the previous 12 weeks and, potentially, patients with left ventricular apex thrombus, defects of antithrombin, protein C, protein S and factor V Leiden mutation.",
+      "ru": "Пациенты с механическим протезом клапана сердца, ФП с ревматическим пороком сердца, острым тромботическим событием в предшествующие 12 недель и, возможно, пациенты с тромбом верхушки левого желудочка, дефицитом антитромбина, протеина C, протеина S и мутацией фактора V Лейдена."
+    }
+  },
+  "source": {
+    "expectedRows": 23
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

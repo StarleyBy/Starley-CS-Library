@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt04-timing-tmcs-implants-chronic-heart-failure",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 4",
+  "title": {
+    "en": "Recommendations for Timing of tMCS Implants in Patients with Chronic Heart Failure",
+    "ru": "Рекомендации по срокам имплантации систем ВМПК (tMCS) у пациентов с хронической сердечной недостаточностью"
+  },
+  "tags": [
+    "tmcs",
+    "heart-failure",
+    "chf",
+    "dmcs",
+    "htx",
+    "dlvad",
+    "rv-function",
+    "bridge-to-transplant"
+  ],
+  "sections": [
+    {
+      "id": "sec-timing-tmcs-chronic-heart-failure",
+      "title": {
+        "en": "Recommendations for Timing of tMCS Implants in Patients with Chronic Heart Failure",
+        "ru": "Рекомендации по срокам имплантации систем ВМПК у пациентов с хронической сердечной недостаточностью"
+      },
+      "rows": [
+        {
+          "id": "r01-deteriorating-waiting-for-dmcs-htx",
+          "text": {
+            "en": "In patients who are deteriorating^[d] while waiting for dMCS/HTx, tMCS is recommended.",
+            "ru": "У пациентов с прогрессирующим ухудшением состояния^[d] во время ожидания имплантации постоянной системы (dMCS) или трансплантации сердца (ТС/HTx) рекомендуется применение ВМПК (tMCS)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [8, 170, 171, 174]
+        },
+        {
+          "id": "r02-optimization-end-organ-function-prior-dmcs-htx",
+          "text": {
+            "en": "Prior to the placement of a dMCS or an HTx, optimization of end-organ function with tMCS should be considered.",
+            "ru": "Перед установкой постоянного аппарата поддержки (dMCS) или трансплантацией сердца (ТС/HTx) следует рассмотреть возможность оптимизации функции внутренних органов с помощью ВМПК (tMCS)."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [172, 173]
+        },
+        {
+          "id": "r03-optimization-rv-function-scheduled-dlvad",
+          "text": {
+            "en": "In patients scheduled for a dLVAD, optimization of RV function with tMCS may be considered.",
+            "ru": "У пациентов, которым запланирована имплантация постоянного левожелудочкового ассиста (dLVAD), оптимизация функции правого желудочка (ПЖ/RV) с помощью ВМПК (tMCS) может быть рассмотрена."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "d": {
+      "en": "Despite guideline-directed medical therapies, including inotropes.",
+      "ru": "Несмотря на оптимальную медикаментозную терапию в соответствии с клиническими рекомендациями (ОМТ/GDMT), включая инотропные препараты."
+    }
+  },
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

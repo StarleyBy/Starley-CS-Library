@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt16-rrt-patients-tmcs",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 16",
+  "title": {
+    "en": "Recommendations for RRT for Patients on tMCS",
+    "ru": "Рекомендации по заместительной почечной терапии (ЗПТ / RRT) у пациентов на ВМПК (tMCS)"
+  },
+  "tags": [
+    "tmcs",
+    "rrt",
+    "renal-replacement-therapy",
+    "crrt",
+    "ecls",
+    "acute-kidney-injury",
+    "aki",
+    "vascular-access"
+  ],
+  "sections": [
+    {
+      "id": "sec-rrt-patients-tmcs",
+      "title": {
+        "en": "Recommendations for RRT for Patients on tMCS",
+        "ru": "Рекомендации по заместительной почечной терапии у пациентов на ВМПК"
+      },
+      "rows": [
+        {
+          "id": "r01-rrt-conventional-indications",
+          "text": {
+            "en": "RRT is recommended when conventional indications develop.",
+            "ru": "Проведение заместительной почечной терапии (ЗПТ / RRT) рекомендуется при возникновении стандартных (конвенциональных) показаний."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [542, 544]
+        },
+        {
+          "id": "r02-ecls-circuit-utilization-for-rrt",
+          "text": {
+            "en": "The utilization of the ECLS circuit for RRT may be considered if no other vascular access is available.",
+            "ru": "Подключение контура заместительной почечной терапии (ЗПТ) непосредственно к контуру ЭКМО (ECLS) может быть рассмотрено при отсутствии других доступных сосудистых доступов."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [516]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 2
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

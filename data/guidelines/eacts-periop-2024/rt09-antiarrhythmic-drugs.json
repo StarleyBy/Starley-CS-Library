@@ -1,0 +1,96 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt09-antiarrhythmic-drugs",
+  "guidelineId": "eacts-periop-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 9",
+  "title": {
+    "en": "Recommendations for antiarrhythmic drugs",
+    "ru": "Рекомендации по антиаритмической терапии"
+  },
+  "tags": [
+    "antiarrhythmic",
+    "poaf",
+    "rhythm-control",
+    "rate-control",
+    "cardioversion",
+    "anticoagulation",
+    "oac"
+  ],
+  "sections": [
+    {
+      "id": "sec-postoperative-period",
+      "title": {
+        "en": "Postoperative period",
+        "ru": "Послеоперационный период"
+      },
+      "rows": [
+        {
+          "id": "r01-poaf-stable-rhythm-control",
+          "text": {
+            "en": "In patients with haemodynamically stable POAF, rhythm control is recommended.",
+            "ru": "У пациентов с гемодинамически стабильной ПОФП (POAF) рекомендуется контроль ритма."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [265, 279, 280, 293]
+        },
+        {
+          "id": "r02-poaf-stable-asymptomatic-rate-control",
+          "text": {
+            "en": "In patients with haemodynamically stable and asymptomatic POAF, rate control should be considered.",
+            "ru": "У пациентов с гемодинамически стабильной и бессимптомной ПОФП (POAF) следует рассмотреть контроль частоты желудочковых сокращений (ЧЖС)."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [265, 278, 279, 280]
+        },
+        {
+          "id": "r03-poaf-unstable-antiarrhythmics-cardioversion",
+          "text": {
+            "en": "In patients with haemodynamically unstable POAF, antiarrhythmic drugs for rhythm control and, if necessary, cardioversion are recommended to restore sinus rhythm.",
+            "ru": "У пациентов с гемодинамически нестабильной ПОФП (POAF) для восстановления синусового ритма рекомендуются антиаритмические препараты для контроля ритма и, при необходимости, кардиоверсия."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [293]
+        },
+        {
+          "id": "r04-poaf-anticoagulation-within-24h",
+          "text": {
+            "en": "Therapeutic doses of UFH or LMWH should be considered within 24 h of the onset of POAF, balancing cardioembolic and surgical bleeding risks.",
+            "ru": "Применение терапевтических доз НФГ (UFH) или НМГ (LMWH) следует рассмотреть в течение первых 24 часов от возникновения ПОФП (POAF), сопоставляя кардиоэмболический риск и риск хирургического кровотечения."
+          },
+          "class": "IIa",
+          "level": "C"
+        },
+        {
+          "id": "r05-persistent-poaf-discharge-oac-4-weeks",
+          "text": {
+            "en": "In patients with persistent POAF at discharge, OAC therapy is recommended for at least 4 weeks followed by re-evaluation.",
+            "ru": "У пациентов с сохраняющейся ПОФП (POAF) на момент выписки рекомендуется терапия ОАК (OAC) в течение как минимум 4 недель с последующей повторной оценкой."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [265, 275, 277, 294]
+        },
+        {
+          "id": "r06-sinus-rhythm-discharge-oac-4-weeks",
+          "text": {
+            "en": "In patients with POAF in sinus rhythm at discharge, OAC therapy for at least 4 weeks may be considered, taking bleeding risk and thromboembolic risk into consideration.",
+            "ru": "У пациентов с эпизодом ПОФП (POAF), находящихся на синусовом ритме к моменту выписки, терапия ОАК (OAC) в течение не менее 4 недель может быть рассмотрена с учетом риска кровотечений и тромбоэмболического риска."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [265, 275, 277, 282, 283, 294]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt02-prophylaxis-perioperative-arrhythmias",
+  "guidelineId": "eacts-periop-2024",
+  "number": "Recommendation Table 2",
+  "type": "recommendations",
+  "title": {
+    "en": "Recommendations for Prophylaxis of Perioperative Arrhythmias",
+    "ru": "Рекомендации по профилактике периоперационных аритмий"
+  },
+  "tags": [
+    "eacts",
+    "perioperative",
+    "arrhythmias",
+    "poaf",
+    "atrial-fibrillation",
+    "beta-blockers",
+    "amiodarone",
+    "steroids-statins-harm"
+  ],
+  "sections": [
+    {
+      "id": "sec-prophylaxis-arrhythmias",
+      "title": {
+        "en": "Prophylaxis of Perioperative Arrhythmias",
+        "ru": "Профилактика периоперационных аритмий"
+      },
+      "rows": [
+        {
+          "id": "r01-continue-beta-blockers-prevent-arrhythmias",
+          "text": {
+            "en": "It is recommended to continue BBs throughout the perioperative period to prevent postoperative arrhythmias.",
+            "ru": "Рекомендуется продолжать прием бета-адреноблокаторов (БАБ / BB) на протяжении всего периоперационного периода для профилактики послеоперационных аритмий."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [32, 33, 34, 35, 87]
+        },
+        {
+          "id": "r02-bb-naive-patients-low-dose",
+          "text": {
+            "en": "Short-term, low-dose BBs may be considered in BB-naïve patients to prevent arrhythmias following open-heart surgery.",
+            "ru": "Краткосрочное назначение низких доз бета-адреноблокаторов может быть рассмотрено у пациентов, ранее не принимавших БАБ (BB-naïve), для профилактики аритмий после операций на открытом сердце."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [72]
+        },
+        {
+          "id": "r03-amiodarone-prevent-poaf",
+          "text": {
+            "en": "Amiodarone may be considered to prevent POAF in open-heart surgery.",
+            "ru": "Применение амиодарона может быть рассмотрено для профилактики послеоперационной фибрилляции предсердий (ПОФП / POAF) при операциях на открытом сердце."
+          },
+          "class": "IIb",
+          "level": "A",
+          "refs": [33, 73, 75, 88]
+        },
+        {
+          "id": "r04-no-benefit-early-steroids-statins-poaf",
+          "text": {
+            "en": "It is not recommended to initiate steroids and statins early before open-heart surgery to prevent POAF.",
+            "ru": "Не рекомендуется раннее назначение глюкокортикоидов (стероидов) и статинов перед операцией на открытом сердце с целью профилактики ПОФП (POAF)."
+          },
+          "class": "III",
+          "level": "A",
+          "refs": [82, 83, 84, 85]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

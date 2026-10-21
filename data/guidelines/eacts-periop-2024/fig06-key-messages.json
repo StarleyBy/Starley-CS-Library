@@ -1,0 +1,425 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.fig06-key-messages",
+  "guidelineId": "eacts-periop-2024",
+  "number": "Figure 6",
+  "type": "grid",
+  "title": {
+    "en": "Key messages from the Multidisciplinary Perioperative Medication Guidelines in Adult Cardiac Surgery",
+    "ru": "Ключевые положения руководства по периоперационной медикаментозной терапии в кардиохирургии у взрослых (Figure 6)"
+  },
+  "tags": [
+    "key-messages",
+    "summary",
+    "what-to-do",
+    "what-not-to-do",
+    "eacts",
+    "cardiac-surgery",
+    "figure"
+  ],
+  "columns": [
+    {
+      "id": "message",
+      "title": {
+        "en": "Key Clinical Recommendation",
+        "ru": "Ключевая клиническая рекомендация"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-class-i",
+      "kind": "section",
+      "cells": [
+        {
+          "tone": "green",
+          "text": {
+            "en": "**IT IS RECOMMENDED TO (Class I)**",
+            "ru": "**РЕКОМЕНДУЕТСЯ (Класс I)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01-continue-bb-ccb-diuretics-gastroprotectant",
+      "cells": [
+        {
+          "text": {
+            "en": "Continue BB, CCB, and diuretics and administer gastroprotectant preoperatively",
+            "ru": "Продолжать прием БАБ, БКК и диуретиков и назначить гастропротектор (ИПП) перед операцией"
+          },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "r02-continue-asa-throughout",
+      "cells": [
+        {
+          "text": {
+            "en": "Continue ASA throughout the perioperative period",
+            "ru": "Продолжать прием АСК на протяжении всего периоперационного периода"
+          },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "r03-bridge-vkas-high-thrombotic-risk",
+      "cells": [
+        {
+          "text": {
+            "en": "Bridge VKAs with UFH or LMWH in patients with high thrombotic risk",
+            "ru": "Проводить мост-терапию АВК с помощью НФГ или НМГ у пациентов с высоким тромботическим риском"
+          },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "r04-mupirocin-staph-carriers",
+      "cells": [
+        {
+          "text": {
+            "en": "Use mupirocin intranasal twice daily for S. aureus carriers starting 4 days before open-heart surgery",
+            "ru": "Применять интраназальный мупироцин дважды в сутки носителям S. aureus, начиная за 4 дня до операции на открытом сердце"
+          },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "r05-antibiotic-timing-30-60min",
+      "cells": [
+        {
+          "text": {
+            "en": "Start antibiotic prophylaxis infusion within 30-60 minutes before skin incision",
+            "ru": "Начинать инфузию профилактической дозы антибиотика за 30–60 минут до разреза кожи"
+          },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "r06-resume-dapt-recent-acs-pci",
+      "cells": [
+        {
+          "text": {
+            "en": "Resume or start DAPT after open-heart surgery in patients with recent ACS and/or PCI",
+            "ru": "Возобновить или начать ДАТ после операции на открытом сердце у пациентов с недавним ОКС и/или ЧКВ"
+          },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "r07-lifelong-vka-inr-self-monitoring-mhv",
+      "cells": [
+        {
+          "text": {
+            "en": "Use life-long VKA with INR self-monitoring in trained patients after MHV implantation",
+            "ru": "Пожизненно применять АВК с самоконтролем МНО у обученных пациентов после имплантации механического протеза клапана"
+          },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "r08-vka-first-3-months-mitral-tricuspid-bhv",
+      "cells": [
+        {
+          "text": {
+            "en": "Use VKAs for the first 3 months after mitral or tricuspid BHV implantation",
+            "ru": "Применять АВК в первые 3 месяца после хирургической имплантации митрального или трикуспидального биопротеза"
+          },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "r09-oac-4-weeks-persistent-poaf",
+      "cells": [
+        {
+          "text": {
+            "en": "Use OAC for at least 4 weeks in patients with persistent POAF at discharge, followed by re-evaluation",
+            "ru": "Применять ОАК не менее 4 недель у пациентов с сохраняющейся ПОФП при выписке с последующей переоценкой"
+          },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "r10-optimal-dose-raas-hf-hta",
+      "cells": [
+        {
+          "text": {
+            "en": "Use long-term optimal-dose RAAS inhibition in HF and/or HTA patients",
+            "ru": "Длительно применять оптимальные дозы ингибиторов РААС у пациентов с сердечной недостаточностью и/или артериальной гипертензией"
+          },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "r11-bb-sglt2-hf-reduced-lvef",
+      "cells": [
+        {
+          "text": {
+            "en": "Use long-term cardioselective BB and SGLT2 inhibitors in HF patients with reduced LVEF",
+            "ru": "Длительно применять кардиоселективные БАБ и ингибиторы SGLT2 у пациентов с сердечной недостаточностью со сниженной ФВЛЖ"
+          },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "r12-regular-examinations-strict-adherence-gdmt",
+      "cells": [
+        {
+          "text": {
+            "en": "Regular examinations and strict adherence to prescribed GDMT for long-term benefits from surgery",
+            "ru": "Регулярные обследования и строгое соблюдение предписанной ОМТ для получения долгосрочной пользы от операции"
+          },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "r13-quality-assurance-programs-gdmt",
+      "cells": [
+        {
+          "text": {
+            "en": "Adhere to quality assurance initiatives and quality improvement programs to enhance adherence and persistence with GDMT",
+            "ru": "Соблюдать инициативы по контролю качества и программы его улучшения для повышения приверженности и удержания на ОМТ"
+          },
+          "tone": "green"
+        }
+      ]
+    },
+    {
+      "id": "sec-class-iia",
+      "kind": "section",
+      "cells": [
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "**IT SHOULD BE CONSIDERED TO (Class IIa)**",
+            "ru": "**СЛЕДУЕТ РАССМОТРЕТЬ (Класс IIa)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r14-postpone-surgery-p2y12-washout",
+      "cells": [
+        {
+          "text": {
+            "en": "Postpone surgery ≥3 days after discontinuation of ticagrelor, ≥5 days after clopidogrel, and ≥7 days after prasugrel",
+            "ru": "Отложить операцию на ≥3 дня после отмены тикагрелора, на ≥5 дней после клопидогрела и на ≥7 дней после прасугрела"
+          },
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "r15-idarucizumab-emergency-dabigatran",
+      "cells": [
+        {
+          "text": {
+            "en": "Administer idarucizumab in emergency open-heart surgery to reverse dabigatran",
+            "ru": "Вводить идаруцизумаб при экстренной операции на открытом сердце для нейтрализации эффекта дабигатрана"
+          },
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "r16-continue-statin-presurgery-dose",
+      "cells": [
+        {
+          "text": {
+            "en": "Continue statin therapy at the pre-surgery dose during the perioperative period",
+            "ru": "Продолжать терапию статинами в предоперационной дозе на протяжении всего периоперационного периода"
+          },
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "r17-discontinue-sglt2-72h",
+      "cells": [
+        {
+          "text": {
+            "en": "Discontinue SGLT2 inhibitors at least 72 hours before open-heart surgery",
+            "ru": "Отменить ингибиторы SGLT2 как минимум за 72 часа до операции на открытом сердце"
+          },
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "r18-maintain-glucose-120-180",
+      "cells": [
+        {
+          "text": {
+            "en": "Maintain blood glucose levels in diabetic patients between 120-180 mg/dl (6.7-10 mmol/l)",
+            "ru": "Поддерживать уровень гликемии у пациентов с диабетом в пределах 120–180 мг/дл (6,7–10 ммоль/л)"
+          },
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "r19-continue-ssri-throughout",
+      "cells": [
+        {
+          "text": {
+            "en": "Continue SSRI throughout the perioperative period",
+            "ru": "Продолжать прием СИОЗС на протяжении всего периоперационного периода"
+          },
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "r20-antibiotic-duration-24-48h",
+      "cells": [
+        {
+          "text": {
+            "en": "Administer antibiotic prophylactic with cefazolin or cefuroxime set to 24 hours, and no longer than 48 hours",
+            "ru": "Проводить антибиотикопрофилактику цефазолином или цефуроксимом продолжительностью 24 часа и не более 48 часов"
+          },
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "r21-restart-raas-when-safe",
+      "cells": [
+        {
+          "text": {
+            "en": "(Re)start RAAS inhibitors as soon as it is deemed safe after open-heart surgery",
+            "ru": "Возобновить или начать прием ингибиторов РААС, как только это будет сочтено безопасным после операции"
+          },
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "r22-asa-first-3-months-valve-repair",
+      "cells": [
+        {
+          "text": {
+            "en": "Prescribe ASA for the first 3 months after aortic, mitral, and tricuspid valve repair in patients with no other indication for OAC",
+            "ru": "Назначать АСК в первые 3 месяца после пластики аортального, митрального и трикуспидального клапанов при отсутствии других показаний к ОАК"
+          },
+          "tone": "yellow"
+        }
+      ]
+    },
+    {
+      "id": "sec-class-iii",
+      "kind": "section",
+      "cells": [
+        {
+          "tone": "red",
+          "text": {
+            "en": "**IT IS NOT RECOMMENDED TO (Class III)**",
+            "ru": "**НЕ РЕКОМЕНДУЕТСЯ (Класс III)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r23-prophylactic-steroids-and-statins-preop",
+      "cells": [
+        {
+          "text": {
+            "en": "Use prophylactic steroids and statins preoperatively",
+            "ru": "Профилактически назначать стероиды и впервые начинать статины перед операцией"
+          },
+          "tone": "red"
+        }
+      ]
+    },
+    {
+      "id": "r24-andexanet-alfa-before-cpb-weaning",
+      "cells": [
+        {
+          "text": {
+            "en": "Administer andexanet alpha in patients on anti-Xa DOACs preoperatively",
+            "ru": "Вводить андексанет альфа пациентам на ингибиторах FXa перед операцией до отключения от аппарата ИК"
+          },
+          "tone": "red"
+        }
+      ]
+    },
+    {
+      "id": "r25-doacs-for-mechanical-valves",
+      "cells": [
+        {
+          "text": {
+            "en": "Use DOACs for thromboembolic prophylaxis in patients with mechanical valves",
+            "ru": "Применять ПОАК для тромбоэмболической профилактики у пациентов с механическими протезами клапанов"
+          },
+          "tone": "red"
+        }
+      ]
+    },
+    {
+      "id": "r26-oac-or-dapt-after-tavi-without-indication",
+      "cells": [
+        {
+          "text": {
+            "en": "Prescribe OAC or DAPT after TAVI in patients with no baseline indications for OAC",
+            "ru": "Назначать ОАК или ДАТ после ТИАК (TAVI) пациентам без исходных показаний к ОАК или ДАТ"
+          },
+          "tone": "red"
+        }
+      ]
+    },
+    {
+      "id": "r27-thiazolidinediones-dm-hf",
+      "cells": [
+        {
+          "text": {
+            "en": "Use thiazolidinediones in patients with DM and HF",
+            "ru": "Применять тиазолидиндионы у пациентов с сахарным диабетом и сердечной недостаточностью"
+          },
+          "tone": "red"
+        }
+      ]
+    },
+    {
+      "id": "r28-nsaids-with-ssri",
+      "cells": [
+        {
+          "text": {
+            "en": "Use NSAIDs in patients with SSRI",
+            "ru": "Применять НПВП у пациентов, принимающих СИОЗС"
+          },
+          "tone": "red"
+        }
+      ]
+    },
+    {
+      "id": "r29-ssri-qt-prolongation-vasospastic-angina",
+      "cells": [
+        {
+          "text": {
+            "en": "Prescribe SSRI in patients with QT prolongation or vasospastic angina",
+            "ru": "Назначать СИОЗС пациентам с удлинением интервала QT или вазоспастической стенокардией"
+          },
+          "tone": "red"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 32,
+    "note": "Transcribed from Figure 6: Key messages from the Multidisciplinary Perioperative Medication Guidelines in Adult Cardiac Surgery"
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

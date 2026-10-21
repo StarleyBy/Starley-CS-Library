@@ -110,7 +110,9 @@
   - Potent P2Y12 inhibitor (prasugrel/ticagrelor) or clopidogrel if unavailable, before or at latest at PCI, continued 12 months (I A).
   - Anticoagulation: UFH (I C), enoxaparin (IIa B), bivalirudin (IIb A).
 * **Oral anticoagulation (AF) + PCI:**
-  - Triple therapy (aspirin+clopidogrel+OAC) for 1 month, then dual therapy (clopidogrel+OAC) up to 6‑12 months (IIa A).
+  - [📋 Interactive Table: Dual antiplatelet therapy duration in patients with indication for oral anticoagulation](#/tables/esc-revasc-2018.rt29-dapt-duration-oral-anticoagulation)
+
+Triple therapy (aspirin+clopidogrel+OAC) for 1 month, then dual therapy (clopidogrel+OAC) up to 6‑12 months (IIa A).
   - NOAC preferred over VKA (IIa A).
   - Ticagrelor/prasugrel not recommended as part of triple therapy (III C).
 
@@ -186,6 +188,10 @@ There is considerable overlap of the current document with other Guidelines, spe
 
 ### 2.1. What is new in the 2018 Guidelines?</summary><div class="details-content">
 
+[📋 Interactive Table: What is new in the 2018 Guidelines?](#/tables/esc-revasc-2018.t01-new-recommendations)
+[📋 Interactive Table: Changes in class of recommendation (2014 vs 2018)](#/tables/esc-revasc-2018.t02-revised-recommendations)
+
+
 <span id="fig-1"></span>![](_page_1_Figure_1.jpeg)
 
 **Figure 1** New recommendations.
@@ -233,6 +239,9 @@ The viability substudy of the STICH trial found viable myocardium in 487/601 pat
 <details class="med-details"><summary>
 
 #### Recommendation Table for viability assessment</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for non-invasive imaging in patients with coronary artery disease and heart failure with reduced ejection fraction](#/tables/esc-revasc-2018.rt01-noninvasive-imaging-hf)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -328,6 +337,9 @@ The presence of intermediate-grade LMS disease is not infrequent and angiographi
 
 #### Recommendation Table for invasive diagnostic tools</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations on functional testing and intravascular imaging for lesion assessment](#/tables/esc-revasc-2018.rt02-functional-testing-intravascular-imaging)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | When evidence of ischaemia is not available, FFR or iwFR are recommended to assess the haemodynamic relevance of intermediate-grade stenosis. | I | A |
@@ -396,6 +408,9 @@ Ad hoc PCI is defined as a therapeutic intervention performed within the same pr
 
 #### <span id="table-3"></span>Table 3: Timing of revascularization</summary><div class="details-content">
 
+[📋 Interactive Table: Multidisciplinary decision pathways, patient informed consent, and timing of revascularization](#/tables/esc-revasc-2018.t03-multidisciplinary-decision-pathways)
+
+
 | Timing | Indication |
 |--------|------------|
 | Emergency (immediate ≤2 h) | Haemodynamic instability, cardiogenic shock, acute heart failure; ongoing ischaemia despite medical treatment; life-threatening arrhythmias/cardiac arrest; mechanical complications of MI. |
@@ -408,6 +423,9 @@ Ad hoc PCI is defined as a therapeutic intervention performed within the same pr
 <details class="med-details"><summary>
 
 #### Recommendation Table for decision-making and timing</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for decision-making and patient information in the elective setting](#/tables/esc-revasc-2018.rt03-decision-making-patient-information)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -447,6 +465,9 @@ The indications for revascularization in patients with stable angina or silent i
 <details class="med-details"><summary>
 
 #### Recommendation Table for indications for revascularization in stable CAD</summary><div class="details-content">
+
+[📋 Interactive Table: Indications for revascularization in patients with stable angina or silent ischaemia](#/tables/esc-revasc-2018.rt04-indications-stable-angina)
+
 
 | Indication | Extent of CAD (anatomical and/or functional) | Class | Level |
 |------------|----------------------------------------------|-------|-------|
@@ -497,9 +518,15 @@ The recommendations for the type of revascularization (CABG or PCI) in patients 
 
 **Figure 3** Aspects to be considered by the Heart Team for decision-making between percutaneous coronary intervention and coronary artery bypass grafting among patients with stable multivessel and/or left main coronary artery disease.
 
+
+[📋 Interactive Table: Aspects to be considered by the Heart Team for decision-making between PCI and CABG in stable multivessel and/or left main CAD](#/tables/esc-revasc-2018.t07-favours-pci-vs-cabg)
+
 <details class="med-details"><summary>
 
 #### <span id="table-4"></span>Table 4: Randomized clinical trials comparing percutaneous coronary intervention with drug-eluting stents vs. surgical revascularization</summary><div class="details-content">
+
+[📋 Interactive Table: Randomized clinical trials comparing percutaneous coronary intervention with drug-eluting stents vs. surgical revascularization](#/tables/esc-revasc-2018.t04-rcts-des-vs-cabg)
+
 
 | Study | Stent type | N | Age | Women% | Diabetes% | MV/LM% | EF% | Primary endpoint (PCI vs CABG) | Death (5y) | MI (5y) | Revasc (5y) | Stroke (5y) |
 |-------|------------|---|-----|---------|-----------|--------|-----|-------------------------------|------------|---------|-------------|-------------|
@@ -533,6 +560,9 @@ Despite the usefulness of these scores, there is not a single risk model that pr
 
 ##### <span id="table-5"></span>Table 5: Logistic EuroSCOREs in major randomized trials</summary><div class="details-content">
 
+[📋 Interactive Table: Logistic EuroSCOREs in major randomized trials comparing percutaneous coronary intervention with coronary artery bypass grafting](#/tables/esc-revasc-2018.t05-euroscore-in-rcts)
+
+
 | Trial | EuroSCORE PCI | EuroSCORE CABG |
 |-------|---------------|----------------|
 | SYNTAX | 3.8 ± 2.6 | 3.8 ± 2.7 |
@@ -555,6 +585,9 @@ In the SYNTAX trial, tertiles of SYNTAX score with low, intermediate, and high a
 <details class="med-details"><summary>
 
 ##### <span id="table-6"></span>Table 6: Guide for calculating the SYNTAX score</summary><div class="details-content">
+
+[📋 Interactive Table: Guide for calculating the SYNTAX score](#/tables/esc-revasc-2018.t06-syntax-score-calculation)
+
 
 | Step | Variable assessed | Description |
 |------|-------------------|-------------|
@@ -591,6 +624,9 @@ The role of functional guidance for CABG is less clear. One of the potential ben
 
 #### Recommendation Table for assessment of surgical risk, CAD complexity, and completeness of revascularization</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations on criteria for the choice between coronary artery bypass grafting and percutaneous coronary intervention](#/tables/esc-revasc-2018.rt05-choice-cabg-vs-pci-criteria)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | It is recommended that the STS score is calculated to assess in-hospital or 30-day mortality, and in-hospital morbidity after CABG. | I | B |
@@ -603,6 +639,9 @@ The role of functional guidance for CABG is less clear. One of the potential ben
 <details class="med-details"><summary>
 
 #### Recommendation Table for type of revascularization in stable CAD</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendation for the type of revascularization in patients with stable coronary artery disease with suitable coronary anatomy for both procedures and low predicted surgical mortality](#/tables/esc-revasc-2018.rt06-revasc-type-scad)
+
 
 | Extent of CAD | CABG | PCI |
 |---------------|------|-----|
@@ -687,6 +726,9 @@ A routine invasive strategy in NSTE-ACS has been shown to improve clinical outco
 
 **Figure 4** Selection of NSTE-ACS treatment strategy and timing according to initial risk stratification.
 
+
+[📋 Interactive Table: Selection of non-ST-elevation acute coronary syndrome treatment strategy and timing according to initial risk stratification](#/tables/esc-revasc-2018.t08-nste-acs-risk-stratification)
+
 </div></details>
 
 <details class="med-details"><summary>
@@ -730,6 +772,9 @@ There is no randomized comparison of PCI vs. CABG in the specific setting of NST
 <details class="med-details"><summary>
 
 ### Recommendation Table for NSTE-ACS</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for invasive evaluation and revascularization in non-ST-elevation acute coronary syndrome](#/tables/esc-revasc-2018.rt07-nste-acs-invasive-evaluation)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -801,6 +846,10 @@ The benefits of early, routine PCI after thrombolysis were seen in the absence o
 
 ### Recommendation Table for STEMI revascularization</summary><div class="details-content">
 
+[📋 Interactive Table: Primary percutaneous coronary intervention for myocardial reperfusion in ST-elevation myocardial infarction: indications and logistics](#/tables/esc-revasc-2018.rt08-primary-pci-stemi-indications-logistics)
+[📋 Interactive Table: Primary percutaneous coronary intervention for myocardial reperfusion in ST-elevation myocardial infarction: procedural aspects (strategy and technique)](#/tables/esc-revasc-2018.rt09-primary-pci-stemi-procedural)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Reperfusion therapy for symptom onset <12 h and persistent ST-segment elevation | I | A |
@@ -853,6 +902,9 @@ The STICH trial revealed no difference in the primary outcome between CABG alone
 
 #### Recommendation Table for chronic heart failure</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations on revascularizations in patients with chronic heart failure and systolic left ventricular dysfunction (ejection fraction ≤35%)](#/tables/esc-revasc-2018.rt10-revasc-heart-failure-lv-dysfunction)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | In patients with severe LV systolic dysfunction and CAD suitable for intervention, myocardial revascularization is recommended. | I | B |
@@ -887,6 +939,9 @@ The IABP-SHOCK II trial showed that the use of IABPs did not reduce 30-day morta
 <details class="med-details"><summary>
 
 #### Recommendation Table for cardiogenic shock</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for the management of patients with cardiogenic shock](#/tables/esc-revasc-2018.rt11-cardiogenic-shock)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -963,6 +1018,9 @@ In elective cases, metformin should be withheld before angiography or PCI for 48
 
 #### Recommendation for patients on metformin</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendation for patients on metformin](#/tables/esc-revasc-2018.rt12-patients-on-metformin)
+
+
 | Recommendation | Class | Level |
 |----------------|-------|-------|
 | It is recommended to check renal function if patients have taken metformin immediately before angiography and withhold metformin if renal function deteriorates. | I | C |
@@ -1002,6 +1060,9 @@ Adequate hydration remains the mainstay. High-dose statins (rosuvastatin 40/20 m
 <details class="med-details"><summary>
 
 #### Recommendation Table for prevention of CIN</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for the prevention of contrast-induced nephropathy](#/tables/esc-revasc-2018.rt13-prevention-contrast-induced-nephropathy)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1062,6 +1123,9 @@ For moderate secondary MR in patients undergoing CABG, the CTSN trial showed tha
 
 ### Recommendation Table for combined valvular and coronary interventions</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for combined valvular and coronary interventions](#/tables/esc-revasc-2018.rt14-valvular-coronary-interventions)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | CABG recommended for primary aortic/mitral valve surgery and coronary artery stenosis >70% | I | C |
@@ -1095,6 +1159,10 @@ The early risk of stroke is higher after CABG than after PCI. The most consisten
 <details class="med-details"><summary>
 
 #### Recommendation Table for carotid stenosis in CABG patients</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations on the management of carotid stenosis in patients undergoing coronary artery bypass grafting](#/tables/esc-revasc-2018.rt15-carotid-stenosis-cabg)
+[📋 Interactive Table: Preoperative strategies to reduce the incidence of stroke in patients undergoing coronary artery bypass grafting](#/tables/esc-revasc-2018.rt16-stroke-prevention-cabg)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1196,6 +1264,9 @@ Stent thrombosis is rare but devastating. Liberal use of intracoronary imaging t
 
 ### Recommendation Table for repeat revascularization</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations on repeat revascularization](#/tables/esc-revasc-2018.rt17-repeat-revascularization)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Coronary angiography post-CABG for suspected perioperative MI or haemodynamic instability | I | C |
@@ -1245,6 +1316,9 @@ In survivors of out-of-hospital cardiac arrest, early coronary angiography and P
 
 #### Recommendation Table for ventricular arrhythmias</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for the prevention of ventricular arrhythmias by revascularization](#/tables/esc-revasc-2018.rt18-ventricular-arrhythmias)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Primary PCI for resuscitated cardiac arrest with ECG consistent with STEMI | I | B |
@@ -1287,6 +1361,9 @@ Long-term anticoagulation should be considered in patients with AF after CABG or
 
 #### Recommendation Table for atrial arrhythmias</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for the prevention and treatment of atrial fibrillation in the setting of myocardial revascularization](#/tables/esc-revasc-2018.rt19-atrial-fibrillation)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Perioperative oral beta-blocker therapy for prevention of post-operative AF after CABG | I | B |
@@ -1311,6 +1388,9 @@ Duration of anticoagulation and combination with antiplatelet therapy in new-ons
 <details class="med-details"><summary>
 
 ## 15. Procedural aspects of coronary artery bypass grafting</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations on procedural aspects of coronary artery bypass grafting](#/tables/esc-revasc-2018.rt20-cabg-procedural-aspects)
+
 
 <details class="med-details"><summary>
 
@@ -1518,6 +1598,11 @@ Radial access is recommended as the standard approach, unless overriding procedu
 
 ### Recommendation Table for procedural aspects of PCI</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations on intravascular imaging for procedural optimization](#/tables/esc-revasc-2018.rt21-intravascular-imaging-optimization)
+[📋 Interactive Table: Recommendations on choice of stent and access site](#/tables/esc-revasc-2018.rt22-stent-access-site)
+[📋 Interactive Table: Recommendations on specific lesion subsets](#/tables/esc-revasc-2018.rt23-specific-lesion-subsets)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | DES recommended over BMS for any PCI | I | A |
@@ -1544,6 +1629,9 @@ Radial access is recommended as the standard approach, unless overriding procedu
 
 #### <span id="table-7"></span>Table 7: Doses of antiplatelet and anticoagulant drugs</summary><div class="details-content">
 
+[📋 Interactive Table: Doses of antiplatelet and anticoagulant drugs used during and after myocardial revascularization](#/tables/esc-revasc-2018.t09-doses-antiplatelet-anticoagulant)
+
+
 | Drug | Dosing |
 |------|--------|
 | Aspirin | 150-300 mg loading, 75-100 mg daily |
@@ -1560,6 +1648,9 @@ Radial access is recommended as the standard approach, unless overriding procedu
 
 ### 17.1. PCI in stable coronary artery disease</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for antithrombotic treatment in stable coronary artery disease patients undergoing percutaneous coronary intervention](#/tables/esc-revasc-2018.rt24-antithrombotic-scad-pci)
+
+
 DAPT (aspirin+clopidogrel) generally for 6 months (I A). UFH standard anticoagulant (I B). High bleeding risk (PRECISE-DAPT ≥25) → consider 3 months DAPT (IIa A).
 
 </div></details>
@@ -1567,6 +1658,9 @@ DAPT (aspirin+clopidogrel) generally for 6 months (I A). UFH standard anticoagul
 <details class="med-details"><summary>
 
 ### 17.2. Non-ST-elevation acute coronary syndrome</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for antithrombotic treatment in patients with non-ST-elevation acute coronary syndromes undergoing percutaneous coronary intervention](#/tables/esc-revasc-2018.rt25-antithrombotic-nste-acs-pci)
+
 
 Aspirin + P2Y12 inhibitor (prasugrel/ticagrelor) for 12 months (I A). Prasugrel not for pre-treatment before anatomy known (III B). UFH (I C), enoxaparin (IIa B), bivalirudin (IIb A). GP IIb/IIIa only for bail-out (IIa C).
 
@@ -1576,6 +1670,9 @@ Aspirin + P2Y12 inhibitor (prasugrel/ticagrelor) for 12 months (I A). Prasugrel 
 
 ### 17.3. ST-segment elevation myocardial infarction</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for antithrombotic treatment in ST-elevation myocardial infarction patients undergoing percutaneous coronary intervention](#/tables/esc-revasc-2018.rt27-antithrombotic-stemi-pci)
+
+
 Potent P2Y12 inhibitor (prasugrel/ticagrelor) or clopidogrel before or at latest at PCI, continued 12 months (I A). Anticoagulation: UFH (I C), enoxaparin (IIa B), bivalirudin (IIb A).
 
 </div></details>
@@ -1583,6 +1680,9 @@ Potent P2Y12 inhibitor (prasugrel/ticagrelor) or clopidogrel before or at latest
 <details class="med-details"><summary>
 
 ### 17.4. Coronary artery bypass grafting</summary><div class="details-content">
+
+[📋 Interactive Table: Dual antiplatelet therapy in patients undergoing cardiac surgery](#/tables/esc-revasc-2018.rt28-dapt-cardiac-surgery)
+
 
 Continue aspirin perioperatively. For non-emergent surgery, postpone at least 3 days after ticagrelor, 5 days after clopidogrel, 7 days after prasugrel (IIa B).
 
@@ -1596,6 +1696,8 @@ Continue aspirin perioperatively. For non-emergent surgery, postpone at least 3 
 
 #### 17.5.1. Antithrombotic therapy after PCI in patients requiring oral anticoagulation</summary><div class="details-content">
 
+[📋 Interactive Table: Strategies to avoid bleeding complications in oral anticoagulation patients](#/tables/esc-revasc-2018.t10-avoid-bleeding-oral-anticoagulation)
+
 **Table 8: Strategies to avoid bleeding complications in oral anticoagulation patients**
 - Assess ischaemic and bleeding risks using validated risk predictors (e.g. CHA₂DS₂‑VASc, ABC, and HAS‑BLED) with a focus on modifiable risk factors.
 - Keep triple therapy duration as short as possible; dual therapy after PCI (OAC and clopidogrel) to be considered instead of triple therapy.
@@ -1604,6 +1706,8 @@ Continue aspirin perioperatively. For non-emergent surgery, postpone at least 3 
 - Clopidogrel is the P2Y₁₂ inhibitor of choice.
 - Use low-dose (<100 mg daily) aspirin.
 - Routine use of PPIs.
+
+[📋 Interactive Table: High-risk features for ischaemic events](#/tables/esc-revasc-2018.t11-high-risk-features-ischaemic)
 
 **Table 9: Ischaemic and bleeding risk profiles for patients on oral anticoagulation undergoing PCI**
 
@@ -1619,6 +1723,8 @@ Continue aspirin perioperatively. For non-emergent surgery, postpone at least 3 
 | Total stented length >60 mm | Chronic alcohol abuse |
 | Treatment of a chronic total occlusion | Anaemia |
 | History of STEMI | Clinically significant bleeding on dual antithrombotic therapy |
+
+[📋 Interactive Table: Unfavourable patient profile for a combination of oral anticoagulant and antiplatelet therapy](#/tables/esc-revasc-2018.t12-unfavourable-profile-oac-antiplatelet)
 
 **Table 10: Unfavourable patient profile for a combination of oral anticoagulant and antiplatelet therapy**
 
@@ -1695,6 +1801,11 @@ Trainees in cardiac surgery should perform ≥200 CABG procedures under supervis
 
 ### Recommendation Table for volume-outcome and training</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for operator/institutional volume in myocardial revascularization](#/tables/esc-revasc-2018.rt30-operator-institutional-volume)
+[📋 Interactive Table: Recommendations for training in myocardial revascularization](#/tables/esc-revasc-2018.rt31-training-myocardial-revascularization)
+[📋 Interactive Table: Recommendations for outcome registration, monitoring, and benchmarking](#/tables/esc-revasc-2018.rt32-outcome-registration-benchmarking)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | CABG at centres with ≥200 cases/year | IIa | C |
@@ -1714,6 +1825,9 @@ Trainees in cardiac surgery should perform ≥200 CABG procedures under supervis
 <details class="med-details"><summary>
 
 ### Recommendation Table for follow‑up and management</summary><div class="details-content">
+
+[📋 Interactive Table: Strategies for follow-up and management in patients after myocardial revascularization](#/tables/esc-revasc-2018.rt33-follow-up-management-after-revasc)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1757,6 +1871,9 @@ Simple exercise ECG testing is not recommended for follow‑up. More studies nee
 <details class="med-details"><summary>
 
 ## 21. Evidence‑based ‘to do’ and ‘not to do’ messages from the Guidelines</summary><div class="details-content">
+
+[📋 Interactive Table: Evidence-based 'to do' and 'not to do' messages from the Guidelines](#/tables/esc-revasc-2018.t13-what-to-do)
+
 
 *Class I and Class III recommendations summarised in Section 21 of the original. Key examples:*
 

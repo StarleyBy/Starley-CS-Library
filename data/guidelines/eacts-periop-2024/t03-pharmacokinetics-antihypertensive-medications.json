@@ -1,0 +1,463 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.t03-pharmacokinetics-antihypertensive-medications",
+  "guidelineId": "eacts-periop-2024",
+  "number": "Table 3",
+  "type": "grid",
+  "title": {
+    "en": "Pharmacokinetics of Antihypertensive Medications",
+    "ru": "Фармакокинетика антигипертензивных препаратов"
+  },
+  "tags": [
+    "eacts",
+    "perioperative",
+    "antihypertensives",
+    "pharmacokinetics",
+    "acei",
+    "arb",
+    "beta-blockers",
+    "ccb",
+    "diuretics"
+  ],
+  "columns": [
+    {
+      "id": "drug",
+      "title": {
+        "en": "Drug",
+        "ru": "Препарат"
+      }
+    },
+    {
+      "id": "initial-dose",
+      "title": {
+        "en": "Initial dose",
+        "ru": "Начальная доза"
+      }
+    },
+    {
+      "id": "maintenance-dose",
+      "title": {
+        "en": "Maintenance dose",
+        "ru": "Поддерживающая доза"
+      }
+    },
+    {
+      "id": "max-dose",
+      "title": {
+        "en": "Maximum dose",
+        "ru": "Максимальная доза"
+      }
+    },
+    {
+      "id": "onset",
+      "title": {
+        "en": "Onset of action",
+        "ru": "Начало действия"
+      }
+    },
+    {
+      "id": "peak",
+      "title": {
+        "en": "Peak concentration",
+        "ru": "Пик концентрации"
+      }
+    },
+    {
+      "id": "half-life",
+      "title": {
+        "en": "Half-life",
+        "ru": "Период полувыведения (T1/2)"
+      }
+    },
+    {
+      "id": "metabolism",
+      "title": {
+        "en": "Metabolism",
+        "ru": "Метаболизм"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "sec-acei",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 8,
+          "tone": "neutral",
+          "text": {
+            "en": "**Angiotensin-converting enzyme inhibitors (ACEIs)**",
+            "ru": "**Ингибиторы ангиотензинпревращающего фермента (иАПФ)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r01-fosinopril",
+      "cells": [
+        { "text": { "en": "Fosinopril", "ru": "Фозиноприл" } },
+        { "text": { "en": "10 mg od", "ru": "10 мг 1 р/сут" } },
+        { "text": { "en": "10–40 mg od", "ru": "10–40 мг 1 р/сут" } },
+        { "text": { "en": "40 mg od", "ru": "40 мг 1 р/сут" } },
+        { "text": { "en": "1 h", "ru": "1 ч" } },
+        { "text": { "en": "3 h", "ru": "3 ч" } },
+        { "text": { "en": "12 h", "ru": "12 ч" } },
+        { "text": { "en": "Hepatic (non-CYP450) into active metabolites (mainly fosinoprilat)", "ru": "Печеночный (не CYP450) в активные метаболиты (главным образом фозиноприлат)" } }
+      ]
+    },
+    {
+      "id": "r02-captopril",
+      "cells": [
+        { "text": { "en": "Captopril", "ru": "Каптоприл" } },
+        { "text": { "en": "25 mg bid", "ru": "25 мг 2 р/сут" } },
+        { "text": { "en": "25–150 mg bid", "ru": "25–150 мг 2 р/сут" } },
+        { "text": { "en": "450 mg bid or tid", "ru": "450 мг 2 или 3 р/сут" } },
+        { "text": { "en": "15–30 min", "ru": "15–30 мин" } },
+        { "text": { "en": "60–90 min", "ru": "60–90 мин" } },
+        { "text": { "en": "2 h", "ru": "2 ч" } },
+        { "text": { "en": "Hepatic (50%, non-CYP450) into inactive metabolite", "ru": "Печеночный (50%, не CYP450) в неактивный метаболит" } }
+      ]
+    },
+    {
+      "id": "r03-enalapril",
+      "cells": [
+        { "text": { "en": "Enalapril", "ru": "Эналаприл" } },
+        { "text": { "en": "2.5 mg od", "ru": "2.5 мг 1 р/сут" } },
+        { "text": { "en": "10–40 mg od", "ru": "10–40 мг 1 р/сут" } },
+        { "text": { "en": "40 mg od", "ru": "40 мг 1 р/сут" } },
+        { "text": { "en": "0.5–1 h", "ru": "0.5–1 ч" } },
+        { "text": { "en": "4–6 h", "ru": "4–6 ч" } },
+        { "text": { "en": "11 h", "ru": "11 ч" } },
+        { "text": { "en": "Hepatic (70%, non-CYP450) into active metabolites (mainly enalaprilat)", "ru": "Печеночный (70%, не CYP450) в активные метаболиты (главным образом эналаприлат)" } }
+      ]
+    },
+    {
+      "id": "r04-lisinopril",
+      "cells": [
+        { "text": { "en": "Lisinopril", "ru": "Лизиноприл" } },
+        { "text": { "en": "10 mg od", "ru": "10 мг 1 р/сут" } },
+        { "text": { "en": "10–40 mg od", "ru": "10–40 мг 1 р/сут" } },
+        { "text": { "en": "80 mg od", "ru": "80 мг 1 р/сут" } },
+        { "text": { "en": "1 h", "ru": "1 ч" } },
+        { "text": { "en": "6–8 h", "ru": "6–8 ч" } },
+        { "text": { "en": "12 h", "ru": "12 ч" } },
+        { "text": { "en": "Not metabolized, excreted unchanged in urine", "ru": "Не метаболизируется, выводится почками в неизмененном виде" } }
+      ]
+    },
+    {
+      "id": "r05-ramipril",
+      "cells": [
+        { "text": { "en": "Ramipril", "ru": "Рамиприл" } },
+        { "text": { "en": "2.5 mg od", "ru": "2.5 мг 1 р/сут" } },
+        { "text": { "en": "2.5–10 mg od", "ru": "2.5–10 мг 1 р/сут" } },
+        { "text": { "en": "10 mg od", "ru": "10 мг 1 р/сут" } },
+        { "text": { "en": "1–2 h", "ru": "1–2 ч" } },
+        { "text": { "en": "2–4 h", "ru": "2–4 ч" } },
+        { "text": { "en": "13–17 h", "ru": "13–17 ч" } },
+        { "text": { "en": "Hepatic (non-CYP450) into active metabolites (mainly ramiprilat)", "ru": "Печеночный (не CYP450) в активные метаболиты (главным образом рамиприлат)" } }
+      ]
+    },
+    {
+      "id": "r06-trandolapril",
+      "cells": [
+        { "text": { "en": "Trandolapril", "ru": "Трандолаприл" } },
+        { "text": { "en": "0.5 mg od", "ru": "0.5 мг 1 р/сут" } },
+        { "text": { "en": "2–4 mg od or bid", "ru": "2–4 мг 1 или 2 р/сут" } },
+        { "text": { "en": "4 mg od", "ru": "4 мг 1 р/сут" } },
+        { "text": { "en": "0.5 h", "ru": "0.5 ч" } },
+        { "text": { "en": "3–6 h", "ru": "3–6 ч" } },
+        { "text": { "en": "15–23 h", "ru": "15–23 ч" } },
+        { "text": { "en": "Hepatic (non-CYP450) into active metabolite (trandolaprilat)", "ru": "Печеночный (не CYP450) в активный метаболит (трандолаприлат)" } }
+      ]
+    },
+    {
+      "id": "sec-arbs",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 8,
+          "tone": "neutral",
+          "text": {
+            "en": "**Angiotensin II receptor antagonists (ARBs)**",
+            "ru": "**Блокаторы рецепторов ангиотензина II (БРА)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-candesartan",
+      "cells": [
+        { "text": { "en": "Candesartan cilexetil", "ru": "Кандесартана цилексетил" } },
+        { "text": { "en": "8 mg od", "ru": "8 мг 1 р/сут" } },
+        { "text": { "en": "8–32 mg od", "ru": "8–32 мг 1 р/сут" } },
+        { "text": { "en": "32 mg od", "ru": "32 мг 1 р/сут" } },
+        { "text": { "en": "2–3 h", "ru": "2–3 ч" } },
+        { "text": { "en": "2–4 h", "ru": "2–4 ч" } },
+        { "text": { "en": "9 h", "ru": "9 ч" } },
+        { "text": { "en": "Hepatic (non-CYP450) into active metabolites (candesartan)", "ru": "Печеночный (не CYP450) в активный метаболит (кандесартан)" } }
+      ]
+    },
+    {
+      "id": "r08-valsartan",
+      "cells": [
+        { "text": { "en": "Valsartan", "ru": "Валсартан" } },
+        { "text": { "en": "80 mg od", "ru": "80 мг 1 р/сут" } },
+        { "text": { "en": "80–320 mg od", "ru": "80–320 мг 1 р/сут" } },
+        { "text": { "en": "320 mg od", "ru": "320 мг 1 р/сут" } },
+        { "text": { "en": "2 h", "ru": "2 ч" } },
+        { "text": { "en": "2–4 h", "ru": "2–4 ч" } },
+        { "text": { "en": "6 h", "ru": "6 ч" } },
+        { "text": { "en": "Hepatic 20%, non-CYP450", "ru": "Печеночный 20%, не CYP450" } }
+      ]
+    },
+    {
+      "id": "r09-losartan",
+      "cells": [
+        { "text": { "en": "Losartan", "ru": "Лозартан" } },
+        { "text": { "en": "50 mg od", "ru": "50 мг 1 р/сут" } },
+        { "text": { "en": "50–100 mg od", "ru": "50–100 мг 1 р/сут" } },
+        { "text": { "en": "100 mg od", "ru": "100 мг 1 р/сут" } },
+        { "text": { "en": "1–2 h", "ru": "1–2 ч" } },
+        { "text": { "en": "1 h, 3–4 h metabolite", "ru": "1 ч, 3–4 ч для метаболита" } },
+        { "text": { "en": "6–9 h", "ru": "6–9 ч" } },
+        { "text": { "en": "Hepatic metabolism (CYP2C9 and 3A4); inactive and active metabolites", "ru": "Печеночный метаболизм (CYP2C9 и 3A4); неактивные и активные метаболиты" } }
+      ]
+    },
+    {
+      "id": "r10-olmesartan",
+      "cells": [
+        { "text": { "en": "Olmesartan", "ru": "Олмесартан" } },
+        { "text": { "en": "20 mg od", "ru": "20 мг 1 р/сут" } },
+        { "text": { "en": "20–40 mg od", "ru": "20–40 мг 1 р/сут" } },
+        { "text": { "en": "40 mg od", "ru": "40 мг 1 р/сут" } },
+        { "text": { "en": "1–2 h", "ru": "1–2 ч" } },
+        { "text": { "en": "1–2 h", "ru": "1–2 ч" } },
+        { "text": { "en": "10–15 h", "ru": "10–15 ч" } },
+        { "text": { "en": "Prodrug converted into olmesartan medoxomil", "ru": "Пролекарство, превращающееся в олмесартан" } }
+      ]
+    },
+    {
+      "id": "r11-irbesartan",
+      "cells": [
+        { "text": { "en": "Irbesartan", "ru": "Ирбесартан" } },
+        { "text": { "en": "150 mg od", "ru": "150 мг 1 р/сут" } },
+        { "text": { "en": "150–300 mg od", "ru": "150–300 мг 1 р/сут" } },
+        { "text": { "en": "300 mg od", "ru": "300 мг 1 р/сут" } },
+        { "text": { "en": "1–2 h", "ru": "1–2 ч" } },
+        { "text": { "en": "1.5–2 h", "ru": "1.5–2 ч" } },
+        { "text": { "en": "11–15 h", "ru": "11–15 ч" } },
+        { "text": { "en": "Hepatic (non CYP450) into inactive metabolite", "ru": "Печеночный (не CYP450) в неактивный метаболит" } }
+      ]
+    },
+    {
+      "id": "sec-beta-blockers",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 8,
+          "tone": "neutral",
+          "text": {
+            "en": "**Beta-blockers (BBs)**",
+            "ru": "**Бета-адреноблокаторы (БАБ)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-atenolol",
+      "cells": [
+        { "text": { "en": "Atenolol", "ru": "Атенолол" } },
+        { "text": { "en": "25 mg od", "ru": "25 мг 1 р/сут" } },
+        { "text": { "en": "25–100 mg od", "ru": "25–100 мг 1 р/сут" } },
+        { "text": { "en": "100 mg od", "ru": "100 мг 1 р/сут" } },
+        { "text": { "en": "3 h", "ru": "3 ч" } },
+        { "text": { "en": "2–4 h", "ru": "2–4 ч" } },
+        { "text": { "en": "6–7 h", "ru": "6–7 ч" } },
+        { "text": { "en": "Hepatic (non-CYP450) inactive metabolite", "ru": "Печеночный (не CYP450) в неактивный метаболит" } }
+      ]
+    },
+    {
+      "id": "r13-bisoprolol",
+      "cells": [
+        { "text": { "en": "Bisoprolol", "ru": "Бисопролол" } },
+        { "text": { "en": "2.5 mg od", "ru": "2.5 мг 1 р/сут" } },
+        { "text": { "en": "2.5–10 mg od", "ru": "2.5–10 мг 1 р/сут" } },
+        { "text": { "en": "20 mg od", "ru": "20 мг 1 р/сут" } },
+        { "text": { "en": "1–2 h", "ru": "1–2 ч" } },
+        { "text": { "en": "2–4 h", "ru": "2–4 ч" } },
+        { "text": { "en": "9–12 h", "ru": "9–12 ч" } },
+        { "text": { "en": "Hepatic (CYP3A4 and 2D6) into inactive metabolite", "ru": "Печеночный (CYP3A4 и 2D6) в неактивный метаболит" } }
+      ]
+    },
+    {
+      "id": "r14-carvedilol",
+      "cells": [
+        { "text": { "en": "Carvedilol", "ru": "Карведилол" } },
+        { "text": { "en": "12.5 mg od", "ru": "12.5 мг 1 р/сут" } },
+        { "text": { "en": "12.5–25 mg od", "ru": "12.5–25 мг 1 р/сут" } },
+        { "text": { "en": "25 mg od", "ru": "25 мг 1 р/сут" } },
+        { "text": { "en": "1 h", "ru": "1 ч" } },
+        { "text": { "en": "5 h", "ru": "5 ч" } },
+        { "text": { "en": "7–10 h", "ru": "7–10 ч" } },
+        { "text": { "en": "Hepatic (several CYP450s) active metabolite", "ru": "Печеночный (несколько изоферментов CYP450) в активный метаболит" } }
+      ]
+    },
+    {
+      "id": "r15-metoprolol",
+      "cells": [
+        { "text": { "en": "Metoprolol^[a]", "ru": "Метопролол^[a]" } },
+        { "text": { "en": "25 mg od", "ru": "25 мг 1 р/сут" } },
+        { "text": { "en": "25–100 mg od", "ru": "25–100 мг 1 р/сут" } },
+        { "text": { "en": "400 mg od", "ru": "400 мг 1 р/сут" } },
+        { "text": { "en": "1–2 h", "ru": "1–2 ч" } },
+        { "text": { "en": "1.5–2 h", "ru": "1.5–2 ч" } },
+        { "text": { "en": "3–4 h", "ru": "3–4 ч" } },
+        { "text": { "en": "Hepatic (CYP2D6) inactive metabolite", "ru": "Печеночный (CYP2D6) в неактивный метаболит" } }
+      ]
+    },
+    {
+      "id": "r16-nebivolol",
+      "cells": [
+        { "text": { "en": "Nebivolol", "ru": "Небиволол" } },
+        { "text": { "en": "5 mg od", "ru": "5 мг 1 р/сут" } },
+        { "text": { "en": "5–40 mg od", "ru": "5–40 мг 1 р/сут" } },
+        { "text": { "en": "40 mg od", "ru": "40 мг 1 р/сут" } },
+        { "text": { "en": "1–2 h", "ru": "1–2 ч" } },
+        { "text": { "en": "1.5–4 h", "ru": "1.5–4 ч" } },
+        { "text": { "en": "10–32 h", "ru": "10–32 ч" } },
+        { "text": { "en": "Hepatic (CYP2D6 and UDP-GT) into active metabolite", "ru": "Печеночный (CYP2D6 и UDP-GT) в активный метаболит" } }
+      ]
+    },
+    {
+      "id": "sec-ccb",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 8,
+          "tone": "neutral",
+          "text": {
+            "en": "**Calcium channel blockers (CCBs)**",
+            "ru": "**Блокаторы кальциевых каналов (БКК)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r17-nifedipine",
+      "cells": [
+        { "text": { "en": "Nifedipine^[a]", "ru": "Нифедипин^[a]" } },
+        { "text": { "en": "30 mg od", "ru": "30 мг 1 р/сут" } },
+        { "text": { "en": "30–90 mg od", "ru": "30–90 мг 1 р/сут" } },
+        { "text": { "en": "90 mg od", "ru": "90 мг 1 р/сут" } },
+        { "text": { "en": "30 min", "ru": "30 мин" } },
+        { "text": { "en": "2.5–5 h", "ru": "2.5–5 ч" } },
+        { "text": { "en": "2–5 h", "ru": "2–5 ч" } },
+        { "text": { "en": "Hepatic (CYP3A4) into inactive metabolite", "ru": "Печеночный (CYP3A4) в неактивный метаболит" } }
+      ]
+    },
+    {
+      "id": "r18-amlodipine",
+      "cells": [
+        { "text": { "en": "Amlodipine", "ru": "Амлодипин" } },
+        { "text": { "en": "5 mg od", "ru": "5 мг 1 р/сут" } },
+        { "text": { "en": "5–10 mg od", "ru": "5–10 мг 1 р/сут" } },
+        { "text": { "en": "10 mg od", "ru": "10 мг 1 р/сут" } },
+        { "text": { "en": "2–3 h", "ru": "2–3 ч" } },
+        { "text": { "en": "6–12 h", "ru": "6–12 ч" } },
+        { "text": { "en": "30–50 h", "ru": "30–50 ч" } },
+        { "text": { "en": "Hepatic (CYP3A4 and UDP-GT) into inactive metabolite", "ru": "Печеночный (CYP3A4 и UDP-GT) в неактивный метаболит" } }
+      ]
+    },
+    {
+      "id": "r19-diltiazem",
+      "cells": [
+        { "text": { "en": "Diltiazem^[a]", "ru": "Дилтиазем^[a]" } },
+        { "text": { "en": "180 mg od", "ru": "180 мг 1 р/сут" } },
+        { "text": { "en": "180–420 mg od", "ru": "180–420 мг 1 р/сут" } },
+        { "text": { "en": "480 mg od", "ru": "480 мг 1 р/сут" } },
+        { "text": { "en": "30–60 min", "ru": "30–60 мин" } },
+        { "text": { "en": "2–4 h", "ru": "2–4 ч" } },
+        { "text": { "en": "3–4.5 h", "ru": "3–4.5 ч" } },
+        { "text": { "en": "Hepatic (CYP3A4) into active and inactive metabolite", "ru": "Печеночный (CYP3A4) в активный и неактивный метаболиты" } }
+      ]
+    },
+    {
+      "id": "r20-verapamil",
+      "cells": [
+        { "text": { "en": "Verapamil^[a]", "ru": "Верапамил^[a]" } },
+        { "text": { "en": "80 mg od", "ru": "80 мг 1 р/сут" } },
+        { "text": { "en": "120–360 mg od or bid", "ru": "120–360 мг 1 или 2 р/сут" } },
+        { "text": { "en": "480 mg od or bid", "ru": "480 мг 1 или 2 р/сут" } },
+        { "text": { "en": "1–2 h", "ru": "1–2 ч" } },
+        { "text": { "en": "7–11 h", "ru": "7–11 ч" } },
+        { "text": { "en": "3–7 h", "ru": "3–7 ч" } },
+        { "text": { "en": "Hepatic (CYP3A4) into active metabolite", "ru": "Печеночный (CYP3A4) в активный метаболит" } }
+      ]
+    },
+    {
+      "id": "r21-felodipine",
+      "cells": [
+        { "text": { "en": "Felodipine", "ru": "Фелодипин" } },
+        { "text": { "en": "2.5 mg od", "ru": "2.5 мг 1 р/сут" } },
+        { "text": { "en": "2.5–10 mg od", "ru": "2.5–10 мг 1 р/сут" } },
+        { "text": { "en": "20 mg od", "ru": "20 мг 1 р/сут" } },
+        { "text": { "en": "2–5 h", "ru": "2–5 ч" } },
+        { "text": { "en": "2–5 h", "ru": "2–5 ч" } },
+        { "text": { "en": "10–16 h", "ru": "10–16 ч" } },
+        { "text": { "en": "Hepatic (CYP3A4) into inactive metabolite", "ru": "Печеночный (CYP3A4) в неактивный метаболит" } }
+      ]
+    },
+    {
+      "id": "sec-diuretics",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 8,
+          "tone": "neutral",
+          "text": {
+            "en": "**Diuretics**",
+            "ru": "**Диуретики**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r22-hydrochlorothiazide",
+      "cells": [
+        { "text": { "en": "Hydrochlorothiazide", "ru": "Гидрохлоротиазид" } },
+        { "text": { "en": "12.5 mg od", "ru": "12.5 мг 1 р/сут" } },
+        { "text": { "en": "12.5–50 mg od or bid", "ru": "12.5–50 мг 1 или 2 р/сут" } },
+        { "text": { "en": "50 mg od or bid", "ru": "50 мг 1 или 2 р/сут" } },
+        { "text": { "en": "3–4 d", "ru": "3–4 дня" } },
+        { "text": { "en": "1–2.5 h", "ru": "1–2.5 ч" } },
+        { "text": { "en": "5.6–14.8 h", "ru": "5.6–14.8 ч" } },
+        { "text": { "en": "Not metabolized", "ru": "Не метаболизируется" } }
+      ]
+    },
+    {
+      "id": "r23-furosemide",
+      "cells": [
+        { "text": { "en": "Furosemide", "ru": "Фуросемид" } },
+        { "text": { "en": "20 mg od", "ru": "20 мг 1 р/сут" } },
+        { "text": { "en": "20–80 mg od or bid", "ru": "20–80 мг 1 или 2 р/сут" } },
+        { "text": { "en": "80 mg od or bid", "ru": "80 мг 1 или 2 р/сут" } },
+        { "text": { "en": "30–60 min", "ru": "30–60 мин" } },
+        { "text": { "en": "1–2 h", "ru": "1–2 ч" } },
+        { "text": { "en": "1–1.5 h", "ru": "1–1.5 ч" } },
+        { "text": { "en": "Hepatic 20% (non-CYP3A4) activity of metabolite unknown", "ru": "Печеночный 20% (не CYP3A4), активность метаболита неизвестна" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Extended release formulation.",
+      "ru": "Лекарственная форма с замедленным/модифицированным высвобождением."
+    }
+  },
+  "source": {
+    "expectedRows": 28
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

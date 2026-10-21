@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt12-lipid-lowering-drugs",
+  "guidelineId": "eacts-periop-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 12",
+  "title": {
+    "en": "Recommendations for lipid-lowering drugs",
+    "ru": "Рекомендации по гиполипидемической терапии"
+  },
+  "tags": [
+    "lipid-lowering",
+    "statins",
+    "ezetimibe",
+    "bempedoic-acid",
+    "pcsk9",
+    "cabg",
+    "savr",
+    "tavi",
+    "ldl-c"
+  ],
+  "sections": [
+    {
+      "id": "sec-preoperative-period",
+      "title": {
+        "en": "Preoperative period",
+        "ru": "Предоперационный период"
+      },
+      "rows": [
+        {
+          "id": "r01-statin-initiation-shortly-before-surgery-not-recommended",
+          "text": {
+            "en": "It is not recommended to initiate statin therapy shortly before elective cardiac surgery due to the associated risk of acute renal failure.",
+            "ru": "Не рекомендуется начинать терапию статинами незадолго до плановой кардиохирургической операции из-за ассоциированного риска развития острой почечной недостаточности (ОПН/ОПП)."
+          },
+          "class": "III",
+          "level": "A",
+          "refs": [83, 84]
+        },
+        {
+          "id": "r02-continue-statin-preoperative-dose",
+          "text": {
+            "en": "It should be considered to continue statin therapy at the preoperative dose during the perioperative period.",
+            "ru": "Следует рассмотреть возможность продолжения терапии статинами в предоперационной дозе на протяжении всего периоперационного периода."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [85, 356]
+        }
+      ]
+    },
+    {
+      "id": "sec-postoperative-period",
+      "title": {
+        "en": "Postoperative period",
+        "ru": "Послеоперационный период"
+      },
+      "rows": [
+        {
+          "id": "r03-ldl-c-primary-target",
+          "text": {
+            "en": "LDL-C is recommended as the primary target of lipid-lowering drugs.",
+            "ru": "ХС-ЛПНП (LDL-C) рекомендуется в качестве основной первичной цели гиполипидемической терапии."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [338]
+        },
+        {
+          "id": "r04-intense-statin-after-cabg",
+          "text": {
+            "en": "Intense or maximally tolerated statin therapy is recommended in patients after CABG surgery to reach the LDL-C target <55 mg/dl (1.4 mmol/L) or >50% LDL-C reduction if the baseline LDL-C is between 1.4 and 2.8 mmol/L (55 and 110 mg/dl).",
+            "ru": "Высокоинтенсивная или максимально переносимая терапия статинами рекомендуется пациентам после операции КШ (CABG) для достижения целевого уровня ХС-ЛПНП < 55 мг/дл (1,4 ммоль/л) или его снижения более чем на 50%, если исходный уровень ХС-ЛПНП находится в диапазоне 1,4–2,8 ммоль/л (55–110 мг/дл)."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [338, 345, 350]
+        },
+        {
+          "id": "r05-statin-ezetimibe-combination",
+          "text": {
+            "en": "In patients in whom the LDL-C target <55 mg/dl (1.4 mmol/L) is not reached by statin therapy after CABG surgery, a combination of a statin with ezetimibe is recommended.",
+            "ru": "Пациентам после операции КШ (CABG), у которых целевой уровень ХС-ЛПНП < 55 мг/дл (1,4 ммоль/л) не достигается монотерапией статинами, рекомендуется комбинация статина с эзетимибом."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [348, 345]
+        },
+        {
+          "id": "r06-bempedoic-acid-statin-intolerance",
+          "text": {
+            "en": "Bempedoic acid is recommended with or without ezetimibe in patients who are statin-intolerant^[a].",
+            "ru": "Бемпедоевая кислота рекомендуется с эзетимибом или без него пациентам с непереносимостью статинов^[a]."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [346, 347]
+        },
+        {
+          "id": "r07-pcsk9-inhibitors",
+          "text": {
+            "en": "Use of PCSK9 inhibitors is recommended to reach the LDL-C target if the LDL-C goal is not reached with maximally tolerated statin therapy, despite the addition of ezetimibe.",
+            "ru": "Применение ингибиторов PCSK9 рекомендуется для достижения целевого уровня ХС-ЛПНП, если цель не достигнута на фоне максимально переносимой дозы статина в сочетании с эзетимибом."
+          },
+          "class": "I",
+          "level": "A",
+          "refs": [345, 346, 347, 348, 349, 350, 351]
+        },
+        {
+          "id": "r08-high-adherence-statins-cabg",
+          "text": {
+            "en": "High adherence and persistence to statin therapy are recommended after CABG to reduce mortality and thromboembolic events.",
+            "ru": "Высокая приверженность и непрерывность терапии статинами рекомендуются после КШ (CABG) для снижения смертности и риска тромбоэмболических осложнений."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [4, 340]
+        },
+        {
+          "id": "r09-savr-tavi-statin-therapy",
+          "text": {
+            "en": "In patients undergoing SAVR or TAVI, long-term statin therapy may be considered to improve outcomes.",
+            "ru": "У пациентов, перенесших ХПАК (SAVR) или ТИАК (TAVI), длительная терапия статинами может рассматриваться для улучшения клинических исходов."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [341, 342]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Patients who were unable or unwilling to take statins or unable to tolerate maximum recommended doses to reach the LDL target.",
+      "ru": "Пациенты, которые не могли или не желали принимать статины, либо не переносили максимально рекомендованные дозы для достижения целевого уровня ХС-ЛПНП."
+    }
+  },
+  "source": {
+    "expectedRows": 9
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt07-management-preoperative-anticoagulation",
+  "guidelineId": "eacts-periop-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 7",
+  "title": {
+    "en": "Recommendations for management of preoperative anticoagulation",
+    "ru": "Рекомендации по ведению антикоагулянтной терапии в предоперационном периоде"
+  },
+  "tags": [
+    "anticoagulation",
+    "vka",
+    "doac",
+    "dabigatran",
+    "andexanet-alfa",
+    "idarucizumab",
+    "bridging",
+    "ufh",
+    "lmwh",
+    "cpb"
+  ],
+  "sections": [
+    {
+      "id": "sec-preoperative-period",
+      "title": {
+        "en": "Preoperative period",
+        "ru": "Предоперационный период"
+      },
+      "rows": [
+        {
+          "id": "r01-discontinue-vkas-4-days",
+          "text": {
+            "en": "It is recommended to discontinue VKAs at least 4 days before elective, open-heart surgery to aim for an INR ≤ 1.5 on the day of surgery.",
+            "ru": "Рекомендуется отменить АВК (VKA) как минимум за 4 дня до плановой операции на открытом сердце с целевым уровнем МНО (INR) ≤ 1,5 в день вмешательства."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [176]
+        },
+        {
+          "id": "r02-discontinue-doacs-48-96h",
+          "text": {
+            "en": "It is recommended to discontinue DOAC therapy between 48 and 96 h before elective, open-heart surgery, depending on the drug's half-life and renal function, with no need for routine heparin bridging.",
+            "ru": "Рекомендуется прекратить прием ПОАК (DOAC) за 48–96 часов до плановой операции на открытом сердце в зависимости от периода полувыведения препарата и функции почек, без необходимости рутинной мост-терапии гепарином."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [157, 158, 159, 161]
+        },
+        {
+          "id": "r03-emergency-dabigatran-idarucizumab",
+          "text": {
+            "en": "In emergency, open-heart surgery, idarucizumab should be considered to reverse dabigatran, if needed.",
+            "ru": "При экстренной операции на открытом сердце следует рассмотреть применение идаруцизумаба для нейтрализации эффекта дабигатрана при необходимости."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [197]
+        },
+        {
+          "id": "r04-emergency-cpb-andexanet-alfa-not-recommended",
+          "text": {
+            "en": "In an emergency, open-heart operation involving CPB, andexanet alfa is not recommended in patients on FXa inhibiting DOACs before weaning from CPB.",
+            "ru": "При экстренной операции на открытом сердце в условиях ИК (CPB) применение андексанета альфа не рекомендуется у пациентов, принимавших ингибиторы FXa (ПОАК), до отключения от аппарата ИК."
+          },
+          "class": "III",
+          "level": "C"
+        },
+        {
+          "id": "r05-bridging-vka-high-thrombotic-risk",
+          "text": {
+            "en": "Bridging for VKA is recommended in patients at high thrombotic risk due to:",
+            "ru": "Мост-терапия при отмене АВК (VKA) рекомендуется у пациентов с высоким тромботическим риском вследствие:"
+          },
+          "bullets": [
+            {
+              "text": {
+                "en": "mechanical prosthetic heart valve",
+                "ru": "механического протеза клапана сердца"
+              }
+            },
+            {
+              "text": {
+                "en": "AF with rheumatic valvular disease",
+                "ru": "ФП (AF) с ревматическим пороком сердца"
+              }
+            },
+            {
+              "text": {
+                "en": "acute thrombotic event within the prior 12 weeks",
+                "ru": "острого тромботического события в предшествующие 12 недель"
+              }
+            },
+            {
+              "text": {
+                "en": "acquired or congenital prothrombotic defects^[a]",
+                "ru": "приобретенных или врожденных тромбофилических дефектов^[a]"
+              }
+            },
+            {
+              "text": {
+                "en": "left ventricular apex thrombus.",
+                "ru": "тромба верхушки левого желудочка."
+              }
+            }
+          ],
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r06-bridging-vka-ufh-lmwh",
+          "text": {
+            "en": "Bridging VKA with UFH or LMWH is recommended, if indicated^[b].",
+            "ru": "Проведение мост-терапии АВК (VKA) с помощью НФГ (UFH) или НМГ (LMWH) рекомендуется при наличии показаний^[b]."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [176, 179, 180, 181, 182, 183]
+        },
+        {
+          "id": "r07-stop-preoperative-ufh-aptt",
+          "text": {
+            "en": "In patients on preoperative UFH, it is recommended to stop UFH 2–4 h before surgery and to measure aPTT, to avoid bleeding.",
+            "ru": "У пациентов, получающих предоперационную инфузию НФГ (UFH), рекомендуется прекратить введение НФГ за 2–4 часа до операции и измерить АЧТВ (aPTT) для предотвращения кровотечений."
+          },
+          "class": "I",
+          "level": "C"
+        },
+        {
+          "id": "r08-preoperative-bridging-lmwh-timing",
+          "text": {
+            "en": "In patients on preoperative bridging with LMWH, it is recommended to administer the last dose 12 to 24 h before surgery, depending on the type of LMWH.",
+            "ru": "У пациентов на предоперационной мост-терапии с применением НМГ (LMWH) рекомендуется вводить последнюю дозу за 12–24 часа до операции, в зависимости от конкретного вида НМГ."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [186, 187]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Defects of antithrombin, protein C, protein S, factor V Leiden mutation, antiphospholipid syndrome.",
+      "ru": "Дефицит антитромбина, протеина C, протеина S, мутация фактора V Лейдена, антифосфолипидный синдром."
+    },
+    "b": {
+      "en": "According to the indications provided in the current recommendation table.",
+      "ru": "В соответствии с показаниями, приведенными в данной таблице рекомендаций."
+    }
+  },
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.t05-characteristics-direct-oral-anticoagulant-drugs",
+  "guidelineId": "eacts-periop-2024",
+  "number": "Table 5",
+  "type": "grid",
+  "title": {
+    "en": "Characteristics of the different direct oral anticoagulant drugs",
+    "ru": "Характеристики различных прямых оральных антикоагулянтов (ПОАК/DOAC)"
+  },
+  "tags": [
+    "doac",
+    "anticoagulant",
+    "apixaban",
+    "edoxaban",
+    "rivaroxaban",
+    "dabigatran",
+    "pharmacokinetics",
+    "crcl",
+    "reversal"
+  ],
+  "columns": [
+    {
+      "id": "parameter",
+      "title": { "en": "Parameter", "ru": "Параметр" }
+    },
+    {
+      "id": "apixaban",
+      "title": { "en": "Apixaban", "ru": "Апиксабан" }
+    },
+    {
+      "id": "edoxaban",
+      "title": { "en": "Edoxaban", "ru": "Эдоксабан" }
+    },
+    {
+      "id": "rivaroxaban",
+      "title": { "en": "Rivaroxaban", "ru": "Ривароксабан" }
+    },
+    {
+      "id": "dabigatran",
+      "title": { "en": "Dabigatran", "ru": "Дабигатран" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-target",
+      "cells": [
+        { "text": { "en": "Target", "ru": "Фармакологическая мишень" } },
+        { "text": { "en": "FXa", "ru": "FXa" } },
+        { "text": { "en": "FXa", "ru": "FXa" } },
+        { "text": { "en": "FXa", "ru": "FXa" } },
+        { "text": { "en": "FIIa (active metabolite)", "ru": "FIIa (активный метаболит)" } }
+      ]
+    },
+    {
+      "id": "sec-daily-dosing",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 5,
+          "tone": "neutral",
+          "text": {
+            "en": "**Daily dosing for approved indications:**",
+            "ru": "**Суточное дозирование по зарегистрированным показаниям:**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-non-valvular-af",
+      "cells": [
+        { "text": { "en": "Non-valvular AF", "ru": "Неклапанная ФП" } },
+        { "text": { "en": "5 (or 2.5) mg bid", "ru": "5 (или 2,5) мг 2 р/сут" } },
+        { "text": { "en": "60 (or 30) mg od", "ru": "60 (или 30) мг 1 р/сут" } },
+        { "text": { "en": "20 (or 15) mg od", "ru": "20 (или 15) мг 1 р/сут" } },
+        { "text": { "en": "150 (or 110) mg bid", "ru": "150 (или 110) мг 2 р/сут" } }
+      ]
+    },
+    {
+      "id": "r03-acute-vte",
+      "cells": [
+        { "text": { "en": "Acute VTE", "ru": "Острый ВТЭ (тромбоз глубоких вен / ТЭЛА)" } },
+        { "text": { "en": "10 mg bid (7 days)", "ru": "10 мг 2 р/сут (7 дней)" } },
+        { "text": { "en": "60 mg od", "ru": "60 мг 1 р/сут" } },
+        { "text": { "en": "15 mg bid (21 days)", "ru": "15 мг 2 р/сут (21 день)" } },
+        { "text": { "en": "150 mg bid", "ru": "150 мг 2 р/сут" } }
+      ]
+    },
+    {
+      "id": "r04-chronic-vte",
+      "cells": [
+        { "text": { "en": "Chronic VTE", "ru": "Вторичная профилактика ВТЭ" } },
+        { "text": { "en": "2.5 mg bid", "ru": "2,5 мг 2 р/сут" } },
+        { "text": { "en": "30 mg", "ru": "30 мг" } },
+        { "text": { "en": "10 mg od", "ru": "10 мг 1 р/сут" } },
+        { "text": { "en": "220 mg od", "ru": "220 мг 1 р/сут" } }
+      ]
+    },
+    {
+      "id": "r05-ccs-pvd",
+      "cells": [
+        { "text": { "en": "CCS/PVD", "ru": "ХКС / Заболевания периферических сосудов (ЗПС)" } },
+        { "text": { "en": "–", "ru": "–" } },
+        { "text": { "en": "–", "ru": "–" } },
+        { "text": { "en": "2.5 mg bid (+ASA)", "ru": "2,5 мг 2 р/сут (+АСК)" } },
+        { "text": { "en": "–", "ru": "–" } }
+      ]
+    },
+    {
+      "id": "r06-bioavailability",
+      "cells": [
+        { "text": { "en": "Bioavailability (%)", "ru": "Биодоступность (%)" } },
+        { "text": { "en": "50–60", "ru": "50–60" } },
+        { "text": { "en": "60", "ru": "60" } },
+        { "text": { "en": "80", "ru": "80" } },
+        { "text": { "en": "<10", "ru": "<10" } }
+      ]
+    },
+    {
+      "id": "r07-half-life",
+      "cells": [
+        { "text": { "en": "Half-life (h)", "ru": "Период полувыведения (ч)" } },
+        { "text": { "en": "8–14", "ru": "8–14" } },
+        { "text": { "en": "10–14", "ru": "10–14" } },
+        { "text": { "en": "7–11", "ru": "7–11" } },
+        { "text": { "en": "12–17", "ru": "12–17" } }
+      ]
+    },
+    {
+      "id": "r08-plasma-protein-binding",
+      "cells": [
+        { "text": { "en": "Plasma protein binding (%)", "ru": "Связывание с белками плазмы (%)" } },
+        { "text": { "en": "87", "ru": "87" } },
+        { "text": { "en": "55", "ru": "55" } },
+        { "text": { "en": "92–95", "ru": "92–95" } },
+        { "text": { "en": "35", "ru": "35" } }
+      ]
+    },
+    {
+      "id": "r09-tmax",
+      "cells": [
+        { "text": { "en": "Tmax (h)", "ru": "Tmax (время достижения Cmax, ч)" } },
+        { "text": { "en": "3–4", "ru": "3–4" } },
+        { "text": { "en": "1–2", "ru": "1–2" } },
+        { "text": { "en": "2–4", "ru": "2–4" } },
+        { "text": { "en": "1–2", "ru": "1–2" } }
+      ]
+    },
+    {
+      "id": "r10-renal-clearance",
+      "cells": [
+        { "text": { "en": "Renal clearance (%)", "ru": "Почечный клиренс (%)" } },
+        { "text": { "en": "27–30", "ru": "27–30" } },
+        { "text": { "en": "50", "ru": "50" } },
+        { "text": { "en": "60", "ru": "60" } },
+        { "text": { "en": "85–90", "ru": "85–90" } }
+      ]
+    },
+    {
+      "id": "r11-biotransformation",
+      "cells": [
+        { "text": { "en": "Biotransformation", "ru": "Биотрансформация" } },
+        { "text": { "en": "50% excreted unchanged; ~30% CYP3A4; P-gp and BCRP substrate", "ru": "50% выводится в неизмененном виде; ~30% CYP3A4; субстрат P-gp и BCRP" } },
+        { "text": { "en": "60% excreted unchanged; ~10% CYP3A4; Strong P-gp substrate", "ru": "60% выводится в неизмененном виде; ~10% CYP3A4; сильный субстрат P-gp" } },
+        { "text": { "en": "35% excreted unchanged; ~20% CYP3A4; P-gp and BCRP substrate", "ru": "35% выводится в неизмененном виде; ~20% CYP3A4; субстрат P-gp и BCRP" } },
+        { "text": { "en": "Strong P-gp substrate", "ru": "Сильный субстрат P-gp" } }
+      ]
+    },
+    {
+      "id": "r12-ddi-interactions",
+      "cells": [
+        { "text": { "en": "Clinically relevant drug–drug interactions increasing anticoagulant effect", "ru": "Клинически значимые взаимодействия, усиливающие антикоагулянтный эффект" } },
+        { "text": { "en": "Caution with combined strong inhibitors of 3A4 and P-gp", "ru": "Осторожность при комбинации с мощными ингибиторами CYP3A4 и P-gp" } },
+        { "text": { "en": "Reduced dose with combined strong inhibitors of 3A4 and P-gp", "ru": "Снижение дозы при комбинации с мощными ингибиторами CYP3A4 и P-gp" } },
+        { "text": { "en": "Caution with combined strong inhibitors of 3A4 and P-gp", "ru": "Осторожность при комбинации с мощными ингибиторами CYP3A4 и P-gp" } },
+        { "text": { "en": "DDIs on the P-gp with verapamil, dronedarone, amiodarone", "ru": "Взаимодействия на уровне P-gp с верапамилом, дронедароном, амиодароном" } }
+      ]
+    },
+    {
+      "id": "sec-discontinuation-time",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 5,
+          "tone": "neutral",
+          "text": {
+            "en": "**Discontinuation time before surgery in relation to CrCl:**",
+            "ru": "**Сроки отмены перед операцией в зависимости от КК (CrCl):**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r13-crcl-gt-50",
+      "cells": [
+        { "text": { "en": "CrCl > 50 ml/min", "ru": "КК > 50 мл/мин" } },
+        { "text": { "en": "48 h", "ru": "48 ч" } },
+        { "text": { "en": "48 h", "ru": "48 ч" } },
+        { "text": { "en": "48 h", "ru": "48 ч" } },
+        { "text": { "en": "48 h", "ru": "48 ч" } }
+      ]
+    },
+    {
+      "id": "r14-crcl-30-50",
+      "cells": [
+        { "text": { "en": "CrCl 30–50 ml/min", "ru": "КК 30–50 мл/мин" } },
+        { "text": { "en": "72 h", "ru": "72 ч" } },
+        { "text": { "en": "72 h", "ru": "72 ч" } },
+        { "text": { "en": "72 h", "ru": "72 ч" } },
+        { "text": { "en": "CrCl 30–49^[a] ml/min: 96 h, possibly assess drug concentration", "ru": "КК 30–49^[a] мл/мин: 96 ч, возможно определение концентрации препарата" } }
+      ]
+    },
+    {
+      "id": "r15-crcl-15-30",
+      "cells": [
+        { "text": { "en": "CrCl 15–30 ml/min", "ru": "КК 15–30 мл/мин" } },
+        { "text": { "en": "96 h, possibly assess drug concentration", "ru": "96 ч, возможно определение концентрации препарата" } },
+        { "text": { "en": "96 h, possibly assess drug concentration", "ru": "96 ч, возможно определение концентрации препарата" } },
+        { "text": { "en": "96 h, possibly assess drug concentration", "ru": "96 ч, возможно определение концентрации препарата" } },
+        { "text": { "en": "CrCl <30 ml/min: Contraindicated", "ru": "КК <30 мл/мин: Противопоказан" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r16-crcl-lt-15",
+      "cells": [
+        { "text": { "en": "CrCl < 15 ml/min", "ru": "КК < 15 мл/мин" } },
+        { "text": { "en": "not recommended", "ru": "не рекомендуется" }, "tone": "red" },
+        { "text": { "en": "not recommended", "ru": "не рекомендуется" }, "tone": "red" },
+        { "text": { "en": "not recommended", "ru": "не рекомендуется" }, "tone": "red" },
+        { "text": { "en": "Contraindicated", "ru": "Противопоказан" }, "tone": "red" }
+      ]
+    },
+    {
+      "id": "r17-threshold-bleeding-risk",
+      "cells": [
+        { "text": { "en": "Reference threshold associated with surgical bleeding risk", "ru": "Пороговый уровень, ассоциированный с риском хирургического кровотечения" } },
+        { "text": { "en": "anti-FXa^[b] ≥30 ng/ml", "ru": "анти-FXa^[b] ≥30 нг/мл" } },
+        { "text": { "en": "anti-FXa^[b] ≥30 ng/ml", "ru": "анти-FXa^[b] ≥30 нг/мл" } },
+        { "text": { "en": "anti-FXa^[b] ≥30 ng/ml", "ru": "анти-FXa^[b] ≥30 нг/мл" } },
+        { "text": { "en": "diluted thrombin time >21 s", "ru": "разведенное тромбиновое время >21 с" } }
+      ]
+    },
+    {
+      "id": "r18-antidotes",
+      "cells": [
+        { "text": { "en": "Antidotes", "ru": "Специфические антидоты" } },
+        { "text": { "en": "Andexanet alfa", "ru": "Андексанет альфа" } },
+        { "text": { "en": "Andexanet alfa^[c]", "ru": "Андексанет альфа^[c]" } },
+        { "text": { "en": "Andexanet alfa", "ru": "Андексанет альфа" } },
+        { "text": { "en": "Idarucizumab", "ru": "Идаруцизумаб" } }
+      ]
+    },
+    {
+      "id": "r19-haemostatic-agents",
+      "cells": [
+        { "text": { "en": "Non-specific, haemostatic reversal agents", "ru": "Неспецифические гемостатические средства" } },
+        { "text": { "en": "4 factor-PCC", "ru": "4-факторный КПК (PCC)" } },
+        { "text": { "en": "4 factor-PCC", "ru": "4-факторный КПК (PCC)" } },
+        { "text": { "en": "4 factor-PCC", "ru": "4-факторный КПК (PCC)" } },
+        { "text": { "en": "(Activated) PCC, activated (or recombinant) FVII; haemodialysis, ultrafiltration", "ru": "(Активированный) КПК, активированный (или рекомбинантный) FVII; гемодиализ, ультрафильтрация" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Dabigatran is contraindicated if CrCl <30 mL/min in adult patients and <50 mL/min/1.73 m² in paediatric patients.",
+      "ru": "Дабигатран противопоказан при КК <30 мл/мин у взрослых пациентов и <50 мл/мин/1,73 м² у детей."
+    },
+    "b": {
+      "en": "Anti-FXa activity tests calibrated for the specific agent.",
+      "ru": "Тесты активности анти-FXa, калиброванные для конкретного препарата."
+    },
+    "c": {
+      "en": "Not yet approved, but data from the ANNEXA-4 (Andexanet Alfa, a Novel Antidote to the Anticoagulation Effects of Factor Xa Inhibitors) RCT on reversal of edoxaban have been published (164).",
+      "ru": "Пока не одобрен регуляторами для эдоксабана, однако опубликованы результаты РКИ ANNEXA-4 по нейтрализации эффекта эдоксабана (164)."
+    }
+  },
+  "source": {
+    "expectedRows": 21
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

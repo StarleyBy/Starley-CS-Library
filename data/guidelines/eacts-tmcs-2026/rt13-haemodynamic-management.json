@@ -1,0 +1,68 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt13-haemodynamic-management",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 13",
+  "title": {
+    "en": "Recommendations for Haemodynamic Management",
+    "ru": "Рекомендации по гемодинамическому менеджменту"
+  },
+  "tags": [
+    "tmcs",
+    "haemodynamics",
+    "map",
+    "rv-failure",
+    "tlvad",
+    "pulmonary-hypertension",
+    "afterload",
+    "heart-rate"
+  ],
+  "sections": [
+    {
+      "id": "sec-haemodynamic-management",
+      "title": {
+        "en": "Recommendations for Haemodynamic Management",
+        "ru": "Рекомендации по гемодинамическому менеджменту"
+      },
+      "rows": [
+        {
+          "id": "r01-maintain-map-80-mmhg",
+          "text": {
+            "en": "It is recommended to maintain an MAP ≥ 80 mmHg (≥ 8.66 kPA).",
+            "ru": "Рекомендуется поддерживать среднее артериальное давление (САД / MAP) ≥ 80 мм рт. ст. (≥ 8,66 кПа)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [442]
+        },
+        {
+          "id": "r02-rv-failure-post-capillary-ph-primary-lv-support",
+          "text": {
+            "en": "In patients with RV failure due to post-capillary pulmonary hypertension secondary to LV failure, it is recommended to initiate primary LV support prior to specific support of the RV.",
+            "ru": "У пациентов с правожелудочковой недостаточностью, развившейся вследствие посткапиллярной легочной гипертензии на фоне недостаточности ЛЖ, рекомендуется первоочередная инициация поддержки ЛЖ перед подключением специфической поддержки ПЖ."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [499]
+        },
+        {
+          "id": "r03-tlvad-rv-failure-optimization",
+          "text": {
+            "en": "In patients on a tLVAD, it is recommended that RV failure be managed with optimization of the heart rate and rhythm, volume status, and RV afterload.",
+            "ru": "У пациентов на временном аппарате вспомогательного кровообращения ЛЖ (tLVAD) терапию правожелудочковой недостаточности рекомендуется проводить путем оптимизации ЧСС и сердечного ритма, волемического статуса и постнагрузки ПЖ."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [497]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 3
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

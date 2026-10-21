@@ -81,65 +81,184 @@ function _onScrollSave() {
 //  via a line-index lookup table built at chapter load time.
 // ==========================================================================
 
-let _mdLineCount    = 0;       // total lines in current MD source
-let _elementLineMap = [];      // [{el, lineIndex}] sorted by lineIndex
-let _progressObserver = null;  // IntersectionObserver instance
-let _currentTopLine   = 0;     // last known top visible line
+let _mdLineCount        = 0;       // total lines in current MD source
+let _elementLineMap     = [];      // [{el, lineIndex}] sorted by lineIndex
+let _elementToLine      = new WeakMap(); // Map<Element, number> for O(1) observer lookup
+let _progressObserver   = null;    // IntersectionObserver instance
+let _currentTopLine     = 0;       // last known top visible line
+let _chapterAbortController = null; // AbortController for race condition prevention
+
+/**
+ * Cleans up active chapter resources, observers, and pending timers
+ * before switching chapters or re-rendering to prevent memory leaks.
+ */
+function cleanupChapterLifecycle() {
+    // 1. Disconnect and clear progress IntersectionObserver
+    if (_progressObserver) {
+        try {
+            _progressObserver.disconnect();
+        } catch (e) {}
+        _progressObserver = null;
+    }
+    _elementLineMap = [];
+    _elementToLine = new WeakMap();
+
+    // 2. Disconnect and destroy active TOC HUD instance & observers
+    if (window.currentTocHud && typeof window.currentTocHud.destroy === 'function') {
+        try {
+            window.currentTocHud.destroy();
+        } catch (e) {
+            console.warn('[cleanupChapterLifecycle] TOC destroy error:', e);
+        }
+    }
+
+    // 3. Destroy previous highlighter toolbar & engine
+    if (window.currentHighlighterToolbar && typeof window.currentHighlighterToolbar.destroy === 'function') {
+        try {
+            window.currentHighlighterToolbar.destroy();
+            window.currentHighlighterToolbar = null;
+        } catch (e) {
+            console.warn('[cleanupChapterLifecycle] Highlighter destroy error:', e);
+        }
+    }
+
+    // 4. Clear pending debounced timers
+    if (_scrollSaveTimer) {
+        clearTimeout(_scrollSaveTimer);
+        _scrollSaveTimer = null;
+    }
+}
+
+/**
+ * Safely renders LaTeX math in an element using KaTeX auto-render
+ * with strict error isolation so invalid math never breaks page rendering.
+ */
+function safeRenderMath(element) {
+    if (typeof renderMathInElement !== 'function' || !element) return;
+    try {
+        renderMathInElement(element, {
+            delimiters: [
+                { left: '$$', right: '$$', display: true },
+                { left: '$', right: '$', display: false },
+                { left: '\\[', right: '\\]', display: true },
+                { left: '\\(', right: '\\)', display: false }
+            ],
+            throwOnError: false, // Prevents fatal script failure on broken LaTeX
+            errorColor: '#e53935'
+        });
+    } catch (err) {
+        console.warn('[KaTeX safeRenderMath warning]:', err);
+    }
+}
 
 /**
  * Called after a new chapter loads.
  * Receives raw MD text + the rendered content root.
+ * Optimized to O(N + M) linear scan to eliminate main thread freeze on large books.
  */
 function _initMdProgress(mdText, contentRoot) {
-    _mdLineCount = mdText.split('\n').length;
+    if (!contentRoot || !mdText) return;
+
+    const mdLines = mdText.split('\n');
+    _mdLineCount = mdLines.length;
     _elementLineMap = [];
+    _elementToLine = new WeakMap();
     _currentTopLine = 0;
 
-    if (_progressObserver) _progressObserver.disconnect();
+    if (_progressObserver) {
+        try { _progressObserver.disconnect(); } catch (e) {}
+        _progressObserver = null;
+    }
 
-    // Build a lookup: for each block-level child of contentRoot,
-    // find the best matching line in the MD source.
+    // 1. Preprocess MD lines once in O(M)
+    const processedLines = [];
+    for (let i = 0; i < mdLines.length; i++) {
+        const stripped = mdLines[i]
+            .replace(/^[#*>\-\d.\[\]!`|]+\s*/g, '')
+            .replace(/<[^>]*>/g, '') // strip inline HTML tags
+            .replace(/[*_~`$]/g, '')  // strip markdown bold/italic/code/math markers
+            .trim();
+        if (stripped.length >= 3) {
+            processedLines.push({
+                lineIndex: i,
+                lower: stripped.toLowerCase()
+            });
+        }
+    }
+
+    const totalProcessed = processedLines.length;
+    if (totalProcessed === 0) return;
+
+    // 2. Select block-level children
     const blocks = contentRoot.querySelectorAll(
         'p, h1, h2, h3, h4, h5, h6, li, tr, details, blockquote, pre, figure, table'
     );
 
-    const mdLines = mdText.split('\n');
-
+    // 3. Monotonic sequential scan O(N + M)
+    let lineCursor = 0;
     blocks.forEach((el) => {
-        // Get first ~60 chars of the element's plain text for matching
-        const snippet = (el.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 60);
+        const rawSnippet = (el.textContent || '').replace(/\s+/g, ' ').trim();
+        const snippet = rawSnippet
+            .replace(/<[^>]*>/g, '')
+            .replace(/[*_~`$]/g, '')
+            .slice(0, 60);
         if (!snippet) return;
 
-        // Find the best matching line in MD (case-insensitive, stripped of markdown syntax)
-        let bestLine = 0;
-        let bestScore = 0;
-        for (let i = 0; i < mdLines.length; i++) {
-            const stripped = mdLines[i].replace(/^[#*>\-\d.\[\]!`|]+\s*/g, '').trim();
-            if (stripped.length < 4) continue;
-            // Simple overlap score: how many chars of snippet appear in the line
-            const overlapLen = Math.min(stripped.length, 30);
-            const needle = snippet.slice(0, overlapLen).toLowerCase();
-            if (stripped.toLowerCase().includes(needle.slice(0, 20))) {
-                // Score = position-weighted (prefer earlier match for same snippet)
-                const score = overlapLen - i * 0.001;
-                if (score > bestScore) { bestScore = score; bestLine = i; }
+        const overlapLen = Math.min(snippet.length, 30);
+        const needle = snippet.slice(0, Math.min(overlapLen, 20)).toLowerCase();
+        if (needle.length < 3) return;
+
+        let foundLine = null;
+
+        // Search forward in local window from cursor
+        const windowSize = 150;
+        const limit = Math.min(lineCursor + windowSize, totalProcessed);
+        for (let j = lineCursor; j < limit; j++) {
+            if (processedLines[j].lower.includes(needle)) {
+                foundLine = processedLines[j].lineIndex;
+                lineCursor = j;
+                break;
             }
         }
-        _elementLineMap.push({ el, lineIndex: bestLine });
+
+        // If not found in forward window, search rest of document forward
+        if (foundLine === null) {
+            for (let j = limit; j < totalProcessed; j++) {
+                if (processedLines[j].lower.includes(needle)) {
+                    foundLine = processedLines[j].lineIndex;
+                    lineCursor = j;
+                    break;
+                }
+            }
+        }
+
+        // Fallback: check before cursor if document had out-of-order blocks
+        if (foundLine === null) {
+            for (let j = 0; j < lineCursor; j++) {
+                if (processedLines[j].lower.includes(needle)) {
+                    foundLine = processedLines[j].lineIndex;
+                    break;
+                }
+            }
+        }
+
+        if (foundLine !== null) {
+            _elementLineMap.push({ el, lineIndex: foundLine });
+            _elementToLine.set(el, foundLine);
+        }
     });
 
     // Sort by lineIndex ascending
     _elementLineMap.sort((a, b) => a.lineIndex - b.lineIndex);
 
-    // Use IntersectionObserver to track topmost visible element
+    // Use IntersectionObserver with O(1) WeakMap lookup for smooth 60 FPS scroll sync
     _progressObserver = new IntersectionObserver((entries) => {
-        // Find minimum lineIndex among currently intersecting elements
         let minLine = null;
         entries.forEach(entry => {
             if (entry.isIntersecting) {
-                const found = _elementLineMap.find(m => m.el === entry.target);
-                if (found && (minLine === null || found.lineIndex < minLine)) {
-                    minLine = found.lineIndex;
+                const lineIndex = _elementToLine.get(entry.target);
+                if (lineIndex !== undefined && (minLine === null || lineIndex < minLine)) {
+                    minLine = lineIndex;
                 }
             }
         });
@@ -212,13 +331,24 @@ function labelDetailsDepth(root) {
 }
 
 async function loadChapter(bookPath, chapterId, edition) {
-    // Save scroll for previous chapter before switching
+    // 1. Abort any previous pending chapter fetch to prevent race conditions
+    if (_chapterAbortController) {
+        _chapterAbortController.abort();
+    }
+    _chapterAbortController = new AbortController();
+    const signal = _chapterAbortController.signal;
+
+    // 2. Save scroll for previous chapter before switching
     if (_currentChapterId && _currentChapterId !== chapterId) {
         ReaderSettings.setScroll(_currentChapterId, window.scrollY);
     }
     _currentChapterId = chapterId;
 
+    // 3. Clean up active lifecycle resources (observers, toolbars, timers)
+    cleanupChapterLifecycle();
+
     const area = document.getElementById('content-area');
+    if (!area) return;
     area.innerHTML = '<p class="loading">Loading content...</p>';
 
     try {
@@ -237,13 +367,13 @@ async function loadChapter(bookPath, chapterId, edition) {
         let url = `${BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}${suffix}.md`;
         console.log(`[DEBUG] Attempting to load: ${url}`);
 
-        let response = await fetch(url);
+        let response = await fetch(url, { signal });
 
         if (!response.ok) {
             console.warn(`${edition} version not found, falling back to original.`);
             url = `${BASE_URL}${bookPath}/chapters/${parentFolder}/${chapterId}.md`;
             console.log(`[DEBUG] Fallback attempt: ${url}`);
-            response = await fetch(url);
+            response = await fetch(url, { signal });
         }
 
         if (!response.ok) {
@@ -251,6 +381,7 @@ async function loadChapter(bookPath, chapterId, edition) {
         }
 
         let md = await response.text();
+        if (signal.aborted) return;
         const rawMd = md; // preserve original for line counting
 
         // --- Protect LaTeX math from marked.js mangling ---
@@ -266,10 +397,14 @@ async function loadChapter(bookPath, chapterId, edition) {
             return id;
         }
 
-        md = md.replace(/\\\[\s*([\s\S]*?)\s*\\\]/g, (_, tex) => storeMath(tex, true));
-        md = md.replace(/\$\$([\s\S]*?)\$\$/g, (_, tex) => storeMath(tex, true));
-        md = md.replace(/\\\(\s*([\s\S]*?)\s*\\\)/g, (_, tex) => storeMath(tex, false));
-        md = md.replace(/\$([^\n$][^$]*?)\$/g, (_, tex) => storeMath(tex, false));
+        try {
+            md = md.replace(/\\\[\s*([\s\S]*?)\s*\\\]/g, (_, tex) => storeMath(tex, true));
+            md = md.replace(/\$\$([\s\S]*?)\$\$/g, (_, tex) => storeMath(tex, true));
+            md = md.replace(/\\\(\s*([\s\S]*?)\s*\\\)/g, (_, tex) => storeMath(tex, false));
+            md = md.replace(/\$([^\n$][^$]*?)\$/g, (_, tex) => storeMath(tex, false));
+        } catch (mathErr) {
+            console.warn('[Math protection warning]:', mathErr);
+        }
 
         md = md.replace(/\[\[(.*?)\]\]/g, '<span class="oval">$1</span>');
         md = md.replace(/<mark class="m-([^"]+)">/g, '<span class="m-$1">');
@@ -306,43 +441,65 @@ async function loadChapter(bookPath, chapterId, edition) {
         
         area.innerHTML = marked.parse(md);
 
-        if (mathStore.length > 0) {
-            let html = area.innerHTML;
-            mathStore.forEach(({ id, tex, display }) => {
-                const escaped = id.replace(/\x02/g, '&#x2;').replace(/\x03/g, '&#x3;');
-                [id, escaped].forEach(key => {
-                    if (html.includes(key)) {
-                        let rendered;
-                        try {
-                            rendered = katex.renderToString(tex, {
-                                displayMode: display,
-                                throwOnError: false,
-                                errorColor: '#e53935',
-                            });
-                        } catch (e) {
-                            rendered = `<span style="color:#e53935">[math error: ${tex}]</span>`;
+        // --- Safe Math Rendering (Error Boundary) ---
+        try {
+            if (mathStore.length > 0) {
+                let html = area.innerHTML;
+                const hasKatex = typeof katex !== 'undefined' && typeof katex.renderToString === 'function';
+                mathStore.forEach(({ id, tex, display }) => {
+                    const escaped = id.replace(/\x02/g, '&#x2;').replace(/\x03/g, '&#x3;');
+                    [id, escaped].forEach(key => {
+                        if (html.includes(key)) {
+                            let rendered;
+                            if (hasKatex) {
+                                try {
+                                    rendered = katex.renderToString(tex, {
+                                        displayMode: display,
+                                        throwOnError: false,
+                                        errorColor: '#e53935',
+                                    });
+                                } catch (e) {
+                                    console.warn('[KaTeX Render Warning]:', e, tex);
+                                    rendered = `<span class="math-error" style="color:#e53935; font-style:italic;" title="${e.message}">[math error: ${tex}]</span>`;
+                                }
+                            } else {
+                                rendered = `<code class="math-fallback">${display ? '$$' + tex + '$$' : '$' + tex + '$'}</code>`;
+                            }
+                            html = html.split(key).join(rendered);
                         }
-                        html = html.split(key).join(rendered);
-                    }
+                    });
                 });
-            });
-            area.innerHTML = html;
+                area.innerHTML = html;
+            }
+        } catch (mathErr) {
+            console.warn('[KaTeX Error Boundary caught an exception]:', mathErr);
         }
+
+        // Additional safe math pass for unescaped inline/block equations
+        safeRenderMath(area);
         
         setTimeout(() => {
+            if (signal.aborted) return;
+
             area.querySelectorAll('img').forEach(img => {
                 const rawSrc = img.getAttribute('src');
+                let localFallback = '';
                 if (rawSrc) {
                     const r2Prefix = window.R2_MEDIA_BASE_URL ? window.R2_MEDIA_BASE_URL.replace(/\/$/, '') : '';
+                    const fileName = rawSrc.split('?')[0].split('#')[0].split('/').pop();
+                    const relativePath = `${bookPath}/chapters/${imagesFolder}/images/${fileName}`;
+                    localFallback = (typeof BASE_URL !== 'undefined' ? BASE_URL : './') + relativePath;
                     if (!r2Prefix || !rawSrc.startsWith(r2Prefix)) {
-                        const fileName = rawSrc.split('?')[0].split('#')[0].split('/').pop();
-                        const relativePath = `${bookPath}/chapters/${imagesFolder}/images/${fileName}`;
                         if (typeof window.getImageUrl === 'function') {
                             img.src = window.getImageUrl(relativePath);
                         }
                     }
                 }
                 img.onerror = function() {
+                    if (localFallback && this.src !== localFallback) {
+                        this.src = localFallback;
+                        return;
+                    }
                     this.onerror = null;
                     this.src = 'assets/img/book-placeholder.png';
                     this.classList.add('cover-fallback');
@@ -359,6 +516,7 @@ async function loadChapter(bookPath, chapterId, edition) {
                 window.TaxonomyBridge.attachBannersToDetails(area, taxonomyCtx);
             } else {
                 setTimeout(() => {
+                    if (signal.aborted) return;
                     if (window.TaxonomyBridge) {
                         window.TaxonomyBridge.attachBannersToDetails(area, taxonomyCtx);
                     }
@@ -417,6 +575,10 @@ async function loadChapter(bookPath, chapterId, edition) {
             window.dispatchEvent(new CustomEvent('reader:chapterChanged'));
         }, 0);
     } catch (e) {
+        if (e.name === 'AbortError' || signal.aborted) {
+            console.log(`[loadChapter] Aborted loading chapter: ${chapterId}`);
+            return; // Ignore intentional abort without overwriting content with error
+        }
         area.innerHTML = `<div class="error">Error loading chapter: ${e.message}</div>`;
         console.error("Failed to load chapter:", e);
     }
@@ -1587,3 +1749,11 @@ function _handleDeepLinkJump() {
         }, 300);
     }
 }
+
+// Expose core reader APIs globally
+if (typeof window !== 'undefined') {
+    window.loadChapter = loadChapter;
+    window.cleanupChapterLifecycle = cleanupChapterLifecycle;
+    window.safeRenderMath = safeRenderMath;
+}
+

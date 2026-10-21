@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt29-tmcs-teams",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 29",
+  "title": {
+    "en": "Recommendations for the tMCS Teams",
+    "ru": "Рекомендации для команд временной механической поддержки кровообращения (tMCS Teams)"
+  },
+  "tags": [
+    "tmcs",
+    "tmcs-teams",
+    "simulation-training",
+    "checklists",
+    "time-out",
+    "safety-culture",
+    "debriefing",
+    "quality-improvement"
+  ],
+  "sections": [
+    {
+      "id": "sec-tmcs-teams",
+      "title": {
+        "en": "Recommendations for the tMCS Teams",
+        "ru": "Рекомендации для команд ВМПК"
+      },
+      "rows": [
+        {
+          "id": "r01-routine-didactic-simulation-based-training",
+          "text": {
+            "en": "Routine didactic and simulation-based training is recommended.",
+            "ru": "Рекомендуется регулярное проведение теоретического и симуляционного обучения для членов команды ВМПК."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [823, 828, 832, 839, 840, 845, 852, 854]
+        },
+        {
+          "id": "r02-time-out-procedures-and-checklists",
+          "text": {
+            "en": "Time-out procedures and checklists are recommended to increase safety.",
+            "ru": "Для повышения безопасности процедур рекомендуется строгое соблюдение регламента «тайм-аут» (time-out) и использование стандартизированных чек-листов."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [779]
+        },
+        {
+          "id": "r03-institutional-protocols-device-selection-treatment-pathways",
+          "text": {
+            "en": "Institutional protocols for tailored device selection and treatment pathways are recommended to increase safety and outcomes.",
+            "ru": "Для повышения безопасности и улучшения клинических исходов рекомендуется разработка внутрибольничных протоколов дифференцированного выбора устройств и маршрутизации пациентов."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [14, 834]
+        },
+        {
+          "id": "r04-routine-team-meetings-regular-post-procedural-debriefings",
+          "text": {
+            "en": "Routine team meetings and regular post-procedural debriefings are recommended to promote a culture of safety.",
+            "ru": "Для формирования и поддержания культуры безопасности рекомендуются регулярные командные собрания и систематический разбор прошедших процедур (дебрифинг / debriefing)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r05-ecls-quality-improvement-committee-monthly",
+          "text": {
+            "en": "It is recommended that all ECLS programmes have a performance and quality improvement committee that meets at least monthly.",
+            "ru": "Рекомендуется, чтобы во всех центрах с программами ЭКМО (ECLS) функционировал комитет по оценке эффективности и контролю качества оказания помощи, собирающийся не реже одного раза в месяц."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

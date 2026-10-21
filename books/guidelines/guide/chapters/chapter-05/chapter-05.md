@@ -324,6 +324,8 @@ There are no specific data on the epidemiology of the NDLVC phenotype, but patie
 
 <span id="table-4"></span>**TABLE 4** Key epidemiological metrics in adults and children for the different cardiomyopathy phenotypes
 
+[📋 Interactive Table: Key epidemiological metrics in adults and children for the different cardiomyopathy phenotypes](#/tables/esc-cmp-2023.t04-epidemiological-metrics)
+
 | Cardiomyopathy phenotype | Adults | Children |
 |--------------------------|--------|----------|
 | HCM | Prevalence: 0.2% | Childhood incidence: 0.002–0.005%; Childhood prevalence: 0.029% |
@@ -381,6 +383,8 @@ A shared care approach between cardiomyopathy specialists and general adult and 
 
 <span id="recommendation-table-1"></span>**Recommendation Table 1 – Recommendations for the provision of service of multidisciplinary cardiomyopathy teams**
 
+[📋 Interactive Table: Recommendations for the provision of service of multidisciplinary cardiomyopathy teams](#/tables/esc-cmp-2023.rt01-multidisciplinary-teams)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | It is recommended that all patients with cardiomyopathy and their relatives have access to multidisciplinary teams with expertise in the diagnosis and management of cardiomyopathies. | I | C |
@@ -425,6 +429,8 @@ This approach should result in a timely and accurate diagnosis to enable early t
 
 <span id="recommendation-table-2"></span>**Recommendation Table 2 – Recommendations for diagnostic work-up in cardiomyopathies**
 
+[📋 Interactive Table: Recommendations for diagnostic work-up in cardiomyopathies](#/tables/esc-cmp-2023.rt02-diagnostic-workup)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | It is recommended that all patients with suspected or established cardiomyopathy undergo systematic evaluation using a multiparametric approach that includes clinical evaluation, pedigree analysis, ECG, Holter monitoring, laboratory tests, and multimodality imaging. | I | C |
@@ -444,6 +450,8 @@ Patients with cardiomyopathy may experience dyspnoea, chest pain, palpitation, a
 
 <span id="table-5"></span>**TABLE 5** Examples of inheritance patterns that should raise the suspicion of specific genetic aetiologies, grouped according to cardiomyopathy phenotype
 
+[📋 Interactive Table: Examples of inheritance patterns that should raise the suspicion of specific genetic aetiologies, grouped according to cardiomyopathy phenotype](#/tables/esc-cmp-2023.t05-inheritance-patterns)
+
 | Cardiomyopathy phenotype | AD | AR | X-linked | Matrilineal |
 |--------------------------|----|----|----------|-------------|
 | HCM | Sarcomeric | – | Anderson-Fabry, Danon | TTR amyloidosis, RASopathy (X), Friedreich ataxia, Mitochondrial |
@@ -456,6 +464,8 @@ Patients with cardiomyopathy may experience dyspnoea, chest pain, palpitation, a
 AD = autosomal dominant; AR = autosomal recessive; DES = desmin; FLNC = filamin C; LMNA = lamin A/C; PLN = phospholamban; RASopathy = RAS-MAPK pathway disorder; RBM20 = RNA binding motif protein 20; TMEM43 = transmembrane protein 43; TTR = transthyretin. (X) indicates the presence of a correlation between a cardiomyopathy and a pattern of inheritance.
 
 <span id="table-6"></span>**TABLE 6** Examples of signs and symptoms that should raise the suspicion of specific aetiologies, grouped according to cardiomyopathy phenotype
+
+[📋 Interactive Table: Examples of signs and symptoms that should raise the suspicion of specific aetiologies, grouped according to cardiomyopathy phenotype](#/tables/esc-cmp-2023.t06-signs-and-symptoms)
 
 | Finding | HCM | DCM | NDLVC | ARVC | RCM |
 |---------|-----|-----|-------|------|-----|
@@ -485,6 +495,8 @@ The resting 12-lead ECG is often the first test that suggests the possibility of
 Patients with cardiomyopathy may seek cardiology evaluation due to arrhythmia-related symptoms or documented arrhythmia, including bradyarrhythmias and tachyarrhythmias, ranging from symptomatic atrial/ventricular premature beats to life-threatening ventricular arrhythmias. The frequency of arrhythmias detected during ambulatory electrocardiographic monitoring is age related and variable across different cardiomyopathy subtypes. Some arrhythmias are relatively common in the context of cardiomyopathy (e.g. atrial fibrillation [AF] or ventricular premature beats), while others may suggest a specific diagnosis. ECG monitoring is therefore useful at the initial clinical assessment and at regular intervals to assess the risk of SCD and stroke.
 
 <span id="table-7"></span>**TABLE 7** Examples of electrocardiographic features that should raise the suspicion of specific aetiologies, grouped according to cardiomyopathy phenotype
+
+[📋 Interactive Table: Examples of electrocardiographic features that should raise the suspicion of specific aetiologies, grouped according to cardiomyopathy phenotype](#/tables/esc-cmp-2023.t07-ecg-features)
 
 | Cardiomyopathy phenotype | Finding | Specific diseases to be considered |
 |--------------------------|---------|-----------------------------------|
@@ -517,12 +529,16 @@ Routine laboratory testing aids the detection of extracardiac conditions that ca
 
 <span id="recommendation-table-3"></span>**Recommendation Table 3 – Recommendations for laboratory tests in the diagnosis of cardiomyopathies**
 
+[📋 Interactive Table: Recommendations for laboratory tests in the diagnosis of cardiomyopathies](#/tables/esc-cmp-2023.rt03-laboratory-tests)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Routine (first-level) laboratory tests are recommended in all patients with suspected or confirmed cardiomyopathy to evaluate aetiology, assess disease severity, and aid in detection of extracardiac manifestations and assessment of secondary organ dysfunction. | I | C |
 | Additional (second-level) tests should be considered in patients with cardiomyopathy and extracardiac features to aid in detection of metabolic and syndromic causes, following specialist evaluation. | IIa | C |
 
 <span id="table-8"></span>**TABLE 8** First-level (to be performed in each patient) and second-level (to be performed in selected patients following specialist evaluation to identify specific aetiologies) laboratory tests, grouped by cardiomyopathy phenotype
+
+[📋 Interactive Table: First-level and second-level laboratory tests, grouped by cardiomyopathy phenotype](#/tables/esc-cmp-2023.t08-laboratory-tests-panel)
 
 | Level | HCM | DCM | NDLVC | ARVC | RCM |
 |-------|-----|-----|-------|------|-----|
@@ -559,6 +575,8 @@ When measuring cardiac dimensions and wall thickness in children, it is importan
 
 <span id="recommendation-table-4"></span>**Recommendation Table 4 – Recommendation for echocardiographic evaluation in patients with cardiomyopathy**
 
+[📋 Interactive Table: Recommendation for echocardiographic evaluation in patients with cardiomyopathy](#/tables/esc-cmp-2023.rt04-echocardiography)
+
 | Recommendation | Class | Level |
 |----------------|-------|-------|
 | A comprehensive evaluation of cardiac dimensions and LV and RV systolic (global and regional) and LV diastolic function is recommended in all patients with cardiomyopathy at initial evaluation, and during follow-up, to monitor disease progression and aid risk stratification and management. | I | B |
@@ -581,6 +599,8 @@ The use of gadolinium contrast is generally not advised in pregnancy due to the 
 
 <span id="recommendation-table-5"></span>**Recommendation Table 5 – Recommendations for cardiac magnetic resonance indication in patients with cardiomyopathy**
 
+[📋 Interactive Table: Recommendations for cardiac magnetic resonance indication in patients with cardiomyopathy](#/tables/esc-cmp-2023.rt05-cmr-indications)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Contrast-enhanced CMR is recommended in patients with cardiomyopathy at initial evaluation. | I | B |
@@ -594,6 +614,8 @@ The use of gadolinium contrast is generally not advised in pregnancy due to the 
 **Figure 7** Examples of cardiac magnetic resonance imaging tissue characterization features that should raise the suspicion of specific aetiologies, grouped according to cardiomyopathy phenotype. The figure shows characteristic LGE patterns: subepicardial inferolateral in myocarditis/sarcoidosis; mid-wall septal in DCM/NDLVC; subepicardial ring-like in DSP/FLNC/PLN; diffuse subendocardial in amyloidosis; patchy with insertion point involvement in HCM.
 
 <span id="table-9"></span>**TABLE 9** Frequently encountered actionable results on multimodality imaging
+
+[📋 Interactive Table: Frequently encountered actionable results on multimodality imaging](#/tables/esc-cmp-2023.t09-multimodality-imaging)
 
 | Parameter/finding | Action |
 |-------------------|--------|
@@ -623,6 +645,8 @@ CT-based imaging is primarily used in patients with a suspicion of cardiomyopath
 
 <span id="recommendation-table-6"></span>**Recommendation Table 6 – Recommendations for computed tomography and nuclear imaging**
 
+[📋 Interactive Table: Recommendations for computed tomography and nuclear imaging](#/tables/esc-cmp-2023.rt06-ct-nuclear-imaging)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | DPD/PYP/HMDP bone-tracer scintigraphy is recommended in patients with suspected ATTR-related cardiac amyloidosis to aid diagnosis. | I | B |
@@ -639,6 +663,8 @@ CT-based imaging is primarily used in patients with a suspicion of cardiomyopath
 Endomyocardial biopsy (EMB) with immunohistochemical quantification of inflammatory cells and identification of viral genomes remains the gold standard for the identification of cardiac inflammation. It may confirm the diagnosis of autoimmune disease in patients with unexplained heart failure and suspected giant cell myocarditis, eosinophilic myocarditis, vasculitis, and sarcoidosis. Electron microscopy should be employed when storage or mitochondrial cardiomyopathies are suspected. EMB should be reserved for specific situations where its results may affect treatment after careful evaluation of the risk-benefit ratio. Importantly, EMB is not completely risk-free and should be performed by experienced teams. Likewise, the diagnostic work-up of a biopsy should be performed by pathologists with expertise in cardiomyopathies.
 
 <span id="recommendation-table-7"></span>**Recommendation Table 7 – Recommendation for endomyocardial biopsy in patients with cardiomyopathy**
+
+[📋 Interactive Table: Recommendation for endomyocardial biopsy in patients with cardiomyopathy](#/tables/esc-cmp-2023.rt07-endomyocardial-biopsy)
 
 | Recommendation | Class | Level |
 |----------------|-------|-------|
@@ -661,6 +687,8 @@ Familial forms of cardiomyopathies show diverse modes of inheritance. Gene ident
 Across the different cardiomyopathies, the proportion of cases with a confident genetic diagnosis (that is with identification of a likely causal Mendelian genetic variant) is relatively low (e.g. as low as ~40% in HCM and ~30% in DCM). Genome-wide association studies of common variants in HCM and DCM have provided empirical evidence for substantial polygenic inheritance in these cardiomyopathies. Contrary to Mendelian inheritance, where a single, large-effect variant primarily determines susceptibility to the disorder, complex inheritance rests on the co-inheritance of multiple susceptibility variants. Although not yet studied systematically, besides common variants of small effect, intermediate-effect variants with effect sizes and frequencies between common and Mendelian variants are also expected to contribute to such complex inheritance. It is likely that cardiomyopathies span a continuum of genetic complexity, with Mendelian forms at one end, determined primarily by the inheritance of an ultrarare large-effect genetic variant, and highly polygenic forms at the other. Variants that contribute to disease susceptibility in the setting of complex inheritance likely overlap with those that modulate disease penetrance and expressivity in the Mendelian form of the disease.
 
 <span id="table-10"></span>**TABLE 10** Overview of genes associated with monogenic, non-syndromic cardiomyopathies, and their relative contributions to different cardiomyopathic phenotypes
+
+[📋 Interactive Table: Overview of genes associated with monogenic, non-syndromic cardiomyopathies, and their relative contributions to different cardiomyopathic phenotypes](#/tables/esc-cmp-2023.t10-genes-overview)
 
 [Due to the large size of Table 10 (spanning pages 28-30 of the original PDF, covering genes such as ABCC9, ACTA1, ACTC1, ACTN2, ANKRD1, BAG3, CALR3, CAV3, CRYAB, CSRP3, DES, DMD, DSC2, DSG2, DSP, EMD, FHL1, FKRP, FKTN, FLNC, GATA4, GLA, HCN4, JPH2, JUP, LAMA4, LAMP2, LMNA, MIB1, MURC, MYBPC3, MYH6, MYH7, MYL2, MYL3, MYLK2, MYOZ2, MYPN, NEBL, NEXN, NKX2-5, PDLIM3, PKP2, PLN, PRDM16, PRKAG2, PTPN11, RAF1, RBM20, RIT1, RRAS, SCN5A, SGCD, SHOC2, SLC25A4, SOS1, TAZ, TCAP, TGFB3, TMEM43, TMPO, TNNC1, TNNI3, TNNT2, TPM1, TTN, TTR, VCL, ZASP/LDB3 — the full table is preserved in the source material and available upon request from the ESC.]
 
@@ -687,6 +715,8 @@ Sequencing may also be indicated for segregation analysis (rather than as a diag
 Finally, the evaluation of cardiac genes for secondary findings where data are generated in the setting of genetic testing for another clinical indication (also referred to as opportunistic screening) may be reasonable where the balance of benefits and harm is known, and if the cost is acceptable. Broader population screening might also prove reasonable if the balance of benefits and harm proves favourable. At present there is insufficient data to evaluate the balance of benefits and harm in either context, and this should currently only be performed in a research context in order to obtain such data. Careful genetic counselling to fully explain benefits and risks in this setting is critical. At present, there are very little data to evaluate this balance and this is an important evidence gap. In the United States of America, the American College of Medical Genetics and Genomics has recommended that cardiomyopathy-associated genes be evaluated for secondary findings whenever broad clinical sequencing is undertaken, regardless of the initial indication for testing. There is currently no international consensus around this recommendation.
 
 <span id="table-11"></span>**TABLE 11** Utility of genetic testing in cardiomyopathies
+
+[📋 Interactive Table: Utility of genetic testing in cardiomyopathies](#/tables/esc-cmp-2023.t11-utility-of-genetic-testing)
 
 **For the patient**
 - **Diagnosis:** A genetic diagnosis confirms the aetiology of cardiomyopathy, even when the clinical diagnosis is already certain. It can be valuable in clarifying the cause in cases where LVH is observed in the context of mild or controlled hypertension but the clinician is not able to confidently distinguish between early sarcomeric HCM and a hypertensive phenocopy. Genetic testing can also identify genocopies: distinct genetic conditions that mimic a particular cardiomyopathy.
@@ -733,6 +763,8 @@ There are specific issues to be considered when counselling children and their f
 
 <span id="table-12"></span>**TABLE 12** Specific issues to consider when counselling children
 
+[📋 Interactive Table: Specific issues to consider when counselling children](#/tables/esc-cmp-2023.t12-counselling-children)
+
 | Issue | Implications |
 |-------|--------------|
 | Autonomy | Competence of child to decide on testing |
@@ -756,6 +788,8 @@ There are specific issues to be considered when counselling children and their f
 One critical role for genetic counselling is that it should be done alongside genetic testing (see Section 6.8.2). This includes a discussion prior to a decision to undertake genetic testing (pre-test), and at the time of the return of the results (post-test). Key discussion points during pre- and post-test counselling are summarized in Table 13.
 
 <span id="table-13"></span>**TABLE 13** Key discussion points of pre- and post-test genetic counselling
+
+[📋 Interactive Table: Key discussion points of pre- and post-test genetic counselling](#/tables/esc-cmp-2023.t13-pre-post-test-counselling)
 
 | Pre-test genetic counselling | Post-test genetic counselling |
 |------------------------------|-------------------------------|
@@ -798,6 +832,8 @@ Pre-natal or pre-implantation genetic testing can be offered to parents who have
 | Pre-implantation genetic diagnosis | IVF procedure with a success rate of 25–30% per embryo transfer though dependent on the mother’s age and fertility, followed by biopsy and genetic testing of a single cell of the embryo. Risks to mother and offspring of IVF, such as multiple birth, premature labour and low birth weight, as well as emotional health effects for those undergoing the procedure. Availability and methods differ across countries. |
 
 <span id="recommendation-table-8"></span>**Recommendation Table 8 – Recommendations for genetic counselling and testing in cardiomyopathies**
+
+[📋 Interactive Table: Recommendations for genetic counselling and testing in cardiomyopathies](#/tables/esc-cmp-2023.rt08-genetic-counselling-testing)
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -900,6 +936,8 @@ Orthotopic cardiac transplantation should be considered in patients with moderat
 
 <span id="recommendation-table-9"></span>**Recommendation Table 9 – Recommendations for cardiac transplantation in patients with cardiomyopathy**
 
+[📋 Interactive Table: Recommendations for cardiac transplantation and mechanical circulatory support in patients with cardiomyopathy](#/tables/esc-cmp-2023.rt09-heart-transplantation-mcs)
+
 | Recommendation | Class | Level |
 |----------------|-------|-------|
 | Orthotopic cardiac transplantation is recommended for eligible cardiomyopathy patients with advanced heart failure (NYHA class III-IV) or intractable ventricular arrhythmia refractory to medical/invasive/device therapy, and who do not have absolute contraindications. | I | C |
@@ -932,6 +970,8 @@ Atrial fibrillation is the most common arrhythmia in all subtypes of cardiomyopa
 Both the 2020 ESC Guidelines for the diagnosis and management of atrial fibrillation and the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure recommend an integrated and structured approach to facilitate guideline-adherent management. The Atrial Fibrillation Better Care (ABC) approach has been shown to reduce the risk of stroke and systemic embolism, myocardial infarction, and mortality in the general population. Although this approach has not been specifically assessed in patients with cardiomyopathies, heart failure was present in ~20% of the individuals of these studies and, where specified, cardiomyopathy in ~5.5–6.5%. In particular, two RCTs support integrated care. The RACE 3, combining the components of the ABC pathway into structured care, resulted in reduced AF burden and better rhythm control among 245 patients with early persistent AF and stable heart failure (119 randomized to targeted and 126 to conventional therapy). The mobile Atrial Fibrillation App Trial (mAFA-II), which included 714 patients with heart failure (21.5%), 54 with HCM (1.6%), and 105 with DCM (3.2%), showed the superiority of integrated care supported by mobile technology in the composite outcome of ‘ischaemic stroke/systemic thrombo-embolism, death, and re-hospitalization’ (1.9% vs. 6.0%; hazard ratio [HR] 0.39 [95% confidence interval {CI}, 0.22 to 0.67]; P < 0.001) and re-hospitalization rates (1.2% vs. 4.5%; HR 0.32 [95% CI, 0.17 to 0.60]; P < 0.001). Adherence to the mobile health technology beyond 1 year was good, and was associated with a reduction in adverse clinical outcomes.
 
 <span id="table-15"></span>**TABLE 15** Atrial fibrillation burden and management in cardiomyopathies
+
+[📋 Interactive Table: Atrial fibrillation burden and management in cardiomyopathies](#/tables/esc-cmp-2023.t15-af-burden-management)
 
 | Parameter | HCM | DCM | ARVC | RCM | Cardiac amyloidosis |
 |-----------|-----|-----|------|-----|---------------------|
@@ -986,6 +1026,8 @@ Cardiovascular risk factors and comorbidities are also more frequent in patients
 
 <span id="recommendation-table-11"></span>**Recommendation Table 11 – Recommendations for management of atrial fibrillation and atrial flutter in patients with cardiomyopathy**
 
+[📋 Interactive Table: Recommendations for management of atrial fibrillation and atrial flutter in patients with cardiomyopathy](#/tables/esc-cmp-2023.rt11-af-afl-management)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Anticoagulation** | | |
@@ -1036,6 +1078,8 @@ The 2022 ESC Guidelines for the management of patients with ventricular arrhythm
 
 <span id="recommendation-table-12"></span>**Recommendation Table 12 – Recommendations for implantable cardioverter defibrillator in patients with cardiomyopathy**
 
+[📋 Interactive Table: Recommendations for implantable cardioverter defibrillator in patients with cardiomyopathy](#/tables/esc-cmp-2023.rt12-icd-indications)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **General recommendations** | | |
@@ -1067,6 +1111,8 @@ In general, patients with cardiomyopathy require lifelong follow-up to detect ch
 The frequency of monitoring is determined by the severity of disease, age, and symptoms. A clinical examination, including 12-lead ECG and TTE, should be performed every 1-2 years, or sooner should patients complain of new symptoms. Ambulatory electrocardiography is recommended every 1-2 years in most patients to detect asymptomatic atrial and ventricular arrhythmia, and is indicated whenever patients experience syncope or palpitations. CMR evaluation should be considered every 2-5 years or more frequently in patients with progressive disease (see Section 6.7.3). Cardio-pulmonary exercise testing can provide objective evidence for worsening disease but need only be performed every 2-3 years unless there is a change in symptoms. Ergometry and treadmill exercise testing may also provide valuable functional information in patients unable to perform CPET.
 
 <span id="recommendation-table-13"></span>**Recommendation Table 13 – Recommendations for routine follow-up of patients with cardiomyopathy**
+
+[📋 Interactive Table: Recommendations for routine follow-up of patients with cardiomyopathy](#/tables/esc-cmp-2023.rt13-routine-follow-up)
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1109,6 +1155,8 @@ When the pattern of inheritance is likely to be, or is definitively, other than 
 
 <span id="recommendation-table-14"></span>**Recommendation Table 14 – Recommendations for family screening and follow-up evaluation of relatives**
 
+[📋 Interactive Table: Recommendations for family screening and follow-up evaluation of relatives](#/tables/esc-cmp-2023.rt14-family-screening)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Following cascade genetic testing, clinical evaluation using a multiparametric approach that includes ECG and cardiac imaging and long-term follow-up is recommended in first-degree relatives who have the same disease-causing variant as the proband. | I | B |
@@ -1131,6 +1179,8 @@ Psychological challenges for patients and their family members are summarized be
 
 <span id="table-16"></span>**TABLE 16** Psychological considerations
 
+[📋 Interactive Table: Psychological considerations in patients with cardiomyopathy](#/tables/esc-cmp-2023.t16-psychological-considerations)
+
 | Patient group | Psychological considerations |
 |---------------|-------------------------------|
 | New diagnosis | Stigma associated with cardiovascular disease and misconception that it only affects older people. Fear of sudden cardiac death can shake confidence and create anxiety around exercise. Fear of inheritance risk to other relatives, especially children. Confidence and self-efficacy to manage their disease. Direct experience with the disease will affect perceptions about prognosis. |
@@ -1142,6 +1192,8 @@ Psychological challenges for patients and their family members are summarized be
 | Genetic testing | Despite potential adjustment issues, most patients who undertake genetic testing do not report distress. Genetic counselling should cover any psychosocial concerns or needs. Additional support to patients to convey the genetic risk information to at-risk family members should be provided as necessary. |
 
 <span id="recommendation-table-15"></span>**Recommendation Table 15 – Recommendations for psychological support in patients and family members with cardiomyopathies**
+
+[📋 Interactive Table: Recommendations for psychological support in patients and family members with cardiomyopathies](#/tables/esc-cmp-2023.rt15-psychological-support)
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1205,6 +1257,8 @@ Identification of LVOTO is important in the management of symptoms and assessmen
 
 <span id="recommendation-table-16"></span>**Recommendation Table 16 – Recommendation for evaluation of left ventricular outflow tract obstruction**
 
+[📋 Interactive Table: Recommendations for evaluation of left ventricular outflow tract obstruction](#/tables/esc-cmp-2023.rt16-lvoto-evaluation)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | In all patients with HCM, at initial evaluation, transthoracic 2D and Doppler echocardiography are recommended, at rest and during Valsalva manoeuvre in the sitting and semi-supine positions—and then on standing if no gradient is provoked—to detect LVOTO. | I | B |
@@ -1213,6 +1267,8 @@ Identification of LVOTO is important in the management of symptoms and assessmen
 | In symptomatic patients with HCM and inconclusive non-invasive cardiac imaging, left and right heart catheterization may be considered to assess the severity of LVOTO and to measure LV filling pressures. | IIb | C |
 
 <span id="table-17"></span>**TABLE 17** Imaging evaluation in hypertrophic cardiomyopathy
+
+[📋 Interactive Table: Imaging evaluation in hypertrophic cardiomyopathy](#/tables/esc-cmp-2023.t17-imaging-evaluation-hcm)
 
 | Item to assess | Primary imaging modality | Comments |
 |----------------|--------------------------|----------|
@@ -1229,6 +1285,8 @@ Identification of LVOTO is important in the management of symptoms and assessmen
 **Figure 12** Protocol for the assessment and treatment of left ventricular outflow tract obstruction. The algorithm shows: 2D and Doppler echocardiography at rest, Valsalva manoeuvre, and standing. If maximum provoked peak LVOTO ≥50 mmHg: asymptomatic → repeat echocardiogram at 1 year; symptomatic → medical therapy. If gradient <50 mmHg but symptoms present → exercise stress echocardiogram.
 
 <span id="table-18"></span>**TABLE 18** Echocardiographic features that suggest specific aetiologies in hypertrophic cardiomyopathy
+
+[📋 Interactive Table: Echocardiographic features that suggest specific aetiologies in hypertrophic cardiomyopathy](#/tables/esc-cmp-2023.t18-echo-features-aetiologies-hcm)
 
 | Finding | Specific diseases to be considered |
 |---------|-----------------------------------|
@@ -1256,6 +1314,8 @@ Late gadolinium enhancement is present in 65% of patients (range 33–84%), typi
 Although CMR rarely distinguishes the causes of HCM by their magnetic properties alone, the distribution and severity of interstitial expansion can, in context, suggest specific diagnoses (see Section 6). The absence of fibrosis may be helpful in differentiating HCM from physiological adaptation in athletes, but LGE may be absent in people with HCM, particularly young people and those with mild disease.
 
 <span id="recommendation-table-17"></span>**Recommendation Table 17 – Additional recommendation for cardiovascular magnetic resonance evaluation in hypertrophic cardiomyopathy**
+
+[📋 Interactive Table: Additional recommendation for cardiovascular magnetic resonance evaluation in hypertrophic cardiomyopathy](#/tables/esc-cmp-2023.rt17-cmr-evaluation-hcm)
 
 | Recommendation | Class | Level |
 |----------------|-------|-------|
@@ -1319,6 +1379,8 @@ All patients with LVOTO should avoid dehydration and excess alcohol consumption,
 
 <span id="recommendation-table-18"></span>**Recommendation Table 18 – Recommendations for treatment of left ventricular outflow tract obstruction (general measures)**
 
+[📋 Interactive Table: Recommendations for treatment of left ventricular outflow tract obstruction (general measures)](#/tables/esc-cmp-2023.rt18-lvoto-general-measures)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Avoidance of digoxin and arterial and venous dilators, including nitrates and phosphodiesterase inhibitors, should be considered, if possible, in patients with resting or provocable LVOTO. | IIa | C |
@@ -1347,6 +1409,8 @@ In the absence of a direct head-to-head comparison, the Task Force was unable to
 **Figure 14** Flow chart on the management of left ventricular outflow tract obstruction. The algorithm starts with symptomatic LVOTO → non-vasodilating beta-blockers → if symptoms persist → add disopyramide or consider mavacamten → if still symptomatic → refer for septal reduction therapy.
 
 <span id="recommendation-table-19"></span>**Recommendation Table 19 – Recommendations for medical treatment of left ventricular outflow tract obstruction**
+
+[📋 Interactive Table: Recommendations for medical treatment of left ventricular outflow tract obstruction](#/tables/esc-cmp-2023.rt19-lvoto-medical-treatment)
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1392,6 +1456,8 @@ There are no randomized trials comparing surgery and ASA, but several meta-analy
 
 <span id="recommendation-table-20"></span>**Recommendation Table 20 – Recommendations for septal reduction therapy**
 
+[📋 Interactive Table: Recommendations for septal reduction therapy](#/tables/esc-cmp-2023.rt20-septal-reduction)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | It is recommended that SRT be performed by experienced operators working as part of a multidisciplinary team expert in the management of HCM. | I | C |
@@ -1407,6 +1473,8 @@ There are no randomized trials comparing surgery and ASA, but several meta-analy
 **Dual-chamber pacing.** Three small, randomized, placebo-controlled studies of dual-chamber pacing and several long-term observational studies have reported reductions in LV outflow tract gradients and variable improvement in symptoms and QoL, including one paediatric study. A Cochrane review concluded that the data on the benefits of pacing are based on physiological measures and lack information on clinically relevant endpoints.
 
 <span id="recommendation-table-21"></span>**Recommendation Table 21 – Recommendations for indications for cardiac pacing in patients with obstruction**
+
+[📋 Interactive Table: Recommendations for indications for cardiac pacing in patients with obstruction](#/tables/esc-cmp-2023.rt21-pacing-obstruction)
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1432,6 +1500,8 @@ Left ventricular apical aneurysms by themselves rarely need treatment. A few pat
 Management of heart failure in patients without LVOTO should follow the recommendations of the 2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure, summarized in Section 6.10.2. The aim of drug therapy is to reduce LV diastolic pressures and improve LV filling by slowing the heart rate with beta-blockers, verapamil, or diltiazem (ideally monitored by ambulatory ECG recording), and cautious use of loop diuretics. Beta-blockers or calcium antagonists should be considered in patients with exertional or prolonged episodes of anginalike pain even in the absence of resting or provocable LVOTO or obstructive CAD. In the absence of LVOTO, cautious use of oral nitrates may be considered. Ranolazine may also be considered to improve symptoms in patients with angina-like chest pain and no evidence for LVOTO.
 
 <span id="recommendation-table-22"></span>**Recommendation Table 22 – Recommendations for chest pain on exertion in patients without left ventricular outflow tract obstruction**
+
+[📋 Interactive Table: Recommendations for chest pain on exertion in patients without left ventricular outflow tract obstruction](#/tables/esc-cmp-2023.rt22-chest-pain-without-lvoto)
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1464,6 +1534,8 @@ Most contemporary series of adult patients with HCM report an annual incidence f
 Estimation of SCD risk is an integral part of clinical management. Clinical features that are associated with an increased SCD risk and that have been used in previous guidelines to estimate risk are shown in Table 19.
 
 <span id="table-19"></span>**TABLE 19** Major clinical features associated with an increased risk of sudden cardiac death
+
+[📋 Interactive Table: Major clinical features associated with an increased risk of sudden cardiac death in hypertrophic cardiomyopathy](#/tables/esc-cmp-2023.t19-scd-risk-features)
 
 | Risk factor | Comment |
 |-------------|---------|
@@ -1538,6 +1610,8 @@ The Task Force acknowledges the challenges associated with defining universal th
 **Figure 16** Flow chart for implantation of an implantable cardioverter defibrillator in patients with hypertrophic cardiomyopathy. The algorithm shows: estimation of 5-year SCD risk using HCM Risk-SCD (≥16y) or HCM Risk-Kids (<16y). For risk ≥6%: consider ICD. For risk 4–6%: may consider ICD. For risk <4%: ICD not routinely recommended, but may consider if extensive LGE (≥15%) or LVEF <50%.
 
 <span id="recommendation-table-23"></span>**Recommendation Table 23 – Additional recommendations for prevention of sudden cardiac death in patients with hypertrophic cardiomyopathy**
+
+[📋 Interactive Table: Additional recommendations for prevention of sudden cardiac death in patients with hypertrophic cardiomyopathy](#/tables/esc-cmp-2023.rt23-scd-prevention-hcm)
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1627,6 +1701,8 @@ The aetiology of DCM is highly heterogeneous and includes inherited (genetic/fam
 
 <span id="table-20"></span>**TABLE 20** Non-genetic causes of dilated cardiomyopathy
 
+[📋 Interactive Table: Non-genetic causes of dilated cardiomyopathy](#/tables/esc-cmp-2023.t20-non-genetic-causes-dcm)
+
 | Category | Examples |
 |----------|----------|
 | Infection (post-myocarditis) | Viral (enteroviruses, adenoviruses, echoviruses, herpes viruses, parvovirus B19, HIV, SARS-CoV-2, etc.); Bacterial (Lyme disease); Mycobacterial; Fungal; Parasitic (Chagas disease) |
@@ -1698,6 +1774,8 @@ In patients without a high-risk genotype and LVEF >35%, the presence and extent 
 
 <span id="table-21"></span>**TABLE 21** High-risk genotypes and associated predictors of sudden cardiac death
 
+[📋 Interactive Table: High-risk genotypes and associated predictors of sudden cardiac death in DCM and NDLVC](#/tables/esc-cmp-2023.t21-high-risk-genotypes-scd)
+
 | Gene | Annual SCD rate | Predictors of SCD |
 |------|-----------------|-------------------|
 | LMNA | 5–10% | Estimated 5-year risk of life-threatening arrhythmia using LMNA risk score (https://lmnarisk-vta.fr) |
@@ -1708,6 +1786,8 @@ In patients without a high-risk genotype and LVEF >35%, the presence and extent 
 | RBM20 | 3–5% | LGE on CMR, LVEF <45% |
 
 <span id="recommendation-table-24"></span>**Recommendation Table 24 – Recommendations for an implantable cardioverter defibrillator in patients with dilated cardiomyopathy**
+
+[📋 Interactive Table: Recommendations for an implantable cardioverter defibrillator in patients with dilated cardiomyopathy](#/tables/esc-cmp-2023.rt24-icd-indications-dcm)
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1767,6 +1847,8 @@ The key elements of the diagnostic work-up for all patients with NDLVC are descr
 Recommendations on resting and ambulatory ECG testing are described in Section 6.5 and are of particular importance in patients with NDLVC, as specific features can indicate the underlying genetic cause. Prolonged PR interval or AV block is frequent in neuromuscular causes of NDLVC and in sarcoidosis. Laminopathies are characterized by prolonged PR interval, AF, and ventricular ectopics (VEs), and frequently show low voltage in precordial leads. Depolarization abnormalities such as low QRS voltage are also a common finding in NDLVC caused by DSP and PLN variants. Ambulatory ECG monitoring is useful in NDLVC patients to reveal supraventricular and ventricular arrhythmias or bradycardia due to AV conduction block and is recommended at least yearly, or when there is a change in clinical status. In some patients with NDLVC at high risk of developing conduction disease and/or arrhythmias (including laminopathies, neuromuscular disease, PLN, and FLNC-truncating variants), Holter monitoring may be considered more frequently.
 
 <span id="recommendation-table-25"></span>**Recommendation Table 25 – Recommendation for resting and ambulatory electrocardiogram monitoring in patients with non-dilated left ventricular cardiomyopathy**
+
+[📋 Interactive Table: Recommendation for resting and ambulatory electrocardiogram monitoring in patients with non-dilated left ventricular cardiomyopathy](#/tables/esc-cmp-2023.rt25-ecg-monitoring-ndlvc)
 
 | Recommendation | Class | Level |
 |----------------|-------|-------|
@@ -1860,6 +1942,8 @@ There are very few data to guide risk stratification in patients with NDLVC with
 
 <span id="recommendation-table-26"></span>**Recommendation Table 26 – Recommendations for an implantable cardioverter defibrillator in patients with non-dilated left ventricular cardiomyopathy**
 
+[📋 Interactive Table: Recommendations for an implantable cardioverter defibrillator in patients with non-dilated left ventricular cardiomyopathy](#/tables/esc-cmp-2023.rt26-icd-indications-ndlvc)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Secondary prevention** | | |
@@ -1920,6 +2004,8 @@ The key elements of the diagnostic work-up for all patients with ARVC are define
 Abnormalities of the repolarization and depolarization as well as arrhythmias are key to the diagnosis of ARVC. The diagnostic utility of late potentials on signal-averaged electrocardiogram (SAECG) has been challenged in patients with ARVC for showing poor sensitivity and specificity. It has been noted that epsilon waves are frequently overdiagnosed and that there is poor agreement even between experts regarding their presence. Furthermore, it has been demonstrated that they occur in the presence of severe structural disease and thus add little to the diagnosis. Therefore, epsilon waves and SAECG should be utilized for diagnostic purposes with caution.
 
 <span id="recommendation-table-27"></span>**Recommendation Table 27 – Recommendation for resting and ambulatory electrocardiogram monitoring in patients with arrhythmogenic right ventricular cardiomyopathy**
+
+[📋 Interactive Table: Recommendation for resting and ambulatory electrocardiogram monitoring in patients with arrhythmogenic right ventricular cardiomyopathy](#/tables/esc-cmp-2023.rt27-ecg-monitoring-arvc)
 
 | Recommendation | Class | Level |
 |----------------|-------|-------|
@@ -1999,6 +2085,8 @@ A proportion of patients require invasive arrhythmic procedures and/or ICD impla
 
 <span id="recommendation-table-28"></span>**Recommendation Table 28 – Recommendations for the antiarrhythmic management of patients with arrhythmogenic right ventricular cardiomyopathy**
 
+[📋 Interactive Table: Recommendations for the antiarrhythmic management of patients with arrhythmogenic right ventricular cardiomyopathy](#/tables/esc-cmp-2023.rt28-antiarrhythmic-arvc)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Beta-blocker therapy is recommended in ARVC patients with VE, NSVT, and VT. | I | C |
@@ -2045,6 +2133,8 @@ The role of PES in risk stratification of ARVC patients is not well defined, par
 **Figure 18** Algorithm for the approach to ICD implantation in patients with arrhythmogenic right ventricular cardiomyopathy. The algorithm shows: secondary prevention: ICD recommended. Primary prevention: use updated 2019 ARVC risk calculator to estimate 5-year risk; consider ICD if risk ≥10% or based on high-risk features (cardiac syncope, NSVT, RVEF <40%, LVEF <45%, SMVT at PES). Clinicians should aim to control ventricular arrhythmia with pharmacological or invasive antiarrhythmic therapies in addition to offering an ICD.
 
 <span id="recommendation-table-29"></span>**Recommendation Table 29 – Recommendations for sudden cardiac death prevention in patients with arrhythmogenic right ventricular cardiomyopathy**
+
+[📋 Interactive Table: Recommendations for sudden cardiac death prevention in patients with arrhythmogenic right ventricular cardiomyopathy](#/tables/esc-cmp-2023.rt29-scd-prevention-arvc)
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -2101,6 +2191,8 @@ Restrictive cardiomyopathy is associated with the worst prognosis of all the car
 
 <span id="recommendation-table-30"></span>**Recommendation Table 30 – Recommendations for the management of patients with restrictive cardiomyopathy**
 
+[📋 Interactive Table: Recommendations for the management of patients with restrictive cardiomyopathy](#/tables/esc-cmp-2023.rt30-rcm-management)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | It is recommended that multimodality imaging be used to differentiate RCM from HCM or DCM with restrictive physiology. | I | C |
@@ -2121,6 +2213,8 @@ Restrictive cardiomyopathy is associated with the worst prognosis of all the car
 It is beyond the scope of these guidelines to provide a detailed review and recommendations on specific cardiomyopathy genotypes and phenotypes. Instead, the Task Force refers the reader to detailed position statements and consensus documents published on behalf of the ESC Working Group on Myocardial and Pericardial Diseases (e.g. on Anderson-Fabry Disease and amyloidosis). This section highlights only the key diagnostic and management issues. Table 22 summarizes the clinical features and management of syndromic and metabolic cardiomyopathies.
 
 <span id="table-22"></span>**TABLE 22** Clinical features and management of syndromic and metabolic cardiomyopathies
+
+[📋 Interactive Table: Clinical features and management of syndromic and metabolic cardiomyopathies](#/tables/esc-cmp-2023.t22-syndromic-metabolic-cmp)
 
 [Due to the large size of Table 22 (spanning pages 73–76 of the original PDF, covering RASopathies, mitochondrial diseases, Pompe disease, Danon disease, PRKAG2 syndrome, Friedreich ataxia, Anderson-Fabry disease, DMD/BMD, LMNA cardiomyopathy, sarcoidosis, iron overload — the full table is preserved in the source material. Key rows are presented below as examples.]
 
@@ -2162,6 +2256,8 @@ Two Anderson-Fabry phenotypes can be distinguished, depending on the gender, lyo
 Anderson-Fabry disease should be suspected in patients with LVH and additional cardiac and extracardiac red flags (see Table 23) sought (Figure 20). The diagnosis is established by assessment of α-Gal A activity and lyso-Gb3 measurement in male patients; in females, genetic testing is usually required to confirm the diagnosis. Severe LVH (>15 mm) is unlikely to be seen in patients <20 years of age. In children and adolescents, diagnosis is made by family history or based on other extracardiac symptoms, but overt LVH is usually not present.
 
 <span id="table-23"></span>**TABLE 23** Anderson-Fabry disease red flags
+
+[📋 Interactive Table: Anderson–Fabry disease red flags](#/tables/esc-cmp-2023.t23-fabry-disease-red-flags)
 
 | Extracardiac red flags | Cardiac red flags |
 |------------------------|-------------------|
@@ -2437,6 +2533,8 @@ Although the natural history of most pathogenic variants capable of causing DCM 
 
 <span id="recommendation-table-31"></span>**Recommendation Table 31 – Exercise recommendations for patients with cardiomyopathy**
 
+[📋 Interactive Table: Recommendation Table 31 — Exercise recommendations for patients with cardiomyopathy](#/tables/esc-cmp-2023.rt31-exercise-sports)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **All cardiomyopathy** | | |
@@ -2566,6 +2664,8 @@ Genetic studies in patients with PPCM have revealed genetic similarity between P
 
 <span id="recommendation-table-32"></span>**Recommendation Table 32 – Recommendations for reproductive issues in patients with cardiomyopathy**
 
+[📋 Interactive Table: Recommendations for reproductive issues in patients with cardiomyopathy](#/tables/esc-cmp-2023.rt32-reproductive-issues)
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Pre-pregnancy risk assessment and counselling are recommended in all women using the mWHO classification of maternal risk. | I | C |
@@ -2592,6 +2692,8 @@ Natriuretic peptide concentrations are quantitative plasma biomarkers for the pr
 Patients with a first-degree relative with a genetic cardiomyopathy should be evaluated with an ECG and an echocardiographic examination to rule out the presence of the disease, irrespective of age (see Section 6.11). There are no specific data on risks of NCS in phenotype-negative family members; however, they are at risk of developing the disease, which may be subclinical at the time of the NCS. Data in children with HCM undergoing general anaesthesia for cardiac and non-cardiac procedures show that, in a specialist setting with multidisciplinary involvement, peri-operative morbidity and mortality are extremely low.
 
 <span id="recommendation-table-33"></span>**Recommendation Table 33 – Recommendations for non-cardiac surgery in patients with cardiomyopathy**
+
+[📋 Interactive Table: Recommendations for non-cardiac surgery in patients with cardiomyopathy](#/tables/esc-cmp-2023.rt33-non-cardiac-surgery)
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -2625,6 +2727,8 @@ The cardiomyopathy unit is usually integrated into a general cardiogenetic (or i
 Most people with cardiomyopathy lead normal and productive lives, but a small number experience significant symptoms and are at risk of disease-related complications. Regardless of the severity of their disease, it is important that individuals receive support and accurate advice from cardiomyopathy specialists and other healthcare professionals, and that they are encouraged to understand and manage the disease themselves.
 
 <span id="table-24"></span>**TABLE 24** General guidance for daily activity for patients with cardiomyopathies
+
+[📋 Interactive Table: General guidance for daily activity for patients with cardiomyopathies](#/tables/esc-cmp-2023.t24-daily-activity-guidance)
 
 | Topic | General guidance |
 |-------|------------------|
@@ -2698,6 +2802,8 @@ The role of intense exercise in disease expression and outcomes has been studied
 
 <span id="table-25"></span>**TABLE 25** Modulators of the phenotypic expression of cardiomyopathies
 
+[📋 Interactive Table: Modulators of the phenotypic expression of cardiomyopathies](#/tables/esc-cmp-2023.t25-phenotypic-modulators)
+
 | Condition | HCM | DCM | ARVC | Expression |
 |-----------|-----|-----|------|-------------|
 | Hypertension | ++ | + | ? | Hypertrophy, dilatation, dysfunction, AF |
@@ -2711,6 +2817,8 @@ The role of intense exercise in disease expression and outcomes has been studied
 + degree of positive association; - absence of definitive association; ? unknown association.
 
 <span id="recommendation-table-34"></span>**Recommendation Table 34 – Recommendation for management of cardiovascular risk factors in patients with cardiomyopathy**
+
+[📋 Interactive Table: Recommendation for management of cardiovascular risk factors in patients with cardiomyopathy](#/tables/esc-cmp-2023.rt34-cv-risk-factors)
 
 | Recommendation | Class | Level |
 |----------------|-------|-------|
@@ -2843,6 +2951,8 @@ Although there have been major advances in the genetics, diagnosis, and treatmen
 <details class="med-details"><summary>
 
 ## 16. ‘What to do’ and ‘What not to do’ messages from the Guidelines</summary><div class="details-content">
+
+[📋 Interactive Table: Section 16: 'What to do' and 'What not to do' messages from the Guidelines](#/tables/esc-cmp-2023.t26-what-to-do)
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|

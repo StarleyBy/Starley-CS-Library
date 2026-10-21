@@ -1,0 +1,139 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt27-explantation-techniques",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 27",
+  "title": {
+    "en": "Recommendations for Explantation Techniques",
+    "ru": "Рекомендации по технике эксплантации (деканюляции) систем ВМПК (tMCS)"
+  },
+  "tags": [
+    "tmcs",
+    "explantation",
+    "decannulation",
+    "distal-perfusion",
+    "closure-device",
+    "vascular-complications",
+    "trvad",
+    "pa-graft",
+    "figure-of-eight-suture"
+  ],
+  "sections": [
+    {
+      "id": "sec-explantation-techniques",
+      "title": {
+        "en": "Recommendations for Explantation Techniques",
+        "ru": "Рекомендации по технике эксплантации ВМПК"
+      },
+      "rows": [
+        {
+          "id": "r01-peripheral-cannulation-distal-perfusion-immediately-serially",
+          "text": {
+            "en": "In patients with peripheral cannulation, after tMCS explantation, it is recommended that distal limb perfusion be assessed immediately and serially.",
+            "ru": "У пациентов с периферической канюляцией после эксплантации ВМПК рекомендуется немедленная и динамическая серийная оценка дистальной перфузии конечности."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [798]
+        },
+        {
+          "id": "r02-systemic-anticoagulation-extended-low-flow-assessment",
+          "text": {
+            "en": "During tMCS explantation, the use of systemic anticoagulation should be considered during extended low-flow assessment.",
+            "ru": "В ходе эксплантации ВМПК следует рассмотреть проведение системной антикоагуляции во время продленного пробного периода низкой производительности насоса (low-flow assessment)."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [796]
+        },
+        {
+          "id": "r03-percutaneous-over-8fr-no-direct-compression-only",
+          "text": {
+            "en": "During the explantation of peripheral percutaneous tMCS > 8 Fr, relying only on direct compression for haemostasis is not recommended.",
+            "ru": "При удалении периферических чрескожных канюль ВМПК калибром > 8 Fr полагаться исключительно на прямую мануальную компрессию для достижения гемостаза не рекомендуется."
+          },
+          "class": "III",
+          "level": "B",
+          "refs": [791, 793, 794]
+        },
+        {
+          "id": "r04-peripheral-ecls-surgical-removal-mitigate-vascular-complications",
+          "text": {
+            "en": "During explantation of peripheral ECLS, surgical removal of arterial cannula should be considered to mitigate vascular complications.",
+            "ru": "При эксплантации периферического ЭКМО (ECLS) следует рассмотреть открытое хирургическое удаление артериальной канюли для минимизации сосудистых осложнений."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [798]
+        },
+        {
+          "id": "r05-percutaneously-implanted-mafp-closure-device",
+          "text": {
+            "en": "During explantation of percutaneously implanted mAFP, a percutaneous vascular closure device should be considered.",
+            "ru": "При эксплантации чрескожно установленного микроаксиального насоса (мОН / mAFP) следует рассмотреть применение чрескожного сосудистого сшивающего устройства (closure device)."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [794, 795]
+        },
+        {
+          "id": "r06-surgically-implanted-mafp-graft-shortened-buried-or-removed",
+          "text": {
+            "en": "In patients with an mAFP implanted surgically, it may be considered that the graft should be shortened and buried or completely removed after explantation.",
+            "ru": "У пациентов с хирургически имплантированным мОН можно рассмотреть укорочение и погружение сосудистого протеза либо его полное удаление после эксплантации."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [800, 801, 802]
+        },
+        {
+          "id": "r07-trvad-pa-graft-explantation-via-skin-exit-site",
+          "text": {
+            "en": "In patients on a tRVAD using a PA graft, the explantation may be considered via the skin exit site without opening the primary incision.",
+            "ru": "У пациентов на tRVAD с использованием сосудистого протеза легочной артерии можно рассмотреть эксплантацию через место выхода на коже без повторного вскрытия основного хирургического доступа."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [803]
+        },
+        {
+          "id": "r08-trvad-pa-graft-complete-graft-removal",
+          "text": {
+            "en": "In patients on tRVAD using a PA graft undergoing explantation, complete graft removal may be considered.",
+            "ru": "У пациентов на tRVAD с протезом ЛА при эксплантации может быть рассмотрено полное иссечение и удаление сосудистого протеза."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r09-removal-venous-cannula-figure-of-eight-suture-compression",
+          "text": {
+            "en": "In patients undergoing removal of the venous cannula in tMCS, it is recommended to use a safety figure-of-eight suture and manual compression.",
+            "ru": "При удалении венозной канюли ВМПК рекомендуется использование страховочного восьмиобразного шва (figure-of-eight) в сочетании с мануальной компрессией."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r10-peripheral-ecls-percutaneous-closure-device",
+          "text": {
+            "en": "During explantation of peripheral ECLS, the use of a percutaneous vascular closure device may be considered.",
+            "ru": "При эксплантации периферического ЭКМО (ECLS) может быть рассмотрено применение чрескожного сосудистого сшивающего устройства."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 10
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

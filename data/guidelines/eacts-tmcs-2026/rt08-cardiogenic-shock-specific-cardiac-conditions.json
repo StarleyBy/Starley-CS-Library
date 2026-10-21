@@ -1,0 +1,389 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt08-cardiogenic-shock-specific-cardiac-conditions",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 8",
+  "title": {
+    "en": "Recommendations for the Use of tMCS in Patients with Cardiogenic Shock and Specific Concomitant Cardiac Conditions",
+    "ru": "Рекомендации по применению ВМПК (tMCS) у пациентов с кардиогенным шоком и специфическими сопутствующими кардиальными патологиями"
+  },
+  "tags": [
+    "tmcs",
+    "cardiogenic-shock",
+    "aortic-valve",
+    "mitral-valve",
+    "mi",
+    "vsd",
+    "pe",
+    "htx",
+    "dlvad",
+    "arrhythmias",
+    "thrombus",
+    "pulmonary-hypertension",
+    "takotsubo"
+  ],
+  "sections": [
+    {
+      "id": "sec-aortic-valve",
+      "title": {
+        "en": "Aortic valve",
+        "ru": "Аортальный клапан"
+      },
+      "rows": [
+        {
+          "id": "r01-mechanical-aortic-valve-mafp-not-recommended",
+          "text": {
+            "en": "In patients with cardiogenic shock and a mechanical aortic valve, a transaortic valve mAFP is not recommended.",
+            "ru": "У пациентов с кардиогенным шоком и механическим протезом аортального клапана проведение микроаксиального насоса (мОН/mAFP) через клапан не рекомендуется."
+          },
+          "class": "III",
+          "level": "C",
+          "refs": [255]
+        },
+        {
+          "id": "r02-aortic-regurgitation-active-lv-unloading",
+          "text": {
+            "en": "In patients with cardiogenic shock and moderate-to-severe aortic regurgitation, tMCS with active LV unloading should be considered.",
+            "ru": "У пациентов с кардиогенным шоком и аортальной регургитацией от умеренной до тяжелой степени следует рассмотреть применение ВМПК (tMCS) с активной декомпрессией (разгрузкой) ЛЖ."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r03-aortic-stenosis-va-ecls-bridge-avr-tavi",
+          "text": {
+            "en": "In patients with cardiogenic shock and severe aortic stenosis, VA-ECLS as a bridge to AVR/TAVI may be considered.",
+            "ru": "У пациентов с кардиогенным шоком и тяжелым аортальным стенозом применение ВА-ЭКМО (VA-ECLS) может быть рассмотрено в качестве «моста» к хирургическому (AVR) или транскатетерному протезированию аортального клапана (TAVI)."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [255, 256]
+        },
+        {
+          "id": "r04-aortic-stenosis-mafp-considered",
+          "text": {
+            "en": "In patients with cardiogenic shock and severe aortic stenosis, mAFP may be considered.",
+            "ru": "У пациентов с кардиогенным шоком и тяжелым аортальным стенозом может быть рассмотрено применение микроаксиального насоса (мОН/mAFP)."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [255]
+        }
+      ]
+    },
+    {
+      "id": "sec-mitral-valve",
+      "title": {
+        "en": "Mitral valve",
+        "ru": "Митральный клапан"
+      },
+      "rows": [
+        {
+          "id": "r05-acute-mitral-regurgitation-active-unloading",
+          "text": {
+            "en": "In patients with severe acute mitral regurgitation and cardiogenic shock, tMCS with active LV unloading should be considered as a bridge to interventional or surgical treatment of the mitral valve.",
+            "ru": "У пациентов с тяжелой острой митральной регургитацией и кардиогенным шоком следует рассмотреть применение ВМПК (tMCS) с активной разгрузкой ЛЖ как «мост» к эндоваскулярному или открытому хирургическому лечению митрального клапана."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [193, 261, 262]
+        },
+        {
+          "id": "r06-prosthetic-mitral-valve-pulsatile-flow",
+          "text": {
+            "en": "In patients with a prosthetic mitral valve on tMCS, strategies to maintain pulsatile transmitral valvular flow are recommended.",
+            "ru": "У пациентов с протезированным митральным клапаном, находящихся на ВМПК (tMCS), рекомендуется поддержание пульсирующего трансмитрального потока для предотвращения тромбоза протеза."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [266, 267, 268]
+        },
+        {
+          "id": "r07-critical-mitral-stenosis-ecls-transseptal",
+          "text": {
+            "en": "In patients with cardiogenic shock and critical mitral stenosis, ECLS or transseptal pVAD should be considered.",
+            "ru": "У пациентов с кардиогенным шоком и критическим митральным стенозом следует рассмотреть применение ЭКМО (ECLS) или транссептального чрескожного желудочкового ассиста (pVAD / TandemHeart)."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [260]
+        }
+      ]
+    },
+    {
+      "id": "sec-acute-mi",
+      "title": {
+        "en": "Acute MI",
+        "ru": "Острый инфаркт миокарда (ОИМ / MI)"
+      },
+      "rows": [
+        {
+          "id": "r08-post-mi-cardiogenic-shock-active-unloading",
+          "text": {
+            "en": "In patients with post-MI cardiogenic shock, the use of tMCS with active unloading should be considered.",
+            "ru": "У пациентов с постинфарктным кардиогенным шоком следует рассмотреть применение ВМПК (tMCS) с активной разгрузкой левого желудочка."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [17, 272, 273]
+        },
+        {
+          "id": "r09-iabp-selected-post-mi-shock",
+          "text": {
+            "en": "The use of IABP may be considered in carefully selected patients^[d] with post-MI cardiogenic shock, particularly in settings where access to advanced tMCS is limited.",
+            "ru": "Применение ВАБК (IABP) может быть рассмотрено у тщательно отобранных пациентов^[d] с постинфарктным кардиогенным шоком, особенно в условиях ограниченного доступа к более сложным системам ВМПК."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [66]
+        }
+      ]
+    },
+    {
+      "id": "sec-vsd",
+      "title": {
+        "en": "VSD",
+        "ru": "Дефект межжелудочковой перегородки (ДМЖП / VSD)"
+      },
+      "rows": [
+        {
+          "id": "r10-vsd-deterioration-risk-rv-monitoring",
+          "text": {
+            "en": "In patients at risk for deterioration, close monitoring of RV function and venous congestion should be considered for prompt initiation of tMCS.",
+            "ru": "У пациентов с риском ухудшения гемодинамики следует обеспечить тщательный мониторинг функции правого желудочка и венозного застоя для своевременного начала ВМПК (tMCS)."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [192, 275]
+        },
+        {
+          "id": "r11-post-mi-vsd-va-ecls-prior-closure",
+          "text": {
+            "en": "In patients with post-MI VSD, the use of VA-ECLS to support patients in cardiogenic shock prior to VSD closure is recommended.",
+            "ru": "У пациентов с постинфарктным разрывом МЖП (VSD) рекомендуется применение ВА-ЭКМО (VA-ECLS) для стабилизации пациентов в кардиогенном шоке перед хирургическим закрытием дефекта."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [192, 275, 276, 278, 279]
+        },
+        {
+          "id": "r12-post-mi-vsd-mafp-prior-closure",
+          "text": {
+            "en": "In patients with post-MI VSD, the use of mAFP to support patients in cardiogenic shock prior to VSD closure may be considered.",
+            "ru": "У пациентов с постинфарктным разрывом МЖП (VSD) применение микроаксиального насоса (мОН/mAFP) для поддержки пациентов в кардиогенном шоке до закрытия дефекта может быть рассмотрено."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r13-post-mi-vsd-mafp-serial-rv-monitoring",
+          "text": {
+            "en": "In patients with post-MI VSD on mAFP, serial monitoring of RV function should be considered for escalation of support.",
+            "ru": "У пациентов с постинфарктным дефектом МЖП (VSD), находящихся на поддержке мОН (mAFP), следует проводить регулярный динамический мониторинг функции правого желудочка для своевременной эскалации циркуляторной поддержки."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [275]
+        }
+      ]
+    },
+    {
+      "id": "sec-pulmonary-embolism",
+      "title": {
+        "en": "Pulmonary embolism",
+        "ru": "Тромбоэмболия легочной артерии (ТЭЛА / PE)"
+      },
+      "rows": [
+        {
+          "id": "r14-massive-pe-cardiac-arrest-shock-va-ecls",
+          "text": {
+            "en": "In patients with a massive PE who present with cardiac arrest or cardiogenic shock, VA-ECLS is recommended.",
+            "ru": "У пациентов с массивной ТЭЛА (PE), манифестирующей остановкой сердца или кардиогенным шоком, рекомендуется применение ВА-ЭКМО (VA-ECLS)."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [39, 280, 281]
+        }
+      ]
+    },
+    {
+      "id": "sec-heart-transplant",
+      "title": {
+        "en": "Heart transplant",
+        "ru": "Трансплантация сердца (ТС / HTx)"
+      },
+      "rows": [
+        {
+          "id": "r15-severe-pgd-following-htx-early-tmcs",
+          "text": {
+            "en": "In patients with severe primary graft dysfunction following an HTx, early use of tMCS should be considered.",
+            "ru": "У пациентов с тяжелой первичной дисфункцией трансплантата (PGD) после пересадки сердца следует рассмотреть раннее подключение ВМПК (tMCS)."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [286, 287]
+        },
+        {
+          "id": "r16-refractory-vasoplegia-following-htx-tmcs",
+          "text": {
+            "en": "In patients with refractory vasoplegia following an HTx, early use of tMCS may be considered.",
+            "ru": "У пациентов с рефрактерной вазоплегией после трансплантации сердца может быть рассмотрено раннее применение ВМПК (tMCS)."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": []
+        }
+      ]
+    },
+    {
+      "id": "sec-dlvad",
+      "title": {
+        "en": "dLVAD",
+        "ru": "Постоянный левожелудочковый обход (dLVAD)"
+      },
+      "rows": [
+        {
+          "id": "r17-severe-rv-failure-immediate-trvad",
+          "text": {
+            "en": "In patients with severe RV failure immediately after an LVAD implant, a tRVAD implant is recommended at the time of the index procedure.",
+            "ru": "У пациентов с тяжелой правожелудочковой недостаточностью непосредственно после имплантации постоянного LVAD рекомендуется установка временного правожелудочкового ассиста (tRVAD) во время основного вмешательства."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [291]
+        },
+        {
+          "id": "r18-severe-rv-failure-trvad-over-va-ecls",
+          "text": {
+            "en": "In patients with severe RV failure after an LVAD implant, early tRVAD should be considered over VA-ECLS.",
+            "ru": "У пациентов с тяжелой правожелудочковой недостаточностью после имплантации постоянного LVAD предпочтение следует отдавать ранней установке tRVAD по сравнению с ВА-ЭКМО (VA-ECLS)."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [291]
+        }
+      ]
+    },
+    {
+      "id": "sec-arrhythmias",
+      "title": {
+        "en": "Arrhythmias",
+        "ru": "Нарушения сердечного ритма (аритмии)"
+      },
+      "rows": [
+        {
+          "id": "r19-arrhythmia-mapping-ablation-stability",
+          "text": {
+            "en": "In a high-risk patient with cardiac arrhythmia, a tMCS may be considered to provide haemodynamic stability during mapping and/or ablation.",
+            "ru": "У пациентов высокого риска со злокачественными аритмиями применение ВМПК (tMCS) может быть рассмотрено для обеспечения гемодинамической стабильности во время электрофизиологического картирования и/или аблации."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [48, 49, 294, 296, 297]
+        },
+        {
+          "id": "r20-refractory-unstable-ventricular-arrhythmia-biventricular",
+          "text": {
+            "en": "In patients with refractory unstable ventricular arrhythmia, biventricular tMCS is recommended.",
+            "ru": "У пациентов с рефрактерной нестабильной желудочковой аритмией (электрическим штормом) рекомендуется бивентрикулярная механическая поддержка кровообращения (Bi-tMCS)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [293]
+        }
+      ]
+    },
+    {
+      "id": "sec-intracardiac-thrombus",
+      "title": {
+        "en": "Intracardiac thrombus",
+        "ru": "Внутрисердечные тромбы"
+      },
+      "rows": [
+        {
+          "id": "r21-intra-atrial-thrombus-transseptal-contraindicated",
+          "text": {
+            "en": "In patients with intra-atrial thrombus, transseptal pVAD is not recommended.",
+            "ru": "У пациентов с внутрипредсердным тромбом применение транссептального чрескожного желудочкового ассиста (pVAD) не рекомендуется."
+          },
+          "class": "III",
+          "level": "C",
+          "refs": [299]
+        },
+        {
+          "id": "r22-intraventricular-thrombus-mafp-contraindicated",
+          "text": {
+            "en": "In patients with acute intraventricular thrombus, an mAFP is not recommended.",
+            "ru": "У пациентов с острым внутрижелудочковым тромбозом установка микроаксиального насоса (мОН/mAFP) не рекомендуется."
+          },
+          "class": "III",
+          "level": "C",
+          "refs": [300]
+        }
+      ]
+    },
+    {
+      "id": "sec-pulmonary-hypertension",
+      "title": {
+        "en": "Pulmonary hypertension",
+        "ru": "Легочная гипертензия (ЛГ / PH)"
+      },
+      "rows": [
+        {
+          "id": "r23-idiopathic-ph-trvad-not-recommended",
+          "text": {
+            "en": "In patients with RV failure due to primary, idiopathic pulmonary hypertension, the use of tRVAD is not recommended.",
+            "ru": "У пациентов с правожелудочковой недостаточностью вследствие первичной идиопатической легочной гипертензии применение изолированного tRVAD не рекомендуется."
+          },
+          "class": "III",
+          "level": "C",
+          "refs": [301]
+        },
+        {
+          "id": "r24-idiopathic-ph-va-ecls-bridge-to-transplant",
+          "text": {
+            "en": "In patients with RV failure due to primary, idiopathic pulmonary hypertension, the use of VA-ECLS should be considered as a BTT.",
+            "ru": "У пациентов с правожелудочковой недостаточностью вследствие первичной идиопатической легочной гипертензии следует рассмотреть применение ВА-ЭКМО (VA-ECLS) в качестве моста к трансплантации (BTT)."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [301]
+        }
+      ]
+    },
+    {
+      "id": "sec-takotsubo-cardiomyopathy",
+      "title": {
+        "en": "Takotsubo cardiomyopathy",
+        "ru": "Кардиомиопатия такоцубо"
+      },
+      "rows": [
+        {
+          "id": "r25-takotsubo-shock-active-lv-unloading",
+          "text": {
+            "en": "In patients with Takotsubo cardiomyopathy who are developing cardiogenic shock, tMCS with active LV unloading is recommended.",
+            "ru": "У пациентов с кардиомиопатией такоцубо при развитии кардиогенного шока рекомендуется применение ВМПК (tMCS) с активной разгрузкой левого желудочка."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [302, 303, 304, 305]
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "d": {
+      "en": "Patients with certain conditions precluding the use of active left ventricular unloading, such as ventricular thrombus, mechanical aortic valve, or large ventricular septal defect, may particularly benefit from IABP.",
+      "ru": "Пациенты с определенными состояниями, препятствующими активной разгрузке левого желудочка (внутрижелудочковый тромбоз, механический протез аортального клапана или крупный дефект межжелудочковой перегородки), могут получить особую пользу от применения ВАБК (IABP)."
+    }
+  },
+  "source": {
+    "expectedRows": 25
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

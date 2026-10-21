@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt03-initiation-tmcs-cardiogenic-shock",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 3",
+  "title": {
+    "en": "Recommendations for the Initiation of tMCS in Patients with Cardiogenic Shock",
+    "ru": "Рекомендации по инициации временной механической поддержки кровообращения (ВМПК/tMCS) у пациентов с кардиогенным шоком"
+  },
+  "tags": [
+    "tmcs",
+    "cardiogenic-shock",
+    "shock",
+    "inotropes",
+    "hypoperfusion",
+    "lactate",
+    "aki",
+    "ecpr",
+    "mi",
+    "mafp",
+    "contraindications"
+  ],
+  "sections": [
+    {
+      "id": "sec-initiation-tmcs-cardiogenic-shock",
+      "title": {
+        "en": "Recommendations for the Initiation of tMCS in Patients with Cardiogenic Shock",
+        "ru": "Рекомендации по инициации временной механической поддержки кровообращения (ВМПК) у пациентов с кардиогенным шоком"
+      },
+      "rows": [
+        {
+          "id": "r01-initiate-before-severe-organ-dysfunction",
+          "text": {
+            "en": "In patients with cardiogenic shock, it is recommended to initiate tMCS before the onset of severe organ dysfunction.",
+            "ru": "У пациентов с кардиогенным шоком рекомендуется начинать применение ВМПК (tMCS) до развития тяжелой полиорганной дисфункции."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [114, 122, 126, 156]
+        },
+        {
+          "id": "r02-escalating-vasoactive-inotropic-drugs",
+          "text": {
+            "en": "In patients with cardiogenic shock, escalating vasoactive and/or inotropic drugs should be considered as an indication for tMCS.",
+            "ru": "У пациентов с кардиогенным шоком эскалацию дозировок вазоактивных и/или инотропных препаратов следует рассматривать как показание к установке ВМПК (tMCS)."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [14, 34, 101, 108, 110]
+        },
+        {
+          "id": "r03-tissue-hypoperfusion-rising-lactate",
+          "text": {
+            "en": "In patients with cardiogenic shock, clinical signs of tissue hypoperfusion combined with rising lactate levels should be considered as an indication for tMCS.",
+            "ru": "У пациентов с кардиогенным шоком клинические признаки тканевой гипоперфузии в сочетании с нарастанием уровня лактата крови следует рассматривать как показание к ВМПК (tMCS)."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [14, 114, 121, 125, 126, 127]
+        },
+        {
+          "id": "r04-reduce-aki-early-initiation",
+          "text": {
+            "en": "In patients in cardiogenic shock on high-dose vasoactive and/or inotropic drugs, early initiation of tMCS should be considered to reduce AKI.",
+            "ru": "У пациентов с кардиогенным шоком, находящихся на терапии высокими дозами вазоактивных и/или инотропных средств, следует рассмотреть раннее начало ВМПК (tMCS) для снижения риска развития острого почечного повреждения (ОПП/AKI)."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [165]
+        },
+        {
+          "id": "r05-witnessed-cardiac-arrest-ecpr",
+          "text": {
+            "en": "For patients with a witnessed cardiac arrest undergoing immediate bystander CPR without ROSC, ECPR should be considered if it can be accomplished within 60 min.",
+            "ru": "У пациентов с остановкой сердца в присутствии свидетелей, которым немедленно начата очевидцами СЛР (CPR), при отсутствии восстановления спонтанного кровообращения (ВСР/ROSC) следует рассмотреть проведение экстракорпоральной реанимации (ЭК-СЛР/ECPR), если она может быть выполнена в течение 60 мин."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [126, 127, 141, 148, 149]
+        },
+        {
+          "id": "r06-acute-mi-prior-to-revascularization",
+          "text": {
+            "en": "In patients in cardiogenic shock due to acute MI, tMCS may be considered prior to revascularization.",
+            "ru": "У пациентов с кардиогенным шоком вследствие острого инфаркта миокарда (ИМ/MI) применение ВМПК (tMCS) может быть рассмотрено до выполнения коронарной реваскуляризации."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [18, 51, 133, 134, 135, 136, 166]
+        },
+        {
+          "id": "r07-contraindications-to-tmcs",
+          "text": {
+            "en": "The initiation of tMCS is not recommended in patients with:",
+            "ru": "Начало применения ВМПК (tMCS) не рекомендуется у пациентов со следующими факторами:"
+          },
+          "bullets": [
+            {
+              "text": {
+                "en": "life expectancy < 1 year,",
+                "ru": "ожидаемая продолжительность жизни < 1 года;"
+              }
+            },
+            {
+              "text": {
+                "en": "severe, irreversible neurologic damage,",
+                "ru": "тяжелое, необратимое неврологическое повреждение;"
+              }
+            },
+            {
+              "text": {
+                "en": "unwitnessed arrest,",
+                "ru": "остановка кровообращения без свидетелей;"
+              }
+            },
+            {
+              "text": {
+                "en": "known patient or family wishes against the use of tMCS.",
+                "ru": "задокументированный отказ самого пациента или его семьи от применения методов механической поддержки."
+              }
+            }
+          ],
+          "class": "III",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r08-contraindications-mafp-prosthesis-thrombus-vsd",
+          "text": {
+            "en": "In patients with a mechanical aortic prosthesis, or the presence of a mobile LV thrombus, or a large VSD, the institution of an mAFP is not recommended.",
+            "ru": "У пациентов с механическим протезом аортального клапана, наличием флотирующего тромба в ЛЖ (LV) или крупного дефекта межжелудочковой перегородки (ДМЖП/VSD) установка микроаксиального насоса (мОН/mAFP) не рекомендуется."
+          },
+          "class": "III",
+          "level": "C",
+          "refs": []
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 8
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

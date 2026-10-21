@@ -1,0 +1,737 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.t03-currently-available-tmcs-systems",
+  "guidelineId": "eacts-tmcs-2026",
+  "number": "Table 3",
+  "type": "grid",
+  "title": {
+    "en": "Currently Available tMCS Systems and Related Actions in Terms of Type and Extent of Support, Including Known Advantages and Disadvantages",
+    "ru": "Современные доступные системы ВМПК (tMCS) и их характеристики по типу и объему поддержки, включая известные преимущества и недостатки"
+  },
+  "tags": [
+    "tmcs",
+    "iabp",
+    "va-ecls",
+    "ecmo",
+    "mafp",
+    "impella",
+    "tlvad",
+    "rvad",
+    "hemodynamics"
+  ],
+  "columns": [
+    {
+      "id": "type_mcs",
+      "title": {
+        "en": "Type of MCS",
+        "ru": "Тип ВМПК (MCS)"
+      }
+    },
+    {
+      "id": "mode_action",
+      "title": {
+        "en": "Mode of action",
+        "ru": "Механизм действия"
+      }
+    },
+    {
+      "id": "target_support",
+      "title": {
+        "en": "Target of support",
+        "ru": "Объект поддержки"
+      }
+    },
+    {
+      "id": "level_support",
+      "title": {
+        "en": "Level of support",
+        "ru": "Степень поддержки"
+      }
+    },
+    {
+      "id": "access",
+      "title": {
+        "en": "Access",
+        "ru": "Сосудистый доступ"
+      }
+    },
+    {
+      "id": "advantages",
+      "title": {
+        "en": "Advantages",
+        "ru": "Преимущества"
+      }
+    },
+    {
+      "id": "disadvantages",
+      "title": {
+        "en": "Disadvantages and potential complications",
+        "ru": "Недостатки и потенциальные осложнения"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-iabp",
+      "cells": [
+        {
+          "text": {
+            "en": "**IABP**",
+            "ru": "**ВАБК (IABP)**"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardio-circulatory",
+            "ru": "Сердечно-сосудистый (гемодинамический)"
+          }
+        },
+        {
+          "text": {
+            "en": "LV<br>RV (indirect)",
+            "ru": "ЛЖ (LV)<br>ПЖ (RV, непрямая разгрузка)"
+          }
+        },
+        {
+          "text": {
+            "en": "+^[a]<br>+^[a]",
+            "ru": "+^[a]<br>+^[a]"
+          }
+        },
+        {
+          "text": {
+            "en": "Percutaneous peripheral arteries",
+            "ru": "Чрескожный через периферические артерии (бедренная/подмышечная)"
+          }
+        },
+        {
+          "text": {
+            "en": "Ease of insertion; very limited costs; ease of performance and monitoring; ability to place in upper body for ease of ambulation",
+            "ru": "Простота установки; низкая стоимость; простота эксплуатации и мониторинга; возможность подключения через верхнюю половину туловища для облегчения активизации пациента"
+          }
+        },
+        {
+          "text": {
+            "en": "Limited support; limb ischaemia; supra-aortic embolization; bowel ischaemia; if inappropriately positioned, potential for vascular injury (rupture, dissection)",
+            "ru": "Ограниченная гемодинамическая поддержка; ишемия конечности; эмболия в супрааортальные ветви; ишемия кишечника; при неправильном позиционировании — риск сосудистой травмы (разрыв, диссекция)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-va-ecls",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 7,
+          "tone": "neutral",
+          "text": {
+            "en": "**Venoarterial extracorporeal life support (VA-ECLS)**",
+            "ru": "**Вено-артериальная экстракорпоральная поддержка жизни (ВА-ЭКМО / VA-ECLS)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-continuous-flow-va-ecls",
+      "cells": [
+        {
+          "text": {
+            "en": "**Continuous flow VA-ECLS**",
+            "ru": "**Непрерывнопоточное ВА-ЭКМО (Continuous flow VA-ECLS)**"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardio-Circulatory-Respiratory",
+            "ru": "Сердечно-сосудистый и дыхательный"
+          }
+        },
+        {
+          "text": {
+            "en": "RV<br>LV<br>Lungs",
+            "ru": "ПЖ (RV)<br>ЛЖ (LV)<br>Легкие"
+          }
+        },
+        {
+          "text": {
+            "en": "+++++^[e]<br>++^[b]<br>+++++^[e]",
+            "ru": "+++++^[e]<br>++^[b]<br>+++++^[e]"
+          }
+        },
+        {
+          "text": {
+            "en": "Percutaneous and surgical peripheral and central vessels",
+            "ru": "Чрескожная и хирургическая канюляция периферических и центральных сосудов"
+          }
+        },
+        {
+          "text": {
+            "en": "Full right ventricular support; powerful cardiac and circulatory support; effective respiratory support; central or peripheral (femoral and axillary) approach",
+            "ru": "Полная поддержка правого желудочка; мощная гемодинамическая поддержка кровообращения; эффективная респираторная поддержка; центральный или периферический (бедренный/подмышечный) доступ"
+          }
+        },
+        {
+          "text": {
+            "en": "LV distension (often LV unloading required); differential oxygenation; limb ischaemia; spinal cord ischaemia; SIRS; bleeding/embolization with potential of vascular injury (rupture, dissection); risk of thrombi formation, and systemic arterial embolization; access site bleeding",
+            "ru": "Перерастяжение ЛЖ (часто требуется активная декомпрессия ЛЖ); синдром дифференциальной гипоксемии («синдром Арлекина»); ишемия конечности; ишемия спинного мозга; ССВО (SIRS); кровотечения/эмболии с риском сосудистой травмы (разрыв, расслоение); тромбообразование и системная артериальная эмболия; кровотечение из места доступа"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r03-pulsatile-va-ecls",
+      "cells": [
+        {
+          "text": {
+            "en": "**Pulsatile VA-ECLS**",
+            "ru": "**Пульсирующее ВА-ЭКМО (Pulsatile VA-ECLS)**"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardio-Circulatory",
+            "ru": "Сердечно-сосудистый"
+          }
+        },
+        {
+          "text": {
+            "en": "RV<br>LV<br>Lungs",
+            "ru": "ПЖ (RV)<br>ЛЖ (LV)<br>Легкие"
+          }
+        },
+        {
+          "text": {
+            "en": "++++^[d]<br>+++^[c]<br>++++^[d]",
+            "ru": "++++^[d]<br>+++^[c]<br>++++^[d]"
+          }
+        },
+        {
+          "text": {
+            "en": "Percutaneous peripheral arteries",
+            "ru": "Чрескожный через периферические артерии"
+          }
+        },
+        {
+          "text": {
+            "en": "Pulsatile support",
+            "ru": "Пульсирующий характер потока"
+          }
+        },
+        {
+          "text": {
+            "en": "Still limited experience; complications similar to those of VA-ECLS; potential for vascular injury (rupture, dissection); risk of thrombi formation and systemic arterial embolization; access site bleeding",
+            "ru": "Пока ограниченный клинический опыт; спектр осложнений аналогичен стандартному ВА-ЭКМО; риск повреждения сосудов (разрыв, диссекция); риск тромбообразования и системной артериальной эмболии; кровотечение из места доступа"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-left-mafp",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 7,
+          "tone": "neutral",
+          "text": {
+            "en": "**Left-sided microaxial flow pump (mAFP)**",
+            "ru": "**Левосторонний микроаксиальный насос (мОН / mAFP)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r04-partial-support-mafp",
+      "cells": [
+        {
+          "text": {
+            "en": "**Partial support mAFP**",
+            "ru": "**мОН с частичной поддержкой (Partial support mAFP)**"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardio-Circulatory",
+            "ru": "Сердечно-сосудистый"
+          }
+        },
+        {
+          "text": {
+            "en": "LV<br>RV (indirect)",
+            "ru": "ЛЖ (LV)<br>ПЖ (RV, непрямая разгрузка)"
+          }
+        },
+        {
+          "text": {
+            "en": "+++^[c]<br>++^[b]",
+            "ru": "+++^[c]<br>++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "Percutaneous and surgical peripheral arteries",
+            "ru": "Чрескожный и хирургический доступ через периферические артерии"
+          }
+        },
+        {
+          "text": {
+            "en": "Fast initiation during intervention; aortic root washout; LV unloading and related advantages",
+            "ru": "Быстрое подключение во время вмешательства; промывание корня аорты; прямая разгрузка ЛЖ и связанные с этим гемодинамические преимущества"
+          }
+        },
+        {
+          "text": {
+            "en": "Dislodgement; haemolysis; limited ventricular support; limb ischaemia; positional; potential of vascular injury (rupture, dissection); risk of thrombi formation and systemic arterial embolization; access site bleeding",
+            "ru": "Дислокация катетера; гемолиз; ограниченная производительность поддержки желудочка; ишемия конечности; позиционная чувствительность; риск сосудистой травмы (разрыв, диссекция); риск тромбообразования и артериальной эмболии; кровотечение из места пункции"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r05-full-support-mafp",
+      "cells": [
+        {
+          "text": {
+            "en": "**Full support mAFP**",
+            "ru": "**мОН с полной поддержкой (Full support mAFP, напр. Impella 5.5)**"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardio-Circulatory",
+            "ru": "Сердечно-сосудистый"
+          }
+        },
+        {
+          "text": {
+            "en": "LV<br>RV (indirect)",
+            "ru": "ЛЖ (LV)<br>ПЖ (RV, непрямая разгрузка)"
+          }
+        },
+        {
+          "text": {
+            "en": "+++++^[e]<br>++^[b]",
+            "ru": "+++++^[e]<br>++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "Surgical, preferably via axillary artery; ascending aorta or carotid artery also possible",
+            "ru": "Хирургический, преимущественно через подключичную/подмышечную артерию; также возможен доступ через восходящую аорту или сонную артерию"
+          }
+        },
+        {
+          "text": {
+            "en": "Full left ventricular support; prolonged support possible; aortic root washout; LV unloading and related advantages; ability to place in upper body for ease of ambulation; enhanced patient mobility",
+            "ru": "Полная поддержка левого желудочка; возможность продленной поддержки; промывание корня аорты; разгрузка ЛЖ; подключение в верхней половине туловища для облегчения мобилизации и ранней реабилитации пациента"
+          }
+        },
+        {
+          "text": {
+            "en": "Surgical access required; haemolysis; dislodgement; infection; thrombi at the prosthetic access; positional; potential of vascular injury (rupture, dissection); risk of thrombi formation and systemic arterial embolization; access site bleeding",
+            "ru": "Требуется хирургическое выделение сосуда / вшивание протеза; гемолиз; дислокация; инфекция; тромбоз в зоне сосудистого протеза; позиционная нестабильность; риск травмы сосудов (разрыв, диссекция); системная артериальная эмболия; кровотечение из зоны доступа"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-right-mafp",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 7,
+          "tone": "neutral",
+          "text": {
+            "en": "**Right-sided microaxial flow pump (mAFP)**",
+            "ru": "**Правосторонний микроаксиальный насос (мОН / mAFP, напр. Impella RP)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r06-right-mafp-femoral",
+      "cells": [
+        {
+          "text": {
+            "en": "**mAFP (femoral)**",
+            "ru": "**мОН бедренного доступа (mAFP femoral)**"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardio-Circulatory",
+            "ru": "Сердечно-сосудистый"
+          }
+        },
+        {
+          "text": {
+            "en": "RV",
+            "ru": "ПЖ (RV)"
+          }
+        },
+        {
+          "text": {
+            "en": "+++++^[e]",
+            "ru": "+++++^[e]"
+          }
+        },
+        {
+          "text": {
+            "en": "Percutaneous right femoral vein",
+            "ru": "Чрескожный доступ через правую бедренную вену"
+          }
+        },
+        {
+          "text": {
+            "en": "Fast insertion in catheterization laboratory",
+            "ru": "Быстрое заведение в условиях рентгенэндоваскулярной операционной"
+          }
+        },
+        {
+          "text": {
+            "en": "No respiratory support; haemolysis; dislocation",
+            "ru": "Отсутствие респираторной поддержки; гемолиз; дислокация канюли"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r07-right-mafp-jugular",
+      "cells": [
+        {
+          "text": {
+            "en": "**mAFP (jugular)**",
+            "ru": "**мОН яремного доступа (mAFP jugular)**"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardio-Circulatory",
+            "ru": "Сердечно-сосудистый"
+          }
+        },
+        {
+          "text": {
+            "en": "RV",
+            "ru": "ПЖ (RV)"
+          }
+        },
+        {
+          "text": {
+            "en": "+++++^[e]",
+            "ru": "+++++^[e]"
+          }
+        },
+        {
+          "text": {
+            "en": "Percutaneous right jugular vein",
+            "ru": "Чрескожный доступ через правую внутреннюю яремную вену"
+          }
+        },
+        {
+          "text": {
+            "en": "Fast insertion in catheterization laboratory; enhanced patient mobility",
+            "ru": "Быстрая установка в рентгеноперационной; сохранение подвижности и возможности активизации пациента"
+          }
+        },
+        {
+          "text": {
+            "en": "No respiratory support; haemolysis; dislocation",
+            "ru": "Отсутствие респираторной поддержки; гемолиз; дислокация канюли"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-centrifugal-tlvad",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 7,
+          "tone": "neutral",
+          "text": {
+            "en": "**Left-sided centrifugal flow pump**",
+            "ru": "**Левосторонние центрифужные насосы**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r08-percutaneous-transseptal-tlvad",
+      "cells": [
+        {
+          "text": {
+            "en": "**Percutaneous transseptal tLVAD**",
+            "ru": "**Чрескожный транссептальный tLVAD (напр. TandemHeart)**"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardio-Circulatory / Respiratory",
+            "ru": "Сердечно-сосудистый / дыхательный (при добавлении оксигенатора)"
+          }
+        },
+        {
+          "text": {
+            "en": "LV<br>RV<br>Lungs",
+            "ru": "ЛЖ (LV)<br>ПЖ (RV)<br>Легкие"
+          }
+        },
+        {
+          "text": {
+            "en": "++++^[d]<br>+++^[c]<br>+++++^[e]",
+            "ru": "++++^[d]<br>+++^[c]<br>+++++^[e]"
+          }
+        },
+        {
+          "text": {
+            "en": "Percutaneous femoral veins",
+            "ru": "Чрескожная пункция бедренных вен (с транссептальной пункцией)"
+          }
+        },
+        {
+          "text": {
+            "en": "Left ventricular support and unloading; possible in patients with mechanical aortic valve",
+            "ru": "Эффективная разгрузка и поддержка левого желудочка; возможность применения у пациентов с механическим аортальным протезом"
+          }
+        },
+        {
+          "text": {
+            "en": "Mainly for the femoral approach; limb ischaemia; spinal cord ischaemia; access site bleeding; Risk of life-threatening inflow transseptal cannula migration; risk of thrombi formation and systemic arterial embolization",
+            "ru": "Преимущественно бедренный доступ; ишемия конечности; ишемия спинного мозга; кровотечение из места пункции; риск жизнеугрожающей дислокации транссептальной заборной канюли; риск тромбообразования и артериальной эмболии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r09-maglev-extracorporeal-centrifugal-tlvad",
+      "cells": [
+        {
+          "text": {
+            "en": "**tLVAD employing magnetically levitated extracorporeal centrifugal pump**",
+            "ru": "**tLVAD на базе экстракорпорального центрифужного насоса с магнитной левитацией (напр. CentriMag)**"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardio-Circulatory",
+            "ru": "Сердечно-сосудистый"
+          }
+        },
+        {
+          "text": {
+            "en": "LV",
+            "ru": "ЛЖ (LV)"
+          }
+        },
+        {
+          "text": {
+            "en": "+++++^[e]",
+            "ru": "+++++^[e]"
+          }
+        },
+        {
+          "text": {
+            "en": "Surgical central cannulation",
+            "ru": "Хирургическая центральная канюляция"
+          }
+        },
+        {
+          "text": {
+            "en": "Full support and ventricular unloading; prolonged support possible; low anticoagulation required; incorporation of oxygenator possible; biventricular support possible",
+            "ru": "Полная гемодинамическая поддержка и эффективная разгрузка желудочка; возможность длительной поддержки; низкие требования к интенсивности антикоагуляции; возможность интеграции оксигенатора; возможность создания бивентрикулярной поддержки (BiVAD)"
+          }
+        },
+        {
+          "text": {
+            "en": "Central or minimally invasive cannulation; haemorrhage; infection; embolic stroke; risk of thrombi formation and systemic arterial embolization",
+            "ru": "Необходимость центральной или миниинвазивной хирургической канюляции; кровотечение; инфекция; эмболический инсульт; риск тромбообразования и системной артериальной эмболии"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r10-pump-bidirectional-valve",
+      "cells": [
+        {
+          "text": {
+            "en": "**Pump with bi-directional valve (obtained CE Mark; not FDA approved)**",
+            "ru": "**Насос с двунаправленным клапаном (маркировка CE; не одобрен FDA, напр. PulseCath iVAC 2L)**"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardio-Circulatory",
+            "ru": "Сердечно-сосудистый"
+          }
+        },
+        {
+          "text": {
+            "en": "LV",
+            "ru": "ЛЖ (LV)"
+          }
+        },
+        {
+          "text": {
+            "en": "+++^[c]<br>++^[b]",
+            "ru": "+++^[c]<br>++^[b]"
+          }
+        },
+        {
+          "text": {
+            "en": "Percutaneous peripheral arteries",
+            "ru": "Чрескожный через периферические артерии (бедренная артерия)"
+          }
+        },
+        {
+          "text": {
+            "en": "Pulsatile support",
+            "ru": "Пульсирующий синхронизированный поток поддержки"
+          }
+        },
+        {
+          "text": {
+            "en": "Limited LV support; no comprehensive and conclusive experience; mainly adopted in \"Protected PCI\"; potential of vascular injury (rupture, dissection); risk of thrombi formation and systemic arterial embolization; access site bleeding",
+            "ru": "Ограниченный объем поддержки ЛЖ; отсутствие убедительной доказательной базы; применяется главным образом при «защищенных ЧКВ» (Protected PCI); риск травмы сосудов (разрыв, диссекция); риск тромбообразования и системной эмболии; кровотечение из места доступа"
+          }
+        }
+      ]
+    },
+    {
+      "id": "sec-paracorporeal-rvad",
+      "kind": "section",
+      "cells": [
+        {
+          "colspan": 7,
+          "tone": "neutral",
+          "text": {
+            "en": "**Paracorporeal RVAD**",
+            "ru": "**Паракорпоральные устройства поддержки правого желудочка (RVAD)**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r11-ra-pa-oxyrvad",
+      "cells": [
+        {
+          "text": {
+            "en": "**RA–PA OxyRVAD**",
+            "ru": "**ПП–ЛА OxyRVAD (RA–PA OxyRVAD, напр. ProtekDuo)**"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardio-Circulatory / Respiratory",
+            "ru": "Сердечно-сосудистый и дыхательный"
+          }
+        },
+        {
+          "text": {
+            "en": "RV & Lungs",
+            "ru": "ПЖ (RV) и легкие"
+          }
+        },
+        {
+          "text": {
+            "en": "+++++^[e]",
+            "ru": "+++++^[e]"
+          }
+        },
+        {
+          "text": {
+            "en": "Percutaneous with single-lumen or double-lumen cannula or central cannulation employing vascular prosthesis on the PA",
+            "ru": "Чрескожный с двухпросветной канюлей или центральная канюляция с подшиванием сосудистого протеза к стволу ЛА"
+          }
+        },
+        {
+          "text": {
+            "en": "Enhanced patient mobility",
+            "ru": "Улучшенная мобильность и возможность ранней активизации пациента"
+          }
+        },
+        {
+          "text": {
+            "en": "With an open-chest approach: infection and chest reopening to remove the cannula; bleeding. With percutaneous approach: thrombosis and risk of lung embolization from the circuit; impingement of the pulmonary or tricuspid valve with subsequent regurgitation",
+            "ru": "При открытом доступе: инфекция и необходимость рестернотомии для удаления канюль; кровотечение. При чрескожном доступе: тромбоз контура и риск ТЭЛА; травматизация/дисфункция клапана легочной артерии или трикуспидального клапана с возникновением регургитации"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r12-ra-la-rvad",
+      "cells": [
+        {
+          "text": {
+            "en": "**Right atrium–left atrium RVAD**",
+            "ru": "**RVAD с канюляцией правое предсердие – левое предсердие**"
+          }
+        },
+        {
+          "text": {
+            "en": "Cardio-Circulatory / Respiratory",
+            "ru": "Сердечно-сосудистый и дыхательный"
+          }
+        },
+        {
+          "text": {
+            "en": "RV<br>Lungs",
+            "ru": "ПЖ (RV)<br>Легкие"
+          }
+        },
+        {
+          "text": {
+            "en": "+++++^[e]",
+            "ru": "+++++^[e]"
+          }
+        },
+        {
+          "text": {
+            "en": "Surgical central cannulation",
+            "ru": "Хирургическая центральная канюляция"
+          }
+        },
+        {
+          "text": {
+            "en": "Full RV support",
+            "ru": "Полная поддержка правого желудочка"
+          }
+        },
+        {
+          "text": {
+            "en": "Only RV support; surgical approach requiring a sternotomy or thoracotomy, with risk for infection and need for chest reopening to remove the cannula; bleeding",
+            "ru": "Изолированная поддержка ПЖ; открытый хирургический доступ через стернотомию или торакотомию с риском инфекции и необходимостью повторного вмешательства для деканюляции; кровотечение"
+          }
+        }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Minimal support (+).",
+      "ru": "Минимальная поддержка (+)."
+    },
+    "b": {
+      "en": "Progressing through increasing levels of support (++).",
+      "ru": "Нарастающая степень поддержки (++)."
+    },
+    "c": {
+      "en": "Progressing through increasing levels of support (+++).",
+      "ru": "Нарастающая степень поддержки (+++)."
+    },
+    "d": {
+      "en": "Progressing through increasing levels of support (++++).",
+      "ru": "Нарастающая степень поддержки (++++)."
+    },
+    "e": {
+      "en": "Full support (+++++).",
+      "ru": "Полная поддержка (+++++)."
+    }
+  },
+  "source": {
+    "note": "Currently available tMCS systems and their hemodynamic actions in adult cardiac surgery (Table 3)"
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

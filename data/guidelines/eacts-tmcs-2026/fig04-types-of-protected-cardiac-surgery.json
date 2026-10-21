@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.fig04-types-of-protected-cardiac-surgery",
+  "guidelineId": "eacts-tmcs-2026",
+  "number": "Figure 4",
+  "type": "grid",
+  "title": {
+    "en": "Types of Protected Cardiac Surgery: Surgical Settings for Management Using Pre-emptive tMCS",
+    "ru": "Варианты «защищенной» кардиохирургии (Protected Cardiac Surgery): клинические сценарии применения превентивной ВМПК"
+  },
+  "tags": [
+    "tmcs",
+    "protected-cardiac-surgery",
+    "pre-emptive-tmcs",
+    "lcos",
+    "cpb-weaning",
+    "vis-score",
+    "cardiogenic-shock"
+  ],
+  "columns": [
+    {
+      "id": "type1",
+      "title": {
+        "en": "Type 1: Preoperative tMCS<br>*(bridge-to-surgery)*",
+        "ru": "Тип 1: Предоперационная ВМПК<br>*(мост к операции / bridge-to-surgery)*"
+      }
+    },
+    {
+      "id": "type2",
+      "title": {
+        "en": "Type 2: Planned intraoperative tMCS<br>*(bridge-to-recovery / advanced therapies)*",
+        "ru": "Тип 2: Плановая интраоперационная ВМПК<br>*(мост к восстановлению / bridge-to-recovery)*"
+      }
+    },
+    {
+      "id": "type3",
+      "title": {
+        "en": "Type 3: Unplanned intraoperative tMCS<br>*(bridge-to-decision / recovery / advanced therapies)*",
+        "ru": "Тип 3: Экстренная интраоперационная ВМПК<br>*(мост к решению / восстановлению / bridge-to-decision)*"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-clinical-category-header",
+      "cells": [
+        {
+          "tone": "yellow",
+          "text": {
+            "en": "**Poor preoperative conditions**",
+            "ru": "**Тяжелое исходное состояние пациента**"
+          }
+        },
+        {
+          "tone": "orange",
+          "text": {
+            "en": "**High-risk patients for postoperative LCOS**",
+            "ru": "**Высокий риск развития послеоперационного LCOS**"
+          }
+        },
+        {
+          "tone": "red",
+          "text": {
+            "en": "**Patients in perioperative LCOS**",
+            "ru": "**Развившийся интраоперационный синдром LCOS**"
+          }
+        }
+      ]
+    },
+    {
+      "id": "r02-clinical-scenarios",
+      "cells": [
+        {
+          "text": {
+            "en": "• Cardiogenic shock<br>• Severe refractory acidosis<br>• Impaired lactate clearance<br>• Severe lung oedema<br>• Cardiac arrest<br>• Severe acute myocardial infarction<br>• Septic shock<br>• Post-AMI VSD or PMR<br>• Electrical storm<br>• Reduced uni- or biventricular function",
+            "ru": "• Кардиогенный шок<br>• Тяжелый рефрактерный ацидоз<br>• Нарушение элиминации (клиренса) лактата<br>• Тяжелый отек легких<br>• Остановка кровообращения<br>• Тяжелый острый инфаркт миокарда<br>• Септический шок<br>• Разрыв МЖП (VSD) или отрыв сосочковой мышцы (PMR) после ОИМ<br>• Электрический шторм (рецидивирующие тахиаритмии)<br>• Сниженная моно- или бивентрикулярная функция"
+          }
+        },
+        {
+          "text": {
+            "en": "• Cardiogenic shock<br>• Metabolic acidosis<br>• Severe lung oedema<br>• Cardiac arrest<br>• Incomplete revascularization<br>• Suboptimal cardiac protection<br>• Prolonged cardiac ischaemia<br>• Reduced uni- or biventricular function",
+            "ru": "• Кардиогенный шок<br>• Метаболический ацидоз<br>• Тяжелый отек легких<br>• Остановка кровообращения в анамнезе<br>• Неполная реваскуляризация миокарда<br>• Субоптимальная защита миокарда (кардиоплегия)<br>• Длительное время пережатия аорты / ишемии миокарда<br>• Сниженная моно- или бивентрикулярная функция"
+          }
+        },
+        {
+          "text": {
+            "en": "• No weaning from CPB<br>• Prolonged acidosis during CPB<br>• Unexpected LV failure<br>• Unexpected RV failure<br>• Post-CPB cardiac arrest<br>• VIS >30<br>• Incomplete revascularization<br>• Suboptimal cardiac protection<br>• Risk for cardiac/repair rupture<br>• Failed cardiac surgery",
+            "ru": "• Невозможность отключения от аппарата ИК (CPB)<br>• Прогрессирующий ацидоз во время ИК<br>• Острая непредвиденная левожелудочковая недостаточность<br>• Острая непредвиденная правожелудочковая недостаточность<br>• Остановка сердца после деканюляции ИК<br>• Инотропный вазоактивный индекс (VIS) > 30<br>• Неполная реваскуляризация<br>• Субоптимальная кардиоплегическая защита<br>• Угроза разрыва миокарда / несостоятельности пластики<br>• Неэффективность проведенного вмешательства"
+          }
+        }
+      ]
+    }
+  ],
+  "source": {
+    "note": "Transcribed from Figure 4: Surgical settings for protected cardiac surgery management using pre-emptive tMCS"
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

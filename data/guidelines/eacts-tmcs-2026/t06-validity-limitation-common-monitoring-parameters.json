@@ -1,0 +1,277 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.t06-validity-limitation-common-monitoring-parameters",
+  "guidelineId": "eacts-tmcs-2026",
+  "number": "Table 6",
+  "type": "grid",
+  "title": {
+    "en": "Validity and Limitation of Common Monitoring Parameters^[a]",
+    "ru": "Достоверность и ограничения распространенных параметров мониторинга^[a]"
+  },
+  "tags": [
+    "tmcs",
+    "monitoring",
+    "validity",
+    "limitations",
+    "iabp",
+    "mafp",
+    "vv-ecls",
+    "va-ecls",
+    "lvad",
+    "rvad",
+    "scvo2",
+    "cvp",
+    "pap",
+    "pcwp",
+    "lvot-vti",
+    "awa",
+    "tpco",
+    "nirs",
+    "pocus"
+  ],
+  "columns": [
+    {
+      "id": "parameter",
+      "title": {
+        "en": "Parameter",
+        "ru": "Параметр"
+      }
+    },
+    {
+      "id": "iabp",
+      "title": {
+        "en": "IABP",
+        "ru": "ВАБК (IABP)"
+      }
+    },
+    {
+      "id": "mafp",
+      "title": {
+        "en": "mAFP",
+        "ru": "мОН (mAFP)"
+      }
+    },
+    {
+      "id": "vv_ecls",
+      "title": {
+        "en": "VV-ECLS",
+        "ru": "ВВ-ЭКМО (VV-ECLS)"
+      }
+    },
+    {
+      "id": "va_ecls",
+      "title": {
+        "en": "VA-ECLS",
+        "ru": "ВА-ЭКМО (VA-ECLS)"
+      }
+    },
+    {
+      "id": "paracorporeal_lvad",
+      "title": {
+        "en": "Paracorporeal LVAD",
+        "ru": "Паракорпоральный LVAD"
+      }
+    },
+    {
+      "id": "paracorporeal_rvad",
+      "title": {
+        "en": "Paracorporeal RVAD",
+        "ru": "Паракорпоральный RVAD"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-scvo2",
+      "cells": [
+        { "text": { "en": "ScvO₂", "ru": "ScvO₂ (сатурация центральной венозной крови)" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } }
+      ]
+    },
+    {
+      "id": "r02-ecls-scvo2",
+      "cells": [
+        { "text": { "en": "ECLS ScvO₂", "ru": "ScvO₂ контура ЭКМО" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "—", "ru": "—" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } }
+      ]
+    },
+    {
+      "id": "r03-pac-co",
+      "cells": [
+        { "text": { "en": "PAC CO", "ru": "СВ по катетеру легочной артерии (PAC CO / термодилюция)" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } }
+      ]
+    },
+    {
+      "id": "r04-cvp",
+      "cells": [
+        { "text": { "en": "CVP", "ru": "ЦВД (CVP)" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } }
+      ]
+    },
+    {
+      "id": "r05-pap",
+      "cells": [
+        { "text": { "en": "PAP", "ru": "Давление в легочной артерии (ДЛА / PAP)" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } }
+      ]
+    },
+    {
+      "id": "r06-pcwp",
+      "cells": [
+        { "text": { "en": "PCWP", "ru": "ДЗЛА (PCWP / давление заклинивания в ЛА)" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } }
+      ]
+    },
+    {
+      "id": "r07-lvot-vti",
+      "cells": [
+        { "text": { "en": "LVOT VTI", "ru": "Интеграл линейной скорости в ВТЛЖ (LVOT VTI)" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } }
+      ]
+    },
+    {
+      "id": "r08-uncalibrated-awa-co",
+      "cells": [
+        { "text": { "en": "Uncalibrated AWA CO", "ru": "Некалиброванный СВ по анализу формы пульсовой волны (AWA CO)" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Valid (470)", "ru": "Достоверно (470)" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } }
+      ]
+    },
+    {
+      "id": "r09-tpco",
+      "cells": [
+        { "text": { "en": "TPCO", "ru": "Транспульмональная термодилюция СВ (TPCO)" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable (471, 472)", "ru": "Недостоверно (471, 472)" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } }
+      ]
+    },
+    {
+      "id": "r10-spo2",
+      "cells": [
+        { "text": { "en": "SpO₂", "ru": "SpO₂ (пульсоксиметрия)" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } }
+      ]
+    },
+    {
+      "id": "r11-cerebral-rso2",
+      "cells": [
+        { "text": { "en": "Cerebral rSO₂", "ru": "Церебральная rSO₂ (NIRS / церебральная оксиметрия)" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } }
+      ]
+    },
+    {
+      "id": "r12-ppv-svv",
+      "cells": [
+        { "text": { "en": "PPV / SVV", "ru": "Вариация пульсового давления и ударного объема (PPV / SVV)" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } },
+        { "text": { "en": "Unreliable", "ru": "Недостоверно" } }
+      ]
+    },
+    {
+      "id": "r13-plr",
+      "cells": [
+        { "text": { "en": "PLR", "ru": "Тест с пассивным подъемом ног (PLR)" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } }
+      ]
+    },
+    {
+      "id": "r14-peripheral-rso2",
+      "cells": [
+        { "text": { "en": "Peripheral rSO₂", "ru": "Периферическая rSO₂ (соматическая оксиметрия / NIRS)" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } }
+      ]
+    },
+    {
+      "id": "r15-pocus",
+      "cells": [
+        { "text": { "en": "POCUS", "ru": "Прикроватное УЗИ (POCUS)" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } },
+        { "text": { "en": "Valid", "ru": "Достоверно" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Adapted from Krishnan et al. (473)",
+      "ru": "Адаптировано из Krishnan et al. (473)"
+    }
+  },
+  "source": {
+    "note": "Validity and limitation of common monitoring parameters across mechanical support modalities (Table 6)"
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

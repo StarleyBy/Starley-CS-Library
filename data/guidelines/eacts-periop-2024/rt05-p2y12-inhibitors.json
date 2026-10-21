@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt05-p2y12-inhibitors",
+  "guidelineId": "eacts-periop-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 5",
+  "title": {
+    "en": "Recommendations for P2Y12 inhibitors",
+    "ru": "Рекомендации по ингибиторам рецепторов P2Y12"
+  },
+  "tags": [
+    "p2y12",
+    "antiplatelet",
+    "dapt",
+    "ticagrelor",
+    "clopidogrel",
+    "prasugrel",
+    "cangrelor",
+    "cabg",
+    "acs",
+    "pci",
+    "ccs"
+  ],
+  "sections": [
+    {
+      "id": "sec-preoperative-period",
+      "title": {
+        "en": "Preoperative period",
+        "ru": "Предоперационный период"
+      },
+      "rows": [
+        {
+          "id": "r01-discontinuation-timing-dapt",
+          "text": {
+            "en": "In patients on DAPT who need non-emergency open-heart surgery, it should be considered to postpone surgery at least 3 days after discontinuation of ticagrelor, 5 days after clopidogrel and 7 days after prasugrel, to reduce bleeding.",
+            "ru": "У пациентов на ДАТ (DAPT), нуждающихся в неэкстренной операции на открытом сердце, следует рассмотреть возможность отложить вмешательство как минимум на 3 дня после отмены тикагрелора, на 5 дней после клопидогрела и на 7 дней после прасугрела для уменьшения кровотечений."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [127, 128, 129, 137]
+        },
+        {
+          "id": "r02-platelet-function-testing",
+          "text": {
+            "en": "Testing for residual platelet function may be considered in patients who have received an oral P2Y12-receptor inhibitor <7 days before open-heart surgery, to guide the timing of the operation and reduce bleeding.",
+            "ru": "Оценка остаточной функции тромбоцитов может быть рассмотрена у пациентов, получавших пероральный ингибитор рецепторов P2Y12 менее чем за 7 дней до операции на открытом сердце, для определения оптимального времени вмешательства и уменьшения кровотечений."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [138, 140, 143]
+        },
+        {
+          "id": "r03-bridging-cangrelor",
+          "text": {
+            "en": "Bridging P2Y12-receptor inhibitors with a intravenous, reduced-dose of cangrelor until open-heart surgery may be considered in patients at high thromboembolic risk, to reduce major cardiovascular events.",
+            "ru": "Мост-терапия ингибиторами рецепторов P2Y12 с помощью внутривенного введения кангрелора в сниженной дозе до операции на открытом сердце может быть рассмотрена у пациентов с высоким тромбоэмболическим риском для снижения частоты больших неблагоприятных сердечно-сосудистых событий."
+          },
+          "class": "IIb",
+          "level": "C"
+        }
+      ]
+    },
+    {
+      "id": "sec-postoperative-period",
+      "title": {
+        "en": "Postoperative period",
+        "ru": "Послеоперационный период"
+      },
+      "rows": [
+        {
+          "id": "r04-resuming-starting-dapt-acs-pci",
+          "text": {
+            "en": "In patients with recent ACS or PCI, resuming or starting DAPT after open-heart surgery for the indicated duration is recommended as soon as it is considered safe to reduce the risk of stent thrombosis and major cardiovascular events.",
+            "ru": "У пациентов с недавним ОКС (ACS) или ЧКВ (PCI) возобновление или назначение ДАТ (DAPT) после операции на открытом сердце на рекомендованный срок показано, как только это будет признано безопасным, для снижения риска тромбоза стента и больших неблагоприятных сердечно-сосудистых событий."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [126, 127, 128]
+        },
+        {
+          "id": "r05-dapt-ccs-cabg-graft-failure",
+          "text": {
+            "en": "In patients with CCS undergoing CABG, DAPT after surgery may be considered to reduce graft failure.",
+            "ru": "У пациентов с ХКС (CCS), перенесших КШ (CABG), проведение ДАТ (DAPT) после операции может быть рассмотрено для снижения частоты несостоятельности шунтов."
+          },
+          "class": "IIb",
+          "level": "B",
+          "refs": [145, 146]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

@@ -205,6 +205,9 @@ The 2025 ESC/EACTS Guidelines for the management of valvular heart disease aim t
 
 #### <span id="table-3"></span>Table 3: New recommendations</summary><div class="details-content">
 
+[📋 Open interactive Table 3 with search and filters](#/tables/esc-vhd-2025.t03-new-recommendations)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Diagnosis of coronary artery disease — Section 6.1** | | |
@@ -261,6 +264,9 @@ The 2025 ESC/EACTS Guidelines for the management of valvular heart disease aim t
 <details class="med-details"><summary>
 
 #### <span id="table-4"></span>Table 4: Revised recommendations</summary><div class="details-content">
+
+[📋 Open interactive Table 4 with comparison and filters](#/tables/esc-vhd-2025.t04-revised-recommendations)
+
 
 | Recommendations in 2021 version | Class | Level | Recommendations in 2025 version | Class | Level |
 |--------------------------------|-------|-------|--------------------------------|-------|-------|
@@ -359,6 +365,9 @@ Heart Valve Centres should ensure that their facilities match institutional and 
 
 #### <span id="table-5"></span>Table 5: Requirements for a Heart Valve Centre</summary><div class="details-content">
 
+[📋 Open interactive Table 5: Requirements for a Heart Valve Centre](#/tables/esc-vhd-2025.t05-requirements-heart-valve-centre)
+
+
 | Requirement | Description |
 |-------------|-------------|
 | Centre performing heart valve procedures | with on-site interventional cardiology and cardiac surgery departments providing 24-h/7-day services. |
@@ -403,6 +412,9 @@ National procedural activity varies widely between high-, middle-, and low-incom
 <details class="med-details"><summary>
 
 #### <span id="table-6"></span>Table 6: Complex procedures ideally performed in the most experienced Heart Valve Centres</summary><div class="details-content">
+
+[📋 Open interactive Table 6: Complex procedures in Valve Centres](#/tables/esc-vhd-2025.t06-complex-procedures-centres)
+
 
 | **Transcatheter interventions** | **Surgical interventions** |
 |--------------------------------|---------------------------|
@@ -601,6 +613,9 @@ For patients with VHD presenting with acute coronary syndrome, treatment decisio
 
 #### <span id="table-rec-1"></span>Recommendation Table 1 - Recommendations for the management of chronic coronary syndrome in patients with valvular heart disease (see also Supplementary data online, Evidence Table 1)</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for the management of chronic coronary syndrome in patients with valvular heart disease](#/tables/esc-vhd-2025.rt01-recommendations-ccs-in-vhd)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Diagnosis of coronary artery disease** | | |
@@ -635,6 +650,9 @@ In the Left Atrial Appendage Occlusion Study (LAAOS) III trial, surgical left at
 <details class="med-details"><summary>
 
 #### <span id="table-rec-2"></span>Recommendation Table 2 - Recommendations for the management of atrial fibrillation in patients with native valvular heart disease (see also Supplementary data online, Evidence Tables 2 and 3)</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for the management of atrial fibrillation in patients with native valvular heart disease](#/tables/esc-vhd-2025.rt02-recommendations-af-in-vhd)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -755,6 +773,9 @@ Aortic dilatation is closely linked to AR. Dedicated ESC Guidelines give guidanc
 <details class="med-details"><summary>
 
 #### <span id="table-rec-3"></span>Recommendation Table 3 - Recommendations on indications for intervention in severe aortic regurgitation (see also Supplementary data online, Evidence Tables 4-8)</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations on indications for intervention in severe aortic regurgitation](#/tables/esc-vhd-2025.rt03-recommendations-severe-ar)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1042,9 +1063,15 @@ For all other candidates for a bioprosthesis, the most appropriate mode of inter
 
 **Figure 9** Factors to be considered when selecting the mode of intervention for aortic stenosis.
 
+[📋 Interactive Table: Aspects to be considered for decision between SAVR and TAVI](#/tables/esc-vhd-2025.t07-savr-vs-tavi-factors)
+
+
 <details class="med-details"><summary>
 
 #### <span id="table-rec-4"></span>Recommendation Table 4 - Recommendations on indications for intervention in symptomatic and asymptomatic severe aortic stenosis, and recommended mode of intervention (see also Supplementary data online, Evidence Tables 9-13)</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations on indications for intervention in severe aortic stenosis](#/tables/esc-vhd-2025.rt04-recommendations-severe-as)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1072,6 +1099,9 @@ For all other candidates for a bioprosthesis, the most appropriate mode of inter
 <details class="med-details"><summary>
 
 #### <span id="table-rec-5"></span>Recommendation Table 5 - Recommendations on indications for concomitant aortic valve replacement at the time of coronary artery bypass grafting or ascending aorta surgery</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations on indications for concomitant SAVR at the time of CABG or ascending aorta surgery](#/tables/esc-vhd-2025.rt05-concomitant-avr-cabg-aorta)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1208,6 +1238,9 @@ In patients with asymptomatic PMR with signs of LV dysfunction (i.e. LVEF ≤60%
 
 #### <span id="table-rec-6"></span>Recommendation Table 6 - Recommendations on indications for intervention in severe primary mitral regurgitation (see also Supplementary data online, Evidence Tables 14-16)</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations on indications for intervention in severe primary mitral regurgitation](#/tables/esc-vhd-2025.rt06-recommendations-severe-pmr)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | MV repair is the recommended surgical technique to treat patients with severe PMR when the result is expected to be durable. | I | B |
@@ -1265,7 +1298,10 @@ Characteristics distinguishing between atrial and ventricular SMR are displayed 
 
 <span id="fig-12"></span>![](_page_1_Figure_12.jpeg)
 
-**Figure 12** Most frequently used criteria for the diagnosis of atrial secondary mitral regurgitation. Atrial SMR is most frequently defined by the presence of the following key criteria: preserved LVEF (≥50%) without regional wall motion abnormalities or leaflet tethering; AND no or mildly dilated LV cavity (LV end-diastolic dimension <56 mm in females and <63 mm in males; indexed LV end-diastolic volume <71 mL/m² (in women) or <79 mL/m² (in men)); AND mitral annulus (MA) dilatation (anteroposterior (AP) diameter >35 mm); AND enlarged LA (LAVI >34 mL/m²).
+**Figure 12** Most frequently used criteria for the diagnosis of atrial secondary mitral regurgitation.
+
+[📋 Interactive Table: Differential features of atrial and ventricular secondary mitral regurgitation](#/tables/esc-vhd-2025.t08-atrial-vs-ventricular-smr)
+ Atrial SMR is most frequently defined by the presence of the following key criteria: preserved LVEF (≥50%) without regional wall motion abnormalities or leaflet tethering; AND no or mildly dilated LV cavity (LV end-diastolic dimension <56 mm in females and <63 mm in males; indexed LV end-diastolic volume <71 mL/m² (in women) or <79 mL/m² (in men)); AND mitral annulus (MA) dilatation (anteroposterior (AP) diameter >35 mm); AND enlarged LA (LAVI >34 mL/m²).
 
 Echocardiography frequently reveals normal leaflet motion with planar coaptation, and normal leaflet morphology with a central MR jet in atrial SMR. However, at advanced stages, an overlap between atrial and ventricular SMR criteria can be observed in the case of late LV damage due to continuous volume overload. Clinical criteria (i.e. history of AF and/or diagnosis of HFpEF) are also useful and should be taken into consideration.
 
@@ -1304,6 +1340,9 @@ The treatment of moderate ischaemic SMR in patients undergoing CABG remains cont
 <details class="med-details"><summary>
 
 ##### <span id="table-7"></span>Table 7: Clinical and echocardiographic criteria predicting outcome improvement in patients with severe ventricular secondary mitral regurgitation undergoing mitral transcatheter edge-to-edge repair</summary><div class="details-content">
+
+[📋 Interactive Table: Criteria suggesting high likelihood of improvement after M-TEER](#/tables/esc-vhd-2025.t09-criteria-m-teer-improvement)
+
 
 | Criterion | Value |
 |-----------|-------|
@@ -1372,6 +1411,9 @@ Asymptomatic patients with severe atrial SMR not fulfilling the criteria for an 
 <details class="med-details"><summary>
 
 #### <span id="table-rec-7"></span>Recommendation Table 7 - Recommendations on indications for intervention in secondary mitral regurgitation (see also Supplementary data online, Evidence Tables 17-20)</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations on indications for intervention in secondary mitral regurgitation](#/tables/esc-vhd-2025.rt07-recommendations-secondary-mr)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1451,6 +1493,9 @@ In high-risk cases with concomitant severe TR, PMC may be considered in selected
 
 #### <span id="table-rec-8"></span>Recommendation Table 8 - Recommendations on indications for percutaneous mitral commissurotomy, mitral valve surgery, and transcatheter intervention in clinically severe rheumatic and degenerative mitral stenosis (see also Supplementary data online, Evidence Table 21)</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations on indications for PMC, surgery, and transcatheter procedures in mitral stenosis](#/tables/esc-vhd-2025.rt08-recommendations-mitral-stenosis)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | PMC is recommended in symptomatic patients in the absence of unfavourable characteristics for PMC. | I | B |
@@ -1469,6 +1514,9 @@ In high-risk cases with concomitant severe TR, PMC may be considered in selected
 <details class="med-details"><summary>
 
 #### <span id="table-8"></span>Table 8: Contraindications for percutaneous mitral commissurotomy in rheumatic mitral stenosis</summary><div class="details-content">
+
+[📋 Interactive Table: Contraindications to percutaneous mitral commissurotomy](#/tables/esc-vhd-2025.t10-contraindications-pmc)
+
 
 | Contraindications |
 |-------------------|
@@ -1638,6 +1686,9 @@ Transcatheter TV procedures should be performed at an experienced Heart Valve Ce
 
 #### <span id="table-rec-9"></span>Recommendation Table 9 - Recommendations on indications for intervention in tricuspid regurgitation (see also Supplementary data online, Evidence Tables 22 and 23)</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations on indications for intervention in tricuspid regurgitation](#/tables/esc-vhd-2025.rt09-recommendations-tricuspid-regurgitation)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Careful evaluation of TR aetiology, stage of the disease (i.e. degree of TR severity, RV and LV dysfunction, and PH), patient operative risk, and likelihood of recovery by a multidisciplinary Heart Team is recommended in patients with severe TR prior to intervention. | I | C |
@@ -1700,6 +1751,9 @@ Although data are very limited, TV balloon valvuloplasty can be an option in sel
 
 #### <span id="table-rec-10"></span>Recommendation Table 10 - Recommendations on indications for intervention in tricuspid stenosis</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations on indications for intervention in tricuspid stenosis](#/tables/esc-vhd-2025.rt10-recommendations-tricuspid-stenosis)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Surgery is recommended in symptomatic patients with severe TS. | I | C |
@@ -1742,6 +1796,9 @@ Measures obtained during cardiopulmonary exercise testing reflect the effect of 
 <details class="med-details"><summary>
 
 #### <span id="table-9"></span>Table 9: Echocardiographic pitfalls, robust measures, and complementary multimodality imaging parameters in multiple or mixed valvular heart disease</summary><div class="details-content">
+
+[📋 Interactive Table: Echocardiographic pitfalls and parameters in multiple and mixed VHD](#/tables/esc-vhd-2025.t11-echo-pitfalls-multivalve)
+
 
 | Concomitant valve lesion | Valve lesion to be assessed | | | |
 |--------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
@@ -1802,6 +1859,9 @@ Mixed MV disease is usually present in patients with rheumatic valve disease or 
 
 #### <span id="table-rec-11"></span>Recommendation Table 11 - Recommendations on indications for surgery of concomitant left-sided valvular heart disease</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations on indications for surgical treatment of concomitant left-sided heart valve disease](#/tables/esc-vhd-2025.rt11-recommendations-concomitant-left-sided)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Concomitant aortic stenosis** | | |
@@ -1823,6 +1883,9 @@ Mixed MV disease is usually present in patients with rheumatic valve disease or 
 <details class="med-details"><summary>
 
 #### <span id="table-rec-12"></span>Recommendation Table 12 - Recommendations on indications for intervention in patients with mixed moderate aortic stenosis and moderate aortic regurgitation (see also Supplementary data online, Evidence Table 24)</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations on indications for intervention in mixed moderate AS and AR](#/tables/esc-vhd-2025.rt12-recommendations-mixed-as-ar)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1864,6 +1927,9 @@ Replacement of the AV using an autograft (Ross procedure) is an alternative to a
 <details class="med-details"><summary>
 
 #### <span id="table-rec-13"></span>Recommendation Table 13 - Recommendations for prosthetic valve selection</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for prosthetic heart valve selection](#/tables/esc-vhd-2025.rt13-recommendations-prosthetic-valve-selection)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1925,6 +1991,9 @@ The indication for VKA and DAPT combination in MHV patients presenting with acut
 
 ##### <span id="table-10"></span>Table 10: International normalized ratio targets and therapeutic ranges for patients with a mechanical heart valve</summary><div class="details-content">
 
+[📋 Interactive Table: Target INR for mechanical prostheses](#/tables/esc-vhd-2025.t12-inr-targets-mhv)
+
+
 | MHV type and position | Additional pro-thrombotic factors* | INR target and (range) |
 |-----------------------|-------------------------------------|------------------------|
 | **First-line treatment with VKA only** | | |
@@ -1946,6 +2015,9 @@ The indication for VKA and DAPT combination in MHV patients presenting with acut
 <details class="med-details"><summary>
 
 #### <span id="table-rec-14"></span>Recommendation Table 14 - Recommendations for the management of antithrombotic therapy in patients with a mechanical heart valve</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for antithrombotic therapy in mechanical heart valve prostheses](#/tables/esc-vhd-2025.rt14-recommendations-antithrombotic-mhv)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -1986,6 +2058,9 @@ In patients with an MHV and high thromboembolic risk ([Recommendation Table 16](
 
 #### <span id="table-rec-15"></span>Recommendation Table 15 - Recommendations for the management of antithrombotic therapy in patients with a mechanical heart valve undergoing elective non-cardiac surgery or invasive procedures</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for mechanical valve management in elective non-cardiac surgery](#/tables/esc-vhd-2025.rt15-recommendations-mhv-non-cardiac-surgery)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | Continuing VKA treatment is recommended in patients with an MHV for minor or minimally invasive interventions associated with no or minimal bleeding. | I | A |
@@ -2004,6 +2079,9 @@ In patients with an MHV and high thromboembolic risk ([Recommendation Table 16](
 <details class="med-details"><summary>
 
 #### <span id="table-11"></span>Table 11: Peri-operative management of antithrombotic treatment in patients with a mechanical heart valve undergoing non-cardiac surgery based on type of procedure and underlying risk</summary><div class="details-content">
+
+[📋 Interactive Table: Peri-procedural management of antithrombotic therapy in non-cardiac surgery](#/tables/esc-vhd-2025.t13-perioperative-antithrombotic-ncs)
+
 
 | | Minimally invasive procedures* | Major NCS or invasive procedures* |
 |--|-------------------------------|----------------------------------|
@@ -2075,6 +2153,9 @@ Antithrombotic therapy after transcatheter MV or TV implantation remains empiric
 
 #### <span id="table-rec-16"></span>Recommendation Table 16 - Recommendations for the management of antithrombotic therapy in patients with a biological heart valve or valve repair</summary><div class="details-content">
 
+[📋 Interactive Table: Recommendations for antithrombotic therapy in biological heart valves or valve repair](#/tables/esc-vhd-2025.rt16-recommendations-antithrombotic-bhv-repair)
+
+
 | Recommendations | Class | Level |
 |----------------|-------|-------|
 | **Surgical biological heart valve without indication for oral anticoagulation** | | |
@@ -2126,6 +2207,9 @@ Given the larger sizes of BHVs in mitral or tricuspid positions, transfemoral/tr
 <details class="med-details"><summary>
 
 #### <span id="table-12"></span>Table 12: Criteria for the diagnosis of moderate or severe aortic and mitral haemodynamic valve deterioration</summary><div class="details-content">
+
+[📋 Interactive Table: Criteria for moderate and severe haemodynamic valve deterioration](#/tables/esc-vhd-2025.t14-criteria-hd-valve-deterioration)
+
 
 | | Moderate | Severe |
 |--|----------|--------|
@@ -2213,6 +2297,9 @@ Anticoagulation using a VKA is the first-line treatment for clinically relevant 
 <details class="med-details"><summary>
 
 #### <span id="table-rec-17"></span>Recommendation Table 17 - Recommendations for the management of prosthetic valve dysfunction (see also Supplementary data online, Evidence Table 25)</summary><div class="details-content">
+
+[📋 Interactive Table: Recommendations for the management of prosthetic heart valve dysfunction](#/tables/esc-vhd-2025.rt17-recommendations-prosthetic-dysfunction)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|
@@ -2681,6 +2768,9 @@ Class I and Class III recommendations from throughout the guideline document are
 <details class="med-details"><summary>
 
 #### <span id="table-13"></span>Table 13: What to do' and 'what not to do'</summary><div class="details-content">
+
+[📋 Interactive Table: Summary of key recommendations ("What to do" and "What not to do")](#/tables/esc-vhd-2025.t15-what-to-do)
+
 
 | Recommendations | Class | Level |
 |----------------|-------|-------|

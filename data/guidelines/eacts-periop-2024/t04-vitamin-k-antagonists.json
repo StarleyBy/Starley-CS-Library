@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.t04-vitamin-k-antagonists",
+  "guidelineId": "eacts-periop-2024",
+  "number": "Table 4",
+  "type": "grid",
+  "title": {
+    "en": "Vitamin K antagonists",
+    "ru": "Антагонисты витамина К"
+  },
+  "tags": [
+    "vka",
+    "anticoagulant",
+    "warfarin",
+    "acenocoumarol",
+    "phenprocoumon",
+    "phenindione",
+    "pharmacokinetics"
+  ],
+  "columns": [
+    {
+      "id": "generic-name",
+      "title": { "en": "Generic name", "ru": "МНН / Препарат" }
+    },
+    {
+      "id": "bioavailability",
+      "title": { "en": "Bio-availability (%)", "ru": "Биодоступность (%)" }
+    },
+    {
+      "id": "protein-binding",
+      "title": { "en": "Protein binding (%)", "ru": "Связывание с белками (%)" }
+    },
+    {
+      "id": "metabolism",
+      "title": { "en": "Metabolism", "ru": "Метаболизм" }
+    },
+    {
+      "id": "half-life",
+      "title": { "en": "Half-life (h)", "ru": "Период полувыведения (ч)" }
+    },
+    {
+      "id": "elimination",
+      "title": { "en": "Elimination", "ru": "Пути выведения" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-warfarin",
+      "cells": [
+        { "text": { "en": "Warfarin", "ru": "Варфарин" } },
+        { "text": { "en": ">95", "ru": ">95" } },
+        { "text": { "en": ">99", "ru": ">99" } },
+        { "text": { "en": "S-enantiomer (more potent): CYP2C9 (and CYP2C19); R-enantiomer: CYP3A4, CYP2C19 and CYP1A2", "ru": "S-энантиомер (более активный): CYP2C9 (и CYP2C19); R-энантиомер: CYP3A4, CYP2C19 и CYP1A2" } },
+        { "text": { "en": "S-enantiomer ~31; R-enantiomer: 48", "ru": "S-энантиомер ~31; R-энантиомер: 48" } },
+        { "text": { "en": "Renal and intestinal (inactive metabolites)", "ru": "Почечная и кишечная (неактивные метаболиты)" } }
+      ]
+    },
+    {
+      "id": "r02-acenocoumarol",
+      "cells": [
+        { "text": { "en": "Acenocoumarol", "ru": "Аценокумарол" } },
+        { "text": { "en": ">60", "ru": ">60" } },
+        { "text": { "en": ">98", "ru": ">98" } },
+        { "text": { "en": "CYP2C9; Minor CYP2C9/19 and 1A2", "ru": "CYP2C9; в меньшей степени CYP2C9/19 и 1A2" } },
+        { "text": { "en": "8–11", "ru": "8–11" } },
+        { "text": { "en": "Mostly renal (inactive metabolites)", "ru": "Преимущественно почечная (неактивные метаболиты)" } }
+      ]
+    },
+    {
+      "id": "r03-phenprocoumon",
+      "cells": [
+        { "text": { "en": "Phenprocoumon", "ru": "Фенпрокумон" } },
+        { "text": { "en": "95–100", "ru": "95–100" } },
+        { "text": { "en": ">99", "ru": ">99" } },
+        { "text": { "en": "CYP2C9 and 3A4", "ru": "CYP2C9 и 3A4" } },
+        { "text": { "en": "110–130", "ru": "110–130" } },
+        { "text": { "en": "Mostly renal", "ru": "Преимущественно почечная" } }
+      ]
+    },
+    {
+      "id": "r04-phenindione",
+      "cells": [
+        { "text": { "en": "Phenindione", "ru": "Фениндион" } },
+        { "text": { "en": ">90", "ru": ">90" } },
+        { "text": { "en": "88", "ru": "88" } },
+        { "text": { "en": "CYP2C9 and 3A4", "ru": "CYP2C9 и 3A4" } },
+        { "text": { "en": "5–10", "ru": "5–10" } },
+        { "text": { "en": "Mostly renal", "ru": "Преимущественно почечная" } }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 4
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

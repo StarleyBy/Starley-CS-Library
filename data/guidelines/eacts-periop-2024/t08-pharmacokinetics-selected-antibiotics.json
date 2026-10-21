@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.t08-pharmacokinetics-selected-antibiotics",
+  "guidelineId": "eacts-periop-2024",
+  "number": "Table 8",
+  "type": "grid",
+  "title": {
+    "en": "Pharmacokinetics for selected antibiotics",
+    "ru": "Фармакокинетика отдельных антибактериальных препаратов"
+  },
+  "tags": [
+    "antibiotics",
+    "pharmacokinetics",
+    "prophylaxis",
+    "surgical-site-infection",
+    "cefazolin",
+    "vancomycin",
+    "gentamicin"
+  ],
+  "columns": [
+    {
+      "id": "antibiotic",
+      "title": { "en": "Antibiotic agent", "ru": "Антибактериальный препарат" }
+    },
+    {
+      "id": "time-to-peak",
+      "title": { "en": "Time to peak", "ru": "Время до пика (Tmax)" }
+    },
+    {
+      "id": "protein-binding",
+      "title": { "en": "Protein binding (%)", "ru": "Связывание с белками (%)" }
+    },
+    {
+      "id": "renal-excretion",
+      "title": { "en": "Renal excretion (%)", "ru": "Почечная экскреция (%)" }
+    },
+    {
+      "id": "half-life",
+      "title": { "en": "Half-life (hours)^[a]", "ru": "Период полувыведения (часы)^[a]" }
+    },
+    {
+      "id": "biotransformation-ddis",
+      "title": { "en": "Biotransformation and clinically relevant DDIs", "ru": "Биотрансформация и лекарственные взаимодействия (DDIs)" }
+    }
+  ],
+  "rows": [
+    {
+      "id": "r01-ampicillin",
+      "cells": [
+        { "text": { "en": "Ampicillin", "ru": "Ампициллин" } },
+        { "text": { "en": "30 min (i.v.)\n1 h (i.m.)\n2 h (oral)", "ru": "30 мин (в/в)\n1 ч (в/м)\n2 ч (внутрь)" } },
+        { "text": { "en": "15–25", "ru": "15–25" } },
+        { "text": { "en": "90", "ru": "90" } },
+        { "text": { "en": "1", "ru": "1" } },
+        { "text": { "en": "No biotransformation\nNo relevant DDIs", "ru": "Не биотрансформируется\nЗначимые межлекарственные взаимодействия отсутствуют" } }
+      ]
+    },
+    {
+      "id": "r02-amoxicillin-oral",
+      "cells": [
+        { "text": { "en": "Amoxicillin (oral)", "ru": "Амоксициллин (перорально)" } },
+        { "text": { "en": "1.5 h", "ru": "1,5 ч" } },
+        { "text": { "en": "<20", "ru": "<20" } },
+        { "text": { "en": "60", "ru": "60" } },
+        { "text": { "en": "1.5", "ru": "1,5" } },
+        { "text": { "en": "Non-CYP450-mediated biotransformation\nMay prolong the prothrombin time", "ru": "Биотрансформация без участия CYP450\nМожет удлинять протромбиновое время" } }
+      ]
+    },
+    {
+      "id": "r03-amoxicillin-clavulanate-oral",
+      "cells": [
+        { "text": { "en": "Amoxicillin/clavulanate (oral)", "ru": "Амоксициллин/клавуланат (перорально)" } },
+        { "text": { "en": "1–1.5 h", "ru": "1–1,5 ч" } },
+        { "text": { "en": "25/18", "ru": "25/18" } },
+        { "text": { "en": "40–70/40–45", "ru": "40–70/40–45" } },
+        { "text": { "en": "1", "ru": "1" } },
+        { "text": { "en": "Non-CYP450-mediated biotransformation\nNo relevant DDIs", "ru": "Биотрансформация без участия CYP450\nЗначимые межлекарственные взаимодействия отсутствуют" } }
+      ]
+    },
+    {
+      "id": "r04-cefazolin",
+      "cells": [
+        { "text": { "en": "Cefazolin", "ru": "Цефазолин" } },
+        { "text": { "en": "5 min (i.v.)\n0.5–2 h (i.m.)\n1 h (oral)", "ru": "5 мин (в/в)\n0,5–2 ч (в/м)\n1 ч (внутрь)" } },
+        { "text": { "en": "80", "ru": "80" } },
+        { "text": { "en": "80–100 (unchanged)", "ru": "80–100 (в неизмененном виде)" } },
+        { "text": { "en": "1.5", "ru": "1,5" } },
+        { "text": { "en": "Minimally metabolized\nNo relevant DDIs", "ru": "Минимальный метаболизм\nЗначимые межлекарственные взаимодействия отсутствуют" } }
+      ]
+    },
+    {
+      "id": "r05-cefotaxime",
+      "cells": [
+        { "text": { "en": "Cefotaxime", "ru": "Цефотаксим" } },
+        { "text": { "en": "5 min (i.v.)\n30 min (i.m.)", "ru": "5 мин (в/в)\n30 мин (в/м)" } },
+        { "text": { "en": "40", "ru": "40" } },
+        { "text": { "en": "60", "ru": "60" } },
+        { "text": { "en": "1–1.5", "ru": "1–1,5" } },
+        { "text": { "en": "Non-CYP450-mediated biotransformation\nNo relevant DDIs", "ru": "Биотрансформация без участия CYP450\nЗначимые межлекарственные взаимодействия отсутствуют" } }
+      ]
+    },
+    {
+      "id": "r06-ceftriaxone",
+      "cells": [
+        { "text": { "en": "Ceftriaxone", "ru": "Цефтриаксон" } },
+        { "text": { "en": "Immediate (i.v.)\n1–3 h (i.m.)", "ru": "Мгновенно (в/в)\n1–3 ч (в/м)" } },
+        { "text": { "en": "85–95", "ru": "85–95" } },
+        { "text": { "en": "50–60", "ru": "50–60" } },
+        { "text": { "en": "7–8", "ru": "7–8" } },
+        { "text": { "en": "No relevant biotransformation\nNo relevant DDIs", "ru": "Значимой биотрансформации нет\nЗначимые межлекарственные взаимодействия отсутствуют" } }
+      ]
+    },
+    {
+      "id": "r07-cefuroxime",
+      "cells": [
+        { "text": { "en": "Cefuroxime", "ru": "Цефуроксим" } },
+        { "text": { "en": "2–3 min (i.v.)\n30–60 min (i.m.)\n2–3 h (oral)", "ru": "2–3 мин (в/в)\n30–60 мин (в/м)\n2–3 ч (внутрь)" } },
+        { "text": { "en": "33–50", "ru": "33–50" } },
+        { "text": { "en": "85–90", "ru": "85–90" } },
+        { "text": { "en": "1–2", "ru": "1–2" } },
+        { "text": { "en": "No relevant biotransformation\nNo relevant DDIs", "ru": "Значимой биотрансформации нет\nЗначимые межлекарственные взаимодействия отсутствуют" } }
+      ]
+    },
+    {
+      "id": "r08-ciprofloxacin-oral",
+      "cells": [
+        { "text": { "en": "Ciprofloxacin (oral)", "ru": "Ципрофлоксацин (перорально)" } },
+        { "text": { "en": "1–2 h", "ru": "1–2 ч" } },
+        { "text": { "en": "20–40", "ru": "20–40" } },
+        { "text": { "en": "61.5", "ru": "61,5" } },
+        { "text": { "en": "4–7", "ru": "4–7" } },
+        { "text": { "en": "Metabolized in the liver\nInhibits CYP1A2. Avoid coadministration with tizanidine, theophylline and QT-prolonging drugs. With glucose-lowering drugs: monitor blood glucose. With warfarin: monitor the INR", "ru": "Метаболизируется в печени\nИнгибирует CYP1A2. Избегать комбинации с тизанидином, теофиллином и препаратами, удлиняющими QT. С сахароснижающими средствами: контроль гликемии. С варфарином: мониторинг МНО" } }
+      ]
+    },
+    {
+      "id": "r09-clindamycin",
+      "cells": [
+        { "text": { "en": "Clindamycin", "ru": "Клиндамицин" } },
+        { "text": { "en": "45 min (oral)\n3 h (i.m.)", "ru": "45 мин (внутрь)\n3 ч (в/м)" } },
+        { "text": { "en": "94", "ru": "94" } },
+        { "text": { "en": "10–20", "ru": "10–20" } },
+        { "text": { "en": "2.5–3", "ru": "2,5–3" } },
+        { "text": { "en": "Biotransformation via CYP3A4/5\nStrong CYP3A4 inhibitors and inducers may increase or decrease clindamycin plasma levels, respectively", "ru": "Биотрансформация через CYP3A4/5\nМощные ингибиторы и индукторы CYP3A4 могут повышать или снижать концентрацию клиндамицина в плазме соответственно" } }
+      ]
+    },
+    {
+      "id": "r10-gentamycin-iv",
+      "cells": [
+        { "text": { "en": "Gentamycin (i.v.)", "ru": "Гентамицин (в/в)" } },
+        { "text": { "en": "30 min (i.v.)\n30–90 min (i.m.)", "ru": "30 мин (в/в)\n30–90 мин (в/м)" } },
+        { "text": { "en": "<10", "ru": "<10" } },
+        { "text": { "en": ">90", "ru": ">90" } },
+        { "text": { "en": "2–3", "ru": "2–3" } },
+        { "text": { "en": "No relevant biotransformation\nAvoid concurrent use with loop diuretics (increased risk of ototoxicity and increased gentamicin plasma levels)", "ru": "Значимой биотрансформации нет\nИзбегать совместного применения с петлевыми диуретиками (повышенный риск ототоксичности и увеличение концентрации гентамицина)" } }
+      ]
+    },
+    {
+      "id": "r11-imipenem-cilastin-iv",
+      "cells": [
+        { "text": { "en": "Imipenem/cilastin (i.v.)", "ru": "Имипенем/циластатин (в/в)" } },
+        { "text": { "en": "Immediate", "ru": "Мгновенно" } },
+        { "text": { "en": "20/40", "ru": "20/40" } },
+        { "text": { "en": "70/70–80", "ru": "70/70–80" } },
+        { "text": { "en": "1", "ru": "1" } },
+        { "text": { "en": "Metabolized in the kidney (dehydropeptidase I)\nAvoid coadministration with ganciclovir and probenecid. Reduces the concentration of valproic acid.", "ru": "Метаболизируется в почках (дегидропептидаза I)\nИзбегать комбинации с ганцикловиром и пробенецидом. Снижает концентрацию вальпроевой кислоты." } }
+      ]
+    },
+    {
+      "id": "r12-levofloxacin",
+      "cells": [
+        { "text": { "en": "Levofloxacin", "ru": "Левофлоксацин" } },
+        { "text": { "en": "Immediate (i.v.)\n1–2 h (oral)", "ru": "Мгновенно (в/в)\n1–2 ч (внутрь)" } },
+        { "text": { "en": "24–38", "ru": "24–38" } },
+        { "text": { "en": "87", "ru": "87" } },
+        { "text": { "en": "6–8", "ru": "6–8" } },
+        { "text": { "en": "No relevant biotransformation\nMonitor blood glucose when co-administered with glucose-lowering drugs. Monitor INR when co-administered with warfarin.", "ru": "Значимой биотрансформации нет\nКонтроль гликемии при комбинации с сахароснижающими препаратами. Контроль МНО при комбинации с варфарином." } }
+      ]
+    },
+    {
+      "id": "r13-meropenem-iv",
+      "cells": [
+        { "text": { "en": "Meropenem (i.v.)", "ru": "Меропенем (в/в)" } },
+        { "text": { "en": "Immediate", "ru": "Мгновенно" } },
+        { "text": { "en": "2", "ru": "2" } },
+        { "text": { "en": "70", "ru": "70" } },
+        { "text": { "en": "1", "ru": "1" } },
+        { "text": { "en": "Hepatic hydrolysis\nMeropenem reduces valproic acid plasma levels.", "ru": "Печеночный гидролиз\nМеропенем снижает концентрацию вальпроевой кислоты в плазме." } }
+      ]
+    },
+    {
+      "id": "r14-metronidazole",
+      "cells": [
+        { "text": { "en": "Metronidazole", "ru": "Метронидазол" } },
+        { "text": { "en": "Immediate (i.v.)\n1–2 h (oral)", "ru": "Мгновенно (в/в)\n1–2 ч (внутрь)" } },
+        { "text": { "en": "<20", "ru": "<20" } },
+        { "text": { "en": "60–80", "ru": "60–80" } },
+        { "text": { "en": "8", "ru": "8" } },
+        { "text": { "en": "Extensively metabolized\nIncreases serum lithium levels and potentiates the effect of VKAs", "ru": "Интенсивный метаболизм\nПовышает уровень лития в сыворотке и потенцирует антикоагулянтный эффект АВК (варфарина)" } }
+      ]
+    },
+    {
+      "id": "r15-piperacillin-tazobactam-iv",
+      "cells": [
+        { "text": { "en": "Piperacillin/tazobactam (i.v.)", "ru": "Пиперациллин/тазобактам (в/в)" } },
+        { "text": { "en": "Immediate", "ru": "Мгновенно" } },
+        { "text": { "en": "30/30", "ru": "30/30" } },
+        { "text": { "en": "68/80", "ru": "68/80" } },
+        { "text": { "en": "0.7–1.2", "ru": "0,7–1,2" } },
+        { "text": { "en": "No relevant biotransformation\nMonitor kidney function if co-administered with vancomycin. Monitor coagulation parameters in patients receiving heparin or oral anticoagulants. Reduces tobramycin levels. May prolong the neuromuscular blockade of vecuronium.", "ru": "Значимой биотрансформации нет\nКонтроль функции почек при комбинации с ванкомицином. Контроль коагулограммы у пациентов на гепарине или ОАК. Снижает концентрацию тобрамицина. Может пролонгировать нервно-мышечную блокаду векурония." } }
+      ]
+    },
+    {
+      "id": "r16-tobramycin-im",
+      "cells": [
+        { "text": { "en": "Tobramycin (i.m.)", "ru": "Тобрамицин (в/м)" } },
+        { "text": { "en": "30–60 min (i.m.)\n30 min (i.v.)", "ru": "30–60 мин (в/м)\n30 мин (в/в)" } },
+        { "text": { "en": "<10", "ru": "<10" } },
+        { "text": { "en": "90–95", "ru": "90–95" } },
+        { "text": { "en": "2–3", "ru": "2–3" } },
+        { "text": { "en": "No relevant biotransformation\nAvoid the use of nephrotoxic and oto-toxic drugs. Embryo-fetal toxicity.", "ru": "Значимой биотрансформации нет\nИзбегать применения нефротоксичных и ототоксичных препаратов. Эмбриофетальная токсичность." } }
+      ]
+    },
+    {
+      "id": "r17-vancomycin-iv",
+      "cells": [
+        { "text": { "en": "Vancomycin (i.v.)", "ru": "Ванкомицин (в/в)" } },
+        { "text": { "en": "Immediate", "ru": "Мгновенно" } },
+        { "text": { "en": "30–55", "ru": "30–55" } },
+        { "text": { "en": "80–90", "ru": "80–90" } },
+        { "text": { "en": "4–6", "ru": "4–6" } },
+        { "text": { "en": "No relevant biotransformation\nNo relevant DDIs", "ru": "Значимой биотрансформации нет\nЗначимые межлекарственные взаимодействия отсутствуют" } }
+      ]
+    }
+  ],
+  "footnotes": {
+    "a": {
+      "en": "Repeat intraoperative dosing if the duration of the procedure exceeds 2 half-lives of the antibiotic agent or when there is excessive intraoperative blood loss or haemodilution.",
+      "ru": "Повторное интраоперационное введение требуется, если продолжительность операции превышает 2 периода полувыведения антибиотика или при массивной интраоперационной кровопотере / гемодилюции."
+    }
+  },
+  "source": {
+    "expectedRows": 17
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

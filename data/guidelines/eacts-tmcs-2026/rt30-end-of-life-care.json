@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt30-end-of-life-care",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 30",
+  "title": {
+    "en": "Recommendations for Decision Making about End-of-life Care",
+    "ru": "Рекомендации по принятию решений и паллиативной помощи в конце жизни (End-of-life Care)"
+  },
+  "tags": [
+    "tmcs",
+    "end-of-life",
+    "palliative-care",
+    "informed-consent",
+    "shared-decision-making",
+    "organ-donation",
+    "dcd"
+  ],
+  "sections": [
+    {
+      "id": "sec-pre-emptive-involvement-palliative-care",
+      "title": {
+        "en": "Pre-emptive involvement of palliative care",
+        "ru": "Превентивное привлечение службы паллиативной помощи"
+      },
+      "rows": [
+        {
+          "id": "r01-high-risk-lcos-specific-informed-consent-tmcs",
+          "text": {
+            "en": "In patients planned for interventional or operative procedures with a high risk for LCOS, obtaining specific informed consent for the potential periprocedural use of tMCS is recommended.",
+            "ru": "У пациентов, которым планируются интервенционные или хирургические вмешательства с высоким риском развития синдрома малого сердечного выброса (СМСВ / LCOS), рекомендуется получение отдельного информированного согласия на потенциальное периоперационное применение ВМПК."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": []
+        },
+        {
+          "id": "r02-early-advanced-palliative-care-consultation",
+          "text": {
+            "en": "An early advanced/palliative care team consultation should be considered.",
+            "ru": "Следует рассмотреть возможность ранней консультации службы специализированной паллиативной медицинской помощи."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [816, 856, 863]
+        }
+      ]
+    },
+    {
+      "id": "sec-end-of-life-care",
+      "title": {
+        "en": "End-of-life care",
+        "ru": "Помощь в терминальном периоде жизни (End-of-life Care)"
+      },
+      "rows": [
+        {
+          "id": "r03-shared-decision-making-patient-representatives",
+          "text": {
+            "en": "An interdisciplinary model of shared decision-making care, including the patient and/or their representatives, is recommended.",
+            "ru": "Рекомендуется междисциплинарная модель совместного принятия решений (shared decision-making) с участием пациента и/или его законных представителей."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [873, 876]
+        },
+        {
+          "id": "r04-early-palliative-care-consultation-obtained",
+          "text": {
+            "en": "It is recommended that an early advanced/palliative care team consultation be obtained.",
+            "ru": "Рекомендуется обязательное проведение ранней консультации специалистов службы паллиативной помощи."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [863, 865, 873, 874, 877]
+        },
+        {
+          "id": "r05-institutional-protocols-end-of-life-period",
+          "text": {
+            "en": "In hospitals offering tMCS, the development of institution-specific protocols for the end-of-life period should be considered.",
+            "ru": "В стационарах, проводящих ВМПК, следует рассмотреть разработку локальных внутрибольничных протоколов ведения пациентов в терминальном периоде жизни."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [855, 875]
+        },
+        {
+          "id": "r06-organ-donation-dcd-ecls",
+          "text": {
+            "en": "In countries where it is permitted, patients who are at the end of life and are on ECLS may be considered for organ donation, including DCD.",
+            "ru": "В странах, где это разрешено законодательством, у пациентов в терминальном состоянии, находящихся на ЭКМО (ECLS), можно рассмотреть возможность донорства органов, включая донорство после смерти вследствие необратимой остановки кровообращения (DCD)."
+          },
+          "class": "IIb",
+          "level": "C",
+          "refs": [880]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 6
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

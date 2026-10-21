@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt26-transport-on-tmcs",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 26",
+  "title": {
+    "en": "Recommendations for Transport on tMCS",
+    "ru": "Рекомендации по транспортировке пациентов на ВМПК (tMCS)"
+  },
+  "tags": [
+    "tmcs",
+    "transport",
+    "transfer",
+    "inter-hospital-transfer",
+    "shock-network",
+    "experienced-centre"
+  ],
+  "sections": [
+    {
+      "id": "sec-transport-on-tmcs",
+      "title": {
+        "en": "Recommendations for Transport on tMCS",
+        "ru": "Рекомендации по транспортировке на ВМПК"
+      },
+      "rows": [
+        {
+          "id": "r01-early-communication-experienced-hospital-transfer",
+          "text": {
+            "en": "In hospitals without an established tMCS programme, early communication with an experienced tMCS hospital is recommended to discuss management, options, and possible transfer.",
+            "ru": "В стационарах без налаженной программы ВМПК рекомендуется раннее взаимодействие с опытным центром ВМПК для обсуждения тактики ведения, вариантов механической поддержки и возможной межбольничной транспортировки."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [761, 763, 764, 787, 788]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

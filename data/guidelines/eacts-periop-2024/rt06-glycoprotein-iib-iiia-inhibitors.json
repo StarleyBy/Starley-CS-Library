@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-periop-2024.rt06-glycoprotein-iib-iiia-inhibitors",
+  "guidelineId": "eacts-periop-2024",
+  "type": "recommendations",
+  "number": "Recommendation Table 6",
+  "title": {
+    "en": "Recommendation for glycoprotein IIb/IIIa inhibitors",
+    "ru": "Рекомендации по ингибиторам гликопротеина IIb/IIIa"
+  },
+  "tags": [
+    "glycoprotein-iib-iiia",
+    "antiplatelet",
+    "eptifibatide",
+    "tirofiban",
+    "cabg",
+    "bleeding"
+  ],
+  "sections": [
+    {
+      "id": "sec-glycoprotein-iib-iiia-inhibitors",
+      "title": {
+        "en": "Glycoprotein IIb/IIIa inhibitors",
+        "ru": "Ингибиторы гликопротеина IIb/IIIa"
+      },
+      "rows": [
+        {
+          "id": "r01-discontinue-eptifibatide-tirofiban-cabg",
+          "text": {
+            "en": "In patients undergoing CABG, it is recommended to discontinue eptifibatide or tirofiban at least 4 h before open-heart surgery, to reduce bleeding.",
+            "ru": "У пациентов, идущих на КШ (CABG), рекомендуется отменить эптифибатид или тирофибан как минимум за 4 часа до операции на открытом сердце для снижения риска кровотечений."
+          },
+          "class": "I",
+          "level": "C"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 1
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}

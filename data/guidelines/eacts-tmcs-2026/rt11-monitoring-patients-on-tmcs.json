@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "id": "eacts-tmcs-2026.rt11-monitoring-patients-on-tmcs",
+  "guidelineId": "eacts-tmcs-2026",
+  "type": "recommendations",
+  "number": "Recommendation Table 11",
+  "title": {
+    "en": "Recommendations for Monitoring Patients on tMCS",
+    "ru": "Рекомендации по мониторингу пациентов, находящихся на ВМПК (tMCS)"
+  },
+  "tags": [
+    "tmcs",
+    "monitoring",
+    "arterial-line",
+    "cvp",
+    "pac",
+    "swan-ganz",
+    "echo",
+    "nirs",
+    "cerebral-oxygenation",
+    "limb-perfusion",
+    "doppler"
+  ],
+  "sections": [
+    {
+      "id": "sec-monitoring-patients-on-tmcs",
+      "title": {
+        "en": "Recommendations for Monitoring Patients on tMCS",
+        "ru": "Рекомендации по мониторингу пациентов на ВМПК"
+      },
+      "rows": [
+        {
+          "id": "r01-arterial-and-cvp-line-placement",
+          "text": {
+            "en": "In patients with tMCS, arterial and central venous line placement is recommended.",
+            "ru": "У пациентов, находящихся на ВМПК (tMCS), рекомендуется обязательная катетеризация артерии (инвазивный мониторинг АД) и центральной вены (мониторинг ЦВД)."
+          },
+          "class": "I",
+          "level": "C",
+          "refs": [441]
+        },
+        {
+          "id": "r02-pulmonary-artery-catheter-pac-guidance",
+          "text": {
+            "en": "The use of PAC should be considered to guide ongoing haemodynamic management.",
+            "ru": "Следует рассмотреть установку катетера легочной артерии (PAC / Свана-Ганца) для непрерывного контроля и оптимизации гемодинамического статуса."
+          },
+          "class": "IIa",
+          "level": "B",
+          "refs": [445]
+        },
+        {
+          "id": "r03-serial-echocardiographic-evaluations",
+          "text": {
+            "en": "Serial echocardiographic evaluations should be considered in the assessment of biventricular function.",
+            "ru": "Следует рассмотреть проведение серийных эхокардиографических исследований для динамической оценки функции обоих желудочков и корректности положения канюль/насоса."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [447, 459, 460]
+        },
+        {
+          "id": "r04-nirs-cerebral-oxygenation-monitoring",
+          "text": {
+            "en": "Near-infrared spectroscopy should be considered to monitor cerebral oxygenation.",
+            "ru": "Следует рассмотреть применение спектроскопии в ближней инфракрасной области (NIRS / церебральная оксиметрия) для непрерывного мониторинга оксигенации головного мозга."
+          },
+          "class": "IIa",
+          "level": "C",
+          "refs": [461]
+        },
+        {
+          "id": "r05-va-ecls-limb-perfusion-monitoring-doppler-nirs",
+          "text": {
+            "en": "In patients supported with peripheral VA-ECLS, ongoing clinical evaluation and monitoring of limb perfusion, regional near-infrared spectroscopy, Doppler ultrasound, and temperature monitoring are recommended.",
+            "ru": "У пациентов на периферическом ВА-ЭКМО (VA-ECLS) рекомендуется непрерывный клинический контроль перфузии нижней конечности, регионарная спектроскопия (NIRS), ультразвуковая допплерография дистального русла и мониторинг температуры конечности."
+          },
+          "class": "I",
+          "level": "B",
+          "refs": [425, 427, 462, 467, 468]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "expectedRows": 5
+  },
+  "i18nStatus": {
+    "ru": "reviewed"
+  }
+}
