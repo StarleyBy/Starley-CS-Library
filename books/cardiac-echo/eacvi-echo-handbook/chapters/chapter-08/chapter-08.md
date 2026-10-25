@@ -43,12 +43,12 @@ According to the European Society of Cardiology (ESC) working group on myocardia
   - Absence of severe coronary artery disease ($> 50\%$ stenosis of major epicardial coronary trunk), sustained arterial hypertension ($\text{BP} > 160/100\text{ mmHg}$), significant valvular disease, or congenital shunts.
 
 <figure class="med-figure" id="fig-08-01">
-  <img src="images/fig-08-01.jpg" alt="Fig. 8.1.1: Transthoracic echocardiographic assessment of left ventricular dilatation and depressed ejection fraction in" class="med-image" loading="lazy" />
+  <img src="images/fig-08-01.jpg" alt="Fig. 8.1.1: Transthoracic echocardiographic assessment of left ventricular dilatation and depressed ejection fraction in dilated cardiomyopathy" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.1.1: Transthoracic echocardiographic assessment of left ventricular dilatation and depressed ejection fraction in dilated cardiomyopathy.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-08-02">
-  <img src="images/fig-08-02.jpg" alt="Fig. 8.1.2: Demonstration of myocardial wall thinning in dilated cardiomyopathy." class="med-image" loading="lazy" />
+  <img src="images/fig-08-02.jpg" alt="Fig. 8.1.2: Demonstration of myocardial wall thinning in dilated cardiomyopathy" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.1.2: Demonstration of myocardial wall thinning in dilated cardiomyopathy.</figcaption>
 </figure>
 
@@ -61,7 +61,7 @@ According to the European Society of Cardiology (ESC) working group on myocardia
   $\text{RWT} < 0.32$ confirms eccentric ventricular remodeling.
 
 <figure class="med-figure" id="fig-08-03">
-  <img src="images/fig-08-03.jpg" alt="Fig. 8.1.3: Progressive spherical remodelling of the left ventricle in DCM." class="med-image" loading="lazy" />
+  <img src="images/fig-08-03.jpg" alt="Fig. 8.1.3: Progressive spherical remodelling of the left ventricle in DCM" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.1.3: Progressive spherical remodelling of the left ventricle in DCM.</figcaption>
 </figure>
 
@@ -75,12 +75,12 @@ In patients with DCM, mechanical dyssynchrony exacerbates pump failure:
    - Delay between anteroseptal and posterior wall motion in M-mode $> 130\text{ ms}$.
 
 <figure class="med-figure" id="fig-08-04">
-  <img src="images/fig-08-04.jpg" alt="Fig. 8.1.4: Extreme mechanical dyssynchrony demonstrated in dilated cardiomyopathy." class="med-image" loading="lazy" />
+  <img src="images/fig-08-04.jpg" alt="Fig. 8.1.4: Extreme mechanical dyssynchrony demonstrated in dilated cardiomyopathy" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.1.4: Extreme mechanical dyssynchrony demonstrated in dilated cardiomyopathy.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-08-09">
-  <img src="images/fig-08-09.jpg" alt="Fig. 8.1.9: Typical dyssynchrony patterns evaluated by tissue Doppler and strain imaging: (A) septal flash; (B) opposing" class="med-image" loading="lazy" />
+  <img src="images/fig-08-09.jpg" alt="Fig. 8.1.9: Typical dyssynchrony patterns evaluated by tissue Doppler and strain imaging" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.1.9: Typical dyssynchrony patterns evaluated by tissue Doppler and strain imaging: (A) septal flash; (B) opposing wall motion delay.</figcaption>
 </figure>
 
@@ -91,12 +91,12 @@ In patients with DCM, mechanical dyssynchrony exacerbates pump failure:
 - Detection of left ventricular apical mural thrombus.
 
 <figure class="med-figure" id="fig-08-05">
-  <img src="images/fig-08-05.jpg" alt="Fig. 8.1.5: Formation of an apical mural thrombus in dilated cardiomyopathy." class="med-image" loading="lazy" />
+  <img src="images/fig-08-05.jpg" alt="Fig. 8.1.5: Formation of an apical mural thrombus in dilated cardiomyopathy" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.1.5: Formation of an apical mural thrombus in dilated cardiomyopathy.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-08-06">
-  <img src="images/fig-08-06.jpg" alt="Fig. 8.1.6: Concomitant right ventricular dilatation in end-stage dilated cardiomyopathy." class="med-image" loading="lazy" />
+  <img src="images/fig-08-06.jpg" alt="Fig. 8.1.6: Concomitant right ventricular dilatation in end-stage dilated cardiomyopathy" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.1.6: Concomitant right ventricular dilatation in end-stage dilated cardiomyopathy.</figcaption>
 </figure>
 </div></details>
@@ -112,7 +112,7 @@ HCM is defined by an unexplained maximal left ventricular end-diastolic wall thi
 - **Mid-Ventricular Obstruction**: Mid-cavity muscular hypertrophy with systolic hourglass apposition of the septum and lateral wall, creating an isolated apical aneurysm with high risk of thromboembolism.
 
 <figure class="med-figure" id="fig-08-11">
-  <img src="images/fig-08-11.jpg" alt="Fig. 8.2.1: Phenotypic spectrum of left ventricular hypertrophy in HCM: (A) asymmetric septal hypertrophy; (B) apical HC" class="med-image" loading="lazy" />
+  <img src="images/fig-08-11.jpg" alt="Fig. 8.2.1: Phenotypic spectrum of left ventricular hypertrophy in HCM" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.2.1: Phenotypic spectrum of left ventricular hypertrophy in HCM: (A) asymmetric septal hypertrophy; (B) apical HCM; (C) mid-ventricular hypertrophy; (D) concentric variant.</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ In HCM, primary anatomical abnormalities of the mitral valve complex contribute 
 - Direct insertion of anomalous papillary muscle heads into the body or free margin of the anterior leaflet without intervening chordae tendineae.
 
 <figure class="med-figure" id="fig-08-12">
-  <img src="images/fig-08-12.jpg" alt="Fig. 8.2.2: Pathological mitral valve alterations in HCM: (A) elongated anterior mitral leaflet; (B) anomalous papillary" class="med-image" loading="lazy" />
+  <img src="images/fig-08-12.jpg" alt="Fig. 8.2.2: Pathological mitral valve alterations in HCM" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.2.2: Pathological mitral valve alterations in HCM: (A) elongated anterior mitral leaflet; (B) anomalous papillary muscle insertion; (C) anterior displacement predisposing to SAM.</figcaption>
 </figure>
 
@@ -138,12 +138,12 @@ In HCM, primary anatomical abnormalities of the mitral valve complex contribute 
   - **Obstructive HCM**: Resting gradient $\ge 30\text{ mmHg}$ (severe obstruction defined as $\ge 50\text{ mmHg}$).
 
 <figure class="med-figure" id="fig-08-13">
-  <img src="images/fig-08-13.jpg" alt="Fig. 8.2.3: Pathophysiology of dynamic LVOT obstruction in HCM: (A) mid-systolic partial closure of the aortic valve; (B" class="med-image" loading="lazy" />
+  <img src="images/fig-08-13.jpg" alt="Fig. 8.2.3: Pathophysiology of dynamic LVOT obstruction in HCM" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.2.3: Pathophysiology of dynamic LVOT obstruction in HCM: (A) mid-systolic partial closure of the aortic valve; (B) M-mode systolic anterior motion (SAM); (C) characteristic dagger-shaped, late-peaking CW Doppler envelope.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-08-15">
-  <img src="images/fig-08-15.jpg" alt="Fig. 8.2.4: Color Doppler demonstration of flow acceleration through the narrowed LVOT with associated eccentric, poster" class="med-image" loading="lazy" />
+  <img src="images/fig-08-15.jpg" alt="Fig. 8.2.4: Color Doppler demonstration of flow acceleration through the narrowed LVOT with associated eccentric, posterior-directed mitral regurgitation" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.2.4: Color Doppler demonstration of flow acceleration through the narrowed LVOT with associated eccentric, posterior-directed mitral regurgitation.</figcaption>
 </figure>
 
@@ -180,12 +180,12 @@ In HCM, primary anatomical abnormalities of the mitral valve complex contribute 
 | **ECG Voltage / Mass Concordance** | Marked high voltage (Sokolow-Lyon $> 35\text{ mm}$) | Discordance: Low QRS voltage despite massive echo hypertrophy |
 
 <figure class="med-figure" id="fig-08-18">
-  <img src="images/fig-08-18.jpg" alt="Fig. 8.2.8: 2D speckle-tracking strain in HCM demonstrating marked regional longitudinal strain reduction in the hypertr" class="med-image" loading="lazy" />
+  <img src="images/fig-08-18.jpg" alt="Fig. 8.2.8: 2D speckle-tracking strain in HCM demonstrating marked regional longitudinal strain reduction in the hypertrophied anterior septum" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.2.8: 2D speckle-tracking strain in HCM demonstrating marked regional longitudinal strain reduction in the hypertrophied anterior septum.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-08-19">
-  <img src="images/fig-08-19.jpg" alt="Fig. 8.2.9: Cardiac amyloidosis demonstrating granular sparkling myocardium, biatrial enlargement, and thickened interat" class="med-image" loading="lazy" />
+  <img src="images/fig-08-19.jpg" alt="Fig. 8.2.9: Cardiac amyloidosis demonstrating granular sparkling myocardium, biatrial enlargement, and thickened interatrial septum" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.2.9: Cardiac amyloidosis demonstrating granular sparkling myocardium, biatrial enlargement, and thickened interatrial septum.</figcaption>
 </figure>
 
@@ -200,7 +200,7 @@ The ESC 5-year SCD risk calculation integrates:
 - Unexplained syncope.
 
 <figure class="med-figure" id="fig-08-20">
-  <img src="images/fig-08-20.jpg" alt="Fig. 8.2.10: Conventional risk factors for sudden cardiac death in HCM: (A) massive LVH with septal thickness $> 30\text" class="med-image" loading="lazy" />
+  <img src="images/fig-08-20.jpg" alt="Fig. 8.2.10: Conventional risk factors for sudden cardiac death in HCM" class="med-image" loading="lazy" /> 30\text" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.2.10: Conventional risk factors for sudden cardiac death in HCM: (A) massive LVH with septal thickness $> 30\text{ mm}$; (B) severe left atrial dilation.</figcaption>
 </figure>
 
@@ -209,12 +209,12 @@ The ESC 5-year SCD risk calculation integrates:
 - **Surgical Septal Myectomy (Morrow Procedure)**: Intraoperative transoesophageal echocardiography (TOE) defines the resection boundary, guides concomitant mitral valve procedures (plication, chordal cutting), and evaluates post-bypass results (residual gradient $< 20\text{ mmHg}$, abolition of SAM, no iatrogenic VSD).
 
 <figure class="med-figure" id="fig-08-21">
-  <img src="images/fig-08-21.jpg" alt="Fig. 8.2.11: Alcohol septal ablation: (A) coronary angiography of septal perforator; (B) myocardial contrast echocardiog" class="med-image" loading="lazy" />
+  <img src="images/fig-08-21.jpg" alt="Fig. 8.2.11: Alcohol septal ablation" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.2.11: Alcohol septal ablation: (A) coronary angiography of septal perforator; (B) myocardial contrast echocardiography delineating the target basal septum.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-08-22">
-  <img src="images/fig-08-22.jpg" alt="Fig. 8.2.12: Intraoperative transoesophageal echocardiography guiding surgical septal myectomy: pre-myectomy SAM vs. pos" class="med-image" loading="lazy" />
+  <img src="images/fig-08-22.jpg" alt="Fig. 8.2.12: Intraoperative transoesophageal echocardiography guiding surgical septal myectomy" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.2.12: Intraoperative transoesophageal echocardiography guiding surgical septal myectomy: pre-myectomy SAM vs. post-myectomy wide LVOT.</figcaption>
 </figure>
 </div></details>
@@ -232,12 +232,12 @@ ARVC is a genetic cardiomyopathy characterized by progressive fibrofatty infiltr
 | **Minor Criteria** | **Regional RV akinesis or dyskinesis** AND $\ge 1$ of the following:<br>• $\text{PLAX RVOT} \ge 29\text{ to }< 32\text{ mm}$ (or $16\text{--}18\text{ mm/m}^2$ indexed)<br>• $\text{PSAX RVOT} \ge 32\text{ to }< 36\text{ mm}$ (or $18\text{--}20\text{ mm/m}^2$ indexed)<br>• $\text{RV FAC} > 33\%\text{ and }\le 40\%$ |
 
 <figure class="med-figure" id="fig-08-23">
-  <img src="images/fig-08-23.jpg" alt="Fig. 8.3.2: Transthoracic echocardiographic visualization of right ventricular enlargement and akinesis in ARVC." class="med-image" loading="lazy" />
+  <img src="images/fig-08-23.jpg" alt="Fig. 8.3.2: Transthoracic echocardiographic visualization of right ventricular enlargement and akinesis in ARVC" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.3.2: Transthoracic echocardiographic visualization of right ventricular enlargement and akinesis in ARVC.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-08-24">
-  <img src="images/fig-08-24.jpg" alt="Fig. 8.3.3: Demonstration of focal right ventricular wall thinning and outpouching in ARVC." class="med-image" loading="lazy" />
+  <img src="images/fig-08-24.jpg" alt="Fig. 8.3.3: Demonstration of focal right ventricular wall thinning and outpouching in ARVC" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.3.3: Demonstration of focal right ventricular wall thinning and outpouching in ARVC.</figcaption>
 </figure>
 </div></details>
@@ -261,7 +261,7 @@ LVNC is characterized by failure of intrauterine myocardial compaction, resultin
   - Visualization of $> 3$ hypertrabecular structures projecting from the wall, apical to the papillary muscles.
 
 <figure class="med-figure" id="fig-08-26">
-  <img src="images/fig-08-26.jpg" alt="Fig. 8.4.1: (A) Apical 4-chamber view of LVNC demonstrating prominent hypertrabeculation with deep recesses; (B) Paraste" class="med-image" loading="lazy" />
+  <img src="images/fig-08-26.jpg" alt="Fig. 8.4.1: (A) Apical 4-chamber view of LVNC demonstrating prominent hypertrabeculation with deep recesses; (B) Parasternal short-axis view illustrating measurement of the non-compacted to compacted ratio (NC/C > 2.0)" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.4.1: (A) Apical 4-chamber view of LVNC demonstrating prominent hypertrabeculation with deep recesses; (B) Parasternal short-axis view illustrating measurement of the non-compacted to compacted ratio ($NC/C > 2.0$).</figcaption>
 </figure>
 </div></details>
@@ -277,7 +277,7 @@ Acute myocarditis presents with clinical manifestations ranging from asymptomati
 - **Thromboembolism**: Increased incidence of ventricular mural thrombi during acute inflammatory states.
 
 <figure class="med-figure" id="fig-08-28">
-  <img src="images/fig-08-28.jpg" alt="Fig. 8.5.1: Regional left ventricular dysfunction and wall thickening in acute myocarditis." class="med-image" loading="lazy" />
+  <img src="images/fig-08-28.jpg" alt="Fig. 8.5.1: Regional left ventricular dysfunction and wall thickening in acute myocarditis" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.5.1: Regional left ventricular dysfunction and wall thickening in acute myocarditis.</figcaption>
 </figure>
 </div></details>
@@ -300,12 +300,12 @@ Takotsubo syndrome is characterized by transient regional systolic dysfunction, 
 - **Evolution**: Complete functional recovery of ejection fraction and wall motion within days to weeks ($> 95\%$ of cases).
 
 <figure class="med-figure" id="fig-08-29">
-  <img src="images/fig-08-29.jpg" alt="Fig. 8.6.1: Classic apical ballooning form of Takotsubo cardiomyopathy on TTE." class="med-image" loading="lazy" />
+  <img src="images/fig-08-29.jpg" alt="Fig. 8.6.1: Classic apical ballooning form of Takotsubo cardiomyopathy on TTE" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.6.1: Classic apical ballooning form of Takotsubo cardiomyopathy on TTE.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-08-30">
-  <img src="images/fig-08-30.jpg" alt="Fig. 8.6.2: 3D echocardiographic reconstruction of apical ballooning in Takotsubo syndrome." class="med-image" loading="lazy" />
+  <img src="images/fig-08-30.jpg" alt="Fig. 8.6.2: 3D echocardiographic reconstruction of apical ballooning in Takotsubo syndrome" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.6.2: 3D echocardiographic reconstruction of apical ballooning in Takotsubo syndrome.</figcaption>
 </figure>
 </div></details>
@@ -330,12 +330,12 @@ RCM is characterized by increased myocardial stiffness and impaired ventricular 
 | **Ventricular Interdependence** | Absent | Marked (respiratory septal bounce / shift) |
 
 <figure class="med-figure" id="fig-08-33">
-  <img src="images/fig-08-33.jpg" alt="Fig. 8.7.1: Structural and functional hallmarks of restrictive cardiomyopathy: massive biatrial enlargement and normal v" class="med-image" loading="lazy" />
+  <img src="images/fig-08-33.jpg" alt="Fig. 8.7.1: Structural and functional hallmarks of restrictive cardiomyopathy" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.7.1: Structural and functional hallmarks of restrictive cardiomyopathy: massive biatrial enlargement and normal ventricular cavity dimensions.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-08-34">
-  <img src="images/fig-08-34.jpg" alt="Fig. 8.7.2: Typical cardiac amyloidosis presenting with severe restrictive filling dynamics." class="med-image" loading="lazy" />
+  <img src="images/fig-08-34.jpg" alt="Fig. 8.7.2: Typical cardiac amyloidosis presenting with severe restrictive filling dynamics" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 8.7.2: Typical cardiac amyloidosis presenting with severe restrictive filling dynamics.</figcaption>
 </figure>
 </div></details>

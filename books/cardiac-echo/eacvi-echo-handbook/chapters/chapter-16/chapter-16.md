@@ -69,8 +69,7 @@ Because regional mechanical wall motion abnormalities occur significantly earlie
 Accurate territorial assessment requires standardized anatomical segmentation of the left ventricle in accordance with the ASE/EACVI 16- and 17-segment models.
 
 <figure class="med-figure" id="fig-16-01">
-  <img src="images/fig-16-01.jpg" alt="Regional wall motion assessment planes" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 16.1.1: Standard cross-sectional short-axis (basal, mid, apical) and longitudinal imaging planes (apical 4-, 2-, and 3-chamber) used for systematic 2D wall motion scoring.</figcaption>
+  <img src="images/fig-16-01.jpg" alt="Fig. 16.1.1: Standard cross-sectional short-axis" class="med-image" loading="lazy" />Fig. 16.1.1: Standard cross-sectional short-axis (basal, mid, apical) and longitudinal imaging planes (apical 4-, 2-, and 3-chamber) used for systematic 2D wall motion scoring.</figcaption>
 </figure>
 
 ### Polar Plot Display (Bull's Eye) & 17-Segment Model
@@ -81,8 +80,7 @@ The left ventricle is divided into three circular transverse levels and an apica
 - **Apex (Segment 17)**: The apical cap / true apex (evaluated in 17-segment model, omitted in 16-segment model).
 
 <figure class="med-figure" id="fig-16-02">
-  <img src="images/fig-16-02.jpg" alt="Polar plot display of LV segmentation" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 16.1.2: Polar plot (Bull's eye) display of the 16-, 17-, and 18-segment left ventricular models with anatomical nomenclature.</figcaption>
+  <img src="images/fig-16-02.jpg" alt="Fig. 16.1.2: Polar plot" class="med-image" loading="lazy" />Fig. 16.1.2: Polar plot (Bull's eye) display of the 16-, 17-, and 18-segment left ventricular models with anatomical nomenclature.</figcaption>
 </figure>
 
 ### Coronary Artery Perfusion Territories
@@ -94,8 +92,7 @@ The left ventricle is divided into three circular transverse levels and an apica
    - Supplies the anterolateral, inferolateral (posterior), and apical lateral walls (Segments 5, 6, 11, 12, 16).
 
 <figure class="med-figure" id="fig-16-03">
-  <img src="images/fig-16-03.jpg" alt="Coronary perfusion territories on polar plot" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 16.1.3: Schematic mapping of the three major coronary artery perfusion territories (LAD, RCA, LCx) on the 17-segment polar plot display.</figcaption>
+  <img src="images/fig-16-03.jpg" alt="Fig. 16.1.3: Schematic mapping of the three major coronary artery perfusion territories" class="med-image" loading="lazy" />Fig. 16.1.3: Schematic mapping of the three major coronary artery perfusion territories (LAD, RCA, LCx) on the 17-segment polar plot display.</figcaption>
 </figure>
 
 ### Wall Motion Scoring & Wall Motion Score Index (WMSI)
@@ -203,8 +200,7 @@ The stress test must be stopped immediately upon occurrence of any of the follow
 Echocardiographic images are acquired and displayed side-by-side in quad-screen format: **Rest**, **Low-Dose / Intermediate Stress**, **Peak Stress**, and **Recovery**.
 
 <figure class="med-figure" id="fig-16-04">
-  <img src="images/fig-16-04.jpg" alt="Stress echocardiography diagnostic patterns" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 16.1.4: Echocardiographic response patterns during stress: normal hyperkinesia with reduced end-systolic volume (upper row), ischemic wall motion abnormality with failure of systolic thickening (middle row), and biphasic response denoting viable hibernating myocardium (lower row).</figcaption>
+  <img src="images/fig-16-04.jpg" alt="Fig. 16.1.4: Echocardiographic response patterns during stress" class="med-image" loading="lazy" />Fig. 16.1.4: Echocardiographic response patterns during stress: normal hyperkinesia with reduced end-systolic volume (upper row), ischemic wall motion abnormality with failure of systolic thickening (middle row), and biphasic response denoting viable hibernating myocardium (lower row).</figcaption>
 </figure>
 
 ### The Four Diagnostic Equations of Stress Echocardiography

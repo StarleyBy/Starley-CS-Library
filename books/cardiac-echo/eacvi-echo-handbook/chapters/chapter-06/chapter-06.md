@@ -67,7 +67,7 @@ Immediate bedside echocardiography identifies patients at high risk of in-hospit
   - Measured from the continuous-wave (CW) Doppler spectrum of mitral regurgitation ($dP/dt < 1000\text{ mmHg/s}$ indicates severe contractile impairment).
 
 <figure class="med-figure" id="fig-06-01">
-  <img src="images/fig-06-01.jpg" alt="Fig. 6.1.1: (A) 2D Simpson discs method to assess LV volumes and EF; (B) LV volumes and EF with 3D echocardiography; (C)" class="med-image" loading="lazy" />
+  <img src="images/fig-06-01.jpg" alt="Fig. 6.1.1: (A) 2D Simpson discs method to assess LV volumes and EF; (B) LV volumes and EF with 3D echocardiography; (C) Global longitudinal strain (GLS) bull's-eye map showing apical and anterior strain impairment" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 6.1.1: (A) 2D Simpson discs method to assess LV volumes and EF; (B) LV volumes and EF with 3D echocardiography; (C) Global longitudinal strain (GLS) bull's-eye map showing apical and anterior strain impairment.</figcaption>
 </figure>
 
@@ -103,7 +103,7 @@ Mechanical complications of AMI typically occur within the first 2 to 7 days (or
 - **Prognosis**: Associated with high 3-year mortality (~60%), recurrent heart failure, and refractory ventricular tachyarrhythmias originating from the peri-infarct border zone.
 
 <figure class="med-figure" id="fig-06-02">
-  <img src="images/fig-06-02.jpg" alt="Fig. 6.2.1: Transthoracic echocardiogram (TTE) apical 4-chamber view demonstrating a large apical aneurysm with a protru" class="med-image" loading="lazy" />
+  <img src="images/fig-06-02.jpg" alt="Fig. 6.2.1: Transthoracic echocardiogram" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 6.2.1: Transthoracic echocardiogram (TTE) apical 4-chamber view demonstrating a large apical aneurysm with a protruding apical mural thrombus (arrow).</figcaption>
 </figure>
 
@@ -125,7 +125,7 @@ Mechanical complications of AMI typically occur within the first 2 to 7 days (or
 | **PW Doppler Spectrum** | Monophasic or blunted low velocities | Biphasic: systolic flow into the pouch and diastolic return flow |
 
 <figure class="med-figure" id="fig-06-03">
-  <img src="images/fig-06-03.jpg" alt="Fig. 6.2.2: TTE modified 4-chamber view with ultrasound contrast opacification demonstrating a pseudoaneurysm of the lat" class="med-image" loading="lazy" />
+  <img src="images/fig-06-03.jpg" alt="Fig. 6.2.2: TTE modified 4-chamber view with ultrasound contrast opacification demonstrating a pseudoaneurysm of the lateral wall with a narrow neck communication" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 6.2.2: TTE modified 4-chamber view with ultrasound contrast opacification demonstrating a pseudoaneurysm of the lateral wall with a narrow neck communication (arrow).</figcaption>
 </figure>
 
@@ -143,7 +143,7 @@ Mechanical complications of AMI typically occur within the first 2 to 7 days (or
   - Ultrasound contrast agents (LV opacification) dramatically enhance diagnostic certainty by delineating the endocardial boundary and confirming avascularity.
 
 <figure class="med-figure" id="fig-06-04">
-  <img src="images/fig-06-04.jpg" alt="Fig. 6.2.3: 3D TTE 4-chamber reconstruction showing a prominent, protruding apical thrombus within an akinetic apex." class="med-image" loading="lazy" />
+  <img src="images/fig-06-04.jpg" alt="Fig. 6.2.3: 3D TTE 4-chamber reconstruction showing a prominent, protruding apical thrombus within an akinetic apex" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 6.2.3: 3D TTE 4-chamber reconstruction showing a prominent, protruding apical thrombus within an akinetic apex.</figcaption>
 </figure>
 
@@ -161,7 +161,7 @@ Mechanical complications of AMI typically occur within the first 2 to 7 days (or
   - Transoesophageal echocardiography (TOE) is indispensable when TTE image quality is suboptimal or when flail papillary muscle heads are suspected.
 
 <figure class="med-figure" id="fig-06-05">
-  <img src="images/fig-06-05.jpg" alt="Fig. 6.2.4: Schematic illustration of the primary pathophysiological mechanisms of ischaemic mitral regurgitation: local" class="med-image" loading="lazy" />
+  <img src="images/fig-06-05.jpg" alt="Fig. 6.2.4: Schematic illustration of the primary pathophysiological mechanisms of ischaemic mitral regurgitation" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 6.2.4: Schematic illustration of the primary pathophysiological mechanisms of ischaemic mitral regurgitation: localized annular and wall dilatation with tethering, complete/partial papillary muscle rupture, and generalized ventricular dilatation.</figcaption>
 </figure>
 
@@ -185,7 +185,7 @@ Mechanical complications of AMI typically occur within the first 2 to 7 days (or
   - Subacute rupture presents with recurrent chest pain, transient hypotension, pericardial effusion, and pseudoaneurysm formation, allowing life-saving surgical intervention.
 
 <figure class="med-figure" id="fig-06-06">
-  <img src="images/fig-06-06.jpg" alt="Fig. 6.2.5: Transthoracic echocardiographic assessment of post-infarction wall rupture. (A) Apical 3-chamber view demons" class="med-image" loading="lazy" />
+  <img src="images/fig-06-06.jpg" alt="Fig. 6.2.5: Transthoracic echocardiographic assessment of post-infarction wall rupture" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 6.2.5: Transthoracic echocardiographic assessment of post-infarction wall rupture. (A) Apical 3-chamber view demonstrating a free wall rupture site (arrow); (B) Colour Doppler interrogation demonstrating extravasation through the myocardial defect; (C) Subcostal view demonstrating a ventricular septal rupture (VSR); (D) Continuous-wave (CW) Doppler showing high-velocity left-to-right systolic flow through the septal perforation.</figcaption>
 </figure>
 
@@ -207,17 +207,17 @@ Mechanical complications of AMI typically occur within the first 2 to 7 days (or
   - Pulmonary regurgitation with steep pressure half-time (PHT) on CW Doppler, indicative of rapid equilibration of PA diastolic pressure with elevated RV end-diastolic pressure.
 
 <figure class="med-figure" id="fig-06-07">
-  <img src="images/fig-06-07.jpg" alt="Fig. 6.2.6: TTE 4-chamber view demonstrating marked right ventricular dilatation with an akinetic, thinned RV free wall " class="med-image" loading="lazy" />
+  <img src="images/fig-06-07.jpg" alt="Fig. 6.2.6: TTE 4-chamber view demonstrating marked right ventricular dilatation with an akinetic, thinned RV free wall" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 6.2.6: TTE 4-chamber view demonstrating marked right ventricular dilatation with an akinetic, thinned RV free wall (arrow).</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-06-08">
-  <img src="images/fig-06-08.jpg" alt="Fig. 6.2.7: Continuous-wave (CW) Doppler spectrum of tricuspid regurgitation in acute RV infarction, showing a blunted p" class="med-image" loading="lazy" />
+  <img src="images/fig-06-08.jpg" alt="Fig. 6.2.7: Continuous-wave" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 6.2.7: Continuous-wave (CW) Doppler spectrum of tricuspid regurgitation in acute RV infarction, showing a blunted peak velocity ($< 2.5\text{ m/s}$) reflecting low RV systolic pressure generation.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-06-09">
-  <img src="images/fig-06-09.jpg" alt="Fig. 6.2.8: Continuous-wave (CW) Doppler recording of pulmonary regurgitation demonstrating a rapid deceleration slope a" class="med-image" loading="lazy" />
+  <img src="images/fig-06-09.jpg" alt="Fig. 6.2.8: Continuous-wave" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 6.2.8: Continuous-wave (CW) Doppler recording of pulmonary regurgitation demonstrating a rapid deceleration slope and steep PHT, indicative of severely elevated RV end-diastolic filling pressure.</figcaption>
 </figure>
 
@@ -237,7 +237,7 @@ Mechanical complications of AMI typically occur within the first 2 to 7 days (or
   - Autoimmune-mediated pleuropericarditis characterized by fever, pleuritic chest pain, polyserositis, and circumferential pericardial effusion.
 
 <figure class="med-figure" id="fig-06-10">
-  <img src="images/fig-06-10.jpg" alt="Fig. 6.2.9: TTE parasternal long-axis view demonstrating a prominent pericardial effusion (arrow) complicating a postero" class="med-image" loading="lazy" />
+  <img src="images/fig-06-10.jpg" alt="Fig. 6.2.9: TTE parasternal long-axis view demonstrating a prominent pericardial effusion" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 6.2.9: TTE parasternal long-axis view demonstrating a prominent pericardial effusion (arrow) complicating a posterolateral pseudoaneurysm.</figcaption>
 </figure>
 </div></details>

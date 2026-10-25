@@ -31,7 +31,7 @@ Point-of-Care Ultrasound (POCUS) and comprehensive critical care echocardiograph
 Lung ultrasound (LUS) has revolutionized bedside assessment of acute respiratory failure, outperforming supine chest radiography for pulmonary edema, pneumonia, pneumothorax, and pleural effusion.
 
 <figure class="med-figure" id="fig-12-01">
-  <img src="images/fig-12-01.jpg" alt="Fig. 12.1.2: Lung ultrasound B-lines (lung rockets) indicating alveolar-interstitial syndrome." class="med-image" loading="lazy" />
+  <img src="images/fig-12-01.jpg" alt="Fig. 12.1.2: Lung ultrasound B-lines" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 12.1.2: Lung ultrasound B-lines ("lung rockets") indicating alveolar-interstitial syndrome.</figcaption>
 </figure>
 
@@ -46,32 +46,32 @@ Lung ultrasound (LUS) has revolutionized bedside assessment of acute respiratory
 | **COPD / Asthma Exacerbation** | Pure A-lines with preserved lung sliding; absence of significant B-lines (dry lung) | RV hypertrophy or dilation secondary to chronic cor pulmonale; normal LV filling pressures |
 
 <figure class="med-figure" id="fig-12-02">
-  <img src="images/fig-12-02.jpg" alt="Fig. 12.1.3: Lung ultrasound appearance of ARDS: inhomogeneous B-lines with subpleural consolidations and pleural line i" class="med-image" loading="lazy" />
+  <img src="images/fig-12-02.jpg" alt="Fig. 12.1.3: Lung ultrasound appearance of ARDS" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 12.1.3: Lung ultrasound appearance of ARDS: inhomogeneous B-lines with subpleural consolidations and pleural line irregularities.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-12-03">
-  <img src="images/fig-12-03.jpg" alt="Fig. 12.1.5: The Lung Point: sonographic transition between normal lung sliding and absence of sliding, pathognomonic of" class="med-image" loading="lazy" />
+  <img src="images/fig-12-03.jpg" alt="Fig. 12.1.5: The Lung Point" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 12.1.5: The Lung Point: sonographic transition between normal lung sliding and absence of sliding, pathognomonic of pneumothorax.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-12-04">
-  <img src="images/fig-12-04.jpg" alt="Fig. 12.1.4: Sonographic flowchart to systematically rule in or rule out pneumothorax." class="med-image" loading="lazy" />
+  <img src="images/fig-12-04.jpg" alt="Fig. 12.1.4: Sonographic flowchart to systematically rule in or rule out pneumothorax" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 12.1.4: Sonographic flowchart to systematically rule in or rule out pneumothorax.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-12-05">
-  <img src="images/fig-12-05.jpg" alt="Fig. 12.1.6: Subpleural consolidation with irregular margins." class="med-image" loading="lazy" />
+  <img src="images/fig-12-05.jpg" alt="Fig. 12.1.6: Subpleural consolidation with irregular margins" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 12.1.6: Subpleural consolidation with irregular margins.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-12-06">
-  <img src="images/fig-12-06.jpg" alt="Fig. 12.1.7: Large, mobile serpentine thrombus in transit within the right atrium." class="med-image" loading="lazy" />
+  <img src="images/fig-12-06.jpg" alt="Fig. 12.1.7: Large, mobile serpentine thrombus in transit within the right atrium" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 12.1.7: Large, mobile serpentine thrombus in transit within the right atrium.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-12-07">
-  <img src="images/fig-12-07.jpg" alt="Fig. 12.1.8: Peripheral wedge-shaped pleural-based consolidation characteristic of pulmonary infarction in PE." class="med-image" loading="lazy" />
+  <img src="images/fig-12-07.jpg" alt="Fig. 12.1.8: Peripheral wedge-shaped pleural-based consolidation characteristic of pulmonary infarction in PE" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 12.1.8: Peripheral wedge-shaped pleural-based consolidation characteristic of pulmonary infarction in PE.</figcaption>
 </figure>
 </div></details>
@@ -91,12 +91,12 @@ Lung ultrasound (LUS) has revolutionized bedside assessment of acute respiratory
 | **Distributive (Septic)** | Hyperdynamic or transient septic cardiomyopathy (depressed LVEF) | Normal, hyperdynamic, or dilated | Variable (often collapsible prior to fluid resuscitation) | Variable (diffuse B-lines if concomitant ARDS or pneumonia) | Source of sepsis (pneumonia, empyema, cholecystitis) |
 
 <figure class="med-figure" id="fig-12-08">
-  <img src="images/fig-12-08.jpg" alt="Fig. 12.1.9: Circumferential pericardial effusion with right ventricular collapse in obstructive shock." class="med-image" loading="lazy" />
+  <img src="images/fig-12-08.jpg" alt="Fig. 12.1.9: Circumferential pericardial effusion with right ventricular collapse in obstructive shock" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 12.1.9: Circumferential pericardial effusion with right ventricular collapse in obstructive shock.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-12-09">
-  <img src="images/fig-12-09.jpg" alt="Fig. 12.1.10: M-mode recording demonstrating right ventricular early-diastolic collapse pathognomonic of cardiac tampona" class="med-image" loading="lazy" />
+  <img src="images/fig-12-09.jpg" alt="Fig. 12.1.10: M-mode recording demonstrating right ventricular early-diastolic collapse pathognomonic of cardiac tamponade" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 12.1.10: M-mode recording demonstrating right ventricular early-diastolic collapse pathognomonic of cardiac tamponade.</figcaption>
 </figure>
 
@@ -150,12 +150,12 @@ Continuous-flow left ventricular assist devices (HeartMate II/III, HeartWare) re
 - **De novo Aortic Regurgitation**: Closed-loop regurgitant volume circulating from the outflow graft back through the aortic valve into the LVAD inflow diminishes systemic net cardiac output.
 
 <figure class="med-figure" id="fig-12-10">
-  <img src="images/fig-12-10.jpg" alt="Fig. 12.1.11: Proper alignment of the LVAD inflow cannula directed into the center of the left ventricular cavity." class="med-image" loading="lazy" />
+  <img src="images/fig-12-10.jpg" alt="Fig. 12.1.11: Proper alignment of the LVAD inflow cannula directed into the center of the left ventricular cavity" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 12.1.11: Proper alignment of the LVAD inflow cannula directed into the center of the left ventricular cavity.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-12-11">
-  <img src="images/fig-12-11.jpg" alt="Fig. 12.1.12: Interventricular septal position in LVAD monitoring: neutral alignment indicating balanced biventricular l" class="med-image" loading="lazy" />
+  <img src="images/fig-12-11.jpg" alt="Fig. 12.1.12: Interventricular septal position in LVAD monitoring" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 12.1.12: Interventricular septal position in LVAD monitoring: neutral alignment indicating balanced biventricular loading.</figcaption>
 </figure>
 

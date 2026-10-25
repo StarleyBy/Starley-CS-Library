@@ -387,6 +387,10 @@ async function loadChapter(bookPath, chapterId, edition) {
         // --- Protect LaTeX math from marked.js mangling ---
         const mathStore = [];
         function storeMath(tex, display) {
+            // Guard: a math expression cannot contain HTML tag structures or attribute assignments
+            if (/<[a-z\/][\s\S]*?>/i.test(tex) || /\b(class|loading|src|alt)=/i.test(tex)) {
+                return display ? '$$' + tex + '$$' : '$' + tex + '$';
+            }
             const id = '\x02MATH' + mathStore.length + '\x03';
             let safeTex = tex;
             safeTex = safeTex.replace(/(?<!\\)%/g, '\\%');

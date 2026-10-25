@@ -61,12 +61,12 @@ Complex congenital heart disease must be analyzed using the sequential segmental
 - **Coronary Sinus Defect ($< 1\%$)**: Partial or complete unroofing of the tissue bridge separating the coronary sinus from the left atrium.
 
 <figure class="med-figure" id="fig-13-01">
-  <img src="images/fig-13-01.jpg" alt="Fig. 13.1.1: Schematic classification of the four primary anatomical subtypes of atrial septal defect." class="med-image" loading="lazy" />
+  <img src="images/fig-13-01.jpg" alt="Fig. 13.1.1: Schematic classification of the four primary anatomical subtypes of atrial septal defect" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 13.1.1: Schematic classification of the four primary anatomical subtypes of atrial septal defect.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-13-02">
-  <img src="images/fig-13-02.jpg" alt="Fig. 13.1.2: Subcostal long-axis 4-chamber view of a secundum atrial septal defect." class="med-image" loading="lazy" />
+  <img src="images/fig-13-02.jpg" alt="Fig. 13.1.2: Subcostal long-axis 4-chamber view of a secundum atrial septal defect" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 13.1.2: Subcostal long-axis 4-chamber view of a secundum atrial septal defect.</figcaption>
 </figure>
 
@@ -79,17 +79,17 @@ Percutaneous closure using an Amplatzer or similar septal occluder requires adeq
 - **AV Valve (Anteroinferior) Rim**: Between defect and mitral/tricuspid annuli ($0\text{--}30^\circ$; must be $\ge 5\text{ mm}$ to prevent device impingement on AV valves).
 
 <figure class="med-figure" id="fig-13-07">
-  <img src="images/fig-13-07.jpg" alt="Fig. 13.1.7: Transoesophageal echocardiographic multiplane sizing and rim assessment of secundum ASD." class="med-image" loading="lazy" />
+  <img src="images/fig-13-07.jpg" alt="Fig. 13.1.7: Transoesophageal echocardiographic multiplane sizing and rim assessment of secundum ASD" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 13.1.7: Transoesophageal echocardiographic multiplane sizing and rim assessment of secundum ASD.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-13-13">
-  <img src="images/fig-13-13.jpg" alt="Fig. 13.1.13: Successful transcatheter deployment of an ASD occluder device." class="med-image" loading="lazy" />
+  <img src="images/fig-13-13.jpg" alt="Fig. 13.1.13: Successful transcatheter deployment of an ASD occluder device" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 13.1.13: Successful transcatheter deployment of an ASD occluder device.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-13-14">
-  <img src="images/fig-13-14.jpg" alt="Fig. 13.1.14: Sinus venosus ASD with anomalous drainage of the right upper pulmonary vein into the superior vena cava." class="med-image" loading="lazy" />
+  <img src="images/fig-13-14.jpg" alt="Fig. 13.1.14: Sinus venosus ASD with anomalous drainage of the right upper pulmonary vein into the superior vena cava" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 13.1.14: Sinus venosus ASD with anomalous drainage of the right upper pulmonary vein into the superior vena cava.</figcaption>
 </figure>
 </div></details>
@@ -104,17 +104,17 @@ Percutaneous closure using an Amplatzer or similar septal occluder requires adeq
 - **Outlet / Doubly-Committed Subarterial VSD ($5\%$, higher in East Asian populations)**: Located beneath both the aortic and pulmonary valves in the infundibular septum. Absence of subaortic muscular support frequently leads to herniation/prolapse of the right coronary aortic cusp into the defect, causing progressive aortic regurgitation.
 
 <figure class="med-figure" id="fig-13-17">
-  <img src="images/fig-13-17.jpg" alt="Fig. 13.1.17: Schematic representation of ventricular septal defect subtypes." class="med-image" loading="lazy" />
+  <img src="images/fig-13-17.jpg" alt="Fig. 13.1.17: Schematic representation of ventricular septal defect subtypes" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 13.1.17: Schematic representation of ventricular septal defect subtypes.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-13-18">
-  <img src="images/fig-13-18.jpg" alt="Fig. 13.1.18: Parasternal long-axis view showing a perimembranous ventricular septal defect with left-to-right shunt." class="med-image" loading="lazy" />
+  <img src="images/fig-13-18.jpg" alt="Fig. 13.1.18: Parasternal long-axis view showing a perimembranous ventricular septal defect with left-to-right shunt" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 13.1.18: Parasternal long-axis view showing a perimembranous ventricular septal defect with left-to-right shunt.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-13-24">
-  <img src="images/fig-13-24.jpg" alt="Fig. 13.1.24: Doubly-committed subarterial VSD with associated aortic cusp prolapse." class="med-image" loading="lazy" />
+  <img src="images/fig-13-24.jpg" alt="Fig. 13.1.24: Doubly-committed subarterial VSD with associated aortic cusp prolapse" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 13.1.24: Doubly-committed subarterial VSD with associated aortic cusp prolapse.</figcaption>
 </figure>
 
@@ -135,7 +135,7 @@ $$\text{RVSP} = \text{SBP} - 4 \times v_{\text{VSD}}^2$$
   - CW Doppler shows high-velocity systolic acceleration followed by persistent forward flow throughout diastole (**diastolic runoff or "sawtooth" pattern**).
 
 <figure class="med-figure" id="fig-13-28">
-  <img src="images/fig-13-28.jpg" alt="Fig. 13.1.28: Suprasternal notch continuous-wave Doppler recording in severe aortic coarctation showing typical sawtoot" class="med-image" loading="lazy" />
+  <img src="images/fig-13-28.jpg" alt="Fig. 13.1.28: Suprasternal notch continuous-wave Doppler recording in severe aortic coarctation showing typical 'sawtooth' diastolic runoff pattern" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 13.1.28: Suprasternal notch continuous-wave Doppler recording in severe aortic coarctation showing typical "sawtooth" diastolic runoff pattern.</figcaption>
 </figure>
 
@@ -172,7 +172,7 @@ $$\text{RVSP} = \text{SBP} - 4 \times v_{\text{VSD}}^2$$
   - Complications: Progressive systemic RV failure, severe systemic tricuspid regurgitation, high incidence of spontaneous complete AV block ($2\%/\text{year}$).
 
 <figure class="med-figure" id="fig-13-40">
-  <img src="images/fig-13-40.jpg" alt="Fig. 13.1.40: Echocardiographic evaluation of transposition of the great arteries." class="med-image" loading="lazy" />
+  <img src="images/fig-13-40.jpg" alt="Fig. 13.1.40: Echocardiographic evaluation of transposition of the great arteries" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 13.1.40: Echocardiographic evaluation of transposition of the great arteries.</figcaption>
 </figure>
 
@@ -185,7 +185,7 @@ $$\text{RVSP} = \text{SBP} - 4 \times v_{\text{VSD}}^2$$
   - Associated with Wolff-Parkinson-White (WPW) syndrome ($20\text{--}30\%$) and patent foramen ovale or secundum ASD ($> 50\%$).
 
 <figure class="med-figure" id="fig-13-44">
-  <img src="images/fig-13-44.jpg" alt="Fig. 13.1.44: Apical 4-chamber view of Ebsteins anomaly showing severe apical displacement of the tricuspid valve and m" class="med-image" loading="lazy" />
+  <img src="images/fig-13-44.jpg" alt="Fig. 13.1.44: Apical 4-chamber view of Ebstein's anomaly showing severe apical displacement of the tricuspid valve and massive atrialized right ventricle" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 13.1.44: Apical 4-chamber view of Ebstein's anomaly showing severe apical displacement of the tricuspid valve and massive atrialized right ventricle.</figcaption>
 </figure>
 

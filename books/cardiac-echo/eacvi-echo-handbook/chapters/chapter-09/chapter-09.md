@@ -34,7 +34,7 @@ Due to its complex crescent-shaped retrosternal geometry, comprehensive evaluati
 - **Subcostal View**: Best acoustic window for measuring RV free wall thickness and inferior vena cava (IVC) dynamics.
 
 <figure class="med-figure" id="fig-09-01">
-  <img src="images/fig-09-01.jpg" alt="Fig. 9.1.1: Transthoracic acoustic planes for the right heart: apical 4-chamber, modified view, and dedicated RV-focused" class="med-image" loading="lazy" />
+  <img src="images/fig-09-01.jpg" alt="Fig. 9.1.1: Transthoracic acoustic planes for the right heart" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 9.1.1: Transthoracic acoustic planes for the right heart: apical 4-chamber, modified view, and dedicated RV-focused view.</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Due to its complex crescent-shaped retrosternal geometry, comprehensive evaluati
 - **RV Free Wall Thickness**: Measured at end-diastole in the subcostal view, excluding trabeculations and epicardial fat (normal $\le 5\text{ mm}$; $> 5\text{ mm}$ indicates RV hypertrophy).
 
 <figure class="med-figure" id="fig-09-04">
-  <img src="images/fig-09-04.jpg" alt="Fig. 9.1.3: Standard linear dimensions of the right ventricle measured in the apical RV-focused view." class="med-image" loading="lazy" />
+  <img src="images/fig-09-04.jpg" alt="Fig. 9.1.3: Standard linear dimensions of the right ventricle measured in the apical RV-focused view" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 9.1.3: Standard linear dimensions of the right ventricle measured in the apical RV-focused view.</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ Due to its complex crescent-shaped retrosternal geometry, comprehensive evaluati
 - **Normal $\ge 17\text{ mm}$** ($< 17\text{ mm}$ indicates RV systolic dysfunction).
 
 <figure class="med-figure" id="fig-09-08">
-  <img src="images/fig-09-08.jpg" alt="Fig. 9.1.10: M-mode measurement of Tricuspid Annular Plane Systolic Excursion (TAPSE)." class="med-image" loading="lazy" />
+  <img src="images/fig-09-08.jpg" alt="Fig. 9.1.10: M-mode measurement of Tricuspid Annular Plane Systolic Excursion" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 9.1.10: M-mode measurement of Tricuspid Annular Plane Systolic Excursion (TAPSE).</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ Due to its complex crescent-shaped retrosternal geometry, comprehensive evaluati
 - **Normal $s' \ge 9.5\text{ cm/s}$** ($< 9.5\text{ cm/s}$ indicates impaired longitudinal contraction).
 
 <figure class="med-figure" id="fig-09-09">
-  <img src="images/fig-09-09.jpg" alt="Fig. 9.1.11: Pulsed-wave tissue Doppler recording of the lateral tricuspid annulus systolic velocity ($s$)." class="med-image" loading="lazy" />
+  <img src="images/fig-09-09.jpg" alt="Fig. 9.1.11: Pulsed-wave tissue Doppler recording of the lateral tricuspid annulus systolic velocity" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 9.1.11: Pulsed-wave tissue Doppler recording of the lateral tricuspid annulus systolic velocity ($s'$).</figcaption>
 </figure>
 
@@ -77,7 +77,7 @@ $$\text{RV FAC} = \frac{\text{RVEDA} - \text{RVESA}}{\text{RVEDA}} \times 100\%$
 - **Normal $\ge 35\%$** ($< 35\%$ denotes significant global systolic impairment).
 
 <figure class="med-figure" id="fig-09-11">
-  <img src="images/fig-09-11.jpg" alt="Fig. 9.1.13: Measurement of RV end-diastolic and end-systolic areas for Fractional Area Change (FAC)." class="med-image" loading="lazy" />
+  <img src="images/fig-09-11.jpg" alt="Fig. 9.1.13: Measurement of RV end-diastolic and end-systolic areas for Fractional Area Change" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 9.1.13: Measurement of RV end-diastolic and end-systolic areas for Fractional Area Change (FAC).</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ $$\text{MPI} = \frac{\text{IVCT} + \text{IVRT}}{\text{ET}} = \frac{\text{TCO} - 
 - **Normal Values**: $\text{MPI} < 0.43$ by pulsed Doppler; $< 0.54$ by tissue Doppler.
 
 <figure class="med-figure" id="fig-09-13">
-  <img src="images/fig-09-13.jpg" alt="Fig. 9.1.15: Continuous-wave Doppler of TR and pulsed Doppler of RVOT flow for calculation of RV Myocardial Performance " class="med-image" loading="lazy" />
+  <img src="images/fig-09-13.jpg" alt="Fig. 9.1.15: Continuous-wave Doppler of TR and pulsed Doppler of RVOT flow for calculation of RV Myocardial Performance Index" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 9.1.15: Continuous-wave Doppler of TR and pulsed Doppler of RVOT flow for calculation of RV Myocardial Performance Index (MPI).</figcaption>
 </figure>
 
@@ -97,7 +97,7 @@ $$\text{MPI} = \frac{\text{IVCT} + \text{IVRT}}{\text{ET}} = \frac{\text{TCO} - 
 - **Normal RV Free Wall Strain $\le -20\%$** (more negative is better).
 
 <figure class="med-figure" id="fig-09-10">
-  <img src="images/fig-09-10.jpg" alt="Fig. 9.1.12: 2D speckle-tracking echocardiography of the right ventricular free wall." class="med-image" loading="lazy" />
+  <img src="images/fig-09-10.jpg" alt="Fig. 9.1.12: 2D speckle-tracking echocardiography of the right ventricular free wall" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 9.1.12: 2D speckle-tracking echocardiography of the right ventricular free wall.</figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ $$\text{MPI} = \frac{\text{IVCT} + \text{IVRT}}{\text{ET}} = \frac{\text{TCO} - 
 - **Normal 3D $\text{RVEF} \ge 45\%$**.
 
 <figure class="med-figure" id="fig-09-12">
-  <img src="images/fig-09-12.jpg" alt="Fig. 9.1.14: 3D volumetric reconstruction of the right ventricle." class="med-image" loading="lazy" />
+  <img src="images/fig-09-12.jpg" alt="Fig. 9.1.14: 3D volumetric reconstruction of the right ventricle" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 9.1.14: 3D volumetric reconstruction of the right ventricle.</figcaption>
 </figure>
 </div></details>
@@ -129,12 +129,12 @@ $$\text{EI} = \frac{D_2}{D_1}$$
   - **Volume Overload Pattern**: $\text{EI}_{\text{diastole}} > 1.0$, while $\text{EI}_{\text{systole}} \approx 1.0$.
 
 <figure class="med-figure" id="fig-09-20">
-  <img src="images/fig-09-20.jpg" alt="Fig. 9.2.1: Atrial septal defect (ASD) with left-to-right shunt causing marked right ventricular volume overload." class="med-image" loading="lazy" />
+  <img src="images/fig-09-20.jpg" alt="Fig. 9.2.1: Atrial septal defect" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 9.2.1: Atrial septal defect (ASD) with left-to-right shunt causing marked right ventricular volume overload.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-09-21">
-  <img src="images/fig-09-21.jpg" alt="Fig. 9.2.2: Left ventricular eccentricity index in parasternal short-axis view demonstrating diastolic septal flattening" class="med-image" loading="lazy" />
+  <img src="images/fig-09-21.jpg" alt="Fig. 9.2.2: Left ventricular eccentricity index in parasternal short-axis view demonstrating diastolic septal flattening in RV volume overload" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 9.2.2: Left ventricular eccentricity index in parasternal short-axis view demonstrating diastolic septal flattening in RV volume overload.</figcaption>
 </figure>
 </div></details>
@@ -155,7 +155,7 @@ Derived from the peak tricuspid regurgitation (TR) jet velocity using the simpli
 $$\text{PASP} = 4 \times v_{\text{TR}}^2 + \text{RAP}$$
 
 <figure class="med-figure" id="fig-09-22">
-  <img src="images/fig-09-22.jpg" alt="Fig. 9.3.1: Continuous-wave Doppler interrogation of tricuspid regurgitation jet velocity for estimation of PASP." class="med-image" loading="lazy" />
+  <img src="images/fig-09-22.jpg" alt="Fig. 9.3.1: Continuous-wave Doppler interrogation of tricuspid regurgitation jet velocity for estimation of PASP" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 9.3.1: Continuous-wave Doppler interrogation of tricuspid regurgitation jet velocity for estimation of PASP.</figcaption>
 </figure>
 
@@ -178,7 +178,7 @@ Derived from the end-diastolic pulmonary regurgitation velocity:
 $$\text{PADP} = 4 \times v_{\text{end-PR}}^2 + \text{RAP}$$
 
 <figure class="med-figure" id="fig-09-23">
-  <img src="images/fig-09-23.jpg" alt="Fig. 9.3.2: Continuous-wave Doppler of pulmonary regurgitation demonstrating early-diastolic and end-diastolic velocitie" class="med-image" loading="lazy" />
+  <img src="images/fig-09-23.jpg" alt="Fig. 9.3.2: Continuous-wave Doppler of pulmonary regurgitation demonstrating early-diastolic and end-diastolic velocities" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 9.3.2: Continuous-wave Doppler of pulmonary regurgitation demonstrating early-diastolic and end-diastolic velocities.</figcaption>
 </figure>
 
@@ -189,7 +189,7 @@ $$\text{PADP} = 4 \times v_{\text{end-PR}}^2 + \text{RAP}$$
 - **Midsystolic Notching ("Flying W")**: Premature deceleration or notching indicates elevated pulmonary vascular resistance (PVR).
 
 <figure class="med-figure" id="fig-09-24">
-  <img src="images/fig-09-24.jpg" alt="Fig. 9.3.3: Short pulmonary acceleration time (AcT) and midsystolic notching on pulsed Doppler." class="med-image" loading="lazy" />
+  <img src="images/fig-09-24.jpg" alt="Fig. 9.3.3: Short pulmonary acceleration time" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 9.3.3: Short pulmonary acceleration time (AcT) and midsystolic notching on pulsed Doppler.</figcaption>
 </figure>
 

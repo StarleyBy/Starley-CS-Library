@@ -32,7 +32,7 @@ Echocardiography represents the frontline diagnostic imaging modality for invest
 ### Etiology and Stratification of Embolic Risk
 
 <figure class="med-figure" id="fig-14-01">
-  <img src="images/fig-14-01.jpg" alt="Fig. 14.1: Principal etiologies and anatomical distribution of cardiac sources of embolism." class="med-image" loading="lazy" />
+  <img src="images/fig-14-01.jpg" alt="Fig. 14.1: Principal etiologies and anatomical distribution of cardiac sources of embolism" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.1: Principal etiologies and anatomical distribution of cardiac sources of embolism.</figcaption>
 </figure>
 
@@ -46,22 +46,22 @@ In patients presenting with atrial fibrillation or atrial flutter, transoesophag
   - **LAA Dysfunction**: Peak emptying velocity $< 20\text{--}25\text{ cm/s}$ indicates severe stasis and high risk of thrombus formation.
 
 <figure class="med-figure" id="fig-14-02">
-  <img src="images/fig-14-02.jpg" alt="Fig. 14.1.1: Transoesophageal echocardiogram demonstrating a clean, thrombus-free left atrial appendage prior to cardiov" class="med-image" loading="lazy" />
+  <img src="images/fig-14-02.jpg" alt="Fig. 14.1.1: Transoesophageal echocardiogram demonstrating a clean, thrombus-free left atrial appendage prior to cardioversion" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.1.1: Transoesophageal echocardiogram demonstrating a clean, thrombus-free left atrial appendage prior to cardioversion.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-03">
-  <img src="images/fig-14-03.jpg" alt="Fig. 14.1.2: TOE visualization of a distinct thrombus within the apex of the left atrial appendage." class="med-image" loading="lazy" />
+  <img src="images/fig-14-03.jpg" alt="Fig. 14.1.2: TOE visualization of a distinct thrombus within the apex of the left atrial appendage" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.1.2: TOE visualization of a distinct thrombus within the apex of the left atrial appendage.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-04">
-  <img src="images/fig-14-04.jpg" alt="Fig. 14.1.3: Dense spontaneous echo contrast (SEC) and sludge within the left atrial appendage." class="med-image" loading="lazy" />
+  <img src="images/fig-14-04.jpg" alt="Fig. 14.1.3: Dense spontaneous echo contrast" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.1.3: Dense spontaneous echo contrast (SEC) and sludge within the left atrial appendage.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-05">
-  <img src="images/fig-14-05.jpg" alt="Fig. 14.1.4: Pulsed-wave Doppler assessment demonstrating markedly blunted LAA emptying velocities ($< 20\text{ cm/s}$)." class="med-image" loading="lazy" />
+  <img src="images/fig-14-05.jpg" alt="Fig. 14.1.4: Pulsed-wave Doppler assessment demonstrating markedly blunted LAA emptying velocities" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.1.4: Pulsed-wave Doppler assessment demonstrating markedly blunted LAA emptying velocities ($< 20\text{ cm/s}$).</figcaption>
 </figure>
 
@@ -91,27 +91,27 @@ In patients presenting with atrial fibrillation or atrial flutter, transoesophag
 | **Metastatic Tumours** | 20–40× more frequent than primary | Pericardium, myocardium, or right heart cavities | Multiple nodules, pericardial effusion/tamponade, caval extension (renal cell carcinoma via IVC) |
 
 <figure class="med-figure" id="fig-14-08">
-  <img src="images/fig-14-08.jpg" alt="Fig. 14.2.2: Spectrum and relative distribution of benign cardiac tumours." class="med-image" loading="lazy" />
+  <img src="images/fig-14-08.jpg" alt="Fig. 14.2.2: Spectrum and relative distribution of benign cardiac tumours" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.2.2: Spectrum and relative distribution of benign cardiac tumours.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-09">
-  <img src="images/fig-14-09.jpg" alt="Fig. 14.2.3: Large, mobile left atrial myxoma attached to the interatrial septum, prolapsing across the mitral valve in " class="med-image" loading="lazy" />
+  <img src="images/fig-14-09.jpg" alt="Fig. 14.2.3: Large, mobile left atrial myxoma attached to the interatrial septum, prolapsing across the mitral valve in diastole" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.2.3: Large, mobile left atrial myxoma attached to the interatrial septum, prolapsing across the mitral valve in diastole.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-10">
-  <img src="images/fig-14-10.jpg" alt="Fig. 14.2.4: Small, highly mobile papillary fibroelastoma attached to the aortic valve cusp." class="med-image" loading="lazy" />
+  <img src="images/fig-14-10.jpg" alt="Fig. 14.2.4: Small, highly mobile papillary fibroelastoma attached to the aortic valve cusp" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.2.4: Small, highly mobile papillary fibroelastoma attached to the aortic valve cusp.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-11">
-  <img src="images/fig-14-11.jpg" alt="Fig. 14.2.5: Large, well-encapsulated left atrial lipoma." class="med-image" loading="lazy" />
+  <img src="images/fig-14-11.jpg" alt="Fig. 14.2.5: Large, well-encapsulated left atrial lipoma" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.2.5: Large, well-encapsulated left atrial lipoma.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-14">
-  <img src="images/fig-14-14.jpg" alt="Fig. 14.2.8: Primary cardiac lymphoma involving the right ventricle before and after systemic chemotherapy." class="med-image" loading="lazy" />
+  <img src="images/fig-14-14.jpg" alt="Fig. 14.2.8: Primary cardiac lymphoma involving the right ventricle before and after systemic chemotherapy" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.2.8: Primary cardiac lymphoma involving the right ventricle before and after systemic chemotherapy.</figcaption>
 </figure>
 </div></details>
@@ -124,22 +124,22 @@ In patients presenting with atrial fibrillation or atrial flutter, transoesophag
 - **Thrombi in Transit**: Elongated, serpentine, highly mobile clots trapped across the tricuspid valve, patent foramen ovale, or right heart chambers, originating from deep venous thrombosis.
 
 <figure class="med-figure" id="fig-14-15">
-  <img src="images/fig-14-15.jpg" alt="Fig. 14.2.10: Thrombi in the right heart chambers." class="med-image" loading="lazy" />
+  <img src="images/fig-14-15.jpg" alt="Fig. 14.2.10: Thrombi in the right heart chambers" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.2.10: Thrombi in the right heart chambers.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-16">
-  <img src="images/fig-14-16.jpg" alt="Fig. 14.2.11: Highly mobile serpentine mass in transit across the right heart chambers." class="med-image" loading="lazy" />
+  <img src="images/fig-14-16.jpg" alt="Fig. 14.2.11: Highly mobile serpentine mass in transit across the right heart chambers" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.2.11: Highly mobile serpentine mass in transit across the right heart chambers.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-17">
-  <img src="images/fig-14-17.jpg" alt="Fig. 14.2.12: Flat vs. protruding ventricular mural thrombi." class="med-image" loading="lazy" />
+  <img src="images/fig-14-17.jpg" alt="Fig. 14.2.12: Flat vs. protruding ventricular mural thrombi" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.2.12: Flat vs. protruding ventricular mural thrombi.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-21">
-  <img src="images/fig-14-21.jpg" alt="Fig. 14.2.17: Catheter-induced thrombosis and fibrin sheath formation." class="med-image" loading="lazy" />
+  <img src="images/fig-14-21.jpg" alt="Fig. 14.2.17: Catheter-induced thrombosis and fibrin sheath formation" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.2.17: Catheter-induced thrombosis and fibrin sheath formation.</figcaption>
 </figure>
 
@@ -159,22 +159,22 @@ Careful multiplane interrogation avoids misidentifying normal anatomical structu
 | **Transverse Pericardial Sinus** | Superior to left atrium and behind ascending aorta | Echo-free fluid collection simulating aortic dissection or mediastinal cyst |
 
 <figure class="med-figure" id="fig-14-22">
-  <img src="images/fig-14-22.jpg" alt="Fig. 14.2.18: Large hiatal hernia compressing the posterior aspect of the left atrium." class="med-image" loading="lazy" />
+  <img src="images/fig-14-22.jpg" alt="Fig. 14.2.18: Large hiatal hernia compressing the posterior aspect of the left atrium" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.2.18: Large hiatal hernia compressing the posterior aspect of the left atrium.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-26">
-  <img src="images/fig-14-26.jpg" alt="Fig. 14.2.22: Prominent Eustachian valve in the right atrium." class="med-image" loading="lazy" />
+  <img src="images/fig-14-26.jpg" alt="Fig. 14.2.22: Prominent Eustachian valve in the right atrium" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.2.22: Prominent Eustachian valve in the right atrium.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-27">
-  <img src="images/fig-14-27.jpg" alt="Fig. 14.2.23: Chiari network with mobile, reticular fibers floating within the right atrium." class="med-image" loading="lazy" />
+  <img src="images/fig-14-27.jpg" alt="Fig. 14.2.23: Chiari network with mobile, reticular fibers floating within the right atrium" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.2.23: Chiari network with mobile, reticular fibers floating within the right atrium.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-28">
-  <img src="images/fig-14-28.jpg" alt="Fig. 14.2.24: Coumadin ridge (ligament of Marshall) separating the left upper pulmonary vein from the LAA." class="med-image" loading="lazy" />
+  <img src="images/fig-14-28.jpg" alt="Fig. 14.2.24: Coumadin ridge" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 14.2.24: Coumadin ridge (ligament of Marshall) separating the left upper pulmonary vein from the LAA.</figcaption>
 </figure>
 </div></details>

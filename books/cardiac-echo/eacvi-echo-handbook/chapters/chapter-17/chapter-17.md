@@ -35,8 +35,7 @@ The Morganroth hypothesis classifies cardiac remodeling according to the predomi
 3. **Mixed / Combined Sports (Soccer, Rugby, Basketball, Tennis)**: Combine both substantial dynamic and static components, inducing mixed eccentric-concentric remodeling.
 
 <figure class="med-figure" id="fig-17-01">
-  <img src="images/fig-17-01.jpg" alt="Morganroth hypothesis of athlete's heart" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.1.1: Morganroth hypothesis: Morphological adaptations of the left ventricle resulting from endurance training (volume overload inducing eccentric hypertrophy) versus strength training (pressure overload inducing concentric remodeling).</figcaption>
+  <img src="images/fig-17-01.jpg" alt="Fig. 17.1.1: Morganroth hypothesis" class="med-image" loading="lazy" />Fig. 17.1.1: Morganroth hypothesis: Morphological adaptations of the left ventricle resulting from endurance training (volume overload inducing eccentric hypertrophy) versus strength training (pressure overload inducing concentric remodeling).</figcaption>
 </figure>
 
 ### Echocardiographic Features of the Athlete's Heart
@@ -46,18 +45,15 @@ The Morganroth hypothesis classifies cardiac remodeling according to the predomi
 - **Right Ventricle**: Harmonious enlargement of RV outflow and inflow dimensions, matching LV dilation, with preserved systolic mechanics (TAPSE, fractional area change).
 
 <figure class="med-figure" id="fig-17-02">
-  <img src="images/fig-17-02.jpg" alt="Left atrial enlargement in basketball player" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.1.2: Apical 4-chamber view of a top-level basketball player demonstrating harmonious biventricular and left atrial remodeling with preserved systolic and diastolic mechanics.</figcaption>
+  <img src="images/fig-17-02.jpg" alt="Fig. 17.1.2: Apical 4-chamber view of a top-level basketball player demonstrating harmonious biventricular and left atrial remodeling with preserved systolic and diastolic mechanics" class="med-image" loading="lazy" />Fig. 17.1.2: Apical 4-chamber view of a top-level basketball player demonstrating harmonious biventricular and left atrial remodeling with preserved systolic and diastolic mechanics.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-17-03">
-  <img src="images/fig-17-03.jpg" alt="Tissue Doppler imaging in athlete's heart" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.1.3: Typical tissue Doppler imaging (DMI) profile of the athlete's heart: normal-to-supernormal early diastolic myocardial relaxation velocity ($e' > 12$ cm/s, $E/e' < 6$).</figcaption>
+  <img src="images/fig-17-03.jpg" alt="Fig. 17.1.3: Typical tissue Doppler imaging" class="med-image" loading="lazy" />Fig. 17.1.3: Typical tissue Doppler imaging (DMI) profile of the athlete's heart: normal-to-supernormal early diastolic myocardial relaxation velocity ($e' > 12$ cm/s, $E/e' < 6$).</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-17-04">
-  <img src="images/fig-17-04.jpg" alt="2D STE of right ventricle in athlete" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.1.4: 2D speckle-tracking echocardiography (STE) of the right ventricle in an elite athlete demonstrating harmonious free wall and global strain distribution.</figcaption>
+  <img src="images/fig-17-04.jpg" alt="Fig. 17.1.4: 2D speckle-tracking echocardiography" class="med-image" loading="lazy" />Fig. 17.1.4: 2D speckle-tracking echocardiography (STE) of the right ventricle in an elite athlete demonstrating harmonious free wall and global strain distribution.</figcaption>
 </figure>
 
 ### Differential Diagnosis: Athlete's Heart vs. Hypertrophic Cardiomyopathy (HCM)
@@ -77,13 +73,11 @@ The Morganroth hypothesis classifies cardiac remodeling according to the predomi
 | **Response to Deconditioning (Detraining)** | **Regression of LV wall thickness by 2–5 mm** after 3 months of complete physical inactivity | **Persistence of hypertrophy** without wall thinning |
 
 <figure class="med-figure" id="fig-17-05">
-  <img src="images/fig-17-05.jpg" alt="2D speckle tracking in grey zone LVH" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.1.5: 2D speckle tracking in the "grey zone" of wall thickness (13–15 mm): Healthy athlete (A) demonstrates uniform longitudinal strain, whereas patient with early HCM (B) exhibits marked regional strain attenuation in the basal septum.</figcaption>
+  <img src="images/fig-17-05.jpg" alt="Fig. 17.1.5: 2D speckle tracking in the 'grey zone' of wall thickness" class="med-image" loading="lazy" />Fig. 17.1.5: 2D speckle tracking in the "grey zone" of wall thickness (13–15 mm): Healthy athlete (A) demonstrates uniform longitudinal strain, whereas patient with early HCM (B) exhibits marked regional strain attenuation in the basal septum.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-17-06">
-  <img src="images/fig-17-06.jpg" alt="Transmitral and tissue Doppler in athlete vs HCM" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.1.6: Standard transmitral pulsed Doppler and pulsed tissue Doppler of the mitral annulus distinguishing athlete's heart (supernormal relaxation, $e' > 12$ cm/s) from HCM (impaired relaxation, $e' < 7$ cm/s).</figcaption>
+  <img src="images/fig-17-06.jpg" alt="Fig. 17.1.6: Standard transmitral pulsed Doppler and pulsed tissue Doppler of the mitral annulus distinguishing athlete's heart" class="med-image" loading="lazy" />Fig. 17.1.6: Standard transmitral pulsed Doppler and pulsed tissue Doppler of the mitral annulus distinguishing athlete's heart (supernormal relaxation, $e' > 12$ cm/s) from HCM (impaired relaxation, $e' < 7$ cm/s).</figcaption>
 </figure>
 
 ### Differential Diagnosis: Athlete's Heart vs. Dilated Cardiomyopathy (DCM) & ARVC
@@ -96,8 +90,7 @@ The Morganroth hypothesis classifies cardiac remodeling according to the predomi
 | **Diastolic Filling Pressures** | Completely normal: $E/e' < 8$ | Elevated: $E/e' > 14$, shortened deceleration time |
 
 <figure class="med-figure" id="fig-17-07">
-  <img src="images/fig-17-07.jpg" alt="RV enlargement in endurance athlete" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.1.7: Physiological right ventricular enlargement in an endurance athlete. Apical 4-chamber view demonstrating enlarged RV basal diameter (44 mm) with preserved global and regional contractility, distinguishing it from ARVC.</figcaption>
+  <img src="images/fig-17-07.jpg" alt="Fig. 17.1.7: Physiological right ventricular enlargement in an endurance athlete" class="med-image" loading="lazy" />Fig. 17.1.7: Physiological right ventricular enlargement in an endurance athlete. Apical 4-chamber view demonstrating enlarged RV basal diameter (44 mm) with preserved global and regional contractility, distinguishing it from ARVC.</figcaption>
 </figure>
 
 In Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC), RV enlargement is characterized by regional wall motion abnormalities (akinesia, dyskinesia, or localized bulging/aneurysms of the outflow tract or subtricuspid region) and impaired RV fractional area change ($\text{FAC} < 35\%$), whereas in endurance athletes, RV enlargement is symmetric, harmonious, and devoid of dyssynchrony or sacculations.
@@ -155,8 +148,7 @@ Echocardiographic assessment is central to preconception counseling and risk str
 Cardiac amyloidosis results from extracellular deposition of insoluble fibrillar protein aggregates (light-chain AL amyloidosis or transthyretin ATTR amyloidosis) within the myocardial interstitium.
 
 <figure class="med-figure" id="fig-17-08">
-  <img src="images/fig-17-08.jpg" alt="Cardiac amyloidosis 4-chamber view" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.1: Cardiac amyloidosis on apical 4-chamber view: Markedly thickened biventricular walls with "granular sparkling" ground-glass myocardial appearance, biatrial enlargement, and interatrial septal thickening.</figcaption>
+  <img src="images/fig-17-08.jpg" alt="Fig. 17.3.1: Cardiac amyloidosis on apical 4-chamber view" class="med-image" loading="lazy" />Fig. 17.3.1: Cardiac amyloidosis on apical 4-chamber view: Markedly thickened biventricular walls with "granular sparkling" ground-glass myocardial appearance, biatrial enlargement, and interatrial septal thickening.</figcaption>
 </figure>
 
 - **2D Echocardiographic Hallmarks**:
@@ -169,13 +161,11 @@ Cardiac amyloidosis results from extracellular deposition of insoluble fibrillar
 - **Doppler Hemodynamics**: Restrictive LV filling pattern: tall $E$-wave, marked decrease in deceleration time ($\text{DT} < 150$ ms), tiny or absent $A$-wave ($E/A > 2.0$), profoundly diminished tissue Doppler velocities (septal and lateral $e' < 5$ cm/s), and markedly elevated $E/e' > 15–20$.
 
 <figure class="med-figure" id="fig-17-09">
-  <img src="images/fig-17-09.jpg" alt="Restrictive filling in amyloidosis" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.2: Severe restrictive LV filling pattern in cardiac amyloidosis: tall E-wave, shortened deceleration time (< 140 ms), and low-velocity A-wave reflecting stiff, non-compliant ventricles.</figcaption>
+  <img src="images/fig-17-09.jpg" alt="Fig. 17.3.2: Severe restrictive LV filling pattern in cardiac amyloidosis" class="med-image" loading="lazy" />Fig. 17.3.2: Severe restrictive LV filling pattern in cardiac amyloidosis: tall E-wave, shortened deceleration time (< 140 ms), and low-velocity A-wave reflecting stiff, non-compliant ventricles.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-17-10">
-  <img src="images/fig-17-10.jpg" alt="TTE 4CV of amyloidosis in diastole and systole" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.3: Apical 4-chamber view in diastole (A) and systole (B) in advanced cardiac amyloidosis illustrating small ventricular cavities and preserved radial ejection fraction despite severely reduced longitudinal shortening.</figcaption>
+  <img src="images/fig-17-10.jpg" alt="Fig. 17.3.3: Apical 4-chamber view in diastole" class="med-image" loading="lazy" />Fig. 17.3.3: Apical 4-chamber view in diastole (A) and systole (B) in advanced cardiac amyloidosis illustrating small ventricular cavities and preserved radial ejection fraction despite severely reduced longitudinal shortening.</figcaption>
 </figure>
 
 - **Strain Imaging: Apical Sparing Pattern ("Cherry on Top")**:
@@ -185,13 +175,11 @@ Cardiac amyloidosis results from extracellular deposition of insoluble fibrillar
   - Highly sensitive ($> 90\%$) and specific ($> 85\%$) for distinguishing cardiac amyloidosis from hypertrophic cardiomyopathy and hypertensive heart disease.
 
 <figure class="med-figure" id="fig-17-11">
-  <img src="images/fig-17-11.jpg" alt="Apical sparing strain in amyloidosis" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.4: 2D speckle-tracking strain polar map (Bull's eye) demonstrating the classic "apical sparing" pattern (preserved red apex with severely blunted pink/blue basal and mid segments) diagnostic of cardiac amyloidosis.</figcaption>
+  <img src="images/fig-17-11.jpg" alt="Fig. 17.3.4: 2D speckle-tracking strain polar map" class="med-image" loading="lazy" />Fig. 17.3.4: 2D speckle-tracking strain polar map (Bull's eye) demonstrating the classic "apical sparing" pattern (preserved red apex with severely blunted pink/blue basal and mid segments) diagnostic of cardiac amyloidosis.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-17-12">
-  <img src="images/fig-17-12.jpg" alt="RV involvement in amyloidosis" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.5: Subcostal view demonstrating marked right ventricular free wall hypertrophy (> 5 mm) and tricuspid valve thickening in advanced cardiac amyloidosis.</figcaption>
+  <img src="images/fig-17-12.jpg" alt="Fig. 17.3.5: Subcostal view demonstrating marked right ventricular free wall hypertrophy" class="med-image" loading="lazy" />Fig. 17.3.5: Subcostal view demonstrating marked right ventricular free wall hypertrophy (> 5 mm) and tricuspid valve thickening in advanced cardiac amyloidosis.</figcaption>
 </figure>
 
 ### Fabry Disease (Anderson-Fabry)
@@ -222,18 +210,15 @@ Autoimmune rheumatic diseases frequently involve the pericardium, myocardium, en
   - Strongly associated with positive antiphospholipid antibodies (lupus anticoagulant, anticardiolipin).
 
 <figure class="med-figure" id="fig-17-13">
-  <img src="images/fig-17-13.jpg" alt="Pericardial effusion in SLE" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.6: Parasternal long-axis view showing a typical pericardial effusion in an active systemic lupus erythematosus patient.</figcaption>
+  <img src="images/fig-17-13.jpg" alt="Fig. 17.3.6: Parasternal long-axis view showing a typical pericardial effusion in an active systemic lupus erythematosus patient" class="med-image" loading="lazy" />Fig. 17.3.6: Parasternal long-axis view showing a typical pericardial effusion in an active systemic lupus erythematosus patient.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-17-14">
-  <img src="images/fig-17-14.jpg" alt="Mitral valve thickening in SLE" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.7: Apical 4-chamber view showing diffuse mitral leaflet thickening and mild regurgitation in systemic lupus erythematosus.</figcaption>
+  <img src="images/fig-17-14.jpg" alt="Fig. 17.3.7: Apical 4-chamber view showing diffuse mitral leaflet thickening and mild regurgitation in systemic lupus erythematosus" class="med-image" loading="lazy" />Fig. 17.3.7: Apical 4-chamber view showing diffuse mitral leaflet thickening and mild regurgitation in systemic lupus erythematosus.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-17-15">
-  <img src="images/fig-17-15.jpg" alt="Libman-Sacks vegetation on mitral leaflet" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.8: Parasternal long-axis view demonstrating a characteristic broad-based, sessile Libman-Sacks vegetation (arrow) on the anterior mitral leaflet in a patient with SLE and antiphospholipid syndrome.</figcaption>
+  <img src="images/fig-17-15.jpg" alt="Fig. 17.3.8: Parasternal long-axis view demonstrating a characteristic broad-based, sessile Libman-Sacks vegetation" class="med-image" loading="lazy" />Fig. 17.3.8: Parasternal long-axis view demonstrating a characteristic broad-based, sessile Libman-Sacks vegetation (arrow) on the anterior mitral leaflet in a patient with SLE and antiphospholipid syndrome.</figcaption>
 </figure>
 
 ### 2. Systemic Sclerosis (Scleroderma) & MCTD
@@ -242,13 +227,11 @@ Autoimmune rheumatic diseases frequently involve the pericardium, myocardium, en
 - **Mixed Connective Tissue Disease (MCTD)**: High incidence of mitral valve prolapse (MVP) and pulmonary hypertension.
 
 <figure class="med-figure" id="fig-17-16">
-  <img src="images/fig-17-16.jpg" alt="Pulmonary hypertension in scleroderma" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.9: Continuous-wave Doppler of tricuspid regurgitation demonstrating a high-velocity jet (> 4.2 m/s, gradient > 70 mmHg) diagnostic of severe pulmonary arterial hypertension in systemic sclerosis.</figcaption>
+  <img src="images/fig-17-16.jpg" alt="Fig. 17.3.9: Continuous-wave Doppler of tricuspid regurgitation demonstrating a high-velocity jet" class="med-image" loading="lazy" />Fig. 17.3.9: Continuous-wave Doppler of tricuspid regurgitation demonstrating a high-velocity jet (> 4.2 m/s, gradient > 70 mmHg) diagnostic of severe pulmonary arterial hypertension in systemic sclerosis.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-17-17">
-  <img src="images/fig-17-17.jpg" alt="Mitral valve prolapse in MCTD" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.10: Parasternal long-axis view showing myxomatous mitral valve prolapse in a patient with mixed connective tissue disease (MCTD).</figcaption>
+  <img src="images/fig-17-17.jpg" alt="Fig. 17.3.10: Parasternal long-axis view showing myxomatous mitral valve prolapse in a patient with mixed connective tissue disease" class="med-image" loading="lazy" />Fig. 17.3.10: Parasternal long-axis view showing myxomatous mitral valve prolapse in a patient with mixed connective tissue disease (MCTD).</figcaption>
 </figure>
 
 ### 3. Heritable Thoracic Aortic Diseases (Marfan, Loeys-Dietz, Ehlers-Danlos)
@@ -264,23 +247,19 @@ Autoimmune rheumatic diseases frequently involve the pericardium, myocardium, en
   - Extreme vascular fragility with catastrophic spontaneous aortic and visceral arterial rupture.
 
 <figure class="med-figure" id="fig-17-18">
-  <img src="images/fig-17-18.jpg" alt="Annuloaortic ectasia in Marfan" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.11: Severe annuloaortic ectasia in Marfan syndrome: massive dilatation of aortic annulus, sinuses of Valsalva, and loss of sinotubular junction geometry.</figcaption>
+  <img src="images/fig-17-18.jpg" alt="Fig. 17.3.11: Severe annuloaortic ectasia in Marfan syndrome" class="med-image" loading="lazy" />Fig. 17.3.11: Severe annuloaortic ectasia in Marfan syndrome: massive dilatation of aortic annulus, sinuses of Valsalva, and loss of sinotubular junction geometry.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-17-19">
-  <img src="images/fig-17-19.jpg" alt="Type A aortic dissection in Marfan" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.12: Acute Type A aortic dissection in a Marfan patient: mobile intimal flap visualized undulating across the dilated ascending aorta.</figcaption>
+  <img src="images/fig-17-19.jpg" alt="Fig. 17.3.12: Acute Type A aortic dissection in a Marfan patient" class="med-image" loading="lazy" />Fig. 17.3.12: Acute Type A aortic dissection in a Marfan patient: mobile intimal flap visualized undulating across the dilated ascending aorta.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-17-20">
-  <img src="images/fig-17-20.jpg" alt="Massive thoracic aortic aneurysm" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.13: Transthoracic PLAX view demonstrating a massive (90 mm) ascending aortic aneurysm with severe coaptation failure and aortic regurgitation.</figcaption>
+  <img src="images/fig-17-20.jpg" alt="Fig. 17.3.13: Transthoracic PLAX view demonstrating a massive" class="med-image" loading="lazy" />Fig. 17.3.13: Transthoracic PLAX view demonstrating a massive (90 mm) ascending aortic aneurysm with severe coaptation failure and aortic regurgitation.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-17-21">
-  <img src="images/fig-17-21.jpg" alt="Descending aorta dilation in connective tissue disease" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.14: Subcostal and suprasternal views showing marked tortuosity and diffuse aneurysmal dilatation of the descending thoracic aorta in a connective tissue disorder.</figcaption>
+  <img src="images/fig-17-21.jpg" alt="Fig. 17.3.14: Subcostal and suprasternal views showing marked tortuosity and diffuse aneurysmal dilatation of the descending thoracic aorta in a connective tissue disorder" class="med-image" loading="lazy" />Fig. 17.3.14: Subcostal and suprasternal views showing marked tortuosity and diffuse aneurysmal dilatation of the descending thoracic aorta in a connective tissue disorder.</figcaption>
 </figure>
 
 ### 4. Large Vessel Vasculitis (Takayasu Arteritis & Giant Cell Arteritis)
@@ -291,8 +270,7 @@ Autoimmune rheumatic diseases frequently involve the pericardium, myocardium, en
   - Secondary severe aortic regurgitation due to ascending aortic root dilation.
 
 <figure class="med-figure" id="fig-17-22">
-  <img src="images/fig-17-22.jpg" alt="Takayasu arteritis macaroni sign" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.15: Parasternal short-axis view of the descending aorta showing circumferential mural thickening (arrowhead, "macaroni sign") characteristic of Takayasu arteritis.</figcaption>
+  <img src="images/fig-17-22.jpg" alt="Fig. 17.3.15: Parasternal short-axis view of the descending aorta showing circumferential mural thickening" class="med-image" loading="lazy" />Fig. 17.3.15: Parasternal short-axis view of the descending aorta showing circumferential mural thickening (arrowhead, "macaroni sign") characteristic of Takayasu arteritis.</figcaption>
 </figure>
 
 </div>
@@ -314,13 +292,11 @@ Autoimmune rheumatic diseases frequently involve the pericardium, myocardium, en
   - Marked biatrial enlargement with a restrictive ventricular filling pattern.
 
 <figure class="med-figure" id="fig-17-23">
-  <img src="images/fig-17-23.jpg" alt="Loeffler endocarditis apical obliteration" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.16: Apical 4-chamber view with and without contrast echocardiography showing complete obliteration of the right ventricular apex in Hypereosinophilic Syndrome (Loeffler endocarditis).</figcaption>
+  <img src="images/fig-17-23.jpg" alt="Fig. 17.3.16: Apical 4-chamber view with and without contrast echocardiography showing complete obliteration of the right ventricular apex in Hypereosinophilic Syndrome" class="med-image" loading="lazy" />Fig. 17.3.16: Apical 4-chamber view with and without contrast echocardiography showing complete obliteration of the right ventricular apex in Hypereosinophilic Syndrome (Loeffler endocarditis).</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-17-24">
-  <img src="images/fig-17-24.jpg" alt="LV apical obliteration in EMF" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.17: Apical 4-chamber view demonstrating obliteration of the LV apex by dense echogenic fibrous tissue and chronic mural thrombus in Endomyocardial Fibrosis (EMF).</figcaption>
+  <img src="images/fig-17-24.jpg" alt="Fig. 17.3.17: Apical 4-chamber view demonstrating obliteration of the LV apex by dense echogenic fibrous tissue and chronic mural thrombus in Endomyocardial Fibrosis" class="med-image" loading="lazy" />Fig. 17.3.17: Apical 4-chamber view demonstrating obliteration of the LV apex by dense echogenic fibrous tissue and chronic mural thrombus in Endomyocardial Fibrosis (EMF).</figcaption>
 </figure>
 
 ### 2. Carcinoid Heart Disease
@@ -332,8 +308,7 @@ Autoimmune rheumatic diseases frequently involve the pericardium, myocardium, en
   - Pulmonary valve cusps become thickened, retracted, and fixed, leading to pulmonary stenosis and regurgitation.
 
 <figure class="med-figure" id="fig-17-25">
-  <img src="images/fig-17-25.jpg" alt="Carcinoid heart disease tricuspid valve" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.18: Apical 4-chamber view showing rigid, retracted, thickened tricuspid valve leaflets with fixed open position during systole, pathognomonic of Carcinoid Heart Disease.</figcaption>
+  <img src="images/fig-17-25.jpg" alt="Fig. 17.3.18: Apical 4-chamber view showing rigid, retracted, thickened tricuspid valve leaflets with fixed open position during systole, pathognomonic of Carcinoid Heart Disease" class="med-image" loading="lazy" />Fig. 17.3.18: Apical 4-chamber view showing rigid, retracted, thickened tricuspid valve leaflets with fixed open position during systole, pathognomonic of Carcinoid Heart Disease.</figcaption>
 </figure>
 
 ### 3. Chagas Disease (*Trypanosoma cruzi*)
@@ -345,8 +320,7 @@ Autoimmune rheumatic diseases frequently involve the pericardium, myocardium, en
   - Severe conduction system disease (right bundle branch block and left anterior fascicular block).
 
 <figure class="med-figure" id="fig-17-26">
-  <img src="images/fig-17-26.jpg" alt="Chagas narrow-neck apical aneurysm" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 17.3.19: Schematic representation of a narrow-neck apical aneurysm (AA) of the left ventricle (LV), characteristic of chronic Chagas cardiomyopathy.</figcaption>
+  <img src="images/fig-17-26.jpg" alt="Fig. 17.3.19: Schematic representation of a narrow-neck apical aneurysm" class="med-image" loading="lazy" />Fig. 17.3.19: Schematic representation of a narrow-neck apical aneurysm (AA) of the left ventricle (LV), characteristic of chronic Chagas cardiomyopathy.</figcaption>
 </figure>
 
 ### 4. Cancer Therapy-Related Cardiac Dysfunction (CTRCD / Cardio-Oncology)

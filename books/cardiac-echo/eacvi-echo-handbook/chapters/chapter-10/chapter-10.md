@@ -37,7 +37,7 @@ Normal pericardial fluid volume is $10\text{ to }50\text{ mL}$, visible as a tri
 - **Large Effusion**: Echo-free space $> 20\text{ mm}$ (circumferential with "swinging heart" motion; volume $> 500\text{ mL}$).
 
 <figure class="med-figure" id="fig-10-01">
-  <img src="images/fig-10-01.jpg" alt="Fig. 10.1.1: Transthoracic echocardiogram demonstrating physiological vs. pathological pericardial effusion." class="med-image" loading="lazy" />
+  <img src="images/fig-10-01.jpg" alt="Fig. 10.1.1: Transthoracic echocardiogram demonstrating physiological vs" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 10.1.1: Transthoracic echocardiogram demonstrating physiological vs. pathological pericardial effusion.</figcaption>
 </figure>
 
@@ -50,17 +50,17 @@ Normal pericardial fluid volume is $10\text{ to }50\text{ mL}$, visible as a tri
 | **Motion Dynamics** | Independent fluid swirling | Fluid shift with pleural movement | Moves synchronously and concordantly with myocardium |
 
 <figure class="med-figure" id="fig-10-02">
-  <img src="images/fig-10-02.jpg" alt="Fig. 10.1.2: Parasternal long-axis view differentiating pericardial effusion (anterior to descending aorta) from pleural" class="med-image" loading="lazy" />
+  <img src="images/fig-10-02.jpg" alt="Fig. 10.1.2: Parasternal long-axis view differentiating pericardial effusion" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 10.1.2: Parasternal long-axis view differentiating pericardial effusion (anterior to descending aorta) from pleural effusion (posterior).</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-10-03">
-  <img src="images/fig-10-03.jpg" alt="Fig. 10.1.3: Identification of an epicardial fat pad (arrow) in the anterior atrioventricular groove." class="med-image" loading="lazy" />
+  <img src="images/fig-10-03.jpg" alt="Fig. 10.1.3: Identification of an epicardial fat pad" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 10.1.3: Identification of an epicardial fat pad (arrow) in the anterior atrioventricular groove.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-10-04">
-  <img src="images/fig-10-04.jpg" alt="Fig. 10.1.4: Loculated pericardial hematoma (arrow) causing regional cardiac compression." class="med-image" loading="lazy" />
+  <img src="images/fig-10-04.jpg" alt="Fig. 10.1.4: Loculated pericardial hematoma" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 10.1.4: Loculated pericardial hematoma (arrow) causing regional cardiac compression.</figcaption>
 </figure>
 
@@ -84,12 +84,12 @@ Cardiac tamponade is a hemodynamic diagnosis occurring when intrapericardial pre
    - Dilated IVC ($> 21\text{ mm}$) with complete absence of inspiratory collapse ($< 50\%$), reflecting elevated right atrial pressure $> 15\text{ mmHg}$.
 
 <figure class="med-figure" id="fig-10-05">
-  <img src="images/fig-10-05.jpg" alt="Fig. 10.1.5: Respiratory variation in transvalvular inflow velocities in cardiac tamponade." class="med-image" loading="lazy" />
+  <img src="images/fig-10-05.jpg" alt="Fig. 10.1.5: Respiratory variation in transvalvular inflow velocities in cardiac tamponade" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 10.1.5: Respiratory variation in transvalvular inflow velocities in cardiac tamponade.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-10-06">
-  <img src="images/fig-10-06.jpg" alt="Fig. 10.1.7: Key signs of cardiac tamponade: (A) right atrial systolic collapse; (B) right ventricular diastolic collaps" class="med-image" loading="lazy" />
+  <img src="images/fig-10-06.jpg" alt="Fig. 10.1.7: Key signs of cardiac tamponade" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 10.1.7: Key signs of cardiac tamponade: (A) right atrial systolic collapse; (B) right ventricular diastolic collapse; (C) plethoric, non-collapsible inferior vena cava.</figcaption>
 </figure>
 </div></details>
@@ -115,12 +115,12 @@ Constrictive pericarditis develops when a scarred, fibrosed, inelastic, or calci
    - **Annulus Reversus**: Medial mitral annular $e'$ is higher than lateral annular $e'$ (medial $e' \ge$ lateral $e'$), reversing the normal relationship (lateral normally $>$ medial), caused by rigid lateral pericardial adherence.
 
 <figure class="med-figure" id="fig-10-07">
-  <img src="images/fig-10-07.jpg" alt="Fig. 10.2.1: Respiratory variation of ventricular filling and ventricular interdependence in constrictive pericarditis." class="med-image" loading="lazy" />
+  <img src="images/fig-10-07.jpg" alt="Fig. 10.2.1: Respiratory variation of ventricular filling and ventricular interdependence in constrictive pericarditis" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 10.2.1: Respiratory variation of ventricular filling and ventricular interdependence in constrictive pericarditis.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-10-08">
-  <img src="images/fig-10-08.jpg" alt="Fig. 10.2.2: (A) Septal bounce in apical 4-chamber view; (B) Mitral inflow respiratory variation; (C) Hepatic vein expir" class="med-image" loading="lazy" />
+  <img src="images/fig-10-08.jpg" alt="Fig. 10.2.2: (A) Septal bounce in apical 4-chamber view; (B) Mitral inflow respiratory variation; (C) Hepatic vein expiratory diastolic flow reversal" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 10.2.2: (A) Septal bounce in apical 4-chamber view; (B) Mitral inflow respiratory variation; (C) Hepatic vein expiratory diastolic flow reversal.</figcaption>
 </figure>
 
@@ -139,7 +139,7 @@ Constrictive pericarditis develops when a scarred, fibrosed, inelastic, or calci
 | **Ratio of Mitral $E$ to Color M-mode $v_p$** | $E / v_p < 2.5$ | $E / v_p \ge 2.5$ |
 
 <figure class="med-figure" id="fig-10-09">
-  <img src="images/fig-10-09.jpg" alt="Fig. 10.2.3: Echocardiography during guided pericardiocentesis: (A) pre-puncture large effusion; (B) complete evacuation" class="med-image" loading="lazy" />
+  <img src="images/fig-10-09.jpg" alt="Fig. 10.2.3: Echocardiography during guided pericardiocentesis" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 10.2.3: Echocardiography during guided pericardiocentesis: (A) pre-puncture large effusion; (B) complete evacuation post-procedure.</figcaption>
 </figure>
 </div></details>
@@ -164,7 +164,7 @@ Constrictive pericarditis develops when a scarred, fibrosed, inelastic, or calci
   - Absence of true pulmonary hypertension or intrinsic RV dysfunction.
 
 <figure class="med-figure" id="fig-10-10">
-  <img src="images/fig-10-10.jpg" alt="Fig. 10.4.1: MRI confirmation of congenital absence of the pericardium with extreme cardiac levo-displacement." class="med-image" loading="lazy" />
+  <img src="images/fig-10-10.jpg" alt="Fig. 10.4.1: MRI confirmation of congenital absence of the pericardium with extreme cardiac levo-displacement" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 10.4.1: MRI confirmation of congenital absence of the pericardium with extreme cardiac levo-displacement.</figcaption>
 </figure>
 </div></details>

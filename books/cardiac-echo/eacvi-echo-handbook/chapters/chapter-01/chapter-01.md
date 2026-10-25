@@ -14,7 +14,7 @@
 * **Temporal Resolution (Frame Rate):** Represents scan line density per unit time. High frame rate reduces scan line density (diminishing lateral resolution). Diagnostic 2D imaging requires 30–50 fps; speckle tracking demands 50–90 fps; myocardial tissue Doppler requires > 115 fps.
 
 ### Spectral & Colour Doppler Optimization
-* **Doppler Beam Alignment:** Intercept angle between ultrasound beam and blood flow vector must remain < 20° ($\cos 	heta pprox 1.0$) to avoid velocity underestimation.
+* **Doppler Beam Alignment:** Intercept angle between ultrasound beam and blood flow vector must remain < 20° ($\cos \theta \approx 1.0$) to avoid velocity underestimation.
 * **Pulse Repetition Frequency (PRF) & Velocity Scale:** Scale set too low generates spectral aliasing; scale set too high compromises velocity resolution and dynamic range.
 * **Sample Volume (SV):** In pulsed-wave (PW) Doppler, SV size controls axial sampling length (typically 1–3 mm for blood flow; 5–10 mm for tissue Doppler). For mitral inflow assessment, SV must be placed precisely between the open leaflet tips.
 * **Wall Filter & Sweep Speed:** High-pass filter removes high-amplitude, low-velocity wall clutter; excessive filtering obliterates low-velocity diastolic filling waves. Standard sweep speed is 100 mm/s for cycle analysis, or 25–33 mm/s for assessing respiratory variation in constrictive pericarditis and tamponade.
@@ -48,7 +48,7 @@ A standardized, high-quality transthoracic echocardiography (TTE) examination be
 Modern ultrasound platforms provide pre-programmed software presets configured for specific anatomical targets. Examinations must always begin with the dedicated cardiac preset rather than abdominal or vascular configurations ([Fig. 1.1.1](#fig-01-01)).
 
 <figure class="med-figure" id="fig-01-01">
-  <img src="images/fig-01-01.jpg" alt="Fig. 1.1.1: Echo machine pre-settings. Comparison between cardiac (**A**) and abdominal (**B**) presets. Cardiac presets" class="med-image" loading="lazy" />
+  <img src="images/fig-01-01.jpg" alt="Fig. 1.1.1: Echo machine pre-settings" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.1: Echo machine pre-settings. Comparison between cardiac (**A**) and abdominal (**B**) presets. Cardiac presets utilize higher frame rates, specialized logarithmic compression curves, and dynamic range settings tailored to rapid myocardial motion.</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ Delivering higher acoustic energy to the myocardium produces stronger backscatte
 Acoustic power is expressed in decibels (dB) relative to the maximum permissible energy output of the machine (100% output corresponds to 0 dB; a 50% power reduction corresponds to −6 dB).
 
 <figure class="med-figure" id="fig-01-02">
-  <img src="images/fig-01-02.jpg" alt="Fig. 1.1.2: Acoustic power adjustments. Comparison between low acoustic power (**A**) demonstrating poor signal-to-noise" class="med-image" loading="lazy" />
+  <img src="images/fig-01-02.jpg" alt="Fig. 1.1.2: Acoustic power adjustments" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.2: Acoustic power adjustments. Comparison between low acoustic power (**A**) demonstrating poor signal-to-noise ratio with drop-out, and high acoustic power (**B**) showing enhanced endocardial definition and crisp tissue borders.</figcaption>
 </figure>
 
@@ -84,11 +84,11 @@ Acoustic power is expressed in decibels (dB) relative to the maximum permissible
 Excessive acoustic exposure can induce irreversible biological tissue damage through two distinct physical mechanisms:
 
 1. **Thermal Bio-Effects (Heating):** Ultrasound energy absorption by tissue converts acoustic energy into heat. This is continuously monitored via the **Thermal Index (TI)**:
-   $$	ext{TI} = rac{W_p}{W_{	ext{deg}}}$$
-   Where $W_p$ is acoustic power and $W_{	ext{deg}}$ is the estimated power required to raise tissue temperature by 1°C. For clinical cardiac scanning, **TI must remain strictly below 2.0**.
+   $$\text{TI} = \frac{W_p}{W_{\text{deg}}}$$
+   Where $W_p$ is acoustic power and $W_{\text{deg}}$ is the estimated power required to raise tissue temperature by 1°C. For clinical cardiac scanning, **TI must remain strictly below 2.0**.
 2. **Mechanical Bio-Effects (Cavitation):** The alternating compression and rarefaction phases of ultrasound waves can cause microbubble formation and violent collapse in fluid media, generating extreme local pressures and shear stress. Cavitation potential is monitored via the **Mechanical Index (MI)**:
-   $$	ext{MI} = rac{P_{r,lpha}}{\sqrt{f_c}}$$
-   Where $P_{r,lpha}$ is peak rarefactional pressure (derated for tissue attenuation) and $f_c$ is center transmit frequency. For standard clinical imaging, **MI must remain below 1.9** (and lower during contrast echocardiography).
+   $$\text{MI} = \frac{P_{r,\alpha}}{\sqrt{f_c}}$$
+   Where $P_{r,\alpha}$ is peak rarefactional pressure (derated for tissue attenuation) and $f_c$ is center transmit frequency. For standard clinical imaging, **MI must remain below 1.9** (and lower during contrast echocardiography).
 
 <details class="med-details"><summary>
 
@@ -119,12 +119,12 @@ Master 2D gain controls the electronic amplification applied uniformly across al
 * Consequently, **the signal-to-noise ratio (SNR) remains strictly unchanged** regardless of master gain adjustments ([Fig. 1.1.3](#fig-01-03) and [Fig. 1.1.4](#fig-01-04)).
 
 <figure class="med-figure" id="fig-01-03">
-  <img src="images/fig-01-03.jpg" alt="Fig. 1.1.3: Effect of electronic gain on signal-to-noise ratio (SNR). As reflected ultrasound signal and acquisition noi" class="med-image" loading="lazy" />
+  <img src="images/fig-01-03.jpg" alt="Fig. 1.1.3: Effect of electronic gain on signal-to-noise ratio" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.3: Effect of electronic gain on signal-to-noise ratio (SNR). As reflected ultrasound signal and acquisition noise are amplified equally, the underlying SNR remains completely identical.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-01-04">
-  <img src="images/fig-01-04.jpg" alt="Fig. 1.1.4: Effects of increased master gain on 2D echocardiographic image appearance. Excessive gain leads to blooming " class="med-image" loading="lazy" />
+  <img src="images/fig-01-04.jpg" alt="Fig. 1.1.4: Effects of increased master gain on 2D echocardiographic image appearance" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.4: Effects of increased master gain on 2D echocardiographic image appearance. Excessive gain leads to blooming artifacts and cavity clutter, whereas insufficient gain causes dropped endocardial borders.</figcaption>
 </figure>
 
@@ -143,15 +143,15 @@ Adjust 2D master gain to achieve a balanced, comfortable grayscale appearance wh
 #### Depth Gain Compensation (DGC / TGC)</summary><div class="details-content">
 
 Ultrasound beam energy attenuates exponentially as it traverses soft tissue due to scattering and absorption:
-$$A(z) = A_0 \cdot e^{-lpha \cdot f \cdot z}$$
-Where $lpha$ is tissue attenuation coefficient (~ 0.5–1.0 dB/cm/MHz in myocardium), $f$ is frequency, and $z$ is depth.
+$$A(z) = A_0 \cdot e^{-\alpha \cdot f \cdot z}$$
+Where $\alpha$ is tissue attenuation coefficient (~ 0.5–1.0 dB/cm/MHz in myocardium), $f$ is frequency, and $z$ is depth.
 
 To compensate for progressive attenuation at deeper tissue levels, ultrasound platforms utilize **Depth Gain Compensation (DGC)**, also termed **Time Gain Compensation (TGC)**:
 * **Automatic Compensation:** Internal algorithms automatically increase amplification for deeper reflectors based on anticipated average attenuation.
 * **Manual Sliders:** A vertical bank of sliding potentiometers allows operators to manually fine-tune amplification across segmented depth bands ([Fig. 1.1.5](#fig-01-05)).
 
 <figure class="med-figure" id="fig-01-05">
-  <img src="images/fig-01-05.jpg" alt="Fig. 1.1.5: Manual adjustment of Depth Gain Compensation (DGC) sliders. **A:** Slider pushed excessively to the right, c" class="med-image" loading="lazy" />
+  <img src="images/fig-01-05.jpg" alt="Fig. 1.1.5: Manual adjustment of Depth Gain Compensation" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.5: Manual adjustment of Depth Gain Compensation (DGC) sliders. **A:** Slider pushed excessively to the right, causing intense near-field saturation. **B:** Neutral central slider alignment providing uniform tissue intensity across all depths. **C:** Slider pulled excessively to the left, resulting in severe far-field acoustic drop-out.</figcaption>
 </figure>
 
@@ -182,7 +182,7 @@ Modern broadband cardiac transducers can toggle between multiple transmit freque
 * **Higher Transmit Frequency (e.g., 3.5–5.0 MHz):** Yields shorter wavelengths, delivering superior spatial resolution for fine anatomical details (such as leaflet thickness or vegetative lesions), but suffers rapid attenuation and reduced depth penetration.
 
 <figure class="med-figure" id="fig-01-06">
-  <img src="images/fig-01-06.jpg" alt="Fig. 1.1.6: Effects of altering transmit frequency. Comparison between 2.0 MHz (providing deep penetration in difficult " class="med-image" loading="lazy" />
+  <img src="images/fig-01-06.jpg" alt="Fig. 1.1.6: Effects of altering transmit frequency" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.6: Effects of altering transmit frequency. Comparison between 2.0 MHz (providing deep penetration in difficult acoustic windows) and 3.5 MHz (yielding sharp spatial resolution for superficial and mid-field structures).</figcaption>
 </figure>
 
@@ -199,7 +199,7 @@ Tissue Harmonic Imaging exploits non-linear sound propagation through biological
 * **Resolution Considerations:** While THI improves contrast resolution and lateral definition, receiving at harmonic frequencies may slightly lengthen pulse duration, slightly reducing axial resolution compared to pure high-frequency fundamental imaging.
 
 <figure class="med-figure" id="fig-01-07">
-  <img src="images/fig-01-07.jpg" alt="Fig. 1.1.7: Effects of fundamental versus harmonic imaging. Comparison between harmonic imaging (1.7/3.4 MHz) and fundam" class="med-image" loading="lazy" />
+  <img src="images/fig-01-07.jpg" alt="Fig. 1.1.7: Effects of fundamental versus harmonic imaging" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.7: Effects of fundamental versus harmonic imaging. Comparison between harmonic imaging (1.7/3.4 MHz) and fundamental imaging (3.5 MHz). Harmonic imaging suppresses clutter and enhances endocardial border definition, whereas fundamental imaging is advantageous for delicate valve edge resolution.</figcaption>
 </figure>
 
@@ -232,13 +232,13 @@ The lateral resolution of an ultrasound system—its capacity to distinguish two
 * Beyond the focal zone, the beam diverges exponentially, leading to severe lateral smearing and artifactual thickening of cardiac structures ([Fig. 1.1.9](#fig-01-09)).
 
 <figure class="med-figure" id="fig-01-08">
-  <img src="images/fig-01-08.jpg" alt="Fig. 1.1.8: Position of the focal point. The focal zone indicator (arrowhead) positioned along the lateral sector scale " class="med-image" loading="lazy" />
+  <img src="images/fig-01-08.jpg" alt="Fig. 1.1.8: Position of the focal point" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.8: Position of the focal point. The focal zone indicator (arrowhead) positioned along the lateral sector scale marks the depth of maximum lateral resolution.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-01-09">
-  <img src="images/fig-01-09.jpg" alt="Fig. 1.1.9: Simulated acoustic pressure field of a cardiac transducer across changing focal depths ($F = 50	ext{ mm}$, $" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 1.1.9: Simulated acoustic pressure field of a cardiac transducer across changing focal depths ($F = 50	ext{ mm}$, $F = 90	ext{ mm}$, $F = 130	ext{ mm}$). White horizontal bar denotes focal beam width. Note the dramatic divergence and loss of lateral resolution at depths beyond the focal zone.</figcaption>
+  <img src="images/fig-01-09.jpg" alt="Fig. 1.1.9: Simulated acoustic pressure field of a cardiac transducer across changing focal depths" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 1.1.9: Simulated acoustic pressure field of a cardiac transducer across changing focal depths ($F = 50\text{ mm}$, $F = 90\text{ mm}$, $F = 130\text{ mm}$). White horizontal bar denotes focal beam width. Note the dramatic divergence and loss of lateral resolution at depths beyond the focal zone.</figcaption>
 </figure>
 
 <details class="med-details"><summary>
@@ -263,11 +263,11 @@ Temporal resolution defines the system's ability to resolve rapid intracardiac e
 
 #### The Triangle of Acoustic Trade-Offs</summary><div class="details-content">
 
-Because ultrasound propagates through soft tissue at a constant speed ($c pprox 1540	ext{ m/s}$), the time required to interrogate each scan line is fixed:
-$$T_{	ext{line}} = rac{2 \cdot 	ext{Depth}}{c}$$
+Because ultrasound propagates through soft tissue at a constant speed ($c \approx 1540\text{ m/s}$), the time required to interrogate each scan line is fixed:
+$$T_{\text{line}} = \frac{2 \cdot \text{Depth}}{c}$$
 The maximum achievable frame rate is governed by fundamental physics:
-$$	ext{Frame Rate} \le rac{c}{2 \cdot 	ext{Depth} \cdot N_{	ext{lines}}}$$
-Where $N_{	ext{lines}}$ is the number of acoustic scan lines per frame.
+$$\text{Frame Rate} \le \frac{c}{2 \cdot \text{Depth} \cdot N_{\text{lines}}}$$
+Where $N_{\text{lines}}$ is the number of acoustic scan lines per frame.
 
 To increase frame rate without reducing depth, the system must reduce the number of scan lines, compromising line density and lateral spatial resolution ([Fig. 1.1.10](#fig-01-10)).
 
@@ -275,7 +275,7 @@ To increase frame rate without reducing depth, the system must reduce the number
 * **Scan Depth:** Decreasing depth reduces round-trip transit time, elevating frame rate.
 
 <figure class="med-figure" id="fig-01-10">
-  <img src="images/fig-01-10.jpg" alt="Fig. 1.1.10: Interaction between frame rate and spatial resolution. High scan line density (**A**, 43.3 fps) delivers su" class="med-image" loading="lazy" />
+  <img src="images/fig-01-10.jpg" alt="Fig. 1.1.10: Interaction between frame rate and spatial resolution" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.10: Interaction between frame rate and spatial resolution. High scan line density (**A**, 43.3 fps) delivers superior lateral resolution; reduced line density (**B**, 79.2 fps) improves temporal capture of fast-moving valves but softens fine anatomical details.</figcaption>
 </figure>
 
@@ -296,21 +296,21 @@ Maintain frame rates within standard factory parameters (30–60 fps) for standa
 ## 1.7 Continuous-Wave and Pulsed-Wave Doppler</summary><div class="details-content">
 
 Spectral Doppler interrogation measures the velocity, direction, and timing of blood flow by detecting frequency shifts in reflected ultrasound waves according to the Doppler equation:
-$$\Delta f = rac{2 f_0 \cdot v \cdot \cos 	heta}{c}$$
-Where $v$ is blood velocity and $	heta$ is the intercept angle.
+$$\Delta f = \frac{2 f_0 \cdot v \cdot \cos \theta}{c}$$
+Where $v$ is blood velocity and $\theta$ is the intercept angle.
 
 <details class="med-details"><summary>
 
 #### Intercept Angle and Beam Alignment</summary><div class="details-content">
 
-Measurement accuracy depends directly on $\cos 	heta$.
-* When beam alignment is parallel to flow ($	heta = 0^\circ$), $\cos 	heta = 1.0$, yielding 100% velocity detection.
+Measurement accuracy depends directly on $\cos \theta$.
+* When beam alignment is parallel to flow ($\theta = 0^\circ$), $\cos \theta = 1.0$, yielding 100% velocity detection.
 * An angle of $20^\circ$ produces a minimal ~ 6% underestimation ($\cos 20^\circ = 0.94$).
 * Angles $> 20^\circ$ produce substantial, non-linear underestimation of true peak velocities and transvalvular gradients ([Fig. 1.1.11](#fig-01-11)).
 
 <figure class="med-figure" id="fig-01-11">
-  <img src="images/fig-01-11.jpg" alt="Fig. 1.1.11: Doppler beam alignment. Comparison of adequate alignment ($	heta" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 1.1.11: Doppler beam alignment. Comparison of adequate alignment ($	heta</figcaption>
+  <img src="images/fig-01-11.jpg" alt="Fig. 1.1.11: Doppler beam alignment" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 1.1.11: Doppler beam alignment. Comparison of adequate alignment ($\theta</figcaption>
 </figure>< 20^\circ$) yielding peak velocity and crisp envelope definition versus sub-optimal oblique alignment with pronounced velocity underestimation.
 
 <details class="med-details"><summary>
@@ -328,12 +328,12 @@ Always utilize colour Doppler mapping as a visual guide prior to placing the spe
 #### Velocity Scale, PRF, and Aliasing</summary><div class="details-content">
 
 In Pulsed-Wave (PW) Doppler, pulses are transmitted at the Pulse Repetition Frequency (PRF). The maximum unambiguous Doppler shift that can be resolved without wrap-around distortion is the **Nyquist limit**:
-$$v_{	ext{Nyquist}} = rac{c \cdot 	ext{PRF}}{4 f_0 \cdot \cos 	heta}$$
+$$v_{\text{Nyquist}} = \frac{c \cdot \text{PRF}}{4 f_0 \cdot \cos \theta}$$
 * **Scale Too Low:** Velocities exceeding the Nyquist limit alias, wrapping around the baseline into the opposite spectral display ([Fig. 1.1.12](#fig-01-12)).
 * **Scale Too High:** Compresses the spectral envelope into a narrow band, impairing velocity measurement precision.
 
 <figure class="med-figure" id="fig-01-12">
-  <img src="images/fig-01-12.jpg" alt="Fig. 1.1.12: Doppler velocity scale adjustments. **A:** Adequate velocity scale allowing accurate envelope tracing and t" class="med-image" loading="lazy" />
+  <img src="images/fig-01-12.jpg" alt="Fig. 1.1.12: Doppler velocity scale adjustments" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.12: Doppler velocity scale adjustments. **A:** Adequate velocity scale allowing accurate envelope tracing and timing. **B:** Velocity scale set too low, resulting in severe spectral aliasing.</figcaption>
 </figure>
 
@@ -351,12 +351,12 @@ The pulsed Doppler sample volume (gate) defines the exact spatial coordinate fro
   * **Large sample volume (5–10 mm):** Enhances signal sensitivity and velocity resolution at the expense of spatial localization; routinely employed in tissue Doppler imaging.
 
 <figure class="med-figure" id="fig-01-13">
-  <img src="images/fig-01-13.jpg" alt="Fig. 1.1.13: Sample volume positioning for mitral inflow. **A:** Gate positioned too high in the atrium. **B:** Appropri" class="med-image" loading="lazy" />
+  <img src="images/fig-01-13.jpg" alt="Fig. 1.1.13: Sample volume positioning for mitral inflow" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.13: Sample volume positioning for mitral inflow. **A:** Gate positioned too high in the atrium. **B:** Appropriate gate position at the leaflet tips. **C:** Gate positioned too deep into the LV cavity.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-01-14">
-  <img src="images/fig-01-14.jpg" alt="Fig. 1.1.14: Sample volume axial dimensions. Comparison between large sample volume (**A**, 10.1 mm), standard sample vo" class="med-image" loading="lazy" />
+  <img src="images/fig-01-14.jpg" alt="Fig. 1.1.14: Sample volume axial dimensions" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.14: Sample volume axial dimensions. Comparison between large sample volume (**A**, 10.1 mm), standard sample volume (**B**, 5.1 mm), and small sample volume (**C**, 1.0 mm).</figcaption>
 </figure>
 
@@ -382,12 +382,12 @@ For transmitral flow evaluation, position the sample volume precisely at the tip
   * *Reduced sweep speed (25–33 mm/s):* Displays multiple consecutive cardiac cycles across respiratory phases, essential for evaluating respiratory variation in suspected constrictive pericarditis or cardiac tamponade.
 
 <figure class="med-figure" id="fig-01-15">
-  <img src="images/fig-01-15.jpg" alt="Fig. 1.1.15: Wall filter settings. **A:** Filter set too low; myocardial motion signals pollute the baseline. **B:** App" class="med-image" loading="lazy" />
+  <img src="images/fig-01-15.jpg" alt="Fig. 1.1.15: Wall filter settings" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.15: Wall filter settings. **A:** Filter set too low; myocardial motion signals pollute the baseline. **B:** Appropriate filter setting with clear baseline and preserved envelope. **C:** Filter set too high; low-velocity onset and cessation of flow are artifactually clipped.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-01-16">
-  <img src="images/fig-01-16.jpg" alt="Fig. 1.1.16: Spectral Doppler sweep speed. **A:** Standard sweep speed of 100 mm/s for morphological and quantitative an" class="med-image" loading="lazy" />
+  <img src="images/fig-01-16.jpg" alt="Fig. 1.1.16: Spectral Doppler sweep speed" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.16: Spectral Doppler sweep speed. **A:** Standard sweep speed of 100 mm/s for morphological and quantitative analysis. **B:** Compressed sweep speed of 33 mm/s for assessing respiratory variation across consecutive beats.</figcaption>
 </figure>
 
@@ -428,7 +428,7 @@ Colour encoding follows the standardized BART convention (Blue Away, Red Towards
 * **Colour Scale:** Set between 50 and 70 cm/s for standard valve regurgitation and stenosis evaluation. Lowering scale below 30 cm/s induces low-velocity aliasing, useful only when mapping pulmonary venous flow or low-flow atrial shunts.
 
 <figure class="med-figure" id="fig-01-17">
-  <img src="images/fig-01-17.jpg" alt="Fig. 1.1.17: Colour-flow mapping velocity scale and aliasing. Velocities within the Nyquist limit are encoded as laminar" class="med-image" loading="lazy" />
+  <img src="images/fig-01-17.jpg" alt="Fig. 1.1.17: Colour-flow mapping velocity scale and aliasing" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.17: Colour-flow mapping velocity scale and aliasing. Velocities within the Nyquist limit are encoded as laminar red or blue; velocities exceeding the threshold exhibit colour aliasing (mosaic/green reversal).</figcaption>
 </figure>
 
@@ -470,7 +470,7 @@ Colour Doppler relies on multi-pulse ensembles (packet sizes of 8–16 pulses pe
 * Restricting box width and depth restores high temporal resolution (> 30 fps), preventing missed transient regurgitant jets.
 
 <figure class="med-figure" id="fig-01-18">
-  <img src="images/fig-01-18.jpg" alt="Fig. 1.1.18: Impact of colour box size on temporal resolution. **A:** Small, focused colour box maintaining high frame r" class="med-image" loading="lazy" />
+  <img src="images/fig-01-18.jpg" alt="Fig. 1.1.18: Impact of colour box size on temporal resolution" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.18: Impact of colour box size on temporal resolution. **A:** Small, focused colour box maintaining high frame rate (31.2 fps). **B:** Excessively large colour box causing severe frame rate degradation (12.9 fps).</figcaption>
 </figure>
 
@@ -506,7 +506,7 @@ Essential acquisition steps:
 5. **ECG Gating:** Ensure high-quality ECG recording for reliable measurement of isovolumic contraction (IVCT) and relaxation (IVRT) intervals.
 
 <figure class="med-figure" id="fig-01-19">
-  <img src="images/fig-01-19.jpg" alt="Fig. 1.1.19: Myocardial Velocity Imaging (TDI). Left panel demonstrates Pulsed-Wave TDI displaying systolic ($s$) and d" class="med-image" loading="lazy" />
+  <img src="images/fig-01-19.jpg" alt="Fig. 1.1.19: Myocardial Velocity Imaging" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.19: Myocardial Velocity Imaging (TDI). Left panel demonstrates Pulsed-Wave TDI displaying systolic ($s'$) and diastolic ($e', a'$) annular velocities; right panel shows real-time colour-coded myocardial velocity mapping.</figcaption>
 </figure>
 
@@ -526,7 +526,7 @@ Key technical requirements for robust strain computation:
 5. **ECG Signal:** Clean ECG trace is essential to define end-diastolic reference points and aortic valve closure timing.
 
 <figure class="med-figure" id="fig-01-20">
-  <img src="images/fig-01-20.jpg" alt="Fig. 1.1.20: Two-dimensional speckle tracking echocardiography (STE). Semiautomated tracking of myocardial acoustic spec" class="med-image" loading="lazy" />
+  <img src="images/fig-01-20.jpg" alt="Fig. 1.1.20: Two-dimensional speckle tracking echocardiography" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.20: Two-dimensional speckle tracking echocardiography (STE). Semiautomated tracking of myocardial acoustic speckles across the cardiac cycle, displaying longitudinal strain curves and polar bull's-eye map.</figcaption>
 </figure>
 
@@ -547,7 +547,7 @@ Protocol for successful 3D volumetric acquisition:
 6. **Volumetric Cropping:** Utilize multi-planar reconstruction (MPR) cropping tools to re-slice and visualize en-face anatomical views of valve orifices and congenital defects.
 
 <figure class="med-figure" id="fig-01-21">
-  <img src="images/fig-01-21.jpg" alt="Fig. 1.1.21: Three-dimensional (3D) volumetric echocardiography. Full-volume pyramidal rendering providing comprehensive" class="med-image" loading="lazy" />
+  <img src="images/fig-01-21.jpg" alt="Fig. 1.1.21: Three-dimensional" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 1.1.21: Three-dimensional (3D) volumetric echocardiography. Full-volume pyramidal rendering providing comprehensive en-face visualization of intracardiac anatomy and automated left ventricular volumetric reconstruction.</figcaption>
 </figure>
 

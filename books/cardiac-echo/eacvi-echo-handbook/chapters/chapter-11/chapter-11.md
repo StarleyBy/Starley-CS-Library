@@ -20,7 +20,7 @@ Echocardiography is the cornerstone for non-invasive serial surveillance of hear
 - **Heterotopic Transplantation ("Piggyback")**: The donor heart is placed in the right hemithorax alongside the recipient's native failing heart. Anastomoses between systemic and pulmonary venous and arterial circulations allow blood to transit through either or both hearts simultaneously. Used selectively in severe fixed pulmonary hypertension or major donor-recipient size mismatch.
 
 <figure class="med-figure" id="fig-11-01">
-  <img src="images/fig-11-01.jpg" alt="Fig. 11.1: Schematic representation of surgical heart transplantation modalities: (A) orthotopic biatrial anastomosis; (" class="med-image" loading="lazy" />
+  <img src="images/fig-11-01.jpg" alt="Fig. 11.1: Schematic representation of surgical heart transplantation modalities" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 11.1: Schematic representation of surgical heart transplantation modalities: (A) orthotopic biatrial anastomosis; (B) orthotopic bicaval anastomosis; (C) heterotopic heart transplantation.</figcaption>
 </figure>
 </div></details>
@@ -44,12 +44,12 @@ The denervated, surgically altered allograft exhibits unique physiological chara
 | **Small Pericardial Effusion** | Post-operative serosanguinous fluid | Common up to 6 months; rapid enlargement suggests rejection or infection |
 
 <figure class="med-figure" id="fig-11-02">
-  <img src="images/fig-11-02.jpg" alt="Fig. 11.1.2: Parasternal long-axis view showing typical post-transplant atrial dilatation and prominent hyperechoic sutu" class="med-image" loading="lazy" />
+  <img src="images/fig-11-02.jpg" alt="Fig. 11.1.2: Parasternal long-axis view showing typical post-transplant atrial dilatation and prominent hyperechoic suture line" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 11.1.2: Parasternal long-axis view showing typical post-transplant atrial dilatation and prominent hyperechoic suture line (arrow).</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-11-03">
-  <img src="images/fig-11-03.jpg" alt="Fig. 11.1.1: Real-time 2D echocardiographic guidance of right ventricular endomyocardial biopsy, verifying safe bioptome" class="med-image" loading="lazy" />
+  <img src="images/fig-11-03.jpg" alt="Fig. 11.1.1: Real-time 2D echocardiographic guidance of right ventricular endomyocardial biopsy, verifying safe bioptome contact at the interventricular septum" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 11.1.1: Real-time 2D echocardiographic guidance of right ventricular endomyocardial biopsy, verifying safe bioptome contact at the interventricular septum.</figcaption>
 </figure>
 </div></details>
@@ -72,7 +72,7 @@ Because acute rejection may be clinically silent until catastrophic graft failur
 | **Valvular Regurgitation** | New or worsening significant mitral or tricuspid regurgitation | Acute annular dilation or papillary muscle dysfunction |
 
 <figure class="med-figure" id="fig-11-04">
-  <img src="images/fig-11-04.jpg" alt="Fig. 11.1.3: Marked increase in myocardial echogenicity and septal thickening during an episode of acute allograft rejec" class="med-image" loading="lazy" />
+  <img src="images/fig-11-04.jpg" alt="Fig. 11.1.3: Marked increase in myocardial echogenicity and septal thickening during an episode of acute allograft rejection" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 11.1.3: Marked increase in myocardial echogenicity and septal thickening during an episode of acute allograft rejection.</figcaption>
 </figure>
 

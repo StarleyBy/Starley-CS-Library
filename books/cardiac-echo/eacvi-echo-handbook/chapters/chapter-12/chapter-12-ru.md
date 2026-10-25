@@ -31,7 +31,7 @@
 УЗИ легких превосходит стандартную рентгенографию органов грудной клетки в ОРИТ по чувствительности и специфичности в отношении отека легких, пневмоторакса и плеврального выпота.
 
 <figure class="med-figure" id="fig-12-01">
-  <img src="images/fig-12-01.jpg" alt="Рисунок 12.1.2: B-линии ультразвукового исследования легких («хвосты комет»), указывающие на интерстициальный отек легки" class="med-image" loading="lazy" />
+  <img src="images/fig-12-01.jpg" alt="Рисунок 12.1.2: B-линии ультразвукового исследования легких" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 12.1.2: B-линии ультразвукового исследования легких («хвосты комет»), указывающие на интерстициальный отек легких.</figcaption>
 </figure>
 
@@ -46,32 +46,32 @@
 | **ХОБЛ / Бронхиальная астма** | Паттерн A-линий с сохранным скольжением плевры («сухое легкое») | Хроническое легочное сердце (гипертрофия ПЖ); нормальное давление наполнения ЛЖ |
 
 <figure class="med-figure" id="fig-12-02">
-  <img src="images/fig-12-02.jpg" alt="Рисунок 12.1.3: Ультразвуковая картина ОРДС: мозаичные B-линии с субплевральными микроконсолидациями." class="med-image" loading="lazy" />
+  <img src="images/fig-12-02.jpg" alt="Рисунок 12.1.3: Ультразвуковая картина ОРДС" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 12.1.3: Ультразвуковая картина ОРДС: мозаичные B-линии с субплевральными микроконсолидациями.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-12-03">
-  <img src="images/fig-12-03.jpg" alt="Рисунок 12.1.5: Симптом «точки легкого» (Lung Point): зона перехода нормального скольжения плевры в зону его отсутствия," class="med-image" loading="lazy" />
+  <img src="images/fig-12-03.jpg" alt="Рисунок 12.1.5: Симптом «точки легкого»" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 12.1.5: Симптом «точки легкого» (Lung Point): зона перехода нормального скольжения плевры в зону его отсутствия, патогномоничный для пневмоторакса.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-12-04">
-  <img src="images/fig-12-04.jpg" alt="Рисунок 12.1.4: Алгоритм ультразвукового исключения пневмоторакса." class="med-image" loading="lazy" />
+  <img src="images/fig-12-04.jpg" alt="Рисунок 12.1.4: Алгоритм ультразвукового исключения пневмоторакса" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 12.1.4: Алгоритм ультразвукового исключения пневмоторакса.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-12-05">
-  <img src="images/fig-12-05.jpg" alt="Рисунок 12.1.6: Субплевральная консолидация с неровными контурами." class="med-image" loading="lazy" />
+  <img src="images/fig-12-05.jpg" alt="Рисунок 12.1.6: Субплевральная консолидация с неровными контурами" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 12.1.6: Субплевральная консолидация с неровными контурами.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-12-06">
-  <img src="images/fig-12-06.jpg" alt="Рисунок 12.1.7: Крупный подвижный тромб в полости правого предсердия." class="med-image" loading="lazy" />
+  <img src="images/fig-12-06.jpg" alt="Рисунок 12.1.7: Крупный подвижный тромб в полости правого предсердия" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 12.1.7: Крупный подвижный тромб в полости правого предсердия.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-12-07">
-  <img src="images/fig-12-07.jpg" alt="Рисунок 12.1.8: Клиновидный субплевральный очаг консолидации при инфаркт-пневмонии вследствие ТЭЛА." class="med-image" loading="lazy" />
+  <img src="images/fig-12-07.jpg" alt="Рисунок 12.1.8: Клиновидный субплевральный очаг консолидации при инфаркт-пневмонии вследствие ТЭЛА" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 12.1.8: Клиновидный субплевральный очаг консолидации при инфаркт-пневмонии вследствие ТЭЛА.</figcaption>
 </figure>
 </div></details>
@@ -91,12 +91,12 @@
 | **Дистрибутивный (Септический)** | Гипердинамический миокард (при отсутствии септической кардиомиопатии) | Норма или умеренная дилатация | Вариабельно (часто спавшаяся до инфузии) | Очаговые изменения (пневмония, эмпиема) | Очаг инфекции |
 
 <figure class="med-figure" id="fig-12-08">
-  <img src="images/fig-12-08.jpg" alt="Рисунок 12.1.9: Перикардиальный выпот с коллапсом правого желудочка при обструктивном шоке." class="med-image" loading="lazy" />
+  <img src="images/fig-12-08.jpg" alt="Рисунок 12.1.9: Перикардиальный выпот с коллапсом правого желудочка при обструктивном шоке" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 12.1.9: Перикардиальный выпот с коллапсом правого желудочка при обструктивном шоке.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-12-09">
-  <img src="images/fig-12-09.jpg" alt="Рисунок 12.1.10: М-режим: раннедиастолический коллапс правого желудочка при тампонаде сердца." class="med-image" loading="lazy" />
+  <img src="images/fig-12-09.jpg" alt="Рисунок 12.1.10: М-режим: раннедиастолический коллапс правого желудочка при тампонаде сердца" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 12.1.10: М-режим: раннедиастолический коллапс правого желудочка при тампонаде сердца.</figcaption>
 </figure>
 
@@ -140,12 +140,12 @@
 - **Динамика аортального клапана**: Рекомендуется периодическое открытие клапана (каждые 2–3 сокращения) для предотвращения сращения створок и формирования тромбов в синусах Вальсальвы.
 
 <figure class="med-figure" id="fig-12-10">
-  <img src="images/fig-12-10.jpg" alt="Рисунок 12.1.11: Корректное центрирование приточной канюли LVAD в полости левого желудочка." class="med-image" loading="lazy" />
+  <img src="images/fig-12-10.jpg" alt="Рисунок 12.1.11: Корректное центрирование приточной канюли LVAD в полости левого желудочка" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 12.1.11: Корректное центрирование приточной канюли LVAD в полости левого желудочка.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-12-11">
-  <img src="images/fig-12-11.jpg" alt="Рисунок 12.1.12: Нейтральное положение межжелудочковой перегородки при адекватной работе LVAD." class="med-image" loading="lazy" />
+  <img src="images/fig-12-11.jpg" alt="Рисунок 12.1.12: Нейтральное положение межжелудочковой перегородки при адекватной работе LVAD" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 12.1.12: Нейтральное положение межжелудочковой перегородки при адекватной работе LVAD.</figcaption>
 </figure>
 

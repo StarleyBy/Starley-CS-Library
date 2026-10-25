@@ -53,12 +53,12 @@ Reliable acoustic access requires precise patient positioning matched to specifi
 5. **Right Parasternal Window:** The patient is positioned in the right lateral decubitus position. Utilized predominantly with dedicated continuous-wave Pedoff transducers or small 2D probes in the 2nd or 3rd right intercostal space to record maximum transvalvular aortic stenosis velocities ([Fig. 2.1.2](#fig-02-02)).
 
 <figure class="med-figure" id="fig-02-01">
-  <img src="images/fig-02-01.jpg" alt="Fig. 2.1.1: Standard patient positioning and probe orientations for transthoracic acoustic windows: Left parasternal win" class="med-image" loading="lazy" />
+  <img src="images/fig-02-01.jpg" alt="Fig. 2.1.1: Standard patient positioning and probe orientations for transthoracic acoustic windows" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.1.1: Standard patient positioning and probe orientations for transthoracic acoustic windows: Left parasternal window, Apical window, Subcostal window, and Suprasternal window.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-02">
-  <img src="images/fig-02-02.jpg" alt="Fig. 2.1.2: Right parasternal acoustic approach. Patient positioned in right lateral decubitus to achieve parallel Doppl" class="med-image" loading="lazy" />
+  <img src="images/fig-02-02.jpg" alt="Fig. 2.1.2: Right parasternal acoustic approach" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.1.2: Right parasternal acoustic approach. Patient positioned in right lateral decubitus to achieve parallel Doppler alignment with the ascending aortic flow jet using CW Pedoff probe (**A**) or 2D transducer (**B**).</figcaption>
 </figure>
 
@@ -77,12 +77,12 @@ In the Parasternal Long-Axis View (PTLAX), the transducer index mark points towa
   * *Tricuspid Annular Excursion (TAPSE):* M-mode cursor placed through the lateral tricuspid annulus in apical 4-chamber view yields TAPSE, a fundamental parameter of RV longitudinal systolic performance (normal $\ge 17\text{ mm}$) ([Fig. 2.1.4](#fig-02-04), panel D).
 
 <figure class="med-figure" id="fig-02-03">
-  <img src="images/fig-02-03.jpg" alt="Fig. 2.1.3: Parasternal Long-Axis View (PTLAX). Demonstration of the aortic valve (RCC, NCC), mitral valve, left ventric" class="med-image" loading="lazy" />
+  <img src="images/fig-02-03.jpg" alt="Fig. 2.1.3: Parasternal Long-Axis View" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.1.3: Parasternal Long-Axis View (PTLAX). Demonstration of the aortic valve (RCC, NCC), mitral valve, left ventricular cavity, and left atrium.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-04">
-  <img src="images/fig-02-04.jpg" alt="Fig. 2.1.4: M-mode echocardiographic tracings. **A:** Aortic valve cusp systolic separation box. **B:** Aortic root and " class="med-image" loading="lazy" />
+  <img src="images/fig-02-04.jpg" alt="Fig. 2.1.4: M-mode echocardiographic tracings" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.1.4: M-mode echocardiographic tracings. **A:** Aortic valve cusp systolic separation box. **B:** Aortic root and left atrial dimensions. **C:** Mitral valve leaflet excursion (E and A peaks). **D:** Tricuspid Annular Plane Systolic Excursion (TAPSE).</figcaption>
 </figure>
 
@@ -101,12 +101,12 @@ Rotating the transducer $90^\circ$ clockwise from PTLAX (index marker pointing t
 5. **Right Ventricular Inflow and Outflow Views:** Tilting the probe inferiorly-medially visualizes the RV inflow (anterior and posterior tricuspid leaflets, coronary sinus); tilting superiorly-laterally isolates the RVOT and pulmonary valve ([Fig. 2.1.6](#fig-02-06)).
 
 <figure class="med-figure" id="fig-02-05">
-  <img src="images/fig-02-05.jpg" alt="Fig. 2.1.5: Parasternal Short-Axis Views (PTSAX) across four anatomical levels: Great vessels/aortic valve (**A**), Mitr" class="med-image" loading="lazy" />
+  <img src="images/fig-02-05.jpg" alt="Fig. 2.1.5: Parasternal Short-Axis Views" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.1.5: Parasternal Short-Axis Views (PTSAX) across four anatomical levels: Great vessels/aortic valve (**A**), Mitral valve orifice (**B**), Papillary muscles (**C**), and LV apex (**D**).</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-06">
-  <img src="images/fig-02-06.jpg" alt="Fig. 2.1.6: Right ventricular dedicated parasternal views. **A:** RV outflow tract view with pulmonary valve. **B:** RV " class="med-image" loading="lazy" />
+  <img src="images/fig-02-06.jpg" alt="Fig. 2.1.6: Right ventricular dedicated parasternal views" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.1.6: Right ventricular dedicated parasternal views. **A:** RV outflow tract view with pulmonary valve. **B:** RV inflow view with tricuspid valve leaflets and right atrium.</figcaption>
 </figure>
 
@@ -125,17 +125,17 @@ The apical acoustic window aligns the ultrasound beam parallel to the longitudin
 * **RV-Focused Apical View:** Lateral probe adjustment centering the RV cavity without foreshortening, mandatory for accurate RV basal diameter, fractional area change (FAC), and 3D RV acquisition.
 
 <figure class="med-figure" id="fig-02-07">
-  <img src="images/fig-02-07.jpg" alt="Fig. 2.1.7: Standard apical acoustic window placement and probe manipulation planes." class="med-image" loading="lazy" />
+  <img src="images/fig-02-07.jpg" alt="Fig. 2.1.7: Standard apical acoustic window placement and probe manipulation planes" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.1.7: Standard apical acoustic window placement and probe manipulation planes.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-08">
-  <img src="images/fig-02-08.jpg" alt="Fig. 2.1.8: Apical 4-chamber view (4CV) demonstrating four cardiac chambers and atrioventricular valve coaptation." class="med-image" loading="lazy" />
+  <img src="images/fig-02-08.jpg" alt="Fig. 2.1.8: Apical 4-chamber view" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.1.8: Apical 4-chamber view (4CV) demonstrating four cardiac chambers and atrioventricular valve coaptation.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-09">
-  <img src="images/fig-02-09.jpg" alt="Fig. 2.1.9: Standard apical multi-chamber views: Apical 5-chamber view, Apical 2-chamber view, Apical 3-chamber view, an" class="med-image" loading="lazy" />
+  <img src="images/fig-02-09.jpg" alt="Fig. 2.1.9: Standard apical multi-chamber views" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.1.9: Standard apical multi-chamber views: Apical 5-chamber view, Apical 2-chamber view, Apical 3-chamber view, and RV-focused view.</figcaption>
 </figure>
 
@@ -150,12 +150,12 @@ The apical acoustic window aligns the ultrasound beam parallel to the longitudin
 * **Suprasternal Long-Axis View:** Visualizes the ascending aorta, transverse aortic arch, origin of the three brachiocephalic vessels, and proximal descending aorta ([Fig. 2.1.11](#fig-02-11)). Critical for identifying aortic coarctation, patent ductus arteriosus (PDA), and Stanford type A/B aortic dissections.
 
 <figure class="med-figure" id="fig-02-10">
-  <img src="images/fig-02-10.jpg" alt="Fig. 2.1.10: Subcostal echocardiographic views: Subcostal 4-chamber view, Subcostal short-axis view, and Inferior vena c" class="med-image" loading="lazy" />
+  <img src="images/fig-02-10.jpg" alt="Fig. 2.1.10: Subcostal echocardiographic views" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.1.10: Subcostal echocardiographic views: Subcostal 4-chamber view, Subcostal short-axis view, and Inferior vena cava (IVC) longitudinal diameter and collapsibility view.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-11">
-  <img src="images/fig-02-11.jpg" alt="Fig. 2.1.11: Suprasternal long-axis view showing the aortic arch, brachiocephalic branches, and descending thoracic aort" class="med-image" loading="lazy" />
+  <img src="images/fig-02-11.jpg" alt="Fig. 2.1.11: Suprasternal long-axis view showing the aortic arch, brachiocephalic branches, and descending thoracic aorta" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.1.11: Suprasternal long-axis view showing the aortic arch, brachiocephalic branches, and descending thoracic aorta.</figcaption>
 </figure>
 
@@ -178,22 +178,22 @@ Doppler echocardiography transforms qualitative ultrasound into precise quantita
 * **Colour-Flow Mapping (CFM):** Multigate pulsed Doppler assigning colour-coded velocity scales across 2D images. Detects laminar flow, flow acceleration, and turbulence ([Fig. 2.2.3](#fig-02-14) and [Fig. 2.2.4](#fig-02-15)).
 
 <figure class="med-figure" id="fig-02-12">
-  <img src="images/fig-02-12.jpg" alt="Fig. 2.2.1: Pulsed-Wave (PW) Doppler interrogation of left ventricular inflow and outflow patterns." class="med-image" loading="lazy" />
+  <img src="images/fig-02-12.jpg" alt="Fig. 2.2.1: Pulsed-Wave" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.1: Pulsed-Wave (PW) Doppler interrogation of left ventricular inflow and outflow patterns.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-13">
-  <img src="images/fig-02-13.jpg" alt="Fig. 2.2.2: Continuous-Wave (CW) Doppler cursor placement and recording of high-velocity dynamic gradients in hypertroph" class="med-image" loading="lazy" />
+  <img src="images/fig-02-13.jpg" alt="Fig. 2.2.2: Continuous-Wave" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.2: Continuous-Wave (CW) Doppler cursor placement and recording of high-velocity dynamic gradients in hypertrophic obstructive cardiomyopathy (HOCM).</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-14">
-  <img src="images/fig-02-14.jpg" alt="Fig. 2.2.3: Colour-flow mapping demonstrating turbulent mosaic flow acceleration in the left ventricular outflow tract." class="med-image" loading="lazy" />
+  <img src="images/fig-02-14.jpg" alt="Fig. 2.2.3: Colour-flow mapping demonstrating turbulent mosaic flow acceleration in the left ventricular outflow tract" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.3: Colour-flow mapping demonstrating turbulent mosaic flow acceleration in the left ventricular outflow tract.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-15">
-  <img src="images/fig-02-15.jpg" alt="Fig. 2.2.4: Spectral envelope tracing: dense outer envelope delineation for peak and mean gradient computation." class="med-image" loading="lazy" />
+  <img src="images/fig-02-15.jpg" alt="Fig. 2.2.4: Spectral envelope tracing" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.4: Spectral envelope tracing: dense outer envelope delineation for peak and mean gradient computation.</figcaption>
 </figure>
 
@@ -217,12 +217,12 @@ Valvular stenosis evaluation requires integration of maximum velocity ($v_{\text
    Where PHT is the time (in milliseconds) required for the peak transmitral pressure gradient to decline by 50% ([Fig. 2.2.6](#fig-02-17)).
 
 <figure class="med-figure" id="fig-02-16">
-  <img src="images/fig-02-16.jpg" alt="Fig. 2.2.5: Aortic valve stenosis continuity equation components: LVOT diameter measurement in mid-systole, LVOT PW velo" class="med-image" loading="lazy" />
+  <img src="images/fig-02-16.jpg" alt="Fig. 2.2.5: Aortic valve stenosis continuity equation components" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.5: Aortic valve stenosis continuity equation components: LVOT diameter measurement in mid-systole, LVOT PW velocity-time integral, and aortic CW peak velocity.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-17">
-  <img src="images/fig-02-17.jpg" alt="Fig. 2.2.6: Mitral valve stenosis evaluation: continuous-wave Doppler envelope tracing and Pressure Half-Time (PHT) slop" class="med-image" loading="lazy" />
+  <img src="images/fig-02-17.jpg" alt="Fig. 2.2.6: Mitral valve stenosis evaluation" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.6: Mitral valve stenosis evaluation: continuous-wave Doppler envelope tracing and Pressure Half-Time (PHT) slope measurement.</figcaption>
 </figure>
 
@@ -248,47 +248,47 @@ The EACVI recommends a multiparametric integrative approach to assess regurgitat
    Holodiastolic retrograde flow reversal in the proximal descending thoracic aorta (velocity $> 20\text{ cm/s}$) indicates severe AR ([Fig. 2.2.7](#fig-02-18)). Systolic hepatic vein flow reversal confirms severe tricuspid regurgitation (TR) ([Fig. 2.2.16](#fig-02-27)).
 
 <figure class="med-figure" id="fig-02-18">
-  <img src="images/fig-02-18.jpg" alt="Fig. 2.2.7: Diastolic flow reversal in the descending thoracic aorta recorded by pulsed-wave Doppler indicating signific" class="med-image" loading="lazy" />
+  <img src="images/fig-02-18.jpg" alt="Fig. 2.2.7: Diastolic flow reversal in the descending thoracic aorta recorded by pulsed-wave Doppler indicating significant aortic regurgitation" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.7: Diastolic flow reversal in the descending thoracic aorta recorded by pulsed-wave Doppler indicating significant aortic regurgitation.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-19">
-  <img src="images/fig-02-19.jpg" alt="Fig. 2.2.8: Spectral continuous-wave Doppler envelopes of mitral and tricuspid regurgitation: dense complete envelope ve" class="med-image" loading="lazy" />
+  <img src="images/fig-02-19.jpg" alt="Fig. 2.2.8: Spectral continuous-wave Doppler envelopes of mitral and tricuspid regurgitation" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.8: Spectral continuous-wave Doppler envelopes of mitral and tricuspid regurgitation: dense complete envelope versus incomplete faint tracing.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-20">
-  <img src="images/fig-02-20.jpg" alt="Fig. 2.2.9: Multi-modality differentiation of valvular versus subvalvular aortic obstruction using continuous-wave Doppl" class="med-image" loading="lazy" />
+  <img src="images/fig-02-20.jpg" alt="Fig. 2.2.9: Multi-modality differentiation of valvular versus subvalvular aortic obstruction using continuous-wave Doppler, colour-flow convergence, and pulsed-wave stepping" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.9: Multi-modality differentiation of valvular versus subvalvular aortic obstruction using continuous-wave Doppler, colour-flow convergence, and pulsed-wave stepping.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-21">
-  <img src="images/fig-02-21.jpg" alt="Fig. 2.2.10: Colour Doppler flow convergence and PISA radius measurement for mitral valve area calculation." class="med-image" loading="lazy" />
+  <img src="images/fig-02-21.jpg" alt="Fig. 2.2.10: Colour Doppler flow convergence and PISA radius measurement for mitral valve area calculation" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.10: Colour Doppler flow convergence and PISA radius measurement for mitral valve area calculation.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-22">
-  <img src="images/fig-02-22.jpg" alt="Fig. 2.2.11: Aortic regurgitation colour jet area and jet width percentage relative to left ventricular outflow tract di" class="med-image" loading="lazy" />
+  <img src="images/fig-02-22.jpg" alt="Fig. 2.2.11: Aortic regurgitation colour jet area and jet width percentage relative to left ventricular outflow tract diameter" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.11: Aortic regurgitation colour jet area and jet width percentage relative to left ventricular outflow tract diameter.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-23">
-  <img src="images/fig-02-23.jpg" alt="Fig. 2.2.12: Aortic regurgitation vena contracta measurement in parasternal long-axis view." class="med-image" loading="lazy" />
+  <img src="images/fig-02-23.jpg" alt="Fig. 2.2.12: Aortic regurgitation vena contracta measurement in parasternal long-axis view" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.12: Aortic regurgitation vena contracta measurement in parasternal long-axis view.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-24">
-  <img src="images/fig-02-24.jpg" alt="Fig. 2.2.13: Eccentric wall-hugging mitral regurgitation jet displayed across 3-chamber, 2-chamber, and 4-chamber apical" class="med-image" loading="lazy" />
+  <img src="images/fig-02-24.jpg" alt="Fig. 2.2.13: Eccentric wall-hugging mitral regurgitation jet displayed across 3-chamber, 2-chamber, and 4-chamber apical planes" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.13: Eccentric wall-hugging mitral regurgitation jet displayed across 3-chamber, 2-chamber, and 4-chamber apical planes.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-25">
-  <img src="images/fig-02-25.jpg" alt="Fig. 2.2.14: Tricuspid regurgitation vena contracta measurement and timing." class="med-image" loading="lazy" />
+  <img src="images/fig-02-25.jpg" alt="Fig. 2.2.14: Tricuspid regurgitation vena contracta measurement and timing" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.14: Tricuspid regurgitation vena contracta measurement and timing.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-26">
-  <img src="images/fig-02-26.jpg" alt="Fig. 2.2.15: Tricuspid regurgitation PISA method and colour M-mode timing." class="med-image" loading="lazy" />
+  <img src="images/fig-02-26.jpg" alt="Fig. 2.2.15: Tricuspid regurgitation PISA method and colour M-mode timing" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.15: Tricuspid regurgitation PISA method and colour M-mode timing.</figcaption>
 </figure>
 
@@ -318,22 +318,22 @@ Standard quantitative formulas allow complete non-invasive catheterization:
    Normal contractility is $> 1200\text{ mmHg/s}$; values $< 800\text{ mmHg/s}$ denote severe systolic failure ([Fig. 2.2.18](#fig-02-29)).
 
 <figure class="med-figure" id="fig-02-27">
-  <img src="images/fig-02-27.jpg" alt="Fig. 2.2.16: Non-invasive shunt calculation ($Q_p / Q_s$) and systemic venous Doppler profiles (hepatic veins and superi" class="med-image" loading="lazy" />
+  <img src="images/fig-02-27.jpg" alt="Fig. 2.2.16: Non-invasive shunt calculation" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.16: Non-invasive shunt calculation ($Q_p / Q_s$) and systemic venous Doppler profiles (hepatic veins and superior vena cava).</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-28">
-  <img src="images/fig-02-28.jpg" alt="Fig. 2.2.17: Right ventricular and pulmonary artery systolic and diastolic pressure estimation via TR and PR Doppler vel" class="med-image" loading="lazy" />
+  <img src="images/fig-02-28.jpg" alt="Fig. 2.2.17: Right ventricular and pulmonary artery systolic and diastolic pressure estimation via TR and PR Doppler velocity spectra" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.17: Right ventricular and pulmonary artery systolic and diastolic pressure estimation via TR and PR Doppler velocity spectra.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-29">
-  <img src="images/fig-02-29.jpg" alt="Fig. 2.2.18: Left ventricular $dP/dt$ estimation derived from the ascending slope of the mitral regurgitant CW Doppler p" class="med-image" loading="lazy" />
+  <img src="images/fig-02-29.jpg" alt="Fig. 2.2.18: Left ventricular dP/dt estimation derived from the ascending slope of the mitral regurgitant CW Doppler profile" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.18: Left ventricular $dP/dt$ estimation derived from the ascending slope of the mitral regurgitant CW Doppler profile.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-30">
-  <img src="images/fig-02-30.jpg" alt="Fig. 2.2.19: Transthoracic interrogation of coronary artery blood flow: Left Anterior Descending (LAD) and Posterior Des" class="med-image" loading="lazy" />
+  <img src="images/fig-02-30.jpg" alt="Fig. 2.2.19: Transthoracic interrogation of coronary artery blood flow" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.2.19: Transthoracic interrogation of coronary artery blood flow: Left Anterior Descending (LAD) and Posterior Descending Artery (PDA) velocity spectra.</figcaption>
 </figure>
 
@@ -438,12 +438,12 @@ Tissue Doppler Imaging filters out weak, high-velocity blood signals, preserving
   * $E/e'_{\text{average}} > 14$: Elevated LV filling pressure ($> 15\text{ mmHg}$).
 
 <figure class="med-figure" id="fig-02-31">
-  <img src="images/fig-02-31.jpg" alt="Fig. 2.3.1: Physical principles of functional echocardiography: displacement, velocity, strain, and strain rate relation" class="med-image" loading="lazy" />
+  <img src="images/fig-02-31.jpg" alt="Fig. 2.3.1: Physical principles of functional echocardiography" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.3.1: Physical principles of functional echocardiography: displacement, velocity, strain, and strain rate relationships.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-32">
-  <img src="images/fig-02-32.jpg" alt="Fig. 2.3.2: Spectral and colour Tissue Doppler Imaging (TDI) principles and high-pass wall filter differentiation." class="med-image" loading="lazy" />
+  <img src="images/fig-02-32.jpg" alt="Fig. 2.3.2: Spectral and colour Tissue Doppler Imaging" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.3.2: Spectral and colour Tissue Doppler Imaging (TDI) principles and high-pass wall filter differentiation.</figcaption>
 </figure>
 
@@ -465,17 +465,17 @@ Speckle tracking tracks unique acoustic interference patterns (speckles) frame-b
 * **Post-Systolic Shortening (PSS):** Continued myocardial contraction occurring after aortic valve closure denotes active ischemia, scar tissue, or mechanical dyssynchrony ([Fig. 2.3.6](#fig-02-36)).
 
 <figure class="med-figure" id="fig-02-34">
-  <img src="images/fig-02-34.jpg" alt="Fig. 2.3.4: Two-dimensional speckle tracking: automated acoustic feature tracking and verification of region of interest" class="med-image" loading="lazy" />
+  <img src="images/fig-02-34.jpg" alt="Fig. 2.3.4: Two-dimensional speckle tracking" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.3.4: Two-dimensional speckle tracking: automated acoustic feature tracking and verification of region of interest border alignment.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-35">
-  <img src="images/fig-02-35.jpg" alt="Fig. 2.3.5: Rotational mechanics and deformation: basal and apical rotation, net LV twist, and Global Longitudinal Strai" class="med-image" loading="lazy" />
+  <img src="images/fig-02-35.jpg" alt="Fig. 2.3.5: Rotational mechanics and deformation" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.3.5: Rotational mechanics and deformation: basal and apical rotation, net LV twist, and Global Longitudinal Strain (GLS) polar map.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-36">
-  <img src="images/fig-02-36.jpg" alt="Fig. 2.3.6: Mechanical event timing and deformation abnormalities: peak systolic strain versus post-systolic shortening " class="med-image" loading="lazy" />
+  <img src="images/fig-02-36.jpg" alt="Fig. 2.3.6: Mechanical event timing and deformation abnormalities" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.3.6: Mechanical event timing and deformation abnormalities: peak systolic strain versus post-systolic shortening (PSS) in ischemic myocardium.</figcaption>
 </figure>
 
@@ -566,17 +566,17 @@ Three-dimensional (3D) echocardiography utilizes fully sampled 2D matrix-array t
 * **Multi-Planar Reconstruction (MPR):** Displays three simultaneous, mutually orthogonal planes ($x, y, z$) extracted from the 3D volume, allowing infinite virtual re-slicing without patient rescanning ([Fig. 2.4.2](#fig-02-38) and [Fig. 2.4.3](#fig-02-39)).
 
 <figure class="med-figure" id="fig-02-37">
-  <img src="images/fig-02-37.jpg" alt="Fig. 2.4.1: Artifacts in 3D echocardiography: Stitching artifact from respiratory motion or ectopic beats, and acoustic " class="med-image" loading="lazy" />
+  <img src="images/fig-02-37.jpg" alt="Fig. 2.4.1: Artifacts in 3D echocardiography" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.4.1: Artifacts in 3D echocardiography: Stitching artifact from respiratory motion or ectopic beats, and acoustic drop-out artifact caused by sub-optimal gain.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-38">
-  <img src="images/fig-02-38.jpg" alt="Fig. 2.4.2: 3D volumetric rendering: full-volume en-face display of the mitral valve apparatus and dynamic right ventric" class="med-image" loading="lazy" />
+  <img src="images/fig-02-38.jpg" alt="Fig. 2.4.2: 3D volumetric rendering" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.4.2: 3D volumetric rendering: full-volume en-face display of the mitral valve apparatus and dynamic right ventricular systolic morphology.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-39">
-  <img src="images/fig-02-39.jpg" alt="Fig. 2.4.3: Multi-slice display and tri-plane imaging derived simultaneously from a single 3D acquisition dataset." class="med-image" loading="lazy" />
+  <img src="images/fig-02-39.jpg" alt="Fig. 2.4.3: Multi-slice display and tri-plane imaging derived simultaneously from a single 3D acquisition dataset" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.4.3: Multi-slice display and tri-plane imaging derived simultaneously from a single 3D acquisition dataset.</figcaption>
 </figure>
 
@@ -596,7 +596,7 @@ Three-dimensional (3D) echocardiography utilizes fully sampled 2D matrix-array t
 * **3D Planimetry:** Directly measures asymmetric anatomical orifice areas (mitral valve area in mitral stenosis, $VCA$ in eccentric regurgitant jets) without geometric distortion.
 
 <figure class="med-figure" id="fig-02-40">
-  <img src="images/fig-02-40.jpg" alt="Fig. 2.4.4: Quantitative 3D chamber assessment: automated left and right ventricular volume-time curves, ejection fracti" class="med-image" loading="lazy" />
+  <img src="images/fig-02-40.jpg" alt="Fig. 2.4.4: Quantitative 3D chamber assessment" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.4.4: Quantitative 3D chamber assessment: automated left and right ventricular volume-time curves, ejection fraction, and 3D-guided planimetry of the LVOT and mitral orifice.</figcaption>
 </figure>
 
@@ -634,7 +634,7 @@ Ultrasound contrast agents (UCAs) consist of encapsulated gas microbubbles ($1\t
   * *Low MI ($0.1\text{–}0.2$):* Sustains continuous microbubble resonance without destruction, producing crisp cavity opacification and suppressing tissue backscatter ([Fig. 2.5.1](#fig-02-41)).
 
 <figure class="med-figure" id="fig-02-41">
-  <img src="images/fig-02-41.jpg" alt="Fig. 2.5.1: Left ventricular contrast opacification (LVO) during end-diastole and end-systole, delivering precise defini" class="med-image" loading="lazy" />
+  <img src="images/fig-02-41.jpg" alt="Fig. 2.5.1: Left ventricular contrast opacification" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.5.1: Left ventricular contrast opacification (LVO) during end-diastole and end-systole, delivering precise definition of endocardial borders and apical trabeculations.</figcaption>
 </figure>
 
@@ -679,12 +679,12 @@ Ultrasound contrast agents (UCAs) consist of encapsulated gas microbubbles ($1\t
   3. *Tissue Blooming:* Oversaturated gain creates blooming that obscures true cavity dimensions; resolved by reducing 2D overall gain.
 
 <figure class="med-figure" id="fig-02-42">
-  <img src="images/fig-02-42.jpg" alt="Fig. 2.5.2: Intravenous contrast injection system utilizing a 20-gauge peripheral cannula and three-way stopcock." class="med-image" loading="lazy" />
+  <img src="images/fig-02-42.jpg" alt="Fig. 2.5.2: Intravenous contrast injection system utilizing a 20-gauge peripheral cannula and three-way stopcock" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.5.2: Intravenous contrast injection system utilizing a 20-gauge peripheral cannula and three-way stopcock.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-02-43">
-  <img src="images/fig-02-43.jpg" alt="Fig. 2.5.3: Typical contrast artifacts: near-field acoustic shadowing, apical swirling destruction from elevated MI, and" class="med-image" loading="lazy" />
+  <img src="images/fig-02-43.jpg" alt="Fig. 2.5.3: Typical contrast artifacts" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 2.5.3: Typical contrast artifacts: near-field acoustic shadowing, apical swirling destruction from elevated MI, and far-field drop-out.</figcaption>
 </figure>
 

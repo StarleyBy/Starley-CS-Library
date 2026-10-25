@@ -22,88 +22,88 @@
     "chapters": [
       {
         "file": "chapter-01.md",
-        "title": "⚙️ <span class=\"luminous-cyan\">1. Examination & Echo Machine Setup</span>",
-        "russian": "⚙️ <span class=\"luminous-cyan\">1. Настройка аппарата и проведение исследования</span>"
+        "title": "1. Examination & <span class=\"luminous-cyan\">Echo Machine Setup</span> ⚙️",
+        "russian": "1. <span class=\"luminous-cyan\">Настройка аппарата</span> и проведение исследования ⚙️"
       },
       {
         "file": "chapter-02.md",
-        "title": "🔊 <span class=\"luminous-blue\">2. Standard Transthoracic Examination</span> (<span class=\"luminous-purple\">TTE</span>)",
-        "russian": "🔊 <span class=\"luminous-blue\">2. Стандартное трансторакальное исследование</span> (<span class=\"luminous-purple\">ТТЭхоКГ</span>)"
+        "title": "2. Standard Transthoracic Examination (<span class=\"luminous-blue\">TTE</span>) 🔊",
+        "russian": "2. Стандартное трансторакальное исследование (<span class=\"luminous-blue\">ТТЭхоКГ</span>) 🔊"
       },
       {
         "file": "chapter-03.md",
-        "title": "🔍 <span class=\"luminous-purple\">3. Standard Transoesophageal Examination</span> (<span class=\"luminous-purple\">TOE</span>)",
-        "russian": "🔍 <span class=\"luminous-purple\">3. Стандартное чреспищеводное исследование</span> (<span class=\"luminous-purple\">ЧПЭхоКГ</span>)"
+        "title": "3. Standard Transoesophageal Examination (<span class=\"luminous-purple\">TOE</span>) 🔍",
+        "russian": "3. Стандартное чреспищеводное исследование (<span class=\"luminous-purple\">ЧПЭхоКГ</span>) 🔍"
       },
       {
         "file": "chapter-04.md",
-        "title": "💓 <span class=\"luminous-green\">4. Left Ventricular Systolic Function</span>",
-        "russian": "💓 <span class=\"luminous-green\">4. Систолическая функция левого желудочка</span>"
+        "title": "4. Left Ventricular <span class=\"luminous-green\">Systolic Function</span> 💓",
+        "russian": "4. <span class=\"luminous-green\">Систолическая функция</span> левого желудочка 💓"
       },
       {
         "file": "chapter-05.md",
-        "title": "🌊 <span class=\"luminous-amber\">5. Diastolic Function Assessment</span>",
-        "russian": "🌊 <span class=\"luminous-amber\">5. Оценка диастолической функции</span>"
+        "title": "5. <span class=\"luminous-amber\">Diastolic Function</span> Assessment 🌊",
+        "russian": "5. Оценка <span class=\"luminous-amber\">диастолической функции</span> 🌊"
       },
       {
         "file": "chapter-06.md",
-        "title": "🩸 <span class=\"luminous-red\">6. Ischaemic Cardiac Disease</span> (<span class=\"luminous-red\">ICD</span> & <span class=\"luminous-red\">AMI</span>)",
-        "russian": "🩸 <span class=\"luminous-red\">6. Ишемическая болезнь сердца</span> (<span class=\"luminous-red\">ИБС</span> и <span class=\"luminous-red\">ОИМ</span>)"
+        "title": "6. Ischaemic Cardiac Disease (<span class=\"luminous-red\">ICD & AMI</span>) 🩸",
+        "russian": "6. Ишемическая болезнь сердца (<span class=\"luminous-red\">ИБС и ОИМ</span>) 🩸"
       },
       {
         "file": "chapter-07.md",
-        "title": "🫀 <span class=\"luminous-purple\">7. Heart Valve Disease & Prostheses</span>",
-        "russian": "🫀 <span class=\"luminous-purple\">7. Клапанные пороки сердца и протезы</span>"
+        "title": "7. <span class=\"luminous-purple\">Heart Valve Disease</span> & Prostheses 🫀",
+        "russian": "7. <span class=\"luminous-purple\">Клапанные пороки</span> сердца и протезы 🫀"
       },
       {
         "file": "chapter-08.md",
-        "title": "🧩 <span class=\"luminous-amber\">8. Cardiomyopathies</span> (<span class=\"luminous-cyan\">HCM, DCM, ARVC, LVNC</span>)",
-        "russian": "🧩 <span class=\"luminous-amber\">8. Кардиомиопатии</span> (<span class=\"luminous-cyan\">ГКМП, ДКМП, АРВК, НКЛЖ</span>)"
+        "title": "8. Cardiomyopathies (<span class=\"luminous-cyan\">HCM, DCM, ARVC, LVNC</span>) 🧩",
+        "russian": "8. Кардиомиопатии (<span class=\"luminous-cyan\">ГКМП, ДКМП, АРВК, НКЛЖ</span>) 🧩"
       },
       {
         "file": "chapter-09.md",
-        "title": "🫁 <span class=\"luminous-blue\">9. Right Heart Function & Pulmonary Pressures</span>",
-        "russian": "🫁 <span class=\"luminous-blue\">9. Функция правого сердца и давление в легочной артерии</span>"
+        "title": "9. Right Heart Function & <span class=\"luminous-blue\">Pulmonary Pressures</span> 🫁",
+        "russian": "9. Функция правого сердца и <span class=\"luminous-blue\">давление в легочной артерии</span> 🫁"
       },
       {
         "file": "chapter-10.md",
-        "title": "🛡️ <span class=\"luminous-green\">10. Pericardial Disease</span> (<span class=\"luminous-green\">Effusion & Constriction</span>)",
-        "russian": "🛡️ <span class=\"luminous-green\">10. Заболевания перикарда</span> (<span class=\"luminous-green\">Выпот и констрикция</span>)"
+        "title": "10. Pericardial Disease (<span class=\"luminous-green\">Effusion & Constriction</span>) 🛡️",
+        "russian": "10. Заболевания перикарда (<span class=\"luminous-green\">выпот и констрикция</span>) 🛡️"
       },
       {
         "file": "chapter-11.md",
-        "title": "🔀 <span class=\"luminous-purple\">11. Cardiac Transplants</span>",
-        "russian": "🔀 <span class=\"luminous-purple\">11. Трансплантация сердца</span>"
+        "title": "11. <span class=\"luminous-purple\">Cardiac Transplants</span> 🔀",
+        "russian": "11. <span class=\"luminous-purple\">Трансплантация сердца</span> 🔀"
       },
       {
         "file": "chapter-12.md",
-        "title": "🚨 <span class=\"luminous-red\">12. Critically Ill Patients</span> (<span class=\"luminous-red\">ICU Echo</span>)",
-        "russian": "🚨 <span class=\"luminous-red\">12. Пациенты в критических состояниях</span> (<span class=\"luminous-red\">ЭхоКГ в ОРИТ</span>)"
+        "title": "12. Critically Ill Patients (<span class=\"luminous-red\">ICU Echo</span>) 🚨",
+        "russian": "12. Пациенты в критических состояниях (<span class=\"luminous-red\">ЭхоКГ в ОРИТ</span>) 🚨"
       },
       {
         "file": "chapter-13.md",
-        "title": "🌱 <span class=\"luminous-cyan\">13. Adult Congenital Heart Disease</span> (<span class=\"luminous-cyan\">ACHD</span>)",
-        "russian": "🌱 <span class=\"luminous-cyan\">13. Врожденные пороки сердца у взрослых</span> (<span class=\"luminous-cyan\">ВПС</span>)"
+        "title": "13. Adult Congenital Heart Disease (<span class=\"luminous-cyan\">ACHD</span>) 🌱",
+        "russian": "13. Врожденные пороки сердца у взрослых (<span class=\"luminous-cyan\">ВПС</span>) 🌱"
       },
       {
         "file": "chapter-14.md",
-        "title": "🎯 <span class=\"luminous-amber\">14. Cardiac Sources of Embolism & Masses</span>",
-        "russian": "🎯 <span class=\"luminous-amber\">14. Источники эмболии и объемные образования сердца</span>"
+        "title": "14. Cardiac Sources of <span class=\"luminous-amber\">Embolism & Masses</span> 🎯",
+        "russian": "14. Источники <span class=\"luminous-amber\">эмболии и объемные образования</span> сердца 🎯"
       },
       {
         "file": "chapter-15.md",
-        "title": "🏹 <span class=\"luminous-red\">15. Diseases of the Aorta</span> (<span class=\"luminous-red\">AAS & Aneurysms</span>)",
-        "russian": "🏹 <span class=\"luminous-red\">15. Заболевания аорты</span> (<span class=\"luminous-red\">ОАС и аневризмы</span>)"
+        "title": "15. Diseases of the Aorta (<span class=\"luminous-red\">AAS & Aneurysms</span>) 🏹",
+        "russian": "15. Заболевания аорты (<span class=\"luminous-red\">ОАС и аневризмы</span>) 🏹"
       },
       {
         "file": "chapter-16.md",
-        "title": "🏃 <span class=\"luminous-green\">16. Stress Echocardiography</span>",
-        "russian": "🏃 <span class=\"luminous-green\">16. Стресс-эхокардиография</span>"
+        "title": "16. <span class=\"luminous-green\">Stress Echocardiography</span> 🏃",
+        "russian": "16. <span class=\"luminous-green\">Стресс-эхокардиография</span> 🏃"
       },
       {
         "file": "chapter-17.md",
-        "title": "🌐 <span class=\"luminous-cyan\">17. Systemic Disease, Athlete's Heart & Pregnancy</span>",
-        "russian": "🌐 <span class=\"luminous-cyan\">17. Системные заболевания, сердце спортсмена и беременность</span>"
+        "title": "17. Systemic Disease, <span class=\"luminous-cyan\">Athlete's Heart</span> & Pregnancy 🌐",
+        "russian": "17. Системные заболевания, <span class=\"luminous-cyan\">сердце спортсмена</span> и беременность 🌐"
       }
     ]
   }

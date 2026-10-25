@@ -27,8 +27,7 @@ Evaluation of the aorta is an integral, mandatory component of every comprehensi
 7. **Abdominal Aorta (Segment Va)**: Infra-diaphragmatic segment extending to the iliac bifurcation.
 
 <figure class="med-figure" id="fig-15-10">
-  <img src="images/fig-15-10.jpg" alt="Schematic representation of thoracic aorta segmentation" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 15.2.1: Schematic representation of the thoracic aorta illustrating its anatomical segmentation (Segments I through Va) and upper limits of normal dimensions.</figcaption>
+  <img src="images/fig-15-10.jpg" alt="Fig. 15.2.1: Schematic representation of the thoracic aorta illustrating its anatomical segmentation" class="med-image" loading="lazy" />Fig. 15.2.1: Schematic representation of the thoracic aorta illustrating its anatomical segmentation (Segments I through Va) and upper limits of normal dimensions.</figcaption>
 </figure>
 
 ### Standard Echocardiographic Views for Aorta
@@ -45,8 +44,7 @@ Evaluation of the aorta is an integral, mandatory component of every comprehensi
   - Descending aortic views ($0^\circ$ cross-section and $90^\circ$ longitudinal): Consecutive sweep from diaphragmatic hiatus up to the aortic isthmus.
 
 <figure class="med-figure" id="fig-15-03">
-  <img src="images/fig-15-03.jpg" alt="TTE approach for evaluation of aorta" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 15.1.3: Systematic TTE approach for evaluation of the aorta: parasternal, apical, suprasternal, and subcostal acoustic windows.</figcaption>
+  <img src="images/fig-15-03.jpg" alt="Fig. 15.1.3: Systematic TTE approach for evaluation of the aorta" class="med-image" loading="lazy" />Fig. 15.1.3: Systematic TTE approach for evaluation of the aorta: parasternal, apical, suprasternal, and subcostal acoustic windows.</figcaption>
 </figure>
 
 </div>
@@ -64,8 +62,7 @@ Acute Aortic Syndromes (AAS) represent a spectrum of interrelated, life-threaten
 3. **Penetrating Aortic Ulcer (PAU)**: Ulceration of an atherosclerotic plaque that burrows through the internal elastic lamina into the aortic media, potentially triggering local intramural haematoma, pseudoaneurysm, or transmural rupture.
 
 <figure class="med-figure" id="fig-15-01">
-  <img src="images/fig-15-01.jpg" alt="AAS entities: AD, IMH, PAU by TOE" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 15.1.1: Transoesophageal echocardiographic features of the three main AAS entities: Classical Aortic Dissection (AD), Intramural Haematoma (IMH), and Penetrating Aortic Ulcer (PAU).</figcaption>
+  <img src="images/fig-15-01.jpg" alt="Fig. 15.1.1: Transoesophageal echocardiographic features of the three main AAS entities" class="med-image" loading="lazy" />Fig. 15.1.1: Transoesophageal echocardiographic features of the three main AAS entities: Classical Aortic Dissection (AD), Intramural Haematoma (IMH), and Penetrating Aortic Ulcer (PAU).</figcaption>
 </figure>
 
 ### Classification Systems (Stanford & DeBakey)
@@ -79,8 +76,7 @@ Acute Aortic Syndromes (AAS) represent a spectrum of interrelated, life-threaten
 | **DeBakey Type III** | No ($30\%$) | Type IIIa (confined above diaphragm), Type IIIb (extends below diaphragm) | Medical management (beta-blockers, BP control) or TEVAR |
 
 <figure class="med-figure" id="fig-15-02">
-  <img src="images/fig-15-02.jpg" alt="Aortic dissection classification systems" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 15.1.2: Stanford (Types A and B) and DeBakey (Types I, II, and III) classification systems of thoracic aortic dissection.</figcaption>
+  <img src="images/fig-15-02.jpg" alt="Fig. 15.1.2: Stanford (Types A and B) and DeBakey (Types I, II, and III) classification systems of thoracic aortic dissection" class="med-image" loading="lazy" />Fig. 15.1.2: Stanford (Types A and B) and DeBakey (Types I, II, and III) classification systems of thoracic aortic dissection.</figcaption>
 </figure>
 
 ### Time Course from Onset of Symptoms
@@ -105,13 +101,11 @@ Acute Aortic Syndromes (AAS) represent a spectrum of interrelated, life-threaten
 Definitive diagnosis of aortic dissection by echocardiography requires visualization of an **intimal flap** that undulates independently of the aortic wall and divides the aorta into two flow lumina.
 
 <figure class="med-figure" id="fig-15-04">
-  <img src="images/fig-15-04.jpg" alt="TTE visualization of intimal flap" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 15.1.4: TTE visualization of intimal flap. A: Parasternal long-axis view showing the intimal flap (arrow) undulating in the ascending aorta. B: Suprasternal notch view demonstrating flap propagation across the aortic arch.</figcaption>
+  <img src="images/fig-15-04.jpg" alt="Fig. 15.1.4: TTE visualization of intimal flap" class="med-image" loading="lazy" />Fig. 15.1.4: TTE visualization of intimal flap. A: Parasternal long-axis view showing the intimal flap (arrow) undulating in the ascending aorta. B: Suprasternal notch view demonstrating flap propagation across the aortic arch.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-15-05">
-  <img src="images/fig-15-05.jpg" alt="TOE illustration of dissection flap" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 15.1.5: Transoesophageal echocardiographic (TOE) high-resolution demonstration of the dissection flap (arrow) dividing the aortic root and tubular ascending aorta into true and false lumina.</figcaption>
+  <img src="images/fig-15-05.jpg" alt="Fig. 15.1.5: Transoesophageal echocardiographic" class="med-image" loading="lazy" />Fig. 15.1.5: Transoesophageal echocardiographic (TOE) high-resolution demonstration of the dissection flap (arrow) dividing the aortic root and tubular ascending aorta into true and false lumina.</figcaption>
 </figure>
 
 ### Differentiation Between True and False Lumina
@@ -142,8 +136,7 @@ Definitive diagnosis of aortic dissection by echocardiography requires visualiza
 Echocardiography must immediately detect secondary complications that determine immediate surgical urgency and mortality risk:
 
 <figure class="med-figure" id="fig-15-06">
-  <img src="images/fig-15-06.jpg" alt="AD complications diagnosed by TTE" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 15.1.6: Major complications of Acute Type A Aortic Dissection diagnosed by TTE: A: Apical 5-chamber view with colour Doppler demonstrating severe acute aortic regurgitation. B: Parasternal long-axis view showing hemopericardium and cardiac tamponade. C: Right ventricular / inferior wall motion abnormalities due to right coronary artery (RCA) dissection.</figcaption>
+  <img src="images/fig-15-06.jpg" alt="Fig. 15.1.6: Major complications of Acute Type A Aortic Dissection diagnosed by TTE" class="med-image" loading="lazy" />Fig. 15.1.6: Major complications of Acute Type A Aortic Dissection diagnosed by TTE: A: Apical 5-chamber view with colour Doppler demonstrating severe acute aortic regurgitation. B: Parasternal long-axis view showing hemopericardium and cardiac tamponade. C: Right ventricular / inferior wall motion abnormalities due to right coronary artery (RCA) dissection.</figcaption>
 </figure>
 
 ### Mechanisms of Acute Aortic Regurgitation (AR) in Type A AD
@@ -169,8 +162,7 @@ Acute AR occurs in up to $50\%$ of Type A dissections via one of three distinct 
 Selection of the primary imaging modality depends on patient hemodynamic stability, local equipment availability, and immediate surgical logistics:
 
 <figure class="med-figure" id="fig-15-07">
-  <img src="images/fig-15-07.jpg" alt="Diagnostic algorithm for acute aortic syndrome" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 15.1.7: Proposed algorithm for the diagnostic work-up of suspected Acute Aortic Syndrome (AAS) in hemodynamically stable vs. unstable patients.</figcaption>
+  <img src="images/fig-15-07.jpg" alt="Fig. 15.1.7: Proposed algorithm for the diagnostic work-up of suspected Acute Aortic Syndrome" class="med-image" loading="lazy" />Fig. 15.1.7: Proposed algorithm for the diagnostic work-up of suspected Acute Aortic Syndrome (AAS) in hemodynamically stable vs. unstable patients.</figcaption>
 </figure>
 
 ### Clinical Workflow Principles
@@ -205,8 +197,7 @@ Selection of the primary imaging modality depends on patient hemodynamic stabili
 - **Management**: Type A IMH requires urgent surgical intervention; Type B IMH is initially managed medically with intensive blood pressure lowering, with TEVAR indicated for high-risk signs (maximum aortic diameter $> 50$ mm, hematoma thickness $> 10$ mm, focal intimal disruption).
 
 <figure class="med-figure" id="fig-15-08">
-  <img src="images/fig-15-08.jpg" alt="TOE illustration of intramural haematoma" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 15.1.8: Transoesophageal echocardiogram showing characteristic crescentic aortic wall thickening (> 5 mm) of an acute Intramural Haematoma (arrow) without internal flow or intimal flap.</figcaption>
+  <img src="images/fig-15-08.jpg" alt="Fig. 15.1.8: Transoesophageal echocardiogram showing characteristic crescentic aortic wall thickening" class="med-image" loading="lazy" />Fig. 15.1.8: Transoesophageal echocardiogram showing characteristic crescentic aortic wall thickening (> 5 mm) of an acute Intramural Haematoma (arrow) without internal flow or intimal flap.</figcaption>
 </figure>
 
 ### Penetrating Aortic Ulcer (PAU)
@@ -223,8 +214,7 @@ Lifelong imaging surveillance is mandatory following surgical or endovascular re
 - Graft infection or endoleak (Types I to IV after TEVAR).
 
 <figure class="med-figure" id="fig-15-09">
-  <img src="images/fig-15-09.jpg" alt="Pseudoaneurysm at suture site" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 15.1.9: Large anastomotic pseudoaneurysm formation at the proximal suture site visualized following ascending aorta synthetic graft replacement.</figcaption>
+  <img src="images/fig-15-09.jpg" alt="Fig. 15.1.9: Large anastomotic pseudoaneurysm formation at the proximal suture site visualized following ascending aorta synthetic graft replacement" class="med-image" loading="lazy" />Fig. 15.1.9: Large anastomotic pseudoaneurysm formation at the proximal suture site visualized following ascending aorta synthetic graft replacement.</figcaption>
 </figure>
 
 </div>
@@ -256,8 +246,7 @@ An aortic aneurysm is defined as a permanent localized dilatation of the artery 
 | **Descending Thoracic Aorta** | $< 36$ mm | — | $< 36$ mm | — |
 
 <figure class="med-figure" id="fig-15-11">
-  <img src="images/fig-15-11.jpg" alt="TOE long-axis view of aortic root aneurysm" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 15.2.2: Echocardiographic evaluation of thoracic aortic aneurysms: A: TOE long-axis view ($120^\circ$) demonstrating severe ascending aortic aneurysm associated with a bicuspid aortic valve. B: TTE parasternal long-axis view showing severe annuloaortic ectasia in Marfan syndrome. C: Subcostal view of a large abdominal aortic aneurysm with mural thrombus.</figcaption>
+  <img src="images/fig-15-11.jpg" alt="Fig. 15.2.2: Echocardiographic evaluation of thoracic aortic aneurysms" class="med-image" loading="lazy" />Fig. 15.2.2: Echocardiographic evaluation of thoracic aortic aneurysms: A: TOE long-axis view ($120^\circ$) demonstrating severe ascending aortic aneurysm associated with a bicuspid aortic valve. B: TTE parasternal long-axis view showing severe annuloaortic ectasia in Marfan syndrome. C: Subcostal view of a large abdominal aortic aneurysm with mural thrombus.</figcaption>
 </figure>
 
 ### Surgical Timing Thresholds for Thoracic Aortic Aneurysms
@@ -299,8 +288,7 @@ Atherosclerotic disease of the thoracic aorta is an established, independent ris
 | **Grade V** | Complex (Mobile / Ulcerated) | Any atheroma containing mobile, pedunculated components (thrombus/fibrin strand oscillating in bloodstream) or ulcerated plaque regardless of absolute thickness. Carries the highest embolic stroke hazard. |
 
 <figure class="med-figure" id="fig-15-12">
-  <img src="images/fig-15-12.jpg" alt="Aortic atheroma grading by TOE" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 15.4.1: Transoesophageal echocardiographic grading of thoracic aortic atherosclerosis: A: Mild intimal thickening (Grade II). B: Moderate sessile atheroma &lt; 4 mm (Grade III). C: Severe atheroma &ge; 4 mm without mobile elements (Grade IV). D: Complex severe atheroma with mobile pedunculated components (Grade V, arrows).</figcaption>
+  <img src="images/fig-15-12.jpg" alt="Fig. 15.4.1: Transoesophageal echocardiographic grading of thoracic aortic atherosclerosis" class="med-image" loading="lazy" />Fig. 15.4.1: Transoesophageal echocardiographic grading of thoracic aortic atherosclerosis: A: Mild intimal thickening (Grade II). B: Moderate sessile atheroma &lt; 4 mm (Grade III). C: Severe atheroma &ge; 4 mm without mobile elements (Grade IV). D: Complex severe atheroma with mobile pedunculated components (Grade V, arrows).</figcaption>
 </figure>
 
 </div>
@@ -314,8 +302,7 @@ Atherosclerotic disease of the thoracic aorta is an established, independent ris
 Aneurysms of the sinus of Valsalva (SVA) are rare anatomical abnormalities characterized by congenital or acquired weakness in the aortic media between the aortic valve annulus and the sinotubular junction.
 
 <figure class="med-figure" id="fig-15-13">
-  <img src="images/fig-15-13.jpg" alt="Sinus of Valsalva aneurysm and rupture" class="med-image" loading="lazy" /
-  <figcaption class="med-caption">Fig. 15.5.1: Echocardiographic evaluation of Sinus of Valsalva Aneurysm (SVA): A: Short-axis view demonstrating saccular aneurysmal dilation of the right coronary sinus. B: Colour Doppler demonstrating perforation and high-velocity left-to-right shunt rupture into the right ventricular outflow tract (RVOT).</figcaption>
+  <img src="images/fig-15-13.jpg" alt="Fig. 15.5.1: Echocardiographic evaluation of Sinus of Valsalva Aneurysm" class="med-image" loading="lazy" />Fig. 15.5.1: Echocardiographic evaluation of Sinus of Valsalva Aneurysm (SVA): A: Short-axis view demonstrating saccular aneurysmal dilation of the right coronary sinus. B: Colour Doppler demonstrating perforation and high-velocity left-to-right shunt rupture into the right ventricular outflow tract (RVOT).</figcaption>
 </figure>
 
 ### Etiology & Distribution

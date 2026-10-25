@@ -34,7 +34,7 @@
 - **Субкостальный доступ**: Оптимален для измерения истинной толщины свободной стенки ПЖ и диаметра НПВ.
 
 <figure class="med-figure" id="fig-09-01">
-  <img src="images/fig-09-01.jpg" alt="Рисунок 9.1.1: Трансторакальные сечения для оценки правого сердца: стандартная 4-камерная, модифицированная и специализи" class="med-image" loading="lazy" />
+  <img src="images/fig-09-01.jpg" alt="Рисунок 9.1.1: Трансторакальные сечения для оценки правого сердца" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 9.1.1: Трансторакальные сечения для оценки правого сердца: стандартная 4-камерная, модифицированная и специализированная позиция, сфокусированная на ПЖ.</figcaption>
 </figure>
 
@@ -45,7 +45,7 @@
 - **Толщина свободной стенки ПЖ**: Измеряется в диастолу из субкостального доступа без трабекул и эпикардиального жира (норма $\le 5\text{ мм}$; $> 5\text{ мм}$ — гипертрофия ПЖ).
 
 <figure class="med-figure" id="fig-09-04">
-  <img src="images/fig-09-04.jpg" alt="Рисунок 9.1.3: Измерение линейных размеров правого желудочка в апикальной позиции." class="med-image" loading="lazy" />
+  <img src="images/fig-09-04.jpg" alt="Рисунок 9.1.3: Измерение линейных размеров правого желудочка в апикальной позиции" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 9.1.3: Измерение линейных размеров правого желудочка в апикальной позиции.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@
 - **Норма $\ge 17\text{ мм}$** ($< 17\text{ мм}$ указывает на систолическую дисфункцию ПЖ).
 
 <figure class="med-figure" id="fig-09-08">
-  <img src="images/fig-09-08.jpg" alt="Рисунок 9.1.10: Измерение TAPSE в М-модальном режиме." class="med-image" loading="lazy" />
+  <img src="images/fig-09-08.jpg" alt="Рисунок 9.1.10: Измерение TAPSE в М-модальном режиме" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 9.1.10: Измерение TAPSE в М-модальном режиме.</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@
 - **Норма $s' \ge 9{,}5\text{ см/с}$**.
 
 <figure class="med-figure" id="fig-09-09">
-  <img src="images/fig-09-09.jpg" alt="Рисунок 9.1.11: Тканевой допплеровский спектр систолической скорости трикуспидального кольца ($s$)." class="med-image" loading="lazy" />
+  <img src="images/fig-09-09.jpg" alt="Рисунок 9.1.11: Тканевой допплеровский спектр систолической скорости трикуспидального кольца" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 9.1.11: Тканевой допплеровский спектр систолической скорости трикуспидального кольца ($s'$).</figcaption>
 </figure>
 
@@ -75,7 +75,7 @@ $$\text{RV FAC} = \frac{\text{КДП} - \text{КСП}}{\text{КДП}} \times 100
 - **Норма $\ge 35\%$**.
 
 <figure class="med-figure" id="fig-09-11">
-  <img src="images/fig-09-11.jpg" alt="Рисунок 9.1.13: Трассировка конечно-диастолической и конечно-систолической площадей ПЖ для расчета FAC." class="med-image" loading="lazy" />
+  <img src="images/fig-09-11.jpg" alt="Рисунок 9.1.13: Трассировка конечно-диастолической и конечно-систолической площадей ПЖ для расчета FAC" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 9.1.13: Трассировка конечно-диастолической и конечно-систолической площадей ПЖ для расчета FAC.</figcaption>
 </figure>
 
@@ -84,7 +84,7 @@ $$\text{MPI} = \frac{\text{IVCT} + \text{IVRT}}{\text{ET}} = \frac{\text{TCO} - 
 - Норма по импульсному допплеру $< 0{,}43$; по тканевому допплеру $< 0{,}54$.
 
 <figure class="med-figure" id="fig-09-13">
-  <img src="images/fig-09-13.jpg" alt="Рисунок 9.1.15: CW-допплер трикуспидальной регургитации и PW-допплер в ВТПЖ для расчета индекса Tei (MPI)." class="med-image" loading="lazy" />
+  <img src="images/fig-09-13.jpg" alt="Рисунок 9.1.15: CW-допплер трикуспидальной регургитации и PW-допплер в ВТПЖ для расчета индекса Tei" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 9.1.15: CW-допплер трикуспидальной регургитации и PW-допплер в ВТПЖ для расчета индекса Tei (MPI).</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ $$\text{MPI} = \frac{\text{IVCT} + \text{IVRT}}{\text{ET}} = \frac{\text{TCO} - 
 - **Норма $\le -20\%$**.
 
 <figure class="med-figure" id="fig-09-10">
-  <img src="images/fig-09-10.jpg" alt="Рисунок 9.1.12: Оценка деформации свободной стенки правого желудочка методом speckle-tracking." class="med-image" loading="lazy" />
+  <img src="images/fig-09-10.jpg" alt="Рисунок 9.1.12: Оценка деформации свободной стенки правого желудочка методом speckle-tracking" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 9.1.12: Оценка деформации свободной стенки правого желудочка методом speckle-tracking.</figcaption>
 </figure>
 
@@ -101,7 +101,7 @@ $$\text{MPI} = \frac{\text{IVCT} + \text{IVRT}}{\text{ET}} = \frac{\text{TCO} - 
 - **Норма $\ge 45\%$**.
 
 <figure class="med-figure" id="fig-09-12">
-  <img src="images/fig-09-12.jpg" alt="Рисунок 9.1.14: 3D-моделирование объемов и фракции выброса правого желудочка." class="med-image" loading="lazy" />
+  <img src="images/fig-09-12.jpg" alt="Рисунок 9.1.14: 3D-моделирование объемов и фракции выброса правого желудочка" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 9.1.14: 3D-моделирование объемов и фракции выброса правого желудочка.</figcaption>
 </figure>
 </div></details>
@@ -117,12 +117,12 @@ $$\text{EI} = \frac{D_2}{D_1}$$
   - При перегрузке объемом: $\text{EI}_{\text{диастола}} > 1{,}0$, а $\text{EI}_{\text{систола}} \approx 1{,}0$.
 
 <figure class="med-figure" id="fig-09-20">
-  <img src="images/fig-09-20.jpg" alt="Рисунок 9.2.1: Дефект межпредсердной перегородки (ДМПП) со сбросом слева направо, вызвавший объемную перегрузку ПЖ." class="med-image" loading="lazy" />
+  <img src="images/fig-09-20.jpg" alt="Рисунок 9.2.1: Дефект межпредсердной перегородки" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 9.2.1: Дефект межпредсердной перегородки (ДМПП) со сбросом слева направо, вызвавший объемную перегрузку ПЖ.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-09-21">
-  <img src="images/fig-09-21.jpg" alt="Рисунок 9.2.2: Индекс эксцентричности: D-образная деформация ЛЖ в диастолу при объемной перегрузке ПЖ." class="med-image" loading="lazy" />
+  <img src="images/fig-09-21.jpg" alt="Рисунок 9.2.2: Индекс эксцентричности" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 9.2.2: Индекс эксцентричности: D-образная деформация ЛЖ в диастолу при объемной перегрузке ПЖ.</figcaption>
 </figure>
 </div></details>
@@ -142,7 +142,7 @@ $$\text{EI} = \frac{D_2}{D_1}$$
 $$\text{СДЛА} = 4 \times v_{\text{TR}}^2 + \text{ДПП}$$
 
 <figure class="med-figure" id="fig-09-22">
-  <img src="images/fig-09-22.jpg" alt="Рисунок 9.3.1: Определение максимальной скорости трикуспидальной регургитации для расчета СДЛА." class="med-image" loading="lazy" />
+  <img src="images/fig-09-22.jpg" alt="Рисунок 9.3.1: Определение максимальной скорости трикуспидальной регургитации для расчета СДЛА" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 9.3.1: Определение максимальной скорости трикуспидальной регургитации для расчета СДЛА.</figcaption>
 </figure>
 
@@ -162,7 +162,7 @@ $$\text{срДЛА} = 4 \times v_{\text{early PR}}^2 + \text{ДПП}$$
 $$\text{дДЛА} = 4 \times v_{\text{end-PR}}^2 + \text{ДПП}$$
 
 <figure class="med-figure" id="fig-09-23">
-  <img src="images/fig-09-23.jpg" alt="Рисунок 9.3.2: Измерение ранней и конечной диастолических скоростей легочной регургитации." class="med-image" loading="lazy" />
+  <img src="images/fig-09-23.jpg" alt="Рисунок 9.3.2: Измерение ранней и конечной диастолических скоростей легочной регургитации" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 9.3.2: Измерение ранней и конечной диастолических скоростей легочной регургитации.</figcaption>
 </figure>
 
@@ -171,7 +171,7 @@ $$\text{дДЛА} = 4 \times v_{\text{end-PR}}^2 + \text{ДПП}$$
 - $\text{AcT} < 100\text{ мс}$ указывает на легочную гипертензию; среднесистолическое прикрытие (notch, симптом "flying W") указывает на высокое сосудистое сопротивление.
 
 <figure class="med-figure" id="fig-09-24">
-  <img src="images/fig-09-24.jpg" alt="Рисунок 9.3.3: Укорочение времени ускорения в легочной артерии со среднесистолическим западением." class="med-image" loading="lazy" />
+  <img src="images/fig-09-24.jpg" alt="Рисунок 9.3.3: Укорочение времени ускорения в легочной артерии со среднесистолическим западением" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 9.3.3: Укорочение времени ускорения в легочной артерии со среднесистолическим западением.</figcaption>
 </figure>
 

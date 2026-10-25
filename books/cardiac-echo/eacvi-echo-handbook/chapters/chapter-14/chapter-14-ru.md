@@ -32,7 +32,7 @@
 ### Этиологическая классификация и оценка эмбологенного риска
 
 <figure class="med-figure" id="fig-14-01">
-  <img src="images/fig-14-01.jpg" alt="Рисунок 14.1: Основные причины и локализация кардиогенных источников эмболии." class="med-image" loading="lazy" />
+  <img src="images/fig-14-01.jpg" alt="Рисунок 14.1: Основные причины и локализация кардиогенных источников эмболии" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.1: Основные причины и локализация кардиогенных источников эмболии.</figcaption>
 </figure>
 
@@ -46,22 +46,22 @@
   - **Дисфункция УЛП**: Пиковая скорость $< 20\text{--}25\text{ см/с}$ свидетельствует о выраженном стазе и высоком риске тромбоза.
 
 <figure class="med-figure" id="fig-14-02">
-  <img src="images/fig-14-02.jpg" alt="Рисунок 14.1.1: ЧПЭ: интактное ушко левого предсердия без тромботических масс перед кардиоверсией." class="med-image" loading="lazy" />
+  <img src="images/fig-14-02.jpg" alt="Рисунок 14.1.1: ЧПЭ: интактное ушко левого предсердия без тромботических масс перед кардиоверсией" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.1.1: ЧПЭ: интактное ушко левого предсердия без тромботических масс перед кардиоверсией.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-03">
-  <img src="images/fig-14-03.jpg" alt="Рисунок 14.1.2: ЧПЭ: крупный тромб в области верхушки ушка левого предсердия." class="med-image" loading="lazy" />
+  <img src="images/fig-14-03.jpg" alt="Рисунок 14.1.2: ЧПЭ: крупный тромб в области верхушки ушка левого предсердия" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.1.2: ЧПЭ: крупный тромб в области верхушки ушка левого предсердия.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-04">
-  <img src="images/fig-14-04.jpg" alt="Рисунок 14.1.3: Плотный спонтанный эхоконтраст (СЭК) и феномен «сладжа» в ушке левого предсердия." class="med-image" loading="lazy" />
+  <img src="images/fig-14-04.jpg" alt="Рисунок 14.1.3: Плотный спонтанный эхоконтраст" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.1.3: Плотный спонтанный эхоконтраст (СЭК) и феномен «сладжа» в ушке левого предсердия.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-05">
-  <img src="images/fig-14-05.jpg" alt="Рисунок 14.1.4: Снижение пиковой скорости опорожнения УЛП при PW-допплерографии ($< 20\text{ см/с}$)." class="med-image" loading="lazy" />
+  <img src="images/fig-14-05.jpg" alt="Рисунок 14.1.4: Снижение пиковой скорости опорожнения УЛП при PW-допплерографии" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.1.4: Снижение пиковой скорости опорожнения УЛП при PW-допплерографии ($< 20\text{ см/с}$).</figcaption>
 </figure>
 
@@ -91,27 +91,27 @@
 | **Метастазы в сердце** | В 20–40 раз чаще первичных | Перикард, миокард, правое предсердие | Множественные узлы, выпот в перикарде, опухолевый тромб в НПВ (почечно-клеточный рак) |
 
 <figure class="med-figure" id="fig-14-08">
-  <img src="images/fig-14-08.jpg" alt="Рисунок 14.2.2: Структура доброкачественных опухолей сердца." class="med-image" loading="lazy" />
+  <img src="images/fig-14-08.jpg" alt="Рисунок 14.2.2: Структура доброкачественных опухолей сердца" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.2.2: Структура доброкачественных опухолей сердца.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-09">
-  <img src="images/fig-14-09.jpg" alt="Рисунок 14.2.3: Крупная подвижная миксома левого предсердия на ножке, пролабирующая в диастолу через митральный клапан." class="med-image" loading="lazy" />
+  <img src="images/fig-14-09.jpg" alt="Рисунок 14.2.3: Крупная подвижная миксома левого предсердия на ножке, пролабирующая в диастолу через митральный клапан" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.2.3: Крупная подвижная миксома левого предсердия на ножке, пролабирующая в диастолу через митральный клапан.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-10">
-  <img src="images/fig-14-10.jpg" alt="Рисунок 14.2.4: Мелкая папиллярная фиброэластома на створке аортального клапана." class="med-image" loading="lazy" />
+  <img src="images/fig-14-10.jpg" alt="Рисунок 14.2.4: Мелкая папиллярная фиброэластома на створке аортального клапана" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.2.4: Мелкая папиллярная фиброэластома на створке аортального клапана.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-11">
-  <img src="images/fig-14-11.jpg" alt="Рисунок 14.2.5: Крупная инкапсулированная липома левого предсердия." class="med-image" loading="lazy" />
+  <img src="images/fig-14-11.jpg" alt="Рисунок 14.2.5: Крупная инкапсулированная липома левого предсердия" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.2.5: Крупная инкапсулированная липома левого предсердия.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-14">
-  <img src="images/fig-14-14.jpg" alt="Рисунок 14.2.8: Первичная лимфома сердца с вовлечением правого желудочка до и после химиотерапии." class="med-image" loading="lazy" />
+  <img src="images/fig-14-14.jpg" alt="Рисунок 14.2.8: Первичная лимфома сердца с вовлечением правого желудочка до и после химиотерапии" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.2.8: Первичная лимфома сердца с вовлечением правого желудочка до и после химиотерапии.</figcaption>
 </figure>
 </div></details>
@@ -124,22 +124,22 @@
 - **Эмболы в транзите (thrombi in transit)**: Длинные змеевидные подвижные тромбы, мигрирующие из вен нижних конечностей и временно задерживающиеся в полостях правого сердца.
 
 <figure class="med-figure" id="fig-14-15">
-  <img src="images/fig-14-15.jpg" alt="Рисунок 14.2.10: Тромбы в полостях правого сердца." class="med-image" loading="lazy" />
+  <img src="images/fig-14-15.jpg" alt="Рисунок 14.2.10: Тромбы в полостях правого сердца" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.2.10: Тромбы в полостях правого сердца.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-16">
-  <img src="images/fig-14-16.jpg" alt="Рисунок 14.2.11: Подвижный тромб в транзите через правые отделы сердца." class="med-image" loading="lazy" />
+  <img src="images/fig-14-16.jpg" alt="Рисунок 14.2.11: Подвижный тромб в транзите через правые отделы сердца" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.2.11: Подвижный тромб в транзите через правые отделы сердца.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-17">
-  <img src="images/fig-14-17.jpg" alt="Рисунок 14.2.12: Пристеночный плоский тромб против протрудирующего верхушечного тромба." class="med-image" loading="lazy" />
+  <img src="images/fig-14-17.jpg" alt="Рисунок 14.2.12: Пристеночный плоский тромб против протрудирующего верхушечного тромба" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.2.12: Пристеночный плоский тромб против протрудирующего верхушечного тромба.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-21">
-  <img src="images/fig-14-21.jpg" alt="Рисунок 14.2.17: Тромбоз вокруг центрального венозного катетера с фибриновым чехлом." class="med-image" loading="lazy" />
+  <img src="images/fig-14-21.jpg" alt="Рисунок 14.2.17: Тромбоз вокруг центрального венозного катетера с фибриновым чехлом" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.2.17: Тромбоз вокруг центрального венозного катетера с фибриновым чехлом.</figcaption>
 </figure>
 
@@ -156,22 +156,22 @@
 | **Грыжа пищеводного отверстия** | Позади левого предсердия | Внесердечное сдавление задней стенки ЛП; меняет конфигурацию при глотании газированной воды |
 
 <figure class="med-figure" id="fig-14-22">
-  <img src="images/fig-14-22.jpg" alt="Рисунок 14.2.18: Крупная грыжа пищеводного отверстия диафрагмы, сдавливающая левое предсердие сзади." class="med-image" loading="lazy" />
+  <img src="images/fig-14-22.jpg" alt="Рисунок 14.2.18: Крупная грыжа пищеводного отверстия диафрагмы, сдавливающая левое предсердие сзади" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.2.18: Крупная грыжа пищеводного отверстия диафрагмы, сдавливающая левое предсердие сзади.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-26">
-  <img src="images/fig-14-26.jpg" alt="Рисунок 14.2.22: Выраженная евстахиева заслонка в правом предсердии." class="med-image" loading="lazy" />
+  <img src="images/fig-14-26.jpg" alt="Рисунок 14.2.22: Выраженная евстахиева заслонка в правом предсердии" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.2.22: Выраженная евстахиева заслонка в правом предсердии.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-27">
-  <img src="images/fig-14-27.jpg" alt="Рисунок 14.2.23: Сеть Киари с тонкими колеблющимися нитями в полости правого предсердия." class="med-image" loading="lazy" />
+  <img src="images/fig-14-27.jpg" alt="Рисунок 14.2.23: Сеть Киари с тонкими колеблющимися нитями в полости правого предсердия" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.2.23: Сеть Киари с тонкими колеблющимися нитями в полости правого предсердия.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-14-28">
-  <img src="images/fig-14-28.jpg" alt="Рисунок 14.2.24: Гребень Кумадина (валик Маршалла), разделяющий левую верхнюю легочную вену и ушко ЛП." class="med-image" loading="lazy" />
+  <img src="images/fig-14-28.jpg" alt="Рисунок 14.2.24: Гребень Кумадина" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Рисунок 14.2.24: Гребень Кумадина (валик Маршалла), разделяющий левую верхнюю легочную вену и ушко ЛП.</figcaption>
 </figure>
 </div></details>

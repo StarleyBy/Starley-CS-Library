@@ -45,8 +45,8 @@ Aortic valve stenosis is the most prevalent primary valve disease in Europe and 
 | **Congenital Unicuspid / Quadricuspid** | Infancy / Childhood | Severe early obstruction (unicuspid) or associated regurgitation. |
 
 <figure class="med-figure" id="fig-07-01">
-  <img src="images/fig-07-01.jpg" alt="Fig. 7.1.1: Aortic stenosis etiology on 2D echocardiography: calcific tricuspid aortic valve, congenital bicuspid valve," class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.1.1: Aortic stenosis etiology on 2D echocardiography: calcific tricuspid aortic valve, congenital bicuspid valve, and rheumatic aortic stenosis.</figcaption>
+  <img src="images/fig-07-01.jpg" alt="Fig. 7.1.1: Aortic stenosis aetiology on 2D and 3D echocardiography" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.1.1: Aortic stenosis aetiology on 2D (top) and 3D (bottom) echocardiography: calcific tricuspid aortic valve (A), congenital bicuspid valve (B), and rheumatic aortic stenosis with commissural fusion (C).</figcaption>
 </figure>
 
 ### Hemodynamic Quantification
@@ -58,8 +58,8 @@ $$\text{CSA}_{\text{LVOT}} \times \text{TVI}_{\text{LVOT}} = \text{AVA} \times \
 $$\text{AVA} = \frac{\text{CSA}_{\text{LVOT}} \times \text{TVI}_{\text{LVOT}}}{\text{TVI}_{\text{AV}}} = \frac{\pi \times \left(\frac{D_{\text{LVOT}}}{2}\right)^2 \times \text{TVI}_{\text{LVOT}}}{\text{TVI}_{\text{AV}}} = \frac{0.785 \times D_{\text{LVOT}}^2 \times \text{TVI}_{\text{LVOT}}}{\text{TVI}_{\text{AV}}}$$
 
 <figure class="med-figure" id="fig-07-02">
-  <img src="images/fig-07-02.jpg" alt="Fig. 7.1.2: Schematic representation of the continuity equation for aortic valve area (AVA) calculation." class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.1.2: Schematic representation of the continuity equation for aortic valve area (AVA) calculation.</figcaption>
+  <img src="images/fig-07-02.jpg" alt="Fig. 7.1.2: Schematic representation of the continuity equation for aortic valve area calculation" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.1.2: Schematic representation of the continuity equation for aortic valve area (AVA) calculation: $\text{AVA} = \frac{\text{CSA}_{\text{LVOT}} \times \text{TVI}_{\text{LVOT}}}{\text{TVI}_{\text{AV}}}$.</figcaption>
 </figure>
 
 #### Technical Rules for Accurate Measurements:
@@ -74,13 +74,13 @@ $$\text{AVA} = \frac{\text{CSA}_{\text{LVOT}} \times \text{TVI}_{\text{LVOT}}}{\
    - The window yielding the highest peak velocity and dense envelope must be reported.
 
 <figure class="med-figure" id="fig-07-03">
-  <img src="images/fig-07-03.jpg" alt="Fig. 7.1.4: Measurement of LVOT diameter in parasternal long-axis view in mid-systole." class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.1.4: Measurement of LVOT diameter in parasternal long-axis view in mid-systole.</figcaption>
+  <img src="images/fig-07-03.jpg" alt="Fig. 7.1.4: Measurement of LVOT diameter in parasternal long-axis view in mid-systole" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.1.4: Measurement of LVOT diameter in parasternal long-axis view in mid-systole at the aortic annulus insertion level (green arrow denotes avoiding off-axis oblique measurement).</figcaption>
 </figure>
 
-<figure class="med-figure" id="fig-07-07">
-  <img src="images/fig-07-07.jpg" alt="Fig. 7.1.7: (A) Apical 5-chamber view PW Doppler recording of LVOT velocity with clean closing click; (B) CW Doppler int" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.1.7: (A) Apical 5-chamber view PW Doppler recording of LVOT velocity with clean closing click; (B) CW Doppler interrogation of high-velocity transaortic jet.</figcaption>
+<figure class="med-figure" id="fig-07-04">
+  <img src="images/fig-07-04.jpg" alt="Fig. 7.1.7: PW and CW Doppler interrogation of aortic stenosis" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.1.7: PW and CW Doppler interrogation of aortic stenosis: (A) Apical 5-chamber view PW Doppler velocity recording in the LVOT showing clean closing click; (B) Continuous-wave (CW) interrogation demonstrating high-velocity transaortic jet.</figcaption>
 </figure>
 
 #### 2. Doppler Velocity Index (DVI) / Dimensionless Index
@@ -106,9 +106,9 @@ $$\Delta P = 4 \times v^2$$
 | **Indexed AVA ($\text{AVA}_i$, $\text{cm}^2/\text{m}^2$)** | — | $> 0.85$ | $0.60\text{--}0.85$ | $< 0.60$ |
 | **Velocity Ratio (DVI)** | $> 0.50$ | $> 0.50$ | $0.25\text{--}0.50$ | $< 0.25$ |
 
-<figure class="med-figure" id="fig-07-14">
-  <img src="images/fig-07-14.jpg" alt="Fig. 7.1.16: Continuous-wave (CW) Doppler spectrum across stenotic aortic valve demonstrating a dense, symmetric envelop" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.1.16: Continuous-wave (CW) Doppler spectrum across stenotic aortic valve demonstrating a dense, symmetric envelope with $v_{\max} > 4.5\text{ m/s}$ and mean gradient $> 50\text{ mmHg}$.</figcaption>
+<figure class="med-figure" id="fig-07-05">
+  <img src="images/fig-07-05.jpg" alt="Fig. 7.1.14: Continuous-wave Doppler spectrum across stenotic aortic valve" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.1.14: Continuous-wave (CW) Doppler spectrum across stenotic aortic valve demonstrating a dense, symmetric envelope with $v_{\max} > 4.5\text{ m/s}$ and elevated mean gradient (fine linear transit-time signals indicated by arrow are not included in tracing).</figcaption>
 </figure>
 
 ### Low-Flow, Low-Gradient Aortic Stenosis
@@ -123,9 +123,9 @@ When $\text{AVA} < 1.0\text{ cm}^2$ but $v_{\max} < 4.0\text{ m/s}$ and $\Delta 
    - Small, concentric hypertrophied LV cavity with low compliance, marked afterload mismatch, and high systemic vascular resistance.
    - Workup: Verify strict blood pressure control (exclude hypertension at exam), assess non-contrast MDCT aortic valve calcium score (severe AS cut-offs: $\ge 2000\text{ AU}$ in men, $\ge 1200\text{ AU}$ in women).
 
-<figure class="med-figure" id="fig-07-25">
-  <img src="images/fig-07-25.jpg" alt="Fig. 7.1.25: Diagnostic algorithm for low-dose dobutamine stress echocardiography in low-flow, low-gradient aortic steno" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.1.25: Diagnostic algorithm for low-dose dobutamine stress echocardiography in low-flow, low-gradient aortic stenosis with reduced LVEF.</figcaption>
+<figure class="med-figure" id="fig-07-06">
+  <img src="images/fig-07-06.jpg" alt="Fig. 7.1.25: Types of responses during low-dose dobutamine stress echocardiography in low-flow low-gradient AS" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.1.25: Types of responses during low-dose dobutamine stress echocardiography in low-flow, low-gradient aortic stenosis with reduced LVEF: differentiating true severe AS, pseudo-severe AS, and absence of contractile flow reserve.</figcaption>
 </figure>
 </div></details>
 
@@ -145,14 +145,14 @@ Pulmonary stenosis is predominantly a congenital defect, occurring as an isolate
 | **Moderate PS** | $3.0\text{--}4.0\text{ m/s}$ | $36\text{--}64\text{ mmHg}$ |
 | **Severe PS** | $> 4.0\text{ m/s}$ | $> 64\text{ mmHg}$ |
 
-<figure class="med-figure" id="fig-07-29">
-  <img src="images/fig-07-29.jpg" alt="Fig. 7.2.1: Transthoracic echocardiographic evaluation of congenital pulmonary valve stenosis." class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.2.1: Transthoracic echocardiographic evaluation of congenital pulmonary valve stenosis.</figcaption>
+<figure class="med-figure" id="fig-07-07">
+  <img src="images/fig-07-07.jpg" alt="Fig. 7.2.1: Transthoracic echocardiographic evaluation of congenital pulmonary valve stenosis" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.2.1: Transthoracic echocardiographic (TTE) evaluation of congenital pulmonary valve stenosis showing thickened, doming pulmonary leaflets (arrow).</figcaption>
 </figure>
 
-<figure class="med-figure" id="fig-07-30">
-  <img src="images/fig-07-30.jpg" alt="Fig. 7.2.2: Continuous-wave (CW) Doppler spectrum across stenotic pulmonary valve demonstrating peak systolic gradient $" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.2.2: Continuous-wave (CW) Doppler spectrum across stenotic pulmonary valve demonstrating peak systolic gradient $> 64\text{ mmHg}$ consistent with severe PS.</figcaption>
+<figure class="med-figure" id="fig-07-08">
+  <img src="images/fig-07-08.jpg" alt="Fig. 7.2.2: Continuous-wave Doppler spectrum across stenotic pulmonary valve" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.2.2: Continuous-wave (CW) Doppler spectrum across stenotic pulmonary valve demonstrating peak systolic velocity $> 4\text{ m/s}$ and peak gradient $> 64\text{ mmHg}$ consistent with severe PS.</figcaption>
 </figure>
 </div></details>
 
@@ -163,9 +163,9 @@ Pulmonary stenosis is predominantly a congenital defect, occurring as an isolate
 - **Rheumatic Fever**: Accounts for $> 90\%$ of clinical mitral stenosis worldwide. Characterized by commissural fusion, leaflet thickening (especially at tips), chordal shortening, fusion and thickening, leading to characteristic "hockey-stick" diastolic doming of the anterior mitral leaflet in PLAX.
 - **Degenerative Calcific MS**: Increasingly prevalent in elderly populations; extensive calcification of the mitral annulus extending into the base of the leaflets without commissural fusion.
 
-<figure class="med-figure" id="fig-07-34">
-  <img src="images/fig-07-34.jpg" alt="Fig. 7.3.1: Parasternal long-axis view showing classic rheumatic mitral stenosis with thickening, reduced mobility, and " class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.3.1: Parasternal long-axis view showing classic rheumatic mitral stenosis with thickening, reduced mobility, and anterior leaflet diastolic doming (hockey-stick appearance).</figcaption>
+<figure class="med-figure" id="fig-07-09">
+  <img src="images/fig-07-09.jpg" alt="Fig. 7.3.1: Parasternal long-axis view showing classic rheumatic mitral stenosis" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.3.1: Parasternal long-axis view showing classic rheumatic mitral stenosis: thickening of free edges of anterior leaflet, commissural fusion, restricted posterior leaflet, and anterior leaflet diastolic doming (hockey-stick appearance).</figcaption>
 </figure>
 
 ### Wilkins Score for Percutaneous Mitral Commissurotomy (PMC)
@@ -211,9 +211,9 @@ Measured via CW Doppler across the mitral valve from the apical 4-chamber view:
 | **Pressure Half-Time (PHT, ms)** | $< 150$ | $150\text{--}220$ | $> 220$ |
 | **Systolic Pulmonary Artery Pressure (SPAP, mmHg)** | $< 30$ | $30\text{--}50$ | $> 50$ |
 
-<figure class="med-figure" id="fig-07-44">
-  <img src="images/fig-07-44.jpg" alt="Fig. 7.3.11: Continuous-wave (CW) Doppler recording of mitral inflow in rheumatic MS, demonstrating elevated mean diasto" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.3.11: Continuous-wave (CW) Doppler recording of mitral inflow in rheumatic MS, demonstrating elevated mean diastolic gradient and prolonged deceleration slope (increased PHT).</figcaption>
+<figure class="med-figure" id="fig-07-10">
+  <img src="images/fig-07-10.jpg" alt="Fig. 7.3.11: Transmitral continuous-wave Doppler recording and hemodynamic determinants in mitral stenosis" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.3.11: Transmitral continuous-wave (CW) Doppler recording and hemodynamic determinants of diastolic pressure gradient in mitral stenosis: relationship between fixed mitral valve area, flow rate, and heart rate.</figcaption>
 </figure>
 </div></details>
 
@@ -234,14 +234,14 @@ Tricuspid stenosis is rare in clinical practice, virtually always rheumatic in o
 | **Tricuspid Valve Area (TVA by Continuity Equation)** | $\le 1.0\text{ cm}^2$ |
 | **Right Atrial Dilatation & Inferior Vena Cava** | Marked RA dilatation with dilated, non-collapsible IVC |
 
-<figure class="med-figure" id="fig-07-50">
-  <img src="images/fig-07-50.jpg" alt="Fig. 7.4.1: Transthoracic echocardiogram (TTE) of rheumatic tricuspid stenosis with diastolic doming and leaflet restric" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.4.1: Transthoracic echocardiogram (TTE) of rheumatic tricuspid stenosis with diastolic doming and leaflet restriction.</figcaption>
+<figure class="med-figure" id="fig-07-11">
+  <img src="images/fig-07-11.jpg" alt="Fig. 7.4.1: Transthoracic echocardiogram of rheumatic tricuspid stenosis" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.4.1: Transthoracic echocardiogram (TTE) of rheumatic tricuspid stenosis demonstrating leaflet thickening, diastolic doming, and restriction of motion (arrow).</figcaption>
 </figure>
 
-<figure class="med-figure" id="fig-07-51">
-  <img src="images/fig-07-51.jpg" alt="Fig. 7.4.2: Continuous-wave (CW) Doppler spectrum across stenotic tricuspid valve showing elevated diastolic gradient wi" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.4.2: Continuous-wave (CW) Doppler spectrum across stenotic tricuspid valve showing elevated diastolic gradient with mean gradient $\ge 5\text{ mmHg}$.</figcaption>
+<figure class="med-figure" id="fig-07-12">
+  <img src="images/fig-07-12.jpg" alt="Fig. 7.4.2: Continuous-wave Doppler spectrum across stenotic tricuspid valve" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.4.2: Continuous-wave (CW) Doppler spectrum across stenotic tricuspid valve showing elevated transtricuspid diastolic velocities with mean gradient $\ge 5\text{ mmHg}$.</figcaption>
 </figure>
 </div></details>
 
@@ -257,9 +257,9 @@ Tricuspid stenosis is rare in clinical practice, virtually always rheumatic in o
 | **Type II** | Excessive cusp motion (cusp prolapse or flail) | Congenital bicuspid aortic valve prolapse, redundant cusp tissue, fibroelastic deficiency, trauma, torn commissure |
 | **Type III** | Restricted cusp motion (fibrosis, calcification, retraction) | Rheumatic retraction, senile calcific degenerative AR, post-inflammatory scarring |
 
-<figure class="med-figure" id="fig-07-55">
-  <img src="images/fig-07-55.jpg" alt="Fig. 7.5.1: Pathological classification of aortic regurgitation: root dilatation (Type I), cusp prolapse (Type II), and " class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.5.1: Pathological classification of aortic regurgitation: root dilatation (Type I), cusp prolapse (Type II), and restricted leaflets (Type III).</figcaption>
+<figure class="med-figure" id="fig-07-13">
+  <img src="images/fig-07-13.jpg" alt="Fig. 7.5.1: Pathological specimens illustrating major mechanisms of aortic regurgitation" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.5.1: Pathological specimens illustrating major mechanisms of aortic regurgitation: (A) congenital bicuspid valve with raphe; (B) rheumatic aortic valve with commissural fusion; (C) degenerative calcific aortic disease with nodular calcifications.</figcaption>
 </figure>
 
 ### Quantitative Grading of AR Severity
@@ -294,9 +294,9 @@ $$\text{RVol} = \text{EROA} \times \text{TVI}_{\text{AR}}$$
 | **Regurgitant Fraction (RF, %)** | $< 30\%$ | $30\text{--}49\%$ | $\ge 50\%$ |
 | **LV Dilatation (LVEDD, mm)** | Normal | Mild/Moderate | Marked ($\text{LVEDD} > 65\text{ mm}$, $\text{LVESD} > 50\text{ mm}$) |
 
-<figure class="med-figure" id="fig-07-70">
-  <img src="images/fig-07-70.jpg" alt="Fig. 7.5.17: Severe aortic regurgitation demonstrating prominent holodiastolic retrograde flow reversal in the descendin" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.5.17: Severe aortic regurgitation demonstrating prominent holodiastolic retrograde flow reversal in the descending aorta on PW Doppler.</figcaption>
+<figure class="med-figure" id="fig-07-14">
+  <img src="images/fig-07-14.jpg" alt="Fig. 7.5.17: Severe aortic regurgitation demonstrating prominent holodiastolic retrograde flow reversal in descending aorta" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.5.17: Severe aortic regurgitation demonstrating prominent holodiastolic retrograde flow reversal in the descending thoracic aorta interrogated by pulsed-wave (PW) Doppler from the suprasternal notch (end-diastolic velocity $> 20\text{ cm/s}$).</figcaption>
 </figure>
 </div></details>
 
@@ -311,9 +311,9 @@ $$\text{RVol} = \text{EROA} \times \text{TVI}_{\text{AR}}$$
 - **Secondary (Functional) MR**: Structurally normal leaflets with regurgitation driven by left ventricular dysfunction and adverse remodelling.
   - Chronic ischaemic MR or dilated cardiomyopathy (DCM): Apical and lateral displacement of papillary muscles causing severe tethering (tenting) and annular dilatation.
 
-<figure class="med-figure" id="fig-07-78">
-  <img src="images/fig-07-78.jpg" alt="Fig. 7.6.1: Morphological spectrum of mitral valve prolapse: normal, billowing, leaflet prolapse, and chordal rupture wi" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.6.1: Morphological spectrum of mitral valve prolapse: normal, billowing, leaflet prolapse, and chordal rupture with flail leaflet.</figcaption>
+<figure class="med-figure" id="fig-07-15">
+  <img src="images/fig-07-15.jpg" alt="Fig. 7.6.1: Morphological spectrum of mitral valve prolapse" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.6.1: Morphological spectrum of mitral valve prolapse (MVP): (A) normal leaflet coaptation; (B) leaflet billowing without coaptation loss; (C) posterior leaflet prolapse beyond the annular plane; (D) chordal rupture resulting in flail leaflet.</figcaption>
 </figure>
 
 ### Carpentier Classification of Mitral Regurgitation
@@ -327,9 +327,9 @@ $$\text{Regurgitant Flow} = 2\pi r^2 \times v_{\text{alias}}$$
 $$\text{EROA} = \frac{\text{Flow}}{v_{\max}} = \frac{2\pi r^2 \times v_{\text{alias}}}{v_{\max}}$$
 $$\text{RVol} = \text{EROA} \times \text{TVI}_{\text{MR}}$$
 
-<figure class="med-figure" id="fig-07-93">
-  <img src="images/fig-07-93.jpg" alt="Fig. 7.6.16: Principles of the Proximal Isovelocity Surface Area (PISA) method for quantification of mitral regurgitatio" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.6.16: Principles of the Proximal Isovelocity Surface Area (PISA) method for quantification of mitral regurgitation.</figcaption>
+<figure class="med-figure" id="fig-07-16">
+  <img src="images/fig-07-16.jpg" alt="Fig. 7.6.16: Principles of Proximal Isovelocity Surface Area method for quantification of mitral regurgitation" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.6.16: Principles of the Proximal Isovelocity Surface Area (PISA) method for quantitative evaluation of mitral regurgitation: hemispheric flow convergence zone, aliasing velocity ($v_a$), and PISA radius ($r$).</figcaption>
 </figure>
 
 ### Table 7.6.2 Integrating Indices for Grading Mitral Regurgitation Severity
@@ -343,9 +343,9 @@ $$\text{RVol} = \text{EROA} \times \text{TVI}_{\text{MR}}$$
 | **Pulmonary Vein Flow Spectrum** | Systolic dominance | Blunted systolic flow | Systolic flow reversal | Systolic flow reversal |
 | **Mitral Inflow Velocity** | Normal ($A$-wave dominant) | Variable | $E$-wave dominant ($E > 1.2\text{--}1.5\text{ m/s}$) | Elevated $E/e'$ |
 
-<figure class="med-figure" id="fig-07-100">
-  <img src="images/fig-07-100.jpg" alt="Fig. 7.6.23: Spectrum of mitral regurgitation severity on Doppler echocardiography." class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.6.23: Spectrum of mitral regurgitation severity on Doppler echocardiography.</figcaption>
+<figure class="med-figure" id="fig-07-17">
+  <img src="images/fig-07-17.jpg" alt="Fig. 7.6.23: Comprehensive Doppler spectrum across grades of mitral regurgitation severity" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.6.23: Comprehensive Doppler spectrum across grades of mitral regurgitation severity (A: mild, B: moderate, C: severe): (a) PW mitral inflow; (b) CW regurgitant jet profile with cut-off sign in severe MR; (c) PW LVOT stroke volume; (d) pulmonary venous flow showing systolic flow reversal in severe MR.</figcaption>
 </figure>
 </div></details>
 
@@ -357,9 +357,9 @@ $$\text{RVol} = \text{EROA} \times \text{TVI}_{\text{MR}}$$
   - Significant annular dilatation is defined as end-diastolic tricuspid annulus diameter $> 40\text{ mm}$ (or $> 21\text{ mm/m}^2$) in apical 4-chamber view.
 - **Primary (Organic) TR**: Infective endocarditis (IV drug users), carcinoid heart disease (rigid, thickened, retracted leaflets fixed in open position), pacemaker lead impingement, Ebstein anomaly, blunt trauma.
 
-<figure class="med-figure" id="fig-07-102">
-  <img src="images/fig-07-102.jpg" alt="Fig. 7.7.1: 3D echocardiographic visualization of normal tricuspid valve morphology." class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.7.1: 3D echocardiographic visualization of normal tricuspid valve morphology.</figcaption>
+<figure class="med-figure" id="fig-07-18">
+  <img src="images/fig-07-18.jpg" alt="Fig. 7.7.1: 3D echocardiographic visualization of normal tricuspid valve morphology" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.7.1: 3D echocardiographic en-face visualization of normal tricuspid valve morphology displaying the anterior, posterior, and septal leaflets.</figcaption>
 </figure>
 
 ### Table 7.7.1 Integrating Indices for Grading Tricuspid Regurgitation Severity
@@ -373,9 +373,9 @@ $$\text{RVol} = \text{EROA} \times \text{TVI}_{\text{MR}}$$
 | **CW Doppler TR Jet Contour** | Faint, parabolic | Dense, parabolic | Dense, triangular with early peaking | Triangular, "cut-off" sign |
 | **RV / RA Chambers** | Normal | Mild dilatation | Marked RV and RA enlargement | Extreme volume overload |
 
-<figure class="med-figure" id="fig-07-117">
-  <img src="images/fig-07-117.jpg" alt="Fig. 7.7.16: Pulsed-wave (PW) Doppler of hepatic veins showing prominent systolic flow reversal, pathognomonic of severe" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.7.16: Pulsed-wave (PW) Doppler of hepatic veins showing prominent systolic flow reversal, pathognomonic of severe tricuspid regurgitation.</figcaption>
+<figure class="med-figure" id="fig-07-19">
+  <img src="images/fig-07-19.jpg" alt="Fig. 7.7.16: Colour and pulsed-wave Doppler of hepatic vein flow in severe tricuspid regurgitation" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.7.16: Colour and pulsed-wave (PW) Doppler evaluation of hepatic vein flow in severe tricuspid regurgitation demonstrating prominent systolic flow reversal, pathognomonic of severe TR.</figcaption>
 </figure>
 </div></details>
 
@@ -394,15 +394,15 @@ Trace to mild pulmonary regurgitation is a normal physiological finding in up to
 | **Flow Reversal in Pulmonary Artery Branches** | Absent | Brief early diastolic | Holodiastolic flow reversal in main & branch PA |
 | **Right Ventricular Dimensions** | Normal | Mildly dilated | Severely dilated with volume overload |
 
-<figure class="med-figure" id="fig-07-129">
-  <img src="images/fig-07-129.jpg" alt="Fig. 7.8.1: Parasternal short-axis view evaluating pulmonary regurgitation with color flow Doppler." class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.8.1: Parasternal short-axis view evaluating pulmonary regurgitation with color flow Doppler.</figcaption>
+<figure class="med-figure" id="fig-07-20">
+  <img src="images/fig-07-20.jpg" alt="Fig. 7.8.1: Parasternal short-axis view evaluating pulmonary regurgitation with colour flow Doppler" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.8.1: Parasternal short-axis view (PTSAX) at the aortic valve level evaluating the pulmonary valve and regurgitant jet origin by colour Doppler.</figcaption>
 </figure>
 
-<figure class="med-figure" id="fig-07-137">
-  <img src="images/fig-07-137.jpg" alt="Fig. 7.8.9: Continuous-wave Doppler of severe pulmonary regurgitation demonstrating steep deceleration slope ($\text{PHT" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.8.9: Continuous-wave Doppler of severe pulmonary regurgitation demonstrating steep deceleration slope ($\text{PHT}</figcaption>
-</figure>< 100\text{ ms}$).*
+<figure class="med-figure" id="fig-07-21">
+  <img src="images/fig-07-21.jpg" alt="Fig. 7.8.9: Continuous-wave Doppler spectrum and colour M-mode of severe pulmonary regurgitation" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.8.9: Continuous-wave (CW) Doppler spectrum and colour M-mode of pulmonary regurgitation demonstrating steep deceleration slope with pressure half-time ($\text{PHT} < 100\text{ ms}$), indicative of severe PR.</figcaption>
+</figure>
 </div></details>
 
 <details class="med-details" open><summary>
@@ -419,9 +419,9 @@ Multiple valve disease (involvement of $\ge 2$ separate valves) and mixed valve 
 | **Aortic Regurgitation + Mitral Regurgitation** | AR causes LV volume overload with elevated diastolic pressures; high LV systolic pressure augments MR driving force. | Severe AR regurgitant volume can be confused with forward stroke volume; use volumetric calculations from multiple non-regurgitant valves. |
 | **Severe AR causing Austin Flint Murmur vs. Organic MS** | Regurgitant jet of severe AR impinges on anterior mitral leaflet, causing diastolic fluttering and premature closure. | Absence of commissural fusion, normal MVA on planimetry, and absence of subvalvular disease exclude true rheumatic MS. |
 
-<figure class="med-figure" id="fig-07-139">
-  <img src="images/fig-07-139.jpg" alt="Fig. 7.9.2: Premature mitral valve closure and diastolic mitral regurgitation in severe acute aortic regurgitation demon" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.9.2: Premature mitral valve closure and diastolic mitral regurgitation in severe acute aortic regurgitation demonstrated on M-mode.</figcaption>
+<figure class="med-figure" id="fig-07-22">
+  <img src="images/fig-07-22.jpg" alt="Fig. 7.9.2: Premature mitral valve closure and diastolic mitral regurgitation in severe acute aortic regurgitation" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.9.2: Acute severe aortic regurgitation with markedly elevated LV diastolic pressure: colour M-mode (left), CW Doppler (middle), and PW Doppler (right) demonstrating premature mitral valve closure and diastolic mitral regurgitation.</figcaption>
 </figure>
 </div></details>
 
@@ -438,9 +438,9 @@ Multiple valve disease (involvement of $\ge 2$ separate valves) and mixed valve 
    - Stentless bioprostheses: Superior hemodynamics, lack of obstructive sewing ring.
    - Transcatheter Aortic Valve Implantation (TAVI): Balloon-expandable (Edwards SAPIEN) or self-expanding (Medtronic CoreValve / Evolut).
 
-<figure class="med-figure" id="fig-07-141">
-  <img src="images/fig-07-141.jpg" alt="Fig. 7.10.1: Examples of biological and transcatheter prosthetic valves." class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.10.1: Examples of biological and transcatheter prosthetic valves.</figcaption>
+<figure class="med-figure" id="fig-07-23">
+  <img src="images/fig-07-23.jpg" alt="Fig. 7.10.1: Examples of biological prosthetic valves" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.10.1: Examples of biological prosthetic valves: (A) stented porcine/pericardial bioprosthesis; (B) sutureless bioprosthesis; (C) stentless bioprosthesis.</figcaption>
 </figure>
 
 ### Table 7.10.1 Essential Parameters in Comprehensive Evaluation of Prosthetic Valve Function
@@ -480,9 +480,9 @@ Multiple valve disease (involvement of $\ge 2$ separate valves) and mixed valve 
   - Moderate PPM: Indexed $\text{EOA} = 0.90\text{--}1.20\text{ cm}^2/\text{m}^2$.
   - Severe PPM: Indexed $\text{EOA} < 0.90\text{ cm}^2/\text{m}^2$.
 
-<figure class="med-figure" id="fig-07-154">
-  <img src="images/fig-07-154.jpg" alt="Fig. 7.10.11: Diagnostic algorithm for evaluation of abnormally high transprosthetic velocities and gradients." class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.10.11: Diagnostic algorithm for evaluation of abnormally high transprosthetic velocities and gradients.</figcaption>
+<figure class="med-figure" id="fig-07-24">
+  <img src="images/fig-07-24.jpg" alt="Fig. 7.10.11: Diagnostic algorithms for evaluation of abnormally high transprosthetic velocities and gradients" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.10.11: Stepwise diagnostic algorithms for evaluation of abnormally high transprosthetic velocities and gradients: differentiation between patient-prosthesis mismatch (PPM), intrinsic prosthesis dysfunction (pannus/thrombosis), and high-flow states for aortic (top) and mitral (bottom) prostheses.</figcaption>
 </figure>
 </div></details>
 
@@ -501,9 +501,9 @@ Multiple valve disease (involvement of $\ge 2$ separate valves) and mixed valve 
 | **Leaflet Perforation** | Direct tissue defect through the leaflet body showing trans-leaflet color Doppler flow. |
 | **New Dehiscence** | New rocking motion or $> 10\%$ paravalvular regurgitant detachment of a prosthetic valve sewing ring. |
 
-<figure class="med-figure" id="fig-07-157">
-  <img src="images/fig-07-157.jpg" alt="Fig. 7.11.1: Cardinal echocardiographic signs of infective endocarditis: (A) vegetation; (B) perivalvular abscess; (C) p" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.11.1: Cardinal echocardiographic signs of infective endocarditis: (A) vegetation; (B) perivalvular abscess; (C) prosthetic valve dehiscence.</figcaption>
+<figure class="med-figure" id="fig-07-25">
+  <img src="images/fig-07-25.jpg" alt="Fig. 7.11.1: Cardinal echocardiographic criteria for infective endocarditis" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.11.1: Cardinal echocardiographic criteria for infective endocarditis (Duke criteria): (A) oscillating intracardiac vegetation; (B) perivalvular aortic root abscess; (C) new dehiscence and paravalvular leak of a prosthetic valve.</figcaption>
 </figure>
 
 ### Diagnostic Performance: TTE vs. TOE
@@ -526,9 +526,9 @@ Multiple valve disease (involvement of $\ge 2$ separate valves) and mixed valve 
 - Persistent bacteremia or fever $> 7\text{--}10\text{ days}$ under appropriate antibiotic therapy.
 - Infection caused by fungi or multiresistant organisms (*Staph. aureus*, non-HACEK Gram-negative bacteria).
 
-<figure class="med-figure" id="fig-07-168">
-  <img src="images/fig-07-168.jpg" alt="Fig. 7.11.8: Triad of indications for emergency surgery in infective endocarditis: (A) hemodynamic collapse; (B) uncontr" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 7.11.8: Triad of indications for emergency surgery in infective endocarditis: (A) hemodynamic collapse; (B) uncontrolled invasive infection; (C) high embolic risk.</figcaption>
+<figure class="med-figure" id="fig-07-26">
+  <img src="images/fig-07-26.jpg" alt="Fig. 7.11.8: Triad of cardinal indications for urgent surgery in infective endocarditis" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 7.11.8: Triad of cardinal indications for urgent surgery in infective endocarditis: (A) hemodynamic: acute severe aortic regurgitation with premature mitral closure; (B) infectious: mitral annular abscess with perforation into left atrium; (C) embolic: large, highly mobile mitral vegetation (> 10-15 mm).</figcaption>
 </figure>
 </div></details>
 

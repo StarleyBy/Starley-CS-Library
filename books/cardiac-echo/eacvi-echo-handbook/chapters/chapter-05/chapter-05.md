@@ -67,12 +67,12 @@ Ventricular diastole is partitioned into four distinct sequential phases ([Fig. 
   * LA remodeling ($LAVI > 34\text{ mL/m}^2$) reflects chronically elevated LV end-diastolic filling pressure, excluding acute volume overload or high-output states.
 
 <figure class="med-figure" id="fig-05-01">
-  <img src="images/fig-05-01.jpg" alt="Fig. 5.1.1: Diagram of the four phases of ventricular diastole: isovolumetric relaxation time (IVRT), early rapid fillin" class="med-image" loading="lazy" />
+  <img src="images/fig-05-01.jpg" alt="Fig. 5.1.1: Diagram of the four phases of ventricular diastole" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.1: Diagram of the four phases of ventricular diastole: isovolumetric relaxation time (IVRT), early rapid filling, diastasis, and atrial contraction.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-05-02">
-  <img src="images/fig-05-02.jpg" alt="Fig. 5.1.2: Measurement of end-systolic maximal left atrial volume by biplane planimetry in apical 4-chamber and 2-chamb" class="med-image" loading="lazy" />
+  <img src="images/fig-05-02.jpg" alt="Fig. 5.1.2: Measurement of end-systolic maximal left atrial volume by biplane planimetry in apical 4-chamber and 2-chamber views" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.2: Measurement of end-systolic maximal left atrial volume by biplane planimetry in apical 4-chamber and 2-chamber views.</figcaption>
 </figure>
 
@@ -100,12 +100,12 @@ Transmitral inflow interrogation assesses the pressure gradient between the left
   * **Mitral $A$-Wave Duration ($A_{\text{dur}}$):** Measured from the onset to the cessation of late transmitral flow at the leaflet annulus/tips level ($ms$).
 
 <figure class="med-figure" id="fig-05-03">
-  <img src="images/fig-05-03.jpg" alt="Fig. 5.1.3: Correct measurement of transmitral inflow parameters. (**A**) Tracing the $E$-wave deceleration time ($DT$) " class="med-image" loading="lazy" />
+  <img src="images/fig-05-03.jpg" alt="Fig. 5.1.3: Correct measurement of transmitral inflow parameters" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.3: Correct measurement of transmitral inflow parameters. (**A**) Tracing the $E$-wave deceleration time ($DT$) from peak velocity down to the baseline. (**B, C**) Technical pitfalls: non-parallel Doppler alignment and inappropriate sample volume depth.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-05-04">
-  <img src="images/fig-05-04.jpg" alt="Fig. 5.1.4: Measurement of deceleration time ($DT$) across various morphological configurations: linear slope, curved de" class="med-image" loading="lazy" />
+  <img src="images/fig-05-04.jpg" alt="Fig. 5.1.4: Measurement of deceleration time" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.4: Measurement of deceleration time ($DT$) across various morphological configurations: linear slope, curved deceleration, and fused $E/A$ waves in sinus tachycardia.</figcaption>
 </figure>
 
@@ -132,22 +132,22 @@ Progressive worsening of diastolic function manifests as four distinctive transm
    * Reversible vs Fixed Restrictive: If the Valsalva maneuver reverses the restrictive pattern back to impaired relaxation, it is reversible; if unchanged, it is fixed, carrying a dismal prognosis.
 
 <figure class="med-figure" id="fig-05-05">
-  <img src="images/fig-05-05.jpg" alt="Fig. 5.1.5: Transmitral pulsed-wave Doppler filling profiles: (**A**) Normal, (**B**) Impaired relaxation (Grade I), (**" class="med-image" loading="lazy" />
+  <img src="images/fig-05-05.jpg" alt="Fig. 5.1.5: Transmitral pulsed-wave Doppler filling profiles" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.5: Transmitral pulsed-wave Doppler filling profiles: (**A**) Normal, (**B**) Impaired relaxation (Grade I), (**C**) Pseudonormal (Grade II), and (**D**) Restrictive filling (Grade III).</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-05-06">
-  <img src="images/fig-05-06.jpg" alt="Fig. 5.1.6: Hemodynamic schematic diagram illustrating transmitral filling profiles in relation to left atrial (LAP) and" class="med-image" loading="lazy" />
+  <img src="images/fig-05-06.jpg" alt="Fig. 5.1.6: Hemodynamic schematic diagram illustrating transmitral filling profiles in relation to left atrial" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.6: Hemodynamic schematic diagram illustrating transmitral filling profiles in relation to left atrial (LAP) and left ventricular diastolic pressure (LVDP) curves.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-05-07">
-  <img src="images/fig-05-07.jpg" alt="Fig. 5.1.7: Parabolic age-dependent distribution of the transmitral $E/A$ ratio from childhood through healthy aging." class="med-image" loading="lazy" />
+  <img src="images/fig-05-07.jpg" alt="Fig. 5.1.7: Parabolic age-dependent distribution of the transmitral E/A ratio from childhood through healthy aging" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.7: Parabolic age-dependent distribution of the transmitral $E/A$ ratio from childhood through healthy aging.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-05-08">
-  <img src="images/fig-05-08.jpg" alt="Fig. 5.1.8: The Valsalva maneuver during transmitral Doppler recording, unmasking an underlying impaired relaxation patt" class="med-image" loading="lazy" />
+  <img src="images/fig-05-08.jpg" alt="Fig. 5.1.8: The Valsalva maneuver during transmitral Doppler recording, unmasking an underlying impaired relaxation pattern in a patient with pseudonormal baseline filling" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.8: The Valsalva maneuver during transmitral Doppler recording, unmasking an underlying impaired relaxation pattern in a patient with pseudonormal baseline filling.</figcaption>
 </figure>
 
@@ -168,7 +168,7 @@ Progressive worsening of diastolic function manifests as four distinctive transm
   * Dissociation between ventricular contraction and independent atrial $A$-waves occurring at random intervals during systole and diastole.
 
 <figure class="med-figure" id="fig-05-09">
-  <img src="images/fig-05-09.jpg" alt="Fig. 5.1.9: Transmitral Doppler filling patterns in arrhythmias: (**A**) Atrial fibrillation, (**B**) Atrial flutter, (*" class="med-image" loading="lazy" />
+  <img src="images/fig-05-09.jpg" alt="Fig. 5.1.9: Transmitral Doppler filling patterns in arrhythmias" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.9: Transmitral Doppler filling patterns in arrhythmias: (**A**) Atrial fibrillation, (**B**) Atrial flutter, (**C**) First-degree AV block with $E/A$ wave fusion, and (**D**) Complete heart block with AV dissociation.</figcaption>
 </figure>
 
@@ -242,22 +242,22 @@ Pulmonary venous flow reflects left atrial pressure changes throughout the cardi
   * Severe MR jets entering the pulmonary veins cause systolic flow blunting or overt systolic flow reversal ($S < 0$), mimicking high LA pressure.
 
 <figure class="med-figure" id="fig-05-10">
-  <img src="images/fig-05-10.jpg" alt="Fig. 5.1.10: Pulsed-wave Doppler interrogation of the right superior pulmonary vein, placing the sample volume $1\text{–" class="med-image" loading="lazy" />
+  <img src="images/fig-05-10.jpg" alt="Fig. 5.1.10: Pulsed-wave Doppler interrogation of the right superior pulmonary vein, placing the sample volume 1–2 cm inside the vein lumen" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.10: Pulsed-wave Doppler interrogation of the right superior pulmonary vein, placing the sample volume $1\text{–}2\text{ cm}$ inside the vein lumen.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-05-11">
-  <img src="images/fig-05-11.jpg" alt="Fig. 5.1.11: Color Doppler imaging in severe mitral regurgitation demonstrating systolic flow reversal within the pulmon" class="med-image" loading="lazy" />
+  <img src="images/fig-05-11.jpg" alt="Fig. 5.1.11: Color Doppler imaging in severe mitral regurgitation demonstrating systolic flow reversal within the pulmonary vein" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.11: Color Doppler imaging in severe mitral regurgitation demonstrating systolic flow reversal within the pulmonary vein.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-05-12">
-  <img src="images/fig-05-12.jpg" alt="Fig. 5.1.12: Schematic diagram of pulmonary venous flow components: systolic forward waves ($S_1, S_2$), diastolic wave " class="med-image" loading="lazy" />
+  <img src="images/fig-05-12.jpg" alt="Fig. 5.1.12: Schematic diagram of pulmonary venous flow components" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.12: Schematic diagram of pulmonary venous flow components: systolic forward waves ($S_1, S_2$), diastolic wave ($D$), and atrial reversal wave ($Ar$).</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-05-13">
-  <img src="images/fig-05-13.jpg" alt="Fig. 5.1.13: Normal pulmonary venous pulsed-wave Doppler profile displaying dominant systolic forward flow ($S > D$) and" class="med-image" loading="lazy" />
+  <img src="images/fig-05-13.jpg" alt="Fig. 5.1.13: Normal pulmonary venous pulsed-wave Doppler profile displaying dominant systolic forward flow" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.13: Normal pulmonary venous pulsed-wave Doppler profile displaying dominant systolic forward flow ($S > D$) and low-velocity atrial reversal ($Ar$).</figcaption>
 </figure>
 
@@ -276,7 +276,7 @@ Pulmonary venous flow reflects left atrial pressure changes throughout the cardi
   * An atrial reversal duration exceeding mitral $A$-wave duration by $\ge 30\text{ ms}$ ($Ar_{\text{dur}} - A_{\text{dur}} \ge 30\text{ ms}$) provides definitive evidence of elevated LV end-diastolic pressure, even when the transmitral $E/A$ pattern appears normal.
 
 <figure class="med-figure" id="fig-05-14">
-  <img src="images/fig-05-14.jpg" alt="Fig. 5.1.14: Comparative alignment of transmitral $A$-wave duration ($A_{\text{dur}}$) and pulmonary venous atrial rever" class="med-image" loading="lazy" />
+  <img src="images/fig-05-14.jpg" alt="Fig. 5.1.14: Comparative alignment of transmitral A-wave duration" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.14: Comparative alignment of transmitral $A$-wave duration ($A_{\text{dur}}$) and pulmonary venous atrial reversal duration ($Ar_{\text{dur}}$). An $Ar_{\text{dur}} - A_{\text{dur}} \ge 30\text{ ms}$ indicates elevated LV end-diastolic pressure.</figcaption>
 </figure>
 
@@ -332,22 +332,22 @@ Pulsed-wave Tissue Doppler Imaging (TDI / DMI) records longitudinal myocardial t
   * Unlike transmitral $E$, which pseudonormalizes with rising LA pressure, $e'$ remains depressed across all grades of disease.
 
 <figure class="med-figure" id="fig-05-15">
-  <img src="images/fig-05-15.jpg" alt="Fig. 5.1.15: Measurement of mitral annular velocities by pulsed-wave tissue Doppler imaging at the septal (**A**) and la" class="med-image" loading="lazy" />
+  <img src="images/fig-05-15.jpg" alt="Fig. 5.1.15: Measurement of mitral annular velocities by pulsed-wave tissue Doppler imaging at the septal" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.15: Measurement of mitral annular velocities by pulsed-wave tissue Doppler imaging at the septal (**A**) and lateral (**B**) annular hinge points.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-05-16">
-  <img src="images/fig-05-16.jpg" alt="Fig. 5.1.16: Spectral pulsed-wave tissue Doppler recording at the septal mitral annulus displaying systolic ($s$), earl" class="med-image" loading="lazy" />
+  <img src="images/fig-05-16.jpg" alt="Fig. 5.1.16: Spectral pulsed-wave tissue Doppler recording at the septal mitral annulus displaying systolic" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.16: Spectral pulsed-wave tissue Doppler recording at the septal mitral annulus displaying systolic ($s'$), early diastolic ($e'$), and late diastolic ($a'$) velocities.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-05-17">
-  <img src="images/fig-05-17.jpg" alt="Fig. 5.1.17: Spectral pulsed-wave tissue Doppler recording at the lateral mitral annulus displaying typical higher veloc" class="med-image" loading="lazy" />
+  <img src="images/fig-05-17.jpg" alt="Fig. 5.1.17: Spectral pulsed-wave tissue Doppler recording at the lateral mitral annulus displaying typical higher velocities compared to the septal border" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.17: Spectral pulsed-wave tissue Doppler recording at the lateral mitral annulus displaying typical higher velocities compared to the septal border.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-05-18">
-  <img src="images/fig-05-18.jpg" alt="Fig. 5.1.18: Progressive changes in transmitral inflow, pulmonary venous flow, and tissue Doppler annular velocities acr" class="med-image" loading="lazy" />
+  <img src="images/fig-05-18.jpg" alt="Fig. 5.1.18: Progressive changes in transmitral inflow, pulmonary venous flow, and tissue Doppler annular velocities across progressive stages of diastolic dysfunction" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.18: Progressive changes in transmitral inflow, pulmonary venous flow, and tissue Doppler annular velocities across progressive stages of diastolic dysfunction.</figcaption>
 </figure>
 
@@ -441,22 +441,22 @@ Color M-mode flow propagation velocity ($V_p$) measures the speed at which the e
   * Integrates the complex interplay between left atrial driving pressure, active relaxation, and passive viscoelastic compliance.
 
 <figure class="med-figure" id="fig-05-19">
-  <img src="images/fig-05-19.jpg" alt="Fig. 5.1.19: Color M-mode flow propagation velocity ($V_p$). (**A**) Cursor aligned across transmitral color inflow in a" class="med-image" loading="lazy" />
+  <img src="images/fig-05-19.jpg" alt="Fig. 5.1.19: Color M-mode flow propagation velocity" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.19: Color M-mode flow propagation velocity ($V_p$). (**A**) Cursor aligned across transmitral color inflow in apical 4-chamber view; (**B**) Measurement of the slope of the first aliasing velocity contour.</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-05-20">
-  <img src="images/fig-05-20.jpg" alt="Fig. 5.1.20: Schematic representation of normal rapid flow propagation into the LV apex versus marked deceleration ($V_p" class="med-image" loading="lazy" />
-  <figcaption class="med-caption">Fig. 5.1.20: Schematic representation of normal rapid flow propagation into the LV apex versus marked deceleration ($V_p</figcaption>
-</figure>< 45\text{ cm/s}$) in impaired relaxation.
+  <img src="images/fig-05-20.jpg" alt="Fig. 5.1.20: Schematic representation of normal rapid flow propagation into the LV apex versus marked deceleration" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 5.1.20: Schematic representation of normal rapid flow propagation into the LV apex versus marked deceleration ($V_p < 45\text{ cm/s}$) in impaired relaxation.</figcaption>
+</figure>
 
 <figure class="med-figure" id="fig-05-21">
-  <img src="images/fig-05-21.jpg" alt="Fig. 5.1.21: Color M-mode recordings of flow propagation velocity: (**A**) Normal subject ($V_p = 68\text{ cm/s}$); (**B" class="med-image" loading="lazy" />
+  <img src="images/fig-05-21.jpg" alt="Fig. 5.1.21: Color M-mode recordings of flow propagation velocity" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.21: Color M-mode recordings of flow propagation velocity: (**A**) Normal subject ($V_p = 68\text{ cm/s}$); (**B**) Patient with diastolic dysfunction showing delayed propagation ($V_p = 32\text{ cm/s}$).</figcaption>
 </figure>
 
 <figure class="med-figure" id="fig-05-22">
-  <img src="images/fig-05-22.jpg" alt="Fig. 5.1.22: Conceptual diagram illustrating the physiological interplay between left atrial pressure, active myocardial" class="med-image" loading="lazy" />
+  <img src="images/fig-05-22.jpg" alt="Fig. 5.1.22: Conceptual diagram illustrating the physiological interplay between left atrial pressure, active myocardial relaxation, and ventricular chamber compliance" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.22: Conceptual diagram illustrating the physiological interplay between left atrial pressure, active myocardial relaxation, and ventricular chamber compliance.</figcaption>
 </figure>
 
@@ -500,7 +500,7 @@ In patients with preserved LVEF ($\ge 50\%$), the primary clinical question is w
   * **Indeterminate:** If exactly $2$ criteria are positive and $2$ are negative.
 
 <figure class="med-figure" id="fig-05-23">
-  <img src="images/fig-05-23.jpg" alt="Fig. 5.1.23: EACVI/ASE diagnostic scheme for determining the presence and severity of LV diastolic dysfunction in patien" class="med-image" loading="lazy" />
+  <img src="images/fig-05-23.jpg" alt="Fig. 5.1.23: EACVI/ASE diagnostic scheme for determining the presence and severity of LV diastolic dysfunction in patients with normal LVEF" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.23: EACVI/ASE diagnostic scheme for determining the presence and severity of LV diastolic dysfunction in patients with normal LVEF (STEP 1).</figcaption>
 </figure>
 
@@ -527,7 +527,7 @@ In patients with reduced LVEF ($< 50\%$) or proven structural heart disease, dia
     * *If only $1$ criterion is evaluable or contradictory:* $\rightarrow$ Indeterminate.
 
 <figure class="med-figure" id="fig-05-24">
-  <img src="images/fig-05-24.jpg" alt="Fig. 5.1.24: EACVI/ASE diagnostic algorithm for grading LV filling pressure and diastolic dysfunction severity in patien" class="med-image" loading="lazy" />
+  <img src="images/fig-05-24.jpg" alt="Fig. 5.1.24: EACVI/ASE diagnostic algorithm for grading LV filling pressure and diastolic dysfunction severity in patients with depressed LVEF or myocardial disease" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.24: EACVI/ASE diagnostic algorithm for grading LV filling pressure and diastolic dysfunction severity in patients with depressed LVEF or myocardial disease (STEP 2).</figcaption>
 </figure>
 
@@ -558,7 +558,7 @@ Standard parameters require modified thresholds in specific clinical settings ([
    * *Restriction:* Displays uniformly severely depressed annular velocities (septal and lateral $e' < 4\text{ cm/s}$) and marked hepatic vein diastolic flow reversal on inspiration.
 
 <figure class="med-figure" id="fig-05-25">
-  <img src="images/fig-05-25.jpg" alt="Fig. 5.1.25: Specific diagnostic algorithms for evaluating LV filling pressures in special populations: atrial fibrillat" class="med-image" loading="lazy" />
+  <img src="images/fig-05-25.jpg" alt="Fig. 5.1.25: Specific diagnostic algorithms for evaluating LV filling pressures in special populations" class="med-image" loading="lazy" />
   <figcaption class="med-caption">Fig. 5.1.25: Specific diagnostic algorithms for evaluating LV filling pressures in special populations: atrial fibrillation, mitral valve pathology, and hypertrophic cardiomyopathy.</figcaption>
 </figure>
 
