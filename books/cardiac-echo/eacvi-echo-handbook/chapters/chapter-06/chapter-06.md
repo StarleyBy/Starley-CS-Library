@@ -1,6 +1,8 @@
 # Chapter 6. Ischaemic Cardiac Disease (ICD)
 
-<details class="med-details" open><summary>📌 Executive Summary: Echocardiography in Ischaemic Heart Disease</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## Executive Summary</summary><div class="details-content">
 Echocardiography represents the premier first-line diagnostic and risk-stratification modality in acute coronary syndromes (ACS), acute myocardial infarction (AMI), and chronic ischaemic heart disease.
 
 ### Key Clinical Objectives
@@ -15,7 +17,9 @@ Echocardiography represents the premier first-line diagnostic and risk-stratific
 3. **Prognostic Stratification in Chronic ICD**: Long-term risk profiling based on $\text{LVEF} < 25\%$, $\text{WMSI} \ge 1.7$, restrictive diastolic filling ($E/e' > 15$, $e' < 3\text{ cm/s}$), significant functional mitral regurgitation ($\text{EROA} \ge 0.20\text{ cm}^2$), RV dysfunction ($\text{TAPSE} < 14\text{ mm}$, $\text{FAC} < 32\%$), and assessment of myocardial viability vs. scar (wall thickness $< 5\text{ mm}$).
 </div></details>
 
-<details class="med-details"><summary>6.0 Introduction: Role of Echocardiography in ICD</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 6.0 Introduction: Role of Echocardiography in ICD</summary><div class="details-content">
 ### Diagnostic Value of Echocardiography
 In patients presenting with acute chest pain, echocardiography provides immediate confirmation or exclusion of myocardial ischaemia, regional necrosis, or alternative catastrophic aetiologies (e.g. acute aortic dissection, acute massive pulmonary embolism, pericardial tamponade).
 
@@ -47,7 +51,9 @@ $$\text{WMSI} = \frac{\sum \text{Segment Scores}}{\text{Number of Visualized Seg
 - Normal regional wall motion does not completely exclude non-ST-elevation ACS with transient ischaemia, tiny subendocardial necroses, or high-risk unstable angina.
 </div></details>
 
-<details class="med-details"><summary>6.1 Assessment of Acute Myocardial Infarction (AMI) & Risk Stratification</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 6.1 Assessment of Acute Myocardial Infarction (AMI) & Risk Stratification</summary><div class="details-content">
 ### Echocardiographic Stratification of Post-MI Risk
 Immediate bedside echocardiography identifies patients at high risk of in-hospital cardiogenic shock, malignant ventricular arrhythmias, and long-term heart failure.
 
@@ -60,8 +66,10 @@ Immediate bedside echocardiography identifies patients at high risk of in-hospit
 - **Left Ventricular $dP/dt$**:
   - Measured from the continuous-wave (CW) Doppler spectrum of mitral regurgitation ($dP/dt < 1000\text{ mmHg/s}$ indicates severe contractile impairment).
 
-<span id="fig-06-01"></span>![](fig-06-01.jpg)
-*Fig. 6.1.1 (A) 2D Simpson discs method to assess LV volumes and EF; (B) LV volumes and EF with 3D echocardiography; (C) Global longitudinal strain (GLS) bull's-eye map showing apical and anterior strain impairment.*
+<figure class="med-figure" id="fig-06-01">
+  <img src="images/fig-06-01.jpg" alt="Fig. 6.1.1: (A) 2D Simpson discs method to assess LV volumes and EF; (B) LV volumes and EF with 3D echocardiography; (C)" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 6.1.1: (A) 2D Simpson discs method to assess LV volumes and EF; (B) LV volumes and EF with 3D echocardiography; (C) Global longitudinal strain (GLS) bull's-eye map showing apical and anterior strain impairment.</figcaption>
+</figure>
 
 #### Cavity Dimensions and Post-Infarction Remodelling
 - **Early Infarct Expansion**:
@@ -77,7 +85,9 @@ Immediate bedside echocardiography identifies patients at high risk of in-hospit
   - A restrictive filling pattern ($E/A \ge 2.0$, deceleration time $< 140\text{ ms}$, elevated $E/e' > 15$), especially if persistent after preload reduction or during Valsalva manoeuvre, indicates markedly elevated LV end-diastolic pressure and portends a dismal prognosis.
 </div></details>
 
-<details class="med-details"><summary>6.2 Mechanical and Hemodynamic Complications of AMI</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 6.2 Mechanical and Hemodynamic Complications of AMI</summary><div class="details-content">
 Mechanical complications of AMI typically occur within the first 2 to 7 days (or up to 2 weeks) following the index ischaemic event. They carry catastrophic mortality rates without emergent surgical or catheter-based intervention.
 
 ---
@@ -92,8 +102,10 @@ Mechanical complications of AMI typically occur within the first 2 to 7 days (or
   - Frequent site of intra-aneurysmal blood stasis and mural thrombus formation.
 - **Prognosis**: Associated with high 3-year mortality (~60%), recurrent heart failure, and refractory ventricular tachyarrhythmias originating from the peri-infarct border zone.
 
-<span id="fig-06-02"></span>![](fig-06-02.jpg)
-*Fig. 6.2.1 Transthoracic echocardiogram (TTE) apical 4-chamber view demonstrating a large apical aneurysm with a protruding apical mural thrombus (arrow).*
+<figure class="med-figure" id="fig-06-02">
+  <img src="images/fig-06-02.jpg" alt="Fig. 6.2.1: Transthoracic echocardiogram (TTE) apical 4-chamber view demonstrating a large apical aneurysm with a protru" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 6.2.1: Transthoracic echocardiogram (TTE) apical 4-chamber view demonstrating a large apical aneurysm with a protruding apical mural thrombus (arrow).</figcaption>
+</figure>
 
 ---
 
@@ -112,8 +124,10 @@ Mechanical complications of AMI typically occur within the first 2 to 7 days (or
 | **Doppler Flow Profile** | Low-velocity swirling or forward flow | High-velocity turbulent to-and-fro flow through the narrow neck |
 | **PW Doppler Spectrum** | Monophasic or blunted low velocities | Biphasic: systolic flow into the pouch and diastolic return flow |
 
-<span id="fig-06-03"></span>![](fig-06-03.jpg)
-*Fig. 6.2.2 TTE modified 4-chamber view with ultrasound contrast opacification demonstrating a pseudoaneurysm of the lateral wall with a narrow neck communication (arrow).*
+<figure class="med-figure" id="fig-06-03">
+  <img src="images/fig-06-03.jpg" alt="Fig. 6.2.2: TTE modified 4-chamber view with ultrasound contrast opacification demonstrating a pseudoaneurysm of the lat" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 6.2.2: TTE modified 4-chamber view with ultrasound contrast opacification demonstrating a pseudoaneurysm of the lateral wall with a narrow neck communication (arrow).</figcaption>
+</figure>
 
 ---
 
@@ -128,8 +142,10 @@ Mechanical complications of AMI typically occur within the first 2 to 7 days (or
   - Use of high-frequency transducers, focal depth adjustment, and low-scale color Doppler (to reveal a distinct filling defect).
   - Ultrasound contrast agents (LV opacification) dramatically enhance diagnostic certainty by delineating the endocardial boundary and confirming avascularity.
 
-<span id="fig-06-04"></span>![](fig-06-04.jpg)
-*Fig. 6.2.3 3D TTE 4-chamber reconstruction showing a prominent, protruding apical thrombus within an akinetic apex.*
+<figure class="med-figure" id="fig-06-04">
+  <img src="images/fig-06-04.jpg" alt="Fig. 6.2.3: 3D TTE 4-chamber reconstruction showing a prominent, protruding apical thrombus within an akinetic apex." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 6.2.3: 3D TTE 4-chamber reconstruction showing a prominent, protruding apical thrombus within an akinetic apex.</figcaption>
+</figure>
 
 ---
 
@@ -144,8 +160,10 @@ Mechanical complications of AMI typically occur within the first 2 to 7 days (or
     - Massive acute MR causes rapid equalization of LV and LA pressures in a non-compliant atrium, blunting the peak systolic gradient and jet velocity.
   - Transoesophageal echocardiography (TOE) is indispensable when TTE image quality is suboptimal or when flail papillary muscle heads are suspected.
 
-<span id="fig-06-05"></span>![](fig-06-05.jpg)
-*Fig. 6.2.4 Schematic illustration of the primary pathophysiological mechanisms of ischaemic mitral regurgitation: localized annular and wall dilatation with tethering, complete/partial papillary muscle rupture, and generalized ventricular dilatation.*
+<figure class="med-figure" id="fig-06-05">
+  <img src="images/fig-06-05.jpg" alt="Fig. 6.2.4: Schematic illustration of the primary pathophysiological mechanisms of ischaemic mitral regurgitation: local" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 6.2.4: Schematic illustration of the primary pathophysiological mechanisms of ischaemic mitral regurgitation: localized annular and wall dilatation with tethering, complete/partial papillary muscle rupture, and generalized ventricular dilatation.</figcaption>
+</figure>
 
 ---
 
@@ -166,8 +184,10 @@ Mechanical complications of AMI typically occur within the first 2 to 7 days (or
   - Acute catastrophic rupture presents as electromechanical dissociation (PEA) and fatal tamponade.
   - Subacute rupture presents with recurrent chest pain, transient hypotension, pericardial effusion, and pseudoaneurysm formation, allowing life-saving surgical intervention.
 
-<span id="fig-06-06"></span>![](fig-06-06.jpg)
-*Fig. 6.2.5 Transthoracic echocardiographic assessment of post-infarction wall rupture. (A) Apical 3-chamber view demonstrating a free wall rupture site (arrow); (B) Colour Doppler interrogation demonstrating extravasation through the myocardial defect; (C) Subcostal view demonstrating a ventricular septal rupture (VSR); (D) Continuous-wave (CW) Doppler showing high-velocity left-to-right systolic flow through the septal perforation.*
+<figure class="med-figure" id="fig-06-06">
+  <img src="images/fig-06-06.jpg" alt="Fig. 6.2.5: Transthoracic echocardiographic assessment of post-infarction wall rupture. (A) Apical 3-chamber view demons" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 6.2.5: Transthoracic echocardiographic assessment of post-infarction wall rupture. (A) Apical 3-chamber view demonstrating a free wall rupture site (arrow); (B) Colour Doppler interrogation demonstrating extravasation through the myocardial defect; (C) Subcostal view demonstrating a ventricular septal rupture (VSR); (D) Continuous-wave (CW) Doppler showing high-velocity left-to-right systolic flow through the septal perforation.</figcaption>
+</figure>
 
 ---
 
@@ -186,14 +206,20 @@ Mechanical complications of AMI typically occur within the first 2 to 7 days (or
   - Tricuspid regurgitation with **low peak systolic velocity** ($v < 2.5\text{ m/s}$), reflecting RV systolic failure rather than severe pulmonary hypertension.
   - Pulmonary regurgitation with steep pressure half-time (PHT) on CW Doppler, indicative of rapid equilibration of PA diastolic pressure with elevated RV end-diastolic pressure.
 
-<span id="fig-06-07"></span>![](fig-06-07.jpg)
-*Fig. 6.2.6 TTE 4-chamber view demonstrating marked right ventricular dilatation with an akinetic, thinned RV free wall (arrow).*
+<figure class="med-figure" id="fig-06-07">
+  <img src="images/fig-06-07.jpg" alt="Fig. 6.2.6: TTE 4-chamber view demonstrating marked right ventricular dilatation with an akinetic, thinned RV free wall " class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 6.2.6: TTE 4-chamber view demonstrating marked right ventricular dilatation with an akinetic, thinned RV free wall (arrow).</figcaption>
+</figure>
 
-<span id="fig-06-08"></span>![](fig-06-08.jpg)
-*Fig. 6.2.7 Continuous-wave (CW) Doppler spectrum of tricuspid regurgitation in acute RV infarction, showing a blunted peak velocity ($< 2.5\text{ m/s}$) reflecting low RV systolic pressure generation.*
+<figure class="med-figure" id="fig-06-08">
+  <img src="images/fig-06-08.jpg" alt="Fig. 6.2.7: Continuous-wave (CW) Doppler spectrum of tricuspid regurgitation in acute RV infarction, showing a blunted p" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 6.2.7: Continuous-wave (CW) Doppler spectrum of tricuspid regurgitation in acute RV infarction, showing a blunted peak velocity ($< 2.5\text{ m/s}$) reflecting low RV systolic pressure generation.</figcaption>
+</figure>
 
-<span id="fig-06-09"></span>![](fig-06-09.jpg)
-*Fig. 6.2.8 Continuous-wave (CW) Doppler recording of pulmonary regurgitation demonstrating a rapid deceleration slope and steep PHT, indicative of severely elevated RV end-diastolic filling pressure.*
+<figure class="med-figure" id="fig-06-09">
+  <img src="images/fig-06-09.jpg" alt="Fig. 6.2.8: Continuous-wave (CW) Doppler recording of pulmonary regurgitation demonstrating a rapid deceleration slope a" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 6.2.8: Continuous-wave (CW) Doppler recording of pulmonary regurgitation demonstrating a rapid deceleration slope and steep PHT, indicative of severely elevated RV end-diastolic filling pressure.</figcaption>
+</figure>
 
 ---
 
@@ -210,11 +236,15 @@ Mechanical complications of AMI typically occur within the first 2 to 7 days (or
   - Develops 1 to 12 weeks post-MI.
   - Autoimmune-mediated pleuropericarditis characterized by fever, pleuritic chest pain, polyserositis, and circumferential pericardial effusion.
 
-<span id="fig-06-10"></span>![](fig-06-10.jpg)
-*Fig. 6.2.9 TTE parasternal long-axis view demonstrating a prominent pericardial effusion (arrow) complicating a posterolateral pseudoaneurysm.*
+<figure class="med-figure" id="fig-06-10">
+  <img src="images/fig-06-10.jpg" alt="Fig. 6.2.9: TTE parasternal long-axis view demonstrating a prominent pericardial effusion (arrow) complicating a postero" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 6.2.9: TTE parasternal long-axis view demonstrating a prominent pericardial effusion (arrow) complicating a posterolateral pseudoaneurysm.</figcaption>
+</figure>
 </div></details>
 
-<details class="med-details"><summary>6.3 Determinants of Prognosis in Chronic ICD</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 6.3 Determinants of Prognosis in Chronic ICD</summary><div class="details-content">
 ### Echocardiographic Predictors of Adverse Long-Term Outcome
 In patients with established chronic ischaemic heart disease and prior myocardial infarction, comprehensive echocardiography provides indispensable parameters for risk stratification, device therapy selection (ICD/CRT), and revascularization planning.
 
@@ -242,10 +272,3 @@ In patients with established chronic ischaemic heart disease and prior myocardia
 - **Contrast Echocardiography**: Perfusion defect assessment to confirm microvascular integrity and exclude no-reflow phenomenon.
 </div></details>
 
-<details class="med-details"><summary>Suggested Reading & References</summary><div class="details-content">
-1. Wu J, You J, Jiang G, et al. Noninvasive estimation of infarct size in a mouse model of myocardial infarction by echocardiographic coronary perfusion. *J Ultrasound Med* 2012;**31**:1111–21.
-2. Verma A, Pfeffer MA, Skali H, et al. Incremental value of echocardiographic assessment beyond clinical evaluation for prediction of death and development of heart failure after high-risk myocardial infarction. *Am Heart J* 2011;**161**:1156–62.
-3. Ruiz-Bailén M, Romero-Bermejo FJ, Ramos-Cuadra JÁ, et al. Evaluation of the performance of echocardiography in acute coronary syndrome patients during their stay in coronary units. *Acute Card Care* 2011;**13**:21–9.
-4. Lancellotti P, Price S, Edvardsen T, et al. The EACVI Echo Handbook. Oxford University Press, 2016.
-5. Lang RM, Badano LP, Mor-Avi V, et al. Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the ASE and EACVI. *Eur Heart J Cardiovasc Imaging* 2015;**16**:233–271.
-</div></details>

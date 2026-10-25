@@ -1,6 +1,8 @@
 # Chapter 12. Critically Ill Patients
 
-<details class="med-details" open><summary>📌 Executive Summary: Critical Care Echocardiography & Multimodal Ultrasound in the ICU</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## Executive Summary</summary><div class="details-content">
 Point-of-Care Ultrasound (POCUS) and comprehensive critical care echocardiography (CCE) provide bedside, real-time hemodynamic characterization and rapid differential diagnosis in the intensive care unit (ICU) and emergency department.
 
 ### Core Clinical Objectives
@@ -22,12 +24,16 @@ Point-of-Care Ultrasound (POCUS) and comprehensive critical care echocardiograph
 5. **Mechanical Circulatory Support (MCS)**: Monitoring left ventricular assist devices (LVAD: cannula alignment, suction events, septal position, aortic valve opening) and extracorporeal membrane oxygenation (VA/VV ECMO).
 </div></details>
 
-<details class="med-details"><summary>12.1 Differential Diagnosis of Acute Dyspnoea & Lung Ultrasound</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 12.1 Differential Diagnosis of Acute Dyspnoea & Lung Ultrasound</summary><div class="details-content">
 ### The Integrated Lung Ultrasound Protocol
 Lung ultrasound (LUS) has revolutionized bedside assessment of acute respiratory failure, outperforming supine chest radiography for pulmonary edema, pneumonia, pneumothorax, and pleural effusion.
 
-<span id="fig-12-01"></span>![](fig-12-01.jpg)
-*Fig. 12.1.2 Lung ultrasound B-lines ("lung rockets") indicating alveolar-interstitial syndrome.*
+<figure class="med-figure" id="fig-12-01">
+  <img src="images/fig-12-01.jpg" alt="Fig. 12.1.2: Lung ultrasound B-lines (lung rockets) indicating alveolar-interstitial syndrome." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 12.1.2: Lung ultrasound B-lines ("lung rockets") indicating alveolar-interstitial syndrome.</figcaption>
+</figure>
 
 ### Table 12.1.1 Main Causes of Acute Dyspnoea on Integrated Cardiopulmonary Ultrasound
 | Clinical Condition | Lung Ultrasound Findings | Echocardiographic Findings |
@@ -39,26 +45,40 @@ Lung ultrasound (LUS) has revolutionized bedside assessment of acute respiratory
 | **Pulmonary Embolism** | Normal aeration pattern (A-lines) or peripheral triangular subpleural infarcts; absence of pulmonary edema | Acute RV pressure overload: dilated RV, McConnell's sign, 60/60 sign, TR jet $> 2.8\text{ m/s}$, McConnell sign, mobile in-transit thrombi |
 | **COPD / Asthma Exacerbation** | Pure A-lines with preserved lung sliding; absence of significant B-lines (dry lung) | RV hypertrophy or dilation secondary to chronic cor pulmonale; normal LV filling pressures |
 
-<span id="fig-12-02"></span>![](fig-12-02.jpg)
-*Fig. 12.1.3 Lung ultrasound appearance of ARDS: inhomogeneous B-lines with subpleural consolidations and pleural line irregularities.*
+<figure class="med-figure" id="fig-12-02">
+  <img src="images/fig-12-02.jpg" alt="Fig. 12.1.3: Lung ultrasound appearance of ARDS: inhomogeneous B-lines with subpleural consolidations and pleural line i" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 12.1.3: Lung ultrasound appearance of ARDS: inhomogeneous B-lines with subpleural consolidations and pleural line irregularities.</figcaption>
+</figure>
 
-<span id="fig-12-03"></span>![](fig-12-03.jpg)
-*Fig. 12.1.5 The Lung Point: sonographic transition between normal lung sliding and absence of sliding, pathognomonic of pneumothorax.*
+<figure class="med-figure" id="fig-12-03">
+  <img src="images/fig-12-03.jpg" alt="Fig. 12.1.5: The Lung Point: sonographic transition between normal lung sliding and absence of sliding, pathognomonic of" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 12.1.5: The Lung Point: sonographic transition between normal lung sliding and absence of sliding, pathognomonic of pneumothorax.</figcaption>
+</figure>
 
-<span id="fig-12-04"></span>![](fig-12-04.jpg)
-*Fig. 12.1.4 Sonographic flowchart to systematically rule in or rule out pneumothorax.*
+<figure class="med-figure" id="fig-12-04">
+  <img src="images/fig-12-04.jpg" alt="Fig. 12.1.4: Sonographic flowchart to systematically rule in or rule out pneumothorax." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 12.1.4: Sonographic flowchart to systematically rule in or rule out pneumothorax.</figcaption>
+</figure>
 
-<span id="fig-12-05"></span>![](fig-12-05.jpg)
-*Fig. 12.1.6 Subpleural consolidation with irregular margins.*
+<figure class="med-figure" id="fig-12-05">
+  <img src="images/fig-12-05.jpg" alt="Fig. 12.1.6: Subpleural consolidation with irregular margins." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 12.1.6: Subpleural consolidation with irregular margins.</figcaption>
+</figure>
 
-<span id="fig-12-06"></span>![](fig-12-06.jpg)
-*Fig. 12.1.7 Large, mobile serpentine thrombus in transit within the right atrium.*
+<figure class="med-figure" id="fig-12-06">
+  <img src="images/fig-12-06.jpg" alt="Fig. 12.1.7: Large, mobile serpentine thrombus in transit within the right atrium." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 12.1.7: Large, mobile serpentine thrombus in transit within the right atrium.</figcaption>
+</figure>
 
-<span id="fig-12-07"></span>![](fig-12-07.jpg)
-*Fig. 12.1.8 Peripheral wedge-shaped pleural-based consolidation characteristic of pulmonary infarction in PE.*
+<figure class="med-figure" id="fig-12-07">
+  <img src="images/fig-12-07.jpg" alt="Fig. 12.1.8: Peripheral wedge-shaped pleural-based consolidation characteristic of pulmonary infarction in PE." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 12.1.8: Peripheral wedge-shaped pleural-based consolidation characteristic of pulmonary infarction in PE.</figcaption>
+</figure>
 </div></details>
 
-<details class="med-details"><summary>12.2 Focused Ultrasound Approach to Shock & Hypotension</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 12.2 Focused Ultrasound Approach to Shock & Hypotension</summary><div class="details-content">
 ### Diagnostic Protocol for Circulatory Failure
 
 ### Table 12.1.2 Focused Integrated Ultrasound Approach to Shock / Hypotension
@@ -70,11 +90,15 @@ Lung ultrasound (LUS) has revolutionized bedside assessment of acute respiratory
 | **Obstructive: Massive PE** | Small, underfilled, hyperdynamic, D-shaped (systolic/diastolic shift) | Severely dilated, akinetic free wall with apical sparing (McConnell's sign) | Plethoric ($> 21\text{ mm}$), non-collapsible | Normal (A-lines) or subpleural wedge consolidation | McConnell's sign, 60/60 sign, in-transit thrombi |
 | **Distributive (Septic)** | Hyperdynamic or transient septic cardiomyopathy (depressed LVEF) | Normal, hyperdynamic, or dilated | Variable (often collapsible prior to fluid resuscitation) | Variable (diffuse B-lines if concomitant ARDS or pneumonia) | Source of sepsis (pneumonia, empyema, cholecystitis) |
 
-<span id="fig-12-08"></span>![](fig-12-08.jpg)
-*Fig. 12.1.9 Circumferential pericardial effusion with right ventricular collapse in obstructive shock.*
+<figure class="med-figure" id="fig-12-08">
+  <img src="images/fig-12-08.jpg" alt="Fig. 12.1.9: Circumferential pericardial effusion with right ventricular collapse in obstructive shock." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 12.1.9: Circumferential pericardial effusion with right ventricular collapse in obstructive shock.</figcaption>
+</figure>
 
-<span id="fig-12-09"></span>![](fig-12-09.jpg)
-*Fig. 12.1.10 M-mode recording demonstrating right ventricular early-diastolic collapse pathognomonic of cardiac tamponade.*
+<figure class="med-figure" id="fig-12-09">
+  <img src="images/fig-12-09.jpg" alt="Fig. 12.1.10: M-mode recording demonstrating right ventricular early-diastolic collapse pathognomonic of cardiac tampona" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 12.1.10: M-mode recording demonstrating right ventricular early-diastolic collapse pathognomonic of cardiac tamponade.</figcaption>
+</figure>
 
 ### Volume Responsiveness in the Mechanically Ventilated Patient
 In patients receiving positive pressure mechanical ventilation without spontaneous breathing efforts:
@@ -89,7 +113,9 @@ In patients receiving positive pressure mechanical ventilation without spontaneo
   A $\Delta \text{VTI}_{\text{LVOT}} > 12\text{--}15\%$ indicates that stroke volume is preload-dependent.
 </div></details>
 
-<details class="med-details"><summary>12.3 Focused Protocols in Cardiorespiratory Arrest (FEEL / FOCUS)</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 12.3 Focused Protocols in Cardiorespiratory Arrest (FEEL / FOCUS)</summary><div class="details-content">
 ### Ultrasound During Cardiopulmonary Resuscitation (CPR)
 Focused Echocardiographic Evaluation in Life support (FEEL) integrates ultrasound into standard ACLS algorithms:
 - **Timing**: Image acquisition must be performed strictly within the scheduled **$10\text{-second}$ pulse check window** between chest compression cycles. Chest compressions must never be delayed or prolonged for imaging.
@@ -110,7 +136,9 @@ Focused Echocardiographic Evaluation in Life support (FEEL) integrates ultrasoun
 | **BLUE** (Bedside Lung Ultrasound in Emergency) | Acute respiratory failure | Algorithmic lung ultrasound profiles (A-profile, B-profile, C-profile, PLAPS) |
 </div></details>
 
-<details class="med-details"><summary>12.4 Echocardiography in Mechanical Circulatory Support (LVAD & ECMO)</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 12.4 Echocardiography in Mechanical Circulatory Support (LVAD & ECMO)</summary><div class="details-content">
 ### Left Ventricular Assist Devices (LVAD)
 Continuous-flow left ventricular assist devices (HeartMate II/III, HeartWare) require systematic echocardiographic monitoring:
 - **Inflow Cannula Alignment**: Evaluated in apical views. The cannula should be oriented strictly toward the center of the LV cavity and aligned parallel to the long-axis of the ventricle, avoiding abutment against the interventricular septum or lateral free wall.
@@ -121,21 +149,18 @@ Continuous-flow left ventricular assist devices (HeartMate II/III, HeartWare) re
 - **Aortic Valve Dynamics**: Aortic valve opening should be evaluated on M-mode. Complete permanent closure of the aortic valve promotes cusp fusion, leaflet thrombosis, and progressive secondary aortic regurgitation. Ideally, the valve should open intermittently (every $2\text{ to }3$ beats).
 - **De novo Aortic Regurgitation**: Closed-loop regurgitant volume circulating from the outflow graft back through the aortic valve into the LVAD inflow diminishes systemic net cardiac output.
 
-<span id="fig-12-10"></span>![](fig-12-10.jpg)
-*Fig. 12.1.11 Proper alignment of the LVAD inflow cannula directed into the center of the left ventricular cavity.*
+<figure class="med-figure" id="fig-12-10">
+  <img src="images/fig-12-10.jpg" alt="Fig. 12.1.11: Proper alignment of the LVAD inflow cannula directed into the center of the left ventricular cavity." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 12.1.11: Proper alignment of the LVAD inflow cannula directed into the center of the left ventricular cavity.</figcaption>
+</figure>
 
-<span id="fig-12-11"></span>![](fig-12-11.jpg)
-*Fig. 12.1.12 Interventricular septal position in LVAD monitoring: neutral alignment indicating balanced biventricular loading.*
+<figure class="med-figure" id="fig-12-11">
+  <img src="images/fig-12-11.jpg" alt="Fig. 12.1.12: Interventricular septal position in LVAD monitoring: neutral alignment indicating balanced biventricular l" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 12.1.12: Interventricular septal position in LVAD monitoring: neutral alignment indicating balanced biventricular loading.</figcaption>
+</figure>
 
 ### Extracorporeal Membrane Oxygenation (ECMO)
 - **Veno-Arterial (VA) ECMO**: Provides full biventricular and respiratory support. Echocardiography monitors for severe LV distension and afterload overload (due to retrograde femoral arterial flow), intramural stasis, spontaneous echo contrast ("smoke"), aortic valve non-opening, and intracardiac thrombus formation.
 - **Veno-Venous (VV) ECMO**: Provides purely respiratory support in refractory ARDS. Echocardiography ensures correct bicaval cannula placement and monitors for secondary right ventricular failure.
 </div></details>
 
-<details class="med-details"><summary>Suggested Reading & References</summary><div class="details-content">
-1. Lichtenstein DA, Mezière GA. Relevance of lung ultrasound in the diagnosis of acute respiratory failure: the BLUE protocol. *Chest* 2008;**134**:117–125.
-2. Price S, Platz E, Cullen L, et al. Expert consensus document: Echocardiography and lung ultrasonography for the assessment and management of acute heart failure. *Nat Rev Cardiol* 2017;**14**:427–440.
-3. Vieillard-Baron A, Millington SJ, Sanfilippo F, et al. A decade of progress in critical care echocardiography: a narrative review. *Intensive Care Med* 2019;**45**:770–788.
-4. Breitkreutz R, Price S, Steiger HV, et al. Focused echocardiographic evaluation in life support and peri-resuscitation of emergency patients: a prospective trial. *Resuscitation* 2010;**81**:1527–1533.
-5. Lancellotti P, Price S, Edvardsen T, et al. The EACVI Echo Handbook. Oxford University Press, 2016.
-</div></details>

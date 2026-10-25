@@ -1,6 +1,8 @@
 # Chapter 13. Adult Congenital Heart Disease (ACHD)
 
-<details class="med-details" open><summary>📌 Executive Summary: Echocardiography in Adult Congenital Heart Disease</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## Executive Summary</summary><div class="details-content">
 Adult Congenital Heart Disease (ACHD) encompasses an expanding population of patients with either unrepaired native anomalies or complex post-surgical anatomies. Diagnostic echocardiography requires a rigorous sequential segmental approach.
 
 ### Core Clinical Objectives
@@ -25,7 +27,9 @@ Adult Congenital Heart Disease (ACHD) encompasses an expanding population of pat
    - **Fontan Circulation / Single Ventricle**: Total cavopulmonary connection patency, systemic ventricular contractility, and AV valve competence.
 </div></details>
 
-<details class="med-details"><summary>13.1 Sequential Segmental Approach to ACHD</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 13.1 Sequential Segmental Approach to ACHD</summary><div class="details-content">
 ### Step-by-Step Diagnostic Framework
 Complex congenital heart disease must be analyzed using the sequential segmental approach rather than pattern recognition:
 1. **Determination of Visceral & Atrial Situs**:
@@ -45,7 +49,9 @@ Complex congenital heart disease must be analyzed using the sequential segmental
    - Single Outlet (Truncus arteriosus, solitary aortic or pulmonary atresia).
 </div></details>
 
-<details class="med-details"><summary>13.2 Atrial Septal Defect (ASD)</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 13.2 Atrial Septal Defect (ASD)</summary><div class="details-content">
 ### Anatomical Subtypes
 - **Secundum ASD ($75\%$)**: Located in the region of the fossa ovalis in the mid-septum.
 - **Primum ASD ($15\%$)**: Located at the base of the interatrial septum adjacent to the atrioventricular valves; represents a component of partial AV septal defect (AVSD), universally accompanied by a "cleft" in the anterior mitral leaflet.
@@ -54,11 +60,15 @@ Complex congenital heart disease must be analyzed using the sequential segmental
   - Inferior vena cava (IVC) type: Located at the junction of the IVC and right atrium.
 - **Coronary Sinus Defect ($< 1\%$)**: Partial or complete unroofing of the tissue bridge separating the coronary sinus from the left atrium.
 
-<span id="fig-13-01"></span>![](fig-13-01.jpg)
-*Fig. 13.1.1 Schematic classification of the four primary anatomical subtypes of atrial septal defect.*
+<figure class="med-figure" id="fig-13-01">
+  <img src="images/fig-13-01.jpg" alt="Fig. 13.1.1: Schematic classification of the four primary anatomical subtypes of atrial septal defect." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 13.1.1: Schematic classification of the four primary anatomical subtypes of atrial septal defect.</figcaption>
+</figure>
 
-<span id="fig-13-02"></span>![](fig-13-02.jpg)
-*Fig. 13.1.2 Subcostal long-axis 4-chamber view of a secundum atrial septal defect.*
+<figure class="med-figure" id="fig-13-02">
+  <img src="images/fig-13-02.jpg" alt="Fig. 13.1.2: Subcostal long-axis 4-chamber view of a secundum atrial septal defect." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 13.1.2: Subcostal long-axis 4-chamber view of a secundum atrial septal defect.</figcaption>
+</figure>
 
 ### Transoesophageal Echocardiography (TOE) Rim Evaluation for Device Closure
 Percutaneous closure using an Amplatzer or similar septal occluder requires adequate circumferential tissue rims ($\ge 5\text{ mm}$):
@@ -68,31 +78,45 @@ Percutaneous closure using an Amplatzer or similar septal occluder requires adeq
 - **Posterior Rim**: Between defect and posterior atrial wall ($0\text{--}45^\circ$; must be $\ge 5\text{ mm}$).
 - **AV Valve (Anteroinferior) Rim**: Between defect and mitral/tricuspid annuli ($0\text{--}30^\circ$; must be $\ge 5\text{ mm}$ to prevent device impingement on AV valves).
 
-<span id="fig-13-07"></span>![](fig-13-07.jpg)
-*Fig. 13.1.7 Transoesophageal echocardiographic multiplane sizing and rim assessment of secundum ASD.*
+<figure class="med-figure" id="fig-13-07">
+  <img src="images/fig-13-07.jpg" alt="Fig. 13.1.7: Transoesophageal echocardiographic multiplane sizing and rim assessment of secundum ASD." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 13.1.7: Transoesophageal echocardiographic multiplane sizing and rim assessment of secundum ASD.</figcaption>
+</figure>
 
-<span id="fig-13-13"></span>![](fig-13-13.jpg)
-*Fig. 13.1.13 Successful transcatheter deployment of an ASD occluder device.*
+<figure class="med-figure" id="fig-13-13">
+  <img src="images/fig-13-13.jpg" alt="Fig. 13.1.13: Successful transcatheter deployment of an ASD occluder device." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 13.1.13: Successful transcatheter deployment of an ASD occluder device.</figcaption>
+</figure>
 
-<span id="fig-13-14"></span>![](fig-13-14.jpg)
-*Fig. 13.1.14 Sinus venosus ASD with anomalous drainage of the right upper pulmonary vein into the superior vena cava.*
+<figure class="med-figure" id="fig-13-14">
+  <img src="images/fig-13-14.jpg" alt="Fig. 13.1.14: Sinus venosus ASD with anomalous drainage of the right upper pulmonary vein into the superior vena cava." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 13.1.14: Sinus venosus ASD with anomalous drainage of the right upper pulmonary vein into the superior vena cava.</figcaption>
+</figure>
 </div></details>
 
-<details class="med-details"><summary>13.3 Ventricular Septal Defect (VSD)</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 13.3 Ventricular Septal Defect (VSD)</summary><div class="details-content">
 ### Anatomical Classification
 - **Perimembranous VSD ($80\%$)**: Located in the membranous septum beneath the aortic valve and adjacent to the septal leaflet of the tricuspid valve. Frequently associated with tissue tags forming a "windsock" aneurysm of the membranous septum, promoting spontaneous partial or complete closure.
 - **Muscular VSD ($5\text{--}15\%$)**: Completely encircled by myocardium; classified by location into apical, mid-muscular, anterior, or posterior.
 - **Inlet VSD (AV Canal Type, $5\%$)**: Located posterior and inferior to the membranous septum beneath the tricuspid and mitral annuli.
 - **Outlet / Doubly-Committed Subarterial VSD ($5\%$, higher in East Asian populations)**: Located beneath both the aortic and pulmonary valves in the infundibular septum. Absence of subaortic muscular support frequently leads to herniation/prolapse of the right coronary aortic cusp into the defect, causing progressive aortic regurgitation.
 
-<span id="fig-13-17"></span>![](fig-13-17.jpg)
-*Fig. 13.1.17 Schematic representation of ventricular septal defect subtypes.*
+<figure class="med-figure" id="fig-13-17">
+  <img src="images/fig-13-17.jpg" alt="Fig. 13.1.17: Schematic representation of ventricular septal defect subtypes." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 13.1.17: Schematic representation of ventricular septal defect subtypes.</figcaption>
+</figure>
 
-<span id="fig-13-18"></span>![](fig-13-18.jpg)
-*Fig. 13.1.18 Parasternal long-axis view showing a perimembranous ventricular septal defect with left-to-right shunt.*
+<figure class="med-figure" id="fig-13-18">
+  <img src="images/fig-13-18.jpg" alt="Fig. 13.1.18: Parasternal long-axis view showing a perimembranous ventricular septal defect with left-to-right shunt." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 13.1.18: Parasternal long-axis view showing a perimembranous ventricular septal defect with left-to-right shunt.</figcaption>
+</figure>
 
-<span id="fig-13-24"></span>![](fig-13-24.jpg)
-*Fig. 13.1.24 Doubly-committed subarterial VSD with associated aortic cusp prolapse.*
+<figure class="med-figure" id="fig-13-24">
+  <img src="images/fig-13-24.jpg" alt="Fig. 13.1.24: Doubly-committed subarterial VSD with associated aortic cusp prolapse." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 13.1.24: Doubly-committed subarterial VSD with associated aortic cusp prolapse.</figcaption>
+</figure>
 
 ### Hemodynamic Calculation:
 $$\text{RVSP} = \text{SBP} - 4 \times v_{\text{VSD}}^2$$
@@ -100,7 +124,9 @@ $$\text{RVSP} = \text{SBP} - 4 \times v_{\text{VSD}}^2$$
 - A low-velocity bidirectional or right-to-left jet denotes a non-restrictive defect with severe pulmonary hypertension (Eisenmenger syndrome).
 </div></details>
 
-<details class="med-details"><summary>13.4 Coarctation of the Aorta (CoA) & Patent Ductus Arteriosus (PDA)</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 13.4 Coarctation of the Aorta (CoA) & Patent Ductus Arteriosus (PDA)</summary><div class="details-content">
 ### Coarctation of the Aorta (CoA)
 - **Anatomy**: Discrete shelf-like narrowing of the proximal descending thoracic aorta, immediately distal to the origin of the left subclavian artery at the site of ductus arteriosus insertion.
 - **Associated Lesions**: Congenital bicuspid aortic valve ($50\text{--}70\%$), ascending aortic aneurysms, ventricular septal defect, and intracranial berry aneurysms of the circle of Willis ($10\%$).
@@ -108,15 +134,19 @@ $$\text{RVSP} = \text{SBP} - 4 \times v_{\text{VSD}}^2$$
   - Imaged from the suprasternal notch window.
   - CW Doppler shows high-velocity systolic acceleration followed by persistent forward flow throughout diastole (**diastolic runoff or "sawtooth" pattern**).
 
-<span id="fig-13-28"></span>![](fig-13-28.jpg)
-*Fig. 13.1.28 Suprasternal notch continuous-wave Doppler recording in severe aortic coarctation showing typical "sawtooth" diastolic runoff pattern.*
+<figure class="med-figure" id="fig-13-28">
+  <img src="images/fig-13-28.jpg" alt="Fig. 13.1.28: Suprasternal notch continuous-wave Doppler recording in severe aortic coarctation showing typical sawtoot" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 13.1.28: Suprasternal notch continuous-wave Doppler recording in severe aortic coarctation showing typical "sawtooth" diastolic runoff pattern.</figcaption>
+</figure>
 
 ### Patent Ductus Arteriosus (PDA)
 - Imaged from the high left parasternal (ductal) view or parasternal short-axis view at the aortic valve level.
 - Colour flow demonstrates a high-velocity continuous jet entering the main pulmonary artery near the origin of the left pulmonary artery.
 </div></details>
 
-<details class="med-details"><summary>13.5 Complex Congenital Anomalies: Fallot, TGA, Ebstein, Fontan</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 13.5 Complex Congenital Anomalies: Fallot, TGA, Ebstein, Fontan</summary><div class="details-content">
 ### 1. Tetralogy of Fallot (ToF)
 - **Primary Anatomy**: Large malalignment VSD, aortic override ($< 50\%$), right ventricular outflow tract obstruction (subvalvular infundibular and/or valvular PS), and concentric RV hypertrophy.
 - **Late Adult Sequelae Post-Repair**:
@@ -124,8 +154,10 @@ $$\text{RVSP} = \text{SBP} - 4 \times v_{\text{VSD}}^2$$
   - **RV Dilation & Dysfunction**: Progressive RV volume overload; guideline thresholds for pulmonary valve replacement (PVR): indexed $\text{RVEDV} \ge 160\text{ mL/m}^2$, $\text{RVESV} \ge 80\text{ mL/m}^2$, or worsening $\text{RVEF} < 47\%$.
   - Residual RVOT obstruction, residual VSD, and ventricular tachyarrhythmias related to RV surgical scars.
 
-<span id="fig-13-33"></span>![](fig-13-33.jpg)
-*Fig. 13.1.33 Repaired Tetralogy of Fallot demonstrating severe pulmonary regurgitation and right ventricular dilatation.*
+<figure class="med-figure" id="fig-13-33">
+  <img src="images/fig-13-33.jpg" alt="Fig. 13.1.33: Repaired Tetralogy of Fallot demonstrating severe pulmonary regurgitation and right ventricular dilatation" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 13.1.33: Repaired Tetralogy of Fallot demonstrating severe pulmonary regurgitation and right ventricular dilatation.</figcaption>
+</figure>
 
 ### 2. Transposition of the Great Arteries (TGA)
 - **Complete d-TGA (Post-Atrial Switch: Senning / Mustard)**:
@@ -139,8 +171,10 @@ $$\text{RVSP} = \text{SBP} - 4 \times v_{\text{VSD}}^2$$
   - Normal circulation route, but morphological RV permanently supports systemic arterial pressure.
   - Complications: Progressive systemic RV failure, severe systemic tricuspid regurgitation, high incidence of spontaneous complete AV block ($2\%/\text{year}$).
 
-<span id="fig-13-40"></span>![](fig-13-40.jpg)
-*Fig. 13.1.40 Echocardiographic evaluation of transposition of the great arteries.*
+<figure class="med-figure" id="fig-13-40">
+  <img src="images/fig-13-40.jpg" alt="Fig. 13.1.40: Echocardiographic evaluation of transposition of the great arteries." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 13.1.40: Echocardiographic evaluation of transposition of the great arteries.</figcaption>
+</figure>
 
 ### 3. Ebstein's Anomaly
 - **Pathology**: Failure of delamination of the septal and posterior leaflets of the tricuspid valve, resulting in apical displacement into the RV cavity:
@@ -150,8 +184,10 @@ $$\text{RVSP} = \text{SBP} - 4 \times v_{\text{VSD}}^2$$
   - Severe functional tricuspid regurgitation.
   - Associated with Wolff-Parkinson-White (WPW) syndrome ($20\text{--}30\%$) and patent foramen ovale or secundum ASD ($> 50\%$).
 
-<span id="fig-13-44"></span>![](fig-13-44.jpg)
-*Fig. 13.1.44 Apical 4-chamber view of Ebstein's anomaly showing severe apical displacement of the tricuspid valve and massive atrialized right ventricle.*
+<figure class="med-figure" id="fig-13-44">
+  <img src="images/fig-13-44.jpg" alt="Fig. 13.1.44: Apical 4-chamber view of Ebsteins anomaly showing severe apical displacement of the tricuspid valve and m" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 13.1.44: Apical 4-chamber view of Ebstein's anomaly showing severe apical displacement of the tricuspid valve and massive atrialized right ventricle.</figcaption>
+</figure>
 
 ### 4. Fontan Circulation / Single Ventricle
 - Palliative circuit for univentricular hearts (tricuspid atresia, hypoplastic left heart syndrome, double inlet LV):
@@ -159,9 +195,3 @@ $$\text{RVSP} = \text{SBP} - 4 \times v_{\text{VSD}}^2$$
   - Echocardiographic Surveillance: Systemic ventricular systolic and diastolic function, systemic AV valve regurgitation, baffle conduit patency/thrombosis, fenestration patency and gradient, and hepatic vein congestion.
 </div></details>
 
-<details class="med-details"><summary>Suggested Reading & References</summary><div class="details-content">
-1. Baumgartner H, De Backer J, Babu-Narayan SV, et al. 2020 ESC Guidelines for the management of adult congenital heart disease. *Eur Heart J* 2021;**42**:563–645.
-2. Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC Guideline for the management of adults with congenital heart disease. *J Am Coll Cardiol* 2019;**73**:e81–e192.
-3. Silversides CK, Gabriel H, Ballabio B, et al. Canadian Cardiovascular Society 2022 guidelines for the management of adult congenital heart disease. *Can J Cardiol* 2022;**38**:1098–1140.
-4. Lancellotti P, Price S, Edvardsen T, et al. The EACVI Echo Handbook. Oxford University Press, 2016.
-</div></details>

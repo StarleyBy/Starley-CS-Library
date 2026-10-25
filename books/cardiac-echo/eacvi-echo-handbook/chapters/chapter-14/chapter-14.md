@@ -1,6 +1,8 @@
 # Chapter 14. Cardiac Sources of Embolism & Cardiac Masses
 
-<details class="med-details" open><summary>📌 Executive Summary: Cardiac Sources of Embolism & Intracardiac Masses</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## Executive Summary</summary><div class="details-content">
 Echocardiography represents the frontline diagnostic imaging modality for investigating suspected cardiogenic embolism (responsible for $20\text{--}30\%$ of ischemic strokes) and characterizing intracardiac masses.
 
 ### Core Clinical Objectives
@@ -24,11 +26,15 @@ Echocardiography represents the frontline diagnostic imaging modality for invest
    - False tendons in LV cavity, transverse sinus, and hiatal hernia compressing the left atrium.
 </div></details>
 
-<details class="med-details"><summary>14.1 Cardiac Sources of Embolism</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 14.1 Cardiac Sources of Embolism</summary><div class="details-content">
 ### Etiology and Stratification of Embolic Risk
 
-<span id="fig-14-01"></span>![](fig-14-01.jpg)
-*Fig. 14.1 Principal etiologies and anatomical distribution of cardiac sources of embolism.*
+<figure class="med-figure" id="fig-14-01">
+  <img src="images/fig-14-01.jpg" alt="Fig. 14.1: Principal etiologies and anatomical distribution of cardiac sources of embolism." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.1: Principal etiologies and anatomical distribution of cardiac sources of embolism.</figcaption>
+</figure>
 
 ### Left Atrial Appendage (LAA) Evaluation
 In patients presenting with atrial fibrillation or atrial flutter, transoesophageal echocardiography (TOE) is required prior to electrical or pharmacological cardioversion to rule out intracardiac thrombus:
@@ -39,17 +45,25 @@ In patients presenting with atrial fibrillation or atrial flutter, transoesophag
   - Normal peak emptying velocity $> 50\text{ cm/s}$.
   - **LAA Dysfunction**: Peak emptying velocity $< 20\text{--}25\text{ cm/s}$ indicates severe stasis and high risk of thrombus formation.
 
-<span id="fig-14-02"></span>![](fig-14-02.jpg)
-*Fig. 14.1.1 Transoesophageal echocardiogram demonstrating a clean, thrombus-free left atrial appendage prior to cardioversion.*
+<figure class="med-figure" id="fig-14-02">
+  <img src="images/fig-14-02.jpg" alt="Fig. 14.1.1: Transoesophageal echocardiogram demonstrating a clean, thrombus-free left atrial appendage prior to cardiov" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.1.1: Transoesophageal echocardiogram demonstrating a clean, thrombus-free left atrial appendage prior to cardioversion.</figcaption>
+</figure>
 
-<span id="fig-14-03"></span>![](fig-14-03.jpg)
-*Fig. 14.1.2 TOE visualization of a distinct thrombus within the apex of the left atrial appendage.*
+<figure class="med-figure" id="fig-14-03">
+  <img src="images/fig-14-03.jpg" alt="Fig. 14.1.2: TOE visualization of a distinct thrombus within the apex of the left atrial appendage." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.1.2: TOE visualization of a distinct thrombus within the apex of the left atrial appendage.</figcaption>
+</figure>
 
-<span id="fig-14-04"></span>![](fig-14-04.jpg)
-*Fig. 14.1.3 Dense spontaneous echo contrast (SEC) and sludge within the left atrial appendage.*
+<figure class="med-figure" id="fig-14-04">
+  <img src="images/fig-14-04.jpg" alt="Fig. 14.1.3: Dense spontaneous echo contrast (SEC) and sludge within the left atrial appendage." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.1.3: Dense spontaneous echo contrast (SEC) and sludge within the left atrial appendage.</figcaption>
+</figure>
 
-<span id="fig-14-05"></span>![](fig-14-05.jpg)
-*Fig. 14.1.4 Pulsed-wave Doppler assessment demonstrating markedly blunted LAA emptying velocities ($< 20\text{ cm/s}$).*
+<figure class="med-figure" id="fig-14-05">
+  <img src="images/fig-14-05.jpg" alt="Fig. 14.1.4: Pulsed-wave Doppler assessment demonstrating markedly blunted LAA emptying velocities ($< 20\text{ cm/s}$)." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.1.4: Pulsed-wave Doppler assessment demonstrating markedly blunted LAA emptying velocities ($< 20\text{ cm/s}$).</figcaption>
+</figure>
 
 ### Patent Foramen Ovale (PFO) & Atrial Septal Aneurysm (ASA)
 - **Paradoxical Embolism**: Passage of a venous thrombus into the systemic arterial circulation through an interatrial communication.
@@ -61,7 +75,9 @@ In patients presenting with atrial fibrillation or atrial flutter, transoesophag
   - The combination of PFO and ASA carries a synergistic, substantially elevated risk of recurrent cryptogenic stroke.
 </div></details>
 
-<details class="med-details"><summary>14.2 Intracardiac Tumours (Benign & Malignant)</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 14.2 Intracardiac Tumours (Benign & Malignant)</summary><div class="details-content">
 ### Differential Diagnosis of Cardiac Tumours
 
 | Tumour Type | Prevalence / Demographics | Typical Location & Morphology | Echocardiographic Features |
@@ -74,38 +90,58 @@ In patients presenting with atrial fibrillation or atrial flutter, transoesophag
 | **Cardiac Angiosarcoma** | Most common primary malignant tumor | Right Atrium ($> 80\%$) and pericardium | Large, invasive, ill-defined, hemorrhagic mass infiltrating RA free wall, venae cavae, and pericardium; bloody effusion |
 | **Metastatic Tumours** | 20–40× more frequent than primary | Pericardium, myocardium, or right heart cavities | Multiple nodules, pericardial effusion/tamponade, caval extension (renal cell carcinoma via IVC) |
 
-<span id="fig-14-08"></span>![](fig-14-08.jpg)
-*Fig. 14.2.2 Spectrum and relative distribution of benign cardiac tumours.*
+<figure class="med-figure" id="fig-14-08">
+  <img src="images/fig-14-08.jpg" alt="Fig. 14.2.2: Spectrum and relative distribution of benign cardiac tumours." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.2.2: Spectrum and relative distribution of benign cardiac tumours.</figcaption>
+</figure>
 
-<span id="fig-14-09"></span>![](fig-14-09.jpg)
-*Fig. 14.2.3 Large, mobile left atrial myxoma attached to the interatrial septum, prolapsing across the mitral valve in diastole.*
+<figure class="med-figure" id="fig-14-09">
+  <img src="images/fig-14-09.jpg" alt="Fig. 14.2.3: Large, mobile left atrial myxoma attached to the interatrial septum, prolapsing across the mitral valve in " class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.2.3: Large, mobile left atrial myxoma attached to the interatrial septum, prolapsing across the mitral valve in diastole.</figcaption>
+</figure>
 
-<span id="fig-14-10"></span>![](fig-14-10.jpg)
-*Fig. 14.2.4 Small, highly mobile papillary fibroelastoma attached to the aortic valve cusp.*
+<figure class="med-figure" id="fig-14-10">
+  <img src="images/fig-14-10.jpg" alt="Fig. 14.2.4: Small, highly mobile papillary fibroelastoma attached to the aortic valve cusp." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.2.4: Small, highly mobile papillary fibroelastoma attached to the aortic valve cusp.</figcaption>
+</figure>
 
-<span id="fig-14-11"></span>![](fig-14-11.jpg)
-*Fig. 14.2.5 Large, well-encapsulated left atrial lipoma.*
+<figure class="med-figure" id="fig-14-11">
+  <img src="images/fig-14-11.jpg" alt="Fig. 14.2.5: Large, well-encapsulated left atrial lipoma." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.2.5: Large, well-encapsulated left atrial lipoma.</figcaption>
+</figure>
 
-<span id="fig-14-14"></span>![](fig-14-14.jpg)
-*Fig. 14.2.8 Primary cardiac lymphoma involving the right ventricle before and after systemic chemotherapy.*
+<figure class="med-figure" id="fig-14-14">
+  <img src="images/fig-14-14.jpg" alt="Fig. 14.2.8: Primary cardiac lymphoma involving the right ventricle before and after systemic chemotherapy." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.2.8: Primary cardiac lymphoma involving the right ventricle before and after systemic chemotherapy.</figcaption>
+</figure>
 </div></details>
 
-<details class="med-details"><summary>14.3 Non-Neoplastic Masses & Pseudotumours (Normal Variants)</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 14.3 Non-Neoplastic Masses & Pseudotumours (Normal Variants)</summary><div class="details-content">
 ### Thrombi vs. Non-Neoplastic Masses
 - **Left Ventricular Thrombi**: Most commonly situated at the akinetic/dyskinetic apex in post-MI remodeling or dilated cardiomyopathy. Classified into mural (laminated) vs. protruding/pedunculated (high embolic risk).
 - **Thrombi in Transit**: Elongated, serpentine, highly mobile clots trapped across the tricuspid valve, patent foramen ovale, or right heart chambers, originating from deep venous thrombosis.
 
-<span id="fig-14-15"></span>![](fig-14-15.jpg)
-*Fig. 14.2.10 Thrombi in the right heart chambers.*
+<figure class="med-figure" id="fig-14-15">
+  <img src="images/fig-14-15.jpg" alt="Fig. 14.2.10: Thrombi in the right heart chambers." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.2.10: Thrombi in the right heart chambers.</figcaption>
+</figure>
 
-<span id="fig-14-16"></span>![](fig-14-16.jpg)
-*Fig. 14.2.11 Highly mobile serpentine mass in transit across the right heart chambers.*
+<figure class="med-figure" id="fig-14-16">
+  <img src="images/fig-14-16.jpg" alt="Fig. 14.2.11: Highly mobile serpentine mass in transit across the right heart chambers." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.2.11: Highly mobile serpentine mass in transit across the right heart chambers.</figcaption>
+</figure>
 
-<span id="fig-14-17"></span>![](fig-14-17.jpg)
-*Fig. 14.2.12 Flat vs. protruding ventricular mural thrombi.*
+<figure class="med-figure" id="fig-14-17">
+  <img src="images/fig-14-17.jpg" alt="Fig. 14.2.12: Flat vs. protruding ventricular mural thrombi." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.2.12: Flat vs. protruding ventricular mural thrombi.</figcaption>
+</figure>
 
-<span id="fig-14-21"></span>![](fig-14-21.jpg)
-*Fig. 14.2.17 Catheter-induced thrombosis and fibrin sheath formation.*
+<figure class="med-figure" id="fig-14-21">
+  <img src="images/fig-14-21.jpg" alt="Fig. 14.2.17: Catheter-induced thrombosis and fibrin sheath formation." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.2.17: Catheter-induced thrombosis and fibrin sheath formation.</figcaption>
+</figure>
 
 ### Normal Anatomical Variants & Echo Mimickers ("Pseudotumours")
 Careful multiplane interrogation avoids misidentifying normal anatomical structures as intracardiac pathology:
@@ -122,22 +158,24 @@ Careful multiplane interrogation avoids misidentifying normal anatomical structu
 | **Hiatal Hernia** | Directly posterior to the left atrium | Extrinsic compression of the posterior LA wall; dynamic change with carbonated fluid ingestion |
 | **Transverse Pericardial Sinus** | Superior to left atrium and behind ascending aorta | Echo-free fluid collection simulating aortic dissection or mediastinal cyst |
 
-<span id="fig-14-22"></span>![](fig-14-22.jpg)
-*Fig. 14.2.18 Large hiatal hernia compressing the posterior aspect of the left atrium.*
+<figure class="med-figure" id="fig-14-22">
+  <img src="images/fig-14-22.jpg" alt="Fig. 14.2.18: Large hiatal hernia compressing the posterior aspect of the left atrium." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.2.18: Large hiatal hernia compressing the posterior aspect of the left atrium.</figcaption>
+</figure>
 
-<span id="fig-14-26"></span>![](fig-14-26.jpg)
-*Fig. 14.2.22 Prominent Eustachian valve in the right atrium.*
+<figure class="med-figure" id="fig-14-26">
+  <img src="images/fig-14-26.jpg" alt="Fig. 14.2.22: Prominent Eustachian valve in the right atrium." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.2.22: Prominent Eustachian valve in the right atrium.</figcaption>
+</figure>
 
-<span id="fig-14-27"></span>![](fig-14-27.jpg)
-*Fig. 14.2.23 Chiari network with mobile, reticular fibers floating within the right atrium.*
+<figure class="med-figure" id="fig-14-27">
+  <img src="images/fig-14-27.jpg" alt="Fig. 14.2.23: Chiari network with mobile, reticular fibers floating within the right atrium." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.2.23: Chiari network with mobile, reticular fibers floating within the right atrium.</figcaption>
+</figure>
 
-<span id="fig-14-28"></span>![](fig-14-28.jpg)
-*Fig. 14.2.24 Coumadin ridge (ligament of Marshall) separating the left upper pulmonary vein from the LAA.*
+<figure class="med-figure" id="fig-14-28">
+  <img src="images/fig-14-28.jpg" alt="Fig. 14.2.24: Coumadin ridge (ligament of Marshall) separating the left upper pulmonary vein from the LAA." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 14.2.24: Coumadin ridge (ligament of Marshall) separating the left upper pulmonary vein from the LAA.</figcaption>
+</figure>
 </div></details>
 
-<details class="med-details"><summary>Suggested Reading & References</summary><div class="details-content">
-1. Saric M, Armour AC, Arnaout MS, et al. Guidelines for the echocardiographic assessment of cardiac sources of embolism. *J Am Soc Echocardiogr* 2016;**29**:1–42.
-2. Tyebally S, Chen D, Bhattacharyya S, et al. Cardiac tumors: JACC CardioOncology state-of-the-art review. *JACC CardioOncol* 2020;**2**:293–311.
-3. Bruce CJ. Cardiac tumours: diagnosis and management. *Heart* 2011;**97**:151–160.
-4. Lancellotti P, Price S, Edvardsen T, et al. The EACVI Echo Handbook. Oxford University Press, 2016.
-</div></details>

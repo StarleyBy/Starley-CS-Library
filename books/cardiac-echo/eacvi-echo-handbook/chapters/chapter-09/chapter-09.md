@@ -1,6 +1,8 @@
 # Chapter 9. Right Heart Function and Pulmonary Artery Pressure
 
-<details class="med-details" open><summary>📌 Executive Summary: Right Heart Evaluation & Pulmonary Hemodynamics</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## Executive Summary</summary><div class="details-content">
 Assessment of the right heart (right ventricle, right atrium, tricuspid and pulmonary valves, pulmonary circulation) is essential for diagnostic evaluation, prognostication, and management across a wide spectrum of cardiac and pulmonary diseases.
 
 ### Core Clinical Objectives
@@ -22,15 +24,19 @@ Assessment of the right heart (right ventricle, right atrium, tricuspid and pulm
    - Pulmonary Vascular Resistance ($\text{PVR} = 10 \times v_{\text{TR}} / \text{TVI}_{\text{RVOT}} + 0.16\text{ Wood Units}$).
 </div></details>
 
-<details class="med-details"><summary>9.1 Right Ventricular Function and Chamber Quantification</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 9.1 Right Ventricular Function and Chamber Quantification</summary><div class="details-content">
 ### Acoustic Windows and Scanning Planes
 Due to its complex crescent-shaped retrosternal geometry, comprehensive evaluation of the right ventricle requires multiple imaging planes:
 - **RV-Focused Apical 4-Chamber View**: Transducer positioned slightly more lateral and rotated to maximize the true transverse basal and mid-cavity dimensions and apex of the RV without foreshortening.
 - **Parasternal Long- and Short-Axis Views**: Evaluation of the RV outflow tract (RVOT) and interventricular septal curvature.
 - **Subcostal View**: Best acoustic window for measuring RV free wall thickness and inferior vena cava (IVC) dynamics.
 
-<span id="fig-09-01"></span>![](fig-09-01.jpg)
-*Fig. 9.1.1 Transthoracic acoustic planes for the right heart: apical 4-chamber, modified view, and dedicated RV-focused view.*
+<figure class="med-figure" id="fig-09-01">
+  <img src="images/fig-09-01.jpg" alt="Fig. 9.1.1: Transthoracic acoustic planes for the right heart: apical 4-chamber, modified view, and dedicated RV-focused" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 9.1.1: Transthoracic acoustic planes for the right heart: apical 4-chamber, modified view, and dedicated RV-focused view.</figcaption>
+</figure>
 
 ### Standard Linear and Area Measurements
 - **RV Basal Diameter**: Measured at end-diastole in the RV-focused view at the level of the tricuspid valve annulus (normal $\le 41\text{ mm}$).
@@ -38,8 +44,10 @@ Due to its complex crescent-shaped retrosternal geometry, comprehensive evaluati
 - **RV Longitudinal Diameter**: Measured from the tricuspid annulus plane to the RV apex (normal $\le 83\text{ mm}$).
 - **RV Free Wall Thickness**: Measured at end-diastole in the subcostal view, excluding trabeculations and epicardial fat (normal $\le 5\text{ mm}$; $> 5\text{ mm}$ indicates RV hypertrophy).
 
-<span id="fig-09-04"></span>![](fig-09-04.jpg)
-*Fig. 9.1.3 Standard linear dimensions of the right ventricle measured in the apical RV-focused view.*
+<figure class="med-figure" id="fig-09-04">
+  <img src="images/fig-09-04.jpg" alt="Fig. 9.1.3: Standard linear dimensions of the right ventricle measured in the apical RV-focused view." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 9.1.3: Standard linear dimensions of the right ventricle measured in the apical RV-focused view.</figcaption>
+</figure>
 
 ### Indices of RV Systolic Function
 
@@ -48,15 +56,19 @@ Due to its complex crescent-shaped retrosternal geometry, comprehensive evaluati
 - Measures total longitudinal displacement of the tricuspid annulus from end-diastole to end-systole.
 - **Normal $\ge 17\text{ mm}$** ($< 17\text{ mm}$ indicates RV systolic dysfunction).
 
-<span id="fig-09-08"></span>![](fig-09-08.jpg)
-*Fig. 9.1.10 M-mode measurement of Tricuspid Annular Plane Systolic Excursion (TAPSE).*
+<figure class="med-figure" id="fig-09-08">
+  <img src="images/fig-09-08.jpg" alt="Fig. 9.1.10: M-mode measurement of Tricuspid Annular Plane Systolic Excursion (TAPSE)." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 9.1.10: M-mode measurement of Tricuspid Annular Plane Systolic Excursion (TAPSE).</figcaption>
+</figure>
 
 #### 2. Tissue Doppler Lateral Annular Systolic Velocity ($s'$)
 - Pulsed-wave tissue Doppler imaging (PW TDI) sample volume placed at the lateral tricuspid annulus.
 - **Normal $s' \ge 9.5\text{ cm/s}$** ($< 9.5\text{ cm/s}$ indicates impaired longitudinal contraction).
 
-<span id="fig-09-09"></span>![](fig-09-09.jpg)
-*Fig. 9.1.11 Pulsed-wave tissue Doppler recording of the lateral tricuspid annulus systolic velocity ($s'$).*
+<figure class="med-figure" id="fig-09-09">
+  <img src="images/fig-09-09.jpg" alt="Fig. 9.1.11: Pulsed-wave tissue Doppler recording of the lateral tricuspid annulus systolic velocity ($s$)." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 9.1.11: Pulsed-wave tissue Doppler recording of the lateral tricuspid annulus systolic velocity ($s'$).</figcaption>
+</figure>
 
 #### 3. Fractional Area Change (FAC)
 - Evaluates both longitudinal and radial inward motion of the RV free wall:
@@ -64,8 +76,10 @@ $$\text{RV FAC} = \frac{\text{RVEDA} - \text{RVESA}}{\text{RVEDA}} \times 100\%$
 - Traced in the apical 4-chamber view at end-diastole and end-systole along the endocardial border (excluding trabeculae).
 - **Normal $\ge 35\%$** ($< 35\%$ denotes significant global systolic impairment).
 
-<span id="fig-09-11"></span>![](fig-09-11.jpg)
-*Fig. 9.1.13 Measurement of RV end-diastolic and end-systolic areas for Fractional Area Change (FAC).*
+<figure class="med-figure" id="fig-09-11">
+  <img src="images/fig-09-11.jpg" alt="Fig. 9.1.13: Measurement of RV end-diastolic and end-systolic areas for Fractional Area Change (FAC)." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 9.1.13: Measurement of RV end-diastolic and end-systolic areas for Fractional Area Change (FAC).</figcaption>
+</figure>
 
 #### 4. Myocardial Performance Index (MPI / Tei Index)
 Integrates both systolic and diastolic performance:
@@ -73,25 +87,33 @@ $$\text{MPI} = \frac{\text{IVCT} + \text{IVRT}}{\text{ET}} = \frac{\text{TCO} - 
 - Where $\text{IVCT}$ is isovolumic contraction time, $\text{IVRT}$ is isovolumic relaxation time, $\text{ET}$ is ejection time, and $\text{TCO}$ is tricuspid valve closure-to-opening time.
 - **Normal Values**: $\text{MPI} < 0.43$ by pulsed Doppler; $< 0.54$ by tissue Doppler.
 
-<span id="fig-09-13"></span>![](fig-09-13.jpg)
-*Fig. 9.1.15 Continuous-wave Doppler of TR and pulsed Doppler of RVOT flow for calculation of RV Myocardial Performance Index (MPI).*
+<figure class="med-figure" id="fig-09-13">
+  <img src="images/fig-09-13.jpg" alt="Fig. 9.1.15: Continuous-wave Doppler of TR and pulsed Doppler of RVOT flow for calculation of RV Myocardial Performance " class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 9.1.15: Continuous-wave Doppler of TR and pulsed Doppler of RVOT flow for calculation of RV Myocardial Performance Index (MPI).</figcaption>
+</figure>
 
 #### 5. 2D Speckle-Tracking RV Free Wall Strain
 - Assesses regional and global longitudinal deformation of the basal, mid, and apical RV free wall segments (excluding the septum to eliminate confounding LV influence).
 - **Normal RV Free Wall Strain $\le -20\%$** (more negative is better).
 
-<span id="fig-09-10"></span>![](fig-09-10.jpg)
-*Fig. 9.1.12 2D speckle-tracking echocardiography of the right ventricular free wall.*
+<figure class="med-figure" id="fig-09-10">
+  <img src="images/fig-09-10.jpg" alt="Fig. 9.1.12: 2D speckle-tracking echocardiography of the right ventricular free wall." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 9.1.12: 2D speckle-tracking echocardiography of the right ventricular free wall.</figcaption>
+</figure>
 
 #### 6. 3D Right Ventricular Ejection Fraction
 - Slices the complex geometry without geometric assumptions.
 - **Normal 3D $\text{RVEF} \ge 45\%$**.
 
-<span id="fig-09-12"></span>![](fig-09-12.jpg)
-*Fig. 9.1.14 3D volumetric reconstruction of the right ventricle.*
+<figure class="med-figure" id="fig-09-12">
+  <img src="images/fig-09-12.jpg" alt="Fig. 9.1.14: 3D volumetric reconstruction of the right ventricle." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 9.1.14: 3D volumetric reconstruction of the right ventricle.</figcaption>
+</figure>
 </div></details>
 
-<details class="med-details"><summary>9.2 Right Ventricular Volume Overload</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 9.2 Right Ventricular Volume Overload</summary><div class="details-content">
 ### Etiology and Pathophysiology
 RV volume overload arises from conditions with excessive right-sided volume return or intra-cardiac shunting:
 - Severe tricuspid regurgitation (TR) or pulmonary regurgitation (PR).
@@ -106,14 +128,20 @@ $$\text{EI} = \frac{D_2}{D_1}$$
   - Normal circular LV: $\text{EI} = 1.0$ in both diastole and systole.
   - **Volume Overload Pattern**: $\text{EI}_{\text{diastole}} > 1.0$, while $\text{EI}_{\text{systole}} \approx 1.0$.
 
-<span id="fig-09-20"></span>![](fig-09-20.jpg)
-*Fig. 9.2.1 Atrial septal defect (ASD) with left-to-right shunt causing marked right ventricular volume overload.*
+<figure class="med-figure" id="fig-09-20">
+  <img src="images/fig-09-20.jpg" alt="Fig. 9.2.1: Atrial septal defect (ASD) with left-to-right shunt causing marked right ventricular volume overload." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 9.2.1: Atrial septal defect (ASD) with left-to-right shunt causing marked right ventricular volume overload.</figcaption>
+</figure>
 
-<span id="fig-09-21"></span>![](fig-09-21.jpg)
-*Fig. 9.2.2 Left ventricular eccentricity index in parasternal short-axis view demonstrating diastolic septal flattening in RV volume overload.*
+<figure class="med-figure" id="fig-09-21">
+  <img src="images/fig-09-21.jpg" alt="Fig. 9.2.2: Left ventricular eccentricity index in parasternal short-axis view demonstrating diastolic septal flattening" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 9.2.2: Left ventricular eccentricity index in parasternal short-axis view demonstrating diastolic septal flattening in RV volume overload.</figcaption>
+</figure>
 </div></details>
 
-<details class="med-details"><summary>9.3 Right Ventricular Pressure Overload & Pulmonary Hypertension</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## 9.3 Right Ventricular Pressure Overload & Pulmonary Hypertension</summary><div class="details-content">
 ### Etiology and Septal Shift
 RV pressure overload occurs in pulmonary arterial hypertension (PAH), chronic thromboembolic PH (CTEPH), severe left heart disease, pulmonary stenosis, or acute massive pulmonary embolism:
 - **Systolic and Diastolic Septal Flattening**: High systolic pressure within the RV equals or exceeds LV pressure, causing the septum to remain flattened or bulged into the LV throughout the entire cardiac cycle ($\text{EI} > 1.0$ in both systole and diastole).
@@ -126,8 +154,10 @@ RV pressure overload occurs in pulmonary arterial hypertension (PAH), chronic th
 Derived from the peak tricuspid regurgitation (TR) jet velocity using the simplified Bernoulli equation:
 $$\text{PASP} = 4 \times v_{\text{TR}}^2 + \text{RAP}$$
 
-<span id="fig-09-22"></span>![](fig-09-22.jpg)
-*Fig. 9.3.1 Continuous-wave Doppler interrogation of tricuspid regurgitation jet velocity for estimation of PASP.*
+<figure class="med-figure" id="fig-09-22">
+  <img src="images/fig-09-22.jpg" alt="Fig. 9.3.1: Continuous-wave Doppler interrogation of tricuspid regurgitation jet velocity for estimation of PASP." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 9.3.1: Continuous-wave Doppler interrogation of tricuspid regurgitation jet velocity for estimation of PASP.</figcaption>
+</figure>
 
 #### Estimation of Right Atrial Pressure (RAP) from the IVC:
 | IVC Diameter (subcostal view) | Inspiratory Collapsibility Index | Estimated RAP (mmHg) | Range (mmHg) |
@@ -147,8 +177,10 @@ $$\text{mPAP} = 0.61 \times \text{PASP} + 2\text{ mmHg}$$
 Derived from the end-diastolic pulmonary regurgitation velocity:
 $$\text{PADP} = 4 \times v_{\text{end-PR}}^2 + \text{RAP}$$
 
-<span id="fig-09-23"></span>![](fig-09-23.jpg)
-*Fig. 9.3.2 Continuous-wave Doppler of pulmonary regurgitation demonstrating early-diastolic and end-diastolic velocities.*
+<figure class="med-figure" id="fig-09-23">
+  <img src="images/fig-09-23.jpg" alt="Fig. 9.3.2: Continuous-wave Doppler of pulmonary regurgitation demonstrating early-diastolic and end-diastolic velocitie" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 9.3.2: Continuous-wave Doppler of pulmonary regurgitation demonstrating early-diastolic and end-diastolic velocities.</figcaption>
+</figure>
 
 #### 4. Pulmonary Ejection Acceleration Time (AcT)
 - Pulsed-wave Doppler in the RV outflow tract just proximal to the pulmonary valve.
@@ -156,15 +188,19 @@ $$\text{PADP} = 4 \times v_{\text{end-PR}}^2 + \text{RAP}$$
 - $\text{AcT} < 100\text{ ms}$ correlates with elevated pulmonary artery pressure.
 - **Midsystolic Notching ("Flying W")**: Premature deceleration or notching indicates elevated pulmonary vascular resistance (PVR).
 
-<span id="fig-09-24"></span>![](fig-09-24.jpg)
-*Fig. 9.3.3 Short pulmonary acceleration time (AcT) and midsystolic notching on pulsed Doppler.*
+<figure class="med-figure" id="fig-09-24">
+  <img src="images/fig-09-24.jpg" alt="Fig. 9.3.3: Short pulmonary acceleration time (AcT) and midsystolic notching on pulsed Doppler." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 9.3.3: Short pulmonary acceleration time (AcT) and midsystolic notching on pulsed Doppler.</figcaption>
+</figure>
 
 #### 5. Estimation of Pulmonary Vascular Resistance (PVR)
 $$\text{PVR} = 10 \times \frac{v_{\text{TR}}}{\text{TVI}_{\text{RVOT}}} + 0.16 \quad (\text{Wood Units})$$
 - A ratio of $v_{\text{TR}} / \text{TVI}_{\text{RVOT}} < 0.2$ corresponds to normal $\text{PVR} < 2\text{ Wood Units}$.
 </div></details>
 
-<details class="med-details"><summary>Reference Values for Right Heart Dimensions & Function</summary><div class="details-content">
+<details class="med-details" open><summary>
+
+## Reference Values for Right Heart Dimensions & Function</summary><div class="details-content">
 ### Reference Normative Values (ASE/EACVI Guidelines)
 
 | Parameter | Mean Value (95% CI) | Normal Limit (95% CI) |
@@ -205,10 +241,3 @@ $$\text{PVR} = 10 \times \frac{v_{\text{TR}}}{\text{TVI}_{\text{RVOT}}} + 0.16 \
 | **Tricuspid $E/e'$ Ratio** | — | $\le 6.0\text{ (5.7--6.4)}$ |
 </div></details>
 
-<details class="med-details"><summary>Suggested Reading & References</summary><div class="details-content">
-1. Lang RM, Badano LP, Mor-Avi V, et al. Recommendations for cardiac chamber quantification by echocardiography in adults: an update from the ASE and EACVI. *Eur Heart J Cardiovasc Imaging* 2015;**16**:233–271.
-2. Rudski LG, Lai WW, Afilalo J, et al. Guidelines for the echocardiographic assessment of the right heart in adults. *J Am Soc Echocardiogr* 2010;**23**:685–713.
-3. Galiè N, Humbert M, Vachiery JL, et al. 2015 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension. *Eur Heart J* 2016;**37**:67–119.
-4. McConnell MV, Solomon SD, Rayan ME, et al. Regional right ventricular dysfunction detected by echocardiography in acute pulmonary embolism. *Am J Cardiol* 1996;**78**:469–473.
-5. Lancellotti P, Price S, Edvardsen T, et al. The EACVI Echo Handbook. Oxford University Press, 2016.
-</div></details>

@@ -1,22 +1,27 @@
-# Chapter 16: Stress Echocardiography
+# Chapter 16. Stress Echocardiography
 
-> **Executive Summary**
-> - **Clinical Scope & Modalities**: Stress echocardiography evaluates inducible myocardial ischemia, myocardial viability, valvular hemodynamics, and exertional diastolic dysfunction. Modalities include physiological exercise (treadmill or semi-recumbent bicycle ergometer, the primary choice) and pharmacological stress (dobutamine or coronary vasodilators like dipyridamole and adenosine) when physical exercise is unfeasible or contraindicated.
-> - **Ischemic Cascade & Diagnostics**: Wall motion abnormalities precede ECG ST-segment shifts and chest angina along the ischemic cascade. Diagnostic criterion for ischemia is new or worsening regional wall motion abnormality (RWMA) in $\ge 2$ contiguous segments (or $\ge 1$ segment in apical views), failure of end-systolic volume (ESV) to decrease, or an increase in Wall Motion Score Index (WMSI) $\ge 0.20$.
-> - **Four Equations of Stress Echo**:
->   - **Normal**: Rest Normokinesis + Stress Normo/hyperkinesis = Normal myocardium
->   - **Ischemia**: Rest Normokinesis + Stress Hypo/a/dyskinesis = Inducible ischemia
->   - **Viability**: Rest Akinesis + Stress Hypo/normokinesis (low-dose dobutamine) = Viable myocardium
->   - **Necrosis (Scar)**: Rest A/dyskinesis + Stress A/dyskinesis = Non-viable scar
->   - **Biphasic Response**: Low-dose improvement followed by high-dose worsening/ischemia — pathognomonic of viable hibernating myocardium with critical epicardial stenosis, carrying the highest predictive value for functional recovery after revascularization.
-> - **Valvular Stress Echocardiography**:
->   - *Low-Flow, Low-Gradient Aortic Stenosis (LFLG AS)*: Low-dose dobutamine ($5–20$ $\mu\text{g/kg/min}$) differentiates true severe AS (flow reserve present with $\Delta\text{SV} \ge 20\%$, AVA remains $\le 1.0\text{ cm}^2$, and mean gradient rises to $\ge 40\text{ mmHg}$) from pseudo-severe AS (AVA expands to $> 1.0\text{ cm}^2$ while mean gradient remains $< 40\text{ mmHg}$).
->   - *Secondary Mitral Regurgitation*: Exercise-induced dynamic worsening ($\Delta\text{EROA} \ge 13\text{ mm}^2$, $\Delta\text{RegVol} \ge 20\text{ mL}$) or exercise $\text{PASP} > 60\text{ mmHg}$ identifies high mortality and pulmonary edema risk.
->   - *Hypertrophic Cardiomyopathy (HCM)*: Unmasks latent LVOT dynamic gradient (exercise gradient $\ge 50\text{ mmHg}$ despite resting gradient $< 30\text{ mmHg}$).
->   - *Diastolic Stress (HFpEF)*: Exertional $E/e' > 14$ and peak TR velocity $> 3.4\text{ m/s}$ confirm elevated LV filling pressures.
+<details class="med-details" open><summary>
+## Executive Summary</summary><div class="details-content">
+
+- **Clinical Scope & Modalities**: Stress echocardiography evaluates inducible myocardial ischemia, myocardial viability, valvular hemodynamics, and exertional diastolic dysfunction. Modalities include physiological exercise (treadmill or semi-recumbent bicycle ergometer, the primary choice) and pharmacological stress (dobutamine or coronary vasodilators like dipyridamole and adenosine) when physical exercise is unfeasible or contraindicated.
+- **Ischemic Cascade & Diagnostics**: Wall motion abnormalities precede ECG ST-segment shifts and chest angina along the ischemic cascade. Diagnostic criterion for ischemia is new or worsening regional wall motion abnormality (RWMA) in $\ge 2$ contiguous segments (or $\ge 1$ segment in apical views), failure of end-systolic volume (ESV) to decrease, or an increase in Wall Motion Score Index (WMSI) $\ge 0.20$.
+- **Four Equations of Stress Echo**:
+- **Normal**: Rest Normokinesis + Stress Normo/hyperkinesis = Normal myocardium
+- **Ischemia**: Rest Normokinesis + Stress Hypo/a/dyskinesis = Inducible ischemia
+- **Viability**: Rest Akinesis + Stress Hypo/normokinesis (low-dose dobutamine) = Viable myocardium
+- **Necrosis (Scar)**: Rest A/dyskinesis + Stress A/dyskinesis = Non-viable scar
+- **Biphasic Response**: Low-dose improvement followed by high-dose worsening/ischemia — pathognomonic of viable hibernating myocardium with critical epicardial stenosis, carrying the highest predictive value for functional recovery after revascularization.
+- **Valvular Stress Echocardiography**:
+- *Low-Flow, Low-Gradient Aortic Stenosis (LFLG AS)*: Low-dose dobutamine ($5–20$ $\mu\text{g/kg/min}$) differentiates true severe AS (flow reserve present with $\Delta\text{SV} \ge 20\%$, AVA remains $\le 1.0\text{ cm}^2$, and mean gradient rises to $\ge 40\text{ mmHg}$) from pseudo-severe AS (AVA expands to $> 1.0\text{ cm}^2$ while mean gradient remains $< 40\text{ mmHg}$).
+- *Secondary Mitral Regurgitation*: Exercise-induced dynamic worsening ($\Delta\text{EROA} \ge 13\text{ mm}^2$, $\Delta\text{RegVol} \ge 20\text{ mL}$) or exercise $\text{PASP} > 60\text{ mmHg}$ identifies high mortality and pulmonary edema risk.
+- *Hypertrophic Cardiomyopathy (HCM)*: Unmasks latent LVOT dynamic gradient (exercise gradient $\ge 50\text{ mmHg}$ despite resting gradient $< 30\text{ mmHg}$).
+- *Diastolic Stress (HFpEF)*: Exertional $E/e' > 14$ and peak TR velocity $> 3.4\text{ m/s}$ confirm elevated LV filling pressures.
+
+</div></details>
 
 <details class="med-details" open>
-<summary>16.0 Indications, Principles & The Ischemic Cascade</summary>
+<summary>
+## 16.0 Indications, Principles & The Ischemic Cascade</summary>
 <div class="details-content">
 
 Stress echocardiography is an established non-invasive imaging modality combining 2D and Doppler echocardiography with physical, pharmacological, or electrical stress. It possesses a high diagnostic sensitivity ($80–85\%$) and specificity ($85–90\%$) for coronary artery disease (CAD), superior to standard exercise ECG testing.
@@ -57,13 +62,14 @@ Because regional mechanical wall motion abnormalities occur significantly earlie
 </details>
 
 <details class="med-details" open>
-<summary>16.1 LV Segmentation, Polar Plot & Coronary Perfusion Territories</summary>
+<summary>
+## 16.1 LV Segmentation, Polar Plot & Coronary Perfusion Territories</summary>
 <div class="details-content">
 
 Accurate territorial assessment requires standardized anatomical segmentation of the left ventricle in accordance with the ASE/EACVI 16- and 17-segment models.
 
-<figure class="med-figure">
-  <img src="images/fig-16-01.jpg" alt="Regional wall motion assessment planes" class="med-image" loading="lazy" />
+<figure class="med-figure" id="fig-16-01">
+  <img src="images/fig-16-01.jpg" alt="Regional wall motion assessment planes" class="med-image" loading="lazy" /
   <figcaption class="med-caption">Fig. 16.1.1: Standard cross-sectional short-axis (basal, mid, apical) and longitudinal imaging planes (apical 4-, 2-, and 3-chamber) used for systematic 2D wall motion scoring.</figcaption>
 </figure>
 
@@ -74,8 +80,8 @@ The left ventricle is divided into three circular transverse levels and an apica
 - **Apical Level (Segments 13–16)**: Apical anterior (13), apical septal (14), apical inferior (15), and apical lateral (16).
 - **Apex (Segment 17)**: The apical cap / true apex (evaluated in 17-segment model, omitted in 16-segment model).
 
-<figure class="med-figure">
-  <img src="images/fig-16-02.jpg" alt="Polar plot display of LV segmentation" class="med-image" loading="lazy" />
+<figure class="med-figure" id="fig-16-02">
+  <img src="images/fig-16-02.jpg" alt="Polar plot display of LV segmentation" class="med-image" loading="lazy" /
   <figcaption class="med-caption">Fig. 16.1.2: Polar plot (Bull's eye) display of the 16-, 17-, and 18-segment left ventricular models with anatomical nomenclature.</figcaption>
 </figure>
 
@@ -87,8 +93,8 @@ The left ventricle is divided into three circular transverse levels and an apica
 3. **Left Circumflex (LCx) Artery**:
    - Supplies the anterolateral, inferolateral (posterior), and apical lateral walls (Segments 5, 6, 11, 12, 16).
 
-<figure class="med-figure">
-  <img src="images/fig-16-03.jpg" alt="Coronary perfusion territories on polar plot" class="med-image" loading="lazy" />
+<figure class="med-figure" id="fig-16-03">
+  <img src="images/fig-16-03.jpg" alt="Coronary perfusion territories on polar plot" class="med-image" loading="lazy" /
   <figcaption class="med-caption">Fig. 16.1.3: Schematic mapping of the three major coronary artery perfusion territories (LAD, RCA, LCx) on the 17-segment polar plot display.</figcaption>
 </figure>
 
@@ -109,7 +115,8 @@ A normal resting and stress WMSI equals **1.00**. A peak stress WMSI $> 1.00$ in
 </details>
 
 <details class="med-details" open>
-<summary>16.2 Stress Modalities, Protocols & Comparison</summary>
+<summary>
+## 16.2 Stress Modalities, Protocols & Comparison</summary>
 <div class="details-content">
 
 | Stress Modality | Equipment & Methodology | Standard Infusion / Exercise Protocol | Mechanism of Stress | Main Advantages |
@@ -138,7 +145,8 @@ A normal resting and stress WMSI equals **1.00**. A peak stress WMSI $> 1.00$ in
 </details>
 
 <details class="med-details" open>
-<summary>16.3 Contraindications, Termination Criteria & Safety Management</summary>
+<summary>
+## 16.3 Contraindications, Termination Criteria & Safety Management</summary>
 <div class="details-content">
 
 ### Absolute Contraindications
@@ -188,13 +196,14 @@ The stress test must be stopped immediately upon occurrence of any of the follow
 </details>
 
 <details class="med-details" open>
-<summary>16.4 Diagnostic Response Patterns: Ischemia vs. Viability</summary>
+<summary>
+## 16.4 Diagnostic Response Patterns: Ischemia vs. Viability</summary>
 <div class="details-content">
 
 Echocardiographic images are acquired and displayed side-by-side in quad-screen format: **Rest**, **Low-Dose / Intermediate Stress**, **Peak Stress**, and **Recovery**.
 
-<figure class="med-figure">
-  <img src="images/fig-16-04.jpg" alt="Stress echocardiography diagnostic patterns" class="med-image" loading="lazy" />
+<figure class="med-figure" id="fig-16-04">
+  <img src="images/fig-16-04.jpg" alt="Stress echocardiography diagnostic patterns" class="med-image" loading="lazy" /
   <figcaption class="med-caption">Fig. 16.1.4: Echocardiographic response patterns during stress: normal hyperkinesia with reduced end-systolic volume (upper row), ischemic wall motion abnormality with failure of systolic thickening (middle row), and biphasic response denoting viable hibernating myocardium (lower row).</figcaption>
 </figure>
 
@@ -222,7 +231,8 @@ Echocardiographic images are acquired and displayed side-by-side in quad-screen 
 </details>
 
 <details class="med-details" open>
-<summary>16.5 Stress Echocardiography in Valvular Heart Disease</summary>
+<summary>
+## 16.5 Stress Echocardiography in Valvular Heart Disease</summary>
 <div class="details-content">
 
 Beyond coronary artery disease, stress echocardiography provides indispensable hemodynamic data for clinical decision-making in valvular heart disease:
@@ -269,7 +279,8 @@ Approximately one-third of HCM patients have resting obstruction ($\ge 30\text{ 
 </details>
 
 <details class="med-details" open>
-<summary>16.6 Appropriateness Criteria & Quality Standards</summary>
+<summary>
+## 16.6 Appropriateness Criteria & Quality Standards</summary>
 <div class="details-content">
 
 EACVI and ACC/AHA appropriateness criteria define the clinical utility of stress echocardiography:

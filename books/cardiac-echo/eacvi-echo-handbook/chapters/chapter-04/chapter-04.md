@@ -2,7 +2,7 @@
 
 ##### Comprehensive EACVI practical guide to linear and volumetric chamber quantification, ejection fraction, Simpson's biplane summation, Global Longitudinal Strain (GLS), segmental wall motion models, coronary perfusion territories, LV mass & geometric remodeling, left atrial volumetry, and aortic root dimensions.
 
-<details class="med-details"><summary>
+<details class="med-details" open><summary>
 
 ## Executive Summary</summary><div class="details-content">
 
@@ -31,7 +31,7 @@
 
 </div></details>
 
-<details class="med-details"><summary>
+<details class="med-details" open><summary>
 
 ## 4.1 Left Chamber Quantification</summary><div class="details-content">
 
@@ -56,9 +56,10 @@ Accurate measurement of left ventricular (LV) internal cavity dimensions and vol
   * *2D-Guided Linear Measurement:* Allows direct visual alignment perpendicular to the myocardial walls, preventing off-axis distortion when the heart is horizontally tilted ([Fig. 4-1CD](#fig-04-01)).
 * **Clinical Limitations:** Linear dimensions represent only a single cross-section of the ventricle and remain valid only in symmetrically shaped, non-remodeled ventricles without localized akinesia or aneurysm.
 
-<span id="fig-04-01"></span>![](fig-04-01.jpg)
-
-**FIGURE 4-1** Linear measurement of LV internal dimensions. (**A, B**) M-mode tracing aligned across the tips of the mitral leaflets in the parasternal long-axis view. (**C, D**) Pitfall of non-perpendicular M-mode cursor orientation (**C**) corrected by direct 2D-guided linear caliper placement (**D**).
+<figure class="med-figure" id="fig-04-01">
+  <img src="images/fig-04-01.jpg" alt="Fig. 4.1.1: Linear measurement of LV internal dimensions. (**A, B**) M-mode tracing aligned across the tips of the mitra" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.1: Linear measurement of LV internal dimensions. (**A, B**) M-mode tracing aligned across the tips of the mitral leaflets in the parasternal long-axis view. (**C, D**) Pitfall of non-perpendicular M-mode cursor orientation (**C**) corrected by direct 2D-guided linear caliper placement (**D**).</figcaption>
+</figure>
 
 </div></details>
 
@@ -77,39 +78,43 @@ Linear-derived volume formulas (Teichholz or Quinones cubing equations) make fla
   * Close the basal contour with a straight line connecting the annular hinge points.
   * The LV long axis is defined as the distance from the midpoint of the annular closure line to the most apical endocardial point.
 * **Planimetric Methods:**
-  1. **Biplane Method of Discs (Modified Simpson's Rule) ([Fig. 4-2](#fig-04-02)):**
+  1. **Biplane Method of Discs (Modified Simpson's Rule) ([Fig. 4.1.2](#fig-04-02)):**
      * The recommended EACVI 2D volumetric standard.
      * Slices the LV into 20 contiguous cylindrical discs of equal height ($h$), calculating total volume as the sum of individual disc volumes:
        $$V = rac{\pi}{4} \sum_{i=1}^{20} a_i \cdot b_i \cdot h$$
        where $a_i$ and $b_i$ represent orthogonal diameters in 4CV and 2CV.
      * *Advantages:* Corrects for asymmetrical chamber distortion and regional wall motion abnormalities.
      * *Limitations:* Susceptible to apical foreshortening and endocardial dropout.
-  2. **Area-Length Method ([Fig. 4-3](#fig-04-03)):**
+  2. **Area-Length Method ([Fig. 4.1.3](#fig-04-03)):**
      * Employs the short-axis mid-papillary area ($A_m$) and apical length ($L$):
        $$V = rac{5}{6} \cdot rac{A_m \cdot L}{1}$$
      * Indicated when poor apical endocardial border definition precludes accurate biplane tracing.
-  3. **Contrast-Enhanced Echocardiography ([Fig. 4-4](#fig-04-04)):**
+  3. **Contrast-Enhanced Echocardiography ([Fig. 4.1.4](#fig-04-04)):**
      * Indicated whenever $\ge 2$ contiguous LV myocardial segments are poorly visualized on unenhanced harmonic images.
      * Delineates true endocardial borders, opacifies the apex to exclude apical thrombus or noncompaction, and provides LV volumes closely correlating with cardiac magnetic resonance (CMR).
-  4. **3D Matrix Echocardiography ([Fig. 4-5](#fig-04-05)):**
+  4. **3D Matrix Echocardiography ([Fig. 4.1.5](#fig-04-05)):**
      * Multi-beat ECG-gated full-volume dataset ($4	ext{–}6	ext{ cardiac cycles}$) centered on the LV cavity.
      * Completely independent of geometric modeling assumptions and entirely immune to apical foreshortening.
 
-<span id="fig-04-02"></span>![](fig-04-02.jpg)
+<figure class="med-figure" id="fig-04-02">
+  <img src="images/fig-04-02.jpg" alt="Fig. 4.1.2: Biplane method of discs (modified Simpsons rule) for LV volume quantification in apical 4-chamber and 2-cha" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.2: Biplane method of discs (modified Simpson's rule) for LV volume quantification in apical 4-chamber and 2-chamber views at end-diastole and end-systole.</figcaption>
+</figure>
 
-**FIGURE 4-2** Biplane method of discs (modified Simpson's rule) for LV volume quantification in apical 4-chamber and 2-chamber views at end-diastole and end-systole.
+<figure class="med-figure" id="fig-04-03">
+  <img src="images/fig-04-03.jpg" alt="Fig. 4.1.3: Area-length method for LV volume calculation, utilizing the parasternal short-axis area and apical 4-chamber" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.3: Area-length method for LV volume calculation, utilizing the parasternal short-axis area and apical 4-chamber long-axis length.</figcaption>
+</figure>
 
-<span id="fig-04-03"></span>![](fig-04-03.jpg)
+<figure class="med-figure" id="fig-04-04">
+  <img src="images/fig-04-04.jpg" alt="Fig. 4.1.4: Contrast-enhanced echocardiography demonstrating clear endocardial border definition in end-diastole and end" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.4: Contrast-enhanced echocardiography demonstrating clear endocardial border definition in end-diastole and end-systole in patients with suboptimal acoustic windows.</figcaption>
+</figure>
 
-**FIGURE 4-3** Area-length method for LV volume calculation, utilizing the parasternal short-axis area and apical 4-chamber long-axis length.
-
-<span id="fig-04-04"></span>![](fig-04-04.jpg)
-
-**FIGURE 4-4** Contrast-enhanced echocardiography demonstrating clear endocardial border definition in end-diastole and end-systole in patients with suboptimal acoustic windows.
-
-<span id="fig-04-05"></span>![](fig-04-05.jpg)
-
-**FIGURE 4-5** Real-time three-dimensional (3D) full-volume echocardiographic acquisition centered on the LV cavity, providing automated volumetric rendering without geometric assumptions.
+<figure class="med-figure" id="fig-04-05">
+  <img src="images/fig-04-05.jpg" alt="Fig. 4.1.5: Real-time three-dimensional (3D) full-volume echocardiographic acquisition centered on the LV cavity, provid" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.5: Real-time three-dimensional (3D) full-volume echocardiographic acquisition centered on the LV cavity, providing automated volumetric rendering without geometric assumptions.</figcaption>
+</figure>
 
 </div></details>
 
@@ -125,7 +130,7 @@ Assessment of global systolic performance integrates ejection fraction, fraction
 
 #### Fractional Shortening & Ejection Fraction</summary><div class="details-content">
 
-* **Left Ventricular Fractional Shortening (FS) ([Fig. 4-6](#fig-04-06)):**
+* **Left Ventricular Fractional Shortening (FS) ([Fig. 4.1.6](#fig-04-06)):**
   * Percentage change in LV internal diameter from diastole to systole:
     $$FS = rac{LVEDD - LVESD}{LVEDD} 	imes 100\%$$
   * *Reference Normal Range:* $28	ext{–}44\%$.
@@ -138,9 +143,10 @@ Assessment of global systolic performance integrates ejection fraction, fraction
     * Women: Normal LVEF $54	ext{–}74\%$; Mildly abnormal $41	ext{–}53\%$; Moderately abnormal $30	ext{–}40\%$; Severely abnormal $< 30\%$.
     * *General Threshold:* LVEF $< 53\%$ indicates subnormal global systolic function.
 
-<span id="fig-04-06"></span>![](fig-04-06.jpg)
-
-**FIGURE 4-6** Measurement of LV fractional shortening (FS) by M-mode tracing aligned through the basal inferolateral wall and interventricular septum.
+<figure class="med-figure" id="fig-04-06">
+  <img src="images/fig-04-06.jpg" alt="Fig. 4.1.6: Measurement of LV fractional shortening (FS) by M-mode tracing aligned through the basal inferolateral wall " class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.6: Measurement of LV fractional shortening (FS) by M-mode tracing aligned through the basal inferolateral wall and interventricular septum.</figcaption>
+</figure>
 
 </div></details>
 
@@ -148,7 +154,7 @@ Assessment of global systolic performance integrates ejection fraction, fraction
 
 #### Global Longitudinal Strain (GLS) by Speckle Tracking</summary><div class="details-content">
 
-Global Longitudinal Strain (GLS) assesses active longitudinal myocardial shortening by tracking acoustic myocardial speckles frame-by-frame throughout the cardiac cycle ([Fig. 4-7](#fig-04-07)):
+Global Longitudinal Strain (GLS) assesses active longitudinal myocardial shortening by tracking acoustic myocardial speckles frame-by-frame throughout the cardiac cycle ([Fig. 4.1.7](#fig-04-07)):
 
 * **Methodology:**
   * High-frame-rate ($50	ext{–}80	ext{ fps}$) apical 4-chamber, 2-chamber, and long-axis (3-chamber) loops are acquired over identical R-R intervals.
@@ -159,9 +165,10 @@ Global Longitudinal Strain (GLS) assesses active longitudinal myocardial shorten
   * In healthy adults, peak systolic GLS averages approximately $-20\%$ (range $-18\%$ to $-22\%$).
   * A value less negative than $-18\%$ indicates subclinical systolic impairment, detecting early cardiotoxicity (e.g., anthracyclines, trastuzumab), cardiac amyloidosis (apical sparing pattern), and subclinical aortic stenosis decompensation before any drop in LVEF.
 
-<span id="fig-04-07"></span>![](fig-04-07.jpg)
-
-**FIGURE 4-7** Measurement of Global Longitudinal Strain (GLS) using 2D speckle tracking echocardiography, displaying segmental strain waveforms across apical views and corresponding bull's-eye summary map.
+<figure class="med-figure" id="fig-04-07">
+  <img src="images/fig-04-07.jpg" alt="Fig. 4.1.7: Measurement of Global Longitudinal Strain (GLS) using 2D speckle tracking echocardiography, displaying segme" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.7: Measurement of Global Longitudinal Strain (GLS) using 2D speckle tracking echocardiography, displaying segmental strain waveforms across apical views and corresponding bull's-eye summary map.</figcaption>
+</figure>
 
 </div></details>
 
@@ -171,7 +178,8 @@ Global Longitudinal Strain (GLS) assesses active longitudinal myocardial shorten
 
 * **Doppler Stroke Volume (SV) & Cardiac Output (CO):**
   * Stroke volume is measured at the LVOT using diameter ($D_{	ext{LVOT}}$) and pulsed-wave Doppler velocity-time integral ($VTI_{	ext{LVOT}}$):
-    $$SV = CSA_{	ext{LVOT}} 	imes VTI_{	ext{LVOT}} = \left(rac{\pi \cdot D_{	ext{LVOT}}^2}{4}ight) 	imes VTI_{	ext{LVOT}}$$
+    $$SV = CSA_{	ext{LVOT}} 	imes VTI_{	ext{LVOT}} = \left(rac{\pi \cdot D_{	ext{LVOT}}^2}{4}
+ight) 	imes VTI_{	ext{LVOT}}$$
   * Normal stroke volume index $> 35	ext{ mL/m}^2$; Resting cardiac output $> 4.0	ext{ L/min}$.
 * **Mitral Regurgitation Continuous-Wave Doppler $dP/dt$:**
   * Measures the rate of LV pressure rise during isovolumetric contraction.
@@ -224,11 +232,11 @@ To provide uniform anatomical localization of ischemia, infarction, and cardiomy
 
 #### LV Segmentation Models & Bull's-Eye Display</summary><div class="details-content">
 
-* **Standard Models ([Fig. 4-8](#fig-04-08)):**
+* **Standard Models ([Fig. 4.1.8](#fig-04-08)):**
   * **16-Segment Model:** Recommended for routine wall motion scoring. Divides the LV into 6 basal segments, 6 mid-ventricular segments, and 4 apical segments (apical anterior, apical septal, apical inferior, apical lateral). The true anatomical apical cap (segment 17) is omitted because it exhibits minimal inward systolic excursion.
   * **17-Segment Model:** Adds segment 17 (apical cap). Mandatory for myocardial perfusion studies and multimodality cross-correlation with SPECT, PET, and Cardiac Magnetic Resonance (CMR).
   * **18-Segment Model:** Divides the apical level into 6 segments matching the basal and mid rings; rarely used outside specialized research software.
-* **Segment Allocation Across Standard Views ([Fig. 4-9](#fig-04-09)):**
+* **Segment Allocation Across Standard Views ([Fig. 4.1.9](#fig-04-09)):**
   * *Apical 4-Chamber View (4CV):* Interrogates the inferoseptum (basal, mid), lateral wall (basal anterolateral, mid anterolateral), and apical septum/lateral segments.
   * *Apical 2-Chamber View (2CV):* Interrogates the inferior wall (basal, mid, apical inferior) and anterior wall (basal, mid, apical anterior).
   * *Apical Long-Axis View (APLAX / 3CV):* Interrogates the anteroseptum (basal, mid) and inferolateral wall (basal, mid, apical).
@@ -239,13 +247,15 @@ To provide uniform anatomical localization of ischemia, infarction, and cardiomy
   * **4 = Dyskinetic:** Paradoxical systolic outward expansion and systolic thinning (characteristic of transmural scar or aneurysm).
   * **Wall Motion Score Index (WMSI):** Calculated as the sum of all individual segment scores divided by the number of visualized segments (normal $WMSI = 1.0$; $WMSI > 1.7$ denotes extensive infarction with adverse prognostic implications).
 
-<span id="fig-04-08"></span>![](fig-04-08.jpg)
+<figure class="med-figure" id="fig-04-08">
+  <img src="images/fig-04-08.jpg" alt="Fig. 4.1.8: Schematic diagram of standardized LV segmentation models (16-segment and 17-segment configurations)." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.8: Schematic diagram of standardized LV segmentation models (16-segment and 17-segment configurations).</figcaption>
+</figure>
 
-**FIGURE 4-8** Schematic diagram of standardized LV segmentation models (16-segment and 17-segment configurations).
-
-<span id="fig-04-09"></span>![](fig-04-09.jpg)
-
-**FIGURE 4-9** Orientation of apical four-chamber, two-chamber, and long-axis views relative to the 17-segment bull's-eye display of the left ventricle.
+<figure class="med-figure" id="fig-04-09">
+  <img src="images/fig-04-09.jpg" alt="Fig. 4.1.9: Orientation of apical four-chamber, two-chamber, and long-axis views relative to the 17-segment bulls-eye d" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.9: Orientation of apical four-chamber, two-chamber, and long-axis views relative to the 17-segment bull's-eye display of the left ventricle.</figcaption>
+</figure>
 
 </div></details>
 
@@ -253,7 +263,7 @@ To provide uniform anatomical localization of ischemia, infarction, and cardiomy
 
 #### Coronary Artery Perfusion Territories</summary><div class="details-content">
 
-Each of the 17 myocardial segments is mapped to one of the three principal coronary arteries ([Fig. 4-10](#fig-04-10)):
+Each of the 17 myocardial segments is mapped to one of the three principal coronary arteries ([Fig. 4.1.10](#fig-04-10)):
 
 * **Left Anterior Descending (LAD) Artery:**
   * Basal anterior, basal anteroseptal.
@@ -269,9 +279,10 @@ Each of the 17 myocardial segments is mapped to one of the three principal coron
   * Apical lateral.
 * *Anatomical Variations:* Variable blood supply occurs at the basal inferoseptum (co-perfused by RCA and LAD), basal inferolateral wall (LCx or RCA in left-dominant systems), and apical lateral wall (distal LAD vs obtuse marginal branch).
 
-<span id="fig-04-10"></span>![](fig-04-10.jpg)
-
-**FIGURE 4-10** Schematic diagram of the coronary perfusion territories of the left anterior descending (LAD), left circumflex (LCx), and right coronary artery (RCA) mapped onto the 17-segment LV model.
+<figure class="med-figure" id="fig-04-10">
+  <img src="images/fig-04-10.jpg" alt="Fig. 4.1.10: Schematic diagram of the coronary perfusion territories of the left anterior descending (LAD), left circumf" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.10: Schematic diagram of the coronary perfusion territories of the left anterior descending (LAD), left circumflex (LCx), and right coronary artery (RCA) mapped onto the 17-segment LV model.</figcaption>
+</figure>
 
 </div></details>
 
@@ -289,32 +300,43 @@ Estimation of left ventricular mass (LVM) and geometric remodeling provides fund
 
 Measurements must be performed at end-diastole (the frame immediately prior to mitral valve opening or at the onset of the QRS complex).
 
-1. **Linear Cube Formula (ASE / Devereux Formula) ([Fig. 4-11](#fig-04-11)):**
-   $$LVM = 0.8 \cdot \left[1.04 \cdot \left((LVIDd + PWTd + IVSTd)^3 - (LVIDd)^3ight)ight] + 0.6	ext{ g}$$
+1. **Linear Cube Formula (ASE / Devereux Formula) ([Fig. 4.1.11](#fig-04-11)):**
+   $$LVM = 0.8 \cdot \left[1.04 \cdot \left((LVIDd + PWTd + IVSTd)^3 - (LVIDd)^3
+ight)
+ight] + 0.6	ext{ g}$$
    where $LVIDd$, $PWTd$, and $IVSTd$ represent LV internal diameter, posterior wall thickness, and interventricular septal thickness in diastole.
    * *Advantages:* Rapid, widely accessible, robust prognostic validation.
    * *Limitations:* Assumes a prolate ellipsoid geometry with a 2:1 long-to-short axis ratio; errors are cubed, magnifying minor measurement inaccuracies.
-2. **2D Truncated Ellipsoid (TE) & Area-Length (AL) Formulas ([Fig. 4-12](#fig-04-12)):**
+2. **2D Truncated Ellipsoid (TE) & Area-Length (AL) Formulas ([Fig. 4.1.12](#fig-04-12)):**
    * *Truncated Ellipsoid:*
-     $$LVM_{	ext{TE}} = 1.05 \cdot \left\{(b+t)^2 \cdot \left[rac{2}{3}(a+t) + d - rac{d^3}{3(a+t)^2}ight] - b^2 \cdot \left[rac{2}{3}a + d - rac{d^3}{3a^2}ight]ight\}$$
+     $$LVM_{	ext{TE}} = 1.05 \cdot \left\{(b+t)^2 \cdot \left[rac{2}{3}(a+t) + d - rac{d^3}{3(a+t)^2}
+ight] - b^2 \cdot \left[rac{2}{3}a + d - rac{d^3}{3a^2}
+ight]
+ight\}$$
    * *Area-Length Method:*
-     $$LVM_{	ext{AL}} = 1.05 \cdot \left\{\left[rac{5}{6} A_1 (a + d + t)ight] - \left[rac{5}{6} A_2 (a + d)ight]ight\}$$
+     $$LVM_{	ext{AL}} = 1.05 \cdot \left\{\left[rac{5}{6} A_1 (a + d + t)
+ight] - \left[rac{5}{6} A_2 (a + d)
+ight]
+ight\}$$
      where $A_1$ is epicardial area, $A_2$ is endocardial area, $a$ is semi-major axis, $d$ is truncated length, and $t$ is wall thickness.
-3. **3D Matrix Echocardiography Mass Estimation ([Fig. 4-13](#fig-04-13)):**
+3. **3D Matrix Echocardiography Mass Estimation ([Fig. 4.1.13](#fig-04-13)):**
    $$LVM = (LV_{	ext{epicardial volume}} - LV_{	ext{endocardial volume}}) 	imes 1.05	ext{ g/mL}$$
    * Directly quantifies total myocardial shell volume without geometrical assumptions. Recommended in asymmetrical hypertrophy (HCM) or regionally distorted ventricles.
 
-<span id="fig-04-11"></span>![](fig-04-11.jpg)
+<figure class="med-figure" id="fig-04-11">
+  <img src="images/fig-04-11.jpg" alt="Fig. 4.1.11: 2D-guided linear measurements for LV mass estimation (interventricular septum, LV internal diameter, poster" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.11: 2D-guided linear measurements for LV mass estimation (interventricular septum, LV internal diameter, posterior wall thickness).</figcaption>
+</figure>
 
-**FIGURE 4-11** 2D-guided linear measurements for LV mass estimation (interventricular septum, LV internal diameter, posterior wall thickness).
+<figure class="med-figure" id="fig-04-12">
+  <img src="images/fig-04-12.jpg" alt="Fig. 4.1.12: 2D assessment of LV mass by truncated ellipsoid and area-length methods." class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.12: 2D assessment of LV mass by truncated ellipsoid and area-length methods.</figcaption>
+</figure>
 
-<span id="fig-04-12"></span>![](fig-04-12.jpg)
-
-**FIGURE 4-12** 2D assessment of LV mass by truncated ellipsoid and area-length methods.
-
-<span id="fig-04-13"></span>![](fig-04-13.jpg)
-
-**FIGURE 4-13** Three-dimensional (3D) echocardiographic estimation of LV mass by direct full-volume epicardial and endocardial shell voxelization.
+<figure class="med-figure" id="fig-04-13">
+  <img src="images/fig-04-13.jpg" alt="Fig. 4.1.13: Three-dimensional (3D) echocardiographic estimation of LV mass by direct full-volume epicardial and endocar" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.13: Three-dimensional (3D) echocardiographic estimation of LV mass by direct full-volume epicardial and endocardial shell voxelization.</figcaption>
+</figure>
 
 </div></details>
 
@@ -322,7 +344,7 @@ Measurements must be performed at end-diastole (the frame immediately prior to m
 
 #### Geometry Matrix: Relative Wall Thickness and Hypertrophy Classification</summary><div class="details-content">
 
-Evaluation of LV remodeling requires simultaneous assessment of Left Ventricular Mass Index (LVMI) and **Relative Wall Thickness (RWT)** ([Fig. 4-14](#fig-04-14)):
+Evaluation of LV remodeling requires simultaneous assessment of Left Ventricular Mass Index (LVMI) and **Relative Wall Thickness (RWT)** ([Fig. 4.1.14](#fig-04-14)):
 
 * **Relative Wall Thickness (RWT) Formula:**
   $$RWT = rac{2 	imes PWTd}{LVIDd}$$
@@ -332,9 +354,10 @@ Evaluation of LV remodeling requires simultaneous assessment of Left Ventricular
   3. **Eccentric Hypertrophy:** Increased LVMI ($> 115	ext{ g/m}^2$ in men, $> 95	ext{ g/m}^2$ in women) and normal $RWT \le 0.42$. Typical of volume overload (mitral regurgitation, aortic regurgitation, endurance athletes).
   4. **Concentric Hypertrophy:** Increased LVMI and increased $RWT > 0.42$. Typical of pressure overload (systemic arterial hypertension, aortic stenosis, hypertrophic cardiomyopathy); carries the highest risk of adverse cardiovascular events.
 
-<span id="fig-04-14"></span>![](fig-04-14.jpg)
-
-**FIGURE 4-14** The four classic geometric patterns of the left ventricle classified according to Left Ventricular Mass Index (LVMI) and Relative Wall Thickness (RWT).
+<figure class="med-figure" id="fig-04-14">
+  <img src="images/fig-04-14.jpg" alt="Fig. 4.1.14: The four classic geometric patterns of the left ventricle classified according to Left Ventricular Mass Ind" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.14: The four classic geometric patterns of the left ventricle classified according to Left Ventricular Mass Index (LVMI) and Relative Wall Thickness (RWT).</figcaption>
+</figure>
 
 </div></details>
 
@@ -350,21 +373,23 @@ Left atrial enlargement is a robust chronical barometer of LV filling pressures 
 
 #### Linear Dimensions & 2D Area</summary><div class="details-content">
 
-* **M-Mode Anteroposterior Diameter ([Fig. 4-15](#fig-04-15)):**
+* **M-Mode Anteroposterior Diameter ([Fig. 4.1.15](#fig-04-15)):**
   * Measured from the parasternal long-axis view at the level of the aortic sinuses, perpendicular to the aortic root, using the leading-edge to leading-edge convention at end-systole.
   * *Limitations:* Because the left atrium enlarges asymmetrically (constrained by the thoracic spine and aorta), linear AP diameter frequently underestimates true chamber enlargement.
-* **2D-Guided Linear Dimension ([Fig. 4-16](#fig-04-16)):**
+* **2D-Guided Linear Dimension ([Fig. 4.1.16](#fig-04-16)):**
   * Measured directly on 2D frozen frames at end-systole perpendicular to the posterior LA wall.
 * **2D Planimetric Area:**
   * Traced in the apical 4-chamber view at end-systole (frame immediately prior to mitral valve opening), excluding the area beneath the mitral annulus and the pulmonary vein ostia ([Fig. 4-17A](#fig-04-17)).
 
-<span id="fig-04-15"></span>![](fig-04-15.jpg)
+<figure class="med-figure" id="fig-04-15">
+  <img src="images/fig-04-15.jpg" alt="Fig. 4.1.15: M-mode tracing for left atrial anteroposterior diameter measurement across the aortic root in the parastern" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.15: M-mode tracing for left atrial anteroposterior diameter measurement across the aortic root in the parasternal long-axis view.</figcaption>
+</figure>
 
-**FIGURE 4-15** M-mode tracing for left atrial anteroposterior diameter measurement across the aortic root in the parasternal long-axis view.
-
-<span id="fig-04-16"></span>![](fig-04-16.jpg)
-
-**FIGURE 4-16** 2D-guided linear left atrial anteroposterior dimension measured in the parasternal long-axis view at ventricular end-systole.
+<figure class="med-figure" id="fig-04-16">
+  <img src="images/fig-04-16.jpg" alt="Fig. 4.1.16: 2D-guided linear left atrial anteroposterior dimension measured in the parasternal long-axis view at ventri" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.16: 2D-guided linear left atrial anteroposterior dimension measured in the parasternal long-axis view at ventricular end-systole.</figcaption>
+</figure>
 
 </div></details>
 
@@ -372,20 +397,20 @@ Left atrial enlargement is a robust chronical barometer of LV filling pressures 
 
 #### 2D & 3D Volumetry Protocols</summary><div class="details-content">
 
-* **Volumetric Planimetry Rules ([Fig. 4-17](#fig-04-17) and [Fig. 4-18](#fig-04-18)):**
+* **Volumetric Planimetry Rules ([Fig. 4.1.17](#fig-04-17) and [Fig. 4.1.18](#fig-04-18)):**
   * Performed at end-systole on the frame immediately prior to mitral valve opening.
   * Acquire dedicated non-foreshortened LA views in apical 4-chamber and 2-chamber views.
   * Trace the inner border of the LA endocardium, excluding the confluence of pulmonary veins and the left atrial appendage.
   * Connect the mitral hinge points with a straight line.
   * The LA length ($L$) is defined as the shorter of the two long axes measured from the midpoint of the annular closure line to the superior roof.
 * **Planimetric Methods:**
-  1. **Biplane Method of Discs (Modified Simpson's Rule) ([Fig. 4-18](#fig-04-18)):**
+  1. **Biplane Method of Discs (Modified Simpson's Rule) ([Fig. 4.1.18](#fig-04-18)):**
      * The recommended EACVI clinical standard.
      * Divides the atrium into orthogonal discs, accounting for asymmetrical chamber geometry.
-  2. **Area-Length Method ([Fig. 4-17](#fig-04-17)):**
+  2. **Area-Length Method ([Fig. 4.1.17](#fig-04-17)):**
      $$V_{	ext{LA}} = rac{8}{3\pi} \cdot rac{A_1 \cdot A_2}{L}$$
      where $A_1$ is 4CV area, $A_2$ is 2CV area, and $L$ is the shortest long axis.
-  3. **3D Matrix Echocardiography ([Fig. 4-19](#fig-04-19)):**
+  3. **3D Matrix Echocardiography ([Fig. 4.1.19](#fig-04-19)):**
      * Multi-beat full-volume acquisition centered on the left atrium.
      * Measures true volume without geometric assumptions; consistently reports volumes $10	ext{–}15\%$ larger than unenhanced 2D echocardiography.
 * **BSA Indexing & Cut-Offs:**
@@ -393,17 +418,20 @@ Left atrial enlargement is a robust chronical barometer of LV filling pressures 
   * **Upper Limit of Normal:** $34	ext{ mL/m}^2$ for both men and women.
   * *Severity Grading:* Mild enlargement $35	ext{–}41	ext{ mL/m}^2$; Moderate enlargement $42	ext{–}48	ext{ mL/m}^2$; Severe enlargement $> 48	ext{ mL/m}^2$ (see [Table 4-1](#table-04-01) and [Table 4-2](#table-04-02)).
 
-<span id="fig-04-17"></span>![](fig-04-17.jpg)
+<figure class="med-figure" id="fig-04-17">
+  <img src="images/fig-04-17.jpg" alt="Fig. 4.1.17: Left atrial endocardial tracings in apical 4-chamber (**A**) and 2-chamber (**B**) views for area and volum" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.17: Left atrial endocardial tracings in apical 4-chamber (**A**) and 2-chamber (**B**) views for area and volume quantification.</figcaption>
+</figure>
 
-**FIGURE 4-17** Left atrial endocardial tracings in apical 4-chamber (**A**) and 2-chamber (**B**) views for area and volume quantification.
+<figure class="med-figure" id="fig-04-18">
+  <img src="images/fig-04-18.jpg" alt="Fig. 4.1.18: Biplane method of discs summation for left atrial volume determination in apical 4-chamber and 2-chamber vi" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.18: Biplane method of discs summation for left atrial volume determination in apical 4-chamber and 2-chamber views.</figcaption>
+</figure>
 
-<span id="fig-04-18"></span>![](fig-04-18.jpg)
-
-**FIGURE 4-18** Biplane method of discs summation for left atrial volume determination in apical 4-chamber and 2-chamber views.
-
-<span id="fig-04-19"></span>![](fig-04-19.jpg)
-
-**FIGURE 4-19** Three-dimensional (3D) full-volume echocardiographic dataset centered on the left atrium for automated volumetric rendering.
+<figure class="med-figure" id="fig-04-19">
+  <img src="images/fig-04-19.jpg" alt="Fig. 4.1.19: Three-dimensional (3D) full-volume echocardiographic dataset centered on the left atrium for automated volu" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.19: Three-dimensional (3D) full-volume echocardiographic dataset centered on the left atrium for automated volumetric rendering.</figcaption>
+</figure>
 
 </div></details>
 
@@ -437,21 +465,22 @@ Comprehensive interrogation of the aortic root is critical in the evaluation of 
 #### Anatomy and Geometry of the Aortic Root</summary><div class="details-content">
 
 * **Anatomical Components:**
-  * The aortic root extends from the basal attachments of the aortic valve leaflets within the LVOT to the sinotubular junction ([Fig. 4-20](#fig-04-20)).
+  * The aortic root extends from the basal attachments of the aortic valve leaflets within the LVOT to the sinotubular junction ([Fig. 4.1.20](#fig-04-20)).
   * Structures include:
     1. Aortic valve annulus.
     2. Inter-leaflet triangles.
     3. Three semilunar aortic leaflets (left, right, and non-coronary) and their cusp attachment lines.
     4. Three aortic sinuses of Valsalva.
     5. Sinotubular junction (STJ).
-* **Crown Shape & Virtual Ring ([Fig. 4-20](#fig-04-20)):**
+* **Crown Shape & Virtual Ring ([Fig. 4.1.20](#fig-04-20)):**
   * The aortic annulus is not a distinct fibrous circular ring; rather, it possesses a scalloped 3D crown shape.
   * *Virtual Basal Ring:* Defined by connecting the three nadirs of the semilunar leaflet attachments in the basal LVOT.
   * *Elliptical Geometry:* The annulus is elliptical rather than circular, having a larger medial-lateral diameter and a smaller anterior-posterior diameter. 2D TTE PTLAX and TOE long-axis views measure the smaller anterior-posterior diameter (minor axis).
 
-<span id="fig-04-20"></span>![](fig-04-20.jpg)
-
-**FIGURE 4-20** Three-dimensional anatomical schematic showing the scalloped crown shape of the aortic annulus, virtual basal annular ring, and sinotubular junction.
+<figure class="med-figure" id="fig-04-20">
+  <img src="images/fig-04-20.jpg" alt="Fig. 4.1.20: Three-dimensional anatomical schematic showing the scalloped crown shape of the aortic annulus, virtual bas" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.20: Three-dimensional anatomical schematic showing the scalloped crown shape of the aortic annulus, virtual basal annular ring, and sinotubular junction.</figcaption>
+</figure>
 
 </div></details>
 
@@ -459,11 +488,11 @@ Comprehensive interrogation of the aortic root is critical in the evaluation of 
 
 #### Aortic Annulus & Root Measurement Protocols</summary><div class="details-content">
 
-* **Aortic Annulus Measurement Protocol ([Fig. 4-21](#fig-04-21)):**
+* **Aortic Annulus Measurement Protocol ([Fig. 4.1.21](#fig-04-21)):**
   * **Timing:** Performed strictly in **mid-systole**, when the annulus reaches its maximal dimensions and is roundest.
   * **View & Zoom:** Parasternal long-axis view using high-resolution zoom mode centered on the LVOT/aortic root.
   * **Caliper Placement:** Measured from **inner edge to inner edge** between the hinge points of the aortic leaflets (typically from the basal attachment of the non-coronary cusp to the right coronary cusp).
-* **Sinuses of Valsalva, STJ, and Ascending Aorta Protocol ([Fig. 4-22](#fig-04-22)):**
+* **Sinuses of Valsalva, STJ, and Ascending Aorta Protocol ([Fig. 4.1.22](#fig-04-22)):**
   * **Timing:** Performed strictly at **end-diastole** (onset of QRS complex).
   * **Alignment:** Strictly perpendicular to the long axis of the aorta.
   * **Caliper Convention:** Measured from **leading edge to leading edge** (anterior outer border to posterior inner border).
@@ -472,13 +501,15 @@ Comprehensive interrogation of the aortic root is critical in the evaluation of 
     2. *Sinotubular Junction (STJ):* Transition between the sinuses and the tubular aorta.
     3. *Proximal Ascending Aorta:* Measured $2	ext{–}3	ext{ cm}$ above the sinotubular junction.
 
-<span id="fig-04-21"></span>![](fig-04-21.jpg)
+<figure class="med-figure" id="fig-04-21">
+  <img src="images/fig-04-21.jpg" alt="Fig. 4.1.21: Measurement of the aortic valve annulus in mid-systole from inner edge to inner edge at the leaflet hinge p" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.21: Measurement of the aortic valve annulus in mid-systole from inner edge to inner edge at the leaflet hinge points.</figcaption>
+</figure>
 
-**FIGURE 4-21** Measurement of the aortic valve annulus in mid-systole from inner edge to inner edge at the leaflet hinge points.
-
-<span id="fig-04-22"></span>![](fig-04-22.jpg)
-
-**FIGURE 4-22** End-diastolic leading-edge to leading-edge measurement of aortic root levels: (1) maximal sinuses of Valsalva diameter; (2) sinotubular junction; (3) proximal tubular ascending aorta.
+<figure class="med-figure" id="fig-04-22">
+  <img src="images/fig-04-22.jpg" alt="Fig. 4.1.22: End-diastolic leading-edge to leading-edge measurement of aortic root levels: (1) maximal sinuses of Valsal" class="med-image" loading="lazy" />
+  <figcaption class="med-caption">Fig. 4.1.22: End-diastolic leading-edge to leading-edge measurement of aortic root levels: (1) maximal sinuses of Valsalva diameter; (2) sinotubular junction; (3) proximal tubular ascending aorta.</figcaption>
+</figure>
 
 </div></details>
 
